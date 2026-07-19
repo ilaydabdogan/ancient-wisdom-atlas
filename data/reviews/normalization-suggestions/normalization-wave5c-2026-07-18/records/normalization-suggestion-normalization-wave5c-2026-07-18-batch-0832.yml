@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0832
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fire-bearing-divine-vehicle-beyond-mortal-control
+  motif_id: fire_bearing_divine_vehicle_beyond_mortal_control
+  label: fire-bearing divine vehicle beyond mortal control
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve sacred fire, divine vehicle, solar chariot, or failed mortal
+    control; function is unclear from label alone.
+  cautions: Single occurrence and likely episode-specific; avoid flattening vehicle-control
+    narrative into generic sacred fire without source evidence.
+  suggested_aliases:
+  - divine_fire_vehicle_beyond_mortal_control
+  - uncontrolled_fire_bearing_divine_vehicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-circle-rite-ending-mourning
+  motif_id: fire_circle_rite_ending_mourning
+  label: fire-circle rite ending mourning
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The ritual function is ending or transforming mourning, so mourning is
+    the primary motif field.
+  cautions: Fire-circle details may be culturally specific; secondary relation to
+    sacred_fire or sacred_law may be warranted if the rite centers on purification
+    or taboo closure.
+  suggested_aliases:
+  - mourning_ended_by_fire_circle_rite
+  - fire_circle_mourning_closure_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-directed-prayer-to-a-star
+  motif_id: fire_directed_prayer_to_a_star
+  label: Fire-directed prayer to a star
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fire mediates a prayer toward a celestial sacred power, fitting sacred
+    fire as ritual medium.
+  cautions: If the star is the main divine recipient or omen source, theophany, prophecy_divination,
+    or sacred_time may be secondary; preserve San-specific ritual context.
+  suggested_aliases:
+  - fire_mediated_prayer_to_star
+  - prayer_to_star_through_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-established-on-sacred-mountains
+  motif_id: fire_established_on_sacred_mountains
+  label: Fire established on sacred mountains
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label directly concerns sacred fire established in a holy elevated
+    setting.
+  cautions: Also relates to axis_mundi/cosmic_mountain because the mountain setting
+    may be central in the source; do not treat as world-destroying fire.
+  suggested_aliases:
+  - sacred_fire_on_mountain
+  - fire_established_on_holy_mountains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-god-and-divine-metalworker
+  motif_id: fire_god_and_divine_metalworker
+  label: Fire god and divine metalworker
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: role_variant
+  confidence: high
+  rationale: The metalworking role emphasizes divine craft, forging, and manufactured
+    sacred objects more than fire symbolism alone.
+  cautions: May also index under sacred_fire when the passage stresses the deity's
+    fiery nature rather than craft function.
+  suggested_aliases:
+  - divine_metalworker_fire_god
+  - fire_deity_as_sacred_craftsman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-halted-at-a-sacred-or-karmically-protected-boundary
+  motif_id: fire_halted_at_a_sacred_or_karmically_protected_boundary
+  label: fire halted at a sacred or karmically protected boundary
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A destructive force stopped by karmic or sacred protection points to
+    moral order restraining harm.
+  cautions: Could instead fit sacred_law or apotropaic boundary practice if the source
+    emphasizes ritual protection rather than karmic consequence.
+  suggested_aliases:
+  - destructive_fire_stopped_at_sacred_boundary
+  - fire_checked_by_karmic_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-handling-as-ritual-specialist-display
+  motif_id: fire_handling_as_ritual_specialist_display
+  label: fire-handling as ritual specialist display
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a ritual performance, ordeal, specialist role,
+    or ethnographic observation rather than a stable mythic motif.
+  cautions: Culturally sensitive and single-occurrence; verify source evidence before
+    mapping to sacred_fire, initiation, or sacred_law.
+  suggested_aliases:
+  - ritual_specialist_fire_handling
+  - fire_handling_ritual_display
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-like-radiance-of-a-divine-or-nymph-like-figure
+  motif_id: fire_like_radiance_of_a_divine_or_nymph_like_figure
+  label: fire-like radiance of a divine or nymph-like figure
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Radiance marks visible divine or numinous manifestation rather than ritual
+    fire use.
+  cautions: May be only descriptive imagery; if no revelatory encounter occurs, treat
+    as evidence detail rather than a query motif.
+  suggested_aliases:
+  - fiery_radiance_of_divine_figure
+  - fire_like_divine_radiance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-ordeal-or-sacred-fire-handling
+  motif_id: fire_ordeal_or_sacred_fire_handling
+  label: Fire ordeal or sacred fire handling
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A fire ordeal functions as a ritualized test or transformative display
+    involving danger and sacred status.
+  cautions: If the passage is primarily an exhibition without status transformation,
+    sacred_fire or sacred_law may be better; source context is needed.
+  suggested_aliases:
+  - sacred_fire_ordeal
+  - ritual_fire_handling_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-related-ritual-exhibition-and-flaming-brand-chase
+  motif_id: fire_related_ritual_exhibition_and_flaming_brand_chase
+  label: fire-related ritual exhibition and flaming-brand chase
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be a composite, event-specific ritual-performance label
+    rather than a broad motif.
+  cautions: Review cultural and source context; may split into sacred_fire, initiation,
+    or ritualized chase/performance, or be retained only as evidence detail.
+  suggested_aliases:
+  - flaming_brand_chase_ritual_exhibition
+  - fire_ritual_exhibition_with_brand_chase
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'Several labels center on fire but differ by function: ritual medium, ordeal, divine
+  radiance, craft, boundary protection, or episode-specific vehicle imagery.'
+- Single-occurrence Native American Southwest ritual-performance labels should receive
+  human review before broad indexing due to cultural specificity and possible ethnographic
+  artifact wording.
+- Do not map these automatically to world-destroying fire; none clearly describes
+  cosmic destruction and renewal.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    ritual fire labels and over-specific Roman episode labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0832
+  input_sha256: 7c79cc013af445de452d5a21e76f1ad857db3961ec1d6acafa456bc5e1f0995d
+

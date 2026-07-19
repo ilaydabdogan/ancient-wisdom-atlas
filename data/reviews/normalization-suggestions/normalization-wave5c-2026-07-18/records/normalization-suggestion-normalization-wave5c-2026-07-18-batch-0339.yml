@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0339
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-destruction-or-removal-of-property-after-death
+  motif_id: ritual_destruction_or_removal_of_property_after_death
+  label: Ritual destruction or removal of property after death
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: low
+  rationale: Postmortem handling of property may be mortuary care for the dead or
+    separation of death pollution, fitting ancestor/death rites broadly.
+  cautions: Single occurrence and culturally specific; verify whether destruction/removal
+    is for ancestor care, pollution avoidance, inheritance, or passage-specific ethnographic
+    detail.
+  suggested_aliases:
+  - mortuary_disposal_of_property
+  - postmortem_removal_of_property
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-diagnosis-determines-burial-rite
+  motif_id: ritual_diagnosis_determines_burial_rite
+  label: ritual diagnosis determines burial rite
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label concerns choosing or determining a burial rite, broadly within
+    funerary rites rather than afterlife travel.
+  cautions: Not necessarily heroic; may need a broader mortuary-rites group if many
+    non-heroic burial regulation labels recur. Source evidence needed for ritual diagnosis
+    function.
+  suggested_aliases:
+  - diagnosis_determines_burial_practice
+  - ritual_selection_of_burial_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-disposal-of-animal-parts-after-spouse-s-death
+  motif_id: ritual_disposal_of_animal_parts_after_spouse_s_death
+  label: ritual disposal of animal parts after spouse's death
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: low
+  rationale: A post-spousal-death ritual disposal practice belongs broadly with mortuary
+    relations between living and dead.
+  cautions: Highly specific and culturally sensitive; may be mourning, taboo, pollution
+    management, hunting/animal-soul etiquette, or passage artifact rather than a general
+    motif.
+  suggested_aliases:
+  - postmortem_disposal_of_animal_parts
+  - widowhood_or_spousal_death_disposal_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-disposal-or-burial-of-used-ceremonial-objects
+  motif_id: ritual_disposal_or_burial_of_used_ceremonial_objects
+  label: Ritual disposal or burial of used ceremonial objects
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Used ceremonial objects are sacred or ritually charged items requiring
+    proper disposal, fitting sacred power-object handling.
+  cautions: If tied specifically to death pollution or funerary rites, ancestor_rites
+    or sacred_law may be secondary; preserve disposal/burial details as evidence.
+  suggested_aliases:
+  - ritual_burial_of_ceremonial_objects
+  - ritual_disposal_of_sacred_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-distance-from-spirits-and-ancestors-in-governance
+  motif_id: ritual_distance_from_spirits_and_ancestors_in_governance
+  label: Ritual distance from spirits and ancestors in governance
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label appears to regulate proper social or political conduct toward
+    spirits and ancestors, aligning broadly with sacred law and order.
+  cautions: May be an ethical-philosophical doctrine or commentary artifact rather
+    than a narrative motif; avoid reducing Confucian ritual governance to ancestor
+    rites without source review.
+  suggested_aliases:
+  - ritual_governance_distance_from_spirits
+  - proper_distance_from_ancestors_in_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-dog-traversal-expelling-corpse-contamination
+  motif_id: ritual_dog_traversal_expelling_corpse_contamination
+  label: ritual dog traversal expelling corpse contamination
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rite using a dog to remove corpse contamination is a ritual purity
+    and apotropaic protection practice under sacred law.
+  cautions: Specific Zoroastrian mortuary context should be preserved; could also
+    relate to ancestor_rites if the passage emphasizes care of the dead rather than
+    pollution removal.
+  suggested_aliases:
+  - dog_rite_expels_corpse_pollution
+  - mortuary_dog_rite_against_contamination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-dramatization-of-ancestral-migration
+  motif_id: ritual_dramatization_of_ancestral_migration
+  label: Ritual dramatization of ancestral migration
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritually reenacted ancestral migration may function as an origin or people-foundation
+    narrative.
+  cautions: Could instead be sacred_time, ancestor_rites, pilgrimage, or local ceremonial
+    performance; single occurrence needs source context before indexing as origin.
+  suggested_aliases:
+  - reenactment_of_ancestral_migration
+  - ritualized_ancestral_migration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-dramatization-of-spirit-combat
+  motif_id: ritual_dramatization_of_spirit_combat
+  label: Ritual dramatization of spirit combat
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: low
+  rationale: A ritual performance of combat among spirits fits sacred combat broadly
+    if the combat is the central symbolic action.
+  cautions: May be ceremony description rather than motif; could also fit divine_warrior,
+    exorcistic sacrifice, or spirit-healing depending on whether combat expels, heals,
+    or reenacts myth.
+  suggested_aliases:
+  - ceremonial_spirit_combat
+  - ritual_reenactment_of_spirit_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-drink-leading-to-disorder-and-death
+  motif_id: ritual_drink_leading_to_disorder_and_death
+  label: ritual drink leading to disorder and death
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ritual drink causing disorder and death centers on a sacred or dangerous
+    substance and its transformative effects.
+  cautions: If the emphasis is moral punishment, communal collapse, or sacrifice,
+    divine_judgment or sacrifice may be secondary; avoid generalizing intoxication
+    without passage evidence.
+  suggested_aliases:
+  - dangerous_ritual_drink
+  - ritual_intoxicant_causes_disorder_and_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-ending-of-abstinence-after-death
+  motif_id: ritual_ending_of_abstinence_after_death
+  label: ritual ending of abstinence after death
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ending abstinence after a death appears to mark completion of mourning
+    or mortuary restrictions, fitting ancestor/death rites broadly.
+  cautions: May be a mourning taboo, purification rite, social reintegration, or local
+    ethnographic detail; single occurrence should not be promoted without corroboration.
+  suggested_aliases:
+  - postmortem_end_of_abstinence
+  - mourning_abstinence_ended_by_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence mortuary or ritual-practice details; human
+  review should decide whether to preserve them as evidence notes rather than broad
+  pattern-query motifs.
+- The current groups lack a broad non-heroic mortuary rites group; ancestor_rites
+  and heroic_funeral_rites are used provisionally where burial or post-death restrictions
+  are central.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; culturally specific ritual labels require
+    source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0339
+  input_sha256: 0abec4320ef02ab4a306dbe426169da42e419093796bcd4cc9975621dbf428aa
+

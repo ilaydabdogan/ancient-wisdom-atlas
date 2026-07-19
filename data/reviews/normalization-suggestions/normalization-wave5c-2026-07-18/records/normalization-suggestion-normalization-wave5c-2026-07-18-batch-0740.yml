@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0740
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.delegated-ritual-speech-by-proxy
+  motif_id: delegated_ritual_speech_by_proxy
+  label: delegated ritual speech by proxy
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core function is a ritualized speech act performed through an authorized
+    proxy, fitting performative sacred speech.
+  cautions: Single occurrence; if the emphasis is institutional delegation rather
+    than speech efficacy, sacred_law or exclusion as ritual detail may fit better.
+  suggested_aliases:
+  - ritual_speech_by_proxy
+  - proxy_performed_sacred_speech
+  - delegated_performative_ritual_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deliberate-eliciting-of-a-holy-person-s-power
+  motif_id: deliberate_eliciting_of_a_holy_person_s_power
+  label: deliberate eliciting of a holy person's power
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A holy person's power is being intentionally invoked or drawn out as
+    sacred agency in human affairs.
+  cautions: Could be sacred_exchange if elicited through offering or request, or sacred_knowledge
+    if the power is teaching rather than intervention.
+  suggested_aliases:
+  - eliciting_holy_power
+  - provoking_a_holy_person_s_power
+  - intentional_invocation_of_saintly_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deliberate-taboo-breach-used-as-weather-magic-against-another-person
+  motif_id: deliberate_taboo_breach_used_as_weather_magic_against_another_person
+  label: Deliberate taboo breach used as weather magic against another person
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a taboo-based magical act used coercively against
+    another person, closest to performative curse or binding action.
+  cautions: Culturally sensitive and highly specific; may alternatively fit sacred_law
+    as taboo breach or sacred_exchange/weather-ritual coercion depending on source
+    evidence.
+  suggested_aliases:
+  - taboo_breach_as_weather_curse
+  - weather_magic_by_taboo_violation
+  - ritual_taboo_breach_against_an_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demi-god-hero-in-fairy-involved-romance
+  motif_id: demi_god_hero_in_fairy_involved_romance
+  label: demi-god hero in fairy-involved romance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on romance involving a semi-divine hero and fairy/otherworld
+    participant, fitting sacred or otherworldly love.
+  cautions: If the passage emphasizes the fairy realm more than romance, otherworld
+    should be a secondary or better placement; demigod status alone is not the motif.
+  suggested_aliases:
+  - fairy_involved_romance_with_demigod_hero
+  - otherworldly_romance_of_a_demigod_hero
+  - fairy_romance_with_semi_divine_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demigod-escape-from-olopana
+  motif_id: demigod_escape_from_olopana
+  label: Demigod escape from Olopana
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to be an episode-specific escape from a named figure/place
+    rather than a reusable motif.
+  cautions: If source evidence shows a recurring heroic escape, pursuit, or trickster
+    escape pattern, remap to hero_journey or trickster after human review.
+  suggested_aliases:
+  - demigod_escape_episode
+  - escape_from_olopana
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demiurge-born-from-divine-pair
+  motif_id: demiurge_born_from_divine_pair
+  label: Demiurge born from divine pair
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Birth of a creator or demiurge from a divine pair belongs to cosmogonic
+    origin and generation of world-ordering agency.
+  cautions: Could also relate to sacred_birth or sacred_marriage if the passage focuses
+    on divine parentage or union rather than creation.
+  suggested_aliases:
+  - creator_born_from_divine_pair
+  - demiurge_generated_by_divine_parents
+  - cosmic_creator_birth_from_divine_couple
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-and-verminous-emergence-from-neglected-rites
+  motif_id: demonic_and_verminous_emergence_from_neglected_rites
+  label: Demonic and verminous emergence from neglected rites
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Neglected rites producing demonic or harmful consequences fits moral-ritual
+    reckoning for failure to maintain sacred order.
+  cautions: Could fit sacred_law if framed as purity obligation, or sacrifice if neglected
+    rites are offerings; preserve demon/vermin emergence as local evidence detail.
+  suggested_aliases:
+  - harmful_beings_emerge_from_neglected_rites
+  - ritual_neglect_produces_demonic_harm
+  - demonic_consequence_of_neglected_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-conception-caused-by-bodily-impurity-acts
+  motif_id: demonic_conception_caused_by_bodily_impurity_acts
+  label: Demonic conception caused by bodily impurity acts
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif makes bodily impurity acts causally dangerous, aligning with
+    purity law, taboo, and sacred regulation of the body.
+  cautions: Culturally sensitive and possibly over-specific; if narrative focus is
+    birth of a demonic being, miraculous_child or chaos may be secondary but not primary.
+  suggested_aliases:
+  - demonic_conception_from_impurity
+  - impurity_act_causes_demonic_birth
+  - bodily_impurity_generates_demonic_offspring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-disease-and-sacred-healing
+  motif_id: demonic_disease_and_sacred_healing
+  label: demonic disease and sacred healing
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Disease caused by demonic/spirit forces and addressed through sacred
+    healing fits the existing apotropaic and spirit-contagion cluster under sacred_law.
+  cautions: If the passage emphasizes exorcistic expulsion, sacrifice may be a better
+    secondary mapping; if a deity directly heals, divine_intervention may apply.
+  suggested_aliases:
+  - demonic_illness_and_sacred_healing
+  - spirit_caused_disease_and_ritual_healing
+  - demonic_affliction_healed_by_sacred_means
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-retinue-or-messengers-of-a-high-god
+  motif_id: demonic_retinue_or_messengers_of_a_high_god
+  label: demonic retinue or messengers of a high god
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Demonic attendants or messengers function as agents carrying out a high
+    god's will in the world.
+  cautions: If the label only classifies a deity's entourage without narrative action,
+    it may be too role-descriptive for pattern queries; consider theophany if they
+    manifest divine presence.
+  suggested_aliases:
+  - demonic_messengers_of_high_god
+  - high_god_s_demonic_retinue
+  - demonic_agents_of_a_supreme_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and ritual-ethnographic; preserve local evidence
+  and avoid promoting over-specific labels without recurrence.
+- For demonic/purity labels, final placement should check whether the passage emphasizes
+  sacred law, exorcistic expulsion, divine judgment, or direct divine intervention.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0740
+  input_sha256: 04e18265f64f06b839f73c06fdd49a6611b2dc0280468a585f06cf288b9cd6a2
+

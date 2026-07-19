@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3964
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sleep-followed-by-awakening
+  motif_id: sleep_followed_by_awakening
+  label: sleep followed by awakening
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Too broad to distinguish ordinary sleep, resurrection-like awakening,
+    vision, or narrative transition.
+  cautions: Needs passage evidence before mapping to death_and_transformation, resurrection,
+    dream_and_vision, or exclusion as a scene detail.
+  suggested_aliases:
+  - awakening_after_sleep
+  - sleep_and_awakening
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-induced-abduction-in-a-bag
+  motif_id: sleep_induced_abduction_in_a_bag
+  label: Sleep-induced abduction in a bag
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sleep used to enable abduction and containment suggests deceptive capture
+    or trickster stratagem.
+  cautions: Bag detail may be over-specific; if abduction leads to an enchanted realm,
+    otherworld may be a secondary review option.
+  suggested_aliases:
+  - sleep_induced_abduction_or_carrying_away
+  - sleep_induced_capture
+  - abduction_of_sleeping_victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-induced-abduction-or-carrying-away
+  motif_id: sleep_induced_abduction_or_carrying_away
+  label: sleep-induced abduction or carrying away
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is capture or removal made possible by induced sleep,
+    a deceptive stratagem.
+  cautions: Could instead fit otherworld or threshold_guardian if the carrying away
+    crosses into a supernatural realm.
+  suggested_aliases:
+  - sleep_induced_capture
+  - sleep_induced_abduction_in_a_bag
+  - abduction_of_sleeping_victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-induced-capture
+  motif_id: sleep_induced_capture
+  label: sleep-induced capture
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Inducing sleep to capture someone is a deception/capture tactic aligned
+    with trickster stratagems.
+  cautions: If sleep is magical music or divine intervention, consider enchanting_music
+    or divine_intervention as secondary mappings.
+  suggested_aliases:
+  - sleep_induced_abduction_or_carrying_away
+  - sleep_induced_abduction_in_a_bag
+  - capture_by_induced_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-of-captors-preceding-escape
+  motif_id: sleep_of_captors_preceding_escape
+  label: Sleep of captors preceding escape
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Escape enabled by captors' sleep functions as evasion or reversal through
+    liminal opportunity.
+  cautions: May be an ordinary plot device unless sleep is magically induced or ritually
+    meaningful.
+  suggested_aliases:
+  - sleeping_guard_permits_escape
+  - escape_while_captors_sleep
+  - captors_sleep_enables_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-overcomes-the-tired-speaker
+  motif_id: sleep_overcomes_the_tired_speaker
+  label: sleep overcomes the tired speaker
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Reads like a passage-level scene or framing detail rather than a reusable
+    symbolic motif.
+  cautions: If sleep interrupts sacred teaching, meditation, or revelation in the
+    passage, review under sacred_knowledge or mystical_quest instead.
+  suggested_aliases:
+  - speaker_falls_asleep_from_fatigue
+  - tired_speaker_overcome_by_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-guard-permits-escape
+  motif_id: sleeping_guard_permits_escape
+  label: sleeping guard permits escape
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sleeping guard enabling escape is an evasion of a boundary or capture
+    situation.
+  cautions: Could be too generic unless the guard marks a threshold or the sleep is
+    supernatural/deceptively caused.
+  suggested_aliases:
+  - sleep_of_captors_preceding_escape
+  - escape_while_guard_sleeps
+  - sleeping_custodian_enables_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-helper-sabotaged-by-rival-and-rescued-by-another-helper
+  motif_id: sleeping_helper_sabotaged_by_rival_and_rescued_by_another_helper
+  label: sleeping helper sabotaged by rival and rescued by another helper
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Composite episode-level label with several plot beats rather than a stable
+    broad motif.
+  cautions: If recurring, split evidence into helper rivalry, sabotage, rescue, or
+    sleep-vulnerability motifs; current taxonomy has no clean single placement.
+  suggested_aliases:
+  - sleeping_helper_sabotaged
+  - rival_sabotages_sleeping_helper
+  - helper_rescued_after_sabotage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-helpers-awakened-by-violent-signals
+  motif_id: sleeping_helpers_awakened_by_violent_signals
+  label: sleeping helpers awakened by violent signals
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be helper-summoning, battle alarm, magical awakening, or a local
+    plot device.
+  cautions: Needs source context before mapping to divine_intervention, sacred_combat,
+    storytelling_as_power, or exclusion as over-specific.
+  suggested_aliases:
+  - violent_signal_awakens_helpers
+  - helpers_awakened_by_alarm
+  - sleeping_helpers_summoned_by_violent_signals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-princess-carried-away-for-menial-labor
+  motif_id: sleeping_princess_carried_away_for_menial_labor
+  label: sleeping princess carried away for menial labor
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: Highly contextual abduction/status-reversal episode; no existing group
+    captures the full function cleanly.
+  cautions: Could involve trickster abduction, hidden identity, royal humiliation,
+    or servitude ordeal depending on passage evidence.
+  suggested_aliases:
+  - sleeping_royal_abducted_for_servitude
+  - princess_carried_away_while_sleeping
+  - royal_status_reduced_to_menial_labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels share a sleep-enabled capture/escape pattern; human reviewers may
+  consider whether a future narrow alias under trickster or threshold escape is useful
+  if recurrence increases.
+- Avoid treating sleep as death/rebirth or dream/vision unless the source evidence
+  gives sleep symbolic, visionary, or resurrection-like force.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; many items are single-occurrence and require
+    passage evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3964
+  input_sha256: 0b4ecf00513a77a9a4603d1d7a0642fe36efaa44f7e2dd0a60ff5e386952a441
+

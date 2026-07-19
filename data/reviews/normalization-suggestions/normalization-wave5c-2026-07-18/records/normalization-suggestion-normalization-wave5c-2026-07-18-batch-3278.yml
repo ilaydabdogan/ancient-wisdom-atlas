@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3278
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.concealed-nocturnal-killing-by-a-hired-outsider
+  motif_id: concealed_nocturnal_killing_by_a_hired_outsider
+  label: concealed nocturnal killing by a hired outsider
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a specific killing tactic, but the narrative function
+    is unclear without passage evidence.
+  cautions: Could be betrayal, sacred combat, divine judgment, or merely an episode-specific
+    crime detail; single occurrence argues against direct promotion.
+  suggested_aliases:
+  - hired outsider performs concealed night killing
+  - secret nocturnal assassination by outsider
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-object-guessing-for-stakes
+  motif_id: concealed_object_guessing_for_stakes
+  label: concealed-object guessing for stakes
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A wagering guessing game may be ordeal, divination, contest, or local
+    game motif depending on context.
+  cautions: Do not map to prophecy_divination unless hidden knowledge or sacred method
+    is explicit; may be a culturally specific game episode.
+  suggested_aliases:
+  - hidden-object guessing contest
+  - concealed-object wagering game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - sacred_combat
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-object-guessing-game
+  motif_id: concealed_object_guessing_game
+  label: concealed-object guessing game
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a game or contest but does not show whether it functions
+    ritually, divinatorily, or narratively.
+  cautions: Could merge with concealed_object_guessing_for_stakes if evidence shows
+    the same game pattern; avoid treating all guessing games as divination.
+  suggested_aliases:
+  - hidden-object guessing game
+  - concealed object game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - sacred_combat
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-observance-before-outsiders
+  motif_id: concealed_observance_before_outsiders
+  label: Concealed observance before outsiders
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Concealing an observance may involve sacred law, secrecy, or cultural
+    boundary maintenance, but the ritual function is not specified.
+  cautions: Culturally sensitive; source evidence is needed before indexing as secrecy,
+    taboo, ritual prohibition, or colonial-contact response.
+  suggested_aliases:
+  - hidden ritual observance before outsiders
+  - concealed sacred practice from outsiders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_knowledge
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-offence-followed-by-confession-probation-and-possible-rehabilitation
+  motif_id: concealed_offence_followed_by_confession_probation_and_possible_rehabilitation
+  label: concealed offence followed by confession, probation, and possible rehabilitation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: 'The sequence concerns moral or monastic discipline: hidden wrongdoing,
+    confession, probation, and restoration to ordered community.'
+  cautions: May be too procedural or vinaya-specific for broad motif queries; divine_judgment
+    may be secondary if karmic or sacred reckoning is emphasized.
+  suggested_aliases:
+  - concealed offence confessed and rehabilitated
+  - confession and probation after hidden transgression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-or-disputed-paternity
+  motif_id: concealed_or_disputed_paternity
+  label: concealed or disputed paternity
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Disputed paternity may affect lineage, identity, birth status, or legitimacy,
+    but the label lacks narrative function.
+  cautions: Could fit miraculous_child, royal_legitimacy, recognition_tokens_hidden_identity,
+    or family-conflict evidence; review cultural context carefully.
+  suggested_aliases:
+  - hidden paternity
+  - paternity dispute
+  - uncertain fatherhood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - royal_legitimacy
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-payment-for-advocacy
+  motif_id: concealed_payment_for_advocacy
+  label: concealed payment for advocacy
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Secret compensation for advocacy suggests compromised loyalty and a broken
+    trust relationship.
+  cautions: If the passage frames payment as lawful compensation or feud settlement
+    rather than deception, covenant or sacred_exchange may fit better.
+  suggested_aliases:
+  - secret payment for advocacy
+  - hidden reward for speaking on another's behalf
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-pregnancy-leading-to-infant-exposure
+  motif_id: concealed_pregnancy_leading_to_infant_exposure
+  label: concealed pregnancy leading to infant exposure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: narrower_than
+  confidence: medium
+  rationale: Concealed pregnancy and exposure of an infant align with threatened or
+    hidden infancy within the sacred-birth/child complex.
+  cautions: Only use this mapping if the exposed child becomes narratively significant;
+    otherwise it may be an episode-specific family or social shame detail.
+  suggested_aliases:
+  - hidden pregnancy and exposed infant
+  - concealed birth followed by infant abandonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-pursuit-of-a-quarry-from-dwelling-to-hunting-place
+  motif_id: concealed_pursuit_of_a_quarry_from_dwelling_to_hunting_place
+  label: Concealed pursuit of a quarry from dwelling to hunting place
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes stealthy pursuit, but the quarry and narrative purpose
+    are not clear.
+  cautions: Could be hunting episode, trickster stalking, predation, initiation ordeal,
+    or passage-specific plot detail; avoid broad mapping without source context.
+  suggested_aliases:
+  - secret pursuit from home to hunting place
+  - concealed stalking of quarry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - initiation
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-regalia-prevents-seizure
+  motif_id: concealed_regalia_prevents_seizure
+  label: Concealed regalia prevents seizure
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Regalia function as valued power or status objects, and concealment protects
+    them from seizure.
+  cautions: Could also involve royal_legitimacy or sacred_law if regalia authorize
+    office or are governed by ritual ownership; preserve local specificity.
+  suggested_aliases:
+  - hidden regalia prevents confiscation
+  - concealed ceremonial regalia protects status objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and begin with 'concealed', but concealment
+  alone is not a stable motif function; most need source review before broad mapping.
+- The two concealed-object guessing labels may represent the same game complex, but
+  the request does not provide enough evidence to propose a new canonical group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual/game labels need
+    human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3278
+  input_sha256: a1ccf55cb8bbdfb584b7821c1bf8ee28b91b9ceda1cf8a7ce5d453e94140ca10
+

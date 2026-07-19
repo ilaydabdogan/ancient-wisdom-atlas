@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1257
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.battle-prophecy-in-verse
+  motif_id: battle_prophecy_in_verse
+  label: battle prophecy in verse
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is prophetic foretelling in a battle context; verse
+    is the expressive medium.
+  cautions: Could also relate to sacred_combat or curse_blessing_speech if the verse
+    functions as boast, spell, or binding speech rather than prophecy.
+  suggested_aliases:
+  - verse_prophecy_before_battle
+  - prophetic_battle_verse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-song-of-courage-and-non-flight
+  motif_id: battle_song_of_courage_and_non_flight
+  label: Battle song of courage and non-flight
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A battle song exhorting courage and refusal to flee functions within
+    ritualized warfare and martial conduct.
+  cautions: If the song itself has supernatural sound power, enchanting_music may
+    be a secondary mapping; if it is only an episode-specific lyric, preserve as evidence
+    detail.
+  suggested_aliases:
+  - battle_song_exhorting_courage
+  - war_song_against_flight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-songs-invoking-magical-weapons-and-powers
+  motif_id: battle_songs_invoking_magical_weapons_and_powers
+  label: battle songs invoking magical weapons and powers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Songs invoke or activate supernatural powers in battle, fitting sound
+    as operative sacred force.
+  cautions: May also support sacred_treasures for magical weapons or sacred_combat
+    for battle setting; source evidence should determine primary emphasis.
+  suggested_aliases:
+  - war_songs_invoking_magical_weapons
+  - battle_song_activates_supernatural_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-victory-commemorated-through-song
+  motif_id: battle_victory_commemorated_through_song
+  label: Battle victory commemorated through song
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Song preserves and transmits a victory as communal memory and narrative
+    commemoration.
+  cautions: Could be sacred_combat if indexed for the battle event; exclude if merely
+    a title or catalog note rather than a performed memorial motif.
+  suggested_aliases:
+  - victory_song_commemoration
+  - battle_victory_remembered_in_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-blood-creates-a-place-name
+  motif_id: battlefield_blood_creates_a_place_name
+  label: battlefield blood creates a place-name
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The taxonomy already groups place-name etiologies from violent events
+    under cosmic_origin.
+  cautions: The battlefield blood detail should remain granular evidence; do not infer
+    broader creation myth unless landscape or naming etiology is explicit.
+  suggested_aliases:
+  - place_name_etiology_from_battlefield_blood
+  - battle_blood_place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-named-after-the-central-fighter
+  motif_id: battlefield_named_after_the_central_fighter
+  label: battlefield named after the central fighter
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: This is a toponymic naming etiology, already represented by heroic-event
+    and violent-event place-name children.
+  cautions: If it is only an editorial explanation of a place-name, it may be too
+    contextual for pattern queries.
+  suggested_aliases:
+  - place_name_etiology_from_central_fighter
+  - battlefield_toponym_from_heroic_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-restoration-through-medicine-water-brush-and-song
+  motif_id: battlefield_restoration_through_medicine_water_brush_and_song
+  label: battlefield restoration through medicine, water, brush, and song
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines healing, sacred water, plant/brush, and song, and
+    the primary ritual function cannot be determined from the label alone.
+  cautions: May map to divine_intervention, sacred_waters, enchanting_music, sacred_substance,
+    or death_and_transformation depending on whether restoration is healing, revival,
+    purification, or battle recovery.
+  suggested_aliases:
+  - battlefield_healing_with_water_and_song
+  - ritual_restoration_after_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bear-associated-origin-person-and-song-titles
+  motif_id: bear_associated_origin_person_and_song_titles
+  label: bear-associated origin, person, and song titles
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording appears to describe titles or catalog headings rather than
+    a narrative motif.
+  cautions: If source passages describe a bear-origin ancestor or ritual bear song,
+    remap the substantive evidence to miraculous_child, culture_hero, shapeshifter,
+    or enchanting_music as appropriate.
+  suggested_aliases:
+  - bear_origin_and_song_title_headings
+  - bear_associated_title_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bear-named-pursuit-and-blindfold-games
+  motif_id: bear_named_pursuit_and_blindfold_games
+  label: bear-named pursuit and blindfold games
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a game-name or ethnographic catalog detail, not
+    a symbolic or narrative motif.
+  cautions: Human review should preserve evidence if the game ritually reenacts pursuit,
+    transformation, or bear-spirit encounter.
+  suggested_aliases:
+  - bear_named_game_heading
+  - bear_pursuit_blindfold_game_title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bear-posture-and-noise-in-treatment-song-imagery
+  motif_id: bear_posture_and_noise_in_treatment_song_imagery
+  label: bear posture and noise in treatment song imagery
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes animal imagery, healing treatment, and song; the operative
+    motif is unclear without source context.
+  cautions: Could fit enchanting_music if song performs healing, shapeshifter if bear
+    embodiment is central, divine_intervention if a bear-spirit heals, or be an over-specific
+    lyric/image artifact.
+  suggested_aliases:
+  - bear_imagery_in_healing_song
+  - bear_sounds_in_treatment_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence song or title labels; review should
+  separate performed ritual/narrative function from catalog or heading artifacts.
+- Battle-context speech should not automatically map to prophecy_divination; distinguish
+  prophecy, exhortation, magical song, commemoration, and ordinary lyric detail.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; items with culturally specific healing songs
+    and bear imagery need source-level human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1257
+  input_sha256: eb066a5fd0ea5ba9c0cc311becc132a9bdee6056175e4de4b709680977460a4e
+

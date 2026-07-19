@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3943
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.settlement-and-institution-founding-chronology
+  motif_id: settlement_and_institution_founding_chronology
+  label: Settlement and institution founding chronology
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as chronological or historiographic structuring rather
+    than a symbolic or narrative motif.
+  cautions: If the passage narrates a culture hero founding institutions, review for
+    culture_hero or royal_legitimacy instead.
+  suggested_aliases:
+  - founding_chronology
+  - institution_founding_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-and-paths-figured-as-fruiting-plant-growth
+  motif_id: settlement_and_paths_figured_as_fruiting_plant_growth
+  label: Settlement and paths figured as fruiting plant growth
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be a poetic metaphor for social expansion, fertility, or
+    landscape formation, but function is unclear.
+  cautions: Do not map to sacred_tree_axis unless the plant imagery functions as a
+    sacred tree or axis; may be a passage-specific metaphor.
+  suggested_aliases:
+  - settlement_as_fruiting_growth
+  - paths_as_plant_growth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-architecture-adapted-to-exposed-savannah-conditions
+  motif_id: settlement_architecture_adapted_to_exposed_savannah_conditions
+  label: settlement architecture adapted to exposed savannah conditions
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This appears to describe environmental or ethnographic settlement design
+    rather than a mythic motif.
+  cautions: If a sacred enclosure, world center, or protective ritual boundary is
+    explicit in the passage, reassess under world_center or sacred_law.
+  suggested_aliases:
+  - savannah_adapted_settlement_architecture
+  - environmentally_adapted_settlement_design
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-as-refuge-from-foes
+  motif_id: settlement_as_refuge_from_foes
+  label: settlement as refuge from foes
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: low
+  rationale: A settlement used as a protective enclosure parallels refuge or preserving-container
+    functions in the existing group.
+  cautions: Low confidence because the label may be merely strategic or historical;
+    if sacred geography is emphasized, world_center or axis_mundi may fit better.
+  suggested_aliases:
+  - settlement_refuge_from_enemies
+  - protective_settlement_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-burned-as-removal-or-retaliation
+  motif_id: settlement_burned_as_removal_or_retaliation
+  label: settlement burned as removal or retaliation
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Burning a settlement could express warfare, judgment, purification, vengeance,
+    or ordinary retaliation depending on context.
+  cautions: Do not map to world_destroying_fire unless cosmic or order-renewing catastrophe
+    is present; may fit sacred_combat or divine_judgment if sacred agency is explicit.
+  suggested_aliases:
+  - burned_settlement_retaliation
+  - settlement_burning_as_removal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-by-castaway-canoe-of-chiefs
+  motif_id: settlement_by_castaway_canoe_of_chiefs
+  label: Settlement by castaway canoe of chiefs
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A castaway voyage leading chiefs to settlement fits journey, displacement,
+    and foundation through arrival.
+  cautions: If the emphasis is ancestral origin of a people or land name, cosmic_origin
+    may be a secondary fit; if sacred kingship is central, review royal_legitimacy.
+  suggested_aliases:
+  - castaway_canoe_settlement
+  - chiefs_settle_after_castaway_voyage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-by-presence
+  motif_id: settlement_by_presence
+  label: settlement by presence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is too terse to determine whether sacred presence consecrates
+    a place, founds a community, or merely records residence.
+  cautions: If a holy presence establishes a sacred center, world_center or theophany
+    may fit; if only biographical location, exclude from pattern queries.
+  suggested_aliases:
+  - settlement_through_sacred_presence
+  - place_established_by_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-encirclement-and-emergency-communication-network
+  motif_id: settlement_encirclement_and_emergency_communication_network
+  label: settlement encirclement and emergency communication network
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label sounds like social organization or defensive logistics rather
+    than a recurring mythic motif.
+  cautions: If the encirclement is ritual boundary protection or sacred spatial sealing,
+    review under sacred_law or sacrifice; otherwise exclude.
+  suggested_aliases:
+  - emergency_settlement_communication_network
+  - settlement_defensive_encirclement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-fission-after-dissension
+  motif_id: settlement_fission_after_dissension
+  label: settlement fission after dissension
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Community splitting after conflict may be an origin, social-order, exile,
+    or historical detail; the label alone is insufficient.
+  cautions: If the split explains people origins or land distribution, cosmic_origin
+    may fit; if conflict and broken bonds drive the story, consider covenant or betrayal_violated_trust.
+  suggested_aliases:
+  - community_fission_after_dissension
+  - settlement_split_after_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-fission-and-aggregation
+  motif_id: settlement_fission_and_aggregation
+  label: Settlement fission and aggregation
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as an anthropological description of settlement dynamics rather
+    than a symbolic motif.
+  cautions: If a myth narrates sacred origin or reconstitution of a people, reassess
+    under cosmic_origin, survivor_pair, or covenant depending on evidence.
+  suggested_aliases:
+  - settlement_fission_aggregation
+  - community_split_and_regrouping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several settlement labels appear to be ethnographic, chronological, or social-organization
+  artifacts rather than reusable mythic motifs.
+- Where settlement founding is actually narrated as origin, migration, sacred presence,
+  or royal institution, human reviewers should use passage evidence before mapping
+  to cosmic_origin, hero_journey, world_center, culture_hero, or royal_legitimacy.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; settlement labels need source-context
+    review before taxonomy edits.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3943
+  input_sha256: bbf1f45244c25061416edd17c91f1df8277f17e5de8eaca02396c4c83c7f746c
+

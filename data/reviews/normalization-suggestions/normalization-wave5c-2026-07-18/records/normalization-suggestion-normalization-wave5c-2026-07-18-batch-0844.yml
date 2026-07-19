@@ -1,0 +1,348 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0844
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fourfold-pipe-offering-to-the-sky
+  motif_id: fourfold_pipe_offering_to_the_sky
+  label: Fourfold pipe offering to the sky
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on a ritual offering directed to sacred powers, fitting
+    reciprocal sacred offering more than sacrifice alone.
+  cautions: Fourfold structure and pipe ceremony are culturally specific; review source
+    evidence and avoid flattening into generic offering.
+  suggested_aliases:
+  - pipe offering to the sky
+  - fourfold sky offering
+  - ritual pipe offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-prayer-to-the-earth
+  motif_id: fourfold_prayer_to_the_earth
+  label: fourfold prayer to the earth
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prayer addressed to earth functions as ritual communication and relationship-maintenance
+    with sacred powers.
+  cautions: Earth-address and fourfold form may carry local cosmological meaning;
+    review before treating it as a generic prayer motif.
+  suggested_aliases:
+  - fourfold earth prayer
+  - prayer to the earth
+  - ritual prayer to earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-repetition-marking-divine-action
+  motif_id: fourfold_repetition_marking_divine_action
+  label: fourfold repetition marking divine action
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate a sacred-number ritual pattern, but it could also
+    be a narrative style marker rather than a motif.
+  cautions: Culturally sensitive Navajo fourfold symbolism needs source-aware review;
+    do not index as divine action or ritual law without passage evidence.
+  suggested_aliases:
+  - fourfold repetition
+  - ritual repetition marking sacred action
+  - fourfold sacred repetition
+  suggested_new_group:
+    id: sacred_number_and_directional_ordering
+    label: Sacred Number and Directional Ordering
+    description: Ritual or narrative action structured by sacred numbers, repeated
+      sequences, directions, or ordered circuits that establish sacred orientation
+      or efficacy.
+    parent_group_ids:
+    - sacred_law
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - sacred_exchange
+    - theophany
+    reason_existing_groups_insufficient: Existing groups cover ritual law, time, offering,
+      and sacred center, but not recurring number/directional structuring as the primary
+      motif.
+- suggestion_id: normalization.suggestion.fourfold-ritual-action
+  motif_id: fourfold_ritual_action
+  label: fourfold ritual action
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to determine whether the function is offering,
+    purification, directional ordering, or sacred-number performance.
+  cautions: Fourfold pattern may be central but source context is needed; avoid collapsing
+    diverse Indigenous ritual forms into one generic type.
+  suggested_aliases:
+  - fourfold ritual performance
+  - ritual action in four parts
+  - four-part ritual action
+  suggested_new_group:
+    id: sacred_number_and_directional_ordering
+    label: Sacred Number and Directional Ordering
+    description: Ritual or narrative action structured by sacred numbers, repeated
+      sequences, directions, or ordered circuits that establish sacred orientation
+      or efficacy.
+    parent_group_ids:
+    - sacred_law
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups do not preserve sacred-number
+      structuring when that is the main feature rather than merely a detail of sacrifice
+      or prayer.
+- suggestion_id: normalization.suggestion.fourfold-ritual-action-under-supernatural-instruction
+  motif_id: fourfold_ritual_action_under_supernatural_instruction
+  label: Fourfold ritual action under supernatural instruction
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The defining feature is ritual procedure received through supernatural
+    instruction, fitting transmission of sacred knowledge.
+  cautions: If the passage emphasizes the ritual act rather than instruction, sacred_law
+    or a sacred-number group may be better; review local context carefully.
+  suggested_aliases:
+  - supernaturally instructed fourfold ritual
+  - fourfold ritual instruction
+  - ritual action taught by spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-ritual-and-directional-ordering
+  motif_id: fourfold_ritual_and_directional_ordering
+  label: fourfold ritual and directional ordering
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sacred Number and Directional Ordering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif explicitly combines fourfold ritual structure with directional
+    ordering, a pattern not cleanly held by current groups.
+  cautions: Human review should verify whether this is a recurring cross-source motif
+    and preserve culturally specific directional meanings.
+  suggested_aliases:
+  - fourfold directional ritual
+  - ritual ordering by four directions
+  - four-direction ritual pattern
+  suggested_new_group:
+    id: sacred_number_and_directional_ordering
+    label: Sacred Number and Directional Ordering
+    description: Ritual or narrative action structured by sacred numbers, repeated
+      sequences, directions, or ordered circuits that establish sacred orientation
+      or efficacy.
+    parent_group_ids:
+    - sacred_law
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - world_center
+    - sacred_exchange
+    reason_existing_groups_insufficient: Axis_mundi covers sacred center and vertical
+      connection, while sacred_law covers ritual regulation; neither directly captures
+      number-plus-direction structuring as the motif's core.
+- suggestion_id: normalization.suggestion.fourfold-ritual-and-weapon-pattern
+  motif_id: fourfold_ritual_and_weapon_pattern
+  label: Fourfold ritual and weapon pattern
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual structuring with weapons, but the narrative
+    function could be sacred combat, ritual preparation, or sacred-object handling.
+  cautions: Needs evidence for whether weapons are power objects, combat implements,
+    or ritual symbols; avoid mapping to combat solely from 'weapon'.
+  suggested_aliases:
+  - fourfold weapon ritual
+  - ritual weapon pattern in four parts
+  - fourfold ceremonial weapon pattern
+  suggested_new_group:
+    id: sacred_number_and_directional_ordering
+    label: Sacred Number and Directional Ordering
+    description: Ritual or narrative action structured by sacred numbers, repeated
+      sequences, directions, or ordered circuits that establish sacred orientation
+      or efficacy.
+    parent_group_ids:
+    - sacred_law
+    - sacred_time
+    related_group_ids:
+    - sacred_combat
+    - sacred_treasures
+    reason_existing_groups_insufficient: If the fourfold ritual structure is primary,
+      existing weapon, combat, and sacred-object groups lose the ordering function.
+- suggestion_id: normalization.suggestion.fourfold-ritual-circumambulation
+  motif_id: fourfold_ritual_circumambulation
+  label: fourfold ritual circumambulation
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sacred Number and Directional Ordering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Circumambulation structured fourfold is a spatial ritual-ordering pattern
+    rather than simple offering or sacrifice.
+  cautions: Review whether the circling establishes a center, marks directions, invokes
+    powers, or functions as a passage rite before final placement.
+  suggested_aliases:
+  - fourfold circumambulation
+  - ritual circling in four parts
+  - fourfold sacred circuit
+  suggested_new_group:
+    id: sacred_number_and_directional_ordering
+    label: Sacred Number and Directional Ordering
+    description: Ritual or narrative action structured by sacred numbers, repeated
+      sequences, directions, or ordered circuits that establish sacred orientation
+      or efficacy.
+    parent_group_ids:
+    - sacred_law
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - world_center
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups include sacred center and
+      ritual law but not repeated directional/circuit movement as the primary ritual
+      form.
+- suggestion_id: normalization.suggestion.fourfold-ritual-contact-with-sacred-object
+  motif_id: fourfold_ritual_contact_with_sacred_object
+  label: fourfold ritual contact with sacred object
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on ritual handling of a sacred object, which fits power-object
+    and sacred-treasure indexing.
+  cautions: If the fourfold action is more important than the object, consider sacred-number/directional
+    ordering; preserve object type and local ritual meaning in notes.
+  suggested_aliases:
+  - fourfold contact with sacred object
+  - ritual touching of sacred object
+  - four-part sacred object contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-ritual-dance-circuit
+  motif_id: fourfold_ritual_dance_circuit
+  label: Fourfold ritual dance circuit
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sacred Number and Directional Ordering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A fourfold dance circuit is a repeated spatial ritual pattern, best preserved
+    as sacred number/directional ordering if evidence supports it.
+  cautions: Dance may involve ceremony, healing, offering, or cosmological orientation;
+    needs source-aware review before broad indexing.
+  suggested_aliases:
+  - fourfold dance circuit
+  - ritual dance in fourfold circuit
+  - four-direction dance circuit
+  suggested_new_group:
+    id: sacred_number_and_directional_ordering
+    label: Sacred Number and Directional Ordering
+    description: Ritual or narrative action structured by sacred numbers, repeated
+      sequences, directions, or ordered circuits that establish sacred orientation
+      or efficacy.
+    parent_group_ids:
+    - sacred_law
+    - sacred_time
+    related_group_ids:
+    - axis_mundi
+    - sacred_exchange
+    - sacred_song
+    reason_existing_groups_insufficient: Current groups do not capture numbered spatial
+      ritual movement without reducing it to generic ritual law or offering.
+batch_notes:
+- Several labels appear to be culturally specific Indigenous ritual-pattern descriptions
+  involving fourfold structure; human review should use source evidence and avoid
+  generic sacred-number assumptions.
+- A possible new review group, sacred_number_and_directional_ordering, may be useful
+  if similar fourfold/directional ritual labels recur across sources, but single-occurrence
+  items should remain provisional.
+- Do not treat fourfold similarity across traditions as evidence of transmission,
+  borrowing, or common origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual meanings require
+    human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0844
+  input_sha256: 4d894ff02af37c9084b49677b2c3a169bf4a91e67914d27949fc63cb6fd392f2
+

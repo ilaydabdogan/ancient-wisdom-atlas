@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0864
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heavenly-servants-in-appointed-ranks-praising-god
+  motif_id: heavenly_servants_in_appointed_ranks_praising_god
+  label: Heavenly servants in appointed ranks praising God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Heavenly ranked beings praising God expresses manifest divine order and
+    cosmic praise, already near theophany aliases such as cosmic praise of God.
+  cautions: Could also index under supreme_ruler if the emphasis is divine sovereignty
+    rather than the vision or praise scene.
+  suggested_aliases:
+  - cosmic_praise_of_god
+  - ranked_heavenly_servants_praising_god
+  - angelic_ranks_praising_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heavenly-stone-or-star-as-ritual-protector
+  motif_id: heavenly_stone_or_star_as_ritual_protector
+  label: heavenly stone or star as ritual protector
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ritually protective heavenly stone or star functions as a sacred power
+    object conferring protection.
+  cautions: If the passage emphasizes apotropaic ritual more than the object, sacred_law
+    may be a secondary fit; handle culturally specific object meanings carefully.
+  suggested_aliases:
+  - celestial_protective_object
+  - heavenly_stone_as_protective_power_object
+  - star_as_ritual_protector
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heirloom-ritual-object-displayed-in-seasonal-meeting
+  motif_id: heirloom_ritual_object_displayed_in_seasonal_meeting
+  label: Heirloom ritual object displayed in seasonal meeting
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: An heirloom ritual object may be a sacred treasure, with seasonal display
+    linking it to sacred time.
+  cautions: Single occurrence and potentially culturally specific ceremonial context;
+    could be sacred_time, sacred_exchange, or a local provenance detail rather than
+    a reusable motif.
+  suggested_aliases:
+  - seasonal_display_of_heirloom_ritual_object
+  - ritual_heirloom_displayed_at_seasonal_gathering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.helper-s-ritualized-approach-to-the-bride-in-a-tower
+  motif_id: helper_s_ritualized_approach_to_the_bride_in_a_tower
+  label: helper's ritualized approach to the bride in a tower
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The bride-in-tower approach may relate to bride-winning or courtship
+    patterns already under sacred_love.
+  cautions: The label is highly episode-specific and the word ritualized may only
+    describe narrative staging; source evidence needed before mapping.
+  suggested_aliases:
+  - ritualized_approach_to_bride_in_tower
+  - helper_approaches_tower_bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.helpers-of-the-divine-messenger
+  motif_id: helpers_of_the_divine_messenger
+  label: helpers of the divine messenger
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Assistants of a divine messenger fit the divine-intervention complex
+    of messengers, guardians, and agents executing sacred commands.
+  cautions: If the helpers are merely named attendants without action in the narrative,
+    this may be too thin for pattern queries.
+  suggested_aliases:
+  - assistants_of_divine_messenger
+  - angelic_helpers_of_the_messenger
+  - helpers_of_sacred_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hereditary-keeping-of-a-sacred-object-with-longevity-of-keepers
+  motif_id: hereditary_keeping_of_a_sacred_object_with_longevity_of_keepers
+  label: hereditary keeping of a sacred object with longevity of keepers
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: Hereditary custody of a sacred object centers on a power object and its
+    ritual keepers.
+  cautions: The longevity of keepers may indicate sacred substance, blessing, office
+    legitimacy, or local ceremonial history; culturally specific stewardship should
+    be reviewed by humans.
+  suggested_aliases:
+  - hereditary_custody_of_sacred_object
+  - sacred_object_preserved_by_hereditary_keepers
+  - long_lived_keepers_of_sacred_heirloom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hereditary-priestly-dignity-in-a-clan-or-band
+  motif_id: hereditary_priestly_dignity_in_a_clan_or_band
+  label: hereditary priestly dignity in a clan or band
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: A hereditary sacred office authorizes ritual status through lineage,
+    similar to sacred political or social legitimacy.
+  cautions: This is priestly rather than royal; if many such labels recur, a separate
+    sacred-office or priestly-lineage group may be warranted.
+  suggested_aliases:
+  - hereditary_sacred_office
+  - lineage_based_priestly_status
+  - clan_priestly_dignity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hereditary-priestly-lineage
+  motif_id: hereditary_priestly_lineage
+  label: Hereditary priestly lineage
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: Hereditary priestly lineage concerns sacred authority transmitted by
+    descent, which is closest to the legitimacy group.
+  cautions: Not specifically kingship; consider a future priestly_lineage or sacred_office
+    group if this recurs across traditions.
+  suggested_aliases:
+  - priestly_lineage
+  - hereditary_sacred_lineage
+  - ritual_authority_by_descent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hereditary-priestly-tribe-from-a-distinct-homeland
+  motif_id: hereditary_priestly_tribe_from_a_distinct_homeland
+  label: hereditary priestly tribe from a distinct homeland
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: over_specific_label
+  confidence: low
+  rationale: The hereditary priestly component fits sacred legitimacy through descent,
+    but homeland and tribe details may be contextual.
+  cautions: May be an ethnographic or historical classification rather than a mythic
+    motif; avoid treating place/tribe origin alone as pattern evidence.
+  suggested_aliases:
+  - priestly_tribe_from_distinct_homeland
+  - hereditary_priestly_group_origin
+  - priestly_lineage_with_homeland_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hereditary-ritual-and-subsistence-expertise
+  motif_id: hereditary_ritual_and_subsistence_expertise
+  label: Hereditary ritual and subsistence expertise
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: low
+  rationale: Inherited ritual expertise is a form of transmitted sacred/practical
+    knowledge.
+  cautions: Subsistence expertise may be social organization or ethnographic detail
+    rather than motif; source context is needed before indexing broadly.
+  suggested_aliases:
+  - hereditary_ritual_expertise
+  - inherited_sacred_and_practical_knowledge
+  - lineage_transmission_of_ritual_expertise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items describe hereditary priestly or ritual offices. Existing groups can
+  hold them provisionally, but repeated cross-tradition evidence may justify a future
+  sacred_office_or_priestly_lineage normalization group.
+- Single-occurrence Indigenous ceremonial-object labels should remain provisional
+  and receive human review for cultural specificity before broad query use.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0864
+  input_sha256: 6c98e93f39ba2db855f3a8bd88bbe010144db4cab224da73795d2a25d8edea55
+

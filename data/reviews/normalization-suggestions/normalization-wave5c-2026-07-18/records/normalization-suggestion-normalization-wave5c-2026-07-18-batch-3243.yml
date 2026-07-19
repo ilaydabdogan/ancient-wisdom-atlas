@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3243
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.classification-of-communal-legal-disputes
+  motif_id: classification_of_communal_legal_disputes
+  label: Classification of communal legal disputes
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes classificatory/legal analysis rather than a recurring
+    symbolic or narrative motif.
+  cautions: If source evidence shows a sacred adjudication scene or moral reckoning,
+    reconsider under sacred_law or divine_judgment.
+  suggested_aliases:
+  - classification_of_disputes
+  - legal_dispute_classification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.classification-of-marvelous-human-races-or-varieties
+  motif_id: classification_of_marvelous_human_races_or_varieties
+  label: classification of marvelous human races or varieties
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a cosmographic motif about marvelous peoples, but 'classification
+    of' may indicate scholarly or passage-level taxonomy.
+  cautions: Review source context before mapping; avoid treating ethnographic classification
+    as a mythic motif without narrative function.
+  suggested_aliases:
+  - marvelous_human_races
+  - wondrous_human_varieties
+  - classification_of_wondrous_peoples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.classification-of-transgression
+  motif_id: classification_of_transgression
+  label: Classification of transgression
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording points to doctrinal or editorial classification rather than
+    a narrative motif.
+  cautions: If the passage narrates consequences of transgression, divine_judgment
+    or sacred_law may be appropriate instead.
+  suggested_aliases:
+  - transgression_classification
+  - classification_of_offenses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.classification-of-transgression-enabling-atonement
+  motif_id: classification_of_transgression_enabling_atonement
+  label: classification of transgression enabling atonement
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The atonement function may fit sacrifice or sacred_law, but the label
+    reads like doctrinal classification.
+  cautions: Map only if the source describes a ritual or ethical process of repair,
+    not merely a scholastic category.
+  suggested_aliases:
+  - atonement_enabled_by_classifying_transgression
+  - classification_of_offenses_for_atonement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clay-decoration-before-dance
+  motif_id: clay_decoration_before_dance
+  label: clay decoration before dance
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Likely a ritual preparation detail, but no existing group clearly captures
+    body decoration before dance without source context.
+  cautions: Culturally specific practice; may be too granular for motif queries unless
+    the decoration has transformation, initiation, protection, or sacred-performance
+    function.
+  suggested_aliases:
+  - body_decoration_before_dance
+  - clay_body_painting_before_dance
+  - ritual_clay_adornment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clay-figures-as-proto-peoples
+  motif_id: clay_figures_as_proto_peoples
+  label: Clay figures as proto-peoples
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Clay figures functioning as first or proto-peoples belongs to human-origins
+    creation imagery.
+  cautions: If the emphasis is craft animation rather than origin of peoples, sacred_craft
+    may be a useful secondary relation.
+  suggested_aliases:
+  - clay_proto_peoples
+  - first_peoples_as_clay_figures
+  - clay_figures_as_ancestral_humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clay-images-animated-into-first-humans
+  motif_id: clay_images_animated_into_first_humans
+  label: Clay images animated into first humans
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Animation of clay images into first humans is a clear human-creation
+    motif.
+  cautions: Also related to sacred_craft because manufactured images become living
+    beings; preserve clay-animation specificity.
+  suggested_aliases:
+  - first_humans_from_animated_clay_images
+  - clay_images_become_first_humans
+  - creation_of_humans_from_animated_clay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cleanness-followed-by-freedom-and-conception
+  motif_id: cleanness_followed_by_freedom_and_conception
+  label: Cleanness followed by freedom and conception
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines purity, liberation, and conception; the dominant motif cannot
+    be determined from the label alone.
+  cautions: Could map to sacred_law, sacred_birth, divine_intervention, or ritual
+    purification depending on passage evidence; likely over-specific.
+  suggested_aliases:
+  - purification_followed_by_conception
+  - cleanness_freedom_and_conception
+  - purity_precedes_liberation_and_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cleansed-channel-receiving-a-fresh-stream
+  motif_id: cleansed_channel_receiving_a_fresh_stream
+  label: Cleansed channel receiving a fresh stream
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, a cleansed channel receiving fresh water likely symbolizes
+    inner purification and renewed spiritual receptivity.
+  cautions: Do not map to flood or water catastrophe; if literal ritual washing is
+    meant, sacred_waters or sacred_law may fit better.
+  suggested_aliases:
+  - cleansed_channel_receives_fresh_stream
+  - purified_channel_for_spiritual_flow
+  - inner_cleansing_as_fresh_stream
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cleansing-and-adornment-before-re-entry-into-home
+  motif_id: cleansing_and_adornment_before_re_entry_into_home
+  label: Cleansing and adornment before re-entry into home
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Appears to be a ritual re-entry or reintegration practice, but existing
+    groups do not identify the context clearly.
+  cautions: Review whether this is post-bereavement, initiation, purification after
+    danger, or household threshold regulation before mapping to sacred_law, initiation,
+    or hero_journey.
+  suggested_aliases:
+  - ritual_cleansing_before_homecoming
+  - adornment_before_re_entry_home
+  - purified_reentry_into_home
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels beginning with 'classification of' likely represent doctrinal or
+  editorial categories rather than motifs; source context should decide whether to
+  exclude or remap to sacred_law/divine_judgment.
+- Clay-human creation labels can be indexed under cosmic_origin while preserving secondary
+  relation to sacred_craft where animation of manufactured images is explicit.
+- Ritual body-decoration and re-entry labels are culturally specific and should not
+  be over-normalized without passage evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; human review needed especially for culturally
+    specific ritual and classification labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3243
+  input_sha256: 606fd9f2a7b5415c408c533810e64736a7a3ba91bf90eed6b87197d018fc16c8
+

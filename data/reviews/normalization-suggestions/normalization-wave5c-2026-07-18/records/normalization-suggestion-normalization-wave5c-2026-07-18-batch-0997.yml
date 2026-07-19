@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0997
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.regional-localization-of-a-sacred-stone
+  motif_id: regional_localization_of_a_sacred_stone
+  label: Regional localization of a sacred stone
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A sacred stone may function as a power object or localized relic, fitting
+    sacred_treasures if the stone has ritual or supernatural agency.
+  cautions: The phrase may describe regional folklore localization or scholarly classification
+    rather than a motif; source evidence is needed.
+  suggested_aliases:
+  - localized_sacred_stone
+  - sacred_stone_localized_in_region
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-transmission-of-ritual-practice
+  motif_id: regional_transmission_of_ritual_practice
+  label: regional transmission of ritual practice
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes transmission or diffusion of a practice, not the
+    ritual pattern itself.
+  cautions: Keep any actual ritual content separately if the source passage identifies
+    a recurring rite; do not use this as contact evidence.
+  suggested_aliases:
+  - regional_spread_of_ritual_practice
+  - ritual_practice_transmission_note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-images-in-sacred-or-monastic-space
+  motif_id: regulated_images_in_sacred_or_monastic_space
+  label: Regulated images in sacred or monastic space
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rules governing images in sacred or monastic space fit sacred law, ritual
+    prohibition, and regulated religious practice.
+  cautions: If the passage focuses on the images as animated or powerful objects,
+    sacred_craft or sacred_treasures may be secondary; if it is only monastic rule
+    commentary, consider exclusion.
+  suggested_aliases:
+  - image_regulation_in_sacred_space
+  - ritual_regulation_of_images
+  - monastic_image_regulation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-marriage-through-mediating-rites
+  motif_id: regulated_marriage_through_mediating_rites
+  label: regulated marriage through mediating rites
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Marriage regulated by formal rites is primarily a social-order and ritual-law
+    pattern.
+  cautions: If the passage emphasizes cosmic fertility, royal sovereignty, or divine
+    union, sacred_marriage or sacred_love may be more appropriate; this label sounds
+    normative rather than narrative.
+  suggested_aliases:
+  - ritually_mediated_marriage
+  - marriage_regulated_by_rites
+  - ritual_regulation_of_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-mourning-and-ritual-grief
+  motif_id: regulated_mourning_and_ritual_grief
+  label: regulated mourning and ritual grief
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label directly concerns mourning and grief expressed through ritual
+    regulation.
+  cautions: For Confucian context, sacred_law may be a useful secondary facet because
+    the emphasis may be proper ritual conduct rather than spontaneous lament.
+  suggested_aliases:
+  - ritual_regulation_of_mourning
+  - regulated_ritual_grief
+  - proper_mourning_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-ritual-drinking-contrasted-with-excess
+  motif_id: regulated_ritual_drinking_contrasted_with_excess
+  label: Regulated ritual drinking contrasted with excess
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual drinking involves sacred or regulated substances, with moral contrast
+    between proper use and excess.
+  cautions: Could also fit sacred_law if the core is normative restraint, or divine_judgment/pride_and_downfall
+    if excess is punished; source context should decide secondary mapping.
+  suggested_aliases:
+  - ritual_drinking_regulated_against_excess
+  - proper_ritual_drinking
+  - regulated_sacred_drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-ritual-speech-and-silence
+  motif_id: regulated_ritual_speech_and_silence
+  label: Regulated ritual speech and silence
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on ritual control of speech and silence, fitting sacred
+    speech acts and utterance rules.
+  cautions: If the emphasis is purity discipline rather than performative utterance,
+    sacred_law may be the better primary group; preserve Zoroastrian ritual specificity
+    in notes.
+  suggested_aliases:
+  - ritual_regulation_of_speech_and_silence
+  - sacred_speech_and_silence_rules
+  - regulated_sacred_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-sacred-vesture
+  motif_id: regulated_sacred_vesture
+  label: regulated sacred vesture
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rules for sacred clothing belong with ritual purity, sacred law, and
+    regulated religious conduct.
+  cautions: If the garment itself confers power, protection, or identity, sacred_treasures
+    or recognition_tokens_hidden_identity may be secondary; single occurrence may
+    be too specific.
+  suggested_aliases:
+  - ritual_regulation_of_sacred_clothing
+  - regulated_ritual_vesture
+  - sacred_garment_regulation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulation-of-sacred-recitation
+  motif_id: regulation_of_sacred_recitation
+  label: Regulation of sacred recitation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred recitation transmits or activates sacred knowledge, and its regulation
+    concerns proper ritual handling of that knowledge.
+  cautions: Could also map to sacred_law if the passage is mainly disciplinary rule,
+    or storytelling_as_power if recitation itself has narrative or performative power.
+  suggested_aliases:
+  - regulated_sacred_recitation
+  - ritual_regulation_of_recitation
+  - rules_for_sacred_recitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-and-slain-divine-witnesses
+  motif_id: rejected_and_slain_divine_witnesses
+  label: Rejected and slain divine witnesses
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Rejection and killing of divine witnesses may function as moral transgression
+    leading to judgment.
+  cautions: 'Ambiguous without passage evidence: could be martyrdom, prophetic rejection,
+    eschatological witnesses, sacrifice, or a very specific textual episode.'
+  suggested_aliases:
+  - slain_divine_witnesses
+  - rejection_of_divine_witnesses
+  - martyred_divine_witnesses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use normative wording such as regulated/regulation
+  and may describe ritual law or commentary rather than narrative motifs; human review
+  should confirm source evidence before broad indexing.
+- Transmission-oriented labels should not be used as evidence of borrowing or contact
+  in this normalization task.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; high caution for single-occurrence ritual regulation
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0997
+  input_sha256: bcb5847af76951da1b6ca1c7ea92bf4653b30cebc2a54c08b3f677aae9c82a4c
+

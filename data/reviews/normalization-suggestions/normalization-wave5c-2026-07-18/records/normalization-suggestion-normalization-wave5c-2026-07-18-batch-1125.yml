@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1125
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-entry-after-ritual-cleansing
+  motif_id: sacred_entry_after_ritual_cleansing
+  label: sacred entry after ritual cleansing
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual cleansing before entering a sacred space fits purity regulation
+    and sacred-law practice.
+  cautions: Could also relate to initiation or sacred_exchange if the entry marks
+    a transformative rite or offering sequence; source context needed.
+  suggested_aliases:
+  - ritual_purification_before_sacred_entry
+  - purity_required_for_sacred_entry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-enumeration-mirrored-in-monuments
+  motif_id: sacred_enumeration_mirrored_in_monuments
+  label: Sacred enumeration mirrored in monuments
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual numerology, monument design, cosmology,
+    or a passage-specific interpretive observation.
+  cautions: Single occurrence and ambiguous function; do not map to sacred_craft,
+    axis_mundi, or sacred_time without evidence that enumeration structures sacred
+    space or ritual order.
+  suggested_aliases:
+  - sacred_numbering_reflected_in_monuments
+  - ritual_enumeration_in_monumental_form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-festival-opening-frame
+  motif_id: sacred_festival_opening_frame
+  label: sacred festival opening frame
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording sounds like a narrative or passage framing device rather
+    than a recurring mythic motif.
+  cautions: If the passage actually describes ritual inauguration of a festival, review
+    under sacred_time instead of excluding.
+  suggested_aliases:
+  - festival_opening_frame
+  - sacred_festival_frame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fetishes-arranged-along-a-ritual-line
+  motif_id: sacred_fetishes_arranged_along_a_ritual_line
+  label: Sacred fetishes arranged along a ritual line
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a culturally specific ritual arrangement of sacred
+    objects, but its function is unclear from wording alone.
+  cautions: Culturally sensitive terminology and single occurrence; could involve
+    sacred_treasures, sacred_law, axis_mundi, boundary ritual, or an ethnographic
+    detail.
+  suggested_aliases:
+  - sacred_objects_arranged_along_a_ritual_line
+  - ritual_line_of_sacred_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-field-forbidden-to-ordinary-cultivation
+  motif_id: sacred_field_forbidden_to_ordinary_cultivation
+  label: sacred field forbidden to ordinary cultivation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A field set apart by prohibition fits sacred-law regulation of purity,
+    taboo, and ordinary use.
+  cautions: May also belong with sacred_time if tied to agricultural ritual cycles,
+    or world_center if the field is a sacred center.
+  suggested_aliases:
+  - sacred_field_taboo
+  - cultivation_forbidden_in_sacred_field
+  - ritual_prohibition_on_ordinary_cultivation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-figures-appearing-within-natural-renewal
+  motif_id: sacred_figures_appearing_within_natural_renewal
+  label: Sacred figures appearing within natural renewal
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Sacred figures appearing through renewed nature suggests manifestation
+    of sacred presence.
+  cautions: Could instead be mystical_quest, seasonal_cycle, or poetic imagery; Sufi
+    context may make this metaphorical rather than narrative theophany.
+  suggested_aliases:
+  - sacred_presence_in_natural_renewal
+  - divine_figures_manifest_in_renewed_nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-and-healing-water-opposed-to-demons
+  motif_id: sacred_fire_and_healing_water_opposed_to_demons
+  label: Sacred fire and healing water opposed to demons
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fire and water used against demons function as protective purity forces,
+    aligning with apotropaic sacred-law practice.
+  cautions: Also related to sacred_fire and sacred_waters; avoid reducing Zoroastrian
+    ritual dualism to a generic elemental symbol without evidence review.
+  suggested_aliases:
+  - apotropaic_fire_and_water_against_demons
+  - sacred_elements_opposed_to_demons
+  - healing_water_and_sacred_fire_as_demon_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-and-religion-imperiled
+  motif_id: sacred_fire_and_religion_imperiled
+  label: sacred fire and religion imperiled
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The threatened sacred fire directly belongs to the sacred-fire complex
+    as divine presence and ritual continuity.
+  cautions: The broader phrase 'religion imperiled' may be contextual or historical;
+    if the focus is communal crisis, divine_judgment or sacred_law may be secondary.
+  suggested_aliases:
+  - imperiled_sacred_fire
+  - threatened_sacred_fire
+  - sacred_fire_under_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-and-sacred-objects-removed-from-a-threatened-city
+  motif_id: sacred_fire_and_sacred_objects_removed_from_a_threatened_city
+  label: sacred fire and sacred objects removed from a threatened city
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on preserving sacred objects and fire as bearers of
+    civic-sacred continuity during threat.
+  cautions: Also related to sacred_fire, sacred_vessel, and royal_legitimacy/civic
+    order; label is episode-specific and may remain granular evidence.
+  suggested_aliases:
+  - evacuation_of_sacred_objects_from_threatened_city
+  - sacred_objects_removed_during_city_crisis
+  - preservation_of_sacred_fire_and_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-as-civic-omen
+  motif_id: sacred_fire_as_civic_omen
+  label: sacred fire as civic omen
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A civic omen read from sacred fire is a divinatory use of a sacred sign.
+  cautions: If the emphasis is the fire as divine presence rather than omen interpretation,
+    sacred_fire should be the primary group.
+  suggested_aliases:
+  - omen_from_sacred_fire
+  - civic_omen_in_sacred_fire
+  - sacred_fire_portent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and ritual-context dependent; placements should
+  be treated as provisional evidence grouping, not taxonomy edits.
+- For Zoroastrian fire/water motifs, preserve local ritual and purity meanings and
+  avoid flattening them into generic elemental symbolism.
+- Labels that sound like narrative frames or scholarly descriptions should be checked
+  against passage evidence before inclusion in Pattern Explorer queries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch 1125; human review
+    recommended for ambiguous ritual-object and monument-enumeration labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1125
+  input_sha256: 847b00c17940b33cd3fe092570b5d2bf5d1620194ea270183410148ce7123fdf
+

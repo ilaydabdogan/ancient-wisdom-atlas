@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3552
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.human-life-as-game-pieces-moved-by-a-superior-player
+  motif_id: human_life_as_game_pieces_moved_by_a_superior_player
+  label: Human life as game pieces moved by a superior player
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The game-piece image expresses human agency subordinated to a higher
+    determining power, aligning with fate or destiny imagery.
+  cautions: Could instead be mystical teaching about divine sovereignty or ego-surrender;
+    source context is needed before treating it as fatalism.
+  suggested_aliases:
+  - human_life_as_pieces_in_a_divine_game
+  - humans_moved_like_game_pieces_by_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-life-cycle-from-weakness-to-strength-and-decline
+  motif_id: human_life_cycle_from_weakness_to_strength_and_decline
+  label: Human life cycle from weakness to strength and decline
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label reads as a contemplative teaching on impermanence and embodied
+    life, already represented near impermanence-of-life aliases under mystical_quest.
+  cautions: If the passage is biological description rather than spiritual reflection,
+    it may be too generic for motif queries.
+  suggested_aliases:
+  - life_stages_from_weakness_to_strength_to_decline
+  - human_life_as_growth_and_decline
+  - impermanence_of_human_strength
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-life-fixed-before-conscious-choice
+  motif_id: human_life_fixed_before_conscious_choice
+  label: Human life fixed before conscious choice
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: high
+  rationale: A life fixed before conscious choice is a clear destiny or predestination
+    pattern, fitting the fate/destiny group.
+  cautions: May also relate to divine sovereignty or mystical annihilation if the
+    passage emphasizes surrender rather than fate.
+  suggested_aliases:
+  - life_predetermined_before_choice
+  - preordained_life_before_conscious_agency
+  - human_life_fixed_by_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-life-stages-used-to-define-the-fully-strong-man
+  motif_id: human_life_stages_used_to_define_the_fully_strong_man
+  label: Human life stages used to define the fully strong man
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to be a contextual age-category or descriptive ethnographic
+    detail rather than a reusable mythic motif.
+  cautions: If the passage uses life stages in an initiation ordeal or sacred anthropology,
+    reconsider under initiation or mystical_quest.
+  suggested_aliases:
+  - life_stages_defining_mature_strength
+  - age_stages_of_the_strong_man
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-like-beings-caught-cooked-and-eaten-as-fish
+  motif_id: human_like_beings_caught_cooked_and_eaten_as_fish
+  label: human-like beings caught, cooked, and eaten as fish
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines human-like beings, fish identity, capture, cooking,
+    and eating; its function could be transformation, cannibal danger, animal-spirit
+    encounter, or episode detail.
+  cautions: Culturally specific being categories and source context are needed; avoid
+    forcing into shapeshifter or sacred_waters from wording alone.
+  suggested_aliases:
+  - human_like_beings_treated_as_fish
+  - fish_like_humanoid_beings_caught_and_eaten
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-like-hunting-decoy
+  motif_id: human_like_hunting_decoy
+  label: human-like hunting decoy
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A human-like decoy may involve trickery, hunting magic, artificial likeness,
+    or passage-specific technology; the narrative function is unclear.
+  cautions: Could fit trickster, sacred_craft, or ritual hunting practice depending
+    on evidence; single occurrence argues for review before indexing.
+  suggested_aliases:
+  - anthropomorphic_hunting_decoy
+  - human_shaped_decoy_used_in_hunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-made-dam-creates-an-expanding-lake
+  motif_id: human_made_dam_creates_an_expanding_lake
+  label: Human-made dam creates an expanding lake
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes an etiological landscape-formation event, which the
+    cosmic_origin group already includes through landscape and place-origin children.
+  cautions: If it is merely practical construction rather than mythic explanation
+    of a lake, exclude as contextual detail or review under sacred_craft.
+  suggested_aliases:
+  - dam_creates_lake_etiology
+  - human_made_dam_as_lake_origin
+  - constructed_dam_forms_expanding_lake
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-miser-outlasts-demon-in-pain-endurance
+  motif_id: human_miser_outlasts_demon_in_pain_endurance
+  label: human miser outlasts demon in pain endurance
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A human defeating or outlasting a demon through endurance has a contest-with-supernatural-opponent
+    structure close to trickster/wit-overpowering force patterns.
+  cautions: The miser trait may signal moral satire or greed punishment; source context
+    could shift placement to pride_and_downfall or divine_judgment.
+  suggested_aliases:
+  - human_outlasts_demon_in_endurance_contest
+  - miser_defeats_demon_by_pain_endurance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-mistaken-for-horned-demonic-being
+  motif_id: human_mistaken_for_horned_demonic_being
+  label: human mistaken for horned demonic being
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a mistaken-identity episode involving demonic appearance,
+    but does not show whether the function is disguise, fear, trickery, or spirit
+    taxonomy.
+  cautions: May be an over-specific narrative detail; review before mapping to shapeshifter,
+    trickster, or threshold_guardian.
+  suggested_aliases:
+  - human_misidentified_as_horned_demon
+  - mistaken_identity_as_demonic_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-movement-following-migrating-caribou
+  motif_id: human_movement_following_migrating_caribou
+  label: human movement following migrating caribou
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe subsistence movement or migration behavior
+    tied to animals, not a symbolic or narrative motif by itself.
+  cautions: If the passage frames caribou as spirit guides, culture-founders, or sacred
+    animals, human review could remap to divine_intervention or hero_journey.
+  suggested_aliases:
+  - migration_following_caribou
+  - people_follow_migrating_caribou
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and may be ethnographic or passage-specific;
+  preserve local evidence but avoid promoting new groups without recurrence.
+- For life-cycle and predestination labels, distinguish spiritual teaching, divine
+  sovereignty, and fate before final indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    human-like beings, decoys, and demonic mistaken-identity items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3552
+  input_sha256: '08d176ab5e89fddac35e72b1fca23214c5e2f98981ffbc8e5960675ab824dfa0'
+

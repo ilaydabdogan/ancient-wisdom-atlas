@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3573
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.impossible-timed-task_solved-by-hidden-stratagem
+  motif_id: impossible_timed_task_solved_by_hidden_stratagem
+  label: Impossible timed task solved by hidden stratagem
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden stratagem solving an impossible task fits trickster-like deception
+    and boundary-crossing ingenuity.
+  cautions: Single occurrence; if the passage emphasizes ordeal or initiation rather
+    than deception, initiation may be a secondary fit.
+  suggested_aliases:
+  - impossible_task_solved_by_stratagem
+  - hidden_stratagem_solves_impossible_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-totalization-with-residual-witness
+  motif_id: impossible_totalization_with_residual_witness
+  label: Impossible totalization with residual witness
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The abstract wording does not clearly identify a narrative function or
+    symbolic field.
+  cautions: May be a passage-specific analytical phrase; review source evidence before
+    mapping to witness, trickster, judgment, or creation patterns.
+  suggested_aliases:
+  - residual_witness_after_failed_totalization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impostor-exposed-and-punished
+  motif_id: impostor_exposed_and_punished
+  label: impostor exposed and punished
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Exposure and punishment of deception repairs moral or social order, matching
+    judgment/reckoning.
+  cautions: If the key evidence is recognition mechanics rather than punishment, recognition_tokens_hidden_identity
+    may be a better secondary group.
+  suggested_aliases:
+  - impostor_exposure_and_punishment
+  - false_identity_exposed_and_punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impostor-exposed-by-voice
+  motif_id: impostor_exposed_by_voice
+  label: impostor exposed by voice
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Voice is already within the group description as a means of proving or
+    exposing identity.
+  cautions: If the passage centers on punishment after exposure, divine_judgment may
+    be a secondary mapping.
+  suggested_aliases:
+  - recognition_by_voice_exposes_impostor
+  - false_identity_exposed_by_voice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impostor-rejected-by-both-groups
+  motif_id: impostor_rejected_by_both_groups
+  label: Impostor rejected by both groups
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label implies social exclusion after imposture but lacks evidence
+    for recognition, judgment, or boundary-crossing as the main function.
+  cautions: Could map to divine_judgment, trickster, or recognition_tokens_hidden_identity
+    depending on source context; may be too episode-specific.
+  suggested_aliases:
+  - false_identity_rejected_by_both_sides
+  - impostor_excluded_by_both_groups
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impotent-idols-with-human-like-but-ineffective-faculties
+  motif_id: impotent_idols_with_human_like_but_ineffective_faculties
+  label: impotent idols with human-like but ineffective faculties
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif critiques idols in support of exclusive worship or sacred prohibition,
+    which is already represented under sacred law/covenant aliases.
+  cautions: The existing idol alias is flagged for review; avoid reducing theological
+    polemic to a generic object motif without passage evidence.
+  suggested_aliases:
+  - impotent_idols
+  - idols_with_ineffective_human_faculties
+  - idols_that_see_not_hear_not
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impoverished-drunkard-summoned-as-possible-champion
+  motif_id: impoverished_drunkard_summoned_as_possible_champion
+  label: impoverished drunkard summoned as possible champion
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be a highly contextual character-role setup rather than
+    a stable motif label.
+  cautions: May fit divine_warrior or sacred_combat if the unlikely champion performs
+    a heroic combat role; otherwise preserve as episode detail.
+  suggested_aliases:
+  - unlikely_champion_summoned
+  - low_status_champion_candidate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.improper-display-of-decorated-monastic-objects
+  motif_id: improper_display_of_decorated_monastic_objects
+  label: improper display of decorated monastic objects
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Improper handling or display of religious objects fits monastic discipline,
+    ritual propriety, and sacred law.
+  cautions: Could be a vinaya/legal passage detail rather than a motif; exclude if
+    it functions only as rule commentary.
+  suggested_aliases:
+  - improper_display_of_religious_objects
+  - monastic_object_display_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.improper-entry-into-a-communal-religious-residence
+  motif_id: improper_entry_into_a_communal_religious_residence
+  label: Improper entry into a communal religious residence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Regulated access to a religious residence is a sacred-law or discipline
+    boundary rule.
+  cautions: If the passage emphasizes the threshold or transgressive entry as ordeal,
+    threshold_guardian could be relevant; may also be a monastic rule artifact.
+  suggested_aliases:
+  - improper_entry_into_monastic_residence
+  - unauthorized_entry_into_religious_residence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.improper-food-disposal-empowers-or-generates-demonic-life
+  motif_id: improper_food_disposal_empowers_or_generates_demonic_life
+  label: Improper food disposal empowers or generates demonic life
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Food-handling impurity that empowers demonic beings fits ritual prohibition,
+    purity law, and apotropaic sacred law.
+  cautions: Could also involve sacrifice or sacred_substance if food offering is central;
+    preserve demonic-generation specificity as evidence detail.
+  suggested_aliases:
+  - improper_food_disposal_empowers_demons
+  - food_impurity_generates_demonic_life
+  - ritual_food_disposal_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; suggested
+  placements should be treated as provisional facets, not taxonomy edits.
+- Impostor labels may warrant a future fraud/false-identity group if many recur, but
+  current recognition and judgment groups can hold these examples for review.
+- Monastic and ritual-propriety labels may be legal/commentarial artifacts; source
+  evidence should determine whether they remain queryable motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy changes applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3573
+  input_sha256: 0ba8f509f6e4a568698e40dbef1c21756b4a0b4d355d9475cdfb26b513d10399
+

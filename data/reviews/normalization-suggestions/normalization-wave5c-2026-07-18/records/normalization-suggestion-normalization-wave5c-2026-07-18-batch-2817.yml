@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2817
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.single-warrior-s-extraordinary-battle-prowess
+  motif_id: single_warrior_s_extraordinary_battle_prowess
+  label: Single warrior's extraordinary battle prowess
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: medium
+  rationale: A lone warrior's extraordinary prowess fits the heroic/divine warrior
+    combat cluster already containing outnumbered hero and battle-fury variants.
+  cautions: Single occurrence and generic wording; if no sacred, supernatural, or
+    order-defending function is present, it may be only a heroic combat detail.
+  suggested_aliases:
+  - lone_warrior_extraordinary_battle_prowess
+  - single_hero_extraordinary_battle_prowess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-warrior-turns-on-hostile-group-after-attempted-arrest
+  motif_id: single_warrior_turns_on_hostile_group_after_attempted_arrest
+  label: single warrior turns on hostile group after attempted arrest
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core is a lone warrior fighting a hostile group, which belongs with
+    sacred/heroic combat and outnumbered combat variants.
+  cautions: The attempted-arrest trigger is episode-specific; preserve it as evidence
+    rather than promoting a canonical motif unless it recurs.
+  suggested_aliases:
+  - lone_warrior_turns_on_hostile_group
+  - single_warrior_resists_arresting_group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-warrior-withstands-collective-attack-from-a-distance
+  motif_id: single_warrior_withstands_collective_attack_from_a_distance
+  label: single warrior withstands collective attack from a distance
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A solitary warrior enduring attack by a group aligns with outnumbered
+    hero and weapon-resistant warrior patterns under divine warrior combat.
+  cautions: Could instead fit conditional invulnerability if the evidence stresses
+    bodily weapon resistance or a special vulnerability condition.
+  suggested_aliases:
+  - lone_warrior_withstands_collective_attack
+  - single_hero_endures_attack_from_many
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sisters-who-heal-arrow-wounds-during-combat
+  motif_id: sisters_who_heal_arrow_wounds_during_combat
+  label: sisters who heal arrow wounds during combat
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kin roles, healing, arrows, and combat support without
+    enough evidence to choose between divine intervention, sacred combat, or healing/protection
+    motifs.
+  cautions: Culturally specific healing figures may have local significance; avoid
+    reducing them to generic battle aid without source review.
+  suggested_aliases:
+  - sister_healers_in_battle
+  - combat_wound_healing_by_sisters
+  - arrow_wounds_healed_during_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.six-region-color-coded-warriors
+  motif_id: six_region_color_coded_warriors
+  label: six-region color-coded warriors
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may encode sacred geography, directional color symbolism, warrior
+    classification, or a passage-specific list.
+  cautions: Native American directional/color systems are culturally sensitive and
+    should be reviewed with source context before mapping to combat or cosmology groups.
+  suggested_aliases:
+  - color_coded_warriors_of_six_regions
+  - six_direction_warrior_color_schema
+  - regional_color_warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.size-changing-dwarfs
+  motif_id: size_changing_dwarfs
+  label: size-changing dwarfs
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Changing size is a bodily transformation of supernatural beings, fitting
+    the shapeshifter/transformation group.
+  cautions: The conflict bucket may reflect episode context; if the size change is
+    only a monster attribute and not narratively functional, it may be too specific.
+  suggested_aliases:
+  - dwarfs_change_size
+  - size_shifting_dwarfs
+  - supernatural_dwarfs_change_size
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.skeptic-tests-a-feared-supernatural-object
+  motif_id: skeptic_tests_a_feared_supernatural_object
+  label: skeptic tests a feared supernatural object
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: The focal element is a feared supernatural object whose power is tested,
+    closest to sacred power objects.
+  cautions: May instead be a taboo-transgression, divine judgment, or skepticism exemplum;
+    source evidence is needed before firm mapping.
+  suggested_aliases:
+  - testing_a_feared_supernatural_object
+  - skeptic_challenges_supernatural_object_power
+  - trial_of_a_dangerous_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.skull-associated-helper-gives-advance-warning
+  motif_id: skull_associated_helper_gives_advance_warning
+  label: skull-associated helper gives advance warning
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A skull-helper warning may involve ancestral dead, a relic/power object,
+    prophecy, or spirit guidance, and the label alone does not distinguish these functions.
+  cautions: Do not collapse skull imagery into generic death or prophecy without knowing
+    whether the skull is a dead agent, object, oracle, or helper spirit.
+  suggested_aliases:
+  - skull_helper_warns_in_advance
+  - skull_associated_warning_helper
+  - warning_given_by_skull_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.skull-house-warning-of-prior-failures
+  motif_id: skull_house_warning_of_prior_failures
+  label: skull-house warning of prior failures
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: low
+  rationale: A skull-house that warns of previous failures likely marks a perilous
+    threshold or ordeal site before further passage.
+  cautions: Could be an over-specific setting detail, a house-of-death image, or a
+    quest warning; confirm that it functions as a threshold warning before indexing.
+  suggested_aliases:
+  - skull_house_warns_of_failed_predecessors
+  - house_of_skulls_warning
+  - warning_by_skulls_of_prior_failures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.skunk-fluid-as-lethal-weapon
+  motif_id: skunk_fluid_as_lethal_weapon
+  label: skunk fluid as lethal weapon
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label centers on a species-specific animal substance used as a weapon,
+    not clearly covered by existing sacred combat, trickster, or sacred substance
+    groups.
+  cautions: May be a local animal-trickster detail, etiological animal power, or episode-specific
+    combat device; review source context before grouping.
+  suggested_aliases:
+  - skunk_spray_as_lethal_weapon
+  - animal_fluid_used_as_deadly_weapon
+  - skunk_substance_kills_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence, combat-bucket items with high episode specificity;
+  suggested mappings should preserve details as evidence notes rather than canonical
+  children unless recurrence is demonstrated.
+- For Native American regional/color, healing, skull, and animal-substance labels,
+  human review is recommended where cultural context determines whether the motif
+  is cosmological, ritual, martial, or a local narrative detail.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2817
+  input_sha256: a7604816e0da6b5407aaf7711bb4802332e04d6011fac9abde4d8bc6192aaa83
+

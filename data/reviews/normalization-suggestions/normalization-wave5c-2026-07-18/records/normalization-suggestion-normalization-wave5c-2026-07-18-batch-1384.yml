@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1384
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.named-figure-located-in-a-special-place-title
+  motif_id: named_figure_located_in_a_special_place_title
+  label: named figure located in a special place title
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording identifies a title pattern involving a named figure and place,
+    not a reusable narrative or symbolic motif.
+  cautions: If the source passage itself presents a sacred place or otherworld location,
+    preserve that separately under the relevant place/otherworld group.
+  suggested_aliases:
+  - named figure in place title
+  - personal-name place title pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-figure-represented-in-successive-animal-forms
+  motif_id: named_figure_represented_in_successive_animal_forms
+  label: Named figure represented in successive animal forms
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Successive animal forms indicate bodily or symbolic transformation across
+    species, fitting the shapeshifter group.
+  cautions: Because the label says represented rather than transformed, verify whether
+    this is narrative metamorphosis, iconographic depiction, or a catalog of divine
+    forms.
+  suggested_aliases:
+  - successive animal forms of a named figure
+  - named figure in multiple animal forms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-first-discoverers-of-an-inland-lake
+  motif_id: named_first_discoverers_of_an_inland_lake
+  label: named first discoverers of an inland lake
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be an etiological discovery tradition, migration memory,
+    or named-place detail, but the motif function is unclear.
+  cautions: Do not map to cosmic_origin unless the lake's naming, creation, or landscape
+    origin is explicit; may be a person/place-only detail.
+  suggested_aliases:
+  - first discoverers of inland lake
+  - named lake discovery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-frightening-being-revealed-under-covering
+  motif_id: named_frightening_being_revealed_under_covering
+  label: named frightening being revealed under covering
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A concealed frightening being could involve revelation, taboo vision,
+    monster encounter, or ritual disclosure; the label alone is underdetermined.
+  cautions: Culturally sensitive source context is needed, especially if the covering
+    or being relates to restricted ritual knowledge.
+  suggested_aliases:
+  - frightening being revealed from under covering
+  - concealed frightening being disclosed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-group-migration-to-tongass
+  motif_id: named_group_migration_to_tongass
+  label: Named group migration to Tongass
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads as a specific ethnogeographic migration detail involving a
+    named group and place rather than a broad motif.
+  cautions: If the passage contains a mythic migration, origin of peoples, or sacred
+    geography pattern beyond the proper names, extract that as a separate motif.
+  suggested_aliases:
+  - named migration to Tongass
+  - group migration to named place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-heroes-repurposed-as-child-frightening-figures
+  motif_id: named_heroes_repurposed_as_child_frightening_figures
+  label: Named heroes repurposed as child-frightening figures
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a reception or social-use shift of named heroes into
+    frightening figures, not a clearly normalized narrative function.
+  cautions: May be commentary on later use of story figures rather than a motif; review
+    cultural context and avoid flattening named ceremonial or pedagogical roles.
+  suggested_aliases:
+  - heroes used to frighten children
+  - hero figures repurposed as child-frighteners
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-heroic-boar-as-title-focus
+  motif_id: named_heroic_boar_as_title_focus
+  label: named heroic boar as title focus
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase explicitly describes a title focus rather than the boar's
+    narrative role or symbolic function.
+  cautions: If the boar functions as a transformed figure, hunted animal, or heroic
+    adversary in the passage, create a separate evidence-based animal/combat mapping.
+  suggested_aliases:
+  - heroic boar title focus
+  - named boar in title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-heroic-horse-as-personal-attribute
+  motif_id: named_heroic_horse_as_personal_attribute
+  label: Named heroic horse as personal attribute
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A named horse may be a heroic attribute, helper, mount, or proper-name
+    detail; the narrative function is not clear from the label.
+  cautions: Map to shapeshifter/magical_animal_mount only if the horse has supernatural
+    agency or transformation function; otherwise exclude as a character attribute.
+  suggested_aliases:
+  - named heroic horse
+  - hero's named horse attribute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-hidden-force-in-a-hole-that-flings-victims
+  motif_id: named_hidden_force_in_a_hole_that_flings_victims
+  label: named hidden force in a hole that flings victims
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a named local force, hidden place, and attack mechanism;
+    it could be a threshold danger, spirit agency, or episode-specific hazard.
+  cautions: Single occurrence and highly specific; verify whether the hole is a liminal
+    threshold, trap, spirit dwelling, or just a local tale detail before grouping.
+  suggested_aliases:
+  - hidden force in a hole flings victims
+  - concealed hole force attacks victims
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-incomplete-rainbow-form
+  motif_id: named_incomplete_rainbow_form
+  label: Named incomplete rainbow form
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A named incomplete rainbow form may be cosmological, ceremonial, iconographic,
+    or a proper-name detail; existing groups do not resolve its function.
+  cautions: Culturally sensitive ceremonial context may be involved; avoid broad nature/cosmos
+    mapping without evidence for rainbow's role in order, boundary, or revelation.
+  suggested_aliases:
+  - incomplete rainbow form
+  - named rainbow form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels begin with 'named' and appear to encode title, proper-name, or local-place
+  artifacts rather than motif functions; preserve source details but avoid broad pattern
+  indexing unless passage evidence supports a reusable motif.
+- For culturally specific Indigenous and Aboriginal items, source context should be
+  reviewed before assigning symbolic or ritual categories.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human taxonomy review recommended
+    for ambiguous named/culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1384
+  input_sha256: d8e99d12c1448716320d0d5e2334f2a83377cae6dedfe95ad5a43ef9b628d83b
+

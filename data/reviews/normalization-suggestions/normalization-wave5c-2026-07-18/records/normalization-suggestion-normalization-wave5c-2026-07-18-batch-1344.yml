@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1344
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.horned-animal-force-in-war-song
+  motif_id: horned_animal_force_in_war_song
+  label: Horned animal force in war song
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe song as a power-bearing war expression, but the
+    horned-animal force could instead be animal symbolism, combat imagery, or a source-specific
+    lyric detail.
+  cautions: Single occurrence and culturally specific ceremonial/song context; verify
+    whether the song itself acts as power before indexing under storytelling_as_power
+    or sacred_combat.
+  suggested_aliases:
+  - war song invoking horned animal force
+  - horned animal power in song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.horned-beings-as-sources-of-personal-names
+  motif_id: horned_beings_as_sources_of_personal_names
+  label: horned beings as sources of personal names
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: Receiving names from nonhuman or sacred beings may involve transmitted
+    sacred knowledge or identity-bestowal, but the label lacks context.
+  cautions: Potentially culturally sensitive naming practice; do not reduce to generic
+    revelation without source evidence. Could also relate to divine_intervention,
+    sacred_law, or person/place-only naming detail.
+  suggested_aliases:
+  - personal names bestowed by horned beings
+  - horned beings as name sources
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.horse-capture-raid-commemorated-by-song
+  motif_id: horse_capture_raid_commemorated_by_song
+  label: horse-capture raid commemorated by song
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is a raid commemorated through song, aligning with warfare/raiding
+    as ritually or socially significant action.
+  cautions: If the passage is mainly about performance tradition rather than the raid,
+    storytelling_as_power or exclusion as corpus metadata may be better.
+  suggested_aliases:
+  - horse raid commemorative song
+  - song commemorating horse capture raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.horse-seeking-roaming-song
+  motif_id: horse_seeking_roaming_song
+  label: Horse-seeking roaming song
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates a song connected to searching or roaming for horses,
+    but its narrative or ritual function is unclear.
+  cautions: May be a song-title or corpus classification artifact rather than a motif.
+    Confirm whether the song performs a sacred, commemorative, or journey-guiding
+    function.
+  suggested_aliases:
+  - horse seeking song
+  - roaming song for seeking horses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.horse-song-associated-with-war-song-corpus
+  motif_id: horse_song_associated_with_war_song_corpus
+  label: Horse song associated with war-song corpus
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase describes classification within a song corpus rather than
+    a narrative or symbolic motif.
+  cautions: Preserve as provenance or genre metadata if useful; if a passage describes
+    horse-song ritual power, remap that evidence separately.
+  suggested_aliases:
+  - horse song in war-song corpus
+  - war-song corpus horse song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.horse-taking-raid-song
+  motif_id: horse_taking_raid_song
+  label: Horse-taking raid song
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A horse-taking raid belongs with raiding and warfare motifs; the song
+    form preserves or ritualizes the raid event.
+  cautions: If only a song genre label, consider _meta_textual; if the song itself
+    has supernatural efficacy, storytelling_as_power may be a secondary relation.
+  suggested_aliases:
+  - horse raid song
+  - horse-taking song
+  - song of horse-taking raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-by-named-bird-associated-hosts
+  motif_id: hospitality_by_named_bird_associated_hosts
+  label: hospitality by named bird-associated hosts
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core motif appears to be hospitality offered by hosts; bird association
+    and names are likely local evidence details.
+  cautions: If bird-associated hosts are supernatural or clan-specific beings, review
+    for divine_intervention, otherworld, or culturally specific identity context.
+  suggested_aliases:
+  - bird-associated hosts offer hospitality
+  - named bird hosts provide hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-display-through-dance-and-song
+  motif_id: hospitality_display_through_dance_and_song
+  label: hospitality display through dance and song
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Dance and song function as the mode of receiving or honoring guests,
+    fitting the hospitality complex.
+  cautions: If the passage emphasizes performance power rather than guest reception,
+    enchanting_music or storytelling_as_power may be relevant secondary mappings.
+  suggested_aliases:
+  - hospitality shown through song and dance
+  - guest reception by dance and song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-meal-before-gift-and-instruction
+  motif_id: hospitality_meal_before_gift_and_instruction
+  label: hospitality meal before gift and instruction
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: high
+  rationale: A meal offered before gift and instruction fits sacred hospitality and
+    reciprocal guest-host exchange.
+  cautions: Gift and instruction may also support sacred_exchange or sacred_knowledge;
+    keep sequence detail as evidence rather than a new group.
+  suggested_aliases:
+  - hospitality meal precedes gift and instruction
+  - guest meal before instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-to-strangers-through-song-meal-and-animal-feed-gift
+  motif_id: hospitality_to_strangers_through_song_meal_and_animal_feed_gift
+  label: hospitality to strangers through song, meal, and animal-feed gift
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: over_specific_label
+  confidence: high
+  rationale: The label clearly centers on hospitality to strangers; song, meal, and
+    animal-feed gift are specific modes of welcome.
+  cautions: Highly detailed single occurrence; preserve local practices as evidence.
+    If the gift exchange is primary, sacred_exchange may be secondary.
+  suggested_aliases:
+  - hospitality to strangers through song and meal
+  - strangers welcomed with meal song and animal feed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Plains horse-song labels may be performance-corpus metadata rather than
+  motifs; review source evidence before broad indexing.
+- Hospitality labels in this batch generally fit hospitality_test_stranger_guest,
+  with sacred_exchange or storytelling_as_power as possible secondary relations depending
+  on passage function.
+- For Native American song and naming labels, retain culturally specific wording in
+  evidence notes and avoid assuming generic sacred-song or revelation functions without
+  source support.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific song, naming,
+    and hospitality contexts require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1344
+  input_sha256: 148b98c808b8ab81a0c7ed933a34d5c52203b29e355c2a6f4b98661c80fc0e61
+

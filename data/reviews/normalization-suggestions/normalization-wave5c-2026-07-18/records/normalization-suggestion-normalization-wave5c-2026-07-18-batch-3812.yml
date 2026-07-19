@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3812
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prophetic-foreshadowing-by-multiple-scriptural-witnesses
+  motif_id: prophetic_foreshadowing_by_multiple_scriptural_witnesses
+  label: Prophetic foreshadowing by multiple scriptural witnesses
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on prophetic witness and foreshadowing, fitting the
+    prophecy/divination knowledge function.
+  cautions: Single occurrence and phrased as scriptural interpretation; may be theological
+    exegesis rather than a narrative motif.
+  suggested_aliases:
+  - prophetic_scriptural_witnesses
+  - scriptural_witness_foreshadowing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-foreshadowing-through-earlier-figures
+  motif_id: prophetic_foreshadowing_through_earlier_figures
+  label: Prophetic foreshadowing through earlier figures
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Earlier figures functioning as anticipatory signs belongs with prophecy
+    and hidden/future knowledge.
+  cautions: Could be typological interpretation or commentary artifact if it only
+    describes later scriptural reading.
+  suggested_aliases:
+  - typological_prophetic_foreshadowing
+  - earlier_figures_as_prophetic_signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-hymn-correspondence
+  motif_id: prophetic_hymn_correspondence
+  label: prophetic hymn correspondence
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to prophetic speech, sacred song, or textual correspondence,
+    but its function is unclear.
+  cautions: Likely depends on source evidence; could map to prophecy_divination, sacred_song
+    under mystical_quest, sacred_knowledge, or be a textual artifact.
+  suggested_aliases:
+  - hymnic_prophetic_correspondence
+  - prophetic_correspondence_in_hymn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-intercession-for-communal-peace
+  motif_id: prophetic_intercession_for_communal_peace
+  label: prophetic intercession for communal peace
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Intercession petitions sacred powers to repair or preserve communal relations,
+    fitting sacred exchange and reciprocity.
+  cautions: If the prophet's institutional role is primary, prophecy_divination may
+    be a secondary mapping; if social order is primary, covenant may also fit.
+  suggested_aliases:
+  - prophetic_petition_for_peace
+  - intercession_for_communal_peace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-intercession-for-subsistence
+  motif_id: prophetic_intercession_for_subsistence
+  label: prophetic intercession for subsistence
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prophetic petition for food or livelihood is a sacred request for provision
+    within reciprocal divine-human relations.
+  cautions: Could also fit divine_intervention if the passage emphasizes miraculous
+    provision rather than intercessory petition.
+  suggested_aliases:
+  - prophetic_petition_for_subsistence
+  - intercession_for_divine_provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-lamentation-and-exhortation-to-deity-and-people
+  motif_id: prophetic_lamentation_and_exhortation_to_deity_and_people
+  label: prophetic lamentation and exhortation to deity and people
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines lament, exhortation, prophetic role, and divine-human
+    address, with no single function clear from the label.
+  cautions: May belong to lament_and_mourning, curse_blessing_speech, prophecy_divination,
+    covenant, or be an over-composite passage summary.
+  suggested_aliases:
+  - prophetic_lament_and_exhortation
+  - prophetic_address_to_deity_and_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-miracle-through-transformed-or-responsive-objects
+  motif_id: prophetic_miracle_through_transformed_or_responsive_objects
+  label: prophetic miracle through transformed or responsive objects
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Miracles mediated through objects are direct sacred intervention in human
+    affairs.
+  cautions: If the object's agency or manufacture is central, sacred_treasures or
+    sacred_craft may be relevant secondary groups.
+  suggested_aliases:
+  - miracle_through_responsive_objects
+  - prophetic_object_miracle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-miracles-and-escape-from-difficulty
+  motif_id: prophetic_miracles_and_escape_from_difficulty
+  label: prophetic miracles and escape from difficulty
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Miraculous deliverance from danger or difficulty is a clear divine-intervention
+    pattern.
+  cautions: The label is broad and may summarize multiple episodes; preserve specific
+    miracle evidence when available.
+  suggested_aliases:
+  - prophetic_miraculous_deliverance
+  - miraculous_escape_from_difficulty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-mission-and-required-innocence
+  motif_id: prophetic_mission_and_required_innocence
+  label: Prophetic mission and required innocence
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern prophetic calling, moral purity, or doctrinal qualification
+    for mission.
+  cautions: Potentially culturally sensitive and theological; source evidence needed
+    before mapping to divine_call, sacred_law, covenant, or prophecy_divination.
+  suggested_aliases:
+  - innocence_required_for_prophetic_mission
+  - prophetic_mission_and_purity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-or-apocalyptic-textual-pattern
+  motif_id: prophetic_or_apocalyptic_textual_pattern
+  label: Prophetic or apocalyptic textual pattern
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes a textual pattern or genre classification rather
+    than a symbolic or narrative motif.
+  cautions: If individual passages contain apocalyptic visions, judgments, or cosmic
+    renewal scenes, index those concrete motifs separately.
+  suggested_aliases:
+  - apocalyptic_textual_pattern
+  - prophetic_textual_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use 'prophetic' as a role marker rather than a motif function; reviewers
+  should distinguish prophetic speech, intercession, miracle, textual typology, and
+  doctrinal qualification.
+- Single-occurrence and tradition-specific labels should preserve source notes and
+  avoid creating new groups unless similar prophetic-role motifs recur across batches.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed especially
+    for composite prophetic/theological labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3812
+  input_sha256: d1d023fbbfa0a371e27a6e6bb36b16ba86b2e89ca804ac4f7eb82172e01049d3
+

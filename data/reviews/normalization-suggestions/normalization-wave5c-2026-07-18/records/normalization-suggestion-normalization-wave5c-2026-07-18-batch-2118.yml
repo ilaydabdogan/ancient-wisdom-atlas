@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2118
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bodisat-in-animal-form
+  motif_id: bodisat_in_animal_form
+  label: Bodisat in animal form
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A bodhisattva appearing or being remembered in animal form fits human/divine-to-animal
+    transformation or animal embodiment.
+  cautions: May be a Jataka role label rather than a distinct motif; if the animal
+    form is just protagonist identity, preserve as evidence detail.
+  suggested_aliases:
+  - bodhisattva_in_animal_form
+  - bodhisattva_animal_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodisat-in-animal-form-as-religious-devotee
+  motif_id: bodisat_in_animal_form_as_religious_devotee
+  label: Bodisat in animal form as religious devotee
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: role_variant
+  confidence: low
+  rationale: Animal embodiment suggests shapeshifter, while the devotee role may instead
+    index religious exemplarity or Buddhist didactic framing.
+  cautions: Single Buddhist-context label may be too role-specific or text-type-specific;
+    verify whether the motif is animal transformation, devotion, or a Jataka protagonist
+    label.
+  suggested_aliases:
+  - bodhisattva_in_animal_form_as_religious_devotee
+  - animal_bodhisattva_devotee
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-as-beast-to-be-restrained
+  motif_id: body_as_beast_to_be_restrained
+  label: Body as beast to be restrained
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The animalized body is a metaphor for disciplining the self on an interior
+    mystical path.
+  cautions: Do not map to literal animal transformation unless the passage narrates
+    bodily change; this is likely ethical-mystical imagery.
+  suggested_aliases:
+  - body_as_animal_to_be_restrained
+  - animal_body_as_lower_self
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-modification-enables-animal-participation-in-a-contest
+  motif_id: body_modification_enables_animal_participation_in_a_contest
+  label: Body modification enables animal participation in a contest
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal participation, bodily alteration, and contest
+    function without a clear existing group fit.
+  cautions: Could be transformation, sacred combat/contest, etiological animal attribute,
+    or an over-specific episode detail; source evidence is needed.
+  suggested_aliases:
+  - animal_body_modified_for_contest
+  - body_alteration_allows_animal_contest_participation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-part-correspondences-between-cosmic-animal-and-healing-plants
+  motif_id: body_part_correspondences_between_cosmic_animal_and_healing_plants
+  label: Body-part correspondences between cosmic animal and healing plants
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to describe cosmological correspondences and healing knowledge
+    rather than a simple animal-transformation motif.
+  cautions: May belong with sacred_knowledge, cosmic_origin, primordial_sacrifice,
+    or sacred_substance depending on whether the passage emphasizes doctrine, creation
+    from a body, or healing plants.
+  suggested_aliases:
+  - cosmic_animal_body_part_plant_correspondences
+  - healing_plants_correspond_to_cosmic_animal_body_parts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-parts-transformed-into-animals
+  motif_id: body_parts_transformed_into_animals
+  label: Body parts transformed into animals
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Body parts becoming animals is a transformation of bodily substance into
+    new living forms.
+  cautions: If the transformation explains the origin of species or a world feature,
+    cosmic_origin may be a secondary placement; if tied to dismemberment sacrifice,
+    consider primordial_sacrifice.
+  suggested_aliases:
+  - body_parts_become_animals
+  - transformation_of_body_parts_into_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-parts-transformed-into-sea-animals
+  motif_id: body_parts_transformed_into_sea_animals
+  label: Body parts transformed into sea animals
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Sea-animal specification narrows the broader pattern of body parts transformed
+    into living animal forms.
+  cautions: Likely related to species-origin etiology; consider cosmic_origin only
+    if the passage is primarily explaining the origin of sea animals.
+  suggested_aliases:
+  - body_parts_become_sea_animals
+  - transformation_of_body_parts_into_sea_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.borrowed-object-theft-explains-animal-attribute-loss
+  motif_id: borrowed_object_theft_explains_animal_attribute_loss
+  label: borrowed object theft explains animal attribute loss
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Theft causing an etiological change to an animal attribute fits trickster-like
+    deception and boundary-crossing behavior.
+  cautions: If no trickster figure is present, this may be better treated as an etiological
+    animal tale detail; existing taxonomy lacks a dedicated animal-attribute etiology
+    group.
+  suggested_aliases:
+  - theft_explains_animal_attribute_loss
+  - stolen_borrowed_object_causes_animal_attribute_loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bound-captive-escapes-by-slaying-the-devouring-beast
+  motif_id: bound_captive_escapes_by_slaying_the_devouring_beast
+  label: bound captive escapes by slaying the devouring beast
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Escape through killing a devouring beast is a combat ordeal against a
+    monstrous threat.
+  cautions: Could instead fit initiation or hero_journey if the captivity and escape
+    are transformative ordeal rather than sacred combat; beast type and narrative
+    function should be reviewed.
+  suggested_aliases:
+  - captive_escapes_by_slaying_devouring_beast
+  - bound_victim_slays_devouring_beast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bound-captive-exposed-to-a-beast
+  motif_id: bound_captive_exposed_to_a_beast
+  label: bound captive exposed to a beast
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a peril scene but does not show whether the function
+    is ordeal, punishment, sacrifice, combat, or rescue setup.
+  cautions: May be an over-specific episode detail; map only after checking whether
+    the beast exposure produces initiation, divine judgment, heroic combat, or sacrificial
+    offering.
+  suggested_aliases:
+  - captive_exposed_to_beast
+  - bound_prisoner_offered_to_beast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence animal-episode labels; preserve local evidence
+  and avoid promoting new motif groups without recurrence.
+- Bodisat/Bodhisattva labels may reflect Jataka narrative role rather than a reusable
+  transformation motif; human review should verify source context.
+- Animal-origin or animal-attribute etiologies recur in this batch but are not yet
+  clearly represented by a dedicated existing group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; ambiguous single-occurrence labels
+    require source review before taxonomy edits.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2118
+  input_sha256: be66cf8603a9cecaa51e9281513c0481eb3ce3e290c2828d9fedec8c21414c79
+

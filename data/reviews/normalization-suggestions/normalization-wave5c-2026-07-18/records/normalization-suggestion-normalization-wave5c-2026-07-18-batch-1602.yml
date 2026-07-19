@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1602
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.invalid-judgment-through-misclassified-offence
+  motif_id: invalid_judgment_through_misclassified_offence
+  label: invalid judgment through misclassified offence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: The label concerns wrongful evaluation and moral/legal reckoning, closest
+    to judgment motifs.
+  cautions: Single occurrence; may be a legal or doctrinal commentary detail rather
+    than a mythic motif. If no sacred or moral reckoning is present, exclude or park
+    under sacred_law.
+  suggested_aliases:
+  - wrongful_judgment_by_misclassified_offence
+  - misclassified_offence_invalidates_judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inversional-conflict-between-lesser-and-honored-groups
+  motif_id: inversional_conflict_between_lesser_and_honored_groups
+  label: inversional conflict between lesser and honored groups
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording suggests social-status inversion, but the narrative function
+    is unclear from the label alone.
+  cautions: Could fit divine_judgment, sacred_law, pride_and_downfall, or a passage-specific
+    social conflict note. Needs source context before mapping.
+  suggested_aliases:
+  - status_inversion_conflict
+  - conflict_between_lowly_and_honored_groups
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invulnerable-speaking-animal-invites-hunter-home
+  motif_id: invulnerable_speaking_animal_invites_hunter_home
+  label: Invulnerable speaking animal invites hunter home
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines animal speech, invulnerability, invitation, and hunter encounter;
+    no single existing group captures the composite function.
+  cautions: Could involve trickster, otherworld hospitality, animal helper, conditional
+    invulnerability, or culturally specific animal-person relations. Review source
+    evidence before reducing to invulnerability or trickster.
+  suggested_aliases:
+  - speaking_invulnerable_animal_hosts_hunter
+  - hunter_invited_home_by_speaking_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ironic-concession-invoking-the-stronger-opponent-s-anger
+  motif_id: ironic_concession_invoking_the_stronger_opponent_s_anger
+  label: ironic concession invoking the stronger opponent's anger
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: If used in conflict, the ironic speech functions like provocation or
+    pre-combat verbal strategy.
+  cautions: May be only a rhetorical detail, not a durable motif. If the passage is
+    not combat-centered, consider storytelling_as_power or exclude as over-specific.
+  suggested_aliases:
+  - ironic_concession_provokes_opponent
+  - provocative_concession_before_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.irresistibly-pleasant-water-causing-incapacity
+  motif_id: irresistibly_pleasant_water_causing_incapacity
+  label: irresistibly pleasant water causing incapacity
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Water acts as a dangerous or transformative substance whose attraction
+    incapacitates the drinker or passerby.
+  cautions: Could also fit sacred_substance if the key is ingestion/intoxication rather
+    than water as boundary or sacred medium. Avoid mapping to flood_and_renewal.
+  suggested_aliases:
+  - enchanted_water_causes_incapacity
+  - pleasant_water_that_overpowers_the_drinker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.island-defender-who-secures-a-queen-s-castle
+  motif_id: island_defender_who_secures_a_queen_s_castle
+  label: Island defender who secures a queen's castle
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a protective martial role, an otherworld island,
+    or royal defense episode.
+  cautions: Likely over-specific to an Arthurian episode. Source context needed to
+    decide between divine_warrior, sacred_combat, royal_legitimacy, otherworld, or
+    exclusion.
+  suggested_aliases:
+  - defender_secures_queen_s_castle
+  - island_castle_defender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.island-wide-non-killing-command-by-a-king
+  motif_id: island_wide_non_killing_command_by_a_king
+  label: Island-wide non-killing command by a king
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: medium
+  rationale: A royal command regulating killing across a realm functions as sacred
+    or ethical law shaping social order.
+  cautions: If the focus is royal virtue or legitimacy rather than the command itself,
+    royal_legitimacy may be a secondary mapping. Single occurrence and geographically
+    specific wording should remain evidence detail.
+  suggested_aliases:
+  - royal_non_killing_decree
+  - king_s_realm_wide_command_against_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.isolated-people-preserving-distinct-tradition-apart-from-a-dominant-cultural-order
+  motif_id: isolated_people_preserving_distinct_tradition_apart_from_a_dominant_cultural_order
+  label: Isolated people preserving distinct tradition apart from a dominant cultural
+    order
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an ethnographic or cultural-historical description
+    rather than a narrative motif.
+  cautions: If the source depicts an enchanted hidden people or otherworld enclave,
+    review for otherworld instead. Do not use as transmission or isolation evidence
+    in motif queries.
+  suggested_aliases:
+  - isolated_tradition_apart_from_dominant_order
+  - distinct_people_preserving_separate_tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.isolation-from-civic-order-produces-fear
+  motif_id: isolation_from_civic_order_produces_fear
+  label: Isolation from civic order produces fear
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is an abstract social-psychological theme with unclear motif function.
+  cautions: Could be philosophical commentary, civic-order ideology, exile motif,
+    or emotional consequence rather than a recurring mythic pattern. Needs passage
+    evidence before mapping.
+  suggested_aliases:
+  - fear_from_separation_from_civic_order
+  - civic_isolation_as_fear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-co-wives-oppose-a-favored-queen-or-wife
+  motif_id: jealous_co_wives_oppose_a_favored_queen_or_wife
+  label: Jealous co-wives oppose a favored queen or wife
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: functional_variant
+  confidence: low
+  rationale: The closest existing group covers jealousy and persecution within a household
+    by rival wives or caretakers.
+  cautions: The current group is child-centered, while this label targets a favored
+    wife or queen. If similar co-wife rivalry labels recur, a broader household-rivalry
+    group may be warranted.
+  suggested_aliases:
+  - jealous_co_wives_oppose_favored_wife
+  - rival_wives_persecute_favored_queen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and abstract or episode-specific;
+  suggested placements should be treated as provisional evidence parking, not taxonomy
+  changes.
+- Power/social-order bucket labels often mapped better to sacred_law, divine_judgment,
+  sacred_combat, or exclusion depending on narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Human review recommended for composite animal, civic-isolation, status-inversion,
+    and Arthurian castle-defense labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1602
+  input_sha256: c29810571fc980a26c8991e91e9f2661eeba220c0bd5a8a3e831c4f431633569
+

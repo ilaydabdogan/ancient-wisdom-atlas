@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0812
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dual-religious-structure-of-priests-and-laypeople
+  motif_id: dual_religious_structure_of_priests_and_laypeople
+  label: dual religious structure of priests and laypeople
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns sacred social organization and ritual role division,
+    which may fit sacred law or social order.
+  cautions: Single occurrence and may be a descriptive sociological artifact rather
+    than a mythic motif; verify passage function before indexing.
+  suggested_aliases:
+  - priest_lay_religious_structure
+  - ritual_roles_of_priests_and_laypeople
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.duplication-to-protect-a-sacred-treasure
+  motif_id: duplication_to_protect_a_sacred_treasure
+  label: duplication to protect a sacred treasure
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The action centers on preserving a sacred power object through duplication
+    or decoy-making.
+  cautions: If duplication is the main supernatural craft process rather than treasure
+    protection, sacred_craft may be a secondary relation.
+  suggested_aliases:
+  - protective_duplication_of_sacred_object
+  - duplicate_sacred_treasure_as_decoy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dwarf-suitor-seeks-a-god-s-daughter
+  motif_id: dwarf_suitor_seeks_a_god_s_daughter
+  label: Dwarf suitor seeks a god's daughter
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve divine marriage, boundary crossing, or a source-specific
+    episode, but function is unclear from wording alone.
+  cautions: Likely over-specific to a Norse narrative episode; do not map to sacred_love
+    or sacred_marriage without evidence that courtship establishes order, alliance,
+    or transformation.
+  suggested_aliases:
+  - dwarf_suitor_for_divine_bride
+  - supernatural_suitor_seeks_divine_daughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dwarven-smiths-make-divine-and-magical-artifacts
+  motif_id: dwarven_smiths_make_divine_and_magical_artifacts
+  label: Dwarven smiths make divine and magical artifacts
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on supernatural smiths producing divine or magical
+    crafted objects.
+  cautions: Specific artifacts may also index under sacred_treasures, but the primary
+    function is sacred craft or manufacture.
+  suggested_aliases:
+  - supernatural_smiths_forge_divine_artifacts
+  - dwarven_forging_of_magical_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dynastic-inheritance-of-ritual-music
+  motif_id: dynastic_inheritance_of_ritual_music
+  label: Dynastic inheritance of ritual music
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Inherited ritual music may express lineage-based ritual order and social
+    continuity.
+  cautions: Could instead belong with sacred_time, royal_legitimacy, or enchanting_music
+    depending on whether the passage emphasizes rite, dynasty, rulership, or sound
+    power; single occurrence may be contextual.
+  suggested_aliases:
+  - ritual_music_inherited_by_lineage
+  - lineage_transmission_of_ritual_music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.early-sacred-duty-routine-before-solitude
+  motif_id: early_sacred_duty_routine_before_solitude
+  label: early sacred-duty routine before solitude
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a passage-specific routine or biographical detail
+    rather than a recurring symbolic motif.
+  cautions: If the evidence frames the routine as formal renunciation or ascetic initiation,
+    consider mystical_quest or sacred_law on review.
+  suggested_aliases:
+  - sacred_duty_before_solitary_retreat
+  - pre_solitude_religious_routine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.earth-as-goddess-inhabited-sacred-body
+  motif_id: earth_as_goddess_inhabited_sacred_body
+  label: Earth as goddess-inhabited sacred body
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Earth personified or inhabited as a sacred feminine body fits the mother-goddess
+    and sacred-feminine field.
+  cautions: If the emphasis is ritual purity toward the earth rather than divine feminine
+    embodiment, sacred_law may be a secondary placement.
+  suggested_aliases:
+  - earth_as_sacred_goddess_body
+  - goddess_inhabited_earth_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.earth-baked-ceremonial-food-for-ritual-workers
+  motif_id: earth_baked_ceremonial_food_for_ritual_workers
+  label: earth-baked ceremonial food for ritual workers
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ceremonial food used by ritual workers fits sacred food or ritual substance
+    in a broad sense.
+  cautions: Culturally specific food practice may be over-specific; could also be
+    sacred_exchange if feeding ritual participants is reciprocal offering rather than
+    a power substance.
+  suggested_aliases:
+  - ceremonial_food_for_ritual_workers
+  - earth_baked_ritual_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.earth-comforted-or-harmed-by-human-conduct-and-ritual-purity
+  motif_id: earth_comforted_or_harmed_by_human_conduct_and_ritual_purity
+  label: Earth comforted or harmed by human conduct and ritual purity
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label links human conduct and purity rules to the condition of the
+    earth, fitting sacred law and ritual purity.
+  cautions: If the earth is an acting divine person rather than object of purity law,
+    mother_goddess or divine_judgment may be relevant secondary mappings.
+  suggested_aliases:
+  - ritual_purity_affects_the_earth
+  - human_conduct_harms_or_comforts_earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.earth-emerging-invisible-ritual-helpers-summoned-by-drum
+  motif_id: earth_emerging_invisible_ritual_helpers_summoned_by_drum
+  label: Earth-emerging invisible ritual helpers summoned by drum
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: low
+  rationale: Invisible helpers summoned ritually may fit sacred intervention or spirit
+    aid in human affairs.
+  cautions: Composite and culturally specific; could involve ritual music, tutelary
+    spirits, earth emergence, or ceremonial practice. Human review should avoid flattening
+    local spirit categories.
+  suggested_aliases:
+  - invisible_ritual_helpers_summoned_by_drum
+  - earth_emerging_spirit_helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no transmission or borrowing
+  claims are implied.
+- Several labels in this batch are single-occurrence ritual or ethnographic descriptions
+  and should be checked against passage evidence before use in broad Pattern Explorer
+  queries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Wave 5c batch 0812 automated normalization suggestions; human review recommended
+    for culturally specific ritual labels and over-specific narrative episodes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0812
+  input_sha256: b345059deba9d7ec243d8191270d30da03941fc7ed87b667ded5eb6194284d34
+

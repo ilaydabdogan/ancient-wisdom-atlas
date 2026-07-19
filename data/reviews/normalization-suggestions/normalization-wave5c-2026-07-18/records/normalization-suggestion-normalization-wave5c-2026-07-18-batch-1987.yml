@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1987
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.seasonal-subsistence-labor-overrides-feud-timing
+  motif_id: seasonal_subsistence_labor_overrides_feud_timing
+  label: Seasonal subsistence labor overrides feud timing
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: uncertain
+  confidence: low
+  rationale: Seasonal timing is present, but the label sounds like social-economic
+    scheduling rather than a ritual or mythic time pattern.
+  cautions: Single occurrence; may be a saga contextual detail about labor and feud
+    logistics rather than a reusable motif.
+  suggested_aliases:
+  - seasonal_labor_delays_feud
+  - subsistence_calendar_overrides_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seasonal-subsistence-round
+  motif_id: seasonal_subsistence_round
+  label: seasonal subsistence round
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: uncertain
+  confidence: low
+  rationale: A seasonal round may fit sacred or ritual time only if the passage frames
+    subsistence movement ritually or cosmologically.
+  cautions: Could be ethnographic background or ecological context rather than a narrative
+    motif; review source evidence before indexing.
+  suggested_aliases:
+  - seasonal_subsistence_cycle
+  - seasonal_mobility_round
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seasonal-tent-adaptation
+  motif_id: seasonal_tent_adaptation
+  label: seasonal tent adaptation
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes practical seasonal dwelling adaptation, not a symbolic
+    or narrative motif in the supplied taxonomy.
+  cautions: If a source frames the tent as a ritual space, threshold, or cosmological
+    dwelling, reconsider under sacred_vessel, world_center, or sacred_time.
+  suggested_aliases:
+  - seasonal_dwelling_adaptation
+  - seasonal_shelter_adaptation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seasonal-textile-production-and-gendered-craft-labor
+  motif_id: seasonal_textile_production_and_gendered_craft_labor
+  label: seasonal textile production and gendered craft labor
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: low
+  rationale: Craft labor could relate to sacred_craft, but this label primarily reads
+    as seasonal and gendered subsistence practice.
+  cautions: Do not map to sacred_craft unless the passage gives textile production
+    sacred, mythic, ritual, or transformative significance.
+  suggested_aliases:
+  - seasonal_textile_labor
+  - gendered_seasonal_craft_labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seasonally-differentiated-intoxication
+  motif_id: seasonally_differentiated_intoxication
+  label: Seasonally differentiated intoxication
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Intoxication through seasonally patterned substances fits sacred_substance
+    when tied to ritual, myth, or altered states.
+  cautions: If the passage merely notes seasonal availability or social drinking,
+    treat as contextual detail rather than motif.
+  suggested_aliases:
+  - seasonal_intoxication
+  - seasonal_ritual_intoxication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secluded-beautiful-maiden-guarded-from-strangers
+  motif_id: secluded_beautiful_maiden_guarded_from_strangers
+  label: secluded beautiful maiden guarded from strangers
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A guarded secluded maiden commonly functions in bride-winning, courtship
+    obstacle, or protected-beloved narratives already covered by sacred_love.
+  cautions: Could instead be social seclusion, captivity, or taboo protection; review
+    whether love, marriage, or bride-winning drives the episode.
+  suggested_aliases:
+  - guarded_secluded_maiden
+  - protected_beloved_guarded_from_strangers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secluded-bride-behind-many-locks-and-guards
+  motif_id: secluded_bride_behind_many_locks_and_guards
+  label: Secluded bride behind many locks and guards
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The bride hidden behind locks and guards is a marriage-obstacle or bride-winning
+    variant within the sacred_love group.
+  cautions: If the passage emphasizes imprisonment, taboo enclosure, or rescue rather
+    than courtship/marriage, secondary review may be needed.
+  suggested_aliases:
+  - guarded_secluded_bride
+  - bride_behind_locks_and_guards
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secluded-daughter-central-to-supernatural-demand
+  motif_id: secluded_daughter_central_to_supernatural_demand
+  label: Secluded daughter central to supernatural demand
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kinship seclusion with a supernatural demand, but
+    the narrative function is unclear from the label alone.
+  cautions: Could fit sacred_love, sacrifice, divine_intervention, miraculous_child,
+    or hostage/bride-demand patterns depending on source evidence.
+  suggested_aliases:
+  - secluded_daughter_in_supernatural_demand
+  - supernatural_demand_for_secluded_daughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seclusion-and-delayed-reintegration-after-menstruation-or-childbirth
+  motif_id: seclusion_and_delayed_reintegration_after_menstruation_or_childbirth
+  label: seclusion and delayed reintegration after menstruation or childbirth
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: This is a purity and reintegration rule governing bodily states, fitting
+    sacred_law and ritual prohibition patterns.
+  cautions: Handle culturally specific purity practices carefully; may also relate
+    to birth/body rites, but current taxonomy best supports sacred_law.
+  suggested_aliases:
+  - postpartum_or_menstrual_seclusion
+  - ritual_reintegration_after_menstruation_or_childbirth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secrecy-around-women-and-love
+  motif_id: secrecy_around_women_and_love
+  label: secrecy around women and love
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: Love secrecy may belong with sacred_love, but the label is broad and
+    could describe social convention rather than motif structure.
+  cautions: Review whether secrecy causes narrative action, taboo violation, hidden
+    identity, or courtship ordeal before indexing.
+  suggested_aliases:
+  - secret_love
+  - secrecy_surrounding_women_and_love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several seasonal labor and subsistence labels appear ethnographic or contextual
+  rather than symbolic motifs; source evidence should decide whether they enter sacred_time
+  or remain excluded.
+- Bride or maiden seclusion labels are provisionally placed near sacred_love only
+  where courtship, bride-winning, or guarded-beloved functions are likely.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1987
+  input_sha256: 80f9ca3066d5f91fb3697583861ad24c84d8a3e39d8c5be0eafe4a3e133dc94b
+

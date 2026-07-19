@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2207
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.magic-formula-opens-and-closes-an-animal-body
+  motif_id: magic_formula_opens_and_closes_an_animal_body
+  label: magic formula opens and closes an animal body
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe bodily transformation, magical access, healing,
+    or a passage-specific formula rather than a stable motif.
+  cautions: Single occurrence; culturally specific magical practice needs source context
+    before grouping under shapeshifter, sacred_knowledge, or sacred_craft.
+  suggested_aliases:
+  - animal_body_opened_by_magic_formula
+  - magical_formula_controls_animal_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-horse-enables-repeated-escape-between-distant-refuges
+  motif_id: magic_horse_enables_repeated_escape_between_distant_refuges
+  label: magic horse enables repeated escape between distant refuges
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already includes magical_animal_mount; the horse functions
+    as a supernatural transport and escape aid.
+  cautions: If the passage emphasizes refuge or flight more than the animal mount,
+    hero_journey or divine_intervention may be useful secondary mappings.
+  suggested_aliases:
+  - magical_horse_escape_mount
+  - supernatural_horse_enables_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-animal-aid-in-hunting-success
+  motif_id: magical_animal_aid_in_hunting_success
+  label: Magical animal aid in hunting success
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal helpers are already included under divine_intervention, and this
+    label centers on supernatural aid to human action.
+  cautions: Hunting traditions may involve reciprocal animal-master relations or ritual
+    law; review source evidence before treating as generic assistance.
+  suggested_aliases:
+  - animal_helper_grants_hunting_success
+  - supernatural_animal_aid_in_hunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-animal-helper-as-mount
+  motif_id: magical_animal_helper_as_mount
+  label: Magical animal helper as mount
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: alias
+  confidence: high
+  rationale: The existing group has magical_animal_mount as a child, making this a
+    direct label variant.
+  cautions: If the animal is primarily a guide, guardian, or divine messenger, divine_intervention
+    may be a secondary mapping.
+  suggested_aliases:
+  - magical_animal_mount
+  - supernatural_animal_mount
+  - animal_helper_mount
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-animal-helper-sustains-poor-household
+  motif_id: magical_animal_helper_sustains_poor_household
+  label: Magical animal helper sustains poor household
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The animal helper provides miraculous support or abundance, fitting animal_helpers
+    and miraculous_provision under divine_intervention.
+  cautions: If the story frames this as hospitality, poverty ethics, or reciprocal
+    care, sacred_exchange or sacred_law may be relevant.
+  suggested_aliases:
+  - animal_helper_provides_household_abundance
+  - magical_animal_sustains_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-animal-helper-used-for-vengeance
+  motif_id: magical_animal_helper_used_for_vengeance
+  label: magical animal helper used for vengeance
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural animal helper acting in human affairs fits divine_intervention's
+    animal helper pattern.
+  cautions: Vengeance may shift the core function toward divine_judgment, sacred_combat,
+    or local spirit retaliation; source context is needed.
+  suggested_aliases:
+  - animal_helper_enacts_vengeance
+  - supernatural_animal_helper_for_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-animal-mount-as-source-or-instrument-of-power
+  motif_id: magical_animal_mount_as_source_or_instrument_of_power
+  label: magical animal mount as source or instrument of power
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing magical_animal_mount child can hold an animal mount that
+    mediates power or mobility.
+  cautions: If the mount is more a sacred power object or tutelary being than a transformation/mount
+    motif, consider sacred_treasures or divine_intervention as secondary mappings.
+  suggested_aliases:
+  - magical_animal_mount
+  - power_giving_animal_mount
+  - supernatural_mount_as_power_instrument
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-animal-power-inside-the-healer
+  motif_id: magical_animal_power_inside_the_healer
+  label: magical animal power inside the healer
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may refer to culturally specific shamanic embodiment, spirit helper,
+    transformation, or healing power not cleanly covered by existing groups.
+  cautions: Culturally sensitive healing/spirit concepts should not be collapsed into
+    generic animal helper or shapeshifter without passage evidence.
+  suggested_aliases:
+  - animal_power_within_healer
+  - healer_contains_magical_animal_power
+  - embodied_animal_spirit_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-arrow-summons-game-animal
+  motif_id: magical_arrow_summons_game_animal
+  label: magical arrow summons game animal
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The arrow is a power object whose supernatural function is summoning
+    game animals.
+  cautions: If the source emphasizes animal agency or hunting ritual reciprocity,
+    divine_intervention or sacred_exchange may be better secondary mappings.
+  suggested_aliases:
+  - summoning_arrow_for_game_animals
+  - magical_hunting_arrow
+  - arrow_that_summons_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-bird-token-summons-rescue
+  motif_id: magical_bird_token_summons_rescue
+  label: magical bird token summons rescue
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A token that summons rescue functions as a sacred power object or protective
+    token.
+  cautions: If the bird is an active helper or messenger rather than an object-token,
+    divine_intervention may be the stronger mapping.
+  suggested_aliases:
+  - bird_token_summons_rescue
+  - magical_rescue_token
+  - protective_bird_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels cluster around magical animal helpers, but existing groups can hold
+  most as divine_intervention, shapeshifter/magical_animal_mount, or sacred_treasures
+  without creating a new group in this batch.
+- Human review should watch for culturally specific hunting, healing, and spirit-helper
+  concepts that may be distorted by generic generated wording.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; two single-occurrence culturally sensitive or
+    ambiguous labels left for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2207
+  input_sha256: 03e76863f9e2d6b6ec513b32d510ac2bfb42817089a6d74a6b3f9e7391b2b89b
+

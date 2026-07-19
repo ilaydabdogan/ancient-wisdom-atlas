@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1144
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-place-guarded-by-stone-animals
+  motif_id: sacred_place_guarded_by_stone_animals
+  label: sacred place guarded by stone animals
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Stone animals guarding a sacred place function as boundary protectors
+    controlling access to a charged site.
+  cautions: Single occurrence; if the animals are primarily power objects or site
+    markers rather than active guardians, sacred_treasures or axis_mundi may be better.
+  suggested_aliases:
+  - stone_animal_guardians_of_sacred_place
+  - sacred_site_guarded_by_stone_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-place-imagery-applied-to-ordinary-referents
+  motif_id: sacred_place_imagery_applied_to_ordinary_referents
+  label: Sacred place imagery applied to ordinary referents
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes imagery or interpretive language rather than a distinct
+    narrative or ritual motif.
+  cautions: If source evidence shows ordinary places being sacralized through ritual
+    action, reconsider under world_center, axis_mundi, or sacred_law.
+  suggested_aliases:
+  - sacred_place_metaphor_applied_to_ordinary_referents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-place-named-after-divine-seeing
+  motif_id: sacred_place_named_after_divine_seeing
+  label: sacred place named after divine seeing
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif is an etiological sacred-place naming pattern, and cosmic_origin
+    already contains place-name etiology variants.
+  cautions: If the emphasis is direct manifestation of divine sight or presence rather
+    than naming, theophany may be a secondary or better placement.
+  suggested_aliases:
+  - sacred_place_name_from_divine_seeing
+  - place_name_etiology_from_divine_seeing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-place-or-relic-marked-by-a-saint-s-body-impression
+  motif_id: sacred_place_or_relic_marked_by_a_saint_s_body_impression
+  label: sacred place or relic marked by a saint's body impression
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A saintly body impression sacralizes a place or relic as a material sign
+    of holy presence, fitting relic and power-object motifs.
+  cautions: If the place itself is the main sacred center, world_center or sacred_geography_pilgrimage
+    may also be relevant.
+  suggested_aliases:
+  - saint_body_impression_relic
+  - sacred_site_marked_by_saintly_body_impression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-place-pole-and-east-entrance-alignment
+  motif_id: sacred_place_pole_and_east_entrance_alignment
+  label: sacred place, pole, and east entrance alignment
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: high
+  rationale: A sacred pole and directional entrance alignment organize ritual space
+    around a center-axis and cosmological orientation.
+  cautions: Preserve Plains-specific ritual architecture and directionality; do not
+    reduce all east-facing ritual spaces to axis_mundi without evidence of sacred-center
+    function.
+  suggested_aliases:
+  - sacred_pole_and_east_entrance_alignment
+  - directionally_aligned_sacred_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-place-presence-of-introduced-blue-glass-beads
+  motif_id: sacred_place_presence_of_introduced_blue_glass_beads
+  label: sacred-place presence of introduced blue glass beads
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording points to an archaeological or historical-contact artifact
+    at a sacred place, not a reusable motif pattern.
+  cautions: If beads are ritually offered, protective, or endowed with power in the
+    source passage, review under sacred_treasures or sacred_exchange.
+  suggested_aliases:
+  - introduced_blue_glass_beads_at_sacred_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-place-rejects-thrown-objects-by-invisible-agency
+  motif_id: sacred_place_rejects_thrown_objects_by_invisible_agency
+  label: Sacred place rejects thrown objects by invisible agency
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Invisible agency acting through a sacred place to repel objects fits
+    direct supernatural intervention in human action.
+  cautions: Could alternatively indicate taboo enforcement, a protective boundary,
+    or local sacred-place agency; source evidence should confirm the function.
+  suggested_aliases:
+  - sacred_site_repels_thrown_objects
+  - invisible_agency_protects_sacred_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-place-remembered-after-abandonment
+  motif_id: sacred_place_remembered_after_abandonment
+  label: sacred place remembered after abandonment
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe cultural memory of a sacred site, but its narrative
+    or ritual function is unclear.
+  cautions: Could be an ethnographic memory note, a sacred geography motif, ancestor-place
+    relation, or a passage-specific historical detail.
+  suggested_aliases:
+  - abandoned_sacred_place_remembered
+  - memory_of_abandoned_sacred_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-plant-and-tree-vocabulary
+  motif_id: sacred_plant_and_tree_vocabulary
+  label: sacred plant and tree vocabulary
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes vocabulary or lexical evidence rather than a narrative,
+    ritual, or symbolic motif.
+  cautions: If the underlying passage concerns a sacred tree, healing plant, or ritual
+    plant use, remap the evidence rather than the vocabulary label.
+  suggested_aliases:
+  - sacred_tree_vocabulary
+  - sacred_plant_vocabulary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-plant-as-source-of-healing-strength-and-long-life
+  motif_id: sacred_plant_as_source_of_healing_strength_and_long_life
+  label: sacred plant as source of healing, strength, and long life
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: high
+  rationale: A sacred plant conferring healing, vitality, and longevity fits the sacred
+    food, plant, potion, and life-giving substance complex.
+  cautions: If the plant functions as a world tree or cosmic connector, axis_mundi
+    may be a secondary mapping; if immortality is defective, compare immortality_without_renewal.
+  suggested_aliases:
+  - life_giving_sacred_plant
+  - healing_and_longevity_plant
+  - sacred_plant_confers_strength_and_long_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'Several labels in this batch concern sacred places but differ sharply in function:
+  guarded boundary, etiological naming, material relic, ritual spatial alignment,
+  and archaeological artifact should not be merged solely because they mention a sacred
+  place.'
+- Single-occurrence and Indigenous-tradition sacred-site labels should be reviewed
+  with source context before promotion beyond provisional group placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1144
+  input_sha256: 8b448a65a9c596650f3d7fedb92cc9493d745dfc4bfd89d82e04fe5badeff9a7
+

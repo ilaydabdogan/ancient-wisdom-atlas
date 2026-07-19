@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3074
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hidden-unknown-land-feared-by-neighbours
+  motif_id: hidden_unknown_land_feared_by_neighbours
+  label: Hidden unknown land feared by neighbours
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: A hidden feared land may be an otherworld or taboo/liminal region, but
+    the label alone does not show enchantment, passage, or sacred geography.
+  cautions: Single occurrence; may be a place-only detail, ethnographic geography,
+    or contextual fear rather than a motif.
+  suggested_aliases:
+  - hidden_feared_land
+  - unknown_feared_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-witness-to-a-dangerous-supernatural-meal
+  motif_id: hidden_witness_to_a_dangerous_supernatural_meal
+  label: Hidden witness to a dangerous supernatural meal
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: uncertain
+  confidence: low
+  rationale: The supernatural meal suggests dangerous sacred food or substance, but
+    the hidden witnessing may be more important than the meal itself.
+  cautions: Could fit sacred_substance, forbidden_knowledge, trickster, or taboo-violation
+    depending on passage evidence; avoid normalizing from the composite label alone.
+  suggested_aliases:
+  - dangerous_supernatural_meal
+  - hidden_witness_to_forbidden_meal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hierarchical-discipline-and-authorization
+  motif_id: hierarchical_discipline_and_authorization
+  label: hierarchical discipline and authorization
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Discipline and authorization within a hierarchy fits sacred law, institutional
+    order, and regulated conduct.
+  cautions: May be doctrinal or monastic-administrative commentary rather than a narrative
+    motif; preserve source context.
+  suggested_aliases:
+  - religious_discipline_and_authorization
+  - hierarchical_sacred_authorization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.home-or-refuge-becomes-a-source-of-danger
+  motif_id: home_or_refuge_becomes_a_source_of_danger
+  label: Home or refuge becomes a source of danger
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: A protected place turning dangerous may involve violated trust or failed
+    refuge, but no existing group directly captures dangerous sanctuary reversal.
+  cautions: Could be a plot setting, moral exemplum, betrayal scene, or ordeal; source
+    evidence needed before broad indexing.
+  suggested_aliases:
+  - refuge_becomes_dangerous
+  - failed_refuge
+  - dangerous_sanctuary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-as-compensation-for-public-service
+  motif_id: hospitality_as_compensation_for_public_service
+  label: hospitality as compensation for public service
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hospitality given in return for service is a reciprocal exchange rather
+    than primarily a stranger-test motif.
+  cautions: If the passage tests the host or guest, hospitality_test_stranger_guest
+    may be a secondary mapping; otherwise this may be a social custom detail.
+  suggested_aliases:
+  - hospitality_for_public_service
+  - reciprocal_hospitality_for_service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-at-a-hermitage-after-danger
+  motif_id: hospitality_at_a_hermitage_after_danger
+  label: hospitality at a hermitage after danger
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: A hermitage offering hospitality after danger is a specific sheltering-host
+    scene within hospitality to travelers or strangers.
+  cautions: The hermitage and after-danger details may be episode-specific; if no
+    test or sacred obligation is present, sacred_exchange may be the broader fit.
+  suggested_aliases:
+  - hermitage_hospitality_after_peril
+  - traveller_sheltered_at_hermitage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-feast-for-visiting-strangers
+  motif_id: hospitality_feast_for_visiting_strangers
+  label: hospitality feast for visiting strangers
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly concerns feeding visiting strangers, the core scene
+    of stranger hospitality.
+  cautions: If no testing or sacred obligation is implied, also consider sacred_exchange
+    as a parent-level query mapping.
+  suggested_aliases:
+  - feast_for_visiting_strangers
+  - strangers_received_with_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-followed-by-false-bed-danger
+  motif_id: hospitality_followed_by_false_bed_danger
+  label: Hospitality followed by false-bed danger
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hospitality scene that turns into a deceptive bed danger suggests violated
+    guest-host trust.
+  cautions: Could be a highly specific trap episode; review whether the danger is
+    betrayal, ordeal, trickster deception, or a passage artifact.
+  suggested_aliases:
+  - guest_bed_trap
+  - hospitality_betrayal_by_false_bed
+  - false_bed_danger_after_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-followed-by-renewed-danger
+  motif_id: hospitality_followed_by_renewed_danger
+  label: hospitality followed by renewed danger
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: uncertain
+  confidence: low
+  rationale: The first element is hospitality, but renewed danger is too broad to
+    identify the motif function.
+  cautions: May be merely sequence summary; could fit hospitality, ordeal, betrayal,
+    or journey depending on passage evidence.
+  suggested_aliases:
+  - hospitality_then_renewed_peril
+  - shelter_followed_by_renewed_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-protects-strangers-from-predatory-outsiders
+  motif_id: hospitality_protects_strangers_from_predatory_outsiders
+  label: Hospitality protects strangers from predatory outsiders
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: high
+  rationale: The host’s protection of vulnerable strangers expresses hospitality as
+    a sacred or social obligation.
+  cautions: Predatory outsiders may also support trickster or conflict motifs if the
+    narrative focus is pursuit or predation rather than hospitality.
+  suggested_aliases:
+  - protective_hospitality_for_strangers
+  - host_protects_strangers
+  - hospitality_shields_vulnerable_guests
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence hospitality sequences; map clear
+  guest-feeding/protection cases to hospitality_test_stranger_guest, but preserve
+  episode-specific danger details as evidence notes.
+- Items framed as hidden lands, hidden witnessing, or refuge turning dangerous need
+  passage review because they may be contextual plot summaries rather than stable
+  motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no transmission or origin claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3074
+  input_sha256: e454318f905b0058535cedc91501d8379a7cf845f208558245048d4a84424289
+

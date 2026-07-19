@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0187
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.food-of-the-dead-as-a-barrier-to-return
+  motif_id: food_of_the_dead_as_a_barrier_to_return
+  label: Food of the dead as a barrier to return
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Eating food of the dead functions as an afterlife-passage rule that prevents
+    return from the dead realm.
+  cautions: Could also relate to sacred_substance or sacred_law if the passage emphasizes
+    taboo food rather than postmortem geography.
+  suggested_aliases:
+  - food_taboo_for_return_from_the_land_of_the_dead
+  - food_of_the_dead_prevents_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-offering-or-feast-in-honor-of-the-dead
+  motif_id: food_offering_or_feast_in_honor_of_the_dead
+  label: food offering or feast in honor of the dead
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label directly describes ritual feeding or feasting for the dead,
+    matching ancestor/dead-care rites.
+  cautions: If the feast honors a heroic warrior specifically, heroic_funeral_rites
+    may be a secondary placement.
+  suggested_aliases:
+  - feast_in_honor_of_the_dead
+  - food_offering_to_the_dead
+  - feeding_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-taboo-confirmed-by-speech-of-a-dying-infant
+  motif_id: food_taboo_confirmed_by_speech_of_a_dying_infant
+  label: Food taboo confirmed by speech of a dying infant
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines food prohibition, infant death, and uncanny speech;
+    its main function is unclear without source evidence.
+  cautions: May fit sacred_law as food taboo, miraculous_child as speaking infant,
+    or prophecy/divination if the dying speech authorizes the rule; likely over-specific.
+  suggested_aliases:
+  - dying_infant_confirms_food_taboo
+  - food_taboo_authorized_by_dying_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-taboo-for-return-from-the-land-of-the-dead
+  motif_id: food_taboo_for_return_from_the_land_of_the_dead
+  label: food taboo for return from the land of the dead
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: high
+  rationale: A taboo governing return from the land of the dead is a rule of afterlife
+    navigation and boundary crossing.
+  cautions: Do not generalize to resurrection unless the passage emphasizes restoration
+    to life; preserve the food-taboo detail.
+  suggested_aliases:
+  - food_of_the_dead_as_a_barrier_to_return
+  - food_taboo_on_return_from_dead_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-burial-and-loyal-sibling-defiance
+  motif_id: forbidden_burial_and_loyal_sibling_defiance
+  label: Forbidden burial and loyal sibling defiance
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core motif is denial of burial and defiant performance of funeral
+    obligation, matching funerary rites and denied burial variants.
+  cautions: The loyal sibling element may be context-specific; if emphasis is law
+    versus kin duty, sacred_law or covenant may be secondary.
+  suggested_aliases:
+  - denied_burial_defied_by_kin
+  - loyal_sibling_performs_forbidden_burial
+  - forbidden_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-burial-as-marker-of-religious-boundary
+  motif_id: forbidden_burial_as_marker_of_religious_boundary
+  label: forbidden burial as marker of religious boundary
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a ritual-purity boundary, sectarian identity marker,
+    or burial prohibition rather than a narrative motif.
+  cautions: Culturally sensitive mortuary practice; review source evidence before
+    mapping to sacred_law, heroic_funeral_rites, or excluding as contextual commentary.
+  suggested_aliases:
+  - burial_prohibition_as_religious_boundary
+  - forbidden_burial_boundary_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-dealings-with-ghosts-of-the-departed
+  motif_id: forbidden_dealings_with_ghosts_of_the_departed
+  label: forbidden dealings with ghosts of the departed
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prohibition on contact with ghosts functions as sacred law or mortuary
+    taboo regulating relations with the dead.
+  cautions: May instead belong with restless_dead_haunting_vengeance if the passage
+    centers active ghosts, or ancestor_rites if ritual management is central.
+  suggested_aliases:
+  - taboo_on_dealings_with_ghosts
+  - prohibited_contact_with_the_departed
+  - forbidden_ghost_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-gaze-at-eater-causes-choking-and-death
+  motif_id: forbidden_gaze_at_eater_causes_choking_and_death
+  label: Forbidden gaze at eater causes choking and death
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines taboo gaze, eating, choking, and death, but the governing
+    motif is not clear from wording alone.
+  cautions: Could fit sacred_law as taboo, divine_judgment as punishment, or death_and_transformation
+    only if death function is central; may be too episode-specific.
+  suggested_aliases:
+  - taboo_gaze_causes_choking_death
+  - forbidden_look_at_eater
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-opening-of-a-container-during-return-from-the-dead
+  motif_id: forbidden_opening_of_a_container_during_return_from_the_dead
+  label: Forbidden opening of a container during return from the dead
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: A forbidden container opened during return from death fits the sacred-vessel
+    pattern of guarded containers holding life, death, or transformative power.
+  cautions: Also touches death_and_transformation or afterlife_passage if the return
+    journey is primary; preserve the return-from-dead context.
+  suggested_aliases:
+  - forbidden_container_opening_during_return_from_dead
+  - taboo_opening_of_death_return_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forced-conversion-under-threat-of-death
+  motif_id: forced_conversion_under_threat_of_death
+  label: forced conversion under threat of death
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes coercive religious violence and may be historical
+    or ethical context rather than a recurring mythic motif.
+  cautions: Culturally and historically sensitive; do not map simply because death
+    is present. Could relate to sacred_law, covenant, sacrifice/martyrdom, or exclusion
+    depending on evidence.
+  suggested_aliases:
+  - coerced_conversion_under_death_threat
+  - religious_coercion_under_threat_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and death-adjacent; placements
+  should preserve whether the source emphasizes mortuary rite, afterlife navigation,
+  taboo law, or historical coercion.
+- Food-of-the-dead and return-from-dead food taboo appear to be close aliases and
+  may be reviewed together.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally sensitive mortuary taboos and coercive-conversion label.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0187
+  input_sha256: 5e9aaa20dca704dfa251383e9f9de23018e2409667ff7c536a1518fbd50eb5fe
+

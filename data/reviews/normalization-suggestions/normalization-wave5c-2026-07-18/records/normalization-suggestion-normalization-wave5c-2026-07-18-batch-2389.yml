@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2389
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fire-pit-transformed-into-lake
+  motif_id: fire_pit_transformed_into_lake
+  label: fire pit transformed into lake
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests elemental transformation, but it is unclear whether
+    this is landscape etiology, sacred fire, water symbolism, or a passage-specific
+    event.
+  cautions: Single occurrence; do not force into flood, sacred waters, or sacred fire
+    without evidence of renewal, ritual, or sacred function.
+  suggested_aliases:
+  - fire pit becomes lake
+  - fire-to-water transformation
+  - elemental transformation of fire pit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-preparation-of-forest-meat
+  motif_id: fire_preparation_of_forest_meat
+  label: fire preparation of forest meat
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a subsistence or episode detail about cooking rather than
+    a recurring symbolic motif.
+  cautions: If the passage emphasizes ritual cooking, sacred hunting, or origin of
+    fire/cuisine, reassess under sacred_substance, sacrifice, or culture_hero.
+  suggested_aliases:
+  - meat cooked by fire
+  - cooking forest meat
+  - fire-cooking of hunted meat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-preserved-refuge-in-deep-snow
+  motif_id: fire_preserved_refuge_in_deep_snow
+  label: Fire-preserved refuge in deep snow
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fire functions as preserving or protective power in a hostile natural
+    setting.
+  cautions: Could alternatively be a journey survival detail; map only if the fire
+    has marked protective, sacred, or supernatural force.
+  suggested_aliases:
+  - fire-preserved refuge
+  - protective fire in snow
+  - fire as refuge in winter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-produced-by-friction-apparatus
+  motif_id: fire_produced_by_friction_apparatus
+  label: fire produced by friction apparatus
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a technique or apparatus for producing fire, fitting
+    craft technology more than fire symbolism alone.
+  cautions: If the passage treats fire as divine presence or ritual medium, sacred_fire
+    should be a secondary review option; if it explains origin of fire for humans,
+    culture_hero may be relevant.
+  suggested_aliases:
+  - friction fire-making apparatus
+  - fire drill produces fire
+  - fire made by friction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-produced-by-jumping-over-arranged-fuel
+  motif_id: fire_produced_by_jumping_over_arranged_fuel
+  label: Fire produced by jumping over arranged fuel
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fire production through a marked action over prepared fuel suggests ritualized
+    or supernatural fire generation.
+  cautions: Could be too episode-specific; if the emphasis is mechanical technique
+    rather than sacred action, sacred_craft may fit better.
+  suggested_aliases:
+  - fire kindled by jumping over fuel
+  - ritual fire production by jumping
+  - fire generated over arranged fuel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-produced-from-prepared-woods
+  motif_id: fire_produced_from_prepared_woods
+  label: Fire produced from prepared woods
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a prepared-material technique for making fire, aligning
+    with craft or technology motifs.
+  cautions: If the narrative is about first acquisition of fire or sacred ignition,
+    review links to culture_hero or sacred_fire.
+  suggested_aliases:
+  - fire from prepared wood
+  - prepared woods make fire
+  - fire-making from prepared woods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-related-insult-to-a-valuable-guest-object
+  motif_id: fire_related_insult_to_a_valuable_guest_object
+  label: fire-related insult to a valuable guest object
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The core may be hospitality violation, insult to a sacred object, or
+    fire misuse; label alone does not identify the narrative function.
+  cautions: Culturally specific object and guest obligations need source review; avoid
+    reducing it to generic fire symbolism.
+  suggested_aliases:
+  - insult to guest object by fire
+  - fire misuse against valuable guest object
+  - guest object dishonored by fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-remains-transferred-to-fields-and-gardens-for-fertility-or-protection
+  motif_id: fire_remains_transferred_to_fields_and_gardens_for_fertility_or_protection
+  label: Fire remains transferred to fields and gardens for fertility or protection
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: Fire remains are ritually applied to fields for fertility or apotropaic
+    protection, fitting sacred fire as purifying/protective power.
+  cautions: Because the tradition is comparative, verify this is sourced evidence
+    rather than a summary generalization; may also relate to sacred_law or sacrifice
+    if embedded in calendrical rites.
+  suggested_aliases:
+  - ashes transferred to fields for fertility
+  - fire remains used for garden protection
+  - ritual ashes for fields and gardens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-remains-transformed-into-precious-metals
+  motif_id: fire_remains_transformed_into_precious_metals
+  label: fire remains transformed into precious metals
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif centers on remains changing into valuable matter, a transformation-after-destruction
+    pattern.
+  cautions: If the precious metals become power objects, sacred_treasures may be a
+    secondary mapping; if it is an origin of metals, cosmic_origin may be relevant.
+  suggested_aliases:
+  - ashes become precious metals
+  - fire remains become treasure
+  - burnt remains transformed into metal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-signal-confirms-successful-escape
+  motif_id: fire_signal_confirms_successful_escape
+  label: fire signal confirms successful escape
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A fire signal confirming escape reads as an episode-specific communication
+    device, not a broad motif of sacred fire.
+  cautions: If the signal has oath, ritual, or divine-guidance function in the source,
+    reassess under sacred_fire, hero_journey, or storytelling_as_power.
+  suggested_aliases:
+  - signal fire confirms escape
+  - fire beacon marks escape
+  - escape confirmed by fire signal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use fire as a practical technology or episode marker; avoid mapping
+  all fire terms to sacred_fire unless a sacred, protective, purifying, or transformative
+  function is present.
+- Fire-making technique labels may be better reviewed as sacred_craft or culture_hero
+  when the passage concerns the origin or transmission of human technology.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence and culturally specific labels
+    require source evidence before final indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2389
+  input_sha256: 30cc8b1d2277ae6452a1a32cfbdc7539c9682c426d1f84a77084bfb27700c94a
+

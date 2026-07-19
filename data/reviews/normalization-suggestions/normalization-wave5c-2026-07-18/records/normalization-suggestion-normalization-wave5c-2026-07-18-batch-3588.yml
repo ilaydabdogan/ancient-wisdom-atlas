@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3588
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.intergroup-conflict-or-encounter
+  motif_id: intergroup_conflict_or_encounter
+  label: intergroup conflict or encounter
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to distinguish warfare, exchange, first-contact,
+    boundary crossing, or ethnographic description.
+  cautions: Single occurrence; avoid mapping to sacred_combat unless the passage has
+    ritualized warfare or mythic combat function.
+  suggested_aliases:
+  - intergroup encounter
+  - intergroup conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intergroup-conflict-retaliation-captives-and-failed-peace
+  motif_id: intergroup_conflict_retaliation_captives_and_failed_peace
+  label: intergroup conflict, retaliation, captives, and failed peace
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes warfare, retaliation, captivity, and failed peacemaking,
+    fitting the broader sacred_combat conflict complex.
+  cautions: May be an episode summary rather than a motif; if the focus is treaty
+    failure or social obligation, covenant may be a secondary review option.
+  suggested_aliases:
+  - failed peace after intergroup conflict
+  - retaliatory intergroup conflict with captives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intergroup-distribution-of-prepared-cotton
+  motif_id: intergroup_distribution_of_prepared_cotton
+  label: Intergroup distribution of prepared cotton
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Distribution of cotton may be trade, craft transmission, social exchange,
+    or culture-origin evidence, but the mythic function is unclear.
+  cautions: Likely over-specific ethnographic or material-culture detail unless the
+    cotton exchange establishes sacred order, craft origin, or reciprocity.
+  suggested_aliases:
+  - prepared cotton distribution
+  - cotton goods distributed between groups
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intergroup-exchange-at-a-fixed-meeting-place
+  motif_id: intergroup_exchange_at_a_fixed_meeting_place
+  label: intergroup exchange at a fixed meeting place
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is reciprocal exchange between groups, with the fixed
+    meeting place as contextual detail.
+  cautions: If the fixed place is cosmologically central or ritually bounded, world_center
+    or threshold-related mapping may be relevant; otherwise preserve place detail
+    as evidence.
+  suggested_aliases:
+  - fixed-place intergroup exchange
+  - intergroup exchange meeting place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intergroup-exchange-of-food-plants
+  motif_id: intergroup_exchange_of_food_plants
+  label: intergroup exchange of food plants
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Food-plant exchange is best held under reciprocal giving unless the passage
+    emphasizes crop origins or culture-hero transmission.
+  cautions: Could instead relate to culture_hero or cosmic_origin if the exchange
+    explains the origin of agriculture or a people’s foods.
+  suggested_aliases:
+  - food plant exchange between groups
+  - intergroup crop exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intergroup-food-practice-contact-and-contrast
+  motif_id: intergroup_food_practice_contact_and_contrast
+  label: intergroup food-practice contact and contrast
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as comparative social description rather than a clear
+    narrative motif.
+  cautions: May fit sacred_law if it concerns food taboo or purity, sacred_exchange
+    if it concerns sharing, or be excluded if only ethnographic contrast.
+  suggested_aliases:
+  - contrast of food practices between groups
+  - intergroup food-practice contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intergroup-meeting-and-exchange
+  motif_id: intergroup_meeting_and_exchange
+  label: intergroup meeting and exchange
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: broader_label
+  confidence: medium
+  rationale: The label broadly describes encounter structured by exchange, matching
+    the reciprocity group.
+  cautions: Needs source review to confirm the exchange has narrative or sacred significance
+    rather than being a social background detail.
+  suggested_aliases:
+  - intergroup exchange meeting
+  - meeting between groups for exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intergroup-trade-in-utilitarian-fiber-goods
+  motif_id: intergroup_trade_in_utilitarian_fiber_goods
+  label: intergroup trade in utilitarian fiber goods
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Trade in fiber goods may be ordinary material exchange rather than a
+    symbolic motif.
+  cautions: If the trade establishes reciprocity or sacred obligation, map to sacred_exchange;
+    if it is only utilitarian detail, exclude from pattern queries.
+  suggested_aliases:
+  - fiber goods trade between groups
+  - intergroup trade in fiber goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intergroup-transmission-of-dance-practice
+  motif_id: intergroup_transmission_of_dance_practice
+  label: Intergroup transmission of dance practice
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Dance-practice transmission may be ritual learning, cultural exchange,
+    or an external transmission note; function is unclear from the label.
+  cautions: Avoid treating transmission as evidence of borrowing here. Map only if
+    passage shows sacred knowledge, ritual cycle, or exchange function.
+  suggested_aliases:
+  - dance practice transmitted between groups
+  - intergroup ritual dance transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.interiorized-devotional-music-and-dance
+  motif_id: interiorized_devotional_music_and_dance
+  label: Interiorized devotional music and dance
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Interiorized devotion through music and dance fits contemplative transformation
+    and inward sacred practice.
+  cautions: Could also relate to sacred_song or enchanting_music, but the label emphasizes
+    interior devotion rather than supernatural sound compulsion.
+  suggested_aliases:
+  - interior devotional music and dance
+  - inward devotional song and dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several intergroup labels appear to be social-contact or material-exchange summaries;
+  source evidence is needed before promoting them as motifs.
+- Do not use these placements to infer historical transmission or borrowing between
+  groups.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; many labels are single-occurrence and may be
+    ethnographic or episode-level artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3588
+  input_sha256: 63ff9acb2a6435529d1c46e09bcb6ee775b27d119c683e166d534ff5aa38d0fa
+

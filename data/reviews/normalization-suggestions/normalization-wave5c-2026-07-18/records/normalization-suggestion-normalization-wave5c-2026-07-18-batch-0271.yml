@@ -1,0 +1,340 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0271
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.multiple-souls-associated-with-a-sacred-number
+  motif_id: multiple_souls_associated_with_a_sacred_number
+  label: Multiple souls associated with a sacred number
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Multiple Souls and Composite Personhood
+  relationship: child
+  confidence: medium
+  rationale: The label concerns soul anthropology rather than soul-loss, external
+    soul, or afterlife navigation; existing groups do not cleanly cover plural souls
+    within one person.
+  cautions: Single occurrence and culturally specific Filipino evidence; avoid flattening
+    distinct local concepts of soul/personhood into a generic comparative category
+    without review.
+  suggested_aliases:
+  - plural_souls
+  - multiple_souls
+  - many_souls_associated_with_sacred_number
+  suggested_new_group:
+    id: multiple_souls_composite_personhood
+    label: Multiple Souls and Composite Personhood
+    description: A person is understood as having multiple souls, spirits, vital components,
+      or life-aspects that may differ in number, function, location, vulnerability,
+      or postmortem fate.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_knowledge
+    related_group_ids:
+    - external_soul
+    - soul_loss_restoration
+    - afterlife_passage
+    reason_existing_groups_insufficient: External_soul covers separable life-tokens;
+      soul_loss_restoration covers lost or recalled souls; afterlife_passage covers
+      postmortem travel. None directly covers plural-soul anthropology as the main
+      motif.
+- suggestion_id: normalization.suggestion.multiple-souls-specifically-seven-souls
+  motif_id: multiple_souls_specifically_seven_souls
+  label: Multiple souls, specifically seven souls
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Multiple Souls and Composite Personhood
+  relationship: child
+  confidence: medium
+  rationale: Seven souls is a numbered variant of plural-soul anthropology, not a
+    distinct afterlife journey or external-soul token pattern.
+  cautions: The sacred number seven may be locally meaningful; preserve the number
+    as evidence detail and review whether this is comparative commentary rather than
+    a source motif.
+  suggested_aliases:
+  - seven_souls
+  - multiple_souls_seven
+  - plural_souls_numbered_as_seven
+  suggested_new_group:
+    id: multiple_souls_composite_personhood
+    label: Multiple Souls and Composite Personhood
+    description: A person is understood as having multiple souls, spirits, vital components,
+      or life-aspects that may differ in number, function, location, vulnerability,
+      or postmortem fate.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_knowledge
+    related_group_ids:
+    - external_soul
+    - soul_loss_restoration
+    - afterlife_passage
+    reason_existing_groups_insufficient: Existing groups address externalized, lost,
+      or postmortem souls but not plural souls as a recurring model of personhood.
+- suggestion_id: normalization.suggestion.multiple-souls-with-divergent-fates
+  motif_id: multiple_souls_with_divergent_fates
+  label: Multiple souls with divergent fates
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Multiple Souls and Composite Personhood
+  relationship: child
+  confidence: medium
+  rationale: Divergent fates of plural souls are a specific variant of multiple-soul
+    personhood, with possible afterlife implications.
+  cautions: If the source mainly maps postmortem routes, afterlife_passage may be
+    a secondary mapping; comparative labels need source-evidence review.
+  suggested_aliases:
+  - plural_souls_with_different_fates
+  - multiple_soul_fates
+  - divergent_afterlives_of_multiple_souls
+  suggested_new_group:
+    id: multiple_souls_composite_personhood
+    label: Multiple Souls and Composite Personhood
+    description: A person is understood as having multiple souls, spirits, vital components,
+      or life-aspects that may differ in number, function, location, vulnerability,
+      or postmortem fate.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_knowledge
+    related_group_ids:
+    - external_soul
+    - soul_loss_restoration
+    - afterlife_passage
+    reason_existing_groups_insufficient: Afterlife_passage can cover routes of the
+      dead, but it does not capture the underlying claim that one person has several
+      soul-components with different destinies.
+- suggestion_id: normalization.suggestion.multiple-spirits-within-one-person
+  motif_id: multiple_spirits_within_one_person
+  label: multiple spirits within one person
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Multiple Souls and Composite Personhood
+  relationship: child
+  confidence: medium
+  rationale: Multiple spirits within one person fits a plural personhood or soul-component
+    pattern better than external soul or possession as currently represented.
+  cautions: Culturally sensitive Native American Southwest evidence; human review
+    should distinguish plural-soul doctrine, spirit possession, tutelary spirits,
+    and healing context.
+  suggested_aliases:
+  - multiple_inner_spirits
+  - plural_spirits_within_a_person
+  - composite_spiritual_personhood
+  suggested_new_group:
+    id: multiple_souls_composite_personhood
+    label: Multiple Souls and Composite Personhood
+    description: A person is understood as having multiple souls, spirits, vital components,
+      or life-aspects that may differ in number, function, location, vulnerability,
+      or postmortem fate.
+    parent_group_ids:
+    - death_and_transformation
+    - sacred_knowledge
+    related_group_ids:
+    - external_soul
+    - soul_loss_restoration
+    - divine_intervention
+    reason_existing_groups_insufficient: Current groups cover separable souls, lost
+      souls, and spirit agency, but not several spirits as constituents within one
+      person.
+- suggestion_id: normalization.suggestion.multipurpose-shell-tool
+  motif_id: multipurpose_shell_tool
+  label: multipurpose shell tool
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label names a practical object rather than a symbolic, ritual, death,
+    or afterlife motif.
+  cautions: If the shell tool has ritual, funerary, origin, or sacred-craft significance
+    in the passage, remap with evidence; label alone is too material-detail specific.
+  suggested_aliases:
+  - shell_tool
+  - multipurpose_shell_implement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mummied-divine-occupants-of-an-underworld-compartment
+  motif_id: mummied_divine_occupants_of_an_underworld_compartment
+  label: mummied divine occupants of an underworld compartment
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes beings located in a structured underworld space,
+    which best fits mapped afterlife geography and passage contexts.
+  cautions: May be an iconographic or textual catalog detail from Egyptian underworld
+    books rather than a reusable motif; preserve underworld-compartment specificity
+    as evidence.
+  suggested_aliases:
+  - mummied_underworld_occupants
+  - divine_occupants_of_underworld_compartment
+  - mummified_underworld_deities_in_compartments
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mummiform-or-bandaged-underworld-deities
+  motif_id: mummiform_or_bandaged_underworld_deities
+  label: mummiform or bandaged underworld deities
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Mummiform underworld deities are part of an Egyptian afterlife-underworld
+    iconographic and navigational setting.
+  cautions: This may be a deity-description or iconographic artifact, not an event
+    motif; if focused on divine death/transformation, death_and_transformation could
+    be secondary.
+  suggested_aliases:
+  - mummiform_underworld_deities
+  - bandaged_underworld_deities
+  - mummified_chthonic_deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.murdered-woman-returns-as-a-ghost
+  motif_id: murdered_woman_returns_as_a_ghost
+  label: Murdered woman returns as a ghost
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: high
+  rationale: A murdered person returning as a ghost is a clear restless-dead or haunting
+    pattern caused by unresolved violent death.
+  cautions: Review whether the return is vengeful, protective, revelatory, or merely
+    apparitional; avoid overgeneralizing gendered violence without source context.
+  suggested_aliases:
+  - murdered_person_returns_as_ghost
+  - slain_woman_returns_as_spirit
+  - ghost_return_after_murder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.murderer-followed-by-an-avenging-spirit
+  motif_id: murderer_followed_by_an_avenging_spirit
+  label: Murderer followed by an avenging spirit
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: high
+  rationale: An avenging spirit pursuing a murderer directly matches haunting and
+    vengeance by the unresolved dead or spirit agent.
+  cautions: Confirm whether the spirit is the victim’s ghost, an avenging guardian,
+    or another supernatural enforcer; secondary divine_judgment may apply if framed
+    as moral reckoning.
+  suggested_aliases:
+  - avenging_spirit_follows_murderer
+  - vengeful_spirit_pursues_killer
+  - murderer_haunted_by_avenging_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.murderous-spirit-s-fatal-tally-after-the-hunt
+  motif_id: murderous_spirit_s_fatal_tally_after_the_hunt
+  label: Murderous spirit's fatal tally after the hunt
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a spirit, hunting context, counting or tallying, and
+    fatal outcome; the narrative function is unclear from the label alone.
+  cautions: Could involve hunting taboo, spirit judgment, death omen, predatory spirit,
+    or passage-specific plot detail; culturally specific Filipino evidence needs review
+    before grouping.
+  suggested_aliases:
+  - fatal_tally_after_hunt
+  - murderous_spirit_counts_the_dead
+  - hunting_spirit_fatal_count
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several plural-soul labels point to a possible new normalization group for multiple
+  souls/composite personhood; human review should confirm recurrence and culturally
+  respectful wording before adding it.
+- Egyptian mummiform-underworld labels may be iconographic catalog details rather
+  than narrative motifs; preserve as evidence but avoid overpromoting.
+- Do not treat shared placement of plural-soul motifs as evidence of transmission
+  or common origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; plural-soul candidate and culturally specific
+    spirit labels need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0271
+  input_sha256: ed78e800a634dea0296793e30992f3bf6d2cdfb5616f51c0503d27d3c768e939
+

@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2669
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.enemy-armor-explains-failed-arrows
+  motif_id: enemy_armor_explains_failed_arrows
+  label: enemy armor explains failed arrows
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a combat-detail explanation for ineffective weapons, fitting
+    broad warfare/combat rather than a distinct motif.
+  cautions: Single occurrence and highly specific; if armor implies supernatural invulnerability,
+    consider conditional_invulnerability_hidden_weakness as secondary evidence.
+  suggested_aliases:
+  - failed_arrows_explained_by_enemy_armor
+  - weapon_failure_against_armored_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-attackers-turned-to-stone-after-a-spoken-answer
+  motif_id: enemy_attackers_turned_to_stone_after_a_spoken_answer
+  label: Enemy attackers turned to stone after a spoken answer
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spoken answer directly transforms hostile attackers, making performative
+    speech the operative force.
+  cautions: Could also involve divine_judgment or shapeshifter if the passage emphasizes
+    punishment or petrification more than speech; culturally specific context should
+    be reviewed.
+  suggested_aliases:
+  - spoken_answer_petrifies_attackers
+  - performative_speech_turns_enemies_to_stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-battle-standard-cut-down-by-hero-s-arrow
+  motif_id: enemy_battle_standard_cut_down_by_hero_s_arrow
+  label: enemy battle standard cut down by hero’s arrow
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Cutting down an enemy standard is a heroic battle action within ritualized
+    combat symbolism.
+  cautions: May be too episode-specific for pattern queries unless standards or banner-destruction
+    recur as battle-turning signs.
+  suggested_aliases:
+  - hero_cuts_down_enemy_battle_standard
+  - battle_standard_destroyed_by_arrow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-bodies-cut-up-and-burned-after-coastal-conflict
+  motif_id: enemy_bodies_cut_up_and_burned_after_coastal_conflict
+  label: enemy bodies cut up and burned after coastal conflict
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes treatment of enemy bodies after conflict, best parked
+    under combat if retained.
+  cautions: Single, graphic, and context-dependent; could be mortuary denial, trophy
+    violence, ritual burning, or ethnographic episode detail. Human review recommended
+    before query use.
+  suggested_aliases:
+  - postbattle_enemy_bodies_cut_and_burned
+  - enemy_corpses_burned_after_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-bodies-used-as-scarce-meat-after-war
+  motif_id: enemy_bodies_used_as_scarce_meat_after_war
+  label: Enemy bodies used as scarce meat after war
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe postwar cannibalism, famine, ritual consumption,
+    or a contextual ethnographic detail.
+  cautions: Culturally sensitive and single-occurrence; do not normalize without source
+    context and careful review of wording and function.
+  suggested_aliases:
+  - enemy_bodies_consumed_after_war
+  - postwar_enemy_bodies_as_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-body-displayed-as-war-trophy
+  motif_id: enemy_body_displayed_as_war_trophy
+  label: enemy body displayed as war trophy
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The taxonomy already includes body-part trophies as proof of combat under
+    divine_warrior; this is a whole-body variant.
+  cautions: If the display is mainly funerary denial or humiliation rather than proof
+    of martial power, heroic_funeral_rites or sacred_combat may be better.
+  suggested_aliases:
+  - enemy_body_as_war_trophy
+  - displayed_enemy_body_as_combat_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-body-part-as-war-trophy-and-bounty-object
+  motif_id: enemy_body_part_as_war_trophy_and_bounty_object
+  label: enemy body part as war trophy and bounty object
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: alias
+  confidence: high
+  rationale: This closely matches the existing child body_part_trophies_as_proof_of_combat
+    under divine_warrior.
+  cautions: Preserve bounty-object specificity as evidence detail; avoid implying
+    sacred function unless the passage supports it.
+  suggested_aliases:
+  - body_part_trophies_as_proof_of_combat
+  - enemy_body_part_as_war_trophy
+  - body_part_trophy_and_bounty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-body-part-transformed-into-medicine-object
+  motif_id: enemy_body_part_transformed_into_medicine_object
+  label: Enemy body part transformed into medicine object
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines enemy remains, transformation, and medicine-power
+    object functions not cleanly covered by one group.
+  cautions: Culturally sensitive medicine-object context needs source review; possible
+    placements include sacred_treasures, sacred_substance, death_and_transformation,
+    or sacred_combat depending on function.
+  suggested_aliases:
+  - enemy_remains_transformed_into_medicine_object
+  - body_part_becomes_medicine_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-body-part-used-as-medicine-ingredient
+  motif_id: enemy_body_part_used_as_medicine_ingredient
+  label: Enemy body part used as medicine ingredient
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns ritual or medicinal use of enemy remains, but the
+    narrative function is unclear.
+  cautions: Culturally sensitive and single-occurrence; review whether this is medicine,
+    trophy-taking, sacrifice, sacred substance, or an ethnographic detail before mapping.
+  suggested_aliases:
+  - enemy_body_part_as_medicine_ingredient
+  - enemy_remains_used_for_medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-burns-house-and-flees-after-defeat-or-loss
+  motif_id: enemy_burns_house_and_flees_after_defeat_or_loss
+  label: enemy burns house and flees after defeat or loss
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a specific plot action after defeat rather than a reusable
+    symbolic or narrative motif.
+  cautions: If similar self-destruction, scorched-earth flight, or ritual burning
+    patterns recur, reconsider under sacred_combat or divine_judgment.
+  suggested_aliases:
+  - defeated_enemy_burns_house_and_flees
+  - house_burning_after_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence conflict details; preserve granular
+  labels as evidence notes rather than promoting them to new canonical groups.
+- Several body-part and enemy-remains labels are culturally sensitive and should be
+  reviewed against source context before use in broad pattern queries.
+- Where trophy-taking is explicit, divine_warrior is a stronger existing group because
+  it already contains body-part trophies as proof of combat; ordinary battle actions
+  may fit sacred_combat.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2669
+  input_sha256: 80ee8a5c87ece29b69c0b8f830bc47336b47c29b7129e90e940ad0767d3069da
+

@@ -1,0 +1,319 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3348
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.diffusion-or-shared-symbolism-of-related-ceremonial-masks
+  motif_id: diffusion_or_shared_symbolism_of_related_ceremonial_masks
+  label: Diffusion or shared symbolism of related ceremonial masks
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes comparative interpretation or diffusion analysis
+    rather than a narrative or symbolic motif in a passage.
+  cautions: Do not use as evidence of borrowing or contact in normalization; preserve
+    only as provenance/commentary if needed.
+  suggested_aliases:
+  - ceremonial_mask_diffusion_note
+  - shared_symbolism_of_related_masks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dignity-preserving-refusal-of-aid
+  motif_id: dignity_preserving_refusal_of_aid
+  label: dignity-preserving refusal of aid
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusal of aid to preserve dignity is an ethical-social conduct pattern,
+    fitting sacred law/social order better than exchange itself.
+  cautions: May be a Confucian ethical maxim or passage-specific detail; if the passage
+    emphasizes reciprocity or obligation, sacred_exchange may be a secondary fit.
+  suggested_aliases:
+  - refusal_of_aid_to_preserve_dignity
+  - ethical_refusal_of_assistance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.diminishing-distances-by-drawing-ground-together
+  motif_id: diminishing_distances_by_drawing_ground_together
+  label: diminishing distances by drawing ground together
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests magical control of space or travel, but no current
+    group cleanly covers spatial contraction without more source context.
+  cautions: Could be shamanic travel, sacred craft, otherworld passage, or an over-specific
+    episode detail; review passage evidence before mapping.
+  suggested_aliases:
+  - magical_contraction_of_distance
+  - drawing_the_ground_together_for_travel
+  suggested_new_group:
+    id: magical_spatial_manipulation
+    label: Magical Spatial Manipulation
+    description: Supernatural alteration of distance, size, direction, or spatial
+      relation to enable travel, concealment, pursuit, escape, or contact between
+      realms.
+    parent_group_ids:
+    - otherworld
+    - hero_journey
+    related_group_ids:
+    - sacred_craft
+    - shapeshifter
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing journey and otherworld groups cover
+      travel destinations and passages, but not recurring magical alteration of space
+      itself.
+- suggestion_id: normalization.suggestion.diminutive-abnormal-moving-being
+  motif_id: diminutive_abnormal_moving_being
+  label: diminutive abnormal-moving being
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a creature type by size and movement, but its narrative
+    role is unclear.
+  cautions: Could be an adversary, spirit, omen, trickster, or passage artifact; avoid
+    creating a creature group from one vague occurrence.
+  suggested_aliases:
+  - small_abnormally_moving_being
+  - diminutive_uncanny_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - threshold_guardian
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.diminutive-hidden-people-living-close-to-the-ground
+  motif_id: diminutive_hidden_people_living_close_to_the_ground
+  label: diminutive hidden people living close to the ground
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: Hidden diminutive people living near or beneath ordinary space fit an
+    adjacent enchanted/hidden-realm pattern.
+  cautions: If the passage emphasizes ancestors, land spirits, or adversarial threshold
+    encounters, another group may be needed; preserve local being-type details.
+  suggested_aliases:
+  - hidden_little_people
+  - diminutive_hidden_people
+  - small_hidden_ground_dwellers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.diminutive-long-bearded-supernatural-adversary
+  motif_id: diminutive_long_bearded_supernatural_adversary
+  label: Diminutive long-bearded supernatural adversary
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: low
+  rationale: As an adversary, the being may function as an obstacle or guardian in
+    a liminal encounter.
+  cautions: The long-bearded diminutive form may be a culturally specific creature
+    description; if no threshold or passage function is present, needs human review
+    or otherworld may be better.
+  suggested_aliases:
+  - small_long_bearded_adversary
+  - diminutive_supernatural_opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dionysian-reveling-retinue
+  motif_id: dionysian_reveling_retinue
+  label: Dionysian reveling retinue
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A Dionysian reveling retinue is closely tied to divine intoxication,
+    ecstatic ritual, and sacred substance symbolism.
+  cautions: If the passage emphasizes divine procession, theophany, or madness rather
+    than intoxication/revelry, human review should consider divine_intervention or
+    sacred_time.
+  suggested_aliases:
+  - dionysian_revelers
+  - ecstatic_dionysian_retinue
+  - reveling_divine_retinue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - sacred_time
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.diplomatic-gift-distribution
+  motif_id: diplomatic_gift_distribution
+  label: Diplomatic gift distribution
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Gift distribution in diplomacy fits reciprocal exchange and relationship-making
+    between social or sacred parties.
+  cautions: May be historical/social detail rather than mythic motif; if only administrative
+    description, consider excluding from pattern queries.
+  suggested_aliases:
+  - diplomatic_gift_exchange
+  - gift_distribution_as_diplomacy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.diplomatic-present-and-messenger-exchange
+  motif_id: diplomatic_present_and_messenger_exchange
+  label: diplomatic present and messenger exchange
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Presents and messengers mediate formal reciprocal relations, aligning
+    with exchange obligations and bond formation.
+  cautions: If the passage focuses on treaties, oath-binding, or royal order, covenant
+    or royal_legitimacy may be secondary; may also be a historical detail.
+  suggested_aliases:
+  - diplomatic_present_exchange
+  - messenger_borne_gift_exchange
+  - diplomatic_gifts_and_messengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.direct-and-indirect-pollution-distinction
+  motif_id: direct_and_indirect_pollution_distinction
+  label: direct and indirect pollution distinction
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label concerns purity classification and pollution rules, a clear
+    sacred law/ritual prohibition pattern.
+  cautions: Preserve Zoroastrian specificity; if tied to corpse pollution or spirit
+    contagion, retain those details as evidence notes.
+  suggested_aliases:
+  - direct_indirect_ritual_pollution
+  - pollution_contact_distinction
+  - ritual_pollution_by_direct_or_indirect_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and may be passage-specific; suggested placements
+  are provisional.
+- Creature-type labels should not be promoted without evidence of recurring narrative
+  function.
+- Diplomatic exchange labels may be social-historical details unless the passage frames
+  exchange as sacred obligation or mythic structure.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 3348; human review
+    recommended for ambiguous supernatural-being and magical-space labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3348
+  input_sha256: a649d446ca37c4debf12d57356e1243df6391e1fc605eef2f2bfe968efbddf13
+

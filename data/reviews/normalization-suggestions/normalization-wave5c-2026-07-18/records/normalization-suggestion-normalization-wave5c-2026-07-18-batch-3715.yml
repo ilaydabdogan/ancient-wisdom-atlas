@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3715
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.need-based-exception-after-loss-or-destruction
+  motif_id: need_based_exception_after_loss_or_destruction
+  label: need-based exception after loss or destruction
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A need-based exception to a rule or discipline fits sacred law as regulated
+    dispensation under necessity.
+  cautions: Single Buddhist legal/monastic context may be more Vinaya-specific than
+    a cross-traditional motif; verify it is not merely a rule-summary artifact.
+  suggested_aliases:
+  - necessity_exception_after_loss
+  - dispensation_after_loss_or_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.need-based-exception-for-cast-off-goods
+  motif_id: need_based_exception_for_cast_off_goods
+  label: need-based exception for cast-off goods
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A regulated exception for using discarded goods belongs with sacred law,
+    purity, and disciplined social order.
+  cautions: May be an over-specific monastic rule detail rather than a reusable motif;
+    preserve as granular evidence if indexed.
+  suggested_aliases:
+  - necessity_exception_for_discarded_goods
+  - dispensation_for_cast_off_goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.need-based-medicinal-dispensation
+  motif_id: need_based_medicinal_dispensation
+  label: need-based medicinal dispensation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Medicinal dispensation is a necessity-based exception within a sacred
+    disciplinary or legal code.
+  cautions: If the source emphasizes healing substance rather than rule exception,
+    sacred_substance may be a secondary relation; likely too specific for a new group
+    alone.
+  suggested_aliases:
+  - medicinal_necessity_exception
+  - medical_dispensation_in_sacred_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.negative-exemplar-of-destructive-arrogance
+  motif_id: negative_exemplar_of_destructive_arrogance
+  label: negative exemplar of destructive arrogance
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: A destructive-arrogance exemplar directly matches pride or hubris leading
+    to ruin or moral warning.
+  cautions: If merely a didactic characterization without narrative downfall, it may
+    be an ethical commentary detail rather than a motif.
+  suggested_aliases:
+  - destructive_arrogance_as_negative_exemplar
+  - hubristic_negative_exemplar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.neglect-or-abandonment-of-deity
+  motif_id: neglect_or_abandonment_of_deity
+  label: Neglect or abandonment of deity
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Neglect of a deity could be ritual failure, broken sacred exchange, abandonment
+    by worshippers, or divine withdrawal.
+  cautions: Mesopotamian cult context may carry specific temple-care or divine-presence
+    meanings; source evidence is needed before mapping to sacred_exchange, covenant,
+    divine_judgment, or theophany.
+  suggested_aliases:
+  - cultic_neglect_of_deity
+  - abandoned_deity
+  - neglected_divine_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.neglected-deity-receives-formal-praise
+  motif_id: neglected_deity_receives_formal_praise
+  label: neglected deity receives formal praise
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Formal praise repairing neglect functions as ritual reciprocity and restoration
+    of proper divine-human relations.
+  cautions: Could instead be hymnic speech, cult aetiology, or divine honor competition;
+    consider sacred_song or covenant only if passage evidence supports them.
+  suggested_aliases:
+  - praise_restores_neglected_deity
+  - formal_hymn_to_neglected_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.neglected-helper-causes-communal-destruction
+  motif_id: neglected_helper_causes_communal_destruction
+  label: Neglected helper causes communal destruction
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Destruction following neglect of a helper fits moral reckoning for violated
+    obligation or failed reciprocity.
+  cautions: The helper’s identity matters; if trickster, animal helper, or tutelary
+    being is central, divine_intervention, trickster, or sacred_exchange may be better.
+    Review culturally specific source context.
+  suggested_aliases:
+  - neglected_helper_brings_destruction
+  - communal_punishment_for_neglecting_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.neglected-land-compensated-by-measurement-and-restoration
+  motif_id: neglected_land_compensated_by_measurement_and_restoration
+  label: neglected land compensated by measurement and restoration
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: Measuring and restoring neglected land may express rulerly repair of
+    ordered territory and legitimate governance.
+  cautions: Could be a passage-specific administrative/cultic detail, sacred geography,
+    or temple-land restoration rather than a motif; needs source review.
+  suggested_aliases:
+  - land_restoration_by_measurement
+  - neglected_territory_restored_by_measurement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.neglected-larger-recension-beside-accepted-shorter-canon
+  motif_id: neglected_larger_recension_beside_accepted_shorter_canon
+  label: Neglected larger recension beside accepted shorter canon
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes textual recension and canon history, not a narrative
+    or symbolic motif.
+  cautions: Preserve only as provenance or textual-history metadata; exclude from
+    motif pattern queries.
+  suggested_aliases:
+  - larger_recension_beside_shorter_canon
+  - recension_history_of_canon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.neglected-or-mocked-youngest-brother-with-unusual-hidden-heat
+  motif_id: neglected_or_mocked_youngest_brother_with_unusual_hidden_heat
+  label: Neglected or mocked youngest brother with unusual hidden heat
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sibling status, mockery, hidden power, and heat imagery;
+    function is unclear without the episode.
+  cautions: Could involve sacred fire, miraculous child, sibling rivalry, trickster
+    reversal, or culture hero emergence. Avoid mapping solely from the symbolic heat
+    detail.
+  suggested_aliases:
+  - mocked_youngest_brother_with_hidden_power
+  - neglected_youngest_sibling_with_hidden_heat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Need-based Buddhist dispensation labels appear legal/disciplinary and may be better
+  indexed as sacred_law only if recurring beyond passage summaries.
+- Several neglect labels require source context to distinguish failed ritual reciprocity
+  from divine judgment, social obligation, or textual artifact.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions; human review recommended for culturally specific
+    and single-occurrence legal/cultic labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3715
+  input_sha256: 710fdad6b136631ac7f2ac3d78d6b10d939d6f17d22f36f89765841ad93ff26f
+

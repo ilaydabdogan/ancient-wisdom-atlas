@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0666
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-associated-deity-at-a-sanctuary
+  motif_id: animal_associated_deity_at_a_sanctuary
+  label: Animal-associated deity at a sanctuary
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could indicate a local cult association, sanctuary iconography, tutelary
+    deity, or animal symbolism; function is not clear from label alone.
+  cautions: Single occurrence and place/cult-specific; avoid mapping to mother_goddess,
+    divine_intervention, or sacred_treasures without evidence of narrative function.
+  suggested_aliases:
+  - deity_associated_with_animal_at_sanctuary
+  - animal_cult_association_at_sanctuary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-behavior-explained-by-a-curse
+  motif_id: animal_behavior_explained_by_a_curse
+  label: Animal behavior explained by a curse
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The explanatory change in animal behavior is caused by a curse, making
+    the performative speech act the key motif.
+  cautions: If the passage emphasizes etiological animal traits more than the curse
+    itself, a future animal-etiology grouping may be more precise.
+  suggested_aliases:
+  - curse_explains_animal_behavior
+  - animal_trait_caused_by_curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-beings-as-origin-of-ritual-drums-and-dance
+  motif_id: animal_beings_as_origin_of_ritual_drums_and_dance
+  label: animal beings as origin of ritual drums and dance
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal beings function as originators or transmitters of ritual arts,
+    fitting the founder/culture-bringer role.
+  cautions: Culturally sensitive ritual knowledge; review source evidence before treating
+    animal beings as generic culture heroes.
+  suggested_aliases:
+  - animal_beings_origin_of_ritual_dance
+  - animal_beings_give_ritual_drums
+  - animal_origin_of_ritual_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-bestowed-ritual-power
+  motif_id: animal_bestowed_ritual_power
+  label: Animal-bestowed ritual power
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal or animal-being grants ritual power, functioning as supernatural
+    bestowal or guidance.
+  cautions: May require human review if the animal is an ancestor, tutelary spirit,
+    dream helper, or culturally specific sacred being rather than a generic divine
+    agent.
+  suggested_aliases:
+  - ritual_power_bestowed_by_animal
+  - animal_spirit_grants_ritual_power
+  - animal_given_sacred_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-body-images-as-crafted-ritual-objects
+  motif_id: animal_body_images_as_crafted_ritual_objects
+  label: Animal-body images as crafted ritual objects
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on crafted images used ritually, fitting sacred craft
+    and manufactured ritual objects.
+  cautions: If the passage is only an inventory of ritual implements, it may be too
+    object-specific for pattern queries.
+  suggested_aliases:
+  - crafted_animal_images_as_ritual_objects
+  - animal_effigies_as_ritual_objects
+  - animal_form_ritual_images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-derived-emblem-without-animal-taboo
+  motif_id: animal_derived_emblem_without_animal_taboo
+  label: animal-derived emblem without animal taboo
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase defines a negative classification contrast rather than a positive
+    narrative or ritual motif.
+  cautions: If source evidence describes an emblem with active ritual, identity, or
+    protective function, preserve that under sacred_treasures or sacred_law instead
+    of excluding.
+  suggested_aliases:
+  - animal_emblem_without_taboo
+  - animal_derived_emblem_no_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-derived-extraordinary-sight-as-divine-gift
+  motif_id: animal_derived_extraordinary_sight_as_divine_gift
+  label: Animal-derived extraordinary sight as divine gift
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Extraordinary sight is bestowed as a divine gift, aligning with direct
+    sacred intervention in human capacities.
+  cautions: If the motif emphasizes visionary knowledge rather than the gift event,
+    dream_and_vision or sacred_knowledge may be secondary mappings.
+  suggested_aliases:
+  - divine_gift_of_animal_derived_sight
+  - animal_based_extraordinary_vision
+  - extraordinary_sight_bestowed_by_divinity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-drawn-vehicle-of-a-goddess
+  motif_id: animal_drawn_vehicle_of_a_goddess
+  label: Animal-drawn vehicle of a goddess
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: May be divine iconography, a goddess attribute, mobility motif, or sacred
+    animal association; narrative function is unclear.
+  cautions: Single, deity-specific detail likely too granular unless the vehicle confers
+    power, legitimizes worship, or recurs across sources.
+  suggested_aliases:
+  - goddess_vehicle_drawn_by_animals
+  - animal_drawn_chariot_of_goddess
+  - animal_vehicle_of_goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-dream-confers-protection-and-ritual-imitation
+  motif_id: animal_dream_confers_protection_and_ritual_imitation
+  label: animal dream confers protection and ritual imitation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A dream involving an animal grants protection and models ritual imitation,
+    so the revelatory dream is the organizing function.
+  cautions: May also involve tutelary animal power or apotropaic ritual; culturally
+    specific ceremonial context should be reviewed.
+  suggested_aliases:
+  - protective_animal_dream_with_ritual_imitation
+  - animal_dream_grants_protection
+  - dream_animal_models_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-effigy-used-in-ritual-cure
+  motif_id: animal_effigy_used_in_ritual_cure
+  label: animal effigy used in ritual cure
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The animal effigy functions in a ritual healing/protective procedure,
+    close to existing apotropaic and spirit-danger ritual variants under sacred_law.
+  cautions: If the cure involves transfer of illness to the effigy, sacrifice or ritual_transfer
+    may be better; review culturally specific healing context.
+  suggested_aliases:
+  - animal_effigy_for_ritual_healing
+  - animal_effigy_in_curing_rite
+  - ritual_cure_by_animal_effigy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine animal agency with ritual practice. Existing groups can hold
+  many provisionally, but human review should preserve culturally specific distinctions
+  among animal spirits, tutelary beings, ritual implements, and mere iconographic
+  attributes.
+- Single-occurrence animal cult or deity-attribute labels should not be promoted without
+  additional recurring evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; review source passages for ritual
+    function and cultural specificity.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0666
+  input_sha256: e15683c56c92fb744deece6f242eefa3eb1dd3f4a0858daabfd4fd24cfd83700
+

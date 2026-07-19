@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1095
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-validity-dependent-on-complete-materials-and-proper-officiants
+  motif_id: ritual_validity_dependent_on_complete_materials_and_proper_officiants
+  label: Ritual validity dependent on complete materials and proper officiants
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label concerns correct ritual requirements and authorized performance,
+    fitting sacred regulation of practice.
+  cautions: Single occurrence; if the passage is scholastic vinaya classification
+    rather than motif evidence, consider excluding or preserving as doctrinal detail.
+  suggested_aliases:
+  - proper_officiants_and_complete_ritual_materials
+  - ritual_validity_by_correct_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-validity-through-inquiry-and-correct-classification
+  motif_id: ritual_validity_through_inquiry_and_correct_classification
+  label: ritual validity through inquiry and correct classification
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Correct inquiry and classification determine ritual status, aligning
+    with sacred law and ritual regulation.
+  cautions: May be an analytical or legal-commentary artifact rather than a narrative
+    motif; verify passage evidence before indexing broadly.
+  suggested_aliases:
+  - ritual_validity_by_correct_classification
+  - ritual_status_determined_by_inquiry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-value-and-title-gained-by-killing-eagle
+  motif_id: ritual_value_and_title_gained_by_killing_eagle
+  label: ritual value and title gained by killing eagle
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal killing, ritual prestige, and title acquisition
+    without enough context for sacrifice, initiation, or social order.
+  cautions: Culturally specific and potentially sensitive; confirm whether this is
+    ritual status achievement, hunting rite, sacrifice, or ethnographic detail before
+    mapping.
+  suggested_aliases:
+  - ritual_status_gained_by_eagle_killing
+  - title_acquired_through_eagle_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-vigil-aligned-with-the-sun
+  motif_id: ritual_vigil_aligned_with_the_sun
+  label: ritual vigil aligned with the sun
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A vigil structured by solar alignment fits ritual timing and sacred calendrical
+    or cosmic orientation.
+  cautions: Could also relate to sacred_fire or theophany if the sun is a direct divine
+    presence; preserve vigil details locally.
+  suggested_aliases:
+  - solar_aligned_ritual_vigil
+  - sun_aligned_vigil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-vision-centered-on-the-sun
+  motif_id: ritual_vision_centered_on_the_sun
+  label: Ritual vision centered on the sun
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core function is a ritualized vision or altered perception focused
+    on a solar image.
+  cautions: May secondarily involve sacred_fire, theophany, or sacred_time depending
+    on whether the sun is divine presence, ritual timing, or visionary object.
+  suggested_aliases:
+  - solar_ritual_vision
+  - sun_centered_vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-vow-over-the-yule-boar
+  motif_id: ritual_vow_over_the_yule_boar
+  label: ritual vow over the Yule boar
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: high
+  rationale: A vow spoken over a ritual animal is a binding sacred speech act within
+    a seasonal rite.
+  cautions: Could be cross-indexed with sacred_time or sacrifice if the Yule setting
+    or boar offering is central in the passage.
+  suggested_aliases:
+  - vow_over_yule_boar
+  - sacred_vow_over_ritual_boar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-wailing-and-embodied-mourning-gestures
+  motif_id: ritual_wailing_and_embodied_mourning_gestures
+  label: ritual wailing and embodied mourning gestures
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif directly describes formalized lament and bodily gestures of
+    mourning.
+  cautions: If the passage emphasizes proper ritual obligation more than grief expression,
+    sacred_law may be a secondary placement.
+  suggested_aliases:
+  - ritualized_wailing_and_mourning_gestures
+  - embodied_mourning_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-wakefulness-during-all-night-ceremony
+  motif_id: ritual_wakefulness_during_all_night_ceremony
+  label: Ritual wakefulness during all-night ceremony
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: All-night wakefulness is a ritual discipline organized by sacred ceremonial
+    time.
+  cautions: If wakefulness produces a vision or ordeal, dream_and_vision or initiation
+    may be relevant secondary mappings.
+  suggested_aliases:
+  - all_night_ritual_wakefulness
+  - ceremonial_vigil_wakefulness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-wand-or-notched-stick-producing-transformation
+  motif_id: ritual_wand_or_notched_stick_producing_transformation
+  label: ritual wand or notched stick producing transformation
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ritual object that effects transformation fits power objects or sacred
+    implements.
+  cautions: Could belong under shapeshifter or death_and_transformation if the transformation
+    itself is primary; object-specific wording may be too granular.
+  suggested_aliases:
+  - ritual_stick_producing_transformation
+  - transformative_ritual_wand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-warfare-magic-for-communal-victory
+  motif_id: ritual_warfare_magic_for_communal_victory
+  label: ritual warfare magic for communal victory
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label explicitly describes ritualized warfare practice aimed at communal
+    victory.
+  cautions: If the passage emphasizes divine aid rather than the ritual-military act,
+    divine_intervention or divine_warrior may be relevant secondary groups.
+  suggested_aliases:
+  - warfare_magic_for_communal_victory
+  - ritual_magic_for_battle_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence ritual labels; suggested placements should remain
+  provisional until passage evidence confirms narrative or ritual function rather
+  than commentary or ethnographic indexing detail.
+- For culturally specific Indigenous ritual labels, avoid collapsing local meaning
+  into broad comparative categories without human review of source context.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human taxonomy review recommended for
+    single-occurrence and culturally specific ritual items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1095
+  input_sha256: 941e183f69b64cad83ee45559f8e629b3cc3455fe8e5c20906d183679893c93d
+

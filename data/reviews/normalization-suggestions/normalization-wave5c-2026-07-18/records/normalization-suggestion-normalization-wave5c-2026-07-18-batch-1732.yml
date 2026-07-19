@@ -1,0 +1,351 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1732
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wealth-seeking-order-creates-revolutionary-dispossessed
+  motif_id: wealth_seeking_order_creates_revolutionary_dispossessed
+  label: wealth-seeking order creates revolutionary dispossessed
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads like a political-philosophical or social analysis theme
+    rather than a clear mythic narrative motif.
+  cautions: Single occurrence; may be passage commentary about class conflict or regime
+    change. Could relate to pride_and_downfall, divine_judgment, sacred_law, or royal_legitimacy
+    only with source evidence.
+  suggested_aliases:
+  - wealth_seeking_order_creates_dispossessed
+  - dispossessed_created_by_wealth_seeking_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-luck-test-by-striking-a-target
+  motif_id: weapon_luck_test_by_striking_a_target
+  label: weapon luck test by striking a target
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Testing luck or outcome by a weapon strike functions as divinatory omen-taking
+    rather than ordinary combat.
+  cautions: If the passage emphasizes the weapon as a sacred object or ordeal of prowess,
+    sacred_treasures or sacred_combat may be secondary; verify divinatory function.
+  suggested_aliases:
+  - weapon_omen_by_striking_target
+  - luck_test_by_weapon_strike
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-making-from-gathered-natural-materials
+  motif_id: weapon_making_from_gathered_natural_materials
+  label: Weapon-making from gathered natural materials
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on crafting a weapon from available natural materials,
+    fitting craft and construction more than combat itself.
+  cautions: If the weapon gains sacred power or determines battle, sacred_treasures
+    or sacred_combat may be better; if merely practical manufacture, it may be too
+    specific.
+  suggested_aliases:
+  - weapon_crafting_from_natural_materials
+  - making_weapons_from_gathered_materials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapons-discharged-and-not-reloaded-before-peacemaking
+  motif_id: weapons_discharged_and_not_reloaded_before_peacemaking
+  label: weapons discharged and not reloaded before peacemaking
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Disarming before peacemaking signals a binding peace relationship or
+    covenantal repair.
+  cautions: Could also belong under sacred_law if a formal peace protocol, or sacred_combat
+    if part of warfare cessation; culturally specific peacemaking practice needs source
+    review.
+  suggested_aliases:
+  - ritual_disarming_before_peacemaking
+  - unloaded_weapons_before_peace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weather-and-rainmaking-figures
+  motif_id: weather_and_rainmaking_figures
+  label: weather and rainmaking figures
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Powers and Rainmaking
+  relationship: role_variant
+  confidence: medium
+  rationale: Weather or rainmaking agents recur as a distinct ritual-divine function
+    not cleanly held by existing nature, intervention, or exchange groups.
+  cautions: Review culturally specific evidence carefully; may overlap with divine_intervention,
+    sacred_exchange, sacred_law, or nature/cosmos depending on whether figures are
+    deities, ritual specialists, ancestors, or spirits.
+  suggested_aliases:
+  - rainmaking_figures
+  - weather_making_figures
+  - weather_powers
+  suggested_new_group:
+    id: weather_powers_rainmaking
+    label: Weather Powers and Rainmaking
+    description: Figures, rites, charms, objects, or actions that summon, restrain,
+      alter, or negotiate weather such as rain, wind, cloud, sun, drought, or storm.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - sacred_law
+    - prophecy_divination
+    reason_existing_groups_insufficient: Existing groups can cover divine aid, sacred
+      water, or ritual exchange, but do not preserve the recurring function of weather-making
+      and rain control across ritual and mythic contexts.
+- suggestion_id: normalization.suggestion.weather-charm-or-rain-making
+  motif_id: weather_charm_or_rain_making
+  label: weather charm or rain-making
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Powers and Rainmaking
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A charm for producing weather or rain is a direct weather-making ritual
+    motif.
+  cautions: Comparative label may come from folklore classification rather than passage
+    evidence; review before indexing. Could be sacred_exchange if framed as coercion
+    or petition to a weather power.
+  suggested_aliases:
+  - rain_making_charm
+  - weather_charm
+  - rainmaking_rite
+  suggested_new_group:
+    id: weather_powers_rainmaking
+    label: Weather Powers and Rainmaking
+    description: Figures, rites, charms, objects, or actions that summon, restrain,
+      alter, or negotiate weather such as rain, wind, cloud, sun, drought, or storm.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - sacred_law
+    - prophecy_divination
+    reason_existing_groups_insufficient: Existing groups can cover divine aid, sacred
+      water, or ritual exchange, but do not preserve the recurring function of weather-making
+      and rain control across ritual and mythic contexts.
+- suggestion_id: normalization.suggestion.weather-conjuring-by-striking-the-wind
+  motif_id: weather_conjuring_by_striking_the_wind
+  label: Weather conjuring by striking the wind
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Powers and Rainmaking
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The action is a specific technique for conjuring or altering weather,
+    fitting a weather-making complex.
+  cautions: Preserve the striking-the-wind detail as local evidence; do not generalize
+    to combat or sacred fire. Review whether this is ritual action, magical performance,
+    or narrative episode.
+  suggested_aliases:
+  - striking_the_wind_to_make_weather
+  - wind_striking_weather_conjuring
+  suggested_new_group:
+    id: weather_powers_rainmaking
+    label: Weather Powers and Rainmaking
+    description: Figures, rites, charms, objects, or actions that summon, restrain,
+      alter, or negotiate weather such as rain, wind, cloud, sun, drought, or storm.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - sacred_law
+    - prophecy_divination
+    reason_existing_groups_insufficient: Existing groups can cover divine aid, sacred
+      water, or ritual exchange, but do not preserve the recurring function of weather-making
+      and rain control across ritual and mythic contexts.
+- suggestion_id: normalization.suggestion.weather-making-and-rain-sun-or-wind-charms
+  motif_id: weather_making_and_rain_sun_or_wind_charms
+  label: weather-making and rain, sun, or wind charms
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Powers and Rainmaking
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label explicitly groups charms that manipulate rain, sun, or wind
+    as weather-making rites.
+  cautions: Comparative phrasing may be a classificatory artifact; confirm source
+    evidence. Sun-related cases may overlap sacred_fire or solar_power, but the function
+    here is weather control.
+  suggested_aliases:
+  - rain_sun_wind_charms
+  - weather_making_charms
+  - weather_control_charms
+  suggested_new_group:
+    id: weather_powers_rainmaking
+    label: Weather Powers and Rainmaking
+    description: Figures, rites, charms, objects, or actions that summon, restrain,
+      alter, or negotiate weather such as rain, wind, cloud, sun, drought, or storm.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - sacred_law
+    - prophecy_divination
+    reason_existing_groups_insufficient: Existing groups can cover divine aid, sacred
+      water, or ritual exchange, but do not preserve the recurring function of weather-making
+      and rain control across ritual and mythic contexts.
+- suggestion_id: normalization.suggestion.weather-making-by-shaking-the-sky
+  motif_id: weather_making_by_shaking_the_sky
+  label: Weather-making by shaking the sky
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Powers and Rainmaking
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Shaking the sky to make weather is a concrete weather-control action.
+  cautions: Could be a mythic cosmological act rather than a ritual technique; if
+    it reshapes the cosmos, cosmic_origin may be secondary. Preserve local imagery.
+  suggested_aliases:
+  - shaking_the_sky_to_make_weather
+  - sky_shaking_weather_making
+  suggested_new_group:
+    id: weather_powers_rainmaking
+    label: Weather Powers and Rainmaking
+    description: Figures, rites, charms, objects, or actions that summon, restrain,
+      alter, or negotiate weather such as rain, wind, cloud, sun, drought, or storm.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - sacred_law
+    - prophecy_divination
+    reason_existing_groups_insufficient: Existing groups can cover divine aid, sacred
+      water, or ritual exchange, but do not preserve the recurring function of weather-making
+      and rain control across ritual and mythic contexts.
+- suggestion_id: normalization.suggestion.weather-making-with-cloud-object
+  motif_id: weather_making_with_cloud_object
+  label: Weather-making with cloud object
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Powers and Rainmaking
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A cloud object used to make weather belongs to the same weather-control
+    and rainmaking complex.
+  cautions: If the cloud object is primarily a power object, sacred_treasures may
+    be a secondary mapping; avoid losing the rain/weather-making function.
+  suggested_aliases:
+  - cloud_object_for_weather_making
+  - weather_control_cloud_object
+  - rainmaking_cloud_object
+  suggested_new_group:
+    id: weather_powers_rainmaking
+    label: Weather Powers and Rainmaking
+    description: Figures, rites, charms, objects, or actions that summon, restrain,
+      alter, or negotiate weather such as rain, wind, cloud, sun, drought, or storm.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - sacred_law
+    - prophecy_divination
+    reason_existing_groups_insufficient: Existing groups can cover divine aid, sacred
+      water, or ritual exchange, but do not preserve the recurring function of weather-making
+      and rain control across ritual and mythic contexts.
+batch_notes:
+- Several weather/rainmaking labels point to a recurring weather-control complex not
+  currently preserved by a dedicated canonical_motif_group; suggested as one shared
+  new group candidate rather than separate groups.
+- Single-occurrence and comparative labels should be checked against passage evidence
+  before promotion or broad indexing.
+- 'Weapon-related labels split by function: divinatory testing, craft, and peacemaking/disarmament
+  should not be collapsed into combat solely because weapons are present.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; weather_powers_rainmaking candidate requires
+    human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1732
+  input_sha256: 25fdcc301e52939a5d5f6c69d22dde4bb993216239c4935e096960f39c8eee3a
+

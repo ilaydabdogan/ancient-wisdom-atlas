@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3794
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.predator-profits-from-another-creature-s-misfortune
+  motif_id: predator_profits_from_another_creature_s_misfortune
+  label: predator profits from another creature's misfortune
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: alias
+  confidence: high
+  rationale: Existing trickster group already contains predator_profits_from_another_s_misfortune;
+    this is only a wording variant with 'creature' added.
+  cautions: Likely a fable predator-deception detail; preserve exact wording as an
+    alias rather than a new motif.
+  suggested_aliases:
+  - predator_profits_from_another_s_misfortune
+  - predator profits from another's misfortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-repelled-by-protective-companion
+  motif_id: predator_repelled_by_protective_companion
+  label: Predator repelled by protective companion
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be an animal-fable rescue, guardian-helper scene, or protective
+    companion motif; no existing group cleanly captures it from the label alone.
+  cautions: Single occurrence and culturally specific context; verify whether the
+    companion is animal helper, kin protector, tutelary spirit, or ordinary narrative
+    actor before mapping.
+  suggested_aliases:
+  - protective companion repels predator
+  - predator driven off by companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-s-ambush-interrupted-by-sleep
+  motif_id: predator_s_ambush_interrupted_by_sleep
+  label: predator's ambush interrupted by sleep
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A predator's failed ambush through sleep fits the existing predator-fable
+    reversal cluster under trickster.
+  cautions: May be an over-specific episode detail unless repeated; confirm whether
+    the narrative emphasizes deception/reversal rather than accidental sleep.
+  suggested_aliases:
+  - sleep interrupts predator ambush
+  - predator ambush fails when predator sleeps
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-tracks-a-human-by-scent-or-spoor
+  motif_id: predator_tracks_a_human_by_scent_or_spoor
+  label: Predator tracks a human by scent or spoor
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a pursuit motif, animal-predator episode, or realistic
+    tracking detail rather than a stable symbolic motif.
+  cautions: Do not map to trickster unless deception or reversal is present; may be
+    too contextual for pattern queries if it is only chase mechanics.
+  suggested_aliases:
+  - predator tracks human by scent
+  - predator follows spoor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-waits-on-a-false-expectation
+  motif_id: predator_waits_on_a_false_expectation
+  label: Predator waits on a false expectation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A predator deceived into waiting fits the predator-deception and fable-reversal
+    cluster already under trickster.
+  cautions: If the false expectation is not caused by trickery, this may be only a
+    narrative detail; review source context.
+  suggested_aliases:
+  - predator deceived into waiting
+  - predator waits because of false belief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predators-misinterpret-harmless-behavior-as-threatening-action
+  motif_id: predators_misinterpret_harmless_behavior_as_threatening_action
+  label: predators misinterpret harmless behavior as threatening action
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Misinterpretation that reverses predator advantage aligns with the existing
+    predator-deception fable pattern under trickster.
+  cautions: Could be accidental misunderstanding rather than trickster deception;
+    retain as a granular fable detail unless it recurs.
+  suggested_aliases:
+  - predators mistake harmless act for threat
+  - predator frightened by misunderstood behavior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predatory-dispossession-imagery
+  motif_id: predatory_dispossession_imagery
+  label: predatory dispossession imagery
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as thematic imagery rather than a clear narrative function;
+    possible links include violence, social order, or colonial/dispossession context.
+  cautions: Culturally and historically sensitive; review passage evidence before
+    treating as a motif. May be commentary or interpretive abstraction.
+  suggested_aliases:
+  - predatory imagery of dispossession
+  - dispossession figured as predation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predatory-gambler-with-trophies-of-slain-opponents
+  motif_id: predatory_gambler_with_trophies_of_slain_opponents
+  label: Predatory gambler with trophies of slain opponents
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines gambling contest, predatory antagonist, and trophies of the
+    slain; existing groups split these functions across trickster, sacred_combat,
+    and divine_judgment.
+  cautions: Source context needed to determine whether the core motif is gambling
+    ordeal, monster antagonist, trophy violence, or moral punishment; avoid flattening
+    into combat alone.
+  suggested_aliases:
+  - killer gambler with trophies
+  - predatory gambling opponent with slain trophies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predatory-invitation-or-hostile-hospitality
+  motif_id: predatory_invitation_or_hostile_hospitality
+  label: predatory invitation or hostile hospitality
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on a corrupted or dangerous hospitality encounter,
+    fitting the hospitality/guest-test field.
+  cautions: If the emphasis is deception by a predator rather than host-guest obligation,
+    trickster may be a secondary or better mapping.
+  suggested_aliases:
+  - hostile hospitality
+  - predatory invitation
+  - dangerous invitation as hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predatory-meat-before-murder
+  motif_id: predatory_meat_before_murder
+  label: predatory meat before murder
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to tell whether it concerns cannibalism,
+    ominous food, betrayal through a meal, or a violent episode detail.
+  cautions: Review source evidence; possible mappings include betrayal_violated_trust,
+    sacred_substance, or sacred_combat, but the current wording is ambiguous and over-specific.
+  suggested_aliases:
+  - meat served before murder
+  - predatory meal preceding killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items belong to the existing predator-deception fable cluster under trickster,
+  but single-occurrence labels should remain granular aliases or evidence notes.
+- Items involving Indigenous or culturally specific predation/hospitality imagery
+  should be checked against source passages before broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; ambiguous single-occurrence predator labels
+    need source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3794
+  input_sha256: f5edfa9ca4ae9c32770c81c37560e201bb64ca93274e3e69dbd21e804efd28a9
+

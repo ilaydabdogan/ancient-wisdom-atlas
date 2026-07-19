@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3116
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.golden-age-paradise
+  motif_id: golden_age_paradise
+  label: Golden age paradise
+  occurrences: 2
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Golden age imagery fits the existing world-ages and primordial-peace
+    complex.
+  cautions: If the passage emphasizes an enchanted realm rather than a lost age, otherworld
+    may be a better mapping.
+  suggested_aliases:
+  - golden_age_primordial_peace
+  - primordial_paradise
+  - golden_age_paradise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-by-extraction-of-intrusive-objects
+  motif_id: healing_by_extraction_of_intrusive_objects
+  label: Healing by extraction of intrusive objects
+  occurrences: 2
+  traditions:
+  - chaco-amerindian
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: ritual_variant
+  confidence: low
+  rationale: Extraction healing may belong with soul/vital-force restoration or spirit-affliction
+    healing, but the label lacks ritual context.
+  cautions: Culturally sensitive shamanic or ethnographic healing evidence should
+    be reviewed; intrusive object extraction may be physical, spiritual, or commentary-derived.
+  suggested_aliases:
+  - intrusive_object_extraction_healing
+  - healing_by_removing_intrusive_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-treasure-tradition
+  motif_id: hidden_treasure_tradition
+  label: hidden treasure tradition
+  occurrences: 2
+  traditions:
+  - estonian
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: Hidden treasure belongs under sacred or power-bearing treasure objects
+    when the treasure has mythic, revelatory, or transformative value.
+  cautions: If this is only a generic treasure tale or a textual tradition label,
+    review for exclusion or meta-textual handling.
+  suggested_aliases:
+  - hidden_treasure
+  - treasure_hidden_by_tradition
+  - concealed_sacred_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-before-identification
+  motif_id: hospitality_before_identification
+  label: hospitality before identification
+  occurrences: 2
+  traditions:
+  - arctic-inuit
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: high
+  rationale: The host offers welcome before knowing the guest's identity, matching
+    hospitality-as-test and stranger-guest patterns.
+  cautions: If no sacred test, stranger danger, or later recognition is present, it
+    may be a narrative courtesy detail.
+  suggested_aliases:
+  - hospitality_to_unknown_guest
+  - stranger_received_before_recognition
+  - guest_fed_before_identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-feeding-a-raven
+  motif_id: human_feeding_a_raven
+  label: human feeding a raven
+  occurrences: 2
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Feeding an animal or raven may function as reciprocity with a powerful
+    being, helper, or trickster figure.
+  cautions: Raven has culturally specific roles in Northwest Coast traditions; source
+    evidence is needed before mapping to trickster, sacred_exchange, animal helper,
+    or excluding as episode detail.
+  suggested_aliases:
+  - feeding_raven
+  - human_offers_food_to_raven
+  - feeding_animal_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.minor-third-melodic-prominence
+  motif_id: minor_third_melodic_prominence
+  label: minor-third melodic prominence
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes musical analysis rather than a narrative, ritual,
+    or symbolic motif.
+  cautions: Preserve as musicological metadata if useful; do not include in mythic
+    pattern queries unless tied to supernatural sound power in the source.
+  suggested_aliases:
+  - minor_third_prominence
+  - melodic_minor_third_feature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.modified-repetition-of-an-original-motive
+  motif_id: modified_repetition_of_an_original_motive
+  label: Modified repetition of an original motive
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a formal musicological or compositional observation, not a mythic
+    motif.
+  cautions: The word 'motive' here likely means musical motive; retain as analytical
+    metadata if needed.
+  suggested_aliases:
+  - modified_repetition_of_musical_motive
+  - repeated_melodic_motive_with_variation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petrification-by-spoken-command
+  motif_id: petrification_by_spoken_command
+  label: petrification by spoken command
+  occurrences: 2
+  traditions:
+  - native_american_northwest_coast
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A spoken command directly transforms a being into stone, matching performative
+    sacred speech.
+  cautions: Could also be indexed secondarily under shapeshifter if the transformation
+    itself is the focus; do not map to sacred_combat unless used as a weapon in battle.
+  suggested_aliases:
+  - spoken_command_causes_petrification
+  - word_of_power_turns_to_stone
+  - petrifying_speech_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.raid-and-reprisal-cycle
+  motif_id: raid_and_reprisal_cycle
+  label: Raid-and-reprisal cycle
+  occurrences: 2
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repeated raiding and retaliatory violence fits the existing warfare,
+    raiding, and reprisal complex.
+  cautions: If the passage emphasizes social history rather than ritualized or mythic
+    conflict, treat as contextual evidence rather than a motif.
+  suggested_aliases:
+  - raid_reprisals
+  - cycle_of_raid_and_revenge
+  - raiding_and_retaliation_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-drink
+  motif_id: refusal_to_drink
+  label: refusal to drink
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Refusing a drink could indicate taboo, renunciation, caution against
+    enchantment, mourning, or simple plot detail.
+  cautions: Needs passage evidence before mapping to sacred_law, sacred_substance,
+    mystical_quest, betrayal, or exclusion as over-specific.
+  suggested_aliases:
+  - drink_refused
+  - refusal_of_offered_drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items from Native American musical corpora appear to be analytical music
+  metadata rather than motif labels and should be kept out of Pattern Explorer motif
+  queries unless tied to supernatural sound functions.
+- Culturally specific healing and raven-related labels require source-context review
+  before normalization to avoid flattening local meanings.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3116
+  input_sha256: 6d2a70ac36d0b7561394708f68acc39bd453dc8d291bccee094f5f6971b71a06
+

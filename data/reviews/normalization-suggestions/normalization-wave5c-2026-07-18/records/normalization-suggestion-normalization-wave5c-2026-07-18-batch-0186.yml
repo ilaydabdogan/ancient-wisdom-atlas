@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0186
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.floating-shrouded-corpse
+  motif_id: floating_shrouded_corpse
+  label: floating shrouded corpse
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a death image but does not indicate narrative function,
+    agency, haunting, burial denial, or afterlife passage.
+  cautions: May be an episode detail, omen, restless-dead motif, or burial/river image;
+    source context needed before placement.
+  suggested_aliases:
+  - shrouded corpse floating on water
+  - floating corpse as death omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - restless_dead_haunting_vengeance
+    - afterlife_passage
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.flying-and-returning-spies
+  motif_id: flying_and_returning_spies
+  label: Flying and returning spies
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Flying spies who return could be reconnaissance, animal/spirit helpers,
+    soul-flight, or ordinary journey detail; the death bucket alone is insufficient.
+  cautions: Do not map to afterlife/descent without evidence that the flight crosses
+    a death, spirit, or otherworld boundary.
+  suggested_aliases:
+  - returning aerial scouts
+  - flying scouts return with news
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - divine_intervention
+    - shapeshifter
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.followers-choose-death-rather-than-abandon-a-beloved-leader
+  motif_id: followers_choose_death_rather_than_abandon_a_beloved_leader
+  label: followers choose death rather than abandon a beloved leader
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Choosing death from loyalty to a leader fits heroic martial honor, duty,
+    and death in battle more than afterlife navigation.
+  cautions: If the passage emphasizes mourning, retainer sacrifice, or funerary accompaniment
+    rather than combat honor, review secondary placement under lament_and_mourning
+    or sacrifice.
+  suggested_aliases:
+  - loyal followers choose death with leader
+  - retainers die rather than abandon leader
+  - death before abandoning beloved lord
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - lament_and_mourning
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.following-spouse-totem-spirit-reconciles-hereditary-descent
+  motif_id: following_spouse_totem_spirit_reconciles_hereditary_descent
+  label: following spouse-totem spirit reconciles hereditary descent
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to combine kinship descent, spouse relation, totemic
+    spirit, and reconciliation, but its motif function is unclear.
+  cautions: Culturally sensitive totemic and hereditary-descent concepts require source-aware
+    review; avoid flattening into generic ancestor, spirit, or marriage motifs.
+  suggested_aliases:
+  - spouse totem spirit and hereditary descent
+  - totem spirit mediates descent through spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - sacred_love
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-avoidance-linked-to-an-animal-s-spiritual-status
+  motif_id: food_avoidance_linked_to_an_animal_s_spiritual_status
+  label: Food avoidance linked to an animal's spiritual status
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A food avoidance rule grounded in an animal's spiritual status fits taboo,
+    ritual prohibition, and sacred law.
+  cautions: If the animal is an ancestor, spouse, or tutelary spirit, secondary review
+    may be needed under ancestor_rites, sacred_exchange, or divine_intervention.
+  suggested_aliases:
+  - animal-spirit food taboo
+  - food taboo based on animal spiritual status
+  - avoidance of spiritually significant animal as food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - sacred_exchange
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-bearing-return-visits-to-an-animal-spouse-or-animal-family
+  motif_id: food_bearing_return_visits_to_an_animal_spouse_or_animal_family
+  label: food-bearing return visits to an animal spouse or animal family
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Return visits bearing food emphasize reciprocal obligation and maintained
+    relationship with nonhuman affinal kin.
+  cautions: Could instead fit sacred_love, shapeshifter, or otherworld if the passage
+    centers on animal marriage, transformation, or visits to an enchanted realm.
+  suggested_aliases:
+  - food gifts to animal spouse
+  - return visits to animal kin with food
+  - feeding animal spouse or animal family
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - shapeshifter
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-brought-by-a-drowned-sister-s-ghost
+  motif_id: food_brought_by_a_drowned_sister_s_ghost
+  label: Food brought by a drowned sister's ghost
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A drowned sister's ghost returning with food is postmortem agency by
+    the dead among the living.
+  cautions: If the food-giving is framed as ancestor care or reciprocal feeding rather
+    than haunting, ancestor_rites or sacred_exchange may be better secondary mappings.
+  suggested_aliases:
+  - drowned sister's ghost brings food
+  - ghost of drowned sister provides food
+  - dead sister returns bearing food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - sacred_exchange
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-cached-for-the-return-journey
+  motif_id: food_cached_for_the_return_journey
+  label: Food cached for the return journey
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a practical travel detail rather than a symbolic or
+    narrative motif with clear sacred function.
+  cautions: If the cache enables return from an otherworld, afterlife, or initiation
+    ordeal, preserve as evidence under hero_journey or descent rather than excluding
+    entirely.
+  suggested_aliases:
+  - cached food for return travel
+  - provisions saved for the return journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - descent
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-disguised-as-a-corpse
+  motif_id: food_disguised_as_a_corpse
+  label: food disguised as a corpse
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Disguising food as a corpse suggests deception through false appearance,
+    fitting trickster or deceptive stratagem patterns.
+  cautions: If the passage is a mortuary taboo, cannibalism warning, or ritual substitution
+    rather than deception, human review should reconsider placement.
+  suggested_aliases:
+  - corpse disguise conceals food
+  - food hidden under corpse guise
+  - deceptive corpse-like food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - betrayal_violated_trust
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.food-eaten-in-the-underworld-binds-the-abducted-figure
+  motif_id: food_eaten_in_the_underworld_binds_the_abducted_figure
+  label: Food eaten in the underworld binds the abducted figure
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: Underworld food binding an abducted figure is a clear descent/underworld
+    rule affecting return from the realm of death.
+  cautions: Also relates to sacred_substance and stolen_beloved; do not broaden to
+    flood or general death-rebirth unless renewal/return is explicit.
+  suggested_aliases:
+  - underworld food binds the eater
+  - eating food of the dead prevents return
+  - underworld meal obligates abducted figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - stolen_beloved
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items have only one occurrence and are highly contextual; suggested placements
+  should be treated as provisional evidence indexing, not taxonomy edits.
+- For culturally specific totemic, animal-spouse, and spirit-status labels, source-aware
+  human review is recommended before broad normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy changes applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0186
+  input_sha256: c7bfee2febf78539153c55007525b1b1d38d8c871c99d0fd072bffe341ea589c
+

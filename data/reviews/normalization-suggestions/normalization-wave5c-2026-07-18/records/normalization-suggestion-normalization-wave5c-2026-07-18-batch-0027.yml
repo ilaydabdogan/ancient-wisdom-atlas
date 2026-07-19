@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0027
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-soul-guardians-in-a-remote-dwelling
+  motif_id: animal_soul_guardians_in_a_remote_dwelling
+  label: Animal-soul guardians in a remote dwelling
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests guardian beings controlling access to animal souls
+    or a remote spirit place, which may function as threshold guardians.
+  cautions: Single occurrence and culturally specific Arctic/Inuit soul ontology;
+    could instead involve animal-master spirits, otherworld, or ritual hunting relations
+    not represented by an existing group.
+  suggested_aliases:
+  - animal_soul_guardians
+  - remote_dwelling_of_animal_souls
+  - animal_soul_guardians_in_spirit_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-soul-or-animal-part-confers-efficacy
+  motif_id: animal_soul_or_animal_part_confers_efficacy
+  label: animal soul or animal part confers efficacy
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: low
+  rationale: An animal soul or body part conferring ritual efficacy resembles a sacred
+    substance or empowered material used for transformative effect.
+  cautions: Could also be sacred_treasures, ritual object empowerment, hunting-magic
+    belief, or ethnographic commentary; source evidence is needed before indexing
+    broadly.
+  suggested_aliases:
+  - animal_part_confers_ritual_efficacy
+  - animal_soul_confers_power
+  - animal_body_part_as_empowering_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-soul-or-guardian-retaliates-against-disrespect
+  motif_id: animal_soul_or_guardian_retaliates_against_disrespect
+  label: Animal soul or guardian retaliates against disrespect
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Retaliation for disrespect toward animal souls fits taboo, proper treatment
+    of killed animals, and sacred-law consequences.
+  cautions: If the passage emphasizes a specific guardian spirit’s agency, divine_intervention
+    may be a secondary mapping; if comparative-only, verify it is not a scholarly
+    abstraction.
+  suggested_aliases:
+  - animal_guardian_retaliates_against_disrespect
+  - animal_soul_punishes_disrespect
+  - retaliation_for_disrespect_to_animal_souls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-souls-as-humanlike-persons
+  motif_id: animal_souls_as_humanlike_persons
+  label: Animal souls as humanlike persons
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a culturally specific ontology of animal personhood
+    rather than a clear existing narrative function.
+  cautions: Avoid flattening Indigenous animal-person concepts into shapeshifter or
+    external_soul without evidence of transformation or separable-life mechanics;
+    may need a future animal-personhood/hunting-ritual group if recurrent.
+  suggested_aliases:
+  - animal_souls_as_persons
+  - animal_person_souls
+  - humanlike_animal_souls
+  suggested_new_group:
+    id: animal_personhood_and_soul_relations
+    label: Animal Personhood and Soul Relations
+    description: Animal souls, animal persons, or animal-spirit agents are treated
+      as intentional social beings who enter reciprocal, ritual, or moral relations
+      with humans.
+    parent_group_ids:
+    - sacred_law
+    - sacred_exchange
+    related_group_ids:
+    - divine_intervention
+    - shapeshifter
+    - sacred_substance
+    reason_existing_groups_insufficient: Existing groups cover animal transformation,
+      sacred law, or divine intervention, but not recurring human-animal soul relations
+      as a distinct ontology.
+- suggestion_id: normalization.suggestion.animal-souls-enter-human-fishing-waters
+  motif_id: animal_souls_enter_human_fishing_waters
+  label: Animal souls enter human fishing waters
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Animal souls entering fishing waters may express reciprocal availability
+    of animal persons to humans within a ritual subsistence relationship.
+  cautions: Highly local and context-dependent; could be sacred_waters, animal-personhood,
+    hunting/fishing cosmology, or passage-specific ethnographic detail.
+  suggested_aliases:
+  - animal_souls_enter_fishing_waters
+  - fish_souls_enter_human_waters
+  - animal_souls_offer_themselves_to_fishers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-souls-sharing-human-afterlife-credentials
+  motif_id: animal_souls_sharing_human_afterlife_credentials
+  label: animal souls sharing human afterlife credentials
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Afterlife credentials or qualifications for animal souls align with rules
+    or requirements for postmortem passage.
+  cautions: Preserve animal-soul specificity; if the passage is about ritual kinship
+    with animal persons rather than navigation, sacred_law or animal-personhood review
+    may be better.
+  suggested_aliases:
+  - animal_souls_with_afterlife_credentials
+  - animal_afterlife_credentials
+  - animal_souls_qualified_for_afterlife_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-sounds-and-dead-animals-foretell-death
+  motif_id: animal_sounds_and_dead_animals_foretell_death
+  label: Animal sounds and dead animals foretell death
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Animal sounds or dead animals functioning as death omens fit divination
+    and omen interpretation.
+  cautions: If the omen occurs as a spontaneous vision or dream rather than a divinatory
+    sign system, dream_and_vision may be a secondary placement.
+  suggested_aliases:
+  - animal_omens_foretell_death
+  - death_omens_from_animal_sounds
+  - dead_animals_as_death_omens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-species-ancestors
+  motif_id: animal_species_ancestors
+  label: animal-species ancestors
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: low
+  rationale: Animal species as ancestors may explain origins of peoples, species,
+    or kin groups, which broadly fits origin and ancestry motifs.
+  cautions: Could involve totemic ancestry, animal-person ontology, clan origin, or
+    ethnographic classification; avoid forcing into cosmic_origin unless an etiological
+    origin narrative is present.
+  suggested_aliases:
+  - animal_ancestors
+  - species_ancestors
+  - animal_species_as_ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-spirit-embodiment-in-ritual-performance
+  motif_id: animal_spirit_embodiment_in_ritual_performance
+  label: Animal-spirit embodiment in ritual performance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritual embodiment of an animal spirit resembles controlled transformation
+    or spirit embodiment in performance.
+  cautions: May be culturally sensitive ceremonial material; source context should
+    determine whether to index as ritual performance, possession/embodiment, sacred
+    law, or exclude from broad motif queries.
+  suggested_aliases:
+  - animal_spirit_embodiment
+  - ritual_embodiment_of_animal_spirit
+  - animal_spirit_performance_embodiment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-spirit-empowerment-of-a-ritual-object
+  motif_id: animal_spirit_empowerment_of_a_ritual_object
+  label: animal-spirit empowerment of a ritual object
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ritual object empowered by an animal spirit functions as a power object
+    conferring sacred efficacy.
+  cautions: If the emphasis is on the material substance or rite rather than the object,
+    sacred_substance or sacred_law may be secondary; review cultural specificity before
+    broad querying.
+  suggested_aliases:
+  - animal_spirit_empowered_object
+  - ritual_object_empowered_by_animal_spirit
+  - animal_spirit_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern culturally specific animal-soul relations in Indigenous and
+  Arctic contexts; human review should avoid collapsing these into generic soul, shapeshifting,
+  or afterlife motifs without passage evidence.
+- A recurring candidate may be emerging around animal personhood, animal souls, and
+  reciprocal hunting/fishing ritual relations; only one explicit new-group candidate
+  is proposed here because most items are single occurrence and context-dependent.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific animal-soul ontology needs
+    evidence-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0027
+  input_sha256: ec994382c7489fc87b89535180365200a0ec028649d21697b669b03c412b725b
+

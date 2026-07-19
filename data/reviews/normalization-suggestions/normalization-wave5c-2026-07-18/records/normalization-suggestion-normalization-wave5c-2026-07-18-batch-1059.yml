@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1059
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-or-game-object-that-sounds
+  motif_id: ritual_or_game_object_that_sounds
+  label: ritual or game object that sounds
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe a ritual sound object, game implement, or ethnographic
+    artifact rather than a recurring motif.
+  cautions: Single occurrence; review source context before mapping to enchanting_music,
+    sacred_treasures, sacred_law, or excluding as object detail.
+  suggested_aliases:
+  - sounding_ritual_object
+  - sound_making_game_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-or-marked-cutting-of-the-little-finger
+  motif_id: ritual_or_marked_cutting_of_the_little_finger
+  label: ritual or marked cutting of the little finger
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual bodily cutting can function as bodily offering, marking, or set-apart
+    surrender, fitting the sacrifice complex provisionally.
+  cautions: Could instead be initiation, mourning, punishment, or local ethnographic
+    detail depending on passage evidence; preserve finger specificity as evidence
+    only.
+  suggested_aliases:
+  - ritual_finger_cutting
+  - little_finger_cutting_as_ritual_mark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-or-official-act-nullified-by-procedural-defect
+  motif_id: ritual_or_official_act_nullified_by_procedural_defect
+  label: Ritual or official act nullified by procedural defect
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Validity depending on correct procedure is a sacred-law or ritual-order
+    pattern rather than sacrifice proper.
+  cautions: May be a legal/commentarial passage artifact if it only reports monastic
+    or administrative procedure; review before broad pattern use.
+  suggested_aliases:
+  - ritual_invalidated_by_procedural_defect
+  - procedural_defect_nullifies_sacred_act
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-or-practical-singing-to-secure-accomplishment
+  motif_id: ritual_or_practical_singing_to_secure_accomplishment
+  label: ritual or practical singing to secure accomplishment
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Song or sound used efficaciously to accomplish an aim fits music or voice
+    as supernatural/practical power.
+  cautions: If the song is primarily prayer, work song, or local ritual instruction
+    without supernatural efficacy, sacred_exchange or exclusion may be better.
+  suggested_aliases:
+  - efficacious_ritual_singing
+  - singing_to_secure_success
+  - song_as_practical_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-or-preparatory-garments-before-encounter
+  motif_id: ritual_or_preparatory_garments_before_encounter
+  label: ritual or preparatory garments before encounter
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Preparatory garments may signal purification, seduction, combat, royal
+    presentation, or divine encounter depending on context.
+  cautions: Single occurrence and broad wording; do not map to theophany, sacred_love,
+    sacred_law, or royal_legitimacy without evidence of the encounter function.
+  suggested_aliases:
+  - preparatory_garments_before_encounter
+  - ritual_clothing_before_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-or-specialist-exception-to-an-ordinary-grooming-rule
+  motif_id: ritual_or_specialist_exception_to_an_ordinary_grooming_rule
+  label: Ritual or specialist exception to an ordinary grooming rule
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An exception to a grooming rule for ritual specialists fits sacred regulation,
+    taboo, and social ritual order.
+  cautions: May be an over-specific ethnographic norm rather than a motif; review
+    whether the exception has narrative or ritual consequence.
+  suggested_aliases:
+  - specialist_exception_to_grooming_rule
+  - ritual_exception_to_grooming_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-ordeal-by-boiling-water
+  motif_id: ritual_ordeal_by_boiling_water
+  label: ritual ordeal by boiling water
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A dangerous ritual ordeal with boiling water functions as a threshold
+    test that may transform status or prove power.
+  cautions: If used as judicial proof, healing, or punishment, sacred_law or divine_judgment
+    may be better; water symbolism alone does not imply sacred_waters.
+  suggested_aliases:
+  - boiling_water_ordeal
+  - ritual_boiling_water_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-ordeal-or-dangerous-performance-using-a-swallowed-sword
+  motif_id: ritual_ordeal_or_dangerous_performance_using_a_swallowed_sword
+  label: ritual ordeal or dangerous performance using a swallowed sword
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes ritual ordeal and performance feat; function is unclear
+    without source evidence.
+  cautions: Could be initiation, sacred combat symbolism, shamanic performance, or
+    a passage-specific spectacle; avoid mapping solely from sword imagery.
+  suggested_aliases:
+  - swallowed_sword_ritual_ordeal
+  - dangerous_sword_swallowing_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-order-as-foundation-of-social-and-political-order
+  motif_id: ritual_order_as_foundation_of_social_and_political_order
+  label: Ritual order as foundation of social and political order
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: broader_label
+  confidence: high
+  rationale: The motif explicitly links ritual normativity with social and political
+    order, matching sacred law and social order.
+  cautions: Could also relate to royal_legitimacy if ruler authorization is central;
+    Confucian ritual order should not be forced into divine-sacrifice categories.
+  suggested_aliases:
+  - ritual_order_founds_social_order
+  - ritual_propriety_as_political_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-order-by-calendrical-timing-and-quorum
+  motif_id: ritual_order_by_calendrical_timing_and_quorum
+  label: ritual order by calendrical timing and quorum
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Calendrical timing organizes ritual validity, fitting sacred time and
+    ritual cycle more than sacrifice.
+  cautions: The quorum element may be monastic legal procedure; secondary sacred_law
+    mapping may be appropriate if procedural validity is the focus.
+  suggested_aliases:
+  - ritual_validity_by_calendar_and_quorum
+  - calendrical_quorum_ritual_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence ritual or ethnographic details; preserve local
+  wording and avoid promoting them without recurrence.
+- For procedural Buddhist labels, distinguish motif-level sacred order from commentary
+  or administrative rule artifacts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; items marked needs_human_review require source-context
+    validation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1059
+  input_sha256: b7d811f3f0beeda491114a61069001f9256ea393a138446aab32303915c72b99
+

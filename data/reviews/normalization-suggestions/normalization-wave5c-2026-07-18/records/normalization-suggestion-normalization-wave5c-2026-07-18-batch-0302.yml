@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0302
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.predatory-guest-deprived-of-food-until-death
+  motif_id: predatory_guest_deprived_of_food_until_death
+  label: Predatory guest deprived of food until death
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: A predatory guest punished by deprivation may be a fable reversal or
+    moral retaliation, but the death bucket alone is not decisive.
+  cautions: Single occurrence; could fit trickster reversal, hospitality violation,
+    divine judgment, or episode-specific violence depending on source context.
+  suggested_aliases:
+  - predatory_guest_starved_to_death
+  - dangerous_guest_punished_by_food_deprivation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predatory-spirit-seizes-wandering-soul
+  motif_id: predatory_spirit_seizes_wandering_soul
+  label: predatory spirit seizes wandering soul
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: medium
+  rationale: A wandering soul seized by a spirit fits the soul-loss complex where
+    a displaced soul is stolen or detained and may require recovery.
+  cautions: If the passage is strictly postmortem predation rather than illness or
+    restoration, afterlife_passage or restless_dead_haunting_vengeance may be secondary.
+  suggested_aliases:
+  - spirit_seizes_wandering_soul
+  - wandering_soul_captured_by_predatory_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predatory-spirits-treat-humans-as-game-animals
+  motif_id: predatory_spirits_treat_humans_as_game_animals
+  label: Predatory spirits treat humans as game animals
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves spirit agency toward humans, but its main pattern
+    is predatory spirit-human relation not clearly covered by existing groups.
+  cautions: Culturally sensitive spirit ecology; could be death peril, hunting cosmology,
+    spirit affliction, or shamanic ordeal. Source evidence is needed before broad
+    indexing.
+  suggested_aliases:
+  - spirits_hunt_humans_as_game
+  - predatory_spirit_hunters_of_humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predestined-embodiment-of-dust-and-soul
+  motif_id: predestined_embodiment_of_dust_and_soul
+  label: Predestined embodiment of dust and soul
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Dust-and-soul embodiment in a Sufi context likely concerns mystical anthropology,
+    predestination, and the soul's embodied condition.
+  cautions: If the passage emphasizes mortality from dust, death_and_transformation
+    may be secondary; if predestination is central, death_by_fate may also be relevant.
+  suggested_aliases:
+  - dust_and_soul_embodiment
+  - soul_embodied_in_dust_by_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predicted-serial-deaths-of-murderers
+  motif_id: predicted_serial_deaths_of_murderers
+  label: Predicted serial deaths of murderers
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Predicted deaths of murderers suggest moral reckoning for killing, with
+    prediction functioning as a judgment sign.
+  cautions: Could instead belong under prophecy_divination if the predictive mechanism
+    is central, or death_by_fate if inevitability rather than moral punishment is
+    emphasized.
+  suggested_aliases:
+  - foretold_deaths_of_murderers
+  - murderers_deaths_predicted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prediction-before-battle-or-death
+  motif_id: prediction_before_battle_or_death
+  label: Prediction before battle or death
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: broader_label
+  confidence: medium
+  rationale: A prediction before battle or death is best treated as prophecy/omen
+    of a coming fatal or martial event.
+  cautions: If the passage emphasizes inevitable death in combat, death_by_fate may
+    be a secondary mapping; if it is a dream, dream_and_vision may fit better.
+  suggested_aliases:
+  - foretelling_before_battle_or_death
+  - omen_before_battle_or_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preemptive-attack-against-feared-returning-raiders
+  motif_id: preemptive_attack_against_feared_returning_raiders
+  label: Preemptive attack against feared returning raiders
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes strategic violence against raiders, fitting the broad
+    combat and raiding group better than death-afterlife motifs.
+  cautions: May be a contextual battle episode rather than a durable motif; confirm
+    whether the narrative gives it ritual, moral, or recurring structural importance.
+  suggested_aliases:
+  - preemptive_attack_on_returning_raiders
+  - attack_to_prevent_raiders_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preemptive-reversal-of-dreamed-death
+  motif_id: preemptive_reversal_of_dreamed_death
+  label: Preemptive reversal of dreamed death
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on a dreamed death that is acted upon or reversed,
+    making dream/vision the primary function.
+  cautions: If the reversal is a ritual healing or soul-retrieval act, soul_loss_restoration
+    or death_and_transformation may also be relevant.
+  suggested_aliases:
+  - dreamed_death_preemptively_reversed
+  - averting_death_seen_in_dream
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pregnant-corpse-as-double-contamination
+  motif_id: pregnant_corpse_as_double_contamination
+  label: Pregnant corpse as double contamination
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Double contamination from a pregnant corpse is a ritual purity and mortuary
+    law issue, fitting sacred_law.
+  cautions: Culturally specific purity category; preserve pregnancy and corpse details
+    as evidence and avoid reducing it to generic death symbolism.
+  suggested_aliases:
+  - pregnant_corpse_double_impurity
+  - double_contamination_of_pregnant_corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pregnant-return-from-hinon-s-dwelling
+  motif_id: pregnant_return_from_hinon_s_dwelling
+  label: pregnant return from Hinon’s dwelling
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is highly contextual and depends on who Hinon is and what the
+    dwelling represents in the source.
+  cautions: Could involve otherworld return, sacred pregnancy, abduction, divine encounter,
+    or a place/person-specific episode. Do not map without passage evidence.
+  suggested_aliases:
+  - pregnant_return_from_spirit_dwelling
+  - return_pregnant_from_hinon_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and highly contextual; suggested placements
+  should be treated as provisional indexing aids rather than taxonomy edits.
+- For spirit-predation labels, human review should distinguish shamanic soul-loss,
+  afterlife danger, hunting cosmology, and generic hostile-spirit agency.
+- 'Prediction labels should be reviewed for mechanism: dream/vision, formal divination,
+  fate, or moral judgment.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft suggestions generated for batch normalization review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0302
+  input_sha256: 61928c978104a0c0afca6b1f11446421fba757fc02f02e63414f8436f12232b3
+

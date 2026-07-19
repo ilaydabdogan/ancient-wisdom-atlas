@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2889
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.binding-of-oppressor-brings-local-liberation
+  motif_id: binding_of_oppressor_brings_local_liberation
+  label: binding of oppressor brings local liberation
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Binding an oppressor may be a liberation, conflict, judgment, or ritual-containment
+    motif depending on the passage evidence.
+  cautions: Single occurrence; do not map merely from the word binding without knowing
+    whether it is combat, magical restraint, legal punishment, or local historical
+    detail.
+  suggested_aliases:
+  - oppressor_bound_and_community_liberated
+  - binding_of_oppressor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_combat
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.binding-to-vehicle-chain-during-transport
+  motif_id: binding_to_vehicle_chain_during_transport
+  label: binding to vehicle chain during transport
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a concrete episode detail about transport and restraint
+    rather than a reusable mythic motif.
+  cautions: If source evidence shows ritual captivity, punishment, or ordeal, it could
+    be reviewed under initiation, sacred_law, or sacred_combat.
+  suggested_aliases:
+  - captive_bound_to_transport_chain
+  - chain_binding_during_transport
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.black-mourning-marks-and-bodily-alteration
+  motif_id: black_mourning_marks_and_bodily_alteration
+  label: black mourning marks and bodily alteration
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Bodily marking or alteration as mourning is best treated as a ritualized
+    expression of grief.
+  cautions: Culturally specific mourning practices should be preserved as evidence
+    detail; if the focus is mortuary taboo or purity, sacred_law may be relevant.
+  suggested_aliases:
+  - mourning_marks_on_body
+  - black_body_marks_for_mourning
+  - bodily_alteration_as_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessed-place-of-the-faithful-with-bridge-imagery-nearby
+  motif_id: blessed_place_of_the_faithful_with_bridge_imagery_nearby
+  label: Blessed place of the faithful with bridge imagery nearby
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: A blessed destination for the faithful with bridge imagery fits mapped
+    postmortem passage and afterlife geography.
+  cautions: The phrase 'nearby' may reflect passage context rather than a single motif;
+    if the place is emphasized as paradise rather than route, otherworld may be a
+    secondary mapping.
+  suggested_aliases:
+  - blessed_afterlife_place_of_the_faithful
+  - afterlife_bridge_to_blessed_realm
+  - blessed_realm_with_bridge_imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blocked-threshold-prevents-secret-escape
+  motif_id: blocked_threshold_prevents_secret_escape
+  label: Blocked threshold prevents secret escape
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The narrative function is a threshold or boundary blocking passage and
+    preventing escape.
+  cautions: If no guardian or sacred threshold is involved, this may be an over-specific
+    plot obstacle better excluded from broad motif queries.
+  suggested_aliases:
+  - blocked_exit_prevents_escape
+  - threshold_barrier_blocks_secret_escape
+  - escape_prevented_by_blocked_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blocked-threshold-with-selective-mercy
+  motif_id: blocked_threshold_with_selective_mercy
+  label: blocked threshold with selective mercy
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines boundary blockage with mercy, which could belong to
+    threshold, covenant/mercy, or judgment depending on the scene.
+  cautions: Single composite label; review whether the main function is passage control,
+    social mercy, divine judgment, or a specific episode detail.
+  suggested_aliases:
+  - threshold_blockage_and_mercy
+  - selective_mercy_at_blocked_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-colored-lake-as-aftermath-marker
+  motif_id: blood_colored_lake_as_aftermath_marker
+  label: blood-colored lake as aftermath marker
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A landscape feature marked by blood after an event resembles etiological
+    landscape formation or place explanation.
+  cautions: If the lake is only a visual aftermath detail with no origin explanation,
+    exclude as over-specific evidence; if blood symbolism dominates, sacred_law or
+    sacrifice may be secondary.
+  suggested_aliases:
+  - blood_colored_lake_etiology
+  - lake_colored_by_blood_after_violence
+  - blood_marks_landscape_after_event
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - death_and_transformation
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-marked-bridal-transition
+  motif_id: blood_marked_bridal_transition
+  label: blood-marked bridal transition
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Blood and bridal transition could indicate marriage rite, bodily threshold,
+    sacrifice, danger, or local social custom.
+  cautions: Culturally sensitive and highly contextual; do not map to sacred_love,
+    sacred_marriage, or sacrifice without passage evidence.
+  suggested_aliases:
+  - bridal_transition_marked_by_blood
+  - blood_mark_at_marriage_transition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacrifice
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-trail-endangering-fugitives
+  motif_id: blood_trail_endangering_fugitives
+  label: blood trail endangering fugitives
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A blood trail revealing or endangering fugitives is a concrete pursuit
+    detail rather than a stable symbolic motif.
+  cautions: If it recurs as a tracking, taboo, or betrayal pattern, it could be reviewed
+    under sacred_combat, trickster, or sacred_law.
+  suggested_aliases:
+  - blood_trail_reveals_fugitives
+  - fugitives_endangered_by_blood_trail
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bloodied-garment-used-as-a-vengeance-token
+  motif_id: bloodied_garment_used_as_a_vengeance_token
+  label: Bloodied garment used as a vengeance-token
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The garment functions as a charged token that authorizes or triggers
+    vengeance.
+  cautions: If the emphasis is sworn revenge after killing, divine_warrior or sacred_combat
+    may be better; if it proves identity or death, recognition_tokens_hidden_identity
+    may be secondary.
+  suggested_aliases:
+  - bloodied_garment_as_vengeance_token
+  - bloody_clothing_token_for_revenge
+  - garment_token_incites_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_combat
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional placements only; several labels are single-occurrence
+  and may be episode artifacts unless recurrence or clear ritual/narrative function
+  is confirmed.
+- Objects-spaces-boundaries labels in this batch often mix physical evidence with
+  social or ritual function; reviewers should privilege passage function over object
+  wording.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 2889.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2889
+  input_sha256: 27251a5fcac91123a72b9856fd19393258c23877ade8fad168406f929f21ff2c
+

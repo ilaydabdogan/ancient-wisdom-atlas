@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3790
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.powerless-handmade-idols-carried-by-their-makers
+  motif_id: powerless_handmade_idols_carried_by_their_makers
+  label: Powerless handmade idols carried by their makers
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label critiques idol impotence and likely functions as polemic against
+    false worship under sacred order and judgment.
+  cautions: Could also map to covenant or sacred_law if the passage centers exclusive
+    worship; avoid treating idol as a power object without evidence.
+  suggested_aliases:
+  - idol impotence
+  - critique of handmade idols
+  - idols powerless before makers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.powers-fail-after-repeated-use
+  motif_id: powers_fail_after_repeated_use
+  label: Powers fail after repeated use
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too generic to identify whether the failing power is magical,
+    ritual, martial, trickster, or sacred-object related.
+  cautions: Needs source evidence; could be a passage-specific plot device rather
+    than a recurring motif.
+  suggested_aliases:
+  - exhausted supernatural power
+  - limited repeated use of power
+  - power loses efficacy through repetition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.practical-allowance-following-infrastructural-deficiency
+  motif_id: practical_allowance_following_infrastructural_deficiency
+  label: Practical allowance following infrastructural deficiency
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads like a Vinaya/legal case abstraction about institutional procedure,
+    not a symbolic narrative motif.
+  cautions: Preserve as rule-history metadata if useful, but exclude from broad motif
+    pattern queries.
+  suggested_aliases:
+  - allowance due to inadequate facilities
+  - practical infrastructure exception
+  - deficiency-based monastic allowance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.practical-difficulty-resolved-by-authoritative-permission
+  motif_id: practical_difficulty_resolved_by_authoritative_permission
+  label: Practical difficulty resolved by authoritative permission
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a procedural rule-resolution pattern rather than
+    a mythic or symbolic motif.
+  cautions: If passage evidence frames the authority as sacred lawgiving, a secondary
+    legal-history note under sacred_law may be possible, but this generated label
+    is too generic.
+  suggested_aliases:
+  - authoritative permission resolves practical problem
+  - practical rule exception
+  - permission after practical difficulty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.practical-insufficiency-leading-to-authorized-replacement-implement
+  motif_id: practical_insufficiency_leading_to_authorized_replacement_implement
+  label: Practical insufficiency leading to authorized replacement implement
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an over-abstracted administrative allowance about implements,
+    not a durable motif for pattern queries.
+  cautions: Could be retained as evidence for monastic regulation history; do not
+    map to sacred_treasures unless the implement has sacred power or symbolic function.
+  suggested_aliases:
+  - authorized substitute implement
+  - replacement implement allowance
+  - practical insufficiency exception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.practical-material-becomes-protective-amulet
+  motif_id: practical_material_becomes_protective_amulet
+  label: practical material becomes protective amulet
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A material used as an amulet fits apotropaic protection, currently folded
+    under sacred_law in the normalization groups.
+  cautions: If the object itself confers special sacred authority, sacred_treasures
+    may be secondary; preserve the local material detail.
+  suggested_aliases:
+  - protective amulet from practical material
+  - ordinary material as apotropaic object
+  - amuletic transformation of practical material
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.practical-mishap-becomes-monastic-rule
+  motif_id: practical_mishap_becomes_monastic_rule
+  label: Practical mishap becomes monastic rule
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A concrete incident giving rise to a monastic rule fits sacred law and
+    social order better than narrative symbolism.
+  cautions: May be a legal/commentarial artifact; include in pattern queries only
+    if rule-etiology is being tracked as a motif.
+  suggested_aliases:
+  - mishap as origin of monastic rule
+  - incident-based rule formation
+  - rule occasioned by practical mishap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.practical-problem-answered-by-authoritative-permission
+  motif_id: practical_problem_answered_by_authoritative_permission
+  label: Practical problem answered by authoritative permission
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording is a generic procedural abstraction from a rule text rather
+    than a symbolic motif.
+  cautions: If human review retains rule-etiology labels, consolidate with similar
+    Buddhist practical-allowance labels rather than indexing separately.
+  suggested_aliases:
+  - authoritative allowance after practical problem
+  - practical problem permission
+  - procedural permission response
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.practical-problem-followed-by-allowance
+  motif_id: practical_problem_followed_by_allowance
+  label: Practical problem followed by allowance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a generic legal-procedural label, likely generated from monastic
+    rule commentary.
+  cautions: Consider merging with other practical-allowance artifacts if kept for
+    provenance; not useful as a motif query facet.
+  suggested_aliases:
+  - practical problem and allowance
+  - allowance after practical problem
+  - case-based rule allowance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.practical-repair-allowance-for-religious-community-implements
+  motif_id: practical_repair_allowance_for_religious_community_implements
+  label: practical repair allowance for religious community implements
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes administrative permission for repairing communal
+    implements, not a mythic motif.
+  cautions: Do not map to sacred_craft or sacred_treasures unless the implements have
+    explicit sacred construction or power-object function.
+  suggested_aliases:
+  - repair allowance for monastic implements
+  - authorized repair of community implements
+  - religious implement repair permission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Buddhist labels in this batch appear to be over-abstracted Vinaya or rule-commentary
+  artifacts. Human reviewers may want a single provenance bucket for practical monastic
+  allowance labels rather than motif indexing.
+- Where practical-rule labels are retained, avoid multiplying near-duplicate motif
+  entries such as practical problem, practical difficulty, allowance, permission,
+  and replacement implement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; repeated practical-allowance
+    labels flagged mostly for exclusion from pattern queries.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3790
+  input_sha256: 7c47d9d1ebdb0cdffebae8d173a6d0cbb6e4535a71186a8623f67359c0642e2a
+

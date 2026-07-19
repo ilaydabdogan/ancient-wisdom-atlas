@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1541
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deity-glorified-through-honorific-titles
+  motif_id: deity_glorified_through_honorific_titles
+  label: deity glorified through honorific titles
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Honorific divine titles likely express divine sovereignty and cosmic
+    rulership rather than a narrative event.
+  cautions: Single occurrence; if this is merely hymnic style or epithet extraction,
+    it may be too textual to query as a motif.
+  suggested_aliases:
+  - divine_glorification_by_titles
+  - honorific_titles_of_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-goes-to-a-city
+  motif_id: deity_goes_to_a_city
+  label: Deity goes to a city
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A deity entering a city could signal theophany, divine patronage, cult
+    procession, conquest, or a passage-specific movement.
+  cautions: Needs source context before choosing divine_intervention, theophany, royal_legitimacy,
+    or sacred_geography; label alone is too generic.
+  suggested_aliases:
+  - divine_entry_into_city
+  - deity_arrival_at_city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.delayed-interment-with-domestic-lying-in-state
+  motif_id: delayed_interment_with_domestic_lying_in_state
+  label: Delayed interment with domestic lying-in-state
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Delayed burial and domestic presence of the corpse are mortuary rites
+    managing relations between living, dead, and household.
+  cautions: Could also fit heroic_funeral_rites if the deceased is a ruler or hero;
+    culturally specific mortuary evidence should be reviewed carefully.
+  suggested_aliases:
+  - delayed_burial_with_lying_in_state
+  - domestic_lying_in_state_before_interment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.delayed-marriage-for-war-honor
+  motif_id: delayed_marriage_for_war_honor
+  label: delayed marriage for war honor
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marriage timing, martial honor, and social status
+    without enough evidence for a stable placement.
+  cautions: May belong under sacred_combat, sacred_love, initiation, or sacred_law
+    depending on whether war honor, courtship, or rite of passage is primary.
+  suggested_aliases:
+  - marriage_deferred_for_war_honor
+  - war_honor_before_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.delegated-formative-authority-to-man
+  motif_id: delegated_formative_authority_to_man
+  label: Delegated formative authority to Man
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Delegated formative power to humanity fits creation and ordering of the
+    cosmos, especially in Hermetic anthropogony.
+  cautions: Could instead belong with sacred_knowledge or royal_legitimacy if the
+    passage emphasizes divine instruction or human sovereignty rather than cosmogonic
+    formation.
+  suggested_aliases:
+  - human_delegated_creative_authority
+  - delegated_cosmic_formative_power_to_humanity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.delegated-war-expedition-against-a-rival-kingdom
+  motif_id: delegated_war_expedition_against_a_rival_kingdom
+  label: Delegated war expedition against a rival kingdom
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A commissioned campaign against a rival kingdom is best treated as a
+    specific warfare episode under sacred combat.
+  cautions: May be ordinary political plot detail unless the expedition has ritual,
+    sacred, heroic, or legitimating function.
+  suggested_aliases:
+  - commissioned_war_expedition
+  - delegated_campaign_against_rival_kingdom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deliberate-breaking-and-display-of-the-deceased-s-possessions
+  motif_id: deliberate_breaking_and_display_of_the_deceased_s_possessions
+  label: deliberate breaking and display of the deceased's possessions
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual treatment of a deceased person’s possessions belongs with mortuary
+    and ancestor-rite practices.
+  cautions: If performed for a heroic or chiefly death, heroic_funeral_rites may be
+    a secondary fit; preserve object-breaking detail as local evidence.
+  suggested_aliases:
+  - mortuary_breaking_of_deceased_possessions
+  - display_of_broken_possessions_of_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deliverers-rescue-a-king-from-food-stealing-persecutors
+  motif_id: deliverers_rescue_a_king_from_food_stealing_persecutors
+  label: Deliverers rescue a king from food-stealing persecutors
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a highly specific rescue episode involving kingship, theft,
+    and persecution.
+  cautions: Could map to royal_legitimacy, divine_intervention, trickster, or sacred_exchange
+    depending on the source; may be too episode-specific for pattern queries.
+  suggested_aliases:
+  - king_rescued_from_food_thieves
+  - rescue_of_king_from_persecutors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demands-as-a-strategy-against-authority
+  motif_id: demands_as_a_strategy_against_authority
+  label: demands as a strategy against authority
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Strategic demands against authority may function as clever boundary-crossing
+    or oppositional stratagem.
+  cautions: Abstract wording could be commentary on social strategy rather than a
+    motif; if ethical teaching is primary, sacred_knowledge or sacred_law may fit
+    better.
+  suggested_aliases:
+  - strategic_demands_against_authority
+  - demands_used_to_challenge_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-opponent-beyond-knightly-order
+  motif_id: demonic_opponent_beyond_knightly_order
+  label: demonic opponent beyond knightly order
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A demonic opponent outside ordinary knightly order frames combat as sacred
+    or cosmic rather than merely chivalric.
+  cautions: Could also fit threshold_guardian if the opponent blocks passage or initiation;
+    verify whether combat, moral disorder, or boundary testing is primary.
+  suggested_aliases:
+  - demonic_opponent_outside_chivalric_order
+  - supernatural_enemy_beyond_knightly_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; preserve
+  local evidence and avoid promoting to canonical motifs without recurrence.
+- Do not infer transmission or borrowing from these placements; suggestions are only
+  semantic normalization aids.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional placements only; ambiguous political, ritual, and episode-specific
+    labels require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1541
+  input_sha256: 2c0fbb00e39fb904d549ddef8d848ed316d4f54c2b9c600dd0dc75191bb9b1f5
+

@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0479
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.composition-figured-as-voyage
+  motif_id: composition_figured_as_voyage
+  label: Composition figured as voyage
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a literary metaphor for writing/composition rather
+    than a narrative journey motif.
+  cautions: Preserve as rhetorical or poetics evidence if useful; do not index as
+    actual voyage, quest, or departure.
+  suggested_aliases:
+  - composition_as_voyage
+  - literary_composition_as_journey_metaphor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.compression-of-travel-time
+  motif_id: compression_of_travel_time
+  label: compression of travel time
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be magical travel, otherworld time distortion, narrative pacing,
+    or a passage artifact.
+  cautions: Source evidence is needed to distinguish supernatural time alteration
+    from ordinary compressed narration.
+  suggested_aliases:
+  - compressed_travel_time
+  - rapid_or_compressed_journey_time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.compulsory-confession-before-final-departure
+  motif_id: compulsory_confession_before_final_departure
+  label: compulsory confession before final departure
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Confession before departure may function as ritual law, judgment, initiation,
+    or culturally specific rite.
+  cautions: Potentially sensitive ritual/legal context; do not map to journey solely
+    from 'departure' without passage evidence.
+  suggested_aliases:
+  - forced_confession_before_departure
+  - required_confession_before_final_leaving
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.compulsory-worship-enforced-by-physical-penance
+  motif_id: compulsory_worship_enforced_by_physical_penance
+  label: compulsory worship enforced by physical penance
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns enforced ritual obligation and bodily penance, not
+    clearly a journey pattern.
+  cautions: Needs source context; may fit sacred_law, divine_judgment, sacrifice,
+    or coercive social order depending on agency and framing.
+  suggested_aliases:
+  - enforced_worship_with_physical_penance
+  - compelled_worship_by_penance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-group-seal-marking-passage-and-land-ownership
+  motif_id: concealed_group_seal_marking_passage_and_land_ownership
+  label: concealed group seal marking passage and land ownership
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines passage marking, group identity, and land ownership in a culturally
+    specific way.
+  cautions: Culturally sensitive territorial and identity marker; source review should
+    determine whether this is ritual sign, legal claim, migration evidence, or local
+    detail.
+  suggested_aliases:
+  - concealed_group_seal_marks_passage
+  - hidden_group_mark_of_land_ownership
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-kinship-fact-sends-hero-toward-forbidden-dangerous-land
+  motif_id: concealed_kinship_fact_sends_hero_toward_forbidden_dangerous_land
+  label: concealed kinship fact sends hero toward forbidden dangerous land
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed family truth motivates a hero's movement into a forbidden
+    dangerous realm, fitting departure into ordeal.
+  cautions: If the hidden kinship proof is central, recognition_tokens_hidden_identity
+    may be a secondary mapping; if the land is otherworldly, review otherworld/descent
+    as secondary.
+  suggested_aliases:
+  - hidden_kinship_sends_hero_to_forbidden_land
+  - concealed_family_truth_prompts_dangerous_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-trap-door-passage-between-bush-and-home
+  motif_id: concealed_trap_door_passage_between_bush_and_home
+  label: concealed trap-door passage between bush and home
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: narrower_than
+  confidence: low
+  rationale: A hidden trap-door passage marks a liminal crossing between domains,
+    though no guardian is specified.
+  cautions: May be an over-specific place/passage detail; consider otherworld, descent,
+    or exclusion if it lacks ritual or narrative threshold function.
+  suggested_aliases:
+  - hidden_trapdoor_passage_between_wild_and_home
+  - concealed_threshold_between_bush_and_home
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-travel-and-scout-trail-reading
+  motif_id: concealed_travel_and_scout_trail_reading
+  label: concealed travel and scout trail-reading
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as tactical travel or tracking detail rather than a stable
+    mythic motif.
+  cautions: If source evidence frames trail-reading as sacred knowledge, guidance,
+    or initiation, review under sacred_knowledge or hero_journey instead.
+  suggested_aliases:
+  - stealth_travel_and_trail_reading
+  - scout_tracking_during_concealed_travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-traveler-speaks-in-riddling-verse
+  motif_id: concealed_traveler_speaks_in_riddling_verse
+  label: concealed traveler speaks in riddling verse
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Riddling verse by a disguised traveler emphasizes powerful speech and
+    hidden identity more than travel itself.
+  cautions: Could also fit sacred_knowledge if riddles transmit wisdom, or recognition_tokens_hidden_identity
+    if concealment and revelation are central.
+  suggested_aliases:
+  - disguised_traveler_speaks_in_riddles
+  - hidden_traveler_uses_riddling_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conciliation-of-wind-and-sea-deities-before-voyage
+  motif_id: conciliation_of_wind_and_sea_deities_before_voyage
+  label: Conciliation of wind and sea deities before voyage
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: Appeasing deities before travel is a reciprocal ritual act seeking safe
+    passage or favor.
+  cautions: If the emphasis is maritime protection by deities, divine_intervention
+    or sacred_waters may be useful secondary mappings.
+  suggested_aliases:
+  - appeasing_wind_and_sea_deities_before_voyage
+  - pre_voyage_conciliation_of_sea_and_wind_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and journey-bucketed only because
+  they mention travel or departure; human review should verify actual narrative function
+  before mapping.
+- Avoid treating literary metaphors or tactical travel details as mythic journey motifs
+  unless source evidence gives them ritual, sacred, or transformative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific land, ritual,
+    and confession/penance labels require source-sensitive review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0479
+  input_sha256: '052900711521209cee54f80e9a157730ffb84f4664c57ba069ae91ecd61f0bde'
+

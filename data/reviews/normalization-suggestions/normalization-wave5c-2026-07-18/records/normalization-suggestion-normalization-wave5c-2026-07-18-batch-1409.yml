@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1409
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.place-name-explanatory-tradition
+  motif_id: place_name_explanatory_tradition
+  label: Place-name explanatory tradition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Existing cosmic_origin group already includes place-name etiology and
+    explanatory landscape naming aliases.
+  cautions: Very broad and single-occurrence; may be an editorial category rather
+    than a narrative motif if no etiological event is described.
+  suggested_aliases:
+  - place_name_etiology
+  - place_naming_etiology
+  - etiological_place_name_tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-from-animal-s-apparent-fall
+  motif_id: place_name_from_animal_s_apparent_fall
+  label: place name from animal's apparent fall
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A place-name explained by an event fits the established place-name etiology
+    cluster under cosmic_origin.
+  cautions: Animal fall detail is highly local; preserve as evidence note and do not
+    infer animal transformation or death without passage support.
+  suggested_aliases:
+  - place_name_etiology_from_animal_event
+  - place_name_from_animal_fall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-of-departed-heroes
+  motif_id: place_name_of_departed_heroes
+  label: Place-name of departed heroes
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Toponymic naming from heroic figures or events is already represented
+    in cosmic_origin children and aliases.
+  cautions: If the passage emphasizes ancestor presence, memorial cult, or heroic
+    death rites rather than naming etiology, ancestor_rites or heroic_funeral_rites
+    may be relevant secondary review paths.
+  suggested_aliases:
+  - toponymic_naming_from_heroes
+  - place_name_etiology_from_departed_heroes
+  - heroic_place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-origin-explanation-through-migration
+  motif_id: place_name_origin_explanation_through_migration
+  label: Place-name origin explanation through migration
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: An origin explanation for a place-name belongs with the broader etiological
+    place-naming material under cosmic_origin.
+  cautions: Migration may be the more important motif if the passage centers on journey
+    or settlement rather than the naming itself; avoid reducing migration tradition
+    to a mere toponym.
+  suggested_aliases:
+  - migration_place_name_etiology
+  - place_name_etiology_from_migration
+  - place_naming_after_migration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-origin-for-mountain-house
+  motif_id: place_name_origin_for_mountain_house
+  label: place-name origin for Mountain House
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The useful general pattern is place-name origin or toponymic etiology,
+    already covered under cosmic_origin.
+  cautions: Specific named place detail may be passage evidence rather than reusable
+    motif; if Mountain House functions as a sacred center, axis_mundi may need secondary
+    review.
+  suggested_aliases:
+  - place_name_origin_for_named_landmark
+  - named_place_origin_etiology
+  - place_name_etiology_for_mountain_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-preserving-event-or-person
+  motif_id: place_name_preserving_event_or_person
+  label: place-name preserving event or person
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: 'This is a direct variant of toponymic etiology: a place-name preserves
+    memory of an event or person.'
+  cautions: If the person is only a historical or local name without mythic explanation,
+    it may be too specific for pattern queries.
+  suggested_aliases:
+  - place_name_preserves_event_or_person
+  - toponymic_memory_of_event_or_person
+  - place_name_etiology_from_person_or_event
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-preserving-war-pursuit-at-a-ford
+  motif_id: place_name_preserving_war_pursuit_at_a_ford
+  label: place-name preserving war pursuit at a ford
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label primarily describes toponymic preservation of an event, matching
+    place-name etiology under cosmic_origin.
+  cautions: War pursuit at a ford may also support sacred_combat or threshold-boundary
+    evidence; do not lose the ford and pursuit details in notes.
+  suggested_aliases:
+  - place_name_etiology_from_war_pursuit_at_ford
+  - toponymic_memory_of_ford_pursuit
+  - place_name_from_ford_combat_event
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-named-after-escape-refuge
+  motif_id: place_named_after_escape_refuge
+  label: place named after escape refuge
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A place named after a remembered refuge episode fits the toponymic etiology
+    cluster under cosmic_origin.
+  cautions: If the refuge itself is the recurring motif, sacred_vessel, axis_mundi,
+    or hero_journey may be better secondary mappings depending on setting and function.
+  suggested_aliases:
+  - place_name_etiology_from_escape_refuge
+  - place_named_for_refuge_event
+  - toponymic_refuge_memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-named-from-a-fatal-encounter
+  motif_id: place_named_from_a_fatal_encounter
+  label: place named from a fatal encounter
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Existing cosmic_origin children include place-name etiology from violent
+    death or events; this is a close variant.
+  cautions: Fatal encounter may also be death, combat, or judgment evidence, but the
+    label's indexing value is the naming etiology.
+  suggested_aliases:
+  - place_name_etiology_from_fatal_encounter
+  - place_name_from_death_event
+  - place_named_from_deadly_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-named-from-a-violent-and-wondrous-event
+  motif_id: place_named_from_a_violent_and_wondrous_event
+  label: place named from a violent and wondrous event
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: This matches established place-name etiology from violent or heroic events
+    under cosmic_origin.
+  cautions: The wondrous event may involve divine intervention or transformation;
+    preserve event specifics as evidence rather than collapsing all meaning into place
+    naming.
+  suggested_aliases:
+  - place_name_etiology_from_violent_wondrous_event
+  - place_name_from_wondrous_event
+  - place_name_from_violent_event
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All items in this batch are single-occurrence toponymic etiology labels. Existing
+  cosmic_origin already carries place-name etiology children and aliases, so new taxonomy
+  groups are not recommended.
+- Several labels may be over-specific evidence notes. Human review should preserve
+  the underlying event details, especially migration, ford pursuit, refuge, fatal
+  encounter, and named landmark contexts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1409
+  input_sha256: aee0a519859a74b5921152fa180c1b04b7214dc567cd5da4b4e82cf548383743
+

@@ -1,0 +1,359 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1751
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-speaker-as-father-like-task-figure
+  motif_id: animal_speaker_as_father_like_task_figure
+  label: Animal speaker as father-like task figure
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal speech, kin-like authority, and task assignment;
+    existing groups could fit only with more context.
+  cautions: May be a helper, trickster, initiatory taskmaster, or kinship role rather
+    than a stable motif. Single occurrence and culturally specific context need review.
+  suggested_aliases:
+  - animal task-giver
+  - father-like animal helper
+  - animal speaker assigns tasks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - animal_helpers
+    - initiation
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-spouse-and-bear-human-marriage
+  motif_id: animal_spouse_and_bear_human_marriage
+  label: Animal spouse and bear-human marriage
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Spouse and Human-Animal Marriage
+  relationship: child
+  confidence: medium
+  rationale: Animal spouse marriage is a recurring cross-cultural motif not cleanly
+    captured by sacred_love or shapeshifter alone.
+  cautions: Bear-human marriage may carry local clan, ancestor, or taboo meanings;
+    preserve species specificity as evidence detail.
+  suggested_aliases:
+  - animal spouse
+  - human-animal marriage
+  - bear-human marriage
+  - animal bridegroom or bride
+  suggested_new_group:
+    id: animal_spouse_human_animal_marriage
+    label: Animal Spouse and Human-Animal Marriage
+    description: Marriage, courtship, or conjugal union between a human and an animal
+      or animal-formed being, often involving taboo, transformation, kinship alliance,
+      ancestry, or aid between species communities.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - miraculous_child
+    - sacred_exchange
+    - culture_hero
+    reason_existing_groups_insufficient: Sacred_love covers love and marriage broadly,
+      while shapeshifter covers form change; neither preserves the distinctive spouse/alliance
+      function of human-animal marriage.
+- suggestion_id: normalization.suggestion.animal-spouse-marriage-followed-by-aid-to-the-human-community
+  motif_id: animal_spouse_marriage_followed_by_aid_to_the_human_community
+  label: Animal-spouse marriage followed by aid to the human community
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Spouse and Human-Animal Marriage
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on an animal-spouse alliance whose marriage benefits
+    the human community.
+  cautions: Could also be culture_hero or sacred_exchange if the aid, rather than
+    the marriage, is the main pattern. Review local species and kinship meanings.
+  suggested_aliases:
+  - animal spouse aids humans
+  - human-animal marriage brings communal aid
+  - animal marriage alliance
+  suggested_new_group:
+    id: animal_spouse_human_animal_marriage
+    label: Animal Spouse and Human-Animal Marriage
+    description: Marriage, courtship, or conjugal union between a human and an animal
+      or animal-formed being, often involving taboo, transformation, kinship alliance,
+      ancestry, or aid between species communities.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - sacred_exchange
+    - culture_hero
+    - animal_helpers
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups can index love, transformation,
+      or aid separately, but not the recurring marriage-as-interspecies-alliance structure.
+- suggestion_id: normalization.suggestion.animal-spouse-or-animal-marriage
+  motif_id: animal_spouse_or_animal_marriage
+  label: Animal spouse or animal marriage
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Spouse and Human-Animal Marriage
+  relationship: alias
+  confidence: medium
+  rationale: This is a direct label for human-animal spouse or marriage motifs.
+  cautions: Human review should distinguish literal animal spouse, disguised human,
+    transformed spouse, ritual metaphor, or clan ancestry.
+  suggested_aliases:
+  - animal spouse
+  - animal marriage
+  - human-animal spouse
+  - animal bride or bridegroom
+  suggested_new_group:
+    id: animal_spouse_human_animal_marriage
+    label: Animal Spouse and Human-Animal Marriage
+    description: Marriage, courtship, or conjugal union between a human and an animal
+      or animal-formed being, often involving taboo, transformation, kinship alliance,
+      ancestry, or aid between species communities.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - miraculous_child
+    - sacred_exchange
+    reason_existing_groups_insufficient: The current taxonomy lacks a durable group
+      for spousehood across human-animal boundaries.
+- suggestion_id: normalization.suggestion.animal-substitute-mistaken-for-wife
+  motif_id: animal_substitute_mistaken_for_wife
+  label: animal substitute mistaken for wife
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve deception, substitution, marital insult, disguise,
+    or comic/sexual context; existing placement depends on passage evidence.
+  cautions: Avoid mapping to animal-spouse unless the animal is actually a spouse.
+    Could be trickster, betrayal, shapeshifter, or an over-specific episode detail.
+  suggested_aliases:
+  - animal substituted for wife
+  - mistaken animal wife
+  - wife-substitution by animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - betrayal_violated_trust
+    - shapeshifter
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-substitute-used-as-marriage-insult
+  motif_id: animal_substitute_used_as_marriage_insult
+  label: animal substitute used as marriage insult
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a specific insult or humiliation episode involving
+    marriage substitution.
+  cautions: May be too contextual for pattern queries unless similar substitution-insult
+    episodes recur. Could involve trickster deception, violated marriage exchange,
+    or social dishonor.
+  suggested_aliases:
+  - animal substitute as marital insult
+  - marriage insult by animal substitution
+  - animal substituted for bride or wife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_love
+    - betrayal_violated_trust
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-suitor-or-hidden-lover-frightens-with-a-sung-warning
+  motif_id: animal_suitor_or_hidden_lover_frightens_with_a_sung_warning
+  label: Animal suitor or hidden lover frightens with a sung warning
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal suitor, hidden lover, fear, and song-warning;
+    the primary function is unclear.
+  cautions: Could belong to animal-spouse, enchanting_music, threshold_guardian, sacred_love,
+    or trickster depending on whether the suitor, the warning song, or the fear is
+    central.
+  suggested_aliases:
+  - animal suitor with sung warning
+  - hidden lover's warning song
+  - frightening suitor song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - enchanting_music
+    - threshold_guardian
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-suitor-repeatedly-invites-maiden-away
+  motif_id: animal_suitor_repeatedly_invites_maiden_away
+  label: Animal suitor repeatedly invites maiden away
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Spouse and Human-Animal Marriage
+  relationship: narrower_than
+  confidence: medium
+  rationale: An animal suitor pursuing a maiden is a courtship-stage variant of the
+    animal spouse complex.
+  cautions: If the invitation is a predatory lure rather than marriage/courtship,
+    threshold_guardian or trickster may be better. Review before final mapping.
+  suggested_aliases:
+  - animal suitor invites maiden
+  - animal bridegroom courtship
+  - animal lover lures maiden away
+  suggested_new_group:
+    id: animal_spouse_human_animal_marriage
+    label: Animal Spouse and Human-Animal Marriage
+    description: Marriage, courtship, or conjugal union between a human and an animal
+      or animal-formed being, often involving taboo, transformation, kinship alliance,
+      ancestry, or aid between species communities.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - threshold_guardian
+    - otherworld
+    - trickster
+    reason_existing_groups_insufficient: Sacred_love does not by itself retain the
+      animal-suitor boundary-crossing structure, and shapeshifter may not be explicit.
+- suggestion_id: normalization.suggestion.animal-swallows-person-and-possessions-as-transport
+  motif_id: animal_swallows_person_and_possessions_as_transport
+  label: Animal swallows person and possessions as transport
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Swallowing as transport may be a journey, animal-helper, containment,
+    or death-rebirth image, but the label alone does not identify the function.
+  cautions: Do not map automatically to descent or death-rebirth; swallowing may be
+    practical transport, ordeal, rescue, or comic episode. Bucket assignment may be
+    accidental.
+  suggested_aliases:
+  - swallowed by animal as transport
+  - animal belly transport
+  - person carried inside animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - animal_helpers
+    - sacred_vessel
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-teachers-instruct-the-newly-embodied-person
+  motif_id: animal_teachers_instruct_the_newly_embodied_person
+  label: Animal teachers instruct the newly embodied person
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal teachers transmitting instruction to a newly embodied person fits
+    sacred or transformative knowledge transmission.
+  cautions: Could also involve initiation, rebirth, or animal-helper traditions; review
+    whether the animals are teachers, kin, spirits, or embodied powers.
+  suggested_aliases:
+  - animal teachers
+  - instruction by animals
+  - animal guides teach newly embodied person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - animal_helpers
+    - death_and_transformation
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to a recurring animal-spouse/human-animal marriage complex
+  that is not cleanly preserved by existing sacred_love or shapeshifter groups; a
+  new normalization group is suggested for review, not a direct taxonomy edit.
+- Many items have single occurrences and culturally specific Indigenous or San contexts;
+  human review should verify passage evidence and avoid flattening animal kinship,
+  clan, helper, and spouse functions into one category.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; animal-spouse group candidate
+    recurs across multiple unmapped labels in this batch.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1751
+  input_sha256: 73c23e4b7227d5cb3933618e1d9cdf77e5a3795a65c8bf25511db6f6d240e977
+

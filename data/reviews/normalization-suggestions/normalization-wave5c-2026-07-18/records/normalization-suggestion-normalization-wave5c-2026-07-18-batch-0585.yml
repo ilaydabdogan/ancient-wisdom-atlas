@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0585
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.proposed-marriage-after-foreign-arrival
+  motif_id: proposed_marriage_after_foreign_arrival
+  label: Proposed marriage after foreign arrival
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Marriage after arrival could involve alliance, hospitality, bride choice,
+    stranger integration, or journey resolution.
+  cautions: Single occurrence and culturally contextual; source evidence needed before
+    mapping to sacred_love, sacred_exchange, or hero_journey.
+  suggested_aliases:
+  - marriage_proposal_after_arrival
+  - foreign_arrival_followed_by_marriage_proposal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.proposed-marriage-within-a-foster-sibling-relationship
+  motif_id: proposed_marriage_within_a_foster_sibling_relationship
+  label: proposed marriage within a foster-sibling relationship
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate kinship taboo, alliance, fosterage, romance, or
+    household conflict rather than a journey motif.
+  cautions: Potentially sensitive kinship and marriage category; do not fold into
+    sacred_love without passage evidence about longing, union, or marriage-choice
+    function.
+  suggested_aliases:
+  - foster_sibling_marriage_proposal
+  - marriage_proposal_between_foster_siblings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protected-emissary-or-dependent-in-a-travel-corridor
+  motif_id: protected_emissary_or_dependent_in_a_travel_corridor
+  label: Protected emissary or dependent in a travel corridor
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protection of emissaries or dependents in transit is a norm of ordered
+    conduct and protected status.
+  cautions: If the passage emphasizes divine escort or road danger more than legal/social
+    protection, divine_intervention or hero_journey may be secondary.
+  suggested_aliases:
+  - protected_emissary_in_travel_corridor
+  - protected_dependent_in_transit
+  - safe_conduct_for_emissary_or_dependent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protected-passage-through-fire
+  motif_id: protected_passage_through_fire
+  label: Protected passage through fire
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A figure safely passing through fire most directly suggests miraculous
+    preservation or divine protection in peril.
+  cautions: Could also index sacred_fire if fire is divine presence or mystical ordeal;
+    do not map to world-destroying fire unless cosmic destruction is present.
+  suggested_aliases:
+  - miraculous_protection_in_fire
+  - protected_fire_passing
+  - safe_passage_through_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protected-threshold-passage-into-enclosed-dwelling
+  motif_id: protected_threshold_passage_into_enclosed_dwelling
+  label: protected threshold passage into enclosed dwelling
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on safe crossing of a charged threshold into an enclosed
+    space.
+  cautions: If the dwelling functions as a preserving container, sacred_vessel may
+    be relevant; if it is mainly a domestic rule, sacred_law may fit better.
+  suggested_aliases:
+  - safe_threshold_entry_into_dwelling
+  - protected_entry_across_household_threshold
+  - protected_passage_into_enclosed_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-from-exile-and-preservation-of-homeland
+  motif_id: protection_from_exile_and_preservation_of_homeland
+  label: Protection from exile and preservation of homeland
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protection from displacement and preservation of a homeland implies sacred
+    aid maintaining a people in place.
+  cautions: Could instead be royal_legitimacy or sacred_law if framed as righteous
+    governance, covenantal land order, or political protection.
+  suggested_aliases:
+  - divine_protection_from_exile
+  - homeland_preserved_from_exile
+  - sacred_preservation_of_homeland
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-of-widows-and-wifeless-men-as-righteous-kingship
+  motif_id: protection_of_widows_and_wifeless_men_as_righteous_kingship
+  label: Protection of widows and wifeless men as righteous kingship
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explicitly frames care for vulnerable persons as evidence of
+    righteous kingship.
+  cautions: Also overlaps sacred_law/social_care; if the passage is ethical instruction
+    rather than royal legitimation, sacred_law is better.
+  suggested_aliases:
+  - care_for_vulnerable_as_righteous_kingship
+  - protection_of_widows_as_just_rule
+  - righteous_kingship_protects_socially_vulnerable
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-boundary-after-crossing-a-bar
+  motif_id: protective_boundary_after_crossing_a_bar
+  label: protective boundary after crossing a bar
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A bar may be a physical threshold, magical boundary, legal obstacle,
+    or episode-specific object.
+  cautions: Single occurrence and object-specific; verify whether the boundary protects,
+    tests, excludes, or marks initiation before mapping.
+  suggested_aliases:
+  - protective_boundary_after_bar_crossing
+  - bar_crossing_creates_protective_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-formula-for-peaceful-passage
+  motif_id: protective_formula_for_peaceful_passage
+  label: protective formula for peaceful passage
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: In Egyptian context, a formula enabling safe passage likely belongs with
+    afterlife navigation by names or words of power.
+  cautions: If the passage concerns ordinary travel rather than postmortem transit,
+    map instead to curse_blessing_speech or hero_journey.
+  suggested_aliases:
+  - protective_spell_for_safe_passage
+  - formula_for_peaceful_passage
+  - words_of_power_for_safe_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-invocation-against-danger-on-roads
+  motif_id: protective_invocation_against_danger_on_roads
+  label: Protective invocation against danger on roads
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The operative element is a protective spoken invocation used to avert
+    danger during travel.
+  cautions: If a deity actively guides or rescues the traveler, divine_intervention
+    may be secondary; if it is a fixed ritual rule, sacred_law may also apply.
+  suggested_aliases:
+  - road_protection_invocation
+  - protective_prayer_for_travel_roads
+  - invocation_for_safe_road_travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence travel-protection labels; prefer
+  provisional group placement and preserve local evidence rather than creating new
+  travel-safety groups yet.
+- Marriage-after-arrival and foster-sibling marriage labels need source context because
+  they may encode alliance, kinship norms, romance, taboo, hospitality, or episode-specific
+  plot details.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for culturally
+    contextual kinship and boundary-passage labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0585
+  input_sha256: 9a90e0370e41804b53b6786f023c65bc201df55582c9a7086bf0ee647eb3cd4e
+

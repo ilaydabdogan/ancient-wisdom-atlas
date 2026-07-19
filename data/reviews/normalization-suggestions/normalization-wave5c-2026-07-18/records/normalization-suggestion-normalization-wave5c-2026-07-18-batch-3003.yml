@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3003
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.red-black-stave-casting-and-scoring-game
+  motif_id: red_black_stave_casting_and_scoring_game
+  label: red-black stave casting and scoring game
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a specific game-object or scoring detail rather than
+    a recurrent symbolic or narrative motif.
+  cautions: If the game is used for divination, ritual contest, fate allocation, or
+    status transition, review for prophecy_divination, sacred_law, or initiation instead.
+  suggested_aliases:
+  - stave_casting_game
+  - red_black_scoring_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.red-breast-from-blood-mark
+  motif_id: red_breast_from_blood_mark
+  label: red breast from blood mark
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label likely describes an etiological explanation for an animal feature
+    produced by a blood mark.
+  cautions: Could instead belong under death_and_transformation if the emphasis is
+    bodily change after death, or sacred_law if blood taboo is central.
+  suggested_aliases:
+  - red_breast_etiology_from_blood
+  - animal_marking_from_blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.red-feather-as-marked-ceremonial-affiliation
+  motif_id: red_feather_as_marked_ceremonial_affiliation
+  label: red feather as marked ceremonial affiliation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be a culturally specific ceremonial marker rather than
+    a general motif.
+  cautions: Review source evidence and cultural context before mapping; possible fits
+    include sacred_law for ritual affiliation, sacred_treasures for a power object,
+    or royal_legitimacy/status marking if authority is central.
+  suggested_aliases:
+  - ceremonial_red_feather_marker
+  - red_feather_affiliation_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.redistribution-of-abundant-catch-brings-wealth
+  motif_id: redistribution_of_abundant_catch_brings_wealth
+  label: redistribution of abundant catch brings wealth
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Wealth gained through redistribution of abundance fits reciprocity, gift
+    circulation, and sacred exchange obligations.
+  cautions: If the catch is miraculously supplied, divine_intervention or sacred_substance
+    may be relevant; if this is an ethnographic economic note, do not over-index.
+  suggested_aliases:
+  - wealth_through_redistribution_of_abundance
+  - abundant_catch_redistributed_as_wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-in-a-small-hidden-household
+  motif_id: refuge_in_a_small_hidden_household
+  label: refuge in a small hidden household
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: low
+  rationale: A hidden household functioning as refuge aligns loosely with protected
+    enclosure or container-like preservation.
+  cautions: 'Low confidence: if the hiding place is an enchanted realm use otherworld;
+    if it shelters a threatened destined child use miraculous_child; if it is merely
+    a plot setting, exclude as over-specific.'
+  suggested_aliases:
+  - hidden_household_refuge
+  - small_hidden_refuge_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-in-elevated-structures-during-attack
+  motif_id: refuge_in_elevated_structures_during_attack
+  label: Refuge in elevated structures during attack
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a tactical refuge setting, but its symbolic function
+    is unclear.
+  cautions: Could map to sacred_vessel if preserving life through danger, axis_mundi/ascent
+    if elevation is ritually meaningful, or sacred_combat if only a battle tactic;
+    passage evidence is needed.
+  suggested_aliases:
+  - elevated_refuge_during_attack
+  - attack_refuge_in_high_structure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refugee-incorporation-into-neighboring-peoples
+  motif_id: refugee_incorporation_into_neighboring_peoples
+  label: Refugee incorporation into neighboring peoples
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a migration, social-origin, or historical incorporation note
+    rather than a mythic motif.
+  cautions: Avoid treating social history as motif without narrative evidence; possible
+    mapping to cosmic_origin only if it functions as an origin story for peoples.
+  suggested_aliases:
+  - refugees_incorporated_into_neighboring_people
+  - incorporation_of_refugees_into_other_peoples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-a-task_as-a-status-boundary
+  motif_id: refusal_of_a_task_as_a_status_boundary
+  label: Refusal of a task as a status boundary
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: Refusing a task to mark status hierarchy fits social order, role limits,
+    and ritualized obligation.
+  cautions: Could be initiation if the task is an ordeal, covenant if an obligation
+    is broken, or pride_and_downfall if refusal triggers punishment; source context
+    needed.
+  suggested_aliases:
+  - task_refusal_marks_status_boundary
+  - status_boundary_through_refused_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-ordinary-house-entry
+  motif_id: refusal_of_ordinary_house_entry
+  label: refusal of ordinary house entry
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Refusing house entry may mark taboo, liminality, stranger status, or
+    a passage-specific action.
+  cautions: Possible fits include threshold_guardian, sacred_law, hospitality_test_stranger_guest,
+    or otherworld depending on why entry is refused.
+  suggested_aliases:
+  - refusal_to_enter_ordinary_house
+  - ordinary_house_entry_refused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regalia-wearing-substitute-target
+  motif_id: regalia_wearing_substitute_target
+  label: Regalia-wearing substitute target
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A substitute target wearing regalia suggests martial deception or substituted
+    identity in a combat context.
+  cautions: If the regalia primarily proves kingship or authority, royal_legitimacy
+    may be secondary; if substitution is sacrificial rather than martial, review under
+    sacrifice.
+  suggested_aliases:
+  - substitute_target_in_regalia
+  - regalia_clad_substitute_target
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence, culturally specific, or object-setting labels;
+  review source passages before adding granular children.
+- Avoid mapping refuge or boundary language to descent/ascent unless the passage shows
+  transformation, otherworld passage, or ritual threshold function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; human review recommended especially for
+    culturally specific ceremonial and social-history labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3003
+  input_sha256: 873d91fa682f63101776fc6d9d83d13806b86ca66844b3ac08a9ddc4bcfe0646
+

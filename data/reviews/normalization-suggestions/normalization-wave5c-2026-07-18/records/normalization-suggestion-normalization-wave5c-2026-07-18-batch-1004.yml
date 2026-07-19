@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1004
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rescue-and-divine-made-weapon-for-vengeance
+  motif_id: rescue_and_divine_made_weapon_for_vengeance
+  label: rescue and divine-made weapon for vengeance
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The divine-made weapon is a power object conferring martial ability;
+    vengeance is a contextual combat function.
+  cautions: Could also support divine_intervention or divine_warrior if the rescue
+    or vengeance dominates the passage.
+  suggested_aliases:
+  - divinely made weapon for vengeance
+  - divine weapon used for vengeance
+  - divine-made avenging weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-through-pursuit-halted-by-divine-intervention
+  motif_id: rescue_through_pursuit_halted_by_divine_intervention
+  label: rescue through pursuit halted by divine intervention
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly describes divine action stopping pursuit and rescuing
+    an endangered figure.
+  cautions: If the halted pursuit is a moral reversal or punishment of pursuers, divine_judgment
+    may be a secondary mapping.
+  suggested_aliases:
+  - divine intervention halts pursuit
+  - divine rescue from pursuers
+  - pursuit stopped by divine aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.resembling-taboos-on-mourners-and-kings
+  motif_id: resembling_taboos_on_mourners_and_kings
+  label: resembling taboos on mourners and kings
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes a comparative resemblance note rather than a primary
+    narrative or ritual motif.
+  cautions: If source passages actually state taboos for mourners or kings, preserve
+    those separately under sacred_law with local evidence.
+  suggested_aliases:
+  - comparative resemblance to mourner and king taboos
+  - taboo resemblance note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.residual-impurity-of-cleansed-objects
+  motif_id: residual_impurity_of_cleansed_objects
+  label: residual impurity of cleansed objects
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Residual impurity after cleansing belongs to ritual purity regulation
+    and sacred law.
+  cautions: May be too specific as a standalone motif; if the passage emphasizes purification
+    rite mechanics, sacrifice or sacred_exchange could be related.
+  suggested_aliases:
+  - remaining impurity after cleansing
+  - residual ritual impurity
+  - cleansed object retains impurity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.resistance-to-a-deity-s-rites
+  motif_id: resistance_to_a_deity_s_rites
+  label: Resistance to a deity's rites
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusal or resistance to required rites often functions as ritual transgression
+    inviting sacred reckoning.
+  cautions: If no punishment or moral consequence is present, sacred_law or covenant
+    may be better; source context is needed.
+  suggested_aliases:
+  - refusal of a deity's rites
+  - ritual resistance to a deity
+  - opposition to divine rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.resonant-architecture-marked-by-divine-music
+  motif_id: resonant_architecture_marked_by_divine_music
+  label: resonant architecture marked by divine music
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The distinctive feature is divine music or sacred sound affecting or
+    marking a built space.
+  cautions: If the architecture is the main sacred object or temple construction,
+    sacred_craft or axis_mundi may be secondary; single occurrence is specific.
+  suggested_aliases:
+  - divine music marks architecture
+  - sacred resonance in architecture
+  - resonant sacred architecture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-and-embellishment-of-sacred-monuments
+  motif_id: restoration_and_embellishment_of_sacred_monuments
+  label: restoration and embellishment of sacred monuments
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Repairing and beautifying sacred monuments functions as meritorious offering
+    or reciprocal devotion to sacred presence.
+  cautions: Could warrant a future sacred-monument-care subgroup if recurrent; if
+    framed as construction craft, sacred_craft may fit better.
+  suggested_aliases:
+  - sacred monument restoration
+  - embellishment of sacred monuments
+  - meritorious repair of sacred monuments
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-a-damaged-sacred-monument-instead-of-bodily-punishment
+  motif_id: restoration_of_a_damaged_sacred_monument_instead_of_bodily_punishment
+  label: restoration of a damaged sacred monument instead of bodily punishment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on substituting restorative repair for punitive bodily
+    judgment after sacred damage.
+  cautions: May also fit sacred_exchange as reparative offering; preserve the legal-restorative
+    specificity as evidence detail.
+  suggested_aliases:
+  - reparative restoration instead of bodily punishment
+  - sacred monument repair as punishment substitute
+  - restoration replacing corporal punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-ancient-sacred-images
+  motif_id: restoration_of_ancient_sacred_images
+  label: restoration of ancient sacred images
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ancient sacred images can function as revered power objects whose restoration
+    preserves sacred presence or memory.
+  cautions: Culturally sensitive and potentially tradition-specific; if the passage
+    is about art conservation or institutional history, exclude or keep as contextual
+    note.
+  suggested_aliases:
+  - restoring sacred images
+  - restoration of venerable sacred images
+  - repair of ancient sacred icons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-land-fertility-after-ritual-practice
+  motif_id: restoration_of_land_fertility_after_ritual_practice
+  label: restoration of land fertility after ritual practice
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual practice restores fertility through sacred reciprocity between
+    community, land, and divine order.
+  cautions: Could map to sacred_time if tied to seasonal agricultural cycle, or divine_intervention
+    if fertility is explicitly divinely granted.
+  suggested_aliases:
+  - ritual restoration of land fertility
+  - fertility restored through ritual practice
+  - land renewed by ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and should remain provisional evidence details
+  unless recurrence supports a narrower monument-restoration or ritual-repair group.
+- Do not infer transmission from shared placement; suggested groups only support broad
+  query normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch wave5c-1004; human
+    review recommended for culturally specific ritual purity and sacred image restoration
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1004
+  input_sha256: 2021f1eb282791fcd16c61dd62976f3ad0771a2621907267f278b32e1ad6ce16
+

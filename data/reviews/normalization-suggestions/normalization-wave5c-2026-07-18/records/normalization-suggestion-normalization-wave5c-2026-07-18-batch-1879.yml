@@ -1,0 +1,375 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1879
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.intergroup-marriage-during-migration
+  motif_id: intergroup_marriage_during_migration
+  label: Intergroup marriage during migration
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Intergroup Marriage and Alliance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns marriage as a social boundary-crossing and alliance-making
+    process, not primarily sacred love or mystical union.
+  cautions: Single occurrence; may be ethnographic migration history rather than a
+    reusable mythic motif. Review Indigenous source context carefully.
+  suggested_aliases:
+  - migration intermarriage
+  - marriage across group boundaries during migration
+  suggested_new_group:
+    id: intergroup_marriage_alliance
+    label: Intergroup Marriage and Alliance
+    description: Marriage, sexual union, or kinship ties that join distinct peoples,
+      clans, enemy groups, or regional communities and reshape social boundaries,
+      alliance, descent, or group identity.
+    parent_group_ids:
+    - sacred_love
+    - sacred_exchange
+    - covenant
+    related_group_ids:
+    - cosmic_origin
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing sacred_love emphasizes longing,
+      mystical love, and bride-winning; covenant and sacred_exchange cover bonds and
+      reciprocity but do not preserve marriage as a specific mechanism for intergroup
+      alliance or amalgamation.
+- suggestion_id: normalization.suggestion.intermarriage-and-tribal-amalgamation
+  motif_id: intermarriage_and_tribal_amalgamation
+  label: Intermarriage and tribal amalgamation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Intergroup Marriage and Alliance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Intermarriage functions here as a mechanism of group merger and social
+    reconstitution.
+  cautions: Could be a historical or ethnographic explanation rather than a narrative
+    motif; avoid treating taxonomy placement as evidence of contact or origin.
+  suggested_aliases:
+  - intermarriage as tribal amalgamation
+  - marriage-mediated group merger
+  suggested_new_group:
+    id: intergroup_marriage_alliance
+    label: Intergroup Marriage and Alliance
+    description: Marriage, sexual union, or kinship ties that join distinct peoples,
+      clans, enemy groups, or regional communities and reshape social boundaries,
+      alliance, descent, or group identity.
+    parent_group_ids:
+    - sacred_love
+    - sacred_exchange
+    - covenant
+    related_group_ids:
+    - cosmic_origin
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing sacred_love does not capture social
+      amalgamation through marriage; cosmic_origin can hold people-origin labels but
+      would lose the marriage-alliance mechanism.
+- suggestion_id: normalization.suggestion.intermarriage-between-coast-folk-and-inland-folk
+  motif_id: intermarriage_between_coast_folk_and_inland_folk
+  label: intermarriage between coast folk and inland folk
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Intergroup Marriage and Alliance
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a local regional variant of marriage across social or ecological
+    group boundaries.
+  cautions: The coast/inland distinction may be important local evidence but is too
+    specific for a canonical group label.
+  suggested_aliases:
+  - coast-inland intermarriage
+  - regional intergroup marriage
+  suggested_new_group:
+    id: intergroup_marriage_alliance
+    label: Intergroup Marriage and Alliance
+    description: Marriage, sexual union, or kinship ties that join distinct peoples,
+      clans, enemy groups, or regional communities and reshape social boundaries,
+      alliance, descent, or group identity.
+    parent_group_ids:
+    - sacred_love
+    - sacred_exchange
+    - covenant
+    related_group_ids:
+    - cosmic_origin
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups lack a durable place for
+      marriage as boundary-crossing between named regional communities.
+- suggestion_id: normalization.suggestion.intermarriage-maintaining-acquaintance-across-group-boundaries
+  motif_id: intermarriage_maintaining_acquaintance_across_group_boundaries
+  label: intermarriage maintaining acquaintance across group boundaries
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Intergroup Marriage and Alliance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage preserves social familiarity and relationship across group boundaries,
+    matching an alliance-and-boundary function.
+  cautions: Abstract wording may be a commentary summary rather than a motif in a
+    passage; confirm narrative evidence.
+  suggested_aliases:
+  - marriage maintaining cross-group ties
+  - intermarriage as boundary maintenance
+  suggested_new_group:
+    id: intergroup_marriage_alliance
+    label: Intergroup Marriage and Alliance
+    description: Marriage, sexual union, or kinship ties that join distinct peoples,
+      clans, enemy groups, or regional communities and reshape social boundaries,
+      alliance, descent, or group identity.
+    parent_group_ids:
+    - sacred_love
+    - sacred_exchange
+    - covenant
+    related_group_ids:
+    - cosmic_origin
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Sacred_exchange and covenant capture relationship
+      broadly but not the specific kinship mechanism of intermarriage across group
+      boundaries.
+- suggestion_id: normalization.suggestion.intermarriage-shaped-by-proximity-and-non-enmity
+  motif_id: intermarriage_shaped_by_proximity_and_non_enmity
+  label: intermarriage shaped by proximity and non-enmity
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: Intergroup Marriage and Alliance
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe social conditions enabling intermarriage rather
+    than a narrative motif.
+  cautions: Needs source review to determine whether it is mythic pattern, ethnographic
+    analysis, or passage-specific social commentary.
+  suggested_aliases:
+  - proximity-based intermarriage
+  - non-enemy intermarriage
+  suggested_new_group:
+    id: intergroup_marriage_alliance
+    label: Intergroup Marriage and Alliance
+    description: Marriage, sexual union, or kinship ties that join distinct peoples,
+      clans, enemy groups, or regional communities and reshape social boundaries,
+      alliance, descent, or group identity.
+    parent_group_ids:
+    - sacred_love
+    - sacred_exchange
+    - covenant
+    related_group_ids:
+    - cosmic_origin
+    - royal_legitimacy
+    reason_existing_groups_insufficient: If retained as a motif, the existing taxonomy
+      lacks a group for intermarriage as social-boundary management; however this
+      specific label may be too analytic to index.
+- suggestion_id: normalization.suggestion.intermarriage-with-an-enemy-chief-s-daughter-averts-immediate-killing
+  motif_id: intermarriage_with_an_enemy_chief_s_daughter_averts_immediate_killing
+  label: intermarriage with an enemy chief's daughter averts immediate killing
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Intergroup Marriage and Alliance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage across enemy lines functions as peacemaking or protection from
+    violence.
+  cautions: Could also index secondarily with sacred_combat or covenant if the passage
+    emphasizes warfare, truce, or binding peace. Over-specific episode detail should
+    be preserved as evidence.
+  suggested_aliases:
+  - enemy marriage averts killing
+  - marriage alliance with enemy chief's daughter
+  - intermarriage as peacemaking
+  suggested_new_group:
+    id: intergroup_marriage_alliance
+    label: Intergroup Marriage and Alliance
+    description: Marriage, sexual union, or kinship ties that join distinct peoples,
+      clans, enemy groups, or regional communities and reshape social boundaries,
+      alliance, descent, or group identity.
+    parent_group_ids:
+    - sacred_love
+    - sacred_exchange
+    - covenant
+    related_group_ids:
+    - sacred_combat
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Sacred_combat captures hostility and covenant
+      captures bonds, but neither preserves the specific narrative function of marriage
+      transforming enemy status.
+- suggestion_id: normalization.suggestion.interspecies-bird-marriage
+  motif_id: interspecies_bird_marriage
+  label: Interspecies bird marriage
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Spouse and Interspecies Marriage
+  relationship: narrower_than
+  confidence: medium
+  rationale: A human-animal marriage crosses species boundaries and is more specific
+    than general sacred love or shapeshifting.
+  cautions: Review whether the bird spouse is an animal, spirit, disguised human,
+    or transformed being; placement may shift to shapeshifter or otherworld.
+  suggested_aliases:
+  - bird spouse
+  - human-bird marriage
+  - animal spouse marriage
+  suggested_new_group:
+    id: animal_spouse_interspecies_marriage
+    label: Animal Spouse and Interspecies Marriage
+    description: Marriage, sexual union, or household relations between humans and
+      animals, animal-persons, spirits in animal form, or beings who cross species
+      boundaries, often producing kinship, taboo, transformation, or separation consequences.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - trickster
+    - miraculous_child
+    reason_existing_groups_insufficient: Shapeshifter covers change of form but not
+      marriage as the organizing relation; sacred_love covers love broadly but not
+      the recurring animal-spouse boundary-crossing structure.
+- suggestion_id: normalization.suggestion.interspecies-bird-marriage-and-widowhood
+  motif_id: interspecies_bird_marriage_and_widowhood
+  label: interspecies bird marriage and widowhood
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Spouse and Interspecies Marriage
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core motif is an animal-spouse marriage; widowhood is a local consequence
+    or episode detail.
+  cautions: May also involve lament_and_mourning if widowhood and grief drive the
+    passage. Preserve bird and widowhood details without making them the broad group.
+  suggested_aliases:
+  - bird spouse widowhood
+  - human-bird marriage and bereavement
+  - animal spouse widowhood
+  suggested_new_group:
+    id: animal_spouse_interspecies_marriage
+    label: Animal Spouse and Interspecies Marriage
+    description: Marriage, sexual union, or household relations between humans and
+      animals, animal-persons, spirits in animal form, or beings who cross species
+      boundaries, often producing kinship, taboo, transformation, or separation consequences.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - lament_and_mourning
+    - miraculous_child
+    reason_existing_groups_insufficient: Existing groups separate love, transformation,
+      and mourning, but do not preserve the animal-spouse marriage structure that
+      unifies the label.
+- suggestion_id: normalization.suggestion.intertribal-affinity-through-marriage-and-intercourse
+  motif_id: intertribal_affinity_through_marriage_and_intercourse
+  label: Intertribal affinity through marriage and intercourse
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Intergroup Marriage and Alliance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage or sexual union creates affinity between tribes, matching the
+    proposed intergroup alliance function.
+  cautions: Wording may be analytic or ethnographic; confirm that source passage presents
+    this as a narrative or mythic social pattern.
+  suggested_aliases:
+  - intertribal affinity through marriage
+  - sexual union creating tribal affinity
+  - marriage-created intertribal ties
+  suggested_new_group:
+    id: intergroup_marriage_alliance
+    label: Intergroup Marriage and Alliance
+    description: Marriage, sexual union, or kinship ties that join distinct peoples,
+      clans, enemy groups, or regional communities and reshape social boundaries,
+      alliance, descent, or group identity.
+    parent_group_ids:
+    - sacred_love
+    - sacred_exchange
+    - covenant
+    related_group_ids:
+    - cosmic_origin
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Sacred_love is too broad and individual;
+      covenant and sacred_exchange do not retain the kinship/sexual-affinity mechanism
+      across named groups.
+- suggestion_id: normalization.suggestion.intertribal-children-s-war-games
+  motif_id: intertribal_children_s_war_games
+  label: intertribal children's war games
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe play, socialization, ritualized conflict, or
+    an ethnographic detail; no clear motif function is evident from the label alone.
+  cautions: Do not force into sacred_combat unless the passage shows ritually significant
+    warfare, initiation, prophecy, or social transformation. May be excluded if only
+    a contextual childhood detail.
+  suggested_aliases:
+  - children's war games across tribes
+  - intertribal play warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to a recurrent cluster around intergroup marriage as alliance,
+  boundary-crossing, and social amalgamation; a new review group may be warranted
+  if source evidence supports recurrence beyond ethnographic commentary.
+- Animal-spouse or interspecies marriage appears distinct from both generic sacred_love
+  and shapeshifter; consider a durable group only after checking whether animal-person
+  marriage recurs across sources.
+- Single-occurrence and culturally specific Indigenous labels should be reviewed against
+  source passages before promotion or broad querying.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for social/ethnographic
+    versus narrative-motif distinction.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1879
+  input_sha256: 7947c957313580b8aba937ebd865b7eeabfa01864b00b508250f290825c22c9b
+

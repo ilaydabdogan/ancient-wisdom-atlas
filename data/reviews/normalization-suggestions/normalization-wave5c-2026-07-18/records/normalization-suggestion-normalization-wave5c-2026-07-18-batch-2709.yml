@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2709
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-in-beggar-condition-approaching-town
+  motif_id: hero_in_beggar_condition_approaching_town
+  label: Hero in beggar condition approaching town
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero approaching town in reduced or disguised status fits return/threshold
+    movement within a heroic journey arc.
+  cautions: May be better under recognition_tokens_hidden_identity if the beggar condition
+    primarily marks concealed identity; single occurrence is episode-specific.
+  suggested_aliases:
+  - hero_in_beggar_disguise
+  - disguised_beggar_hero_approaches_town
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-keeps-night-watch-against-a-haunting-being
+  motif_id: hero_keeps_night_watch_against_a_haunting_being
+  label: hero keeps night watch against a haunting being
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The haunting being is the distinctive feature, and the hero's watch is
+    a confrontation with unresolved dead or revenant activity.
+  cautions: If the being is not dead/revenant but a monster or threshold figure, sacred_combat
+    or threshold_guardian may be better.
+  suggested_aliases:
+  - night_watch_against_haunting_being
+  - heroic_vigil_against_revenant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-kept-from-battle-receives-report-from-charioteer
+  motif_id: hero_kept_from_battle_receives_report_from_charioteer
+  label: Hero kept from battle receives report from charioteer
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The motif concerns a warrior's constrained participation in battle and
+    battlefield reporting, fitting heroic combat context.
+  cautions: Highly episode-specific; may be only a narrative scene unless absence
+    from battle recurs as the operative motif.
+  suggested_aliases:
+  - hero_absent_from_battle_receives_report
+  - withheld_hero_hears_battle_report
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-killed-by-concealed-engineered-trap
+  motif_id: hero_killed_by_concealed_engineered_trap
+  label: hero killed by concealed engineered trap
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed engineered trap is a lethal stratagem in heroic conflict
+    rather than a death-return pattern.
+  cautions: If the killing is framed as destined or morally deserved, death_by_fate
+    or divine_judgment may be relevant secondary mappings.
+  suggested_aliases:
+  - hero_killed_by_hidden_trap
+  - concealed_engineered_trap_kills_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-kills-a-fierce-hound-in-a-youth-deed-context
+  motif_id: hero_kills_a_fierce_hound_in_a_youth_deed_context
+  label: hero kills a fierce hound in a youth-deed context
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: high
+  rationale: A youthful heroic deed against a dangerous animal functions as an initiatory
+    proof of status and future warrior identity.
+  cautions: Could also index under divine_warrior or sacred_combat if the passage
+    emphasizes combat prowess more than life-stage initiation.
+  suggested_aliases:
+  - youthful_hero_kills_fierce_hound
+  - hound_slaying_as_youth_deed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-kills-and-mourns-valued-opponent
+  motif_id: hero_kills_and_mourns_valued_opponent
+  label: hero kills and mourns valued opponent
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The key pattern is grief and tragic recognition after killing a worthy
+    or valued opponent.
+  cautions: Also related to sacred_combat; preserve the combat context but do not
+    lose the mourning function.
+  suggested_aliases:
+  - lament_over_a_slain_opponent
+  - hero_mourns_slain_valued_opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-kills-or-overcomes-monstrous-adversary
+  motif_id: hero_kills_or_overcomes_monstrous_adversary
+  label: hero kills or overcomes monstrous adversary
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: high
+  rationale: Overcoming a monstrous adversary is a standard heroic combat pattern
+    within the divine warrior/sacred combat complex.
+  cautions: If the monster functions mainly as a gatekeeper or initiatory test, threshold_guardian
+    or initiation may be secondary.
+  suggested_aliases:
+  - hero_overcomes_monstrous_adversary
+  - monster_slaying_by_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-kills-threatening-opponent
+  motif_id: hero_kills_threatening_opponent
+  label: Hero kills threatening opponent
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: broader_label
+  confidence: medium
+  rationale: The label is a generic combat victory over an opponent and fits the broad
+    sacred combat grouping.
+  cautions: Too broad to preserve much meaning; source context may show divine_warrior,
+    divine_judgment, or chaos-combat instead.
+  suggested_aliases:
+  - hero_slays_threatening_opponent
+  - heroic_killing_of_threatening_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-launched-as-a-cannon-projectile-into-an-enemy-town
+  motif_id: hero_launched_as_a_cannon_projectile_into_an_enemy_town
+  label: Hero launched as a cannon projectile into an enemy town
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The event is an unusual martial stratagem or assault within combat against
+    an enemy town.
+  cautions: Very specific and possibly comic or local episode detail; avoid promoting
+    without recurrence across sources.
+  suggested_aliases:
+  - hero_used_as_projectile_in_assault
+  - hero_projectile_attack_on_enemy_town
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-manages-public-appearance-of-courage
+  motif_id: hero_manages_public_appearance_of_courage
+  label: Hero manages public appearance of courage
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: The label concerns heroic honor and martial reputation, which sits closest
+    to the divine_warrior complex.
+  cautions: May be an ethical-psychological or narrative characterization detail rather
+    than a motif; review passage evidence before indexing.
+  suggested_aliases:
+  - public_display_of_heroic_courage
+  - heroic_reputation_managed_through_courage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence, episode-specific heroic combat labels; suggested
+  placements favor broad groups while preserving cautions against canonical promotion.
+- Where a label combines combat with mourning, initiation, haunting, or hidden identity,
+  the non-combat narrative function may be the better primary placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2709
+  input_sha256: bce9074eadf7c350d909d5c0957279958250765013965b367ff404a12ea55ebe
+

@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1807
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.contested-divinity-of-a-personified-power
+  motif_id: contested_divinity_of_a_personified_power
+  label: contested divinity of a personified power
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes debate over whether an abstract/personified power
+    is divine, which may be philosophical or interpretive rather than a narrative
+    motif.
+  cautions: Needs source context; could relate to sacred_love if the power is Eros/Aphrodite-like,
+    supreme_ruler if cosmic sovereignty is at issue, or be a commentary artifact.
+  suggested_aliases:
+  - personified_power_as_deity
+  - debated_divinity_of_personification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-marriage-bond-and-abandoned-beloved
+  motif_id: contested_marriage_bond_and_abandoned_beloved
+  label: contested marriage bond and abandoned beloved
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a disputed love or marriage bond and the suffering
+    of an abandoned beloved, fitting love, fidelity, and separation patterns.
+  cautions: If the passage emphasizes legal marriage status rather than longing or
+    fidelity, sacred_law or covenant may be a secondary fit.
+  suggested_aliases:
+  - abandoned_beloved_and_contested_marriage
+  - disputed_marriage_bond_with_abandonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contrary-wife-persists-in-contradiction-despite-danger
+  motif_id: contrary_wife_persists_in_contradiction_despite_danger
+  label: contrary wife persists in contradiction despite danger
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads like a folktale character-type or gendered moralizing episode
+    rather than a stable mythic motif in the current groups.
+  cautions: Potentially culturally sensitive/gendered wording; source context is needed
+    to decide whether it is trickster conflict, pride/downfall, sacred_law, or an
+    over-specific tale detail.
+  suggested_aliases:
+  - persistent_contradiction_despite_danger
+  - spousal_contradiction_under_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contrasted-princess-types-adventuring-rider-and-secluded-domestic-maiden
+  motif_id: contrasted_princess_types_adventuring_rider_and_secluded_domestic_maiden
+  label: 'Contrasted princess types: adventuring rider and secluded domestic maiden'
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label classifies contrasting character types rather than naming a
+    recurring action, symbol, or narrative function.
+  cautions: If passages actually stage bride choice, gendered initiation, or hidden
+    identity through these figures, preserve those narrower evidence details elsewhere.
+  suggested_aliases:
+  - contrasted_princess_character_types
+  - adventuring_princess_and_secluded_maiden_contrast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contrasting-acceptance-and-refusal-of-milk-by-paired-children
+  motif_id: contrasting_acceptance_and_refusal_of_milk_by_paired_children
+  label: contrasting acceptance and refusal of milk by paired children
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Paired children differentiated by opposed responses fits sibling-pair
+    contrast and duality more than general nourishment alone.
+  cautions: If milk is the central ritual or maternal substance, mother_goddess or
+    sacred_substance may be relevant; source evidence should decide.
+  suggested_aliases:
+  - paired_children_contrasted_by_milk_acceptance
+  - sibling_pair_accepts_and_refuses_milk
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.convenience-marriage-contrasted-with-affection-based-fidelity
+  motif_id: convenience_marriage_contrasted_with_affection_based_fidelity
+  label: Convenience marriage contrasted with affection-based fidelity
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The contrast privileges faithful love over merely convenient marriage,
+    aligning with sacred_love themes of fidelity and longing.
+  cautions: Could be a social-marriage or kinship norm rather than sacred love; avoid
+    overreading if the passage is primarily customary law.
+  suggested_aliases:
+  - affection_based_fidelity_over_convenience_marriage
+  - fidelity_contrasted_with_pragmatic_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corn-as-life-and-motherly-nourishment
+  motif_id: corn_as_life_and_motherly_nourishment
+  label: corn as life and motherly nourishment
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Corn functions as a sacred life-giving food substance and source of nourishment.
+  cautions: Motherly imagery may also connect to mother_goddess or sacred_time in
+    agricultural ritual contexts; review Indigenous-specific context carefully.
+  suggested_aliases:
+  - life_giving_corn
+  - corn_as_maternal_nourishment
+  - corn_as_sacred_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corn-as-mother-and-buffalo-as-grandfather-or-corn-bestower
+  motif_id: corn_as_mother_and_buffalo_as_grandfather_or_corn_bestower
+  label: Corn as mother and buffalo as grandfather or corn-bestower
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kinship personification, sacred food, animal bestower,
+    and possibly origin tradition in a culturally specific way.
+  cautions: Human review should preserve local Indigenous meaning; possible fits include
+    sacred_substance, mother_goddess, culture_hero, or sacred_time depending on the
+    source.
+  suggested_aliases:
+  - corn_mother_and_buffalo_grandfather
+  - buffalo_as_corn_bestower
+  - kinship_personification_of_corn_and_buffalo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corn-grinding-maidens-and-eastward-meal-observance
+  motif_id: corn_grinding_maidens_and_eastward_meal_observance
+  label: corn-grinding maidens and eastward meal observance
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This appears to describe a specific ritual practice involving corn meal,
+    gendered ritual roles, and orientation.
+  cautions: Culturally specific Hopi ritual context requires human review; could involve
+    sacred_substance, sacred_time, sacred_law, or sacred_geography rather than a general
+    motif.
+  suggested_aliases:
+  - eastward_corn_meal_observance
+  - corn_grinding_maidens
+  - ritual_corn_meal_orientation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corrective-palinode-after-wronging-a-beloved-figure
+  motif_id: corrective_palinode_after_wronging_a_beloved_figure
+  label: Corrective palinode after wronging a beloved figure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A palinode is a corrective speech or song whose performative recantation
+    repairs a wrong, fitting sacred narrative or speech power.
+  cautions: If the beloved figure is divine or erotic focus is primary, sacred_love
+    or curse_blessing_speech may be secondary mappings.
+  suggested_aliases:
+  - recantation_song_repairs_wrong_to_beloved
+  - palinode_as_corrective_speech
+  - corrective_recantation_for_wronged_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and culturally specific; suggestions
+  should remain provisional until source passages are reviewed.
+- Avoid treating love/family bucket placement as decisive; some items are ritual,
+  textual, agricultural, or philosophical rather than love motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1807
+  input_sha256: e904fe36adbca552a7f8f2f3001bec31276ad43e9da8b8ac8983ebfacd24d153
+

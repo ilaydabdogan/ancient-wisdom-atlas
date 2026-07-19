@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0219
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.honorary-funeral-and-shared-epitaph-for-absent-dead-spouse
+  motif_id: honorary_funeral_and_shared_epitaph_for_absent_dead_spouse
+  label: Honorary funeral and shared epitaph for absent dead spouse
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on funerary honor and memorial inscription for an absent
+    dead spouse, fitting memorialization rites for the dead.
+  cautions: Spousal epitaph specificity may be local or epigraphic evidence rather
+    than a broad motif; review whether the source is narrative or funerary-documentary.
+  suggested_aliases:
+  - honorary_funeral_for_absent_dead_spouse
+  - shared_epitaph_for_dead_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honored-memory-of-a-culture-worker-after-death
+  motif_id: honored_memory_of_a_culture_worker_after_death
+  label: honored memory of a culture worker after death
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate postmortem memorialization of a culture-bearing
+    figure, but 'culture worker' is ambiguous and may be a modern descriptive category.
+  cautions: Could fit culture_hero if the person founds or transmits culture, heroic_funeral_rites
+    if rites are central, or _meta_textual if this is commentary about remembered
+    contributors.
+  suggested_aliases:
+  - posthumous_honor_for_culture_bearer
+  - honored_memory_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honour-marked-elevated-tree-burial
+  motif_id: honour_marked_elevated_tree_burial
+  label: honour-marked elevated tree burial
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An elevated tree burial marked by honor is a mortuary rite and memorial
+    treatment of the dead.
+  cautions: If the tree has cosmological or ancestor-embodiment significance, axis_mundi,
+    sacred_tree_axis, or ancestor_rites may be relevant secondary mappings; avoid
+    collapsing all tree burial into world-tree symbolism.
+  suggested_aliases:
+  - elevated_tree_burial
+  - honor_marked_tree_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honourable-burial-with-ancestors
+  motif_id: honourable_burial_with_ancestors
+  label: Honourable burial with ancestors
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Burial with ancestors foregrounds proper relation to ancestral dead and
+    postmortem incorporation into the lineage.
+  cautions: If the passage emphasizes burial honor more than ancestor relationship,
+    heroic_funeral_rites may be an equally good parent group.
+  suggested_aliases:
+  - burial_with_ancestors
+  - honorable_ancestral_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hope-for-a-better-life-after-death
+  motif_id: hope_for_a_better_life_after_death
+  label: hope for a better life after death
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label expresses expectation of improved postmortem existence, fitting
+    afterlife destination or passage themes.
+  cautions: Broad belief statement rather than a concrete narrative motif; if no journey,
+    destination, or rite is present, preserve as thematic evidence only.
+  suggested_aliases:
+  - better_life_after_death
+  - postmortem_hope
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hope-for-a-better-world-beyond-mortality
+  motif_id: hope_for_a_better_world_beyond_mortality
+  label: Hope for a better world beyond mortality
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A better world beyond mortality suggests an alternative perfected realm
+    rather than simply a death event.
+  cautions: Could instead fit mystical_quest or immortality_without_renewal depending
+    on Daoist context; review whether the passage describes an otherworld, immortality,
+    liberation, or philosophical hope.
+  suggested_aliases:
+  - better_world_beyond_mortality
+  - postmortal_better_world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.horizontal-progression-followed-by-descent
+  motif_id: horizontal_progression_followed_by_descent
+  label: horizontal progression followed by descent
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes spatial sequence but not enough narrative function
+    to distinguish underworld descent, ritual movement, or editorial description.
+  cautions: Map to descent only if the passage clearly enters a lower/death/hidden
+    realm; otherwise this may be a passage-structure artifact.
+  suggested_aliases:
+  - progression_then_descent
+  - horizontal_journey_then_descent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.horn-shaped-tomb-and-house-markers
+  motif_id: horn_shaped_tomb_and_house_markers
+  label: Horn-shaped tomb and house markers
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns mortuary and domestic markers, but the symbolic or
+    ritual function of the horn shape is not supplied.
+  cautions: Could fit ancestor_rites, heroic_funeral_rites, sacred_treasures, or a
+    local material-culture note; avoid indexing as a motif without evidence of recurring
+    symbolic function.
+  suggested_aliases:
+  - horn_shaped_tomb_markers
+  - horn_shaped_house_markers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.horned-water-monster-or-water-guardian-spirit
+  motif_id: horned_water_monster_or_water_guardian_spirit
+  label: horned water monster or water guardian spirit
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: A water guardian spirit or monster functions as a liminal guardian at
+    a dangerous watery boundary.
+  cautions: If the main function is water symbolism, purification, or underworld river
+    passage, sacred_waters or descent may be secondary; horned-monster imagery should
+    be preserved locally.
+  suggested_aliases:
+  - water_guardian_spirit
+  - horned_water_monster
+  - water_monster_guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.horror-of-ground-burial
+  motif_id: horror_of_ground_burial
+  label: horror of ground burial
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates mortuary aversion or taboo, but the underlying ritual,
+    cosmological, or cultural reason is unclear.
+  cautions: Could fit sacred_law as mortuary prohibition, heroic_funeral_rites as
+    burial practice, or _meta_textual if it reflects observer commentary; culturally
+    sensitive review needed.
+  suggested_aliases:
+  - avoidance_of_ground_burial
+  - ground_burial_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence mortuary practice labels; human review should
+  distinguish recurring motif function from ethnographic or epigraphic detail.
+- Do not infer underworld descent from death/burial wording unless the passage includes
+  movement into a death realm or mapped afterlife route.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; mortuary and culturally specific labels require
+    source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0219
+  input_sha256: 6806afc9519b00d1d40205d0562094d22699838e47a48e10ad49d20e7f5bf492
+

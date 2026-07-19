@@ -1,0 +1,312 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1815
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deferred-marriage-under-a-year-long-condition
+  motif_id: deferred_marriage_under_a_year_long_condition
+  label: Deferred marriage under a year-long condition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: A conditional delay before marriage belongs broadly with bride choice,
+    marriage testing, and love-union patterns already under sacred_love.
+  cautions: Single occurrence and may instead be a legal contract, geis/taboo, or
+    episode-specific plot condition; review source context.
+  suggested_aliases:
+  - delayed_marriage_condition
+  - marriage_deferred_by_time_condition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deferred-threat-fulfilled-after-marriage-and-childbirth
+  motif_id: deferred_threat_fulfilled_after_marriage_and_childbirth
+  label: deferred threat fulfilled after marriage and childbirth
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines family life stages with delayed vengeance or threat
+    fulfillment, and the main narrative function is unclear.
+  cautions: Could fit sacred_love, divine_judgment, death_by_fate, curse_blessing_speech,
+    or a passage-specific threat motif; needs evidence before mapping.
+  suggested_aliases:
+  - delayed_threat_after_marriage
+  - threat_fulfilled_after_childbirth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defiant-bereaved-mother-confronting-the-slayer
+  motif_id: defiant_bereaved_mother_confronting_the_slayer
+  label: defiant bereaved mother confronting the slayer
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: role_variant
+  confidence: medium
+  rationale: A bereaved mother confronting the killer centers on grief, mourning,
+    and tragic response to violent death.
+  cautions: If confrontation triggers revenge or feud, sacred_combat or divine_judgment
+    may be a secondary fit; single occurrence may be episode-specific.
+  suggested_aliases:
+  - bereaved_mother_confronts_slayer
+  - maternal_lament_confronting_killer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deformed-or-animal-marked-bride-rejected-by-public-and-bridegroom
+  motif_id: deformed_or_animal_marked_bride_rejected_by_public_and_bridegroom
+  label: deformed or animal-marked bride rejected by public and bridegroom
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may involve marriage rejection, bodily stigma, animal marking,
+    transformation, or social exclusion, none clear from label alone.
+  cautions: Could fit sacred_love, shapeshifter, divine_judgment, or a local social-body
+    motif; culturally sensitive bodily/deformity wording requires human review.
+  suggested_aliases:
+  - animal_marked_bride_rejected
+  - stigmatized_bride_rejected_by_bridegroom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-accompanied-by-personified-powers
+  motif_id: deity_accompanied_by_personified_powers
+  label: Deity accompanied by personified powers
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A deity appearing with personified powers is a mode of divine manifestation
+    and sacred presence.
+  cautions: Could instead belong to supreme_ruler if the powers express cosmic sovereignty,
+    or divine_intervention if they act in events; review Zoroastrian theological context.
+  suggested_aliases:
+  - deity_with_personified_powers
+  - divine_manifestation_with_attendant_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-as-giver-of-livestock-and-sons
+  motif_id: deity_as_giver_of_livestock_and_sons
+  label: deity as giver of livestock and sons
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity granting livestock and offspring fits divine provision and direct
+    sacred aid in human prosperity.
+  cautions: May also relate to sacred_exchange if gifts answer ritual petition, or
+    miraculous_child if the focus is unusual birth; preserve fertility/provision detail.
+  suggested_aliases:
+  - divine_giver_of_livestock_and_children
+  - divine_provision_of_herds_and_sons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-defeated-chained-and-imprisoned-by-giants
+  motif_id: deity_defeated_chained_and_imprisoned_by_giants
+  label: Deity defeated, chained, and imprisoned by giants
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity defeated and imprisoned by giant opponents belongs to divine
+    conflict and sacred combat, even though the deity is temporarily overcome.
+  cautions: If emphasis is binding/imprisonment rather than combat, sacred_combat
+    or divine_intervention may be secondary; single episode may be too specific for
+    promotion.
+  suggested_aliases:
+  - chained_imprisoned_deity
+  - deity_bound_by_giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-personation-in-ceremonial-dance
+  motif_id: deity_personation_in_ceremonial_dance
+  label: Deity personation in ceremonial dance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritual deity impersonation may be a theophanic or ceremonial presence
+    pattern, but the taxonomy lacks a clear ritual embodiment group.
+  cautions: Culturally sensitive living/Indigenous ritual context; avoid flattening
+    into generic theophany without source and community-aware review.
+  suggested_aliases:
+  - ritual_deity_personation
+  - ceremonial_deity_impersonation_dance
+  suggested_new_group:
+    id: ritual_deity_personation
+    label: Ritual Deity Personation
+    description: Ritual performers embody, impersonate, or make present a deity or
+      sacred being through costume, dance, mask, gesture, or ceremonial action.
+    parent_group_ids:
+    - theophany
+    - sacred_law
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    - sacred_time
+    reason_existing_groups_insufficient: Theophany covers divine manifestation but
+      not the specific ritual embodiment or ceremonial personation function.
+- suggestion_id: normalization.suggestion.deity-personation-in-dance
+  motif_id: deity_personation_in_dance
+  label: Deity personation in dance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This is essentially the same ritual embodiment pattern as deity personation
+    in ceremonial dance, but needs careful cultural review.
+  cautions: Likely duplicate or alias of deity_personation_in_ceremonial_dance; culturally
+    sensitive Indigenous ceremonial material should not be overgeneralized.
+  suggested_aliases:
+  - deity_impersonation_dance
+  - ritual_deity_personation_in_dance
+  suggested_new_group:
+    id: ritual_deity_personation
+    label: Ritual Deity Personation
+    description: Ritual performers embody, impersonate, or make present a deity or
+      sacred being through costume, dance, mask, gesture, or ceremonial action.
+    parent_group_ids:
+    - theophany
+    - sacred_law
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    - sacred_time
+    reason_existing_groups_insufficient: Existing groups cover manifestation or ritual
+      order broadly, but not performer-mediated embodiment of a deity.
+- suggestion_id: normalization.suggestion.deity-personation-with-flower-bearing-plant-and-flower-eating
+  motif_id: deity_personation_with_flower_bearing_plant_and_flower_eating
+  label: Deity personation with flower-bearing plant and flower eating
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The core appears to be ritual deity personation, with plant and flower-eating
+    details as local ceremonial evidence.
+  cautions: Highly specific and culturally sensitive; preserve botanical/ritual details
+    as evidence but do not make a broad motif without recurrence and expert review.
+  suggested_aliases:
+  - deity_personation_with_flower_rite
+  - ritual_deity_personation_with_flower_eating
+  suggested_new_group:
+    id: ritual_deity_personation
+    label: Ritual Deity Personation
+    description: Ritual performers embody, impersonate, or make present a deity or
+      sacred being through costume, dance, mask, gesture, or ceremonial action.
+    parent_group_ids:
+    - theophany
+    - sacred_law
+    related_group_ids:
+    - sacred_substance
+    - sacred_time
+    - sacred_exchange
+    reason_existing_groups_insufficient: The recurring function is ritual embodiment
+      of deity; sacred_substance may capture flower ingestion only if the substance
+      itself is ritually central.
+batch_notes:
+- Several items were in the love/family/body review bucket but semantically belong
+  to divine manifestation, divine intervention, combat, or ritual practice; bucket
+  assignment should not drive final placement.
+- Native American Southwest deity-personation labels should receive culturally informed
+  human review before normalization; suggested ritual_deity_personation is provisional
+  and not a taxonomy rewrite.
+- Single-occurrence, episode-specific marriage and threat labels should be treated
+  cautiously and may remain evidence notes if no cross-source recurrence is found.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human taxonomy review required, especially
+    for Indigenous ceremonial personation labels and ambiguous single-occurrence family/marriage
+    items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1815
+  input_sha256: b1d56a050192b6414f76b278eef646633dc079fdcdde8e6837da2471ec29aa66
+

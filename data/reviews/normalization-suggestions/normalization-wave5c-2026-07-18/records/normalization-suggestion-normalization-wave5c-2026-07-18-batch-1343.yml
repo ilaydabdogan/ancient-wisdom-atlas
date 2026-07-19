@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1343
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.holiness-recognized-across-named-lands
+  motif_id: holiness_recognized_across_named_lands
+  label: Holiness recognized across named lands
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: uncertain
+  confidence: low
+  rationale: Recognition of holiness may reflect divine manifestation or sacred reputation,
+    but the label lacks narrative function.
+  cautions: Could be a praise formula, geographic catalog, hagiographic claim, or
+    passage artifact; source evidence needed before mapping.
+  suggested_aliases:
+  - holiness recognized across lands
+  - fame of holiness across lands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-song-for-a-living-former-chief
+  motif_id: honor_song_for_a_living_former_chief
+  label: honor song for a living former chief
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: A formal song conferring or preserving honor may fit speech/song as social
+    power.
+  cautions: Highly contextual and culturally specific; may be ceremonial documentation
+    rather than a reusable motif. Review with care before indexing.
+  suggested_aliases:
+  - honor song for former chief
+  - praise song for living former leader
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-song-recognizing-donation
+  motif_id: honor_song_recognizing_donation
+  label: honor song recognizing donation
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The song publicly recognizes a gift, aligning with reciprocal exchange
+    and social obligation.
+  cautions: If the evidence centers on song performance rather than donation reciprocity,
+    storytelling_as_power may be a secondary fit.
+  suggested_aliases:
+  - donation recognized by honor song
+  - gift acknowledged through praise song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-speech-about-vengeance
+  motif_id: honor_speech_about_vengeance
+  label: honor speech about vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formal speech about vengeance likely functions as honor-binding or
+    action-directing performative speech.
+  cautions: Could instead be sacred_combat if the speech is merely prebattle exhortation;
+    verify whether the utterance binds duty or narrates revenge.
+  suggested_aliases:
+  - vengeance honor speech
+  - speech binding vengeance and honor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-through-name-order-in-a-letter
+  motif_id: honor_through_name_order_in_a_letter
+  label: honor through name order in a letter
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Name order in a letter is likely an epistolary or editorial detail rather
+    than a mythic motif.
+  cautions: Preserve as textual or social-rhetorical evidence if important, but exclude
+    from broad pattern queries unless recurring ritualized name-order evidence appears.
+  suggested_aliases:
+  - honor by epistolary name order
+  - name order as honor marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honor-through-praise-song
+  motif_id: honor_through_praise_song
+  label: honor through praise song
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Praise song uses performed speech or song to confer honor and preserve
+    reputation.
+  cautions: If embedded in gift reciprocity or victory celebration, sacred_exchange
+    or sacred_combat may be secondary mappings.
+  suggested_aliases:
+  - praise song confers honor
+  - honoring through song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honorary-titles-using-killer-and-raven-names
+  motif_id: honorary_titles_using_killer_and_raven_names
+  label: honorary titles using killer and raven names
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: Honorary titles may authorize status, rank, or remembered martial identity,
+    but the title system is unclear.
+  cautions: Culturally specific naming practice; killer and raven terms may have local
+    ritual, clan, warfare, or animal-symbolic meanings not captured by existing groups.
+  suggested_aliases:
+  - honorary killer and raven titles
+  - status titles using raven names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honoring-and-ridiculing-a-visiting-stranger-through-song
+  motif_id: honoring_and_ridiculing_a_visiting_stranger_through_song
+  label: honoring and ridiculing a visiting stranger through song
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A visiting stranger is socially evaluated through formal song, fitting
+    stranger-guest hospitality dynamics.
+  cautions: Song ridicule may also belong to performative speech or ritualized social
+    testing; verify whether the stranger role is central.
+  suggested_aliases:
+  - song honoring and mocking a guest
+  - visiting stranger evaluated through song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honoring-victors-with-gifts-and-praise-song
+  motif_id: honoring_victors_with_gifts_and_praise_song
+  label: honoring victors with gifts and praise song
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Gifts and praise songs create public reciprocal honor after victory.
+  cautions: Could also index under sacred_combat if the victory context is the central
+    motif rather than the honor exchange.
+  suggested_aliases:
+  - victors honored with gifts and song
+  - praise song and gifts for victors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hornbill-derived-architectural-ornament
+  motif_id: hornbill_derived_architectural_ornament
+  label: Hornbill-derived architectural ornament
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: low
+  rationale: Architectural ornament may relate to sacred craft if the ornament has
+    ritual or mythic force.
+  cautions: May be an art-historical or ethnographic object detail, not a motif; hornbill
+    symbolism requires source-specific cultural review.
+  suggested_aliases:
+  - hornbill architectural ornament
+  - hornbill-derived building decoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern honor songs, praise, titles, and ceremonial
+  recognition; preserve local ceremonial meaning and avoid overgeneralizing all song
+  as sacred knowledge.
+- Single-occurrence, culturally specific Indigenous ceremonial labels should receive
+  human review before promotion beyond provisional group placement.
+- No transmission or borrowing claim is implied by any suggested placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; source passages needed for final mapping
+    of ceremonial song and title labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1343
+  input_sha256: e8204d0ede8a659111472875263cd0df3a630924f668907c16ab5908d4b1e286
+

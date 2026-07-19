@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2830
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.supplication-before-an-overpowering-warrior
+  motif_id: supplication_before_an_overpowering_warrior
+  label: Supplication before an overpowering warrior
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Existing covenant group already contains supplication and mercy/refusal
+    variants; this label centers on pleading before a stronger opponent.
+  cautions: If the episode emphasizes warrior dominance or combat outcome rather than
+    plea/mercy, sacred_combat or divine_warrior may be a secondary fit.
+  suggested_aliases:
+  - supplication_before_overpowering_warrior
+  - plea_before_overwhelming_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supreme-deity-surpasses-heroic-or-deified-beings
+  motif_id: supreme_deity_surpasses_heroic_or_deified_beings
+  label: Supreme deity surpasses heroic or deified beings
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: medium
+  rationale: The label asserts supreme divine sovereignty over lesser heroic or deified
+    figures, matching the supreme_ruler/cosmic sovereignty group.
+  cautions: Review Sikh theological context carefully; may be doctrinal praise rather
+    than a narrative motif. Avoid treating comparison of deities as transmission evidence.
+  suggested_aliases:
+  - supreme_deity_surpasses_deified_beings
+  - supreme_divinity_over_heroes_and_gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.surrender-into-enslavement-after-battle
+  motif_id: surrender_into_enslavement_after_battle
+  label: surrender into enslavement after battle
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a battle aftermath, captive status, social history,
+    or episode-specific consequence rather than a stable symbolic motif.
+  cautions: Culturally sensitive and context-dependent; verify whether enslavement
+    is a recurring narrative function, historical/social detail, or passage artifact
+    before mapping to sacred_combat or sacred_law.
+  suggested_aliases:
+  - battle_surrender_into_captivity
+  - post_battle_enslavement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.surrounded-fugitive-tests-multiple-exits
+  motif_id: surrounded_fugitive_tests_multiple_exits
+  label: surrounded fugitive tests multiple exits
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: narrower_than
+  confidence: low
+  rationale: A fugitive seeking escape routes can function as an ordeal within pursuit,
+    exile, or return narratives.
+  cautions: May be an over-specific chase-scene detail. If no transformation, exile,
+    threshold, or heroic ordeal is present, exclude or preserve only as evidence detail.
+  suggested_aliases:
+  - fugitive_tests_escape_routes
+  - surrounded_fugitive_seeks_exit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivor-warns-the-next-community
+  motif_id: survivor_warns_the_next_community
+  label: Survivor warns the next community
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A surviving witness warning others could fit prophecy, catastrophe, trickster
+    aftermath, or simple plot continuation depending on context.
+  cautions: Needs source evidence for what the survivor escaped and whether the warning
+    functions as prophecy, moral instruction, or community defense.
+  suggested_aliases:
+  - survivor_warning_to_next_community
+  - escaped_survivor_warns_others
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.suspended-aperture-target-contest
+  motif_id: suspended_aperture_target_contest
+  label: Suspended aperture target contest
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: low
+  rationale: The label appears to describe a formal weapon or skill contest, which
+    fits the broader sacred_combat/ritual contest field.
+  cautions: Highly specific and may be a contest-game detail rather than combat. Review
+    whether it carries ritual, marriage, initiation, or heroic stakes before indexing.
+  suggested_aliases:
+  - hanging_aperture_target_contest
+  - target_shooting_through_suspended_aperture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.suspicious-unwounded-carcass
+  motif_id: suspicious_unwounded_carcass
+  label: Suspicious unwounded carcass
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could indicate trickster deception, taboo, omen, supernatural
+    animal, or a passage-specific clue.
+  cautions: Source context is necessary before mapping; avoid assuming combat or sacred
+    animal significance from the label alone.
+  suggested_aliases:
+  - unwounded_carcass_as_suspicious_sign
+  - mysterious_unwounded_carcass
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sustained-intertribal-warfare-and-displacement
+  motif_id: sustained_intertribal_warfare_and_displacement
+  label: sustained intertribal warfare and displacement
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads more like historical/social context than a discrete mythic
+    motif, though it may frame sacred combat or migration narratives.
+  cautions: Culturally sensitive; review whether it is an ethnographic/historical
+    summary, a passage artifact, or a recurring narrative pattern before mapping.
+  suggested_aliases:
+  - intertribal_warfare_and_displacement
+  - warfare_causing_community_displacement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.swallowed-by-a-monster-and-escape-from-inside
+  motif_id: swallowed_by_a_monster_and_escape_from_inside
+  label: Swallowed by a monster and escape from inside
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Monster Swallowing and Escape from Within
+  relationship: functional_variant
+  confidence: medium
+  rationale: Being swallowed and escaping from inside is a recurrent ordeal/slaying
+    pattern not cleanly held by existing combat, descent, or trickster groups.
+  cautions: Could overlap with descent into darkness, death-rebirth, or monster combat
+    depending on the passage; review for recurrence before adding a group.
+  suggested_aliases:
+  - swallowed_by_monster_escape_from_inside
+  - escape_from_inside_devourer
+  - monster_belly_escape
+  suggested_new_group:
+    id: monster_swallowing_escape
+    label: Monster Swallowing and Escape from Within
+    description: A hero, trickster, or victim is swallowed by a monster, animal, giant,
+      or devouring being and survives, acts, cuts free, rescues others, or kills the
+      devourer from within.
+    parent_group_ids:
+    - divine_warrior
+    - descent
+    - death_and_transformation
+    related_group_ids:
+    - trickster
+    - threshold_guardian
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover combat, descent, and
+      transformation, but not the specific narrative structure of engulfment followed
+      by internal action or escape.
+- suggestion_id: normalization.suggestion.swallowed-hero-active-inside-devourer
+  motif_id: swallowed_hero_active_inside_devourer
+  label: swallowed hero active inside devourer
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Monster Swallowing and Escape from Within
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is the same engulfment-and-internal-agency structure as monster-belly
+    escape, emphasizing action inside the devourer.
+  cautions: Map with the prior candidate only if passage evidence confirms swallowing
+    by a devouring being, not metaphorical containment or ordinary captivity.
+  suggested_aliases:
+  - hero_active_inside_devourer
+  - swallowed_hero_acts_from_within
+  - internal_action_inside_devourer
+  suggested_new_group:
+    id: monster_swallowing_escape
+    label: Monster Swallowing and Escape from Within
+    description: A hero, trickster, or victim is swallowed by a monster, animal, giant,
+      or devouring being and survives, acts, cuts free, rescues others, or kills the
+      devourer from within.
+    parent_group_ids:
+    - divine_warrior
+    - descent
+    - death_and_transformation
+    related_group_ids:
+    - trickster
+    - threshold_guardian
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover combat, descent, and
+      transformation, but not the specific narrative structure of engulfment followed
+      by internal action or escape.
+batch_notes:
+- Several single-occurrence conflict labels are highly contextual; human review should
+  distinguish stable motifs from battle aftermath, social history, or episode-level
+  plot details.
+- The two swallowed/devourer labels appear semantically close enough to support one
+  provisional new group candidate if recurrence across sources is confirmed.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize human review for culturally sensitive
+    warfare/captivity labels and over-specific contest/chase details.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2830
+  input_sha256: 612e9eceaada2f4a450e8fa80977e4b6a9fa91d0fedf2ac72ea0481b7c3bbe53
+

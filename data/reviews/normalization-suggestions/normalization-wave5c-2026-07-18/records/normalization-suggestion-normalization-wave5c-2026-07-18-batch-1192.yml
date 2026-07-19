@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1192
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.swathed-or-mummiform-divine-figures
+  motif_id: swathed_or_mummiform_divine_figures
+  label: swathed or mummiform divine figures
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Mummiform divine iconography evokes death, preservation, and transformed
+    postmortem divine state.
+  cautions: Could be iconographic description rather than narrative motif; review
+    whether the passage treats the swathed form symbolically or only as visual identification.
+  suggested_aliases:
+  - mummiform_divine_figures
+  - swathed_divine_figures
+  - mummiform_deity_iconography
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sweat-house-as-ritual-or-healing-structure
+  motif_id: sweat_house_as_ritual_or_healing_structure
+  label: sweat-house as ritual or healing structure
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A sweat-house used ritually for healing fits ritual regulation and purification/healing
+    practice more than sacrifice.
+  cautions: Culturally specific ceremonial structure; source evidence needed before
+    reducing to generic purification or healing. A future healing-rite group may be
+    warranted if many recur.
+  suggested_aliases:
+  - sweat_house_healing_rite
+  - ritual_sweat_house
+  - sweat_house_purification_structure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sweat-lodge-healing-and-life-prolonging-rite
+  motif_id: sweat_lodge_healing_and_life_prolonging_rite
+  label: sweat-lodge healing and life-prolonging rite
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a ritual healing practice governed by sacred procedure
+    or taboo.
+  cautions: Do not collapse culturally specific sweat-lodge practice into generic
+    purification without passage context. Life prolongation may alternatively relate
+    to divine intervention or sacred substance if those are central.
+  suggested_aliases:
+  - sweat_lodge_healing_rite
+  - sweat_lodge_life_prolonging_rite
+  - ritual_sweat_lodge_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sweat-lodge-purification-and-emetic-cure
+  motif_id: sweat_lodge_purification_and_emetic_cure
+  label: sweat-lodge purification and emetic cure
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Purification and cure through a prescribed rite fits sacred-law purification
+    and apotropaic/healing practice.
+  cautions: The emetic and sweat-lodge details may be important local ritual evidence;
+    review for culturally sensitive handling and whether a healing-rite candidate
+    is needed.
+  suggested_aliases:
+  - sweat_lodge_purification_rite
+  - sweat_lodge_emetic_cure
+  - ritual_purification_by_sweat_lodge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sweet-infusion-from-the-divine-throne
+  motif_id: sweet_infusion_from_the_divine_throne
+  label: sweet infusion from the divine Throne
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sweet divine infusion functions like sacred substance or mystical nourishment
+    received from a divine source.
+  cautions: If the passage emphasizes visionary ascent to the Throne or union rather
+    than substance, mystical_quest or theophany may be better secondary mappings.
+  suggested_aliases:
+  - divine_sweet_infusion
+  - sweet_mystical_infusion
+  - heavenly_sweet_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sympathetic-father-child-birth-taboo
+  motif_id: sympathetic_father_child_birth_taboo
+  label: sympathetic father-child birth taboo
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A birth-related taboo binding father and child fits sacred law, ritual
+    prohibition, and kinship/body regulation.
+  cautions: Likely culturally specific couvade or sympathetic taboo evidence; review
+    context before indexing broadly or merging with birth motifs.
+  suggested_aliases:
+  - father_child_birth_taboo
+  - sympathetic_birth_taboo
+  - couvade_like_birth_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sympathetic-magic-through-ritual-shooting
+  motif_id: sympathetic_magic_through_ritual_shooting
+  label: sympathetic magic through ritual shooting
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sympathetic magic is already treated as sacred-law ritual practice in
+    the normalization aliases.
+  cautions: The shooting action may relate to war rite or hunting rite depending on
+    source; preserve the mechanism as granular evidence.
+  suggested_aliases:
+  - ritual_shooting_sympathetic_magic
+  - sympathetic_ritual_shooting
+  - imitative_magic_by_shooting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sympathetic-slowing-of-the-enemy-through-ritual-motion
+  motif_id: sympathetic_slowing_of_the_enemy_through_ritual_motion
+  label: sympathetic slowing of the enemy through ritual motion
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed imitative act affecting an enemy fits sympathetic magic
+    under sacred ritual law.
+  cautions: Because the target is an enemy, sacred_combat may be a secondary context;
+    avoid making war function primary unless battle outcome is central.
+  suggested_aliases:
+  - sympathetic_enemy_slowing_rite
+  - ritual_motion_to_slow_enemy
+  - imitative_magic_to_hinder_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sympathetic-war-rite-using-animal-and-proxy-objects
+  motif_id: sympathetic_war_rite_using_animal_and_proxy_objects
+  label: sympathetic war rite using animal and proxy objects
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Use of proxy objects and animals in a sympathetic rite fits ritual magic
+    handled under sacred law.
+  cautions: Also related to sacred_combat because it is a war rite; review whether
+    ritual procedure or martial outcome is the motif focus.
+  suggested_aliases:
+  - sympathetic_war_magic_with_proxies
+  - proxy_object_war_rite
+  - animal_proxy_sympathetic_war_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.synchronal-ritual-meetings-with-alternating-plaza-dances
+  motif_id: synchronal_ritual_meetings_with_alternating_plaza_dances
+  label: synchronal ritual meetings with alternating plaza dances
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: low
+  rationale: Synchronized ritual meetings and alternating dances suggest calendrical
+    or cyclic sacred time and communal ritual order.
+  cautions: May be an ethnographic ceremony description rather than a motif; review
+    whether timing, dance alternation, or plaza space is symbolically central.
+  suggested_aliases:
+  - synchronized_ritual_meetings
+  - alternating_plaza_dances
+  - synchronal_plaza_dance_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several sweat-lodge/sweat-house labels are culturally specific healing or purification
+  practices; human review should decide whether to keep them as granular evidence
+  under sacred_law or propose a broader ritual_healing group in a later taxonomy pass.
+- Sympathetic magic labels can provisionally sit under sacred_law because the current
+  normalization already aliases sympathetic magic there, but war-context labels may
+  need secondary relation to sacred_combat.
+- Avoid treating single-occurrence ethnographic ceremony descriptions as canonical
+  motifs without recurrence or clear symbolic/narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft batch suggestions only; culturally specific ritual labels require human/source
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1192
+  input_sha256: f1ad476210148b70be14509428aa89d51345e4f39a40d464e715952cbce68202
+

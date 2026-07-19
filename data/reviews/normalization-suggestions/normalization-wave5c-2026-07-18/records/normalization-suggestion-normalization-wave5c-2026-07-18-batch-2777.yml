@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2777
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.poetic-contest-between-celebrated-poets
+  motif_id: poetic_contest_between_celebrated_poets
+  label: poetic contest between celebrated poets
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A contest between poets centers on verbal/narrative power and public
+    wisdom rather than martial conflict.
+  cautions: Single occurrence; if the passage is merely biographical or literary-historical,
+    consider excluding as contextual detail.
+  suggested_aliases:
+  - poetic contest
+  - contest of poets
+  - verbal contest between poets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poetic-immortalization-of-fallen-heroes
+  motif_id: poetic_immortalization_of_fallen_heroes
+  label: poetic immortalization of fallen heroes
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: high
+  rationale: Poetry preserves heroic fame after death, matching narrative or authorship
+    as public immortality.
+  cautions: Also related to heroic_funeral_rites and lament_and_mourning when tied
+    to ritual commemoration of the dead.
+  suggested_aliases:
+  - heroic fame through poetry
+  - poetry grants immortality to fallen heroes
+  - poetic memorialization of heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pollution-departing-in-insect-form-toward-an-opposed-region
+  motif_id: pollution_departing_in_insect_form_toward_an_opposed_region
+  label: Pollution departing in insect form toward an opposed region
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label concerns ritual pollution leaving the community/body, fitting
+    purity law and spirit-contagion/apotropaic patterns.
+  cautions: Highly specific and culturally sensitive; if the passage emphasizes expulsion
+    rite mechanics, sacrifice/ritual_expulsion may be a secondary mapping.
+  suggested_aliases:
+  - pollution expelled in insect form
+  - ritual pollution departs as insect
+  - impurity leaves toward opposed region
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.polygamy-as-demographic-response-to-war-reduced-male-population
+  motif_id: polygamy_as_demographic_response_to_war_reduced_male_population
+  label: Polygamy as demographic response to war-reduced male population
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a social-demographic explanation rather than a reusable
+    mythic motif.
+  cautions: May preserve as ethnographic or contextual evidence; do not index as a
+    motif without recurring narrative or ritual function.
+  suggested_aliases:
+  - postwar polygamy as demographic adaptation
+  - marriage practice after war losses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-battle-deliberation-over-captive-or-enemy-s-doom
+  motif_id: post_battle_deliberation_over_captive_or_enemy_s_doom
+  label: post-battle deliberation over captive or enemy's doom
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A decision over captives after battle belongs to warfare as socially
+    or ritually consequential action.
+  cautions: If the emphasis is mercy, ransom, or judgment rather than warfare, covenant
+    or divine_judgment may be better secondary mappings.
+  suggested_aliases:
+  - postbattle judgment of captives
+  - deliberation over enemy fate after battle
+  - captive doom after battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-battle-poetic-report-of-deeds
+  motif_id: post_battle_poetic_report_of_deeds
+  label: post-battle poetic report of deeds
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: high
+  rationale: A poetic report transforms battle deeds into remembered narrative and
+    public fame.
+  cautions: Related to sacred_combat only as subject matter; the motif function is
+    poetic transmission.
+  suggested_aliases:
+  - poetic report of battle deeds
+  - battle deeds preserved in song
+  - postbattle heroic narration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-victory-feast-and-dance
+  motif_id: post_victory_feast_and_dance
+  label: post-victory feast and dance
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A feast and dance after victory suggests communal celebration, redistribution,
+    or ritual repair after conflict.
+  cautions: Single occurrence; could be a passage detail unless feast/dance has explicit
+    ritual or sacred exchange function.
+  suggested_aliases:
+  - victory feast and dance
+  - postbattle communal feast
+  - celebration after victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-war-ceremonial-washing-before-re-entry
+  motif_id: post_war_ceremonial_washing_before_re_entry
+  label: post-war ceremonial washing before re-entry
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ceremonial washing before re-entry is a purity regulation after bloodshed
+    or dangerous contact.
+  cautions: May also relate to sacred_waters if water symbolism is central, or to
+    sacrifice/ritual expulsion if the rite removes war pollution.
+  suggested_aliases:
+  - purification after war before re-entry
+  - postwar ritual washing
+  - ceremonial washing after battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-token-directs-the-living-toward-vengeance
+  motif_id: posthumous_token_directs_the_living_toward_vengeance
+  label: Posthumous token directs the living toward vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key object is a token that communicates identity, obligation, or
+    direction from the dead to the living.
+  cautions: If the dead actively command vengeance, restless_dead_haunting_vengeance
+    may be a secondary mapping; if vengeance is central, sacred_combat may also apply.
+  suggested_aliases:
+  - posthumous vengeance token
+  - token from the dead prompts vengeance
+  - dead person's token directs revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.power-contest-between-rival-patrons
+  motif_id: power_contest_between_rival_patrons
+  label: Power contest between rival patrons
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too general to tell whether the contest is sacred combat,
+    divine intervention, patron-client rivalry, or social power competition.
+  cautions: Needs source context; avoid mapping from the word power alone, especially
+    for culturally specific patron roles.
+  suggested_aliases:
+  - contest between rival patrons
+  - rival patrons compete for power
+  - patron power contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several conflict-bucket items are actually speech, commemoration, purification,
+  or social-order motifs rather than combat motifs.
+- Single-occurrence labels with ethnographic or contextual wording should remain provisional
+  and may be excluded if source evidence lacks recurring narrative or ritual function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft suggestions only; human review recommended for culturally specific
+    pollution, polygamy, and patron-contest labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2777
+  input_sha256: 4985e749165022dbf3d5ec79d4ca5043b6d96e4facf43ed303fa2ea7793f421b
+

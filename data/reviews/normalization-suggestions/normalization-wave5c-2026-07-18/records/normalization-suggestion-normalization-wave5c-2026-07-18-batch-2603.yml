@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2603
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wounded-champion-restrained-from-battle
+  motif_id: wounded_champion_restrained_from_battle
+  label: Wounded champion restrained from battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Matches existing warrior-combat patterns, especially wounded or absent
+    champion motifs already aliased under divine_warrior.
+  cautions: Single occurrence; if restraint rather than combat status is central,
+    sacred_combat may be a secondary fit.
+  suggested_aliases:
+  - wounded_hero_restrained_from_battle
+  - wounded_champion_kept_from_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-troll-disappears-into-waterfall-and-rocks
+  motif_id: wounded_troll_disappears_into_waterfall_and_rocks
+  label: Wounded troll disappears into waterfall and rocks
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could describe monster retreat, transformation into landscape, or an
+    episode-specific supernatural disappearance.
+  cautions: Single occurrence and highly contextual; do not map to sacred_waters,
+    shapeshifter, or death_and_transformation without evidence of symbolic function
+    or metamorphosis.
+  suggested_aliases:
+  - wounded_monster_disappears_into_landscape
+  - wounded_troll_vanishes_into_waterfall_and_rocks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounding-at-a-fruit-tree-and-loss-of-a-hero-s-arm
+  motif_id: wounding_at_a_fruit_tree_and_loss_of_a_hero_s_arm
+  label: Wounding at a fruit tree and loss of a hero’s arm
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines setting, injury, and body-part loss without enough
+    evidence to identify the recurring motif function.
+  cautions: May belong to sacred_combat, divine_warrior, sacred_tree_axis, sacrifice,
+    or death_and_transformation depending on passage context; preserve as evidence
+    detail for now.
+  suggested_aliases:
+  - hero_wounded_at_fruit_tree
+  - hero_loses_arm_at_fruit_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrongdoer-swallowed-by-the-earth-after-harming-a-benefactor
+  motif_id: wrongdoer_swallowed_by_the_earth_after_harming_a_benefactor
+  label: Wrongdoer swallowed by the earth after harming a benefactor
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Earth-swallowing functions as punishment for moral wrongdoing and betrayal
+    of benefaction.
+  cautions: If the passage emphasizes betrayal itself more than punishment, betrayal_violated_trust
+    may be a secondary mapping.
+  suggested_aliases:
+  - earth_swallows_wrongdoer
+  - wrongdoer_punished_by_earth_swallowing
+  - benefactor_harming_wrongdoer_swallowed_by_earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banquet-boasting-contest
+  motif_id: banquet_boasting_contest
+  label: Banquet boasting contest
+  occurrences: 2
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Boasting contests often serve as ritualized conflict, challenge, honor
+    display, or pre-combat rivalry.
+  cautions: If the banquet frame or verbal performance is primary rather than martial
+    rivalry, storytelling_as_power or curse_blessing_speech may be better secondary
+    fits.
+  suggested_aliases:
+  - feast_boasting_contest
+  - banquet_boast_challenge
+  - ritualized_boasting_at_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.downward-melodic-trend
+  motif_id: downward_melodic_trend
+  label: Downward melodic trend
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads as musical-form analysis rather than a narrative, ritual,
+    or symbolic motif.
+  cautions: If source evidence says the melody has supernatural effect, remap to enchanting_music;
+    otherwise exclude from motif pattern queries.
+  suggested_aliases:
+  - descending_melodic_pattern
+  - downward_melody_contour
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-rewarded-and-inhospitality-punished
+  motif_id: hospitality_rewarded_and_inhospitality_punished
+  label: hospitality rewarded and inhospitality punished
+  occurrences: 2
+  traditions:
+  - native-american-southwest
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: high
+  rationale: Directly matches the hospitality-test complex where treatment of guests
+    brings reward or punishment.
+  cautions: If punishment by sacred authority is central, divine_judgment may be a
+    secondary mapping.
+  suggested_aliases:
+  - hospitality_reward_inhospitality_punishment
+  - hospitality_test_with_reward_and_punishment
+  - guest_hospitality_rewarded_or_punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ignored-warning-before-catastrophe
+  motif_id: ignored_warning_before_catastrophe
+  label: ignored warning before catastrophe
+  occurrences: 2
+  traditions:
+  - native_american_northwest_coast
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: An unheeded warning before disaster is a predictive warning pattern already
+    close to prophecy aliases for catastrophe.
+  cautions: If the catastrophe is moral punishment, divine_judgment may be primary;
+    if it is world destruction, flood_and_renewal may be secondary.
+  suggested_aliases:
+  - unheeded_warning_before_catastrophe
+  - rejected_warning_before_disaster
+  - ignored_prophetic_warning_before_catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ignored-warning-before-danger
+  motif_id: ignored_warning_before_danger
+  label: ignored warning before danger
+  occurrences: 2
+  traditions:
+  - hopi
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core is a warning or foreknowledge that is not heeded before danger
+    occurs.
+  cautions: Broad wording may include ordinary advice rather than prophecy; verify
+    that the warning has sacred, omen, or narrative-foreshadowing force.
+  suggested_aliases:
+  - unheeded_warning_before_danger
+  - ignored_forewarning_before_peril
+  - warning_ignored_before_peril
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-cry-naming-the-enemy
+  motif_id: war_cry_naming_the_enemy
+  label: War cry naming the enemy
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A named war cry is a ritualized combat speech act within battle performance.
+  cautions: If the utterance itself is binding, magical, or curse-like, curse_blessing_speech
+    may be a secondary mapping.
+  suggested_aliases:
+  - enemy_naming_war_cry
+  - war_cry_identifies_enemy
+  - battle_cry_naming_the_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch appear misbucketed under nature or conflict; suggestions
+  prioritize motif function over rough review bucket.
+- Single-occurrence composite labels should generally remain evidence details unless
+  source review shows recurrence across traditions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for over-specific landscape,
+    injury, and performance-analysis labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2603
+  input_sha256: 808adf23becb9d2e88656ce1ae68de74b8a06ef1db16e643206b1021585a0cc2
+

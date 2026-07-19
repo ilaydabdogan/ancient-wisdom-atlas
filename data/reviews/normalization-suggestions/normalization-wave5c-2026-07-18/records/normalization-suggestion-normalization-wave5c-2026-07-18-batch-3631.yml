@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3631
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.local-settlement-identity-approximating-clan-identity
+  motif_id: local_settlement_identity_approximating_clan_identity
+  label: local settlement identity approximating clan identity
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes social identity organization rather than a clear
+    narrative motif; no existing group cleanly captures clan/locality identity.
+  cautions: May be an ethnographic or classificatory note. Review whether source evidence
+    describes a mythic ancestor, totem, settlement origin, or only social structure.
+  suggested_aliases:
+  - settlement_identity_as_clan_identity
+  - local_group_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_law
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-variants-from-an-original-bow-pattern
+  motif_id: local_variants_from_an_original_bow_pattern
+  label: local variants from an original bow pattern
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes local variation from an original pattern, likely
+    a comparative or typological artifact rather than a motif.
+  cautions: If the passage narrates a culture hero inventing or distributing the bow,
+    remap to culture_hero or sacred_craft; otherwise exclude from motif queries.
+  suggested_aliases:
+  - local_variants_of_bow_pattern
+  - bow_pattern_variation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-variation-and-decline-in-avoidance-practice
+  motif_id: local_variation_and_decline_in_avoidance_practice
+  label: local variation and decline in avoidance practice
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reports variation and decline in a practice, suggesting ethnographic
+    commentary rather than a symbolic motif.
+  cautions: If source evidence identifies the avoided object or taboo as ritually
+    meaningful, review for sacred_law as a ritual prohibition or apotropaic practice.
+  suggested_aliases:
+  - decline_in_avoidance_practice
+  - variation_in_avoidance_custom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.locality-derived-totem-identity
+  motif_id: locality_derived_totem_identity
+  label: Locality-derived totem identity
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Totem identity derived from locality may involve ancestral origin, sacred
+    geography, or social classification, but the label alone is insufficient.
+  cautions: Culturally sensitive Indigenous material; avoid flattening to generic
+    cosmic_origin or sacred_law without passage evidence. May warrant a future totem/ancestral
+    identity group if recurrent.
+  suggested_aliases:
+  - locality_based_totem_identity
+  - place_derived_totemic_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - axis_mundi
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.localized-adaptation-of-old-or-foreign-themes
+  motif_id: localized_adaptation_of_old_or_foreign_themes
+  label: Localized adaptation of old or foreign themes
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an interpretive statement about theme localization, not a narrative
+    or symbolic motif.
+  cautions: Keep transmission or borrowing claims out of motif normalization. Preserve
+    only as provenance/commentary if needed.
+  suggested_aliases:
+  - local_adaptation_of_foreign_themes
+  - localized_theme_adaptation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.localized-cult-of-a-patron-deity
+  motif_id: localized_cult_of_a_patron_deity
+  label: Localized cult of a patron deity
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A patron deity functions as a localized protective or tutelary divine
+    agent, matching divine_intervention's tutelary-spirit/patron role.
+  cautions: If the evidence centers on civic cult practice rather than divine action,
+    sacred_exchange or sacred_law may be secondary; if merely a place/person catalog
+    entry, exclude.
+  suggested_aliases:
+  - local_patron_deity_cult
+  - localized_patron_deity
+  - civic_patron_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.localized-exceptional-mound-building
+  motif_id: localized_exceptional_mound_building
+  label: localized exceptional mound-building
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Mound-building could be sacred construction, burial, landscape formation,
+    or a local historical detail; function is unclear.
+  cautions: Do not map to sacred_craft or cosmic_origin unless the mound has mythic
+    construction, origin, burial, or sacred-center function. Single occurrence may
+    be too local.
+  suggested_aliases:
+  - exceptional_mound_building
+  - local_mound_building
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - cosmic_origin
+    - axis_mundi
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.localized-haunting-being-throwing-stones
+  motif_id: localized_haunting_being_throwing_stones
+  label: localized haunting being throwing stones
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A haunting being that acts physically fits the active haunting/vengeful
+    dead complex better than a generic spirit motif.
+  cautions: Confirm whether the being is actually dead/ancestral; if it is a local
+    spirit or tutelary/demonic agent, divine_intervention or sacred_law may fit better.
+    Stone-throwing may be over-specific evidence detail.
+  suggested_aliases:
+  - haunting_being_throws_stones
+  - stone_throwing_haunting_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.localized-multi-pronged-fish-gig-for-reef-pools
+  motif_id: localized_multi_pronged_fish_gig_for_reef_pools
+  label: localized multi-pronged fish-gig for reef pools
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label names a localized tool detail rather than a recurring mythic
+    motif or symbolic object.
+  cautions: If a narrative explains the invention or divine gift of the fishing tool,
+    review for culture_hero or sacred_craft; otherwise exclude.
+  suggested_aliases:
+  - local_fish_gig_tool
+  - reef_pool_fishing_gig
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - culture_hero
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.localized-shared-tale-incidents
+  motif_id: localized_shared_tale_incidents
+  label: localized shared tale incidents
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase describes comparative tale distribution or localization, not
+    a motif content pattern.
+  cautions: Do not infer transmission from this label in normalization. Underlying
+    incidents should be indexed separately if identifiable.
+  suggested_aliases:
+  - localized_shared_tale_elements
+  - shared_tale_incidents_localized
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are locality/comparison artifacts rather than motifs;
+  exclude from Pattern Explorer unless source passages supply concrete narrative functions.
+- Totem, clan, and Indigenous locality-identity labels need culturally careful human
+  review before creating or assigning any broad group.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3631
+  input_sha256: 5ae88d934909fedff03d11eda752a59e8f826e7eba35fe4c6b40771874142306
+

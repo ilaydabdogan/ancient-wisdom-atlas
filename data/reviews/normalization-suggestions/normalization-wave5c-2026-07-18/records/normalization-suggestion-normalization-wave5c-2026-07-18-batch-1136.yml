@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1136
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-medicines-and-personal-fetiches
+  motif_id: sacred_medicines_and_personal_fetiches
+  label: Sacred medicines and personal fetiches
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: uncertain
+  confidence: low
+  rationale: Sacred medicines may fit sacred substances, while personal power objects
+    may fit sacred_treasures or apotropaic sacred_law.
+  cautions: Culturally sensitive and uses the antiquated term 'fetiches'; source context
+    is needed before indexing.
+  suggested_aliases:
+  - sacred_medicines
+  - personal_power_objects
+  - ritual_medicines_and_personal_charms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-megalithic-precincts
+  motif_id: sacred_megalithic_precincts
+  label: sacred megalithic precincts
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: narrower_than
+  confidence: medium
+  rationale: A sacred precinct can function as a marked ritual center or sacred geography
+    within the world-axis/sacred-center complex.
+  cautions: If the passage only names an archaeological or local place, it may be
+    too place-specific for motif queries.
+  suggested_aliases:
+  - sacred_stone_precinct
+  - megalithic_sacred_center
+  - ritual_stone_precinct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-memory-preserved-only-in-tales-and-inscriptions
+  motif_id: sacred_memory_preserved_only_in_tales_and_inscriptions
+  label: Sacred memory preserved only in tales and inscriptions
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on sacred memory surviving through narrative and written
+    inscription as cultural transmission.
+  cautions: Could be a meta-textual or scholarly observation if the passage discusses
+    textual preservation rather than a mythic claim.
+  suggested_aliases:
+  - sacred_memory_preserved_in_tales
+  - sacred_memory_preserved_in_inscriptions
+  - memory_preserved_by_story_and_record
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-memory-resisting-skeptical-dissolution
+  motif_id: sacred_memory_resisting_skeptical_dissolution
+  label: sacred memory resisting skeptical dissolution
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like an interpretive claim about reception or skepticism
+    rather than a narrative motif.
+  cautions: If source evidence depicts a figure or ritual actively preserving sacred
+    memory, remap to storytelling_as_power or sacred_knowledge.
+  suggested_aliases:
+  - sacred_memory_against_skepticism
+  - traditional_memory_resisting_doubt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-metrical-recitation-encoded-in-pictographs
+  motif_id: sacred_metrical_recitation_encoded_in_pictographs
+  label: Sacred metrical recitation encoded in pictographs
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: Encoded ritual recitation concerns sacred knowledge transmission, but
+    may be an ethnographic description of notation rather than a motif.
+  cautions: Culturally sensitive; verify whether pictographs are part of a sacred
+    narrative, ritual technology, or scholarly documentation.
+  suggested_aliases:
+  - pictographic_encoding_of_sacred_recitation
+  - ritual_recitation_encoded_in_pictographs
+  - sacred_pictographic_mnemonics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-minister-seized-by-hostile-authority
+  motif_id: sacred_minister_seized_by_hostile_authority
+  label: Sacred minister seized by hostile authority
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: A sacred office-holder seized by hostile power may lead to sacrilege,
+    judgment, or conflict, but the label alone is contextual.
+  cautions: May be a passage-specific historical/legal incident rather than a reusable
+    motif; source evidence needed for sacred consequence.
+  suggested_aliases:
+  - sacred_official_seized_by_hostile_power
+  - holy_minister_captured_by_authority
+  - violation_of_sacred_office
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-misrecognition-of-a-wilderness-shelter
+  motif_id: sacred_misrecognition_of_a_wilderness_shelter
+  label: Sacred misrecognition of a wilderness shelter
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: Misrecognized shelter in wilderness may mark an enchanted or liminal
+    encounter, but the function is unclear.
+  cautions: Could instead be hospitality, illusion, exile/wandering, or a passage
+    artifact; do not map without context.
+  suggested_aliases:
+  - misrecognized_wilderness_shelter
+  - enchanted_shelter_misrecognized
+  - liminal_shelter_in_wilderness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-mission-supported-by-yoked-helpers
+  motif_id: sacred_mission_supported_by_yoked_helpers
+  label: sacred mission supported by yoked helpers
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Helpers aiding a sacred mission fit divine guidance or support, especially
+    if the helpers are assigned or empowered by sacred agency.
+  cautions: If the helpers are ordinary animals or laborers, this may be too episode-specific;
+    consider animal_helpers if evidence supports it.
+  suggested_aliases:
+  - sacred_mission_aided_by_helpers
+  - yoked_helpers_support_sacred_mission
+  - divinely_supported_mission_helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-monument-destroyed-by-fame-seeking-fire
+  motif_id: sacred_monument_destroyed_by_fame_seeking_fire
+  label: sacred monument destroyed by fame-seeking fire
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Destruction of a sacred monument for fame centers on overreaching pride
+    and transgression against sacred order.
+  cautions: If the emphasis is on sacrilege punished by divine action, divine_judgment
+    may be a stronger secondary mapping.
+  suggested_aliases:
+  - fame_seeking_destruction_of_sacred_monument
+  - sacrilegious_monument_burning_for_fame
+  - hubristic_arson_of_sacred_monument
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-mountain-as-divine-or-mythic-site
+  motif_id: sacred_mountain_as_divine_or_mythic_site
+  label: sacred mountain as divine or mythic site
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: narrower_than
+  confidence: high
+  rationale: The taxonomy already treats sacred mountains as cosmic centers, revelation
+    sites, and axis-mundi variants.
+  cautions: Preserve whether the mountain functions as abode, ritual site, revelation
+    place, refuge, or mythic landmark.
+  suggested_aliases:
+  - sacred_mountain
+  - mythic_mountain_site
+  - divine_mountain_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch have only one occurrence and read as contextual or
+  interpretive; human review should check passage evidence before adding aliases.
+- For culturally specific ritual-object labels, preserve local terminology carefully
+  and avoid antiquated generated wording in public-facing labels.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1136
+  input_sha256: 996a39297e49dceb296d9e5ba233f64b2bcc6445f9bc748e0c2f36fa7e11866f
+

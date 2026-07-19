@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1267
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ceremonial-ornament-imitates-animal-plant-or-mountain-form
+  motif_id: ceremonial_ornament_imitates_animal_plant_or_mountain_form
+  label: ceremonial ornament imitates animal, plant, or mountain form
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label describes ritual ornament imagery, but its function is unclear:
+    imitation may be symbolic, ceremonial, status-related, or artifact description.'
+  cautions: Single occurrence and culturally specific regalia/ornament evidence needs
+    source review before mapping to sacred_treasures, shapeshifter, axis_mundi, or
+    ritual law.
+  suggested_aliases:
+  - ceremonial ornament imitation
+  - ritual ornament imitating natural forms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-praise-song-attached-to-narrative
+  motif_id: ceremonial_praise_song_attached_to_narrative
+  label: ceremonial praise song attached to narrative
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ceremonial praise song embedded in or attached to narrative fits narrative
+    performance as a vehicle of transmission and sacred/social power.
+  cautions: If the song itself is the operative supernatural force, enchanting_music
+    may be a secondary mapping; if merely editorial notation, review as textual artifact.
+  suggested_aliases:
+  - praise song attached to narrative
+  - ceremonial narrative song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-regalia-hats-in-feast-songs
+  motif_id: ceremonial_regalia_hats_in_feast_songs
+  label: Ceremonial regalia hats in feast songs
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ceremonial objects, feast context, and song performance
+    without enough evidence to identify the primary motif function.
+  cautions: May be culturally specific regalia evidence rather than a reusable motif;
+    review whether hats confer authority, mark identity, or are simply named in songs.
+  suggested_aliases:
+  - ceremonial hats in feast songs
+  - regalia in ceremonial song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-society-song
+  motif_id: ceremonial_society_song
+  label: ceremonial society song
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ceremonial society song likely functions as formal oral transmission
+    or ritual performance, fitting the speech/song-as-power complex.
+  cautions: If the song causes supernatural effects, use enchanting_music; if the
+    label only records repertoire ownership or ethnographic classification, human
+    review may exclude it.
+  suggested_aliases:
+  - ritual society song
+  - ceremonial association song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-song-recording
+  motif_id: ceremonial_song_recording
+  label: ceremonial song recording
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label appears to describe documentation or recording of a ceremonial
+    song rather than a narrative or symbolic motif within the source.
+  cautions: Preserve as provenance if needed; only remap if passage evidence concerns
+    the song's ritual power, performance, or transmission rather than its recording.
+  suggested_aliases:
+  - recording of ceremonial song
+  - ceremonial song documentation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-song-tradition-transmitted-and-localized
+  motif_id: ceremonial_song_tradition_transmitted_and_localized
+  label: Ceremonial song tradition transmitted and localized
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Transmission and localization may describe oral-traditional process rather
+    than a motif; it could also involve sacred song as cultural memory.
+  cautions: Avoid using this as evidence of historical transmission claims in motif
+    normalization. If it is a scholarly note, exclude as meta_textual; if source-internal,
+    storytelling_as_power may fit.
+  suggested_aliases:
+  - localized ceremonial song tradition
+  - transmitted ceremonial song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-speech-directs-bodily-posture-from-sorrow-to-social-attention
+  motif_id: ceremonial_speech_directs_bodily_posture_from_sorrow_to_social_attention
+  label: ceremonial speech directs bodily posture from sorrow to social attention
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ceremonial speech that directs bodily posture and social attention functions
+    as performative speech shaping conduct in a ritual setting.
+  cautions: Could belong with lament_and_mourning if the focus is grief transformation,
+    or sacred_law if it is a formal social obligation; label is over-specific.
+  suggested_aliases:
+  - ceremonial speech directing posture
+  - ritual speech redirects mourning attention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-sword-swallowing
+  motif_id: ceremonial_sword_swallowing
+  label: Ceremonial sword swallowing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a ceremonial performance or ordeal, but its symbolic
+    or ritual function is not evident from the label alone.
+  cautions: May fit initiation if an ordeal, sacred_treasures if the sword is a power
+    object, or sacred_law/sacrifice if part of ritual discipline; culturally specific
+    evidence is needed.
+  suggested_aliases:
+  - ritual sword swallowing
+  - ceremonial blade swallowing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.changed-skin-or-mixed-blood-as-name-explanation
+  motif_id: changed_skin_or_mixed_blood_as_name_explanation
+  label: changed skin or mixed blood as name explanation
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A physical change or mixed-blood explanation used to account for a name
+    fits the existing etiological naming cluster under cosmic_origin.
+  cautions: If the emphasis is bodily transformation, shapeshifter or death_and_transformation
+    may be secondary; preserve the name-etiology specificity as evidence detail.
+  suggested_aliases:
+  - name explanation from changed skin
+  - name etiology from mixed blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.charitable-provisioning-of-ascetics-over-family-commercial-duty
+  motif_id: charitable_provisioning_of_ascetics_over_family_commercial_duty
+  label: Charitable provisioning of ascetics over family commercial duty
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Providing for ascetics over ordinary commercial or family duty centers
+    on sacred giving, hospitality, and renunciation-like exchange.
+  cautions: Could also map to sacred_law if framed as ethical command, or renunciation/mystical_quest
+    if the focus is spiritual discipline rather than provisioning.
+  suggested_aliases:
+  - charitable feeding of ascetics
+  - sacred provisioning over worldly duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are culturally specific ceremonial-song or regalia
+  observations; human review should distinguish source-internal ritual function from
+  collector/editor documentation.
+- Do not infer transmission or borrowing from labels involving song traditions; normalization
+  placement only supports query grouping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence ceremonial labels require
+    source evidence before durable taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1267
+  input_sha256: 4e0587f0d9ebf93767c7ed6cc2f2a4f0013b111d133c2c783418b10175734727
+

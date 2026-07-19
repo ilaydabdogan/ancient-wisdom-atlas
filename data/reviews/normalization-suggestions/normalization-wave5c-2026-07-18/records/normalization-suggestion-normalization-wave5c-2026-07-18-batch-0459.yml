@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0459
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.arrival-announced-by-group-specific-cry
+  motif_id: arrival_announced_by_group_specific_cry
+  label: Arrival announced by group-specific cry
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a local arrival signal rather than a durable journey
+    motif.
+  cautions: Could be meaningful as an identity, war, or ritual sound marker if source
+    evidence shows repeated function; otherwise preserve as passage detail only.
+  suggested_aliases:
+  - group_specific_arrival_cry
+  - arrival_signal_by_group_cry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-at-a-foreign-river-and-anchoring-before-action
+  motif_id: arrival_at_a_foreign_river_and_anchoring_before_action
+  label: arrival at a foreign river and anchoring before action
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a specific travel staging detail without clear transformation,
+    threshold trial, or sacred water function.
+  cautions: If the river acts as a boundary crossing or initiation threshold, review
+    for sacred_waters or hero_journey; label alone is too contextual.
+  suggested_aliases:
+  - foreign_river_arrival_before_action
+  - anchoring_before_action_at_river
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-at-a-liminal-forest-gate
+  motif_id: arrival_at_a_liminal_forest_gate
+  label: Arrival at a liminal forest gate
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: narrower_than
+  confidence: medium
+  rationale: A liminal gate marks a boundary into a charged or dangerous space, fitting
+    threshold-passage logic.
+  cautions: Map to hero_journey instead if the passage emphasizes travel sequence
+    rather than guarded or liminal boundary crossing.
+  suggested_aliases:
+  - liminal_forest_gate
+  - forest_threshold_arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-at-a-prosperous-city-of-favor
+  motif_id: arrival_at_a_prosperous_city_of_favor
+  label: Arrival at a prosperous city of favor
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase may be mystical allegory, ordinary journey arrival, or a narrative
+    reward setting.
+  cautions: For Sufi context, review whether the city symbolizes a station on the
+    mystical quest; otherwise treat as location-specific passage detail.
+  suggested_aliases:
+  - prosperous_city_of_favor
+  - arrival_at_city_of_favor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-at-renowned-city-by-ship
+  motif_id: arrival_at_renowned_city_by_ship
+  label: arrival at renowned city by ship
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: A ship arrival at a named or renowned city is likely a travel scene detail,
+    not a motif-level pattern.
+  cautions: If sea travel is supernatural or initiatory, review under sacred_waters;
+    current wording does not show that function.
+  suggested_aliases:
+  - ship_arrival_at_renowned_city
+  - arrival_by_ship_at_city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-at-the-divine-gate
+  motif_id: arrival_at_the_divine_gate
+  label: arrival at the divine gate
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A divine gate often marks access to sacred presence or a spiritual threshold
+    in devotional/mystical language.
+  cautions: If the gate is a literal otherworld or judgment threshold, afterlife_passage
+    or threshold_guardian may be better; source context is needed.
+  suggested_aliases:
+  - divine_gate_arrival
+  - arrival_at_sacred_gate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-at-warm-shelter-after-dangerous-winter-travel
+  motif_id: arrival_at_warm_shelter_after_dangerous_winter_travel
+  label: arrival at warm shelter after dangerous winter travel
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: The label may describe survival after an ordeal journey and safe arrival
+    after danger.
+  cautions: Could be ordinary travel realism or environmental detail; only index if
+    the winter journey functions as ordeal, exile, or transformation.
+  suggested_aliases:
+  - safe_shelter_after_winter_travel
+  - arrival_at_shelter_after_dangerous_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-by-sea-and-communal-reception-at-shore
+  motif_id: arrival_by_sea_and_communal_reception_at_shore
+  label: Arrival by sea and communal reception at shore
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: The communal reception may foreground hospitality or social incorporation
+    after sea arrival.
+  cautions: If the main function is ocean passage, sacred_waters may be secondary;
+    if merely an itinerary detail, exclude from motif queries.
+  suggested_aliases:
+  - communal_shore_reception_after_sea_arrival
+  - sea_arrival_with_communal_welcome
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-by-water-before-formal-welcome
+  motif_id: arrival_by_water_before_formal_welcome
+  label: Arrival by water before formal welcome
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Formal welcome after arrival may function as hospitality or social exchange
+    rather than water symbolism.
+  cautions: Use sacred_waters only if the water crossing is perilous, purifying, or
+    transformative; otherwise this may be passage staging detail.
+  suggested_aliases:
+  - water_arrival_before_welcome
+  - arrival_by_water_with_formal_welcome
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-from-a-dangerous-or-supernatural-house
+  motif_id: arrival_from_a_dangerous_or_supernatural_house
+  label: arrival from a dangerous or supernatural house
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A supernatural house may be an otherworld site, ordeal space, dangerous
+    threshold, or culturally specific sacred place.
+  cautions: Review source evidence carefully, especially for Navajo sacred narrative
+    context; do not collapse into generic hero_journey without function.
+  suggested_aliases:
+  - departure_from_supernatural_house
+  - arrival_from_dangerous_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence arrival or itinerary details;
+  most should remain evidence notes unless passage evidence shows threshold crossing,
+  hospitality, sacred water, or mystical progression.
+- Avoid treating every arrival by sea or river as sacred_waters; water needs boundary,
+  peril, purification, transformation, or cosmological function.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific and mystical-context labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0459
+  input_sha256: 818859f50dbf5cbbb1ce594a1a4aa189a0a8730ed521f0d4c2722d11ae723462
+

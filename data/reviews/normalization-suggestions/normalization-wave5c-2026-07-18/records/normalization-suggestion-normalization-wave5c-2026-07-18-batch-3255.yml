@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3255
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.commentators-after-the-creative-age
+  motif_id: commentators_after_the_creative_age
+  label: commentators after the creative age
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label appears to describe later interpretive or literary commentary,
+    not a narrative motif.
+  cautions: If the source describes a mythic decline from creative age to interpretive
+    age, review under world_ages_cosmic_decline instead.
+  suggested_aliases:
+  - post_creative_age_commentators
+  - commentarial_afterlife_of_creative_age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commercial-morality-enabling-trade
+  motif_id: commercial_morality_enabling_trade
+  label: commercial morality enabling trade
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns moral norms organizing economic exchange and social
+    order.
+  cautions: May be an ethnographic or analytic social-description label rather than
+    a mythic motif; verify sacred or narrative framing.
+  suggested_aliases:
+  - trade_enabled_by_moral_norms
+  - commercial_ethics_as_social_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commissioned-ambush-from-concealment
+  motif_id: commissioned_ambush_from_concealment
+  label: Commissioned ambush from concealment
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: An ordered ambush is a specific warfare tactic within the broader combat
+    complex.
+  cautions: If the emphasis is treachery or violated trust rather than battle action,
+    betrayal_violated_trust may be a better secondary placement.
+  suggested_aliases:
+  - ordered_ambush_from_hiding
+  - ambush_by_commission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commissioned-communal-dance-performance
+  motif_id: commissioned_communal_dance_performance
+  label: commissioned communal dance performance
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Communal dance may be ritual performance, social display, or passage-specific
+    event; function is unclear from the label.
+  cautions: Do not map to sacred_song or enchanting_music unless the dance has sacred,
+    transformative, compulsory, or ritual function in the passage.
+  suggested_aliases:
+  - ordered_communal_dance
+  - commissioned_group_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commissioned-retaliatory-killing
+  motif_id: commissioned_retaliatory_killing
+  label: commissioned retaliatory killing
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Retaliatory killing commissioned by another party fits feud, vengeance,
+    and ritualized combat patterns.
+  cautions: If framed as moral recompense or legal vengeance, divine_judgment or sacred_law
+    may also be relevant; if framed as betrayal, review separately.
+  suggested_aliases:
+  - ordered_vengeance_killing
+  - commissioned_revenge_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.common-ancestry-claimed-by-multiple-subgroups
+  motif_id: common_ancestry_claimed_by_multiple_subgroups
+  label: Common ancestry claimed by multiple subgroups
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The group already includes genealogical and eponymous origins of peoples
+    from named ancestors.
+  cautions: If this is only an ethnographic political claim without mythic genealogy,
+    exclude or keep as contextual evidence.
+  suggested_aliases:
+  - shared_ancestor_claimed_by_subgroups
+  - common_ancestral_origin_of_subgroups
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.common-intertribal-communication-medium
+  motif_id: common_intertribal_communication_medium
+  label: common intertribal communication medium
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe language, sign systems, trade media, or ethnographic
+    communication practice rather than a motif.
+  cautions: Map only if passage shows sacred speech, ritual exchange, or culture-hero
+    origin of communication; otherwise exclude as contextual artifact.
+  suggested_aliases:
+  - shared_intertribal_medium
+  - intergroup_communication_medium
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.common-land-concentrated-by-emerging-elites
+  motif_id: common_land_concentrated_by_emerging_elites
+  label: Common land concentrated by emerging elites
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: The label concerns emergence of elite control and political order, closest
+    to sacred kingship and legitimacy.
+  cautions: Likely an analytic social-history label; needs evidence of sacred sanction,
+    lineage, or mythic authorization before pattern-query inclusion.
+  suggested_aliases:
+  - elite_concentration_of_common_land
+  - emerging_elites_appropriate_common_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.common-property-not-appropriated-by-individuals
+  motif_id: common_property_not_appropriated_by_individuals
+  label: Common property not appropriated by individuals
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label states an ethical rule governing property and communal obligation.
+  cautions: If this is monastic discipline or economic commentary without narrative
+    form, preserve as evidence rather than a broad motif.
+  suggested_aliases:
+  - non_appropriation_of_common_property
+  - common_property_as_ethically_protected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commoner-raised-to-military-command-through-valor-and-skill
+  motif_id: commoner_raised_to_military_command_through_valor_and_skill
+  label: commoner raised to military command through valor and skill
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Elevation to command through demonstrated virtue concerns legitimized
+    authority and status transformation.
+  cautions: If focus is battlefield prowess rather than legitimate office, divine_warrior
+    or sacred_combat may be secondary; if purely historical, exclude from motif queries.
+  suggested_aliases:
+  - low_status_warrior_raised_to_command
+  - valor_based_elevation_to_military_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch look like ethnographic, social-historical, or analytic
+  summaries rather than narrative motifs; human review should check passage evidence
+  before enabling pattern queries.
+- Avoid treating social-order placement as evidence of transmission or shared origin.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; verify whether each label is a recurring motif,
+    local social description, or commentary artifact.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3255
+  input_sha256: 8c33b7b8a0ae8bc9380c1d6619ce0d8f54a3c005378fda7b360a6a733a3fb7a7
+

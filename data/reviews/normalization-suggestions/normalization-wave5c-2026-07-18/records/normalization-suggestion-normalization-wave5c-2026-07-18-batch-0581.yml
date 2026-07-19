@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0581
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.posthumous-companionship-through-facing-mounds
+  motif_id: posthumous_companionship_through_facing_mounds
+  label: posthumous companionship through facing mounds
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Facing burial mounds encode postmortem memorial arrangement and continuing
+    social bonds with the dead.
+  cautions: Single occurrence and culturally specific burial detail; if the emphasis
+    is continuing relationship with the dead rather than memorial form, ancestor_rites
+    or lament_and_mourning may be secondary.
+  suggested_aliases:
+  - facing_mounds_for_posthumous_companionship
+  - burial_mounds_arranged_for_companionship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.powerful-arrival-marked-by-wind-and-shaking-earth
+  motif_id: powerful_arrival_marked_by_wind_and_shaking_earth
+  label: powerful arrival marked by wind and shaking earth
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Wind and earth-shaking mark the manifestation or arrival of an overwhelming
+    sacred or powerful being.
+  cautions: If the being is not divine/sacred, this may be a dramatic arrival detail
+    rather than a motif; avoid mapping merely any journey arrival to theophany.
+  suggested_aliases:
+  - earth_shaking_arrival_of_powerful_being
+  - arrival_marked_by_wind_and_tremor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.powerful-being-requests-a-blow-at-a-marked-vulnerable-spot
+  motif_id: powerful_being_requests_a_blow_at_a_marked_vulnerable_spot
+  label: Powerful being requests a blow at a marked vulnerable spot
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: high
+  rationale: The marked vulnerable spot is the key exception to a powerful being's
+    apparent strength or invulnerability.
+  cautions: Confirm whether the requested blow exposes a true vulnerability rather
+    than serving as a test, initiation, or ritual combat gesture.
+  suggested_aliases:
+  - marked_vulnerable_spot_on_powerful_being
+  - blow_at_a_marked_vulnerable_point
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.practical-hardship-leading-to-institutional-allowance
+  motif_id: practical_hardship_leading_to_institutional_allowance
+  label: practical hardship leading to institutional allowance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A practical difficulty prompts a sanctioned allowance within a sacred
+    or monastic rule system.
+  cautions: May be a Vinaya/legal case note rather than a mythic motif; preserve only
+    if the rule-making pattern is useful for queries.
+  suggested_aliases:
+  - hardship_prompts_institutional_allowance
+  - practical_need_creates_rule_exception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.practical-hardship-prompts-a-rule-or-allowance
+  motif_id: practical_hardship_prompts_a_rule_or_allowance
+  label: Practical hardship prompts a rule or allowance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: alias
+  confidence: high
+  rationale: This is effectively the same rule-exception pattern as practical hardship
+    leading to institutional allowance.
+  cautions: Likely duplicate/near-duplicate of practical_hardship_leading_to_institutional_allowance;
+    review whether both are passage artifacts from monastic legal material.
+  suggested_aliases:
+  - practical_hardship_leading_to_institutional_allowance
+  - hardship_prompts_rule_or_allowance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.practical-sea-journey-between-island-settlements
+  motif_id: practical_sea_journey_between_island_settlements
+  label: practical sea journey between island settlements
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes ordinary travel geography rather than a charged,
+    transformative, sacred, or narrative-patterned journey.
+  cautions: If the passage includes peril, sacred navigation, otherworld travel, or
+    transformation, remap to hero_journey, sacred_waters, or divine_intervention with
+    evidence.
+  suggested_aliases:
+  - ordinary_sea_travel_between_islands
+  - inter_island_sea_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayers-traveling-along-a-road-to-sacred-recipients
+  motif_id: prayers_traveling_along_a_road_to_sacred_recipients
+  label: prayers traveling along a road to sacred recipients
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayers are imagined as offerings or communications moving along a ritual
+    path to sacred recipients.
+  cautions: Could also fit curse_blessing_speech if the power lies in the spoken prayer,
+    or axis_mundi/world_center if the road is a cosmological route.
+  suggested_aliases:
+  - prayer_road_to_sacred_recipients
+  - prayers_travel_to_the_divine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pre-journey-or-pre-council-rite-for-social-favor
+  motif_id: pre_journey_or_pre_council_rite_for_social_favor
+  label: Pre-journey or pre-council rite for social favor
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A preparatory rite seeks favorable social or sacred response before travel
+    or council action.
+  cautions: The label combines journey and council contexts; if primarily political
+    persuasion, sacred_law or royal_legitimacy may be more appropriate.
+  suggested_aliases:
+  - pre_journey_rite_for_favor
+  - pre_council_rite_for_social_favor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pre-war-invocation-and-journey-incantations
+  motif_id: pre_war_invocation_and_journey_incantations
+  label: pre-war invocation and journey incantations
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Invocations and incantations are performative sacred speech used to prepare
+    war or travel.
+  cautions: If the emphasis is battle aid, divine_warrior or divine_intervention may
+    be secondary; if it is mainly ritual offering, sacred_exchange may fit.
+  suggested_aliases:
+  - pre_war_invocation
+  - journey_incantations
+  - incantations_before_war_or_travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-feigns-departure-to-test-prey
+  motif_id: predator_feigns_departure_to_test_prey
+  label: Predator feigns departure to test prey
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: A predator uses deception and feigned withdrawal to manipulate prey,
+    matching existing predator-deception fable patterns under trickster.
+  cautions: If the episode is a simple animal behavior note rather than a fable or
+    trickster narrative, it may be too granular for broad pattern queries.
+  suggested_aliases:
+  - predator_feigns_leaving_to_test_prey
+  - feigned_departure_by_predator
+  - predator_deception_by_false_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and may be generated from contextual
+  passage details; final mapping should verify narrative function in source evidence.
+- Two Buddhist hardship/rule labels appear near-duplicate and should be reviewed for
+  alias consolidation rather than separate motif preservation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0581
+  input_sha256: b6431d2fdebcfbf2447bba81414bedf5e34d50d8611a2b4a50ccf581f9686bd2
+

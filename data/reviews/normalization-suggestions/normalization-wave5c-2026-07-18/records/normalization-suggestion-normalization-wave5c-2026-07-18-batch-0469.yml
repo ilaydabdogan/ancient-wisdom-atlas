@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0469
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.camp-feint-followed-by-secret-night-crossing
+  motif_id: camp_feint_followed_by_secret_night_crossing
+  label: camp-feint followed by secret night crossing
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a military deception with a nocturnal crossing; it
+    may be tactical combat, journey episode, or passage detail depending on context.
+  cautions: Single occurrence and highly episode-specific; do not map to sacred_waters
+    unless the crossing itself is transformative or perilous.
+  suggested_aliases:
+  - night crossing after camp feint
+  - secret night crossing by feint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.campaign-itinerary-marked-by-river-crossings
+  motif_id: campaign_itinerary_marked_by_river_crossings
+  label: Campaign itinerary marked by river crossings
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads like a campaign route or itinerary feature rather than a symbolic
+    or narrative motif.
+  cautions: If specific river crossings function as ordeals, boundaries, or divine
+    interventions in the passage, those instances should be indexed separately under
+    sacred_waters or hero_journey.
+  suggested_aliases:
+  - river-crossing campaign itinerary
+  - campaign route with river crossings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.campaign-route-along-old-connecting-roads
+  motif_id: campaign_route_along_old_connecting_roads
+  label: campaign route along old connecting roads
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe route geography or historical itinerary
+    reconstruction, not a reusable mythic motif.
+  cautions: Review if the roads are sacred pilgrimage routes or transformative journey
+    thresholds; otherwise preserve only as passage evidence.
+  suggested_aliases:
+  - campaign route on old roads
+  - old connecting roads itinerary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-giants-destroy-the-fleet-except-the-hero-s-ship
+  motif_id: cannibal_giants_destroy_the_fleet_except_the_hero_s_ship
+  label: cannibal giants destroy the fleet except the hero's ship
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A destructive encounter during a voyage that leaves the hero's ship as
+    survivor fits the ordeal phase of a hero journey.
+  cautions: Could also relate to threshold_guardian or sacred_combat if the giants
+    function as liminal monsters; preserve fleet-destruction specificity as evidence
+    detail.
+  suggested_aliases:
+  - fleet destroyed except hero's ship
+  - cannibal giant voyage ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canoe-borne-trading-voyage-between-island-groups
+  motif_id: canoe_borne_trading_voyage_between_island_groups
+  label: canoe-borne trading voyage between island groups
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ordinary exchange travel rather than a symbolic
+    journey or sacred exchange motif.
+  cautions: Culturally specific trade-voyage systems may be important but need source
+    evidence; avoid flattening economic or social practice into hero_journey without
+    ordeal or transformation.
+  suggested_aliases:
+  - inter-island canoe trading voyage
+  - canoe trading voyage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canoe-movement-and-arrival-near-a-shore-lodge
+  motif_id: canoe_movement_and_arrival_near_a_shore_lodge
+  label: canoe movement and arrival near a shore lodge
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a scene-level movement description rather than a recurring
+    motif.
+  cautions: If the shore lodge is a liminal, otherworldly, or initiation site, index
+    that function separately; the travel mechanics alone are too specific.
+  suggested_aliases:
+  - canoe arrival at shore lodge
+  - arrival by canoe near lodge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canoe-passage-through-dangerous-water
+  motif_id: canoe_passage_through_dangerous_water
+  label: canoe passage through dangerous water
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Dangerous water passage fits water as boundary, peril, and transformative
+    journey medium.
+  cautions: If the passage is merely travel logistics, keep as evidence detail; if
+    the emphasis is ordeal rather than water symbolism, hero_journey may be secondary.
+  suggested_aliases:
+  - dangerous canoe water passage
+  - canoe crossing dangerous waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-ordeal-of-binding-hunger-and-forced-travel
+  motif_id: captive_ordeal_of_binding_hunger_and_forced_travel
+  label: Captive ordeal of binding, hunger, and forced travel
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: low
+  rationale: Binding, hunger, and forced travel form an ordeal pattern that may transform
+    status or identity.
+  cautions: Needs evidence that the suffering functions as an initiation or meaningful
+    ordeal; otherwise it may be a captivity episode or conflict detail rather than
+    a motif.
+  suggested_aliases:
+  - captive ordeal through binding and hunger
+  - forced-travel captivity ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captivity-and-journey-to-a-dwarf-village
+  motif_id: captivity_and_journey_to_a_dwarf_village
+  label: captivity and journey to a dwarf village
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines captivity, travel, and encounter with a possibly nonordinary
+    community; the key motif depends on source function.
+  cautions: May fit otherworld if the village is an enchanted realm, hero_journey
+    if it is an ordeal, or exclude if only itinerary detail. Review culturally specific
+    terminology carefully.
+  suggested_aliases:
+  - captive journey to dwarf village
+  - journey as captive to dwarf village
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captivity-and-resettlement-after-conquest
+  motif_id: captivity_and_resettlement_after_conquest
+  label: captivity and resettlement after conquest
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be historical-political displacement rather than a mythic journey
+    motif.
+  cautions: Could relate to exile/homecoming or sacred law if framed theologically,
+    but source evidence is needed; avoid indexing person/place-only historical detail
+    as a pattern.
+  suggested_aliases:
+  - post-conquest captivity and resettlement
+  - captives resettled after conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are campaign-route or scene-level travel details; those
+  should not be promoted unless the passage gives symbolic, ritual, or transformational
+  function.
+- Where water crossing appears, distinguish ordinary itinerary from sacred_waters/passage_through_waters.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for journey/campaign/captivity labels;
+    human review recommended for culturally specific captivity and trade-voyage items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0469
+  input_sha256: 7031ea683734560940d78040bf72c5ad6658189e2061c75b845bc1464dd7a723
+

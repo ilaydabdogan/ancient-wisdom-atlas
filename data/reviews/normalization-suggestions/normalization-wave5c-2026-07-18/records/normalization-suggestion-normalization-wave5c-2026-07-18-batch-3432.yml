@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3432
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.false-dawn-preceding-true-dawn
+  motif_id: false_dawn_preceding_true_dawn
+  label: False dawn preceding true dawn
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be mystical discernment, sacred time, or dawn-as-revelation imagery,
+    but the function is unclear from the label alone.
+  cautions: Single Sufi occurrence may be a passage-specific metaphor or doctrinal
+    teaching rather than a durable motif.
+  suggested_aliases:
+  - false_dawn_before_true_dawn
+  - illusory_dawn_preceding_real_illumination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-detachable-vital-organ
+  motif_id: false_detachable_vital_organ
+  label: False detachable vital organ
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: A detachable vital organ, even if deceptive or false, belongs to the
+    separable-life/external-vitality complex.
+  cautions: Confirm whether the false organ is a decoy in an external-soul plot or
+    merely comic/body-horror detail; may also touch trickster if deception is central.
+  suggested_aliases:
+  - false_external_vital_organ
+  - decoy_detachable_vital_organ
+  - false_external_life_organ
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-devotional-intoxication
+  motif_id: false_devotional_intoxication
+  label: False devotional intoxication
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern counterfeit mystical ecstasy, hypocrisy, or sacred
+    substance imagery, but the narrative function is not clear.
+  cautions: Culturally sensitive mystical terminology; review source evidence before
+    mapping to mystical_quest, sacred_substance, pride_and_downfall, or sacred_law.
+  suggested_aliases:
+  - counterfeit_devotional_intoxication
+  - false_mystical_ecstasy
+  - pretended_spiritual_intoxication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-distress-report-lures-defender-from-stronghold
+  motif_id: false_distress_report_lures_defender_from_stronghold
+  label: False distress report lures defender from stronghold
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceptive report used to lure a defender from protection is a trickster/deceptive-stratagem
+    pattern.
+  cautions: If the passage is primarily warfare strategy rather than liminal deception,
+    sacred_combat may be a secondary or better placement.
+  suggested_aliases:
+  - false_distress_lure
+  - deceptive_distress_report_lures_defender
+  - feigned_distress_draws_defender_from_stronghold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-exemption-from-religious-practice
+  motif_id: false_exemption_from_religious_practice
+  label: False exemption from religious practice
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns an invalid claim to be released from religious obligation,
+    fitting sacred law and ritual discipline.
+  cautions: May be a doctrinal exemplum about spiritual pride or antinomianism rather
+    than a cross-source motif; review context before canonical promotion.
+  suggested_aliases:
+  - invalid_exemption_from_religious_practice
+  - false_release_from_ritual_obligation
+  - claimed_exemption_from_sacred_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-exotic-image-corrected-by-eyewitness-description
+  motif_id: false_exotic_image_corrected_by_eyewitness_description
+  label: False exotic image corrected by eyewitness description
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like correction of a representation or ethnographic description
+    rather than a narrative motif.
+  cautions: If the source passage itself narrates eyewitness correction as a wisdom
+    episode, reconsider under sacred_knowledge; otherwise exclude from motif queries.
+  suggested_aliases:
+  - eyewitness_correction_of_false_exotic_image
+  - false_image_corrected_by_witness_description
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-expedition-as-pretext-for-private-encounter
+  motif_id: false_expedition_as_pretext_for_private_encounter
+  label: False expedition as pretext for private encounter
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve deception, courtship, illicit encounter, or narrative setup,
+    but the motif function is underdetermined.
+  cautions: Single occurrence and potentially socially/culturally specific; avoid
+    forcing into trickster or sacred_love without passage evidence.
+  suggested_aliases:
+  - pretextual_expedition_for_private_encounter
+  - false_journey_as_private_meeting_pretext
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-expert-claims-mastery-from-isolated-techniques
+  motif_id: false_expert_claims_mastery_from_isolated_techniques
+  label: false expert claims mastery from isolated techniques
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: A false expert claiming mastery from fragments fits overconfidence, pretension,
+    and potential humbling.
+  cautions: If the passage emphasizes pedagogy or sophistic speech rather than downfall,
+    sacred_knowledge or storytelling_as_power may be better; verify there is a consequence
+    or exposure.
+  suggested_aliases:
+  - pretended_mastery_from_partial_technique
+  - false_expertise_from_fragmentary_skill
+  - overconfident_claim_of_mastery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-explanation-of-concealed-harm
+  motif_id: false_explanation_of_concealed_harm
+  label: False explanation of concealed harm
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: A false account hiding harm plausibly belongs with deceit that violates
+    trust and conceals wrongdoing.
+  cautions: Very broad wording; could instead be trickster deception, false accusation,
+    or passage-specific plot detail depending on source evidence.
+  suggested_aliases:
+  - false_account_conceals_harm
+  - deceptive_explanation_of_hidden_injury
+  - concealed_harm_explained_falsely
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-explanation-of-revealing-bodily-sign
+  motif_id: false_explanation_of_revealing_bodily_sign
+  label: False explanation of revealing bodily sign
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bodily sign that reveals hidden truth or identity fits the recognition-token
+    and identity-proof complex, with deception layered over it.
+  cautions: If the sign reveals guilt, transformation, or taboo violation rather than
+    identity, divine_judgment or shapeshifter may be more appropriate.
+  suggested_aliases:
+  - false_account_of_revealing_body_mark
+  - bodily_sign_falsely_explained
+  - revealing_bodily_mark_with_false_explanation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several labels have only one occurrence and require
+  passage evidence before durable mapping.
+- Labels beginning with 'false' split between deception-as-function, false religious/mystical
+  claim, and meta-commentary; avoid treating them as one motif family.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch contains many single-occurrence, context-dependent labels; recommended
+    human review especially for Sufi doctrinal/mystical items and ethnographic/meta-description
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3432
+  input_sha256: 310a5cbd8f0dcff631c66a7346e9b0d2a20109a030046abcd180b98dcf15adeb
+

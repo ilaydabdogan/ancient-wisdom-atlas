@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2653
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.courtly-insult-foreshadowing-future-heroic-suffering
+  motif_id: courtly_insult_foreshadowing_future_heroic_suffering
+  label: Courtly insult foreshadowing future heroic suffering
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: The label combines heroic insult with foreshadowed ordeal, fitting heroic
+    conflict speech and combat setup better than general judgment.
+  cautions: Single occurrence and possibly a scene-specific literary foreshadowing
+    device; verify whether the insult functions ritually or narratively beyond one
+    passage.
+  suggested_aliases:
+  - insult_foreshadowing_heroic_suffering
+  - courtly_insult_before_heroic_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.courtly-prelude-tale-before-a-major-heroic-recital
+  motif_id: courtly_prelude_tale_before_a_major_heroic_recital
+  label: courtly prelude tale before a major heroic recital
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This describes narrative framing or recital structure rather than a symbolic
+    or narrative motif within the tale world.
+  cautions: If the prelude tale itself contains a recurring motif, index that content
+    separately; this label should remain a textual-structure note.
+  suggested_aliases:
+  - prelude_tale_before_heroic_recital
+  - courtly_frame_before_heroic_recital
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.courtly-reward-for-verbal-skill
+  motif_id: courtly_reward_for_verbal_skill
+  label: courtly reward for verbal skill
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reward for speech skill centers on verbal performance as effective social
+    or sacred power.
+  cautions: Could map to sacred_exchange if the emphasis is patronage or reciprocity
+    rather than the power of speech itself; source context needed.
+  suggested_aliases:
+  - reward_for_verbal_skill
+  - courtly_patronage_for_speech_skill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cowardice-punished-by-status-loss-or-abandonment-to-enemies
+  motif_id: cowardice_punished_by_status_loss_or_abandonment_to_enemies
+  label: Cowardice punished by status loss or abandonment to enemies
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif frames cowardice as misconduct followed by punitive loss of
+    honor or protection, a moral-reckoning pattern.
+  cautions: If punishment is purely military or social rather than sacred or moralized,
+    sacred_combat or sacred_law may be better; single occurrence may be too contextual.
+  suggested_aliases:
+  - cowardice_punished_by_status_loss
+  - cowardice_punished_by_abandonment_to_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cowardly-knight-challenged-to-become-hardy
+  motif_id: cowardly_knight_challenged_to_become_hardy
+  label: Cowardly knight challenged to become hardy
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cowardly knight challenged toward courage is a status and character
+    transformation through ordeal.
+  cautions: Could also be sacred_combat if the challenge is primarily a combat episode;
+    confirm that transformation into hardiness is central.
+  suggested_aliases:
+  - cowardly_knight_challenged_to_courage
+  - cowardice_transformed_through_knightly_challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cowardly-strong-figure-contrasted-with-brave-small-figure
+  motif_id: cowardly_strong_figure_contrasted_with_brave_small_figure
+  label: Cowardly strong figure contrasted with brave small figure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: narrower_than
+  confidence: low
+  rationale: The contrast reads like an ethical teaching about true courage rather
+    than a combat motif proper.
+  cautions: May be a fable or didactic passage artifact; if an animal fable or trick
+    reversal, trickster may fit better.
+  suggested_aliases:
+  - brave_small_figure_contrasted_with_cowardly_strong_figure
+  - true_courage_contrasted_with_empty_strength
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crafted-heavy-object-for-revenge-preparation
+  motif_id: crafted_heavy_object_for_revenge_preparation
+  label: Crafted heavy object for revenge preparation
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve sacred craft, revenge combat, or a passage-specific
+    weapon detail, but function is unclear.
+  cautions: Culturally specific episode with only one occurrence; avoid mapping to
+    sacred_craft unless the crafted object has durable ritual or supernatural significance.
+  suggested_aliases:
+  - heavy_object_crafted_for_revenge
+  - crafted_weapon_for_revenge_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crisis-when-the-chief-heroes-are-absent
+  motif_id: crisis_when_the_chief_heroes_are_absent
+  label: crisis when the chief heroes are absent
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A community crisis caused by absent heroes fits the heroic-warrior complex
+    and existing absent-champion patterns.
+  cautions: If the episode emphasizes social disorder rather than warrior function,
+    royal_legitimacy or divine_judgment may be secondary; preserve absence detail.
+  suggested_aliases:
+  - absent_chief_heroes_create_crisis
+  - crisis_of_absent_champions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-cycle-insertion-of-heroic-figures
+  motif_id: cross_cycle_insertion_of_heroic_figures
+  label: Cross-cycle insertion of heroic figures
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes redactional or cycle-compositional placement of characters,
+    not a motif enacted in the narrative world.
+  cautions: Useful for textual history or reception notes, but should not support
+    motif pattern queries or transmission claims.
+  suggested_aliases:
+  - heroic_figures_inserted_across_cycles
+  - cross_cycle_heroic_character_insertion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-regional-survival-of-a-popular-heroic-cycle
+  motif_id: cross_regional_survival_of_a_popular_heroic_cycle
+  label: cross-regional survival of a popular heroic cycle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns transmission, popularity, and regional survival of
+    a textual cycle rather than a narrative motif.
+  cautions: Keep as provenance or literary-history metadata; do not treat as evidence
+    for borrowing or common origin in motif normalization.
+  suggested_aliases:
+  - regional_survival_of_heroic_cycle
+  - cross_regional_heroic_cycle_transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence heroic or courtly episode descriptions;
+  preserve as evidence notes unless recurrence supports durable aliases.
+- Items describing cycle insertion, prelude recital structure, or regional survival
+  are textual/transmission artifacts and should be excluded from motif pattern queries.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; conflict-bucket labels include several literary
+    or editorial artifacts requiring human confirmation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2653
+  input_sha256: b88a05f93374655a04e0c2a4a2936f4b68aa063f633dc0816dcbe223f22ca8d2
+

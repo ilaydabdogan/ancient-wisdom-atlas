@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3840
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.qualified-officer-guarding-communal-goods
+  motif_id: qualified_officer_guarding_communal_goods
+  label: Qualified officer guarding communal goods
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: low
+  rationale: A qualified office-holder guarding shared goods may reflect communal
+    order and ethical administration.
+  cautions: Could be a monastic/legal administrative detail rather than a motif; source
+    context needed before indexing.
+  suggested_aliases:
+  - communal_goods_guardianship
+  - qualified_guardian_of_common_property
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quantified-moral-accounting-of-sin-and-merit
+  motif_id: quantified_moral_accounting_of_sin_and_merit
+  label: Quantified moral accounting of sin and merit
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly describes moral accounting of deeds, fitting divine
+    judgment and reckoning.
+  cautions: If presented as doctrinal exposition rather than narrative or ritual image,
+    preserve doctrinal specificity in notes.
+  suggested_aliases:
+  - weighing_sin_and_merit
+  - moral_accounting_of_deeds
+  - quantified_judgment_of_deeds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quarantine-and-restoration-of-contaminated-land
+  motif_id: quarantine_and_restoration_of_contaminated_land
+  label: Quarantine and restoration of contaminated land
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Contamination, quarantine, and restoration of land fit ritual purity
+    regulation and sacred law.
+  cautions: Could also involve sacrifice or sacred exchange if restoration requires
+    offering; review contamination type and ritual procedure.
+  suggested_aliases:
+  - ritual_quarantine_of_contaminated_land
+  - purification_of_contaminated_land
+  - restoration_of_polluted_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quarrel-averted-by-mediator
+  motif_id: quarrel_averted_by_mediator
+  label: Quarrel averted by mediator
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: low
+  rationale: Mediation averting quarrel concerns repair or preservation of social
+    bonds.
+  cautions: May be ordinary plot action rather than sacred covenant; if no binding
+    obligation or reconciliation motif is present, exclude or leave as contextual
+    detail.
+  suggested_aliases:
+  - mediator_averts_quarrel
+  - peace_mediation_between_disputants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quarrel-causes-loss-to-an-outsider
+  motif_id: quarrel_causes_loss_to_an_outsider
+  label: quarrel causes loss to an outsider
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The harmful consequence of quarrel may function as moral causality or
+    ethical exemplum.
+  cautions: Label is abstract and possibly a fable lesson or passage-specific plot
+    outcome; confirm whether sacred/moral reckoning is explicit.
+  suggested_aliases:
+  - dispute_harms_innocent_outsider
+  - quarrel_with_collateral_loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quarrel-foreshadowing-later-harm
+  motif_id: quarrel_foreshadowing_later_harm
+  label: Quarrel foreshadowing later harm
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: A quarrel that foreshadows harm may act as an omen-like narrative sign.
+  cautions: Foreshadowing may be literary analysis rather than in-world omen or prophecy;
+    avoid indexing unless the source marks it as portentous.
+  suggested_aliases:
+  - ominous_quarrel_before_harm
+  - quarrel_as_portent_of_later_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quarrel-over-a-disputed-object-leading-to-killing
+  motif_id: quarrel_over_a_disputed_object_leading_to_killing
+  label: quarrel over a disputed object leading to killing
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dispute over an object escalating to killing fits conflict and feud-like
+    combat patterns.
+  cautions: If the object is a sacred treasure, secondary relation to sacred_treasures
+    may matter; otherwise may be an over-specific episode detail.
+  suggested_aliases:
+  - disputed_object_triggers_killing
+  - object_dispute_escalates_to_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quarrel-over-imagined-future-wealth
+  motif_id: quarrel_over_imagined_future_wealth
+  label: Quarrel over imagined future wealth
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Conflict over imagined wealth fits greed, envy, and foolish overreach
+    leading to disorder.
+  cautions: Could be a comic or fable-specific lesson rather than a durable mythic
+    motif; verify whether downfall or moral reversal follows.
+  suggested_aliases:
+  - imagined_wealth_causes_quarrel
+  - quarrel_over_unrealized_gain
+  - greed_for_future_wealth_causes_dispute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quarry-bone-worn-to-attract-or-turn-game
+  motif_id: quarry_bone_worn_to_attract_or_turn_game
+  label: Quarry bone worn to attract or turn game
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: A worn bone used to influence game functions as a power object in hunting
+    practice.
+  cautions: Culturally specific ritual hunting detail; may belong under sacred_law,
+    sympathetic magic, or a future hunting-magic group if recurring.
+  suggested_aliases:
+  - hunting_bone_charm
+  - quarry_bone_as_game_attracting_charm
+  - bone_charm_to_direct_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quarry-pursuit-leading-to-separation
+  motif_id: quarry_pursuit_leading_to_separation
+  label: quarry pursuit leading to separation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: A pursuit that separates companions may initiate or structure a journey
+    ordeal.
+  cautions: Could be merely a hunting-scene plot detail; map only if separation triggers
+    quest, otherworld encounter, trial, or transformation.
+  suggested_aliases:
+  - hunt_pursuit_causes_separation
+  - pursuit_of_quarry_separates_companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several quarrel labels are single-occurrence and may be fable morals, saga plot
+  mechanics, or literary foreshadowing rather than reusable motifs; review source
+  evidence before broad indexing.
+- No transmission or borrowing claims are implied by these placements.
+- 'Potential future review area: hunting charms and game-attraction practices may
+  need a narrower ritual-magic group if many similar labels recur.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for low-confidence
+    administrative, quarrel, and hunting-charm labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3840
+  input_sha256: 9c75ccb28b6a669155489539097884f67b4849aa792da3709dd038fa8832187d
+

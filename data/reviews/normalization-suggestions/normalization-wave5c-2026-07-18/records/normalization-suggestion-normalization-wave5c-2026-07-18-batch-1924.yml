@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1924
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mourning-elder-punishes-wife
+  motif_id: mourning_elder_punishes_wife
+  label: Mourning elder punishes wife
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines mourning, household hierarchy, and punitive action;
+    the governing motif cannot be inferred without passage context.
+  cautions: May belong to lament_and_mourning, sacred_law, divine_judgment, or be
+    an episode-specific domestic detail.
+  suggested_aliases:
+  - mourning_elder_punishes_spouse
+  - punishment_of_wife_during_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-mother-and-ruined-royal-house
+  motif_id: mourning_mother_and_ruined_royal_house
+  label: Mourning mother and ruined royal house
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on maternal mourning and recognition of dynastic ruin,
+    fitting lament and tragic loss.
+  cautions: If the passage emphasizes dynastic legitimacy or collapse of rule more
+    than grief, royal_legitimacy or pride_and_downfall may be relevant secondary contexts.
+  suggested_aliases:
+  - maternal_lament_for_ruined_royal_house
+  - mourning_mother_laments_dynastic_ruin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-restrictions-on-deceased-father-s-food-and-produce
+  motif_id: mourning_restrictions_on_deceased_father_s_food_and_produce
+  label: mourning restrictions on deceased father's food and produce
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Restrictions around a deceased father's food and produce suggest mortuary/ancestor-related
+    ritual regulation.
+  cautions: Could instead fit sacred_law if framed mainly as taboo or purity rule;
+    source context should verify relation to the dead or ancestor care.
+  suggested_aliases:
+  - mourning_food_restrictions_for_deceased_father
+  - mortuary_restrictions_on_dead_father_s_produce
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-staff-as-support-and-parent-marker
+  motif_id: mourning_staff_as_support_and_parent_marker
+  label: Mourning staff as support and parent marker
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A mourning staff used to mark parental bereavement is a regulated filial/mortuary
+    practice within sacred social order.
+  cautions: Also related to lament_and_mourning; if the object itself carries ritual
+    power, sacred_treasures could be a weak secondary mapping.
+  suggested_aliases:
+  - mourning_staff_for_parental_bereavement
+  - filial_mourning_staff
+  - mourning_staff_as_parental_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mouse-lover-and-nonhuman-children
+  motif_id: mouse_lover_and_nonhuman_children
+  label: Mouse lover and nonhuman children
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve animal spouse, transformation, clan origin, or
+    anomalous offspring, none of which is clear from the label alone.
+  cautions: Culturally specific and potentially over-compressed; avoid forcing into
+    sacred_love or shapeshifter without evidence of marriage, transformation, or ancestry
+    function.
+  suggested_aliases:
+  - mouse_spouse_and_nonhuman_children
+  - animal_lover_and_nonhuman_offspring
+  - mouse_lover_with_nonhuman_offspring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multi-eyed-witch-family
+  motif_id: multi_eyed_witch_family
+  label: multi-eyed witch family
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a monstrous or magical family trait but does not
+    specify narrative function.
+  cautions: May be a character-description artifact, monster motif, witchcraft motif,
+    or family/lineage detail; current groups do not cleanly cover it.
+  suggested_aliases:
+  - many_eyed_witch_family
+  - multi_eyed_supernatural_family
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multiple-birth-as-ridicule-through-animal-comparison
+  motif_id: multiple_birth_as_ridicule_through_animal_comparison
+  label: multiple birth as ridicule through animal comparison
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns social ridicule of multiple birth rather than a clear
+    sacred birth or miraculous child pattern.
+  cautions: Could be a contextual social stigma note, animal comparison motif, or
+    birth motif; passage evidence is needed before indexing.
+  suggested_aliases:
+  - ridicule_of_multiple_birth_by_animal_comparison
+  - multiple_birth_mocked_as_animal_like
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multiple-birth-from-equal-male-and-female-seed
+  motif_id: multiple_birth_from_equal_male_and_female_seed
+  label: Multiple birth from equal male and female seed
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: narrower_than
+  confidence: medium
+  rationale: An unusual explanation of multiple birth through male and female seed
+    fits extraordinary conception/birth symbolism.
+  cautions: If the passage is primarily cosmological anthropology or doctrinal physiology
+    rather than narrative birth, sacred_knowledge or cosmic_origin may need review.
+  suggested_aliases:
+  - equal_male_and_female_seed_causes_multiple_birth
+  - multiple_birth_from_balanced_parental_seed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multiple-births-of-the-future-buddha
+  motif_id: multiple_births_of_the_future_buddha
+  label: Multiple births of the future Buddha
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: Repeated births of a future Buddha point to rebirth and identity across
+    lives, already covered by death-and-transformation/past-life identity patterns.
+  cautions: If a specific auspicious final birth is meant, miraculous_child may be
+    a secondary mapping; avoid treating every rebirth as sacred birth.
+  suggested_aliases:
+  - repeated_births_of_the_future_buddha
+  - future_buddha_reborn_across_lives
+  - bodhisattva_multiple_births
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.murder-motivated-by-desire-for-another-man-s-wife
+  motif_id: murder_motivated_by_desire_for_another_man_s_wife
+  label: Murder motivated by desire for another man's wife
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The plot is driven by illicit desire for another's spouse, placing it
+    nearest the love/desire conflict complex.
+  cautions: May fit betrayal_violated_trust, sacred_law, divine_judgment, or sacred_combat
+    if the passage emphasizes marital violation, murder, punishment, or feud rather
+    than desire.
+  suggested_aliases:
+  - illicit_desire_for_another_s_wife_leads_to_murder
+  - murder_for_another_man_s_wife
+  - adulterous_desire_motivates_murder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and compress domestic, mortuary,
+  or kinship context; human review should check passage evidence before promoting
+  granular birth/family labels.
+- Animal-spouse, witch-family, and multiple-birth ridicule labels may require future
+  family/body or monster/animal-spouse grouping if they recur, but current evidence
+  is insufficient.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence items need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1924
+  input_sha256: 57a19dd229c7a5b88647c7bb3a32019ab2b6e2c361feac7e823c317505320705
+

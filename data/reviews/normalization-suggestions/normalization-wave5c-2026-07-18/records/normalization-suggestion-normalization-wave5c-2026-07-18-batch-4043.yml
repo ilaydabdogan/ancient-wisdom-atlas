@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4043
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.transgression-followed-by-religious-expulsion
+  motif_id: transgression_followed_by_religious_expulsion
+  label: Transgression followed by religious expulsion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A religious rule violation followed by expulsion fits sacred law, discipline,
+    and social order enforcement.
+  cautions: Single occurrence; if the passage emphasizes punishment by sacred powers
+    rather than institutional discipline, divine_judgment may be a secondary fit.
+  suggested_aliases:
+  - religious_expulsion_after_transgression
+  - expulsion_for_religious_transgression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transgression-quantified-by-counted-steps
+  motif_id: transgression_quantified_by_counted_steps
+  label: transgression quantified by counted steps
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Counting steps to measure transgression suggests ritual/legal precision
+    within sacred law.
+  cautions: Highly contextual and possibly passage-specific; verify whether counted
+    steps are a recurring ritual/legal measure or an exegetical detail.
+  suggested_aliases:
+  - counted_steps_measure_transgression
+  - ritual_transgression_measured_by_steps
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transhistorical-community-of-the-faithful
+  motif_id: transhistorical_community_of_the_faithful
+  label: Transhistorical community of the faithful
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A faithful community extending across time expresses a sacred bond and
+    shared religious identity.
+  cautions: Could be theological doctrine or community self-description rather than
+    a narrative motif; review passage evidence before broad indexing.
+  suggested_aliases:
+  - community_of_the_faithful_across_time
+  - transhistorical_sacred_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transience-of-literary-fame
+  motif_id: transience_of_literary_fame
+  label: transience of literary fame
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The impermanence of fame aligns with warnings about worldly pride, glory,
+    and downfall.
+  cautions: May be literary reflection rather than mythic motif; if focused on writing
+    or authorship as memory, storytelling_as_power may be relevant.
+  suggested_aliases:
+  - impermanence_of_literary_fame
+  - worldly_fame_is_transient
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transient-force-modeled-by-weather
+  motif_id: transient_force_modeled_by_weather
+  label: Transient force modeled by weather
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads like an abstract philosophical metaphor rather than a
+    clear narrative motif.
+  cautions: Could fit sacred_knowledge, duality, or nature symbolism depending on
+    the passage; avoid mapping solely from broad weather imagery.
+  suggested_aliases:
+  - weather_as_model_of_transient_force
+  - transience_compared_to_weather
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transition-from-communal-system-to-property-rights-norms
+  motif_id: transition_from_communal_system_to_property_rights_norms
+  label: transition from communal system to property-rights norms
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes sociohistorical or ethnographic change rather than
+    a symbolic motif.
+  cautions: If a source myth narrates the sacred origin of property norms, remap to
+    sacred_law or covenant with evidence notes.
+  suggested_aliases:
+  - shift_to_property_rights_norms
+  - communal_to_property_norms_transition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transition-from-indigenous-valuables-to-cash-and-store-goods
+  motif_id: transition_from_indigenous_valuables_to_cash_and_store_goods
+  label: transition from indigenous valuables to cash and store goods
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an economic/contact-era contextual observation, not a reusable
+    mythic motif.
+  cautions: Preserve as ethnographic or historical context if needed, but exclude
+    from motif pattern queries.
+  suggested_aliases:
+  - cash_and_store_goods_replace_indigenous_valuables
+  - transition_to_cash_goods_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transition-from-poor-hunting-and-foraging-to-pastoral-wealth
+  motif_id: transition_from_poor_hunting_and_foraging_to_pastoral_wealth
+  label: Transition from poor hunting and foraging to pastoral wealth
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: uncertain
+  confidence: low
+  rationale: A narrated shift in subsistence and wealth could be a culture-founding
+    or abundance motif.
+  cautions: Could also be ethnographic history or socioeconomic commentary; review
+    whether a mythic agent establishes pastoral wealth.
+  suggested_aliases:
+  - transition_to_pastoral_wealth
+  - subsistence_shift_to_pastoral_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transition-out-of-mourning-through-change-of-clothing
+  motif_id: transition_out_of_mourning_through_change_of_clothing
+  label: Transition out of mourning through change of clothing
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: Changing clothing to end mourning is a ritualized transition within mourning
+    practice.
+  cautions: May also touch sacred_law if framed primarily as prescribed ritual propriety
+    rather than grief expression.
+  suggested_aliases:
+  - mourning_ended_by_change_of_clothing
+  - ritual_clothing_marks_end_of_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transition-to-fortified-settlements
+  motif_id: transition_to_fortified_settlements
+  label: transition to fortified settlements
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe archaeological or settlement-history change
+    rather than a motif.
+  cautions: If a myth explains the sacred founding or fortification of settlements,
+    review for culture_hero, sacred_law, or sacred_combat instead.
+  suggested_aliases:
+  - fortified_settlement_transition
+  - shift_to_fortified_settlements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels beginning with 'transition from/to' appear to be sociohistorical
+  or ethnographic observations rather than motif labels; exclude unless source passages
+  narrativize them as sacred origins or transformations.
+- Single-occurrence legal or ritual-detail labels should be treated as provisional
+  and checked against passage evidence before adding durable aliases.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed for contextual
+    and culturally specific transition labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4043
+  input_sha256: 0b82dfe33bdeee89cf1126f68eb3d3c9ec1d4e8591e043a1d8186db8fd3b075c
+

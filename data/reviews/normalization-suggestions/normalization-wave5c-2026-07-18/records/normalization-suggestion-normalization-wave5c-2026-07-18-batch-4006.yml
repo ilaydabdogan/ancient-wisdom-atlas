@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4006
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.superstitious-food-abstinence
+  motif_id: superstitious_food_abstinence
+  label: superstitious food abstinence
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food abstinence framed as taboo or ritual avoidance fits sacred law and
+    purity regulation.
+  cautions: Generated label says superstitious, which may be an outsider or source
+    framing; verify indigenous context and whether this is ritual law, healing practice,
+    or commentary artifact.
+  suggested_aliases:
+  - food_abstinence_taboo
+  - ritual_food_abstinence
+  - food_avoidance_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supplicants-as-instruments-and-images-moved-by-a-guide
+  motif_id: supplicants_as_instruments_and_images_moved_by_a_guide
+  label: Supplicants as instruments and images moved by a guide
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: uncertain
+  confidence: low
+  rationale: The wording may describe Sufi guidance and surrender of agency within
+    an interior spiritual path.
+  cautions: Could be a metaphor from commentary rather than a narrative motif; source
+    evidence needed to distinguish mystical discipleship, annihilation of self, or
+    textual artifact.
+  suggested_aliases:
+  - supplicant_as_instrument_of_guide
+  - disciple_moved_by_spiritual_guide
+  - surrender_of_agency_to_guide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supplication-and-royal-asylum
+  motif_id: supplication_and_royal_asylum
+  label: supplication and royal asylum
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supplication for asylum invokes binding obligations of mercy, protection,
+    and social order.
+  cautions: If the passage emphasizes a sacred guest-right test, hospitality_test_stranger_guest
+    may be a secondary fit; if purely political asylum, review for over-specific context.
+  suggested_aliases:
+  - royal_asylum_for_suppliant
+  - suppliant_seeks_asylum
+  - asylum_granted_to_suppliant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supplication-for-healing-efficacy-of-herbs
+  motif_id: supplication_for_healing_efficacy_of_herbs
+  label: Supplication for healing efficacy of herbs
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: low
+  rationale: A prayer for herbs to heal suggests sacred power invoked through natural
+    medicines.
+  cautions: Culturally sensitive healing practice; could belong with sacred_substance,
+    divine_intervention, or ritual healing if such a group is added. Avoid reducing
+    the practice to generic supplication without source context.
+  suggested_aliases:
+  - prayer_for_medicinal_herbs
+  - supplication_for_herbal_healing
+  - sacred_healing_herbs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supplication-to-a-deity-for-protection-and-reception
+  motif_id: supplication_to_a_deity_for_protection_and_reception
+  label: supplication to a deity for protection and reception
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayerful appeal for divine protection and favorable reception fits reciprocal
+    sacred petition.
+  cautions: If the scene is asylum, covenant or hospitality obligations may be more
+    central; if it involves direct rescue, divine_intervention may be secondary.
+  suggested_aliases:
+  - prayer_for_divine_protection
+  - supplication_for_divine_reception
+  - appeal_to_deity_for_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supplication-to-natural-and-directional-powers
+  motif_id: supplication_to_natural_and_directional_powers
+  label: supplication to natural and directional powers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritual address to powers suggests reciprocal sacred petition and offering
+    logic.
+  cautions: Culturally specific directional cosmology may be better represented by
+    a future sacred geography or ritual-direction group; verify whether natural powers
+    are deities, directions, ancestors, or ceremonial elements.
+  suggested_aliases:
+  - prayer_to_directional_powers
+  - supplication_to_nature_powers
+  - ritual_address_to_directions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supplicatory-hand-raising-and-appeasement
+  motif_id: supplicatory_hand_raising_and_appeasement
+  label: Supplicatory hand-raising and appeasement
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Gesture of supplication and appeasement fits ritual petition to repair
+    or maintain sacred relationship.
+  cautions: Hand-raising may be an iconographic or ritual detail; preserve gesture
+    specificity as evidence rather than promoting it as a standalone motif.
+  suggested_aliases:
+  - hand_raising_in_supplication
+  - appeasement_by_raised_hands
+  - ritual_gesture_of_supplication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supposedly-unfathomable-lake-associated-with-legends
+  motif_id: supposedly_unfathomable_lake_associated_with_legends
+  label: supposedly unfathomable lake associated with legends
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a local-place description or legend note rather than
+    a reusable symbolic motif.
+  cautions: If source evidence shows the lake functions as an otherworld threshold,
+    sacred water, or underworld entrance, remap to sacred_waters, descent, or otherworld
+    instead.
+  suggested_aliases:
+  - legendary_unfathomable_lake
+  - local_legendary_lake
+  - unfathomable_lake_tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.suppressed-idea-emerging-victorious
+  motif_id: suppressed_idea_emerging_victorious
+  label: Suppressed idea emerging victorious
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: A hidden or suppressed truth prevailing may fit sacred knowledge and
+    transformative teaching.
+  cautions: The label is abstract and may be commentary, intellectual history, or
+    metaphor rather than a narrative motif; source context is required.
+  suggested_aliases:
+  - suppressed_truth_prevails
+  - hidden_idea_vindicated
+  - repressed_wisdom_emerges
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.suppressed-sect-dispersed-by-surviving-remnants
+  motif_id: suppressed_sect_dispersed_by_surviving_remnants
+  label: Suppressed sect dispersed by surviving remnants
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe sectarian history or transmission aftermath
+    rather than a mythic motif.
+  cautions: Sensitive religious-historical framing; if a passage presents a remnant
+    survival motif with sacred renewal, human review could consider survivor_pair
+    or covenant, but do not infer from this label alone.
+  suggested_aliases:
+  - surviving_remnant_of_suppressed_sect
+  - dispersed_sectarian_remnant
+  - suppressed_group_survives_in_remnants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence supplication or ritual-petition
+  phrases; preserve gesture, medicinal, and directional details as evidence unless
+  recurrence supports narrower groups.
+- Avoid transmission or sectarian-history claims in normalization; labels about suppressed
+  sects or local legendary places should be excluded unless source passages show a
+  reusable motif function.
+- Culturally specific Native American and Zulu ritual labels need human review for
+  source framing and terminology before final mapping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items require source-context review
+    because generated labels may reflect commentary, outsider terminology, or local
+    ritual detail.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4006
+  input_sha256: 8e3d3a4a94f7eb93e20f59aad5fa45dacddcd61782ad38fd3ea37ec79ec48186
+

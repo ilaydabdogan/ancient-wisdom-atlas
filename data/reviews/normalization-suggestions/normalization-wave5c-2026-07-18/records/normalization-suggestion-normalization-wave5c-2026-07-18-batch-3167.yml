@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3167
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.austerity-at-the-first-night-halt
+  motif_id: austerity_at_the_first_night_halt
+  label: Austerity at the first night halt
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label suggests ascetic self-denial or restraint, which can fit sacrifice
+    as surrender of comfort, but the travel-night context is highly specific.
+  cautions: Single occurrence; may be a passage detail in a journey rather than a
+    reusable motif. Could also relate to hero_journey or sacred_law depending on source
+    evidence.
+  suggested_aliases:
+  - first_night_halt_austerity
+  - ascetic_restraint_during_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.austerity-of-filial-mourning
+  motif_id: austerity_of_filial_mourning
+  label: Austerity of filial mourning
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on mourning practice, with austerity marking disciplined
+    grief and filial obligation.
+  cautions: If the passage primarily encodes filial duty or ritual propriety rather
+    than grief expression, sacred_law may be a useful secondary review placement.
+  suggested_aliases:
+  - filial_mourning_austerity
+  - ascetic_filial_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.austerity-proposal-stricter-than-established-rule
+  motif_id: austerity_proposal_stricter_than_established_rule
+  label: austerity proposal stricter than established rule
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A proposed stricter ascetic rule concerns regulation of religious discipline,
+    fitting sacred law if treated as normative order.
+  cautions: May be a monastic-vinaya or doctrinal-history artifact rather than a mythic
+    motif. Needs source context before inclusion in pattern queries.
+  suggested_aliases:
+  - stricter_austerity_rule_proposal
+  - ascetic_rule_stricter_than_established_norm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-adjudication-after-communal-dispute
+  motif_id: authoritative_adjudication_after_communal_dispute
+  label: authoritative adjudication after communal dispute
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes resolution of a communal dispute by recognized authority,
+    a social-order and sacred-law function.
+  cautions: If it is only an institutional history note, it may be too contextual
+    for motif queries; verify narrative or normative significance.
+  suggested_aliases:
+  - communal_dispute_authoritative_adjudication
+  - authoritative_resolution_of_communal_dispute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-allowance-of-monastic-food
+  motif_id: authoritative_allowance_of_monastic_food
+  label: authoritative allowance of monastic food
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: An authoritative food allowance concerns religious dietary regulation
+    and monastic discipline, which fits sacred law broadly.
+  cautions: Likely a vinaya/legal passage detail; may be too specific unless recurring
+    across sources as a ritual-law pattern.
+  suggested_aliases:
+  - monastic_food_allowance
+  - authoritative_dietary_allowance_for_monastics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-assembly-in-a-grotto
+  motif_id: authoritative_assembly_in_a_grotto
+  label: authoritative assembly in a grotto
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: An authoritative assembly may concern transmission or preservation of
+    sacred teaching, while the grotto may mark a liminal setting.
+  cautions: The label may simply describe an event location. Do not map to cave/descent
+    or axis_mundi unless the grotto has symbolic or transformative function.
+  suggested_aliases:
+  - assembly_in_a_grotto
+  - authoritative_council_in_a_cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-assembly-judges-doctrinal-deviance
+  motif_id: authoritative_assembly_judges_doctrinal_deviance
+  label: Authoritative assembly judges doctrinal deviance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A recognized assembly judging deviance is a communal enforcement of sacred
+    norm and doctrine.
+  cautions: Could also touch divine_judgment metaphorically, but the immediate function
+    is institutional/legal adjudication, not necessarily divine punishment.
+  suggested_aliases:
+  - assembly_judges_doctrinal_deviance
+  - communal_judgment_of_doctrinal_deviation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-canon-distinguished-from-later-collections
+  motif_id: authoritative_canon_distinguished_from_later_collections
+  label: authoritative canon distinguished from later collections
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes canon classification and textual-history distinction,
+    not a narrative or symbolic motif.
+  cautions: Preserve as provenance or textual-critical metadata if useful, but exclude
+    from motif pattern queries.
+  suggested_aliases:
+  - canon_distinguished_from_later_collections
+  - authoritative_canon_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-canon-not-expanded-by-later-interpreters
+  motif_id: authoritative_canon_not_expanded_by_later_interpreters
+  label: authoritative canon not expanded by later interpreters
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns textual canon closure and later interpretive limits,
+    making it a scholarly/textual artifact.
+  cautions: Do not treat as sacred law unless the source passage narrativizes canon
+    closure as a sacred command or communal ordeal.
+  suggested_aliases:
+  - closed_authoritative_canon
+  - canon_not_expanded_by_later_interpreters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-communal-adjudication
+  motif_id: authoritative_communal_adjudication
+  label: authoritative communal adjudication
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Authoritative adjudication by or for a community fits sacred law as maintenance
+    of social and religious order.
+  cautions: Broad institutional label; review whether it recurs as a motif or only
+    summarizes a specific disciplinary episode.
+  suggested_aliases:
+  - communal_adjudication_by_authority
+  - authoritative_resolution_by_the_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Buddhist items appear to be monastic-law, canon-history, or council/adjudication
+  labels; distinguish reusable motifs from vinaya or textual-history artifacts during
+  review.
+- Austerity labels may belong under sacrifice, sacred_law, mystical_quest, or lament
+  depending on whether the passage emphasizes self-surrender, rule observance, spiritual
+  discipline, or mourning practice.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source evidence needed for single-occurrence
+    institutional and austerity labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3167
+  input_sha256: '09098f1ef281a8792275508a9f2f867dd843c9fcfa8483f24f5226eedd918293'
+

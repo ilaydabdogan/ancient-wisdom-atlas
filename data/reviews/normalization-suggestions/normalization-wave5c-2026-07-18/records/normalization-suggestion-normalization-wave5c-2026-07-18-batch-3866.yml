@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3866
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.regional-identity-encoded-in-textile-pattern
+  motif_id: regional_identity_encoded_in_textile_pattern
+  label: regional identity encoded in textile pattern
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve sacred craft, social identity, or ethnographic material-culture
+    classification, but the label alone does not show a narrative or symbolic motif.
+  cautions: Single occurrence and culturally specific textile evidence; avoid reducing
+    regional identity markers to a broad motif without source context.
+  suggested_aliases:
+  - textile_pattern_as_regional_identity_marker
+  - regional_identity_in_woven_design
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-mapping-of-doctrinal-schools
+  motif_id: regional_mapping_of_doctrinal_schools
+  label: regional mapping of doctrinal schools
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads as a scholarly or classificatory mapping of doctrinal traditions
+    by region rather than a mythic motif.
+  cautions: If a passage personifies regions or doctrinal schools in a narrative,
+    review separately; otherwise preserve only as contextual metadata.
+  suggested_aliases:
+  - regional_doctrinal_mapping
+  - geographic_classification_of_doctrinal_schools
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-opposition-between-connacht-and-ulster
+  motif_id: regional_opposition_between_connacht_and_ulster
+  label: regional opposition between Connacht and Ulster
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: May be background political geography for Irish heroic conflict, but
+    not enough detail shows sacred combat or social-order function.
+  cautions: Place-name and polity-only opposition may be a contextual artifact; map
+    to sacred_combat only if the passage centers warfare, raiding, or ritualized conflict.
+  suggested_aliases:
+  - Connacht_Ulster_regional_opposition
+  - opposition_between_Connacht_and_Ulster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-prophetesses-assimilated-into-one-long-lived-figure
+  motif_id: regional_prophetesses_assimilated_into_one_long_lived_figure
+  label: Regional prophetesses assimilated into one long-lived figure
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The prophetess element points toward prophecy_divination, while assimilation
+    into one figure may be a reception or syncretic classification note.
+  cautions: Could be a textual/history-of-tradition artifact rather than a narrative
+    motif; verify whether the source narrates a long-lived prophetic woman or comments
+    on regional variants.
+  suggested_aliases:
+  - regional_prophetesses_merged_into_one_figure
+  - assimilated_long_lived_prophetess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - sacred_knowledge
+    - _meta_textual
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-similarity-of-kayak-construction
+  motif_id: regional_similarity_of_kayak_construction
+  label: Regional similarity of kayak construction
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a comparative material-culture observation about construction
+    similarities, not a symbolic or narrative motif.
+  cautions: If a specific myth narrates the sacred origin, crafting, or animation
+    of a kayak, create a separate evidence-based motif under sacred_craft.
+  suggested_aliases:
+  - comparative_kayak_construction_similarity
+  - regional_kayak_construction_similarity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-tapir-hide-shield-distribution
+  motif_id: regional_tapir_hide_shield_distribution
+  label: regional tapir-hide shield distribution
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes distribution of a regional artifact type rather than
+    a motif of sacred warfare or power objects.
+  cautions: If the shield has mythic origin, ritual power, or a narrative role, review
+    a separate motif under sacred_treasures or sacred_combat.
+  suggested_aliases:
+  - tapir_hide_shield_distribution
+  - regional_distribution_of_tapir_hide_shields
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-variants-of-a-shared-ceremony
+  motif_id: regional_variants_of_a_shared_ceremony
+  label: Regional variants of a shared ceremony
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This sounds like a comparative note about ceremonial variants rather
+    than the ceremony's symbolic function.
+  cautions: Culturally sensitive ritual material; determine the ceremony's function
+    before mapping to sacrifice, sacred_time, initiation, or sacred_exchange.
+  suggested_aliases:
+  - regional_ceremonial_variants
+  - regional_variation_of_shared_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - sacred_time
+    - initiation
+    - sacred_exchange
+    - _meta_textual
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-variation-in-fishing-net-construction
+  motif_id: regional_variation_in_fishing_net_construction
+  label: regional variation in fishing-net construction
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: A regional variation in tool construction is an ethnographic or comparative
+    artifact, not a mythic motif as stated.
+  cautions: If a myth explains the origin of fishing nets or presents net-making as
+    sacred craft, index that separate narrative evidence under sacred_craft or culture_hero.
+  suggested_aliases:
+  - regional_fishing_net_construction_variation
+  - variation_in_fishing_net_technology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regnal-year-and-eponym-year-chronology
+  motif_id: regnal_year_and_eponym_year_chronology
+  label: Regnal-year and eponym-year chronology
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a chronological dating system or historiographic apparatus, not
+    a motif for pattern queries.
+  cautions: If a text sacralizes royal time or names years through divine kingship,
+    review separately under sacred_time or royal_legitimacy.
+  suggested_aliases:
+  - regnal_year_chronology
+  - eponym_year_chronology
+  - regnal_and_eponym_dating
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regret-after-discarding-original-livelihood
+  motif_id: regret_after_discarding_original_livelihood
+  label: regret after discarding original livelihood
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an ethical or narrative consequence theme, but it does not
+    clearly match an existing sacred-law, wisdom, or downfall group without context.
+  cautions: May be a fable moral or passage-specific plot detail; map to wisdom or
+    pride_and_downfall only if the passage frames it as a recurring moral lesson.
+  suggested_aliases:
+  - regret_after_abandoning_livelihood
+  - discarded_livelihood_regretted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - wisdom
+    - pride_and_downfall
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are regional, technological, chronological, or comparative
+  labels; several appear better preserved as metadata rather than motif-query facets.
+- Where ritual or culturally specific practices are mentioned, source context should
+  determine symbolic function before mapping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy changes made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3866
+  input_sha256: 2d7b81eaf82e0b90f74f28c0eaaba3ab17cab973325cb01c9352a4a631cf3e82
+

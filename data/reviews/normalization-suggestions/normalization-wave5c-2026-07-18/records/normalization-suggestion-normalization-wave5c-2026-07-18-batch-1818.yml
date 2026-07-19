@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1818
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.desired-golden-cup-as-condition-for-ending-hostility
+  motif_id: desired_golden_cup_as_condition_for_ending_hostility
+  label: Desired golden cup as condition for ending hostility
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A demanded golden cup may function as ransom, peace condition, quest
+    object, or sacred treasure depending on the episode.
+  cautions: Single occurrence and object-specific; do not map to sacred_treasures
+    or covenant without evidence of power-object function or binding peace agreement.
+  suggested_aliases:
+  - golden_cup_as_peace_condition
+  - demanded_cup_to_end_hostility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.desired-land-guarded-or-inhabited-by-overwhelming-peoples
+  motif_id: desired_land_guarded_or_inhabited_by_overwhelming_peoples
+  label: desired land guarded or inhabited by overwhelming peoples
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: The desired land blocked by overwhelming inhabitants frames entry into
+    a promised or quest destination as an ordeal.
+  cautions: Could instead belong with divine_judgment, covenant, or sacred_combat
+    if the passage emphasizes divine promise, unbelief, or conquest rather than journey
+    ordeal.
+  suggested_aliases:
+  - desired_land_blocked_by_overwhelming_inhabitants
+  - promised_land_guarded_by_powerful_peoples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.desired-man-causes-jealousy-but-passes-unharmed
+  motif_id: desired_man_causes_jealousy_but_passes_unharmed
+  label: Desired man causes jealousy but passes unharmed
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on erotic desire and jealousy, which fits the sacred_love
+    field at broad query level.
+  cautions: May be merely an episode detail about rivalry or social conflict; if supernatural
+    protection is central, divine_intervention may be a better secondary mapping.
+  suggested_aliases:
+  - desired_man_provokes_jealousy_but_escapes_harm
+  - jealousy_over_desired_man_without_harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.desired-organ-as-lure-for-predation
+  motif_id: desired_organ_as_lure_for_predation
+  label: desired organ as lure for predation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Using a desired body part as bait for predation is a deception or lure
+    pattern close to existing predator-deception children.
+  cautions: If the organ is valued for ritual, medicine, or sacrifice rather than
+    deception, sacred_substance or sacrifice may need review; label is very specific.
+  suggested_aliases:
+  - body_organ_used_as_predatory_lure
+  - desired_body_part_as_bait
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.despised-or-simple-younger-son-gains-fortune-through-apparent-foolishness
+  motif_id: despised_or_simple_younger_son_gains_fortune_through_apparent_foolishness
+  label: despised or simple younger son gains fortune through apparent foolishness
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Despised Youngest Child Succeeds
+  relationship: child
+  confidence: medium
+  rationale: The recurrent folktale structure of the underestimated younger or foolish
+    child succeeding is not well captured by sibling_pair or hero_journey alone.
+  cautions: Single item in this batch, but related labels below suggest a cluster;
+    review whether to add as a durable family-role success group rather than overloading
+    sibling_pair.
+  suggested_aliases:
+  - simple_younger_son_succeeds
+  - despised_younger_son_gains_fortune
+  - foolish_younger_son_wins_fortune
+  suggested_new_group:
+    id: despised_youngest_child_succeeds
+    label: Despised Youngest Child Succeeds
+    description: An underestimated, despised, youngest, simple, or apparently foolish
+      child succeeds, gains fortune, or is favored after elder siblings or socially
+      superior rivals fail.
+    parent_group_ids:
+    - sibling_pair
+    - hero_journey
+    related_group_ids:
+    - royal_legitimacy
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing sibling_pair covers sibling relations
+      broadly, but not the specific family-rank reversal in which the despised youngest
+      succeeds through humility, luck, foolishness, or hidden virtue.
+- suggestion_id: normalization.suggestion.despised-youngest-son-favored-over-elder-brothers
+  motif_id: despised_youngest_son_favored_over_elder_brothers
+  label: despised youngest son favored over elder brothers
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Despised Youngest Child Succeeds
+  relationship: child
+  confidence: medium
+  rationale: Favoring the despised youngest over elder brothers is a sibling-rank
+    reversal pattern not distinctively covered by current groups.
+  cautions: Could map to royal_legitimacy if the favor concerns succession; otherwise
+    it fits the proposed youngest-child reversal cluster.
+  suggested_aliases:
+  - youngest_son_favored_over_elder_brothers
+  - despised_youngest_child_chosen_over_siblings
+  suggested_new_group:
+    id: despised_youngest_child_succeeds
+    label: Despised Youngest Child Succeeds
+    description: An underestimated, despised, youngest, simple, or apparently foolish
+      child succeeds, gains fortune, or is favored after elder siblings or socially
+      superior rivals fail.
+    parent_group_ids:
+    - sibling_pair
+    - hero_journey
+    related_group_ids:
+    - royal_legitimacy
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing sibling_pair covers sibling relations
+      broadly, but not the specific family-rank reversal in which the despised youngest
+      succeeds through humility, luck, foolishness, or hidden virtue.
+- suggestion_id: normalization.suggestion.despised-youngest-son-succeeds-after-older-sons-fail
+  motif_id: despised_youngest_son_succeeds_after_older_sons_fail
+  label: Despised youngest son succeeds after older sons fail
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Despised Youngest Child Succeeds
+  relationship: child
+  confidence: high
+  rationale: This is the clearest form of the underestimated-youngest sibling success
+    pattern.
+  cautions: May also support initiation or hero_journey if the success follows a quest
+    ordeal; proposed group preserves the family-rank reversal.
+  suggested_aliases:
+  - youngest_son_succeeds_after_older_sons_fail
+  - despised_youngest_succeeds
+  - underestimated_youngest_child_succeeds
+  suggested_new_group:
+    id: despised_youngest_child_succeeds
+    label: Despised Youngest Child Succeeds
+    description: An underestimated, despised, youngest, simple, or apparently foolish
+      child succeeds, gains fortune, or is favored after elder siblings or socially
+      superior rivals fail.
+    parent_group_ids:
+    - sibling_pair
+    - hero_journey
+    related_group_ids:
+    - royal_legitimacy
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing sibling_pair covers sibling relations
+      broadly, but not the specific family-rank reversal in which the despised youngest
+      succeeds through humility, luck, foolishness, or hidden virtue.
+- suggestion_id: normalization.suggestion.despoiled-nest-brings-vengeance-from-giant-parent-birds
+  motif_id: despoiled_nest_brings_vengeance_from_giant_parent_birds
+  label: Despoiled nest brings vengeance from giant parent birds
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Vengeance following violation of a nest frames retaliation for harming
+    protected kin or creatures as moral consequence.
+  cautions: If the giant birds are simply monsters or animal antagonists, this may
+    be an animal-tale episode rather than divine judgment; preserve bird-parent specificity
+    as evidence.
+  suggested_aliases:
+  - vengeance_for_despoiled_nest
+  - giant_parent_birds_avenging_nest_violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destroyed-younger-sibling-in-compressed-children-s-tale
+  motif_id: destroyed_younger_sibling_in_compressed_children_s_tale
+  label: destroyed younger sibling in compressed children’s tale
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'compressed children's tale' suggests a summary or form-critical
+    artifact rather than a stable symbolic motif.
+  cautions: If source evidence describes an actual sibling's death or destruction,
+    remap to sibling_pair, death_and_transformation, or lament_and_mourning after
+    review.
+  suggested_aliases:
+  - younger_sibling_destroyed_in_children_tale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-through-thoughtless-love
+  motif_id: destruction_through_thoughtless_love
+  label: destruction through thoughtless love
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Love or attachment causing harm belongs in the sacred_love field, especially
+    where desire must be disciplined or transformed.
+  cautions: Buddhist context may emphasize attachment, heedlessness, or moral causation
+    more than love; divine_judgment or sacred_knowledge may be secondary if ethical
+    teaching is central.
+  suggested_aliases:
+  - thoughtless_love_causes_destruction
+  - destructive_unreflective_love
+  - harm_through_unwise_affection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear misbucketed under love/family/body but actually
+  concern journey ordeal, deception, judgment, or textual artifacts.
+- The three despised/youngest-son labels form a coherent candidate cluster; human
+  review should decide whether to add a new canonical group or fold them under sibling_pair/hero_journey
+  as granular children.
+- All suggestions are provisional and make no claim about transmission or common origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated from labels only; source
+    passage review recommended for low-confidence and single-occurrence items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1818
+  input_sha256: 466036045baf856aafa3be2b709c7c5ca9dc27375eaab1a398d70dcaa2e106e3
+

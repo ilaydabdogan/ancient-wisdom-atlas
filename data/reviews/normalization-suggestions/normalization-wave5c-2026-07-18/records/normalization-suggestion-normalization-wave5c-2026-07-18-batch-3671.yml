@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3671
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mercy-hoped-for-despite-sin
+  motif_id: mercy_hoped_for_despite_sin
+  label: mercy hoped for despite sin
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hope for mercy despite sin belongs to moral reckoning, repentance, and
+    possible divine pardon after wrongdoing.
+  cautions: In Sufi context this may also be devotional longing or mystical trust;
+    review whether the passage emphasizes judgment, repentance, or divine beloved
+    imagery.
+  suggested_aliases:
+  - hope_for_mercy_despite_sin
+  - divine_mercy_despite_sin
+  - repentant_hope_for_mercy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mercy-or-quarter-after-leaders-are-defeated
+  motif_id: mercy_or_quarter_after_leaders_are_defeated
+  label: Mercy or quarter after leaders are defeated
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The taxonomy already places mercy to defeated enemies and suppliant mercy/refusal
+    under covenant as a social bond and mercy obligation pattern.
+  cautions: Could also index under sacred_combat if the focus is battlefield surrender
+    rather than mercy as a moral or social obligation.
+  suggested_aliases:
+  - quarter_after_defeat
+  - mercy_to_defeated_leaders
+  - mercy_after_leaders_defeated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.merit-and-sin-attached-to-pollution-removal
+  motif_id: merit_and_sin_attached_to_pollution_removal
+  label: merit and sin attached to pollution removal
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Pollution removal with attached moral merit or sin is a ritual purity
+    and sacred-law pattern.
+  cautions: May also involve divine_judgment if the passage emphasizes karmic or eschatological
+    accounting more than ritual regulation.
+  suggested_aliases:
+  - pollution_removal_as_merit_or_sin
+  - ritual_pollution_removal_with_moral_consequence
+  - merit_and_sin_in_purity_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.merit-assessment-leading-to-office-rank-and-salary
+  motif_id: merit_assessment_leading_to_office_rank_and_salary
+  label: Merit assessment leading to office, rank, and salary
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Assessment of merit for office and rank fits social order, ethical governance,
+    and rule by virtue more than mythic combat or revelation.
+  cautions: Could be an administrative or philosophical passage artifact if no narrative
+    or ritual motif is present; review before broad indexing.
+  suggested_aliases:
+  - merit_based_office_and_rank
+  - virtue_assessment_for_official_rank
+  - meritocratic_social_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.merit-leading-to-heaven-despite-possible-evil
+  motif_id: merit_leading_to_heaven_despite_possible_evil
+  label: Merit leading to heaven despite possible evil
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Merit determining heavenly outcome despite evil fits moral reckoning
+    and postmortem consequence.
+  cautions: In Buddhist context this may be karmic causality rather than judgment
+    by a deity; preserve local doctrinal framing and consider afterlife_passage if
+    geography of rebirth is central.
+  suggested_aliases:
+  - merit_leads_to_heaven_despite_evil
+  - heavenly_rebirth_by_merit
+  - merit_overbalancing_evil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.merit-linked-inferior-allocation
+  motif_id: merit_linked_inferior_allocation
+  label: merit-linked inferior allocation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to know whether it concerns karmic reward,
+    social distribution, monastic allocation, or narrative fairness.
+  cautions: May be a passage-specific doctrinal or administrative detail rather than
+    a motif; source evidence needed before mapping to divine_judgment, sacred_law,
+    or sacred_exchange.
+  suggested_aliases:
+  - inferior_allocation_by_merit
+  - allocation_according_to_merit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.message-of-safety-averts-renewed-attack
+  motif_id: message_of_safety_averts_renewed_attack
+  label: Message of safety averts renewed attack
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A safety message preventing renewed violence functions as peace assurance
+    or restoration of social bond after conflict.
+  cautions: If the emphasis is tactical communication during warfare, sacred_combat
+    may be a better secondary mapping; if purely plot mechanics, it may be over-specific.
+  suggested_aliases:
+  - safety_message_prevents_attack
+  - peace_message_averts_renewed_attack
+  - assurance_of_safety_ends_hostility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.message-or-permission-arriving-too-late
+  motif_id: message_or_permission_arriving_too_late
+  label: Message or permission arriving too late
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could be tragic delay, failed communication, fate, social permission,
+    or a passage-specific plot device.
+  cautions: Do not map to fate or judgment without evidence that lateness causes irreversible
+    doom or moral reckoning.
+  suggested_aliases:
+  - delayed_message_arrives_too_late
+  - permission_arrives_too_late
+  - too_late_message
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.message-poem-as-mediator-of-supplication
+  motif_id: message_poem_as_mediator_of_supplication
+  label: Message-poem as mediator of supplication
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A poem carrying supplication treats expressive speech as an effective
+    mediating power.
+  cautions: Could also fit sacred_exchange if the poem is chiefly petition for divine
+    favor, or sacred_love if addressed to the divine beloved.
+  suggested_aliases:
+  - supplicatory_message_poem
+  - poem_as_supplication_mediator
+  - petition_carried_by_poetry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.message-sent-by-arrow
+  motif_id: message_sent_by_arrow
+  label: message sent by arrow
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a delivery mechanism rather than a clear symbolic
+    or narrative function.
+  cautions: Could belong with sacred_combat, recognition tokens, or performative speech
+    depending on what the message does; otherwise preserve only as episode detail.
+  suggested_aliases:
+  - arrow_borne_message
+  - message_delivered_by_arrow
+  - arrow_as_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern merit, mercy, and social/moral allocation; preserve local
+  doctrinal framing, especially Buddhist karma and Sufi mercy, rather than forcing
+  all into deity-centered judgment.
+- Message-delivery labels are often plot mechanisms. Map them only when the message
+  has a recurring function such as peace assurance, supplication, recognition, or
+  sacred speech.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; single-occurrence and compressed
+    labels need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3671
+  input_sha256: 4ecd40331b6945be22d2115c012b7603e45e90193ef049aac3db80e4d05cdfc8
+

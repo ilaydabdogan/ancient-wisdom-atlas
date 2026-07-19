@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2755
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mistaken-presence-through-a-hero-s-armor
+  motif_id: mistaken_presence_through_a_hero_s_armor
+  label: mistaken presence through a hero's armor
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Closely matches existing armor-substitution aliases under sacred_combat,
+    where armor creates mistaken identity or substitute presence in battle.
+  cautions: Single occurrence; preserve the mistaken-presence detail rather than promoting
+    as a standalone motif.
+  suggested_aliases:
+  - substitute_warrior_in_another_hero_s_armor
+  - substitution_by_wearing_another_hero_s_armor
+  - borrowed_armor_creates_mistaken_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistreated-herd-boy-s-revenge-on-cruel-mistress
+  motif_id: mistreated_herd_boy_s_revenge_on_cruel_mistress
+  label: mistreated herd-boy's revenge on cruel mistress
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve social reversal, revenge, servant oppression,
+    trickster action, or magical retaliation, but the function is unclear from wording
+    alone.
+  cautions: Over-specific single occurrence; source evidence is needed to decide between
+    divine_judgment, sacred_law, trickster, or exclusion as tale detail.
+  suggested_aliases:
+  - mistreated_herd_boy_takes_revenge
+  - servant_revenge_against_cruel_master_or_mistress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistreated-servant-or-herdsman-takes-magical-revenge
+  motif_id: mistreated_servant_or_herdsman_takes_magical_revenge
+  label: Mistreated servant or herdsman takes magical revenge
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Magical revenge by a low-status worker may be punishment, social reversal,
+    or trickster-like retaliation, but no existing group cleanly captures it without
+    passage context.
+  cautions: Potentially related to the Estonian herd-boy label, but one occurrence
+    here and one there are not enough to create a group without evidence review.
+  suggested_aliases:
+  - mistreated_servant_takes_magical_revenge
+  - mistreated_herdsman_takes_magical_revenge
+  - servant_revenge_against_cruel_master_or_mistress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mock-epic-arming-of-warriors
+  motif_id: mock_epic_arming_of_warriors
+  label: mock-epic arming of warriors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes literary mode or parody of an epic arming scene rather
+    than a mythic action pattern itself.
+  cautions: If the passage evidence concerns actual ritual arming before combat, map
+    to sacred_combat; if it is mainly genre commentary, exclude from motif queries.
+  suggested_aliases:
+  - parodic_epic_arming_scene
+  - mock_heroic_arming_scene
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mock-heroic-inversion-of-bloodied-weapon
+  motif_id: mock_heroic_inversion_of_bloodied_weapon
+  label: Mock-heroic inversion of bloodied weapon
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording identifies a mock-heroic literary inversion rather than a
+    stable narrative motif about combat or sacred weapons.
+  cautions: If a real bloodied weapon functions as proof, trophy, or sacred object
+    in the passage, remap to divine_warrior, sacred_combat, or sacred_treasures after
+    review.
+  suggested_aliases:
+  - mock_heroic_bloodied_weapon_inversion
+  - parodic_inversion_of_bloodied_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mock-night-attack-with-harmless-weapons
+  motif_id: mock_night_attack_with_harmless_weapons
+  label: mock night attack with harmless weapons
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be ritualized mock combat, play, initiation, social training, or
+    a passage-specific event; current groups do not disambiguate it.
+  cautions: Do not map to sacred_combat unless the source frames the mock attack as
+    ritually or socially significant rather than incidental play.
+  suggested_aliases:
+  - ritualized_mock_night_attack
+  - mock_attack_with_harmless_weapons
+  - play_combat_with_harmless_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mocked-disabled-warrior-proves-prowess
+  motif_id: mocked_disabled_warrior_proves_prowess
+  label: Mocked disabled warrior proves prowess
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior whose underestimated body is vindicated through prowess fits
+    heroic martial proof and warrior honor under divine_warrior.
+  cautions: Handle disability wording carefully; may also be a social mockery/reversal
+    motif rather than sacred combat if no battle prowess is shown.
+  suggested_aliases:
+  - underestimated_warrior_proves_prowess
+  - mocked_warrior_vindicated_by_combat_prowess
+  - disabled_warrior_proves_martial_worth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mockery-of-exposed-cowardice
+  motif_id: mockery_of_exposed_cowardice
+  label: mockery of exposed cowardice
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an ethical or social response to failed courage, but does
+    not clearly match sacred combat, judgment, or downfall without context.
+  cautions: May be too generic or episode-specific for motif queries; review whether
+    cowardice exposure drives narrative consequence or is only commentary.
+  suggested_aliases:
+  - cowardice_exposed_and_mocked
+  - public_mockery_of_cowardice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-attracted-by-shining-red-salmon
+  motif_id: monster_attracted_by_shining_red_salmon
+  label: Monster attracted by shining red salmon
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The motif combines monster, lure, color, and salmon in a highly specific
+    local episode; broader function is unclear from the label.
+  cautions: Culturally specific animal imagery should be preserved; map only after
+    evidence shows whether the salmon is bait, sacred animal, trickster device, or
+    monster-slaying setup.
+  suggested_aliases:
+  - monster_lured_by_shining_fish
+  - monster_attracted_by_red_salmon
+  - shining_salmon_as_monster_lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-being-category
+  motif_id: monster_being_category
+  label: Monster-being category
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a classificatory category of beings rather than a
+    narrative motif or symbolic action pattern.
+  cautions: If the source passage describes a specific monster role, guardian, combat
+    opponent, or chaos being, create a more precise evidence label before mapping.
+  suggested_aliases:
+  - monster_being_classification
+  - category_of_monster_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch use mock-heroic or classificatory wording; these should
+  generally be excluded unless passage evidence shows a recurring narrative function.
+- The two mistreated servant/herdsman revenge labels may represent an emerging low-status
+  revenge or social reversal pattern, but source review is needed before proposing
+  a new group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional automated placement suggestions; ambiguous single-occurrence
+    and culturally specific labels require source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2755
+  input_sha256: dfac8a375c318145b9fa2f1251337fc3ae0fed8bf81255a1d098767aa623136b
+

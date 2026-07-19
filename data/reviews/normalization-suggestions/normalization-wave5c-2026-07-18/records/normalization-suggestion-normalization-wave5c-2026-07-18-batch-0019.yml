@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0019
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ancestral-ritual-prototype
+  motif_id: ancestral_ritual_prototype
+  label: Ancestral ritual prototype
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An ancestral prototype for ritual practice fits ancestor-related ritual
+    precedent and care for relations with the dead.
+  cautions: Could instead be sacred_law or covenant if the passage emphasizes legal
+    precedent rather than ancestor ritual agency.
+  suggested_aliases:
+  - ancestor_ritual_precedent
+  - ancestral_model_for_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-ruins-as-former-clan-homes
+  motif_id: ancestral_ruins_as_former_clan_homes
+  label: Ancestral ruins as former clan homes
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ancestral place-memory, sacred geography, or an
+    ethnographic place-history note rather than a clear motif.
+  cautions: Culturally sensitive local landscape and clan-history context; avoid reducing
+    named ancestral sites to generic ruins without source review.
+  suggested_aliases:
+  - ancestral_clan_ruins
+  - ruins_as_ancestral_homes
+  - ancestral_place_memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-sacred-books-preserved-by-priestly-custodians
+  motif_id: ancestral_sacred_books_preserved_by_priestly_custodians
+  label: Ancestral sacred books preserved by priestly custodians
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sacred books preserved by custodians concern transmission and protection
+    of sacred knowledge.
+  cautions: If the label is only about textual history or manuscript preservation,
+    it may be a meta-textual artifact rather than a motif.
+  suggested_aliases:
+  - priestly_preservation_of_sacred_books
+  - custodians_of_ancestral_sacred_texts
+  - ancestral_sacred_text_custody
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-settler-burial-in-a-named-howe
+  motif_id: ancestral_settler_burial_in_a_named_howe
+  label: ancestral settler burial in a named howe
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Burial of an ancestral settler in a named mound is a memorializing burial-place
+    motif.
+  cautions: May be primarily place-name or settlement etiology; preserve the named
+    howe detail as evidence rather than promoting it canonically.
+  suggested_aliases:
+  - ancestral_burial_in_named_mound
+  - settler_burial_in_howe
+  - burial_mound_memorializes_ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-shades-and-spirit-beings
+  motif_id: ancestral_shades_and_spirit_beings
+  label: ancestral shades and spirit beings
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: role_variant
+  confidence: medium
+  rationale: Ancestral shades are active dead or ancestor spirits, fitting the ancestor-relations
+    complex.
+  cautions: If the spirits haunt, punish, or act as tutelary beings, restless_dead_haunting_vengeance
+    or divine_intervention may be secondary fits.
+  suggested_aliases:
+  - ancestral_shades
+  - ancestor_spirit_beings
+  - ancestral_dead_as_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-song-with-obsolete-words
+  motif_id: ancestral_song_with_obsolete_words
+  label: ancestral song with obsolete words
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate sacred song, oral transmission, ancestral memory,
+    or a linguistic commentary artifact.
+  cautions: Obsolete words may be a textual/ethnographic observation; review whether
+    the song has ritual power before mapping to sacred_knowledge, sacred_song, or
+    storytelling_as_power.
+  suggested_aliases:
+  - archaic_ancestral_song
+  - ancestral_song_with_ancient_words
+  - ritual_song_with_obsolete_words
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-spirits-aiding-the-living
+  motif_id: ancestral_spirits_aiding_the_living
+  label: Ancestral spirits aiding the living
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Ancestral spirits providing aid function as supernatural guidance or
+    intervention in human affairs.
+  cautions: Could also be ancestor_rites if aid depends on ritual feeding, invitation,
+    or proper care of the dead.
+  suggested_aliases:
+  - ancestor_spirits_help_the_living
+  - ancestral_aid_to_living_descendants
+  - helpful_ancestral_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-spirits-linked-to-non-repeatable-miraculous-aid
+  motif_id: ancestral_spirits_linked_to_non_repeatable_miraculous_aid
+  label: Ancestral spirits linked to non-repeatable miraculous aid
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Miraculous aid from ancestral spirits fits supernatural intervention
+    by nonhuman sacred agents.
+  cautions: The non-repeatable qualifier may be passage-specific; preserve it as evidence
+    detail rather than a canonical distinction unless it recurs.
+  suggested_aliases:
+  - one_time_ancestral_spirit_aid
+  - nonrepeatable_ancestor_miracle
+  - ancestral_miraculous_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-succession-through-named-sons
+  motif_id: ancestral_succession_through_named_sons
+  label: ancestral succession through named sons
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: Named-son succession may authorize lineage, inheritance, and legitimate
+    transmission of status.
+  cautions: May be a genealogical listing rather than a motif; exclude or treat as
+    evidence if it only records names without narrative or sacred function.
+  suggested_aliases:
+  - succession_through_named_sons
+  - lineage_succession_by_sons
+  - ancestral_lineage_succession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-tablet-placement-by-lineage-relation
+  motif_id: ancestral_tablet_placement_by_lineage_relation
+  label: ancestral tablet placement by lineage relation
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Placement of ancestral tablets by lineage relation is a clear ancestor-rite
+    practice regulating relations between living and dead kin.
+  cautions: Also touches sacred_law if the passage emphasizes formal ritual order
+    rather than ancestor care.
+  suggested_aliases:
+  - lineage_ordering_of_ancestral_tablets
+  - ancestral_tablet_lineage_placement
+  - ancestor_tablet_placement_by_kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ancestral or lineage details;
+  preserve local cultural specificity and avoid promoting over-specific site, name,
+  or textual details as canonical motifs without recurrence.
+- For ancestor-spirit aid, distinguish ritual maintenance of relations with the dead
+  from broader divine/supernatural intervention.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0019
+  input_sha256: 7e63d5c9b8b8bd72e849173666f2e6ee794f8de9d21bdc6e082a6e24fadbc634
+

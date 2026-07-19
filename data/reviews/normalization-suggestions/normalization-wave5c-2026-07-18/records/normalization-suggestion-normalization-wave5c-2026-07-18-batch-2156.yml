@@ -1,0 +1,340 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2156
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.etiological-formation-of-creeks-by-a-wounded-animal
+  motif_id: etiological_formation_of_creeks_by_a_wounded_animal
+  label: Etiological formation of creeks by a wounded animal
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Explains the origin of landscape waterways, fitting the broader etiological
+    landscape-formation material already under cosmic_origin.
+  cautions: Animal wound detail may be local evidence rather than a durable motif;
+    if many animal-feature etiologies are consolidated, relate to a future animal_etiology
+    group.
+  suggested_aliases:
+  - wounded_animal_creates_creeks
+  - animal_wound_explains_waterways
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-hardening-of-animal-horns
+  motif_id: etiological_hardening_of_animal_horns
+  label: Etiological hardening of animal horns
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Feature Etiologies
+  relationship: child
+  confidence: medium
+  rationale: The label explains the origin of a specific animal body feature; existing
+    groups lack a clean home for recurring animal-anatomy etiologies.
+  cautions: Single occurrence and highly specific; do not promote without checking
+    recurrence across sources and whether a transformation or trickster episode is
+    central.
+  suggested_aliases:
+  - origin_of_animal_horns
+  - animal_horn_etiology
+  suggested_new_group:
+    id: animal_feature_etiologies
+    label: Animal Feature Etiologies
+    description: Etiological narratives explaining the origin of animal anatomy, markings,
+      senses, traits, habits, or inter-animal relations.
+    parent_group_ids:
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: cosmic_origin covers broad creation and landscape
+      etiologies, while shapeshifter covers bodily transformation of figures; neither
+      clearly captures animal-specific anatomy and trait origin tales.
+- suggestion_id: normalization.suggestion.etiological-injury-explaining-animal-anatomy
+  motif_id: etiological_injury_explaining_animal_anatomy
+  label: Etiological injury explaining animal anatomy
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Feature Etiologies
+  relationship: child
+  confidence: medium
+  rationale: An injury that accounts for animal anatomy is a clear animal-feature
+    origin tale, not simply shapeshifting or general cosmic creation.
+  cautions: May be an over-specific episode detail if the injury is not the recurrent
+    motif; review whether trickster causation is central.
+  suggested_aliases:
+  - injury_explains_animal_anatomy
+  - animal_anatomy_etiology_by_injury
+  suggested_new_group:
+    id: animal_feature_etiologies
+    label: Animal Feature Etiologies
+    description: Etiological narratives explaining the origin of animal anatomy, markings,
+      senses, traits, habits, or inter-animal relations.
+    parent_group_ids:
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover transformation, creation,
+      and trickster action, but not animal-specific anatomical etiologies as a recurring
+      facet.
+- suggestion_id: normalization.suggestion.etiological-mark-on-an-animal
+  motif_id: etiological_mark_on_an_animal
+  label: etiological mark on an animal
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Feature Etiologies
+  relationship: child
+  confidence: medium
+  rationale: The motif explains the origin of a visible animal marking, a specific
+    subcase of animal-feature etiology.
+  cautions: Label is broad and lacks narrative mechanism; source evidence needed to
+    distinguish transformation, punishment, trickster marking, or mere descriptive
+    explanation.
+  suggested_aliases:
+  - animal_mark_etiology
+  - origin_of_animal_marking
+  suggested_new_group:
+    id: animal_feature_etiologies
+    label: Animal Feature Etiologies
+    description: Etiological narratives explaining the origin of animal anatomy, markings,
+      senses, traits, habits, or inter-animal relations.
+    parent_group_ids:
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: No existing canonical group directly groups
+      recurring explanations of animal markings and traits.
+- suggestion_id: normalization.suggestion.etiological-myths-explain-animal-and-natural-features
+  motif_id: etiological_myths_explain_animal_and_natural_features
+  label: Etiological myths explain animal and natural features
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a meta-broad description of etiological function across
+    animal and natural features rather than a distinct motif.
+  cautions: Could be split between cosmic_origin for natural features and animal_feature_etiologies
+    for animal traits; may be too generic for pattern queries unless passage evidence
+    is specific.
+  suggested_aliases:
+  - etiological_explanation_of_animal_and_natural_features
+  - animal_and_nature_feature_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-origin-of-an-animal-feature
+  motif_id: etiological_origin_of_an_animal_feature
+  label: Etiological origin of an animal feature
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Feature Etiologies
+  relationship: alias
+  confidence: high
+  rationale: This is a generic label for the proposed animal-feature etiology cluster.
+  cautions: Keep as a broad review grouping; preserve the specific animal and feature
+    in evidence notes where available.
+  suggested_aliases:
+  - animal_feature_etiology
+  - origin_of_animal_feature
+  suggested_new_group:
+    id: animal_feature_etiologies
+    label: Animal Feature Etiologies
+    description: Etiological narratives explaining the origin of animal anatomy, markings,
+      senses, traits, habits, or inter-animal relations.
+    parent_group_ids:
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: Existing taxonomy can hold transformation
+      or creation generally, but not the repeated animal-specific origin-of-feature
+      pattern without losing useful granularity.
+- suggestion_id: normalization.suggestion.etiological-origin-of-animal-and-celestial-traits
+  motif_id: etiological_origin_of_animal_and_celestial_traits
+  label: etiological origin of animal and celestial traits
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal traits with celestial traits, crossing animal
+    etiology and cosmic-origin domains.
+  cautions: Review source context before splitting or mapping; celestial transformations
+    may belong under cosmic_origin, sacred_time, dream_and_vision, or death_and_transformation
+    depending on evidence.
+  suggested_aliases:
+  - animal_and_celestial_trait_etiology
+  - origin_of_animal_and_celestial_traits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-origin-of-animal-enmity
+  motif_id: etiological_origin_of_animal_enmity
+  label: etiological origin of animal enmity
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Feature Etiologies
+  relationship: functional_variant
+  confidence: medium
+  rationale: Explaining why animal kinds are enemies is an etiological animal-trait
+    or interspecies-relation pattern.
+  cautions: In Buddhist fable contexts this may be an ethical exemplum, karmic consequence,
+    or animal-fable plot rather than a mythic feature etiology; review passage evidence.
+  suggested_aliases:
+  - origin_of_animal_enmity
+  - animal_enmity_etiology
+  - origin_of_interspecies_hostility
+  suggested_new_group:
+    id: animal_feature_etiologies
+    label: Animal Feature Etiologies
+    description: Etiological narratives explaining the origin of animal anatomy, markings,
+      senses, traits, habits, or inter-animal relations.
+    parent_group_ids:
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups do not clearly capture explanations
+      of enduring animal traits or relations such as enmity.
+- suggestion_id: normalization.suggestion.etiological-origin-of-animal-senses-or-anatomy
+  motif_id: etiological_origin_of_animal_senses_or_anatomy
+  label: Etiological origin of animal senses or anatomy
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Feature Etiologies
+  relationship: child
+  confidence: high
+  rationale: Animal senses and anatomy are direct examples of the proposed animal-feature
+    etiology cluster.
+  cautions: If the passage emphasizes bodily transformation of a human or spirit into
+    an animal, shapeshifter may be a secondary mapping.
+  suggested_aliases:
+  - animal_senses_etiology
+  - origin_of_animal_anatomy
+  - origin_of_animal_senses
+  suggested_new_group:
+    id: animal_feature_etiologies
+    label: Animal Feature Etiologies
+    description: Etiological narratives explaining the origin of animal anatomy, markings,
+      senses, traits, habits, or inter-animal relations.
+    parent_group_ids:
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: The current taxonomy lacks a focused animal-trait
+      origin group, and mapping only to shapeshifter would obscure the etiological
+      function.
+- suggestion_id: normalization.suggestion.etiological-origin-of-animal-traits-or-habits
+  motif_id: etiological_origin_of_animal_traits_or_habits
+  label: etiological origin of animal traits or habits
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Feature Etiologies
+  relationship: alias
+  confidence: high
+  rationale: This broad label names the recurring function of explaining animal traits
+    or habits.
+  cautions: Use as a broad grouping only; preserve the specific animal behavior or
+    trait in local evidence notes.
+  suggested_aliases:
+  - animal_trait_etiology
+  - origin_of_animal_habits
+  - origin_of_animal_traits
+  suggested_new_group:
+    id: animal_feature_etiologies
+    label: Animal Feature Etiologies
+    description: Etiological narratives explaining the origin of animal anatomy, markings,
+      senses, traits, habits, or inter-animal relations.
+    parent_group_ids:
+    - shapeshifter
+    related_group_ids:
+    - cosmic_origin
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups can handle transformation
+      or trickster roles, but not the distinct etiological explanation of animal traits
+      and behaviors.
+batch_notes:
+- Several labels cluster around animal-feature etiologies. A new review group animal_feature_etiologies
+  may be useful if recurrence is confirmed, but most items are single-occurrence and
+  should retain local animal/feature details as evidence.
+- Do not treat animal or natural feature etiologies as evidence of transmission; these
+  are provisional indexing placements only.
+- Broad mixed labels combining animal, natural, and celestial features should be reviewed
+  before automatic mapping or split into more specific motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 2156.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2156
+  input_sha256: b53d172c9a11228f3867b7ba0ef82d36b18467bbcf1ddf049adaafa2b5b81676
+

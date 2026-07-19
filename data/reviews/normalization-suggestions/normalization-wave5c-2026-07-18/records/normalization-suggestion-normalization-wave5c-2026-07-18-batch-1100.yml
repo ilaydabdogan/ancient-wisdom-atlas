@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1100
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritualized-captive-intended-as-food
+  motif_id: ritualized_captive_intended_as_food
+  label: Ritualized captive intended as food
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve sacrifice, cannibal-feast threat, captivity, or
+    passage-specific violence, but the ritual function is unclear from the label alone.
+  cautions: Culturally sensitive and single-occurrence; do not normalize as sacrifice
+    or sacred substance without source evidence and careful review.
+  suggested_aliases:
+  - captive_intended_as_food
+  - ritual_captive_as_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-combat-resolved-without-injury
+  motif_id: ritualized_combat_resolved_without_injury
+  label: Ritualized combat resolved without injury
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A formalized combat encounter belongs with ritualized warfare or contest
+    even when no injury results.
+  cautions: If the scene is primarily ceremonial reconciliation or game-play rather
+    than combat, sacred_exchange or exclusion may be better after review.
+  suggested_aliases:
+  - noninjurious_ritual_combat
+  - ritual_combat_without_injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-communal-bathing-discipline
+  motif_id: ritualized_communal_bathing_discipline
+  label: Ritualized communal bathing discipline
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A communal bathing discipline is best treated as ritual purity or regulated
+    monastic/social practice under sacred law.
+  cautions: If the passage emphasizes water as transformation or purification itself,
+    sacred_waters may be a secondary mapping.
+  suggested_aliases:
+  - communal_ritual_bathing
+  - monastic_bathing_discipline
+  - ritual_bathing_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-communal-contest-sequence
+  motif_id: ritualized_communal_contest_sequence
+  label: ritualized communal contest sequence
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a formal communal contest but not whether its function
+    is combat, hospitality, judgment, play, or social repair.
+  cautions: Single occurrence and abstract generated wording; source context is needed
+    before choosing sacred_combat, sacred_exchange, or sacred_law.
+  suggested_aliases:
+  - communal_ritual_contest
+  - ritual_communal_contest_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-communal-exclusion
+  motif_id: ritualized_communal_exclusion
+  label: ritualized communal exclusion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Formal exclusion from a community is a regulated social or monastic disciplinary
+    act, fitting sacred law and order.
+  cautions: If exclusion expels pollution or misfortune ritually, sacrifice/ritual_expulsion
+    may be a secondary fit; if merely administrative, consider exclusion from motif
+    queries.
+  suggested_aliases:
+  - communal_ritual_exclusion
+  - ritual_exclusion_from_community
+  - monastic_communal_exclusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-consort-separation-and-remating-during-a-dance
+  motif_id: ritualized_consort_separation_and_remating_during_a_dance
+  label: ritualized consort separation and remating during a dance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests fertility, sacred marriage, dance ritual, or social
+    re-pairing, but the symbolic function is not clear.
+  cautions: Single occurrence and culturally specific; avoid forcing into sacred_love
+    or sacred_marriage without evidence of fertility, sovereignty, or sacred union.
+  suggested_aliases:
+  - ritual_consort_separation_and_remating
+  - dance_ritual_of_consort_separation_and_remating
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-contest-at-meeting-with-strangers
+  motif_id: ritualized_contest_at_meeting_with_strangers
+  label: Ritualized contest at meeting with strangers
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formal contest during an encounter with strangers likely structures
+    guest-host relations and tests social boundaries.
+  cautions: If the contest is martial rather than hospitality-oriented, sacred_combat
+    may be a better primary group.
+  suggested_aliases:
+  - stranger_meeting_ritual_contest
+  - ritual_contest_with_strangers
+  - contest_at_encounter_with_strangers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-contest-between-host-and-guest-sides
+  motif_id: ritualized_contest_between_host_and_guest_sides
+  label: Ritualized contest between host and guest sides
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The host-guest framing makes the contest part of ritualized hospitality
+    and social order.
+  cautions: In Confucian context this may be more about ceremonial propriety than
+    a mythic motif; sacred_law may be a secondary fit.
+  suggested_aliases:
+  - host_guest_ritual_contest
+  - ritual_contest_between_host_and_guest
+  - host_and_guest_sides_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-contest-of-justice-and-injustice
+  motif_id: ritualized_contest_of_justice_and_injustice
+  label: ritualized contest of justice and injustice
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A formal opposition of justice and injustice functions as moral testing
+    or reckoning.
+  cautions: May be allegorical or philosophical rather than narrative; review source
+    evidence before treating as a recurring motif.
+  suggested_aliases:
+  - contest_of_justice_and_injustice
+  - ritual_contest_between_justice_and_injustice
+  - justice_injustice_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-declaration-before-a-monastic-witness
+  motif_id: ritualized_declaration_before_a_monastic_witness
+  label: ritualized declaration before a monastic witness
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A formal declaration before a monastic witness is a regulated ritual-legal
+    act within sacred social order.
+  cautions: If the declaration is a vow or binding speech act, covenant or curse_blessing_speech
+    may be secondary mappings.
+  suggested_aliases:
+  - monastic_witnessed_declaration
+  - ritual_declaration_before_witness
+  - formal_declaration_before_monastic_witness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual/social-procedure labels;
+  preserve local context and avoid promoting them to taxonomy families without recurrence.
+- For ritualized contests, source evidence should decide whether the primary function
+  is hospitality, sacred combat, moral judgment, or ceremonial law.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific and single-occurrence
+    items require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1100
+  input_sha256: 83d1de174b67c6881faf2a6406041ba924029ae6ae641182adb20ba0060f0e96
+

@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4087
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wedding-feast-as-completion-of-betrothal-sequence
+  motif_id: wedding_feast_as_completion_of_betrothal_sequence
+  label: wedding-feast as completion of betrothal sequence
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A wedding feast completing betrothal belongs with marriage and union
+    patterns already grouped under sacred_love.
+  cautions: Single occurrence and may be a social-custom detail rather than a symbolic
+    motif; consider sacred_exchange if feast reciprocity is central.
+  suggested_aliases:
+  - wedding_feast_completion_of_betrothal
+  - marriage_feast_completes_betrothal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wedding-feast-as-public-alliance-and-wealth-transfer
+  motif_id: wedding_feast_as_public_alliance_and_wealth_transfer
+  label: wedding feast as public alliance and wealth transfer
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label foregrounds public alliance and transfer of wealth, matching
+    reciprocal exchange and binding social obligation.
+  cautions: Could also support sacred_love or covenant if the passage emphasizes marriage
+    union or formal alliance more than exchange.
+  suggested_aliases:
+  - wedding_feast_as_alliance_exchange
+  - marriage_feast_and_wealth_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wedding-gifts-regulated-by-luck-and-misfortune
+  motif_id: wedding_gifts_regulated_by_luck_and_misfortune
+  label: Wedding gifts regulated by luck and misfortune
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Wedding gifts are exchange objects, but regulation by luck and misfortune
+    may involve local taboo, omen, or ritual law.
+  cautions: Needs source evidence to distinguish gift reciprocity from divination,
+    taboo, or culturally specific wedding custom.
+  suggested_aliases:
+  - auspicious_wedding_gift_regulation
+  - wedding_gifts_and_misfortune_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wedding-party-visits-and-performs-domestic-work
+  motif_id: wedding_party_visits_and_performs_domestic_work
+  label: wedding party visits and performs domestic work
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: A wedding party performing domestic work may express reciprocal obligation
+    or marriage-transition service.
+  cautions: Likely an ethnographic or passage-specific custom; review whether it recurs
+    as a ritualized motif before indexing broadly.
+  suggested_aliases:
+  - wedding_party_domestic_service
+  - marriage_visit_with_domestic_work
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wedding-transition-through-bush-dance-and-appeal-for-protection
+  motif_id: wedding_transition_through_bush_dance_and_appeal_for_protection
+  label: wedding transition through bush, dance, and appeal for protection
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a liminal marriage transition with protective appeal,
+    resembling a rite-of-passage threshold.
+  cautions: Composite and culturally specific; could also involve sacred_love, sacred_law,
+    apotropaic protection, or dance ritual depending on evidence.
+  suggested_aliases:
+  - wedding_transition_rite_with_protection
+  - marriage_liminal_passage_through_bush_and_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wedlock-approach-with-basketed-bread
+  motif_id: wedlock_approach_with_basketed_bread
+  label: wedlock approach with basketed bread
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Bread in a marriage approach may function as an offering, hospitality
+    item, or reciprocal courtship gift.
+  cautions: Very specific object-and-custom label; needs context before mapping to
+    marriage, hospitality, sacred substance, or exchange.
+  suggested_aliases:
+  - marriage_approach_with_bread_offering
+  - basketed_bread_as_wedlock_gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weeping-crop-people-complain-of-neglected-cultivation
+  motif_id: weeping_crop_people_complain_of_neglected_cultivation
+  label: weeping crop people complain of neglected cultivation
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Personified crops complaining of neglected cultivation fits agricultural
+    reciprocity and seasonal cultivation obligations.
+  cautions: Could instead fit sacred_exchange if the focus is reciprocal care, or
+    divine_judgment if neglect brings punishment.
+  suggested_aliases:
+  - personified_crops_complain_of_neglect
+  - crop_people_lament_neglected_cultivation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weeping-figure-revealed-inside-a-lodge
+  motif_id: weeping_figure_revealed_inside_a_lodge
+  label: weeping figure revealed inside a lodge
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label lacks enough function: the figure may be mourner, spirit,
+    hidden identity, omen, or narrative reveal.'
+  cautions: Do not map from weeping alone; source context is needed to determine whether
+    lament, theophany, otherworld, or household revelation is involved.
+  suggested_aliases:
+  - hidden_weeping_figure_in_lodge
+  - weeping_person_revealed_inside_lodge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weeping-oak
+  motif_id: weeping_oak
+  label: Weeping Oak
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: low
+  rationale: An oak may be a sacred tree, but the label alone does not show axis,
+    personification, lament, or transformation function.
+  cautions: Could belong under lament_and_mourning, sacred_tree_axis, shapeshifter,
+    or be an isolated poetic image; review passage evidence.
+  suggested_aliases:
+  - weeping_tree
+  - lamenting_oak
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weighted-belly-causes-drowning
+  motif_id: weighted_belly_causes_drowning
+  label: Weighted belly causes drowning
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a highly specific mechanism of death rather than
+    a broad recurring symbolic or narrative motif.
+  cautions: If tied to trickster punishment, deception, or moral reversal in the source,
+    preserve as evidence under trickster or divine_judgment instead of querying broadly.
+  suggested_aliases:
+  - drowning_by_weighted_body
+  - belly_weight_causes_drowning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Wedding and betrothal labels in this batch are mostly single-occurrence social or
+  ritual details; avoid promoting them without recurrence across sources.
+- Several labels require source context to distinguish culturally specific custom
+  from broad motif function.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed for culturally
+    specific wedding and plant/personification items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4087
+  input_sha256: a975cd9a795d41361f3ff7c5924d391ba4fe30e9aae6072a9394a009f9aeee77
+

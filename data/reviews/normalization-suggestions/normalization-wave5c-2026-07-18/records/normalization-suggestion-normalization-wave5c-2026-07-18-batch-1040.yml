@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1040
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-founding-of-sacred-monastic-territory-by-boundary-making
+  motif_id: ritual_founding_of_sacred_monastic_territory_by_boundary_making
+  label: Ritual founding of sacred monastic territory by boundary-making
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Boundary-making founds and regulates a sacred institutional territory,
+    fitting sacral law and ordered space.
+  cautions: Could also relate to world_center or portable_sanctuary if the boundary
+    creates a cosmic center; source context needed.
+  suggested_aliases:
+  - sacred_boundary_founding
+  - monastic_boundary_rite
+  - ritual_boundary_making
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-fourfold-pause
+  motif_id: ritual_fourfold_pause
+  label: ritual fourfold pause
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a ritual sequence detail but not its function, object,
+    or narrative role.
+  cautions: Culturally specific ceremonial structure; avoid mapping merely because
+    fourfold pattern may be symbolic. May be too granular without passage evidence.
+  suggested_aliases:
+  - fourfold_ritual_pause
+  - ritual_pause_in_four_parts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-fraternity-divided-into-named-orders
+  motif_id: ritual_fraternity_divided_into_named_orders
+  label: ritual fraternity divided into named orders
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes social organization or ethnographic classification
+    rather than a symbolic or narrative motif.
+  cautions: If the named orders perform mythic roles or encode cosmology, preserve
+    those roles separately under sacred_law, initiation, or sacred_time.
+  suggested_aliases:
+  - ritual_society_named_orders
+  - ceremonial_fraternity_orders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-fraternity-organized-into-named-orders
+  motif_id: ritual_fraternity_organized_into_named_orders
+  label: Ritual fraternity organized into named orders
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Near-duplicate of ritual fraternity divided into named orders; it records
+    organizational taxonomy more than motif function.
+  cautions: Review as possible synonym with ritual_fraternity_divided_into_named_orders;
+    do not index unless source evidence gives symbolic roles for the orders.
+  suggested_aliases:
+  - ritual_fraternity_divided_into_named_orders
+  - ritual_society_named_orders
+  - ceremonial_fraternity_orders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-fumigation-of-persons-and-objects
+  motif_id: ritual_fumigation_of_persons_and_objects
+  label: ritual fumigation of persons and objects
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fumigation of people and objects is a ritual purification or apotropaic
+    handling practice, already folded under sacred law.
+  cautions: If smoke functions as offering or spirit-feeding rather than purification,
+    sacrifice or sacred_exchange may be secondary.
+  suggested_aliases:
+  - ritual_smoke_purification
+  - fumigation_purification_of_persons_and_objects
+  - apotropaic_fumigation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-funeral-for-pests
+  motif_id: ritual_funeral_for_pests
+  label: ritual funeral for pests
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be animal mortuary rite, pest appeasement, ritual expulsion, or
+    comparative folklore note.
+  cautions: Comparative label and unusual target make source evidence essential; avoid
+    treating as ancestor rites or funeral rites without clear funerary function.
+  suggested_aliases:
+  - funeral_rite_for_pests
+  - ritual_burial_of_pests
+  - pest_appeasement_funeral
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-furrows-for-purification-and-restored-health
+  motif_id: ritual_furrows_for_purification_and_restored_health
+  label: Ritual furrows for purification and restored health
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed purification practice for health restoration fits sacred
+    law, purity regulation, and apotropaic healing practice.
+  cautions: Furrow imagery may also involve boundary-making or earth ritual; source
+    context should determine whether sacrifice or sacred_exchange is relevant.
+  suggested_aliases:
+  - purifying_ritual_furrows
+  - furrow_rite_for_health_restoration
+  - ritual_furrows_as_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-game-performed-to-bring-rain
+  motif_id: ritual_game_performed_to_bring_rain
+  label: ritual game performed to bring rain
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual performance aimed at rainmaking fits reciprocal or coercive
+    ritual interaction with sacred/weather powers.
+  cautions: Could also belong under sacred_time if calendrical, sacred_waters if water
+    symbolism dominates, or sacred_law if rule-based ceremony is central.
+  suggested_aliases:
+  - rainmaking_ritual_game
+  - ritual_game_for_rain
+  - ceremonial_game_to_bring_rain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-games-and-bedding-restriction-after-ceremony
+  motif_id: ritual_games_and_bedding_restriction_after_ceremony
+  label: Ritual games and bedding restriction after ceremony
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual play with a post-ceremonial restriction, but
+    the function is unclear.
+  cautions: May be over-specific ethnographic detail; map to sacred_law only if the
+    bedding restriction is a ritual prohibition with broader significance.
+  suggested_aliases:
+  - post_ceremony_bedding_restriction
+  - ritual_games_with_postceremonial_taboo
+  - ceremonial_games_and_sleeping_restriction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-garment-completion-determines-status
+  motif_id: ritual_garment_completion_determines_status
+  label: Ritual garment completion determines status
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual object's completion conferring or determining institutional
+    status fits sacred social order and prescribed ritual rule.
+  cautions: If the garment functions chiefly as a power object or recognition token,
+    sacred_treasures or recognition_tokens_hidden_identity may be secondary.
+  suggested_aliases:
+  - completed_ritual_garment_confers_status
+  - garment_completion_as_status_marker
+  - ritual_clothing_determines_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence ritual or ethnographic details; placements
+  should remain provisional until passage evidence confirms ritual function.
+- The two ritual-fraternity labels appear near-duplicate and likely should be reviewed
+  together for synonym handling or exclusion.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; culturally specific ceremonial details
+    require human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1040
+  input_sha256: 548b5cba8793f21a975c3e15de5bce00c64675b66a2cd2104c7004cb363e6b22
+

@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3180
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.benefactor-harmed-by-those-who-benefit
+  motif_id: benefactor_harmed_by_those_who_benefit
+  label: benefactor harmed by those who benefit
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The harmed benefactor pattern centers on violated reciprocity or trust
+    by recipients of aid.
+  cautions: Single occurrence; could be divine judgment if the passage emphasizes
+    punishment of ingratitude rather than betrayal itself.
+  suggested_aliases:
+  - ingratitude_to_benefactor
+  - benefactor_betrayed_by_beneficiaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beneficent-cattle-for-the-faithful-community
+  motif_id: beneficent_cattle_for_the_faithful_community
+  label: Beneficent cattle for the faithful community
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Beneficent cattle providing for a faithful community fits the existing
+    abundance-giving animal/provision complex under divine intervention.
+  cautions: If the cattle are primarily sacrificial, eschatological, or legal-purity
+    symbols, secondary review may be needed.
+  suggested_aliases:
+  - beneficent_cattle_for_the_faithful
+  - cattle_as_divine_provision_for_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beneficent-creator-revealed-through-useful-natural-growth
+  motif_id: beneficent_creator_revealed_through_useful_natural_growth
+  label: beneficent creator revealed through useful natural growth
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Useful natural growth revealing a beneficent creator aligns with divine
+    provision through plants and created nature.
+  cautions: Could also map to cosmic_origin if the passage concerns creation itself
+    rather than ongoing provision or revelation.
+  suggested_aliases:
+  - creator_revealed_through_natural_abundance
+  - divine_beneficence_through_useful_plants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beneficent-endurance-modeled-on-natural-forms
+  motif_id: beneficent_endurance_modeled_on_natural_forms
+  label: beneficent endurance modeled on natural forms
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label reads as a wisdom teaching using natural forms as ethical or
+    spiritual models.
+  cautions: May be an abstract sermon or passage-specific metaphor rather than a recurring
+    motif; review before indexing broadly.
+  suggested_aliases:
+  - natural_forms_as_models_of_endurance
+  - endurance_taught_by_nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beneficent-invocation-for-the-faithful
+  motif_id: beneficent_invocation_for_the_faithful
+  label: beneficent invocation for the faithful
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: An invocation that benefits the faithful is a performative sacred speech
+    act akin to blessing or prayer.
+  cautions: If the focus is ritual exchange with deity rather than speech power, sacred_exchange
+    may be a secondary fit.
+  suggested_aliases:
+  - beneficent_invocation
+  - blessing_invocation_for_the_faithful
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beneficent-menstrual-potency
+  motif_id: beneficent_menstrual_potency
+  label: beneficent menstrual potency
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns culturally sensitive bodily and ritual power whose
+    function is not clear from wording alone.
+  cautions: Do not force into purity, fertility, mother goddess, or sacred substance
+    without source evidence; comparative labels may reflect scholarly framing.
+  suggested_aliases:
+  - menstrual_potency_as_beneficent_power
+  - beneficial_menstrual_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beneficial-gift-that-harms-the-unfit-recipient-through-recipient-condition
+  motif_id: beneficial_gift_that_harms_the_unfit_recipient_through_recipient_condition
+  label: Beneficial gift that harms the unfit recipient through recipient condition
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A good gift becoming harmful because of recipient condition functions
+    as moral consequence or fitness-based reckoning.
+  cautions: Could instead be wisdom teaching if framed as a parable about capacity
+    rather than judgment or punishment.
+  suggested_aliases:
+  - beneficial_gift_harms_unfit_recipient
+  - gift_becomes_harmful_to_unprepared_recipient
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beneficial-harm-followed-by-healing-or-rescue
+  motif_id: beneficial_harm_followed_by_healing_or_rescue
+  label: Beneficial harm followed by healing or rescue
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Harm that leads to healing or rescue may fit ambivalent sacred agency
+    that injures and heals.
+  cautions: Ambiguous without agent and moral frame; could be initiation ordeal, karmic
+    judgment, or narrative irony rather than divine intervention.
+  suggested_aliases:
+  - healing_through_beneficial_harm
+  - ambivalent_harm_leading_to_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.benefit-offered-to-those-already-satisfied-is-useless
+  motif_id: benefit_offered_to_those_already_satisfied_is_useless
+  label: Benefit offered to those already satisfied is useless
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a maxim or didactic statement rather than a distinct narrative
+    motif.
+  cautions: If attached to a recurring parable scene, preserve as evidence under sacred_knowledge
+    rather than promote as canonical.
+  suggested_aliases:
+  - useless_benefit_to_the_satisfied
+  - aid_to_those_already_satisfied_is_useless
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.benefiting-and-saving-one-s-relations
+  motif_id: benefiting_and_saving_one_s_relations
+  label: benefiting and saving one’s relations
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Saving and benefiting kin can express reciprocal obligation and compassionate
+    duty within sacred social relations.
+  cautions: Very broad and potentially passage-specific; could fit sacred_law, covenant,
+    or Buddhist merit-transfer depending on evidence.
+  suggested_aliases:
+  - saving_one_s_relations
+  - benefiting_kin_through_compassionate_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and abstractly didactic; human review should
+  verify whether each is a recurring motif or a passage-level moral summary.
+- Avoid treating broad beneficence language as evidence of transmission or shared
+  origin; these are provisional indexing placements only.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional suggestions generated for normalization wave5c batch 3180.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3180
+  input_sha256: ba569c354c31e43cf84cf41285630fa54fd342f25554f9b0bc8066cd68620a56
+

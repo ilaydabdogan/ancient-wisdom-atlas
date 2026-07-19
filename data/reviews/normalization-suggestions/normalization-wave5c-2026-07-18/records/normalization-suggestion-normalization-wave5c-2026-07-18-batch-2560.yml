@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2560
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.tree-or-bough-as-unseen-presence-of-a-growth-deity
+  motif_id: tree_or_bough_as_unseen_presence_of_a_growth_deity
+  label: Tree or bough as unseen presence of a growth deity
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A tree or bough embodying divine presence fits the sacred-tree/axis field
+    already held under axis_mundi.
+  cautions: If the emphasis is vegetation fertility rather than sacred center or divine
+    presence, mother_goddess or sacred_time may be relevant secondary contexts.
+  suggested_aliases:
+  - deity_associated_with_sacred_tree
+  - tree_associated_god
+  - sacred_tree_as_divine_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-or-fruit-altered-as-a-memorial-of-blood
+  motif_id: tree_or_fruit_altered_as_a_memorial_of_blood
+  label: Tree or fruit altered as a memorial of blood
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: The label matches existing blood-caused tree or fruit transformation
+    variants under death_and_transformation.
+  cautions: Preserve as an etiological detail; do not map to sacred_tree_axis unless
+    the tree also functions as cosmic connector or center.
+  suggested_aliases:
+  - blood_causing_transformation_of_a_tree_s_fruit_color
+  - blood_etiologically_changes_a_tree_s_fruit_color
+  - blood memorial in altered fruit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-or-log-moved-through-water
+  motif_id: tree_or_log_moved_through_water
+  label: Tree or log moved through water
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate sacred water passage, ritual transport, creation
+    geography, or a passage-specific object movement.
+  cautions: Source context is needed; avoid assuming flood, axis mundi, or sacred
+    waters from the object and medium alone.
+  suggested_aliases:
+  - log moved through water
+  - tree transported by water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-or-plant-as-title-participant
+  motif_id: tree_or_plant_as_title_participant
+  label: Tree or plant as title participant
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase describes a title or heading role rather than a narrative
+    or symbolic motif.
+  cautions: If the passage itself personifies or sacralizes the plant, remap based
+    on that evidence rather than the title pattern.
+  suggested_aliases:
+  - plant as title participant
+  - tree as title participant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-or-spruce-as-invoked-power
+  motif_id: tree_or_spruce_as_invoked_power
+  label: tree or spruce as invoked power
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An invoked tree power may be sacred tree, ritual speech, apotropaic protection,
+    or local plant-spirit practice.
+  cautions: Culturally specific ritual context should be reviewed before normalizing;
+    avoid collapsing plant power into axis_mundi without evidence of cosmic-center
+    function.
+  suggested_aliases:
+  - spruce as invoked power
+  - tree as invoked power
+  - invoked plant power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-or-stone-as-prophetic-speaker
+  motif_id: tree_or_stone_as_prophetic_speaker
+  label: tree or stone as prophetic speaker
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A tree or stone functioning as a prophetic speaker belongs with oracular
+    and divinatory access to hidden knowledge.
+  cautions: If the speech is a one-time marvel rather than an oracle/divination role,
+    sacred_knowledge or theophany may be secondary; preserve tree/stone specificity.
+  suggested_aliases:
+  - oracular tree or stone
+  - speaking tree or stone oracle
+  - prophetic natural object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-or-thorn-plant-linked-with-lightning
+  motif_id: tree_or_thorn_plant_linked_with_lightning
+  label: tree or thorn plant linked with lightning
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates a plant-lightning association but not whether it
+    is sacred fire, weather deity, taboo, or etiological lore.
+  cautions: Needs source evidence; single culturally specific occurrence may be an
+    ethnographic detail rather than a broad motif.
+  suggested_aliases:
+  - thorn plant linked with lightning
+  - lightning-associated tree
+  - lightning plant association
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-or-tree-image-as-cattle-protecting-domestic-divinity
+  motif_id: tree_or_tree_image_as_cattle_protecting_domestic_divinity
+  label: Tree or tree-image as cattle-protecting domestic divinity
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The key function is protective domestic or tutelary divine agency, already
+    covered by divine_intervention and tutelary-spirit children.
+  cautions: Tree-image specificity may also touch sacred_treasures or axis_mundi;
+    if evidence centers on cattle ritual law, sacred_law may be relevant.
+  suggested_aliases:
+  - tree image as domestic protective deity
+  - cattle-protecting tree divinity
+  - tree-associated household tutelary spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-or-vine-as-title-counterpart
+  motif_id: tree_or_vine_as_title_counterpart
+  label: tree or vine as title counterpart
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a title counterpart pattern, not a usable mythic
+    motif.
+  cautions: If underlying passage evidence features a sacred vine or plant transformation,
+    create a separate evidence-based motif mapping.
+  suggested_aliases:
+  - vine as title counterpart
+  - tree as title counterpart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tree-origin-as-proof-of-seniority
+  motif_id: tree_origin_as_proof_of_seniority
+  label: tree origin as proof of seniority
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve origin proof, hierarchy, rebirth, plant ancestry,
+    or debate logic; no existing group clearly captures it without evidence.
+  cautions: Could be a contextual argument or passage artifact; review whether the
+    tree origin is literal mythic ancestry, moral exemplum, or title/commentary detail.
+  suggested_aliases:
+  - tree origin proving seniority
+  - plant origin as seniority proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence plant/tree associations; source context is
+  needed before promoting any new vegetation-specific group.
+- 'Do not treat all tree labels as sacred_tree_axis: only use axis_mundi when the
+  tree or plant functions as sacred presence, center, connector, or cosmological marker.'
+- Title-based labels should be excluded unless the underlying passage evidence independently
+  supports a motif.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific Native American plant-power and lightning associations.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2560
+  input_sha256: ef5e0f275bde249084d58767f2c2bcd9054f59fc1fe2164cd94f41e990848cf1
+

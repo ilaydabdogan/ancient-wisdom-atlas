@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3677
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.minstrels-as-royal-messengers
+  motif_id: minstrels_as_royal_messengers
+  label: Minstrels as royal messengers
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve speech, performance, court communication, or plot-specific
+    messenger role; label alone does not show sacred narrative function.
+  cautions: Single occurrence; may be a mundane court detail rather than a motif.
+    Review passage for whether song or messenger status carries ritual, prophetic,
+    or identity function.
+  suggested_aliases:
+  - singers_as_messengers
+  - court_performers_as_envoys
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-as-intensified-common-power
+  motif_id: miracle_as_intensified_common_power
+  label: Miracle as intensified common power
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads as comparative theory or interpretive commentary about
+    miracles rather than a narrative motif.
+  cautions: If a source passage narrates a specific miracle produced by ordinary powers
+    intensified, index that concrete episode under divine_intervention or sacred_knowledge
+    instead.
+  suggested_aliases:
+  - miracle_as_heightened_ordinary_power
+  - theory_of_miracle_as_intensified_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-authenticated-by-record-and-witnesses
+  motif_id: miracle_authenticated_by_record_and_witnesses
+  label: miracle authenticated by record and witnesses
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Authentication by testimony and record may be narrative framing, hagiographic
+    proof, sacred knowledge, or textual artifact.
+  cautions: Single occurrence; distinguish miracle event from later evidentiary apparatus.
+    If only about documentation, exclude as meta-textual.
+  suggested_aliases:
+  - miracle_attested_by_witnesses
+  - recorded_miracle_testimony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    - _meta_textual
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-followed-by-religious-conversion
+  motif_id: miracle_followed_by_religious_conversion
+  label: Miracle followed by religious conversion
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A miracle that changes belief functions as divine or sacred action redirecting
+    human affairs.
+  cautions: If the emphasis is instruction, initiation, or conversion through recitation,
+    sacred_knowledge may be a secondary mapping.
+  suggested_aliases:
+  - conversion_after_miracle
+  - miracle_induces_conversion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-leading-to-repentance-or-belief
+  motif_id: miracle_leading_to_repentance_or_belief
+  label: miracle leading to repentance or belief
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repentance after a miraculous sign foregrounds moral reckoning and correction
+    after sacred intervention.
+  cautions: Could also fit divine_intervention if the miracle itself is central and
+    repentance is only the result.
+  suggested_aliases:
+  - miraculous_sign_leads_to_repentance
+  - miracle_induces_belief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-signs-around-the-buddha
+  motif_id: miracle_signs_around_the_buddha
+  label: miracle signs around the Buddha
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Miracle signs surrounding a sacred figure mark manifest sacred presence
+    and authority.
+  cautions: 'Culturally review wording: Buddhist context may not imply a deity. If
+    signs authenticate birth or destiny, miraculous_child or dream_and_vision may
+    be secondary.'
+  suggested_aliases:
+  - miraculous_signs_around_sacred_figure
+  - auspicious_miracle_signs_around_buddha
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-signs-distinguished-from-magic
+  motif_id: miracle_signs_distinguished_from_magic
+  label: miracle-signs distinguished from magic
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a theological distinction rather than a clear narrative
+    action; placement depends on passage evidence.
+  cautions: May be doctrinal commentary or classification. If it narrates an authorized
+    holy sign defeating magic, divine_intervention or sacred_knowledge may apply.
+  suggested_aliases:
+  - miracle_distinguished_from_magic
+  - true_miracle_versus_magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-won-object-becomes-prohibited-and-destroyed
+  motif_id: miracle_won_object_becomes_prohibited_and_destroyed
+  label: miracle-won object becomes prohibited and destroyed
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The object is regulated by prohibition and destruction, making sacred
+    rule and discipline the clearest function.
+  cautions: Composite and over-specific; if the object itself is the focus, sacred_treasures
+    may be secondary. Review Buddhist disciplinary context carefully.
+  suggested_aliases:
+  - prohibited_miracle_won_object_destroyed
+  - miraculous_object_destroyed_by_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-alteration-of-natural-objects-by-bodisat-command
+  motif_id: miraculous_alteration_of_natural_objects_by_bodisat_command
+  label: Miraculous alteration of natural objects by Bodisat command
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred figure's command miraculously changes the natural world, fitting
+    supernatural intervention in ordinary reality.
+  cautions: Preserve Bodisat/Bodhisattva specificity in evidence notes; if command-speech
+    is central, curse_blessing_speech may be secondary.
+  suggested_aliases:
+  - miraculous_alteration_of_nature_by_bodhisattva_command
+  - sacred_command_alters_natural_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-appearance-of-master-correcting-a-critic
+  motif_id: miraculous_appearance_of_master_correcting_a_critic
+  label: miraculous appearance of master correcting a critic
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: role_variant
+  confidence: medium
+  rationale: A miraculous appearance of a sacred master functions as manifestation
+    that corrects perception or false judgment.
+  cautions: If the passage emphasizes teaching rather than manifestation, sacred_knowledge
+    may be secondary; if the master is not divine, avoid over-theologizing the mapping.
+  suggested_aliases:
+  - miraculous_master_appearance_corrects_critic
+  - sacred_master_appears_to_correct_doubt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use broad 'miracle' wording. Reviewers should separate the miracle
+  event from later doctrinal, testimonial, or hagiographic framing.
+- For Buddhist and Sufi examples, avoid forcing divine-language assumptions where
+  the source frames sacred authority differently.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed for single-occurrence
+    miracle and commentary-like labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3677
+  input_sha256: 242e296718611239cccddfcb20719426f8591695f84b0efc31b04337a0ec9a57
+

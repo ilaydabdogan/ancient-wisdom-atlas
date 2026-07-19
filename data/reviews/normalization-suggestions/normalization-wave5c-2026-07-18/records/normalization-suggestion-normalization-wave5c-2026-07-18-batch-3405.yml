@@ -1,0 +1,324 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3405
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.etiology-of-sweet-peaches-through-honey-medicine
+  motif_id: etiology_of_sweet_peaches_through_honey_medicine
+  label: Etiology of sweet peaches through honey medicine
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: uncertain
+  confidence: low
+  rationale: The label explains a food quality through honey medicine, suggesting
+    sacred substance or healing substance rather than a broad creation motif.
+  cautions: Single-occurrence etiological animal/plant detail; may be too local or
+    episode-specific for pattern queries without passage evidence.
+  suggested_aliases:
+  - sweet_peach_etiology
+  - honey_medicine_food_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-the-ban-shee-wail
+  motif_id: etiology_of_the_ban_shee_wail
+  label: Etiology of the Ban-Shee Wail
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: uncertain
+  confidence: medium
+  rationale: A banshee wail is associated with death-warning and lament, fitting mourning
+    or fate-sign functions.
+  cautions: Could belong under prophecy_divination or death_by_fate if the wail primarily
+    foretells death rather than explains mourning sound.
+  suggested_aliases:
+  - banshee_wail_etiology
+  - death_wail_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-the-deer-s-raised-tail
+  motif_id: etiology_of_the_deer_s_raised_tail
+  label: Etiology of the deer's raised tail
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait Etiologies
+  relationship: child
+  confidence: medium
+  rationale: The label is an origin explanation for an animal's physical trait, a
+    recurring etiological fable type not well covered by existing groups.
+  cautions: Single occurrence here; create only if multiple animal-feature origin
+    labels recur across traditions.
+  suggested_aliases:
+  - deer_tail_etiology
+  - origin_of_deer_raised_tail
+  suggested_new_group:
+    id: animal_trait_etiologies
+    label: Animal Trait Etiologies
+    description: Stories explaining how animals acquired distinctive bodies, markings,
+      voices, habits, or ecological roles, often through trickster action, punishment,
+      accident, or transformation.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    reason_existing_groups_insufficient: cosmic_origin includes place and people etiologies
+      but does not clearly cover recurrent explanations of animal morphology or behavior.
+- suggestion_id: normalization.suggestion.etiology-of-the-hare-s-cleft-or-scarred-mouth
+  motif_id: etiology_of_the_hare_s_cleft_or_scarred_mouth
+  label: Etiology of the hare's cleft or scarred mouth
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait Etiologies
+  relationship: child
+  confidence: medium
+  rationale: Explains an animal's distinctive bodily feature, matching an animal-trait
+    etiology pattern.
+  cautions: May involve trickster injury or punishment in the source; preserve the
+    hare and scar detail as evidence.
+  suggested_aliases:
+  - hare_mouth_etiology
+  - hare_cleft_mouth_origin
+  - hare_scarred_mouth_origin
+  suggested_new_group:
+    id: animal_trait_etiologies
+    label: Animal Trait Etiologies
+    description: Stories explaining how animals acquired distinctive bodies, markings,
+      voices, habits, or ecological roles, often through trickster action, punishment,
+      accident, or transformation.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing etiological coverage focuses on
+      cosmic, place, and ancestry origins; animal body-feature origins need a clearer
+      review bucket.
+- suggestion_id: normalization.suggestion.etiology-of-the-vulture-s-bare-head
+  motif_id: etiology_of_the_vulture_s_bare_head
+  label: etiology of the vulture's bare head
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait Etiologies
+  relationship: child
+  confidence: medium
+  rationale: This is a direct origin explanation for an animal's distinctive physical
+    appearance.
+  cautions: If the passage emphasizes scavenging, pollution, fire, or punishment,
+    secondary placement may differ.
+  suggested_aliases:
+  - vulture_bare_head_etiology
+  - origin_of_vulture_bald_head
+  suggested_new_group:
+    id: animal_trait_etiologies
+    label: Animal Trait Etiologies
+    description: Stories explaining how animals acquired distinctive bodies, markings,
+      voices, habits, or ecological roles, often through trickster action, punishment,
+      accident, or transformation.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    reason_existing_groups_insufficient: No existing group cleanly gathers recurring
+      animal-feature origin tales.
+- suggestion_id: normalization.suggestion.etiology-of-thirty-day-months-and-twelve-month-year
+  motif_id: etiology_of_thirty_day_months_and_twelve_month_year
+  label: Etiology of thirty-day months and twelve-month year
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explains calendrical structure and belongs with sacred time
+    and ritual/cosmic ordering of the year.
+  cautions: May also relate to cosmic_origin if the passage frames calendar creation
+    as cosmogony.
+  suggested_aliases:
+  - calendar_etiology
+  - origin_of_twelve_month_year
+  - origin_of_thirty_day_months
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-thoth-associated-beings-and-forms
+  motif_id: etiology_of_thoth_associated_beings_and_forms
+  label: Etiology of Thoth-associated beings and forms
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: Thoth is strongly associated with wisdom, writing, and sacred knowledge,
+    but the label is vague about the beings and forms explained.
+  cautions: Could be a deity-specific catalog or commentary artifact rather than a
+    motif; source context is needed.
+  suggested_aliases:
+  - thoth_forms_etiology
+  - thoth_associated_beings_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-white-ants-as-property-destroying-pests
+  motif_id: etiology_of_white_ants_as_property_destroying_pests
+  label: etiology of white ants as property-destroying pests
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait Etiologies
+  relationship: child
+  confidence: medium
+  rationale: Explains an animal or insect's characteristic behavior and social role
+    as a pest.
+  cautions: Could be moral judgment or trickster consequence depending on source;
+    do not overgeneralize from one local pest etiology.
+  suggested_aliases:
+  - white_ant_pest_etiology
+  - termite_property_destroying_etiology
+  suggested_new_group:
+    id: animal_trait_etiologies
+    label: Animal Trait Etiologies
+    description: Stories explaining how animals acquired distinctive bodies, markings,
+      voices, habits, or ecological roles, often through trickster action, punishment,
+      accident, or transformation.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing cosmic_origin children cover place
+      and ancestry etiologies but not animal behavior/ecological-role etiologies.
+- suggestion_id: normalization.suggestion.etiology-of-white-crows-dumbness
+  motif_id: etiology_of_white_crows_dumbness
+  label: Etiology of White Crows' dumbness
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait Etiologies
+  relationship: child
+  confidence: medium
+  rationale: This explains an animal group's loss or lack of voice, a distinctive
+    animal-trait etiology.
+  cautions: If the passage centers on speech loss as punishment or failed messenger
+    role, divine_judgment or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - white_crow_dumbness_etiology
+  - crow_speech_loss_origin
+  suggested_new_group:
+    id: animal_trait_etiologies
+    label: Animal Trait Etiologies
+    description: Stories explaining how animals acquired distinctive bodies, markings,
+      voices, habits, or ecological roles, often through trickster action, punishment,
+      accident, or transformation.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: Animal vocal and bodily etiologies are not
+      clearly represented by current canonical groups.
+- suggestion_id: normalization.suggestion.etiology-of-wildcat-s-spotted-fat
+  motif_id: etiology_of_wildcat_s_spotted_fat
+  label: etiology of Wildcat’s spotted fat
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait Etiologies
+  relationship: child
+  confidence: medium
+  rationale: The label explains a specific animal bodily feature and fits the same
+    animal-trait etiology pattern.
+  cautions: Highly specific and single-occurrence; may be best retained as evidence
+    detail under a broader animal etiology group.
+  suggested_aliases:
+  - wildcat_spotted_fat_etiology
+  - origin_of_wildcat_spotted_fat
+  suggested_new_group:
+    id: animal_trait_etiologies
+    label: Animal Trait Etiologies
+    description: Stories explaining how animals acquired distinctive bodies, markings,
+      voices, habits, or ecological roles, often through trickster action, punishment,
+      accident, or transformation.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing groups do not provide a stable home
+      for recurring origin explanations of animal markings and body traits.
+batch_notes:
+- Several items are single-occurrence animal or insect etiology labels. A recurring
+  new review group, animal_trait_etiologies, would reduce overloading cosmic_origin
+  while preserving useful comparative granularity.
+- Etiological labels should be reviewed against passage evidence to distinguish genuine
+  origin motifs from generated summaries of local explanatory details.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; animal-trait etiology candidate needs human
+    confirmation before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3405
+  input_sha256: 4718fd0959673be7762ca306e76079f84fc20d7a908d524abb93f6f1b3ee9bac
+

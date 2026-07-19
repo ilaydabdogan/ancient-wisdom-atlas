@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3873
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rejection-of-direct-literary-contact-despite-similarities
+  motif_id: rejection_of_direct_literary_contact_despite_similarities
+  label: Rejection of direct literary contact despite similarities
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label is a scholarly transmission/contact judgment rather than a
+    narrative or symbolic motif.
+  cautions: Keep transmission claims out of motif pattern queries; preserve only as
+    commentary or provenance if needed.
+  suggested_aliases:
+  - rejection_of_literary_contact
+  - scholarly_rejection_of_direct_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-disciplinary-loopholes
+  motif_id: rejection_of_disciplinary_loopholes
+  label: rejection of disciplinary loopholes
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejecting loopholes in discipline fits sacred law, ethical codes, and
+    regulated conduct.
+  cautions: Could be monastic commentary or ethical instruction rather than a recurrent
+    motif; verify passage context.
+  suggested_aliases:
+  - refusal_of_disciplinary_loopholes
+  - strict_observance_of_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-idolatry
+  motif_id: rejection_of_idolatry
+  label: Rejection of idolatry
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: narrower_than
+  confidence: high
+  rationale: The taxonomy already treats exclusive devotion and rejection of idols
+    as covenantal sacred bond language.
+  cautions: If the passage emphasizes prohibited images or ritual law more than divine-human
+    bond, sacred_law may be a secondary placement.
+  suggested_aliases:
+  - exclusive_devotion_and_rejection_of_idols
+  - rejection_of_idols
+  - anti_idolatry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-killing-one-s-chief
+  motif_id: rejection_of_killing_one_s_chief
+  label: Rejection of killing one's chief
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label may express a social taboo or loyalty obligation under sacred
+    law, but context is unclear.
+  cautions: Could be a local ethical choice, political loyalty detail, chiefly taboo,
+    or passage-specific event; review cultural context before indexing.
+  suggested_aliases:
+  - refusal_to_kill_ones_chief
+  - taboo_against_killing_a_chief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-mortal-paramour-as-defilement
+  motif_id: rejection_of_mortal_paramour_as_defilement
+  label: Rejection of mortal paramour as defilement
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In a Sufi context, rejecting mortal love as defilement likely contrasts
+    earthly desire with sacred or divine beloved longing.
+  cautions: Could also reflect renunciation under mystical_quest; confirm whether
+    the passage centers love symbolism or ascetic discipline.
+  suggested_aliases:
+  - rejection_of_earthly_love_as_defilement
+  - mortal_lover_rejected_for_divine_love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-suitor-through-repudiation-of-adornments
+  motif_id: rejection_of_suitor_through_repudiation_of_adornments
+  label: rejection of suitor through repudiation of adornments
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Suitor rejection through adornment refusal belongs with courtship, bride
+    choice, and love-marriage negotiation motifs.
+  cautions: The adornment detail may be episode-specific; if no sacred or mythic courtship
+    function is present, treat as granular evidence only.
+  suggested_aliases:
+  - suitor_rejected_by_refusing_adornments
+  - repudiated_adornments_signal_rejected_suitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejuvenating-magical-drink
+  motif_id: rejuvenating_magical_drink
+  label: rejuvenating magical drink
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: child
+  confidence: high
+  rationale: A magical drink that renews youth is a sacred or transformative substance,
+    matching existing rejuvenating food/drink aliases.
+  cautions: If the passage emphasizes actual death reversal or second life, death_and_transformation
+    may be a secondary mapping.
+  suggested_aliases:
+  - rejuvenating_drink
+  - youth_renewing_drink
+  - magical_drink_of_rejuvenation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejuvenation-by-magical-substances
+  motif_id: rejuvenation_by_magical_substances
+  label: Rejuvenation by magical substances
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: narrower_than
+  confidence: high
+  rationale: Magical substances used for rejuvenation fit the sacred_substance group
+    for transformative foods, drinks, plants, and potions.
+  cautions: Roman material may involve Medea-like arts or restoration magic; preserve
+    the specific substance and ritual context in evidence notes.
+  suggested_aliases:
+  - magical_substances_rejuvenate
+  - rejuvenating_sacred_substances
+  - youth_renewal_by_potion_or_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejuvenation-or-second-life-sought-for-favored-figures
+  motif_id: rejuvenation_or_second_life_sought_for_favored_figures
+  label: rejuvenation or second life sought for favored figures
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Seeking rejuvenation or second life for favored figures points to restoration,
+    renewal, or rebirth after decline or death.
+  cautions: If the means is a potion or divine food, sacred_substance should be secondary;
+    if only a wish or petition, it may be too contextual.
+  suggested_aliases:
+  - second_life_sought_for_favored_figures
+  - rejuvenation_sought_for_beloved_or_favored_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejuvenation-through-removal-of-old-skin
+  motif_id: rejuvenation_through_removal_of_old_skin
+  label: Rejuvenation through removal of old skin
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Shedding old skin to renew life is a bodily transformation and rebirth
+    pattern.
+  cautions: May also relate to serpent/animal renewal symbolism or shapeshifter motifs
+    depending on the being involved; preserve local form.
+  suggested_aliases:
+  - skin_shedding_rejuvenation
+  - renewal_by_shedding_old_skin
+  - old_skin_removed_for_rejuvenation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and should remain provisional
+  until passage evidence confirms recurrent motif function.
+- Rejuvenation labels cluster around sacred_substance and death_and_transformation;
+  avoid merging means, desired outcome, and bodily mechanism unless evidence supports
+  the same function.
+- Transmission or literary-contact judgments should stay in _meta_textual and be excluded
+  from motif pattern queries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific social-law and courtship labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3873
+  input_sha256: c878f9149fc18ad0f79cb3c7fa16faad8eebcd29a1f19effcc7814a258ae67cc
+

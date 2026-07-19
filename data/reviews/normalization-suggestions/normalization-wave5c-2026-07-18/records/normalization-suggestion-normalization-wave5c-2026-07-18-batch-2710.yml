@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2710
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-minimizes-or-does-not-claim-full-battle-glory
+  motif_id: hero_minimizes_or_does_not_claim_full_battle_glory
+  label: hero minimizes or does not claim full battle glory
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns heroic battle honor and the handling of martial glory
+    after combat.
+  cautions: Single occurrence; could be an ethical humility theme rather than a combat
+    motif if no battle-status function is present.
+  suggested_aliases:
+  - heroic_modesty_after_battle
+  - renunciation_of_full_battle_glory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-myths-as-saga-prehistory
+  motif_id: hero_myths_as_saga_prehistory
+  label: hero-myths as saga prehistory
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a literary or classificatory framing of hero myths
+    within saga prehistory, not a narrative motif.
+  cautions: Preserve as provenance or genre-context note if useful; do not use as
+    evidence for a heroic-combat pattern.
+  suggested_aliases:
+  - hero_myth_as_saga_background
+  - heroic_prehistory_as_textual_frame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-neutralizes-harmful-food-by-magical-means
+  motif_id: hero_neutralizes_harmful_food_by_magical_means
+  label: Hero neutralizes harmful food by magical means
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Magical neutralization of deadly food is a supernatural rescue or protection
+    action in a peril episode.
+  cautions: If the food is part of a trickster deception or sacred-substance taboo,
+    trickster or sacred_law may be better secondary mappings.
+  suggested_aliases:
+  - magical_neutralization_of_poisoned_food
+  - harmful_food_rendered_safe_by_magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-observes-battle-through-charioteer-s-report-while-unable-to-fight
+  motif_id: hero_observes_battle_through_charioteer_s_report_while_unable_to_fight
+  label: hero observes battle through charioteer's report while unable to fight
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The episode centers on an incapacitated heroic warrior and mediated battle
+    awareness, fitting heroic combat context.
+  cautions: Highly episode-specific; preserve as evidence detail rather than promoting
+    as a recurring canonical motif.
+  suggested_aliases:
+  - incapacitated_hero_receives_battle_report
+  - charioteer_reports_battle_to_unable_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-overcomes-enchanted-mass
+  motif_id: hero_overcomes_enchanted_mass
+  label: Hero overcomes enchanted mass
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to tell whether the key motif is combat,
+    magical obstacle, enchantment, or initiation ordeal.
+  cautions: Review passage evidence; could map to divine_warrior, initiation, sacred_combat,
+    or sacred_treasures depending on what the enchanted mass is and how it is overcome.
+  suggested_aliases:
+  - hero_overcomes_magical_obstacle
+  - enchanted_mass_defeated_by_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-proves-deed-by-performing-an-impossible-feat
+  motif_id: hero_proves_deed_by_performing_an_impossible_feat
+  label: Hero proves deed by performing an impossible feat
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: An impossible feat used as proof functions as an ordeal validating status,
+    deed, or identity.
+  cautions: If the feat specifically proves hidden identity, recognition_tokens_hidden_identity
+    may be a secondary fit; if martial, sacred_combat may also apply.
+  suggested_aliases:
+  - impossible_feat_as_proof
+  - heroic_deed_verified_by_impossible_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-proves-extraordinary-strength-through-impossible-labor
+  motif_id: hero_proves_extraordinary_strength_through_impossible_labor
+  label: Hero proves extraordinary strength through impossible labor
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Impossible labor serves as a test that establishes heroic strength and
+    transformed status.
+  cautions: Could map to divine_warrior if the labor is martial or to hero_journey
+    if it is one task in a quest sequence.
+  suggested_aliases:
+  - impossible_labor_proves_heroic_strength
+  - strength_test_by_impossible_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-proves-strength-in-public-contest
+  motif_id: hero_proves_strength_in_public_contest
+  label: hero proves strength in public contest
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A public strength contest functions as a status-validating ordeal or
+    recognition test.
+  cautions: If the contest is explicitly martial or decides conflict between groups,
+    sacred_combat may be the better primary group.
+  suggested_aliases:
+  - public_strength_test
+  - heroic_strength_proven_in_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-quarrels-with-sovereign
+  motif_id: hero_quarrels_with_sovereign
+  label: hero quarrels with sovereign
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Conflict between hero and ruler concerns authority, hierarchy, and the
+    legitimacy or limits of sovereign power.
+  cautions: If the quarrel mainly launches exile or quest, hero_journey may be better;
+    if it becomes combat, sacred_combat may be secondary.
+  suggested_aliases:
+  - hero_conflicts_with_ruler
+  - quarrel_between_hero_and_sovereign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-race-destroyed-in-terrible-battles
+  motif_id: hero_race_destroyed_in_terrible_battles
+  label: hero-race destroyed in terrible battles
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Destruction of a heroic people through great battles fits warfare as
+    a decisive mythic force.
+  cautions: If the passage frames this as decline of an age or extinction of a semi-divine
+    race, world_ages_cosmic_decline or divine_race may be secondary mappings.
+  suggested_aliases:
+  - heroic_race_destroyed_in_battle
+  - destruction_of_heroic_people_by_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; placements should be
+  treated as provisional broad-query grouping, not canonical motif promotion.
+- For strength-test labels, initiation is suggested for the proof/status function;
+  switch to sacred_combat where passage evidence makes the contest explicitly martial.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated from labels and current canonical_motif_groups
+    only.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2710
+  input_sha256: a25d56de3dd99d49d958bf4d5c601420440fc4ba8e1098ba3e6a3dfdd6189dff
+

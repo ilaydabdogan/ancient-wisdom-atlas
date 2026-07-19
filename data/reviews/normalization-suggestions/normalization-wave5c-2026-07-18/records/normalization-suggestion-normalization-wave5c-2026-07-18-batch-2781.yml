@@ -1,0 +1,282 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2781
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.proliferation-of-monsters-from-mythology-and-imagination
+  motif_id: proliferation_of_monsters_from_mythology_and_imagination
+  label: Proliferation of monsters from mythology and imagination
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes a generalized interpretive observation about mythology
+    and imagination rather than a specific narrative motif.
+  cautions: If source passages actually feature multiplying monsters, reconsider under
+    divine_warrior, sacred_combat, chaos, or threshold_guardian depending on function.
+  suggested_aliases:
+  - monster_proliferation_as_interpretive_comment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prolonged-combat-between-equal-magical-powers
+  motif_id: prolonged_combat_between_equal_magical_powers
+  label: Prolonged combat between equal magical powers
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on ritually or supernaturally charged combat between
+    matched powers, fitting sacred combat better than ordinary violence.
+  cautions: If the emphasis is magical transformation contest rather than warfare,
+    shapeshifter or sacred_knowledge may be relevant secondary contexts.
+  suggested_aliases:
+  - equal_magical_combat
+  - prolonged_duel_between_magical_opponents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prolonged-combat-between-heroes
+  motif_id: prolonged_combat_between_heroes
+  label: prolonged combat between heroes
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: A prolonged heroic duel is a granular form of the existing sacred_combat
+    group and its champion-duel aliases.
+  cautions: Preserve whether the combat is ritualized, fated, kin-based, or simply
+    an episode-specific battle detail.
+  suggested_aliases:
+  - prolonged_heroic_combat
+  - extended_combat_between_heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prolonged-equal-combat-with-failing-weapons
+  motif_id: prolonged_equal_combat_with_failing_weapons
+  label: prolonged equal combat with failing weapons
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label is an over-granular duel pattern involving equal combat and
+    weapon failure, fitting sacred_combat.
+  cautions: Weapon failure may be important evidence if caused by divine intervention,
+    fate, or a supernatural object; do not flatten source details.
+  suggested_aliases:
+  - equal_duel_with_failing_weapons
+  - prolonged_duel_with_broken_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.promise-to-a-supporter-tested-by-material-gain
+  motif_id: promise_to_a_supporter_tested_by_material_gain
+  label: Promise to a supporter tested by material gain
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A promise tested by gain concerns fidelity to a binding obligation, fitting
+    covenant and sacred bond patterns.
+  cautions: Could also belong under sacred_law or divine_judgment if the passage stresses
+    moral consequence rather than the promise itself.
+  suggested_aliases:
+  - promise_tested_by_gain
+  - loyalty_to_supporter_tested_by_reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.promised-restoration-of-the-hero-s-lost-strength
+  motif_id: promised_restoration_of_the_hero_s_lost_strength
+  label: promised restoration of the hero's lost strength
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Restoration of lost heroic strength often depends on supernatural aid
+    or guidance, fitting divine_intervention provisionally.
+  cautions: 'Source context is needed: if strength is restored through healing, initiation,
+    sacred substance, or external soul recovery, another group may fit better.'
+  suggested_aliases:
+  - hero_strength_restored
+  - restoration_of_lost_heroic_strength
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.promised-reward-withheld-and-compelled-by-obstruction
+  motif_id: promised_reward_withheld_and_compelled_by_obstruction
+  label: promised reward withheld and compelled by obstruction
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Withholding a promised reward and coercive enforcement centers on broken
+    obligation and repair of a bond.
+  cautions: May be an episode-specific plot mechanism; if the obstruction is trickery
+    rather than moral bond, betrayal_violated_trust or trickster may be secondary.
+  suggested_aliases:
+  - withheld_promised_reward
+  - promise_enforced_by_obstruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.property-promised-as-reward-and-taken-after-killing
+  motif_id: property_promised_as_reward_and_taken_after_killing
+  label: property promised as reward and taken after killing
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines reward promise, killing, and property seizure, but
+    the narrative function is unclear from wording alone.
+  cautions: Could be sacred_combat, covenant breach, vengeance, robbery, or a passage-specific
+    plot detail; review source evidence before mapping.
+  suggested_aliases:
+  - reward_property_taken_after_killing
+  - promised_property_reward_after_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.property-used-as-improvised-battlework
+  motif_id: property_used_as_improvised_battlework
+  label: Property used as improvised battlework
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: Using property as battlefield works is a tactical combat detail best
+    parked under sacred_combat if retained.
+  cautions: Likely too specific for pattern queries unless it recurs; exclude later
+    if it is only a scene-specific military tactic.
+  suggested_aliases:
+  - improvised_battleworks_from_property
+  - property_used_as_battle_defense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-captive-s-warning-is-followed-by-the-predicted-attack
+  motif_id: prophetic_captive_s_warning_is_followed_by_the_predicted_attack
+  label: Prophetic captive's warning is followed by the predicted attack
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core motif is a predictive warning that is fulfilled by a later attack,
+    fitting prophecy and foreknowledge.
+  cautions: If the warning comes through a spontaneous dream or vision, dream_and_vision
+    may be a secondary mapping; captive status may be contextual detail.
+  suggested_aliases:
+  - fulfilled_warning_of_attack
+  - prophetic_warning_followed_by_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid claims of transmission or common origin.
+- Several single-occurrence combat labels appear over-specific; preserve source details
+  but avoid promoting them without recurrence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch reviewed for broad normalization placement only; source passages needed
+    for low-confidence reward/property and restoration labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2781
+  input_sha256: e452d0579eb04b2ecf1775010580a046bf28ddb995db867baf42964258b611f8
+

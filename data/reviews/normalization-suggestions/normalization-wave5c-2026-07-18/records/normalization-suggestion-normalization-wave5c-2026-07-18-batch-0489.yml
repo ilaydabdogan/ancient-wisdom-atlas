@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0489
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dance-question-addressed-to-a-companion
+  motif_id: dance_question_addressed_to_a_companion
+  label: dance question addressed to a companion
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a song-line or performance-text detail rather than
+    a reusable narrative motif.
+  cautions: If source evidence shows ritual dance as sacred performance or journey
+    transition, reconsider under storytelling_as_power or initiation.
+  suggested_aliases:
+  - dance question to companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dance-song-framed-as-a-question-to-a-female-friend
+  motif_id: dance_song_framed_as_a_question_to_a_female_friend
+  label: dance song framed as a question to a female friend
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to describe lyric framing or a performance utterance, not
+    a stable mythic pattern.
+  cautions: Culturally specific song context may be important as evidence; do not
+    discard from provenance, only exclude from broad motif queries unless ritual function
+    is documented.
+  suggested_aliases:
+  - dance song question to female friend
+  - question-framed dance song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-animal-quest-from-lake-water
+  motif_id: dangerous_animal_quest_from_lake_water
+  label: Dangerous animal quest from lake water
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: uncertain
+  confidence: low
+  rationale: The lake-water setting suggests a water-boundary or aquatic ordeal, but
+    the animal quest function is unclear.
+  cautions: Could instead involve animal helper/adversary, threshold guardian, otherworld,
+    or hero_journey depending on whether the animal emerges from water, is pursued,
+    or tests the seeker.
+  suggested_aliases:
+  - dangerous aquatic animal quest
+  - lake-water animal ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-aquatic-being-at-a-crossing-or-canoe-route
+  motif_id: dangerous_aquatic_being_at_a_crossing_or_canoe_route
+  label: dangerous aquatic being at a crossing or canoe route
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dangerous being stationed at a crossing or travel route functions as
+    a liminal obstacle to passage.
+  cautions: If the water itself is the transformative medium, add sacred_waters; if
+    the being is primarily a monster or spirit figure, preserve local identity in
+    evidence notes.
+  suggested_aliases:
+  - aquatic threshold guardian
+  - dangerous water-crossing being
+  - canoe-route guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-caravan-journey-through-wasteland
+  motif_id: dangerous_caravan_journey_through_wasteland
+  label: Dangerous caravan journey through wasteland
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A perilous wasteland caravan is a journey ordeal and closely parallels
+    the existing desert-navigation child evidence.
+  cautions: If the passage is a Buddhist moral exemplum rather than a transformative
+    quest, sacred_knowledge or divine_judgment may be secondary or the label may be
+    over-specific.
+  suggested_aliases:
+  - dangerous caravan through wasteland
+  - perilous caravan journey
+  - wasteland journey ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-closing-passage-on-the-journey
+  motif_id: dangerous_closing_passage_on_the_journey
+  label: Dangerous closing passage on the journey
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A closing passage that threatens travelers is a threshold obstacle requiring
+    successful passage.
+  cautions: Source context is needed to know whether the danger is a place, being,
+    timed gate, or moral test; avoid over-narrowing without evidence.
+  suggested_aliases:
+  - closing passage ordeal
+  - dangerous closing threshold
+  - perilous narrowing passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-distant-fire-that-leads-the-traveler-endlessly-onward
+  motif_id: dangerous_distant_fire_that_leads_the_traveler_endlessly_onward
+  label: dangerous distant fire that leads the traveler endlessly onward
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: The fire appears to lure or misdirect a traveler, but its function could
+    be guide, trap, illusion, or spirit sign.
+  cautions: Do not map simply to sacred_fire unless fire mediates divine presence
+    or purification; if the emphasis is enchantment or fatal lure, threshold_guardian
+    or trickster may fit better.
+  suggested_aliases:
+  - distant fire lure
+  - misleading fire on journey
+  - will-o-the-wisp-like travel lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-forest-passage-with-ambush
+  motif_id: dangerous_forest_passage_with_ambush
+  label: dangerous forest passage with ambush
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The ambush makes the passage danger primarily a combat encounter during
+    travel.
+  cautions: If the forest is an enchanted threshold or initiation space, hero_journey
+    or threshold_guardian may be better secondary mappings; single occurrence is over-specific.
+  suggested_aliases:
+  - forest ambush during journey
+  - ambush in dangerous forest passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-guide-leads-traveler-into-forest
+  motif_id: dangerous_guide_leads_traveler_into_forest
+  label: dangerous guide leads traveler into forest
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A guide who leads a traveler into danger suggests deceptive guidance
+    across a boundary.
+  cautions: If the guide is a guardian, spirit, or initiatory conductor rather than
+    deceiver, threshold_guardian or initiation may fit better.
+  suggested_aliases:
+  - deceptive guide into forest
+  - dangerous forest guide
+  - false guide leads traveler astray
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-journey-off-the-known-path
+  motif_id: dangerous_journey_off_the_known_path
+  label: dangerous journey off the known path
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Leaving the known path frames travel as a perilous departure from ordinary
+    order.
+  cautions: Could be a moral warning, initiation ordeal, or landscape-specific episode;
+    source evidence should confirm transformation or quest function before broad indexing.
+  suggested_aliases:
+  - journey off the known path
+  - dangerous departure from path
+  - perilous path deviation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence travel-danger phrases; preserve
+  as evidence details and avoid promoting to canonical taxonomy families without recurrence.
+- For Indigenous song and performance labels, exclude only from broad pattern queries
+  when they are textual/lyric artifacts; retain culturally specific provenance for
+  human review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    song, water-being, and journey-lure items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0489
+  input_sha256: 79c46caef686a1a262806e4b7b9bdb06e4a0be533b2b3b779e97fb1c04085ff6
+

@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3726
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.non-rider-survives-to-report-collective-destruction
+  motif_id: non_rider_survives_to_report_collective_destruction
+  label: Non-rider survives to report collective destruction
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a survivor-witness scene after collective destruction,
+    but its mythic function is unclear from wording alone.
+  cautions: Could be catastrophe remnant, messenger report, battle aftermath, or passage-specific
+    plot detail; one occurrence argues against broad indexing without source review.
+  suggested_aliases:
+  - survivor_reports_collective_destruction
+  - lone_witness_reports_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - flood_and_renewal
+    - sacred_combat
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-sectarian-binding-of-humanity
+  motif_id: non_sectarian_binding_of_humanity
+  label: Non-sectarian binding of humanity
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a binding relation that unites humanity beyond sectarian
+    divisions, fitting sacred bond/social covenant logic.
+  cautions: If the passage is primarily ethical teaching rather than binding relationship,
+    sacred_law or sacred_knowledge may be better secondary mappings.
+  suggested_aliases:
+  - universal_human_bond
+  - nonsectarian_human_unity
+  - humanity_bound_beyond_sect
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-tragic-youthful-raid-with-good-ending
+  motif_id: non_tragic_youthful_raid_with_good_ending
+  label: non-tragic youthful raid with good ending
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-level outcome qualifier for a raid rather than
+    a reusable symbolic motif.
+  cautions: If the raid itself is structurally important, index the passage under
+    sacred_combat or cattle_raid while preserving youth and non-tragic outcome as
+    evidence notes.
+  suggested_aliases:
+  - youthful_raid_with_positive_outcome
+  - successful_youth_raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-usurious-credit-economy
+  motif_id: non_usurious_credit_economy
+  label: non-usurious credit economy
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns social-economic regulation and reciprocity, but its
+    ritual or mythic function is not evident.
+  cautions: May be ethnographic/social commentary rather than motif; if framed as
+    moral exchange, sacred_exchange or sacred_law could apply.
+  suggested_aliases:
+  - credit_without_usury
+  - non_usurious_reciprocal_economy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nonhuman-being-reveals-unknown-ancestry
+  motif_id: nonhuman_being_reveals_unknown_ancestry
+  label: Nonhuman being reveals unknown ancestry
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A nonhuman being discloses hidden ancestry, functioning as revelation
+    of concealed identity or lineage knowledge.
+  cautions: Could also support recognition_tokens_hidden_identity, miraculous_child,
+    or ancestor-related indexing depending on whether lineage proof, sacred birth,
+    or ancestral agency is central.
+  suggested_aliases:
+  - nonhuman_revelation_of_ancestry
+  - hidden_ancestry_revealed_by_nonhuman_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - miraculous_child
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nonhuman-beings-partially-equated-with-fallen-angels
+  motif_id: nonhuman_beings_partially_equated_with_fallen_angels
+  label: nonhuman beings partially equated with fallen angels
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes comparative or interpretive equation between categories
+    of beings, not a narrative motif.
+  cautions: Preserve as commentary or reception metadata if needed; do not treat as
+    evidence of transmission or shared origin.
+  suggested_aliases:
+  - nonhuman_beings_equated_with_fallen_angels
+  - interpretive_equation_with_fallen_angels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nonhuman-figure-associated-with-a-tale-cycle
+  motif_id: nonhuman_figure_associated_with_a_tale_cycle
+  label: nonhuman figure associated with a tale cycle
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Association of a figure with a tale cycle is a classification or indexing
+    note rather than a motif pattern.
+  cautions: If the figure performs a recurring narrative function, index that function
+    separately; this label alone should be excluded from pattern queries.
+  suggested_aliases:
+  - figure_associated_with_tale_cycle
+  - nonhuman_tale_cycle_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nonhuman-hosts-provide-food-and-life-sustaining-resources
+  motif_id: nonhuman_hosts_provide_food_and_life_sustaining_resources
+  label: Nonhuman hosts provide food and life-sustaining resources
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Provision by nonhuman hosts combines hospitality, feeding, and reciprocal
+    relation with nonhuman powers.
+  cautions: If provision is miraculous rather than hosted exchange, divine_intervention
+    may be a better mapping; if set in an enchanted realm, consider otherworld.
+  suggested_aliases:
+  - nonhuman_hospitality_provides_food
+  - nonhuman_hosts_offer_life_sustaining_resources
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - hospitality_test_stranger_guest
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nonhuman-master-controls-access-to-wild-food
+  motif_id: nonhuman_master_controls_access_to_wild_food
+  label: nonhuman master controls access to wild food
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: A nonhuman master regulating wild food suggests sacred exchange or tutelary
+    control over resources, but the cultural role needs evidence review.
+  cautions: Likely sensitive to local owner/master-of-animals traditions; avoid flattening
+    into generic provision without confirming ritual obligations, taboos, or reciprocity.
+  suggested_aliases:
+  - master_of_wild_food
+  - nonhuman_owner_controls_game_or_food
+  - spirit_master_controls_food_access
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nonhuman-primordial-people-before-humanity
+  motif_id: nonhuman_primordial_people_before_humanity
+  label: nonhuman primordial people before humanity
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Primordial nonhuman people before humanity belongs to cosmogonic or prehuman
+    origin sequences.
+  cautions: May deserve more specific handling if the beings are animal-people, former
+    world inhabitants, ancestors, or culture heroes; source context should determine
+    secondary mappings.
+  suggested_aliases:
+  - prehuman_primordial_people
+  - primordial_nonhuman_people
+  - people_before_humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - culture_hero
+    - divine_race
+    - world_ages_cosmic_decline
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch begin with 'nonhuman' and may reflect culturally specific
+  spirit, animal-person, or owner/master traditions; human review should preserve
+  local ontology rather than forcing generic deity categories.
+- One-occurrence and outcome-qualified labels should usually remain evidence notes
+  unless source review shows recurrence across traditions or passages.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3726
+  input_sha256: aed3a16427ff9e36af8685f1ffcd34c0ac77fb8472dfb3201f403709a869b458
+

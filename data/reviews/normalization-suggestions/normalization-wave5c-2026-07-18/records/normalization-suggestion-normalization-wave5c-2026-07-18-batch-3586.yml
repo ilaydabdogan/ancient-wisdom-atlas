@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3586
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.intelligence-network-before-attack
+  motif_id: intelligence_network_before_attack
+  label: intelligence network before attack
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe warfare preparation, social organization, or a
+    passage-specific tactical detail rather than a stable motif.
+  cautions: Single occurrence; source context needed before mapping to sacred_combat
+    or excluding as a narrative detail.
+  suggested_aliases:
+  - spies_or_scouts_before_attack
+  - pre_attack_intelligence_network
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intended-killing-rebounds-on-the-attacker
+  motif_id: intended_killing_rebounds_on_the_attacker
+  label: intended killing rebounds on the attacker
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hostile act returning upon the attacker matches reversal-as-reckoning
+    patterns already present under divine judgment.
+  cautions: If the passage emphasizes trickery or physical combat rather than moral
+    retribution, trickster or sacred_combat may be secondary fits.
+  suggested_aliases:
+  - attacker_killed_by_own_plot
+  - murder_attempt_rebounds_on_attacker
+  - intended_harm_returns_to_attacker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intended-victim-reverses-cannibalistic-preparation
+  motif_id: intended_victim_reverses_cannibalistic_preparation
+  label: Intended victim reverses cannibalistic preparation
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The victim escaping and reversing a predator/cannibal scheme fits the
+    trickster group's predator-deception and reversal patterns.
+  cautions: Could also support divine_judgment if framed as moral punishment; cannibalism
+    detail should remain evidence-level unless recurrent.
+  suggested_aliases:
+  - intended_victim_reverses_cannibal_trap
+  - cannibalistic_preparation_reversed_on_attacker
+  - prey_reverses_predator_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intended-victim-reverses-chasm-attack
+  motif_id: intended_victim_reverses_chasm_attack
+  label: intended victim reverses chasm attack
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A planned lethal trap reversed onto the attacker matches retributive
+    reversal patterns under divine judgment.
+  cautions: If the episode centers on clever escape rather than reckoning, trickster
+    may be a better placement; chasm setting is likely over-specific.
+  suggested_aliases:
+  - chasm_trap_reversed_on_attacker
+  - intended_victim_turns_trap_on_attacker
+  - pit_or_chasm_attack_rebounds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intent-based-sin-or-innocence-in-harm
+  motif_id: intent_based_sin_or_innocence_in_harm
+  label: intent-based sin or innocence in harm
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label classifies moral fault by intention, fitting sacred law and
+    ethical regulation.
+  cautions: May be doctrinal or legal commentary rather than a narrative motif; consider
+    divine_judgment if judgment consequences are central.
+  suggested_aliases:
+  - intention_determines_sin_or_innocence
+  - moral_fault_based_on_intent
+  - intentionality_in_harm_as_sin_criterion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intentionality-determines-fault-classification
+  motif_id: intentionality_determines_fault_classification
+  label: Intentionality determines fault classification
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is an ethical-legal rule assigning fault by intention, fitting sacred
+    law and moral order.
+  cautions: Likely a doctrinal classification rather than a mythic motif; map cautiously
+    unless used in narrative action or judgment.
+  suggested_aliases:
+  - intention_determines_fault
+  - intentionality_as_moral_fault_criterion
+  - fault_classified_by_intent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inter-fraternity-participation-in-ceremony
+  motif_id: inter_fraternity_participation_in_ceremony
+  label: Inter-fraternity participation in ceremony
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a culturally specific ritual organization
+    detail, not clearly a cross-traditional motif.
+  cautions: Culturally sensitive and single occurrence; avoid broad mapping without
+    evidence of ritual function such as initiation, sacred exchange, or sacred law.
+  suggested_aliases:
+  - ceremonial_participation_between_fraternities
+  - inter_society_ritual_participation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intercession-and-patronage-protect-the-saint
+  motif_id: intercession_and_patronage_protect_the_saint
+  label: intercession and patronage protect the saint
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protection of a holy person through intercession or patronage fits sacred
+    powers acting in human affairs.
+  cautions: Could be social patronage rather than divine agency; if only human protection
+    is meant, review as contextual rather than motif-level.
+  suggested_aliases:
+  - saint_protected_by_intercession
+  - holy_person_protected_by_patronage
+  - intercessory_protection_of_saint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intercession-and-ransom-offered-for-a-despised-creature
+  motif_id: intercession_and_ransom_offered_for_a_despised_creature
+  label: intercession and ransom offered for a despised creature
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Intercession and ransom belong to supplication, mercy, and negotiated
+    obligation patterns already grouped under covenant.
+  cautions: Creature status may point to animal fable or compassion ethics; if the
+    focus is reciprocal gift or hospitality, sacred_exchange may be secondary.
+  suggested_aliases:
+  - ransom_offered_for_despised_creature
+  - intercession_for_despised_creature
+  - supplication_and_ransom_for_lowly_creature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intercession-saves-a-condemned-courtier
+  motif_id: intercession_saves_a_condemned_courtier
+  label: Intercession saves a condemned courtier
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A plea that averts punishment fits mercy, supplication, pardon, and social
+    bond repair patterns under covenant.
+  cautions: If the decisive force is miraculous saintly mediation, divine_intervention
+    may be a secondary mapping; courtier detail is likely contextual.
+  suggested_aliases:
+  - intercession_saves_the_condemned
+  - plea_for_mercy_saves_courtier
+  - condemned_courtier_spared_by_intercession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and tactical, legal, or culturally specific;
+  final placement should verify passage evidence before promoting granular aliases.
+- Reversal-of-harm motifs in this batch may split between divine_judgment and trickster
+  depending on whether the passage frames the reversal as moral reckoning or clever
+  escape.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3586
+  input_sha256: 8d85914e7c10e3b7011c756cdd0f9e980d17faaed03168ee46193ad465739f31
+

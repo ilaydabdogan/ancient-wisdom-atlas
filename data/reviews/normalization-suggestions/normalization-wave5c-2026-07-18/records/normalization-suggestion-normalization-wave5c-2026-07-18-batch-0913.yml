@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0913
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.material-propriety-in-ritual-objects
+  motif_id: material_propriety_in_ritual_objects
+  label: material propriety in ritual objects
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes ritual rules governing proper materials for sacred
+    objects, fitting sacred law and purity regulation.
+  cautions: Single occurrence; if the passage emphasizes crafted ritual technology
+    rather than prohibition, sacred_craft may be a secondary relation.
+  suggested_aliases:
+  - ritual_material_propriety
+  - proper_materials_for_sacred_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-bestowal-of-a-divine-made-shield
+  motif_id: maternal_bestowal_of_a_divine_made_shield
+  label: maternal bestowal of a divine-made shield
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine-made shield bestowed on a hero is a power object conferring
+    protection or martial authority.
+  cautions: Maternal giver may also evoke mother_goddess or divine_parent_child, but
+    the core motif is the sacred object transfer.
+  suggested_aliases:
+  - divine_made_shield
+  - divine_shield_bestowed_by_mother
+  - maternal_gift_of_protective_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-counsel-and-blessing-of-the-chosen-son
+  motif_id: maternal_counsel_and_blessing_of_the_chosen_son
+  label: Maternal counsel and blessing of the chosen son
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The blessing is a performative sacred speech act shaping the chosen son's
+    destiny.
+  cautions: If the emphasis is election, lineage, or legitimized succession, royal_legitimacy
+    or miraculous_child may be relevant secondary mappings.
+  suggested_aliases:
+  - maternal_blessing_of_chosen_son
+  - maternal_counsel_to_elected_child
+  - blessing_of_the_chosen_son
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-figure-establishes-priestly-office-and-clan-rule
+  motif_id: maternal_figure_establishes_priestly_office_and_clan_rule
+  label: Maternal figure establishes priestly office and clan rule
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on founding or legitimizing sacred office and clan
+    authority.
+  cautions: Culturally specific office structure needs human review; if the mother
+    is divine or ancestral, mother_goddess or culture_hero may be secondary.
+  suggested_aliases:
+  - maternal_foundation_of_priestly_office
+  - maternal_establishment_of_clan_rule
+  - sacred_foundation_of_priestly_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-food-taboo-after-child-rite
+  motif_id: maternal_food_taboo_after_child_rite
+  label: maternal food taboo after child rite
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A food taboo following a rite is a ritual prohibition and purity-law
+    pattern.
+  cautions: Preserve maternal and child-rite specifics as evidence detail; avoid broadening
+    to miraculous_child unless the child’s sacred destiny is central.
+  suggested_aliases:
+  - post_rite_maternal_food_taboo
+  - food_taboo_after_child_ritual
+  - maternal_ritual_food_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-taboo-causing-child-illness-and-confession-causing-recovery
+  motif_id: maternal_taboo_causing_child_illness_and_confession_causing_recovery
+  label: Maternal taboo causing child illness and confession causing recovery
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Illness caused by taboo violation and repaired through confession fits
+    sacred law, ritual prohibition, and moral-ritual consequence.
+  cautions: Culturally sensitive and composite; may also involve healing, spirit contagion,
+    or divine judgment depending on source evidence.
+  suggested_aliases:
+  - taboo_violation_causes_child_illness
+  - confession_restores_health_after_taboo
+  - maternal_taboo_and_child_recovery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mazda-as-source-of-sacred-entities-and-objects
+  motif_id: mazda_as_source_of_sacred_entities_and_objects
+  label: Mazda as source of sacred entities and objects
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: medium
+  rationale: A supreme deity as source of sacred beings and objects expresses cosmic
+    sovereignty and divine ordering power.
+  cautions: If the passage is specifically cosmogonic, cosmic_origin may be stronger;
+    if it lists ritual objects only, sacred_treasures or sacred_law may be secondary.
+  suggested_aliases:
+  - supreme_deity_as_source_of_sacred_entities
+  - ahura_mazda_source_of_sacred_objects
+  - divine_source_of_sacred_beings_and_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.meal-as-prayed-over-and-sprinkled-ritual-substance
+  motif_id: meal_as_prayed_over_and_sprinkled_ritual_substance
+  label: Meal as prayed-over and sprinkled ritual substance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: high
+  rationale: Prayed-over meal used by sprinkling functions as a consecrated ritual
+    substance.
+  cautions: Could also support sacrifice or sacred_exchange when the sprinkling is
+    an offering; preserve local ritual material specificity.
+  suggested_aliases:
+  - consecrated_meal_as_ritual_substance
+  - prayed_over_meal_sprinkling
+  - sacred_meal_sprinkling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.meal-sprinkling-across-landscape-features-and-on-visited-ritual-specialists
+  motif_id: meal_sprinkling_across_landscape_features_and_on_visited_ritual_specialists
+  label: Meal sprinkling across landscape features and on visited ritual specialists
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sprinkling consecrated meal across places and persons reads as ritual
+    offering or reciprocal maintenance of sacred relations.
+  cautions: Highly contextual; if landscape sacrality is central, axis_mundi or sacred_geography_pilgrimage
+    may be secondary; if only material use is central, sacred_substance fits better.
+  suggested_aliases:
+  - ritual_meal_sprinkling_across_landscape
+  - meal_offering_to_landscape_features
+  - meal_sprinkling_on_ritual_specialists
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.meal-sprinkling-on-trees-and-altar
+  motif_id: meal_sprinkling_on_trees_and_altar
+  label: Meal sprinkling on trees and altar
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sprinkling meal on altar and trees functions as a ritual offering maintaining
+    sacred relations.
+  cautions: Tree imagery alone should not force axis_mundi unless the trees function
+    as sacred centers or world connectors; preserve as granular ritual evidence.
+  suggested_aliases:
+  - meal_offering_on_trees_and_altar
+  - ritual_meal_sprinkling_on_altar
+  - consecrated_meal_sprinkled_on_sacred_trees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence ritual details; suggested mappings are broad
+  Pattern Explorer placements, not proposals to promote them as canonical motif families.
+- For Native American Southwest ritual-meal labels, preserve local material and action
+  details in evidence notes and avoid flattening them into generic sacrifice unless
+  offering or surrender is explicit.
+- 'Maternal-role labels split by function: blessing as performative speech, office-founding
+  as legitimacy, taboo as sacred law, and object-bestowal as sacred treasure.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 0913; human
+    review recommended for culturally specific ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0913
+  input_sha256: 72b7c70726794d0ae527d2b16e54995fe30923d5100f9dfcb62428d8a2e6d5f3
+

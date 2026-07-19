@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0758
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-chariot-from-a-heavenly-realm
+  motif_id: divine_chariot_from_a_heavenly_realm
+  label: divine chariot from a heavenly realm
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A heavenly vehicle appearing from a divine realm likely marks a manifestation
+    or revelation of sacred presence.
+  cautions: If the chariot primarily enables ascent, rescue, or royal authorization,
+    ascent, divine_intervention, or royal_legitimacy may be better secondary mappings.
+  suggested_aliases:
+  - heavenly_chariot
+  - divine_heavenly_chariot
+  - chariot_from_heaven
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-coercion-into-erotic-union
+  motif_id: divine_coercion_into_erotic_union
+  label: divine coercion into erotic union
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns erotic union involving divine agency, but coercion
+    makes the placement culturally and ethically sensitive.
+  cautions: Do not normalize coercive sexual violence into sacred_marriage or sacred_love
+    without source review; may require a distinct violence/power mapping or exclusion
+    if it is an episode-specific description.
+  suggested_aliases:
+  - coerced_erotic_union_by_divine_power
+  - divine_forced_erotic_union
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-combat-with-giant-using-landscape-as-weapon
+  motif_id: divine_combat_with_giant_using_landscape_as_weapon
+  label: Divine combat with giant using landscape as weapon
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is divine or heroic combat against a giant, with landscape
+    objects used as weapons, fitting the divine warrior combat complex.
+  cautions: Landscape-as-weapon detail should remain granular evidence; if combat
+    is ritualized warfare rather than divine monster combat, sacred_combat may be
+    a secondary mapping.
+  suggested_aliases:
+  - landscape_used_as_weapon_in_divine_combat
+  - divine_giant_combat_with_landscape_weapon
+  - mountain_or_landscape_used_as_heroic_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-command-over-nonentity-and-supernatural-beings
+  motif_id: divine_command_over_nonentity_and_supernatural_beings
+  label: Divine command over nonentity and supernatural beings
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: medium
+  rationale: Divine command over beings and nonbeing expresses universal sovereignty
+    and command over the cosmic order.
+  cautions: If the passage emphasizes creation by command, cosmic_origin may be better;
+    if it emphasizes mystical obedience, sacred_knowledge or mystical_quest may be
+    relevant.
+  suggested_aliases:
+  - divine_command_over_being_and_nonbeing
+  - sovereign_command_over_supernatural_beings
+  - divine_sovereignty_over_nonbeing_and_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-command-overriding-love-and-supplication
+  motif_id: divine_command_overriding_love_and_supplication
+  label: divine command overriding love and supplication
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A binding divine command taking precedence over personal love and pleas
+    fits sacred obligation and covenantal authority.
+  cautions: Could also map to divine_judgment if refusal or punishment is central,
+    or sacred_love if the conflict of love and duty is the main motif.
+  suggested_aliases:
+  - divine_command_overrides_supplication
+  - sacred_duty_overrides_love
+  - divine_order_over_personal_attachment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-command-restoring-watery-order
+  motif_id: divine_command_restoring_watery_order
+  label: divine command restoring watery order
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on divine authority restoring order to waters, fitting
+    sacred waters as boundary, danger, and transformation medium.
+  cautions: If the emphasis is cosmic ordering by command, cosmic_origin may fit;
+    do not map to flood_and_renewal unless catastrophic destruction and renewal are
+    present.
+  suggested_aliases:
+  - divine_command_over_waters
+  - watery_order_restored_by_divine_command
+  - divine_restoration_of_water_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-commission-for-redemption
+  motif_id: divine_commission_for_redemption
+  label: divine commission for redemption
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred power authorizing a redemptive task fits direct divine guidance
+    and intervention in human or cosmic affairs.
+  cautions: If the commission initiates a hero or prophet, initiation or divine_call
+    may be relevant; if redemption is eschatological judgment, divine_judgment may
+    be secondary.
+  suggested_aliases:
+  - redemptive_divine_commission
+  - divine_mission_for_redemption
+  - divinely_commissioned_redemption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-commission-of-the-speaker
+  motif_id: divine_commission_of_the_speaker
+  label: divine commission of the speaker
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A speaker authorized by the divine concerns transmission of sacred knowledge
+    or inspired utterance.
+  cautions: If the passage is a call narrative, initiation or divine_intervention
+    may be better; if it is merely authorial self-positioning, review for possible
+    textual artifact.
+  suggested_aliases:
+  - divinely_commissioned_speaker
+  - divine_authorization_of_speech
+  - speaker_commissioned_by_the_divine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-complaint-over-unequal-access-to-life-renewing-gifts
+  motif_id: divine_complaint_over_unequal_access_to_life_renewing_gifts
+  label: divine complaint over unequal access to life-renewing gifts
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: uncertain
+  confidence: low
+  rationale: Life-renewing gifts may be sacred substances or immortality-conferring
+    objects, but the divine complaint and unequal access are context-dependent.
+  cautions: Could fit sacred_substance, sacred_treasures, immortality_without_renewal,
+    divine_judgment, or social-order themes depending on the passage; single occurrence
+    is highly specific.
+  suggested_aliases:
+  - unequal_access_to_life_renewing_gifts
+  - life_renewing_gifts_withheld_or_unequally_shared
+  - divine_complaint_over_renewal_gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-concealment-and-revelation-at-entry
+  motif_id: divine_concealment_and_revelation_at_entry
+  label: divine concealment and revelation at entry
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Concealment followed by revelation during an entry scene fits staged
+    manifestation of divine presence.
+  cautions: If entry across a guarded boundary is central, threshold_guardian or initiation
+    may be secondary; if disguise is central, shapeshifter may be relevant.
+  suggested_aliases:
+  - divine_revelation_at_entry
+  - concealed_deity_revealed_at_threshold
+  - divine_concealment_before_manifestation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels begin with broad 'divine command/commission' wording; final placement
+  should check whether the passage emphasizes sovereignty, call/initiation, revelation,
+  or authorial framing.
+- Single-occurrence composite labels should preserve granular details as aliases or
+  evidence notes rather than becoming new taxonomy families.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    coercive erotic-union and life-renewing-gift complaint items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0758
+  input_sha256: 1d2dcaa97a0c270c79716c77b4893ad16bb7dab78073615b2f4f7b5e566bfea6
+

@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2635
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.chosen-by-warriors-on-the-fourth-day
+  motif_id: chosen_by_warriors_on_the_fourth_day
+  label: chosen by warriors on the fourth day
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe election, adoption, ritual timing, or a passage-specific
+    event; its mythic function is unclear from wording alone.
+  cautions: Single occurrence and culturally contextual; verify whether the fourth-day
+    timing is ritually significant or merely narrative detail.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chronological-harmonization-problem-across-heroic-genealogies
+  motif_id: chronological_harmonization_problem_across_heroic_genealogies
+  label: Chronological harmonization problem across heroic genealogies
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a scholarly or editorial chronology problem rather
+    than a narrative motif.
+  cautions: Preserve as provenance or source-critical note if useful, but exclude
+    from motif pattern queries.
+  suggested_aliases:
+  - genealogical_chronology_problem
+  - heroic_genealogy_harmonization_problem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.circular-ceremonial-camp-with-center-and-eastward-orientation
+  motif_id: circular_ceremonial_camp_with_center_and_eastward_orientation
+  label: Circular ceremonial camp with center and eastward orientation
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritually oriented camp with marked center fits sacred center and ordered
+    ceremonial space.
+  cautions: Do not overread as axis mundi unless the center/orientation functions
+    cosmologically; may also be a local ceremonial layout detail.
+  suggested_aliases:
+  - oriented_ceremonial_camp
+  - ritual_camp_with_sacred_center
+  - eastward_oriented_ceremonial_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.circulating-war-trophies-through-villages-for-repeated-dances
+  motif_id: circulating_war_trophies_through_villages_for_repeated_dances
+  label: Circulating war trophies through villages for repeated dances
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: War trophies ritually circulated and danced through villages fit combat
+    memorialization and ritual warfare practice.
+  cautions: May also involve mourning, victory celebration, or community renewal;
+    source context should determine whether trophies are sacred objects or war-rite
+    evidence.
+  suggested_aliases:
+  - circulation_of_war_trophies_through_village_dances
+  - war_trophies_carried_in_village_dances
+  - ritual_circulation_of_war_trophies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.circulation-of-war-trophies-through-village-dances
+  motif_id: circulation_of_war_trophies_through_village_dances
+  label: circulation of war trophies through village dances
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: This is effectively the same ritual war-trophy circulation pattern as
+    the paired label in this batch.
+  cautions: Likely alias of circulating_war_trophies_through_villages_for_repeated_dances;
+    verify whether repeated dances add meaningful local detail.
+  suggested_aliases:
+  - circulating_war_trophies_through_villages_for_repeated_dances
+  - war_trophies_carried_in_village_dances
+  - ritual_circulation_of_war_trophies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.civic-hero-rivalry-through-verbal-contest
+  motif_id: civic_hero_rivalry_through_verbal_contest
+  label: civic hero rivalry through verbal contest
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A verbal contest between rival heroes functions like agonistic combat
+    or precombat flyting within heroic rivalry.
+  cautions: If the passage emphasizes rhetoric, poetry, or wisdom rather than rivalry,
+    storytelling_as_power or sacred_knowledge may be better.
+  suggested_aliases:
+  - heroic_verbal_contest
+  - verbal_agon_between_civic_heroes
+  - hero_rivalry_by_speech_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.civil-strife-after-external-war
+  motif_id: civil_strife_after_external_war
+  label: civil strife after external war
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a broad sociopolitical sequence and may be plot summary
+    rather than a stable motif.
+  cautions: Could fit sacred_combat, divine_judgment, or royal/social-order disruption
+    depending on source evidence; avoid mapping without clearer sacred or narrative
+    function.
+  suggested_aliases:
+  - internal_strife_after_war
+  - postwar_civil_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-emblem-justified-by-mythic-ordeal
+  motif_id: clan_emblem_justified_by_mythic_ordeal
+  label: Clan emblem justified by mythic ordeal
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines social identity, emblem etiology, and ordeal; current
+    groups do not cleanly capture clan-emblem legitimation.
+  cautions: Culturally sensitive and likely tied to specific crest rights or oral
+    history; review source evidence before treating as a general motif.
+  suggested_aliases:
+  - mythic_ordeal_justifies_clan_emblem
+  - clan_crest_etiology_from_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clever-praise-rewarded
+  motif_id: clever_praise_rewarded
+  label: clever praise rewarded
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reward gained through skillful praise centers on effective speech as
+    a socially powerful act.
+  cautions: If the reward is a reciprocal gift or patronage exchange, sacred_exchange
+    may be a secondary fit; if merely anecdotal, treat as evidence detail.
+  suggested_aliases:
+  - skillful_praise_rewarded
+  - praise_speech_wins_reward
+  - clever_encomium_rewarded
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cloud-like-weapon-released-from-nested-containers
+  motif_id: cloud_like_weapon_released_from_nested_containers
+  label: cloud-like weapon released from nested containers
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural weapon stored in nested containers functions as a power
+    object released for combat.
+  cautions: Could also relate to sacred_vessel because containment/release is central;
+    keep cloud-like and nested-container details as local evidence.
+  suggested_aliases:
+  - supernatural_weapon_released_from_nested_containers
+  - cloud_weapon_in_containers
+  - contained_cloud_like_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence, culturally specific ritual or
+  social-order labels; suggested placements are provisional and should be checked
+  against source passages.
+- War-trophy circulation labels appear to be near-duplicates and should be reviewed
+  for alias consolidation before taxonomy changes.
+- No transmission or borrowing claim is implied by any suggested placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific Native American ceremonial and clan-emblem items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2635
+  input_sha256: af59f63c4ed542419960d3e8e8b3e3b4210f3db822436af2411512eccfc3ac2a
+

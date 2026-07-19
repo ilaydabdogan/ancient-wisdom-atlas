@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1157
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-token-averts-killing-of-kin
+  motif_id: sacred_token_averts_killing_of_kin
+  label: sacred token averts killing of kin
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A token prevents kin-slaying by proving identity or kinship, matching
+    existing recognition-token functions.
+  cautions: Single occurrence; if the token is mainly a holy amulet rather than an
+    identity proof, sacred_treasures may be a secondary fit.
+  suggested_aliases:
+  - recognition token averts kin-slaying
+  - sacred token prevents killing of kin
+  - kinship token prevents mistaken killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-totality-from-first-created-figure-to-final-victorious-figure
+  motif_id: sacred_totality_from_first_created_figure_to_final_victorious_figure
+  label: Sacred totality from first-created figure to final victorious figure
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a doctrinal or cosmological totality formula rather
+    than a clearly bounded narrative motif.
+  cautions: May involve Zoroastrian eschatology, cosmic sovereignty, world ages, or
+    textual theology; source evidence is needed before mapping.
+  suggested_aliases:
+  - sacred totality from first creation to final victory
+  - cosmic span from first-created figure to final victor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-tower-under-construction-until-the-end
+  motif_id: sacred_tower_under_construction_until_the_end
+  label: Sacred tower under construction until the end
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sacred tower functions as a vertical sacred structure and likely cosmic
+    or eschatological center.
+  cautions: If the focus is apocalyptic time rather than sacred verticality, sacred_time
+    or world_ages_cosmic_decline may be relevant; do not equate with failed tower/downfall
+    without evidence.
+  suggested_aliases:
+  - eschatological sacred tower
+  - sacred tower built until the end
+  - unfinished sacred tower
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-transformation-at-gathering-clouds
+  motif_id: sacred_transformation_at_gathering_clouds
+  label: Sacred transformation at gathering clouds
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines weather imagery and transformation but lacks enough
+    function to choose a stable group.
+  cautions: Could be theophany, weather-spirit intervention, shapeshifting, initiation,
+    or a passage-specific image; review culturally specific source context carefully.
+  suggested_aliases:
+  - transformation amid gathering clouds
+  - cloud-associated sacred transformation
+  - weather-marked transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-transport-memorialized-by-vessel-parts
+  motif_id: sacred_transport_memorialized_by_vessel_parts
+  label: sacred transport memorialized by vessel parts
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a highly specific memorial or relic-detail tied to
+    vessel parts rather than a reusable motif.
+  cautions: If the passage emphasizes relic devotion or a sacred vehicle as power
+    object, sacred_treasures or sacred_vessel may preserve it as evidence; otherwise
+    exclude from broad pattern queries.
+  suggested_aliases:
+  - vessel parts memorialize sacred transport
+  - memorialized sacred conveyance by vessel fragments
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-transport-of-fire-by-animal-conveyance
+  motif_id: sacred_transport_of_fire_by_animal_conveyance
+  label: Sacred transport of fire by animal conveyance
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: The core motif is sacred fire being conveyed or preserved through a ritualized
+    animal transport scene.
+  cautions: Animal conveyance should be preserved as local evidence; map to divine_intervention
+    only if animal agency is supernatural and central.
+  suggested_aliases:
+  - animal-borne sacred fire
+  - sacred fire transported by animal
+  - ritual transport of fire by animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-tree
+  motif_id: sacred_tree
+  label: Sacred tree
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: alias
+  confidence: high
+  rationale: Sacred tree is already treated as a broad label under the world-axis
+    and sacred-center complex.
+  cautions: Do not assume axis-mundi function if the tree is only a local shrine,
+    ancestor embodiment, or healing plant; preserve passage function in notes.
+  suggested_aliases:
+  - holy tree
+  - ritual tree
+  - world tree
+  - sacred-tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-tree-as-continuing-presence-of-life-giving-figure
+  motif_id: sacred_tree_as_continuing_presence_of_life_giving_figure
+  label: sacred tree as continuing presence of life-giving figure
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A life-giving figure continuing as a tree suggests postmortem or transformed
+    presence in a living form.
+  cautions: If the tree primarily marks a sacred center, also consider axis_mundi;
+    if it is worshiped as a deity's body, theophany or sacred_tree_axis may be secondary.
+  suggested_aliases:
+  - life-giving figure continues as sacred tree
+  - tree as continuing presence of benefactor
+  - sacred tree embodies life-giving ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-tree-as-divine-restorer
+  motif_id: sacred_tree_as_divine_restorer
+  label: Sacred tree as divine restorer
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred tree with restorative divine function fits the sacred-tree/axis
+    complex while preserving its healing or renewal role.
+  cautions: If restoration is the main narrative action, death_and_transformation
+    or divine_intervention may be better secondary mappings; source context needed
+    for Ainu-specific meaning.
+  suggested_aliases:
+  - restorative sacred tree
+  - divine restoring tree
+  - sacred tree restores life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-tree-as-embodiment-or-ritual-form-of-the-god
+  motif_id: sacred_tree_as_embodiment_or_ritual_form_of_the_god
+  label: sacred tree as embodiment or ritual form of the god
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A tree serving as divine embodiment or ritual form belongs within the
+    sacred tree and world-axis complex.
+  cautions: Because the tradition is marked comparative, verify this is not a scholarly
+    synthesis artifact; if mainly direct divine manifestation, theophany may be secondary.
+  suggested_aliases:
+  - deity embodied in sacred tree
+  - sacred tree as god's ritual form
+  - tree as divine embodiment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and should retain local evidence details rather
+  than becoming new canonical motifs.
+- Tree labels may require secondary mappings depending on whether the source emphasizes
+  cosmic axis, divine embodiment, healing, ancestor presence, or postmortem transformation.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 1157; human
+    review recommended for culturally specific and comparative labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1157
+  input_sha256: 4628a81c0cf69cf95a7a83f0ca792ac7158f77e4fadb57e7e1ddf9f0fc22efcd
+

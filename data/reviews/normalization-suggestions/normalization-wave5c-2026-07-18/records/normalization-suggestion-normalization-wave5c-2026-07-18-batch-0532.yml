@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0532
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ignored-warning-not-to-pick-up-a-roadside-child
+  motif_id: ignored_warning_not_to_pick_up_a_roadside_child
+  label: ignored warning not to pick up a roadside child
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: A roadside child may function as a liminal encounter or dangerous threshold
+    test during travel.
+  cautions: Single occurrence and highly contextual; could instead be a warning-taboo,
+    trickster encounter, spirit child, or passage-specific episode.
+  suggested_aliases:
+  - ignored_warning_about_roadside_child
+  - dangerous_roadside_child_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ill-matched-companionship-leading-to-harm
+  motif_id: ill_matched_companionship_leading_to_harm
+  label: ill-matched companionship leading to harm
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an abstract moral or narrative outcome rather than a clear
+    journey motif.
+  cautions: Could fit betrayal, bad counsel, fable ethics, or tragic companionship
+    depending on the passage; avoid creating a group from one broad formulation.
+  suggested_aliases:
+  - harmful_mismatched_companionship
+  - unsuitable_companions_cause_harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impassable-or-elusive-mountain-passage
+  motif_id: impassable_or_elusive_mountain_passage
+  label: Impassable or elusive mountain passage
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mountain passage that cannot be reached or crossed fits mountain-as-threshold
+    and sacred geography within the axis/sacred mountain complex.
+  cautions: If the passage is only practical travel obstruction, it may be an over-specific
+    journey detail rather than a symbolic motif.
+  suggested_aliases:
+  - elusive_mountain_passage
+  - impassable_mountain_crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impassable-roads-constrain-exchange
+  motif_id: impassable_roads_constrain_exchange
+  label: Impassable roads constrain exchange
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a socio-geographic or explanatory passage detail
+    about transport and exchange rather than a mythic motif.
+  cautions: If source evidence frames blocked roads as sacred boundary, ordeal, or
+    divine punishment, human review could remap to hero_journey or divine_judgment.
+  suggested_aliases:
+  - blocked_roads_limit_exchange
+  - impassable_routes_constrain_trade
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imperial-building-through-conquest-spoils-and-forced-labor
+  motif_id: imperial_building_through_conquest_spoils_and_forced_labor
+  label: imperial building through conquest spoils and forced labor
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: Imperial construction funded by conquest may express royal power and
+    legitimation, but the sacred function is not clear from the label.
+  cautions: May be historical annalistic detail, imperial ideology, or commentary
+    artifact rather than a symbolic motif; review source evidence for sacral kingship
+    framing.
+  suggested_aliases:
+  - royal_building_from_conquest_spoils
+  - imperial_construction_by_forced_labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imperial-conquest-followed-by-annexation-and-colonization
+  motif_id: imperial_conquest_followed_by_annexation_and_colonization
+  label: Imperial conquest followed by annexation and colonization
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to summarize a historical-political process rather than
+    a recurring mythic motif.
+  cautions: If the passage casts conquest as divinely mandated kingship or sacred
+    order, review could index secondarily under royal_legitimacy or divine_judgment.
+  suggested_aliases:
+  - conquest_annexation_and_colonization
+  - imperial_annexation_after_conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imperial-conquest-replacing-episodic-plunder
+  motif_id: imperial_conquest_replacing_episodic_plunder
+  label: imperial conquest replacing episodic plunder
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording is analytical political history, not a distinct narrative
+    or symbolic motif.
+  cautions: Could be retained as historical context, but should not drive pattern
+    queries unless tied to sacred kingship ideology in passage evidence.
+  suggested_aliases:
+  - shift_from_plunder_to_imperial_conquest
+  - conquest_replaces_episodic_raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imperial-punishment-by-deportation-after-conquest
+  motif_id: imperial_punishment_by_deportation_after_conquest
+  label: imperial punishment by deportation after conquest
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Punitive deportation after conquest may function as judgment or moral-political
+    reckoning in royal inscriptions.
+  cautions: If merely a historical imperial policy, exclude from motif queries; source
+    evidence must show sacred punishment, divine sanction, or moral order.
+  suggested_aliases:
+  - deportation_as_punishment_after_conquest
+  - conquest_followed_by_punitive_deportation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imperial-resettlement-after-conquest
+  motif_id: imperial_resettlement_after_conquest
+  label: Imperial resettlement after conquest
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label likely records historical administrative practice rather than
+    mythic journey, exile, or sacred transformation.
+  cautions: If narrated as divinely ordered exile, punishment, or reconstitution of
+    social order, review under divine_judgment or covenant may be warranted.
+  suggested_aliases:
+  - resettlement_after_conquest
+  - conquest_followed_by_population_resettlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impermanence-of-pleasure-kingship-and-dwelling-places
+  motif_id: impermanence_of_pleasure_kingship_and_dwelling_places
+  label: impermanence of pleasure, kingship, and dwelling places
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The taxonomy already groups impermanence of worldly or royal power under
+    pride_and_downfall.
+  cautions: If the passage emphasizes contemplative renunciation rather than royal
+    decline, mystical_quest may be a useful secondary mapping.
+  suggested_aliases:
+  - impermanence_of_worldly_power
+  - impermanence_of_royal_pleasure_and_dwellings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Mesopotamian imperial labels appear to be historical or annalistic summaries
+  rather than symbolic motifs; human review should check whether the source frames
+  them as sacred kingship, divine mandate, or punishment before indexing.
+- Journey bucket placement is weak for many items in this batch; several labels concern
+  political order, historical context, or moral reflection rather than travel motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0532
+  input_sha256: bfbaafc06167ef88d4b88211be1a0b55b879d3bedaf785de70f6ee77a100d2b4
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0819
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.escape-followed-by-retaliatory-pursuit-and-victory-rites
+  motif_id: escape_followed_by_retaliatory_pursuit_and_victory_rites
+  label: escape followed by retaliatory pursuit and victory rites
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines escape, retaliatory pursuit, victory, and rites, and
+    the dominant function is unclear without passage evidence.
+  cautions: Single occurrence and culturally specific Plains ritual context; may belong
+    under sacred_combat, sacrifice, divine_judgment, hero_journey, or be an episode
+    summary rather than a reusable motif.
+  suggested_aliases:
+  - retaliatory_pursuit_after_escape
+  - victory_rites_after_pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.esoteric-ritual-song-requiring-mythological-and-symbolic-knowledge
+  motif_id: esoteric_ritual_song_requiring_mythological_and_symbolic_knowledge
+  label: esoteric ritual song requiring mythological and symbolic knowledge
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual song with required mythological knowledge fits the broader sound/song-as-sacred-power
+    complex, with secondary relevance to sacred knowledge.
+  cautions: If the passage emphasizes restricted knowledge more than song performance,
+    sacred_knowledge may be the better primary group; review culturally specific ceremonial
+    context carefully.
+  suggested_aliases:
+  - esoteric_ritual_song
+  - ritual_song_requiring_sacred_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eternal-divine-preservation-of-life
+  motif_id: eternal_divine_preservation_of_life
+  label: Eternal divine preservation of life
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Divine preservation of life concerns life sustained beyond ordinary mortality,
+    adjacent to immortality and death-transcendence patterns.
+  cautions: Hermetic philosophical wording may be doctrinal abstraction rather than
+    narrative motif; could also fit sacred_knowledge or divine_intervention depending
+    on source context.
+  suggested_aliases:
+  - divine_preservation_of_life
+  - life_preserved_by_divine_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eternal-divine-sanctuary-among-the-people
+  motif_id: eternal_divine_sanctuary_among_the_people
+  label: Eternal divine sanctuary among the people
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine sanctuary among a people functions as a sacred center or dwelling
+    place organizing divine-human presence.
+  cautions: If the passage emphasizes covenant promise or eschatological restoration
+    rather than sacred center, covenant or divine_intervention may be better secondary
+    mappings.
+  suggested_aliases:
+  - divine_sanctuary_among_the_people
+  - permanent_divine_dwelling_among_the_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eternal-youth-and-youth-renewing-divine-food
+  motif_id: eternal_youth_and_youth_renewing_divine_food
+  label: Eternal youth and youth-renewing divine food
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: high
+  rationale: Youth-renewing divine food is a sacred substance conferring vitality
+    or immortality, matching existing divine food variants.
+  cautions: Could also relate to immortality_without_renewal if the passage contrasts
+    deathlessness with lost youth; preserve eternal-youth detail as evidence.
+  suggested_aliases:
+  - youth_renewing_divine_food
+  - rejuvenating_food_preserves_divine_youth
+  - divine_food_conferring_eternal_youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethical-purity-of-ritual-materials
+  motif_id: ethical_purity_of_ritual_materials
+  label: Ethical purity of ritual materials
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rules governing the purity of materials used in ritual fit sacred law,
+    purity, and ritual prohibition patterns.
+  cautions: May also involve sacrifice if the materials are offerings; Zoroastrian
+    purity categories should be reviewed with source evidence before broad indexing.
+  suggested_aliases:
+  - purity_of_ritual_materials
+  - ritual_material_purity
+  - ethical_purity_in_offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethical-surrender-to-divine-will
+  motif_id: ethical_surrender_to_divine_will
+  label: Ethical surrender to divine will
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: low
+  rationale: Surrender to divine will can function as interior discipline or devotional
+    transformation on a mystical path.
+  cautions: This may be a doctrinal or ethical teaching rather than a narrative motif;
+    if indexed, consider sacred_law or sacred_exchange as secondary depending on passage
+    context.
+  suggested_aliases:
+  - surrender_to_divine_will
+  - submission_to_divine_order
+  - ethical_acceptance_of_divine_will
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethnonym-origin-through-divine-naming
+  motif_id: ethnonym_origin_through_divine_naming
+  label: Ethnonym origin through divine naming
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Explaining a people-name through divine naming is an etiological origin
+    pattern, already near eponymous ancestor and people-origin children.
+  cautions: If only a name note without mythic action, it may be too specific or textual;
+    could relate to sacred_knowledge if emphasis is on divine names.
+  suggested_aliases:
+  - people_name_origin_through_divine_naming
+  - divine_naming_of_a_people
+  - ethnonym_etiology_by_divine_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-explanation-for-an-animal-s-inherited-physical-trait
+  motif_id: etiological_explanation_for_an_animal_s_inherited_physical_trait
+  label: Etiological explanation for an animal's inherited physical trait
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a generic animal etiology, but current groups do not cleanly
+    cover animal trait origin without knowing the cause or narrative function.
+  cautions: Could belong under cosmic_origin, shapeshifter, divine_judgment, trickster/fable,
+    or be too broad a generated label; source evidence is needed.
+  suggested_aliases:
+  - animal_trait_etiology
+  - origin_of_animal_physical_trait
+  - inherited_animal_trait_explained_by_myth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-myth-explaining-a-ritual-food-taboo
+  motif_id: etiological_myth_explaining_a_ritual_food_taboo
+  label: etiological myth explaining a ritual food taboo
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A myth explaining a ritual food taboo fits sacred law, prohibition, and
+    purity regulation.
+  cautions: Comparative label may be generalized; if the passage emphasizes mythic
+    death as the taboo cause, preserve that as evidence and consider cosmic_origin
+    only as secondary etiology context.
+  suggested_aliases:
+  - ritual_food_taboo_etiology
+  - mythic_origin_of_food_taboo
+  - etiological_food_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and composite; suggested placements should
+  be treated as provisional until source passages confirm narrative function.
+- For etiological labels, distinguish true origin myths from editorial explanations
+  or comparative summaries before indexing broadly.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed for culturally
+    specific ritual and doctrinal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0819
+  input_sha256: 4c4d50da2234670f576108524c8b40b97fb73c7de3babf565396a79ea20e543e
+

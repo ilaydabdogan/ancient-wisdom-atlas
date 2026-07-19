@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0043
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.birth-without-ceremony-and-burial-of-placenta-and-navel-string
+  motif_id: birth_without_ceremony_and_burial_of_placenta_and_navel_string
+  label: birth without ceremony and burial of placenta and navel string
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes birth ritual omission with burial of birth materials
+    and may be an ethnographic detail rather than a stable motif.
+  cautions: Could belong with sacred_law, miraculous_child, ancestor_rites, or be
+    excluded depending on passage function; single occurrence needs source review.
+  suggested_aliases:
+  - placenta_and_navel_string_burial
+  - birth_materials_burial_without_ceremony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bleeding-tree-reveals-murdered-dead
+  motif_id: bleeding_tree_reveals_murdered_dead
+  label: Bleeding tree reveals murdered dead
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A tree bleeding to disclose murdered dead suggests postmortem transformation
+    or embodiment of the dead in vegetal form.
+  cautions: If the tree primarily functions as a truth-sign or oracle, divine_judgment
+    or sacred_knowledge may be relevant; preserve the murder-revelation detail.
+  suggested_aliases:
+  - bleeding_tree_reveals_the_dead
+  - murdered_dead_revealed_by_bleeding_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessed-afterlife-destination
+  motif_id: blessed_afterlife_destination
+  label: Blessed afterlife destination
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: high
+  rationale: A blessed destination after death fits the afterlife landscape or postmortem
+    route complex.
+  cautions: If the passage only names a static paradise without journey, otherworld
+    may be a secondary fit; do not infer resurrection.
+  suggested_aliases:
+  - blessed_afterlife_abode
+  - blessed_postmortem_destination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessed-dead-honored-for-piety-art-and-service
+  motif_id: blessed_dead_honored_for_piety_art_and_service
+  label: Blessed dead honored for piety, art, and service
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe funerary commemoration, moral reward, or inscriptional
+    praise rather than a narrative motif.
+  cautions: Could map to heroic_funeral_rites if ritual honor is central, divine_judgment
+    if postmortem reward is central, or _meta_textual if only epitaphic commentary.
+  suggested_aliases:
+  - honored_blessed_dead
+  - blessed_dead_honored_for_virtue_and_service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessed-immortality-after-death
+  motif_id: blessed_immortality_after_death
+  label: Blessed immortality after death
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Immortality granted after death is a postmortem transformation into a
+    death-transcending state.
+  cautions: If the passage emphasizes reward of the righteous or abode more than transformation,
+    divine_judgment or afterlife_passage may be secondary mappings.
+  suggested_aliases:
+  - postmortem_blessed_immortality
+  - immortality_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessed-immortality-of-righteous-souls-without-bodily-resurrection
+  motif_id: blessed_immortality_of_righteous_souls_without_bodily_resurrection
+  label: Blessed immortality of righteous souls without bodily resurrection
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core pattern is continued transformed life of souls after death,
+    explicitly distinguished from bodily resurrection.
+  cautions: The doctrinal distinction should be preserved; do not collapse into resurrection.
+    Divine_judgment may apply if righteousness and reward are central.
+  suggested_aliases:
+  - righteous_souls_immortal_without_resurrection
+  - soul_immortality_without_bodily_resurrection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessed-immortality-of-the-soul
+  motif_id: blessed_immortality_of_the_soul
+  label: blessed immortality of the soul
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Soul immortality after death fits death-transcending postmortem transformation.
+  cautions: May also belong under sacred_knowledge if the passage is philosophical
+    anthropology rather than narrative afterlife expectation.
+  suggested_aliases:
+  - immortality_of_the_soul
+  - blessed_soul_immortality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessed-postmortem-abode-and-soul-reward
+  motif_id: blessed_postmortem_abode_and_soul_reward
+  label: Blessed postmortem abode and soul reward
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: high
+  rationale: A postmortem abode and reward for the soul belongs to mapped afterlife
+    destination and judgment patterns.
+  cautions: Because reward is explicit, divine_judgment should be considered as a
+    related or secondary group during review.
+  suggested_aliases:
+  - postmortem_abode_and_reward
+  - blessed_soul_reward_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blocked-paths-prevent-spirit-passage
+  motif_id: blocked_paths_prevent_spirit_passage
+  label: blocked paths prevent spirit passage
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Obstructed paths affecting a spirit's movement fit the afterlife passage
+    and postmortem navigation complex.
+  cautions: Could instead concern apotropaic boundary sealing or ritual prevention
+    of spirit return; review whether the blocked path helps or harms the dead.
+  suggested_aliases:
+  - blocked_spirit_paths
+  - obstructed_paths_prevent_soul_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-as-a-sign-revealing-death-to-the-victim-s-people
+  motif_id: blood_as_a_sign_revealing_death_to_the_victim_s_people
+  label: Blood as a sign revealing death to the victim's people
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Blood functioning as a sign that communicates death is closest to omen
+    or revelatory sign logic.
+  cautions: If the emphasis is blood as life-substance, sacred_law may fit; if it
+    is only an episode-specific message token, exclude or preserve as evidence detail.
+  suggested_aliases:
+  - blood_sign_reveals_death
+  - blood_omen_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and doctrinal or ethnographic; suggested placements
+  should be treated as provisional until source passages confirm narrative function.
+- Blessed afterlife and soul-immortality labels overlap across afterlife_passage,
+  death_and_transformation, and divine_judgment; avoid merging them with resurrection
+  when bodily raising is explicitly absent.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0043
+  input_sha256: 13be1eecddfe2727a39718aeb3a0664ec6e16d59402e5ee2e41051497ef55e93
+

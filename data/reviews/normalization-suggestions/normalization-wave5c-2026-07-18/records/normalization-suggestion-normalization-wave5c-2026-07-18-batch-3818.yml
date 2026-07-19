@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3818
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.protective-bow-case-and-attached-quiver-assemblage
+  motif_id: protective_bow_case_and_attached_quiver_assemblage
+  label: protective bow-case and attached quiver assemblage
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label names a specific equipment assemblage rather than a recurring
+    narrative or symbolic function.
+  cautions: If source evidence shows the bow-case/quiver has supernatural protective
+    agency, reconsider under sacred_treasures or sacred_law.
+  suggested_aliases:
+  - protective_weapon_case
+  - protective_quiver_assemblage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-chain-of-fortified-stations
+  motif_id: protective_chain_of_fortified_stations
+  label: protective chain of fortified stations
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a local defensive geography or settlement detail, not a
+    mythic motif.
+  cautions: If fortified stations function as a ritual boundary against spirits or
+    sacred danger, review for sacred_law or threshold_guardian.
+  suggested_aliases:
+  - fortified_protective_stations
+  - defensive_chain_of_stations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-charm-with-fatal-vulnerability
+  motif_id: protective_charm_with_fatal_vulnerability
+  label: Protective charm with fatal vulnerability
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: high
+  rationale: Protection limited by a fatal weakness matches the conditional invulnerability
+    and hidden vulnerability structure.
+  cautions: If the charm is merely a power object without invulnerability logic, sacred_treasures
+    may be a secondary fit.
+  suggested_aliases:
+  - protective_charm_with_hidden_weakness
+  - fatal_exception_to_protective_charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-charms-against-hail
+  motif_id: protective_charms_against_hail
+  label: Protective charms against hail
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Charms used to avert harmful weather fit the apotropaic protection complex
+    currently folded under sacred_law.
+  cautions: Weather-specific protective rites may be ethnographic detail; avoid treating
+    hail as a general catastrophe motif without broader evidence.
+  suggested_aliases:
+  - hail_averting_charm
+  - apotropaic_charm_against_hail
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-circumambulation-with-sprayed-charm-substance
+  motif_id: protective_circumambulation_with_sprayed_charm_substance
+  label: protective circumambulation with sprayed charm substance
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A protective rite using movement and charm substance fits apotropaic
+    ritual regulation under sacred_law.
+  cautions: Could also overlap sacrifice or ritual_expulsion if the rite expels harm
+    or seals a boundary; source function should be checked.
+  suggested_aliases:
+  - protective_circumambulation
+  - sprayed_charm_substance_for_protection
+  - apotropaic_circumambulation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-community-born-from-proximity
+  motif_id: protective_community_born_from_proximity
+  label: protective community born from proximity
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is abstract and could mean social solidarity, sacred association,
+    spatial protection, or commentary.
+  cautions: Needs passage evidence before mapping; possible fits include sacred_exchange,
+    covenant, sacred_law, or divine_intervention depending on agency and function.
+  suggested_aliases:
+  - protection_through_proximity
+  - community_protection_by_nearness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-concealment-by-female-helpers
+  motif_id: protective_concealment_by_female_helpers
+  label: protective concealment by female helpers
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Protective helpers concealing a threatened figure fits rescue or guidance,
+    but the helpers' status is unclear.
+  cautions: If helpers are ordinary humans, this may be a plot detail; if tied to
+    threatened childhood or hidden identity, miraculous_child or recognition_tokens_hidden_identity
+    may fit better.
+  suggested_aliases:
+  - protective_concealment_by_helpers
+  - female_helpers_hide_threatened_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-concealment-by-wished-for-snow
+  motif_id: protective_concealment_by_wished_for_snow
+  label: protective concealment by wished-for snow
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A wished-for natural event concealing someone suggests supernatural aid
+    or intervention through nature.
+  cautions: Could be too episode-specific; if no sacred agency or effective wish is
+    present, preserve only as evidence detail.
+  suggested_aliases:
+  - snow_concealment_rescue
+  - protective_snowfall_by_wish
+  - natural_concealment_as_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-concealment-of-infant-from-witch
+  motif_id: protective_concealment_of_infant_from_witch
+  label: Protective concealment of infant from witch
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: high
+  rationale: A threatened infant hidden from a dangerous figure matches the protected
+    or concealed child pattern.
+  cautions: If the infant has no special destiny and the focus is witchcraft danger,
+    sacred_law or divine_intervention may be secondary.
+  suggested_aliases:
+  - infant_hidden_from_witch
+  - protective_hiding_of_threatened_infant
+  - threatened_infant_concealed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-confinement-with-bone-mediated-escape
+  motif_id: protective_confinement_with_bone_mediated_escape
+  label: Protective confinement with bone-mediated escape
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines confinement, protection, a bone object, and escape;
+    the primary motif function is unclear.
+  cautions: May be over-specific comparative folklore wording. Possible placements
+    include sacred_treasures, sacred_vessel, initiation, or trickster depending on
+    whether the bone is a power object, container key, ordeal aid, or escape stratagem.
+  suggested_aliases:
+  - bone_mediated_escape_from_confinement
+  - protective_confinement_and_escape
+  - escape_aided_by_bone_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence protective or apotropaic details;
+  preserve source specificity in evidence notes rather than promoting new canonical
+  groups.
+- Where protection is supplied by ordinary helpers or ordinary defensive infrastructure,
+  human review should distinguish narrative plot detail from sacred or supernatural
+  motif function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional automated placement suggestions only; source passages should
+    be checked for agency, ritual function, and whether labels are generated over-specific
+    artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3818
+  input_sha256: a457cdedf49df68eacdea213192a7ae3bc6032daccf9911cfdaec60ecd853da1
+

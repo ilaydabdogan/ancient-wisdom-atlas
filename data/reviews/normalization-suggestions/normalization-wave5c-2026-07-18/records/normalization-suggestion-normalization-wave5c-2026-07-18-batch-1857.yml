@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1857
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.genealogy-and-marriage-mapping-local-power
+  motif_id: genealogy_and_marriage_mapping_local_power
+  label: genealogy and marriage mapping local power
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Genealogy and marriage are functioning as social-political legitimation
+    and local power mapping.
+  cautions: May be a passage-level social-history observation rather than a recurring
+    mythic motif; review source evidence before broad indexing.
+  suggested_aliases:
+  - genealogical_marriage_alliance_as_local_power
+  - marriage_alliance_and_lineage_legitimation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.generative-piety-and-the-duty-to-have-children
+  motif_id: generative_piety_and_the_duty_to_have_children
+  label: Generative piety and the duty to have children
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a moral or sacred duty framed around procreation,
+    which may fit sacred law or social order.
+  cautions: Hermetic context may be philosophical anthropology rather than narrative
+    motif; could also relate to sacred_birth, cosmic_origin, or lineage ethics depending
+    on passage.
+  suggested_aliases:
+  - procreation_as_sacred_duty
+  - duty_to_generate_children
+  - generative_piety
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.generosity-and-self-restraint-yielding-prosperity
+  motif_id: generosity_and_self_restraint_yielding_prosperity
+  label: generosity and self-restraint yielding prosperity
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Prosperity resulting from generosity and restraint is a moral-consequence
+    pattern already close to divine_judgment children about greed and temperance.
+  cautions: If framed as ethical teaching rather than sacred reward or karmic consequence,
+    sacred_law or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - generosity_and_temperance_rewarded
+  - self_restraint_and_giving_bring_prosperity
+  - moral_generosity_yields_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.generosity-toward-people-without-resources
+  motif_id: generosity_toward_people_without_resources
+  label: generosity toward people without resources
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Care for resource-poor or vulnerable persons fits sacred_law children
+    and aliases around social care and ethical protection.
+  cautions: Could belong under sacred_exchange if reciprocity, hospitality, or gift
+    obligation is central; label is broad and ethical rather than narrative.
+  suggested_aliases:
+  - care_for_people_without_resources
+  - generosity_to_the_poor
+  - ethical_care_for_the_resource_poor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giant-child-mistakes-human-adult-and-animals-for-playthings
+  motif_id: giant_child_mistakes_human_adult_and_animals_for_playthings
+  label: giant child mistakes human adult and animals for playthings
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns scale confusion and giant-world comedy/peril, which
+    is not cleanly covered by existing groups.
+  cautions: Likely episode-specific; may fit otherworld, trickster, or threshold encounter
+    depending on whether it marks entry into a giant realm or a comic danger scene.
+  suggested_aliases:
+  - giant_child_treats_humans_as_toys
+  - scale_misrecognition_in_giant_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giant-s-glove-mistaken-for-a-house
+  motif_id: giant_s_glove_mistaken_for_a_house
+  label: giant's glove mistaken for a house
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a highly specific episode detail of mistaken scale rather than
+    a reusable motif group in the current taxonomy.
+  cautions: If many giant-scale misrecognition labels recur, consider a future giant-world/scale-inversion
+    group; otherwise preserve only as passage evidence.
+  suggested_aliases:
+  - glove_mistaken_for_house
+  - giant_glove_as_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gift-condition-for-nursing-a-first-born-child
+  motif_id: gift_condition_for_nursing_a_first_born_child
+  label: Gift condition for nursing a first-born child
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Nursing or childcare conditioned on a gift centers reciprocal obligation
+    around care and kinship.
+  cautions: Could shift to miraculous_child or mother_goddess if the child or nursing
+    has sacred destiny or divine nourishment; source context needed.
+  suggested_aliases:
+  - gift_for_nursing_firstborn
+  - nursing_conditioned_on_gift
+  - childcare_as_reciprocal_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gift-presentation-to-bride-without-bride-price
+  motif_id: gift_presentation_to_bride_without_bride_price
+  label: gift presentation to bride without bride-price
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Bride-directed gift presentation is a marital exchange practice, even
+    when distinguished from bride-price.
+  cautions: May be an ethnographic/legal detail rather than mythic motif; could also
+    relate to sacred_love if bride choice or marriage union drives the narrative.
+  suggested_aliases:
+  - bride_gift_without_bride_price
+  - marriage_gift_presentation
+  - gift_to_bride_as_marital_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gifted-brothers-impersonate-one-hero-to-divide-tasks
+  motif_id: gifted_brothers_impersonate_one_hero_to_divide_tasks
+  label: gifted brothers impersonate one hero to divide tasks
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Brothers act as a coordinated sibling set using doubled identity to accomplish
+    tasks.
+  cautions: Impersonation also touches recognition_tokens_hidden_identity or trickster;
+    use sacred_twins only if sibling cooperation is the central function.
+  suggested_aliases:
+  - brothers_impersonate_one_hero
+  - sibling_impersonation_divides_tasks
+  - gifted_brothers_as_doubled_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.girl-initiated-marriage-with-parental-consent
+  motif_id: girl_initiated_marriage_with_parental_consent
+  label: girl-initiated marriage with parental consent
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A marriage choice initiated by the bride aligns with existing sacred_love
+    children around bride choice and marriage selection.
+  cautions: May be a social custom detail rather than symbolic motif; if focus is
+    household law or consent norms, sacred_law may be secondary.
+  suggested_aliases:
+  - bride_initiated_marriage_with_parental_consent
+  - girl_initiates_marriage_choice
+  - bride_choice_with_parental_consent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence kinship, marriage, or social-custom
+  details; preserve as evidence notes unless recurrence supports canonical promotion.
+- Do not infer transmission or cultural borrowing from the suggested placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    episode-specific Norse giant-scale labels and Hermetic procreation-duty label.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1857
+  input_sha256: fdc1f6e8eb95fef94dbdb665d21d250154092acc79f63abfdd857cf8d5f572b2
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2061
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-followers-led-by-food-trail
+  motif_id: animal_followers_led_by_food_trail
+  label: animal followers led by food trail
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Food used to lead animal followers resembles lure/deception patterns
+    already grouped under trickster animal episodes.
+  cautions: Single occurrence; could be a hunting, migration, or ritual detail rather
+    than deception. Needs passage context.
+  suggested_aliases:
+  - food_trail_lures_animal_followers
+  - animals_led_by_food_lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-folly-used-as-a-proverb-for-ridicule
+  motif_id: animal_folly_used_as_a_proverb_for_ridicule
+  label: animal folly used as a proverb for ridicule
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on an animal episode becoming proverbial speech or
+    social ridicule, closer to narrative/speech use than animal transformation.
+  cautions: May be a fable moral or proverb artifact rather than a mythic motif; consider
+    exclusion if only a commentary label.
+  suggested_aliases:
+  - animal_folly_as_proverb
+  - proverbial_animal_folly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-food-rules-established-by-a-hunting-test
+  motif_id: animal_food_rules_established_by_a_hunting_test
+  label: Animal food rules established by a hunting test
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food rules established through a test fit sacred law, taboo, and ritual
+    regulation of eating or hunting.
+  cautions: Could also be an etiological animal tale or hunting-origin myth; preserve
+    the hunting-test detail as evidence.
+  suggested_aliases:
+  - hunting_test_establishes_food_taboo
+  - animal_food_taboo_from_hunting_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-form-and-boat-form-sewing-equipment-attachments
+  motif_id: animal_form_and_boat_form_sewing_equipment_attachments
+  label: animal-form and boat-form sewing equipment attachments
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to describe artifact morphology or museum/object classification
+    rather than a narrative or symbolic motif.
+  cautions: If source evidence assigns ritual power to these attachments, reconsider
+    under sacred_craft or sacred_treasures.
+  suggested_aliases:
+  - animal_and_boat_form_sewing_attachments
+  - sewing_equipment_animal_boat_forms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-form-and-conventionalized-animal-implement-design
+  motif_id: animal_form_and_conventionalized_animal_implement_design
+  label: animal-form and conventionalized animal implement design
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads as a design or typological observation about implements,
+    not a motif with narrative function.
+  cautions: If the implement is ritually animated, protective, or power-bearing, review
+    for sacred_craft or sacred_treasures instead.
+  suggested_aliases:
+  - conventionalized_animal_implement_design
+  - animal_form_implement_design
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-form-as-image-or-first-form-of-a-deity
+  motif_id: animal_form_as_image_or_first_form_of_a_deity
+  label: Animal form as image or first form of a deity
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A deity taking or originating in animal form fits divine animal-form
+    transformation or manifestation.
+  cautions: Egyptian animal divinity may be iconographic/theological rather than shapeshifting;
+    if the focus is manifestation to worshippers, theophany may be secondary.
+  suggested_aliases:
+  - deity_in_animal_form
+  - animal_form_of_deity
+  - divine_first_form_as_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-form-carving-on-functional-implement
+  motif_id: animal_form_carving_on_functional_implement
+  label: animal-form carving on functional implement
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Likely an artifact-description label about carved decoration on an implement,
+    not a narrative motif.
+  cautions: Review if the carving is explicitly apotropaic, ritual, or power-conferring;
+    then sacred_treasures or sacred_craft could apply.
+  suggested_aliases:
+  - animal_carving_on_implement
+  - animal_form_implement_carving
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-form-dance-or-bear-associated-dance
+  motif_id: animal_form_dance_or_bear_associated_dance
+  label: Animal-form dance or bear-associated dance
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests ritual animal embodiment through dance, but existing
+    groups do not cleanly separate ritual performance from transformation.
+  cautions: Comparative source and single occurrence; bear ceremonial contexts can
+    be culturally sensitive. Could fit shapeshifter, sacred_law, ancestor rites, or
+    a future ritual-performance group depending on evidence.
+  suggested_aliases:
+  - bear_associated_dance
+  - animal_form_ritual_dance
+  - ritual_dance_in_animal_form
+  suggested_new_group:
+    id: ritual_animal_performance
+    label: Ritual Animal Performance
+    description: Ritual dances, masks, or performances in which humans embody, invoke,
+      imitate, or relate to animal powers or species roles.
+    parent_group_ids:
+    - shapeshifter
+    - sacred_law
+    related_group_ids:
+    - sacred_exchange
+    - ancestor_rites
+    reason_existing_groups_insufficient: Shapeshifter covers bodily transformation,
+      but ritual imitation or animal-associated dance may function as ceremonial relation
+      rather than narrative metamorphosis.
+- suggestion_id: normalization.suggestion.animal-form-detail-on-hunting-gear
+  motif_id: animal_form_detail_on_hunting_gear
+  label: Animal-form detail on hunting gear
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to be an object-design detail on hunting gear rather than
+    a recurring mythic pattern.
+  cautions: If the animal-form detail has ritual hunting efficacy or protective meaning,
+    review under sacred_craft, sacred_treasures, or sacred_law.
+  suggested_aliases:
+  - animal_detail_on_hunting_gear
+  - animal_form_hunting_gear_design
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-form-dexterity-game-with-sequential-catches
+  motif_id: animal_form_dexterity_game_with_sequential_catches
+  label: animal-form dexterity game with sequential catches
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label likely describes a game object or play sequence, not a mythic
+    or ritual motif.
+  cautions: If the game is explicitly divinatory, initiatory, or ritually meaningful,
+    re-review under sacred_law, prophecy_divination, or initiation.
+  suggested_aliases:
+  - animal_form_dexterity_game
+  - sequential_catches_dexterity_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Arctic/Inuit items appear to be material-culture or artifact-description
+  labels; they should be excluded from pattern queries unless passage evidence shows
+  ritual, mythic, or symbolic function.
+- Animal-form ritual performance may deserve future taxonomy attention if more dance,
+  mask, or ceremonial embodiment labels recur across sources.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions; single-occurrence and artifact-like labels
+    require source verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2061
+  input_sha256: 66efbf0499e4630d382fdd2bae529420dfa7551e778e6fa5ee4b3ebe5cfa2117
+

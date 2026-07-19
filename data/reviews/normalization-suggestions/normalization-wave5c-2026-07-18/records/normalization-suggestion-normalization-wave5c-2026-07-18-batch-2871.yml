@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2871
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.weapon-trial-resisted-by-unworthy-or-insufficiently-strong-contestants
+  motif_id: weapon_trial_resisted_by_unworthy_or_insufficiently_strong_contestants
+  label: Weapon trial resisted by unworthy or insufficiently strong contestants
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon that tests worthiness functions as a power object conferring
+    or withholding heroic authority.
+  cautions: Single occurrence; if the passage emphasizes ordeal more than the object,
+    initiation or sacred_combat may be secondary.
+  suggested_aliases:
+  - weapon_trial_of_worthiness
+  - unworthy_contestants_fail_weapon_trial
+  - heroic_weapon_as_worthiness_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-turned-against-its-attacker-or-owner
+  motif_id: weapon_turned_against_its_attacker_or_owner
+  label: weapon turned against its attacker or owner
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: alias
+  confidence: high
+  rationale: Existing alias weapon_turned_back_upon_the_attacker maps this retaliatory
+    weapon reversal to divine_judgment.
+  cautions: Confirm that the reversal carries judgment or moral retribution; otherwise
+    it may be only a combat tactic under sacred_combat.
+  suggested_aliases:
+  - hostile_weapon_turned_back_upon_attacker
+  - weapon_rebounds_on_owner
+  - attacker_harmed_by_own_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-turned-back-on-its-thrower
+  motif_id: weapon_turned_back_on_its_thrower
+  label: Weapon turned back on its thrower
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: alias
+  confidence: high
+  rationale: This is a close wording variant of weapon_turned_back_upon_the_attacker,
+    already mapped to divine_judgment.
+  cautions: If no punitive or sacred reversal is present, sacred_combat may be a weaker
+    practical-combat fallback.
+  suggested_aliases:
+  - weapon_turned_back_upon_the_attacker
+  - weapon_rebounds_on_thrower
+  - thrown_weapon_returns_against_thrower
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-withheld-for-the-rightful-avenger
+  motif_id: weapon_withheld_for_the_rightful_avenger
+  label: Weapon withheld for the rightful avenger
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The weapon is a reserved power object tied to rightful vengeance and
+    heroic authority.
+  cautions: Could also index under sacred_combat or covenant if the emphasis is feud
+    obligation rather than the weapon itself.
+  suggested_aliases:
+  - reserved_weapon_for_rightful_avenger
+  - avenger_weapon_withheld_until_right_moment
+  - weapon_reserved_for_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weaponless-self-exposure-to-inspire-bravery
+  motif_id: weaponless_self_exposure_to_inspire_bravery
+  label: weaponless self-exposure to inspire bravery
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A warrior's vulnerable self-exposure functions as heroic courage and
+    battle leadership within the divine_warrior/sacred combat complex.
+  cautions: May be an episode-specific tactic rather than a recurring motif; review
+    for ritual or exemplary function before broad indexing.
+  suggested_aliases:
+  - unarmed_self_exposure_inspires_warriors
+  - weaponless_display_of_bravery
+  - heroic_vulnerability_inspires_courage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapons-fail-to-harm-or-reach-the-central-figure
+  motif_id: weapons_fail_to_harm_or_reach_the_central_figure
+  label: Weapons fail to harm or reach the central figure
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: medium
+  rationale: Failure of weapons to harm a figure fits the existing weapon-resistant
+    or invulnerable body complex.
+  cautions: If the passage stresses divine protection rather than innate or conditional
+    invulnerability, divine_warrior or divine_intervention may be better.
+  suggested_aliases:
+  - weapons_cannot_harm_central_figure
+  - weapon_resistance_of_central_figure
+  - weapons_fail_against_protected_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapons-left-away-from-surprised-warriors
+  motif_id: weapons_left_away_from_surprised_warriors
+  label: weapons left away from surprised warriors
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a tactical circumstance or episode detail rather than
+    a durable symbolic motif.
+  cautions: If recurrent as ritual disarmament, ambush vulnerability, or betrayal,
+    reconsider under sacred_combat or betrayal_violated_trust.
+  suggested_aliases:
+  - warriors_surprised_without_weapons
+  - disarmed_warriors_caught_unprepared
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapons-prepared-in-secrecy-for-an-emergence-battle
+  motif_id: weapons_prepared_in_secrecy_for_an_emergence_battle
+  label: Weapons prepared in secrecy for an emergence battle
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Secret weapon preparation for a climactic emergence battle belongs to
+    ritualized warfare and conflict preparation.
+  cautions: Emergence may have cosmological or origin-myth significance; if central,
+    cosmic_origin may be a secondary context.
+  suggested_aliases:
+  - secret_weapons_for_emergence_battle
+  - hidden_weapon_preparation_before_battle
+  - secret_arming_for_sacred_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapons-put-away-after-victory-or-pacification
+  motif_id: weapons_put_away_after_victory_or_pacification
+  label: Weapons put away after victory or pacification
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Putting weapons away after pacification expresses restoration of ordered
+    ethical rule and social harmony.
+  cautions: Could fit royal_legitimacy if tied to virtuous kingship, or sacred_combat
+    if treated as battle aftermath only.
+  suggested_aliases:
+  - disarming_after_pacification
+  - weapons_stowed_after_victory
+  - pacification_marked_by_putting_away_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weather-called-to-aid-a-war-party
+  motif_id: weather_called_to_aid_a_war_party
+  label: Weather called to aid a war party
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Weather aiding a war party functions as supernatural battle assistance
+    within the divine warrior/combat complex.
+  cautions: If the passage centers on ritual weather control rather than combat outcome,
+    divine_intervention or sacred_exchange may be better secondary mappings.
+  suggested_aliases:
+  - weather_aids_war_party
+  - summoned_weather_in_battle
+  - supernatural_weather_assists_warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence combat details; suggested placements
+  should remain provisional until passage evidence confirms recurring narrative function.
+- Weapon-reversal labels overlap an existing reviewed alias chain under divine_judgment;
+  avoid duplicating near-synonyms if normalized.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional mapping suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2871
+  input_sha256: 5532be6f9b0cbb1cf2794cc4d472b943ef7d704d6fc7f014d4896422ea7cd363
+

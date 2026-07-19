@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0093
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dangerous-taboo-fungus-that-spirits-away-children
+  motif_id: dangerous_taboo_fungus_that_spirits_away_children
+  label: Dangerous taboo fungus that spirits away children
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label combines taboo violation, dangerous substance, and child spirit-abduction;
+    sacred_law is the closest existing group for taboo/prohibition logic.
+  cautions: Single occurrence and culturally specific; may instead belong under otherworld,
+    miraculous_child, spirit-contagion, or be an ethnographic detail depending on
+    source evidence.
+  suggested_aliases:
+  - taboo_fungus_spirits_away_children
+  - dangerous_taboo_plant_or_fungus_abducts_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-water-spirits-near-flood-survivors
+  motif_id: dangerous_water_spirits_near_flood_survivors
+  label: dangerous water spirits near flood survivors
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Water spirits are tied to dangerous sacred waters, with possible relation
+    to flood aftermath.
+  cautions: Do not map directly to flood_and_renewal unless the passage centers world
+    destruction and renewal; spirit danger may instead fit threshold_guardian or divine_intervention.
+  suggested_aliases:
+  - dangerous_water_spirits
+  - water_spirits_after_flood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dark-season-famine-leading-to-eating-the-dead
+  motif_id: dark_season_famine_leading_to_eating_the_dead
+  label: Dark-season famine leading to eating the dead
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns death, famine, and corpse treatment under seasonal
+    crisis, but no existing group cleanly captures survival cannibalism of the dead.
+  cautions: Culturally sensitive and single occurrence; may be famine-crisis narrative,
+    mortuary taboo violation, sacred_law, sacred_time, or too episode-specific for
+    pattern queries.
+  suggested_aliases:
+  - famine_leads_to_eating_the_dead
+  - dark_season_famine_and_corpse_consumption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.darkening-world-after-divine-death
+  motif_id: darkening_world_after_divine_death
+  label: darkening world after divine death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine death causing cosmic darkening fits death producing transformation
+    or disorder in the world.
+  cautions: If the passage emphasizes eschatological collapse rather than transformation,
+    world_ages_cosmic_decline or divine_judgment may be better secondary mappings.
+  suggested_aliases:
+  - cosmic_darkening_after_divine_death
+  - world_darkens_after_god_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.darkness-caused-by-ancestral-misconduct
+  motif_id: darkness_caused_by_ancestral_misconduct
+  label: darkness caused by ancestral misconduct
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Misconduct causing cosmic or environmental darkness functions as moral
+    consequence and sacred reckoning.
+  cautions: If it is an origin story for night/darkness rather than punishment, cosmic_origin
+    may be a better placement; verify ancestral agency and moral framing.
+  suggested_aliases:
+  - ancestral_misconduct_causes_darkness
+  - cosmic_darkness_from_ancestral_wrongdoing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dawn-court-ritual-discovers-dead-ruler
+  motif_id: dawn_court_ritual_discovers_dead_ruler
+  label: dawn court ritual discovers dead ruler
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an episode-specific court scene or narrative detail
+    rather than a reusable symbolic motif.
+  cautions: If recurring evidence shows royal death discovered through ritual order,
+    it might relate to royal_legitimacy or heroic_funeral_rites; otherwise preserve
+    only as passage detail.
+  suggested_aliases:
+  - court_ritual_discovers_dead_ruler
+  - dead_ruler_discovered_at_dawn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-ancestors-present-through-dancers-and-feathers
+  motif_id: dead_ancestors_present_through_dancers_and_feathers
+  label: dead ancestors present through dancers and feathers
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual embodiment or presence of dead ancestors through dancers fits
+    ancestor rites and relations between living and dead.
+  cautions: Culturally specific ritual performance; review source evidence and avoid
+    reducing feathers/dancers to generic symbolism if they carry local meaning.
+  suggested_aliases:
+  - ancestor_presence_through_dancers
+  - dead_ancestors_embodied_in_ritual_dance
+  - ancestors_present_through_feathers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-animal-as-messenger-to-its-living-species
+  motif_id: dead_animal_as_messenger_to_its_living_species
+  label: dead animal as messenger to its living species
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: role_variant
+  confidence: low
+  rationale: A killed animal communicating with its species may relate to reciprocal
+    human-animal obligations after hunting or death.
+  cautions: Comparative label and single occurrence; may belong under sacred_law if
+    tied to animal treatment taboo, ancestor_rites if ritually fed/dismissed, or be
+    a commentary artifact.
+  suggested_aliases:
+  - dead_animal_messenger
+  - slain_animal_messenger_to_species
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-animal-used-as-shield
+  motif_id: dead_animal_used_as_shield
+  label: dead animal used as shield
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe a practical or episode-specific object
+    use rather than a broad motif.
+  cautions: If the dead animal has ritual protective power, sacred_treasures or sacred_law
+    might be relevant; otherwise exclude from pattern queries.
+  suggested_aliases:
+  - animal_corpse_used_as_shield
+  - dead_animal_shield
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-appear-in-dreams-and-invite-the-living
+  motif_id: dead_appear_in_dreams_and_invite_the_living
+  label: dead appear in dreams and invite the living
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The dead communicating through dreams and calling the living fits dream/vision
+    as contact with hidden or postmortem reality.
+  cautions: If the invitation causes death or soul-taking, also review under restless_dead_haunting_vengeance
+    or afterlife_passage; do not assume descent unless a journey follows.
+  suggested_aliases:
+  - dead_invite_living_in_dreams
+  - dream_visitation_by_dead
+  - dead_call_the_living_through_dreams
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence and several are culturally specific
+  ritual or ethnographic labels; human review should check source context before adding
+  durable aliases.
+- Avoid treating all death-adjacent labels as descent or afterlife passage; several
+  concern taboo, ritual presence, moral consequence, or episode detail rather than
+  underworld journey.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Provisional placements only; culturally sensitive and over-specific items
+    flagged for review or exclusion.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0093
+  input_sha256: ba7b63aaefe84c870831d49d6c1f589d210f16a926711505437e431af10e3b14
+

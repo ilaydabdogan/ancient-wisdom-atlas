@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1151
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-site-replacement-and-renaming
+  motif_id: sacred_site_replacement_and_renaming
+  label: Sacred site replacement and renaming
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve sacred geography, place-name etiology, pilgrimage-site
+    succession, or textual/historical site commentary.
+  cautions: Single occurrence and context-dependent; do not infer motif status if
+    this is a historical or editorial note about renamed sites.
+  suggested_aliases:
+  - renaming_of_a_sacred_site
+  - replacement_of_a_sacred_place
+  - sacred_site_succession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - cosmic_origin
+    - sacred_geography_pilgrimage
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-sleep-requiring-silence
+  motif_id: sacred_sleep_requiring_silence
+  label: sacred sleep requiring silence
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred or ritual sleep commonly functions as an altered state enabling
+    vision, healing, or divine contact.
+  cautions: If the passage only records a ritual rule of silence without dream or
+    altered perception, sacred_law may be a better secondary placement.
+  suggested_aliases:
+  - ritual_sleep_with_silence
+  - incubation_sleep_requiring_silence
+  - silent_sacred_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-smoke-as-substitute-food-for-world-makers
+  motif_id: sacred_smoke_as_substitute_food_for_world_makers
+  label: Sacred smoke as substitute food for world makers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Smoke offered as food to sacred world-making beings fits feeding, offering,
+    and reciprocal relation with powers.
+  cautions: Culturally specific ritual language should be reviewed; if creation is
+    central rather than offering, cosmic_origin may be a secondary mapping.
+  suggested_aliases:
+  - smoke_offering_as_food
+  - sacred_smoke_feeds_world_makers
+  - substitute_food_offering_of_smoke
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-song-as-personal-possession-that-can-be-given-away
+  motif_id: sacred_song_as_personal_possession_that_can_be_given_away
+  label: Sacred song as personal possession that can be given away
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The focus is transfer or gift of a sacred personal power, fitting sacred
+    exchange more than song performance alone.
+  cautions: Could also relate to storytelling_as_power or enchanting_music if the
+    song's efficacy, not its transfer, is the main evidence.
+  suggested_aliases:
+  - sacred_song_given_as_possession
+  - transferable_personal_song_power
+  - gift_of_a_sacred_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-song-as-protective-personal-power
+  motif_id: sacred_song_as_protective_personal_power
+  label: Sacred song as protective personal power
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A song functioning as protective power belongs with music or sound acting
+    as supernatural force.
+  cautions: If the evidence emphasizes apotropaic regulation rather than musical efficacy,
+    sacred_law may be relevant; preserve cultural specificity.
+  suggested_aliases:
+  - protective_sacred_song
+  - song_as_personal_protection
+  - personal_power_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-song-born-in-darkness-and-silence
+  motif_id: sacred_song_born_in_darkness_and_silence
+  label: sacred song born in darkness and silence
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label suggests emergence of sacred expressive knowledge from liminal
+    conditions of darkness and silence.
+  cautions: Single occurrence and poetic wording; could be ritual song origin, mystical
+    quest, or passage-specific imagery rather than a stable motif.
+  suggested_aliases:
+  - sacred_song_arising_from_silence
+  - song_born_in_darkness
+  - ritual_song_from_silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-song-releasing-sin-and-wrong
+  motif_id: sacred_song_releasing_sin_and_wrong
+  label: sacred song releasing sin and wrong
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred song that releases wrong functions ritually to repair relationship
+    and remove moral burden.
+  cautions: Could map to sacrifice or divine_judgment if the passage frames release
+    as atonement, punishment, or purification rather than reciprocal repair.
+  suggested_aliases:
+  - song_releasing_sin
+  - ritual_song_for_release_from_wrong
+  - sacred_song_as_absolution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - divine_judgment
+    - enchanting_music
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-sound-making-stick-with-restricted-material
+  motif_id: sacred_sound_making_stick_with_restricted_material
+  label: sacred sound-making stick with restricted material
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The restricted material marks a ritual prohibition or rule governing
+    a sacred instrument.
+  cautions: If the instrument's sound power is central, enchanting_music or sacred_treasures
+    may be useful secondary mappings; avoid overgeneralizing from one object detail.
+  suggested_aliases:
+  - restricted_material_sacred_sound_stick
+  - ritual_sound_stick_with_material_taboo
+  - sacred_instrument_material_restriction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-sound-stone-or-ceremonial-stone-instrument
+  motif_id: sacred_sound_stone_or_ceremonial_stone_instrument
+  label: sacred sound-stone or ceremonial stone instrument
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ceremonial stone instrument is a power object used in sacred practice.
+  cautions: If the narrative emphasizes supernatural sound effects, enchanting_music
+    may be the better functional placement; stone specificity may be an evidence detail.
+  suggested_aliases:
+  - ceremonial_sound_stone
+  - sacred_stone_instrument
+  - ritual_sound_stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-source-of-righteousness-and-ritual-efficacy
+  motif_id: sacred_source_of_righteousness_and_ritual_efficacy
+  label: sacred source of righteousness and ritual efficacy
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and could indicate sacred law, divine order, ritual
+    purity, or theological principle rather than a narrative motif.
+  cautions: Needs source evidence; may be too doctrinal or commentary-like for pattern
+    queries if no narrative or ritual action is present.
+  suggested_aliases:
+  - source_of_righteousness_and_ritual_power
+  - sacred_righteousness_as_ritual_efficacy
+  - divine_source_of_ritual_efficacy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern sacred song, sound, and ritual instruments;
+  existing groups such as enchanting_music, storytelling_as_power, sacred_exchange,
+  sacred_law, and sacred_treasures can hold most cases provisionally.
+- For culturally specific Indigenous ritual items and songs, preserve local evidence
+  and avoid promoting single-occurrence object details into canonical motifs without
+  review.
+- No transmission or contact claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific ritual-song and sacred-site labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1151
+  input_sha256: 0dd492b25071621676c042c83f0a27f4040b0b3107f18dd423c08d13de6f70fa
+

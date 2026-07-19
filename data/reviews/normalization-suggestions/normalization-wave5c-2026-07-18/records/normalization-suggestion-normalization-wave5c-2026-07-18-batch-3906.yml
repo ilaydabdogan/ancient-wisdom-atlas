@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3906
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.reuniting-multiple-cult-images-in-one-enclosure
+  motif_id: reuniting_multiple_cult_images_in_one_enclosure
+  label: Reuniting multiple cult images in one enclosure
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: low
+  rationale: Cult images and their enclosure may fit the sacred craft or animated
+    cult image complex, but the action is ritual relocation or consolidation rather
+    than making the images.
+  cautions: Single Hawaiian occurrence; may be a local ritual, temple-history, or
+    passage-specific detail rather than a cross-source motif.
+  suggested_aliases:
+  - cult_images_reunited_in_one_enclosure
+  - reunited_cult_images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reuse-of-available-or-discarded-materials
+  motif_id: reuse_of_available_or_discarded_materials
+  label: reuse of available or discarded materials
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a practical composition or construction note, not
+    a symbolic narrative motif.
+  cautions: If the passage frames reuse as sacred craft, renunciation, or miraculous
+    transformation, remap with source evidence; otherwise exclude from motif queries.
+  suggested_aliases:
+  - recycling_available_materials
+  - reuse_of_discarded_materials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reuse-of-old-settlement-dwellings
+  motif_id: reuse_of_old_settlement_dwellings
+  label: reuse of old settlement dwellings
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to describe settlement practice or contextual ethnographic
+    detail rather than a mythic pattern.
+  cautions: If old dwellings function as haunted, ancestral, or threshold spaces,
+    human review could remap to restless_dead_haunting_vengeance, ancestor_rites,
+    or otherworld.
+  suggested_aliases:
+  - old_settlement_dwelling_reuse
+  - reuse_of_abandoned_dwellings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reuse-of-written-legendary-traditions
+  motif_id: reuse_of_written_legendary_traditions
+  label: Reuse of written legendary traditions
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes literary reuse or tradition history, not a narrative
+    motif within the story world.
+  cautions: Keep as provenance or reception metadata if useful; do not treat as evidence
+    of transmission in motif queries.
+  suggested_aliases:
+  - literary_reuse_of_legendary_traditions
+  - reuse_of_written_traditions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revealed-catalogue-of-sin-degrees
+  motif_id: revealed_catalogue_of_sin_degrees
+  label: revealed catalogue of sin-degrees
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A revealed hierarchy of sins supports moral reckoning and sacred evaluation
+    of transgression.
+  cautions: Could also fit sacred_knowledge if the emphasis is revelation or instruction
+    rather than judgment; preserve catalogue specificity as evidence detail.
+  suggested_aliases:
+  - revealed_hierarchy_of_sins
+  - catalogue_of_sin_degrees
+  - graded_sins_revealed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revealed-true-form-of-a-fog-surrounded-guest
+  motif_id: revealed_true_form_of_a_fog_surrounded_guest
+  label: Revealed true form of a fog-surrounded guest
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The hidden guest's true form being revealed fits manifestation of concealed
+    sacred or supernatural identity.
+  cautions: If the guest is primarily a tested stranger, map secondarily to hospitality_test_stranger_guest;
+    if the form-change is central, shapeshifter may be relevant.
+  suggested_aliases:
+  - true_form_revealed_of_mysterious_guest
+  - fog_surrounded_guest_reveals_true_form
+  - hidden_guest_true_form_revealed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revelatory-mirror-defeats-concealment
+  motif_id: revelatory_mirror_defeats_concealment
+  label: Revelatory mirror defeats concealment
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mirror that reveals what is hidden functions as a power object conferring
+    supernatural perception.
+  cautions: Could fit sacred_knowledge or dream_and_vision if the focus is revelation
+    rather than the object; avoid merging with apotropaic mirror unless protective
+    function is present.
+  suggested_aliases:
+  - truth_revealing_mirror
+  - mirror_reveals_concealed_reality
+  - magic_mirror_defeats_concealment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revelatory-mirror-disclosing-hidden-reality
+  motif_id: revelatory_mirror_disclosing_hidden_reality
+  label: Revelatory mirror disclosing hidden reality
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In a Sufi context, a mirror disclosing hidden reality likely functions
+    as an image of unveiled sacred knowledge or self-knowledge.
+  cautions: If the mirror is a literal magical object, sacred_treasures may be better;
+    if it is a mystical interior metaphor, mystical_quest is also relevant.
+  suggested_aliases:
+  - mirror_discloses_hidden_reality
+  - revelatory_mirror_of_hidden_truth
+  - mirror_as_unveiling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenant-thieves-unable-to-carry-burdens
+  motif_id: revenant_thieves_unable_to_carry_burdens
+  label: revenant thieves unable to carry burdens
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: medium
+  rationale: Revenant thieves are active dead figures whose postmortem condition affects
+    action among the living.
+  cautions: The burden-carrying detail is highly specific; confirm whether this is
+    a recurring revenant motif or an episode detail before indexing broadly.
+  suggested_aliases:
+  - revenant_thieves_burden_limitation
+  - dead_thieves_unable_to_carry_burdens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revered-worked-stone-place-or-object
+  motif_id: revered_worked_stone_place_or_object
+  label: revered worked-stone place or object
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A revered worked stone may be a sacred object, shrine, or place, but
+    the label does not specify its mythic function.
+  cautions: Culturally sensitive and single occurrence; could belong to sacred_treasures,
+    world_center, sacred_craft, or be a place-only detail depending on evidence.
+  suggested_aliases:
+  - revered_worked_stone
+  - sacred_worked_stone_object
+  - venerated_stone_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence practical or textual-context
+  notes; exclude or review carefully before adding to pattern queries.
+- Mirror labels may need future consistency review across sacred_treasures, sacred_knowledge,
+  dream_and_vision, and sacred_law depending on whether the mirror reveals, protects,
+  traps, or symbolizes insight.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific Hawaiian, Inuit, Malagasy, and Native American stone/cult-object
+    items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3906
+  input_sha256: 8cd3bd762d79a0e28925f2a25db0736be76ca91c16d964866118d09ba1c1d321
+

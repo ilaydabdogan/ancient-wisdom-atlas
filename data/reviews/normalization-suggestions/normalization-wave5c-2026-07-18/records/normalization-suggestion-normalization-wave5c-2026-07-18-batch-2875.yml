@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2875
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wound-cured-by-substance-from-the-wounding-weapon
+  motif_id: wound_cured_by_substance_from_the_wounding_weapon
+  label: Wound cured by substance from the wounding weapon
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe sympathetic healing, sacred medicine, or an episode-specific
+    cure rather than combat itself.
+  cautions: Single occurrence; source context needed before placing under sacred_law,
+    sacred_substance, divine_intervention, or a future healing group.
+  suggested_aliases:
+  - healing_by_the_wounding_instrument
+  - weapon_substance_heals_wound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_substance
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wound-tending-by-extraction-of-missiles
+  motif_id: wound_tending_by_extraction_of_missiles
+  label: Wound-tending by extraction of missiles
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a practical battlefield treatment detail rather than a
+    durable mythic motif.
+  cautions: If extraction is miraculous, ritualized, or identity-revealing in the
+    passage, review for divine_intervention or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - missile_extraction_from_wound
+  - battle_wound_tending
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-avenger-rises-from-bed
+  motif_id: wounded_avenger_rises_from_bed
+  label: Wounded avenger rises from bed
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A wounded combatant rising to pursue vengeance fits heroic warrior endurance
+    and revenge action.
+  cautions: Could also be sacred_combat if the emphasis is feud or battle sequence
+    rather than warrior role.
+  suggested_aliases:
+  - wounded_avenger_returns_to_action
+  - injured_warrior_rises_for_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-charge-seeks-a-capable-helper
+  motif_id: wounded_charge_seeks_a_capable_helper
+  label: wounded charge seeks a capable helper
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The wording is ambiguous: it may mean a wounded dependent, protected
+    person, or battlefield charge seeking aid.'
+  cautions: Needs source context; could be healing, helper quest, divine intervention,
+    or a passage-specific plot detail.
+  suggested_aliases:
+  - wounded_dependent_seeks_helper
+  - wounded_protected_one_seeks_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - hero_journey
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-companion-carried-on-improvised-litter
+  motif_id: wounded_companion_carried_on_improvised_litter
+  label: wounded companion carried on improvised litter
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The improvised-litter detail appears logistical and episode-specific,
+    not a broad motif.
+  cautions: If the carrying expresses sworn loyalty, rescue, or ritual obligation,
+    human review could map it to sacred_exchange or divine_warrior.
+  suggested_aliases:
+  - wounded_companion_carried_to_safety
+  - improvised_litter_for_wounded_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-helper-keeps-a-promise
+  motif_id: wounded_helper_keeps_a_promise
+  label: Wounded helper keeps a promise
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The central function is promise-keeping under injury, a binding obligation
+    rather than the wound itself.
+  cautions: If the passage emphasizes heroic endurance in combat, divine_warrior may
+    be a secondary mapping.
+  suggested_aliases:
+  - injured_helper_honors_promise
+  - wounded_ally_keeps_vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-hero-refuses-hospitality
+  motif_id: wounded_hero_refuses_hospitality
+  label: Wounded hero refuses hospitality
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Refusal of hospitality may signal taboo, heroic discipline, mistrust,
+    or plot circumstance.
+  cautions: Do not map to hospitality_test_stranger_guest unless the host-guest obligation
+    is the main ordeal; may be over-specific.
+  suggested_aliases:
+  - injured_hero_rejects_hospitality
+  - wounded_warrior_refuses_hosting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - sacred_law
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-hero-withstands-many-until-rescued
+  motif_id: wounded_hero_withstands_many_until_rescued
+  label: wounded hero withstands many until rescued
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A wounded hero enduring many attackers before rescue fits the heroic
+    warrior endurance and overwhelming combat complex.
+  cautions: If the rescue is specifically supernatural, secondary mapping to divine_intervention
+    may be appropriate.
+  suggested_aliases:
+  - wounded_hero_holds_off_many_until_rescue
+  - injured_champion_withstands_many_attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-hidden-champion-identified-by-token
+  motif_id: wounded_hidden_champion_identified_by_token
+  label: Wounded hidden champion identified by token
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: The decisive function is identification of a hidden champion through
+    a token.
+  cautions: The wound and champion status should remain evidence detail; map to divine_warrior
+    only if combat identity is central.
+  suggested_aliases:
+  - hidden_champion_recognized_by_token
+  - wounded_warrior_identified_by_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-knight-carried-on-shield-for-treatment
+  motif_id: wounded_knight_carried_on_shield_for_treatment
+  label: wounded knight carried on shield for treatment
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Carrying a wounded knight on a shield is a highly specific treatment/transport
+    scene.
+  cautions: If shield-bearing is an honor, funerary, or warrior-rite gesture, review
+    for heroic_funeral_rites or divine_warrior rather than excluding.
+  suggested_aliases:
+  - wounded_warrior_carried_on_shield
+  - shield_litter_for_wounded_knight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern wound care or transport and appear too practical
+  or episode-specific for broad motif queries unless source evidence shows ritual,
+  miraculous, identity, or obligation functions.
+- No new group is recommended yet; a healing/medicine group might be considered only
+  if many recurrent wound-cure labels accumulate across traditions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; wound-treatment items require source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2875
+  input_sha256: '041386815c87d531b67c33c06ce948421fcecc7c7cd437b558144490137efe46'
+

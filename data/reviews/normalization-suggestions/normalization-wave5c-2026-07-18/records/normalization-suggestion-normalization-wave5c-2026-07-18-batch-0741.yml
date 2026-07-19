@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0741
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.demonic-ruler-confounded-by-divine-speech
+  motif_id: demonic_ruler_confounded_by_divine_speech
+  label: Demonic ruler confounded by divine speech
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on divine speech as an effective power that defeats
+    or binds a hostile ruler.
+  cautions: Could instead fit divine_judgment or sacred_knowledge if the passage emphasizes
+    punishment or revealed doctrine rather than speech-act power.
+  suggested_aliases:
+  - divine_speech_confounds_demonic_ruler
+  - hostile_ruler_defeated_by_divine_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dependence-on-divine-provision
+  motif_id: dependence_on_divine_provision
+  label: Dependence on divine provision
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already includes miraculous provision and direct sacred support
+    in human affairs.
+  cautions: If the source is an ethical teaching about trust rather than an event
+    of provision, sacred_knowledge or sacred_law may be better secondary mappings.
+  suggested_aliases:
+  - reliance_on_divine_provision
+  - trust_in_divine_sustenance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deposit-of-ritual-objects-beneath-a-patterned-stone-at-a-celestial-water-place
+  motif_id: deposit_of_ritual_objects_beneath_a_patterned_stone_at_a_celestial_water_place
+  label: Deposit of ritual objects beneath a patterned stone at a celestial water
+    place
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual deposit, stone, celestial water, and place-specific
+    sacred geography without enough context to choose a group.
+  cautions: Culturally sensitive and highly specific; could involve sacred_treasures,
+    sacred_waters, axis_mundi, sacrifice, or a local shrine/offering practice. Do
+    not normalize away local meaning without source review.
+  suggested_aliases:
+  - ritual_object_deposit_at_sacred_water_place
+  - ritual_deposit_beneath_patterned_stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.desecration-of-sacred-images-by-trampling
+  motif_id: desecration_of_sacred_images_by_trampling
+  label: Desecration of sacred images by trampling
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Desecration of sacred images is a violation of sacral order and taboo,
+    fitting sacred law and ritual prohibition concerns.
+  cautions: If the passage focuses on idol status or iconoclasm rather than law violation,
+    idol or divine_judgment may need review. Trampling may be an episode-specific
+    detail.
+  suggested_aliases:
+  - sacred_image_desecration
+  - trampling_of_sacred_images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.desecration-of-sacred-inscription-sanctioned-by-rope
+  motif_id: desecration_of_sacred_inscription_sanctioned_by_rope
+  label: Desecration of sacred inscription sanctioned by rope
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is opaque and may describe a ritual act, taboo violation,
+    punishment, or passage artifact involving an inscription and rope.
+  cautions: Needs source evidence; 'sanctioned by rope' is unclear. Could fit sacred_law,
+    sacred_knowledge, sacred_treasures, or exclude if it is an over-specific translation/commentary
+    artifact.
+  suggested_aliases:
+  - desecration_of_sacred_inscription
+  - ritualized_damage_to_sacred_text
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.desired-place-within-a-divine-realm
+  motif_id: desired_place_within_a_divine_realm
+  label: Desired place within a divine realm
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A longed-for place within a divine realm fits an otherworldly or paradisal
+    destination.
+  cautions: If it is specifically postmortem navigation or judgment, afterlife_passage
+    may be better; if devotional longing is central, sacred_love or mystical_quest
+    may be secondary.
+  suggested_aliases:
+  - desired_place_in_divine_realm
+  - longed_for_place_in_paradisal_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destiny-fixed-by-divine-or-cosmic-spinners
+  motif_id: destiny_fixed_by_divine_or_cosmic_spinners
+  label: destiny fixed by divine or cosmic spinners
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: alias
+  confidence: high
+  rationale: The group explicitly covers fate figures and weaving/spinning destiny.
+  cautions: Could also relate to death_by_fate if the passage concerns a specific
+    fated death rather than the cosmic mechanism of destiny.
+  suggested_aliases:
+  - destiny_fixed_by_cosmic_spinners
+  - divine_spinners_fix_destiny
+  - spinners_of_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destiny-inscribed-on-the-body-by-divine-pen
+  motif_id: destiny_inscribed_on_the_body_by_divine_pen
+  label: destiny inscribed on the body by divine pen
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Inscribed destiny expresses fate as fixed by a sacred or cosmic power.
+  cautions: If the emphasis is written divine decree rather than mortality or death,
+    sacred_knowledge or curse_blessing_speech may be relevant. Consider harmonizing
+    with the similar head-inscription label.
+  suggested_aliases:
+  - destiny_written_on_the_body_by_divine_pen
+  - divine_pen_inscribes_destiny_on_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destiny-inscribed-on-the-head-by-divine-ordinance
+  motif_id: destiny_inscribed_on_the_head_by_divine_ordinance
+  label: Destiny inscribed on the head by divine ordinance
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A destiny marked on the head by divine ordinance is a bodily inscription
+    image for fixed fate.
+  cautions: Likely should be reviewed together with destiny_inscribed_on_the_body_by_divine_pen.
+    If the passage is about divine record or command more generally, sacred_knowledge
+    or curse_blessing_speech may fit.
+  suggested_aliases:
+  - destiny_written_on_the_head_by_divine_ordinance
+  - divinely_inscribed_destiny_on_the_head
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destroyed-priestly-society-or-clan
+  motif_id: destroyed_priestly_society_or_clan
+  label: Destroyed priestly society or clan
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a destroyed social or ritual group but does not state
+    the mythic function or cause.
+  cautions: Could be divine_judgment, sacred_combat, cultural-historical memory, or
+    a person/group-only detail. Source review is needed before treating it as a motif.
+  suggested_aliases:
+  - destruction_of_priestly_clan
+  - destroyed_ritual_society
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and context-dependent; suggested
+  placements should be treated as provisional.
+- The two Sikh destiny-inscription labels appear closely related and should be reviewed
+  together for possible alias consolidation.
+- Ritual deposit and desecration labels may carry culturally specific meanings; avoid
+  broad mapping unless source evidence confirms the function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human taxonomy review required for
+    opaque ritual and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0741
+  input_sha256: 071232f65173b8e5c1e245fd152562cb503ded4a0cde7f2b3c132d4f6e7bdf72
+

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3378
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.embodied-supplication-before-confession
+  motif_id: embodied_supplication_before_confession
+  label: Embodied supplication before confession
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Supplication before confession is a ritualized appeal and repair of moral
+    or sacred relationship, close to existing supplication and pardon variants under
+    covenant.
+  cautions: Single occurrence; if confession is primarily monastic discipline or legal
+    purification, sacred_law or divine_judgment may be better secondary placement.
+  suggested_aliases:
+  - supplication_before_confession
+  - ritual_supplication_for_confession
+  - embodied_confessional_supplication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embodied-transferable-power-substance
+  motif_id: embodied_transferable_power_substance
+  label: Embodied transferable power substance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a material or embodied substance that carries sacred
+    power and can be transferred, fitting the sacred substance group.
+  cautions: Culturally specific evidence should be reviewed; if the key function is
+    a power object rather than a substance, sacred_treasures may be a better mapping.
+  suggested_aliases:
+  - transferable_power_substance
+  - sacred_power_substance
+  - embodied_sacred_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.emerging-uraei-as-powers-of-the-following-group
+  motif_id: emerging_uraei_as_powers_of_the_following_group
+  label: emerging uraei as powers of the following group
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: serpent_guardian
+  suggested_group_label: Serpent and Serpent Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: Uraei are serpent powers and may fit serpent_guardian or sacred_treasures
+    if they function as protective emblems.
+  cautions: The phrase 'following group' sounds like a passage or extraction artifact;
+    source context is needed before treating this as a motif.
+  suggested_aliases:
+  - uraei_as_protective_powers
+  - emerging_uraei
+  - serpent_powers_of_a_group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.emotional-contagion-through-performance
+  motif_id: emotional_contagion_through_performance
+  label: Emotional contagion through performance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Performance that transmits or compels emotion fits the broader group
+    for narrative, speech, and performance as transformative power.
+  cautions: If music or song is specifically the medium, enchanting_music may be a
+    better primary group; if this is literary theory rather than narrative evidence,
+    review for exclusion.
+  suggested_aliases:
+  - performance_transmits_emotion
+  - emotional_power_of_performance
+  - performative_emotional_contagion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.empirical-medicine-combined-with-theurgic-healing
+  motif_id: empirical_medicine_combined_with_theurgic_healing
+  label: Empirical medicine combined with theurgic healing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: low
+  rationale: Theurgic healing invokes sacred agency in human illness, which can fall
+    under divine_intervention or healing/protection variants.
+  cautions: The label may be an analytic ethnographic description rather than a mythic
+    motif; review culturally specific healing context before indexing.
+  suggested_aliases:
+  - theurgic_healing_with_empirical_medicine
+  - sacred_healing_combined_with_medicine
+  - ritual_and_empirical_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.empowered-orphan-avenges-abuse-and-spares-benefactor
+  motif_id: empowered_orphan_avenges_abuse_and_spares_benefactor
+  label: Empowered orphan avenges abuse and spares benefactor
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The narrative turns abuse into moral reversal: wrongdoers are avenged
+    while the benefactor is spared, fitting judgment and moral reckoning.'
+  cautions: Could also involve miraculous_child, hero_journey, or sacred_combat depending
+    on how empowerment and vengeance occur; label is composite and specific.
+  suggested_aliases:
+  - orphan_avenges_abuse_and_spares_benefactor
+  - abused_orphan_empowered_for_vengeance
+  - moral_reversal_for_abused_orphan
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.empowerment-by-cosmic-servants-after-revival
+  motif_id: empowerment_by_cosmic_servants_after_revival
+  label: empowerment by cosmic servants after revival
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Revival followed by empowerment is a death-return transformation sequence,
+    with cosmic helpers as the means of empowerment.
+  cautions: If the focus is helper beings rather than revival, divine_intervention
+    may be a secondary group; avoid assuming resurrection without passage evidence.
+  suggested_aliases:
+  - post_revival_empowerment_by_cosmic_servants
+  - revived_figure_empowered_by_cosmic_helpers
+  - empowerment_after_revival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.empty-settlement-burned-by-enemies
+  motif_id: empty_settlement_burned_by_enemies
+  label: empty settlement burned by enemies
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: Enemy burning of a settlement is a warfare episode and fits the broad
+    sacred_combat group if ritually or narratively significant.
+  cautions: May be a passage-specific battle detail rather than a reusable motif;
+    exclude or retain only as evidence if no sacred or structural function is present.
+  suggested_aliases:
+  - enemy_burns_empty_settlement
+  - settlement_burned_by_enemies
+  - destruction_of_empty_village_by_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enacted-or-hidden-hunt-produces-real-food
+  motif_id: enacted_or_hidden_hunt_produces_real_food
+  label: Enacted or hidden hunt produces real food
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A performed or concealed hunt that produces actual food resembles miraculous
+    provision through sacred or supernatural means.
+  cautions: Could involve ritual enactment, trickster deception, or hunting magic;
+    source context should determine whether divine_intervention or trickster is primary.
+  suggested_aliases:
+  - ritual_hunt_produces_real_food
+  - hidden_hunt_yields_food
+  - enacted_hunt_as_miraculous_provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-blindness-causing-kin-or-comrades-to-kill-one-another
+  motif_id: enchanted_blindness_causing_kin_or_comrades_to_kill_one_another
+  label: enchanted blindness causing kin or comrades to kill one another
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural confusion causing comrades or kin to fight each other is
+    a combat reversal within the sacred warfare field.
+  cautions: If the emphasis is magical perception loss rather than warfare, dream_and_vision
+    or divine_intervention may be relevant; preserve kin/comrade killing as evidence
+    detail.
+  suggested_aliases:
+  - supernatural_blindness_causes_friendly_killing
+  - enchanted_confusion_causes_kin_slaying
+  - battlefield_blindness_causes_comrades_to_kill_each_other
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review only; no transmission or borrowing
+  claims are implied.
+- Several labels are single-occurrence and composite; preserve local evidence notes
+  and avoid promoting them to canonical taxonomy without recurrence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch reviewed for provisional normalization placement; items with extraction-artifact
+    or ethnographic-analytic wording marked for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3378
+  input_sha256: cea3ecf83834d8e5a31628b17a6e17a4627432fa55f7bf79298622811e12f39b
+

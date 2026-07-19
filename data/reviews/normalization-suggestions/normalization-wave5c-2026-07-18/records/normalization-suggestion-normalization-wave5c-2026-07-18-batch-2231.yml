@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2231
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.pest-destroying-animal-becomes-both-benefactor-and-feared-monster
+  motif_id: pest_destroying_animal_becomes_both_benefactor_and_feared_monster
+  label: pest-destroying animal becomes both benefactor and feared monster
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal helper, monster fear, and ambivalent social
+    valuation without a clear existing group fit.
+  cautions: Single occurrence and highly contextual; may be an animal-helper, monster-slaying,
+    etiological, or commentary detail depending on passage evidence.
+  suggested_aliases:
+  - ambivalent pest-destroying animal
+  - beneficial animal feared as monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - trickster
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petrification-of-a-violent-animal
+  motif_id: petrification_of_a_violent_animal
+  label: petrification of a violent animal
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Petrification is a bodily transformation; the animal detail is secondary
+    unless the passage centers animal symbolism.
+  cautions: If petrification is divine punishment, divine_judgment may be a secondary
+    mapping; if it explains a landmark, cosmic_origin or etiological naming may fit
+    better.
+  suggested_aliases:
+  - animal petrified as punishment
+  - violent animal turned to stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.physical-proof-token-from-slain-beast
+  motif_id: physical_proof_token_from_slain_beast
+  label: physical proof token from slain beast
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A body part or object from a slain beast functions as proof of deed,
+    identity, or claim.
+  cautions: If the passage emphasizes heroic combat more than proof, sacred_combat
+    or divine_warrior may be better secondary groups.
+  suggested_aliases:
+  - proof token from slain monster
+  - slain beast trophy as evidence
+  - beast body part as proof token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.planned-magical-escape-signaled-by-pipe-ashes-and-animal-howl
+  motif_id: planned_magical_escape_signaled_by_pipe_ashes_and_animal_howl
+  label: planned magical escape signaled by pipe ashes and animal howl
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is an episode-specific cluster of props and signals rather
+    than a reusable motif category.
+  cautions: If the underlying passage has a recurring escape-by-deception or animal-helper
+    pattern, remap that broader function instead of this composite label.
+  suggested_aliases:
+  - magical escape signal
+  - animal howl as escape signal
+  - pipe ashes as escape sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plant-and-animal-clan-naming
+  motif_id: plant_and_animal_clan_naming
+  label: Plant and animal clan naming
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Clan names derived from plants and animals fit origin, ancestry, and
+    social-order etiology patterns already covered under cosmic_origin.
+  cautions: Culturally specific clan systems should be reviewed carefully; if the
+    focus is living social law rather than origin etiology, sacred_law may be a secondary
+    mapping.
+  suggested_aliases:
+  - plant and animal clan-name origin
+  - totemic clan naming
+  - clan names from plants and animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plant-fibre-transformation-into-cordage-and-hammocks
+  motif_id: plant_fibre_transformation_into_cordage_and_hammocks
+  label: Plant-fibre transformation into cordage and hammocks
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns transformation of natural material into useful craft
+    technology, fitting sacred craft more than animal transformation.
+  cautions: If the narrative emphasizes a culture hero teaching cordage or hammock
+    making, culture_hero may be a secondary mapping; preserve plant-fibre specificity
+    as evidence detail.
+  suggested_aliases:
+  - plant fibre becomes cordage
+  - origin of cordage and hammocks from plant fibre
+  - plant material transformed into useful craft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plant-fibre-transformation-into-household-technology
+  motif_id: plant_fibre_transformation_into_household_technology
+  label: plant-fibre transformation into household technology
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transformation of plant fibre into domestic technology is a craft-origin
+    motif within sacred craft.
+  cautions: If presented as a founder's gift to humans, culture_hero may be relevant;
+    do not map to shapeshifter unless plant material itself changes as an animate
+    being.
+  suggested_aliases:
+  - plant fibre becomes household technology
+  - origin of household technology from plant fibre
+  - plant material transformed into domestic craft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plant-like-animal-concealment
+  motif_id: plant_like_animal_concealment
+  label: plant-like animal concealment
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An animal concealed by plant-like form or appearance fits disguise and
+    bodily/visible transformation patterns.
+  cautions: If the passage is simple camouflage without supernatural or narrative
+    transformation, it may be too specific for motif queries; trickster may apply
+    if deception is central.
+  suggested_aliases:
+  - animal disguised as plant
+  - plant-like camouflage of animal
+  - animal concealment through plant form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plant-transformation-into-staple-food-or-salt
+  motif_id: plant_transformation_into_staple_food_or_salt
+  label: plant transformation into staple food or salt
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on the origin or transformation of a plant into essential
+    food or salt, fitting sacred substance and food-origin patterns.
+  cautions: If the passage explains the creation of agriculture or human technology,
+    culture_hero or cosmic_origin may be relevant secondary groups.
+  suggested_aliases:
+  - plant becomes staple food
+  - plant becomes salt
+  - origin of food or salt from plant transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plants-as-allies-in-medicinal-conflict-with-animals
+  motif_id: plants_as_allies_in_medicinal_conflict_with_animals
+  label: plants as allies in medicinal conflict with animals
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This combines plant agency, medicine, and conflict with animals; existing
+    groups do not cleanly capture medicinal alliance or plant-person agency.
+  cautions: Culturally sensitive healing traditions need source review; could be sacred_substance,
+    divine_intervention, sacred_law, or an over-specific ethnographic label.
+  suggested_aliases:
+  - medicinal plants as allies
+  - plant allies against animals
+  - plant-animal medicinal conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence plant/animal technology or healing
+  items; preserve local evidence and avoid promoting new groups without recurrence.
+- Plant-fibre technology labels appear better handled under sacred_craft, with possible
+  culture_hero secondary review when a founder or teacher is explicit.
+- Medicinal plant agency may require culturally informed human review before broad
+  indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human reviewer should verify
+    source context for single-occurrence and culturally specific plant/animal motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2231
+  input_sha256: 8786ed5a1bccd626c55f437229398312e08ee52f2747d25014f5ba2c658e6fa9
+

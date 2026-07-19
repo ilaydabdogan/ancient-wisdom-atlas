@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0435
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.war-death-cremation-with-weapons-and-gear
+  motif_id: war_death_cremation_with_weapons_and_gear
+  label: War-death cremation with weapons and gear
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Cremation of a war-dead person with weapons and gear is a funerary honor
+    or mortuary rite for a combatant.
+  cautions: Single occurrence; if gear is primarily for afterlife travel rather than
+    honor, afterlife_passage may be a secondary mapping.
+  suggested_aliases:
+  - warrior_cremation_with_weapons
+  - cremation_with_weapons_and_gear
+  - funerary_arming_of_war_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-imagined-as-a-game-scored-by-the-dead
+  motif_id: war_imagined_as_a_game_scored_by_the_dead
+  label: war imagined as a game scored by the dead
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines war metaphor with agency of the dead, but the narrative
+    function is unclear from wording alone.
+  cautions: Could fit sacred_combat, ancestor/restless-dead agency, or a passage-specific
+    metaphor; source evidence is needed before mapping.
+  suggested_aliases:
+  - war_as_game_judged_by_the_dead
+  - dead_score_the_war_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-leader-seeking-death-in-the-center-of-an-enemy-camp
+  motif_id: war_leader_seeking_death_in_the_center_of_an_enemy_camp
+  label: war leader seeking death in the center of an enemy camp
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A war leader deliberately seeking death in combat fits heroic warrior
+    death and martial honor patterns.
+  cautions: If the focus is ritual self-sacrifice or mourning obligation rather than
+    combat role, sacrifice or death_by_fate may be relevant instead.
+  suggested_aliases:
+  - war_leader_seeks_death_in_enemy_camp
+  - deliberate_heroic_death_in_enemy_camp
+  - warrior_seeking_death_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-party-return-with-trophy-scalps
+  motif_id: war_party_return_with_trophy_scalps
+  label: War-party return with trophy scalps
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Trophy scalps function as martial proof or body-part trophies after combat,
+    already represented under divine_warrior children.
+  cautions: Culturally sensitive and single occurrence; if the passage emphasizes
+    the return procession or ritual purification, sacred_combat or sacrifice may also
+    be relevant.
+  suggested_aliases:
+  - war_party_returns_with_scalp_trophies
+  - trophy_scalps_as_proof_of_combat
+  - body_part_trophies_after_war_party_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-sought-for-satisfaction-of-a-dead-child
+  motif_id: war_sought_for_satisfaction_of_a_dead_child
+  label: War sought for satisfaction of a dead child
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe vengeance, appeasement of the dead, or ritualized
+    combat, but the dead child's role is ambiguous.
+  cautions: Could fit restless_dead_haunting_vengeance, sacrifice, divine_judgment,
+    or sacred_combat depending on whether the dead child demands, receives, or is
+    appeased by war.
+  suggested_aliases:
+  - war_to_satisfy_a_dead_child
+  - combat_as_appeasement_of_dead_child
+  - vengeance_for_dead_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-trophy-used-in-ritual-pacification-of-enemy-spirit
+  motif_id: war_trophy_used_in_ritual_pacification_of_enemy_spirit
+  label: War trophy used in ritual pacification of enemy spirit
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rite pacifying an enemy spirit is ritual care or appeasement of the
+    dead, even when the object is a war trophy.
+  cautions: May also involve divine_warrior trophy logic or restless_dead_haunting_vengeance
+    if the spirit is dangerous; culturally sensitive evidence should be reviewed.
+  suggested_aliases:
+  - ritual_pacification_of_enemy_spirit_with_war_trophy
+  - enemy_spirit_appeased_by_war_trophy
+  - war_trophy_as_spirit_pacification_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warmth-as-life-and-cold-as-death
+  motif_id: warmth_as_life_and_cold_as_death
+  label: Warmth as life and cold as death
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label expresses a symbolic polarity in which thermal states mark
+    life and death.
+  cautions: May be a broad symbolic association rather than a narrative motif; if
+    used only as descriptive imagery, preserve as evidence detail.
+  suggested_aliases:
+  - heat_as_life_cold_as_death
+  - warmth_life_cold_death_symbolism
+  - thermal_symbolism_of_life_and_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-cry-saves-a-sleeping-victim-from-a-spirit-attacker
+  motif_id: warning_cry_saves_a_sleeping_victim_from_a_spirit_attacker
+  label: warning cry saves a sleeping victim from a spirit attacker
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A warning cry that prevents spirit attack functions as supernatural or
+    protective intervention in danger.
+  cautions: 'Source context is needed: the warning may be human, animal, ancestral,
+    or spirit agency; could instead fit apotropaic sacred_law or dream_and_vision
+    if tied to sleep perception.'
+  suggested_aliases:
+  - warning_cry_averts_spirit_attack
+  - sleeping_victim_saved_from_spirit_attacker
+  - protective_warning_against_spirit_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-disbelieved-and-fulfilled-by-death
+  motif_id: warning_disbelieved_and_fulfilled_by_death
+  label: Warning disbelieved and fulfilled by death
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: An unheeded warning later fulfilled by death matches rejected prophecy
+    or omen before fatal outcome.
+  cautions: If the warning is not prophetic or divinatory but ordinary advice, this
+    may be an over-specific plot detail; death_by_fate may be secondary if inevitability
+    is explicit.
+  suggested_aliases:
+  - unheeded_warning_fulfilled_by_death
+  - disbelieved_death_warning
+  - rejected_warning_before_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-of-rushing-toward-death
+  motif_id: warning_of_rushing_toward_death
+  label: Warning of rushing toward death
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too general to determine whether it is prophecy, counsel,
+    fate, or a narrative aside.
+  cautions: Map to prophecy_divination only if the warning has sacred/omenic authority;
+    map to death_by_fate only if death is framed as destined.
+  suggested_aliases:
+  - warning_against_rushing_to_death
+  - deathward_rush_warning
+  - warning_of_hastening_toward_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and culturally specific war-death or mortuary
+  labels; placements should remain provisional pending source review.
+- Do not infer transmission or shared origin from these suggested groupings.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch contains ambiguous war-death, trophy, and spirit-appeasement motifs
+    requiring human evidence review before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0435
+  input_sha256: 41e1054e1b53bf68429e80485dc7d426a985f91926a210da363f534d0fbbdc21
+

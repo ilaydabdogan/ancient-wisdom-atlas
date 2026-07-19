@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3469
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.foraging-and-preparation-of-wild-tuber
+  motif_id: foraging_and_preparation_of_wild_tuber
+  label: foraging and preparation of wild tuber
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as subsistence or ethnographic detail rather than a recurring
+    mythic pattern.
+  cautions: If the passage gives the tuber ritual, abundance, taboo, or culture-hero
+    significance, remap with source evidence.
+  suggested_aliases:
+  - wild_tuber_foraging
+  - preparation_of_wild_tuber
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-appropriation-of-an-elite-status-emblem
+  motif_id: forbidden_appropriation_of_an_elite_status_emblem
+  label: Forbidden appropriation of an elite status emblem
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prohibition on taking a status emblem concerns sacralized social hierarchy
+    and tabooed use of rank markers.
+  cautions: Could also involve royal_legitimacy or sacred_treasures if the emblem
+    confers rule or power; source context needed.
+  suggested_aliases:
+  - tabooed_status_emblem
+  - forbidden_use_of_rank_emblem
+  - appropriation_of_elite_emblem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-contact-revealed-by-scent
+  motif_id: forbidden_contact_revealed_by_scent
+  label: forbidden contact revealed by scent
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core pattern is breach of a contact taboo, with scent functioning
+    as evidence of violation.
+  cautions: If scent primarily proves hidden identity or encounter, recognition_tokens_hidden_identity
+    may be a secondary mapping.
+  suggested_aliases:
+  - taboo_contact_revealed_by_scent
+  - scent_discloses_forbidden_contact
+  - forbidden_touch_detected_by_smell
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-embrace-causes-forgetting-of-spouse
+  motif_id: forbidden_embrace_causes_forgetting_of_spouse
+  label: forbidden embrace causes forgetting of spouse
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A forbidden intimate act disrupts marital memory and attachment, fitting
+    love, fidelity, and perilous relationship patterns.
+  cautions: Could instead fit sacred_law if the taboo is central, or otherworld if
+    the embrace occurs in an enchanted realm.
+  suggested_aliases:
+  - taboo_embrace_causes_forgetting
+  - forbidden_embrace_and_spousal_amnesia
+  - embrace_breaks_memory_of_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-or-guarded-abundance-consumed-by-revelers
+  motif_id: forbidden_or_guarded_abundance_consumed_by_revelers
+  label: forbidden or guarded abundance consumed by revelers
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on consumption of guarded abundance, likely sacred
+    food or drink with transgressive implications.
+  cautions: If the emphasis is theft or taboo violation, trickster or sacred_law may
+    be better; if punishment follows, add divine_judgment.
+  suggested_aliases:
+  - guarded_abundance_consumed
+  - forbidden_abundance_consumed
+  - revelers_consume_guarded_plenty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-valley-crossed-unintentionally
+  motif_id: forbidden_valley_crossed_unintentionally
+  label: Forbidden valley crossed unintentionally
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: narrower_than
+  confidence: low
+  rationale: A forbidden valley is a tabooed boundary space crossed in error, suggesting
+    threshold violation.
+  cautions: No guardian is named in the label; sacred_law or hero_journey may fit
+    better if the passage centers on taboo or travel ordeal.
+  suggested_aliases:
+  - unintentional_crossing_of_forbidden_valley
+  - accidental_entry_into_forbidden_valley
+  - taboo_valley_crossed_by_mistake
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-wine-as-ecstatic-or-ruinous-draught
+  motif_id: forbidden_wine_as_ecstatic_or_ruinous_draught
+  label: forbidden wine as ecstatic or ruinous draught
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Wine as ecstatic, dangerous, or transformative draught fits the sacred
+    substance and divine intoxication complex.
+  cautions: In Sufi contexts wine may be symbolic for mystical love or annihilation;
+    consider mystical_quest or divine_beloved as secondary mappings.
+  suggested_aliases:
+  - forbidden_wine
+  - ecstatic_wine
+  - ruinous_draught
+  - mystical_wine_as_dangerous_intoxication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forced-deportation-and-resettlement
+  motif_id: forced_deportation_and_resettlement
+  label: forced deportation and resettlement
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a historical-political event description rather than
+    a symbolic or narrative motif.
+  cautions: If the passage frames exile as sacred punishment, covenant violation,
+    or transformative wandering, remap to divine_judgment or hero_journey.
+  suggested_aliases:
+  - deportation_and_resettlement
+  - forced_population_resettlement
+  - exile_by_deportation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forced-witnessing-of-another-captive-s-fate
+  motif_id: forced_witnessing_of_another_captive_s_fate
+  label: Forced witnessing of another captive’s fate
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe an ordeal, intimidation scene, fate recognition,
+    or passage-specific violence.
+  cautions: Needs source evidence to decide between initiation, divine_judgment, death_by_fate,
+    sacred_combat, or exclusion as an episode detail.
+  suggested_aliases:
+  - captive_forced_to_witness_fate_of_another
+  - forced_witnessing_of_captive_fate
+  - witnessing_another_captive_s_doom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forced-witnessing-of-enemies-eating-the-slain
+  motif_id: forced_witnessing_of_enemies_eating_the_slain
+  label: forced witnessing of enemies eating the slain
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a highly specific violent scene whose motif function depends
+    on ritual, warfare, mourning, or intimidation context.
+  cautions: Culturally sensitive; avoid indexing under sacrifice or sacred_combat
+    without evidence that the consumption is ritually or narratively central rather
+    than an episode detail.
+  suggested_aliases:
+  - forced_witnessing_of_enemy_consumption_of_slain
+  - captive_witnesses_enemies_eating_the_dead
+  - enemies_eat_the_slain_before_witness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and context-dependent; suggested placements
+  should be treated as provisional until source passages are reviewed.
+- Do not infer transmission or cultural borrowing from any proposed grouping.
+- For taboo/contact labels, preserve whether the source emphasizes ritual law, social
+  hierarchy, hidden identity, or supernatural punishment.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions for wave5c batch 3469; human review recommended
+    for low-confidence and culturally sensitive violence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3469
+  input_sha256: 5702baac16f9c04f27feddd90e02ddb81948db4fe107eb39afd08e10cd76deed
+

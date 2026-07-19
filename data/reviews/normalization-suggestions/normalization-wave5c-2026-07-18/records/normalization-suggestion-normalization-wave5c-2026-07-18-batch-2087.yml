@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2087
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-pride-resolved-by-change-of-place
+  motif_id: animal_pride_resolved_by_change_of_place
+  label: animal pride resolved by change of place
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads like an animal fable moral about pride and relocation,
+    but no existing group clearly captures animal moral exempla as distinct from trickster
+    tales.
+  cautions: Single occurrence; may be a contextual Jataka/fable lesson rather than
+    a durable motif. Could fit pride_and_downfall if the passage emphasizes humbling,
+    or trickster if deception/boundary-crossing is central.
+  suggested_aliases:
+  - animal pride humbled by relocation
+  - animal fable of pride and place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-prince-as-food-provider
+  motif_id: animal_prince_as_food_provider
+  label: Animal prince as food provider
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: An animal noble or supernatural animal figure providing food aligns with
+    miraculous provision and animal-source abundance already under divine_intervention.
+  cautions: If the animal prince is primarily an otherworld spouse, clan ancestor,
+    or transformed human, secondary review under otherworld, culture_hero, or shapeshifter
+    may be needed.
+  suggested_aliases:
+  - animal food provider
+  - supernatural animal provider
+  - animal-source provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-property-injury-answered-by-equivalent-retaliation-or-compensation
+  motif_id: animal_property_injury_answered_by_equivalent_retaliation_or_compensation
+  label: animal-property injury answered by equivalent retaliation or compensation
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Equivalent retaliation or compensation for injury belongs with sacred
+    law, social order, and regulated reciprocity more than with animal transformation.
+  cautions: The animal-property wording is culturally specific and may refer to a
+    local legal custom or ethnographic note; if sacred sanction is absent, needs human
+    review as social detail.
+  suggested_aliases:
+  - equivalent retaliation for animal injury
+  - compensation for injured animal property
+  - animal injury reciprocity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-protagonists-and-animal-pair-tales
+  motif_id: animal_protagonists_and_animal_pair_tales
+  label: Animal protagonists and animal pair tales
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a tale-type or cataloging pattern rather than a specific
+    narrative function or symbolic motif.
+  cautions: If individual passages contain animal pair rivalry, trickster action,
+    or sacred twins/sibling structure, those should be indexed separately from this
+    heading-like label.
+  suggested_aliases:
+  - animal pair tale type
+  - animal protagonist tale heading
+  - animal-centered tale category
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-protector-heals-and-encourages-a-wounded-human
+  motif_id: animal_protector_heals_and_encourages_a_wounded_human
+  label: animal protector heals and encourages a wounded human
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A protective animal that heals and guides a wounded human fits animal
+    helpers and healing/protection under divine_intervention.
+  cautions: If the animal is a personal guardian spirit or clan ancestor, preserve
+    that local role in notes; do not reduce all animal aid to generic intervention.
+  suggested_aliases:
+  - healing animal protector
+  - animal guardian heals wounded human
+  - animal helper heals and encourages
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-prototypes-distinguished-by-color-and-bodily-marks
+  motif_id: animal_prototypes_distinguished_by_color_and_bodily_marks
+  label: Animal prototypes distinguished by color and bodily marks
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Animal prototypes marked by color and bodily signs suggests an etiological
+    or cosmogonic classification of created animal kinds.
+  cautions: If the passage emphasizes dualistic good/evil animal taxonomy, duality
+    may be a secondary group. If this is merely descriptive taxonomy, review for exclusion
+    as commentary.
+  suggested_aliases:
+  - marked animal prototypes
+  - etiology of animal colors and marks
+  - primordial animal types
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-provider-with-evening-meat-basket
+  motif_id: animal_provider_with_evening_meat_basket
+  label: Animal provider with evening meat basket
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core pattern is animal-mediated food provision, which fits miraculous
+    provision and animal-source abundance.
+  cautions: The evening meat basket is likely episode-specific evidence detail; avoid
+    promoting it as a canonical motif unless the precise form recurs.
+  suggested_aliases:
+  - animal food provider
+  - animal provider with food basket
+  - supernatural animal meat provider
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-pursuers-repelled-by-spilled-substance
+  motif_id: animal_pursuers_repelled_by_spilled_substance
+  label: animal pursuers repelled by spilled substance
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repelling pursuers through a spilled substance is an escape stratagem,
+    fitting trickster/deception and pursuit reversal patterns.
+  cautions: If the spilled substance functions as a magical barrier or apotropaic
+    ritual substance, sacred_law or sacred_substance may be relevant secondary mappings.
+  suggested_aliases:
+  - pursuers repelled by spilled substance
+  - escape by spilling magical substance
+  - animal pursuit stopped by substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-pursuit
+  motif_id: animal_pursuit
+  label: Animal pursuit
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: broader_label
+  confidence: low
+  rationale: The label is too broad to distinguish hunt, predation, escape, initiation
+    ordeal, trickster chase, or animal-helper episode.
+  cautions: Do not map solely from the presence of animals. Needs source evidence
+    for narrative function before placement under trickster, threshold_guardian, sacred_combat,
+    or hero_journey.
+  suggested_aliases:
+  - pursuit by animal
+  - animal chase
+  - animal predator pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-pursuit-and-refuge-through-ascent
+  motif_id: animal_pursuit_and_refuge_through_ascent
+  label: Animal pursuit and refuge through ascent
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Pursuit followed by escape to a higher refuge is a journey/ordeal pattern;
+    ascent is the means of refuge rather than necessarily heavenly ascent.
+  cautions: If the ascent is explicitly sacred, heavenly, or revelatory, map secondarily
+    to ascent. If it is a simple animal fable escape, it may be an over-specific episode
+    detail.
+  suggested_aliases:
+  - refuge through ascent from animal pursuit
+  - escape from animal pursuers by climbing
+  - ascent refuge during pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence animal-tale labels; several require source evidence
+  to distinguish fable plot mechanics from durable mythic motifs.
+- Avoid treating animal presence alone as sufficient for the trickster or shapeshifter
+  groups; suggested placements focus on narrative function such as provision, protection,
+  legal compensation, or escape.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; animal-fable and ethnographic-detail labels
+    should receive human review before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2087
+  input_sha256: d3065d611734500f9cbae4a7505f8f58c705e0c8f9716c59ddd78483828813bc
+

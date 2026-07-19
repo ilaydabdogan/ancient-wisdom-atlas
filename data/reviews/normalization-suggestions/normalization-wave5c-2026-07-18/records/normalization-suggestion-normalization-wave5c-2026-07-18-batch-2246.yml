@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2246
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rejected-affinal-touch-redirected-to-animal-wives
+  motif_id: rejected_affinal_touch_redirected_to_animal_wives
+  label: Rejected affinal touch redirected to animal wives
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines affinal kinship, touch refusal, and animal spouses;
+    function cannot be inferred safely from wording alone.
+  cautions: May involve marriage taboo, animal spouse transformation, trickster sexuality,
+    or a passage-specific detail; culturally sensitive kinship context needs review.
+  suggested_aliases:
+  - animal wives after rejected affinal touch
+  - rejected affinal contact redirected to animal spouses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_love
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-animal-suitor
+  motif_id: rejected_animal_suitor
+  label: rejected animal suitor
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An animal suitor may be a transformation, animal-spouse, courtship, or
+    fable motif, but the existing groups do not define animal marriage clearly.
+  cautions: Single occurrence; confirm whether the suitor is an animal, disguised
+    human/spirit, rejected spouse, or local episode detail before grouping.
+  suggested_aliases:
+  - animal suitor rejected
+  - rejected nonhuman suitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_love
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-animal-suitor-retaliates
+  motif_id: rejected_animal_suitor_retaliates
+  label: Rejected animal suitor retaliates
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Retaliation after rejected nonhuman courtship could fit animal-spouse
+    conflict, vengeance, or violated exchange, none clearly established from label
+    alone.
+  cautions: Do not collapse into trickster or sacred love without evidence; may be
+    culturally specific human-animal relationship narrative.
+  suggested_aliases:
+  - animal suitor retaliates after rejection
+  - rejected nonhuman suitor vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_love
+    - divine_judgment
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-creations-become-animals-or-are-destroyed
+  motif_id: rejected_creations_become_animals_or_are_destroyed
+  label: Rejected creations become animals or are destroyed
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core narrative is failed or rejected creation during cosmogony, with
+    animal transformation or destruction as the outcome.
+  cautions: If the passage emphasizes metamorphosis after judgment rather than creation
+    sequence, secondary review under shapeshifter or divine_judgment may be useful.
+  suggested_aliases:
+  - failed creations become animals
+  - rejected creations destroyed
+  - rejected beings transformed into animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - divine_judgment
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relief-through-encounter-with-lively-creek-animals
+  motif_id: relief_through_encounter_with_lively_creek_animals
+  label: Relief through encounter with lively creek animals
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a scene-specific emotional effect of encountering
+    animals rather than a durable narrative motif.
+  cautions: If the animals act as helpers, guides, or otherworld messengers, remap
+    after source review to divine_intervention or otherworld; otherwise preserve as
+    evidence detail only.
+  suggested_aliases:
+  - relief from lively creek animals
+  - encounter with lively creek animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - otherworld
+    - animal_helpers
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-appearance-of-horned-animals
+  motif_id: remote_appearance_of_horned_animals
+  label: remote appearance of horned animals
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A distant sighting of horned animals is too descriptive to index as a
+    motif without evidence of omen, helper, threat, or transformation function.
+  cautions: Review source if horned animals are supernatural messengers, game-providers,
+    or omens; otherwise exclude from broad motif queries.
+  suggested_aliases:
+  - distant horned animals appear
+  - remote sighting of horned animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - divine_intervention
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-rocks-inhabited-by-monstrous-animals
+  motif_id: remote_rocks_inhabited_by_monstrous_animals
+  label: remote rocks inhabited by monstrous animals
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: low
+  rationale: Monstrous animals inhabiting a remote rocky place may function as liminal
+    dangers or guardians of a perilous boundary.
+  cautions: Low confidence because the label may simply describe setting; if no guarded
+    threshold or ordeal is present, exclude as scene detail.
+  suggested_aliases:
+  - monstrous animals inhabiting remote rocks
+  - remote rocks with monstrous animal inhabitants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_combat
+    - descent
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.removal-of-bedding-in-response-to-an-approaching-animal-threat
+  motif_id: removal_of_bedding_in_response_to_an_approaching_animal_threat
+  label: removal of bedding in response to an approaching animal threat
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: This is a highly specific defensive action in response to an animal threat,
+    not a reusable symbolic or narrative motif by itself.
+  cautions: If bedding removal has ritual, taboo, or trickster significance in the
+    source, reassess; otherwise preserve only as passage evidence.
+  suggested_aliases:
+  - bedding removed before animal threat
+  - defensive removal of bedding from animal approach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciation-without-inner-transformation
+  motif_id: renunciation_without_inner_transformation
+  label: Renunciation without inner transformation
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif concerns outward renunciation lacking the inner transformation
+    expected on a spiritual path.
+  cautions: Bucket assignment appears unrelated to animals; may also fit sacred_law
+    or wisdom if framed as ethical teaching rather than mystical quest.
+  suggested_aliases:
+  - external renunciation without inward change
+  - false renunciation without transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_law
+    - annihilation_union
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-animal-attacks-repelled-with-arrows
+  motif_id: repeated_animal_attacks_repelled_with_arrows
+  label: Repeated animal attacks repelled with arrows
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Repeated attacks repelled by arrows describe a combat ordeal against
+    animal attackers, closest to the broad combat group.
+  cautions: May be an over-specific episode detail or ordinary hunting/defense rather
+    than sacred combat; review whether animals are monstrous, supernatural, or narratively
+    testing the hero.
+  suggested_aliases:
+  - animal attacks repelled by arrows
+  - repeated animal assault resisted with arrows
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - threshold_guardian
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal-encounter details; many
+  require source context before indexing as durable motifs.
+- 'The review bucket may be noisy: renunciation_without_inner_transformation is not
+  an animal motif and should be reviewed under mystical/ethical categories.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional automated placement suggestions only; source evidence is needed
+    for animal-suitor and animal-threat labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2246
+  input_sha256: 78610f3fa75ed0ea33b8e13d02aa545223bc11de363eaa7a28cde13a1819cc53
+

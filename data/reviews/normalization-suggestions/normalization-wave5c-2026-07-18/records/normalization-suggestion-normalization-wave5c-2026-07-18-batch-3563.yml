@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3563
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.iconoclastic-destruction-before-religious-unity
+  motif_id: iconoclastic_destruction_before_religious_unity
+  label: Iconoclastic destruction before religious unity
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern exclusive devotion, rejection of idols, or repair
+    of sacred order before unity.
+  cautions: Single occurrence and culturally sensitive; could be doctrinal commentary,
+    political-religious history, or narrative iconoclasm rather than a reusable motif.
+  suggested_aliases:
+  - idol_destruction_before_religious_unity
+  - iconoclasm_before_unified_worship
+  - destruction_of_idols_before_sacred_unity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ideal-commonwealth-as-moral-model
+  motif_id: ideal_commonwealth_as_moral_model
+  label: ideal commonwealth as moral model
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: An ideal polity used as a moral model fits social order, ethical law,
+    and normative communal structure.
+  cautions: May be philosophical political theory rather than mythic motif; if purely
+    authorial argument, consider excluding from pattern queries.
+  suggested_aliases:
+  - ideal_commonwealth_as_ethical_model
+  - ideal_polity_as_moral_model
+  - utopian_commonwealth_as_social_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ideal-commonwealth-founded-on-common-property
+  motif_id: ideal_commonwealth_founded_on_common_property
+  label: ideal commonwealth founded on common property
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Common property as the basis of an ideal commonwealth is a specific social-order
+    and ethical-regulation pattern.
+  cautions: Could be a passage-specific philosophical prescription rather than a traditional
+    motif; avoid over-reading sacred status without evidence.
+  suggested_aliases:
+  - common_property_in_ideal_commonwealth
+  - communal_property_as_ideal_social_order
+  - ideal_polity_founded_on_common_property
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ideal-commonwealth-without-private-hoarding-or-crime
+  motif_id: ideal_commonwealth_without_private_hoarding_or_crime
+  label: Ideal commonwealth without private hoarding or crime
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes an ideal moral society ordered by communal ethics
+    and absence of crime.
+  cautions: May overlap with golden-age or world-age ideals if framed as primordial
+    harmony; source evidence should decide.
+  suggested_aliases:
+  - ideal_society_without_hoarding_or_crime
+  - commonwealth_without_private_hoarding
+  - moral_commonwealth_without_crime
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ideal-of-lasting-union-through-labor-and-fidelity
+  motif_id: ideal_of_lasting_union_through_labor_and_fidelity
+  label: Ideal of lasting union through labor and fidelity
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Lasting union grounded in fidelity belongs with love, partnership, and
+    enduring relational bonds.
+  cautions: If labor and fidelity are primarily ethical household teaching, sacred_law
+    may be a secondary fit; review local cultural context carefully.
+  suggested_aliases:
+  - lasting_union_through_fidelity_and_labor
+  - enduring_marriage_through_work_and_fidelity
+  - faithful_union_sustained_by_labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ideal-refuge-without-affliction-or-falsehood
+  motif_id: ideal_refuge_without_affliction_or_falsehood
+  label: ideal refuge without affliction or falsehood
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A refuge free from suffering and falsehood resembles a blessed or perfected
+    otherworld realm.
+  cautions: In Zoroastrian context this may indicate eschatological renewal or moral
+    order, so divine_judgment or flood_and_renewal may be relevant depending on passage
+    evidence.
+  suggested_aliases:
+  - blessed_refuge_without_affliction_or_falsehood
+  - perfect_refuge_free_from_suffering_and_lie
+  - truthful_refuge_without_affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.identical-castle-attendants
+  motif_id: identical_castle_attendants
+  label: Identical castle attendants
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: Identical attendants in a castle may mark an enchanted or otherworldly
+    court, but the function is unclear from the label alone.
+  cautions: Likely an over-specific scene detail unless identical doubling has narrative
+    force; could also relate to duality or disguise if identity confusion matters.
+  suggested_aliases:
+  - identical_attendants_in_enchanted_castle
+  - doubled_castle_attendants
+  - uncanny_identical_court_attendants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.identification-of-similar-deities-across-traditions
+  motif_id: identification_of_similar_deities_across_traditions
+  label: identification of similar deities across traditions
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes interpretive cross-tradition identification of deities,
+    not a narrative or symbolic motif.
+  cautions: Preserve as reception, syncretism, or commentary metadata if needed; do
+    not use as evidence of transmission in motif queries.
+  suggested_aliases:
+  - interpretive_identification_of_deities_across_traditions
+  - cross_tradition_deity_identification
+  - syncretic_deity_identification_note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.identified-greek-and-roman-woodland-divinities
+  motif_id: identified_greek_and_roman_woodland_divinities
+  label: identified Greek and Roman woodland divinities
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a scholarly identification or equivalence of divine figures rather
+    than a motif in a story or ritual pattern.
+  cautions: If source passages describe actual woodland spirits acting in narrative,
+    remap that evidence to otherworld or divine_intervention rather than this label.
+  suggested_aliases:
+  - identified_woodland_divinities
+  - greek_roman_woodland_deity_identification
+  - syncretic_woodland_divinity_identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.identity-concealed-through-changing-arms-and-cognisance
+  motif_id: identity_concealed_through_changing_arms_and_cognisance
+  label: identity concealed through changing arms and cognisance
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Changing heraldic arms or cognisance conceals identity through visible
+    identity tokens and recognition signs.
+  cautions: Could also intersect with sacred_combat if the concealment occurs in tournament
+    or battle; preserve heraldic specificity as evidence detail.
+  suggested_aliases:
+  - concealed_identity_by_changed_arms
+  - identity_hidden_by_changed_cognisance
+  - heraldic_disguise_conceals_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several 'ideal commonwealth' labels appear philosophical or ethical rather than
+  narrative; mapped provisionally to sacred_law but should be reviewed for exclusion
+  if they are only authorial doctrine.
+- Greek/Roman deity-identification labels are best treated as meta-textual or reception/syncretism
+  notes, not motif evidence.
+- No transmission or borrowing claims are implied by any placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated from labels only; source passages
+    should be checked for culturally specific meaning and motif function.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3563
+  input_sha256: f397a32380f70d6304a745bcfc15a4ef750c4601619b8372f3004794b4eaaa97
+

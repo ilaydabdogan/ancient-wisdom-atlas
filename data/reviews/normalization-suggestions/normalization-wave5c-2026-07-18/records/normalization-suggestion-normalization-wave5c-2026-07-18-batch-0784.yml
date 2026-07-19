@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0784
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-origin-paratext-disputed-as-revelation-or-addition
+  motif_id: divine_origin_paratext_disputed_as_revelation_or_addition
+  label: divine-origin paratext disputed as revelation or addition
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns the status of a paratext as revelation or later addition,
+    which is textual-critical rather than a narrative motif.
+  cautions: Preserve as provenance or reception metadata if needed; do not use as
+    evidence for divine revelation motifs without passage-level support.
+  suggested_aliases:
+  - disputed_revelatory_paratext
+  - paratext_disputed_as_revelation_or_addition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-origin-ritual-game-song
+  motif_id: divine_origin_ritual_game_song
+  label: divine-origin ritual game song
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual song of divine origin fits sacred or supernatural song as power,
+    especially where song functions ritually.
+  cautions: If the passage emphasizes the game’s divine institution rather than the
+    song’s power, sacred_law, sacred_time, or sacred_exchange may be better secondary
+    placements.
+  suggested_aliases:
+  - divinely_originated_ritual_song
+  - ritual_game_song_of_divine_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-origination-of-maya
+  motif_id: divine_origination_of_maya
+  label: Divine origination of Maya
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to divine origination of the created/illusory world,
+    which could fit cosmic origin or sacred knowledge depending on context.
+  cautions: Maya is a tradition-specific theological concept; avoid flattening it
+    into generic illusion or creation without source evidence.
+  suggested_aliases:
+  - divine_origin_of_maya
+  - maya_originating_from_the_divine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-path-clearing-and-night-guidance
+  motif_id: divine_path_clearing_and_night_guidance
+  label: divine path-clearing and night guidance
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on a deity directly clearing a route and guiding movement
+    through danger or darkness.
+  cautions: If the night guidance is primarily celestial, dreamlike, or ritual procession
+    imagery, secondary mapping to dream_and_vision or sacred_fire may be appropriate.
+  suggested_aliases:
+  - divine_path_clearing
+  - divine_guidance_by_night
+  - god_clears_the_path_and_guides_at_night
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-patron-chooses-the-first-faithful-side-in-battle
+  motif_id: divine_patron_chooses_the_first_faithful_side_in_battle
+  label: Divine patron chooses the first faithful side in battle
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine choice of the faithful side in battle aligns with sacred combat
+    and divine determination of warfare.
+  cautions: Could also involve duality or sacred law if the passage emphasizes cosmic
+    allegiance rather than battlefield intervention.
+  suggested_aliases:
+  - divine_patron_chooses_faithful_side_in_battle
+  - divine_choice_of_the_righteous_side_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-patron-of-poetry-and-song
+  motif_id: divine_patron_of_poetry_and_song
+  label: divine patron of poetry and song
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: role_variant
+  confidence: medium
+  rationale: A deity patronizing poetry and song fits sacred narrative, oral power,
+    and inspired verbal art.
+  cautions: If the emphasis is specifically song’s supernatural effects, enchanting_music
+    may be a better primary placement; if it is poetic wisdom, sacred_knowledge may
+    be secondary.
+  suggested_aliases:
+  - divine_patron_of_poetry
+  - god_of_poetry_and_song
+  - divine_inspirer_of_song_and_poetry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-patronage-of-civic-victory
+  motif_id: divine_patronage_of_civic_victory
+  label: Divine patronage of civic victory
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A god’s patronage producing or legitimating a city’s victory is direct
+    divine involvement in communal affairs.
+  cautions: If the victory is primarily military, divine_warrior may be a better primary
+    group; if it legitimizes polis order, royal_legitimacy or sacred_law may be secondary.
+  suggested_aliases:
+  - divine_patronage_of_city_victory
+  - civic_victory_by_divine_patronage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-people-flourish-as-fragrant-plants-by-water-and-praise-the-lord
+  motif_id: divine_people_flourish_as_fragrant_plants_by_water_and_praise_the_lord
+  label: Divine people flourish as fragrant plants by water and praise the Lord
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The image of flourishing beside water aligns with life-giving sacred
+    waters and divine provision imagery.
+  cautions: This is a highly specific poetic image; if praise is central, sacred_song
+    or theophany may be relevant, and it may be better retained as evidence detail
+    rather than a durable motif.
+  suggested_aliases:
+  - divine_people_flourish_by_water
+  - fragrant_plants_by_water_praise_god
+  - life_giving_water_for_the_faithful
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-personation-through-ceremonial-dancers
+  motif_id: divine_personation_through_ceremonial_dancers
+  label: Divine personation through ceremonial dancers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual dancers embodying or personating divine beings can function as
+    ceremonial manifestation of sacred presence.
+  cautions: Culturally sensitive ritual category; verify terminology and source context
+    before mapping. It may require a future ritual embodiment/personation group if
+    recurrent.
+  suggested_aliases:
+  - ceremonial_dancers_personate_divine_beings
+  - ritual_divine_personation
+  - divine_embodiment_in_ceremonial_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-petition-and-discretionary-bestowal
+  motif_id: divine_petition_and_discretionary_bestowal
+  label: Divine petition and discretionary bestowal
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Petitioning the divine and receiving a gift at divine discretion fits
+    sacred exchange and devotional reciprocity.
+  cautions: If the emphasis is divine grace rather than reciprocal exchange, divine_intervention
+    may be a better secondary placement; avoid implying transactional theology without
+    evidence.
+  suggested_aliases:
+  - petition_for_divine_bestowal
+  - divine_bestowal_after_petition
+  - discretionary_divine_gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and theologically or ritually specific; recommendations
+  should be treated as provisional until passage evidence is reviewed.
+- Do not treat shared placement under broad groups such as divine_intervention, theophany,
+  or sacred_exchange as evidence of historical transmission.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes culturally sensitive ritual embodiment and tradition-specific
+    theological concepts requiring human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0784
+  input_sha256: c0ddc68a04ef2af30feb7e165841eaaa7e1a910431c8b22f68631f515f7bf0bc
+

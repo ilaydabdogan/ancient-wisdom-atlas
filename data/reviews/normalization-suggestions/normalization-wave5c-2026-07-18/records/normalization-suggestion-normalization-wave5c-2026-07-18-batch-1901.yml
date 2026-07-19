@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1901
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marriage-arranged-by-guardian-or-chief-after-observed-attachment
+  motif_id: marriage_arranged_by_guardian_or_chief_after_observed_attachment
+  label: marriage arranged by guardian or chief after observed attachment
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes social recognition and arrangement of an attachment
+    leading to marriage, fitting the existing love/marriage cluster.
+  cautions: Single occurrence and may be ethnographic social custom rather than a
+    mythic motif; preserve guardian/chief mediation as evidence detail.
+  suggested_aliases:
+  - guardian_arranged_marriage_after_attachment
+  - marriage_arranged_after_observed_attachment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-arrangement-followed-by-descendant-notice
+  motif_id: marriage_arrangement_followed_by_descendant_notice
+  label: marriage arrangement followed by descendant notice
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase reads like a passage-summary artifact combining marriage arrangement
+    with a genealogical note rather than a reusable motif.
+  cautions: If the source evidence emphasizes dynastic marriage founding a lineage,
+    review under royal_legitimacy or cosmic_origin ancestry labels instead.
+  suggested_aliases:
+  - marriage_arrangement_with_descendant_note
+  - marriage_followed_by_genealogical_notice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-as-bondage-in-the-husband-s-household
+  motif_id: marriage_as_bondage_in_the_husband_s_household
+  label: marriage as bondage in the husband's household
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns marriage and captivity, but the tone suggests social
+    critique or gendered household constraint rather than the existing sacred-love
+    pattern.
+  cautions: Culturally and gender-sensitive; source context is needed to decide whether
+    this is a recurring lament motif, social-status transition, or passage-specific
+    wording.
+  suggested_aliases:
+  - marriage_as_household_bondage
+  - bride_bound_in_husband_s_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-as-hunger-driven-entrapment
+  motif_id: marriage_as_hunger_driven_entrapment
+  label: Marriage as hunger-driven entrapment
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marriage, hunger, and entrapment in a way that could
+    indicate coercion, poverty, trickery, or metaphorical lament.
+  cautions: Do not merge with sacred_love without evidence that marriage/longing is
+    the core function; may be over-specific or culturally contextual.
+  suggested_aliases:
+  - hunger_driven_marriage_entrapment
+  - marriage_through_need_as_entrapment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-as-transfer-of-group-affiliation
+  motif_id: marriage_as_transfer_of_group_affiliation
+  label: Marriage as transfer of group affiliation
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage here functions as a binding social transfer and reclassification
+    of affiliation, closer to covenantal/social bond than romantic love.
+  cautions: May be an anthropological kinship note rather than a narrative motif;
+    review whether sacred or mythic significance is present.
+  suggested_aliases:
+  - marriage_transfers_group_affiliation
+  - marriage_as_affinal_reclassification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-as-transition-to-new-household-status
+  motif_id: marriage_as_transition_to_new_household_status
+  label: marriage as transition to new household status
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif frames marriage as a status-changing threshold, which fits
+    initiation and rites-of-passage logic.
+  cautions: If the passage is only descriptive social organization, it may be better
+    excluded from pattern queries or indexed under sacred_law/social order.
+  suggested_aliases:
+  - marriage_as_household_status_transition
+  - marital_transition_to_new_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-bargain-conditioned-by-informed-consent
+  motif_id: marriage_bargain_conditioned_by_informed_consent
+  label: marriage bargain conditioned by informed consent
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A negotiated marriage bargain with consent conditions is a binding agreement
+    pattern, fitting covenant/social bond.
+  cautions: Could belong to sacred_law if the passage emphasizes legal marriage procedure;
+    not enough evidence for sacred_love unless attachment or longing is central.
+  suggested_aliases:
+  - consent_conditioned_marriage_bargain
+  - marriage_agreement_requires_informed_consent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-bargain-conditioned-on-secrecy
+  motif_id: marriage_bargain_conditioned_on_secrecy
+  label: Marriage bargain conditioned on secrecy
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a conditional agreement, but secrecy could indicate
+    taboo, trickster bargain, ritual restriction, or plot device.
+  cautions: Needs source evidence before mapping; secrecy conditions may be culturally
+    sensitive or too context-specific.
+  suggested_aliases:
+  - secret_condition_marriage_bargain
+  - marriage_agreement_conditioned_on_secrecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-bargain-with-care-for-dependents
+  motif_id: marriage_bargain_with_care_for_dependents
+  label: marriage bargain with care for dependents
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The bargain joins marriage exchange with obligation to care for dependents,
+    fitting reciprocity and social obligation.
+  cautions: Could also map to sacred_law/social care if framed as ethical duty rather
+    than exchange; single occurrence may be contextual.
+  suggested_aliases:
+  - marriage_exchange_with_dependent_care
+  - marriage_bargain_including_care_obligations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-bargaining-across-prior-hostility
+  motif_id: marriage_bargaining_across_prior_hostility
+  label: marriage bargaining across prior hostility
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage negotiation across hostility functions as a peace-making or
+    bond-forming agreement between opposed parties.
+  cautions: If the passage emphasizes alliance politics or kingship, royal_legitimacy
+    may be a secondary mapping; if hostility remains central, betrayal/conflict groups
+    may need review.
+  suggested_aliases:
+  - marriage_bargain_reconciling_hostile_parties
+  - marriage_negotiation_across_hostility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels appear to be single-occurrence ethnographic or passage-summary descriptions
+  of marriage practice rather than durable mythic motifs; human review should distinguish
+  social-custom notes from narrative functions.
+- Existing groups can hold most marriage-as-bond/exchange/status labels provisionally,
+  but a future marriage-alliance or affinal-bond group may be useful if many similar
+  labels recur.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; marriage, consent, household transfer, and coercion
+    labels require culturally sensitive source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1901
+  input_sha256: da46992cbf28910f1a79d99d8a6ca19b5956955d8131c6cdb2ab99c75845e467
+

@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0679
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.authoritative-adjustment-of-ritual-speech
+  motif_id: authoritative_adjustment_of_ritual_speech
+  label: Authoritative adjustment of ritual speech
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns authorized modification of ritual utterance, fitting
+    sacred speech acts that bind or transform by proper utterance.
+  cautions: Could instead be a monastic/legal rule under sacred_law if the passage
+    emphasizes institutional procedure rather than speech power.
+  suggested_aliases:
+  - authorized_adjustment_of_ritual_speech
+  - ritual_speech_adjusted_by_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authorized-postponement-of-a-communal-rite-to-preserve-residence
+  motif_id: authorized_postponement_of_a_communal_rite_to_preserve_residence
+  label: Authorized postponement of a communal rite to preserve residence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Authorized adjustment of communal ritual timing is best treated as ritual
+    regulation within sacred law and social order.
+  cautions: Highly contextual and single-occurrence; if merely administrative monastic
+    detail, it may be excluded from broad pattern queries.
+  suggested_aliases:
+  - authorized_ritual_postponement
+  - communal_rite_postponed_by_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authorized-sacred-and-heroic-praise-poetry
+  motif_id: authorized_sacred_and_heroic_praise_poetry
+  label: Authorized sacred and heroic praise poetry
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Praise poetry uses sanctioned speech and narrative performance to confer
+    honor, memory, and sacred or heroic status.
+  cautions: If the emphasis is cultic hymn or divine petition, sacred_exchange or
+    curse_blessing_speech may be secondary; if only genre description, review as textual
+    artifact.
+  suggested_aliases:
+  - authorized_praise_poetry
+  - sacred_heroic_praise_song
+  - authorized_hymnic_praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authorized-speech-before-a-sacred-assembly
+  motif_id: authorized_speech_before_a_sacred_assembly
+  label: authorized speech before a sacred assembly
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on sanctioned utterance in a ritual or sacred assembly,
+    fitting performative sacred speech.
+  cautions: May be procedural monastic governance rather than a recurring mythic motif;
+    sacred_law is plausible if authorization rules are primary.
+  suggested_aliases:
+  - authorized_assembly_speech
+  - sanctioned_speech_before_sacred_assembly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authorized-vernacular-transmission-of-sacred-teaching
+  motif_id: authorized_vernacular_transmission_of_sacred_teaching
+  label: Authorized vernacular transmission of sacred teaching
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif concerns sanctioned transmission of sacred teaching, a clear
+    knowledge-transmission pattern.
+  cautions: Do not treat as evidence of historical transmission here; if the passage
+    only discusses editorial language policy, consider textual-artifact review.
+  suggested_aliases:
+  - vernacular_transmission_of_sacred_teaching
+  - authorized_teaching_in_the_vernacular
+  - sacred_teaching_transmitted_in_common_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenger-bound-by-a-temporary-taboo
+  motif_id: avenger_bound_by_a_temporary_taboo
+  label: avenger bound by a temporary taboo
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: narrower_than
+  confidence: medium
+  rationale: A temporary taboo binding an avenger resembles a geis or spoken prohibition
+    that constrains action.
+  cautions: If the source emphasizes vengeance combat rather than the binding taboo,
+    sacred_combat or divine_warrior may be the better primary placement.
+  suggested_aliases:
+  - temporary_taboo_binding_an_avenger
+  - avenger_under_temporary_geis
+  - avenger_constrained_by_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenger-kills-ruler-with-his-own-sacred-weapon
+  motif_id: avenger_kills_ruler_with_his_own_sacred_weapon
+  label: Avenger kills ruler with his own sacred weapon
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The decisive element is a sacred weapon used as a power object to reverse
+    authority and enact vengeance.
+  cautions: Could also fit sacred_combat or divine_judgment if the passage emphasizes
+    vengeance or moral reversal over the weapon itself; label is episode-specific.
+  suggested_aliases:
+  - ruler_killed_with_own_sacred_weapon
+  - sacred_weapon_turned_against_its_owner
+  - avenger_uses_ruler_s_sacred_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-divine-war-assembly
+  motif_id: avenging_divine_war_assembly
+  label: avenging divine war assembly
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine assembly organized for war and vengeance fits gods or sacred
+    powers engaging in combat to restore order.
+  cautions: If the assembly functions mainly as judgment council or decree, divine_judgment
+    or supreme_ruler may be secondary.
+  suggested_aliases:
+  - divine_assembly_for_avenging_war
+  - war_assembly_of_avenging_gods
+  - divine_council_mobilizes_for_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avoidance-of-stepping-over-sacred-representation
+  motif_id: avoidance_of_stepping_over_sacred_representation
+  label: Avoidance of stepping over sacred representation
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Avoiding disrespectful contact with a sacred image or representation
+    is a ritual prohibition within sacred law.
+  cautions: If the object itself is central as an empowered icon, sacred_treasures
+    or sacred_craft may be secondary; preserve the local practice detail.
+  suggested_aliases:
+  - taboo_against_stepping_over_sacred_image
+  - ritual_avoidance_of_sacred_representation
+  - prohibition_on_crossing_over_sacred_representation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avoidance-of-suspicion-through-ritual-separation
+  motif_id: avoidance_of_suspicion_through_ritual_separation
+  label: Avoidance of suspicion through ritual separation
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual separation used to maintain propriety and avoid moral suspicion
+    fits sacred law and social-order regulation.
+  cautions: May be an ethical etiquette rule rather than a mythic motif; exclude if
+    it is only commentary on social conduct without symbolic or ritual patterning.
+  suggested_aliases:
+  - ritual_separation_to_avoid_suspicion
+  - propriety_through_separation
+  - separation_preserving_ritual_propriety
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence ritual or institutional-procedure
+  labels; human review should decide whether to keep them as granular evidence or
+  exclude as administrative/commentary artifacts.
+- Speech-related Buddhist items split between sacred_knowledge, curse_blessing_speech,
+  and sacred_law depending on whether the passage emphasizes teaching transmission,
+  performative ritual utterance, or institutional authorization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy changes applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0679
+  input_sha256: 14f7c5267d2ff04a72f7aab39170b8d87d8049fa46fc07ade2cef38df6087804
+

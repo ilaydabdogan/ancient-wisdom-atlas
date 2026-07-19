@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4066
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unsuccessful-wooing
+  motif_id: unsuccessful_wooing
+  label: unsuccessful wooing
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Failed courtship may involve sacred love, bride choice, rivalry, refusal,
+    or a simple plot event; label alone is too broad.
+  cautions: Single occurrence and no evidence for sacred or transformative function;
+    avoid mapping only from romantic content.
+  suggested_aliases:
+  - failed_courtship
+  - rejected_wooing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsuitable-game-triggers-disclosure-of-paternal-loss
+  motif_id: unsuitable_game_triggers_disclosure_of_paternal_loss
+  label: Unsuitable game triggers disclosure of paternal loss
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly contextual plot mechanism rather than a reusable
+    symbolic motif.
+  cautions: If source evidence shows ritualized play, orphan recognition, or mourning
+    disclosure, reconsider under lament_and_mourning or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - game_discloses_paternal_loss
+  - play_triggers_orphan_disclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsupported-claim-punished-as-malefaction
+  motif_id: unsupported_claim_punished_as_malefaction
+  label: unsupported claim punished as malefaction
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A false or unproven claim punished as wrongdoing fits judgment, legal
+    reckoning, and moral consequence.
+  cautions: May be secular legal procedure rather than divine judgment; source context
+    should confirm sacred or mythic authority.
+  suggested_aliases:
+  - false_claim_punished
+  - unproven_accusation_punished
+  - unsupported_claim_as_wrongdoing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsupported-widow-imaged-by-weak-plants-on-supports
+  motif_id: unsupported_widow_imaged_by_weak_plants_on_supports
+  label: unsupported widow imaged by weak plants on supports
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a culturally specific ethical metaphor for widowhood
+    and dependence, not a clear existing motif.
+  cautions: Could be commentary, poetic imagery, social-order teaching, or mourning
+    imagery; review Confucian source context before indexing.
+  suggested_aliases:
+  - widow_imaged_as_unsupported_plant
+  - widowhood_as_weak_plant_metaphor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.untamable-creatures-beyond-human-mastery
+  motif_id: untamable_creatures_beyond_human_mastery
+  label: Untamable creatures beyond human mastery
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: chaos
+  suggested_group_label: Chaos
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Untamable creatures that exceed human mastery often symbolize chaos,
+    divine power, or limits of human order.
+  cautions: If the passage emphasizes divine sovereignty more than chaotic threat,
+    supreme_ruler or divine_intervention may be secondary; do not assume combat unless
+    present.
+  suggested_aliases:
+  - creatures_beyond_human_mastery
+  - untamable_chaos_creatures
+  - wild_creatures_exceeding_human_control
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.untransformed-companion-alerts-the-rescuer
+  motif_id: untransformed_companion_alerts_the_rescuer
+  label: Untransformed companion alerts the rescuer
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif depends on a transformation episode, but the alerting companion
+    could be helper, recognition device, or plot detail.
+  cautions: Likely over-specific unless the same rescue structure recurs; consider
+    shapeshifter only if transformation is the central pattern.
+  suggested_aliases:
+  - untransformed_helper_alerts_rescuer
+  - companion_warns_rescuer_during_transformation_episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.untrusted-messenger-sent-on-a-life-dependent-errand
+  motif_id: untrusted_messenger_sent_on_a_life_dependent_errand
+  label: untrusted messenger sent on a life-dependent errand
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A life-dependent errand entrusted to an unreliable messenger centers
+    risk in violated or unstable trust.
+  cautions: If the messenger is divinely sent, fate-bound, or carrying a formal decree,
+    divine_intervention, death_by_fate, or curse_blessing_speech may be relevant.
+  suggested_aliases:
+  - unreliable_messenger_on_life_errand
+  - life_dependent_errand_with_untrusted_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unused-or-interpolated-delay-from-another-story-form
+  motif_id: unused_or_interpolated_delay_from_another_story_form
+  label: unused or interpolated delay from another story form
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label explicitly describes interpolation and story-form analysis
+    rather than an in-world motif.
+  cautions: Preserve as textual provenance if useful, but exclude from symbolic or
+    narrative pattern queries.
+  suggested_aliases:
+  - interpolated_delay_from_another_story_form
+  - unused_delay_motif_as_textual_artifact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unusual-milk-giving-flying-creatures
+  motif_id: unusual_milk_giving_flying_creatures
+  label: Unusual milk-giving flying creatures
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marvelous animals, nourishment, and flight without
+    enough function to choose an existing group.
+  cautions: Could involve sacred substance, divine provision, miraculous child nourishment,
+    or mythic fauna; culturally specific evidence is needed.
+  suggested_aliases:
+  - milk_giving_flying_creatures
+  - marvelous_flying_nourishing_creatures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unusual-sleep-preceding-capture
+  motif_id: unusual_sleep_preceding_capture
+  label: unusual sleep preceding capture
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: low
+  rationale: Unusual sleep before capture may mark altered perception, vulnerability,
+    or supernatural influence.
+  cautions: Could be a simple plot device, enchanted music/sleep, trickster trap,
+    or ordeal; needs source evidence before firm mapping.
+  suggested_aliases:
+  - strange_sleep_before_capture
+  - supernatural_sleep_leads_to_capture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; recommendations favor
+  review or exclusion where motif function is not explicit.
+- No transmission or borrowing claims are implied by these placement suggestions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should check passage
+    evidence for over-specific labels and culturally specific metaphors.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4066
+  input_sha256: cd1324e986e9ebd3e2e9141d8769db9951fdcc91bd59c8c005668da974c6a558
+

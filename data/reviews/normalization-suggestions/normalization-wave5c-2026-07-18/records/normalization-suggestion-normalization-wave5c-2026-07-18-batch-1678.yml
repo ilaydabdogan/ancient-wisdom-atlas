@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1678
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.royal-children-protected-from-a-ruler-s-wrath
+  motif_id: royal_children_protected_from_a_ruler_s_wrath
+  label: Royal children protected from a ruler's wrath
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protected royal children under threat from ruling power matches threatened
+    or hidden significant childhood motifs.
+  cautions: Single occurrence; if the focus is dynastic succession rather than endangered
+    childhood, royal_legitimacy may be a secondary fit.
+  suggested_aliases:
+  - endangered_royal_children
+  - royal_children_hidden_from_ruler
+  - protected_children_of_royal_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-command-ratifies-a-magical-judgment
+  motif_id: royal_command_ratifies_a_magical_judgment
+  label: Royal command ratifies a magical judgment
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on a judgment confirmed by royal authority, fitting
+    sacred or supernatural reckoning.
+  cautions: May be a passage-specific legal plot detail; review whether the magical
+    judgment is sacred/moral or simply narrative adjudication.
+  suggested_aliases:
+  - royal_ratification_of_supernatural_judgment
+  - king_confirms_magical_judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-confirmation-of-punishment-after-layered-review
+  motif_id: royal_confirmation_of_punishment_after_layered_review
+  label: royal confirmation of punishment after layered review
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: medium
+  rationale: Layered review and royal confirmation of punishment express ordered legal
+    authority and social governance.
+  cautions: Could be an administrative detail rather than a mythic motif; divine_judgment
+    fits only if sacred moral reckoning is explicit.
+  suggested_aliases:
+  - royal_review_of_punishment
+  - layered_legal_review_before_punishment
+  - sovereign_confirmation_of_sentence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-conflict-and-city-capture-in-historical-romance
+  motif_id: royal_conflict_and_city_capture_in_historical_romance
+  label: Royal conflict and city capture in historical romance
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as genre or plot summary rather than a reusable symbolic
+    motif.
+  cautions: If the passage has a specific recurring pattern such as divinely sanctioned
+    conquest or city destruction, remap that narrower evidence instead.
+  suggested_aliases:
+  - historical_romance_city_capture
+  - royal_war_plot_summary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-cremation-funeral-for-a-fallen-ruler
+  motif_id: royal_cremation_funeral_for_a_fallen_ruler
+  label: royal cremation funeral for a fallen ruler
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: A ruler's cremation after death is a funerary honor and memorial rite
+    for a fallen elite figure.
+  cautions: If the passage emphasizes lament rather than rite, lament_and_mourning
+    may be a secondary mapping; cremation detail should remain local evidence.
+  suggested_aliases:
+  - funeral_rites_for_a_fallen_ruler
+  - cremation_of_a_dead_king
+  - royal_funerary_honors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-decoy-formations-protect-the-true-king
+  motif_id: royal_decoy_formations_protect_the_true_king
+  label: Royal decoy formations protect the true king
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: Protecting the true king through decoys serves preservation of legitimate
+    rulership.
+  cautions: Could be a tactical battle detail rather than a kingship motif; if combat
+    context dominates, sacred_combat may be secondary.
+  suggested_aliases:
+  - decoys_protect_the_true_king
+  - royal_decoy_protection
+  - concealment_of_legitimate_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-embassy-across-borders
+  motif_id: royal_embassy_across_borders
+  label: Royal embassy across borders
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A cross-border embassy is likely a political plot detail without clear
+    symbolic or ritual function.
+  cautions: If embassy functions as a sacred oath, peace exchange, marriage negotiation,
+    or threshold ordeal, remap to covenant, sacred_exchange, sacred_love, or hero_journey
+    accordingly.
+  suggested_aliases:
+  - cross_border_royal_embassy
+  - royal_diplomatic_mission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-hierarchy-expressed-through-mourning-duty
+  motif_id: royal_hierarchy_expressed_through_mourning_duty
+  label: royal hierarchy expressed through mourning duty
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Mourning obligations that encode hierarchy fit ritualized social order
+    and sacred law.
+  cautions: If the emotional lament is foregrounded, add lament_and_mourning; if funerary
+    ritual for a ruler is central, heroic_funeral_rites may fit better.
+  suggested_aliases:
+  - mourning_duty_expresses_hierarchy
+  - ritual_mourning_as_social_order
+  - hierarchical_mourning_obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-participation-in-seasonal-order
+  motif_id: royal_participation_in_seasonal_order
+  label: Royal participation in seasonal order
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: Royal action aligned with seasonal order belongs to sacred calendrical
+    and ritual-cycle patterns.
+  cautions: May also support royal_legitimacy if the ruler's authority depends on
+    harmonizing cosmic and social time.
+  suggested_aliases:
+  - king_participates_in_seasonal_order
+  - royal_ritual_alignment_with_seasons
+  - sovereign_role_in_sacred_calendar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-punishment-and-pardon-by-guilt-distinction
+  motif_id: royal_punishment_and_pardon_by_guilt_distinction
+  label: royal punishment and pardon by guilt distinction
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Discriminating punishment and pardon by guilt fits moral reckoning and
+    just judgment under authority.
+  cautions: If the emphasis is legal governance rather than divine or moral evaluation,
+    sacred_law or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - just_punishment_and_pardon_by_guilt
+  - royal_mercy_and_punishment_by_culpability
+  - guilt_based_pardon_and_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence royal/legal plot details; preserve
+  source evidence and avoid treating administrative actions as motifs unless recurring
+  symbolic or ritual function is present.
+- For royal law labels, distinguish sacred_law/social order from divine_judgment/moral
+  reckoning and royal_legitimacy/kingship authorization during human review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review should confirm whether each royal/legal
+    label is a recurring motif or passage-specific narrative detail.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1678
+  input_sha256: b9c3c37ca4378c1efb23f4028098c724c9a8012a4f0db319d9906f5edeae9701
+

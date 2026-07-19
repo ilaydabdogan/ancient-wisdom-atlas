@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0854
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.goddess-compared-to-predatory-animals
+  motif_id: goddess_compared_to_predatory_animals
+  label: Goddess compared to predatory animals
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A divine feminine figure is characterized through predatory animal imagery,
+    fitting the terrible or powerful aspect of the sacred feminine.
+  cautions: If the passage emphasizes animal transformation or literal animal embodiment
+    rather than comparison, shapeshifter may be relevant; single occurrence may be
+    simile rather than motif.
+  suggested_aliases:
+  - goddess_as_predatory_animal
+  - predatory_animal_imagery_of_goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-disguised-as-old-woman-among-mortals
+  motif_id: goddess_disguised_as_old_woman_among_mortals
+  label: goddess disguised as old woman among mortals
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: A goddess assumes another visible form to move among mortals, a clear
+    divine disguise or shapeshifting pattern.
+  cautions: If the disguise primarily tests hospitality or delivers revelation, secondary
+    review under hospitality_test_stranger_guest or theophany may be warranted.
+  suggested_aliases:
+  - divine_disguise_as_old_woman
+  - goddess_in_old_woman_disguise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-guarding-the-female-life-course
+  motif_id: goddess_guarding_the_female_life_course
+  label: Goddess guarding the female life course
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: role_variant
+  confidence: medium
+  rationale: A goddess protects birth, maturation, marriage, or other female life
+    stages, aligning with protective and fertility roles of the sacred feminine.
+  cautions: Could also be ritual law, tutelary divine intervention, or a personified
+    cult-office detail depending on source evidence.
+  suggested_aliases:
+  - goddess_protects_female_life_stages
+  - female_life_course_guardian_goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-led-mountain-hunt
+  motif_id: goddess_led_mountain_hunt
+  label: goddess-led mountain hunt
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines divine leadership, mountain setting, and hunt without
+    enough evidence to determine whether the function is sacred combat, sacred mountain,
+    ritual procession, or divine epiphany.
+  cautions: May be an episode-specific description of Artemis/Diana imagery rather
+    than a reusable motif; review source context before mapping.
+  suggested_aliases:
+  - goddess_leads_hunt_on_mountain
+  - divine_huntress_on_mountain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-like-maiden-procession-with-attendants
+  motif_id: goddess_like_maiden_procession_with_attendants
+  label: Goddess-like maiden procession with attendants
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording may describe a mortal maiden compared to a goddess, a ritual
+    procession, or a divine epiphany with attendants.
+  cautions: Likely over-contextual unless the procession has recurring ritual or theophanic
+    function; avoid mapping solely from 'goddess-like' simile.
+  suggested_aliases:
+  - maiden_procession_with_attendants
+  - goddess_like_procession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-represented-in-animal-form
+  motif_id: goddess_represented_in_animal_form
+  label: Goddess represented in animal form
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to iconographic representation, actual divine shapeshifting,
+    or comparative classification, which require different placements.
+  cautions: If purely iconographic or scholarly comparison, exclude from pattern queries;
+    if narrative transformation is present, shapeshifter or mother_goddess may fit.
+  suggested_aliases:
+  - animal_form_goddess
+  - goddess_in_animal_form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-speech-as-mockery-or-prophecy-context
+  motif_id: goddess_speech_as_mockery_or_prophecy_context
+  label: goddess speech as mockery or prophecy context
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes divine speech, mockery, and prophecy; the narrative function
+    cannot be determined from the wording alone.
+  cautions: May map to prophecy_divination, curse_blessing_speech, or storytelling_as_power
+    if the speech act binds events; may also be a contextual note.
+  suggested_aliases:
+  - prophetic_mockery_by_goddess
+  - goddess_speech_as_prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-syncretism-across-traditions
+  motif_id: goddess_syncretism_across_traditions
+  label: goddess syncretism across traditions
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Syncretism across traditions describes interpretive, cult-historical,
+    or comparative classification rather than a narrative motif.
+  cautions: Preserve as provenance or reception metadata if useful; do not use as
+    evidence for transmission in motif normalization.
+  suggested_aliases:
+  - goddess_syncretism
+  - cross_tradition_goddess_identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-transported-by-attendants-and-animal-drawn-car
+  motif_id: goddess_transported_by_attendants_and_animal_drawn_car
+  label: goddess transported by attendants and animal-drawn car
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A goddess appearing with attendants and an animal-drawn vehicle is best
+    treated as a mode of divine manifestation or epiphanic display.
+  cautions: If the passage is only iconographic description or cult procession detail,
+    it may be too specific; if the vehicle confers authority, sacred_treasures or
+    royal_legitimacy may be secondary.
+  suggested_aliases:
+  - goddess_in_animal_drawn_car
+  - goddess_procession_with_attendants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-visits-sacred-mountain-retreat-of-inspired-sisters
+  motif_id: goddess_visits_sacred_mountain_retreat_of_inspired_sisters
+  label: goddess visits sacred mountain retreat of inspired sisters
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sacred mountain retreat functions as a divine or inspired center
+    associated with visitation and sacred presence.
+  cautions: The full label is highly contextual; if inspiration or poetic revelation
+    is central, sacred_knowledge or theophany may be better secondary mappings.
+  suggested_aliases:
+  - divine_visit_to_sacred_mountain
+  - sacred_mountain_retreat_of_inspired_sisters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence goddess imagery or scene descriptions;
+  preserve as evidence details unless source review shows recurring narrative function.
+- Do not infer transmission or shared origin from goddess role, animal imagery, procession,
+  or sacred mountain similarity.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements emphasize existing groups; ambiguous goddess-scene
+    and iconographic/comparative labels require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0854
+  input_sha256: 750e47076151fb62c794ba983a864fc7edf0307d2711d8b7ae606ef19d30ad85
+

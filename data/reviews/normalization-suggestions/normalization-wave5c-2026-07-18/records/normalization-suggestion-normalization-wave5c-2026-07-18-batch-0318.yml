@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0318
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.real-death-mistaken-for-another-trick
+  motif_id: real_death_mistaken_for_another_trick
+  label: real death mistaken for another trick
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a trickster reversal, tragic recognition, or passage-specific
+    plot irony rather than a death motif.
+  cautions: Single occurrence and depends on whether the mistaken death has ritual,
+    moral, or transformation function.
+  suggested_aliases:
+  - death_mistaken_for_trick
+  - fatal_trick_misrecognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.realm-diminished-by-death-and-war
+  motif_id: realm_diminished_by_death_and_war
+  label: Realm diminished by death and war
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on collective loss and decline after deaths in war,
+    fitting tragic mourning and recognition of what is lost.
+  cautions: If the passage emphasizes political collapse or kingship failure, royal_legitimacy
+    or pride_and_downfall may be secondary.
+  suggested_aliases:
+  - realm_wasted_by_war_and_death
+  - kingdom_diminished_by_war_deaths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recalcitrant-animal-resists-ascent-but-permits-descent
+  motif_id: recalcitrant_animal_resists_ascent_but_permits_descent
+  label: Recalcitrant animal resists ascent but permits descent
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal behavior with vertical passage, but the narrative
+    function is unclear from the label alone.
+  cautions: Could involve ascent/descent, animal helper/opponent, threshold refusal,
+    or a local etiological detail; avoid forcing into descent without passage evidence.
+  suggested_aliases:
+  - animal_blocks_ascent_allows_descent
+  - animal_resists_upward_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recalling-the-departed-spirit
+  motif_id: recalling_the_departed_spirit
+  label: recalling the departed spirit
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Recalling a departed spirit fits ritual care or invocation of the dead
+    in ancestor relations.
+  cautions: If the rite aims to restore life or heal soul loss, soul_loss_restoration
+    may be a better or secondary mapping.
+  suggested_aliases:
+  - spirit_recall_rite
+  - calling_back_departed_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recently-buried-violently-killed-dead-person-associated-with-haunting
+  motif_id: recently_buried_violently_killed_dead_person_associated_with_haunting
+  label: recently buried violently killed dead person associated with haunting
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: high
+  rationale: A violently killed dead person associated with haunting is a clear restless-dead
+    pattern.
+  cautions: Recently buried and violent death are evidence details; review whether
+    vengeance, improper rites, or pollution is the active cause.
+  suggested_aliases:
+  - violent_dead_haunting
+  - haunting_by_recently_buried_victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-presentation-with-required-return
+  motif_id: reciprocal_presentation_with_required_return
+  label: reciprocal presentation with required return
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The required return of a presentation describes reciprocal obligation,
+    matching sacred exchange.
+  cautions: Death bucket placement may be incidental; if this is purely social custom
+    without sacred framing, human review should decide whether to index.
+  suggested_aliases:
+  - required_reciprocal_gift_return
+  - obligatory_return_gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-and-separation-of-kin-after-resurrection
+  motif_id: recognition_and_separation_of_kin_after_resurrection
+  label: Recognition and separation of kin after resurrection
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The sequence depends on resurrection and changed postmortem relations,
+    fitting death-and-transformation.
+  cautions: Could also involve afterlife judgment or eschatology; kin recognition/separation
+    may be an evidence detail rather than separate motif.
+  suggested_aliases:
+  - kin_recognition_after_resurrection
+  - post_resurrection_kin_separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-a-dead-person-through-clothing-or-accessory
+  motif_id: recognition_of_a_dead_person_through_clothing_or_accessory
+  label: recognition of a dead person through clothing or accessory
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Clothing or an accessory functions as a recognition token proving identity
+    of the dead person.
+  cautions: If the point is mourning over remains rather than identity proof, lament_and_mourning
+    may be secondary.
+  suggested_aliases:
+  - recognition_by_dead_persons_clothing
+  - dead_person_identified_by_accessory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-kin-s-death-through-possessions-and-remains
+  motif_id: recognition_of_kin_s_death_through_possessions_and_remains
+  label: recognition of kin's death through possessions and remains
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Possessions and remains serve as identity proof and recognition tokens
+    for a dead kin figure.
+  cautions: May also support lament/mourning if the recognition primarily triggers
+    grief rather than resolves identity.
+  suggested_aliases:
+  - kin_death_recognized_by_possessions
+  - death_recognition_by_remains_and_tokens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-true-shape-followed-by-death-in-seven-days
+  motif_id: recognition_of_true_shape_followed_by_death_in_seven_days
+  label: Recognition of true shape followed by death in seven days
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: True-shape recognition could indicate shapeshifting, taboo vision, prophecy,
+    or fated death, but the function is unclear.
+  cautions: The seven-day death interval may be a culturally specific rule or passage
+    detail; source evidence needed before mapping to shapeshifter, death_by_fate,
+    or dream_and_vision.
+  suggested_aliases:
+  - true_form_recognition_precedes_death
+  - seeing_true_shape_causes_delayed_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; recommendations preserve
+  evidence detail while avoiding new group creation.
+- 'Death-bucket placement is not always decisive: recognition-token and exchange motifs
+  may have been sorted there because the local passage involves death.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; human review should verify passage function
+    for low-confidence items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0318
+  input_sha256: 8be414ee039ab2c756af0413d6711d94734b64e73749c540be3fb7785126007f
+

@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0368
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sleep-drugged-wine-offered-to-returning-hero
+  motif_id: sleep_drugged_wine_offered_to_returning_hero
+  label: Sleep-drugged wine offered to returning hero
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Drugged wine functions as a substance altering consciousness or disabling
+    the hero.
+  cautions: Could instead be betrayal_violated_trust or storytelling_as_power if the
+    key scene is treachery or enchanted sleep at a feast.
+  suggested_aliases:
+  - drugged_wine_induces_sleep
+  - sleep_inducing_wine_offered_to_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-or-dream-as-risky-soul-projection
+  motif_id: sleep_or_dream_as_risky_soul_projection
+  label: Sleep or dream as risky soul projection
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on a soul leaving or projecting during sleep, creating
+    risk of loss or harm.
+  cautions: Comparative wording may be a belief-classification artifact; if the passage
+    emphasizes dream revelation rather than soul danger, dream_and_vision may be better.
+  suggested_aliases:
+  - sleep_as_soul_projection
+  - dream_soul_projection
+  - dangerous_soul_travel_in_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-hero-assassinated-but-kills-assassin-while-dying
+  motif_id: sleeping_hero_assassinated_but_kills_assassin_while_dying
+  label: sleeping hero assassinated but kills assassin while dying
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A hero's lethal final act after assassination fits heroic warrior death
+    and combat prowess.
+  cautions: Highly episode-specific; if the focus is treacherous killing rather than
+    heroic last action, betrayal_violated_trust may be a secondary placement.
+  suggested_aliases:
+  - dying_hero_kills_assassin
+  - hero_slain_in_sleep_kills_killer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-thief-returned-to-starting-place
+  motif_id: sleeping_thief_returned_to_starting_place
+  label: Sleeping thief returned to starting place
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: The thief and reversal of attempted movement suggest a trickster or deception-reversal
+    episode.
+  cautions: May be an over-specific tale incident; source context is needed to know
+    whether return is magical punishment, trickster prank, or simple plot device.
+  suggested_aliases:
+  - thief_magically_returned_to_starting_place
+  - sleeping_thief_reset_to_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleepless-abandoned-lover-chooses-death-by-sword
+  motif_id: sleepless_abandoned_lover_chooses_death_by_sword
+  label: sleepless abandoned lover chooses death by sword
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The death is motivated by abandonment and love-suffering, fitting love
+    as destructive or death-transcending force.
+  cautions: Could also be lament_and_mourning or death_by_fate depending on whether
+    the passage stresses grief, destiny, or tragic suicide rather than love itself.
+  suggested_aliases:
+  - abandoned_lover_chooses_death
+  - love_grief_death_by_sword
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-change-made-from-shells
+  motif_id: small_change_made_from_shells
+  label: Small change made from shells
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads as a material-culture or economic detail, not a symbolic or
+    narrative motif.
+  cautions: If shells function as sacred payment, funerary currency, or ritual exchange
+    in the passage, remap to sacred_exchange or afterlife_passage after evidence review.
+  suggested_aliases:
+  - shell_currency_detail
+  - shells_used_as_small_change
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-shellfish-as-souls-of-large-sea-animals
+  motif_id: small_shellfish_as_souls_of_large_sea_animals
+  label: small shellfish as souls of large sea animals
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The soul or vital counterpart of an animal is located in another external
+    animal form.
+  cautions: May be a culturally specific soul-anthropology belief; review carefully
+    before broad querying, and consider shapeshifter if transformation is explicit.
+  suggested_aliases:
+  - animal_soul_in_shellfish
+  - sea_animal_soul_counterpart_in_shellfish
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sneezing-as-dangerous-soul-escape
+  motif_id: sneezing_as_dangerous_soul_escape
+  label: Sneezing as dangerous soul escape
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif concerns accidental escape or loss of the soul from the body.
+  cautions: Could warrant a future soul-anthropology subgroup if many breath, sneeze,
+    shadow, or reflection labels recur; avoid overgeneralizing from one ethnographic
+    detail.
+  suggested_aliases:
+  - sneeze_releases_soul
+  - dangerous_soul_escape_by_sneezing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.snowstorm-and-lamp-fuel-shortage-bring-freezing-death
+  motif_id: snowstorm_and_lamp_fuel_shortage_bring_freezing_death
+  label: Snowstorm and lamp-fuel shortage bring freezing death
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a specific environmental death circumstance rather
+    than a durable mythic pattern.
+  cautions: If the scene functions as divine judgment, ordeal, or survival catastrophe
+    in the source, it may need contextual remapping; label alone is too situational.
+  suggested_aliases:
+  - freezing_death_from_storm_and_fuel_shortage
+  - environmental_freezing_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.socially-ranked-divine-allotment-of-the-dead-or-human-groups
+  motif_id: socially_ranked_divine_allotment_of_the_dead_or_human_groups
+  label: Socially ranked divine allotment of the dead or human groups
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: uncertain
+  confidence: low
+  rationale: Divine assignment of the dead may fit afterlife administration or judgment
+    by sacred powers.
+  cautions: The label also mentions human groups and social ranking, so it may concern
+    social order, cosmological classification, or a passage-specific interpretation
+    rather than afterlife passage alone.
+  suggested_aliases:
+  - divine_allotment_of_the_dead
+  - ranked_afterlife_allocation
+  - divine_assignment_of_human_groups
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; preserve
+  local evidence notes and avoid promotion without recurrence.
+- Soul-projection and soul-escape labels may indicate a broader soul-anthropology
+  pattern, but existing soul_loss_restoration and external_soul groups can provisionally
+  hold them.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for culturally
+    specific soul-belief labels and over-specific death incidents.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0368
+  input_sha256: e773fb4273ec8075ff3d9b1e1369ce835092c5648639c7c1da056b5d227a5e64
+

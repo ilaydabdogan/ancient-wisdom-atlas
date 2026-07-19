@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0303
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.premature-burial-or-burial-alive
+  motif_id: premature_burial_or_burial_alive
+  label: premature burial or burial alive
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: Burial alive can function as death, near-death, concealment, ordeal,
+    or wrongful mortuary action, but the label alone does not show transformation
+    or return.
+  cautions: Single occurrence and culturally specific context; may be an episode detail
+    or mortuary practice rather than a reusable motif.
+  suggested_aliases:
+  - burial_alive
+  - premature_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.premature-death-outside-ordinary-fate
+  motif_id: premature_death_outside_ordinary_fate
+  label: premature death outside ordinary fate
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explicitly frames death in relation to fate, even if as an
+    exception to ordinary destiny.
+  cautions: Check whether the source treats this as theological fate, ritual category,
+    or legal/classificatory death status.
+  suggested_aliases:
+  - untimely_death_outside_fate
+  - premature_death_as_exception_to_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.premature-death-rite-and-liminal-abandonment
+  motif_id: premature_death_rite_and_liminal_abandonment
+  label: premature death rite and liminal abandonment
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label appears to concern mortuary treatment after an abnormal death,
+    which broadly fits death rites.
+  cautions: Liminal abandonment may reflect a specific cultural mortuary category;
+    avoid forcing into heroic funeral rites if no honor/memorialization is present.
+  suggested_aliases:
+  - liminal_abandonment_after_premature_death
+  - premature_death_mortuary_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.premonition-of-death-through-symbolic-song-and-dream
+  motif_id: premonition_of_death_through_symbolic_song_and_dream
+  label: Premonition of death through symbolic song and dream
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: A death premonition conveyed through dream imagery belongs with dreams
+    and visions as revelatory altered perception.
+  cautions: Song may also support sacred_song or enchanting_music if the passage emphasizes
+    performative sound rather than dream revelation.
+  suggested_aliases:
+  - death_premonition_in_dream
+  - symbolic_dream_foretelling_death
+  - death_omen_through_song_and_dream
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preordained-death-linked-to-a-previous-existence
+  motif_id: preordained_death_linked_to_a_previous_existence
+  label: Preordained death linked to a previous existence
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a death fixed in advance, with prior existence explaining
+    the destiny.
+  cautions: If the passage emphasizes karmic rebirth or past-life identity more than
+    destined death, death_and_transformation may be a secondary fit.
+  suggested_aliases:
+  - preordained_death_from_past_life
+  - karmically_preordained_death
+  - death_destined_by_previous_existence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prepared-tomb-and-charitable-burial-provisions
+  motif_id: prepared_tomb_and_charitable_burial_provisions
+  label: Prepared tomb and charitable burial provisions
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label concerns planned burial care and provisions, fitting rites
+    and memorial treatment of the dead.
+  cautions: May be more ethical-charitable or hagiographic than mythic; if focused
+    on generosity, sacred_exchange or sacred_law may be relevant.
+  suggested_aliases:
+  - prepared_tomb
+  - charitable_burial_provisions
+  - prearranged_burial_care
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prescribed-in-law-remarriage-after-childless-spouse-s-death
+  motif_id: prescribed_in_law_remarriage_after_childless_spouse_s_death
+  label: Prescribed in-law remarriage after childless spouse's death
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed kinship rule after a spouse's death is primarily social
+    law regulating family order.
+  cautions: May be ethnographic kinship detail rather than mythic motif; review whether
+    it appears as narrative pattern, custom, or commentary.
+  suggested_aliases:
+  - levirate_like_remarriage_after_childless_death
+  - in_law_remarriage_after_spouse_death
+  - postmortem_kinship_remarriage_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prescribed-stay-period-after-kin-death-by-moral-category
+  motif_id: prescribed_stay_period_after_kin_death_by_moral_category
+  label: prescribed stay-period after kin death by moral category
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed post-death period classified by moral category is a ritual/legal
+    purity or mourning regulation.
+  cautions: Could belong with ancestor rites or afterlife passage if the stay-period
+    concerns the soul rather than living mourners; source context needed.
+  suggested_aliases:
+  - post_death_stay_period_by_moral_category
+  - ritual_waiting_period_after_kin_death
+  - mourning_period_by_moral_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.present-descent-place-or-animal-abundance-explained-by-migration-events
+  motif_id: present_descent_place_or_animal_abundance_explained_by_migration_events
+  label: Present descent, place, or animal abundance explained by migration events
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds etiological, explaining present places or abundance
+    through earlier migration events.
+  cautions: Composite and culturally specific; 'descent' may mean ancestry rather
+    than underworld descent. Review Navajo context before mapping to origin, migration,
+    or animal-abundance motifs.
+  suggested_aliases:
+  - etiology_of_place_and_animal_abundance_from_migration
+  - migration_event_explains_present_place
+  - migration_etiology_of_animal_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.present-state-spiritual-conquest
+  motif_id: present_state_spiritual_conquest
+  label: Present-state spiritual conquest
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: uncertain
+  confidence: low
+  rationale: Spiritual conquest may refer to inner liberation or mastery, which broadly
+    fits the mystical quest complex.
+  cautions: Phrase is abstract and may be a doctrinal/commentary artifact; verify
+    whether it denotes a narrative ordeal, meditative attainment, or present-life
+    victory over death/rebirth.
+  suggested_aliases:
+  - spiritual_conquest_in_present_life
+  - present_life_spiritual_victory
+  - inner_spiritual_conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence mortuary or legal/ritual classifications;
+  preserve source context before promoting them as durable motif children.
+- Do not infer underworld descent from the word 'descent' where ancestry, migration,
+  or social descent may be intended.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items require source-level review for
+    ritual, legal, or commentary-artifact status.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0303
+  input_sha256: f6e2f8965014b59600e7b55b407c0cef264faad3d9e2fab3e3a7d4dc69bbc0a7
+

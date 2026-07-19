@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0709
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.communal-lament-over-loss-of-a-sacred-object
+  motif_id: communal_lament_over_loss_of_a_sacred_object
+  label: Communal lament over loss of a sacred object
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is communal lament over loss, with the sacred object
+    as the occasion of mourning.
+  cautions: Could also index under sacred_treasures if the object's power or status
+    is central; single occurrence may be episode-specific.
+  suggested_aliases:
+  - lament_over_loss_of_a_sacred_object
+  - community_mourning_for_lost_sacred_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-mourning-and-prayer-at-the-prepared-body
+  motif_id: communal_mourning_and_prayer_at_the_prepared_body
+  label: Communal mourning and prayer at the prepared body
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Mourning and prayer around a prepared body are funerary rites performed
+    for the dead.
+  cautions: If no heroic or memorial honor is involved, ancestor_rites or lament_and_mourning
+    may be better secondary mappings; culturally specific mortuary details need review.
+  suggested_aliases:
+  - communal_mourning_at_prepared_body
+  - funerary_prayer_at_the_prepared_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-noise-procession-and-purification-in-epidemic-rite
+  motif_id: communal_noise_procession_and_purification_in_epidemic_rite
+  label: Communal noise, procession, and purification in epidemic rite
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A communal purification rite against epidemic fits the existing ritual
+    expulsion and communal clearance complex under sacrifice.
+  cautions: Noise and procession may be local ritual mechanics; if the rite is apotropaic
+    law rather than expulsion, sacred_law may also apply.
+  suggested_aliases:
+  - epidemic_purification_procession
+  - communal_noise_rite_against_epidemic
+  - processional_purification_against_disease
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-prayer-song-dance-feast-cycle
+  motif_id: communal_prayer_song_dance_feast_cycle
+  label: Communal prayer-song-dance-feast cycle
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayer, song, dance, and feast form a communal ritual cycle of offering
+    and reciprocal sacred relationship.
+  cautions: May also relate to sacred_time if calendrical, sacred_song/enchanting_music
+    if sound power is central, or sacred_substance if feasting is the main motif.
+  suggested_aliases:
+  - communal_prayer_song_dance_feast
+  - ritual_cycle_of_prayer_song_dance_and_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-prayers-followed-by-inhalation-of-sacred-breath
+  motif_id: communal_prayers_followed_by_inhalation_of_sacred_breath
+  label: Communal prayers followed by inhalation of sacred breath
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines communal prayer with a culturally specific sacred-breath
+    act not clearly covered by existing groups.
+  cautions: Could fit sacred_exchange, sacred_substance, divine_intervention, or a
+    local ritual-healing/purification pattern depending on passage evidence; avoid
+    flattening sacred breath into generic substance without review.
+  suggested_aliases:
+  - inhalation_of_sacred_breath_after_prayer
+  - communal_prayer_and_sacred_breath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-prevention-of-quarrel-during-ritual-judgment
+  motif_id: communal_prevention_of_quarrel_during_ritual_judgment
+  label: Communal prevention of quarrel during ritual judgment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: low
+  rationale: The explicit judgment setting points to ritualized moral reckoning and
+    communal order maintenance.
+  cautions: This may be an ethical or monastic procedural detail rather than a mythic
+    motif; sacred_law or covenant may fit if the focus is social discipline.
+  suggested_aliases:
+  - quarrel_prevention_during_ritual_judgment
+  - communal_order_during_judgment_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-reception-of-a-sacred-tabernacle
+  motif_id: communal_reception_of_a_sacred_tabernacle
+  label: communal reception of a sacred tabernacle
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred tabernacle functions as a holy container or portable sanctuary
+    received ritually by the community.
+  cautions: If the emphasis is the tabernacle as sacred center, world_center or axis_mundi
+    may be secondary; if only procession protocol, it may be too contextual.
+  suggested_aliases:
+  - ritual_reception_of_sacred_tabernacle
+  - communal_reception_of_portable_sanctuary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-redistribution-of-offerings
+  motif_id: communal_redistribution_of_offerings
+  label: communal redistribution of offerings
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: Redistributed offerings directly fit sacred exchange, giving, and ritual
+    reciprocity within a community.
+  cautions: Could also support sacrifice if the offerings are set apart for a deity
+    or rite before redistribution.
+  suggested_aliases:
+  - redistribution_of_ritual_offerings
+  - communal_sharing_of_offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-ritual-expulsion-of-disease-and-evils
+  motif_id: communal_ritual_expulsion_of_disease_and_evils
+  label: communal ritual expulsion of disease and evils
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: This is a close variant of existing communal expulsion and disease/evil-spirit
+    removal children under the sacrifice ritual-expulsion complex.
+  cautions: If no offering, substitute, or transfer is present, sacred_law/apotropaic
+    protection may be a secondary fit.
+  suggested_aliases:
+  - communal_expulsion_of_disease_and_evils
+  - ritual_expulsion_of_disease_and_evil
+  - communal_clearance_of_disease_and_harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-ritual-healing-by-a-fraternity
+  motif_id: communal_ritual_healing_by_a_fraternity
+  label: communal ritual healing by a fraternity
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a culturally specific healing society or fraternity practice
+    without enough evidence for a current broad group.
+  cautions: Could fit divine_intervention, sacred_exchange, sacred_law, or a future
+    ritual-healing group; review source context and culturally specific terminology
+    before mapping.
+  suggested_aliases:
+  - fraternity_ritual_healing
+  - communal_healing_rite_by_society
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence communal ritual labels; preserve local ritual mechanics
+  as evidence notes rather than promoting them to taxonomy motifs.
+- Native American Southwest ritual-healing and sacred-breath labels should receive
+  human review to avoid flattening culturally specific ceremonial roles into generic
+  ritual categories.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; several culturally specific or single-occurrence
+    ritual labels require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0709
+  input_sha256: 899553d0d8e51c8597ea53ae9e98966fbede3a434b08a80188c372b1167dab0b
+

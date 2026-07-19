@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0279
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.noble-death-by-wounds
+  motif_id: noble_death_by_wounds
+  label: noble death by wounds
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Death marked by wounds fits the existing warrior-death and martial-proof
+    complex under divine_warrior.
+  cautions: Single occurrence; if the passage emphasizes mourning or funeral honors
+    rather than martial proof, lament_and_mourning or heroic_funeral_rites may be
+    better secondary mappings.
+  suggested_aliases:
+  - heroic death by wounds
+  - martial wounds as noble death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.noble-tomb-topped-by-sacred-house
+  motif_id: noble_tomb_topped_by_sacred_house
+  label: noble tomb topped by sacred house
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A tomb structure honoring a noble dead person fits funerary memorialization
+    and social reaffirmation around the dead.
+  cautions: Could be culturally specific mortuary architecture; review whether it
+    is recurring motif evidence or an ethnographic/site detail. If the house functions
+    as an ancestor shrine, ancestor_rites may also apply.
+  suggested_aliases:
+  - sacred house over noble tomb
+  - tomb house memorial for noble dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.noble-woman-s-death-followed-by-another-woman-s-authority
+  motif_id: noble_woman_s_death_followed_by_another_woman_s_authority
+  label: noble woman's death followed by another woman's authority
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe succession, household authority, or episode-specific
+    plot sequence rather than a stable death motif.
+  cautions: Needs passage evidence to decide between royal_legitimacy, sacred_law/social
+    order, lament_and_mourning, or exclusion as an over-specific narrative detail.
+  suggested_aliases:
+  - female authority after noblewoman's death
+  - succession of women's authority after death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nocturnal-avoidance-of-graves
+  motif_id: nocturnal_avoidance_of_graves
+  label: nocturnal avoidance of graves
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Avoiding graves at night is a mortuary taboo or protective rule, matching
+    sacred_law's ritual-prohibition and apotropaic protection scope.
+  cautions: Single culturally specific practice; if the passage emphasizes active
+    dead spirits rather than taboo, restless_dead_haunting_vengeance may be a secondary
+    relation.
+  suggested_aliases:
+  - night taboo around graves
+  - avoidance of graves at night
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nocturnal-expulsion-of-hostile-spirits-with-noise-and-instruments
+  motif_id: nocturnal_expulsion_of_hostile_spirits_with_noise_and_instruments
+  label: Nocturnal expulsion of hostile spirits with noise and instruments
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The existing sacrifice group already contains ritual_expulsion and communal
+    expulsion of harmful spirits; noise and instruments are local means.
+  cautions: Could also relate to enchanting_music or sacred_law if sound power or
+    protective taboo is emphasized, but the main function is expulsion.
+  suggested_aliases:
+  - nocturnal spirit expulsion by noise
+  - driving out hostile spirits with instruments
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nocturnal-or-dawn-boundary-for-the-returned-being
+  motif_id: nocturnal_or_dawn_boundary_for_the_returned_being
+  label: Nocturnal or dawn boundary for the returned being
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A time boundary for a returned being could indicate return from death,
+    otherworld rules, taboo, or threshold contact.
+  cautions: Needs source evidence before mapping to death_and_transformation, otherworld,
+    sacred_time, or threshold_guardian. The label may be over-specific.
+  suggested_aliases:
+  - dawn boundary for returned being
+  - night boundary for supernatural return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nocturnal-spirit-disturbance-repelled-by-sound-and-chant
+  motif_id: nocturnal_spirit_disturbance_repelled_by_sound_and_chant
+  label: nocturnal spirit disturbance repelled by sound and chant
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Repelling spirit disturbance through sound and chant fits apotropaic
+    protection practices currently folded under sacred_law.
+  cautions: If the rite is a formal expulsion rather than protective repelling, sacrifice/ritual_expulsion
+    may be a better or secondary mapping. If chant itself is the core power, enchanting_music
+    may be related.
+  suggested_aliases:
+  - spirit disturbance repelled by chant
+  - nocturnal apotropaic sound against spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nocturnal-threshold-contact-by-a-passing-spirit
+  motif_id: nocturnal_threshold_contact_by_a_passing_spirit
+  label: nocturnal threshold contact by a passing spirit
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on contact at a threshold with a spirit, fitting the
+    boundary-crossing and liminal-contact field.
+  cautions: No guardian role is explicit; if the spirit is a dead person haunting
+    the living, restless_dead_haunting_vengeance may fit better. Review for over-specific
+    passage detail.
+  suggested_aliases:
+  - passing spirit at night threshold
+  - spirit contact at liminal doorway
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.noise-used-to-drive-away-illness-causing-spirits
+  motif_id: noise_used_to_drive_away_illness_causing_spirits
+  label: Noise used to drive away illness-causing spirits
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Driving away illness-causing spirits matches existing spirit-affliction
+    expulsion and exorcism children under sacrifice.
+  cautions: Sound is the means, not necessarily an independent music motif. If framed
+    as household protection rather than expulsion, sacred_law may be secondary.
+  suggested_aliases:
+  - noise expels illness spirits
+  - sound used in spirit-affliction expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-hierarchical-spirit-powers
+  motif_id: non_hierarchical_spirit_powers
+  label: Non-hierarchical spirit powers
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a cosmological classification of spirits rather than
+    a clear narrative or ritual motif.
+  cautions: Potentially culturally sensitive and too abstract for pattern queries
+    without source context. Could be commentary artifact, spirit cosmology, or evidence
+    for divine_intervention depending on passage.
+  suggested_aliases:
+  - non-hierarchical spirit agency
+  - distributed spirit powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels involve culturally specific spirit-expulsion or mortuary-taboo practices;
+  placements are provisional and should preserve local evidence notes.
+- Sound/noise labels were mapped by ritual function, not by broad symbolic similarity
+  to music.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed for ambiguous death-return,
+    spirit cosmology, and culturally specific mortuary practices.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0279
+  input_sha256: 69eac7f554f13763f32a5518a7e44c2ea258f6e5ed35b07ce95f14a06169f78c
+

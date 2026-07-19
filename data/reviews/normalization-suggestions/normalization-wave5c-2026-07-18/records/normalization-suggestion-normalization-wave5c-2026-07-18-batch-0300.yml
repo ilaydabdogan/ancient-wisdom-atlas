@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0300
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.postponement-of-death-until-daylight
+  motif_id: postponement_of_death_until_daylight
+  label: postponement of death until daylight
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could reflect fated death delayed, ritual timing, or a narrative suspense
+    detail; label alone does not identify the function.
+  cautions: Single occurrence and culturally specific context; avoid mapping to death_by_fate
+    unless destiny or inevitability is explicit.
+  suggested_aliases:
+  - death_delayed_until_daylight
+  - daylight_postponement_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poverty-obstructs-proper-burial-rites
+  motif_id: poverty_obstructs_proper_burial_rites
+  label: Poverty obstructs proper burial rites
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on inability to perform proper burial rites, which
+    fits the funerary-rites and denied-burial complex.
+  cautions: If the passage emphasizes social poverty or moral critique more than funerary
+    obligation, sacred_law or divine_judgment may be a secondary review path.
+  suggested_aliases:
+  - impoverishment_prevents_burial_rites
+  - poverty_blocks_funeral_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.power-retained-in-a-preserved-corpse-and-its-feathers
+  motif_id: power_retained_in_a_preserved_corpse_and_its_feathers
+  label: power retained in a preserved corpse and its feathers
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve relic power, corpse preservation, animal feathers,
+    ancestor power, or sacred-object potency.
+  cautions: Culturally sensitive mortuary and Indigenous context; do not reduce to
+    sacred_treasures without evidence that corpse/feathers function as power objects
+    rather than remains or ancestor presence.
+  suggested_aliases:
+  - power_retained_in_preserved_remains
+  - preserved_corpse_as_power_source
+  - feathers_of_preserved_corpse_retain_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.powerful-or-offended-animal-souls-linked-to-taboo-breach
+  motif_id: powerful_or_offended_animal_souls_linked_to_taboo_breach
+  label: Powerful or offended animal souls linked to taboo breach
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns taboo breach and animal souls monitoring or reacting
+    to human conduct, already near sacred_law children about animal soul treatment.
+  cautions: Review Arctic Inuit source context carefully; may also involve ancestor/animal-person
+    ontology or spirit agency not reducible to legal taboo.
+  suggested_aliases:
+  - offended_animal_souls_after_taboo_breach
+  - animal_souls_punish_taboo_breach
+  - taboo_breach_offends_animal_souls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.praise-and-pardon-seeking-at-the-approach-of-death
+  motif_id: praise_and_pardon_seeking_at_the_approach_of_death
+  label: praise and pardon-seeking at the approach of death
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Seeking pardon near death anticipates moral reckoning and divine mercy,
+    with praise as devotional preparation.
+  cautions: Could instead be prayer practice, repentance, or ethical instruction;
+    verify whether deathbed judgment or afterlife accountability is explicit.
+  suggested_aliases:
+  - deathbed_praise_and_pardon_seeking
+  - seeking_pardon_at_death
+  - deathbed_repentant_praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.praising-death-as-culpable-incitement
+  motif_id: praising_death_as_culpable_incitement
+  label: Praising death as culpable incitement
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label frames speech about death as ethically culpable conduct, fitting
+    sacred law or moral discipline rather than a death-return motif.
+  cautions: May be a doctrinal/legal passage artifact about monastic rule; preserve
+    as evidence detail and review before broad motif querying.
+  suggested_aliases:
+  - culpable_praise_of_death
+  - death_praise_as_incitement
+  - inciting_death_by_praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-against-misleading-spirits
+  motif_id: prayer_against_misleading_spirits
+  label: prayer against misleading spirits
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prayer to avert misleading spirits fits apotropaic protection and spirit-danger
+    regulation under sacred_law.
+  cautions: If the passage emphasizes divine rescue or angelic guidance, divine_intervention
+    may be a secondary mapping.
+  suggested_aliases:
+  - apotropaic_prayer_against_deceptive_spirits
+  - prayer_for_protection_from_misleading_spirits
+  - prayer_against_deceptive_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-answered-by-gods-and-family-after-death
+  motif_id: prayer_answered_by_gods_and_family_after_death
+  label: Prayer answered by gods and family after death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines prayer, divine response, family agency, and postmortem
+    context; the primary function is unclear.
+  cautions: Could belong to ancestor rites, divine_intervention, afterlife passage,
+    or funerary commemoration depending on who answers and what changes after death.
+  suggested_aliases:
+  - postmortem_prayer_answered_by_gods_and_family
+  - prayer_answered_after_death
+  - dead_persons_prayer_answered_by_kin_and_gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-at-a-grave-marker-or-death-associated-stone
+  motif_id: prayer_at_a_grave_marker_or_death_associated_stone
+  label: prayer at a grave marker or death-associated stone
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayer at a grave marker or death-associated stone is ritual contact
+    with the dead or ancestors at a mortuary site.
+  cautions: If the stone is primarily a shrine, relic, or sacred power object, sacred_treasures
+    may be relevant; source context should determine whether ancestor relation is
+    explicit.
+  suggested_aliases:
+  - grave_marker_prayer
+  - prayer_at_death_stone
+  - prayer_at_mortuary_stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-at-ancestral-coffins
+  motif_id: prayer_at_ancestral_coffins
+  label: prayer at ancestral coffins
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Prayer at ancestral coffins directly fits ritual communication or reverence
+    directed toward ancestors and the dead.
+  cautions: Arthurian context may use ancestral coffins as chivalric relics or lineage
+    proof; consider sacred_treasures or recognition_tokens if the scene functions
+    that way.
+  suggested_aliases:
+  - ancestral_coffin_prayer
+  - prayer_before_ancestral_coffins
+  - veneration_at_ancestral_coffins
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence mortuary or ritual details; preserve granular
+  wording as evidence and avoid promotion to canonical motif families without recurrence.
+- For culturally specific Indigenous and Arctic/Inuit mortuary or animal-soul labels,
+  human review should check source context before broad comparative indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0300
+  input_sha256: 7701cc36121ada5536b72c58d60278de72af5cf6257b6fd7267b5b8e80fc3d8e
+

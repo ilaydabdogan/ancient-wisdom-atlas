@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1496
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.anachronistic-convergence-of-heroic-kings
+  motif_id: anachronistic_convergence_of_heroic_kings
+  label: Anachronistic convergence of heroic kings
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes chronological or editorial convergence of figures
+    rather than a recurring narrative motif.
+  cautions: If source passages narrate an actual assembly of kings, review under royal_legitimacy
+    or heroic combat context instead.
+  suggested_aliases:
+  - chronological_convergence_of_heroic_kings
+  - anachronistic_heroic_king_convergence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancient-poem-preserved-by-editorial-ordering
+  motif_id: ancient_poem_preserved_by_editorial_ordering
+  label: ancient poem preserved by editorial ordering
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Preservation by editorial ordering is a textual-history observation,
+    not a mythic motif.
+  cautions: Preserve for provenance or source-history metadata if useful.
+  suggested_aliases:
+  - poem_preserved_by_editorial_ordering
+  - editorial_ordering_preserves_ancient_poem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancient-text-preserved-on-skins-at-persepolis
+  motif_id: ancient_text_preserved_on_skins_at_persepolis
+  label: Ancient text preserved on skins at Persepolis
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a manuscript or preservation detail tied to a place, not a symbolic
+    or narrative motif.
+  cautions: Place-specific preservation claims should remain provenance notes, not
+    pattern-query motifs.
+  suggested_aliases:
+  - text_preserved_on_skins_at_persepolis
+  - persepolis_textual_preservation_on_skins
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angakok-s-unattended-garment-making
+  motif_id: angakok_s_unattended_garment_making
+  label: Angakok’s unattended garment-making
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is culturally specific and unclear without evidence: it may
+    indicate shamanic power, spirit assistance, craft, or a passage detail.'
+  cautions: Review Inuit source context and terminology carefully; avoid collapsing
+    angakok/shamanic practice into generic craft without evidence.
+  suggested_aliases:
+  - unattended_garment_making_by_angakok
+  - shamanic_unattended_garment_making
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-mediation-of-law
+  motif_id: angelic_mediation_of_law
+  label: Angelic mediation of law
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: medium
+  rationale: Angels function as intermediaries through whom divine law or sacred order
+    is transmitted.
+  cautions: If the passage emphasizes messenger action more than law itself, divine_intervention
+    may be a secondary fit.
+  suggested_aliases:
+  - angelic_transmission_of_law
+  - law_mediated_by_angels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-ordering-of-calendar-days
+  motif_id: angelic_ordering_of_calendar_days
+  label: Angelic ordering of calendar days
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on sacred calendar order, with angels as the ordering
+    agents.
+  cautions: Could also involve divine_intervention if the narrative emphasizes angelic
+    agency rather than calendrical structure.
+  suggested_aliases:
+  - angelic_calendar_ordering
+  - calendar_days_ordered_by_angels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angered-authority-sends-a-messenger
+  motif_id: angered_authority_sends_a_messenger
+  label: Angered authority sends a messenger
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The authority could be royal, divine, or social, and the messenger’s
+    function is not clear from the label.
+  cautions: Map to divine_intervention only if the sender or message is sacred; map
+    to royal_legitimacy or covenant only with supporting evidence.
+  suggested_aliases:
+  - angry_authority_dispatches_messenger
+  - messenger_sent_by_angered_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angered-weather-being-causes-immobility-and-scarcity
+  motif_id: angered_weather_being_causes_immobility_and_scarcity
+  label: Angered weather being causes immobility and scarcity
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A superhuman weather being responds with deprivation and constraint,
+    functioning as punitive sacred agency.
+  cautions: Review whether this is moral judgment, offended spirit reciprocity, or
+    weather-deity power; sacred_exchange or divine_intervention may be secondary.
+  suggested_aliases:
+  - angered_weather_spirit_causes_scarcity
+  - weather_being_punishes_with_scarcity_and_immobility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-agency-within-a-working-team
+  motif_id: animal_agency_within_a_working_team
+  label: animal agency within a working team
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too general to determine whether the animal is helper, worker,
+    spirit, or narrative detail.
+  cautions: Could fit divine_intervention/animal_helpers if supernatural aid is present,
+    but mundane teamwork should not be indexed as a mythic motif.
+  suggested_aliases:
+  - animal_helper_within_working_team
+  - animal_participation_in_work_team
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-alarm-saving-a-threatened-city
+  motif_id: animal_alarm_saving_a_threatened_city
+  label: Animal alarm saving a threatened city
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal warning averts civic danger, matching protective guidance through
+    animal agency.
+  cautions: If the passage emphasizes civic cult, omen interpretation, or sacred geese
+    specifically, prophecy_divination or sacred_law may be relevant secondary mappings.
+  suggested_aliases:
+  - animal_warning_saves_city
+  - animal_alarm_averts_city_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are textual-history or source-preservation artifacts
+  and should be excluded from pattern queries.
+- For culturally specific shamanic or Indigenous labels, source context should be
+  reviewed before normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review needed especially for culturally
+    specific and ambiguous agency labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1496
+  input_sha256: b9e78bf0a4422ded2088a0e34125f5ca5092382e57e5db15098d711d70b27297
+

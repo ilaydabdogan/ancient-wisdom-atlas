@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3757
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.paired-role-correspondence-between-devadatta-and-the-bodisat
+  motif_id: paired_role_correspondence_between_devadatta_and_the_bodisat
+  label: paired role correspondence between Devadatta and the Bodisat
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes character-role correspondence in a Buddhist frame
+    rather than a portable narrative motif.
+  cautions: If the passage presents a recurring rivalry or duality pattern, review
+    for duality; otherwise preserve only as comparative/source note.
+  suggested_aliases:
+  - paired role correspondence
+  - Devadatta-Bodisat role correspondence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-sevenfold-companies
+  motif_id: paired_sevenfold_companies
+  label: paired sevenfold companies
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to determine whether the pairing is symbolic
+    duality, sacred number, social grouping, or episode detail.
+  cautions: Needs source evidence; do not map to duality merely because the label
+    says paired.
+  suggested_aliases:
+  - paired groups of seven
+  - sevenfold paired companies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-slipper-as-recognition-object
+  motif_id: paired_slipper_as_recognition_object
+  label: paired slipper as recognition object
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A slipper functions as an object token proving identity or linking a
+    person to an encounter.
+  cautions: Preserve the paired-slipper detail as local evidence; do not generalize
+    to sacred treasures unless the slipper has independent power.
+  suggested_aliases:
+  - slipper as recognition token
+  - shoe as identity proof
+  - paired shoe recognition object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-strait-hazards
+  motif_id: paired_strait_hazards
+  label: Paired strait hazards
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Opposed hazards at a narrow passage function as perilous threshold obstacles
+    that must be navigated.
+  cautions: If the emphasis is maritime travel rather than threshold testing, sacred_waters
+    or hero_journey may be secondary; verify source context.
+  suggested_aliases:
+  - paired passage hazards
+  - twin strait dangers
+  - hazards flanking a narrow passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-young-companions-undertake-perilous-mission
+  motif_id: paired_young_companions_undertake_perilous_mission
+  label: paired young companions undertake perilous mission
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Young companions departing on a dangerous mission fits the quest/departure
+    ordeal structure.
+  cautions: Could map to sacred_twins if kinship or doubled identity is central; otherwise
+    treat the paired-young detail as episode-specific.
+  suggested_aliases:
+  - young companions on perilous quest
+  - paired youths undertake mission
+  - companions undertake dangerous mission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.panic-destroys-aggressors
+  motif_id: panic_destroys_aggressors
+  label: panic destroys aggressors
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Aggressors destroyed by panic reads as reversal or punishment of hostile
+    violence.
+  cautions: If panic is explicitly divinely induced in battle, divine_warrior may
+    be a better primary group; if secular trickery causes it, review for trickster
+    or sacred_combat.
+  suggested_aliases:
+  - aggressors destroyed by panic
+  - panic routs attackers
+  - hostile attackers undone by fear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.panoramic-naming-of-the-landscape-from-a-height
+  motif_id: panoramic_naming_of_the_landscape_from_a_height
+  label: panoramic naming of the landscape from a height
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Naming the landscape explains or orders place identity, matching existing
+    etiological place-naming children.
+  cautions: If the height functions as a sacred mountain or revelation site, axis_mundi
+    or ascent may be secondary; single occurrence may be over-specific.
+  suggested_aliases:
+  - landscape naming from height
+  - panoramic place naming
+  - etiological landscape naming from a height
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pantheon-substitution-in-adapted-cosmology
+  motif_id: pantheon_substitution_in_adapted_cosmology
+  label: pantheon substitution in adapted cosmology
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes adaptation or substitution in a cosmological tradition,
+    likely a scholarly classification rather than a motif.
+  cautions: Do not use this as transmission evidence in pattern queries; preserve
+    as reception or redaction note if needed.
+  suggested_aliases:
+  - cosmological pantheon substitution
+  - adapted cosmology deity substitution
+  - pantheon replacement in cosmology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.panther-coyote-domestic-conflict-ending-in-retaliatory-killing
+  motif_id: panther_coyote_domestic_conflict_ending_in_retaliatory_killing
+  label: Panther-Coyote domestic conflict ending in retaliatory killing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines named animal figures, domestic conflict, and revenge
+    killing, but the narrative function is unclear.
+  cautions: Could involve trickster, animal fable, betrayal, or vengeance; culturally
+    specific animal roles require source review before placement.
+  suggested_aliases:
+  - animal domestic conflict with retaliatory killing
+  - Panther-Coyote revenge episode
+  - retaliatory killing after domestic conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pantomimic-representation-of-a-supernatural-being
+  motif_id: pantomimic_representation_of_a_supernatural_being
+  label: Pantomimic representation of a supernatural being
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may describe ritual performance, dramatic representation, or ethnographic
+    observation rather than a narrative motif.
+  cautions: Review culturally sensitive performance context; if it is a ritual embodiment
+    of sacred presence, theophany or sacred_law may be relevant, but label alone is
+    insufficient.
+  suggested_aliases:
+  - ritual pantomime of supernatural being
+  - performed representation of spirit being
+  - pantomimic spirit representation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; suggested placements
+  should remain provisional until passage evidence confirms narrative function.
+- Avoid treating paired wording as automatic duality; pairing may be textual, social,
+  numeric, or episode-specific.
+- Labels describing adaptation, correspondence, or pantheon substitution are likely
+  meta-textual and should be excluded from motif pattern queries unless source passages
+  contain a concrete recurring narrative motif.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 3757; human review
+    recommended for ambiguous and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3757
+  input_sha256: 71e63ab7d35d8219bdc76be6b6efdebb52870b12e8573bc1fd1d80974022b2e9
+

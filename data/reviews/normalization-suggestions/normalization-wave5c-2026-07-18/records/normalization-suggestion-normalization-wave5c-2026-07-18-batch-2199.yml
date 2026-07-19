@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2199
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.keeper-of-game-animals-in-a-hidden-preserve
+  motif_id: keeper_of_game_animals_in_a_hidden_preserve
+  label: keeper of game animals in a hidden preserve
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Guardian and Master of Game
+  relationship: role_variant
+  confidence: medium
+  rationale: A keeper controlling game animals is a recurring guardian/owner-of-animals
+    role not cleanly captured by trickster, shapeshifter, or animal helpers.
+  cautions: Single occurrence and culturally specific; review source evidence and
+    Indigenous terminology before creating a durable group.
+  suggested_aliases:
+  - keeper of game animals
+  - master of animals
+  - guardian of game animals
+  - owner of game animals
+  suggested_new_group:
+    id: animal_guardian_master_of_game
+    label: Animal Guardian and Master of Game
+    description: A supernatural, spirit, or liminal keeper owns, shelters, releases,
+      withholds, or regulates access to game animals and hunting abundance.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    related_group_ids:
+    - animal_helpers
+    - sacred_exchange
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups include animal helpers and
+      trickster figures, but not a guardian/owner role regulating the human-animal
+      hunting relationship.
+- suggestion_id: normalization.suggestion.keeper-of-game-controlling-access-to-animals
+  motif_id: keeper_of_game_controlling_access_to_animals
+  label: Keeper of game controlling access to animals
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Guardian and Master of Game
+  relationship: role_variant
+  confidence: medium
+  rationale: The label directly describes a game-animal keeper who mediates animal
+    availability, matching a proposed master-of-game guardian complex.
+  cautions: Culturally sensitive hunting-spirit material; verify whether the source
+    frames this as a deity, spirit, animal person, or ritual law before final placement.
+  suggested_aliases:
+  - keeper of game
+  - master of game animals
+  - game animal guardian
+  - animal owner controlling access
+  suggested_new_group:
+    id: animal_guardian_master_of_game
+    label: Animal Guardian and Master of Game
+    description: A supernatural, spirit, or liminal keeper owns, shelters, releases,
+      withholds, or regulates access to game animals and hunting abundance.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    related_group_ids:
+    - sacred_exchange
+    - animal_helpers
+    - otherworld
+    reason_existing_groups_insufficient: The key function is regulated access to animals,
+      not trickster deception, shapeshifting, or ordinary animal assistance.
+- suggestion_id: normalization.suggestion.killed-animal-revealed-as-host-s-relative
+  motif_id: killed_animal_revealed_as_host_s_relative
+  label: Killed animal revealed as host's relative
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may involve animal-person kinship, hospitality violation, hunting
+    taboo, or transformation, but the label alone does not show the dominant function.
+  cautions: Culturally specific human-animal kinship material; avoid reducing it to
+    shapeshifting or sacred law without passage context.
+  suggested_aliases:
+  - animal revealed as host's relative
+  - killed animal as kin
+  - animal-person kinship violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.killed-pet-animal
+  motif_id: killed_pet_animal
+  label: Killed pet animal
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is an event detail rather than a clear symbolic or narrative
+    motif unless tied to grief, vengeance, taboo, or transformation.
+  cautions: Do not discard source evidence; if the animal's death drives mourning
+    or social rupture, map a fuller label to lament_and_mourning or divine_judgment
+    after review.
+  suggested_aliases:
+  - pet animal killed
+  - death of pet animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.killed-pet-animal-and-grief
+  motif_id: killed_pet_animal_and_grief
+  label: killed pet animal and grief
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The combined label centers on grief after the death of an animal companion,
+    fitting the broader mourning complex.
+  cautions: If the passage emphasizes animal kinship, transgression, or vengeance
+    more than grief, human review may choose a different secondary placement.
+  suggested_aliases:
+  - grief for killed pet animal
+  - mourning an animal companion
+  - pet death and grief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.killing-every-pursued-animal-lest-one-warn-the-rest
+  motif_id: killing_every_pursued_animal_lest_one_warn_the_rest
+  label: Killing every pursued animal lest one warn the rest
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This may be a hunting-strategy tale, animal speech motif, or comparative
+    folklore detail, but no existing group captures it securely.
+  cautions: The comparative tradition marker and highly specific wording suggest a
+    possible index artifact; verify recurrence and source context before grouping.
+  suggested_aliases:
+  - pursued animal might warn the rest
+  - killing animals to prevent warning
+  - animal warning prevented
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.killing-the-animal-that-killed-a-kinsman
+  motif_id: killing_the_animal_that_killed_a_kinsman
+  label: Killing the animal that killed a kinsman
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: The structure is retaliatory killing after kin death, aligning broadly
+    with moral reckoning or vengeance repair.
+  cautions: Could be animal vengeance, hunting taboo, sacred combat, or kinship law
+    depending on evidence; human review recommended despite best-fit placement.
+  suggested_aliases:
+  - vengeance on animal for kinsman's death
+  - animal killer avenged
+  - retaliation against animal that killed kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kind-choice-of-neglected-animal-reveals-the-true-magical-mount
+  motif_id: kind_choice_of_neglected_animal_reveals_the_true_magical_mount
+  label: Kind choice of neglected animal reveals the true magical mount
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The taxonomy already places magical_animal_mount under shapeshifter;
+    this is a narrower recognition/revelation variant of that motif.
+  cautions: If the story emphasizes reward for compassion rather than transformation
+    or magical mount identity, sacred_exchange or divine_judgment may be secondary.
+  suggested_aliases:
+  - neglected animal revealed as magical mount
+  - kind choice of magical mount
+  - humble animal becomes true mount
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kind-human-caretaker-of-an-animal-companion
+  motif_id: kind_human_caretaker_of_an_animal_companion
+  label: Kind human caretaker of an animal companion
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kind care for an animal companion implies a reciprocity pattern and often
+    leads to reward, obligation, or restored relationship.
+  cautions: If no reciprocal consequence occurs, this may be an episode detail rather
+    than a motif; animal-helper mapping may be appropriate if the animal later aids
+    the human.
+  suggested_aliases:
+  - kind caretaker of animal companion
+  - human kindness to animal companion
+  - care for animal helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kindness-rewarded-with-continuing-food-for-animals
+  motif_id: kindness_rewarded_with_continuing_food_for_animals
+  label: Kindness rewarded with continuing food for animals
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: high
+  rationale: Kindness rewarded by ongoing provision is a clear reciprocity and sacred
+    exchange pattern involving humans and animals.
+  cautions: If the food supply is explicitly miraculous or inexhaustible, divine_intervention
+    may be a secondary mapping.
+  suggested_aliases:
+  - kindness rewarded with food for animals
+  - reciprocal feeding of animals
+  - animal kindness rewarded by provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to an underrepresented 'master/keeper of game animals' complex.
+  Because the examples are culturally specific and low-count, treat the new group
+  as a review candidate rather than a direct taxonomy edit.
+- Animal-companion kindness labels often straddle sacred_exchange, animal_helpers,
+  and moral exemplum; final mapping should follow source function rather than animal
+  presence alone.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific Indigenous animal-guardian
+    and animal-kinship labels need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2199
+  input_sha256: 82432eccf9aecc5825a787b0ffa24b6a479522d760b47cb23f15a250a8398bfd
+

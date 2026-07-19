@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2485
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.pre-human-beings-dwelling-in-high-mountains
+  motif_id: pre_human_beings_dwelling_in_high_mountains
+  label: pre-human beings dwelling in high mountains
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: High mountains may indicate sacred geography or mountain otherworld,
+    but the label mainly names beings and location.
+  cautions: Could be local ethnogonic/culture-origin detail, otherworld inhabitants,
+    or passage-specific setting; do not map to cosmic_mountain without evidence of
+    sacred-center or realm-connecting function.
+  suggested_aliases:
+  - pre-human mountain dwellers
+  - ancient beings in high mountains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pre-hunt-washing-with-sea-or-fresh-water
+  motif_id: pre_hunt_washing_with_sea_or_fresh_water
+  label: Pre-hunt washing with sea or fresh water
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Pre-hunt washing uses water as a ritual purifier or preparatory boundary
+    before a dangerous activity.
+  cautions: If the passage is practical hygiene rather than ritual preparation, it
+    may be too specific for motif queries; source context should confirm sacred or
+    taboo function.
+  suggested_aliases:
+  - ritual washing before hunting
+  - pre-hunt purification with water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.precautionary-testing-of-water-before-entry
+  motif_id: precautionary_testing_of_water_before_entry
+  label: Precautionary testing of water before entry
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: low
+  rationale: Testing water before entering may mark water as a dangerous boundary
+    or threshold.
+  cautions: Could be practical survival behavior, an ordeal detail, or a trickster/predator
+    episode rather than a sacred-water motif; verify narrative function.
+  suggested_aliases:
+  - testing dangerous water before crossing
+  - water-entry precaution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-at-a-necessary-water-source
+  motif_id: predator_at_a_necessary_water_source
+  label: predator at a necessary water source
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A predator blocking access to necessary water functions as a danger at
+    a life-sustaining threshold.
+  cautions: May also be a fable/predator-deception detail under trickster if the episode
+    emphasizes cunning rather than threshold access.
+  suggested_aliases:
+  - predator guarding water source
+  - dangerous guardian at water source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-confined-to-dangerous-water
+  motif_id: predator_confined_to_dangerous_water
+  label: Predator confined to dangerous water
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A predator limited to dangerous water makes the water boundary itself
+    a perilous guarded zone.
+  cautions: Could belong under trickster if the main pattern is predator limitation
+    exploited by a victim; avoid broad flood or descent mapping.
+  suggested_aliases:
+  - dangerous water predator
+  - water-bound predator guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-stores-or-places-human-prey-in-a-tree
+  motif_id: predator_stores_or_places_human_prey_in_a_tree
+  label: predator stores or places human prey in a tree
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: The predator-prey action may fit animal trickster or fable-like predator
+    narrative patterns.
+  cautions: Tree placement appears incidental unless the tree functions as refuge,
+    axis, or transformation site; likely over-specific without passage evidence.
+  suggested_aliases:
+  - predator hides prey in tree
+  - human prey placed in tree by predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preferred-food-mistaken-by-outsiders-for-starvation-food
+  motif_id: preferred_food_mistaken_by_outsiders_for_starvation_food
+  label: Preferred food mistaken by outsiders for starvation food
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an ethnographic or interpretive correction about food
+    valuation rather than a reusable mythic motif.
+  cautions: If a narrative turns on misrecognition of food status, it might be indexed
+    under sacred_substance or sacred_law, but the current label is likely commentary/context.
+  suggested_aliases:
+  - outsiders misread preferred food as famine food
+  - food-status misinterpretation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pregnancy-protected-by-maintained-household-fire
+  motif_id: pregnancy_protected_by_maintained_household_fire
+  label: pregnancy protected by maintained household fire
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Maintained household fire functions as a protective sacred presence around
+    pregnancy.
+  cautions: Also touches miraculous_child or sacred_law if the passage emphasizes
+    birth destiny or ritual obligation; preserve pregnancy-specific evidence.
+  suggested_aliases:
+  - household fire protecting pregnancy
+  - protective sacred fire during pregnancy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preparation-of-hunting-equipment-with-plant-skin-and-fire-materials
+  motif_id: preparation_of_hunting_equipment_with_plant_skin_and_fire_materials
+  label: Preparation of hunting equipment with plant, skin, and fire materials
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes making equipment and may fit craft if the preparation
+    is ritually or mythically charged.
+  cautions: May be a practical material-culture detail rather than a motif; map only
+    if source evidence shows sacred craft, ritual preparation, or origin of hunting
+    technology.
+  suggested_aliases:
+  - ritual preparation of hunting gear
+  - hunting equipment made from plant skin and fire materials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.present-ecstasy-of-the-enlightened-sufi
+  motif_id: present_ecstasy_of_the_enlightened_sufi
+  label: Present ecstasy of the enlightened Sufi
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Ecstatic enlightened presence belongs to the mystical quest and interior
+    transformation complex.
+  cautions: The label may be a doctrinal or descriptive state rather than a narrative
+    motif; consider annihilation_union if ego-dissolution or union is explicit.
+  suggested_aliases:
+  - Sufi ecstatic enlightenment
+  - present mystical ecstasy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and context-dependent; water,
+  mountain, tree, and fire imagery should not be normalized solely by element without
+  narrative or ritual function.
+- The review bucket is nature_elements_cosmos, but some best-fit placements are ritual,
+  threshold, craft, or mystical groups rather than nature groups.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source evidence needed for low-confidence
+    and over-specific items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2485
+  input_sha256: 2e6a0e97a323dbfb9632c426f8eb4408af536d6e5421a736c24d53e14d644352
+

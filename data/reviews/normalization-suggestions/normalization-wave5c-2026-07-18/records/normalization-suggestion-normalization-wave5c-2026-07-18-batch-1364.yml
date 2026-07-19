@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1364
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.love-assignation-followed-by-storm-in-song-origin
+  motif_id: love_assignation_followed_by_storm_in_song_origin
+  label: Love assignation followed by storm in song origin
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Composite single-occurrence label combining love meeting, storm, and
+    song etiology; function is unclear without passage evidence.
+  cautions: May be an origin note for a song rather than a durable motif; could relate
+    to sacred_love, sacred_waters/storm imagery, or storytelling_as_power depending
+    on context.
+  suggested_aliases:
+  - song_origin_from_love_meeting_and_storm
+  - love_meeting_storm_song_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-song-category
+  motif_id: love_song_category
+  label: love song category
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label names a genre or category of song rather than a narrative or
+    symbolic motif.
+  cautions: If a passage describes love song as sacred power, preserve that evidence
+    under sacred_love or storytelling_as_power instead of this category label.
+  suggested_aliases:
+  - love_song_genre
+  - love_song_classification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-song-lament
+  motif_id: love_song_lament
+  label: Love-song lament
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: A love-song lament centers on grief or loss expressed through song, fitting
+    lament and mourning.
+  cautions: If the song primarily expresses longing or courtship rather than mourning,
+    sacred_love may be the better primary group; preserve song form as evidence detail.
+  suggested_aliases:
+  - love_lament_song
+  - lamenting_love_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.low-tide-communal-fishing-by-age-and-gender-task-division
+  motif_id: low_tide_communal_fishing_by_age_and_gender_task_division
+  label: low-tide communal fishing by age and gender task division
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as ethnographic subsistence and social-organization detail,
+    not a mythic motif.
+  cautions: If the passage ritualizes tide, fishing, or gendered tasks, human review
+    may remap to sacred_time, sacred_waters, or sacred_law; avoid indexing mundane
+    practice as motif without evidence.
+  suggested_aliases:
+  - communal_fishing_task_division
+  - low_tide_fishing_by_age_and_gender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-minister-s-fatal-counsel-or-remonstrance
+  motif_id: loyal_minister_s_fatal_counsel_or_remonstrance
+  label: loyal minister's fatal counsel or remonstrance
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Loyal remonstrance within hierarchy is already represented under royal_legitimacy
+    as counsel regulating rulership and order.
+  cautions: If the emphasis is moral teaching rather than kingship, sacred_law or
+    wisdom may be secondary; if the fatal outcome dominates, lament_and_mourning may
+    be relevant.
+  suggested_aliases:
+  - fatal_loyal_remonstrance
+  - ministerial_remonstrance_to_ruler
+  - loyal_counsel_before_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lucky-dream-directs-capture-of-supernatural-animals
+  motif_id: lucky_dream_directs_capture_of_supernatural_animals
+  label: Lucky dream directs capture of supernatural animals
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: A dream provides practical supernatural guidance, fitting dream and vision
+    as a source of hidden knowledge.
+  cautions: Animal capture may also involve animal_helpers, sacred_exchange, or hunting
+    ritual; do not treat as prophecy_divination unless an established divinatory role
+    or method is present.
+  suggested_aliases:
+  - dream_guides_capture_of_supernatural_animals
+  - dream_reveals_supernatural_animal_capture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-cave-door-opened-by-speech
+  motif_id: magic_cave_door_opened_by_speech
+  label: Magic cave door opened by speech
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is a spoken formula that opens a sealed threshold,
+    fitting performative sacred speech.
+  cautions: Could also map to sacred_vessel or threshold_guardian if the cave is a
+    guarded container or passage; cave imagery alone should not force descent.
+  suggested_aliases:
+  - spoken_formula_opens_cave_door
+  - speech_opens_magic_cave
+  - magic_words_open_cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-song-as-operative-charm
+  motif_id: magic_song_as_operative_charm
+  label: magic song as operative charm
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: Song functions as an operative supernatural force, matching music or
+    sound power.
+  cautions: If the charm is a single binding utterance rather than music, curse_blessing_speech
+    may be a secondary mapping.
+  suggested_aliases:
+  - song_as_magic_charm
+  - operative_song_charm
+  - magical_song_charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-words-open-a-rock-cave
+  motif_id: magic_words_open_a_rock_cave
+  label: magic words open a rock cave
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: alias
+  confidence: high
+  rationale: This is effectively the same performative-speech threshold-opening pattern
+    as magic cave door opened by speech.
+  cautions: Preserve rock-cave detail as evidence; consider deduplicating with magic_cave_door_opened_by_speech
+    after source review.
+  suggested_aliases:
+  - magic_cave_door_opened_by_speech
+  - spoken_formula_opens_rock_cave
+  - magic_words_open_cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-arrow-as-agent-of-chance-discovery-and-name-revelation
+  motif_id: magical_arrow_as_agent_of_chance_discovery_and_name_revelation
+  label: Magical arrow as agent of chance discovery and name-revelation
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a power object, chance discovery, and name revelation;
+    the primary narrative function is unclear.
+  cautions: Could fit sacred_treasures if the arrow is a power object, sacred_knowledge
+    if name revelation is central, or prophecy_divination if it functions like lot-casting;
+    source evidence needed.
+  suggested_aliases:
+  - magical_arrow_reveals_name
+  - arrow_as_agent_of_discovery
+  - chance_discovery_by_magic_arrow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and composite; preserve local
+  evidence but avoid promoting them to canonical motifs without recurrence.
+- 'Speech/song labels should be distinguished by function: performative utterance
+  maps best to curse_blessing_speech, while musical compulsion or charm maps best
+  to enchanting_music.'
+- Genre/category labels and ethnographic task descriptions should be excluded unless
+  source evidence shows ritualized or mythic function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review should check passage
+    context for single-occurrence Melanesian and Andamanese labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1364
+  input_sha256: 83fe0e8af2246c7992fd01086bee65f0323383b2b78f42aea5bdfc973b5512ac
+

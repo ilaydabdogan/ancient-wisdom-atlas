@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2166
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fatally-struck-bull
+  motif_id: fatally_struck_bull
+  label: fatally struck bull
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Single animal death detail lacks a clear symbolic or narrative function
+    from the label alone.
+  cautions: If the bull death is sacrificial, combat-related, or etiological in context,
+    remap under sacrifice, divine_warrior, or cosmic_origin as appropriate.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-dangerous-man-with-animal-like-eyes
+  motif_id: feared_dangerous_man_with_animal_like_eyes
+  label: feared dangerous man with animal-like eyes
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could indicate transformation, monstrous identity, shamanic power, or
+    merely descriptive characterization.
+  cautions: Animal-like eyes alone is not enough to map to shapeshifter; review source
+    context and culturally specific meanings.
+  suggested_aliases:
+  - animal_like_eyes_as_danger_sign
+  - dangerous_man_with_animal_eyes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fearful-sunset-epiphany-of-a-huge-beast
+  motif_id: fearful_sunset_epiphany_of_a_huge_beast
+  label: fearful sunset epiphany of a huge beast
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a theophany, monster encounter, omen, or passage-specific
+    visual scene.
+  cautions: Do not map to theophany unless the beast is a divine manifestation; sunset
+    imagery may be incidental.
+  suggested_aliases:
+  - huge_beast_epiphany_at_sunset
+  - fearful_beast_appearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-distribution-of-animals-reared-by-one-s-own-group-to-guests
+  motif_id: feast_distribution_of_animals_reared_by_one_s_own_group_to_guests
+  label: feast distribution of animals reared by one's own group to guests
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Feast distribution to guests centers on reciprocal hospitality and communal
+    giving rather than animal symbolism.
+  cautions: If the focus is a formal hospitality ordeal, hospitality_test_stranger_guest
+    may be a better mapping; if sacrificial offering is explicit, add sacrifice.
+  suggested_aliases:
+  - feast_distribution_to_guests
+  - communal_animal_feast_for_guests
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feeding-birds-to-obtain-feathers-for-powerful-arrows
+  motif_id: feeding_birds_to_obtain_feathers_for_powerful_arrows
+  label: Feeding birds to obtain feathers for powerful arrows
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is obtaining materials for powerful weapons, aligning
+    with power objects and martial equipment.
+  cautions: If bird-feeding is a reciprocal ritual relationship with animal powers,
+    sacred_exchange or divine_intervention may be relevant secondary mappings.
+  suggested_aliases:
+  - bird_feeding_for_powerful_arrow_feathers
+  - feathers_for_powerful_arrows
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feeding-or-empowering-a-hunting-fetish-with-animal-blood
+  motif_id: feeding_or_empowering_a_hunting_fetish_with_animal_blood
+  label: Feeding or empowering a hunting fetish with animal blood
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif combines ritual feeding, blood empowerment, hunting power object,
+    and culturally sensitive terminology.
+  cautions: Review wording and source context; possible placements include sacred_exchange,
+    sacrifice, sacred_treasures, or sacred_law depending on ritual function.
+  suggested_aliases:
+  - feeding_hunting_power_object_with_blood
+  - empowering_hunting_object_with_animal_blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-shaped-harvest-effigy-as-focus-of-dance-and-communal-display
+  motif_id: female_shaped_harvest_effigy_as_focus_of_dance_and_communal_display
+  label: Female-shaped harvest effigy as focus of dance and communal display
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A harvest effigy used in communal dance fits seasonal ritual and agricultural
+    sacred time.
+  cautions: If the effigy embodies a goddess or fertility power, mother_goddess or
+    sacred_substance may be relevant; comparative label may be a scholarly abstraction.
+  suggested_aliases:
+  - harvest_effigy_as_communal_dance_focus
+  - female_harvest_effigy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-supernatural-predator-analogous-to-ogress-or-dragoness-figures
+  motif_id: female_supernatural_predator_analogous_to_ogress_or_dragoness_figures
+  label: female supernatural predator analogous to ogress or dragoness figures
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is comparative and role-based, but current groups lack a general
+    monster or ogress/predator category.
+  cautions: May be a commentary artifact because of 'analogous to'; map only if source
+    evidence shows a recurring predator function such as threshold guardian, serpent
+    guardian, or trickster antagonist.
+  suggested_aliases:
+  - female_supernatural_predator
+  - ogress_or_dragoness_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fertility-concentrated-in-an-animal-body-part
+  motif_id: fertility_concentrated_in_an_animal_body_part
+  label: Fertility concentrated in an animal body part
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve sacred substance, sacrifice, fertility magic, or comparative
+    folklore classification; existing groups only partially cover it.
+  cautions: Review whether the animal part is eaten, offered, worn, preserved, or
+    treated as a power object before mapping.
+  suggested_aliases:
+  - animal_body_part_as_fertility_power
+  - fertility_in_animal_part
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.festival-drum-with-replaceable-animal-or-fish-membrane
+  motif_id: festival_drum_with_replaceable_animal_or_fish_membrane
+  label: Festival drum with replaceable animal or fish membrane
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an object-construction detail without a clear mythic
+    function.
+  cautions: If the drum produces supernatural sound or mediates ritual power, remap
+    to enchanting_music or sacred_craft; preserve animal/fish membrane as evidence
+    detail.
+  suggested_aliases:
+  - festival_drum_with_animal_membrane
+  - drum_with_fish_membrane
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal-related details; many
+  need source evidence before being promoted into pattern queries.
+- 'Where animal material is used in ritual or technology, placement should follow
+  function: exchange, sacrifice, power object, sound power, or seasonal rite rather
+  than the animal element alone.'
+- Review culturally sensitive generated wording such as 'fetish' before preserving
+  aliases or public labels.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2166
+  input_sha256: a7d9aab10a54076083d98477bfcff0474b8711590f1f854c4b74fdc4784079d8
+

@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2648
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.contest-victory-after-ridicule
+  motif_id: contest_victory_after_ridicule
+  label: contest victory after ridicule
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ridicule followed by victory implies reversal of mockery or overconfident
+    contempt, fitting humbling/downfall patterns.
+  cautions: Single occurrence; if the contest is primarily ritualized combat or status
+    competition, sacred_combat or royal_legitimacy may be better.
+  suggested_aliases:
+  - mocked_contestant_vindicated_by_victory
+  - ridicule_reversed_by_contest_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-wager-leading-to-transfer-of-wealth
+  motif_id: contest_wager_leading_to_transfer_of_wealth
+  label: Contest wager leading to transfer of wealth
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: A wagered contest causing wealth transfer centers on exchange and reciprocal
+    obligation through competitive stakes.
+  cautions: May be ordinary plot economics rather than sacred exchange; if it drives
+    rivalry or warfare, sacred_combat may be a secondary fit.
+  suggested_aliases:
+  - wagered_contest_transfers_wealth
+  - contest_stakes_transfer_wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-with-a-strong-local-challenger
+  motif_id: contest_with_a_strong_local_challenger
+  label: Contest with a strong local challenger
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: A challenger contest is a competitive ordeal or combat-adjacent episode,
+    best parked under sacred_combat for review.
+  cautions: Very generic and local-context dependent; may be too passage-specific
+    unless the contest has ritual, heroic, or social-order stakes.
+  suggested_aliases:
+  - local_challenger_contest
+  - contest_against_strong_local_opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-with-hard-food-objects
+  motif_id: contest_with_hard_food_objects
+  label: contest with hard food objects
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too opaque to determine whether this is ordeal, trick, magical
+    food, or a passage-specific contest detail.
+  cautions: Hard food objects may be culturally specific or comic/fable material;
+    source evidence is needed before mapping to sacred_combat, trickster, or sacred_substance.
+  suggested_aliases:
+  - hard_food_object_contest
+  - contest_using_hard_food_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-with-magicians
+  motif_id: contest_with_magicians
+  label: contest with magicians
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Existing aliases include miracle contests against magicians; such contests
+    often demonstrate sacred authority over rival magic.
+  cautions: In Sufi context, verify whether the emphasis is saintly miracle, polemic,
+    initiation, or narrative combat; sacred_knowledge may be secondary.
+  suggested_aliases:
+  - miracle_contest_against_magicians
+  - contest_against_magicians
+  - sacred_power_contest_with_magicians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-won-by-superior-magical-or-extraordinary-hair-reach
+  motif_id: contest_won_by_superior_magical_or_extraordinary_hair_reach
+  label: contest won by superior magical or extraordinary hair reach
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The contest-victory structure fits sacred_combat broadly, while the hair-reach
+    mechanism is granular episode evidence.
+  cautions: If the hair is a detachable life token, power object, or transformation
+    sign, external_soul, sacred_treasures, or shapeshifter may be more appropriate.
+  suggested_aliases:
+  - magical_hair_reach_wins_contest
+  - extraordinary_hair_used_to_win_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contest-won-through-helper-agents-and-obstruction-of-rivals
+  motif_id: contest_won_through_helper_agents_and_obstruction_of_rivals
+  label: Contest won through helper agents and obstruction of rivals
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Helper agents determining a contest outcome align with intervention or
+    guidance by nonordinary assistants.
+  cautions: Needs evidence that helpers are divine, animal, or supernatural; if mainly
+    deception or sabotage, trickster may be better.
+  suggested_aliases:
+  - helper_agents_win_contest_by_obstructing_rivals
+  - contest_victory_by_helpers_and_rival_obstruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-accusation-of-stealing-a-royal-cup
+  motif_id: contested_accusation_of_stealing_a_royal_cup
+  label: Contested accusation of stealing a royal cup
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A disputed theft accusation belongs near false accusation and vindication
+    motifs already under divine_judgment.
+  cautions: Royal cup may be a power object or recognition token depending on plot;
+    preserve object specificity as evidence detail.
+  suggested_aliases:
+  - false_or_contested_theft_accusation
+  - contested_theft_of_royal_cup
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-acquisition-of-a-prestigious-post
+  motif_id: contested_acquisition_of_a_prestigious_post
+  label: contested acquisition of a prestigious post
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: Competition over a prestigious office concerns status, succession, and
+    legitimate authority.
+  cautions: Could be ordinary social conflict rather than sacred kingship; review
+    whether the post has ritual, chiefly, or cosmological authority.
+  suggested_aliases:
+  - contested_status_office_acquisition
+  - rivalry_for_prestigious_office
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-agreement-made-by-unauthorized-minority
+  motif_id: contested_agreement_made_by_unauthorized_minority
+  label: contested agreement made by unauthorized minority
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: low
+  rationale: A disputed agreement made without proper authority concerns validity
+    of a binding social or sacred bond.
+  cautions: May be legal-historical or passage-specific rather than mythic; source
+    context is needed to distinguish covenant, sacred_law, or exclusion.
+  suggested_aliases:
+  - unauthorized_agreement_contested
+  - invalid_agreement_by_unauthorized_party
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence contest or dispute labels; most
+  should remain provisional evidence-level mappings unless recurrence or ritual/sacred
+  stakes are confirmed.
+- 'Avoid treating all contests as sacred_combat: some are better understood as exchange,
+  legitimacy, judgment, trickery, or ordinary plot conflict depending on source evidence.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review should verify source
+    context for contest function and cultural specificity.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2648
+  input_sha256: 0cada300f67acb608457c1a02a5b26c900eb7bb4a0edbfe104fd34c4958257ee
+

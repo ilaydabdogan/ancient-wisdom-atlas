@@ -1,0 +1,348 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2444
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.magic-flight-tale-frame
+  motif_id: magic_flight_tale_frame
+  label: Magic Flight tale frame
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a tale-frame or folktale type rather than a specific
+    symbolic function in the current groups.
+  cautions: May be a narrative classification artifact; if source evidence centers
+    on pursuit escape, transformed obstacles, or boundary crossing, a new magic-flight/chase
+    group may be warranted.
+  suggested_aliases:
+  - magic flight
+  - magic-flight tale type
+  - pursuit escape tale frame
+  suggested_new_group:
+    id: magic_flight_pursuit_escape
+    label: Magic Flight and Pursuit Escape
+    description: A fleeing figure escapes pursuers through magical obstacles, transformations,
+      decoys, or altered landscapes raised during pursuit.
+    parent_group_ids:
+    - hero_journey
+    - trickster
+    - shapeshifter
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - threshold_guardian
+    reason_existing_groups_insufficient: Existing groups cover journey, trickster
+      behavior, and shapeshifting, but not the recurring pursuit-escape structure
+      where obstacles are magically generated to delay or destroy pursuers.
+- suggestion_id: normalization.suggestion.magic-flight-with-thrown-objects-creating-obstacles
+  motif_id: magic_flight_with_thrown_objects_creating_obstacles
+  label: magic flight with thrown objects creating obstacles
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magic Flight and Pursuit Escape
+  relationship: child
+  confidence: medium
+  rationale: Thrown objects becoming obstacles is a classic pursuit-escape function
+    not cleanly covered by current journey or shapeshifter groups.
+  cautions: Single occurrence here; review whether this should remain granular evidence
+    under a broader magic-flight group rather than become a standalone motif.
+  suggested_aliases:
+  - magic flight with obstacle objects
+  - thrown objects create pursuit obstacles
+  - obstacle flight by thrown objects
+  suggested_new_group:
+    id: magic_flight_pursuit_escape
+    label: Magic Flight and Pursuit Escape
+    description: A fleeing figure escapes pursuers through magical obstacles, transformations,
+      decoys, or altered landscapes raised during pursuit.
+    parent_group_ids:
+    - hero_journey
+    - trickster
+    - shapeshifter
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - threshold_guardian
+    reason_existing_groups_insufficient: Existing groups cover departure, trickery,
+      and transformation, but not the specific recurrent chase structure of magically
+      generated obstacles during flight.
+- suggestion_id: normalization.suggestion.magic-flight-with-transformed-obstacles
+  motif_id: magic_flight_with_transformed_obstacles
+  label: magic flight with transformed obstacles
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magic Flight and Pursuit Escape
+  relationship: child
+  confidence: medium
+  rationale: The motif is a pursuit escape in which transformation produces delaying
+    obstacles, matching a broader magic-flight complex.
+  cautions: Could alternatively map to shapeshifter if the focus is transformation
+    itself rather than escape from pursuit.
+  suggested_aliases:
+  - transformed obstacles in magic flight
+  - transformation obstacles during pursuit
+  - obstacle transformation escape
+  suggested_new_group:
+    id: magic_flight_pursuit_escape
+    label: Magic Flight and Pursuit Escape
+    description: A fleeing figure escapes pursuers through magical obstacles, transformations,
+      decoys, or altered landscapes raised during pursuit.
+    parent_group_ids:
+    - hero_journey
+    - trickster
+    - shapeshifter
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - threshold_guardian
+    reason_existing_groups_insufficient: Shapeshifter captures form change but not
+      the chase-and-delay narrative function central to magic flight.
+- suggestion_id: normalization.suggestion.magic-implement-that-parts-water-and-tows-vessels
+  motif_id: magic_implement_that_parts_water_and_tows_vessels
+  label: magic implement that parts water and tows vessels
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: The implement enables extraordinary passage and control over water, fitting
+    sacred waters and water-crossing functions.
+  cautions: If the implement itself is the focus as a power object, sacred_treasures
+    may be a secondary mapping; do not equate with flood unless world-destruction
+    is present.
+  suggested_aliases:
+  - magic water-parting implement
+  - implement parts water
+  - magical towing of vessels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-obstacle-flight
+  motif_id: magic_obstacle_flight
+  label: magic obstacle flight
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magic Flight and Pursuit Escape
+  relationship: alias
+  confidence: medium
+  rationale: This is a compact label for the same pursuit-escape pattern involving
+    magical obstacles.
+  cautions: May be a folktale-index label; preserve as alias only if passage evidence
+    shows an actual flight from pursuers.
+  suggested_aliases:
+  - magic flight
+  - obstacle flight
+  - magical obstacle pursuit escape
+  suggested_new_group:
+    id: magic_flight_pursuit_escape
+    label: Magic Flight and Pursuit Escape
+    description: A fleeing figure escapes pursuers through magical obstacles, transformations,
+      decoys, or altered landscapes raised during pursuit.
+    parent_group_ids:
+    - hero_journey
+    - trickster
+    - shapeshifter
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - threshold_guardian
+    reason_existing_groups_insufficient: The current taxonomy lacks a group for magically
+      generated obstacles used specifically to escape pursuit.
+- suggestion_id: normalization.suggestion.magic-obstacle-raised-from-water-to-wreck-pursuers
+  motif_id: magic_obstacle_raised_from_water_to_wreck_pursuers
+  label: magic obstacle raised from water to wreck pursuers
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magic Flight and Pursuit Escape
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical obstacle is created during pursuit to destroy pursuers, with
+    water as the medium.
+  cautions: Could receive secondary mapping to sacred_waters; avoid treating water
+    imagery alone as flood or cosmic renewal.
+  suggested_aliases:
+  - water obstacle wrecks pursuers
+  - magic water obstacle in flight
+  - raised water obstacle against pursuers
+  suggested_new_group:
+    id: magic_flight_pursuit_escape
+    label: Magic Flight and Pursuit Escape
+    description: A fleeing figure escapes pursuers through magical obstacles, transformations,
+      decoys, or altered landscapes raised during pursuit.
+    parent_group_ids:
+    - hero_journey
+    - trickster
+    - shapeshifter
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - threshold_guardian
+    reason_existing_groups_insufficient: Sacred_waters captures the elemental medium,
+      but not the pursuit-escape function of a magically raised obstacle.
+- suggestion_id: normalization.suggestion.magical-alteration-of-natural-elements-by-touch
+  motif_id: magical_alteration_of_natural_elements_by_touch
+  label: magical alteration of natural elements by touch
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is very broad and does not identify the narrative function
+    of the elemental alteration.
+  cautions: Could fit sacred_fire, sacred_waters, sacred_craft, divine_intervention,
+    or shapeshifter depending on what is altered and why; source evidence is needed.
+  suggested_aliases:
+  - elemental alteration by touch
+  - magical transformation of elements
+  - touch changes natural elements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-control-of-storm-through-plant-substance-and-sea-stone
+  motif_id: magical_control_of_storm_through_plant_substance_and_sea_stone
+  label: Magical control of storm through plant substance and sea-stone
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Storm control by specific ritual substances is not clearly covered by
+    existing groups and may be culturally specific.
+  cautions: Review culturally and ethnographically; could be sacred_treasures, sacred_substance,
+    divine_intervention, sacred_waters, or a weather-magic candidate depending on
+    source context.
+  suggested_aliases:
+  - storm control by magical substances
+  - weather magic with plant and sea stone
+  - magical storm control
+  suggested_new_group:
+    id: weather_magic_storm_control
+    label: Weather Magic and Storm Control
+    description: Ritual, magical, or sacred actions control wind, storm, rain, drought,
+      or sea conditions through objects, substances, words, spirits, or divine aid.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_waters
+    related_group_ids:
+    - sacred_substance
+    - sacred_treasures
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups include water and divine
+      intervention but do not specifically cover recurring ritual or magical control
+      of weather as its own narrative-ritual function.
+- suggestion_id: normalization.suggestion.magical-counterattack-by-fire
+  motif_id: magical_counterattack_by_fire
+  label: magical counterattack by fire
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fire is used as a supernatural active force in conflict, fitting sacred
+    fire more than world-destroying fire.
+  cautions: If the emphasis is combat outcome rather than fire as sacred force, divine_warrior
+    or sacred_combat may be secondary; do not map to world-destroying fire without
+    cosmic-scale destruction.
+  suggested_aliases:
+  - magical fire counterattack
+  - fire counterattack
+  - supernatural attack by fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-decoy-sent-through-lethal-fire
+  motif_id: magical_decoy_sent_through_lethal_fire
+  label: magical decoy sent through lethal fire
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical decoy used to pass through or evade lethal fire functions as
+    deception and boundary-crossing under peril.
+  cautions: Could also relate to sacred_fire if fire is the main ritual or divine
+    force; if tied to pursuit escape, review under the proposed magic-flight group.
+  suggested_aliases:
+  - decoy through lethal fire
+  - magical fire decoy
+  - deceptive double sent through fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels cluster around magic flight and pursuit escape; a new review group
+  may be warranted if these recur beyond single occurrences.
+- Elemental media such as water or fire should be mapped by narrative function, not
+  by symbol alone.
+- Weather-control labels need source-sensitive review before creating a durable group.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2444
+  input_sha256: 8bfb66c30fcada164e5af6d6286d0f3fc4173a971f6326d1fcd31fc32b9dced1
+

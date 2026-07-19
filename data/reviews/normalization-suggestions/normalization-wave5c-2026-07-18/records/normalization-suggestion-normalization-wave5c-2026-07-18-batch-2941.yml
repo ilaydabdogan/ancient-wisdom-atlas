@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2941
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fortified-capital-with-walls-gates-moat-citadel-and-watch-tower
+  motif_id: fortified_capital_with_walls_gates_moat_citadel_and_watch_tower
+  label: fortified capital with walls, gates, moat, citadel, and watch tower
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes an urban defensive space, but current groups lack
+    a clear city/fortification/boundary category outside sacred center or warfare
+    contexts.
+  cautions: May be a descriptive place detail rather than a motif unless the fortification
+    functions ritually, politically, cosmologically, or narratively across sources.
+  suggested_aliases:
+  - fortified_city
+  - walled_capital
+  - citadel_and_city_walls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_combat
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortified-hilltop-settlement-boundary
+  motif_id: fortified_hilltop_settlement_boundary
+  label: fortified hilltop settlement boundary
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A hilltop fortified boundary may involve sacred geography, political
+    settlement, or simple defensive description; the function is unclear from the
+    label alone.
+  cautions: Do not map to cosmic_mountain or axis_mundi unless the hilltop functions
+    as a sacred center, revelation site, or cosmic connector.
+  suggested_aliases:
+  - fortified_settlement_boundary
+  - hilltop_fortification
+  - defensive_settlement_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - royal_legitimacy
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortified-house-under-attack
+  motif_id: fortified_house_under_attack
+  label: fortified house under attack
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a defended dwelling as the setting of attack, fitting
+    combat or siege-like conflict more than sacred space by itself.
+  cautions: If the fortified house is primarily a ritual enclosure, clan house, or
+    cosmological center, human review may prefer a boundary or sacred-space placement.
+  suggested_aliases:
+  - defended_house_under_attack
+  - house_siege
+  - attack_on_fortified_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortified-island-center-ruling-tributary-mainland-neighbours
+  motif_id: fortified_island_center_ruling_tributary_mainland_neighbours
+  label: fortified island center ruling tributary mainland neighbours
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label emphasizes a fortified political center exercising rule over
+    tributary neighbors, which aligns with sacred or legitimate rulership and social
+    order.
+  cautions: If the passage focuses on island cosmology or world-center symbolism rather
+    than rule, axis_mundi or world_center may be relevant secondary review targets.
+  suggested_aliases:
+  - fortified_island_polity
+  - island_center_ruling_mainland
+  - tributary_rule_from_fortified_center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortress-gate-breached-to-confront-captors
+  motif_id: fortress_gate_breached_to_confront_captors
+  label: Fortress gate breached to confront captors
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Breaching a fortress gate to confront captors is an action sequence of
+    violent rescue or combat at a defended threshold.
+  cautions: Could also involve threshold crossing or heroic rescue; preserve the gate-breach
+    detail as evidence rather than a broad boundary motif.
+  suggested_aliases:
+  - breached_fortress_gate
+  - gate_breach_to_confront_captors
+  - fortress_threshold_breached_in_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foundation-boundary-made-by-ploughing
+  motif_id: foundation_boundary_made_by_ploughing
+  label: foundation boundary made by ploughing
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Foundation Boundary and Ritual Founding
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A boundary created by ploughing is a ritualized founding act that establishes
+    civic or sacred space; no existing group cleanly captures foundation boundary
+    rites.
+  cautions: Roman pomerium-like evidence is culturally specific; review whether this
+    recurs enough to justify a group or should remain a child under sacred_law or
+    royal_legitimacy.
+  suggested_aliases:
+  - ploughed_foundation_boundary
+  - ritual_ploughing_of_city_boundary
+  - city_foundation_by_ploughing
+  suggested_new_group:
+    id: foundation_boundary_ritual
+    label: Foundation Boundary and Ritual Founding
+    description: Ritual acts that establish, mark, or consecrate the boundary of a
+      city, settlement, temple, house, or polity, often through ploughing, surveying,
+      signs, or founding ceremonies.
+    parent_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    related_group_ids:
+    - axis_mundi
+    - cosmic_origin
+    - sacred_craft
+    reason_existing_groups_insufficient: Existing groups cover sacred law, kingship,
+      world center, and craft, but not the recurring spatial act of founding and consecrating
+      a boundary.
+- suggestion_id: normalization.suggestion.foundation-site-marked-by-hidden-woman-and-chance-sighting
+  motif_id: foundation_site_marked_by_hidden_woman_and_chance_sighting
+  label: Foundation site marked by hidden woman and chance sighting
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines foundation-site selection, concealment, gendered presence,
+    and chance sighting; the salient motif cannot be determined from label alone.
+  cautions: May be an over-specific episode detail. Review whether the site is divinely
+    chosen, ritually founded, tied to recognition, or simply a narrative accident.
+  suggested_aliases:
+  - foundation_site_marked_by_chance_sighting
+  - hidden_woman_marks_foundation_site
+  - chance_sighting_selects_foundation_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - royal_legitimacy
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.founder-associated-with-cave-dwelling
+  motif_id: founder_associated_with_cave_dwelling
+  label: founder associated with cave dwelling
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: role_variant
+  confidence: medium
+  rationale: The founder role is explicit, while the cave is a local dwelling or origin
+    setting unless evidence shows descent, initiation, or otherworld passage.
+  cautions: If the cave functions as emergence place, womb/tomb, underworld threshold,
+    or sacred center, review secondary placement under descent or axis_mundi.
+  suggested_aliases:
+  - cave_dwelling_founder
+  - founder_in_cave
+  - cave_associated_culture_founder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fragile-bridge-trap-followed-by-eating-the-victim-s-stomach-contents
+  motif_id: fragile_bridge_trap_followed_by_eating_the_victim_s_stomach_contents
+  label: fragile bridge trap followed by eating the victim's stomach contents
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a highly specific composite of trap, bridge threshold, killing,
+    and cannibalistic consumption; broader function needs source context.
+  cautions: Could fit trickster deception, threshold danger, violent ordeal, or predator-consumption
+    fable; avoid creating a canonical motif from one detailed episode.
+  suggested_aliases:
+  - fragile_bridge_trap
+  - bridge_trap_kills_victim
+  - threshold_trap_followed_by_consumption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - threshold_guardian
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fragrant-plant-empowers-other-curing-plants
+  motif_id: fragrant_plant_empowers_other_curing_plants
+  label: fragrant plant empowers other curing plants
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: A plant that empowers healing plants functions as a sacred medicinal
+    substance or potency-transfer agent.
+  cautions: If the plant is used apotropaically or as part of ritual law, sacred_law
+    may be a secondary placement; preserve the local plant-healing specificity.
+  suggested_aliases:
+  - medicinal_plant_empowers_other_plants
+  - fragrant_healing_plant
+  - plant_potency_transferred_to_curing_plants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch describe fortifications or settlement boundaries. Current
+  normalization has no dedicated fortified-place or ritual-foundation group, so human
+  review should distinguish descriptive geography from recurring spatial motifs.
+- Do not map hill, cave, island, bridge, or gate imagery to axis_mundi, descent, or
+  threshold_guardian unless the passage evidence shows sacred-center, otherworld,
+  initiation, or guardian functions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; foundation and fortification labels especially
+    need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2941
+  input_sha256: ad8b6300842dc5fc8612b0f30c84fabf1395038bf663087823edbf2dd12e99f1
+

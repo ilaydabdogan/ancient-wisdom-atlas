@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0648
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wandering-orphan-slays-the-sea-monster
+  motif_id: wandering_orphan_slays_the_sea_monster
+  label: Wandering orphan slays the sea-monster
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The decisive motif is monster-slaying combat by a marginal hero; wandering/orphan
+    status is supporting context.
+  cautions: Could also fit hero_journey if the passage emphasizes travel and status
+    transformation more than monster combat. Sea-monster may point to chaos combat
+    only if cosmological stakes are present.
+  suggested_aliases:
+  - orphan hero slays sea monster
+  - wandering hero defeats sea monster
+  - sea monster slaying by marginal hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wandering-poet-biography
+  motif_id: wandering_poet_biography
+  label: wandering poet biography
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label reads as a biographical or scholarly classification rather
+    than a narrative-symbolic motif.
+  cautions: If a source passage makes poetic wandering a sacred quest, exile, or inspired
+    transmission pattern, remap with evidence to hero_journey, mystical_quest, or
+    storytelling_as_power.
+  suggested_aliases:
+  - wandering poet life
+  - itinerant poet biography
+  - poet biography motif
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wandering-violent-adventurer-compared-to-a-heroic-type
+  motif_id: wandering_violent_adventurer_compared_to_a_heroic_type
+  label: wandering violent adventurer compared to a heroic type
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'compared to a heroic type' signals analytic comparison rather
+    than a motif in the narrative itself.
+  cautions: If the source actually presents a recurring violent wanderer-hero role,
+    human review could map to hero_journey, divine_warrior, or sacred_combat. Avoid
+    indexing typological commentary as motif evidence.
+  suggested_aliases:
+  - violent wanderer compared to hero type
+  - wandering adventurer heroic comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wanderings-of-a-divine-figure
+  motif_id: wanderings_of_a_divine_figure
+  label: wanderings of a divine figure
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Divine wandering could indicate exile, quest, search, mourning, disguise,
+    ritual procession, or mythic geography; the function is not clear from the label.
+  cautions: Do not map to hero_journey solely because movement occurs. Source evidence
+    is needed to distinguish quest, divine intervention, sacred love/search, descent,
+    or cult itinerary.
+  suggested_aliases:
+  - divine figure wanders
+  - god's wanderings
+  - wandering deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-party-crossing-a-negotiated-boundary
+  motif_id: war_party_crossing_a_negotiated_boundary
+  label: war party crossing a negotiated boundary
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A war party crossing a boundary in a negotiated context belongs most
+    directly to warfare as ritually or socially structured conflict.
+  cautions: Boundary negotiation may be culturally specific and could also relate
+    to sacred_law or covenant if treaty obligations are central. Review before flattening
+    local political meaning.
+  suggested_aliases:
+  - war party crosses negotiated boundary
+  - boundary crossing by war party
+  - negotiated boundary crossed in warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-party-departure-with-nightly-dance-and-song
+  motif_id: war_party_departure_with_nightly_dance_and_song
+  label: war-party departure with nightly dance and song
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a ritualized departure sequence for a war party,
+    fitting sacred or ritual warfare.
+  cautions: Song and dance details may warrant secondary relation to enchanting_music
+    or sacred_exchange only if they are presented as spiritually efficacious rather
+    than customary performance.
+  suggested_aliases:
+  - war party departure dance
+  - nightly war-party song before departure
+  - ritual war-party departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-party-homecoming-with-captives-followed-by-triumph-dance
+  motif_id: war_party_homecoming_with_captives_followed_by_triumph_dance
+  label: war-party homecoming with captives followed by triumph dance
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A war party's return with captives and triumph dance is a ritualized
+    warfare outcome and communal validation sequence.
+  cautions: Captivity and triumph practices are culturally sensitive; preserve local
+    context and avoid treating the dance as merely decorative. Could relate to hero_journey
+    return if individual transformation is central.
+  suggested_aliases:
+  - war party returns with captives
+  - triumph dance after captive-taking
+  - war-party homecoming triumph dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-party-travels-by-canoe-to-defeat-opponents
+  motif_id: war_party_travels_by_canoe_to_defeat_opponents
+  label: War party travels by canoe to defeat opponents
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The primary function is a war expedition to defeat opponents; canoe travel
+    is the local travel mode.
+  cautions: If canoe travel across water is ritually transformative or boundary-crossing,
+    secondary relation to sacred_waters may be useful. Otherwise the label may be
+    an over-specific episode detail.
+  suggested_aliases:
+  - canoe war party expedition
+  - war party canoe journey
+  - canoe raid to defeat opponents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-trophies-publicly-validate-leadership
+  motif_id: war_trophies_publicly_validate_leadership
+  label: war trophies publicly validate leadership
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is public authorization of leadership through martial
+    proof or trophies.
+  cautions: Could map to divine_warrior if the emphasis is heroic combat prowess rather
+    than legitimating authority. Review cultural specifics of trophy display and leadership
+    validation.
+  suggested_aliases:
+  - war trophies validate leadership
+  - martial trophies prove authority
+  - public leadership validation by war trophies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-ignored-before-a-dangerous-journey
+  motif_id: warning_ignored_before_a_dangerous_journey
+  label: Warning ignored before a dangerous journey
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: An ignored warning before departure frames the journey as a perilous
+    quest or ordeal sequence.
+  cautions: If the warning is prophetic and its rejection leads to punishment, prophecy_divination
+    or divine_judgment may be better. If no transformation or quest structure follows,
+    it may be an over-specific plot cue.
+  suggested_aliases:
+  - ignored warning before journey
+  - unheeded warning before dangerous travel
+  - dangerous journey despite warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several war-party labels in this batch are journey-bucket items whose strongest
+  current placement is sacred_combat rather than hero_journey, because the movement
+  serves warfare or ritualized raiding.
+- Single-occurrence, culturally specific war-party and trophy labels should preserve
+  local evidence notes and may need human review before being promoted beyond group-level
+  mapping.
+- Labels containing explicit analytic language such as 'biography' or 'compared to
+  a heroic type' should generally be excluded from pattern queries unless passage
+  evidence shows an actual narrative motif.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific war-party ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0648
+  input_sha256: a56e1eb369097421dea32b8237d88b10a6ca1b611d07151b8522cf9f85484ec5
+

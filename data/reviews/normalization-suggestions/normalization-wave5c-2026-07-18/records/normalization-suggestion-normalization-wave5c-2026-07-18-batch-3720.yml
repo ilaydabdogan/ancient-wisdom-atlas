@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3720
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.night-killing-of-chiefs-in-central-lodges
+  motif_id: night_killing_of_chiefs_in_central_lodges
+  label: night killing of chiefs in central lodges
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate warfare, assassination, ritual violence, or
+    a passage-specific ethnographic scene; function is unclear from wording alone.
+  cautions: Single occurrence and culturally specific Plains context require source
+    review before mapping to sacred_combat, divine_judgment, or exclusion as narrative
+    detail.
+  suggested_aliases:
+  - night killing of chiefs
+  - chiefs killed in central lodge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-long-circle-chant-with-rattles
+  motif_id: night_long_circle_chant_with_rattles
+  label: night-long circle chant with rattles
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This appears to describe a ritual performance involving chant, circle
+    movement, and rattles, but its mythic function is not supplied.
+  cautions: Could fit enchanting_music if sound has supernatural efficacy, sacred_exchange
+    if a rite addresses powers, or sacred_time if night-long timing is ritually central;
+    avoid flattening indigenous ritual detail without evidence.
+  suggested_aliases:
+  - night-long ritual chant with rattles
+  - circle chant with rattles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-long-continuation-of-practiced-dances
+  motif_id: night_long_continuation_of_practiced_dances
+  label: night-long continuation of practiced dances
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an event/performance description rather than a symbolic
+    or narrative motif.
+  cautions: If the source shows the dance effects transformation, divine contact,
+    healing, or seasonal renewal, re-review under initiation, sacred_exchange, sacred_time,
+    or enchanting_music.
+  suggested_aliases:
+  - night-long practiced dances
+  - continued night dances
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-patrol-singing-camp-events
+  motif_id: night_patrol_singing_camp_events
+  label: Night patrol singing camp events
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase appears to bundle setting and event notes rather than name
+    a reusable motif.
+  cautions: If singing has protective, magical, or ritual function in the passage,
+    consider sacred_law, enchanting_music, or sacred_exchange after human review.
+  suggested_aliases:
+  - night patrol singing in camp
+  - singing during night patrol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-pursuit-interrupted-by-an-unseen-pleasant-voice
+  motif_id: night_pursuit_interrupted_by_an_unseen_pleasant_voice
+  label: Night pursuit interrupted by an unseen pleasant voice
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: An unseen pleasant voice interrupts pursuit, suggesting voice or sound
+    acting as a supernatural or liminal force.
+  cautions: If the voice is specifically a divine guide, spirit helper, or deceptive
+    lure, divine_intervention, threshold_guardian, or trickster may be better; source
+    evidence needed.
+  suggested_aliases:
+  - unseen voice interrupts pursuit
+  - pleasant unseen voice halts pursuit
+  - supernatural voice during night pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-raid-and-counterattack
+  motif_id: night_raid_and_counterattack
+  label: night raid and counterattack
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A raid and counterattack is a warfare sequence fitting the broad sacred_combat
+    group when narratively or ritually significant.
+  cautions: Single occurrence may be an ordinary battle detail; keep out of divine_warrior
+    unless sacred/divine combat function is explicit.
+  suggested_aliases:
+  - night raid followed by counterattack
+  - raid and counterattack at night
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-raid-with-killing-abduction-and-plunder
+  motif_id: night_raid_with_killing_abduction_and_plunder
+  label: Night raid with killing, abduction, and plunder
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes a raiding pattern with violence, seizure of persons,
+    and plunder, which belongs under the broad combat/raiding group if motif-worthy.
+  cautions: May be too episode-specific or historical; do not infer sacred combat
+    unless the passage frames the raid mythically, ritually, or cosmologically.
+  suggested_aliases:
+  - night raid with abduction and plunder
+  - raid with killing and captive-taking
+  - night plunder raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-storytelling-with-instrumental-accompaniment
+  motif_id: night_storytelling_with_instrumental_accompaniment
+  label: night storytelling with instrumental accompaniment
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core action is storytelling as performed transmission, with instrumental
+    accompaniment as a local performance detail.
+  cautions: If the instrument or sound has independent supernatural force, enchanting_music
+    may be a secondary mapping; if this is merely ethnographic framing, exclude from
+    pattern queries.
+  suggested_aliases:
+  - storytelling with instrumental accompaniment at night
+  - night oral performance with instruments
+  - instrument-accompanied storytelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-theft-or-disappearance-of-a-pouch
+  motif_id: night_theft_or_disappearance_of_a_pouch
+  label: night theft or disappearance of a pouch
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve trickster theft, loss of a power object, or a
+    simple plot detail; the pouch's significance is unknown.
+  cautions: Map to trickster only if deception/boundary-crossing drives the episode;
+    map to sacred_treasures or sacred_vessel only if the pouch contains or confers
+    sacred power.
+  suggested_aliases:
+  - pouch stolen at night
+  - mysterious disappearance of a pouch
+  - night disappearance of a pouch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-time-religious-feast
+  motif_id: night_time_religious_feast
+  label: night-time religious feast
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A religious feast plausibly functions as ritual feeding, offering, or
+    communal reciprocity with sacred powers.
+  cautions: If calendrical timing is central, sacred_time may be secondary; if food/drink
+    substances are the focus, sacred_substance may fit better. Preserve local ritual
+    context.
+  suggested_aliases:
+  - night religious feast
+  - ritual feast at night
+  - nocturnal sacred feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence nocturnal event descriptions;
+  human review should distinguish reusable motif functions from ethnographic or episode-specific
+  details.
+- Avoid treating night-time setting alone as a motif. Map only where the action has
+  narrative, ritual, symbolic, or supernatural function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual performance labels
+    should be checked against source passages before indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3720
+  input_sha256: 6ad5c070fcf39732af003f666ecba6dacf8f32d1aeffb21ba8e00089eea4f468
+

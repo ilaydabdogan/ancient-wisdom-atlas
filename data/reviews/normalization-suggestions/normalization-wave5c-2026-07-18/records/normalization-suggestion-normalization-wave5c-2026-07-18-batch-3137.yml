@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3137
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.alleged-haunting-produced-by-concealed-human-action
+  motif_id: alleged_haunting_produced_by_concealed_human_action
+  label: Alleged haunting produced by concealed human action
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could be deception, debunked haunting, or a local narrative
+    detail; existing haunting groups assume active dead agency.
+  cautions: Do not map to restless_dead_haunting_vengeance unless the passage treats
+    the dead as actually active; human evidence review needed.
+  suggested_aliases:
+  - false_haunting_by_human_deception
+  - concealed_human_action_mistaken_for_haunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - restless_dead_haunting_vengeance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.allegorical-captain-for-collective-political-perception
+  motif_id: allegorical_captain_for_collective_political_perception
+  label: allegorical captain for collective political perception
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an interpretive or philosophical allegory note rather
+    than a recurring narrative motif.
+  cautions: If the passage centers on authoritative political wisdom rather than commentary,
+    sacred_knowledge or royal_legitimacy may be reconsidered.
+  suggested_aliases:
+  - political_ship_allegory
+  - captain_as_political_allegory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.allegorical-oratory-using-natural-object-figures
+  motif_id: allegorical_oratory_using_natural_object_figures
+  label: allegorical oratory using natural-object figures
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns figurative speech or oratory as a vehicle for persuasion
+    or wisdom transmission.
+  cautions: If merely a rhetorical style note with no narrative function, exclude
+    as meta-textual commentary.
+  suggested_aliases:
+  - allegorical_oratory
+  - figurative_speech_using_natural_objects
+  - natural_object_allegory_in_oratory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alliance-building-through-gifts-pressure-and-persuasion
+  motif_id: alliance_building_through_gifts_pressure_and_persuasion
+  label: Alliance-building through gifts, pressure, and persuasion
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Gifts and obligation create or repair social bonds, matching exchange
+    and reciprocity patterns.
+  cautions: Pressure and political persuasion may make this a contextual alliance
+    episode rather than a sacred-exchange motif.
+  suggested_aliases:
+  - alliance_building_through_gifts
+  - gifts_and_persuasion_secure_alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alliance-formed-after-recognition-of-prowess
+  motif_id: alliance_formed_after_recognition_of_prowess
+  label: alliance formed after recognition of prowess
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: Recognition of martial or heroic prowess leading to alliance fits heroic
+    combat status and warrior legitimacy.
+  cautions: If prowess is non-martial or the focus is diplomacy rather than combat
+    identity, covenant or sacred_exchange may fit better.
+  suggested_aliases:
+  - alliance_after_recognized_prowess
+  - recognition_of_prowess_secures_alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_combat
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alliance-formed-through-legal-aid
+  motif_id: alliance_formed_through_legal_aid
+  label: Alliance formed through legal aid
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Legal assistance creates a binding social obligation or alliance, fitting
+    covenantal bond logic.
+  cautions: If the scene is ordinary legal procedure without sacred or narrative weight,
+    it may be too contextual for motif queries.
+  suggested_aliases:
+  - legal_aid_forms_alliance
+  - alliance_through_lawful_assistance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alliance-of-predators-collapses-through-mistrust
+  motif_id: alliance_of_predators_collapses_through_mistrust
+  label: alliance of predators collapses through mistrust
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal predator deception and reversal patterns are already grouped under
+    trickster/fable logic.
+  cautions: Could also express violated trust; keep predator-fable specificity as
+    evidence detail.
+  suggested_aliases:
+  - predator_alliance_collapses_through_mistrust
+  - mistrust_breaks_predator_alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alliance-secured-through-gifts-payment-obligation-or-refusal-of-bribes
+  motif_id: alliance_secured_through_gifts_payment_obligation_or_refusal_of_bribes
+  label: Alliance secured through gifts, payment, obligation, or refusal of bribes
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on gifts, payment, obligation, and reciprocal alliance
+    formation.
+  cautions: The refusal-of-bribes element may shift the focus to sacred law or ethical
+    judgment if moral integrity is central.
+  suggested_aliases:
+  - alliance_secured_by_gifts_and_obligation
+  - gifts_payment_and_obligation_secure_alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alliance-through-gifts-arms-and-promised-plunder
+  motif_id: alliance_through_gifts_arms_and_promised_plunder
+  label: Alliance through gifts, arms, and promised plunder
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Alliance is formed specifically for warfare or raiding through arms and
+    promised plunder.
+  cautions: If the emphasis is gift obligation rather than warfare, sacred_exchange
+    may be the better primary group.
+  suggested_aliases:
+  - war_alliance_through_gifts_and_plunder
+  - alliance_by_arms_and_promised_plunder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alliance-turning-into-resistance-after-injury
+  motif_id: alliance_turning_into_resistance_after_injury
+  label: Alliance turning into resistance after injury
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif turns on a social bond breaking after harm, producing resistance
+    against former allies.
+  cautions: Source context is needed to determine whether this is betrayal, vengeance,
+    political revolt, or a battle-sequence detail.
+  suggested_aliases:
+  - broken_alliance_after_injury
+  - injury_turns_alliance_into_resistance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch describe alliance formation or breakdown. Existing
+  covenant, sacred_exchange, sacred_combat, and betrayal_violated_trust groups can
+  hold most provisionally, but source evidence should decide whether these are reusable
+  motifs or single political plot details.
+- Avoid treating allegorical or rhetorical labels as symbolic motifs unless the passage
+  itself gives the speech act narrative power beyond commentary.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; low-occurrence alliance and allegory labels
+    need source-level review before durable indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3137
+  input_sha256: d3de8dd75a0f8292344f64e9c1c7d96b5794d22cf82ef75585455bea848adf89
+

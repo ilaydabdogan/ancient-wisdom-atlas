@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0633
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sympathetic-presentiment-of-a-kinswoman-s-departure
+  motif_id: sympathetic_presentiment_of_a_kinswoman_s_departure
+  label: sympathetic presentiment of a kinswoman's departure
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests intuitive foreknowledge tied to a departure, but the
+    function could be omen, kinship bond, journey signal, or passage-specific detail.
+  cautions: Single occurrence; source evidence needed before mapping to dream_and_vision,
+    prophecy_divination, hero_journey, or kinship-related motifs.
+  suggested_aliases:
+  - sympathetic presentiment of departure
+  - kinswoman departure premonition
+  - premonition of a relative's departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sympathetic-repetition-of-conquest
+  motif_id: sympathetic_repetition_of_conquest
+  label: sympathetic repetition of conquest
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could describe ritual imitation, narrative doubling, conquest memory,
+    or sympathetic magic, but the label alone is too compressed.
+  cautions: Do not map to sacred_combat or sacred_law without evidence that the repetition
+    is martial, ritual, magical, or legal in function.
+  suggested_aliases:
+  - ritual repetition of conquest
+  - imitative repetition of conquest
+  - sympathetic reenactment of conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tabooed-bodily-crossing-bringing-misfortune
+  motif_id: tabooed_bodily_crossing_bringing_misfortune
+  label: tabooed bodily crossing bringing misfortune
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A bodily crossing taboo that causes misfortune fits ritual prohibition
+    and sacred-law regulation of dangerous actions.
+  cautions: May also involve threshold or purity logic; preserve the crossing/body
+    specificity as evidence detail and review cultural context carefully.
+  suggested_aliases:
+  - tabooed bodily crossing
+  - crossing taboo causing misfortune
+  - bodily crossing prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.talking-and-questioning-animal-group
+  motif_id: talking_and_questioning_animal_group
+  label: Talking and questioning animal group
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Talking animals may be fable, trickster, helper, interrogation, or omen
+    material; the narrative function is not clear from the label.
+  cautions: Avoid creating a broad animal-speech group from a single contextual label;
+    source context should decide whether trickster, animal_helpers, or storytelling
+    applies.
+  suggested_aliases:
+  - questioning animal group
+  - talking animal assembly
+  - animal group questions a traveler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.talking-animals-and-animate-object-join-a-journey
+  motif_id: talking_animals_and_animate_object_join_a_journey
+  label: talking animals and animate object join a journey
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Companions joining a journey fits the journey/quest frame, with talking
+    animals and animate objects as marvelous helpers or fellow travelers.
+  cautions: If the helpers' supernatural aid is central, divine_intervention or animal_helpers
+    may be a secondary placement; if comic or deceptive, trickster may fit better.
+  suggested_aliases:
+  - talking animals join a journey
+  - animate object joins a journey
+  - marvelous companions join the traveler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.teacher-answers-formal-disciplinary-question
+  motif_id: teacher_answers_formal_disciplinary_question
+  label: teacher answers formal disciplinary question
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a discourse or vinaya Q&A scene rather than a reusable
+    mythic motif.
+  cautions: If the answer transmits sacred doctrine or initiates transformation, preserve
+    that passage under sacred_knowledge instead; otherwise exclude from motif queries.
+  suggested_aliases:
+  - formal disciplinary question answered by teacher
+  - teacher's answer to disciplinary question
+  - vinaya-style teacher response
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.teacher-disciple-relationship-modeled-as-parent-and-child
+  motif_id: teacher_disciple_relationship_modeled_as_parent_and_child
+  label: Teacher-disciple relationship modeled as parent and child
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: medium
+  rationale: The teacher-disciple bond frames transmission of sacred instruction through
+    a kinship-like role structure.
+  cautions: Could be ethical social teaching rather than narrative motif; if the parent-child
+    analogy is merely commentary, consider exclusion or sacred_law secondary review.
+  suggested_aliases:
+  - teacher as parent to disciple
+  - disciple as child of teacher
+  - parent-child model of spiritual instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.teacher-followed-faithfully-into-exile
+  motif_id: teacher_followed_faithfully_into_exile
+  label: Teacher followed faithfully into exile
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Following a teacher into exile combines departure/exile with loyal discipleship
+    during a transformative journey.
+  cautions: If emphasis is filial or ethical loyalty rather than journey, sacred_law
+    or sacred_exchange may be relevant secondary mappings.
+  suggested_aliases:
+  - disciple follows teacher into exile
+  - faithful follower accompanies exiled teacher
+  - loyal discipleship in exile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.teacher-s-journey-to-a-named-wooded-hermitage
+  motif_id: teacher_s_journey_to_a_named_wooded_hermitage
+  label: teacher's journey to a named wooded hermitage
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A journey to a named hermitage appears to be a setting or itinerary detail
+    rather than a durable motif.
+  cautions: If the hermitage functions as a revelation, initiation, or otherworld
+    threshold site, review for sacred_knowledge, initiation, or hero_journey instead.
+  suggested_aliases:
+  - journey to wooded hermitage
+  - teacher travels to hermitage
+  - named hermitage journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.technical-preparation-of-travel-vehicle-for-hazardous-winter-passage
+  motif_id: technical_preparation_of_travel_vehicle_for_hazardous_winter_passage
+  label: technical preparation of travel vehicle for hazardous winter passage
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes practical travel preparation and environmental logistics
+    more than a symbolic or narrative motif.
+  cautions: If the vehicle is sacred, magically aided, or construction itself is central,
+    consider sacred_craft; otherwise preserve only as passage evidence.
+  suggested_aliases:
+  - preparing a travel vehicle for winter passage
+  - hazardous winter travel preparation
+  - technical vehicle preparation before journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence journey labels that may be itinerary
+  or discourse artifacts rather than recurring motifs.
+- For culturally specific taboo and spirit/magic wording, source-context review is
+  recommended before final normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify narrative function
+    from source passages.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0633
+  input_sha256: 37a9942eee84e06e7c0587a4c4356a1689d09a8a65c4bd6a145db2e5a7dbd2e3
+

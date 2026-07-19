@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3428
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.faithful-drum-addressed-as-an-agent
+  motif_id: faithful_drum_addressed_as_an_agent
+  label: Faithful drum addressed as an agent
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate an animate ritual object, sacred sound, or personified
+    companion, but function is unclear from wording alone.
+  cautions: Culturally specific ritual agency should be reviewed with source context;
+    do not reduce to generic object or music motif without evidence.
+  suggested_aliases:
+  - animate_drum
+  - drum_addressed_as_agent
+  - ritual_drum_as_personified_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - sacred_treasures
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-friend-as-treasure-and-life-medicine
+  motif_id: faithful_friend_as_treasure_and_life_medicine
+  label: Faithful friend as treasure and life medicine
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording reads like wisdom or ethical metaphor for friendship rather
+    than a clear narrative motif.
+  cautions: May be proverb/commentary language; source context needed before mapping
+    to sacred_exchange, sacred_knowledge, or sacred_substance.
+  suggested_aliases:
+  - faithful_friend_as_treasure
+  - friendship_as_life_medicine
+  - loyal_friend_as_healing_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_exchange
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-mediation-of-a-revered-source
+  motif_id: faithful_mediation_of_a_revered_source
+  label: faithful mediation of a revered source
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe transmission, interpretation, or authorial
+    fidelity to a source rather than a mythic motif.
+  cautions: If the passage depicts a sacred messenger or inspired teacher within the
+    narrative, review instead under sacred_knowledge or divine_intervention.
+  suggested_aliases:
+  - faithful_source_mediation
+  - faithful_transmission_of_revered_source
+  - revered_source_mediated_faithfully
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-remnant-saved-from-communal-ruin
+  motif_id: faithful_remnant_saved_from_communal_ruin
+  label: faithful remnant saved from communal ruin
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A faithful remnant preserved while a community falls fits judgment with
+    selective mercy or preservation.
+  cautions: If destruction is cosmic catastrophe, flood_and_renewal or survivor_pair
+    may be secondary; if only moral teaching, sacred_law may be relevant.
+  suggested_aliases:
+  - faithful_remnant_preserved
+  - righteous_remnant_saved
+  - remnant_saved_from_communal_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-steed-recognizes-true-master
+  motif_id: faithful_steed_recognizes_true_master
+  label: faithful steed recognizes true master
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The steed's recognition functions as proof of true identity or rightful
+    mastery.
+  cautions: Could also relate to animal helpers if the passage emphasizes the horse's
+    agency rather than recognition of identity.
+  suggested_aliases:
+  - horse_recognizes_true_master
+  - steed_recognizes_rightful_owner
+  - animal_recognition_of_true_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-and-repentance-of-pistis-sophia
+  motif_id: fall_and_repentance_of_pistis_sophia
+  label: Fall and repentance of Pistis Sophia
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a named Gnostic episode combining fall, repentance, wisdom figure,
+    and restoration; placement depends on source function.
+  cautions: Named culturally specific theological episode should not be flattened
+    without review; may fit sacred_knowledge, divine_judgment, death_and_transformation,
+    or mystical_quest.
+  suggested_aliases:
+  - pistis_sophia_fall_and_repentance
+  - fallen_wisdom_figure_repents
+  - repentance_after_spiritual_fall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_judgment
+    - mystical_quest
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-from-celestial-height-to-dust-through-lust
+  motif_id: fall_from_celestial_height_to_dust_through_lust
+  label: Fall from celestial height to dust through lust
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A fall from elevated spiritual status to abasement through desire fits
+    moral downfall imagery.
+  cautions: If framed as mystical anthropology or repentance, mystical_quest or divine_judgment
+    may be secondary; preserve lust/fall imagery as evidence detail.
+  suggested_aliases:
+  - spiritual_fall_through_lust
+  - celestial_fall_to_dust
+  - desire_causes_fall_from_height
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - mystical_quest
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-of-ancient-civilization-through-invading-horde
+  motif_id: fall_of_ancient_civilization_through_invading_horde
+  label: fall of ancient civilization through invading horde
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be historical memory, etiological tradition, catastrophe,
+    or warfare narrative, but sacred function is not clear.
+  cautions: Avoid treating an invasion account as cosmic renewal or sacred combat
+    without evidence of ritual, divine, or mythic framing.
+  suggested_aliases:
+  - civilization_falls_to_invaders
+  - ancient_city_destroyed_by_horde
+  - fall_of_old_order_by_invasion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - flood_and_renewal
+    - world_ages_cosmic_decline
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-ally-carried-on-shield-and-buried-in-a-cairn
+  motif_id: fallen_ally_carried_on_shield_and_buried_in_a_cairn
+  label: fallen ally carried on shield and buried in a cairn
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Carrying and burying a fallen ally is a funerary honor for a combat companion.
+  cautions: Cairn and shield details are useful local evidence but likely too specific
+    for a canonical motif.
+  suggested_aliases:
+  - fallen_companion_buried_in_cairn
+  - warrior_carried_on_shield_for_burial
+  - shield_borne_ally_funeral
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-heavenly-instructors-and-human-women
+  motif_id: fallen_heavenly_instructors_and_human_women
+  label: fallen heavenly instructors and human women
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: forbidden_knowledge
+  suggested_group_label: Forbidden Knowledge
+  relationship: functional_variant
+  confidence: medium
+  rationale: Heavenly beings who fall and instruct humans commonly center on prohibited
+    or dangerous knowledge crossing divine-human boundaries.
+  cautions: Also involves sacred marriage/sexual transgression and fallen heavenly
+    beings; review source context before assigning only knowledge-focused mapping.
+  suggested_aliases:
+  - fallen_angels_teach_humans
+  - heavenly_instructors_with_human_women
+  - forbidden_instruction_by_fallen_heavenly_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_intervention
+    - sacred_love
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid claims about borrowing or common origin.
+- Several single-occurrence labels are metaphorical or culturally specific and should
+  be checked against source passages before normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: 'Wave 5c batch 3428: mapped clear funerary, judgment, recognition, downfall,
+    and forbidden-knowledge items; flagged ambiguous or meta-textual labels for review/exclusion.'
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3428
+  input_sha256: 6053cea4f37faf750f7de76f34f25444f619865af157cfb54016a0f834e8255e
+

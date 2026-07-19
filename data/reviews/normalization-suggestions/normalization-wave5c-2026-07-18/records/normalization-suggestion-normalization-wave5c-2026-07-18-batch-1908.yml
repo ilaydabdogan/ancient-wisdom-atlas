@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1908
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marriage-pressure-through-withheld-inheritance-or-wealth
+  motif_id: marriage_pressure_through_withheld_inheritance_or_wealth
+  label: Marriage pressure through withheld inheritance or wealth
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: Marriage pressure through wealth or inheritance may belong with marriage-choice
+    and bride-winning patterns under sacred_love, but the label mainly describes social
+    coercion and property leverage.
+  cautions: Single occurrence; could be legal, kinship, succession, or passage-specific
+    social detail rather than a reusable love/marriage motif.
+  suggested_aliases:
+  - withheld_inheritance_as_marriage_pressure
+  - marriage_coercion_through_wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-prohibition-derived-from-mourning-classification
+  motif_id: marriage_prohibition_derived_from_mourning_classification
+  label: marriage prohibition derived from mourning classification
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A marriage prohibition grounded in mourning classification functions
+    as a ritual-social rule, fitting sacred_law better than love imagery.
+  cautions: May also relate to lament_and_mourning if the passage emphasizes mourning
+    status; review culturally specific kinship and ritual categories before broad
+    querying.
+  suggested_aliases:
+  - mourning_status_marriage_prohibition
+  - marriage_taboo_based_on_mourning_class
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-promised-for-retrieval-of-a-captive-brother-s-body-part
+  motif_id: marriage_promised_for_retrieval_of_a_captive_brother_s_body_part
+  label: Marriage promised for retrieval of a captive brother's body part
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: Marriage as reward for an ordeal or retrieval task may fit bride-winning/marriage-choice
+    patterns under sacred_love, but the captive brother body-part detail is highly
+    specific.
+  cautions: Could be primarily a rescue, kinship obligation, body-retrieval, or combat/vengeance
+    episode; avoid indexing as a general marriage motif without source review.
+  suggested_aliases:
+  - marriage_reward_for_retrieval_task
+  - bride_reward_for_kin_rescue_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-promised-upon-completion-of-a-material-task
+  motif_id: marriage_promised_upon_completion_of_a_material_task
+  label: Marriage promised upon completion of a material task
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage promised after completing a task is a bride-winning or marriage-choice
+    ordeal, already represented near sacred_love children such as bride-winning contests.
+  cautions: If the material task is mainly craft, exchange, or social contract, sacred_craft
+    or sacred_exchange may be secondary; single occurrence limits promotion.
+  suggested_aliases:
+  - marriage_as_reward_for_completed_task
+  - task_completion_wins_marriage
+  - bride_winning_by_material_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-proposal-as-hostile-magical-trap
+  motif_id: marriage_proposal_as_hostile_magical_trap
+  label: Marriage proposal as hostile magical trap
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: A deceptive marriage proposal used as a magical trap functions more like
+    trickery or hostile stratagem than sacred love itself.
+  cautions: Could also belong to sacred_love if courtship danger is central, threshold_guardian
+    if the proposal lures across a boundary, or betrayal_violated_trust if trust is
+    exploited.
+  suggested_aliases:
+  - deceptive_marriage_proposal_trap
+  - hostile_courtship_trap
+  - marriage_lure_as_magical_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-prospect-encountered-at-a-well
+  motif_id: marriage_prospect_encountered_at_a_well
+  label: Marriage prospect encountered at a well
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: A well encounter leading toward marriage may fit courtship and sacred_love,
+    but the well may be only a setting or local narrative detail.
+  cautions: Do not map to sacred_waters unless the well has ritual, boundary, purification,
+    or transformative function; single occurrence may be too contextual.
+  suggested_aliases:
+  - bride_or_groom_encounter_at_well
+  - courtship_encounter_at_well
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-publicly-witnessed-before-kin
+  motif_id: marriage_publicly_witnessed_before_kin
+  label: Marriage publicly witnessed before kin
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Public witnessing before kin emphasizes marriage as a socially binding
+    covenant rather than desire or longing.
+  cautions: If evidence centers on legal legitimacy, alliance, or succession, royal_legitimacy
+    or sacred_law may be relevant secondary groups.
+  suggested_aliases:
+  - kin_witnessed_marriage_bond
+  - publicly_witnessed_marriage_covenant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-pursued-despite-warnings
+  motif_id: marriage_pursued_despite_warnings
+  label: marriage pursued despite warnings
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: Pursuing marriage despite warnings may express perilous love, but it
+    could also be a fate, counsel-rejection, or downfall pattern.
+  cautions: Needs source context to distinguish love-driven transgression from ignored
+    prophecy, kinship politics, or tragic fate.
+  suggested_aliases:
+  - warning_ignored_in_marriage_pursuit
+  - perilous_marriage_pursued_despite_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-pursued-through-status-succession-and-property-exchange
+  motif_id: marriage_pursued_through_status_succession_and_property_exchange
+  label: Marriage pursued through status, succession, and property exchange
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: The label emphasizes marriage as exchange of property, status, and succession,
+    which fits sacred_exchange more than love imagery.
+  cautions: Could also involve royal_legitimacy, sacred_law, or kinship-specific social
+    order; single occurrence and culturally specific social forms need human review.
+  suggested_aliases:
+  - marriage_as_status_and_property_exchange
+  - marriage_for_succession_and_wealth_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-race-with-rejected-winner
+  motif_id: marriage_race_with_rejected_winner
+  label: marriage race with rejected winner
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A race whose winner is meant to gain marriage is a bride-winning contest
+    variant, with rejection adding a conflict twist.
+  cautions: If the rejection drives the plot more than the contest, betrayal_violated_trust
+    or divine_judgment may be secondary; preserve the race detail as evidence.
+  suggested_aliases:
+  - bride_winning_race_with_rejected_winner
+  - marriage_contest_winner_rejected
+  - race_for_marriage_prize
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence marriage, courtship, or alliance
+  labels; many should remain granular evidence unless they recur across sources.
+- For marriage labels, distinguish sacred_love/bride-winning patterns from covenantal
+  marriage bonds, sacred_exchange/property transfer, and sacred_law/ritual prohibition.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source evidence is needed for culturally specific
+    kinship, mourning, and property-exchange motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1908
+  input_sha256: e22a2bcac0334063556cc33a751c9704c0cd748936cd50bcc1c0cf65d25a8aac
+

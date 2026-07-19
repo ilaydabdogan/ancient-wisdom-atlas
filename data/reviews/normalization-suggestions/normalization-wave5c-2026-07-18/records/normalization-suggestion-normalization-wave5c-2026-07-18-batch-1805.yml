@@ -1,0 +1,311 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1805
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.concealment-of-poisoning-through-false-diagnosis
+  motif_id: concealment_of_poisoning_through_false_diagnosis
+  label: Concealment of poisoning through false diagnosis
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes deception around bodily harm, but the relevant function
+    could be betrayal, false accusation, poisoning, healing, or episode-specific concealment.
+  cautions: Single occurrence and culturally specific context; verify whether this
+    is a recurring narrative motif or a passage detail before mapping.
+  suggested_aliases:
+  - false_diagnosis_conceals_poisoning
+  - poisoning_hidden_by_false_diagnosis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.condemned-hero-saved-by-beloved-woman
+  motif_id: condemned_hero_saved_by_beloved_woman
+  label: condemned hero saved by beloved woman
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The beloved's intervention rescues the condemned hero, making love or
+    beloved-mediated rescue the narrative driver.
+  cautions: If the passage emphasizes legal condemnation, escape, or heroic ordeal
+    more than the beloved relationship, covenant, divine_judgment, or hero_journey
+    may be better secondary mappings.
+  suggested_aliases:
+  - beloved_woman_rescues_condemned_hero
+  - lover_rescues_condemned_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.condemned-person-parading-like-a-hero
+  motif_id: condemned_person_parading_like_a_hero
+  label: Condemned person parading like a hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate ritual humiliation, heroic inversion, scapegoat
+    procession, punishment, or a contextual dramatic scene.
+  cautions: Do not map to divine_warrior from the word hero alone; source evidence
+    is needed to determine whether this is ritual, social judgment, or literary irony.
+  suggested_aliases:
+  - condemned_person_heroic_procession
+  - heroic_parade_of_the_condemned
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - divine_judgment
+    - heroic_funeral_rites
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-bride-lost-through-reproach
+  motif_id: conditional_bride_lost_through_reproach
+  label: Conditional bride lost through reproach
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bride is lost because a condition governing the relationship is violated,
+    fitting love, marriage, and perilous relational taboo.
+  cautions: If the condition is a magical taboo or oath rather than love-centered
+    marriage, curse_blessing_speech or covenant may be relevant secondary groups.
+  suggested_aliases:
+  - taboo_bride_lost_by_reproach
+  - bride_lost_after_reproach_breaks_condition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-marriage-alliance-requiring-public-office
+  motif_id: conditional_marriage_alliance_requiring_public_office
+  label: Conditional marriage alliance requiring public office
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The marriage condition depends on public office, making alliance, status,
+    and legitimate authority central.
+  cautions: If the passage focuses on bride choice or marital exchange rather than
+    office and rule, sacred_love or covenant may be better secondary mappings.
+  suggested_aliases:
+  - marriage_alliance_conditioned_on_public_office
+  - office_required_for_marriage_alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-naming-of-unborn-child-by-departing-father
+  motif_id: conditional_naming_of_unborn_child_by_departing_father
+  label: conditional naming of unborn child by departing father
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines paternal departure, unborn child, and conditional
+    naming; the motif function may be lineage, recognition, destiny, or family obligation.
+  cautions: Single culturally specific occurrence; avoid collapsing into miraculous_child
+    unless the naming marks sacred destiny or protected infancy.
+  suggested_aliases:
+  - departing_father_names_unborn_child_conditionally
+  - conditional_paternal_naming_before_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - recognition_tokens_hidden_identity
+    - royal_legitimacy
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-remarriage-after-repeated-divorce
+  motif_id: conditional_remarriage_after_repeated_divorce
+  label: Conditional remarriage after repeated divorce
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label concerns a rule-governed marriage and divorce condition, fitting
+    sacred law and social regulation.
+  cautions: Handle with sensitivity to Islamic legal context; may be legal/ritual
+    norm rather than narrative motif, and may be excluded if only commentary.
+  suggested_aliases:
+  - remarriage_condition_after_repeated_divorce
+  - divorce_rule_conditioning_remarriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-rescue-exchanged-for-marriage-promise
+  motif_id: conditional_rescue_exchanged_for_marriage_promise
+  label: conditional rescue exchanged for marriage promise
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rescue is explicitly exchanged for a marriage promise, making reciprocal
+    obligation the core structure.
+  cautions: If coercion, bride capture, or romantic union is foregrounded, sacred_love
+    or covenant may need secondary indexing; review cultural context carefully.
+  suggested_aliases:
+  - rescue_for_marriage_promise
+  - marriage_promise_as_price_of_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confession-as-remedy-for-dangerous-hidden-birth-or-abortion
+  motif_id: confession_as_remedy_for_dangerous_hidden_birth_or_abortion
+  label: Confession as remedy for dangerous hidden birth or abortion
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Confession as remedy could fit sacred law, ritual purification, social
+    repair, or culturally specific reproductive taboo.
+  cautions: Sensitive reproductive and Arctic-Inuit cultural context; source evidence
+    and terminology should be reviewed before broad indexing.
+  suggested_aliases:
+  - confession_remedies_hidden_birth_danger
+  - confession_remedies_reproductive_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confinement-linked-to-marriage-conflict
+  motif_id: confinement_linked_to_marriage_conflict
+  label: Confinement linked to marriage conflict
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The label points to captivity or enclosure arising from marital conflict,
+    which fits the broader love and marriage conflict field.
+  cautions: Very broad and contextual; if confinement is punishment, ordeal, or violated
+    trust rather than relationship conflict, divine_judgment, initiation, or betrayal_violated_trust
+    may be better.
+  suggested_aliases:
+  - marriage_conflict_leads_to_confinement
+  - spousal_conflict_and_confinement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - divine_judgment
+    - initiation
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and strongly contextual; suggested
+  placements should be treated as provisional review buckets rather than canonical
+  motif additions.
+- For culturally sensitive reproductive, legal, and Indigenous-context labels, verify
+  source wording before normalizing or exposing in broad pattern queries.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional model suggestions only; human taxonomy review required.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1805
+  input_sha256: 86c17a275f87b043b2465423f4d6f4a05060edbd79fb7784530bbb690e3f39e3
+

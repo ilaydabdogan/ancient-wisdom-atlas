@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0654
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.witch-travels-with-mortar-pestle-and-broom
+  motif_id: witch_travels_with_mortar_pestle_and_broom
+  label: Witch travels with mortar, pestle, and broom
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines travel with witchcraft implements, but current groups
+    do not clearly cover magical flight or witch equipment.
+  cautions: Single occurrence and culturally specific; may be an over-specific episode
+    detail, a shamanic travel motif, or an object/vehicle motif depending on source
+    evidence.
+  suggested_aliases:
+  - witch_travel_with_mortar_and_pestle
+  - magical_travel_with_witch_implements
+  - witch_flight_with_broom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_treasures
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withdrawal-from-an-unreciprocal-relationship
+  motif_id: withdrawal_from_an_unreciprocal_relationship
+  label: withdrawal from an unreciprocal relationship
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: In Buddhist context, withdrawing from an unreciprocal attachment can
+    function as renunciation or disciplined interior transformation.
+  cautions: If this is merely interpersonal advice rather than spiritual discipline,
+    sacred_law or exclusion as ethical commentary may be better.
+  suggested_aliases:
+  - renunciation_of_unreciprocated_attachment
+  - withdrawal_from_unreciprocated_love
+  - letting_go_of_unreciprocal_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wolf-like-wandering-warrior
+  motif_id: wolf_like_wandering_warrior
+  label: Wolf-like wandering warrior
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe animal-warrior symbolism, a wandering exile, or
+    a culturally specific warrior role.
+  cautions: Do not collapse wolf symbolism into shapeshifting or divine warrior without
+    evidence; Native American Plains context may require careful source review.
+  suggested_aliases:
+  - wolf_warrior_wanderer
+  - wolf_like_exiled_warrior
+  - wandering_warrior_with_wolf_traits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - hero_journey
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.women-and-wealth-taken-after-conquest
+  motif_id: women_and_wealth_taken_after_conquest
+  label: women and wealth taken after conquest
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes conquest spoils following warfare, which is closest
+    to the combat/warfare complex.
+  cautions: May be a historical or ethical detail rather than a symbolic motif; gendered
+    violence and captivity should be reviewed sensitively before pattern indexing.
+  suggested_aliases:
+  - spoils_taken_after_conquest
+  - captives_and_wealth_after_conquest
+  - women_and_treasure_as_war_spoils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.women-of-different-communities-share-suffering-in-conquest
+  motif_id: women_of_different_communities_share_suffering_in_conquest
+  label: women of different communities share suffering in conquest
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label centers shared suffering in conquest, but may be lament, social
+    critique, or historical commentary rather than a recurring motif.
+  cautions: Sensitive gendered-conquest material; avoid broad pattern indexing without
+    passage evidence that it functions as lament, judgment, or war motif.
+  suggested_aliases:
+  - shared_female_suffering_in_conquest
+  - women_share_suffering_across_communities
+  - communal_suffering_of_women_after_conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wondrous-song-or-music-as-quest-aid
+  motif_id: wondrous_song_or_music_as_quest_aid
+  label: Wondrous song or music as quest aid
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: Music or song acting as a supernatural aid on a quest fits the established
+    sound-power group.
+  cautions: If the emphasis is the quest structure rather than music's power, hero_journey
+    may be a secondary mapping.
+  suggested_aliases:
+  - magical_music_as_quest_aid
+  - enchanted_song_aids_quest
+  - wondrous_music_guides_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wooing-negotiated-through-kinship-alliance
+  motif_id: wooing_negotiated_through_kinship_alliance
+  label: wooing negotiated through kinship alliance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Negotiated wooing through alliance fits existing marriage-choice and
+    bride-winning material under sacred_love.
+  cautions: Could instead be political alliance or royal legitimacy if the passage
+    emphasizes kinship strategy over love or marriage choice.
+  suggested_aliases:
+  - marriage_negotiated_by_kinship_alliance
+  - wooing_through_family_alliance
+  - kinship_alliance_in_bride_wooing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wooing-request-under-contested-identity
+  motif_id: wooing_request_under_contested_identity
+  label: wooing request under contested identity
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The contested identity in a wooing request aligns with hidden or disputed
+    identity needing proof or recognition.
+  cautions: If the passage focuses on bride choice or courtship rather than identity
+    proof, sacred_love may be a better parent.
+  suggested_aliases:
+  - courtship_under_contested_identity
+  - wooing_with_disputed_identity
+  - marriage_request_requiring_identity_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-circling-journey-across-generations
+  motif_id: world_circling_journey_across_generations
+  label: world-circling journey across generations
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: A world-circling journey is a broad departure and travel pattern; across
+    generations adds lineage scope but not a separate group by itself.
+  cautions: If the source treats the route as cosmological mapping or ancestral origin,
+    cosmic_origin or sacred_geography review may be needed.
+  suggested_aliases:
+  - circumnavigation_across_generations
+  - generational_world_journey
+  - world_encircling_journey_across_generations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-circling-journey-to-gain-reportable-knowledge
+  motif_id: world_circling_journey_to_gain_reportable_knowledge
+  label: World-circling journey to gain reportable knowledge
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The journey's stated function is gaining knowledge to report back, fitting
+    acquisition and transmission of knowledge.
+  cautions: Could also index under hero_journey if the travel arc is primary; verify
+    whether the knowledge is sacred, practical, or merely narrative reportage.
+  suggested_aliases:
+  - world_circling_quest_for_knowledge
+  - circumnavigation_to_report_knowledge
+  - journey_to_gain_reportable_wisdom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_geography_pilgrimage
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements only; several single-occurrence labels may
+  be over-specific or contextual.
+- For conquest-related labels, human review should distinguish lament, historical
+  commentary, ethical critique, and warfare motif functions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Wave5c batch 0654 drafted for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0654
+  input_sha256: 41d14962463f829a6cea4c78548694b7c4412819c786b5ca8ef0a0f8589c3268
+

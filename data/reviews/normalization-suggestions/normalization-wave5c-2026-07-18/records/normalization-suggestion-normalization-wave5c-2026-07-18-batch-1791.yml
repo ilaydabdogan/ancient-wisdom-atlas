@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1791
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.child-stealing-monster-with-hollow-back
+  motif_id: child_stealing_monster_with_hollow_back
+  label: child-stealing monster with hollow back
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines child abduction, monster anatomy, and local being-type
+    detail; existing groups do not cleanly capture the narrative function without
+    source context.
+  cautions: May fit threshold_guardian, otherworld abduction, persecuted child, or
+    monster-combat depending on the episode; hollow-back detail may be over-specific
+    cultural evidence.
+  suggested_aliases:
+  - child_stealing_monster
+  - child_abducting_monster
+  - hollow_back_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-stealing-sea-monster-attracted-by-screams
+  motif_id: child_stealing_sea_monster_attracted_by_screams
+  label: Child-stealing sea monster attracted by screams
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A sea monster stealing children may be a perilous-threshold or monster-abduction
+    motif, but the scream-attraction mechanism is highly contextual.
+  cautions: Do not map to sacred_waters unless water passage, purification, or boundary
+    function is explicit; may be a localized danger-being detail.
+  suggested_aliases:
+  - child_stealing_sea_monster
+  - sea_monster_attracted_by_screams
+  - monster_abduction_of_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-stolen-through-mistaken-handover
+  motif_id: child_stolen_through_mistaken_handover
+  label: Child stolen through mistaken handover
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is deceptive or mistaken transfer enabling abduction,
+    which fits the trickster/deception field better than sacred birth.
+  cautions: If the mistake is not caused by deception, human review may prefer persecuted
+    child, otherworld abduction, or exclude as episode-specific.
+  suggested_aliases:
+  - mistaken_handover_abduction
+  - child_abducted_by_mistaken_transfer
+  - deceptive_handover_of_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-survives-by-clinging-to-monster-s-back
+  motif_id: child_survives_by_clinging_to_monster_s_back
+  label: child survives by clinging to monster's back
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a specific survival tactic during a monster encounter,
+    not a clearly established broader motif group.
+  cautions: Could fit threshold_guardian, sacred_combat, or miraculous_child only
+    if the wider passage supports ordeal, combat, or destined child survival.
+  suggested_aliases:
+  - child_clings_to_monster_to_survive
+  - survival_by_clinging_to_monster
+  - child_survival_on_monster_back
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-survivor-group-forms-a-new-community
+  motif_id: child_survivor_group_forms_a_new_community
+  label: Child survivor group forms a new community
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A remnant group surviving destruction and founding a new community matches
+    the renewal-after-catastrophe function of the survivor/remnant complex.
+  cautions: Use only if a prior destruction or communal catastrophe is present; otherwise
+    this may belong with miraculous_child or culture_hero/founder traditions.
+  suggested_aliases:
+  - child_survivors_found_new_community
+  - survivor_children_reconstitute_society
+  - child_remnant_forms_new_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-survivor-preserves-the-account
+  motif_id: child_survivor_preserves_the_account
+  label: child survivor preserves the account
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The emphasis is on survival enabling transmission of an account, fitting
+    narrative preservation and cultural memory.
+  cautions: If the label merely notes source provenance or informant status rather
+    than an in-story motif, exclude as a meta-textual artifact.
+  suggested_aliases:
+  - survivor_preserves_the_account
+  - child_witness_transmits_story
+  - survivor_as_keeper_of_account
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-survivor-with-latent-orenda
+  motif_id: child_survivor_with_latent_orenda
+  label: Child survivor with latent orenda
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label invokes a culturally specific power concept and a child-survivor
+    role; placement depends on how orenda functions in the source.
+  cautions: Culturally sensitive term; could fit miraculous_child, sacred_knowledge,
+    divine_intervention, or initiation, but should not be generalized without evidence.
+  suggested_aliases:
+  - child_survivor_with_latent_power
+  - latent_orenda_in_child_survivor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-swallowed-by-a-responsive-stone
+  motif_id: child_swallowed_by_a_responsive_stone
+  label: child swallowed by a responsive stone
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Being swallowed by an animate or responsive stone may involve sacred
+    object, death/transformation, or otherworld entry, but the function is unclear.
+  cautions: Avoid mapping to sacred_treasures unless the stone is a power object;
+    avoid death_and_transformation unless swallowing leads to death, rebirth, or metamorphosis.
+  suggested_aliases:
+  - responsive_stone_swallows_child
+  - animate_stone_swallows_child
+  - child_engulfed_by_living_stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-swallowed-by-monster-kills-it-from-within
+  motif_id: child_swallowed_by_monster_kills_it_from_within
+  label: child swallowed by monster kills it from within
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core narrative function is defeating a monster from inside after
+    being swallowed, a combat victory pattern with ordeal-like features.
+  cautions: If the emphasis is on initiatory ingestion and rebirth rather than combat,
+    death_and_transformation or initiation may be better secondary mappings.
+  suggested_aliases:
+  - swallowed_hero_kills_monster_from_within
+  - monster_killed_from_inside
+  - child_defeats_swallowing_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-swept-away-by-water-after-warning
+  motif_id: child_swept_away_by_water_after_warning
+  label: Child swept away by water after warning
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warning followed by destructive consequence suggests moral or sacred
+    reckoning, with water as the instrument rather than necessarily a flood motif.
+  cautions: If the warning is practical rather than sacred, or the water event is
+    incidental, this may be an over-specific episode detail; do not map to flood_and_renewal
+    without world/order renewal.
+  suggested_aliases:
+  - warning_ignored_child_swept_by_water
+  - water_punishment_after_warning
+  - child_carried_off_by_water_after_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence child-abduction or monster-encounter
+  details; source context is needed before creating any durable child-abduction or
+  monster group.
+- Do not treat water, sea, stone, or monster imagery as sufficient by itself for flood,
+  sacred waters, sacred treasures, or combat mappings; narrative function should control
+  placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific Arctic Inuit, Native American,
+    Filipino, and Afro-Caribbean contexts require human review before taxonomy edits.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1791
+  input_sha256: 072fcbfc5d93ca96261042629cd1bf4d09cb32980be27637b737f35860e03a5c
+

@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2595
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wind-produced-by-a-sleeping-being-s-breath
+  motif_id: wind_produced_by_a_sleeping_being_s_breath
+  label: Wind produced by a sleeping being's breath
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Spirits and Elemental Winds
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label describes an etiological origin of wind from a living supernatural
+    being, not covered cleanly by water, fire, or cosmic-origin groups.
+  cautions: Single occurrence; may be too granular unless other wind-origin or weather-agency
+    labels recur.
+  suggested_aliases:
+  - wind_from_sleeping_breath
+  - breath_as_wind_origin
+  - supernatural_breath_produces_wind
+  suggested_new_group:
+    id: weather_spirits_elemental_winds
+    label: Weather Spirits and Elemental Winds
+    description: Weather phenomena, especially winds and storms, treated as living
+      powers, spirits, confined forces, or effects of supernatural beings.
+    parent_group_ids:
+    - cosmic_origin
+    - divine_intervention
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - axis_mundi
+    reason_existing_groups_insufficient: Existing groups cover creation, waters, fire,
+      and divine action, but do not preserve recurring weather/wind agency as a distinct
+      elemental motif.
+- suggestion_id: normalization.suggestion.wind-retreating-into-a-mountain-hole
+  motif_id: wind_retreating_into_a_mountain_hole
+  label: wind retreating into a mountain hole
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Spirits and Elemental Winds
+  relationship: functional_variant
+  confidence: medium
+  rationale: Wind behaves as an animate or localizable force entering a mountain aperture,
+    fitting a weather-agency complex.
+  cautions: Could also be a localized landscape etiology or cave/mountain threshold
+    motif; verify source context before canonicalizing.
+  suggested_aliases:
+  - wind_enters_mountain_hole
+  - wind_hidden_in_mountain
+  - localized_wind_retreat
+  suggested_new_group:
+    id: weather_spirits_elemental_winds
+    label: Weather Spirits and Elemental Winds
+    description: Weather phenomena, especially winds and storms, treated as living
+      powers, spirits, confined forces, or effects of supernatural beings.
+    parent_group_ids:
+    - cosmic_origin
+    - divine_intervention
+    related_group_ids:
+    - axis_mundi
+    - cosmic_mountain
+    - sacred_vessel
+    reason_existing_groups_insufficient: Mountain and cave groups capture location,
+      but not the distinctive motif of wind as a contained or animate elemental power.
+- suggestion_id: normalization.suggestion.winds-confined-in-a-cave-by-an-appointed-keeper
+  motif_id: winds_confined_in_a_cave_by_an_appointed_keeper
+  label: winds confined in a cave by an appointed keeper
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Spirits and Elemental Winds
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on winds as elemental powers confined in a cave and
+    controlled by a keeper.
+  cautions: May secondarily involve sacred_vessel, cave, or threshold_guardian, but
+    the narrative function is weather containment/control.
+  suggested_aliases:
+  - confined_winds
+  - winds_kept_in_cave
+  - keeper_of_the_winds
+  - winds_bound_in_cavern
+  suggested_new_group:
+    id: weather_spirits_elemental_winds
+    label: Weather Spirits and Elemental Winds
+    description: Weather phenomena, especially winds and storms, treated as living
+      powers, spirits, confined forces, or effects of supernatural beings.
+    parent_group_ids:
+    - divine_intervention
+    - cosmic_origin
+    related_group_ids:
+    - sacred_vessel
+    - threshold_guardian
+    - axis_mundi
+    reason_existing_groups_insufficient: Existing cave/container groups do not preserve
+      the cross-traditional pattern of winds as controlled elemental beings or forces.
+- suggestion_id: normalization.suggestion.winter-storm-separation-during-a-hunt
+  motif_id: winter_storm_separation_during_a_hunt
+  label: winter storm separation during a hunt
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A storm separating hunters could be ordeal, weather danger, hunting episode,
+    or passage-specific plot detail.
+  cautions: Single occurrence and highly contextual; map only if the storm functions
+    as supernatural agency, initiation, or threshold ordeal.
+  suggested_aliases:
+  - storm_separates_hunters
+  - winter_hunt_storm_separation
+  - hunting_party_separated_by_storm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wish-granting-jewel-enabling-transport-and-flight
+  motif_id: wish_granting_jewel_enabling_transport_and_flight
+  label: wish-granting jewel enabling transport and flight
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: child
+  confidence: high
+  rationale: A jewel conferring wish fulfillment and magical travel is a sacred power
+    object.
+  cautions: If the passage emphasizes flight journey more than the object, hero_journey
+    or ascent may be secondary.
+  suggested_aliases:
+  - wish_granting_jewel
+  - magical_jewel_enables_flight
+  - power_jewel_of_transport
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wish-producing-food-tree
+  motif_id: wish_producing_food_tree
+  label: Wish-producing food tree
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A tree producing desired food fits miraculous or inexhaustible provision
+    already under divine_intervention.
+  cautions: Could also relate to sacred_tree_axis if the tree is cosmological, or
+    sacred_substance if food itself is ritually central.
+  suggested_aliases:
+  - wish_fulfilling_food_tree
+  - miraculous_food_tree
+  - inexhaustible_food_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wished-for-casting-into-the-sea
+  motif_id: wished_for_casting_into_the_sea
+  label: wished-for casting into the sea
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label does not reveal whether sea-casting is punishment, sacrifice,
+    ordeal, exile, or desired transformation.
+  cautions: Do not map to sacred_waters or sacrifice without evidence of water passage,
+    offering, purification, or death transformation.
+  suggested_aliases:
+  - desired_casting_into_sea
+  - voluntary_sea_casting
+  - wish_to_be_cast_into_sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witch-associated-with-night-and-darkness
+  motif_id: witch_associated_with_night_and_darkness
+  label: Witch associated with night and darkness
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a broad association of a culturally sensitive figure with
+    darkness, without a clear narrative function.
+  cautions: Review source context carefully; avoid flattening culturally specific
+    witchcraft concepts into generic chaos or night symbolism.
+  suggested_aliases:
+  - night_associated_witch
+  - witch_of_darkness
+  - witch_night_association
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witch-s-calendrical-broom-flight
+  motif_id: witch_s_calendrical_broom_flight
+  label: witch's calendrical broom flight
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The calendrical timing appears to be the distinctive motif, with supernatural
+    flight tied to ritual or seasonal time.
+  cautions: Could require human review if the key evidence is witchcraft practice,
+    flight, or festival custom rather than sacred time.
+  suggested_aliases:
+  - calendrical_witch_flight
+  - witch_broom_flight_on_ritual_date
+  - seasonal_witch_flight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witchcraft-as-accepted-supernatural-element
+  motif_id: witchcraft_as_accepted_supernatural_element
+  label: Witchcraft as accepted supernatural element
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes a genre or interpretive observation rather than
+    a specific motif action or symbol.
+  cautions: If source passages contain concrete witchcraft acts, extract and map those
+    separately under shapeshifter, prophecy_divination, curse_blessing_speech, or
+    sacred_law as appropriate.
+  suggested_aliases:
+  - witchcraft_as_supernatural_background
+  - accepted_witchcraft_element
+  - genre_observation_witchcraft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several wind labels suggest a recurring weather-agency gap; reviewers may consider
+  adding a weather_spirits_elemental_winds normalization group if more wind, storm,
+  and weather-control labels recur.
+- Witchcraft labels are culturally sensitive and often too broad; prefer source-specific
+  functions over generic witch categories.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; wind group candidate needs human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2595
+  input_sha256: 137965758503a8a52d6a760049053352dd499758d8048f290053f339f0fff375
+

@@ -1,0 +1,324 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3967
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.small-creature-s-sinew-succeeds-where-stronger-materials-fail
+  motif_id: small_creature_s_sinew_succeeds_where_stronger_materials_fail
+  label: Small creature's sinew succeeds where stronger materials fail
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a weak or small helper/material succeeding where stronger
+    alternatives fail, but no existing group cleanly captures this craft-ordeal pattern.
+  cautions: Single occurrence and culturally specific object detail; may be a passage
+    artifact or may support a future weak-helper motif if recurrent.
+  suggested_aliases:
+  - small_creature_sinew_succeeds
+  - weak_material_succeeds_where_strong_materials_fail
+  - small_helper_material_success
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - trickster
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-fault-grows-into-unquenchable-destructive-force
+  motif_id: small_fault_grows_into_unquenchable_destructive_force
+  label: Small fault grows into unquenchable destructive force
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A minor fault escalating into destructive consequence fits moral causality
+    and reckoning, especially in an ethical teaching context.
+  cautions: If this is only a proverbial maxim without sacred or narrative agency,
+    consider excluding from motif queries or mapping to sacred_law instead.
+  suggested_aliases:
+  - minor_fault_escalates_to_destruction
+  - small_transgression_grows_into_ruin
+  - small_error_unchecked_becomes_catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-helper-blinds-a-giant-with-a-web
+  motif_id: small_helper_blinds_a_giant_with_a_web
+  label: small helper blinds a giant with a web
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A small helper using a web to overcome a giant fits cunning reversal
+    and weak-over-strong trickster strategy.
+  cautions: The web and giant details may be episode-specific; if the helper is a
+    sacred animal ally rather than trickster, divine_intervention or animal_helpers
+    may be a secondary fit.
+  suggested_aliases:
+  - small_helper_blinds_giant
+  - weak_helper_overcomes_giant_by_web
+  - web_blinding_of_giant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-helper-exposes-hidden-gaming-objects
+  motif_id: small_helper_exposes_hidden_gaming_objects
+  label: small helper exposes hidden gaming objects
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a small helper, concealment exposure, and gaming objects
+    without enough context to identify the narrative function.
+  cautions: Could involve trickster deception, divination, contest victory, or a culturally
+    specific gaming episode; review passage evidence before mapping.
+  suggested_aliases:
+  - small_helper_reveals_hidden_game_objects
+  - helper_exposes_concealed_gaming_tokens
+  - hidden_gaming_objects_discovered
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_knowledge
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-helper-succeeds-after-stronger-beings-fail
+  motif_id: small_helper_succeeds_after_stronger_beings_fail
+  label: Small helper succeeds after stronger beings fail
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Small Helper and Weak-over-Strong Reversal
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is a general weak-helper success pattern not reducible to trickster
+    deception, combat, or craft alone.
+  cautions: Only one supplied occurrence for this exact label, but it appears semantically
+    related to other small-helper items in the batch; human review should test recurrence
+    before promotion.
+  suggested_aliases:
+  - weak_helper_succeeds_after_strong_fail
+  - small_being_succeeds_where_greater_beings_fail
+  - unexpected_small_helper_success
+  suggested_new_group:
+    id: small_helper_weak_over_strong
+    label: Small Helper and Weak-over-Strong Reversal
+    description: A small, weak, low-status, or underestimated being succeeds in a
+      task, contest, rescue, or defeat of an opponent after stronger or higher-status
+      beings fail.
+    parent_group_ids:
+    - trickster
+    - hero_journey
+    related_group_ids:
+    - sacred_combat
+    - sacred_craft
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing groups cover trickery, combat, craft,
+      or divine aid, but not the recurring narrative function of underestimated smallness
+      succeeding where strength fails.
+- suggestion_id: normalization.suggestion.small-hostile-band-displays-extraordinary-strength
+  motif_id: small_hostile_band_displays_extraordinary_strength
+  label: small hostile band displays extraordinary strength
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: An unusually powerful small hostile force belongs broadly with extraordinary
+    combat power and warrior threat.
+  cautions: May be a local battle description rather than a motif; if no sacred or
+    heroic combat function is present, exclude or keep as evidence detail.
+  suggested_aliases:
+  - small_band_with_extraordinary_strength
+  - outnumbered_hostile_band_of_great_strength
+  - small_enemy_force_supernaturally_strong
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-hunter-s-prize-appropriated-by-the-community
+  motif_id: small_hunter_s_prize_appropriated_by_the_community
+  label: small hunter’s prize appropriated by the community
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern redistribution, violated ownership, social obligation,
+    or exploitation of a low-status hunter.
+  cautions: Source context is needed to distinguish sacred exchange, betrayal, social
+    law, or a passage-specific incident.
+  suggested_aliases:
+  - hunter_prize_taken_by_community
+  - small_hunter_reward_appropriated
+  - community_appropriates_hunter_s_prize
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-man-mocked-as-weak-proves-superior-strength
+  motif_id: small_man_mocked_as_weak_proves_superior_strength
+  label: small man mocked as weak proves superior strength
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Small Helper and Weak-over-Strong Reversal
+  relationship: functional_variant
+  confidence: medium
+  rationale: An underestimated small figure proving superior strength is a clear weak-over-strong
+    reversal pattern.
+  cautions: Could also map to sacred_combat or divine_warrior if the proof occurs
+    in battle; avoid assuming sacred status from strength alone.
+  suggested_aliases:
+  - underestimated_small_man_proves_strong
+  - mocked_weak_figure_reveals_strength
+  - small_weak_appearing_man_superior_strength
+  suggested_new_group:
+    id: small_helper_weak_over_strong
+    label: Small Helper and Weak-over-Strong Reversal
+    description: A small, weak, low-status, or underestimated being succeeds in a
+      task, contest, rescue, or defeat of an opponent after stronger or higher-status
+      beings fail.
+    parent_group_ids:
+    - trickster
+    - hero_journey
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - initiation
+    reason_existing_groups_insufficient: Existing combat and trickster groups do not
+      preserve the important reversal in which apparent weakness or smallness becomes
+      the source of success.
+- suggestion_id: normalization.suggestion.small-offender-mocks-larger-victim-after-escape
+  motif_id: small_offender_mocks_larger_victim_after_escape
+  label: small offender mocks larger victim after escape
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A small offender escaping and mocking a larger victim fits trickster-like
+    reversal, taunt, and boundary violation.
+  cautions: May be a fable detail rather than a broad mythic motif; if the focus is
+    moral consequence of mockery, divine_judgment may be secondary.
+  suggested_aliases:
+  - small_trickster_mocks_larger_victim_after_escape
+  - escaped_small_offender_taunts_victim
+  - weak_offender_taunts_powerful_victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-offender-pleads-harmlessness
+  motif_id: small_offender_pleads_harmlessness
+  label: small offender pleads harmlessness
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A small wrongdoer pleading harmlessness resembles fable and trickster
+    survival rhetoric by a weaker offender.
+  cautions: If the passage is primarily legal or ethical judgment about culpability,
+    sacred_law or divine_judgment may fit better; preserve as granular evidence.
+  suggested_aliases:
+  - weak_offender_pleads_harmlessness
+  - small_culprit_claims_no_harm
+  - small_wrongdoer_uses_harmlessness_plea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items cluster around small or underestimated beings succeeding, deceiving,
+  or reversing stronger opponents; reviewers may consider whether a durable weak-over-strong
+  group is warranted.
+- Single-occurrence Northwest Coast and Indigenous North American labels should be
+  checked against source context before promoting culturally specific details into
+  broad taxonomy groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy changes applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3967
+  input_sha256: 63e786d71867c0bfde25d55b56f5918857aef9d0dc099668f82645516da112b0
+

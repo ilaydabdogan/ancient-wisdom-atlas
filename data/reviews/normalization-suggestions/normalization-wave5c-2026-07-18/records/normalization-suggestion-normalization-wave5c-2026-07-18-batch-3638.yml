@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3638
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.loud-human-clamor-causes-brant-to-fall
+  motif_id: loud_human_clamor_causes_brant_to_fall
+  label: Loud human clamor causes brant to fall
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe sound power over an animal, hunting magic, or
+    a passage-specific episode; no existing group clearly fits from the label alone.
+  cautions: Single occurrence and culturally specific animal episode; review source
+    evidence before mapping to enchanting_music, sacred_law, trickster, or excluding
+    as narrative detail.
+  suggested_aliases:
+  - noise_causes_birds_to_fall
+  - human_clamor_affects_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.low-status-artisan-enters-a-wonder-tale-through-luck
+  motif_id: low_status_artisan_enters_a_wonder_tale_through_luck
+  label: Low-status artisan enters a wonder tale through luck
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'enters a wonder tale' reads like genre or plot-framing commentary
+    rather than a reusable symbolic motif.
+  cautions: If the source passage actually centers on a lowly craftsperson receiving
+    supernatural fortune, reconsider under sacred_craft, hero_journey, or divine_intervention.
+  suggested_aliases:
+  - lowly_artisan_in_wonder_tale
+  - artisan_fortune_tale_entry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.low-status-youth-with-hidden-power-surpasses-established-specialists
+  motif_id: low_status_youth_with_hidden_power_surpasses_established_specialists
+  label: low-status youth with hidden power surpasses established specialists
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A youth with concealed exceptional power who surpasses experts fits the
+    broader extraordinary child or marked youth pattern.
+  cautions: If the passage emphasizes social reversal or contest skill rather than
+    sacred destiny, hero_journey, divine_intervention, or a future lowly-hero group
+    may fit better.
+  suggested_aliases:
+  - hidden_power_youth_surpasses_specialists
+  - lowly_youth_reveals_extraordinary_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lower-cosmic-daimones-as-fate-agents
+  motif_id: lower_cosmic_daimones_as_fate_agents
+  label: Lower-cosmic daimones as fate agents
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: role_variant
+  confidence: medium
+  rationale: Daimones functioning as agents of fate belong with personified or delegated
+    destiny powers governing cosmic order.
+  cautions: Hermetic cosmology is technical; review whether this is doctrinal classification
+    rather than narrative motif. Could also relate to death_by_fate or divine_intervention.
+  suggested_aliases:
+  - daimones_as_agents_of_fate
+  - cosmic_daimones_administer_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lowly-or-ugly-suitor-mocked-at-royal-court
+  motif_id: lowly_or_ugly_suitor_mocked_at_royal_court
+  label: lowly or ugly suitor mocked at royal court
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: low
+  rationale: A mocked suitor at court may be part of a bride-winning or courtship
+    sequence already represented under sacred_love.
+  cautions: Low confidence because the key function may be social humiliation, disguised
+    hero, royal test, or trickster reversal rather than love itself; source context
+    needed.
+  suggested_aliases:
+  - mocked_lowly_suitor
+  - ugly_suitor_mocked_at_court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-ally-chooses-shared-fate
+  motif_id: loyal_ally_chooses_shared_fate
+  label: loyal ally chooses shared fate
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: An ally choosing another's fate centers on a binding loyal relationship
+    and obligation, fitting sacred bond more than fate alone.
+  cautions: If the shared fate is specifically death in battle, secondary mapping
+    to death_by_fate, divine_warrior, or lament_and_mourning may be appropriate.
+  suggested_aliases:
+  - ally_shares_companion_fate
+  - loyal_retainer_chooses_shared_doom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-companion-at-the-sickbed
+  motif_id: loyal_companion_at_the_sickbed
+  label: loyal companion at the sickbed
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a care scene, but its motif function depends on whether
+    it frames healing, loyalty, impending death, or narrative transition.
+  cautions: May be too episode-specific. Consider covenant for loyalty, lament_and_mourning
+    for deathbed grief, or divine_intervention if healing is central.
+  suggested_aliases:
+  - faithful_companion_at_sickbed
+  - loyal_friend_at_deathbed_or_sickbed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-companion-beside-the-mocked-outsider
+  motif_id: loyal_companion_beside_the_mocked_outsider
+  label: loyal companion beside the mocked outsider
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: low
+  rationale: A companion remaining beside a mocked outsider expresses loyalty and
+    relational obligation under social pressure.
+  cautions: Low confidence because the stronger motif may be outsider humiliation,
+    hidden power, or social reversal; review culturally specific context before indexing.
+  suggested_aliases:
+  - loyal_companion_supports_mocked_outsider
+  - faithful_friend_of_rejected_outsider
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-companion-keeps-night-watch
+  motif_id: loyal_companion_keeps_night_watch
+  label: Loyal companion keeps night watch
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: low
+  rationale: Keeping watch for another figure expresses loyal duty within a binding
+    relationship.
+  cautions: If the night watch guards a threshold, corpse, vow, or supernatural threat,
+    threshold_guardian, heroic_funeral_rites, curse_blessing_speech, or divine_intervention
+    may be better.
+  suggested_aliases:
+  - faithful_companion_keeps_watch
+  - loyal_night_vigil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-companion-refusing-separation
+  motif_id: loyal_companion_refusing_separation
+  label: loyal companion refusing separation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusal to separate from a companion is a loyalty-bond motif aligned
+    with covenantal or sacred obligation.
+  cautions: If the refusal leads to shared death or exile, also review under death_by_fate,
+    hero_journey, or lament_and_mourning.
+  suggested_aliases:
+  - faithful_companion_refuses_separation
+  - loyal_friend_will_not_leave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several 'loyal companion' labels may indicate a recurring loyalty/companionship
+  cluster not yet represented as a standalone group; current suggestions park them
+  provisionally under covenant when the bond itself is central.
+- Single-occurrence and culturally specific labels should be checked against passage
+  evidence before promotion or broad query indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3638
+  input_sha256: 9d6ce1dff358f97d7c7620d9066c17f2ac4f9d9a3fd74478c42d580cdb5d3e0b
+

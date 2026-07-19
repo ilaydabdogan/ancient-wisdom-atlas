@@ -1,0 +1,328 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2269
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.three-beast-track-hunt
+  motif_id: three_beast_track_hunt
+  label: Three-beast track hunt
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a highly specific animal-hunt sequence and does not state
+    a clear symbolic or narrative function.
+  cautions: Could be an ordeal, animal-helper episode, tracking test, or passage detail;
+    source context is needed before mapping.
+  suggested_aliases:
+  - three_beast_tracking_hunt
+  - hunt_following_three_beast_tracks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - initiation
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-day-animal-preparation-before-ordeal
+  motif_id: three_day_animal_preparation_before_ordeal
+  label: three-day animal preparation before ordeal
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core function appears to be preparation for an ordeal, which fits
+    transformative testing better than animal symbolism alone.
+  cautions: The three-day and animal details may be passage-specific; if preparation
+    is sacrificial or magical rather than initiatory, sacrifice or divine_intervention
+    may be relevant.
+  suggested_aliases:
+  - animal_preparation_before_ordeal
+  - three_day_preparation_for_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-encounters-with-threatened-animals
+  motif_id: three_encounters_with_threatened_animals
+  label: three encounters with threatened animals
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repeated encounters with imperiled animals often function as animal-helper
+    or compassion-test episodes, already grouped under divine_intervention through
+    animal_helpers.
+  cautions: If the animals are merely hunted, endangered, or used as moral examples
+    without later aid, human review should remap to initiation, sacred_law, or exclude
+    as detail.
+  suggested_aliases:
+  - three_threatened_animal_encounters
+  - repeated_encounters_with_threatened_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-animal-voice-shamanic-performance
+  motif_id: threefold_animal_voice_shamanic_performance
+  label: Threefold animal-voice shamanic performance
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label points to a culturally specific ritual performance involving
+    animal voices, but its function is unclear from the label alone.
+  cautions: Culturally sensitive shamanic evidence needs source review; could involve
+    shapeshifting, sacred song, spirit communication, initiation, or ritual healing.
+  suggested_aliases:
+  - animal_voice_shamanic_performance
+  - threefold_animal_voice_ritual_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - shapeshifter
+    - sacred_knowledge
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-discovery-completing-animal-vegetable-and-mineral-categories
+  motif_id: threefold_discovery_completing_animal_vegetable_and_mineral_categories
+  label: Threefold discovery completing animal, vegetable, and mineral categories
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a classification or discovery schema rather than
+    a clearly recurring mythic motif.
+  cautions: May be a generated abstraction from ethnographic or editorial categories;
+    verify whether narrative discovery, culture-hero knowledge, or textual artifact
+    is actually present.
+  suggested_aliases:
+  - threefold_discovery_of_animal_vegetable_mineral_categories
+  - animal_vegetable_mineral_threefold_discovery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - culture_hero
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threshold-combat-test-against-invisible-dragon
+  motif_id: threshold_combat_test_against_invisible_dragon
+  label: threshold combat test against invisible dragon
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: A combat test at a threshold against a dragon-like being fits a guarded
+    passage requiring confrontation before advancement.
+  cautions: If the dragon combat primarily establishes cosmic order, sacred_combat
+    or divine_warrior may be secondary; invisibility should remain a local evidence
+    detail.
+  suggested_aliases:
+  - invisible_dragon_threshold_test
+  - threshold_dragon_combat_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.thunder-and-lightning-produced-by-a-gigantic-bird
+  motif_id: thunder_and_lightning_produced_by_a_gigantic_bird
+  label: thunder and lightning produced by a gigantic bird
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Thunderbird and Storm-Bird Etiology
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: This is a recurrent storm-bird etiology not well captured by existing
+    animal, divine intervention, or cosmic-origin groups.
+  cautions: Review Indigenous cultural specificity carefully; do not collapse all
+    thunderbird traditions into a single borrowing or generic bird symbol.
+  suggested_aliases:
+  - great_bird_produces_thunder_and_lightning
+  - gigantic_bird_causes_thunder
+  suggested_new_group:
+    id: thunderbird_storm_bird_etiology
+    label: Thunderbird and Storm-Bird Etiology
+    description: A great bird, thunderbird, or storm-bird explains or produces thunder,
+      lightning, storm power, or lightning-like force.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - divine_intervention
+    - sacred_fire
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups include divine intervention
+      and cosmic origin broadly, but none preserve the recurring animal-storm etiology
+      and thunderbird specificity.
+- suggestion_id: normalization.suggestion.thunder-bird-as-explanation-of-thunder
+  motif_id: thunder_bird_as_explanation_of_thunder
+  label: Thunder bird as explanation of thunder
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Thunderbird and Storm-Bird Etiology
+  relationship: alias
+  confidence: medium
+  rationale: This is a direct thunderbird etiology for thunder and fits the proposed
+    storm-bird group.
+  cautions: Use as a normalization suggestion only; source review should preserve
+    specific nation, region, and narrative roles where available.
+  suggested_aliases:
+  - thunderbird_as_explanation_of_thunder
+  - thunder_bird_thunder_etiology
+  suggested_new_group:
+    id: thunderbird_storm_bird_etiology
+    label: Thunderbird and Storm-Bird Etiology
+    description: A great bird, thunderbird, or storm-bird explains or produces thunder,
+      lightning, storm power, or lightning-like force.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - divine_intervention
+    - sacred_fire
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups do not preserve thunderbird
+      or storm-bird causation as a distinct recurring etiological complex.
+- suggestion_id: normalization.suggestion.thunder-or-lightning-caused-by-a-great-bird
+  motif_id: thunder_or_lightning_caused_by_a_great_bird
+  label: Thunder or lightning caused by a great bird
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Thunderbird and Storm-Bird Etiology
+  relationship: alias
+  confidence: medium
+  rationale: A great bird causing thunder or lightning is a close variant of the same
+    storm-bird etiological pattern.
+  cautions: Regional variants may differ substantially; avoid treating all great-bird
+    weather beings as identical without source evidence.
+  suggested_aliases:
+  - great_bird_causes_thunder_or_lightning
+  - storm_bird_causes_thunder_or_lightning
+  suggested_new_group:
+    id: thunderbird_storm_bird_etiology
+    label: Thunderbird and Storm-Bird Etiology
+    description: A great bird, thunderbird, or storm-bird explains or produces thunder,
+      lightning, storm power, or lightning-like force.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - divine_intervention
+    - sacred_fire
+    - sacred_treasures
+    reason_existing_groups_insufficient: The existing taxonomy lacks a focused group
+      for animal-personified weather causation, especially thunderbird-type etiologies.
+- suggestion_id: normalization.suggestion.thunderbird-linked-tree-implement-strikes-like-lightning
+  motif_id: thunderbird_linked_tree_implement_strikes_like_lightning
+  label: thunderbird-linked tree implement strikes like lightning
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Thunderbird and Storm-Bird Etiology
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The implement derives power from thunderbird/lightning association and
+    belongs near the proposed storm-bird complex rather than generic sacred objects
+    alone.
+  cautions: Could also map to sacred_treasures if the object’s ritual or martial power
+    is primary; tree detail should not force axis_mundi unless it functions cosmologically.
+  suggested_aliases:
+  - thunderbird_tree_implement_strikes_like_lightning
+  - lightning_striking_thunderbird_tree_implement
+  suggested_new_group:
+    id: thunderbird_storm_bird_etiology
+    label: Thunderbird and Storm-Bird Etiology
+    description: A great bird, thunderbird, or storm-bird explains or produces thunder,
+      lightning, storm power, or lightning-like force, including objects empowered
+      through thunderbird association.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - divine_intervention
+    - sacred_fire
+    - sacred_treasures
+    - axis_mundi
+    reason_existing_groups_insufficient: Generic sacred_treasures or sacred_fire would
+      lose the specific thunderbird-linked storm-power semantics.
+batch_notes:
+- Several labels are single-occurrence animal sequence details; these should not be
+  promoted without source evidence showing recurrence or clear narrative function.
+- The four thunderbird/great-bird items appear related enough to justify a provisional
+  new-group candidate, but Indigenous regional specificity should be preserved and
+  reviewed carefully.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    shamanic and thunderbird materials.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2269
+  input_sha256: 435d215726d76e0498b461f66b54557ed2c22373f5ed56032f89b17a6e3f2c05
+

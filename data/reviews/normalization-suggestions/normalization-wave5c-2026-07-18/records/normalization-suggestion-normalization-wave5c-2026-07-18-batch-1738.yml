@@ -1,0 +1,324 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1738
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.abandoned-child-later-remembers-and-refuses-aid-to-mother
+  motif_id: abandoned_child_later_remembers_and_refuses_aid_to_mother
+  label: abandoned child later remembers and refuses aid to mother
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines family abandonment, memory, refusal of aid, and possible
+    moral reversal without a clear existing parent group.
+  cautions: Single occurrence and culturally contextual; could be kinship ethics,
+    vengeance, divine judgment, or episode-specific plot detail depending on source
+    evidence.
+  suggested_aliases:
+  - abandoned_child_refuses_aid_to_parent
+  - filial_refusal_after_abandonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-child-raised-by-animals
+  motif_id: abandoned_child_raised_by_animals
+  label: abandoned child raised by animals
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vulnerable abandoned child preserved and reared by animals fits the
+    miraculous or protected child complex.
+  cautions: If the passage emphasizes animal kinship, totemic ancestry, or transformation
+    rather than child destiny, a secondary animal/ancestor placement may be needed.
+  suggested_aliases:
+  - child_raised_by_animals
+  - abandoned_child_fostered_by_animals
+  - animal_fostered_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - shapeshifter
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-children-in-the-wilderness
+  motif_id: abandoned_children_in_the_wilderness
+  label: Abandoned children in the wilderness
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a broad situation of child abandonment but does not state
+    protection, trial outcome, persecution, or sacred destiny.
+  cautions: Could fit miraculous_child, hero_journey, jealous_stepmother_persecuted_child,
+    or be a folktale setup; source context is needed.
+  suggested_aliases:
+  - children_abandoned_in_wilderness
+  - wilderness_abandonment_of_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - hero_journey
+    - jealous_stepmother_persecuted_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-person-aided-during-famine
+  motif_id: abandoned_person_aided_during_famine
+  label: Abandoned person aided during famine
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Aid given to an abandoned person in famine most likely concerns care,
+    reciprocity, or hospitality toward a vulnerable figure.
+  cautions: Low confidence because no sacred agent, test, or reciprocal outcome is
+    stated; may instead be famine-rescue plot detail or divine_intervention if supernatural
+    aid appears.
+  suggested_aliases:
+  - aid_to_abandoned_person_in_famine
+  - famine_aid_to_vulnerable_abandoned_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - hospitality_test_stranger_guest
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-pregnant-woman-survives-and-raises-child
+  motif_id: abandoned_pregnant_woman_survives_and_raises_child
+  label: abandoned pregnant woman survives and raises child
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif centers on maternal survival after abandonment, but existing
+    groups do not cleanly cover pregnancy, maternal endurance, and household betrayal.
+  cautions: Could become miraculous_child if the child has sacred destiny, sacred_law
+    if it is a kinship duty violation, or betrayal_violated_trust if spousal/communal
+    abandonment drives the episode.
+  suggested_aliases:
+  - abandoned_pregnant_mother_survives
+  - pregnant_woman_abandoned_and_child_raised
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - mother_goddess
+    - betrayal_violated_trust
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-unsuccessful-hunter-aided-by-a-wife
+  motif_id: abandoned_unsuccessful_hunter_aided_by_a_wife
+  label: abandoned unsuccessful hunter aided by a wife
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Spousal aid to an abandoned vulnerable provider can fit reciprocity and
+    household support obligations.
+  cautions: Low confidence; the hunting failure may be a subsistence ordeal, marital
+    loyalty episode, or local plot detail rather than a broad sacred motif.
+  suggested_aliases:
+  - wife_aids_abandoned_hunter
+  - spousal_aid_to_failed_hunter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_love
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-vulnerable-person-becomes-means-of-rescue
+  motif_id: abandoned_vulnerable_person_becomes_means_of_rescue
+  label: abandoned vulnerable person becomes means of rescue
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: The reversal where an abandoned vulnerable person becomes the rescuer
+    suggests moral reckoning and status reversal.
+  cautions: May instead be sacred_exchange if aid/reciprocity is central, divine_intervention
+    if supernatural rescue occurs, or merely an episode-specific reversal.
+  suggested_aliases:
+  - abandoned_vulnerable_rescuer
+  - rejected_vulnerable_person_becomes_rescuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_exchange
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandonment-after-an-ominous-or-monstrous-birth
+  motif_id: abandonment_after_an_ominous_or_monstrous_birth
+  label: Abandonment after an ominous or monstrous birth
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An extraordinary birth causing abandonment fits the sacred/miraculous
+    child complex, though marked as ominous rather than auspicious.
+  cautions: If the child is primarily monstrous or dangerous, a future monster/transformation
+    group may fit better; avoid assuming divine destiny from birth anomaly alone.
+  suggested_aliases:
+  - ominous_birth_leads_to_abandonment
+  - monstrous_birth_child_abandoned
+  - abandoned_ominous_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - shapeshifter
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abducted-charitable-maiden-made-household-sister
+  motif_id: abducted_charitable_maiden_made_household_sister
+  label: Abducted charitable maiden made household sister
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines abduction, virtue, and fictive kinship without enough
+    evidence for an existing motif group.
+  cautions: Could involve hospitality, sacred exchange, persecuted maiden, marriage/kinship
+    incorporation, or an over-specific folktale episode; source review needed.
+  suggested_aliases:
+  - abducted_maiden_incorporated_as_sister
+  - charitable_maiden_made_household_sister
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_love
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abducted-child-identified-in-hostile-village
+  motif_id: abducted_child_identified_in_hostile_village
+  label: abducted child identified in hostile village
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is identifying an abducted child in a hostile setting,
+    aligning with recognition and hidden identity proof motifs.
+  cautions: If no token, sign, scar, or proof mechanism is involved, this may be only
+    a plot situation; if the focus is rescue of a threatened child, miraculous_child
+    may be secondary.
+  suggested_aliases:
+  - recognition_of_abducted_child
+  - abducted_child_recognized_in_hostile_village
+  - identified_abducted_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - miraculous_child
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence family-abandonment or kinship
+  episodes; many should remain provisional until source context shows recurring motif
+  function.
+- No transmission or cultural-contact inference is implied by any suggested grouping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch contains multiple low-confidence kinship-abandonment labels that may
+    need a future family betrayal/persecuted vulnerable kin group if recurrence across
+    sources is confirmed.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1738
+  input_sha256: 3b3946c3e3ae312523fb63030fde47d19a35dcca6fbaf436670eba89d0c83b3e
+

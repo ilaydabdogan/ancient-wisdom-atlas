@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3685
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mission-to-people-ignorant-of-a-deity
+  motif_id: mission_to_people_ignorant_of_a_deity
+  label: mission to people ignorant of a deity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve divine commission, culture-hero instruction, or later missionary
+    framing; label alone does not show narrative function.
+  cautions: Single occurrence and potentially contact/religious-expansion context;
+    avoid treating as transmission or conversion motif without source evidence.
+  suggested_aliases:
+  - mission_to_people_without_knowledge_of_a_deity
+  - religious_mission_to_uninstructed_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.missionary-achievement-concentrated-in-one-exemplary-figure
+  motif_id: missionary_achievement_concentrated_in_one_exemplary_figure
+  label: missionary achievement concentrated in one exemplary figure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads like a literary or historiographic condensation of missionary
+    success into a representative figure, not a symbolic motif.
+  cautions: If the passage narrates a saint, bodhisattva, or miracle-worker converting
+    others, remap to divine_intervention or sacred_knowledge after evidence review.
+  suggested_aliases:
+  - missionary_success_concentrated_in_exemplary_figure
+  - exemplary_missionary_figure_as_summary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.missionary-conversion-itinerary
+  motif_id: missionary_conversion_itinerary
+  label: Missionary conversion itinerary
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: May be a narrative journey, conversion history, or source-structuring
+    device; current evidence is too thin for a motif placement.
+  cautions: Likely historical or hagiographic itinerary rather than mythic pattern;
+    review before mapping to hero_journey or sacred_knowledge.
+  suggested_aliases:
+  - conversion_itinerary
+  - missionary_journey_of_conversion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.missionary-explanation-frame-before-indigenous-legend
+  motif_id: missionary_explanation_frame_before_indigenous_legend
+  label: missionary explanation frame before Indigenous legend
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a framing or explanatory layer around an Indigenous
+    legend rather than a motif within the legend.
+  cautions: Culturally sensitive colonial/missionary mediation; preserve as provenance
+    or source-frame metadata, not as pattern evidence.
+  suggested_aliases:
+  - missionary_frame_before_indigenous_legend
+  - missionary_explanatory_frame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.missionary-suppression-of-local-dance
+  motif_id: missionary_suppression_of_local_dance
+  label: missionary suppression of local dance
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be colonial mission history, ritual conflict, or sacred-law
+    enforcement, but the label lacks mythic function.
+  cautions: Culturally sensitive and historically specific; do not fold local dance
+    into sacred_law or divine_judgment without passage evidence.
+  suggested_aliases:
+  - suppression_of_local_ritual_dance
+  - missionary_opposition_to_indigenous_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mist-bathing-beings-who-do-not-drink
+  motif_id: mist_bathing_beings_who_do_not_drink
+  label: mist-bathing beings who do not drink
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Mist-bathing points to water as sacred substance or nonordinary sustenance,
+    but the beings and function are unclear.
+  cautions: May be local cosmological/ethnographic detail or over-specific description;
+    avoid mapping to flood, purification, or passage without evidence.
+  suggested_aliases:
+  - beings_bathing_in_mist_without_drinking
+  - mist_as_sustenance_or_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-appearance-of-defection
+  motif_id: mistaken_appearance_of_defection
+  label: mistaken appearance of defection
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a perceived breach of loyalty or trust, even if
+    the defection is mistaken.
+  cautions: If the passage emphasizes false accusation and vindication, divine_judgment
+    may be a better secondary placement.
+  suggested_aliases:
+  - apparent_defection_mistaken_for_betrayal
+  - false_appearance_of_betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-consolation-creates-offense
+  motif_id: mistaken_consolation_creates_offense
+  label: Mistaken consolation creates offense
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a subtle speech/ethical misunderstanding, but not
+    enough to place as sacred speech, wisdom, or love.
+  cautions: May be anecdotal teaching detail in Sufi adab; preserve only if recurrent
+    as a wisdom or speech motif.
+  suggested_aliases:
+  - misjudged_consolation_as_offense
+  - comforting_speech_misfires
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-devil-in-the-field
+  motif_id: mistaken_devil_in_the_field
+  label: mistaken devil in the field
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be demon misrecognition, trickster humor, fear of uncanny encounter,
+    or local legend detail.
+  cautions: Single occurrence and place-specific wording; needs source context before
+    mapping to trickster, threshold_guardian, or divine_judgment.
+  suggested_aliases:
+  - misidentified_devil_in_field
+  - false_recognition_of_devil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-identity-and-kin-vengeance
+  motif_id: mistaken_identity_and_kin_vengeance
+  label: Mistaken identity and kin vengeance
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mistaken identity driving kin vengeance fits the recognition/hidden-identity
+    complex, especially where proof or misrecognition alters violence.
+  cautions: If vengeance and combat are the main focus, sacred_combat may be a secondary
+    mapping; if kin-slaying is central, consider human review for a more specific
+    tragic-recognition motif.
+  suggested_aliases:
+  - misrecognition_leads_to_kin_vengeance
+  - mistaken_identity_triggers_family_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Missionary-related labels in this batch often look like historical, editorial, or
+  colonial-contact framing rather than durable mythic motifs; review source passages
+  before adding new groups.
+- Several single-occurrence labels are over-contextual and should preserve evidence
+  detail without promoting canonical taxonomy changes.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source evidence needed especially for missionary/contact
+    and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3685
+  input_sha256: 1ffce1def41aa64918e9fa5a8f1a1b227825d1bf59694950b72f61fae13e5b05
+

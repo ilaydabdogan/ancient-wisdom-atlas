@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3387
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.epic-pathos-of-shared-human-passion
+  motif_id: epic_pathos_of_shared_human_passion
+  label: epic pathos of shared human passion
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes an aesthetic or literary effect of epic narration
+    rather than a recurrent narrative motif.
+  cautions: If passage evidence shows a concrete grief, love, or mourning scene, remap
+    to lament_and_mourning or sacred_love instead of excluding.
+  suggested_aliases:
+  - epic_pathos
+  - shared_human_passion_in_epic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.epic-tradition-displaced-to-a-remote-northern-refuge
+  motif_id: epic_tradition_displaced_to_a_remote_northern_refuge
+  label: epic tradition displaced to a remote northern refuge
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads as a claim about epic tradition transmission or preservation
+    location, not a motif within a narrative.
+  cautions: Do not use as evidence for migration or contact in motif queries; preserve
+    only as provenance or reception commentary if needed.
+  suggested_aliases:
+  - epic_tradition_in_remote_refuge
+  - northern_refuge_of_epic_tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.epidemic-attributed-to-medicine-men
+  motif_id: epidemic_attributed_to_medicine_men
+  label: epidemic attributed to medicine-men
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns illness blamed on ritual specialists, but the narrative
+    function is unclear from wording alone.
+  cautions: Culturally sensitive terminology and possible ethnographic accusation
+    require source review; could involve divine_judgment, sacred_law, spirit_affliction,
+    scapegoating, or colonial/collector commentary.
+  suggested_aliases:
+  - epidemic_blamed_on_ritual_specialists
+  - disease_attributed_to_medicine_specialists
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.epidemic-suspicion-of-medicine-specialists
+  motif_id: epidemic_suspicion_of_medicine_specialists
+  label: epidemic suspicion of medicine specialists
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears closely related to blaming ritual specialists for disease,
+    but may be social suspicion rather than a symbolic motif.
+  cautions: Review with epidemic_attributed_to_medicine_men; terminology is culturally
+    sensitive and may reflect source framing rather than Indigenous motif logic.
+  suggested_aliases:
+  - epidemic_blamed_on_ritual_specialists
+  - suspicion_of_medicine_specialists_during_epidemic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.episode-attached-to-proverbial-sayings
+  motif_id: episode_attached_to_proverbial_sayings
+  label: episode attached to proverbial sayings
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: An episode organized around proverbial sayings fits narrative transmission
+    and speech as a bearer of wisdom.
+  cautions: If it is merely an editorial note about proverb origins or saga composition,
+    exclude as _meta_textual instead.
+  suggested_aliases:
+  - proverbial_saying_attached_episode
+  - episode_explaining_proverbial_sayings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.episodic-accumulation-of-wonders
+  motif_id: episodic_accumulation_of_wonders
+  label: episodic accumulation of wonders
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes a compositional pattern or density of marvels rather
+    than a specific recurrent motif.
+  cautions: Individual wonders in the episode should be indexed separately when source
+    evidence identifies concrete motifs such as otherworld, sacred_treasures, or shapeshifter.
+  suggested_aliases:
+  - accumulation_of_wonders
+  - episodic_marvel_accumulation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.episodic-lays-cohere-into-an-epic-cycle
+  motif_id: episodic_lays_cohere_into_an_epic_cycle
+  label: Episodic lays cohere into an epic cycle
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a literary-formation or compilation observation about lays becoming
+    an epic cycle, not a narrative motif.
+  cautions: Keep out of pattern queries; useful only for textual history or genre
+    notes.
+  suggested_aliases:
+  - lays_cohering_into_epic_cycle
+  - episodic_lays_as_epic_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.epithet-based-cross-traditional-identification
+  motif_id: epithet_based_cross_traditional_identification
+  label: epithet-based cross-traditional identification
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a comparative identification method using epithets
+    rather than a mythic motif.
+  cautions: Avoid treating this as transmission evidence; preserve as scholarly annotation
+    only if needed.
+  suggested_aliases:
+  - cross_traditional_identification_by_epithet
+  - epithet_based_identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eponymic-annual-chronicle-pattern
+  motif_id: eponymic_annual_chronicle_pattern
+  label: eponymic annual chronicle pattern
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This appears to describe annalistic or chronicle organization by eponyms,
+    not a symbolic or narrative motif.
+  cautions: If a passage uses eponymous ancestors to explain peoples or places, map
+    that concrete etiology to cosmic_origin instead.
+  suggested_aliases:
+  - eponym_year_chronicle_pattern
+  - annual_chronicle_by_eponyms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eponymic-chain-of-renaming
+  motif_id: eponymic_chain_of_renaming
+  label: Eponymic chain of renaming
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Eponymic renaming can function as an etiological naming pattern explaining
+    places, peoples, or identities, already covered under cosmic_origin aliases and
+    children.
+  cautions: If the label refers only to textual naming variants or catalog structure,
+    exclude as _meta_textual; source evidence should confirm etiological function.
+  suggested_aliases:
+  - eponymic_renaming_chain
+  - chain_of_eponymous_renamings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are literary, comparative, or transmission/commentary
+  artifacts rather than motifs; these should be kept out of Pattern Explorer motif
+  queries unless passage evidence supplies a concrete narrative function.
+- The two epidemic/medicine-specialist labels should be reviewed together with sensitivity
+  to source terminology and whether the attribution is an Indigenous narrative motif,
+  an ethnographic belief report, or a collector/editorial framing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional machine suggestions; human review especially needed for culturally
+    sensitive epidemic-attribution labels and eponymic renaming context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3387
+  input_sha256: bcb6c886ad6fbddec106fa4da7045d375fa55e2769075ea0636f830ab3fb9fdd
+

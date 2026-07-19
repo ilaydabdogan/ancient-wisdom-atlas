@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3889
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.repeated-rhythmic-unit-with-variation
+  motif_id: repeated_rhythmic_unit_with_variation
+  label: repeated rhythmic unit with variation
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes formal rhythmic structure rather than a narrative
+    or symbolic motif.
+  cautions: If source evidence concerns sacred song, chant, or sound as effective
+    power, review under enchanting_music or storytelling_as_power instead.
+  suggested_aliases:
+  - rhythmic_variation_pattern
+  - formal_rhythmic_repetition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-shots-fail-to-harm-buffalo
+  motif_id: repeated_shots_fail_to_harm_buffalo
+  label: Repeated shots fail to harm buffalo
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: low
+  rationale: Failure of weapons to harm a being resembles invulnerability or weapon-resistance
+    patterns.
+  cautions: Buffalo may be sacred animal, spirit manifestation, hunting taboo, or
+    episode-specific detail; passage evidence is needed before mapping to invulnerability,
+    divine_intervention, or sacred_law.
+  suggested_aliases:
+  - weapon_resistant_buffalo
+  - unharmed_buffalo_under_repeated_shots
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-supernatural-disorientation-of-pursuers
+  motif_id: repeated_supernatural_disorientation_of_pursuers
+  label: Repeated supernatural disorientation of pursuers
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural powers alter pursuit by confusing or redirecting hostile
+    agents.
+  cautions: If the disorientation is a trickster stratagem rather than sacred agency,
+    trickster may be a better secondary placement.
+  suggested_aliases:
+  - supernatural_confusion_of_pursuers
+  - magical_disorientation_of_pursuers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-tale-across-j-taka-and-related-collections
+  motif_id: repeated_tale_across_j_taka_and_related_collections
+  label: Repeated tale across Jātaka and related collections
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes textual recurrence across collections, not a motif
+    within the tale.
+  cautions: Preserve as transmission or cataloging metadata, but do not use as evidence
+    for motif pattern queries.
+  suggested_aliases:
+  - jataka_parallel_tale
+  - repeated_tale_across_collections
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-threefold-structure
+  motif_id: repeated_threefold_structure
+  label: Repeated threefold structure
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Threefold repetition is a formal narrative pattern rather than a content
+    motif in the current taxonomy.
+  cautions: If the passage concerns sacred triads, fate sisters, or ritual threefold
+    action, human review may map it to fate_figures_cosmic_weaving, sacred_time, or
+    another content group.
+  suggested_aliases:
+  - threefold_repetition
+  - formal_threefold_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-trading-party-attack-pattern
+  motif_id: repeated_trading_party_attack_pattern
+  label: Repeated trading-party attack pattern
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a recurring raid or conflict sequence, but it
+    is highly contextual.
+  cautions: Could fit sacred_combat if ritually or narratively significant; could
+    also be a passage-specific ethnographic or plot pattern. Source evidence needed.
+  suggested_aliases:
+  - trading_party_attack_sequence
+  - repeated_attack_on_traders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-triadic-pattern
+  motif_id: repeated_triadic_pattern
+  label: Repeated triadic pattern
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording points to formal triadic patterning rather than a specific
+    mythic motif.
+  cautions: If the evidence concerns meaningful sacred triads, divine triples, or
+    three fate figures, review under a content group rather than excluding.
+  suggested_aliases:
+  - triadic_repetition
+  - formal_triadic_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-triadic-patterning
+  motif_id: repeated_triadic_patterning
+  label: Repeated triadic patterning
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This is a near-duplicate formal-structure label, not a substantive motif
+    by itself.
+  cautions: Review with repeated_triadic_pattern; map only if the triad has explicit
+    symbolic or narrative content.
+  suggested_aliases:
+  - repeated_triadic_pattern
+  - triadic_repetition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeating-reign-cycle-of-fullness-and-expansion
+  motif_id: repeating_reign_cycle_of_fullness_and_expansion
+  label: repeating reign-cycle of fullness and expansion
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A repeated reign-cycle frames rulership through sacred or cosmic periodicity.
+  cautions: Could also relate to royal_legitimacy or world_ages_cosmic_decline depending
+    on whether the passage emphasizes kingship, cyclical time, or cosmic history.
+  suggested_aliases:
+  - cyclical_reign_of_fullness
+  - reign_cycle_of_expansion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repelled-demonic-incursion
+  motif_id: repelled_demonic_incursion
+  label: Repelled demonic incursion
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repelling demonic forces fits sacred combat against hostile powers that
+    threaten order.
+  cautions: If the passage emphasizes moral reckoning or cosmic law rather than combat,
+    divine_judgment or sacred_law may be relevant secondary mappings.
+  suggested_aliases:
+  - demonic_invasion_repelled
+  - repulsion_of_demonic_forces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch describe formal repetition or textual recurrence rather
+  than motif content; these are provisionally excluded from pattern queries unless
+  source evidence supplies symbolic function.
+- Low-occurrence, culturally specific labels should be reviewed against passage evidence
+  before promotion or durable aliasing.
+reviewer_status:
+  status: draft
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human taxonomy review required for
+    culturally specific and context-dependent items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3889
+  input_sha256: ddcdd46e1c85575694db8467f59ace6a2e214843d7c343763d86a80f63e1b583
+

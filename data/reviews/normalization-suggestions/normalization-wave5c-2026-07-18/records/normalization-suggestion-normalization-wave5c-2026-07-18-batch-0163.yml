@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0163
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.eternal-divine-beings-contrasted-with-non-eternal-souls
+  motif_id: eternal_divine_beings_contrasted_with_non_eternal_souls
+  label: eternal divine beings contrasted with non-eternal souls
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as doctrinal anthropology about divine beings and souls
+    rather than a narrative death or afterlife motif.
+  cautions: Buddhist context may reject a permanent soul; source evidence is needed
+    before mapping to sacred_knowledge, death_and_transformation, or excluding as
+    doctrinal commentary.
+  suggested_aliases:
+  - divine_beings_contrasted_with_mortal_souls
+  - non_eternal_soul_doctrine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eternalist-cosmology-of-world-and-souls
+  motif_id: eternalist_cosmology_of_world_and_souls
+  label: eternalist cosmology of world and souls
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns cosmological doctrine about the world and souls, only
+    loosely connected to creation or death motifs.
+  cautions: May be a philosophical position discussed or rejected in Buddhist sources
+    rather than a mythic motif; review whether it should be excluded as commentary.
+  suggested_aliases:
+  - eternalist_world_and_soul_doctrine
+  - eternal_world_and_souls_cosmology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethical-requirement-for-spiritual-practitioner
+  motif_id: ethical_requirement_for_spiritual_practitioner
+  label: Ethical requirement for spiritual practitioner
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: An ethical obligation governing a spiritual practitioner fits sacred
+    law and ritual-social order.
+  cautions: Very broad and possibly source-specific; if it describes interior discipline
+    rather than social or ritual obligation, mystical_quest may be a secondary fit.
+  suggested_aliases:
+  - ethical_obligation_of_spiritual_practitioner
+  - spiritual_practitioner_ethics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethical-worth-linked-to-safe-afterlife-passage
+  motif_id: ethical_worth_linked_to_safe_afterlife_passage
+  label: Ethical worth linked to safe afterlife passage
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif explicitly links moral standing with safe postmortem travel,
+    matching afterlife passage and judgment requirements.
+  cautions: May also support divine_judgment if the passage emphasizes evaluation
+    of deeds more than route navigation.
+  suggested_aliases:
+  - moral_worth_enables_afterlife_passage
+  - ethical_conduct_secures_safe_afterlife_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-link-between-filth-poverty-and-the-death-of-a-fatherless-boy
+  motif_id: etiological_link_between_filth_poverty_and_the_death_of_a_fatherless_boy
+  label: Etiological link between filth, poverty, and the death of a fatherless boy
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a highly specific etiological explanation combining social
+    condition, orphanhood, and death.
+  cautions: Could be local etiological narrative, moral judgment, or passage artifact;
+    avoid broad mapping without source evidence.
+  suggested_aliases:
+  - filth_and_poverty_explained_by_orphan_death
+  - death_of_fatherless_boy_as_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-naming-of-a-place-after-death-and-mourning
+  motif_id: etiological_naming_of_a_place_after_death_and_mourning
+  label: Etiological naming of a place after death and mourning
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The normalization group already includes place-name etiologies from death
+    or violent events.
+  cautions: If the passage foregrounds lament rather than place-name origin, lament_and_mourning
+    may be a secondary mapping.
+  suggested_aliases:
+  - place_name_etiology_from_death_and_mourning
+  - place_named_after_mourning_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-origin-of-death
+  motif_id: etiological_origin_of_death
+  label: etiological origin of death
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: An explanation for how death entered the world fits the broad death-and-transformation
+    complex.
+  cautions: Could warrant a future origin-of-death child if many labels recur; may
+    also relate to cosmic_origin when framed as world-order etiology.
+  suggested_aliases:
+  - origin_of_death
+  - death_enters_the_world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-origin-of-mist-and-fog-from-a-dead-being
+  motif_id: etiological_origin_of_mist_and_fog_from_a_dead_being
+  label: etiological origin of mist and fog from a dead being
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A dead being becoming mist and fog is postmortem transformation into
+    a natural phenomenon.
+  cautions: If the passage emphasizes landscape or atmospheric creation more than
+    the dead being's transformation, cosmic_origin may be a secondary fit.
+  suggested_aliases:
+  - dead_being_becomes_mist_and_fog
+  - mist_and_fog_from_dead_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-origin-of-shellfish-and-snails-from-slain-animals-fat
+  motif_id: etiological_origin_of_shellfish_and_snails_from_slain_animals_fat
+  label: Etiological origin of shellfish and snails from slain animals' fat
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: New beings arising from a slain animal's body matter fits death followed
+    by transformation or generation.
+  cautions: May also belong with cosmic_origin if treated as species-origin etiology;
+    preserve the animal-fat detail as granular evidence.
+  suggested_aliases:
+  - shellfish_and_snails_from_slain_animal_fat
+  - species_origin_from_dead_animal_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-origin-of-the-tortoise-shell
+  motif_id: etiological_origin_of_the_tortoise_shell
+  label: etiological origin of the tortoise shell
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label names a specific animal-feature etiology without enough evidence
+    for death, transformation, trickster, or creation placement.
+  cautions: Could fit shapeshifter, cosmic_origin, trickster, or be too specific for
+    pattern queries depending on the story; source context needed.
+  suggested_aliases:
+  - origin_of_tortoise_shell
+  - animal_feature_etiology_tortoise_shell
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are doctrinal or etiological labels with only one occurrence; human
+  review should distinguish reusable motif from source-specific explanation or commentary
+  artifact.
+- For etiologies involving death-generated natural phenomena, death_and_transformation
+  is preferred unless the passage primarily explains world/species origins.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0163
+  input_sha256: 32febb01af49988330bc0b0bc7ac1bbccae2db48fdd6bfe78f7f88239de69da8
+

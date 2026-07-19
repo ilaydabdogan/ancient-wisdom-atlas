@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0802
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-word-as-warrior-god
+  motif_id: divine_word_as_warrior_god
+  label: divine Word as warrior god
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The label personifies divine speech/Word in a martial divine role, aligning
+    best with the divine warrior function.
+  cautions: Also relates to sacred_knowledge or curse_blessing_speech because the
+    operative power is speech; review source evidence for whether combat is central.
+  suggested_aliases:
+  - divine word as warrior
+  - sacred speech personified as warrior god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-word-that-destroys-and-restores
+  motif_id: divine_word_that_destroys_and_restores
+  label: divine word that destroys and restores
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A spoken divine word that effects destruction and restoration fits performative
+    sacred speech that transforms reality.
+  cautions: If the passage emphasizes cosmic creation or ongoing sustenance rather
+    than a speech act, cosmic_origin or divine_intervention may be secondary.
+  suggested_aliases:
+  - performative divine word of destruction and restoration
+  - divine speech destroys and restores
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-words-as-nourishment
+  motif_id: divine_words_as_nourishment
+  label: divine words as nourishment
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Divine words nourishing a recipient treats sacred speech or knowledge
+    as life-sustaining sustenance.
+  cautions: Could also relate to sacred_substance if words function like food in ritual,
+    or curse_blessing_speech if the utterance itself performs the nourishment.
+  suggested_aliases:
+  - sacred words as food
+  - divine speech as nourishment
+  - words of god as sustenance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-work-as-continual-making-and-sustaining
+  motif_id: divine_work_as_continual_making_and_sustaining
+  label: divine work as continual making and sustaining
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Continual divine making and sustaining extends creation into ongoing
+    cosmic maintenance, already covered by cosmic_origin aliases around creator ordering
+    and sustaining the cosmos.
+  cautions: If framed primarily as divine sovereignty rather than creation, supreme_ruler
+    may be a secondary relation.
+  suggested_aliases:
+  - creator sustains the cosmos
+  - continual divine creation
+  - divine making and sustaining of the cosmos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-world-as-refuge-for-a-struggling-saint
+  motif_id: divine_world_as_refuge_for_a_struggling_saint
+  label: Divine world as refuge for a struggling saint
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine world functioning as refuge is a protected otherworldly realm
+    alongside or beyond ordinary reality.
+  cautions: If the saint reaches it after death, afterlife_passage may be better;
+    if it is visionary consolation, theophany or dream_and_vision may be secondary.
+  suggested_aliases:
+  - divine realm as refuge
+  - otherworld refuge for saint
+  - heavenly refuge for holy person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divined-culprit-and-kin-retaliation
+  motif_id: divined_culprit_and_kin_retaliation
+  label: Divined culprit and kin retaliation
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines divination, accusation, and kin vengeance; placement
+    depends on whether the focus is divinatory knowledge, social retaliation, or moral
+    judgment.
+  cautions: Culturally sensitive and source-dependent; avoid mapping retaliation to
+    divine_judgment unless sacred authority or moral reckoning is explicit.
+  suggested_aliases:
+  - divination identifies culprit
+  - kin retaliation after divination
+  - divined offender and vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-aided-heroic-arrow-shot
+  motif_id: divinely_aided_heroic_arrow_shot
+  label: divinely aided heroic arrow shot
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A hero's weapon shot succeeds through divine aid, fitting the divine
+    warrior and sacred combat complex.
+  cautions: If the arrow is chiefly a named or sacred object, sacred_treasures may
+    be a secondary mapping.
+  suggested_aliases:
+  - divine aid to heroic arrow shot
+  - divinely guided arrow
+  - heroic arrow aided by deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-aided-overcoming-of-evil
+  motif_id: divinely_aided_overcoming_of_evil
+  label: Divinely aided overcoming of evil
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is sacred powers directly assisting humans or heroes
+    in overcoming a hostile evil force.
+  cautions: Broad wording may hide a combat scene, ritual purification, or moral judgment;
+    use divine_warrior or divine_judgment only if evidence supports those functions.
+  suggested_aliases:
+  - divine aid against evil
+  - supernatural help overcoming evil
+  - sacred assistance defeats evil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-allotted-desolate-habitation-for-wild-birds
+  motif_id: divinely_allotted_desolate_habitation_for_wild_birds
+  label: divinely allotted desolate habitation for wild birds
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a divine judgment oracle turning a place into
+    wilderness, but it could also be a passage-specific prophetic image.
+  cautions: Likely too contextual unless recurring as desolation-after-judgment; review
+    whether wild birds are symbolic agents, curse imagery, or merely scenery.
+  suggested_aliases:
+  - divine allotment of desolate habitation
+  - desolation inhabited by wild birds
+  - wilderness allotted after judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-allotted-wilderness-patrimony
+  motif_id: divinely_allotted_wilderness_patrimony
+  label: divinely allotted wilderness patrimony
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A divinely assigned wilderness inheritance may involve sacred land allotment,
+    exile, judgment, or providence, none clear from the label alone.
+  cautions: May be a place-specific or legal-theological detail rather than a reusable
+    motif; avoid mapping to cosmic_origin or covenant without source evidence.
+  suggested_aliases:
+  - divine allotment of wilderness
+  - wilderness inheritance by divine decree
+  - sacred wilderness patrimony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use 'divine word' language; reviewers should distinguish
+  performative sacred speech from sacred knowledge, cosmic creation by command, and
+  divine warrior personification.
+- Single-occurrence wilderness/desolation labels may be prophetic or passage artifacts
+  and should be checked against source context before broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    ambiguous single-occurrence and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0802
+  input_sha256: f47a3a0df32c052097582f645c3b56847d782e0cd279b5ab514db84ee0d1ef34
+

@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0158
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.embodied-spiritual-fire-compared-to-body-and-soul
+  motif_id: embodied_spiritual_fire_compared_to_body_and_soul
+  label: Embodied spiritual fire compared to body and soul
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Spiritual fire imagery aligns with sacred fire, but the body-soul comparison
+    may be doctrinal anthropology rather than a narrative motif.
+  cautions: Single occurrence; Zoroastrian ritual/theological context should be checked
+    before indexing as a motif.
+  suggested_aliases:
+  - spiritual_fire_as_body_soul_image
+  - fire_as_embodied_soul_analogy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.empty-tomb-for-an-unrecovered-body
+  motif_id: empty_tomb_for_an_unrecovered_body
+  label: empty tomb for an unrecovered body
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A cenotaph or empty tomb for an unrecovered body is a funerary memorial
+    act for absent remains.
+  cautions: If the passage is only an archaeological or antiquarian detail, preserve
+    as evidence rather than a pattern-query motif.
+  suggested_aliases:
+  - cenotaph_for_unrecovered_body
+  - empty_tomb_memorial_for_missing_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.empty-waste-city-as-perilous-return-site
+  motif_id: empty_waste_city_as_perilous_return_site
+  label: empty waste city as perilous return site
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: A dangerous return to a devastated city may function as a return ordeal
+    in a quest narrative.
+  cautions: The label is contextual and place-specific; could instead be cursed land,
+    wasteland, otherworld, or passage artifact depending on source evidence.
+  suggested_aliases:
+  - perilous_return_to_waste_city
+  - deserted_city_as_return_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-weapon-with-exclusive-death-dealing-power-and-audible-sign
+  motif_id: enchanted_weapon_with_exclusive_death_dealing_power_and_audible_sign
+  label: enchanted weapon with exclusive death-dealing power and audible sign
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: child
+  confidence: medium
+  rationale: A uniquely lethal enchanted weapon with a sign is a power object that
+    confers supernatural martial capacity.
+  cautions: The audible sign may be over-specific; if the passage emphasizes the weapon
+    deciding combat, sacred_combat or divine_warrior may be secondary.
+  suggested_aliases:
+  - enchanted_death_dealing_weapon
+  - supernatural_weapon_with_audible_sign
+  - exclusive_lethal_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enclosed-souls-crying-in-an-otherworld-region
+  motif_id: enclosed_souls_crying_in_an_otherworld_region
+  label: enclosed souls crying in an otherworld region
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: Souls confined or crying in a mapped otherworld region fit afterlife
+    geography and postmortem passage imagery.
+  cautions: May be a specific Egyptian afterlife-map detail; avoid creating a new
+    motif unless repeated across sources.
+  suggested_aliases:
+  - crying_souls_in_enclosed_afterlife_region
+  - confined_souls_in_otherworld_region
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enclosed-souls-crying-out-in-an-underworld-circle
+  motif_id: enclosed_souls_crying_out_in_an_underworld_circle
+  label: enclosed souls crying out in an underworld Circle
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: An underworld circle containing crying souls is a specific mapped afterlife
+    region or station.
+  cautions: Likely overlaps with the other enclosed-souls label; review for synonym
+    merge or source-specific evidence note.
+  suggested_aliases:
+  - crying_souls_in_underworld_circle
+  - confined_souls_in_underworld_circle
+  - enclosed_souls_crying_in_an_otherworld_region
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-an-isolated-near-dead-survivor
+  motif_id: encounter_with_an_isolated_near_dead_survivor
+  label: encounter with an isolated near-dead survivor
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a narrative encounter with survival near death, but
+    its symbolic or ritual function is unclear.
+  cautions: Could be ordeal, rescue, famine/survival detail, or passage-specific plot
+    event; source evidence is needed before grouping.
+  suggested_aliases:
+  - isolated_near_dead_survivor_encounter
+  - encounter_with_survivor_near_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-the-doomed-or-dead-followed-by-disappearance
+  motif_id: encounter_with_the_doomed_or_dead_followed_by_disappearance
+  label: encounter with the doomed or dead followed by disappearance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: low
+  rationale: An encounter with a doomed figure followed by disappearance may function
+    as a fate-marked death omen.
+  cautions: Could instead be ghost encounter, otherworld visitation, or narrative
+    disappearance; review whether fate or postmortem agency is explicit.
+  suggested_aliases:
+  - doomed_dead_encounter_followed_by_disappearance
+  - vanishing_encounter_with_the_dead_or_doomed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-unburied-dead-companions
+  motif_id: encounter_with_unburied_dead_companions
+  label: encounter with unburied dead companions
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Unburied companions foreground failed or pending funerary rites and social
+    obligations to the dead.
+  cautions: If the dead actively haunt or demand burial, restless_dead_haunting_vengeance
+    may be a secondary or better fit.
+  suggested_aliases:
+  - unburied_dead_companions_encounter
+  - encounter_with_unburied_comrades
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encroachment-on-ancestral-land-and-threatened-displacement
+  motif_id: encroachment_on_ancestral_land_and_threatened_displacement
+  label: Encroachment on ancestral land and threatened displacement
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns ancestral land and displacement, but no existing group
+    cleanly captures land-rights conflict or colonial encroachment as a mythic motif.
+  cautions: Culturally and historically sensitive; may be historical context, sovereignty
+    narrative, or place/ancestor motif rather than a pattern-query motif.
+  suggested_aliases:
+  - threatened_displacement_from_ancestral_land
+  - ancestral_land_encroachment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; suggested placements
+  should be treated as provisional evidence organization, not taxonomy edits.
+- Egyptian enclosed-soul labels appear near-synonymous and may be merge candidates
+  under afterlife_passage if source review confirms the same mapped region/function.
+- Avoid treating death-bucket assignment alone as evidence for death_rebirth, descent,
+  or resurrection; several items fit funerary rites, sacred objects, or need contextual
+  review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0158
+  input_sha256: 7a1bb3fd0debe082d669b8065dd89f79927eb72a75b82315605cf4be233a3c51
+

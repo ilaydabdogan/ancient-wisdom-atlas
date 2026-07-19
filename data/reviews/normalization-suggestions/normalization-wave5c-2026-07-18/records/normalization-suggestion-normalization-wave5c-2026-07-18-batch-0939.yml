@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0939
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.only-god-is-good
+  motif_id: only_god_is_good
+  label: Only God is Good
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label reads as a theological wisdom claim about divine goodness and
+    metaphysical knowledge.
+  cautions: Single occurrence and aphoristic wording; may be doctrinal commentary
+    rather than a narrative motif.
+  suggested_aliases:
+  - divine_goodness_as_unique
+  - only_the_divine_is_good
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.opaque-archaic-ritual-song-language
+  motif_id: opaque_archaic_ritual_song_language
+  label: opaque archaic ritual song language
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: low
+  rationale: Preserved ritual language may function as sacred or esoteric knowledge
+    transmitted through song.
+  cautions: Could be an ethnographic or linguistic observation rather than a motif;
+    review culturally specific evidence before indexing.
+  suggested_aliases:
+  - archaic_ritual_song_language
+  - opaque_sacred_song_language
+  - untranslated_ritual_song_language
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.opaque-ritual-language-preserved-without-understood-meaning
+  motif_id: opaque_ritual_language_preserved_without_understood_meaning
+  label: Opaque ritual language preserved without understood meaning
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif concerns preservation of sacred language as ritual knowledge
+    despite loss of semantic understanding.
+  cautions: May duplicate the archaic ritual song-language label or be a transmission/commentary
+    artifact; human review should merge or exclude if not passage-level.
+  suggested_aliases:
+  - opaque_sacred_language_preserved_in_ritual
+  - ritual_language_preserved_without_comprehension
+  - ununderstood_ritual_language
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.open-avowal-versus-secret-violence
+  motif_id: open_avowal_versus_secret_violence
+  label: Open avowal versus secret violence
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests an ethical-social contrast between honorable avowal
+    and concealed violence.
+  cautions: Too abstract without passage evidence; could be heroic honor, betrayal,
+    legal norm, or commentary artifact.
+  suggested_aliases:
+  - open_confession_contrasted_with_secret_violence
+  - avowed_violence_versus_hidden_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.opposed-ritual-responses-to-one-sacred-object
+  motif_id: opposed_ritual_responses_to_one_sacred_object
+  label: Opposed ritual responses to one sacred object
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: A sacred object eliciting divergent ritual responses fits the power-object
+    field if the object itself drives the scene.
+  cautions: Very contextual and comparative phrasing; may be an interpretive observation
+    rather than a recurring motif.
+  suggested_aliases:
+  - conflicting_ritual_responses_to_a_sacred_object
+  - divergent_responses_to_a_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.opposing-divine-patrons-in-war
+  motif_id: opposing_divine_patrons_in_war
+  label: Opposing divine patrons in war
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: Divine patrons backing opposite sides in battle belongs to divine agency
+    in sacred combat.
+  cautions: If the passage emphasizes ritual patronage or vows rather than battlefield
+    intervention, divine_intervention or covenant may be secondary.
+  suggested_aliases:
+  - rival_divine_patrons_in_battle
+  - gods_patronize_opposing_armies
+  - opposed_divine_sponsors_of_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oppressed-people-vow-revenge-against-a-tyrant
+  motif_id: oppressed_people_vow_revenge_against_a_tyrant
+  label: oppressed people vow revenge against a tyrant
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Collective vengeance against a tyrant functions as moral reckoning and
+    restoration of violated order.
+  cautions: If no sacred or moral sanction is present, this may be social conflict
+    rather than divine judgment; could also relate to sacred_combat.
+  suggested_aliases:
+  - collective_revenge_against_tyrant
+  - oppressed_people_avenge_tyranny
+  - vow_of_vengeance_against_oppressive_ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oppressed-servant-s-prayer-against-exploiters
+  motif_id: oppressed_servant_s_prayer_against_exploiters
+  label: Oppressed servant's prayer against exploiters
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prayer by the oppressed against exploiters invokes sacred moral reckoning
+    against injustice.
+  cautions: Could instead be sacred_exchange if the emphasis is petitionary prayer;
+    confirm whether judgment or reversal follows.
+  suggested_aliases:
+  - prayer_of_the_oppressed_against_exploiters
+  - servant_petition_for_judgment_against_oppressors
+  - oppressed_servant_invokes_divine_reckoning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oracle-fearing-king-resists-divine-son
+  motif_id: oracle_fearing_king_resists_divine_son
+  label: oracle-fearing king resists divine son
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The plot turns on an oracle shaping royal action against a divinely marked
+    figure.
+  cautions: Also touches miraculous_child and royal_legitimacy; map there only if
+    the passage emphasizes the son's sacred birth or succession.
+  suggested_aliases:
+  - king_fears_oracle_about_divine_son
+  - ruler_resists_oracularly_foretold_divine_child
+  - oracle_drives_royal_opposition_to_divine_son
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oracle-validated-by-divine-column
+  motif_id: oracle_validated_by_divine_column
+  label: oracle validated by divine column
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label centers on an oracle whose authority is confirmed by a sacred
+    sign or object.
+  cautions: The divine column may function as axis mundi, theophany, or sacred object;
+    source evidence is needed before choosing a primary group.
+  suggested_aliases:
+  - divine_column_validates_oracle
+  - oracular_authority_confirmed_by_sacred_column
+  - sacred_column_as_oracle_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence abstract or interpretive labels;
+  preserve as evidence notes unless source review confirms recurring motif function.
+- The two Micronesian opaque ritual-language labels likely overlap and should be reviewed
+  together for possible aliasing or exclusion as linguistic/commentary artifacts.
+- No transmission or borrowing claims are implied by these placement suggestions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    contextual and culturally sensitive ritual-language items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0939
+  input_sha256: dd5b275c806da082670eb628e31c06d84c5a69c989d44a6b600353a2cd53a49c
+

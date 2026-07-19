@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3399
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.etiological-naming-from-conduct-or-calamity
+  motif_id: etiological_naming_from_conduct_or_calamity
+  label: Etiological naming from conduct or calamity
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Existing cosmic_origin group already includes place-name and landscape
+    etiologies from deaths, violent events, and heroic events.
+  cautions: Label is broad and single-occurrence; if it explains a rule, person-name,
+    or textual title rather than a place or world feature, review may need another
+    placement or exclusion.
+  suggested_aliases:
+  - etiological_naming
+  - naming_from_calamity
+  - naming_from_conduct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-naming-of-a-celestial-body
+  motif_id: etiological_naming_of_a_celestial_body
+  label: etiological naming of a celestial body
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: An origin explanation for the naming of a celestial body fits the broader
+    etiological/cosmic-origin grouping.
+  cautions: If the passage emphasizes a transformed dead figure becoming a star or
+    moon, death_and_transformation or dream_and_vision may be relevant secondary context.
+  suggested_aliases:
+  - celestial_body_name_etiology
+  - etiological_celestial_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-naming-of-a-place-after-a-vanished-figure
+  motif_id: etiological_naming_of_a_place_after_a_vanished_figure
+  label: etiological naming of a place after a vanished figure
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing cosmic_origin group explicitly covers place-name etiologies
+    and supernatural or heroic place naming.
+  cautions: Vanishing may also signal apotheosis, death transformation, or otherworld
+    departure; preserve that detail if supported by passage evidence.
+  suggested_aliases:
+  - place_name_etiology_after_vanished_figure
+  - place_naming_after_disappearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-naming-of-beings-and-behavior
+  motif_id: etiological_naming_of_beings_and_behavior
+  label: etiological naming of beings and behavior
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label indicates an etiology, but the object is broad: names of beings
+    and explanations of behavior may involve animal fable, origin myth, law/custom,
+    or commentary.'
+  cautions: Do not map solely from the word etiological; source evidence is needed
+    to decide whether this is cosmic_origin, trickster, sacred_law, shapeshifter,
+    or a passage artifact.
+  suggested_aliases:
+  - behavior_name_etiology
+  - etiological_naming_of_beings
+  - origin_explanation_for_behavior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-naming-of-g-onaq-d-t
+  motif_id: etiological_naming_of_g_onaq_d_t
+  label: Etiological naming of G̣onaqᴀdēˊt
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif names a culturally specific being or figure, and the function
+    cannot be determined from the label alone.
+  cautions: Requires culturally informed source review; may be a person/being-name
+    etiology, mythic being classification, or over-specific local detail rather than
+    a broad motif.
+  suggested_aliases:
+  - etiological_naming_of_gonaqadet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-naming-of-the-lone-one
+  motif_id: etiological_naming_of_the_lone_one
+  label: Etiological naming of the Lone One
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to explain an epithet or figure-name, but the narrative
+    function is not evident from the label.
+  cautions: Could be a place-name, hero epithet, otherworld figure, or textual naming
+    note; avoid forcing into cosmic_origin without knowing what is named and why.
+  suggested_aliases:
+  - epithet_etiology_of_the_lone_one
+  - etiological_naming_of_lone_one
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-naming-through-defilement
+  motif_id: etiological_naming_through_defilement
+  label: etiological naming through defilement
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Defilement implies purity, taboo, or ritual pollution, which the sacred_law
+    group already covers through purity and sacred-contagion variants.
+  cautions: If the main function is naming a place or landscape after pollution, cosmic_origin
+    may be a secondary mapping; verify whether defilement is ritual, moral, or merely
+    narrative.
+  suggested_aliases:
+  - defilement_name_etiology
+  - naming_through_pollution
+  - pollution_based_etiological_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-occasion-history-for-a-rule
+  motif_id: etiological_occasion_history_for_a_rule
+  label: etiological occasion-history for a rule
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: An origin story explaining a rule fits sacred law, especially as the
+    group covers ethical codes, prohibitions, and social obligations.
+  cautions: If this is a Vinaya-style editorial heading or commentary formula rather
+    than a narrative motif, consider exclusion as a textual artifact.
+  suggested_aliases:
+  - rule_origin_etiology
+  - occasion_history_for_rule
+  - etiological_rule_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-or-origin-explanation-title
+  motif_id: etiological_or_origin_explanation_title
+  label: etiological or origin-explanation title
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The word title indicates a textual or cataloguing description rather
+    than a narrative motif itself.
+  cautions: If the underlying story has a specific origin motif, index that separately;
+    this generated label should not drive pattern queries.
+  suggested_aliases:
+  - origin_explanation_title
+  - etiological_title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-origin-of-a-hunting-custom
+  motif_id: etiological_origin_of_a_hunting_custom
+  label: Etiological origin of a hunting custom
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A mythic explanation for a hunting custom is best treated as origin of
+    a normative practice or taboo under sacred law.
+  cautions: If the custom centers on animal spirit reciprocity, food exchange, or
+    ritual offering, sacred_exchange or sacrifice may be relevant secondary contexts;
+    source review needed.
+  suggested_aliases:
+  - hunting_custom_origin
+  - etiology_of_hunting_practice
+  - origin_of_hunting_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'Several labels are generic etiological labels. Prefer existing groups only when
+  the named object is clear: place/celestial landscape under cosmic_origin, rule/custom/purity
+  under sacred_law, and titles/commentary under _meta_textual.'
+- Do not infer transmission or common origin from shared etiological form; these are
+  provisional normalization placements only.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch contains single-occurrence etiological labels, including culturally
+    specific name etiologies that require source-sensitive human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3399
+  input_sha256: f761aec5fc860f7b0c89fe59be2cda2dffd80331c8bdacc65bf076482c0cb0c0
+

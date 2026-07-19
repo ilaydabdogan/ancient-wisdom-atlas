@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0958
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.practical-hierarchy-of-ritual-harms
+  motif_id: practical_hierarchy_of_ritual_harms
+  label: Practical hierarchy of ritual harms
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label appears to rank ritual harms within a purity or legal-ritual
+    framework, fitting sacred law and ritual prohibition.
+  cautions: Single occurrence; may be an over-specific doctrinal or commentary artifact
+    if it summarizes a legal passage rather than a motif.
+  suggested_aliases:
+  - ritual_harm_hierarchy
+  - hierarchy_of_ritual_harms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.praise-of-healing-sacred-waters
+  motif_id: praise_of_healing_sacred_waters
+  label: praise of healing sacred waters
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Healing sacred waters are a direct fit for the sacred_waters group, with
+    praise as the local expressive frame.
+  cautions: If the passage is only a hymnic formula with no water function beyond
+    praise, preserve as evidence detail rather than a distinct child motif.
+  suggested_aliases:
+  - healing_sacred_waters
+  - praise_of_healing_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.praise-of-victorious-divine-strength
+  motif_id: praise_of_victorious_divine_strength
+  label: praise of victorious divine strength
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Victorious divine strength suggests a praised warrior or combat-ordering
+    divine power, best fitting divine_warrior.
+  cautions: May be a generic hymnic praise phrase rather than a narrative combat motif;
+    check whether victory or sacred combat is actually present.
+  suggested_aliases:
+  - victorious_divine_strength
+  - praise_of_divine_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.praise-resulting-in-radiance-before-the-divine
+  motif_id: praise_resulting_in_radiance_before_the_divine
+  label: praise resulting in radiance before the divine
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Radiance before the divine aligns with sacred light as transformed devotional
+    presence, with praise as the ritual action.
+  cautions: Could alternatively fit sacred_song or mystical_quest if the focus is
+    devotional praise transforming the singer; source context is needed.
+  suggested_aliases:
+  - devotional_praise_resulting_in_radiance
+  - radiance_before_the_divine_through_praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.praised-divine-heroes
+  motif_id: praised_divine_heroes
+  label: Praised divine heroes
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Divine heroes who are praised likely belong with divine or heroic sacred
+    combat figures.
+  cautions: The label is broad and may be a hymnic catalog rather than a motif; if
+    no combat or order-maintaining heroic role is present, needs human review.
+  suggested_aliases:
+  - divine_heroes_praised
+  - praise_of_divine_heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-accompanying-ritual-transformation-of-an-object
+  motif_id: prayer_accompanying_ritual_transformation_of_an_object
+  label: Prayer accompanying ritual transformation of an object
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual object transformed through prayer fits sacred making or animation
+    of an object more than sacrifice alone.
+  cautions: Culturally specific ritual context should be reviewed; if the transformed
+    object is primarily an offering, sacred_exchange or sacrifice may be better.
+  suggested_aliases:
+  - ritual_transformation_of_object_by_prayer
+  - prayer_over_transformed_ritual_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-addressed-to-a-star
+  motif_id: prayer_addressed_to_a_star
+  label: prayer addressed to a star
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A star-directed prayer may involve celestial being, sacred exchange,
+    divination, or local cosmology, but the function is unclear from the label.
+  cautions: Avoid flattening culturally specific star-person or celestial-address
+    practices into generic sacred exchange without source evidence.
+  suggested_aliases:
+  - star_addressed_prayer
+  - prayer_to_a_star
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-addressed-to-the-young-moon
+  motif_id: prayer_addressed_to_the_young_moon
+  label: Prayer addressed to the young Moon
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Prayer to the young Moon could concern celestial cycle, ritual timing,
+    divine personhood, or petition; label alone does not show the narrative function.
+  cautions: Culturally specific lunar address should be reviewed before mapping to
+    sacred_time, dream_and_vision, or sacred_exchange.
+  suggested_aliases:
+  - young_moon_prayer
+  - prayer_to_the_new_moon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-against-inner-weakness-and-violence
+  motif_id: prayer_against_inner_weakness_and_violence
+  label: prayer against inner weakness and violence
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif frames prayer as interior moral discipline against weakness
+    and violence, fitting the inner transformative path.
+  cautions: May be an ethical exhortation rather than a motif; sacred_law or wisdom
+    could be better if the passage is didactic rather than devotional.
+  suggested_aliases:
+  - prayer_for_inner_discipline
+  - prayer_against_violence_and_weakness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-and-meal-sprinkling-over-ritual-participants
+  motif_id: prayer_and_meal_sprinkling_over_ritual_participants
+  label: Prayer and meal sprinkling over ritual participants
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayer with ritual sprinkling of meal over participants is a reciprocal
+    offering or blessing act within sacred relationship.
+  cautions: Review local ritual evidence; if the emphasis is purification, protection,
+    or sacrifice, sacred_law or sacrifice may be secondary mappings.
+  suggested_aliases:
+  - ritual_meal_sprinkling_with_prayer
+  - prayer_and_sprinkling_over_participants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence prayer or praise formulations;
+  reviewers should distinguish recurrent ritual motifs from hymnic or passage-specific
+  phrasing.
+- Celestial-address items need source-sensitive review before mapping to broad celestial,
+  ritual, or exchange groups.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual-prayer labels require
+    human evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0958
+  input_sha256: 9643a210f26149100311a8a974272de953e779714988737a39a67012248c6e36
+

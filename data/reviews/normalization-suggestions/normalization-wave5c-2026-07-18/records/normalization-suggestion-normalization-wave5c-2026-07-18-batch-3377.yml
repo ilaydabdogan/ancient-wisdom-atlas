@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3377
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.elite-retention-of-an-ancient-religious-form-while-masses-adopt-novelties
+  motif_id: elite_retention_of_an_ancient_religious_form_while_masses_adopt_novelties
+  label: elite retention of an ancient religious form while masses adopt novelties
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes sociological or historical religious change rather
+    than a narrative or symbolic motif.
+  cautions: Could be useful as historical context if directly evidenced, but should
+    not be used for motif pattern queries without clearer mythic function.
+  suggested_aliases:
+  - elite_preservation_of_older_religious_forms
+  - religious_conservatism_among_elites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elopement-aided-by-treasure-that-delays-pursuit
+  motif_id: elopement_aided_by_treasure_that_delays_pursuit
+  label: Elopement aided by treasure that delays pursuit
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A treasure functions as a power object enabling escape by delaying pursuers.
+  cautions: If the emphasis is lovers' flight rather than the object, sacred_love
+    or hero_journey may be relevant secondary mappings; verify the treasure has special
+    or wondrous efficacy.
+  suggested_aliases:
+  - escape_aided_by_delaying_treasure
+  - pursuit_delayed_by_magic_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elopement-to-a-hidden-temporary-forest-home
+  motif_id: elopement_to_a_hidden_temporary_forest_home
+  label: Elopement to a hidden temporary forest home
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on elopement and lovers' refuge, fitting love-driven
+    separation from ordinary social order.
+  cautions: The forest hiding-place may be only episode detail; if the focus is exile
+    or journey ordeal, hero_journey may be a better placement.
+  suggested_aliases:
+  - lovers_flee_to_hidden_forest_refuge
+  - eloping_pair_in_temporary_forest_home
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eloquent-petitions-of-an-injured-peasant
+  motif_id: eloquent_petitions_of_an_injured_peasant
+  label: Eloquent petitions of an injured peasant
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The injured low-status figure petitions for justice, placing the motif
+    in social order, law, and ethical redress.
+  cautions: Could also index to storytelling_as_power if the passage emphasizes eloquence
+    itself as transformative speech; source context is needed.
+  suggested_aliases:
+  - injured_peasant_petitions_for_justice
+  - eloquent_plea_for_redress_by_low_status_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elusive-identity-concealing-figure-sought-by-a-knight
+  motif_id: elusive_identity_concealing_figure_sought_by_a_knight
+  label: Elusive identity-concealing figure sought by a knight
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on concealed identity and a quest to discover or recognize
+    the hidden figure.
+  cautions: If no recognition token or proof scene occurs, hero_journey or sacred_love
+    may fit better depending on why the knight seeks the figure.
+  suggested_aliases:
+  - quest_for_hidden_identity_figure
+  - identity_concealing_figure_sought_by_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embodied-and-environmental-time-reckoning
+  motif_id: embodied_and_environmental_time_reckoning
+  label: Embodied and environmental time reckoning
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif concerns reckoning time through body and environment, aligning
+    with culturally ordered sacred or ritual time.
+  cautions: May be an ethnographic or calendrical practice note rather than a narrative
+    motif; exclude if it is merely descriptive background.
+  suggested_aliases:
+  - time_reckoned_by_body_and_environment
+  - environmental_time_reckoning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embodied-confession-posture
+  motif_id: embodied_confession_posture
+  label: embodied confession posture
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A bodily posture used for confession belongs with ritualized ethical
+    discipline and sacred social order.
+  cautions: Could be too specific as a practice detail; if emphasis is repentance
+    before judgment, divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - ritual_posture_of_confession
+  - bodily_confession_gesture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embodied-explanations-of-lunar-phases
+  motif_id: embodied_explanations_of_lunar_phases
+  label: Embodied explanations of lunar phases
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An etiological explanation for lunar phases fits cosmological origin
+    and ordering of celestial phenomena.
+  cautions: If the explanation centers on a moon-person's transformation or injury,
+    death_and_transformation or divine_judgment may be relevant; preserve local lunar
+    specificity.
+  suggested_aliases:
+  - etiology_of_lunar_phases_through_body
+  - body_based_lunar_phase_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embodied-liberation
+  motif_id: embodied_liberation
+  label: embodied liberation
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: low
+  rationale: The phrase points to liberation or spiritual realization while embodied,
+    broadly fitting mystical transformation.
+  cautions: This is abstract and may be a doctrinal concept rather than a motif; human
+    review should verify passage evidence before indexing.
+  suggested_aliases:
+  - liberation_while_embodied
+  - spiritual_liberation_in_the_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embodied-mourning-code
+  motif_id: embodied_mourning_code
+  label: Embodied mourning code
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif describes bodily regulation or expression of mourning, fitting
+    the lament and mourning complex.
+  cautions: If the passage emphasizes normative ritual law more than grief expression,
+    sacred_law may be an appropriate secondary mapping.
+  suggested_aliases:
+  - bodily_code_of_mourning
+  - ritualized_bodily_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels have single occurrences and abstract or ethnographic wording; treat
+  these as provisional placements and preserve source-context notes.
+- Avoid treating sociological, doctrinal, or editorial observations as narrative motifs
+  unless passage evidence shows recurring symbolic or ritual function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 3377; human review
+    recommended for abstract single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3377
+  input_sha256: 28da181d673b1bd4b37bbebfef96f1328d8a35c3559aad46db4c50bca351fa0b
+

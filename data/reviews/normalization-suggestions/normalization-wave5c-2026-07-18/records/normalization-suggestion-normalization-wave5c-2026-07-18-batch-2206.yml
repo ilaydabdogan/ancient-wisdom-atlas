@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2206
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.luck-bearing-piebald-horse
+  motif_id: luck_bearing_piebald_horse
+  label: luck-bearing piebald horse
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A luck-bearing animal may function as supernatural aid or auspicious
+    guidance, but the label alone does not show agency or narrative function.
+  cautions: Single occurrence and color-specific; could be a local animal omen, power
+    animal, magical mount, or passage detail.
+  suggested_aliases:
+  - auspicious_horse
+  - luck_bearing_animal
+  - piebald_horse_as_good_fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.luminous-figure-with-uncertain-human-or-animal-status
+  motif_id: luminous_figure_with_uncertain_human_or_animal_status
+  label: Luminous figure with uncertain human or animal status
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate theophany, spirit manifestation, shapeshifting,
+    or ambiguous perception, but the figure's role is unclear.
+  cautions: Culturally sensitive spirit/being classification; avoid forcing into shapeshifter
+    or theophany without source evidence.
+  suggested_aliases:
+  - ambiguous_luminous_figure
+  - luminous_human_animal_being
+  - uncertain_luminous_spirit_form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.luminous-horse-jewels-grant-far-sight
+  motif_id: luminous_horse_jewels_grant_far_sight
+  label: Luminous horse jewels grant far sight
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Jewels that grant far sight are power objects conferring supernatural
+    perception; the horse detail appears to be the bearer or source.
+  cautions: Could also relate to sacred_knowledge or magical animal motifs if the
+    animal, not the jewels, is the active source of sight.
+  suggested_aliases:
+  - far_sight_granting_jewels
+  - luminous_jewels_grant_supernatural_vision
+  - horse_jewels_as_power_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.luminous-nocturnal-guide-object-on-an-animal
+  motif_id: luminous_nocturnal_guide_object_on_an_animal
+  label: Luminous nocturnal guide-object on an animal
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A luminous object on an animal guiding at night fits supernatural guidance
+    through an animal or sign.
+  cautions: If the object is the main sacred artifact, sacred_treasures may be a secondary
+    fit; if the animal is a mount, shapeshifter/magical animal evidence should be
+    preserved.
+  suggested_aliases:
+  - animal_borne_luminous_guide
+  - nocturnal_light_guidance_by_animal
+  - luminous_guide_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lure-by-offered-animal-leading-to-killing-of-an-armed-enemy
+  motif_id: lure_by_offered_animal_leading_to_killing_of_an_armed_enemy
+  label: lure by offered animal leading to killing of an armed enemy
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The offered animal functions as bait in a deceptive stratagem that defeats
+    an enemy.
+  cautions: Could also be sacred_combat if the passage frames the killing as warfare
+    rather than trickster deception; single occurrence is highly contextual.
+  suggested_aliases:
+  - animal_bait_lures_enemy
+  - offered_animal_as_deceptive_lure
+  - baited_enemy_killing_by_animal_offer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.luxurious-palace-night-scene-before-later-transformation
+  motif_id: luxurious_palace_night_scene_before_later_transformation
+  label: luxurious palace night scene before later transformation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads as a scene-setting or episode-stage note rather than
+    a reusable motif.
+  cautions: If source evidence shows palace luxury as renunciation trigger or awakening
+    contrast, remap to mystical_quest or renunciation rather than animal/transformation.
+  suggested_aliases:
+  - palace_night_scene_before_transformation
+  - luxury_before_renunciation_or_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-animal-horn-producing-food-and-drink
+  motif_id: magic_animal_horn_producing_food_and_drink
+  label: magic animal horn producing food and drink
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical animal part producing food and drink fits miraculous or inexhaustible
+    provision already grouped under divine_intervention.
+  cautions: If the horn is treated mainly as an object, sacred_treasures or sacred_substance
+    may be useful secondary mappings.
+  suggested_aliases:
+  - animal_horn_of_abundance
+  - magic_horn_produces_food_and_drink
+  - animal_source_of_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-animal-produces-food-on-spoken-command
+  motif_id: magic_animal_produces_food_on_spoken_command
+  label: Magic animal produces food on spoken command
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: An animal producing food by command directly matches miraculous provision
+    and animal source of abundance under divine_intervention.
+  cautions: Spoken-command mechanics may also touch curse_blessing_speech, but the
+    core function is provision.
+  suggested_aliases:
+  - commanded_animal_produces_food
+  - magic_animal_food_provision
+  - animal_source_of_food_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-animal-produces-wealth-on-spoken-command
+  motif_id: magic_animal_produces_wealth_on_spoken_command
+  label: Magic animal produces wealth on spoken command
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical animal producing wealth by command fits miraculous provision
+    or inexhaustible material supply.
+  cautions: Could also map to sacred_treasures if the wealth-producing power is tied
+    to an object or token; check whether greed/judgment reversal is present.
+  suggested_aliases:
+  - commanded_animal_produces_wealth
+  - magic_animal_material_provision
+  - animal_source_of_wealth_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-command-activates-a-wondrous-animal
+  motif_id: magic_command_activates_a_wondrous_animal
+  label: Magic command activates a wondrous animal
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A command activating a wondrous animal may be supernatural aid, enchanted
+    object logic, or performative speech, but the function is unspecified.
+  cautions: Needs evidence for what the animal does after activation; could fit divine_intervention,
+    sacred_treasures, curse_blessing_speech, or shapeshifter.
+  suggested_aliases:
+  - command_activated_wondrous_animal
+  - magic_word_awakens_animal
+  - spoken_command_controls_magic_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch involve magical animals as sources of abundance or
+  guidance; existing divine_intervention already contains animal_helpers, animal_source_of_abundance,
+  miraculous_provision, and inexhaustible provision aliases, so new groups are not
+  recommended here.
+- Single-occurrence animal color, luminosity, and scene-setting labels should be preserved
+  cautiously as evidence details unless source review confirms recurring narrative
+  function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; ambiguous luminous/spirit and command-activation
+    labels need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2206
+  input_sha256: 0a92f06667e137968fee7cc35b085c6cb58bc0bf15743a17b1b3461ebbf3ca82
+

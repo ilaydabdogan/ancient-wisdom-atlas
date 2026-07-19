@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3117
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.regnal-succession-chronology
+  motif_id: regnal_succession_chronology
+  label: regnal succession chronology
+  occurrences: 2
+  traditions:
+  - buddhist
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a chronological or historiographic ordering of rulers
+    rather than a symbolic or narrative motif.
+  cautions: If passages use succession to legitimate sacred kingship, index that evidence
+    separately under royal_legitimacy.
+  suggested_aliases:
+  - king_list_chronology
+  - dynastic_succession_chronology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renovation-of-the-universe
+  motif_id: renovation_of_the_universe
+  label: renovation of the universe
+  occurrences: 2
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: high
+  rationale: The label describes cosmic renewal or restoration of the universe after
+    transformation, fitting the catastrophe-renewal complex.
+  cautions: Zoroastrian theological specificity should be preserved; do not assume
+    flood or fire unless the passage states the mode of renewal.
+  suggested_aliases:
+  - cosmic_renovation
+  - world_renovation
+  - universal_restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rule-issued-after-reported-conduct
+  motif_id: rule_issued_after_reported_conduct
+  label: Rule issued after reported conduct
+  occurrences: 2
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes a legal/editorial framing formula for rule origin
+    rather than a reusable mythic motif.
+  cautions: If the conduct itself is ritually or ethically significant, map that underlying
+    action under sacred_law, covenant, or divine_judgment rather than this generated
+    label.
+  suggested_aliases:
+  - disciplinary_rule_framed_by_reported_conduct
+  - rule_origin_after_misconduct_report
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rule-issued-after-reported-practical-problem
+  motif_id: rule_issued_after_reported_practical_problem
+  label: Rule issued after reported practical problem
+  occurrences: 2
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to be a textual/legal origin formula explaining why a rule
+    was promulgated, not a motif in itself.
+  cautions: If the rule expresses sacred discipline or ritual prohibition, index the
+    substantive rule under sacred_law with the practical problem as evidence detail.
+  suggested_aliases:
+  - rule_origin_after_practical_problem
+  - disciplinary_rule_from_reported_problem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scout-concealment-with-vegetation
+  motif_id: scout_concealment_with_vegetation
+  label: scout concealment with vegetation
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be a tactical episode, disguise motif, or culturally specific
+    war-story detail; function is unclear without passage evidence.
+  cautions: Do not map to sacred_tree_axis merely because vegetation appears. Could
+    fit trickster, sacred_combat, shapeshifter/disguise, or be too contextual.
+  suggested_aliases:
+  - concealment_with_vegetation
+  - vegetation_camouflage_for_scout
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-cure-through-imagination-and-faith
+  motif_id: shamanic_cure_through_imagination_and_faith
+  label: Shamanic cure through imagination and faith
+  occurrences: 2
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns ritual healing but current groups only partially cover
+    healing under divine_intervention, soul_loss_restoration, or sacred_knowledge.
+  cautions: Culturally sensitive wording and possible interpretive language require
+    source review; avoid reducing Indigenous healing practice to generic imagination
+    or faith.
+  suggested_aliases:
+  - shamanic_healing_by_imagination_and_faith
+  - ritual_cure_through_imaginative_faith
+  suggested_new_group:
+    id: ritual_healing
+    label: Ritual Healing and Supernatural Cure
+    description: Healing, curing, or restoration of sickness through ritual specialists,
+      sacred power, spirit agency, prayer, soul retrieval, or other nonordinary means.
+    parent_group_ids:
+    - divine_intervention
+    related_group_ids:
+    - soul_loss_restoration
+    - sacred_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups include intervention and
+      soul restoration, but no durable broad group covers recurrent healing rites
+      when the mechanism is not specifically soul loss, exorcism, or divine rescue.
+- suggestion_id: normalization.suggestion.shamanic-healing-through-imagination-will-and-faith
+  motif_id: shamanic_healing_through_imagination_will_and_faith
+  label: shamanic healing through imagination, will, and faith
+  occurrences: 2
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a close variant of shamanic cure through imagination and faith,
+    but the healing mechanism and cultural framing need evidence review.
+  cautions: Likely should be merged with the related shamanic-cure label if validated;
+    avoid imposing psychological categories not present in the source.
+  suggested_aliases:
+  - shamanic_cure_through_imagination_and_faith
+  - shamanic_healing_by_will_and_faith
+  suggested_new_group:
+    id: ritual_healing
+    label: Ritual Healing and Supernatural Cure
+    description: Healing, curing, or restoration of sickness through ritual specialists,
+      sacred power, spirit agency, prayer, soul retrieval, or other nonordinary means.
+    parent_group_ids:
+    - divine_intervention
+    related_group_ids:
+    - soul_loss_restoration
+    - sacred_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups do not cleanly hold general
+      ritual healing unless it is specifically soul restoration, exorcism, or divine
+      intervention.
+- suggestion_id: normalization.suggestion.sickness-cured-by-supernatural-means
+  motif_id: sickness_cured_by_supernatural_means
+  label: Sickness cured by supernatural means
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural cure is direct sacred or spirit action in human illness,
+    which fits divine_intervention as a broad holding group.
+  cautions: If the cure uses soul retrieval, map secondarily to soul_loss_restoration;
+    if it uses specialist ritual practice, a future ritual_healing group may be preferable.
+  suggested_aliases:
+  - supernatural_healing_of_sickness
+  - sickness_cured_by_sacred_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sitting-with-a-turtle
+  motif_id: sitting_with_a_turtle
+  label: sitting with a turtle
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too context-poor to determine whether the turtle is a helper,
+    ancestor, world-bearing being, trickster figure, or passage detail.
+  cautions: Do not map to cosmic_origin or animal motifs without evidence of turtle’s
+    narrative function; may be an over-specific scene label.
+  suggested_aliases:
+  - encounter_with_turtle
+  - turtle_companion_scene
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slaughter-of-sleeping-or-intoxicated-enemies
+  motif_id: slaughter_of_sleeping_or_intoxicated_enemies
+  label: slaughter of sleeping or intoxicated enemies
+  occurrences: 2
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a combat episode involving enemy vulnerability and
+    massacre, best held under sacred_combat rather than divine warrior by default.
+  cautions: If emphasis is betrayal of hospitality, drunken feast deception, or moral
+    reckoning, betrayal_violated_trust or divine_judgment may be secondary mappings.
+  suggested_aliases:
+  - massacre_of_sleeping_enemies
+  - slaughter_of_intoxicated_enemies
+  - attack_on_sleeping_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be textual/legal framing artifacts rather
+  than motifs; preserve substantive passage evidence separately where possible.
+- The shamanic healing labels are likely related and should be reviewed together with
+  culturally careful terminology before any durable group is created.
+- Avoid mapping animal or plant terms by symbol alone; use narrative function where
+  source evidence supports it.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human taxonomy review required
+    for ritual healing candidates and context-poor Native American Great Lakes labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3117
+  input_sha256: 528f052a998ced2d5f554306e21bca828ef6f1b64645f1ef20c006b9dec123af
+

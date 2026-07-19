@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1115
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ruler-ritually-honors-elders
+  motif_id: ruler_ritually_honors_elders
+  label: Ruler ritually honors elders
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritualized honoring of elders expresses sacred social order and filial
+    hierarchy rather than sacrifice proper.
+  cautions: Single Confucian occurrence; if passage focuses on rulership legitimacy,
+    royal_legitimacy may be a secondary fit.
+  suggested_aliases:
+  - ritual_honor_to_elders
+  - filial_ritual_hierarchy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-s-longevity-as-a-blessing
+  motif_id: ruler_s_longevity_as_a_blessing
+  label: Ruler’s longevity as a blessing
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A ruler's long life functions as auspicious confirmation of ordered and
+    legitimate rule.
+  cautions: May be only a courtly blessing formula; review whether sacred sanction
+    or political legitimacy is explicit.
+  suggested_aliases:
+  - longevity_blessing_for_ruler
+  - ruler_longevity_as_auspicious_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-slain-by-son-or-sons-in-a-temple
+  motif_id: ruler_slain_by_son_or_sons_in_a_temple
+  label: ruler slain by son or sons in a temple
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kin-slaying, royal death, and temple setting without
+    enough evidence for a stable motif placement.
+  cautions: Could involve royal succession, sacrilege, divine judgment, or a passage-specific
+    historical episode; temple setting alone should not force ritual mapping.
+  suggested_aliases:
+  - regicide_in_temple_by_sons
+  - filial_regicide_in_sacred_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-sponsored-restoration-of-sacred-or-authoritative-tradition
+  motif_id: ruler_sponsored_restoration_of_sacred_or_authoritative_tradition
+  label: ruler-sponsored restoration of sacred or authoritative tradition
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ruler restores authoritative tradition to affirm proper order and legitimate
+    rule.
+  cautions: If the passage emphasizes textual preservation or teaching rather than
+    rulership, sacred_knowledge may be a secondary mapping.
+  suggested_aliases:
+  - royal_restoration_of_sacred_tradition
+  - ruler_restores_authoritative_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rumor-spreading-divine-prophecy-before-conflict
+  motif_id: rumor_spreading_divine_prophecy_before_conflict
+  label: Rumor spreading divine prophecy before conflict
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is a divine prophecy circulating before conflict, a
+    prophetic warning or omen context.
+  cautions: If the emphasis is political rumor, propaganda, or battlefield morale
+    rather than sacred foreknowledge, treat as contextual evidence.
+  suggested_aliases:
+  - divine_prophecy_circulates_before_conflict
+  - pre_conflict_prophecy_rumor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rustic-god-protects-flocks-and-receives-cave-consecration
+  motif_id: rustic_god_protects_flocks_and_receives_cave_consecration
+  label: rustic god protects flocks and receives cave consecration
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label merges pastoral divine protection, local cult, and cave consecration,
+    each pointing to different groups.
+  cautions: Could fit divine_intervention, sacred_exchange, otherworld/cave liminality,
+    or local cult-topography; avoid collapsing pastoral deity identity into a broad
+    motif without passage evidence.
+  suggested_aliases:
+  - pastoral_god_protects_flocks
+  - cave_consecration_to_rustic_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sabbath-shared-by-god-israel-and-chief-angels
+  motif_id: sabbath_shared_by_god_israel_and_chief_angels
+  label: Sabbath shared by God, Israel, and chief angels
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: The Sabbath is an established sacred-time cycle shared across divine,
+    angelic, and communal participants.
+  cautions: Specific angelic participation should remain evidence detail; covenant
+    may be a secondary relation if the passage stresses Israel's bond.
+  suggested_aliases:
+  - sabbath_shared_with_angels
+  - cosmic_sabbath_participation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacral-naming-of-monastic-places-through-a-holy-figure-s-acts
+  motif_id: sacral_naming_of_monastic_places_through_a_holy_figure_s_acts
+  label: Sacral naming of monastic places through a holy figure's acts
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing group already includes place-name etiologies from sacred
+    or heroic events.
+  cautions: If the label is mainly hagiographic site provenance or monastic geography,
+    it may be too contextual for pattern queries.
+  suggested_aliases:
+  - sacred_place_naming_by_holy_acts
+  - monastic_place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacral-regulation-of-ritual-time
+  motif_id: sacral_regulation_of_ritual_time
+  label: Sacral regulation of ritual time
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: alias
+  confidence: high
+  rationale: This is a direct formulation of ritual time ordered by sacred rule or
+    calendar.
+  cautions: Preserve Zoroastrian calendar specifics in evidence notes rather than
+    creating a separate motif from one occurrence.
+  suggested_aliases:
+  - sacred_regulation_of_ritual_time
+  - ritual_time_under_sacred_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacralized-childhood-place-of-a-holy-figure
+  motif_id: sacralized_childhood_place_of_a_holy_figure
+  label: sacralized childhood place of a holy figure
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A holy figure's childhood site may be sacred geography, hagiographic
+    memory, or pilgrimage provenance rather than a narrative motif.
+  cautions: Single occurrence and place-specific; could map to axis_mundi/sacred_geography
+    only if the site functions as a sacred center or pilgrimage locus.
+  suggested_aliases:
+  - holy_childhood_place_sacralized
+  - sacred_childhood_site_of_holy_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence labels tied to ritual, royal, or hagiographic
+  contexts; suggested placements should be checked against passage evidence before
+  indexing broadly.
+- Do not infer historical transmission or shared origin from these normalization placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1115
+  input_sha256: 5c95a30fac5864de54f735b007a0ede0c704a60db1b00d962f64bfba0e5a7325
+

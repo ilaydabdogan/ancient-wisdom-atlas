@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3864
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.refusal-to-kill-sleeping-enemies
+  motif_id: refusal_to_kill_sleeping_enemies
+  label: Refusal to kill sleeping enemies
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The refusal concerns conduct and honor within combat, especially restraint
+    toward incapacitated enemies.
+  cautions: Single occurrence; if framed as mercy or sacred law rather than battle
+    honor, covenant or sacred_law may be better.
+  suggested_aliases:
+  - refusal_to_kill_sleeping_foes
+  - combat_restraint_toward_sleeping_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-look-upon-religious-others
+  motif_id: refusal_to_look_upon_religious_others
+  label: Refusal to look upon religious others
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate ritual purity, sectarian boundary-making, social
+    contempt, or a passage-specific religious polemic.
+  cautions: Culturally sensitive and context-dependent; do not normalize without source
+    evidence about whether this is law, prejudice, taboo, or narrative characterization.
+  suggested_aliases:
+  - refusal_to_behold_religious_others
+  - avoidance_of_religious_others
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-release-captives-because-of-prior-obligation-or-hostility
+  motif_id: refusal_to_release_captives_because_of_prior_obligation_or_hostility
+  label: Refusal to release captives because of prior obligation or hostility
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a binding obligation overriding mercy or release,
+    fitting covenantal/social bond logic.
+  cautions: Could also fit sacred_combat if captivity is a war-prize episode; preserve
+    hostility and obligation details as evidence.
+  suggested_aliases:
+  - captives_not_released_due_to_obligation
+  - refusal_of_captive_release_under_prior_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-surrender-claimed-goods-or-place
+  motif_id: refusal_to_surrender_claimed_goods_or_place
+  label: refusal to surrender claimed goods or place
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusal to yield contested property or territory commonly functions as
+    a conflict trigger or war-honor motif.
+  cautions: If the passage is legal ownership rather than combat escalation, sacred_law
+    or covenant may be better; label is broad and contextual.
+  suggested_aliases:
+  - refusal_to_yield_claimed_property
+  - refusal_to_surrender_contested_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-surrender-in-an-uneven-fight
+  motif_id: refusal_to_surrender_in_an_uneven_fight
+  label: refusal to surrender in an uneven fight
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A warrior's refusal to yield despite unequal odds aligns with heroic
+    steadfastness and last-stand combat motifs already grouped under divine_warrior.
+  cautions: May be purely heroic rather than divine; if no sacred or exemplary framing
+    is present, keep as a granular combat evidence label.
+  suggested_aliases:
+  - heroic_refusal_to_surrender_against_odds
+  - last_stand_refusal_to_yield
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-surrender-s-t
+  motif_id: refusal_to_surrender_s_t
+  label: refusal to surrender Sítá
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The episode-specific refusal concerns possession or retention of a beloved/spouse
+    figure, fitting the sacred love and marriage-conflict field.
+  cautions: The named-person label is too specific for broad queries; if the passage
+    emphasizes abduction and quest, stolen_beloved or hero_journey may be a better
+    secondary mapping.
+  suggested_aliases:
+  - refusal_to_surrender_abducted_beloved
+  - refusal_to_return_sita
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-surrender-spouse-under-royal-pressure
+  motif_id: refusal_to_surrender_spouse_under_royal_pressure
+  label: refusal to surrender spouse under royal pressure
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on fidelity or marital possession under coercive power,
+    fitting sacred_love's marriage and loyalty cluster.
+  cautions: Could also index under royal_legitimacy or covenant if the narrative emphasizes
+    abuse of royal authority or binding obligation more than love.
+  suggested_aliases:
+  - spouse_refused_to_ruler
+  - refusal_to_yield_spouse_under_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-walk-on-the-ground
+  motif_id: refusal_to_walk_on_the_ground
+  label: Refusal to walk on the ground
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The action could signal taboo, royal status, ritual danger, pride, disability,
+    or passage-specific characterization.
+  cautions: Requires cultural and source context before mapping; avoid assuming axis,
+    ascent, or sacred-law meaning from the label alone.
+  suggested_aliases:
+  - avoidance_of_touching_the_ground
+  - refusal_to_set_foot_on_earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuse-mound-as-evidence-of-lifeway
+  motif_id: refuse_mound_as_evidence_of_lifeway
+  label: refuse mound as evidence of lifeway
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes archaeological or ethnographic evidence interpretation
+    rather than a narrative or symbolic motif.
+  cautions: Preserve as provenance or lifeway evidence if useful, but exclude from
+    motif pattern queries.
+  suggested_aliases:
+  - refuse_mound_lifeway_evidence
+  - midden_as_evidence_of_lifeway
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refused-captive-gift-followed-by-killing-of-the-captive
+  motif_id: refused_captive_gift_followed_by_killing_of_the_captive
+  label: refused captive-gift followed by killing of the captive
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The composite label mixes gift refusal, captivity, and killing; its function
+    could be sacrifice, sacred exchange failure, combat violence, or passage-specific
+    episode detail.
+  cautions: Single occurrence and potentially culturally sensitive violence/captivity
+    context; review source evidence before broad mapping.
+  suggested_aliases:
+  - captive_gift_refused_and_captive_killed
+  - refusal_of_captive_as_gift_before_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence refusal patterns; many may be episode-specific
+  and should remain granular evidence unless recurrence is demonstrated.
+- 'Avoid treating refusal language as a single motif family: some cases express combat
+  honor, some sacred obligation, some marital fidelity, and some require cultural
+  context.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages should be checked
+    for single-occurrence refusal and culturally sensitive labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3864
+  input_sha256: 780ce94aeb4cc56c8ba538d7f862926161bd4c9d86d1c5f7d88fd23a9729c8f4
+

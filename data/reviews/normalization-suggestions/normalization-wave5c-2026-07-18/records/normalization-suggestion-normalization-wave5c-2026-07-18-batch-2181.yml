@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2181
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.herb-that-heals-or-attracts-horses
+  motif_id: herb_that_heals_or_attracts_horses
+  label: Herb that heals or attracts horses
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines plant medicine, animal attraction, and possible horse
+    magic without enough function to choose sacred_substance, animal_helpers, or sacred_treasures.
+  cautions: Single occurrence and culturally specific; review source evidence before
+    treating medicinal or attraction use as a pattern motif.
+  suggested_aliases:
+  - horse_healing_herb
+  - horse_attracting_herb
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.herd-boy-s-lamb-rescued-from-wolf
+  motif_id: herd_boy_s_lamb_rescued_from_wolf
+  label: herd-boy's lamb rescued from wolf
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A rescue of vulnerable livestock from a predator may fit protective intervention
+    or animal-helper rescue if supernatural agency is present.
+  cautions: If no sacred or supernatural agency is present, this may be a simple folktale
+    episode and should be excluded or kept as evidence detail.
+  suggested_aliases:
+  - lamb_rescued_from_wolf
+  - vulnerable_animal_rescued_from_predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-accompanied-by-hunting-birds-hound-and-chained-dragon
+  motif_id: hero_accompanied_by_hunting_birds_hound_and_chained_dragon
+  label: hero accompanied by hunting birds, hound, and chained dragon
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The key reusable pattern is a hero accompanied by extraordinary animal
+    or monster helpers, already covered near animal_helpers under divine_intervention.
+  cautions: The chained dragon may instead mark conquered chaos, threshold guardianship,
+    or an over-specific retinue detail depending on passage evidence.
+  suggested_aliases:
+  - hero_with_animal_helpers
+  - hero_with_hunting_birds_hound_and_dragon
+  - extraordinary_animal_retinue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-and-horse-episode
+  motif_id: hero_and_horse_episode
+  label: hero and horse episode
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label is too generic and episode-like to identify a stable motif
+    or narrative function.
+  cautions: If the passage shows a magical horse, animal helper, recognition horse,
+    or heroic mount, remap to the appropriate specific motif rather than preserving
+    this label.
+  suggested_aliases:
+  - hero_horse_episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-as-destructive-elemental-and-animal-force
+  motif_id: hero_as_destructive_elemental_and_animal_force
+  label: hero as destructive elemental and animal force
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A hero likened to destructive elemental and animal forces fits the divine-warrior
+    cluster of overwhelming martial power and destructive battle imagery.
+  cautions: May be poetic simile rather than motif; avoid mapping to shapeshifter
+    unless actual transformation occurs.
+  suggested_aliases:
+  - destructive_hero_likened_to_elemental_force
+  - warrior_as_elemental_and_animal_force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-compared-to-a-predatory-lion
+  motif_id: hero_compared_to_a_predatory_lion
+  label: hero compared to a predatory lion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Predatory-lion comparison is a martial image of heroic ferocity, fitting
+    the divine_warrior/sacred combat field.
+  cautions: Likely a poetic simile; preserve as evidence detail and do not treat as
+    animal transformation.
+  suggested_aliases:
+  - warrior_likened_to_predatory_lion
+  - hero_lion_simile
+  - lion_like_heroic_ferocity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-compared-to-hunted-wild-animal
+  motif_id: hero_compared_to_hunted_wild_animal
+  label: hero compared to hunted wild animal
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A hero as hunted animal may express doomed vulnerability and tragic recognition
+    rather than literal animal transformation.
+  cautions: Could fit divine_warrior if the comparison emphasizes combat ferocity;
+    likely a poetic image and may be over-specific.
+  suggested_aliases:
+  - hero_likened_to_hunted_animal
+  - doomed_hero_as_hunted_beast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-facing-human-druidic-and-animal-adversaries
+  motif_id: hero_facing_human_druidic_and_animal_adversaries
+  label: hero facing human, druidic, and animal adversaries
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label lists a particular set of adversaries rather than a reusable
+    motif function.
+  cautions: If source evidence emphasizes magical opposition, animal adversaries,
+    or heroic combat ordeal, remap to sacred_combat, divine_warrior, or threshold_guardian
+    as appropriate.
+  suggested_aliases:
+  - mixed_human_magical_and_animal_adversaries
+  - hero_faces_multiple_adversary_types
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-in-disguise
+  motif_id: hero_in_disguise
+  label: hero in disguise
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Disguise changes the hero's visible identity and social status, fitting
+    the broader transformation/hidden-form function.
+  cautions: If disguise is primarily strategic deception rather than altered identity,
+    trickster or recognition_tokens_hidden_identity may be better secondary mappings.
+  suggested_aliases:
+  - disguised_hero
+  - hero_hidden_under_disguise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-in-minstrel-disguise-at-a-feast
+  motif_id: hero_in_minstrel_disguise_at_a_feast
+  label: hero in minstrel disguise at a feast
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero appearing under minstrel disguise at a public feast centers on
+    hidden identity and eventual recognition or disclosure.
+  cautions: Could map to storytelling_as_power if the minstrel role or song is the
+    operative power; feast setting may be incidental.
+  suggested_aliases:
+  - minstrel_disguise_at_feast
+  - hero_hidden_as_minstrel
+  - disguised_hero_at_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several animal-bucket labels are poetic comparisons or episode summaries rather
+  than animal-transformation motifs; source evidence should determine whether they
+  remain searchable.
+- No transmission or borrowing claims are implied by these provisional placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2181
+  input_sha256: 492df00765dcfeb3d2dacf7e2c43d57f93ba3cc5d4dbe9213caebe81f9b01ff6
+

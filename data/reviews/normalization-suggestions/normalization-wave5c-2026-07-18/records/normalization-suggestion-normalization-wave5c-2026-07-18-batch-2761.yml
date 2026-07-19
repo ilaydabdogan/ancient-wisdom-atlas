@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2761
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.monster-with-a-single-vulnerable-body-part
+  motif_id: monster_with_a_single_vulnerable_body_part
+  label: Monster with a single vulnerable body part
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: alias
+  confidence: high
+  rationale: Close synonym of existing vulnerable-point and monster-invulnerability
+    children in this group.
+  cautions: Single occurrence; preserve the specific body part in evidence notes if
+    known.
+  suggested_aliases:
+  - monster_with_a_single_vulnerable_point
+  - monster_slaying_through_single_vulnerable_body_part
+  - vulnerable_monster_body_part
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-with-a-single-vulnerable-point
+  motif_id: monster_with_a_single_vulnerable_point
+  label: Monster with a single vulnerable point
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: alias
+  confidence: high
+  rationale: Directly matches the vulnerable-point structure already represented by
+    the group aliases and children.
+  cautions: Likely duplicate of monster_with_a_single_vulnerable_body_part; merge
+    only if passage evidence confirms same function.
+  suggested_aliases:
+  - monster_with_a_single_vulnerable_body_part
+  - vulnerable_point_on_monster
+  - single_vulnerable_point
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-woman-seizes-and-woos-a-hero
+  motif_id: monster_woman_seizes_and_woos_a_hero
+  label: Monster-woman seizes and woos a hero
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines monstrous abduction, erotic pursuit, and hero ordeal; existing
+    groups split these functions across sacred_love, threshold_guardian, shapeshifter,
+    and sacred_combat.
+  cautions: Culturally sensitive and gendered wording; source context needed to know
+    whether the figure is a demoness, shapeshifter, spouse-seeker, threshold threat,
+    or episode-specific antagonist.
+  suggested_aliases:
+  - monster_woman_abducts_and_woos_hero
+  - demoness_seizes_and_desires_hero
+  - monstrous_female_suitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-appetite-before-battle
+  motif_id: monstrous_appetite_before_battle
+  label: monstrous appetite before battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could signal demonic characterization, battle fury, ritual feasting,
+    or a narrative detail before combat.
+  cautions: Single occurrence and too contextual to map confidently; do not collapse
+    into sacred_combat unless appetite functions as a recurring combat sign or ordeal.
+  suggested_aliases:
+  - pre_battle_monstrous_appetite
+  - demonic_appetite_before_combat
+  - voracious_warrior_before_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-body-weapons-broken-in-combat
+  motif_id: monstrous_body_weapons_broken_in_combat
+  label: monstrous body-weapons broken in combat
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a combat action where a monster's bodily weapons
+    are neutralized in battle.
+  cautions: If the broken body-weapons reveal an invulnerability loophole, conditional_invulnerability_hidden_weakness
+    may be a better secondary mapping; otherwise it may be an over-specific fight
+    detail.
+  suggested_aliases:
+  - monster_body_weapons_broken_in_battle
+  - bodily_weapons_neutralized_in_combat
+  - monstrous_weapon_limbs_broken
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-enemy-described-by-captive-informant
+  motif_id: monstrous_enemy_described_by_captive_informant
+  label: Monstrous enemy described by captive informant
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes an information-delivery scene rather than a durable
+    symbolic or narrative motif.
+  cautions: If the captive informant reveals a hidden weakness or initiates a rescue
+    strategy, map that specific function instead; otherwise preserve as plot evidence
+    only.
+  suggested_aliases:
+  - captive_informant_describes_enemy
+  - enemy_description_by_captive
+  - captive_reports_monstrous_foe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortally-wounded-warrior-left-with-weapon-for-final-defense
+  motif_id: mortally_wounded_warrior_left_with_weapon_for_final_defense
+  label: mortally wounded warrior left with weapon for final defense
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dying warrior armed for a final defense fits heroic combat, warrior
+    honor, and battle-death patterns under divine_warrior.
+  cautions: Could also relate to lament_and_mourning or heroic_funeral_rites if the
+    passage emphasizes the aftermath rather than the final defense.
+  suggested_aliases:
+  - wounded_warrior_makes_final_defense
+  - dying_warrior_left_armed
+  - mortally_wounded_defender_with_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mounted-charge-that-divides-the-enemy-line
+  motif_id: mounted_charge_that_divides_the_enemy_line
+  label: Mounted charge that divides the enemy line
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a tactical battle episode within the broader sacred combat and
+    warfare group.
+  cautions: May be too specific for broad pattern queries unless the mounted charge
+    has ritual, heroic, or supernatural significance in the source.
+  suggested_aliases:
+  - mounted_charge_splits_enemy_line
+  - cavalry_charge_divides_enemy
+  - rider_breaks_enemy_line
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-companion-redirected-into-revenge
+  motif_id: mourning_companion_redirected_into_revenge
+  label: mourning companion redirected into revenge
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is grief over a companion transforming into retaliatory
+    action.
+  cautions: If revenge is the primary narrative engine, sacred_combat or divine_judgment
+    may be useful secondary mappings; avoid losing the mourning-to-vengeance sequence.
+  suggested_aliases:
+  - grief_redirected_into_revenge
+  - mourning_turns_to_vengeance
+  - companion_lament_becomes_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-despite-battlefield-success
+  motif_id: mourning_despite_battlefield_success
+  label: Mourning despite battlefield success
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif emphasizes grief and tragic recognition overriding victory
+    in battle.
+  cautions: Single occurrence; may be a contextual emotional note unless the passage
+    frames mourning after victory as a recurring heroic pattern.
+  suggested_aliases:
+  - grief_despite_victory
+  - mourning_after_successful_battle
+  - victory_shadowed_by_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence combat micro-scenes; map only when the narrative
+  function is clear, and preserve episode-specific details as evidence notes.
+- Monster and gendered-antagonist labels should be reviewed against source wording
+  before canonical grouping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2761
+  input_sha256: 1c6e46c7ef7e2d731b8de77728a21ab5fd3a68f8aa44c5efc1ee066c4f9d7dd2
+

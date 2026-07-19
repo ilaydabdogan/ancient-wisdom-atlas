@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3291
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.contact-magic-through-severed-bodily-parts
+  motif_id: contact_magic_through_severed_bodily_parts
+  label: Contact magic through severed bodily parts
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Contact magic through body parts fits the existing sacred-law cluster
+    of sympathetic magic, taboo, contagion, and ritual handling of dangerous substances.
+  cautions: Could instead be sacred_treasures, sacred_combat trophy magic, or meta-comparative
+    folklore terminology depending on source evidence.
+  suggested_aliases:
+  - sympathetic_magic_by_contact
+  - contact_magic_with_body_parts
+  - severed_body_part_contact_magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contact-mediated-technology-adoption
+  motif_id: contact_mediated_technology_adoption
+  label: Contact-mediated technology adoption
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like historical or ethnographic contact commentary rather
+    than a mythic motif, but it may refer to a culture-hero or sacred-craft episode.
+  cautions: Do not infer transmission or borrowing from a normalization label; review
+    passage evidence before mapping. If it is merely historical technology diffusion,
+    exclude from motif queries.
+  suggested_aliases:
+  - technology_adoption_through_contact
+  - borrowed_technology
+  - introduced_craft_or_tool
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contact-transfer-from-anointed-victim
+  motif_id: contact_transfer_from_anointed_victim
+  label: contact transfer from anointed victim
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An anointed victim transferring a condition by contact fits sacrificial
+    transference, scapegoat, or ritual transfer patterns already under sacrifice.
+  cautions: If no offering, victim, or expulsion is present, sacred_law/spirit-contagion
+    may be a better placement. Source evidence should clarify what is transferred.
+  suggested_aliases:
+  - contact_transference_from_sacrificial_victim
+  - anointed_victim_transfer
+  - ritual_contact_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contact-triggered-capture-of-game-pieces
+  motif_id: contact_triggered_capture_of_game_pieces
+  label: contact-triggered capture of game pieces
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a rule of play or ethnographic game mechanics rather
+    than a symbolic narrative motif.
+  cautions: If the game is ritually charged or divinatory, review for sacred_law or
+    prophecy_divination; otherwise preserve only as contextual evidence.
+  suggested_aliases:
+  - game_piece_capture_by_contact
+  - contact_capture_rule
+  - game_rule_contact_capture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contagion-tag-by-touch
+  motif_id: contagion_tag_by_touch
+  label: Contagion tag by touch
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Transmission of danger or status by touch fits the sacred-law cluster
+    for taboo, spirit contagion, and apotropaic regulation.
+  cautions: The phrase may describe a game-like rule, local ritual practice, or generated
+    shorthand; verify whether sacred danger or pollution is actually present.
+  suggested_aliases:
+  - contagion_by_touch
+  - touch_transfers_contagion
+  - taboo_transmission_by_touch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contagion-through-connection-and-separation
+  motif_id: contagion_through_connection_and_separation
+  label: contagion through connection and separation
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual contagion controlled by contact, connection, or separation fits
+    sacred law, purity, and taboo regulation.
+  cautions: Zoroastrian purity law is culturally specific; human review should preserve
+    local legal and ritual distinctions rather than overgeneralizing as generic contagion.
+  suggested_aliases:
+  - ritual_contagion_by_connection
+  - purity_contagion_through_contact_and_separation
+  - contact_and_separation_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contagious-communal-crying
+  motif_id: contagious_communal_crying
+  label: Contagious communal crying
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Communal crying that spreads through a group fits collective lament and
+    mourning practices.
+  cautions: If the emphasis is emotional contagion as magic or social imitation rather
+    than mourning for loss, source evidence may require sacred_law or storytelling_as_power
+    instead.
+  suggested_aliases:
+  - communal_crying
+  - collective_contagious_lament
+  - spread_of_communal_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contagious-harm-through-food-remnants
+  motif_id: contagious_harm_through_food_remnants
+  label: Contagious harm through food remnants
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Harm transmitted through remnants of food fits taboo, pollution, sympathetic
+    magic, and ritual handling rules under sacred law.
+  cautions: Could overlap with sacred_substance if the food itself is ritually potent,
+    or with trickster/betrayal if harmful remnants are used deceitfully.
+  suggested_aliases:
+  - harm_by_food_remnants
+  - contagion_from_leftover_food
+  - food_remnant_contact_magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contagious-mourning-or-spell-of-emotional-imitation
+  motif_id: contagious_mourning_or_spell_of_emotional_imitation
+  label: Contagious mourning or spell of emotional imitation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes collective mourning with magical compulsion or imitation,
+    and the dominant function cannot be determined from the label alone.
+  cautions: Map to lament_and_mourning if grief ritual is central; map to storytelling_as_power
+    or enchanting_music if a spell/voice compels emotion; map to sacred_law only if
+    contagion taboo is central.
+  suggested_aliases:
+  - contagious_mourning
+  - spell_of_emotional_imitation
+  - compelled_collective_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.containment-and-protection-of-medical-implements
+  motif_id: containment_and_protection_of_medical_implements
+  label: Containment and protection of medical implements
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual protection of tools, monastic discipline,
+    or a practical medical-instrument rule rather than a mythic motif.
+  cautions: If implements function as sacred or dangerous objects, sacred_treasures
+    or sacred_law may fit; if this is merely procedural or commentary, exclude from
+    pattern queries.
+  suggested_aliases:
+  - protected_medical_implements
+  - ritual_containment_of_healing_tools
+  - sacred_handling_of_medical_tools
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern contact, contagion, sympathetic magic, or ritual
+  purity; sacred_law is the best existing broad group, but source evidence should
+  distinguish taboo law, healing practice, sacrifice, and commentary artifacts.
+- No transmission or borrowing claim is implied by any suggested placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; single-occurrence and culturally
+    specific labels require human evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3291
+  input_sha256: 599070d0695422aa00d89d8dbc2e26c2769344f61a1859978850fcd2fa1a401b
+

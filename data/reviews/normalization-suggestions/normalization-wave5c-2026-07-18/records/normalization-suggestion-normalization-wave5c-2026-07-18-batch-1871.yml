@@ -1,0 +1,335 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1871
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.human-animal-hybrid-birth
+  motif_id: human_animal_hybrid_birth
+  label: human-animal hybrid birth
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: Hybrid birth may indicate species-boundary transformation or animal-human
+    ancestry, but the narrative function is unclear from the label alone.
+  cautions: Single occurrence; could instead belong with miraculous_child, sacred_birth,
+    divine_race, or a future animal-spouse/animal-ancestor group depending on source
+    evidence.
+  suggested_aliases:
+  - animal-human hybrid birth
+  - hybrid child birth
+  - birth of human-animal offspring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-animal-marriage
+  motif_id: human_animal_marriage
+  label: Human-animal marriage
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Spouse and Human-Animal Marriage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Human-animal marriage is a recurring cross-cultural spouse/affinal relationship
+    motif not cleanly captured by shapeshifting or sacred_love alone.
+  cautions: Do not assume literal species identity versus disguised spirit, animal-person,
+    clan ancestor, or transformed human without passage evidence.
+  suggested_aliases:
+  - animal spouse
+  - human-animal spouse union
+  - marriage to an animal being
+  suggested_new_group:
+    id: animal_spouse_human_animal_marriage
+    label: Animal Spouse and Human-Animal Marriage
+    description: Marriage, sexual union, household formation, or affinal relationship
+      between a human and an animal, animal-person, or animal-form supernatural being,
+      often involving boundary crossing, kinship, offspring, taboo, or transformation.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - miraculous_child
+    - otherworld
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover love, shapeshifting,
+      and otherworld contact, but none directly preserve the kinship and marriage
+      function of human-animal spouse traditions.
+- suggestion_id: normalization.suggestion.human-animal-marriage-and-household
+  motif_id: human_animal_marriage_and_household
+  label: human-animal marriage and household
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Spouse and Human-Animal Marriage
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a more specific domestic/household variant of human-animal marriage.
+  cautions: Household detail should be preserved as evidence; source may emphasize
+    social order, taboo, or transformation more than love.
+  suggested_aliases:
+  - animal spouse household
+  - human-animal household
+  - household with animal spouse
+  suggested_new_group:
+    id: animal_spouse_human_animal_marriage
+    label: Animal Spouse and Human-Animal Marriage
+    description: Marriage, sexual union, household formation, or affinal relationship
+      between a human and an animal, animal-person, or animal-form supernatural being,
+      often involving boundary crossing, kinship, offspring, taboo, or transformation.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - miraculous_child
+    - otherworld
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover love, shapeshifting,
+      and otherworld contact, but none directly preserve the kinship and marriage
+      function of human-animal spouse traditions.
+- suggestion_id: normalization.suggestion.human-animal-marriage-with-bear-husband
+  motif_id: human_animal_marriage_with_bear_husband
+  label: human-animal marriage with bear husband
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Spouse and Human-Animal Marriage
+  relationship: narrower_than
+  confidence: medium
+  rationale: Bear husband is a culturally specific animal-spouse variant of the broader
+    human-animal marriage motif.
+  cautions: Preserve bear-specific meaning; review for totemic ancestry, bear ceremonial
+    context, or animal-person ontology before flattening to romance or shapeshifting.
+  suggested_aliases:
+  - bear husband
+  - marriage to bear husband
+  - animal spouse as bear
+  suggested_new_group:
+    id: animal_spouse_human_animal_marriage
+    label: Animal Spouse and Human-Animal Marriage
+    description: Marriage, sexual union, household formation, or affinal relationship
+      between a human and an animal, animal-person, or animal-form supernatural being,
+      often involving boundary crossing, kinship, offspring, taboo, or transformation.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - miraculous_child
+    - otherworld
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover love, shapeshifting,
+      and otherworld contact, but none directly preserve the kinship and marriage
+      function of human-animal spouse traditions.
+- suggestion_id: normalization.suggestion.human-animal-seasonal-harvest-sequence
+  motif_id: human_animal_seasonal_harvest_sequence
+  label: Human-animal seasonal harvest sequence
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: uncertain
+  confidence: low
+  rationale: Seasonal harvest language points toward sacred_time, but the human-animal
+    component may indicate ritual, kinship, or animal-spirit relations.
+  cautions: Composite and opaque label; could fit sacred_time, sacrifice, sacred_exchange,
+    animal spouse/kinship, or be too passage-specific without source context.
+  suggested_aliases:
+  - seasonal human-animal harvest sequence
+  - human-animal harvest cycle
+  - animal-human seasonal harvest rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-beauty-compared-to-a-tree
+  motif_id: human_beauty_compared_to_a_tree
+  label: human beauty compared to a tree
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a poetic simile rather than a durable narrative or
+    symbolic motif in the current taxonomy.
+  cautions: If the tree functions as sacred axis, ancestor, transformation, or fertility
+    symbol in the passage, remap under axis_mundi, death_and_transformation, or sacred_love
+    after review.
+  suggested_aliases:
+  - beauty likened to a tree
+  - tree simile for human beauty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-captive-hidden-by-an-animal-husband-s-wife-and-made-replacement-spouse
+  motif_id: human_captive_hidden_by_an_animal_husband_s_wife_and_made_replacement_spouse
+  label: Human captive hidden by an animal husband’s wife and made replacement spouse
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: Animal Spouse and Human-Animal Marriage
+  relationship: over_specific_label
+  confidence: low
+  rationale: The animal-husband and replacement-spouse elements suggest the animal-spouse
+    complex, but the full label is highly episode-specific.
+  cautions: May involve captivity, co-wife rivalry, household replacement, abduction,
+    or otherworld marriage; source evidence is needed before broad indexing.
+  suggested_aliases:
+  - animal husband replacement spouse
+  - human captive as replacement spouse
+  - captive hidden by animal spouse household
+  suggested_new_group:
+    id: animal_spouse_human_animal_marriage
+    label: Animal Spouse and Human-Animal Marriage
+    description: Marriage, sexual union, household formation, or affinal relationship
+      between a human and an animal, animal-person, or animal-form supernatural being,
+      often involving boundary crossing, kinship, offspring, taboo, or transformation.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - jealous_stepmother_persecuted_child
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: Existing groups do not directly preserve
+      the animal-spouse household and affinal-conflict function, though this specific
+      label may remain evidence rather than a child motif.
+- suggestion_id: normalization.suggestion.human-child-under-claim-from-a-water-being
+  motif_id: human_child_under_claim_from_a_water_being
+  label: human child under claim from a water being
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: uncertain
+  confidence: low
+  rationale: A water being claiming a child suggests watery otherworld or supernatural
+    custody, but no existing group cleanly captures claimed children by nonhuman beings.
+  cautions: Could fit otherworld abduction, miraculous_child, sacred_exchange/vow,
+    or sacred_waters depending on whether the claim arises from water, contract, birth,
+    or abduction.
+  suggested_aliases:
+  - child claimed by water being
+  - water spirit claims child
+  - human child promised to water being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-children-born-with-animal-counterparts
+  motif_id: human_children_born_with_animal_counterparts
+  label: Human children born with animal counterparts
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal counterparts born with humans often function as vital doubles
+    or life-linked counterparts, aligning with external_soul variants involving animal
+    life links.
+  cautions: Confirm that the animal counterpart is life-linked or soul-linked; if
+    it is merely a twin/helper/totemic companion, sacred_twins, animal_helpers, or
+    miraculous_child may fit better.
+  suggested_aliases:
+  - children with animal counterparts
+  - human-animal birth counterparts
+  - animal doubles born with children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-endurance-defeats-personified-cold
+  motif_id: human_endurance_defeats_personified_cold
+  label: Human endurance defeats personified cold
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Endurance overcoming a personified hostile force can fit moral testing
+    and reversal, but the elemental/personification aspect is not directly represented.
+  cautions: Review source context; could instead belong under divine_warrior, initiation,
+    sacred_law/discipline, or nature personification. Bucket assignment may be misleading.
+  suggested_aliases:
+  - endurance defeats cold
+  - personified cold defeated by endurance
+  - human perseverance overcomes cold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items point to a possible recurring animal-spouse/human-animal marriage
+  group; avoid reducing these to generic sacred_love or shapeshifter without preserving
+  kinship and household function.
+- Single-occurrence animal-human motifs often require cultural and source-context
+  review because animal-person, spirit, totemic, and transformed-human ontologies
+  may differ.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; animal-spouse candidate needs human taxonomy
+    review before addition.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1871
+  input_sha256: 624c04ffa0d3a7bbead5678079caa9720834e3e42834f369dfecadcc56e2c8fc
+

@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0771
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-guardian-protects-in-this-world-and-the-next
+  motif_id: divine_guardian_protects_in_this_world_and_the_next
+  label: Divine guardian protects in this world and the next
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine guardian protecting a person across life and afterlife fits
+    sacred powers acting protectively in human affairs.
+  cautions: Could also touch afterlife_passage if the next-world protection is a mapped
+    postmortem journey; verify source emphasis.
+  suggested_aliases:
+  - divine_guardian_protection
+  - divine_protection_in_life_and_afterlife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-guardians-protect-the-flock-animal
+  motif_id: divine_guardians_protect_the_flock_animal
+  label: Divine guardians protect the flock animal
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Protective divine guardianship over animals is a tutelary/protective
+    intervention pattern.
+  cautions: If the animal is sacrificial, pastoral, or cult-specific, preserve that
+    context as evidence rather than creating a separate motif.
+  suggested_aliases:
+  - divine_guardianship_of_animals
+  - divine_protection_of_flocks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-guarding-through-mazda-fire-and-mind
+  motif_id: divine_guarding_through_mazda_fire_and_mind
+  label: divine guarding through Mazda, Fire, and Mind
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests divine protection, but names culturally specific powers
+    and may combine deity, fire, and mind as theological categories.
+  cautions: Could belong to divine_intervention, sacred_fire, sacred_knowledge, or
+    sacred_law depending on the passage; review Zoroastrian terminology carefully.
+  suggested_aliases:
+  - divine_guarding_through_fire_and_mind
+  - mazda_fire_mind_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-guidance-and-providential-game-animal
+  motif_id: divine_guidance_and_providential_game_animal
+  label: divine guidance and providential game animal
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A game animal supplied or directed by divine providence is a clear form
+    of supernatural guidance or provision.
+  cautions: If the animal mainly lures, tests, or marks a hunt initiation, secondary
+    mapping to initiation or threshold_guardian may be useful.
+  suggested_aliases:
+  - providential_animal_guide
+  - divinely_sent_game_animal
+  - divine_guidance_through_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-guidance-toward-justice
+  motif_id: divine_guidance_toward_justice
+  label: divine guidance toward justice
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Guidance that leads events toward justice fits sacred moral reckoning
+    and repair of order.
+  cautions: If the passage emphasizes help or direction more than judgment, divine_intervention
+    may be a better primary group.
+  suggested_aliases:
+  - divine_guidance_to_justice
+  - providential_justice_guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-hair-color-as-ritual-iconographic-marker
+  motif_id: divine_hair_color_as_ritual_iconographic_marker
+  label: divine hair color as ritual iconographic marker
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'as ritual iconographic marker' reads like descriptive classification
+    of imagery rather than a narrative motif.
+  cautions: Culturally specific iconography may be important evidence; if the passage
+    presents hair color as an active divine sign, human review may place it under
+    theophany or sacred_treasures instead.
+  suggested_aliases:
+  - divine_hair_color_marker
+  - ritual_iconographic_hair_color
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-healing-and-plague-deliverance
+  motif_id: divine_healing_and_plague_deliverance
+  label: divine healing and plague deliverance
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Healing and deliverance from plague are direct divine actions in human
+    crisis.
+  cautions: If plague is framed mainly as punishment and removal after repentance,
+    divine_judgment may be an important secondary group.
+  suggested_aliases:
+  - divine_plague_deliverance
+  - divine_healing_from_plague
+  - healing_deliverance_by_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-healing-of-servants-in-days-of-blessing
+  motif_id: divine_healing_of_servants_in_days_of_blessing
+  label: divine healing of servants in days of blessing
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine healing of afflicted servants is a protective or restorative intervention
+    by sacred power.
+  cautions: The 'days of blessing' phrase may indicate eschatological renewal or covenant
+    blessing; review context before final mapping.
+  suggested_aliases:
+  - divine_healing_in_blessed_time
+  - divine_healing_of_servants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-healing-surpasses-human-art
+  motif_id: divine_healing_surpasses_human_art
+  label: Divine healing surpasses human art
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif contrasts divine healing power with human medical skill, centering
+    supernatural intervention.
+  cautions: Could be a theological or rhetorical claim rather than a narrative motif
+    if no healing episode is present.
+  suggested_aliases:
+  - divine_healing_beyond_human_skill
+  - supernatural_healing_surpasses_medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-hearing-of-mortal-prayer
+  motif_id: divine_hearing_of_mortal_prayer
+  label: Divine hearing of mortal prayer
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A deity hearing prayer belongs to petitionary divine-human reciprocity
+    and request for favor.
+  cautions: If hearing leads to a concrete miracle or rescue, divine_intervention
+    may be a secondary or stronger primary mapping.
+  suggested_aliases:
+  - deity_hears_prayer
+  - mortal_prayer_heard_by_divinity
+  - petition_heard_by_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence divine protection or healing
+  phrases; map provisionally to broad groups and preserve local theological details
+  in evidence notes.
+- Do not infer transmission or equivalence across Greek, Sikh, Zoroastrian, Navajo,
+  Roman, or Jewish pseudepigraphic contexts from these normalization placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional automated suggestions; culturally specific and iconographic labels
+    should receive human review before promotion.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0771
+  input_sha256: 1e65c0ce07e6ec0ac90ee29ee7bf7fb07817443d18584f0f7dc25fd78138cc71
+

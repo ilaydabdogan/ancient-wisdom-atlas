@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2776
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.petrification-and-renewal-of-warriors-equipment
+  motif_id: petrification_and_renewal_of_warriors_equipment
+  label: Petrification and renewal of warriors' equipment
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines stone transformation with renewal of martial equipment; no existing
+    group clearly captures both functions from the label alone.
+  cautions: Single occurrence and likely episode-specific; could fit sacred_treasures,
+    death_and_transformation, or divine_warrior depending on passage evidence.
+  suggested_aliases:
+  - stone_transformation_and_renewal_of_warrior_equipment
+  - warrior_equipment_petrified_and_restored
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petrified-or-stone-transformed-hero
+  motif_id: petrified_or_stone_transformed_hero
+  label: petrified or stone-transformed hero
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero transformed into stone is a bodily transformation that often functions
+    as deathlike suspension, punishment, or altered state.
+  cautions: If petrification is caused by a monster weapon or battle device, sacred_combat
+    or sacred_treasures may be secondary; source context needed.
+  suggested_aliases:
+  - stone_transformed_hero
+  - hero_transformed_to_stone
+  - petrified_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petrifying-head-used-as-a-weapon
+  motif_id: petrifying_head_used_as_a_weapon
+  label: Petrifying head used as a weapon
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: alias
+  confidence: high
+  rationale: Existing normalization already has the close alias petrifying_monster_head_weapon
+    mapped to sacred_treasures.
+  cautions: May also support sacred_combat when the emphasis is battle use rather
+    than the supernatural object itself.
+  suggested_aliases:
+  - petrifying_monster_head_weapon
+  - petrifying_head_weapon
+  - petrifying_head_used_as_supernatural_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petrifying-severed-head-or-face-used-as-weapon
+  motif_id: petrifying_severed_head_or_face_used_as_weapon
+  label: petrifying severed head or face used as weapon
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: alias
+  confidence: high
+  rationale: A severed petrifying head or face functioning as a weapon is a close
+    variant of the existing petrifying head weapon alias under sacred_treasures.
+  cautions: Preserve severed-head and face wording as evidence detail; do not create
+    a separate motif unless it recurs independently.
+  suggested_aliases:
+  - petrifying_monster_head_weapon
+  - petrifying_head_used_as_supernatural_weapon
+  - petrifying_severed_head_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petrifying-severed-head-used-as-victory-weapon
+  motif_id: petrifying_severed_head_used_as_victory_weapon
+  label: Petrifying severed head used as victory weapon
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: alias
+  confidence: high
+  rationale: This is another wording of the petrifying supernatural head weapon already
+    represented under sacred_treasures.
+  cautions: Victory framing may also index as sacred_combat if the passage centers
+    on martial triumph; likely over-specific as a standalone label.
+  suggested_aliases:
+  - petrifying_monster_head_weapon
+  - petrifying_head_used_as_a_weapon
+  - petrifying_severed_head_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pipe-mediated-war-party-recruitment-and-reporting
+  motif_id: pipe_mediated_war_party_recruitment_and_reporting
+  label: Pipe-mediated war-party recruitment and reporting
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label may describe a culturally specific ritual communication object
+    in warfare, but its motif function is unclear without source context.
+  cautions: Culturally sensitive and single occurrence; avoid flattening pipe ritual
+    into generic sacred_combat or sacred_treasures without evidence.
+  suggested_aliases:
+  - ritual_pipe_in_war_party_recruitment
+  - pipe_mediated_war_reporting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plant-mediated-wound-stretching-and-healing
+  motif_id: plant_mediated_wound_stretching_and_healing
+  label: plant-mediated wound stretching and healing
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns a plant-mediated healing or body alteration, but no
+    current group cleanly covers medicinal plants or wound-healing rites.
+  cautions: Could be sacred_substance, divine_intervention, sacred_law, or an episode-specific
+    medical detail depending on evidence.
+  suggested_aliases:
+  - plant_mediated_wound_healing
+  - healing_plant_alters_wound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.planted-battle-lance-as-no-retreat-marker
+  motif_id: planted_battle_lance_as_no_retreat_marker
+  label: Planted battle lance as no-retreat marker
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A planted lance marking refusal to retreat is a ritualized warfare and
+    warrior-duty marker.
+  cautions: If the lance itself has sacred power, sacred_treasures may be secondary;
+    single occurrence may remain granular evidence.
+  suggested_aliases:
+  - battle_lance_as_no_retreat_marker
+  - planted_lance_marks_warrior_stand
+  - no_retreat_lance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plea-for-pity-and-endurance-during-ordeal
+  motif_id: plea_for_pity_and_endurance_during_ordeal
+  label: plea for pity and endurance during ordeal
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and could describe supplication, initiation ordeal,
+    lament, or ethical endurance rather than a stable motif.
+  cautions: Single occurrence; avoid mapping to covenant or initiation without knowing
+    who is addressed and what the ordeal accomplishes.
+  suggested_aliases:
+  - supplication_for_pity_during_ordeal
+  - endurance_plea_in_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poetic-conflation-of-separate-battlefields
+  motif_id: poetic_conflation_of_separate_battlefields
+  label: Poetic conflation of separate battlefields
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a poetic or editorial handling of battle scenes rather
+    than a narrative motif.
+  cautions: Preserve as textual/provenance note if useful, but exclude from motif
+    pattern queries.
+  suggested_aliases:
+  - poetic_battlefield_conflation
+  - conflation_of_battlefields_in_poetry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence battle or object details; preserve local evidence
+  and avoid promoting new canonical groups without recurrence.
+- Petrifying head weapon labels should likely be synonym-merged under the existing
+  sacred_treasures alias rather than treated as separate motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific ritual-object
+    labels need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2776
+  input_sha256: ceacc23563cd0443198251b1123ebb18681facb570b553e5a4846572ef79486e
+

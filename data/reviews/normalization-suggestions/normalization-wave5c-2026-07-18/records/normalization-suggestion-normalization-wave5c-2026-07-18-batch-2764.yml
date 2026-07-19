@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2764
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mythic-integration-of-heroic-legend
+  motif_id: mythic_integration_of_heroic_legend
+  label: Mythic integration of heroic legend
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes how heroic legend is integrated into mythic tradition,
+    not a recurring narrative motif inside the story world.
+  cautions: Preserve as a reception or classification note if useful; do not use as
+    evidence for heroic-combat patterning.
+  suggested_aliases:
+  - heroic_legend_mythic_integration
+  - integration_of_heroic_legend_into_myth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-plant-source-of-weapon-material
+  motif_id: mythic_plant_source_of_weapon_material
+  label: mythic plant source of weapon material
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is a weapon or power object deriving material potency
+    from a mythic plant source.
+  cautions: If the passage emphasizes sacred craft or plant cosmology rather than
+    the weapon's power, secondary review under sacred_craft or sacred_tree_axis may
+    be warranted.
+  suggested_aliases:
+  - plant_source_of_weapon_material
+  - mythic_plant_weapon_material
+  - weapon_material_from_sacred_plant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythological-heroes-treated-as-real-within-tradition
+  motif_id: mythological_heroes_treated_as_real_within_tradition
+  label: mythological heroes treated as real within tradition
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a statement about traditional belief, historicization, or interpretation
+    of heroes rather than a narrative motif.
+  cautions: Could be useful as source-context metadata, but it should not be queried
+    as a mythic pattern.
+  suggested_aliases:
+  - historicized_mythological_heroes
+  - heroes_treated_as_historical_within_tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.naming-by-carried-wound-or-weapon
+  motif_id: naming_by_carried_wound_or_weapon
+  label: Naming by carried wound or weapon
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate identity proof, martial honor, etiology of a
+    name, or passage-specific naming detail.
+  cautions: Review source evidence before choosing recognition_tokens_hidden_identity,
+    divine_warrior, sacred_combat, or exclusion as an over-specific naming note.
+  suggested_aliases:
+  - name_from_wound_or_weapon
+  - wound_or_weapon_as_name_marker
+  - martial_naming_by_wound_or_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.narrow-path-ordeal-under-pursuit-or-threat
+  motif_id: narrow_path_ordeal_under_pursuit_or_threat
+  label: narrow-path ordeal under pursuit or threat
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dangerous constricted path under threat functions as a threshold ordeal
+    or trial of passage.
+  cautions: If the path is chiefly a boundary guarded by a being, threshold_guardian
+    may be secondary; if merely a chase scene, it may be too contextual.
+  suggested_aliases:
+  - narrow_path_ordeal
+  - perilous_narrow_path_under_pursuit
+  - constricted_path_trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.national-epic-preserving-a-heroic-age
+  motif_id: national_epic_preserving_a_heroic_age
+  label: national epic preserving a heroic age
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes the literary-cultural function of an epic rather
+    than a motif within the narrative.
+  cautions: Preserve as genre or tradition metadata; avoid treating national preservation
+    as a symbolic motif.
+  suggested_aliases:
+  - epic_preservation_of_heroic_age
+  - national_epic_as_heroic_age_memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-force-similes-for-heroic-battle-rage
+  motif_id: natural_force_similes_for_heroic_battle_rage
+  label: natural-force similes for heroic battle rage
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Existing divine_warrior aliases include warrior-fire and battle-fury
+    imagery; natural-force similes amplify heroic combat force.
+  cautions: If the label is only a poetic simile with no recurring narrative function,
+    preserve as evidence detail rather than a query target.
+  suggested_aliases:
+  - heroic_battle_rage_likened_to_natural_forces
+  - warrior_rage_as_natural_force
+  - natural_force_imagery_for_battle_fury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-objects-used-as-battle-weapons
+  motif_id: natural_objects_used_as_battle_weapons
+  label: natural objects used as battle weapons
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: alias
+  confidence: high
+  rationale: The normalization aliases already include natural_world_used_as_weapons_in_battle
+    and natural_objects_used_as_heroic_weapons under divine_warrior.
+  cautions: If the weapon is crafted or divinely bestowed rather than improvised from
+    nature, sacred_treasures or sacred_craft may also apply.
+  suggested_aliases:
+  - natural_objects_used_as_heroic_weapons
+  - natural_world_used_as_weapons_in_battle
+  - trees_or_stones_used_as_battle_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-surroundings-amplify-human-war-cry
+  motif_id: natural_surroundings_amplify_human_war_cry
+  label: natural surroundings amplify human war-cry
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase could be poetic amplification of battle sound, sacred sound
+    power, or animate landscape response.
+  cautions: Needs source evidence to distinguish divine_warrior combat imagery from
+    enchanting_music/sound power or a culturally specific personified-nature motif.
+  suggested_aliases:
+  - landscape_amplifies_war_cry
+  - natural_world_echoes_war_cry
+  - war_cry_amplified_by_surroundings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-surroundings-join-human-war-cry
+  motif_id: natural_surroundings_join_human_war_cry
+  label: Natural surroundings join human war cry
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Natural surroundings actively joining a war cry may signal animate nature,
+    divine intervention, or battle-sound symbolism.
+  cautions: Do not collapse into divine_warrior unless the source frames it as combat
+    empowerment; culturally specific landscape agency should be reviewed carefully.
+  suggested_aliases:
+  - natural_world_joins_war_cry
+  - landscape_joins_human_war_cry
+  - animate_surroundings_join_battle_cry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several one-off labels in this batch are meta-literary or interpretive rather than
+  narrative motifs and should be excluded from pattern queries while retained as provenance/context
+  if useful.
+- For Plains and Northwest Coast items involving naming, landscape agency, or war
+  cries, source context and cultural review are recommended before broad mapping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; ambiguous culturally specific combat and landscape-agency
+    labels require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2764
+  input_sha256: 0ba432740aa5e632cfc8bbc0068d6aca43bef2d627e5475c752d5d7f35bb602e
+

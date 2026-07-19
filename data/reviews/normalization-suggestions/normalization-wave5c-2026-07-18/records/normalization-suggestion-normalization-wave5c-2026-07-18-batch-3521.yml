@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3521
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.healing-by-the-blood-of-a-slain-adversary
+  motif_id: healing_by_the_blood_of_a_slain_adversary
+  label: healing by the blood of a slain adversary
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Healing power is carried by blood as a charged bodily substance, fitting
+    sacred substances used for transformation or cure.
+  cautions: Single occurrence; if the emphasis is victory over the adversary or combat
+    proof, divine_warrior or sacred_combat may be secondary. If blood is governed
+    by taboo, sacred_law may fit better.
+  suggested_aliases:
+  - healing_blood_of_slain_enemy
+  - blood_of_slain_adversary_as_medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-by-the-buddha-s-sight
+  motif_id: healing_by_the_buddha_s_sight
+  label: healing by the Buddha's sight
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred figure's presence or gaze directly heals, functioning as supernatural
+    intervention in human affliction.
+  cautions: Culturally specific Buddhist framing should be preserved; if the passage
+    emphasizes manifestation or transformative vision, theophany may be relevant.
+  suggested_aliases:
+  - healing_by_sacred_sight
+  - healing_through_buddha_s_gaze
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-charm-compared-with-medicine
+  motif_id: healing_charm_compared_with_medicine
+  label: Healing charm compared with medicine
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a comparison or didactic comment rather than a
+    distinct motif of charm-healing.
+  cautions: Review source evidence to decide whether the charm is an active sacred
+    speech act, a medical analogy, or commentary. Could map to curse_blessing_speech
+    if the charm itself performs healing.
+  suggested_aliases:
+  - healing_charm_as_medicine
+  - medical_comparison_for_healing_charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-charm-for-blood-stoppage
+  motif_id: healing_charm_for_blood_stoppage
+  label: healing charm for blood stoppage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spoken charm that stops bleeding fits performative sacred speech whose
+    utterance changes bodily conditions.
+  cautions: Single occurrence and medically specific; if the charm is only an ethnographic
+    note or recipe, consider excluding from broad motif queries.
+  suggested_aliases:
+  - blood_staunching_charm
+  - spoken_charm_stops_bleeding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-dirge-within-ongoing-festivity
+  motif_id: healing_dirge_within_ongoing_festivity
+  label: Healing dirge within ongoing festivity
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines healing song, mourning form, and ritual festivity
+    in a culturally specific context that needs evidence review.
+  cautions: Could relate to enchanting_music, lament_and_mourning, sacred_time, or
+    a healing ritual not yet represented. Avoid flattening local ceremonial meaning
+    from the label alone.
+  suggested_aliases:
+  - healing_dirge_during_festival
+  - ritual_healing_song_within_festivity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-food-becomes-regulated-medicine
+  motif_id: healing_food_becomes_regulated_medicine
+  label: healing food becomes regulated medicine
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The key action is regulation of medicinal food within a sacred disciplinary
+    or legal framework.
+  cautions: If the passage emphasizes the food's healing potency rather than its regulation,
+    sacred_substance may be a better primary group.
+  suggested_aliases:
+  - medicinal_food_under_sacred_regulation
+  - healing_food_regulated_as_medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-from-venom-by-breath-or-blowing
+  motif_id: healing_from_venom_by_breath_or_blowing
+  label: healing from venom by breath or blowing
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Venom is cured through extraordinary breath or blowing, functioning as
+    miraculous healing by sacred agency.
+  cautions: If the emphasis is a ritual technique or spoken exorcistic act, curse_blessing_speech
+    or sacred_law may be secondary. Serpent/venom symbolism should not be assumed
+    without passage evidence.
+  suggested_aliases:
+  - venom_healed_by_sacred_breath
+  - healing_by_breath_or_blowing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-isolation-with-fatal-prohibited-sight
+  motif_id: healing_isolation_with_fatal_prohibited_sight
+  label: Healing isolation with fatal prohibited sight
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label joins healing seclusion with a taboo sight whose violation
+    is fatal; the governing function is unclear from the label alone.
+  cautions: Culturally sensitive ritual context needs human review. Could involve
+    sacred_law, initiation, death_by_fate, or divine_judgment depending on whether
+    taboo, ordeal, or punishment is central.
+  suggested_aliases:
+  - healing_seclusion_with_sight_taboo
+  - fatal_prohibited_sight_during_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-object-applied-to-the-body-as-medicine-conduit
+  motif_id: healing_object_applied_to_the_body_as_medicine_conduit
+  label: Healing object applied to the body as medicine conduit
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A power object applied to the body mediates healing, fitting sacred objects
+    that confer protection or sacred ability.
+  cautions: Preserve local medicine-object terminology; if the emphasis is ritual
+    practice more than the object, sacred_law or divine_intervention may also apply.
+  suggested_aliases:
+  - healing_power_object_applied_to_body
+  - medicine_object_as_healing_conduit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-or-divination-with-patterned-magical-stones
+  motif_id: healing_or_divination_with_patterned_magical_stones
+  label: healing or divination with patterned magical stones
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label explicitly spans two functions, healing and divination, and
+    centers on culturally specific magical stones.
+  cautions: May map to prophecy_divination if divinatory use is primary, or sacred_treasures
+    if the stones are power objects. Human review should avoid collapsing distinct
+    ritual functions.
+  suggested_aliases:
+  - patterned_magical_stones_for_healing_or_divination
+  - divinatory_healing_stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items point to a possible recurring healing complex, but this batch is too
+  sparse and culturally varied to propose a new canonical group without broader evidence.
+- For healing labels, preserve whether the effective medium is speech, sight, substance,
+  object, ritual rule, or divination rather than merging all healing into one motif.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple single-occurrence healing labels need
+    source-sensitive human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3521
+  input_sha256: ac4f2d51943d7603be2406bffecd4bd44a4246f23a274556606c71411e282b68
+

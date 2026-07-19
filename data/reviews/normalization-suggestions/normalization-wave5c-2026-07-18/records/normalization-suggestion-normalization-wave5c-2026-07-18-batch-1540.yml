@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1540
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.defeated-ruler-punished-through-family-slaughter-and-blinding
+  motif_id: defeated_ruler_punished_through_family_slaughter_and_blinding
+  label: defeated ruler punished through family slaughter and blinding
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes punitive reckoning against a ruler after defeat,
+    fitting judgment and moral-political punishment.
+  cautions: Single occurrence and highly specific royal-violence detail; if the passage
+    is only historical battle aftermath, consider excluding from pattern queries or
+    secondary mapping to sacred_combat.
+  suggested_aliases:
+  - punishment_of_defeated_ruler
+  - defeated_ruler_punished_by_dynastic_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-ruler-s-head-presented-to-higher-authority
+  motif_id: defeated_ruler_s_head_presented_to_higher_authority
+  label: defeated ruler's head presented to higher authority
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Presentation of a defeated ruler's head is a victory-token or trophy
+    act following combat.
+  cautions: May be an episode-specific political submission detail rather than a reusable
+    motif; could relate to royal_legitimacy if the focus is transfer of authority.
+  suggested_aliases:
+  - defeated_ruler_head_as_victory_token
+  - severed_head_presented_to_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-ruler-s-self-destruction
+  motif_id: defeated_ruler_s_self_destruction
+  label: defeated ruler’s self-destruction
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: A defeated ruler destroying himself fits the downfall of power after
+    overreach or failed rule.
+  cautions: If the passage emphasizes heroic death, fate, or combat honor rather than
+    hubristic collapse, sacred_combat, death_by_fate, or lament_and_mourning may be
+    better.
+  suggested_aliases:
+  - ruler_self_destruction_after_defeat
+  - defeated_king_self_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-ruler-seeks-external-aid-that-fails-to-arrive
+  motif_id: defeated_ruler_seeks_external_aid_that_fails_to_arrive
+  label: defeated ruler seeks external aid that fails to arrive
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: Failed expected aid may function as abandoned alliance or violated trust
+    in a ruler's crisis.
+  cautions: Ambiguous from label alone; could be a military plot detail, divine judgment,
+    or downfall motif depending on whether aid was promised, expected, or divinely
+    withheld.
+  suggested_aliases:
+  - failed_external_aid_to_defeated_ruler
+  - abandoned_ruler_seeks_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-ruler-taken-captive-and-carried-away
+  motif_id: defeated_ruler_taken_captive_and_carried_away
+  label: defeated ruler taken captive and carried away
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Captivity of a defeated ruler can mark political punishment and loss
+    of sacred order or legitimacy.
+  cautions: May be only a historical conquest detail; if no moral, divine, or symbolic
+    reckoning is present, exclude as over-specific evidence.
+  suggested_aliases:
+  - defeated_king_taken_captive
+  - ruler_captivity_after_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defense-of-the-absent-champion-s-honor
+  motif_id: defense_of_the_absent_champion_s_honor
+  label: Defense of the absent champion's honor
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on champion honor and martial reputation, already covered
+    by the warrior-honor complex.
+  cautions: If the scene is courtly speech rather than combat or warrior status, sacred_law
+    or royal_legitimacy may be secondary; preserve absence-specific detail only as
+    evidence.
+  suggested_aliases:
+  - absent_champion_honor_defended
+  - defending_a_hero_s_honor_in_absence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deference-to-ruler-through-controlled-body-and-urgent-response
+  motif_id: deference_to_ruler_through_controlled_body_and_urgent_response
+  label: Deference to ruler through controlled body and urgent response
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Embodied etiquette toward a ruler fits sacred or ethical social order
+    and hierarchical obligation.
+  cautions: Culturally specific Confucian conduct label; avoid over-sacralizing if
+    the source frames it as secular etiquette or commentary rather than motif.
+  suggested_aliases:
+  - embodied_deference_to_ruler
+  - ritualized_deference_to_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defilements-prevented-from-taking-root
+  motif_id: defilements_prevented_from_taking_root
+  label: Defilements prevented from taking root
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Preventing defilements from taking root points to interior discipline
+    and liberation practice.
+  cautions: Abstract Buddhist doctrinal phrase rather than narrative motif; may fit
+    ethics_psychology better than power/law and may need exclusion if only commentary.
+  suggested_aliases:
+  - preventing_mental_defilements
+  - defilements_do_not_take_root
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deified-cosmic-order
+  motif_id: deified_cosmic_order
+  label: Deified cosmic order
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A personified or deified order fits cosmic structure and opposition between
+    order and disorder, especially in Zoroastrian material.
+  cautions: Could instead belong under supreme_ruler or divine_judgment if the passage
+    emphasizes sovereignty or moral reckoning rather than cosmic order itself.
+  suggested_aliases:
+  - personified_cosmic_order
+  - divinized_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deities-honor-the-perfected-jogi
+  motif_id: deities_honor_the_perfected_jogi
+  label: deities honor the perfected Jogi
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: role_variant
+  confidence: medium
+  rationale: Divine beings honoring a perfected practitioner marks spiritual attainment
+    on an interior or ascetic path.
+  cautions: Culturally sensitive term and single occurrence; if the source critiques
+    yogic status rather than endorsing it, needs human review before indexing.
+  suggested_aliases:
+  - deities_honor_perfected_ascetic
+  - divine_honor_for_spiritually_perfected_practitioner
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence political defeat details; preserve as evidence
+  notes unless source context shows recurring symbolic or ritual function.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Low-confidence items need source context, especially failed external aid,
+    ruler captivity, Buddhist defilements, and culturally specific ascetic or etiquette
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1540
+  input_sha256: d1e1d7ad2cc2fbc8609f6746d217f6b6bde3d310657bdbd3a578d65fd839b3e4
+

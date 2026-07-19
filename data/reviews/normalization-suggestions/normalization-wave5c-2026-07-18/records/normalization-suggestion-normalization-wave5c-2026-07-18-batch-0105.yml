@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0105
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deadly-supernatural-voice
+  motif_id: deadly_supernatural_voice
+  label: deadly supernatural voice
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: uncertain
+  confidence: low
+  rationale: A supernatural voice causing death may fit sound as supernatural force,
+    but the label lacks context about song, command, curse, taboo, or threshold lure.
+  cautions: Single occurrence; could instead be curse_blessing_speech, threshold_guardian,
+    divine_judgment, or an over-specific episode detail.
+  suggested_aliases:
+  - fatal_supernatural_voice
+  - lethal_supernatural_voice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deadly-suspended-crossing-over-water
+  motif_id: deadly_suspended_crossing_over_water
+  label: deadly suspended crossing over water
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dangerous crossing over water fits water as boundary and perilous passage
+    rather than flood renewal.
+  cautions: If the suspended crossing is mainly a bridge, rope, or ordeal device,
+    sacred_craft, initiation, or threshold_guardian may be relevant secondary placements.
+  suggested_aliases:
+  - perilous_crossing_over_water
+  - dangerous_water_crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deadly-sweatlodge-heat-ordeal-defeated-by-hidden-substitute-or-helper
+  motif_id: deadly_sweatlodge_heat_ordeal_defeated_by_hidden_substitute_or_helper
+  label: Deadly sweatlodge heat ordeal defeated by hidden substitute or helper
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: low
+  rationale: A deadly heat ordeal in a ritual space can fit initiation or ordeal,
+    with defeat by helper as a narrative strategy.
+  cautions: Culturally specific sweatlodge context needs careful source review; hidden
+    substitute/helper may point to trickster or contest rather than initiation. Avoid
+    flattening into generic death motif.
+  suggested_aliases:
+  - deadly_heat_ordeal
+  - sweatlodge_ordeal_defeated_by_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deadly-task_imposed-under-a-treacherous-ruler
+  motif_id: deadly_task_imposed_under_a_treacherous_ruler
+  label: Deadly task imposed under a treacherous ruler
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lethal imposed task by a hostile ruler commonly functions as a quest
+    ordeal within a hero journey.
+  cautions: If the emphasis is betrayal of authority or unjust kingship, betrayal_violated_trust
+    or royal_legitimacy/divine_judgment may be secondary; label is fairly contextual.
+  suggested_aliases:
+  - deadly_imposed_task
+  - treacherous_ruler_imposes_deadly_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deadly-trap-hidden-in-the-bell
+  motif_id: deadly_trap_hidden_in_the_bell
+  label: deadly trap hidden in the bell
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is an episode-specific trap detail centered on a particular
+    object rather than a durable symbolic or narrative motif.
+  cautions: If similar hidden-death-object traps recur, review under betrayal_violated_trust,
+    trickster, or sacred_treasures; for now preserve as evidence detail only.
+  suggested_aliases:
+  - hidden_deadly_bell_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deadly-underworld-food
+  motif_id: deadly_underworld_food
+  label: deadly underworld food
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: Food encountered in the underworld that endangers the living belongs
+    to descent/underworld-journey peril.
+  cautions: Could also relate to sacred_substance or afterlife_passage if the food
+    functions as a postmortem rule, taboo, or binding substance; avoid treating all
+    underworld food as resurrection or renewal.
+  suggested_aliases:
+  - dangerous_underworld_food
+  - fatal_food_of_the_underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deadly-wagered-canoe-race
+  motif_id: deadly_wagered_canoe_race
+  label: Deadly wagered canoe race
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: A wagered race with lethal stakes may function as ritualized contest
+    or ordeal, but the label does not show combat or sacred stakes clearly.
+  cautions: Could be a passage-specific adventure detail, water-crossing ordeal, trickster
+    contest, or social wager; needs source context before indexing broadly.
+  suggested_aliases:
+  - deadly_wagered_race
+  - lethal_canoe_race_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deadly-wedding-gift-garment
+  motif_id: deadly_wedding_gift_garment
+  label: Deadly wedding gift garment
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lethal gift garment in a wedding context functions as betrayal through
+    a socially trusted exchange object.
+  cautions: May also involve sacred_love, divine_judgment, or sacred_treasures if
+    the garment has divine or magical properties; preserve wedding-gift specificity
+    as evidence.
+  suggested_aliases:
+  - poisoned_wedding_garment
+  - deadly_gift_garment
+  - lethal_bridal_gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-accepted-as-sweet-for-god-s-sake
+  motif_id: death_accepted_as_sweet_for_god_s_sake
+  label: Death accepted as sweet for God's sake
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reflects mystical acceptance of death through divine love and
+    surrender, fitting the interior journey rather than literal underworld travel.
+  cautions: Could be a poetic or doctrinal formulation rather than a narrative motif;
+    if focused on ego-death, annihilation_union may be a closer child concept.
+  suggested_aliases:
+  - sweet_death_for_god
+  - death_as_sweet_divine_surrender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-addressed-as-overcome-after-desire-ceases
+  motif_id: death_addressed_as_overcome_after_desire_ceases
+  label: Death addressed as overcome after desire ceases
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Overcoming death through cessation of desire is a contemplative liberation
+    theme aligned with mystical quest and renunciation.
+  cautions: Likely doctrinal or poetic speech rather than a narrative motif; could
+    also map to annihilation_union or sacred_knowledge depending on passage evidence.
+  suggested_aliases:
+  - death_overcome_by_cessation_of_desire
+  - desire_ceases_and_death_is_overcome
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and death-bucketed only because
+  they include 'deadly' or 'death'; placement should follow narrative function, not
+  keyword matching.
+- Two contemplative death labels use relationship meta_artifact because they may be
+  doctrinal/poetic formulations; if relationship vocabulary is later expanded, 'mystical_variant'
+  would be more precise.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual and single-occurrence
+    trap/contest labels need source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0105
+  input_sha256: a1cc276793e1d35f6931a31994d26d4b03268cb626fb45a3bd09060266affc22
+

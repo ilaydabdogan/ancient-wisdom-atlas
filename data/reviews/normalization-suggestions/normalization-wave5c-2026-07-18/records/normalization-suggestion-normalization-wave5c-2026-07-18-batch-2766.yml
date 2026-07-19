@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2766
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.night-combat-with-a-troll-woman-in-a-house
+  motif_id: night_combat_with_a_troll_woman_in_a_house
+  label: Night combat with a troll-woman in a house
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core action is combat with a supernatural opponent; the night, house,
+    and troll-woman details are episode-specific.
+  cautions: Could fit threshold_guardian if the house functions as a liminal test-space
+    rather than ordinary combat.
+  suggested_aliases:
+  - night_combat_with_supernatural_female_opponent
+  - night_combat_with_troll_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-encampment-in-the-midst-of-a-contest
+  motif_id: night_encampment_in_the_midst_of_a_contest
+  label: night encampment in the midst of a contest
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a scene-setting detail within a contest rather than
+    a reusable symbolic or narrative motif.
+  cautions: If source evidence shows the encampment is a ritual pause, ordeal, or
+    liminal vigil, reconsider under initiation or sacred_combat.
+  suggested_aliases:
+  - night_encampment_during_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-intrusion-testing-a-stranger-s-response
+  motif_id: night_intrusion_testing_a_stranger_s_response
+  label: night intrusion testing a stranger's response
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a stranger being tested through an intrusion, aligning
+    with guest/stranger testing patterns.
+  cautions: If the intruder is mainly a monster or threshold figure, threshold_guardian
+    or initiation may be better secondary mappings.
+  suggested_aliases:
+  - stranger_tested_by_night_intrusion
+  - night_intrusion_as_stranger_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-long-combat-with-a-monster
+  motif_id: night_long_combat_with_a_monster
+  label: night-long combat with a monster
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A prolonged combat with a monstrous opponent belongs to the sacred combat
+    complex, with night-long duration as a local ordeal detail.
+  cautions: Could also relate to initiation if the combat marks a status-transforming
+    ordeal.
+  suggested_aliases:
+  - all_night_combat_with_monster
+  - nightlong_monster_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-struggle-with-an-unseen-lodge-being
+  motif_id: night_struggle_with_an_unseen_lodge_being
+  label: night struggle with an unseen lodge being
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines nocturnal ordeal, unseen being, and lodge setting;
+    its function is unclear without passage evidence.
+  cautions: May belong under threshold_guardian, initiation, otherworld, or sacred_combat
+    depending on whether the being tests, attacks, guards, or initiates.
+  suggested_aliases:
+  - night_struggle_with_unseen_being
+  - unseen_lodge_being_night_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-vigil-while-the-armed-hero-sleeps
+  motif_id: night_vigil_while_the_armed_hero_sleeps
+  label: Night vigil while the armed hero sleeps
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A vigil beside a sleeping armed hero may be protective, suspenseful,
+    initiatory, or simply scene detail.
+  cautions: If the vigil guards a threshold or tests loyalty, consider initiation
+    or sacred_law; if it precedes combat, sacred_combat may be adequate.
+  suggested_aliases:
+  - vigil_beside_sleeping_armed_hero
+  - night_watch_while_hero_sleeps
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nightfall-closing-battle
+  motif_id: nightfall_closing_battle
+  label: nightfall closing battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to be a temporal battle-scene marker rather than a motif
+    with distinct symbolic function.
+  cautions: If the source treats nightfall as a sacred rule ending combat, review
+    under sacred_law or sacred_combat.
+  suggested_aliases:
+  - battle_ends_at_nightfall
+  - nightfall_ends_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nightly-battle-of-demonic-knights
+  motif_id: nightly_battle_of_demonic_knights
+  label: Nightly battle of demonic knights
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Recurring combat involving demonic knights fits supernatural or ritually
+    charged combat.
+  cautions: If the knights primarily guard access to a place or quest stage, threshold_guardian
+    may be a useful secondary group.
+  suggested_aliases:
+  - nightly_combat_with_demonic_knights
+  - recurring_night_battle_with_demonic_knights
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nightly-monster-depredation-from-a-pastoral-herd
+  motif_id: nightly_monster_depredation_from_a_pastoral_herd
+  label: Nightly monster depredation from a pastoral herd
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Monster attacks on a herd typically set up heroic defense or combat with
+    a supernatural marauder.
+  cautions: If the passage emphasizes pastoral wealth, cattle raid, or animal loss
+    rather than combat, sacred_combat remains broad but evidence should preserve the
+    herd-depredation detail.
+  suggested_aliases:
+  - monster_depredation_from_herd
+  - nightly_herd_raiding_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.noisy-chariot-approach-heralds-the-warrior
+  motif_id: noisy_chariot_approach_heralds_the_warrior
+  label: Noisy chariot approach heralds the warrior
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: The warrior's marked chariot arrival is a heroic-warrior manifestation,
+    matching existing chariot-arrival aliases under divine_warrior.
+  cautions: Do not treat noise alone as a motif; preserve it as a heraldic arrival
+    detail within warrior display.
+  suggested_aliases:
+  - approaching_warrior_in_a_noisy_chariot
+  - chariot_noise_heralds_warrior
+  - splendid_warrior_arrival_in_battle_chariot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence nocturnal combat or scene-setting details;
+  preserve local evidence but avoid promoting night as an independent canonical motif
+  without recurrence.
+- Where supernatural opponents function as gatekeepers or tests rather than enemies,
+  reviewers should consider threshold_guardian or initiation as secondary mappings.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should determine whether nocturnal
+    details are symbolic, ritual, or merely narrative setting.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2766
+  input_sha256: 1cb6157dc4f9df7ddc2f8db6c3dcc9a3a471131d7f174131db0a9c6c872ed827
+

@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3035
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.venus-as-spring-and-civic-patron
+  motif_id: venus_as_spring_and_civic_patron
+  label: Venus as spring and civic patron
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines seasonal fertility and civic patronage, which could
+    point to sacred_time, mother_goddess, royal_legitimacy, or civic cult depending
+    on evidence.
+  cautions: Single Roman occurrence and deity-specific phrasing; avoid reducing Venus
+    to a generic spring or patron motif without source context.
+  suggested_aliases:
+  - spring goddess as civic patron
+  - deity as seasonal and civic patron
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vibrato-as-marker-of-musical-skill
+  motif_id: vibrato_as_marker_of_musical_skill
+  label: vibrato as marker of musical skill
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a performance-description or ethnomusicological observation
+    rather than a recurring symbolic or narrative motif.
+  cautions: If the source presents vibrato as supernatural sound power, ritual efficacy,
+    or enchantment, reconsider under enchanting_music.
+  suggested_aliases:
+  - vibrato as musical skill marker
+  - musical ornament as skill marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victims-faces-displayed-as-house-pictures
+  motif_id: victims_faces_displayed_as_house_pictures
+  label: Victims' faces displayed as house pictures
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may concern trophy display, household marking, vengeance, spirit
+    danger, or a culturally specific mortuary/war practice.
+  cautions: Culturally sensitive and over-specific; needs source evidence before mapping
+    to sacred_combat, sacred_treasures, ancestor rites, or exclusion.
+  suggested_aliases:
+  - victim faces displayed on dwelling
+  - trophy faces as house images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vigilance-and-communal-sharing
+  motif_id: vigilance_and_communal_sharing
+  label: Vigilance and communal sharing
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: The label describes ethical conduct and communal obligation, which best
+    fits sacred law/social order among existing groups.
+  cautions: Very abstract and possibly a sermon theme rather than a motif; if it is
+    only doctrinal commentary, exclude or preserve as evidence note.
+  suggested_aliases:
+  - communal sharing as ethical vigilance
+  - vigilant communal generosity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.village-council-house-as-communal-meeting-place
+  motif_id: village_council_house_as_communal_meeting_place
+  label: Village council house as communal meeting place
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to be a descriptive setting or social-space detail rather
+    than a symbolic motif with a narrative function.
+  cautions: If the council house functions as a sacred center, ritual threshold, or
+    site of divine-human order, reconsider under world_center or sacred_law.
+  suggested_aliases:
+  - council house as communal space
+  - village meeting house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.virtue-flowering-as-music
+  motif_id: virtue_flowering_as_music
+  label: virtue flowering as music
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label links virtue with music as an expressive or transformative
+    power, closest to the music/sound-power complex.
+  cautions: Could instead be Confucian ethical metaphor under sacred_law or wisdom;
+    do not imply supernatural compulsion unless source evidence supports it.
+  suggested_aliases:
+  - music as flowering of virtue
+  - virtue expressed through music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.virtuous-conduct-bringing-calamity
+  motif_id: virtuous_conduct_bringing_calamity
+  label: Virtuous conduct bringing calamity
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The paradox of virtue producing harm could be Daoist ethical inversion,
+    fate, social critique, or narrative irony.
+  cautions: Abstract and tradition-specific; avoid forcing into divine_judgment or
+    pride/downfall without knowing whether calamity is cosmic, social, or rhetorical.
+  suggested_aliases:
+  - virtue leading to misfortune
+  - virtuous action causing calamity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visible-landmark-used-as-proof-of-a-tale
+  motif_id: visible_landmark_used_as_proof_of_a_tale
+  label: visible landmark used as proof of a tale
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A landscape feature validating a story often functions as etiological
+    landscape proof, already grouped with place-name and landscape etiologies.
+  cautions: If the landmark is merely cited by a narrator as evidence rather than
+    explained by mythic action, it may be a textual/provenance artifact.
+  suggested_aliases:
+  - landmark as proof of tale
+  - visible landscape evidence for story
+  - etiological landmark proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visible-marker-enforces-or-announces-a-prohibition
+  motif_id: visible_marker_enforces_or_announces_a_prohibition
+  label: visible marker enforces or announces a prohibition
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A visible sign that announces or enforces a prohibition fits sacred law,
+    taboo, and ritual regulation.
+  cautions: If the marker itself is a power object or boundary device, secondary review
+    under sacred_treasures or threshold/boundary logic may be useful.
+  suggested_aliases:
+  - taboo marker
+  - visible prohibition sign
+  - sacred marker announcing taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visible-mourning-markers-contrasted-with-bright-restoration-clothing
+  motif_id: visible_mourning_markers_contrasted_with_bright_restoration_clothing
+  label: visible mourning markers contrasted with bright restoration clothing
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on visible mourning signs and their replacement by
+    restoration clothing, fitting mourning and ritual transition after grief.
+  cautions: Could also involve death_and_transformation if restoration marks renewal
+    of social or spiritual status; clothing details may be too specific for canonical
+    promotion.
+  suggested_aliases:
+  - mourning markers and restoration clothing
+  - visible signs of mourning replaced by bright clothing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; suggested
+  placements should be treated as provisional indexing aids, not taxonomy changes.
+- Objects/spaces bucket assignment appears noisy for ethical, musical, and deity-role
+  labels; source passage review is recommended before final mapping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 3035.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3035
+  input_sha256: 1beface6323a28f7b4b11ea7024f51e1bc44b0a52bf3a818d913b98a814c7f72
+

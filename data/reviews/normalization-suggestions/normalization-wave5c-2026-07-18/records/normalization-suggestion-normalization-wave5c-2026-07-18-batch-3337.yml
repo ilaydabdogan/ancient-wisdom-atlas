@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3337
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.demon-tempts-religious-figure
+  motif_id: demon_tempts_religious_figure
+  label: demon tempts religious figure
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A demonic temptation tests adherence to sacred order, discipline, or
+    law; existing sacred_law includes demonic promptings and moral-religious prohibitions.
+  cautions: Could instead fit initiation, mystical_quest, or divine_judgment if the
+    passage emphasizes ordeal, ascetic combat, or punishment. Source context needed.
+  suggested_aliases:
+  - demonic_temptation_of_a_religious_figure
+  - demon_tempts_holy_person
+  - temptation_by_demonic_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-affliction-embodied-in-humans
+  motif_id: demonic_affliction_embodied_in_humans
+  label: Demonic affliction embodied in humans
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Existing sacrifice group already contains spirit-affliction and exorcism/expulsion
+    variants; demonic affliction embodied in humans likely belongs to that ritual-expulsion
+    complex.
+  cautions: If no expulsion or ritual treatment is present, sacred_law or divine_judgment
+    may be better. The wording may describe demonology rather than a narrative motif.
+  suggested_aliases:
+  - human_embodiment_of_demonic_affliction
+  - demonic_affliction_in_human_hosts
+  - spirit_affliction_embodied_in_persons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-beings
+  motif_id: demonic_beings
+  label: demonic beings
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a class of beings rather than a clear narrative function,
+    ritual role, or symbolic pattern.
+  cautions: May fit duality, chaos, divine_judgment, threshold_guardian, or sacrifice
+    depending on what the demons do. Avoid indexing mere entity presence as a motif.
+  suggested_aliases:
+  - demons
+  - evil_spirits
+  - demonic_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-blacksmith-associated-figure-replaced-by-saintly-figure-in-related-legend
+  motif_id: demonic_blacksmith_associated_figure_replaced_by_saintly_figure_in_related_legend
+  label: demonic blacksmith-associated figure replaced by saintly figure in related
+    legend
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes comparative replacement between related legends rather
+    than a motif within a narrative passage.
+  cautions: If the source passage itself features a demonic smith or saintly smith,
+    preserve that local evidence separately under sacred_craft, divine_intervention,
+    or trickster as appropriate.
+  suggested_aliases:
+  - saintly_replacement_of_demonic_smith_figure
+  - legendary_substitution_of_demonic_blacksmith
+  - comparative_replacement_of_demonic_figure_by_saint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-conception-through-morally-implicated-males
+  motif_id: demonic_conception_through_morally_implicated_males
+  label: Demonic conception through morally implicated males
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines demonic conception, sexual/moral blame, and gendered
+    agency; placement depends heavily on source framing.
+  cautions: Culturally sensitive and potentially over-specific. Could relate to miraculous_child
+    as inverted birth, divine_judgment as moral consequence, or sacred_law as sexual/purity
+    transgression, but should not be mapped without passage review.
+  suggested_aliases:
+  - demonic_conception_through_moral_transgression
+  - demonically_generated_offspring_from_implicated_males
+  - corrupt_conception_by_demonic_influence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-contagion-and-expulsion
+  motif_id: demonic_contagion_and_expulsion
+  label: Demonic contagion and expulsion
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The existing sacrifice group explicitly contains exorcism, spirit-affliction,
+    communal expulsion, and boundary-sealing variants.
+  cautions: If the passage emphasizes taboo or pollution control more than expulsion
+    ritual, sacred_law may be a secondary mapping.
+  suggested_aliases:
+  - demonic_contagion_expulsion
+  - expulsion_of_demonic_contagion
+  - ritual_expulsion_of_demonic_affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-council-chooses-a-corrupting-power
+  motif_id: demonic_council_chooses_a_corrupting_power
+  label: demonic council chooses a corrupting power
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: functional_variant
+  confidence: medium
+  rationale: A demonic council selecting a corrupting force likely participates in
+    cosmic opposition between destructive and ordering powers.
+  cautions: Could be an episode-specific demonology detail. If the council functions
+    mainly as a hostile plot, divine_judgment or trickster may be relevant; verify
+    source evidence.
+  suggested_aliases:
+  - demonic_council_selects_corrupting_power
+  - evil_council_chooses_corruption
+  - demonic_assembly_chooses_a_corrupting_force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-flesh-eating-attendants
+  motif_id: demonic_flesh_eating_attendants
+  label: Demonic flesh-eating attendants
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a retinue type and appetite, but not enough function
+    to place confidently in the existing taxonomy.
+  cautions: May be merely an entity description. Could fit chaos, threshold_guardian,
+    divine_judgment, or death/descent if these attendants guard, punish, consume corpses,
+    or mark a liminal realm.
+  suggested_aliases:
+  - flesh_eating_demonic_attendants
+  - carnivorous_demon_retinue
+  - demonic_attendants_who_eat_flesh
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-idol-that-gives-oracular-answers
+  motif_id: demonic_idol_that_gives_oracular_answers
+  label: Demonic idol that gives oracular answers
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The central function is an oracular object giving answers, which fits
+    prophecy and divination more specifically than generic idol imagery.
+  cautions: Because idol is already marked for review, source context should confirm
+    whether the motif is divination, false worship, demonic deception, or a sacred
+    power object.
+  suggested_aliases:
+  - oracular_demonic_idol
+  - idol_giving_oracular_answers
+  - demonic_oracle_idol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-indwelling-causing-excessive-appetite
+  motif_id: demonic_indwelling_causing_excessive_appetite
+  label: Demonic indwelling causing excessive appetite
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Demonic indwelling producing appetite reads as harmful spirit influence
+    or possession, aligning with sacred_law's spirit-contagion and apotropaic-protection
+    cluster.
+  cautions: If the narrative includes healing or expulsion, sacrifice/ritual_expulsion
+    may be a better primary group. If appetite is moralized as greed, divine_judgment
+    may be relevant.
+  suggested_aliases:
+  - demonic_possession_causing_excessive_appetite
+  - spirit_indwelling_causes_ravenous_hunger
+  - demonic_appetite_affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern demonic beings or spirit affliction. Existing groups can
+  absorb ritual expulsion and spirit-contagion cases, but labels that only name demonic
+  entities should remain under human review unless a narrative or ritual function
+  is evident.
+- Do not infer transmission or equivalence among Zoroastrian, Hindu, Slavic, Arthurian,
+  and Celtic materials from these placements; suggestions only identify review buckets.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements generated for wave5c demonic/affliction labels; human
+    review recommended for culturally sensitive demonology and gendered conception
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3337
+  input_sha256: 7ad761dda31001c3bb266fa98e61636c527d725751fadeafaf638b885bff8258
+

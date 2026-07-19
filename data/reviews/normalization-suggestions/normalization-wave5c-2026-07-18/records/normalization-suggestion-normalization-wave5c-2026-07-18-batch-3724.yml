@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3724
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.nominal-conversion-with-continued-shamanic-reliance
+  motif_id: nominal_conversion_with_continued_shamanic_reliance
+  label: Nominal conversion with continued shamanic reliance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes religious identity and practice continuity rather
+    than a clear narrative motif.
+  cautions: Culturally sensitive and source-dependent; may be ethnographic or conversion-history
+    commentary rather than pattern-query material.
+  suggested_aliases:
+  - nominal_conversion_with_continued_traditional_reliance
+  - formal_conversion_with_continued_shamanic_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nominal-identity-versus-enacted-identity
+  motif_id: nominal_identity_versus_enacted_identity
+  label: Nominal identity versus enacted identity
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The theme may concern ethics, hypocrisy, or identity proof, but the label
+    is too abstract without passage evidence.
+  cautions: Could be theological commentary rather than a motif; verify whether an
+    enacted test, recognition scene, or moral judgment is present.
+  suggested_aliases:
+  - named_identity_versus_performed_identity
+  - professed_identity_versus_enacted_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nominal-reconciliation-with-unresolved-hostility
+  motif_id: nominal_reconciliation_with_unresolved_hostility
+  label: nominal reconciliation with unresolved hostility
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formal peace that masks continuing hostility centers on a broken or
+    unstable social bond.
+  cautions: If the passage emphasizes feud escalation or combat rather than violated
+    trust, sacred_combat may be a better secondary placement.
+  suggested_aliases:
+  - false_reconciliation_with_unresolved_hostility
+  - outward_reconciliation_masking_hostility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-attachment-to-food
+  motif_id: non_attachment_to_food
+  label: non-attachment to food
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Renouncing attachment to food fits ascetic discipline and interior transformation
+    on a spiritual path.
+  cautions: If framed as monastic rule or ethical restraint rather than contemplative
+    practice, sacred_law may be relevant; preserve food-specific detail.
+  suggested_aliases:
+  - detachment_from_food
+  - renunciation_of_food_attachment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-clan-landholding-with-intratribal-transfer
+  motif_id: non_clan_landholding_with_intratribal_transfer
+  label: non-clan landholding with intratribal transfer
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a social-organization or land-tenure detail, not a
+    symbolic or narrative motif.
+  cautions: Retain as ethnographic provenance if needed; do not index as a mythic
+    pattern without narrative evidence.
+  suggested_aliases:
+  - non_clan_land_tenure_with_intratribal_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-coercive-chief-as-coordinator-and-mediator
+  motif_id: non_coercive_chief_as_coordinator_and_mediator
+  label: Non-coercive chief as coordinator and mediator
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: The label concerns a leadership role and authority model, fitting the
+    broad kingship/social-order field if narratively relevant.
+  cautions: May be ethnographic political description rather than motif; needs review
+    before use in pattern queries.
+  suggested_aliases:
+  - chief_as_mediator_and_coordinator
+  - noncoercive_mediating_chief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-cremation-mortuary-custom
+  motif_id: non_cremation_mortuary_custom
+  label: Non-cremation mortuary custom
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A mortuary custom could belong with ancestor rites or funeral rites,
+    but the negative label is too nonspecific.
+  cautions: Likely an ethnographic detail; map only if the source describes ritual
+    care, ancestor relation, or afterlife function.
+  suggested_aliases:
+  - burial_or_non_cremation_mortuary_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - heroic_funeral_rites
+    - afterlife_passage
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-divinatory-and-non-ostentatious-great-entertainment
+  motif_id: non_divinatory_and_non_ostentatious_great_entertainment
+  label: non-divinatory and non-ostentatious great entertainment
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label is a negative classification of ritual or courtly entertainment
+    rather than a reusable motif.
+  cautions: Could be preserved as commentary on Confucian ritual moderation, but it
+    is not suitable for broad motif queries as stated.
+  suggested_aliases:
+  - non_divinatory_modest_great_entertainment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-exclusive-communal-use-over-seniority-privilege
+  motif_id: non_exclusive_communal_use_over_seniority_privilege
+  label: non-exclusive communal use over seniority privilege
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: The label describes an ethical-social rule privileging communal access
+    over status privilege.
+  cautions: May be a monastic or legal detail rather than a motif; source context
+    should confirm sacred or ethical function.
+  suggested_aliases:
+  - communal_use_over_seniority_privilege
+  - nonexclusive_communal_access
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-harm-as-chosen-boon
+  motif_id: non_harm_as_chosen_boon
+  label: Non-harm as chosen boon
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Choosing non-harm as a boon expresses an ethical command or sacred moral
+    discipline.
+  cautions: If the passage centers on boon-granting structure or miraculous protection,
+    divine_intervention may be a secondary mapping.
+  suggested_aliases:
+  - nonviolence_as_chosen_boon
+  - boon_of_non_harm
+  - ahimsa_as_boon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are negative or abstract social-description phrases;
+  these should be checked against source passages before being used in Pattern Explorer.
+- Native-American-Southwest ethnographic labels involving conversion, landholding,
+  and mortuary custom need careful human review to avoid turning contextual observations
+  into mythic motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items may be ethnographic/commentary
+    artifacts rather than motif labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3724
+  input_sha256: ce8f859a92fd785d562b6b7ffcf2fb27487507306dd2f00deec9304342222190
+

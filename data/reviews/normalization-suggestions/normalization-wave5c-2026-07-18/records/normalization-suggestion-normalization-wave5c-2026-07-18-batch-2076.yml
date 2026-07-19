@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2076
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-informants-respond-according-to-prior-treatment
+  motif_id: animal_informants_respond_according_to_prior_treatment
+  label: animal informants respond according to prior treatment
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Helpful or withholding animal informants responding to earlier treatment
+    fits reciprocity and reward-for-conduct logic.
+  cautions: Could instead be animal-helper folklore or moral judgment depending on
+    whether the passage emphasizes exchange, kindness, or information-giving.
+  suggested_aliases:
+  - animal_informants_reward_or_withhold_help
+  - animal_helpers_respond_to_prior_treatment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-insult-exchange-preceding-predation
+  motif_id: animal_insult_exchange_preceding_predation
+  label: Animal insult exchange preceding predation
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal verbal provocation before predation resembles fable/trickster
+    contest patterns involving deception, threat, and role reversal.
+  cautions: May be an episode-specific animal-fable detail; if no deception or boundary
+    crossing is present, keep as granular evidence rather than a strong motif.
+  suggested_aliases:
+  - animal_flyting_before_predation
+  - predatory_insult_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-intermediary-used-to-enforce-a-human-scheme
+  motif_id: animal_intermediary_used_to_enforce_a_human_scheme
+  label: Animal intermediary used to enforce a human scheme
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Use of an animal intermediary to carry out a scheme fits trickster/deceptive
+    stratagem patterns more than transformation itself.
+  cautions: If the animal acts as a true helper or messenger rather than a deceptive
+    instrument, divine_intervention or sacred_exchange may be a better placement.
+  suggested_aliases:
+  - animal_agent_in_human_deception
+  - animal_intermediary_in_scheme
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-interprets-human-weapons-as-strange-bodily-or-fiery-powers
+  motif_id: animal_interprets_human_weapons_as_strange_bodily_or_fiery_powers
+  label: Animal interprets human weapons as strange bodily or fiery powers
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe animal perspective, etiological misunderstanding,
+    comic narration, or culture-contact weapon interpretation rather than a stable
+    motif.
+  cautions: Do not map to sacred_fire or divine_warrior solely because weapons or
+    fire are mentioned; source context is needed.
+  suggested_aliases:
+  - animal_misinterprets_human_weapons
+  - weapons_seen_as_bodily_or_fiery_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-intruder-killed-while-feeding-from-a-carcass-wound
+  motif_id: animal_intruder_killed_while_feeding_from_a_carcass_wound
+  label: Animal intruder killed while feeding from a carcass wound
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be a highly specific predation or hunting episode rather
+    than a broad symbolic motif.
+  cautions: Could fit trickster only if the carcass is a trap or deception; otherwise
+    preserve as passage evidence and avoid broad pattern queries.
+  suggested_aliases:
+  - animal_caught_feeding_from_carcass
+  - carcass_wound_feeding_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-intrusion-at-prepared-meal
+  motif_id: animal_intrusion_at_prepared_meal
+  label: Animal intrusion at prepared meal
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: An animal intruding into a meal may function as a fable or trickster
+    disruption of social order and food-sharing boundaries.
+  cautions: Very broad and contextual; if the passage is simply an incident at a feast,
+    exclude or keep as evidence detail. Consider sacred_exchange if hospitality or
+    food reciprocity is central.
+  suggested_aliases:
+  - animal_disrupts_prepared_meal
+  - animal_intruder_at_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-intrusion-prompting-new-furnishings
+  motif_id: animal_intrusion_prompting_new_furnishings
+  label: Animal intrusion prompting new furnishings
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads like a passage-specific causal detail about furnishings
+    rather than a reusable mythic motif.
+  cautions: If the episode is a Buddhist moral fable about animal disruption, human
+    review may preserve it under trickster or sacred_law, but the current wording
+    is too narrow for pattern queries.
+  suggested_aliases:
+  - animal_intrusion_causes_household_change
+  - animal_disruption_prompts_new_furnishings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-jealousy-of-another-animal-s-voice
+  motif_id: animal_jealousy_of_another_animal_s_voice
+  label: Animal jealousy of another animal's voice
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: low
+  rationale: Jealous imitation or rivalry over another being's voice aligns with envy
+    and failed imitation patterns under pride/downfall.
+  cautions: Could instead be an etiological animal tale explaining species voices;
+    if so cosmic_origin or a future animal-etiology group may fit better.
+  suggested_aliases:
+  - animal_envy_of_voice
+  - jealous_imitation_of_animal_voice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-killed-to-prevent-feared-witchcraft
+  motif_id: animal_killed_to_prevent_feared_witchcraft
+  label: Animal killed to prevent feared witchcraft
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Killing an animal to avert feared witchcraft functions as apotropaic
+    protection or ritual prevention of spiritual danger.
+  cautions: Culturally sensitive; verify whether the source frames this as ritual
+    law, suspicion, scapegoat logic, or a narrative accusation before final mapping.
+  suggested_aliases:
+  - apotropaic_killing_of_animal_against_witchcraft
+  - animal_sacrificed_or_killed_to_avert_witchcraft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-killing-accompanying-a-counted-presentation
+  motif_id: animal_killing_accompanying_a_counted_presentation
+  label: Animal killing accompanying a counted presentation
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ritualized animal killing with enumeration or display,
+    but the function is unclear without source context.
+  cautions: May belong under sacrifice if offering is central, sacred_exchange if
+    presentation is reciprocal gift, or be an ethnographic/passage artifact if merely
+    descriptive.
+  suggested_aliases:
+  - counted_presentation_with_animal_killing
+  - enumerated_offering_with_animal_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence animal-fable or ethnographic details;
+  preserve granularity and avoid promoting new groups without recurrence.
+- Do not infer sacred fire, combat, or transformation from animal wording alone; map
+  by narrative function where possible.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several items require source evidence to distinguish
+    animal-fable motifs from passage-specific details.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2076
+  input_sha256: 66037180c255238cd0dbf4a90881e79751aa373550575fae2441495fc15ac1fc
+

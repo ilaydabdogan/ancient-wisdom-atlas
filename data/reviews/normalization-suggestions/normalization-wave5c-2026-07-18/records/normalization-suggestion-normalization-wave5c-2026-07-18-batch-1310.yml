@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1310
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.enchanted-or-wonderful-objects-named-in-tale-titles
+  motif_id: enchanted_or_wonderful_objects_named_in_tale_titles
+  label: enchanted or wonderful objects named in tale titles
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes title wording rather than a narrative motif involving
+    the objects themselves.
+  cautions: If passages actually feature recurrent enchanted objects, index those
+    objects under sacred_treasures or sacred_vessel instead of this title-pattern
+    label.
+  suggested_aliases:
+  - wonderful objects named in tale titles
+  - enchanted objects in tale titles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanting-song-that-masters-nature-and-weapons
+  motif_id: enchanting_song_that_masters_nature_and_weapons
+  label: Enchanting song that masters nature and weapons
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: Song functioning as supernatural force over nature and weapons fits the
+    established enchanting_music group.
+  cautions: Could secondarily touch sacred_combat if weapon mastery is the main narrative
+    function.
+  suggested_aliases:
+  - enchanting song masters nature and weapons
+  - music that charms nature and restrains weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanting-speech
+  motif_id: enchanting_speech
+  label: Enchanting speech
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Enchantment by speech aligns with existing speech/narrative power aliases
+    such as enchantment of the soul by speech.
+  cautions: If the speech is a curse, oath, or blessing, curse_blessing_speech may
+    be better; if it is song, use enchanting_music.
+  suggested_aliases:
+  - enchantment by speech
+  - speech as enchantment
+  - enchanting rhetoric
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enclosure-formed-by-a-named-primordial-figure
+  motif_id: enclosure_formed_by_a_named_primordial_figure
+  label: enclosure formed by a named primordial figure
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could refer to cosmogonic formation, protective enclosure,
+    or a source-specific named figure detail.
+  cautions: Do not map solely from 'primordial'; verify whether the enclosure creates
+    world order, preserves life, or is just a named episode.
+  suggested_aliases:
+  - primordial figure forms an enclosure
+  - cosmic enclosure formed by primordial being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-a-named-boar-at-a-named-place
+  motif_id: encounter_with_a_named_boar_at_a_named_place
+  label: encounter with a named boar at a named place
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: The label is an episode-specific encounter defined by named entities
+    and place rather than a reusable motif.
+  cautions: If the boar functions as a supernatural adversary, hunt omen, or shapeshifter,
+    remap from passage evidence to sacred_combat, dream_and_vision, or shapeshifter.
+  suggested_aliases:
+  - named boar encounter at named place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encouraging-dreams-before-combat
+  motif_id: encouraging_dreams_before_combat
+  label: Encouraging dreams before combat
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: Dreams that encourage combat are dream-revelation episodes tied to battle
+    outcome or morale.
+  cautions: If the dream is a formal oracle or omen interpretation, prophecy_divination
+    may be a secondary mapping; combat context alone should not override dream function.
+  suggested_aliases:
+  - encouraging dream before battle
+  - battle-encouraging dream
+  - pre-combat dream of encouragement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.endless-division-and-futile-pursuit
+  motif_id: endless_division_and_futile_pursuit
+  label: endless division and futile pursuit
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase sounds like a philosophical image of futility rather than
+    a clear narrative motif.
+  cautions: Could fit wisdom, duality, non-action, or pride/downfall depending on
+    source context; may be commentary rather than motif.
+  suggested_aliases:
+  - futile pursuit through endless division
+  - endless division as futile pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.endurance-under-suffering-as-approved-heroic-speech
+  motif_id: endurance_under_suffering_as_approved_heroic_speech
+  label: Endurance under suffering as approved heroic speech
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes ethical endurance, heroic evaluation, and speech genre
+    without enough functional clarity.
+  cautions: May belong to sacred_combat, divine_warrior, sacred_law, wisdom, or storytelling_as_power
+    depending on whether speech, virtue, or ordeal is central.
+  suggested_aliases:
+  - heroic speech approving endurance under suffering
+  - approved endurance speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enduring-memory-of-virtuous-rulers
+  motif_id: enduring_memory_of_virtuous_rulers
+  label: enduring memory of virtuous rulers
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The remembered virtue of rulers supports models of legitimate ethical
+    rule and sacred political order.
+  cautions: If the passage is primarily moral instruction rather than rulership ideology,
+    sacred_law or wisdom may be better secondary groups.
+  suggested_aliases:
+  - memory of virtuous rulers
+  - lasting fame of virtuous rulers
+  - virtuous ruler remembered
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enduring-table-and-unfailing-provision-for-descendants
+  motif_id: enduring_table_and_unfailing_provision_for_descendants
+  label: enduring table and unfailing provision for descendants
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Unfailing provision for descendants fits the miraculous or inexhaustible
+    provision complex under divine_intervention.
+  cautions: If the table is a sacred object or covenantal inheritance, sacred_treasures,
+    sacred_vessel, or covenant may also be relevant.
+  suggested_aliases:
+  - unfailing provision for descendants
+  - enduring table of provision
+  - miraculous provision for descendants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and phrase abstract commentary
+  or title metadata; preserve passage evidence but avoid promoting over-specific labels.
+- Where speech, song, dream, and battle overlap, suggested placement follows the primary
+  medium or function rather than the surrounding combat context.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review should verify source evidence
+    for ambiguous philosophical and episode-specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1310
+  input_sha256: 17e9df37cf0f7914a3a60d2aab05dfe548b2bb1cdb0459444f2fadb18d4fa458
+

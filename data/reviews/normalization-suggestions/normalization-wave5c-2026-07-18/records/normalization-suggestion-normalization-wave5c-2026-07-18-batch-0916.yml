@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0916
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.message-from-a-nymph-associated-sacred-place
+  motif_id: message_from_a_nymph_associated_sacred_place
+  label: Message from a Nymph-associated sacred place
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A message from a sacred-place nymph may be divine guidance, but the label
+    lacks enough evidence about sender, content, and narrative function.
+  cautions: Could instead be theophany, prophecy/divination, sacred geography, or
+    a place-specific episode; single occurrence should not be over-promoted.
+  suggested_aliases:
+  - nymph_message_from_sacred_place
+  - sacred_place_nymph_message
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.messenger-dispatched-to-summon-a-divine-assembly
+  motif_id: messenger_dispatched_to_summon_a_divine_assembly
+  label: messenger dispatched to summon a divine assembly
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine or sacred messenger carrying out a summons fits the messenger/command
+    role already present under divine intervention.
+  cautions: If the passage mainly describes divine council procedure rather than intervention
+    in human affairs, preserve as contextual evidence rather than a strong motif.
+  suggested_aliases:
+  - divine_messenger_summons_assembly
+  - messenger_summons_divine_council
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.messenger-s-formal-obeisance-before-elder-gods
+  motif_id: messenger_s_formal_obeisance_before_elder_gods
+  label: Messenger's formal obeisance before elder gods
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a specific etiquette scene in a divine-court episode
+    rather than a reusable symbolic or narrative motif.
+  cautions: If repeated as a broader pattern of divine hierarchy or sacred protocol,
+    human review could remap to royal_legitimacy or sacred_law; current evidence is
+    too narrow.
+  suggested_aliases:
+  - formal_obeisance_before_elder_gods
+  - divine_court_messenger_obeisance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.migration-borne-transfer-of-a-ritual-society
+  motif_id: migration_borne_transfer_of_a_ritual_society
+  label: Migration-borne transfer of a ritual society
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may describe ritual continuity carried through migration, but it
+    also sounds like historical or ethnographic transmission rather than a motif.
+  cautions: Culturally sensitive and depends on source evidence; avoid making transmission
+    claims in normalization. May be excluded if it is a scholarly reconstruction note.
+  suggested_aliases:
+  - ritual_society_transferred_through_migration
+  - migration_and_ritual_society_continuity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.migration-memory-in-ritual-litany
+  motif_id: migration_memory_in_ritual_litany
+  label: Migration memory in ritual litany
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: ritual_variant
+  confidence: low
+  rationale: A ritual litany preserving migration memory could fit sacred narrative
+    transmission, but the label may be descriptive ethnographic evidence rather than
+    a motif.
+  cautions: Review cultural context and source framing; could also relate to sacred_time,
+    sacred_law, or be excluded as a provenance/history note.
+  suggested_aliases:
+  - ritual_litany_preserves_migration_memory
+  - migration_memory_preserved_in_litany
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.military-victory-commemorated-by-divine-statues
+  motif_id: military_victory_commemorated_by_divine_statues
+  label: Military victory commemorated by divine statues
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Commemoration of victory through divine statues links military success
+    with sacred combat and divine sanction.
+  cautions: If the focus is cult images or civic dedication rather than combat, secondary
+    review under sacred_treasures, sacred_craft, or royal_legitimacy may be appropriate.
+  suggested_aliases:
+  - divine_statues_commemorate_military_victory
+  - victory_dedication_through_divine_statues
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.milk-offering-or-pouring-that-empowers-demons
+  motif_id: milk_offering_or_pouring_that_empowers_demons
+  label: milk offering or pouring that empowers demons
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Milk pouring is an offering rite, here with an inverted or dangerous
+    effect of empowering hostile beings.
+  cautions: Could also involve sacred_substance, ritual prohibition, or demonic pollution;
+    preserve the negative empowerment detail for review.
+  suggested_aliases:
+  - milk_offering_empowers_demons
+  - dangerous_milk_libation_to_demons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mind-restrained-by-the-divine-name
+  motif_id: mind_restrained_by_the_divine_name
+  label: mind restrained by the divine Name
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restraint or transformation of the mind through the divine Name fits
+    interior discipline on a mystical path.
+  cautions: Could also map to sacred_knowledge or curse_blessing_speech if the emphasis
+    is sacred naming or performative utterance rather than inner discipline.
+  suggested_aliases:
+  - divine_name_restrains_the_mind
+  - mind_disciplined_by_divine_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.minimal-rite-retaining-merit-in-a-diminished-age
+  motif_id: minimal_rite_retaining_merit_in_a_diminished_age
+  label: minimal rite retaining merit in a diminished age
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The key contrast is a diminished age in which reduced ritual still preserves
+    merit, fitting cosmic decline and adapted sacred practice.
+  cautions: If passage focuses on ritual efficacy rather than decline of the age,
+    sacred_law or sacrifice may be better secondary mappings.
+  suggested_aliases:
+  - reduced_rite_retains_merit_in_declining_age
+  - minimal_ritual_merit_in_diminished_age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-attributed-to-god-rather-than-to-the-holy-person
+  motif_id: miracle_attributed_to_god_rather_than_to_the_holy_person
+  label: miracle attributed to God rather than to the holy person
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: The motif explicitly frames the miracle as divine agency rather than
+    autonomous human saintly power, matching divine intervention.
+  cautions: May also be a theological interpretation note; preserve attribution distinction
+    and avoid implying a separate miracle-worker motif without recurring evidence.
+  suggested_aliases:
+  - miracle_as_divine_agency_not_holy_person_power
+  - holy_person_miracle_attributed_to_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional placements for review and do not assert historical
+  transmission or borrowing.
+- Several one-off labels appear to be ritual, court, or ethnographic context rather
+  than durable motifs; human review should decide whether to exclude or preserve as
+  evidence notes.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch contains culturally specific ritual-memory and theological-attribution
+    labels requiring source-sensitive review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0916
+  input_sha256: 776f3feaba79d14441ac198a5dd4f4d092424af8715d40c2124849abcfa399d7
+

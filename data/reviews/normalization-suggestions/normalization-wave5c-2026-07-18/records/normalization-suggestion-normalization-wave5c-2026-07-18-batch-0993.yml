@@ -1,0 +1,345 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0993
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rainmaking-by-a-ritual-specialist-during-drought
+  motif_id: rainmaking_by_a_ritual_specialist_during_drought
+  label: Rainmaking by a ritual specialist during drought
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Rite
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Recurring batch cluster points to ritual weather-making not cleanly covered
+    by sacrifice, sacred waters, or divine intervention.
+  cautions: Culturally specific ritual roles need source-sensitive review; single
+    occurrence in this exact wording.
+  suggested_aliases:
+  - ritual rainmaking during drought
+  - weather-making rite
+  - rainmaking by ritual specialist
+  suggested_new_group:
+    id: rainmaking_weather_rite
+    label: Rainmaking and Weather Rite
+    description: Ritual acts, specialists, songs, implements, or sacred substances
+      used to call, withhold, coerce, or mediate rain and weather in response to drought
+      or communal need.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    - sacred_waters
+    related_group_ids:
+    - sacred_substance
+    - sacred_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover exchange, water symbolism,
+      and divine aid, but not the specific ritual technology and specialist role of
+      weather-making.
+- suggestion_id: normalization.suggestion.rainmaking-by-ritual-specialists
+  motif_id: rainmaking_by_ritual_specialists
+  label: rainmaking by ritual specialists
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Rite
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Same rainmaking-specialist pattern as related Australian labels; a weather-rite
+    group would preserve the ritual function.
+  cautions: Review terminology and local context before normalizing across Indigenous
+    traditions.
+  suggested_aliases:
+  - rainmaking by ritual specialist
+  - ritual weather specialist
+  - rainmaking specialists
+  suggested_new_group:
+    id: rainmaking_weather_rite
+    label: Rainmaking and Weather Rite
+    description: Ritual acts, specialists, songs, implements, or sacred substances
+      used to call, withhold, coerce, or mediate rain and weather in response to drought
+      or communal need.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    - sacred_waters
+    related_group_ids:
+    - sacred_substance
+    - sacred_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover exchange, water symbolism,
+      and divine aid, but not the specific ritual technology and specialist role of
+      weather-making.
+- suggestion_id: normalization.suggestion.rainmaking-by-water-rite-and-ritual-implements
+  motif_id: rainmaking_by_water_rite_and_ritual_implements
+  label: rainmaking by water rite and ritual implements
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Rite
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Water rite and ritual implements specify rainmaking technology rather
+    than general sacred-water symbolism.
+  cautions: Could receive secondary indexing under sacred_waters or sacred_treasures
+    if implements are central sacred objects.
+  suggested_aliases:
+  - rainmaking water rite
+  - rainmaking with ritual implements
+  - ritual implements for rainmaking
+  suggested_new_group:
+    id: rainmaking_weather_rite
+    label: Rainmaking and Weather Rite
+    description: Ritual acts, specialists, songs, implements, or sacred substances
+      used to call, withhold, coerce, or mediate rain and weather in response to drought
+      or communal need.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    - sacred_waters
+    related_group_ids:
+    - sacred_treasures
+    - sacred_substance
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover exchange, water symbolism,
+      and sacred objects, but not the rainmaking rite as the primary motif.
+- suggestion_id: normalization.suggestion.rainmaking-through-sacred-objects-cloud-image-and-song
+  motif_id: rainmaking_through_sacred_objects_cloud_image_and_song
+  label: Rainmaking through sacred objects, cloud image, and song
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Rite
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif combines objects, image, and song as a ritual means of producing
+    rain, matching a proposed weather-rite complex.
+  cautions: Do not flatten local ceremonial specificity; sacred_treasures or enchanting_music
+    may be useful secondary relations only if emphasized.
+  suggested_aliases:
+  - rainmaking through sacred objects
+  - rainmaking song and cloud image
+  - ritual song for rain
+  suggested_new_group:
+    id: rainmaking_weather_rite
+    label: Rainmaking and Weather Rite
+    description: Ritual acts, specialists, songs, implements, or sacred substances
+      used to call, withhold, coerce, or mediate rain and weather in response to drought
+      or communal need.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    - sacred_waters
+    related_group_ids:
+    - sacred_treasures
+    - enchanting_music
+    - sacred_substance
+    reason_existing_groups_insufficient: No existing group captures rainmaking as
+      a ritual-weather function; object, image, and song details would be dispersed
+      across several groups.
+- suggestion_id: normalization.suggestion.rainmaking-witch-or-ritual-weather-specialist
+  motif_id: rainmaking_witch_or_ritual_weather_specialist
+  label: rainmaking witch or ritual weather specialist
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Rite
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on a ritual weather-making role, part of the same rainmaking
+    cluster.
+  cautions: The word witch may be a translation or outsider category; human review
+    should preserve culturally appropriate role terminology.
+  suggested_aliases:
+  - ritual weather specialist
+  - rainmaking specialist
+  - weather-making ritual practitioner
+  suggested_new_group:
+    id: rainmaking_weather_rite
+    label: Rainmaking and Weather Rite
+    description: Ritual acts, specialists, songs, implements, or sacred substances
+      used to call, withhold, coerce, or mediate rain and weather in response to drought
+      or communal need.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    - sacred_waters
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_law
+    - sacred_substance
+    reason_existing_groups_insufficient: Existing groups do not preserve the specialist
+      weather-making role without reducing it to generic divine intervention or ritual
+      exchange.
+- suggestion_id: normalization.suggestion.raised-hand-incantation-to-a-goddess
+  motif_id: raised_hand_incantation_to_a_goddess
+  label: Raised-hand incantation to a goddess
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An incantation is performative ritual speech directed to a divine figure.
+  cautions: Raised-hand gesture and goddess add local ritual specificity; if the passage
+    is primarily petitionary prayer, sacred_exchange may also fit.
+  suggested_aliases:
+  - raised-hand incantation
+  - incantation to a goddess
+  - ritual prayer gesture to goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.raised-hand-prayer-to-a-goddess
+  motif_id: raised_hand_prayer_to_a_goddess
+  label: raised-hand prayer to a goddess
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayer to a deity functions as petitionary sacred relation and reciprocal
+    appeal.
+  cautions: If formulaic spoken power is the focus, curse_blessing_speech may be a
+    better primary group; gesture should remain evidence detail.
+  suggested_aliases:
+  - raised-hand prayer
+  - petitionary prayer to a goddess
+  - ritual hand-raised prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rank-coded-ritual-dress
+  motif_id: rank_coded_ritual_dress
+  label: Rank-coded ritual dress
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual dress encoding rank expresses ordered social hierarchy through
+    ceremonial regulation.
+  cautions: Could also relate to royal_legitimacy if the passage concerns rulership;
+    single occurrence may be a normative-ritual detail.
+  suggested_aliases:
+  - ritual dress marking rank
+  - rank-coded ceremonial clothing
+  - hierarchical ritual dress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rank-differentiated-mourning-rites
+  motif_id: rank_differentiated_mourning_rites
+  label: Rank-differentiated mourning rites
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Mourning rites graded by rank are ritual-social regulations maintaining
+    hierarchical order.
+  cautions: If the emphasis is emotional lament rather than regulated hierarchy, lament_and_mourning
+    may be secondary.
+  suggested_aliases:
+  - rank-graded mourning rites
+  - hierarchical mourning ritual
+  - mourning rites by social rank
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rank-graded-funerary-and-mourning-rites
+  motif_id: rank_graded_funerary_and_mourning_rites
+  label: Rank-graded funerary and mourning rites
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Funerary and mourning observances graded by rank are ceremonial law organizing
+    social order.
+  cautions: May also be indexed to heroic_funeral_rites if honoring the dead is central,
+    but this label foregrounds rank regulation.
+  suggested_aliases:
+  - rank-graded funerary rites
+  - rank-differentiated mourning rites
+  - hierarchical funerary ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Five rainmaking labels form a coherent cluster; a Rainmaking and Weather Rite group
+  may be warranted if source review confirms recurring ritual-weather function across
+  records.
+- Confucian rank-graded ritual labels are best treated provisionally as sacred_law/social-order
+  variants rather than separate motifs unless broader recurrence appears.
+- Raised-hand prayer/incantation labels preserve Mesopotamian ritual gesture as evidence
+  detail while mapping the function to prayer, exchange, or performative speech.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; rainmaking cluster recommended for human taxonomy
+    review as a potential new group.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0993
+  input_sha256: f2e835e3aedfa42bddb4bbd0a529c313e25804c6acf3409e2c4564243de4bcf3
+

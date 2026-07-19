@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2566
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.uncertain-fate-after-flight-or-rising
+  motif_id: uncertain_fate_after_flight_or_rising
+  label: uncertain fate after flight or rising
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too vague to distinguish ascent, transformation, escape,
+    disappearance, or death-by-fate.
+  cautions: Single occurrence; source context is needed before mapping to ascent,
+    death_and_transformation, shapeshifter, or death_by_fate.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.under-earth-witch-chief
+  motif_id: under_earth_witch_chief
+  label: under-earth witch chief
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a specific under-earth supernatural role, but the narrative
+    function is unclear.
+  cautions: Culturally sensitive and potentially person/role-specific; could involve
+    descent, otherworld, threshold guardian, or local spirit taxonomy depending on
+    evidence.
+  suggested_aliases:
+  - under-earth supernatural chief
+  - subterranean witch leader
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underground-dwelling-entered-through-the-earth
+  motif_id: underground_dwelling_entered_through_the_earth
+  label: underground dwelling entered through the earth
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Entering an underground dwelling through the earth functions as passage
+    into a lower or hidden realm.
+  cautions: If the dwelling is an enchanted parallel realm rather than a death/depth
+    journey, otherworld may be a secondary or better mapping.
+  suggested_aliases:
+  - subterranean dwelling entered through earth
+  - earth-entry underground dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underwater-being-as-master-of-the-deep
+  motif_id: underwater_being_as_master_of_the_deep
+  label: Underwater being as master of the deep
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: A ruling underwater being could be chaos, sacred waters, otherworld,
+    or divine intervention depending on its function.
+  cautions: Do not map water symbolism automatically to flood or descent; source evidence
+    needed to identify whether this is deity, monster, guardian, or cosmological personification.
+  suggested_aliases:
+  - master of the deep
+  - underwater ruler being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underwater-evasion-of-a-shoreline-ambush
+  motif_id: underwater_evasion_of_a_shoreline_ambush
+  label: Underwater evasion of a shoreline ambush
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-specific tactical action rather than a durable
+    symbolic motif.
+  cautions: If repeated evidence shows water as a transformative escape boundary,
+    consider sacred_waters or passage_through_waters; otherwise preserve only as passage
+    detail.
+  suggested_aliases:
+  - underwater escape from ambush
+  - submerged evasion at shoreline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underwater-monster-in-rapids-destroys-boats
+  motif_id: underwater_monster_in_rapids_destroys_boats
+  label: underwater monster in rapids destroys boats
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A destructive monster in dangerous rapids functions as a perilous boundary
+    or passage guardian.
+  cautions: Could also relate to sacred_waters or chaos if the source emphasizes water
+    power or cosmic disorder rather than guarded passage.
+  suggested_aliases:
+  - rapids monster destroys boats
+  - underwater monster as river-passage peril
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underwater-monstrous-beings
+  motif_id: underwater_monstrous_beings
+  label: Underwater monstrous beings
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a broad creature class without enough function to choose
+    threshold, chaos, waters, or otherworld.
+  cautions: Avoid creating a monster category from one broad label; review whether
+    beings guard, lure, attack, teach, or inhabit an otherworld.
+  suggested_aliases:
+  - monstrous underwater beings
+  - aquatic monsters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underwater-people-beckon-and-attempt-to-seize-the-living
+  motif_id: underwater_people_beckon_and_attempt_to_seize_the_living
+  label: Underwater people beckon and attempt to seize the living
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Beckoning underwater beings who seize the living resemble perilous lures
+    at a boundary between worlds.
+  cautions: Could also fit otherworld if the underwater people belong to an enchanted
+    realm; review whether seizure means abduction, drowning, or initiation.
+  suggested_aliases:
+  - underwater people lure the living
+  - aquatic beings beckon and seize humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underwater-town-or-townhouse-heard-by-the-living
+  motif_id: underwater_town_or_townhouse_heard_by_the_living
+  label: Underwater town or townhouse heard by the living
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An audible underwater town suggests a hidden parallel realm accessible
+    through sensory signs.
+  cautions: If the passage concerns the dead or underworld geography, descent or afterlife_passage
+    may be relevant; if only an isolated sound detail, treat as evidence note.
+  suggested_aliases:
+  - audible underwater town
+  - underwater settlement heard by humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underwater-transport-to-a-monster-dwelling
+  motif_id: underwater_transport_to_a_monster_dwelling
+  label: Underwater transport to a monster dwelling
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transport underwater to a monster dwelling functions as a journey into
+    a dangerous hidden/depth realm.
+  cautions: Could also map to otherworld or threshold_guardian depending on whether
+    the focus is realm-entry, abduction, or confrontation with the monster.
+  suggested_aliases:
+  - underwater journey to monster dwelling
+  - subaqueous transport to monster house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels cluster around underwater realms and beings, but current evidence
+  is mostly single-occurrence and functionally varied; avoid promoting a new underwater-realm
+  group until recurrence and functions are clearer.
+- Water imagery should be separated into passage, otherworld, threshold peril, chaos,
+  and flood only when source evidence supports those functions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai.normalization
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific supernatural roles and Native
+    American underwater-being labels need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2566
+  input_sha256: 00aeb7aa6795db0b5d29b78d3ed0119e9ff84704de897d75d504f500ec63c011
+

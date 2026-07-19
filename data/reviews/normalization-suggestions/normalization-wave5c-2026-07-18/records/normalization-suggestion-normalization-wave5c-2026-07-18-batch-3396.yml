@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3396
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ethical-redaction-assigns-stock-antagonist-roles
+  motif_id: ethical_redaction_assigns_stock_antagonist_roles
+  label: ethical redaction assigns stock antagonist roles
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes editorial or redactional handling of characters rather
+    than a narrative motif.
+  cautions: Preserve as source-critical or reception evidence if useful; do not use
+    for motif pattern queries without passage-level antagonist action.
+  suggested_aliases:
+  - redaction_assigns_stock_antagonist_roles
+  - ethical_redaction_of_antagonists
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethical-refusal-of-office-or-withdrawal-from-office
+  motif_id: ethical_refusal_of_office_or_withdrawal_from_office
+  label: ethical refusal of office or withdrawal from office
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusing or withdrawing from office for ethical reasons concerns social
+    duty, proper conduct, and moral order.
+  cautions: Could instead fit wisdom or royal_legitimacy if the passage emphasizes
+    sage counsel, office-holding legitimacy, or rulership rather than ethical obligation.
+  suggested_aliases:
+  - ethical_withdrawal_from_office
+  - refusal_of_office_on_moral_grounds
+  - resignation_from_office_for_ethics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethical-refusal-of-retaliatory-rapine
+  motif_id: ethical_refusal_of_retaliatory_rapine
+  label: ethical refusal of retaliatory rapine
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on restraint from vengeance and sexualized retaliation
+    as an ethical norm within sacred social order.
+  cautions: Sensitive wording; human review should verify the source context. If framed
+    as mercy toward enemies, covenant or divine_judgment may be secondary.
+  suggested_aliases:
+  - ethical_refusal_of_retributive_sexual_violence
+  - restraint_from_retaliatory_violence
+  - refusal_of_revenge_rape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethnogenesis-through-mingling-and-naming
+  motif_id: ethnogenesis_through_mingling_and_naming
+  label: Ethnogenesis through mingling and naming
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: The group already includes ancestral and genealogical origins of peoples
+    from named ancestors; this is a people-origin etiology.
+  cautions: If the passage is only a historical genealogy or ethnographic note, preserve
+    as contextual evidence rather than a symbolic motif.
+  suggested_aliases:
+  - ethnogenesis_by_mingling_and_naming
+  - people_origin_through_mingling_and_naming
+  - genealogical_origin_of_peoples_through_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethnonym-explained-through-homophony-with-a-natural-object
+  motif_id: ethnonym_explained_through_homophony_with_a_natural_object
+  label: ethnonym explained through homophony with a natural object
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is an etiological naming motif for a people-name, close to existing
+    eponymous ancestor and place-name etiology children.
+  cautions: The homophony mechanism is linguistic and may be a commentary artifact
+    unless the story itself explains the ethnonym mythically.
+  suggested_aliases:
+  - ethnonym_etymology_from_natural_object
+  - people_name_explained_by_homophony
+  - etiological_ethnonym_from_nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-blood-colored-rock
+  motif_id: etiological_blood_colored_rock
+  label: Etiological blood-colored rock
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explains a landscape feature, aligning with etiological landscape
+    formation and naming under cosmic_origin.
+  cautions: Could also relate to death_and_transformation if blood from a death transforms
+    the rock; source evidence should determine secondary mapping.
+  suggested_aliases:
+  - blood_colored_rock_etiology
+  - rock_colored_by_blood_etiology
+  - etiological_landscape_blood_stain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-explanation-for-a-ceremonial-feature
+  motif_id: etiological_explanation_for_a_ceremonial_feature
+  label: Etiological explanation for a ceremonial feature
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to determine whether the ceremonial feature concerns
+    sacrifice, sacred law, sacred time, initiation, or another ritual complex.
+  cautions: Culturally specific ceremonial material should be reviewed with source
+    context; avoid flattening a local rite into a generic motif.
+  suggested_aliases:
+  - ceremonial_feature_etiology
+  - origin_of_ceremonial_feature
+  - ritual_feature_origin_story
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-explanation-for-ants-carrying-bundles
+  motif_id: etiological_explanation_for_ants_carrying_bundles
+  label: Etiological explanation for ants carrying bundles
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is an animal-behavior origin story, a small-scale etiology compatible
+    with the broad origin/etiology group.
+  cautions: Likely too specific for a canonical motif; preserve as granular evidence
+    unless similar animal-behavior etiologies recur.
+  suggested_aliases:
+  - ant_behavior_etiology
+  - origin_of_ants_carrying_bundles
+  - etiology_of_ant_bundle_carrying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-explanation-for-eating-fishes
+  motif_id: etiological_explanation_for_eating_fishes
+  label: etiological explanation for eating fishes
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could explain diet, taboo, subsistence practice, trickster
+    event, or sacred law depending on the story.
+  cautions: Do not map to sacred_law unless the passage frames fish-eating as a rule,
+    permission, or prohibition; otherwise it may be a local custom etiology.
+  suggested_aliases:
+  - origin_of_eating_fish
+  - fish_eating_etiology
+  - etiology_of_fish_consumption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-explanation-for-goat-cutting-custom
+  motif_id: etiological_explanation_for_goat_cutting_custom
+  label: Etiological explanation for goat-cutting custom
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A custom-origin label involving animal cutting could be sacrifice, ritual
+    law, ceremonial etiology, or a passage-specific ethnographic detail.
+  cautions: Culturally sensitive ritual/custom material needs source review; avoid
+    assuming sacrifice without evidence of offering or sacred exchange.
+  suggested_aliases:
+  - goat_cutting_custom_etiology
+  - origin_of_goat_cutting_custom
+  - ritual_custom_origin_goat_cutting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence etiological labels; keep granular details as
+  evidence notes unless recurrence supports new children.
+- Ethical labels often need passage context to distinguish sacred_law, covenant, wisdom,
+  and divine_judgment.
+- Culturally specific ceremonial or custom-origin labels should receive human review
+  before broad pattern-query inclusion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3396
+  input_sha256: cf10f77702c3c024f3f58a38d0d7034ed1093a6eabee23ca850b6160a50f0a4c
+

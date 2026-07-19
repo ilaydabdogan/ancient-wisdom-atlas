@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3661
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.masked-youthful-accompaniment-with-percussive-sticks
+  motif_id: masked_youthful_accompaniment_with_percussive_sticks
+  label: masked youthful accompaniment with percussive sticks
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a specific ritual performance element,
+    but its function is unclear without source context.
+  cautions: Culturally specific ceremonial details should not be flattened into generic
+    ritual or music categories without evidence; may be an ethnographic passage detail.
+  suggested_aliases:
+  - masked youth attendants with percussion
+  - percussive masked youth accompaniment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - sacred_law
+    - enchanting_music
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mass-conversion-and-ordination
+  motif_id: mass_conversion_and_ordination
+  label: mass conversion and ordination
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Conversion and ordination may mark religious transformation or community
+    formation, but no existing group directly captures mass religious affiliation
+    change.
+  cautions: Could be historical/community event detail rather than reusable mythic
+    motif; source evidence should show narrative or ritual significance.
+  suggested_aliases:
+  - collective conversion and ordination
+  - mass ordination after conversion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_law
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mass-conversion-following-a-leading-group-s-example
+  motif_id: mass_conversion_following_a_leading_group_s_example
+  label: Mass conversion following a leading group's example
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns collective religious change by imitation of leaders,
+    which is not cleanly covered by initiation or covenant alone.
+  cautions: May be a historical report or social process rather than a motif; avoid
+    making transmission or conversion-history claims from taxonomy placement.
+  suggested_aliases:
+  - collective conversion by elite example
+  - mass conversion following leaders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - covenant
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.massacre-followed-by-punitive-expedition-and-amnesty-or-retaliation
+  motif_id: massacre_followed_by_punitive_expedition_and_amnesty_or_retaliation
+  label: massacre followed by punitive expedition and amnesty or retaliation
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The sequence centers on collective violence, punitive expedition, and
+    retaliation/amnesty, fitting warfare and conflict patterns.
+  cautions: Highly episode-specific; if moral reckoning or legal mercy is primary,
+    divine_judgment or covenant may be secondary.
+  suggested_aliases:
+  - punitive expedition after massacre
+  - massacre followed by retaliation or amnesty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.massacre-of-those-left-behind-with-captive-female-survivors
+  motif_id: massacre_of_those_left_behind_with_captive_female_survivors
+  label: Massacre of those left behind with captive female survivors
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a violent aftermath of conflict with captives, best
+    parked under broad warfare/combat.
+  cautions: Contains gendered captivity and massacre details; preserve as evidence
+    and review for cultural sensitivity rather than promoting as canonical motif.
+  suggested_aliases:
+  - massacre of abandoned group with women taken captive
+  - captive female survivors after massacre
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.massacre-of-women
+  motif_id: massacre_of_women
+  label: massacre of women
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a broad violent event, but its narrative function is unclear
+    from wording alone.
+  cautions: Gendered mass violence should not be normalized as a motif without source
+    context; may be historical, episode-specific, or culturally sensitive evidence.
+  suggested_aliases:
+  - killing of women
+  - collective killing of women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_judgment
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.massacre-plunder-and-burning-of-a-settlement
+  motif_id: massacre_plunder_and_burning_of_a_settlement
+  label: massacre, plunder, and burning of a settlement
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Massacre, plunder, and settlement burning form a warfare/raid destruction
+    pattern.
+  cautions: If the passage frames the burning as cosmic or divine destruction, divine_judgment
+    or flood_and_renewal may be relevant; otherwise keep as conflict evidence.
+  suggested_aliases:
+  - settlement destroyed by massacre plunder and fire
+  - raid with massacre plunder and burning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.massacre-while-defenders-are-absent
+  motif_id: massacre_while_defenders_are_absent
+  label: massacre while defenders are absent
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes strategic or opportunistic collective violence during
+    absent defense, fitting conflict and raid patterns.
+  cautions: May be too specific unless it recurs; if focus is betrayal or violated
+    protection, betrayal_violated_trust may be secondary.
+  suggested_aliases:
+  - attack during defenders absence
+  - massacre of undefended community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.master-destroyed-by-his-own-hounds
+  motif_id: master_destroyed_by_his_own_hounds
+  label: Master destroyed by his own hounds
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Destruction by one's own animals often functions as ironic reversal or
+    punishment fitting moral reckoning.
+  cautions: Could alternatively be animal-reversal, fate, or metamorphosis context;
+    confirm whether punishment or tragic accident is emphasized.
+  suggested_aliases:
+  - hunter killed by his own hounds
+  - master killed by his own dogs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mastery-confers-power-over-lifespan
+  motif_id: mastery_confers_power_over_lifespan
+  label: Mastery confers power over lifespan
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Spiritual mastery affecting lifespan fits contemplative attainment and
+    transformed relation to life and death.
+  cautions: If the passage centers on literal life-death control rather than discipline,
+    death_and_transformation or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - spiritual mastery over lifespan
+  - attainment grants control of lifespan
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - sacred_knowledge
+    - soul_loss_restoration
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence violent-event or ritual-performance details;
+  human review should decide whether they are reusable motifs or passage artifacts.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3661
+  input_sha256: 212c1bfb0b8ec5537727bfc7feaafe85057315f3ae11f4d13e517e7d13a89269
+

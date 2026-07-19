@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1652
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.primordial-dating-by-reference-to-raven-s-making-of-the-people
+  motif_id: primordial_dating_by_reference_to_raven_s_making_of_the_people
+  label: Primordial dating by reference to Raven's making of the people
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: The label invokes a creation-of-people event as a primordial time reference,
+    which may fit origin/creation rather than kingship or law.
+  cautions: Could be a chronological or passage-framing artifact rather than a motif;
+    Raven may also function as culture hero or trickster depending on source evidence.
+  suggested_aliases:
+  - raven_makes_the_people
+  - primordial_time_referenced_by_creation_of_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.primordial-first-people-before-the-present-world-order
+  motif_id: primordial_first_people_before_the_present_world_order
+  label: primordial first people before the present world order
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: narrower_than
+  confidence: medium
+  rationale: A prior people before the present order fits successive world-age or
+    earlier-world schemas.
+  cautions: If the passage emphasizes creation of humans rather than replacement of
+    world orders, cosmic_origin may be a better placement.
+  suggested_aliases:
+  - first_people_before_present_order
+  - primordial_people_of_an_earlier_world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.primordial-ordering-before-visible-creation
+  motif_id: primordial_ordering_before_visible_creation
+  label: Primordial ordering before visible creation
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif concerns pre-visible cosmic ordering, a creation/cosmogony
+    pattern.
+  cautions: May also relate to duality in Zoroastrian context if the ordering is structured
+    by opposing cosmic principles.
+  suggested_aliases:
+  - pre_visible_cosmic_ordering
+  - primordial_order_before_creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.primordial-temporary-rulers
+  motif_id: primordial_temporary_rulers
+  label: Primordial temporary rulers
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns rulership in primordial time and may index early sacred
+    political order.
+  cautions: Too little evidence to know whether these are kings, culture heroes, world-age
+    figures, or a passage-specific genealogy; could fit cosmic_origin or world_ages_cosmic_decline.
+  suggested_aliases:
+  - temporary_rulers_in_primordial_time
+  - early_world_temporary_rulership
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.private-vengeance-instead-of-centralized-punishment
+  motif_id: private_vengeance_instead_of_centralized_punishment
+  label: private vengeance instead of centralized punishment
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a social-order mechanism for punishment and retaliation,
+    fitting sacred law/social order.
+  cautions: Could be ethnographic legal description rather than a mythic motif; if
+    framed as moral reckoning by sacred powers, divine_judgment may be secondary.
+  suggested_aliases:
+  - private_vengeance_over_central_punishment
+  - retaliatory_justice_without_central_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.problem-reported-rulemaking-sequence
+  motif_id: problem_reported_rulemaking_sequence
+  label: Problem-reported rulemaking sequence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a textual or procedural formula for rule narration rather
+    than a symbolic motif.
+  cautions: If the passage itself dramatizes the sacred origin of law through reported
+    cases, preserve evidence under sacred_law instead of excluding.
+  suggested_aliases:
+  - reported_problem_then_rule_formula
+  - case_based_rulemaking_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.problem-reported-to-authority-followed-by-practical-allowance-or-prohibition
+  motif_id: problem_reported_to_authority_followed_by_practical_allowance_or_prohibition
+  label: Problem reported to authority followed by practical allowance or prohibition
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A report to authority producing an allowance or prohibition fits case-based
+    formation of sacred/legal discipline.
+  cautions: Very procedural and possibly a Vinaya redactional formula; exclude as
+    meta-textual if it only describes textual structure.
+  suggested_aliases:
+  - case_report_followed_by_allowance_or_prohibition
+  - authority_issues_rule_after_reported_problem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.processional-and-ellipse-dance-ordering
+  motif_id: processional_and_ellipse_dance_ordering
+  label: Processional and ellipse dance ordering
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: low
+  rationale: A formal procession and dance ordering may belong to ritual cycle or
+    ceremonial order.
+  cautions: The ellipse pattern may be locally significant and culturally sensitive;
+    without ritual context it may be an over-specific performance detail rather than
+    a reusable motif.
+  suggested_aliases:
+  - ordered_processional_dance
+  - elliptical_ceremonial_dance_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.processional-preparation-for-an-honored-woman
+  motif_id: processional_preparation_for_an_honored_woman
+  label: processional preparation for an honored woman
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Preparation for an honored woman in procession suggests ritualized social
+    status or ceremonial order.
+  cautions: Could be wedding, fertility, saint, queen, or seasonal rite context; too
+    ambiguous to map confidently without source evidence.
+  suggested_aliases:
+  - honored_woman_processional_preparation
+  - ceremonial_preparation_of_honored_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.productive-transformation-through-breaking-cutting-or-grinding
+  motif_id: productive_transformation_through_breaking_cutting_or_grinding
+  label: productive transformation through breaking, cutting, or grinding
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, breaking or grinding likely symbolizes ego-discipline
+    that produces spiritual transformation.
+  cautions: If the passage concerns literal food, craft, or sacrifice rather than
+    inner transformation, sacred_substance, sacred_craft, or sacrifice may be better.
+  suggested_aliases:
+  - productive_breaking_as_transformation
+  - spiritual_transformation_through_crushing_or_grinding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and procedural or context-dependent;
+  source review is needed before promoting them as durable motifs.
+- The review bucket suggests power/law, but several labels are more plausibly cosmogonic
+  or ritual-performance motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no transmission claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1652
+  input_sha256: b773de17698f0760d8850ed3dfc236438c6af82f0d48252f7202180ce0b3140e
+

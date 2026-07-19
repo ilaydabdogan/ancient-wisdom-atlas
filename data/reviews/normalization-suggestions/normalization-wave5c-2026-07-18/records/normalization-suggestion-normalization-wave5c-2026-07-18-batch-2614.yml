@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2614
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.autonomous-magical-weapon
+  motif_id: autonomous_magical_weapon
+  label: Autonomous magical weapon
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical weapon acting with agency is best treated as a power object
+    that confers or exercises supernatural force.
+  cautions: If the weapon itself determines a battle outcome, secondary review under
+    divine_warrior or sacred_combat may be useful; single occurrence may be too granular.
+  suggested_aliases:
+  - self_acting_magical_weapon
+  - animated_supernatural_weapon
+  - autonomous_supernatural_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avengers-protected-against-all-weapons-except-one-material
+  motif_id: avengers_protected_against_all_weapons_except_one_material
+  label: Avengers protected against all weapons except one material
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: high
+  rationale: Protection from all weapons except one material matches conditional invulnerability
+    limited by a specific exception.
+  cautions: The avenger role is secondary; preserve it as evidence detail if important
+    to the episode.
+  suggested_aliases:
+  - weapon_immunity_except_one_material
+  - conditional_weapon_invulnerability
+  - invulnerability_except_for_one_material
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-a-treacherously-slain-loyal-knight
+  motif_id: avenging_a_treacherously_slain_loyal_knight
+  label: Avenging a treacherously slain loyal knight
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a vengeance-after-slaying combat sequence, already close
+    to sacred_combat aliases such as avenging a slain companion.
+  cautions: Highly episode-specific; if emphasis is broken loyalty or treachery rather
+    than martial vengeance, betrayal_violated_trust may be a better secondary group.
+  suggested_aliases:
+  - avenging_a_slain_loyal_companion
+  - vengeance_for_treacherously_slain_knight
+  - avenging_a_treacherously_slain_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-an-insult-to-dwarf-figures
+  motif_id: avenging_an_insult_to_dwarf_figures
+  label: Avenging an insult to dwarf figures
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: narrower_than
+  confidence: medium
+  rationale: This closely parallels existing retaliation-for-insult motifs where an
+    insult to vulnerable or marginal figures receives punitive reversal.
+  cautions: Dwarf figures may be culturally specific supernatural beings; review whether
+    the episode is social insult, supernatural vengeance, or heroic combat before
+    final mapping.
+  suggested_aliases:
+  - retaliation_for_insult_to_dwarf_figures
+  - avenging_insult_to_humble_or_marginal_figures
+  - vengeance_for_insult_to_supernatural_small_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-monster-kin-after-slayer-s-victory
+  motif_id: avenging_monster_kin_after_slayer_s_victory
+  label: avenging monster kin after slayer’s victory
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin vengeance following a monster-slaying victory is a renewed combat
+    or retaliation sequence within heroic conflict.
+  cautions: Could involve monster-family cycles or kinship law not represented by
+    current groups; source context needed before treating as a durable motif.
+  suggested_aliases:
+  - monster_kin_seek_vengeance_after_slaying
+  - kin_vengeance_after_monster_slaying
+  - retaliation_by_monster_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-monster-slayer-seeks-killers-of-kin
+  motif_id: avenging_monster_slayer_seeks_killers_of_kin
+  label: avenging monster-slayer seeks killers of kin
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A monster-slayer pursuing killers of kin fits vengeance-driven heroic
+    combat.
+  cautions: If the main function is kinship obligation rather than combat, this may
+    need later review under a future vengeance/kinship group; avoid over-reading monster-slayer
+    status.
+  suggested_aliases:
+  - hero_avenges_killed_kin
+  - monster_slayer_avenges_kin
+  - kin_vengeance_by_monster_slayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avenging-war-expedition-for-a-killed-woman
+  motif_id: avenging_war_expedition_for_a_killed_woman
+  label: avenging war expedition for a killed woman
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A retaliatory war expedition for a killing is a martial vengeance pattern
+    within sacred or ritualized conflict.
+  cautions: The gendered victim detail may be locally significant; if the episode
+    centers on violated kinship or marriage bonds, sacred_love or covenant may be
+    secondary.
+  suggested_aliases:
+  - war_expedition_to_avenge_a_killed_woman
+  - retaliatory_war_for_slain_woman
+  - avenging_expedition_for_killed_kinwoman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avoidance-of-eating-a-jackal-s-heart-because-it-causes-cowardice
+  motif_id: avoidance_of_eating_a_jackal_s_heart_because_it_causes_cowardice
+  label: Avoidance of eating a jackal's heart because it causes cowardice
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prohibition on eating a specific animal part because it transmits a
+    trait fits taboo or ritualized food law.
+  cautions: Very specific and culturally sensitive; review source evidence before
+    indexing broadly. If framed as sympathetic magic rather than law, sacred_knowledge
+    or sacred_substance may be secondary.
+  suggested_aliases:
+  - food_taboo_against_jackal_heart
+  - animal_heart_food_taboo_causing_cowardice
+  - avoidance_of_trait_transmitting_animal_part
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avoidance-of-presenting-the-weapon-point
+  motif_id: avoidance_of_presenting_the_weapon_point
+  label: avoidance of presenting the weapon point
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a ritual etiquette, taboo, martial custom, or
+    passage-specific behavior, but function is unclear.
+  cautions: Needs source context to distinguish sacred law, apotropaic avoidance,
+    weapon etiquette, or ordinary practical conduct; likely too sparse as a motif
+    label.
+  suggested_aliases:
+  - weapon_point_avoidance_taboo
+  - avoidance_of_pointing_weapon_tip
+  - weapon_presentation_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.awakened-immortal-hero-defeats-a-released-tyrant
+  motif_id: awakened_immortal_hero_defeats_a_released_tyrant
+  label: Awakened immortal hero defeats a released tyrant
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: An immortal or sacred hero awakening to defeat a tyrant fits the divine-warrior
+    role of restoring order through combat.
+  cautions: Also touches eschatological renewal and deathless hero traditions; if
+    the passage emphasizes final cosmic restoration over combat, flood_and_renewal
+    or death_and_transformation may be secondary.
+  suggested_aliases:
+  - sleeping_immortal_hero_returns_to_defeat_tyrant
+  - awakened_deathless_hero_restores_order
+  - immortal_hero_defeats_released_oppressor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence conflict labels; several should remain
+  granular evidence under broader combat, judgment, or law groups rather than become
+  new canonical motifs.
+- Vengeance labels may need future review if a durable kin-vengeance or feud subgroup
+  is added; current best fit is sacred_combat unless moral reckoning is primary.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2614
+  input_sha256: 56fd58506793e9c648fddbb7d0d4b05fadc6e6725c24c5a8ccf487d9be4073d8
+

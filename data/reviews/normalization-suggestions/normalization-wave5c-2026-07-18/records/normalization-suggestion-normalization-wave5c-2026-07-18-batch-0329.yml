@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0329
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.return-from-successful-expedition-with-victory-dance-song
+  motif_id: return_from_successful_expedition_with_victory_dance_song
+  label: return from successful expedition with victory-dance song
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A successful expedition followed by return fits the broader departure-trial-return
+    arc.
+  cautions: The victory dance-song may be a culturally specific performance detail;
+    if the passage centers on ritual song rather than return, consider sacred_song
+    or storytelling/sound-power mappings.
+  suggested_aliases:
+  - victorious_return_with_dance_song
+  - return_from_expedition_with_victory_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-home-after-violent-dispute
+  motif_id: return_home_after_violent_dispute
+  label: return home after violent dispute
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a plot movement after conflict rather than a stable
+    mythic motif.
+  cautions: If the source shows transformed status, exile/homecoming, feud settlement,
+    or ritual reconciliation, remap to hero_journey, sacred_combat, or covenant after
+    evidence review.
+  suggested_aliases:
+  - homecoming_after_violent_dispute
+  - return_after_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-home-with-hunted-game
+  motif_id: return_home_with_hunted_game
+  label: return home with hunted game
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a routine narrative action or subsistence detail,
+    not a broad motif by itself.
+  cautions: Review source context; if the hunted game is sacred, transformative, tabooed,
+    or part of exchange with spirits, a sacred_exchange, sacred_law, or animal-helper
+    mapping may be warranted.
+  suggested_aliases:
+  - hunter_returns_with_game
+  - return_with_hunted_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-journey-obstructed-by-rain-and-floodwater
+  motif_id: return_journey_obstructed_by_rain_and_floodwater
+  label: return journey obstructed by rain and floodwater
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Floodwater obstructing a return journey makes water a boundary and ordeal
+    in passage.
+  cautions: Do not map to flood_and_renewal unless the passage involves world or social-order
+    destruction and renewal; could be a travel obstacle only.
+  suggested_aliases:
+  - return_obstructed_by_floodwater
+  - journey_blocked_by_rain_and_floodwater
+  - water_obstructs_return_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-a-former-servant-as-envoy
+  motif_id: return_of_a_former_servant_as_envoy
+  label: return of a former servant as envoy
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a role-and-plot detail without clear symbolic or narrative
+    function in the taxonomy.
+  cautions: If the envoy carries a divine decree, recognition token, or initiates
+    restored order, remap to divine_intervention, recognition_tokens_hidden_identity,
+    covenant, or hero_journey as context supports.
+  suggested_aliases:
+  - former_servant_returns_as_envoy
+  - returning_servant_envoy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-a-semi-departed-spirit-by-charm
+  motif_id: return_of_a_semi_departed_spirit_by_charm
+  label: return of a semi-departed spirit by charm
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: high
+  rationale: A partially departed spirit returned by charm matches loss or displacement
+    of soul/life-force ritually restored.
+  cautions: If the person is fully dead and restored to life, death_and_transformation
+    or resurrection may be secondary; preserve the charm mechanism as evidence detail.
+  suggested_aliases:
+  - spirit_recalled_by_charm
+  - return_of_departing_spirit_by_charm
+  - charm_recalls_departing_soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-bones-to-kin
+  motif_id: return_of_bones_to_kin
+  label: return of bones to kin
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Returning bones to kin concerns care of remains and restoration of proper
+    funerary or kin order.
+  cautions: If the practice centers on ancestor feeding, reburial, or ongoing relation
+    with the dead rather than heroic memorial, ancestor_rites may be better.
+  suggested_aliases:
+  - bones_returned_to_kin
+  - return_of_remains_to_family
+  - kin_receive_returned_bones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-captive-descended-children-to-paternal-village-and-chiefship
+  motif_id: return_of_captive_descended_children_to_paternal_village_and_chiefship
+  label: Return of captive-descended children to paternal village and chiefship
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Return to paternal village and chiefship centers on lineage-based restoration
+    of authority.
+  cautions: Composite and culturally specific; if the passage emphasizes return from
+    captivity more than legitimate succession, hero_journey or recognition_tokens_hidden_identity
+    may be better secondary mappings.
+  suggested_aliases:
+  - captive_descendants_return_to_chiefship
+  - return_to_paternal_chiefship
+  - lineage_return_and_chiefship_restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-cattle-after-proof-displayed
+  motif_id: return_of_cattle_after_proof_displayed
+  label: return of cattle after proof displayed
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The decisive element is proof displayed, which restores property or validates
+    a claim.
+  cautions: If cattle raiding, restitution, or social obligation is the focus, sacred_combat,
+    covenant, or sacred_exchange may be more appropriate; source evidence needed.
+  suggested_aliases:
+  - cattle_returned_after_proof
+  - proof_display_restores_cattle
+  - displayed_proof_recovers_cattle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-earthly-things-to-their-source
+  motif_id: return_of_earthly_things_to_their_source
+  label: return of earthly things to their source
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Returning earthly things to their source expresses dissolution, mortality,
+    and transformation back into origin-substance.
+  cautions: Could be wisdom or theological anthropology rather than narrative motif;
+    if phrased as teaching only, preserve as evidence under sacred_knowledge or exclude
+    if merely commentary.
+  suggested_aliases:
+  - earthly_things_return_to_source
+  - return_to_origin_at_death
+  - matter_returns_to_its_source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels were placed in a death/descent bucket because they contain 'return,'
+  but many are ordinary homecoming or plot-return details rather than death-return
+  motifs.
+- For single-occurrence labels, preserve local evidence notes and avoid promoting
+  new taxonomy groups without recurrence across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages should be checked
+    for ritual, kinship, and culturally specific meanings before final mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0329
+  input_sha256: f3714f5d41b9645843c9ecca5f73ad4fc3f834bd750baa0fe904de031920f309
+

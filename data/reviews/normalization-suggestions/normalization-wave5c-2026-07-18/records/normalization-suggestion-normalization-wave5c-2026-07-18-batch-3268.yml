@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3268
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.companion-pressured-into-hazardous-aid
+  motif_id: companion_pressured_into_hazardous_aid
+  label: companion pressured into hazardous aid
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe coercion, loyalty, betrayal, or a one-off plot
+    action rather than a stable motif.
+  cautions: Needs passage context to decide whether the hazard is heroic ordeal, violated
+    trust, sacred combat, or an episode-specific detail.
+  suggested_aliases:
+  - companion_coerced_into_dangerous_assistance
+  - hazardous_aid_under_pressure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - betrayal_violated_trust
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.companion-rejects-mercy-for-a-defeated-foe
+  motif_id: companion_rejects_mercy_for_a_defeated_foe
+  label: companion rejects mercy for a defeated foe
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing covenant group already includes mercy toward enemies and
+    refusal of supplication or ransom.
+  cautions: If the passage emphasizes post-battle honor or warrior ferocity rather
+    than mercy norms, sacred_combat or divine_warrior may be secondary.
+  suggested_aliases:
+  - mercy_rejected_for_defeated_foe
+  - companion_refuses_mercy_to_defeated_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.companion-saves-the-targeted-man-from-a-fatal-blow
+  motif_id: companion_saves_the_targeted_man_from_a_fatal_blow
+  label: companion saves the targeted man from a fatal blow
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This could be a heroic rescue, battlefield intervention, loyalty episode,
+    or simple action detail.
+  cautions: Do not map to divine_intervention unless a sacred power acts; do not map
+    to resurrection unless death actually occurs and is reversed.
+  suggested_aliases:
+  - companion_intercepts_fatal_blow
+  - companion_rescues_targeted_man_from_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.companion-sustains-and-hears-the-hidden-captive
+  motif_id: companion_sustains_and_hears_the_hidden_captive
+  label: companion sustains and hears the hidden captive
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines captivity, aid, and recognition/hearing; the dominant
+    narrative function is unclear.
+  cautions: May belong with sacred_exchange if feeding/sustaining is central, recognition_tokens_hidden_identity
+    if discovery is central, or be an over-specific episode detail.
+  suggested_aliases:
+  - companion_aids_hidden_captive
+  - hidden_captive_sustained_by_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - recognition_tokens_hidden_identity
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.companions-bound-by-shared-fate
+  motif_id: companions_bound_by_shared_fate
+  label: companions bound by shared fate
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Shared fate fits the destiny complex where lives or deaths are bound
+    by forces beyond individual control.
+  cautions: If the bond is an oath, sworn loyalty, or social obligation rather than
+    destiny, covenant may be better.
+  suggested_aliases:
+  - shared_fate_of_companions
+  - companions_joined_by_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - fate_figures_cosmic_weaving
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.companions-joined-by-shared-misfortune
+  motif_id: companions_joined_by_shared_misfortune
+  label: Companions joined by shared misfortune
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Shared misfortune may initiate companionship, a quest, moral testing,
+    or merely describe plot circumstance.
+  cautions: Needs evidence for whether misfortune produces an ordeal, sacred bond,
+    or narrative pairing before indexing.
+  suggested_aliases:
+  - companionship_through_shared_misfortune
+  - companions_united_by_common_adversity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - covenant
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.companions-lost-through-folly
+  motif_id: companions_lost_through_folly
+  label: companions lost through folly
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Loss caused by folly aligns with the downfall pattern of destructive
+    error, overconfidence, or lack of wisdom.
+  cautions: If folly violates a divine command, divine_judgment or sacred_law may
+    be secondary; if it is only travel attrition, it may be too specific.
+  suggested_aliases:
+  - companions_destroyed_by_folly
+  - folly_leads_to_loss_of_companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.companions-value-the-same-object-according-to-different-appetites
+  motif_id: companions_value_the_same_object_according_to_different_appetites
+  label: Companions value the same object according to different appetites
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label reads like a moral or fable observation about appetite and
+    valuation rather than a clear mythic motif.
+  cautions: Could fit wisdom, greed/temperance under divine_judgment, or fable commentary
+    depending on source evidence; avoid canonical promotion from one occurrence.
+  suggested_aliases:
+  - different_appetites_value_same_object_differently
+  - same_object_valued_by_different_desires
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comparable-hoop-and-pole-game
+  motif_id: comparable_hoop_and_pole_game
+  label: comparable hoop-and-pole game
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The word 'comparable' suggests a comparative note about a game rather
+    than a narrative or symbolic motif.
+  cautions: If the source passage gives the hoop-and-pole game ritual or cosmological
+    function, remap after review, possibly to sacred_time, initiation, or sacred_law.
+  suggested_aliases:
+  - comparative_hoop_and_pole_game_note
+  - hoop_and_pole_game_comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - _meta_textual
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comparative-chronicle-synchronization
+  motif_id: comparative_chronicle_synchronization
+  label: comparative chronicle synchronization
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes scholarly or chronicle alignment across records,
+    not a symbolic motif within a narrative.
+  cautions: Preserve as provenance or historiographic metadata if useful, but exclude
+    from Pattern Explorer motif queries.
+  suggested_aliases:
+  - chronicle_synchronization_note
+  - comparative_chronology_alignment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - _meta_textual
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several companion labels are single-occurrence and may be episode-level plot summaries;
+  human review should check whether a stable loyalty/companionship group is warranted
+  before adding new taxonomy.
+- Avoid treating companion rescue or aid as divine_intervention unless explicit sacred
+  agency is present.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence companion motifs need passage
+    context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3268
+  input_sha256: 5d69173c5fc7055ac419817db9505be0b86fb0bb6536db8f4b10d2409788dbaf
+

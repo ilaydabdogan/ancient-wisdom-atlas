@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3135
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ailing-spouse-demands-a-monkey-heart-as-food-or-cure
+  motif_id: ailing_spouse_demands_a_monkey_heart_as_food_or_cure
+  label: Ailing spouse demands a monkey heart as food or cure
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label resembles animal-fable deception or escape episodes where desired
+    food/body part drives predation or trickery.
+  cautions: Single occurrence and highly specific; if the passage centers on healing
+    taboo or spouse demand rather than animal trickery, review placement.
+  suggested_aliases:
+  - monkey_heart_demanded_as_cure
+  - demand_for_animal_heart_as_food_or_medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alarming-address-followed-by-avoidance
+  motif_id: alarming_address_followed_by_avoidance
+  label: alarming address followed by avoidance
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording is too abstract and passage-sequential to identify a stable
+    symbolic or narrative motif.
+  cautions: If source evidence shows a recurring taboo address, warning formula, or
+    avoidance ritual, remap under sacred_law or curse_blessing_speech.
+  suggested_aliases:
+  - avoidance_after_alarming_address
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alchemical-transmutation-by-wine
+  motif_id: alchemical_transmutation_by_wine
+  label: Alchemical transmutation by wine
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Wine functions as a transformative sacred substance, especially in Sufi
+    symbolic and mystical contexts.
+  cautions: May also support mystical_quest if the emphasis is inner transformation
+    rather than the substance image itself.
+  suggested_aliases:
+  - wine_as_transformative_substance
+  - mystical_wine_transmutation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alexander-the-great-cycle
+  motif_id: alexander_the_great_cycle
+  label: Alexander the Great cycle
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This names a narrative cycle or hero corpus rather than a reusable motif
+    within the taxonomy.
+  cautions: Specific episodes from the Alexander cycle may contain mappable motifs
+    such as quest, sacred kingship, otherworld journey, or immortality search.
+  suggested_aliases:
+  - alexander_cycle
+  - alexander_romance_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alien-cultural-attributes-imposed-in-retelling
+  motif_id: alien_cultural_attributes_imposed_in_retelling
+  label: alien cultural attributes imposed in retelling
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes retelling, redaction, or interpretive overlay rather
+    than a mythic motif.
+  cautions: Culturally sensitive; preserve only as provenance or editorial-history
+    evidence, not as a pattern-query motif.
+  suggested_aliases:
+  - cultural_overlay_in_retelling
+  - foreign_attributes_imposed_in_retelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alien-presence-blamed-for-communal-misfortune
+  motif_id: alien_presence_blamed_for_communal_misfortune
+  label: alien presence blamed for communal misfortune
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Blaming an outsider for communal misfortune may involve scapegoating,
+    social judgment, impurity, or local conflict rather than divine judgment.
+  cautions: Culturally sensitive wording and single occurrence; needs source context
+    before indexing. Could be sacred_law, sacrifice/scapegoat, divine_judgment, or
+    a non-motif social detail.
+  suggested_aliases:
+  - outsider_blamed_for_communal_misfortune
+  - stranger_presence_as_source_of_communal_misfortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.all-beings-as-links-in-an-unbreakable-chain
+  motif_id: all_beings_as_links_in_an_unbreakable_chain
+  label: all beings as links in an unbreakable chain
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: annihilation_union
+  suggested_group_label: Annihilation And Union
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The image emphasizes ontological unity and interconnection, fitting mystical
+    dissolution of separateness.
+  cautions: If the passage is ethical interdependence rather than mystical unity,
+    sacred_knowledge or sacred_law may be better.
+  suggested_aliases:
+  - chain_of_being_as_unity
+  - all_beings_interlinked
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.all-containing-cosmic-space
+  motif_id: all_containing_cosmic_space
+  label: all-containing cosmic space
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: broader_label
+  confidence: medium
+  rationale: The label concerns a cosmological container or total space within which
+    the ordered cosmos exists.
+  cautions: May instead fit supreme_ruler or sacred_knowledge if the passage identifies
+    this space with mind, deity, or revelation; label is abstract.
+  suggested_aliases:
+  - cosmic_container_space
+  - all_encompassing_cosmic_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.all-encompassing-deity-identified-with-totality
+  motif_id: all_encompassing_deity_identified_with_totality
+  label: all-encompassing deity identified with totality
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A deity identified with all reality fits the existing cosmic sovereignty
+    and universal divine totality cluster.
+  cautions: For Sikh materials, avoid reducing theological claims to generic pantheism;
+    review wording for doctrinal precision.
+  suggested_aliases:
+  - deity_as_totality
+  - all_encompassing_divine_totality
+  - divine_totality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.all-for-one-precious-exchange
+  motif_id: all_for_one_precious_exchange
+  label: all-for-one precious exchange
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a high-value exchange in which many goods or all
+    possessions are given for one precious object or value.
+  cautions: If the passage emphasizes renunciation, sacrifice, or wisdom-value rather
+    than reciprocity, mystical_quest, sacrifice, or sacred_knowledge may be better.
+  suggested_aliases:
+  - precious_all_for_one_exchange
+  - total_exchange_for_one_precious_value
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and abstract; recommendations are provisional
+  and should be checked against passage evidence.
+- Retelling/commentary labels should remain excluded from motif pattern queries unless
+  source passages provide a distinct narrative motif.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3135
+  input_sha256: 7da1646a2d22f767d13ebdfb7c59944df2219997726661cc8523ab4af82c69bd
+

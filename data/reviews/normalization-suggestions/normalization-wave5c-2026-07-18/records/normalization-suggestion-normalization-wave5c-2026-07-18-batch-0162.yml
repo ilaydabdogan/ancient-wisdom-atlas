@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0162
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.epidemic-death-riding-with-harvesting-tools
+  motif_id: epidemic_death_riding_with_harvesting_tools
+  label: Epidemic death riding with harvesting tools
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines personified epidemic death with reaper-like implements,
+    but no current group cleanly covers plague/death personification.
+  cautions: Single occurrence and culturally specific imagery; could be death_by_fate,
+    divine_judgment, or a passage-specific personification detail depending on evidence.
+  suggested_aliases:
+  - personified_epidemic_death
+  - death_as_harvester
+  - plague_death_with_harvesting_tools
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - divine_judgment
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eponymous-ancestor-and-place-name-origin
+  motif_id: eponymous_ancestor_and_place_name_origin
+  label: Eponymous ancestor and place-name origin
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: The normalization group already includes eponymous ancestor and land/name-origin
+    labels as etiological origin motifs.
+  cautions: If the passage mainly records genealogy without explaining a place name,
+    it may be too contextual for motif queries.
+  suggested_aliases:
+  - eponymous_ancestor
+  - eponymous_place_name_origin
+  - ancestor_place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eponymous-landscape-naming-through-death-or-burial
+  motif_id: eponymous_landscape_naming_through_death_or_burial
+  label: Eponymous landscape naming through death or burial
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Place or landscape naming from death or burial matches existing etiological
+    place-name children under cosmic_origin.
+  cautions: Preserve death/burial specificity as evidence; do not infer broader death-rebirth
+    or ancestor rites unless the passage supports ritual care of the dead.
+  suggested_aliases:
+  - place_name_origin_from_death_or_burial
+  - eponymous_landscape_etiology
+  - burial_place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eponymous-naming-from-bodily-mark-and-ancestral-deed
+  motif_id: eponymous_naming_from_bodily_mark_and_ancestral_deed
+  label: Eponymous naming from bodily mark and ancestral deed
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes name etiology, bodily mark, and ancestral deed; the main
+    narrative function is unclear from wording alone.
+  cautions: May fit cosmic_origin as etiology, recognition_tokens_hidden_identity
+    if the mark proves identity, or be an over-specific explanatory detail.
+  suggested_aliases:
+  - eponymous_naming_from_bodily_mark
+  - name_origin_from_ancestral_deed
+  - bodily_mark_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eponymous-place-name-through-burial
+  motif_id: eponymous_place_name_through_burial
+  label: eponymous place-name through burial
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Burial explaining a place name is a place-name etiology, already represented
+    in the cosmic_origin group.
+  cautions: If evidence is only a local antiquarian note, preserve as provenance rather
+    than promoting beyond granular aliasing.
+  suggested_aliases:
+  - place_name_origin_from_burial
+  - burial_place_name_etiology
+  - eponymous_burial_place_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.erasure-of-older-tomb-landscape-by-political-construction
+  motif_id: erasure_of_older_tomb_landscape_by_political_construction
+  label: Erasure of older tomb landscape by political construction
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like historical, political, or landscape commentary rather
+    than a reusable mythic motif.
+  cautions: If source narrative presents tomb erasure as sacrilege or ancestor disruption,
+    human review could map to ancestor_rites, divine_judgment, or royal_legitimacy.
+  suggested_aliases:
+  - political_erasure_of_tomb_landscape
+  - older_tomb_landscape_erased_by_construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - royal_legitimacy
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escalating-commands-under-threat-of-death
+  motif_id: escalating_commands_under_threat_of_death
+  label: Escalating commands under threat of death
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase describes a coercive plot structure but does not show a clear
+    sacred death, descent, or judgment function.
+  cautions: Could be villain coercion, ordeal, sacred law, or just an episode-specific
+    narrative mechanism; source context is required.
+  suggested_aliases:
+  - coercive_commands_under_death_threat
+  - death_threat_escalating_tasks
+  - escalating_death_threat_commands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escalating-penalty-according-to-extent-of-corpse-covering
+  motif_id: escalating_penalty_according_to_extent_of_corpse_covering
+  label: Escalating penalty according to extent of corpse covering
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A graded penalty for corpse handling or covering fits ritual purity law
+    and sacred regulation around death.
+  cautions: May be an over-specific legal detail; if the passage centers on pollution
+    from death, preserve under sacred_law rather than afterlife or mourning.
+  suggested_aliases:
+  - corpse_covering_penalty
+  - graded_penalty_for_corpse_covering
+  - mortuary_purity_penalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-from-a-predator-by-feigning-death
+  motif_id: escape_from_a_predator_by_feigning_death
+  label: Escape from a predator by feigning death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: alias
+  confidence: high
+  rationale: The trickster group already includes feigned-death escape from predator
+    or captivity as a deception-survival pattern.
+  cautions: Do not map to death_and_transformation unless actual death, rebirth, or
+    postmortem transformation occurs.
+  suggested_aliases:
+  - feigned_death_to_escape_a_predator
+  - feigning_death_to_escape_predator
+  - predator_escape_by_feigned_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-from-death-by-phantom-substitute
+  motif_id: escape_from_death_by_phantom_substitute
+  label: escape from death by phantom substitute
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A phantom substitute may signal miraculous rescue, illusion, substitution,
+    or mystical teaching; the function is ambiguous without the passage.
+  cautions: Could fit divine_intervention, death_and_transformation, trickster, or
+    mystical_quest depending on whether the substitute is divine, deceptive, initiatory,
+    or symbolic.
+  suggested_aliases:
+  - phantom_substitute_escapes_death
+  - death_escaped_by_illusory_double
+  - substitution_by_phantom_double
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - death_and_transformation
+    - mystical_quest
+    - trickster
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence etiological or legal details; preserve local
+  specificity in aliases while mapping only where the narrative function is clear.
+- Do not treat death-related wording as automatic evidence for death_rebirth, descent,
+  or afterlife passage.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0162
+  input_sha256: 810dd5eb8ae5e8e41e6d061f5200ddc04fb86561672dd63f7c9d542448ad5183
+

@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0083
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.corpse-pollution-of-sacred-or-protected-ground
+  motif_id: corpse_pollution_of_sacred_or_protected_ground
+  label: corpse pollution of sacred or protected ground
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Corpse pollution of protected ground is a ritual purity and sacred-space
+    regulation pattern, fitting sacred_law's purity and taboo scope.
+  cautions: Single Zoroastrian occurrence; may deserve a more specific mortuary pollution
+    subgroup if many related labels recur.
+  suggested_aliases:
+  - corpse_pollution_of_ground
+  - death_pollution_of_sacred_ground
+  - mortuary_pollution_of_protected_ground
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-pollution-of-water
+  motif_id: corpse_pollution_of_water
+  label: corpse pollution of water
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on impurity rules for contact between death and water,
+    a ritual prohibition/purity concern.
+  cautions: Do not map to sacred_waters unless the passage emphasizes water as transformative
+    boundary or purifier rather than pollution regulation.
+  suggested_aliases:
+  - death_pollution_of_water
+  - corpse_contamination_of_water
+  - mortuary_pollution_of_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-pollution-of-water-and-restoration-of-drinkability
+  motif_id: corpse_pollution_of_water_and_restoration_of_drinkability
+  label: Corpse-pollution of water and restoration of drinkability
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Pollution and restoration of usable water describes a purity-law repair
+    sequence after corpse contamination.
+  cautions: Could secondarily relate to sacred_waters or sacrifice if a purification
+    rite/offering performs the restoration; label is over-specific.
+  suggested_aliases:
+  - water_restored_after_corpse_pollution
+  - corpse_polluted_water_made_drinkable
+  - ritual_restoration_of_polluted_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-pollution-personified-as-an-attacking-demon-or-force
+  motif_id: corpse_pollution_personified_as_an_attacking_demon_or_force
+  label: Corpse pollution personified as an attacking demon or force
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A dangerous death-pollution force personified as an attacker fits sacred_law's
+    spirit contagion and apotropaic protection area.
+  cautions: If narrative agency of the demon is central, divine_intervention or a
+    future harmful-spirit group may be relevant; review Nasu-specific evidence carefully.
+  suggested_aliases:
+  - corpse_pollution_as_demon
+  - death_pollution_attacking_force
+  - personified_mortuary_contagion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-pollution-personified-as-an-attacking-entity
+  motif_id: corpse_pollution_personified_as_an_attacking_entity
+  label: Corpse pollution personified as an attacking entity
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: alias
+  confidence: medium
+  rationale: This is a close wording variant of corpse pollution personified as an
+    attacking demon or force, under ritual purity and spirit-contagion logic.
+  cautions: Likely should be synonym-merged with the demon/force wording rather than
+    retained as a separate granular motif.
+  suggested_aliases:
+  - corpse_pollution_personified_as_an_attacking_demon_or_force
+  - corpse_pollution_as_attacking_entity
+  - death_pollution_as_attacking_entity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-pollution-personified-as-nasu
+  motif_id: corpse_pollution_personified_as_nasu
+  label: corpse pollution personified as Nasu
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Nasu is a culturally specific personification of corpse pollution, fitting
+    the broader ritual purity/spirit-contagion pattern.
+  cautions: Preserve the Zoroastrian name as evidence; avoid flattening culturally
+    specific demonology if source analysis needs it.
+  suggested_aliases:
+  - nasu_as_corpse_pollution
+  - corpse_pollution_demon_nasu
+  - personified_death_pollution_nasu
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-pollution-transmitted-through-contact-and-material-connection
+  motif_id: corpse_pollution_transmitted_through_contact_and_material_connection
+  label: Corpse-pollution transmitted through contact and material connection
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Transmission of corpse pollution through contact is directly analogous
+    to existing spirit-contagion and ritual purity labels under sacred_law.
+  cautions: Could be indexed with mortuary rites in future if a dedicated death-pollution
+    group is added.
+  suggested_aliases:
+  - corpse_pollution_by_contact
+  - death_pollution_contagion
+  - mortuary_contagion_through_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-posed-as-a-sleeping-person
+  motif_id: corpse_posed_as_a_sleeping_person
+  label: Corpse posed as a sleeping person
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could be funerary preparation, concealment, deception, mourning
+    practice, or symbolic sleep-death imagery.
+  cautions: Single occurrence and no source context; avoid forcing into heroic_funeral_rites
+    or death_and_transformation without evidence of ritual function or transformation.
+  suggested_aliases:
+  - corpse_arranged_as_sleeping
+  - dead_body_posed_as_sleeping
+  - sleeping_pose_of_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-preparation-by-designated-household-and-ritual-personnel
+  motif_id: corpse_preparation_by_designated_household_and_ritual_personnel
+  label: Corpse preparation by designated household and ritual personnel
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Designated personnel preparing the body is a funerary rite that reaffirms
+    household and ritual order around the dead.
+  cautions: Existing group is hero-focused, while this may be ordinary Confucian mortuary
+    protocol; consider a broader funerary_rites group if many non-heroic corpse-preparation
+    labels recur.
+  suggested_aliases:
+  - designated_personnel_prepare_the_corpse
+  - household_and_ritual_corpse_preparation
+  - ritual_roles_in_preparing_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-preparation-with-meal-new-clothing-blankets-and-adornments
+  motif_id: corpse_preparation_with_meal_new_clothing_blankets_and_adornments
+  label: Corpse preparation with meal, new clothing, blankets, and adornments
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Meal and grave-preparation provisions suggest ritual care or feeding
+    of the dead, fitting ancestor_rites more than heroic memorialization.
+  cautions: Culturally specific mortuary details should be preserved; if the focus
+    is dressing/adornment rather than feeding or ongoing ancestor care, heroic_funeral_rites
+    may be a secondary broad fit.
+  suggested_aliases:
+  - corpse_preparation_with_food_and_clothing
+  - funerary_meal_and_adornment_of_the_dead
+  - provisioning_and_dressing_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Zoroastrian corpse-pollution labels appear to form a coherent mortuary pollution
+  / death-contagion cluster currently best handled under sacred_law because that group
+  already contains spirit contagion, purity, taboo, and apotropaic protection children.
+- If many more corpse-pollution and corpse-preparation labels recur, reviewers may
+  consider a broader non-heroic mortuary_rites or death_pollution subgroup related
+  to sacred_law, ancestor_rites, and heroic_funeral_rites.
+- No placement implies transmission or common origin; suggestions are only normalization
+  aids.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions; human review recommended for culturally specific
+    mortuary practices and Nasu terminology.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0083
+  input_sha256: 2e67e91d7202afea81ea96c38c09b8014bd75d935bf47ad3720a39099967a19b
+

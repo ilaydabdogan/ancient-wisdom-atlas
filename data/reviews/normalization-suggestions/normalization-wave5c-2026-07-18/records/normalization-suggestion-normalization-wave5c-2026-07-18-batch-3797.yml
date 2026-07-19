@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3797
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prepared-ground-before-higher-skill-or-construction
+  motif_id: prepared_ground_before_higher_skill_or_construction
+  label: Prepared ground before higher skill or construction
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe preparatory discipline, construction craft, or
+    a passage-specific practical instruction.
+  cautions: Single occurrence; source context is needed before mapping to sacred_craft,
+    initiation, or excluding as practical detail.
+  suggested_aliases:
+  - preparation_before_construction_or_skill
+  - prepared_ground_for_higher_skill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prepared-hospitality-without-visible-host
+  motif_id: prepared_hospitality_without_visible_host
+  label: Prepared hospitality without visible host
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mysteriously prepared welcome centers hospitality and guest reception,
+    even though the host is hidden or absent.
+  cautions: If the emphasis is an enchanted castle or otherworldly provisioning rather
+    than a hospitality obligation, otherworld or divine_intervention may be secondary.
+  suggested_aliases:
+  - invisible_host_prepares_hospitality
+  - mysteriously_prepared_hospitality
+  - hospitality_without_visible_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prepared-track-as-inter-village-race-space
+  motif_id: prepared_track_as_inter_village_race_space
+  label: Prepared track as inter-village race space
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a local setting or ethnographic detail about a race
+    venue rather than a reusable mythic motif.
+  cautions: If the race functions as ordeal, contest, ritual calendar event, or inter-community
+    sacred competition, human review may map it under initiation, sacred_combat, or
+    sacred_time.
+  suggested_aliases:
+  - inter_village_race_track
+  - prepared_race_space_between_villages
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preparedness-for-wilderness-dwelling
+  motif_id: preparedness_for_wilderness_dwelling
+  label: preparedness for wilderness dwelling
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: low
+  rationale: Preparedness for wilderness dwelling may reflect ascetic training for
+    a contemplative path away from ordinary life.
+  cautions: Could be monastic practical instruction rather than a motif; if no spiritual
+    quest or renunciation is present, exclude as contextual detail.
+  suggested_aliases:
+  - wilderness_dwelling_preparedness
+  - ascetic_preparation_for_wilderness_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prescribed-cleansing-of-a-monastic-dwelling
+  motif_id: prescribed_cleansing_of_a_monastic_dwelling
+  label: Prescribed cleansing of a monastic dwelling
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed cleansing rule for a dwelling fits ritual purity, sacred
+    regulation, and monastic discipline.
+  cautions: If the passage is merely housekeeping instruction without ritual or purity
+    force, it may be too practical for pattern queries.
+  suggested_aliases:
+  - monastic_dwelling_cleansing_rule
+  - ritual_cleansing_of_monastic_dwelling
+  - prescribed_monastic_cleanliness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.present-conversion-linked-to-former-age-j-taka-precedent
+  motif_id: present_conversion_linked_to_former_age_j_taka_precedent
+  label: Present conversion linked to former-age Jātaka precedent
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Linking present religious change to a former-birth or former-age precedent
+    fits the existing past-life identity and transformation cluster.
+  cautions: The Jātaka frame is culturally specific; preserve as evidence detail and
+    avoid treating the frame itself as a broad motif unless recurring.
+  suggested_aliases:
+  - present_conversion_linked_to_jataka_precedent
+  - conversion_explained_by_former_birth_precedent
+  - present_change_linked_to_former_age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.present-creatures-as-weak-imitations-of-mythic-originals
+  motif_id: present_creatures_as_weak_imitations_of_mythic_originals
+  label: present creatures as weak imitations of mythic originals
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The contrast between diminished present beings and stronger mythic originals
+    expresses decline from a primordial age.
+  cautions: Could also be an etiological explanation for animal traits; confirm whether
+    cosmic or temporal decline is explicit.
+  suggested_aliases:
+  - present_beings_as_diminished_mythic_originals
+  - weakened_present_creatures_from_mythic_prototypes
+  - creatures_as_degenerate_imitations_of_originals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.present-enjoyment-contrasted-with-deferred-promise
+  motif_id: present_enjoyment_contrasted_with_deferred_promise
+  label: present enjoyment contrasted with deferred promise
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and may be ethical teaching, mystical immediacy,
+    temptation, or rhetorical contrast.
+  cautions: Needs passage evidence; could fit mystical_quest, sacred_love, sacred_knowledge,
+    or be a non-motif aphoristic detail.
+  suggested_aliases:
+  - immediate_enjoyment_contrasted_with_deferred_reward
+  - present_pleasure_vs_deferred_promise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.present-landscape-anomaly-explained-by-former-deed
+  motif_id: present_landscape_anomaly_explained_by_former_deed
+  label: Present landscape anomaly explained by former deed
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Explaining a current landscape feature by a former deed is an etiological
+    landscape-origin pattern already represented in cosmic_origin children and aliases.
+  cautions: If the deed is mainly karmic moral consequence rather than landscape etiology,
+    divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - landscape_anomaly_etiology_from_former_deed
+  - present_landscape_explained_by_past_action
+  - etiological_landscape_anomaly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.present-life-as-a-thread-spun-away
+  motif_id: present_life_as_a_thread_spun_away
+  label: present life as a thread spun away
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Life imagined as a spun thread belongs to the weaving/thread imagery
+    of fate, time, and mortal life.
+  cautions: If used only as a general impermanence metaphor without fate or weaving
+    agency, mystical_quest or lament_and_mourning may be better.
+  suggested_aliases:
+  - life_thread_spun_away
+  - mortal_life_as_spun_thread
+  - life_as_thread_of_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several single-occurrence labels may be practical, rhetorical, or passage-specific
+  rather than durable motifs; source evidence should guide final placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Batch contains multiple low-confidence, single-occurrence Buddhist/Sufi practical
+    or abstract labels requiring source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3797
+  input_sha256: bdc710d7f0ab0b0c646a6b37d12a03f77f5bfce42e6dd09af89f54813d813788
+

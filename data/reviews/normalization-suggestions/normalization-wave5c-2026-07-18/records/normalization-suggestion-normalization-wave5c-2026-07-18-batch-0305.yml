@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0305
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.preventing-the-returning-spirit-from-entering-the-house
+  motif_id: preventing_the_returning_spirit_from_entering_the_house
+  label: preventing the returning spirit from entering the house
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A household rite barring a returning spirit fits apotropaic protection
+    and ritual regulation of spiritual danger already folded under sacred_law.
+  cautions: Also related to restless_dead_haunting_vengeance and ancestor_rites; review
+    source evidence for whether the spirit is an ancestor, ghost, disease-spirit,
+    or generalized harmful return.
+  suggested_aliases:
+  - household boundary against returning spirit
+  - apotropaic house protection from dead spirit
+  - mortuary protection of household threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preventive-self-death-requested-to-avoid-sin
+  motif_id: preventive_self_death_requested_to_avoid_sin
+  label: Preventive self-death requested to avoid sin
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve self-surrender to avoid moral failure, but could
+    also be a theological prayer, ascetic hyperbole, or passage-specific ethical statement.
+  cautions: Culturally and theologically sensitive; do not index as literal self-sacrifice
+    or death wish without passage evidence. Possible secondary fits include divine_judgment,
+    sacred_law, or mystical_quest.
+  suggested_aliases:
+  - death requested to avoid sin
+  - self-surrender to avoid moral transgression
+  - preventive death prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.priceless-treasure-analogy-for-spiritual-status
+  motif_id: priceless_treasure_analogy_for_spiritual_status
+  label: priceless treasure analogy for spiritual status
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes an analogy or rhetorical comparison rather than
+    a narrative motif or symbolic object functioning in a story.
+  cautions: If the passage treats an actual jewel, relic, or treasure as a power object,
+    remap to sacred_treasures or sacred_substance; otherwise preserve only as evidence
+    detail.
+  suggested_aliases:
+  - treasure metaphor for spiritual rank
+  - priceless jewel analogy for spiritual status
+  - spiritual status as treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.priestly-divine-protector-of-living-and-dead
+  motif_id: priestly_divine_protector_of_living_and_dead
+  label: Priestly divine protector of living and dead
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine protector with priestly functions over living and dead fits
+    sacred agency in human and postmortem affairs.
+  cautions: May also belong with afterlife_passage if the role administers death rites
+    or guides souls; source context should decide whether protection, priestly mediation,
+    or afterlife administration is primary.
+  suggested_aliases:
+  - divine priestly protector
+  - protector deity of living and dead
+  - priestly guardian of souls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.priestly-election-grounded-in-ancestral-zeal
+  motif_id: priestly_election_grounded_in_ancestral_zeal
+  label: Priestly election grounded in ancestral zeal
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: The label concerns sacred office authorized by ancestry and exemplary
+    zeal, structurally close to legitimacy by lineage and divine sanction.
+  cautions: This is priestly rather than royal; covenant or sacred_law may be better
+    if the passage emphasizes legal election, ritual office, or covenantal reward
+    rather than authority legitimation.
+  suggested_aliases:
+  - priestly legitimacy from ancestral zeal
+  - ancestral zeal authorizes priestly office
+  - sacred office grounded in ancestor merit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.priestly-mediation-at-birth-marriage-death-and-afterlife
+  motif_id: priestly_mediation_at_birth_marriage_death_and_afterlife
+  label: priestly mediation at birth, marriage, death, and afterlife
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label summarizes a religious role across life-cycle rites rather
+    than a clear narrative motif in the current groups.
+  cautions: Could be an ethnographic or doctrinal description rather than a motif.
+    If ritual mediation is central, possible fits include sacred_law, sacred_exchange,
+    ancestor_rites, or afterlife_passage depending on the specific rite.
+  suggested_aliases:
+  - priestly mediation of life-cycle rites
+  - ritual mediation from birth to afterlife
+  - religious specialist mediates life and death rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.primeval-long-lived-royal-ancestors
+  motif_id: primeval_long_lived_royal_ancestors
+  label: Primeval long-lived royal ancestors
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: narrower_than
+  confidence: medium
+  rationale: Primeval ancestors with extraordinary longevity often mark an earlier
+    world age or primordial order distinct from later decline.
+  cautions: If the passage focuses on royal lineage authorization, royal_legitimacy
+    may be primary; if it is only a genealogy of named figures, consider cosmic_origin
+    or exclusion as contextual detail.
+  suggested_aliases:
+  - long-lived ancestors of the primeval age
+  - antediluvian royal ancestors
+  - primordial royal lineage with long lifespans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.primeval-royal-ruin-built-by-culture-or-spirit-kings
+  motif_id: primeval_royal_ruin_built_by_culture_or_spirit_kings
+  label: Primeval royal ruin built by culture or spirit kings
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe sacred or supernatural construction by ancient
+    royal/spirit figures, but it is highly contextual and place-specific.
+  cautions: Could be sacred_craft, royal_legitimacy, culture_hero, otherworld, or
+    merely a ruin/place tradition. Review whether the ruin functions narratively or
+    is only an antiquarian setting.
+  suggested_aliases:
+  - primeval ruin built by spirit kings
+  - ancient royal ruin of supernatural builders
+  - culture-king construction of primeval ruin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.primitive-ancestors-before-fire-and-houses
+  motif_id: primitive_ancestors_before_fire_and_houses
+  label: Primitive ancestors before fire and houses
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: broader_label
+  confidence: medium
+  rationale: Ancestors lacking fire and houses set up the culture-hero/founder pattern
+    in which tools, fire, dwellings, or social order are introduced.
+  cautions: If no culture-bringing transition is present, this may instead be a world-ages
+    or ancestral-origin description. Avoid preserving the dated wording 'primitive'
+    except as generated label provenance.
+  suggested_aliases:
+  - ancestors before fire and houses
+  - pre-civilized ancestors before domestic arts
+  - early humans before culture-bringing gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.primordial-ancestral-pair-resumes-fertility-after-a-long-sterile-interval
+  motif_id: primordial_ancestral_pair_resumes_fertility_after_a_long_sterile_interval
+  label: primordial ancestral pair resumes fertility after a long sterile interval
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A primordial ancestral pair whose fertility resumes concerns origin of
+    beings or peoples through renewed generative capacity.
+  cautions: Could also relate to sacred_birth, survivor_pair, or seasonal_cycle if
+    the passage emphasizes miraculous birth, remnant renewal, or cyclical fertility
+    rather than ancestry/origin.
+  suggested_aliases:
+  - primordial pair resumes fertility
+  - ancestral pair fertility restored after sterility
+  - renewed fertility of first ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and read as doctrinal, ethnographic,
+  or passage-summary wording; human review should verify source evidence before creating
+  durable aliases.
+- For ancestry labels, distinguish genealogical origin, royal/priestly legitimation,
+  ancestor rites, and world-age nostalgia rather than mapping all ancestor language
+  to death/afterlife.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual and theological labels
+    require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0305
+  input_sha256: 8f800bcf07480fc7c6e2ee2ac7022739a7099aa5613e0dbd7d3c57040e94ffb4
+

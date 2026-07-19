@@ -1,0 +1,331 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2925
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.destructive-power-passes-through-vessel-and-food
+  motif_id: destructive_power_passes_through_vessel_and_food
+  label: destructive power passes through vessel and food
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests harmful power transmitted through objects or food,
+    but could be sacred contagion, poisoning, ritual pollution, or a passage-specific
+    episode.
+  cautions: Single occurrence; source evidence needed before mapping to sacred_law,
+    sacred_substance, sacred_vessel, or betrayal through food.
+  suggested_aliases:
+  - harmful_power_transmitted_through_food
+  - dangerous_contagion_through_vessel_and_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devotion-in-consecrated-houses-despite-commerce
+  motif_id: devotion_in_consecrated_houses_despite_commerce
+  label: Devotion in consecrated houses despite commerce
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern sacred space, piety amid worldly exchange, or ethical
+    instruction, but the motif function is unclear from the label alone.
+  cautions: Could be a passage-specific moral description rather than a reusable motif;
+    avoid mapping solely because houses are consecrated.
+  suggested_aliases:
+  - piety_in_sacred_houses_despite_trade
+  - devotion_preserved_in_commercial_sacred_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devotional-marks-and-plant-growth-likeness-of-the-faithful
+  motif_id: devotional_marks_and_plant_growth_likeness_of_the_faithful
+  label: Devotional marks and plant-growth likeness of the faithful
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines bodily devotional marks with plant-growth simile,
+    likely as an exegetical or poetic image rather than a clear normalized motif.
+  cautions: May be too composite or commentary-like; if bodily signs are central,
+    sacred_law or divine_judgment may fit, but evidence is needed.
+  suggested_aliases:
+  - devotional_marks_likened_to_plant_growth
+  - faithful_marked_like_growing_plants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devouring-being-with-rattling-stomach-contents
+  motif_id: devouring_being_with_rattling_stomach_contents
+  label: devouring being with rattling stomach contents
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Devouring Monster and Swallowed Victims
+  relationship: narrower_than
+  confidence: medium
+  rationale: 'The label points to a recurring monster-function: a devouring being
+    whose body contains swallowed persons or objects.'
+  cautions: The rattling stomach detail may be over-specific; review whether other
+    devouring-monster labels recur enough to justify a group.
+  suggested_aliases:
+  - devouring_monster_with_swallowed_contents
+  - swallowed_victims_inside_monster
+  suggested_new_group:
+    id: devouring_monster_swallowed_victims
+    label: Devouring Monster and Swallowed Victims
+    description: A giant, witch, monster, or other hostile being devours people, kin,
+      settlements, or travelers; swallowed victims or contents may remain inside,
+      reveal the danger, or enable escape and rescue.
+    parent_group_ids:
+    - threshold_guardian
+    - death_and_transformation
+    related_group_ids:
+    - trickster
+    - divine_warrior
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups cover threshold guardians,
+      combat, and death transformation, but no current group captures the repeated
+      narrative function of being swallowed by or escaping from a devouring monster.
+- suggestion_id: normalization.suggestion.devouring-destroyer-of-a-village
+  motif_id: devouring_destroyer_of_a_village
+  label: devouring destroyer of a village
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Devouring Monster and Swallowed Victims
+  relationship: functional_variant
+  confidence: medium
+  rationale: A being that devours or destroys an entire village fits a devouring-monster
+    threat pattern better than ordinary combat or divine judgment.
+  cautions: Confirm whether the passage emphasizes literal devouring, monstrous appetite,
+    or general destruction before final placement.
+  suggested_aliases:
+  - village_devouring_monster
+  - devourer_destroying_a_village
+  suggested_new_group:
+    id: devouring_monster_swallowed_victims
+    label: Devouring Monster and Swallowed Victims
+    description: A giant, witch, monster, or other hostile being devours people, kin,
+      settlements, or travelers; swallowed victims or contents may remain inside,
+      reveal the danger, or enable escape and rescue.
+    parent_group_ids:
+    - threshold_guardian
+    - death_and_transformation
+    related_group_ids:
+    - trickster
+    - divine_warrior
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups cover threshold guardians,
+      combat, and death transformation, but no current group captures the repeated
+      narrative function of being swallowed by or escaping from a devouring monster.
+- suggestion_id: normalization.suggestion.devouring-giant-and-escape-through-body-openings
+  motif_id: devouring_giant_and_escape_through_body_openings
+  label: Devouring giant and escape through body openings
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Devouring Monster and Swallowed Victims
+  relationship: narrower_than
+  confidence: high
+  rationale: Swallowing by a giant followed by escape from the body is a clear devouring-monster
+    and swallowed-victim pattern.
+  cautions: May also index secondarily as initiation or death-and-return if the swallowed
+    passage functions as transformation or rebirth.
+  suggested_aliases:
+  - escape_from_inside_a_devouring_giant
+  - swallowed_by_giant_and_escaped_through_body
+  suggested_new_group:
+    id: devouring_monster_swallowed_victims
+    label: Devouring Monster and Swallowed Victims
+    description: A giant, witch, monster, or other hostile being devours people, kin,
+      settlements, or travelers; swallowed victims or contents may remain inside,
+      reveal the danger, or enable escape and rescue.
+    parent_group_ids:
+    - threshold_guardian
+    - death_and_transformation
+    related_group_ids:
+    - trickster
+    - divine_warrior
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups cover threshold guardians,
+      combat, and death transformation, but no current group captures the repeated
+      narrative function of being swallowed by or escaping from a devouring monster.
+- suggestion_id: normalization.suggestion.devouring-kamak-attacks-a-relative
+  motif_id: devouring_kamak_attacks_a_relative
+  label: devouring kamak attacks a relative
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label includes a culturally specific being and kin attack; it may
+    fit a devouring-monster group, but source context is needed.
+  cautions: Review the meaning of kamak and whether the kin relationship is central
+    before normalizing; avoid flattening local spirit categories.
+  suggested_aliases:
+  - devouring_spirit_attacks_kin
+  - devouring_kamak_relative_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devouring-pursuer-with-cosmic-scale-mouth
+  motif_id: devouring_pursuer_with_cosmic_scale_mouth
+  label: devouring pursuer with cosmic-scale mouth
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Devouring Monster and Swallowed Victims
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A pursuer with an enormous devouring mouth fits the devouring-monster
+    threat complex, with cosmic scale as an intensifying image.
+  cautions: If the mouth imagery is primarily cosmological rather than narrative pursuit,
+    cosmic_origin or chaos may be relevant; verify evidence.
+  suggested_aliases:
+  - cosmic_mouthed_devouring_pursuer
+  - devouring_pursuer_with_enormous_mouth
+  suggested_new_group:
+    id: devouring_monster_swallowed_victims
+    label: Devouring Monster and Swallowed Victims
+    description: A giant, witch, monster, or other hostile being devours people, kin,
+      settlements, or travelers; swallowed victims or contents may remain inside,
+      reveal the danger, or enable escape and rescue.
+    parent_group_ids:
+    - threshold_guardian
+    - death_and_transformation
+    related_group_ids:
+    - trickster
+    - divine_warrior
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups cover threshold guardians,
+      combat, and death transformation, but no current group captures the repeated
+      narrative function of being swallowed by or escaping from a devouring monster.
+- suggestion_id: normalization.suggestion.devouring-woman-or-witch
+  motif_id: devouring_woman_or_witch
+  label: Devouring woman or witch
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Devouring Monster and Swallowed Victims
+  relationship: role_variant
+  confidence: medium
+  rationale: A devouring witch or woman is a role variant of the hostile devourer
+    rather than a distinct sacred-feminine motif.
+  cautions: Do not map to mother_goddess or sacred_love based on gender; review whether
+    witch identity, cannibalism, or household persecution is central.
+  suggested_aliases:
+  - devouring_witch
+  - cannibal_woman
+  suggested_new_group:
+    id: devouring_monster_swallowed_victims
+    label: Devouring Monster and Swallowed Victims
+    description: A giant, witch, monster, or other hostile being devours people, kin,
+      settlements, or travelers; swallowed victims or contents may remain inside,
+      reveal the danger, or enable escape and rescue.
+    parent_group_ids:
+    - threshold_guardian
+    - death_and_transformation
+    related_group_ids:
+    - trickster
+    - divine_warrior
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups cover threshold guardians,
+      combat, and death transformation, but no current group captures the repeated
+      narrative function of being swallowed by or escaping from a devouring monster.
+- suggestion_id: normalization.suggestion.digging-tools-that-enlarge-a-settlement-and-bring-up-whales
+  motif_id: digging_tools_that_enlarge_a_settlement_and_bring_up_whales
+  label: Digging tools that enlarge a settlement and bring up whales
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe sacred tools, landscape transformation, abundance
+    provision, or a local etiological episode; no single existing group is clearly
+    supported.
+  cautions: Highly specific and culturally contextual; could be sacred_craft, sacred_treasures,
+    cosmic_origin, or divine_intervention depending on source evidence.
+  suggested_aliases:
+  - marvelous_digging_tools_create_settlement_abundance
+  - digging_tools_expand_land_and_raise_whales
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch cluster around devouring beings and swallowed or consumed
+  victims; a new group candidate is suggested provisionally because existing groups
+  do not cleanly capture that recurring narrative function.
+- Single-occurrence, culturally specific, or composite labels should be checked against
+  source passages before promotion or broad indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2925
+  input_sha256: dd398941fa44dbb3bd4b70edbd17577b4a6672ba49103da87fa6c3c5d9103224
+

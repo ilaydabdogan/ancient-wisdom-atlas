@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1920
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.moral-inversion-of-son-against-parents
+  motif_id: moral_inversion_of_son_against_parents
+  label: Moral inversion of son against parents
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests violation of filial or household moral order, which
+    may fit sacred law or judgment depending on passage evidence.
+  cautions: Single occurrence and abstract wording; could be family-conflict plot
+    detail, ethical commentary, or a specific mythic transgression.
+  suggested_aliases:
+  - filial_inversion
+  - son_against_parents
+  - violation_of_filial_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moral-lesson-by-exemplary-action
+  motif_id: moral_lesson_by_exemplary_action
+  label: Moral lesson by exemplary action
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: low
+  rationale: Exemplary action used to teach a moral lesson may belong with wisdom
+    transmission if it is part of narrative instruction.
+  cautions: Very generic and possibly an interpretive summary rather than a recurring
+    motif; verify the source action and cultural context.
+  suggested_aliases:
+  - exemplary_action_teaches_moral_lesson
+  - moral_instruction_by_example
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moral-lesson-learned-through-enforced-example
+  motif_id: moral_lesson_learned_through_enforced_example
+  label: Moral lesson learned through enforced example
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: An enforced example may function as corrective judgment or moral reckoning
+    if punishment or coercive demonstration is central.
+  cautions: Could also be wisdom instruction, social discipline, or a passage-specific
+    ethical gloss; needs source evidence before mapping.
+  suggested_aliases:
+  - enforced_example_teaches_moral_lesson
+  - moral_instruction_through_punitive_example
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moral-vices-personified-as-executioners
+  motif_id: moral_vices_personified_as_executioners
+  label: moral vices personified as executioners
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Personified vices executing or punishing a person express moral consequence
+    and reckoning through allegorical agents.
+  cautions: If the passage is mystical psychology rather than punishment, sacred_knowledge
+    or mystical_quest may be relevant secondary context.
+  suggested_aliases:
+  - personified_vices_as_punishers
+  - vices_as_executioners
+  - moral_vices_as_agents_of_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.more-permanent-one-slope-family-hut
+  motif_id: more_permanent_one_slope_family_hut
+  label: more permanent one-slope family hut
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a specific dwelling type or ethnographic setting
+    rather than a symbolic narrative motif.
+  cautions: Retain as cultural-context evidence if needed; only reconsider if the
+    hut functions ritually as a threshold, sanctuary, or cosmological model.
+  suggested_aliases:
+  - one_slope_family_hut
+  - family_hut_dwelling_detail
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortal-wife-confronts-supernatural-rival
+  motif_id: mortal_wife_confronts_supernatural_rival
+  label: Mortal wife confronts supernatural rival
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spouse confronting a supernatural rival centers on contested love,
+    marriage, and human-supernatural relational conflict.
+  cautions: Could also involve otherworld rivalry or sovereignty depending on source;
+    avoid reducing all supernatural-wife episodes to sacred marriage without evidence.
+  suggested_aliases:
+  - wife_confronts_supernatural_rival
+  - human_spouse_against_supernatural_rival
+  - mortal_spouse_contests_otherworld_rival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortuary-relic-worn-by-parents
+  motif_id: mortuary_relic_worn_by_parents
+  label: mortuary relic worn by parents
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Wearing a relic of the dead by kin is a mortuary-care practice maintaining
+    relations between living family and dead person.
+  cautions: If the relic is chiefly a power object, sacred_treasures may be a secondary
+    mapping; review sensitivity of mortuary practice documentation.
+  suggested_aliases:
+  - parental_wearing_of_mortuary_relic
+  - kin_wear_relic_of_dead
+  - mortuary_relic_as_kinship_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-and-child-separated-by-arboreal-transformation
+  motif_id: mother_and_child_separated_by_arboreal_transformation
+  label: mother and child separated by arboreal transformation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Separation caused by transformation into a tree is a metamorphic death/transformation
+    pattern with family-loss consequences.
+  cautions: If the tree becomes a sacred axis or cult object, axis_mundi or sacred_treasures
+    may be relevant; label is episode-specific.
+  suggested_aliases:
+  - arboreal_transformation_separates_mother_and_child
+  - family_separation_by_tree_transformation
+  - mother_child_loss_through_metamorphosis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-and-sister-accompany-child-toward-abandonment-site
+  motif_id: mother_and_sister_accompany_child_toward_abandonment_site
+  label: mother and sister accompany child toward abandonment site
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: uncertain
+  confidence: low
+  rationale: A child being taken toward abandonment may fit the persecuted-child complex
+    if household endangerment is central.
+  cautions: The label is a specific scene and does not identify motive, sacred destiny,
+    or persecutor; could be plot detail rather than motif.
+  suggested_aliases:
+  - child_taken_to_abandonment_site
+  - family_accompanies_child_to_abandonment
+  - child_abandonment_by_family
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-as-instigator-of-a-murderous-son
+  motif_id: mother_as_instigator_of_a_murderous_son
+  label: mother as instigator of a murderous son
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: uncertain
+  confidence: low
+  rationale: A parent inciting a child to murder may center on betrayal or violation
+    of family trust, but the target and function are unclear.
+  cautions: Could fit sacred_combat, divine_judgment, family conflict, or trickster
+    deception depending on context; single occurrence is too specific for confident
+    mapping.
+  suggested_aliases:
+  - mother_instigates_murderous_son
+  - maternal_instigation_of_murder
+  - parent_incites_child_to_kill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence family or moral-context scenes;
+  source evidence is needed before promoting them beyond provisional group placement.
+- 'Avoid treating family relationship terms alone as motifs unless the narrative function
+  is clear: persecution, betrayal, sacred birth, love rivalry, mortuary rite, or moral
+  judgment.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items are abstract or episode-specific
+    and should be checked against passage evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1920
+  input_sha256: 97fc5daf8a3646b0575a67f9cdd5fa957cad0afb76952a0e1a73c2cdfe845672
+

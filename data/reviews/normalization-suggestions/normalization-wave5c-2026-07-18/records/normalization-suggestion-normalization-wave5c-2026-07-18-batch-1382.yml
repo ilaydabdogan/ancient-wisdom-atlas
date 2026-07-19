@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1382
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.name-revelation-taunt-during-maritime-escape
+  motif_id: name_revelation_taunt_during_maritime_escape
+  label: Name-revelation taunt during maritime escape
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: The name disclosure and taunt may function as a powerful speech act,
+    but the maritime escape context may be episode-specific.
+  cautions: Could instead be trickster boasting, pursuit escape detail, recognition/name
+    taboo, or passage artifact; source evidence needed.
+  suggested_aliases:
+  - name_revelation_taunt
+  - taunting_name_disclosure_during_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-similarity-intensifying-jealousy
+  motif_id: name_similarity_intensifying_jealousy
+  label: name similarity intensifying jealousy
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a very local narrative trigger rather than a durable
+    symbolic or functional motif.
+  cautions: If jealousy drives persecution or love conflict in the passage, map that
+    broader pattern instead; preserve name similarity as evidence detail.
+  suggested_aliases:
+  - similar_names_intensify_jealousy
+  - onomastic_similarity_as_jealousy_trigger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-song-performance-with-selective-naming
+  motif_id: name_song_performance_with_selective_naming
+  label: Name-song performance with selective naming
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: A performed name-song may belong with speech, song, or narrative power,
+    but the function is unclear from the label.
+  cautions: Culturally specific naming/song practice needs source-sensitive review;
+    may fit sacred_song, enchanting_music, sacred_knowledge, or be too contextual.
+  suggested_aliases:
+  - selective_naming_in_song
+  - name_song_with_selective_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-that-prompts-literal-action
+  motif_id: name_that_prompts_literal_action
+  label: name that prompts literal action
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A name utterance that directly causes action fits performative sacred
+    speech or word-act logic.
+  cautions: Confirm the name itself has binding force; if it is only a pun or comic
+    misunderstanding, exclude or review as narrative detail.
+  suggested_aliases:
+  - performative_name_prompting_action
+  - name_utterance_causes_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-transfer-name-assumption-and-nickname-replacement
+  motif_id: name_transfer_name_assumption_and_nickname_replacement
+  label: Name transfer, name assumption, and nickname replacement
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: uncertain
+  confidence: low
+  rationale: Name transfer or assumption may affect identity, recognition, or status,
+    but its narrative function is not explicit.
+  cautions: Could require a distinct naming/identity group if recurrent; may also
+    be ethnographic naming custom rather than motif.
+  suggested_aliases:
+  - name_assumption
+  - name_transfer
+  - nickname_replacement
+  - name_change_as_identity_shift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-utterance-as-social-insult
+  motif_id: name_utterance_as_social_insult
+  label: name utterance as social insult
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: An insulting name utterance may be a consequential speech act, but the
+    sacred or binding function is unclear.
+  cautions: May reflect local etiquette, taboo, or social commentary rather than a
+    cross-query motif; review cultural context carefully.
+  suggested_aliases:
+  - insulting_name_utterance
+  - name_speaking_as_insult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-being-approached-for-weather
+  motif_id: named_being_approached_for_weather
+  label: Named being approached for weather
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Approaching a named being for weather resembles ritual petition or exchange
+    with a weather power.
+  cautions: If the being directly intervenes without exchange, divine_intervention
+    may be secondary; review respectful handling of named beings and local ritual
+    context.
+  suggested_aliases:
+  - weather_petition_to_named_being
+  - approaching_weather_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-birth-episodes
+  motif_id: named_birth_episodes
+  label: Named birth episodes
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording sounds like an indexing or episode-label artifact rather
+    than a motif claim about sacred birth.
+  cautions: If the actual passages describe extraordinary or destiny-marked births,
+    map those to miraculous_child or sacred_birth instead.
+  suggested_aliases:
+  - named_birth_episode
+  - birth_episode_heading
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-bridge
+  motif_id: named_bridge
+  label: Named bridge
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: uncertain
+  confidence: medium
+  rationale: In Zoroastrian context a named bridge may indicate an afterlife crossing,
+    but the label alone only says the bridge is named.
+  cautions: Confirm it is the postmortem crossing/judgment bridge; otherwise it may
+    be a place-name or textual artifact.
+  suggested_aliases:
+  - named_afterlife_bridge
+  - bridge_of_postmortem_crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-charm-in-fire-compels-an-absent-person
+  motif_id: named_charm_in_fire_compels_an_absent_person
+  label: named charm in fire compels an absent person
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A named charm that compels an absent person is a performative utterance
+    or formula with binding force.
+  cautions: Fire may be ritual medium rather than main motif; if song or enchantment
+    dominates, storytelling_as_power or enchanting_music may be relevant.
+  suggested_aliases:
+  - compelling_named_charm_in_fire
+  - fire_charm_compels_absent_person
+  - performative_charm_compulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Many labels in this batch concern names as speech acts, identity markers, or local
+  etiquette. Several need source review before creating any naming-specific group.
+- Do not infer transmission or shared origin from placement; these are provisional
+  query-normalization suggestions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; culturally specific naming and song practices
+    should receive human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1382
+  input_sha256: f8411379f90fd1f3c694d7cf870cd484713687056f197a15ee95616cdb46a452
+

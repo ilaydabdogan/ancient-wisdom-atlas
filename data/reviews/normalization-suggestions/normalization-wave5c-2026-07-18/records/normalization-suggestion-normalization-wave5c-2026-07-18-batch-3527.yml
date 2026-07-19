@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3527
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.helpless-invalid-deprived-of-nearby-sustenance
+  motif_id: helpless_invalid_deprived_of_nearby_sustenance
+  label: helpless invalid deprived of nearby sustenance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe cruelty, neglect, impossible dependency, or an
+    episode-specific deprivation scene; no clear existing group is indicated without
+    context.
+  cautions: Single occurrence and wording may be a passage detail rather than a reusable
+    motif. Review for possible sacred_law, divine_judgment, sacred_exchange, or exclusion.
+  suggested_aliases:
+  - helpless_person_denied_nearby_food
+  - invalid_deprived_of_sustenance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.herald-or-intermediary-from-a-local-group
+  motif_id: herald_or_intermediary_from_a_local_group
+  label: Herald or intermediary from a local group
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to identify a social role or source-context intermediary
+    rather than a symbolic or narrative motif.
+  cautions: If the passage depicts a messenger mediating between human and sacred
+    powers, reconsider under divine_intervention; if merely local-group mediation,
+    exclude from motif queries.
+  suggested_aliases:
+  - local_intermediary
+  - local_group_herald
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heraldic-identity-through-shields-and-cognizance
+  motif_id: heraldic_identity_through_shields_and_cognizance
+  label: Heraldic identity through shields and cognizance
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Heraldic shields and cognizance function as visible tokens proving identity,
+    lineage, or affiliation.
+  cautions: If the shield is primarily a sacred weapon or authority object, secondary
+    relation to sacred_treasures or royal_legitimacy may be useful.
+  suggested_aliases:
+  - heraldic_identity_token
+  - recognition_by_shield_device
+  - cognizance_as_identity_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heraldic-sign-as-identity-token
+  motif_id: heraldic_sign_as_identity_token
+  label: heraldic sign as identity token
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: alias
+  confidence: high
+  rationale: The label directly names a heraldic sign used as an identity token, matching
+    the recognition-token group.
+  cautions: Preserve heraldic specificity as evidence; do not generalize to royal
+    legitimacy unless the passage emphasizes lawful rank or succession.
+  suggested_aliases:
+  - heraldic_identity_token
+  - heraldic_sign_as_recognition_token
+  - recognition_by_heraldic_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heraldic-sign-as-possible-clue
+  motif_id: heraldic_sign_as_possible_clue
+  label: Heraldic sign as possible clue
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A heraldic sign used as a clue likely serves recognition or identity-discovery
+    functions.
+  cautions: The phrase 'possible clue' is tentative and may reflect commentary rather
+    than motif evidence; verify that the sign functions in the narrative.
+  suggested_aliases:
+  - heraldic_clue_to_identity
+  - heraldic_sign_as_identity_clue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.herbal-and-verbal-magic
+  motif_id: herbal_and_verbal_magic
+  label: Herbal and verbal magic
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines plant-based ritual power with spoken magical action,
+    which could fall under sacred_law, curse_blessing_speech, sacred_substance, or
+    sacred_knowledge depending on function.
+  cautions: Do not map solely from the word magic. Review whether the passage emphasizes
+    healing, curse, protection, divination, transformation, or ethnographic practice.
+  suggested_aliases:
+  - plant_and_word_magic
+  - herbal_magic_with_spoken_formula
+  - verbal_and_herbal_ritual_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.herd-obeys-spoken-commands
+  motif_id: herd_obeys_spoken_commands
+  label: herd obeys spoken commands
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is spoken command producing binding control over animals,
+    fitting performative speech power.
+  cautions: If the focus is animal helper behavior or pastoral realism rather than
+    supernatural speech efficacy, this may need exclusion or mapping to divine_intervention.
+  suggested_aliases:
+  - spoken_command_controls_herd
+  - performative_command_over_animals
+  - animals_obey_sacred_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.herd-prey-confronting-predator
+  motif_id: herd_prey_confronting_predator
+  label: herd prey confronting predator
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: narrower_than
+  confidence: medium
+  rationale: The existing trickster group already contains predator-prey fable reversals
+    and animal survival strategies; this appears to fit that animal-fable field.
+  cautions: If the scene is ecological description or hunting lore without deception,
+    reversal, or narrative strategy, exclude or review for an animal-specific group
+    not currently present.
+  suggested_aliases:
+  - prey_herd_confronts_predator
+  - collective_prey_resists_predator
+  - predator_prey_confrontation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.herdsman-with-boundless-flock-and-giant-hound
+  motif_id: herdsman_with_boundless_flock_and_giant_hound
+  label: herdsman with boundless flock and giant hound
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The composite image could indicate otherworldly abundance, supernatural
+    animal guardianship, pastoral sovereignty, or a passage-specific character description.
+  cautions: Single occurrence and highly specific. Review whether the herdsman or
+    hound functions as otherworld figure, threshold guardian, divine provision, or
+    merely descriptive detail.
+  suggested_aliases:
+  - supernatural_herdsman_with_boundless_flock
+  - giant_hound_guarding_boundless_flock
+  - otherworldly_herdsman_and_hound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hereditary-craft-specialist-transmits-emblem-carving-within-kin-line
+  motif_id: hereditary_craft_specialist_transmits_emblem_carving_within_kin_line
+  label: Hereditary craft specialist transmits emblem carving within kin line
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on craft knowledge and emblem-making transmitted through
+    kinship, fitting sacred craft more than general sacred knowledge.
+  cautions: May be ethnographic/social organization rather than motif. If the emblem
+    functions mainly as identity proof, relate to recognition_tokens_hidden_identity;
+    review cultural specificity carefully.
+  suggested_aliases:
+  - hereditary_emblem_carving
+  - kin_line_transmission_of_sacred_craft
+  - craft_specialist_transmits_emblem_making
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; suggested placements
+  are provisional and should be checked against passage evidence.
+- Arthurian heraldic-sign labels cluster cleanly under recognition_tokens_hidden_identity
+  and may be candidates for alias consolidation.
+- Labels involving local intermediaries or ethnographic craft roles need care to distinguish
+  narrative motifs from social or source-description artifacts.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3527
+  input_sha256: f2f7887325da8c9f8caefbba62df4d77aad82c0ea80f640a487bb3a158f5817c
+

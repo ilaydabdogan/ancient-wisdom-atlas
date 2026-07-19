@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1197
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.taboo-sign-and-spell-carrying-a-disease-curse
+  motif_id: taboo_sign_and_spell_carrying_a_disease_curse
+  label: taboo sign and spell carrying a disease curse
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A taboo sign and spell carrying disease-curse power fits ritual prohibition,
+    apotropaic danger, and sacred-law enforcement.
+  cautions: Single culturally specific Melanesian label; may be an ethnographic or
+    passage-specific object/sign detail rather than a reusable motif. Curse aspect
+    may also relate to curse_blessing_speech.
+  suggested_aliases:
+  - taboo sign carrying disease curse
+  - disease curse sign
+  - taboo spell sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taboo-sign-denotes-medicine
+  motif_id: taboo_sign_denotes_medicine
+  label: taboo sign denotes medicine
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A taboo sign marking medicine is likely a ritual/legal marker regulating
+    sacred or dangerous healing material.
+  cautions: The label may describe a local sign convention or source note, not a narrative
+    motif. Review whether 'medicine' means healing substance, ritual power, or a marked
+    taboo object.
+  suggested_aliases:
+  - taboo sign marks medicine
+  - taboo marker for medicine
+  - visual taboo marker for medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taboo-signs-as-visual-markers
+  motif_id: taboo_signs_as_visual_markers
+  label: Taboo signs as visual markers
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes the semiotic function of taboo signs rather than
+    a symbolic or narrative motif.
+  cautions: If a passage narrates a taboo sign enforcing ritual danger or protection,
+    preserve that evidence under sacred_law; as phrased, this is too generic and classificatory
+    for pattern queries.
+  suggested_aliases:
+  - taboo signs as markers
+  - visual taboo markers
+  - taboo visual signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taboo-speech-as-provocation-to-combat
+  motif_id: taboo_speech_as_provocation_to_combat
+  label: Taboo speech as provocation to combat
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on speech whose taboo force triggers combat, fitting
+    performative sacred speech more than general ritual purity.
+  cautions: Could receive secondary review under sacred_combat if the combat sequence
+    is primary. Confirm that taboo speech itself, not merely insult or challenge,
+    drives the episode.
+  suggested_aliases:
+  - taboo utterance provokes combat
+  - forbidden speech triggers fighting
+  - taboo speech challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taboo-test-confirms-peaceful-intent
+  motif_id: taboo_test_confirms_peaceful_intent
+  label: taboo test confirms peaceful intent
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A test based on taboo observance can function as sacred-law verification
+    of social intent.
+  cautions: May instead be diplomacy, hospitality, boundary testing, or a passage-specific
+    social custom. Culturally specific source evidence is needed before stable mapping.
+  suggested_aliases:
+  - taboo observance proves peaceful intent
+  - taboo test of peace
+  - ritual taboo test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taboo-violation-brings-collective-supernatural-disaster
+  motif_id: taboo_violation_brings_collective_supernatural_disaster
+  label: taboo violation brings collective supernatural disaster
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Violation of taboo followed by collective supernatural disaster is a
+    clear sacred-order punishment pattern.
+  cautions: If the passage emphasizes the taboo system itself rather than the punitive
+    disaster, sacred_law may be a useful secondary grouping.
+  suggested_aliases:
+  - taboo violation causes collective disaster
+  - collective punishment for taboo breach
+  - supernatural disaster after taboo violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taboo-violation-brings-illness-to-the-offender
+  motif_id: taboo_violation_brings_illness_to_the_offender
+  label: taboo violation brings illness to the offender
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Illness as consequence of taboo violation fits punishment and moral or
+    ritual reckoning by sacred order.
+  cautions: Could also be sacred_law if framed as ritual contagion or impurity mechanics
+    rather than judgment. Preserve illness specificity as evidence detail.
+  suggested_aliases:
+  - illness after taboo violation
+  - taboo breach causes sickness
+  - offender sickened by taboo breach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taboo-violation-causing-fear-and-threatened-violence
+  motif_id: taboo_violation_causing_fear_and_threatened_violence
+  label: taboo violation causing fear and threatened violence
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns a social response to breached taboo, which may belong
+    under sacred law if the taboo regulates order.
+  cautions: Fear and threatened violence may be contextual social reaction rather
+    than supernatural sanction. Review for whether sacred danger, legal enforcement,
+    or ordinary conflict is primary.
+  suggested_aliases:
+  - fear after taboo violation
+  - threatened violence after taboo breach
+  - taboo breach provokes fear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taboo-violation-followed-by-interpreted-punishment
+  motif_id: taboo_violation_followed_by_interpreted_punishment
+  label: taboo violation followed by interpreted punishment
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A taboo breach read as punishment fits sacred judgment and moral reckoning.
+  cautions: The word 'interpreted' suggests source or narrator inference; verify that
+    the tradition frames the event as punishment rather than modern commentary.
+  suggested_aliases:
+  - interpreted punishment after taboo violation
+  - taboo breach punished
+  - punishment read from taboo violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taboo-violation-harming-the-ritual-object
+  motif_id: taboo_violation_harming_the_ritual_object
+  label: taboo violation harming the ritual object
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: A ritual object harmed through taboo violation may fit sacred power objects
+    whose efficacy or danger depends on correct handling.
+  cautions: Could instead belong under sacred_law if the prohibition is primary, or
+    be too object-specific without recurring evidence. Source context is needed for
+    object type and ritual function.
+  suggested_aliases:
+  - taboo breach harms ritual object
+  - ritual object damaged by taboo violation
+  - taboo violation damages sacred object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels cluster around taboo signs and taboo violation. Existing groups sacred_law
+  and divine_judgment can hold most cases, but culturally specific taboo terminology
+  should be reviewed with source evidence before final indexing.
+- Do not infer transmission or shared origin from these placements; suggestions only
+  identify broad normalization buckets.
+- Where labels describe visual signs or interpretive classification rather than enacted
+  ritual/narrative functions, exclusion or human review is preferable.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements generated for wave5c batch 1197; taboo-sign labels
+    and culturally specific cases require human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1197
+  input_sha256: 7f3a52f626dca52adbb8be2204e430e3b4706ed7ee491001f639f6359e04faee
+

@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1107
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritualized-report-before-an-elder-with-pipe
+  motif_id: ritualized_report_before_an_elder_with_pipe
+  label: Ritualized report before an elder with pipe
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a culturally specific council or ceremonial reporting
+    practice, but the narrative function is unclear from wording alone.
+  cautions: Single occurrence and culturally specific pipe/elder context; avoid flattening
+    into generic sacred law or exchange without source review.
+  suggested_aliases:
+  - ceremonial_report_to_elder
+  - pipe_council_report
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-restrictions-during-royal-movement
+  motif_id: ritualized_restrictions_during_royal_movement
+  label: ritualized restrictions during royal movement
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual restrictions surrounding a ruler's movement usually mark sacral
+    kingship, royal taboo, and controlled royal presence.
+  cautions: If the passage emphasizes taboo law rather than kingship, sacred_law may
+    be a secondary or better mapping.
+  suggested_aliases:
+  - royal_movement_taboo
+  - ritual_restrictions_around_the_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-reverence-before-a-teacher
+  motif_id: ritualized_reverence_before_a_teacher
+  label: ritualized reverence before a teacher
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Reverence before a teacher functions as a ritualized relational obligation
+    within sacred instruction and transmission.
+  cautions: Could map to sacred_knowledge if the passage centers on teaching content
+    rather than reverential practice.
+  suggested_aliases:
+  - teacher_reverence_rite
+  - ritual_homage_to_teacher
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-scurrilous-speech-in-viticulture
+  motif_id: ritualized_scurrilous_speech_in_viticulture
+  label: Ritualized scurrilous speech in viticulture
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may involve ritual obscenity tied to fertility or agricultural
+    efficacy, but the function is not explicit.
+  cautions: Highly specific and potentially ethnographic/comparative; verify whether
+    it is a recurring ritual motif or commentary artifact.
+  suggested_aliases:
+  - ritual_obscenity_in_viticulture
+  - scurrilous_agricultural_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - curse_blessing_speech
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-selection-of-youthful-companions
+  motif_id: ritualized_selection_of_youthful_companions
+  label: ritualized selection of youthful companions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Selection of youthful companions could be initiation, ritual office,
+    dance society, or narrative recruitment depending on context.
+  cautions: Single occurrence and culturally specific; source evidence needed before
+    placing under initiation or sacred law.
+  suggested_aliases:
+  - ceremonial_selection_of_youths
+  - selection_of_youthful_ritual_companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-setting-aside-of-bundles-before-combat
+  motif_id: ritualized_setting_aside_of_bundles_before_combat
+  label: ritualized setting aside of bundles before combat
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed handling of bundles before battle is a ritualized preparation
+    for combat.
+  cautions: If bundles are sacred power objects, sacred_treasures may be a secondary
+    mapping; culturally specific bundle practices need careful review.
+  suggested_aliases:
+  - precombat_bundle_rite
+  - sacred_bundles_set_aside_before_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-sevenfold-obeisance-to-a-sovereign
+  motif_id: ritualized_sevenfold_obeisance_to_a_sovereign
+  label: Ritualized sevenfold obeisance to a sovereign
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: high
+  rationale: Formal obeisance to a sovereign reinforces sacred hierarchy and royal
+    authority.
+  cautions: Sevenfold number may be local evidence detail; do not promote the exact
+    count without recurrence.
+  suggested_aliases:
+  - sevenfold_obeisance_to_king
+  - ritual_prostration_before_sovereign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-sexual-joking-in-dance-song
+  motif_id: ritualized_sexual_joking_in_dance_song
+  label: ritualized sexual joking in dance-song
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Ritual sexual joking in song may involve fertility, social inversion,
+    courtship, or ceremonial license, but the function is not provided.
+  cautions: Culturally sensitive and single occurrence; avoid mapping to sacred_love
+    or sacred_exchange without passage context.
+  suggested_aliases:
+  - ceremonial_sexual_joking_song
+  - ritual_bawdy_dance_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - enchanting_music
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-sleight-of-hand-by-mysterious-practitioners
+  motif_id: ritualized_sleight_of_hand_by_mysterious_practitioners
+  label: ritualized sleight of hand by mysterious practitioners
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe ritual performance, deception, miracle-working,
+    or an observer's skeptical framing of sacred practice.
+  cautions: Potential commentary artifact or culturally loaded description; needs
+    human review before mapping to trickster, divine_intervention, or sacred_knowledge.
+  suggested_aliases:
+  - ritual_sleight_of_hand
+  - mysterious_practitioner_trick_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - divine_intervention
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-social-and-state-order
+  motif_id: ritualized_social_and_state_order
+  label: ritualized social and state order
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: broader_label
+  confidence: high
+  rationale: The label directly concerns ritual as the basis of social and political
+    order, matching sacred law and social order.
+  cautions: May also relate to royal_legitimacy if focused on rulership rather than
+    general social order.
+  suggested_aliases:
+  - ritual_ordering_of_society_and_state
+  - li_as_social_and_state_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - covenant
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Many items are single-occurrence ritual labels; several require source-context review
+  to distinguish motif, ethnographic detail, and commentary artifact.
+- For culturally specific ritual practices, preserve local labels as aliases or evidence
+  notes even when mapped to broad groups.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; human review especially needed for Indigenous
+    and comparative ritual-performance labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1107
+  input_sha256: 60b463766af23c93672f87a46358affd74eaba4050f574a9d4eae7b246f58f9e
+

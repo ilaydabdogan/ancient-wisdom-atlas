@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4088
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.welcome-scene-with-ominous-future-ignorance
+  motif_id: welcome_scene_with_ominous_future_ignorance
+  label: welcome scene with ominous future ignorance
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a scene-level dramatic-irony note rather than a reusable
+    mythic motif.
+  cautions: If source evidence shows formal hospitality testing, prophecy, or fate-ignorance,
+    remap to hospitality_test_stranger_guest, prophecy_divination, or death_by_fate.
+  suggested_aliases:
+  - ominous_welcome_scene
+  - dramatic_ignorance_of_future_doom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.welcomed-prince-as-reviver-of-the-people
+  motif_id: welcomed_prince_as_reviver_of_the_people
+  label: Welcomed prince as reviver of the people
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A welcomed prince who restores or revives the people fits legitimate
+    rulership as social and moral renewal.
+  cautions: If the emphasis is literal resurrection or ritual renewal rather than
+    governance, death_and_transformation or sacred_time may be secondary.
+  suggested_aliases:
+  - restorative_prince
+  - rightful_prince_revives_the_people
+  - welcomed_ruler_as_social_renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.welcoming-hosts-provide-a-guide-chief-for-migrants
+  motif_id: welcoming_hosts_provide_a_guide_chief_for_migrants
+  label: welcoming hosts provide a guide-chief for migrants
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: The label may describe hospitality and reciprocal aid to travelers or
+    migrants.
+  cautions: It may instead be migration history, ethnographic detail, leadership installation,
+    or a place-specific episode; source context is needed before indexing.
+  suggested_aliases:
+  - hosts_provide_guide_for_migrants
+  - hospitality_to_migrants_with_guide_chief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.well-meant-naive-solution-worsens-the-loss
+  motif_id: well_meant_naive_solution_worsens_the_loss
+  label: well-meant naive solution worsens the loss
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A mistaken attempted remedy producing worse consequences can function
+    as moral consequence or reckoning.
+  cautions: This may be a folktale plot beat or psychological commentary rather than
+    sacred judgment; review for whether moral causality is explicit.
+  suggested_aliases:
+  - naive_remedy_worsens_loss
+  - misguided_help_deepens_loss
+  - well_intended_solution_backfires
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.western-thunder-beings
+  motif_id: western_thunder_beings
+  label: Western thunder beings
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: Thunder beings are sacred or powerful nonhuman agents, but the label
+    gives only identity and direction, not narrative function.
+  cautions: Culturally sensitive being-class label; may require a weather/thunder-beings
+    group if recurrent, or exclusion if merely a regional catalog entry.
+  suggested_aliases:
+  - thunder_beings_of_the_west
+  - western_thunder_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.whale-blubber-excess-and-bodily-collapse
+  motif_id: whale_blubber_excess_and_bodily_collapse
+  label: Whale-blubber excess and bodily collapse
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: low
+  rationale: The label concerns food excess causing bodily transformation or collapse,
+    loosely fitting powerful substance effects.
+  cautions: May be comic, etiological, dietary, or passage-specific; do not map to
+    sacred_substance unless whale blubber has ritual or mythic force in context.
+  suggested_aliases:
+  - excessive_whale_blubber_causes_collapse
+  - food_excess_causes_bodily_collapse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.whale-bone-and-turf-dwelling-foundation
+  motif_id: whale_bone_and_turf_dwelling_foundation
+  label: whale-bone and turf dwelling foundation
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a culturally specific construction material/detail
+    rather than a symbolic motif.
+  cautions: If the passage frames dwelling construction as divinely taught, foundational,
+    or ritually charged, consider sacred_craft after review.
+  suggested_aliases:
+  - whale_bone_turf_house_foundation
+  - dwelling_built_from_whale_bone_and_turf
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.whale-derived-domestic-construction
+  motif_id: whale_derived_domestic_construction
+  label: whale-derived domestic construction
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: low
+  rationale: Construction from whale-derived materials may fit craft/building if the
+    act has mythic or sacred significance.
+  cautions: Likely an ethnographic or ecological detail unless narrative evidence
+    gives whale materials symbolic, ancestral, or supernatural function.
+  suggested_aliases:
+  - domestic_construction_from_whale_materials
+  - whale_material_house_building
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.whale-festival-after-successful-hunt
+  motif_id: whale_festival_after_successful_hunt
+  label: whale festival after successful hunt
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A post-hunt whale festival likely involves ritual reciprocity, thanksgiving,
+    sharing, or proper relations with animal powers.
+  cautions: If primarily calendrical, map secondarily to sacred_time; if centered
+    on offering or animal spirit return, sacrifice or ancestor_rites may be relevant
+    after review.
+  suggested_aliases:
+  - post_hunt_whale_festival
+  - festival_after_successful_whale_hunt
+  - whale_hunt_thanksgiving_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.whale-left-for-community-discovery
+  motif_id: whale_left_for_community_discovery
+  label: Whale left for community discovery
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A whale intentionally left for discovery may be miraculous provision
+    or guidance for a community.
+  cautions: Could also be hunting narrative, gift exchange, culture-hero provision,
+    or local etiological detail; source agency must be checked.
+  suggested_aliases:
+  - whale_provided_for_community_discovery
+  - community_discovers_provided_whale
+  - whale_left_as_communal_provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several whale-related labels are single-occurrence and may be culturally specific
+  subsistence, ritual, or ethnographic details; review source evidence before broad
+  indexing.
+- Do not infer transmission or common origin from proposed placements; suggestions
+  only identify provisional normalization buckets.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items depend heavily on source context
+    and cultural review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4088
+  input_sha256: 2fdb21400d7c57f92fae77b16c89fe73f8b06094c810b229d9aa6e60f964facd
+

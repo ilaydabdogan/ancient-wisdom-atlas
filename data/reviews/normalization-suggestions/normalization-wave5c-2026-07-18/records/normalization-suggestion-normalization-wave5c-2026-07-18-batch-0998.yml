@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0998
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rejected-divine-and-heroic-intemperance
+  motif_id: rejected_divine_and_heroic_intemperance
+  label: Rejected divine and heroic intemperance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: The label appears to reject excess or lack of restraint by divine or
+    heroic figures, fitting ethical norm-setting more than sacrifice.
+  cautions: Single occurrence and abstract wording; could be literary criticism or
+    philosophical commentary rather than a reusable motif.
+  suggested_aliases:
+  - rejection_of_intemperance
+  - condemnation_of_divine_or_heroic_excess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-divine-deception-through-dream-sign-word-or-vision
+  motif_id: rejected_divine_deception_through_dream_sign_word_or_vision
+  label: rejected divine deception through dream, sign, word, or vision
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine deception mediated by dream, sign, word, or vision belongs with
+    revelatory or altered-perception signs, especially deceptive divine dreams.
+  cautions: If the passage emphasizes divine agency or moral testing rather than the
+    visionary medium, divine_intervention or divine_judgment may be better secondary
+    mappings.
+  suggested_aliases:
+  - deceptive_divine_dream_or_sign
+  - divine_deception_through_vision_or_word
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-divine-instrument-taken-up-by-another-being
+  motif_id: rejected_divine_instrument_taken_up_by_another_being
+  label: Rejected divine instrument taken up by another being
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could concern a sacred object, divine agency, musical instrument,
+    weapon, or rejected generated label.
+  cautions: The word 'rejected' and the vague 'instrument' make source context necessary
+    before mapping; avoid assuming a power object or divine intervention.
+  suggested_aliases:
+  - divine_instrument_taken_up_by_another
+  - transferred_divine_instrument
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-divine-speaker-turns-to-circe
+  motif_id: rejected_divine_speaker_turns_to_circe
+  label: rejected divine speaker turns to Circe
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label names a specific speaker movement involving Circe and reads
+    like a passage or extraction artifact, not a reusable motif.
+  cautions: If the passage actually describes divine instruction, rejected counsel,
+    or Circe as helper/opponent, re-index from source evidence under a narrative group.
+  suggested_aliases:
+  - divine_speaker_turns_to_circe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-holy-visitor-and-solitary-hospitable-convert
+  motif_id: rejected_holy_visitor_and_solitary_hospitable_convert
+  label: Rejected holy visitor and solitary hospitable convert
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: high
+  rationale: A holy visitor is rejected by others but received by a hospitable individual,
+    matching hospitality as sacred test.
+  cautions: May also involve conversion, saintly recognition, or divine judgment;
+    preserve the solitary convert detail as evidence.
+  suggested_aliases:
+  - holy_visitor_received_by_hospitable_convert
+  - rejected_sacred_guest_and_hospitable_single_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-prophet-and-divinely-marked-animal
+  motif_id: rejected_prophet_and_divinely_marked_animal
+  label: Rejected prophet and divinely marked animal
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejection of a prophet accompanied by a divine sign commonly functions
+    as moral testing and judgment of a people.
+  cautions: The marked animal may be central as a sign or sacred creature; consider
+    divine_intervention if judgment is not explicit in the passage.
+  suggested_aliases:
+  - prophetic_warning_rejected_with_divine_animal_sign
+  - rejected_prophet_and_sacred_animal_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-extreme-cemetery-procurement-vow
+  motif_id: rejection_of_extreme_cemetery_procurement_vow
+  label: rejection of extreme cemetery-procurement vow
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a vow or ritual practice is rejected, but its function
+    is unclear from wording alone.
+  cautions: Highly specific and culturally sensitive mortuary/ascetic context; could
+    be sacred_law, sacrifice, renunciation, or a passage artifact.
+  suggested_aliases:
+  - rejected_extreme_cemetery_vow
+  - rejection_of_mortuary_procurement_vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-human-made-gods
+  motif_id: rejection_of_human_made_gods
+  label: Rejection of human-made gods
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: high
+  rationale: Rejecting human-made gods aligns with exclusive devotion and rejection
+    of idols within covenantal sacred order.
+  cautions: If the passage centers on image prohibition or purity law, sacred_law
+    may be a secondary mapping; if on punishment for idolatry, divine_judgment may
+    apply.
+  suggested_aliases:
+  - rejection_of_idols
+  - rejection_of_man_made_gods
+  - exclusive_devotion_against_human_made_gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.release-through-broken-ritual-bonds
+  motif_id: release_through_broken_ritual_bonds
+  label: Release through broken ritual bonds
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: ritual_expulsion
+  suggested_group_label: ritual_expulsion
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Breaking ritual bonds to release a being or harm fits the existing ritual-expulsion
+    and boundary-release complex under sacrifice.
+  cautions: If literal captivity or initiation is central rather than ritual removal,
+    hero_journey or initiation may be better; verify that ritual function is present.
+  suggested_aliases:
+  - breaking_ritual_bonds_releases_power
+  - ritual_bonds_broken_for_release
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.released-enemy-causes-conflict-within-divine-family
+  motif_id: released_enemy_causes_conflict_within_divine_family
+  label: released enemy causes conflict within divine family
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Release of an enemy producing disorder among gods can be treated provisionally
+    as failed judgment or disrupted sacred order.
+  cautions: This may be an episode-specific plot detail involving divine kin conflict;
+    source review may place it under sacred_combat, divine_intervention, or exclude
+    as over-specific.
+  suggested_aliases:
+  - released_enemy_disrupts_divine_family
+  - enemy_release_causes_divine_kin_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels begin with 'rejected', which may indicate either narrative rejection/refusal
+  or prior model-review rejection; human reviewers should verify source usage before
+  final mapping.
+- For single-occurrence, highly contextual labels, preserve useful details as evidence
+  notes rather than promoting new canonical motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items require source-context review
+    due to ambiguous 'rejected' wording and single occurrence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0998
+  input_sha256: fdee9c4e2f6bd004fd4ea1e186b3cd22f6f967f8ea29507091efbb4359d7084a
+

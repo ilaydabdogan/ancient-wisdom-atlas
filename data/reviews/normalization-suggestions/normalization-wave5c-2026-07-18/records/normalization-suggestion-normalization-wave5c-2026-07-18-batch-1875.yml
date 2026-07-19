@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1875
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.identity-proven-by-personal-tokens
+  motif_id: identity_proven_by_personal_tokens
+  label: identity proven by personal tokens
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: alias
+  confidence: high
+  rationale: Close synonym of existing child recognition_by_personal_tokens and the
+    group’s token-based identity proof function.
+  cautions: Single occurrence; preserve the exact token type if passage evidence matters.
+  suggested_aliases:
+  - recognition_by_personal_tokens
+  - personal_tokens_prove_identity
+  - identity_token_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ill-omened-marriage-with-funerary-signs
+  motif_id: ill_omened_marriage_with_funerary_signs
+  label: ill-omened marriage with funerary signs
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Funerary signs attached to a marriage function as omens foreshadowing
+    death or misfortune.
+  cautions: Could also relate to sacred_love or death_by_fate if the passage emphasizes
+    doomed love or inescapable death rather than omen interpretation.
+  suggested_aliases:
+  - funerary_omens_at_marriage
+  - marriage_omened_by_funeral_signs
+  - ill_omens_at_wedding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imagined-upward-mobility-through-trade-and-marriage-alliance
+  motif_id: imagined_upward_mobility_through_trade_and_marriage_alliance
+  label: Imagined upward mobility through trade and marriage alliance
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads like a social plot detail involving status, commerce,
+    and marriage rather than a clear recurring mythic motif.
+  cautions: May fit sacred_exchange, royal_legitimacy, sacred_love, or pride_and_downfall
+    depending on whether alliance, ambition, or failed fantasy drives the passage.
+  suggested_aliases:
+  - upward_mobility_through_marriage_alliance
+  - status_ambition_through_trade_and_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imitative-love-charm-using-coconut-and-sting-ray-spine
+  motif_id: imitative_love_charm_using_coconut_and_sting_ray_spine
+  label: imitative love charm using coconut and sting ray spine
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A love charm is a ritual technique directed toward love or erotic attachment,
+    fitting sacred_love at broad query level.
+  cautions: Object details are culturally specific and over-specific; if the passage
+    emphasizes magic law rather than love, sacred_law or curse_blessing_speech may
+    be secondary.
+  suggested_aliases:
+  - imitative_love_charm
+  - love_magic_charm
+  - ritual_love_charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immodest-public-display-causes-loss-of-bride
+  motif_id: immodest_public_display_causes_loss_of_bride
+  label: Immodest public display causes loss of bride
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The motif centers on moral consequence: immodest conduct results in
+    relational loss.'
+  cautions: Could be a didactic ethical exemplum rather than sacred judgment; sacred_law
+    may fit if framed as social or monastic discipline.
+  suggested_aliases:
+  - loss_of_bride_after_immodest_display
+  - immodesty_punished_by_loss_of_bride
+  - public_immodesty_causes_marriage_loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impermanence-preceding-family-sorrow
+  motif_id: impermanence_preceding_family_sorrow
+  label: Impermanence preceding family sorrow
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label links reflection on impermanence with anticipated or ensuing
+    familial grief, fitting mourning and tragic recognition.
+  cautions: If the passage is primarily doctrinal meditation on impermanence rather
+    than grief narrative, mystical_quest may be better.
+  suggested_aliases:
+  - impermanence_before_family_grief
+  - family_sorrow_under_impermanence
+  - transience_preceding_family_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impersonation-of-the-slain-enemy
+  motif_id: impersonation_of_the_slain_enemy
+  label: impersonation of the slain enemy
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Impersonating a killed enemy is a deception or disguise strategy after
+    violence, fitting the trickster/deceptive stratagem complex.
+  cautions: Could belong to sacred_combat if the impersonation is chiefly a battle
+    tactic, or shapeshifter if supernatural bodily transformation is involved.
+  suggested_aliases:
+  - slain_enemy_impersonation
+  - disguise_as_dead_enemy
+  - enemy_identity_impersonation_after_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-or-obstructed-love-between-two-maidens
+  motif_id: impossible_or_obstructed_love_between_two_maidens
+  label: Impossible or obstructed love between two maidens
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: Obstructed or impossible love falls within the sacred_love group’s concern
+    with longing, peril, and social constraint.
+  cautions: Culturally sensitive and context-dependent; avoid flattening gender-specific
+    meaning if the source foregrounds same-sex desire, social taboo, or metamorphosis.
+  suggested_aliases:
+  - obstructed_love_between_maidens
+  - impossible_love_between_women
+  - same_sex_love_obstructed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-promise-made-at-birth
+  motif_id: impossible_promise_made_at_birth
+  label: impossible promise made at birth
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve a birth destiny, vow, curse, marriage promise,
+    or impossible task; function is unclear from wording alone.
+  cautions: Review passage evidence before choosing miraculous_child, covenant, curse_blessing_speech,
+    or sacred_love.
+  suggested_aliases:
+  - birth_promise_impossible_to_fulfill
+  - impossible_vow_at_birth
+  - impossible_birth_promise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-spear-thrust-comparison
+  motif_id: impossible_spear_thrust_comparison
+  label: impossible spear-thrust comparison
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording suggests a simile or comparison detail rather than a reusable
+    narrative motif.
+  cautions: If source evidence shows a formal impossible combat feat rather than a
+    comparison, review under sacred_combat or divine_warrior.
+  suggested_aliases:
+  - spear_thrust_impossible_comparison
+  - impossible_spear_simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several love/family bucket labels are single-occurrence and may be didactic plot
+  details rather than durable motifs; preserve local evidence notes during review.
+- Where gender, marriage, and charm practices are involved, avoid collapsing culturally
+  specific social or ritual meanings into broad love symbolism without passage evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for taxonomy review; ambiguous singletons
+    require source-context verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1875
+  input_sha256: 38eec25a8b5c5f03ec4aaee91560b3bb2043f5adaf8ce0d9367feb8f83ce09c5
+

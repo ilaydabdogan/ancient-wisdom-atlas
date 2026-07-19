@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0114
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-conditioned-return-or-redirection-of-spouse-given-jewellery
+  motif_id: death_conditioned_return_or_redirection_of_spouse_given_jewellery
+  label: death-conditioned return or redirection of spouse-given jewellery
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines death condition, marriage exchange, and jewelry disposition;
+    the dominant motif cannot be inferred from wording alone.
+  cautions: May be mortuary property custom, spouse-gift reciprocity, inheritance
+    rule, or passage-specific ethnographic detail; source context needed.
+  suggested_aliases:
+  - mortuary_disposition_of_spouse_given_jewellery
+  - death_conditioned_return_of_marital_gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - sacred_exchange
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-connected-with-repeated-ninth-marker
+  motif_id: death_connected_with_repeated_ninth_marker
+  label: death connected with repeated ninth marker
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A repeated ninth marker may be numerological, calendrical, structural,
+    or editorial rather than a stable death motif.
+  cautions: Single occurrence and opaque wording; verify whether the ninth marker
+    is ritual time, omen, narrative formula, or textual artifact.
+  suggested_aliases:
+  - death_associated_with_ninth_repetition
+  - ninth_marker_as_death_signal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - sacred_time
+    - prophecy_divination
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-contagion-embodied-as-demon
+  motif_id: death_contagion_embodied_as_demon
+  label: Death-contagion embodied as demon
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Death-contagion as a demon fits ritual purity, spirit contagion, and
+    apotropaic regulation already grouped under sacred_law.
+  cautions: Could also support divine_judgment or demonology if the passage emphasizes
+    moral agency rather than purity contamination.
+  suggested_aliases:
+  - demonic_death_contagion
+  - death_pollution_personified_as_demon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-contamination-spoiling-hunting-relations-with-seals
+  motif_id: death_contamination_spoiling_hunting_relations_with_seals
+  label: Death-contamination spoiling hunting relations with seals
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core pattern is death pollution disrupting regulated human-animal
+    relations, matching purity/taboo logic under sacred_law.
+  cautions: Seal-specific hunting relations are culturally important; preserve as
+    evidence detail and review against animal taboo or spirit-contagion contexts.
+  suggested_aliases:
+  - death_pollution_disrupts_hunting_relations
+  - death_contamination_affecting_seal_hunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-day-mass-conversion-treated-as-extraordinary
+  motif_id: death_day_mass_conversion_treated_as_extraordinary
+  label: death-day mass conversion treated as extraordinary
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a hagiographic miracle, communal response, or
+    commentary on timing rather than a death/afterlife motif.
+  cautions: Needs source evidence to distinguish miracle-working, sacred biography,
+    conversion narrative, or passage artifact.
+  suggested_aliases:
+  - mass_conversion_on_day_of_death
+  - extraordinary_conversion_at_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-dealing-glance
+  motif_id: death_dealing_glance
+  label: death-dealing glance
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A lethal glance is a harmful supernatural power; best provisional fit
+    is judgment or punishment by sacred/nonhuman force.
+  cautions: Could instead be evil eye, monster gaze, sorcery, or spellbinding power;
+    existing groups lack a precise gaze/evil-eye motif.
+  suggested_aliases:
+  - fatal_gaze
+  - lethal_glance
+  - death_dealing_gaze
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-dealing-or-spellbinding-gaze-at-game-animals
+  motif_id: death_dealing_or_spellbinding_gaze_at_game_animals
+  label: Death-dealing or spellbinding gaze at game animals
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes lethal gaze, animal enchantment, and hunting practice;
+    function depends on source context.
+  cautions: May belong to hunting taboo, animal mastery, shamanic power, evil-eye-like
+    harm, or an over-specific ethnographic note.
+  suggested_aliases:
+  - spellbinding_gaze_at_game_animals
+  - fatal_gaze_at_hunted_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - enchanting_music
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-dealing-weapon-compared-with-noose-and-yama-imagery
+  motif_id: death_dealing_weapon_compared_with_noose_and_yama_imagery
+  label: death-dealing weapon compared with noose and Yama imagery
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The wording reads as a passage-specific simile or imagery note rather
+    than a reusable motif.
+  cautions: If Yama's noose is narratively active rather than comparative imagery,
+    review under afterlife_passage or death_by_fate.
+  suggested_aliases:
+  - weapon_compared_to_yama_noose
+  - yama_noose_death_weapon_imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-defilement-and-purification
+  motif_id: death_defilement_and_purification
+  label: death defilement and purification
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Death defilement followed by purification is a clear ritual purity and
+    sacred-law pattern.
+  cautions: May also relate to ancestor_rites or sacrifice if the passage emphasizes
+    mortuary care or offering rather than purity regulation.
+  suggested_aliases:
+  - death_pollution_and_purification
+  - mortuary_defilement_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-demon-seizing-life-through-touch-and-gaze
+  motif_id: death_demon_seizing_life_through_touch_and_gaze
+  label: Death demon seizing life through touch and gaze
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A death demon taking life through contact or gaze is a supernatural death
+    agency, provisionally closest to moral/cosmic reckoning.
+  cautions: Could instead be death-contagion under sacred_law or a culturally specific
+    demonological motif; review Zoroastrian source context carefully.
+  suggested_aliases:
+  - death_demon_seizes_life
+  - demonic_life_seizure_by_touch_and_gaze
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several death-contagion and defilement labels appear to cluster under sacred_law
+  because existing normalization already folds spirit contagion and apotropaic purity
+  rules there.
+- Fatal gaze labels may recur enough to justify a future gaze/evil-eye or lethal-vision
+  subgroup, but this batch alone is insufficient.
+- Avoid treating passage-specific death imagery as afterlife/descent unless the source
+  shows journey, judgment, or postmortem navigation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence items require source evidence
+    before final indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0114
+  input_sha256: bd40ae8a4cf88b1aed5f3e1bb1f7d091d8a849ebf107f8385e718ce424f619f2
+

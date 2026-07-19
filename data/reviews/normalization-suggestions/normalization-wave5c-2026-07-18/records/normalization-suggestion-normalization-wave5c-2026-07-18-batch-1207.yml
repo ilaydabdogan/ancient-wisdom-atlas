@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1207
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.tooth-worm-expelled-by-divine-force
+  motif_id: tooth_worm_expelled_by_divine_force
+  label: tooth-worm expelled by divine force
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Expelling a harmful tooth-worm by divine force fits the existing expulsion/exorcism
+    cluster under sacrifice.
+  cautions: Could instead be divine_intervention or healing magic if no ritual expulsion
+    is present; single Mesopotamian occurrence needs source review.
+  suggested_aliases:
+  - tooth_worm_exorcism
+  - divine_expulsion_of_tooth_worm
+  - tooth_worm_healing_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.torch-origin-for-ceres-rites
+  motif_id: torch_origin_for_ceres_rites
+  label: torch origin for Ceres' rites
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A torch explaining Ceres' rites is ritual fire/light symbolism tied to
+    cult practice.
+  cautions: May be an etiological detail for a specific Roman rite; exclude or keep
+    as evidence if it does not recur beyond this passage.
+  suggested_aliases:
+  - ritual_torch_etiology
+  - torch_rite_origin
+  - ceres_torch_rite_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.totalizing-oath-across-land-sea-sacred-spaces-and-daily-life
+  motif_id: totalizing_oath_across_land_sea_sacred_spaces_and_daily_life
+  label: totalizing oath across land, sea, sacred spaces, and daily life
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: An oath that binds across domains is a performative sacred speech act.
+  cautions: If the emphasis is legal covenant rather than spoken binding power, covenant
+    or sacred_law may be secondary.
+  suggested_aliases:
+  - cosmic_oath
+  - all_encompassing_oath
+  - oath_binding_land_sea_and_sacred_spaces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.totem-food-and-touch-taboo
+  motif_id: totem_food_and_touch_taboo
+  label: Totem food and touch taboo
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Food and touch prohibitions around a totem fit sacred law, taboo, and
+    ritual purity regulation.
+  cautions: Culturally specific totemic relations should not be flattened into generic
+    law; preserve local totemic meaning in evidence notes.
+  suggested_aliases:
+  - totemic_food_taboo
+  - totemic_touch_taboo
+  - totem_contact_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.totem-taboo-and-sympathetic-affinity
+  motif_id: totem_taboo_and_sympathetic_affinity
+  label: Totem taboo and sympathetic affinity
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Totem taboo and affinity describe ritual prohibitions and relational
+    obligations within sacred order.
+  cautions: The sympathetic-affinity component may involve identity, kinship, or magic
+    rather than law alone; human review should preserve the totemic relationship.
+  suggested_aliases:
+  - totemic_taboo
+  - totemic_sympathetic_affinity
+  - totem_affinity_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.totemic-animal-killing-taboo
+  motif_id: totemic_animal_killing_taboo
+  label: totemic animal killing taboo
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A prohibition on killing a totemic animal is a clear sacred-law or taboo
+    pattern.
+  cautions: Comparative labels may be generalized from scholarship rather than a source
+    passage; verify evidence before broad indexing.
+  suggested_aliases:
+  - totem_animal_killing_prohibition
+  - taboo_on_killing_totemic_animal
+  - totemic_killing_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.totemic-food-and-contact-taboo
+  motif_id: totemic_food_and_contact_taboo
+  label: Totemic food and contact taboo
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: alias
+  confidence: high
+  rationale: This is effectively the same taboo pattern as totem food and touch restrictions
+    under sacred law.
+  cautions: Likely duplicate or near-duplicate of totem_food_and_touch_taboo; preserve
+    wording only as alias if source wording differs.
+  suggested_aliases:
+  - totem_food_and_touch_taboo
+  - totemic_contact_taboo
+  - totemic_food_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.totemic-marking-of-ritual-landscape
+  motif_id: totemic_marking_of_ritual_landscape
+  label: Totemic marking of ritual landscape
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: Ritual landscape marking may fit sacred geography or world-center logic,
+    but the totemic function is culturally specific.
+  cautions: Australian Aboriginal totemic landscape evidence is sensitive and may
+    involve place, law, ancestor tracks, ritual restriction, or provenance rather
+    than a generic axis motif; review source context before mapping.
+  suggested_aliases:
+  - totemic_ritual_landscape
+  - totemic_landscape_marking
+  - ritual_marking_of_totemic_places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transcendent-divine-good-beyond-need-loss-and-pain
+  motif_id: transcendent_divine_good_beyond_need_loss_and_pain
+  label: Transcendent divine Good beyond need, loss, and pain
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: This is a theological wisdom claim about the divine Good and transcendence.
+  cautions: May be philosophical doctrine rather than narrative motif; if merely expository
+    teaching, consider excluding from pattern queries or retaining as wisdom evidence
+    only.
+  suggested_aliases:
+  - transcendent_divine_good
+  - divine_good_beyond_need_and_pain
+  - apophatic_divine_good
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transfer-and-collection-of-sacred-stones
+  motif_id: transfer_and_collection_of_sacred_stones
+  label: Transfer and collection of sacred stones
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred stones collected or transferred function as power objects within
+    ritual practice.
+  cautions: Could instead be sacred geography, covenantal transfer, or a local ritual
+    provenance note; source review should preserve Plains-specific context.
+  suggested_aliases:
+  - sacred_stone_transfer
+  - collection_of_sacred_stones
+  - ritual_transfer_of_sacred_stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several totemic-taboo labels are likely near-duplicates and should be considered
+  for alias consolidation under sacred_law while preserving local cultural meaning.
+- Single-occurrence ritual and ethnographic labels should be treated provisionally;
+  do not promote to canonical taxonomy families without recurring evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific totemic and
+    Indigenous landscape items require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1207
+  input_sha256: 86340de1f97b0ccddd88c0ed401d91b9ab5d139f53ecc535d21e38e578399193
+

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1383
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.named-clans-as-battle-vanguard-with-shield-line-and-archers-behind
+  motif_id: named_clans_as_battle_vanguard_with_shield_line_and_archers_behind
+  label: named clans as battle vanguard with shield line and archers behind
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an episode-specific battle-order detail with named
+    clans, not a reusable wisdom or revelation motif.
+  cautions: If clan ordering has ritual, origin, or sacred social-order significance
+    in the source, human review may map it to sacred_combat or sacred_law instead
+    of excluding.
+  suggested_aliases:
+  - clans_as_battle_vanguard
+  - battle_order_with_shield_line_and_archers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-cold-west-wind
+  motif_id: named_cold_west_wind
+  label: named cold west wind
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A named wind may be a personified natural power, place-specific being,
+    directional cosmology, or simply a named environmental detail.
+  cautions: No current group cleanly covers wind personification; source evidence
+    is needed before choosing divine_intervention, cosmic_origin, sacred_time, or
+    exclusion.
+  suggested_aliases:
+  - cold_west_wind
+  - personified_west_wind
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-crafted-object-passed-into-lineage
+  motif_id: named_crafted_object_passed_into_lineage
+  label: Named crafted object passed into lineage
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A named crafted object inherited through lineage functions as a power
+    or authority object preserved across descent.
+  cautions: If the emphasis is manufacture rather than inherited authority, sacred_craft
+    may be a secondary fit; culturally specific lineage-property meanings need review.
+  suggested_aliases:
+  - lineage_inherited_named_object
+  - named_power_object_passed_through_lineage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-dangerous-place-fulfilled-by-an-attempted-harm
+  motif_id: named_dangerous_place_fulfilled_by_an_attempted_harm
+  label: Named dangerous place fulfilled by an attempted harm
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording may describe prophetic place naming, ordeal, etiological
+    geography, or a passage-specific narrative fulfillment.
+  cautions: Review whether the place name predicts, causes, or explains the harmful
+    event; possible mappings include cosmic_origin for place-name etiology, prophecy_divination,
+    or divine_judgment.
+  suggested_aliases:
+  - dangerous_place_name_fulfilled_by_harm
+  - place_name_fulfilled_by_attempted_harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-deities-subordinated-to-one-creator
+  motif_id: named_deities_subordinated_to_one_creator
+  label: named deities subordinated to one creator
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif centers on one supreme creator's sovereignty over other divine
+    or named powers.
+  cautions: In Sikh context, avoid treating subordinated deities as polytheistic narrative
+    actors without source evidence; this may be theological assertion rather than
+    narrative motif.
+  suggested_aliases:
+  - deities_subordinated_to_one_creator
+  - one_creator_over_named_deities
+  - divine_powers_under_supreme_creator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-dogs-summoned-against-witch-attack
+  motif_id: named_dogs_summoned_against_witch_attack
+  label: named dogs summoned against witch attack
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Summoning named dogs against witchcraft functions as apotropaic protection
+    against harmful spiritual attack.
+  cautions: If the dogs are animal helpers or tutelary spirits rather than ritual
+    protection devices, divine_intervention may be better; review culturally specific
+    witchcraft terminology carefully.
+  suggested_aliases:
+  - dogs_summoned_against_witchcraft
+  - protective_dogs_against_witch_attack
+  - named_dogs_as_apotropaic_defense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-exceptional-steeds-draw-the-hero-s-vehicle
+  motif_id: named_exceptional_steeds_draw_the_hero_s_vehicle
+  label: named exceptional steeds draw the hero's vehicle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Exceptional named steeds drawing a hero's vehicle support heroic martial
+    identity and battle presentation.
+  cautions: If the steeds are primarily magical animal mounts, shapeshifter or a future
+    animal-helper group may be more precise; preserve named-steed detail as evidence.
+  suggested_aliases:
+  - named_heroic_steeds
+  - exceptional_steeds_draw_hero_vehicle
+  - hero_vehicle_drawn_by_named_steeds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-fearsome-reptile-as-woman
+  motif_id: named_fearsome_reptile_as_woman
+  label: named fearsome reptile as woman
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A reptile appearing as or identified with a woman fits cross-species
+    transformation or unstable bodily form.
+  cautions: Could instead be serpent_guardian if the reptile guards knowledge or a
+    threshold, or sacred_love if the woman form is an erotic lure; source context
+    needed.
+  suggested_aliases:
+  - reptile_as_woman
+  - fearsome_reptile_woman
+  - reptilian_female_shapeshifter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-figure-as-maker-of-mirage
+  motif_id: named_figure_as_maker_of_mirage
+  label: named figure as maker of mirage
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Mirage-making could be illusion, trickster deception, creator etiology,
+    or personified landscape power.
+  cautions: Do not map to dream_and_vision solely because perception is altered; review
+    whether the mirage deceives, explains a natural phenomenon, or manifests sacred
+    power.
+  suggested_aliases:
+  - maker_of_mirage
+  - mirage_making_figure
+  - figure_creates_mirage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-figure-associated-with-a-wave
+  motif_id: named_figure_associated_with_a_wave
+  label: named figure associated with a wave
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A figure associated with a wave is too broad without knowing whether
+    the wave is an ordeal, boundary, deity sign, or name epithet.
+  cautions: Possible mappings include sacred_waters, divine_intervention, or exclusion
+    as a name-detail artifact; source evidence is required.
+  suggested_aliases:
+  - wave_associated_figure
+  - named_wave_figure
+  - figure_linked_to_wave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels begin with 'named' and may preserve local names or epithets rather
+  than reusable motifs; review source context before indexing broadly.
+- The supplied review bucket appears unreliable for this batch; most items are not
+  primarily wisdom, speech, dream, or revelation motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific named beings, clan roles,
+    and local place/name details require human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1383
+  input_sha256: 6700357b429c21b4a58b93a6b54b6d8b24e0ec6365d78e97ad46d15336d2ec92
+

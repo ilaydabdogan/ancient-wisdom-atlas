@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2217
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.monstrous-offspring-from-human-and-bull-union
+  motif_id: monstrous_offspring_from_human_and_bull_union
+  label: Monstrous offspring from human and bull union
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hybrid or monstrous animal-human generation fits the transformation/hybrid-body
+    field better than trickster action.
+  cautions: Single Roman occurrence is likely Pasiphae/Minotaur-specific; preserve
+    sexual-union and monstrous-offspring details as evidence, not a broad transmission
+    claim.
+  suggested_aliases:
+  - human_animal_hybrid_offspring
+  - monstrous_hybrid_birth
+  - bull_human_union_produces_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moral-contrast-between-animals-and-royal-human
+  motif_id: moral_contrast_between_animals_and_royal_human
+  label: Moral contrast between animals and royal human
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads like a moral exemplum involving animals, but the functional
+    motif could be fable instruction, sacred law, royal ethics, or textual commentary.
+  cautions: Do not map only from animal wording; verify whether animals act as moral
+    agents, contrasts in a sermon, or merely title/summary material.
+  suggested_aliases:
+  - animal_human_moral_contrast
+  - animal_exemplum_contrasts_with_king
+  - moral_contrast_between_animals_and_ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moralized-animal-tale-titles
+  motif_id: moralized_animal_tale_titles
+  label: moralized animal tale titles
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes tale-title or heading patterns rather than a narrative
+    motif.
+  cautions: If source passages contain actual animal exempla, index those separately
+    under the relevant fable, trickster, or sacred-law motif.
+  suggested_aliases:
+  - animal_tale_title_pattern
+  - moralized_animal_headings
+  - animal_centered_fable_title_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortals-stricken-by-sid-beings-and-shown-immortal-secrets
+  motif_id: mortals_stricken_by_sid_beings_and_shown_immortal_secrets
+  label: Mortals stricken by Sid beings and shown immortal secrets
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sid beings point to otherworldly agency, affliction, and revelation of
+    hidden immortal knowledge from an enchanted realm.
+  cautions: Could also map secondarily to sacred_knowledge or divine_intervention
+    if the passage emphasizes instruction or healing/affliction rather than otherworld
+    encounter.
+  suggested_aliases:
+  - sid_beings_reveal_immortal_secrets
+  - otherworld_beings_afflict_and_instruct_mortals
+  - fairy_affliction_with_secret_revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortuary-protection-from-animal-disturbance
+  motif_id: mortuary_protection_from_animal_disturbance
+  label: mortuary protection from animal disturbance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Protecting the dead from animal disturbance is a mortuary-care practice
+    maintaining proper relations with the dead.
+  cautions: If the focus is taboo or apotropaic protection rather than care of the
+    dead, sacred_law may be a better secondary placement; culturally specific mortuary
+    context needs review.
+  suggested_aliases:
+  - protection_of_corpse_from_animals
+  - mortuary_guarding_against_animals
+  - animal_disturbance_prevented_in_death_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mountain-enclosure-of-charmed-sustenance-animals
+  motif_id: mountain_enclosure_of_charmed_sustenance_animals
+  label: Mountain enclosure of charmed sustenance animals
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sacred mountain/enclosure, enchanted animals, and
+    food provision; the dominant function is unclear without passage evidence.
+  cautions: May fit axis_mundi, otherworld, divine_intervention, or sacred_substance
+    depending on whether the mountain is sacred center, hidden realm, provision source,
+    or ritual animal store.
+  suggested_aliases:
+  - charmed_sustenance_animals_in_mountain_enclosure
+  - mountain_enclosure_of_food_animals
+  - enchanted_animals_preserved_in_mountain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mounted-warrior-unhorsed-by-attack-on-horse
+  motif_id: mounted_warrior_unhorsed_by_attack_on_horse
+  label: mounted warrior unhorsed by attack on horse
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core action is a combat tactic or battlefield reversal, not an animal
+    transformation motif.
+  cautions: Likely too tactical and episode-specific for broad pattern queries unless
+    it recurs; preserve horse-attack detail as evidence under combat.
+  suggested_aliases:
+  - warrior_unhorsed_by_attack_on_mount
+  - attack_on_horse_unhorses_warrior
+  - battlefield_unhorsing_by_wounding_mount
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourner-bodily-transformation-and-seclusion
+  motif_id: mourner_bodily_transformation_and_seclusion
+  label: mourner bodily transformation and seclusion
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on mourning practices and grief’s bodily/social effects,
+    with transformation secondary.
+  cautions: If the bodily transformation is literal metamorphosis, shapeshifter or
+    death_and_transformation may be relevant; if seclusion is ritual law, sacred_law
+    may be secondary.
+  suggested_aliases:
+  - mourning_seclusion_with_bodily_change
+  - bodily_change_during_mourning
+  - mourner_seclusion_and_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-abstinence-from-important-animal-food
+  motif_id: mourning_abstinence_from_important_animal_food
+  label: mourning abstinence from important animal food
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food abstinence during mourning is a ritual prohibition regulating conduct
+    around death.
+  cautions: Could also be ancestor_rites or lament_and_mourning if framed as care
+    for the dead or grief expression; preserve the animal-food specificity as local
+    evidence.
+  suggested_aliases:
+  - mourning_food_abstinence
+  - mortuary_abstinence_from_animal_food
+  - mourning_taboo_on_animal_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-among-birds-and-beasts
+  motif_id: mourning_among_birds_and_beasts
+  label: mourning among birds and beasts
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Animal participation in grief matches existing mourning motifs, including
+    animals mourning human masters or companions.
+  cautions: If the passage is a moralized hyperbole or omen rather than actual animal
+    mourning, keep as a poetic evidence detail.
+  suggested_aliases:
+  - animals_mourning
+  - birds_and_beasts_mourn
+  - animal_mourning_for_human_or_sage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch were routed to the animal bucket because of animal
+  terms, but their dominant functions are mortuary rite, combat, otherworld encounter,
+  or textual artifact rather than animal transformation.
+- Single-occurrence and highly contextual labels should generally remain granular
+  evidence under broader groups unless additional cross-source recurrence is found.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; verify source passages for dominant
+    narrative or ritual function before taxonomy updates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2217
+  input_sha256: fbabcb0fcf28a3ac4f085b3d87061fe2da217fdc9d1eebfd9dab6daf75d30b79
+

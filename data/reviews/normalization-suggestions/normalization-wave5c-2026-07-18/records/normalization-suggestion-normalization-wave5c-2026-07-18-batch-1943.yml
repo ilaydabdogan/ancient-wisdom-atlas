@@ -1,0 +1,330 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1943
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.personified-cardinal-direction
+  motif_id: personified_cardinal_direction
+  label: Personified cardinal direction
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A cardinal direction personified may fit cosmic geography, weather-being,
+    or local spirit-personhood, but the label alone does not show narrative function.
+  cautions: Single occurrence and culturally specific; avoid flattening Indigenous
+    directional beings into generic symbolism without source evidence.
+  suggested_aliases:
+  - direction_personified
+  - personified_direction
+  - cardinal_direction_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - duality
+    - divine_intervention
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-celestial-bodies-in-tale-titles
+  motif_id: personified_celestial_bodies_in_tale_titles
+  label: personified celestial bodies in tale titles
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'in tale titles' describes a title or cataloguing pattern
+    rather than a passage-level motif.
+  cautions: If the tale body depicts celestial beings acting as persons, preserve
+    that evidence separately under a non-meta celestial-personification motif after
+    review.
+  suggested_aliases:
+  - celestial_bodies_in_tale_titles
+  - personified_celestial_title_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-celestial-bodies-move-on-paths
+  motif_id: personified_celestial_bodies_move_on_paths
+  label: Personified celestial bodies move on paths
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Celestial bodies moving on set paths most directly concerns ordered cosmic
+    or calendrical motion.
+  cautions: Could instead fit cosmic_origin if the passage explains how celestial
+    paths were established, or divine_intervention if the bodies act as deities in
+    human affairs.
+  suggested_aliases:
+  - celestial_bodies_on_paths
+  - personified_stars_or_luminaries_follow_paths
+  - celestial_motion_as_personified_travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-celestial-bodies-with-human-motives
+  motif_id: personified_celestial_bodies_with_human_motives
+  label: Personified celestial bodies with human motives
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates anthropomorphism but not a clear function such as
+    creation, courtship, judgment, or guidance.
+  cautions: Single occurrence; may be a broad generated description rather than a
+    reusable motif. Review source action before mapping to sacred_time, cosmic_origin,
+    sacred_love, or divine_intervention.
+  suggested_aliases:
+  - anthropomorphic_celestial_bodies
+  - celestial_bodies_with_human_desires
+  - personified_luminaries_with_human_motives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - cosmic_origin
+    - divine_intervention
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-celestial-family
+  motif_id: personified_celestial_family
+  label: Personified celestial family
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: broader_label
+  confidence: low
+  rationale: A celestial family may express kinship among sacred or cosmic beings,
+    overlapping with sibling-pair and divine-family structures.
+  cautions: Low confidence because the family roles are unspecified; if the passage
+    focuses on sky order or origin of celestial bodies, cosmic_origin or sacred_time
+    may be better.
+  suggested_aliases:
+  - celestial_family
+  - family_of_personified_celestial_beings
+  - kinship_among_celestial_bodies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_time
+    - duality
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-conscience-appearing-as-a-beautiful-maiden
+  motif_id: personified_conscience_appearing_as_a_beautiful_maiden
+  label: Personified conscience appearing as a beautiful maiden
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: Personified conscience in Zoroastrian context typically functions as
+    postmortem moral reckoning or the visible form of one's deeds.
+  cautions: The maiden imagery should be preserved; if the passage emphasizes afterlife
+    route more than moral evaluation, afterlife_passage may be a secondary mapping.
+  suggested_aliases:
+  - conscience_as_beautiful_maiden
+  - personified_deeds_as_maiden
+  - daena_as_maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - sacred_knowledge
+    - beauty_and_paradox
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-crops-quarrel-over-their-value-to-humans
+  motif_id: personified_crops_quarrel_over_their_value_to_humans
+  label: personified crops quarrel over their value to humans
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The quarrel over crops' value to humans centers on food-gifts and reciprocal
+    human dependence on plant beings.
+  cautions: Could fit sacred_time if tied to harvest cycle, or storytelling_as_power
+    if it is mainly a fable debate; preserve crop personhood and local agricultural
+    context.
+  suggested_aliases:
+  - personified_crops_debate_value
+  - quarrel_of_crop_beings
+  - crops_argue_over_usefulness_to_humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - sacred_substance
+    - culture_hero
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-cursing-thought-as-a-boar
+  motif_id: personified_cursing_thought_as_a_boar
+  label: Personified cursing thought as a boar
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A cursing thought personified as an animal belongs with harmful performative
+    or spiritually effective curse-speech/thought.
+  cautions: If the boar acts as a demonic animal agent rather than a curse-form, divine_judgment
+    or sacred_law may be relevant; source context needed.
+  suggested_aliases:
+  - cursing_thought_as_boar
+  - curse_thought_personified_as_animal
+  - harmful_thought_as_boar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-destiny-as-destructive-power
+  motif_id: personified_destiny_as_destructive_power
+  label: Personified destiny as destructive power
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label directly describes destiny as an active destructive power,
+    matching fate as a force governing death and loss.
+  cautions: If the passage personifies cosmic fate beyond death specifically, fate_figures_cosmic_weaving
+    may be a useful secondary relation.
+  suggested_aliases:
+  - destiny_as_destructive_power
+  - personified_fate_as_destroyer
+  - destructive_personified_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - fate_figures_cosmic_weaving
+    - divine_judgment
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-directional-weather-being-as-antagonist
+  motif_id: personified_directional_weather_being_as_antagonist
+  label: personified directional weather being as antagonist
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A directional weather antagonist could be a storm spirit, boundary power,
+    cosmic opponent, or local being; existing groups do not capture the function cleanly
+    from the label alone.
+  cautions: Culturally specific personhood and directional cosmology require source
+    review. Do not reduce to generic chaos or combat without evidence of disorder,
+    battle, or cosmic ordering.
+  suggested_aliases:
+  - directional_weather_being_antagonist
+  - personified_weather_direction_as_opponent
+  - storm_direction_being_as_adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - divine_warrior
+    - chaos
+    - duality
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are personification labels from culturally specific cosmologies; many
+  need source evidence before treating them as generic anthropomorphism motifs.
+- 'The review bucket appears noisy for this batch: most labels concern celestial,
+  directional, fate, or agricultural personification rather than love/family/body
+  in the narrow sense.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize human review for culturally specific
+    directional/weather and celestial-personhood labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1943
+  input_sha256: 61233db1e84d9838c91e8b9dfda4c3dcee59268e9c9d93cf2baeafce6ae735bc
+

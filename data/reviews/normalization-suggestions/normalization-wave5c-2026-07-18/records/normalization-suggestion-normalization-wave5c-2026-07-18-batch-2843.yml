@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2843
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unidentified-warning-before-attack
+  motif_id: unidentified_warning_before_attack
+  label: Unidentified warning before attack
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: A warning before attack may function as omen, prophecy, messenger warning,
+    or ordinary plot device; the source of the warning is unspecified.
+  cautions: Single occurrence and 'unidentified' makes agency and sacred function
+    unclear; do not map solely from battle context.
+  suggested_aliases:
+  - warning_before_attack
+  - pre_attack_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uninformed-followers-endorsing-a-contested-program
+  motif_id: uninformed_followers_endorsing_a_contested_program
+  label: uninformed followers endorsing a contested program
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like contextual analysis of social persuasion or doctrinal
+    dispute rather than a stable mythic motif.
+  cautions: If the passage depicts false teaching, factional deception, or failed
+    discernment as a recurring narrative pattern, review under sacred_knowledge or
+    divine_judgment instead.
+  suggested_aliases:
+  - uninformed_followers_endorse_contested_teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unintended-killing-by-misdirected-heroic-shot
+  motif_id: unintended_killing_by_misdirected_heroic_shot
+  label: Unintended killing by misdirected heroic shot
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is a martial/heroic combat event whose misdirected shot
+    causes accidental death.
+  cautions: If the death is explicitly fated or morally punished, secondary review
+    under death_by_fate or divine_judgment may be warranted; otherwise keep as granular
+    evidence.
+  suggested_aliases:
+  - accidental_killing_by_misdirected_shot
+  - misdirected_heroic_shot_causes_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.united-warrior-companions
+  motif_id: united_warrior_companions
+  label: United warrior companions
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: Warrior companions acting as a united heroic force fits the broad heroic-warrior
+    complex better than a specific combat subtype.
+  cautions: Very broad and possibly descriptive; if no sacred, heroic, or narrative
+    function is present, exclude as a passage detail.
+  suggested_aliases:
+  - warrior_companions_united
+  - united_band_of_warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-compassion-toward-all-living-creatures
+  motif_id: universal_compassion_toward_all_living_creatures
+  label: universal compassion toward all living creatures
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Compassion toward all beings functions as an ethical sacred-law or moral-discipline
+    teaching; related children already include mercy toward living creatures.
+  cautions: Bucket assignment appears misleading. If the passage is contemplative
+    rather than normative, mystical_quest may be a secondary fit.
+  suggested_aliases:
+  - compassion_toward_all_living_beings
+  - mercy_toward_living_creatures
+  - universal_compassion_for_all_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unknowing-night-lodging-beside-a-monster-associated-place
+  motif_id: unknowing_night_lodging_beside_a_monster_associated_place
+  label: Unknowing night lodging beside a monster-associated place
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Unwitting lodging near a monster-linked place sets up a perilous threshold
+    encounter or guardian-like boundary ordeal.
+  cautions: Over-specific scene label; if no encounter, test, or passage follows,
+    treat as local plot detail rather than motif.
+  suggested_aliases:
+  - unwitting_lodging_near_monster_place
+  - night_lodging_at_perilous_monster_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unrecognized-kin-combat-ending-in-fatal-late-recognition
+  motif_id: unrecognized_kin_combat_ending_in_fatal_late_recognition
+  label: Unrecognized kin combat ending in fatal late recognition
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The fatal combat turns on hidden identity and recognition arriving too
+    late, aligning with the recognition/identity-proof complex.
+  cautions: Also related to sacred_combat and lament_and_mourning; map there secondarily
+    if combat ritual or grief is central.
+  suggested_aliases:
+  - fatal_late_recognition_of_kin_in_combat
+  - unrecognized_kin_slaying
+  - late_recognition_after_kin_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-helper-makes-the-hero-appear-magical-or-troll-like
+  motif_id: unseen_helper_makes_the_hero_appear_magical_or_troll_like
+  label: Unseen helper makes the hero appear magical or troll-like
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An unseen helper altering the hero's apparent power or form is supernatural
+    assistance in human affairs.
+  cautions: If the emphasis is actual bodily transformation or disguise rather than
+    aid, shapeshifter or trickster may be secondary fits; 'troll-like' may be culturally
+    specific evidence detail.
+  suggested_aliases:
+  - unseen_helper_alters_hero_appearance
+  - supernatural_helper_makes_hero_appear_magical
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-protection-justifies-visible-reward
+  motif_id: unseen_protection_justifies_visible_reward
+  label: Unseen protection justifies visible reward
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Unseen protection could indicate divine or hidden aid, but 'justifies
+    visible reward' sounds like interpretive framing rather than motif action.
+  cautions: Needs source evidence to determine whether this is supernatural protection,
+    social recompense, or commentary on honor/reward.
+  suggested_aliases:
+  - hidden_protection_rewarded
+  - unseen_aid_earns_visible_reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unwary-passerby-overcome-by-hidden-influence
+  motif_id: unwary_passerby_overcome_by_hidden_influence
+  label: unwary passerby overcome by hidden influence
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: uncertain
+  confidence: low
+  rationale: In Sufi context, hidden influence may be spiritual attraction, enchantment,
+    trial, or moral danger, but the label is too vague to place confidently.
+  cautions: Could belong under mystical_quest, divine_intervention, enchanting_music,
+    or trickster depending on the agency and effect; review source passage.
+  suggested_aliases:
+  - hidden_influence_overcomes_unwary_passerby
+  - unwary_traveler_overcome_by_unseen_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; preserve as evidence
+  details unless source review confirms recurrence or clear sacred/narrative function.
+- The review bucket is conflict-focused, but at least one item is ethical rather than
+  martial and should not be normalized by bucket alone.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; ambiguous singletons require source
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2843
+  input_sha256: e081eaca9a9a2cfbdde2c7601dcd6543ca291f16b92da69dcba56f1d3f44645f
+

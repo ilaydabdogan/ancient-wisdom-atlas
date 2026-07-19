@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0897
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.kin-blood-vengeance-as-sacred-duty
+  motif_id: kin_blood_vengeance_as_sacred_duty
+  label: kin blood vengeance as sacred duty
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label frames vengeance as a kinship obligation or sacred duty, fitting
+    sacred social law more than sacrifice itself.
+  cautions: Single occurrence; if the passage emphasizes retaliatory killing, feud,
+    or warrior action, sacred_combat or divine_judgment may be better secondary mappings.
+    Review culturally specific context carefully.
+  suggested_aliases:
+  - blood_vengeance_as_sacred_duty
+  - kin_vengeance_obligation
+  - sacred_duty_of_blood_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-murder-over-inherited-treasure
+  motif_id: kin_murder_over_inherited_treasure
+  label: kin-murder over inherited treasure
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Murder of kin over inheritance centers on violation of familial trust
+    and social bond, with treasure as motive.
+  cautions: Could also support sacred_treasures if the inherited object has supernatural
+    authority, or pride_and_downfall if greed and ruin are the main function. Single
+    occurrence may be episode-specific.
+  suggested_aliases:
+  - kin_murder_for_inheritance
+  - fratricidal_or_kin_betrayal_over_treasure
+  - inherited_treasure_motivates_kin_murder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-sharing-a-ritual-burden
+  motif_id: kin_sharing_a_ritual_burden
+  label: kin sharing a ritual burden
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Shared ritual burden among kin suggests reciprocal obligation and collective
+    participation in sacred duty.
+  cautions: Label is abstract and culturally contextual; if burden involves vow, bodily
+    suffering, or offering, sacrifice may be a secondary mapping. Needs source evidence
+    before broad querying.
+  suggested_aliases:
+  - shared_kin_ritual_obligation
+  - kin_collectively_bear_ritual_burden
+  - ritual_burden_shared_by_relatives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-sharing-of-vowed-bodily-obligation
+  motif_id: kin_sharing_of_vowed_bodily_obligation
+  label: kin sharing of vowed bodily obligation
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A vowed bodily obligation shared by kin fits surrender of body, pain,
+    or attachment as ritual offering.
+  cautions: Could overlap with sacred_exchange or covenant if the vow and kin reciprocity
+    are primary. Source context is needed, especially for culturally specific ritual
+    practice.
+  suggested_aliases:
+  - shared_vowed_bodily_obligation
+  - kin_share_bodily_vow
+  - collective_kin_bodily_vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kindling-of-a-new-ritual-fire
+  motif_id: kindling_of_a_new_ritual_fire
+  label: Kindling of a new ritual fire
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif directly concerns ritual production of sacred fire, already
+    covered by the sacred_fire group.
+  cautions: If tied to calendrical renewal or communal purification, sacred_time or
+    sacrifice may be useful secondary mappings.
+  suggested_aliases:
+  - new_ritual_fire
+  - ritual_kindling_of_sacred_fire
+  - new_fire_ceremony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kine-requiring-a-divinely-considered-guardian
+  motif_id: kine_requiring_a_divinely_considered_guardian
+  label: Kine requiring a divinely considered guardian
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A divinely appointed or considered guardian for cattle points to sacred
+    protective agency in human or animal affairs.
+  cautions: Very context-dependent; may relate to Zoroastrian cattle/cosmic order,
+    tutelary spirits, sacred law, or pastoral ethics. Human review should verify whether
+    this is a motif or doctrinal/theological detail.
+  suggested_aliases:
+  - divinely_chosen_guardian_of_cattle
+  - sacred_guardian_for_kine
+  - divine_guardianship_of_cattle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.king-and-populace-seek-sight-of-a-holy-teacher
+  motif_id: king_and_populace_seek_sight_of_a_holy_teacher
+  label: king and populace seek sight of a holy teacher
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: role_variant
+  confidence: low
+  rationale: Seeking sight of a holy teacher may function as public encounter with
+    sacred presence or revelation.
+  cautions: May be too event-specific or hagiographic; if the emphasis is teaching
+    rather than sacred manifestation, sacred_knowledge is better. If only attendance
+    by king and populace, exclude or retain as evidence detail.
+  suggested_aliases:
+  - public_seeking_sight_of_holy_teacher
+  - royal_and_public_veneration_of_holy_teacher
+  - vision_of_holy_teacher_sought_by_king_and_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kneeling-as-prayer-submission-and-visionary-posture
+  motif_id: kneeling_as_prayer_submission_and_visionary_posture
+  label: kneeling as prayer, submission, and visionary posture
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Kneeling as prayer and submission is a ritualized posture of petition
+    and relationship with sacred powers.
+  cautions: Composite label includes visionary posture; if vision reception is central,
+    dream_and_vision or theophany may be secondary. Could be a posture detail rather
+    than a reusable motif.
+  suggested_aliases:
+  - kneeling_prayer_posture
+  - ritual_kneeling_in_prayer_and_submission
+  - kneeling_as_visionary_posture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knife-bearing-divine-beings
+  motif_id: knife_bearing_divine_beings
+  label: knife-bearing divine beings
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: role_variant
+  confidence: medium
+  rationale: In Egyptian contexts, knife-bearing divine beings often function as guardians
+    or dangerous agents in afterlife routes and thresholds.
+  cautions: If the passage emphasizes protective divine intervention, judgment, or
+    combat rather than afterlife navigation, divine_intervention, divine_judgment,
+    or threshold_guardian may be better. Verify actual function from source evidence.
+  suggested_aliases:
+  - knife_bearing_afterlife_deities
+  - armed_divine_guardians
+  - knife_wielding_divine_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knife-bearing-divine-emblems
+  motif_id: knife_bearing_divine_emblems
+  label: knife-bearing divine emblems
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe iconographic emblems rather than narrative beings
+    or actions, and its function is unclear.
+  cautions: Could fit sacred_treasures if the emblem is a power object, afterlife_passage
+    if it marks protective/hostile afterlife guardianship, or _meta_textual if it
+    is an iconographic catalog note. Needs source review before mapping.
+  suggested_aliases:
+  - knife_bearing_emblems
+  - divine_emblems_with_knives
+  - armed_divine_iconographic_emblems
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items have only one occurrence and appear culturally or ritually specific;
+  suggested placements should be treated as provisional indexing aids, not taxonomy
+  changes.
+- For the Egyptian knife-bearing labels, distinguish beings acting as afterlife guardians
+  from iconographic or cataloging details about emblems.
+- For Native American Plains ritual-burden labels, preserve local ritual specificity
+  and avoid collapsing bodily vow, kin reciprocity, and sacrifice without passage
+  evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft machine suggestions for wave5c batch 0897; human review recommended
+    for low-confidence and culturally specific ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0897
+  input_sha256: b844c4add7554bf0b5a24473dc9d1cd2d29065dea48d3d6a2229355a3cf12762
+

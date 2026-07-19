@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0927
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.musical-contest-between-divine-figures
+  motif_id: musical_contest_between_divine_figures
+  label: musical contest between divine figures
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is music used in a divine contest, fitting the broader
+    music-as-power group.
+  cautions: Contest structure may also involve divine rivalry or pride/downfall depending
+    on passage evidence; single occurrence.
+  suggested_aliases:
+  - divine_musical_contest
+  - music_contest_between_gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.musical-contest-between-mortal-or-satyr-and-god
+  motif_id: musical_contest_between_mortal_or_satyr_and_god
+  label: musical contest between mortal or satyr and god
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mortal or satyr challenging a god in music commonly functions as overreaching
+    rivalry followed by divine humiliation or punishment.
+  cautions: If the passage emphasizes magical sound rather than hubristic challenge,
+    enchanting_music should be a secondary or alternate mapping.
+  suggested_aliases:
+  - mortal_challenges_god_in_music
+  - satyr_musical_contest_with_god
+  - musical_hubris_against_a_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.musical-contest-with-divine-victory
+  motif_id: musical_contest_with_divine_victory
+  label: musical contest with divine victory
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine victory in a contest often marks the defeat of a challenger and
+    restoration of divine superiority.
+  cautions: Needs source review to see whether the motif is hubris-punishment, divine
+    judgment, or simply a music-performance episode.
+  suggested_aliases:
+  - divine_victory_in_musical_contest
+  - god_wins_musical_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.musical-purification-of-the-city
+  motif_id: musical_purification_of_the_city
+  label: Musical purification of the city
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A city-cleansing rite fits the existing purification and ritual-expulsion
+    complex under sacrifice.
+  cautions: Music is the ritual medium; if sound efficacy is central, enchanting_music
+    may be a related secondary group.
+  suggested_aliases:
+  - civic_purification_by_music
+  - ritual_music_cleanses_city
+  - musical_civic_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mysterious-or-sacred-pipe
+  motif_id: mysterious_or_sacred_pipe
+  label: mysterious or sacred pipe
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A sacred pipe may be a ritual object, covenantal instrument, offering
+    medium, or culturally specific sacred item.
+  cautions: Culturally sensitive and too under-specified from the label alone; review
+    source context before mapping to sacred_treasures, sacred_exchange, covenant,
+    or sacrifice.
+  suggested_aliases:
+  - sacred_pipe
+  - ritual_pipe
+  - ceremonial_pipe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mystical-efficacy-of-chanted-sacred-hymns
+  motif_id: mystical_efficacy_of_chanted_sacred_hymns
+  label: Mystical efficacy of chanted sacred hymns
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Chanted hymns are efficacious sacred utterances whose power lies in ritual
+    speech performance.
+  cautions: Could also relate to sacred_knowledge or enchanting_music if the passage
+    emphasizes doctrine or sound rather than performative efficacy.
+  suggested_aliases:
+  - efficacious_sacred_chant
+  - chanted_hymns_as_sacred_power
+  - ritual_hymn_efficacy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.myth-as-explanation-for-older-ritual-custom
+  motif_id: myth_as_explanation_for_older_ritual_custom
+  label: Myth as explanation for older ritual custom
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes an interpretive claim about myth and ritual history,
+    not a narrative motif.
+  cautions: Preserve as commentary/provenance if useful; do not use as evidence of
+    ritual origin or transmission.
+  suggested_aliases:
+  - etiological_interpretation_of_ritual
+  - myth_explains_ritual_custom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.myth-based-animal-taboo-in-a-sanctuary
+  motif_id: myth_based_animal_taboo_in_a_sanctuary
+  label: Myth-based animal taboo in a sanctuary
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sanctuary taboo grounded in myth functions as sacred prohibition or
+    ritual law.
+  cautions: If the passage is mainly a scholarly explanation rather than a source
+    motif, treat as meta-textual; animal and sanctuary specifics should remain evidence
+    details.
+  suggested_aliases:
+  - sanctuary_animal_taboo
+  - mythic_basis_for_animal_taboo
+  - animal_taboo_based_on_myth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.myth-invented-to-explain-ritual
+  motif_id: myth_invented_to_explain_ritual
+  label: myth invented to explain ritual
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording is a comparative or scholarly hypothesis about ritual etiology,
+    not a motif in the storyworld.
+  cautions: Avoid indexing as a ritual motif unless source passages actually narrate
+    an etiological myth explaining a rite.
+  suggested_aliases:
+  - ritual_etiology_as_scholarly_claim
+  - invented_myth_explaining_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.myth-localized-by-natural-and-sacred-landmarks
+  motif_id: myth_localized_by_natural_and_sacred_landmarks
+  label: myth localized by natural and sacred landmarks
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Localization by landmarks may be sacred geography, place etiology, pilgrimage
+    setting, or editorial/geographic commentary.
+  cautions: Review whether the source narrates a sacred place-making motif or merely
+    notes local landmark associations; possible groups include axis_mundi, cosmic_origin,
+    or _meta_textual.
+  suggested_aliases:
+  - mythic_localization_by_landmarks
+  - sacred_landmark_localization
+  - myth_attached_to_sacred_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and may be passage-specific or
+  scholarly-commentary artifacts rather than durable motifs.
+- Musical contest labels should be reviewed for whether the passage emphasizes sound
+  power, divine rivalry, or hubristic challenge; placement may need secondary mappings.
+- Comparative labels about myths explaining rituals should generally be kept out of
+  motif pattern queries unless the source passage itself narrates an etiological ritual
+  origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0927
+  input_sha256: 937d6acdcb899791dec3ab0140f04e6a3269ede8d0d2c2580ff7bfbcdad2d852
+

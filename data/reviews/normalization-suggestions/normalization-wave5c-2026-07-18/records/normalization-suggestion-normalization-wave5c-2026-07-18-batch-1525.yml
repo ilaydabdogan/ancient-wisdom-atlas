@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1525
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.commemorative-stone-pile-marking-a-significant-meeting-place
+  motif_id: commemorative_stone_pile_marking_a_significant_meeting_place
+  label: Commemorative stone pile marking a significant meeting place
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A commemorative stone pile could mark sacred geography, memory, covenant,
+    or local place history, but the function is unclear from the label alone.
+  cautions: Single occurrence and culturally specific; avoid reducing a Plains commemorative
+    practice to generic axis/world-center symbolism without source evidence.
+  suggested_aliases:
+  - commemorative_stone_pile
+  - stone_pile_memorial
+  - meeting_place_memorial_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - cosmic_origin
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commentarial-linking-of-present-figures-with-birth-story-figures
+  motif_id: commentarial_linking_of_present_figures_with_birth_story_figures
+  label: Commentarial linking of present figures with birth-story figures
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a commentarial identification strategy rather than
+    a narrative motif in the story world.
+  cautions: If the passage itself asserts rebirth or former-birth identity, map that
+    evidence separately under death_and_transformation; this label as phrased is commentary
+    metadata.
+  suggested_aliases:
+  - commentarial_identity_linking
+  - commentarial_birth_story_identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.common-property-social-order
+  motif_id: common_property_social_order
+  label: common-property social order
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a social arrangement, but it is unclear whether it functions
+    as sacred law, reciprocity, origin charter, or ethnographic description.
+  cautions: Single occurrence; may be a social-organization note rather than a motif.
+    Review for Indigenous cultural context before indexing broadly.
+  suggested_aliases:
+  - communal_property_order
+  - shared_property_social_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-animal-food-distribution-followed-by-household-cooking
+  motif_id: communal_animal_food_distribution_followed_by_household_cooking
+  label: Communal animal-food distribution followed by household cooking
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may express sacred exchange or social reciprocity through food sharing,
+    but the label may simply record subsistence practice.
+  cautions: Single occurrence and ethnographic specificity; avoid mapping as ritual
+    unless sacred obligation, taboo, offering, or mythic charter is present.
+  suggested_aliases:
+  - communal_food_distribution
+  - shared_game_distribution
+  - household_cooking_after_communal_distribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-camp-fire-for-cooking-game-and-night-gathering
+  motif_id: communal_camp_fire_for_cooking_game_and_night_gathering
+  label: Communal camp fire for cooking game and night gathering
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A camp fire may be a social gathering focus, sacred fire, or ordinary
+    setting; the motif function is not evident.
+  cautions: Do not map to sacred_fire unless fire mediates sacred presence, purification,
+    sacrifice, or ritual order; otherwise this may be contextual description.
+  suggested_aliases:
+  - communal_camp_fire
+  - night_gathering_around_camp_fire
+  - cooking_game_at_communal_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - sacred_exchange
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-complaint-to-religious-authority
+  motif_id: communal_complaint_to_religious_authority
+  label: communal complaint to religious authority
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A community appealing to religious authority fits sacred law and social
+    order when the authority resolves moral or disciplinary disorder.
+  cautions: If this is merely a plot device or monastic procedural detail, keep as
+    evidence rather than a broad motif; divine_judgment may fit if punishment is central.
+  suggested_aliases:
+  - community_appeal_to_religious_authority
+  - communal_grievance_before_religious_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-dance-as-energetic-social-release
+  motif_id: communal_dance_as_energetic_social_release
+  label: Communal dance as energetic social release
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Communal dance may be ritual, social regulation, celebration, or performance,
+    but the sacred or narrative function is not specified.
+  cautions: Culturally specific performance context needs review; do not conflate
+    social dance with enchanting_music or sacred_time without ritual or mythic evidence.
+  suggested_aliases:
+  - communal_dance
+  - social_release_through_dance
+  - communal_dance_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - enchanting_music
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-drinking-vessel-emptied-during-celebration
+  motif_id: communal_drinking_vessel_emptied_during_celebration
+  label: communal drinking vessel emptied during celebration
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines communal drinking, vessel imagery, and celebration,
+    but it is unclear whether the function is sacred substance, vessel, exchange,
+    or ordinary festivity.
+  cautions: Single occurrence; map to sacred_substance only if drink has ritual, divine,
+    intoxicating, or transformative role, and to sacred_vessel only if the vessel
+    itself is symbolically active.
+  suggested_aliases:
+  - communal_celebration_drinking_vessel
+  - shared_drinking_vessel_in_celebration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - sacred_vessel
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-drum-supported-social-dance-performance
+  motif_id: communal_drum_supported_social_dance_performance
+  label: communal drum-supported social dance performance
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Drum-supported dance may involve sound power or ritual cycle, but the
+    label only establishes social performance.
+  cautions: Culturally specific; avoid indexing under enchanting_music unless sound
+    compels, heals, summons, marks ritual time, or mediates sacred presence.
+  suggested_aliases:
+  - communal_drum_dance
+  - drum_supported_social_dance
+  - social_dance_with_drum
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - sacred_time
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-dwelling-as-social-microcosm
+  motif_id: communal_dwelling_as_social_microcosm
+  label: communal dwelling as social microcosm
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A dwelling functioning as a microcosm aligns with place or body as organizing
+    center of social/cosmic order.
+  cautions: If the label is ethnographic description rather than symbolic mapping,
+    human review may exclude or remap to sacred_law; do not assume full axis-mundi
+    function.
+  suggested_aliases:
+  - dwelling_as_social_microcosm
+  - communal_house_as_microcosm
+  - house_as_social_order_model
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to describe social or ethnographic setting rather
+  than recurring mythic motifs; human review should check source passages before adding
+  them to pattern queries.
+- For Indigenous and small-scale society materials, preserve local practice-specific
+  meaning and avoid forcing ordinary communal life details into sacred-symbolic groups
+  without explicit evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; many single-occurrence communal/social labels
+    require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1525
+  input_sha256: 661d56723c22b9ec795b9780bff4fb5e97cd2e22bd0ab74e79ff62fdd07fa99f
+

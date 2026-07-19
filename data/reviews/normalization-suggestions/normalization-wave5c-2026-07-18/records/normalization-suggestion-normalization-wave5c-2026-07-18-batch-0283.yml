@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0283
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.old-burial-cairns-on-a-height-facing-the-sea
+  motif_id: old_burial_cairns_on_a_height_facing_the_sea
+  label: Old burial cairns on a height facing the sea
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: over_specific_label
+  confidence: low
+  rationale: Burial cairns are mortuary memorial features, but the label may describe
+    a local place detail rather than a recurring funeral motif.
+  cautions: Single occurrence; height and sea-facing orientation may be culturally
+    specific landscape evidence and should not be generalized without passage context.
+  suggested_aliases:
+  - sea_facing_burial_cairns
+  - burial_cairns_on_height
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-chief-s-house-over-burial-place
+  motif_id: old_chief_s_house_over_burial_place
+  label: old chief's house over burial place
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: over_specific_label
+  confidence: low
+  rationale: A dwelling over a burial place may indicate ancestor presence, mortuary
+    memory, or chiefly sacred space.
+  cautions: Could be a place-description artifact, sacred kingship marker, or burial
+    custom; needs source evidence before indexing.
+  suggested_aliases:
+  - chiefs_house_over_burial_place
+  - dwelling_over_burial_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-knowledge-temporarily-recalled-from-the-dead
+  motif_id: old_knowledge_temporarily_recalled_from_the_dead
+  label: Old knowledge temporarily recalled from the dead
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is recovery of ancestral or dead-held knowledge, which
+    fits sacred knowledge transmission.
+  cautions: If the passage emphasizes reviving the dead or soul return rather than
+    knowledge transfer, death_and_transformation or soul_loss_restoration may be relevant
+    secondary mappings.
+  suggested_aliases:
+  - knowledge_recalled_from_the_dead
+  - ancestral_knowledge_temporarily_recovered
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.older-gods-receding-before-a-spiritual-deity
+  motif_id: older_gods_receding_before_a_spiritual_deity
+  label: older gods receding before a spiritual deity
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe elevation of a supreme spiritual deity over older
+    divine powers.
+  cautions: Likely theological or historical interpretation rather than a narrative
+    motif; avoid using it to infer replacement or transmission without source review.
+  suggested_aliases:
+  - older_gods_recede_before_supreme_deity
+  - spiritual_deity_supersedes_older_gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.older-works-attributed-to-ancestral-builders
+  motif_id: older_works_attributed_to_ancestral_builders
+  label: older works attributed to ancestral builders
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Attribution of monuments or works to ancestors functions as an etiological
+    origin explanation for landscape or built features.
+  cautions: If the focus is craft, architecture, or sacred construction rather than
+    etiology, sacred_craft may be a better group; preserve ancestral-builder specificity.
+  suggested_aliases:
+  - ancestral_builders_explain_old_works
+  - old_works_attributed_to_ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.omen-object-foreboding-death
+  motif_id: omen_object_foreboding_death
+  label: Omen object foreboding death
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: An object serving as a sign that foretells death fits omen and divination
+    patterns.
+  cautions: If the object itself has sacred power, sacred_treasures may be secondary;
+    source context should distinguish omen from cursed object.
+  suggested_aliases:
+  - death_foreboding_omen_object
+  - object_omen_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.omen-of-death-before-battle
+  motif_id: omen_of_death_before_battle
+  label: omen of death before battle
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: alias
+  confidence: high
+  rationale: This is a close variant of existing pre-battle death-omen labels under
+    death_by_fate.
+  cautions: Could also support prophecy_divination or dream_and_vision if the passage
+    emphasizes omen method rather than doomed battle death.
+  suggested_aliases:
+  - ill_omens_before_doomed_battle
+  - death_omen_before_battle
+  - ominous_signs_foretelling_death_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.omen-of-success-or-death-visible-on-the-mountain-world
+  motif_id: omen_of_success_or_death_visible_on_the_mountain_world
+  label: Omen of success or death visible on the mountain/world
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: The core is an omen revealing an outcome, but the mountain/world wording
+    may indicate sacred geography or cosmology.
+  cautions: Composite and culturally specific label; review whether the mountain is
+    an axis_mundi, a vision site, or simply the location where signs appear.
+  suggested_aliases:
+  - mountain_visible_omen_of_success_or_death
+  - outcome_omen_on_sacred_mountain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-birth-signs-leading-to-threatened-infant-death
+  motif_id: ominous_birth_signs_leading_to_threatened_infant_death
+  label: Ominous birth signs leading to threatened infant death
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Unusual birth signs and threatened infancy fit the miraculous child and
+    sacred birth complex.
+  cautions: The signs are ominous rather than auspicious; if the passage centers household
+    persecution or judgment, jealous_stepmother_persecuted_child or divine_judgment
+    may be secondary.
+  suggested_aliases:
+  - ominous_birth_signs_threaten_infant
+  - threatened_infant_after_birth_omens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-corruption-of-offerings-before-death
+  motif_id: ominous_corruption_of_offerings_before_death
+  label: ominous corruption of offerings before death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Spoiled or corrupted offerings function as a ritual omen foretelling
+    death.
+  cautions: Also overlaps sacrifice and divine_judgment if the corruption signals
+    failed offering, divine displeasure, or ritual pollution; source context needed.
+  suggested_aliases:
+  - corrupted_offerings_as_death_omen
+  - spoiled_offerings_forebode_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; treat place, burial,
+  and landscape details as evidence notes unless recurrence is demonstrated.
+- Omen labels should be reviewed for whether their primary function is divination,
+  fated death, dream/vision, or divine judgment.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0283
+  input_sha256: cb1438c3b2a6dacbb300ac085290ea4da084240584d28fb165bb20527e0950f0
+

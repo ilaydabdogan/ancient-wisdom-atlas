@@ -1,0 +1,338 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1314
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.etiology-of-a-phrase-for-distorted-vision
+  motif_id: etiology_of_a_phrase_for_distorted_vision
+  label: etiology of a phrase for distorted vision
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an etiological explanation of a phrase, but it is unclear
+    whether the passage concerns vision, speech, name-origin, or a textual gloss.
+  cautions: Single occurrence and phrase-specific; may be a linguistic/commentary
+    artifact rather than a motif.
+  suggested_aliases:
+  - phrase_etiology
+  - etiology_of_distorted_vision_phrase
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - dream_and_vision
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-animal-habits-and-name
+  motif_id: etiology_of_animal_habits_and_name
+  label: etiology of animal habits and name
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origins
+  relationship: child
+  confidence: medium
+  rationale: The label explains animal behavior and naming through mythic narrative,
+    a recurring etiological animal-trait pattern not cleanly covered by existing groups.
+  cautions: Could be too broad unless more animal-trait etiologies recur; review whether
+    individual cases are fable artifacts or transformation narratives.
+  suggested_aliases:
+  - animal_trait_etiology
+  - etiology_of_animal_traits_and_names
+  - animal_behavior_and_name_origin
+  suggested_new_group:
+    id: animal_etiology_trait_origins
+    label: Animal Etiology and Trait Origins
+    description: Mythic explanations for why an animal has a name, cry, color, gait,
+      habit, bodily trait, or characteristic behavior.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - culture_hero
+    reason_existing_groups_insufficient: cosmic_origin currently covers creation and
+      place/name etiologies but lacks a clear home for recurring animal-trait and
+      animal-name origin tales.
+- suggestion_id: normalization.suggestion.etiology-of-animal-speech-and-color
+  motif_id: etiology_of_animal_speech_and_color
+  label: Etiology of animal speech and color
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origins
+  relationship: child
+  confidence: medium
+  rationale: Animal speech and color are specific traits explained by origin narrative,
+    fitting a proposed animal-etiology group.
+  cautions: If the passage emphasizes transformation or punishment causing color change,
+    shapeshifter or divine_judgment may be secondary.
+  suggested_aliases:
+  - animal_speech_and_color_origin
+  - etiology_of_animal_traits
+  - animal_trait_etiology
+  suggested_new_group:
+    id: animal_etiology_trait_origins
+    label: Animal Etiology and Trait Origins
+    description: Mythic explanations for why an animal has a name, cry, color, gait,
+      habit, bodily trait, or characteristic behavior.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups include general creation
+      and transformation, but not the repeated etiological function of explaining
+      animal traits.
+- suggestion_id: normalization.suggestion.etiology-of-baboon-s-name-and-four-footed-gait
+  motif_id: etiology_of_baboon_s_name_and_four_footed_gait
+  label: etiology of Baboon's name and four-footed gait
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origins
+  relationship: child
+  confidence: medium
+  rationale: The motif explains an animal name and bodily/behavioral trait, a narrow
+    instance of animal-trait etiology.
+  cautions: May involve punishment, transformation, or trickster action; preserve
+    the Baboon-specific detail as evidence rather than canonical label.
+  suggested_aliases:
+  - baboon_name_and_gait_origin
+  - animal_name_and_gait_etiology
+  - animal_trait_etiology
+  suggested_new_group:
+    id: animal_etiology_trait_origins
+    label: Animal Etiology and Trait Origins
+    description: Mythic explanations for why an animal has a name, cry, color, gait,
+      habit, bodily trait, or characteristic behavior.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - divine_judgment
+    reason_existing_groups_insufficient: No current group explicitly handles animal
+      name and trait origin tales without collapsing them into generic creation or
+      shapeshifting.
+- suggestion_id: normalization.suggestion.etiology-of-bird-behavior-and-name
+  motif_id: etiology_of_bird_behavior_and_name
+  label: etiology of bird behavior and name
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origins
+  relationship: child
+  confidence: medium
+  rationale: The label describes a mythic explanation of a bird's behavior and name,
+    matching an animal-trait etiology pattern.
+  cautions: Review source context for culturally specific Dreaming or place-linked
+    meanings; do not reduce to generic animal symbolism if land or law is central.
+  suggested_aliases:
+  - bird_behavior_and_name_origin
+  - animal_behavior_name_etiology
+  - animal_trait_etiology
+  suggested_new_group:
+    id: animal_etiology_trait_origins
+    label: Animal Etiology and Trait Origins
+    description: Mythic explanations for why an animal has a name, cry, color, gait,
+      habit, bodily trait, or characteristic behavior.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - sacred_law
+    - culture_hero
+    reason_existing_groups_insufficient: Existing taxonomy lacks a stable group for
+      animal behavior/name origin labels that recur across traditions.
+- suggestion_id: normalization.suggestion.etiology-of-island-division-and-population-dispersal
+  motif_id: etiology_of_island_division_and_population_dispersal
+  label: Etiology of island division and population dispersal
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: This explains landscape formation and people dispersal, fitting the existing
+    creation/etiological origin group.
+  cautions: If the narrative centers on migration, exile, or social reordering rather
+    than landscape origin, hero_journey or royal/social-order review may be needed.
+  suggested_aliases:
+  - landscape_division_etiology
+  - population_dispersal_origin
+  - island_division_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-mocking-bird-traits-and-name
+  motif_id: etiology_of_mocking_bird_traits_and_name
+  label: etiology of mocking bird traits and name
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origins
+  relationship: child
+  confidence: medium
+  rationale: A bird's characteristic traits and name are explained by mythic narrative,
+    fitting the proposed animal-trait etiology group.
+  cautions: Check whether the passage is also a sacred-law, Dreaming, or landscape-origin
+    narrative; bird-specific detail should remain granular evidence.
+  suggested_aliases:
+  - mocking_bird_trait_origin
+  - bird_traits_and_name_etiology
+  - animal_trait_etiology
+  suggested_new_group:
+    id: animal_etiology_trait_origins
+    label: Animal Etiology and Trait Origins
+    description: Mythic explanations for why an animal has a name, cry, color, gait,
+      habit, bodily trait, or characteristic behavior.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: The current cosmic_origin group has etiological
+      place/name labels, but no explicit animal-trait origin subgroup.
+- suggestion_id: normalization.suggestion.etiology-of-names-through-mythic-narrative
+  motif_id: etiology_of_names_through_mythic_narrative
+  label: Etiology of names through mythic narrative
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The existing cosmic_origin group already includes several place-name,
+    eponymous ancestor, and naming etiologies.
+  cautions: Broad label lacks object of naming; if it explains only a phrase or editorial
+    term, review as textual artifact.
+  suggested_aliases:
+  - mythic_name_etiology
+  - name_origin_through_myth
+  - etiological_naming_narrative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-owl-behavior-and-local-place-name
+  motif_id: etiology_of_owl_behavior_and_local_place_name
+  label: etiology of owl behavior and local place-name
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal behavior etiology with local place-name etiology,
+    spanning proposed animal-etiology and existing cosmic_origin patterns.
+  cautions: Composite and single-occurrence; review whether the primary function is
+    animal trait origin, toponymy, local sacred geography, or source commentary.
+  suggested_aliases:
+  - owl_behavior_and_place_name_origin
+  - animal_trait_and_toponym_etiology
+  - owl_behavior_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-prestige-ornament-and-mourning-custom
+  motif_id: etiology_of_prestige_ornament_and_mourning_custom
+  label: Etiology of prestige ornament and mourning custom
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label explains a social object and mourning custom, but could fit
+    sacred_treasures, lament_and_mourning, sacred_law, or local etiological narrative.
+  cautions: Culturally specific prestige and mourning practices need source review;
+    avoid flattening ritual object, status, and grief functions into one broad motif.
+  suggested_aliases:
+  - mourning_custom_etiology
+  - prestige_ornament_origin
+  - ritual_custom_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - sacred_treasures
+    - sacred_law
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence etiologies. Animal trait/name etiologies recur
+  in this batch and may warrant a new review group rather than repeated ad hoc mappings
+  to cosmic_origin.
+- 'Use caution with Indigenous Australian and Northwest Coast materials: local land,
+  law, clan, or ceremonial meanings may be more important than generic etiology wording.'
+- Do not treat all etiologies as cosmic_origin automatically; distinguish animal-trait
+  origins, place-name origins, phrase/commentary artifacts, and ritual custom origins.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; human review recommended for composite
+    and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1314
+  input_sha256: b6f5cf651c9ab83e6ee6980cfba9529b688686509ece00e3eb5462196df8029b
+

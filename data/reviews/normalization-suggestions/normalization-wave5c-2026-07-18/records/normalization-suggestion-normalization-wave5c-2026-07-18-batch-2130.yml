@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2130
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.concealment-of-tracks-from-enemies-through-animal-symbolism
+  motif_id: concealment_of_tracks_from_enemies_through_animal_symbolism
+  label: concealment of tracks from enemies through animal symbolism
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: Concealment from enemies may involve deception or boundary-crossing strategy,
+    but the animal-symbolism function is unclear from the label alone.
+  cautions: Single occurrence and culturally specific; verify whether this is narrative
+    action, ritual symbolism, or interpretation before mapping.
+  suggested_aliases:
+  - animal_symbolic_track_concealment
+  - concealing_tracks_from_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.condemned-woman-exposed-to-wild-beasts-in-a-public-arena
+  motif_id: condemned_woman_exposed_to_wild_beasts_in_a_public_arena
+  label: condemned woman exposed to wild beasts in a public arena
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a martyrdom or punishment scene more than an animal-transformation
+    motif, and no supplied group cleanly captures public execution by beasts.
+  cautions: May belong under a future martyrdom/persecution group, divine intervention
+    if rescued, or be too episode-specific without source evidence.
+  suggested_aliases:
+  - public_exposure_to_wild_beasts
+  - condemned_woman_thrown_to_beasts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-animal-transport-by-helpers
+  motif_id: conditional_animal_transport_by_helpers
+  label: Conditional animal transport by helpers
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal helpers already sit under divine_intervention, and transport assistance
+    is a guidance or aid function.
+  cautions: If the helper animals are ordinary fable agents rather than sacred or
+    supernatural helpers, this may be better treated as a local narrative detail.
+  suggested_aliases:
+  - animal_helpers_provide_transport
+  - helper_animals_as_transport
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-between-human-people-and-animal-people
+  motif_id: conflict_between_human_people_and_animal_people
+  label: conflict between human people and animal people
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to relations between human and animal-person societies,
+    which is not well represented by existing groups.
+  cautions: Culturally sensitive ontological category; do not collapse animal people
+    into generic animals, shapeshifters, or tricksters without passage evidence.
+  suggested_aliases:
+  - human_people_conflict_with_animal_people
+  - war_between_humans_and_animal_people
+  suggested_new_group:
+    id: animal_people_relations
+    label: Animal People and Human-Animal Relations
+    description: Narratives where animals are social persons, peoples, kin groups,
+      adversaries, or communities interacting with humans through alliance, conflict,
+      marriage, exchange, or transformation.
+    parent_group_ids:
+    - shapeshifter
+    - trickster
+    related_group_ids:
+    - sacred_law
+    - divine_intervention
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover tricksters, shapeshifting,
+      and animal helpers, but not animal peoples as social or ontological communities.
+- suggestion_id: normalization.suggestion.conflict-triggered-by-animal-killing-and-demand-for-leaders
+  motif_id: conflict_triggered_by_animal_killing_and_demand_for_leaders
+  label: Conflict triggered by animal killing and demand for leaders
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animal killing triggering conflict could involve sacred law, animal-person
+    relations, or political order, but the function is ambiguous.
+  cautions: Single occurrence and composite label; verify whether animal killing is
+    taboo violation, interspecies diplomacy, origin of leadership, or a passage-specific
+    plot event.
+  suggested_aliases:
+  - animal_killing_triggers_conflict
+  - animal_killing_leads_to_demand_for_leaders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.consolation-through-an-explanatory-or-diverting-animal-story
+  motif_id: consolation_through_an_explanatory_or_diverting_animal_story
+  label: consolation through an explanatory or diverting animal story
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The central function is the use of a story to console, explain, or divert,
+    with animals as story content.
+  cautions: If the animal episode itself carries the motif rather than the act of
+    consolation by narration, a trickster or animal-person mapping may be needed.
+  suggested_aliases:
+  - animal_story_as_consolation
+  - diverting_explanatory_animal_story
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.constellation-identified-with-human-group-animals-and-tools
+  motif_id: constellation_identified_with_human_group_animals_and_tools
+  label: Constellation identified with human group, animals, and tools
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Identifying a constellation with earthly beings and tools is a cosmic-etiological
+    mapping of social or material forms into the sky.
+  cautions: If the passage emphasizes postmortem transformation into stars, death_and_transformation
+    may be a better or secondary placement.
+  suggested_aliases:
+  - constellation_identification_with_people_animals_and_tools
+  - asterism_identified_with_human_group_animals_tools
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.constitutional-transformation-of-a-people
+  motif_id: constitutional_transformation_of_a_people
+  label: constitutional transformation of a people
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too abstract to determine whether it means bodily transformation,
+    social reconstitution, origin of a people, or political change.
+  cautions: May be a generated wording artifact; source context is needed before mapping
+    to shapeshifter, cosmic_origin, royal_legitimacy, or sacred_law.
+  suggested_aliases:
+  - transformation_of_a_people
+  - social_transformation_of_a_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contact-induced-ceremonial-smell-detected-by-an-animal-helper
+  motif_id: contact_induced_ceremonial_smell_detected_by_an_animal_helper
+  label: contact-induced ceremonial smell detected by an animal helper
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: over_specific_label
+  confidence: low
+  rationale: Animal-helper detection could fit guidance, but the contact-induced ceremonial
+    smell detail is highly specific and may be an evidence note.
+  cautions: Do not promote without recurrence; verify whether smell detection is ritual
+    impurity, tracking, recognition, or animal-helper guidance.
+  suggested_aliases:
+  - animal_helper_detects_ceremonial_scent
+  - ceremonial_smell_detected_by_animal_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contained-bird-escapes-during-careless-eating
+  motif_id: contained_bird_escapes_during_careless_eating
+  label: contained bird escapes during careless eating
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A contained bird escaping through carelessness may involve trickster
+    escape, soul-bird symbolism, or a passage-specific animal incident.
+  cautions: Single occurrence; source evidence is needed to decide whether the bird
+    is a soul, captive helper, prey, messenger, or ordinary animal.
+  suggested_aliases:
+  - captive_bird_escapes_during_eating
+  - contained_bird_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and culturally specific animal-person
+  or animal-helper motifs; human review should avoid flattening Indigenous ontological
+  categories into generic animal symbolism.
+- Where animal helpers are clearly sacred or supernatural guides, divine_intervention
+  is the best existing broad group; where animals are social peoples, a future animal_people_relations
+  group may be warranted.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages needed for low-confidence
+    animal-person and over-specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2130
+  input_sha256: c7670a69ee5825de4c633065c98ce070d24fe197d159082f3294ee3787ff3846
+

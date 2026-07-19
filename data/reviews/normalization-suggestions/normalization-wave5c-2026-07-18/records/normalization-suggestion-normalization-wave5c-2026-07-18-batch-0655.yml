@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0655
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.world-traveling-tale-of-the-bad-or-contrary-wife
+  motif_id: world_traveling_tale_of_the_bad_or_contrary_wife
+  label: world-traveling tale of the bad or contrary wife
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase describes a tale-type distribution or scholarly classification
+    more than a reusable symbolic motif.
+  cautions: If the passage itself centers on marital conflict, gendered satire, or
+    journey action, remap from source evidence rather than this tale-type label.
+  suggested_aliases:
+  - bad_or_contrary_wife_tale_type
+  - world_traveling_tale_type
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worship-of-elemental-and-clean-beings
+  motif_id: worship_of_elemental_and_clean_beings
+  label: Worship of elemental and clean beings
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label appears to concern purity-coded ritual veneration of beings,
+    which may fit sacred law or purity practice.
+  cautions: Zoroastrian ritual categories are culturally specific; verify whether
+    this is a motif, doctrinal statement, or passage summary before indexing.
+  suggested_aliases:
+  - veneration_of_pure_elemental_beings
+  - worship_of_clean_elemental_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worship-of-holy-fravashis
+  motif_id: worship_of_holy_fravashis
+  label: Worship of holy Fravashis
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fravashis are venerated ancestral or pre-existent spiritual entities,
+    so ritual worship aligns most closely with ancestor/dead-soul rites.
+  cautions: Fravashi theology is broader than ordinary ancestors; review source context
+    for whether divine_intervention or sacred_law should be secondary.
+  suggested_aliases:
+  - veneration_of_fravashis
+  - worship_of_frawashis
+  - fravashi_veneration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worship-of-images-linked-to-higher-forms
+  motif_id: worship_of_images_linked_to_higher_forms
+  label: worship of images linked to higher forms
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: Consecrated or image-mediated worship may involve power objects or cult
+    images, but the label is doctrinal and abstract.
+  cautions: Could instead belong with sacred_craft if images are animated, theophany
+    if forms manifest, or be excluded as philosophical commentary.
+  suggested_aliases:
+  - cult_images_linked_to_higher_forms
+  - image_veneration_as_link_to_higher_forms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worship-of-mazda-made-holy-elements
+  motif_id: worship_of_mazda_made_holy_elements
+  label: Worship of Mazda-made holy elements
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Veneration of divinely made holy elements likely reflects purity and
+    ritual order, fitting sacred law provisionally.
+  cautions: May be doctrinal summary rather than motif; could also relate to sacred_fire,
+    sacred_waters, or cosmic_origin depending on which elements are active in the
+    passage.
+  suggested_aliases:
+  - veneration_of_mazda_made_elements
+  - worship_of_holy_created_elements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worship-of-mythic-figures-as-divinities
+  motif_id: worship_of_mythic_figures_as_divinities
+  label: worship of mythic figures as divinities
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: Human or mythic figures treated as divine can overlap with apotheosis,
+    cult hero worship, or sacred rulership.
+  cautions: Existing groups do not cleanly cover hero cult or apotheosis; review whether
+    this is worship practice, euhemerism, imperial cult, or commentary.
+  suggested_aliases:
+  - mythic_figures_venerated_as_gods
+  - heroic_figures_worshiped_as_divinities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worship-of-unseen-intangible-beings-questioned
+  motif_id: worship_of_unseen_intangible_beings_questioned
+  label: Worship of unseen intangible beings questioned
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: Questioning unseen beings is more epistemic or theological debate than
+    a clear narrative motif.
+  cautions: May be a doctrinal polemic or commentary artifact; map only if passage
+    presents revelation, doubt, or proof as a recurring sacred-knowledge pattern.
+  suggested_aliases:
+  - questioning_worship_of_unseen_beings
+  - doubt_about_intangible_divine_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worship-of-waters-lands-and-blessing-prayer
+  motif_id: worship_of_waters_lands_and_blessing_prayer
+  label: worship of waters, lands, and blessing-prayer
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label explicitly includes veneration of waters and blessing prayer,
+    aligning with sacred waters as ritual and sacred medium.
+  cautions: Land veneration and blessing speech may also support sacred_law or curse_blessing_speech;
+    preserve composite evidence in notes.
+  suggested_aliases:
+  - veneration_of_waters_and_lands
+  - worship_of_waters_lands_and_blessing_prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worship-or-invocation-of-celestial-bodies-and-animals
+  motif_id: worship_or_invocation_of_celestial_bodies_and_animals
+  label: Worship or invocation of celestial bodies and animals
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: low
+  rationale: Invocation of celestial and animal powers may seek sacred aid or guidance,
+    but the label is broad and culturally specific.
+  cautions: Review source evidence carefully; could involve sacred_time, dream_and_vision,
+    animal helpers, cosmic order, or ritual prayer rather than one stable motif.
+  suggested_aliases:
+  - invocation_of_celestial_bodies_and_animals
+  - veneration_of_celestial_and_animal_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worship-through-paired-consecrated-implements
+  motif_id: worship_through_paired_consecrated_implements
+  label: worship through paired consecrated implements
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Consecrated implements function as sacred objects mediating ritual worship.
+  cautions: If the paired structure is symbolically central, duality may be a secondary
+    tag; if the action is offering, sacred_exchange or sacrifice may be relevant.
+  suggested_aliases:
+  - paired_consecrated_implements_in_worship
+  - ritual_worship_with_paired_implements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are worship/practice labels placed in a journey bucket,
+  suggesting bucket misclassification rather than journey motifs.
+- Zoroastrian-specific terms should be reviewed with source context before final indexing;
+  avoid flattening doctrinal categories into generic worship motifs.
+- No transmission or borrowing claims are implied by these normalization suggestions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; many labels are single-occurrence ritual or
+    doctrinal summaries.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0655
+  input_sha256: 797ed3ba547c9f3c6ca9f4977a891dc5cf9450008e74cb58065e6935c923e3da
+

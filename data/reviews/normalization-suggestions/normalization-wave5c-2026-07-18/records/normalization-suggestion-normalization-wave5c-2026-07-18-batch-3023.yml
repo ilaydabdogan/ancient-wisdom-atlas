@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3023
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.summoned-helper-brings-healing-aid
+  motif_id: summoned_helper_brings_healing_aid
+  label: Summoned helper brings healing aid
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A summoned helper who brings healing aid fits supernatural or sacred
+    assistance in human affairs.
+  cautions: Single occurrence; if the helper is a human healer or ritual specialist
+    rather than supernatural agent, sacred_exchange or sacred_law may be better.
+  suggested_aliases:
+  - summoned_healing_helper
+  - supernatural_helper_brings_healing_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoned-mount-and-change-from-rags-to-golden-garments
+  motif_id: summoned_mount_and_change_from_rags_to_golden_garments
+  label: summoned mount and change from rags to golden garments
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a magical mount, status transformation, and golden
+    clothing without clear dominant function.
+  cautions: Could fit shapeshifter, divine_intervention, sacred_treasures, royal_legitimacy,
+    or recognition/hidden identity depending on passage evidence; likely over-composite.
+  suggested_aliases:
+  - magical_mount_and_golden_garments
+  - rags_to_golden_garments_with_summoned_mount
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summons-to-the-communal-house
+  motif_id: summons_to_the_communal_house
+  label: summons to the communal house
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a scene-setting or administrative action rather than
+    a symbolic motif.
+  cautions: If the communal house is a ritual center, assembly of gods, or threshold
+    space, human review may map it to royal_legitimacy, covenant, or world_center.
+  suggested_aliases:
+  - communal_house_summons
+  - summons_to_assembly_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-being-appearing-in-human-form-as-teacher
+  motif_id: supernatural_being_appearing_in_human_form_as_teacher
+  label: Supernatural being appearing in human form as teacher
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: high
+  rationale: A supernatural being in human form functions as a teacher transmitting
+    sacred or transformative knowledge.
+  cautions: Also related to shapeshifter and divine_intervention; preserve the human-form
+    disguise if important in the source.
+  suggested_aliases:
+  - supernatural_teacher_in_human_form
+  - divine_teacher_appears_as_human
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-being-emerging-from-a-cave-before-danger
+  motif_id: supernatural_being_emerging_from_a_cave_before_danger
+  label: Supernatural being emerging from a cave before danger
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Cave emergence suggests liminal space, but the danger-warning or threat
+    function is unclear.
+  cautions: Could map to descent, threshold_guardian, divine_intervention, or otherworld
+    depending on whether the being warns, attacks, protects, or marks a boundary.
+  suggested_aliases:
+  - cave_emergence_before_danger
+  - supernatural_cave_being_before_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-canoe-as-identity-bearing-vessel
+  motif_id: supernatural_canoe_as_identity_bearing_vessel
+  label: Supernatural canoe as identity-bearing vessel
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function appears to be identity-bearing or identity-proof, even
+    though the object is a vessel.
+  cautions: If the canoe chiefly transports, preserves, or crosses worlds, sacred_vessel,
+    sacred_waters, or otherworld may be better secondary mappings.
+  suggested_aliases:
+  - identity_bearing_supernatural_canoe
+  - canoe_as_identity_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-feast-requiring-performance
+  motif_id: supernatural_feast_requiring_performance
+  label: supernatural feast requiring performance
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A feast conditioned on performance suggests reciprocal obligation between
+    humans and supernatural powers.
+  cautions: If performance is music, dance, or narrative compulsion, enchanting_music
+    or storytelling_as_power may be relevant; source context needed.
+  suggested_aliases:
+  - performance_required_at_supernatural_feast
+  - supernatural_feast_with_required_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-helper-launches-immovable-vessel
+  motif_id: supernatural_helper_launches_immovable_vessel
+  label: supernatural helper launches immovable vessel
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural helper accomplishing an impossible launch is direct sacred
+    assistance in an otherwise blocked action.
+  cautions: Because the object is a vessel, sacred_vessel or sacred_craft may be secondary
+    if construction or the vessel's sacred power is emphasized.
+  suggested_aliases:
+  - supernatural_aid_launches_immovable_vessel
+  - helper_launches_unlaunchable_ship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-helper-protects-a-fugitive-during-pursuit
+  motif_id: supernatural_helper_protects_a_fugitive_during_pursuit
+  label: Supernatural helper protects a fugitive during pursuit
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Protection of a pursued fugitive by a supernatural helper is a clear
+    divine or sacred rescue pattern.
+  cautions: If the protection occurs through concealment in a place or object, sacred_vessel
+    or threshold motifs may be relevant as secondary evidence.
+  suggested_aliases:
+  - supernatural_rescue_of_fugitive
+  - supernatural_protection_during_pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-house-of-unusual-material
+  motif_id: supernatural_house_of_unusual_material
+  label: supernatural house of unusual material
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A strange supernatural house may be otherworldly, crafted, sacred-center
+    imagery, or merely descriptive setting.
+  cautions: Single occurrence and object-specific; map only if the house functions
+    as an otherworld, threshold, sanctuary, trial space, or sacred construction.
+  suggested_aliases:
+  - supernatural_house_made_of_unusual_material
+  - unusual_material_supernatural_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence object or scene descriptions;
+  preserve local evidence but avoid promoting composite labels without recurrence.
+- For supernatural helpers, distinguish direct intervention from sacred exchange,
+  craft, or vessel symbolism when source evidence clarifies the mechanism.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; object/space bucket labels often require passage
+    context to separate setting artifacts from durable motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3023
+  input_sha256: a5d1f49726c6ba18bb12b6f27bf161690639ec7c024f815bff34c6a4b9c0095a
+

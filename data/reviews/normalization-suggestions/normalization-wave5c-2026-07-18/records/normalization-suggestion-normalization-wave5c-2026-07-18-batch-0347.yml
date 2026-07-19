@@ -1,0 +1,324 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0347
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-striking-explained-by-ancestral-action
+  motif_id: ritual_striking_explained_by_ancestral_action
+  label: ritual striking explained by ancestral action
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests an etiological explanation for a ritual act tied to
+    ancestors, but the ritual function is unclear from wording alone.
+  cautions: Single occurrence; may be local ritual etiology, ancestor rite, sacred
+    law, or passage-specific commentary. Needs source evidence before mapping.
+  suggested_aliases:
+  - ancestral_action_explains_ritual_striking
+  - ritual_etiology_from_ancestral_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - sacred_law
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-transfer-of-corpse-ornaments-to-burial-officiants
+  motif_id: ritual_transfer_of_corpse_ornaments_to_burial_officiants
+  label: ritual transfer of corpse ornaments to burial officiants
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns burial procedure and transfer of objects associated
+    with the corpse to ritual officiants.
+  cautions: If the transfer is primarily payment, inheritance, taboo removal, or exchange
+    with the dead, ancestor_rites or sacred_exchange may be better secondary mappings.
+    Preserve ornament/officiant detail as evidence.
+  suggested_aliases:
+  - corpse_ornaments_transferred_to_burial_officiants
+  - burial_officiants_receive_corpse_ornaments
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-transgression-expected-to-bring-death-within-a-fixed-period
+  motif_id: ritual_transgression_expected_to_bring_death_within_a_fixed_period
+  label: Ritual transgression expected to bring death within a fixed period
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual violation carrying a death consequence fits sacred prohibition
+    and taboo logic under sacred law.
+  cautions: Could also involve curse, divine judgment, or fate if the source frames
+    the death as a spoken sanction, sacred punishment, or predetermined doom. Culturally
+    specific taboo should be reviewed carefully.
+  suggested_aliases:
+  - death_after_ritual_transgression
+  - taboo_violation_brings_death_within_fixed_time
+  - ritual_violation_with_fixed_death_consequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-use-of-substance-from-the-dead-for-benefit-to-the-living
+  motif_id: ritual_use_of_substance_from_the_dead_for_benefit_to_the_living
+  label: Ritual use of substance from the dead for benefit to the living
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines mortuary remains, ritual use, and benefit to the living,
+    but the symbolic function is not clear enough to place confidently.
+  cautions: Could fit ancestor_rites, sacred_substance, sacred_exchange, sacred_treasures,
+    or sacred_law depending on whether the substance mediates ancestor relations,
+    healing, power, taboo, or reciprocity. Sensitive mortuary practice; human review
+    recommended.
+  suggested_aliases:
+  - substance_from_the_dead_benefits_the_living
+  - ritual_use_of_mortuary_substance
+  - corpse_derived_substance_for_living_benefit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - sacred_substance
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-veneration-of-fravashis-and-souls-of-the-dead
+  motif_id: ritual_veneration_of_fravashis_and_souls_of_the_dead
+  label: Ritual veneration of Fravashis and souls of the dead
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritual veneration of dead souls fits the ancestor-rites complex of maintaining
+    relations with the dead.
+  cautions: Fravashis have specific Zoroastrian theological meaning and are not simply
+    generic ancestors; preserve the local term and consider sacred_knowledge or divine_intervention
+    only if source emphasizes doctrine or protective agency.
+  suggested_aliases:
+  - veneration_of_fravashis
+  - ritual_veneration_of_souls_of_the_dead
+  - fravashi_and_dead_soul_veneration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-washing-after-corpse-contact
+  motif_id: ritual_washing_after_corpse_contact
+  label: ritual washing after corpse contact
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Washing after corpse contact is a ritual purity rule regulating death
+    pollution or spiritual danger.
+  cautions: May also support ancestor_rites or afterlife_passage if tied to funeral
+    sequence, but the generated label centers on purification after contact.
+  suggested_aliases:
+  - corpse_contact_purification
+  - washing_after_contact_with_the_dead
+  - ritual_cleansing_after_corpse_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-weather-control-directed-against-sea-spirits
+  motif_id: ritual_weather_control_directed_against_sea_spirits
+  label: Ritual weather control directed against sea spirits
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns ritual action toward spirits and weather, but no existing
+    group cleanly covers weather-control rites.
+  cautions: Review culturally specific spirit terminology and source context. Could
+    fit sacred_exchange if coercive reciprocity, divine_intervention if spirit agency
+    is central, or sacred_waters if sea boundary symbolism is central.
+  suggested_aliases:
+  - weather_control_against_sea_spirits
+  - ritual_control_of_weather_through_sea_spirits
+  - sea_spirit_weather_rite
+  suggested_new_group:
+    id: ritual_weather_control
+    label: Ritual Weather Control
+    description: Ritual acts intended to summon, withhold, redirect, or control weather,
+      rain, wind, storms, or sea conditions through engagement with spirits, deities,
+      substitutes, or sacred powers.
+    parent_group_ids:
+    - sacred_exchange
+    related_group_ids:
+    - divine_intervention
+    - sacred_waters
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover sacred exchange, divine
+      intervention, and waters, but do not directly capture ritual technologies for
+      controlling weather or sea conditions.
+- suggestion_id: normalization.suggestion.ritual-withholding-and-return-of-fire-after-death
+  motif_id: ritual_withholding_and_return_of_fire_after_death
+  label: Ritual withholding and return of fire after death
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on ritual management of fire in response to death,
+    fitting sacred fire as a regulated divine or purifying element.
+  cautions: May also involve mortuary purity law; use sacred_law as a secondary relation
+    if the passage emphasizes prohibition after corpse contact rather than fire symbolism.
+  suggested_aliases:
+  - fire_withheld_and_returned_after_death
+  - mortuary_withholding_of_fire
+  - ritual_return_of_fire_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-male-female-pairing-by-a-spirit-servant
+  motif_id: ritualized_male_female_pairing_by_a_spirit_servant
+  label: Ritualized male-female pairing by a spirit servant
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ritual pairing mediated by a spirit, but it is unclear
+    whether the function is marriage, fertility, shamanic service, death rite, or
+    social ordering.
+  cautions: Culturally sensitive and context-dependent; do not force into sacred_marriage
+    or sacred_love without evidence of union establishing fertility, sovereignty,
+    or cosmic order.
+  suggested_aliases:
+  - spirit_servant_arranges_male_female_pairing
+  - ritual_pairing_mediated_by_spirit_servant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacred_marriage
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-movement-distinguishing-ruler-dead-representative-and-officers
+  motif_id: ritualized_movement_distinguishing_ruler_dead_representative_and_officers
+  label: Ritualized movement distinguishing ruler, dead representative, and officers
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to describe formal ritual choreography differentiating roles
+    around the dead and ruler, but the symbolic function is unclear.
+  cautions: May be a passage-specific ritual protocol rather than a reusable motif.
+    Could fit ancestor_rites, royal_legitimacy, or sacred_law depending on whether
+    it centers on the dead, rulership, or ritual hierarchy.
+  suggested_aliases:
+  - ritual_movement_distinguishes_ruler_and_dead_representative
+  - mortuary_choreography_of_ruler_representative_and_officers
+  - role_distinguishing_ritual_movement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence mortuary or ritual-protocol labels;
+  preserve local evidence and avoid promoting culturally specific details without
+  recurrence.
+- For death-related ritual purity items, sacred_law is often the better broad group
+  than death_and_transformation because the function is regulation of contact, pollution,
+  or taboo rather than death-return transformation.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific mortuary
+    and spirit-ritual labels should receive human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0347
+  input_sha256: 25c9680269df895566da63f179fe82405c2251f392ba29e74492f8e057529d15
+

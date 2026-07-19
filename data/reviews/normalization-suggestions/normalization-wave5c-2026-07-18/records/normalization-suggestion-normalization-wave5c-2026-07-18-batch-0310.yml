@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0310
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.protective-ancestor-as-household-guardian
+  motif_id: protective_ancestor_as_household_guardian
+  label: protective ancestor as household guardian
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A protective ancestor functioning as a household guardian fits the existing
+    tutelary-spirit and protective agency area under divine_intervention.
+  cautions: If the source emphasizes ritual care or feeding of the ancestor rather
+    than protection, ancestor_rites may be a better secondary placement.
+  suggested_aliases:
+  - ancestor as household guardian
+  - protective ancestral household spirit
+  - tutelary ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-ancestral-or-guardian-mercy
+  motif_id: protective_ancestral_or_guardian_mercy
+  label: Protective ancestral or guardian mercy
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A guardian or ancestral being extending protection or mercy is closest
+    to tutelary sacred agency within divine_intervention.
+  cautions: The label is abstract and may instead concern covenantal mercy, ancestor
+    cult, or a contextual epithet; source evidence should decide.
+  suggested_aliases:
+  - guardian mercy
+  - ancestral mercy
+  - protective guardian compassion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-and-omen-poles-inhabited-or-activated-by-spirits
+  motif_id: protective_and_omen_poles_inhabited_or_activated_by_spirits
+  label: protective and omen poles inhabited or activated by spirits
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Protective spirit-activated objects could fit apotropaic protection under
+    sacred_law, but the pole/omen/spirit details are culturally specific.
+  cautions: Needs culturally informed review; do not collapse to axis_mundi unless
+    the poles function as a world axis or sacred center.
+  suggested_aliases:
+  - spirit-inhabited protective poles
+  - omen poles activated by spirits
+  - protective spirit poles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-animal-feathers-repel-hostile-spirits
+  motif_id: protective_animal_feathers_repel_hostile_spirits
+  label: protective animal feathers repel hostile spirits
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An animal-derived object used to repel spirits fits the existing apotropaic
+    protection and spirit-danger cluster under sacred_law.
+  cautions: If the feather is treated primarily as a sacred power object or relic,
+    sacred_treasures may be a secondary mapping.
+  suggested_aliases:
+  - feathers repel hostile spirits
+  - apotropaic animal feathers
+  - protective feathers against spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-animal-remains-and-feigned-death
+  motif_id: protective_animal_remains_and_feigned_death
+  label: Protective animal remains and feigned death
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label combines protective animal remains with feigned death, which
+    point to different groups: sacred_law/sacred_treasures versus trickster.'
+  cautions: Likely a composite or episode-specific generated label; review source
+    evidence before mapping or splitting into separate motifs.
+  suggested_aliases:
+  - animal remains as protection
+  - feigned death with protective animal remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-animal-sight-or-contact-against-corpse-corruption
+  motif_id: protective_animal_sight_or_contact_against_corpse_corruption
+  label: Protective animal sight or contact against corpse-corruption
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Animal sight or contact used to counter corpse pollution is a mortuary
+    purity and apotropaic rule, fitting sacred_law.
+  cautions: Preserve the specific ritual context; if tied to the soul's postmortem
+    route, afterlife_passage may be secondary.
+  suggested_aliases:
+  - animal contact averts corpse corruption
+  - protective animal sight against corpse pollution
+  - mortuary animal purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-animal-tooth-amulets-for-a-child-s-soul
+  motif_id: protective_animal_tooth_amulets_for_a_child_s_soul
+  label: Protective animal-tooth amulets for a child's soul
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Amulets protecting a child's soul from spirit danger fit apotropaic protection
+    under sacred_law.
+  cautions: Could also index under sacred_treasures if the amulet object is central,
+    or miraculous_child if the child has marked sacred destiny.
+  suggested_aliases:
+  - animal-tooth soul amulet
+  - child soul protection amulet
+  - protective tooth amulet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-body-painting-against-spirit-danger
+  motif_id: protective_body_painting_against_spirit_danger
+  label: Protective body painting against spirit danger
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Body painting used to avert spirit danger belongs with protective ritual
+    practice and apotropaic regulation under sacred_law.
+  cautions: Review local ritual context; avoid treating body painting as a generic
+    object motif if it is tied to initiation, mourning, or healing rites.
+  suggested_aliases:
+  - apotropaic body painting
+  - protective paint against spirits
+  - body marking averts spirit danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-boundary-crossing-wood-spirit-effigy
+  motif_id: protective_boundary_crossing_wood_spirit_effigy
+  label: Protective boundary-crossing wood-spirit effigy
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: A protective effigy at a boundary may fit apotropaic protection, but
+    the label is composite and marked as comparative.
+  cautions: May be a comparative classification artifact; review whether an actual
+    passage motif is present before indexing in pattern queries.
+  suggested_aliases:
+  - protective boundary effigy
+  - wood-spirit effigy at boundary
+  - apotropaic spirit effigy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-breast-cross-averts-death
+  motif_id: protective_breast_cross_averts_death
+  label: protective breast-cross averts death
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A worn cross that averts death functions as a protective sacred object,
+    close to protective_mark under sacred_treasures.
+  cautions: If the passage emphasizes ritual rule or apotropaic practice more than
+    the object, sacred_law may be a secondary placement.
+  suggested_aliases:
+  - breast cross averts death
+  - protective cross amulet
+  - death-averting cross
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern apotropaic protection from spirits or corpse
+  pollution; sacred_law is used where the function is ritual protection rather than
+  a power object by itself.
+- Single-occurrence culturally specific protective practices should remain provisional
+  and preserve local evidence details.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for wave5c batch 0310; human review
+    recommended for composite and culturally sensitive spirit-protection labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0310
+  input_sha256: 39914a840a08e02444aee035910b6b50485d4dba908e5e69730019dc3260c647
+

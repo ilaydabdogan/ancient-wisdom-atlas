@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3514
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hair-cutting-as-protection-against-kidnapping
+  motif_id: hair_cutting_as_protection_against_kidnapping
+  label: Hair cutting as protection against kidnapping
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label appears to describe a protective or apotropaic practice, which
+    the current normalization often parks under sacred_law.
+  cautions: Single occurrence and culturally specific; source evidence is needed to
+    determine whether this is ritual protection, identity alteration, captivity avoidance,
+    or an over-specific ethnographic detail.
+  suggested_aliases:
+  - protective_hair_cutting
+  - hair_cutting_as_apotropaic_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.half-extant-work-with-disputed-lost-remainder
+  motif_id: half_extant_work_with_disputed_lost_remainder
+  label: Half-extant work with disputed lost remainder
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns textual survival, reconstruction, or scholarly dispute
+    rather than a narrative or symbolic motif.
+  cautions: Preserve as provenance or textual-history metadata if useful, but exclude
+    from motif pattern queries.
+  suggested_aliases:
+  - fragmentary_text_with_disputed_lost_remainder
+  - disputed_lost_remainder_of_text
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.half-men-or-one-legged-beings
+  motif_id: half_men_or_one_legged_beings
+  label: half-men or one-legged beings
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label describes unusual bodily form or nonordinary beings, which
+    may fit transformation/body-boundary motifs if the passage gives mythic function.
+  cautions: Could be a monster race, ethnicized other, etiological body form, or passage
+    detail rather than shapeshifting; review cultural context before indexing.
+  suggested_aliases:
+  - one_legged_beings
+  - half_human_beings
+  - half_men
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.half-rock-or-rooted-woman-recurrent-in-stories
+  motif_id: half_rock_or_rooted_woman_recurrent_in_stories
+  label: Half-rock or rooted woman recurrent in stories
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: low
+  rationale: A woman partly transformed into rock or rooted form suggests bodily metamorphosis
+    or liminal human-landscape embodiment.
+  cautions: Phrase 'recurrent in stories' may be a collector's classification note;
+    could also fit cosmic_origin or sacred_tree_axis if it explains landscape or rooted
+    sacred place.
+  suggested_aliases:
+  - woman_partly_transformed_into_rock
+  - rooted_woman
+  - human_landscape_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hall-burned-by-command
+  motif_id: hall_burned_by_command
+  label: hall burned by command
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A commanded hall-burning is likely a martial destruction or feud episode,
+    fitting the combat/warfare group better than cosmic fire.
+  cautions: If the passage emphasizes vengeance, judgment, or world-ending fire rather
+    than warfare, divine_judgment or sacred_fire may be secondary; single occurrence
+    is specific.
+  suggested_aliases:
+  - commanded_hall_burning
+  - burning_of_a_hall_by_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hall-burning-vengeance
+  motif_id: hall_burning_vengeance
+  label: hall-burning vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label combines retaliatory violence and destructive attack, aligning
+    with feud or warfare motifs under sacred_combat.
+  cautions: May also involve divine_judgment if framed as moral reckoning; do not
+    treat as world-destroying fire unless cosmic renewal is present.
+  suggested_aliases:
+  - vengeful_hall_burning
+  - hall_burning_as_retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hamlet-public-platform
+  motif_id: hamlet_public_platform
+  label: hamlet public platform
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a social space but gives no clear narrative, ritual,
+    or symbolic function.
+  cautions: Could be an important communal/ritual threshold or meeting place, but
+    may also be a place-only ethnographic detail; source context is required.
+  suggested_aliases:
+  - village_public_platform
+  - communal_hamlet_platform
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hand-transfer-and-paired-couplings
+  motif_id: hand_transfer_and_paired_couplings
+  label: hand-transfer and paired couplings
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too compressed to distinguish marriage exchange, bodily
+    token transfer, ritual pairing, or a passage-specific action.
+  cautions: Could belong to sacred_love, sacred_marriage, sacred_exchange, recognition
+    tokens, or duality depending on evidence; needs source review.
+  suggested_aliases:
+  - hand_transfer
+  - paired_couplings
+  - ritual_hand_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.handmade-idol-polemic
+  motif_id: handmade_idol_polemic
+  label: Handmade idol polemic
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A polemic against idols usually functions as sacred law or covenantal
+    exclusivity rather than as a power-object motif.
+  cautions: Existing alias 'idol' is marked for human review; if the passage focuses
+    on forbidden knowledge or divine judgment, secondary placement may change.
+  suggested_aliases:
+  - idol_polemic
+  - polemic_against_handmade_idols
+  - anti_idol_polemic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.handmade-idols-as-lifeless-objects
+  motif_id: handmade_idols_as_lifeless_objects
+  label: Handmade idols as lifeless objects
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The lifeless-idol critique supports prohibition of idolatry and proper
+    sacred order, fitting sacred_law/covenant themes.
+  cautions: May be theological polemic rather than a narrative motif; review whether
+    to preserve as an ethical/legal label or exclude as commentary.
+  suggested_aliases:
+  - lifeless_handmade_idols
+  - idols_as_lifeless_objects
+  - handmade_idols_lack_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and culturally specific; suggested placements
+  are provisional and should not be treated as transmission claims.
+- Idol-related labels overlap with an existing 'idol' alias marked needs_human_review,
+  so sacred_law placement should be checked against passage evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed for ambiguous embodied-being,
+    social-space, and ritual-action labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3514
+  input_sha256: a8ca55fc6fa96b1c92dd6241093b0dd27266416c54669f709f9d7ca9628bd76b
+

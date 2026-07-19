@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2797
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.replacement-weapon-from-captured-spoils
+  motif_id: replacement_weapon_from_captured_spoils
+  label: replacement weapon from captured spoils
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A captured weapon used as a replacement is a power object or martial
+    treasure whose possession changes combat capacity.
+  cautions: Single occurrence and may be only an episode detail; if the focus is battle
+    tactic rather than object power, sacred_combat is a secondary fit.
+  suggested_aliases:
+  - captured_weapon_as_replacement
+  - weapon_taken_from_spoils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reported-ally-in-heroic-battle
+  motif_id: reported_ally_in_heroic_battle
+  label: reported ally in heroic battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording centers on a report about an ally rather than a clear narrative
+    function or symbolic motif.
+  cautions: If source evidence shows an ally's arrival changes the battle outcome,
+    remap to sacred_combat or divine_warrior as a battle-aid variant.
+  suggested_aliases:
+  - ally_reported_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reported-ally-joins-hero-in-battle
+  motif_id: reported_ally_joins_hero_in_battle
+  label: reported ally joins hero in battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: An ally joining a hero in battle is a combat-support episode within the
+    sacred or heroic combat complex.
+  cautions: If the ally is supernatural or divinely sent, divine_intervention or divine_warrior
+    may be better; 'reported' may indicate a summary artifact.
+  suggested_aliases:
+  - ally_joins_hero_in_battle
+  - battle_ally_arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.representative-dancer-carries-the-warrior-s-weapons
+  motif_id: representative_dancer_carries_the_warrior_s_weapons
+  label: Representative dancer carries the warrior's weapons
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: low
+  rationale: A dancer bearing weapons may be ritualized representation of warrior
+    identity or combat power.
+  cautions: Culturally specific ritual context is essential; could belong to sacred_treasures,
+    sacred_law, or be an ethnographic performance detail rather than a reusable motif.
+  suggested_aliases:
+  - ritual_dancer_bears_warrior_weapons
+  - warrior_weapons_carried_in_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.required-feast-before-revenge-expedition
+  motif_id: required_feast_before_revenge_expedition
+  label: required feast before revenge expedition
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A mandatory feast before vengeance frames social or ritual exchange as
+    prerequisite to violent action.
+  cautions: If the feast primarily consecrates warfare, sacred_combat is a secondary
+    fit; if it involves offering to powers, sacrifice may also apply.
+  suggested_aliases:
+  - pre_revenge_feast
+  - ritual_feast_before_war_party
+  - feast_before_vengeance_expedition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-of-a-captured-wounded-knight
+  motif_id: rescue_of_a_captured_wounded_knight
+  label: rescue of a captured wounded knight
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rescuing a wounded captured combatant is a heroic combat episode involving
+    captivity, loyalty, and martial recovery.
+  cautions: Highly role-specific to chivalric material; preserve knight/capture details
+    as evidence rather than promoting as canonical.
+  suggested_aliases:
+  - rescue_of_captured_wounded_warrior
+  - rescue_of_wounded_captive_combatant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-of-abandoned-wounded-leader
+  motif_id: rescue_of_abandoned_wounded_leader
+  label: rescue of abandoned wounded leader
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rescue of a wounded leader after abandonment fits combat loyalty and
+    battlefield recovery within heroic warfare.
+  cautions: May also involve royal_legitimacy if the leader's status is central, or
+    sacred_law if the focus is social duty to the wounded.
+  suggested_aliases:
+  - rescue_of_wounded_leader
+  - battlefield_rescue_of_abandoned_leader
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-of-an-endangered-ally-in-battle
+  motif_id: rescue_of_an_endangered_ally_in_battle
+  label: Rescue of an endangered ally in battle
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Battlefield rescue of an endangered ally is a clear heroic combat support
+    motif.
+  cautions: If rescue is explicitly miraculous or by divine power, consider divine_intervention
+    as a secondary mapping.
+  suggested_aliases:
+  - battlefield_rescue_of_ally
+  - rescue_of_endangered_comrade_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-of-an-overmatched-companion-in-forest-combat
+  motif_id: rescue_of_an_overmatched_companion_in_forest_combat
+  label: Rescue of an overmatched companion in forest combat
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core function is rescue of an outmatched companion during combat;
+    the forest setting is likely local detail.
+  cautions: Preserve the forest setting only as evidence unless forest liminality
+    is thematically important in the source.
+  suggested_aliases:
+  - rescue_of_overmatched_companion
+  - companion_rescued_in_combat
+  - battlefield_rescue_of_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-of-hidden-captives-through-contest
+  motif_id: rescue_of_hidden_captives_through_contest
+  label: rescue of hidden captives through contest
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A contest functioning to free captives fits ritualized conflict as a
+    means of resolving captivity and danger.
+  cautions: Could fit initiation or hero_journey if the contest is an ordeal; if captives
+    are in an otherworld or hidden realm, otherworld may be relevant.
+  suggested_aliases:
+  - captives_rescued_through_contest
+  - contest_to_free_hidden_captives
+  - rescue_by_victory_in_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence combat micro-events; broad placement under
+  sacred_combat is provisional and should not imply taxonomy promotion.
+- Rescue-in-battle labels may later benefit from a recurring child alias such as battlefield_rescue_of_ally
+  if more examples accumulate.
+- Culturally specific ritual-performance labels, especially representative_dancer_carries_the_warrior_s_weapons,
+  require human review before query inclusion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no direct taxonomy edits.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2797
+  input_sha256: f7db4fbf8e9dc4bb943e8f68c95151223f8816d2560be8c19bd88c2b069ebf4e
+

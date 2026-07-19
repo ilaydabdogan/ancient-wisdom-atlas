@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1380
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.name-derived-from-hidden-underground-preservation
+  motif_id: name_derived_from_hidden_underground_preservation
+  label: name derived from hidden underground preservation
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to be an etymological naming note, but the hidden underground
+    preservation element could indicate refuge, emergence, or sacred place depending
+    on source evidence.
+  cautions: Single occurrence and culturally specific Navajo context; avoid reducing
+    a name-origin explanation to generic etiology without passage review.
+  suggested_aliases:
+  - name etiology from underground preservation
+  - name origin from hidden underground preservation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_vessel
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-etymology-as-characterization
+  motif_id: name_etymology_as_characterization
+  label: name etymology as characterization
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a literary or interpretive observation about a character
+    name rather than a recurring mythic action or symbolic pattern.
+  cautions: If the source story itself explains a name through an event, review under
+    an etiology/naming pattern rather than excluding.
+  suggested_aliases:
+  - etymological characterization
+  - characterization by name etymology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-evidence-for-possible-religious-affiliation-or-borrowing
+  motif_id: name_evidence_for_possible_religious_affiliation_or_borrowing
+  label: name evidence for possible religious affiliation or borrowing
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label is explicitly a scholarly transmission or affiliation inference
+    from a name, not a narrative motif.
+  cautions: Keep transmission or borrowing claims out of motif normalization; preserve
+    only as provenance/commentary if needed.
+  suggested_aliases:
+  - onomastic evidence for affiliation
+  - name evidence for borrowing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-exchange-and-self-identification
+  motif_id: name_exchange_and_self_identification
+  label: name exchange and self-identification
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Name exchange may function as identity proof, social bond, ritual speech,
+    or transformation; the label alone does not identify the narrative function.
+  cautions: Review whether names are tokens of identity, performative speech acts,
+    kinship exchange, or merely dialogue detail.
+  suggested_aliases:
+  - exchange of names as self-identification
+  - name exchange as identity claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - curse_blessing_speech
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-explained-by-battle-object
+  motif_id: name_explained_by_battle_object
+  label: Name explained by battle object
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is likely an etiological name explanation, but the battle object
+    could point to sacred combat or a power object depending on the story.
+  cautions: Single occurrence; review culturally specific naming logic and whether
+    the object has sacred-treasure function or is only an explanatory detail.
+  suggested_aliases:
+  - name etiology from battle object
+  - name origin explained by weapon or battle object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_treasures
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-explained-by-characteristic-action
+  motif_id: name_explained_by_characteristic_action
+  label: name explained by characteristic action
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes an etiological explanation for a name based on action,
+    but no current group cleanly covers personal-name etiology as a motif.
+  cautions: May be a passage-specific naming gloss rather than a pattern query target;
+    consider exclusion if no story-level etiology is present.
+  suggested_aliases:
+  - name etiology from characteristic action
+  - name origin from action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-explained-by-discovery-place-or-object
+  motif_id: name_explained_by_discovery_place_or_object
+  label: Name explained by discovery place or object
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a name-origin etiology tied to place or object, but
+    the relevant function could be place etiology, sacred object, or textual gloss.
+  cautions: Single occurrence; review whether this is a narrative etiology or a scholarly
+    explanation of a name.
+  suggested_aliases:
+  - name etiology from discovery place
+  - name origin from discovered object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-explaining-story
+  motif_id: name_explaining_story
+  label: name-explaining story
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Name Etiology and Naming Explanation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Several unmapped items in this batch concern stories that explain names;
+    existing cosmic_origin covers place and people origins but not personal-name etiology
+    cleanly.
+  cautions: Candidate should be reviewed carefully to avoid collecting mere etymological
+    notes or translator glosses as motifs.
+  suggested_aliases:
+  - name etiology
+  - name-origin story
+  - name-explanation story
+  suggested_new_group:
+    id: name_etiology_naming_explanation
+    label: Name Etiology and Naming Explanation
+    description: Stories or narrative episodes that explain a personal, group, place,
+      or object name through an event, action, discovery, relationship, or characteristic
+      meaning.
+    parent_group_ids:
+    - cosmic_origin
+    - storytelling_as_power
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - curse_blessing_speech
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing cosmic_origin includes place-name
+      and ancestor etiologies, but repeated personal-name explanations have a distinct
+      onomastic function not well captured by creation or landscape-origin groups.
+- suggestion_id: normalization.suggestion.name-gained-through-mother-assisted-killing
+  motif_id: name_gained_through_mother_assisted_killing
+  label: name gained through mother-assisted killing
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may combine naming initiation, kin-assisted violence, and combat
+    achievement; no single existing group fits without source context.
+  cautions: Culturally specific and potentially sensitive; review whether the focus
+    is name acquisition, rite of passage, combat, or kinship role before mapping.
+  suggested_aliases:
+  - name gained through assisted killing
+  - name acquisition through mother-assisted killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_combat
+    - name_etiology_naming_explanation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-giver-without-parental-responsibility
+  motif_id: name_giver_without_parental_responsibility
+  label: Name-giver without parental responsibility
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: This concerns a social or ritual naming role, but it is unclear whether
+    it functions as kinship law, sacred exchange, or a contextual ethnographic detail.
+  cautions: Single occurrence; avoid mapping to parent-child motifs unless the source
+    stresses parental legitimacy, care, or sacred birth.
+  suggested_aliases:
+  - nonparental name-giver
+  - name-giver without caretaking role
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    - name_etiology_naming_explanation
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- This batch clusters around onomastic labels. Several may be better handled by a
+  reviewed name-etiology group, but many single-occurrence labels may be textual glosses
+  rather than motifs.
+- Do not treat naming or etymology as evidence of borrowing or transmission in normalization
+  placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; source passages needed to distinguish narrative
+    name etiologies from scholarly etymological artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1380
+  input_sha256: 74b7ae1022bdc8d03c0ebf888b7e5a02745f13f379ef85d26b9e763a22248acd
+

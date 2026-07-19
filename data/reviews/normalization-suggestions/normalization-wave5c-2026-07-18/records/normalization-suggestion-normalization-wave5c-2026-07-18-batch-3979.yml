@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3979
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.spoken-command-over-stolen-cattle
+  motif_id: spoken_command_over_stolen_cattle
+  label: spoken command over stolen cattle
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve performative speech, property recovery, cattle-raiding,
+    or legal claim, but the function is unclear from the label alone.
+  cautions: Single occurrence and culturally contextual; do not map to sacred_combat
+    or curse_blessing_speech without passage evidence that the command ritually binds
+    or transforms events.
+  suggested_aliases:
+  - verbal command over stolen livestock
+  - spoken command for recovery of cattle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spoken-formula-creating-claim-or-exemption
+  motif_id: spoken_formula_creating_claim_or_exemption
+  label: spoken formula creating claim or exemption
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spoken formula that creates a claim or exemption fits performative
+    speech that binds status, rights, or obligations through utterance.
+  cautions: If the formula is merely legal procedure rather than sacred or transformative
+    speech, it may be better under sacred_law or excluded as contextual detail.
+  suggested_aliases:
+  - performative formula creating a claim
+  - spoken exemption formula
+  - speech act creating legal or ritual status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spoken-safeguard-against-harmful-creatures
+  motif_id: spoken_safeguard_against_harmful_creatures
+  label: Spoken safeguard against harmful creatures
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A protective recitation against harmful beings fits apotropaic protection,
+    which is already folded under sacred_law.
+  cautions: Could also relate to curse_blessing_speech if the emphasis is on the utterance
+    as a binding charm; review whether it is ritual rule, mantra, blessing, or narrative
+    episode.
+  suggested_aliases:
+  - spoken apotropaic safeguard
+  - protective recitation against harmful creatures
+  - verbal charm against dangerous beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spoken-wish-formulas-causing-bodily-effects-at-a-distance
+  motif_id: spoken_wish_formulas_causing_bodily_effects_at_a_distance
+  label: Spoken wish-formulas causing bodily effects at a distance
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Wish-formulas that physically affect a distant body are a clear case
+    of performative sacred or magical speech acting through utterance.
+  cautions: May involve culturally specific shamanic or healing/attack practices;
+    preserve distance-effect and bodily-effect details for source review.
+  suggested_aliases:
+  - spoken wish formula with bodily effect
+  - distant bodily effect caused by speech
+  - verbal magic affecting the body at a distance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spontaneous-generation-from-heated-mud-and-moisture
+  motif_id: spontaneous_generation_from_heated_mud_and_moisture
+  label: Spontaneous generation from heated mud and moisture
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Generation of life from mud, moisture, and heat belongs to creation or
+    origin imagery from primordial substance.
+  cautions: May be natural-philosophical explanation rather than mythic creation;
+    if merely encyclopedic theory, consider excluding from motif queries.
+  suggested_aliases:
+  - life generated from heated mud and moisture
+  - spontaneous life from mud and moisture
+  - generation from primordial mud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spousal-command-to-cut-off-a-body-part
+  motif_id: spousal_command_to_cut_off_a_body_part
+  label: spousal command to cut off a body part
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label gives a relationship and violent command but not the narrative
+    function: sacrifice, coercion, trickster episode, punishment, or transformation
+    are all possible.'
+  cautions: Potentially sensitive bodily-harm motif and single occurrence; source
+    context is needed before broad placement.
+  suggested_aliases:
+  - spouse demands bodily mutilation
+  - spousal command for body-part removal
+  - commanded cutting off of a body part
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spouse-alerts-hunter-to-game
+  motif_id: spouse_alerts_hunter_to_game
+  label: Spouse alerts hunter to game
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a passage-specific domestic hunting detail rather than
+    a durable symbolic or narrative motif.
+  cautions: If the spouse is an animal-wife, spirit helper, or supernatural guide,
+    review for divine_intervention, animal_helpers, or sacred_exchange instead.
+  suggested_aliases:
+  - spouse points out game to hunter
+  - wife alerts hunter to game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spouse-falsely-denies-hunter-s-success-to-withhold-meat
+  motif_id: spouse_falsely_denies_hunter_s_success_to_withhold_meat
+  label: Spouse falsely denies hunter's success to withhold meat
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve deception, violated domestic reciprocity, food
+    sharing, or moral judgment, but the core function is not clear enough to place
+    confidently.
+  cautions: Single occurrence and highly contextual; could be excluded if it is only
+    a plot detail, or mapped to betrayal_violated_trust if broken trust drives the
+    episode.
+  suggested_aliases:
+  - spouse withholds meat through false denial
+  - false denial of hunting success
+  - deceptive withholding of hunted meat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spouse-fetching-mission-directed-by-an-elder-woman
+  motif_id: spouse_fetching_mission_directed_by_an_elder_woman
+  label: spouse-fetching mission directed by an elder woman
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a marriage quest, kinship mission, or episode-specific instruction;
+    no existing group can be assigned from the label alone.
+  cautions: Review whether the mission functions as bride quest, retrieval of a lost
+    beloved, initiation, or ordinary plot movement before mapping.
+  suggested_aliases:
+  - elder woman directs spouse retrieval
+  - mission to fetch a spouse
+  - spouse retrieval directed by elder woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spouse-restores-damaged-body
+  motif_id: spouse_restores_damaged_body
+  label: spouse restores damaged body
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restoring a damaged body fits bodily renewal or restoration after injury,
+    near-death, death, or dismemberment.
+  cautions: If restoration is magical healing rather than death/rebirth, divine_intervention
+    or a future healing group may fit better; preserve the spousal role as evidence
+    detail.
+  suggested_aliases:
+  - spouse heals damaged body
+  - spouse restores mutilated body
+  - bodily restoration by spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence domestic or hunting details;
+  review source context before promoting them into durable motif mappings.
+- Spoken-formula items generally align with curse_blessing_speech when the utterance
+  itself changes status, bodies, or protection, but ritual-law or apotropaic contexts
+  may require secondary mapping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3979
+  input_sha256: 9a2c5a32278fb6a8a2bfa138edbf4cf8b3c0e8f622737f42b54dcbdf5f7a49ad
+

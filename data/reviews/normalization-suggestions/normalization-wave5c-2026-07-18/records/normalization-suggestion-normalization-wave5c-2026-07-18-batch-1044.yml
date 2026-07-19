@@ -1,0 +1,359 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1044
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-healing-through-contact-with-sacred-image-infusion-dust-and-fumigation
+  motif_id: ritual_healing_through_contact_with_sacred_image_infusion_dust_and_fumigation
+  label: Ritual healing through contact with sacred image, infusion, dust, and fumigation
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label belongs to a recurring ritual-healing complex not cleanly covered
+    by sacrifice, sacred law, or divine intervention.
+  cautions: Single occurrence and culturally specific ritual details; review source
+    evidence and terminology before creating a group.
+  suggested_aliases:
+  - sacred_medicine_ritual
+  - ritual_healing
+  - healing_by_sacred_contact
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Healing rites using sacred objects, images, songs, prayers, herbs,
+      medicines, fumigation, touch, extraction, or symbolic manipulation to restore
+      bodily or spiritual well-being.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    - sacred_substance
+    related_group_ids:
+    - sacred_treasures
+    - sacred_exchange
+    - enchanting_music
+    reason_existing_groups_insufficient: Existing groups cover divine aid, sacred
+      objects, substances, and ritual law, but none centers ritual healing as the
+      primary function.
+- suggestion_id: normalization.suggestion.ritual-healing-through-drawn-erased-marks-whistling-and-body-manipulation
+  motif_id: ritual_healing_through_drawn_erased_marks_whistling_and_body_manipulation
+  label: Ritual healing through drawn-erased marks, whistling, and body manipulation
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Healing by marks, sound, and bodily manipulation fits a ritual-healing
+    complex rather than general sacrifice or law.
+  cautions: Over-specific procedure label; preserve local details as evidence and
+    review whether whistling has distinct sound-power significance.
+  suggested_aliases:
+  - ritual_healing
+  - healing_by_symbolic_marks
+  - healing_by_ritual_sound_and_touch
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Healing rites using sacred objects, images, songs, prayers, herbs,
+      medicines, fumigation, touch, extraction, or symbolic manipulation to restore
+      bodily or spiritual well-being.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    - sacred_substance
+    related_group_ids:
+    - enchanting_music
+    - sacred_knowledge
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups can hold parts of the rite,
+      but no existing group captures ritual healing as the organizing function.
+- suggestion_id: normalization.suggestion.ritual-healing-through-herbs-supplication-and-song
+  motif_id: ritual_healing_through_herbs_supplication_and_song
+  label: Ritual healing through herbs, supplication, and song
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif combines sacred medicine, petition, and song for healing; the
+    healing function is primary.
+  cautions: Could secondarily index sacred_substance, sacred_exchange, or enchanting_music
+    depending on passage emphasis.
+  suggested_aliases:
+  - ritual_healing
+  - herbal_sacred_medicine
+  - healing_song_and_supplication
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Healing rites using sacred objects, images, songs, prayers, herbs,
+      medicines, fumigation, touch, extraction, or symbolic manipulation to restore
+      bodily or spiritual well-being.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    - sacred_substance
+    related_group_ids:
+    - sacred_exchange
+    - enchanting_music
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Sacred_substance covers herbs and enchanting_music
+      covers song, but neither captures the whole healing rite.
+- suggestion_id: normalization.suggestion.ritual-healing-through-prayer-fetish-objects-and-medicine-application
+  motif_id: ritual_healing_through_prayer_fetish_objects_and_medicine_application
+  label: Ritual healing through prayer, fetish objects, and medicine application
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayer, power objects, and medicine application are coordinated as a
+    healing rite.
+  cautions: The term 'fetish objects' may be antiquated or culturally sensitive; review
+    source wording before preserving as an alias.
+  suggested_aliases:
+  - ritual_healing_with_power_objects
+  - sacred_medicine_application
+  - healing_prayer_with_sacred_objects
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Healing rites using sacred objects, images, songs, prayers, herbs,
+      medicines, fumigation, touch, extraction, or symbolic manipulation to restore
+      bodily or spiritual well-being.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    - sacred_substance
+    related_group_ids:
+    - sacred_treasures
+    - sacred_exchange
+    reason_existing_groups_insufficient: Sacred_treasures and divine_intervention
+      are related, but a healing-specific ritual group would preserve the primary
+      function.
+- suggestion_id: normalization.suggestion.ritual-healing-through-sucking-and-mystery-medicine
+  motif_id: ritual_healing_through_sucking_and_mystery_medicine
+  label: Ritual healing through sucking and Mystery medicine
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Extraction-like sucking and sacred medicine are specific techniques within
+    a ritual-healing complex.
+  cautions: Culturally specific terminology and capitalized 'Mystery medicine' need
+    source review; avoid generalizing without evidence.
+  suggested_aliases:
+  - ritual_extraction_healing
+  - sacred_medicine_healing
+  - healing_by_sucking
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Healing rites using sacred objects, images, songs, prayers, herbs,
+      medicines, fumigation, touch, extraction, or symbolic manipulation to restore
+      bodily or spiritual well-being.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    - sacred_substance
+    related_group_ids:
+    - soul_loss_restoration
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Soul restoration or sacred substance may
+      overlap, but the procedure is best grouped by ritual healing function.
+- suggestion_id: normalization.suggestion.ritual-healing-through-symbolic-manipulation-of-bound-plant-form
+  motif_id: ritual_healing_through_symbolic_manipulation_of_bound_plant_form
+  label: ritual healing through symbolic manipulation of bound plant form
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A plant form is ritually manipulated to heal, fitting sacred medicine
+    and symbolic healing practice.
+  cautions: Do not map to sacred_tree_axis unless the plant has axis or world-tree
+    function; likely an over-specific healing procedure.
+  suggested_aliases:
+  - plant_based_ritual_healing
+  - symbolic_healing_with_plants
+  - sacred_plant_medicine
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Healing rites using sacred objects, images, songs, prayers, herbs,
+      medicines, fumigation, touch, extraction, or symbolic manipulation to restore
+      bodily or spiritual well-being.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    - sacred_substance
+    related_group_ids:
+    - sacred_treasures
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Sacred_substance covers plant medicine generally,
+      but not symbolic healing manipulation as a ritual function.
+- suggestion_id: normalization.suggestion.ritual-healing-with-sacred-objects-prayer-and-applied-medicine
+  motif_id: ritual_healing_with_sacred_objects_prayer_and_applied_medicine
+  label: ritual healing with sacred objects, prayer, and applied medicine
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label clearly names ritual healing mediated by sacred objects, prayer,
+    and medicine.
+  cautions: Likely near-duplicate of other healing labels in this batch; consolidate
+    only after source-level review.
+  suggested_aliases:
+  - ritual_healing_with_sacred_objects
+  - healing_prayer_and_medicine
+  - sacred_medicine_ritual
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Healing rites using sacred objects, images, songs, prayers, herbs,
+      medicines, fumigation, touch, extraction, or symbolic manipulation to restore
+      bodily or spiritual well-being.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    - sacred_substance
+    related_group_ids:
+    - sacred_treasures
+    - sacred_exchange
+    reason_existing_groups_insufficient: No existing group has healing as its central
+      organizing function.
+- suggestion_id: normalization.suggestion.ritual-hierarchy-encoded-in-dress-and-implements
+  motif_id: ritual_hierarchy_encoded_in_dress_and_implements
+  label: ritual hierarchy encoded in dress and implements
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritual dress and implements encode social hierarchy, fitting sacred law
+    and ordered social obligations.
+  cautions: May be more normative/ritual-code material than narrative motif; preserve
+    Confucian li context in notes.
+  suggested_aliases:
+  - ritual_hierarchy
+  - rank_encoded_in_ritual_dress
+  - ritual_order_through_implements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-hierarchy-expressed-through-mourning-garments
+  motif_id: ritual_hierarchy_expressed_through_mourning_garments
+  label: Ritual hierarchy expressed through mourning garments
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Mourning garments express ranked ritual obligations within sacred social
+    order.
+  cautions: Could secondarily relate to lament_and_mourning, but the label centers
+    hierarchy and prescription, not grief expression.
+  suggested_aliases:
+  - mourning_garments_encode_rank
+  - ritual_mourning_hierarchy
+  - ranked_mourning_attire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-hierarchy-expressed-through-vessels-and-seating
+  motif_id: ritual_hierarchy_expressed_through_vessels_and_seating
+  label: Ritual hierarchy expressed through vessels and seating
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ranked vessels and seating are material expressions of ritual order and
+    social hierarchy.
+  cautions: Do not map to sacred_vessel unless the vessel itself holds sacred power;
+    here it functions as rank marker.
+  suggested_aliases:
+  - ritual_rank_in_seating_and_vessels
+  - hierarchical_ritual_arrangement
+  - rank_encoded_in_ritual_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'The seven Native American healing labels appear to form a coherent candidate group:
+  ritual_healing_sacred_medicine. Human review should decide whether to add this as
+  a canonical normalization group or fold these as children under divine_intervention,
+  sacred_law, and sacred_substance.'
+- Several healing labels are single-occurrence, procedure-heavy, and culturally specific;
+  preserve local details but avoid promoting each technique as its own canonical motif.
+- The Confucian hierarchy labels fit sacred_law because their central function is
+  ritualized social order, even when expressed through dress, mourning, vessels, or
+  seating.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1044
+  input_sha256: e4d8872bdc59d5703f4751764e60d24f2e5ee13e892b6dc3b490f5650d208d26
+

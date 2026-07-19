@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3239
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.christian-saint-succeeds-earlier-agricultural-patron
+  motif_id: christian_saint_succeeds_earlier_agricultural_patron
+  label: Christian saint succeeds earlier agricultural patron
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes religious succession or interpretive layering rather
+    than a narrative motif.
+  cautions: If source evidence emphasizes the saint as an active agricultural patron,
+    map that local function separately under sacred_time, divine_intervention, or
+    sacred_exchange.
+  suggested_aliases:
+  - saint_succeeds_agricultural_deity
+  - christian_substitution_for_agricultural_patron
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christianization-of-older-non-christian-legend
+  motif_id: christianization_of_older_non_christian_legend
+  label: Christianization of older non-Christian legend
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a reception or redaction-history observation, not a motif within
+    the story world.
+  cautions: Do not use as evidence of transmission in motif queries; preserve only
+    as provenance or commentary if needed.
+  suggested_aliases:
+  - christianized_older_legend
+  - christian_redaction_of_non_christian_legend
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chronicle-episode-idealized-and-transferred-into-epic-setting
+  motif_id: chronicle_episode_idealized_and_transferred_into_epic_setting
+  label: Chronicle episode idealized and transferred into epic setting
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes literary adaptation between genres rather than a
+    recurring symbolic or narrative motif.
+  cautions: If the adapted episode contains a distinct motif, index that episode-level
+    pattern separately.
+  suggested_aliases:
+  - chronicle_episode_transferred_to_epic
+  - idealized_chronicle_episode_in_epic_setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chronological-royal-listing
+  motif_id: chronological_royal_listing
+  label: Chronological royal listing
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A royal list may be a textual form, a legitimacy device, or a sacred
+    kingship motif depending on source use.
+  cautions: Exclude if it is only a list artifact; map to royal_legitimacy only if
+    the list authorizes rule, succession, antediluvian kingship, or cosmic order.
+  suggested_aliases:
+  - royal_king_list
+  - chronological_king_list
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.church-as-royal-bed-and-christ-s-assumed-body-as-litter
+  motif_id: church_as_royal_bed_and_christ_s_assumed_body_as_litter
+  label: Church as royal bed and Christ’s assumed body as litter
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a dense theological metaphor involving church, kingship,
+    body, and liturgical imagery.
+  cautions: May be too passage-specific; possible mappings include sacred_marriage,
+    royal_legitimacy, sacred_vessel, or theophany depending on the passage evidence.
+  suggested_aliases:
+  - church_as_royal_bed
+  - christ_assumed_body_as_litter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.circle-council-with-pipe-passing
+  motif_id: circle_council_with_pipe_passing
+  label: circle council with pipe passing
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label names a culturally specific council ritual and object sequence
+    not clearly covered by existing groups.
+  cautions: Culturally sensitive; do not flatten pipe ceremony into generic sacred_exchange
+    or covenant without source evidence about its ritual function.
+  suggested_aliases:
+  - pipe_passing_council
+  - ceremonial_pipe_council_circle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.circle-dance-organized-by-office-clan-and-elder-sister-kin-placement
+  motif_id: circle_dance_organized_by_office_clan_and_elder_sister_kin_placement
+  label: circle dance organized by office, clan, and elder-sister kin placement
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This is a highly specific ritual-social arrangement combining dance,
+    office, clan, and kinship placement.
+  cautions: May be ethnographic detail rather than a reusable motif; review with cultural
+    context before mapping to sacred_time, sacred_law, or sacred_exchange.
+  suggested_aliases:
+  - kin_ordered_circle_dance
+  - clan_office_circle_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.circulating-accusation-of-lying-episode
+  motif_id: circulating_accusation_of_lying_episode
+  label: Circulating accusation-of-lying episode
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe an ethical narrative about false speech, a plot
+    device, or a textual episode type.
+  cautions: Map to divine_judgment or sacred_law only if moral consequence or ethical
+    teaching is central; otherwise preserve as passage-specific evidence.
+  suggested_aliases:
+  - accusation_of_lying_episode
+  - false_speech_accusation_circulates
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.circumambulation-as-naming-act
+  motif_id: circumambulation_as_naming_act
+  label: circumambulation as naming act
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: A ritual movement that effects naming may involve sacred speech, ritual
+    law, or creation/ordering, but source function is needed.
+  cautions: Culturally specific; avoid treating as generic naming etiology unless
+    the passage frames it as origin or world-ordering.
+  suggested_aliases:
+  - ritual_circumambulation_for_naming
+  - naming_by_circumambulation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.circumambulation-of-a-ceremonial-drum
+  motif_id: circumambulation_of_a_ceremonial_drum
+  label: circumambulation of a ceremonial drum
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif is a specific ritual action around a ceremonial object, with
+    unclear broader function from the label alone.
+  cautions: Could relate to sacred_time, sacred_exchange, enchanting_music, or sacred_treasures
+    depending on whether the drum organizes ritual cycle, sound power, or sacred object
+    practice.
+  suggested_aliases:
+  - ritual_circumambulation_of_drum
+  - ceremonial_drum_circumambulation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are transmission, redaction, or ethnographic-description
+  artifacts rather than motifs; these should be excluded unless passage evidence supplies
+  a distinct narrative function.
+- Ritual labels from Native American traditions are culturally specific and should
+  receive human review before broad normalization.
+- No transmission or borrowing claims are implied by any suggested placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; human review needed especially for culturally
+    specific ritual items and ambiguous royal/theological labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3239
+  input_sha256: cd5da07afd7d066c1e8538353f11f8a2e8271f899528d29845bb460992b4b524
+

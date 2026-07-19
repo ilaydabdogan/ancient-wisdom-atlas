@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3582
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ingratitude-after-life-saving-aid
+  motif_id: ingratitude_after_life_saving_aid
+  label: ingratitude after life-saving aid
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on failed reciprocity after rescue or aid, fitting
+    the exchange/obligation field.
+  cautions: Single occurrence; if framed mainly as moral punishment, divine_judgment
+    may be a secondary mapping.
+  suggested_aliases:
+  - ingratitude_after_rescue
+  - failure_of_reciprocity_after_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ingratitude-after-receiving-deliverance
+  motif_id: ingratitude_after_receiving_deliverance
+  label: ingratitude after receiving deliverance
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Existing aliases already include rescue followed by forgetfulness/ingratitude
+    under judgment; this is a close moral-reckoning variant.
+  cautions: If the passage emphasizes devotional obligation rather than consequence,
+    sacred_exchange or covenant may fit as related groups.
+  suggested_aliases:
+  - ingratitude_after_deliverance
+  - forgetfulness_after_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inheritance-or-postmortem-continuation-of-a-magical-entity
+  motif_id: inheritance_or_postmortem_continuation_of_a_magical_entity
+  label: Inheritance or postmortem continuation of a magical entity
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe ancestor persistence, spirit succession, magical
+    office inheritance, or textual interpretation.
+  cautions: Culturally specific spirit/entity concepts need source review; possible
+    groups include ancestor_rites, restless_dead_haunting_vengeance, divine_intervention,
+    or death_and_transformation.
+  suggested_aliases:
+  - postmortem_continuation_of_magical_entity
+  - inherited_magical_entity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.injury-by-touch
+  motif_id: injury_by_touch
+  label: injury by touch
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Harmful touch often functions as taboo, contagion, or ritual danger,
+    which the taxonomy currently folds under sacred_law.
+  cautions: Very broad label; could be combat, poison, sacred contagion, or spirit
+    injury. Verify passage evidence before indexing.
+  suggested_aliases:
+  - harmful_touch
+  - dangerous_touch
+  - injury_through_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.injury-compensation-through-property-payment
+  motif_id: injury_compensation_through_property_payment
+  label: injury compensation through property payment
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Compensation for injury through property payment is a social-law and
+    obligation pattern.
+  cautions: May be legal/ethnographic detail rather than mythic motif; if the payment
+    repairs a sacred bond, covenant or sacred_exchange may be relevant.
+  suggested_aliases:
+  - injury_compensation_payment
+  - property_payment_for_injury
+  - wergild_like_injury_compensation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.injury-to-shadow-harms-or-kills-the-owner
+  motif_id: injury_to_shadow_harms_or_kills_the_owner
+  label: injury to shadow harms or kills the owner
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The external_soul group explicitly includes harm through loss or injury
+    of shadow/reflection as a separable life-force variant.
+  cautions: Comparative label may come from folklore classification; confirm it is
+    attached to source evidence rather than commentary.
+  suggested_aliases:
+  - shadow_injury_harms_owner
+  - harm_to_shadow_harms_person
+  - shadow_as_external_soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ink-made-from-collected-soot
+  motif_id: ink_made_from_collected_soot
+  label: Ink made from collected soot
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a material or scribal-production detail rather than
+    a symbolic narrative motif.
+  cautions: If the soot-ink has ritual, magical, or sacred-writing function, review
+    for sacred_knowledge or sacred_craft instead of exclusion.
+  suggested_aliases:
+  - soot_ink_preparation
+  - collected_soot_as_ink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.innocence-discovered-only-after-wrongful-killing
+  motif_id: innocence_discovered_only_after_wrongful_killing
+  label: Innocence discovered only after wrongful killing
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Wrongful killing followed by recognition of innocence fits moral reckoning
+    and consequence after a hidden wrong.
+  cautions: If the focus is grief rather than judgment, lament_and_mourning may be
+    a better secondary group; if it is a fable plot device, preserve as evidence detail.
+  suggested_aliases:
+  - posthumous_vindication_after_wrongful_killing
+  - wrongful_killing_revealed_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.innocent-captive-released-after-explanation
+  motif_id: innocent_captive_released_after_explanation
+  label: innocent captive released after explanation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a plot-resolution detail and does not clearly identify the
+    operative motif without context.
+  cautions: Could involve false accusation/vindication, hospitality, legal judgment,
+    recognition, or simple narrative resolution; avoid broad mapping from label alone.
+  suggested_aliases:
+  - captive_vindicated_by_explanation
+  - innocent_prisoner_released
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inquiry-into-collective-killing-and-moral-causation
+  motif_id: inquiry_into_collective_killing_and_moral_causation
+  label: Inquiry into collective killing and moral causation
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif asks how collective violence is morally caused or accounted
+    for, aligning with moral reckoning.
+  cautions: Could be a doctrinal or philosophical reflection rather than narrative
+    motif; source review should check whether sacred judgment or karmic causation
+    is explicit.
+  suggested_aliases:
+  - collective_killing_moral_causation
+  - moral_inquiry_after_collective_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ethical or legal abstractions;
+  preserve source evidence and avoid promoting to canonical motif families without
+  recurrence.
+- For ingratitude-after-rescue labels, distinguish failed reciprocity from divine
+  judgment or covenantal unfaithfulness based on passage function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; items marked low confidence need source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3582
+  input_sha256: 36ef9a99581e6dbdf99af82cd1ec2410c2748b3b3ca2085971c930ce44872ab2
+

@@ -1,0 +1,312 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1691
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sickness-under-witchcraft-authority
+  motif_id: sickness_under_witchcraft_authority
+  label: sickness under witchcraft authority
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe illness attributed to ritual or witchcraft power,
+    but existing groups distinguish spirit affliction, sacred law, and divine intervention
+    only imperfectly.
+  cautions: Culturally sensitive and source-dependent; avoid collapsing Indigenous
+    witchcraft concepts into generic divine judgment or spirit affliction without
+    passage evidence.
+  suggested_aliases:
+  - witchcraft-caused sickness
+  - illness under sorcery authority
+  - ritual authority causing sickness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_intervention
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.siege-and-conquered-city-representation
+  motif_id: siege_and_conquered_city_representation
+  label: siege and conquered city representation
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording sounds like an iconographic or representational category
+    rather than a recurring narrative motif.
+  cautions: If the passage itself narrates siege, conquest, or royal victory, sacred_combat
+    or royal_legitimacy may be relevant; current label emphasizes representation.
+  suggested_aliases:
+  - representation of siege and conquered city
+  - conquered city iconography
+  - siege depiction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silence-marking-consent
+  motif_id: silence_marking_consent
+  label: Silence marking consent
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Silence functioning as consent is a normative social or legal convention
+    governing agreement and obligation.
+  cautions: If this is merely a one-off dialogue convention, it may be too contextual;
+    if a vow or binding utterance is central, curse_blessing_speech may be secondary.
+  suggested_aliases:
+  - silent consent
+  - consent by silence
+  - silence as assent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silenced-captive-taken-to-a-foreign-king
+  motif_id: silenced_captive_taken_to_a_foreign_king
+  label: Silenced captive taken to a foreign king
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an episode-specific captivity detail rather than a
+    durable symbolic motif.
+  cautions: If source evidence emphasizes royal humiliation, exile, or conquest, review
+    under royal_legitimacy, sacred_combat, or hero_journey; do not index the composite
+    wording as a motif.
+  suggested_aliases:
+  - captive brought before foreign king
+  - silenced captive before ruler
+  - royal captivity scene
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silent-guest-singled-out-by-ruler
+  motif_id: silent_guest_singled_out_by_ruler
+  label: Silent guest singled out by ruler
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A silent guest noticed by a ruler could be hospitality testing, hidden
+    identity, court recognition, or a passage-specific scene.
+  cautions: Needs source context before mapping; avoid assuming sacred hospitality
+    or royal legitimacy from the label alone.
+  suggested_aliases:
+  - silent guest noticed by ruler
+  - ruler singles out silent guest
+  - silent stranger at court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - recognition_tokens_hidden_identity
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silent-ordered-host-contrasted-with-clamorous-mixed-host
+  motif_id: silent_ordered_host_contrasted_with_clamorous_mixed_host
+  label: Silent ordered host contrasted with clamorous mixed host
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The contrast describes opposing armies through order versus disorder,
+    a battlefield characterization within warfare.
+  cautions: May be a literary simile or ethnic characterization rather than a standalone
+    motif; if moral order is central, divine_judgment or sacred_law may be secondary.
+  suggested_aliases:
+  - ordered silent army versus clamorous host
+  - disciplined host contrasted with noisy mixed host
+  - battlefield order versus clamor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.simple-ordered-instruments-over-complex-instruments
+  motif_id: simple_ordered_instruments_over_complex_instruments
+  label: Simple ordered instruments over complex instruments
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could reflect musical ethics, ritual order, philosophical simplicity,
+    or a commentary artifact.
+  cautions: Do not map to enchanting_music unless the instruments have supernatural
+    sound power; verify whether this is normative discourse rather than motif evidence.
+  suggested_aliases:
+  - simple instruments preferred to complex instruments
+  - musical simplicity over complexity
+  - ordered music over elaborate music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - enchanting_music
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.simplicity-versus-excess-in-funerary-practice
+  motif_id: simplicity_versus_excess_in_funerary_practice
+  label: Simplicity versus excess in funerary practice
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns normative regulation of funeral conduct and proper
+    ritual measure.
+  cautions: If the passage emphasizes honoring a dead hero or memorial rites, heroic_funeral_rites
+    may be a secondary group; if ancestor obligations dominate, ancestor_rites may
+    also apply.
+  suggested_aliases:
+  - funerary simplicity versus extravagance
+  - proper moderation in funerary rites
+  - regulated funeral expenditure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - heroic_funeral_rites
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.simplified-made-to-order-headband-pattern
+  motif_id: simplified_made_to_order_headband_pattern
+  label: simplified made-to-order headband pattern
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase sounds like an artifact-design or cataloging description,
+    not a narrative or symbolic motif.
+  cautions: If the headband has explicit sacred authority or ritual power in the source,
+    review as sacred_treasures; otherwise exclude from motif queries.
+  suggested_aliases:
+  - made-to-order headband pattern
+  - simplified headband design
+  - headband pattern description
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sin-classification-and-punishment-topics
+  motif_id: sin_classification_and_punishment_topics
+  label: sin classification and punishment topics
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: narrower_than
+  confidence: medium
+  rationale: Classifying sins and punishments belongs to moral reckoning and sacred
+    evaluation of transgression.
+  cautions: The wording may be topical or scholastic rather than narrative; if it
+    is a legal taxonomy, sacred_law may be secondary.
+  suggested_aliases:
+  - classification of sins and punishments
+  - sin categories and penalties
+  - moral transgression and punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and read as passage-specific,
+  iconographic, or scholastic descriptions; human review should verify source evidence
+  before indexing broadly.
+- Do not infer transmission or borrowing from shared placement; these are provisional
+  normalization suggestions only.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated from labels and current normalization
+    groups; culturally sensitive illness/witchcraft and context-dependent silence
+    labels need evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1691
+  input_sha256: baa249fcdfedf7a22385f58f589a894912c29e3c07f4eed8f88693f9af6e8d0c
+

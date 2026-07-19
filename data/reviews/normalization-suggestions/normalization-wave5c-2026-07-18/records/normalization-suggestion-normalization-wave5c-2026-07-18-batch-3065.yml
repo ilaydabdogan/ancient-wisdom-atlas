@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3065
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.escape-from-one-danger-leads-into-another-fatal-danger
+  motif_id: escape_from_one_danger_leads_into_another_fatal_danger
+  label: escape from one danger leads into another fatal danger
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a narrative reversal from escape to fatal peril,
+    but its moral, fate, judgment, or ordeal function is unclear from wording alone.
+  cautions: Single occurrence and highly contextual; could fit death_by_fate, divine_judgment,
+    hero_journey, or be an episode-level plot detail.
+  suggested_aliases:
+  - escape_into_greater_danger
+  - fatal_danger_after_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escaped-third-figure-as-deferred-danger
+  motif_id: escaped_third_figure_as_deferred_danger
+  label: escaped third figure as deferred danger
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The phrasing reads like an episode-specific plot-management note rather
+    than a stable symbolic or ritual motif.
+  cautions: If the escaped figure later functions as a returning avenger, threat,
+    or fate agent, remap with source evidence to sacred_combat, death_by_fate, or
+    divine_judgment.
+  suggested_aliases:
+  - deferred_danger_from_escapee
+  - escaped_survivor_as_future_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethical-virtues-modeled-on-natural-and-celestial-exemplars
+  motif_id: ethical_virtues_modeled_on_natural_and_celestial_exemplars
+  label: ethical virtues modeled on natural and celestial exemplars
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns ethical conduct modeled on cosmic or natural order,
+    matching sacred law as moral order reflecting cosmic order.
+  cautions: Could also relate to sacred_knowledge if the passage emphasizes instruction
+    or wisdom rather than obligation or discipline.
+  suggested_aliases:
+  - virtue_modeled_on_cosmic_order
+  - natural_and_celestial_exemplars_for_ethics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-jealousy-and-selfishness-through-scattered-ashes
+  motif_id: etiology_of_jealousy_and_selfishness_through_scattered_ashes
+  label: Etiology of jealousy and selfishness through scattered ashes
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines origin explanation, moral psychology, and ash symbolism;
+    no existing group clearly captures the full function.
+  cautions: May fit cosmic_origin as an etiology, pride_and_downfall or divine_judgment
+    if moralized, or be too local and specific for broad motif queries.
+  suggested_aliases:
+  - origin_of_jealousy_and_selfishness
+  - ashes_as_origin_of_selfishness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.evening-as-a-grief-term
+  motif_id: evening_as_a_grief_term
+  label: Evening as a grief term
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Evening functions as a symbolic expression or term for grief, aligning
+    with lament and mourning imagery.
+  cautions: Review source context for whether this is a linguistic gloss or lexical
+    artifact rather than a recurring motif.
+  suggested_aliases:
+  - evening_as_grief_image
+  - dusk_as_mourning_symbol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.evil-company-and-inner-demonic-presence
+  motif_id: evil_company_and_inner_demonic_presence
+  label: Evil company and inner demonic presence
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif frames moral discipline and corrupt association as a sacred
+    ethical concern, fitting sacred law and social order.
+  cautions: If the passage emphasizes inner spiritual struggle or liberation from
+    ego, mystical_quest may be a better secondary mapping.
+  suggested_aliases:
+  - corrupt_company_as_inner_demon
+  - evil_association_and_inner_demonic_influence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exalted-consciousness-induced-by-disciplined-practice
+  motif_id: exalted_consciousness_induced_by_disciplined_practice
+  label: exalted consciousness induced by disciplined practice
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: high
+  rationale: Disciplined practice producing elevated consciousness is a clear interior
+    mystical transformation pattern.
+  cautions: Preserve the practice-specific context; if framed as formal initiation
+    or wisdom instruction, initiation or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - disciplined_practice_leads_to_exalted_consciousness
+  - spiritual_discipline_induces_exalted_awareness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exalted-saviour-self-abases-and-assumes-flesh
+  motif_id: exalted_saviour_self_abases_and_assumes_flesh
+  label: exalted saviour self-abases and assumes flesh
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears doctrinally specific, involving incarnation and kenosis,
+    which no existing group captures without losing key theological meaning.
+  cautions: Culturally and theologically sensitive; do not reduce to descent, sacrifice,
+    or sacred_birth without passage-level evidence and reviewer approval.
+  suggested_aliases:
+  - kenotic_incarnation_of_saviour
+  - saviour_assumes_flesh_through_self_abasement
+  suggested_new_group:
+    id: incarnation_and_kenosis
+    label: Incarnation and Kenosis
+    description: A divine, exalted, or salvific figure voluntarily assumes embodied
+      or humbled form in order to save, teach, redeem, or enter human suffering.
+    parent_group_ids:
+    - divine_intervention
+    - sacrifice
+    - miraculous_child
+    related_group_ids:
+    - descent
+    - death_and_transformation
+    - sacred_love
+    reason_existing_groups_insufficient: Existing groups cover birth, descent, sacrifice,
+      or divine action separately but do not preserve the distinctive self-humbling
+      embodiment of a savior figure.
+- suggestion_id: normalization.suggestion.exception-for-sickness-in-monastic-discipline
+  motif_id: exception_for_sickness_in_monastic_discipline
+  label: exception for sickness in monastic discipline
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A regulated exception within monastic discipline fits sacred law as ethical
+    and ritual order with practical obligations.
+  cautions: May be too rule-specific for pattern queries unless similar discipline-exception
+    motifs recur; preserve as evidence detail.
+  suggested_aliases:
+  - sickness_exception_to_discipline
+  - monastic_rule_exception_for_illness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.excessive-hunting-success-followed-by-danger
+  motif_id: excessive_hunting_success_followed_by_danger
+  label: Excessive hunting success followed by danger
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may express taboo, overreach, animal-spirit reciprocity, or
+    narrative reversal, but the relevant sacred function is unclear.
+  cautions: Potentially culturally specific hunting ethics; review source evidence
+    before mapping to sacred_law, sacred_exchange, divine_judgment, or pride_and_downfall.
+  suggested_aliases:
+  - overhunting_followed_by_danger
+  - excessive_hunting_success_as_peril
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional; several single-occurrence labels appear episode-specific
+  or doctrinal and need source-context review.
+- One relationship value for exalted_consciousness_induced_by_disciplined_practice
+  is constrained by the response schema; intended sense is mystical/functional variant
+  under mystical_quest.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch contains several ethics/inner-life labels where source evidence is
+    needed to distinguish moral law, mystical discipline, plot artifact, and culturally
+    specific ritual meaning.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3065
+  input_sha256: c05ba5ce546bcf2bbc87d4bd9342862cd1b663358bd862549da68d5f8c438065
+

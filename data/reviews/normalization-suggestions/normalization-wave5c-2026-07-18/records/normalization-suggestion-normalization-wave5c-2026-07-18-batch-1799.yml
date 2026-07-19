@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1799
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.choosing-the-beneficent-younger-wife
+  motif_id: choosing_the_beneficent_younger_wife
+  label: choosing the beneficent younger wife
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: Choice of a spouse belongs with marriage and partner-selection patterns
+    already grouped under sacred_love.
+  cautions: Single occurrence and culturally contextual; may be household ethics rather
+    than sacred love if the emphasis is beneficence or co-wife rivalry.
+  suggested_aliases:
+  - beneficent_younger_wife
+  - spouse_choice_of_younger_wife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cited-tree-marriage-with-thread-transfer
+  motif_id: cited_tree_marriage_with_thread_transfer
+  label: Cited tree marriage with thread transfer
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marriage, tree symbolism, and ritual thread transfer;
+    the main function cannot be determined from wording alone.
+  cautions: The word 'cited' may indicate a source or commentary artifact. Could involve
+    sacred_love, axis_mundi, sacred_exchange, or ritual law depending on evidence.
+  suggested_aliases:
+  - tree_marriage_with_thread_transfer
+  - ritual_thread_transfer_in_tree_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.civil-marriage-ceremony-without-monks
+  motif_id: civil_marriage_ceremony_without_monks
+  label: Civil marriage ceremony without monks
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as an ethnographic or procedural detail about ceremony type
+    rather than a symbolic narrative motif.
+  cautions: If the passage contrasts civil and monastic ritual authority as a recurring
+    sacred-law pattern, human reviewers may preserve it under sacred_law; otherwise
+    exclude from motif queries.
+  suggested_aliases:
+  - marriage_ceremony_without_monks
+  - non_monastic_marriage_ceremony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.claimed-child-from-an-uncanny-woman
+  motif_id: claimed_child_from_an_uncanny_woman
+  label: claimed child from an uncanny woman
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A child obtained or claimed from an uncanny woman suggests extraordinary
+    parentage, custody, or origin of a child.
+  cautions: Could instead involve otherworld marriage, abduction, adoption, or a supernatural
+    female figure; verify whether the child has sacred destiny or unusual birth/origin
+    function.
+  suggested_aliases:
+  - child_from_uncanny_woman
+  - supernatural_woman_claimed_child
+  - claimed_child_of_supernatural_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-and-father-s-clan-exogamy
+  motif_id: clan_and_father_s_clan_exogamy
+  label: clan and father's-clan exogamy
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Exogamy rules are kinship and marriage prohibitions regulating social
+    order, fitting sacred_law better than love symbolism.
+  cautions: May be an ethnographic rule rather than a narrative motif; review for
+    recurring mythic or ritual framing before broad indexing.
+  suggested_aliases:
+  - clan_exogamy
+  - father_clan_exogamy
+  - kinship_exogamy_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clothing-the-child-with-carried-articles
+  motif_id: clothing_the_child_with_carried_articles
+  label: Clothing the child with carried articles
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The act may signal child protection, adoption, recognition, or a passage-specific
+    care detail, but the motif function is unclear.
+  cautions: Single occurrence and very concrete; could be an evidence detail under
+    miraculous_child only if the clothing marks protection or sacred childhood.
+  suggested_aliases:
+  - child_clothed_with_carried_articles
+  - improvised_clothing_for_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clouds-identified-with-a-person-s-hair
+  motif_id: clouds_identified_with_a_person_s_hair
+  label: clouds identified with a person's hair
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label is a body-cosmos metaphor, but no existing group cleanly covers
+    anthropomorphic weather imagery.
+  cautions: Could be cosmic_origin, shapeshifter, sacred_fire/light, weather personification,
+    or passage-specific poetic imagery; avoid mapping solely because it contains a
+    body part.
+  suggested_aliases:
+  - clouds_as_hair
+  - person_hair_identified_with_clouds
+  - body_cosmos_cloud_hair_image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.co-wife-jealousy-after-second-marriage
+  motif_id: co_wife_jealousy_after_second_marriage
+  label: Co-wife jealousy after second marriage
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: broader_label
+  confidence: low
+  rationale: The existing group covers jealousy by a wife or rival caretaker within
+    the household, though its current emphasis is child persecution.
+  cautions: If no child persecution, false accusation, or household harm occurs, sacred_love
+    or a future co-wife rivalry group may fit better; keep as provisional.
+  suggested_aliases:
+  - co_wife_jealousy
+  - rival_wife_jealousy
+  - jealousy_after_second_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coerced-marriage-through-withheld-footwear
+  motif_id: coerced_marriage_through_withheld_footwear
+  label: Coerced marriage through withheld footwear
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a coercive marriage device involving an object, but existing
+    groups do not clearly cover forced marriage or captivity through withheld belongings.
+  cautions: Potentially sensitive gender/coercion motif; could relate to sacred_love,
+    sacred_law, betrayal, or recognition/power-object patterns depending on context.
+  suggested_aliases:
+  - forced_marriage_by_withheld_footwear
+  - withheld_footwear_compels_marriage
+  - coercive_marriage_object_withholding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coerced-mutilation-of-an-innocent-daughter
+  motif_id: coerced_mutilation_of_an_innocent_daughter
+  label: coerced mutilation of an innocent daughter
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label centers on family violence against an innocent daughter, but
+    its narrative function is not clear from the label alone.
+  cautions: Culturally and ethically sensitive; may involve persecuted child, sacrifice,
+    divine judgment, ordeal, or episode-specific violence. Human source review is
+    required before mapping.
+  suggested_aliases:
+  - innocent_daughter_mutilated_under_coercion
+  - coerced_violence_against_daughter
+  - mutilation_of_innocent_daughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, culturally specific family or
+  marriage details; prefer provisional placement and source review before adding new
+  groups.
+- Existing taxonomy has sacred_love and jealous_stepmother_persecuted_child, but lacks
+  a clean broad group for forced marriage, co-wife rivalry, or family violence apart
+  from child persecution.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft suggestions only; human review recommended for culturally sensitive
+    marriage, kinship, and violence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1799
+  input_sha256: a224e542300bd87892e608432f1677e8cdbd30c1e0b561f73d7b359ace0411c8
+

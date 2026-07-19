@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4097
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.withholding-hospitality-or-lodging-from-rival-monastics
+  motif_id: withholding_hospitality_or_lodging_from_rival_monastics
+  label: Withholding hospitality or lodging from rival monastics
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core action concerns denial of hospitality or lodging, fitting the
+    hospitality-obligation complex.
+  cautions: Rival monastic context may make this a disciplinary or sectarian episode
+    rather than a broad motif; review passage evidence.
+  suggested_aliases:
+  - denial_of_hospitality_to_rival_monastics
+  - withheld_lodging_as_hospitality_failure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withholding-of-honour-and-hospitality-as-sanction
+  motif_id: withholding_of_honour_and_hospitality_as_sanction
+  label: Withholding of honour and hospitality as sanction
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Withholding honor and hospitality as a sanction functions as social or
+    ethical regulation.
+  cautions: Could also index under hospitality_test_stranger_guest if the passage
+    centers on guest treatment rather than disciplinary sanction.
+  suggested_aliases:
+  - withholding_honor_as_sanction
+  - hospitality_withheld_as_social_sanction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withholding-useful-technology-after-gaining-wealth
+  motif_id: withholding_useful_technology_after_gaining_wealth
+  label: withholding useful technology after gaining wealth
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve culture-hero technology, greed, failed reciprocity,
+    or passage-specific social critique.
+  cautions: Single occurrence and culturally specific; source evidence is needed before
+    mapping to culture_hero, sacred_exchange, or divine_judgment.
+  suggested_aliases:
+  - technology_withheld_after_enrichment
+  - wealth_leads_to_withholding_useful_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witness-agrees-not-to-reveal-visitors
+  motif_id: witness_agrees_not_to_reveal_visitors
+  label: witness agrees not to reveal visitors
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Agreement to conceal visitors may be oath, secrecy, hospitality, or plot
+    detail depending on who the visitors are.
+  cautions: Do not map to covenant or sacred law without evidence that the promise
+    is ritually or morally binding.
+  suggested_aliases:
+  - pledge_not_to_reveal_visitors
+  - secrecy_agreement_about_visitors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witness-pair-validation-of-public-notice
+  motif_id: witness_pair_validation_of_public_notice
+  label: witness-pair validation of public notice
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: A witness pair validating public notice is a formal legal-social order
+    mechanism.
+  cautions: May be procedural law rather than mythic motif; keep as granular evidence
+    unless it recurs.
+  suggested_aliases:
+  - two_witnesses_validate_public_notice
+  - public_notice_validated_by_witness_pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witnessed-contract-as-validation-of-deposit
+  motif_id: witnessed_contract_as_validation_of_deposit
+  label: Witnessed contract as validation of deposit
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A witnessed contract validating a deposit fits binding agreement and
+    formal obligation.
+  cautions: If this is purely administrative legal detail, it may be better excluded
+    from pattern queries or mapped under sacred_law secondarily.
+  suggested_aliases:
+  - witnessed_deposit_contract
+  - contract_witnesses_validate_deposit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witnessed-doctrinal-disputation
+  motif_id: witnessed_doctrinal_disputation
+  label: witnessed doctrinal disputation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Doctrinal disputation centers on public testing or transmission of sacred
+    knowledge.
+  cautions: Could be a scholastic or institutional scene rather than a recurring motif;
+    if merely source commentary, exclude.
+  suggested_aliases:
+  - public_doctrinal_disputation
+  - witnessed_debate_over_doctrine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witnessed-jurisdictional-challenge
+  motif_id: witnessed_jurisdictional_challenge
+  label: witnessed jurisdictional challenge
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A witnessed challenge to jurisdiction belongs with formal legal order
+    and social authority.
+  cautions: Likely a procedural legal detail; review whether it has narrative or ritual
+    significance before broad indexing.
+  suggested_aliases:
+  - public_jurisdictional_challenge
+  - witnessed_challenge_to_legal_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wives-as-temporary-resting-place-before-abandonment
+  motif_id: wives_as_temporary_resting_place_before_abandonment
+  label: wives as temporary resting place before abandonment
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is metaphorical and may indicate marriage exploitation, journey
+    respite, or passage-specific commentary.
+  cautions: Potentially sensitive gendered framing and single occurrence; avoid forcing
+    into sacred_love or betrayal without evidence.
+  suggested_aliases:
+  - temporary_spousal_refuge_before_abandonment
+  - wives_used_as_waystation_before_abandonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wizard-s-belt-with-power-objects
+  motif_id: wizard_s_belt_with_power_objects
+  label: wizard's belt with power objects
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: high
+  rationale: A belt holding magical or power objects fits sacred treasures and power-object
+    equipment.
+  cautions: If the belt functions mainly as ritual costume or shamanic toolkit, preserve
+    that local specificity in notes.
+  suggested_aliases:
+  - shamanic_belt_with_power_objects
+  - magical_belt_of_power_objects
+  - wizard_belt_as_power_object_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence legal, monastic, or procedural
+  scenes; human review should distinguish usable motifs from institutional passage
+  details.
+- No transmission or contact inference is implied by these normalization suggestions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence items require source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4097
+  input_sha256: bec5e1ba6f012eb86d19c7c7bac34e749bc7d2f0d247746e0e514b462cc7cc0d
+

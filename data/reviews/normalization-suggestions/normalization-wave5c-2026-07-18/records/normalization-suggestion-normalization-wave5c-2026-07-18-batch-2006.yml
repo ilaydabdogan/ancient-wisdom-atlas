@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2006
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.three-fate-sisters-personifying-time
+  motif_id: three_fate_sisters_personifying_time
+  label: three fate sisters personifying time
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: alias
+  confidence: high
+  rationale: The group already contains fate sisters governing destiny and time; this
+    is a close wording variant.
+  cautions: Review whether the source emphasizes time personification rather than
+    destiny-weaving, but existing group is broad enough.
+  suggested_aliases:
+  - three_fate_sisters_who_govern_time
+  - three_fate_sisters_personifying_time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-offspring-after-interspecies-marriage
+  motif_id: three_offspring_after_interspecies_marriage
+  label: Three offspring after interspecies marriage
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marriage, species boundary crossing, and offspring
+    count without enough function to place reliably.
+  cautions: Could involve shapeshifter, sacred_love, miraculous_child, animal ancestry,
+    or a local etiological genealogy; source context needed.
+  suggested_aliases:
+  - offspring_from_interspecies_marriage
+  - children_of_interspecies_union
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-punitive-lessons-through-bodily-mutilation
+  motif_id: three_punitive_lessons_through_bodily_mutilation
+  label: three punitive lessons through bodily mutilation
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Punishment and bodily mutilation may imply judgment or ordeal, but the
+    lesson sequence is too context-dependent from label alone.
+  cautions: Potentially sensitive violent-body content; could be divine_judgment,
+    initiation, sacred_law, or an over-specific tale episode.
+  suggested_aliases:
+  - punitive_lessons_through_mutilation
+  - bodily_mutilation_as_punitive_instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-qualities-as-fetters-influencing-worldly-love
+  motif_id: three_qualities_as_fetters_influencing_worldly_love
+  label: three qualities as fetters influencing worldly love
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Worldly love as bondage fits interior discipline and liberation themes
+    more than narrative romance.
+  cautions: May be a doctrinal or commentary abstraction rather than a narrative motif;
+    if only a theological classification, consider excluding from pattern queries.
+  suggested_aliases:
+  - worldly_love_as_fetter
+  - three_qualities_as_spiritual_fetters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-royal-daughters-challenged-by-three-rival-sons-during-the-father-s-war-absence
+  motif_id: three_royal_daughters_challenged_by_three_rival_sons_during_the_father_s_war_absence
+  label: three royal daughters challenged by three rival sons during the father's
+    war absence
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly episode-specific family and succession setup
+    rather than a reusable motif.
+  cautions: If recurring evidence shows royal succession or bride contest function,
+    review for royal_legitimacy or sacred_love; do not index broadly from this composite
+    label alone.
+  suggested_aliases:
+  - royal_daughters_challenged_by_rival_sons
+  - siblings_rivals_during_father_war_absence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-skilled-brothers-jointly-rescue-a-parent
+  motif_id: three_skilled_brothers_jointly_rescue_a_parent
+  label: Three skilled brothers jointly rescue a parent
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Siblings acting together to rescue kin fits the sibling-pair/sacred siblings
+    group, despite being three rather than two.
+  cautions: If the tale focuses on skill competition or quest structure, hero_journey
+    may be a better secondary mapping.
+  suggested_aliases:
+  - skilled_brothers_rescue_parent
+  - sibling_group_rescues_parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-suitors-compete-for-one-bride-through-a-trading-contest
+  motif_id: three_suitors_compete_for_one_bride_through_a_trading_contest
+  label: Three suitors compete for one bride through a trading contest
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already includes bride choice and bride-winning contests; trading
+    contest is a local competition mechanism.
+  cautions: If the contest is primarily economic, trickster, or social-order satire,
+    source review may adjust placement.
+  suggested_aliases:
+  - suitors_compete_for_bride_by_trading
+  - bride_winning_trading_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threshold-incorporation-into-husband-s-household
+  motif_id: threshold_incorporation_into_husband_s_household
+  label: Threshold incorporation into husband's household
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This appears to be a marriage-household rite of passage, but no existing
+    group cleanly captures domestic incorporation rituals.
+  cautions: Could map to initiation, sacred_law, sacred_love, or threshold_guardian
+    depending on ritual evidence; culturally specific marriage practice should be
+    reviewed carefully.
+  suggested_aliases:
+  - marital_threshold_incorporation
+  - bride_incorporation_into_husband_household
+  suggested_new_group:
+    id: marriage_and_household_rites
+    label: Marriage and Household Rites
+    description: Rituals, threshold acts, and social transformations that incorporate
+      spouses, brides, grooms, or kin into a new household or marital status.
+    parent_group_ids:
+    - sacred_love
+    - sacred_law
+    - initiation
+    related_group_ids:
+    - threshold_guardian
+    - covenant
+    reason_existing_groups_insufficient: Existing love and law groups cover bride
+      choice or social obligation, but not the ritual incorporation of a spouse into
+      a household as a threshold rite.
+- suggestion_id: normalization.suggestion.thrown-pebbles-awaken-a-sleeping-lover
+  motif_id: thrown_pebbles_awaken_a_sleeping_lover
+  label: Thrown pebbles awaken a sleeping lover
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a very specific action detail in a lover encounter rather than
+    a broad motif.
+  cautions: If it recurs as a recognizable courtship signal, review under sacred_love;
+    otherwise preserve only as passage evidence.
+  suggested_aliases:
+  - pebbles_awaken_sleeping_lover
+  - lover_awakened_by_thrown_pebbles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.thunder-and-lightning-personified-as-sky-beings
+  motif_id: thunder_and_lightning_personified_as_sky_beings
+  label: thunder and lightning personified as sky beings
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The group aliases already include natural phenomena personified as divine
+    beings; thunder and lightning are specific sky phenomena.
+  cautions: If the passage emphasizes cosmological ordering or storm-deity worship
+    rather than intervention, cosmic_origin or theophany may be secondary candidates.
+  suggested_aliases:
+  - storm_phenomena_personified_as_sky_beings
+  - thunder_lightning_as_divine_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and over-specific; suggested placements
+  should be treated as provisional until source passages are checked.
+- The review bucket appears to over-group by family/body language; some labels fit
+  fate, weather personification, mysticism, or textual episode details instead.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for culturally
+    specific marriage, bodily mutilation, and doctrinal abstraction labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2006
+  input_sha256: 30b3eebed5ebe952336c8b4dde8d6ae524d1a790a3542737a9aebca8f77c2d04
+

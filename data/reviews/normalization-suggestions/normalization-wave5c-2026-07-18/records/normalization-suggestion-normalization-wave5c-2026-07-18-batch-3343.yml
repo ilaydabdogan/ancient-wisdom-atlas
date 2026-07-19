@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3343
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.destruction-of-chariot-steeds-and-rider
+  motif_id: destruction_of_chariot_steeds_and_rider
+  label: destruction of chariot, steeds, and rider
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a battle-destruction episode involving martial equipment
+    and combatants, best held under the broad combat group.
+  cautions: Single occurrence and highly episode-specific; if divine or heroic agency
+    is central, divine_warrior may be a secondary fit.
+  suggested_aliases:
+  - chariot_and_rider_destroyed
+  - destruction_of_chariot_team_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-cult-images
+  motif_id: destruction_of_cult_images
+  label: Destruction of cult images
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Destruction of cult images could express sacred law, divine judgment,
+    anti-idol polemic, conquest, or textual conversion narrative depending on context.
+  cautions: Culturally sensitive and context-dependent; do not map solely from icon
+    destruction wording without source evidence.
+  suggested_aliases:
+  - iconoclasm_against_cult_images
+  - destruction_of_idols
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-cult-images-before-settlement
+  motif_id: destruction_of_cult_images_before_settlement
+  label: destruction of cult images before settlement
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines icon destruction with settlement preparation, which
+    may involve covenantal purification, conquest, or historical-place context.
+  cautions: Likely too contextual for direct grouping; verify whether the motif is
+    ritual/legal purification, divine command, or passage-specific settlement detail.
+  suggested_aliases:
+  - destruction_of_idols_before_settlement
+  - iconoclasm_preceding_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-demonic-powers
+  motif_id: destruction_of_demonic_powers
+  label: Destruction of demonic powers
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defeating demonic powers fits sacred combat against forces of darkness
+    or disorder.
+  cautions: If the passage emphasizes eschatological moral reckoning rather than combat,
+    divine_judgment or duality may also be relevant.
+  suggested_aliases:
+  - defeat_of_demonic_powers
+  - destruction_of_demonic_forces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-demons
+  motif_id: destruction_of_demons
+  label: Destruction of demons
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The destruction of demons is a compact sacred-combat pattern against
+    hostile supernatural beings.
+  cautions: Broad label; review whether this is combat, ritual expulsion, eschatological
+    judgment, or doctrinal summary.
+  suggested_aliases:
+  - demon_destruction
+  - defeat_of_demons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-enemies-in-the-tuat
+  motif_id: destruction_of_enemies_in_the_tuat
+  label: Destruction of enemies in the Tuat
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: The Tuat is an underworld/afterlife realm, and enemy destruction there
+    belongs to afterlife navigation or postmortem peril/judgment.
+  cautions: Could also support divine_judgment or divine_warrior if a deity destroys
+    enemies as part of cosmic defense; preserve Egyptian Tuat specificity.
+  suggested_aliases:
+  - destruction_of_underworld_enemies
+  - enemies_destroyed_in_the_duat
+  - destruction_of_enemies_in_the_duat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-evil-creatures-as-religious-atonement
+  motif_id: destruction_of_evil_creatures_as_religious_atonement
+  label: destruction of evil creatures as religious atonement
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The atonement function makes the destruction an expiatory religious act
+    rather than merely combat.
+  cautions: May also involve sacred_law or divine_warrior depending on whether the
+    source frames it as legal duty, purity, or cosmic struggle.
+  suggested_aliases:
+  - killing_evil_creatures_as_atonement
+  - destruction_of_noxious_beings_as_expiation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-food-source-causes-fort-s-fall
+  motif_id: destruction_of_food_source_causes_fort_s_fall
+  label: Destruction of food source causes fort's fall
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label reads as a tactical siege or episode-specific causation detail
+    rather than a clear symbolic motif.
+  cautions: Review source context before mapping; could belong to sacred_combat if
+    a recurring siege strategy, or sacred_substance/divine_intervention if the food
+    source is supernatural.
+  suggested_aliases:
+  - food_source_destroyed_causing_fort_fall
+  - loss_of_food_supply_causes_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-hostile-supernatural-powers
+  motif_id: destruction_of_hostile_supernatural_powers
+  label: destruction of hostile supernatural powers
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Destroying hostile supernatural powers fits sacred combat against nonhuman
+    forces threatening order or community.
+  cautions: If the source describes ritual neutralization rather than battle, sacrifice/ritual
+    expulsion or divine_judgment may be preferable.
+  suggested_aliases:
+  - defeat_of_hostile_supernatural_powers
+  - destruction_of_hostile_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-mankind-title
+  motif_id: destruction_of_mankind_title
+  label: destruction of mankind title
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The word 'title' indicates a textual heading or work-title artifact rather
+    than a motif label.
+  cautions: If a passage actually narrates the destruction of humankind, map that
+    evidence separately to divine_judgment or flood_and_renewal.
+  suggested_aliases:
+  - destruction_of_mankind_heading
+  - title_destruction_of_mankind
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels beginning with 'destruction of' are broad or episode-specific; final
+  placement should check whether destruction functions as combat, judgment, ritual
+  purification, atonement, or textual heading.
+- No transmission or borrowing claims are implied by these normalization suggestions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions based on label semantics only; source evidence
+    needed for iconoclasm, settlement, and siege-food items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3343
+  input_sha256: e6b2fcf0bbb1c91e3b682caceebec1a3d5d5039b60ef75f5553b2d9971f38168
+

@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1085
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-song-vocables-linked-to-a-named-song-tradition
+  motif_id: ritual_song_vocables_linked_to_a_named_song_tradition
+  label: Ritual-song vocables linked to a named song tradition
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to culturally specific ritual-song form and named tradition
+    rather than a clearly generalizable motif.
+  cautions: Vocables and named song traditions may require culturally informed review;
+    avoid flattening into generic sacred song or music without passage evidence.
+  suggested_aliases:
+  - ritual vocables in named song tradition
+  - named ritual song vocables
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - storytelling_as_power
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-song-voice-drum-tempo-comparison
+  motif_id: ritual_song_voice_drum_tempo_comparison
+  label: ritual song voice-drum tempo comparison
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a performance-analysis or descriptive comparison rather
+    than a narrative or symbolic motif.
+  cautions: If the passage says tempo has ritual efficacy, trance power, or supernatural
+    effect, remap to enchanting_music or sacred_law after review.
+  suggested_aliases:
+  - voice drum tempo comparison
+  - ritual song tempo comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-songs-as-repositories-of-mythic-history
+  motif_id: ritual_songs_as_repositories_of_mythic_history
+  label: Ritual songs as repositories of mythic history
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Songs preserving mythic history function as narrative transmission and
+    sacred cultural memory.
+  cautions: Could also fit sacred_knowledge if emphasis is restricted esoteric knowledge
+    rather than narrative preservation.
+  suggested_aliases:
+  - ritual song as mythic memory
+  - songs preserving mythic history
+  - ritual songs as repositories of sacred history
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-songs-for-delayed-childbirth
+  motif_id: ritual_songs_for_delayed_childbirth
+  label: Ritual songs for delayed childbirth
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label combines ritual song with childbirth healing or birth assistance,
+    not cleanly covered by current birth or music groups.
+  cautions: May be a culturally specific healing rite; map to miraculous_child only
+    if the birth is extraordinary or destiny-marked, not merely obstetric ritual care.
+  suggested_aliases:
+  - childbirth ritual songs
+  - songs used for delayed childbirth
+  - ritual singing to aid childbirth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - enchanting_music
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-songs-traced-to-earth-emergent-beings-and-divine-ones
+  motif_id: ritual_songs_traced_to_earth_emergent_beings_and_divine_ones
+  label: ritual songs traced to earth-emergent beings and Divine Ones
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ritual songs attributed to primordial or divine beings function as transmitted
+    sacred knowledge.
+  cautions: If the passage emphasizes emergence cosmology more than song transmission,
+    cosmic_origin may be a secondary placement.
+  suggested_aliases:
+  - ritual songs from divine beings
+  - songs traced to earth emergent beings
+  - divinely originated ritual songs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-sound-and-performance-during-armed-peacemaking
+  motif_id: ritual_sound_and_performance_during_armed_peacemaking
+  label: Ritual sound and performance during armed peacemaking
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests ritualized mediation in a conflict setting, but function
+    is unclear without source context.
+  cautions: Could fit covenant, sacred_exchange, sacred_combat, or sacred_law depending
+    on whether the focus is truce, obligation, warfare, or ceremony.
+  suggested_aliases:
+  - ritual performance in armed peacemaking
+  - ritual sound during peacemaking
+  - ceremonial sound in conflict mediation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_combat
+    - sacred_exchange
+    - enchanting_music
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-sound-and-props-inducing-stupor
+  motif_id: ritual_sound_and_props_inducing_stupor
+  label: Ritual sound and props inducing stupor
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ritual sound producing stupor matches sound as a supernatural or altered-state
+    force.
+  cautions: Props and stupor may indicate healing, initiation, trance, or coercion;
+    avoid assuming music alone if objects are central.
+  suggested_aliases:
+  - ritual sound inducing stupor
+  - sound and ritual objects inducing trance
+  - ritual sound causing altered consciousness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-sound-from-moving-carried-object
+  motif_id: ritual_sound_from_moving_carried_object
+  label: ritual sound from moving carried object
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a ritual sound-producing object, but its symbolic
+    or narrative function is not stated.
+  cautions: Could be a sacred object, ritual performance detail, or passage artifact;
+    needs evidence of efficacy, presence, protection, or transmission before mapping.
+  suggested_aliases:
+  - sound from carried ritual object
+  - moving ritual object produces sound
+  - ritual object sound in procession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - enchanting_music
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-sound-maintained-despite-obstruction
+  motif_id: ritual_sound_maintained_despite_obstruction
+  label: ritual sound maintained despite obstruction
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Maintaining ritual sound despite obstruction may signal ritual perseverance,
+    contest, or performance detail; the motif function is unclear.
+  cautions: Do not map to enchanting_music unless the sound itself has supernatural
+    force or ritual efficacy beyond descriptive performance continuity.
+  suggested_aliases:
+  - ritual sound continues despite obstruction
+  - obstructed ritual sound maintained
+  - persevering ritual sound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - sacred_law
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-sound-marking-prayer-or-recitation
+  motif_id: ritual_sound_marking_prayer_or_recitation
+  label: Ritual sound marking prayer or recitation
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sound marking prayer or recitation functions as regulated ritual practice
+    rather than narrative song power.
+  cautions: If the recitation transmits sacred knowledge or produces supernatural
+    compulsion, sacred_knowledge or enchanting_music may be better secondary groups.
+  suggested_aliases:
+  - ritual sound marking recitation
+  - sound cue for prayer
+  - ritual sound accompanying prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern Indigenous ritual song or sound practices with single occurrences;
+  human review should preserve local terminology and avoid collapsing performance
+  details into generic music motifs.
+- Map to enchanting_music only where sound has stated ritual efficacy, altered-state
+  effect, compulsion, or supernatural power; otherwise sacred_law, sacred_knowledge,
+  storytelling_as_power, or exclusion may be better.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual-performance labels
+    require source-aware review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1085
+  input_sha256: 972135b52ad6a8a3080add9eb4a5fb4204ce57dc51dc2068d735fe2335c4266c
+

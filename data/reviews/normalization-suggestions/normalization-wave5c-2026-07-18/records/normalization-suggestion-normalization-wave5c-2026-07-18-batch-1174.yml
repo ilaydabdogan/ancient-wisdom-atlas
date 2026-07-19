@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1174
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.shared-sacred-responsibility-between-ruler-and-minister
+  motif_id: shared_sacred_responsibility_between_ruler_and_minister
+  label: shared sacred responsibility between ruler and minister
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns ruler-minister duty as part of sacred political order
+    and legitimate governance.
+  cautions: Could fit sacred_law if the passage emphasizes ethical duty rather than
+    rulership structure; single occurrence needs evidence review.
+  suggested_aliases:
+  - ruler_minister_shared_sacred_duty
+  - shared_responsibility_of_ruler_and_minister
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-sacred-salt-source-among-neighboring-peoples
+  motif_id: shared_sacred_salt_source_among_neighboring_peoples
+  label: Shared sacred salt source among neighboring peoples
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A sacred salt source could be sacred geography, sacred substance, pilgrimage,
+    or intergroup ritual sharing depending on context.
+  cautions: Culturally specific place/resource motif; avoid reducing to generic substance
+    without passage evidence. May be too local for broad pattern queries.
+  suggested_aliases:
+  - sacred_salt_source_shared_between_peoples
+  - shared_ritual_salt_source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-southern-origin-explaining-ritual-resemblance
+  motif_id: shared_southern_origin_explaining_ritual_resemblance
+  label: Shared southern origin explaining ritual resemblance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label explains resemblance by origin and reads as comparative or
+    ethnographic commentary, not a narrative motif.
+  cautions: Do not use as evidence of transmission in motif normalization. Preserve
+    as provenance or source-context note if needed.
+  suggested_aliases:
+  - origin_explanation_for_ritual_resemblance
+  - shared_origin_as_ritual_comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sharing-another-s-prayer-for-benefit
+  motif_id: sharing_another_s_prayer_for_benefit
+  label: sharing another’s prayer for benefit
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Benefiting from another's prayer fits mediated sacred reciprocity and
+    petitionary exchange.
+  cautions: If the passage emphasizes mystical companionship or transmitted blessing,
+    mystical_quest or sacred_knowledge may be secondary; single occurrence.
+  suggested_aliases:
+  - benefit_through_another_s_prayer
+  - shared_prayer_benefit
+  - vicarious_prayer_benefit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shedding-the-holy-teacher-s-blood-brings-immediate-karmic-fault
+  motif_id: shedding_the_holy_teacher_s_blood_brings_immediate_karmic_fault
+  label: Shedding the holy teacher's blood brings immediate karmic fault
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Immediate karmic fault after harming a holy teacher is a moral consequence
+    and sacred reckoning pattern.
+  cautions: Could also relate to sacred_law or blood taboo if framed as prohibition;
+    avoid treating karmic causality as theistic judgment.
+  suggested_aliases:
+  - karmic_fault_from_shedding_holy_teacher_s_blood
+  - immediate_karmic_consequence_for_harming_a_teacher
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shooting-ritual-as-specific-common-rite
+  motif_id: shooting_ritual_as_specific_common_rite
+  label: shooting ritual as specific common rite
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A shooting rite may be ritual combat, sacrifice, hunting, purification,
+    or local ceremonial detail depending on evidence.
+  cautions: The phrase 'specific common rite' sounds classificatory; source context
+    is needed before indexing as a motif.
+  suggested_aliases:
+  - ritual_shooting_rite
+  - ceremonial_shooting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sick-person-s-survival-attributed-to-prayer-and-sacred-power
+  motif_id: sick_person_s_survival_attributed_to_prayer_and_sacred_power
+  label: sick person's survival attributed to prayer and sacred power
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Survival from illness through prayer and sacred power is direct sacred
+    aid in human affairs.
+  cautions: May fit soul_loss_restoration or ritual healing if the passage specifies
+    soul recovery or a formal curing rite.
+  suggested_aliases:
+  - healing_survival_through_prayer
+  - sickness_survival_by_sacred_power
+  - prayer_attributed_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silence-as-formal-declaration-of-purity
+  motif_id: silence_as_formal_declaration_of_purity
+  label: Silence as formal declaration of purity
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Formal silence declaring purity functions as a ritual rule or communal
+    purity procedure.
+  cautions: Could belong with performative sacred speech as a non-speech act if the
+    formal declaration is central; review Buddhist procedural context.
+  suggested_aliases:
+  - ritual_silence_declares_purity
+  - formal_silence_as_purity_assent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silence-followed-by-communal-sound-at-ritual-completion
+  motif_id: silence_followed_by_communal_sound_at_ritual_completion
+  label: Silence followed by communal sound at ritual completion
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label marks a ritual sound sequence, but its symbolic or narrative
+    function is unclear.
+  cautions: May be over-specific ceremonial choreography; could fit enchanting_music,
+    sacred_exchange, or sacred_law only if sound has explicit sacred function.
+  suggested_aliases:
+  - ritual_completion_with_silence_and_communal_sound
+  - communal_sound_after_ritual_silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silence-marks-communal-purity-after-recitation
+  motif_id: silence_marks_communal_purity_after_recitation
+  label: silence marks communal purity after recitation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Silence after recitation marking communal purity is a ritual-purity and
+    procedural order motif.
+  cautions: Closely overlaps with silence_as_formal_declaration_of_purity; preserve
+    recitation detail only if passage evidence makes it important.
+  suggested_aliases:
+  - post_recitation_silence_marks_purity
+  - communal_purity_marked_by_silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence ritual-procedure labels; reviewers should verify
+  whether they are recurring motifs or passage-specific ethnographic details.
+- Avoid treating origin/resemblance labels as evidence of historical transmission
+  in this normalization task.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual labels need human
+    source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1174
+  input_sha256: c44d60ccde4809af77938e7843642773615fb1d252184c041f30bfb9808bf65f
+

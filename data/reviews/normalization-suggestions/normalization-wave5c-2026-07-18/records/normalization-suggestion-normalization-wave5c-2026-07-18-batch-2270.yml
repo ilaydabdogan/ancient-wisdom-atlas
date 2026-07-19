@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2270
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.thunderbird-story-parallels-with-divergence
+  motif_id: thunderbird_story_parallels_with_divergence
+  label: Thunderbird story parallels with divergence
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes comparative story parallels and divergence rather
+    than an in-passage motif.
+  cautions: Preserve any actual Thunderbird narrative content separately; do not index
+    this as evidence of relationship or transmission.
+  suggested_aliases:
+  - comparative_thunderbird_story_parallel
+  - thunderbird_variant_comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.thunderbirds-startling-a-human-speaker
+  motif_id: thunderbirds_startling_a_human_speaker
+  label: Thunderbirds startling a human speaker
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Thunderbirds may function as powerful other-than-human beings, omens,
+    or narrative animals, but the label alone only notes a startling encounter.
+  cautions: Culturally specific Thunderbird material should be reviewed with source
+    evidence; avoid flattening into generic animal or divine-intervention categories.
+  suggested_aliases:
+  - thunderbird_startles_human_speaker
+  - startling_encounter_with_thunderbirds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.thunderstorm-as-revenge-of-the-dispossessed-fire-bird
+  motif_id: thunderstorm_as_revenge_of_the_dispossessed_fire_bird
+  label: Thunderstorm as revenge of the dispossessed fire-bird
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines weather etiology, revenge, dispossession, and a fire-bird
+    figure, with no single existing group fitting safely.
+  cautions: May fit cosmic_origin if etiological, divine_judgment if revenge/reckoning
+    dominates, or sacred_fire if fire-bird symbolism is central; source context is
+    needed.
+  suggested_aliases:
+  - storm_etiology_from_fire_bird_revenge
+  - dispossessed_fire_bird_causes_thunderstorm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tightening-purse-net-trap-at-an-animal-exit
+  motif_id: tightening_purse_net_trap_at_an_animal_exit
+  label: Tightening purse-net trap at an animal exit
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed animal trap at an exit fits the trickster/fable pattern of
+    capture, luring, or predatory stratagem.
+  cautions: If the passage is merely a hunting technique without deception or narrative
+    reversal, treat as an over-specific evidence detail.
+  suggested_aliases:
+  - animal_exit_net_trap
+  - purse_net_trap_for_animal_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.time-as-a-flying-bird
+  motif_id: time_as_a_flying_bird
+  label: Time as a flying bird
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In a Sufi context, time figured as a flying bird likely serves contemplative
+    reflection on impermanence and the spiritual path.
+  cautions: If the passage emphasizes cosmic time structure rather than interior realization,
+    sacred_time or fate_figures_cosmic_weaving may be better secondary contexts.
+  suggested_aliases:
+  - flying_bird_as_time
+  - time_imaged_as_flying_bird
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.timed-protective-animal-call-against-a-water-monster
+  motif_id: timed_protective_animal_call_against_a_water_monster
+  label: Timed protective animal call against a water monster
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A protective animal call that wards off a monster fits animal-helper
+    or supernatural protection functions under divine intervention.
+  cautions: Could also relate to threshold_guardian or sacred_waters if the monster
+    guards a water boundary; verify the animal's role and agency.
+  suggested_aliases:
+  - protective_animal_call_against_water_monster
+  - animal_warning_call_wards_water_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tiny-animal-creates-supernatural-weight
+  motif_id: tiny_animal_creates_supernatural_weight
+  label: Tiny animal creates supernatural weight
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A small animal producing impossible weight suggests a trickster-like
+    reversal of expected power and scale.
+  cautions: If the animal is a helper, guardian, or deity rather than a deceptive/reversal
+    figure, divine_intervention may fit better.
+  suggested_aliases:
+  - small_animal_supernatural_weight
+  - tiny_creature_becomes_impossibly_heavy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.title-level-animal-pairing-or-grouping
+  motif_id: title_level_animal_pairing_or_grouping
+  label: title-level animal pairing or grouping
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label explicitly describes a title-level classification pattern,
+    not a narrative motif.
+  cautions: If the titled animals interact in the passage, index that episode under
+    the relevant animal, trickster, or fable motif instead.
+  suggested_aliases:
+  - animal_pairing_in_title
+  - animal_grouping_title_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.torment-of-a-despised-captured-animal
+  motif_id: torment_of_a_despised_captured_animal
+  label: Torment of a despised captured animal
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe cruelty, punishment, captivity, or a fable setup,
+    but the narrative function is unclear.
+  cautions: Do not map merely because an animal appears; determine whether the episode
+    functions as trickster reversal, moral judgment, or local evidence detail.
+  suggested_aliases:
+  - despised_captive_animal_tormented
+  - captured_animal_tormented
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.torn-animal-coat-repaired-by-helper-relatives
+  motif_id: torn_animal_coat_repaired_by_helper_relatives
+  label: Torn animal coat repaired by helper relatives
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal covering, repair, and kin/helper action, but
+    does not clearly indicate transformation, disguise, or protection.
+  cautions: Could fit shapeshifter if the coat is a removable animal form, divine_intervention
+    if helper-relatives restore power, or be too episode-specific.
+  suggested_aliases:
+  - animal_coat_repaired_by_relatives
+  - helper_relatives_repair_torn_animal_coat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Thunderbird and culturally specific animal-power labels need source-aware
+  human review rather than generic animal mapping.
+- Title/comparison labels should be excluded from motif queries unless separate passage
+  evidence supports an actual narrative motif.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence animal labels often depend
+    on narrative function not visible from label alone.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2270
+  input_sha256: 86db9905d1094e83d6eec0bb4cacad79954518a1b604fc36a85bf6cf2c34477c
+

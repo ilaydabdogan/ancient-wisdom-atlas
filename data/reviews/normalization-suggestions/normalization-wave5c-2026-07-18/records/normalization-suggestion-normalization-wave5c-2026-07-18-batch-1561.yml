@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1561
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fallen-king-hiding-in-a-cave
+  motif_id: fallen_king_hiding_in_a_cave
+  label: fallen king hiding in a cave
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A king's fall and concealment concerns disrupted kingship and loss of
+    public authority.
+  cautions: Cave refuge may also support descent, sacred_vessel, or hero_journey if
+    the cave functions as ordeal, protection, or transformation rather than political
+    reversal.
+  suggested_aliases:
+  - fallen_ruler_in_refuge
+  - king_in_cave_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-king-through-drunken-misrule
+  motif_id: fallen_king_through_drunken_misrule
+  label: fallen king through drunken misrule
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: Misrule caused by excess leading to a king's fall fits moral downfall
+    of power without discipline.
+  cautions: Could also index under royal_legitimacy or divine_judgment if the source
+    emphasizes mandate, dynastic legitimacy, or sacred punishment.
+  suggested_aliases:
+  - ruler_falls_through_drunken_misrule
+  - drunken_misrule_leads_to_downfall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-ruler-or-reversal-of-power
+  motif_id: fallen_ruler_or_reversal_of_power
+  label: fallen ruler or reversal of power
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: broader_label
+  confidence: medium
+  rationale: A ruler's fall or reversal of power is a broad version of humbled worldly
+    authority.
+  cautions: Sufi context may use this as a moral or mystical exemplum of impermanence;
+    if so, mystical_quest may be a secondary context, not the main narrative function.
+  suggested_aliases:
+  - fall_of_worldly_power
+  - reversal_of_rulership
+  - fallen_ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-ruler-s-refuge-at-water-and-final-tracking
+  motif_id: fallen_ruler_s_refuge_at_water_and_final_tracking
+  label: fallen ruler's refuge at water and final tracking
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines political fall, water refuge, pursuit, and final discovery
+    without enough evidence to choose the core function.
+  cautions: May belong to royal_legitimacy, sacred_waters, hero_journey, sacred_combat,
+    or divine_judgment depending on whether the passage emphasizes kingship, liminal
+    water, pursuit, battle resolution, or moral reckoning.
+  suggested_aliases:
+  - fallen_ruler_at_water_refuge
+  - tracked_ruler_in_watery_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-accusation-by-desirous-stepmother-leading-to-mutilating-punishment
+  motif_id: false_accusation_by_desirous_stepmother_leading_to_mutilating_punishment
+  label: False accusation by desirous stepmother leading to mutilating punishment
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: narrower_than
+  confidence: high
+  rationale: A stepmother's false accusation and punishment of an innocent child fits
+    the persecuted-child household motif.
+  cautions: The mutilating punishment is an episode-specific detail; if legal injustice
+    or later vindication is central, divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - desirous_stepmother_false_accusation
+  - stepmother_false_accusation_of_stepchild
+  - persecuted_child_mutilating_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-accusation-of-witchcraft-against-a-good-queen
+  motif_id: false_accusation_of_witchcraft_against_a_good_queen
+  label: False accusation of witchcraft against a good queen
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: False accusation is already treated as a judgment/reckoning pattern,
+    especially when innocence and authority are at stake.
+  cautions: If the queen's legitimacy, queenship, or dynastic order is the main point,
+    royal_legitimacy may be secondary; witchcraft charge should remain evidence detail.
+  suggested_aliases:
+  - false_witchcraft_accusation_against_queen
+  - innocent_queen_falsely_accused
+  - false_accusation_against_good_queen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-foreboding-over-an-absent-ruler
+  motif_id: false_foreboding_over_an_absent_ruler
+  label: False foreboding over an absent ruler
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe mistaken omen, rumor, anxiety, or narrative
+    suspense around an absent ruler.
+  cautions: Needs source context to distinguish dream_and_vision, prophecy_divination,
+    lament_and_mourning, royal_legitimacy, or a passage-specific artifact.
+  suggested_aliases:
+  - false_omen_about_absent_ruler
+  - mistaken_foreboding_for_absent_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-human-scene-masking-a-nonhuman-referent
+  motif_id: false_human_scene_masking_a_nonhuman_referent
+  label: False human scene masking a nonhuman referent
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording describes interpretive masking or misrecognition more than
+    a clear narrative motif.
+  cautions: May fit shapeshifter, trickster, animal fable, or _meta_textual depending
+    on whether the source narrates disguise or the label summarizes scholarly interpretation.
+  suggested_aliases:
+  - human_scene_with_nonhuman_referent
+  - nonhuman_referent_masked_as_human_scene
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-oath-and-corrupted-testimony
+  motif_id: false_oath_and_corrupted_testimony
+  label: False oath and corrupted testimony
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A false oath is a binding speech act whose corruption threatens sacred
+    legal order.
+  cautions: Could also map to sacred_law or divine_judgment if the passage emphasizes
+    legal procedure or punishment more than oath speech itself.
+  suggested_aliases:
+  - false_oath
+  - perjured_testimony
+  - corrupted_witness_oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-parentage-and-loss-of-authority
+  motif_id: false_parentage_and_loss_of_authority
+  label: false parentage and loss of authority
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: high
+  rationale: Disputed or false parentage undermining authority directly concerns legitimacy
+    and succession.
+  cautions: If the passage centers on recognition tokens, hidden identity, or divine
+    parentage, those groups may be secondary mappings.
+  suggested_aliases:
+  - false_parentage_undermines_authority
+  - disputed_parentage_and_lost_rule
+  - illegitimate_parentage_loss_of_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and composite; preserve local details as evidence
+  notes rather than promoting them to canonical motifs.
+- For fallen-ruler items, distinguish political legitimacy from moral downfall, pursuit/refuge
+  narrative, and mystical impermanence before final mapping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements generated for taxonomy review; ambiguous composite
+    labels flagged for source-based human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1561
+  input_sha256: bac2e600efa72c4c7edce83dfeeb963cb07176ad206bea71e801d4905cec5cad
+

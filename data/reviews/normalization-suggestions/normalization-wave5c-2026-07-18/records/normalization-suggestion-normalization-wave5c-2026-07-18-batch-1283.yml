@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1283
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.creation-by-a-named-deity
+  motif_id: creation_by_a_named_deity
+  label: creation by a named deity
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: high
+  rationale: The core function is world or being creation by a deity, already covered
+    by cosmic_origin.
+  cautions: The named-deity detail should be preserved as source evidence, not promoted
+    as a separate motif from the label alone.
+  suggested_aliases:
+  - creation_by_named_creator
+  - named_deity_as_creator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-classified-into-named-divisions-of-beings
+  motif_id: creation_classified_into_named_divisions_of_beings
+  label: creation classified into named divisions of beings
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Classification of created beings belongs to cosmogonic ordering and differentiation
+    within cosmic_origin.
+  cautions: May be an ethnographic or passage-specific taxonomy of beings; review
+    source context before treating the named divisions as a reusable motif.
+  suggested_aliases:
+  - creation_of_named_classes_of_beings
+  - cosmogonic_classification_of_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-language-lost-or-preserved-after-babel
+  motif_id: creation_language_lost_or_preserved_after_babel
+  label: Creation language lost or preserved after Babel
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: medium
+  rationale: A primordial or creation language preserved or lost can function as sacred
+    knowledge, but the Babel framing also concerns language differentiation and people
+    dispersal.
+  cautions: Could fit cosmic_origin if the passage explains linguistic origins, sacred_knowledge
+    if it emphasizes preserved primordial knowledge, or _meta_textual if it is commentary
+    on a tradition.
+  suggested_aliases:
+  - primordial_language_lost_or_preserved
+  - creation_language_after_babel
+  - sacred_language_preserved_after_babel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-of-differentiated-languages-and-dispersal-of-peoples
+  motif_id: creation_of_differentiated_languages_and_dispersal_of_peoples
+  label: Creation of differentiated languages and dispersal of peoples
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The label is an etiological cosmogonic account of human language differentiation
+    and peoples' dispersal.
+  cautions: If the passage centers on migration rather than origins, hero_journey
+    or a future people-origins subgroup may be relevant as secondary context.
+  suggested_aliases:
+  - origin_of_languages_and_peoples
+  - differentiation_of_languages_and_dispersal
+  - language_origin_and_people_dispersal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-of-the-world-by-a-named-maker
+  motif_id: creation_of_the_world_by_a_named_maker
+  label: creation of the world by a named maker
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: high
+  rationale: World creation by a maker is directly within cosmic_origin; the name
+    is local evidence detail.
+  cautions: Do not treat the named maker as a separate motif unless recurring across
+    sources with a distinct function.
+  suggested_aliases:
+  - world_creation_by_named_maker
+  - named_creator_makes_the_world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-through-song-and-rattle-like-sound
+  motif_id: creation_through_song_and_rattle_like_sound
+  label: Creation through song and rattle-like sound
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The narrative function is creation, with song or ritual sound as the
+    means; cosmic_origin is the best broad group.
+  cautions: Also related to enchanting_music or storytelling_as_power if sound itself
+    is the focus; rattle-like detail may be culturally specific and should be preserved
+    cautiously.
+  suggested_aliases:
+  - creation_by_song
+  - creation_through_sacred_sound
+  - cosmogony_by_song_and_rattle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-vision-and-emanation
+  motif_id: creation_vision_and_emanation
+  label: Creation vision and emanation
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: medium
+  rationale: The label combines cosmogony with revelatory vision and emanation, so
+    cosmic_origin is plausible but not sufficient without context.
+  cautions: May fit theophany, dream_and_vision, sacred_knowledge, or cosmic_origin
+    depending on whether the passage emphasizes a visionary experience, revealed doctrine,
+    or the creation process itself.
+  suggested_aliases:
+  - emanation_cosmogony
+  - visionary_creation_by_emanation
+  - cosmogonic_vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creator-deity-named-as-creator-of-the-earth
+  motif_id: creator_deity_named_as_creator_of_the_earth
+  label: Creator deity named as creator of the earth
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: high
+  rationale: Naming the creator of the earth is a specific form of creation-origin
+    motif within cosmic_origin.
+  cautions: The identity of the deity should remain source evidence; avoid making
+    a person/place-only deity label into a motif.
+  suggested_aliases:
+  - named_creator_of_the_earth
+  - earth_created_by_named_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creator-s-ordering-of-an-inhabited-and-provisioned-world
+  motif_id: creator_s_ordering_of_an_inhabited_and_provisioned_world
+  label: Creator's ordering of an inhabited and provisioned world
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Ordering and provisioning an inhabited world is cosmogonic organization
+    after creation, covered by cosmic_origin.
+  cautions: If the emphasis is ongoing providential care rather than initial world-ordering,
+    divine_intervention may be a secondary group.
+  suggested_aliases:
+  - creator_orders_and_provisions_the_world
+  - ordering_of_the_inhabited_world
+  - creation_as_world_ordering_and_provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creedal-fidelity-in-word-action-and-will
+  motif_id: creedal_fidelity_in_word_action_and_will
+  label: creedal fidelity in word, action, and will
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif expresses fidelity to a sacred ethical-religious order in thought,
+    speech, and action, aligning best with sacred_law.
+  cautions: Could also map to covenant if framed as a binding sacred commitment, or
+    wisdom if treated as teaching rather than obligation.
+  suggested_aliases:
+  - fidelity_in_thought_word_and_deed
+  - creedal_fidelity_in_word_and_action
+  - sacred_fidelity_of_will_speech_and_act
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are cosmogonic despite being bucketed under wisdom/speech/dream/revelation;
+  review should distinguish creation function from revelatory medium.
+- Single-occurrence labels with named deities or local classifications should generally
+  preserve local detail as evidence rather than becoming separate canonical motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for composite labels
+    involving language, vision, emanation, and culturally specific ritual sound.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1283
+  input_sha256: d72437486551298c8bff9615bc30a72acfd7102e98092c5d90397f9ab216ef8f
+

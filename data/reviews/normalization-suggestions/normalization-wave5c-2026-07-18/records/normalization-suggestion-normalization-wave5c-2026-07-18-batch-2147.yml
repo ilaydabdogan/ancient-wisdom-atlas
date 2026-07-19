@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2147
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dragon-as-official-rank-emblem
+  motif_id: dragon_as_official_rank_emblem
+  label: dragon as official rank emblem
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The dragon functions as an emblem of rank and sanctioned social hierarchy
+    rather than as an animal actor.
+  cautions: Single occurrence; if this is only a historical costume or bureaucracy
+    detail, it may be too contextual for motif queries.
+  suggested_aliases:
+  - dragon_rank_emblem
+  - dragon_as_symbol_of_official_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dragon-associated-sage-power
+  motif_id: dragon_associated_sage_power
+  label: dragon-associated sage power
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could mean wisdom, spiritual potency, transformation, or symbolic
+    comparison to a dragon.
+  cautions: Daoist dragon symbolism is culturally specific; source evidence is needed
+    before choosing sacred_knowledge, serpent_guardian, shapeshifter, or theophany.
+  suggested_aliases:
+  - dragon_sage_power
+  - sage_power_compared_to_dragon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dragon-combat-while-a-companion-supports-the-palace
+  motif_id: dragon_combat_while_a_companion_supports_the_palace
+  label: dragon combat while a companion supports the palace
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core motif is combat with a dragon; the companion supporting the
+    palace is likely episode-specific detail.
+  cautions: Could map secondarily to divine_warrior if the battle establishes order
+    or defeats a chaos monster; preserve palace-support detail as evidence note.
+  suggested_aliases:
+  - dragon_combat_with_companion_aid
+  - dragon_battle_with_structural_support_by_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dragon-guardian-of-golden-apples
+  motif_id: dragon_guardian_of_golden_apples
+  label: Dragon guardian of golden apples
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: serpent_guardian
+  suggested_group_label: Serpent and Serpent Guardian
+  relationship: child
+  confidence: high
+  rationale: A dragon guarding sacred or precious fruit matches the serpent/dragon
+    guardian of treasure or forbidden objects.
+  cautions: Golden apples may also support sacred_treasures or sacred_substance depending
+    on whether the focus is the object or the guardian.
+  suggested_aliases:
+  - dragon_guardian_of_sacred_fruit
+  - serpent_guardian_of_golden_apples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dragon-like-sage-manifestation
+  motif_id: dragon_like_sage_manifestation
+  label: dragon-like sage manifestation
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a sage's revealed form, metaphorical likeness,
+    or manifestation of sacred power.
+  cautions: Needs passage evidence to distinguish shapeshifter, theophany, sacred_knowledge,
+    or symbolic honorific language.
+  suggested_aliases:
+  - sage_manifesting_like_a_dragon
+  - dragon_form_sage_manifestation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dragon-sentinel-guarding-precious-treasures
+  motif_id: dragon_sentinel_guarding_precious_treasures
+  label: Dragon sentinel guarding precious treasures
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: serpent_guardian
+  suggested_group_label: Serpent and Serpent Guardian
+  relationship: child
+  confidence: high
+  rationale: A dragon sentinel guarding treasure is a classic guardian-at-threshold
+    pattern within the serpent/dragon guardian complex.
+  cautions: If the passage emphasizes the power object more than the guardian, sacred_treasures
+    may be an additional mapping.
+  suggested_aliases:
+  - dragon_treasure_guardian
+  - serpent_guardian_of_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dragon-slaying
+  motif_id: dragon_slaying
+  label: dragon-slaying
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: child
+  confidence: high
+  rationale: Dragon-slaying is combat against a chaos or monster adversary, often
+    establishing or maintaining order.
+  cautions: Use sacred_combat if the passage is ordinary heroic combat rather than
+    cosmic or divine order-making.
+  suggested_aliases:
+  - dragon_slayer
+  - combat_with_dragon
+  - chaos_dragon_slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dragon-teeth-sown-to-produce-armed-men
+  motif_id: dragon_teeth_sown_to_produce_armed_men
+  label: dragon teeth sown to produce armed men
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines dragon body remains, sowing, miraculous generation,
+    and armed combatants.
+  cautions: Could fit sacred_combat, cosmic_origin, sacred_substance, or dragon/serpent
+    symbolism depending on narrative function; avoid flattening the generative detail
+    into combat alone.
+  suggested_aliases:
+  - sown_dragon_teeth_generate_warriors
+  - armed_men_spring_from_dragon_teeth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dragon-victory-before-entry-into-another-household
+  motif_id: dragon_victory_before_entry_into_another_household
+  label: Dragon victory before entry into another household
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The reusable element is victory over a dragon; the household-entry sequence
+    appears contextual.
+  cautions: If the episode marks marriage, initiation, or social incorporation, sacred_love,
+    initiation, or hero_journey may be relevant as secondary context.
+  suggested_aliases:
+  - dragon_victory_before_household_entry
+  - dragon_defeat_precedes_social_entry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.draining-water-to-capture-an-aquatic-animal
+  motif_id: draining_water_to_capture_an_aquatic_animal
+  label: Draining water to capture an aquatic animal
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a capture tactic involving water and an animal, but
+    the symbolic or narrative function is unclear.
+  cautions: May be trickster strategy, animal-hunt episode, sacred waters manipulation,
+    or a passage-specific detail; source context is needed, especially for Indigenous
+    tradition handling.
+  suggested_aliases:
+  - water_drained_to_capture_aquatic_animal
+  - aquatic_animal_captured_by_draining_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several dragon labels can be handled by existing serpent_guardian, sacred_combat,
+  and divine_warrior groups; avoid creating a separate dragon group unless many labels
+  require dragon-specific cultural functions not covered by serpent/guardian or combat
+  groups.
+- Daoist dragon-sage labels need source review because dragon language may be metaphorical,
+  cosmological, transformational, or honorific rather than a narrative animal motif.
+- Single-occurrence, episode-specific labels should preserve granular evidence but
+  usually map to broader groups for Pattern Explorer queries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    dragon-sage and Indigenous animal-capture items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2147
+  input_sha256: 5f76ed40dbb761bf1f668cceac195026c47e390d5953728dcf065936f8e4aa35
+

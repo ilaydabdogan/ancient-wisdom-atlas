@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2793
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.refused-war-boon
+  motif_id: refused_war_boon
+  label: refused war boon
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve a boon, martial refusal, vow, or divine-human exchange,
+    but the function is unclear from the label alone.
+  cautions: Single occurrence; source context needed to distinguish sacred_exchange,
+    divine_warrior, sacred_law, or a passage-specific episode.
+  suggested_aliases:
+  - refusal_of_martial_boon
+  - war_boon_refused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regenerative-elder-defeats-monster
+  motif_id: regenerative_elder_defeats_monster
+  label: Regenerative elder defeats monster
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A powerful elder defeating a monster fits sacred combat or monster-slaying
+    as order-restoring conflict.
+  cautions: The regenerative aspect may also relate to death_and_transformation; preserve
+    elder/regeneration details as evidence until recurrence is shown.
+  suggested_aliases:
+  - regenerating_elder_defeats_monster
+  - elder_monster_slayer_with_regenerative_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-hero-overshadowed-by-dominant-heroic-tradition
+  motif_id: regional_hero_overshadowed_by_dominant_heroic_tradition
+  label: Regional hero overshadowed by dominant heroic tradition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes comparative tradition history or scholarly framing,
+    not a narrative motif in a passage.
+  cautions: Preserve as provenance or reception note if useful; do not use as evidence
+    for motif comparison or transmission.
+  suggested_aliases:
+  - regional_hero_overshadowed_by_later_tradition
+  - minor_regional_hero_in_dominant_heroic_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-trading-and-war-path-connecting-tribal-territories
+  motif_id: regional_trading_and_war_path_connecting_tribal_territories
+  label: regional trading and war path connecting tribal territories
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: May describe a meaningful route or boundary-crossing path, but it may
+    also be geographic context rather than motif.
+  cautions: Single occurrence; avoid mapping to hero_journey or sacred_combat unless
+    the path functions narratively as ordeal, exchange, war route, or sacred geography.
+  suggested_aliases:
+  - trade_and_war_path_between_tribal_territories
+  - regional_path_connecting_trade_and_warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-feud-violence-by-compensation-limit
+  motif_id: regulated_feud_violence_by_compensation_limit
+  label: regulated feud violence by compensation limit
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Limiting feud violence through compensation is a law-and-social-order
+    pattern regulating retaliation.
+  cautions: Could also relate to covenant or sacred_combat depending on whether the
+    passage emphasizes legal settlement, oath bonds, or feud warfare.
+  suggested_aliases:
+  - feud_limited_by_compensation
+  - compensation_regulates_vengeance
+  - blood_compensation_limits_retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-separation-to-prevent-violence-among-factions
+  motif_id: regulated_separation_to_prevent_violence_among_factions
+  label: Regulated separation to prevent violence among factions
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rule separating factions to prevent violence fits sacred or ethical
+    regulation of social order.
+  cautions: May be monastic discipline or passage-specific conflict management rather
+    than a durable mythic motif; review source context.
+  suggested_aliases:
+  - separation_rule_prevents_factional_violence
+  - regulated_factional_separation
+  - disciplinary_separation_to_avert_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-wrestling-as-strength-test
+  motif_id: regulated_wrestling_as_strength_test
+  label: regulated wrestling as strength test
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A regulated wrestling contest used to test strength functions as an ordeal
+    or status-testing trial.
+  cautions: If the contest is chiefly martial, sacred_combat may be a secondary fit;
+    if merely ethnographic sport detail, avoid broad indexing.
+  suggested_aliases:
+  - wrestling_as_strength_test
+  - ritual_wrestling_strength_trial
+  - regulated_wrestling_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-reconciliation-before-battle
+  motif_id: rejected_reconciliation_before_battle
+  label: rejected reconciliation before battle
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A failed peace or reconciliation offer before battle is a conflict-escalation
+    pattern within sacred or heroic combat.
+  cautions: Could map to covenant if the emphasis is broken kinship, treaty, or oath
+    rather than battle sequence.
+  suggested_aliases:
+  - reconciliation_refused_before_battle
+  - failed_reconciliation_before_combat
+  - peace_offer_rejected_before_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-suitor-becomes-enemy
+  motif_id: rejected_suitor_becomes_enemy
+  label: rejected suitor becomes enemy
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif turns failed courtship or marriage desire into enmity, fitting
+    love as a force that drives conflict.
+  cautions: If the passage emphasizes war retaliation more than courtship, sacred_combat
+    may be a secondary mapping.
+  suggested_aliases:
+  - spurned_suitor_becomes_enemy
+  - rejected_courtship_turns_to_hostility
+  - failed_suitor_as_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-suitor-becomes-hereditary-predator-or-enemy
+  motif_id: rejected_suitor_becomes_hereditary_predator_or_enemy
+  label: Rejected suitor becomes hereditary predator or enemy
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a specific variant where rejected courtship creates enduring
+    predatory or enemy relations.
+  cautions: Hereditary predator language may indicate animal etiology or origin of
+    species enmity; review whether cosmic_origin or shapeshifter should be secondary.
+  suggested_aliases:
+  - spurned_suitor_becomes_hereditary_enemy
+  - rejected_courtship_creates_hereditary_predation
+  - rejected_suitor_as_ancestral_predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several single-occurrence labels in this batch may be contextual conflict details
+  rather than durable motifs; source evidence should guide final placement.
+- For courtship-to-enmity labels, preserve whether the passage emphasizes love, war,
+  animal etiology, or hereditary social relations.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft placements generated for conflict/ordeal batch; human review recommended
+    for low-confidence contextual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2793
+  input_sha256: dd94456eceae7fdfe8327463158cd185a2fa47847092955db1c4963d10e2139f
+

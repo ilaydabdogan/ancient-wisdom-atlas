@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0471
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.celestial-body-as-journeying-living-god
+  motif_id: celestial_body_as_journeying_living_god
+  label: celestial body as journeying living god
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A living celestial body that journeys likely encodes cyclical sacred
+    time or solar/lunar movement rather than an ordinary quest.
+  cautions: If the passage emphasizes divine manifestation or solar divinity more
+    than cyclical motion, theophany, supreme_ruler, or sacred_fire may be better secondary
+    mappings.
+  suggested_aliases:
+  - journeying_celestial_deity
+  - celestial_body_as_living_deity
+  - solar_or_celestial_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-body-worship
+  motif_id: celestial_body_worship
+  label: Celestial-body worship
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a religious practice but does not indicate whether the
+    function is sacred time, theophany, sacred fire/light, or cosmic sovereignty.
+  cautions: Single occurrence and culturally specific practice; review source evidence
+    before normalizing as motif rather than ethnographic classification.
+  suggested_aliases:
+  - worship_of_celestial_bodies
+  - sun_moon_or_star_worship
+  - celestial_veneration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-figure-in-domestic-kinship-setting
+  motif_id: celestial_figure_in_domestic_kinship_setting
+  label: Celestial figure in domestic kinship setting
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too contextual to tell whether the motif concerns divine
+    kinship, sacred marriage, celestial embodiment, or a local narrative scene.
+  cautions: Do not collapse domestic kinship with celestial symbolism without passage
+    evidence; may be an over-specific generated scene label.
+  suggested_aliases:
+  - celestial_kinship_figure
+  - celestial_being_in_family_setting
+  - domestic_kinship_of_celestial_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-guardianship-of-sea-regions
+  motif_id: celestial_guardianship_of_sea_regions
+  label: Celestial guardianship of sea regions
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A celestial power guarding sea regions functions as divine protection
+    or tutelary oversight of a domain.
+  cautions: If the emphasis is cosmological ordering of waters rather than active
+    guardianship, sacred_waters or cosmic_origin may be relevant secondary groups.
+  suggested_aliases:
+  - celestial_guardian_of_waters
+  - divine_guardianship_of_sea_regions
+  - sea_region_tutelary_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-guide-for-night-travel
+  motif_id: celestial_guide_for_night_travel
+  label: celestial guide for night travel
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The normalization already treats moon or celestial guides as witnesses/guides
+    within dream_and_vision; this label adds a travel-guidance function.
+  cautions: If the passage centers on an actual journey ordeal, hero_journey may be
+    a secondary mapping; if the celestial body is a deity intervening, divine_intervention
+    may fit.
+  suggested_aliases:
+  - celestial_guide_for_travelers
+  - star_or_moon_guidance_at_night
+  - night_travel_guided_by_celestial_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-hymn-or-worship-topics
+  motif_id: celestial_hymn_or_worship_topics
+  label: Celestial hymn or worship topics
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording sounds like a topical or editorial description of hymn contents,
+    not a reusable narrative or symbolic motif.
+  cautions: If the passage contains cosmic praise or performative sacred song, preserve
+    that evidence under theophany, sacred_song, or sacred_exchange instead of this
+    generated label.
+  suggested_aliases:
+  - celestial_worship_topics
+  - hymn_topics_about_celestial_beings
+  - celestial_hymn_subjects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-road-to-the-gods-residence
+  motif_id: celestial_road_to_the_gods_residence
+  label: Celestial road to the gods' residence
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: ascent
+  suggested_group_label: Ascent and Heavenly Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: A road leading to the gods' dwelling is an upward or heavenly journey
+    path toward divine realms.
+  cautions: If used as a postmortem route, afterlife_passage may also apply; if it
+    marks a cosmic connector, axis_mundi may be secondary.
+  suggested_aliases:
+  - road_to_the_gods
+  - celestial_path_to_divine_residence
+  - heavenly_road_to_gods_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-spouse-relationship
+  motif_id: celestial_spouse_relationship
+  label: celestial spouse relationship
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A spouse relationship with a celestial figure fits sacred love or divine-human
+    relational union when the relationship drives the motif.
+  cautions: If the passage emphasizes cosmic legitimacy or fertility, sacred_marriage
+    or royal_legitimacy may be relevant; if merely a character description, review
+    as over-specific.
+  suggested_aliases:
+  - celestial_spouse
+  - marriage_to_celestial_being
+  - celestial_marital_relationship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-worship-with-divine-mediators
+  motif_id: celestial_worship_with_divine_mediators
+  label: Celestial worship with divine mediators
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a theological claim about mediated worship rather
+    than a narrative motif, and the intended function is unclear.
+  cautions: Culturally sensitive and potentially polemical; review source context
+    before mapping to covenant, divine_intervention, sacred_law, or exclusion.
+  suggested_aliases:
+  - mediated_celestial_worship
+  - worship_through_divine_mediators
+  - celestial_veneration_with_intermediaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.censorship-and-expulsion-of-poets-from-the-city
+  motif_id: censorship_and_expulsion_of_poets_from_the_city
+  label: censorship and expulsion of poets from the city
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a philosophical or civic-literary policy detail about poets
+    rather than a mythic motif for pattern queries.
+  cautions: If the passage frames poetry as dangerous sacred speech, preserve evidence
+    under storytelling_as_power or sacred_law; otherwise exclude as contextual commentary.
+  suggested_aliases:
+  - poets_expelled_from_city
+  - civic_censorship_of_poets
+  - expulsion_of_poets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items were bucketed under journey but are primarily celestial, ritual, or
+  textual labels; placements distinguish travel function from broad celestial symbolism.
+- Single-occurrence culturally specific worship labels should be reviewed against
+  source passages before becoming query motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed especially
+    for culturally sensitive worship and kinship labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0471
+  input_sha256: de4a7d10d0d0a5f64fb2e5eaa20b81fb8179ce7a9443c69f91a56a195314af8f
+

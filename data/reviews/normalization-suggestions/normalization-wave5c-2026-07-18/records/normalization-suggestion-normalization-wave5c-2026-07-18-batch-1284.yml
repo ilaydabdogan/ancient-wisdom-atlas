@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1284
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cremation-song-with-fire-circling-dance
+  motif_id: cremation_song_with_fire_circling_dance
+  label: Cremation song with fire-circling dance
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: low
+  rationale: Cremation song and dance suggest mortuary ritual care for the dead, but
+    the label is culturally specific and source-dependent.
+  cautions: Single occurrence; could also involve sacred_fire, lament_and_mourning,
+    or ritual performance rather than ancestor rites. Review cultural context before
+    indexing.
+  suggested_aliases:
+  - cremation_song
+  - fire_circling_cremation_dance
+  - mortuary_song_and_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crop-raiding-animals-addressed-through-human-moral-language
+  motif_id: crop_raiding_animals_addressed_through_human_moral_language
+  label: crop-raiding animals addressed through human moral language
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: The label frames animal behavior in human moral/legal language, suggesting
+    moral order extended to nonhuman beings.
+  cautions: May be a fable, rhetorical passage detail, animal-trickster episode, or
+    ethnographic interpretation rather than a stable motif. Source evidence needed.
+  suggested_aliases:
+  - animals_addressed_as_moral_agents
+  - crop_raiding_animals_under_moral_rebuke
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-island-resemblance-of-geometric-ornament
+  motif_id: cross_island_resemblance_of_geometric_ornament
+  label: cross-island resemblance of geometric ornament
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes comparative resemblance in ornament across islands, not
+    a narrative or symbolic motif.
+  cautions: Do not use as evidence of contact or transmission in motif queries; preserve
+    only as material-culture or scholarly comparison note if needed.
+  suggested_aliases:
+  - geometric_ornament_resemblance
+  - cross_island_ornament_comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cruel-stepmother-byword
+  motif_id: cruel_stepmother_byword
+  label: cruel stepmother byword
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: narrower_than
+  confidence: medium
+  rationale: A cruel stepmother byword fits the existing persecuting stepmother complex,
+    though it may be proverbial rather than narrative.
+  cautions: If the source only notes a lexical byword without a persecuted child episode,
+    treat as a proverb or evidence note rather than a full motif.
+  suggested_aliases:
+  - wicked_stepmother_byword
+  - cruel_stepmother_proverb
+  - persecuting_stepmother_byword
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crying-song-as-message-to-lost-friends
+  motif_id: crying_song_as_message_to_lost_friends
+  label: crying song as message to lost friends
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: A crying song addressed to lost friends functions as lament and communicative
+    mourning.
+  cautions: Could also belong to sacred_song or storytelling_as_power if the song
+    has magical message-sending force rather than grief expression. Single occurrence.
+  suggested_aliases:
+  - crying_song_to_lost_friends
+  - lament_song_as_message
+  - mourning_song_message
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cult-transfer-by-prophetic-song
+  motif_id: cult_transfer_by_prophetic_song
+  label: Cult transfer by prophetic song
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: low
+  rationale: A prophetic song guiding cult transfer involves sacred utterance or prophecy
+    directing ritual relocation.
+  cautions: Could fit prophecy_divination, curse_blessing_speech, sacred_song, or
+    divine_intervention depending on whether the song is oracle, hymn, command, or
+    ritual act. Needs source review.
+  suggested_aliases:
+  - prophetic_song_directs_cult_transfer
+  - oracular_song_and_cult_relocation
+  - cult_relocation_by_sacred_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cultivated-word-tree-bearing-the-name-as-fruit
+  motif_id: cultivated_word_tree_bearing_the_name_as_fruit
+  label: Cultivated Word-tree bearing the Name as fruit
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The Word-tree and divine Name as fruit are symbolic images of cultivated
+    sacred knowledge or transformative devotion.
+  cautions: May also relate to sacred_tree_axis if the tree has cosmological axis
+    function, or mystical_quest if the focus is interior practice. Preserve Sikh theological
+    specificity.
+  suggested_aliases:
+  - word_tree_bearing_the_name
+  - divine_name_as_fruit
+  - cultivation_of_the_word_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cultural-affinity-inferred-through-shared-textiles-and-ornaments
+  motif_id: cultural_affinity_inferred_through_shared_textiles_and_ornaments
+  label: Cultural affinity inferred through shared textiles and ornaments
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an interpretive claim about cultural affinity from material similarities,
+    not a motif within a narrative or ritual pattern.
+  cautions: Avoid treating similarity of textiles or ornaments as transmission evidence
+    in motif indexing; preserve only as scholarly/material-culture note if useful.
+  suggested_aliases:
+  - shared_textiles_as_cultural_affinity_evidence
+  - ornament_similarity_as_affinity_claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cultural-intermediary-through-language-trade-and-law
+  motif_id: cultural_intermediary_through_language_trade_and_law
+  label: Cultural intermediary through language, trade, and law
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: role_variant
+  confidence: low
+  rationale: A figure mediating language, trade, and law may function as a culture
+    hero or founder of social order.
+  cautions: Could be a historical/social role description rather than mythic motif.
+    If no supernatural or narrative founding function is present, exclude from pattern
+    queries.
+  suggested_aliases:
+  - cultural_broker_through_language_trade_and_law
+  - law_language_trade_intermediary
+  - culture_mediator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cultural-renewal-through-language-print-and-schooling
+  motif_id: cultural_renewal_through_language_print_and_schooling
+  label: cultural renewal through language, print, and schooling
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: low
+  rationale: Language, print, and schooling as renewal center on knowledge transmission
+    and cultural restoration.
+  cautions: Likely modern historical or commentary material unless framed mythically
+    or ritually. Could be excluded from motif queries if it is not a narrative motif.
+  suggested_aliases:
+  - cultural_renewal_through_education
+  - language_print_schooling_as_renewal
+  - knowledge_transmission_restores_culture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be scholarly comparison, historical-cultural
+  commentary, or single-occurrence ethnographic details rather than reusable mythic
+  motifs.
+- 'Song-related labels should be reviewed for function: lament, sacred knowledge transmission,
+  prophecy, or performative speech should not be merged solely because all involve
+  song.'
+- No transmission or cultural-contact inference is made by these suggested placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review especially needed
+    for culturally specific Northwest Coast, Zulu, Sikh, and Native American Southeast
+    items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1284
+  input_sha256: 5eb042bd873404d092de5975554b982b28079aa3a6e52b94f807adedade7e460
+

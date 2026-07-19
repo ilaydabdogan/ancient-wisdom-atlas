@@ -1,0 +1,311 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1077
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-reluctance-before-bridal-transfer
+  motif_id: ritual_reluctance_before_bridal_transfer
+  label: Ritual reluctance before bridal transfer
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a marriage-transfer rite, bride-choice convention, or passage-specific
+    ethnographic detail; existing sacred_love children only partly cover bridal scenes.
+  cautions: Single occurrence and culturally specific ritual context; verify whether
+    reluctance is symbolic ritual behavior, social custom, or narrative plot detail.
+  suggested_aliases:
+  - bridal_transfer_reluctance
+  - ritualized_bride_reluctance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-remedy-or-prophylactic-charm-following-divination
+  motif_id: ritual_remedy_or_prophylactic_charm_following_divination
+  label: ritual remedy or prophylactic charm following divination
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prophylactic charm prescribed after divination fits protective ritual
+    regulation and apotropaic practice already folded under sacred_law.
+  cautions: If the focus is the divinatory method or omen interpretation rather than
+    the remedy, prophecy_divination should be a secondary or alternate mapping.
+  suggested_aliases:
+  - prophylactic_charm_after_divination
+  - divination_prescribed_ritual_remedy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-removal-and-cleansing-of-consecrated-substances
+  motif_id: ritual_removal_and_cleansing_of_consecrated_substances
+  label: ritual removal and cleansing of consecrated substances
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Regulated handling and cleansing of consecrated substances is a purity-law
+    and sacred-contagion pattern.
+  cautions: Could overlap with sacrifice or sacred_substance if the substances are
+    offerings or ritually consumed; preserve Zoroastrian purity context in evidence
+    notes.
+  suggested_aliases:
+  - cleansing_of_consecrated_substances
+  - ritual_handling_of_sacred_substances
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-removal-from-a-sacred-precinct
+  motif_id: ritual_removal_from_a_sacred_precinct
+  label: Ritual removal from a sacred precinct
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Removal from sacred space reflects ritual boundary regulation and purity
+    order, which sacred_law already covers.
+  cautions: If the removal is an expulsion of pollution or evil, sacrifice/ritual_expulsion
+    may be relevant; if it is merely site administration, consider exclusion.
+  suggested_aliases:
+  - sacred_precinct_removal
+  - ritual_exclusion_from_sacred_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-removal-of-danger-through-song
+  motif_id: ritual_removal_of_danger_through_song
+  label: ritual removal of danger through song
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The operative motif is song or sound functioning as ritual power to remove
+    danger, fitting enchanting_music and sound power.
+  cautions: If the passage emphasizes a healing or purification rite more than song-power,
+    sacred_law or sacrifice may be better secondary mappings; review cultural specificity
+    carefully.
+  suggested_aliases:
+  - danger_removal_by_ritual_song
+  - protective_song_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacrifice
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-removal-of-harmful-influence-by-transferred-offerings
+  motif_id: ritual_removal_of_harmful_influence_by_transferred_offerings
+  label: Ritual removal of harmful influence by transferred offerings
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Transfer of harmful influence through offerings belongs to the sacrifice
+    complex of scapegoat, ritual transfer, and expulsion.
+  cautions: May also index under sacred_exchange if reciprocity with sacred powers
+    is emphasized; preserve the specific transferred-offering mechanism.
+  suggested_aliases:
+  - harm_transfer_by_offering
+  - transferred_offerings_remove_harm
+  - ritual_transfer_of_harmful_influence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-removal-of-impurity-by-water-and-discarded-clothing
+  motif_id: ritual_removal_of_impurity_by_water_and_discarded_clothing
+  label: ritual removal of impurity by water and discarded clothing
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Water is the main medium of purification and transformation, with discarded
+    clothing as supporting ritual detail.
+  cautions: Comparative label and clothing detail may be over-specific; sacred_law
+    may be the better parent if the passage is primarily a purity rule.
+  suggested_aliases:
+  - water_purification_with_discarded_clothing
+  - ritual_impurity_removed_by_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-renewal-of-social-bonds-after-interruption
+  motif_id: ritual_renewal_of_social_bonds_after_interruption
+  label: ritual renewal of social bonds after interruption
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual restoration of social bonds fits sacred_exchange as reciprocity
+    and relationship repair.
+  cautions: If the interruption is a broken vow or law, covenant may be better; if
+    it is ethnographic social custom without sacred framing, review before indexing.
+  suggested_aliases:
+  - ritual_repair_of_social_bonds
+  - renewal_of_social_bonds_after_interruption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-repetition-in-multiples-of-three
+  motif_id: ritual_repetition_in_multiples_of_three
+  label: ritual repetition in multiples of three
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Numerical repetition is a ritual-form detail, but the label lacks the
+    ritual function needed for reliable group placement.
+  cautions: May be too formal or passage-specific for pattern queries unless number
+    symbolism recurs across sources; consider excluding if it is only procedural detail.
+  suggested_aliases:
+  - ritual_triple_repetition
+  - ritual_repetition_by_threes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - sacred_law
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-repetition-in-sets-of-four
+  motif_id: ritual_repetition_in_sets_of_four
+  label: ritual repetition in sets of four
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Repetition in fours may encode cosmology or ritual order, but the label
+    gives only a formal number pattern.
+  cautions: Culturally sensitive number symbolism needs source review; exclude or
+    keep as evidence detail if no recurring symbolic function is shown.
+  suggested_aliases:
+  - ritual_quadruple_repetition
+  - ritual_repetition_by_fours
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - sacred_law
+    - duality
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several labels are single-occurrence ritual procedure
+  details and should be checked against passage evidence before broad indexing.
+- For ritual-removal labels, distinguish protective/purity law, sacrificial transfer
+  or expulsion, sacred water purification, and sound/song power rather than merging
+  all under sacrifice.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Wave 5c batch 1077 reviewed for provisional normalization placement.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1077
+  input_sha256: d81f916c25860f1aa7521e61457f312c772d78ae5c46d07047944d9520445e08
+

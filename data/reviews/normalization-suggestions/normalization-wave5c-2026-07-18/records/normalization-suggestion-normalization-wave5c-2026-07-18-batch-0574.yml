@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0574
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.passage-through-a-bleak-wet-wasteland
+  motif_id: passage_through_a_bleak_wet_wasteland
+  label: Passage through a bleak wet wasteland
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: A difficult landscape passage may be a journey ordeal, but the label
+    is highly scene-specific and lacks evidence of transformation, exile, or return.
+  cautions: Could alternatively be an otherworld, descent, sacred waters, or local
+    environmental passage detail; single occurrence should not be over-normalized.
+  suggested_aliases:
+  - wet_wasteland_passage
+  - bleak_wet_landscape_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passage-through-an-uncharted-labyrinth
+  motif_id: passage_through_an_uncharted_labyrinth
+  label: passage through an uncharted labyrinth
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A labyrinthine passage is a disorienting threshold ordeal and aligns
+    with the existing labyrinth/initiation complex.
+  cautions: Confirm whether the labyrinth functions as an ordeal or sacred threshold
+    rather than merely difficult travel geography.
+  suggested_aliases:
+  - labyrinth_passage
+  - uncharted_labyrinth_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passage-through-moving-sky-barrier
+  motif_id: passage_through_moving_sky_barrier
+  label: Passage through moving sky barrier
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A moving sky barrier functions as a dangerous threshold between realms
+    that must be crossed at the right moment or by special means.
+  cautions: If the emphasis is ascent into the sky world or cosmic structure rather
+    than guarded passage, axis_mundi or ascent may be better secondary mappings.
+  suggested_aliases:
+  - moving_sky_door
+  - sky_barrier_passage
+  - closing_sky_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passage-under-disguised-mountains
+  motif_id: passage_under_disguised_mountains
+  label: passage under disguised mountains
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: Mountain passage may involve sacred geography or a threshold, but the
+    meaning of 'disguised mountains' is unclear from the label alone.
+  cautions: Could be a local landscape episode, trickster deception, underworld passage,
+    or cosmic mountain motif; needs source evidence before mapping.
+  suggested_aliases:
+  - hidden_mountain_passage
+  - disguised_mountain_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patron-offers-hospitality-and-favor-before-departure
+  motif_id: patron_offers_hospitality_and_favor_before_departure
+  label: patron offers hospitality and favor before departure
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hospitality and favor before departure center on reciprocal support and
+    obligation more than the departure itself.
+  cautions: If the patron is a sacred stranger or the hospitality tests the host,
+    hospitality_test_stranger_guest may be a closer secondary group.
+  suggested_aliases:
+  - hospitality_before_departure
+  - patron_favor_before_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.payment-opens-passage-to-refuge
+  motif_id: payment_opens_passage_to_refuge
+  label: Payment opens passage to refuge
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A payment that enables safe passage or refuge is an exchange creating
+    access and protection.
+  cautions: If the payment is explicitly postmortem, ferry-like, or funerary, afterlife_passage
+    may be better; if merely plot logistics, treat as contextual detail.
+  suggested_aliases:
+  - paid_passage_to_refuge
+  - payment_for_safe_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-diplomacy-enacted-with-wampum-pipe-tobacco-and-friendship-language
+  motif_id: peace_diplomacy_enacted_with_wampum_pipe_tobacco_and_friendship_language
+  label: peace diplomacy enacted with wampum, pipe, tobacco, and friendship language
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritualized peace diplomacy creates a binding social relation, broadly
+    fitting covenant or sacred bond.
+  cautions: Culturally specific diplomatic materials and protocols should not be flattened;
+    human review should decide whether to preserve as a distinct Indigenous diplomacy
+    motif or map under covenant/sacred_exchange.
+  suggested_aliases:
+  - wampum_pipe_tobacco_peace_diplomacy
+  - ritualized_peace_diplomacy
+  - friendship_language_peace_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-expressed-through-calm-travel-and-sleep-metaphors
+  motif_id: peace_expressed_through_calm_travel_and_sleep_metaphors
+  label: peace expressed through calm travel and sleep metaphors
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes metaphorical expression rather than a narrative motif
+    or recurring symbolic action.
+  cautions: Preserve as passage rhetoric if needed; if calm travel or sleep has ritual
+    or afterlife function in the source, review separately.
+  suggested_aliases:
+  - peace_as_calm_travel
+  - peace_as_sleep_metaphor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peaceful-prosperous-golden-age-under-shared-divine-kingship
+  motif_id: peaceful_prosperous_golden_age_under_shared_divine_kingship
+  label: peaceful prosperous Golden Age under shared divine kingship
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: narrower_than
+  confidence: high
+  rationale: A peaceful prosperous Golden Age is an existing world-ages motif, with
+    divine kingship as a local governance detail.
+  cautions: Royal_legitimacy or supreme_ruler may be useful secondary mappings if
+    the passage emphasizes kingship more than age-sequence cosmology.
+  suggested_aliases:
+  - golden_age_under_divine_kingship
+  - peaceful_prosperous_golden_age
+  - divine_kingship_golden_age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peaceful-request-followed-by-attack
+  motif_id: peaceful_request_followed_by_attack
+  label: peaceful request followed by attack
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: A peaceful request followed by violence may involve violated trust or
+    deceptive diplomacy, but the agent and moral function are unclear.
+  cautions: Could be sacred combat, betrayal, failed negotiation, or a simple plot
+    sequence; source context is needed before indexing.
+  suggested_aliases:
+  - peace_request_followed_by_attack
+  - deceptive_peace_request
+  - failed_peace_request_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence journey-scene details; avoid promoting local
+  landscape or diplomatic details without recurrence or source evidence.
+- For culturally specific Indigenous diplomatic objects and protocols, preserve local
+  terminology and seek human review rather than flattening into generic covenant language.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placement suggestions generated for taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0574
+  input_sha256: 470a4b569c74dec2e2c339ad1f120fe262aea6acc5dd60a0e8107b2108b34841
+

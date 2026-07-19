@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0170
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fady-prohibition-with-death-penalty
+  motif_id: fady_prohibition_with_death_penalty
+  label: fady prohibition with death penalty
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A fady is a taboo/prohibition, and the death penalty frames it as enforceable
+    sacred or social law.
+  cautions: Culturally specific Malagasy fady should be reviewed for local meaning;
+    may also involve divine_judgment if death is sacred punishment rather than human
+    sanction.
+  suggested_aliases:
+  - taboo_prohibition_with_death_penalty
+  - sacred_taboo_enforced_by_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-apocalyptic-prophecy-and-return-home
+  motif_id: failed_apocalyptic_prophecy_and_return_home
+  label: failed apocalyptic prophecy and return home
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines prophecy, apocalypse, failure, and homecoming; the
+    primary motif depends on the source episode.
+  cautions: Could be prophecy_divination, divine_judgment, return, or a contextual
+    historical/religious-movement artifact. Avoid indexing as catastrophe renewal
+    unless actual world destruction/renewal is narrated.
+  suggested_aliases:
+  - unfulfilled_apocalyptic_prophecy
+  - return_home_after_failed_prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-claim-to-spiritual-leadership
+  motif_id: failed_claim_to_spiritual_leadership
+  label: failed claim to spiritual leadership
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: low
+  rationale: A failed claim to spiritual authority may function as overreach followed
+    by humbling or exposure.
+  cautions: May be a sectarian, biographical, or polemical detail rather than a reusable
+    motif; if the focus is legitimate authority, royal_legitimacy or sacred_law may
+    be relevant.
+  suggested_aliases:
+  - false_spiritual_authority_claim
+  - failed_spiritual_leadership_claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-death-frightening-with-a-human-skull-in-water
+  motif_id: failed_death_frightening_with_a_human_skull_in_water
+  label: Failed death-frightening with a human skull in water
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a highly episode-specific failed frightening trick involving
+    a skull and water rather than a stable broad motif.
+  cautions: If comparable ghost/death-frightening tests recur, reconsider under initiation,
+    trickster, or threshold_guardian; preserve skull-in-water as evidence detail only.
+  suggested_aliases:
+  - failed_skull_frightening_trick
+  - failed_death_frightening_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-ghost-frightening-test
+  motif_id: failed_ghost_frightening_test
+  label: Failed ghost-frightening test
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: low
+  rationale: A frightening test involving a ghost can function as an ordeal testing
+    courage or status.
+  cautions: If the ghost is an active dead figure, restless_dead_haunting_vengeance
+    may be secondary; if it is a trick, trickster may fit better. Source context is
+    needed.
+  suggested_aliases:
+  - ghost_frightening_test
+  - failed_fear_test_with_ghost
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-supplication-before-unavoidable-death
+  motif_id: failed_supplication_before_unavoidable_death
+  label: failed supplication before unavoidable death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key structure is a plea that cannot avert a death framed as unavoidable.
+  cautions: If the focus is refused mercy or ransom rather than fate, covenant may
+    be a secondary placement; verify whether inevitability is explicit.
+  suggested_aliases:
+  - supplication_fails_before_fated_death
+  - plea_cannot_avert_unavoidable_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failure-at-conditions-barring-access-to-the-dead
+  motif_id: failure_at_conditions_barring_access_to_the_dead
+  label: failure at conditions barring access to the dead
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Access to the dead is blocked by conditions at an underworld or death-realm
+    threshold.
+  cautions: Could map more narrowly to afterlife_passage if this is a formal postmortem
+    route, or threshold_guardian if a gatekeeper enforces the conditions.
+  suggested_aliases:
+  - conditions_barring_access_to_the_dead
+  - failed_access_to_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failure-of-a-magic-entrance-signals-death
+  motif_id: failure_of_a_magic_entrance_signals_death
+  label: failure of a magic entrance signals death
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A failed magical sign functions as an omen indicating death.
+  cautions: If the entrance is a threshold to an otherworld or afterlife, descent
+    or threshold_guardian may be better. The label is specific and needs source evidence.
+  suggested_aliases:
+  - failed_magic_entrance_as_death_omen
+  - death_signaled_by_failed_magic_entry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failure-to-meet-the-lord-before-death
+  motif_id: failure_to_meet_the_lord_before_death
+  label: Failure to meet the Lord before death
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns an unfulfilled spiritual encounter or union before
+    death, fitting the mystical quest path.
+  cautions: Respect Sikh theological context; if the passage is moral instruction
+    rather than narrative, sacred_knowledge or sacred_law may be secondary.
+  suggested_aliases:
+  - unfulfilled_meeting_with_the_lord_before_death
+  - failure_of_divine_encounter_before_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faith-as-justification-of-ancestral-witnesses
+  motif_id: faith_as_justification_of_ancestral_witnesses
+  label: Faith as justification of ancestral witnesses
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: low
+  rationale: The motif reads as a theological teaching about faith, exemplary ancestors,
+    and witness.
+  cautions: May be doctrinal commentary rather than a narrative motif; if actual ancestors
+    evaluate later conduct, divine_judgment may be relevant.
+  suggested_aliases:
+  - ancestral_witnesses_justified_by_faith
+  - faith_and_ancestral_witness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and contain failure/context markers;
+  review source passages before promoting granular aliases.
+- Do not treat apocalyptic, death, or afterlife wording alone as evidence for flood_and_renewal,
+  descent, or resurrection without narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific taboo, Sikh devotional
+    language, and Native American apocalyptic-prophecy context require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0170
+  input_sha256: 742087f1d4d352f926c6a69abc3885a259539e964b821908a18a4d258289465a
+

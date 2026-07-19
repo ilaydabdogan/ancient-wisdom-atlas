@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4053
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unarmed-supplication-for-peace
+  motif_id: unarmed_supplication_for_peace
+  label: unarmed supplication for peace
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: high
+  rationale: Closely matches existing covenant children and aliases around supplication
+    for peace, mercy, and ransom refusal.
+  cautions: If the scene is ordinary diplomacy rather than sacred/ritualized supplication,
+    keep only as contextual evidence.
+  suggested_aliases:
+  - supplication_for_peace_with_unarmed_hands
+  - unarmed_peace_supplication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unassigned-natural-places-with-common-access
+  motif_id: unassigned_natural_places_with_common_access
+  label: unassigned natural places with common access
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a normative rule about shared land or social order,
+    which may fit sacred_law if framed ethically or ritually.
+  cautions: May be legal commentary or social-policy detail rather than a mythic motif;
+    review passage evidence before indexing.
+  suggested_aliases:
+  - common_access_to_unassigned_natural_places
+  - shared_access_to_unclaimed_natural_places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unatonable-transgression
+  motif_id: unatonable_transgression
+  label: unatonable transgression
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: narrower_than
+  confidence: medium
+  rationale: An offense beyond atonement centers on moral reckoning, punishment, and
+    limits of ritual repair.
+  cautions: Could belong under sacred_law if the passage is primarily a purity/legal
+    classification; avoid assuming narrative judgment without evidence.
+  suggested_aliases:
+  - unatonable_sin
+  - irreparable_transgression
+  - transgression_beyond_atonement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unatoned-wrong-justifies-vengeance
+  motif_id: unatoned_wrong_justifies_vengeance
+  label: unatoned wrong justifies vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: An unresolved wrong requiring vengeance concerns repair of a violated
+    social bond and obligation.
+  cautions: If the passage emphasizes combat escalation or feud rather than moral
+    obligation, sacred_combat may be a secondary fit.
+  suggested_aliases:
+  - vengeance_for_unatoned_wrong
+  - unrepaired_wrong_demands_vengeance
+  - atonement_failure_justifies_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unauthorized-guest-expelled-from-a-feast
+  motif_id: unauthorized_guest_expelled_from_a_feast
+  label: Unauthorized guest expelled from a feast
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: A feast guest's acceptance or expulsion belongs to the hospitality and
+    guest-obligation field.
+  cautions: If the emphasis is exclusion from divine society or status hierarchy rather
+    than hospitality, royal_legitimacy or divine_judgment may be relevant.
+  suggested_aliases:
+  - uninvited_guest_expelled_from_feast
+  - unauthorized_feast_guest_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unauthorized-leap-across-a-guarded-barrier
+  motif_id: unauthorized_leap_across_a_guarded_barrier
+  label: unauthorized leap across a guarded barrier
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on crossing a guarded boundary, a threshold-guardian
+    function.
+  cautions: If no guardian figure is active and the episode is only trespass, sacred_law
+    or ordinary plot detail may be better.
+  suggested_aliases:
+  - forbidden_crossing_of_guarded_barrier
+  - unauthorized_crossing_of_guarded_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unauthorized-use-of-another-s-field-by-livestock
+  motif_id: unauthorized_use_of_another_s_field_by_livestock
+  label: unauthorized use of another's field by livestock
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe property regulation and liability, which
+    can fit sacred_law if embedded in divine or sacred legal order.
+  cautions: Likely a legal-code or passage-specific rule rather than a reusable motif;
+    exclude if it is merely statutory detail.
+  suggested_aliases:
+  - livestock_trespass_on_another_s_field
+  - unauthorized_grazing_in_another_s_field
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unavenged-outsider-as-target-for-killing-and-cannibal-feast
+  motif_id: unavenged_outsider_as_target_for_killing_and_cannibal_feast
+  label: Unavenged outsider as target for killing and cannibal feast
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines outsider status, vengeance logic, killing, and cannibal
+    feast, and cannot be safely placed from wording alone.
+  cautions: Culturally sensitive and potentially source-specific; review whether this
+    is ritual warfare, sacrifice, vengeance, taboo, or ethnographic commentary before
+    indexing.
+  suggested_aliases:
+  - unavenged_outsider_targeted_for_cannibal_feast
+  - outsider_without_avengers_as_feast_victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unbidden-guest-at-the-feast
+  motif_id: unbidden_guest_at_the_feast
+  label: unbidden guest at the feast
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: high
+  rationale: An unbidden feast guest directly concerns hospitality, guest status,
+    and the obligations of reception.
+  cautions: If the unbidden guest is a deity manifesting judgment, also consider divine_intervention
+    or divine_judgment as secondary mappings.
+  suggested_aliases:
+  - uninvited_guest_at_feast
+  - unbidden_feast_guest
+  - unexpected_guest_at_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unborn-future-savior-appears-at-the-appointed-time
+  motif_id: unborn_future_savior_appears_at_the_appointed_time
+  label: Unborn future savior appears at the appointed time
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A destined savior whose birth or appearance is appointed fits extraordinary
+    sacred birth and destiny-signaling child motifs.
+  cautions: If the focus is eschatological timing or world renewal rather than birth,
+    sacred_time or flood_and_renewal may be secondary; review Zoroastrian source context
+    carefully.
+  suggested_aliases:
+  - appointed_appearance_of_future_savior
+  - future_savior_born_at_appointed_time
+  - destined_savior_appears_in_due_time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several one-occurrence labels appear to be legal, ritual, or passage-specific details;
+  human review should confirm they recur as motifs before adding aliases.
+- Avoid treating social-law placements as evidence of mythic narrative function unless
+  the source passage frames the rule as sacred or cosmological.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4053
+  input_sha256: f897f28c9db2f118fd885214a2f11846f6d539ce617952abaefe2d96f2bd7770
+

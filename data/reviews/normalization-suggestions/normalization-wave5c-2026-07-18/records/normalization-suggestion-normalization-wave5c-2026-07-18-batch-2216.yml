@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2216
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mock-degradation-of-the-last-worker-or-animal-bearer
+  motif_id: mock_degradation_of_the_last_worker_or_animal_bearer
+  label: Mock degradation of the last worker or animal-bearer
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a ritualized or comic degradation practice, but its
+    narrative function is unclear from wording alone.
+  cautions: Could be fable humor, labor custom, animal-bearer treatment, or ethnographic
+    commentary; single occurrence needs source review.
+  suggested_aliases:
+  - mock_degradation_of_last_bearer
+  - degradation_of_last_worker_or_animal_bearer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mock-hunt-with-human-animal-quarry
+  motif_id: mock_hunt_with_human_animal_quarry
+  label: mock hunt with human animal quarry
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A mock hunt involving human-animal quarry may be ritual, game, transformation,
+    or social inversion rather than a stable animal motif.
+  cautions: Culturally specific and single occurrence; avoid mapping without evidence
+    that the human is transformed, disguised, or ritually identified as animal.
+  suggested_aliases:
+  - mock_hunt_with_human_animal_prey
+  - ritual_mock_hunt_with_human_quarry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_combat
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mocked-foolish-animal
+  motif_id: mocked_foolish_animal
+  label: mocked foolish animal
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A foolish animal being mocked fits fable-like trickster or animal-deception
+    material already grouped under trickster.
+  cautions: May be too generic as a standalone motif; preserve only if the mocking/deception
+    drives the episode.
+  suggested_aliases:
+  - foolish_animal_mocked
+  - mockery_of_foolish_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-killed-by-boiling-animal-fat
+  motif_id: monster_killed_by_boiling_animal_fat
+  label: Monster killed by boiling animal fat
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core function is monster defeat; the boiling animal fat is a specific
+    killing method better kept as evidence detail.
+  cautions: If the animal fat is ritually or magically significant, sacred_substance
+    or sacrifice may be relevant as secondary review context.
+  suggested_aliases:
+  - monster_slaying_by_boiling_fat
+  - monster_killed_with_boiling_fat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_substance
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-or-animal-deceived-by-branch-substitution
+  motif_id: monster_or_animal_deceived_by_branch_substitution
+  label: Monster or animal deceived by branch substitution
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: Deceiving a monster or animal through substitution is a trickster escape
+    or reversal pattern.
+  cautions: The branch detail is highly specific; do not promote unless similar substitution
+    devices recur.
+  suggested_aliases:
+  - branch_substitution_deceives_monster
+  - animal_deceived_by_substitute_branch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-slaying-with-magical-animal-mount-and-proof-trophies
+  motif_id: monster_slaying_with_magical_animal_mount_and_proof_trophies
+  label: monster slaying with magical animal mount and proof trophies
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Monster slaying and proof trophies fit heroic combat, with the magical
+    mount as supporting animal-helper detail.
+  cautions: Composite label spans magical animal mount, monster combat, and recognition
+    proof; source may warrant secondary mapping to sacred_treasures or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - monster_slaying_with_magical_mount
+  - monster_slaying_with_proof_trophies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_treasures
+    - recognition_tokens_hidden_identity
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-animal-marked-spouse-or-opponent
+  motif_id: monstrous_animal_marked_spouse_or_opponent
+  label: monstrous animal-marked spouse or opponent
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is ambiguous between animal spouse, marked antagonist, transformation,
+    recognition, and combat roles.
+  cautions: Needs passage evidence to distinguish spouse/kinship motif from opponent/monster
+    motif; do not collapse into shapeshifter solely from animal marking.
+  suggested_aliases:
+  - animal_marked_spouse_or_opponent
+  - monstrous_animal_marked_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_love
+    - recognition_tokens_hidden_identity
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-animal-ravages-the-land-and-summons-heroes
+  motif_id: monstrous_animal_ravages_the_land_and_summons_heroes
+  label: monstrous animal ravages the land and summons heroes
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A ravaging monster that provokes heroic response is a monster-combat
+    challenge pattern.
+  cautions: If the emphasis is cosmic order or divine champion, divine_warrior may
+    be the stronger parent; animal species details should remain granular evidence.
+  suggested_aliases:
+  - ravaging_monstrous_animal_summons_heroes
+  - monster_ravages_land_and_calls_heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-beast-ravages-livestock-and-defenders
+  motif_id: monstrous_beast_ravages_livestock_and_defenders
+  label: Monstrous beast ravages livestock and defenders
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A destructive beast attacking livestock and defenders sets up a heroic
+    or communal combat ordeal.
+  cautions: Could merge in review with other ravaging-monster labels; keep livestock
+    detail as evidence unless it recurs as a distinct cattle-raid or pastoral-threat
+    pattern.
+  suggested_aliases:
+  - ravaging_monstrous_beast
+  - monstrous_beast_attacks_livestock_and_defenders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-dog-defeats-rival-dogs-by-feigned-fear
+  motif_id: monstrous_dog_defeats_rival_dogs_by_feigned_fear
+  label: Monstrous dog defeats rival dogs by feigned fear
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Feigning fear to defeat rivals is a deception strategy within animal/trickster
+    narrative logic.
+  cautions: The monstrous dog may also function as combatant rather than trickster;
+    verify whether deception, not strength, is central.
+  suggested_aliases:
+  - feigned_fear_defeats_rival_dogs
+  - dog_defeats_rivals_by_feigned_fear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and animal-specific; recommended placements
+  preserve the animal detail as evidence rather than proposing new canonical groups.
+- Monster-ravaging and monster-slaying labels fit existing combat groups better than
+  the animal bucket when the narrative function is heroic challenge or defeat.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify source
+    context for ritual/mock-hunt and composite spouse/opponent labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2216
+  input_sha256: 69930bbf850db24a2124e4a4563b385e01c765423fdb55b2de656ac58fd465ef
+

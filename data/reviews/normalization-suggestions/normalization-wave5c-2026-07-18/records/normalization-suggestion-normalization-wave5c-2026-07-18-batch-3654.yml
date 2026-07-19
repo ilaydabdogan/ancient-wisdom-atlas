@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3654
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.man-bewitched-by-spouse-or-woman
+  motif_id: man_bewitched_by_spouse_or_woman
+  label: Man bewitched by spouse or woman
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve enchantment, marital betrayal, gendered magic,
+    or a passage-specific conflict; no existing group is clearly indicated from the
+    label alone.
+  cautions: Culturally and gender-sensitive wording; review source evidence before
+    mapping to sacred_love, betrayal_violated_trust, sacred_law, or trickster.
+  suggested_aliases:
+  - bewitchment_by_spouse
+  - bewitched_by_woman
+  - spousal_enchantment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.man-eating-buffalo-defeated-and-transformed-into-non-human-eating-buffalo
+  motif_id: man_eating_buffalo_defeated_and_transformed_into_non_human_eating_buffalo
+  label: Man-eating buffalo defeated and transformed into non-human-eating buffalo
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key narrative function is transformation of a dangerous animal being
+    into its ordinary/non-human-eating form after defeat.
+  cautions: Also touches monster defeat or culture-ordering; if the passage emphasizes
+    combat more than transformation, divine_warrior or sacred_combat may be secondary.
+  suggested_aliases:
+  - man_eating_buffalo_transformed
+  - dangerous_buffalo_defeated_and_transformed
+  - predatory_buffalo_made_harmless
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.man-eating-ogre
+  motif_id: man_eating_ogre
+  label: man-eating ogre
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ogre, Giant, and Man-Eating Monster
+  relationship: child
+  confidence: medium
+  rationale: A man-eating ogre is a recurring monster/adversary type not cleanly covered
+    by existing groups focused on combat, trickster, serpent, or threshold guardians.
+  cautions: Single occurrence here; do not create a taxonomy family unless similar
+    ogre/giant/cannibal-monster labels recur across sources.
+  suggested_aliases:
+  - cannibal_ogre
+  - man_eating_monster
+  - anthropophagous_ogre
+  suggested_new_group:
+    id: ogre_giant_cannibal_monster
+    label: Ogre, Giant, and Man-Eating Monster
+    description: Ogres, giants, stone beings, cannibal monsters, or other anthropophagous
+      adversaries whose threat centers on devouring humans and who may be defeated,
+      outwitted, transformed, or encountered as threshold dangers.
+    parent_group_ids:
+    - threshold_guardian
+    - divine_warrior
+    related_group_ids:
+    - trickster
+    - sacred_combat
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing groups cover combat, trickery, serpents,
+      or threshold roles, but lack a stable container for non-serpentine cannibal
+      monster types where the monster identity is the salient motif.
+- suggestion_id: normalization.suggestion.man-eating-stone-giant-encounter
+  motif_id: man_eating_stone_giant_encounter
+  label: Man-eating Stone Giant encounter
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ogre, Giant, and Man-Eating Monster
+  relationship: child
+  confidence: medium
+  rationale: The label centers on an encounter with a cannibal giant/stone monster,
+    fitting a proposed broader monster-adversary group better than current options.
+  cautions: If the episode is mainly a threshold test, trickster escape, or heroic
+    combat, those existing groups may be better primary mappings.
+  suggested_aliases:
+  - man_eating_stone_giant
+  - cannibal_stone_giant
+  - stone_giant_encounter
+  suggested_new_group:
+    id: ogre_giant_cannibal_monster
+    label: Ogre, Giant, and Man-Eating Monster
+    description: Ogres, giants, stone beings, cannibal monsters, or other anthropophagous
+      adversaries whose threat centers on devouring humans and who may be defeated,
+      outwitted, transformed, or encountered as threshold dangers.
+    parent_group_ids:
+    - threshold_guardian
+    - divine_warrior
+    related_group_ids:
+    - trickster
+    - sacred_combat
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing groups cover combat, trickery, serpents,
+      or threshold roles, but lack a stable container for non-serpentine cannibal
+      monster types where the monster identity is the salient motif.
+- suggestion_id: normalization.suggestion.man-swallowed-by-giant-fish-and-escaping-alive
+  motif_id: man_swallowed_by_giant_fish_and_escaping_alive
+  label: Man swallowed by giant fish and escaping alive
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Swallowing by a giant fish creates a living descent into an enclosing
+    watery/underworld-like space followed by return alive.
+  cautions: Do not map to flood_and_renewal unless world-destruction by water is present;
+    could also fit initiation or death_and_transformation if rebirth symbolism is
+    explicit.
+  suggested_aliases:
+  - swallowed_by_giant_fish_and_escape
+  - belly_of_fish_descent
+  - escape_from_giant_fish
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mandatory-public-disclosure-of-compromised-status
+  motif_id: mandatory_public_disclosure_of_compromised_status
+  label: Mandatory public disclosure of compromised status
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a rule-governed public declaration of status, fitting
+    sacred/social law and disciplinary order.
+  cautions: May be an institutional/legal detail rather than a mythic motif; verify
+    whether it recurs as a narrative or ritual pattern before broad indexing.
+  suggested_aliases:
+  - public_disclosure_of_compromised_status
+  - ritual_disclosure_of_impurity_or_fault
+  - mandatory_status_confession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.manido-taught-healing-dance
+  motif_id: manido_taught_healing_dance
+  label: Manido-taught healing dance
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A spirit-taught healing dance centers on transmission of sacred ritual
+    knowledge for healing.
+  cautions: Use culturally respectful review for Manido/Manitou concepts; could also
+    relate to divine_intervention or sacred_exchange if the source emphasizes spirit
+    aid or ritual reciprocity.
+  suggested_aliases:
+  - spirit_taught_healing_dance
+  - manido_taught_ritual_healing
+  - sacred_healing_dance_taught_by_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.manipulating-a-bear-s-bite-with-an-extended-object-or-limb
+  motif_id: manipulating_a_bear_s_bite_with_an_extended_object_or_limb
+  label: manipulating a bear's bite with an extended object or limb
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe a highly specific action detail in an animal
+    encounter rather than a durable symbolic motif.
+  cautions: If source evidence shows a recurring trickster escape technique or animal-combat
+    pattern, reconsider under trickster or sacred_combat; otherwise preserve only
+    as evidence detail.
+  suggested_aliases:
+  - bear_bite_manipulated_with_extended_object
+  - extended_object_in_bear_bite_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.manipulation-of-celestial-body-and-lunar-being
+  motif_id: manipulation_of_celestial_body_and_lunar_being
+  label: Manipulation of celestial body and lunar being
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The wording is too broad and unclear: it could involve cosmic order,
+    trickster manipulation, lunar deity encounter, or celestial etiology.'
+  cautions: Review source evidence before mapping; avoid treating all celestial manipulation
+    as cosmic_origin unless origin or ordering of the cosmos is explicit.
+  suggested_aliases:
+  - lunar_being_manipulated
+  - celestial_body_manipulation
+  - moon_being_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.manslaughter-suit-at-public-assembly
+  motif_id: manslaughter_suit_at_public_assembly
+  label: Manslaughter suit at public assembly
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A public legal suit over manslaughter centers on communal law, compensation,
+    and social order.
+  cautions: Could be a saga-specific legal scene rather than a mythic motif; if the
+    focus is feud or vengeance, sacred_combat or covenant may be secondary.
+  suggested_aliases:
+  - public_assembly_manslaughter_suit
+  - legal_assembly_for_manslaughter
+  - manslaughter_case_at_thing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and should be treated as provisional evidence
+  notes until recurrence is demonstrated.
+- The proposed ogre_giant_cannibal_monster group is a review candidate only; it would
+  cover non-serpentine cannibal monster adversaries not well handled by existing groups.
+- Keep Native American spirit and being labels under human review for culturally specific
+  meanings and avoid flattening them into generic categories without source evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 3654; human review
+    recommended for culturally sensitive and over-specific items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3654
+  input_sha256: 95ff29849b51c48be639e4cfd7e0a2d6e3764aa7c6003958f9b21fc14ae67293
+

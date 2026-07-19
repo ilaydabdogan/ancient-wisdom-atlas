@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1116
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacralized-fire-and-waters-in-ritual-invocation
+  motif_id: sacralized_fire_and_waters_in_ritual_invocation
+  label: Sacralized fire and waters in ritual invocation
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label combines sacred fire, sacred waters, and ritual invocation;
+    existing groups can cover parts but not the full ritual pairing without passage
+    context.
+  cautions: Could map to sacred_fire, sacred_waters, sacrifice, or sacred_exchange
+    depending on whether invocation, offering, purification, or elemental presence
+    is primary.
+  suggested_aliases:
+  - ritual_invocation_of_fire_and_waters
+  - sacred_fire_and_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacralized-meal-by-continuity-with-earlier-sacred-meal
+  motif_id: sacralized_meal_by_continuity_with_earlier_sacred_meal
+  label: Sacralized meal by continuity with earlier sacred meal
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred meal fits the sacred food/drink and ritual-feasting range of
+    sacred_substance.
+  cautions: If the passage emphasizes reciprocal offering or communal obligation rather
+    than the food itself, sacred_exchange may be a better secondary placement; single
+    occurrence may be too contextual.
+  suggested_aliases:
+  - sacred_meal_continuity
+  - ritual_meal_continuing_an_earlier_sacred_meal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacramental-fire-with-priestly-officiation
+  motif_id: sacramental_fire_with_priestly_officiation
+  label: Sacramental fire with priestly officiation
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers on ritually maintained sacred fire, already covered
+    by sacred_fire as divine presence and sacrificial medium.
+  cautions: Priestly officiation may be a local ritual detail; map also to sacrifice
+    only if an offering or surrender is explicit.
+  suggested_aliases:
+  - priestly_officiated_sacred_fire
+  - sacramental_sacred_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-absurdity-surrounding-divine-action
+  motif_id: sacred_absurdity_surrounding_divine_action
+  label: Sacred absurdity surrounding divine action
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and interpretive; it is unclear whether it describes
+    trickster logic, divine intervention, ritual inversion, or commentary.
+  cautions: May be a generated interpretation rather than a motif. Review source evidence
+    and culturally specific context before indexing.
+  suggested_aliases:
+  - paradoxical_divine_action
+  - ritual_absurdity_around_sacred_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-agriculture-and-peaceful-pastoral-abundance
+  motif_id: sacred_agriculture_and_peaceful_pastoral_abundance
+  label: Sacred agriculture and peaceful pastoral abundance
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Peaceful agricultural and pastoral abundance often marks primordial or
+    divinely ordered golden-age conditions, a known child area of world_ages_cosmic_decline.
+  cautions: If the passage concerns active divine provision rather than an ideal age,
+    divine_intervention or sacred_time may be better; do not infer cosmic decline
+    without evidence.
+  suggested_aliases:
+  - pastoral_abundance_under_sacred_order
+  - sacred_agricultural_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-agriculture-repelling-demonic-beings
+  motif_id: sacred_agriculture_repelling_demonic_beings
+  label: Sacred agriculture repelling demonic beings
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Agricultural practice functioning apotropaically against demonic beings
+    fits sacred_law's protective and apotropaic ritual range.
+  cautions: Could also relate to sacred_time if tied to seasonal cultivation, or divine_judgment
+    if framed as cosmic moral opposition; preserve agriculture specificity.
+  suggested_aliases:
+  - apotropaic_sacred_agriculture
+  - cultivation_repels_demons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-aid-in-outwitting-enemies-and-stealing-horses
+  motif_id: sacred_aid_in_outwitting_enemies_and_stealing_horses
+  label: sacred aid in outwitting enemies and stealing horses
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is sacred aid enabling human success against enemies,
+    which fits divine_intervention.
+  cautions: Horse theft and outwitting enemies may also be trickster or sacred_combat
+    depending on narrative focus; culturally specific Plains raiding context needs
+    review.
+  suggested_aliases:
+  - sacred_aid_in_enemy_outwitting
+  - divine_help_in_horse_raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-altar-as-asylum
+  motif_id: sacred_altar_as_asylum
+  label: sacred altar as asylum
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: An altar granting asylum is a sacred legal/protective institution regulating
+    violence and suppliants.
+  cautions: May also relate to covenant or sacred_exchange if the focus is supplication;
+    altar-space specificity should be retained as evidence.
+  suggested_aliases:
+  - altar_as_sanctuary
+  - sanctuary_asylum_at_sacred_altar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-anchor-and-cable-taboo
+  motif_id: sacred_anchor_and_cable_taboo
+  label: Sacred anchor and cable taboo
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label indicates a taboo around maritime objects, but the ritual function
+    is unclear from the label alone.
+  cautions: Could be sacred_law as ritual prohibition, sacred_treasures as power object,
+    or passage-specific ethnographic detail. Review source evidence and local meaning.
+  suggested_aliases:
+  - maritime_object_taboo
+  - sacred_anchor_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-ancient-tobacco
+  motif_id: sacred_ancient_tobacco
+  label: Sacred ancient tobacco
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Tobacco as a sacred plant or ritual substance fits the sacred_substance
+    group for ritually significant plants and substances.
+  cautions: Culturally sensitive item; do not reduce to intoxicant. If used mainly
+    as offering or prayer medium, sacred_exchange or sacrifice may be relevant.
+  suggested_aliases:
+  - sacred_tobacco
+  - ritual_tobacco_as_sacred_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual or ethnographic specifics;
+  preserve local evidence notes and avoid promoting them as canonical motifs without
+  recurrence.
+- For Zoroastrian fire/water items, distinguish elemental sacred presence from sacrifice,
+  purification, and priestly ritual office before final mapping.
+- For Indigenous tradition items, human review should check source context and culturally
+  specific terminology before broad normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several items need source-level confirmation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1116
+  input_sha256: 763ff2d5d0ab8621df6610e401f8dac36a0c885a80d966eb0c3c296c253dfd9d
+

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2859
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.warning-ignored-or-not-acted-upon
+  motif_id: warning_ignored_or_not_acted_upon
+  label: Warning ignored or not acted upon
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warning that is not heeded functions like a rejected omen or prophecy,
+    especially in conflict settings.
+  cautions: Label alone does not show whether the warning is supernatural, strategic,
+    or ordinary advice; divine_judgment or death_by_fate may fit if catastrophe or
+    doom is central.
+  suggested_aliases:
+  - unheeded_warning
+  - ignored_prophetic_warning
+  - warning_not_acted_upon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-ignored-or-punished-until-verified
+  motif_id: warning_ignored_or_punished_until_verified
+  label: Warning ignored or punished until verified
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The structure is a true warning or prediction rejected until later confirmation.
+  cautions: If the focus is social mistreatment of the messenger rather than foreknowledge,
+    covenant, sacred_law, or a messenger motif may be secondary; verify source evidence.
+  suggested_aliases:
+  - rejected_warning_later_verified
+  - punished_truthful_warning
+  - unbelieved_warning_verified
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-message-corrupted-by-messenger
+  motif_id: warning_message_corrupted_by_messenger
+  label: Warning message corrupted by messenger
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may concern failed communication, messenger betrayal, fate, or a
+    passage-specific plot device rather than a stable motif group.
+  cautions: Do not map to prophecy_divination unless the warning is prophetic; do
+    not map to betrayal unless corruption is intentional or trust-violating.
+  suggested_aliases:
+  - corrupted_warning_message
+  - messenger_alters_warning
+  - failed_warning_transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-met-with-fatalistic-acceptance
+  motif_id: warning_met_with_fatalistic_acceptance
+  label: Warning met with fatalistic acceptance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: Acceptance of a warning because fate cannot be avoided fits the existing
+    destiny/death-by-fate complex.
+  cautions: If no death or fixed destiny is involved, prophecy_divination may be the
+    safer broader placement.
+  suggested_aliases:
+  - fatalistic_acceptance_of_warning
+  - forewarning_met_with_acceptance
+  - accepted_inevitable_doom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-not-to-enter-a-place-followed-by-transgression
+  motif_id: warning_not_to_enter_a_place_followed_by_transgression
+  label: warning not to enter a place followed by transgression
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A place-entry warning followed by violation resembles taboo or sacred
+    prohibition transgressed.
+  cautions: If the place is an otherworld, forbidden chamber, or guarded threshold,
+    threshold_guardian or otherworld may be better secondary mappings.
+  suggested_aliases:
+  - forbidden_entry_transgressed
+  - place_taboo_violated
+  - warning_against_entry_ignored
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-not-to-leave-the-safe-enclosure
+  motif_id: warning_not_to_leave_the_safe_enclosure
+  label: Warning not to leave the safe enclosure
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: The safe enclosure functions as a protective container or bounded refuge
+    preserving the warned figure from danger.
+  cautions: If the emphasis is a taboo command rather than enclosure-as-protection,
+    sacred_law may be preferable; if pursuit is central, hero_journey or threshold_guardian
+    may be secondary.
+  suggested_aliases:
+  - safe_enclosure_warning
+  - protected_enclosure_not_to_be_left
+  - warning_to_remain_inside_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-of-a-devouring-pursuer-and-selective-escape
+  motif_id: warning_of_a_devouring_pursuer_and_selective_escape
+  label: warning of a devouring pursuer and selective escape
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines warning, monstrous pursuit, devouring danger, and
+    selective escape in a highly specific episode sequence.
+  cautions: Could belong to threshold_guardian, trickster, hero_journey, or divine_intervention
+    depending on who warns and how escape occurs; preserve as evidence detail pending
+    source review.
+  suggested_aliases:
+  - warning_of_devouring_pursuer
+  - selective_escape_from_devouring_pursuer
+  - devouring_pursuer_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-of-a-powerful-devouring-pursuer
+  motif_id: warning_of_a_powerful_devouring_pursuer
+  label: Warning of a powerful devouring pursuer
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A devouring pursuer often functions as a boundary peril or monstrous
+    obstacle during flight or passage.
+  cautions: If the pursuer is simply an enemy in combat, sacred_combat may fit; if
+    the warning is the main supernatural sign, prophecy_divination may be secondary.
+  suggested_aliases:
+  - devouring_pursuer_warning
+  - warning_of_monster_pursuer
+  - powerful_devouring_pursuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-of-coming-communal-mourning
+  motif_id: warning_of_coming_communal_mourning
+  label: warning of coming communal mourning
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The warning specifically anticipates collective grief, aligning with
+    communal lament and mourning motifs.
+  cautions: If the warning is prophetic and the mourning is only the predicted consequence,
+    prophecy_divination should be a secondary or alternate placement.
+  suggested_aliases:
+  - forewarning_of_communal_mourning
+  - warning_of_collective_lament
+  - predicted_communal_grief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-of-outsider-s-approach
+  motif_id: warning_of_outsider_s_approach
+  label: warning of outsider's approach
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A warning that an outsider is approaching may be ordinary plot information,
+    threat detection, hospitality setup, or threshold encounter.
+  cautions: Source context is needed to distinguish stranger-guest test, enemy approach,
+    prophecy, or passage artifact; single occurrence argues against promotion.
+  suggested_aliases:
+  - outsider_approach_warning
+  - warning_of_stranger_approach
+  - approaching_outsider_announced
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence warning variants; avoid creating a broad warning
+  group until recurrence and narrative function are clearer.
+- Where warnings are prophetic or omen-like, prophecy_divination is preferred; where
+  warnings concern taboo boundaries, sacred_law or threshold_guardian may be better.
+- Do not infer cultural transmission from these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements emphasize function of the warning rather than the
+    shared word 'warning'.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2859
+  input_sha256: 670e5b7995295aa7ef80c9070eb6a43c17651dc445d4923b9bd5d00c3f416305
+

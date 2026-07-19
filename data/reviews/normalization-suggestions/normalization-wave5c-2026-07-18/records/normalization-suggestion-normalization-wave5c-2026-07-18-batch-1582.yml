@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1582
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.happy-otherworld-as-stated-study-topic
+  motif_id: happy_otherworld_as_stated_study_topic
+  label: Happy Otherworld as stated study topic
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase identifies a study topic rather than a passage motif, even
+    though happy otherworld imagery itself could map to otherworld.
+  cautions: If source evidence describes an enchanted blessed realm, index that passage
+    under otherworld instead of this study-topic label.
+  suggested_aliases:
+  - happy_otherworld
+  - blessed_otherworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harmonic-order-expressed-through-number-music-and-geometry
+  motif_id: harmonic_order_expressed_through_number_music_and_geometry
+  label: harmonic order expressed through number, music, and geometry
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label describes ordered cosmic structure through proportional relations,
+    fitting the broad group for balanced forces and structural cosmic order.
+  cautions: Could also relate to sacred_knowledge or enchanting_music if the passage
+    emphasizes mathematical teaching or musical power rather than cosmological order.
+  suggested_aliases:
+  - harmonic_cosmic_order
+  - cosmic_harmony_by_number_music_and_geometry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harmony-and-order-of-differentiated-parts
+  motif_id: harmony_and_order_of_differentiated_parts
+  label: harmony and order of differentiated parts
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif concerns differentiated elements forming an ordered whole,
+    aligning with complementarity and balanced structural order.
+  cautions: The label is abstract and may be philosophical commentary rather than
+    a narrative motif; review source context before broad indexing.
+  suggested_aliases:
+  - ordered_harmony_of_parts
+  - differentiated_parts_in_harmony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harmony-as-ordered-social-virtue
+  motif_id: harmony_as_ordered_social_virtue
+  label: harmony as ordered social virtue
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label frames harmony as an ethical-social norm, fitting sacred law
+    and social order more than cosmic harmony alone.
+  cautions: May be philosophical ethical vocabulary rather than a reusable motif;
+    if rulership is central, royal_legitimacy may be secondary.
+  suggested_aliases:
+  - social_harmony_as_virtue
+  - ordered_social_harmony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harmony-of-rulers-and-subjects
+  motif_id: harmony_of_rulers_and_subjects
+  label: Harmony of rulers and subjects
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ordered relation between ruler and subjects supports legitimate governance
+    and sacred political order.
+  cautions: If the passage is an ethical teaching rather than kingship ideology, sacred_law
+    may be the better parent.
+  suggested_aliases:
+  - ruler_subject_harmony
+  - ordered_governance_between_ruler_and_subjects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harsh-punishment-after-a-child-s-accident
+  motif_id: harsh_punishment_after_a_child_s_accident
+  label: Harsh punishment after a child's accident
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate disproportionate judgment, household discipline,
+    etiological conflict, or a passage-specific event.
+  cautions: Source context is needed to determine whether this is divine_judgment,
+    sacred_law, persecuted_child, or too specific for pattern queries.
+  suggested_aliases:
+  - disproportionate_punishment_after_child_accident
+  - child_accident_followed_by_harsh_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.head-and-members-as-image-of-ordered-governance
+  motif_id: head_and_members_as_image_of_ordered_governance
+  label: head and members as image of ordered governance
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A body metaphor for proper hierarchy and governance fits social order
+    and ethical-political law.
+  cautions: If the passage primarily legitimizes a ruler's status, royal_legitimacy
+    may be a useful secondary mapping.
+  suggested_aliases:
+  - body_politic_as_ordered_governance
+  - head_and_members_governance_metaphor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.head-taking-as-proof-of-attack-and-news
+  motif_id: head_taking_as_proof_of_attack_and_news
+  label: head-taking as proof of attack and news
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Taking a head as evidence of combat aligns with martial proof and body-part
+    trophies already present under divine_warrior.
+  cautions: Culturally sensitive and possibly episode-specific; if treated as warfare
+    practice rather than sacred combat, human review should limit indexing.
+  suggested_aliases:
+  - head_taking_as_combat_proof
+  - body_part_trophy_as_news_of_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healer-rewarded-by-ruler
+  motif_id: healer_rewarded_by_ruler
+  label: healer rewarded by ruler
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be courtly reward, sacred exchange, miracle-worker recognition,
+    or a narrative detail about patronage.
+  cautions: Do not map to royal_legitimacy unless the ruler's authority is at issue;
+    do not map to divine_intervention unless healing is explicitly miraculous or divinely
+    authorized.
+  suggested_aliases:
+  - ruler_rewards_healer
+  - healer_receives_royal_reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healer-s-payment-divided-with-royal-authority
+  motif_id: healer_s_payment_divided_with_royal_authority
+  label: healer’s payment divided with royal authority
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Payment division with authority could indicate reciprocity, taxation,
+    hierarchy, or an episode-specific legal detail.
+  cautions: Needs passage evidence before mapping to sacred_exchange, sacred_law,
+    or royal_legitimacy; may be too specific for pattern queries.
+  suggested_aliases:
+  - healer_payment_shared_with_ruler
+  - royal_claim_on_healer_payment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several harmony/governance labels are abstract philosophical or ethical formulations;
+  reviewers should verify whether they function as motifs rather than commentary concepts.
+- No transmission or influence claims are implied by these normalization suggestions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; low-occurrence contextual labels need source
+    evidence before final indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1582
+  input_sha256: f2674a38dc04b8ab057fbdfe0c195e501d36111af393bdbd23f092a77b6c2c56
+

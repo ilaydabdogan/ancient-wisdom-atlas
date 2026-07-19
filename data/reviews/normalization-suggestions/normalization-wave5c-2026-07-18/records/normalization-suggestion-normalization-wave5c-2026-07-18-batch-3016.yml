@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3016
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.shelter-cave-as-place-of-danger
+  motif_id: shelter_cave_as_place_of_danger
+  label: shelter cave as place of danger
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: A cave functioning as a dangerous shelter fits the cave-as-liminal descent
+    or ordeal space already handled under descent.
+  cautions: Single occurrence and may be only a setting detail; if no threshold, ordeal,
+    hidden realm, or transformation is present, exclude or treat as evidence note.
+  suggested_aliases:
+  - dangerous_cave_shelter
+  - cave_as_dangerous_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shelter-in-a-cave-during-dangerous-weather
+  motif_id: shelter_in_a_cave_during_dangerous_weather
+  label: shelter in a cave during dangerous weather
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a cave refuge, weather peril, or simple travel
+    setting; the narrative function is unclear.
+  cautions: Do not map to descent or sacred waters/weather unless the cave or storm
+    marks a liminal ordeal, supernatural danger, or transformation.
+  suggested_aliases:
+  - cave_refuge_during_storm
+  - weather_shelter_in_cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shield-bearing-chief-remains-to-save-allies
+  motif_id: shield_bearing_chief_remains_to_save_allies
+  label: shield-bearing chief remains to save allies
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A leader remaining behind with shield to save allies is a heroic defensive
+    combat role within the warrior/last-stand complex.
+  cautions: Shield detail may be incidental; if the emphasis is tactical formation
+    rather than heroic self-sacrifice, sacred_combat may be the better group.
+  suggested_aliases:
+  - chief_remains_to_save_allies
+  - heroic_rearguard_defense
+  - shield_bearing_leader_saves_allies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shield-ring-defensive-formation
+  motif_id: shield_ring_defensive_formation
+  label: shield-ring defensive formation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A shield-ring is a combat formation and fits warfare as ritualized or
+    heroic battle practice.
+  cautions: May be a technical battle detail rather than a symbolic motif; preserve
+    only if the formation has narrative or ritual significance.
+  suggested_aliases:
+  - shield_wall_defensive_formation
+  - defensive_shield_ring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shield-strengthening-charm-using-tough-bark
+  motif_id: shield_strengthening_charm_using_tough_bark
+  label: shield-strengthening charm using tough bark
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A charm that empowers a shield treats the object as a protective power
+    object.
+  cautions: Could also fit sacred_law if framed as ritual procedure or divine_warrior
+    if tied mainly to battle prowess; bark material may be local evidence detail.
+  suggested_aliases:
+  - protective_shield_charm
+  - magically_strengthened_shield
+  - bark_charm_for_shield_strength
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.signal-smoke-gathering-followed-by-encirclement
+  motif_id: signal_smoke_gathering_followed_by_encirclement
+  label: signal smoke gathering followed by encirclement
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines communication, gathering, and military encirclement,
+    but the motif function is unclear from wording alone.
+  cautions: May be a passage-specific tactical sequence rather than a reusable motif;
+    map to sacred_combat only if the encirclement drives a significant conflict pattern.
+  suggested_aliases:
+  - smoke_signal_gathering_and_encirclement
+  - signal_smoke_precedes_encirclement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silenced-witness-during-a-clandestine-act
+  motif_id: silenced_witness_during_a_clandestine_act
+  label: Silenced witness during a clandestine act
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A silenced witness could involve betrayal, crime concealment, divine
+    judgment, or plot mechanics; source context is needed.
+  cautions: Likely too generic or episode-specific unless the silencing has recurring
+    moral or sacred consequences.
+  suggested_aliases:
+  - witness_silenced_during_secret_act
+  - silencing_a_witness_to_hidden_wrongdoing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silent-armed-visitor-at-an-elevated-house-threshold
+  motif_id: silent_armed_visitor_at_an_elevated_house_threshold
+  label: silent armed visitor at an elevated-house threshold
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a highly specific scene involving a visitor, weapon, and
+    house threshold, but the symbolic function is not evident.
+  cautions: Could fit threshold_guardian, hospitality_test_stranger_guest, or sacred_combat
+    depending on whether the visitor tests, threatens, guards, or initiates conflict.
+  suggested_aliases:
+  - armed_visitor_at_house_threshold
+  - silent_threshold_visitor_with_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sin-producing-marked-transgressor-status
+  motif_id: sin_producing_marked_transgressor_status
+  label: sin producing marked transgressor status
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sin that creates a marked transgressor status fits sacred law, purity,
+    and social-religious classification of wrongdoing.
+  cautions: Could also belong to divine_judgment if punishment or cosmic reckoning
+    is central; review culturally specific legal and ritual categories carefully.
+  suggested_aliases:
+  - marked_transgressor_status
+  - ritual_status_after_sin
+  - sin_marks_the_transgressor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-delegate-representing-the-whole-community
+  motif_id: single_delegate_representing_the_whole_community
+  label: single delegate representing the whole community
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: role_variant
+  confidence: low
+  rationale: A delegate acting for the whole community may express representative
+    obligation within a sacred or social bond.
+  cautions: May be an institutional detail rather than a mythic motif; if the episode
+    is about law, assembly procedure, or monastic rule, sacred_law may be better.
+  suggested_aliases:
+  - representative_delegate_for_community
+  - one_delegate_represents_all
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence scene or tactical details; human
+  review should verify that each has motif function rather than mere setting or plot
+  mechanics.
+- Cave labels should not be automatically mapped to descent unless the cave functions
+  as a liminal, ordeal, hidden, or transformative space.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3016
+  input_sha256: bd047eb695cf2a2e9f9daa5ee0d6ecc6ef59c83f260bea2dee86e9667a7a5936
+

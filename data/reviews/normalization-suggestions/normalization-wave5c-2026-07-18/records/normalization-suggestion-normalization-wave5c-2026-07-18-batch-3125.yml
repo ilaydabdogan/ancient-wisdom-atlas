@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3125
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.accused-witch-or-sorceress-killed-by-drowning
+  motif_id: accused_witch_or_sorceress_killed_by_drowning
+  label: Accused witch or sorceress killed by drowning
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves accusation, execution, and possible moral or communal
+    judgment, but evidence is insufficient to tell whether this is sacred judgment,
+    social violence, witchcraft belief, or an episode detail.
+  cautions: Single occurrence; culturally sensitive witchcraft/sorcery accusation
+    and drowning death require source review before indexing as a motif.
+  suggested_aliases:
+  - witch_or_sorceress_accused_and_drowned
+  - execution_by_drowning_after_sorcery_accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accused-wives-disappear-and-are-compensated-through-blood-payment
+  motif_id: accused_wives_disappear_and_are_compensated_through_blood_payment
+  label: Accused wives disappear and are compensated through blood payment
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines accusation, disappearance, kin/marital relations,
+    and compensation, which may involve social law or restitution.
+  cautions: Highly contextual and culturally specific; source evidence needed to distinguish
+    legal compensation, false accusation, marital violence, or passage artifact.
+  suggested_aliases:
+  - blood_payment_for_accused_wives
+  - accused_wives_compensated_by_blood_payment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.acquisition-and-special-preparation-of-a-foal
+  motif_id: acquisition_and_special_preparation_of_a_foal
+  label: Acquisition and special preparation of a foal
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A specially prepared foal could be a magical animal helper, ritual mount,
+    or ordinary plot preparation, but the label alone does not show motif function.
+  cautions: Single occurrence; avoid mapping to shapeshifter or sacred_treasures unless
+    the foal has supernatural, initiatory, or power-object function.
+  suggested_aliases:
+  - special_preparation_of_a_foal
+  - acquiring_and_preparing_a_foal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.acquisition-of-a-guarded-substance-through-violent-encounter
+  motif_id: acquisition_of_a_guarded_substance_through_violent_encounter
+  label: Acquisition of a guarded substance through violent encounter
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is obtaining a significant guarded substance, with violence
+    as the means of acquisition.
+  cautions: If the guarded item is primarily knowledge, treasure, or food rather than
+    a sacred substance, sacred_knowledge, sacred_treasures, or sacred_exchange may
+    be better.
+  suggested_aliases:
+  - guarded_substance_obtained_through_combat
+  - violent_acquisition_of_guarded_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.act-of-reconciliation-introduced-through-lay-monastic-relations
+  motif_id: act_of_reconciliation_introduced_through_lay_monastic_relations
+  label: act of reconciliation introduced through lay-monastic relations
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: uncertain
+  confidence: low
+  rationale: Reconciliation may repair a sacred or social relationship, but the lay-monastic
+    framing may be doctrinal or contextual rather than motif-like.
+  cautions: Likely depends on Buddhist disciplinary or narrative context; may be commentary
+    artifact if it describes institutional relations rather than a recurring story
+    pattern.
+  suggested_aliases:
+  - reconciliation_through_lay_monastic_relations
+  - lay_monastic_reconciliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ad-hoc-manufacture-of-foraging-tools-from-local-natural-forms
+  motif_id: ad_hoc_manufacture_of_foraging_tools_from_local_natural_forms
+  label: Ad hoc manufacture of foraging tools from local natural forms
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as ethnographic or practical technology detail rather
+    than a symbolic or narrative motif.
+  cautions: If the source presents tool-making as a culture-hero origin or sacred
+    craft episode, remap to culture_hero or sacred_craft after review.
+  suggested_aliases:
+  - improvised_foraging_tools_from_local_materials
+  - local_natural_forms_used_as_foraging_tools
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adamic-dust-reused-by-the-potter
+  motif_id: adamic_dust_reused_by_the_potter
+  label: Adamic dust reused by the potter
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Adamic dust reused by a potter suggests mortality, bodily dissolution,
+    and transformation of human substance into a new form.
+  cautions: Could instead be cosmic_origin if the passage concerns creation from clay,
+    or sacred_craft if the potter-making image is central.
+  suggested_aliases:
+  - human_dust_reused_by_the_potter
+  - adamic_clay_reworked_by_the_potter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adaptation-of-canoe-form-and-propulsion-after-external-contact
+  motif_id: adaptation_of_canoe_form_and_propulsion_after_external_contact
+  label: adaptation of canoe form and propulsion after external contact
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes technological change after contact, not a mythic
+    or symbolic motif.
+  cautions: Keep as ethnographic or historical context only; do not treat as evidence
+    of motif transmission in this normalization task.
+  suggested_aliases:
+  - canoe_technology_adapted_after_external_contact
+  - post_contact_adaptation_of_canoe_propulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adaptation-of-magical-practice-to-imported-materials
+  motif_id: adaptation_of_magical_practice_to_imported_materials
+  label: adaptation of magical practice to imported materials
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label may describe ritual practice adapting to new materials, but
+    it is more ethnographic-process wording than a clear narrative motif.
+  cautions: Review for cultural sensitivity and source evidence; if it is only a commentary
+    on practice change, exclude from pattern queries.
+  suggested_aliases:
+  - magical_practice_adapted_to_imported_materials
+  - ritual_use_of_imported_materials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adapted-harpoon-for-whale-hunting
+  motif_id: adapted_harpoon_for_whale_hunting
+  label: adapted harpoon for whale hunting
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label is a practical tool or subsistence-technology detail, not a
+    recurring symbolic motif as stated.
+  cautions: If the harpoon is divinely made, ritually empowered, or central to a culture-hero
+    origin story, reconsider under sacred_craft or sacred_treasures.
+  suggested_aliases:
+  - whale_hunting_harpoon_adaptation
+  - adapted_whaling_harpoon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence ethnographic or technology-process
+  labels; treat these cautiously and exclude when no symbolic, ritual, or narrative
+  function is evident.
+- No transmission or contact claim is implied by any placement; contact wording in
+  labels was treated as contextual, not as motif evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally sensitive accusation,
+    witchcraft, compensation, and magical-practice labels require human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3125
+  input_sha256: 236dcd92dcbc4c64280d1410c266007e8704393e691d8a9a900b48674e937a55
+

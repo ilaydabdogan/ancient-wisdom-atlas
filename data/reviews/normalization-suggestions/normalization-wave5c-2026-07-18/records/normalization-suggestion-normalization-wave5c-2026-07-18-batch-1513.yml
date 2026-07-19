@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1513
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.brother-king-roused-by-captive-kin
+  motif_id: brother_king_roused_by_captive_kin
+  label: Brother-king roused by captive kin
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: A king being roused to act by captive kin may involve kinship duty, royal
+    obligation, rescue, or vengeance, but the label alone does not show sacred kingship
+    or social-order function.
+  cautions: Single occurrence and highly contextual; could instead belong under hero_journey,
+    sacred_combat, covenant/kin obligation, or be an episode detail.
+  suggested_aliases:
+  - royal_kin_roused_to_rescue_captives
+  - king_roused_by_captive_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.buddha-represented-as-an-animal-king-in-a-j-taka
+  motif_id: buddha_represented_as_an_animal_king_in_a_j_taka
+  label: Buddha represented as an animal king in a Jātaka
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes a representational or frame-identification feature
+    of a Jātaka rather than the animal-king episode's narrative function.
+  cautions: If the passage emphasizes ethical rule by an animal king, map that evidence
+    to royal_legitimacy or sacred_law; if it emphasizes past-life identity, death_and_transformation
+    may be relevant.
+  suggested_aliases:
+  - buddha_as_animal_king_in_jataka_frame
+  - jataka_animal_king_identified_as_buddha
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bull-roarer-shaped-ceremonial-looking-board
+  motif_id: bull_roarer_shaped_ceremonial_looking_board
+  label: Bull-roarer-shaped ceremonial-looking board
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A ceremonial board may be a ritual object or power object, but the label
+    only describes shape and appearance, not function.
+  cautions: Culturally sensitive object; do not classify without source evidence for
+    ritual role, authority, sound power, initiation, or sacred-object function. Could
+    be excluded if merely an artifact description.
+  suggested_aliases:
+  - ceremonial_bull_roarer_board
+  - bull_roarer_like_ritual_board
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bullock-as-means-of-paying-debt
+  motif_id: bullock_as_means_of_paying_debt
+  label: Bullock as means of paying debt
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Payment of debt with livestock may fit exchange and reciprocity if the
+    passage treats obligation as socially or ritually binding.
+  cautions: May be an economic/legal detail rather than a mythic motif; source context
+    is needed before indexing under sacred_exchange or sacred_law.
+  suggested_aliases:
+  - livestock_payment_of_debt
+  - bullock_debt_payment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.calendrical-and-numerical-ordering-of-the-community
+  motif_id: calendrical_and_numerical_ordering_of_the_community
+  label: Calendrical and numerical ordering of the community
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: medium
+  rationale: The community is ordered through calendar structure and number, fitting
+    sacred time and ritually organized social rhythm.
+  cautions: If the passage emphasizes administrative enumeration rather than sacred
+    or ritual time, sacred_law or royal_legitimacy may be better, or it may be a contextual
+    detail.
+  suggested_aliases:
+  - ritual_calendar_ordering_of_community
+  - numerical_and_calendrical_social_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.campaign-logistics-regulated-by-reward-and-punishment
+  motif_id: campaign_logistics_regulated_by_reward_and_punishment
+  label: campaign logistics regulated by reward and punishment
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: Regulation by reward and punishment may express ordered governance and
+    discipline, but it reads more like military-administrative instruction than a
+    symbolic motif.
+  cautions: Could be passage-specific political philosophy or strategy; only map if
+    the source frames reward/punishment as moral, ritual, or cosmic order.
+  suggested_aliases:
+  - military_logistics_ordered_by_rewards_and_punishments
+  - campaign_discipline_by_reward_and_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-cooking-defeated-by-lightning-power
+  motif_id: cannibal_cooking_defeated_by_lightning_power
+  label: Cannibal cooking defeated by lightning power
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Lightning power defeating cannibal harm suggests supernatural intervention
+    against a dangerous antagonist.
+  cautions: Could also fit divine_warrior, sacred_fire, trickster reversal, or a future
+    cannibal-ogre/monstrous predation group; source evidence is needed.
+  suggested_aliases:
+  - lightning_power_defeats_cannibal_cooking
+  - cannibal_rite_overcome_by_lightning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-cooking-fails-and-raw-flesh-is-eaten
+  motif_id: cannibal_cooking_fails_and_raw_flesh_is_eaten
+  label: cannibal cooking fails and raw flesh is eaten
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label describes a cannibal-feeding episode, but its narrative function
+    is unclear: taboo violation, monstrous predation, failed transformation, or horror
+    detail.'
+  cautions: No existing group cleanly covers cannibal-ogre predation; avoid forcing
+    into sacred_law or sacrifice without evidence of taboo, ritual, or offering.
+  suggested_aliases:
+  - failed_cannibal_cooking
+  - raw_flesh_eaten_after_cannibal_cooking_fails
+  suggested_new_group:
+    id: cannibal_ogre_predation
+    label: Cannibal Ogre and Predatory Consumption
+    description: Human-eating monsters, hosts, or antagonists threaten victims through
+      killing, cooking, eating, or preparing human flesh, often as a predatory ordeal
+      or taboo-violation scene.
+    parent_group_ids:
+    - trickster
+    - threshold_guardian
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover deception, law, combat,
+      and sacrifice, but not recurring cannibal predation or human-consumption threat
+      as its own narrative danger.
+- suggestion_id: normalization.suggestion.cannibal-host-exposed-by-speaking-head
+  motif_id: cannibal_host_exposed_by_speaking_head
+  label: cannibal host exposed by speaking head
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Exposure of a cannibal host by a speaking head may function as revelation
+    of hidden predation or deceptive hospitality.
+  cautions: Could fit hospitality_test_stranger_guest, storytelling/speech power,
+    restless dead, or a cannibal-ogre predation candidate; source context is essential.
+  suggested_aliases:
+  - speaking_head_exposes_cannibal_host
+  - cannibal_host_revealed_by_talking_head
+  suggested_new_group:
+    id: cannibal_ogre_predation
+    label: Cannibal Ogre and Predatory Consumption
+    description: Human-eating monsters, hosts, or antagonists threaten victims through
+      killing, cooking, eating, or preparing human flesh, often as a predatory ordeal
+      or taboo-violation scene.
+    parent_group_ids:
+    - trickster
+    - threshold_guardian
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - storytelling_as_power
+    - sacred_law
+    reason_existing_groups_insufficient: The central pattern is cannibal predation
+      under deceptive hospitality; current groups only cover adjacent functions, not
+      the human-eating threat itself.
+- suggestion_id: normalization.suggestion.cannibal-killing-and-cooking-of-a-human-victim
+  motif_id: cannibal_killing_and_cooking_of_a_human_victim
+  label: cannibal killing and cooking of a human victim
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cannibal Ogre and Predatory Consumption
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on human-eating predation and preparation of a victim,
+    a recurring tale danger not represented by existing groups.
+  cautions: Do not treat all cannibal imagery as sacrifice or sacred law; review whether
+    the source frames it as monster predation, taboo violation, ritual act, or episode-specific
+    violence.
+  suggested_aliases:
+  - human_victim_killed_and_cooked_by_cannibal
+  - cannibal_preparation_of_human_victim
+  suggested_new_group:
+    id: cannibal_ogre_predation
+    label: Cannibal Ogre and Predatory Consumption
+    description: Human-eating monsters, hosts, or antagonists threaten victims through
+      killing, cooking, eating, or preparing human flesh, often as a predatory ordeal
+      or taboo-violation scene.
+    parent_group_ids:
+    - trickster
+    - threshold_guardian
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - sacred_combat
+    - sacrifice
+    reason_existing_groups_insufficient: Existing groups can capture adjacent deception,
+      taboo, combat, or ritual functions, but none directly covers cannibal predation
+      and human-consumption threat.
+batch_notes:
+- Several cannibal labels in this batch appear semantically related and may warrant
+  a human-reviewed cannibal_ogre_predation group if recurrence across sources is confirmed.
+- Power/kingship bucket placement appears noisy for several items; do not infer political-order
+  function from this bucket alone.
+- Single-occurrence and culturally specific ritual-object labels should remain provisional
+  until source passages are checked.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 1513; human
+    review especially needed for cannibal-predation candidate and culturally specific
+    Melanesian ritual-object label.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1513
+  input_sha256: 2a28ab269f516cafd2a61e4d619d5f6ca24443675c41d1f90850f0f21af52517
+

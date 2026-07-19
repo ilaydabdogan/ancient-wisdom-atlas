@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2681
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.failed-and-misdirected-heroic-weapons
+  motif_id: failed_and_misdirected_heroic_weapons
+  label: failed and misdirected heroic weapons
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns weapon failure or misdirection within heroic combat,
+    fitting the sacred combat cluster better than a general object group.
+  cautions: Single occurrence and possibly episode-specific; if the weapon is divinely
+    redirected as punishment, divine_judgment or divine_warrior may be secondary.
+  suggested_aliases:
+  - misdirected_heroic_weapons
+  - failed_heroic_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-bow-contrasted-with-close-combat-arms
+  motif_id: failed_bow_contrasted_with_close_combat_arms
+  label: failed bow contrasted with close-combat arms
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The motif is a combat-method contrast where one weapon fails and another
+    mode of fighting prevails.
+  cautions: Likely too granular for canonical promotion; preserve bow-versus-close-arms
+    detail as passage evidence.
+  suggested_aliases:
+  - failed_bow_against_close_combat_arms
+  - weapon_failure_contrasted_with_close_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-execution-stroke-accidentally-frees-the-bound-hero
+  motif_id: failed_execution_stroke_accidentally_frees_the_bound_hero
+  label: failed execution stroke accidentally frees the bound hero
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A lethal action unexpectedly becoming rescue fits miraculous or providential
+    reversal if the source frames the accident as supernatural aid.
+  cautions: If no sacred agency is present, this may be a folktale escape detail better
+    reviewed under trickster or excluded as over-specific.
+  suggested_aliases:
+  - execution_attempt_accidentally_frees_bound_hero
+  - failed_killing_blow_frees_the_captive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-expedition-after-ignored-warnings
+  motif_id: failed_expedition_after_ignored_warnings
+  label: Failed expedition after ignored warnings
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ignored warnings followed by disaster fits a judgment or moral consequence
+    pattern, especially if warnings are sacred, prophetic, or ancestral.
+  cautions: Could instead fit prophecy_divination if warning and foreknowledge are
+    central; review cultural context and source evidence.
+  suggested_aliases:
+  - ignored_warnings_lead_to_failed_expedition
+  - unheeded_warning_before_failed_expedition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-first-test-reversed-by-corrected-conduct
+  motif_id: failed_first_test_reversed_by_corrected_conduct
+  label: Failed first test reversed by corrected conduct
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: high
+  rationale: A failed test followed by corrected conduct is a transformative ordeal
+    or moral learning sequence.
+  cautions: If the passage emphasizes ethical doctrine rather than ordeal, sacred_law
+    or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - failed_test_corrected_by_changed_conduct
+  - first_test_failure_reversed_by_right_conduct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-heroic-monster-combat-parody
+  motif_id: failed_heroic_monster_combat_parody
+  label: failed heroic monster combat parody
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: It resembles heroic monster combat, but the word parody may indicate
+    literary genre or comic inversion rather than a stable motif.
+  cautions: Human review should decide whether this is narrative content, genre commentary,
+    or a textual artifact; do not normalize solely as sacred combat.
+  suggested_aliases:
+  - parodic_failed_monster_combat
+  - mock_heroic_monster_combat_failure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-peace-mediation-between-facing-battle-lines
+  motif_id: failed_peace_mediation_between_facing_battle_lines
+  label: Failed peace mediation between facing battle lines
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Failed mediation concerns attempted repair of social bonds before violence,
+    which fits covenant and sacred-social order more than combat itself.
+  cautions: If the battle-line scene is central and mediation only tactical, sacred_combat
+    may be secondary; source context needed.
+  suggested_aliases:
+  - failed_battlefield_peace_mediation
+  - peace_mediation_fails_before_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-recognition-or-identity-test
+  motif_id: failed_recognition_or_identity_test
+  label: Failed recognition or identity test
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly concerns recognition and identity verification, including
+    failed forms of the same proof-test pattern.
+  cautions: If the failure is only a plot detail without token, hidden identity, or
+    kinship proof, preserve as evidence rather than a broad motif.
+  suggested_aliases:
+  - failed_identity_test
+  - failed_recognition_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-reparation-and-unpunished-violence
+  motif_id: failed_reparation_and_unpunished_violence
+  label: failed reparation and unpunished violence
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on failed moral repair and unresolved punishment after
+    violence, fitting judgment and social reckoning.
+  cautions: If no divine or moral reckoning occurs, this may be a legal/social-order
+    episode better cross-checked with covenant or sacred_law.
+  suggested_aliases:
+  - failed_reparation_after_violence
+  - unpunished_violence_after_failed_reparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-restitution-and-revenge-escalation
+  motif_id: failed_restitution_and_revenge_escalation
+  label: Failed restitution and revenge escalation
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Failed restitution and escalating vengeance describe breakdown of compensatory
+    social bonds and attempted repair.
+  cautions: May also fit sacred_combat if revenge escalation drives warfare, or divine_judgment
+    if punishment/reckoning is explicit.
+  suggested_aliases:
+  - failed_restitution_leads_to_revenge
+  - restitution_failure_and_vengeance_escalation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence conflict-resolution or combat-detail
+  motifs; preserve granular wording as evidence notes unless recurrence supports promotion.
+- Several items involve failed repair, mediation, or warning; placement depends on
+  whether the source emphasizes sacred judgment, social covenant, or ordinary narrative
+  causality.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source-level review recommended for low-confidence
+    accident/parody and conflict-repair labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2681
+  input_sha256: d346e4ee492e9e3cca14bf875874d9d218bd32657458b4031b207f1b5199e7b2
+

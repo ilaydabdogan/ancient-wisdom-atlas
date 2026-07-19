@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0248
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.living-visitor-to-the-otherworld-returns
+  motif_id: living_visitor_to_the_otherworld_returns
+  label: Living visitor to the otherworld returns
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: high
+  rationale: A living person visits and returns from an otherworld, matching the otherworld
+    sojourn/return complex rather than a postmortem route.
+  cautions: If the destination is specifically the land of the dead with descent trials,
+    also consider descent or afterlife_passage.
+  suggested_aliases:
+  - otherworld_sojourn_and_return
+  - living_return_from_otherworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-weapon-that-kills-and-returns
+  motif_id: living_weapon_that_kills_and_returns
+  label: living weapon that kills and returns
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sentient or self-returning weapon is primarily a power object with
+    lethal agency.
+  cautions: Could fit divine_warrior or sacred_combat if the passage emphasizes battle
+    function over the object's power; one occurrence may be granular evidence only.
+  suggested_aliases:
+  - self_returning_weapon
+  - animated_killing_weapon
+  - living_power_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lizard-form-soul-as-a-motif-feature
+  motif_id: lizard_form_soul_as_a_motif_feature
+  label: Lizard-form soul as a motif feature
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'as a motif feature' and comparative tradition suggest a classification
+    note rather than a source motif.
+  cautions: If a passage actually narrates a soul taking lizard form, preserve under
+    shapeshifter or external_soul instead.
+  suggested_aliases:
+  - animal_form_soul_as_motif_feature
+  - lizard_soul_variant_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-chthonic-hero-or-ancestor-cult-explanation
+  motif_id: local_chthonic_hero_or_ancestor_cult_explanation
+  label: Local chthonic hero or ancestor cult explanation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe an interpretive cult explanation rather than a
+    narrative motif, but could involve ancestor rites or chthonic hero cult.
+  cautions: Review source evidence to distinguish actual ancestor ritual, heroic cult,
+    local etiology, or scholarly commentary.
+  suggested_aliases:
+  - chthonic_hero_cult_explanation
+  - local_ancestor_cult_explanation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.localized-nature-spirits-animating-landscape-features
+  motif_id: localized_nature_spirits_animating_landscape_features
+  label: Localized nature spirits animating landscape features
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Localized spirits animating or inhabiting natural features fit the existing
+    spirit-agency cluster under divine_intervention.
+  cautions: If the passage explains landform origins, cosmic_origin may be secondary;
+    if it is only local belief taxonomy, review as commentary.
+  suggested_aliases:
+  - local_nature_spirits_in_landscape
+  - landscape_animating_spirits
+  - genius_loci_nature_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.localized-spirits-inhabit-natural-features
+  motif_id: localized_spirits_inhabit_natural_features
+  label: Localized spirits inhabit natural features
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Spirits inhabiting natural features belong with localized spirit agency
+    and tutelary/immanent spirit motifs already grouped under divine_intervention.
+  cautions: May warrant a future genius-loci or nature-spirit group if many such labels
+    recur; avoid flattening culturally specific spirit concepts.
+  suggested_aliases:
+  - natural_feature_spirits
+  - localized_nature_spirits
+  - spirits_inhabiting_landscape_features
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.locally-known-but-unmarked-burial-divisions
+  motif_id: locally_known_but_unmarked_burial_divisions
+  label: locally known but unmarked burial divisions
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes local burial-site classification or ethnographic
+    context, not a reusable narrative or symbolic motif.
+  cautions: If the passage includes ritual separation of the dead, preserve that evidence
+    under ancestor_rites or sacred_law instead.
+  suggested_aliases:
+  - unmarked_burial_divisions
+  - local_burial_division_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lone-child-survivor-in-a-deserted-or-dead-village
+  motif_id: lone_child_survivor_in_a_deserted_or_dead_village
+  label: Lone child survivor in a deserted or dead village
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lone surviving child after communal death or abandonment fits the protected/threatened
+    extraordinary child pattern.
+  cautions: If emphasis is renewal after catastrophe, survivor_pair or flood_and_renewal
+    may be more relevant; one occurrence may be episode-specific.
+  suggested_aliases:
+  - lone_child_survivor
+  - child_survivor_of_dead_village
+  - surviving_child_in_deserted_village
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lone-survivor-becomes-ancestral-mother
+  motif_id: lone_survivor_becomes_ancestral_mother
+  label: lone survivor becomes ancestral mother
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sole survivor who becomes an ancestral source matches remnant survival
+    and social reconstitution after destruction.
+  cautions: Do not infer a flood unless present; if the focus is named ancestry rather
+    than catastrophe renewal, cosmic_origin may be secondary.
+  suggested_aliases:
+  - lone_survivor_as_ancestral_mother
+  - survivor_becomes_foundress
+  - ancestral_mother_from_survivor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.long-life-and-unchanged-hair-through-obedience-to-a-spirit
+  motif_id: long_life_and_unchanged_hair_through_obedience_to_a_spirit
+  label: Long life and unchanged hair through obedience to a spirit
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines longevity, bodily sign, and obedience to a spirit
+    without a clear existing parent.
+  cautions: Could map to divine_intervention, sacred_law, immortality_without_renewal,
+    or sacred_exchange depending on whether the passage emphasizes reward, taboo obedience,
+    or altered mortality.
+  suggested_aliases:
+  - spirit_obedience_grants_long_life
+  - unchanged_hair_as_longevity_sign
+  - longevity_reward_from_spirit_obedience
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several one-occurrence labels are highly granular; preserve local evidence in notes
+  even when mapped to broad groups.
+- Nature-spirit and chthonic-cult labels need care to distinguish source motif from
+  scholarly or ethnographic classification.
+- No transmission or contact claims are implied by these normalization placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0248
+  input_sha256: 7128a2d4ce320b115194a24caf2f1ffc3e9819e5b6c2b1be7c81a6322ec069a8
+

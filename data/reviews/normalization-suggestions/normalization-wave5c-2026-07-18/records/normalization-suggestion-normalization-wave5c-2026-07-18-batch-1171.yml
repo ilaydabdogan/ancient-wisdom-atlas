@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1171
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sequential-purification-through-numbered-stations-and-washing-substances
+  motif_id: sequential_purification_through_numbered_stations_and_washing_substances
+  label: sequential purification through numbered stations and washing substances
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A structured purification procedure using stations and washing substances
+    fits ritual purity regulation under sacred law.
+  cautions: Single occurrence and highly procedural; if the passage emphasizes offering
+    or expulsion rather than purity law, sacrifice may be a secondary fit.
+  suggested_aliases:
+  - numbered_station_purification
+  - sequential_washing_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequential-ritual-expulsion-of-impurity-through-the-body
+  motif_id: sequential_ritual_expulsion_of_impurity_through_the_body
+  label: Sequential ritual expulsion of impurity through the body
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The existing sacrifice group already contains ritual expulsion and impurity-removal
+    variants.
+  cautions: Could also fit sacred_law if the emphasis is purity regulation rather
+    than expulsion; preserve body-sequence detail as evidence.
+  suggested_aliases:
+  - ritual_expulsion_of_impurity_through_body
+  - sequential_impurity_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.servants-destroy-enemies-of-a-god
+  motif_id: servants_destroy_enemies_of_a_god
+  label: Servants destroy enemies of a god
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: Agents acting on behalf of a god to destroy divine enemies functions
+    as sacred punishment or enforcement of divine order.
+  cautions: If the servants are battlefield auxiliaries or warrior attendants, divine_warrior
+    may be a better fit; source context needed.
+  suggested_aliases:
+  - divine_servants_destroy_enemies
+  - god_s_agents_punish_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.set-apart-leaders-and-attendants-under-abstinence-and-taboo
+  motif_id: set_apart_leaders_and_attendants_under_abstinence_and_taboo
+  label: set-apart leaders and attendants under abstinence and taboo
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Abstinence and taboo for consecrated roles fit sacred-law regulation
+    of purity, status, and ritual conduct.
+  cautions: Culturally specific leadership and attendant roles may matter; avoid reducing
+    local taboo systems to generic purity without review.
+  suggested_aliases:
+  - ritual_abstinence_for_set_apart_leaders
+  - taboo_for_consecrated_attendants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-clan-ordering-in-sacred-formulas-and-law
+  motif_id: seven_clan_ordering_in_sacred_formulas_and_law
+  label: Seven-clan ordering in sacred formulas and law
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines social organization, sacred formulas, law, and the
+    number seven without enough evidence to identify the motif function.
+  cautions: May be a culturally specific clan-ordering detail or source artifact;
+    human review should verify whether it is a recurring symbolic pattern.
+  suggested_aliases:
+  - seven_clan_sacred_ordering
+  - clan_ordering_in_sacred_formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-day-exception-within-a-ritual-time-boundary
+  motif_id: seven_day_exception_within_a_ritual_time_boundary
+  label: Seven-day exception within a ritual time boundary
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A seven-day exception defined by ritual boundaries is primarily a regulation
+    of sacred time.
+  cautions: May be too legalistic or passage-specific; if the exception concerns purity
+    or taboo, sacred_law could be secondary.
+  suggested_aliases:
+  - seven_day_ritual_time_exception
+  - ritual_time_boundary_exception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-day-sacred-feast-of-thanksgiving
+  motif_id: seven_day_sacred_feast_of_thanksgiving
+  label: seven-day sacred feast of thanksgiving
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A fixed seven-day sacred feast is a calendrical ritual cycle, even though
+    it also involves thanksgiving offering.
+  cautions: If the passage emphasizes reciprocal offering or vow fulfillment more
+    than duration, sacred_exchange or sacrifice may be secondary.
+  suggested_aliases:
+  - seven_day_thanksgiving_feast
+  - week_long_sacred_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-day-secret-concealment-of-a-sacred-object
+  motif_id: seven_day_secret_concealment_of_a_sacred_object
+  label: seven-day secret concealment of a sacred object
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The central element is the guarded concealment of a sacred object or
+    power object.
+  cautions: The seven-day duration may support sacred_time, and secrecy may support
+    sacred_knowledge; verify object function before final mapping.
+  suggested_aliases:
+  - secret_concealment_of_sacred_object
+  - seven_day_concealment_of_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sevenfold-correspondence-of-hymn-divine-being-and-creation
+  motif_id: sevenfold_correspondence_of_hymn_divine_being_and_creation
+  label: Sevenfold correspondence of hymn, divine being, and creation
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A cosmological correspondence among hymn, deity, and creation is a knowledge/recitation
+    structure linking sacred speech to cosmic order.
+  cautions: Could also relate to cosmic_origin or sacred_time if the sevenfold structure
+    is cosmological rather than instructional; source evidence needed.
+  suggested_aliases:
+  - sevenfold_hymn_creation_correspondence
+  - cosmic_correspondence_of_hymn_and_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sevenfold-cosmic-geography-traversed-by-divine-beings
+  motif_id: sevenfold_cosmic_geography_traversed_by_divine_beings
+  label: Sevenfold cosmic geography traversed by divine beings
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Layered cosmic geography traversed by divine beings may describe structured
+    sacred space connecting levels or regions of the cosmos.
+  cautions: Ambiguous without direction and function of travel; could fit ascent,
+    descent, afterlife_passage, or cosmic_origin depending on passage evidence.
+  suggested_aliases:
+  - sevenfold_sacred_geography
+  - divine_traversal_of_sevenfold_cosmos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence, numerically specific ritual labels; preserve
+  number-seven details as evidence but avoid promoting them as canonical motifs without
+  recurrence.
+- For Zoroastrian purification labels, review whether the source emphasizes purity
+  law, ritual expulsion, or doctrinal cosmology before final indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual and clan-ordering
+    labels need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1171
+  input_sha256: 29760aaed9752e36273d0ea49f7aa3f6f3497c271b8eca7f8b39d95240849c7c
+

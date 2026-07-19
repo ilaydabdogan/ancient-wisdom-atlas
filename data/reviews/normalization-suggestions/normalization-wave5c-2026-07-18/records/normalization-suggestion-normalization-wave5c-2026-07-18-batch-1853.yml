@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1853
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.gendered-communal-subsistence-and-food-preparation
+  motif_id: gendered_communal_subsistence_and_food_preparation
+  label: gendered communal subsistence and food preparation
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Reads as an ethnographic social-practice description rather than a recurring
+    narrative or symbolic motif.
+  cautions: If the passage frames food preparation as ritual obligation, taboo, or
+    sacred exchange, review for sacred_law or sacred_exchange instead.
+  suggested_aliases:
+  - gendered food preparation
+  - communal subsistence labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-competitive-play-before-ceremony
+  motif_id: gendered_competitive_play_before_ceremony
+  label: Gendered competitive play before ceremony
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a ritual-preparatory role, initiation context, or merely a local
+    ceremony detail.
+  cautions: Source evidence is needed before mapping to initiation, sacred_time, sacred_law,
+    or excluding as ethnographic detail.
+  suggested_aliases:
+  - competitive play before ceremony
+  - gendered ceremonial play
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-craft-production-and-decoration
+  motif_id: gendered_craft_production_and_decoration
+  label: gendered craft production and decoration
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes division of labor and decorative practice, not a
+    clear mythic motif.
+  cautions: If the crafted object has sacred power or ritual animation, review under
+    sacred_craft or sacred_treasures.
+  suggested_aliases:
+  - gendered craft production
+  - gendered decoration practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-craft-specialization
+  motif_id: gendered_craft_specialization
+  label: Gendered craft specialization
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A general social-labor category is too broad and non-narrative for motif
+    pattern queries.
+  cautions: Review only if the specialization is tied to sacred law, taboo, origin
+    myth, or divinely taught craft.
+  suggested_aliases:
+  - gendered craft labor
+  - gendered craft roles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-cultivation-of-protected-gardens
+  motif_id: gendered_cultivation_of_protected_gardens
+  label: gendered cultivation of protected gardens
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Protected gardens could indicate subsistence practice, ritual boundary,
+    gendered sacred law, or local ethnographic detail.
+  cautions: Do not map to sacred_law or sacred_time without evidence of taboo, ritual
+    cycle, or sacred protection.
+  suggested_aliases:
+  - gendered garden cultivation
+  - protected gardens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-dance-and-chorus-roles
+  motif_id: gendered_dance_and_chorus_roles
+  label: gendered dance and chorus roles
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: May be ritual performance structure, sacred song, social role description,
+    or ceremony-specific evidence.
+  cautions: If the dance or chorus has supernatural efficacy, consider sacred_song,
+    enchanting_music, sacred_time, or sacred_law; otherwise exclude as contextual
+    practice.
+  suggested_aliases:
+  - gendered ritual dance roles
+  - gendered chorus roles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-domestic-craft-production
+  motif_id: gendered_domestic_craft_production
+  label: gendered domestic craft production
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Domestic craft division of labor is likely contextual ethnographic description
+    rather than a motif.
+  cautions: If a sacred object, taboo, or origin of craft is central, review under
+    sacred_craft or sacred_law.
+  suggested_aliases:
+  - domestic craft labor by gender
+  - gendered household craft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-fibre-and-textile-labor
+  motif_id: gendered_fibre_and_textile_labor
+  label: Gendered fibre and textile labor
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Textile labor assigned by gender is a social-practice detail without
+    clear narrative function.
+  cautions: If weaving is cosmological or fate-related, review under fate_figures_cosmic_weaving;
+    if ritual craft, review under sacred_craft.
+  suggested_aliases:
+  - gendered textile labor
+  - gendered fibre work
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-food-preparation-and-separate-eating
+  motif_id: gendered_food_preparation_and_separate_eating
+  label: Gendered food preparation and separate eating
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Separate eating may reflect taboo, ritual purity, social order, or ordinary
+    ethnographic practice.
+  cautions: Map to sacred_law only if the source frames the separation as sacred prohibition
+    or purity rule.
+  suggested_aliases:
+  - gendered separate eating
+  - gendered food preparation taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-head-shaving-and-barbering-practice
+  motif_id: gendered_head_shaving_and_barbering_practice
+  label: Gendered head-shaving and barbering practice
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be bodily grooming, rite of passage, mourning practice, purity
+    rule, or contextual ethnographic note.
+  cautions: Needs passage evidence before mapping to initiation, lament_and_mourning,
+    sacred_law, or excluding from motif queries.
+  suggested_aliases:
+  - gendered head shaving
+  - barbering practice by gender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch appear to be single-occurrence ethnographic descriptions
+  of gendered labor or practice rather than durable narrative motifs.
+- Ceremonial or body-modification items should receive human review because they may
+  encode ritual law, initiation, mourning, or sacred performance depending on source
+  context.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement only; avoid creating a broad gendered-social-practice
+    motif group without recurring cross-source evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1853
+  input_sha256: ddabeb02b5faa360ae450e5f0339e4c0702078cd1e5f332b2fb5ee5d88973455
+

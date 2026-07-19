@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0732
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cursed-treasure-motivates-murder
+  motif_id: cursed_treasure_motivates_murder
+  label: Cursed treasure motivates murder
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A treasure or power object carries destructive agency and motivates violent
+    action.
+  cautions: Could also fit curse_blessing_speech, betrayal_violated_trust, or divine_judgment
+    if the source emphasizes the curse, broken kinship, or moral reckoning rather
+    than the object.
+  suggested_aliases:
+  - cursed_treasure
+  - treasure_curse_leads_to_murder
+  - destructive_cursed_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.custom-as-supreme-inherited-law
+  motif_id: custom_as_supreme_inherited_law
+  label: Custom as supreme inherited law
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Inherited custom functioning as supreme authority aligns with sacred
+    or traditional law ordering social conduct.
+  cautions: May be an ethnographic or analytic abstraction rather than a narrative
+    motif; verify sacred sanction or ritual force in source evidence.
+  suggested_aliases:
+  - inherited_custom_as_law
+  - customary_authority_as_law
+  - ancestral_custom_as_supreme_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.customary-law-and-public-opinion-enforcing-taboo
+  motif_id: customary_law_and_public_opinion_enforcing_taboo
+  label: Customary law and public opinion enforcing taboo
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes taboo enforcement through customary social and ritual
+    norms, fitting sacred law and prohibition.
+  cautions: Public opinion may indicate social commentary more than mythic motif;
+    review whether taboo has sacred, ritual, or supernatural consequence.
+  suggested_aliases:
+  - customary_taboo_enforcement
+  - social_enforcement_of_taboo
+  - public_opinion_enforces_sacred_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.customary-named-address-prayer-formula-for-game
+  motif_id: customary_named_address_prayer_formula_for_game
+  label: Customary named-address prayer formula for game
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prayer formula addressed to game suggests ritualized reciprocity or
+    petition between humans and animal/sacred powers.
+  cautions: Could fit curse_blessing_speech if the key is performative formula, or
+    sacred_law if it is a required hunting rule; culturally specific hunting-prayer
+    context needs review.
+  suggested_aliases:
+  - named_address_prayer_to_game
+  - ritual_prayer_formula_for_hunted_game
+  - customary_hunting_prayer_formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.customary-precedent-explains-ritual-or-decorative-forms
+  motif_id: customary_precedent_explains_ritual_or_decorative_forms
+  label: customary precedent explains ritual or decorative forms
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe an etiological explanation for ritual form, decorative
+    convention, or an analytic note about custom.
+  cautions: May be too broad or commentary-like for motif queries; source evidence
+    is needed to decide between cosmic_origin, sacred_law, sacred_craft, or exclusion.
+  suggested_aliases:
+  - customary_precedent_for_ritual_forms
+  - custom_explains_decorative_forms
+  - etiology_of_ritual_or_decorative_custom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cut-hair-and-nails-as-weapons-of-demons-unless-ritually-protected
+  motif_id: cut_hair_and_nails_as_weapons_of_demons_unless_ritually_protected
+  label: Cut hair and nails as weapons of demons unless ritually protected
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: This is a ritual purity and apotropaic protection rule concerning dangerous
+    bodily remnants and demons.
+  cautions: Preserve hair and nail specificity as evidence detail; if the passage
+    emphasizes demon attack rather than law, divine_judgment or sacrifice/expulsion
+    may be secondary only.
+  suggested_aliases:
+  - ritual_protection_of_cut_hair_and_nails
+  - bodily_remnants_as_demonic_weapons
+  - apotropaic_disposal_of_hair_and_nails
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cyclical-games-commemorating-divine-victory
+  motif_id: cyclical_games_commemorating_divine_victory
+  label: Cyclical games commemorating divine victory
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Recurring games that commemorate a divine victory are ritual calendar
+    observances anchored in sacred time.
+  cautions: Could also relate to divine_warrior or sacred_combat if the victory narrative
+    is central; map to sacred_time when recurrence and commemoration are primary.
+  suggested_aliases:
+  - ritual_games_commemorating_divine_victory
+  - periodic_games_for_divine_victory
+  - sacred_games_in_ritual_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cyclopean-forging-of-divine-weapons
+  motif_id: cyclopean_forging_of_divine_weapons
+  label: Cyclopean forging of divine weapons
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: Forging divine weapons is sacred craft producing power objects for gods
+    or heroic combat.
+  cautions: May also index secondarily to sacred_treasures or divine_warrior if the
+    weapon’s use in battle is emphasized over its manufacture.
+  suggested_aliases:
+  - forging_of_divine_weapons
+  - divine_weapon_forging
+  - cyclopes_forge_gods_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.daily-divine-birth-illuminating-a-hidden-chamber
+  motif_id: daily_divine_birth_illuminating_a_hidden_chamber
+  label: daily divine birth illuminating a hidden chamber
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Daily divine birth is a recurring sacred-time cycle, with illumination
+    as renewal or solar manifestation.
+  cautions: Egyptian solar-underworld context may also support sacred_fire, sacred_birth,
+    or descent; do not reduce daily solar renewal to ordinary birth without passage
+    evidence.
+  suggested_aliases:
+  - daily_divine_birth
+  - solar_birth_illuminates_hidden_chamber
+  - daily_birth_of_the_sun_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.daily-divine-entry-into-the-earth
+  motif_id: daily_divine_entry_into_the_earth
+  label: Daily divine entry into the earth
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A daily divine entry into the earth suggests cyclical sacred time, likely
+    solar descent and renewal.
+  cautions: If the passage emphasizes the god’s underworld journey or chthonic passage,
+    descent may be a stronger mapping; preserve Egyptian solar-cycle specificity.
+  suggested_aliases:
+  - daily_solar_descent_into_earth
+  - daily_divine_descent_into_earth
+  - cyclical_divine_entry_into_the_underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; several single-occurrence labels
+  may be ethnographic or passage-specific and should be checked against source evidence.
+- For Egyptian daily solar motifs, reviewers should decide whether sacred_time, descent,
+  sacred_fire, or death_and_transformation is primary based on the passage function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch reviewed for broad normalization group placement only; no taxonomy
+    edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0732
+  input_sha256: 9ca4d6b3abef3833da0f2960d5a17cc4b236f33c5bc3d68cd40bc2e17c025e35
+

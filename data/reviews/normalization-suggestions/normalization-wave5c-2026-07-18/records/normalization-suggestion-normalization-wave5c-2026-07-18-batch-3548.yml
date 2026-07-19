@@ -1,0 +1,324 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3548
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hostile-frontier-contact-in-epic-setting
+  motif_id: hostile_frontier_contact_in_epic_setting
+  label: Hostile frontier contact in epic setting
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad and contextual; it could indicate combat, boundary
+    encounter, ethnic outsider contact, or an episode setting rather than a motif.
+  cautions: Single occurrence and phrase 'epic setting' may be a genre/context artifact.
+    Source evidence needed before mapping to sacred_combat or threshold/boundary motifs.
+  suggested_aliases:
+  - hostile_frontier_encounter
+  - enemy_contact_at_frontier
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - threshold_guardian
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-hospitality-inside-a-protected-hold
+  motif_id: hostile_hospitality_inside_a_protected_hold
+  label: hostile hospitality inside a protected hold
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif turns hospitality into an ordeal within a defended household
+    or stronghold, fitting the hospitality-test complex.
+  cautions: If the emphasis is siege, treachery, or protected architecture rather
+    than guest-host obligation, sacred_combat or betrayal_violated_trust may be better
+    secondary mappings.
+  suggested_aliases:
+  - hostile_hospitality_in_a_stronghold
+  - dangerous_lodging_in_a_protected_hold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-hospitality-under-feud-conditions
+  motif_id: hostile_hospitality_under_feud_conditions
+  label: hostile hospitality under feud conditions
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on hospitality strained by enmity, making guest-host
+    obligation the operative motif.
+  cautions: Feud context may also implicate covenant, sacred_law, or betrayal if oaths
+    or protection duties are broken; confirm passage function.
+  suggested_aliases:
+  - hospitality_under_feud_conditions
+  - enemy_guest_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_law
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-outsiders-described-as-wolves
+  motif_id: hostile_outsiders_described_as_wolves
+  label: hostile outsiders described as wolves
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: symbolic_variant
+  confidence: low
+  rationale: This may be metaphorical animalization of enemies rather than a shapeshifting,
+    animal, or combat motif.
+  cautions: Do not map to shapeshifter unless actual transformation or wolf-being
+    identity is present. Could be a poetic epithet or passage-specific simile.
+  suggested_aliases:
+  - enemies_likened_to_wolves
+  - outsiders_as_wolves
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-practitioner-sends-sickness-through-charm-or-projected-substance
+  motif_id: hostile_practitioner_sends_sickness_through_charm_or_projected_substance
+  label: Hostile practitioner sends sickness through charm or projected substance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes harmful ritual or magical illness causation, but
+    no current group cleanly covers hostile magic separate from healing, sacred law,
+    or divine intervention.
+  cautions: Culturally sensitive and source-dependent; avoid flattening Indigenous
+    practitioner categories into generic sorcery. Could be sacred_law if framed as
+    taboo/ritual danger, or divine_intervention if spirit agency dominates.
+  suggested_aliases:
+  - sickness_sent_by_hostile_charm
+  - projected_substance_causes_illness
+  - harmful_magic_sends_sickness
+  suggested_new_group:
+    id: harmful_magic_affliction
+    label: Harmful Magic and Affliction
+    description: Illness, injury, misfortune, or danger caused through hostile ritual
+      action, charms, projected substances, spirit attack, or magical aggression.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - divine_intervention
+    - sacred_substance
+    - sacrifice
+    reason_existing_groups_insufficient: Existing groups cover ritual law, spirit
+      expulsion, and intervention, but not the recurring causation pattern of hostile
+      magical affliction.
+- suggestion_id: normalization.suggestion.hostile-refusal-of-knightly-lodging
+  motif_id: hostile_refusal_of_knightly_lodging
+  label: Hostile refusal of knightly lodging
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusal of lodging is a breach or test of hospitality, especially in
+    chivalric guest-host contexts.
+  cautions: If merely an episode-specific travel obstacle without moral hospitality
+    focus, it may be too granular; Arthurian knightly framing should remain evidence
+    detail.
+  suggested_aliases:
+  - refusal_of_lodging_to_a_knight
+  - hostile_denial_of_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-relatives-die-when-food-does-not-satisfy-them
+  motif_id: hostile_relatives_die_when_food_does_not_satisfy_them
+  label: Hostile relatives die when food does not satisfy them
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kin hostility, food insufficiency, and death; the
+    narrative function is unclear from wording alone.
+  cautions: Could involve sacred substance, hospitality failure, supernatural appetite,
+    punishment, or episode-specific plot mechanics. Source context is needed.
+  suggested_aliases:
+  - unsatisfied_food_causes_hostile_relatives_death
+  - fatal_unsatisfied_appetite_of_relatives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - hospitality_test_stranger_guest
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-supernatural-woman-in-a-den-threatens-to-eat-visitors
+  motif_id: hostile_supernatural_woman_in_a_den_threatens_to_eat_visitors
+  label: hostile supernatural woman in a den threatens to eat visitors
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dangerous supernatural figure in a den threatening visitors functions
+    as a perilous threshold or guarded encounter.
+  cautions: The cannibal threat and female supernatural figure may have local significance;
+    if the den is an otherworld dwelling, otherworld may be a secondary mapping. Avoid
+    overgeneralizing without source review.
+  suggested_aliases:
+  - cannibal_supernatural_woman_in_den
+  - dangerous_den_dweller_threatens_visitors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - descent
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostilities-suspended-for-cultivation-work
+  motif_id: hostilities_suspended_for_cultivation_work
+  label: hostilities suspended for cultivation work
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe social truce, agricultural priority, seasonal
+    order, or ethnographic context rather than a stable motif.
+  cautions: Could map to sacred_time if calendrical/agricultural ritual is central,
+    or covenant/sacred_law if it is a binding social rule. Needs passage evidence.
+  suggested_aliases:
+  - truce_for_cultivation_work
+  - warfare_suspended_for_agriculture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - covenant
+    - sacred_law
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hosts-take-turns-providing-food-for-a-guest
+  motif_id: hosts_take_turns_providing_food_for_a_guest
+  label: hosts take turns providing food for a guest
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rotating provision of food to a guest belongs to structured hospitality
+    and guest-host obligation.
+  cautions: If the emphasis is reciprocal exchange rather than testing a guest/host,
+    sacred_exchange may be an important secondary mapping. Single occurrence may be
+    ethnographic detail.
+  suggested_aliases:
+  - rotating_hosts_feed_a_guest
+  - shared_hosting_obligation_for_guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and highly contextual; final mapping should
+  check whether the passage presents a recurring motif or only episode setting/ethnographic
+  detail.
+- Hospitality-related labels can mostly be reviewed under hospitality_test_stranger_guest,
+  with sacred_exchange or sacred_law as secondary depending on whether reciprocity
+  or obligation is emphasized.
+- Hostile magical illness labels may require culturally careful human review before
+  any new group is promoted.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3548
+  input_sha256: c1dd2fc7dc211069ffc54ee2e2eeebb1346be74658605d6e80b36852313ef95e
+

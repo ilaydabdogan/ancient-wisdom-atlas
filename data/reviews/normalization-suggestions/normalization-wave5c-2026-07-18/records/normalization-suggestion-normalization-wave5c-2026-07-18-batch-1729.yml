@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1729
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.war-story-lacking-prior-injury-prelude
+  motif_id: war_story_lacking_prior_injury_prelude
+  label: war story lacking prior-injury prelude
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes absence of a narrative prelude in a war story rather
+    than a positive motif.
+  cautions: Preserve only as a source-structure or editorial observation unless passages
+    actually encode a recurring war-justification pattern.
+  suggested_aliases:
+  - missing_prior_injury_prelude
+  - war_narrative_without_injury_prelude
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-trophies-as-qualification-for-highest-honor
+  motif_id: war_trophies_as_qualification_for_highest_honor
+  label: war trophies as qualification for highest honor
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: War trophies functioning as proof of valor and qualification for honor
+    fits martial proof/status within the warrior complex.
+  cautions: Could also involve social rank or ritual office; source context should
+    determine whether royal_legitimacy or sacred_law is a secondary mapping.
+  suggested_aliases:
+  - war_trophies_as_martial_honor_qualification
+  - trophies_as_proof_of_warrior_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-trophies-marking-a-successful-raid
+  motif_id: war_trophies_marking_a_successful_raid
+  label: War trophies marking a successful raid
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label ties trophies to successful raiding, matching the sacred_combat
+    group’s raid and warfare patterns.
+  cautions: If trophies mainly establish personal prestige rather than the raid structure,
+    divine_warrior may be a better secondary group.
+  suggested_aliases:
+  - war_trophies_as_raid_success_markers
+  - trophies_mark_successful_raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-trophy-elevates-father-in-law-s-status
+  motif_id: war_trophy_elevates_father_in_law_s_status
+  label: war trophy elevates father-in-law's status
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: The trophy appears to transfer prestige through an affinal relationship,
+    suggesting exchange or social reciprocity more than combat alone.
+  cautions: Highly contextual and culturally specific; may be kinship/status evidence
+    rather than a reusable motif. Review Indigenous source context before broad indexing.
+  suggested_aliases:
+  - war_trophy_transfers_status_to_affinal_kin
+  - trophy_elevates_in_law_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-trophy-taking-after-a-scouting-encounter
+  motif_id: war_trophy_taking_after_a_scouting_encounter
+  label: War trophy-taking after a scouting encounter
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Trophy-taking after a scouting clash is a specific martial encounter
+    within warfare or raiding patterns.
+  cautions: May be too episode-specific; preserve scouting context as evidence detail
+    rather than promoting a child motif.
+  suggested_aliases:
+  - trophy_taking_after_scouting_encounter
+  - scouting_encounter_yields_war_trophy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-and-recollection-before-judgment
+  motif_id: warning_and_recollection_before_judgment
+  label: Warning and recollection before judgment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Warning and recollection directly precede moral reckoning or judgment,
+    fitting the divine_judgment group.
+  cautions: If this concerns postmortem stages or karmic review in an afterlife landscape,
+    afterlife_passage may be a secondary mapping.
+  suggested_aliases:
+  - warning_before_moral_judgment
+  - recollection_before_judgment
+  - admonition_and_memory_before_reckoning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-ignored-because-of-pledged-honor
+  motif_id: warning_ignored_because_of_pledged_honor
+  label: warning ignored because of pledged honor
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ignoring a warning under a binding honor-pledge often functions as movement
+    toward foreknown or inescapable doom.
+  cautions: If the pledge itself is central, covenant or curse_blessing_speech may
+    be relevant; do not assume fate without source evidence of doomed outcome.
+  suggested_aliases:
+  - honor_pledge_overrides_warning
+  - warning_ignored_for_honor
+  - forewarning_rejected_under_pledged_honor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-object-placed-beside-a-sleeping-ruler
+  motif_id: warning_object_placed_beside_a_sleeping_ruler
+  label: Warning object placed beside a sleeping ruler
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A placed object acting as warning may be a token or power object, but
+    the label lacks enough function to place securely.
+  cautions: Could be advice to a ruler, symbolic admonition, recognition token, dream/vision
+    scene, or passage-specific anecdote; review source evidence.
+  suggested_aliases:
+  - warning_token_beside_sleeping_ruler
+  - admonitory_object_placed_by_sleeping_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-drowned-while-drinking-with-weapons-visible-underwater
+  motif_id: warrior_drowned_while_drinking_with_weapons_visible_underwater
+  label: Warrior drowned while drinking, with weapons visible underwater
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a single detailed episode rather than a reusable motif
+    category.
+  cautions: If the visible underwater weapons function as relics, revenant signs,
+    or heroic memorialization, review under sacred_treasures or heroic_funeral_rites.
+  suggested_aliases:
+  - drowned_warrior_with_weapons_visible_underwater
+  - warrior_death_by_drowning_while_drinking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-exhortation-against-flight-with-sea-blocking-retreat
+  motif_id: warrior_exhortation_against_flight_with_sea_blocking_retreat
+  label: warrior exhortation against flight with sea blocking retreat
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A battle exhortation against flight belongs with heroic martial duty
+    and warrior conduct under the divine_warrior complex.
+  cautions: The sea-blocked retreat detail is contextual; if the passage emphasizes
+    battlefield structure rather than warrior ethos, sacred_combat may be secondary.
+  suggested_aliases:
+  - warrior_exhortation_against_flight
+  - battle_exhortation_when_retreat_is_blocked
+  - sea_blocks_retreat_in_battle_exhortation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several war-trophy labels may benefit from a future reviewer pass on whether martial
+  trophy-taking should remain under divine_warrior/sacred_combat or receive a narrower
+  recurring subgroup. Treat culturally specific Indigenous warfare/status labels cautiously
+  and preserve local context.
+- Do not infer historical contact or shared origin from these placements; suggested
+  groups are broad pattern-query aids only.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 1729; human
+    taxonomy review recommended for culturally specific war-trophy and warning-token
+    items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1729
+  input_sha256: 64f2458d64f91a3897bcb28e2dc8fccbda70ee8970317c5c02c5fe5e2a955197
+

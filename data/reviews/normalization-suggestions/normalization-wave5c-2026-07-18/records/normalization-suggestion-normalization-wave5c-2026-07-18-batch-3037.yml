@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3037
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wearing-a-sibling-s-skull
+  motif_id: wearing_a_sibling_s_skull
+  label: wearing a sibling’s skull
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: low
+  rationale: Wearing a dead sibling's skull may be a mortuary kinship or ancestor-relation
+    practice involving bodily remains.
+  cautions: Single occurrence and culturally sensitive; could be mourning, relic handling,
+    ancestor rite, or ethnographic detail rather than a pattern motif.
+  suggested_aliases:
+  - wearing a relative's skull
+  - wearing the skull of the deceased
+  - kin wearing mortuary remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wearing-bones-of-the-deceased-by-relatives
+  motif_id: wearing_bones_of_the_deceased_by_relatives
+  label: wearing bones of the deceased by relatives
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Relatives wearing bones of the deceased plausibly belongs to ritual care
+    or continuing relation with the dead.
+  cautions: Culturally sensitive mortuary practice; verify whether this is ritual,
+    mourning, ancestor veneration, relic use, or descriptive ethnography before indexing.
+  suggested_aliases:
+  - wearing bones of the dead
+  - relatives wearing mortuary remains
+  - kin wearing ancestral bones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weekly-market-congregation-and-exchange
+  motif_id: weekly_market_congregation_and_exchange
+  label: Weekly market congregation and exchange
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a social or ethnographic setting rather than a symbolic
+    narrative motif.
+  cautions: If source evidence frames the market as sacred reciprocity, ritual exchange,
+    or threshold gathering, reconsider under sacred_exchange; otherwise exclude from
+    motif queries.
+  suggested_aliases:
+  - weekly market gathering
+  - market congregation
+  - market exchange setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weeping-together-during-kin-or-friend-visits
+  motif_id: weeping_together_during_kin_or_friend_visits
+  label: weeping together during kin or friend visits
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: low
+  rationale: Collective weeping during social visits may be a ritualized lament or
+    grief-recognition practice.
+  cautions: May be ordinary greeting etiquette, ethnographic custom, mourning rite,
+    or friendship/kinship display; source context is needed.
+  suggested_aliases:
+  - ritualized weeping during visits
+  - collective weeping at kin visits
+  - weeping greeting among relatives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wicked-seizure-of-household-inheritance
+  motif_id: wicked_seizure_of_household_inheritance
+  label: Wicked seizure of household inheritance
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A wrongful seizure of inheritance is a moral transgression likely used
+    for ethical reckoning or judgment.
+  cautions: Could instead belong to sacred_law, covenant, betrayal, or social-order
+    themes depending on whether the passage emphasizes legal violation, kin betrayal,
+    or punishment.
+  suggested_aliases:
+  - wrongful seizure of inheritance
+  - unjust appropriation of household inheritance
+  - inheritance theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.widespread-communal-string-figure-pastime
+  motif_id: widespread_communal_string_figure_pastime
+  label: widespread communal string-figure pastime
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a widespread pastime or cultural practice, not a
+    narrative or symbolic motif as stated.
+  cautions: If a specific string figure encodes creation, fate-weaving, sacred craft,
+    or ritual knowledge, index that specific function instead of this broad activity
+    label.
+  suggested_aliases:
+  - communal string figure pastime
+  - string-figure play
+  - widespread string figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wine-and-cup-as-recurring-counterpoint-to-religious-anxiety
+  motif_id: wine_and_cup_as_recurring_counterpoint_to_religious_anxiety
+  label: Wine and cup as recurring counterpoint to religious anxiety
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Wine and cup imagery in Sufi material fits sacred substance and divine
+    intoxication as symbolic spiritual counterpoint.
+  cautions: The phrase may be literary analysis rather than a passage motif; if the
+    emphasis is anti-formalist mystical critique, mystical_quest may be a secondary
+    review path.
+  suggested_aliases:
+  - wine and cup as spiritual counterpoint
+  - wine imagery against religious anxiety
+  - cup and wine of divine intoxication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wine-house-against-religious-formalism
+  motif_id: wine_house_against_religious_formalism
+  label: wine-house against religious formalism
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi usage, the wine-house often symbolizes an antinomian or interior
+    path beyond external formalism.
+  cautions: Could also map to sacred_substance if wine/intoxication is central; verify
+    this is symbolic mystical imagery and not only literary commentary.
+  suggested_aliases:
+  - tavern against religious formalism
+  - wine-house as anti-formalist sacred space
+  - tavern of mystical critique
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witch-aunts-as-helpers-against-a-devouring-pursuer
+  motif_id: witch_aunts_as_helpers_against_a_devouring_pursuer
+  label: witch aunts as helpers against a devouring pursuer
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: Supernatural or witch relatives acting as helpers against pursuit fits
+    helper-guidance or intervention in a peril episode.
+  cautions: Could belong to trickster, otherworld, threshold guardian, or a future
+    supernatural-helper group; label is composite and episode-specific.
+  suggested_aliases:
+  - witch relatives as helpers
+  - supernatural aunts aid against pursuer
+  - magical helpers against devouring pursuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witch-trapped-by-hair-during-grooming
+  motif_id: witch_trapped_by_hair_during_grooming
+  label: Witch trapped by hair during grooming
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: A witch trapped through grooming may be a deception, capture, or boundary-crossing
+    reversal episode.
+  cautions: Highly specific single occurrence; hair may signal vulnerability, magic,
+    binding, or just plot mechanics. Human review should decide whether to preserve
+    only as evidence detail.
+  suggested_aliases:
+  - witch captured by hair
+  - magical being trapped during grooming
+  - hair used to trap a witch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ethnographic or episode-specific
+  details; avoid promoting them without recurrence or stronger source evidence.
+- Mortuary-remains labels should be reviewed carefully for cultural sensitivity and
+  for distinction between ancestor rite, mourning, relic, and ethnographic description.
+- Sufi wine/tavern labels may be symbolic motifs, but some wording reads like literary
+  commentary and should be checked against passage evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3037
+  input_sha256: f126a0e9031072c60509f2e96762652aefed0e1c55c68f77393f652688293d3a
+

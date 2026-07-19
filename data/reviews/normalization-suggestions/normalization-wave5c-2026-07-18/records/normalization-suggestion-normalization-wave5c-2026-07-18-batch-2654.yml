@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2654
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.crow-or-raven-as-war-success-emblem
+  motif_id: crow_or_raven_as_war_success_emblem
+  label: crow or raven as war-success emblem
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A bird emblem of battle success could be omen, clan/sign symbolism, war
+    power, or culturally specific ritual meaning.
+  cautions: Single occurrence and Indigenous cultural context require source review;
+    do not reduce raven/crow symbolism to generic sacred combat without evidence.
+  suggested_aliases:
+  - raven_as_war_success_emblem
+  - crow_as_battle_success_sign
+  - corvid_war_emblem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - prophecy_divination
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.custom-conformity-as-admission-test
+  motif_id: custom_conformity_as_admission_test
+  label: Custom conformity as admission test
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Conforming to local custom as a condition of admission functions as a
+    threshold test of status or belonging.
+  cautions: Could be sacred_law or social-order evidence if no transformative admission
+    ordeal is present; verify source context.
+  suggested_aliases:
+  - custom_conformity_test
+  - admission_by_conforming_to_custom
+  - social_custom_as_threshold_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cycle-of-revenge-peace-and-blood-compensation
+  motif_id: cycle_of_revenge_peace_and_blood_compensation
+  label: cycle of revenge, peace, and blood compensation
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Blood compensation and peace-making regulate violence through social
+    law and obligation.
+  cautions: If the passage emphasizes feud narrative rather than legal repair, sacred_combat
+    or covenant may be secondary; review Indigenous legal context carefully.
+  suggested_aliases:
+  - revenge_peace_and_blood_compensation
+  - blood_compensation_after_revenge
+  - feud_settlement_by_compensation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cycle-of-violence-and-retaliatory-vengeance
+  motif_id: cycle_of_violence_and_retaliatory_vengeance
+  label: Cycle of violence and retaliatory vengeance
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Retaliatory vengeance and recurring violence fit the warfare and feud
+    side of sacred combat.
+  cautions: If the passage stresses moral reckoning or legal compensation, divine_judgment
+    or sacred_law may be better; avoid assuming ritual significance from the label
+    alone.
+  suggested_aliases:
+  - retaliatory_vengeance_cycle
+  - cycle_of_blood_vengeance
+  - recurring_vengeance_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dammed-stream-salmon-spearing
+  motif_id: dammed_stream_salmon_spearing
+  label: Dammed-stream salmon spearing
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a specific subsistence technique or scene detail rather
+    than a portable mythic motif.
+  cautions: If the passage gives salmon ritual, animal-helper, taboo, or origin significance,
+    remap with source evidence; do not index as conflict solely because spearing appears.
+  suggested_aliases:
+  - salmon_spearing_at_dammed_stream
+  - dammed_stream_fishing_detail
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-being-slain-by-a-retained-magical-weapon
+  motif_id: dangerous_being_slain_by_a_retained_magical_weapon
+  label: Dangerous being slain by a retained magical weapon
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The decisive element is a retained magical weapon functioning as a power
+    object that enables victory.
+  cautions: Could also index under sacred_combat if the combat structure is central;
+    verify whether the weapon has sacred origin or special power.
+  suggested_aliases:
+  - retained_magical_weapon_slays_dangerous_being
+  - magical_weapon_used_against_monster
+  - stored_power_weapon_kills_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-food-tested-and-declared-edible
+  motif_id: dangerous_food_tested_and_declared_edible
+  label: dangerous food tested and declared edible
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Testing dangerous food to determine edibility suggests taboo, purity,
+    or regulated consumption.
+  cautions: Could be passage-specific subsistence knowledge or trickster ordeal; source
+    context needed before treating as ritual law.
+  suggested_aliases:
+  - food_danger_tested_for_edibility
+  - edibility_test_of_dangerous_food
+  - dangerous_food_declared_safe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-forbidden-interior-warned-against-by-rumour
+  motif_id: dangerous_forbidden_interior_warned_against_by_rumour
+  label: dangerous forbidden interior warned against by rumour
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: low
+  rationale: A forbidden interior marked by warning functions as a dangerous threshold
+    or boundary to be crossed or avoided.
+  cautions: No guardian figure is explicit; may instead be forbidden knowledge, sacred
+    law, or an over-specific scene detail.
+  suggested_aliases:
+  - forbidden_interior_warning
+  - rumoured_dangerous_interior
+  - warning_against_forbidden_inside_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - forbidden_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-helper-rewarded-only-with-survival
+  motif_id: dangerous_helper_rewarded_only_with_survival
+  label: dangerous helper rewarded only with survival
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe coercive aid, an ambiguous bargain, mercy, or
+    a narrative role rather than a stable motif.
+  cautions: Single Greek occurrence and vague wording; review passage to determine
+    whether helper, reward, survival, or danger is the motif core.
+  suggested_aliases:
+  - helper_rewarded_with_survival_only
+  - dangerous_ally_spared_as_reward
+  - survival_as_only_reward_for_help
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - covenant
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-heroic-weapons-of-a-predecessor
+  motif_id: dangerous_heroic_weapons_of_a_predecessor
+  label: dangerous heroic weapons of a predecessor
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Inherited or predecessor weapons with danger or power fit sacred/power
+    objects that confer martial capacity or peril.
+  cautions: If the focus is succession legitimacy, royal_legitimacy may be secondary;
+    if simply equipment detail, keep as evidence note.
+  suggested_aliases:
+  - predecessor_heroic_weapons
+  - inherited_dangerous_weapons
+  - dangerous_arms_of_a_former_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review only; no transmission or borrowing
+  claims are implied.
+- Several labels are single-occurrence and culturally specific, especially Indigenous
+  North American and Amazonian items; source passages should be checked before broad
+  indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch contains multiple over-specific or culturally contextual conflict labels;
+    prioritize human review for corvid war emblem, dangerous helper, and subsistence/food-testing
+    items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2654
+  input_sha256: 9ff6e1c934ae40b15fbfff1f5bd98569546f4f69437694e80149544523a9e90d
+

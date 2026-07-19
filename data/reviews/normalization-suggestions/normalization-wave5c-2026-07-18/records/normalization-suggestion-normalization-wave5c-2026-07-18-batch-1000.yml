@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1000
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.religious-sanctuary-and-conflict-with-secular-authority
+  motif_id: religious_sanctuary_and_conflict_with_secular_authority
+  label: Religious sanctuary and conflict with secular authority
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns sacred institutional authority and its conflict with
+    secular power, fitting sacred law and social order better than sacrifice.
+  cautions: Single occurrence; may instead be historical or monastic-institutional
+    context rather than a reusable motif.
+  suggested_aliases:
+  - sanctuary_conflict_with_secular_authority
+  - sacred_sanctuary_against_secular_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-syncretism-through-transfer-from-pagan-goddess-to-christian-festival
+  motif_id: religious_syncretism_through_transfer_from_pagan_goddess_to_christian_festival
+  label: Religious syncretism through transfer from pagan goddess to Christian festival
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes scholarly interpretation of religious transfer or
+    syncretism, not a narrative motif in the source world.
+  cautions: Preserve as reception or historical-religion commentary if useful; do
+    not use as taxonomy evidence for transmission.
+  suggested_aliases:
+  - religious_syncretism_as_festival_transfer
+  - festival_syncretism_commentary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-transition-reshaping-inherited-tales
+  motif_id: religious_transition_reshaping_inherited_tales
+  label: Religious transition reshaping inherited tales
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a literary or transmission-history observation about tale reshaping,
+    not a symbolic or narrative motif.
+  cautions: Keep as provenance or redaction note if supported; avoid pattern queries
+    that treat it as a mythic motif.
+  suggested_aliases:
+  - conversion_context_reshapes_inherited_tales
+  - religious_transition_as_redaction_context
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relocation-of-gods-from-shrines-to-the-capital
+  motif_id: relocation_of_gods_from_shrines_to_the_capital
+  label: Relocation of gods from shrines to the capital
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Moving divine images or gods to the capital likely centralizes sacred
+    authority and supports political-religious legitimacy.
+  cautions: Could also fit sacred_treasures or divine_intervention if the passage
+    emphasizes divine images or agency rather than royal centralization.
+  suggested_aliases:
+  - centralization_of_gods_in_capital
+  - relocation_of_cult_images_to_capital
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-killing-of-a-sacred-or-tutelar-bird
+  motif_id: reluctant_killing_of_a_sacred_or_tutelar_bird
+  label: Reluctant killing of a sacred or tutelar bird
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: The reluctant killing of a sacred tutelary animal involves surrender
+    or killing of a valued sacred life.
+  cautions: Culturally sensitive and source-dependent; could instead involve taboo
+    violation, animal helper, or divine judgment if killing is transgressive rather
+    than sacrificial.
+  suggested_aliases:
+  - reluctant_killing_of_sacred_bird
+  - killing_of_tutelary_bird
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remembered-encounter-site-becomes-a-sacred-foundation
+  motif_id: remembered_encounter_site_becomes_a_sacred_foundation
+  label: Remembered encounter site becomes a sacred foundation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A remembered sacred encounter site becoming a foundation fits the creation
+    of a ritually organizing sacred place.
+  cautions: If the passage emphasizes pilgrimage or relic devotion, axis_mundi or
+    sacred_treasures may be relevant secondary groups.
+  suggested_aliases:
+  - sacred_foundation_at_encounter_site
+  - encounter_site_as_sacred_center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remembered-sacred-song-used-in-crisis
+  motif_id: remembered_sacred_song_used_in_crisis
+  label: Remembered sacred song used in crisis
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred song used in crisis treats song as an efficacious power or aid,
+    aligning with music and sound power.
+  cautions: If the song primarily transmits teaching or prayer, sacred_knowledge or
+    sacred_exchange may be better; preserve crisis-use detail.
+  suggested_aliases:
+  - sacred_song_used_in_crisis
+  - remembered_song_as_crisis_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remembrance-of-the-name-as-salvific-meeting-with-god
+  motif_id: remembrance_of_the_name_as_salvific_meeting_with_god
+  label: Remembrance of the Name as salvific meeting with God
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Remembrance of the divine Name as salvific encounter fits interior devotional
+    practice leading to divine meeting or liberation.
+  cautions: Could also fit sacred_knowledge or curse_blessing_speech if the focus
+    is sacred name power rather than contemplative practice.
+  suggested_aliases:
+  - divine_name_remembrance_as_salvation
+  - remembrance_of_the_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-cave-or-mountain-shrine-containing-sacred-images
+  motif_id: remote_cave_or_mountain_shrine_containing_sacred_images
+  label: remote cave or mountain shrine containing sacred images
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: narrower_than
+  confidence: medium
+  rationale: A remote cave or mountain shrine is a charged sacred place tied to mountain/cave
+    thresholds and sacred center imagery.
+  cautions: The sacred images may point to sacred_treasures or sacred_craft; source
+    context is needed before treating the location as axis or center rather than local
+    shrine description.
+  suggested_aliases:
+  - remote_mountain_shrine_with_sacred_images
+  - cave_shrine_with_sacred_images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-mourning-without-offerings
+  motif_id: remote_mourning_without_offerings
+  label: Remote mourning without offerings
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on mourning practice, with absence of offerings as
+    a ritual detail.
+  cautions: If the passage emphasizes proper ritual duty to the dead, ancestor_rites
+    or sacred_law may be better secondary mappings.
+  suggested_aliases:
+  - mourning_from_afar_without_offerings
+  - mourning_without_funeral_offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be historical, redactional, or scholarly-commentary
+  artifacts rather than reusable motifs; these were routed to _meta_textual or excluded
+  from pattern queries.
+- Single-occurrence ritual labels should be checked against source evidence before
+  adding aliases or children, especially where local religious practice is culturally
+  specific.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1000
+  input_sha256: 747bb8804b21f6db81e4d16af1fdad62b51cabc3fa5298b983a8e8c00a89192c
+

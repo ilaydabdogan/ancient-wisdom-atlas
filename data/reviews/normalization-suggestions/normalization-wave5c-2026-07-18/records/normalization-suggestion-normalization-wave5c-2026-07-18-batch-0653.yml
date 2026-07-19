@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0653
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.widow-s-post-bereavement-residence-guardianship-and-waiting-period
+  motif_id: widow_s_post_bereavement_residence_guardianship_and_waiting_period
+  label: Widow's post-bereavement residence, guardianship, and waiting period
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a culturally specific post-bereavement social or
+    ritual rule rather than a clear journey motif.
+  cautions: Needs source evidence and cultural review; may belong under sacred_law,
+    ancestor_rites, lament_and_mourning, or be too ethnographic/contextual for pattern
+    queries.
+  suggested_aliases:
+  - widow_post_bereavement_waiting_period
+  - widow_residence_after_bereavement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wilderness-animals-aid-an-innocent-exile
+  motif_id: wilderness_animals_aid_an_innocent_exile
+  label: Wilderness animals aid an innocent exile
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal helpers are already included under divine_intervention, and the
+    key function is aid to an endangered exile.
+  cautions: If the passage emphasizes exile ordeal over supernatural aid, hero_journey
+    may be a useful secondary mapping; if animals are trickster agents, review differently.
+  suggested_aliases:
+  - animal_helpers_aid_innocent_exile
+  - animals_help_exiled_innocent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wilderness-companionship-as-paradise-enough
+  motif_id: wilderness_companionship_as_paradise_enough
+  label: Wilderness companionship as paradise enough
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_beloved
+  suggested_group_label: Divine Beloved
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, beloved companionship transforming wilderness into paradise
+    fits sacred love and the divine beloved more than literal travel.
+  cautions: If the companion is not divine or spiritually symbolic, this may be a
+    poetic passage detail under sacred_love or mystical_quest rather than a durable
+    motif.
+  suggested_aliases:
+  - beloved_companionship_makes_wilderness_paradise
+  - companionship_as_paradise_in_wilderness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wilderness-encampment-after-departure
+  motif_id: wilderness_encampment_after_departure
+  label: wilderness encampment after departure
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a scene-setting travel detail after departure, not a recurrent
+    symbolic or narrative motif by itself.
+  cautions: If the encampment marks a threshold ordeal, exile, or revelation site,
+    remap to hero_journey or initiation with passage evidence.
+  suggested_aliases:
+  - encampment_after_departure
+  - wilderness_camp_after_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wind-and-wave-borne-arrival-in-a-new-land
+  motif_id: wind_and_wave_borne_arrival_in_a_new_land
+  label: wind- and wave-borne arrival in a new land
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Arrival in a new land by wind and waves functions as a journey transition
+    or displacement after departure.
+  cautions: If winds or waves are explicitly divine agents, divine_intervention or
+    sacred_waters may be secondary; avoid treating ordinary sea travel as flood or
+    descent.
+  suggested_aliases:
+  - wind_wave_borne_arrival
+  - sea_borne_arrival_in_new_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wind-and-weather-ownership-by-totems
+  motif_id: wind_and_weather_ownership_by_totems
+  label: Wind and weather ownership by totems
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns totemic authority over weather, which is not well
+    represented by existing groups and may be culturally specific.
+  cautions: Needs culturally informed review; could relate to divine_intervention,
+    sacred_law, sacred_knowledge, or a future totemic/weather powers group. Do not
+    flatten to generic nature symbolism.
+  suggested_aliases:
+  - totemic_ownership_of_wind_and_weather
+  - weather_powers_owned_by_totems
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wind-borne-witch-packet-causing-loss-at-a-water-crossing
+  motif_id: wind_borne_witch_packet_causing_loss_at_a_water_crossing
+  label: Wind-borne witch packet causing loss at a water crossing
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This combines witchcraft object, wind transport, loss, and water-crossing
+    peril; the dominant function is unclear from the label alone.
+  cautions: May fit sacred_treasures, sacred_waters, threshold_guardian, trickster,
+    or apotropaic/sacred_law depending on evidence; likely over-specific as a standalone
+    motif.
+  suggested_aliases:
+  - witch_packet_causes_loss_at_water_crossing
+  - wind_borne_magic_packet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wind-feather-condition-before-canoe-departure
+  motif_id: wind_feather_condition_before_canoe_departure
+  label: wind-feather condition before canoe departure
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to tell whether it describes a ritual condition,
+    omen, charm, or object used before departure.
+  cautions: Culturally specific evidence needed; possible mappings include prophecy_divination,
+    sacred_law, sacred_treasures, or hero_journey. Avoid broad mapping from the travel
+    setting alone.
+  suggested_aliases:
+  - feather_condition_before_canoe_departure
+  - wind_feather_departure_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wind-in-a-bag-entrusted-to-a-voyager
+  motif_id: wind_in_a_bag_entrusted_to_a_voyager
+  label: Wind in a bag entrusted to a voyager
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: A bag containing wind is a supernatural container holding a powerful
+    force, fitting the sacred vessel/container group.
+  cautions: Secondary mapping to hero_journey may be useful because the object is
+    entrusted during voyage; if the emphasis is failed trust, consider betrayal_violated_trust.
+  suggested_aliases:
+  - bag_of_winds_entrusted_to_voyager
+  - contained_winds_given_to_traveler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witch-s-daughters-lure-a-traveler-with-food
+  motif_id: witch_s_daughters_lure_a_traveler_with_food
+  label: witch's daughters lure a traveler with food
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A traveler is drawn into danger by liminal hostile figures using food,
+    matching perilous lure at a journey threshold.
+  cautions: Could also fit trickster if deception is central, or sacred_substance
+    if the food has magical effects; preserve witch-daughter detail as local evidence.
+  suggested_aliases:
+  - food_lure_by_witch_daughters
+  - traveler_lured_with_food_by_witches
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and culturally specific; retain
+  local evidence and avoid promoting them without recurrence review.
+- Journey-bucket labels involving wind, water, or wilderness should not automatically
+  be mapped to flood, descent, or sacred waters unless the passage function supports
+  that placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended especially
+    for totemic/weather and culturally specific ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0653
+  input_sha256: ccf5d0ea8d6d769874fb91f9b29d11a69cb8f6014e521268d5137011dfa4f8c1
+

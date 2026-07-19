@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3529
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hidden-achiever-behind-a-praised-proxy
+  motif_id: hidden_achiever_behind_a_praised_proxy
+  label: Hidden achiever behind a praised proxy
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests hidden merit, misdirected praise, or concealed identity,
+    but the narrative function is unclear from wording alone.
+  cautions: Single occurrence; could be ethical exemplum, recognition/identity pattern,
+    or passage-specific plot detail.
+  suggested_aliases:
+  - unrecognized_achiever_behind_praised_proxy
+  - misdirected_praise_for_hidden_deed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-adulterer-discovered-in-the-marital-bed
+  motif_id: hidden_adulterer_discovered_in_the_marital_bed
+  label: Hidden adulterer discovered in the marital bed
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a betrayal or sexual transgression discovery, but no current
+    group clearly covers adultery scenes as motifs.
+  cautions: Single occurrence and highly episode-specific; review whether it drives
+    moral reckoning, violated trust, or is only plot detail.
+  suggested_aliases:
+  - adulterer_hidden_in_marital_bed
+  - discovery_of_hidden_adulterer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-ambush-at-a-place-of-concealment
+  motif_id: hidden_ambush_at_a_place_of_concealment
+  label: hidden ambush at a place of concealment
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed ambush is a warfare stratagem and fits the broader combat/raid
+    conflict complex.
+  cautions: May be too generic unless ambush has ritual, heroic, or fate-significant
+    function; preserve concealment detail as evidence.
+  suggested_aliases:
+  - concealed_ambush
+  - ambush_from_hidden_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-aquatic-wealth-disclosed-by-a-supernatural-figure
+  motif_id: hidden_aquatic_wealth_disclosed_by_a_supernatural_figure
+  label: Hidden aquatic wealth disclosed by a supernatural figure
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core motif is concealed wealth or treasure revealed through supernatural
+    agency.
+  cautions: If the water setting is the main threshold or otherworld access point,
+    sacred_waters or otherworld may be relevant secondary mappings.
+  suggested_aliases:
+  - supernatural_disclosure_of_hidden_underwater_wealth
+  - hidden_water_treasure_revealed_by_supernatural_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - otherworld
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-armed-company-discovered-by-a-humble-watcher
+  motif_id: hidden_armed_company_discovered_by_a_humble_watcher
+  label: hidden armed company discovered by a humble watcher
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed armed group discovered before conflict fits a combat stratagem
+    or war-warning episode.
+  cautions: The humble watcher may be socially or morally important; if recognition
+    or revelation is central, review context before final mapping.
+  suggested_aliases:
+  - hidden_warband_discovered_by_humble_watcher
+  - concealed_armed_company_revealed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-attack-from-a-pit
+  motif_id: hidden_attack_from_a_pit
+  label: Hidden attack from a pit
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A surprise attack from concealment is best treated as a granular combat
+    stratagem.
+  cautions: If the pit functions as underworld threshold, trap, or ritual space, a
+    different secondary placement may be needed.
+  suggested_aliases:
+  - ambush_from_a_pit
+  - concealed_pit_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - descent
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-bewitching-bundle-or-cache-controlling-illness
+  motif_id: hidden_bewitching_bundle_or_cache_controlling_illness
+  label: Hidden bewitching bundle or cache controlling illness
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines harmful magic, hidden object, and illness control,
+    which could fit several ritual or soul-affliction patterns.
+  cautions: Culturally sensitive healing/witchcraft terminology; review source evidence
+    before mapping to sacred_law, sacred_treasures, external_soul, or soul_loss_restoration.
+  suggested_aliases:
+  - hidden_magic_cache_controlling_illness
+  - bewitching_bundle_causes_or_controls_sickness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_law
+    - soul_loss_restoration
+    - external_soul
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-bodily-weak-point-revealed-by-a-small-helper
+  motif_id: hidden_bodily_weak_point_revealed_by_a_small_helper
+  label: Hidden bodily weak point revealed by a small helper
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: high
+  rationale: A concealed vulnerable body point is exactly the hidden-weakness structure,
+    with helper disclosure as local detail.
+  cautions: Keep the small-helper role as evidence detail; do not overread as animal-helper
+    or trickster unless source supports it.
+  suggested_aliases:
+  - hidden_vulnerable_point_revealed_by_helper
+  - small_helper_reveals_weak_spot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-box-reveals-murdered-kin
+  motif_id: hidden_box_reveals_murdered_kin
+  label: Hidden box reveals murdered kin
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A concealed container exposing kin murder may involve revelation, violated
+    kinship, or a sacred vessel, but function is unclear.
+  cautions: Single occurrence and likely episode-specific; review whether the box
+    is a power object or merely a plot device.
+  suggested_aliases:
+  - concealed_box_discloses_murdered_kin
+  - hidden_container_reveals_kin_murder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    - betrayal_violated_trust
+    - divine_judgment
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-buffalo-located-in-a-rock-den
+  motif_id: hidden_buffalo_located_in_a_rock_den
+  label: hidden buffalo located in a rock den
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern animal abundance, hunting discovery, cave/rock
+    enclosure, or sacred animal location, but context is missing.
+  cautions: Single occurrence; culturally specific animal and landscape imagery should
+    not be flattened into cave/descent or treasure without passage evidence.
+  suggested_aliases:
+  - buffalo_hidden_in_rock_den
+  - discovery_of_hidden_buffalo_in_rock_shelter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_vessel
+    - otherworld
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; suggestions favor broad
+  review groups only where narrative function is clear.
+- Combat-concealment labels were provisionally grouped under sacred_combat rather
+  than creating a new ambush group.
+- Culturally specific illness, witchcraft, and animal-location labels should receive
+  human source review before final normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional machine suggestions only; human review required for ambiguous
+    and culturally sensitive items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3529
+  input_sha256: a0c4c714477ec600ea9490be025087773d5380110dedd41e20b7234007a8fd48
+

@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2035
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.afflicted-animal-or-plant-cured-by-removal-of-hidden-object
+  motif_id: afflicted_animal_or_plant_cured_by_removal_of_hidden_object
+  label: afflicted animal or plant cured by removal of hidden object
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests healing, hidden-object extraction, animal/plant affliction,
+    and possibly spirit or magic causation, but no existing group clearly captures
+    the function from the label alone.
+  cautions: Single occurrence and culturally contextual; could fit divine_intervention,
+    sacred_law/apotropaic healing, sacred_treasures, or a future magical-healing group
+    depending on source evidence.
+  suggested_aliases:
+  - hidden_object_removed_to_cure_affliction
+  - animal_or_plant_healed_by_extracting_hidden_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agreed-animal-and-object-signs-reveal-a-place
+  motif_id: agreed_animal_and_object_signs_reveal_a_place
+  label: agreed animal and object signs reveal a place
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal and object signs used to identify or reveal a place function as
+    sign-reading or divination-like guidance.
+  cautions: If the signs are part of a one-off quest instruction rather than an established
+    omen practice, hero_journey or divine_intervention may be better secondary mappings.
+  suggested_aliases:
+  - animal_and_object_omens_reveal_a_place
+  - agreed_signs_identify_a_location
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.altered-perception-in-animal-realm
+  motif_id: altered_perception_in_animal_realm
+  label: altered perception in animal realm
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on altered perception, already covered by the dream_and_vision
+    group, with the animal realm as the local setting or medium.
+  cautions: If the animal realm is an autonomous enchanted domain, otherworld may
+    be a better or secondary mapping; if the human takes animal form, consider shapeshifter.
+  suggested_aliases:
+  - animal_realm_altered_perception
+  - visionary_perception_in_animal_world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-bird-human-group
+  motif_id: ambiguous_bird_human_group
+  label: ambiguous bird-human group
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A bird-human group could indicate transformation, hybrid beings, spirits,
+    a named people, or a descriptive passage detail.
+  cautions: Avoid mapping to shapeshifter without evidence of change of form; could
+    be a person/place-only ethnographic or narrative artifact.
+  suggested_aliases:
+  - bird_human_hybrid_group
+  - ambiguous_avian_human_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-reference-to-human-victims-as-slaughtered-animals
+  motif_id: ambiguous_reference_to_human_victims_as_slaughtered_animals
+  label: ambiguous reference to human victims as slaughtered animals
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording flags an ambiguous reference or simile rather than a stable
+    narrative motif.
+  cautions: If the passage has ritualized human sacrifice, battle slaughter, or animal-human
+    transformation, preserve that evidence under sacrifice, sacred_combat, or shapeshifter
+    instead.
+  suggested_aliases:
+  - human_victims_compared_to_slaughtered_animals
+  - ambiguous_slaughtered_animals_reference
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.anatomical-redistribution-explains-animal-traits
+  motif_id: anatomical_redistribution_explains_animal_traits
+  label: Anatomical redistribution explains animal traits
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Explaining present animal traits through an origin episode is an etiological
+    creation pattern, even if focused on animal anatomy rather than the whole cosmos.
+  cautions: May be better handled by a future animal-etiology subgroup if many such
+    labels recur; do not imply cosmic-scale creation unless the passage supports it.
+  suggested_aliases:
+  - animal_trait_etiology_by_anatomical_redistribution
+  - origin_of_animal_traits_by_body_part_redistribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-rebellion-at-human-creation
+  motif_id: angelic_rebellion_at_human_creation
+  label: Angelic rebellion at human creation
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: alias
+  confidence: high
+  rationale: The normalization aliases already include fall or rebellion of a heavenly
+    being through refusal of commanded homage under divine_intervention.
+  cautions: Also relates to cosmic_origin because the rebellion occurs at human creation;
+    source context may warrant secondary indexing to divine_judgment or pride_and_downfall.
+  suggested_aliases:
+  - fall_of_a_heavenly_being_at_human_creation
+  - refusal_of_homage_to_created_human
+  - angelic_rebellion_against_human_creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angry-hunter-releases-animal-as-mirror-of-self
+  motif_id: angry_hunter_releases_animal_as_mirror_of_self
+  label: Angry hunter releases animal as mirror of self
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a moral-psychological episode involving compassion,
+    anger, animal encounter, and self-recognition, not a clear existing motif group.
+  cautions: Could fit sacred_law if framed as ethical treatment of animals, sacred_knowledge
+    if self-knowledge is central, or be too passage-specific for pattern queries.
+  suggested_aliases:
+  - animal_released_as_self_mirror
+  - hunter_self_recognition_through_released_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-abundance-from-a-marked-hollow-tree
+  motif_id: animal_abundance_from_a_marked_hollow_tree
+  label: Animal abundance from a marked hollow tree
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already includes miraculous provision, inexhaustible provision,
+    animal source of abundance, and animal helpers; the hollow tree is likely the
+    local source image.
+  cautions: If the marked hollow tree is cosmological or a sacred center, axis_mundi
+    may be relevant; if it is a power container, consider sacred_vessel or sacred_treasures
+    as secondary.
+  suggested_aliases:
+  - animals_from_hollow_tree
+  - marked_tree_as_source_of_animal_abundance
+  - animal_provision_from_hollow_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-adoptee-reciprocates-by-providing-food
+  motif_id: animal_adoptee_reciprocates_by_providing_food
+  label: Animal adoptee reciprocates by providing food
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The central pattern is reciprocity: care or adoption is repaid through
+    food provision.'
+  cautions: If the animal is primarily a supernatural helper or abundance source,
+    divine_intervention may be a secondary mapping; review whether adoption is literal
+    kinship, spirit relation, or fable structure.
+  suggested_aliases:
+  - adopted_animal_reciprocates_with_food
+  - animal_recipient_of_care_returns_food
+  - animal_adoptee_food_reciprocity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal encounter or animal-etiology
+  items; preserve source-specific animal details as evidence notes unless recurrence
+  supports a dedicated animal-etiology or animal-helper subgroup.
+- 'Review bucket placement is only rough: some items belong better to prophecy/divination,
+  sacred exchange, cosmic origin, or divine intervention than to transformation/trickster.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    low-confidence and culturally contextual animal-spirit items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2035
+  input_sha256: 6a0582d0c7923ccf42a8015d3fbd08383f471aa5d9194bfa27c6f2fbd9160337
+

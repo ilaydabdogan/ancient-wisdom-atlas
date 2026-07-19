@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1086
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-sound-sequence-marking-behavioral-transition
+  motif_id: ritual_sound_sequence_marking_behavioral_transition
+  label: ritual sound sequence marking behavioral transition
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual sound as a cue within a ceremony, but no
+    existing group clearly covers behavioral sequencing by sound.
+  cautions: Single occurrence and highly procedural; may be ethnographic or passage-specific
+    rather than a motif. Review cultural context before grouping under enchanting_music
+    or sacred_law.
+  suggested_aliases:
+  - ritual_sound_cue
+  - ritual_acoustic_transition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-sound-summons-captives
+  motif_id: ritual_sound_summons_captives
+  label: ritual sound summons captives
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sound functions as a compelling or summoning force, matching the broader
+    sound-power group.
+  cautions: Captive-summoning may be a ritual or military detail; confirm that sound
+    has more than ordinary signaling function.
+  suggested_aliases:
+  - ritual_sound_summoning_captives
+  - sound_summons_captives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-sound-terrifies-enemies-before-battle
+  motif_id: ritual_sound_terrifies_enemies_before_battle
+  label: Ritual sound terrifies enemies before battle
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The sound is ritually deployed in a pre-battle context to affect enemies,
+    fitting ritualized warfare.
+  cautions: Could also relate to enchanting_music if supernatural compulsion is explicit;
+    avoid assuming sacred combat if it is merely practical intimidation.
+  suggested_aliases:
+  - pre_battle_ritual_sound_terrifies_enemies
+  - ritual_sound_as_battle_intimidation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-sovereignty-aligned-with-cosmic-correspondences
+  motif_id: ritual_sovereignty_aligned_with_cosmic_correspondences
+  label: ritual sovereignty aligned with cosmic correspondences
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritual alignment of rulership with cosmic order is a clear sacred-kingship
+    legitimacy pattern.
+  cautions: May also support sacred_law or supreme_ruler depending on whether the
+    passage emphasizes ritual order, moral governance, or universal sovereignty.
+  suggested_aliases:
+  - cosmic_correspondence_legitimizes_sovereignty
+  - ritual_cosmic_alignment_of_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-space-defined-by-boundary-and-landmarks
+  motif_id: ritual_space_defined_by_boundary_and_landmarks
+  label: ritual space defined by boundary and landmarks
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Defining ritual space by boundaries and markers fits sacral regulation
+    of practice and ritual order.
+  cautions: If the space is a cosmic center or mandalic geography, axis_mundi or world_center
+    may be better; label alone is procedural.
+  suggested_aliases:
+  - ritual_boundary_landmarks
+  - bounded_ritual_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-space-organized-by-officiant-stations
+  motif_id: ritual_space_organized_by_officiant_stations
+  label: Ritual space organized by officiant stations
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif describes regulated ritual arrangement and officiant roles
+    within sacred order.
+  cautions: May be too liturgical and passage-specific for pattern queries unless
+    repeated across sources; consider excluding if only a ritual-description artifact.
+  suggested_aliases:
+  - officiant_stations_structure_ritual_space
+  - ritual_officiant_spatial_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-spatial-segregation-of-weapons
+  motif_id: ritual_spatial_segregation_of_weapons
+  label: ritual spatial segregation of weapons
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This could be a purity rule, weapon taboo, or combat ritual, but the
+    function is unclear from the label.
+  cautions: Single occurrence and culturally specific; verify whether segregation
+    marks sacred danger, peacemaking, initiation, or ordinary storage before mapping.
+  suggested_aliases:
+  - ritual_weapon_segregation
+  - weapon_spatial_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-specialist-as-alleged-poisoner
+  motif_id: ritual_specialist_as_alleged_poisoner
+  label: ritual specialist as alleged poisoner
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns accusation against a ritual role and may be social
+    conflict rather than a stable mythic motif.
+  cautions: Culturally sensitive and potentially source-dependent; avoid indexing
+    as poisoner or ritual-specialist type without passage evidence.
+  suggested_aliases:
+  - accused_ritual_specialist_poisoner
+  - ritual_specialist_poisoning_accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-specialist-as-authoritative-host-at-a-village-threshold
+  motif_id: ritual_specialist_as_authoritative_host_at_a_village_threshold
+  label: ritual specialist as authoritative host at a village threshold
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual authority, hospitality, and threshold position,
+    with no single clear dominant function.
+  cautions: Could fit hospitality_test_stranger_guest, threshold_guardian, sacred_law,
+    or local social protocol; source context is needed.
+  suggested_aliases:
+  - ritual_host_at_village_threshold
+  - ritual_specialist_threshold_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-specialist-as-concealed-supernatural-agent
+  motif_id: ritual_specialist_as_concealed_supernatural_agent
+  label: Ritual specialist as concealed supernatural agent
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A ritual specialist acting as a hidden supernatural agent fits mediated
+    sacred agency in human affairs.
+  cautions: Could instead be disguise, shamanic role, or accusation depending on passage
+    evidence; review carefully for cultural specificity.
+  suggested_aliases:
+  - concealed_supernatural_ritual_specialist
+  - ritual_specialist_hidden_sacred_agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual procedure or role descriptions;
+  human review should decide whether they are motifs or ethnographic/passage artifacts.
+- Sound-power labels may divide between enchanting_music when sound compels or summons
+  and sacred_combat when sound functions in battle ritual.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; ritual-specialist and culturally specific ritual-space
+    labels need evidence review before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1086
+  input_sha256: 1a8ed2e202630332717f71e13d5b804734fa46782d9be822ed410df299e9f4c0
+

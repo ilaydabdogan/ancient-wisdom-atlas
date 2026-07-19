@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1241
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.angelic-revelation-of-future-fate
+  motif_id: angelic_revelation_of_future_fate
+  label: Angelic revelation of future fate
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: An angelic disclosure of future fate functions as prophetic revelation
+    of hidden future knowledge.
+  cautions: Could alternatively belong under divine_intervention if the emphasis is
+    messenger agency rather than foreknowledge.
+  suggested_aliases:
+  - angelic_disclosure_of_future_destiny
+  - divine_messenger_reveals_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.anger-and-speech-as-world-burning-fire
+  motif_id: anger_and_speech_as_world_burning_fire
+  label: Anger and speech as world-burning fire
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on speech as destructive sacred power, with fire as
+    the metaphor of its effect.
+  cautions: If the passage describes literal cosmic conflagration, world_destroying_fire
+    or sacred_fire may be relevant; if only poetic imagery, preserve as evidence detail.
+  suggested_aliases:
+  - destructive_speech_as_fire
+  - wrathful_speech_burns_the_world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angry-insult-song-as-social-conflict
+  motif_id: angry_insult_song_as_social_conflict
+  label: angry insult song as social conflict
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: low
+  rationale: An insult song may function as performative speech that harms, challenges,
+    or binds social relations.
+  cautions: Could be a culturally specific song genre or contextual social practice;
+    review source evidence before treating as a broad motif.
+  suggested_aliases:
+  - insult_song_as_conflict_speech
+  - angry_song_as_social_challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-address-or-animal-story-in-song-titles
+  motif_id: animal_address_or_animal_story_in_song_titles
+  label: animal address or animal story in song titles
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a pattern in song titles rather than a narrative
+    or symbolic motif in the passage world.
+  cautions: If the song content itself involves animal speech or animal myth, remap
+    that evidence under trickster, shapeshifter, or animal-related groups as appropriate.
+  suggested_aliases:
+  - animal_song_title_pattern
+  - animal_address_in_song_titles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-and-banner-transformations-in-dreams
+  motif_id: animal_and_banner_transformations_in_dreams
+  label: animal and banner transformations in dreams
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif is explicitly dream imagery involving symbolic transformation.
+  cautions: If the transformation predicts political fate, prophecy_divination or
+    royal_legitimacy may be secondary; the label is composite and context-dependent.
+  suggested_aliases:
+  - dream_transformation_of_animals_and_banners
+  - symbolic_transformations_in_dreams
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-and-bird-similes-in-moral-instruction
+  motif_id: animal_and_bird_similes_in_moral_instruction
+  label: animal and bird similes in moral instruction
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: over_specific_label
+  confidence: low
+  rationale: Animal and bird comparisons used for moral teaching fit wisdom instruction
+    more than animal transformation.
+  cautions: May be a rhetorical or didactic device rather than a motif; exclude if
+    it only records style of instruction.
+  suggested_aliases:
+  - animal_similes_in_moral_teaching
+  - bird_similes_as_wisdom_instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-and-cattle-abundance-in-place-names
+  motif_id: animal_and_cattle_abundance_in_place_names
+  label: animal and cattle abundance in place-names
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: low
+  rationale: Place-name explanation fits the existing etiological place-naming cluster
+    under cosmic_origin.
+  cautions: If this is only lexical/toponymic commentary rather than a mythic origin
+    account, exclude from pattern queries.
+  suggested_aliases:
+  - place_name_etiology_from_animal_abundance
+  - cattle_abundance_place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-and-named-power-fetiches-in-childbirth
+  motif_id: animal_and_named_power_fetiches_in_childbirth
+  label: Animal- and named-power fetiches in childbirth
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines childbirth, named powers, animals, and ritual objects
+    without enough evidence to choose a stable group.
+  cautions: Culturally sensitive and possibly antiquated wording; review whether the
+    source concerns childbirth protection, sacred treasures, miraculous birth, or
+    ritual law.
+  suggested_aliases:
+  - animal_power_objects_in_childbirth
+  - named_power_objects_for_childbirth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-and-plant-names-as-identifiers-for-craft-and-weapons
+  motif_id: animal_and_plant_names_as_identifiers_for_craft_and_weapons
+  label: animal and plant names as identifiers for craft and weapons
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe naming or classification of artifacts rather
+    than a mythic action or symbolic function.
+  cautions: If named weapons or craft objects carry sacred power in the narrative,
+    remap to sacred_treasures or sacred_craft.
+  suggested_aliases:
+  - animal_plant_names_for_weapons
+  - craft_and_weapon_naming_by_nature_terms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-assisted-trial-through-borrowed-eyes-and-counsel
+  motif_id: animal_assisted_trial_through_borrowed_eyes_and_counsel
+  label: Animal-assisted trial through borrowed eyes and counsel
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal aid supplying perception and counsel during a trial fits supernatural
+    guidance and existing animal_helpers under divine_intervention.
+  cautions: Could also involve initiation if the trial transforms status, or shapeshifter
+    if borrowed eyes imply bodily transformation.
+  suggested_aliases:
+  - animal_helper_lends_sight_and_counsel
+  - borrowed_animal_eyes_in_trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be rhetorical, title-pattern, or naming artifacts;
+  source evidence should determine whether they represent passage-world motifs or
+  metadata.
+- Animal-related labels should not be automatically mapped to animal/trickster groups
+  when their function is dream symbolism, instruction, naming, childbirth ritual,
+  or supernatural guidance.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; items with single occurrences and culturally
+    specific ritual language need human evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1241
+  input_sha256: 26ecda18531fa865aef0a80ca53e6870e71a5d7cd63a7cfb2f6d8c5eb7efb44c
+

@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4095
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.witchcraft-object-used-against-crops
+  motif_id: witchcraft_object_used_against_crops
+  label: witchcraft object used against crops
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Harmful ritual object use against crops may belong with ritual danger,
+    taboo, and apotropaic/spirit-affliction concerns already folded under sacred_law.
+  cautions: Culturally sensitive witchcraft label and single occurrence; could instead
+    be agricultural magic, spirit affliction, divine judgment, or an ethnographic
+    detail depending on source evidence.
+  suggested_aliases:
+  - crop-harming witchcraft object
+  - malefic object against crops
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witchcraft-spell-causing-sickness-after-an-offense
+  motif_id: witchcraft_spell_causing_sickness_after_an_offense
+  label: Witchcraft spell causing sickness after an offense
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: The label links sickness to an offense and punitive supernatural causation,
+    which may function as moral reckoning.
+  cautions: Witchcraft and illness causation are culturally sensitive; if the focus
+    is ritual harm rather than moral consequence, sacred_law or a future harmful-magic
+    group may fit better.
+  suggested_aliases:
+  - spell-caused sickness after offense
+  - supernatural sickness as retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.witches-harm-people-through-reachable-food
+  motif_id: witches_harm_people_through_reachable_food
+  label: Witches harm people through reachable food
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food as a vehicle of harmful spiritual contact fits ritual danger, taboo,
+    and protective regulation under sacred_law.
+  cautions: Could overlap with betrayal through food or sacred_substance if the passage
+    emphasizes deception, ingestion, or food power rather than witchcraft danger.
+  suggested_aliases:
+  - harm through accessible food
+  - witchcraft harm through food contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withdrawal-alternative-cell-or-home
+  motif_id: withdrawal_alternative_cell_or_home
+  label: 'withdrawal alternative: cell or home'
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads like an editorial or source-variant note about alternative
+    readings or settings, not a stable symbolic motif.
+  cautions: If the passage describes religious seclusion or retreat as an enacted
+    narrative pattern, reconsider under mystical_quest or renunciation.
+  suggested_aliases:
+  - cell-or-home variant
+  - withdrawal setting variant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withdrawal-into-wild-refuge-while-a-smaller-force-delays
+  motif_id: withdrawal_into_wild_refuge_while_a_smaller_force_delays
+  label: withdrawal into wild refuge while a smaller force delays
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on military withdrawal, refuge, and a delaying smaller
+    force, fitting combat strategy within sacred_combat.
+  cautions: If the wild refuge is the main symbolic element, hero_journey or otherworld
+    may be secondary; the label may be episode-specific.
+  suggested_aliases:
+  - rear-guard delay during withdrawal
+  - wild refuge protected by smaller force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withdrawal-of-lay-support-as-communal-correction
+  motif_id: withdrawal_of_lay_support_as_communal_correction
+  label: Withdrawal of lay support as communal correction
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Communal sanction through withdrawal of support functions as religious
+    discipline and social order.
+  cautions: May be a monastic/legal institutional detail rather than a mythic motif;
+    review whether it recurs as narrative pattern or doctrinal rule.
+  suggested_aliases:
+  - communal correction by withdrawing support
+  - lay-support sanction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withdrawal-of-power-from-an-abusive-medicine-holder
+  motif_id: withdrawal_of_power_from_an_abusive_medicine_holder
+  label: Withdrawal of power from an abusive medicine-holder
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Loss of sacred power after abuse functions as moral correction and supernatural
+    sanction.
+  cautions: Culturally sensitive terminology; could also fit sacred_knowledge if the
+    focus is authorized/unauthorized power transmission rather than punishment.
+  suggested_aliases:
+  - loss of medicine power after abuse
+  - sacred power withdrawn from abusive holder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withdrawal-of-rescue-after-hypocrisy-is-detected
+  motif_id: withdrawal_of_rescue_after_hypocrisy_is_detected
+  label: Withdrawal of rescue after hypocrisy is detected
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rescue being withheld because hypocrisy is exposed is a moral reckoning
+    pattern.
+  cautions: If the rescuer is not divine or sacred, this may be a general ethical
+    plot reversal rather than a sacred-judgment motif.
+  suggested_aliases:
+  - rescue withdrawn after hypocrisy
+  - hypocrisy detected and aid refused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withdrawal-of-supernatural-food-after-diet-change
+  motif_id: withdrawal_of_supernatural_food_after_diet_change
+  label: Withdrawal of supernatural food after diet change
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: low
+  rationale: Supernatural food and its loss fits sacred_substance, especially if food
+    is a sacred provision or transformative substance.
+  cautions: Could instead be divine_intervention if the emphasis is miraculous provision,
+    sacred_law if the diet change violates taboo, or divine_judgment if withdrawal
+    is punitive.
+  suggested_aliases:
+  - supernatural food withdrawn after diet change
+  - loss of sacred food after dietary change
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.withdrawal-or-absence-of-political-support-leading-to-religious-decline
+  motif_id: withdrawal_or_absence_of_political_support_leading_to_religious_decline
+  label: withdrawal or absence of political support leading to religious decline
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: The relation between political authority and religious flourishing/decline
+    may fit sacred kingship and legitimation structures.
+  cautions: This may be historical commentary or sociological explanation rather than
+    a narrative motif; exclude if it is only source analysis.
+  suggested_aliases:
+  - religious decline after loss of political patronage
+  - absence of political support for religion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and culturally sensitive, especially
+  those using witchcraft or medicine-holder terminology; source evidence should be
+  reviewed before durable indexing.
+- No new canonical group is recommended from this batch alone, though recurring harmful-magic
+  or ritual-affliction labels could later justify a dedicated review group under sacred_law/divine_judgment.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize human review for culturally sensitive
+    witchcraft/medicine and historically descriptive withdrawal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4095
+  input_sha256: 1db96acf7338e88b62390fb1301a2889c673bf2ad8e59b8660238be669890dfa
+

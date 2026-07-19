@@ -1,0 +1,325 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2032
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-centered-tale-figures
+  motif_id: animal_centered_tale_figures
+  label: animal-centered tale figures
+  occurrences: 2
+  traditions:
+  - buddhist
+  - sufi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a class of tale characters rather than a clear narrative
+    function such as trickery, transformation, or sacred animal aid.
+  cautions: May be a generated genre/heading artifact for animal tales; source evidence
+    is needed before mapping to trickster or creating an animal-fable group.
+  suggested_aliases:
+  - animal-centered tale characters
+  - animal tale figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-fables
+  motif_id: animal_fables
+  label: animal fables
+  occurrences: 2
+  traditions:
+  - san
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: Animal fable is a genre label, not necessarily a motif; many instances
+    may involve trickster or moral exemplum functions.
+  cautions: Do not map all animal fables to trickster without evidence of deception
+    or boundary-crossing. Consider excluding if only a textual classification.
+  suggested_aliases:
+  - animal fable
+  - animal tale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - storytelling_as_power
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-imitation-dance
+  motif_id: animal_imitation_dance
+  label: animal-imitation dance
+  occurrences: 2
+  traditions:
+  - guiana-amerindian
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests a ritual performance imitating animals, but the function
+    is unclear from the label alone.
+  cautions: Culturally specific dance practices require source review; could involve
+    ritual transformation, hunting rite, initiation, sacred time, or performance artifact.
+  suggested_aliases:
+  - animal imitation dance
+  - animal-mimetic dance
+  - ritual animal dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - initiation
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-pair-tale
+  motif_id: animal_pair_tale
+  label: animal-pair tale
+  occurrences: 2
+  traditions:
+  - arctic-inuit
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a tale structure involving two animals but does not specify
+    opposition, complementarity, trickery, or transformation.
+  cautions: Could map to duality, trickster, sibling/pair structures, or be a genre
+    artifact depending on passage evidence.
+  suggested_aliases:
+  - animal pair tale
+  - paired animal tale
+  - two-animal tale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    - trickster
+    - sacred_twins
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-qualities-as-models-for-monastic-discipline
+  motif_id: animal_qualities_as_models_for_monastic_discipline
+  label: animal qualities as models for monastic discipline
+  occurrences: 2
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal traits function as didactic models for spiritual discipline and
+    practical wisdom rather than as animal transformation motifs.
+  cautions: If the passage is framed as formal monastic rule rather than teaching
+    analogy, sacred_law may be a secondary fit.
+  suggested_aliases:
+  - animal qualities as discipline models
+  - animal virtues as monastic instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-animal-behavior-tale
+  motif_id: etiological_animal_behavior_tale
+  label: etiological animal-behavior tale
+  occurrences: 2
+  traditions:
+  - hopi
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Behavior Origins
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes an origin explanation for present animal behavior,
+    a recurring etiological pattern not cleanly covered by existing creation or trickster
+    groups.
+  cautions: May overlap with cosmic_origin when the tale explains world order, or
+    trickster when behavior results from deception; review evidence before adding
+    a durable group.
+  suggested_aliases:
+  - animal behavior etiology
+  - origin of animal behavior
+  - why animals behave as they do
+  suggested_new_group:
+    id: animal_etiology_behavior_origins
+    label: Animal Etiology and Behavior Origins
+    description: Tales explaining the origin of an animal's present behavior, appearance,
+      habits, cries, habitat, or relations with other beings.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    reason_existing_groups_insufficient: cosmic_origin includes place and people origins
+      but not a clear animal-etiology facet; trickster only fits when deception is
+      central.
+- suggestion_id: normalization.suggestion.failed-imitation-of-a-successful-trick
+  motif_id: failed_imitation_of_a_successful_trick
+  label: failed imitation of a successful trick
+  occurrences: 2
+  traditions:
+  - ainu
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: A copied trick failing belongs to deception, imitation, and reversal
+    patterns typical of trickster and fable narratives.
+  cautions: If the emphasis is envy or rival imitation rather than trickery, pride_and_downfall
+    may be a useful secondary mapping.
+  suggested_aliases:
+  - failed imitation of trick
+  - unsuccessful copy of a trick
+  - imitated trick fails
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-to-plant-transformation
+  motif_id: human_to_plant_transformation
+  label: human-to-plant transformation
+  occurrences: 2
+  traditions:
+  - native-american-southwest
+  - native_american_southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: narrower_than
+  confidence: high
+  rationale: A human changing into a plant is a bodily metamorphosis and fits the
+    existing transformation group.
+  cautions: If the transformation occurs after death, death_and_transformation should
+    also be considered; if the plant becomes cosmological, axis_mundi may be relevant.
+  suggested_aliases:
+  - human transformed into plant
+  - person becomes plant
+  - human-plant metamorphosis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-bound-to-an-animal
+  motif_id: life_bound_to_an_animal
+  label: Life bound to an animal
+  occurrences: 2
+  traditions:
+  - comparative
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: A person's life bound to an animal is a standard external-soul/life-token
+    variant already represented in the group.
+  cautions: Preserve whether the animal is a soul container, counterpart, totemic
+    double, or vulnerability mechanism.
+  suggested_aliases:
+  - life bound to an animal counterpart
+  - human life bound to an animal
+  - animal life-token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-an-animal-s-present-coloration
+  motif_id: origin_of_an_animal_s_present_coloration
+  label: origin of an animal's present coloration
+  occurrences: 2
+  traditions:
+  - arctic-inuit
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Behavior Origins
+  relationship: child
+  confidence: medium
+  rationale: The motif explains a present animal trait and fits a broader animal-etiology
+    group better than general cosmic creation.
+  cautions: Could be a trickster consequence, punishment transformation, or local
+    explanatory tale; do not collapse into shapeshifter unless actual transformation
+    is central.
+  suggested_aliases:
+  - animal coloration etiology
+  - origin of animal coloration
+  - why an animal has its color
+  suggested_new_group:
+    id: animal_etiology_behavior_origins
+    label: Animal Etiology and Behavior Origins
+    description: Tales explaining the origin of an animal's present behavior, appearance,
+      habits, cries, habitat, or relations with other beings.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing groups cover creation, trickster
+      action, and transformation, but not recurring explanatory tales for specific
+      animal traits.
+batch_notes:
+- Several labels in this batch appear to be animal-tale genre headings rather than
+  motifs; human review should distinguish genre metadata from narrative functions.
+- Animal etiology recurs enough in this batch to consider a candidate group, but it
+  should remain provisional until more unmapped labels confirm breadth across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2032
+  input_sha256: 5070389faa0517bcffcf937da256c1728613f4aac41a33c8613d1fd0c2671cb2
+

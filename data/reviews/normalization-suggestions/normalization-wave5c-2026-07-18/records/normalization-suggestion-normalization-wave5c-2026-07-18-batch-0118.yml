@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0118
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-in-water-preferred-to-captivity
+  motif_id: death_in_water_preferred_to_captivity
+  label: death in water preferred to captivity
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe self-chosen death, water as boundary, or an episode-specific
+    captivity refusal; the available label does not show a clear canonical function.
+  cautions: Single occurrence and culturally specific context; do not map to sacred_waters
+    or death_and_transformation merely because water and death appear.
+  suggested_aliases:
+  - death_preferred_to_captivity
+  - self_chosen_death_in_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-inheritance-and-property-depletion
+  motif_id: death_inheritance_and_property_depletion
+  label: death, inheritance, and property depletion
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads like a social-economic plot circumstance or passage summary
+    rather than a reusable symbolic motif.
+  cautions: If source evidence shows a recurring inheritance taboo, funerary property
+    obligation, or sacred kinship law, review under sacred_law or covenant instead.
+  suggested_aliases:
+  - inheritance_after_death_depletes_property
+  - property_depletion_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-like-collapse-of-a-beloved-speaking-bird
+  motif_id: death_like_collapse_of_a_beloved_speaking_bird
+  label: Death-like collapse of a beloved speaking bird
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, a death-like collapse of a beloved speaking bird likely
+    functions as symbolic instruction in spiritual release, annihilation, or interior
+    transformation.
+  cautions: Could instead be an animal fable detail or death_and_transformation if
+    the passage stresses literal death and revival; verify source context.
+  suggested_aliases:
+  - death_like_collapse_as_spiritual_instruction
+  - beloved_speaking_bird_feigns_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-linked-to-misdirected-love-of-the-body
+  motif_id: death_linked_to_misdirected_love_of_the_body
+  label: death linked to misdirected love of the body
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label describes an interior or philosophical anthropology where attachment
+    to the body leads to death, fitting mystical self-knowledge and liberation themes.
+  cautions: May be doctrinal exposition rather than narrative motif; if merely abstract
+    commentary, consider exclusion or sacred_knowledge secondary mapping.
+  suggested_aliases:
+  - bodily_attachment_as_cause_of_death
+  - misdirected_love_of_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-messages-interrupting-a-martial-journey
+  motif_id: death_messages_interrupting_a_martial_journey
+  label: death messages interrupting a martial journey
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This could be omen, lament, heroic journey interruption, or battle-fate
+    messaging; the narrative function is unclear from the label alone.
+  cautions: Do not force to death_by_fate unless the message foretells or decrees
+    death; do not force to hero_journey unless transformation through the journey
+    is explicit.
+  suggested_aliases:
+  - death_message_interrupts_journey
+  - martial_journey_interrupted_by_death_news
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-mode-specific-burial-orientation
+  motif_id: death_mode_specific_burial_orientation
+  label: death-mode-specific burial orientation
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A burial orientation determined by mode of death is a mortuary rite regulating
+    relations with the dead.
+  cautions: Could fit sacred_law if framed mainly as ritual prescription or taboo;
+    preserve the death-mode specificity as evidence detail.
+  suggested_aliases:
+  - burial_orientation_by_mode_of_death
+  - mortuary_orientation_based_on_death_type
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-name-avoidance-and-replacement-of-prior-name-taboos
+  motif_id: death_name_avoidance_and_replacement_of_prior_name_taboos
+  label: death-name avoidance and replacement of prior name taboos
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Name avoidance after death is a ritual-social prohibition governing proper
+    conduct toward the dead and ancestors.
+  cautions: Could also support ancestor_rites if the practice is framed as direct
+    care or appeasement of the dead; review Confucian ritual context carefully.
+  suggested_aliases:
+  - death_name_taboo
+  - postmortem_name_avoidance
+  - ancestor_name_avoidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-night-seclusion-and-soul-seeking-habitation
+  motif_id: death_night_seclusion_and_soul_seeking_habitation
+  label: Death-night seclusion and soul seeking habitation
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines mortuary seclusion with a soul seeking a dwelling,
+    which could indicate soul loss, ancestor rite, restless dead, or ritual taboo.
+  cautions: Culturally sensitive mortuary belief; source evidence is needed before
+    assigning to ancestor_rites, soul_loss_restoration, or restless_dead_haunting_vengeance.
+  suggested_aliases:
+  - death_night_seclusion
+  - soul_seeking_habitation_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-a-companion-through-challenge-to-a-deity
+  motif_id: death_of_a_companion_through_challenge_to_a_deity
+  label: Death of a companion through challenge to a deity
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A companion dies after challenging a deity, suggesting divine punishment
+    for transgressive speech or action.
+  cautions: If the episode centers on heroic combat rather than divine retribution,
+    sacred_combat or divine_warrior may be secondary; verify that deity-challenge
+    causes the death.
+  suggested_aliases:
+  - challenging_a_deity_causes_death
+  - divine_punishment_for_challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-of-a-filial-water-carrier-imperils-dependent-parents
+  motif_id: death_of_a_filial_water_carrier_imperils_dependent_parents
+  label: Death of a filial water-carrier imperils dependent parents
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core reusable pattern appears to be filial duty and social-ethical
+    obligation, with death creating danger for dependent parents.
+  cautions: Highly episode-specific; if the passage emphasizes lament or wrongful
+    killing, consider lament_and_mourning or divine_judgment as secondary evidence
+    mappings.
+  suggested_aliases:
+  - filial_caretaker_death_imperils_parents
+  - death_of_filial_child_endangers_dependents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and combine death with contextual
+  social or ritual details; suggested placements should be treated as provisional
+  evidence-level mappings.
+- Avoid mapping every water-death label to sacred_waters or every death label to death_and_transformation
+  without evidence of passage, purification, renewal, or postmortem transformation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed for culturally
+    specific mortuary and ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0118
+  input_sha256: 2057fb966269fb43af47936969fec92763367a76489a7bcdf5809081929a8eb7
+

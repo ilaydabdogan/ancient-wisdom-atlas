@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1789
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.child-participants-in-ceremonial-roles
+  motif_id: child_participants_in_ceremonial_roles
+  label: child participants in ceremonial roles
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates age/role participation in ritual but not a clear
+    narrative function covered by current groups.
+  cautions: Single occurrence; may be ethnographic detail, initiation, sacred law,
+    or ceremony-specific evidence depending on source context.
+  suggested_aliases:
+  - children_in_ritual_roles
+  - ceremonial_roles_for_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_law
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-play-as-training-for-adult-warfare
+  motif_id: child_play_as_training_for_adult_warfare
+  label: child play as training for adult warfare
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif frames childhood play as preparation for warfare, linking social
+    training to martial order.
+  cautions: Single occurrence; if passage emphasizes childhood socialization rather
+    than combat significance, it may be too contextual for pattern queries.
+  suggested_aliases:
+  - childhood_play_training_for_war
+  - war_play_as_martial_training
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-preserves-and-buries-parent-s-bones
+  motif_id: child_preserves_and_buries_parent_s_bones
+  label: Child preserves and buries parent's bones
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Preserving and burying parental remains is a funerary care and memorialization
+    act.
+  cautions: Could fit ancestor_rites if the emphasis is ongoing relation to the dead
+    rather than burial duty; verify source context.
+  suggested_aliases:
+  - child_buries_parental_bones
+  - filial_burial_of_parent_s_bones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-prisoners-adopted-into-captor-communities
+  motif_id: child_prisoners_adopted_into_captor_communities
+  label: Child prisoners adopted into captor communities
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns captivity, adoption, and social incorporation, with
+    no clear existing mythic-function group.
+  cautions: Culturally sensitive and possibly historical/social practice rather than
+    narrative motif; do not normalize without passage evidence.
+  suggested_aliases:
+  - captured_children_adopted_by_captors
+  - adoption_of_child_captives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-quieted-through-feared-animal-threat
+  motif_id: child_quieted_through_feared_animal_threat
+  label: Child quieted through feared animal threat
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads like a domestic episode or narrative detail rather than a
+    durable symbolic motif.
+  cautions: If the feared animal is a recurrent supernatural disciplinarian or threshold
+    threat, review under threshold_guardian or animal-related trickster motifs.
+  suggested_aliases:
+  - animal_threat_used_to_quiet_child
+  - child_frightened_into_silence_by_animal_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-raised-by-buffalo-fathers-as-patrons
+  motif_id: child_raised_by_buffalo_fathers_as_patrons
+  label: child raised by buffalo fathers as patrons
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A child raised or protected by nonhuman patrons fits extraordinary protected
+    upbringing and destiny-marked childhood.
+  cautions: Could also involve animal patrons, adoption, or totemic kinship not fully
+    represented by current groups; preserve buffalo specificity.
+  suggested_aliases:
+  - child_raised_by_buffalo_patrons
+  - buffalo_fathers_raise_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - animal_helpers
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-recognizes-a-disguised-parent
+  motif_id: child_recognizes_a_disguised_parent
+  label: Child recognizes a disguised parent
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: The core function is recognition through hidden or disguised identity
+    within kinship relations.
+  cautions: If no token, scar, voice, or proof is involved, keep as a broader recognition
+    variant rather than token-specific child.
+  suggested_aliases:
+  - recognition_of_disguised_parent_by_child
+  - child_recognition_of_hidden_parental_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-replaced-by-fairy-substitute
+  motif_id: child_replaced_by_fairy_substitute
+  label: child replaced by fairy substitute
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fairy or otherworldly substitute replacing a child fits enchanted abduction/exchange
+    with an otherworld realm or beings.
+  cautions: The tradition label and 'fairy' wording may reflect translation or comparative
+    framing; review culturally specific being terminology.
+  suggested_aliases:
+  - changeling_child_replacement
+  - otherworld_substitute_for_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - shapeshifter
+    - jealous_stepmother_persecuted_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-s-water-errand-ending-in-an-accidental-spill
+  motif_id: child_s_water_errand_ending_in_an_accidental_spill
+  label: Child's water errand ending in an accidental spill
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to be a passage-specific plot detail without clear
+    symbolic or ritual function.
+  cautions: If the spill creates a landscape, causes catastrophe, or functions etiologically,
+    review under cosmic_origin or sacred_waters.
+  suggested_aliases:
+  - accidental_spill_during_child_water_errand
+  - child_spills_water_on_errand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-saves-family-from-predator-with-fire
+  motif_id: child_saves_family_from_predator_with_fire
+  label: child saves family from predator with fire
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: The episode centers on defeating or repelling a hostile predator through
+    a powerful weapon-like element.
+  cautions: Low confidence because the child/family rescue may be a folktale episode
+    rather than sacred combat; if fire is culturally central, sacred_fire may be a
+    secondary mapping.
+  suggested_aliases:
+  - child_rescues_family_from_predator_with_fire
+  - fire_used_by_child_against_predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - trickster
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence child/family episodes; preserve passage specificity
+  and avoid promotion without recurrence.
+- For Indigenous and culturally specific materials, review whether generated English
+  labels impose comparative categories such as 'fairy' or generic ceremonial roles.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft automated placement suggestions only; culturally specific and single-occurrence
+    items require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1789
+  input_sha256: 4143b3473cb7e56285d6de510b49260b88f6ab71bcb093cd630bfee08a72104c
+

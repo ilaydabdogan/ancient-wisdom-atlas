@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3852
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.reciprocal-meat-gift-exchange
+  motif_id: reciprocal_meat_gift_exchange
+  label: reciprocal meat-gift exchange
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A reciprocal meat gift is primarily an exchange or obligation pattern
+    involving food.
+  cautions: Single occurrence; confirm whether the exchange is ritually or socially
+    significant rather than ordinary hospitality detail.
+  suggested_aliases:
+  - meat_gift_exchange
+  - reciprocal_food_gift_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-night-storytelling-across-traditions
+  motif_id: reciprocal_night_storytelling_across_traditions
+  label: reciprocal night storytelling across traditions
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on storytelling as a reciprocal practice, fitting narrative
+    exchange and oral transmission.
+  cautions: Phrase 'across traditions' may be a comparative or editorial artifact;
+    verify it describes a source episode, not analyst comparison.
+  suggested_aliases:
+  - reciprocal_night_storytelling
+  - night_storytelling_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-or-destined-burning
+  motif_id: reciprocal_or_destined_burning
+  label: Reciprocal or destined burning
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is too ambiguous: burning may mean mystical passion, punishment,
+    fate, purification, or literal fire.'
+  cautions: In Sufi context it may belong under sacred_love, annihilation_union, death_by_fate,
+    sacred_fire, or sacrifice depending on passage evidence.
+  suggested_aliases:
+  - destined_burning
+  - reciprocal_burning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-payment-following-punitive-action
+  motif_id: reciprocal_payment_following_punitive_action
+  label: Reciprocal payment following punitive action
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: low
+  rationale: Payment after punishment suggests social repair, compensation, or obligation
+    after violated order.
+  cautions: Could instead fit divine_judgment if punishment is sacred retribution,
+    or sacred_exchange if payment is ritual reciprocity; source context needed.
+  suggested_aliases:
+  - compensatory_payment_after_punishment
+  - punitive_action_followed_by_payment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-preceptor-pupil-obligation
+  motif_id: reciprocal_preceptor_pupil_obligation
+  label: Reciprocal preceptor-pupil obligation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: role_variant
+  confidence: medium
+  rationale: Teacher-student mutual duty fits reciprocal obligation within a sacred
+    or ethical relationship.
+  cautions: May also index under sacred_law or sacred_knowledge if the passage emphasizes
+    discipline or transmission of doctrine.
+  suggested_aliases:
+  - teacher_student_reciprocal_obligation
+  - preceptor_pupil_mutual_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-preceptor-pupil-obligations
+  motif_id: reciprocal_preceptor_pupil_obligations
+  label: reciprocal preceptor-pupil obligations
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: alias
+  confidence: high
+  rationale: Plural wording is equivalent to reciprocal_preceptor_pupil_obligation
+    and fits sacred reciprocal duty.
+  cautions: Deduplicate with singular label; preserve doctrinal or monastic context
+    in evidence notes.
+  suggested_aliases:
+  - reciprocal_preceptor_pupil_obligation
+  - teacher_student_reciprocal_obligations
+  - preceptor_pupil_mutual_obligations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-rescue-among-friends
+  motif_id: reciprocal_rescue_among_friends
+  label: reciprocal rescue among friends
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mutual rescue among friends expresses reciprocal aid and relational obligation.
+  cautions: If rescue is miraculous or divinely guided, divine_intervention may be
+    secondary; if only plot detail, keep granular.
+  suggested_aliases:
+  - mutual_rescue_among_friends
+  - friends_rescue_each_other
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-sorcery-retaliation
+  motif_id: reciprocal_sorcery_retaliation
+  label: Reciprocal sorcery retaliation
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines magical practice, retaliation, and social conflict
+    without a clear existing parent.
+  cautions: Culturally sensitive and context-dependent; could fit divine_judgment,
+    curse_blessing_speech, sacred_law, or conflict motifs depending on evidence.
+  suggested_aliases:
+  - sorcery_retaliation
+  - counter_sorcery_retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-theft-as-response-to-suspected-theft
+  motif_id: reciprocal_theft_as_response_to_suspected_theft
+  label: reciprocal theft as response to suspected theft
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Theft and retaliatory boundary violation are common trickster or disorder-revealing
+    actions.
+  cautions: Could instead be social retaliation or legal compensation, not trickster
+    behavior; source context needed before confident mapping.
+  suggested_aliases:
+  - retaliatory_theft_for_suspected_theft
+  - theft_in_response_to_theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-visit-with-incompatible-foods
+  motif_id: reciprocal_visit_with_incompatible_foods
+  label: Reciprocal visit with incompatible foods
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests hospitality or exchange but the meaning of incompatible
+    foods is unclear from wording alone.
+  cautions: May be a fable-like mismatch, hospitality test, food taboo, comic reciprocity,
+    or passage-specific detail; review source evidence.
+  suggested_aliases:
+  - reciprocal_food_visit
+  - incompatible_food_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use 'reciprocal' broadly; avoid creating a new reciprocity
+  group unless evidence shows functions not already covered by sacred_exchange, covenant,
+  hospitality, or storytelling_as_power.
+- Single-occurrence and culturally specific items should retain local evidence notes
+  and receive human review when ritual or social function is unclear.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; ambiguous ritual, sorcery, and food-incompatibility
+    labels need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3852
+  input_sha256: 04532077b8cbf41620ac3672ee445f1e61518ee5167a05f281b63b9705b72f63
+

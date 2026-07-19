@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2960
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.infant-washing-and-ash-covering
+  motif_id: infant_washing_and_ash_covering
+  label: Infant washing and ash covering
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Infant washing and ash covering appears to be a birth or early-life ritual
+    practice, but the function is unclear from the label alone.
+  cautions: Could belong with miraculous_child if tied to sacred infancy, sacred_law
+    if a purity/protection rule, or be an over-specific ethnographic detail. Review
+    culturally specific evidence before indexing.
+  suggested_aliases:
+  - infant_washing_ash_covering
+  - newborn_washing_and_ash_covering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infant-washing-powdering-painting-and-wrapping-ceremony
+  motif_id: infant_washing_powdering_painting_and_wrapping_ceremony
+  label: Infant washing, powdering, painting, and wrapping ceremony
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a newborn ritual sequence involving cleansing, marking,
+    and wrapping, plausibly a ritual-protection or social incorporation practice.
+  cautions: Over-specific and single occurrence. Could map to miraculous_child if
+    the infant is sacred or destined, or to sacred_law only if the rite regulates
+    purity, protection, or social order.
+  suggested_aliases:
+  - newborn_washing_painting_wrapping_ceremony
+  - infant_cleansing_marking_and_wrapping_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ingenious-audible-bridge
+  motif_id: ingenious_audible_bridge
+  label: ingenious audible bridge
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: A specially engineered bridge fits the sacred_craft group when the construction
+    or device has mythic significance.
+  cautions: If the bridge primarily marks a cosmic crossing or realm boundary, axis_mundi
+    or threshold-related indexing may be secondary. The audible quality may be local
+    evidence detail.
+  suggested_aliases:
+  - audible_bridge
+  - wondrous_sounding_bridge
+  - ingenious_sounding_bridge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.injuring-natural-force-against-buffalo
+  motif_id: injuring_natural_force_against_buffalo
+  label: injuring natural force against buffalo
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A natural force harming buffalo could be supernatural agency in the natural
+    world, but the narrative function is not clear.
+  cautions: Could be divine_intervention, sacred_combat, animal-related myth, weather
+    hazard, hunting episode, or a passage-specific detail. Avoid mapping without source
+    evidence about agency and function.
+  suggested_aliases:
+  - natural_force_injures_buffalo
+  - harmful_natural_force_against_buffalo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.injury-against-the-good-brings-sin-upon-the-injurer
+  motif_id: injury_against_the_good_brings_sin_upon_the_injurer
+  label: injury against the good brings sin upon the injurer
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label expresses moral consequence or karmic recoil following harm
+    to a virtuous person, fitting divine_judgment as moral reckoning.
+  cautions: In Buddhist context this may be karmic causality rather than divine judgment
+    strictly; preserve doctrinal nuance in notes.
+  suggested_aliases:
+  - harm_to_the_good_recoils_on_the_injurer
+  - injuring_the_virtuous_brings_sin_on_the_injurer
+  - moral_consequence_for_harming_the_good
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inn-or-wine-woman-s-house-as-disreputable-setting
+  motif_id: inn_or_wine_woman_s_house_as_disreputable_setting
+  label: inn or wine-woman's house as disreputable setting
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a contextual setting or social characterization rather
+    than a reusable symbolic motif.
+  cautions: If the passage uses the tavern or wine-woman's house as a threshold to
+    wisdom, death, or transformation, review for sacred_substance, sacred_knowledge,
+    or liminal-space mapping instead.
+  suggested_aliases:
+  - disreputable_inn_setting
+  - wine_woman_house_as_disreputable_setting
+  - tavern_as_disreputable_setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.insatiable-leaky-vessel
+  motif_id: insatiable_leaky_vessel
+  label: insatiable leaky vessel
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A leaky or unfillable vessel functions as a container image with moral
+    or metaphysical significance, fitting sacred_vessel.
+  cautions: If the emphasis is punishment for wrongdoing or insatiable desire, divine_judgment
+    or pride_and_downfall may be better secondary mappings.
+  suggested_aliases:
+  - unfillable_leaky_vessel
+  - leaky_vessel_of_insatiability
+  - insatiable_unfillable_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.instigated-kinsman-killing-as-repayment
+  motif_id: instigated_kinsman_killing_as_repayment
+  label: instigated kinsman killing as repayment
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Kinsman killing arranged as repayment belongs broadly with feud, vengeance,
+    and ritually significant violence under sacred_combat.
+  cautions: Could instead fit betrayal_violated_trust, covenant, or divine_judgment
+    depending on whether the focus is kin-betrayal, repayment obligation, or moral
+    consequence.
+  suggested_aliases:
+  - kinsman_killing_as_repayment
+  - instigated_kin_slaying_as_repayment
+  - repayment_by_instigated_kin_slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.institutional-succession-and-delegated-assistance
+  motif_id: institutional_succession_and_delegated_assistance
+  label: Institutional succession and delegated assistance
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: Succession and delegated authority may fit sacred legitimation of office,
+    but the label is abstract and institutional rather than clearly mythic.
+  cautions: In Sufi context it may concern spiritual lineage or authorization rather
+    than kingship. Could require a future spiritual_lineage/discipleship group if
+    recurrent; otherwise may be a passage artifact.
+  suggested_aliases:
+  - spiritual_succession_and_delegated_assistance
+  - authorized_succession_and_delegation
+  - institutional_succession_with_delegated_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.instrument-bearing-procession-around-liquor-vessel
+  motif_id: instrument_bearing_procession_around_liquor_vessel
+  label: Instrument-bearing procession around liquor vessel
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: low
+  rationale: A ritual procession around a liquor vessel plausibly centers sacred drink,
+    vessel, music, and ceremonial movement.
+  cautions: Could map to sacred_substance, sacred_vessel, enchanting_music, or sacred_exchange
+    depending on whether drink, container, instruments, or offering is primary. Single
+    occurrence and culturally specific; review source evidence.
+  suggested_aliases:
+  - procession_around_liquor_vessel
+  - instrument_procession_around_sacred_drink_vessel
+  - ceremonial_procession_around_liquor_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual or setting descriptions;
+  prefer human review where function is not explicit.
+- Do not infer transmission or broad equivalence from shared object terms such as
+  bridge, vessel, or water/drink; preserve local ritual context.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific infant and ritual-procession
+    labels need source review before indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2960
+  input_sha256: a35413ab66f6a8523f0c5887052820d038de7bfd1fcaa2490a2b055527bea5b9
+

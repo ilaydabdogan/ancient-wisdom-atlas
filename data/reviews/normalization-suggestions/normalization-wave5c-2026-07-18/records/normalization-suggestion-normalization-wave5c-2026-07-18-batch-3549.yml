@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3549
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hot-coals-thrown-on-sleeping-opponent
+  motif_id: hot_coals_thrown_on_sleeping_opponent
+  label: hot coals thrown on sleeping opponent
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a single attack method rather than a broad recurring
+    motif.
+  cautions: If the source shows ritualized ambush, revenge, or ordeal, it could be
+    reviewed under sacred_combat or divine_judgment, but the current label is too
+    episode-specific.
+  suggested_aliases:
+  - burning_attack_on_sleeping_enemy
+  - sleeping_enemy_attacked_with_hot_coals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hot-food-as-lethal-instrument
+  motif_id: hot_food_as_lethal_instrument
+  label: Hot food as lethal instrument
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Food used as a killing instrument could be betrayal, trickster violence,
+    ordeal, or a passage-specific detail.
+  cautions: Needs source evidence to determine whether lethal hospitality, poisoned/deceptive
+    food, combat, or local ritual symbolism is central.
+  suggested_aliases:
+  - lethal_hot_food
+  - food_used_as_weapon
+  - deadly_food_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - trickster
+    - sacred_combat
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-acquisition-without-independent-causation
+  motif_id: human_acquisition_without_independent_causation
+  label: Human acquisition without independent causation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The abstract theological wording does not identify a clear narrative
+    motif or symbolic function.
+  cautions: May refer to doctrine of divine causality, acquisition, or moral agency
+    rather than a motif; review before indexing.
+  suggested_aliases:
+  - human_acquisition_without_independent_power
+  - created_acquisition_of_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-apotheosis
+  motif_id: human_apotheosis
+  label: Human apotheosis
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A human becoming divine is a transformation into a new ontological status,
+    often after death or ordeal.
+  cautions: If the passage emphasizes rulership or living deification, royal_legitimacy
+    may be a better secondary mapping; if it is visionary manifestation, use theophany.
+  suggested_aliases:
+  - human_becomes_divine
+  - mortal_apotheosis
+  - deification_of_a_human
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-as-temporary-embodiment-or-living-image-of-a-deity
+  motif_id: human_as_temporary_embodiment_or_living_image_of_a_deity
+  label: Human as temporary embodiment or living image of a deity
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The comparative wording could describe ritual possession, sacred kingship,
+    living image cult, or scholarly classification.
+  cautions: Because tradition is comparative and the label is interpretive, verify
+    whether this is source evidence or meta-analysis before indexing.
+  suggested_aliases:
+  - human_living_image_of_deity
+  - temporary_human_embodiment_of_deity
+  - living_deity_embodiment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - royal_legitimacy
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-attack-reported-as-ravens-and-crows
+  motif_id: human_attack_reported_as_ravens_and_crows
+  label: human attack reported as ravens and crows
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate shapeshifting, misrecognition, omen imagery,
+    or a report/translation artifact.
+  cautions: Do not map to shapeshifter unless humans are actually transformed or perceived
+    as birds within the story evidence.
+  suggested_aliases:
+  - attack_seen_as_ravens_and_crows
+  - human_attack_described_as_corvids
+  - raiders_reported_as_ravens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - dream_and_vision
+    - prophecy_divination
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-bear-affinity-and-resemblance
+  motif_id: human_bear_affinity_and_resemblance
+  label: Human-bear affinity and resemblance
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Human-animal affinity may involve transformation, ancestry, totemic kinship,
+    or cultural classification not represented clearly by current groups.
+  cautions: Culturally specific bear-kinship evidence should be reviewed carefully;
+    avoid reducing it to generic shapeshifting if resemblance is social or ancestral
+    rather than bodily transformation.
+  suggested_aliases:
+  - bear_human_affinity
+  - human_bear_resemblance
+  - bear_kinship_with_humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - miraculous_child
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-bone-voice-instrument-commands-communal-killing
+  motif_id: human_bone_voice_instrument_commands_communal_killing
+  label: Human bone voice-instrument commands communal killing
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A bone instrument with commanding voice may involve enchanted sound,
+    relic power, or performative command, but the composite is highly specific.
+  cautions: Review whether the power lies in music/sound, a human relic, spirit agency,
+    or a command speech act before mapping.
+  suggested_aliases:
+  - bone_instrument_commands_killing
+  - human_bone_voice_commands_violence
+  - speaking_bone_instrument
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - curse_blessing_speech
+    - sacred_treasures
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-bound-to-stone-becomes-stone
+  motif_id: human_bound_to_stone_becomes_stone
+  label: human bound to stone becomes stone
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A human becoming stone is a bodily metamorphosis into another form or
+    substance.
+  cautions: If the stone transformation explains a landscape feature, cosmic_origin
+    or etiological place naming may be a secondary mapping; if punishment is central,
+    divine_judgment may apply.
+  suggested_aliases:
+  - human_petrification
+  - person_transformed_into_stone
+  - bound_human_becomes_stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-captive-taken-to-a-land-otter-village
+  motif_id: human_captive_taken_to_a_land_otter_village
+  label: Human captive taken to a land-otter village
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A human carried to a nonhuman animal-spirit village fits captivity or
+    sojourn in an adjacent enchanted realm.
+  cautions: If land-otters are ordinary animals rather than spirit beings, this may
+    be an episode-specific captivity detail; if transformation occurs, shapeshifter
+    may also apply.
+  suggested_aliases:
+  - human_taken_to_otter_village
+  - captive_in_land_otter_realm
+  - human_abducted_to_animal_spirit_village
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; source
+  review is recommended before adding durable aliases.
+- Avoid treating human-animal affinity as shapeshifting unless the passage evidence
+  shows bodily transformation or species crossing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items need source evidence because
+    labels appear abstract, comparative, or episode-specific.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3549
+  input_sha256: 77597e1c0b0cddaac56b418ef3c590c18dea6d05ead20fd1f2b1fb8dedad604e
+

@@ -1,0 +1,359 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2125
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.clan-crest-origin-from-animal-encounter
+  motif_id: clan_crest_origin_from_animal_encounter
+  label: Clan crest origin from animal encounter
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Totemic Clan Emblem and Animal Ancestor
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes a mythic origin for a clan crest through animal encounter,
+    which is not well covered by general shapeshifter, trickster, or culture-hero
+    groups.
+  cautions: Culturally specific Northwest Coast crest traditions require careful human
+    review; avoid reducing crest rights or lineage histories to generic animal symbolism.
+  suggested_aliases:
+  - animal encounter explains clan crest
+  - totemic crest origin
+  - clan emblem origin from animal encounter
+  suggested_new_group:
+    id: totemic_clan_emblem_animal_ancestor
+    label: Totemic Clan Emblem and Animal Ancestor
+    description: Mythic, ancestral, or encounter narratives explaining a clan, lineage,
+      house, or group emblem through relationship with an animal, animal-person, preserved
+      animal remains, or other nonhuman ancestor/benefactor.
+    parent_group_ids:
+    - culture_hero
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - sacred_treasures
+    - sacred_law
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Existing groups include animal transformation,
+      sacred objects, and origin etiologies, but none preserves the social-emblem
+      and lineage-right function of clan crest origin traditions.
+- suggestion_id: normalization.suggestion.clan-crest-origin-from-preserved-animal-remains
+  motif_id: clan_crest_origin_from_preserved_animal_remains
+  label: clan crest origin from preserved animal remains
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Totemic Clan Emblem and Animal Ancestor
+  relationship: narrower_than
+  confidence: medium
+  rationale: Preserved animal remains explaining a clan crest fit the same lineage-emblem
+    origin complex rather than general sacred treasures alone.
+  cautions: May also involve relic-like objects or sacred treasures; source context
+    should determine whether the remains are emblem origin, power object, or mortuary
+    evidence.
+  suggested_aliases:
+  - clan crest from animal remains
+  - animal remains as crest origin
+  - preserved animal relic explains clan emblem
+  suggested_new_group:
+    id: totemic_clan_emblem_animal_ancestor
+    label: Totemic Clan Emblem and Animal Ancestor
+    description: Mythic, ancestral, or encounter narratives explaining a clan, lineage,
+      house, or group emblem through relationship with an animal, animal-person, preserved
+      animal remains, or other nonhuman ancestor/benefactor.
+    parent_group_ids:
+    - culture_hero
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - sacred_treasures
+    - sacred_law
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Existing groups include animal transformation,
+      sacred objects, and origin etiologies, but none preserves the social-emblem
+      and lineage-right function of clan crest origin traditions.
+- suggestion_id: normalization.suggestion.clan-crest-origin-through-contact-with-animal-people
+  motif_id: clan_crest_origin_through_contact_with_animal_people
+  label: Clan crest origin through contact with animal people
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Totemic Clan Emblem and Animal Ancestor
+  relationship: narrower_than
+  confidence: medium
+  rationale: Contact with animal people as the source of a crest is a distinct social-origin
+    motif involving nonhuman persons and lineage identity.
+  cautions: Animal-person categories are culturally specific and should not be flattened
+    into shapeshifting unless the passage explicitly describes transformation.
+  suggested_aliases:
+  - crest origin from animal people
+  - clan emblem from animal-person contact
+  - totemic emblem through animal people
+  suggested_new_group:
+    id: totemic_clan_emblem_animal_ancestor
+    label: Totemic Clan Emblem and Animal Ancestor
+    description: Mythic, ancestral, or encounter narratives explaining a clan, lineage,
+      house, or group emblem through relationship with an animal, animal-person, preserved
+      animal remains, or other nonhuman ancestor/benefactor.
+    parent_group_ids:
+    - culture_hero
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - sacred_treasures
+    - sacred_law
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Existing groups include animal transformation,
+      sacred objects, and origin etiologies, but none preserves the social-emblem
+      and lineage-right function of clan crest origin traditions.
+- suggestion_id: normalization.suggestion.clan-crest-originating-from-nurtured-animal
+  motif_id: clan_crest_originating_from_nurtured_animal
+  label: Clan crest originating from nurtured animal
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Totemic Clan Emblem and Animal Ancestor
+  relationship: narrower_than
+  confidence: medium
+  rationale: A nurtured animal becoming the basis of a clan crest fits a recurring
+    emblem-origin pattern centered on animal relationship and social identity.
+  cautions: Could overlap with sacred exchange or animal helper if reciprocity is
+    the main function; human review should check passage evidence.
+  suggested_aliases:
+  - nurtured animal as clan crest origin
+  - clan emblem from cared-for animal
+  - animal benefactor as crest source
+  suggested_new_group:
+    id: totemic_clan_emblem_animal_ancestor
+    label: Totemic Clan Emblem and Animal Ancestor
+    description: Mythic, ancestral, or encounter narratives explaining a clan, lineage,
+      house, or group emblem through relationship with an animal, animal-person, preserved
+      animal remains, or other nonhuman ancestor/benefactor.
+    parent_group_ids:
+    - culture_hero
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - sacred_treasures
+    - sacred_law
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Existing groups include animal transformation,
+      sacred objects, and origin etiologies, but none preserves the social-emblem
+      and lineage-right function of clan crest origin traditions.
+- suggestion_id: normalization.suggestion.clan-emblem-explained-through-mythic-animal-association
+  motif_id: clan_emblem_explained_through_mythic_animal_association
+  label: clan emblem explained through mythic animal association
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Totemic Clan Emblem and Animal Ancestor
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a general formulation of animal-associated clan emblem etiology
+    and should be kept with crest-origin motifs.
+  cautions: The broad wording may cover legal, ritual, heraldic, or lineage claims;
+    verify source context before broad indexing.
+  suggested_aliases:
+  - mythic animal association explains clan emblem
+  - animal-associated clan emblem origin
+  - totemic clan emblem etiology
+  suggested_new_group:
+    id: totemic_clan_emblem_animal_ancestor
+    label: Totemic Clan Emblem and Animal Ancestor
+    description: Mythic, ancestral, or encounter narratives explaining a clan, lineage,
+      house, or group emblem through relationship with an animal, animal-person, preserved
+      animal remains, or other nonhuman ancestor/benefactor.
+    parent_group_ids:
+    - culture_hero
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - sacred_treasures
+    - sacred_law
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Existing groups include animal transformation,
+      sacred objects, and origin etiologies, but none preserves the social-emblem
+      and lineage-right function of clan crest origin traditions.
+- suggestion_id: normalization.suggestion.clan-or-group-emblem-explained-through-animal-association
+  motif_id: clan_or_group_emblem_explained_through_animal_association
+  label: Clan or group emblem explained through animal association
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Totemic Clan Emblem and Animal Ancestor
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explicitly concerns a clan or group emblem explained by animal
+    association, matching a proposed emblem-origin group.
+  cautions: Because it says clan or group, it may be broader than Northwest Coast
+    crest rights; retain local tradition notes and review cultural specificity.
+  suggested_aliases:
+  - group emblem from animal association
+  - clan emblem from animal association
+  - animal-associated group emblem
+  suggested_new_group:
+    id: totemic_clan_emblem_animal_ancestor
+    label: Totemic Clan Emblem and Animal Ancestor
+    description: Mythic, ancestral, or encounter narratives explaining a clan, lineage,
+      house, or group emblem through relationship with an animal, animal-person, preserved
+      animal remains, or other nonhuman ancestor/benefactor.
+    parent_group_ids:
+    - culture_hero
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - sacred_treasures
+    - sacred_law
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Existing groups include animal transformation,
+      sacred objects, and origin etiologies, but none preserves the social-emblem
+      and lineage-right function of clan crest origin traditions.
+- suggestion_id: normalization.suggestion.cleansing-remains-at-a-water-place-before-mortuary-transformation
+  motif_id: cleansing_remains_at_a_water_place_before_mortuary_transformation
+  label: cleansing remains at a water-place before mortuary transformation
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core pattern is mortuary transformation after cleansing of remains,
+    with water as a ritual medium.
+  cautions: Could also map secondarily to sacred_waters or ancestor_rites if the passage
+    emphasizes water purification or care of the dead more than transformation.
+  suggested_aliases:
+  - mortuary cleansing before transformation
+  - water-place cleansing of remains
+  - cleansed remains transformed after death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clever-defeat-of-a-dangerous-supernatural-animal-from-a-tree-refuge
+  motif_id: clever_defeat_of_a_dangerous_supernatural_animal_from_a_tree_refuge
+  label: clever defeat of a dangerous supernatural animal from a tree refuge
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: A clever tactical defeat of a dangerous supernatural animal fits the
+    trickster/deceptive-survival side of the existing animal stratagem cluster.
+  cautions: The tree refuge may be only a setting; if combat is central, sacred_combat
+    or divine_warrior may be better. Single occurrence and highly specific.
+  suggested_aliases:
+  - clever defeat of supernatural animal
+  - dangerous animal defeated by stratagem from refuge
+  - tree refuge used against supernatural animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clever-hunter-defeats-pursuing-monster-animal
+  motif_id: clever_hunter_defeats_pursuing_monster_animal
+  label: clever hunter defeats pursuing monster-animal
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: The label emphasizes cleverness in defeating a pursuing monster-animal,
+    aligning with stratagem and boundary-crossing survival motifs.
+  cautions: Could instead belong to sacred_combat, threshold_guardian, or a future
+    monster-slaying group if the passage stresses heroic combat rather than cunning
+    escape.
+  suggested_aliases:
+  - hunter defeats monster animal by cleverness
+  - clever escape from pursuing monster-animal
+  - pursuing monster-animal defeated by stratagem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clinging-animal-swarm-repelled-by-special-material
+  motif_id: clinging_animal_swarm_repelled_by_special_material
+  label: clinging animal swarm repelled by special material
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Repelling a clinging swarm with a special material resembles apotropaic
+    protection already folded under sacred_law.
+  cautions: May be a passage-specific action rather than a durable motif; if the material
+    is a power object, sacred_treasures may be a secondary fit.
+  suggested_aliases:
+  - animal swarm repelled by special material
+  - special material averts clinging swarm
+  - apotropaic material against animal swarm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Northwest Coast clan crest labels form a coherent cluster that is not well
+  preserved by existing animal, trickster, or transformation groups; a culturally
+  reviewed totemic/clan-emblem candidate group is recommended rather than flattening
+  them into generic animal symbolism.
+- All suggestions are provisional taxonomy placements only and should not be read
+  as claims about transmission, borrowing, or common origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Human review especially needed for culturally specific clan crest and animal-person
+    terminology.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2125
+  input_sha256: c9629275c4c655f26a9928ba1621d9c417f44e3efc13bd5a11a1984a32f434d4
+

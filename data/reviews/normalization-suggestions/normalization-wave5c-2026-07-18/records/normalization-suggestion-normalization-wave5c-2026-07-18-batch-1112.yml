@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1112
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rowed-ritual-dance-with-white-adornment
+  motif_id: rowed_ritual_dance_with_white_adornment
+  label: Rowed ritual dance with white adornment
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates a specific ritual performance, but its function is
+    unclear from wording alone.
+  cautions: Single occurrence and culturally specific; avoid mapping white adornment
+    or dance to purity/sacrifice without source evidence.
+  suggested_aliases:
+  - ritual_dance_with_white_adornment
+  - ceremonial_dance_with_white_adornment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - sacred_time
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-act-framed-by-divine-symbols
+  motif_id: royal_act_framed_by_divine_symbols
+  label: Royal act framed by divine symbols
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine symbols framing a royal act likely authorize or sacralize kingship
+    and public authority.
+  cautions: If the symbols are merely iconographic scene details, preserve as evidence
+    rather than a separate motif.
+  suggested_aliases:
+  - royal_action_sacralized_by_divine_symbols
+  - divine_symbols_legitimize_royal_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-blood-at-consecrated-altar-fires
+  motif_id: royal_blood_at_consecrated_altar_fires
+  label: royal blood at consecrated altar fires
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Blood placed or shed at altar fires fits ritual offering and consecrated
+    sacrificial context.
+  cautions: Royal blood may indicate oath, martyrdom, execution, or dynastic pollution;
+    verify the ritual action before final mapping.
+  suggested_aliases:
+  - royal_blood_at_sacred_fire
+  - blood_at_consecrated_altar_fires
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-condemnation-averted-by-sacred-intercession
+  motif_id: royal_condemnation_averted_by_sacred_intercession
+  label: royal condemnation averted by sacred intercession
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sacred intercession changes or averts an otherwise harmful royal judgment,
+    fitting intervention in human affairs.
+  cautions: Could also be mercy, supplication, or sacred authority constraining kingship;
+    review whether intercession is divine, saintly, or social.
+  suggested_aliases:
+  - sacred_intercession_averts_royal_condemnation
+  - holy_intercession_prevents_royal_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - royal_legitimacy
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-court-performance-of-sacred-or-formal-odes
+  motif_id: royal_court_performance_of_sacred_or_formal_odes
+  label: Royal-court performance of sacred or formal odes
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Formal odes performed at court use ordered speech/song to transmit sacred
+    or social order.
+  cautions: If emphasis is musical efficacy, enchanting_music may be secondary; if
+    primarily court ritual hierarchy, royal_legitimacy or sacred_law may fit better.
+  suggested_aliases:
+  - court_performance_of_sacred_odes
+  - ritual_performance_of_formal_odes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-dedication-of-sacred-temples
+  motif_id: royal_dedication_of_sacred_temples
+  label: royal dedication of sacred temples
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ruler dedicating temples links sacred space to public authority and
+    legitimating ritual action.
+  cautions: If the focus is the temple as world center, axis_mundi/world_center may
+    be secondary; if the focus is construction, sacred_craft may apply.
+  suggested_aliases:
+  - royal_temple_dedication
+  - ruler_dedicates_sacred_temple
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - sacred_craft
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-establishment-of-sacred-fires-on-mountains
+  motif_id: royal_establishment_of_sacred_fires_on_mountains
+  label: Royal establishment of sacred fires on mountains
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: The core recurring image is consecrated sacred fire, with mountain and
+    royal sponsorship as contextual supports.
+  cautions: Mountain setting may also index axis_mundi; royal establishment may support
+    royal_legitimacy, but do not collapse the fire cult function into kingship alone.
+  suggested_aliases:
+  - sacred_fires_established_on_mountains
+  - royal_foundation_of_mountain_sacred_fires
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-establishment-of-sacred-law
+  motif_id: royal_establishment_of_sacred_law
+  label: royal establishment of sacred law
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly concerns instituting sacred law and social-religious
+    order.
+  cautions: Royal sponsorship also relates to royal_legitimacy; verify whether the
+    passage emphasizes lawgiving, reform, or political legitimation.
+  suggested_aliases:
+  - king_establishes_sacred_law
+  - royal_lawgiver_establishes_sacred_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-facilitation-of-public-sacred-instruction
+  motif_id: royal_facilitation_of_public_sacred_instruction
+  label: Royal facilitation of public sacred instruction
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: medium
+  rationale: The central function is public transmission of sacred instruction, with
+    the ruler as facilitator.
+  cautions: May be more about righteous kingship or patronage than knowledge itself;
+    source context should decide secondary royal_legitimacy mapping.
+  suggested_aliases:
+  - royal_patronage_of_sacred_instruction
+  - ruler_facilitates_public_religious_teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-family-sacred-animals
+  motif_id: royal_family_sacred_animals
+  label: Royal-family sacred animals
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label links royal lineage and sacred animals, but the animals' function
+    is not specified.
+  cautions: Could involve totemic ancestry, royal taboo, protective animals, sacrifice,
+    or clan identity; culturally specific source evidence is needed.
+  suggested_aliases:
+  - sacred_animals_of_the_royal_family
+  - royal_lineage_sacred_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    - divine_intervention
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence royal or ritual details; suggested mappings
+  are provisional and should preserve local ritual evidence.
+- Avoid treating royal sponsorship as automatically royal_legitimacy when the passage
+  emphasizes sacred knowledge, fire, law, or sacrifice.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific ritual labels
+    require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1112
+  input_sha256: 8cfe9d008fa107d1bd09e6f0574537ad4001c3d4a44e05dd71871bfd86f74084
+

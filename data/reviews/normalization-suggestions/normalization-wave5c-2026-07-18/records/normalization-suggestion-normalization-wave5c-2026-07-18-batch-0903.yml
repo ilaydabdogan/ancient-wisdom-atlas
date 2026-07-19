@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0903
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.living-human-treated-as-god-or-divine-embodiment
+  motif_id: living_human_treated_as_god_or_divine_embodiment
+  label: Living human treated as god or divine embodiment
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: high
+  rationale: Existing aliases already map living-human-as-deity language to royal
+    legitimacy; divine embodiment often authorizes sacred status or rule.
+  cautions: If the passage concerns possession, incarnation, saint veneration, or
+    ritual impersonation rather than authority/status, human review may redirect to
+    theophany or divine_intervention.
+  suggested_aliases:
+  - human_being_treated_as_living_deity
+  - living_human_treated_as_god
+  - divine_embodiment_in_a_living_human
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-alternate-etiology-for-the-same-sacred-material
+  motif_id: local_alternate_etiology_for_the_same_sacred_material
+  label: Local alternate etiology for the same sacred material
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes local variant comparison of an origin explanation,
+    not a stable motif in itself.
+  cautions: If the underlying passage narrates how a sacred material originated, index
+    that specific etiology under cosmic_origin, sacred_substance, sacrifice, or death_and_transformation
+    as appropriate.
+  suggested_aliases:
+  - alternate_local_etiology_for_sacred_material
+  - variant_etiology_of_sacred_material
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-god-made-hero-of-a-shared-creation-legend
+  motif_id: local_god_made_hero_of_a_shared_creation_legend
+  label: local god made hero of a shared creation legend
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a localization or comparative-redaction note about assigning
+    a creation role to a local deity.
+  cautions: If the source narrates the deity creating or ordering the world, map the
+    actual creation episode to cosmic_origin instead; avoid treating 'shared' as a
+    transmission claim here.
+  suggested_aliases:
+  - local_deity_as_creation_hero
+  - localized_creator_role_for_local_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-goddess-associated-with-a-sacred-forest-and-river
+  motif_id: local_goddess_associated_with_a_sacred_forest_and_river
+  label: Local goddess associated with a sacred forest and river
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a local deity, sacred landscape, forest, and water
+    without enough evidence for one dominant function.
+  cautions: Could fit mother_goddess, sacred_waters, axis_mundi, otherworld, or civic/local
+    cult context depending on whether the goddess is maternal, protective, territorial,
+    or tied to passage/purification.
+  suggested_aliases:
+  - goddess_of_sacred_forest_and_river
+  - local_landscape_goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-goddess-equated-with-foreign-counterparts
+  motif_id: local_goddess_equated_with_foreign_counterparts
+  label: Local goddess equated with foreign counterparts
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Equating a local goddess with foreign counterparts is an interpretive
+    or syncretic identification note rather than a narrative motif.
+  cautions: Preserve as provenance or reception evidence if needed; do not use the
+    placement to imply borrowing or common origin.
+  suggested_aliases:
+  - interpretatio_of_local_goddess
+  - local_goddess_syncretized_with_foreign_deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-sacred-animal-cult-and-civic-identity
+  motif_id: local_sacred_animal_cult_and_civic_identity
+  label: Local sacred animal cult and civic identity
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes sacred animal cult, locality, and civic identity, and
+    no existing group cleanly captures all elements.
+  cautions: May fit sacred_law if it concerns cultic regulation, divine_intervention
+    for tutelary animal powers, royal_legitimacy/civic identity, or sacred_treasures
+    if the animal is a cult emblem; source evidence is needed.
+  suggested_aliases:
+  - sacred_animal_as_civic_identity
+  - local_animal_cult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-variation-in-taboo-combinations
+  motif_id: local_variation_in_taboo_combinations
+  label: Local variation in taboo combinations
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes variation among taboo sets rather than a specific
+    recurring taboo or ritual prohibition.
+  cautions: If the passage states an actual taboo combination, map that specific rule
+    to sacred_law as a ritual_variant; handle culturally specific taboo systems carefully.
+  suggested_aliases:
+  - local_variant_taboo_combinations
+  - regional_variation_in_taboo_sets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.localization-and-christian-transformation-of-older-gods
+  motif_id: localization_and_christian_transformation_of_older_gods
+  label: Localization and Christian transformation of older gods
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a reception, localization, or religious-transformation note about
+    divine figures, not a motif event or image.
+  cautions: Preserve in commentary/provenance if useful; do not infer historical transmission
+    from normalization placement.
+  suggested_aliases:
+  - christian_reinterpretation_of_older_gods
+  - localization_of_older_deities_in_christian_context
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.localization-of-inherited-epic-landscape
+  motif_id: localization_of_inherited_epic_landscape
+  label: localization of inherited epic landscape
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes adaptation of an epic landscape to a locality, a
+    textual/tradition-history observation rather than a motif.
+  cautions: If a passage narrates place naming or landscape formation, map that specific
+    etiology under cosmic_origin; avoid transmission claims in motif placement.
+  suggested_aliases:
+  - localized_epic_landscape
+  - local_adaptation_of_epic_geography
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.localized-clan-rite-contrasted-with-dominant-ritual-institution
+  motif_id: localized_clan_rite_contrasted_with_dominant_ritual_institution
+  label: Localized clan rite contrasted with dominant ritual institution
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to be an ethnographic or comparative contrast between
+    ritual institutions, not enough to assign a motif function.
+  cautions: Could map to sacrifice, sacred_exchange, sacred_law, sacred_time, or _meta_textual
+    depending on whether the evidence is an actual rite or scholarly comparison; culturally
+    sensitive review recommended.
+  suggested_aliases:
+  - localized_clan_rite
+  - clan_rite_contrasted_with_dominant_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use 'localization', 'equated with', 'shared', 'alternate
+  etiology', or 'variation', which often indicates commentary, reception, or comparative
+  apparatus rather than a motif suitable for pattern queries.
+- For excluded meta-artifacts, reviewers may still preserve the underlying narrative
+  evidence under a substantive group when the source passage contains a concrete creation,
+  taboo, cult, or landscape motif.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review advised especially
+    for culturally specific ritual and local cult labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0903
+  input_sha256: 74c94b8f11944bb43cc28fc8d8d4d17226e58289e2ebd7edc337f8d422b38893
+

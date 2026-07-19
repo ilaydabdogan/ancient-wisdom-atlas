@@ -1,0 +1,330 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3948
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.shadowless-demons
+  motif_id: shadowless_demons
+  label: Shadowless demons
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Shadowlessness may mark nonhuman or demonic status, but the label alone
+    does not reveal narrative function.
+  cautions: Could be spirit taxonomy, omen, apotropaic detail, dream/vision marker,
+    or passage-specific description; source context needed.
+  suggested_aliases:
+  - shadowless_spirits
+  - demons_without_shadows
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shaman-as-weather-seer-and-game-attractor
+  motif_id: shaman_as_weather_seer_and_game_attractor
+  label: shaman as weather seer and game attractor
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: Combines shamanic divination, weather knowledge, and game-attraction
+    ritual; no single existing group preserves all functions.
+  cautions: Culturally specific ritual role; avoid reducing to generic prophecy or
+    divine intervention without evidence. May warrant a future shamanic mediation
+    group if recurrent.
+  suggested_aliases:
+  - shamanic_weather_seer
+  - shamanic_game_attraction
+  - ritual_specialist_attracts_game
+  suggested_new_group:
+    id: shamanic_mediation
+    label: Shamanic Mediation and Spirit Practice
+    description: Ritual specialists mediate with spirits, diagnose hidden causes,
+      heal illness, foresee danger, influence weather or game, and act with supernatural
+      helpers or powers.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    related_group_ids:
+    - prophecy_divination
+    - soul_loss_restoration
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover prophecy, healing,
+      spirit aid, or ritual law separately, but do not capture the recurring ritual-specialist
+      role connecting these functions.
+- suggestion_id: normalization.suggestion.shaman-foresees-and-intercepts-approaching-disaster
+  motif_id: shaman_foresees_and_intercepts_approaching_disaster
+  label: Shaman foresees and intercepts approaching disaster
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A ritual specialist receives foreknowledge and acts to avert disaster,
+    fitting supernatural guidance and intervention in human affairs.
+  cautions: If the emphasis is on formal divination rather than averted disaster,
+    prophecy_divination may be a secondary fit; shamanic role should be preserved
+    in notes.
+  suggested_aliases:
+  - shamanic_disaster_aversion
+  - shaman_foresees_disaster
+  - ritual_interception_of_disaster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shaman-remains-unharmed-after-hostile-attack
+  motif_id: shaman_remains_unharmed_after_hostile_attack
+  label: shaman remains unharmed after hostile attack
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Survival after attack could express ritual power, invulnerability, spirit
+    protection, or social proof of shamanic status.
+  cautions: Do not map automatically to divine_warrior or conditional_invulnerability
+    unless combat or a specific vulnerability structure is present. Source evidence
+    needed.
+  suggested_aliases:
+  - shamanic_immunity_to_attack
+  - ritual_specialist_unharmed_by_attack
+  - spirit_protected_shaman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shaman-with-supernatural-helper
+  motif_id: shaman_with_supernatural_helper
+  label: Shaman with supernatural helper
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The taxonomy already includes tutelary spirit and supernatural helper
+    functions under divine_intervention.
+  cautions: Preserve shamanic mediation context; if the helper is an animal guide,
+    ancestor, or soul-double, secondary mappings may differ.
+  suggested_aliases:
+  - shamanic_supernatural_helper
+  - shamanic_tutelary_spirit
+  - ritual_specialist_with_spirit_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-choice-of-auspicious-time-for-action
+  motif_id: shamanic_choice_of_auspicious_time_for_action
+  label: shamanic choice of auspicious time for action
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Choosing an auspicious time treats timing as ritually charged and action-governing,
+    fitting sacred_time.
+  cautions: If based on omen reading or divinatory method, prophecy_divination may
+    be a secondary mapping; shamanic role is contextual.
+  suggested_aliases:
+  - auspicious_time_chosen_by_shaman
+  - ritual_timing_for_action
+  - shamanic_auspicious_timing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-cure-of-witch-caused-illness
+  motif_id: shamanic_cure_of_witch_caused_illness
+  label: Shamanic cure of witch-caused illness
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This is a healing and spirit-affliction pattern, but current groups only
+    partially cover shamanic diagnosis and cure.
+  cautions: Culturally sensitive illness/witchcraft category; verify source terminology
+    and avoid flattening into generic exorcism or divine intervention.
+  suggested_aliases:
+  - shamanic_healing_of_witchcraft_illness
+  - cure_of_witch_caused_sickness
+  - ritual_cure_of_afflicted_illness
+  suggested_new_group:
+    id: shamanic_healing_and_diagnosis
+    label: Shamanic Healing and Hidden-Cause Diagnosis
+    description: A ritual specialist diagnoses and treats illness, misfortune, soul
+      loss, spirit attack, witchcraft, or hidden affliction through ritual knowledge,
+      spirit aid, extraction, faith, or counteraction.
+    parent_group_ids:
+    - divine_intervention
+    - soul_loss_restoration
+    - sacred_knowledge
+    related_group_ids:
+    - sacrifice
+    - sacred_law
+    - prophecy_divination
+    reason_existing_groups_insufficient: Existing groups cover spirit expulsion, soul
+      restoration, or divine aid, but not the combined diagnostic-healing role central
+      to these labels.
+- suggestion_id: normalization.suggestion.shamanic-detection-of-an-unseen-helper
+  motif_id: shamanic_detection_of_an_unseen_helper
+  label: shamanic detection of an unseen helper
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Detecting an unseen helper is specialized hidden knowledge or perception
+    of nonordinary agency.
+  cautions: Could also fit divine_intervention if the helper acts directly, or dream_and_vision
+    if detection occurs through altered perception.
+  suggested_aliases:
+  - detection_of_unseen_spirit_helper
+  - shamanic_hidden_helper_detection
+  - ritual_perception_of_unseen_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-healing-through-influence-and-faith
+  motif_id: shamanic_healing_through_influence_and_faith
+  label: shamanic healing through influence and faith
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label points to ritual healing but is abstract and may reflect commentator
+    interpretation rather than a narrative motif.
+  cautions: Terms like influence and faith may be analytical rather than indigenous
+    categories; source context needed before indexing.
+  suggested_aliases:
+  - shamanic_faith_healing
+  - ritual_healing_through_belief
+  - healing_by_shamanic_influence
+  suggested_new_group:
+    id: shamanic_healing_and_diagnosis
+    label: Shamanic Healing and Hidden-Cause Diagnosis
+    description: A ritual specialist diagnoses and treats illness, misfortune, soul
+      loss, spirit attack, witchcraft, or hidden affliction through ritual knowledge,
+      spirit aid, extraction, faith, or counteraction.
+    parent_group_ids:
+    - divine_intervention
+    - soul_loss_restoration
+    - sacred_knowledge
+    related_group_ids:
+    - sacrifice
+    - sacred_law
+    - prophecy_divination
+    reason_existing_groups_insufficient: Existing groups cover spirit expulsion, soul
+      restoration, or divine aid, but not the combined diagnostic-healing role central
+      to these labels.
+- suggestion_id: normalization.suggestion.shamanic-investigation-of-hidden-cause
+  motif_id: shamanic_investigation_of_hidden_cause
+  label: shamanic investigation of hidden cause
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Investigating a hidden cause centers on access to concealed knowledge
+    through ritual expertise.
+  cautions: If the hidden cause is illness or soul loss, a shamanic healing subgroup
+    or soul_loss_restoration may be better; if method is formal divination, use prophecy_divination
+    as secondary.
+  suggested_aliases:
+  - ritual_investigation_of_hidden_cause
+  - shamanic_hidden_cause_diagnosis
+  - shamanic_diagnostic_inquiry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items cluster around shamanic ritual mediation, diagnosis, spirit helpers,
+  and healing. Existing groups can hold some cases provisionally, but a dedicated
+  shamanic mediation/healing group may preserve cross-functional meaning if recurrence
+  grows.
+- Use culturally specific source terminology carefully; many labels may reflect ethnographic
+  or commentary categories rather than emic motif language.
+- No transmission or common-origin claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; shamanic labels need source-context review before
+    durable taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3948
+  input_sha256: 27bda07e5578df7039388b14dad46c1842cc26af415992c78bc99d4cab0abc16
+

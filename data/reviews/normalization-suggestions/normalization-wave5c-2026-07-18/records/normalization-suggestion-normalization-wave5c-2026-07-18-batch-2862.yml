@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2862
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.warrior-defeats-foe-with-five-weapons
+  motif_id: warrior_defeats_foe_with_five_weapons
+  label: warrior defeats foe with five weapons
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A combat victory by a warrior fits the broad sacred_combat/heroic combat
+    complex; the five-weapons detail is granular episode evidence.
+  cautions: Single occurrence; if the five weapons are explicitly magical or divinely
+    bestowed, sacred_treasures may be a secondary mapping.
+  suggested_aliases:
+  - five_weapon_combat_victory
+  - warrior_victory_with_multiple_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-defeats-many-enemies-with-magical-weapons
+  motif_id: warrior_defeats_many_enemies_with_magical_weapons
+  label: Warrior defeats many enemies with magical weapons
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A warrior defeating many enemies with supernatural weapons matches the
+    divine_warrior complex of extraordinary combat power and sacred battle victory.
+  cautions: Magical weapons may also support sacred_treasures; do not infer divine
+    sanction unless the passage states it.
+  suggested_aliases:
+  - hero_defeats_many_enemies_with_magical_weapons
+  - magical_weapons_enable_mass_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-ethic-of-war-against-warriors-and-peace-with-the-peaceable
+  motif_id: warrior_ethic_of_war_against_warriors_and_peace_with_the_peaceable
+  label: warrior ethic of war against warriors and peace with the peaceable
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on a normative warrior code distinguishing legitimate
+    combat from peaceable conduct, fitting sacred/social law more than battle action
+    itself.
+  cautions: Could map to sacred_combat if the passage emphasizes ritualized warfare
+    rather than ethical regulation; source context needed.
+  suggested_aliases:
+  - warrior_code_limits_violence
+  - chivalric_war_against_warriors_peace_with_peaceable
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-exclusive-mark-becoming-general-fashion
+  motif_id: warrior_exclusive_mark_becoming_general_fashion
+  label: warrior-exclusive mark becoming general fashion
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a social-history or costume diffusion detail rather
+    than a reusable mythic narrative motif.
+  cautions: If the mark carries sacred identity, initiation, or martial proof in the
+    passage, human review could remap to sacred_law or initiation.
+  suggested_aliases:
+  - martial_mark_becomes_common_fashion
+  - warrior_status_mark_generalized
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-group-identified-by-red-pigment
+  motif_id: warrior_group_identified_by_red_pigment
+  label: warrior group identified by red pigment
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a culturally specific identity marker, ritual war paint,
+    or ethnographic detail; the motif function is unclear from the label alone.
+  cautions: Review cultural context carefully; avoid treating red pigment as generic
+    blood/fire symbolism without evidence.
+  suggested_aliases:
+  - red_pigment_marks_warrior_group
+  - war_paint_identifies_warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-hero-introduced-through-foreign-campaigns
+  motif_id: warrior_hero_introduced_through_foreign_campaigns
+  label: warrior hero introduced through foreign campaigns
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This describes how a character is introduced in narrative or tradition,
+    not a distinct symbolic or narrative motif.
+  cautions: If the campaigns establish heroic identity through ordeal or conquest,
+    sacred_combat could be used as a broad evidence placement.
+  suggested_aliases:
+  - hero_introduced_by_foreign_campaigns
+  - warrior_introduction_through_campaigns
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-identified-by-animated-martial-emblems
+  motif_id: warrior_identified_by_animated_martial_emblems
+  label: warrior identified by animated martial emblems
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animated martial emblems serve to identify or prove the warrior, fitting
+    recognition tokens and identity proofs.
+  cautions: If the key evidence is the supernatural animation of crafted emblems,
+    sacred_craft or sacred_treasures may be a secondary mapping.
+  suggested_aliases:
+  - animated_martial_emblems_identify_warrior
+  - warrior_recognized_by_living_emblems
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-identified-by-answering
+  motif_id: warrior_identified_by_answering
+  label: warrior identified by answering
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Identification through an answer or voice-response fits the recognition/hidden
+    identity group, especially its voice and proof-token variants.
+  cautions: Phrase is terse; verify whether answering is a ritual test, voice recognition,
+    or ordinary dialogue detail.
+  suggested_aliases:
+  - warrior_recognized_by_answer
+  - identity_proved_by_answering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-induced-by-hospitality-intoxication-erotic-attention-and-reward
+  motif_id: warrior_induced_by_hospitality_intoxication_erotic_attention_and_reward
+  label: warrior induced by hospitality, intoxication, erotic attention, and reward
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines hospitality, intoxication, erotic inducement, and
+    reward; the dominant motif cannot be determined from the label alone.
+  cautions: Possible mappings include sacred_exchange, sacred_substance, sacred_love,
+    or sacred_combat depending on whether the passage emphasizes inducement, feast,
+    sexuality, or battle service.
+  suggested_aliases:
+  - warrior_induced_by_feast_and_reward
+  - hospitality_and_erotic_reward_motivate_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-infiltrates-enemy-town-and-ambushes-a-high-status-victim
+  motif_id: warrior_infiltrates_enemy_town_and_ambushes_a_high_status_victim
+  label: warrior infiltrates enemy town and ambushes a high-status victim
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Infiltration and ambush are martial stratagems within the sacred_combat/warfare
+    complex, but the town and victim-status details are episode-specific.
+  cautions: If deception is the main narrative engine, trickster or deceptive war
+    stratagem may be a secondary relation; single occurrence argues against new canonical
+    status.
+  suggested_aliases:
+  - warrior_infiltration_and_ambush
+  - enemy_town_infiltration_to_kill_high_status_victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence martial details; prefer broad placement under
+  sacred_combat or divine_warrior only where a reusable combat function is clear.
+- Identity-marker labels involving pigment, fashion, or cultural insignia need source
+  review before motif indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2862
+  input_sha256: 2183491c10cf404cce46eaf2b2b97fd25c6a83d343018542362e6cf6d6894f30
+

@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0307
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.proper-burial-as-restoration-of-status
+  motif_id: proper_burial_as_restoration_of_status
+  label: Proper burial as restoration of status
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Proper burial restoring status fits funerary rites that reaffirm the
+    social or sacred standing of the dead.
+  cautions: If the source emphasizes postmortem transformation or afterlife status
+    more than burial rites, afterlife_passage may be a secondary fit.
+  suggested_aliases:
+  - status_restored_by_proper_burial
+  - proper_funerary_rites_restore_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.proper-element-as-spiritual-medium
+  motif_id: proper_element_as_spiritual_medium
+  label: proper element as spiritual medium
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too abstract to determine whether it concerns ritual mediumship,
+    cosmological elements, soul travel, or inner alchemy.
+  cautions: Daoist elemental and spirit-medium concepts may be culturally specific;
+    source evidence is needed before mapping to sacred_substance, sacred_fire, sacred_waters,
+    or sacred_knowledge.
+  suggested_aliases:
+  - element_as_spiritual_medium
+  - ritually_proper_element_for_spirit_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.proper-place-for-recalling-the-spirit-after-death-away-from-home
+  motif_id: proper_place_for_recalling_the_spirit_after_death_away_from_home
+  label: Proper place for recalling the spirit after death away from home
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Recalling a spirit after death away from home matches ritual handling
+    of a displaced or wandering soul.
+  cautions: May also be ancestor_rites if the emphasis is proper mortuary relation
+    to the dead rather than restoration or recall of a displaced spirit.
+  suggested_aliases:
+  - recalling_the_spirit_after_death_away_from_home
+  - proper_place_for_spirit_recall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.proper-preparation-and-placement-of-the-dead
+  motif_id: proper_preparation_and_placement_of_the_dead
+  label: proper preparation and placement of the dead
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Preparation and placement of the corpse are mortuary rites that preserve
+    proper order around the dead.
+  cautions: The group label is hero-oriented, but its description includes broader
+    burial honors and social reaffirmation; ancestor_rites may be secondary if ongoing
+    care of the dead is central.
+  suggested_aliases:
+  - proper_mortuary_preparation_and_placement
+  - corpse_preparation_and_placement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.property-cutting-or-symbolic-destruction-after-death
+  motif_id: property_cutting_or_symbolic_destruction_after_death
+  label: Property cutting or symbolic destruction after death
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Postmortem destruction of property is a mortuary ritual, but the function
+    is unclear from the label alone.
+  cautions: Could indicate ancestor rites, spirit appeasement, severance from the
+    dead, inheritance practice, or an ethnographic detail too specific for broad motif
+    queries.
+  suggested_aliases:
+  - symbolic_destruction_of_property_after_death
+  - mortuary_property_cutting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.property-disposal-to-avert-further-spirit-visits
+  motif_id: property_disposal_to_avert_further_spirit_visits
+  label: Property disposal to avert further spirit visits
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Disposing of property to prevent spirit visits directly concerns managing
+    the active or returning dead.
+  cautions: If the passage emphasizes ritual care rather than haunting prevention,
+    ancestor_rites or sacred_law may be better secondary mappings.
+  suggested_aliases:
+  - disposing_property_to_prevent_spirit_return
+  - mortuary_property_disposal_against_haunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.property-division-or-destruction-after-death
+  motif_id: property_division_or_destruction_after_death
+  label: Property division or destruction after death
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label names a postmortem property practice, but not its ritual or
+    narrative function.
+  cautions: Could be inheritance custom, severance rite, spirit-aversion practice,
+    or ethnographic context rather than a motif; compare with property_disposal_to_avert_further_spirit_visits
+    if same source pattern.
+  suggested_aliases:
+  - property_divided_or_destroyed_after_death
+  - mortuary_property_division_and_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophecy-of-death-prompts-concealment-of-the-soul
+  motif_id: prophecy_of_death_prompts_concealment_of_the_soul
+  label: Prophecy of death prompts concealment of the soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: Concealing the soul to avoid prophesied death clearly fits the external
+    or detachable soul complex.
+  cautions: The prophecy element may also touch prophecy_divination or death_by_fate,
+    but the distinctive function is soul externalization/concealment.
+  suggested_aliases:
+  - death_prophecy_leads_to_hidden_soul
+  - concealing_the_soul_to_avoid_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophecy-of-sequential-deaths-with-one-surviving-messenger
+  motif_id: prophecy_of_sequential_deaths_with_one_surviving_messenger
+  label: Prophecy of sequential deaths with one surviving messenger
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prophecy specifying a sequence of deaths frames death as foretold and
+    unavoidable.
+  cautions: Could instead belong to prophecy_divination if the emphasis is the prophetic
+    role or message rather than fated death; the surviving messenger detail may be
+    episode-specific.
+  suggested_aliases:
+  - foretold_sequential_deaths_with_surviving_messenger
+  - prophecy_of_ordered_deaths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophecy-of-staged-deaths-on-a-return-journey
+  motif_id: prophecy_of_staged_deaths_on_a_return_journey
+  label: Prophecy of staged deaths on a return journey
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Foretold staged deaths during a journey fit death governed by fate or
+    destiny.
+  cautions: The return-journey setting may be a contextual detail; if the passage
+    centers on the journey structure, hero_journey could be a secondary mapping.
+  suggested_aliases:
+  - foretold_staged_deaths_on_return_journey
+  - return_journey_with_fated_deaths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items describe mortuary customs with single occurrences; retain local ritual
+  detail and avoid promoting new taxonomy groups without recurrence.
+- Where property destruction/disposal appears, review source evidence to distinguish
+  inheritance practice, spirit-aversion, ancestor care, and passage artifacts.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific mortuary and spirit-recall
+    practices need source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0307
+  input_sha256: 0b2fec3d49d10c3ed7f5e7f9d0419e82daacf7a709a685f37fb021f4d8675d7e
+

@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3708
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mythic-accretion-around-a-revered-figure
+  motif_id: mythic_accretion_around_a_revered_figure
+  label: mythic accretion around a revered figure
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Describes scholarly assessment of legend growth around a figure, not
+    a narrative motif itself.
+  cautions: If source passages include specific accreted episodes, those episodes
+    should be indexed separately.
+  suggested_aliases:
+  - legendary_accretion_around_revered_figure
+  - hagiographic_accretion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-annals-shading-into-history
+  motif_id: mythic_annals_shading_into_history
+  label: mythic annals shading into history
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a genre or historiographic description rather than a reusable
+    mythic motif.
+  cautions: Do not use as evidence for historicity or transmission; preserve only
+    as provenance/commentary if needed.
+  suggested_aliases:
+  - myth_history_blending_in_annals
+  - annalistic_mythic_history
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-antagonist-historicized-as-political-or-religious-opponent
+  motif_id: mythic_antagonist_historicized_as_political_or_religious_opponent
+  label: mythic antagonist historicized as political or religious opponent
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes an interpretive historicization process, not the
+    antagonist motif itself.
+  cautions: If a passage narrates demonized opposition, map the specific conflict
+    or judgment motif instead; culturally sensitive polemic may need review.
+  suggested_aliases:
+  - historicized_mythic_antagonist
+  - mythic_enemy_recast_as_historical_opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-chronology-produced-by-scriptural-reinterpretation
+  motif_id: mythic_chronology_produced_by_scriptural_reinterpretation
+  label: Mythic chronology produced by scriptural reinterpretation
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Describes exegetical or redactional construction of chronology rather
+    than a motif within the storyworld.
+  cautions: If the chronology itself structures sacred time or world ages, those motifs
+    should be indexed from passage evidence separately.
+  suggested_aliases:
+  - scriptural_reinterpretation_produces_mythic_chronology
+  - exegetical_mythic_chronology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-embellishment-around-a-historical-nucleus
+  motif_id: mythic_embellishment_around_a_historical_nucleus
+  label: Mythic embellishment around a historical nucleus
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a source-critical claim about development of tradition, not a
+    narrative pattern.
+  cautions: Avoid indexing as evidence for historical origin; map only concrete embellished
+    motifs if present in the source.
+  suggested_aliases:
+  - legendary_embellishment_of_historical_core
+  - mythic_overlay_on_historical_nucleus
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-episode-linked-to-a-present-hopi-ball-running-practice
+  motif_id: mythic_episode_linked_to_a_present_hopi_ball_running_practice
+  label: mythic episode linked to a present Hopi ball-running practice
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be ritual etiology, living practice linkage, or a passage note;
+    function is unclear from the label alone.
+  cautions: Culturally sensitive living-practice material should be reviewed with
+    source context before motif indexing.
+  suggested_aliases:
+  - mythic_etiology_of_hopi_ball_running
+  - myth_linked_to_ball_running_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-event-remembered-as-a-saying-or-parable
+  motif_id: mythic_event_remembered_as_a_saying_or_parable
+  label: mythic event remembered as a saying or parable
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: A mythic event preserved as speech or parable may fit narrative transmission
+    and sacred speech, but evidence is needed.
+  cautions: May be a commentary artifact about reception rather than a motif; review
+    whether the saying itself has performative or narrative function.
+  suggested_aliases:
+  - mythic_event_preserved_as_saying
+  - mythic_event_as_parable
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-explanation-for-spider-like-limbs
+  motif_id: mythic_explanation_for_spider_like_limbs
+  label: mythic explanation for spider-like limbs
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label appears to explain bodily form through mythic transformation
+    or etiology, fitting transformation imagery.
+  cautions: If it is only an anatomical description or commentary note, exclude; if
+    it explains species origin, cosmic_origin may be secondary.
+  suggested_aliases:
+  - etiology_of_spider_like_limbs
+  - body_form_explained_by_mythic_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-gambler
+  motif_id: mythic_gambler
+  label: mythic gambler
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A gambler figure could be trickster, contest, fate, or moral downfall
+    depending on narrative role.
+  cautions: Do not map solely from role label; source evidence is needed for deception,
+    sacred contest, risk, or judgment function.
+  suggested_aliases:
+  - sacred_gambler
+  - gambling_figure_in_myth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-genealogy-of-chiron
+  motif_id: mythic_genealogy_of_chiron
+  label: mythic genealogy of Chiron
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: A named figure's genealogy is too person-specific and likely functions
+    as reference detail rather than a broad motif.
+  cautions: If the genealogy includes centaur hybridity, divine parentage, or culture-hero
+    instruction, index those specific motifs separately.
+  suggested_aliases:
+  - chiron_genealogy
+  - genealogy_of_named_mythic_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch describe scholarly, source-critical, or reception-history
+  processes rather than motifs and are best excluded from pattern queries.
+- Living-practice or culturally specific labels, especially the Hopi ball-running
+  item, should receive source-aware human review before placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3708
+  input_sha256: 74217b7835a43a2bf7ecd80b3108aad582056e54442143062d081207568f44a3
+

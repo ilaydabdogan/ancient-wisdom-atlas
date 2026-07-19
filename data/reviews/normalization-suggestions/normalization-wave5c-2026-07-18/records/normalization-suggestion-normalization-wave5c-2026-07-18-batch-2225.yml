@@ -1,0 +1,331 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2225
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ordinary-bird-scaring-fails-where-a-usual-special-method-is-expected
+  motif_id: ordinary_bird_scaring_fails_where_a_usual_special_method_is_expected
+  label: ordinary bird-scaring fails where a usual special method is expected
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly contextual episode detail rather than a durable
+    animal or trickster motif.
+  cautions: If the passage contrasts ordinary and ritual/magical methods, human review
+    could preserve it under sacred_law, sacred_knowledge, or trickster as evidence
+    detail.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-explanation-for-animal-coloration
+  motif_id: origin_explanation_for_animal_coloration
+  label: Origin explanation for animal coloration
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origin
+  relationship: child
+  confidence: medium
+  rationale: This is an etiological animal-trait motif; existing cosmic_origin covers
+    creation and place origins but not animal coloration specifically.
+  cautions: Animal-origin narratives may be culturally specific and should not be
+    flattened into generic creation without source review.
+  suggested_aliases:
+  - animal coloration etiology
+  - origin of animal color
+  - animal distinctive coloring origin
+  suggested_new_group:
+    id: animal_etiology_trait_origin
+    label: Animal Etiology and Trait Origin
+    description: Narratives explaining the origin of an animal's coloration, markings,
+      bodily features, behavior, or ritual association, often through transformation,
+      naming, trickster action, punishment, or ancestral event.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - culture_hero
+    reason_existing_groups_insufficient: cosmic_origin includes broad creation and
+      place etiologies, while shapeshifter and trickster cover mechanisms but not
+      the recurrent function of explaining animal traits.
+- suggestion_id: normalization.suggestion.origin-explanation-for-animal-trait-or-behavior
+  motif_id: origin_explanation_for_animal_trait_or_behavior
+  label: Origin explanation for animal trait or behavior
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origin
+  relationship: child
+  confidence: medium
+  rationale: The label names a general animal-trait etiology rather than transformation
+    alone.
+  cautions: Review source evidence to distinguish creation etiology, trickster tale,
+    punishment-transformation, or clan/ritual origin.
+  suggested_aliases:
+  - animal trait etiology
+  - animal behavior etiology
+  - origin of animal behavior
+  suggested_new_group:
+    id: animal_etiology_trait_origin
+    label: Animal Etiology and Trait Origin
+    description: Narratives explaining the origin of an animal's coloration, markings,
+      bodily features, behavior, or ritual association, often through transformation,
+      naming, trickster action, punishment, or ancestral event.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups capture creation, transformation,
+      or trickster action, but not animal-trait origin as a recurring etiological
+      function.
+- suggestion_id: normalization.suggestion.origin-explanation-for-animal-traits
+  motif_id: origin_explanation_for_animal_traits
+  label: origin explanation for animal traits
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origin
+  relationship: alias
+  confidence: medium
+  rationale: This is a close wording variant of animal trait etiology.
+  cautions: Keep local animal and episode details as evidence notes; do not infer
+    shared origin across traditions from taxonomy placement.
+  suggested_aliases:
+  - origin explanation for animal trait or behavior
+  - animal trait etiology
+  - animal feature origin
+  suggested_new_group:
+    id: animal_etiology_trait_origin
+    label: Animal Etiology and Trait Origin
+    description: Narratives explaining the origin of an animal's coloration, markings,
+      bodily features, behavior, or ritual association, often through transformation,
+      naming, trickster action, punishment, or ancestral event.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - culture_hero
+    reason_existing_groups_insufficient: No current group directly captures animal-feature
+      etiologies as distinct from general cosmic or place origins.
+- suggestion_id: normalization.suggestion.origin-frame-for-the-wolf-dance
+  motif_id: origin_frame_for_the_wolf_dance
+  label: origin frame for the Wolf Dance
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label concerns a specific ceremonial origin and may involve restricted
+    or culturally sensitive ritual knowledge.
+  cautions: Human review should decide whether to index under sacred_time, sacred_law,
+    animal_etiology_trait_origin, or exclude as a local ritual-title artifact.
+  suggested_aliases:
+  - Wolf Dance origin
+  - ritual dance origin involving wolf
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-a-clan-s-claim-to-an-animal
+  motif_id: origin_of_a_clan_s_claim_to_an_animal
+  label: Origin of a clan’s claim to an animal
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: This may be a clan, crest, totemic, ownership, or ancestral-origin claim
+    rather than a generic animal motif.
+  cautions: Culturally sensitive; avoid reducing clan-specific relationships to general
+    animal symbolism. Could require a future clan/totemic-animal group if recurrent.
+  suggested_aliases:
+  - clan animal claim origin
+  - totemic animal claim origin
+  - origin of clan-animal relationship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-a-dance-from-a-singer-accompanied-by-dogs
+  motif_id: origin_of_a_dance_from_a_singer_accompanied_by_dogs
+  label: origin of a dance from a singer accompanied by dogs
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif combines ritual dance origin, song, and animal companions;
+    placement depends on source function.
+  cautions: May belong under sacred_time, enchanting_music, animal_etiology_trait_origin,
+    or a ritual-origin group not yet present; review for cultural sensitivity.
+  suggested_aliases:
+  - dance origin from singer with dogs
+  - ritual dance origin with dog companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-an-animal-feature-through-a-naming-episode
+  motif_id: origin_of_an_animal_feature_through_a_naming_episode
+  label: origin of an animal feature through a naming episode
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origin
+  relationship: functional_variant
+  confidence: medium
+  rationale: The naming episode is the mechanism for an etiological animal-feature
+    origin.
+  cautions: If the naming act itself is performative sacred speech, a secondary relationship
+    to curse_blessing_speech may be appropriate.
+  suggested_aliases:
+  - animal feature named into origin
+  - naming explains animal trait
+  - animal trait origin by naming
+  suggested_new_group:
+    id: animal_etiology_trait_origin
+    label: Animal Etiology and Trait Origin
+    description: Narratives explaining the origin of an animal's coloration, markings,
+      bodily features, behavior, or ritual association, often through transformation,
+      naming, trickster action, punishment, or ancestral event.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: The available groups do not capture animal-feature
+      etiologies by naming as a broad query category.
+- suggestion_id: normalization.suggestion.origin-of-an-animal-s-behavior-from-former-human-vice
+  motif_id: origin_of_an_animal_s_behavior_from_former_human_vice
+  label: origin of an animal’s behavior from former human vice
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label implies humans became or explain animals through moralized
+    transformation, fitting punishment-transformation into animal form.
+  cautions: If the passage primarily explains animal behavior rather than transformation,
+    animal_etiology_trait_origin would be the better broader group; divine_judgment
+    may be secondary if punishment is explicit.
+  suggested_aliases:
+  - animal behavior from human vice
+  - human vice transformed into animal behavior
+  - moralized animal behavior etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-an-animal-s-distinctive-mark
+  motif_id: origin_of_an_animal_s_distinctive_mark
+  label: origin of an animal's distinctive mark
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Trait Origin
+  relationship: child
+  confidence: medium
+  rationale: A distinctive animal mark is a specific animal-trait etiology, closely
+    related to coloration and feature-origin labels in this batch.
+  cautions: Preserve the specific animal and mark in evidence notes; do not collapse
+    into shapeshifter unless transformation is explicit.
+  suggested_aliases:
+  - animal marking etiology
+  - origin of animal mark
+  - origin of distinctive animal marking
+  suggested_new_group:
+    id: animal_etiology_trait_origin
+    label: Animal Etiology and Trait Origin
+    description: Narratives explaining the origin of an animal's coloration, markings,
+      bodily features, behavior, or ritual association, often through transformation,
+      naming, trickster action, punishment, or ancestral event.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - culture_hero
+    reason_existing_groups_insufficient: Existing taxonomy has creation and transformation
+      groups, but no stable group for recurring animal marking or animal-trait origin
+      explanations.
+batch_notes:
+- Several items in this batch cluster around animal-trait etiologies; a new review
+  group animal_etiology_trait_origin may be useful if similar labels recur across
+  sources.
+- Ritual dance and clan-animal origin labels should receive human review because they
+  may involve culturally specific ceremonial or clan knowledge rather than general
+  motif structure.
+- No placement here implies historical transmission or common origin across traditions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; animal etiologies and culturally
+    specific ritual/clan items need human review before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2225
+  input_sha256: 54bc0a024f6d39276463e398c70b21fab5d7ea0cdb1b0e66b7283940ee076b06
+

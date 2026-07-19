@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1230
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.weather-making-through-ritual-objects
+  motif_id: weather_making_through_ritual_objects
+  label: weather-making through ritual objects
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Ritual manipulation of weather may relate to sacred_exchange or divine_intervention,
+    but weather-making is not cleanly represented by an existing group.
+  cautions: Culturally specific ritual practice with only one occurrence; avoid reducing
+    ceremonial objects to generic sacrifice or magic without source evidence.
+  suggested_aliases:
+  - weather_rite
+  - ritual_weather_making
+  - rainmaking_through_ritual_objects
+  suggested_new_group:
+    id: weather_rites
+    label: Weather Rites and Ritual Weather-Making
+    description: Ritual acts, objects, songs, offerings, or specialists that seek
+      to produce, prevent, redirect, or regulate weather, rain, winds, storms, or
+      sea conditions.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    related_group_ids:
+    - sacred_waters
+    - sacred_law
+    - sacrifice
+    reason_existing_groups_insufficient: Existing groups cover exchange, intervention,
+      waters, and ritual law, but do not preserve the recurrent functional focus on
+      weather regulation through ritual means.
+- suggestion_id: normalization.suggestion.weather-postponement-of-ritual-count
+  motif_id: weather_postponement_of_ritual_count
+  label: weather postponement of ritual count
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ritual timing affected by weather, but it is unclear
+    whether weather is sacred sign, practical obstacle, or calendrical rule.
+  cautions: Likely too contextual without passage evidence; may belong under sacred_time
+    if a ritual calendar rule is explicit, or be excluded if merely procedural.
+  suggested_aliases:
+  - weather_delays_ritual_count
+  - weather_affects_ritual_timing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weather-rite-for-sea-conditions
+  motif_id: weather_rite_for_sea_conditions
+  label: weather rite for sea conditions
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rite directed toward sea-weather conditions fits ritual weather regulation,
+    but current groups only partly cover it through sacred_waters or divine_intervention.
+  cautions: Review whether the passage emphasizes maritime travel, divine sea protection,
+    practical ritual technology, or weather control before final placement.
+  suggested_aliases:
+  - sea_weather_rite
+  - ritual_regulation_of_sea_conditions
+  - weather_rite_for_navigation
+  suggested_new_group:
+    id: weather_rites
+    label: Weather Rites and Ritual Weather-Making
+    description: Ritual acts, objects, songs, offerings, or specialists that seek
+      to produce, prevent, redirect, or regulate weather, rain, winds, storms, or
+      sea conditions.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    related_group_ids:
+    - sacred_waters
+    - sacred_law
+    - sacrifice
+    reason_existing_groups_insufficient: Sacred_waters covers water symbolism and
+      passage, while divine_intervention covers sacred agency; neither preserves the
+      specific ritual function of regulating weather or sea conditions.
+- suggestion_id: normalization.suggestion.weather-weakens-enemy-weapons-after-ritual-action
+  motif_id: weather_weakens_enemy_weapons_after_ritual_action
+  label: weather weakens enemy weapons after ritual action
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The narrative function is supernatural or ritually mediated battle advantage
+    against enemy weapons, fitting sacred combat/divine warrior patterns.
+  cautions: Weather-rite details should be preserved; if the passage centers on ritual
+    weather control rather than combat outcome, a weather_rites candidate may be preferable.
+  suggested_aliases:
+  - ritual_weather_weakens_enemy_weapons
+  - weather_aids_battle_after_ritual
+  - ritual_action_disarms_enemy_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wedding-submission-rite-refused
+  motif_id: wedding_submission_rite_refused
+  label: wedding submission rite refused
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A refused wedding submission rite may concern marriage custom, social
+    hierarchy, sacred law, or resistance, but the motif function is unclear from the
+    label.
+  cautions: Single occurrence and culturally specific rite; avoid mapping to sacred_marriage
+    unless cosmic, royal, or fertility-order functions are explicit.
+  suggested_aliases:
+  - refusal_of_wedding_submission_rite
+  - marriage_submission_rite_refused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.well-intended-care-rebuked-for-improper-ritual-practical-procedure
+  motif_id: well_intended_care_rebuked_for_improper_ritual_practical_procedure
+  label: well-intended care rebuked for improper ritual-practical procedure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on correct procedure and rebuke for improper ritual-practical
+    action, fitting sacred law or discipline.
+  cautions: May be an ethical teaching or monastic discipline episode rather than
+    a durable mythic motif; preserve as evidence detail if over-specific.
+  suggested_aliases:
+  - improper_ritual_procedure_rebuked
+  - well_intended_care_violates_procedure
+  - correct_ritual_practical_procedure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.whirlwind-removal-from-a-sacred-mountain
+  motif_id: whirlwind_removal_from_a_sacred_mountain
+  label: Whirlwind removal from a sacred mountain
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sacred mountain is the key setting and cosmic/sacred center marker;
+    whirlwind removal is a local mechanism of displacement.
+  cautions: If the passage emphasizes divine rescue, punishment, or miraculous transport
+    more than mountain sacrality, divine_intervention may be a better primary mapping.
+  suggested_aliases:
+  - whirlwind_transport_from_sacred_mountain
+  - removal_from_holy_mountain_by_whirlwind
+  - sacred_mountain_whirlwind_removal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.white-buffalo-as-source-of-ritual-regard
+  motif_id: white_buffalo_as_source_of_ritual_regard
+  label: white buffalo as source of ritual regard
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns a culturally significant sacred animal and ritual
+    regard, but no existing group cleanly captures sacred animal source of ritual
+    obligation.
+  cautions: Culturally sensitive and tradition-specific; source evidence is needed
+    to distinguish sacred animal, culture hero, divine intervention, sacrifice, or
+    ritual law functions.
+  suggested_aliases:
+  - sacred_white_buffalo
+  - white_buffalo_ritual_significance
+  - white_buffalo_as_ritual_source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.white-cloth-marking-mourning-or-sacred-royal-space
+  motif_id: white_cloth_marking_mourning_or_sacred_royal_space
+  label: white cloth marking mourning or sacred royal space
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines mourning sign, ritual boundary, and royal sacrality,
+    which point to different existing groups.
+  cautions: Composite and possibly over-specific; map to lament_and_mourning, royal_legitimacy,
+    or sacred_law only after confirming the dominant function in the passage.
+  suggested_aliases:
+  - white_cloth_as_mourning_marker
+  - white_cloth_marks_sacred_royal_space
+  - ritual_white_cloth_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wide-area-distribution-of-ritual-society-functions
+  motif_id: wide_area_distribution_of_ritual_society_functions
+  label: Wide-area distribution of ritual society functions
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes ethnographic or comparative distribution of ritual-society
+    functions rather than a narrative or symbolic motif.
+  cautions: Preserve as provenance or scholarly context if useful, but exclude from
+    motif pattern queries.
+  suggested_aliases:
+  - regional_distribution_of_ritual_society_functions
+  - wide_area_ritual_society_distribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several weather-related labels point to a possible future weather_rites group, but
+  single occurrences and culturally specific ritual contexts require human review
+  before promotion.
+- Do not infer transmission or common origin from proposed grouping; suggestions only
+  support normalization and query placement.
+- Composite labels combining ritual, social status, mourning, or weather should be
+  reviewed against passage evidence before final mapping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft placement suggestions generated for wave5c batch 1230; weather-rite
+    and culturally specific ritual labels need human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1230
+  input_sha256: '009db42bb50bb39142fde5c560ba47243c588c0875fbcfbf327535b5e632e36c'
+

@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2949
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hereditary-recurrence-of-twin-bearing
+  motif_id: hereditary_recurrence_of_twin_bearing
+  label: Hereditary recurrence of twin-bearing
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on repeated twin birth, fitting the sacred twins/sibling-pair
+    complex more than objects or boundaries.
+  cautions: Single occurrence; verify whether twin-bearing is narratively significant
+    rather than a genealogical detail.
+  suggested_aliases:
+  - recurring_twin_birth_in_lineage
+  - hereditary_twin_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hereditary-right-to-build-and-maintain-a-communal-house
+  motif_id: hereditary_right_to_build_and_maintain_a_communal_house
+  label: hereditary right to build and maintain a communal house
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: A hereditary right to construct a communal house may express lineage-based
+    authority or social order.
+  cautions: Could be an ethnographic institution, local property right, or passage
+    artifact rather than a reusable motif; source evidence is needed before indexing.
+  suggested_aliases:
+  - lineage_right_to_build_communal_house
+  - hereditary_communal_house_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-being-revealed-from-a-vessel
+  motif_id: hidden_being_revealed_from_a_vessel
+  label: hidden being revealed from a vessel
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: The vessel functions as a container concealing and releasing a being,
+    fitting the sacred vessel/container group.
+  cautions: If the being’s release is chiefly a trick, birth, or spirit emergence,
+    secondary mapping may be needed.
+  suggested_aliases:
+  - being_hidden_in_vessel
+  - concealed_being_released_from_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-bodily-lack-revealed-during-sleep
+  motif_id: hidden_bodily_lack_revealed_during_sleep
+  label: Hidden bodily lack revealed during sleep
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests exposure of a concealed bodily condition, but its
+    narrative function is unclear from the label alone.
+  cautions: May involve hidden identity, bodily anomaly, shame, disability, deception,
+    or a passage-specific detail; review culturally sensitive body-language before
+    mapping.
+  suggested_aliases:
+  - concealed_bodily_defect_revealed_in_sleep
+  - sleep_reveals_hidden_bodily_lack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-cavern-council-of-destructive-magic
+  motif_id: hidden_cavern_council_of_destructive_magic
+  label: hidden cavern council of destructive magic
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: A hidden magical council could involve secret dangerous knowledge or
+    ritual power, but the key function is unclear.
+  cautions: Culturally sensitive; avoid flattening Zuni ceremonial or esoteric material
+    into generic destructive magic without source review. Could also fit cave/descent
+    or sacred law depending on evidence.
+  suggested_aliases:
+  - secret_cavern_council_of_magic
+  - hidden_cave_gathering_for_destructive_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-chamber-mistaken-for-a-place-of-illicit-treasure
+  motif_id: hidden_chamber_mistaken_for_a_place_of_illicit_treasure
+  label: Hidden chamber mistaken for a place of illicit treasure
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a very specific episode detail about misrecognition
+    of a chamber rather than a durable motif.
+  cautions: If the passage uses the hidden chamber as a spiritual allegory or initiation
+    space, review under mystical_quest or sacred_knowledge instead of excluding.
+  suggested_aliases:
+  - hidden_chamber_misread_as_treasure_site
+  - mistaken_illicit_treasure_chamber
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-crime-revealed-through-encoded-marks
+  motif_id: hidden_crime_revealed_through_encoded_marks
+  label: hidden crime revealed through encoded marks
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed wrongdoing exposed by signs or marks fits moral reckoning
+    and revelation of hidden guilt.
+  cautions: If the encoded marks primarily prove identity or function as legal evidence
+    without sacred reckoning, recognition_tokens_hidden_identity or exclusion may
+    be better.
+  suggested_aliases:
+  - encoded_marks_reveal_hidden_crime
+  - secret_crime_disclosed_by_marks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-deep-past-unveiled-by-evidence
+  motif_id: hidden_deep_past_unveiled_by_evidence
+  label: Hidden deep past unveiled by evidence
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: Unveiling a hidden past can be a knowledge-revelation pattern, but the
+    label is abstract and evidence-dependent.
+  cautions: May be historical commentary, genealogy, archaeology-like explanation,
+    or passage artifact rather than a mythic motif; source review needed.
+  suggested_aliases:
+  - hidden_past_revealed_by_evidence
+  - deep_past_disclosed_through_traces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-food-source-discovered-by-a-marked-trail
+  motif_id: hidden_food_source_discovered_by_a_marked_trail
+  label: Hidden food source discovered by a marked trail
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on discovering a hidden food source, aligning best
+    with sacred substance or provision motifs.
+  cautions: If the emphasis is supernatural provision, divine_intervention may be
+    better; if the marked trail is a trickster clue, trickster may be secondary.
+  suggested_aliases:
+  - marked_trail_reveals_hidden_food
+  - hidden_food_discovered_by_trail_signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-inexhaustible-or-expanding-food-vessel
+  motif_id: hidden_inexhaustible_or_expanding_food_vessel
+  label: hidden inexhaustible or expanding food vessel
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing divine_intervention group includes inexhaustible provision,
+    and the vessel detail also relates to sacred containers.
+  cautions: Consider secondary relation to sacred_vessel or sacred_substance; review
+    whether the vessel is sacred object, magical abundance source, or trickster episode.
+  suggested_aliases:
+  - inexhaustible_food_vessel
+  - expanding_food_container
+  - hidden_abundance_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and object/space-coded but actually
+  concern kinship, authority, revelation, food provision, or episode-specific misrecognition.
+- For culturally specific Melanesian, Zuni, Khoisan, and Native American labels, source
+  review should confirm whether generated wording preserves local meaning before durable
+  mapping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2949
+  input_sha256: 01ca14978668acfbe06bd97417a8f20d76eb21bc3b214209a486a0767b51c827
+

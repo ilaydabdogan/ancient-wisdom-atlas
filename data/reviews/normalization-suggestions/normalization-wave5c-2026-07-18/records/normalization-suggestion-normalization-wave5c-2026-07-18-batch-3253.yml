@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3253
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.comic-failure-to-identify-one-s-own-body-because-of-identical-footwear
+  motif_id: comic_failure_to_identify_one_s_own_body_because_of_identical_footwear
+  label: comic failure to identify one's own body because of identical footwear
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a comic folktale episode about foolish misrecognition,
+    but no current group cleanly covers comic folly or body-identity humor.
+  cautions: Single occurrence and highly specific; may be an episode detail rather
+    than a reusable motif.
+  suggested_aliases:
+  - comic_body_misrecognition
+  - foolish_failure_of_self_recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comic-imitation-in-dance
+  motif_id: comic_imitation_in_dance
+  label: comic imitation in dance
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may describe ritual or communal comic performance rather than a
+    narrative motif; current groups do not cover comic dance performance.
+  cautions: Culturally specific performance context should be checked before indexing
+    as generic comedy or trickster behavior.
+  suggested_aliases:
+  - comic_dance_imitation
+  - humorous_mimetic_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - enchanting_music
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comic-impossibility-tale
+  motif_id: comic_impossibility_tale
+  label: comic impossibility tale
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label names a tale type or genre category rather than a concrete
+    symbolic or narrative motif.
+  cautions: If passage evidence contains a specific impossible event or comic reversal,
+    index that narrower episode instead.
+  suggested_aliases:
+  - comic_impossible_tale
+  - impossibility_tale_genre
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comic-literalization-of-learned-behavior
+  motif_id: comic_literalization_of_learned_behavior
+  label: Comic literalization of learned behavior
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: low
+  rationale: In a Sufi context, comic literalism often functions as a teaching device
+    about misunderstanding instruction or wisdom.
+  cautions: Confirm the passage is a didactic wisdom episode; otherwise it may belong
+    to a future comic-folly group or be too episode-specific.
+  suggested_aliases:
+  - literal_misapplication_of_teaching
+  - comic_misunderstanding_of_instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comic-or-punitive-expulsion-into-the-air
+  motif_id: comic_or_punitive_expulsion_into_the_air
+  label: Comic or punitive expulsion into the air
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could be comic violence, punishment, magical flight, or supernatural
+    expulsion depending on the episode.
+  cautions: Do not map to ascent unless upward movement has sacred, heavenly, or transformative
+    function; label may be slapstick detail.
+  suggested_aliases:
+  - punitive_aerial_expulsion
+  - comic_throwing_into_the_air
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - trickster
+    - ascent
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comic-origin-of-the-sexes
+  motif_id: comic_origin_of_the_sexes
+  label: comic origin of the sexes
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: An origin of the sexes is an etiological creation or human-origins motif,
+    even when framed comically.
+  cautions: If the label only identifies a literary joke or satire rather than an
+    etiological myth, review for exclusion or narrower evidence notes.
+  suggested_aliases:
+  - etiology_of_the_sexes
+  - comic_sex_origin_myth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - duality
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comic-pantomime-and-contortion-in-dance
+  motif_id: comic_pantomime_and_contortion_in_dance
+  label: comic pantomime and contortion in dance
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a performance practice or scene detail, not clearly
+    a mythic motif under current groups.
+  cautions: Review cultural and ritual context; avoid flattening ceremonial humor
+    or embodied performance into generic trickster comedy.
+  suggested_aliases:
+  - comic_pantomime_dance
+  - comic_contortion_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - enchanting_music
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comic-performance-for-communal-merriment
+  motif_id: comic_performance_for_communal_merriment
+  label: comic performance for communal merriment
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a social performance function rather than a specific
+    narrative motif; no existing group captures communal comic performance.
+  cautions: May be ethnographic/performance context rather than motif content; source
+    evidence should decide whether to index or exclude.
+  suggested_aliases:
+  - communal_comic_performance
+  - comic_performance_as_merriment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - enchanting_music
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comic-reversal-of-an-impossible-sorting-task
+  motif_id: comic_reversal_of_an_impossible_sorting_task
+  label: comic reversal of an impossible sorting task
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: In a Sufi context this likely functions as a comic teaching tale or parable
+    built around reversal of an impossible task.
+  cautions: Could instead be trickster cleverness or a passage-specific joke; verify
+    didactic function before final mapping.
+  suggested_aliases:
+  - impossible_task_reversed_comically
+  - comic_solution_to_impossible_sorting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coming-and-landing-headings
+  motif_id: coming_and_landing_headings
+  label: coming and landing headings
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording points to section headings or editorial structure, not a
+    narrative or symbolic motif.
+  cautions: If underlying passages describe arrival, landing, voyage, or invasion,
+    index those events separately under journey, otherworld, or divine race as appropriate.
+  suggested_aliases:
+  - arrival_headings
+  - landing_section_headings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items cluster around comic performance, folly, and humorous reversal, but
+  current taxonomy has no stable comic-folly group. Because most are single-occurrence
+  and context-sensitive, human review is preferable before proposing a new canonical
+  group.
+- Dance/performance labels, especially from Native American Great Lakes materials,
+  should be reviewed with attention to ritual and cultural context rather than normalized
+  solely as entertainment or trickster comedy.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3253
+  input_sha256: bb74c2a6738cb7c40f5ffc197caa0486260dd0dd3fb1d46dc8b0fb9bc6204f4e
+

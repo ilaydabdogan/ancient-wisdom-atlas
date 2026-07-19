@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3823
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.protective-recitation-against-meal-related-sin
+  motif_id: protective_recitation_against_meal_related_sin
+  label: Protective recitation against meal-related sin
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A protective recitation is a performative sacred speech act; the meal-related
+    sin context adds ritual-law specificity.
+  cautions: Could also index under sacred_law if the passage emphasizes purity or
+    food rules more than speech efficacy.
+  suggested_aliases:
+  - protective_meal_recitation
+  - recitation_against_food_related_sin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-recitation-at-liminal-moments
+  motif_id: protective_recitation_at_liminal_moments
+  label: Protective recitation at liminal moments
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label describes sacred recitation used apotropaically at thresholds
+    or transitions.
+  cautions: If liminal timing is the main evidence, sacred_time or threshold_guardian
+    may be useful secondary review contexts.
+  suggested_aliases:
+  - apotropaic_recitation_at_thresholds
+  - protective_formula_at_liminal_moments
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-recitation-bounded-by-allotted-lifespan-and-karma
+  motif_id: protective_recitation_bounded_by_allotted_lifespan_and_karma
+  label: Protective recitation bounded by allotted lifespan and Karma
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: Protective recitation fits performative sacred speech, but the limiting
+    force of lifespan and karma may be the real motif.
+  cautions: May belong with death_by_fate, sacred_law, or Buddhist karmic causality
+    depending on source evidence; label is composite and single-occurrence.
+  suggested_aliases:
+  - protective_recitation_limited_by_karma
+  - recitation_bounded_by_lifespan
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-recitation-enables-escape-from-capture
+  motif_id: protective_recitation_enables_escape_from_capture
+  label: protective recitation enables escape from capture
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The effective sacred utterance produces protection and release from danger.
+  cautions: Could also relate to divine_intervention if a deity or sacred power acts
+    in response to the recitation.
+  suggested_aliases:
+  - recitation_enables_escape
+  - protective_formula_releases_captive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-refuge-against-a-kin-killer
+  motif_id: protective_refuge_against_a_kin_killer
+  label: Protective refuge against a kin-killer
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines refuge, kin violence, and pursuit without enough evidence
+    to determine function.
+  cautions: May be a passage-specific episode; review whether refuge is sacred space,
+    social protection, pursuit escape, or vengeance-cycle detail.
+  suggested_aliases:
+  - refuge_from_kin_killer
+  - sanctuary_against_kin_murderer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-refuge-and-killing-in-a-kiva
+  motif_id: protective_refuge_and_killing_in_a_kiva
+  label: Protective refuge and killing in a kiva
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif depends on culturally specific sacred-space context and a combined
+    refuge/killing episode.
+  cautions: Do not normalize from the place term alone; Hopi kiva context needs careful
+    human review and source evidence.
+  suggested_aliases:
+  - kiva_refuge_and_killing
+  - sacred_space_refuge_violated_by_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-resemblance-or-camouflage
+  motif_id: protective_resemblance_or_camouflage
+  label: Protective resemblance or camouflage
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Protective resemblance or camouflage concerns altered appearance used
+    to cross danger or evade recognition.
+  cautions: If no actual transformation or disguise is present, this may be a naturalistic
+    animal detail or fable tactic rather than a shapeshifter motif.
+  suggested_aliases:
+  - protective_camouflage
+  - protective_resemblance
+  - disguise_for_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-senior-as-encompassing-support
+  motif_id: protective_senior_as_encompassing_support
+  label: Protective senior as encompassing support
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and may refer to kinship hierarchy, elder protection,
+    or social ethics rather than a distinct motif.
+  cautions: Could fit sacred_law, sacred_exchange, or family/social-order themes,
+    but source context is required; may be too interpretive for pattern queries.
+  suggested_aliases:
+  - elder_as_protective_support
+  - senior_kin_as_protector
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-shield-interposition
+  motif_id: protective_shield_interposition
+  label: Protective shield interposition
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Shield interposition is a protective battlefield action within combat
+    narrative structure.
+  cautions: If the shield is supernatural or divinely bestowed, sacred_treasures or
+    divine_warrior may be better secondary mappings.
+  suggested_aliases:
+  - shield_interposed_to_protect
+  - protective_interposition_of_shield
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-shout-that-stops-violent-crowd-action
+  motif_id: protective_shout_that_stops_violent_crowd_action
+  label: protective shout that stops violent crowd action
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spoken outcry directly halts violence, fitting performative speech
+    with protective power.
+  cautions: If framed as saintly charisma or miracle rather than speech act, divine_intervention
+    may be a better placement.
+  suggested_aliases:
+  - protective_shout_halts_violence
+  - sacred_shout_stops_crowd
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch cluster around apotropaic recitation and performative
+  sacred speech; consider whether protective recitation should become a child alias
+  under curse_blessing_speech if more examples recur.
+- Single-occurrence refuge labels require source-sensitive review before grouping,
+  especially where culturally specific sacred spaces are named.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific and composite
+    labels retained for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3823
+  input_sha256: 3dda7dc7bab02c42f609628373152cbc10a84b1b3f47f29d4d987a3325ef1687
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0333
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.return-with-a-wounded-youth
+  motif_id: return_with_a_wounded_youth
+  label: Return with a wounded youth
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: The wording suggests a return episode after an ordeal, but the wounded
+    youth may be rescue, mourning, initiation, or passage-specific detail.
+  cautions: Single occurrence; verify whether the return is transformative or merely
+    a plot detail before mapping to hero_journey, lament_and_mourning, or divine_intervention.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-with-enemy-trophies-after-battle
+  motif_id: return_with_enemy_trophies_after_battle
+  label: Return with enemy trophies after battle
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is post-battle trophy return, fitting combat, victory
+    display, and ritualized warfare rather than afterlife return.
+  cautions: Could also relate to divine_warrior if the trophies prove heroic status
+    or sacred empowerment; preserve trophy-return detail as granular evidence.
+  suggested_aliases:
+  - return_with_war_trophies
+  - enemy_trophies_after_battle
+  - war_trophy_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-with-novelties-after-a-marvelous-journey
+  motif_id: return_with_novelties_after_a_marvelous_journey
+  label: Return with novelties after a marvelous journey
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A figure returns from a marvelous journey with new objects or knowledge,
+    matching the return-with-boon structure of the hero journey.
+  cautions: If the journey is specifically to an enchanted realm, otherworld may be
+    a useful secondary mapping; if the novelties are sacred tools, sacred_treasures
+    may apply.
+  suggested_aliases:
+  - return_with_boon_after_marvelous_journey
+  - return_with_marvelous_novelties
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-with-war-trophies
+  motif_id: return_with_war_trophies
+  label: Return with war trophies
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: War trophies are victory and combat-status evidence, fitting sacred_combat
+    more than death/descent motifs.
+  cautions: May be synonymous with return_with_enemy_trophies_after_battle; review
+    whether trophy display has ritual, mourning, or status-transfer significance.
+  suggested_aliases:
+  - return_with_enemy_trophies_after_battle
+  - war_trophy_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-with-war-trophies-followed-by-dance-and-vigilance
+  motif_id: return_with_war_trophies_followed_by_dance_and_vigilance
+  label: Return with war trophies followed by dance and vigilance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a post-battle trophy return followed by ritualized
+    communal action, aligning with sacred combat and warfare rites.
+  cautions: Over-specific composite label; dance and vigilance may indicate a local
+    ritual sequence that should be preserved as evidence rather than promoted broadly.
+  suggested_aliases:
+  - return_with_war_trophies
+  - post_battle_trophy_dance
+  - war_trophy_return_with_vigilance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.returned-favor-through-rescue
+  motif_id: returned_favor_through_rescue
+  label: returned favor through rescue
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A favor repaid through rescue centers on reciprocity and obligation,
+    which fits sacred_exchange better than death or afterlife motifs.
+  cautions: If rescue is performed by a god or supernatural agent, divine_intervention
+    may be secondary; if purely moral repayment, this may be an ethical plot detail.
+  suggested_aliases:
+  - favor_repaid_by_rescue
+  - reciprocal_rescue
+  - rescue_as_returned_favor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.returned-spirit-signaled-by-sounds-in-a-deserted-house
+  motif_id: returned_spirit_signaled_by_sounds_in_a_deserted_house
+  label: Returned spirit signaled by sounds in a deserted house
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: high
+  rationale: A returned spirit manifesting through sounds in a house is a haunting
+    or active dead pattern.
+  cautions: The deserted-house detail is local evidence; verify whether the spirit
+    is restless, ancestral, vengeful, or simply communicating before adding narrower
+    children.
+  suggested_aliases:
+  - returned_spirit_signaled_by_sounds
+  - spirit_sounds_in_deserted_house
+  - haunting_sounds_in_empty_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.returned-weapon-in-divine-giant-combat
+  motif_id: returned_weapon_in_divine_giant_combat
+  label: returned weapon in divine-giant combat
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A returning weapon used in divine combat functions as a supernatural
+    power object or battle-deciding weapon.
+  cautions: Could also map to divine_warrior or sacred_combat if the emphasis is the
+    combat role rather than the weapon's object-power; avoid inferring afterlife significance
+    from bucket placement.
+  suggested_aliases:
+  - returning_weapon_in_divine_combat
+  - supernatural_returning_weapon
+  - battle_returning_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.returning-arrow-as-battle-weapon
+  motif_id: returning_arrow_as_battle_weapon
+  label: Returning arrow as battle weapon
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A returning arrow is a special weapon with unusual power, fitting sacred_treasures
+    and its battle-deciding object patterns.
+  cautions: If the passage emphasizes battle rather than object agency, sacred_combat
+    may be secondary; if the arrow returns against its sender, divine_judgment may
+    apply.
+  suggested_aliases:
+  - supernatural_returning_arrow
+  - returning_projectile_weapon
+  - magical_returning_arrow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.returning-child-discovers-parent-devoured
+  motif_id: returning_child_discovers_parent_devoured
+  label: returning child discovers parent devoured
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an episode-specific discovery of familial death and consumption;
+    its broader function is unclear from wording alone.
+  cautions: Could involve orphaning, monster predation, revenge catalyst, lament,
+    or initiation. Single occurrence and culturally contextual; review source before
+    grouping.
+  suggested_aliases:
+  - child_returns_to_find_parent_devoured
+  - return_and_discovery_of_devoured_parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels were placed in the death/descent bucket by audit heuristics because
+  of the word 'return', but most are combat, reciprocity, journey-return, or haunting
+  motifs rather than afterlife motifs.
+- War-trophy labels appear near-synonymous and may be candidates for alias consolidation
+  under sacred_combat after source review.
+- Single-occurrence composite labels should generally remain granular evidence notes
+  unless the pattern recurs across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0333
+  input_sha256: 1ccf0042615bd77c30a62f3d15a65f94344d7fc7bef9c982827e2ea68f91281a
+

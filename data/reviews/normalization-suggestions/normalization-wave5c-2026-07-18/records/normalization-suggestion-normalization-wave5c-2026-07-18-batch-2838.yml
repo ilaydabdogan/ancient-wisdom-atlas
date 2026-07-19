@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2838
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.treacherous-attendant-conceals-a-disappearance
+  motif_id: treacherous_attendant_conceals_a_disappearance
+  label: Treacherous attendant conceals a disappearance
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is a trusted attendant's betrayal and concealment rather
+    than combat itself.
+  cautions: Single occurrence; if disappearance is supernatural or abduction-centered,
+    another group may be needed as secondary evidence.
+  suggested_aliases:
+  - servant_betrayal_conceals_disappearance
+  - attendant_betrayal_and_concealment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-bargain-rejected-by-captor
+  motif_id: treacherous_bargain_rejected_by_captor
+  label: Treacherous bargain rejected by captor
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on a rejected bargain or supplication-like negotiation
+    under captivity, overlapping existing refused-ransom/supplication material.
+  cautions: Treacherous intent and captive context may make this a plot detail rather
+    than a covenant motif; source context needed.
+  suggested_aliases:
+  - rejected_treacherous_bargain
+  - captor_rejects_treacherous_bargain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-boat-visitor-kills-a-renowned-youth
+  motif_id: treacherous_boat_visitor_kills_a_renowned_youth
+  label: Treacherous boat visitor kills a renowned youth
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines betrayal, boat arrival, and killing of a notable youth
+    without enough evidence to identify the recurring function.
+  cautions: May be an episode-specific death detail, stranger betrayal, boundary-water
+    encounter, or heroic death motif; avoid overmapping from the label alone.
+  suggested_aliases:
+  - treacherous_visitor_kills_youth
+  - boat_visitor_betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-bridge-trap-and-collapse
+  motif_id: treacherous_bridge_trap_and_collapse
+  label: Treacherous bridge trap and collapse
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sabotaged bridge trap is primarily a treacherous violation of trust
+    using a passage structure as the means.
+  cautions: If the bridge functions as a ritual or otherworld threshold, threshold_guardian
+    or sacred_craft may be relevant secondarily.
+  suggested_aliases:
+  - sabotaged_bridge_trap
+  - bridge_collapse_betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-challenge-with-sabotaged-rope
+  motif_id: treacherous_challenge_with_sabotaged_rope
+  label: treacherous challenge with sabotaged rope
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The challenge is corrupted by hidden sabotage, making the violated contest
+    or trust the main pattern.
+  cautions: Could alternatively fall under sacred_combat if the challenge is a formal
+    duel or ordeal; preserve rope sabotage as granular evidence.
+  suggested_aliases:
+  - sabotaged_rope_challenge
+  - treacherous_contest_by_rope_sabotage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-feast-becomes-slaughter
+  motif_id: treacherous_feast_becomes_slaughter
+  label: treacherous feast becomes slaughter
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: alias
+  confidence: high
+  rationale: This directly matches the existing betrayal-through-feast-or-drink child
+    pattern under violated trust.
+  cautions: If the feast is framed mainly as hospitality law violation, sacred_law
+    or hospitality_test_stranger_guest may be secondary.
+  suggested_aliases:
+  - betrayal_through_feast_or_drink
+  - feast_betrayal_leads_to_slaughter
+  - treacherous_banquet_slaughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-hospitality-accusation
+  motif_id: treacherous_hospitality_accusation
+  label: Treacherous hospitality accusation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif turns on hospitality obligations being weaponized through accusation
+    or treachery.
+  cautions: If the accusation is false and moral vindication is central, divine_judgment
+    may be a better secondary mapping.
+  suggested_aliases:
+  - hospitality_betrayal_by_accusation
+  - treacherous_accusation_under_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-hospitality-punished
+  motif_id: treacherous_hospitality_punished
+  label: treacherous hospitality punished
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label emphasizes punishment for a violated hospitality bond, a moral
+    reckoning after transgression.
+  cautions: If the narrative focus is the guest-host obligation itself rather than
+    punishment, hospitality_test_stranger_guest should be primary.
+  suggested_aliases:
+  - punishment_for_treacherous_hospitality
+  - hospitality_betrayal_punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-invitation-to-a-hostile-hall
+  motif_id: treacherous_invitation_to_a_hostile_hall
+  label: Treacherous invitation to a hostile hall
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: A false invitation into a hostile hall is a betrayal or ambush under
+    the guise of social trust.
+  cautions: Could also relate to hospitality_test_stranger_guest if guest-right or
+    host obligation is explicit.
+  suggested_aliases:
+  - false_invitation_to_hostile_hall
+  - treacherous_hall_invitation
+  - invitation_as_ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-killing-by-pit-trap
+  motif_id: treacherous_killing_by_pit_trap
+  label: treacherous killing by pit-trap
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The killing depends on hidden treachery and trap-setting rather than
+    open combat.
+  cautions: If the pit is an ordeal, underworld-like descent, or punishment device,
+    additional placement may be needed; single occurrence is granular.
+  suggested_aliases:
+  - pit_trap_betrayal
+  - hidden_pit_trap_killing
+  - treacherous_pitfall_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence treachery-and-trap details. Most
+  can be provisionally grouped under betrayal_violated_trust while preserving the
+  concrete mechanism as evidence detail.
+- Do not infer transmission or shared origin from these placements; the suggestions
+  only support query normalization.
+- Hospitality-related labels may need secondary review against hospitality_test_stranger_guest,
+  sacred_law, or divine_judgment depending on source evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 2838; human
+    review recommended for single-occurrence and context-dependent trap labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2838
+  input_sha256: 79dbb35244360102b1b9ffbadb285e8f7ed08eaea3fc6790b755133039decaa2
+

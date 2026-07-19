@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0739
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deity-as-lord-of-city-and-temple
+  motif_id: deity_as_lord_of_city_and_temple
+  label: Deity as lord of city and temple
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: A city-and-temple patron deity authorizes civic and cultic order, overlapping
+    sacred kingship and political legitimacy.
+  cautions: Could alternatively fit world_center if the temple-city is framed as cosmic
+    center rather than rulership.
+  suggested_aliases:
+  - city_patron_deity
+  - deity_as_lord_of_city
+  - temple_patron_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-associated-with-sacred-animals-and-plants
+  motif_id: deity_associated_with_sacred_animals_and_plants
+  label: deity associated with sacred animals and plants
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label only records divine attributes or iconographic associations,
+    not a clear narrative or ritual function.
+  cautions: May be an evidence detail for a specific deity; if the animal or plant
+    mediates protection, transformation, fertility, or sacred law, map by that function.
+  suggested_aliases:
+  - deity_with_sacred_animals
+  - deity_with_sacred_plants
+  - divine_animal_and_plant_attributes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-directed-hymns-and-prayers
+  motif_id: deity_directed_hymns_and_prayers
+  label: Deity-directed hymns and prayers
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Hymns and prayers directed to a deity function as ritual address, petition,
+    praise, and reciprocal relation with sacred powers.
+  cautions: If the emphasis is song as supernatural force, enchanting_music or storytelling_as_power
+    may be secondary; if only genre metadata, exclude.
+  suggested_aliases:
+  - hymnic_petition_to_deity
+  - ritual_prayer_to_deity
+  - deity_praise_and_petition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-identified-with-a-celestial-goddess
+  motif_id: deity_identified_with_a_celestial_goddess
+  label: deity identified with a celestial goddess
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe theological identification or interpretive
+    syncretism rather than a recurring narrative motif.
+  cautions: Could fit mother_goddess, sacred_fire/solar_power, or theophany if the
+    passage supplies a function; avoid mapping from identification alone.
+  suggested_aliases:
+  - celestial_goddess_identification
+  - deity_assimilated_to_celestial_goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-in-human-disguise-as-herald-of-the-holy-figure
+  motif_id: deity_in_human_disguise_as_herald_of_the_holy_figure
+  label: Deity in human disguise as herald of the holy figure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: A deity takes human disguise to announce or support a holy figure, a
+    direct sacred intervention in human affairs.
+  cautions: Could also touch shapeshifter because of disguise, but the narrative function
+    is heraldic divine aid.
+  suggested_aliases:
+  - deity_disguised_as_human_herald
+  - divine_herald_in_human_disguise
+  - disguised_deity_announces_holy_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-personation-through-ritual-dance
+  motif_id: deity_personation_through_ritual_dance
+  label: deity personation through ritual dance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual embodiment of a deity through dance is a distinct performative
+    presence motif not cleanly covered by current groups.
+  cautions: Culturally sensitive ceremonial context; source evidence and community-specific
+    terminology should be reviewed before grouping.
+  suggested_aliases:
+  - ritual_deity_personation
+  - deity_embodiment_in_dance
+  - masked_or_danced_deity_presence
+  suggested_new_group:
+    id: ritual_deity_personation
+    label: Ritual Deity Personation
+    description: Ritual performance, dance, masking, or embodied enactment in which
+      a participant represents, manifests, or mediates a deity or sacred being.
+    parent_group_ids:
+    - theophany
+    - sacred_exchange
+    related_group_ids:
+    - shapeshifter
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: Theophany covers divine manifestation broadly,
+      but does not distinguish ritual human embodiment or personation as a ceremonial
+      practice.
+- suggestion_id: normalization.suggestion.deity-serving-the-holy-teacher-in-vision
+  motif_id: deity_serving_the_holy_teacher_in_vision
+  label: Deity serving the holy teacher in vision
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a visionary scene in which divine beings affirm
+    or serve a holy teacher.
+  cautions: If the emphasis is divine hierarchy or sacred authority rather than vision,
+    divine_intervention or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - vision_of_deity_serving_holy_teacher
+  - divine_service_to_teacher_in_vision
+  - deities_honor_holy_teacher_in_vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-specific-sacred-architecture
+  motif_id: deity_specific_sacred_architecture
+  label: Deity-specific sacred architecture
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sacred architecture dedicated to a deity can function as a temple or
+    cultic center organizing divine-human relation.
+  cautions: If the label is only archaeological categorization, it may be a contextual
+    artifact; if construction process is emphasized, sacred_craft may fit better.
+  suggested_aliases:
+  - deity_specific_temple_architecture
+  - sacred_architecture_for_a_deity
+  - cult_architecture_of_a_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.delay-through-ritualized-demands-from-the-four-directions
+  motif_id: delay_through_ritualized_demands_from_the_four_directions
+  label: Delay through ritualized demands from the four directions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines delay, ritual demand, and four-direction cosmology
+    without enough context to identify the main function.
+  cautions: May fit sacred_law, sacred_exchange, initiation, or axis_mundi depending
+    on whether the demands test, orient, delay, or ritually authorize action.
+  suggested_aliases:
+  - ritual_demands_from_four_directions
+  - four_direction_ritual_delay
+  - delay_by_ceremonial_demands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.delayed-fulfillment-shown-through-a-divine-similitude
+  motif_id: delayed_fulfillment_shown_through_a_divine_similitude
+  label: Delayed fulfillment shown through a divine similitude
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine similitude that reveals future fulfillment functions as a manifestation
+    or revelatory sign.
+  cautions: If the emphasis is prediction rather than manifestation, prophecy_divination
+    or dream_and_vision may be better; the wording is abstract and source-dependent.
+  suggested_aliases:
+  - divine_similitude_reveals_delayed_fulfillment
+  - revelatory_divine_likeness
+  - divine_sign_of_future_fulfillment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and deity-description-heavy; reviewers should
+  distinguish iconographic/theological attributes from usable narrative or ritual
+  motifs.
+- No transmission or contact claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for wave5c batch 0739; culturally specific
+    ritual personation and four-direction items especially need human/source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0739
+  input_sha256: d41a2a3f9e4f3e84005816217602a9378ced3ff9fd20a14386245789d545c51a
+

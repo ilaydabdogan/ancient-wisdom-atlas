@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3844
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rank-expressed-through-vertical-position
+  motif_id: rank_expressed_through_vertical_position
+  label: rank expressed through vertical position
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Vertical placement can encode hierarchy, chiefly status, or sacred political
+    order, which fits the broad kingship/status group better than axis symbolism without
+    evidence of cosmic connection.
+  cautions: Single occurrence; if merely seating etiquette or ethnographic description,
+    it may be too contextual for pattern queries.
+  suggested_aliases:
+  - vertical rank symbolism
+  - hierarchy expressed by height
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rank-or-age-revealed-by-carried-burden
+  motif_id: rank_or_age_revealed_by_carried_burden
+  label: rank or age revealed by carried burden
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a recognition device, social hierarchy marker,
+    ordeal, or passage-specific detail depending on narrative context.
+  cautions: Do not map to recognition_tokens_hidden_identity unless the burden actually
+    proves identity/status in the plot; may be an over-specific episode detail.
+  suggested_aliases:
+  - status revealed by burden
+  - age revealed by burden
+  - burden as social marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rank-regulated-mourning-staff-protocol
+  motif_id: rank_regulated_mourning_staff_protocol
+  label: rank-regulated mourning staff protocol
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rank-governed mourning protocol is a ritual and social-order prescription,
+    fitting sacred law more than general lament.
+  cautions: Could also support lament_and_mourning or ancestor_rites if the passage
+    emphasizes grief or care for the dead rather than correct social protocol.
+  suggested_aliases:
+  - mourning staff etiquette by rank
+  - ranked mortuary protocol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rank-scaled-mourning-duration-and-etiquette
+  motif_id: rank_scaled_mourning_duration_and_etiquette
+  label: Rank-scaled mourning duration and etiquette
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prescribed mourning duration and etiquette scaled by rank is a ritual-social
+    regulation within sacred law.
+  cautions: If the source focuses on mourning as emotional or memorial practice, add
+    secondary review under lament_and_mourning or ancestor_rites.
+  suggested_aliases:
+  - ranked mourning duration
+  - mourning etiquette by social rank
+  - rank-scaled mortuary etiquette
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rank-specific-substitution-of-cords-for-iron-fetters
+  motif_id: rank_specific_substitution_of_cords_for_iron_fetters
+  label: Rank-specific substitution of cords for iron fetters
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a culturally specific legal or status protocol, but
+    its narrative function is unclear from the label alone.
+  cautions: May be an ethnographic/legal detail rather than a reusable motif; map
+    to sacred_law only if source frames it as ritualized or sacred social order.
+  suggested_aliases:
+  - status-specific fetter substitution
+  - ranked restraint protocol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ranked-and-relational-mourning-obligations
+  motif_id: ranked_and_relational_mourning_obligations
+  label: Ranked and relational mourning obligations
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Obligatory mourning duties by rank and relationship are ritualized social-order
+    rules, fitting sacred law.
+  cautions: Could be cross-indexed with ancestor_rites if duties concern maintaining
+    relations with the dead, or lament_and_mourning if grief expression is central.
+  suggested_aliases:
+  - relational mourning obligations
+  - ranked mourning duties
+  - kinship-ranked mourning protocol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ranked-ceremonial-serving-through-called-dishes
+  motif_id: ranked_ceremonial_serving_through_called_dishes
+  label: ranked ceremonial serving through called dishes
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ceremonial serving of food by ranked order can function as ritual exchange
+    and social reciprocity.
+  cautions: Culturally specific potlatch/feast protocol may need human review; if
+    the emphasis is status hierarchy rather than exchange, sacred_law or royal_legitimacy
+    may fit better.
+  suggested_aliases:
+  - ranked ceremonial food service
+  - called dishes in ranked feast
+  - ranked feast serving protocol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ranked-chiefs-among-natural-kinds
+  motif_id: ranked_chiefs_among_natural_kinds
+  label: ranked chiefs among natural kinds
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A ranked ordering among natural kinds suggests cosmic classification
+    and ordered hierarchy rather than human kingship alone.
+  cautions: Could alternatively belong to cosmic_origin, supreme_ruler, or sacred_law
+    depending on whether the passage concerns creation taxonomy, sovereignty, or ritual
+    classification.
+  suggested_aliases:
+  - hierarchy among natural kinds
+  - chiefs of created kinds
+  - ranked natural categories
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ranked-council-lodge-with-chiefly-platform-and-kava-preparation-stones
+  motif_id: ranked_council_lodge_with_chiefly_platform_and_kava_preparation_stones
+  label: Ranked council lodge with chiefly platform and kava preparation stones
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines political rank, ritual architecture, and kava preparation
+    objects in a highly local configuration.
+  cautions: May be useful as evidence but too specific for a canonical mapping; if
+    recurring, consider sacred_law, sacred_exchange, royal_legitimacy, or world_center
+    depending on function.
+  suggested_aliases:
+  - ranked council lodge
+  - chiefly platform in ritual lodge
+  - kava preparation stones in council lodge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ranked-crow-or-feather-tail-dance-regalia
+  motif_id: ranked_crow_or_feather_tail_dance_regalia
+  label: ranked crow or feather-tail dance regalia
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Regalia may mark rank, ritual role, animal symbolism, or performance
+    identity, but the label alone does not establish a clear taxonomy function.
+  cautions: Culturally sensitive and object-specific; avoid collapsing into sacred_treasures
+    or shapeshifter unless the passage shows power-object or transformation function.
+  suggested_aliases:
+  - ranked feather dance regalia
+  - crow dance regalia as rank marker
+  - feather-tail rank regalia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch describe rank-coded ritual etiquette rather than narrative
+  motifs; sacred_law is the safest provisional parent when a prescribed social or
+  ritual order is explicit.
+- Single-occurrence, highly local ceremonial-object labels should remain provisional
+  and may be excluded or retained only as evidence details after source review.
+- Avoid treating vertical position or chiefly platforms as axis_mundi unless the passage
+  explicitly gives them cosmic-center or heaven-earth-underworld functions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items require source-context review
+    before broad pattern indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3844
+  input_sha256: c052c73e46868a6df20f99eee3c55880014230e04e98455266a47be5b97dead5
+

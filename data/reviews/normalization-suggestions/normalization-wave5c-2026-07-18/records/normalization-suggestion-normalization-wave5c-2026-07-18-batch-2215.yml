@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2215
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.misidentification-of-an-animal-as-a-human-with-weapons
+  motif_id: misidentification_of_an_animal_as_a_human_with_weapons
+  label: misidentification of an animal as a human with weapons
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests comic or deceptive mistaken identity involving an
+    animal, but the narrative function is unclear from wording alone.
+  cautions: Single occurrence; could be trickster misrecognition, disguise, hunting
+    error, or passage-specific scene detail.
+  suggested_aliases:
+  - animal_misidentified_as_armed_human
+  - mistaken_identity_of_animal_as_human
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misidentified-carcass-reveals-the-fallen-animal
+  motif_id: misidentified_carcass_reveals_the_fallen_animal
+  label: misidentified carcass reveals the fallen animal
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads like an episode-specific recognition detail rather than a
+    reusable symbolic or narrative motif.
+  cautions: If the source shows transformation, taboo hunting, or animal-person identity,
+    remap under shapeshifter or sacred_law after evidence review.
+  suggested_aliases:
+  - misidentified_animal_carcass
+  - carcass_recognition_of_fallen_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mismatched-or-makeshift-labor-team
+  motif_id: mismatched_or_makeshift_labor_team
+  label: Mismatched or makeshift labor team
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: low
+  rationale: Labor-team imagery may relate to construction or task performance, but
+    the animal/trickster function is not evident.
+  cautions: May be a local comic episode, fable detail, or passage artifact; do not
+    map to sacred_craft unless a meaningful craft/building task is central.
+  suggested_aliases:
+  - makeshift_labor_team
+  - mismatched_work_team
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misrecognized-animal-defenders-as-monstrous-or-judicial-figures
+  motif_id: misrecognized_animal_defenders_as_monstrous_or_judicial_figures
+  label: Misrecognized animal defenders as monstrous or judicial figures
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: Animal defenders may function as guardians, but misrecognition as monsters
+    or judges makes the role ambiguous.
+  cautions: Could fit threshold_guardian, divine_judgment, animal helpers, or a simple
+    misperception episode depending on source evidence.
+  suggested_aliases:
+  - animal_defenders_misrecognized
+  - misrecognized_animal_guardians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.missionary-transformation-of-a-local-community
+  motif_id: missionary_transformation_of_a_local_community
+  label: Missionary transformation of a local community
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds historical or ethnographic rather than a mythic animal/transformation
+    motif.
+  cautions: Culturally sensitive and likely dependent on colonial or missionary source
+    context; may be commentary rather than a motif.
+  suggested_aliases:
+  - community_transformed_by_missionary_activity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-animal-lord-figure
+  motif_id: mistaken_animal_lord_figure
+  label: Mistaken animal-lord figure
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: An animal-lord may be a supernatural master of animals, but 'mistaken'
+    leaves the figure's identity and function unclear.
+  cautions: Could require a future animal-master group if many such labels recur;
+    avoid flattening into divine_intervention without evidence of sacred agency.
+  suggested_aliases:
+  - mistaken_master_of_animals
+  - misidentified_lord_of_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-animal-prey-revealed-as-human
+  motif_id: mistaken_animal_prey_revealed_as_human
+  label: mistaken animal prey revealed as human
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal prey revealed as human points to unstable human-animal identity
+    or transformation.
+  cautions: Review Indigenous source context carefully; if no transformation is present,
+    this may be misrecognition or hunting taboo rather than shapeshifting.
+  suggested_aliases:
+  - animal_prey_revealed_as_human
+  - mistaken_prey_human_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-animal-prey-revealed-as-human-people
+  motif_id: mistaken_animal_prey_revealed_as_human_people
+  label: mistaken animal prey revealed as human people
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is a close variant of animal prey revealed as human, fitting human-animal
+    transformation or unstable identity.
+  cautions: May involve ancestral beings, taboo hunting, or personhood of animals;
+    human review should preserve local meaning.
+  suggested_aliases:
+  - animal_prey_revealed_as_human_people
+  - mistaken_prey_revealed_as_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistreated-animal-departs-from-a-neglectful-owner
+  motif_id: mistreated_animal_departs_from_a_neglectful_owner
+  label: Mistreated animal departs from a neglectful owner
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on proper treatment of animals and consequences for
+    neglect, aligning with ethical or ritual social order.
+  cautions: Could instead fit animal helpers or divine judgment if the animal is supernatural
+    or the departure punishes the owner.
+  suggested_aliases:
+  - neglected_animal_leaves_owner
+  - mistreated_animal_abandons_owner
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistress-of-the-sea-ruling-marine-animals
+  motif_id: mistress_of_the_sea_ruling_marine_animals
+  label: Mistress of the Sea ruling marine animals
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A sea mistress ruling marine animals is a sacred agent governing animal
+    abundance and human access to resources.
+  cautions: This may deserve more specific handling as master/mistress-of-animals
+    or sea deity if recurring; treat Arctic-Inuit context sensitively.
+  suggested_aliases:
+  - sea_mistress_ruling_marine_animals
+  - mistress_of_marine_animals
+  - sea_deity_controls_marine_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal misrecognition scenes;
+  preserve source detail but avoid promoting them without recurrence or clearer function.
+- A recurring master/mistress-of-animals pattern may warrant a future group if additional
+  evidence appears across Arctic, hunting, or animal-personhood traditions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source context is especially needed for culturally
+    specific animal-person and sea-mistress motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2215
+  input_sha256: 4ccf07431d0362b489cf0a0744ae1d8998377e13b18ed7a18600ff2ef8126d12
+

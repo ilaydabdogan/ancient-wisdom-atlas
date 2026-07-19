@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1225
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.warrior-assimilated-to-war-god-and-storm-force
+  motif_id: warrior_assimilated_to_war_god_and_storm_force
+  label: warrior assimilated to war-god and storm-force
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A human warrior identified with a war-god and storm force fits the divine-warrior
+    complex of sacred combat and superhuman martial power.
+  cautions: Single occurrence; could be poetic simile rather than a stable motif.
+    If storm imagery is primary, consider secondary relation to sacred_fire or divine_intervention
+    only with evidence.
+  suggested_aliases:
+  - warrior assimilated to war god
+  - warrior as storm force
+  - warrior identified with martial deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-goddess-as-cosmic-flame
+  motif_id: warrior_goddess_as_cosmic_flame
+  label: warrior goddess as cosmic flame
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A goddess characterized as martial and cosmic flame combines divine combat
+    identity with fiery sacred power; divine_warrior is the best primary function.
+  cautions: If the passage emphasizes flame as theophany or purification rather than
+    combat, sacred_fire may be the better primary group.
+  suggested_aliases:
+  - warrior goddess as flame
+  - martial goddess as cosmic fire
+  - goddess as battle flame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-goddess-who-brings-conflict
+  motif_id: warrior_goddess_who_brings_conflict
+  label: Warrior goddess who brings conflict
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: A deity whose role is to bring or incite conflict belongs directly under
+    divine_warrior and sacred combat imagery.
+  cautions: May also involve divine_judgment if conflict is framed as punishment for
+    transgression; source context should decide secondary mapping.
+  suggested_aliases:
+  - conflict-bringing warrior goddess
+  - war goddess incites battle
+  - goddess who brings war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-night-vigil-with-divine-images
+  motif_id: warrior_night_vigil_with_divine_images
+  label: warrior night vigil with divine images
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests a culturally specific warrior ritual involving vigil
+    and sacred images, but its function is unclear from the label alone.
+  cautions: Could fit divine_warrior, sacrifice, sacred_exchange, sacred_treasures,
+    or sacred_law depending on whether the vigil seeks aid, fulfills obligation, honors
+    images, or marks initiation. Review cultural context carefully.
+  suggested_aliases:
+  - warrior vigil before divine images
+  - night vigil with sacred images
+  - martial ritual vigil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_exchange
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-seeks-divine-aid-for-pursuit-and-battle
+  motif_id: warrior_seeks_divine_aid_for_pursuit_and_battle
+  label: Warrior seeks divine aid for pursuit and battle
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Seeking sacred aid for combat and pursuit matches established divine_warrior
+    aliases around divine aid in battle.
+  cautions: If the emphasis is prayer or votive exchange rather than battle outcome,
+    sacred_exchange may be a useful secondary relation.
+  suggested_aliases:
+  - warrior seeks divine aid in battle
+  - prayer for aid in pursuit and combat
+  - divine aid sought for battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-vows-fulfilled-during-communal-ceremony
+  motif_id: warrior_vows_fulfilled_during_communal_ceremony
+  label: Warrior vows fulfilled during communal ceremony
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label centers on vow fulfillment in communal ritual, but it is unclear
+    whether the key function is covenant, sacrifice, warrior honor, or sacred exchange.
+  cautions: Culturally specific ceremonial material should be reviewed with source
+    evidence. Avoid flattening into generic combat if the ceremony is primarily social,
+    votive, or ritual-reciprocal.
+  suggested_aliases:
+  - communal fulfillment of warrior vows
+  - warrior vow ceremony
+  - vows fulfilled in communal rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_exchange
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wartime-prayer-to-a-stream
+  motif_id: wartime_prayer_to_a_stream
+  label: Wartime prayer to a stream
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayer addressed to a stream treats water as sacred agency or medium,
+    fitting sacred_waters more than general combat.
+  cautions: Single occurrence and culturally specific. If the stream is invoked mainly
+    as a divine helper in battle, divine_intervention or divine_warrior may be secondary.
+  suggested_aliases:
+  - prayer to a stream in war
+  - wartime invocation of sacred water
+  - battle prayer to water source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - divine_warrior
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.washing-as-purification-with-named-exceptions
+  motif_id: washing_as_purification_with_named_exceptions
+  label: washing as purification with named exceptions
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A rule governing washing for purification, including exceptions, belongs
+    with ritual purity and sacred law.
+  cautions: Named exceptions may be passage-specific legal detail; preserve in evidence
+    notes rather than promoting a separate motif.
+  suggested_aliases:
+  - washing as ritual purification with exceptions
+  - purification washing exceptions
+  - ritual washing rule with exceptions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.washing-as-ritual-purification-rule
+  motif_id: washing_as_ritual_purification_rule
+  label: Washing as ritual purification rule
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritual washing prescribed as a purification rule is a clear sacred_law
+    purity-code pattern.
+  cautions: Could also be indexed under sacred_waters if the source emphasizes the
+    water's sacred quality rather than the rule itself.
+  suggested_aliases:
+  - ritual washing for purification
+  - purification by washing rule
+  - washing purification law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.waste-land-before-sacred-encounter
+  motif_id: waste_land_before_sacred_encounter
+  label: waste land before sacred encounter
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A barren or waste landscape preceding a sacred encounter often functions
+    as a quest threshold or spiritual ordeal before revelation.
+  cautions: Arthurian wasteland motifs may involve kingship, fertility, grail ritual,
+    or social restoration; consider royal_legitimacy, sacred_love, or divine_judgment
+    if passage evidence points there.
+  suggested_aliases:
+  - wasteland before sacred encounter
+  - barren land before revelation
+  - waste land as quest threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - theophany
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence labels; suggested placements should be treated
+  as provisional indexing aids, not taxonomy changes.
+- Several warrior-ritual labels may require culturally informed review before broad
+  grouping, especially Native American ceremonial contexts.
+- Where labels mix martial, ritual, and elemental imagery, the suggested group reflects
+  primary narrative function rather than all symbolic associations.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 1225; human taxonomy
+    review recommended for culturally specific ritual labels and over-specific singletons.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1225
+  input_sha256: de2c13cfa894ae085e19e8039b1fb80f633379f5b7c57aa428a793ef33bc11ab
+

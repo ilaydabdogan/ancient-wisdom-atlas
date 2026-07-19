@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2788
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.pursuer-disabled-by-small-natural-weapons
+  motif_id: pursuer_disabled_by_small_natural_weapons
+  label: pursuer disabled by small natural weapons
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: The label describes combat or escape in which small natural objects function
+    as weapons against a pursuer.
+  cautions: Single occurrence and culturally local detail; could instead fit trickster
+    escape or divine intervention if the weapons are magical or strategically deceptive.
+  suggested_aliases:
+  - natural_objects_used_as_heroic_weapons
+  - pursuer_disabled_by_natural_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pursuer-s-weapon-fails-during-escape
+  motif_id: pursuer_s_weapon_fails_during_escape
+  label: Pursuer’s weapon fails during escape
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A hostile weapon failing during pursuit resembles reversal motifs where
+    aggression is thwarted or turned back.
+  cautions: Label alone does not show divine or moral judgment; may be ordinary escape
+    action, trickster evasion, or a passage-specific detail.
+  suggested_aliases:
+  - hostile_weapon_fails_during_pursuit
+  - pursuer_weapon_failure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pursuit-from-behind-by-an-enemy-group
+  motif_id: pursuit_from_behind_by_an_enemy_group
+  label: pursuit from behind by an enemy group
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a generic chase scene detail rather than a distinctive
+    symbolic or narrative motif.
+  cautions: If the passage includes supernatural pursuit, ordeal, boundary crossing,
+    or pursuit reversal, remap to a more functional group such as hero_journey, trickster,
+    or divine_judgment.
+  suggested_aliases:
+  - enemy_group_pursuit
+  - pursuit_by_enemy_group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pursuit-of-a-wounded-taker-to-a-hidden-cave-dwelling
+  motif_id: pursuit_of_a_wounded_taker_to_a_hidden_cave_dwelling
+  label: pursuit of a wounded taker to a hidden cave dwelling
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: narrower_than
+  confidence: low
+  rationale: A pursuit into a hidden cave dwelling may function as entry into a liminal
+    or chthonic space.
+  cautions: May be only a plot-specific chase and hiding-place detail; use descent
+    only if the cave marks a charged threshold, hidden realm, or transformative danger.
+  suggested_aliases:
+  - pursuit_to_hidden_cave
+  - cave_pursuit_after_wounding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pursuit-over-contested-inheritance
+  motif_id: pursuit_over_contested_inheritance
+  label: pursuit over contested inheritance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could concern kinship conflict, succession, legal order, vengeance,
+    or a chase episode depending on passage evidence.
+  cautions: Existing groups do not clearly capture contested inheritance without knowing
+    whether sacred kingship, covenantal law, or heroic feud is central.
+  suggested_aliases:
+  - contested_inheritance_pursuit
+  - inheritance_dispute_pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pygmies-in-continual-war-with-cranes
+  motif_id: pygmies_in_continual_war_with_cranes
+  label: Pygmies in continual war with cranes
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a culturally loaded ethnographic-marvel motif involving a named
+    people and animal enemies, not just sacred combat.
+  cautions: The label uses an exonym and may reflect classical ethnographic wonder
+    tradition; review for sensitivity and whether it should be indexed as combat,
+    animal conflict, or excluded as literary ethnography.
+  suggested_aliases:
+  - continual_war_with_cranes
+  - crane_war_against_small_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.qualified-teacher-prepares-candidate-before-public-test
+  motif_id: qualified_teacher_prepares_candidate_before_public_test
+  label: Qualified teacher prepares candidate before public test
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A teacher preparing a candidate for a public test fits instruction before
+    an ordeal or status-confirming trial.
+  cautions: If the passage is primarily scholastic pedagogy or monastic training without
+    transformation, sacred_knowledge may be a better placement or it may be too contextual.
+  suggested_aliases:
+  - teacher_prepares_candidate_for_test
+  - instruction_before_public_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quarrel-among-friends-rather-than-war
+  motif_id: quarrel_among_friends_rather_than_war
+  label: Quarrel among friends rather than war
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and may describe a rhetorical interpretation of
+    conflict scale rather than a motif.
+  cautions: Could fit sacred_combat, covenant, betrayal, or exclude as commentary
+    depending on whether the passage narrates broken friendship, civil conflict, or
+    authorial framing.
+  suggested_aliases:
+  - friendly_quarrel_instead_of_war
+  - conflict_among_friends
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quarrel-between-women-reveals-hidden-heroic-deed
+  motif_id: quarrel_between_women_reveals_hidden_heroic_deed
+  label: Quarrel between women reveals hidden heroic deed
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: The key function is speech conflict revealing a concealed heroic action
+    and reshaping public knowledge.
+  cautions: May instead belong to recognition/identity proof or heroic honor if the
+    hidden deed validates status; single occurrence is highly contextual.
+  suggested_aliases:
+  - quarrel_reveals_hidden_heroic_deed
+  - speech_conflict_reveals_heroic_deed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quills-as-feared-retaliatory-weapon
+  motif_id: quills_as_feared_retaliatory_weapon
+  label: quills as feared retaliatory weapon
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Quills function as a feared weapon in retaliatory conflict, fitting a
+    granular combat-weapon variant.
+  cautions: If the quills belong to an animal transformation or trickster episode,
+    shapeshifter or trickster may be preferable; preserve the object-specific detail
+    as evidence only.
+  suggested_aliases:
+  - quills_as_retaliatory_weapon
+  - natural_quills_as_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence chase or combat details; preserve
+  local evidence but avoid promoting them as canonical motifs without recurrence.
+- For culturally specific Native American and classical ethnographic labels, final
+  placement should use passage evidence and culturally sensitive review rather than
+  label similarity alone.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple low-confidence conflict labels may
+    be over-specific evidence notes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2788
+  input_sha256: f56459a0db7feb778607be65e030bae256a509f05f36d5a7b4f2fa116b807e3e
+

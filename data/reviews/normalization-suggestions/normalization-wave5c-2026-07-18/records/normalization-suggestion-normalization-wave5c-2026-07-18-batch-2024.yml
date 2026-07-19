@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2024
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.widow-selects-a-new-husband-by-resemblance-to-former-spouse
+  motif_id: widow_selects_a_new_husband_by_resemblance_to_former_spouse
+  label: widow selects a new husband by resemblance to former spouse
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: uncertain
+  confidence: low
+  rationale: Resemblance may function as recognition, substitution, or spouse-selection
+    proof, but the label alone is too contextual.
+  cautions: Could instead belong under sacred_love, lament_and_mourning, remarriage
+    custom, or be an episode-specific marriage detail.
+  suggested_aliases:
+  - spouse chosen by resemblance to dead spouse
+  - widow remarries lookalike of former husband
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.widowed-fidelity-challenged-by-new-love
+  motif_id: widowed_fidelity_challenged_by_new_love
+  label: Widowed fidelity challenged by new love
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on fidelity to a dead spouse tested by renewed romantic
+    desire.
+  cautions: If the passage is moral satire or social commentary rather than mythic
+    love conflict, treat as contextual evidence rather than a durable motif.
+  suggested_aliases:
+  - widow fidelity tested by new love
+  - love challenges mourning fidelity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.widowed-or-formerly-married-bride-sought-for-remarriage
+  motif_id: widowed_or_formerly_married_bride_sought_for_remarriage
+  label: widowed or formerly married bride sought for remarriage
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: Remarriage pursuit may fit bride-choice or love-marriage patterns, but
+    the label is mainly social status plus marriage plot.
+  cautions: Single occurrence and may be too specific or genealogical/legal rather
+    than symbolic; review source function before indexing.
+  suggested_aliases:
+  - remarriage sought for widowed bride
+  - formerly married bride pursued
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.widower-marries-deceased-wife-s-sister
+  motif_id: widower_marries_deceased_wife_s_sister
+  label: widower marries deceased wife's sister
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to describe a culturally specific kinship-marriage practice
+    rather than a clear normalized motif.
+  cautions: Avoid flattening local marriage rules into sacred_love; may require ethnographic
+    context or exclusion if only a kinship detail.
+  suggested_aliases:
+  - sororal remarriage after wife's death
+  - widower remarries wife's sister
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wife-as-expected-mourner
+  motif_id: wife_as_expected_mourner
+  label: wife as expected mourner
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: role_variant
+  confidence: medium
+  rationale: The wife is identified by the social and ritual role of mourning the
+    dead.
+  cautions: If the label only notes a norm of household obligation without expressed
+    lament, sacred_law or exclusion as social detail may be preferable.
+  suggested_aliases:
+  - wife as ritual mourner
+  - spousal mourning obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wife-as-helper-against-hostile-mother
+  motif_id: wife_as_helper_against_hostile_mother
+  label: Wife as helper against hostile mother
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: role_variant
+  confidence: low
+  rationale: A spouse-helper role may belong to love or kinship-conflict patterns,
+    but the hostile mother relationship is not covered clearly.
+  cautions: Could be a tale-type family-conflict detail, helper-bride motif, or persecuting
+    relative pattern; review before mapping to sacred_love.
+  suggested_aliases:
+  - wife helps against hostile mother
+  - spouse as helper in kin conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wife-associated-with-lust-and-greed
+  motif_id: wife_associated_with_lust_and_greed
+  label: Wife associated with lust and greed
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as an ethical warning about desire and greed, but it
+    is framed through a gendered role.
+  cautions: Potentially culturally sensitive and possibly misogynistic moralizing
+    or commentary artifact; source context is needed before indexing.
+  suggested_aliases:
+  - spouse as figure of lust and greed
+  - marital desire and greed as moral danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wife-brings-hunting-fortune
+  motif_id: wife_brings_hunting_fortune
+  label: Wife brings hunting fortune
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: A spouse bringing hunting luck may express reciprocal relations, alliance,
+    or supernatural provision through marriage.
+  cautions: Could involve animal-wife, otherworld wife, tutelary spirit, or local
+    hunting ritual; do not map without passage evidence.
+  suggested_aliases:
+  - wife confers hunting luck
+  - marriage brings hunting fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wife-carried-in-crystal-casket
+  motif_id: wife_carried_in_crystal_casket
+  label: Wife carried in crystal casket
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: The casket functions as a preserving or enclosing container for the wife,
+    likely in a deathlike or suspended state.
+  cautions: If the focus is mourning, enchanted sleep, or resurrection rather than
+    the container, secondary mapping to lament_and_mourning or death_and_transformation
+    may be needed.
+  suggested_aliases:
+  - crystal casket preserves wife
+  - beloved enclosed in crystal casket
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wife-claiming-through-bathing-encounter
+  motif_id: wife_claiming_through_bathing_encounter
+  label: wife-claiming through bathing encounter
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: A bathing encounter may initiate marriage or spouse-claiming, but the
+    narrative function is unclear from the label.
+  cautions: Could involve coercion, capture, taboo sight, swan-maiden-like spouse
+    acquisition, or a culturally specific marriage rule; review for consent and source
+    context.
+  suggested_aliases:
+  - spouse claimed after bathing encounter
+  - bathing encounter initiates marriage claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence spouse, widowhood, or remarriage
+  details; many need source-context review before promotion or stable group mapping.
+- Consider whether recurrent marriage/kinship-law motifs warrant a future group, but
+  do not create one from these isolated labels alone.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several items may be social or passage-specific
+    details rather than durable motif labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2024
+  input_sha256: ed45bdb89bb6211e3211af73a1475d197c3f1a62548cb7ee14dace8f5eacdb56
+

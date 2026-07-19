@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0618
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.settlement-founded-under-danger-and-hardship
+  motif_id: settlement_founded_under_danger_and_hardship
+  label: Settlement founded under danger and hardship
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Founding a settlement after danger may fit journey, ordeal, and social
+    reconstitution, but the label lacks evidence of a transformative quest structure.
+  cautions: Single occurrence; may be an origin/settlement etiology, migration detail,
+    or passage-specific historical note rather than a reusable motif.
+  suggested_aliases:
+  - settlement_founded_after_hardship
+  - dangerous_settlement_foundation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severed-head-as-quest-token-and-effective-object
+  motif_id: severed_head_as_quest_token_and_effective_object
+  label: severed head as quest-token and effective object
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A severed head functioning as a quest token and effective object aligns
+    with power objects that confer authority, proof, or supernatural effect.
+  cautions: Could also relate to sacred_combat or recognition_tokens_hidden_identity
+    if the head mainly proves victory or identity; preserve the severed-head specificity
+    as evidence.
+  suggested_aliases:
+  - severed_head_as_power_object
+  - severed_head_as_quest_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severed-head-carried-as-requested-token
+  motif_id: severed_head_carried_as_requested_token
+  label: severed head carried as requested token
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The severed head is carried as a requested token, suggesting proof of
+    quest fulfillment or identity/status verification.
+  cautions: If the passage emphasizes trophy display or battle victory, sacred_combat
+    or divine_warrior may be a better secondary placement.
+  suggested_aliases:
+  - severed_head_as_requested_token
+  - severed_head_as_proof_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severed-head-toll-for-dangerous-forest-passage
+  motif_id: severed_head_toll_for_dangerous_forest_passage
+  label: Severed-head toll for dangerous forest passage
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A toll demanded for passage through a dangerous forest frames the severed
+    head as the price of crossing a perilous threshold.
+  cautions: Highly specific; if no guardian, test, or boundary-keeper is present,
+    treat as quest ordeal or over-specific episode detail.
+  suggested_aliases:
+  - head_toll_for_forest_passage
+  - severed_head_as_threshold_toll
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sexual-connection-as-courtship-before-marriage
+  motif_id: sexual_connection_as_courtship_before_marriage
+  label: sexual connection as courtship before marriage
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns courtship and marriage formation, which may relate
+    to sacred_love, but no sacred, ritual, or narrative function is clear from the
+    label alone.
+  cautions: Culturally sensitive and potentially ethnographic; avoid mapping without
+    passage evidence showing mythic function rather than social custom description.
+  suggested_aliases:
+  - premarital_sexual_courtship
+  - sexual_union_as_courtship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sexual-restriction-attached-to-fishing-leadership
+  motif_id: sexual_restriction_attached_to_fishing_leadership
+  label: Sexual restriction attached to fishing leadership
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sexual restriction tied to a leadership role suggests taboo, purity,
+    or conduct regulation within sacred/social order.
+  cautions: Single occurrence and culturally specific; review whether this is a ritual
+    taboo, leadership qualification, ethnographic rule, or passage artifact.
+  suggested_aliases:
+  - sexual_taboo_for_fishing_leader
+  - leader_sexual_restriction_before_fishing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shame-driven-departure-of-dangerous-being
+  motif_id: shame_driven_departure_of_dangerous_being
+  label: shame-driven departure of dangerous being
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: A dangerous being departing due to shame may reflect social reversal,
+    trickster defeat, or monster expulsion, but the mechanism is unclear.
+  cautions: Could fit ritual expulsion, divine judgment, trickster reversal, or an
+    over-specific episode; source evidence needed before final placement.
+  suggested_aliases:
+  - dangerous_being_shamed_into_departure
+  - shame_expels_dangerous_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-bread-and-salt-as-friendship-bond
+  motif_id: shared_bread_and_salt_as_friendship_bond
+  label: shared bread and salt as friendship bond
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: Sharing food to create or mark a friendship bond fits sacred exchange,
+    hospitality, and reciprocal obligation.
+  cautions: If framed as binding oath rather than hospitality or exchange, covenant
+    or curse_blessing_speech may be useful secondary mappings.
+  suggested_aliases:
+  - bread_and_salt_friendship_bond
+  - shared_food_as_friendship_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-inheritance-rights-resembling-partnership
+  motif_id: shared_inheritance_rights_resembling_partnership
+  label: shared inheritance rights resembling partnership
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like an ethnographic or legal-social observation about
+    inheritance rather than a symbolic narrative motif.
+  cautions: If a source narrative uses shared inheritance as a sacred bond or kinship
+    proof, review for covenant or sacred_law; otherwise exclude from motif pattern
+    queries.
+  suggested_aliases:
+  - shared_inheritance_partnership
+  - inheritance_rights_as_partnership
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-meat-participation-as-kinship-marker-for-inheritance
+  motif_id: shared_meat_participation_as_kinship_marker_for_inheritance
+  label: shared meat participation as kinship marker for inheritance
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Participation in shared meat as a kinship or inheritance marker fits
+    food-sharing as reciprocal social bonding.
+  cautions: Could be sacred_law if the emphasis is inheritance regulation, or exclude
+    if it is only an ethnographic legal detail without narrative function.
+  suggested_aliases:
+  - shared_meat_as_kinship_marker
+  - meat_sharing_marks_inheritance_kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and culturally specific; preserve local evidence
+  and avoid promoting new taxonomy groups without recurrence.
+- Severed-head labels overlap sacred_treasures, recognition_tokens_hidden_identity,
+  threshold_guardian, and sacred_combat; final placement should follow the object's
+  function in the passage.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally sensitive
+    sexual, kinship, and ethnographic-legal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0618
+  input_sha256: df37b43711a95829b29aed36d0337697f5df04caa25467e68d89beab9f867f94
+

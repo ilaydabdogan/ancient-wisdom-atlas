@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1620
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.militarized-communal-state
+  motif_id: militarized_communal_state
+  label: Militarized communal state
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns social-political organization, but it reads as an
+    abstract historical description rather than a clear recurring motif.
+  cautions: May be a passage or scholarly artifact about civic structure; review source
+    evidence before indexing as sacred law, kingship, or combat.
+  suggested_aliases:
+  - militarized_communal_order
+  - communal_state_ordered_for_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mimetic-performance-of-an-unfamiliar-smoking-vehicle
+  motif_id: mimetic_performance_of_an_unfamiliar_smoking_vehicle
+  label: Mimetic performance of an unfamiliar smoking vehicle
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is highly contextual and appears to describe a specific performance
+    response to a modern or unfamiliar object rather than a stable mythic motif.
+  cautions: Culturally sensitive source context is needed; if the passage concerns
+    ritual imitation as sacred craft or performance, preserve locally rather than
+    query broadly.
+  suggested_aliases:
+  - ritual_mimesis_of_unfamiliar_vehicle
+  - mimetic_performance_of_smoking_vehicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mimicking-a-favorable-omen
+  motif_id: mimicking_a_favorable_omen
+  label: mimicking a favorable omen
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Imitating an omen belongs to the omen/divination field, especially where
+    signs are used to authorize action or outcome.
+  cautions: If the emphasis is deception rather than omen logic, trickster may be
+    a better secondary placement.
+  suggested_aliases:
+  - imitated_favorable_omen
+  - manufactured_favorable_omen
+  - omen_mimicry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.minimal-sustenance-and-refusal-of-social-subordination
+  motif_id: minimal_sustenance_and_refusal_of_social_subordination
+  label: Minimal sustenance and refusal of social subordination
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Minimal sustenance and refusal of worldly hierarchy fit ascetic renunciation
+    within a Sufi mystical path.
+  cautions: If the passage emphasizes political resistance more than spiritual discipline,
+    sacred_law or royal_legitimacy may be relevant only as secondary context.
+  suggested_aliases:
+  - ascetic_refusal_of_social_subordination
+  - minimal_sustenance_as_renunciation
+  - renunciation_of_worldly_dependence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.minor-tonality-marking-sadness-distress-or-uncertainty
+  motif_id: minor_tonality_marking_sadness_distress_or_uncertainty
+  label: Minor tonality marking sadness, distress, or uncertainty
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes musical analysis or performance notation rather than
+    a narrative or symbolic motif.
+  cautions: Preserve as source/performance metadata if useful; do not treat minor
+    tonality itself as a cross-tradition motif without stronger evidence.
+  suggested_aliases:
+  - minor_tonality_as_affective_marker
+  - musical_mode_marking_sadness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-testimony-confirming-authority
+  motif_id: miracle_testimony_confirming_authority
+  label: miracle testimony confirming authority
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A miracle reported as testimony confirms sacred or personal authority
+    through divine action in human affairs.
+  cautions: If authority is royal or institutional rather than sacred agency, royal_legitimacy
+    may be a secondary mapping.
+  suggested_aliases:
+  - miracle_as_authorizing_testimony
+  - miraculous_testimony_confirms_authority
+  - testimony_to_miracle_confers_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-working-saint-recognized-and-venerated
+  motif_id: miracle_working_saint_recognized_and_venerated
+  label: miracle-working saint recognized and venerated
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The miracle-working holy person is already represented in aliases under
+    divine_intervention as a divinely authorized miracle-worker.
+  cautions: Veneration may also involve saintly shrine or relic devotion under sacred_treasures
+    if the passage centers on cult practice rather than miracles.
+  suggested_aliases:
+  - miracle_working_holy_person
+  - divinely_authorized_miracle_worker
+  - venerated_miracle_working_saint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miracle-working-saviour
+  motif_id: miracle_working_saviour
+  label: Miracle-working saviour
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A savior figure who works miracles functions as an agent of divine intervention
+    and deliverance.
+  cautions: If the evidence centers on resurrection, redemption theology, or sacred
+    kingship, additional review may be needed for a more specific placement.
+  suggested_aliases:
+  - miracle_working_savior
+  - saviour_as_miracle_worker
+  - divine_savior_performing_miracles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-cooking-from-ashes-and-coals
+  motif_id: miraculous_cooking_from_ashes_and_coals
+  label: Miraculous cooking from ashes and coals
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Miraculous food preparation can fit divine or supernatural provision,
+    especially where food appears through nonordinary means.
+  cautions: Ashes and coals may signal sacred fire, transformation, or a culture-specific
+    ritual technique; source context is needed before final placement.
+  suggested_aliases:
+  - miraculous_food_from_ashes
+  - supernatural_cooking_from_coals
+  - miraculous_preparation_of_food_from_ashes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miraculous-healing-at-the-threshold-of-the-king
+  motif_id: miraculous_healing_at_the_threshold_of_the_king
+  label: Miraculous healing at the threshold of the king
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is miraculous healing, a direct sacred intervention in
+    human affairs.
+  cautions: The royal threshold may be important for authority or liminality; consider
+    royal_legitimacy or threshold_guardian only if the passage makes the king's doorway
+    functionally central.
+  suggested_aliases:
+  - miraculous_threshold_healing
+  - healing_at_the_kingly_threshold
+  - miraculous_healing_before_the_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to have been bucketed under power/order because
+  they mention authority or social position, but many fit divine_intervention, prophecy_divination,
+  or mystical_quest more directly.
+- Single-occurrence, highly contextual performance or music-analysis labels should
+  be excluded or preserved as evidence notes unless recurrence is demonstrated.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source evidence should be checked for culturally
+    specific performance, saint-veneration, and royal-threshold contexts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1620
+  input_sha256: b308e03cb9c3fad02c9fb0dcac086fa4d92c2e7c0c6db7002f6f3611ba03d665
+

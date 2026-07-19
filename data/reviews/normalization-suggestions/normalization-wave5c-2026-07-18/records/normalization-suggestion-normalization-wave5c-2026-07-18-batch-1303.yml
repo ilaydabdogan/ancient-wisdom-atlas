@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1303
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dream-received-song-preserved-after-narrative-loss
+  motif_id: dream_received_song_preserved_after_narrative_loss
+  label: Dream-received song preserved after narrative loss
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core pattern is a song received through dream or altered perception,
+    but preservation after narrative loss may be an archival or transmission detail.
+  cautions: Single occurrence; verify whether narrative loss is source-text history
+    rather than a motif. Consider sacred_song or enchanting_music only if the song's
+    ritual or supernatural power is explicit.
+  suggested_aliases:
+  - dream_received_song
+  - song_received_in_dream
+  - dream_song_preserved_after_story_loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-received-song-used-in-war-and-communal-dance-contexts
+  motif_id: dream_received_song_used_in_war_and_communal_dance_contexts
+  label: Dream-received song used in war and communal dance contexts
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The dream is the source of revealed song, with later ritual or martial
+    communal use as function.
+  cautions: Could also relate to enchanting_music, sacred_combat, or sacred_song depending
+    on passage emphasis; preserve war and dance contexts as evidence detail.
+  suggested_aliases:
+  - dream_received_song_for_war_and_dance
+  - dream_song_used_in_war_dance
+  - dream_revealed_communal_war_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-received-songs-and-animal-named-dream-societies
+  motif_id: dream_received_songs_and_animal_named_dream_societies
+  label: Dream-received songs and animal-named dream societies
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: Dream-received songs fit dream_and_vision, but animal-named dream societies
+    may be a culturally specific social or ritual institution rather than a narrative
+    motif.
+  cautions: Culturally sensitive and composite label; human review should determine
+    whether this is motif evidence, ethnographic classification, or a society/rite-specific
+    detail. Avoid collapsing animal names into animal motifs without source evidence.
+  suggested_aliases:
+  - dream_received_songs
+  - animal_named_dream_societies
+  - dream_society_songs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-received-songs-used-in-treating-the-sick
+  motif_id: dream_received_songs_used_in_treating_the_sick
+  label: dream-received songs used in treating the sick
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on healing songs obtained through dreams, a revealed-knowledge
+    pattern from altered perception.
+  cautions: May also fit enchanting_music if song-power is primary, or divine_intervention/soul_loss_restoration
+    if healing agency is emphasized. Preserve therapeutic use as local evidence.
+  suggested_aliases:
+  - dream_received_healing_songs
+  - dream_songs_for_treating_sickness
+  - healing_song_received_in_dream
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-received-wolf-associated-song
+  motif_id: dream_received_wolf_associated_song
+  label: Dream-received wolf-associated song
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A song received in dream belongs with dream revelation; the wolf association
+    is likely local symbolic or ritual specificity.
+  cautions: Do not map to animal/trickster motifs unless the wolf acts as agent or
+    guide in the passage. Could relate to sacred_song or enchanting_music if song
+    function is emphasized.
+  suggested_aliases:
+  - wolf_associated_dream_song
+  - dream_received_animal_song
+  - dream_received_wolf_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-report-and-possible-interpretation
+  motif_id: dream_report_and_possible_interpretation
+  label: dream report and possible interpretation
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: narrower_than
+  confidence: high
+  rationale: Reporting and interpreting a dream is a direct instance of dream material
+    treated as meaningful knowledge or revelation.
+  cautions: If interpretation is systematic by a diviner or omen series, prophecy_divination
+    may be a secondary mapping.
+  suggested_aliases:
+  - dream_report
+  - dream_interpretation
+  - reported_dream_with_interpretation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-report-followed-by-canoe-embarkation
+  motif_id: dream_report_followed_by_canoe_embarkation
+  label: dream report followed by canoe embarkation
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: over_specific_label
+  confidence: low
+  rationale: The dream report fits dream_and_vision, but the canoe embarkation may
+    be a passage-specific plot sequence rather than a reusable motif.
+  cautions: Verify whether the dream motivates a journey, functions as a command,
+    or is merely followed by travel. Could relate to hero_journey or sacred_waters
+    only with stronger evidence.
+  suggested_aliases:
+  - dream_report_precedes_voyage
+  - dream_prompted_canoe_departure
+  - dream_followed_by_embarkation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-revealed-medicine-instruction-by-thunderbird
+  motif_id: dream_revealed_medicine_instruction_by_thunderbird
+  label: Dream-revealed medicine instruction by thunderbird
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural being gives healing or medicine instruction through a
+    dream, fitting dream revelation as sacred knowledge.
+  cautions: Thunderbird and medicine instruction are culturally specific; review for
+    appropriate handling. Could also relate to divine_intervention or sacred_knowledge
+    if the instructing being or knowledge transmission is primary.
+  suggested_aliases:
+  - dream_revealed_medicine_instruction
+  - thunderbird_dream_instruction
+  - medicine_instruction_received_in_dream
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-revealed-solar-ornament
+  motif_id: dream_revealed_solar_ornament
+  label: Dream-revealed solar ornament
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: The object is revealed through dream, but the key motif may be a sacred
+    ornament, solar symbol, or dream instruction depending on evidence.
+  cautions: Single occurrence and object-specific. Consider sacred_treasures or sacred_fire/solar_power
+    only if the ornament confers power, status, or solar presence.
+  suggested_aliases:
+  - solar_ornament_revealed_in_dream
+  - dream_revealed_solar_object
+  - dream_revealed_sun_ornament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-revelation-after-narcotic-isolation
+  motif_id: dream_revelation_after_narcotic_isolation
+  label: Dream revelation after narcotic isolation
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes revelation through dream or altered state following
+    isolation and substance use.
+  cautions: Culturally sensitive; wording such as narcotic may be imprecise or externally
+    imposed. Could relate to sacred_substance, initiation, or mystical_quest if the
+    ritual discipline is central.
+  suggested_aliases:
+  - dream_revelation_after_substance_isolation
+  - visionary_dream_after_ritual_isolation
+  - altered_state_revelation_after_isolation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch share a dream-received song or dream revelation pattern.
+  Existing group dream_and_vision is the safest provisional parent, with sacred_knowledge,
+  enchanting_music, sacred_song, sacred_substance, or divine_intervention as possible
+  secondary review paths when source evidence supports them.
+- Several labels are single-occurrence and culturally specific in Native American
+  or Amazonian contexts; preserve local terms and ritual functions in evidence notes
+  rather than flattening them into generic song, animal, or substance motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    dream-song, medicine, society, and substance-isolation labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1303
+  input_sha256: e06958948611b8e923c603a01b47a8196849292073afa98efcdf296941869ee3
+

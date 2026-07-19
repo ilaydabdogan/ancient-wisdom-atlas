@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2004
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.tacit-or-indirect-acceptance-of-a-marriage-suit
+  motif_id: tacit_or_indirect_acceptance_of_a_marriage_suit
+  label: tacit or indirect acceptance of a marriage suit
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage-suit acceptance fits courtship and marriage-choice patterns
+    already grouped under sacred_love.
+  cautions: Single occurrence; may be a social custom detail rather than a durable
+    mythic motif if no symbolic or narrative function is present.
+  suggested_aliases:
+  - indirect_acceptance_of_marriage_suit
+  - tacit_marriage_acceptance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taming-of-unruly-desire
+  motif_id: taming_of_unruly_desire
+  label: Taming of unruly desire
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns desire disciplined or redirected, a recurring subtheme
+    within love and longing.
+  cautions: Could instead belong under mystical_quest or sacred_law if the source
+    emphasizes ethical self-mastery rather than erotic love.
+  suggested_aliases:
+  - disciplining_desire
+  - restraint_of_unruly_desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.teacher-mourned-as-father-without-formal-mourning-dress
+  motif_id: teacher_mourned_as_father_without_formal_mourning_dress
+  label: Teacher mourned as father without formal mourning dress
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on mourning a teacher through familial analogy and
+    modified mourning practice.
+  cautions: Also touches sacred_law or filial/ritual propriety; confirm whether the
+    passage is a narrative motif or a prescriptive ritual note.
+  suggested_aliases:
+  - teacher_mourned_as_father
+  - mourning_teacher_as_parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-servitude-and-gendered-role-reversal-of-the-hero
+  motif_id: temporary_servitude_and_gendered_role_reversal_of_the_hero
+  label: Temporary servitude and gendered role reversal of the hero
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Temporary servitude and role reversal function as a status-transforming
+    ordeal for the hero.
+  cautions: Could map to shapeshifter if bodily/gender transformation is literal,
+    or to sacred_love if imposed by erotic bondage; source context needed.
+  suggested_aliases:
+  - hero_in_temporary_servitude
+  - gendered_role_reversal_ordeal
+  - servitude_as_heroic_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ten-births-for-each-ten-perfections
+  motif_id: ten_births_for_each_ten_perfections
+  label: Ten births for each ten perfections
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears tied to Buddhist rebirth and perfection taxonomy, but
+    its motif function is unclear from wording alone.
+  cautions: May be doctrinal enumeration, commentary artifact, Jataka frame structure,
+    or rebirth-development motif; avoid forced mapping without source evidence.
+  suggested_aliases:
+  - births_for_the_perfections
+  - rebirths_for_ten_perfections
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tested-and-rejected-dual-totem-marriage-grouping
+  motif_id: tested_and_rejected_dual_totem_marriage_grouping
+  label: Tested and rejected dual totem marriage grouping
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes an analytical classification that was tested and
+    rejected, not a narrative motif.
+  cautions: If source passages actually describe totemic marriage rules, preserve
+    those under sacred_law or sacred_love after human review.
+  suggested_aliases:
+  - rejected_totem_marriage_classification
+  - dual_totem_marriage_grouping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.the-beloved-lost-the-troublesome-survivor-remains
+  motif_id: the_beloved_lost_the_troublesome_survivor_remains
+  label: The beloved lost, the troublesome survivor remains
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The phrase centers on loss of the beloved and the painful persistence
+    of an unwanted survivor, fitting love-and-loss patterns.
+  cautions: Highly literary and possibly passage-specific; could also belong under
+    lament_and_mourning if grief rather than love is the main function.
+  suggested_aliases:
+  - lost_beloved_and_unwanted_survivor
+  - beloved_lost_survivor_remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.theft-of-royal-children-and-treasure
+  motif_id: theft_of_royal_children_and_treasure
+  label: Theft of royal children and treasure
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines abducted royal children with treasure theft, which could serve
+    several narrative functions.
+  cautions: May fit miraculous_child, sacred_treasures, trickster, royal_legitimacy,
+    or stolen_beloved depending on who steals, why, and what initiates the plot.
+  suggested_aliases:
+  - abduction_of_royal_children_and_treasure
+  - royal_children_and_treasure_stolen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.theft-punished-by-burning-of-thief-and-mother
+  motif_id: theft_punished_by_burning_of_thief_and_mother
+  label: Theft punished by burning of thief and mother
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is punitive consequence for theft, aligning with moral
+    reckoning and punishment.
+  cautions: Burning detail may indicate human violence rather than divine judgment;
+    if no sacred moral order is involved, this may be too episode-specific.
+  suggested_aliases:
+  - theft_punished_by_burning
+  - punishment_of_thief_and_mother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.thirsty-animal-family-drinks-bad-water-and-dies
+  motif_id: thirsty_animal_family_drinks_bad_water_and_dies
+  label: thirsty animal family drinks bad water and dies
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is an episode-specific animal death sequence with unclear symbolic
+    or narrative function.
+  cautions: Could involve sacred_waters, divine_judgment, animal fable, etiological
+    death, or a passage artifact; source context is required.
+  suggested_aliases:
+  - animals_drink_bad_water_and_die
+  - bad_water_causes_animal_family_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  granular wording as evidence notes where mapped.
+- Love/family bucket placement is not always reliable here; some items point to judgment,
+  initiation, mourning, or meta-textual review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed especially
+    for culturally specific Melanesian, Buddhist, San, and Native American Southwest
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2004
+  input_sha256: 0a1af429aece6796e1ee2d53330884c9aa04bb8f92de847beb9163eeb388ce33
+

@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3960
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sisters-reunited-or-living-happily-together
+  motif_id: sisters_reunited_or_living_happily_together
+  label: Sisters reunited or living happily together
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate sibling restoration, happy ending, or household/social
+    repair, but no current group cleanly captures this without source context.
+  cautions: Single occurrence and very generic; avoid mapping to sacred_twins unless
+    the sisters function as a mythic pair or duality structure.
+  suggested_aliases:
+  - sibling_reunion
+  - sisters_reunited
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_twins
+    - sacred_love
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sisters-survive-massacre-and-avenge-kin
+  motif_id: sisters_survive_massacre_and_avenge_kin
+  label: Sisters survive massacre and avenge kin
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Survival of kin massacre followed by vengeance fits the combat/vengeance
+    complex already represented under sacred_combat.
+  cautions: Could also involve survivor/remnant restoration or lament; verify whether
+    vengeance, kin obligation, or survival is the dominant narrative function.
+  suggested_aliases:
+  - kin_massacre_survivors_avenge_family
+  - sisters_avenge_slain_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.six-brothers-as-collective-founders-or-acquirers
+  motif_id: six_brothers_as_collective_founders_or_acquirers
+  label: six brothers as collective founders or acquirers
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: role_variant
+  confidence: medium
+  rationale: A brother group acting as founders or acquirers resembles a collective
+    culture-hero or founder role.
+  cautions: If the emphasis is origin of peoples or named lineages, cosmic_origin
+    may be secondary; if sibling pairing/number symbolism is central, sacred_twins
+    or duality may be relevant.
+  suggested_aliases:
+  - collective_brother_founders
+  - brothers_as_founders
+  - sibling_group_as_culture_heroes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.six-day-manatta-as-repeated-penance-before-reintegration
+  motif_id: six_day_manatta_as_repeated_penance_before_reintegration
+  label: six-day Manatta as repeated penance before reintegration
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Repeated penance before reintegration is a disciplinary ritual or communal
+    rule restoring proper order.
+  cautions: The specific Manatta term and Buddhist disciplinary context require human
+    review; could be too technical or source-specific for broad pattern queries.
+  suggested_aliases:
+  - penance_before_reintegration
+  - ritual_penance_and_reintegration
+  - disciplinary_reintegration_after_penance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.six-direction-invocation
+  motif_id: six_direction_invocation
+  label: six-direction invocation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Invocation of six directions expresses sacred spatial orientation around
+    a center and vertical/world-order schema.
+  cautions: Culturally specific directional systems should be preserved; if the act
+    is primarily prayer or offering, sacred_exchange or curse_blessing_speech may
+    be secondary.
+  suggested_aliases:
+  - six_directions_invocation
+  - directional_invocation
+  - ritual_invocation_of_directions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.six-region-colored-corn-deposition
+  motif_id: six_region_colored_corn_deposition
+  label: six-region colored corn deposition
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label combines directional cosmology, color symbolism, corn, and
+    deposition ritual; placement depends on source function.
+  cautions: Likely culturally specific ritual detail. Do not collapse into generic
+    sacred_substance or axis_mundi without evidence of whether corn is offering, directional
+    marker, or sacred food.
+  suggested_aliases:
+  - colored_corn_directional_deposition
+  - six_region_corn_offering
+  - directional_colored_corn_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - sacred_exchange
+    - sacred_substance
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.six-region-directional-circuit
+  motif_id: six_region_directional_circuit
+  label: six-region directional circuit
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual or narrative circuit through six regions maps sacred space and
+    directional order around a cosmological center.
+  cautions: If this is only a travel itinerary or passage-specific route, it may be
+    over-specific; preserve six-region structure as local evidence.
+  suggested_aliases:
+  - six_directional_circuit
+  - directional_circuit
+  - ritual_circuit_of_six_regions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.skeptic-demands-proof-of-medicine-power
+  motif_id: skeptic_demands_proof_of_medicine_power
+  label: Skeptic demands proof of medicine power
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may concern testing a sacred healer, proof of power, or conflict
+    over ritual authority, but the current taxonomy lacks a precise medicine-power
+    group.
+  cautions: Culturally sensitive terminology and single occurrence; source evidence
+    needed before mapping to divine_intervention, sacred_knowledge, or sacred_law.
+  suggested_aliases:
+  - skeptic_tests_medicine_power
+  - demand_for_proof_of_healing_power
+  - challenge_to_ritual_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.skeptic-rejects-a-miraculous-sign-as-magic
+  motif_id: skeptic_rejects_a_miraculous_sign_as_magic
+  label: skeptic rejects a miraculous sign as magic
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Existing aliases include rejected miraculous signs and prophetic signs
+    opposed as sorcery; rejection of a sign often leads to moral reckoning.
+  cautions: If the passage centers on saintly miracle-working rather than rejection
+    and consequence, divine_intervention may be the better primary group.
+  suggested_aliases:
+  - rejected_miraculous_sign
+  - miraculous_sign_rejected_as_magic
+  - prophetic_sign_rejected_as_sorcery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.skill-revealed-through-a-poor-instrument
+  motif_id: skill_revealed_through_a_poor_instrument
+  label: Skill revealed through a poor instrument
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as an exemplum about mastery, hidden excellence, or spiritual
+    agency using humble means, not a clear existing motif.
+  cautions: May be an ethical or philosophical passage artifact; review source before
+    mapping to sacred_knowledge, sacred_craft, or pride_and_downfall.
+  suggested_aliases:
+  - mastery_revealed_through_poor_instrument
+  - hidden_skill_shown_by_humble_tool
+  - power_manifested_through_inadequate_means
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_craft
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and culturally specific; preserve local ritual
+  vocabulary and avoid overgeneralizing directional, corn, medicine, or disciplinary
+  terms.
+- Where a label names a happy ending or episode resolution rather than a recurring
+  symbolic function, human review should decide whether to exclude from broad pattern
+  queries.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3960
+  input_sha256: 98b1b7a62f134e8dac65156142f0a8a32f64ff51f3e3af7cd49699b5e2e97dce
+

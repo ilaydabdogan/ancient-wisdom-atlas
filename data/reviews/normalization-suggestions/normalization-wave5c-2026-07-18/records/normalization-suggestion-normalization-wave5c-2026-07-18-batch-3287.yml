@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3287
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.conflict-invasion-and-expedition-episodes
+  motif_id: conflict_invasion_and_expedition_episodes
+  label: conflict, invasion, and expedition episodes
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a broad episode or indexing category rather than
+    a discrete recurring motif.
+  cautions: If source evidence identifies a ritualized war, heroic expedition, or
+    sacred combat pattern, remap to sacred_combat or hero_journey.
+  suggested_aliases:
+  - invasion_and_expedition_episodes
+  - conflict_expedition_episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-leads-to-fortified-high-settlements
+  motif_id: conflict_leads_to_fortified_high_settlements
+  label: Conflict leads to fortified high settlements
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be etiological settlement tradition, defensive migration memory,
+    or social-order consequence rather than a stable motif.
+  cautions: Culturally specific Hopi settlement-history material may depend on source
+    context; avoid forcing into sacred_combat without ritual or mythic combat evidence.
+  suggested_aliases:
+  - fortified_high_settlements_after_conflict
+  - conflict_causes_high_settlement_fortification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-or-encounter-with-supernatural-or-special-beings
+  motif_id: conflict_or_encounter_with_supernatural_or_special_beings
+  label: conflict or encounter with supernatural or special beings
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too broad to distinguish combat, otherworld encounter,
+    threshold guardian, or divine intervention.
+  cautions: Needs passage evidence about the beings' role and narrative function before
+    mapping.
+  suggested_aliases:
+  - encounter_with_supernatural_beings
+  - conflict_with_supernatural_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-over-an-illusory-image
+  motif_id: conflict_over_an_illusory_image
+  label: Conflict over an illusory image
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: An illusory image causing conflict centers on deceptive or altered perception
+    shaping action.
+  cautions: If the image is a trickster deception, divine phantom, or magical substitute,
+    trickster or divine_intervention may be better secondary mappings.
+  suggested_aliases:
+  - conflict_over_phantom_image
+  - strife_over_illusory_double
+  - illusory_image_causes_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-over-hunting-ground
+  motif_id: conflict_over_hunting_ground
+  label: conflict over hunting-ground
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe territorial dispute, resource conflict, or local
+    historical context rather than a mythic motif.
+  cautions: Review source context and cultural specificity before indexing; do not
+    collapse all territorial conflict into sacred_combat.
+  suggested_aliases:
+  - dispute_over_hunting_ground
+  - territorial_conflict_over_hunting_ground
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-over-reproductive-custom
+  motif_id: conflict_over_reproductive_custom
+  label: Conflict over reproductive custom
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This likely depends on culturally specific social, kinship, or ritual
+    evidence not present in the label.
+  cautions: Sensitive material involving reproductive custom should be human-reviewed;
+    possible mappings include sacred_law, sacred_love, or miraculous_child depending
+    on evidence.
+  suggested_aliases:
+  - dispute_over_reproductive_custom
+  - conflict_over_birth_or_reproductive_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflicting-clan-chronology-traditions
+  motif_id: conflicting_clan_chronology_traditions
+  label: Conflicting clan-chronology traditions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes variant chronological traditions or historiographic
+    comparison, not a narrative motif.
+  cautions: Preserve as provenance or source-tradition note if needed; avoid using
+    in motif pattern queries.
+  suggested_aliases:
+  - conflicting_clan_chronologies
+  - variant_clan_chronology_traditions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confrontation-with-thieves-resulting-in-restitution
+  motif_id: confrontation_with_thieves_resulting_in_restitution
+  label: confrontation with thieves resulting in restitution
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Theft confronted and repaired by restitution can function as moral reckoning
+    and restoration of order.
+  cautions: If there is no sacred or moral judgment frame, this may be an ordinary
+    plot episode; review for divine agency, law, or community repair.
+  suggested_aliases:
+  - thieves_confronted_and_forced_to_restore_goods
+  - restitution_after_theft_confrontation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confronting-a-fierce-forest-adversary
+  motif_id: confronting_a_fierce_forest_adversary
+  label: Confronting a fierce forest adversary
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fierce adversary in the forest often functions as a liminal opponent
+    guarding or testing passage into a wild threshold space.
+  cautions: If the passage emphasizes heroic battle or chaos-monster combat, sacred_combat
+    or divine_warrior may be better; if forest otherworld is central, consider otherworld.
+  suggested_aliases:
+  - forest_adversary_confrontation
+  - fierce_wilderness_opponent
+  - hero_confronts_forest_guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confusing-and-following-tracks-including-an-air-trail
+  motif_id: confusing_and_following_tracks_including_an_air_trail
+  label: confusing and following tracks, including an air trail
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Tracking, confusion, and an air trail could indicate pursuit, supernatural
+    travel, animal transformation, or a passage-specific detail.
+  cautions: Needs source evidence before mapping; may be too specific unless aerial
+    or magical tracking recurs across sources.
+  suggested_aliases:
+  - following_confusing_tracks
+  - following_an_air_trail
+  - supernatural_tracking_by_air_trail
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, broad conflict descriptors;
+  prefer human review or exclusion unless passage evidence shows a stable mythic function.
+- Do not treat every conflict label as sacred_combat; preserve distinctions among
+  moral reckoning, threshold encounter, altered perception, social custom, and textual
+  artifact.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific and source-dependent labels
+    require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3287
+  input_sha256: 4c4c0c6aca37b5e37035401e15185cbafeb15e604cc71a9fc2def3b9791b2694
+

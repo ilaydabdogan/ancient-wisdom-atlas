@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0134
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.descent-by-rope-to-hidden-water
+  motif_id: descent_by_rope_to_hidden_water
+  label: descent by rope to hidden water
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rope descent to hidden water combines threshold movement with water
+    as concealed transformative or dangerous realm.
+  cautions: If the passage emphasizes the downward journey more than the water, descent
+    or initiation may be better secondary mappings; single occurrence is very specific.
+  suggested_aliases:
+  - rope_descent_to_hidden_water
+  - descent_to_hidden_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-claim-supporting-textual-custody
+  motif_id: descent_claim_supporting_textual_custody
+  label: Descent claim supporting textual custody
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label appears to describe lineage or custody claims about a text,
+    not a narrative motif of descent or afterlife.
+  cautions: Preserve as provenance or source-history note if needed; review if the
+    source passage narrates an actual ancestral legitimation motif.
+  suggested_aliases:
+  - lineage_claim_supporting_textual_custody
+  - textual_custody_descent_claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-cord-proves-too-short
+  motif_id: descent_cord_proves_too_short
+  label: Descent cord proves too short
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: A failed or incomplete descent by cord fits the descent complex as a
+    specific access-mechanism obstacle.
+  cautions: Could be a passage-specific episode rather than durable motif; if the
+    cord links worlds, axis_mundi may be a secondary relation.
+  suggested_aliases:
+  - too_short_descent_cord
+  - failed_descent_by_cord
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-from-an-ancestral-couple
+  motif_id: descent_from_an_ancestral_couple
+  label: descent from an ancestral couple
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns genealogical origin from founding ancestors, already
+    represented in cosmic_origin children and aliases for ancestral origins.
+  cautions: The word descent is genealogical, not underworld descent; if the emphasis
+    is kinship organization rather than origins, human review may narrow or exclude.
+  suggested_aliases:
+  - ancestral_couple_origin
+  - genealogical_descent_from_ancestral_couple
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-from-an-eponymous-animal-bird-or-plant
+  motif_id: descent_from_an_eponymous_animal_bird_or_plant
+  label: Descent from an eponymous animal, bird, or plant
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is an eponymous ancestry and people-origin label, matching cosmic_origin
+    aliases for eponymous ancestors and ancestral origins.
+  cautions: Animal, bird, or plant ancestry may involve totemic or clan-specific meanings
+    not captured by cosmic_origin; review before broad querying.
+  suggested_aliases:
+  - descent_from_eponymous_animal_bird_or_plant
+  - totemic_eponymous_ancestor_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-from-brahma-heaven-for-the-sake-of-doctrine
+  motif_id: descent_from_brahma_heaven_for_the_sake_of_doctrine
+  label: Descent from Brahma-heaven for the sake of doctrine
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A being descends from a heavenly realm to aid or transmit doctrine, functioning
+    as sacred intervention and guidance.
+  cautions: Could also map to sacred_knowledge if doctrinal transmission is central,
+    or ascent/theophany if framed as a visionary heavenly movement; culturally specific
+    context matters.
+  suggested_aliases:
+  - heavenly_descent_for_doctrine
+  - descent_from_brahma_heaven_to_teach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-from-eponymous-animal-bird-or-plant
+  motif_id: descent_from_eponymous_animal_bird_or_plant
+  label: descent from eponymous animal, bird, or plant
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: alias
+  confidence: high
+  rationale: This is a spelling variant of the eponymous animal/bird/plant ancestry
+    motif and fits people-origin/eponymous ancestor indexing.
+  cautions: Preserve local animal, bird, or plant specificity as evidence detail;
+    do not treat as underworld descent.
+  suggested_aliases:
+  - descent_from_an_eponymous_animal_bird_or_plant
+  - totemic_eponymous_ancestor_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-from-hills-to-coastal-settlement
+  motif_id: descent_from_hills_to_coastal_settlement
+  label: descent from hills to coastal settlement
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a local migration or settlement detail rather than
+    a symbolic descent motif.
+  cautions: If the passage frames the move as a sacred origin migration, cosmic_origin
+    or hero_journey may be reconsidered; otherwise keep as ethnographic/geographic
+    evidence.
+  suggested_aliases:
+  - migration_from_hills_to_coast
+  - hill_to_coastal_settlement_descent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-from-monkey-god-marked-by-tail-like-body-feature
+  motif_id: descent_from_monkey_god_marked_by_tail_like_body_feature
+  label: descent from monkey-god marked by tail-like body feature
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears genealogical and etiological, but also involves divine
+    ancestry and bodily marker symbolism.
+  cautions: Culturally specific Hindu material and over-specific bodily-marker evidence
+    require review; possible mappings include cosmic_origin, divine_race, miraculous_child,
+    or exclusion if it is local lineage commentary.
+  suggested_aliases:
+  - monkey_god_ancestry_with_tail_marker
+  - descent_from_monkey_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-group-fission-with-retention-and-renaming-of-ancestral-signs
+  motif_id: descent_group_fission_with_retention_and_renaming_of_ancestral_signs
+  label: descent-group fission with retention and renaming of ancestral signs
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase describes social-structural classification of descent groups
+    and signs rather than a narrative or symbolic motif.
+  cautions: May be valuable ethnographic metadata; if the source narrates a myth of
+    clan splitting and renamed sacred tokens, review under cosmic_origin, sacred_treasures,
+    or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - descent_group_fission_and_renaming
+  - ancestral_sign_retention_after_group_fission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use 'descent' genealogically or geographically rather than as underworld
+  descent; avoid automatic placement in death/descent queries.
+- Eponymous animal/bird/plant ancestry appears duplicated with minor wording variation
+  and should likely be alias-normalized together.
+- Melanesian descent-group labels may be ethnographic or social-structural notes;
+  source evidence is needed before motif indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific genealogy, clan, and doctrinal
+    labels should receive human review where marked.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0134
+  input_sha256: f534e84ad58cf64eab894bfbf339e2a33d871aeb669ed74b94ed9bad8a655c49
+

@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2075
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-imitation-dance-before-hunting
+  motif_id: animal_imitation_dance_before_hunting
+  label: Animal imitation dance before hunting
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests ritualized animal imitation tied to hunting, but no
+    current group cleanly covers hunting magic or animal-mimesis rites.
+  cautions: Single occurrence and culturally specific ritual context; avoid flattening
+    into shapeshifter unless actual transformation is present.
+  suggested_aliases:
+  - hunting_dance_with_animal_imitation
+  - animal_mimesis_before_hunt
+  suggested_new_group:
+    id: animal_mimesis_ritual
+    label: Animal Mimesis in Ritual and Performance
+    description: Ritual, performative, or strategic imitation of animals to influence
+      hunting, warfare, game movement, or social play without implying literal shapeshifting.
+    parent_group_ids:
+    - shapeshifter
+    - sacred_law
+    related_group_ids:
+    - sacred_combat
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing shapeshifter covers bodily transformation,
+      while trickster covers deception; neither captures ritualized animal imitation
+      as performance or sympathetic action.
+- suggestion_id: normalization.suggestion.animal-imitation-game
+  motif_id: animal_imitation_game
+  label: Animal imitation game
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be play, performance, disguise, or ritual animal mimesis, but the
+    label lacks narrative function.
+  cautions: May be an ethnographic or passage-specific detail rather than a motif;
+    source context needed before grouping.
+  suggested_aliases:
+  - animal_mimesis_game
+  - game_of_animal_imitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-imitation-in-war-dance
+  motif_id: animal_imitation_in_war_dance
+  label: Animal imitation in war dance
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label combines animal mimesis with martial ritual performance, but
+    does not by itself show combat outcome or transformation.
+  cautions: Culturally specific dance context should be reviewed; could relate to
+    sacred_combat only if tied to warfare function.
+  suggested_aliases:
+  - animal_mimesis_in_war_dance
+  - war_dance_with_animal_imitation
+  suggested_new_group:
+    id: animal_mimesis_ritual
+    label: Animal Mimesis in Ritual and Performance
+    description: Ritual, performative, or strategic imitation of animals to influence
+      hunting, warfare, game movement, or social play without implying literal shapeshifting.
+    parent_group_ids:
+    - shapeshifter
+    - sacred_law
+    related_group_ids:
+    - sacred_combat
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing shapeshifter covers bodily transformation,
+      while sacred_combat covers warfare; neither directly captures animal imitation
+      as ritual performance.
+- suggestion_id: normalization.suggestion.animal-imitation-in-war-dance-as-battle-stratagem
+  motif_id: animal_imitation_in_war_dance_as_battle_stratagem
+  label: Animal imitation in war dance as battle stratagem
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explicitly frames animal imitation in war dance as a battle
+    stratagem, making combat function primary.
+  cautions: Preserve the animal-mimesis ritual detail; do not infer literal shapeshifting
+    or trickster identity without source evidence.
+  suggested_aliases:
+  - animal_mimesis_as_battle_stratagem
+  - war_dance_animal_imitation_stratagem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-imitation-used-to-direct-game
+  motif_id: animal_imitation_used_to_direct_game
+  label: animal imitation used to direct game
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Animal imitation used to influence game suggests hunting ritual or practical
+    mimesis not covered by current canonical groups.
+  cautions: Culturally sensitive and context-dependent; avoid mapping to sacred_exchange
+    or shapeshifter unless ritual exchange or transformation is explicit.
+  suggested_aliases:
+  - animal_mimesis_to_direct_game
+  - animal_imitation_for_hunting_success
+  suggested_new_group:
+    id: animal_mimesis_ritual
+    label: Animal Mimesis in Ritual and Performance
+    description: Ritual, performative, or strategic imitation of animals to influence
+      hunting, warfare, game movement, or social play without implying literal shapeshifting.
+    parent_group_ids:
+    - shapeshifter
+    - sacred_law
+    related_group_ids:
+    - sacred_combat
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups lack a stable place for hunting-related
+      animal imitation that is neither literal transformation nor ordinary deception.
+- suggestion_id: normalization.suggestion.animal-in-lion-skin-exposed-by-its-own-voice
+  motif_id: animal_in_lion_skin_exposed_by_its_own_voice
+  label: animal in lion skin exposed by its own voice
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The animal disguise and exposure by voice fits deceptive role-playing
+    and failed trickery, common in fable structures.
+  cautions: Could also relate to recognition or hidden identity, but the animal-fable
+    deception function is primary from the label.
+  suggested_aliases:
+  - animal_disguise_exposed_by_voice
+  - ass_in_lion_skin_exposed_by_voice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-in-professional-role
+  motif_id: animal_in_professional_role
+  label: animal in professional role
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to tell whether the animal role is comic inversion,
+    disguise, helper function, or social satire.
+  cautions: May be a folktale/fable detail rather than a durable mythic motif; source
+    evidence needed before mapping.
+  suggested_aliases:
+  - animal_assumes_human_profession
+  - animal_in_human_occupation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-incarnation-of-abstract-powers
+  motif_id: animal_incarnation_of_abstract_powers
+  label: Animal incarnation of abstract powers
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In a Zoroastrian context, animals embodying abstract powers likely expresses
+    cosmic or moral forces in opposition or complementarity.
+  cautions: If the passage emphasizes divine agency or natural personification rather
+    than opposition, divine_intervention may be a secondary fit.
+  suggested_aliases:
+  - animals_embody_abstract_powers
+  - animal_personifications_of_cosmic_forces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-incursion-disrupting-a-sweat-house-scene
+  motif_id: animal_incursion_disrupting_a_sweat_house_scene
+  label: animal incursion disrupting a sweat-house scene
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly specific episode detail rather than a reusable
+    motif category.
+  cautions: If the animal disruption has ritual, trickster, or transgressive function
+    in the passage, preserve as evidence under the relevant group after review.
+  suggested_aliases:
+  - animal_disrupts_sweat_house_scene
+  - animal_intrusion_into_sweat_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-induces-sleep-to-evade-human-watcher
+  motif_id: animal_induces_sleep_to_evade_human_watcher
+  label: animal induces sleep to evade human watcher
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal using sleep-induction to escape a watcher functions as deception
+    and boundary evasion.
+  cautions: If sleep is produced by song or supernatural sound, enchanting_music may
+    be a secondary mapping; if by divine power, review for divine_intervention.
+  suggested_aliases:
+  - animal_causes_sleep_to_escape_watcher
+  - sleep_induction_as_animal_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to animal mimesis in hunting, dance, play, or warfare. A human
+  reviewer may consider a new animal_mimesis_ritual group if similar labels recur
+  across sources.
+- Do not treat animal imitation as shapeshifting unless passage evidence describes
+  actual bodily transformation.
+- Culturally specific ritual-performance labels should be reviewed with source context
+  before canonical promotion.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 2075.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2075
+  input_sha256: b536ac87795645907a70221ea27b3732315d5e586069eb3f6dbcd1642aa46ef4
+

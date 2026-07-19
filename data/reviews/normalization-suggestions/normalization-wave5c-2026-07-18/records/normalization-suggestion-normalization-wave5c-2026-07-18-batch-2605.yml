@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2605
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.accidental-monster-defeat-or-accidental-monster-slayer-episode
+  motif_id: accidental_monster_defeat_or_accidental_monster_slayer_episode
+  label: accidental monster defeat or accidental monster-slayer episode
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Monster defeat belongs broadly with combat and heroic ordeal, but the
+    accidental-slayer function is narrower than existing labels.
+  cautions: Single occurrence; if the monster is chaos-cosmic rather than episode-level,
+    divine_warrior may be a secondary mapping.
+  suggested_aliases:
+  - accidental_monster_slayer
+  - accidental_monster_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-wound-forces-neutrality-into-enmity
+  motif_id: accidental_wound_forces_neutrality_into_enmity
+  label: Accidental wound forces neutrality into enmity
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a contingent plot turn from neutrality to hostility,
+    but its broader mythic function is unclear.
+  cautions: May be an over-specific battle episode, a fate/reversal motif, or a violated-trust
+    escalation depending on source evidence.
+  suggested_aliases:
+  - accidental_wounding_turns_neutral_party_hostile
+  - neutral_party_becomes_enemy_after_accidental_wound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-wounding-by-a-hero-s-weapon-and-subsequent-cure
+  motif_id: accidental_wounding_by_a_hero_s_weapon_and_subsequent_cure
+  label: Accidental wounding by a hero's weapon and subsequent cure
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero's weapon causing and resolving injury fits the heroic-warrior
+    complex and sacred martial power.
+  cautions: If the cure is the primary motif, sacred_treasures or divine_intervention
+    may be better; preserve accidental-wound detail as evidence.
+  suggested_aliases:
+  - hero_weapon_wounds_and_heals
+  - wound_by_heroic_weapon_followed_by_cure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accusation-tested-by-structured-inquiry
+  motif_id: accusation_tested_by_structured_inquiry
+  label: Accusation tested by structured inquiry
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Testing an accusation through inquiry functions as moral/legal reckoning
+    and aligns with judgment and vindication patterns.
+  cautions: Could be ordinary legal procedure or didactic reasoning rather than sacred
+    judgment; review passage context.
+  suggested_aliases:
+  - structured_inquiry_tests_accusation
+  - formal_inquiry_vindicates_or_condemns
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.advance-scouts-provoke-pursuit-into-full-battle
+  motif_id: advance_scouts_provoke_pursuit_into_full_battle
+  label: Advance scouts provoke pursuit into full battle
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The motif is a tactical battle-escalation episode within warfare and
+    pursuit.
+  cautions: Likely too specific for canonical promotion; exclude if it is merely a
+    military narrative detail without ritual or mythic significance.
+  suggested_aliases:
+  - scouts_lure_pursuit_into_battle
+  - pursuit_provoked_into_full_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aerial-aid-in-monster-slaying
+  motif_id: aerial_aid_in_monster_slaying
+  label: Aerial aid in monster-slaying
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Aid from above in a monster-slaying episode is a supernatural assistance
+    pattern in human combat.
+  cautions: If the helper is simply a bird or tactical ally, sacred_combat may be
+    better; if cosmic order is at stake, divine_warrior is also relevant.
+  suggested_aliases:
+  - aerial_helper_in_monster_slaying
+  - aid_from_above_in_monster_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.affinal-or-romantic-ties-overriding-wartime-sides
+  motif_id: affinal_or_romantic_ties_overriding_wartime_sides
+  label: affinal or romantic ties overriding wartime sides
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kinship-by-marriage or romantic attachment overriding war allegiance
+    fits love and relational bonds crossing conflict boundaries.
+  cautions: Could instead be covenant, hospitality, or political alliance depending
+    on whether marriage, love, or social obligation is central.
+  suggested_aliases:
+  - romantic_ties_override_wartime_sides
+  - affinal_bonds_override_war_allegiance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.afflicted-war-elephant-restored-and-sent-to-breach-a-gate
+  motif_id: afflicted_war_elephant_restored_and_sent_to_breach_a_gate
+  label: Afflicted war-elephant restored and sent to breach a gate
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: over_specific_label
+  confidence: low
+  rationale: Restoration of an afflicted battle animal for decisive action may fit
+    intervention, healing, and animal aid.
+  cautions: Highly episode-specific; if no sacred agency is present, treat as military
+    narrative detail under sacred_combat or exclude from broad queries.
+  suggested_aliases:
+  - war_elephant_restored_for_gate_breach
+  - healed_war_animal_turns_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.age-graded-or-degree-based-male-warrior-association
+  motif_id: age_graded_or_degree_based_male_warrior_association
+  label: age-graded or degree-based male warrior association
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a social institution rather than a narrative motif, though
+    it may support initiation or warrior-order patterns.
+  cautions: Culturally specific social organization should not be flattened into generic
+    sacred combat without source review; may be ethnographic context rather than motif.
+  suggested_aliases:
+  - age_graded_warrior_society
+  - degree_based_male_warrior_association
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-hero-reduced-from-martial-life-to-menial-labor
+  motif_id: aged_hero_reduced_from_martial_life_to_menial_labor
+  label: Aged hero reduced from martial life to menial labor
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The fall from heroic martial status into humiliation centers on tragic
+    recognition and loss of former glory.
+  cautions: Could also fit pride_and_downfall or divine_warrior if framed as moral
+    humbling or warrior-status decline rather than lament.
+  suggested_aliases:
+  - aged_hero_humbled_after_martial_life
+  - heroic_old_age_and_loss_of_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence battlefield plot details; preserve
+  them as evidence notes unless source review shows recurring mythic structure.
+- Avoid treating all combat labels as divine_warrior; use sacred_combat for tactical
+  warfare and divine_intervention only where supernatural agency is explicit.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific warrior-society and episode-level
+    battle labels need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2605
+  input_sha256: b27226e02dd3bd3345e44620964a008e905ca7c2b415fdafb7a10b04eea849ec
+

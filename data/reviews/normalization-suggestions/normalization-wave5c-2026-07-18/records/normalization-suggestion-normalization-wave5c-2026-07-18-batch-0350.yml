@@ -1,0 +1,281 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0350
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.royal-death-in-a-destroyed-fort-by-oversea-attackers
+  motif_id: royal_death_in_a_destroyed_fort_by_oversea_attackers
+  label: royal death in a destroyed fort by oversea attackers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: 'The label reads as a specific episode detail: a ruler dies during an
+    attack on a fort.'
+  cautions: If the passage emphasizes heroic death, funeral consequences, or sacred
+    kingship collapse, review under divine_warrior, heroic_funeral_rites, or royal_legitimacy
+    instead.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-death-marked-by-special-euphemistic-speech
+  motif_id: royal_death_marked_by_special_euphemistic_speech
+  label: Royal death marked by special euphemistic speech
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Special speech surrounding royal death is a culturally marked performative
+    or tabooed speech practice.
+  cautions: Needs human review for Malagasy royal death vocabulary and ritual context;
+    could alternatively be sacred_law if it is mainly protocol or taboo.
+  suggested_aliases:
+  - euphemistic_speech_for_royal_death
+  - taboo_speech_around_royal_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-funeral-honors-for-holy-dead
+  motif_id: royal_funeral_honors_for_holy_dead
+  label: royal funeral honors for holy dead
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: The core pattern is special funeral honors for an exalted or holy dead
+    figure, matching memorial rites for honored dead.
+  cautions: If the source emphasizes relic devotion, shrine cult, or saintly remains
+    more than funeral honors, sacred_treasures may be a secondary fit.
+  suggested_aliases:
+  - funeral_honors_for_holy_dead
+  - royal_honors_for_sacred_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-status-humbled-in-the-underworld
+  motif_id: royal_status_humbled_in_the_underworld
+  label: Royal status humbled in the underworld
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: narrower_than
+  confidence: high
+  rationale: The underworld setting and reversal of royal status fit descent/underworld
+    encounter motifs.
+  cautions: If the focus is moral humbling of power rather than journey or underworld
+    condition, pride_and_downfall or divine_judgment may be relevant secondary groups.
+  suggested_aliases:
+  - king_humbled_in_underworld
+  - royal_power_reversed_in_underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-woman-arranges-fugitive-s-death-and-receives-seized-goods
+  motif_id: royal_woman_arranges_fugitive_s_death_and_receives_seized_goods
+  label: Royal woman arranges fugitive's death and receives seized goods
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a plot-specific political killing and property seizure
+    rather than a reusable mythic motif.
+  cautions: If source evidence frames it as betrayal of sanctuary, vengeance, or violated
+    hospitality, review under betrayal_violated_trust or divine_judgment.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-woman-rescues-exposed-infant-and-returns-him-to-his-mother-as-nurse
+  motif_id: royal_woman_rescues_exposed_infant_and_returns_him_to_his_mother_as_nurse
+  label: Royal woman rescues exposed infant and returns him to his mother as nurse
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: high
+  rationale: Rescue of an exposed infant and hidden maternal nursing fits the threatened/protected
+    miraculous child complex.
+  cautions: Royal woman and nurse details should remain evidence notes unless they
+    recur as a distinct cross-source pattern.
+  suggested_aliases:
+  - exposed_infant_rescued_by_royal_woman
+  - threatened_infant_returned_to_mother_as_nurse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruined-people-compared-to-corpses-before-divine-restoration
+  motif_id: ruined_people_compared_to_corpses_before_divine_restoration
+  label: ruined people compared to corpses before divine restoration
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Corpse imagery followed by divine restoration fits symbolic death and
+    renewal of a people.
+  cautions: Do not treat as literal resurrection unless the passage supports actual
+    raising of the dead; divine_intervention may be a secondary fit.
+  suggested_aliases:
+  - communal_restoration_after_corpse_like_ruin
+  - people_as_corpses_before_divine_restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruined-royal-glory-overtaken-by-animals-and-death
+  motif_id: ruined_royal_glory_overtaken_by_animals_and_death
+  label: ruined royal glory overtaken by animals and death
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif centers on the decay of royal grandeur and mortality, matching
+    impermanence/downfall of power.
+  cautions: If the passage is contemplative teaching on mortality rather than downfall
+    of pride, mystical_quest may be a secondary fit.
+  suggested_aliases:
+  - impermanence_of_royal_glory_overtaken_by_death
+  - royal_grandeur_ruined_by_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-fears-loss-of-land-after-protector-s-death
+  motif_id: ruler_fears_loss_of_land_after_protector_s_death
+  label: Ruler fears loss of land after protector’s death
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern royal security, political dependency, lament after
+    death, or plot-specific succession anxiety.
+  cautions: Source context is needed before mapping; possible fits include royal_legitimacy,
+    lament_and_mourning, divine_warrior, or exclusion as an episode detail.
+  suggested_aliases:
+  - ruler_fears_land_loss_after_champion_death
+  - realm_endangered_by_protector_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-s-obligation-to-acknowledge-death-and-mourning
+  motif_id: ruler_s_obligation_to_acknowledge_death_and_mourning
+  label: Ruler's obligation to acknowledge death and mourning
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ruler’s prescribed duty around mourning fits sacred social order and
+    ritual obligation.
+  cautions: If the passage emphasizes grief expression itself, lament_and_mourning
+    may be secondary; Confucian ritual context should be reviewed carefully.
+  suggested_aliases:
+  - ruler_obliged_to_perform_mourning
+  - royal_duty_to_acknowledge_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; preserve granular wording
+  as evidence notes rather than promoting new taxonomy groups.
+- Royal death labels should not automatically map to death_and_transformation unless
+  renewal, rebirth, underworld passage, or postmortem transformation is explicit.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific royal death and mourning protocols.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0350
+  input_sha256: 7a630d67bf1b2e813a6c666c817bf2abc1c784e43c0a5fcafd0c40b0265a1344
+

@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2930
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.elimination-of-rival-companions-during-ascent
+  motif_id: elimination_of_rival_companions_during_ascent
+  label: Elimination of rival companions during ascent
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ascent
+  suggested_group_label: Ascent and Heavenly Journey
+  relationship: uncertain
+  confidence: low
+  rationale: The label includes ascent, but the core action may be rivalry, betrayal,
+    ordeal, or removal of companions during a vertical journey.
+  cautions: Single occurrence and context-dependent; do not map solely from the word
+    ascent without evidence that the ascent is sacred or transformative.
+  suggested_aliases:
+  - rival_companions_eliminated_during_ascent
+  - ascent_with_elimination_of_companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.emblem-bearing-deities
+  motif_id: emblem_bearing_deities
+  label: emblem-bearing deities
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label sounds like iconographic description of divine figures rather
+    than a narrative or symbolic motif with a clear function.
+  cautions: If the emblem itself confers authority, protection, or identity in a passage,
+    remap that specific evidence to sacred_treasures, royal_legitimacy, or theophany
+    as appropriate.
+  suggested_aliases:
+  - deities_bearing_emblems
+  - iconographic_emblems_of_deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embodied-mourning-through-prostration-dust-and-hair-tearing
+  motif_id: embodied_mourning_through_prostration_dust_and_hair_tearing
+  label: embodied mourning through prostration, dust, and hair-tearing
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label describes bodily gestures of grief, fitting the mourning and
+    lament complex.
+  cautions: Preserve the specific prostration, dust, and hair-tearing practices as
+    evidence details; they need not become a separate canonical motif from one occurrence.
+  suggested_aliases:
+  - mourning_by_prostration_dust_and_hair_tearing
+  - bodily_gestures_of_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-household-service-fails-after-hidden-agents-are-killed
+  motif_id: enchanted_household_service_fails_after_hidden_agents_are_killed
+  label: Enchanted household service fails after hidden agents are killed
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Hidden supernatural agents providing service could fit intervention or
+    household spirit aid, but the killing and loss of service make the function unclear.
+  cautions: Single, composite label; may instead belong with otherworld helpers, tutelary
+    spirits, betrayal, or a household-spirit motif not yet separated.
+  suggested_aliases:
+  - hidden_agents_provide_enchanted_household_service
+  - loss_of_enchanted_service_after_agents_are_killed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-island-that-rises-and-sinks-in-the-waves
+  motif_id: enchanted_island_that_rises_and_sinks_in_the_waves
+  label: enchanted island that rises and sinks in the waves
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A marvelous island appearing and disappearing in waves fits the enchanted
+    otherworld or hidden realm pattern.
+  cautions: If the passage emphasizes sea danger or water crossing rather than the
+    island as enchanted realm, sacred_waters may be a secondary mapping.
+  suggested_aliases:
+  - rising_and_sinking_enchanted_island
+  - vanishing_island_in_waves
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-marine-garden-imagery
+  motif_id: enchanted_marine_garden_imagery
+  label: enchanted marine garden imagery
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase suggests an enchanted seascape, but may be merely descriptive
+    imagery rather than a functional motif.
+  cautions: Review source evidence to decide whether it is an otherworld realm, sacred
+    waters imagery, paradise imagery, or passage-level description to exclude.
+  suggested_aliases:
+  - marine_garden_otherworld_imagery
+  - enchanted_undersea_garden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-multiplication-of-garden-food
+  motif_id: enchanted_multiplication_of_garden_food
+  label: enchanted multiplication of garden food
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Miraculous or enchanted increase of food aligns with divine_intervention
+    aliases for miraculous and inexhaustible provision.
+  cautions: If the source frames garden abundance as otherworldly setting or sacred
+    substance rather than provision, consider otherworld or sacred_substance as secondary.
+  suggested_aliases:
+  - miraculous_multiplication_of_garden_food
+  - enchanted_food_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-sisters-in-metal-palaces-as-helpers
+  motif_id: enchanted_sisters_in_metal_palaces_as_helpers
+  label: enchanted sisters in metal palaces as helpers
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: Enchanted helper figures in marvelous palaces may indicate an otherworld
+    episode, but the label is highly composite and role-specific.
+  cautions: Could fit otherworld helpers, sibling-pair imagery, sacred treasures/craft
+    through metal palaces, or a tale-specific detail; needs passage context.
+  suggested_aliases:
+  - enchanted_sister_helpers_in_metal_palaces
+  - otherworld_sisters_as_helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanting-music-that-suspends-suffering-or-grief
+  motif_id: enchanting_music_that_suspends_suffering_or_grief
+  label: Enchanting music that suspends suffering or grief
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: Music acting supernaturally to alter suffering or grief belongs directly
+    under enchanting_music and sound power.
+  cautions: Also relates to lament_and_mourning if the grief context is central, but
+    the active motif is musical enchantment.
+  suggested_aliases:
+  - magical_music_suspends_grief
+  - enchanting_music_relieves_suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encirclement-by-vultures-in-a-burned-clearing
+  motif_id: encirclement_by_vultures_in_a_burned_clearing
+  label: encirclement by vultures in a burned clearing
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a specific scene involving birds, fire, and enclosure,
+    but its narrative function is not evident.
+  cautions: May be an ordeal, death omen, animal encounter, battlefield/death imagery,
+    or passage artifact; source evidence is required before mapping.
+  suggested_aliases:
+  - vultures_encircle_in_burned_clearing
+  - encircled_by_vultures_after_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence, composite scene labels; preserve
+  local detail but avoid promoting them without recurring evidence.
+- The review bucket is objects/spaces/boundaries, but many proposed placements depend
+  on narrative function rather than setting alone.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source context especially needed for enchanted
+    helper/household-service and vulture-clearing labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2930
+  input_sha256: 12fa1d8168ce6e97ab59db1ad946693f03562966fa070e468830b17cbf776902
+

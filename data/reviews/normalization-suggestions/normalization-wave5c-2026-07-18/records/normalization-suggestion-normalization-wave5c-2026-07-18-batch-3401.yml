@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3401
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.etiological-origin-of-the-turtle
+  motif_id: etiological_origin_of_the_turtle
+  label: etiological origin of the turtle
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Explains the origin of a present animal form, fitting the broader etiological-origin
+    function already grouped under cosmic_origin.
+  cautions: Single occurrence; if the passage emphasizes animal transformation or
+    ancestral punishment rather than origin explanation, shapeshifter or divine_judgment
+    may be better secondary context.
+  suggested_aliases:
+  - animal_origin_etiology
+  - etiological_animal_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-origin-of-twice-daily-tides
+  motif_id: etiological_origin_of_twice_daily_tides
+  label: Etiological origin of twice-daily tides
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Explains the origin of a recurring natural phenomenon, consistent with
+    etiological cosmic or natural-order origins.
+  cautions: Could also relate to sacred_waters if the source foregrounds water as
+    sacred boundary or power; do not infer flood renewal from tides alone.
+  suggested_aliases:
+  - tide_origin_etiology
+  - etiological_origin_of_tides
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-origin-tale-titles
+  motif_id: etiological_origin_tale_titles
+  label: Etiological origin tale titles
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label appears to describe tale-title classification rather than a
+    narrative motif in the source material.
+  cautions: If individual titled tales contain actual origin explanations, index those
+    specific phenomena separately under cosmic_origin or another functional group.
+  suggested_aliases:
+  - etiological_tale_title_pattern
+  - origin_tale_title_artifact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-origin-titles
+  motif_id: etiological_origin_titles
+  label: etiological origin titles
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording points to editorial or title metadata, not a usable symbolic
+    or narrative motif.
+  cautions: Review source records to ensure no actual origin motif was collapsed into
+    a title-only artifact.
+  suggested_aliases:
+  - etiological_title_pattern
+  - origin_title_artifact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-petrifaction-into-visible-rocks
+  motif_id: etiological_petrifaction_into_visible_rocks
+  label: Etiological petrifaction into visible rocks
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Petrifaction explaining visible landscape features fits the existing
+    etiological landscape-formation scope of cosmic_origin.
+  cautions: If the focus is punishment or bodily transformation, divine_judgment or
+    death_and_transformation/shapeshifter may be relevant; preserve rock-petrifaction
+    detail as evidence.
+  suggested_aliases:
+  - petrifaction_landscape_etiology
+  - humans_or_beings_petrified_into_rocks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-place-naming
+  motif_id: etiological_place_naming
+  label: Etiological place naming
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: alias
+  confidence: high
+  rationale: The group already includes place-name etiology and etiological landscape
+    naming aliases.
+  cautions: If the passage is only a scholarly note about naming, exclude as meta;
+    otherwise keep as broad place-name etiology.
+  suggested_aliases:
+  - place_name_etiology
+  - place_naming_etiology
+  - etiological_landscape_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-place-naming-after-deeds-and-commanders
+  motif_id: etiological_place_naming_after_deeds_and_commanders
+  label: etiological place naming after deeds and commanders
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A place name explained by remembered deeds or leaders is a narrower form
+    of place-name etiology already represented in cosmic_origin.
+  cautions: May be too episode-specific or historically local; if it simply records
+    a person/place detail without mythic explanation, exclude from pattern queries.
+  suggested_aliases:
+  - place_name_etiology_from_deeds
+  - place_name_etiology_from_commanders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-pronouncement-explaining-human-sexual-timing
+  motif_id: etiological_pronouncement_explaining_human_sexual_timing
+  label: Etiological pronouncement explaining human sexual timing
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes etiology, performative speech, custom, and sexual behavior;
+    the governing function depends on passage evidence.
+  cautions: Could fit curse_blessing_speech if a pronouncement creates the condition,
+    sacred_law if it explains a custom, or a body/sexuality group not present here;
+    culturally sensitive context should be reviewed.
+  suggested_aliases:
+  - pronouncement_explains_sexual_custom
+  - etiology_of_human_sexual_timing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-tale-cluster-explaining-present-phenomena
+  motif_id: etiological_tale_cluster_explaining_present_phenomena
+  label: Etiological tale cluster explaining present phenomena
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase describes a cluster or classification of tales rather than
+    one motif-level phenomenon.
+  cautions: Individual phenomena explained by the tales should be indexed separately;
+    if the source passage itself presents a general origin-of-present-order myth,
+    cosmic_origin may be a secondary option.
+  suggested_aliases:
+  - etiological_tale_cluster
+  - present_phenomena_origin_tale_cluster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-tradition-presented-as-later-explanation-of-custom
+  motif_id: etiological_tradition_presented_as_later_explanation_of_custom
+  label: Etiological tradition presented as later explanation of custom
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe either a genuine custom-origin motif or a commentary
+    note about later explanation.
+  cautions: If it explains a ritual or social rule, sacred_law may fit; if it is an
+    editorial/reception observation, exclude as _meta_textual.
+  suggested_aliases:
+  - custom_origin_etiology
+  - later_explanation_of_custom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are broad etiological classifications; map only the actual explained
+  phenomenon when source evidence is available.
+- Title/cluster wording is likely metadata and should not enter motif pattern queries
+  unless the underlying tale content is separately indexed.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions; human review recommended for culturally specific
+    etiologies and labels involving customs or sexuality.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3401
+  input_sha256: 9ff84e0cb0c907a737eab97a1490c5e74ef37536f0a4a276540eb45b68793076
+

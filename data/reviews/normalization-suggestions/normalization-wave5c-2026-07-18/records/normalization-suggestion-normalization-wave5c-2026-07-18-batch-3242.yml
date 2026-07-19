@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3242
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.clan-or-group-emblems-displayed-in-ceremony
+  motif_id: clan_or_group_emblems_displayed_in_ceremony
+  label: clan or group emblems displayed in ceremony
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve ritual display of identity emblems, but current groups
+    do not cleanly cover clan ceremonial insignia.
+  cautions: Culturally specific ceremonial material should be reviewed with source
+    context; may be ethnographic description rather than reusable motif.
+  suggested_aliases:
+  - ceremonial_clan_emblems
+  - group_emblems_in_ritual_display
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_law
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-or-stock-origin-attribution
+  motif_id: clan_or_stock_origin_attribution
+  label: clan or stock origin attribution
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The group already includes genealogical and eponymous origins of peoples
+    and named ancestors.
+  cautions: Label may be classificatory rather than mythic; verify that a narrative
+    of origin or ancestry is present.
+  suggested_aliases:
+  - clan_origin_attribution
+  - stock_origin_attribution
+  - genealogical_origin_of_clan
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-origin-expressed-through-root-and-stock-terminology
+  motif_id: clan_origin_expressed_through_root_and_stock_terminology
+  label: clan origin expressed through root and stock terminology
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe terminology for ancestry rather than a narrative
+    motif.
+  cautions: If passage gives an actual clan-origin myth, cosmic_origin may fit; if
+    it is linguistic or analytic wording, exclude from pattern queries.
+  suggested_aliases:
+  - root_and_stock_clan_origin_language
+  - clan_origin_terminology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-origin-from-remembered-bush-settlement
+  motif_id: clan_origin_from_remembered_bush_settlement
+  label: Clan origin from remembered bush settlement
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: An origin of a clan from a remembered settlement fits the existing people-origins
+    and place-origin scope of cosmic_origin.
+  cautions: May be historical memory or ethnographic local tradition rather than mythic
+    cosmogony; preserve settlement specificity as evidence detail.
+  suggested_aliases:
+  - clan_origin_from_former_settlement
+  - clan_origin_from_bush_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-origins-traced-to-former-homes
+  motif_id: clan_origins_traced_to_former_homes
+  label: Clan origins traced to former homes
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label traces group origins to ancestral places, matching existing
+    origin-of-peoples and place-origin children.
+  cautions: Could also be migration history or settlement memory; avoid treating it
+    as cosmic creation unless the source frames it mythically.
+  suggested_aliases:
+  - clan_origin_from_former_homes
+  - ancestral_home_clan_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-reduction-through-extinction-or-absorption
+  motif_id: clan_reduction_through_extinction_or_absorption
+  label: Clan reduction through extinction or absorption
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads like demographic or social-historical classification rather
+    than a clear narrative motif.
+  cautions: If embedded in a myth of social reconstitution, covenant or cosmic_origin
+    may be secondary; otherwise likely exclude or keep as contextual note.
+  suggested_aliases:
+  - clan_extinction_or_absorption
+  - clan_absorption_after_decline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-relation-across-and-within-ngopu-group-boundaries
+  motif_id: clan_relation_across_and_within_ngopu_group_boundaries
+  label: Clan relation across and within ngopu group boundaries
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe social classification across named group
+    boundaries rather than a symbolic motif.
+  cautions: If a narrative explains the boundary relation, extract that narrative
+    motif separately; do not index the analytic category itself.
+  suggested_aliases:
+  - clan_relations_across_group_boundaries
+  - ngopu_boundary_clan_relations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-totem-affiliation
+  motif_id: clan_totem_affiliation
+  label: clan totem affiliation
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Totemic Clan Affiliation
+  relationship: child
+  confidence: medium
+  rationale: Totemic clan identity is not captured well by existing origin, animal,
+    or sacred-object groups.
+  cautions: Culturally sensitive and broad; confirm recurring evidence before adding
+    a group, and avoid flattening local kinship systems.
+  suggested_aliases:
+  - totemic_clan_affiliation
+  - clan_totem_identity
+  - totem_affiliation
+  suggested_new_group:
+    id: totemic_clan_affiliation
+    label: Totemic Clan Affiliation
+    description: A clan, lineage, or social group is identified with, descended from,
+      protected by, named for, or ritually linked to a totemic animal, plant, object,
+      place, or ancestral being.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - sacred_law
+    - sacred_treasures
+    - shapeshifter
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover origin myths, sacred
+      objects, and transformation, but not the social-ritual identity relation between
+      a group and its totem.
+- suggestion_id: normalization.suggestion.clans-and-totems
+  motif_id: clans_and_totems
+  label: Clans and totems
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Totemic Clan Affiliation
+  relationship: broader_label
+  confidence: medium
+  rationale: The label is broad but points to the same clan-totem identity complex
+    as clan_totem_affiliation.
+  cautions: Too broad for direct motif use without passage evidence; may be a section
+    heading or analytic topic.
+  suggested_aliases:
+  - clan_totems
+  - clan_and_totem_systems
+  - totemic_clans
+  suggested_new_group:
+    id: totemic_clan_affiliation
+    label: Totemic Clan Affiliation
+    description: A clan, lineage, or social group is identified with, descended from,
+      protected by, named for, or ritually linked to a totemic animal, plant, object,
+      place, or ancestral being.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - sacred_law
+    - sacred_treasures
+    - shapeshifter
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups do not represent totemic
+      social affiliation as a distinct identity and ritual relationship.
+- suggestion_id: normalization.suggestion.class-conflict-overturning-a-regime
+  motif_id: class_conflict_overturning_a_regime
+  label: Class conflict overturning a regime
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could concern political legitimacy or social order, but the label sounds
+    historical or sociological rather than mythic.
+  cautions: Map to royal_legitimacy only if the passage frames regime change through
+    sacred kingship, divine sanction, or mythic order; otherwise exclude as contextual
+    history.
+  suggested_aliases:
+  - class_conflict_regime_overthrow
+  - social_conflict_overturns_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - divine_judgment
+    - covenant
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several clan-origin labels may fit cosmic_origin only when the source contains an
+  origin narrative, not merely ethnographic classification.
+- Totem-related labels may justify a future group if they recur across sources, but
+  should receive culturally informed review before normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; clan, totem, and social-boundary labels need
+    source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3242
+  input_sha256: d3ac3f869064b7c84417df84046c5e4951512f5af45b7e561a1ffc569bb301fb
+

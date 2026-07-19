@@ -1,0 +1,312 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3642
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.magic-egg
+  motif_id: magic_egg
+  label: magic egg
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An egg may be a cosmic egg, a power object, a soul container, or a fairy-tale
+    magical aid; label alone is insufficient.
+  cautions: Do not map to cosmic_egg unless the passage involves world, deity, ancestor,
+    or ordered cosmos emerging from the egg.
+  suggested_aliases:
+  - enchanted egg
+  - supernatural egg
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_treasures
+    - sacred_vessel
+    - external_soul
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-food-object-and-punitive-cudgel-tale-complex
+  motif_id: magic_food_object_and_punitive_cudgel_tale_complex
+  label: magic food object and punitive cudgel tale complex
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The recurring function is possession and use of magical objects, including
+    a food-producing object and punitive cudgel.
+  cautions: Composite tale-complex label; if the food object is primarily inexhaustible
+    provision, divine_intervention or sacred_substance may be secondary.
+  suggested_aliases:
+  - magic food object
+  - punitive cudgel
+  - self-acting cudgel
+  - food-producing magic object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-formula-enabling-rapid-movement-and-escape
+  motif_id: magic_formula_enabling_rapid_movement_and_escape
+  label: Magic formula enabling rapid movement and escape
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spoken formula has performative power that changes movement and enables
+    escape.
+  cautions: If the passage emphasizes journey structure rather than speech power,
+    hero_journey may be a secondary placement.
+  suggested_aliases:
+  - performative escape formula
+  - magic travel formula
+  - spoken formula for rapid movement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-herb-neutralizes-enchantment
+  motif_id: magic_herb_neutralizes_enchantment
+  label: magic herb neutralizes enchantment
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: A plant or herb with supernatural counter-enchantment power fits sacred
+    substances, potions, and plants used in mythic practice.
+  cautions: Could also index under sacred_treasures if the herb is treated as a power
+    object, or sacred_law if used apotropaically in ritual.
+  suggested_aliases:
+  - counter-enchantment herb
+  - protective magic herb
+  - enchanted herb antidote
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-horn-containing-abundant-herds
+  motif_id: magic_horn_containing_abundant_herds
+  label: Magic horn containing abundant herds
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A horn that contains or produces herds is a supernatural power object
+    conferring abundance.
+  cautions: If the narrative stresses inexhaustible provision rather than object possession,
+    divine_intervention may be secondary.
+  suggested_aliases:
+  - abundance horn
+  - magic horn of herds
+  - supernatural horn containing livestock
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-imposed-servitude-or-spellbinding
+  motif_id: magic_imposed_servitude_or_spellbinding
+  label: magic-imposed servitude or spellbinding
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe coercive speech, enchantment-compulsion, bondage
+    by a power object, or social captivity through magic.
+  cautions: Culturally sensitive and functionally ambiguous; source evidence is needed
+    before choosing storytelling_as_power, curse_blessing_speech, sacred_law, or trickster.
+  suggested_aliases:
+  - spellbound servitude
+  - magical compulsion to serve
+  - enchanted bondage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - storytelling_as_power
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-induced-postponement-of-a-meal
+  motif_id: magic_induced_postponement_of_a_meal
+  label: magic-induced postponement of a meal
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label appears too episode-specific and does not clearly express a
+    durable motif beyond a plot device.
+  cautions: If repeated evidence shows meal delay as magical compulsion, hospitality
+    test, or trickster strategy, reconsider under sacred_exchange, storytelling_as_power,
+    or trickster.
+  suggested_aliases:
+  - magical meal delay
+  - enchanted postponement of eating
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-killing-by-pointing-gesture
+  motif_id: magic_killing_by_pointing_gesture
+  label: Magic killing by pointing gesture
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: low
+  rationale: A lethal gesture functions like a performative curse or binding act,
+    even if nonverbal.
+  cautions: Because the group is speech-centered, human review should confirm whether
+    the gesture is ritually performative rather than ordinary combat or sorcery detail.
+  suggested_aliases:
+  - death by pointing
+  - lethal pointing gesture
+  - performative killing gesture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-object-exchange-followed-by-violent-reappropriation
+  motif_id: magic_object_exchange_followed_by_violent_reappropriation
+  label: magic-object exchange followed by violent reappropriation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on exchange and its violation through forcible recovery
+    of a magical object.
+  cautions: Could also fit betrayal_violated_trust or sacred_treasures depending on
+    whether the broken exchange or the power object is the narrative focus.
+  suggested_aliases:
+  - violated exchange of magic object
+  - reappropriated magical object
+  - violent recovery after exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-object-thrown-behind-creates-obstacle-in-pursuit
+  motif_id: magic_object_thrown_behind_creates_obstacle_in_pursuit
+  label: Magic object thrown behind creates obstacle in pursuit
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magic Flight and Pursuit Obstacles
+  relationship: functional_variant
+  confidence: medium
+  rationale: The obstacle-creating thrown object is a well-defined chase/escape function
+    not cleanly captured by existing object, journey, or trickster groups.
+  cautions: May be over-specific if only one occurrence in this corpus; review against
+    related chase-flight labels before adding a group.
+  suggested_aliases:
+  - obstacle flight
+  - magic flight by thrown objects
+  - pursuit obstacle from magic object
+  suggested_new_group:
+    id: magic_flight_pursuit_obstacles
+    label: Magic Flight and Pursuit Obstacles
+    description: Escape from pursuit by throwing, dropping, or transforming magical
+      objects or substances that create barriers, delays, or hostile landscapes between
+      fugitive and pursuer.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - sacred_treasures
+    - trickster
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing groups cover journeys, power objects,
+      or trickster escape broadly, but not the recurring chase structure where objects
+      create successive pursuit obstacles.
+batch_notes:
+- Several labels are single-occurrence and generated at high granularity; preserve
+  local evidence but avoid promoting without recurrence review.
+- For magic-object labels, distinguish object possession from sacred exchange, divine
+  provision, and journey/escape function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; ambiguous magic and spellbinding items require
+    source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3642
+  input_sha256: 1409f676826a2cb74952a887aa28e7ad4550588beb651d67e8a3904961ac6c09
+

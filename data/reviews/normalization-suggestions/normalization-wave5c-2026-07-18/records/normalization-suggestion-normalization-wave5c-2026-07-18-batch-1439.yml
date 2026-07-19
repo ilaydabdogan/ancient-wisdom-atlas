@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1439
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.selective-personal-name-avoidance
+  motif_id: selective_personal_name_avoidance
+  label: selective personal-name avoidance
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Name avoidance is best treated as a speech taboo or social-ritual prohibition
+    within sacred law.
+  cautions: Single occurrence; may require culturally specific review to distinguish
+    mourning taboo, kinship avoidance, magic, or etiquette.
+  suggested_aliases:
+  - personal_name_taboo
+  - name_avoidance_taboo
+  - speech_avoidance_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-blaming-woman-linked-to-communal-war-and-future-song
+  motif_id: self_blaming_woman_linked_to_communal_war_and_future_song
+  label: Self-blaming woman linked to communal war and future song
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines gendered blame, war causation, and future song/fame;
+    no single existing group captures the function without source context.
+  cautions: Likely episode-specific; could belong to lament_and_mourning, sacred_combat,
+    storytelling_as_power, or be an evidence note only.
+  suggested_aliases:
+  - woman_self_blame_for_war
+  - future_song_about_communal_war
+  - self_blame_and_war_memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-cleansing-through-good-thoughts-words-and-deeds
+  motif_id: self_cleansing_through_good_thoughts_words_and_deeds
+  label: Self-cleansing through good thoughts, words, and deeds
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif expresses moral-ritual purification through ethically ordered
+    thought, speech, and action.
+  cautions: May also relate to divine_judgment if the passage emphasizes postmortem
+    accounting or cosmic moral consequence.
+  suggested_aliases:
+  - purification_by_good_thoughts_words_and_deeds
+  - ethical_self_purification
+  - moral_purity_through_thought_word_deed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-control-song-with-slow-opening-and-freer-middle-rhythm
+  motif_id: self_control_song_with_slow_opening_and_freer_middle_rhythm
+  label: self-control song with slow opening and freer middle rhythm
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes song function with technical rhythmic description; source
+    context is needed to know whether the song has sacred or narrative power.
+  cautions: Could be ethnomusicological metadata rather than a motif. If the song
+    performs restraint or transformation, enchanting_music or sacred_song may apply.
+  suggested_aliases:
+  - self_control_song
+  - discipline_song
+  - song_for_self_control
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-provision-when-no-donor-is-available
+  motif_id: self_provision_when_no_donor_is_available
+  label: Self-provision when no donor is available
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns provision in the absence of expected giving, a variant
+    on donor-recipient reciprocity and sacred exchange.
+  cautions: May be an ethical monastic rule or narrative detail rather than a broad
+    motif; review whether donor absence is ritually significant.
+  suggested_aliases:
+  - self_provision_without_donor
+  - self_support_when_donor_absent
+  - provision_without_patron
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-provisioning-instead-of-dependence-on-companions
+  motif_id: self_provisioning_instead_of_dependence_on_companions
+  label: self-provisioning instead of dependence on companions
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a practical or social behavior rather than a clear
+    sacred exchange or wisdom motif.
+  cautions: Could fit sacred_exchange if reciprocal dependence is central, initiation
+    if self-reliance is an ordeal, or be too contextual for pattern queries.
+  suggested_aliases:
+  - self_provisioning_over_companion_dependence
+  - self_reliant_provision
+  - self_support_instead_of_group_dependence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-rebuke-as-evidence-of-inner-division
+  motif_id: self_rebuke_as_evidence_of_inner_division
+  label: self-rebuke as evidence of inner division
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is an interior psychological or rhetorical observation not clearly
+    covered by existing mythic groups.
+  cautions: May be literary analysis rather than motif. If recurring, a future inner-conflict/ethical
+    psychology group may be useful.
+  suggested_aliases:
+  - inner_division_self_rebuke
+  - self_address_as_inner_conflict
+  - psychological_self_rebuke
+  suggested_new_group:
+    id: inner_division_self_rebuke
+    label: Inner Division and Self-Rebuke
+    description: A character addresses, rebukes, or divides against the self, revealing
+      internal moral conflict, deliberation, or divided agency.
+    parent_group_ids:
+    - sacred_knowledge
+    related_group_ids:
+    - duality
+    - divine_judgment
+    - storytelling_as_power
+    reason_existing_groups_insufficient: Existing groups cover wisdom, judgment, and
+      duality broadly but not recurring interior self-address or psychological division
+      as a narrative function.
+- suggestion_id: normalization.suggestion.sense-specific-knowledge
+  motif_id: sense_specific_knowledge
+  label: sense-specific knowledge
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: narrower_than
+  confidence: medium
+  rationale: Knowledge distinguished by sensory domain fits a narrower epistemological
+    variant of sacred knowledge or wisdom.
+  cautions: May be doctrinal taxonomy rather than narrative motif; preserve only if
+    passage treats sensory knowledge as transformative or sacred insight.
+  suggested_aliases:
+  - knowledge_by_sense_faculty
+  - sensory_specific_knowledge
+  - sense_based_epistemic_discernment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separated-relatives-recognized-through-language-and-custom
+  motif_id: separated_relatives_recognized_through_language_and_custom
+  label: Separated relatives recognized through language and custom
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Language and custom function as identity proofs allowing separated kin
+    to recognize one another.
+  cautions: Unlike object tokens or scars, the recognition evidence is cultural practice;
+    preserve that specificity in notes.
+  suggested_aliases:
+  - recognition_through_language_and_custom
+  - kin_recognition_by_language
+  - separated_kin_recognized_by_custom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequential-name-list-or-dynastic-table-pattern
+  motif_id: sequential_name_list_or_dynastic_table_pattern
+  label: Sequential name-list or dynastic-table pattern
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a textual or structural list pattern, not a symbolic
+    or narrative motif.
+  cautions: If the list functions genealogically to establish sacred descent or legitimacy,
+    index the passage separately under cosmic_origin or royal_legitimacy.
+  suggested_aliases:
+  - dynastic_table_pattern
+  - sequential_name_list
+  - genealogical_list_structure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and appear to be ethical, rhetorical,
+  or textual observations rather than durable narrative motifs.
+- For culturally specific speech taboos or songs, human review should verify whether
+  the generated label reflects indigenous categories or outside analytic description.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize review for episode-specific Greek
+    labels, technical song labels, and culturally specific name-avoidance practices.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1439
+  input_sha256: 9ea9605a3d9dceb51c5365ee9d61674b826926ba5b7f081fa0d466e6ad017638
+

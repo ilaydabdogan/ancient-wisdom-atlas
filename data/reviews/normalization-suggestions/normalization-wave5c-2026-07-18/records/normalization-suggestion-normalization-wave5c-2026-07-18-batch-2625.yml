@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2625
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bones-represent-combatants-and-strongest-bear
+  motif_id: bones_represent_combatants_and_strongest_bear
+  label: bones represent combatants and strongest bear
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe divinatory, symbolic, game, or narrative representation
+    of combatants, but the function is unclear from wording alone.
+  cautions: Single occurrence and culturally specific Arctic-Inuit context; avoid
+    forcing into sacred_combat or animal symbolism without source evidence.
+  suggested_aliases:
+  - bones_as_combatant_tokens
+  - bear_as_strongest_combatant_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.borrowed-heroic-armor-conferring-appearance-and-force
+  motif_id: borrowed_heroic_armor_conferring_appearance_and_force
+  label: borrowed heroic armor conferring appearance and force
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Borrowed heroic armor that changes appearance and battlefield force matches
+    existing substitute/borrowed armor combat motifs under sacred_combat.
+  cautions: If the armor itself is treated as the primary divine power object, sacred_treasures
+    may be a secondary relation.
+  suggested_aliases:
+  - substitute_warrior_in_borrowed_armor
+  - borrowed_armor_confers_heroic_appearance
+  - substitute_warrior_in_another_hero_s_armor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.borrowed-medicine-and-weapons-empower-a-defender
+  motif_id: borrowed_medicine_and_weapons_empower_a_defender
+  label: Borrowed medicine and weapons empower a defender
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Medicine and weapons function as empowering objects that confer defensive
+    or martial ability.
+  cautions: Could also map to divine_warrior if the emphasis is heroic defense in
+    combat, or sacred_substance if medicine is ritually central; review culturally
+    specific meaning of medicine.
+  suggested_aliases:
+  - empowering_borrowed_medicine_and_weapons
+  - sacred_medicine_and_weapons_empower_defender
+  - borrowed_power_objects_empower_defender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bound-companion-rescued-by-cutting-enemy-canoe-bonds
+  motif_id: bound_companion_rescued_by_cutting_enemy_canoe_bonds
+  label: Bound companion rescued by cutting enemy canoe bonds
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a very specific rescue tactic and object setting
+    rather than a durable broad motif.
+  cautions: If similar captive-rescue labels recur, consider a captivity/rescue group;
+    preserve as episode evidence rather than query facet for now.
+  suggested_aliases:
+  - bound_companion_rescue
+  - captive_rescued_by_cutting_bonds
+  - canoe_bonds_cut_to_rescue_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bound-game-accusation-and-revenge-killing
+  motif_id: bound_game_accusation_and_revenge_killing
+  label: Bound-game accusation and revenge killing
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording could involve hunting law, false accusation, revenge, or
+    an episode-specific dispute; existing groups do not clearly capture it without
+    context.
+  cautions: Single occurrence; culturally specific hunting and revenge context should
+    be reviewed before mapping to divine_judgment, sacred_law, or sacred_combat.
+  suggested_aliases:
+  - game_accusation_leads_to_revenge_killing
+  - revenge_killing_after_hunting_accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bound-hero-who-voluntarily-remains-bound
+  motif_id: bound_hero_who_voluntarily_remains_bound
+  label: bound hero who voluntarily remains bound
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero voluntarily accepting bondage suggests self-surrender, vow, duty,
+    or sacrificial restraint rather than ordinary defeat.
+  cautions: If the source emphasizes humility before divine law or cosmic order, covenant
+    or sacred_law may be relevant; if it is an ordeal, initiation may be secondary.
+  suggested_aliases:
+  - voluntary_bondage_of_hero
+  - hero_accepts_binding
+  - self_surrender_through_bondage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bound-monster-until-end-time
+  motif_id: bound_monster_until_end_time
+  label: Bound monster until end-time
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A monster restrained until the eschaton belongs to catastrophic end-time
+    renewal and final release/destruction cycles.
+  cautions: Could also relate to divine_warrior or chaos if the focus is monster combat
+    rather than end-time cosmic renewal.
+  suggested_aliases:
+  - monster_bound_until_end_time
+  - eschatological_bound_monster
+  - chaos_monster_restrained_until_final_age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boundary-deity-controls-gates-of-war-and-peace
+  motif_id: boundary_deity_controls_gates_of_war_and_peace
+  label: Boundary deity controls gates of war and peace
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: A boundary deity controlling gates functions as a guardian or regulator
+    of liminal passage, here applied to war and peace.
+  cautions: Roman civic-ritual specificity may also involve sacred_law, royal_legitimacy,
+    or sacred_combat; review whether the focus is deity role or ritual state of the
+    gates.
+  suggested_aliases:
+  - gate_deity_of_war_and_peace
+  - boundary_god_controls_war_gates
+  - liminal_deity_regulates_war_and_peace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boundary-substance-disrupts-or-diverts-a-swarm
+  motif_id: boundary_substance_disrupts_or_diverts_a_swarm
+  label: boundary substance disrupts or diverts a swarm
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A substance placed at a boundary to avert or divert danger fits apotropaic
+    protection and boundary regulation already folded under sacred_law.
+  cautions: If this is a trickster escape device rather than a ritual/protective practice,
+    trickster may be a better mapping; source evidence needed.
+  suggested_aliases:
+  - apotropaic_boundary_substance_diverts_swarm
+  - protective_boundary_substance
+  - swarm_diverted_by_boundary_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bow-contest-for-penelope
+  motif_id: bow_contest_for_penelope
+  label: Bow contest for Penelope
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A contest for a bride or spouse aligns with existing bride-choice and
+    bride-winning contest motifs under sacred_love.
+  cautions: The Penelope-specific label is over-specific; if the combat-test or weapon
+    mastery is primary, sacred_combat or recognition_tokens_hidden_identity may be
+    secondary.
+  suggested_aliases:
+  - bride_winning_bow_contest
+  - bow_contest_for_bride
+  - weapon_contest_for_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several single-occurrence labels are episode-specific; preserve local details as
+  evidence notes unless recurrence supports canonical promotion.
+- Conflict-bucket labels often map to non-combat groups when the function is threshold
+  control, sacred object empowerment, ritual protection, or bride-winning.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Automated normalization suggestions for wave5c batch 2625; human review recommended
+    for culturally specific or ambiguous single-occurrence items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2625
+  input_sha256: 30819af6ce3dcce3bc8fddedb6b515aebb1580f1bc79c0d7b8c0290f97d50ba8
+

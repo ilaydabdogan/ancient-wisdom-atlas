@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0205
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.grave-mound-as-remembrance-marker
+  motif_id: grave_mound_as_remembrance_marker
+  label: Grave mound as remembrance marker
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: A grave mound functioning as a memorial marker fits burial memorialization
+    and social remembrance of the dead.
+  cautions: Single occurrence; if the passage is only topographic or antiquarian description,
+    treat as evidence detail rather than motif.
+  suggested_aliases:
+  - burial_mound_as_memorial_marker
+  - grave_marker_as_remembrance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grave-offerings-for-a-deceased-child
+  motif_id: grave_offerings_for_a_deceased_child
+  label: grave offerings for a deceased child
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Offerings placed for a deceased person fit ritual care and provisioning
+    of the dead.
+  cautions: Child specificity should be preserved as evidence; review culturally specific
+    mortuary context before broad querying.
+  suggested_aliases:
+  - grave_offerings_for_the_dead
+  - mortuary_offerings_for_deceased_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grave-offerings-for-a-hovering-spirit-and-ghostly-punishment-for-theft
+  motif_id: grave_offerings_for_a_hovering_spirit_and_ghostly_punishment_for_theft
+  label: Grave offerings for a hovering spirit and ghostly punishment for theft
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The active hovering spirit and punishment for theft center on unresolved
+    or vengeful activity of the dead.
+  cautions: Composite label also includes grave offerings; if the passage emphasizes
+    ritual care more than ghostly punishment, ancestor_rites may be a secondary or
+    better placement.
+  suggested_aliases:
+  - ghostly_punishment_for_theft_of_grave_offerings
+  - hovering_spirit_receives_grave_offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grave-provisioning-with-fire-water-and-personal-article
+  motif_id: grave_provisioning_with_fire_water_and_personal_article
+  label: grave provisioning with fire, water, and personal article
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Supplying the grave with provisions and personal items is mortuary care
+    for the dead.
+  cautions: Fire, water, and object details may have local ritual meanings; preserve
+    them rather than reducing to generic offering only.
+  suggested_aliases:
+  - grave_provisioning_for_the_dead
+  - mortuary_provisions_with_personal_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grave-provisions-placed-with-the-deceased
+  motif_id: grave_provisions_placed_with_the_deceased
+  label: grave provisions placed with the deceased
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Placing provisions with the deceased fits ritual feeding, care, or provisioning
+    of the dead.
+  cautions: If provisions are explicitly for an afterlife route, afterlife_passage
+    may be a useful secondary mapping.
+  suggested_aliases:
+  - mortuary_provisions_placed_with_dead
+  - grave_goods_for_the_deceased
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grave-side-continuation-when-arrival-is-too-late-for-the-house-rites
+  motif_id: grave_side_continuation_when_arrival_is_too_late_for_the_house_rites
+  label: grave-side continuation when arrival is too late for the house rites
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Continuing rites at the grave after missing house rites concerns proper
+    funeral sequence and memorial duty.
+  cautions: Highly contextual Confucian ritual detail; may be too specific for broad
+    pattern queries unless similar delayed-rite patterns recur.
+  suggested_aliases:
+  - grave_side_continuation_of_missed_funeral_rites
+  - delayed_arrival_funeral_rite_continued_at_grave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grave-side-mourning-for-delayed-or-post-rite-arrival
+  motif_id: grave_side_mourning_for_delayed_or_post_rite_arrival
+  label: Grave-side mourning for delayed or post-rite arrival
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: The core action is mourning at the grave after delayed arrival, fitting
+    lament and mourning practices.
+  cautions: If the passage emphasizes correct ritual procedure more than grief expression,
+    heroic_funeral_rites may be a secondary placement.
+  suggested_aliases:
+  - delayed_arrival_grave_side_mourning
+  - post_rite_grave_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grave-side-objects-and-contested-corpse-taboo
+  motif_id: grave_side_objects_and_contested_corpse_taboo
+  label: Grave-side objects and contested corpse taboo
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines grave objects, corpse contestation, and taboo without
+    enough evidence to identify the primary function.
+  cautions: Could fit ancestor_rites, heroic_funeral_rites, sacred_law, or sacred_treasures
+    depending on whether the focus is mortuary care, burial conflict, taboo, or power
+    objects.
+  suggested_aliases:
+  - corpse_taboo_and_grave_side_objects
+  - grave_objects_with_contested_corpse_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grave-side-property-removal-and-restricted-inheritance
+  motif_id: grave_side_property_removal_and_restricted_inheritance
+  label: grave-side property removal and restricted inheritance
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe mortuary property rules and inheritance
+    restrictions rather than a clearly recurring mythic motif.
+  cautions: May belong under sacred_law if framed as ritual or social law, ancestor_rites
+    if tied to care of the dead, or be excluded if it is ethnographic/legal detail
+    only.
+  suggested_aliases:
+  - mortuary_property_removal
+  - restricted_inheritance_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grave-sin-arising-from-harmful-treatment-of-dogs
+  motif_id: grave_sin_arising_from_harmful_treatment_of_dogs
+  label: Grave sin arising from harmful treatment of dogs
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A grave sin defined by harmful treatment of dogs fits sacred law, moral
+    prohibition, and ritual-ethical obligation toward animals.
+  cautions: Review Zoroastrian dog purity and funerary context carefully; if the focus
+    is postmortem judgment for sin, divine_judgment may be secondary.
+  suggested_aliases:
+  - sacred_prohibition_against_harming_dogs
+  - harm_to_dogs_as_grave_sin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are mortuary-practice details with single occurrences; preserve local
+  ritual specificity and avoid promoting grave-side subtypes without recurrence.
+- Where grave goods are for ongoing relation with the dead, ancestor_rites is preferred;
+  where the emphasis is formal burial sequence or memorialization, heroic_funeral_rites
+  is preferred.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific mortuary and legal contexts
+    require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0205
+  input_sha256: 474d7b010ca729a6bfceb2db14551afe2faae2c66014ab9377a860ac267f9edc
+

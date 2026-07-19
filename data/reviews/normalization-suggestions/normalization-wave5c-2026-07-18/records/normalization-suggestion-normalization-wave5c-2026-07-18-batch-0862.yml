@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0862
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.healing-through-divine-helper-and-expulsion-formula
+  motif_id: healing_through_divine_helper_and_expulsion_formula
+  label: Healing through divine helper and expulsion formula
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The expulsion formula points to the existing ritual-expulsion/exorcism
+    cluster under sacrifice.
+  cautions: Healing and divine-helper aspects may also fit divine_intervention; confirm
+    that expulsion is central in the passage.
+  suggested_aliases:
+  - healing_by_expulsion_formula
+  - divine_helper_in_healing_exorcism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-through-drumbeat-and-ritual-speech
+  motif_id: healing_through_drumbeat_and_ritual_speech
+  label: Healing through drumbeat and ritual speech
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines healing, ritual sound, and performative speech without
+    a clear existing healing-rite group.
+  cautions: Culturally specific ritual context should be reviewed; may belong with
+    curse_blessing_speech, enchanting_music, sacred_law, or a future ritual-healing
+    group.
+  suggested_aliases:
+  - healing_by_drumbeat_and_ritual_speech
+  - ritual_sound_and_speech_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-through-haoma-associated-priesthood
+  motif_id: healing_through_haoma_associated_priesthood
+  label: healing through Haoma-associated priesthood
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Haoma is a sacred ritual substance, and the healing function is mediated
+    through its priestly association.
+  cautions: If the passage stresses priestly office more than substance, sacred_law
+    or divine_intervention may be secondary.
+  suggested_aliases:
+  - haoma_associated_healing
+  - priestly_healing_through_haoma
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-through-sacred-arrow-swallowing-and-bodily-application
+  motif_id: healing_through_sacred_arrow_swallowing_and_bodily_application
+  label: healing through sacred arrow swallowing and bodily application
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a highly specific healing rite involving a sacred object
+    and bodily action.
+  cautions: Review source evidence and cultural context before mapping; could fit
+    sacred_treasures, sacred_law, or a future ritual-healing group, but may be too
+    specific for broad queries.
+  suggested_aliases:
+  - sacred_arrow_healing_rite
+  - healing_by_sacred_arrow_application
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-through-sacred-word-and-ritual-formula
+  motif_id: healing_through_sacred_word_and_ritual_formula
+  label: Healing through sacred word and ritual formula
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A sacred word or ritual formula that heals is performative sacred speech
+    acting through utterance.
+  cautions: If embedded in broader priestly rite, sacred_law or sacrifice may be secondary
+    mappings.
+  suggested_aliases:
+  - healing_by_sacred_word
+  - healing_ritual_formula
+  - performative_healing_word
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-through-the-holy-word
+  motif_id: healing_through_the_holy_word
+  label: Healing through the holy word
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: Healing occurs through the efficacy of a holy utterance, matching performative
+    sacred speech.
+  cautions: Preserve healing as the local function; do not collapse into general wisdom
+    unless instruction rather than utterance is central.
+  suggested_aliases:
+  - healing_by_holy_word
+  - holy_word_as_healing_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-within-a-fixed-ritual-like-term
+  motif_id: healing_within_a_fixed_ritual_like_term
+  label: Healing within a fixed ritual-like term
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is ambiguous and may describe timing, wording, or an editorial
+    classification of a healing episode.
+  cautions: Could be a passage artifact or over-specific note; review whether a ritual
+    term, fixed duration, or formula is actually motif-relevant.
+  suggested_aliases:
+  - healing_in_fixed_ritual_term
+  - fixed_term_healing_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heart-as-temple-needing-purification
+  motif_id: heart_as_temple_needing_purification
+  label: Heart as temple needing purification
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The purified heart as inner temple fits Sufi interior transformation
+    and the contemplative path.
+  cautions: May also relate to sacred_law or sacrifice if the emphasis is purity discipline
+    rather than mystical interiority.
+  suggested_aliases:
+  - purification_of_the_heart_as_inner_temple
+  - heart_temple_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heart-as-true-sanctuary-of-god
+  motif_id: heart_as_true_sanctuary_of_god
+  label: Heart as true sanctuary of God
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The heart as divine sanctuary is an interiorized sacred-space image central
+    to mystical transformation.
+  cautions: Could secondarily touch world_center if the heart is explicitly treated
+    as cosmic center; avoid treating it as a literal temple motif.
+  suggested_aliases:
+  - heart_as_inner_sanctuary
+  - heart_as_divine_dwelling
+  - heart_as_sanctuary_of_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heartfelt-devotion-over-external-ritual
+  motif_id: heartfelt_devotion_over_external_ritual
+  label: Heartfelt devotion over external ritual
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif privileges inner devotion and transformed orientation over
+    outward ritual performance.
+  cautions: May fit sacred_law or wisdom if framed as ethical teaching rather than
+    mystical interior practice.
+  suggested_aliases:
+  - inner_devotion_over_outer_ritual
+  - heart_devotion_over_external_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to a recurring ritual-healing complex, but the current group
+  set lacks a dedicated healing-rite group; human review should decide whether recurrence
+  warrants a new canonical group later.
+- For culturally specific Indigenous healing labels, avoid broad mapping without source
+  review of ritual role, terminology, and context.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; healing-specific items require careful human
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0862
+  input_sha256: ac4d4ec91491e742bfc025fa80dd32f204332348043ca0239045ddefeb754e14
+

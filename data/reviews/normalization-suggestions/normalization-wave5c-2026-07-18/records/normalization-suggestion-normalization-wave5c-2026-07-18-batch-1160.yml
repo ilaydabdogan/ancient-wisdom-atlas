@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1160
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-water-administered-in-rite
+  motif_id: sacred_water_administered_in_rite
+  label: sacred water administered in rite
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred water used ritually fits the existing sacred_waters group, especially
+    its purification and transformation scope.
+  cautions: Single occurrence; if the rite centers on offering or exchange rather
+    than water's sacred function, sacred_exchange or sacrifice may be secondary.
+  suggested_aliases:
+  - ritual_administration_of_sacred_water
+  - sacred_water_used_in_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-water-as-ritual-recipient
+  motif_id: sacred_water_as_ritual_recipient
+  label: Sacred water as ritual recipient
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif treats water as a sacred ritual focus, which falls within sacred_waters
+    even when the function is not passage.
+  cautions: May also involve sacred_exchange or sacrifice if the passage emphasizes
+    offering to water rather than water as purifier or sacred medium.
+  suggested_aliases:
+  - water_as_ritual_recipient
+  - sacred_water_receives_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-water-causing-frenzy
+  motif_id: sacred_water_causing_frenzy
+  label: Sacred water causing frenzy
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred water that induces altered state is a transformative water motif,
+    best held under sacred_waters.
+  cautions: If frenzy is the main motif, sacred_substance or dream_and_vision may
+    be relevant; verify whether water itself or ecstatic possession is central.
+  suggested_aliases:
+  - frenzy_inducing_sacred_water
+  - sacred_water_induces_ecstasy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-water-confers-protected-status
+  motif_id: sacred_water_confers_protected_status
+  label: Sacred water confers protected status
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Water used to confer protection is a ritualized sacred-water function
+    within the existing sacred_waters group.
+  cautions: If the protected status is legal or taboo-based, sacred_law may be a secondary
+    mapping; if linked to infancy or naming, miraculous_child may need review.
+  suggested_aliases:
+  - protective_sacred_water
+  - water_rite_confers_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-water-drives-away-demons
+  motif_id: sacred_water_drives_away_demons
+  label: Sacred water drives away demons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Demon-expelling sacred water is an apotropaic and purifying function
+    of sacred water.
+  cautions: Could also index under sacred_law for apotropaic protection or sacrifice
+    if part of an exorcistic expulsion rite; preserve demon-expulsion detail.
+  suggested_aliases:
+  - apotropaic_sacred_water
+  - sacred_water_exorcises_demons
+  - demon_expelling_sacred_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-water-libation
+  motif_id: sacred_water_libation
+  label: sacred water libation
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A libation is a ritual act of giving or offering, matching sacred_exchange
+    more directly than water symbolism alone.
+  cautions: Because the substance is water, sacred_waters is an important related
+    group; if framed as sacrifice, sacrifice may be secondary.
+  suggested_aliases:
+  - water_libation
+  - ritual_libation_of_sacred_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-water-recipient-of-sacrifice
+  motif_id: sacred_water_recipient_of_sacrifice
+  label: sacred water recipient of sacrifice
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label explicitly centers sacrifice directed to or involving sacred
+    water, fitting the sacrifice group.
+  cautions: If the passage focuses on water as divine recipient rather than the offering
+    act, sacred_waters or sacred_exchange may also be needed.
+  suggested_aliases:
+  - sacrifice_to_sacred_water
+  - offering_to_sacred_water
+  - sacred_water_receives_sacrifice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-water-setting-for-ritual-petition
+  motif_id: sacred_water_setting_for_ritual_petition
+  label: Sacred water setting for ritual petition
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual petition is a reciprocal sacred act of request or appeal, with
+    water serving as setting or medium.
+  cautions: If water is the main sacred agent rather than merely the ritual setting,
+    map also to sacred_waters; may be too contextual if only a location note.
+  suggested_aliases:
+  - petition_at_sacred_water
+  - ritual_petition_by_sacred_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-water-used-in-ceremonial-rites
+  motif_id: sacred_water_used_in_ceremonial_rites
+  label: Sacred water used in ceremonial rites
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: General ceremonial use of sacred water belongs under sacred_waters as
+    a broad ritual water function.
+  cautions: Broad generated label; retain local rite details and avoid assuming purification,
+    passage, or sacrifice without passage evidence.
+  suggested_aliases:
+  - ceremonial_use_of_sacred_water
+  - sacred_water_in_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-water-used-in-devotional-fast-breaking
+  motif_id: sacred_water_used_in_devotional_fast_breaking
+  label: sacred water used in devotional fast-breaking
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Water consumed in devotional fast-breaking functions as a sacred substance
+    within ritual discipline.
+  cautions: Could also relate to sacred_exchange or mystical_quest if the fast-breaking
+    marks devotion, renunciation, or spiritual discipline; preserve water specificity
+    as evidence.
+  suggested_aliases:
+  - sacred_water_fast_breaking
+  - devotional_fast_breaking_with_sacred_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence ritual-water labels; prefer existing sacred_waters,
+  sacred_exchange, sacrifice, or sacred_substance rather than creating a new group.
+- Several Zoroastrian items may reflect a coherent water-offering ritual complex;
+  human review should decide whether to add aliases under sacred_waters or preserve
+  as rite-specific evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should confirm whether water,
+    offering, protection, purification, or devotional consumption is the central motif.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1160
+  input_sha256: 637851ba309afd8ef5df2847c82c81e3c6c142623c8323d249c2065729b7d1d8
+

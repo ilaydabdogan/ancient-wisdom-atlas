@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0460
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.arrival-from-an-unseen-world-beyond-the-sea
+  motif_id: arrival_from_an_unseen_world_beyond_the_sea
+  label: arrival from an unseen world beyond the sea
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: An unseen world beyond the sea suggests an otherworldly realm adjacent
+    to ordinary reality, reached or entered across water.
+  cautions: If the source emphasizes migration, ancestral origin, or geography rather
+    than an enchanted/nonordinary realm, cosmic_origin or hero_journey may fit better.
+  suggested_aliases:
+  - overseas otherworld arrival
+  - arrival from unseen sea-world
+  - arrival from world beyond the sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-from-distant-places-in-place-name-etymology
+  motif_id: arrival_from_distant_places_in_place_name_etymology
+  label: arrival from distant places in place-name etymology
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The taxonomy already groups place-name etiology and landscape naming
+    under cosmic_origin; arrival is the etiological mechanism here.
+  cautions: May be a local historical migration note rather than mythic etiology;
+    review source evidence before indexing as motif.
+  suggested_aliases:
+  - place-name etiology from arrival
+  - arrival etiology for place name
+  - distant-origin place naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-from-the-south-in-song-text
+  motif_id: arrival_from_the_south_in_song_text
+  label: arrival from the south in song text
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase reads as a song-text detail or directional lyric rather than
+    a reusable narrative motif.
+  cautions: If the song encodes a ritualized origin, migration, or sacred direction
+    motif, it may need human reassessment under hero_journey, cosmic_origin, or sacred_time.
+  suggested_aliases:
+  - southern arrival in song text
+  - arrival from the south lyric
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-of-a-champion-as-comfort-to-a-wounded-castle-group
+  motif_id: arrival_of_a_champion_as_comfort_to_a_wounded_castle_group
+  label: Arrival of a champion as comfort to a wounded castle group
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A champion's arrival to aid or hearten a wounded group fits the heroic-warrior
+    role more than generic journey arrival.
+  cautions: Highly episode-specific; if the focus is quest healing or restoration
+    of a wounded court, human review may prefer hero_journey or divine_intervention.
+  suggested_aliases:
+  - champion arrives to comfort wounded company
+  - arrival of champion to wounded court
+  - hero arrives as comfort to the wounded
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-of-a-suitor-as-husband-for-a-princess
+  motif_id: arrival_of_a_suitor_as_husband_for_a_princess
+  label: Arrival of a suitor as husband for a princess
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already includes bride choice and bride-winning patterns; arrival
+    of the future husband is a marriage/suitor variant.
+  cautions: If no courtship, test, sacred marriage, or bride-choice function is present,
+    this may be an ordinary plot detail and too specific for motif queries.
+  suggested_aliases:
+  - suitor arrives as destined husband
+  - arrival of husband-suitor
+  - princess receives arriving suitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-of-allies-changes-balance-of-battle
+  motif_id: arrival_of_allies_changes_balance_of_battle
+  label: arrival of allies changes balance of battle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif's function is tactical reversal in battle, which belongs under
+    sacred combat rather than journey arrival.
+  cautions: If the allies are explicitly divine or supernatural, divine_warrior or
+    divine_intervention may be a secondary mapping.
+  suggested_aliases:
+  - timely arrival of allies in battle
+  - reinforcements turn the battle
+  - allied arrival changes battle outcome
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-of-armed-hosts-at-a-mound
+  motif_id: arrival_of_armed_hosts_at_a_mound
+  label: arrival of armed hosts at a mound
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines armed host movement with a mound, which could be combat,
+    otherworld threshold, burial place, or landscape setting.
+  cautions: Irish mounds may be otherworldly or funerary thresholds; source context
+    is required before mapping to sacred_combat, otherworld, axis_mundi, or heroic_funeral_rites.
+  suggested_aliases:
+  - armed host arrives at mound
+  - war band at mound
+  - host arrival at burial mound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-of-foreign-newcomers-recorded-in-dated-sequence
+  motif_id: arrival_of_foreign_newcomers_recorded_in_dated_sequence
+  label: arrival of foreign newcomers recorded in dated sequence
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording foregrounds chronicle/date recording of newcomers, suggesting
+    historical or textual notice rather than a symbolic motif.
+  cautions: If the passage presents divine ancestors, origin migration, or calendrical-sacred
+    arrival, human review may map it to cosmic_origin, divine_race, or sacred_time.
+  suggested_aliases:
+  - dated record of foreign arrival
+  - chronicle of newcomer arrival
+  - foreign newcomers in dated sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-of-guests-relieving-royal-sadness
+  motif_id: arrival_of_guests_relieving_royal_sadness
+  label: arrival of guests relieving royal sadness
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The arrival of guests whose reception changes the royal household's emotional
+    state fits the guest/hospitality motif complex.
+  cautions: If there is no hospitality obligation or stranger-test function, this
+    may be a scene-level courtly detail; royal_legitimacy or lament_and_mourning could
+    be relevant depending on context.
+  suggested_aliases:
+  - guests arrive and relieve royal grief
+  - guest arrival consoles the king
+  - arrival of visitors ends royal sadness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-of-indians-upon-earth
+  motif_id: arrival_of_indians_upon_earth
+  label: Arrival of Indians upon Earth
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Arrival of a people upon Earth is an origin-of-peoples motif, already
+    represented in cosmic_origin children and aliases.
+  cautions: Use culturally appropriate source terminology in review; if the narrative
+    concerns emergence from another realm rather than people-origin etiology, otherworld
+    or descent/ascent may be secondary.
+  suggested_aliases:
+  - arrival of a people upon earth
+  - people arrive on earth
+  - origin arrival of humans on earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence 'arrival' scenes; review should distinguish
+  plot movement from origin etiology, otherworld passage, hospitality, and combat
+  reversal.
+- Avoid treating directional or dated textual details as motifs unless the source
+  passage gives them ritual, cosmological, or narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; items with local place, date, or song-text wording
+    need source-level verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0460
+  input_sha256: d628e76680a5a5392882a04597f95a4290190e312fb0ca3d6f226c7e14378344
+

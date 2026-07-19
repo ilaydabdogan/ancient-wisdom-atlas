@@ -1,0 +1,359 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3209
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cannibal-feast-governed-by-eligibility-and-abstinence-rules
+  motif_id: cannibal_feast_governed_by_eligibility_and_abstinence_rules
+  label: cannibal feast governed by eligibility and abstinence rules
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe culturally specific ritual rules around
+    a cannibal feast, but its function is unclear from the label alone.
+  cautions: Culturally sensitive and single occurrence; requires source review before
+    deciding whether this is ritual law, sacrifice, taboo, hostile ethnographic framing,
+    or a passage artifact.
+  suggested_aliases:
+  - cannibal feast rules
+  - ritual cannibal feast restrictions
+  - abstinence rules for cannibal feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacrifice
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-giant-or-man-eater-encounter
+  motif_id: cannibal_giant_or_man_eater_encounter
+  label: cannibal giant or man-eater encounter
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cannibal Ogre and Man-Eater Antagonist
+  relationship: child
+  confidence: medium
+  rationale: The label fits a recurring hostile encounter with a cannibal giant or
+    man-eater, not well covered by existing combat or threshold groups.
+  cautions: Confirm whether the antagonist functions as monster, outsider, predator,
+    threshold guardian, or culturally specific being before promotion.
+  suggested_aliases:
+  - cannibal giant encounter
+  - man-eater encounter
+  - ogre encounter
+  suggested_new_group:
+    id: cannibal_ogre_man_eater
+    label: Cannibal Ogre and Man-Eater Antagonist
+    description: Cannibal giants, ogres, man-eaters, or monstrous human-eating beings
+      threaten, hunt, lure, host, swallow, or assault humans as predatory antagonists.
+    parent_group_ids:
+    - threshold_guardian
+    related_group_ids:
+    - sacred_combat
+    - trickster
+    - hospitality_test_stranger_guest
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups cover combat, predatory trickery,
+      or threshold danger, but not the repeated man-eating monster/ogre role itself.
+- suggestion_id: normalization.suggestion.cannibal-giant-or-monstrous-eater
+  motif_id: cannibal_giant_or_monstrous_eater
+  label: Cannibal giant or monstrous eater
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cannibal Ogre and Man-Eater Antagonist
+  relationship: alias
+  confidence: medium
+  rationale: This is a close label variant of the cannibal giant/man-eater antagonist
+    pattern.
+  cautions: May overlap with named Greek monster episodes; preserve local monster
+    identity in evidence notes.
+  suggested_aliases:
+  - cannibal giant
+  - monstrous eater
+  - man-eating giant
+  suggested_new_group:
+    id: cannibal_ogre_man_eater
+    label: Cannibal Ogre and Man-Eater Antagonist
+    description: Cannibal giants, ogres, man-eaters, or monstrous human-eating beings
+      threaten, hunt, lure, host, swallow, or assault humans as predatory antagonists.
+    parent_group_ids:
+    - threshold_guardian
+    related_group_ids:
+    - sacred_combat
+    - trickster
+    - hospitality_test_stranger_guest
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups cover combat, predatory trickery,
+      or threshold danger, but not the repeated man-eating monster/ogre role itself.
+- suggestion_id: normalization.suggestion.cannibal-magician-as-isolated-host
+  motif_id: cannibal_magician_as_isolated_host
+  label: cannibal magician as isolated host
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cannibal Ogre and Man-Eater Antagonist
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cannibal magician who hosts in isolation fits the man-eater antagonist
+    complex with an inverted hospitality or dangerous-host function.
+  cautions: Could also index under hospitality_test_stranger_guest if the passage
+    centers on guest-host obligation; review whether magician identity is essential
+    or incidental.
+  suggested_aliases:
+  - cannibal host
+  - isolated cannibal host
+  - man-eating magician host
+  suggested_new_group:
+    id: cannibal_ogre_man_eater
+    label: Cannibal Ogre and Man-Eater Antagonist
+    description: Cannibal giants, ogres, man-eaters, or monstrous human-eating beings
+      threaten, hunt, lure, host, swallow, or assault humans as predatory antagonists.
+    parent_group_ids:
+    - threshold_guardian
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - trickster
+    - sacred_combat
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups cover hospitality tests and
+      deceptive predators separately, but not the recurring cannibal host/man-eater
+      antagonist role.
+- suggestion_id: normalization.suggestion.cannibal-magician-or-giant-as-threatening-outsider
+  motif_id: cannibal_magician_or_giant_as_threatening_outsider
+  label: cannibal magician or giant as threatening outsider
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cannibal Ogre and Man-Eater Antagonist
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on a cannibal magician or giant as a dangerous outsider,
+    matching the proposed man-eater antagonist role.
+  cautions: Outsider framing may be culturally or socially loaded; verify source context
+    before using in broad comparison.
+  suggested_aliases:
+  - cannibal outsider
+  - man-eating outsider
+  - cannibal giant outsider
+  suggested_new_group:
+    id: cannibal_ogre_man_eater
+    label: Cannibal Ogre and Man-Eater Antagonist
+    description: Cannibal giants, ogres, man-eaters, or monstrous human-eating beings
+      threaten, hunt, lure, host, swallow, or assault humans as predatory antagonists.
+    parent_group_ids:
+    - threshold_guardian
+    related_group_ids:
+    - sacred_combat
+    - trickster
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups do not capture the repeated
+      predatory outsider role of cannibal giants, magicians, or man-eaters.
+- suggestion_id: normalization.suggestion.cannibal-ogre-assault-at-a-harbour
+  motif_id: cannibal_ogre_assault_at_a_harbour
+  label: cannibal ogre assault at a harbour
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cannibal Ogre and Man-Eater Antagonist
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The cannibal ogre element fits the proposed group, while the harbour
+    assault setting is likely passage-specific evidence.
+  cautions: Do not promote the harbour setting unless it recurs; may also involve
+    sea-travel peril or sacred combat depending on passage details.
+  suggested_aliases:
+  - cannibal ogre assault
+  - ogre attack at harbour
+  - man-eater harbour attack
+  suggested_new_group:
+    id: cannibal_ogre_man_eater
+    label: Cannibal Ogre and Man-Eater Antagonist
+    description: Cannibal giants, ogres, man-eaters, or monstrous human-eating beings
+      threaten, hunt, lure, host, swallow, or assault humans as predatory antagonists.
+    parent_group_ids:
+    - threshold_guardian
+    related_group_ids:
+    - sacred_combat
+    - sacred_waters
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups can cover combat or maritime
+      setting, but not the cannibal ogre antagonist as a repeated role.
+- suggestion_id: normalization.suggestion.cannibal-or-man-eater-antagonist
+  motif_id: cannibal_or_man_eater_antagonist
+  label: Cannibal or man-eater antagonist
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cannibal Ogre and Man-Eater Antagonist
+  relationship: alias
+  confidence: high
+  rationale: This is the clearest broad label for the proposed cannibal/man-eater
+    antagonist group.
+  cautions: Review culturally specific being names and avoid flattening distinct Indigenous
+    traditions into a generic monster type.
+  suggested_aliases:
+  - man-eater antagonist
+  - cannibal antagonist
+  - human-eating antagonist
+  suggested_new_group:
+    id: cannibal_ogre_man_eater
+    label: Cannibal Ogre and Man-Eater Antagonist
+    description: Cannibal giants, ogres, man-eaters, or monstrous human-eating beings
+      threaten, hunt, lure, host, swallow, or assault humans as predatory antagonists.
+    parent_group_ids:
+    - threshold_guardian
+    related_group_ids:
+    - sacred_combat
+    - trickster
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups do not provide a stable home
+      for recurring human-eating antagonists across traditions.
+- suggestion_id: normalization.suggestion.cannibal-or-ogre-who-swallows-humans-whole
+  motif_id: cannibal_or_ogre_who_swallows_humans_whole
+  label: cannibal or ogre who swallows humans whole
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cannibal Ogre and Man-Eater Antagonist
+  relationship: functional_variant
+  confidence: medium
+  rationale: Swallowing humans whole is a specific predatory action within the cannibal
+    ogre/man-eater complex.
+  cautions: If the swallowed victims are later released or transformed, death_and_transformation
+    or initiation may be relevant secondarily.
+  suggested_aliases:
+  - ogre swallows humans whole
+  - man-eater swallows humans
+  - swallowing ogre
+  suggested_new_group:
+    id: cannibal_ogre_man_eater
+    label: Cannibal Ogre and Man-Eater Antagonist
+    description: Cannibal giants, ogres, man-eaters, or monstrous human-eating beings
+      threaten, hunt, lure, host, swallow, or assault humans as predatory antagonists.
+    parent_group_ids:
+    - threshold_guardian
+    related_group_ids:
+    - death_and_transformation
+    - trickster
+    - sacred_combat
+    reason_existing_groups_insufficient: The taxonomy has predator-deception details
+      but no broad group for man-eating ogres and their ingestion threats.
+- suggestion_id: normalization.suggestion.cannibal-or-siren-like-demon-lures-humans-to-destruction
+  motif_id: cannibal_or_siren_like_demon_lures_humans_to_destruction
+  label: Cannibal or siren-like demon lures humans to destruction
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: The core function is a lethal lure by a liminal or demonic being, which
+    matches existing threshold_guardian children for perilous lures and dangerous
+    singers.
+  cautions: If cannibalism is the dominant narrative role rather than luring across
+    a threshold, also relate to the proposed cannibal_ogre_man_eater group.
+  suggested_aliases:
+  - siren-like demon lure
+  - cannibal demon lure
+  - demon lures humans to destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-people-hunt-humans-as-food
+  motif_id: cannibal_people_hunt_humans_as_food
+  label: cannibal people hunt humans as food
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cannibal Ogre and Man-Eater Antagonist
+  relationship: role_variant
+  confidence: medium
+  rationale: A group of cannibal people hunting humans has the same man-eater antagonist
+    function, though collective rather than individual.
+  cautions: Culturally sensitive and potentially ethnographic; verify whether this
+    is a mythic antagonist people, social othering, or source commentary.
+  suggested_aliases:
+  - cannibal people hunt humans
+  - human-hunting cannibals
+  - man-eating people
+  suggested_new_group:
+    id: cannibal_ogre_man_eater
+    label: Cannibal Ogre and Man-Eater Antagonist
+    description: Cannibal giants, ogres, man-eaters, or monstrous human-eating beings
+      threaten, hunt, lure, host, swallow, or assault humans as predatory antagonists.
+    parent_group_ids:
+    - threshold_guardian
+    related_group_ids:
+    - sacred_combat
+    - otherworld
+    - trickster
+    reason_existing_groups_insufficient: Existing groups do not capture collective
+      human-eating antagonist peoples without reducing them to generic combat or predator
+      trickery.
+batch_notes:
+- This batch contains a coherent cluster of cannibal/man-eater antagonist labels across
+  several traditions; reviewers may consider a new canonical normalization group while
+  preserving culturally specific being names in evidence notes.
+- Cannibalism labels are culturally sensitive and may reflect hostile outsider framing,
+  colonial-era terminology, or source-specific ethnography; source passages should
+  be checked before broad comparative indexing.
+- Only the siren-like lure item clearly maps to an existing group, threshold_guardian,
+  because the lure-to-destruction function is already represented there.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review recommended for cultural sensitivity
+    and source context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3209
+  input_sha256: 4b4878b69197ce3bde09091620bae10955ebb106a5ad94616a0e0344e1057a63
+

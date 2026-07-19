@@ -1,0 +1,375 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1872
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.human-flesh-portion-used-for-hoped-for-child-strength
+  motif_id: human_flesh_portion_used_for_hoped_for_child_strength
+  label: Human flesh portion used for hoped-for child strength
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines human remains or flesh, fertility or child-strength
+    hope, and possible ritual ingestion or transfer, but the function is unclear from
+    wording alone.
+  cautions: Culturally sensitive and single occurrence; review source evidence before
+    mapping to sacrifice, sacred_substance, sacred_law, or birth-related motifs.
+  suggested_aliases:
+  - human_flesh_used_to_transfer_strength_to_child
+  - ritual_use_of_human_flesh_for_child_strength
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - sacred_substance
+    - miraculous_child
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-foster-mother-raises-an-animal-child
+  motif_id: human_foster_mother_raises_an_animal_child
+  label: Human foster-mother raises an animal child
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Human-Animal Kinship, Marriage, and Offspring
+  relationship: child
+  confidence: medium
+  rationale: A human foster mother raising an animal child belongs to a recurring
+    cross-species kinship complex not cleanly covered by miraculous_child or shapeshifter.
+  cautions: Verify whether the animal child is literally animal, transformed human,
+    adopted helper, clan ancestor, or etiological figure before final placement.
+  suggested_aliases:
+  - human_foster_parent_of_animal_child
+  - cross_species_foster_kinship
+  suggested_new_group:
+    id: human_animal_kinship_marriage_offspring
+    label: Human-Animal Kinship, Marriage, and Offspring
+    description: Cross-species family relations in which humans marry, foster, bear,
+      or raise animal or nonhuman spouses and children, often producing marked offspring,
+      clan ancestry, transformation, or boundary crossing between human and animal
+      worlds.
+    parent_group_ids:
+    - sacred_love
+    - miraculous_child
+    related_group_ids:
+    - shapeshifter
+    - otherworld
+    - sacred_twins
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover love, sacred birth,
+      and shapeshifting separately, but they do not preserve the recurring kinship
+      structure of human-animal marriage, fosterage, and offspring.
+- suggestion_id: normalization.suggestion.human-marriage-into-an-otter-underwater-household
+  motif_id: human_marriage_into_an_otter_underwater_household
+  label: Human marriage into an otter underwater household
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Human-Animal Kinship, Marriage, and Offspring
+  relationship: child
+  confidence: medium
+  rationale: The core pattern is a human entering animal/nonhuman marriage and household
+    relations, with underwater setting adding otherworldly context.
+  cautions: Could also index secondarily to otherworld or sacred_waters if the underwater
+    household is the main narrative function.
+  suggested_aliases:
+  - human_otter_marriage
+  - marriage_into_animal_underwater_household
+  suggested_new_group:
+    id: human_animal_kinship_marriage_offspring
+    label: Human-Animal Kinship, Marriage, and Offspring
+    description: Cross-species family relations in which humans marry, foster, bear,
+      or raise animal or nonhuman spouses and children, often producing marked offspring,
+      clan ancestry, transformation, or boundary crossing between human and animal
+      worlds.
+    parent_group_ids:
+    - sacred_love
+    - miraculous_child
+    related_group_ids:
+    - shapeshifter
+    - otherworld
+    - sacred_waters
+    reason_existing_groups_insufficient: Existing sacred_love and otherworld groups
+      do not by themselves preserve the cross-species kinship and household structure.
+- suggestion_id: normalization.suggestion.human-marriage-with-a-grizzly-bear
+  motif_id: human_marriage_with_a_grizzly_bear
+  label: human marriage with a grizzly bear
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Human-Animal Kinship, Marriage, and Offspring
+  relationship: child
+  confidence: medium
+  rationale: Human marriage with a bear is a cross-species spouse motif, better preserved
+    as animal kinship than as generic sacred love.
+  cautions: Review whether the bear is an animal, transformed person, spirit-being,
+    ancestor, or clan figure; placement may need culturally specific care.
+  suggested_aliases:
+  - bear_spouse
+  - human_bear_marriage
+  - human_marriage_with_bear
+  suggested_new_group:
+    id: human_animal_kinship_marriage_offspring
+    label: Human-Animal Kinship, Marriage, and Offspring
+    description: Cross-species family relations in which humans marry, foster, bear,
+      or raise animal or nonhuman spouses and children, often producing marked offspring,
+      clan ancestry, transformation, or boundary crossing between human and animal
+      worlds.
+    parent_group_ids:
+    - sacred_love
+    - miraculous_child
+    related_group_ids:
+    - shapeshifter
+    - otherworld
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups lack a stable home for animal
+      spouse and cross-species family motifs.
+- suggestion_id: normalization.suggestion.human-mother-of-animal-offspring
+  motif_id: human_mother_of_animal_offspring
+  label: Human mother of animal offspring
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Human-Animal Kinship, Marriage, and Offspring
+  relationship: child
+  confidence: medium
+  rationale: A human mother bearing animal offspring is a cross-species birth and
+    kinship motif, related to but narrower than miraculous_child.
+  cautions: Could involve transformation, taboo violation, animal ancestry, or etiological
+    origin; source evidence should determine secondary mappings.
+  suggested_aliases:
+  - human_woman_bears_animal_children
+  - animal_offspring_of_human_mother
+  suggested_new_group:
+    id: human_animal_kinship_marriage_offspring
+    label: Human-Animal Kinship, Marriage, and Offspring
+    description: Cross-species family relations in which humans marry, foster, bear,
+      or raise animal or nonhuman spouses and children, often producing marked offspring,
+      clan ancestry, transformation, or boundary crossing between human and animal
+      worlds.
+    parent_group_ids:
+    - miraculous_child
+    - sacred_love
+    related_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    reason_existing_groups_insufficient: Miraculous_child captures extraordinary birth,
+      but not the specific recurring cross-species family relation.
+- suggestion_id: normalization.suggestion.human-nonhuman-union-produces-a-marked-child
+  motif_id: human_nonhuman_union_produces_a_marked_child
+  label: Human-nonhuman union produces a marked child
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Human-Animal Kinship, Marriage, and Offspring
+  relationship: child
+  confidence: medium
+  rationale: The label explicitly combines human-nonhuman union with distinctive offspring,
+    matching a cross-species or nonhuman spouse kinship complex.
+  cautions: If the emphasis is the child's destiny rather than the union, miraculous_child
+    may be the primary group; if the nonhuman is divine, sacred_birth may also apply.
+  suggested_aliases:
+  - marked_child_from_human_nonhuman_union
+  - human_nonhuman_parentage_marks_child
+  suggested_new_group:
+    id: human_animal_kinship_marriage_offspring
+    label: Human-Animal Kinship, Marriage, and Offspring
+    description: Cross-species family relations in which humans marry, foster, bear,
+      or raise animal or nonhuman spouses and children, often producing marked offspring,
+      clan ancestry, transformation, or boundary crossing between human and animal
+      worlds.
+    parent_group_ids:
+    - miraculous_child
+    - sacred_love
+    related_group_ids:
+    - shapeshifter
+    - sacred_birth
+    - culture_hero
+    reason_existing_groups_insufficient: Existing sacred birth and miraculous child
+      groups do not preserve the nonhuman-union family structure as a distinct query
+      facet.
+- suggestion_id: normalization.suggestion.human-remains-as-vessel-or-dust-of-former-beauty
+  motif_id: human_remains_as_vessel_or_dust_of_former_beauty
+  label: human remains as vessel or dust of former beauty
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In a Sufi context, bodily remains or dust of former beauty likely functions
+    as impermanence and contemplative detachment from worldly form.
+  cautions: If the passage emphasizes grief or tragic loss, lament_and_mourning may
+    fit; if it emphasizes postmortem transformation of the body, death_and_transformation
+    may be secondary.
+  suggested_aliases:
+  - dust_of_former_beauty
+  - human_beauty_reduced_to_dust
+  - body_as_remains_of_passing_beauty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - lament_and_mourning
+    - beauty_and_paradox
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-wives-give-birth-to-animal-offspring
+  motif_id: human_wives_give_birth_to_animal_offspring
+  label: Human wives give birth to animal offspring
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Human-Animal Kinship, Marriage, and Offspring
+  relationship: child
+  confidence: medium
+  rationale: Human wives bearing animal offspring is a cross-species birth motif and
+    close variant of human mother of animal offspring.
+  cautions: Check whether this is a curse, transformation, animal ancestry, miraculous
+    birth, or etiological episode before final indexing.
+  suggested_aliases:
+  - wives_bear_animal_children
+  - human_women_give_birth_to_animal_offspring
+  suggested_new_group:
+    id: human_animal_kinship_marriage_offspring
+    label: Human-Animal Kinship, Marriage, and Offspring
+    description: Cross-species family relations in which humans marry, foster, bear,
+      or raise animal or nonhuman spouses and children, often producing marked offspring,
+      clan ancestry, transformation, or boundary crossing between human and animal
+      worlds.
+    parent_group_ids:
+    - miraculous_child
+    - sacred_love
+    related_group_ids:
+    - shapeshifter
+    - divine_judgment
+    - cosmic_origin
+    reason_existing_groups_insufficient: Miraculous_child is too broad and does not
+      preserve the cross-species offspring pattern.
+- suggestion_id: normalization.suggestion.human-woman-and-animal-husband-produce-offspring
+  motif_id: human_woman_and_animal_husband_produce_offspring
+  label: Human woman and animal husband produce offspring
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Human-Animal Kinship, Marriage, and Offspring
+  relationship: child
+  confidence: high
+  rationale: This directly states animal spouse union and offspring, the central structure
+    of a human-animal kinship group.
+  cautions: Review whether animal husband is a true animal, spirit, transformed human,
+    or clan ancestor; avoid flattening local meanings.
+  suggested_aliases:
+  - animal_husband_and_human_wife_have_children
+  - human_animal_spouse_offspring
+  suggested_new_group:
+    id: human_animal_kinship_marriage_offspring
+    label: Human-Animal Kinship, Marriage, and Offspring
+    description: Cross-species family relations in which humans marry, foster, bear,
+      or raise animal or nonhuman spouses and children, often producing marked offspring,
+      clan ancestry, transformation, or boundary crossing between human and animal
+      worlds.
+    parent_group_ids:
+    - sacred_love
+    - miraculous_child
+    related_group_ids:
+    - shapeshifter
+    - otherworld
+    - culture_hero
+    reason_existing_groups_insufficient: No existing group cleanly combines animal
+      spouse, human marriage, and offspring as a recurring narrative function.
+- suggestion_id: normalization.suggestion.human-woman-and-bear-spouse-with-two-children
+  motif_id: human_woman_and_bear_spouse_with_two_children
+  label: human woman and Bear spouse with two children
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Human-Animal Kinship, Marriage, and Offspring
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The useful recurring motif is human-bear marriage producing children;
+    the number of children is likely passage-specific detail.
+  cautions: Preserve the two-child detail as evidence but avoid making it a canonical
+    distinction unless it recurs across sources.
+  suggested_aliases:
+  - human_bear_spouse_with_children
+  - bear_spouse_and_human_woman_have_children
+  - human_woman_bear_husband_offspring
+  suggested_new_group:
+    id: human_animal_kinship_marriage_offspring
+    label: Human-Animal Kinship, Marriage, and Offspring
+    description: Cross-species family relations in which humans marry, foster, bear,
+      or raise animal or nonhuman spouses and children, often producing marked offspring,
+      clan ancestry, transformation, or boundary crossing between human and animal
+      worlds.
+    parent_group_ids:
+    - sacred_love
+    - miraculous_child
+    related_group_ids:
+    - shapeshifter
+    - otherworld
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups lack a stable facet for animal
+      spouse families; sacred_love alone would lose the animal-kinship structure.
+batch_notes:
+- Several labels in this batch cluster around human-animal or human-nonhuman marriage,
+  fosterage, and offspring. A new normalization group would preserve this recurring
+  kinship structure without forcing it into generic sacred_love, miraculous_child,
+  or shapeshifter.
+- 'Use secondary mappings after source review: otherworld for underwater or spirit
+  households, shapeshifter for transformed spouses or children, miraculous_child for
+  destiny-marked offspring, and cosmic_origin/culture_hero where the offspring establish
+  ancestry or social order.'
+- Avoid transmission or origin claims; these are taxonomy placement suggestions only.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions; culturally sensitive and single-occurrence
+    items need source-level human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1872
+  input_sha256: 7bfd8332765e619b293194c644a0a480d84052a306837a28ee5ca485c05b6b88
+

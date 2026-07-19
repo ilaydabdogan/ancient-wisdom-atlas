@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1431
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.required-liturgical-speech-by-the-separated-person
+  motif_id: required_liturgical_speech_by_the_separated_person
+  label: required liturgical speech by the separated person
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: low
+  rationale: Required sacred speech may function as a binding liturgical utterance,
+    but the phrase depends on ritual context.
+  cautions: Single occurrence; 'separated person' may refer to a culturally specific
+    purity or mortuary status needing source review.
+  suggested_aliases:
+  - required_liturgical_utterance
+  - ritual_speech_by_separated_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-through-weather-invoking-song
+  motif_id: rescue_through_weather_invoking_song
+  label: Rescue through weather-invoking song
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Song acts as an efficacious supernatural force producing weather and
+    rescue.
+  cautions: May also involve divine_intervention or sacred_waters/weather context;
+    avoid flattening local ceremonial meaning.
+  suggested_aliases:
+  - weather_invoking_song_rescue
+  - song_summons_weather_for_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.resource-directed-migration-between-named-stations
+  motif_id: resource_directed_migration_between_named_stations
+  label: resource-directed migration between named stations
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like ethnographic/geographic itinerary detail rather
+    than a symbolic or narrative motif.
+  cautions: If passage shows a sacred migration, ancestral route, or quest structure,
+    reconsider under hero_journey or sacred_geography; named stations should remain
+    evidence detail.
+  suggested_aliases:
+  - migration_between_named_stations
+  - resource_guided_travel_route
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-authentic-teaching-against-false-attribution
+  motif_id: restoration_of_authentic_teaching_against_false_attribution
+  label: Restoration of authentic teaching against false attribution
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns preservation and correction of sacred teaching and
+    attribution.
+  cautions: Could be a textual or sectarian commentary artifact if no narrative action
+    is present; review source evidence before broad indexing.
+  suggested_aliases:
+  - authentic_teaching_restored
+  - false_attribution_corrected_in_sacred_teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restorative-water-from-a-dream-helper
+  motif_id: restorative_water_from_a_dream_helper
+  label: restorative water from a dream helper
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dream helper provides restorative aid through dream-mediated revelation
+    or altered perception.
+  cautions: Water's restorative function may also support sacred_waters or divine_intervention;
+    source should determine primary emphasis.
+  suggested_aliases:
+  - healing_water_from_dream_helper
+  - dream_helper_provides_restorative_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restraint-in-speech-toward-enemies-after-injury
+  motif_id: restraint_in_speech_toward_enemies_after_injury
+  label: restraint in speech toward enemies after injury
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: low
+  rationale: Speech restraint after harm is an ethical-social discipline rather than
+    revelatory speech.
+  cautions: May be an over-specific heroic conduct detail; if framed as oath, curse
+    avoidance, or binding utterance, curse_blessing_speech may fit better.
+  suggested_aliases:
+  - speech_restraint_after_injury
+  - ethical_restraint_toward_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restricted-ceremonial-song-requiring-qualification
+  motif_id: restricted_ceremonial_song_requiring_qualification
+  label: restricted ceremonial song requiring qualification
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label concerns ritual restriction and qualification for performing
+    sacred song.
+  cautions: Culturally sensitive ceremonial knowledge; source review needed to avoid
+    exposing or flattening restricted traditions. Could also relate to enchanting_music
+    or sacred_knowledge.
+  suggested_aliases:
+  - qualified_performance_of_ceremonial_song
+  - restricted_sacred_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restricted-disclosure-of-sorcery-knowledge-under-legal-pressure
+  motif_id: restricted_disclosure_of_sorcery_knowledge_under_legal_pressure
+  label: restricted disclosure of sorcery knowledge under legal pressure
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: forbidden_knowledge
+  suggested_group_label: Forbidden Knowledge
+  relationship: narrower_than
+  confidence: low
+  rationale: Restricted disclosure of dangerous esoteric knowledge aligns with forbidden
+    or controlled knowledge.
+  cautions: Legal-pressure and sorcery terms require cultural and source-context review;
+    may be ethnographic/legal commentary rather than a motif.
+  suggested_aliases:
+  - restricted_sorcery_knowledge_disclosure
+  - controlled_disclosure_of_dangerous_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restricted-names-as-group-badges-or-property
+  motif_id: restricted_names_as_group_badges_or_property
+  label: restricted names as group badges or property
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: low
+  rationale: Restricted names function as controlled knowledge tied to identity and
+    group authority.
+  cautions: May be a culturally specific ownership/status rule rather than a narrative
+    motif; handle restricted names with care.
+  suggested_aliases:
+  - restricted_names_as_group_property
+  - sacred_names_as_group_badges
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restricted-performance-of-ceremonial-songs
+  motif_id: restricted_performance_of_ceremonial_songs
+  label: restricted performance of ceremonial songs
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif centers on ritual regulation of who may perform ceremonial
+    song.
+  cautions: Likely overlaps with restricted_ceremonial_song_requiring_qualification;
+    culturally sensitive ceremonial restrictions need human review.
+  suggested_aliases:
+  - restricted_ceremonial_song_performance
+  - regulated_performance_of_sacred_songs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items concern restricted or culturally sensitive ceremonial knowledge; these
+  should remain provisional until source specialists review usage and access constraints.
+- Two Native American Plains song-restriction labels appear near-duplicates and may
+  be merged as aliases after human review.
+- Single-occurrence labels with legal, ethnographic, or named-route wording may be
+  passage artifacts rather than durable motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1431
+  input_sha256: 2adce0ff6876faeb77278bf77c29e82aaa9fcefc0ce22eb73de4767e33a81cc5
+

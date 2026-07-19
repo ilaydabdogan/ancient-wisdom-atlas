@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0282
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.obscured-ancestral-signs
+  motif_id: obscured_ancestral_signs
+  label: obscured ancestral signs
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label implies ancestral signs or tokens, but does not state whether
+    these are omens, lineage markers, ritual traces, or textual interpretation.
+  cautions: Single occurrence and culturally specific; source context is needed before
+    choosing ancestor_rites, prophecy_divination, sacred_knowledge, or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - hidden ancestral signs
+  - obscured signs of ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obstacles-on-the-spiritual-path
+  motif_id: obstacles_on_the_spiritual_path
+  label: Obstacles on the spiritual path
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Spiritual obstacles function as trials on a seeker’s interior or contemplative
+    path toward liberation or knowledge.
+  cautions: Broad doctrinal wording; if the passage describes a formal ordeal or rite
+    of passage, initiation may be a secondary fit.
+  suggested_aliases:
+  - spiritual path obstacles
+  - hindrances on the path
+  - obstacles to liberation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.occult-mastery-over-weather-sickness-animals-hidden-knowledge-and-the-dead
+  motif_id: occult_mastery_over_weather_sickness_animals_hidden_knowledge_and_the_dead
+  label: Occult mastery over weather, sickness, animals, hidden knowledge, and the
+    dead
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: 'The label combines several powers: weather control, healing or sickness,
+    animal mastery, hidden knowledge, and dealings with the dead.'
+  cautions: Composite and potentially culturally sensitive wording; review source
+    evidence before splitting across sacred_knowledge, divine_intervention, ancestor_rites,
+    prophecy_divination, or ritual healing categories.
+  suggested_aliases:
+  - mastery over weather sickness animals hidden knowledge and the dead
+  - ritual mastery over hidden knowledge and the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.offended-skull-becomes-dead-suitor
+  motif_id: offended_skull_becomes_dead_suitor
+  label: offended skull becomes dead suitor
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An offended skull becoming an active dead suitor suggests the dead return
+    or act when disturbed or socially unresolved.
+  cautions: If the suitor role is primarily marital, abduction, or taboo-marriage
+    narrative, sacred_love or threshold_guardian may be relevant as secondary context.
+  suggested_aliases:
+  - offended skull returns as dead suitor
+  - skull transformed into dead suitor
+  - dead suitor from offended skull
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.offering-to-tree-dwelling-spirits-before-building
+  motif_id: offering_to_tree_dwelling_spirits_before_building
+  label: Offering to tree-dwelling spirits before building
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An offering to spirits before construction is a reciprocal ritual act
+    meant to establish or repair relations with local sacred powers.
+  cautions: Tree-dwelling spirits may also relate to axis_mundi or sacred_law if the
+    passage emphasizes sacred trees or required building taboos rather than offering
+    exchange.
+  suggested_aliases:
+  - building offering to tree spirits
+  - pre-construction offering to tree spirits
+  - offering before building to tree-dwelling spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.offerings-of-food-and-drink-to-the-corpse
+  motif_id: offerings_of_food_and_drink_to_the_corpse
+  label: offerings of food and drink to the corpse
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Food and drink given to a corpse directly match ritual feeding or care
+    of the dead.
+  cautions: If the rite is framed as aiding postmortem travel, afterlife_passage may
+    be a secondary mapping.
+  suggested_aliases:
+  - food and drink offerings to the corpse
+  - corpse fed with food and drink
+  - mortuary food and drink offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.offerings-placed-in-water-for-the-dead
+  motif_id: offerings_placed_in_water_for_the_dead
+  label: Offerings placed in water for the dead
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core action is offering to the dead, fitting ritual care or feeding
+    of dead persons or ancestors.
+  cautions: Water placement may carry boundary or passage symbolism; consider sacred_waters
+    or afterlife_passage if water mediates the dead person’s journey.
+  suggested_aliases:
+  - water offerings for the dead
+  - offerings in water to the dead
+  - mortuary offerings placed in water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.offerings-to-a-presumed-evil-spirit-become-clinging-pollution
+  motif_id: offerings_to_a_presumed_evil_spirit_become_clinging_pollution
+  label: Offerings to a presumed evil spirit become clinging pollution
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Clinging pollution from spirit contact fits the existing sacred_law cluster
+    of ritual prohibition, spirit contagion, and apotropaic purity rules.
+  cautions: The wording is culturally sensitive and interpretive; verify whether the
+    source describes impurity, failed offering, spirit attachment, or later commentary.
+  suggested_aliases:
+  - spirit offerings causing clinging pollution
+  - pollution from offerings to an evil spirit
+  - clinging spirit pollution after offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.offerings-to-deceased-predecessors-and-ancestors
+  motif_id: offerings_to_deceased_predecessors_and_ancestors
+  label: Offerings to deceased predecessors and ancestors
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: alias
+  confidence: high
+  rationale: Offerings to deceased predecessors and ancestors are a direct instance
+    of ancestor rites and ritual care of the dead.
+  cautions: Preserve local ritual context; do not infer a general ancestor cult beyond
+    the source evidence.
+  suggested_aliases:
+  - offerings to ancestors
+  - offerings to deceased predecessors
+  - ancestor offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.office-avoided-because-of-feared-child-mortality
+  motif_id: office_avoided_because_of_feared_child_mortality
+  label: office avoided because of feared child mortality
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests avoidance of a social or ritual office due to feared
+    child death, but the causal logic is unclear.
+  cautions: May be an ethnographic social-office detail, taboo, sacred law, or mortality
+    belief; source context is needed before pattern indexing.
+  suggested_aliases:
+  - avoidance of office due to child mortality fear
+  - feared child mortality prevents officeholding
+  - office taboo linked to child mortality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence ritual or ethnographic labels; placements should
+  remain provisional until source passages confirm narrative function.
+- Avoid treating ancestor, spirit, or pollution labels as broad cross-cultural claims;
+  preserve local evidence and wording for review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0282
+  input_sha256: 26c46379551c9a8aa546678a616f16b291aa2cf29d0ff3e5d3c883f453381dc4
+

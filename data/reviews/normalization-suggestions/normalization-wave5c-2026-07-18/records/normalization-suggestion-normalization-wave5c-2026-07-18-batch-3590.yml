@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3590
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.intoxicant-linked-diagnostic-frenzy
+  motif_id: intoxicant_linked_diagnostic_frenzy
+  label: Intoxicant-linked diagnostic frenzy
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label links an intoxicant with altered diagnostic or healing practice,
+    fitting sacred substance only if ritually framed.
+  cautions: Single occurrence and culturally sensitive healing/shamanic context; confirm
+    source evidence before treating as a motif rather than ethnographic description.
+  suggested_aliases:
+  - intoxicant_diagnostic_frenzy
+  - intoxicant_linked_healing_frenzy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intoxicating-a-captor-before-attack
+  motif_id: intoxicating_a_captor_before_attack
+  label: Intoxicating a captor before attack
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Using drink to disable a captor before violence is a deception or stratagem
+    pattern.
+  cautions: Could also belong under sacred_combat if the passage emphasizes battle
+    tactics rather than trickery; intoxicant detail should be preserved as evidence.
+  suggested_aliases:
+  - drugging_or_intoxicating_captor_before_attack
+  - captor_disabled_by_intoxicating_drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intoxicating-drink-mediates-first-contact
+  motif_id: intoxicating_drink_mediates_first_contact
+  label: intoxicating drink mediates first contact
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: A drink mediating first contact may function as exchange, hospitality,
+    or ritual relationship-making.
+  cautions: May describe historical contact, trade, or ethnographic encounter rather
+    than a mythic motif; avoid transmission claims and verify narrative function.
+  suggested_aliases:
+  - intoxicating_drink_as_first_contact_exchange
+  - drink_mediates_first_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intoxicating-fruit
+  motif_id: intoxicating_fruit
+  label: Intoxicating fruit
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An intoxicating fruit fits the broader sacred-substance field of foods
+    or plants that alter consciousness or condition.
+  cautions: If the fruit is merely realistic food or local botany, do not over-index;
+    source should show mythic, ritual, or transformative function.
+  suggested_aliases:
+  - intoxicating_plant_food
+  - consciousness_altering_fruit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.introduced-greeting-gesture-through-cultural-contact
+  motif_id: introduced_greeting_gesture_through_cultural_contact
+  label: Introduced greeting gesture through cultural contact
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes cultural contact or diffusion of a gesture, not a
+    symbolic or narrative motif.
+  cautions: Preserve as historical or ethnographic provenance if needed; do not use
+    taxonomy placement as evidence for contact in motif comparison.
+  suggested_aliases:
+  - greeting_gesture_introduced_by_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.introduced-hopi-dance-after-local-sequence
+  motif_id: introduced_hopi_dance_after_local_sequence
+  label: introduced Hopi dance after local sequence
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads as a contextual note on ritual borrowing or sequence insertion
+    rather than a reusable motif.
+  cautions: Culturally specific ritual material should be reviewed with care; preserve
+    local ritual evidence outside broad pattern queries.
+  suggested_aliases:
+  - introduced_hopi_dance_sequence
+  - borrowed_dance_inserted_after_local_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.introduced-objects-transform-domestic-space
+  motif_id: introduced_objects_transform_domestic_space
+  label: Introduced objects transform domestic space
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: Objects that alter a domestic space may be power objects, ritual furnishings,
+    or social-contact artifacts depending on evidence.
+  cautions: The word introduced may indicate historical-contact commentary rather
+    than motif structure; verify that transformation is narrative or sacred, not merely
+    material-culture change.
+  suggested_aliases:
+  - transformative_introduced_objects
+  - objects_transforming_domestic_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.introduced-technology-replacing-or-modifying-older-tool-forms
+  motif_id: introduced_technology_replacing_or_modifying_older_tool_forms
+  label: Introduced technology replacing or modifying older tool forms
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a material-culture or historical change note, not a mythic motif.
+  cautions: Could be relevant as ethnographic context, but should not be queried as
+    a symbolic pattern unless a narrative culture-hero or sacred-craft function is
+    shown.
+  suggested_aliases:
+  - introduced_technology_modifies_older_tools
+  - technology_replacing_older_tool_forms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.introduced-tradition-accepted-and-grafted-into-local-lore
+  motif_id: introduced_tradition_accepted_and_grafted_into_local_lore
+  label: introduced tradition accepted and grafted into local lore
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes reception, incorporation, or transmission of lore
+    rather than a motif inside the lore.
+  cautions: Keep as provenance or reception metadata; do not use as pattern evidence
+    for borrowing or common origin in this task.
+  suggested_aliases:
+  - introduced_tradition_grafted_into_local_lore
+  - accepted_borrowed_tradition_in_local_lore
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intrusion-into-a-lodge-followed-by-pursuit-and-reversal
+  motif_id: intrusion_into_a_lodge_followed_by_pursuit_and_reversal
+  label: intrusion into a lodge followed by pursuit and reversal
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Intrusion, pursuit, and reversal are common trickster or boundary-crossing
+    narrative functions.
+  cautions: If the source emphasizes combat, household violation, or moral punishment
+    rather than cunning reversal, sacred_combat, sacred_law, or divine_judgment may
+    be better secondary placements.
+  suggested_aliases:
+  - intrusion_pursuit_and_reversal
+  - lodge_intrusion_followed_by_pursuit_reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels beginning with 'introduced' appear to encode historical-contact or
+  reception notes rather than motifs; these should generally be excluded from pattern
+  queries unless passage evidence shows a sacred narrative function.
+- Single-occurrence intoxicant labels need source-context review to distinguish sacred
+  substance, hospitality exchange, deception, healing ritual, and ethnographic description.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual and contact-history
+    labels require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3590
+  input_sha256: 80437c80b81cfed3247bd09aadbeca7a0cdf4d5adea2b20bd8db7322bea29af5
+

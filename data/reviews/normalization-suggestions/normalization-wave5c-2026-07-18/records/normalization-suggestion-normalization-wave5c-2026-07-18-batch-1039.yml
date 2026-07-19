@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1039
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-first-wearing-of-ceremonial-regalia
+  motif_id: ritual_first_wearing_of_ceremonial_regalia
+  label: ritual first wearing of ceremonial regalia
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ceremonial regalia may function as a sacred power object or status-confirming
+    object, but the label is highly contextual.
+  cautions: Single occurrence; culturally specific initiation/status context needs
+    source review before indexing as sacred_treasures, initiation, or royal_legitimacy.
+  suggested_aliases:
+  - first_wearing_of_ceremonial_regalia
+  - ceremonial_regalia_initiation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-food-abstinence-in-liminal-conditions
+  motif_id: ritual_food_abstinence_in_liminal_conditions
+  label: Ritual food abstinence in liminal conditions
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food abstinence under liminal conditions is a ritual prohibition regulating
+    purity or danger.
+  cautions: May also relate to initiation or sacrifice if abstinence is part of a
+    status-changing ordeal or offering; preserve liminal context.
+  suggested_aliases:
+  - ritual_food_abstinence
+  - liminal_food_taboo
+  - fasting_in_liminal_conditions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-food-preparation-by-nonordinary-hand-and-destruction-of-implement
+  motif_id: ritual_food_preparation_by_nonordinary_hand_and_destruction_of_implement
+  label: ritual food preparation by nonordinary hand and destruction of implement
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritual food preparation can belong to sacred exchange or offering, while
+    implement destruction may mark consecration or taboo.
+  cautions: Composite and culturally specific; source evidence needed to decide whether
+    the key motif is offering, purity law, sacred substance, or a passage-specific
+    ritual detail.
+  suggested_aliases:
+  - ritual_food_preparation_by_nonordinary_agent
+  - destruction_of_ritual_food_implement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-food-restricted-to-men-with-women-and-boys-secluded
+  motif_id: ritual_food_restricted_to_men_with_women_and_boys_secluded
+  label: Ritual food restricted to men with women and boys secluded
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Gendered ritual food restriction and seclusion are forms of ritual regulation
+    and taboo.
+  cautions: Comparative and culturally sensitive; do not normalize without source
+    context on whether this is initiation, gendered secrecy, purity law, or ethnographic
+    commentary.
+  suggested_aliases:
+  - gender_restricted_ritual_food
+  - ritual_seclusion_during_male_food_rite
+  - restricted_ritual_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-food-taboo-during-menstruation-and-aka-op-status
+  motif_id: ritual_food_taboo_during_menstruation_and_aka_op_status
+  label: Ritual food taboo during menstruation and aka-op status
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food taboo tied to menstruation or ritual status fits sacred law, purity,
+    and bodily taboo regulation.
+  cautions: Contains a culturally specific status term; verify meaning and avoid flattening
+    local categories into generic purity language.
+  suggested_aliases:
+  - menstruation_food_taboo
+  - ritual_status_food_taboo
+  - food_taboo_during_menstruation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-forgetting-after-supernatural-love-separation
+  motif_id: ritual_forgetting_after_supernatural_love_separation
+  label: Ritual forgetting after supernatural love-separation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on supernatural love separation and ritualized forgetting,
+    fitting love as a transformative or otherworldly force.
+  cautions: If the ritual act itself is more important than the love plot, consider
+    sacred_knowledge, sacred_law, or otherworld as secondary review targets.
+  suggested_aliases:
+  - forgetting_after_supernatural_love_separation
+  - ritualized_forgetting_of_supernatural_beloved
+  - love_separation_forgetting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-forms-compared-to-christian-baptism-consubstantiation-and-confession
+  motif_id: ritual_forms_compared_to_christian_baptism_consubstantiation_and_confession
+  label: Ritual forms compared to Christian baptism, consubstantiation, and confession
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes comparative scholarly framing of rituals rather than
+    a motif within a source tradition.
+  cautions: Preserve as provenance or reception note if useful; do not use as evidence
+    for motif similarity or transmission.
+  suggested_aliases:
+  - ritual_forms_compared_to_christian_rites
+  - comparative_christian_ritual_analogy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-forms-regulating-natural-feeling
+  motif_id: ritual_forms_regulating_natural_feeling
+  label: ritual forms regulating natural feeling
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ritual forms shaping emotion and conduct align with sacred law as social
+    and ethical order.
+  cautions: This is abstract and philosophical; if the passage is doctrinal exposition
+    rather than narrative motif, consider excluding or retaining as an ethical theme
+    only.
+  suggested_aliases:
+  - ritual_regulation_of_emotion
+  - ritual_forms_shaping_feeling
+  - ritual_ordering_of_affect
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-formula-recitation
+  motif_id: ritual_formula_recitation
+  label: ritual formula recitation
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual formula is a performative sacred speech act whose recitation
+    has binding or protective ritual force.
+  cautions: If the emphasis is liturgical transmission of knowledge rather than performative
+    utterance, sacred_knowledge may be a secondary mapping.
+  suggested_aliases:
+  - sacred_formula_recitation
+  - ritual_recitation
+  - liturgical_formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-foundation-of-a-sacred-monument
+  motif_id: ritual_foundation_of_a_sacred_monument
+  label: Ritual foundation of a sacred monument
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Founding a sacred monument is a ritualized construction act and fits
+    sacred craft or consecrated building.
+  cautions: If the monument functions as world center or pilgrimage focus, axis_mundi
+    or sacred_treasures may be relevant secondary groups.
+  suggested_aliases:
+  - foundation_rite_for_sacred_monument
+  - sacred_monument_foundation_rite
+  - consecrated_monument_foundation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence, culturally specific ritual details; human
+  review should check whether they are source motifs or ethnographic/commentary artifacts.
+- Avoid treating broad ritual similarity as evidence of historical contact or borrowing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual and purity labels
+    require source-sensitive review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1039
+  input_sha256: 359f884795d0420d93f45c629018f1e13487c1112ee5d3ec0f2bfd84848efb7b
+

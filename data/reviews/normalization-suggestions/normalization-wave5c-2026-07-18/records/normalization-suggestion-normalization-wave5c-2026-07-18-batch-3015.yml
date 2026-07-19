@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3015
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.severed-royal-heads-brought-to-the-imperial-center
+  motif_id: severed_royal_heads_brought_to_the_imperial_center
+  label: Severed royal heads brought to the imperial center
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Severed heads brought as trophies fit existing combat trophy and victory-display
+    patterns under sacred combat.
+  cautions: Royal and imperial-center details may be episode-specific; consider divine_warrior
+    if emphasis is heroic or royal martial authority.
+  suggested_aliases:
+  - severed_heads_as_victory_trophies
+  - royal_heads_as_combat_trophies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sexual-continence-for-garden-fertility
+  motif_id: sexual_continence_for_garden_fertility
+  label: sexual continence for garden fertility
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests a ritual prohibition or purity discipline tied to
+    agricultural fertility, which can fit sacred law.
+  cautions: Source context is needed; it may instead be fertility magic, garden ritual,
+    sexual taboo, or an over-specific ethnographic note.
+  suggested_aliases:
+  - sexual_abstinence_for_crop_fertility
+  - continence_as_fertility_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sexual-misconduct-punished-through-household-exclusion-and-reputational-prevention
+  motif_id: sexual_misconduct_punished_through_household_exclusion_and_reputational_prevention
+  label: Sexual misconduct punished through household exclusion and reputational prevention
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Punishment for sexual misconduct through household and reputational sanctions
+    is primarily a social-order and sacred-law pattern.
+  cautions: May be too specific for pattern queries unless recurring; verify whether
+    sacred or mythic authority is present rather than ordinary social commentary.
+  suggested_aliases:
+  - sexual_misconduct_social_sanction
+  - household_exclusion_for_sexual_transgression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shadow-play-in-a-dark-abandoned-house
+  motif_id: shadow_play_in_a_dark_abandoned_house
+  label: shadow-play in a dark abandoned house
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate trickery, fear, ghostly illusion, play, or a
+    passage setting rather than a stable motif.
+  cautions: Needs source evidence before mapping; if merely a setting or episode detail,
+    exclude from broad pattern queries.
+  suggested_aliases:
+  - shadow_play_in_abandoned_house
+  - dark_house_shadow_illusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-cultural-marker-pattern-across-neighboring-groups
+  motif_id: shared_cultural_marker_pattern_across_neighboring_groups
+  label: Shared cultural-marker pattern across neighboring groups
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes comparative cultural distribution rather than a
+    narrative, symbolic, or ritual motif.
+  cautions: Keep as provenance or analytic note if useful; do not treat as evidence
+    of transmission in normalization.
+  suggested_aliases:
+  - shared_cultural_marker_across_groups
+  - comparative_cultural_marker_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-hunting-establishes-household-alliance
+  motif_id: shared_hunting_establishes_household_alliance
+  label: shared hunting establishes household alliance
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Shared hunting that creates alliance fits reciprocal exchange and relationship-making
+    through shared provision.
+  cautions: If the passage centers on kinship law or household order rather than exchange,
+    sacred_law or covenant may be better.
+  suggested_aliases:
+  - shared_hunt_forms_alliance
+  - hunting_partnership_establishes_household_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-or-adopted-deity-cult-across-neighboring-peoples
+  motif_id: shared_or_adopted_deity_cult_across_neighboring_peoples
+  label: Shared or adopted deity cult across neighboring peoples
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe cultic adoption, shared worship, or comparative
+    distribution rather than a passage-level motif.
+  cautions: Culturally sensitive and potentially transmission-oriented; review evidence
+    before indexing as ritual, deity role, or meta commentary.
+  suggested_aliases:
+  - adopted_deity_cult
+  - shared_deity_cult_between_peoples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sharing-defensive-equipment
+  motif_id: sharing_defensive_equipment
+  label: sharing defensive equipment
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Sharing armor or defensive gear is a martial support detail best parked
+    under sacred combat unless the object has sacred power.
+  cautions: If the equipment confers supernatural protection or authority, sacred_treasures
+    may be a secondary mapping.
+  suggested_aliases:
+  - shared_armor_in_battle
+  - defensive_equipment_shared_between_warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sharing-stolen-food-with-accomplices
+  motif_id: sharing_stolen_food_with_accomplices
+  label: Sharing stolen food with accomplices
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Theft and distribution of stolen food among accomplices fits trickster
+    transgression and deceptive acquisition.
+  cautions: If the stolen food is ritually charged or sacrificial, sacred_substance
+    or sacrifice may be relevant; otherwise this may be a plot detail.
+  suggested_aliases:
+  - stolen_food_shared_with_accomplices
+  - food_theft_shared_among_conspirators
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shattered-belief-requiring-refashioning
+  motif_id: shattered_belief_requiring_refashioning
+  label: shattered belief requiring refashioning
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In a Sufi context, shattered and refashioned belief likely describes
+    inner transformation on the mystical path.
+  cautions: May be abstract commentary rather than a motif; if the passage emphasizes
+    dissolution of self, annihilation_union may be the narrower canonical reference.
+  suggested_aliases:
+  - belief_shattered_and_refashioned
+  - spiritual_belief_refashioned_after_breaking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items have only one occurrence and should remain provisional until passage
+  evidence confirms motif function.
+- Avoid reading shared or adopted cultural markers as transmission claims in this
+  normalization task.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally contextual
+    ritual and comparative-distribution labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3015
+  input_sha256: 83fc39d2e047a1e08736271101b55bd70ac87c6d2db159735c9137cfdb29bb24
+

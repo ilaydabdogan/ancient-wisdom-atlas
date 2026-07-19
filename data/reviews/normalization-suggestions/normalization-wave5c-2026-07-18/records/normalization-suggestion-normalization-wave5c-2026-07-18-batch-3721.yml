@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3721
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.night-vigil-followed-by-dawn-ambush
+  motif_id: night_vigil_followed_by_dawn_ambush
+  label: Night vigil followed by dawn ambush
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on watchfulness immediately preceding an ambush, a
+    combat tactic or warfare episode.
+  cautions: Single occurrence and highly contextual; if the vigil is ritual mourning
+    or initiation rather than military readiness, another group may fit.
+  suggested_aliases:
+  - night_watch_before_ambush
+  - dawn_ambush_after_vigil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-vigil-to-preserve-regained-condition
+  motif_id: night_vigil_to_preserve_regained_condition
+  label: Night vigil to preserve regained condition
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A vigil preserving a restored state could be healing, initiation, taboo
+    observance, soul restoration, or ritual maintenance.
+  cautions: Needs source evidence for what condition is regained and why wakefulness
+    preserves it; avoid mapping solely from the word vigil.
+  suggested_aliases:
+  - vigil_to_maintain_restoration
+  - wakeful_guarding_of_regained_state
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-vigil-with-wailing-dirges-and-fasting
+  motif_id: night_vigil_with_wailing_dirges_and_fasting
+  label: night vigil with wailing, dirges, and fasting
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: Wailing, dirges, fasting, and a night vigil strongly indicate mourning
+    or mortuary lament practice.
+  cautions: If the passage is an initiation or purification rite rather than grief
+    for the dead, consider sacrifice or sacred_law as secondary review options.
+  suggested_aliases:
+  - mourning_vigil_with_dirges_and_fasting
+  - night_lament_vigil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-watch-and-reversal-of-a-hidden-attack
+  motif_id: night_watch_and_reversal_of_a_hidden_attack
+  label: Night watch and reversal of a hidden attack
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden attack detected or reversed during night watch belongs to combat
+    stratagem and reversal.
+  cautions: If reversal is explicitly divine punishment or trickster deception, divine_judgment
+    or trickster may be more precise secondary mappings.
+  suggested_aliases:
+  - night_watch_reverses_ambush
+  - hidden_attack_reversed_by_watchfulness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-watch-by-a-soldier
+  motif_id: night_watch_by_a_soldier
+  label: night watch by a soldier
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a generic scene detail without clear symbolic or narrative
+    function beyond a soldier keeping watch.
+  cautions: If the watch leads to encounter, ambush, revelation, or ordeal, preserve
+    that more specific function under the appropriate group instead of excluding.
+  suggested_aliases:
+  - soldier_on_night_watch
+  - night_sentry_scene
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nightfall-before-monstrous-attack
+  motif_id: nightfall_before_monstrous_attack
+  label: nightfall before monstrous attack
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A monster attacking at night can mark a dangerous liminal threshold or
+    ordeal before confrontation.
+  cautions: If the passage emphasizes heroic battle rather than threshold peril, sacred_combat
+    or divine_warrior may be better; nightfall alone is not a motif.
+  suggested_aliases:
+  - monstrous_attack_at_nightfall
+  - nightfall_monster_assault
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nightingale-addressing-the-rose-with-wine-imagery
+  motif_id: nightingale_addressing_the_rose_with_wine_imagery
+  label: Nightingale addressing the rose with wine imagery
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi poetic context, nightingale, rose, and wine imagery commonly
+    expresses longing, beauty, and divine beloved symbolism.
+  cautions: Could also be a poetic passage artifact; review whether the imagery functions
+    as mystical love, sacred substance, or ornamental metaphor only.
+  suggested_aliases:
+  - nightingale_and_rose_mystical_love
+  - rose_wine_nightingale_imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nightingale-and-fowler-fable
+  motif_id: nightingale_and_fowler_fable
+  label: Nightingale and Fowler fable
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a fable title or tale heading rather than a normalized
+    motif function.
+  cautions: If the episode contains a recurring action such as deceptive capture,
+    wise speech, or animal pleading, extract and map that functional motif instead.
+  suggested_aliases:
+  - nightingale_fowler_tale_heading
+  - bird_and_fowler_fable_title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nighttime-theft-attempt-of-protected-food
+  motif_id: nighttime_theft_attempt_of_protected_food
+  label: Nighttime theft attempt of protected food
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: An attempted theft of guarded food at night fits deception, boundary
+    violation, or trickster-like transgression.
+  cautions: If the food is sacred or ritually restricted, sacred_substance or sacred_law
+    may be important secondary mappings; if merely plot detail, do not over-index.
+  suggested_aliases:
+  - night_theft_of_guarded_food
+  - attempted_theft_of_protected_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nine-day-ceremonial-cycle
+  motif_id: nine_day_ceremonial_cycle
+  label: Nine-day ceremonial cycle
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: A fixed multi-day ceremony is a ritual ordering of sacred time.
+  cautions: Preserve the nine-day duration as local evidence; do not generalize to
+    seasonal_cycle unless recurrence or calendrical renewal is explicit.
+  suggested_aliases:
+  - nine_day_ritual_cycle
+  - nine_day_ceremony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several night-watch labels are single-occurrence and scene-specific; final placement
+  should depend on whether the watch functions as combat, ritual vigil, mourning,
+  or mere narrative staging.
+- Avoid treating darkness or night as a standalone motif unless it marks a threshold,
+  ordeal, attack, ritual observance, or revelation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages should be checked
+    for the single-occurrence items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3721
+  input_sha256: 5b7ce5ed31d1fcf028cc96294795e5bd7325ee6c2714a1faf6c36663a7bf1a9d
+

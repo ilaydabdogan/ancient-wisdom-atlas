@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2046
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-call-imitation-as-lure
+  motif_id: animal_call_imitation_as_lure
+  label: Animal call imitation as lure
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Imitating an animal call to lure a target is a deceptive boundary-crossing
+    strategy involving animal disguise or mimicry.
+  cautions: Single occurrence; may be a hunting technique detail rather than a recurring
+    mythic trickster motif.
+  suggested_aliases:
+  - animal_call_lure
+  - imitated_animal_call_as_lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-call-imitation-to-lure-game
+  motif_id: animal_call_imitation_to_lure_game
+  label: Animal-call imitation to lure game
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label is a close variant of animal-call imitation used as deception
+    to lure prey.
+  cautions: Because it specifies hunting game, preserve as evidence detail; do not
+    overread as shapeshifting unless bodily transformation is present.
+  suggested_aliases:
+  - animal_call_imitation_as_lure
+  - imitated_animal_call_lures_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-call-misread-as-tactical-advice
+  motif_id: animal_call_misread_as_tactical_advice
+  label: animal call misread as tactical advice
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could involve omen interpretation, comic misunderstanding,
+    animal communication, or battle strategy depending on passage context.
+  cautions: Do not map automatically to dream_and_vision, prophecy_divination, trickster,
+    or sacred_combat without evidence for the animal call's narrative function.
+  suggested_aliases:
+  - animal_call_misinterpreted_as_advice
+  - misread_animal_call_as_tactical_counsel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-calls-mark-herd-activity
+  motif_id: animal_calls_mark_herd_activity
+  label: Animal calls mark herd activity
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an observational or passage-specific detail about
+    animal behavior rather than a symbolic narrative motif.
+  cautions: If source evidence shows calls functioning as omens, guidance, or animal
+    communication, reconsider under prophecy_divination or divine_intervention.
+  suggested_aliases:
+  - animal_calls_signal_herd_activity
+  - herd_activity_marked_by_animal_calls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-captor-demands-a-specific-human-victim
+  motif_id: animal_captor_demands_a_specific_human_victim
+  label: animal captor demands a specific human victim
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An animal captor demanding a human may be monster abduction, sacrifice,
+    hostage exchange, trickster predation, or social coercion.
+  cautions: Culturally specific San evidence should be reviewed before assigning to
+    sacrifice, threshold_guardian, trickster, or sacred_exchange.
+  suggested_aliases:
+  - animal_captor_demands_human_victim
+  - specific_human_victim_demanded_by_animal_captor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-carcass-used-as-protective-shield
+  motif_id: animal_carcass_used_as_protective_shield
+  label: animal carcass used as protective shield
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: An animal carcass functioning as protection fits a power-object or protective-object
+    use better than animal transformation.
+  cautions: 'Low confidence: it may be a practical combat detail, hunting stratagem,
+    or ritual protection. Exclude if no sacred or narrative function is present.'
+  suggested_aliases:
+  - animal_carcass_as_shield
+  - protective_animal_carcass
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-carried-away-by-waves
+  motif_id: animal_carried_away_by_waves
+  label: animal carried away by waves
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a scene detail involving an animal and water rather
+    than a durable motif.
+  cautions: If the waves enact divine judgment, transformation, or water passage,
+    reconsider under sacred_waters or divine_judgment with source evidence.
+  suggested_aliases:
+  - animal_swept_away_by_waves
+  - waves_carry_off_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-carries-off-an-old-woman
+  motif_id: animal_carries_off_an_old_woman
+  label: animal carries off an old woman
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An animal abduction of an old woman may be predation, otherworld removal,
+    punishment, trickster episode, or local narrative detail.
+  cautions: Needs passage context and culturally careful review; do not map to death,
+    otherworld, or trickster solely from the abduction wording.
+  suggested_aliases:
+  - animal_abducts_old_woman
+  - old_woman_carried_off_by_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-carrying-an-image
+  motif_id: animal_carrying_an_image
+  label: animal carrying an image
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The image could be a cult image, idol, recognition object, or episode-specific
+    object carried by an animal.
+  cautions: If the image is animated or cultic, sacred_craft or sacred_treasures may
+    fit; if merely a visual detail, exclude from pattern queries.
+  suggested_aliases:
+  - animal_bears_an_image
+  - image_carried_by_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-caused-bodily-vulnerability
+  motif_id: animal_caused_bodily_vulnerability
+  label: animal-caused bodily vulnerability
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: The focus is a bodily vulnerability produced by an animal cause, aligning
+    with vulnerable-body and hidden-weakness patterns.
+  cautions: If the passage instead concerns animal attack, disease, taboo, or transformation,
+    sacred_law, shapeshifter, or exclusion may be better.
+  suggested_aliases:
+  - animal_caused_vulnerable_body
+  - bodily_vulnerability_caused_by_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence animal episode details; suggested placements
+  should be checked against source passages before adding durable aliases.
+- Avoid treating animal presence alone as trickster, shapeshifter, or sacred animal
+  symbolism without a clear narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2046
+  input_sha256: 40d2453f1e1352bec24ae6bdf8efb735cddad55c952f63ce3a89d8dba5e41634
+

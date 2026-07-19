@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3770
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.persecution-for-maintaining-religious-belief
+  motif_id: persecution_for_maintaining_religious_belief
+  label: Persecution for maintaining religious belief
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on fidelity to a sacred commitment under social coercion,
+    fitting sacred law and religious obligation.
+  cautions: Single occurrence; could instead belong with martyrdom, divine judgment,
+    or political violence if the passage emphasizes suffering and memorialization
+    rather than obligation.
+  suggested_aliases:
+  - steadfastness_under_religious_persecution
+  - persecution_for_religious_fidelity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecution-of-religious-speakers-and-saints
+  motif_id: persecution_of_religious_speakers_and_saints
+  label: persecution of religious speakers and saints
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe saintly witness, suppression of sacred speech,
+    martyrdom, or historical persecution, and needs source context.
+  cautions: Culturally sensitive and possibly hagiographic or historical rather than
+    a reusable motif; avoid collapsing saint persecution into generic divine judgment
+    without evidence.
+  suggested_aliases:
+  - persecution_of_saints
+  - suppression_of_religious_speech
+  - persecuted_religious_teacher
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecution-site-remade-as-martyr-memorial
+  motif_id: persecution_site_remade_as_martyr_memorial
+  label: Persecution site remade as martyr memorial
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: A site of suffering becoming a martyr memorial fits postmortem memorialization
+    and sacralized remembrance of the dead.
+  cautions: If the site functions primarily as pilgrimage shrine or relic center,
+    sacred_treasures may be a secondary fit; if mainly historical place commentary,
+    review before indexing.
+  suggested_aliases:
+  - martyr_memorial_at_site_of_persecution
+  - persecution_site_as_memorial
+  - sacralized_martyr_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perseverance-restored-by-exemplary-past-action
+  motif_id: perseverance_restored_by_exemplary_past_action
+  label: Perseverance restored by exemplary past action
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Remembered or narrated exemplary action functions as moral instruction
+    that restores discipline or resolve.
+  cautions: Could be an ethical-psychological teaching rather than a narrative motif;
+    if framed as past-life exemplum, death_and_transformation may be relevant.
+  suggested_aliases:
+  - exemplary_past_action_restores_resolve
+  - moral_exemplum_restores_perseverance
+  - perseverance_through_remembered_example
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persistence-and-loss-of-separate-identity-after-incorporation
+  motif_id: persistence_and_loss_of_separate_identity_after_incorporation
+  label: Persistence and loss of separate identity after incorporation
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The abstract wording could indicate transformation, incorporation into
+    a collective, digestion, adoption, or metaphysical identity loss.
+  cautions: Needs passage evidence; do not map to annihilation_union unless sacred
+    union or ego dissolution is explicit.
+  suggested_aliases:
+  - identity_loss_after_incorporation
+  - incorporation_and_persistent_identity
+  - separate_identity_dissolved_by_incorporation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persistence-of-customs-and-superstitions-across-time
+  motif_id: persistence_of_customs_and_superstitions_across_time
+  label: Persistence of customs and superstitions across time
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as ethnographic or comparative commentary about continuity
+    of practices, not a specific narrative motif.
+  cautions: If a source passage narrates a particular custom's sacred origin or ritual
+    function, remap that concrete motif instead of excluding.
+  suggested_aliases:
+  - customs_persist_across_time
+  - survival_of_superstitions
+  - persistence_of_traditional_practices
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persistent-bodily-affliction-resists-ordinary-cures
+  motif_id: persistent_bodily_affliction_resists_ordinary_cures
+  label: Persistent bodily affliction resists ordinary cures
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: An incurable affliction often sets up supernatural healing, spirit agency,
+    or sacred intervention, which fits the existing intervention/healing complex.
+  cautions: Label alone only states medical resistance; if no sacred cause or cure
+    is present, it may be too generic or contextual to index.
+  suggested_aliases:
+  - incurable_affliction_requires_supernatural_cure
+  - ordinary_cures_fail_against_affliction
+  - persistent_affliction_resists_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persuasion-by-contrasting-faith-and-food-practice
+  motif_id: persuasion_by_contrasting_faith_and_food_practice
+  label: Persuasion by contrasting faith and food practice
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food practice used to distinguish or persuade between faiths fits dietary
+    law, ritual prohibition, and sacred social order.
+  cautions: May be a polemical conversion episode or historical commentary; preserve
+    the food-practice detail rather than treating it as general wisdom.
+  suggested_aliases:
+  - religious_persuasion_through_food_practice
+  - contrasting_dietary_practice_as_faith_argument
+  - food_law_as_religious_persuasion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persuasion-contrasted-with-coercive-suppression-of-heresy
+  motif_id: persuasion_contrasted_with_coercive_suppression_of_heresy
+  label: persuasion contrasted with coercive suppression of heresy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an abstract theological or legal contrast rather than a
+    clear mythic narrative function.
+  cautions: Culturally sensitive; may be doctrinal commentary, legal reasoning, or
+    historical polemic. Do not normalize as sacred combat or divine judgment without
+    passage evidence.
+  suggested_aliases:
+  - persuasion_versus_coercion_in_religious_dispute
+  - noncoercive_religious_persuasion
+  - suppression_of_heresy_contrasted_with_persuasion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pervasive-cosmic-tao
+  motif_id: pervasive_cosmic_tao
+  label: pervasive cosmic Tao
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: broader_label
+  confidence: low
+  rationale: The Tao as pervasive cosmic ordering principle is closest to the group
+    handling complementary cosmic structure and Daoist balance.
+  cautions: This is a tradition-specific metaphysical concept, not necessarily a narrative
+    motif; could also fit cosmic_origin or sacred_knowledge depending on passage evidence.
+  suggested_aliases:
+  - cosmic_tao
+  - tao_as_pervasive_order
+  - dao_as_cosmic_principle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and abstract, doctrinal, or historical;
+  human review should verify passage evidence before promoting any to durable motif
+  children.
+- Persecution and heresy labels may be culturally sensitive and should not be normalized
+  as transmission or polemical claims.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize source-context review for persecution,
+    identity-incorporation, and doctrinal persuasion labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3770
+  input_sha256: 3f30bdbd82361f80a5a3c317f859e8559ae46ebd4f2336713f3e68fa1ed62aa9
+

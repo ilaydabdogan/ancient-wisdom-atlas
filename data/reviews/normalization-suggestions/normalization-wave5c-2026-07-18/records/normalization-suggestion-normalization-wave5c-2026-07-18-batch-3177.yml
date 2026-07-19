@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3177
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bathing-or-play-at-a-pool
+  motif_id: bathing_or_play_at_a_pool
+  label: bathing or play at a pool
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a scene detail without clear ritual, threshold, purification,
+    or transformation function.
+  cautions: Could map to sacred_waters if the pool marks purification or boundary
+    crossing, but current wording may be passage-specific.
+  suggested_aliases:
+  - pool_bathing_or_play
+  - bathing_at_a_pool
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beanstalk-episode-attached-as-tale-opening
+  motif_id: beanstalk_episode_attached_as_tale_opening
+  label: beanstalk episode attached as tale opening
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase describes tale composition or an attached opening episode
+    rather than a symbolic motif.
+  cautions: If the source passage narrates ascent by beanstalk, preserve that evidence
+    under ascent or axis_mundi separately.
+  suggested_aliases:
+  - beanstalk_tale_opening
+  - attached_beanstalk_opening_episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bear-cult-and-bear-festival-reference
+  motif_id: bear_cult_and_bear_festival_reference
+  label: Bear cult and bear festival reference
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to ritual or comparative reference, but the specific
+    motif function is not clear from wording alone.
+  cautions: Culturally sensitive ritual material; may fit sacrifice, sacred_exchange,
+    sacred_time, ancestor_rites, or meta commentary depending on evidence.
+  suggested_aliases:
+  - bear_festival_reference
+  - bear_cult_reference
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bear-hide-transformed-into-dance-regalia
+  motif_id: bear_hide_transformed_into_dance_regalia
+  label: Bear hide transformed into dance regalia
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on transformation of an animal hide into ritual identity
+    or regalia.
+  cautions: If the key function is ceremonial power object rather than transformation,
+    sacred_treasures or sacred_law may be secondary; review culturally specific context
+    carefully.
+  suggested_aliases:
+  - bear_hide_as_dance_regalia
+  - animal_hide_transformed_into_regalia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bear-linked-naming-pattern
+  motif_id: bear_linked_naming_pattern
+  label: bear-linked naming pattern
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A naming pattern may be clan, ancestor, totemic, or textual classification
+    rather than a narrative motif.
+  cautions: Could relate to cosmic_origin if etiological, ancestor_rites if ancestral,
+    or be excluded as classification metadata.
+  suggested_aliases:
+  - bear_naming_pattern
+  - bear_associated_names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bear-objects-in-healing-ceremonial
+  motif_id: bear_objects_in_healing_ceremonial
+  label: Bear objects in healing ceremonial
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritually used bear objects function as power objects within a healing
+    ceremony.
+  cautions: May instead belong under sacred_law or divine_intervention if the healing
+    agency is ritual regulation or spirit action; review cultural context sensitively.
+  suggested_aliases:
+  - bear_healing_objects
+  - bear_objects_used_in_healing_ceremony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bear-origin-and-ancient-clan-association
+  motif_id: bear_origin_and_ancient_clan_association
+  label: bear origin and ancient clan association
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests clan origin or totemic ancestry, but current groups
+    lack a precise animal-ancestor category.
+  cautions: Could fit cosmic_origin for eponymous/clan origins, ancestor_rites for
+    ancestral relations, or require a future totemic-ancestor group if recurrent.
+  suggested_aliases:
+  - bear_clan_origin
+  - bear_associated_clan_origin
+  - bear_ancestral_clan_association
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bear-tries-to-enter-human-shelter
+  motif_id: bear_tries_to_enter_human_shelter
+  label: bear tries to enter human shelter
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a specific episode detail without enough evidence for boundary,
+    predator, or spirit function.
+  cautions: May map to threshold_guardian, trickster, or sacred_law only if the bear
+    carries liminal, deceptive, or taboo significance in the passage.
+  suggested_aliases:
+  - bear_attempts_entry_into_shelter
+  - bear_at_human_shelter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beating-a-captive-supernatural-being-through-a-container
+  motif_id: beating_a_captive_supernatural_being_through_a_container
+  label: beating a captive supernatural being through a container
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: The container confines a supernatural being and mediates human action
+    upon it, fitting sacred vessel/container functions.
+  cautions: If emphasis is coercion or punishment of a spirit, sacred_exchange, sacrifice,
+    or divine_judgment may be relevant; source context needed.
+  suggested_aliases:
+  - captive_supernatural_being_in_container
+  - supernatural_being_confined_in_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beating-an-instrument-to-promote-bee-abundance
+  motif_id: beating_an_instrument_to_promote_bee_abundance
+  label: Beating an instrument to promote bee abundance
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: A performed rite to promote animal abundance fits ritual reciprocity
+    or provisioning more than narrative music power.
+  cautions: Could fit enchanting_music if sound itself compels abundance, or divine_intervention
+    if a sacred power provides bees; culturally specific evidence needed.
+  suggested_aliases:
+  - instrument_beating_for_bee_abundance
+  - ritual_sound_to_promote_bees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several bear-related labels may represent clan, totemic, or ritual material not
+  well captured by current groups; human review should avoid flattening culturally
+  specific meanings.
+- Single-occurrence scene labels should not be promoted unless source evidence shows
+  a recurring ritual or narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally sensitive ritual and clan-origin
+    items flagged for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3177
+  input_sha256: b5f7cd490f49cbb1fa0caee3f14d95ce8605becf738f5b8d319fb7cfe4f79a7d
+

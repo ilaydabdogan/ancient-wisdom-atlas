@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3954
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.siege-ultimatum-before-assault
+  motif_id: siege_ultimatum_before_assault
+  label: siege ultimatum before assault
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A pre-assault ultimatum is a warfare episode and fits the broad combat/ritual
+    warfare group better than a new motif.
+  cautions: Single occurrence; may be ordinary military narrative detail unless framed
+    as oath, sacred warning, or ritualized battle protocol.
+  suggested_aliases:
+  - ultimatum_before_battle
+  - pre_assault_warning
+  - siege_warning_before_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sign-or-spell-blocks-a-path
+  motif_id: sign_or_spell_blocks_a_path
+  label: sign or spell blocks a path
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical sign or spell barring passage functions as a threshold obstacle
+    that must be negotiated before movement can continue.
+  cautions: If the source emphasizes spellcraft, taboo, or sacred law rather than
+    passage, sacred_law or curse_blessing_speech may be better secondary placements.
+  suggested_aliases:
+  - magical_barrier_blocks_path
+  - spell_barrier_at_threshold
+  - taboo_sign_blocks_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.signal-from-within-initiates-outside-attack
+  motif_id: signal_from_within_initiates_outside_attack
+  label: signal from within initiates outside attack
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a tactical trigger within a battle or assault sequence,
+    fitting broad combat indexing.
+  cautions: May be only a plot tactic rather than a symbolic motif; exclude if no
+    ritual, heroic, or sacred function is present.
+  suggested_aliases:
+  - internal_signal_triggers_attack
+  - signal_initiates_ambush_or_assault
+  - inside_signal_for_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.signalling-with-dust-to-people-at-home
+  motif_id: signalling_with_dust_to_people_at_home
+  label: signalling with dust to people at home
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe a very specific communication device or
+    scene detail rather than a durable symbolic motif.
+  cautions: If dust signaling carries ritual, omen, or messenger significance in the
+    source, human review could remap to sacred_knowledge or storytelling_as_power.
+  suggested_aliases:
+  - dust_signal_to_home_group
+  - message_sent_by_dust
+  - dust_as_distance_signal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.signs-of-defeated-or-captured-siblings
+  motif_id: signs_of_defeated_or_captured_siblings
+  label: Signs of defeated or captured siblings
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could refer to recognition tokens, omens of kin danger, or
+    evidence discovered during a rescue quest.
+  cautions: Source context is needed to distinguish sibling-pair narrative, recognition
+    signs, prophecy/omen, or combat aftermath.
+  suggested_aliases:
+  - tokens_of_captured_siblings
+  - signs_of_sibling_defeat
+  - evidence_of_captured_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silence-as-collective-assent
+  motif_id: silence_as_collective_assent
+  label: Silence as collective assent
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Silence functioning as assent ratifies a communal or formal decision,
+    aligning with binding agreement and sacred social order.
+  cautions: May be a procedural monastic/legal convention rather than a narrative
+    motif; consider sacred_law if framed as rule rather than bond.
+  suggested_aliases:
+  - silence_as_assent
+  - silent_communal_assent
+  - collective_assent_by_silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silence-as-confirmation-or-assent
+  motif_id: silence_as_confirmation_or_assent
+  label: silence as confirmation or assent
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: alias
+  confidence: high
+  rationale: 'This is effectively the same pattern as silence_as_collective_assent:
+    non-speech confirms a binding decision or relation.'
+  cautions: Preserve whether the assent is personal, communal, ritual, or legal in
+    evidence notes.
+  suggested_aliases:
+  - silence_as_assent
+  - silence_as_confirmation
+  - silent_assent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silence-as-formal-approval
+  motif_id: silence_as_formal_approval
+  label: silence as formal approval
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: alias
+  confidence: high
+  rationale: Formal approval through silence is a procedural variant of silence functioning
+    as assent or ratification.
+  cautions: If the passage is purely institutional procedure, it may be better kept
+    as legal-context evidence under sacred_law.
+  suggested_aliases:
+  - silent_formal_approval
+  - approval_by_silence
+  - silence_as_assent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silence-ratifies-communal-decision
+  motif_id: silence_ratifies_communal_decision
+  label: Silence ratifies communal decision
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: alias
+  confidence: high
+  rationale: This label directly states communal ratification by silence, matching
+    the silence-as-assent cluster.
+  cautions: Likely merge with the other Buddhist silence-assent labels unless source
+    evidence shows a distinct ritual function.
+  suggested_aliases:
+  - silence_as_collective_assent
+  - silent_communal_ratification
+  - communal_decision_ratified_by_silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silenced-captive-communicates-through-a-woven-message
+  motif_id: silenced_captive_communicates_through_a_woven_message
+  label: silenced captive communicates through a woven message
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A constrained figure transmits hidden narrative or testimony through
+    a woven medium, aligning with communication as survival and power.
+  cautions: Highly episode-specific; if treated mainly as a proof object or recognition
+    device, recognition_tokens_hidden_identity may be a secondary placement.
+  suggested_aliases:
+  - woven_message_from_captive
+  - textile_message_reveals_wrongdoing
+  - silenced_victim_speaks_through_weaving
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- The four Buddhist silence-assent labels appear to form a synonym cluster; human
+  review may consolidate them under a single alias such as silence_as_assent.
+- Several combat labels are single-occurrence tactical details; retain only if source
+  evidence gives them ritual, heroic, or sacred significance.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3954
+  input_sha256: 47e15d2b8a42185ae8ebb25711292a26dfee8b36c0e4edddde2d29aacf6fea8a
+

@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0529
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hospitality-to-travellers
+  motif_id: hospitality_to_travellers
+  label: Hospitality to travellers
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: Hospitality to travellers fits the stranger/guest hospitality complex
+    already represented in the normalization groups.
+  cautions: Label does not specify a test, divine guest, or sacred sanction; could
+    be ordinary travel etiquette if source evidence is thin.
+  suggested_aliases:
+  - hospitality_to_travelers
+  - traveller_hospitality
+  - traveler_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-giant-community-destroys-fleet-while-one-ship-escapes
+  motif_id: hostile_giant_community_destroys_fleet_while_one_ship_escapes
+  label: Hostile giant community destroys fleet while one ship escapes
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The destructive attack on a fleet is a violent encounter best parked
+    under combat/warfare rather than general journey.
+  cautions: This may be an episode-specific Odyssey-style travel peril involving giants,
+    escape, and maritime danger; do not infer sacred combat without passage evidence.
+  suggested_aliases:
+  - giant_community_destroys_fleet_one_ship_escapes
+  - fleet_destroyed_by_hostile_giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-island-people-seize-a-ship-and-abandon-its-crew
+  motif_id: hostile_island_people_seize_a_ship_and_abandon_its_crew
+  label: Hostile island people seize a ship and abandon its crew
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a travel ordeal or maritime stranding, which may
+    fit journey trials if it transforms or redirects the travelers.
+  cautions: Could instead be piracy, hostile encounter, shipwreck/stranding, or an
+    over-specific plot event; source context is needed before grouping.
+  suggested_aliases:
+  - ship_seized_and_crew_stranded
+  - hostile_islanders_abandon_ship_crew
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-islanders-use-fog-to-destroy-approaching-travelers
+  motif_id: hostile_islanders_use_fog_to_destroy_approaching_travelers
+  label: Hostile islanders use fog to destroy approaching travelers
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: low
+  rationale: Fog used at an approach to destroy travelers may mark a guarded or perilous
+    threshold.
+  cautions: Could be a local hostile-magic episode, weather hazard, combat stratagem,
+    or over-specific travel peril; avoid mapping to threshold guardian unless boundary-guarding
+    is explicit.
+  suggested_aliases:
+  - fog_used_to_destroy_approaching_travelers
+  - hostile_fog_at_island_approach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-ships-at-uncertain-landfall
+  motif_id: hostile_ships_at_uncertain_landfall
+  label: hostile ships at uncertain landfall
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads like a scene note about a particular landfall rather
+    than a stable mythic motif.
+  cautions: If the passage shows a recurring maritime ambush, boundary encounter,
+    or liminal arrival pattern, it could be reconsidered under sacred_combat or hero_journey.
+  suggested_aliases:
+  - hostile_vessels_at_uncertain_landfall
+  - hostile_ships_during_landfall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-small-beings-seize-a-ship-and-strand-travelers
+  motif_id: hostile_small_beings_seize_a_ship_and_strand_travelers
+  label: hostile small beings seize a ship and strand travelers
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: Hostile small beings in a maritime travel episode may indicate an enchanted
+    or otherworldly encounter.
+  cautions: Could simply be an episode-specific travel peril or hostile people encounter;
+    source evidence is needed to determine whether the beings are supernatural and
+    whether otherworld mapping is justified.
+  suggested_aliases:
+  - small_beings_seize_ship_and_strand_travelers
+  - hostile_small_beings_strand_travelers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-waterway-passage-and-naval-ambush
+  motif_id: hostile_waterway_passage_and_naval_ambush
+  label: Hostile waterway passage and naval ambush
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A naval ambush in a contested passage is a combat event at a boundary-like
+    waterway.
+  cautions: If the focus is transformative water crossing rather than battle, sacred_waters
+    or hero_journey may be better secondary context.
+  suggested_aliases:
+  - naval_ambush_in_hostile_waterway
+  - hostile_waterway_ambush
+  - ambush_during_waterway_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.household-divine-guardianship-of-infants
+  motif_id: household_divine_guardianship_of_infants
+  label: household divine guardianship of infants
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Divine guardianship of infants is a protective sacred agency role, fitting
+    divine intervention and tutelary spirit patterns.
+  cautions: Could also relate to miraculous_child if the infant has marked destiny;
+    household cult context may require culturally specific review.
+  suggested_aliases:
+  - divine_guardianship_of_infants
+  - household_guardian_deities_protect_infants
+  - infant_tutelary_deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.household-exogamy-based-on-co-residence-as-kinship
+  motif_id: household_exogamy_based_on_co_residence_as_kinship
+  label: Household exogamy based on co-residence as kinship
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A marriage rule based on household co-residence may belong with sacred
+    law and social order if ritually or cosmologically sanctioned.
+  cautions: This may be an ethnographic kinship rule rather than a mythic motif; culturally
+    sensitive and needs source-context review before indexing.
+  suggested_aliases:
+  - co_residence_as_kinship_exogamy
+  - household_exogamy_rule
+  - co_resident_kinship_marriage_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.household-liminality-after-the-daughter-s-departure
+  motif_id: household_liminality_after_the_daughter_s_departure
+  label: household liminality after the daughter's departure
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a threshold change in family status after departure,
+    which may fit initiation or rite-of-passage logic.
+  cautions: Could be an interpretive social commentary note rather than a motif; source
+    evidence is needed to distinguish marriage departure, filial duty, exile, or household
+    ritual transition.
+  suggested_aliases:
+  - liminal_household_after_daughter_departure
+  - daughter_departure_household_liminality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence maritime travel hazards. Prefer
+  preserving them as evidence details unless broader recurring functions such as combat,
+  threshold ordeal, otherworld encounter, or sacred water passage are explicit.
+- Do not infer transmission or common origin from the Roman, Norse, Islamicate folklore,
+  Arctic-Inuit, Malagasy, Amazonian, Greek-Roman, or Confucian placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence items require passage evidence,
+    especially culturally specific household and kinship labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0529
+  input_sha256: 3b5c6c57a24710831455a3e9df97c433feefc05e04cf98dd7a883468dabf3fda
+

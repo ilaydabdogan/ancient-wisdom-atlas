@@ -1,0 +1,329 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3772
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.petrification-of-a-human-group
+  motif_id: petrification_of_a_human_group
+  label: Petrification of a human group
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Petrification and Stone Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Transformation of humans into stone is a recurring metamorphosis pattern
+    not cleanly covered by shapeshifter or death_and_transformation when the stone
+    state is the main motif.
+  cautions: Single occurrence here; culturally specific landscape or origin context
+    may instead require cosmic_origin or human review.
+  suggested_aliases:
+  - humans turned to stone
+  - stone transformation
+  - petrified people
+  suggested_new_group:
+    id: petrification_stone_transformation
+    label: Petrification and Stone Transformation
+    description: Humans, animals, rivals, or beings are transformed into stone, rock,
+      statue, or petrified form, often as punishment, omen, etiological landscape
+      formation, or supernatural consequence.
+    parent_group_ids:
+    - shapeshifter
+    - death_and_transformation
+    related_group_ids:
+    - divine_judgment
+    - cosmic_origin
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing transformation groups emphasize
+      form-shifting or death-renewal broadly; petrification has a distinct stone/landscape
+      and immobilization function across several unmapped labels.
+- suggestion_id: normalization.suggestion.petrification-of-an-inactive-or-defeated-rival
+  motif_id: petrification_of_an_inactive_or_defeated_rival
+  label: petrification of an inactive or defeated rival
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Petrification and Stone Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A defeated rival turned to stone fits a petrification-as-punishment or
+    victory consequence pattern.
+  cautions: Could be an episode-specific combat aftermath; if petrification is caused
+    by a weapon or monster head, sacred_treasures may be secondary.
+  suggested_aliases:
+  - rival turned to stone
+  - defeated enemy petrified
+  - petrification after defeat
+  suggested_new_group:
+    id: petrification_stone_transformation
+    label: Petrification and Stone Transformation
+    description: Humans, animals, rivals, or beings are transformed into stone, rock,
+      statue, or petrified form, often as punishment, omen, etiological landscape
+      formation, or supernatural consequence.
+    parent_group_ids:
+    - shapeshifter
+    - death_and_transformation
+    related_group_ids:
+    - divine_judgment
+    - sacred_combat
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups can cover transformation
+      or combat, but do not preserve the distinctive immobilizing stone transformation
+      shared by this batch.
+- suggestion_id: normalization.suggestion.petrification-of-young-men
+  motif_id: petrification_of_young_men
+  label: Petrification of young men
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Petrification and Stone Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Young men being turned to stone is a demographic-specific instance of
+    petrification or stone transformation.
+  cautions: Preserve age/gender detail as evidence; source context may indicate punishment,
+    taboo violation, origin of stones, or death transformation.
+  suggested_aliases:
+  - young men turned to stone
+  - petrified youths
+  - youths transformed into stone
+  suggested_new_group:
+    id: petrification_stone_transformation
+    label: Petrification and Stone Transformation
+    description: Humans, animals, rivals, or beings are transformed into stone, rock,
+      statue, or petrified form, often as punishment, omen, etiological landscape
+      formation, or supernatural consequence.
+    parent_group_ids:
+    - shapeshifter
+    - death_and_transformation
+    related_group_ids:
+    - divine_judgment
+    - cosmic_origin
+    reason_existing_groups_insufficient: Mapping only to shapeshifter or death_and_transformation
+      would lose the recurring stone/petrification specificity visible in multiple
+      labels.
+- suggestion_id: normalization.suggestion.petrified-omen-creature
+  motif_id: petrified_omen_creature
+  label: petrified omen creature
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines an omen role with petrification, and the primary function
+    depends on passage evidence.
+  cautions: If the creature is a divinatory sign, prophecy_divination fits; if stone
+    transformation is central, petrification_stone_transformation would fit; if it
+    is just a prodigy catalogue item, it may be too contextual.
+  suggested_aliases:
+  - petrified portent creature
+  - stone omen animal
+  - petrified prodigy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petrified-woman-as-source-of-echo
+  motif_id: petrified_woman_as_source_of_echo
+  label: petrified woman as source of echo
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explains a natural acoustic phenomenon through a transformed
+    figure, making it primarily etiological.
+  cautions: Could also support petrification_stone_transformation as secondary if
+    stone metamorphosis is narratively central; preserve the echo-specific detail
+    as local evidence.
+  suggested_aliases:
+  - echo origin from petrified woman
+  - petrified woman explains echo
+  - etiology of echo from stone woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petrifying-or-transforming-monstrous-face
+  motif_id: petrifying_or_transforming_monstrous_face
+  label: petrifying or transforming monstrous face
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The taxonomy already places petrifying monster-head weapon variants under
+    sacred_treasures; a monstrous face with petrifying power likely belongs near that
+    power-object complex.
+  cautions: If the face is an active monster rather than a severed head or power object,
+    a future monster/threshold group or petrification group may be better.
+  suggested_aliases:
+  - petrifying monstrous face
+  - transforming monster face
+  - monster face turns victims to stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petrifying-rhetorical-power
+  motif_id: petrifying_rhetorical_power
+  label: petrifying rhetorical power
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: low
+  rationale: If rhetorical speech figuratively immobilizes or petrifies hearers, the
+    motif concerns speech as powerful enchantment rather than literal stone transformation.
+  cautions: Likely metaphorical or philosophical commentary; exclude or human-review
+    if not a narrative event with supernatural speech effects.
+  suggested_aliases:
+  - speech that petrifies
+  - rhetoric as immobilizing power
+  - petrifying speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.philosophical-trance-or-abstraction
+  motif_id: philosophical_trance_or_abstraction
+  label: Philosophical trance or abstraction
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A trance or altered state used for philosophical abstraction fits altered
+    perception as a mode of insight.
+  cautions: If the passage is purely conceptual commentary rather than an event or
+    practice, it may be a meta/philosophical artifact; mystical_quest may fit if linked
+    to spiritual discipline.
+  suggested_aliases:
+  - philosophical trance
+  - abstracted contemplation
+  - altered perception through contemplation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.phoenix-image-used-to-admonish-the-sage
+  motif_id: phoenix_image_used_to_admonish_the_sage
+  label: Phoenix image used to admonish the sage
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be symbolic teaching, omen imagery, political admonition,
+    or passage-specific rhetoric depending on context.
+  cautions: Do not map to resurrection or death_rebirth solely from phoenix imagery;
+    Confucian admonitory function may fit sacred_knowledge, prophecy_divination, or
+    sacred_law only with evidence.
+  suggested_aliases:
+  - phoenix admonition
+  - phoenix as moral warning
+  - sage admonished by phoenix image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.phratry-rescue-or-protection
+  motif_id: phratry_rescue_or_protection
+  label: phratry rescue or protection
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A phratry-based rescue/protection motif depends on culturally specific
+    kinship and social-ritual context not present in the label.
+  cautions: Avoid flattening into generic divine_intervention or sacred_law; may be
+    kinship organization, clan protection, ritual obligation, or a passage artifact.
+  suggested_aliases:
+  - kin group rescue
+  - phratry protection
+  - clan rescue obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to a recurring petrification/stone-transformation cluster.
+  Human review should decide whether to add a canonical normalization group or fold
+  these under shapeshifter/death_and_transformation with aliases.
+- Petrification labels should not automatically map to death_rebirth; distinguish
+  punishment, omen, landscape etiology, monster power, and rhetorical metaphor.
+- Culturally specific kinship and Indigenous landscape-origin labels need source review
+  before broad normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; new petrification group candidate suggested
+    due to multiple related unmapped labels in this batch.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3772
+  input_sha256: 1edf8015b32f053ee10b2f9c03be52d92e16430fdc8b192ae927e58732463ee4
+

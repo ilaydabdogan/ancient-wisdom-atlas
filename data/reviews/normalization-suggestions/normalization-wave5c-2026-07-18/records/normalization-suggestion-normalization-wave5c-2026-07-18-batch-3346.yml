@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3346
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.detachable-point-retained-by-line-or-shaft-connection
+  motif_id: detachable_point_retained_by_line_or_shaft_connection
+  label: detachable point retained by line or shaft connection
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a technical artifact or tool-construction detail rather
+    than a symbolic or narrative motif.
+  cautions: If source context shows a sacred weapon, hunting ordeal, or culture-hero
+    invention, review under sacred_craft or sacred_treasures instead.
+  suggested_aliases:
+  - detachable harpoon point retained by line
+  - detachable projectile point with shaft connection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.detached-eye-as-sentry
+  motif_id: detached_eye_as_sentry
+  label: detached eye as sentry
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A detached eye acting as a watchman could involve externalized body power,
+    magical surveillance, or animated body-part transformation.
+  cautions: Single occurrence and culturally specific; source evidence is needed before
+    choosing external_soul, shapeshifter, sacred_treasures, or a future body-part
+    agency group.
+  suggested_aliases:
+  - severed eye as watchman
+  - detached eye keeps watch
+  - independent eye sentry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.detached-head-of-an-enchantress
+  motif_id: detached_head_of_an_enchantress
+  label: Detached head of an enchantress
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The detached head may be a power object, postmortem remnant, animated
+    body part, or magical antagonist depending on episode function.
+  cautions: Do not map only from severed-head imagery; if used as a weapon or trophy,
+    sacred_treasures or sacred_combat may fit, while independent animation may suggest
+    shapeshifter/death transformation.
+  suggested_aliases:
+  - severed head of an enchantress
+  - enchanted detached head
+  - magical severed head
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.detached-or-independent-body-part-acts-as-an-animate-object
+  motif_id: detached_or_independent_body_part_acts_as_an_animate_object
+  label: Detached or independent body part acts as an animate object
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Independent Animated Body Part
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif names autonomous agency of a separated body part, a recurring-looking
+    pattern not cleanly covered by external_soul, sacred_treasures, or shapeshifter.
+  cautions: Human review should verify recurrence; some examples may instead be external-soul
+    tokens, severed-head trophies, relics, or episode-specific marvels.
+  suggested_aliases:
+  - autonomous body part
+  - animated detached body part
+  - independent severed body part
+  suggested_new_group:
+    id: independent_animated_body_part
+    label: Independent Animated Body Part
+    description: A detached or separated body part acts with independent agency, perception,
+      speech, movement, or magical power apart from the whole body.
+    parent_group_ids:
+    - death_and_transformation
+    - shapeshifter
+    related_group_ids:
+    - external_soul
+    - sacred_treasures
+    - sacred_craft
+    reason_existing_groups_insufficient: Existing groups cover separable souls, power
+      objects, and transformation, but not the specific narrative agency of an autonomous
+      body part.
+- suggestion_id: normalization.suggestion.detained-sibling-used-as-leverage
+  motif_id: detained_sibling_used_as_leverage
+  label: Detained sibling used as leverage
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a kinship hostage or coercion situation, but the sacred or mythic
+    function is unclear from the label alone.
+  cautions: May be a plot detail rather than a motif; could relate to sibling_pair,
+    covenant/betrayal, or royal/legal coercion depending on passage evidence.
+  suggested_aliases:
+  - sibling held hostage
+  - detained kin used as leverage
+  - hostage sibling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.detection-by-traces-on-feet
+  motif_id: detection_by_traces_on_feet
+  label: Detection by traces on feet
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a specific recognition or tracking clue, likely too
+    granular without broader identity-proof or sacred function.
+  cautions: If the traces prove hidden identity, guilt, or transformation in a recurrent
+    way, review under recognition_tokens_hidden_identity or divine_judgment.
+  suggested_aliases:
+  - recognition by footprints
+  - detection from foot traces
+  - tracking by marks on feet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deterministic-or-predictive-heavenly-writing
+  motif_id: deterministic_or_predictive_heavenly_writing
+  label: deterministic or predictive heavenly writing
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: high
+  rationale: Heavenly writing that predicts or determines events fits sacred/cosmic
+    records and divine knowledge.
+  cautions: If the writing specifically fixes death or fate, secondary review under
+    death_by_fate or fate_figures_cosmic_weaving may be appropriate.
+  suggested_aliases:
+  - heavenly record of destiny
+  - predictive celestial writing
+  - divine decree in heavenly writing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devalued-treasure-or-ruined-savings
+  motif_id: devalued_treasure_or_ruined_savings
+  label: Devalued treasure or ruined savings
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Loss of value may be moral reversal, trickster outcome, otherworld exchange,
+    or ordinary plot detail.
+  cautions: Do not map to sacred_treasures unless the treasure has sacred power; if
+    wealth is punished by reversal, divine_judgment or pride_and_downfall may fit.
+  suggested_aliases:
+  - treasure loses value
+  - ruined hoard
+  - worthless savings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deviant-subgroup-corrected-by-legal-prohibition
+  motif_id: deviant_subgroup_corrected_by_legal_prohibition
+  label: Deviant subgroup corrected by legal prohibition
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to summarize legal or disciplinary correction rather
+    than a stable mythic motif.
+  cautions: Potentially culturally sensitive wording; if the passage concerns monastic
+    or sacred regulation, sacred_law may fit, but generated framing should be reviewed.
+  suggested_aliases:
+  - subgroup regulated by prohibition
+  - legal correction of deviant practice
+  - disciplinary prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devil-and-black-magic-stories
+  motif_id: devil_and_black_magic_stories
+  label: devil and black magic stories
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label is a genre/topic heading rather than a specific narrative,
+    symbolic, or ritual motif.
+  cautions: Individual stories under this heading may contain mappable motifs such
+    as trickster bargains, curses, apotropaic rites, or divine judgment.
+  suggested_aliases:
+  - devil stories
+  - black magic stories
+  - devil and magic tale category
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and highly contextual; human review should inspect
+  source passages before promoting body-part or hostage/coercion patterns.
+- Avoid treating technical object details or genre headings as motif evidence unless
+  the source passage supplies symbolic or narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3346
+  input_sha256: cf12c41c1ebd748325ee756993d39c1eccd509a0be6d52db103f0dbdd655b16f
+

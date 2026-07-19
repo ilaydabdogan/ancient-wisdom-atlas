@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3476
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.formal-bodily-deference-before-religious-or-official-figures
+  motif_id: formal_bodily_deference_before_religious_or_official_figures
+  label: formal bodily deference before religious or official figures
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes socially regulated ritual deference toward sacred
+    or official authority, broadly fitting sacred law or social order.
+  cautions: Single occurrence and may be an ethnographic etiquette detail rather than
+    a recurring motif; needs source context before indexing.
+  suggested_aliases:
+  - ritual_deference_to_religious_or_official_authority
+  - formal_bodily_deference_to_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-challenge-before-competitive-race
+  motif_id: formal_challenge_before_competitive_race
+  label: Formal challenge before competitive race
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A formal challenge may be an agonistic contest motif, but no current
+    group clearly covers races or non-combat competition.
+  cautions: Could be ritual contest, heroic ordeal, social protocol, or passage-specific
+    event; do not fold into sacred_combat unless the race has warfare or sacred conflict
+    function.
+  suggested_aliases:
+  - ritual_challenge_before_race
+  - formal_racing_challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-communal-adjudication-of-transgression
+  motif_id: formal_communal_adjudication_of_transgression
+  label: Formal communal adjudication of transgression
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Communal judgment of a violation fits sacred law and institutional moral
+    order.
+  cautions: If the passage emphasizes karmic or divine punishment rather than procedure,
+    divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - communal_adjudication_of_transgression
+  - formal_judgment_of_communal_offense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-communal-appointment-of-a-messenger-or-herald
+  motif_id: formal_communal_appointment_of_a_messenger_or_herald
+  label: formal communal appointment of a messenger or herald
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: low
+  rationale: Appointment by communal procedure suggests regulated office and social
+    order rather than a supernatural messenger motif.
+  cautions: May be administrative procedure or textual detail; map to divine_intervention
+    only if the messenger is divinely commissioned or supernatural.
+  suggested_aliases:
+  - communal_appointment_of_messenger
+  - formal_appointment_of_herald
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-communal-motion-appointing-an-office-holder
+  motif_id: formal_communal_motion_appointing_an_office_holder
+  label: formal communal motion appointing an office-holder
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: A formal appointment procedure belongs broadly to sacred social order
+    and institutional law.
+  cautions: Likely a monastic or procedural passage artifact unless shown to recur
+    as a meaningful narrative pattern.
+  suggested_aliases:
+  - formal_appointment_of_office_holder
+  - communal_motion_for_office_appointment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-condolence-protocol
+  motif_id: formal_condolence_protocol
+  label: Formal condolence protocol
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Condolence protocol is a formalized expression of mourning and social
+    grief.
+  cautions: If the evidence stresses correct ritual conduct more than grief, sacred_law
+    may be a useful secondary group.
+  suggested_aliases:
+  - ritual_condolence_protocol
+  - formal_mourning_condolence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-expulsion-followed-by-refusal-to-repent
+  motif_id: formal_expulsion_followed_by_refusal_to_repent
+  label: formal expulsion followed by refusal to repent
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence centers on transgression, corrective expulsion, and refusal
+    of repentance, fitting moral reckoning.
+  cautions: If the expulsion is mainly institutional discipline, sacred_law may be
+    equally relevant; if ritual removal of impurity or spirits, sacrifice may be secondary.
+  suggested_aliases:
+  - expulsion_after_unrepented_transgression
+  - refusal_to_repent_after_formal_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-group-eating-before-conflict-and-after-communal-action
+  motif_id: formal_group_eating_before_conflict_and_after_communal_action
+  label: formal group eating before conflict and after communal action
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Communal eating can mark reciprocity, solidarity, or ritualized social
+    action.
+  cautions: Highly contextual composite label; may involve warfare, hospitality, sacrifice,
+    or ordinary communal procedure depending on source evidence.
+  suggested_aliases:
+  - communal_meal_before_conflict
+  - ritual_group_eating_around_communal_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-hospitality-to-visiting-religious-expedition
+  motif_id: formal_hospitality_to_visiting_religious_expedition
+  label: Formal hospitality to visiting religious expedition
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on formal reception of religious visitors, fitting
+    hospitality obligations toward guests.
+  cautions: If no test, vulnerability, or sacred obligation is present, it may be
+    only a travel or ethnographic detail; sacred_exchange may be secondary.
+  suggested_aliases:
+  - hospitality_to_religious_visitors
+  - formal_reception_of_religious_expedition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-host-guest-news-exchange-with-stationary-headman
+  motif_id: formal_host_guest_news_exchange_with_stationary_headman
+  label: Formal host-guest news exchange with stationary headman
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an over-specific social scene or ethnographic protocol
+    rather than a reusable symbolic motif.
+  cautions: If repeated as a meaningful hospitality-test structure, reconsider under
+    hospitality_test_stranger_guest or sacred_exchange; the headman detail should
+    remain evidence text.
+  suggested_aliases:
+  - formal_host_guest_news_exchange
+  - headman_host_guest_news_protocol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence formal or institutional protocols;
+  review should distinguish recurring motif function from ethnographic or procedural
+  detail.
+- Avoid mapping administrative Buddhist communal procedures to divine_intervention
+  unless sacred agency is explicit.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; most formal-protocol labels need source-context
+    review before broad indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3476
+  input_sha256: fd1e1d7b749ac0077cd441b61088b23aba07294da7298c01bb7bfaa68568b3b3
+

@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1073
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-purity-and-pollution-regulated-by-penalties
+  motif_id: ritual_purity_and_pollution_regulated_by_penalties
+  label: Ritual purity and pollution regulated by penalties
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Purity, pollution, and penalties are ritual-legal regulation, matching
+    sacred_law and its existing purity/prohibition children.
+  cautions: May also support divine_judgment if penalties are explicitly divine punishment
+    rather than ritual regulation.
+  suggested_aliases:
+  - ritual_pollution_regulated_by_penalty
+  - purity_law_with_penalties
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purity-and-taboo-around-new-grain
+  motif_id: ritual_purity_and_taboo_around_new_grain
+  label: ritual purity and taboo around new grain
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo regulating new grain is a purity/prohibition pattern within sacred
+    law.
+  cautions: If the passage centers on harvest cycle or first-fruits seasonality, sacred_time
+    or sacrifice may be useful secondary mappings.
+  suggested_aliases:
+  - new_grain_taboo
+  - first_grain_purity_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purity-and-temporary-prohibition
+  motif_id: ritual_purity_and_temporary_prohibition
+  label: ritual purity and temporary prohibition
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Temporary prohibitions tied to purity are ritual law or taboo, already
+    covered by sacred_law.
+  cautions: Very broad label; preserve local details about the prohibited act and
+    ritual setting in evidence notes.
+  suggested_aliases:
+  - temporary_ritual_prohibition
+  - purity_based_temporary_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purity-as-a-condition-for-communal-recitation
+  motif_id: ritual_purity_as_a_condition_for_communal_recitation
+  label: Ritual purity as a condition for communal recitation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purity required before communal sacred speech is a ritual eligibility
+    rule, fitting sacred_law.
+  cautions: If recitation efficacy or sacred utterance is the main focus, relate to
+    sacred_knowledge or curse_blessing_speech as secondary evidence.
+  suggested_aliases:
+  - purity_before_communal_recitation
+  - ritual_eligibility_for_sacred_recitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purity-as-condition-for-religious-efficacy
+  motif_id: ritual_purity_as_condition_for_religious_efficacy
+  label: Ritual purity as condition for religious efficacy
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Purity as a prerequisite for ritual efficacy is a broad sacred-law purity
+    rule.
+  cautions: Could also relate to sacrifice or sacred_exchange if the efficacy concerns
+    offerings specifically.
+  suggested_aliases:
+  - purity_required_for_ritual_efficacy
+  - ritual_efficacy_conditioned_by_purity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purity-before-contact-with-tutelary-gods
+  motif_id: ritual_purity_before_contact_with_tutelary_gods
+  label: ritual purity before contact with tutelary gods
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purity required before contact with sacred beings is a ritual regulation
+    and purity-law pattern.
+  cautions: Culturally specific tutelary-god context should be reviewed; may also
+    relate to divine_intervention if guardian presence is central.
+  suggested_aliases:
+  - purity_before_contact_with_guardian_deities
+  - ritual_purity_before_tutelary_spirit_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purity-boundary-inverted-by-moral-defilement
+  motif_id: ritual_purity_boundary_inverted_by_moral_defilement
+  label: Ritual purity boundary inverted by moral defilement
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label emphasizes moral defilement overturning ritual purity categories,
+    a moral reckoning rather than a simple purity rule.
+  cautions: Could also map to sacred_law if the passage mainly states a purity norm;
+    source evidence needed for the inversion function.
+  suggested_aliases:
+  - moral_defilement_overrides_ritual_purity
+  - ritual_purity_inverted_by_moral_impurity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purity-condition-before-prayer
+  motif_id: ritual_purity_condition_before_prayer
+  label: ritual purity condition before prayer
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: alias
+  confidence: high
+  rationale: This is effectively the existing ritual_purity_before_prayer alias under
+    sacred_law.
+  cautions: Preserve tradition-specific purity procedures if available; do not collapse
+    into prayer generally.
+  suggested_aliases:
+  - ritual_purity_before_prayer
+  - ritual_purification_before_prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purity-exclusion-and-speech-restriction
+  motif_id: ritual_purity_exclusion_and_speech_restriction
+  label: Ritual purity, exclusion, and speech restriction
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Exclusion and speech restriction based on purity are ritual-legal controls
+    covered by sacred_law.
+  cautions: If the speech restriction is a performative vow, curse, or taboo utterance,
+    curse_blessing_speech may be a secondary mapping.
+  suggested_aliases:
+  - purity_based_exclusion_and_speech_taboo
+  - ritual_exclusion_with_speech_restriction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purity-of-sacred-fire-source
+  motif_id: ritual_purity_of_sacred_fire_source
+  label: ritual purity of sacred fire source
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The distinctive object is sacred fire and its ritually pure source, fitting
+    sacred_fire more specifically than general purity law.
+  cautions: Could also map to sacred_law if the passage emphasizes purity regulation
+    over fire symbolism or divine presence.
+  suggested_aliases:
+  - pure_source_of_sacred_fire
+  - ritual_purity_required_for_sacred_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence ritual-purity variants and can be
+  held under existing sacred_law rather than creating a new purity group.
+- Where the ritual object is distinctive, such as sacred fire or harvest grain, retain
+  local evidence for possible secondary mappings to sacred_fire, sacred_time, or sacrifice.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify passage
+    context for single-occurrence purity labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1073
+  input_sha256: 4f2a037287111d1dc64bfecf0d0e229626b5c22a6decfa60f8e5fccd4c1c17ff
+

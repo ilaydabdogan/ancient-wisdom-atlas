@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2263
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.successive-animal-pursuers-sent-by-a-council
+  motif_id: successive_animal_pursuers_sent_by_a_council
+  label: successive animal pursuers sent by a council
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal agents, pursuit, and a council-sent sequence,
+    but the narrative function is unclear from label alone.
+  cautions: Single occurrence; could be animal helpers, hostile pursuers, council
+    judgment, or an over-specific episode detail.
+  suggested_aliases:
+  - animal_pursuers_sent_by_council
+  - successive_animal_pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - divine_intervention
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-animal-singers-before-the-flute
+  motif_id: successive_animal_singers_before_the_flute
+  label: Successive animal singers before the flute
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is a sequence of animal singers and musical performance,
+    fitting sound or song as significant motif action.
+  cautions: If the animals are merely a catalogue before an instrument origin myth,
+    cosmic_origin or a culture-hero/craft placement may be secondary.
+  suggested_aliases:
+  - animal_singers_before_flute
+  - successive_animal_music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sudden-river-transformation-from-dry-bed-to-flood
+  motif_id: sudden_river_transformation_from_dry_bed_to_flood
+  label: sudden river transformation from dry bed to flood
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A dry riverbed suddenly becoming flood centers on water as dangerous
+    transformative force rather than world-destroying renewal.
+  cautions: Do not map to flood_and_renewal unless the passage includes old-world
+    destruction and renewal; may be episode-specific if only a travel hazard.
+  suggested_aliases:
+  - dry_riverbed_becomes_flood
+  - sudden_flooding_river
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.suffering-expressed-through-animal-and-natural-images
+  motif_id: suffering_expressed_through_animal_and_natural_images
+  label: Suffering expressed through animal and natural images
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes figurative imagery or poetic expression rather than
+    a distinct narrative motif.
+  cautions: If a source passage gives animals or natural forces active mythic agency,
+    remap the specific agency rather than this expression label.
+  suggested_aliases:
+  - animal_and_natural_imagery_of_suffering
+  - suffering_nature_imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoned-animal-trial-followed-by-public-reversal
+  motif_id: summoned_animal_trial_followed_by_public_reversal
+  label: summoned animal trial followed by public reversal
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve animal testimony, ordeal, judgment, trickster reversal,
+    or public vindication, but the function is ambiguous.
+  cautions: Single occurrence and composite wording; verify whether this is legal
+    judgment, trickster exposure, or passage-specific plot summary.
+  suggested_aliases:
+  - animal_trial_public_reversal
+  - summoned_animal_witness_reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoned-beasts-as-dangerous-agents
+  motif_id: summoned_beasts_as_dangerous_agents
+  label: summoned beasts as dangerous agents
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Summoned beasts functioning as dangerous agents fit supernatural or sacred
+    powers acting through animals.
+  cautions: If the beasts are ordinary tactical weapons, sacred_combat may fit; if
+    a magician controls them, source context may suggest sacred_knowledge or trickster.
+  suggested_aliases:
+  - dangerous_summoned_beasts
+  - summoned_animal_agents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoned-birds-as-search-informants
+  motif_id: summoned_birds_as_search_informants
+  label: summoned birds as search informants
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Birds summoned to provide information function as animal helpers or guided
+    search agents under supernatural intervention.
+  cautions: If the passage emphasizes divination by birds rather than helper agency,
+    prophecy_divination may be a better or secondary placement.
+  suggested_aliases:
+  - birds_as_search_informants
+  - summoned_bird_helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoning-an-animal-spouse-before-witnesses
+  motif_id: summoning_an_animal_spouse_before_witnesses
+  label: summoning an animal spouse before witnesses
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may involve animal marriage, shapeshifting spouse, public proof,
+    or recognition before witnesses; no existing group cleanly captures all functions.
+  cautions: Culturally sensitive and single-occurrence; determine whether the animal
+    spouse is transformed, supernatural, totemic, or a literal marriage partner before
+    placement.
+  suggested_aliases:
+  - animal_spouse_summoned_before_witnesses
+  - public_summoning_of_animal_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_love
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoning-by-a-retained-animal-token
+  motif_id: summoning_by_a_retained_animal_token
+  label: Summoning by a retained animal token
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A retained token that enables summoning functions as a power object with
+    agency over an animal or animal-associated being.
+  cautions: If the token controls life-force, external_soul may be better; if it proves
+    identity or relationship, recognition_tokens_hidden_identity may be secondary.
+  suggested_aliases:
+  - animal_token_summoning
+  - retained_token_summons_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoning-of-predatory-beasts
+  motif_id: summoning_of_predatory_beasts
+  label: summoning of predatory beasts
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Predatory beasts summoned as agents align with supernatural intervention
+    through animal powers.
+  cautions: Near-duplicate of summoned_beasts_as_dangerous_agents; consider aliasing
+    together after source review.
+  suggested_aliases:
+  - summoned_predatory_beasts
+  - dangerous_summoned_predators
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence animal-agent labels; source review should distinguish
+  animal helper, supernatural summoning, trickster action, legal/judgment scene, and
+  poetic imagery.
+- Consider whether recurring animal summoning/helper labels eventually justify a more
+  specific subgroup under divine_intervention, but this batch alone does not require
+  a new group.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific animal-spouse
+    and council/trial labels need human evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2263
+  input_sha256: 0b40df86664ffdc5a3256b7bfa57b9b19c2445026df6f60d225e798b5f9bf5ba
+

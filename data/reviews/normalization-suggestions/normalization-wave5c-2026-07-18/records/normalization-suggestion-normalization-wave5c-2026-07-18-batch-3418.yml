@@ -1,0 +1,324 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3418
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.extra-body-part-excluded-as-unfit
+  motif_id: extra_body_part_excluded_as_unfit
+  label: extra body part excluded as unfit
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to tell whether it concerns body formation,
+    disability, creation failure, ritual exclusion, or a narrative joke.
+  cautions: Single occurrence; may be an over-specific episode detail or culturally
+    specific body/fitness classification needing source review.
+  suggested_aliases:
+  - extra_body_part_rejected_as_unfit
+  - excluded_body_part
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extraction-of-an-illness-causing-creature
+  motif_id: extraction_of_an_illness_causing_creature
+  label: Extraction of an illness-causing creature
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A healing rite that removes an intrusive harmful being fits the existing
+    sacred_law cluster for apotropaic protection, spirit contagion, and ritual handling
+    of spiritual danger.
+  cautions: Could deserve a future ritual-healing or shamanic-extraction group if
+    many similar labels recur; review culturally specific healing context before flattening
+    to generic exorcism.
+  suggested_aliases:
+  - healing_extraction_of_illness_creature
+  - removal_of_intrusive_illness_creature
+  - extraction_of_disease_creature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - divine_intervention
+    - soul_loss_restoration
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extraction-of-an-intrusive-illness-object
+  motif_id: extraction_of_an_intrusive_illness_object
+  label: Extraction of an intrusive illness object
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Removal of a harmful intrusive object is a protective/healing rite aligned
+    with sacred_law's apotropaic and spirit-danger ritual variants.
+  cautions: Do not assume biomedical illness, spirit possession, or exorcism without
+    source evidence; may be better handled by a future ritual-healing group.
+  suggested_aliases:
+  - intrusive_illness_object_extraction
+  - removal_of_intrusive_disease_object
+  - healing_extraction_of_harmful_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - soul_loss_restoration
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extraction-of-embodied-evil-or-harmful-substance-from-the-patient
+  motif_id: extraction_of_embodied_evil_or_harmful_substance_from_the_patient
+  label: Extraction of embodied evil or harmful substance from the patient
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif describes ritual removal of embodied harmful force from a patient,
+    fitting apotropaic protection and pollution/spirit-danger handling under sacred_law.
+  cautions: Generated wording such as 'evil' may impose a moral frame on a local healing
+    concept; source review should preserve indigenous terminology and ritual function.
+  suggested_aliases:
+  - extraction_of_harmful_substance_from_patient
+  - removal_of_embodied_harm_from_patient
+  - ritual_extraction_of_illness_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - divine_judgment
+    - soul_loss_restoration
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extraction-of-intrusive-illness-object
+  motif_id: extraction_of_intrusive_illness_object
+  label: Extraction of intrusive illness object
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: This is a close duplicate of intrusive illness-object extraction and
+    fits the protective/healing ritual material already grouped under sacred_law.
+  cautions: Likely synonym of extraction_of_an_intrusive_illness_object; confirm whether
+    traditions or passages distinguish object type, healer role, or ritual process.
+  suggested_aliases:
+  - extraction_of_an_intrusive_illness_object
+  - intrusive_illness_object_extraction
+  - removal_of_intrusive_disease_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - soul_loss_restoration
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extraordinarily-swift-pursuer-of-non-human-origin
+  motif_id: extraordinarily_swift_pursuer_of_non_human_origin
+  label: Extraordinarily swift pursuer of non-human origin
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A non-human pursuer could function as threshold guardian, divine intervention,
+    demonic antagonist, or simple chase episode.
+  cautions: Single occurrence and role depends on narrative context; avoid mapping
+    to threshold_guardian unless pursuit marks a boundary ordeal or passage test.
+  suggested_aliases:
+  - supernaturally_swift_nonhuman_pursuer
+  - swift_nonhuman_pursuer
+  - otherworldly_pursuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - divine_intervention
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extraordinary-ability-despite-physical-impairment
+  motif_id: extraordinary_ability_despite_physical_impairment
+  label: extraordinary ability despite physical impairment
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate a culture hero, trickster, shamanic ability, disability
+    inversion, or moral exemplum, but the function is not evident.
+  cautions: Handle disability-related wording carefully; do not normalize as miraculous
+    or heroic without passage evidence.
+  suggested_aliases:
+  - exceptional_ability_despite_impairment
+  - impaired_figure_with_extraordinary_ability
+  - physical_impairment_with_special_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - culture_hero
+    - divine_intervention
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extraordinary-case-preserved-by-royal-writing
+  motif_id: extraordinary_case_preserved_by_royal_writing
+  label: extraordinary case preserved by royal writing
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe documentation or preservation of a case
+    by writing rather than a narrative motif itself.
+  cautions: If the writing functions as a sacred decree, legal proof, or magical inscription
+    in the story, review for sacred_knowledge, sacred_law, or royal_legitimacy instead.
+  suggested_aliases:
+  - royal_writing_preserves_extraordinary_case
+  - extraordinary_case_recorded_by_the_king
+  - written_record_of_extraordinary_case
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extraordinary-craft-worker-from-the-hand
+  motif_id: extraordinary_craft_worker_from_the_hand
+  label: extraordinary craft-worker from the hand
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: low
+  rationale: The craft-worker element points toward sacred_craft, especially if the
+    figure's origin from a hand confers special making power.
+  cautions: Phrase is ambiguous; could be body-generation, severed body part, helper
+    figure, or passage artifact. Verify the narrative before final mapping.
+  suggested_aliases:
+  - extraordinary_hand_born_craft_worker
+  - craft_worker_originating_from_the_hand
+  - hand_generated_craft_worker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - culture_hero
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extraordinary-food-production-or-procurement
+  motif_id: extraordinary_food_production_or_procurement
+  label: extraordinary food production or procurement
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Extraordinary production or procurement of food aligns with divine_intervention's
+    existing miraculous and inexhaustible provision cluster.
+  cautions: If the food is ritually offered or consciousness-altering, sacred_exchange
+    or sacred_substance may be better secondary mappings; source context needed.
+  suggested_aliases:
+  - miraculous_food_procurement
+  - extraordinary_food_production
+  - supernatural_food_provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_substance
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several illness-extraction labels appear to form a recurring healing/extraction
+  cluster; reviewers may consider whether a future ritual_healing or shamanic_extraction
+  group is warranted, but existing sacred_law can provisionally hold them under apotropaic/protective
+  ritual practice.
+- No taxonomy edits are implied; all placements are provisional and should be checked
+  against passage evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch reviewed for provisional normalization placement only; culturally specific
+    healing and disability/body labels need source-sensitive human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3418
+  input_sha256: b3f8c3dbe07731208278bf6e9cb47a4991aaeb98302765f7ace8a344fc10ee17
+

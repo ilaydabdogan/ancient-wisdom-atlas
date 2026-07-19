@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3719
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.newcomer-challenged-by-resident
+  motif_id: newcomer_challenged_by_resident
+  label: newcomer challenged by resident
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a hospitality, boundary, combat, or social-order encounter depending
+    on source context.
+  cautions: Single occurrence and too context-dependent to map without knowing whether
+    the challenge is ritual, martial, territorial, or domestic.
+  suggested_aliases:
+  - resident_challenges_newcomer
+  - local_challenge_to_arriving_stranger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - threshold_guardian
+    - sacred_combat
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.newly-completed-dwelling-awaiting-first-use
+  motif_id: newly_completed_dwelling_awaiting_first_use
+  label: newly completed dwelling awaiting first use
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A first-use dwelling may imply consecration, threshold status, monastic
+    setting, or merely scene description.
+  cautions: Likely over-specific unless the first use has ritual or sacred-space significance
+    in the passage.
+  suggested_aliases:
+  - new_dwelling_before_first_use
+  - unused_completed_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.next-of-kin-vengeance-for-murder
+  motif_id: next_of_kin_vengeance_for_murder
+  label: next-of-kin vengeance for murder
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin vengeance for murder functions as moral reckoning and retributive
+    repair after wrongful killing.
+  cautions: If the passage emphasizes clan feud or warfare rather than moral accounting,
+    sacred_combat may be a better secondary mapping.
+  suggested_aliases:
+  - kin_vengeance_for_murder
+  - blood_vengeance_by_next_of_kin
+  - familial_revenge_for_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_law
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nicknaming-by-visible-peculiarity
+  motif_id: nicknaming_by_visible_peculiarity
+  label: nicknaming by visible peculiarity
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a naming convention or descriptive detail rather
+    than a durable symbolic motif.
+  cautions: If the nickname establishes identity, destiny, or ritual status, review
+    for recognition_tokens_hidden_identity or sacred_law instead of exclusion.
+  suggested_aliases:
+  - nickname_from_visible_trait
+  - descriptive_naming_by_physical_mark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-and-celestial-bodies-rendered-as-lodge-signs
+  motif_id: night_and_celestial_bodies_rendered_as_lodge_signs
+  label: night and celestial bodies rendered as lodge signs
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: May describe sacred cosmological signs in architecture, but could be
+    a passage-specific ethnographic or visual detail.
+  cautions: Culturally specific symbolic evidence needs source review; do not reduce
+    celestial lodge signs to generic cosmic imagery without context.
+  suggested_aliases:
+  - celestial_lodge_signs
+  - night_sky_rendered_as_dwelling_signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - cosmic_origin
+    - sacred_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-and-swamp-insect-torment
+  motif_id: night_and_swamp_insect_torment
+  label: night and swamp insect torment
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a scene-setting hardship detail rather than a reusable
+    mythic motif.
+  cautions: If the torment is an ordeal with transformative or punitive function,
+    review under initiation or divine_judgment.
+  suggested_aliases:
+  - insect_torment_at_night
+  - swamp_insects_as_night_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-assassination-of-a-rebel-prophetic-claimant
+  motif_id: night_assassination_of_a_rebel_prophetic_claimant
+  label: night assassination of a rebel prophetic claimant
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines political violence, prophetic authority, rebellion, and night
+    attack in a highly contextual event label.
+  cautions: Could be sacred_combat, divine_judgment, royal_legitimacy, or a historical/passage
+    artifact; needs source review, especially for sensitive religious-political context.
+  suggested_aliases:
+  - assassination_of_rebel_prophetic_claimant
+  - night_killing_of_prophetic_pretender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_judgment
+    - royal_legitimacy
+    - prophecy_divination
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-concealment-before-public-exposure
+  motif_id: night_concealment_before_public_exposure
+  label: night concealment before public exposure
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The concealment-exposure sequence may involve hidden identity, shame,
+    punishment, or narrative suspense.
+  cautions: Insufficient evidence to choose between recognition, divine judgment,
+    storytelling suspense, or a plot artifact.
+  suggested_aliases:
+  - concealment_before_public_revelation
+  - hidden_at_night_then_exposed_publicly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - divine_judgment
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-encirclement-and-dawn-attack-on-a-village
+  motif_id: night_encirclement_and_dawn_attack_on_a_village
+  label: night encirclement and dawn attack on a village
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A coordinated village encirclement and dawn attack is a warfare/raid
+    pattern best held under sacred_combat.
+  cautions: May be merely historical or episode-specific unless the attack has ritual,
+    retaliatory, or cosmological significance.
+  suggested_aliases:
+  - dawn_attack_after_night_encirclement
+  - village_encircled_at_night_and_attacked_at_dawn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-encounter-with-vata
+  motif_id: night_encounter_with_vata
+  label: night encounter with vata
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label depends on what vata is and what function the nighttime encounter
+    serves.
+  cautions: Culturally specific being/name; avoid mapping until source clarifies whether
+    this is spirit encounter, threshold ordeal, otherworld contact, or local person/place
+    detail.
+  suggested_aliases:
+  - nocturnal_encounter_with_vata
+  - encounter_with_vata_at_night
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - otherworld
+    - divine_intervention
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, scene-level, or culturally specific;
+  source context is needed before durable normalization.
+- Do not treat nighttime setting alone as a motif unless it performs a threshold,
+  concealment, ritual, or combat function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft suggestions only; prioritize human review for culturally specific Melanesian,
+    Chaco-Amerindian, Native American Southwest, and Islamic/Islamicate labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3719
+  input_sha256: 3ce86a84f4eb15951a0424dad124ca246f6aa4928bba7a92c30335fb138c863c
+

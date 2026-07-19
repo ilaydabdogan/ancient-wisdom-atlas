@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0589
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.quarrel-divides-a-voyage-into-two-vessels-with-divergent-fates
+  motif_id: quarrel_divides_a_voyage_into_two_vessels_with_divergent_fates
+  label: Quarrel divides a voyage into two vessels with divergent fates
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines voyage, quarrel, vessel-splitting, and contrasting
+    fate; no existing group clearly captures the primary function without passage
+    evidence.
+  cautions: May be an over-specific episode detail; could involve hero_journey, sacred_waters,
+    betrayal_violated_trust, or death_by_fate depending on the narrative outcome.
+  suggested_aliases:
+  - divided_voyage_with_divergent_fates
+  - quarrel_splits_travel_party
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-a-hidden-oral-tradition
+  motif_id: quest_for_a_hidden_oral_tradition
+  label: quest for a hidden oral tradition
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A quest for concealed oral knowledge fits acquisition or recovery of
+    protected tradition and transformative knowledge.
+  cautions: If the label describes folklore collection or scholarly recovery rather
+    than an in-story quest, exclude as textual/commentary artifact.
+  suggested_aliases:
+  - quest_for_hidden_tradition
+  - search_for_concealed_oral_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-a-lost-band-of-kin
+  motif_id: quest_for_a_lost_band_of_kin
+  label: quest for a lost band of kin
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A search for lost kin is a departure-and-quest pattern within the broader
+    journey complex.
+  cautions: Could map secondarily to sacred_twins/sibling_pair or recognition_tokens_hidden_identity
+    if reunion, kin recognition, or sibling structure is central.
+  suggested_aliases:
+  - quest_for_lost_kin
+  - search_for_missing_kin_group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-a-matching-status-animal
+  motif_id: quest_for_a_matching_status_animal
+  label: Quest for a matching status animal
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern a status-symbol animal, animal helper, bride-price-like
+    equivalence, or heroic quest object; function is unclear.
+  cautions: Do not map merely because it contains a quest; review whether the animal
+    is a sacred treasure, helper, matching companion, royal token, or passage-specific
+    object.
+  suggested_aliases:
+  - quest_for_matching_animal
+  - quest_for_status_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-a-rare-singing-bird
+  motif_id: quest_for_a_rare_singing_bird
+  label: quest for a rare singing bird
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sought object is a singing bird, likely valued for supernatural or
+    compelling song, fitting the sound-power complex better than generic journey.
+  cautions: If the bird is primarily a treasure, bride-quest object, or animal helper,
+    sacred_treasures, sacred_love, or divine_intervention may be better.
+  suggested_aliases:
+  - quest_for_singing_bird
+  - rare_singing_bird_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-an-arthurian-champion
+  motif_id: quest_for_an_arthurian_champion
+  label: quest for an Arthurian champion
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is anchored to a named literary cycle and generic search target
+    rather than a reusable symbolic motif.
+  cautions: If the passage shows a recurring narrative function such as seeking a
+    rescuer, hidden king, or champion replacement, remap under hero_journey or divine_warrior
+    after review.
+  suggested_aliases:
+  - quest_for_a_champion
+  - search_for_arthurian_champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-an-incomparable-bride
+  motif_id: quest_for_an_incomparable_bride
+  label: Quest for an incomparable bride
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: high
+  rationale: A bride-seeking quest fits the existing sacred_love group, which includes
+    bride choice and bride-winning patterns.
+  cautions: If the focus is dynastic legitimacy or a martial contest for the bride,
+    royal_legitimacy or sacred_combat may be relevant secondary mappings.
+  suggested_aliases:
+  - bride_quest
+  - quest_for_peerless_bride
+  - quest_for_incomparable_bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-black-face-paint
+  motif_id: quest_for_black_face_paint
+  label: Quest for black face-paint
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The face-paint may function as ritual marker, sacred substance, war preparation,
+    mourning sign, or status object; the label alone is culturally specific and ambiguous.
+  cautions: Culturally sensitive material; review source context before mapping. Could
+    be over-specific if the color/object detail does not recur across sources.
+  suggested_aliases:
+  - quest_for_ritual_face_paint
+  - black_face_paint_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-mineral-wealth-blocked-or-deferred
+  motif_id: quest_for_mineral_wealth_blocked_or_deferred
+  label: Quest for mineral wealth blocked or deferred
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could be a failed wealth quest, tabooed resource access, deferred
+    sacred treasure, or moral judgment against greed.
+  cautions: May fit sacred_treasures, divine_judgment, pride_and_downfall, or hero_journey
+    depending on why access to wealth is blocked.
+  suggested_aliases:
+  - blocked_quest_for_mineral_wealth
+  - deferred_quest_for_mineral_riches
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.quest-for-origins-through-travel-and-observation
+  motif_id: quest_for_origins_through_travel_and_observation
+  label: Quest for origins through travel and observation
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A journey undertaken to discover origins is primarily a knowledge-seeking
+    quest, with travel serving the revelatory function.
+  cautions: If the passage explains world or people origins rather than the quest
+    for knowledge, cosmic_origin may be a secondary or better placement.
+  suggested_aliases:
+  - quest_for_origins
+  - origin_seeking_journey
+  - travel_to_learn_origins
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence quest composites; prefer preserving
+  quest details as evidence notes unless the object or function aligns with an existing
+  group.
+- Avoid treating every 'quest for X' as hero_journey when X clearly indicates knowledge,
+  love, sound power, treasure, or culturally specific ritual material.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several single-occurrence quest labels require
+    passage evidence before durable mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0589
+  input_sha256: 4bf72afc4ec8732f68915f3164f64a9c259482f1e384157cf4d35609cd4fedfe
+

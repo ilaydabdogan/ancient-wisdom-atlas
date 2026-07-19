@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0132
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.delayed-pollution-after-violent-or-unexpected-death
+  motif_id: delayed_pollution_after_violent_or_unexpected_death
+  label: delayed pollution after violent or unexpected death
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Death pollution and delayed impurity rules fit ritual purity, taboo,
+    and sacred-law regulation.
+  cautions: Zoroastrian corpse-impurity concepts are culturally specific; may also
+    relate to ancestor or mortuary rites if the passage emphasizes care of the dead.
+  suggested_aliases:
+  - death_pollution_after_violent_death
+  - delayed_corpse_impurity
+  - mortuary_pollution_after_unexpected_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.delayed-rescue-at-the-last-deadline
+  motif_id: delayed_rescue_at_the_last_deadline
+  label: delayed rescue at the last deadline
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a rescue timing pattern but does not specify whether
+    the function is divine intervention, quest ordeal, death escape, or narrative
+    suspense.
+  cautions: Single occurrence and potentially plot-specific; review source evidence
+    before mapping to divine_intervention, hero_journey, storytelling_as_power, or
+    death_and_transformation.
+  suggested_aliases:
+  - last_minute_rescue
+  - rescue_at_final_deadline
+  - delayed_deliverance_at_deadline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deliverance-from-birth-old-age-disease-and-death
+  motif_id: deliverance_from_birth_old_age_disease_and_death
+  label: Deliverance from birth, old age, disease, and death
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Liberation from samsaric suffering fits a spiritual path toward release,
+    knowledge, or liberation.
+  cautions: Could merit a future liberation/nirvana subgroup if many Buddhist labels
+    recur; avoid reducing it to resurrection or afterlife passage.
+  suggested_aliases:
+  - liberation_from_birth_old_age_disease_and_death
+  - deliverance_from_samsaric_suffering
+  - release_from_birth_aging_sickness_and_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demon-consumption-of-the-dead
+  motif_id: demon_consumption_of_the_dead
+  label: Demon consumption of the dead
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Demonic treatment of corpses may involve afterlife peril, mortuary fear,
+    spirit predation, or local demonology not clearly covered by one group.
+  cautions: Culturally sensitive and single occurrence; review whether the dead are
+    souls, corpses, or narrative victims before mapping to afterlife_passage, restless_dead_haunting_vengeance,
+    or threshold_guardian.
+  suggested_aliases:
+  - demonic_consumption_of_corpses
+  - demons_devour_the_dead
+  - corpse_consumption_by_demons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demon-island-and-hell-associated-volcanic-cone
+  motif_id: demon_island_and_hell_associated_volcanic_cone
+  label: Demon island and hell-associated volcanic cone
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: low
+  rationale: A demon island or hell-linked volcanic place is an otherworldly or infernal
+    landscape adjacent to ordinary geography.
+  cautions: Highly local place-linked label; if it mainly identifies a specific place
+    rather than a recurring otherworld pattern, exclude or keep as evidence detail.
+    If postmortem route is explicit, afterlife_passage may be better.
+  suggested_aliases:
+  - hell_associated_volcanic_cone
+  - demon_island_as_infernal_place
+  - infernal_volcanic_island
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demon-of-corruption-surrounding-the-dead
+  motif_id: demon_of_corruption_surrounding_the_dead
+  label: Demon of corruption surrounding the dead
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A corruption demon around the dead fits death impurity, spirit contagion,
+    and mortuary purity regulation.
+  cautions: May overlap with demonology or corpse-rite evidence; preserve the Zoroastrian
+    specificity rather than generalizing all death pollution.
+  suggested_aliases:
+  - corpse_corruption_demon
+  - demon_of_death_impurity
+  - demonic_corruption_around_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-audit-of-failed-entrapment-offset-by-substitute-souls
+  motif_id: demonic_audit_of_failed_entrapment_offset_by_substitute_souls
+  label: demonic audit of failed entrapment offset by substitute souls
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines demonic accounting, entrapment failure, and substitute
+    souls in a very specific plot sequence.
+  cautions: Likely episode-specific or generated composite; review before mapping.
+    Possible parents include divine_judgment for soul accounting, sacrifice for substitution,
+    or afterlife_passage for postmortem soul handling.
+  suggested_aliases:
+  - demonic_accounting_of_souls
+  - substitute_souls_offset_failed_entrapment
+  - demonic_audit_of_soul_entrapment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-fly-form-associated-with-death-impurity
+  motif_id: demonic_fly_form_associated_with_death_impurity
+  label: demonic fly form associated with death impurity
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on death impurity and ritual danger, with fly form
+    as a culturally specific manifestation.
+  cautions: Could also be a shapeshifter or demon-form detail, but the functional
+    emphasis is impurity; keep fly imagery as evidence detail.
+  suggested_aliases:
+  - fly_demon_of_death_impurity
+  - demonic_fly_as_corpse_impurity
+  - death_impurity_manifested_as_fly_demon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-retreat-into-hell
+  motif_id: demonic_retreat_into_hell
+  label: Demonic retreat into hell
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: low
+  rationale: Hell as a navigable infernal realm fits afterlife or underworld geography
+    when demonic beings move into it.
+  cautions: If this is merely defeat or withdrawal of demons rather than a mapped
+    postmortem realm, divine_judgment or narrative detail may fit better.
+  suggested_aliases:
+  - demons_retreat_to_hell
+  - demonic_withdrawal_to_infernal_realm
+  - retreat_of_demons_into_hell
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-seizure-of-wicked-souls
+  motif_id: demonic_seizure_of_wicked_souls
+  label: Demonic seizure of wicked souls
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Wicked souls seized by demons expresses postmortem moral consequence
+    and judgment.
+  cautions: Could also index under afterlife_passage if the passage emphasizes the
+    soul's route or infernal guardians; avoid assuming demons are divine agents without
+    source context.
+  suggested_aliases:
+  - demons_seize_wicked_souls
+  - wicked_souls_taken_by_demons
+  - demonic_capture_of_sinful_souls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, culturally specific death-impurity
+  or demonology items; placements should remain provisional pending source review.
+- For Zoroastrian corpse-impurity labels, sacred_law is used for ritual purity function,
+  not to flatten distinct demonological concepts.
+- Avoid treating all hell or demon labels as afterlife_passage unless the evidence
+  shows postmortem geography, soul transit, judgment, or ritual navigation.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed for culturally
+    specific demonology and over-specific single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0132
+  input_sha256: 3b15372df744f2e1fa25621365cfd2688e8406391db93cbdf5dd47a955e28fe0
+

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2626
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bow-test-for-choosing-a-spouse-among-suitors
+  motif_id: bow_test_for_choosing_a_spouse_among_suitors
+  label: bow test for choosing a spouse among suitors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spouse-choice contest among suitors fits the existing bride-choice
+    and bride-winning contest material under sacred_love.
+  cautions: If the passage emphasizes the weapon ordeal or heroic proof more than
+    marriage selection, secondary review under sacred_combat or recognition_tokens_hidden_identity
+    may be needed.
+  suggested_aliases:
+  - bow contest for bride choice
+  - bride winning by bow test
+  - suitor contest with bow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-body-as-sign-of-supernatural-violence
+  motif_id: broken_body_as_sign_of_supernatural_violence
+  label: Broken body as sign of supernatural violence
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate divine combat, violent death, monstrous attack,
+    or an evidentiary detail rather than a stable motif.
+  cautions: Single occurrence and highly contextual; verify whether supernatural agency
+    is explicit and whether the broken body has narrative function beyond marking
+    violence.
+  suggested_aliases:
+  - mutilated body as sign of supernatural attack
+  - broken corpse as evidence of supernatural force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-gate-opens-battle-with-hidden-defender
+  motif_id: broken_gate_opens_battle_with_hidden_defender
+  label: Broken gate opens battle with hidden defender
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core action is a battle episode initiated by breach of a defended
+    threshold, which fits sacred_combat more than a distinct boundary motif.
+  cautions: Likely episode-specific; preserve gate and hidden-defender details as
+    evidence rather than promoting as canonical unless it recurs.
+  suggested_aliases:
+  - gate breach reveals hidden defender
+  - battle opened by broken gate
+  - hidden defender behind broken gate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-or-removed-enemy-teeth-as-revenge-sign
+  motif_id: broken_or_removed_enemy_teeth_as_revenge_sign
+  label: broken or removed enemy teeth as revenge sign
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Enemy teeth used as a revenge sign resembles bodily trophies or martial
+    proof already grouped under divine_warrior.
+  cautions: Culturally specific body-part treatment needs source review; may be a
+    revenge custom, trophy sign, or passage detail rather than sacred combat proper.
+  suggested_aliases:
+  - enemy teeth as revenge trophy
+  - removed teeth as sign of vengeance
+  - body part trophy as revenge sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-promise-to-rescue-wounded-companion
+  motif_id: broken_promise_to_rescue_wounded_companion
+  label: Broken promise to rescue wounded companion
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif turns on failure of a promised protective duty to a vulnerable
+    companion, aligning with violated trust.
+  cautions: If the source emphasizes warrior duty, abandonment in battle, or mourning
+    more than the broken bond, sacred_combat or lament_and_mourning may be relevant
+    secondary groups.
+  suggested_aliases:
+  - failed promise to rescue companion
+  - abandoned wounded companion
+  - broken rescue oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-promised-reward-after-successful-task
+  motif_id: broken_promised_reward_after_successful_task
+  label: Broken promised reward after successful task
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: Withholding an agreed reward after a completed task is a broken obligation
+    and violated exchange.
+  cautions: Could also support covenant or sacred_exchange if the promise has divine,
+    oath, or reciprocal-gift framing.
+  suggested_aliases:
+  - withheld promised reward
+  - reward promise broken after task
+  - betrayal after successful task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-weapon-repaired-and-sent-through-an-intermediary
+  motif_id: broken_weapon_repaired_and_sent_through_an_intermediary
+  label: Broken weapon repaired and sent through an intermediary
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A repaired weapon transmitted for use functions as a power object within
+    the existing sacred_treasures field.
+  cautions: If the focus is craft or smithing rather than the weapon's power, sacred_craft
+    may be a better or secondary placement; intermediary detail may be episode-specific.
+  suggested_aliases:
+  - repaired weapon sent by intermediary
+  - restored weapon transmitted to hero
+  - broken weapon restored for combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-weapon-reserved-for-future-hero
+  motif_id: broken_weapon_reserved_for_future_hero
+  label: Broken weapon reserved for future hero
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A special weapon preserved for a destined hero fits power objects that
+    confer martial authority or sacred ability.
+  cautions: May also connect to prophecy_divination or miraculous_child if the future
+    hero's destiny is central; preserve broken-weapon specificity.
+  suggested_aliases:
+  - weapon reserved for destined hero
+  - broken sword kept for future hero
+  - future hero's reserved weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.brother-against-brother-internecine-war
+  motif_id: brother_against_brother_internecine_war
+  label: Brother-against-brother internecine war
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Conflict between brothers is a sibling-pair pattern where rivalry drives
+    social or mythic disorder.
+  cautions: If the passage primarily concerns warfare between factions rather than
+    sibling structure, sacred_combat may be the better primary group.
+  suggested_aliases:
+  - fraternal war
+  - brother against brother conflict
+  - sibling internecine conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.brother-s-wrongdoing-and-contested-desertion
+  motif_id: brother_s_wrongdoing_and_contested_desertion
+  label: Brother’s wrongdoing and contested desertion
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too contextual to determine whether it concerns sibling
+    rivalry, moral judgment, loyalty, or battle desertion.
+  cautions: Single occurrence and abstract phrasing; review source evidence before
+    mapping to sacred_twins, divine_judgment, sacred_law, betrayal_violated_trust,
+    or sacred_combat.
+  suggested_aliases:
+  - contested desertion by a brother
+  - brother's wrongdoing in war
+  - fraternal accusation of desertion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional taxonomy placements only and make no claims about transmission,
+  borrowing, or common origin.
+- Several labels are single-occurrence and episode-specific; human reviewers should
+  preserve local details as evidence notes where broader groups are used.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch reviewed for broad normalization placement; low-confidence contextual
+    labels marked for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2626
+  input_sha256: 9f29e94d2b4d697da6bd70afa0783704d916a6de5b236a007659672bf7d0cfcb
+

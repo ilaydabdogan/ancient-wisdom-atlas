@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3515
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.handmade-textile-production-as-communal-skill
+  motif_id: handmade_textile_production_as_communal_skill
+  label: Handmade textile production as communal skill
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: low
+  rationale: Textile production is craft-centered, but the label gives no sacred,
+    ritual, mythic, or transformative function.
+  cautions: May be ethnographic or social-description detail rather than a motif;
+    do not map to sacred_craft unless the passage frames weaving as sacred, ancestral,
+    or cosmogonic skill.
+  suggested_aliases:
+  - communal_textile_craft
+  - weaving_as_communal_skill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.handmaid-offered-in-response-to-barrenness
+  motif_id: handmaid_offered_in_response_to_barrenness
+  label: handmaid offered in response to barrenness
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns fertility, kinship, and surrogate reproduction, but
+    no current group cleanly covers barrenness or substitute childbearing.
+  cautions: Culturally and legally contextual; may relate to sacred_birth, covenant
+    lineage, social order, or household conflict depending on passage evidence.
+  suggested_aliases:
+  - surrogate_handmaid_for_barrenness
+  - substitute_motherhood_in_response_to_barrenness
+  suggested_new_group:
+    id: barrenness_and_surrogate_birth
+    label: Barrenness and Surrogate Birth
+    description: Barrenness, infertility, substitute childbearing, or socially arranged
+      reproduction used to secure lineage, promise, inheritance, or sacred destiny.
+    parent_group_ids:
+    - miraculous_child
+    - sacred_law
+    related_group_ids:
+    - covenant
+    - royal_legitimacy
+    - sacred_love
+    reason_existing_groups_insufficient: miraculous_child covers extraordinary birth
+      and threatened infancy but not the social-legal motif of infertility answered
+      through a surrogate or handmaid arrangement.
+- suggestion_id: normalization.suggestion.happiness-following-duty
+  motif_id: happiness_following_duty
+  label: happiness following duty
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Happiness as the result of fulfilled duty fits ethical order and conduct
+    aligned with sacred or moral law.
+  cautions: Could be philosophical commentary rather than narrative motif; if purely
+    abstract doctrine, preserve as evidence note rather than broad query child.
+  suggested_aliases:
+  - happiness_from_fulfilled_duty
+  - duty_leads_to_happiness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.happiness-of-the-whole-over-the-part
+  motif_id: happiness_of_the_whole_over_the_part
+  label: happiness of the whole over the part
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Prioritizing communal order over individual interest fits sacred law,
+    social order, and ethical obligation.
+  cautions: Likely philosophical or political doctrine; review whether it appears
+    as a narrative motif or only as commentary.
+  suggested_aliases:
+  - common_good_over_individual_happiness
+  - happiness_of_whole_over_part
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harbor-fishing-scene
+  motif_id: harbor_fishing_scene
+  label: Harbor fishing scene
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a descriptive scene setting rather than a symbolic
+    or narrative motif.
+  cautions: If the fishing scene carries ritual, omen, recognition, abundance, or
+    threshold function, remap with passage evidence; otherwise exclude from motif
+    queries.
+  suggested_aliases:
+  - fishing_scene_at_harbor
+  - harbor_fishing_setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harm-from-improvised-bodily-treatment
+  motif_id: harm_from_improvised_bodily_treatment
+  label: harm from improvised bodily treatment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A harmful result from foolish or improper treatment may function as moral
+    consequence in an exemplum.
+  cautions: Could be medical anecdote, comic fable, or cautionary teaching rather
+    than divine judgment; source context needed before stable mapping.
+  suggested_aliases:
+  - harm_from_bad_remedy
+  - improvised_treatment_causes_harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harm-through-footprints-or-tracks
+  motif_id: harm_through_footprints_or_tracks
+  label: harm through footprints or tracks
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Harm mediated through traces of the body fits ritual danger, contagion,
+    and taboo logic already grouped under sacred_law.
+  cautions: May involve culturally specific magical or spirit-harm concepts; review
+    respectfully and preserve footprint/track specificity as evidence.
+  suggested_aliases:
+  - harm_by_footprints
+  - tracks_used_to_harm_a_target
+  - contagious_harm_through_tracks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harm-through-material-taken-from-the-target
+  motif_id: harm_through_material_taken_from_the_target
+  label: harm through material taken from the target
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Harm through bodily or personal material fits contagious magic, taboo,
+    and dangerous contact patterns under sacred_law.
+  cautions: Could also be curse/blessing speech or sorcery-specific practice if spoken
+    performance is central; avoid flattening local ritual categories.
+  suggested_aliases:
+  - contagious_harm_through_personal_material
+  - harm_by_taken_body_material
+  - target_material_used_for_harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harmful-being-expelled-through-or-from-a-floor-opening
+  motif_id: harmful_being_expelled_through_or_from_a_floor_opening
+  label: harmful being expelled through or from a floor opening
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core action is expulsion of a harmful being, matching the ritual
+    expulsion complex currently nested under sacrifice.
+  cautions: The floor-opening detail may be over-specific comparative evidence; if
+    the opening functions as a threshold, threshold_guardian or sacred_law may be
+    secondary.
+  suggested_aliases:
+  - expulsion_of_harmful_being_through_floor_opening
+  - spirit_expulsion_via_floor_opening
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.harmful-being-petitions-deities-for-food-and-destructive-domain
+  motif_id: harmful_being_petitions_deities_for_food_and_destructive_domain
+  label: Harmful being petitions deities for food and destructive domain
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A harmful being receiving a divinely assigned domain may reflect divine
+    ordering of destructive powers.
+  cautions: Could be demonology, etiology of disease/destruction, divine judgment,
+    or sacred exchange; label is composite and needs source evidence before mapping.
+  suggested_aliases:
+  - harmful_being_granted_destructive_domain
+  - destructive_being_petitions_the_gods_for_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence ethical, ethnographic, or scene-description
+  labels; preserve local evidence and avoid promoting granular wording without recurrence.
+- For contagious harm and expulsion labels, review culturally specific ritual terminology
+  before final indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple low-confidence items require passage-level
+    evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3515
+  input_sha256: df60814b7f54d8360ce41eaabc46a99175d8caac19ccd63d35345e264260012e
+

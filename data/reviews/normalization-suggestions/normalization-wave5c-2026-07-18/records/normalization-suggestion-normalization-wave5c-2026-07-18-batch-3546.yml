@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3546
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hospitality-to-a-winter-visitor
+  motif_id: hospitality_to_a_winter_visitor
+  label: hospitality to a winter visitor
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on receiving a visitor, matching the existing hospitality/stranger
+    guest complex.
+  cautions: Winter setting may be culturally and ecologically important; if no test,
+    reciprocity, or sacred guest function is present, preserve as local evidence detail.
+  suggested_aliases:
+  - winter visitor hospitality
+  - hospitality to a stranger in winter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-to-arriving-outsiders
+  motif_id: hospitality_to_arriving_outsiders
+  label: Hospitality to arriving outsiders
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: Arriving outsiders function as guests or strangers whose reception is
+    the salient motif.
+  cautions: May be a historical-contact or migration scene rather than a symbolic
+    hospitality motif; review passage evidence before broad use.
+  suggested_aliases:
+  - hospitality to outsiders
+  - reception of arriving strangers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-to-distressed-mariners
+  motif_id: hospitality_to_distressed_mariners
+  label: hospitality to distressed mariners
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes care for vulnerable strangers, a close fit for hospitality
+    to a guest or suppliant.
+  cautions: Marine peril may also support divine_intervention or sacred_waters if
+    rescue at sea is central; hospitality should be the mapped function only if hosting/care
+    is emphasized.
+  suggested_aliases:
+  - hospitality to shipwrecked mariners
+  - reception of distressed seafarers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-transformed-into-feud-obligation
+  motif_id: hospitality_transformed_into_feud_obligation
+  label: Hospitality transformed into feud obligation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif begins in hospitality but turns on feud obligation, which may
+    shift the function toward covenant, vengeance, or sacred combat.
+  cautions: Composite and context-dependent; review whether the operative motif is
+    guest-host obligation, violated bond, kin-feud duty, or saga-specific plot logic.
+  suggested_aliases:
+  - guest hospitality creating feud duty
+  - hospitality obligation becomes feud duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-turned-to-accusation
+  motif_id: hospitality_turned_to_accusation
+  label: hospitality turned to accusation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: A hospitable relationship becoming accusation suggests broken trust,
+    but the label lacks enough context to identify the primary function.
+  cautions: Could belong to hospitality_test_stranger_guest, betrayal_violated_trust,
+    divine_judgment, or false accusation depending on who accuses whom and why.
+  suggested_aliases:
+  - guest-host trust becomes accusation
+  - hospitality followed by accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-with-winter-lodging-and-news-exchange
+  motif_id: hospitality_with_winter_lodging_and_news_exchange
+  label: Hospitality with winter lodging and news exchange
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core is guest-host hospitality, while winter lodging and news exchange
+    are contextual details.
+  cautions: If news exchange or saga information transmission is the main motif, storytelling_as_power
+    or a passage-specific evidence note may be better than hospitality indexing.
+  suggested_aliases:
+  - winter lodging hospitality
+  - guest lodging and news exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.host-abstention-while-guests-consume-ceremonial-food
+  motif_id: host_abstention_while_guests_consume_ceremonial_food
+  label: host abstention while guests consume ceremonial food
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label combines host-guest relations with ceremonial food distribution,
+    suggesting ritualized exchange.
+  cautions: Culturally specific food etiquette may be too granular; could fit hospitality_test_stranger_guest,
+    sacred_substance, sacrifice, or sacred_law depending on ritual meaning.
+  suggested_aliases:
+  - ceremonial food served to guests while host abstains
+  - host abstains during guest ritual meal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.host-attempts-to-divert-visitor
+  motif_id: host_attempts_to_divert_visitor
+  label: host attempts to divert visitor
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: uncertain
+  confidence: low
+  rationale: A host managing or deflecting a visitor may involve guest-host protocol,
+    but the narrative function is unclear.
+  cautions: Could be trickery, boundary guarding, avoidance of taboo, or a passage-specific
+    plot action rather than hospitality as sacred test.
+  suggested_aliases:
+  - host diverts a visitor
+  - attempted diversion of guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.host-community-awaiting-visiting-ceremonial-party
+  motif_id: host_community_awaiting_visiting_ceremonial_party
+  label: host community awaiting visiting ceremonial party
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A community awaiting a ceremonial visiting party fits ritualized reception
+    and reciprocal sacred exchange.
+  cautions: If the episode is mainly ceremonial scheduling or ethnographic description,
+    it may be too contextual; review for actual exchange, obligation, or ritual hosting.
+  suggested_aliases:
+  - host community receives ceremonial visitors
+  - awaiting a visiting ceremonial party
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.host-guest-ceremonial-hospitality
+  motif_id: host_guest_ceremonial_hospitality
+  label: host-guest ceremonial hospitality
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label directly names ceremonial host-guest hospitality, matching
+    the existing hospitality group.
+  cautions: May also support sacred_exchange if gifts, food, or reciprocal ritual
+    obligations are central.
+  suggested_aliases:
+  - ceremonial host-guest hospitality
+  - ritual hospitality between host and guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch cluster around hospitality, guest reception, and ceremonial
+  exchange; several are single-occurrence and context-dependent.
+- Use hospitality_test_stranger_guest when the guest-host relationship or reception
+  of a vulnerable stranger is the primary motif; use sacred_exchange when reciprocal
+  ceremonial giving, food, or obligation is primary.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review should check source passages for
+    ritual specificity and avoid flattening culturally local hospitality protocols.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3546
+  input_sha256: d62e600d71d9bed4adeb3ea1a953e4c060a4195d68d8382cdcbcaf8e14b44e48
+

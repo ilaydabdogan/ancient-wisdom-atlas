@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1202
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.temporary-exclusion-from-rites-pending-settlement
+  motif_id: temporary_exclusion_from_rites_pending_settlement
+  label: Temporary exclusion from rites pending settlement
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Temporary exclusion from rites is a ritual rule regulating access to
+    sacred practice until a condition is resolved.
+  cautions: Single occurrence; if the settlement is monastic/legal rather than ritual
+    purity, covenant or a discipline-specific note may be better.
+  suggested_aliases:
+  - temporary_ritual_exclusion_until_settlement
+  - conditional_exclusion_from_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-festival-ruler-governing-before-purification-rite
+  motif_id: temporary_festival_ruler_governing_before_purification_rite
+  label: temporary festival ruler governing before purification rite
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines temporary kingship, festival inversion, and purification;
+    function cannot be determined from the label alone.
+  cautions: Could map to sacred_time, royal_legitimacy, sacrifice, or divine_judgment
+    depending on whether the ruler is scapegoat, carnival king, ritual substitute,
+    or authority figure.
+  suggested_aliases:
+  - temporary_festival_king_before_purification
+  - mock_ruler_before_purification_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-relaxation-of-rules-after-ritual-completion
+  motif_id: temporary_relaxation_of_rules_after_ritual_completion
+  label: Temporary relaxation of rules after ritual completion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns regulated suspension or relaxation of ritual rules
+    within a sacred legal order.
+  cautions: May be a monastic procedural detail rather than a reusable motif; verify
+    recurrence before broad indexing.
+  suggested_aliases:
+  - ritual_rule_relaxation_after_completion
+  - temporary_suspension_of_rules_after_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-restriction-before-first-fruits-rite
+  motif_id: temporary_restriction_before_first_fruits_rite
+  label: Temporary restriction before first-fruits rite
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A pre-first-fruits restriction is tied to seasonal agricultural ritual
+    timing and sacred calendar order.
+  cautions: Could also map to sacred_law if the focus is prohibition, or sacrifice
+    if the first fruits are an offering.
+  suggested_aliases:
+  - pre_first_fruits_taboo
+  - restriction_before_first_fruits_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-ritual-disorder-before-expulsion-or-purification
+  motif_id: temporary_ritual_disorder_before_expulsion_or_purification
+  label: temporary ritual disorder before expulsion or purification
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The existing sacrifice group already contains expulsion, purification,
+    and communal clearance rites; this is a preparatory disorder phase of that complex.
+  cautions: If the passage emphasizes festival inversion rather than expulsion, sacred_time
+    or sacred_law may be better secondary placements.
+  suggested_aliases:
+  - ritual_disorder_before_purification
+  - licensed_disorder_before_expulsion_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-ritual-investiture-with-feather
+  motif_id: temporary_ritual_investiture_with_feather
+  label: Temporary ritual investiture with feather
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual status change, sacred object use, or culturally
+    specific ceremonial detail.
+  cautions: Culturally specific Native American Southwest evidence needs careful review;
+    feather symbolism should not be generalized without source context.
+  suggested_aliases:
+  - ritual_investiture_by_feather
+  - temporary_feather_investiture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-ritual-mask-destroyed-after-use
+  motif_id: temporary_ritual_mask_destroyed_after_use
+  label: Temporary ritual mask destroyed after use
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif involves a culturally specific ritual object and its disposal,
+    which could indicate purity, sacred danger, or ceremonial impermanence.
+  cautions: Navajo ritual context is sensitive; avoid mapping solely to sacred_treasures
+    or sacrifice without evidence about why the mask is destroyed.
+  suggested_aliases:
+  - ritual_mask_destroyed_after_use
+  - single_use_ritual_mask
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-ritual-permission-for-licentiousness-mediated-by-sacred-objects
+  motif_id: temporary_ritual_permission_for_licentiousness_mediated_by_sacred_objects
+  label: temporary ritual permission for licentiousness mediated by sacred objects
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual license, sexual/social inversion, and sacred
+    objects; placement depends on cultural and ritual function.
+  cautions: Potentially culturally sensitive and possibly generated from outsider
+    terminology; review source evidence before indexing under sacred_law, sacred_love,
+    sacred_treasures, or sacred_time.
+  suggested_aliases:
+  - temporary_ritual_license_mediated_by_sacred_objects
+  - ritual_permission_for_transgressive_behavior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-sacred-enclosure-made-by-ritual-construction
+  motif_id: temporary_sacred_enclosure_made_by_ritual_construction
+  label: temporary sacred enclosure made by ritual construction
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on ritual construction that creates a sacred space
+    or enclosure.
+  cautions: Could also fit axis_mundi or sacred_law if the enclosure functions as
+    a sacred center or purity boundary; cultural context should be reviewed.
+  suggested_aliases:
+  - ritually_constructed_temporary_sacred_enclosure
+  - temporary_ritual_enclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temptation-and-victory-of-a-holy-exemplar
+  motif_id: temptation_and_victory_of_a_holy_exemplar
+  label: Temptation and victory of a holy exemplar
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A holy figure’s victory over temptation functions as an ordeal proving
+    transformed status or sacred authority.
+  cautions: May fit duality in Zoroastrian context if cosmic good/evil opposition
+    is central, or divine_judgment if framed as moral testing.
+  suggested_aliases:
+  - holy_exemplar_overcomes_temptation
+  - victory_over_temptation_by_sacred_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual details; treat mappings
+  as broad review placements, not taxonomy edits.
+- Native American Southwest and Navajo ritual-object labels should receive culturally
+  informed human review before query indexing.
+- Temporary ritual license, festival rulers, and ritual disorder may indicate a broader
+  festival inversion pattern, but this batch does not justify a new group by itself.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed for culturally
+    specific ritual labels and ambiguous festival-inversion items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1202
+  input_sha256: 202f8b275e6ef8f69a5c0a7a63918fff0ee1c4cc245b2145288f86d4aafce372
+

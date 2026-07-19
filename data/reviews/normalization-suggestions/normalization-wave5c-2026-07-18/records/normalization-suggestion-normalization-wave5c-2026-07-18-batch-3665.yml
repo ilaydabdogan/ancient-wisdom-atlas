@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3665
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mediated-oral-transmission-through-translator-and-scribe
+  motif_id: mediated_oral_transmission_through_translator_and_scribe
+  label: Mediated oral transmission through translator and scribe
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes collection, translation, and scribal mediation rather
+    than a narrative or symbolic motif.
+  cautions: Preserve as provenance or transmission metadata; do not use as evidence
+    for motif comparison.
+  suggested_aliases:
+  - oral_transmission_mediated_by_translator_and_scribe
+  - translator_and_scribe_mediated_oral_record
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediated-voice-of-the-original-poet
+  motif_id: mediated_voice_of_the_original_poet
+  label: Mediated voice of the original poet
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a poetic authority motif, a frame-narrative device, or a commentary/transmission
+    artifact.
+  cautions: If it refers to textual mediation or editorial attribution, exclude as
+    _meta_textual; if it concerns sacred poetic speech, review under storytelling_as_power
+    or sacred_knowledge.
+  suggested_aliases:
+  - poet_s_voice_mediated_through_reciter
+  - original_poet_s_voice_through_later_speaker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediating-bond-between-perceiver-and-object
+  motif_id: mediating_bond_between_perceiver_and_object
+  label: Mediating bond between perceiver and object
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as philosophical or interpretive abstraction rather than
+    a clear recurring motif.
+  cautions: May belong under sacred_knowledge if tied to perception and knowing, but
+    may be commentary-only and should not be indexed without passage evidence.
+  suggested_aliases:
+  - perception_mediated_by_bond_with_object
+  - bond_between_knower_and_known
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediation-prevents-continuing-feud
+  motif_id: mediation_prevents_continuing_feud
+  label: mediation prevents continuing feud
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mediation that halts feud repairs social bonds and restores agreed order.
+  cautions: If the passage emphasizes legal procedure more than sacred or binding
+    reconciliation, sacred_law may be a secondary fit; avoid overclaiming sacred status
+    from label alone.
+  suggested_aliases:
+  - feud_prevented_by_mediation
+  - mediation_averts_blood_feud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediation-truce-and-rejected-atonement
+  motif_id: mediation_truce_and_rejected_atonement
+  label: mediation, truce, and rejected atonement
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Truce-making and rejected atonement concern attempted repair of broken
+    social bonds.
+  cautions: Composite label; if refusal of compensation is the core scene, align with
+    existing supplication/ransom-refusal children under covenant.
+  suggested_aliases:
+  - truce_mediation_with_rejected_compensation
+  - rejected_atonement_after_mediation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediator-pacifies-violent-companions
+  motif_id: mediator_pacifies_violent_companions
+  label: mediator pacifies violent companions
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: role_variant
+  confidence: medium
+  rationale: A mediator restraining companions functions to preserve or restore social
+    bonds and peace.
+  cautions: Could be an episode-specific character role rather than a durable motif;
+    review whether mediation has ritual, legal, or oath-bound force.
+  suggested_aliases:
+  - peace_mediator_restrains_violent_companions
+  - companion_violence_pacified_by_mediator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediator-redirects-escalating-vengeance
+  motif_id: mediator_redirects_escalating_vengeance
+  label: mediator redirects escalating vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Redirecting vengeance is a reconciliation function that limits feud and
+    repairs social order.
+  cautions: May also relate to sacred_law if formal legal settlement is central; keep
+    vengeance detail as evidence.
+  suggested_aliases:
+  - mediation_redirects_vengeance
+  - vengeance_deescalated_by_mediator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediator-secures-peace-for-a-guilty-kinsman
+  motif_id: mediator_secures_peace_for_a_guilty_kinsman
+  label: Mediator secures peace for a guilty kinsman
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Securing peace for a guilty kin member centers on negotiated restoration
+    of damaged bonds.
+  cautions: Kinship and guilt may make this a highly contextual saga-law detail; review
+    for recurrence before promoting a narrower child.
+  suggested_aliases:
+  - peace_secured_for_guilty_kin_by_mediator
+  - kinsman_protected_by_peace_mediation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.medical-exception-for-extraordinary-illness
+  motif_id: medical_exception_for_extraordinary_illness
+  label: Medical exception for extraordinary illness
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An exception to ordinary rules for illness fits sacred-law regulation
+    with necessity exceptions.
+  cautions: Could be monastic legal commentary rather than a motif; preserve only
+    if framed as recurring rule, dispensation, or purity/discipline pattern.
+  suggested_aliases:
+  - illness_exception_to_ritual_rule
+  - extraordinary_illness_as_legal_exception
+  - medical_necessity_exception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.medicinal-charm-carried-on-the-body
+  motif_id: medicinal_charm_carried_on_the_body
+  label: Medicinal charm carried on the body
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A body-carried charm for healing or protection fits apotropaic and ritual-protective
+    practice under sacred_law.
+  cautions: Could also relate to sacred_treasures if the charm is a named power object;
+    review culturally specific healing context carefully.
+  suggested_aliases:
+  - healing_charm_worn_on_body
+  - body_carried_medicinal_charm
+  - protective_medicinal_amulet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Norse mediation labels cluster around feud settlement and peace-making;
+  consider later review for a narrower feud-mediation child under covenant or sacred_law
+  if recurrence grows.
+- Labels describing translation, scribal mediation, or original poetic voice should
+  be separated from motif indexing unless the source passage itself treats speech
+  or poetic mediation as a sacred narrative power.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for abstract philosophical
+    and transmission-related labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3665
+  input_sha256: 54917ff7e41eafde44569514c35ca0cbe0aec905b44f97a5fdea736f43d024a9
+

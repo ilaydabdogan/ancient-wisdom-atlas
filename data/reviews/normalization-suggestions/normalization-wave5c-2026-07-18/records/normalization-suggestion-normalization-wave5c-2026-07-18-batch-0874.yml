@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0874
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.holy-tree-as-source-of-ritual-implement
+  motif_id: holy_tree_as_source_of_ritual_implement
+  label: Holy tree as source of ritual implement
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A holy tree used to generate a ritual implement fits sacred-tree/axis
+    symbolism with a ritual-material function.
+  cautions: Single occurrence; if the focus is craft production or ritual object efficacy
+    rather than sacred-tree symbolism, sacred_craft or sacred_treasures may be secondary
+    fits.
+  suggested_aliases:
+  - sacred_tree_as_source_of_ritual_implement
+  - holy_tree_ritual_implement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-visitors-bring-joy-music-and-household-brightness
+  motif_id: holy_visitors_bring_joy_music_and_household_brightness
+  label: Holy visitors bring joy, music, and household brightness
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Holy visitors entering a household and transforming its atmosphere aligns
+    with sacred guest/visitor motifs around blessed reception.
+  cautions: If no hospitality or host-guest exchange is present, this may instead
+    be theophany, divine_intervention, or a devotional passage detail; music/brightness
+    should remain evidence detail.
+  suggested_aliases:
+  - holy_visitors_bless_household
+  - sacred_visitors_bring_household_joy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-warriors-singing-like-heavenly-hosts
+  motif_id: holy_warriors_singing_like_heavenly_hosts
+  label: holy warriors singing like heavenly hosts
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Holy warriors compared to heavenly hosts belongs most directly to sacred/divinely
+    charged combat imagery.
+  cautions: The singing and heavenly-host comparison may be hymnic or liturgical imagery
+    rather than a distinct combat motif; consider enchanting_music only if song has
+    supernatural effect.
+  suggested_aliases:
+  - holy_warriors_like_heavenly_hosts
+  - warriors_singing_like_heavenly_hosts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-water-amplifying-ritual-efficacy
+  motif_id: holy_water_amplifying_ritual_efficacy
+  label: holy-water amplifying ritual efficacy
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: high
+  rationale: Holy water increasing ritual power is a clear ritual use of sacred water
+    as purifying or efficacious medium.
+  cautions: Preserve the specific ritual function; do not treat as flood, primordial
+    water, or water crossing unless passage evidence supports those functions.
+  suggested_aliases:
+  - holy_water_enhances_ritual_efficacy
+  - sacred_water_amplifies_ritual_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-water-as-ritual-object
+  motif_id: holy_water_as_ritual_object
+  label: Holy-water as ritual object
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label is a broad ritual-object formulation of sacred water and fits
+    the existing sacred_waters group.
+  cautions: Very broad generated label; distinguish purification, healing, blessing,
+    boundary crossing, and cosmological water functions in evidence notes.
+  suggested_aliases:
+  - holy_water_ritual_object
+  - sacred_water_as_ritual_medium
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-water-blessing-for-commercial-gain
+  motif_id: holy_water_blessing_for_commercial_gain
+  label: holy water blessing for commercial gain
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sacred-water ritual with a specific economic aim,
+    and its motif status depends on source context.
+  cautions: May be satire, magical practice, commercial detail, or passage-specific
+    commentary; avoid normalizing as sacred_waters without evidence that the water
+    itself is ritually central.
+  suggested_aliases:
+  - holy_water_for_commercial_blessing
+  - sacred_water_blessing_for_gain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-water-made-by-contact-with-sacred-writing-as-remedy
+  motif_id: holy_water_made_by_contact_with_sacred_writing_as_remedy
+  label: Holy water made by contact with sacred writing as remedy
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Water sacralized through scripture and used as a remedy fits sacred water
+    as ritual-healing medium.
+  cautions: Also relates to sacred_knowledge because sacred writing confers efficacy;
+    if the text rather than the water is primary, secondary mapping may be needed.
+  suggested_aliases:
+  - scripture_contact_holy_water_remedy
+  - sacred_writing_makes_healing_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-water-with-shining-water-lord
+  motif_id: holy_water_with_shining_water_lord
+  label: Holy water with shining water-lord
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Holy water associated with a luminous water divinity belongs under sacred_waters
+    as divinized water imagery.
+  cautions: If the passage emphasizes the deity's manifestation more than water symbolism,
+    theophany or divine_intervention may be a better primary placement.
+  suggested_aliases:
+  - sacred_water_with_shining_water_lord
+  - holy_water_and_luminous_water_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-works-shining-with-divine-worth
+  motif_id: holy_works_shining_with_divine_worth
+  label: holy works shining with divine worth
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and may describe ethical merit, ritual purity,
+    divine light, or commentary rather than a concrete motif.
+  cautions: Could fit sacred_law, sacred_fire/divine light, or divine_judgment depending
+    on source evidence; may be too generalized for pattern queries.
+  suggested_aliases:
+  - holy_deeds_shining_with_divine_worth
+  - righteous_works_shine_with_sacred_value
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.homicide-taboo-followed-by-purification
+  motif_id: homicide_taboo_followed_by_purification
+  label: Homicide taboo followed by purification
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A taboo concerning killing followed by purification is a ritual-law and
+    purity regulation pattern.
+  cautions: If purification is sacrificial or expiatory, sacrifice/atonement_rite
+    may be a secondary mapping; review culturally specific legal and ritual context
+    carefully.
+  suggested_aliases:
+  - purification_after_homicide_taboo
+  - homicide_pollution_and_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels have single occurrences and should remain provisional evidence details
+  unless recurrence supports canonical promotion.
+- Holy-water labels can mostly map to sacred_waters, but reviewers should preserve
+  whether the passage emphasizes purification, healing, blessing, divine presence,
+  or ritual efficacy.
+- Avoid treating broad luminous or holy language as theophany or sacred_fire unless
+  source evidence shows divine manifestation or fire/light as the core function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0874
+  input_sha256: 807f0e32baa6f5e5f046e0f008f93eef0fa143004ef7aa1c50de4b9ebfc9540e
+

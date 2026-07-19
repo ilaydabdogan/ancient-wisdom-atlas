@@ -1,0 +1,311 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3700
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mourning-vigil-with-bodily-attendance-and-dirge
+  motif_id: mourning_vigil_with_bodily_attendance_and_dirge
+  label: Mourning vigil with bodily attendance and dirge
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on formalized mourning, bodily attendance, and dirge,
+    matching lament and mourning practices.
+  cautions: Single occurrence; may also be a local funerary rite detail rather than
+    a broad motif. If ritual obligations around the dead dominate, heroic_funeral_rites
+    or ancestor_rites may be secondary.
+  suggested_aliases:
+  - mourning_vigil_with_dirge
+  - vigil_attendance_and_dirge_for_the_dead
+  - funerary_vigil_and_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-widow-s-retaliatory-attack-on-the-victim-s-eyes
+  motif_id: mourning_widow_s_retaliatory_attack_on_the_victim_s_eyes
+  label: Mourning widow's retaliatory attack on the victim's eyes
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: low
+  rationale: The mourning widow element points toward lament and mourning, but the
+    retaliatory eye attack may instead be vengeance, mutilation, or episode-specific
+    violence.
+  cautions: Highly specific and culturally contextual; do not normalize as mourning
+    alone without source evidence. May require exclusion if it is a one-off plot detail.
+  suggested_aliases:
+  - widow_retaliation_during_mourning
+  - mourning_widow_attacks_the_eyes
+  - retaliatory_mutilation_in_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mouth-projected-magical-missile
+  motif_id: mouth_projected_magical_missile
+  label: Mouth-projected magical missile
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A projectile emitted from the mouth is a supernatural attack detail,
+    but existing groups do not cleanly cover magical weapons or bodily sorcery as
+    a recurring motif.
+  cautions: Could fit sacred_combat, divine_warrior, curse_blessing_speech, or sacred_treasures
+    depending on whether the missile is combat, spoken power, object, or shamanic
+    action. Source context needed.
+  suggested_aliases:
+  - magical_missile_from_the_mouth
+  - mouth_emitted_supernatural_projectile
+  - oral_magical_projectile
+  suggested_new_group:
+    id: supernatural_attack_and_magic_weapons
+    label: Supernatural Attack and Magic Weapons
+    description: Magical, bodily, spoken, or spirit-powered attacks that wound, kill,
+      disable, or transform opponents outside ordinary weapon use.
+    parent_group_ids:
+    - sacred_combat
+    - divine_warrior
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_treasures
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing combat groups emphasize warriors,
+      battles, and sacred weapons, while this label concerns a magical bodily attack
+      mechanism that may recur outside warfare.
+- suggestion_id: normalization.suggestion.movement-from-enclosed-forest-to-open-savannah-renewal
+  motif_id: movement_from_enclosed_forest_to_open_savannah_renewal
+  label: movement from enclosed forest to open savannah renewal
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: The renewal language suggests transformation, but the movement between
+    ecological zones may be a passage-specific landscape transition.
+  cautions: Do not infer death-rebirth or initiation from spatial movement alone.
+    Could fit hero_journey, cosmic_origin, sacred_geography, or be excluded as contextual
+    description depending on evidence.
+  suggested_aliases:
+  - forest_to_savannah_renewal
+  - movement_to_open_land_as_renewal
+  - landscape_transition_and_renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.movement-with-a-slain-chief-s-body
+  motif_id: movement_with_a_slain_chief_s_body
+  label: Movement with a slain chief's body
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Transporting or moving the slain chief's body plausibly belongs to funerary
+    handling and memorial rites for a socially important dead figure.
+  cautions: If the movement is flight, concealment, trophy-taking, or battle over
+    the corpse rather than funerary care, sacred_combat or lament_and_mourning may
+    be better.
+  suggested_aliases:
+  - transport_of_a_slain_chief_s_body
+  - movement_of_a_leader_s_corpse
+  - funerary_transport_of_a_slain_chief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moving-lake-carried-by-cloud
+  motif_id: moving_lake_carried_by_cloud
+  label: moving lake carried by cloud
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A mobile lake borne by cloud is a supernatural water phenomenon, broadly
+    fitting sacred waters.
+  cautions: May be an etiological landscape motif, weather myth, or local legend rather
+    than passage-through-water. If it explains a lake's origin or relocation, cosmic_origin
+    may be a secondary fit.
+  suggested_aliases:
+  - cloud_carried_lake
+  - wandering_lake_in_a_cloud
+  - supernatural_moving_lake
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moving-objects-create-landscape-feature-and-resource-place
+  motif_id: moving_objects_create_landscape_feature_and_resource_place
+  label: Moving objects create landscape feature and resource place
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes etiological formation of landscape and resource places,
+    already within the cosmic_origin group's landscape-formation scope.
+  cautions: Review Indigenous Australian source context carefully; preserve local
+    place-making and resource significance rather than flattening to generic creation.
+  suggested_aliases:
+  - moving_objects_form_landscape_features
+  - objects_create_resource_places
+  - etiological_landscape_formation_by_moving_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moving-path-as-magical-snare
+  motif_id: moving_path_as_magical_snare
+  label: moving path as magical snare
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: low
+  rationale: A path that moves as a magical snare functions as a perilous threshold
+    or passage obstacle.
+  cautions: No guardian figure is explicit. Could instead belong to trickster, labyrinth_initiation,
+    or supernatural trap motifs if source evidence emphasizes deception or ordeal.
+  suggested_aliases:
+  - magical_snare_path
+  - moving_path_trap
+  - enchanted_path_as_snare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moving-target-archery-for-pooled-stakes
+  motif_id: moving_target_archery_for_pooled_stakes
+  label: moving target archery for pooled stakes
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a very specific contest or game detail rather than a broad
+    symbolic motif.
+  cautions: If the contest determines marriage, kingship, initiation, or sacred combat
+    outcome, remap under sacred_combat, royal_legitimacy, or initiation with evidence.
+    Otherwise preserve only as passage detail.
+  suggested_aliases:
+  - archery_contest_with_moving_target
+  - moving_target_archery_stakes
+  - pooled_stakes_archery_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mullah-nasreddin-anecdote-cycle
+  motif_id: mullah_nasreddin_anecdote_cycle
+  label: Mullah Nasreddin anecdote cycle
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label names a tale/anecdote cycle and protagonist tradition rather
+    than a specific narrative motif.
+  cautions: Individual Nasreddin anecdotes may contain trickster, wisdom, reversal,
+    or social satire motifs; map those separately from the cycle label.
+  suggested_aliases:
+  - nasreddin_anecdote_cycle
+  - mullah_nasreddin_cycle
+  - nasreddin_tale_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several single-occurrence labels appear over-specific; preserve local evidence details
+  where useful rather than promoting them into canonical taxonomy.
+- Culturally specific landscape and ritual labels should receive human review before
+  broad normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch includes mixed funerary, landscape-etiology, magical-attack, and meta-textual
+    labels; several require source-context verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3700
+  input_sha256: e99a8d61b8a8c7e936c047d71e89da543156c4093b88c37d370b4d6de2323c39
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0461
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.arrival-of-masked-gods-from-the-east
+  motif_id: arrival_of_masked_gods_from_the_east
+  label: arrival of masked gods from the east
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: uncertain
+  confidence: low
+  rationale: Masked gods arriving may be divine manifestation, ritual visitation,
+    or cultural-context-specific ceremonial narrative.
+  cautions: Single occurrence and culturally sensitive Pueblo/Southwest masked-divinity
+    context; review source evidence before indexing as generic theophany or journey.
+  suggested_aliases:
+  - masked_gods_arrive
+  - masked_divine_visitors
+  - arrival_of_masked_divinities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-of-strangers-after-ominous-traces
+  motif_id: arrival_of_strangers_after_ominous_traces
+  label: arrival of strangers after ominous traces
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: Ominous traces before strangers arrive may function as omen, warning,
+    or merely plot setup.
+  cautions: Needs source context to decide whether the traces are divinatory signs,
+    danger evidence, or passage-specific suspense detail.
+  suggested_aliases:
+  - ominous_traces_before_strangers
+  - strangers_arrive_after_omens
+  - warning_traces_before_arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-of-the-destined-bridegroom
+  motif_id: arrival_of_the_destined_bridegroom
+  label: arrival of the destined bridegroom
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a fated marriage partner arriving, fitting love,
+    marriage choice, and destined union motifs.
+  cautions: If the passage emphasizes fate more than courtship or union, death_by_fate
+    or prophecy_divination may be a secondary review path.
+  suggested_aliases:
+  - destined_bridegroom_arrives
+  - fated_bridegroom_arrival
+  - arrival_of_fated_marriage_partner
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-of-two-female-visitors-through-opened-lodge-doorway
+  motif_id: arrival_of_two_female_visitors_through_opened_lodge_doorway
+  label: Arrival of two female visitors through opened lodge doorway
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a scene-specific entrance detail rather than a reusable
+    symbolic or narrative motif.
+  cautions: If the visitors are supernatural guests or threshold figures, review could
+    remap to hospitality_test_stranger_guest, otherworld, or threshold_guardian.
+  suggested_aliases:
+  - two_female_visitors_arrive
+  - visitors_enter_through_lodge_doorway
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-of-vessel-bringing-aid-or-labor-after-storm-damage
+  motif_id: arrival_of_vessel_bringing_aid_or_labor_after_storm_damage
+  label: Arrival of vessel bringing aid or labor after storm damage
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A vessel bringing aid after storm damage may be providential rescue,
+    maritime assistance, or ordinary plot logistics.
+  cautions: Do not map to ark_vessel unless preservation through catastrophe is explicit;
+    source evidence needed for supernatural aid.
+  suggested_aliases:
+  - aid_vessel_after_storm
+  - rescue_vessel_after_storm_damage
+  - storm_damage_relief_by_arriving_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-signaled-by-a-thrown-object-and-erupting-water
+  motif_id: arrival_signaled_by_a_thrown_object_and_erupting_water
+  label: arrival signaled by a thrown object and erupting water
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: uncertain
+  confidence: low
+  rationale: Erupting water may be a supernatural sign, water manifestation, or scene-specific
+    magic marker.
+  cautions: Thrown-object detail is highly specific; review whether water is transformative,
+    boundary-crossing, divinatory, or merely dramatic.
+  suggested_aliases:
+  - erupting_water_signals_arrival
+  - thrown_object_summons_water_sign
+  - water_eruption_as_arrival_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrow-crossing-marksmanship-game
+  motif_id: arrow_crossing_marksmanship_game
+  label: arrow crossing marksmanship game
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: A marksmanship game may be a ritual contest, martial test, or ordinary
+    game scene.
+  cautions: Do not force into combat unless the game determines status, conflict,
+    initiation, or sacred outcome; may be too specific.
+  suggested_aliases:
+  - marksmanship_game_with_crossing_arrows
+  - arrow_marksmanship_contest
+  - ritual_arrow_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.artisanship-as-breaking-natural-integrity
+  motif_id: artisanship_as_breaking_natural_integrity
+  label: Artisanship as breaking natural integrity
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: This is an ethical-philosophical wisdom theme about craft, artificiality,
+    and natural wholeness.
+  cautions: May be commentary or doctrine rather than narrative motif; if purely philosophical
+    abstraction, preserve as evidence under wisdom rather than promote.
+  suggested_aliases:
+  - craft_breaks_natural_wholeness
+  - artifice_violates_natural_integrity
+  - artisanship_as_artificial_disruption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ascetic-wandering-celibacy-and-homelessness
+  motif_id: ascetic_wandering_celibacy_and_homelessness
+  label: Ascetic wandering, celibacy, and homelessness
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: high
+  rationale: Renunciant wandering and celibacy are disciplines of the seeker pursuing
+    sacred transformation.
+  cautions: May also touch renunciation under sacred_exchange; preserve ascetic practice
+    details for local meaning.
+  suggested_aliases:
+  - ascetic_wandering
+  - renunciant_homelessness
+  - celibate_mystical_wandering
+  - wandering_ascetic_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.assembly-inquest-for-fatal-assault
+  motif_id: assembly_inquest_for_fatal_assault
+  label: assembly inquest for fatal assault
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A communal legal inquiry into fatal violence fits sacred law, social
+    order, and formal reckoning.
+  cautions: If the passage emphasizes vengeance, feud, or battlefield killing, sacred_combat
+    or divine_judgment may be secondary; verify legal assembly function.
+  suggested_aliases:
+  - legal_inquest_after_killing
+  - assembly_judgment_for_fatal_assault
+  - communal_inquiry_into_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; no taxonomy edits are implied.
+- Several single-occurrence arrival labels appear scene-specific and require source
+  context before broad motif indexing.
+- Culturally specific masked-divinity and Indigenous ceremonial contexts should receive
+  human review before normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft batch suggestions generated from label semantics and current normalization
+    groups; source passages not reviewed.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0461
+  input_sha256: 8a18b28ffd32f484b2d35b6d502c36488290165b2b92c41bc61a1c2bb40cd138
+

@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0076
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.corporate-land-tenure-through-descent-and-reversion
+  motif_id: corporate_land_tenure_through_descent_and_reversion
+  label: Corporate land tenure through descent and reversion
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as an ethnographic/legal land-tenure rule rather than a mythic
+    motif about death, ancestry, or descent.
+  cautions: If source evidence shows ancestors actively authorize land rights, a future
+    ancestor/social-order mapping may be needed; otherwise exclude from motif queries.
+  suggested_aliases:
+  - corporate descent land tenure
+  - land reversion through descent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corporeal-imagery-for-spiritual-pleasures
+  motif_id: corporeal_imagery_for_spiritual_pleasures
+  label: Corporeal imagery for spiritual pleasures
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe paradise/afterlife imagery, mystical metaphor,
+    or interpretive commentary rather than a discrete motif.
+  cautions: Do not collapse bodily pleasure imagery into sacred_love or afterlife_passage
+    without passage evidence; culturally sensitive theological interpretation needs
+    review.
+  suggested_aliases:
+  - bodily imagery for spiritual bliss
+  - corporeal metaphor for paradisal pleasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-adornment-and-farewell-breath
+  motif_id: corpse_adornment_and_farewell_breath
+  label: corpse adornment and farewell breath
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Corpse adornment and farewell gestures are mortuary rites honoring and
+    preparing the dead.
+  cautions: If the farewell breath is a soul-capture or soul-release action, soul_loss_restoration
+    or external_soul may be a secondary review target.
+  suggested_aliases:
+  - corpse adornment with farewell breath
+  - farewell breath at corpse adornment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-adornment-as-expression-of-social-regard
+  motif_id: corpse_adornment_as_expression_of_social_regard
+  label: corpse adornment as expression of social regard
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Adornment of the corpse to express regard is a funerary honor and memorial/social-order
+    act.
+  cautions: The group label is heroic, but its description includes kin and social
+    funerary honors; retain local non-heroic context in evidence notes.
+  suggested_aliases:
+  - funerary corpse adornment expressing regard
+  - corpse decoration as social honor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-adornment-before-public-exposure
+  motif_id: corpse_adornment_before_public_exposure
+  label: corpse adornment before public exposure
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Preparing and adorning a body before public display belongs with funerary
+    rites and memorialization.
+  cautions: If public exposure is chiefly denial of burial, corpse disposal, or ritual
+    pollution management, sacred_law or heroic_funeral_rites children for denied burial
+    may need review.
+  suggested_aliases:
+  - corpse adornment before display
+  - funerary adornment before public exposure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-and-blood-avoidance-by-killer-after-battle
+  motif_id: corpse_and_blood_avoidance_by_killer_after_battle
+  label: corpse and blood avoidance by killer after battle
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Avoidance of corpse and blood after killing fits purity, taboo, and post-bloodshed
+    ritual regulation.
+  cautions: May also relate to sacred_combat if embedded in warrior conduct, but the
+    primary function is ritual avoidance/purity.
+  suggested_aliases:
+  - post-battle corpse and blood taboo
+  - killer avoids corpse and blood after battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-and-water-contact-removal
+  motif_id: corpse_and_water_contact_removal
+  label: corpse and water contact/removal
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Regulating corpse contact with water is a mortuary purity rule, fitting
+    sacred law and pollution avoidance.
+  cautions: Do not map to sacred_waters unless the passage emphasizes water as transformative
+    medium rather than protected element from corpse pollution.
+  suggested_aliases:
+  - corpse-water contact taboo
+  - removal after corpse contact with water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-associated-ingestion-transfers-sin
+  motif_id: corpse_associated_ingestion_transfers_sin
+  label: Corpse-associated ingestion transfers sin
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The existing ancestor_rites group includes food placed on a corpse and
+    possible sin-eating survival, matching corpse-linked ingestion and transfer.
+  cautions: Comparative label may be a folklore-classification artifact; if sin transfer
+    is the core, sacrifice/ritual_transfer may be a secondary placement.
+  suggested_aliases:
+  - sin transfer by corpse-associated ingestion
+  - corpse-linked sin eating
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-attendance-while-soul-remains-and-provision-for-the-other-side
+  motif_id: corpse_attendance_while_soul_remains_and_provision_for_the_other_side
+  label: Corpse attendance while soul remains and provision for the other side
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Attending the corpse while the soul remains and providing for the other
+    side are ritual care for the newly dead.
+  cautions: If the passage maps the soul's route or required goods for travel, afterlife_passage
+    may also be relevant.
+  suggested_aliases:
+  - corpse attendance while soul remains
+  - provision for the dead on the other side
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-attended-by-fanning-women
+  motif_id: corpse_attended_by_fanning_women
+  label: corpse attended by fanning women
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Attendance of the corpse by designated mourners or attendants is a funerary
+    rite surrounding the dead body.
+  cautions: The fanning-women detail may be locally specific and should remain evidence
+    detail unless it recurs across sources.
+  suggested_aliases:
+  - corpse attended by female fanners
+  - fanning women at corpse vigil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are mortuary ritual details with single occurrences;
+  map to broad groups for query support but preserve local ritual specifics as evidence
+  notes.
+- Use sacred_law for corpse/blood/water avoidance when the function is purity or taboo,
+  not afterlife travel.
+- Use ancestor_rites when ritual care is explicitly tied to the soul, provision for
+  the dead, feeding, or maintaining relations with the dead.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    mortuary practices and comparative sin-eating label.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0076
+  input_sha256: c007de6befe9176aa8924fadd247b76514f5f2c6380e876207dfd8731964c672
+

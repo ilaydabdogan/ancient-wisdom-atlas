@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0811
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dream-requiring-public-ritual-announcement
+  motif_id: dream_requiring_public_ritual_announcement
+  label: Dream requiring public ritual announcement
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label combines dream revelation with a required public ritual response,
+    but the ritual function is not clear from the label alone.
+  cautions: Single occurrence and culturally specific ritual context; verify whether
+    this is dream revelation, sacred speech, ritual obligation, or passage-specific
+    ethnographic detail.
+  suggested_aliases:
+  - public_announcement_of_dream
+  - ritual_announcement_of_dream_revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-revealed-temple-cure
+  motif_id: dream_revealed_temple_cure
+  label: Dream-revealed temple cure
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cure disclosed through dream fits dream/vision as a source of sacred
+    or healing knowledge.
+  cautions: May also relate to divine_intervention or temple incubation rites; preserve
+    temple-cure specificity as evidence detail.
+  suggested_aliases:
+  - dream_revealed_healing
+  - temple_dream_cure
+  - incubation_dream_cure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-revelation-after-ritual-preparation
+  motif_id: dream_revelation_after_ritual_preparation
+  label: dream revelation after ritual preparation
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The central event is revelatory dreaming, with ritual preparation as
+    the enabling condition.
+  cautions: If the preparation rite is more important than the dream content, sacred_law,
+    sacrifice, or initiation may be relevant secondary contexts.
+  suggested_aliases:
+  - ritually_prepared_dream_revelation
+  - dream_revelation_after_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-songs-validate-sacred-power
+  motif_id: dream_songs_validate_sacred_power
+  label: Dream songs validate sacred power
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: low
+  rationale: Dream-derived songs may be visionary validation of sacred power, but
+    song performance also points to sound power and ritual authorization.
+  cautions: Culturally sensitive and single occurrence; review whether placement should
+    emphasize dream revelation, sacred song, ritual authority, or enchanting_music.
+  suggested_aliases:
+  - dream_received_songs
+  - dream_songs_as_power_validation
+  - vision_song_authorization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-vision-materialized-as-a-ritual-pole-and-image
+  motif_id: dream_vision_materialized_as_a_ritual_pole_and_image
+  label: dream vision materialized as a ritual pole and image
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A dream vision embodied in a ritual pole and image functions as a sacred
+    power object produced from revelation.
+  cautions: Could also support dream_and_vision or axis_mundi if the pole is a world-axis;
+    avoid assuming axis function from pole imagery alone.
+  suggested_aliases:
+  - dream_vision_materialized_in_ritual_image
+  - vision_embodied_as_ritual_pole
+  - ritual_object_from_dream_vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-vision-materialized-in-a-ritual-object
+  motif_id: dream_vision_materialized_in_a_ritual_object
+  label: Dream vision materialized in a ritual object
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on a ritual object carrying power or authority from
+    a dream vision, fitting sacred power objects.
+  cautions: Also related to dream_and_vision; if the object is mainly a container,
+    sacred_vessel may be more precise.
+  suggested_aliases:
+  - dream_made_ritual_object
+  - vision_materialized_as_ritual_object
+  - ritual_object_from_vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drinking-divine-elixir
+  motif_id: drinking_divine_elixir
+  label: Drinking divine elixir
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: high
+  rationale: A divine elixir is a sacred drink or substance used for transformation,
+    blessing, initiation, or sacred participation.
+  cautions: Review passage context for whether the elixir is ritual initiation, healing,
+    immortality, or devotional metaphor.
+  suggested_aliases:
+  - divine_elixir
+  - sacred_elixir_drinking
+  - drinking_sacred_elixir
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drought-blamed-on-ritual-official-s-impurity-or-sorcery
+  motif_id: drought_blamed_on_ritual_official_s_impurity_or_sorcery
+  label: Drought blamed on ritual official's impurity or sorcery
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Drought attributed to ritual impurity may fit sacred disorder and judgment,
+    but sorcery attribution may be local social diagnosis rather than a broad motif.
+  cautions: Culturally sensitive and highly contextual; verify whether this is divine
+    punishment, ritual purity law, scapegoating, witchcraft accusation, or ethnographic
+    commentary.
+  suggested_aliases:
+  - drought_attributed_to_ritual_impurity
+  - drought_blamed_on_sorcery
+  - ritual_impurity_causes_drought
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drowned-king-transformed-into-taboo-fish
+  motif_id: drowned_king_transformed_into_taboo_fish
+  label: drowned king transformed into taboo fish
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The taboo fish outcome points to a sacred prohibition grounded in mythic
+    death or transformation.
+  cautions: Composite label; if the narrative emphasizes the king's metamorphosis
+    more than the taboo, death_and_transformation or shapeshifter may be better secondary
+    mappings.
+  suggested_aliases:
+  - taboo_fish_from_drowned_king
+  - animal_taboo_from_royal_death
+  - mythic_death_creates_fish_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dual-community-ritual-coordination
+  motif_id: dual_community_ritual_coordination
+  label: dual-community ritual coordination
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes social coordination of ritual rather than a clear
+    symbolic or narrative motif in existing groups.
+  cautions: May be a procedural or institutional detail; review source evidence before
+    mapping to sacred_exchange, covenant, sacred_law, or excluding from pattern queries.
+  suggested_aliases:
+  - coordinated_ritual_between_two_communities
+  - dual_community_ritual_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine dream revelation with ritual authorization or materialization;
+  reviewers may want consistent secondary links between dream_and_vision and sacred_treasures
+  or sacred_law.
+- Single-occurrence Indigenous ritual labels should be checked against source context
+  before broad pattern indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0811
+  input_sha256: 77da5aea5a954b84d3d49ae5914063bf3bbb419b0678154d01da622ad71680c6
+

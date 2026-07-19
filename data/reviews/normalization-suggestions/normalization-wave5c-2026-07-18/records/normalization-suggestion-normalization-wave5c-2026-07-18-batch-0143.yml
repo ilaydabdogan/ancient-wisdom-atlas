@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0143
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divestiture-before-entry-to-the-dead
+  motif_id: divestiture_before_entry_to_the_dead
+  label: divestiture before entry to the dead
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: Entry to the dead with stripping or relinquishment fits underworld descent
+    and loss of ordinary status before passage.
+  cautions: Could also relate to afterlife_passage if the focus is a dead person's
+    required postmortem protocol rather than a living descent narrative.
+  suggested_aliases:
+  - stripping_before_underworld_entry
+  - relinquishment_before_entry_to_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divination-before-burial
+  motif_id: divination_before_burial
+  label: divination before burial
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on divination as a formal method used before a mortuary
+    rite.
+  cautions: May need secondary review under heroic_funeral_rites or ancestor_rites
+    if the burial ritual, not the divinatory method, is the primary motif.
+  suggested_aliases:
+  - pre_burial_divination
+  - mortuary_divination_before_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divination-by-boiling-corpse-parts-to-locate-a-killer
+  motif_id: divination_by_boiling_corpse_parts_to_locate_a_killer
+  label: Divination by boiling corpse parts to locate a killer
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: low
+  rationale: The core function is divinatory detection of a killer, but the corpse-part
+    method is culturally specific and sensitive.
+  cautions: Single occurrence and mortuary/body handling details require source review;
+    may also involve vengeance, corpse oracle, or ethnographic artifact rather than
+    a broad motif.
+  suggested_aliases:
+  - corpse_part_divination_to_identify_killer
+  - mortuary_divination_to_locate_killer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divination-by-dead-animal-and-wind-sounds
+  motif_id: divination_by_dead_animal_and_wind_sounds
+  label: divination by dead, animal, and wind sounds
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Interpreting sounds from dead beings, animals, or wind is a divinatory
+    method for hidden knowledge.
+  cautions: Wording is broad and may combine several techniques; review whether this
+    is an actual passage motif or an ethnographic classification list.
+  suggested_aliases:
+  - sound_divination_from_dead_animals_and_wind
+  - divination_by_ambient_spirit_and_animal_sounds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divination-by-standing-or-falling-corpse
+  motif_id: divination_by_standing_or_falling_corpse
+  label: Divination by standing or falling corpse
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: low
+  rationale: The corpse's movement or posture appears to function as a divinatory
+    sign.
+  cautions: Culturally specific corpse-handling practice with one occurrence; verify
+    whether this is ritual evidence, narrative motif, or comparative ethnographic
+    note.
+  suggested_aliases:
+  - corpse_posture_divination
+  - divination_by_corpse_movement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divination-governing-burial-rites
+  motif_id: divination_governing_burial_rites
+  label: Divination governing burial rites
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Systematic divination determines proper mortuary procedure, fitting divination
+    as ritual guidance.
+  cautions: Could also index under ancestor_rites if the main concern is maintaining
+    relations with the dead through correct burial.
+  suggested_aliases:
+  - divinatory_governance_of_burial_rites
+  - mortuary_rites_directed_by_divination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinatory-selection-of-a-burial-place
+  motif_id: divinatory_selection_of_a_burial_place
+  label: Divinatory selection of a burial place
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Choosing a burial site through divination is a specific mortuary application
+    of systematic divination.
+  cautions: If the site selection is mainly about ancestral placement, geomancy, or
+    burial obligations, ancestor_rites or sacred_geography evidence may be relevant
+    in notes.
+  suggested_aliases:
+  - burial_place_selected_by_divination
+  - divinatory_burial_site_selection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinatory-stones-watched-by-spirits
+  motif_id: divinatory_stones_watched_by_spirits
+  label: divinatory stones watched by spirits
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: Divinatory stones suggest a divination object or technique, with spirits
+    serving as watchers or agents.
+  cautions: Ambiguous whether the focus is divination, spirit guardianship, sacred
+    stones as power objects, or a local ritual artifact; source context needed.
+  suggested_aliases:
+  - spirit_watched_divinatory_stones
+  - divination_stones_guarded_by_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-acclamation-of-spiritual-attainment
+  motif_id: divine_acclamation_of_spiritual_attainment
+  label: divine acclamation of spiritual attainment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine recognition of attainment marks progress or completion on a spiritual
+    path.
+  cautions: Could instead be theophany or divine_intervention if the scene emphasizes
+    divine manifestation rather than the practitioner's attainment.
+  suggested_aliases:
+  - divine_recognition_of_spiritual_attainment
+  - heavenly_acclamation_of_enlightenment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-agency-in-spiritual-growth
+  motif_id: divine_agency_in_spiritual_growth
+  label: divine agency in spiritual growth
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes sacred powers actively guiding or causing a person's
+    spiritual development.
+  cautions: Broad wording may be thematic rather than narrative; if the emphasis is
+    an interior path, mystical_quest may be a secondary mapping.
+  suggested_aliases:
+  - divine_guidance_in_spiritual_growth
+  - sacred_agency_in_spiritual_development
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence mortuary divination labels; map provisionally
+  to prophecy_divination but preserve burial, corpse, and ancestor-rite context for
+  human review.
+- Avoid treating mortuary divination labels as afterlife passage unless the passage
+  explicitly maps the dead person's postmortem route or requirements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific corpse-handling
+    and spirit-watched object labels flagged for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0143
+  input_sha256: 6ea8fbd0135ae6c6789a11d6cc5dc6ef35c4154c0e074d0b4b145d10bea05852
+

@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1368
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marvelous-giant-provisions-proven-true
+  motif_id: marvelous_giant_provisions_proven_true
+  label: marvelous giant provisions proven true
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Label may describe a truth-confirming marvel, giant hospitality, or passage-specific
+    food detail; function is unclear without context.
+  cautions: Single occurrence and ambiguous wording; avoid mapping to sacred_exchange,
+    sacred_substance, or otherworld until source evidence shows the role of the provisions.
+  suggested_aliases:
+  - giant provisions proven true
+  - marvelous provisions confirmed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.material-culture-diffusion-through-hammock-technology-and-names
+  motif_id: material_culture_diffusion_through_hammock_technology_and_names
+  label: Material-culture diffusion through hammock technology and names
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes diffusion history and terminology rather than a narrative
+    or symbolic motif.
+  cautions: Keep any underlying source evidence about hammocks or naming separately;
+    do not treat this as evidence of transmission in motif queries.
+  suggested_aliases:
+  - hammock technology diffusion
+  - material culture diffusion through names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.material-object-encoding-communal-memory
+  motif_id: material_object_encoding_communal_memory
+  label: material object encoding communal memory
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A material object preserving communal memory functions as a power or
+    memory-bearing sacred object.
+  cautions: If the passage emphasizes storytelling, record keeping, or transmission
+    rather than the object's power, storytelling_as_power or sacred_knowledge may
+    be secondary or better.
+  suggested_aliases:
+  - memory-bearing object
+  - communal memory object
+  - object encoding collective memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-milk-provisions-with-strengthening-power
+  motif_id: maternal_milk_provisions_with_strengthening_power
+  label: Maternal milk provisions with strengthening power
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Milk used as a strength-giving provision fits sacred food or substance
+    with empowering effects.
+  cautions: Maternal source may also matter for mother_goddess or miraculous_child
+    if the recipient is a destined child; preserve the maternal detail as evidence.
+  suggested_aliases:
+  - strength-giving maternal milk
+  - empowering milk provisions
+  - maternal milk as power substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-sprinkling-with-named-substance
+  motif_id: maternal_sprinkling_with_named_substance
+  label: Maternal sprinkling with named substance
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a maternal ritual act but does not reveal whether
+    it purifies, protects, names, heals, or transforms.
+  cautions: Single occurrence; culturally specific ritual substance needs evidence
+    review before mapping to sacred_law, sacred_substance, mother_goddess, or sacrifice.
+  suggested_aliases:
+  - maternal sprinkling rite
+  - sprinkling with named substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.meaning-bearing-personal-name-etymology
+  motif_id: meaning_bearing_personal_name_etymology
+  label: Meaning-bearing personal name etymology
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A meaningful name can be an etiology, identity marker, prophecy, or literary
+    explanation depending on the passage.
+  cautions: If this is only an etymological note or commentary, exclude as meta-textual;
+    if it proves identity or destiny, map more narrowly.
+  suggested_aliases:
+  - personal name etymology
+  - meaningful personal name
+  - name meaning as explanation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.measured-division-of-day-and-night
+  motif_id: measured_division_of_day_and_night
+  label: measured division of day and night
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: medium
+  rationale: Measured day-night division concerns sacred or cosmic ordering of time.
+  cautions: If the passage is cosmogonic separation of light and darkness, cosmic_origin
+    or duality may be relevant secondary mappings.
+  suggested_aliases:
+  - division of day and night
+  - cosmic measurement of day and night
+  - ordered day-night cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediated-and-clear-vision-of-a-heavenly-company
+  motif_id: mediated_and_clear_vision_of_a_heavenly_company
+  label: Mediated and clear vision of a heavenly company
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: narrower_than
+  confidence: high
+  rationale: The label centers on a revealed vision of heavenly beings, fitting vision
+    and altered perception.
+  cautions: If the vision is a direct overwhelming divine manifestation, theophany
+    may be a secondary mapping; if ascent occurs, consider ascent.
+  suggested_aliases:
+  - vision of heavenly company
+  - clear vision of heavenly beings
+  - mediated heavenly vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediated-speech-as-honor
+  motif_id: mediated_speech_as_honor
+  label: mediated speech as honor
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: medium
+  rationale: Speech mediated through proper channels as honor fits social order, hierarchy,
+    and ethical conduct.
+  cautions: May be an etiquette or commentary detail rather than a motif; if the passage
+    stresses performative speech power, curse_blessing_speech may be related.
+  suggested_aliases:
+  - honor through mediated speech
+  - ritualized mediated speech
+  - proper speech through intermediaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediation-between-earth-and-air-divisions
+  motif_id: mediation_between_earth_and_air_divisions
+  label: mediation between earth and air divisions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests cosmological mediation between realms, but the agent,
+    structure, and narrative function are unclear.
+  cautions: Could fit axis_mundi, duality, cosmic_origin, or shamanic mediation depending
+    on evidence; review source context and culturally specific cosmology carefully.
+  suggested_aliases:
+  - earth-air mediation
+  - mediator between earth and air realms
+  - mediation of cosmic divisions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; placements should remain
+  provisional until passage evidence confirms narrative function.
+- Do not infer diffusion or historical contact from technology/name labels; treat
+  such wording as meta or provenance unless a mythic narrative motif is present.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 1368.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1368
+  input_sha256: 160d91d07ae0017e53159602aeb5e19a477fa81d0b5cbdeeee3001751cfdad1b
+

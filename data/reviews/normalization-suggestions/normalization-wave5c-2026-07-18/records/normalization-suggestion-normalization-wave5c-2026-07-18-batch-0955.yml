@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0955
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.portable-sacred-building-carried-by-a-priest
+  motif_id: portable_sacred_building_carried_by_a_priest
+  label: Portable sacred building carried by a priest
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A portable sacred building can function like a mobile sanctuary or world-center
+    marker, especially when ritually carried by a priest.
+  cautions: Single occurrence; if the emphasis is on ritual procession rather than
+    sacred-space centering, sacred_law or divine_intervention may be secondary.
+  suggested_aliases:
+  - portable_sanctuary
+  - portable_sacred_building
+  - mobile_sacred_center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.portable-sacred-object-as-marker-of-recognition
+  motif_id: portable_sacred_object_as_marker_of_recognition
+  label: Portable sacred object as marker of recognition
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: The object's primary function is to mark or prove recognition, matching
+    the recognition-token group.
+  cautions: If the object's sacred power matters more than identity proof, add secondary
+    relation to sacred_treasures.
+  suggested_aliases:
+  - sacred_object_as_recognition_token
+  - portable_recognition_token
+  - recognition_through_sacred_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.possible-divine-intervention-to-save-the-threatened-hero
+  motif_id: possible_divine_intervention_to_save_the_threatened_hero
+  label: possible divine intervention to save the threatened hero
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to supernatural rescue of an endangered hero, a common
+    divine-intervention function.
+  cautions: The word 'possible' signals evidentiary uncertainty; verify whether the
+    source actually depicts divine agency rather than coincidence or later interpretation.
+  suggested_aliases:
+  - divine_rescue_of_an_imperiled_hero
+  - divine_intervention_to_save_threatened_hero
+  - possible_divine_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-affliction-fasting-washing-and-offering
+  motif_id: post_affliction_fasting_washing_and_offering
+  label: Post-affliction fasting, washing, and offering
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The sequence combines purification and offering after affliction, fitting
+    ritual repair through sacrifice/offering.
+  cautions: Could also belong under sacred_law if the focus is purity regulation,
+    or sacred_exchange if the offering restores reciprocal relation.
+  suggested_aliases:
+  - post_affliction_purification_and_offering
+  - fasting_washing_and_offering_after_affliction
+  - ritual_repair_after_affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-bodily-reward-of-the-holy
+  motif_id: post_bodily_reward_of_the_holy
+  label: post-bodily reward of the holy
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: A reward after bodily life concerns postmortem destiny and moral outcome,
+    fitting afterlife-passage/judgment contexts.
+  cautions: If the emphasis is moral evaluation rather than the soul's route or destination,
+    divine_judgment may be the stronger mapping.
+  suggested_aliases:
+  - postmortem_reward_of_the_holy
+  - afterlife_reward_for_the_righteous
+  - reward_of_the_holy_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-ceremonial-fasting-taboo-with-bodily-sanction
+  motif_id: post_ceremonial_fasting_taboo_with_bodily_sanction
+  label: Post-ceremonial fasting taboo with bodily sanction
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A fasting taboo after ceremony, enforced by bodily consequence, is a
+    ritual prohibition within sacred law or purity regulation.
+  cautions: Highly contextual single occurrence; preserve bodily-sanction detail as
+    evidence rather than promoting as a canonical motif.
+  suggested_aliases:
+  - post_ceremonial_fasting_taboo
+  - fasting_taboo_with_bodily_sanction
+  - ritual_fasting_prohibition_after_ceremony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-continence-animal-meal-to-protect-blood-purity
+  motif_id: post_continence_animal_meal_to_protect_blood_purity
+  label: Post-continence animal meal to protect blood purity
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label appears to describe a purity rule involving continence, food,
+    and blood, broadly fitting sacred_law.
+  cautions: Culturally sensitive and highly specific; source context is needed to
+    avoid misreading ritual logic or collapsing distinct Indigenous categories.
+  suggested_aliases:
+  - post_continence_meal_for_blood_purity
+  - animal_meal_to_protect_blood_purity
+  - continence_related_blood_purity_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-dance-ritual-washing-and-removal-of-paint
+  motif_id: post_dance_ritual_washing_and_removal_of_paint
+  label: Post-dance ritual washing and removal of paint
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual washing and removal of ceremonial paint after performance fits
+    purity regulation and post-rite boundary management.
+  cautions: May be an ethnographic ritual detail rather than a reusable motif; retain
+    dance and paint specifics only as evidence notes.
+  suggested_aliases:
+  - post_dance_purification_washing
+  - ritual_removal_of_ceremonial_paint
+  - washing_after_ceremonial_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-funeral-purification-bathing
+  motif_id: post_funeral_purification_bathing
+  label: post-funeral purification bathing
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Bathing after a funeral is a mortuary purification rule, matching sacred_law's
+    purity and spirit-contagion complex.
+  cautions: Could receive secondary mapping to ancestor_rites if the rite primarily
+    manages relations with the dead.
+  suggested_aliases:
+  - purification_bathing_after_funeral
+  - post_mortuary_cleansing_bath
+  - funeral_purity_bathing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-funeral-purification-by-water-fire-and-smoke
+  motif_id: post_funeral_purification_by_water_fire_and_smoke
+  label: post-funeral purification by water, fire, and smoke
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Post-funeral cleansing by elemental means is a mortuary purification
+    and protective ritual pattern within sacred_law.
+  cautions: Water, fire, and smoke should not be separately mapped to sacred_waters
+    or sacred_fire unless their symbolic function is foregrounded beyond purification.
+  suggested_aliases:
+  - post_mortuary_purification_by_elements
+  - funeral_purification_by_water_fire_smoke
+  - elemental_cleansing_after_funeral
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence ritual-purity labels; preserve local evidence
+  and avoid promoting narrow ceremony-specific details without recurrence.
+- Mortuary purification items fit sacred_law by current normalization practice, with
+  possible secondary relevance to ancestor_rites or afterlife_passage depending on
+  source context.
+- No transmission or contact claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions for wave5c batch 0955; culturally specific
+    ritual labels and uncertain divine-intervention wording need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0955
+  input_sha256: 84a1b86c1325840ae7f1afc90421fdc80eff42d7c1bbc70d7fca9f477f5979f3
+

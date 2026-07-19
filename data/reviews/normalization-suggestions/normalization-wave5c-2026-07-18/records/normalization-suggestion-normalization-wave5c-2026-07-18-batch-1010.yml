@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1010
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rite-adapted-for-the-sick-participant
+  motif_id: rite_adapted_for_the_sick_participant
+  label: rite adapted for the sick participant
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes flexible ritual regulation for a participant's condition,
+    which may fit sacred law or ritual discipline.
+  cautions: Single occurrence and context-dependent; may be procedural vinaya detail
+    rather than a reusable motif.
+  suggested_aliases:
+  - ritual_accommodation_for_illness
+  - ritual_adaptation_for_sick_participant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rite-myth-attached-to-healing-chant
+  motif_id: rite_myth_attached_to_healing_chant
+  label: rite-myth attached to healing chant
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: ritual_variant
+  confidence: low
+  rationale: A myth embedded in or attached to a healing chant suggests narrative
+    speech as ritual efficacy.
+  cautions: Culturally sensitive Navajo ceremonial context; source evidence is needed
+    before reducing a rite-myth complex to a broad speech motif.
+  suggested_aliases:
+  - healing_chant_with_attached_myth
+  - mythic_narrative_in_healing_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rite-origin-tied-to-named-landscape
+  motif_id: rite_origin_tied_to_named_landscape
+  label: Rite origin tied to named landscape
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing cosmic_origin group already covers place-name and landscape
+    etiologies, including supernatural place naming.
+  cautions: If the passage chiefly concerns ceremonial geography rather than etiology,
+    axis_mundi or sacred_geography/pilgrimage evidence may be relevant; review Navajo
+    place-specific context carefully.
+  suggested_aliases:
+  - ritual_origin_in_named_landscape
+  - ceremonial_origin_linked_to_place_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rites-and-music-maintain-social-and-political-order
+  motif_id: rites_and_music_maintain_social_and_political_order
+  label: Rites and music maintain social and political order
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif frames ritual and music as ordering social and political life,
+    matching sacred law and social order.
+  cautions: Music is important here, but the function is normative order rather than
+    supernatural musical compulsion; do not map primarily to enchanting_music unless
+    sound itself acts as power.
+  suggested_aliases:
+  - ritual_and_music_as_social_order
+  - rites_and_music_order_the_polity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rites-as-social-and-cosmic-ordering
+  motif_id: rites_as_social_and_cosmic_ordering
+  label: Rites as social and cosmic ordering
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Sacred law explicitly includes social obligations and moral order reflecting
+    cosmic order.
+  cautions: May also relate to covenant or sacred_time if the passage emphasizes binding
+    relation or calendrical rite; preserve Confucian li context in notes.
+  suggested_aliases:
+  - ritual_as_social_cosmic_order
+  - rites_order_society_and_cosmos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rites-as-social-and-cosmic-regulation
+  motif_id: rites_as_social_and_cosmic_regulation
+  label: Rites as social and cosmic regulation
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: alias
+  confidence: high
+  rationale: This is effectively synonymous with rites_as_social_and_cosmic_ordering
+    and fits sacred law's ritual-social ordering function.
+  cautions: Likely merge with the ordering phrasing unless source evidence distinguishes
+    regulation from ordering.
+  suggested_aliases:
+  - rites_as_social_and_cosmic_ordering
+  - ritual_as_social_cosmic_regulation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-abbreviation-under-emergency
+  motif_id: ritual_abbreviation_under_emergency
+  label: Ritual abbreviation under emergency
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Emergency shortening of a rite is a procedural ritual-law adaptation,
+    broadly related to sacred regulation.
+  cautions: May be an institutional rule or commentary artifact rather than a symbolic
+    motif; keep only if recurring as ritual accommodation pattern.
+  suggested_aliases:
+  - emergency_abbreviation_of_ritual
+  - ritual_shortening_in_emergency
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-ablution-and-purification-equipment
+  motif_id: ritual_ablution_and_purification_equipment
+  label: Ritual ablution and purification equipment
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ablution equipment belongs to ritual purity regulation, already handled
+    under sacred_law and related purification variants.
+  cautions: If a specific vessel or object carries independent sacred power, sacred_vessel
+    or sacred_treasures may be a secondary fit; equipment detail may be too specific
+    for broad queries.
+  suggested_aliases:
+  - purification_equipment_for_ritual_ablution
+  - ritual_washing_equipment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-ablution-as-religious-merit
+  motif_id: ritual_ablution_as_religious_merit
+  label: ritual ablution as religious merit
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purifying ablution treated as meritorious conduct fits sacred law, purity,
+    and moral-religious obligation.
+  cautions: Could also be sacred_exchange if merit is explicitly reciprocal reward;
+    avoid mapping to sacred_waters unless water symbolism or passage-through-water
+    is central.
+  suggested_aliases:
+  - meritorious_ritual_ablution
+  - ritual_washing_as_religious_merit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-abstention-from-consuming-the-deity-s-vegetal-body
+  motif_id: ritual_abstention_from_consuming_the_deity_s_vegetal_body
+  label: Ritual abstention from consuming the deity’s vegetal body
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a ritual food prohibition grounded in the sacred
+    status of a deity's vegetal embodiment.
+  cautions: Comparative label may be analytic rather than source-native; could involve
+    sacred_substance, sacrifice, taboo, or dying vegetation deity depending on evidence.
+  suggested_aliases:
+  - abstention_from_deity_vegetal_body
+  - taboo_on_consuming_divine_plant_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence procedural ritual labels; human review should
+  distinguish reusable motifs from institutional rule details or commentary artifacts.
+- Confucian rite-order labels appear close enough to merge under sacred_law unless
+  passage evidence requires a dedicated li/social-cosmic order subgroup.
+- For Navajo ceremonial labels, preserve local ceremonial and place-based specificity
+  and avoid flattening culturally specific rite-myth complexes into generic categories
+  without source review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 1010; culturally
+    specific and single-occurrence ritual items need source-sensitive review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1010
+  input_sha256: 8a6c293ba6de5201a14653da8314344061682ffe02e37d8519307f1ec721e6b8
+

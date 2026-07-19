@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3745
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.origin-of-fighting-attributed-to-the-defeated-elder-sister
+  motif_id: origin_of_fighting_attributed_to_the_defeated_elder_sister
+  label: Origin of fighting attributed to the defeated elder sister
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: The label is etiological, explaining the origin of fighting, but the
+    defeated elder sister may also point to sibling conflict or culture-specific social
+    ordering.
+  cautions: Single occurrence and culturally specific; do not collapse into sacred_combat
+    without evidence that fighting itself is the recurring motif rather than an origin
+    tale detail.
+  suggested_aliases:
+  - etiology_of_fighting
+  - origin_of_warfare_from_defeated_sibling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-girls-tattooing-through-a-sorceress-encounter
+  motif_id: origin_of_girls_tattooing_through_a_sorceress_encounter
+  label: Origin of girls' tattooing through a sorceress encounter
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: low
+  rationale: Tattooing of girls may function as a puberty, identity, or status-marking
+    rite initiated through a supernatural encounter.
+  cautions: Source evidence is needed; it may instead be a local body-marking etiology,
+    sorcery encounter, or passage-specific cultural practice too granular for broad
+    motif queries.
+  suggested_aliases:
+  - origin_of_girls_tattooing
+  - supernatural_origin_of_female_tattooing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-human-blood-and-pain-from-creator-s-own-substance
+  motif_id: origin_of_human_blood_and_pain_from_creator_s_own_substance
+  label: origin of human blood and pain from creator's own substance
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explains human bodily conditions as deriving from a creator's
+    substance, fitting anthropogonic origin imagery.
+  cautions: Could also touch primordial_sacrifice if the creator's body is sacrificed
+    or dismembered; blood and pain specificity should be preserved as evidence detail.
+  suggested_aliases:
+  - origin_of_human_blood_from_creator_substance
+  - human_pain_from_creator_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-humanity
+  motif_id: origin_of_humanity
+  label: origin of humanity
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: broader_label
+  confidence: high
+  rationale: A broad anthropogony label belongs under creation and origin motifs.
+  cautions: Too broad to infer a specific creation mechanism such as clay, speech,
+    sacrifice, or divine breath without passage evidence.
+  suggested_aliases:
+  - human_origins
+  - anthropogony
+  - origin_of_humankind
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-idolatry-as-alternate-enos-tradition
+  motif_id: origin_of_idolatry_as_alternate_enos_tradition
+  label: Origin of idolatry as alternate Enos tradition
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'alternate Enos tradition' reads as a tradition-history or
+    variant note rather than a reusable narrative motif.
+  cautions: If the passage narrates the origin of idol worship as moral decline or
+    covenant violation, preserve that evidence under covenant, divine_judgment, or
+    sacred_law instead of excluding the episode entirely.
+  suggested_aliases:
+  - alternate_enos_tradition_of_idolatry
+  - origin_of_idolatry_variant_tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-legends-through-a-nonhuman-or-rock-associated-source
+  motif_id: origin_of_legends_through_a_nonhuman_or_rock_associated_source
+  label: origin of legends through a nonhuman or rock-associated source
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns the origin or transmission of legends from a nonhuman
+    source, which may fit sacred narrative transmission.
+  cautions: Could be a textual/commentary artifact, a sacred-stone revelation, or
+    culturally specific oral-tradition claim; review source context before indexing.
+  suggested_aliases:
+  - nonhuman_source_of_legends
+  - rock_associated_source_of_tradition
+  - sacred_origin_of_legends
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-locust-defensive-counterpart
+  motif_id: origin_of_locust_defensive_counterpart
+  label: Origin of locust defensive counterpart
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to determine whether it concerns animal origins,
+    defensive magic, paired beings, or a local etiological detail.
+  cautions: Single culturally specific occurrence; needs source evidence before mapping
+    to cosmic_origin, sacred_law, duality, or animal/trickster patterns.
+  suggested_aliases:
+  - locust_defensive_counterpart_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-magical-or-lucky-stones
+  motif_id: origin_of_magical_or_lucky_stones
+  label: Origin of magical or lucky stones
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: Magical or lucky stones are power objects that confer protection, fortune,
+    or sacred ability.
+  cautions: If the emphasis is landscape formation or stone origin rather than object
+    power, cosmic_origin may be a secondary placement; preserve local stone function.
+  suggested_aliases:
+  - magical_stones
+  - lucky_stones
+  - origin_of_power_stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-meat-eating-as-moral-decline
+  motif_id: origin_of_meat_eating_as_moral_decline
+  label: origin of meat-eating as moral decline
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: functional_variant
+  confidence: medium
+  rationale: Meat-eating framed as moral decline fits loss from a primordial or better
+    order into degraded human practice.
+  cautions: Could also relate to sacred_law if the passage emphasizes dietary rule,
+    taboo, or ethical prohibition rather than age-decline narrative.
+  suggested_aliases:
+  - meat_eating_as_moral_decline
+  - origin_of_carnivory_as_decline
+  - dietary_decline_from_primordial_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-mosquitoes-and-flies
+  motif_id: origin_of_mosquitoes_and_flies
+  label: Origin of mosquitoes and flies
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is an etiological origin label explaining the existence of particular
+    creatures.
+  cautions: Very granular animal-origin motif; if the insects arise from corpse, blood,
+    punishment, or transformation, secondary mapping may differ.
+  suggested_aliases:
+  - etiology_of_mosquitoes_and_flies
+  - origin_of_biting_insects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence etiological labels; placements should preserve
+  source-specific detail and avoid promoting new canonical motifs without recurrence.
+- Use cosmic_origin for broad etiologies only when the label explains origin or emergence;
+  use more specific groups when source evidence shows ritual, moral, or object-power
+  function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source context is needed for
+    culturally specific and over-compressed labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3745
+  input_sha256: 54e326631684d1e3966327380f3b926a1a807734bb58c61d33a34cdfacc6f397
+

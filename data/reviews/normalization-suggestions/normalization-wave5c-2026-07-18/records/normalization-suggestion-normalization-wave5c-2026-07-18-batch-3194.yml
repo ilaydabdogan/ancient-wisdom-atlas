@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3194
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bodily-sign-reveals-concealed-object
+  motif_id: bodily_sign_reveals_concealed_object
+  label: Bodily sign reveals concealed object
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve bodily evidence, recognition, divination, or an
+    episode-specific clue; function is unclear without passage context.
+  cautions: Single occurrence and ambiguous wording; do not map solely from the presence
+    of a bodily sign or concealed object.
+  suggested_aliases:
+  - body_sign_reveals_hidden_object
+  - bodily_mark_discloses_concealed_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-substance-transferred-through-food-to-hunting-equipment
+  motif_id: bodily_substance_transferred_through_food_to_hunting_equipment
+  label: Bodily substance transferred through food to hunting equipment
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may describe sympathetic magic, hunting ritual, contamination, or
+    a highly local episode; existing groups do not clearly resolve it from the label
+    alone.
+  cautions: Culturally specific hunting and bodily-substance meanings need source
+    review; avoid flattening into sacred_law or sacrifice without ritual evidence.
+  suggested_aliases:
+  - bodily_substance_transfer_to_hunting_gear
+  - food_mediated_bodily_substance_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-substances-and-actions-as-origins-of-natural-phenomena
+  motif_id: bodily_substances_and_actions_as_origins_of_natural_phenomena
+  label: Bodily substances and actions as origins of natural phenomena
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes an etiological origin of natural phenomena from bodily
+    substances or actions, fitting creation and origin explanation patterns.
+  cautions: If the passage centers on a transformed dead body rather than origin explanation,
+    death_and_transformation or primordial_sacrifice may be secondary.
+  suggested_aliases:
+  - bodily_substances_as_origins_of_natural_phenomena
+  - body_action_etiology_of_nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-token-exchange-for-needed-remedy
+  motif_id: bodily_token_exchange_for_needed_remedy
+  label: Bodily-token exchange for needed remedy
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on exchanging a bodily token to obtain healing or remedy,
+    a reciprocal exchange with possible sacred or magical force.
+  cautions: If the bodily token proves identity, recognition_tokens_hidden_identity
+    may be a better mapping; if it is mainly a magical object, consider sacred_treasures.
+  suggested_aliases:
+  - body_token_exchanged_for_remedy
+  - bodily_token_for_healing_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-token-used-to-summon-a-helper
+  motif_id: bodily_token_used_to_summon_a_helper
+  label: Bodily token used to summon a helper
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bodily token functioning as a summoning device is best treated as a
+    power object or token with effective supernatural agency.
+  cautions: If the helper is divine or tutelary, divine_intervention may be a secondary
+    mapping; if the token proves kinship or identity, use recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - body_token_summons_helper
+  - bodily_token_as_summoning_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-trap-causing-decay-of-hands
+  motif_id: bodily_trap_causing_decay_of_hands
+  label: bodily trap causing decay of hands
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too episode-specific to determine whether it is punishment,
+    magical harm, trickster trap, or bodily taboo.
+  cautions: Single occurrence; may be an evidence detail rather than a reusable motif.
+    Source context is needed before mapping to divine_judgment, trickster, or sacred_law.
+  suggested_aliases:
+  - trap_causes_hand_decay
+  - magical_trap_decays_hands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-waste-or-perspiration-as-malign-force
+  motif_id: bodily_waste_or_perspiration_as_malign_force
+  label: bodily waste or perspiration as malign force
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Bodily waste or perspiration as dangerous force resembles purity, taboo,
+    contagion, and apotropaic regulation already folded under sacred_law.
+  cautions: Review culturally specific meanings carefully; if the passage emphasizes
+    active magical attack rather than taboo or contagion, another mapping may be needed.
+  suggested_aliases:
+  - bodily_waste_as_malign_force
+  - perspiration_as_dangerous_substance
+  - bodily_excretion_as_spiritual_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodisat-in-varied-indexed-forms
+  motif_id: bodisat_in_varied_indexed_forms
+  label: Bodisat in varied indexed forms
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase appears to describe variant indexing or naming of Bodhisattva/Bodisat
+    forms rather than a narrative motif.
+  cautions: If source evidence instead describes transformation or manifestations
+    of a bodhisattva, create a separate passage-level motif under shapeshifter, divine_intervention,
+    or theophany as appropriate.
+  suggested_aliases:
+  - bodhisattva_in_varied_indexed_forms
+  - bodisat_variant_index_forms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-alteration-custom
+  motif_id: body_alteration_custom
+  label: body alteration custom
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad and ethnographic; it may refer to ritual initiation,
+    social identity, taboo, or a descriptive custom rather than a motif.
+  cautions: Culturally sensitive bodily practice; do not normalize without source
+    context and evidence of narrative or ritual function.
+  suggested_aliases:
+  - bodily_alteration_custom
+  - body_modification_custom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-arranged-to-appear-asleep
+  motif_id: body_arranged_to_appear_asleep
+  label: Body arranged to appear asleep
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This could be deception, funerary handling, concealment of death, or
+    a plot detail; the narrative function is not clear from the label.
+  cautions: Single occurrence and likely episode-specific; map only after checking
+    whether it supports trickster deception, death ritual, or corpse concealment.
+  suggested_aliases:
+  - corpse_arranged_to_appear_asleep
+  - body_disguised_as_sleeping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence and bodily-detail-heavy; several
+  need passage evidence before stable normalization.
+- Avoid creating a broad body-magic group from this batch alone; existing sacred_law,
+  sacred_exchange, sacred_treasures, and cosmic_origin can hold some cases provisionally.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional machine suggestions; human review recommended for culturally
+    specific San and Native American bodily-substance labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3194
+  input_sha256: 2b67a4c99b30b23c1170b10d7cf224518b471692dceb5d53e3e94f436f0324da
+

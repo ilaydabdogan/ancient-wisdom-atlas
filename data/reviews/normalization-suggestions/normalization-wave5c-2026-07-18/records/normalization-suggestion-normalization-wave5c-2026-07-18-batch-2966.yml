@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2966
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.liberation-of-a-bound-christian-at-a-castle-threshold
+  motif_id: liberation_of_a_bound_christian_at_a_castle_threshold
+  label: Liberation of a bound Christian at a castle threshold
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines captivity, religious identity, liberation, and threshold
+    setting; function cannot be determined from wording alone.
+  cautions: May be an episode-specific Arthurian detail, a rescue motif, or a threshold
+    ordeal; source context needed before mapping.
+  suggested_aliases:
+  - captive_liberated_at_threshold
+  - threshold_liberation_of_bound_captive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - hero_journey
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.liberation-through-cessation-of-craving-and-suffering
+  motif_id: liberation_through_cessation_of_craving_and_suffering
+  label: Liberation through cessation of craving and suffering
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes spiritual liberation through interior discipline
+    and release from craving, fitting the contemplative liberation path.
+  cautions: Could also be sacred_knowledge if framed as doctrinal teaching rather
+    than lived quest; preserve Buddhist doctrinal specificity.
+  suggested_aliases:
+  - cessation_of_craving_as_liberation
+  - liberation_from_suffering_through_non_craving
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-bearing-organ-within-slain-antagonist
+  motif_id: life_bearing_organ_within_slain_antagonist
+  label: Life-bearing organ within slain antagonist
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A life-bearing organ may indicate vital substance, external-soul logic,
+    resurrection, or body-part transformation, but the function is unclear.
+  cautions: Culturally specific body/soul concepts require source evidence; do not
+    force into external_soul unless life is separable or controlled by the organ.
+  suggested_aliases:
+  - vital_organ_in_slain_antagonist
+  - life_contained_in_antagonist_organ
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - external_soul
+    - death_and_transformation
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-plant-as-distant-condition-marker
+  motif_id: life_plant_as_distant_condition_marker
+  label: life-plant as distant condition marker
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: A distant plant marking a person's condition fits the life-token complex
+    where external signs reflect or control vitality.
+  cautions: If the plant only signals condition and does not contain or affect life,
+    this may be a related omen rather than true external-soul evidence.
+  suggested_aliases:
+  - life_plant_condition_token
+  - distant_life_plant_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.like-brings-about-like
+  motif_id: like_brings_about_like
+  label: like brings about like
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The phrase names sympathetic or imitative ritual logic, already represented
+    by aliases under sacred_law.
+  cautions: Very abstract label; verify it refers to ritual causality rather than
+    a proverb or commentary artifact.
+  suggested_aliases:
+  - sympathetic_magic_by_resemblance
+  - imitative_sympathetic_magic
+  - like_produces_like
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lineage-continuing-offspring
+  motif_id: lineage_continuing_offspring
+  label: lineage-continuing offspring
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern ancestry, sacred birth, immortality through descendants,
+    or social law, but lacks narrative function.
+  cautions: Could be a doctrinal or kinship concept rather than a motif; source context
+    needed, especially for Zoroastrian lineage and afterlife meanings.
+  suggested_aliases:
+  - offspring_continuing_lineage
+  - continuation_of_lineage_through_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - sacred_law
+    - death_and_transformation
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.linked-totemic-system-across-island-groups
+  motif_id: linked_totemic_system_across_island_groups
+  label: linked totemic system across island groups
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an ethnographic or comparative classification of social
+    systems rather than a narrative motif.
+  cautions: If passages describe specific totemic ancestors, taboos, or soul links,
+    remap those concrete motifs separately; avoid broad system labels in pattern queries.
+  suggested_aliases:
+  - totemic_system_across_islands
+  - linked_island_totemism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lives-enclosed-in-a-cosmic-cave-like-sphere
+  motif_id: lives_enclosed_in_a_cosmic_cave_like_sphere
+  label: lives enclosed in a cosmic cave-like sphere
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests cosmological enclosure or cave imagery, but may be
+    philosophical cosmology rather than a narrative motif.
+  cautions: Could fit cosmic_origin, sacred_vessel, cave/descent imagery, or be a
+    doctrinal abstraction; Hermetic source context is necessary.
+  suggested_aliases:
+  - cosmic_cave_sphere_enclosure
+  - life_enclosed_in_cosmic_sphere
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_vessel
+    - descent
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-captive-confined-in-a-cave-awaiting-release
+  motif_id: living_captive_confined_in_a_cave_awaiting_release
+  label: living captive confined in a cave awaiting release
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Cave confinement awaiting release uses the cave as a liminal hidden space
+    tied to descent, ordeal, or transformation.
+  cautions: If the focus is imprisonment/rescue rather than liminal cave passage,
+    hero_journey or a captivity motif may be more appropriate; preserve confinement
+    details.
+  suggested_aliases:
+  - cave_captive_awaiting_release
+  - captive_confined_in_cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-descendants-marked-by-traits-of-earlier-little-folk
+  motif_id: living_descendants_marked_by_traits_of_earlier_little_folk
+  label: Living descendants marked by traits of earlier little folk
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns inherited traits from earlier nonordinary beings,
+    possibly ancestry, otherworld beings, or etiological descent.
+  cautions: May be a local ethnographic origin explanation; review carefully before
+    mapping to otherworld, cosmic_origin, or ancestry-related groups.
+  suggested_aliases:
+  - descendants_marked_by_little_folk_traits
+  - ancestral_traits_from_little_folk
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - cosmic_origin
+    - divine_race
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; suggested
+  placements should be checked against passage evidence before adding aliases.
+- Objects/spaces bucket assignment appears noisy for doctrinal and kinship labels;
+  do not infer threshold or place function solely from the bucket.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2966
+  input_sha256: 9c0af769b18aed381cf8c96423557977ed870d375fd80924c52f1971bea42430
+

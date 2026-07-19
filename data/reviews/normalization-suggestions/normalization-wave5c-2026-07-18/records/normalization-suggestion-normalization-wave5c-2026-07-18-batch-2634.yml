@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2634
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.champion-single-combat-proposed-to-answer-communal-war
+  motif_id: champion_single_combat_proposed_to_answer_communal_war
+  label: champion single combat proposed to answer communal war
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: alias
+  confidence: high
+  rationale: Matches existing single-combat-as-decision-of-collective-conflict aliases
+    under sacred_combat.
+  cautions: Single occurrence; preserve the proposed rather than completed combat
+    detail if evidence matters.
+  suggested_aliases:
+  - single_combat_to_answer_communal_war
+  - champion_single_combat_as_decision_of_collective_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champions-paired-in-single-combat
+  motif_id: champions_paired_in_single_combat
+  label: champions paired in single combat
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: alias
+  confidence: high
+  rationale: Directly overlaps existing single combat between representative or opposing
+    champions.
+  cautions: Label is generic; source may specify ritual duel, battlefield duel, or
+    heroic contest.
+  suggested_aliases:
+  - single_combat_between_champions
+  - paired_champion_duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champions-volunteer-for-perilous-combat-but-are-withheld
+  motif_id: champions_volunteer_for_perilous_combat_but_are_withheld
+  label: champions volunteer for perilous combat but are withheld
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Concerns warrior selection and restraint before a dangerous combat episode,
+    fitting heroic combat organization.
+  cautions: May be an episode-specific plot beat rather than a reusable motif; review
+    if withholding is due to prophecy, rank, or strategy.
+  suggested_aliases:
+  - champions_withheld_from_perilous_combat
+  - volunteer_champions_refused_for_dangerous_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chariot-charge-as-battlefield-devastation
+  motif_id: chariot_charge_as_battlefield_devastation
+  label: chariot charge as battlefield devastation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A devastating heroic or martial chariot charge fits the divine_warrior
+    battlefield prowess complex.
+  cautions: If only a realistic battle tactic without heroic or sacred framing, it
+    may be too specific for pattern queries.
+  suggested_aliases:
+  - devastating_chariot_charge
+  - battlefield_devastation_by_chariot_charge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chariot-linked-with-victory-and-ethiopia
+  motif_id: chariot_linked_with_victory_and_ethiopia
+  label: Chariot linked with victory and Ethiopia
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes a martial object, victory symbolism, and a specific place
+    or tradition marker.
+  cautions: May be a contextual or iconographic note rather than a motif; avoid mapping
+    Ethiopia as motif content without source review.
+  suggested_aliases:
+  - victory_chariot
+  - chariot_as_victory_symbol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.charm-adapted-from-spear-to-gun
+  motif_id: charm_adapted_from_spear_to_gun
+  label: charm adapted from spear to gun
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording foregrounds ritual adaptation or transmission of a charm
+    across weapon technologies.
+  cautions: Could fit sacred_law, curse_blessing_speech, sacred_treasures, or meta
+    commentary depending on evidence; culturally sensitive source context needed.
+  suggested_aliases:
+  - weapon_charm_adapted_to_new_weapon
+  - martial_charm_transferred_from_spear_to_gun
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cherished-hidden-pet-grows-into-a-monster
+  motif_id: cherished_hidden_pet_grows_into_a_monster
+  label: cherished hidden pet grows into a monster
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a monster-emergence or dangerous-nurture motif not cleanly covered
+    by current groups.
+  cautions: May involve taboo violation, animal transformation, household danger,
+    or culture-specific monster traditions; source evidence needed before adding a
+    monster group.
+  suggested_aliases:
+  - hidden_pet_becomes_monster
+  - nurtured_animal_grows_into_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chess-play-continues-while-battle-reports-arrive
+  motif_id: chess_play_continues_while_battle_reports_arrive
+  label: chess play continues while battle reports arrive
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Reads as a highly specific episode detail rather than a broad symbolic
+    or narrative motif.
+  cautions: If repeated as ritualized game-as-battle parallelism, human review could
+    consider storytelling_as_power or sacred_combat; otherwise preserve as evidence
+    note only.
+  suggested_aliases:
+  - game_continues_during_battle_reports
+  - chess_as_battle_reports_arrive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chiefly-funeral-feast-and-successor-s-backward-address
+  motif_id: chiefly_funeral_feast_and_successor_s_backward_address
+  label: Chiefly funeral feast and successor’s backward address
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Funeral feast and successor address are mortuary and memorial succession
+    rites for a chief.
+  cautions: Backward address may be culturally specific and should be preserved; if
+    succession legitimacy dominates, royal_legitimacy may be a secondary mapping.
+  suggested_aliases:
+  - chiefly_funeral_feast_with_successor_address
+  - funeral_feast_and_successor_address
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chivalric-prize-object-awarded-to-the-best-knight
+  motif_id: chivalric_prize_object_awarded_to_the_best_knight
+  label: chivalric prize object awarded to the best knight
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prize object confers honor or status on the exemplary knight, aligning
+    with power or recognition objects.
+  cautions: If the emphasis is contest structure rather than the object, sacred_combat
+    may be a better secondary group.
+  suggested_aliases:
+  - prize_object_awarded_to_best_knight
+  - chivalric_prize_as_honor_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several conflict-bucket labels are single-occurrence and episode-specific; preserve
+  local detail while mapping only clear duel, funeral, and martial-object patterns.
+- Avoid treating place/tradition markers such as Ethiopia as motif content without
+  source review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2634
+  input_sha256: e59eb92465c56311ad3e3a7c4d33845abcbea7566bce20469989c07569af822d
+

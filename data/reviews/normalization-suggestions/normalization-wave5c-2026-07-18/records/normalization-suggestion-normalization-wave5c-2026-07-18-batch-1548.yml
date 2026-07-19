@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1548
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divided-city-under-siege
+  motif_id: divided_city_under_siege
+  label: Divided city under siege
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A city under siege is a warfare setting; division within the city is
+    a political-social condition within conflict.
+  cautions: Single occurrence and may be a historical plot detail rather than a reusable
+    motif; if focus is civic factionalism rather than siege warfare, human review
+    may prefer sacred_law or royal_legitimacy.
+  suggested_aliases:
+  - besieged_divided_city
+  - internal_division_during_siege
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.document-destruction-invalidating-unlawful-transaction
+  motif_id: document_destruction_invalidating_unlawful_transaction
+  label: document destruction invalidating unlawful transaction
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on legal order, documents, and invalidation of an unlawful
+    exchange, fitting sacred/social law.
+  cautions: Could be a narrow legal-procedural episode rather than a mythic motif;
+    if divine or moral reckoning is emphasized, divine_judgment may be a secondary
+    mapping.
+  suggested_aliases:
+  - destruction_of_document_voids_unlawful_transaction
+  - legal_document_destroyed_to_cancel_wrongful_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.documentation-of-oral-and-social-traditions-by-external-observers
+  motif_id: documentation_of_oral_and_social_traditions_by_external_observers
+  label: documentation of oral and social traditions by external observers
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes ethnographic or scholarly documentation rather than
+    a narrative, ritual, or symbolic motif.
+  cautions: Preserve as provenance or source-history metadata if useful; do not use
+    as motif evidence about Andamanese tradition itself.
+  suggested_aliases:
+  - external_observer_documentation_of_oral_traditions
+  - ethnographic_documentation_of_social_traditions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dog-dance-with-mouth-picking-performance-and-betting
+  motif_id: dog_dance_with_mouth_picking_performance_and_betting
+  label: Dog dance with mouth-picking performance and betting
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to a specific ceremonial performance, social game,
+    or passage detail; existing groups do not clearly capture it.
+  cautions: Culturally specific ritual/performance terminology needs source review
+    before broad mapping; avoid reducing it to trickster, animal, or sacred_time without
+    evidence.
+  suggested_aliases:
+  - dog_dance_performance_with_betting
+  - mouth_picking_dog_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.domestic-bed-shaking-produces-snow
+  motif_id: domestic_bed_shaking_produces_snow
+  label: Domestic bed-shaking produces snow
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A domestic action supernaturally producing weather fits divine or supernatural
+    intervention in natural phenomena.
+  cautions: If the figure is a weather spirit or household supernatural being, placement
+    may need a weather/seasonal subgroup; if merely an etiological tale detail, keep
+    granular.
+  suggested_aliases:
+  - shaking_bedding_creates_snow
+  - domestic_action_produces_snowfall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.domestic-cooking-simile-for-heroic-restlessness
+  motif_id: domestic_cooking_simile_for_heroic_restlessness
+  label: Domestic cooking simile for heroic restlessness
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label identifies a literary simile rather than a recurring mythic
+    action or symbolic motif.
+  cautions: May be useful as stylistic annotation for a passage, but should not drive
+    motif pattern queries.
+  suggested_aliases:
+  - cooking_simile_for_restless_hero
+  - domestic_simile_for_heroic_agitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.domestic-labor-contrasted-with-martial-honor
+  motif_id: domestic_labor_contrasted_with_martial_honor
+  label: domestic labor contrasted with martial honor
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The contrast frames martial honor and warrior identity against domestic
+    work, aligning loosely with heroic-warrior values.
+  cautions: This may be a social or gendered thematic contrast rather than a narrative
+    motif; review for whether sacred_combat, sacred_law, or exclusion is preferable.
+  suggested_aliases:
+  - martial_honor_contrasted_with_domestic_labor
+  - domestic_work_versus_warrior_honor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.domestic-stone-pounding-and-cracking-tool
+  motif_id: domestic_stone_pounding_and_cracking_tool
+  label: domestic stone pounding and cracking tool
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to name a mundane tool or material-culture detail,
+    not a symbolic or narrative motif.
+  cautions: If the tool is sacred, etiological, animated, or culture-founding in the
+    passage, human review could remap to sacred_craft or culture_hero.
+  suggested_aliases:
+  - stone_pounding_tool
+  - domestic_cracking_stone_tool
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doomed-king-amid-burning-city
+  motif_id: doomed_king_amid_burning_city
+  label: Doomed king amid burning city
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ruler doomed in the destruction of a city fits downfall of worldly
+    or royal power under catastrophe.
+  cautions: Could also map to death_by_fate, divine_judgment, sacred_combat, or flood_and_renewal
+    if the passage emphasizes fate, punishment, war, or cosmic fire rather than royal
+    downfall.
+  suggested_aliases:
+  - king_doomed_in_burning_city
+  - fallen_ruler_in_city_conflagration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dramatic-execution-of-a-fallen-ruler-at-ruins
+  motif_id: dramatic_execution_of_a_fallen_ruler_at_ruins
+  label: Dramatic execution of a fallen ruler at ruins
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Execution of a fallen ruler amid ruins emphasizes the humbling and destruction
+    of worldly power.
+  cautions: If the episode is primarily legal punishment or moral reckoning, divine_judgment
+    may be better; if it is a historical anecdote without symbolic function, exclude
+    as over-specific.
+  suggested_aliases:
+  - fallen_ruler_executed_amid_ruins
+  - ruined_power_marked_by_ruler_execution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and may be passage-level details
+  rather than durable motifs; suggested placements should be checked against source
+  context.
+- Power/kingship bucket items often split between royal_legitimacy, sacred_law, divine_judgment,
+  sacred_combat, and pride_and_downfall depending on narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1548
+  input_sha256: 502dc05ff0acba866fe0f4ca9fe1f1dc03be468f4c42ceb315917622828c396e
+

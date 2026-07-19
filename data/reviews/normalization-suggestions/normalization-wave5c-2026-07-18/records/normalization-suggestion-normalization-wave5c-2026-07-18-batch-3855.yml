@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3855
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.recognition-of-relatives-among-identical-beings-by-secret-signs
+  motif_id: recognition_of_relatives_among_identical_beings_by_secret_signs
+  label: Recognition of relatives among identical beings by secret signs
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Secret signs used to distinguish and identify relatives match recognition-token
+    and hidden-identity proof functions.
+  cautions: Preserve the identical-beings and kin-recognition details as passage evidence;
+    single occurrence may be too granular as a child label.
+  suggested_aliases:
+  - recognition by secret signs
+  - kin recognition by secret signs
+  - secret signs identify relatives among identical beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-shared-oral-legends-across-distant-communities
+  motif_id: recognition_of_shared_oral_legends_across_distant_communities
+  label: recognition of shared oral legends across distant communities
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe oral-tradition comparison or intercommunity memory
+    rather than a narrative motif inside a passage.
+  cautions: Avoid treating this as evidence of transmission or contact in normalization.
+    If it is a source/commentary observation, exclude as meta-textual; if story transmission
+    is narratively central, storytelling_as_power may fit.
+  suggested_aliases:
+  - shared oral legends recognized across communities
+  - recognition of common oral tradition
+  - intercommunity recognition of legends
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-the-powerful-figure-by-bodily-excellence
+  motif_id: recognition_of_the_powerful_figure_by_bodily_excellence
+  label: recognition of the powerful figure by bodily excellence
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Bodily excellence functions as an identity proof or recognition sign
+    for an exceptional figure.
+  cautions: Could alternatively belong to royal_legitimacy or divine_warrior if bodily
+    excellence legitimizes rule or warrior status rather than resolving identity.
+  suggested_aliases:
+  - recognition by bodily excellence
+  - recognition by exceptional body
+  - powerful figure recognized by physical excellence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-or-restored-perception-through-a-mouth-held-pebble-token
+  motif_id: recognition_or_restored_perception_through_a_mouth_held_pebble_token
+  label: Recognition or restored perception through a mouth-held pebble token
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines recognition token, perception restoration, and a specific
+    ritual/object detail, making function unclear without passage evidence.
+  cautions: If the pebble proves identity, use recognition_tokens_hidden_identity;
+    if it opens or restores perception, dream_and_vision/opened_perception or sacred_treasures
+    may fit. The mouth-held pebble may be over-specific evidence detail.
+  suggested_aliases:
+  - pebble token restores perception
+  - mouth-held token enables recognition
+  - recognition by pebble token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-through-cultural-signs
+  motif_id: recognition_through_cultural_signs
+  label: recognition through cultural signs
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: broader_label
+  confidence: medium
+  rationale: Cultural signs serve as identity markers or proofs, matching the recognition-token
+    group at a broad level.
+  cautions: The label is broad and culturally contextual; verify that the signs function
+    narratively as identity proof rather than ethnographic description.
+  suggested_aliases:
+  - identity recognized through cultural signs
+  - recognition by cultural markers
+  - cultural signs as identity proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-through-distinctive-food-aroma
+  motif_id: recognition_through_distinctive_food_aroma
+  label: Recognition through distinctive food aroma
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The existing group includes recognition by scent on food or object; distinctive
+    food aroma is a close variant.
+  cautions: Preserve the food-aroma specificity as evidence detail; could overlap
+    with sacred_substance only if the food itself has ritual or divine force.
+  suggested_aliases:
+  - recognition by food aroma
+  - recognition by scent of food
+  - distinctive food scent as identity proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-through-prearranged-signs
+  motif_id: recognition_through_prearranged_signs
+  label: Recognition through prearranged signs
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Prearranged signs are identity proofs used to recognize a person or relationship,
+    matching the recognition-token complex.
+  cautions: Single occurrence; keep as granular evidence unless the prearranged-sign
+    pattern recurs across sources.
+  suggested_aliases:
+  - recognition by prearranged signs
+  - prearranged signs as identity proof
+  - recognition through agreed signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-token-triggers-vengeance
+  motif_id: recognition_token_triggers_vengeance
+  label: recognition token triggers vengeance
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core device is a recognition token; vengeance is the narrative consequence
+    after identity or wrongdoing is recognized.
+  cautions: If the passage centers on retaliatory justice rather than recognition,
+    divine_judgment or sacred_combat may be secondary. Do not promote the full sequence
+    as canonical from one occurrence.
+  suggested_aliases:
+  - recognition token leading to vengeance
+  - vengeance triggered by identity token
+  - recognition proof prompts revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognized-bodily-remnant-in-food
+  motif_id: recognized_bodily_remnant_in_food
+  label: Recognized bodily remnant in food
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Recognition is present, but the bodily remnant in food may signal cannibalistic
+    revelation, murder discovery, taboo, or a passage-specific horror detail.
+  cautions: Map to recognition_tokens_hidden_identity only if the remnant functions
+    as proof of identity. Otherwise review for divine_judgment, sacred_law/taboo,
+    sacrifice, or exclusion as over-specific evidence.
+  suggested_aliases:
+  - bodily remnant in food reveals identity
+  - recognition of body part in food
+  - food containing recognized human remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognized-pair-of-distinguished-disciples
+  motif_id: recognized_pair_of_distinguished_disciples
+  label: Recognized pair of distinguished disciples
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like identification of named or ranked disciples rather
+    than a reusable symbolic or narrative motif.
+  cautions: If the passage uses the pair structurally as sacred twins, dual disciples,
+    or recognition tokens, reconsider; otherwise preserve as contextual/person-role
+    detail outside motif queries.
+  suggested_aliases:
+  - recognition of two distinguished disciples
+  - identified pair of chief disciples
+  - recognized disciple pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch cluster around recognition and identity proof; existing
+  group recognition_tokens_hidden_identity is usually sufficient while preserving
+  local evidence details.
+- Avoid inferring historical contact from labels about shared oral legends; this task
+  only suggests taxonomy placement.
+- Several one-off labels are composite or episode-specific and should not be promoted
+  without recurrence or source review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for wave5c batch 3855; human review
+    recommended for ambiguous composite labels and possible meta-textual artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3855
+  input_sha256: 5ff5411f3c5750cb7b08a23515648132dfae2479ef35eea6966e0c8feb473c42
+

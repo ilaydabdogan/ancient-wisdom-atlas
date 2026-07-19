@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3247
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.coerced-confession-and-witness-protection-logic
+  motif_id: coerced_confession_and_witness_protection_logic
+  label: Coerced confession and witness-protection logic
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns legal procedure and social order, but its wording
+    sounds analytical rather than a stable narrative motif.
+  cautions: Single occurrence; may be a passage-specific legal commentary artifact
+    rather than a motif. Review source evidence before indexing.
+  suggested_aliases:
+  - coerced_confession
+  - witness_protection_logic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coerced-food-tribute-to-a-predator
+  motif_id: coerced_food_tribute_to_a_predator
+  label: coerced food tribute to a predator
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weaker party compelled to feed a predator fits the predator-coercion
+    and animal-fable complex already grouped under trickster.
+  cautions: If the passage emphasizes ethical compassion, sacrifice, or social extortion
+    rather than predator deception, secondary review may be needed.
+  suggested_aliases:
+  - predator_food_tribute
+  - coerced_tribute_to_predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coerced-hostage-exchange-for-supernatural-aid
+  motif_id: coerced_hostage_exchange_for_supernatural_aid
+  label: Coerced hostage exchange for supernatural aid
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core structure is an exchange with supernatural powers, though coerced
+    through hostage-taking rather than ordinary reciprocity.
+  cautions: Could also involve divine_intervention or betrayal_violated_trust depending
+    on who coerces whom and whether aid is actually granted.
+  suggested_aliases:
+  - hostage_exchange_for_supernatural_aid
+  - coerced_supernatural_bargain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coerced-labor-for-mission-construction
+  motif_id: coerced_labor_for_mission_construction
+  label: Coerced labor for mission construction
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe colonial historical coercion rather than
+    a mythic or symbolic motif.
+  cautions: Culturally and historically sensitive; do not normalize into sacred_craft
+    unless the passage frames construction as mythic or ritual rather than forced
+    colonial labor.
+  suggested_aliases:
+  - forced_labor_for_mission_construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coerced-removal-and-land-cession
+  motif_id: coerced_removal_and_land_cession
+  label: coerced removal and land cession
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a historical displacement or treaty-coercion detail, not
+    a reusable symbolic motif.
+  cautions: Culturally sensitive colonial-history content; avoid flattening into generic
+    journey, exile, or covenant without source-specific review.
+  suggested_aliases:
+  - forced_removal_and_land_cession
+  - coerced_land_cession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coerced-servant-released-after-master-s-defeat
+  motif_id: coerced_servant_released_after_master_s_defeat
+  label: coerced servant released after master's defeat
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Release of a coerced servant after the master's defeat may function as
+    restoration of moral order after wrongdoing is punished.
+  cautions: Could instead be a plot-resolution artifact, social-order motif, or combat
+    aftermath; source evidence is needed to confirm sacred judgment.
+  suggested_aliases:
+  - servant_released_after_master_defeat
+  - liberation_after_oppressor_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coerced-territorial-cession-after-military-defeat
+  motif_id: coerced_territorial_cession_after_military_defeat
+  label: coerced territorial cession after military defeat
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label likely records a historical-political outcome of warfare rather
+    than a mythic combat pattern.
+  cautions: Culturally sensitive treaty/land-loss context; do not subsume under sacred_combat
+    or covenant without evidence of recurring narrative-symbolic function.
+  suggested_aliases:
+  - territorial_cession_after_defeat
+  - forced_land_cession_after_military_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coerced-territorial-surrender-to-obtain-peace
+  motif_id: coerced_territorial_surrender_to_obtain_peace
+  label: coerced territorial surrender to obtain peace
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a historical or political settlement detail, not clearly
+    a motif in the current taxonomy.
+  cautions: Culturally sensitive land-cession context; possible overlap with covenant
+    or sacred_combat only if the source frames it as ritualized peace-making or mythic
+    conflict resolution.
+  suggested_aliases:
+  - territorial_surrender_for_peace
+  - coerced_land_surrender_for_peace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coercion-by-alternating-threat-and-blandishment
+  motif_id: coercion_by_alternating_threat_and_blandishment
+  label: coercion by alternating threat and blandishment
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Alternating threat and persuasion can function as manipulative boundary-crossing
+    or deception strategy.
+  cautions: The label is abstract and may be rhetorical or political technique rather
+    than a motif; could fit sacred_law or betrayal depending on context.
+  suggested_aliases:
+  - coercion_by_threat_and_blandishment
+  - manipulation_by_threat_and_persuasion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coercion-of-a-reluctant-legal-agent
+  motif_id: coercion_of_a_reluctant_legal_agent
+  label: coercion of a reluctant legal agent
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The motif involves legal authority and social order, but the coercion
+    of a legal agent is too contextual to place confidently.
+  cautions: May be an episode-specific legal plot detail rather than a recurring sacred-law
+    motif; review whether oath, judgment, assembly law, or divine sanction is central.
+  suggested_aliases:
+  - reluctant_legal_agent_coerced
+  - coerced_law_agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to describe colonial or historical coercion
+  rather than mythic motifs; those should receive culturally sensitive human review
+  before any query mapping.
+- Where coercion is part of exchange, law, or animal-predator fable structure, existing
+  groups can provisionally hold the motif, but most are single-occurrence and context-dependent.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize human review for land cession, mission
+    labor, and legal-procedure labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3247
+  input_sha256: d31a19f1876fae20864ca7853d2d6b6b3fbf0c5041d5a34c2d47900a46182c38
+

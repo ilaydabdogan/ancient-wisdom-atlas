@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0424
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unerring-returning-weapon
+  motif_id: unerring_returning_weapon
+  label: Unerring returning weapon
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural or exact-returning weapon is best treated as a power object
+    that confers martial efficacy.
+  cautions: If the passage emphasizes combat outcome rather than the weapon as object,
+    sacred_combat or divine_warrior may be secondary.
+  suggested_aliases:
+  - returning_weapon
+  - unerring_supernatural_weapon
+  - weapon_that_returns_to_its_wielder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unexpected-husband-s-return-prompts-concealment-of-guest-and-food
+  motif_id: unexpected_husband_s_return_prompts_concealment_of_guest_and_food
+  label: Unexpected husband’s return prompts concealment of guest and food
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an episode-specific domestic plot detail rather than
+    a reusable symbolic motif.
+  cautions: If source evidence shows a recurrent adulterous hospitality, hidden guest,
+    or violated household-bond pattern, review under betrayal_violated_trust or hospitality_test_stranger_guest.
+  suggested_aliases:
+  - hidden_guest_after_husband_returns
+  - concealment_of_guest_and_food
+  - unexpected_spouse_return_concealment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unfamiliar-device-explained-as-captive-spirit
+  motif_id: unfamiliar_device_explained_as_captive_spirit
+  label: unfamiliar device explained as captive spirit
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could describe spirit containment, technological misrecognition, or an
+    ethnographic/commentary framing.
+  cautions: Culturally sensitive and context-dependent; avoid treating Indigenous
+    interpretation of a device as a motif without source evidence. If literal spirit
+    confinement is present, sacred_vessel or divine_intervention may fit.
+  suggested_aliases:
+  - device_as_captive_spirit
+  - captive_spirit_in_device
+  - unfamiliar_object_interpreted_as_spirit_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unfinished-underworld-people-between-the-living-and-the-dead
+  motif_id: unfinished_underworld_people_between_the_living_and_the_dead
+  label: unfinished underworld people between the living and the dead
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on liminal beings in an underworld space between life
+    and death.
+  cautions: Zuni cultural context should be reviewed carefully. If the focus is an
+    inhabited otherworld rather than a journey into death, otherworld may be a secondary
+    or better mapping.
+  suggested_aliases:
+  - liminal_underworld_people
+  - people_between_living_and_dead
+  - unfinished_people_of_the_underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unforeseen-death-overtakes-the-hidden-person
+  motif_id: unforeseen_death_overtakes_the_hidden_person
+  label: Unforeseen death overtakes the hidden person
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Death reaches a concealed person, suggesting inescapable mortality or
+    destiny despite attempted evasion.
+  cautions: If the passage stresses moral punishment for concealment rather than fate,
+    divine_judgment may be preferable.
+  suggested_aliases:
+  - death_finds_the_hidden_person
+  - inescapable_death_despite_hiding
+  - hidden_person_overtaken_by_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unfulfilled-return-with-courtship-offering
+  motif_id: unfulfilled_return_with_courtship_offering
+  label: Unfulfilled return with courtship offering
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve failed return, courtship exchange, death, or
+    a local episode-specific detail.
+  cautions: Native American Plains context needs source review. Do not map to return,
+    sacred_love, or sacred_exchange without knowing whether courtship offering is
+    central and recurrent.
+  suggested_aliases:
+  - failed_return_with_courtship_gift
+  - courtship_offering_return_unfulfilled
+  - uncompleted_courtship_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unintended-death-of-an-intervening-woman-in-combat
+  motif_id: unintended_death_of_an_intervening_woman_in_combat
+  label: unintended death of an intervening woman in combat
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The event is a combat consequence, with the intervening figure's accidental
+    death as a specific episode detail.
+  cautions: May be too specific for broad pattern queries. If grief, culpability,
+    or tragic recognition dominates, lament_and_mourning or divine_judgment may be
+    better.
+  suggested_aliases:
+  - accidental_death_of_intervening_woman_in_combat
+  - intervening_woman_killed_in_combat
+  - unintended_bystander_death_in_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unintended-substitute-death
+  motif_id: unintended_substitute_death
+  label: unintended substitute death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: low
+  rationale: A substitute death may belong to sacrificial substitution or transference,
+    but the unintended aspect makes function unclear.
+  cautions: 'Needs source review: could be accident, omen, scapegoat logic, mistaken
+    identity, or narrative casualty rather than sacrifice.'
+  suggested_aliases:
+  - accidental_substitute_death
+  - substitute_dies_unintentionally
+  - unintended_death_of_substitute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.union-with-an-enchanted-or-death-bound-prince
+  motif_id: union_with_an_enchanted_or_death_bound_prince
+  label: Union with an enchanted or death-bound prince
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on romantic union with a partner marked by enchantment
+    or death-bound condition.
+  cautions: If the enchantment or death-bound state is the primary pattern, shapeshifter
+    or death_and_transformation may be secondary mappings.
+  suggested_aliases:
+  - marriage_to_death_bound_prince
+  - union_with_enchanted_prince
+  - beloved_bound_by_enchantment_or_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-departure-and-turn-taking-mortality
+  motif_id: universal_departure_and_turn_taking_mortality
+  label: Universal departure and turn-taking mortality
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: The label expresses mortality as a universal appointed turn or inevitable
+    departure.
+  cautions: May be a wisdom teaching or sermon-like reflection rather than a narrative
+    motif; sacred_knowledge or mystical_quest may be relevant if the passage is contemplative.
+  suggested_aliases:
+  - everyone_takes_a_turn_at_death
+  - universal_mortality_as_departure
+  - appointed_turn_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and episode-specific; preserve as evidence
+  details unless recurrence is verified.
+- The review bucket is death-focused, but some best-fit placements are combat, sacred
+  objects, love, or textual exclusion rather than afterlife/descent.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific items require
+    human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0424
+  input_sha256: 644d90e108f977cea86c40f5717c44254fcbe822a950c23559a0d88c57ed13ed
+

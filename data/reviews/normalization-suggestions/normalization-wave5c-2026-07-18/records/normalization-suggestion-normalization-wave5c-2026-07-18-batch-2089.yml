@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2089
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-recognition-of-the-absent-master
+  motif_id: animal_recognition_of_the_absent_master
+  label: Animal recognition of the absent master
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The animal's recognition functions as proof of identity or relationship
+    despite absence or concealment.
+  cautions: Single occurrence; if the passage emphasizes animal loyalty or mourning
+    rather than identity proof, lament_and_mourning or a future animal-helper group
+    may fit better.
+  suggested_aliases:
+  - animal_recognizes_absent_master
+  - animal_recognition_as_identity_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-recognizes-and-follows-the-hero
+  motif_id: animal_recognizes_and_follows_the_hero
+  label: animal recognizes and follows the hero
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The taxonomy already places animal_helpers under divine_intervention;
+    recognition and following likely functions as animal guidance or support for the
+    hero.
+  cautions: If recognition primarily proves hidden identity, recognition_tokens_hidden_identity
+    may be a secondary mapping. If merely a realistic animal behavior, it may be too
+    specific.
+  suggested_aliases:
+  - animal_helper_recognizes_the_hero
+  - animal_follows_the_recognized_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-refusal-as-a-sign-of-trouble
+  motif_id: animal_refusal_as_a_sign_of_trouble
+  label: Animal refusal as a sign of trouble
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Animal refusal is treated as an omen or warning sign indicating hidden
+    danger or disorder.
+  cautions: If the refusal is not interpreted as an omen in the source, it may be
+    a narrative detail. Cultural context should be reviewed before broad indexing.
+  suggested_aliases:
+  - animal_behavior_as_omen
+  - animal_refusal_warns_of_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-refuses-the-uncanny-water
+  motif_id: animal_refuses_the_uncanny_water
+  label: Animal refuses the uncanny water
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on water as uncanny, dangerous, or spiritually charged,
+    with animal refusal marking its peril.
+  cautions: Could also be prophecy_divination if animal behavior is the main omen;
+    avoid mapping to flood_and_renewal unless catastrophe and renewal are present.
+  suggested_aliases:
+  - animal_refusal_of_uncanny_water
+  - animal_warns_against_dangerous_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-regalia-and-amulet-bearing-dance
+  motif_id: animal_regalia_and_amulet_bearing_dance
+  label: Animal regalia and amulet-bearing dance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label appears to describe a culturally specific ritual performance
+    involving animal regalia and amulets.
+  cautions: Culturally sensitive and too context-dependent to place from label alone;
+    may involve ritual dance, animal transformation, sacred treasures, or ceremonial
+    protection.
+  suggested_aliases:
+  - animal_regalia_dance
+  - amulet_bearing_animal_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-remains-as-instruments-of-magical-power
+  motif_id: animal_remains_as_instruments_of_magical_power
+  label: animal remains as instruments of magical power
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal remains function as power-bearing objects or ritual instruments,
+    fitting sacred_treasures more than animal transformation.
+  cautions: If the remains are used primarily in ritual offering or spirit contact,
+    sacrifice or sacred_law may be relevant secondary groups. Review culturally specific
+    usage carefully.
+  suggested_aliases:
+  - animal_remains_as_power_objects
+  - animal_relics_as_magical_instruments
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-remains-as-vulnerable-link-for-hostile-magic
+  motif_id: animal_remains_as_vulnerable_link_for_hostile_magic
+  label: Animal remains as vulnerable link for hostile magic
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: The remains act as an external vulnerable link through which harm can
+    be directed, close to life-token or detachable-vitality logic.
+  cautions: Comparative label may be an analytic artifact; if it describes sympathetic
+    magic rather than a being's life-force, sacred_law may be a better ritual-magic
+    placement.
+  suggested_aliases:
+  - animal_remains_as_hostile_magic_link
+  - vulnerable_link_through_animal_remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-remains-oriented-to-direct-movement
+  motif_id: animal_remains_oriented_to_direct_movement
+  label: animal remains oriented to direct movement
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests a specific ritual handling of animal remains to affect
+    movement, but the symbolic function is unclear.
+  cautions: Culturally specific and possibly an ethnographic ritual detail; could
+    involve sacred_law, animal spirit relations, hunting ritual, or passage guidance
+    depending on source evidence.
+  suggested_aliases:
+  - oriented_animal_remains_direct_movement
+  - ritual_orientation_of_animal_remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-repays-care-by-supporting-an-elderly-human
+  motif_id: animal_repays_care_by_supporting_an_elderly_human
+  label: animal repays care by supporting an elderly human
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on reciprocal care and repayment across human-animal
+    relations, fitting sacred_exchange's reciprocity pattern.
+  cautions: If framed mainly as moral teaching, sacred_law or wisdom may be secondary.
+    Single occurrence may be a fable exemplum rather than a broad motif.
+  suggested_aliases:
+  - animal_reciprocates_human_care
+  - animal_supports_elderly_benefactor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-representation-and-implement-art
+  motif_id: animal_representation_and_implement_art
+  label: animal representation and implement art
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a description of material culture or art classification
+    rather than a narrative or symbolic motif.
+  cautions: If a source passage assigns ritual agency to the implement or animal image,
+    review under sacred_craft, sacred_treasures, or sacred_law instead of excluding.
+  suggested_aliases:
+  - animal_implement_art
+  - animal_representation_in_artifacts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several animal-centered labels are single-occurrence and depend heavily on whether
+  the animal action is omen, helper, ritual object, or ordinary narrative detail.
+- Culturally specific ritual labels involving animal remains, regalia, or hunting
+  practice should receive human review before broad normalization.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for culturally
+    specific animal-ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2089
+  input_sha256: 140354cebcd15edea6d05e127f933680b3b4b7e889657136ec6424d4e86985bf
+

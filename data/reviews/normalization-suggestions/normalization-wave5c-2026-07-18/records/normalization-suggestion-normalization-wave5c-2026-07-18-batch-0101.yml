@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0101
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dead-spouse-and-new-marriage-conflict
+  motif_id: dead_spouse_and_new_marriage_conflict
+  label: dead spouse and new marriage conflict
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern mourning, remarriage taboo, haunting, or household
+    conflict; source context is needed.
+  cautions: Single occurrence and culturally/legal-context dependent; avoid forcing
+    into lament or restless-dead without evidence of postmortem agency.
+  suggested_aliases:
+  - dead spouse and remarriage conflict
+  - remarriage conflict after spouse's death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-summon-living-relatives-through-representative-objects
+  motif_id: dead_summon_living_relatives_through_representative_objects
+  label: Dead summon living relatives through representative objects
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The dead remain active and call living kin through objects, fitting postmortem
+    agency and haunting/return patterns.
+  cautions: If the representative objects are chiefly ritual offerings or ancestor-care
+    media, ancestor_rites may be a better secondary mapping.
+  suggested_aliases:
+  - dead summon relatives through objects
+  - postmortem summons through representative objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-traveler-left-below-a-notable-animal-s-nest
+  motif_id: dead_traveler_left_below_a_notable_animal_s_nest
+  label: Dead traveler left below a notable animal's nest
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly specific burial/location detail rather than
+    a reusable motif.
+  cautions: If the animal nest has ritual, omen, or transformation significance in
+    the passage, review for animal omen, burial denial, or death transformation instead.
+  suggested_aliases:
+  - dead traveler below animal nest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-treated-as-spiritual-intelligences
+  motif_id: dead_treated_as_spiritual_intelligences
+  label: Dead treated as spiritual intelligences
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: broader_label
+  confidence: medium
+  rationale: Treating the dead as active intelligences aligns with ancestor-veneration
+    and ritual relation between living and dead.
+  cautions: May be doctrinal or philosophical classification rather than narrative
+    motif; verify ritual or relational function in source evidence.
+  suggested_aliases:
+  - dead as spiritual intelligences
+  - ancestors as spiritual intelligences
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-tree-assigned-as-woodpecker-s-grandfather
+  motif_id: dead_tree_assigned_as_woodpecker_s_grandfather
+  label: dead tree assigned as Woodpecker's grandfather
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve kinship assignment, animal genealogy, tree symbolism,
+    or a passage-specific etiological detail.
+  cautions: Culturally specific and single occurrence; do not map to ancestor_rites,
+    axis_mundi, or shapeshifter without source support.
+  suggested_aliases:
+  - dead tree as Woodpecker's grandfather
+  - tree assigned as animal ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-tribesmen-s-spirits-send-animal-omens
+  motif_id: dead_tribesmen_s_spirits_send_animal_omens
+  label: Dead tribesmen's spirits send animal omens
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal omens sent by spirits function as postmortem divinatory communication.
+  cautions: Could also index under ancestor_rites or restless_dead_haunting_vengeance
+    if the dead spirits' agency is more central than omen interpretation.
+  suggested_aliases:
+  - dead spirits send animal omens
+  - ancestral spirits send animal omens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-victims-displayed-as-royal-warning
+  motif_id: dead_victims_displayed_as_royal_warning
+  label: dead victims displayed as royal warning
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: Displayed corpses as warning may enact royal authority, deterrence, or
+    punitive order.
+  cautions: May instead be a violence/trophy or passage-specific scene; if no sacred
+    or royal-order function is present, exclude or map to sacred_combat/divine_judgment
+    only with evidence.
+  suggested_aliases:
+  - displayed dead as royal warning
+  - corpse display as royal warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-visible-in-the-northern-lights
+  motif_id: dead_visible_in_the_northern_lights
+  label: dead visible in the northern lights
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The dead appearing in auroral lights is a postmortem transformation or
+    visible afterlife presence in a celestial phenomenon.
+  cautions: If the aurora functions mainly as an omen or spirit communication, dream_and_vision
+    or prophecy_divination may be relevant secondary mappings.
+  suggested_aliases:
+  - dead seen in northern lights
+  - dead visible in aurora
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-warrior-left-where-he-fell
+  motif_id: dead_warrior_left_where_he_fell
+  label: Dead warrior left where he fell
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The treatment or non-removal of a fallen warrior concerns funerary handling
+    and warrior death rites.
+  cautions: Could be an episode-specific battlefield detail; map only if the passage
+    marks this as meaningful mortuary custom or memorial practice.
+  suggested_aliases:
+  - fallen warrior left where he fell
+  - warrior body left at place of death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-warrior-promises-success-in-revenge
+  motif_id: dead_warrior_promises_success_in_revenge
+  label: Dead warrior promises success in revenge
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dead warrior remains active and directs or guarantees vengeance, fitting
+    unresolved dead and vengeance agency.
+  cautions: If framed as battlefield inspiration rather than haunting, divine_warrior
+    or sacred_combat may be secondary; verify dead person's postmortem agency.
+  suggested_aliases:
+  - dead warrior promises revenge success
+  - fallen warrior aids revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and culturally specific; preserve local evidence
+  notes even when mapped to broad groups.
+- Where dead persons communicate through omens or objects, reviewers should decide
+  whether ancestor_rites, restless_dead_haunting_vengeance, or prophecy_divination
+  is primary based on passage function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional automated placement suggestions for death/ancestor-related unmapped
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0101
+  input_sha256: 04a55d703625b80541a3ab51a78181201e5f413f1af82d9b034974cfec5501ef
+

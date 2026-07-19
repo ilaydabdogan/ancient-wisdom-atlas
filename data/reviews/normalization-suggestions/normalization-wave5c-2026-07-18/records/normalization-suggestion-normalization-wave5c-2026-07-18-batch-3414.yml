@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3414
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.expert-guidance-along-a-hidden-route
+  motif_id: expert_guidance_along_a_hidden_route
+  label: expert guidance along a hidden route
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Guidance along a hidden route may function as journey assistance or threshold
+    navigation, but the label lacks evidence of quest, ordeal, or transformation.
+  cautions: Could instead be practical tracking knowledge, a shamanic route, an otherworld
+    path, or an over-specific episode detail.
+  suggested_aliases:
+  - hidden_route_guidance
+  - expert_guide_on_hidden_path
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expert-reading-of-natural-signs
+  motif_id: expert_reading_of_natural_signs
+  label: expert reading of natural signs
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: low
+  rationale: Reading natural signs can be divinatory or omen interpretation when used
+    to access hidden or future knowledge.
+  cautions: May be ordinary ecological expertise rather than sacred divination; source
+    context is needed before mapping.
+  suggested_aliases:
+  - reading_natural_signs
+  - expert_interpretation_of_natural_omens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expert-vetted-traditional-procedure
+  motif_id: expert_vetted_traditional_procedure
+  label: expert-vetted traditional procedure
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes validation or provenance of a procedure rather than
+    a symbolic or narrative motif.
+  cautions: If the passage itself depicts a ritual procedure with sacred efficacy,
+    remap to sacred_law, sacrifice, or sacred_exchange based on function.
+  suggested_aliases:
+  - traditional_procedure_vetted_by_expert
+  - expert_validation_of_tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.explained-abnormal-head-condition
+  motif_id: explained_abnormal_head_condition
+  label: explained abnormal head condition
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: The wording suggests an etiological explanation, possibly for a bodily
+    condition, but no existing group cleanly covers body-part etiologies.
+  cautions: Could be a local etiological tale, transformation, punishment, healing,
+    or passage artifact; avoid mapping to cosmic origin unless an origin/explanation
+    function is explicit.
+  suggested_aliases:
+  - etiology_of_abnormal_head_condition
+  - bodily_condition_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exploiter-withholds-a-dependent-s-food
+  motif_id: exploiter_withholds_a_dependent_s_food
+  label: exploiter withholds a dependent's food
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: Withholding food from a dependent may express violated care, exploitation,
+    or broken obligation.
+  cautions: Could instead belong to sacred_law, sacred_exchange, family conflict,
+    or a specific episode of abuse; not enough evidence for confident placement.
+  suggested_aliases:
+  - withholding_food_from_dependent
+  - exploitation_by_food_deprivation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exposed-royal-infant-survives-through-transfer-and-adoption
+  motif_id: exposed_royal_infant_survives_through_transfer_and_adoption
+  label: exposed royal infant survives through transfer and adoption
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: narrower_than
+  confidence: high
+  rationale: A threatened or exposed infant who survives hidden transfer and adoption
+    fits the miraculous/protected child complex, especially with royal destiny.
+  cautions: May also support royal_legitimacy if the adoption or survival authorizes
+    later rule.
+  suggested_aliases:
+  - exposed_royal_infant_survives
+  - royal_infant_exposure_and_adoption
+  - threatened_infant_saved_by_adoption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exposure-and-execution-of-a-sorcerer-after-public-accusation
+  motif_id: exposure_and_execution_of_a_sorcerer_after_public_accusation
+  label: Exposure and execution of a sorcerer after public accusation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Public exposure and execution of a harmful ritual specialist may function
+    as communal judgment and restoration of order.
+  cautions: Culturally sensitive and possibly source-dependent; could be social accusation,
+    witchcraft discourse, legal punishment, or episode-specific violence rather than
+    a broad motif.
+  suggested_aliases:
+  - public_accusation_exposes_sorcerer
+  - sorcerer_exposed_and_executed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exposure-of-appropriated-shamanic-power
+  motif_id: exposure_of_appropriated_shamanic_power
+  label: Exposure of appropriated shamanic power
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: low
+  rationale: Improperly acquired shamanic power concerns possession, concealment,
+    and exposure of sacred knowledge or power.
+  cautions: Culturally sensitive; could involve sacred theft, ritual authority, fraud
+    exposure, or local shamanic categories not captured by the broad group.
+  suggested_aliases:
+  - exposed_stolen_shamanic_power
+  - revelation_of_appropriated_sacred_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expulsion-and-avoidance-of-an-expelled-member
+  motif_id: expulsion_and_avoidance_of_an_expelled_member
+  label: expulsion and avoidance of an expelled member
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Communal expulsion and avoidance can function as sacred disciplinary
+    order or purity regulation.
+  cautions: If the episode involves transferring pollution or demons, sacrifice/ritual_expulsion
+    may be better; if merely monastic rule commentary, consider exclusion.
+  suggested_aliases:
+  - avoidance_of_expelled_member
+  - communal_expulsion_and_avoidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expulsion-of-demonic-falsehood-below
+  motif_id: expulsion_of_demonic_falsehood_below
+  label: Expulsion of demonic falsehood below
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Driving demonic falsehood downward fits sacred order judging and removing
+    disorder or evil.
+  cautions: Could also map to duality if the passage emphasizes truth/lie cosmology,
+    or to sacrifice/ritual expulsion if framed as a rite.
+  suggested_aliases:
+  - demonic_falsehood_expelled_below
+  - expulsion_of_falsehood_to_the_underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and depend heavily on source
+  context; placements should remain provisional.
+- For Indigenous and shamanic-power labels, review with attention to local terminology
+  and avoid flattening ritual authority into generic fraud or magic categories.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft suggestions only; human taxonomy review required for low-confidence
+    and culturally sensitive items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3414
+  input_sha256: 9e30164f7e89ae6871d82790792e001e30dc546ae8c64d7876b94c5de5d45a10
+

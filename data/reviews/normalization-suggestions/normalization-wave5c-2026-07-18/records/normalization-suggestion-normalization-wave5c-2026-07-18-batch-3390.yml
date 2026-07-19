@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3390
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.erotic-pursuit-and-capture-of-a-resisting-youth
+  motif_id: erotic_pursuit_and_capture_of_a_resisting_youth
+  label: erotic pursuit and capture of a resisting youth
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves erotic pursuit, but capture of a resisting youth may
+    be coercive violence, abduction, or episode-specific sexual aggression rather
+    than sacred love.
+  cautions: Sensitive content and single occurrence; source context is needed to avoid
+    normalizing coercion as love. Could alternatively belong under sacred_combat,
+    divine_judgment, or be excluded as an over-specific episode detail.
+  suggested_aliases:
+  - erotic_abduction_of_resisting_youth
+  - coercive_erotic_pursuit
+  - pursuit_and_capture_of_resisting_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escalating-assault-sequence
+  motif_id: escalating_assault_sequence
+  label: escalating assault sequence
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: Escalating assault may describe conflict or combat, but the label is
+    too generic to identify a stable symbolic or narrative function.
+  cautions: Could be a passage-structure artifact rather than a motif; review whether
+    the assaults have sacred, ritual, judgment, or heroic significance.
+  suggested_aliases:
+  - escalating_attacks
+  - successive_assaults
+  - intensifying_assault_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escalating-invocation-of-supernatural-countermeasures
+  motif_id: escalating_invocation_of_supernatural_countermeasures
+  label: Escalating invocation of supernatural countermeasures
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Invoked supernatural countermeasures likely operate through performative
+    speech, adjuration, charms, or verbal ritual action.
+  cautions: If the passage emphasizes divine intervention rather than spoken invocation,
+    divine_intervention may be a secondary or better placement. Single occurrence;
+    preserve escalation as evidence detail.
+  suggested_aliases:
+  - invoked_supernatural_countermeasures
+  - escalating_magical_counter_invocations
+  - successive_invocations_against_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escalating-multiple-restitution-for-disputed-commercial-obligations
+  motif_id: escalating_multiple_restitution_for_disputed_commercial_obligations
+  label: Escalating multiple restitution for disputed commercial obligations
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Restitution for disputed obligations is primarily a legal and social-order
+    motif, fitting sacred law if the passage frames law as divinely or ritually sanctioned.
+  cautions: May be a legal-code artifact rather than a mythic motif. If it is merely
+    a technical rule, consider excluding from pattern queries or preserving as legal
+    evidence only.
+  suggested_aliases:
+  - multiple_restitution_for_commercial_dispute
+  - escalating_restitution_for_obligations
+  - commercial_restitution_penalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escalating-numbered-hosts
+  motif_id: escalating_numbered_hosts
+  label: Escalating numbered hosts
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: uncertain
+  confidence: low
+  rationale: Numbered hosts may signal overwhelming martial forces, but the label
+    may simply describe narrative enumeration or formulaic escalation.
+  cautions: Review whether the hosts are armies, supernatural retinues, demons, or
+    textual catalogues. Do not map to combat unless hostile or martial function is
+    explicit.
+  suggested_aliases:
+  - escalating_numbered_armies
+  - successively_larger_hosts
+  - numbered_hosts_in_escalation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escalating-petition-for-pardon
+  motif_id: escalating_petition_for_pardon
+  label: escalating petition for pardon
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Petition for pardon aligns with supplication, mercy, and restoration
+    of a broken moral or relational bond already grouped under covenant.
+  cautions: If the passage centers karmic consequence or moral reckoning rather than
+    relationship repair, divine_judgment may be better. Preserve escalation as a local
+    narrative detail.
+  suggested_aliases:
+  - petition_for_pardon
+  - repeated_supplication_for_pardon
+  - escalating_supplication_for_mercy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escalating-retinues-precede-the-principal-youth
+  motif_id: escalating_retinues_precede_the_principal_youth
+  label: escalating retinues precede the principal youth
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: uncertain
+  confidence: low
+  rationale: A principal youth preceded by increasingly impressive retinues may mark
+    special status, but the function could be royal, heroic, or merely formulaic.
+  cautions: Single occurrence and highly scene-specific. Review whether the youth
+    is sacred, royal, destined, or simply a narrative arrival figure before mapping.
+  suggested_aliases:
+  - retinues_precede_principal_youth
+  - successive_retinues_before_youth
+  - processional_arrival_of_principal_youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escalating-therapeutic-sequence-culminating-in-scarification
+  motif_id: escalating_therapeutic_sequence_culminating_in_scarification
+  label: Escalating therapeutic sequence culminating in scarification
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A therapeutic sequence ending in scarification may be a ritual healing
+    or bodily rite, but existing groups only loosely cover it under ritual regulation
+    and protection.
+  cautions: Culturally sensitive and medically/ritually specific; source evidence
+    is needed. Avoid reducing scarification to generic sacrifice or initiation unless
+    the rite explicitly transforms status or offers something to sacred powers.
+  suggested_aliases:
+  - ritual_therapy_culminating_in_scarification
+  - healing_sequence_with_scarification
+  - escalating_healing_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escalating-wager-of-kin-and-body
+  motif_id: escalating_wager_of_kin_and_body
+  label: Escalating wager of kin and body
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: A wager of kin and body concerns exchange, risk, and obligation, but
+    may be game, ordeal, sacrifice, or coercive loss depending on context.
+  cautions: Culturally sensitive and single occurrence. Review whether the wager functions
+    as sacred exchange, contest, social law, or an over-specific narrative episode.
+  suggested_aliases:
+  - wagering_kin_and_body
+  - escalating_body_and_kin_wager
+  - stakes_escalate_to_kin_and_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escalating-wager-to-body-part
+  motif_id: escalating_wager_to_body_part
+  label: Escalating wager to body part
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: Escalating a wager to a body part suggests exchange and bodily stakes,
+    but the narrative function is unclear from the label alone.
+  cautions: May overlap with ordeal, sacrifice, sacred combat, or gambling tale structure.
+    Review culturally specific context before treating as a broad motif.
+  suggested_aliases:
+  - body_part_wager
+  - wager_escalates_to_body_part
+  - bodily_stakes_in_wager
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Many labels in this batch use 'escalating' and may reflect generated summaries of
+  narrative sequence rather than durable motifs; human review should check passage
+  evidence before adding aliases.
+- For sensitive labels involving coercive erotic pursuit, scarification, or wagering
+  kin/body parts, avoid broad mapping without cultural and source context.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several items are single-occurrence, sequence-like,
+    or culturally sensitive.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3390
+  input_sha256: 5f14a880594a78b823294003686fd84ee42697d97e827a1cdb49bee4c1b93592
+

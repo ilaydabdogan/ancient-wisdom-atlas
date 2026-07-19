@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1990
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.senior-first-wife-with-junior-wives-as-helpers-or-successors
+  motif_id: senior_first_wife_with_junior_wives_as_helpers_or_successors
+  label: Senior first wife with junior wives as helpers or successors
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a culturally specific household role arrangement
+    rather than a clear recurring mythic motif in the current groups.
+  cautions: May be ethnographic social structure, succession detail, or narrative
+    family-role motif; source context is needed before indexing.
+  suggested_aliases:
+  - senior wife and junior co-wives
+  - co-wife hierarchy and succession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separate-co-wife-houses-in-a-chiefly-domestic-complex
+  motif_id: separate_co_wife_houses_in_a_chiefly_domestic_complex
+  label: separate co-wife houses in a chiefly domestic complex
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a specific domestic or chiefly residence detail, not
+    a broad symbolic or narrative motif.
+  cautions: If passage evidence makes separate wife-houses central to succession,
+    rivalry, taboo, or sacred kingship, review under sacred_law or royal_legitimacy
+    instead.
+  suggested_aliases:
+  - co-wife houses in chiefly compound
+  - separate houses for co-wives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separate-house-for-a-second-wife
+  motif_id: separate_house_for_a_second_wife
+  label: Separate house for a second wife
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a narrow domestic arrangement and likely a passage detail
+    rather than a reusable motif.
+  cautions: Could be retained as evidence if tied to co-wife hierarchy, marital rivalry,
+    or chiefly household order.
+  suggested_aliases:
+  - second wife in separate house
+  - separate dwelling for second wife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separate-vessels-for-restricted-persons
+  motif_id: separate_vessels_for_restricted_persons
+  label: separate vessels for restricted persons
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Separate vessels for restricted persons fit ritual purity, taboo, and
+    regulated contact under sacred law.
+  cautions: Review the nature of restriction carefully; it may involve gender, illness,
+    death pollution, status, or culturally sensitive purity rules.
+  suggested_aliases:
+  - separate utensils for tabooed persons
+  - restricted persons use separate vessels
+  - ritual separation of vessels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separation-from-parent-stock-by-invading-wedge
+  motif_id: separation_from_parent_stock_by_invading_wedge
+  label: separation from parent stock by invading wedge
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The wording is ambiguous: it may describe lineage fission, plant propagation,
+    migration, or a generated-text artifact.'
+  cautions: Do not map to family or origin groups without source evidence clarifying
+    whether this is genealogy, ethnogenesis, botanical metaphor, or commentary.
+  suggested_aliases:
+  - separation from parent stock
+  - lineage separation by invading wedge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separation-from-the-beloved-as-dark-night-and-burning
+  motif_id: separation_from_the_beloved_as_dark_night_and_burning
+  label: separation from the Beloved as dark night and burning
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Separation from the divine Beloved expressed as dark night and burning
+    is a devotional longing motif within sacred love.
+  cautions: If the passage emphasizes disciplined interior quest more than love imagery,
+    mystical_quest may be a secondary mapping.
+  suggested_aliases:
+  - separation from the divine beloved
+  - dark night of separation
+  - burning longing for the Beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.serial-killing-of-brides-after-marriage
+  motif_id: serial_killing_of_brides_after_marriage
+  label: serial killing of brides after marriage
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a violent marriage-peril pattern but no existing group cleanly
+    captures bride-murder or lethal spouse cycles.
+  cautions: Could involve sacred_love, betrayal_violated_trust, divine_judgment, or
+    a villain/ordeal episode; avoid flattening into love alone.
+  suggested_aliases:
+  - brides murdered after marriage
+  - lethal marriage sequence
+  - serial bride killing
+  suggested_new_group:
+    id: lethal_marriage_peril
+    label: Lethal Marriage and Bride Peril
+    description: Marriage, betrothal, or erotic union becomes a site of repeated danger,
+      murder, captivity, or fatal testing for a spouse or bride.
+    parent_group_ids:
+    - sacred_love
+    related_group_ids:
+    - betrayal_violated_trust
+    - divine_judgment
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing sacred_love covers longing and union,
+      but not recurring lethal spouse-peril as a distinct narrative function.
+- suggestion_id: normalization.suggestion.serial-transfer-of-foster-child-between-allied-adults
+  motif_id: serial_transfer_of_foster_child_between_allied_adults
+  label: serial transfer of foster-child between allied adults
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes fosterage and alliance networks, which are not well
+    represented in current motif groups.
+  cautions: May be an ethnographic kinship detail rather than a mythic motif; map
+    only if transfer drives narrative identity, obligation, or initiation.
+  suggested_aliases:
+  - foster child passed among allied adults
+  - circulating foster child
+  - fosterage through allied households
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - covenant
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.servant-or-attendant-devises-aid-for-lovers
+  motif_id: servant_or_attendant_devises_aid_for_lovers
+  label: Servant or attendant devises aid for lovers
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: role_variant
+  confidence: medium
+  rationale: An attendant helping lovers is a supporting role in a love-union or bride-winning
+    plot.
+  cautions: If the aid is chiefly trickery, disguise, or a test, trickster or recognition_tokens_hidden_identity
+    may be relevant as secondary groups.
+  suggested_aliases:
+  - helper servant aids lovers
+  - attendant as lovers' helper
+  - go-between devises aid for lovers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.servant-wife-childbearing-arrangement
+  motif_id: servant_wife_childbearing_arrangement
+  label: servant-wife childbearing arrangement
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label involves surrogate-like childbearing, kinship, status, and
+    covenantal lineage, but the narrative function is unclear from the label alone.
+  cautions: Culturally and ethically sensitive; may fit miraculous_child, covenant,
+    royal_legitimacy, or social law depending on whether the focus is birth, lineage,
+    hierarchy, or household conflict.
+  suggested_aliases:
+  - servant wife bears child
+  - handmaid childbearing arrangement
+  - surrogate childbearing through servant-wife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - covenant
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence domestic or kinship details;
+  avoid promoting them without cross-source recurrence or clear narrative function.
+- For co-wife, servant-wife, and fosterage motifs, source context is important to
+  distinguish ethnographic household description from mythic patterns of lineage,
+  alliance, rivalry, or sacred birth.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; kinship and marriage-status labels need human
+    evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1990
+  input_sha256: 7108c0969e5bb35813de43e7cedbfb34bbaca4ec89f6cd9030871962069f6a2b
+

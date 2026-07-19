@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1288
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deer-related-dream-song-comparison
+  motif_id: deer_related_dream_song_comparison
+  label: deer-related dream song comparison
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: over_specific_label
+  confidence: low
+  rationale: Combines dream, song, animal imagery, and comparison; dream evidence
+    points generally toward dream_and_vision but function is unclear.
+  cautions: Single occurrence and comparative wording may be a source or analyst artifact;
+    review Indigenous song/dream context before indexing.
+  suggested_aliases:
+  - deer_dream_song
+  - dream_song_with_deer_imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-enemies-spared-or-punished-by-royal-mercy-and-counsel
+  motif_id: defeated_enemies_spared_or_punished_by_royal_mercy_and_counsel
+  label: Defeated enemies spared or punished by royal mercy and counsel
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing covenant group already contains mercy toward defeated enemies
+    and refusal or granting of mercy in social order contexts.
+  cautions: Could also fit royal_legitimacy or divine_judgment if the passage stresses
+    rulership or karmic punishment over mercy.
+  suggested_aliases:
+  - royal_mercy_toward_defeated_enemies
+  - counseled_mercy_or_punishment_of_defeated_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-figure-becomes-associated-with-a-named-river
+  motif_id: defeated_figure_becomes_associated_with_a_named_river
+  label: defeated figure becomes associated with a named river
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Named landscape features explained by violent or heroic events are already
+    handled as etiological place naming under cosmic_origin.
+  cautions: If the figure literally transforms into a river, death_and_transformation
+    or sacred_waters may be secondary; if only a local name note, it may be over-specific.
+  suggested_aliases:
+  - river_name_etiology_from_defeated_figure
+  - defeated_figure_river_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-invoked-across-named-remote-places
+  motif_id: deity_invoked_across_named_remote_places
+  label: Deity invoked across named remote places
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: Invocation is a sacred speech act, but the named remote places may indicate
+    liturgical geography rather than a motif.
+  cautions: May be a hymn formula, place catalogue, or ritual recitation artifact;
+    source evidence needed before pattern-query inclusion.
+  suggested_aliases:
+  - deity_invocation_across_remote_places
+  - geographic_litany_of_divine_invocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-s-name-preserved-in-landscape-lineage-and-weekday-names
+  motif_id: deity_s_name_preserved_in_landscape_lineage_and_weekday_names
+  label: deity's name preserved in landscape, lineage, and weekday names
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes onomastic survival across names rather than a narrative
+    or symbolic motif.
+  cautions: Preserve as provenance or reception evidence if useful; do not treat name
+    preservation itself as evidence of mythic patterning.
+  suggested_aliases:
+  - deity_name_preserved_in_toponyms_lineages_and_weekdays
+  - onomastic_preservation_of_deity_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.delegated-discipline-with-instructional-oversight
+  motif_id: delegated_discipline_with_instructional_oversight
+  label: Delegated discipline with instructional oversight
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Discipline and instruction may belong to sacred law or wisdom, but the
+    label is abstract and administrative.
+  cautions: May be a monastic-rule or commentary artifact rather than a mythic motif;
+    verify narrative or ritual function.
+  suggested_aliases:
+  - instructional_oversight_of_delegated_discipline
+  - delegated_monastic_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deliberate-preservation-of-a-song-through-duplicate-records
+  motif_id: deliberate_preservation_of_a_song_through_duplicate_records
+  label: deliberate preservation of a song through duplicate records
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Duplicate records and deliberate preservation describe documentation
+    or transmission practice, not a narrative motif.
+  cautions: Respect song provenance and preservation context; keep for archival metadata
+    rather than motif querying.
+  suggested_aliases:
+  - song_preserved_in_duplicate_records
+  - duplicate_record_preservation_of_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deliverance-of-named-women-from-a-demonic-adversary
+  motif_id: deliverance_of_named_women_from_a_demonic_adversary
+  label: deliverance of named women from a demonic adversary
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Deliverance from a demonic adversary fits divine or sacred intervention
+    in human peril.
+  cautions: If the passage emphasizes combat with the demon, divine_warrior or sacred_combat
+    may be secondary; named women may be passage-specific detail.
+  suggested_aliases:
+  - deliverance_from_demonic_adversary
+  - women_delivered_from_demonic_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deposited-personal-ornaments-become-disaster-portent
+  motif_id: deposited_personal_ornaments_become_disaster_portent
+  label: deposited personal ornaments become disaster portent
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Objects functioning as disaster portents belong with omen and divination
+    patterns more than with ordinary treasure motifs.
+  cautions: Could also fit sacred_treasures if ornaments are power objects; single
+    occurrence and culturally specific sign logic need review.
+  suggested_aliases:
+  - personal_ornaments_as_disaster_omens
+  - deposited_ornaments_portend_disaster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.derision-song-addressed-to-defeated-enemy
+  motif_id: derision_song_addressed_to_defeated_enemy
+  label: derision song addressed to defeated enemy
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A song taunting a defeated enemy functions as postcombat derision or
+    martial speech within sacred combat contexts.
+  cautions: If the song itself has ritual or supernatural force, consider curse_blessing_speech
+    or enchanting_music as secondary; avoid flattening local song genre.
+  suggested_aliases:
+  - victory_derision_song_to_defeated_enemy
+  - postcombat_taunt_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and include archival, comparative,
+  or highly contextual wording; human review should verify whether passage evidence
+  supports motif indexing.
+- Song-related Indigenous materials should preserve local genre and provenance notes
+  and should not be normalized solely from English summary wording.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source context is especially needed for song,
+    invocation, and discipline labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1288
+  input_sha256: 465b765fb0fe3d619022bfa4235cb923654f4816f99953a848dbd5af743e64ee
+

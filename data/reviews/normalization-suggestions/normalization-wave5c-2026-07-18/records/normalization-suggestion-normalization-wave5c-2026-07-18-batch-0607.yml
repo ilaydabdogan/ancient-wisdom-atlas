@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0607
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritualized-triple-question-with-silent-assent
+  motif_id: ritualized_triple_question_with_silent_assent
+  label: Ritualized triple question with silent assent
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a formal speech-response pattern, but its narrative
+    function is unclear from wording alone.
+  cautions: Single occurrence; may be ritual, dialogue convention, legal assent, initiation,
+    or passage artifact depending on source context.
+  suggested_aliases:
+  - triple_question_with_silent_assent
+  - ritual_assent_by_silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_law
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-utterance-during-the-passage
+  motif_id: ritualized_utterance_during_the_passage
+  label: ritualized utterance during the passage
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Egyptian passage utterances often function as required speech for postmortem
+    transit through named stages or gates.
+  cautions: Confirm that passage means afterlife navigation; if it is a general journey
+    or ritual procession, curse_blessing_speech or sacred_law may be better.
+  suggested_aliases:
+  - passage_utterance
+  - ritual_speech_for_passage
+  - utterance_during_afterlife_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-descendants-despite-fathers-friendship
+  motif_id: rival_descendants_despite_fathers_friendship
+  label: Rival descendants despite fathers' friendship
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Intergenerational rivalry between descendants fits feud and conflict
+    patterns already grouped under sacred combat.
+  cautions: If the passage emphasizes broken alliance or inherited obligation more
+    than fighting, covenant or betrayal_violated_trust may be secondary.
+  suggested_aliases:
+  - intergenerational_rivalry_despite_parental_friendship
+  - descendant_rivalry_after_fathers_friendship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-pilgrimage-or-festival-substitution
+  motif_id: rival_pilgrimage_or_festival_substitution
+  label: rival pilgrimage or festival substitution
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to contested ritual authority, sacred geography,
+    or a contextual historical substitution.
+  cautions: Single occurrence and culturally specific; verify whether this is a narrative
+    motif or a historical/religious commentary artifact.
+  suggested_aliases:
+  - substitute_pilgrimage_festival
+  - rival_festival_substitution
+  - contested_pilgrimage_substitution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - axis_mundi
+    - sacred_geography_pilgrimage
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rivalry-decided-by-a-perilous-water-crossing
+  motif_id: rivalry_decided_by_a_perilous_water_crossing
+  label: Rivalry decided by a perilous water crossing
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: high
+  rationale: A dangerous water crossing functions as a boundary ordeal that decides
+    rivalry, matching passage-through-waters patterns.
+  cautions: Do not map to flood_and_renewal unless catastrophic world renewal is present;
+    sacred_combat may be secondary if rivalry is martial.
+  suggested_aliases:
+  - perilous_water_crossing_decides_rivalry
+  - water_crossing_as_rivalry_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.river-crossing-animals-pursued-as-game
+  motif_id: river_crossing_animals_pursued_as_game
+  label: river-crossing animals pursued as game
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal pursuit and river crossing without clear symbolic
+    or narrative function.
+  cautions: May be an episode detail about hunting rather than a motif; review for
+    transformation, animal-helper, trickster, or boundary-crossing significance.
+  suggested_aliases:
+  - animals_cross_river_while_hunted
+  - river_crossing_of_hunted_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - trickster
+    - animal_helpers
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.river-crossing-before-conquest
+  motif_id: river_crossing_before_conquest
+  label: river crossing before conquest
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A river crossing that precedes conquest functions as a liminal military
+    threshold within a combat campaign.
+  cautions: If the crossing itself is miraculous, purifying, or divinely aided, sacred_waters
+    or divine_intervention may be stronger secondary mappings.
+  suggested_aliases:
+  - military_river_crossing_before_conquest
+  - conquest_preceded_by_river_crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.river-crossing-before-marriage-at-the-chief-s-lodge
+  motif_id: river_crossing_before_marriage_at_the_chief_s_lodge
+  label: river crossing before marriage at the chief's lodge
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The episode appears to make river crossing a threshold before marriage
+    or bride-taking, fitting love/marriage quest patterns.
+  cautions: Highly contextual; if the crossing is the main ordeal, sacred_waters or
+    initiation may be better than sacred_love.
+  suggested_aliases:
+  - river_crossing_before_marriage
+  - marriage_threshold_crossing_by_river
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.river-crossing-by-canoe-during-a-journey
+  motif_id: river_crossing_by_canoe_during_a_journey
+  label: river crossing by canoe during a journey
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an ordinary travel detail unless the crossing has
+    ritual, perilous, or transformative force.
+  cautions: Retain as evidence only if source context shows boundary crossing, danger,
+    divine aid, or initiation; otherwise exclude from motif queries.
+  suggested_aliases:
+  - canoe_river_crossing_on_journey
+  - ordinary_river_crossing_by_canoe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.river-crossing-during-a-raid
+  motif_id: river_crossing_during_a_raid
+  label: River crossing during a raid
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A river crossing during a raid belongs best with raiding and warfare
+    motifs, with the river as a tactical or liminal boundary.
+  cautions: If the water crossing is emphasized as ordeal or transformation rather
+    than raid logistics, also consider sacred_waters.
+  suggested_aliases:
+  - raid_river_crossing
+  - river_boundary_crossed_during_raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence river-crossing details; map only
+  when the crossing has clear ordeal, combat, marriage-threshold, ritual, or afterlife
+  function.
+- Avoid treating all water crossings as flood motifs; flood_and_renewal requires catastrophe
+  and renewal of an old order.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; items with unclear source function are flagged
+    for human review or exclusion.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0607
+  input_sha256: '0629bd9e60e65fbb257a925c7b2a32bbf960f8e7e3594c9ab1a4fab439eca1dc'
+

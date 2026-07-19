@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2291
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wolf-as-hunting-helper-and-guide
+  motif_id: wolf_as_hunting_helper_and_guide
+  label: Wolf as hunting helper and guide
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal helper and guide fits the existing divine_intervention group,
+    which already includes animal_helpers and supernatural guidance.
+  cautions: Confirm that the wolf is a sacred or nonordinary guide rather than an
+    ordinary hunting companion or clan-specific detail.
+  suggested_aliases:
+  - wolf_helper
+  - wolf_as_guide
+  - animal_hunting_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wolf-call-processional-marker
+  motif_id: wolf_call_processional_marker
+  label: wolf-call processional marker
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to ritual sound, animal symbolism, or a local processional
+    cue; function is unclear from wording alone.
+  cautions: Single occurrence and culturally specific ritual context; avoid mapping
+    to enchanting_music or sacred_law without passage evidence.
+  suggested_aliases:
+  - wolf_call_as_ritual_marker
+  - animal_call_processional_signal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wolf-like-privation-and-weakness
+  motif_id: wolf_like_privation_and_weakness
+  label: wolf-like privation and weakness
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads like a local simile or descriptive condition rather than a
+    reusable animal motif.
+  cautions: If the passage describes ritual wolf identification or transformation,
+    reconsider under shapeshifter or initiation; otherwise preserve only as evidence
+    detail.
+  suggested_aliases:
+  - wolf_like_weakness
+  - privation_compared_to_wolf
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wolf-mounts-of-giantesses
+  motif_id: wolf_mounts_of_giantesses
+  label: Wolf mounts of giantesses
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The existing shapeshifter group includes magical_animal_mount; wolf mounts
+    of giantesses fit monstrous or magical animal-boundary imagery.
+  cautions: If the wolves are simply equipment or a stock Norse kenning-like detail,
+    it may be too specific for broad queries.
+  suggested_aliases:
+  - wolf_mounts
+  - magical_wolf_mounts
+  - giantess_wolf_mounts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wolf-oriented-young-men-s-society-and-story-cycle
+  motif_id: wolf_oriented_young_men_s_society_and_story_cycle
+  label: Wolf-oriented young men’s society and story cycle
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual society, animal orientation, age-grade initiation,
+    and story-cycle metadata.
+  cautions: Culturally sensitive and possibly an ethnographic or textual classification
+    rather than a motif; requires source review before mapping to initiation, sacred_law,
+    or animal symbolism.
+  suggested_aliases:
+  - wolf_young_mens_society
+  - wolf_society_story_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.woman-associated-with-a-rain-bull
+  motif_id: woman_associated_with_a_rain_bull
+  label: woman associated with a rain bull
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve rainmaking, animal-spirit agency, gendered ritual role,
+    or mythic association; the function is not clear from the label.
+  cautions: Culturally sensitive San rain-animal material should not be normalized
+    from label alone; review source evidence for whether sacred_exchange, divine_intervention,
+    or shapeshifter applies.
+  suggested_aliases:
+  - rain_bull_association
+  - woman_and_rain_bull
+  - rain_animal_association
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.woman-executed-by-trampling-horses
+  motif_id: woman_executed_by_trampling_horses
+  label: Woman executed by trampling horses
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be an episode-specific execution method rather than an
+    animal, transformation, or reusable symbolic motif.
+  cautions: If the passage frames the execution as divine judgment, royal punishment,
+    or ritualized death, a secondary mapping may be considered after review.
+  suggested_aliases:
+  - execution_by_horses
+  - trampling_horse_execution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.women-disguised-as-bearded-warriors
+  motif_id: women_disguised_as_bearded_warriors
+  label: Women disguised as bearded warriors
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Disguise used to cross gender and warrior-role boundaries fits the trickster/boundary-crosser
+    complex better than literal shapeshifting.
+  cautions: If the narrative emphasizes martial role rather than deception or liminality,
+    sacred_combat may be a secondary context, not the main mapping.
+  suggested_aliases:
+  - women_disguised_as_warriors
+  - cross_gender_warrior_disguise
+  - bearded_warrior_disguise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.women-disguised-as-men-at-a-royal-court
+  motif_id: women_disguised_as_men_at_a_royal_court
+  label: Women disguised as men at a royal court
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Cross-gender disguise at court is a boundary-crossing and concealment
+    pattern, aligning with trickster/disguise rather than bodily transformation.
+  cautions: May also involve royal_legitimacy or recognition_tokens_hidden_identity
+    if court identity proof or succession is central.
+  suggested_aliases:
+  - women_disguised_as_men
+  - cross_gender_court_disguise
+  - gender_disguise_at_court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wooden-animal-vehicle-used-in-a-retrieval-ruse
+  motif_id: wooden_animal_vehicle_used_in_a_retrieval_ruse
+  label: Wooden animal vehicle used in a retrieval ruse
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A constructed animal vehicle used as a ruse fits deception and stratagem
+    within the trickster group.
+  cautions: If the craft or vehicle itself is emphasized as wondrous construction,
+    sacred_craft may be a related secondary group; current label centers on ruse function.
+  suggested_aliases:
+  - wooden_animal_ruse
+  - animal_vehicle_ruse
+  - retrieval_by_deceptive_wooden_vehicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal or disguise details; preserve
+  source-specific animal identity where useful, but avoid creating wolf-specific groups
+  without recurrence.
+- Disguise motifs are provisionally placed under trickster/boundary crossing rather
+  than shapeshifter because the labels imply social disguise, not bodily transformation.
+- Culturally specific ritual-society and rain-animal labels need human source review
+  before broad normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally sensitive
+    and ritual-context labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2291
+  input_sha256: 925338c58b4f955531ce60896950a297942a97ca36cf9aa31e310d9cb8a5ca43
+

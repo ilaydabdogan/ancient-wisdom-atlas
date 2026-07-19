@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2502
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rejected-overseas-contact-tale
+  motif_id: rejected_overseas_contact_tale
+  label: Rejected overseas-contact tale
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label appears to describe rejection of a contact hypothesis or tale-type
+    interpretation rather than a narrative motif.
+  cautions: Keep any source evidence about voyage or foreign encounter separate; do
+    not use this as transmission evidence.
+  suggested_aliases:
+  - rejected_overseas_contact_tradition
+  - rejected_contact_hypothesis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-prepared-salmon-thrown-into-fire
+  motif_id: rejected_prepared_salmon_thrown_into_fire
+  label: Rejected prepared salmon thrown into fire
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve food offering, animal/fish ritual, rejection of
+    a gift, or fire disposal, but its function is unclear.
+  cautions: Single occurrence and culturally specific; avoid mapping to sacred_fire
+    or sacrifice without evidence that the fire act is ritually or morally central.
+  suggested_aliases:
+  - prepared_salmon_rejected_and_cast_into_fire
+  - rejected_fish_offering_burned
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-incompatible-worldly-learning
+  motif_id: rejection_of_incompatible_worldly_learning
+  label: Rejection of incompatible worldly learning
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejecting worldly learning in favor of a religious path concerns the
+    valuation and discipline of sacred knowledge.
+  cautions: Could also fit mystical_quest or renunciation if the passage emphasizes
+    spiritual discipline rather than knowledge classification.
+  suggested_aliases:
+  - renunciation_of_worldly_learning
+  - worldly_learning_rejected_for_sacred_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relay-race-directed-by-crier-starter-and-markers
+  motif_id: relay_race_directed_by_crier_starter_and_markers
+  label: Relay race directed by crier, starter, and markers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an episode-specific ceremonial or ethnographic detail
+    rather than a reusable mythic motif.
+  cautions: If the race has cosmological, initiation, sacred-time, or conflict-resolution
+    function in the source, review for a non-meta placement.
+  suggested_aliases:
+  - ritual_race_with_crier_starter_and_markers
+  - relay_race_ceremonial_direction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.release-of-all-game-from-a-guarded-enclosure-into-the-world
+  motif_id: release_of_all_game_from_a_guarded_enclosure_into_the_world
+  label: Release of all game from a guarded enclosure into the world
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Release of Animals into the World
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes an origin of animals/game through release from confinement,
+    not well captured by current creation, trickster, or sacred-vessel groups.
+  cautions: Could map to cosmic_origin if the passage emphasizes creation/etiology;
+    could map to trickster if a boundary-crosser steals or releases the animals.
+  suggested_aliases:
+  - game_animals_released_from_guarded_enclosure
+  - origin_of_game_by_release_from_enclosure
+  - animals_released_into_the_world
+  suggested_new_group:
+    id: animal_release_origin
+    label: Animal Release and Origin of Game
+    description: Animals, game, or food species are confined, guarded, hidden, or
+      withheld and then released into the world, explaining their distribution, availability,
+      or relation to humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - sacred_vessel
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover broad cosmic creation,
+      containers, and trickster theft, but not the recurring etiological function
+      of animals emerging into the world from guarded confinement.
+- suggestion_id: normalization.suggestion.release-of-game-from-an-enclosure-to-live-over-the-earth
+  motif_id: release_of_game_from_an_enclosure_to_live_over_the_earth
+  label: Release of game from an enclosure to live over the earth
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Release of Animals into the World
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is the same animal/game origin-by-release pattern as the guarded-enclosure
+    label.
+  cautions: Review together with the similar Southwest label; if only one episode,
+    these may become aliases or evidence notes rather than a durable group.
+  suggested_aliases:
+  - game_released_from_enclosure
+  - animals_released_to_live_on_earth
+  - origin_of_game_animals_by_release
+  suggested_new_group:
+    id: animal_release_origin
+    label: Animal Release and Origin of Game
+    description: Animals, game, or food species are confined, guarded, hidden, or
+      withheld and then released into the world, explaining their distribution, availability,
+      or relation to humans.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - sacred_vessel
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups do not specifically preserve
+      animal/game etiologies based on release from confinement.
+- suggestion_id: normalization.suggestion.relic-chamber-as-precious-sealed-chest
+  motif_id: relic_chamber_as_precious_sealed_chest
+  label: Relic-chamber as precious sealed chest
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A sealed chest or chamber containing relics fits the sacred container
+    pattern.
+  cautions: Secondary mapping to sacred_treasures may be useful if the relic itself,
+    rather than the sealed chamber, is the focus.
+  suggested_aliases:
+  - sealed_relic_chamber
+  - precious_chest_containing_relics
+  - relic_chest_as_sacred_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-decline-through-destruction-of-fire
+  motif_id: religious_decline_through_destruction_of_fire
+  label: religious decline through destruction of fire
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Destruction of sacred fire marks deterioration of religious or cosmic
+    order, fitting decline across sacred time.
+  cautions: If the passage focuses on fire as divine presence or ritual medium rather
+    than decline, sacred_fire should be primary.
+  suggested_aliases:
+  - decline_marked_by_destruction_of_sacred_fire
+  - sacred_fire_destroyed_as_religious_decline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relocation-after-water-is-gone
+  motif_id: relocation_after_water_is_gone
+  label: relocation after water is gone
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could be drought migration, post-flood settlement, loss of
+    life-giving water, or a local episode detail.
+  cautions: Do not map to flood_and_renewal unless catastrophe and renewal of order
+    are explicit; do not map to sacred_waters without evidence water has symbolic
+    or ritual function.
+  suggested_aliases:
+  - migration_after_water_disappears
+  - relocation_following_loss_of_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remaining-power-located-in-lightning-eyes
+  motif_id: remaining_power_located_in_lightning_eyes
+  label: Remaining power located in lightning eyes
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests residual supernatural power localized in eyes with
+    lightning imagery, but the narrative function is unclear.
+  cautions: Could involve sacred_fire/light, divine_intervention, power object/body
+    part, or an over-specific episode detail; source evidence is needed.
+  suggested_aliases:
+  - lightning_eyes_contain_remaining_power
+  - residual_power_in_lightning_eyes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch appear misbucketed under nature/cosmos despite primarily
+  textual, ritual, or knowledge functions.
+- The two game-release labels should be reviewed together for possible alias consolidation
+  before adding a new group.
+- No placement here implies contact, borrowing, or historical transmission.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific single-occurrence
+    labels require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2502
+  input_sha256: 32cb1b32fa9fbe252af63b2eb95107e77a164d05a874b79aac780e59eb4144a9
+

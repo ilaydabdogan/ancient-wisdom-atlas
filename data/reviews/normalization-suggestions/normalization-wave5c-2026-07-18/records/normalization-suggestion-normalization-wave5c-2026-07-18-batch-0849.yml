@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0849
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.futile-resistance-to-divine-decree
+  motif_id: futile_resistance_to_divine_decree
+  label: Futile resistance to divine decree
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on divine decree overriding human resistance, a moral
+    or cosmic reckoning function already covered by divine_judgment.
+  cautions: Could also fit death_by_fate or sacred_law if the passage emphasizes destiny
+    or obedience rather than judgment.
+  suggested_aliases:
+  - resistance_to_divine_decree_is_futile
+  - divine_decree_cannot_be_resisted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.future-indicated-by-marks-omens-and-sacred-numbers
+  motif_id: future_indicated_by_marks_omens_and_sacred_numbers
+  label: Future indicated by marks, omens, and sacred numbers
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marks, omens, and sacred numbers indicate hidden future knowledge, fitting
+    divination and prophetic sign systems.
+  cautions: If the signs occur in dreams or visions, dream_and_vision may be a better
+    secondary mapping; if tied to birth destiny, consider miraculous_child.
+  suggested_aliases:
+  - future_revealed_by_omens_and_sacred_numbers
+  - marks_and_omens_foretell_the_future
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.game-animal-fails-to-perceive-hunter-after-prayer
+  motif_id: game_animal_fails_to_perceive_hunter_after_prayer
+  label: Game animal fails to perceive hunter after prayer
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Prayer causing an animal not to perceive a hunter may be divine aid in
+    human affairs, but the ritual and hunting context is culturally specific.
+  cautions: Could involve hunting prayer, animal-master relations, sacred exchange,
+    or passage-specific ethnographic detail; source review is needed before broad
+    indexing.
+  suggested_aliases:
+  - prayer_conceals_hunter_from_game_animal
+  - hunting_success_after_prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.game-played-during-intermission-of-sacred-dances
+  motif_id: game_played_during_intermission_of_sacred_dances
+  label: game played during intermission of sacred dances
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a contextual schedule or performance detail rather
+    than a symbolic or narrative motif.
+  cautions: If the game has ritual efficacy or mythic meaning in the source, remap
+    after review to sacred_time, sacred_law, or sacred_exchange.
+  suggested_aliases:
+  - game_during_sacred_dance_intermission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.garden-of-delight-as-indexed-sacred-place
+  motif_id: garden_of_delight_as_indexed_sacred_place
+  label: Garden of Delight as indexed sacred place
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A Garden of Delight likely denotes a paradisal sacred realm, already
+    covered by otherworld and its paradisal garden imagery.
+  cautions: The phrase 'as indexed sacred place' may be an indexing artifact; if merely
+    a place-name tag, exclude from pattern queries.
+  suggested_aliases:
+  - garden_of_delight
+  - paradisal_garden
+  - garden_of_delight_as_sacred_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gate-opening-by-divine-animal-attendants
+  motif_id: gate_opening_by_divine_animal_attendants
+  label: Gate opening by divine animal attendants
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine attendants opening gates fits staged passage through a sacred
+    or postmortem route with gate-like thresholds.
+  cautions: If the passage is temple ritual rather than afterlife navigation, threshold_guardian
+    or divine_intervention may be better.
+  suggested_aliases:
+  - divine_animal_attendants_open_gates
+  - gate_opening_by_sacred_attendants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gathering-at-a-marked-sacred-geography
+  motif_id: gathering_at_a_marked_sacred_geography
+  label: gathering at a marked sacred geography
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: narrower_than
+  confidence: low
+  rationale: A marked sacred geography used for gathering may function as a sacred
+    center or organizing place.
+  cautions: The label is vague; if it only names a meeting location, exclude as contextual
+    detail. Review whether the place has axis, center, pilgrimage, or revelation function.
+  suggested_aliases:
+  - gathering_at_sacred_geography
+  - assembly_at_marked_sacred_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gathering-of-distant-monastic-communities-at-a-sacred-site
+  motif_id: gathering_of_distant_monastic_communities_at_a_sacred_site
+  label: Gathering of distant monastic communities at a sacred site
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: The sacred site may function as a pilgrimage or sacred-center node, but
+    the label may only describe institutional assembly.
+  cautions: Could be sacred geography, pilgrimage, monastic history, or a passage-specific
+    event; verify symbolic or ritual function before indexing.
+  suggested_aliases:
+  - monastic_assembly_at_sacred_site
+  - distant_communities_gather_at_sacred_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-differentiated-ritual-or-public-address
+  motif_id: gender_differentiated_ritual_or_public_address
+  label: Gender-differentiated ritual or public address
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Gender-specific ritual address may be a sacred social-order or ritual-procedure
+    rule.
+  cautions: Culturally sensitive and possibly contextual; avoid flattening gendered
+    ritual roles without source evidence. Could be public speech, ritual protocol,
+    or social law.
+  suggested_aliases:
+  - gender_specific_ritual_address
+  - gender_differentiated_public_ritual_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-differentiated-ritual-procedure
+  motif_id: gender_differentiated_ritual_procedure
+  label: Gender-differentiated ritual procedure
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A ritual procedure differentiated by gender likely belongs with sacred
+    law, purity, and social order rules.
+  cautions: Needs human review for cultural specificity and doctrinal context; may
+    be too broad or procedural for motif queries unless it recurs with ritual meaning.
+  suggested_aliases:
+  - gender_specific_ritual_procedure
+  - gender_differentiated_ritual_protocol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence ritual or site-context labels;
+  human review should distinguish recurring motif function from ethnographic or indexing
+  detail.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific ritual labels
+    should receive source-based human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0849
+  input_sha256: 2ea4c0072d6ca148fe2869cf23e28e3184111ca6abc1e1ee099c4a2126943b05
+

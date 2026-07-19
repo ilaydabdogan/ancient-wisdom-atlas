@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0760
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-contest-producing-a-sacred-plant
+  motif_id: divine_contest_producing_a_sacred_plant
+  label: Divine contest producing a sacred plant
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines divine rivalry with an etiological sacred-plant origin;
+    existing groups split contest, creation, sacred substance, and divine intervention
+    functions.
+  cautions: Single occurrence and likely context-dependent; verify whether the plant's
+    sacredness, the contest, or an origin etiology is the primary motif.
+  suggested_aliases:
+  - sacred_plant_created_by_divine_contest
+  - divine_rivalry_etiology_of_sacred_plant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_substance
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-control-of-fertility-and-livelihood
+  motif_id: divine_control_of_fertility_and_livelihood
+  label: divine control of fertility and livelihood
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity directly governing fertility and livelihood is divine action
+    shaping human welfare and provision.
+  cautions: If the passage centers on goddess maternity or agricultural seasonal recurrence,
+    mother_goddess or sacred_time may be useful secondary review links.
+  suggested_aliases:
+  - divine_governance_of_fertility_and_livelihood
+  - divine_control_of_fertility_and_provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-control-of-harvest-abundance-and-famine
+  motif_id: divine_control_of_harvest_abundance_and_famine
+  label: Divine control of harvest abundance and famine
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Harvest abundance or famine controlled by a deity fits divine provision
+    or withdrawal in human affairs.
+  cautions: Could also index near sacred_time if tied to agricultural cycles, or divine_judgment
+    if famine is punitive.
+  suggested_aliases:
+  - divine_control_of_harvest_and_famine
+  - divine_governance_of_agricultural_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-control-of-world-life-register-fortune-and-pardon
+  motif_id: divine_control_of_world_life_register_fortune_and_pardon
+  label: Divine control of world, life-register, fortune, and pardon
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes comprehensive divine sovereignty over world order,
+    destiny records, fortune, and mercy.
+  cautions: Composite wording may reflect theological exposition rather than a narrative
+    motif; life-register imagery could also relate to sacred_knowledge or fate_figures_cosmic_weaving.
+  suggested_aliases:
+  - divine_sovereignty_over_life_register_fortune_and_pardon
+  - cosmic_sovereignty_over_fortune_and_pardon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-control-over-states-of-being
+  motif_id: divine_control_over_states_of_being
+  label: Divine control over states of being
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is very broad and could mean creation, transformation, life/death
+    control, ritual status, or theological sovereignty.
+  cautions: Needs source evidence and culturally careful review before mapping; avoid
+    collapsing distinct Zuni categories of being into a generic sovereignty motif.
+  suggested_aliases:
+  - divine_governance_of_states_of_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - death_and_transformation
+    - supreme_ruler
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-council-and-cosmic-ordering
+  motif_id: divine_council_and_cosmic_ordering
+  label: Divine council and cosmic ordering
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine council arranging cosmic order fits governance and sovereignty
+    over the cosmos.
+  cautions: If the council produces creation itself, cosmic_origin may be a secondary
+    mapping; if only a scene-setting assembly, it may be too contextual.
+  suggested_aliases:
+  - divine_assembly_orders_the_cosmos
+  - divine_council_orders_the_world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-council-in-a-heavenly-palace
+  motif_id: divine_council_in_a_heavenly_palace
+  label: Divine council in a heavenly palace
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: narrower_than
+  confidence: low
+  rationale: A heavenly council scene belongs broadly with divine governance and cosmic
+    rulership.
+  cautions: May be only a setting or literary scene rather than a reusable motif;
+    confirm that deliberation or rule is functionally important.
+  suggested_aliases:
+  - heavenly_palace_divine_council
+  - divine_assembly_in_heavenly_palace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-council-recalling-prior-tales
+  motif_id: divine_council_recalling_prior_tales
+  label: Divine council recalling prior tales
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The focus on recalling prior tales reads as narrative framing or intertextual
+    commentary rather than a symbolic motif.
+  cautions: If the source shows divine memory as sacred knowledge or judgment, reconsider;
+    otherwise preserve only as provenance or textual evidence.
+  suggested_aliases:
+  - divine_council_recapitulates_prior_tales
+  - divine_assembly_recalls_earlier_stories
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-counsel-to-avoid-single-combat
+  motif_id: divine_counsel_to_avoid_single_combat
+  label: divine counsel to avoid single combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity advising a human about combat is direct divine guidance in human
+    affairs.
+  cautions: If the scene primarily structures ritualized duel avoidance, sacred_combat
+    may be a secondary mapping; single occurrence may be episode-specific.
+  suggested_aliases:
+  - divine_warning_against_single_combat
+  - divine_advice_to_avoid_duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-counter-intervention-re-arms-both-champions
+  motif_id: divine_counter_intervention_re_arms_both_champions
+  label: divine counter-intervention re-arms both champions
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine action altering the arming and balance of champion combat fits
+    sacred combat shaped by divine warrior intervention.
+  cautions: Highly specific duel episode; preserve granular wording as evidence and
+    avoid treating it as a broad canonical motif.
+  suggested_aliases:
+  - divine_intervention_rearms_champions
+  - divine_rearming_of_opposing_champions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and composite; suggested placements should
+  be treated as provisional review aids, not evidence of transmission.
+- A recurring 'divine council' cluster may eventually justify a narrower group under
+  supreme_ruler, but current examples can be handled by existing governance/sovereignty
+  groups unless more evidence accumulates.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch 0760; human review
+    recommended for broad theological and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0760
+  input_sha256: a0bb7fcd563ffe4fce5e083a18a205187791f20296995234c56959cf6761b67e
+

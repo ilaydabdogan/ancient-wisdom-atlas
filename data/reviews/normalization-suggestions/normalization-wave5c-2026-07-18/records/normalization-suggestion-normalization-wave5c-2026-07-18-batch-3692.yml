@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3692
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.moral-equivocation-to-avoid-error-or-harm
+  motif_id: moral_equivocation_to_avoid_error_or_harm
+  label: moral equivocation to avoid error or harm
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns ethical speech or conduct, but without passage evidence
+    it is unclear whether this is sacred law, wisdom teaching, or a contextual moral
+    argument.
+  cautions: Single occurrence; may be an abstract doctrinal/exegetical note rather
+    than a recurring motif.
+  suggested_aliases:
+  - skillful moral equivocation
+  - ethical ambiguity to prevent harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moral-exemplars-inverted-as-cautionary-examples
+  motif_id: moral_exemplars_inverted_as_cautionary_examples
+  label: Moral exemplars inverted as cautionary examples
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Using exemplars in reverse as warnings functions as wisdom instruction
+    and moral teaching.
+  cautions: Could be a textual/rhetorical device rather than a narrative motif; review
+    whether actual exemplars are narrated or only discussed.
+  suggested_aliases:
+  - inverted moral exemplar
+  - cautionary inversion of exemplars
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moral-exemplum-or-simple-precept
+  motif_id: moral_exemplum_or_simple_precept
+  label: moral exemplum or simple precept
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is very broad and may describe genre or teaching form rather
+    than a distinct motif.
+  cautions: If the passage contains a concrete ethical command, sacred_law or sacred_knowledge
+    may fit; otherwise exclude as a generated summary artifact.
+  suggested_aliases:
+  - moral exemplum
+  - simple moral precept
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moral-objection-to-unequal-attack
+  motif_id: moral_objection_to_unequal_attack
+  label: moral objection to unequal attack
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif regulates acceptable conduct in combat and fits ritualized
+    or honor-bound warfare.
+  cautions: Could also belong under sacred_law if framed as a general ethical rule
+    rather than a battle episode.
+  suggested_aliases:
+  - objection to unequal combat
+  - honor objection to unfair attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moral-or-causal-obstruction-limits-protective-power
+  motif_id: moral_or_causal_obstruction_limits_protective_power
+  label: moral or causal obstruction limits protective power
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to karma, moral causality, ritual efficacy, or limits
+    on divine/protective intervention.
+  cautions: Needs source context; avoid forcing into divine_intervention because the
+    obstruction may be doctrinal rather than narrative.
+  suggested_aliases:
+  - protective power limited by moral causality
+  - karmic obstruction to protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moral-origin-of-monogamy-custom
+  motif_id: moral_origin_of_monogamy_custom
+  label: moral origin of monogamy custom
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: An origin account for a marriage custom concerns social order and moral
+    regulation.
+  cautions: Could also be cosmic_origin if primarily etiological; label is culturally
+    specific and should be reviewed for source evidence.
+  suggested_aliases:
+  - etiology of monogamy custom
+  - origin of marriage custom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moral-precepts-guarded-more-than-life
+  motif_id: moral_precepts_guarded_more_than_life
+  label: Moral precepts guarded more than life
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Protecting precepts above life centers on sacred ethical law and disciplined
+    obligation.
+  cautions: If the passage emphasizes self-surrender or martyrdom, sacrifice may be
+    a secondary mapping.
+  suggested_aliases:
+  - precepts valued above life
+  - moral law guarded more than life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moral-preparation-as-the-basis-of-right-rule
+  motif_id: moral_preparation_as_the_basis_of_right_rule
+  label: Moral preparation as the basis of right rule
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: high
+  rationale: Right rule grounded in moral cultivation supports legitimate rulership
+    and sacred/social political order.
+  cautions: Could also index under sacred_law or wisdom if the passage focuses on
+    teaching rather than rulership.
+  suggested_aliases:
+  - moral cultivation as basis of rule
+  - virtue as ground of right rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moral-progression-through-staged-characters
+  motif_id: moral_progression_through_staged_characters
+  label: moral progression through staged characters
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: low
+  rationale: The wording sounds like a literary-structural or interpretive observation
+    rather than a stable mythic motif.
+  cautions: If characters enact a concrete initiation sequence, initiation may fit;
+    otherwise likely exclude from pattern queries as commentary artifact.
+  suggested_aliases:
+  - staged moral progression
+  - characters as moral stages
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moral-propriety-as-natural-human-endowment
+  motif_id: moral_propriety_as_natural_human_endowment
+  label: moral propriety as natural human endowment
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label frames moral propriety as an inherent basis of social and ethical
+    order.
+  cautions: May be philosophical anthropology rather than narrative motif; sacred_knowledge
+    may be secondary if presented as a teaching about human nature.
+  suggested_aliases:
+  - innate moral propriety
+  - natural endowment of ritual propriety
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are abstract ethical or doctrinal labels with single occurrences;
+  source passages should be checked before treating them as durable motif evidence.
+- Where labels describe teaching form or literary structure rather than narrative
+  content, consider exclusion from pattern queries after human review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; many labels require passage-level evidence to
+    distinguish motif, doctrine, and commentary artifact.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3692
+  input_sha256: 8fb70a5af46e0193ca3eb2b11cec583292878033e8fd12857cec8daeb74b05a0
+

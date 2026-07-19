@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1747
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-figure-with-children-in-indexed-title
+  motif_id: animal_figure_with_children_in_indexed_title
+  label: animal figure with children in indexed title
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase explicitly describes an indexed title pattern rather than
+    a narrative or symbolic motif.
+  cautions: If the source passage contains an animal parent or fosterer motif, index
+    that separately from the title artifact.
+  suggested_aliases:
+  - animal-centered indexed title with children
+  - animal figure in title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-food-trait-transfer-to-child
+  motif_id: animal_food_trait_transfer_to_child
+  label: animal-food trait transfer to child
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ingestion or food-mediated transmission of animal
+    qualities to a child, but the function is unclear from wording alone.
+  cautions: Could fit sacred_substance, shapeshifter, miraculous_child, or a local
+    kinship/food taboo pattern; source evidence is needed before mapping.
+  suggested_aliases:
+  - animal food transfers traits to child
+  - child receives animal traits through food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-form-grandchildren-visit-human-grandparents
+  motif_id: animal_form_grandchildren_visit_human_grandparents
+  label: Animal-form grandchildren visit human grandparents
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Human kin appearing or living in animal form centers on species-form
+    transformation or boundary crossing.
+  cautions: May also involve ancestor/kinship relations or animal-spirit family ties;
+    preserve grandparent visitation as evidence detail.
+  suggested_aliases:
+  - animal-form kin visit human relatives
+  - animal grandchildren visit human grandparents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-formerly-a-person-of-the-early-race
+  motif_id: animal_formerly_a_person_of_the_early_race
+  label: Animal formerly a person of the early race
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A person of an earlier race becoming an animal is a transformation from
+    human to animal form.
+  cautions: If the passage explains animal origins or primordial peoples, cosmic_origin
+    may be a secondary context; avoid flattening culturally specific early-race concepts.
+  suggested_aliases:
+  - early people transformed into animals
+  - animal once human in primordial time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-fosterers-protect-a-human-child
+  motif_id: animal_fosterers_protect_a_human_child
+  label: animal fosterers protect a human child
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: high
+  rationale: A vulnerable human child protected or raised by animal fosterers fits
+    the protected extraordinary child pattern.
+  cautions: If the animals are primarily supernatural helpers rather than foster parents,
+    divine_intervention may be a secondary mapping.
+  suggested_aliases:
+  - animal foster parents protect child
+  - human child protected by animal fosterers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-grandmother-feeds-and-protects-abandoned-child
+  motif_id: animal_grandmother_feeds_and_protects_abandoned_child
+  label: Animal grandmother feeds and protects abandoned child
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: An abandoned child fed and protected by an animal caretaker aligns with
+    the threatened or protected child motif.
+  cautions: The kin term grandmother may signal animal-ancestor or spirit-kin relations;
+    review cultural context before treating it as generic fosterage.
+  suggested_aliases:
+  - animal grandmother protects abandoned child
+  - animal caretaker feeds abandoned child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-helper-recovers-sign-of-a-child-s-abduction
+  motif_id: animal_helper_recovers_sign_of_a_child_s_abduction
+  label: Animal helper recovers sign of a child's abduction
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal helper retrieving evidence of abduction functions as supernatural
+    or nonhuman aid in human affairs.
+  cautions: Could also relate to recognition_tokens_hidden_identity if the recovered
+    sign proves identity or fate; child-abduction details are over-specific.
+  suggested_aliases:
+  - animal helper recovers abduction token
+  - animal helper finds sign of abducted child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-helper-revealed-as-chief-s-son
+  motif_id: animal_helper_revealed_as_chief_s_son
+  label: Animal helper revealed as chief’s son
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal helper revealed as a human or elite son implies concealed identity
+    through animal form.
+  cautions: May also involve recognition_tokens_hidden_identity or royal_legitimacy
+    if the revelation proves status; source context should decide secondary indexing.
+  suggested_aliases:
+  - animal helper revealed as human son
+  - animal helper has hidden noble identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-helper-saves-endangered-person
+  motif_id: animal_helper_saves_endangered_person
+  label: Animal helper saves endangered person
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rescue by an animal helper fits the existing divine_intervention group,
+    which already includes animal helpers.
+  cautions: If the animal is a trickster, ancestor, spouse, or ordinary creature,
+    a more specific placement may be needed.
+  suggested_aliases:
+  - animal helper rescues endangered person
+  - animal rescuer saves human
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-helpers-aid-a-childless-woman
+  motif_id: animal_helpers_aid_a_childless_woman
+  label: Animal helpers aid a childless woman
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Aid to a childless woman likely serves an extraordinary conception, fertility,
+    or child-acquisition pattern.
+  cautions: If the aid is general provision or protection rather than birth-related,
+    divine_intervention may be better; review evidence for pregnancy or child destiny.
+  suggested_aliases:
+  - animal helpers assist childless woman
+  - animal aid enables child for barren woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch involve animal helpers, animal fosterage, or animal-form
+  kin. Existing groups can provisionally hold most cases, but repeated recurrence
+  may justify a future animal-kinship or animal-helper review subgroup.
+- Single-occurrence, culturally specific Indigenous and African labels should be checked
+  against passage evidence before final normalization; avoid assuming generic shapeshifting
+  or helper functions where local spirit-kin categories are central.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    animal-kin and child-related motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1747
+  input_sha256: 5b58ad66c2c5befeb956a69513bfcd99b715ad4d37ee18ade9010a0c69f50054
+

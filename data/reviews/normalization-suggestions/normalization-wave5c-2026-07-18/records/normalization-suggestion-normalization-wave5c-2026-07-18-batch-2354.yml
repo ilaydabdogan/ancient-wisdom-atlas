@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2354
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.discovery-of-settlement-by-smoke-beyond-a-mountain
+  motif_id: discovery_of_settlement_by_smoke_beyond_a_mountain
+  label: Discovery of settlement by smoke beyond a mountain
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Reads as a single episode detail or travel clue rather than a reusable
+    symbolic motif.
+  cautions: If the mountain functions as sacred boundary or the smoke as revelation,
+    review under axis_mundi or hero_journey instead.
+  suggested_aliases:
+  - settlement_discovered_by_smoke
+  - smoke_as_sign_of_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disease-caused-by-nonhuman-or-invisible-agencies
+  motif_id: disease_caused_by_nonhuman_or_invisible_agencies
+  label: Disease caused by nonhuman or invisible agencies
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Matches existing spirit-contagion and illness/misfortune patterns where
+    unseen agencies require ritual handling.
+  cautions: Could belong under divine_intervention if the agency is a deity, or sacrifice
+    if the cure is expulsion/transfer.
+  suggested_aliases:
+  - illness_caused_by_invisible_agency
+  - disease_from_nonhuman_agency
+  - spirit_caused_disease
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disease-caused-by-revengeful-nonhuman-beings
+  motif_id: disease_caused_by_revengeful_nonhuman_beings
+  label: disease caused by revengeful nonhuman beings
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Revengeful nonhuman disease-causing agency suggests punitive reckoning
+    for an offense or imbalance.
+  cautions: If the emphasis is ritual contagion rather than moral retaliation, sacred_law
+    may be the better group; review culturally specific agency terms.
+  suggested_aliases:
+  - revengeful_nonhuman_beings_cause_disease
+  - disease_as_nonhuman_retribution
+  - illness_from_vengeful_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disease-causing-rainbow-encounter
+  motif_id: disease_causing_rainbow_encounter
+  label: disease-causing rainbow encounter
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The rainbow may be a nonhuman being, omen, taboo natural phenomenon,
+    or passage-specific etiological detail.
+  cautions: Do not map only by natural-image similarity; source evidence is needed
+    for whether this is spirit contagion, divine judgment, taboo encounter, or local
+    cosmology.
+  suggested_aliases:
+  - rainbow_encounter_causes_disease
+  - disease_from_rainbow_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disease-destroying-clouds
+  motif_id: disease_destroying_clouds
+  label: disease-destroying clouds
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Clouds functioning as disease-removing agents fit supernatural intervention
+    through natural phenomena.
+  cautions: If tied to purification law or apotropaic ritual, sacred_law may be a
+    secondary mapping; avoid treating all cloud imagery as theophany.
+  suggested_aliases:
+  - clouds_destroy_disease
+  - healing_clouds_remove_disease
+  - disease_removed_by_clouds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disease-expelled-by-blowing-and-command
+  motif_id: disease_expelled_by_blowing_and_command
+  label: Disease expelled by blowing and command
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Existing sacrifice group already contains exorcism, spirit-affliction,
+    and ritual expulsion variants.
+  cautions: The spoken command may also support curse_blessing_speech if the performative
+    utterance is central.
+  suggested_aliases:
+  - disease_expulsion_by_breath_and_command
+  - illness_exorcised_by_blowing
+  - ritual_blowing_expels_disease
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disease-extraction-and-removal
+  motif_id: disease_extraction_and_removal
+  label: disease extraction and removal
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Disease removal fits the established ritual expulsion and spirit-affliction
+    cluster under sacrifice.
+  cautions: If framed as healing by a tutelary spirit rather than expulsion, divine_intervention
+    or soul_loss_restoration may be relevant.
+  suggested_aliases:
+  - disease_extracted_and_removed
+  - illness_extraction_rite
+  - ritual_removal_of_disease
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disease-extraction-through-a-bone-conduit
+  motif_id: disease_extraction_through_a_bone_conduit
+  label: Disease extraction through a bone conduit
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A conduit used to extract disease is a specific technique within the
+    ritual disease-removal/expulsion complex.
+  cautions: Bone conduit detail may be culturally specific evidence; preserve granularity
+    and avoid promoting as canonical without recurrence.
+  suggested_aliases:
+  - bone_conduit_disease_extraction
+  - illness_removed_through_bone_tube
+  - ritual_disease_extraction_by_bone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disease-house-abandoned-or-burned
+  motif_id: disease_house_abandoned_or_burned
+  label: Disease house abandoned or burned
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Abandoning or burning a contaminated house fits apotropaic removal of
+    death/disease from domestic space.
+  cautions: Could also fit sacrifice if the act is a formal expulsion rite; do not
+    map to world-destroying fire unless cosmic renewal is present.
+  suggested_aliases:
+  - diseased_house_abandoned
+  - burning_contaminated_house
+  - house_burned_to_remove_disease
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disease-magnitude-linked-to-patient-wealth
+  motif_id: disease_magnitude_linked_to_patient_wealth
+  label: disease magnitude linked to patient wealth
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and may describe ritual payment, social status,
+    moral judgment, or an ethnographic inference.
+  cautions: Needs passage evidence before mapping to sacred_exchange, divine_judgment,
+    or sacred_law; may be too contextual for pattern queries.
+  suggested_aliases:
+  - illness_severity_linked_to_wealth
+  - patient_wealth_determines_disease_magnitude
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern disease causation or removal by spirits, natural phenomena,
+  or ritual actions. Existing groups sacred_law and sacrifice already contain spirit-contagion,
+  apotropaic, and ritual-expulsion children; use those before creating a new disease-specific
+  group.
+- For culturally specific healing labels, preserve generated detail as evidence and
+  avoid collapsing local agency into generic divine intervention without source support.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; disease/rainbow and wealth-linked disease require
+    human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2354
+  input_sha256: 607fedbfd00f575e7794fb8c4a0244517791be99573195f02e56312c6a670142
+

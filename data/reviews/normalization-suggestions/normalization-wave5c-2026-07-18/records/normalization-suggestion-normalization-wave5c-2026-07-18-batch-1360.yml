@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1360
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.legal-guarantee-before-named-witnesses
+  motif_id: legal_guarantee_before_named_witnesses
+  label: legal guarantee before named witnesses
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formal guarantee before witnesses functions as a binding legal-social
+    obligation, close to covenant and sacred bond patterns.
+  cautions: May be ordinary legal-administrative detail rather than a mythic motif
+    if no sacred, oath, or narrative consequence is present.
+  suggested_aliases:
+  - witnessed_legal_guarantee
+  - legal_oath_before_witnesses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.legend-attached-to-a-named-waterfall
+  motif_id: legend_attached_to_a_named_waterfall
+  label: legend attached to a named waterfall
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a legend's attachment to a named feature rather than
+    the symbolic or narrative content of the legend.
+  cautions: If the passage explains the waterfall's origin or sacred power, remap
+    to cosmic_origin, sacred_waters, or other relevant content motif.
+  suggested_aliases:
+  - landscape_legend_attached_to_named_waterfall
+  - named_waterfall_legend
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.legend-trace-in-stone-place-name
+  motif_id: legend_trace_in_stone_place_name
+  label: legend trace in stone place-name
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A legendary trace preserved in a stone place-name fits the existing etiological
+    place-naming cluster under cosmic_origin.
+  cautions: If it is only an antiquarian note about a name with no origin explanation,
+    exclude as meta/contextual artifact.
+  suggested_aliases:
+  - stone_place_name_etiology
+  - legendary_trace_in_place_name
+  - place_name_etiology_from_stone_trace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.legendary-exploit-attached-to-a-named-landscape-feature
+  motif_id: legendary_exploit_attached_to_a_named_landscape_feature
+  label: legendary exploit attached to a named landscape feature
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: An exploit explaining or marking a named landscape feature matches existing
+    place-name and landscape-etiology children under cosmic_origin.
+  cautions: If the label merely records narrative localization without explaining
+    the feature or name, treat as meta/context rather than motif.
+  suggested_aliases:
+  - heroic_exploit_place_name_etiology
+  - landscape_feature_named_from_legendary_exploit
+  - toponymic_naming_from_legendary_exploit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lesser-water-power-acknowledges-the-guru-s-superiority
+  motif_id: lesser_water_power_acknowledges_the_guru_s_superiority
+  label: lesser water power acknowledges the Guru’s superiority
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A supernatural water power recognizing a holy teacher's authority is
+    best parked under divine intervention or sacred agency in human affairs.
+  cautions: Could instead be hagiographic authority, sacred_waters, or royal/spiritual
+    legitimacy; source context is needed and the wording is very tradition-specific.
+  suggested_aliases:
+  - water_spirit_acknowledges_holy_teacher
+  - lesser_spirit_recognizes_guru_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lesson-or-memory-enforced-by-bodily-punishment
+  motif_id: lesson_or_memory_enforced_by_bodily_punishment
+  label: Lesson or memory enforced by bodily punishment
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on enforced memory or instruction, placing it near
+    knowledge transmission and wisdom through ordeal.
+  cautions: May be ordinary punishment, legal discipline, initiation ordeal, or narrative
+    detail; verify that the punishment functions to produce memory or sacred knowledge.
+  suggested_aliases:
+  - bodily_punishment_as_memory_instruction
+  - punishment_enforces_learning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lethal-revelation-of-face-stripped-to-skull
+  motif_id: lethal_revelation_of_face_stripped_to_skull
+  label: Lethal revelation of face stripped to skull
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could involve fatal sight, death-revelation, monstrous disclosure,
+    taboo vision, or transformation, and the label alone is too specific.
+  cautions: Culturally sensitive and episode-specific; avoid mapping to theophany
+    or death_and_transformation without passage evidence about function.
+  suggested_aliases:
+  - fatal_skull_face_revelation
+  - lethal_unmasking_to_skull
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.liberation-from-fate-into-truthful-humanity
+  motif_id: liberation_from_fate_into_truthful_humanity
+  label: Liberation from fate into truthful humanity
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: low
+  rationale: This reads as an abstract philosophical-soteriological theme of liberation
+    through truth, closest to mystical interior transformation.
+  cautions: May be commentary or doctrinal abstraction rather than a discrete motif;
+    consider sacred_knowledge or annihilation_union if the passage gives a clear transformative
+    process.
+  suggested_aliases:
+  - liberation_from_fate_through_truth
+  - truthful_humanity_beyond_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.liberation-from-transmigration-through-devotional-knowledge
+  motif_id: liberation_from_transmigration_through_devotional_knowledge
+  label: Liberation from transmigration through devotional knowledge
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: Liberation through devotion and knowledge fits the mystical quest path
+    toward release, transformation, and sacred knowledge.
+  cautions: Could take secondary indexing under sacred_knowledge; preserve Sikh doctrinal
+    specificity and avoid treating it as generic reincarnation narrative.
+  suggested_aliases:
+  - devotional_knowledge_liberates_from_transmigration
+  - liberation_from_rebirth_through_devotion_and_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-by-the-sword
+  motif_id: life_by_the_sword
+  label: Life by the sword
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase could mean martial vocation, violent social order, moral warning,
+    or fate by violence, and needs context.
+  cautions: Do not map automatically to sacred_combat or divine_warrior unless an
+    actual combat motif is present; may be proverbial speech or ethical warning.
+  suggested_aliases:
+  - violent_life_by_the_sword
+  - sword_as_way_of_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch describe landscape localization or doctrinal abstractions
+  rather than discrete narrative motifs; final placement should check passage evidence.
+- For place-name and landscape labels, distinguish true etiology from mere attachment
+  of a tale to a named location.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; low-confidence items require source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1360
+  input_sha256: 135ffca0439aa6cf956498a405884fca67c6da2091033c28bcbcb9e8999d711d
+

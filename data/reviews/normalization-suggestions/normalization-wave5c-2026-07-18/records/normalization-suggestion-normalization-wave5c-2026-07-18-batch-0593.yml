@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0593
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.recovered-authoritative-text-during-wandering
+  motif_id: recovered_authoritative_text_during_wandering
+  label: Recovered authoritative text during wandering
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core motif is recovery of an authoritative text, which fits preservation
+    or transmission of sacred or transformative knowledge.
+  cautions: Wandering may be contextual rather than the main motif; if the passage
+    centers on exile or quest structure, hero_journey could be a secondary placement.
+  suggested_aliases:
+  - authoritative_text_recovered_during_wandering
+  - recovery_of_sacred_text_during_wandering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recovery-quest-for-an-animal-held-instrument
+  motif_id: recovery_quest_for_an_animal_held_instrument
+  label: recovery quest for an animal-held instrument
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines quest recovery, animal possession, and a possibly
+    powerful musical or ritual object; the dominant function is unclear.
+  cautions: Could fit hero_journey, sacred_treasures, enchanting_music, animal helper/trickster
+    material, or a passage-specific episode depending on the instrument's role.
+  suggested_aliases:
+  - quest_to_recover_an_instrument_from_an_animal
+  - animal_held_instrument_recovered_by_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.redirected-departure-by-another-path
+  motif_id: redirected_departure_by_another_path
+  label: redirected departure by another path
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A changed route at departure fits the journey pattern of leaving ordinary
+    space and entering a charged path.
+  cautions: If the redirection is merely logistical or editorial, it may be too specific
+    for pattern queries; source context should confirm narrative significance.
+  suggested_aliases:
+  - departure_redirected_by_another_path
+  - altered_departure_route
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.redirected-quest-for-a-worthy-opponent
+  motif_id: redirected_quest_for_a_worthy_opponent
+  label: redirected quest for a worthy opponent
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The quest is organized around finding a worthy combatant, making combat
+    status and challenge the main function.
+  cautions: Could also be hero_journey if the opponent-seeking quest transforms the
+    hero beyond the combat episode; single occurrence may be over-specific.
+  suggested_aliases:
+  - quest_for_a_worthy_opponent
+  - opponent_seeking_quest_redirected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reef-journey-by-shallow-water-raft
+  motif_id: reef_journey_by_shallow_water_raft
+  label: Reef journey by shallow-water raft
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly local travel detail rather than a reusable
+    symbolic or narrative motif.
+  cautions: If the raft crossing marks a liminal water passage, ordeal, or otherworld
+    boundary, it could be reviewed for sacred_waters or hero_journey instead.
+  suggested_aliases:
+  - shallow_water_raft_reef_journey
+  - reef_crossing_by_raft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-religious-office-and-substitution-of-kingship
+  motif_id: refusal_of_religious_office_and_substitution_of_kingship
+  label: refusal of religious office and substitution of kingship
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif concerns replacement of religious office with kingship, a sacred-political
+    role and legitimacy pattern.
+  cautions: May require human review if it reflects a doctrinal or historical office
+    distinction rather than a narrative motif.
+  suggested_aliases:
+  - kingship_substituted_for_religious_office
+  - refusal_of_priestly_office_for_kingship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-requested-alliance-or-patrol-duty
+  motif_id: refusal_of_requested_alliance_or_patrol_duty
+  label: Refusal of requested alliance or patrol duty
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern alliance obligation, social duty, or refusal of
+    a journey/guard role, but the mythic function is unclear.
+  cautions: Could fit covenant, sacred_law, sacred_combat, betrayal_violated_trust,
+    or be an episode-specific social detail; review source evidence before indexing.
+  suggested_aliases:
+  - refused_alliance_request
+  - refusal_of_patrol_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-vengeance-as-proof-of-friendship-and-teaching
+  motif_id: refusal_of_vengeance_as_proof_of_friendship_and_teaching
+  label: refusal of vengeance as proof of friendship and teaching
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusing vengeance as moral instruction fits ethical order and social
+    discipline rather than a journey motif.
+  cautions: Could also relate to covenant or sacred_knowledge if framed as friendship
+    bond or explicit teaching; culturally specific context should be preserved.
+  suggested_aliases:
+  - vengeance_refused_as_moral_teaching
+  - refusal_of_revenge_proves_friendship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refused-kinship-hospitality-followed-by-supernatural-animal-revenge
+  motif_id: refused_kinship_hospitality_followed_by_supernatural_animal_revenge
+  label: refused kinship hospitality followed by supernatural animal revenge
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The causal center is failed kinship hospitality followed by supernatural
+    consequence, fitting hospitality as sacred test.
+  cautions: Animal revenge may also support divine_judgment or animal-spirit agency;
+    preserve the supernatural animal detail as evidence.
+  suggested_aliases:
+  - refused_hospitality_punished_by_supernatural_animal
+  - kinship_hospitality_refusal_and_animal_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-heroic-leadership-and-championship
+  motif_id: regional_heroic_leadership_and_championship
+  label: Regional heroic leadership and championship
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Heroic leadership and champion status align with the warrior-hero role
+    within sacred combat traditions.
+  cautions: If the passage emphasizes political rule or regional authority more than
+    martial championship, royal_legitimacy may be a better placement.
+  suggested_aliases:
+  - heroic_championship_and_regional_leadership
+  - regional_champion_leader
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and journey-bucketed, but their
+  strongest functions often fall under knowledge, combat, hospitality, law, or kingship
+  rather than travel itself.
+- For over-specific travel labels, retain local evidence notes but avoid broad pattern
+  indexing unless passage evidence shows transformation, threshold crossing, or sacred
+  peril.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for single-occurrence
+    contextual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0593
+  input_sha256: acd03d421409f11543684fdf39de9e57ce34a6628131377726c0e9b71bef71e5
+

@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3895
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.reserved-food-portion-for-an-elder-sibling
+  motif_id: reserved_food_portion_for_an_elder_sibling
+  label: reserved food portion for an elder sibling
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: A reserved food portion may express kinship reciprocity or status obligation,
+    but the sacred or narrative function is unclear.
+  cautions: Single occurrence; could be a household custom, passage detail, or elder-sibling
+    hierarchy rather than a reusable motif.
+  suggested_aliases:
+  - elder_sibling_food_portion
+  - reserved_kinship_food_share
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reserved-share-from-spoils
+  motif_id: reserved_share_from_spoils
+  label: reserved share from spoils
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A reserved share of spoils is best treated as regulated distribution
+    under sacred law or social order.
+  cautions: Could instead belong to covenant or sacred_exchange if framed as divine
+    allocation, obligation, or reciprocity; verify passage context.
+  suggested_aliases:
+  - allocated_share_of_spoils
+  - sacred_distribution_of_spoils
+  - reserved_spoils_portion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reserved-trophy-consumed-and-hidden
+  motif_id: reserved_trophy_consumed_and_hidden
+  label: Reserved trophy consumed and hidden
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: uncertain
+  confidence: low
+  rationale: Secretly consuming and hiding a reserved trophy may involve violated
+    trust or tabooed allocation, but the core function is not clear from the label.
+  cautions: Could be trickster deception, sacred law/taboo, spoil distribution, or
+    an over-specific episode detail; source evidence is needed.
+  suggested_aliases:
+  - hidden_consumption_of_reserved_trophy
+  - concealed_consumption_of_trophy_share
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.residence-among-eagle-hosts
+  motif_id: residence_among_eagle_hosts
+  label: residence among eagle hosts
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: low
+  rationale: Living among eagle hosts may be an otherworld sojourn or animal-spirit
+    hospitality episode.
+  cautions: Could fit animal helpers, shapeshifter, divine race, or a local clan/ancestral
+    tradition; culturally specific evidence should be reviewed.
+  suggested_aliases:
+  - sojourn_among_eagle_people
+  - residence_with_eagle_hosts
+  - dwelling_among_eagle_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.residence-based-custom-differentiation
+  motif_id: residence_based_custom_differentiation
+  label: Residence-based custom differentiation
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like an ethnographic classification of customs by residence
+    rather than a narrative or symbolic motif.
+  cautions: If the passage is an origin myth explaining why groups have different
+    customs, reconsider under cosmic_origin or sacred_law as an etiological social-order
+    motif.
+  suggested_aliases:
+  - residence_based_custom_variation
+  - local_custom_differentiation_by_residence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.resident-supernatural-being-tries-to-block-religious-visitors
+  motif_id: resident_supernatural_being_tries_to_block_religious_visitors
+  label: Resident supernatural being tries to block religious visitors
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: A resident supernatural being blocking visitors functions as a guardian
+    or obstacle at a religious threshold.
+  cautions: If the being is converted, subdued, or incorporated into the sacred site,
+    secondary mapping to divine_intervention or sacred_knowledge may be relevant.
+  suggested_aliases:
+  - supernatural_guardian_blocks_religious_visitors
+  - local_spirit_obstructs_sacred_visitors
+  - resident_spirit_as_threshold_obstacle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.residual-sign-from-burned-body
+  motif_id: residual_sign_from_burned_body
+  label: Residual sign from burned body
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A lasting sign from a burned body may indicate postmortem transformation
+    or an etiological trace after death.
+  cautions: Could be a landscape/color etiology, relic sign, cremation detail, or
+    passage-specific evidence; do not map to world-destroying fire without broader
+    catastrophe.
+  suggested_aliases:
+  - burned_body_leaves_residual_sign
+  - postmortem_trace_from_burned_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.residual-supernatural-feats-in-historical-epic
+  motif_id: residual_supernatural_feats_in_historical_epic
+  label: Residual supernatural feats in historical epic
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes genre or scholarly interpretation of epic material,
+    not a specific motif pattern.
+  cautions: Individual supernatural feats should be indexed separately if the passage
+    supplies them.
+  suggested_aliases:
+  - supernatural_residue_in_historical_epic
+  - residual_mythic_elements_in_epic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.residual-trace-reveals-absent-excellence
+  motif_id: residual_trace_reveals_absent_excellence
+  label: Residual trace reveals absent excellence
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: low
+  rationale: A trace that reveals an absent figure's excellence may function as indirect
+    recognition or proof of identity/status.
+  cautions: Could be literary praise, heroic reputation, relic evidence, or an over-specific
+    passage detail; verify whether the trace actually proves identity or excellence
+    in the narrative.
+  suggested_aliases:
+  - trace_reveals_absent_excellence
+  - residual_sign_of_absent_virtue
+  - indirect_recognition_by_trace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.resistance-to-unfamiliar-healing-practices
+  motif_id: resistance_to_unfamiliar_healing_practices
+  label: resistance to unfamiliar healing practices
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Resistance to healing practices may reflect ritual authority, taboo,
+    or social order around sacred medicine, but the motif function is unclear.
+  cautions: Could be ethnographic commentary, cultural contact detail, or a healing-ritual
+    motif; review carefully before indexing in pattern queries.
+  suggested_aliases:
+  - rejection_of_unfamiliar_healing_rites
+  - resistance_to_foreign_healing_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and context-dependent; source
+  evidence is needed before promoting any to stable taxonomy entries.
+- Food shares, spoils, and trophies may overlap sacred_exchange, sacred_law, covenant,
+  trickster, or betrayal depending on whether the passage emphasizes obligation, allocation,
+  deception, or taboo.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional automated placement suggestions only.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3895
+  input_sha256: ad2fa7b49cf91cc970518ffe46df622aab5b9e848c48d11846a9d5505b878234
+

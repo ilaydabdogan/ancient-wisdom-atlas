@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2522
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.search-for-body-or-bones
+  motif_id: search_for_body_or_bones
+  label: search for body or bones
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate body retrieval, mortuary rites, ancestor remains,
+    or a plot-specific search.
+  cautions: Single occurrence and no source context; avoid mapping to heroic_funeral_rites
+    or ancestor_rites unless ritual care or memorialization is present.
+  suggested_aliases:
+  - search_for_remains
+  - search_for_bones
+  - body_or_bones_retrieval
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.search-for-discarded-food-in-time-of-hunger
+  motif_id: search_for_discarded_food_in_time_of_hunger
+  label: search for discarded food in time of hunger
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a highly contextual survival detail rather than a stable
+    mythic motif.
+  cautions: If passage frames famine, miraculous provision, or ethical hospitality,
+    review for divine_intervention, sacred_exchange, or hospitality_test_stranger_guest
+    instead.
+  suggested_aliases:
+  - hunger_search_for_food
+  - foraging_for_discarded_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.search-for-precious-metals-in-a-mountainous-region
+  motif_id: search_for_precious_metals_in_a_mountainous_region
+  label: Search for precious metals in a mountainous region
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A search for minerals in mountains appears to be local economic or episode
+    detail, not a recurring symbolic pattern by itself.
+  cautions: Could be reconsidered if the metals are sacred treasures, divinely revealed,
+    or tied to mountain sanctity; current label lacks that evidence.
+  suggested_aliases:
+  - search_for_mountain_metals
+  - quest_for_precious_metals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.search-for-sunrise-in-the-west
+  motif_id: search_for_sunrise_in_the_west
+  label: search for sunrise in the west
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The reversal of sunrise direction may be cosmological, visionary, impossible-quest,
+    or passage-specific wording.
+  cautions: Do not map to cosmic_origin, sacred_fire, or hero_journey without evidence
+    of creation order, solar divinity, or quest transformation.
+  suggested_aliases:
+  - westward_sunrise_search
+  - quest_for_reversed_sunrise
+  - search_for_impossible_sunrise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.search-for-the-missing-explorer-s-last-route
+  motif_id: search_for_the_missing_explorer_s_last_route
+  label: Search for the missing explorer’s last route
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording sounds like a modern expedition or source-context detail
+    rather than a traditional motif.
+  cautions: If the underlying passage is a mythic search for a vanished traveller
+    or ancestor, re-review under hero_journey or restless_dead_haunting_vengeance;
+    otherwise exclude from motif queries.
+  suggested_aliases:
+  - missing_explorer_route_search
+  - search_for_lost_explorer_route
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.search-for-unknown-northern-people
+  motif_id: search_for_unknown_northern_people
+  label: search for unknown northern people
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This could be ethnographic geography, encounter with otherworldly people,
+    migration, or a quest detail.
+  cautions: Avoid assigning to divine_race or otherworld unless the unknown people
+    are explicitly supernatural or sacred; may be a people/place-only detail.
+  suggested_aliases:
+  - quest_for_unknown_people
+  - search_for_northern_people
+  - encounter_with_unknown_northerners
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.second-harvest-from-recovered-seeds
+  motif_id: second_harvest_from_recovered_seeds
+  label: second harvest from recovered seeds
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: medium
+  rationale: A second harvest from recovered seeds points to agricultural recurrence,
+    renewal, and seasonal abundance.
+  cautions: If the emphasis is miraculous food provision rather than harvest cycle,
+    divine_intervention or sacred_substance may be secondary candidates.
+  suggested_aliases:
+  - second_harvest
+  - recovered_seeds_produce_second_harvest
+  - harvest_from_recovered_seeds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-earth-eating-tied-to-craving-or-dietary-lack
+  motif_id: secret_earth_eating_tied_to_craving_or_dietary_lack
+  label: secret earth-eating tied to craving or dietary lack
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe taboo appetite, ritual diet, illness, pregnancy
+    craving, or ethnographic observation.
+  cautions: Culturally sensitive and over-specific; do not map to sacred_substance
+    or sacred_law without evidence of ritual, taboo, or sacred food logic.
+  suggested_aliases:
+  - secret_earth_eating
+  - geophagy_from_craving
+  - earth_eating_from_dietary_lack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-fire-signal-summons-or-informs-allies-at-night
+  motif_id: secret_fire_signal_summons_or_informs_allies_at_night
+  label: Secret fire signal summons or informs allies at night
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: The core function is communication and message transmission, with fire
+    as signaling medium rather than sacred fire itself.
+  cautions: Low confidence because existing groups lack a clear communication-signal
+    category; if the context is military stratagem, sacred_combat may fit better,
+    and if fire is divine presence, sacred_fire may fit.
+  suggested_aliases:
+  - fire_signal_to_allies
+  - night_fire_signal
+  - beacon_signal_summons_allies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-killing-and-eating-of-a-water-being-s-offspring
+  motif_id: secret_killing_and_eating_of_a_water_being_s_offspring
+  label: Secret killing and eating of a water-being's offspring
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines secrecy, killing, eating, kinship, and a water-being;
+    its function depends on narrative consequences.
+  cautions: Could involve violated taboo, betrayal, trickster predation, sacred waters,
+    or divine judgment; culturally sensitive source context is needed.
+  suggested_aliases:
+  - secret_consumption_of_water_being_offspring
+  - killing_and_eating_water_spirit_child
+  - hidden_eating_of_a_water_being_s_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence search/action phrases and should
+  not be promoted without source evidence showing stable ritual, cosmological, or
+  narrative function.
+- The nature bucket appears noisy here; do not infer sacred water, mountain, fire,
+  or solar motifs solely from object words in the labels.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; high-context and culturally sensitive
+    items require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2522
+  input_sha256: 5ff63d778152577c014fef2399fd0f265308323b1b86fe90aec263c8df85a5d3
+

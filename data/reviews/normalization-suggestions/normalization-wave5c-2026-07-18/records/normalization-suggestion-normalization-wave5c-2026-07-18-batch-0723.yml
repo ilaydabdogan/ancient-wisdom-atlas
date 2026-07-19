@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0723
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.correct-procedure-determines-ritual-validity
+  motif_id: correct_procedure_determines_ritual_validity
+  label: Correct procedure determines ritual validity
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label concerns ritual correctness as a norm that determines efficacy
+    or validity, fitting sacred law and ritual regulation.
+  cautions: Single occurrence; if the passage is technical scholastic commentary rather
+    than a motif, consider excluding or preserving as evidence detail.
+  suggested_aliases:
+  - ritual_correctness_determines_validity
+  - proper_ritual_procedure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.correct-sacred-recitation-versus-obscured-or-mumbled-formula
+  motif_id: correct_sacred_recitation_versus_obscured_or_mumbled_formula
+  label: correct sacred recitation versus obscured or mumbled formula
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif turns on the efficacy of correctly uttered sacred speech or
+    formula, matching performative sacred speech.
+  cautions: Could also fit sacred_knowledge if the emphasis is learned recitation;
+    verify whether the source presents it as ritual efficacy rather than textual criticism.
+  suggested_aliases:
+  - correct_ritual_recitation
+  - effective_sacred_formula
+  - mumbled_formula_lacks_ritual_force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.correction-of-inherited-scholarly-error
+  motif_id: correction_of_inherited_scholarly_error
+  label: correction of inherited scholarly error
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes scholarly correction or commentary transmission,
+    not a narrative, ritual, or symbolic motif.
+  cautions: Preserve as provenance if useful; do not use for motif pattern queries
+    unless passage evidence contains a recurring wisdom or teaching motif.
+  suggested_aliases:
+  - scholarly_error_correction
+  - correction_of_transmitted_commentarial_error
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.correspondence-between-body-parts-and-divine-or-cosmic-recipients
+  motif_id: correspondence_between_body_parts_and_divine_or_cosmic_recipients
+  label: correspondence between body parts and divine or cosmic recipients
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Body parts assigned to divine or cosmic recipients suggests sacrificial
+    distribution or ritual offering structured by cosmic correspondences.
+  cautions: If the passage is cosmological anthropology rather than offering practice,
+    cosmic_origin or sacred_knowledge may be better secondary mappings.
+  suggested_aliases:
+  - body_part_correspondence_with_divine_recipients
+  - cosmic_mapping_of_sacrificial_body_parts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.correspondence-between-cosmic-parts-and-divine-qualities
+  motif_id: correspondence_between_cosmic_parts_and_divine_qualities
+  label: Correspondence between cosmic parts and divine qualities
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Cosmic-divine correspondences are a form of esoteric or sacred knowledge
+    about the structure of reality.
+  cautions: This may be a doctrinal schema rather than a narrative motif; if it explains
+    creation or ordering of the cosmos, cosmic_origin may be a secondary mapping.
+  suggested_aliases:
+  - cosmic_parts_correspond_to_divine_qualities
+  - macrocosmic_divine_correspondence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corrupt-payment-accusation-in-sacred-legal-assembly
+  motif_id: corrupt_payment_accusation_in_sacred_legal_assembly
+  label: corrupt payment accusation in sacred-legal assembly
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: An accusation of corrupt payment in a sacred legal setting centers on
+    moral reckoning and justice within sacred order.
+  cautions: Could be an episode-specific legal detail; map to sacred_law instead if
+    the source emphasizes assembly procedure rather than judgment or wrongdoing.
+  suggested_aliases:
+  - bribery_accusation_in_sacred_assembly
+  - corruption_charge_in_sacred_law_court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-acclaim-at-sacred-installation
+  motif_id: cosmic_acclaim_at_sacred_installation
+  label: Cosmic acclaim at sacred installation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: Cosmic acclaim at an installation can function as sacred ratification
+    of status, office, or authority.
+  cautions: 'Needs context: if the installation is non-royal, monastic, relic, or
+    image installation, theophany, sacred_treasures, or divine_intervention may be
+    better.'
+  suggested_aliases:
+  - cosmic_ratification_of_installation
+  - sacred_installation_confirmed_by_cosmic_acclaim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-alternation-ordered-by-a-divine-maker
+  motif_id: cosmic_alternation_ordered_by_a_divine_maker
+  label: Cosmic alternation ordered by a divine maker
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine maker ordering cosmic alternation is a creation or cosmic-ordering
+    motif.
+  cautions: If the emphasis is opposing paired forces rather than making or ordering,
+    duality may also be relevant.
+  suggested_aliases:
+  - divine_ordering_of_cosmic_alternation
+  - maker_orders_cosmic_cycles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-and-divine-ratification-after-completed-teaching-dialogue
+  motif_id: cosmic_and_divine_ratification_after_completed_teaching_dialogue
+  label: Cosmic and divine ratification after completed teaching dialogue
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine or cosmic confirmation of a teaching dialogue validates sacred
+    knowledge and its transmission.
+  cautions: Highly contextual and possibly passage-closure formula; exclude if it
+    is merely a textual convention rather than a motif in the narrative world.
+  suggested_aliases:
+  - cosmic_ratification_of_teaching
+  - divine_confirmation_of_completed_instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-and-ritual-domains-mapped-onto-angelic-beings
+  motif_id: cosmic_and_ritual_domains_mapped_onto_angelic_beings
+  label: Cosmic and ritual domains mapped onto angelic beings
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Mapping ritual and cosmic domains onto angelic beings is a sacred classificatory
+    knowledge system.
+  cautions: Could also fit divine_intervention if angelic beings act as agents, or
+    cosmic_origin if the mapping explains cosmic structure; review source function.
+  suggested_aliases:
+  - angelic_mapping_of_cosmic_and_ritual_domains
+  - cosmic_ritual_correspondence_with_angelic_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are doctrinal, ritual-technical, or scholastic rather
+  than narrative motifs; human review should verify passage-level function before
+  indexing broadly.
+- For correspondence labels, distinguish ritual sacrificial allocation from esoteric
+  cosmology; the same wording may point to sacrifice, sacred_knowledge, or cosmic_origin
+  depending on evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize human review for single-occurrence
+    ritual-technical and passage-closing formula labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0723
+  input_sha256: a8e632c1b574069f5df80b270491655eff90756909bf1a30f751f58fb14d2ae7
+

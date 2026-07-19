@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0879
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.human-placement-in-the-world-away-from-highest-divine-happiness
+  motif_id: human_placement_in_the_world_away_from_highest_divine_happiness
+  label: human placement in the world away from highest divine happiness
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a contemplative or metaphysical account of the
+    soul's distance from divine blessedness, which may fit mystical quest or interior
+    ascent.
+  cautions: Single occurrence and abstract philosophical wording; may be doctrinal
+    commentary rather than a narrative motif.
+  suggested_aliases:
+  - human distance from divine happiness
+  - soul placed away from highest divine blessedness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-powerlessness-without-divine-assistance
+  motif_id: human_powerlessness_without_divine_assistance
+  label: Human powerlessness without divine assistance
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif depends on human inability being overcome or framed by need
+    for divine aid, fitting divine intervention and guidance.
+  cautions: Could be a devotional or ethical teaching rather than an event motif;
+    if only a theological maxim, keep as evidence detail.
+  suggested_aliases:
+  - human dependence on divine aid
+  - human helplessness without divine grace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-prophet-contrasted-with-later-demi-god
+  motif_id: human_prophet_contrasted_with_later_demi_god
+  label: human prophet contrasted with later demi-god
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a comparative or reception-history contrast between
+    portrayals rather than a symbolic narrative motif.
+  cautions: If a passage narrates the prophet's apotheosis or divine status, review
+    under royal_legitimacy or theophany instead; label alone reads as commentary.
+  suggested_aliases:
+  - prophet contrasted with later demigod portrayal
+  - human prophet versus later semi-divine figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-religious-difference-under-divine-mercy
+  motif_id: human_religious_difference_under_divine_mercy
+  label: Human religious difference under divine mercy
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif concerns divine-human moral order and mercy across religious
+    difference, closest to covenantal/social sacred relationship.
+  cautions: Highly abstract and potentially theological; could also fit divine_judgment
+    if the passage emphasizes final reckoning or mercy after judgment.
+  suggested_aliases:
+  - religious difference under divine mercy
+  - divine mercy over human religious diversity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-ritual-arrangement-mirrors-supernatural-ceremony
+  motif_id: human_ritual_arrangement_mirrors_supernatural_ceremony
+  label: Human ritual arrangement mirrors supernatural ceremony
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A human rite patterned after a supernatural model fits sacred ordering
+    of ritual and social practice.
+  cautions: Could also map to theophany if the focus is witnessed supernatural ceremony,
+    or sacred_time if it establishes a recurring ritual cycle.
+  suggested_aliases:
+  - human ceremony mirrors supernatural ceremony
+  - ritual arrangement modeled on divine ceremony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-transformed-into-rock-and-receiving-offerings
+  motif_id: human_transformed_into_rock_and_receiving_offerings
+  label: Human transformed into rock and receiving offerings
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is posthuman transformation into stone, with subsequent
+    offerings indicating sacred or ancestral status.
+  cautions: If offerings to the rock are the main motif, ancestor_rites or sacred_treasures
+    may be relevant secondary mappings; preserve rock-specific evidence.
+  suggested_aliases:
+  - human transformed into stone and venerated
+  - stone transformation receiving offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-warrior-compared-to-divine-combatant
+  motif_id: human_warrior_compared_to_divine_combatant
+  label: human warrior compared to divine combatant
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The comparison frames a human warrior through divine combat imagery,
+    fitting the divine warrior and sacred combat complex.
+  cautions: If it is only a poetic simile without sacred function, treat as evidence
+    detail rather than a durable motif.
+  suggested_aliases:
+  - human warrior likened to divine warrior
+  - mortal warrior compared with divine combatant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-wrongdoing-or-taboo-breach-blocks-animal-availability
+  motif_id: human_wrongdoing_or_taboo_breach_blocks_animal_availability
+  label: Human wrongdoing or taboo breach blocks animal availability
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo breach causing loss of animals fits sacred law, ritual prohibition,
+    and moral consequences in subsistence relations.
+  cautions: Culturally specific animal-human reciprocity may warrant careful review;
+    could also relate to divine_judgment or sacred_exchange if animal availability
+    is controlled by spirits.
+  suggested_aliases:
+  - taboo breach blocks game animals
+  - wrongdoing causes animals to withdraw
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humanity-created-to-appease-gods
+  motif_id: humanity_created_to_appease_gods
+  label: Humanity created to appease gods
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explains human creation and purpose within a divine order,
+    fitting cosmic origin and anthropogony.
+  cautions: If appeasement through service or offerings is central, sacrifice or sacred_exchange
+    may be useful secondary mappings.
+  suggested_aliases:
+  - humans created to serve or appease gods
+  - humanity created for divine appeasement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humanity-made-in-a-divine-image
+  motif_id: humanity_made_in_a_divine_image
+  label: humanity made in a divine image
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Humanity formed in divine likeness is an anthropogonic creation motif
+    within the cosmic origin field.
+  cautions: Could overlap with sacred_craft if the emphasis is fashioned images or
+    artificial creation; verify source context.
+  suggested_aliases:
+  - humanity created in divine likeness
+  - humans made in the image of a god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional; several labels are single-occurrence and abstract,
+  so source evidence should determine whether they are motifs or theological/commentary
+  artifacts.
+- No transmission or borrowing claims are implied by these normalization suggestions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Wave 5c batch 0879 provisional motif group placement suggestions.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0879
+  input_sha256: d8b1e02d0fb55fa3c71dfa101f6d09a340b44c59a3589f4fa3c3aa68ce270eba
+

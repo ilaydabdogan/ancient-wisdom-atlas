@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0858
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.guarded-sacred-knowledge-held-by-ritual-specialists
+  motif_id: guarded_sacred_knowledge_held_by_ritual_specialists
+  label: Guarded sacred knowledge held by ritual specialists
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on protected sacred knowledge and its custody by authorized
+    specialists.
+  cautions: Single occurrence; review culturally specific ritual roles and whether
+    the label is an ethnographic description rather than a narrative motif.
+  suggested_aliases:
+  - restricted_sacred_knowledge
+  - ritual_specialists_guard_sacred_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-sacred-maidens
+  motif_id: guarded_sacred_maidens
+  label: Guarded sacred maidens
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase could indicate protected ritual persons, marriage/sexual boundary
+    control, sacred feminine figures, or passage-specific social detail.
+  cautions: Culturally sensitive and under-specified; avoid mapping to sacred_love
+    or sacred_law without source evidence about function.
+  suggested_aliases:
+  - protected_sacred_maidens
+  - guarded_ritual_maidens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-sacred-mountain-dwelling
+  motif_id: guarded_sacred_mountain_dwelling
+  label: Guarded sacred mountain dwelling
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: narrower_than
+  confidence: medium
+  rationale: A sacred mountain dwelling fits the sacred mountain/world-axis complex,
+    with guarding as a local access condition.
+  cautions: If the guarding figure or threshold test is central, threshold_guardian
+    may be a secondary mapping; preserve dwelling and guarding details.
+  suggested_aliases:
+  - sacred_mountain_dwelling
+  - guarded_holy_mountain_abode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-pair-at-a-sacred-site
+  motif_id: guardian_pair_at_a_sacred_site
+  label: Guardian pair at a sacred site
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: Guardians stationed at a sacred site function as boundary keepers controlling
+    access to charged space.
+  cautions: The paired structure may also support duality or sacred_twins if the passage
+    emphasizes complementarity rather than guarding.
+  suggested_aliases:
+  - paired_guardians_of_sacred_site
+  - sacred_site_guardian_pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-tree-taboo-and-misfortune-for-injury
+  motif_id: guardian_tree_taboo_and_misfortune_for_injury
+  label: Guardian tree taboo and misfortune for injury
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core pattern is a taboo protecting a spirit-bearing or sacred tree,
+    with misfortune following violation.
+  cautions: Comparative label and single occurrence; if the tree is cosmological,
+    axis_mundi may be secondary, and if punishment is central, divine_judgment may
+    be secondary.
+  suggested_aliases:
+  - sacred_tree_taboo
+  - misfortune_for_injuring_guardian_tree
+  - taboo_against_harming_sacred_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guidance-along-straight-paths-to-highest-blessing
+  motif_id: guidance_along_straight_paths_to_highest_blessing
+  label: Guidance along straight paths to highest blessing
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Straight-path guidance toward blessing reads as ethical-religious ordering
+    of life under sacred law.
+  cautions: Could be theological exhortation rather than motif; if the passage describes
+    a soul's route after death, afterlife_passage may fit better.
+  suggested_aliases:
+  - straight_path_to_blessing
+  - guidance_on_the_sacred_path
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guidance-through-sacred-flame
+  motif_id: guidance_through_sacred_flame
+  label: guidance through sacred flame
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: high
+  rationale: Sacred flame functioning as guidance belongs directly under sacred fire
+    and divine light.
+  cautions: If the flame is a judging ordeal or eschatological test, divine_judgment
+    may be a secondary mapping.
+  suggested_aliases:
+  - sacred_flame_as_guide
+  - divine_guidance_through_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guided-discovery-of-a-shining-sacred-bough
+  motif_id: guided_discovery_of_a_shining_sacred_bough
+  label: guided discovery of a shining sacred bough
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A shining sacred bough discovered through guidance functions as a charged
+    power object or token.
+  cautions: Comparative and over-specific; if the bough is part of a world tree or
+    sacred tree, axis_mundi may be more appropriate.
+  suggested_aliases:
+  - shining_sacred_bough
+  - guided_discovery_of_sacred_branch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guru-blessing-a-young-recipient
+  motif_id: guru_blessing_a_young_recipient
+  label: Guru blessing a young recipient
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: role_variant
+  confidence: medium
+  rationale: The operative motif is a sacred blessing bestowed by an authorized religious
+    teacher.
+  cautions: If the recipient's youth and destiny are central, miraculous_child or
+    initiation may be relevant secondary mappings.
+  suggested_aliases:
+  - teacher_blesses_young_recipient
+  - guru_bestows_blessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guru-or-divine-favour-as-means-of-deliverance
+  motif_id: guru_or_divine_favour_as_means_of_deliverance
+  label: Guru or divine favour as means of deliverance
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Deliverance through sacred favor aligns with direct divine or saintly
+    intervention in human affairs.
+  cautions: The guru role may require tradition-specific review; if deliverance is
+    primarily spiritual liberation through discipline, mystical_quest may be secondary.
+  suggested_aliases:
+  - sacred_favour_as_deliverance
+  - deliverance_by_guru_or_divine_favour
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and do not imply historical transmission or shared origin.
+- Several one-off labels are culturally specific or comparative; human review should
+  check source context before adding aliases to the normalization file.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch reviewed for provisional placement against existing canonical motif
+    groups.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0858
+  input_sha256: 93cb364636704f84435ec946d75264a11777e65b9766e4bf2849c54aab9d7ac2
+

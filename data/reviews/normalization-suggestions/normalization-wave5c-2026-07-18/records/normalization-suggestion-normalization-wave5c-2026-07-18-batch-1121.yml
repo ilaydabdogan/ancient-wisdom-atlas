@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1121
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-calendar-ordering-by-divine-reference-points
+  motif_id: sacred_calendar_ordering_by_divine_reference_points
+  label: Sacred calendar ordering by divine reference points
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: high
+  rationale: A divinely referenced calendar belongs to sacred ordering of time and
+    ritual cycles.
+  cautions: Single Roman occurrence; preserve the specific reference points as evidence
+    rather than a canonical child unless recurrent.
+  suggested_aliases:
+  - divinely_ordered_calendar
+  - sacred_calendar_by_divine_reference_points
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-calendar-ordering-ritual-celestial-and-civic-events
+  motif_id: sacred_calendar_ordering_ritual_celestial_and_civic_events
+  label: sacred calendar ordering ritual, celestial, and civic events
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly concerns sacred calendrical organization of ritual
+    and civic time.
+  cautions: May be a descriptive calendrical-index artifact if no narrative or ritual
+    function is present.
+  suggested_aliases:
+  - sacred_calendar_ordering_events
+  - ritual_civic_celestial_calendar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-calendrical-count-to-a-festival
+  motif_id: sacred_calendrical_count_to_a_festival
+  label: sacred calendrical count to a festival
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: Counting time toward a festival is a ritual-cycle and sacred-calendar
+    pattern.
+  cautions: Likely granular; avoid promoting unless calendrical-count motifs recur
+    across sources.
+  suggested_aliases:
+  - festival_countdown_in_sacred_calendar
+  - ritual_count_to_festival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-call-and-paradigmatic-caller
+  motif_id: sacred_call_and_paradigmatic_caller
+  label: sacred call and paradigmatic caller
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could refer to divine call, mystical summons, ritual invocation, or exemplary
+    caller depending on Sufi passage context.
+  cautions: The phrase is abstract and culturally contextual; source evidence is needed
+    before mapping to initiation, mystical_quest, sacred_song, or divine_intervention.
+  suggested_aliases:
+  - sacred_summons_and_caller
+  - paradigmatic_sacred_call
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-captive-described-as-unable-to-die
+  motif_id: sacred_captive_described_as_unable_to_die
+  label: sacred captive described as unable to die
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate defective immortality, ritual captivity, sacrificial
+    victim status, or comparative commentary.
+  cautions: Comparative single occurrence and vague wording; do not map to death_and_transformation
+    or immortality_without_renewal without passage evidence.
+  suggested_aliases:
+  - undying_sacred_captive
+  - captive_unable_to_die
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-catalogue-organized-by-names-fathers-houses-and-lands
+  motif_id: sacred_catalogue_organized_by_names_fathers_houses_and_lands
+  label: Sacred catalogue organized by names, fathers, houses, and lands
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This describes cataloguing structure rather than a symbolic or narrative
+    motif.
+  cautions: If the catalogue functions ritually as lineage invocation or sacred geography,
+    human review may preserve secondary evidence under ancestor_rites or sacred_law.
+  suggested_aliases:
+  - genealogical_sacred_catalogue
+  - catalogue_by_names_houses_and_lands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-cave-with-distinct-mortal-and-divine-access
+  motif_id: sacred_cave_with_distinct_mortal_and_divine_access
+  label: sacred cave with distinct mortal and divine access
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cave with differentiated mortal and divine access functions as a sacred
+    threshold connecting realms.
+  cautions: Could also fit descent, otherworld, or threshold_guardian if passage emphasizes
+    underworld entry, enchanted realm, or guarded access.
+  suggested_aliases:
+  - sacred_cave_as_divine_human_threshold
+  - cave_with_mortal_and_divine_entrances
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-celestial-objects
+  motif_id: sacred_celestial_objects
+  label: Sacred celestial objects
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Too broad to distinguish sacred treasures, celestial omens, cosmic order,
+    or ritual objects from the label alone.
+  cautions: Culturally specific context is important; avoid flattening Native American
+    Southwest ceremonial meanings into a generic object category.
+  suggested_aliases:
+  - holy_celestial_objects
+  - ritual_celestial_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-center-painting-guarded-and-approached-by-prayer
+  motif_id: sacred_center_painting_guarded_and_approached_by_prayer
+  label: Sacred-center painting guarded and approached by prayer
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines sacred center, ritual image, guardianship, and prayer;
+    dominant function is unclear.
+  cautions: Culturally sensitive ceremonial material; review source before mapping
+    to axis_mundi, sacred_craft, sacred_treasures, threshold_guardian, or sacred_exchange.
+  suggested_aliases:
+  - guarded_sacred_center_image
+  - prayer_approach_to_guarded_sacred_painting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-chant-disturbs-the-natural-world
+  motif_id: sacred_chant_disturbs_the_natural_world
+  label: Sacred chant disturbs the natural world
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A chant affecting nature fits sound, song, or music acting as supernatural
+    force.
+  cautions: If the emphasis is sacred speech act rather than musical/chant power,
+    curse_blessing_speech may be a secondary candidate.
+  suggested_aliases:
+  - chant_power_affecting_nature
+  - sacred_chant_disrupts_nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several single-occurrence labels appear granular or context-dependent; preserve
+  local evidence notes during review.
+- Native American Southwest ceremonial labels should receive human review before broad
+  normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes culturally sensitive and ambiguous single-occurrence motifs
+    requiring source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1121
+  input_sha256: 2b1bd343de9dfd3193fd8779b7a1efd9b270eb682d423585214147b40993688d
+

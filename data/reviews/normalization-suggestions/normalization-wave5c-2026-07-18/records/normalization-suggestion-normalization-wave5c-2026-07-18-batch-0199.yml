@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0199
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ghost-enforced-offering-taboo
+  motif_id: ghost_enforced_offering_taboo
+  label: ghost-enforced offering taboo
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ghost enforcing an offering taboo concerns ritual obligations toward
+    the dead and proper relations between living and dead.
+  cautions: Single occurrence; if emphasis is punishment for taboo violation rather
+    than care of the dead, sacred_law or divine_judgment may be secondary.
+  suggested_aliases:
+  - ghost_enforced_offering_taboo
+  - offering_taboo_enforced_by_ghost
+  - dead_enforce_ritual_offering_obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghost-fear-test-before-marriage
+  motif_id: ghost_fear_test_before_marriage
+  label: ghost-fear test before marriage
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a ghost encounter, fear ordeal, and marriage qualification;
+    its main function is unclear without passage evidence.
+  cautions: Could fit initiation if the ghost-fear episode tests status before marriage,
+    sacred_love if courtship is central, or restless_dead_haunting_vengeance if the
+    ghost agency is central.
+  suggested_aliases:
+  - ghost_fear_test_before_marriage
+  - pre_marriage_fear_test_by_ghost
+  - ghost_ordeal_before_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghost-house-prevents-theft-by-invisible-forces
+  motif_id: ghost_house_prevents_theft_by_invisible_forces
+  label: Ghost house prevents theft by invisible forces
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A ghost house may be a mortuary structure, protective space, or spirit-controlled
+    property marker, but the motif function is ambiguous.
+  cautions: Could fit ancestor_rites, sacred_law, sacred_treasures, or apotropaic
+    protection under sacred_law depending on whether the house is ritual, object,
+    place, or narrative detail.
+  suggested_aliases:
+  - ghost_house_prevents_theft
+  - ghost_house_protects_property
+  - invisible_forces_prevent_theft_from_ghost_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghost-husband-takes-a-living-mourner-as-wife
+  motif_id: ghost_husband_takes_a_living_mourner_as_wife
+  label: Ghost husband takes a living mourner as wife
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dead spouse remains active and draws a living mourner into a continuing
+    relationship, fitting active unresolved dead rather than ordinary marriage.
+  cautions: If the passage emphasizes love across death or postmortem union, sacred_love
+    may be a secondary mapping; culturally specific mortuary context should be reviewed.
+  suggested_aliases:
+  - ghost_husband_takes_living_mourner_as_wife
+  - dead_husband_claims_living_wife
+  - ghost_spouse_claims_mourner
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghost-image-making-immunity-and-ghost-caused-facial-distortion
+  motif_id: ghost_image_making_immunity_and_ghost_caused_facial_distortion
+  label: ghost image-making immunity and ghost-caused facial distortion
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines image-making, immunity, and ghost-inflicted bodily
+    harm, making the dominant motif unclear.
+  cautions: Could involve sacred_craft, sacred_law taboo, divine_intervention, or
+    spirit affliction; may be an over-specific composite evidence note.
+  suggested_aliases:
+  - ghost_image_making_immunity
+  - ghost_caused_facial_distortion
+  - image_making_immunity_from_ghost_harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghost-lore-and-future-life
+  motif_id: ghost_lore_and_future_life
+  label: Ghost lore and future life
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrasing reads like a topical or ethnographic category about beliefs
+    rather than a specific narrative or ritual motif.
+  cautions: If source passages describe a concrete afterlife route, ghost action,
+    or ancestor rite, remap the underlying evidence to afterlife_passage, restless_dead_haunting_vengeance,
+    or ancestor_rites.
+  suggested_aliases:
+  - ghost_lore_and_future_life
+  - ghost_lore_future_life
+  - beliefs_about_ghosts_and_future_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghost-of-the-mother-after-burial
+  motif_id: ghost_of_the_mother_after_burial
+  label: ghost of the mother after burial
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: medium
+  rationale: A mother's ghost appearing after burial is an active postmortem presence
+    following death rites.
+  cautions: If the ghost returns to nurture or protect a child, miraculous_child or
+    ancestor_rites may be relevant secondary contexts.
+  suggested_aliases:
+  - ghost_of_mother_after_burial
+  - dead_mother_returns_after_burial
+  - maternal_ghost_after_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghost-or-shade-housed-in-a-hair-bundle-and-ritually-fed
+  motif_id: ghost_or_shade_housed_in_a_hair_bundle_and_ritually_fed
+  label: Ghost or shade housed in a hair bundle and ritually fed
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: The dead person's shade is ritually housed and fed, directly matching
+    care and feeding of dead souls.
+  cautions: Hair-bundle containment may also touch sacred_vessel or external_soul,
+    but the feeding rite is the clearest indexing function.
+  suggested_aliases:
+  - ghost_or_shade_housed_in_hair_bundle_and_fed
+  - shade_housed_in_hair_bundle
+  - ritual_feeding_of_ghost_in_hair_bundle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghost-seen-before-death
+  motif_id: ghost_seen_before_death
+  label: ghost seen before death
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A ghost apparition before death functions as a death omen or forewarning
+    of destined death.
+  cautions: If the passage emphasizes vision mechanics rather than fate, dream_and_vision
+    or prophecy_divination may be better; confirm that the apparition predicts death.
+  suggested_aliases:
+  - ghost_seen_before_death
+  - ghost_appearance_as_death_omen
+  - apparition_before_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghost-song-as-first-person-lament
+  motif_id: ghost_song_as_first_person_lament
+  label: Ghost song as first-person lament
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The label centers on a lament voiced by or as a ghost, fitting mourning
+    and grief expression around death.
+  cautions: If the song has ritual power beyond mourning, enchanting_music or ancestor_rites
+    may be secondary mappings.
+  suggested_aliases:
+  - ghost_song_as_first_person_lament
+  - first_person_ghost_lament
+  - lament_song_voiced_by_ghost
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence ghost labels from Native American traditions; retain
+  cultural specificity in evidence notes and avoid broad transmission claims.
+- Several labels combine ghost agency with ritual, marriage, objects, or bodily harm;
+  these should be checked against source passages before being promoted as durable
+  aliases.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement only; culturally specific ghost and mortuary-practice
+    labels need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0199
+  input_sha256: 3365fba4c5b24bca1fb2e42d2f6a0f6f2d9f072a8ad32b43c33361f0e753bd0a
+

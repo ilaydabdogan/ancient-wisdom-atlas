@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1393
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.object-transformation-into-landscape-feature-with-place-name-etiology
+  motif_id: object_transformation_into_landscape_feature_with_place_name_etiology
+  label: object transformation into landscape feature with place-name etiology
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Place-name and landscape etiologies are already grouped under cosmic_origin
+    as origin/formation explanations.
+  cautions: Single occurrence; if the object-transformation is the main function rather
+    than naming/landscape origin, death_and_transformation or sacred_treasures may
+    be secondary.
+  suggested_aliases:
+  - landscape_feature_etiology_from_object_transformation
+  - object_becomes_landscape_feature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obscure-dream-song-concealing-dream-content
+  motif_id: obscure_dream_song_concealing_dream_content
+  label: obscure dream song concealing dream content
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on dream content mediated through song, fitting dreams
+    and altered perception as knowledge-bearing forms.
+  cautions: Also overlaps sacred_song or storytelling_as_power; verify whether concealment
+    is ritual, poetic, or merely an episode-specific detail.
+  suggested_aliases:
+  - dream_song_concealing_revelation
+  - encoded_dream_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obscured-place-name-origin
+  motif_id: obscured_place_name_origin
+  label: Obscured place-name origin
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: Place-name origin labels often fit the existing etiology cluster under
+    cosmic_origin.
+  cautions: The word 'obscured' may indicate missing, uncertain, or editorially unrecoverable
+    explanation rather than a narrative motif; review source evidence before indexing.
+  suggested_aliases:
+  - uncertain_place_name_etiology
+  - obscure_toponymic_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.observable-traits-explain-plant-names
+  motif_id: observable_traits_explain_plant_names
+  label: Observable traits explain plant names
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is an etiological naming pattern explaining names from visible traits,
+    parallel to existing place-name and origin etiologies.
+  cautions: May be too local or taxonomic if it only records folk etymology without
+    mythic action; plant-specificity should be preserved as evidence detail.
+  suggested_aliases:
+  - plant_name_etiology_from_observable_traits
+  - plant_naming_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obtaining-a-named-item
+  motif_id: obtaining_a_named_item
+  label: Obtaining a named item
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A named item could be a power object, treasure, recognition token, gift,
+    or ordinary plot object depending on context.
+  cautions: Too generic from the label alone; do not map to sacred_treasures unless
+    the item has sacred, magical, authoritative, or transformative function.
+  suggested_aliases:
+  - acquisition_of_named_object
+  - obtaining_named_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.occasion-declaring-leader-song
+  motif_id: occasion_declaring_leader_song
+  label: occasion-declaring leader song
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: Song that declares or frames an occasion may function as performative
+    speech or oral ritual transmission.
+  cautions: May be an ethnographic performance-label rather than a reusable motif;
+    if the song ritually binds the occasion, curse_blessing_speech or sacred_time
+    may be relevant.
+  suggested_aliases:
+  - leader_song_declares_occasion
+  - performative_occasion_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.occasion-specific-song-commemorating-exploits
+  motif_id: occasion_specific_song_commemorating_exploits
+  label: Occasion-specific song commemorating exploits
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A commemorative song preserves and transmits deeds through oral narrative
+    performance.
+  cautions: If the emphasis is ritual calendrical performance rather than narrative
+    memory, sacred_time or sacred_exchange could be secondary; single occurrence may
+    remain evidence-level.
+  suggested_aliases:
+  - commemorative_song_of_exploits
+  - song_preserving_exploits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.occupational-name-converted-into-poetic-self-symbol
+  motif_id: occupational_name_converted_into_poetic_self_symbol
+  label: occupational name converted into poetic self-symbol
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: low
+  rationale: In Sufi context, a self-symbol may mark interior identity, renunciation,
+    or mystical self-knowledge.
+  cautions: Could be a poetic/literary artifact rather than a mythic motif; review
+    whether it expresses mystical transformation or only wordplay around a name.
+  suggested_aliases:
+  - occupational_name_as_mystical_self_symbol
+  - poetic_self_symbol_from_occupational_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-magic-worker-counsels-vengeance-against-a-hero
+  motif_id: old_magic_worker_counsels_vengeance_against_a_hero
+  label: old magic-worker counsels vengeance against a hero
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The counsel initiates or directs vengeance against a hero, aligning with
+    heroic conflict and vengeance patterns in sacred_combat.
+  cautions: If the old magic-worker's role as seer or sorcerer is central, prophecy_divination
+    or sacred_knowledge may be secondary; label is episode-specific.
+  suggested_aliases:
+  - magical_counsel_to_avenge_against_hero
+  - vengeance_counsel_against_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-song-accurately-remembered-over-time
+  motif_id: old_song_accurately_remembered_over_time
+  label: Old song accurately remembered over time
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Accurate preservation of an old song fits oral transmission and cultural
+    memory through performed narrative or song.
+  cautions: Could be a transmission/provenance note rather than a motif if it only
+    describes textual reliability; exclude if no narrative or ritual function is present.
+  suggested_aliases:
+  - accurate_memory_of_old_song
+  - song_preserved_across_time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence song, naming, or poetic-performance
+  items; preserve local evidence and avoid promoting them to taxonomy motifs without
+  recurrence.
+- Place-name and naming etiologies generally fit cosmic_origin in the current normalization
+  groups, but unclear or editorially obscured origins need source review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous song/performance
+    and obscured-origin labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1393
+  input_sha256: 44953748725004ce044b9de618f83fc07d01136e7fd8dc45e813b416d4df7339
+

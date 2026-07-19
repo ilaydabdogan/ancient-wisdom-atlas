@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2018
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.victim-cooked-for-her-own-children-to-eat
+  motif_id: victim_cooked_for_her_own_children_to_eat
+  label: victim cooked for her own children to eat
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes extreme familial violence and possible cannibalistic
+    deception, but its narrative function is unclear from the label alone.
+  cautions: Could fit betrayal, trickster deception, violated kinship, taboo food,
+    or an episode-specific atrocity; needs source context before mapping.
+  suggested_aliases:
+  - kin victim cooked for children
+  - familial cannibalistic deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_law
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victorious-warrior-taunts-fallen-enemy-over-desired-land
+  motif_id: victorious_warrior_taunts_fallen_enemy_over_desired_land
+  label: victorious warrior taunts fallen enemy over desired land
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A warrior's taunt over a defeated foe belongs to combat rhetoric and
+    victory behavior.
+  cautions: The desired-land detail may be episode-specific; if the focus is imperial
+    possession or sovereignty, royal_legitimacy may be a secondary review angle.
+  suggested_aliases:
+  - victory taunt over fallen enemy
+  - warrior taunts defeated foe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violation-of-food-prohibition-reveals-the-hidden-person-by-scent
+  motif_id: violation_of_food_prohibition_reveals_the_hidden_person_by_scent
+  label: violation of food prohibition reveals the hidden person by scent
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is discovery of a hidden person through scent connected
+    with food, matching recognition-by-scent patterns.
+  cautions: If the prohibition itself is central, sacred_law may be a secondary mapping;
+    preserve the food-taboo detail as evidence.
+  suggested_aliases:
+  - hidden person revealed by scent
+  - recognition by scent after food taboo violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violent-acquisition-of-a-woman-by-eliminating-her-husband
+  motif_id: violent_acquisition_of_a_woman_by_eliminating_her_husband
+  label: violent acquisition of a woman by eliminating her husband
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sexual or marital coercion, murder, and rivalry, but
+    the dominant motif is not clear.
+  cautions: May be too contextual or ethically sensitive to normalize without evidence;
+    could involve sacred_love, betrayal, sacred_combat, or divine_judgment depending
+    on the passage.
+  suggested_aliases:
+  - wife acquired by killing husband
+  - violent spouse removal for marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - betrayal_violated_trust
+    - divine_judgment
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violent-attempt-to-escape-a-prediction-by-killing-mother-and-newborn
+  motif_id: violent_attempt_to_escape_a_prediction_by_killing_mother_and_newborn
+  label: Violent attempt to escape a prediction by killing mother and newborn
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Threatened mother and newborn due to a prediction fits the threatened
+    sacred or destiny-marked child pattern.
+  cautions: If the prediction and unavoidable outcome dominate, prophecy_divination
+    or death_by_fate may be secondary; do not assume sacred destiny without passage
+    evidence.
+  suggested_aliases:
+  - predicted child threatened at birth
+  - attempt to avert prophecy by killing newborn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.virtuous-child-reconciles-divided-household
+  motif_id: virtuous_child_reconciles_divided_household
+  label: virtuous child reconciles divided household
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A child's virtue restoring household harmony fits ethical social order
+    and filial or familial moral exemplarity.
+  cautions: Could be a didactic tale rather than a mythic motif; if the child is destiny-marked,
+    miraculous_child may be secondary.
+  suggested_aliases:
+  - child restores household harmony
+  - filial child reconciles family
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.virtuous-stepdaughter-persecuted-by-jealous-stepmother
+  motif_id: virtuous_stepdaughter_persecuted_by_jealous_stepmother
+  label: Virtuous stepdaughter persecuted by jealous stepmother
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: alias
+  confidence: high
+  rationale: This is a direct variant of the established jealous stepmother/persecuted
+    child group.
+  cautions: Virtuous stepdaughter specificity should be retained as evidence but need
+    not become its own group.
+  suggested_aliases:
+  - persecuted virtuous stepdaughter
+  - jealous stepmother persecutes stepdaughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visible-injury-as-sign-of-parental-violence
+  motif_id: visible_injury_as_sign_of_parental_violence
+  label: visible injury as sign of parental violence
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A bodily mark revealing family violence is clear, but no current group
+    cleanly covers domestic abuse as motif rather than evidence detail.
+  cautions: May be an episode-specific evidence marker; could relate to recognition
+    tokens, persecuted child, or divine judgment depending on narrative use.
+  suggested_aliases:
+  - injury reveals parental violence
+  - bodily sign of family abuse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - jealous_stepmother_persecuted_child
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.voice-apparently-contained-within-an-object
+  motif_id: voice_apparently_contained_within_an_object
+  label: Voice apparently contained within an object
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: A voice held in or seeming to emerge from an object fits the broader
+    container-of-power complex.
+  cautions: If the object is a crafted animated image, sacred_craft may be better;
+    if the voice is performative speech, curse_blessing_speech or storytelling_as_power
+    may be secondary.
+  suggested_aliases:
+  - voice contained in object
+  - speaking object as container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.volcanic-and-earthquake-etiology-by-imprisoned-giant
+  motif_id: volcanic_and_earthquake_etiology_by_imprisoned_giant
+  label: volcanic and earthquake etiology by imprisoned giant
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explains landscape and natural phenomena through mythic agency,
+    matching etiological origin patterns.
+  cautions: If the imprisoned giant is a chaos monster or defeated divine enemy, divine_warrior
+    or chaos may be relevant secondary mappings; the generated bucket appears mismatched.
+  suggested_aliases:
+  - earthquake etiology by imprisoned giant
+  - volcano etiology by bound giant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch appear mis-bucketed under love_family_gender_body despite
+  combat, etiology, and object-container functions.
+- Single-occurrence, high-specificity labels should generally be preserved as evidence
+  details unless recurrence is demonstrated.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally sensitive
+    family-violence and coercive-marriage labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2018
+  input_sha256: c49bad135132fde127339ce6e29fe50de407962ae2d27d842fe6a57e20205bc8
+

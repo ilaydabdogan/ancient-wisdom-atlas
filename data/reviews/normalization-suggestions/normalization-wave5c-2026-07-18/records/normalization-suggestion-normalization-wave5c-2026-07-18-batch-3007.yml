@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3007
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.repeated-emblem-across-neighboring-textile-traditions
+  motif_id: repeated_emblem_across_neighboring_textile_traditions
+  label: repeated emblem across neighboring textile traditions
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe comparative distribution of a design element
+    across neighboring traditions rather than a narrative or symbolic motif.
+  cautions: If source evidence treats the emblem itself as a sacred object, identity
+    token, or ritual sign, remap to a substantive group; avoid transmission claims
+    here.
+  suggested_aliases:
+  - textile_emblem_distribution
+  - comparative_textile_emblem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-refuge-in-strong-houses
+  motif_id: repeated_refuge_in_strong_houses
+  label: repeated refuge in strong houses
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Refuge in fortified houses could be a protection motif, pursuit episode,
+    household-space motif, or source-specific plot detail.
+  cautions: Current groups lack a general refuge/shelter category; only map to sacred_vessel,
+    sacred_law, or divine_intervention if evidence shows preservation, apotropaic
+    protection, or sacred aid.
+  suggested_aliases:
+  - refuge_in_strong_houses
+  - fortified_house_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.replacement-duty-by-house-possessor
+  motif_id: replacement_duty_by_house_possessor
+  label: Replacement duty by house possessor
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too compressed to know whether this is legal substitution,
+    household ritual obligation, property transfer, or commentary artifact.
+  cautions: Could fit covenant or sacred_law if it is a binding legal duty; exclude
+    if it is merely an administrative or lexical note.
+  suggested_aliases:
+  - house_possessor_replacement_duty
+  - substitution_duty_of_householder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reported-acquisition-of-a-dance-from-a-neighboring-people
+  motif_id: reported_acquisition_of_a_dance_from_a_neighboring_people
+  label: reported acquisition of a dance from a neighboring people
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label records reported cultural acquisition rather than the ritual
+    or mythic function of the dance itself.
+  cautions: Do not use as evidence of transmission in motif queries; if the dance
+    has a sacred origin, healing, initiation, or spirit-contact function, index that
+    function separately.
+  suggested_aliases:
+  - reported_dance_acquisition
+  - dance_acquired_from_neighboring_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reported-invasive-aquatic-parasite-during-bathing
+  motif_id: reported_invasive_aquatic_parasite_during_bathing
+  label: Reported invasive aquatic parasite during bathing
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a danger-of-water episode, body taboo, illness explanation,
+    or ethnographic report rather than a stable motif.
+  cautions: If framed as ritual danger or pollution, sacred_law may fit; if simply
+    a natural hazard report, exclude from pattern queries.
+  suggested_aliases:
+  - aquatic_parasite_during_bathing
+  - bathing_exposes_body_to_aquatic_parasite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.representative-suffering-of-the-household-head
+  motif_id: representative_suffering_of_the_household_head
+  label: Representative suffering of the household head
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: low
+  rationale: Representative suffering can function as substitutionary or vicarious
+    self-offering on behalf of a household.
+  cautions: Low confidence because the label lacks source context; if it is legal
+    responsibility rather than sacred suffering, covenant or sacred_law may be better.
+  suggested_aliases:
+  - vicarious_suffering_of_household_head
+  - household_head_suffers_representatively
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reproductive-condition-as-dangerous-contact-requiring-isolation
+  motif_id: reproductive_condition_as_dangerous_contact_requiring_isolation
+  label: reproductive condition as dangerous contact requiring isolation
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a ritual-purity or taboo rule governing dangerous
+    contact and isolation.
+  cautions: Handle culturally specific reproductive taboos carefully; could be over-specific
+    ethnographic evidence rather than a broad motif.
+  suggested_aliases:
+  - reproductive_taboo_requiring_isolation
+  - dangerous_reproductive_contact
+  - isolation_during_reproductive_condition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-by-canoe-from-island-captivity
+  motif_id: rescue_by_canoe_from_island_captivity
+  label: rescue by canoe from island captivity
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Escape or rescue from captivity by watercraft can function as a return
+    or journey episode.
+  cautions: Highly episode-specific; if the island is an enchanted realm, otherworld
+    may fit, while if water passage is the focus, sacred_waters may be secondary.
+  suggested_aliases:
+  - canoe_rescue_from_island_captivity
+  - island_captivity_escape_by_canoe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-during-bead-gathering-distraction
+  motif_id: rescue_during_bead_gathering_distraction
+  label: Rescue during bead-gathering distraction
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is an overly specific plot mechanism; bead-gathering detail
+    is unlikely to support broad motif queries by itself.
+  cautions: If the broader episode is deceptive distraction, rescue, or magical object
+    gathering, index that broader function rather than this full composite label.
+  suggested_aliases:
+  - rescue_during_distraction
+  - bead_gathering_distraction_enables_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-from-devouring-and-monstrous-threats
+  motif_id: rescue_from_devouring_and_monstrous_threats
+  label: Rescue from devouring and monstrous threats
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a broad rescue from monsters but does not identify whether
+    the key pattern is combat, divine aid, initiation, or threshold danger.
+  cautions: Map to divine_warrior or sacred_combat if monster-defeat is central; to
+    divine_intervention if rescue is by sacred aid; to threshold_guardian if the monster
+    guards a liminal passage.
+  suggested_aliases:
+  - rescue_from_devouring_monster
+  - rescue_from_monstrous_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence, highly contextual labels from
+  the objects/spaces bucket; most need source evidence before stable mapping.
+- Avoid treating labels about neighboring peoples or repeated traditions as transmission
+  evidence; those are better excluded or preserved as provenance notes unless the
+  ritual function is explicit.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple labels require source-context review
+    before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3007
+  input_sha256: 3f920398a6f98bb1df7c5d26aada894a7240ad41c47069362f944e2295a8cb53
+

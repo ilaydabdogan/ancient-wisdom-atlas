@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1163
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.saintly-powers-treated-as-divine-tokens-rather-than-goals
+  motif_id: saintly_powers_treated_as_divine_tokens_rather_than_goals
+  label: Saintly powers treated as divine tokens rather than goals
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label frames supernatural powers as secondary signs within a contemplative
+    path rather than the goal of attainment.
+  cautions: Could also fit sacred_knowledge if the passage emphasizes discernment
+    about powers; single occurrence and doctrinal wording need review.
+  suggested_aliases:
+  - saintly_powers_as_divine_tokens
+  - miraculous_powers_not_spiritual_goal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saintly-rapture-governed-by-ritual-obligation
+  motif_id: saintly_rapture_governed_by_ritual_obligation
+  label: Saintly rapture governed by ritual obligation
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines mystical ecstasy with ritual or legal obligation,
+    crossing mystical_quest and sacred_law without enough passage evidence.
+  cautions: May be a doctrinal or hagiographic commentary artifact rather than a recurring
+    motif; reviewer should determine whether rapture, obligation, or saintly discipline
+    is central.
+  suggested_aliases:
+  - ecstasy_subordinated_to_ritual_obligation
+  - saintly_rapture_under_sacred_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saints-as-friends-and-prot-g-s-of-god
+  motif_id: saints_as_friends_and_prot_g_s_of_god
+  label: saints as friends and protégés of God
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_beloved
+  suggested_group_label: Divine Beloved
+  relationship: role_variant
+  confidence: medium
+  rationale: Saints as intimate friends of God fits the sacred-as-friend/beloved relationship
+    within devotional-mystical transformation.
+  cautions: If the passage emphasizes divine protection or miracles more than intimacy,
+    divine_intervention may be a secondary fit; wording has encoding damage in motif
+    id.
+  suggested_aliases:
+  - saints_as_friends_of_god
+  - friends_of_god
+  - divine_friendship_of_saints
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.salvation-by-divine-favor
+  motif_id: salvation_by_divine_favor
+  label: salvation by divine favor
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Salvation granted by divine favor describes sacred agency directly transforming
+    human fate.
+  cautions: Could also fit mystical_quest if favor enables interior liberation; broad
+    doctrinal phrase should not be over-read as a narrative event.
+  suggested_aliases:
+  - salvation_by_grace
+  - deliverance_by_divine_favor
+  - liberation_by_divine_grace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.salvation-through-divine-word-or-name
+  motif_id: salvation_through_divine_word_or_name
+  label: Salvation through divine word or name
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The divine word or name functions as a performative sacred utterance
+    with salvific power.
+  cautions: Could also be sacred_knowledge when emphasis is on revealed word or recited
+    teaching; preserve Sikh Name theology rather than reducing it to generic magic
+    speech.
+  suggested_aliases:
+  - salvation_by_divine_name
+  - salvation_by_sacred_word
+  - salvific_divine_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.salvation-through-sight-of-a-holy-figure
+  motif_id: salvation_through_sight_of_a_holy_figure
+  label: salvation through sight of a holy figure
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Saving sight of a holy figure resembles darshan-like salvific encounter
+    with sacred presence made visible.
+  cautions: If the figure is a saint or guru rather than direct divine manifestation,
+    sacred_exchange or divine_intervention may be better; culturally specific darshan
+    evidence should be reviewed.
+  suggested_aliases:
+  - salvific_sight_of_holy_figure
+  - saving_darshan_of_holy_figure
+  - liberation_through_sacred_sight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.salvation-through-the-divine-name-rather-than-external-rites
+  motif_id: salvation_through_the_divine_name_rather_than_external_rites
+  label: Salvation through the divine Name rather than external rites
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The salvific Name is a sacred utterance whose power supersedes external
+    ritual performance.
+  cautions: The contrast with rites is doctrinally important; secondary relation to
+    sacred_law or sacred_knowledge may be needed if the passage argues against ritual
+    formalism.
+  suggested_aliases:
+  - divine_name_over_external_rites
+  - salvation_by_name_not_ritual
+  - salvific_name_supersedes_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.salvific-or-privileged-power-of-uttering-the-divine-name
+  motif_id: salvific_or_privileged_power_of_uttering_the_divine_name
+  label: salvific or privileged power of uttering the divine Name
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: alias
+  confidence: high
+  rationale: Uttering the divine Name as salvific power is a clear performative sacred
+    speech motif.
+  cautions: Also relevant to sacred_knowledge if framed as revealed recitation or
+    remembrance practice; avoid flattening Naam/Name theology.
+  suggested_aliases:
+  - power_of_uttering_the_divine_name
+  - salvific_divine_name_utterance
+  - sacred_name_recitation_as_salvation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sanctified-next-of-kin-marriage-as-priestly-law
+  motif_id: sanctified_next_of_kin_marriage_as_priestly_law
+  label: sanctified next-of-kin marriage as priestly law
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label refers to a culturally specific kinship and priestly-law practice
+    that needs source-sensitive review.
+  cautions: Potentially sensitive and doctrinally specific; may belong under sacred_law,
+    sacred_marriage, or be excluded as contextual legal commentary depending on evidence.
+  suggested_aliases:
+  - next_of_kin_marriage_as_sacred_law
+  - priestly_sanctioned_kin_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sanctioned-ritual-striking-with-protected-exceptions
+  motif_id: sanctioned_ritual_striking_with_protected_exceptions
+  label: Sanctioned ritual striking with protected exceptions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a specific ritual action with exceptions, but its
+    function is unclear from wording alone.
+  cautions: Could be sacred_law, initiation, sacrifice, or a local ceremonial rule;
+    culturally sensitive Indigenous ritual context requires human review before grouping.
+  suggested_aliases:
+  - ritual_striking_with_exceptions
+  - sanctioned_ceremonial_striking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Sikh labels cluster around salvific divine Name/word; reviewers may consider
+  a future child or alias under curse_blessing_speech or sacred_knowledge if this
+  recurs across batches.
+- Sufi saintly labels are often doctrinal or hagiographic abstractions; confirm passage-level
+  motif evidence before canonical promotion.
+- Culturally specific ritual-law items should remain provisional until reviewed with
+  source context.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy changes made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1163
+  input_sha256: dd16728c7d6e191b5522fb1e2d07a54901bc0b68a26bc2ad77fd4459e252cc73
+

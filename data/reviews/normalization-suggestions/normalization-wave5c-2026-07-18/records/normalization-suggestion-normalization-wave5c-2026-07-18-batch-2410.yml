@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2410
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.healing-by-stone-infused-water
+  motif_id: healing_by_stone_infused_water
+  label: healing by stone-infused water
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The healing medium is ritually charged water, with the stone detail best
+    preserved as local evidence.
+  cautions: Could also involve sacred_treasures if the stone is the primary power
+    object rather than the water.
+  suggested_aliases:
+  - healing_water_infused_by_stone
+  - stone_charged_healing_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-charm-representing-disease-driving-specialists
+  motif_id: healing_charm_representing_disease_driving_specialists
+  label: Healing charm representing disease-driving specialists
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A healing charm may fit sacred power objects, but the label depends on
+    culturally specific ritual specialists and source context.
+  cautions: Review respectful wording and whether this is a ritual object, ethnographic
+    description, or passage artifact before indexing.
+  suggested_aliases:
+  - healing_charm_against_disease
+  - disease_healing_charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-in-hot-mineral-waters
+  motif_id: healing_in_hot_mineral_waters
+  label: healing in hot mineral waters
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Healing by mineral water belongs with sacred waters as purifier and transformative
+    medium.
+  cautions: If the passage is only a natural hot-spring detail without sacred framing,
+    it may be too contextual for motif queries.
+  suggested_aliases:
+  - healing_hot_springs
+  - healing_mineral_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-powers-extending-across-the-world
+  motif_id: healing_powers_extending_across_the_world
+  label: Healing powers extending across the world
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: World-spanning healing power suggests sacred agency acting across the
+    cosmos, but the label is abstract.
+  cautions: Could be cosmological doctrine, deity attribute, or commentary rather
+    than a narrative motif; source evidence is needed.
+  suggested_aliases:
+  - worldwide_healing_power
+  - cosmic_healing_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-star-invoked-against-harmful-creatures
+  motif_id: healing_star_invoked_against_harmful_creatures
+  label: Healing star invoked against harmful creatures
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A star invoked for protection and healing fits sacred celestial light
+    as a beneficent divine force.
+  cautions: May alternatively fit divine_intervention or sacred_law if the emphasis
+    is invocation or apotropaic rite rather than celestial power.
+  suggested_aliases:
+  - healing_star_invocation
+  - apotropaic_healing_star
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-through-breath-medicine-water-and-touch
+  motif_id: healing_through_breath_medicine_water_and_touch
+  label: Healing through breath, medicine water, and touch
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a ritual healing complex using breath, water, and
+    touch, but no existing group cleanly covers sacred healing practice.
+  cautions: May be culturally specific ritual description; avoid flattening into water
+    or breath symbolism without passage evidence.
+  suggested_aliases:
+  - ritual_healing_by_breath_water_and_touch
+  - medicine_water_touch_healing
+  suggested_new_group:
+    id: sacred_healing
+    label: Sacred Healing and Restorative Power
+    description: Ritual, divine, natural, or object-mediated healing that restores
+      bodily integrity, sight, vitality, or protection from harmful beings through
+      sacred substances, touch, breath, charms, celestial powers, or places.
+    parent_group_ids:
+    - divine_intervention
+    related_group_ids:
+    - sacred_waters
+    - sacred_treasures
+    - sacred_substance
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups contain scattered healing
+      children, but repeated labels about healing media and rites are not well represented
+      by water, object, or intervention groups alone.
+- suggestion_id: normalization.suggestion.healing-through-water-heat-and-scarification
+  motif_id: healing_through_water_heat_and_scarification
+  label: Healing through water, heat, and scarification
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: This appears to be a specific healing rite involving water, heat, and
+    bodily treatment.
+  cautions: Source context is needed to determine whether it is sacred healing, ethnographic
+    medicine, purification, or an over-specific ritual detail.
+  suggested_aliases:
+  - ritual_healing_by_water_heat_and_scarification
+  - healing_water_heat_scarification
+  suggested_new_group:
+    id: sacred_healing
+    label: Sacred Healing and Restorative Power
+    description: Ritual, divine, natural, or object-mediated healing that restores
+      bodily integrity, sight, vitality, or protection from harmful beings through
+      sacred substances, touch, breath, charms, celestial powers, or places.
+    parent_group_ids:
+    - divine_intervention
+    related_group_ids:
+    - sacred_waters
+    - sacred_treasures
+    - sacred_substance
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups do not cleanly represent
+      bodily healing rites that combine several media and techniques.
+- suggestion_id: normalization.suggestion.healing-tree-restores-injury
+  motif_id: healing_tree_restores_injury
+  label: healing tree restores injury
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A tree with restorative power belongs near sacred tree/axis imagery when
+    the tree itself mediates healing power.
+  cautions: If the tree is only a medicinal plant and not sacred or cosmological,
+    sacred_substance or human review may be preferable.
+  suggested_aliases:
+  - healing_tree
+  - restorative_sacred_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-water-from-the-sun
+  motif_id: healing_water_from_the_sun
+  label: healing water from the sun
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The primary healing medium is sacred water, with solar origin adding
+    celestial light symbolism.
+  cautions: Consider secondary relation to sacred_fire if solar power is central;
+    do not treat as flood or passage unless present.
+  suggested_aliases:
+  - solar_healing_water
+  - sun_derived_healing_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-water-restores-sight
+  motif_id: healing_water_restores_sight
+  label: healing water restores sight
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: high
+  rationale: Water directly restores sight, a clear healing function of sacred or
+    magical waters.
+  cautions: Preserve the sight-restoration detail; if the passage emphasizes revelation
+    after restored sight, dream_and_vision may be a secondary relation.
+  suggested_aliases:
+  - sight_restored_by_healing_water
+  - healing_water_cures_blindness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to a recurring sacred-healing complex not cleanly covered by
+  current groups; reviewers may consider a future sacred_healing group if more healing-media
+  labels recur.
+- For single-occurrence ritual healing labels, verify that the passage presents a
+  symbolic or sacred motif rather than practical medicine or ethnographic detail.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific healing rites and specialist
+    terminology require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2410
+  input_sha256: be5368df47bad81f1916e2ed39e8d5009a165e864c1207c2e9ad1323a82ae563
+

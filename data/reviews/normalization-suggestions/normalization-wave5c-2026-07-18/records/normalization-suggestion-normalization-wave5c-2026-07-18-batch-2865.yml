@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2865
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.warrior-suitor-title-pattern
+  motif_id: warrior_suitor_title_pattern
+  label: warrior suitor title pattern
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase reads like a generated title or heading pattern rather than
+    a narrative motif.
+  cautions: If the source passage describes bride-winning through combat or warrior
+    courtship, remap to sacred_love or sacred_combat with evidence.
+  suggested_aliases:
+  - warrior suitor heading pattern
+  - warrior-suitor title formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-valour-recognized-through-expeditions
+  motif_id: warrior_valour_recognized_through_expeditions
+  label: warrior valour recognized through expeditions
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Recognition of warrior valor through expeditions fits heroic martial
+    status and warrior honor patterns.
+  cautions: May be ordinary social recognition rather than sacred combat; verify whether
+    expeditions are mythically or ritually charged.
+  suggested_aliases:
+  - warrior valor recognized through expeditions
+  - heroic valour proven by expeditions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-victory-with-coup-and-captured-regalia
+  motif_id: warrior_victory_with_coup_and_captured_regalia
+  label: Warrior victory with coup and captured regalia
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: low
+  rationale: Counting coup and capturing regalia may be ritually significant warfare,
+    but the cultural specificity requires review.
+  cautions: Do not flatten Plains coup practices into generic combat without source
+    evidence and culturally informed review.
+  suggested_aliases:
+  - coup victory with captured regalia
+  - counting coup and capturing regalia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-vocation-formed-by-slain-kin-and-revenge
+  motif_id: warrior_vocation_formed_by_slain_kin_and_revenge
+  label: Warrior vocation formed by slain kin and revenge
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A slain kinsperson motivating revenge and warrior identity fits combat
+    driven by vengeance obligations.
+  cautions: Could also belong with lament_and_mourning if grief formation is primary,
+    or covenant/sacred_law if revenge duty is legalized.
+  suggested_aliases:
+  - revenge for slain kin forms warrior vocation
+  - warrior calling through kin vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-who-answers-a-challenge-or-call
+  motif_id: warrior_who_answers_a_challenge_or_call
+  label: warrior who answers a challenge or call
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior answering a challenge is a conventional combat-initiation pattern
+    within sacred or heroic warfare.
+  cautions: If the call is divine or initiatory rather than martial, divine_call or
+    initiation may be better secondary mappings.
+  suggested_aliases:
+  - warrior answers challenge
+  - warrior responds to martial call
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-woman-defending-brothers
+  motif_id: warrior_woman_defending_brothers
+  label: warrior woman defending brothers
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A female warrior defending kin fits heroic martial role and sacred combat
+    complexes.
+  cautions: May also involve sibling_pair or kinship protection; avoid reducing gendered
+    role specificity if recurrent.
+  suggested_aliases:
+  - female warrior defending brothers
+  - shield-maiden defends brothers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-women-allied-to-valkyries
+  motif_id: warrior_women_allied_to_valkyries
+  label: warrior-women allied to Valkyries
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: Valkyrie alliance suggests supernatural martial agency, but the exact
+    role depends on Norse source context.
+  cautions: Could be personage classification, supernatural death-selection, battle
+    aid, or heroic identity; needs source evidence before broad indexing.
+  suggested_aliases:
+  - warrior women allied with Valkyries
+  - valkyrie-allied warrior women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warriors-inspired-by-an-absent-hero-s-reputation
+  motif_id: warriors_inspired_by_an_absent_hero_s_reputation
+  label: warriors inspired by an absent hero's reputation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motivating force of an absent hero's fame belongs with heroic martial
+    honor and battle morale.
+  cautions: If emphasis is memorial fame rather than combat action, heroic_funeral_rites
+    or storytelling_as_power may be relevant.
+  suggested_aliases:
+  - absent hero's reputation inspires warriors
+  - heroic reputation inspires warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warriors-swarm-from-dwellings-like-stinging-insects
+  motif_id: warriors_swarm_from_dwellings_like_stinging_insects
+  label: warriors swarm from dwellings like stinging insects
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a vivid battle simile rather than a reusable mythic
+    motif.
+  cautions: If the passage describes actual insect transformation or divinely generated
+    warriors, review for shapeshifter or divine_intervention instead.
+  suggested_aliases:
+  - warriors swarm like stinging insects
+  - insect simile for emerging warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warriors-unable-to-move-a-plough
+  motif_id: warriors_unable_to_move_a_plough
+  label: Warriors unable to move a plough
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate a strength ordeal, sacred agricultural object,
+    humiliation of warriors, or passage-specific detail.
+  cautions: Source context is required before mapping to sacred_combat, initiation,
+    sacred_treasures, or excluding as over-specific.
+  suggested_aliases:
+  - warriors fail to move a plough
+  - plough strength ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence martial micro-motifs; preserve local evidence
+  but avoid promoting them without recurrence.
+- For culturally specific Plains and Great Lakes material, human review should verify
+  whether generated wording reflects source categories accurately.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft suggestions generated for taxonomy review; culturally specific and
+    over-specific martial labels require source checking.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2865
+  input_sha256: 1cb0ce74da3085bef10a562d1dbc30a037dd0cc483aa64e576e5f6f2a20a54b1
+

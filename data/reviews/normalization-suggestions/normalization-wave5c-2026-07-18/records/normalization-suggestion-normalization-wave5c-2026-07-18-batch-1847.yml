@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1847
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.foretold-woman-spared-in-raid-and-taken-as-wife
+  motif_id: foretold_woman_spared_in_raid_and_taken_as_wife
+  label: Foretold woman spared in raid and taken as wife
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines foretelling, raid violence, spared captive, and marriage; placement
+    depends on whether prophecy, warfare, captivity, or marriage drives the passage.
+  cautions: Culturally sensitive captive-marriage context and single occurrence; avoid
+    normalizing as sacred_love without evidence of consent or love function.
+  suggested_aliases:
+  - foretold_captive_spared_and_married
+  - woman_spared_in_raid_and_taken_as_wife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - sacred_combat
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forewarning-of-an-unlucky-marriage
+  motif_id: forewarning_of_an_unlucky_marriage
+  label: forewarning of an unlucky marriage
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A forewarning about a future marriage is primarily a predictive omen
+    or prophecy concerning marital fate.
+  cautions: If the evidence is a spontaneous dream or vision, dream_and_vision may
+    be a better secondary mapping; if the emphasis is tragic love, consider sacred_love.
+  suggested_aliases:
+  - omen_of_unlucky_marriage
+  - prophetic_warning_of_bad_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forfeiture-as-correction-for-excess-desire
+  motif_id: forfeiture_as_correction_for_excess_desire
+  label: forfeiture as correction for excess desire
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Loss or forfeiture correcting excessive desire fits moral consequence
+    and ethical reckoning.
+  cautions: May be a Buddhist ethical teaching rather than divine judgment; sacred_law,
+    mystical_quest, or pride_and_downfall may fit better if renunciation or craving
+    is central.
+  suggested_aliases:
+  - loss_as_correction_for_excess_desire
+  - forfeiture_punishes_excess_desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forgetfulness-before-rebirth
+  motif_id: forgetfulness_before_rebirth
+  label: Forgetfulness before rebirth
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Forgetting before rebirth is a specific postmortem transition into a
+    renewed life state.
+  cautions: If the passage maps the soul's route through the afterlife, afterlife_passage
+    should be a strong secondary mapping; preserve the forgetfulness detail.
+  suggested_aliases:
+  - pre_rebirth_forgetting
+  - forgetting_prior_to_reincarnation
+  - forgetfulness_before_reincarnation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-bride-price-or-marriage-purchase
+  motif_id: formal_bride_price_or_marriage_purchase
+  label: Formal bride-price or marriage purchase
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Bride-price may be a social exchange or marriage custom, but the motif
+    function is unclear from the label alone.
+  cautions: Culturally sensitive kinship and marriage-exchange terminology; avoid
+    treating as sacred_exchange unless the passage frames it as reciprocal obligation
+    or ritual bond.
+  suggested_aliases:
+  - bride_price
+  - marriage_purchase
+  - formal_marriage_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.former-birth-identity-revealed
+  motif_id: former_birth_identity_revealed
+  label: former-birth identity revealed
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: alias
+  confidence: high
+  rationale: Existing aliases already route former-birth or past-life identity revelation
+    into death_and_transformation.
+  cautions: If the passage is a Jataka frame device, preserve that as evidence detail
+    and avoid overclaiming a general rebirth doctrine from the label alone.
+  suggested_aliases:
+  - former_birth_identification_of_present_figures
+  - past_life_identity_revealed
+  - past_life_identification_of_present_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.former-birth-revealed-as-moral-exemplum
+  motif_id: former_birth_revealed_as_moral_exemplum
+  label: Former birth revealed as moral exemplum
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The former-birth revelation belongs to the rebirth/past-life identity
+    complex, with moral exemplum as its teaching function.
+  cautions: Could also support sacred_knowledge or divine_judgment if the passage
+    emphasizes instruction or karmic moral reckoning more than identity continuity.
+  suggested_aliases:
+  - past_life_revealed_as_moral_exemplum
+  - former_birth_moral_exemplum
+  - past_life_identity_revelation_as_teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.former-persons-transformed-into-natural-beings-and-phenomena
+  motif_id: former_persons_transformed_into_natural_beings_and_phenomena
+  label: Former persons transformed into natural beings and phenomena
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: broader_label
+  confidence: medium
+  rationale: Humans becoming natural beings or phenomena is a transformation/metamorphosis
+    pattern.
+  cautions: If the transformation occurs after death, death_and_transformation may
+    be preferable; if it explains origins of landscape or species, cosmic_origin may
+    be relevant.
+  suggested_aliases:
+  - humans_transformed_into_natural_phenomena
+  - former_people_become_natural_beings
+  - persons_transformed_into_nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formulaic-presentation-of-a-daughter-to-an-elite-household
+  motif_id: formulaic_presentation_of_a_daughter_to_an_elite_household
+  label: formulaic presentation of a daughter to an elite household
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The word formulaic suggests a textual or rhetorical presentation pattern
+    rather than a reusable symbolic motif.
+  cautions: If passage evidence shows a ritual marriage or kinship-transfer practice,
+    review under sacred_law or sacred_exchange instead of excluding.
+  suggested_aliases:
+  - formulaic_daughter_presentation
+  - daughter_presented_to_elite_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forsaken-royal-wife-lament
+  motif_id: forsaken_royal_wife_lament
+  label: forsaken royal wife lament
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on lament by an abandoned wife, a grief and loss expression
+    with royal context as specification.
+  cautions: If the passage emphasizes court hierarchy, succession, or legitimacy,
+    royal_legitimacy may be a secondary mapping; if it is a conventional poetic voice,
+    consider textual artifact review.
+  suggested_aliases:
+  - abandoned_royal_wife_lament
+  - forsaken_wife_lament
+  - royal_wife_laments_abandonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several love_family_gender_body labels are actually prophecy, rebirth, lament, or
+  social-exchange motifs; do not infer romantic love solely from marriage or wife/daughter
+  wording.
+- Single-occurrence culturally specific marriage and captive-wife labels should receive
+  human review before broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally sensitive
+    kinship, captive marriage, and formulaic textual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1847
+  input_sha256: 8e7f8f0b8e78fb2408ad2ad81681c791fa52650c3feb353f20f7b518ce7c8bf5
+

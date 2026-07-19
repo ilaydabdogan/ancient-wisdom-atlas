@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2361
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.earth-resting-on-the-turtle-s-back
+  motif_id: earth_resting_on_the_turtle_s_back
+  label: Earth resting on the Turtle's back
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Earth Bearer and World Support
+  relationship: child
+  confidence: medium
+  rationale: The motif is a cosmogonic world-support image not well captured by axis_mundi,
+    cosmic_origin, or sacred_animal groups as currently defined.
+  cautions: Culturally specific Turtle Island traditions should not be flattened into
+    generic animal symbolism; human review should preserve local meaning.
+  suggested_aliases:
+  - world turtle
+  - earth on turtle back
+  - cosmic turtle support
+  suggested_new_group:
+    id: earth_bearer_world_support
+    label: Earth Bearer and World Support
+    description: The earth, land, or world is physically held, carried, stabilized,
+      or supported by an animal, giant, web, fastenings, pillars, or other cosmic
+      bearer, sometimes explaining stability or earthquakes.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - axis_mundi
+    - sacred_craft
+    reason_existing_groups_insufficient: Existing cosmic_origin covers emergence and
+      separation, while axis_mundi covers vertical connection; neither directly captures
+      recurring earth-support or world-bearing structures and beings.
+- suggestion_id: normalization.suggestion.earth-stabilized-by-web-and-directional-fastenings
+  motif_id: earth_stabilized_by_web_and_directional_fastenings
+  label: earth stabilized by web and directional fastenings
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Earth Bearer and World Support
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a mechanism by which the earth is fastened or stabilized,
+    fitting a world-support complex.
+  cautions: May also involve sacred directions, weaving, or spider/web symbolism;
+    review source evidence before reducing it to mechanical support.
+  suggested_aliases:
+  - earth fastened by web
+  - directional fastenings of earth
+  - web stabilizes earth
+  suggested_new_group:
+    id: earth_bearer_world_support
+    label: Earth Bearer and World Support
+    description: The earth, land, or world is physically held, carried, stabilized,
+      or supported by an animal, giant, web, fastenings, pillars, or other cosmic
+      bearer, sometimes explaining stability or earthquakes.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - axis_mundi
+    - sacred_craft
+    - fate_figures_cosmic_weaving
+    reason_existing_groups_insufficient: Existing groups do not clearly cover horizontal
+      or directional stabilization of the world; cosmic_origin is too broad and fate/weaving
+      would overstate the destiny aspect.
+- suggestion_id: normalization.suggestion.earth-supporting-beings-as-earthquake-explanation
+  motif_id: earth_supporting_beings_as_earthquake_explanation
+  label: earth-supporting beings as earthquake explanation
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Earth Bearer and World Support
+  relationship: functional_variant
+  confidence: medium
+  rationale: Earthquakes caused by beings supporting the earth are a clear world-support
+    etiology.
+  cautions: Could be an etiological explanation rather than a narrative motif; retain
+    local identity of the supporting beings if present.
+  suggested_aliases:
+  - earthquake from earth bearer movement
+  - earth supporting beings cause earthquakes
+  - world supporters cause earthquakes
+  suggested_new_group:
+    id: earth_bearer_world_support
+    label: Earth Bearer and World Support
+    description: The earth, land, or world is physically held, carried, stabilized,
+      or supported by an animal, giant, web, fastenings, pillars, or other cosmic
+      bearer, sometimes explaining stability or earthquakes.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - axis_mundi
+    reason_existing_groups_insufficient: Cosmic_origin contains etiologies but not
+      a focused support-bearing pattern; divine_intervention would overstate agency
+      without evidence of divine action.
+- suggestion_id: normalization.suggestion.earth-supporting-giant-whose-movements-cause-earthquakes
+  motif_id: earth_supporting_giant_whose_movements_cause_earthquakes
+  label: Earth-supporting giant whose movements cause earthquakes
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Earth Bearer and World Support
+  relationship: child
+  confidence: medium
+  rationale: A giant bearing the earth and producing earthquakes by movement is a
+    specific variant of world-support cosmology.
+  cautions: Do not merge with divine_warrior or chaos monster unless the giant’s role
+    is adversarial or combat-centered in the source.
+  suggested_aliases:
+  - earth-bearing giant
+  - world-supporting giant
+  - giant causes earthquakes by movement
+  suggested_new_group:
+    id: earth_bearer_world_support
+    label: Earth Bearer and World Support
+    description: The earth, land, or world is physically held, carried, stabilized,
+      or supported by an animal, giant, web, fastenings, pillars, or other cosmic
+      bearer, sometimes explaining stability or earthquakes.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - axis_mundi
+    reason_existing_groups_insufficient: No existing group directly covers beings
+      whose supporting bodies explain world stability or seismic motion.
+- suggestion_id: normalization.suggestion.earth-swallowing-a-transgressor
+  motif_id: earth_swallowing_a_transgressor
+  label: earth swallowing a transgressor
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: The earth acts as the medium of punishment for moral transgression, matching
+    sacred judgment and reckoning.
+  cautions: If the passage emphasizes chthonic descent or karmic cosmography, secondary
+    review under descent or death_and_transformation may be useful.
+  suggested_aliases:
+  - earth swallows sinner
+  - ground opens beneath transgressor
+  - earthly punishment of wrongdoer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.earth-swallows-wrongdoers
+  motif_id: earth_swallows_wrongdoers
+  label: earth swallows wrongdoers
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: alias
+  confidence: high
+  rationale: This is essentially the plural/general form of earth swallowing a transgressor
+    as punishment.
+  cautions: Preserve whether the judgment is karmic, divine, or cosmological in source
+    notes.
+  suggested_aliases:
+  - earth swallowing a transgressor
+  - earth swallows sinners
+  - ground swallows wrongdoers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.earth-witness-vindication-before-the-adversary
+  motif_id: earth_witness_vindication_before_the_adversary
+  label: Earth-witness vindication before the adversary
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The earth serves as witness in a contest of truth, producing vindication
+    against an adversary, a judgment function.
+  cautions: This is culturally specific Buddhist earth-witness imagery; consider whether
+    a broader cosmic_witness or performative gesture grouping is needed if many parallels
+    recur.
+  suggested_aliases:
+  - earth as witness
+  - earth witness vindication
+  - calling the earth to witness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.earthborn-civic-guardians
+  motif_id: earthborn_civic_guardians
+  label: Earthborn civic guardians
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Earthborn guardians often legitimate civic identity, autochthony, and
+    protected political order.
+  cautions: If the source emphasizes origin from earth more than civic order, cosmic_origin
+    or a future autochthony group may fit better.
+  suggested_aliases:
+  - autochthonous civic guardians
+  - earth-born city protectors
+  - earthborn guardians of the polis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.earthly-fire-used-to-rekindle-or-preserve-celestial-light
+  motif_id: earthly_fire_used_to_rekindle_or_preserve_celestial_light
+  label: Earthly fire used to rekindle or preserve celestial light
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label centers on fire mediating between earthly ritual action and
+    celestial light, matching sacred fire/divine light.
+  cautions: Comparative label may be synthetic; verify there is passage evidence rather
+    than only scholarly comparison.
+  suggested_aliases:
+  - earthly fire preserves celestial light
+  - ritual fire rekindles heavenly light
+  - fire mediates celestial light
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.earthly-garden-joy-preferred-to-paradise
+  motif_id: earthly_garden_joy_preferred_to_paradise
+  label: earthly garden joy preferred to Paradise
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could express sacred love, mystical preference for present
+    beauty, critique of reward, or a poetic passage-specific theme.
+  cautions: Sufi poetic context is needed; do not map to otherworld or sacred_love
+    solely from garden/paradise wording.
+  suggested_aliases:
+  - earthly garden preferred to paradise
+  - garden joy over paradise
+  - present garden bliss over heaven
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several earth-support motifs likely justify a candidate group for world-bearing
+  or earth-stabilizing cosmology, but local cultural meanings should be preserved.
+- Earth-as-witness and earth-swallowing labels are not simply nature motifs; their
+  narrative functions are judgment and vindication.
+- Avoid treating broad cosmic placement as evidence of transmission or shared origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for wave5c batch 2361; earth-support
+    candidate requires human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2361
+  input_sha256: 3d7304800228cd13a05c6fbb1533f4d6630c8ac518edf6a1caeb13378bcda38d
+

@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0877
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.household-god-image-in-protective-wrapping
+  motif_id: household_god_image_in_protective_wrapping
+  label: household god image in protective wrapping
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: A protected household divine image may function as a sacred power object
+    or cult object requiring ritual handling.
+  cautions: Single occurrence and culturally specific; could instead belong under
+    sacred_law, sacred_craft, divine_intervention, or be an ethnographic object detail
+    rather than a motif.
+  suggested_aliases:
+  - wrapped_household_god_image
+  - protected_household_cult_image
+  - ritually_wrapped_divine_image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-agency-subordinated-to-divine-will
+  motif_id: human_agency_subordinated_to_divine_will
+  label: human agency subordinated to divine will
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on divine will directing or overriding human action,
+    fitting divine action in human affairs.
+  cautions: Abstract theological wording may be a doctrinal theme rather than a narrative
+    motif; sacred_law or supreme_ruler may fit if the passage stresses obedience or
+    sovereignty.
+  suggested_aliases:
+  - human_action_under_divine_will
+  - human_agency_subject_to_divine_will
+  - divine_will_over_human_agency
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-agent-as-divine-instrument
+  motif_id: human_agent_as_divine_instrument
+  label: Human agent as divine instrument
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: The existing divine_intervention group includes instrument_of_divine_action,
+    matching a human agent acting as the means of sacred will.
+  cautions: In Sufi context this may also express annihilation_union if agency dissolves
+    in divine action; review passage emphasis.
+  suggested_aliases:
+  - human_instrument_of_divine_action
+  - person_as_instrument_of_divine_will
+  - human_agent_of_sacred_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-alienation-from-the-divine-cosmos
+  motif_id: human_alienation_from_the_divine_cosmos
+  label: Human alienation from the divine Cosmos
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: Alienation from divine cosmic order often motivates the interior quest
+    for restored knowledge, unity, or liberation.
+  cautions: Could be philosophical commentary rather than a motif; if the evidence
+    stresses cosmic structure rather than quest, sacred_knowledge or cosmic_origin
+    may be better.
+  suggested_aliases:
+  - alienation_from_divine_cosmos
+  - human_separation_from_cosmic_divinity
+  - estrangement_from_divine_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-and-divine-adornment-of-the-land-for-a-saint-s-funeral
+  motif_id: human_and_divine_adornment_of_the_land_for_a_saint_s_funeral
+  label: human and divine adornment of the land for a saint's funeral
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes communal and divine honors surrounding a sacred person's
+    funeral, fitting funerary memorialization.
+  cautions: Saint-specific and landscape-adornment details should remain evidence
+    notes; if divine response is central, divine_intervention may be a secondary mapping.
+  suggested_aliases:
+  - divine_adornment_for_saintly_funeral
+  - land_adorned_for_sacred_funeral
+  - funeral_honors_for_a_saint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-coercion-of-supernatural-agents-before-divine-hierarchy
+  motif_id: human_coercion_of_supernatural_agents_before_divine_hierarchy
+  label: Human coercion of supernatural agents before divine hierarchy
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Coercing supernatural agents resembles ritual negotiation or exchange
+    with sacred powers, and the taxonomy already has a rainmaking coercion child under
+    sacred_exchange.
+  cautions: Comparative and abstract label; may be commentary rather than passage
+    motif. Terms and hierarchy assumptions need source review before indexing.
+  suggested_aliases:
+  - ritual_coercion_of_supernatural_agents
+  - human_coercion_before_divine_hierarchy
+  - coercive_ritual_address_to_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-divine-equivalence-and-reversal
+  motif_id: human_divine_equivalence_and_reversal
+  label: human-divine equivalence and reversal
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: annihilation_union
+  suggested_group_label: Annihilation And Union
+  relationship: uncertain
+  confidence: low
+  rationale: Human-divine equivalence may involve mystical union or dissolved separateness,
+    but reversal adds ambiguity.
+  cautions: Hermetic philosophical abstraction may not be a narrative motif; could
+    fit mystical_quest, sacred_knowledge, theophany, or royal/deification patterns
+    depending on evidence.
+  suggested_aliases:
+  - human_divine_reversal
+  - equivalence_of_human_and_divine
+  - human_divine_inversion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-divine-shared-being
+  motif_id: human_divine_shared_being
+  label: Human-divine shared being
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: annihilation_union
+  suggested_group_label: Annihilation And Union
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Shared human-divine being fits the dissolution of separateness in a larger
+    sacred reality.
+  cautions: If the passage stresses knowledge of the divine nature rather than union,
+    sacred_knowledge or mystical_quest may be better; avoid overreading doctrinal
+    metaphysics as narrative action.
+  suggested_aliases:
+  - shared_being_of_human_and_divine
+  - human_divine_participation
+  - participation_in_divine_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-encounter-with-water-sprite
+  motif_id: human_encounter_with_water_sprite
+  label: human encounter with water-sprite
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: A water-sprite encounter may indicate contact with an enchanted or nonordinary
+    being adjacent to ordinary reality.
+  cautions: 'Too generic without function: could be threshold_guardian, sacred_waters,
+    divine_intervention, trickster, or a simple character encounter. Source context
+    is required.'
+  suggested_aliases:
+  - encounter_with_water_spirit
+  - human_meets_water_sprite
+  - water_spirit_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-fluctuation-under-divine-order
+  motif_id: human_fluctuation_under_divine_order
+  label: Human fluctuation under divine order
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Human change or instability framed under divine order fits cosmic sovereignty
+    and divine governance.
+  cautions: Abstract doctrinal theme; if the passage stresses moral discipline or
+    judgment, sacred_law or divine_judgment may be preferable.
+  suggested_aliases:
+  - human_variability_under_divine_order
+  - human_change_under_divine_sovereignty
+  - human_fluctuation_under_cosmic_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are abstract theological or philosophical formulations
+  with single occurrences; human review should confirm they are passage motifs rather
+  than commentary themes.
+- No transmission, borrowing, or common-origin claims are implied by these placement
+  suggestions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific ritual-object
+    and spirit-encounter labels require source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0877
+  input_sha256: 2f38f503c1247e1c3f98f47c7d755d2c93b39b2c5b2c630138dc11a868a9e4fd
+

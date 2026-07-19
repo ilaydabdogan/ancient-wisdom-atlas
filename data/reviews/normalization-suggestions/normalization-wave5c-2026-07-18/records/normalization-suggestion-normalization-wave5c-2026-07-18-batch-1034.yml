@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1034
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-endurance-and-dangerous-feat
+  motif_id: ritual_endurance_and_dangerous_feat
+  label: ritual endurance and dangerous feat
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: low
+  rationale: A dangerous ritual feat may function as a transformative ordeal or status
+    test.
+  cautions: Single occurrence; source evidence is needed to distinguish initiation,
+    sacrifice, ordeal display, or culturally specific ritual practice.
+  suggested_aliases:
+  - ritual ordeal feat
+  - dangerous ritual endurance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-endurance-without-visible-reaction
+  motif_id: ritual_endurance_without_visible_reaction
+  label: ritual endurance without visible reaction
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: low
+  rationale: Enduring pain or danger without reaction can mark ordeal, discipline,
+    or ritual status.
+  cautions: May be an ethnographic detail or culturally specific ritual performance;
+    avoid flattening into generic initiation without passage context.
+  suggested_aliases:
+  - stoic ritual endurance
+  - ritual pain endurance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-epiphany-of-a-personified-sacred-substance
+  motif_id: ritual_epiphany_of_a_personified_sacred_substance
+  label: ritual epiphany of a personified sacred substance
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on a sacred substance appearing as a personified ritual
+    power.
+  cautions: If the passage emphasizes direct divine manifestation more than substance
+    symbolism, theophany may be an important secondary mapping.
+  suggested_aliases:
+  - personified sacred substance
+  - sacred substance epiphany
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-exception-for-restored-concord
+  motif_id: ritual_exception_for_restored_concord
+  label: Ritual exception for restored concord
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual rule exception made to restore concord fits sacred law as regulated
+    social order.
+  cautions: May also involve covenant or monastic discipline; verify that the exception
+    is ritual/legal rather than a one-off narrative accommodation.
+  suggested_aliases:
+  - ritual exception restoring concord
+  - ritual rule exception for harmony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-exchange-restrains-excess-at-the-feast
+  motif_id: ritual_exchange_restrains_excess_at_the_feast
+  label: ritual exchange restrains excess at the feast
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif frames ritualized exchange as regulating feast behavior and
+    reciprocal order.
+  cautions: Could also be sacred_law if the emphasis is ethical moderation or ritual
+    propriety rather than exchange.
+  suggested_aliases:
+  - ritual feast exchange restraining excess
+  - reciprocal ritual restraint at feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-exclusion-after-purification
+  motif_id: ritual_exclusion_after_purification
+  label: ritual exclusion after purification
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purification followed by exclusion is a ritual purity and boundary rule.
+  cautions: If exclusion expels impurity or harmful spirits, sacrifice/ritual_expulsion
+    may be a secondary mapping.
+  suggested_aliases:
+  - post-purification ritual exclusion
+  - purity-based ritual exclusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-exclusion-and-symbolic-punishment-of-a-female-slave
+  motif_id: ritual_exclusion_and_symbolic_punishment_of_a_female_slave
+  label: ritual exclusion and symbolic punishment of a female slave
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests ritualized exclusion and punishment within a socially
+    regulated sacred order.
+  cautions: Culturally and socially sensitive; may be over-specific to a ritual role,
+    status category, or passage detail. Human review should preserve context and avoid
+    broad patterning from the enslaved-person detail alone.
+  suggested_aliases:
+  - ritual exclusion with symbolic punishment
+  - status-based ritual exclusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-exclusion-explained-by-mythic-event
+  motif_id: ritual_exclusion_explained_by_mythic_event
+  label: ritual exclusion explained by mythic event
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual exclusion grounded in mythic precedent functions as sacred law
+    or taboo etiology.
+  cautions: If the passage mainly explains origins, cosmic_origin/etiology may be
+    secondary; verify the exclusion itself is the motif, not just commentary.
+  suggested_aliases:
+  - mythic etiology of ritual exclusion
+  - ritual taboo explained by myth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-exclusion-for-failure-to-provide-offering
+  motif_id: ritual_exclusion_for_failure_to_provide_offering
+  label: Ritual exclusion for failure to provide offering
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Exclusion for not providing an offering centers on failed ritual reciprocity.
+  cautions: Could also map to sacred_law if framed as enforcement of ritual rule rather
+    than exchange failure.
+  suggested_aliases:
+  - exclusion for failed offering
+  - ritual sanction for withholding offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-exclusion-from-communal-recitation
+  motif_id: ritual_exclusion_from_communal_recitation
+  label: Ritual exclusion from communal recitation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Exclusion from communal recitation is a ritual-disciplinary boundary
+    within sacred order.
+  cautions: If the recitation itself is transformative or revelatory, sacred_knowledge
+    may be secondary; verify whether exclusion is doctrinal discipline or passage-specific
+    detail.
+  suggested_aliases:
+  - exclusion from ritual recitation
+  - communal recitation exclusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence ritual-rule details; suggested placements should
+  be treated as provisional and evidence-dependent.
+- For exclusion motifs, distinguish ritual law, failed exchange, expulsion/purification,
+  and passage-specific social status details before adding durable aliases.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for culturally
+    specific ritual-endurance and status-based exclusion labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1034
+  input_sha256: 11d822381dfd90efc8558f70458e05eeba50762a0eba08bd469a127e631b8d6b
+

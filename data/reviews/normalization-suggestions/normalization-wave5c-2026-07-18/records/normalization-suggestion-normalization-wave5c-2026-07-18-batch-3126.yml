@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3126
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.adapted-or-de-christianised-heaven-ideal
+  motif_id: adapted_or_de_christianised_heaven_ideal
+  label: Adapted or de-Christianised Heaven ideal
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes adaptation or interpretive de-Christianisation of
+    an idea rather than a narrative motif.
+  cautions: If the source passage describes an actual paradisal realm, map the underlying
+    imagery to otherworld or afterlife_passage instead.
+  suggested_aliases:
+  - de_christianised_heaven_ideal
+  - adapted_heaven_ideal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adaptive-correction-of-material-failures
+  motif_id: adaptive_correction_of_material_failures
+  label: Adaptive correction of material failures
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is abstract and could be practical craft, ethical adaptation,
+    or a passage-specific comment.
+  cautions: Do not map to sacred_craft unless the passage presents correction or making
+    as ritually or supernaturally significant.
+  suggested_aliases:
+  - correction_of_material_failures
+  - adaptive_material_repair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adaptive-regard-for-others
+  motif_id: adaptive_regard_for_others
+  label: Adaptive regard for others
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a broad ethical or psychological abstraction rather
+    than a clear recurring motif.
+  cautions: May fit sacred_law, covenant, sacred_exchange, or wisdom depending on
+    whether the evidence is command, reciprocity, compassion, or teaching.
+  suggested_aliases:
+  - adaptive_concern_for_others
+  - practical_regard_for_others
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adaptive-shelter-construction-from-local-materials
+  motif_id: adaptive_shelter_construction_from_local_materials
+  label: Adaptive shelter construction from local materials
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be practical subsistence detail rather than a symbolic or ritual
+    motif.
+  cautions: Only map to sacred_craft if construction is framed as sacred, culture-founding,
+    divinely aided, or ritually charged.
+  suggested_aliases:
+  - shelter_construction_from_local_materials
+  - adaptive_local_material_shelter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.addressing-game-so-it-will-not-flee
+  motif_id: addressing_game_so_it_will_not_flee
+  label: addressing game so it will not flee
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Addressing hunted animals suggests ritualized reciprocity or speech protocol
+    between humans and animal powers.
+  cautions: Review source context carefully; it may also involve animal-personhood,
+    hunting taboo, or practical hunting speech rather than exchange.
+  suggested_aliases:
+  - ritual_address_to_game
+  - addressing_hunted_animals_to_prevent_flight
+  - hunting_speech_to_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adjustable-selvage-width-control
+  motif_id: adjustable_selvage_width_control
+  label: adjustable selvage-width control
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label appears to describe a technical weaving feature rather than
+    a mythic, ritual, or symbolic motif.
+  cautions: If the passage explicitly treats weaving technique as sacred craft or
+    cosmological pattern, preserve that evidence separately under sacred_craft or
+    fate_figures_cosmic_weaving.
+  suggested_aliases:
+  - selvage_width_control
+  - adjustable_weaving_selvage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.administrative-prohibition-redirecting-communal-practice
+  motif_id: administrative_prohibition_redirecting_communal_practice
+  label: administrative prohibition redirecting communal practice
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe social administration or ethnographic history
+    rather than sacred law as motif.
+  cautions: Map to sacred_law only if the prohibition is religiously sanctioned, taboo-like,
+    or ritually consequential; otherwise exclude as contextual artifact.
+  suggested_aliases:
+  - communal_practice_redirected_by_prohibition
+  - administrative_ban_on_communal_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adopted-survivor-from-another-people
+  motif_id: adopted_survivor_from_another_people
+  label: Adopted survivor from another people
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: low
+  rationale: A survivor adopted into another people may function as remnant survival
+    and social reconstitution after catastrophe or conflict.
+  cautions: If no catastrophe or renewal is present, this may instead be kinship incorporation,
+    origin history, or a passage-specific detail needing human review.
+  suggested_aliases:
+  - survivor_adopted_by_another_people
+  - adopted_foreign_survivor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-and-betrothal-linked-fosterage
+  motif_id: adoption_and_betrothal_linked_fosterage
+  label: adoption and betrothal-linked fosterage
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a kinship and marriage-institution label without enough evidence
+    of sacred or narrative function.
+  cautions: Could relate to sacred_love, covenant, or sacred_law if the passage frames
+    fosterage and betrothal as binding ritual obligations.
+  suggested_aliases:
+  - betrothal_linked_fosterage
+  - adoption_linked_to_betrothal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-by-a-nonhuman-chief
+  motif_id: adoption_by_a_nonhuman_chief
+  label: Adoption by a nonhuman chief
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Adoption by a nonhuman chief suggests incorporation into a nonhuman or
+    enchanted social order.
+  cautions: Could instead involve divine_intervention, animal helpers, or initiation
+    depending on whether the nonhuman chief is spirit, animal, deity, or otherworld
+    ruler.
+  suggested_aliases:
+  - nonhuman_chief_adopts_human
+  - adoption_into_nonhuman_society
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and abstract; human review should
+  confirm whether they are motifs or ethnographic/commentary artifacts.
+- Avoid treating practical technologies or administrative descriptions as sacred craft
+  or sacred law unless the passage evidence shows ritual, mythic, or supernatural
+  framing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional suggestions only; multiple low-confidence items require passage
+    evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3126
+  input_sha256: 405e7ad9ff1ab73c95288972c04679af6d81a600d7cd6b1dc683d1eae944b27c
+

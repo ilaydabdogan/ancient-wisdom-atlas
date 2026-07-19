@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3905
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.retaliatory-killing-and-mutilation-of-captives
+  motif_id: retaliatory_killing_and_mutilation_of_captives
+  label: Retaliatory killing and mutilation of captives
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: low
+  rationale: The label concerns violence against captives in a revenge context, adjacent
+    to warfare and retaliatory combat patterns.
+  cautions: Single occurrence and culturally sensitive; may be an episode-specific
+    atrocity detail rather than a reusable motif. Verify whether mutilation has ritual,
+    trophy, revenge, or intimidation function before indexing.
+  suggested_aliases:
+  - captive_killing_as_retaliation
+  - retaliatory_mutilation_of_captives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliatory-killing-of-hostages
+  motif_id: retaliatory_killing_of_hostages
+  label: retaliatory killing of hostages
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: low
+  rationale: Hostage killing in retaliation fits conflict and war-reprisal logic,
+    but needs passage context.
+  cautions: Single occurrence and possibly a historical or episode-specific detail;
+    distinguish from sacrifice, vengeance cycle, legal punishment, or social-order
+    enforcement.
+  suggested_aliases:
+  - hostages_killed_in_retaliation
+  - retaliatory_execution_of_hostages
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliatory-kin-conflict-cycle
+  motif_id: retaliatory_kin_conflict_cycle
+  label: Retaliatory kin-conflict cycle
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A recurring cycle of kin retaliation aligns with feud and vengeance patterns
+    already grouped under sacred combat.
+  cautions: If the passage emphasizes kinship obligation, curse, or moral reckoning
+    rather than warfare, covenant, curse_blessing_speech, or divine_judgment may be
+    secondary.
+  suggested_aliases:
+  - kin_feud_cycle
+  - cycle_of_retaliatory_kin_violence
+  - blood_feud_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliatory-magic-after-an-offense
+  motif_id: retaliatory_magic_after_an_offense
+  label: retaliatory magic after an offense
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: low
+  rationale: Magical retaliation after offense may function like a curse, spell, or
+    binding speech act.
+  cautions: Needs evidence for the magical mechanism. If it is ritual practice rather
+    than spoken curse, sacred_law or divine_judgment may fit better; avoid flattening
+    culturally specific magic into generic punishment.
+  suggested_aliases:
+  - retaliatory_curse_after_offense
+  - magical_revenge_for_an_offense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliatory-or-substitutional-bodily-penalty
+  motif_id: retaliatory_or_substitutional_bodily_penalty
+  label: retaliatory or substitutional bodily penalty
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: A bodily penalty framed as retaliation or substitution likely belongs
+    to legal or social-order motifs.
+  cautions: Ambiguous generated label. Could refer to talionic law, substitute punishment,
+    ritual transfer, or narrative violence; source evidence is needed before mapping
+    to sacred_law, sacrifice, or divine_judgment.
+  suggested_aliases:
+  - substitutional_bodily_penalty
+  - retaliatory_bodily_penalty
+  - talionic_bodily_penalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retreat-caused-by-news-of-distant-defeat
+  motif_id: retreat_caused_by_news_of_distant_defeat
+  label: retreat caused by news of distant defeat
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a tactical plot detail rather than a symbolic or recurring
+    mythic motif.
+  cautions: If the distant defeat is divinely revealed, prophetic, or omen-like, remap
+    to prophecy_divination or divine_intervention; otherwise preserve only as evidence
+    detail.
+  suggested_aliases:
+  - army_retreats_after_report_of_defeat
+  - news_of_defeat_causes_retreat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retributive-defeat-of-rivals
+  motif_id: retributive_defeat_of_rivals
+  label: retributive defeat of rivals
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Retributive defeat centers on punishment or moral reversal of rivals,
+    fitting judgment and reckoning.
+  cautions: If no sacred or moral agency is present, this may be ordinary conflict
+    resolution under sacred_combat or an over-broad plot summary.
+  suggested_aliases:
+  - rivals_defeated_as_retribution
+  - punitive_defeat_of_rivals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retrieval-of-struck-fish-by-attached-floating-shaft
+  motif_id: retrieval_of_struck_fish_by_attached_floating_shaft
+  label: Retrieval of struck fish by attached floating shaft
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: The label describes a concrete fishing technique or episode detail rather
+    than a broad symbolic motif.
+  cautions: If the shaft, fish, or retrieval has sacred-tool, culture-hero, or transformation
+    significance in the passage, review manually; otherwise exclude from motif queries.
+  suggested_aliases:
+  - fish_retrieved_by_floating_spear_shaft
+  - floating_shaft_marks_struck_fish
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reunification-of-weakened-clans-under-a-head-man
+  motif_id: reunification_of_weakened_clans_under_a_head_man
+  label: Reunification of weakened clans under a head man
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns social reconstitution under a leader, aligning with
+    legitimized rule and restored order.
+  cautions: Could be historical-social detail rather than mythic kingship; if emphasis
+    is survival after catastrophe, consider survivor_pair or flood_and_renewal only
+    with evidence of world/order renewal.
+  suggested_aliases:
+  - clans_reunified_under_a_leader
+  - weakened_clans_restored_under_headman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reunion-of-divided-tribal-groups
+  motif_id: reunion_of_divided_tribal_groups
+  label: reunion of divided tribal groups
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: low
+  rationale: Reunion of divided groups may represent repair of a social bond or restored
+    communal order.
+  cautions: Ambiguous and potentially a migration or ethnographic history detail.
+    If tied to leadership, use royal_legitimacy; if tied to ancestry or people-origin,
+    use cosmic_origin; otherwise preserve as contextual evidence.
+  suggested_aliases:
+  - divided_tribal_groups_reunited
+  - tribal_reunion_after_division
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence conflict or social-history details; preserve
+  as evidence notes unless passage review shows recurring ritual, legal, or sacred
+  function.
+- 'Retaliation labels should not be automatically merged: revenge in warfare, legal
+  substitution, curse magic, and divine retribution have different narrative functions.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; conflict/retaliation items need source-context
+    review before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3905
+  input_sha256: e83608e04eeee14ec1d3be828c75462679bca941e3a408bb13f500653de8855a
+

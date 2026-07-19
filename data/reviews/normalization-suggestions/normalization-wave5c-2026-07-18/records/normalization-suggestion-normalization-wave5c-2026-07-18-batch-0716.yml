@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0716
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.confession-or-public-disclosure-as-protection-against-taboo-harm
+  motif_id: confession_or_public_disclosure_as_protection_against_taboo_harm
+  label: Confession or public disclosure as protection against taboo harm
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Public disclosure functions as a ritual or taboo-management practice
+    that averts sacred harm.
+  cautions: Single occurrence; may need culturally specific review for Inuit taboo
+    and confession practices.
+  suggested_aliases:
+  - confession_as_taboo_protection
+  - public_disclosure_averts_taboo_harm
+  - taboo_harm_averted_by_confession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confessional-allegiance-to-a-sacred-order
+  motif_id: confessional_allegiance_to_a_sacred_order
+  label: Confessional allegiance to a sacred order
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A declared allegiance to a sacred order functions as vow, binding commitment,
+    or covenantal alignment.
+  cautions: Could also belong under sacred_law if the passage emphasizes doctrine
+    or ritual obligation rather than binding allegiance.
+  suggested_aliases:
+  - confessed_allegiance_to_sacred_order
+  - profession_of_sacred_allegiance
+  - declarative_commitment_to_sacred_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflation-of-multiple-same-named-gods
+  motif_id: conflation_of_multiple_same_named_gods
+  label: Conflation of multiple same-named gods
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes scholarly identification or interpretive conflation
+    of divine names rather than a narrative motif.
+  cautions: Preserve as commentary or provenance if needed; do not use as evidence
+    for deity identity or transmission.
+  suggested_aliases:
+  - same_named_gods_conflated
+  - scholarly_conflation_of_divine_names
+  - identification_of_same_named_deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-management-through-ritual-timing-and-boundary-use
+  motif_id: conflict_management_through_ritual_timing_and_boundary_use
+  label: Conflict management through ritual timing and boundary use
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif appears to regulate conflict through ritualized rules of time
+    and boundary, fitting sacred social order.
+  cautions: Composite and contextual; could instead fit sacred_time, covenant, or
+    a monastic discipline context depending on passage evidence.
+  suggested_aliases:
+  - ritual_timing_and_boundaries_manage_conflict
+  - conflict_regulated_by_ritual_time_and_boundary
+  - ritual_boundary_use_for_conflict_management
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-pacification-by-ritualized-covering-over
+  motif_id: conflict_pacification_by_ritualized_covering_over
+  label: Conflict pacification by ritualized covering-over
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording suggests a specific ritual action for resolving conflict,
+    but the symbolic or legal function is unclear without source evidence.
+  cautions: May be an over-specific procedural detail, a monastic legal rite, or a
+    metaphorical translation artifact; review before grouping.
+  suggested_aliases:
+  - ritual_covering_over_pacifies_conflict
+  - covering_over_conflict_by_ritual
+  - ritualized_covering_over_dispute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-with-ritual-specialists
+  motif_id: conflict_with_ritual_specialists
+  label: Conflict with ritual specialists
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to determine whether the conflict concerns sacred
+    authority, social order, trickery, or local ritual power.
+  cautions: Culturally sensitive and context-dependent; avoid reducing ritual specialists
+    to a generic antagonist role without source review.
+  suggested_aliases:
+  - dispute_with_ritual_specialists
+  - opposition_to_ritual_specialists
+  - conflict_over_ritual_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conformity-to-divine-will-in-bereavement
+  motif_id: conformity_to_divine_will_in_bereavement
+  label: Conformity to divine will in bereavement
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: low
+  rationale: Acceptance of loss as divine will fits interior discipline on a mystical
+    path more than ritual sacrifice.
+  cautions: May be an ethical teaching or devotional commentary rather than a narrative
+    motif; also relates to lament_and_mourning and annihilation_union.
+  suggested_aliases:
+  - acceptance_of_divine_will_in_bereavement
+  - surrender_to_divine_will_after_loss
+  - bereavement_met_with_sacred_conformity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.connected-versus-separated-parts-as-purity-boundary
+  motif_id: connected_versus_separated_parts_as_purity_boundary
+  label: connected versus separated parts as purity boundary
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The distinction of connected and severed parts as purity status is a
+    ritual-law boundary rule.
+  cautions: Highly technical purity-law label; preserve specificity as evidence and
+    review whether it is too procedural for pattern queries.
+  suggested_aliases:
+  - purity_boundary_between_connected_and_separated_parts
+  - separated_parts_as_purity_boundary
+  - connected_parts_and_purity_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conscientious-communal-reuse-of-offerings
+  motif_id: conscientious_communal_reuse_of_offerings
+  label: conscientious communal reuse of offerings
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Reuse of offerings concerns proper circulation of given sacred goods
+    within a community.
+  cautions: Could be monastic economy or ethical discipline rather than mythic motif;
+    if purely procedural, consider excluding from pattern queries.
+  suggested_aliases:
+  - communal_reuse_of_offerings
+  - proper_reuse_of_ritual_offerings
+  - offerings_recirculated_for_community_use
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.consecrated-grove-as-sacred-landscape-marker
+  motif_id: consecrated_grove_as_sacred_landscape_marker
+  label: Consecrated grove as sacred landscape marker
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A consecrated grove marks sacred geography or a localized sacred center
+    in the landscape.
+  cautions: Do not force sacred_tree_axis unless the grove connects realms or functions
+    as a world axis; could also be a cult-place detail.
+  suggested_aliases:
+  - sacred_grove_as_landscape_marker
+  - consecrated_grove_marking_sacred_space
+  - sacred_landscape_grove
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual or legal procedure labels;
+  preserve them as evidence details unless recurrence supports stronger grouping.
+- For Buddhist procedural labels, human review should distinguish narrative motif
+  from monastic/legal rule terminology.
+- For culturally specific purity and taboo labels, avoid broad cross-cultural claims;
+  suggested placements are indexing aids only.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review especially recommended for culturally
+    specific ritual practices and over-specific procedural labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0716
+  input_sha256: 99c9aacce2676e61019f0890d002fe6d856c35480b046507b4d4a58d4bab9fea
+

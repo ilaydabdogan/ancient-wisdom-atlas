@@ -1,0 +1,341 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0703
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.civil-law-grounded-in-sacred-scripture
+  motif_id: civil_law_grounded_in_sacred_scripture
+  label: Civil law grounded in sacred scripture
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly describes social or civil law deriving authority from
+    sacred text, fitting sacred law and social order.
+  cautions: Single occurrence; preserve whether the passage concerns jurisprudence,
+    theology, or a specific legal institution.
+  suggested_aliases:
+  - scripture_grounded_civil_law
+  - civil_law_authorized_by_sacred_text
+  - sacred_scripture_as_basis_of_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.claim-to-represent-melchizedek-s-priesthood
+  motif_id: claim_to_represent_melchizedek_s_priesthood
+  label: claim to represent Melchizedek’s priesthood
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: A claimed priestly lineage or representation may legitimate sacred authority,
+    but the label is tied to a named figure and source context.
+  cautions: Could be priestly legitimacy, messianic/royal authority, textual exegesis,
+    or a passage-specific claim; avoid promoting without evidence across sources.
+  suggested_aliases:
+  - melchizedek_priesthood_claim
+  - claimed_representation_of_sacred_priesthood
+  - priestly_legitimacy_claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.claimed-divine-messenger-to-humanity
+  motif_id: claimed_divine_messenger_to_humanity
+  label: Claimed divine messenger to humanity
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine messenger mediates sacred command or guidance to humans, matching
+    divine intervention through messenger roles.
+  cautions: The word 'claimed' may indicate polemical or descriptive framing; review
+    whether this is a narrative role, doctrinal statement, or commentary artifact.
+  suggested_aliases:
+  - divine_messenger_to_humanity
+  - messenger_sent_to_humankind
+  - prophetic_messenger_role
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-badge-carvings-on-ritual-house-posts
+  motif_id: clan_badge_carvings_on_ritual_house_posts
+  label: Clan-badge carvings on ritual-house posts
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritual-house carved badges may function as sacred identity objects or
+    ritual signs, but the label is object- and culture-specific.
+  cautions: Could instead belong to sacred craft, clan identity, ancestor/totemic
+    marking, or be an ethnographic detail; source evidence is needed.
+  suggested_aliases:
+  - ritual_house_clan_badges
+  - clan_emblems_on_ritual_posts
+  - carved_clan_badges
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-based-ritual-inheritance-and-dual-priestly-fraternity
+  motif_id: clan_based_ritual_inheritance_and_dual_priestly_fraternity
+  label: Clan-based ritual inheritance and dual priestly fraternity
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Clan-Based Ritual Authority and Succession
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on inherited ritual office and priestly fraternity
+    structure, which is not captured well by general sacred law or royal legitimacy.
+  cautions: Culturally specific institutional details should be reviewed carefully;
+    do not generalize beyond evidence from ritual office succession patterns.
+  suggested_aliases:
+  - clan_based_ritual_inheritance
+  - dual_priestly_fraternity
+  - inherited_priestly_fraternity
+  suggested_new_group:
+    id: clan_ritual_authority_succession
+    label: Clan-Based Ritual Authority and Succession
+    description: Ritual offices, priestly roles, cult responsibilities, or ceremonial
+      knowledge are inherited, transmitted, or authorized through clan, lineage, moiety,
+      or kinship structures, sometimes with moral or ritual eligibility requirements.
+    parent_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    related_group_ids:
+    - sacred_knowledge
+    - covenant
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover sacred law, kingship,
+      and knowledge, but do not clearly capture kinship-based transmission and succession
+      of ritual offices as a recurring institutional motif.
+- suggestion_id: normalization.suggestion.clan-borne-transmission-of-cults-and-priesthood-societies
+  motif_id: clan_borne_transmission_of_cults_and_priesthood_societies
+  label: Clan-borne transmission of cults and priesthood societies
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Clan-Based Ritual Authority and Succession
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transmission of cults and priesthood societies through clans matches
+    a kinship-based ritual succession complex.
+  cautions: Review whether 'cults' means ritual societies, ceremonial bodies, or scholarly
+    classification; avoid implying transmission beyond the described society.
+  suggested_aliases:
+  - clan_borne_ritual_transmission
+  - clan_transmission_of_priesthood_societies
+  - kinship_transmission_of_ceremonial_societies
+  suggested_new_group:
+    id: clan_ritual_authority_succession
+    label: Clan-Based Ritual Authority and Succession
+    description: Ritual offices, priestly roles, cult responsibilities, or ceremonial
+      knowledge are inherited, transmitted, or authorized through clan, lineage, moiety,
+      or kinship structures, sometimes with moral or ritual eligibility requirements.
+    parent_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    related_group_ids:
+    - sacred_knowledge
+    - covenant
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover sacred law, kingship,
+      and knowledge, but do not clearly capture kinship-based transmission and succession
+      of ritual offices as a recurring institutional motif.
+- suggestion_id: normalization.suggestion.clan-bound-priestly-succession-with-moral-eligibility
+  motif_id: clan_bound_priestly_succession_with_moral_eligibility
+  label: Clan-bound priestly succession with moral eligibility
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Clan-Based Ritual Authority and Succession
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif combines hereditary priestly office with moral qualifications,
+    fitting a proposed clan ritual authority group.
+  cautions: May also index under sacred law if moral eligibility rules dominate; source
+    context should determine whether succession or ethical qualification is primary.
+  suggested_aliases:
+  - clan_bound_priestly_succession
+  - moral_eligibility_for_ritual_office
+  - kinship_based_priestly_succession
+  suggested_new_group:
+    id: clan_ritual_authority_succession
+    label: Clan-Based Ritual Authority and Succession
+    description: Ritual offices, priestly roles, cult responsibilities, or ceremonial
+      knowledge are inherited, transmitted, or authorized through clan, lineage, moiety,
+      or kinship structures, sometimes with moral or ritual eligibility requirements.
+    parent_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    related_group_ids:
+    - sacred_knowledge
+    - covenant
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover sacred law, kingship,
+      and knowledge, but do not clearly capture kinship-based transmission and succession
+      of ritual offices as a recurring institutional motif.
+- suggestion_id: normalization.suggestion.clan-defined-ritual-authority
+  motif_id: clan_defined_ritual_authority
+  label: clan-defined ritual authority
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Clan-Based Ritual Authority and Succession
+  relationship: broader_label
+  confidence: medium
+  rationale: This is a broad statement of ritual authority determined by clan membership,
+    matching the proposed kinship-based ritual authority complex.
+  cautions: Broad institutional label; verify it is a motif-like recurrent pattern
+    rather than descriptive ethnographic metadata.
+  suggested_aliases:
+  - clan_based_ritual_authority
+  - kinship_defined_ritual_authority
+  - lineage_defined_ceremonial_authority
+  suggested_new_group:
+    id: clan_ritual_authority_succession
+    label: Clan-Based Ritual Authority and Succession
+    description: Ritual offices, priestly roles, cult responsibilities, or ceremonial
+      knowledge are inherited, transmitted, or authorized through clan, lineage, moiety,
+      or kinship structures, sometimes with moral or ritual eligibility requirements.
+    parent_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    related_group_ids:
+    - sacred_knowledge
+    - covenant
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover sacred law, kingship,
+      and knowledge, but do not clearly capture kinship-based transmission and succession
+      of ritual offices as a recurring institutional motif.
+- suggestion_id: normalization.suggestion.clan-identity-marked-by-inherited-trees-and-badges
+  motif_id: clan_identity_marked_by_inherited_trees_and_badges
+  label: clan identity marked by inherited trees and badges
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Inherited badges and trees may operate as sacred identity markers or
+    power objects, but the tree/badge symbolism is ambiguous.
+  cautions: Could involve sacred trees, totemic ancestry, clan property, or ethnographic
+    classification; avoid mapping to axis_mundi unless the trees connect cosmic levels
+    or sacred center functions.
+  suggested_aliases:
+  - inherited_clan_badges_and_trees
+  - clan_identity_trees_and_badges
+  - inherited_clan_identity_markers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-linked-succession-of-ritual-offices
+  motif_id: clan_linked_succession_of_ritual_offices
+  label: Clan-linked succession of ritual offices
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Clan-Based Ritual Authority and Succession
+  relationship: alias
+  confidence: high
+  rationale: 'This is a concise expression of the proposed group: ritual offices pass
+    through clan-linked succession.'
+  cautions: Review whether the office is priestly, ceremonial, political, or mixed;
+    secondary mapping to royal_legitimacy may be appropriate if governance is central.
+  suggested_aliases:
+  - clan_linked_ritual_succession
+  - clan_succession_of_ceremonial_offices
+  - kinship_based_ritual_office_succession
+  suggested_new_group:
+    id: clan_ritual_authority_succession
+    label: Clan-Based Ritual Authority and Succession
+    description: Ritual offices, priestly roles, cult responsibilities, or ceremonial
+      knowledge are inherited, transmitted, or authorized through clan, lineage, moiety,
+      or kinship structures, sometimes with moral or ritual eligibility requirements.
+    parent_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    related_group_ids:
+    - sacred_knowledge
+    - covenant
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover sacred law, kingship,
+      and knowledge, but do not clearly capture kinship-based transmission and succession
+      of ritual offices as a recurring institutional motif.
+batch_notes:
+- Several Native American Southwest labels form a coherent candidate cluster around
+  clan-based ritual authority and succession; human review should determine whether
+  this should become a durable normalization group or remain under sacred_law/royal_legitimacy.
+- Melanesian clan badge/tree labels are more object- and identity-marker focused and
+  need source review before merging with the clan ritual authority candidate.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch wave5c-0703.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0703
+  input_sha256: 785c897feaf4866d59cfee790bc0ab2b237a55eefa82e06ffebb21de9884fab2
+

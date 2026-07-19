@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1205
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.threefold-overthrow-and-restoration-of-a-holy-religion
+  motif_id: threefold_overthrow_and_restoration_of_a_holy_religion
+  label: threefold overthrow and restoration of a holy religion
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe cyclic restoration of sacred order, but it is
+    tradition-specific and may depend on source cosmology or eschatology.
+  cautions: Could fit covenant, divine_judgment, sacred_time, or world_ages_cosmic_decline;
+    do not map from the number three alone.
+  suggested_aliases:
+  - religion_overthrown_and_restored
+  - restoration_of_sacred_order_after_overthrow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    - sacred_time
+    - world_ages_cosmic_decline
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-proclamation-as-binding-ritual-threshold
+  motif_id: threefold_proclamation_as_binding_ritual_threshold
+  label: threefold proclamation as binding ritual threshold
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A repeated proclamation that binds a ritual transition is primarily a
+    performative sacred speech act.
+  cautions: If the passage emphasizes ordination procedure more than the binding utterance,
+    sacred_law or initiation may be secondary.
+  suggested_aliases:
+  - threefold_binding_proclamation
+  - ritual_proclamation_as_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-ritual-inquiry-before-acceptance
+  motif_id: threefold_ritual_inquiry_before_acceptance
+  label: threefold ritual inquiry before acceptance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Formal questioning before acceptance functions as a threshold rite that
+    changes status or membership.
+  cautions: May be an over-specific procedural detail if no transformative initiation
+    or sacred status change is present.
+  suggested_aliases:
+  - ritual_inquiry_before_acceptance
+  - formal_questioning_before_initiation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-ritualized-timing-in-preparation
+  motif_id: threefold_ritualized_timing_in_preparation
+  label: Threefold ritualized timing in preparation
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on timing structured by ritual repetition, which fits
+    sacred ordering of time.
+  cautions: Single occurrence and vague; if the threefold timing is merely narrative
+    formula, exclude or preserve as evidence detail.
+  suggested_aliases:
+  - ritualized_timing_in_preparation
+  - threefold_preparatory_timing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-sacred-recitation-for-purification
+  motif_id: threefold_sacred_recitation_for_purification
+  label: threefold sacred recitation for purification
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purifying recitation is a ritual-purity practice governed by sacred rule
+    and proper speech.
+  cautions: Could also support curse_blessing_speech if the utterance itself is the
+    operative force, or sacred_knowledge if recitation transmits revelation.
+  suggested_aliases:
+  - sacred_recitation_for_purification
+  - ritual_recitation_as_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threshold-and-chamber-placement-in-mourning-rites
+  motif_id: threshold_and_chamber_placement_in_mourning_rites
+  label: Threshold and chamber placement in mourning rites
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The placement detail belongs to mourning rites and the ritual expression
+    of grief and death-related order.
+  cautions: If the passage is mainly about mortuary protocol rather than grief, ancestor_rites
+    or sacred_law may be better secondary mappings.
+  suggested_aliases:
+  - mourning_rite_threshold_placement
+  - chamber_placement_in_mourning_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threshold-encounter-at-a-divine-door
+  motif_id: threshold_encounter_at_a_divine_door
+  label: Threshold encounter at a divine door
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: narrower_than
+  confidence: medium
+  rationale: A divine doorway encounter marks a liminal boundary where passage or
+    access is at stake.
+  cautions: If no guardian, test, or passage function is present, this may be only
+    a setting detail; theophany may fit if divine manifestation is central.
+  suggested_aliases:
+  - divine_door_threshold_encounter
+  - encounter_at_sacred_doorway
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - descent
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threshold-goddess-and-hinge-name-etymology
+  motif_id: threshold_goddess_and_hinge_name_etymology
+  label: threshold goddess and hinge-name etymology
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes a threshold deity with etymological explanation, making
+    motif versus commentary unclear.
+  cautions: May be a name-etymology or scholarly artifact; if narrative agency at
+    doors is present, threshold_guardian or sacred_law may apply.
+  suggested_aliases:
+  - threshold_goddess
+  - hinge_deity_etymology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - sacred_law
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threshold-obstruction-of-a-divine-visitor
+  motif_id: threshold_obstruction_of_a_divine_visitor
+  label: Threshold obstruction of a divine visitor
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Obstruction at a threshold by or against a divine visitor centers on
+    controlled passage across a sacred boundary.
+  cautions: If the scene tests hospitality to the visitor, hospitality_test_stranger_guest
+    may be the stronger mapping.
+  suggested_aliases:
+  - divine_visitor_obstructed_at_threshold
+  - threshold_blocking_of_divine_guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threshold-permission-before-entering-ancient-sacred-space
+  motif_id: threshold_permission_before_entering_ancient_sacred_space
+  label: threshold permission before entering ancient sacred space
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Required permission before entering sacred space is a ritual rule governing
+    access, purity, and boundaries.
+  cautions: Review local protocol carefully; if a guardian figure enforces passage,
+    threshold_guardian may be secondary.
+  suggested_aliases:
+  - permission_before_entering_sacred_space
+  - ritual_permission_at_sacred_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use threefold repetition; the number itself should
+  not drive placement unless the passage shows a ritual, temporal, or speech-act function.
+- Threshold labels should be distinguished between setting detail, access rule, guardian/test
+  function, and divine manifestation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; low-occurrence and ritual-protocol labels need
+    source evidence before durable indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1205
+  input_sha256: 5422171175e40e3a18ca551520e342e64df3ebcb6f6cc17ae0c8c9cafccc20a2
+

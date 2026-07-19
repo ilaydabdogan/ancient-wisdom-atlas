@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2792
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.recovery-of-many-arrows-as-evidence-of-battle
+  motif_id: recovery_of_many_arrows_as_evidence_of_battle
+  label: recovery of many arrows as evidence of battle
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as material evidence of a battle scene rather than a
+    reusable narrative or symbolic motif.
+  cautions: If source evidence makes the arrows a sacred weapon, battlefield relic,
+    or proof-token, review under sacred_treasures or sacred_combat.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recruitment-of-a-battle-comrade
+  motif_id: recruitment_of_a_battle_comrade
+  label: recruitment of a battle comrade
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Recruiting a companion for combat is a preparatory war-band or battle-support
+    function within heroic combat narratives.
+  cautions: May be only a plot detail unless the recruited comrade has ritual, sworn,
+    supernatural, or decisive battle significance.
+  suggested_aliases:
+  - battle_comrade_recruitment
+  - recruiting_a_comrade_for_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurrent-worn-moccasins-as-warning-hunger-sign-and-trail-marker
+  motif_id: recurrent_worn_moccasins_as_warning_hunger_sign_and_trail_marker
+  label: Recurrent worn moccasins as warning, hunger sign, and trail marker
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines warning, hunger, object recurrence, and trail marking,
+    and its narrative function is unclear from wording alone.
+  cautions: Could fit prophecy/omen, hero journey, sacred treasures, or be an over-specific
+    episode detail; source context is needed.
+  suggested_aliases:
+  - worn_moccasins_as_warning_sign
+  - moccasins_as_trail_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-created-by-an-enemy-s-prohibition
+  motif_id: refuge_created_by_an_enemy_s_prohibition
+  label: refuge created by an enemy’s prohibition
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: An enemy's prohibition creating safety resembles a loophole or condition
+    that limits danger and enables survival.
+  cautions: If the emphasis is sanctuary, taboo law, or trickster exploitation rather
+    than invulnerability logic, sacred_law or trickster may be better.
+  suggested_aliases:
+  - enemy_prohibition_creates_refuge
+  - safety_through_enemy_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-combat-followed-by-public-shame
+  motif_id: refusal_of_combat_followed_by_public_shame
+  label: refusal of combat followed by public shame
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Combat refusal and resulting shame belong to heroic warfare norms and
+    honor pressure around battle participation.
+  cautions: Could also relate to sacred_law or pride_and_downfall if the passage stresses
+    social judgment rather than combat obligation.
+  suggested_aliases:
+  - combat_refusal_public_shame
+  - shame_after_refusing_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-repeated-warnings
+  motif_id: refusal_of_repeated_warnings
+  label: refusal of repeated warnings
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ignoring repeated warnings is typically a rejected omen or prophetic-warning
+    structure before danger or catastrophe.
+  cautions: If the warnings are ordinary advice rather than sacred, prophetic, or
+    ominous signs, this may be too generic for motif queries.
+  suggested_aliases:
+  - unheeded_repeated_warnings
+  - repeated_warnings_ignored
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-be-incited-to-revenge-under-a-host-s-roof
+  motif_id: refusal_to_be_incited_to_revenge_under_a_host_s_roof
+  label: refusal to be incited to revenge under a host's roof
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key constraint is violence or revenge being refused because of obligations
+    under a host's roof.
+  cautions: Could also fit sacred_law, covenant, or sacred_combat depending on whether
+    hospitality law, feud restraint, or combat honor is foregrounded.
+  suggested_aliases:
+  - revenge_refused_under_host_roof
+  - hospitality_restraint_on_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-intervene-in-feud-violence
+  motif_id: refusal_to_intervene_in_feud_violence
+  label: Refusal to intervene in feud violence
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe social nonintervention, feud custom, cowardice,
+    prudence, or narrative omission; function is unclear.
+  cautions: Could map to sacred_combat, sacred_law, covenant, or exclude as contextual
+    plot detail after source review.
+  suggested_aliases:
+  - nonintervention_in_feud_violence
+  - refusal_to_stop_a_feud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-surrender-weapons-before-entering-a-hall
+  motif_id: refusal_to_surrender_weapons_before_entering_a_hall
+  label: refusal to surrender weapons before entering a hall
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusing weapon surrender before hall entry is a combat-readiness and
+    honor-bound threshold scene in martial narrative.
+  cautions: May also involve hospitality law, hall-threshold taboo, or betrayal danger;
+    consider secondary review under hospitality_test_stranger_guest or sacred_law.
+  suggested_aliases:
+  - weapon_surrender_refused_at_hall_entry
+  - armed_entry_into_hall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refused-supplication-and-ransom-in-battle
+  motif_id: refused_supplication_and_ransom_in_battle
+  label: Refused supplication and ransom in battle
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: alias
+  confidence: high
+  rationale: The taxonomy already includes refused supplication and ransom variants
+    under covenant as mercy/refusal obligations.
+  cautions: Battle setting may support a secondary sacred_combat index, but the distinctive
+    motif is the refused plea and ransom.
+  suggested_aliases:
+  - supplication_and_ransom_refused
+  - suppliant_ransom_offer_refused
+  - supplication_with_ransom_refused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence martial episode labels; preserve as evidence
+  details unless source review shows recurring ritual or honor-structure significance.
+- Avoid treating every battle-scene detail as sacred_combat when the label functions
+  only as material evidence or plot staging.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific and single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2792
+  input_sha256: f1edc44ed1967f50fd60f2eb7b43f0dafccb777912a3e2dcb8af5433ef0a8cf7
+

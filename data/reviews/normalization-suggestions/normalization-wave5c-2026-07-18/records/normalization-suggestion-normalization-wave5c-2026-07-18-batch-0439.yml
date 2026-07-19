@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0439
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.waters-flowing-from-a-common-source-and-returning
+  motif_id: waters_flowing_from_a_common_source_and_returning
+  label: waters flowing from a common source and returning
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on cosmic or sacred water circulation, fitting the
+    sacred_waters group better than flood or descent.
+  cautions: Single occurrence; if the passage is cosmological creation rather than
+    ritual or symbolic water, cosmic_origin may be a secondary fit.
+  suggested_aliases:
+  - returning_waters
+  - waters_from_common_source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.waters-react-to-the-death-of-an-aquatic-monster
+  motif_id: waters_react_to_the_death_of_an_aquatic_monster
+  label: Waters react to the death of an aquatic monster
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines monster death, animated waters, and possible cosmic
+    or landscape change; existing groups do not identify the main function from the
+    label alone.
+  cautions: Could fit sacred_waters, death_and_transformation, cosmic_origin, or divine_warrior
+    depending on whether the emphasis is water agency, monster-slaying, or etiological
+    change.
+  suggested_aliases:
+  - waters_respond_to_monster_death
+  - waters_react_to_slain_water_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.way-of-death-moral-catalogue
+  motif_id: way_of_death_moral_catalogue
+  label: way of death moral catalogue
+  occurrences: 1
+  traditions:
+  - christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: narrower_than
+  confidence: medium
+  rationale: A moral catalogue of the way of death is primarily ethical reckoning
+    and instruction about destructive conduct.
+  cautions: May be a teaching-list artifact rather than a narrative motif; if the
+    label only names a doctrinal section, consider excluding from pattern queries.
+  suggested_aliases:
+  - two_ways_moral_catalogue
+  - catalogue_of_the_way_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.way-of-deathlessness
+  motif_id: way_of_deathlessness
+  label: Way of deathlessness
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Deathlessness in Hermetic context likely names a spiritual path toward
+    immortal knowledge or transformation, aligning with mystical quest.
+  cautions: Could be a doctrinal phrase rather than a motif; if the passage emphasizes
+    actual immortality bestowed, death_and_transformation or immortality_without_renewal
+    may be relevant.
+  suggested_aliases:
+  - path_of_deathlessness
+  - way_to_deathlessness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wealth-deposited-in-tomb-with-precious-coffin
+  motif_id: wealth_deposited_in_tomb_with_precious_coffin
+  label: wealth deposited in tomb with precious coffin
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Grave wealth and a precious coffin point to ritual care and provisioning
+    of the dead or ancestors.
+  cautions: If the emphasis is status display rather than ongoing relation with the
+    dead, this may be too specific or contextual for motif queries.
+  suggested_aliases:
+  - grave_goods_with_precious_coffin
+  - tomb_wealth_deposited_with_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wealth-gained-from-the-houses-of-dead-supernatural-women
+  motif_id: wealth_gained_from_the_houses_of_dead_supernatural_women
+  label: wealth gained from the houses of dead supernatural women
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe otherworld plunder, treasure acquisition, contact
+    with the dead, or a specific episode involving supernatural women.
+  cautions: Highly composite and culturally contextual; review source evidence before
+    mapping to otherworld, sacred_treasures, restless_dead_haunting_vengeance, or
+    descent.
+  suggested_aliases:
+  - wealth_from_dead_supernatural_women
+  - treasure_from_houses_of_dead_spirit_women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wealth-in-land-reduced-to-a-death-spot
+  motif_id: wealth_in_land_reduced_to_a_death_spot
+  label: Wealth in land reduced to a death-spot
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is abstract and may be an interpretive note about land, mortality,
+    or memorial place rather than a clear motif.
+  cautions: May be a passage artifact or literary moralization; source context is
+    needed before assigning to death_and_transformation, cosmic_origin, or pride_and_downfall.
+  suggested_aliases:
+  - land_wealth_becomes_death_place
+  - wealth_reduced_to_death_spot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-as-death-omen-or-speaking-object
+  motif_id: weapon_as_death_omen_or_speaking_object
+  label: Weapon as death-omen or speaking object
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon functioning as a death omen or speaking object primarily foretells
+    fate or death.
+  cautions: Could also map to sacred_treasures if the weapon's supernatural object-status
+    is central, or death_by_fate if the emphasis is unavoidable doom.
+  suggested_aliases:
+  - speaking_weapon_death_omen
+  - weapon_foretells_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-bearing-underworld-deity
+  motif_id: weapon_bearing_underworld_deity
+  label: Weapon-bearing underworld deity
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: role_variant
+  confidence: medium
+  rationale: An armed underworld deity likely functions as a guardian, administrator,
+    or threat within afterlife passage geography.
+  cautions: If the passage only iconographically describes a named deity, it may be
+    a deity-description artifact; threshold_guardian may be a secondary fit if passage
+    requires confrontation or appeasement.
+  suggested_aliases:
+  - armed_underworld_deity
+  - weapon_bearing_afterlife_guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-built-feasting-hall-for-dead-warriors
+  motif_id: weapon_built_feasting_hall_for_dead_warriors
+  label: Weapon-built feasting hall for dead warriors
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A feasting hall for dead warriors is an otherworldly realm for heroic
+    dead, with weapon construction as local imagery.
+  cautions: Could also relate to heroic_funeral_rites or divine_warrior if the evidence
+    emphasizes warrior honor rather than the afterlife setting; preserve weapon-built
+    detail as evidence.
+  suggested_aliases:
+  - weapon_built_hall_of_dead_warriors
+  - dead_warriors_feasting_hall_built_of_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and composite; suggested placements should
+  be checked against passage evidence before being added to normalization indexes.
+- For death-bucket items involving water, avoid forcing flood_and_renewal unless catastrophe
+  and renewal of an old order are explicit.
+- Iconographic deity descriptions and doctrinal section titles may need exclusion
+  if they do not function as motifs in the source passage.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai.suggestion
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; human taxonomy review required, especially
+    for composite single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0439
+  input_sha256: f82fb49d0f62743ade78cddbba53acf132758a71c86ced1c76b2c3b78eb2d310
+

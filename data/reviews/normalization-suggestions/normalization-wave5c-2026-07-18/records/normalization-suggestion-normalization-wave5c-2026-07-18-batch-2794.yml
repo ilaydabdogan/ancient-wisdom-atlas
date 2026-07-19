@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2794
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.release-of-captured-enemy-leader-to-end-feud
+  motif_id: release_of_captured_enemy_leader_to_end_feud
+  label: release of captured enemy leader to end feud
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The release repairs social order and ends a feud through mercy or negotiated
+    restraint, fitting covenantal bond repair and mercy variants.
+  cautions: Could also fit sacred_combat if the passage emphasizes warfare resolution
+    rather than restored relationship; single occurrence needs evidence review.
+  suggested_aliases:
+  - mercy_to_a_defeated_enemy
+  - mercy_toward_a_defeated_attacker
+  - feud_ending_release_of_captive_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relics-used-as-material-attestation
+  motif_id: relics_used_as_material_attestation
+  label: Relics used as material attestation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Relics functioning as proof or attestation align with sacred objects
+    that confer authority, presence, or validation.
+  cautions: If this is primarily a source-critical or archaeological note rather than
+    a narrative/ritual motif, exclude as meta-textual; Buddhist relic devotion may
+    also relate to saintly shrine and relic devotion.
+  suggested_aliases:
+  - relics_as_proof
+  - sacred_relics_as_attestation
+  - material_attestation_by_relics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-fast-violation-with-warning-of-ill-fate
+  motif_id: religious_fast_violation_with_warning_of_ill_fate
+  label: religious fast violation with warning of ill fate
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Violation of a religious fast is a ritual prohibition breach, with warning
+    of fate as consequence.
+  cautions: May need secondary mapping to death_by_fate if the warning is a destined
+    death rather than moral or ritual consequence.
+  suggested_aliases:
+  - fast_violation_warning_of_fate
+  - ritual_fast_broken_with_ill_omen
+  - violation_of_fast_as_bad_fate_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-acceptance-of-provocation-with-reciprocal-warning
+  motif_id: reluctant_acceptance_of_provocation_with_reciprocal_warning
+  label: reluctant acceptance of provocation with reciprocal warning
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formal provocation and warning sequence before conflict fits ritualized
+    combat challenge and pre-combat speech patterns.
+  cautions: Could be an over-specific episode detail if no combat follows; consider
+    curse_blessing_speech if the warning itself is performative.
+  suggested_aliases:
+  - provocation_accepted_with_warning
+  - reciprocal_warning_before_combat
+  - reluctant_acceptance_of_challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-greeting-of-a-feared-warrior
+  motif_id: reluctant_greeting_of_a_feared_warrior
+  label: reluctant greeting of a feared warrior
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a scene-level social detail about encountering a warrior
+    rather than a durable motif.
+  cautions: If the greeting triggers combat, recognition, hospitality, or formal challenge,
+    remap to sacred_combat, recognition_tokens_hidden_identity, or hospitality_test_stranger_guest
+    after source review.
+  suggested_aliases:
+  - fearful_greeting_of_warrior
+  - reluctant_salutation_of_feared_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-hero-compelled-into-war-after-a-failed-evasion-ruse
+  motif_id: reluctant_hero_compelled_into_war_after_a_failed_evasion_ruse
+  label: Reluctant hero compelled into war after a failed evasion ruse
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A hero attempting to evade war but being compelled into combat fits recurring
+    heroic warfare obligation and battle-entry patterns.
+  cautions: Could also support hero_journey if the compulsion functions as a call
+    to adventure; preserve the failed-ruse detail as evidence.
+  suggested_aliases:
+  - reluctant_hero_compelled_to_war
+  - failed_evasion_ruse_compels_hero_to_war
+  - hero_forced_into_war_after_disguise_or_ruse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-heroes-debate-who-must-go-first
+  motif_id: reluctant_heroes_debate_who_must_go_first
+  label: reluctant heroes debate who must go first
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The function is unclear: it may be comic delay, cowardice, tactical
+    sequencing, threshold entry, or pre-combat ritual order.'
+  cautions: Map to sacred_combat only if the debate structures a combat ordeal; map
+    to hero_journey or initiation if it concerns entering a dangerous threshold.
+  suggested_aliases:
+  - heroes_debate_order_of_entry
+  - reluctant_companions_choose_who_goes_first
+  - debate_over_first_entry_into_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-learner-becomes-expert-through-practical-reward
+  motif_id: reluctant_learner_becomes_expert_through_practical_reward
+  label: Reluctant learner becomes expert through practical reward
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on acquisition of skill or knowledge through motivated
+    practice, fitting wisdom/knowledge transmission more than conflict.
+  cautions: Could be a teaching anecdote or moral exemplum rather than sacred knowledge;
+    if purely practical and not sacred, consider excluding from mythic pattern queries.
+  suggested_aliases:
+  - reluctant_student_becomes_expert
+  - practical_reward_motivates_learning
+  - skill_acquired_through_reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-or-accidental-warrior-wins-battle
+  motif_id: reluctant_or_accidental_warrior_wins_battle
+  label: reluctant or accidental warrior wins battle
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: An unlikely or unwilling combatant winning battle fits heroic-warrior
+    victory patterns, especially if victory exceeds ordinary expectation.
+  cautions: Use sacred_combat instead if the emphasis is on battle situation rather
+    than empowered or exceptional warrior role; divine aid is not implied by the label
+    alone.
+  suggested_aliases:
+  - accidental_warrior_wins_battle
+  - reluctant_warrior_victory
+  - unlikely_warrior_wins_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-war-auxiliaries-with-divided-allegiance
+  motif_id: reluctant_war_auxiliaries_with_divided_allegiance
+  label: Reluctant war auxiliaries with divided allegiance
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe alliance politics, coerced auxiliaries, betrayal
+    risk, or ritual warfare roles; the motif function is not clear from wording alone.
+  cautions: Potentially sensitive social-war context; avoid flattening into sacred_combat
+    without evidence that divided allegiance is narratively central and recurrent.
+  suggested_aliases:
+  - divided_allegiance_war_auxiliaries
+  - reluctant_allies_in_war
+  - ambivalent_war_auxiliaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence, conflict-scene formulations; preserve granular
+  wording as evidence notes unless recurrence is shown.
+- Do not infer divine sanction or transmission from placement in combat-related groups;
+  some suggestions use sacred_combat or divine_warrior only as broad Pattern Explorer
+  facets.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2794
+  input_sha256: 6ed95d03a30ea27b097fd15f50c82a85324b464d3feaea9b667294dbb3fc45b3
+

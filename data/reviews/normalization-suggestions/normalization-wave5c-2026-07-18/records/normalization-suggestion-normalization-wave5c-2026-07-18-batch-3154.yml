@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3154
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.appeal-to-an-authoritative-teacher-for-dispute-settlement
+  motif_id: appeal_to_an_authoritative_teacher_for_dispute_settlement
+  label: Appeal to an authoritative teacher for dispute settlement
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: An authoritative teacher resolving disputes functions as moral-social
+    order and instruction.
+  cautions: Could instead fit sacred_knowledge if emphasis is teaching rather than
+    settlement; single occurrence needs source review.
+  suggested_aliases:
+  - teacher_arbitration_of_dispute
+  - authoritative_teacher_settles_dispute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appeal-to-celestial-witnesses-while-denying-guilt
+  motif_id: appeal_to_celestial_witnesses_while_denying_guilt
+  label: Appeal to celestial witnesses while denying guilt
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Invoking celestial witnesses in a guilt dispute belongs to moral reckoning
+    and cosmic witness logic.
+  cautions: Could be better under curse_blessing_speech if the appeal is a performative
+    oath; review cultural context carefully.
+  suggested_aliases:
+  - celestial_witnesses_to_denied_guilt
+  - appeal_to_cosmic_witnesses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appeal-to-heaven-in-distress
+  motif_id: appeal_to_heaven_in_distress
+  label: appeal to Heaven in distress
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A plea to Heaven during crisis seeks sacred aid or guidance in human
+    affairs.
+  cautions: If framed as moral protest or mandate-of-Heaven judgment, divine_judgment
+    or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - appeal_to_heaven_during_distress
+  - plea_to_heaven_in_crisis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appearance-changing-steed-through-dew
+  motif_id: appearance_changing_steed_through_dew
+  label: appearance-changing steed through dew
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A steed whose appearance changes through dew is an animal transformation
+    or magical-form variant.
+  cautions: May be too object- or episode-specific; if the horse is chiefly a mount
+    aiding travel, magical_animal_mount may be the better child context.
+  suggested_aliases:
+  - dew_transformed_steed
+  - magical_steed_changes_appearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appearance-contrasted-with-immutable-reality
+  motif_id: appearance_contrasted_with_immutable_reality
+  label: appearance contrasted with immutable reality
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Contrasting appearance with unchanging reality is a wisdom or metaphysical-knowledge
+    theme.
+  cautions: May be philosophical abstraction rather than narrative motif; exclude
+    if it is only commentary on doctrine.
+  suggested_aliases:
+  - appearance_versus_unchanging_reality
+  - seeming_contrasted_with_true_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appearance-described-through-a-sequence-of-clear-images
+  motif_id: appearance_described_through_a_sequence_of_clear_images
+  label: appearance described through a sequence of clear images
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a descriptive technique rather than a symbolic or
+    narrative motif.
+  cautions: If the image sequence has recurring sacred content, index those images
+    separately rather than this stylistic label.
+  suggested_aliases:
+  - sequential_visual_description
+  - appearance_catalogue_of_images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appearance-mistaken-for-reality
+  motif_id: appearance_mistaken_for_reality
+  label: appearance mistaken for reality
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Mistaking appearance for reality concerns false perception and the need
+    for wisdom or insight.
+  cautions: Could fit dream_and_vision if tied to illusion or altered perception in
+    a scene; may be philosophical commentary.
+  suggested_aliases:
+  - mistaking_seeming_for_reality
+  - false_appearance_as_reality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appearance-versus-intrinsic-moral-reality
+  motif_id: appearance_versus_intrinsic_moral_reality
+  label: Appearance versus intrinsic moral reality
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The contrast between outward appearance and true moral reality supports
+    moral evaluation and reckoning.
+  cautions: If the passage is purely epistemological, sacred_knowledge may be preferable;
+    single occurrence may be an abstract theme.
+  suggested_aliases:
+  - outward_appearance_versus_moral_truth
+  - seeming_versus_moral_reality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appeasement-of-suspected-sender-through-gifts
+  motif_id: appeasement_of_suspected_sender_through_gifts
+  label: Appeasement of suspected sender through gifts
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Giving gifts to appease a suspected sender is reciprocal repair through
+    offering.
+  cautions: 'Needs context: the sender may be human, spirit, sorcerer, or deity; avoid
+    flattening local ritual logic.'
+  suggested_aliases:
+  - gift_appeasement_of_sender
+  - appeasement_through_gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appetite-driven-demand-for-a-victim-s-body-part
+  motif_id: appetite_driven_demand_for_a_victim_s_body_part
+  label: appetite-driven demand for a victim's body part
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate violence, cannibal appetite, sacrifice, or an
+    episode-specific demand.
+  cautions: Do not map to sacrifice unless offering or ritual surrender is present;
+    may be too specific or culturally contextual without passage evidence.
+  suggested_aliases:
+  - demand_for_victim_body_part
+  - appetite_for_body_part
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Greek appearance/reality labels may be philosophical abstractions rather
+  than durable motifs; reviewers should check whether passage evidence is narrative
+  or doctrinal commentary.
+- Single-occurrence, culturally specific ritual labels should preserve local context
+  and avoid inferring transmission or broad equivalence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements generated for normalization wave5c batch 3154.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3154
+  input_sha256: 9f3856e6a8fb281da2feae234c3c27879088bb640ea56e2b120a50614e6dd3cd
+

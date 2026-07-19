@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0886
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.inexhaustible-divine-giver-and-full-storehouse
+  motif_id: inexhaustible_divine_giver_and_full_storehouse
+  label: Inexhaustible divine giver and full storehouse
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The group already includes inexhaustible provision and divine action
+    supplying abundance in human affairs.
+  cautions: Storehouse imagery may be Sikh devotional praise rather than a narrative
+    event; preserve local wording as evidence detail.
+  suggested_aliases:
+  - inexhaustible_divine_giver
+  - full_divine_storehouse
+  - divine_storehouse_of_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inexhaustible-divine-provision
+  motif_id: inexhaustible_divine_provision
+  label: inexhaustible divine provision
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: alias
+  confidence: high
+  rationale: This is a direct variant of the existing divine_intervention alias 'miraculous_provision'
+    and child 'inexhaustible_food_supply/material_supply'.
+  cautions: If the passage is purely theological praise without an event of provision,
+    index cautiously as devotional theme.
+  suggested_aliases:
+  - miraculous_provision
+  - inexhaustible_provision
+  - divine_provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inexpressibility-and-supremacy-of-god-over-named-deities
+  motif_id: inexpressibility_and_supremacy_of_god_over_named_deities
+  label: Inexpressibility and supremacy of God over named deities
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on divine supremacy and sovereignty over other named
+    powers, fitting cosmic sovereignty better than ritual action.
+  cautions: Inexpressibility/apophatic theology is not fully captured by supreme_ruler;
+    consider human review if many ineffability labels recur.
+  suggested_aliases:
+  - ineffable_supreme_god
+  - supreme_god_over_named_deities
+  - divine_inexpressibility_and_supremacy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infanticide-under-birth-taboo
+  motif_id: infanticide_under_birth_taboo
+  label: Infanticide under birth taboo
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines culturally sensitive child killing, birth taboo, and
+    possible ritual/social law; source context is essential.
+  cautions: Do not normalize broadly without evidence. Could involve sacred_law, sacrifice,
+    miraculous_child threat, or an ethnographic/reporting artifact.
+  suggested_aliases:
+  - birth_taboo_infanticide
+  - child_killing_under_birth_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infiltration-of-sacred-office-for-material-gain
+  motif_id: infiltration_of_sacred_office_for_material_gain
+  label: Infiltration of sacred office for material gain
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A corrupt or greedy misuse of sacred office fits moral reckoning, especially
+    with existing greed and false-role variants under divine_judgment.
+  cautions: If no judgment or consequence occurs, this may be a contextual ethical
+    episode rather than a motif; sacred_law may be a secondary fit.
+  suggested_aliases:
+  - corrupt_sacred_office_for_gain
+  - greedy_infiltration_of_religious_office
+  - sacred_office_abused_for_material_gain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inhalation-of-sacred-breath-at-altar-and-fetishes
+  motif_id: inhalation_of_sacred_breath_at_altar_and_fetishes
+  label: inhalation of sacred breath at altar and fetishes
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a specific ritual action involving breath and sacred
+    objects, but the taxonomy lacks a precise breath/ritual inhalation group.
+  cautions: Culturally sensitive and terminology such as 'fetishes' may reflect source
+    language; review evidence before mapping to sacred_exchange, sacred_substance,
+    sacred_treasures, or sacred_law.
+  suggested_aliases:
+  - ritual_inhalation_of_sacred_breath
+  - inhaling_sacred_breath_at_altar
+  - breath_rite_with_sacred_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inhalation-of-sacred-good-or-sacred-breath
+  motif_id: inhalation_of_sacred_good_or_sacred_breath
+  label: Inhalation of sacred good or sacred breath
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This appears to be a ritual reception of sacred efficacy through breath,
+    but its function is unclear from the label alone.
+  cautions: May belong with sacred_exchange if receiving blessing, sacred_substance
+    if breath is treated as substance, or sacred_law if prescribed rite; requires
+    source review.
+  suggested_aliases:
+  - inhaling_sacred_good
+  - ritual_inhalation_of_blessing
+  - sacred_breath_inhalation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inhaling-good-from-paired-sacred-objects
+  motif_id: inhaling_good_from_paired_sacred_objects
+  label: inhaling good from paired sacred objects
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif is an over-specific ritual action involving paired sacred objects
+    and inhaled benefit; existing groups do not cleanly capture it.
+  cautions: Likely related to the other sacred-breath labels in this batch; review
+    together for possible local ritual cluster before broad indexing.
+  suggested_aliases:
+  - inhaling_blessing_from_sacred_objects
+  - paired_sacred_objects_as_source_of_good
+  - ritual_inhalation_from_paired_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inherited-and-continuing-feud-after-battle
+  motif_id: inherited_and_continuing_feud_after_battle
+  label: inherited and continuing feud after battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: alias
+  confidence: high
+  rationale: The normalization already treats inherited feud and vengeance across
+    generations as an alias under sacred_combat.
+  cautions: If the passage emphasizes kinship duty or curse more than combat, covenant
+    or curse_blessing_speech may be relevant secondary mappings.
+  suggested_aliases:
+  - ancestral_feud_continuing_through_bloodline
+  - inherited_feud_after_battle
+  - continuing_feud_across_generations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inherited-disposition-expressed-through-tree-analogy
+  motif_id: inherited_disposition_expressed_through_tree_analogy
+  label: Inherited disposition expressed through tree analogy
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an analogy or moral-literary comparison rather than
+    a recurring narrative or ritual motif.
+  cautions: If the passage gives actual sacred-tree embodiment, ancestry, or transformation,
+    remap to axis_mundi, sacred_knowledge, or death_and_transformation instead.
+  suggested_aliases:
+  - tree_analogy_for_inherited_disposition
+  - inherited_nature_tree_metaphor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- The three Native American Southwest sacred-breath/inhalation labels should be reviewed
+  together; they may be local ritual evidence rather than separate broad motifs.
+- Several suggested mappings use canonical_motif_groups present in the supplied normalization
+  file rather than motif-family ids from taxonomy/motifs.yml.
+- No transmission or borrowing claim is implied by any placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; culturally sensitive ritual and birth-taboo
+    labels require human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0886
+  input_sha256: 5b6d315486c39d04bde67d96762c4f737aedc5f289ca2ad9337a64cac57a0f24
+

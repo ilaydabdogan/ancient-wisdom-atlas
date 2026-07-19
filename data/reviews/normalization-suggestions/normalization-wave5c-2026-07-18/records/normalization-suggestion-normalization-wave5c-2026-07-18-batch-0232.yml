@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0232
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.inexorable-family-fate-at-a-repeated-place-of-death
+  motif_id: inexorable_family_fate_at_a_repeated_place_of_death
+  label: inexorable family fate at a repeated place of death
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on unavoidable familial destiny producing repeated
+    death at the same place, fitting the fate/death complex.
+  cautions: Single occurrence; if the repeated location is more etiological or curse-based
+    than destiny-based, curse_blessing_speech or cosmic_origin may be secondary.
+  suggested_aliases:
+  - family fate at repeated death-place
+  - hereditary doomed death-place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infant-corpse-folded-and-leaf-wrapped-before-burial
+  motif_id: infant_corpse_folded_and_leaf_wrapped_before_burial
+  label: infant corpse folded and leaf-wrapped before burial
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: low
+  rationale: This appears to describe a culturally specific mortuary handling practice
+    for an infant corpse.
+  cautions: May be an ethnographic burial detail too specific for pattern queries;
+    review source evidence and cultural sensitivity before indexing under ancestor_rites
+    or heroic_funeral_rites.
+  suggested_aliases:
+  - infant burial preparation
+  - leaf-wrapped infant burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infant-death-through-absence-of-milk
+  motif_id: infant_death_through_absence_of_milk
+  label: infant death through absence of milk
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a specific cause-of-death detail rather than a recurring
+    mythic or ritual motif.
+  cautions: If source context frames milk absence as a famine ordeal, abandonment
+    motif, or moral reckoning, remap after review; otherwise preserve only as evidence
+    detail.
+  suggested_aliases:
+  - infant starvation from lack of milk
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infant-death-under-abandonment-and-scarcity
+  motif_id: infant_death_under_abandonment_and_scarcity
+  label: Infant death under abandonment and scarcity
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves endangered child death under abandonment, but the
+    agent and narrative function are unclear.
+  cautions: Do not map to persecuted_child unless household persecution or caretaker
+    hostility is present; may be a scarcity/famine episode or passage-specific death
+    detail.
+  suggested_aliases:
+  - abandoned infant dies in scarcity
+  - child death through abandonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infant-soul-returning-to-its-source-tree-after-early-death
+  motif_id: infant_soul_returning_to_its_source_tree_after_early_death
+  label: Infant soul returning to its source tree after early death
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A dead infant soul returning to a tree source describes postmortem transformation
+    or return to origin.
+  cautions: Also relates to axis_mundi or sacred_tree_axis if the tree is a cosmic
+    connector; if the focus is soul-origin doctrine rather than narrative action,
+    human review is advised.
+  suggested_aliases:
+  - infant soul returns to source tree
+  - dead child soul returns to tree origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infant-soul-undefiled-and-close-to-cosmic-source
+  motif_id: infant_soul_undefiled_and_close_to_cosmic_source
+  label: Infant soul undefiled and close to cosmic source
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label sounds like a metaphysical teaching about soul purity and proximity
+    to cosmic origin.
+  cautions: May be philosophical anthropology rather than narrative motif; could fit
+    mystical_quest or cosmic_origin depending on passage evidence.
+  suggested_aliases:
+  - undefiled infant soul near source
+  - pure infant soul close to cosmic origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infanticide-concealed-as-natural-death
+  motif_id: infanticide_concealed_as_natural_death
+  label: infanticide concealed as natural death
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Concealed killing may function as hidden wrongdoing awaiting exposure
+    or moral reckoning.
+  cautions: Sensitive and highly contextual; if no judgment, exposure, or sacred consequence
+    is present, treat as passage detail rather than motif.
+  suggested_aliases:
+  - concealed child killing
+  - infanticide disguised as natural death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inherited-witchcraft-power-through-wizard-ancestors
+  motif_id: inherited_witchcraft_power_through_wizard_ancestors
+  label: inherited witchcraft power through wizard ancestors
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: Ancestral transmission of occult or ritual power may fit sacred knowledge,
+    but wording and cultural context require review.
+  cautions: Culturally sensitive terms such as witchcraft and wizard may reflect outsider
+    categorization; verify indigenous terminology and whether ancestor agency, inheritance,
+    or harmful magic is central.
+  suggested_aliases:
+  - ancestral inheritance of ritual power
+  - inherited occult power from ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.initially-slight-supernatural-wound-leads-to-wasting-death
+  motif_id: initially_slight_supernatural_wound_leads_to_wasting_death
+  label: Initially slight supernatural wound leads to wasting death
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A minor supernatural wound causing progressive death suggests nonhuman
+    agency acting directly on a human body.
+  cautions: Could instead belong to death_by_fate, curse_blessing_speech, or spirit-affliction
+    under sacrifice if the source frames it as curse, destiny, or harmful spirit attack.
+  suggested_aliases:
+  - supernatural wound causing wasting death
+  - minor uncanny wound becomes fatal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.injury-to-captured-soul-harms-or-kills-owner
+  motif_id: injury_to_captured_soul_harms_or_kills_owner
+  label: Injury to captured soul harms or kills owner
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: The owner’s life being harmed through injury to a captured soul is a
+    clear external-soul or separable-soul pattern.
+  cautions: Comparative label may be synthetic; confirm passage-level evidence before
+    using as more than a normalization alias.
+  suggested_aliases:
+  - captured soul injury harms owner
+  - damage to captured soul kills body
+  - external soul harmed to kill its owner
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several infant-death labels are single-occurrence and may be passage details rather
+  than durable motifs; human review should verify narrative or ritual function before
+  indexing broadly.
+- Culturally sensitive mortuary and indigenous-spirit terminology should be checked
+  against source language and context.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; batch includes low-confidence burial, infant
+    death, and ancestral-power labels requiring source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0232
+  input_sha256: 6c9ab9478998c90ede5a43d7cc7c8d387f070a5558fcaa6a60d0124f7336b290
+

@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3002
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.recurring-anansi-story-title-cycle
+  motif_id: recurring_anansi_story_title_cycle
+  label: Recurring Anansi story-title cycle
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a repeated story-title or cataloging cycle around
+    Anansi rather than a narrative motif within a tale.
+  cautions: If source passages contain Anansi trickster actions, index those actions
+    under trickster rather than this title-cycle artifact.
+  suggested_aliases:
+  - anansi_story_title_cycle
+  - recurring_anansi_title_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurring-chant-formula
+  motif_id: recurring_chant_formula
+  label: recurring chant formula
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: A recurring chant may be performative sacred speech or narrative formula,
+    but the label alone does not show ritual power, binding speech, or story function.
+  cautions: Could be a textual/formulaic artifact; if the chant effects transformation,
+    compulsion, blessing, or ritual action, consider curse_blessing_speech, sacred_song,
+    or storytelling_as_power.
+  suggested_aliases:
+  - repeated_chant_formula
+  - ritual_chant_refrain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurring-count-of-three-in-hunting-account
+  motif_id: recurring_count_of_three_in_hunting_account
+  label: Recurring count of three in hunting account
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label records a formal numerological recurrence in an account, not
+    a distinct symbolic or narrative function.
+  cautions: If the number three is ritually or cosmologically meaningful in the source,
+    review under sacred_time, duality, or sacred_law as appropriate; do not infer
+    meaning from repetition alone.
+  suggested_aliases:
+  - threefold_repetition_in_hunting_account
+  - recurring_number_three_in_hunting_narrative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurring-hunger-and-promised-plenty
+  motif_id: recurring_hunger_and_promised_plenty
+  label: recurring hunger and promised plenty
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Hunger answered by promised plenty may fit miraculous provision or abundance
+    motifs already under divine_intervention.
+  cautions: Needs evidence that the promised plenty is sacred, supernatural, or narratively
+    consequential; otherwise it may be a contextual hardship/detail rather than a
+    motif.
+  suggested_aliases:
+  - hunger_answered_by_promised_abundance
+  - promised_plenty_after_hunger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurring-jack-story-title-cycle
+  motif_id: recurring_jack_story_title_cycle
+  label: Recurring Jack story-title cycle
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a repeated title-cycle or tale-series marker, not
+    a symbolic or narrative motif inside the story.
+  cautions: If individual Jack tales contain trickster, quest, or combat motifs, index
+    those separately from the title-cycle artifact.
+  suggested_aliases:
+  - jack_story_title_cycle
+  - recurring_jack_title_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurring-minor-triad-and-minor-seventh-musical-pattern
+  motif_id: recurring_minor_triad_and_minor_seventh_musical_pattern
+  label: recurring minor triad and minor seventh musical pattern
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a technical musical-analysis observation, not a mythic motif
+    unless the sound has narrative supernatural effect.
+  cautions: If the musical pattern compels action, charms beings, or has ritual efficacy
+    in the passage, review under enchanting_music instead.
+  suggested_aliases:
+  - minor_triad_minor_seventh_pattern
+  - recurring_musical_interval_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurring-sound-as-prompt-for-renewed-action
+  motif_id: recurring_sound_as_prompt_for_renewed_action
+  label: Recurring sound as prompt for renewed action
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sound that prompts renewed action aligns with sound or music functioning
+    as an effective force within the narrative.
+  cautions: If the sound is merely a repeated cue or oral-performance marker, exclude
+    as textual/formulaic artifact; confirm that it changes characters' behavior in-story.
+  suggested_aliases:
+  - sound_prompting_renewed_action
+  - sound_as_behavioral_cue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurring-sympathetic-orphans
+  motif_id: recurring_sympathetic_orphans
+  label: Recurring sympathetic orphans
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Orphans may signal social-care ethics or persecuted-child narrative,
+    but the label only notes sympathetic characterization.
+  cautions: If the plot centers on household persecution, consider jealous_stepmother_persecuted_child;
+    if it centers on moral obligation to the vulnerable, consider sacred_law or covenant.
+    Otherwise it may be a character-type detail.
+  suggested_aliases:
+  - sympathetic_orphan_figures
+  - vulnerable_orphans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurring-three-survivors-after-mass-destruction
+  motif_id: recurring_three_survivors_after_mass_destruction
+  label: Recurring three survivors after mass destruction
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: narrower_than
+  confidence: medium
+  rationale: A small remnant surviving mass destruction fits the survivor-remnant
+    pattern within catastrophe and renewal.
+  cautions: Do not map specifically to flood unless water destruction is present;
+    the count of three may be evidence detail rather than a separate motif.
+  suggested_aliases:
+  - three_survivors_after_catastrophe
+  - survivor_triads_after_mass_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.red-as-directional-and-martial-marker
+  motif_id: red_as_directional_and_martial_marker
+  label: Red as directional and martial marker
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The martial aspect may relate to sacred combat, but directional color
+    symbolism is culturally specific and not covered cleanly by an existing group.
+  cautions: Requires source-specific review; color-direction systems may be cosmological,
+    ritual, clan/geographic, or martial. Avoid flattening Indigenous symbolic systems
+    into generic combat symbolism.
+  suggested_aliases:
+  - red_directional_martial_symbolism
+  - red_as_war_and_direction_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch begin with 'recurring' and appear to be generated observations
+  about repetition, titles, or formal features; these should not be promoted unless
+  passage evidence shows symbolic or narrative function.
+- For music, chant, and sound labels, distinguish technical/performance notation from
+  supernatural or ritual efficacy.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific color, chant,
+    and orphan labels need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3002
+  input_sha256: 5040185045c0193f3b0b0cadac824470fd8892a4740e8ff12c4e48dd7018d794
+

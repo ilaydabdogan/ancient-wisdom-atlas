@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0177
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fear-of-death-after-a-companion-s-death
+  motif_id: fear_of_death_after_a_companion_s_death
+  label: Fear of death after a companion's death
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fear of death after a companion's death is a classic interior crisis
+    that initiates a quest for meaning or immortality.
+  cautions: Could also fit lament_and_mourning or death_and_transformation if the
+    passage emphasizes grief or mortality rather than quest motivation.
+  suggested_aliases:
+  - mortality_crisis_after_companion_death
+  - fear_of_death_after_loss_of_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fear-of-death-despite-desire-for-release
+  motif_id: fear_of_death_despite_desire_for_release
+  label: Fear of death despite desire for release
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The tension between fear of death and longing for release belongs to
+    interior spiritual discipline and liberation-seeking.
+  cautions: May be an ethical-psychological teaching rather than a narrative motif;
+    if purely doctrinal commentary, consider excluding or mapping only as evidence
+    detail.
+  suggested_aliases:
+  - fear_of_death_despite_longing_for_liberation
+  - death_fear_and_desire_for_release
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fear-of-dogs-causes-death-bleeding-and-flight
+  motif_id: fear_of_dogs_causes_death_bleeding_and_flight
+  label: Fear of dogs causes death, bleeding, and flight
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal fear, bleeding, death, and flight without enough
+    context to identify a stable motif function.
+  cautions: Likely over-specific; could involve fright-caused death, animal danger,
+    taboo, or passage-specific plot detail.
+  suggested_aliases:
+  - fatal_fear_of_dogs
+  - fright_caused_by_dogs_leads_to_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fear-of-ghosts-and-memory-lapse-after-graveyard-event
+  motif_id: fear_of_ghosts_and_memory_lapse_after_graveyard_event
+  label: Fear of ghosts and memory lapse after graveyard event
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: over_specific_label
+  confidence: low
+  rationale: Ghost fear after a graveyard encounter points toward active or feared
+    dead affecting the living.
+  cautions: Memory lapse may be a local plot detail or spirit-affliction element;
+    review evidence before treating as a recurring motif.
+  suggested_aliases:
+  - graveyard_ghost_fear
+  - fear_after_graveyard_spirit_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fear-of-offending-animal-ghosts-or-species-through-broken-bones
+  motif_id: fear_of_offending_animal_ghosts_or_species_through_broken_bones
+  label: fear of offending animal ghosts or species through broken bones
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests ritual respect toward animal souls, but no existing
+    group cleanly captures animal-bone taboo and species-spirit appeasement.
+  cautions: Comparative and culturally sensitive; could fit sacred_law, ancestor_rites,
+    animal taboo, or hunting ritual depending on evidence.
+  suggested_aliases:
+  - animal_bone_taboo_to_avoid_offending_spirits
+  - respect_for_animal_ghosts_through_bone_handling
+  suggested_new_group:
+    id: animal_spirit_taboo
+    label: Animal Spirit Taboo and Respectful Remains
+    description: Ritual prohibitions or handling rules concerning animal remains,
+      bones, ghosts, or species spirits to maintain relations between humans and animal
+      powers.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - ancestor_rites
+    - sacred_exchange
+    - sacrifice
+    reason_existing_groups_insufficient: Sacred_law can hold taboo generally, but
+      the recurring human-animal spirit relationship and remains-handling may require
+      more specific review if many similar labels recur.
+- suggestion_id: normalization.suggestion.fear-of-the-dead-person-s-spirit-at-night
+  motif_id: fear_of_the_dead_person_s_spirit_at_night
+  label: fear of the dead person's spirit at night
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: medium
+  rationale: Fear of a dead person's spirit at night fits the broader complex of active
+    or dangerous dead returning among the living.
+  cautions: If the passage describes a mortuary taboo rather than actual haunting,
+    sacred_law or ancestor_rites may be better secondary mappings.
+  suggested_aliases:
+  - night_fear_of_dead_spirit
+  - fear_of_dead_spirit_after_dark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fear-of-the-returning-spirit
+  motif_id: fear_of_the_returning_spirit
+  label: fear of the returning spirit
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: alias
+  confidence: high
+  rationale: A returning spirit feared by the living is directly aligned with restless
+    dead and haunting motifs.
+  cautions: Confirm whether the spirit is a dead person, ancestor, or nonhuman spirit
+    before final placement.
+  suggested_aliases:
+  - fear_of_returning_dead_spirit
+  - returning_spirit_feared_by_living
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fear-or-caution-toward-a-dead-hero-s-body
+  motif_id: fear_or_caution_toward_a_dead_hero_s_body
+  label: Fear or caution toward a dead hero's body
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Caution around a hero's corpse concerns handling, danger, or ritual treatment
+    of heroic remains.
+  cautions: If the body remains supernaturally dangerous, sacred_treasures or restless_dead_haunting_vengeance
+    may be relevant; context needed.
+  suggested_aliases:
+  - dangerous_dead_hero_body
+  - caution_around_heroic_corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fear-or-taboo-surrounding-ancestral-stones
+  motif_id: fear_or_taboo_surrounding_ancestral_stones
+  label: fear or taboo surrounding ancestral stones
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo around ancestral stones is primarily a sacred prohibition regulating
+    contact with charged objects or ancestor-linked places.
+  cautions: Could also fit sacred_treasures if stones are power objects, or ancestor_rites
+    if ritual care of ancestors is central.
+  suggested_aliases:
+  - ancestral_stone_taboo
+  - taboo_around_ancestor_stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-deserted-burial-or-old-settlement-at-night
+  motif_id: feared_deserted_burial_or_old_settlement_at_night
+  label: Feared deserted burial or old settlement at night
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: over_specific_label
+  confidence: low
+  rationale: Fear of burial places or abandoned settlements at night likely reflects
+    anxiety about active dead or haunted places.
+  cautions: May be a setting detail rather than a motif; if no ghost or ancestor agency
+    is present, exclude from pattern queries or keep as evidence note.
+  suggested_aliases:
+  - feared_burial_place_at_night
+  - haunted_old_settlement_at_night
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence fear/taboo formulations; preserve as evidence
+  details unless source review confirms recurring ritual or narrative function.
+- Do not treat fear of death or ghost fear as descent, resurrection, or afterlife
+  mapping unless passage evidence includes a journey, return, or mapped postmortem
+  route.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items require source-context review
+    because fear/taboo labels may be ethnographic notes or over-specific passage artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0177
+  input_sha256: 5c3bb349d846499a76e7f5f989f120e9a85e1c218b262e07ebc54b3d60d3709e
+

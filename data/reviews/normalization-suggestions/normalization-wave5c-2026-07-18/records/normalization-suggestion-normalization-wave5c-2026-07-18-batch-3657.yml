@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3657
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.maritime-trade-network
+  motif_id: maritime_trade_network
+  label: maritime trade network
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes social or economic setting rather than a clear symbolic
+    or narrative motif.
+  cautions: May be an ethnographic/contextual detail unless the passage makes trade
+    routes sacred, initiatory, or otherworldly.
+  suggested_aliases:
+  - sea_trade_network
+  - maritime_exchange_network
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_waters
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-awakening-of-the-khalsa
+  motif_id: martial_awakening_of_the_khalsa
+  label: martial awakening of the Khalsa
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve sacred combat, sacred law, communal initiation, or historical-religious
+    identity formation.
+  cautions: Culturally and historically specific; source evidence is needed before
+    reducing it to a broad martial motif.
+  suggested_aliases:
+  - khalsa_martial_awakening
+  - sacralization_of_khalsa_warrior_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - initiation
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-catalogue-of-allies-by-appearance-and-equipment
+  motif_id: martial_catalogue_of_allies_by_appearance_and_equipment
+  label: Martial catalogue of allies by appearance and equipment
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A catalogue by appearance and equipment reads like an epic descriptive
+    or compositional device rather than a reusable motif.
+  cautions: If the catalogue functions ritually or establishes divine warrior status,
+    map the underlying combat role separately.
+  suggested_aliases:
+  - catalogue_of_allied_warriors
+  - martial_catalogue_by_equipment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-display-at-a-wedding-feast
+  motif_id: martial_display_at_a_wedding_feast
+  label: martial display at a wedding feast
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif combines warrior display with a socially charged feast, fitting
+    ritualized martial performance.
+  cautions: Could instead belong with sacred_love or royal_legitimacy if the display
+    primarily secures marriage, status, or succession.
+  suggested_aliases:
+  - warrior_display_at_wedding_feast
+  - martial_performance_at_marriage_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - royal_legitimacy
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-display-before-noble-women
+  motif_id: martial_display_before_noble_women
+  label: martial display before noble women
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A public martial display before high-status witnesses fits ritualized
+    warrior honor and combat performance.
+  cautions: If the emphasis is courtship, bride-winning, or erotic evaluation, sacred_love
+    may be a secondary mapping.
+  suggested_aliases:
+  - warrior_display_before_noble_women
+  - martial_performance_before_ladies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - royal_legitimacy
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-display-before-royal-spectators
+  motif_id: martial_display_before_royal_spectators
+  label: Martial display before royal spectators
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Public warrior display before rulers aligns with ritualized combat and
+    martial honor.
+  cautions: May support royal_legitimacy if the scene validates hierarchy, kingship,
+    or service to the court.
+  suggested_aliases:
+  - warrior_display_before_royal_spectators
+  - martial_performance_before_the_court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-exhortation-foretelling-slaughter
+  motif_id: martial_exhortation_foretelling_slaughter
+  label: martial exhortation foretelling slaughter
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A pre-battle exhortation predicting slaughter matches existing sacred_combat
+    aliases around battle boasts, flyting, and foretold combat outcomes.
+  cautions: If the foretelling is formal prophecy rather than martial rhetoric, add
+    prophecy_divination as secondary context.
+  suggested_aliases:
+  - battle_exhortation_foretelling_slaughter
+  - pre_combat_exhortation_of_slaughter
+  - heroic_exhortation_foretelling_slaughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - divine_warrior
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martyrdom-spreading-a-doctrine
+  motif_id: martyrdom_spreading_a_doctrine
+  label: Martyrdom spreading a doctrine
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: Martyrdom frames death or suffering as a costly offering that transmits
+    or validates sacred teaching.
+  cautions: Could also involve sacred_knowledge if doctrinal transmission is central,
+    or mystical_quest if martyrdom marks union or annihilation.
+  suggested_aliases:
+  - martyrdom_as_doctrinal_transmission
+  - sacrificial_death_spreading_teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - mystical_quest
+    - annihilation_union
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martyrdom-through-accusation-of-blasphemy
+  motif_id: martyrdom_through_accusation_of_blasphemy
+  label: Martyrdom through accusation of blasphemy
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines martyrdom, doctrinal conflict, accusation, and legal-religious
+    judgment.
+  cautions: Culturally sensitive and context-dependent; could map to sacrifice, divine_judgment,
+    sacred_law, or mystical_quest depending on source framing.
+  suggested_aliases:
+  - martyrdom_by_blasphemy_accusation
+  - sacred_death_under_blasphemy_charge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - divine_judgment
+    - sacred_law
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvellous-land-of-food-abundance
+  motif_id: marvellous_land_of_food_abundance
+  label: Marvellous land of food abundance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: high
+  rationale: A marvelous land of abundant food matches the otherworld group aliases
+    for enchanted realms with inexhaustible food and drink.
+  cautions: If the focus is miraculous provision in ordinary space, divine_intervention
+    or sacred_substance may be secondary mappings.
+  suggested_aliases:
+  - marvelous_land_of_food_abundance
+  - abundant_food_in_the_marvellous_land
+  - otherworld_land_of_food_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several martial-display labels are single-occurrence and court-contextual; preserve
+  scene details as evidence rather than promoting them as canonical motifs without
+  recurrence.
+- Labels involving Khalsa identity and Sufi martyrdom should receive human cultural
+  and source-context review before final normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3657
+  input_sha256: 6a64f502a8f843de9b155572d1246a21b53caee667b27a6b250c0f9afcc72c8f
+

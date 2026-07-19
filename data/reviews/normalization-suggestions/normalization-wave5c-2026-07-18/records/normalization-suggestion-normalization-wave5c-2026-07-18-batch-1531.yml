@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1531
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.contested-woman-submitted-to-royal-judgment
+  motif_id: contested_woman_submitted_to_royal_judgment
+  label: contested woman submitted to royal judgment
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: A disputed woman is resolved through royal authority, fitting kingship
+    as adjudicating and ordering power.
+  cautions: Could instead be divine_judgment, sacred_law, or a court-tale detail depending
+    on whether the emphasis is moral justice, legal procedure, or royal legitimacy.
+  suggested_aliases:
+  - woman_contested_before_royal_judgment
+  - royal_judgment_over_contested_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continuation-of-pre-christian-story-patterns-around-christian-period-rulers
+  motif_id: continuation_of_pre_christian_story_patterns_around_christian_period_rulers
+  label: continuation of pre-Christian story patterns around Christian-period rulers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes scholarly classification of story-pattern continuity
+    rather than a narrative motif within a passage.
+  cautions: Preserve as reception or comparative-history metadata if needed; do not
+    use as motif evidence or transmission claim in Pattern Explorer.
+  suggested_aliases:
+  - pre_christian_story_pattern_continuity_around_christian_rulers
+  - scholarly_note_on_continuity_of_ruler_story_patterns
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continuing-celestial-social-life
+  motif_id: continuing_celestial_social_life
+  label: Continuing celestial social life
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: Celestial society may indicate an otherworldly realm where social relations
+    continue beyond ordinary earthly life.
+  cautions: Could be afterlife_passage, cosmic_origin, ancestral star-being tradition,
+    or living celestial geography; culturally sensitive context is needed before mapping.
+  suggested_aliases:
+  - celestial_society_continues
+  - ongoing_social_life_in_the_sky_world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.controlled-divination-objects-before-royal-authority
+  motif_id: controlled_divination_objects_before_royal_authority
+  label: Controlled divination objects before royal authority
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core image is regulated divination objects used in relation to ruling
+    authority, fitting systematic divination.
+  cautions: If the passage emphasizes state control, ritual propriety, or royal hierarchy
+    more than divination, sacred_law or royal_legitimacy may be secondary placements.
+  suggested_aliases:
+  - divination_objects_regulated_by_royal_authority
+  - royal_control_of_divination_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.controlled-foreign-substance-as-protection-from-social-harm
+  motif_id: controlled_foreign_substance_as_protection_from_social_harm
+  label: controlled foreign substance as protection from social harm
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: A regulated substance used protectively may fit ritual prohibition or
+    apotropaic social order under sacred law.
+  cautions: The label is abstract and culturally sensitive; review source evidence
+    to determine whether this is ritual protection, medicine, taboo, exchange, colonial
+    terminology, or an over-specific ethnographic note.
+  suggested_aliases:
+  - regulated_foreign_substance_as_social_protection
+  - controlled_substance_for_apotropaic_social_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conversion-enacted-through-public-law
+  motif_id: conversion_enacted_through_public_law
+  label: conversion enacted through public law
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Religious conversion made effective through public law fits sacred law
+    as social and ritual order.
+  cautions: Could also involve covenant or royal_legitimacy if the passage emphasizes
+    collective sacred bond or ruler-sanctioned authority.
+  suggested_aliases:
+  - public_law_enacts_religious_conversion
+  - legal_enactment_of_conversion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cooking-on-the-monster-s-back
+  motif_id: cooking_on_the_monster_s_back
+  label: cooking on the monster's back
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: uncertain
+  confidence: low
+  rationale: A monster’s body used as a cooking surface may mark domination or humiliation
+    of a monstrous enemy after combat.
+  cautions: Highly specific and context-dependent; may be comic trickster action,
+    heroic victory, demon subjugation, or passage artifact rather than a durable motif.
+  suggested_aliases:
+  - monster_body_used_as_cooking_surface
+  - cooking_upon_a_defeated_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cooking-scent-betrays-a-hidden-person-or-place
+  motif_id: cooking_scent_betrays_a_hidden_person_or_place
+  label: cooking scent betrays a hidden person or place
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: low
+  rationale: Scent reveals a concealed identity or location, functioning as sensory
+    recognition or detection evidence.
+  cautions: Could instead belong with trickster pursuit, hidden refuge, or betrayal
+    if the scent exposes fugitives; source context is needed.
+  suggested_aliases:
+  - scent_of_cooking_reveals_hidden_person
+  - cooking_smell_betrays_hidden_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cooking-without-a-kettle-by-stone-boiling-in-an-animal-casing
+  motif_id: cooking_without_a_kettle_by_stone_boiling_in_an_animal_casing
+  label: Cooking without a kettle by stone boiling in an animal casing
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a practical cooking-technique detail rather than a
+    symbolic or narrative motif.
+  cautions: If the passage frames the technique as culture-hero invention or sacred
+    craft, reconsider under culture_hero or sacred_craft; otherwise preserve only
+    as ethnographic evidence detail.
+  suggested_aliases:
+  - stone_boiling_in_animal_casing
+  - kettleless_cooking_by_stone_boiling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corporal-punishment-tied-to-the-offending-body-part
+  motif_id: corporal_punishment_tied_to_the_offending_body_part
+  label: Corporal punishment tied to the offending body part
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Punishment directed at the offending body part is a moral-legal reckoning
+    where penalty mirrors transgression.
+  cautions: If this is primarily statutory law rather than divine or mythic judgment,
+    sacred_law may be the better parent; preserve the talionic body-part specificity
+    as evidence.
+  suggested_aliases:
+  - body_part_punishment_for_body_part_offense
+  - offending_body_part_receives_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; placements
+  should be treated as provisional pending passage review.
+- Power/law labels often straddle royal_legitimacy, sacred_law, covenant, and divine_judgment;
+  choose by narrative function rather than bucket assignment.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1531
+  input_sha256: 984e34fec572d0a751ba5dec8ace19360abfb61ecd79b019b63d4435ee550baa
+

@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3909
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.revocation-of-communal-sanction
+  motif_id: revocation_of_communal_sanction
+  label: revocation of communal sanction
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Loss or withdrawal of communal authorization concerns regulation of social
+    and ethical order.
+  cautions: Single occurrence; if the passage is monastic disciplinary procedure rather
+    than motif, preserve as contextual legal detail.
+  suggested_aliases:
+  - withdrawal_of_communal_sanction
+  - communal_sanction_revoked
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rhetorical-landscape-imagery-of-carnage
+  motif_id: rhetorical_landscape_imagery_of_carnage
+  label: rhetorical landscape imagery of carnage
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes rhetorical imagery or style rather than a stable
+    narrative motif.
+  cautions: If the passage depicts a battlefield transformed into landscape, human
+    review may consider death_and_transformation or sacred_combat as evidence-level
+    mappings.
+  suggested_aliases:
+  - carnage_as_landscape_imagery
+  - battlefield_carnage_landscape_metaphor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rhymed-prose-variant-of-a-tale-segment
+  motif_id: rhymed_prose_variant_of_a_tale_segment
+  label: Rhymed-prose variant of a tale segment
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a formal or variant note about tale transmission, not a symbolic
+    or narrative motif.
+  cautions: Preserve for provenance or textual-form metadata if useful; do not use
+    in motif pattern queries.
+  suggested_aliases:
+  - rhymed_prose_tale_variant
+  - formal_variant_of_tale_segment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rhythm-as-imitation-of-life-character
+  motif_id: rhythm_as_imitation_of_life_character
+  label: Rhythm as imitation of life-character
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Rhythm functioning as expressive imitation fits performative speech,
+    narrative, or artistic form as power.
+  cautions: May be philosophical aesthetics rather than mythic motif; exclude if it
+    is only commentary on poetics or music theory.
+  suggested_aliases:
+  - rhythm_imitates_character
+  - rhythm_as_mimesis_of_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rhythmic-correspondence-through-intergroup-contact
+  motif_id: rhythmic_correspondence_through_intergroup_contact
+  label: Rhythmic correspondence through intergroup contact
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe comparative musical correspondence and
+    contact, not a motif in the source narrative.
+  cautions: Avoid treating intergroup contact as a transmission claim in motif normalization;
+    preserve only as musicological or ethnographic metadata.
+  suggested_aliases:
+  - rhythmic_correspondence_by_intergroup_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rhythmic-correspondence-through-intertribal-contact
+  motif_id: rhythmic_correspondence_through_intertribal_contact
+  label: rhythmic correspondence through intertribal contact
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This is a comparative or ethnographic explanation for musical similarity
+    rather than a narrative motif.
+  cautions: Culturally sensitive wording should be reviewed; do not infer borrowing
+    or contact from taxonomy placement.
+  suggested_aliases:
+  - rhythmic_correspondence_through_intergroup_contact
+  - rhythmic_correspondence_by_intertribal_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rhythmic-unit-as-organizing-musical-pattern
+  motif_id: rhythmic_unit_as_organizing_musical_pattern
+  label: rhythmic unit as organizing musical pattern
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label identifies a musical-analytic structure rather than mythic
+    narrative content.
+  cautions: If rhythm is ritually efficacious in the passage, consider enchanting_music
+    or storytelling_as_power; label alone suggests analysis metadata.
+  suggested_aliases:
+  - organizing_rhythmic_unit
+  - rhythmic_unit_musical_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ride-into-funeral-flames-variant
+  motif_id: ride_into_funeral_flames_variant
+  label: ride into funeral flames variant
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Riding into funeral flames is a funerary action tied to heroic death
+    and memorial rites.
+  cautions: The word 'variant' suggests a comparative note; if no rite or narrative
+    action is present, treat as textual artifact.
+  suggested_aliases:
+  - riding_into_funeral_flames
+  - funeral_flame_ride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ride-through-flames
+  motif_id: ride_through_flames
+  label: Ride through flames
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Passing through flames can function as a threshold ordeal that tests
+    or transforms status.
+  cautions: If the flames are funeral flames, heroic_funeral_rites may be primary;
+    if divine fire or purification is central, sacred_fire may be secondary.
+  suggested_aliases:
+  - riding_through_flames
+  - flame_crossing_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ridicule-through-mistaken-aspiration-to-a-higher-identity
+  motif_id: ridicule_through_mistaken_aspiration_to_a_higher_identity
+  label: ridicule through mistaken aspiration to a higher identity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mistaken self-elevation followed by ridicule fits the humbling of overreaching
+    pride or false aspiration.
+  cautions: May be an ethical or comic passage detail rather than a durable motif;
+    verify that aspiration and humiliation drive the episode.
+  suggested_aliases:
+  - false_aspiration_to_higher_identity_ridiculed
+  - ridiculed_overreaching_identity_claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several rhythm-related labels appear to be musicological or comparative metadata
+  rather than motifs; exclude unless source evidence shows ritual or supernatural
+  efficacy of sound.
+- Do not use contact wording in labels as evidence for transmission; normalization
+  placement only concerns query grouping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions; human review recommended for culturally specific
+    musical/ethnographic labels and Norse flame-ride context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3909
+  input_sha256: 8431f1b50ec3b56bb06d1466d5edd73241079a27d625fcbc132fb89bceca0980
+

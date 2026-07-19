@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3248
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.coercive-enforcement-of-religious-belief-by-beheading
+  motif_id: coercive_enforcement_of_religious_belief_by_beheading
+  label: Coercive enforcement of religious belief by beheading
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines religious coercion, violence, and execution; placement
+    depends on whether the passage emphasizes sacred law, judgment, combat, martyrdom,
+    or a specific episode.
+  cautions: Single occurrence and culturally/ethically sensitive coercion label; beheading
+    may be episode detail rather than motif. Do not infer doctrinal or historical
+    transmission claims.
+  suggested_aliases:
+  - religious_coercion_by_execution
+  - violent_enforcement_of_belief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coercive-taming-of-a-female-addressee
+  motif_id: coercive_taming_of_a_female_addressee
+  label: coercive taming of a female addressee
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe gendered coercion or domination, but the
+    narrative function is unclear from wording alone.
+  cautions: Culturally and gender-sensitive label; could be commentary wording, speech
+    act, social control, violence, or passage-specific framing. Needs source review
+    before normalization.
+  suggested_aliases:
+  - gendered_coercive_control
+  - coercive_taming_of_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coexistence-of-older-and-newer-craft-methods
+  motif_id: coexistence_of_older_and_newer_craft_methods
+  label: Coexistence of older and newer craft methods
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as an ethnographic or technological observation about craft
+    history, not a symbolic or narrative motif.
+  cautions: If a myth explains the origin of a craft technique, reconsider under sacred_craft
+    or culture_hero; otherwise exclude from motif queries.
+  suggested_aliases:
+  - craft_method_coexistence
+  - older_and_newer_craft_methods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cognate-mythic-figures-across-avesta-and-veda
+  motif_id: cognate_mythic_figures_across_avesta_and_veda
+  label: Cognate mythic figures across Avesta and Veda
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label is a comparative-historical observation about cognate figures,
+    not a motif in a passage.
+  cautions: Keep transmission, cognacy, and shared inheritance claims out of motif
+    normalization; preserve only as scholarly provenance if needed.
+  suggested_aliases:
+  - avesta_veda_cognate_figures
+  - comparative_cognate_mythic_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coiled-hand-built-pottery-without-wheel
+  motif_id: coiled_hand_built_pottery_without_wheel
+  label: Coiled hand-built pottery without wheel
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This is a material-culture technique description rather than a mythic
+    motif.
+  cautions: If the passage narrates divine or culture-hero origin of pottery, review
+    under sacred_craft or culture_hero; as written it should not drive pattern queries.
+  suggested_aliases:
+  - hand_built_coiled_pottery
+  - pottery_without_wheel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coiled-plant-fiber-container-construction
+  motif_id: coiled_plant_fiber_container_construction
+  label: coiled plant-fiber container construction
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a basketry/container construction technique, not
+    a symbolic vessel motif.
+  cautions: Do not map to sacred_vessel unless the container has sacred narrative
+    function; craft technique alone is likely an ethnographic artifact.
+  suggested_aliases:
+  - coiled_fiber_container_making
+  - plant_fiber_container_construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coiled-pottery-as-shared-andamanese-craft-with-regional-variants
+  motif_id: coiled_pottery_as_shared_andamanese_craft_with_regional_variants
+  label: coiled pottery as shared Andamanese craft with regional variants
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an ethnographic distribution and regional-variant note about
+    a craft, not a narrative motif.
+  cautions: The phrase 'shared ... with regional variants' is comparative metadata;
+    exclude from motif queries unless tied to a mythic origin episode.
+  suggested_aliases:
+  - shared_coiled_pottery_craft
+  - regional_variants_of_coiled_pottery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coiled-pottery-manufacture-sequence
+  motif_id: coiled_pottery_manufacture_sequence
+  label: coiled-pottery manufacture sequence
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A manufacture sequence is a technical-process description rather than
+    a mythic pattern.
+  cautions: Could be reconsidered under sacred_craft only if the sequence is ritually
+    charged or divinely taught in the passage evidence.
+  suggested_aliases:
+  - coiled_pottery_making_sequence
+  - pottery_manufacture_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cold-immobilization-or-icicle-resemblance
+  motif_id: cold_immobilization_or_icicle_resemblance
+  label: cold immobilization or icicle resemblance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording may indicate transformation, paralysis, simile, ordeal, or
+    descriptive imagery; existing groups do not clearly fit without source context.
+  cautions: Likely over-specific if only a poetic comparison. Review whether cold
+    causes actual supernatural immobilization or is merely figurative.
+  suggested_aliases:
+  - immobilization_by_cold
+  - icicle_like_immobility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cold-landscape-transformed-by-heat-and-glare
+  motif_id: cold_landscape_transformed_by_heat_and_glare
+  label: cold landscape transformed by heat and glare
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests elemental landscape transformation, but may be cosmological,
+    seasonal, solar, or descriptive rather than a recurring motif.
+  cautions: Do not map to world-destroying fire or sacred_fire unless heat/glare has
+    sacred agency or renewal function; source evidence needed.
+  suggested_aliases:
+  - landscape_transformed_by_heat
+  - cold_world_changed_by_solar_glare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several craft-technique labels appear to be ethnographic or comparative artifacts
+  rather than symbolic motifs; exclude unless source passages give them mythic origin
+  or ritual function.
+- Labels involving coercion and gendered violence require source-level human review
+  before normalization.
+- No transmission or cognacy claim should be treated as motif evidence in this batch.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended especially
+    for sensitive coercion labels and ambiguous elemental-transformation labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3248
+  input_sha256: 21f41a0f87d5d668eedaab33b9148b481aa2be4d1c091dee8d6b80bfc4fb1ede
+

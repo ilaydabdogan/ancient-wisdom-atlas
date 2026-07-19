@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0409
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.threatened-death-followed-by-illness-in-the-threatened-order
+  motif_id: threatened_death_followed_by_illness_in_the_threatened_order
+  label: Threatened death followed by illness in the threatened order
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is unclear and may describe contagion, curse, social order,
+    or episode-specific consequence rather than a stable death motif.
+  cautions: Single occurrence; wording 'threatened order' may be generated or passage-specific
+    and needs source evidence before mapping.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threatened-wedding-with-death-and-cannibal-feast
+  motif_id: threatened_wedding_with_death_and_cannibal_feast
+  label: threatened wedding with death and cannibal feast
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: Composite scene combines marriage threat, death, and cannibal feast without
+    a clear dominant normalization function.
+  cautions: Likely episode-specific; could involve sacred_love, betrayal, trickster,
+    or death depending on passage evidence.
+  suggested_aliases:
+  - deadly_wedding_feast
+  - cannibal_wedding_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-day-animal-soul-liminality-after-killing
+  motif_id: three_day_animal_soul_liminality_after_killing
+  label: Three-day animal-soul liminality after killing
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Animal soul liminality after killing suggests a post-kill ritual prohibition
+    or treatment rule, fitting sacred law and animal-spirit taboo patterns.
+  cautions: Could also relate to ancestor_rites or afterlife_passage if the animal
+    soul's journey is emphasized; culturally specific evidence should be reviewed
+    carefully.
+  suggested_aliases:
+  - animal_soul_liminality_after_killing
+  - post_kill_animal_soul_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-day-combat-ending-in-death-on-the-fourth-morning
+  motif_id: three_day_combat_ending_in_death_on_the_fourth_morning
+  label: Three-day combat ending in death on the fourth morning
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core motif is prolonged combat culminating in death, which fits sacred
+    combat more than afterlife or rebirth.
+  cautions: The three-day/fourth-morning timing may be an episode detail; preserve
+    but do not promote unless recurrent.
+  suggested_aliases:
+  - prolonged_combat_ending_in_death
+  - three_day_duel_ending_in_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-day-mourning-or-death-related-prohibitions
+  motif_id: three_day_mourning_or_death_related_prohibitions
+  label: Three-day mourning or death-related prohibitions
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Death-related prohibitions are ritual rules governing mourning and contact
+    with death, fitting sacred law.
+  cautions: If the passage centers on grief expression, lament_and_mourning may be
+    secondary; if it centers on care for the dead, ancestor_rites may be relevant.
+  suggested_aliases:
+  - death_related_prohibitions_during_mourning
+  - three_day_mortuary_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-day-ordeal-under-death-penalty
+  motif_id: three_day_ordeal_under_death_penalty
+  label: Three-day ordeal under death penalty
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A timed ordeal under threat of death fits transformative ordeal and test
+    structure.
+  cautions: Could map to divine_judgment if the ordeal is a legal or sacred trial,
+    or to sacred_combat if martial; source context needed.
+  suggested_aliases:
+  - timed_ordeal_under_death_penalty
+  - three_day_death_penalty_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-fruits-release-accumulated-age-and-death
+  motif_id: three_fruits_release_accumulated_age_and_death
+  label: Three fruits release accumulated age and death
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fruits act as charged substances that release or transform age and death,
+    fitting sacred food or substance motifs.
+  cautions: May also involve death_and_transformation if the passage emphasizes mortality
+    released into the world or bodily transformation; three-fruit detail is likely
+    granular evidence.
+  suggested_aliases:
+  - death_releasing_fruits
+  - fruits_release_age_and_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-night-post-death-observance-by-survivors
+  motif_id: three_night_post_death_observance_by_survivors
+  label: three-night post-death observance by survivors
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: A post-death observance performed by survivors is ritual care for the
+    dead and maintenance of living-dead relations.
+  cautions: If the evidence maps the soul's route during the three nights, afterlife_passage
+    should be a secondary or alternative mapping.
+  suggested_aliases:
+  - three_night_mortuary_observance
+  - post_death_observance_by_survivors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-protective-sacred-fires-with-indwelling-souls
+  motif_id: three_protective_sacred_fires_with_indwelling_souls
+  label: Three protective sacred fires with indwelling souls
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The motif centers on sacred fires as protective, ensouled divine or ritual
+    presences.
+  cautions: If the indwelling souls are the main focus, it may also touch ancestor_rites
+    or soul beliefs; avoid reducing Zoroastrian fire ritual to a generic fire symbol.
+  suggested_aliases:
+  - protective_sacred_fires
+  - ensouled_sacred_fires
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-failed-rising-before-death
+  motif_id: threefold_failed_rising_before_death
+  label: threefold failed rising before death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Repeated failed rising marks the threshold of death or failed restoration,
+    fitting death transformation more than resurrection.
+  cautions: May be a scene-specific death sign rather than a reusable motif; if embedded
+    in lament, lament_and_mourning may be better.
+  suggested_aliases:
+  - failed_rising_before_death
+  - threefold_attempt_to_rise_before_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and numerically specific; preserve
+  the three-day/three-night details as evidence unless recurrence supports canonical
+  promotion.
+- Mortuary and animal-soul labels may require culturally sensitive source review before
+  final normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should confirm whether each
+    label is ritual rule, narrative episode, or generated artifact.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0409
+  input_sha256: 1db20f6dda782bfaf6ce7f5db6b4736239ebbd719da35a23f1cdb27201c171cf
+

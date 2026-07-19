@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0351
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rules-and-fear-concerning-the-dead
+  motif_id: rules_and_fear_concerning_the_dead
+  label: rules and fear concerning the dead
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label points to mortuary prohibitions and fear-based rules regulating
+    contact with the dead, matching sacred-law and taboo patterns.
+  cautions: Could instead belong under ancestor_rites or restless_dead_haunting_vengeance
+    if the passage centers on feeding, appeasing, or fear of active dead spirits.
+  suggested_aliases:
+  - mortuary_taboo
+  - rules_concerning_the_dead
+  - fear_of_the_dead_as_ritual_regulation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sabbath-transgression-punished-by-death
+  motif_id: sabbath_transgression_punished_by_death
+  label: Sabbath transgression punished by death
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif concerns violation of sacred time and law, with death as sanction;
+    sacred_law already covers purity, prohibition, and social order.
+  cautions: Secondary relation to sacred_time/sabbath_cycle and divine_judgment should
+    be preserved if the passage emphasizes calendrical holiness or punishment by divine
+    authority.
+  suggested_aliases:
+  - sabbath_violation_punished_by_death
+  - death_penalty_for_sabbath_transgression
+  - sacred_time_transgression_sanctioned_by_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-administration-of-mortality
+  motif_id: sacred_administration_of_mortality
+  label: sacred administration of mortality
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is abstract and could mean divine allotment of death, afterlife
+    bureaucracy, fate, or ritual management of mortality.
+  cautions: Needs passage evidence before choosing death_by_fate, divine_judgment,
+    afterlife_passage, or a possible funerary-deity/underworld-administration placement.
+  suggested_aliases:
+  - divine_administration_of_mortality
+  - sacred_management_of_death
+  - mortality_under_divine_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-ancestry-legitimizing-spiritual-honor
+  motif_id: sacred_ancestry_legitimizing_spiritual_honor
+  label: sacred ancestry legitimizing spiritual honor
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif uses lineage or ancestry to authorize elevated spiritual status,
+    analogous to sacred legitimacy through descent.
+  cautions: Not necessarily royal; if the evidence is hagiographic genealogy or sainthood
+    lineage, a future saintly/spiritual-lineage group may be more precise.
+  suggested_aliases:
+  - sacred_lineage_legitimizes_spiritual_honor
+  - holy_ancestry_confers_spiritual_status
+  - spiritual_authority_through_sacred_ancestry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-animal-food-taboo-sanctioned-by-disease-or-death
+  motif_id: sacred_animal_food_taboo_sanctioned_by_disease_or_death
+  label: Sacred-animal food taboo sanctioned by disease or death
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A food taboo concerning sacred animals, enforced by disease or death,
+    fits ritual prohibition and sacred-law sanction.
+  cautions: If the passage centers on animal soul retaliation or sacrifice rather
+    than law, related mappings to divine_judgment or sacrifice may be needed.
+  suggested_aliases:
+  - sacred_animal_food_taboo
+  - food_taboo_sanctioned_by_death
+  - animal_taboo_punished_by_disease_or_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-animal-s-death-brings-drought-and-loss-of-fertility
+  motif_id: sacred_animal_s_death_brings_drought_and_loss_of_fertility
+  label: Sacred animal's death brings drought and loss of fertility
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The death of a sacred animal producing drought and infertility functions
+    as cosmic or moral consequence after violation of sacred order.
+  cautions: Could also fit sacrifice or sacred_time/seasonal fertility if ritual renewal
+    is central; avoid reading all drought as judgment without evidence of transgression.
+  suggested_aliases:
+  - sacred_animal_death_causes_drought
+  - death_of_sacred_animal_brings_fertility_loss
+  - sacred_animal_death_disrupts_fertility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-boundary-maintenance-against-gentile-or-hellenistic-assimilation
+  motif_id: sacred_boundary_maintenance_against_gentile_or_hellenistic_assimilation
+  label: sacred boundary maintenance against Gentile or Hellenistic assimilation
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes law-like communal boundary maintenance and identity
+    separation under sacred order.
+  cautions: The wording is historically contextual and may be more social commentary
+    than motif; review for actual narrative or ritual pattern before broad use.
+  suggested_aliases:
+  - sacred_boundary_maintenance
+  - communal_boundary_against_assimilation
+  - identity_boundary_as_sacred_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-cedar-protects-against-malevolent-ghosts
+  motif_id: sacred_cedar_protects_against_malevolent_ghosts
+  label: Sacred cedar protects against malevolent ghosts
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred plant used to avert ghosts fits existing apotropaic protection
+    and spirit-danger patterns under sacred_law.
+  cautions: Do not collapse into sacred_tree_axis unless the cedar functions as world
+    tree or cosmic connector; preserve plant and ghost specificity as evidence.
+  suggested_aliases:
+  - apotropaic_cedar_against_ghosts
+  - sacred_plant_protection_against_ghosts
+  - cedar_warding_malevolent_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-city-organized-by-spiritual-attainment
+  motif_id: sacred_city_organized_by_spiritual_attainment
+  label: Sacred city organized by spiritual attainment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred city structured by spiritual rank or attainment can function
+    as an ordered sacred center or cosmological city.
+  cautions: If the passage maps postmortem realms or liberation stages, afterlife_passage
+    or mystical_quest may be better; source context is important.
+  suggested_aliases:
+  - sacred_city_ordered_by_attainment
+  - spiritual_hierarchy_in_sacred_city
+  - sacred_city_as_spiritual_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-death-or-nirvana-as-chronological-epoch
+  motif_id: sacred_death_or_nirvana_as_chronological_epoch
+  label: sacred death or Nirvana as chronological epoch
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred death or nirvana serving as an epoch marker concerns the ordering
+    of time around a sacred event.
+  cautions: May be a chronological or historiographic artifact rather than a symbolic
+    motif; exclude from pattern queries if it only labels dating conventions.
+  suggested_aliases:
+  - nirvana_as_epoch_marker
+  - sacred_death_as_chronological_epoch
+  - sacred_event_ordering_time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and abstract; mappings should
+  be treated as provisional until passage evidence confirms ritual, narrative, or
+  symbolic function.
+- Death in these labels often appears as sanction, taboo, or chronology rather than
+  underworld descent or resurrection; avoid defaulting to death_and_transformation
+  solely from death vocabulary.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 0351; human
+    review recommended for abstract or historically contextual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0351
+  input_sha256: 189a2ab05f6e85e6793f862e5f15cdc98925e4d538825c05ed26c8c4381accf6
+

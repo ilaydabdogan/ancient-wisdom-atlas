@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0216
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-tomb-creates-enduring-place-name
+  motif_id: heroic_tomb_creates_enduring_place_name
+  label: Heroic tomb creates enduring place-name
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on etiological place-naming from a heroic tomb, matching
+    existing place-name etiology children under cosmic_origin.
+  cautions: May also support heroic_funeral_rites if the tomb ritual or memorial honor
+    is the focus; single occurrence and highly specific.
+  suggested_aliases:
+  - place_name_etiology_from_heroic_tomb
+  - tomb_etiology_for_place_name
+  - heroic_tomb_place_name_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroized-dead-as-protective-guardians
+  motif_id: heroized_dead_as_protective_guardians
+  label: Heroized dead as protective guardians
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Protective heroized dead function like tutelary sacred agents, already
+    folded under divine_intervention in related guardian-spirit labels.
+  cautions: Could belong with ancestor_rites or restless_dead_haunting_vengeance if
+    ritual care of the dead or unresolved haunting is central; hero cult context should
+    be reviewed.
+  suggested_aliases:
+  - heroic_dead_as_guardians
+  - dead_heroes_as_protective_powers
+  - hero_cult_guardians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-ancestral-steed-released-as-quest-aid
+  motif_id: hidden_ancestral_steed_released_as_quest_aid
+  label: Hidden ancestral steed released as quest aid
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is quest assistance during a journey, with the ancestral
+    steed acting as aid released for the hero.
+  cautions: If the steed is chiefly an animal helper or ancestral relic, divine_intervention
+    or sacred_treasures may be better secondary mappings; label is episode-specific.
+  suggested_aliases:
+  - ancestral_steed_as_quest_helper
+  - hidden_steed_aids_heroic_quest
+  - released_ancestral_horse_as_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-divine-image-in-an-underworld-circle
+  motif_id: hidden_divine_image_in_an_underworld_circle
+  label: hidden divine image in an underworld circle
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines cult image, hiddenness, and underworld geography,
+    but the narrative or ritual function is unclear.
+  cautions: Could map to afterlife_passage, sacred_treasures, theophany, or be an
+    Egyptian funerary-text diagram detail; source evidence is needed before placement.
+  suggested_aliases:
+  - hidden_underworld_divine_image
+  - divine_image_in_underworld_circle
+  - concealed_cult_image_in_underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-household-spirit-attacks-sleepers
+  motif_id: hidden_household_spirit_attacks_sleepers
+  label: Hidden household spirit attacks sleepers
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: A harmful household spirit attacking sleepers fits the spirit-danger
+    and apotropaic-protection complex currently grouped under sacred_law.
+  cautions: May instead belong to restless_dead_haunting_vengeance if the spirit is
+    dead-associated, or divine_intervention if it is a tutelary household spirit;
+    culturally specific spirit concepts need review.
+  suggested_aliases:
+  - household_spirit_attacks_sleepers
+  - hidden_domestic_spirit_attack
+  - sleepers_attacked_by_household_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-or-spirit-people-signaled-by-bells-and-songs
+  motif_id: hidden_or_spirit_people_signaled_by_bells_and_songs
+  label: hidden or spirit people signaled by bells and songs
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The recurring signal is sound, bells, and song marking the presence of
+    hidden or spirit people, fitting supernatural sound power.
+  cautions: If the emphasis is the hidden people or their realm rather than sound,
+    otherworld may fit better; source context is needed for cultural specificity.
+  suggested_aliases:
+  - spirit_people_signaled_by_song
+  - hidden_people_announced_by_bells
+  - bells_and_songs_mark_spirit_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-or-vanishing-spirit-dwelling
+  motif_id: hidden_or_vanishing_spirit_dwelling
+  label: Hidden or vanishing spirit dwelling
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A hidden or vanishing spirit dwelling fits an enchanted adjacent realm
+    or otherworldly habitation appearing beside ordinary reality.
+  cautions: Could be a local sacred place or spirit-house detail rather than a broader
+    otherworld motif; preserve dwelling specificity in notes.
+  suggested_aliases:
+  - vanishing_spirit_dwelling
+  - hidden_spirit_house
+  - concealed_otherworld_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-plot-against-a-returning-prophetic-leader
+  motif_id: hidden_plot_against_a_returning_prophetic_leader
+  label: hidden plot against a returning prophetic leader
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Plots against a prophetic leader often belong with opposition to a divinely
+    commissioned mission, already represented under divine_intervention.
+  cautions: The label may be too contextual or historical-person episode-specific;
+    if no supernatural guidance, rescue, or mission function is present, exclude or
+    review as narrative detail.
+  suggested_aliases:
+  - plot_against_returning_prophet
+  - conspiracy_against_prophetic_leader
+  - hidden_opposition_to_prophetic_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-sacred-presence-in-every-human-spirit
+  motif_id: hidden_sacred_presence_in_every_human_spirit
+  label: Hidden sacred presence in every human spirit
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label expresses an interior mystical teaching about discovering divine
+    presence within the human spirit, aligning with mystical_quest and self-knowledge.
+  cautions: May be doctrinal or aphoristic rather than a narrative motif; if used
+    only as commentary, treat as evidence note rather than pattern-query motif.
+  suggested_aliases:
+  - divine_presence_hidden_in_the_soul
+  - sacred_presence_within_human_spirit
+  - inner_hidden_divine_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-underworld-beings-respond-to-divine-voice
+  motif_id: hidden_underworld_beings_respond_to_divine_voice
+  label: Hidden underworld beings respond to divine voice
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Underworld beings responding to divine voice fits a mapped afterlife
+    or underworld sequence where speech activates or orders postmortem powers.
+  cautions: Could also map to curse_blessing_speech or theophany if the performative
+    divine voice is central; Egyptian funerary-text context should be checked.
+  suggested_aliases:
+  - underworld_beings_answer_divine_voice
+  - divine_voice_commands_hidden_underworld_beings
+  - hidden_chthonic_beings_respond_to_sacred_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; suggested mappings should
+  be treated as provisional evidence placements, not taxonomy rewrites.
+- For Egyptian underworld labels, verify whether the item is a narrative motif, funerary
+  map element, ritual instruction, or diagram/commentary artifact before final indexing.
+- For Indigenous and Inuit spirit labels, review source evidence and terminology carefully
+  to avoid flattening culturally specific spirit categories into generic haunting
+  or otherworld motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Automated provisional placements only; human review recommended for culturally
+    specific spirit-world and funerary-text items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0216
+  input_sha256: 859c37c9f9ec49a9a311b494d6cf7a75b80df76e903be1592d8ef96229962ee9
+

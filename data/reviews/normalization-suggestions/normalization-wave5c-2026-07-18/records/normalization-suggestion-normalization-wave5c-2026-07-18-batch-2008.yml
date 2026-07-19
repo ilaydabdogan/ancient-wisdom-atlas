@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2008
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.toy-suspended-before-a-child-for-amusement
+  motif_id: toy_suspended_before_a_child_for_amusement
+  label: toy suspended before a child for amusement
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe a single childcare scene or object detail
+    rather than a recurring symbolic or narrative motif.
+  cautions: If the toy has ritual, protective, or recognition function in the passage,
+    reconsider under sacred_treasures or miraculous_child; otherwise preserve only
+    as evidence detail.
+  suggested_aliases:
+  - child_amusement_object
+  - suspended_child_toy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.toys-used-to-decoy-children-into-a-cannibal-s-house
+  motif_id: toys_used_to_decoy_children_into_a_cannibal_s_house
+  label: toys used to decoy children into a cannibal's house
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is deceptive luring of vulnerable victims into danger,
+    matching existing trickster/predator-lure patterns.
+  cautions: Cannibal-house and child-toy details are culturally specific; if the emphasis
+    is an ogre/monster threshold rather than deception, threshold_guardian may be
+    a secondary fit.
+  suggested_aliases:
+  - toys_as_child_lure
+  - deceptive_toys_lure_children
+  - child_decoy_into_cannibal_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tracks-reveal-a-child-s-growth-and-lead-to-reunion
+  motif_id: tracks_reveal_a_child_s_growth_and_lead_to_reunion
+  label: Tracks reveal a child's growth and lead to reunion
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Tracks function as signs that disclose identity, development, or presence
+    and enable reunion.
+  cautions: If the passage centers on the child’s sacred destiny, miraculous_child
+    may be relevant; if it is only a tracking detail, keep as granular evidence.
+  suggested_aliases:
+  - tracks_as_recognition_signs
+  - footprints_lead_to_reunion
+  - child_tracks_reveal_growth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trail-of-signs-left-by-children
+  motif_id: trail_of_signs_left_by_children
+  label: Trail of signs left by children
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: low
+  rationale: A deliberate trail of signs can function as identity or location evidence
+    enabling pursuit, recognition, or rescue.
+  cautions: Label is broad and may be a simple plot device; review source context
+    for whether signs prove identity, guide a journey, or merely mark travel.
+  suggested_aliases:
+  - children_leave_guiding_signs
+  - trail_of_child_signs
+  - signs_left_for_pursuers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transcendent-realm-expressed-through-cosmic-scale-comparisons
+  motif_id: transcendent_realm_expressed_through_cosmic_scale_comparisons
+  label: transcendent realm expressed through cosmic scale comparisons
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Cosmic-scale description of a transcendent realm fits visionary or revelatory
+    manifestation of sacred reality.
+  cautions: May be theological exposition rather than narrative motif; if it maps
+    a realm as destination, otherworld or ascent may fit better after source review.
+  suggested_aliases:
+  - cosmic_scale_transcendent_realm
+  - visionary_cosmic_scale_comparison
+  - transcendent_realm_by_cosmic_measure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transfer-or-commendation-of-a-child-to-another-household-s-care
+  motif_id: transfer_or_commendation_of_a_child_to_another_household_s_care
+  label: transfer or commendation of a child to another household's care
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: low
+  rationale: A child entrusted to another household can be part of protected, hidden,
+    fostered, or destined-child narratives.
+  cautions: If no sacred destiny or threat is present, this may be ordinary kinship/social
+    detail and should not be indexed as a motif.
+  suggested_aliases:
+  - child_commended_to_foster_household
+  - child_transferred_to_other_household
+  - fosterage_of_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transferred-responsibility-from-child-to-father
+  motif_id: transferred_responsibility_from_child_to_father
+  label: Transferred responsibility from child to father
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too abstract to determine whether the motif concerns kinship
+    duty, ritual obligation, law, or narrative blame-shifting.
+  cautions: Could fit covenant, sacred_law, sacred_exchange, or a passage-specific
+    family/legal detail depending on evidence.
+  suggested_aliases:
+  - responsibility_transferred_to_father
+  - filial_responsibility_reassigned
+  - father_assumes_child_responsibility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transformation-into-revenant-with-reported-gender-change
+  motif_id: transformation_into_revenant_with_reported_gender_change
+  label: transformation into revenant with reported gender change
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Becoming a revenant places the motif within active or returning dead;
+    gender change is a local transformation detail.
+  cautions: If the gender change is central rather than incidental, review with cultural
+    sensitivity and consider secondary shapeshifter or death_and_transformation mapping.
+  suggested_aliases:
+  - revenant_transformation_with_gender_change
+  - dead_return_as_changed_gender
+  - gender_changed_revenant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transition-from-sister-marriage-to-father-s-brother-line-marriage
+  motif_id: transition_from_sister_marriage_to_father_s_brother_line_marriage
+  label: transition from sister marriage to father’s-brother-line marriage
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to describe a specific kinship or marriage-rule transition,
+    requiring source context before motif placement.
+  cautions: May be social-law commentary, genealogy, or a passage-specific marriage
+    regulation rather than a broad mythic motif; culturally sensitive kinship terminology
+    should be reviewed.
+  suggested_aliases:
+  - marriage_rule_transition
+  - kinship_marriage_line_transition
+  - change_in_prescribed_marriage_line
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-double-outcome-against-both-hero-and-son
+  motif_id: treacherous_double_outcome_against_both_hero_and_son
+  label: treacherous double outcome against both hero and son
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on treachery producing harm across a hero and his child,
+    fitting betrayal as the narrative engine.
+  cautions: If the passage emphasizes heroic lineage, combat, or father-son tragedy
+    more than the broken trust, sacred_combat or lament_and_mourning may be secondary.
+  suggested_aliases:
+  - treachery_against_hero_and_son
+  - double_betrayal_harms_father_and_child
+  - treacherous_outcome_against_lineage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and highly contextual; preserve granular labels
+  as evidence details unless recurrence is demonstrated.
+- 'The review bucket overrepresents family/body wording, but several suggested placements
+  depend more on function: deception, recognition signs, revenant return, or betrayal.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft provisional normalization suggestions only; human review needed for
+    culturally specific kinship, Inuit revenant/gender-change, and Gnostic visionary-language
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2008
+  input_sha256: 2527649773392bb6573069fbc06a26cf0f2956c917b7570fd357d47e7e75671d
+

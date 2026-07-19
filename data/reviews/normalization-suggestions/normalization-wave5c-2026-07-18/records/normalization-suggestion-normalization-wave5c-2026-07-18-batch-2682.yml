@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2682
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.failed-revenge-cycle-after-humiliation
+  motif_id: failed_revenge_cycle_after_humiliation
+  label: Failed revenge cycle after humiliation
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on revenge after humiliation within a conflict cycle,
+    fitting feud/vengeance patterns under sacred combat.
+  cautions: Single occurrence; if the passage emphasizes moral downfall from pride
+    more than combat feud, pride_and_downfall or divine_judgment may be better.
+  suggested_aliases:
+  - revenge_cycle_after_humiliation
+  - humiliation_provokes_failed_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-separation-of-combatants-followed-by-unresolved-feud
+  motif_id: failed_separation_of_combatants_followed_by_unresolved_feud
+  label: failed separation of combatants followed by unresolved feud
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Unresolved feud after attempted separation is a conflict-continuation
+    pattern closely aligned with sacred combat and feud cycles.
+  cautions: Highly episode-specific; preserve the failed mediation/separation detail
+    as evidence rather than promoting as a canonical motif.
+  suggested_aliases:
+  - unresolved_feud_after_failed_mediation
+  - failed_combatant_separation_continues_feud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-trials-to-remove-an-afflicting-rider
+  motif_id: failed_trials_to_remove_an_afflicting_rider
+  label: failed trials to remove an afflicting rider
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe an ordeal, spirit affliction, possession-like
+    attachment, or over-specific episode detail.
+  cautions: Culturally sensitive and source-dependent; avoid forcing into combat,
+    exorcism, or initiation without evidence for the rider's nature and ritual function.
+  suggested_aliases:
+  - afflicting_rider_removed_by_trials
+  - failed_removal_of_afflicting_rider
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-violence-followed-by-loss-of-honour
+  motif_id: failed_violence_followed_by_loss_of_honour
+  label: Failed violence followed by loss of honour
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Violence producing dishonor is primarily a moral consequence pattern,
+    fitting judgment and ethical reckoning.
+  cautions: If the passage is a secular honor-code episode rather than sacred moral
+    causality, this may be an over-specific narrative result.
+  suggested_aliases:
+  - violence_leads_to_loss_of_honour
+  - dishonor_after_failed_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-companion-assists-hero-through-dangers
+  motif_id: faithful_companion_assists_hero_through_dangers
+  label: Faithful companion assists hero through dangers
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: role_variant
+  confidence: medium
+  rationale: A companion aiding the hero through dangers functions as support during
+    quest, ordeal, or journey sequence.
+  cautions: No existing companion-specific group is present; if the companion is supernatural
+    or animal, divine_intervention or animal_helpers may be a better secondary placement.
+  suggested_aliases:
+  - helper_companion_aids_hero
+  - faithful_companion_in_heroic_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-servants-tested-under-suffering
+  motif_id: faithful_servants_tested_under_suffering
+  label: Faithful servants tested under suffering
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: In a Sufi context, faithful endurance under suffering likely marks spiritual
+    testing on an interior path.
+  cautions: Could instead be sacred_law or divine_judgment if the passage frames obedience,
+    reward, or punishment rather than mystical discipline.
+  suggested_aliases:
+  - faithfulness_tested_by_suffering
+  - servants_endure_spiritual_trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-spouse-follows-the-hero-into-danger
+  motif_id: faithful_spouse_follows_the_hero_into_danger
+  label: Faithful spouse follows the hero into danger
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spouse's loyal movement into danger with the hero foregrounds love,
+    fidelity, and shared ordeal.
+  cautions: If the danger is the main quest structure rather than marital fidelity,
+    hero_journey may be a useful secondary mapping.
+  suggested_aliases:
+  - spousal_fidelity_in_danger
+  - faithful_spouse_accompanies_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithfulness-tested-by-privacy-and-monetary-temptation
+  motif_id: faithfulness_tested_by_privacy_and_monetary_temptation
+  label: faithfulness tested by privacy and monetary temptation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A virtue tested by private opportunity and money fits moral testing,
+    temptation, and ethical reckoning.
+  cautions: May be too specific or didactic; if framed as a rule of conduct rather
+    than consequence, sacred_law or wisdom may fit better.
+  suggested_aliases:
+  - faithfulness_tested_by_temptation
+  - private_monetary_temptation_tests_fidelity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.falcon-and-swan-as-paired-warning-images
+  motif_id: falcon_and_swan_as_paired_warning_images
+  label: Falcon and swan as paired warning images
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Paired animal images used as warnings function like omen or vision imagery.
+  cautions: If these are merely poetic similes in a battle scene, treat as evidence
+    detail rather than a durable motif; source context needed.
+  suggested_aliases:
+  - paired_bird_warning_images
+  - falcon_swan_omen_pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.falcon-like-heroic-assault
+  motif_id: falcon_like_heroic_assault
+  label: falcon-like heroic assault
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A hero's assault likened to a falcon is martial imagery attached to heroic
+    combat prowess.
+  cautions: Likely a poetic simile; exclude or keep as evidence detail if no recurring
+    narrative function beyond battle description is present.
+  suggested_aliases:
+  - heroic_assault_likened_to_falcon
+  - falcon_simile_for_warrior_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  local detail in notes and avoid promoting them without recurrence.
+- Conflict-bucket labels often mix moral consequence, poetic imagery, and combat structure;
+  final placement should check passage evidence rather than relying on bucket assignment
+  alone.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific spirit-affliction and poetic animal-image labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2682
+  input_sha256: 8f4ea4e2a7504defd907550e8dbc50ce25fdd7c88d077967fd67cd5b7e109f5a
+

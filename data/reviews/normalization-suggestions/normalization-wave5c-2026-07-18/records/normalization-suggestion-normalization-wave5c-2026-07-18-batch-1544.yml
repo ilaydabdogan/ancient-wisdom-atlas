@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1544
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.devotee-breaking-a-wine-jar
+  motif_id: devotee_breaking_a_wine_jar
+  label: devotee breaking a wine-jar
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe renunciation, sacred intoxication, antinomian
+    devotion, or a passage-specific act; function is unclear without context.
+  cautions: Single occurrence and object-specific; avoid mapping to sacred_substance
+    or sacrifice unless the wine-jar breakage has clear ritual or mystical function.
+  suggested_aliases:
+  - breaking_wine_jar_as_devotional_act
+  - renunciation_of_wine_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devotion-to-an-animal-companion-against-social-duty
+  motif_id: devotion_to_an_animal_companion_against_social_duty
+  label: devotion to an animal companion against social duty
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal companionship, loyalty, and conflict with social
+    duty; no existing group cleanly captures the primary function.
+  cautions: Culturally specific Zuni context should be reviewed; could be animal-helper,
+    sacred law, betrayal/loyalty, or passage-specific ethical conflict.
+  suggested_aliases:
+  - animal_companion_loyalty_against_social_obligation
+  - loyalty_to_animal_companion_over_social_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.diamond-netting-border
+  motif_id: diamond_netting_border
+  label: diamond netting border
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a decorative, material, or iconographic detail rather than
+    a narrative or symbolic motif with clear function.
+  cautions: If source evidence shows the border marks a ritual boundary or cosmological
+    net pattern, reconsider under sacred_law, axis_mundi, or a future sacred-design
+    group.
+  suggested_aliases:
+  - diamond_netting_pattern
+  - diamond_border_design
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.differentiated-punishment-by-social-status
+  motif_id: differentiated_punishment_by_social_status
+  label: Differentiated punishment by social status
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label concerns law and punishment structured by social status, fitting
+    sacred law and social order more than divine judgment alone.
+  cautions: May be legal commentary rather than a mythic motif; review whether it
+    appears as narrative pattern, jurisprudential rule, or source-specific social
+    norm.
+  suggested_aliases:
+  - status_differentiated_punishment
+  - social_status_modulates_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directed-valor-creates-order-misdirected-valor-creates-disorder
+  motif_id: directed_valor_creates_order_misdirected_valor_creates_disorder
+  label: Directed valor creates order; misdirected valor creates disorder
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is an ethical-political teaching about properly ordered conduct
+    sustaining social order.
+  cautions: Abstract maxim-like wording may be commentary rather than motif; if embedded
+    in warrior conduct or rulership, secondary links to divine_warrior or royal_legitimacy
+    may apply.
+  suggested_aliases:
+  - ordered_valor_sustains_social_order
+  - misdirected_courage_creates_disorder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directional-animal-powers-ordered-into-cosmic-regions
+  motif_id: directional_animal_powers_ordered_into_cosmic_regions
+  label: Directional animal powers ordered into cosmic regions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Ordering animal powers into directional regions describes cosmological
+    organization of the world.
+  cautions: Review cultural specificity carefully; if used in ceremony rather than
+    creation/cosmology, sacred_law or sacred_time may be better secondary mappings.
+  suggested_aliases:
+  - animal_powers_assigned_to_directions
+  - directional_animals_in_cosmic_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directional-dance-sequence-with-striking
+  motif_id: directional_dance_sequence_with_striking
+  label: Directional dance sequence with striking
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a ritual action sequence, but its symbolic function
+    is not clear from the wording alone.
+  cautions: May be too specific or culturally sensitive for broad motif queries; review
+    whether striking enacts purification, combat, healing, directional ordering, or
+    ceremonial choreography.
+  suggested_aliases:
+  - directional_ritual_dance_with_striking
+  - ceremonial_directional_striking_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directional-landscape-ordered-by-materials-colors-weather-animals-and-paired-dwellers
+  motif_id: directional_landscape_ordered_by_materials_colors_weather_animals_and_paired_dwellers
+  label: directional landscape ordered by materials, colors, weather, animals, and
+    paired dwellers
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A landscape organized by directions, colors, materials, weather, animals,
+    and paired beings is a cosmological ordering pattern.
+  cautions: Highly specific Navajo cosmological detail; preserve local categories
+    and avoid flattening into generic creation unless passage evidence supports world-ordering
+    function.
+  suggested_aliases:
+  - directional_cosmic_landscape_order
+  - landscape_ordered_by_directional_correspondences
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directional-naming-of-social-regions
+  motif_id: directional_naming_of_social_regions
+  label: Directional naming of social regions
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe social geography, cosmological orientation, or
+    ethnographic naming practice; motif function is unclear.
+  cautions: Could be person/place/social classification rather than motif; review
+    source evidence before mapping to cosmic_origin, sacred_law, or royal/social order.
+  suggested_aliases:
+  - social_regions_named_by_direction
+  - directional_social_geography
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directional-ordering-in-ceremonial-action
+  motif_id: directional_ordering_in_ceremonial_action
+  label: Directional ordering in ceremonial action
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ceremony structured by prescribed directions fits ritual regulation
+    and sacred order.
+  cautions: Review whether the directional pattern is cosmological, healing, purification,
+    or calendrical; may warrant secondary mapping to cosmic_origin or sacred_time.
+  suggested_aliases:
+  - ceremonial_directional_ordering
+  - ritual_action_ordered_by_directions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Directional-ordering labels may indicate an underdeveloped cross-cutting theme of
+  ritual/cosmological directionality, but this batch does not justify a new group
+  without broader recurrence review.
+- Several Native American Southwest and Navajo items are culturally specific ceremonial/cosmological
+  labels; human review should preserve local meanings and avoid overgeneralization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several single-occurrence labels require source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1544
+  input_sha256: 8a30cd34ed570669fac9110aae4be3d8a8dc005f2ce8e66c3e940137c2945760
+

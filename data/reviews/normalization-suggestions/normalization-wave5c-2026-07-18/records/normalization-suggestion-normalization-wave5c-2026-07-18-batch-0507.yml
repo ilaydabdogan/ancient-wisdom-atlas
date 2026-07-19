@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0507
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.failed-ritual-question-brings-communal-affliction
+  motif_id: failed_ritual_question_brings_communal_affliction
+  label: Failed ritual question brings communal affliction
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: uncertain
+  confidence: low
+  rationale: A failed ritual question sounds like an initiation or quest-test failure
+    with communal consequences, but the label is too contextual to place confidently.
+  cautions: Arthurian Grail-question material may also involve sacred law, divine
+    judgment, or quest failure; source evidence is needed before indexing broadly.
+  suggested_aliases:
+  - failed quest question
+  - failed ritual question
+  - unasked healing question
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failure-to-request-the-holy-teacher-s-continued-presence
+  motif_id: failure_to_request_the_holy_teacher_s_continued_presence
+  label: failure to request the holy teacher's continued presence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns a missed devotional or relational request toward a
+    holy teacher, which may fit sacred reciprocity or discipleship obligations.
+  cautions: Could be a doctrinal episode-specific detail about the Buddha’s passing
+    rather than a reusable motif; review Buddhist source context sensitively.
+  suggested_aliases:
+  - failure to invite holy teacher to remain
+  - missed request for teacher's continued presence
+  - unasked continuation of sacred teacher
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-accusation-by-rejected-stepmother-leading-to-paternal-curse-and-exile
+  motif_id: false_accusation_by_rejected_stepmother_leading_to_paternal_curse_and_exile
+  label: false accusation by rejected stepmother leading to paternal curse and exile
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: narrower_than
+  confidence: high
+  rationale: The core structure is household persecution through a stepmother’s false
+    accusation, already covered by the jealous stepmother/persecuted child group.
+  cautions: Curse and exile should be preserved as evidence details; secondary links
+    to curse_blessing_speech or hero_journey may apply if central in the passage.
+  suggested_aliases:
+  - false accusation by rejected stepmother
+  - stepmother false accusation causes exile
+  - paternal curse after stepmother accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-bodily-restoration-discovered-after-travel
+  motif_id: false_bodily_restoration_discovered_after_travel
+  label: false bodily restoration discovered after travel
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: Bodily restoration implies death or healing transformation, but the false
+    discovery after travel is too opaque without the episode context.
+  cautions: May be an over-specific plot artifact; could involve deception, failed
+    resurrection, shapeshifting, or journey recognition depending on evidence.
+  suggested_aliases:
+  - false restoration of the body
+  - failed bodily restoration
+  - deceptive bodily restoration discovered
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-friendship-and-betrayed-trust
+  motif_id: false_friendship_and_betrayed_trust
+  label: False friendship and betrayed trust
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: alias
+  confidence: high
+  rationale: The label is a direct synonym for betrayal through a false bond of friendship
+    or trust.
+  cautions: If the passage emphasizes hospitality, oath-breaking, or political alliance,
+    secondary mapping to hospitality_test_stranger_guest or covenant may be useful.
+  suggested_aliases:
+  - false friendship
+  - betrayed trust
+  - friendship as betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-healing-request-as-trap
+  motif_id: false_healing_request_as_trap
+  label: false healing request as trap
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceptive request for healing used to entrap someone functions as trickery
+    or a deceptive stratagem.
+  cautions: If the trap specifically violates hospitality, supplication, or healer-patient
+    obligations, betrayal_violated_trust or sacred_law may be better secondary groups.
+  suggested_aliases:
+  - deceptive healing request
+  - healing request used as trap
+  - false plea for healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-hunting-prowess-in-courtship-exposed-by-kin
+  motif_id: false_hunting_prowess_in_courtship_exposed_by_kin
+  label: false hunting prowess in courtship exposed by kin
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns courtship qualification and exposure of a false claim,
+    but no existing group clearly covers courtship deception around hunting prowess.
+  cautions: May be a local social-comedy or animal/family episode rather than a broad
+    motif; review whether courtship, kin recognition, or moral exposure is the main
+    function.
+  suggested_aliases:
+  - false prowess in courtship
+  - courtship deception exposed by kin
+  - false hunting claim exposed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-journey-as-surveillance-or-test
+  motif_id: false_journey_as_surveillance_or_test
+  label: False journey as surveillance or test
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A journey staged falsely to observe or test others is a deceptive boundary-crossing
+    strategy rather than a true quest arc.
+  cautions: If the emphasis is formal testing rather than deception, initiation may
+    be a secondary fit; avoid treating it as hero_journey unless transformation or
+    departure-return structure is present.
+  suggested_aliases:
+  - feigned journey as test
+  - false journey for surveillance
+  - deceptive journey to test others
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-kinship-or-namesake-claim-rewarded-with-gifts
+  motif_id: false_kinship_or_namesake_claim_rewarded_with_gifts
+  label: False kinship or namesake claim rewarded with gifts
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines false identity or kinship claim with gift exchange,
+    but its social or ritual function is unclear from the label alone.
+  cautions: Could belong to trickster deception, recognition/identity proof, hospitality
+    exchange, or local naming customs; source context is necessary.
+  suggested_aliases:
+  - false kinship claim rewarded
+  - false namesake claim gains gifts
+  - deceptive kin claim and gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-or-improper-divination-in-courtship
+  motif_id: false_or_improper_divination_in_courtship
+  label: False or improper divination in courtship
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label directly involves divination practice, with impropriety or
+    falseness as the distinguishing local function.
+  cautions: Because the setting is courtship and Confucian social order, sacred_law
+    or sacred_love may be secondary depending on whether ritual propriety or marriage
+    choice is central.
+  suggested_aliases:
+  - improper divination in courtship
+  - false courtship divination
+  - misused divination for marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, highly contextual journey/quest
+  artifacts; human review should verify whether they recur beyond the cited episode.
+- 'For deception labels, distinguish the mechanism of trickery from the violated relationship:
+  trickster for stratagem, betrayal_violated_trust for broken bond, sacred_exchange
+  for gift/hospitality reciprocity.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0507
+  input_sha256: df2d7feda775311f39389ad2d0d1ce33a21df00dd07c54f51de0320a00daf8e7
+

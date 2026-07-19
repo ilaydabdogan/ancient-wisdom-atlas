@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2442
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.loss-and-recovery-of-flight
+  motif_id: loss_and_recovery_of_flight
+  label: loss and recovery of flight
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could mean restoration of a power, animal/bird transformation,
+    or an episode-specific event; function is unclear from wording alone.
+  cautions: Single occurrence; do not map to shapeshifter, sacred_treasures, or divine_intervention
+    without evidence for bodily change, power object, or supernatural aid.
+  suggested_aliases:
+  - flight lost and restored
+  - recovery of the power of flight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-into-water-followed-by-recovery-from-below
+  motif_id: loss_into_water_followed_by_recovery_from_below
+  label: loss into water followed by recovery from below
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Water functions as a boundary or depth into which something is lost and
+    from which recovery occurs.
+  cautions: If the recovered item is a power object, add sacred_treasures; if the
+    emphasis is descent to an underworld or sea-depth realm, descent may be a secondary
+    mapping.
+  suggested_aliases:
+  - recovery from beneath the water
+  - object lost in water and recovered below
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-life-sustaining-water-leading-to-communal-suffering
+  motif_id: loss_of_life_sustaining_water_leading_to_communal_suffering
+  label: loss of life-sustaining water leading to communal suffering
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif centers on water as life-sustaining sacred resource whose absence
+    brings communal crisis.
+  cautions: May also involve divine_judgment, drought, or sacred_exchange if the passage
+    frames suffering as punishment or failed ritual reciprocity; source context needed.
+  suggested_aliases:
+  - loss of life-giving water
+  - withdrawal of sustaining water
+  - communal suffering from water loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-luminous-supernatural-spouses-after-contamination-at-water
+  motif_id: loss_of_luminous_supernatural_spouses_after_contamination_at_water
+  label: Loss of luminous supernatural spouses after contamination at water
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This combines supernatural marriage, luminosity, water contamination,
+    and loss of spouses; the dominant motif cannot be inferred from the label alone.
+  cautions: Could fit sacred_love, sacred_waters, sacred_law, otherworld, or divine_judgment
+    depending on whether the passage emphasizes spouse loss, pollution taboo, water
+    boundary, or supernatural departure.
+  suggested_aliases:
+  - supernatural spouses lost after water contamination
+  - loss of otherworld spouses through polluted water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-original-nature-through-artificial-refinement
+  motif_id: loss_of_original_nature_through_artificial_refinement
+  label: Loss of original nature through artificial refinement
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: This is a wisdom or philosophical motif about natural simplicity being
+    harmed by contrived refinement.
+  cautions: May be an abstract doctrinal theme rather than a narrative motif; if it
+    is commentary-only, exclude or preserve as evidence note rather than broad pattern.
+  suggested_aliases:
+  - loss of natural simplicity through refinement
+  - artifice corrupts original nature
+  - unhewn nature damaged by cultivation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-recorded-tradition-by-fire
+  motif_id: loss_of_recorded_tradition_by_fire
+  label: loss of recorded tradition by fire
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes loss of records or tradition, likely a transmission
+    or textual-history detail rather than a symbolic motif.
+  cautions: If a source myth narrates fire as sacred destruction of knowledge, reconsider
+    under sacred_fire or sacred_knowledge; otherwise exclude from motif pattern queries.
+  suggested_aliases:
+  - recorded tradition destroyed by fire
+  - textual tradition lost in fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-and-recovered-route-after-storm
+  motif_id: lost_and_recovered_route_after_storm
+  label: lost-and-recovered route after storm
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Losing and recovering a route after a storm is a journey ordeal involving
+    disorientation and renewed passage.
+  cautions: May be only a travel episode unless the storm marks transformation, divine
+    guidance, or liminal danger; consider divine_intervention if supernatural route
+    recovery is explicit.
+  suggested_aliases:
+  - route lost and recovered after storm
+  - storm disorientation followed by recovered path
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-beads-and-collective-search
+  motif_id: lost_beads_and_collective_search
+  label: Lost beads and collective search
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Lost beads could be sacred objects, exchange goods, identity tokens,
+    or an episode-specific detail; collective search alone is not enough for placement.
+  cautions: Single occurrence and object-specific; map to sacred_treasures only if
+    the beads carry power, authority, identity, or ritual value.
+  suggested_aliases:
+  - collective search for lost beads
+  - lost bead quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-magical-age-and-decrepit-present-world
+  motif_id: lost_magical_age_and_decrepit_present_world
+  label: Lost magical age and decrepit present world
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label clearly contrasts a lost superior age with a diminished present
+    world, matching cosmic decline or golden-age loss.
+  cautions: If the passage is nostalgic social commentary rather than mythic time
+    schema, preserve as evidence but avoid overgeneralizing.
+  suggested_aliases:
+  - lost magical age
+  - decrepit present world after primordial age
+  - decline from a magical age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-mythic-basis-for-moon-epithets
+  motif_id: lost_mythic_basis_for_moon_epithets
+  label: Lost mythic basis for moon epithets
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes absence or reconstruction of explanatory tradition
+    behind epithets, a textual or scholarly artifact rather than a motif.
+  cautions: If actual surviving myths explain moon names, index those specific lunar
+    motifs instead; this label itself should not drive pattern queries.
+  suggested_aliases:
+  - lost explanation for moon epithets
+  - unrecoverable mythic basis of lunar names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and episode-specific; suggestions should be
+  checked against passage evidence before final mapping.
+- Water-related labels should not be forced into flood_and_renewal unless world destruction
+  and renewal are explicit.
+- Textual-loss or lost-explanation labels are best treated as provenance/commentary
+  artifacts unless the passage itself narrates a mythic loss.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2442
+  input_sha256: 0b6f1781844ad8f53855fe29b09a9a7ef1b9a0f9c84a97cc4cbb71fe31043be2
+

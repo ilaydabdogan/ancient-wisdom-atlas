@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3364
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divinity-transmigrating-through-chosen-human-figures
+  motif_id: divinity_transmigrating_through_chosen_human_figures
+  label: Divinity transmigrating through chosen human figures
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could imply incarnation, spiritual succession, possession,
+    sainthood, or sectarian doctrine; existing groups cannot safely place it from
+    label alone.
+  cautions: Culturally and doctrinally sensitive in an Islamic context; requires source
+    evidence and terminology review before indexing.
+  suggested_aliases:
+  - divine_presence_in_chosen_humans
+  - transmigration_of_divinity_through_elect_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - theophany
+    - supreme_ruler
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.do-not-look-back-command-and-violation
+  motif_id: do_not_look_back_command_and_violation
+  label: Do-not-look-back command and violation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prohibition is issued and violated, making the binding command/taboo
+    the main motif function.
+  cautions: Could also involve threshold crossing, escape, or divine judgment depending
+    on consequences; preserve the look-back detail as evidence.
+  suggested_aliases:
+  - look_back_taboo_violation
+  - forbidden_look_back_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - divine_judgment
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.do-not-look-back-while-leaving-a-burning-home
+  motif_id: do_not_look_back_while_leaving_a_burning_home
+  label: do not look back while leaving a burning home
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: low
+  rationale: The reusable element is the taboo or command not to look back; the burning
+    home appears to be episode-specific context.
+  cautions: If the fire is a world-ending or judgmental catastrophe, flood_and_renewal
+    or divine_judgment may be relevant; otherwise avoid over-indexing the setting.
+  suggested_aliases:
+  - look_back_taboo_during_escape
+  - do_not_look_back_command_in_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_fire
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doctrinal-fragmentation-into-schisms
+  motif_id: doctrinal_fragmentation_into_schisms
+  label: doctrinal fragmentation into schisms
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as historical or doctrinal commentary about community divisions
+    rather than a narrative or symbolic motif.
+  cautions: If a passage mythologizes schism as divine judgment or sacred-law violation,
+    review manually rather than excluding automatically.
+  suggested_aliases:
+  - sectarian_fragmentation
+  - schism_history_commentary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doctrine-as-nourishing-fragrant-and-valuable-substance
+  motif_id: doctrine_as_nourishing_fragrant_and_valuable_substance
+  label: Doctrine as nourishing, fragrant, and valuable substance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Doctrine functions as sacred knowledge conveyed through metaphors of
+    nourishment, fragrance, and value.
+  cautions: May also touch sacred_substance if the passage treats doctrine as food
+    or medicine in a sustained ritual-symbolic way; likely metaphorical rather than
+    material substance.
+  suggested_aliases:
+  - doctrine_as_nourishment
+  - teaching_as_precious_fragrant_substance
+  - dharma_as_nourishing_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doctrine-as-ocean
+  motif_id: doctrine_as_ocean
+  label: Doctrine as ocean
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The ocean image appears to characterize the breadth or depth of sacred
+    teaching, which fits sacred knowledge.
+  cautions: Do not map to sacred_waters unless the passage uses actual water for purification,
+    crossing, or transformation rather than metaphor.
+  suggested_aliases:
+  - teaching_as_ocean
+  - dharma_ocean
+  - oceanic_doctrine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.document-authentication-by-witnesses-scribe-and-regnal-date
+  motif_id: document_authentication_by_witnesses_scribe_and_regnal_date
+  label: document authentication by witnesses, scribe, and regnal date
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes documentary or archival authentication practices,
+    not a mythic motif for pattern queries.
+  cautions: Preserve as provenance or legal-document context if needed; only reconsider
+    if the document form itself is ritually sacralized in the passage.
+  suggested_aliases:
+  - documentary_authentication_formula
+  - witness_scribe_regnal_date_colophon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.documentation-of-chiefly-architecture
+  motif_id: documentation_of_chiefly_architecture
+  label: documentation of chiefly architecture
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording points to descriptive documentation rather than a symbolic
+    motif involving sacred space or kingship.
+  cautions: If the architecture functions as a sacred center, chiefly legitimacy marker,
+    or ritual house, human review may map it to axis_mundi or royal_legitimacy.
+  suggested_aliases:
+  - architectural_documentation
+  - chiefly_architecture_description
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - royal_legitimacy
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doll-dressed-in-adult-women-s-clothing
+  motif_id: doll_dressed_in_adult_women_s_clothing
+  label: doll dressed in adult women's clothing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could refer to ritual representation, initiation, gendered
+    socialization, effigy use, or a passage-specific object detail.
+  cautions: Culturally specific ritual-object meanings require source context; do
+    not force into sacred_treasures or sacred_craft from object wording alone.
+  suggested_aliases:
+  - clothed_doll_effigy
+  - female_clothed_ritual_doll
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_craft
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.domestic-hall-scene-reflecting-public-dispute
+  motif_id: domestic_hall_scene_reflecting_public_dispute
+  label: domestic hall scene reflecting public dispute
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a scene-description or literary-structural observation
+    rather than a reusable motif.
+  cautions: If source evidence shows the hall as a legally or ritually charged space
+    where social order is contested, review for sacred_law, covenant, or royal_legitimacy.
+  suggested_aliases:
+  - domestic_scene_mirroring_public_conflict
+  - hall_scene_as_dispute_microcosm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and read as commentary, documentary
+  description, or over-specific scene detail; these should not be promoted without
+  recurring evidence.
+- For metaphorical doctrine labels, map by function to sacred_knowledge and avoid
+  treating water or substance imagery as literal sacred_waters or sacred_substance
+  unless passage evidence supports that function.
+- Look-back prohibitions may deserve a future cross-cultural taboo/threshold subgroup
+  if recurring examples accumulate.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally sensitive Islamic and Native American
+    ritual-object items need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3364
+  input_sha256: 11ea466fc8996b090e8e051cd2d21149e26beeef65168930fddbb6ee945a516f
+

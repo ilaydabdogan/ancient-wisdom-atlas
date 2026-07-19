@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0420
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unburned-divine-corpse-as-origin-of-mound-burial
+  motif_id: unburned_divine_corpse_as_origin_of_mound_burial
+  label: Unburned divine corpse as origin of mound-burial
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label explains a burial custom through treatment of an important
+    dead body, fitting funerary rites and memorialization more than descent or resurrection.
+  cautions: Single occurrence and etiological wording; if the divine corpse creates
+    a landscape or ritual institution, cosmic_origin or sacred_law may be secondary
+    review options.
+  suggested_aliases:
+  - origin_of_mound_burial_from_unburned_divine_corpse
+  - etiology_of_mound_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncanny-lodging-with-a-chamber-of-many-dead
+  motif_id: uncanny_lodging_with_a_chamber_of_many_dead
+  label: Uncanny lodging with a chamber of many dead
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The scene may be a perilous threshold, haunted lodging, murder-house
+    episode, or passage-specific marvel depending on narrative function.
+  cautions: Do not map to afterlife or descent unless the chamber functions as an
+    otherworld/death threshold; may be too episode-specific for pattern queries.
+  suggested_aliases:
+  - death_chamber_in_uncanny_lodging
+  - lodging_with_hidden_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncanny-tomb-of-the-saint-or-sorcerer
+  motif_id: uncanny_tomb_of_the_saint_or_sorcerer
+  label: uncanny tomb of the saint or sorcerer
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing group includes saintly tomb, shrine, and relic devotion;
+    an uncanny tomb can function as a sacred power site/object.
+  cautions: If the tomb primarily marks haunting or active dead agency, restless_dead_haunting_vengeance
+    may be better; saint/sorcerer contrast needs source review.
+  suggested_aliases:
+  - uncanny_saintly_tomb
+  - uncanny_sorcerer_tomb
+  - power_tomb_of_holy_or_magical_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncertain-ancestral-memory-of-victory-and-captivity
+  motif_id: uncertain_ancestral_memory_of_victory_and_captivity
+  label: uncertain ancestral memory of victory and captivity
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording signals uncertainty and may describe historical memory, ethnographic
+    commentary, or genealogy rather than a mythic motif.
+  cautions: Potentially culturally sensitive; avoid treating as ancestor rites unless
+    ritual interaction with ancestors is explicit.
+  suggested_aliases:
+  - ancestral_memory_of_victory_and_captivity
+  - collective_memory_of_victory_and_captivity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncertain-soul-inside-a-familiar-body
+  motif_id: uncertain_soul_inside_a_familiar_body
+  label: uncertain soul inside a familiar body
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to possession, soul displacement, reincarnation,
+    external soul, or identity uncertainty, and the word uncertain flags weak evidence.
+  cautions: Needs source context before mapping to soul_loss_restoration, external_soul,
+    shapeshifter, or death_and_transformation.
+  suggested_aliases:
+  - soul_inside_familiar_body
+  - ambiguous_soul_identity_in_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.uncertainty-about-the-dead-s-knowledge
+  motif_id: uncertainty_about_the_dead_s_knowledge
+  label: Uncertainty about the dead's knowledge
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a philosophical or ritual-theological question about what
+    the dead know, not a clear narrative motif.
+  cautions: Could relate to ancestor rites if it governs ritual care of the dead,
+    or sacred_knowledge if framed as doctrine; avoid broad indexing without passage
+    evidence.
+  suggested_aliases:
+  - dead_knowledge_uncertainty
+  - uncertain_awareness_of_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unchanging-afterlife-continuing-earthly-pursuits
+  motif_id: unchanging_afterlife_continuing_earthly_pursuits
+  label: Unchanging afterlife continuing earthly pursuits
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label describes the character of postmortem existence, fitting the
+    afterlife landscape/passage complex.
+  cautions: This is not necessarily a journey map; if the passage only states a belief
+    about the dead continuing life, keep as granular evidence under afterlife rather
+    than a canonical child.
+  suggested_aliases:
+  - afterlife_continues_earthly_pursuits
+  - afterlife_as_unchanged_earthly_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unclean-spirits-leading-descendants-astray
+  motif_id: unclean_spirits_leading_descendants_astray
+  label: Unclean spirits leading descendants astray
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Misleading unclean spirits function as agents of moral corruption and
+    reckoning within a sacred order.
+  cautions: Could also fit divine_intervention if the focus is spirit agency, or sacred_law
+    if framed as impurity/demonic temptation; source context matters.
+  suggested_aliases:
+  - unclean_spirits_mislead_descendants
+  - malign_spirits_leading_lineage_astray
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unconfined-malign-spirit-class
+  motif_id: unconfined_malign_spirit_class
+  label: Unconfined malign spirit class
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a class of spirits rather than a narrative function,
+    rite, or recurring action.
+  cautions: Potentially an ethnographic classification artifact; map only if the passage
+    shows haunting, spirit affliction, protection, or intervention.
+  suggested_aliases:
+  - malign_unconfined_spirits
+  - unbound_malign_spirit_class
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.under-mountain-fire-and-spirit-townhouse
+  motif_id: under_mountain_fire_and_spirit_townhouse
+  label: Under-mountain fire and spirit townhouse
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The composite label mixes under-mountain space, fire, spirits, and a
+    dwelling; its function could be otherworld, axis mundi, sacred fire, or spirit
+    habitation.
+  cautions: Culturally specific spatial imagery should not be collapsed to underworld/descent
+    without evidence of a journey, death realm, or transformative passage.
+  suggested_aliases:
+  - spirit_townhouse_under_mountain
+  - under_mountain_spirit_dwelling_with_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and contain uncertainty or composite
+  scene wording; source context should drive final placement.
+- Avoid treating every death-adjacent or spirit label as afterlife passage; distinguish
+  funerary practice, active spirit agency, philosophical doctrine, and textual/ethnographic
+  classification.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for uncertain
+    and culturally specific spirit/ancestor labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0420
+  input_sha256: 8c111c8977472e3ed5ed58193d2f0d44ec7efc409a6178debc45b6f99ce4ff30
+

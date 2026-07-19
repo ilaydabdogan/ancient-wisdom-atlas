@@ -1,0 +1,331 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2495
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rain-caused-by-enemy-killing-and-raised-trophy
+  motif_id: rain_caused_by_enemy_killing_and_raised_trophy
+  label: rain caused by enemy killing and raised trophy
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines weather causation with enemy killing and trophy display; could
+    be rainmaking, sacred combat, sacrifice, or an over-specific episode.
+  cautions: Single occurrence and culturally specific context; avoid reducing warfare-trophy
+    ritual to a generic rain or combat motif without source evidence.
+  suggested_aliases:
+  - rainmaking_through_enemy_trophy
+  - weather_effect_from_ritualized_enemy_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-ceremony-ceremonial-headdress
+  motif_id: rain_ceremony_ceremonial_headdress
+  label: rain-ceremony ceremonial headdress
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: A headdress used in a rain ceremony is likely ritual-material evidence
+    rather than a standalone motif.
+  cautions: May belong to a broader rainmaking-ritual group if created; preserve the
+    headdress detail as local evidence and review cultural specificity.
+  suggested_aliases:
+  - rain_ceremony_headdress
+  - ritual_headdress_for_rain_ceremony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-ceremony-instrument
+  motif_id: rain_ceremony_instrument
+  label: rain ceremony instrument
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: A ritual instrument for rain ceremony is an object detail within weather
+    petition practice, not clearly a broad motif.
+  cautions: Could overlap with sacred_treasures, sacred_craft, or sound/ritual practice
+    depending on the object and use; source evidence needed.
+  suggested_aliases:
+  - rainmaking_instrument
+  - ritual_instrument_for_rain_ceremony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-ceremony-with-cloud-and-rain-emblems
+  motif_id: rain_ceremony_with_cloud_and_rain_emblems
+  label: Rain ceremony with cloud and rain emblems
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Petition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label clearly describes ritual petition or enactment for rain using
+    weather emblems, a recurring function not cleanly held by sacred_waters or divine_intervention.
+  cautions: Culturally specific rain ceremonial forms should remain granular; do not
+    generalize all water imagery into rainmaking.
+  suggested_aliases:
+  - rain_ceremony
+  - rainmaking_ceremony
+  - weather_petition_ritual
+  - cloud_and_rain_emblems
+  suggested_new_group:
+    id: rainmaking_weather_petition
+    label: Rainmaking and Weather Petition
+    description: Rituals, dances, petitions, emblems, messengers, or divine intermediaries
+      used to seek rain, snow, clouds, or weather renewal for land and community.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    - sacred_waters
+    related_group_ids:
+    - sacred_time
+    - sacred_law
+    - sacred_substance
+    reason_existing_groups_insufficient: Existing groups cover water, divine aid,
+      or reciprocity broadly, but not the specific ritual function of petitioning
+      or ritually inducing rain and weather.
+- suggestion_id: normalization.suggestion.rain-cross-bearing-deity-and-attendant
+  motif_id: rain_cross_bearing_deity_and_attendant
+  label: Rain-cross-bearing deity and attendant
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to identify iconographic figures or attributes rather than
+    a narrative function.
+  cautions: Potentially culturally sensitive and iconographic; may be a deity/attribute
+    catalog item rather than a motif. Review before mapping to rainmaking or divine_intervention.
+  suggested_aliases:
+  - rain_cross_deity
+  - rain_deity_with_attendant
+  - rain_cross_iconography
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-dependent-emergence-of-useful-plant-material
+  motif_id: rain_dependent_emergence_of_useful_plant_material
+  label: rain-dependent emergence of useful plant material
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rain enabling useful plant material fits miraculous or sacred provision
+    through nature and renewed land.
+  cautions: If the passage focuses on agriculture or seasonal recurrence, sacred_time
+    may be a secondary fit; if it is ordinary ecology, it may be too contextual.
+  suggested_aliases:
+  - rain_brings_useful_plants
+  - divine_provision_through_rain_and_plants
+  - plant_material_emerges_after_rain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-intercession-through-war-deities
+  motif_id: rain_intercession_through_war_deities
+  label: rain intercession through war deities
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines rain petition with war-deity mediation, making the
+    dominant function unclear.
+  cautions: Could map to a rainmaking-weather-petition candidate, divine_warrior,
+    or divine_intervention depending on whether weather, combat power, or deity role
+    is central.
+  suggested_aliases:
+  - rain_petition_through_war_deities
+  - war_deities_as_rain_intercessors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-or-snow-sought-through-masked-supernatural-dances
+  motif_id: rain_or_snow_sought_through_masked_supernatural_dances
+  label: Rain or snow sought through masked supernatural dances
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Petition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Masked supernatural dances seeking rain or snow are a clear weather-petition
+    ritual pattern.
+  cautions: Review cultural context carefully; mask and dance details should remain
+    local evidence rather than be flattened into generic sacred_exchange.
+  suggested_aliases:
+  - weather_petition_through_masked_dance
+  - rain_or_snow_dance
+  - masked_supernatural_weather_dance
+  suggested_new_group:
+    id: rainmaking_weather_petition
+    label: Rainmaking and Weather Petition
+    description: Rituals, dances, petitions, emblems, messengers, or divine intermediaries
+      used to seek rain, snow, clouds, or weather renewal for land and community.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    - sacred_waters
+    related_group_ids:
+    - sacred_time
+    - sacred_law
+    - sacred_substance
+    reason_existing_groups_insufficient: Existing groups cover water, divine aid,
+      or reciprocity broadly, but not the specific ritual function of petitioning
+      or ritually inducing rain and weather.
+- suggestion_id: normalization.suggestion.rain-petition-through-insect-messenger
+  motif_id: rain_petition_through_insect_messenger
+  label: rain petition through insect messenger
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Petition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is petitioning for rain through a messenger, fitting
+    a broader weather-petition complex.
+  cautions: If the insect's role as animal helper is central, divine_intervention
+    may be a secondary mapping; single occurrence needs review.
+  suggested_aliases:
+  - insect_messenger_for_rain
+  - rain_petition_messenger
+  - animal_messenger_for_weather_petition
+  suggested_new_group:
+    id: rainmaking_weather_petition
+    label: Rainmaking and Weather Petition
+    description: Rituals, dances, petitions, emblems, messengers, or divine intermediaries
+      used to seek rain, snow, clouds, or weather renewal for land and community.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    - sacred_waters
+    related_group_ids:
+    - sacred_time
+    - sacred_law
+    - sacred_substance
+    reason_existing_groups_insufficient: Existing groups cover water, divine aid,
+      or reciprocity broadly, but not the specific ritual function of petitioning
+      or ritually inducing rain and weather.
+- suggestion_id: normalization.suggestion.rain-petition-to-cloud-and-weather-peoples
+  motif_id: rain_petition_to_cloud_and_weather_peoples
+  label: Rain petition to cloud and weather peoples
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Petition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A petition addressed to cloud and weather beings directly fits weather-petition
+    ritual and divine/interpersonal reciprocity.
+  cautions: Respect the local category of 'peoples' or beings; avoid collapsing them
+    into generic deities without source review.
+  suggested_aliases:
+  - rain_petition_to_weather_beings
+  - petition_to_cloud_people
+  - petition_to_weather_people
+  suggested_new_group:
+    id: rainmaking_weather_petition
+    label: Rainmaking and Weather Petition
+    description: Rituals, dances, petitions, emblems, messengers, or divine intermediaries
+      used to seek rain, snow, clouds, or weather renewal for land and community.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    - sacred_waters
+    related_group_ids:
+    - sacred_time
+    - sacred_law
+    - sacred_substance
+    reason_existing_groups_insufficient: Existing groups cover water, divine aid,
+      or reciprocity broadly, but not the specific ritual function of petitioning
+      or ritually inducing rain and weather.
+batch_notes:
+- Several labels point to a recurring rainmaking/weather-petition complex not cleanly
+  represented by current groups; proposed as a candidate group for taxonomy review
+  rather than direct taxonomy edit.
+- Native American Southwest ceremonial labels are culturally specific and should be
+  reviewed with source context before broad normalization.
+- Object or regalia labels such as headdress and instrument may be evidence details
+  within rain ceremony rather than durable motif labels.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; human review needed for culturally specific
+    rain-ceremony and iconographic labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2495
+  input_sha256: 32ebec7efda764bc712cc117696f045188689578e4b4da0a3b69f43f5bd1c034
+

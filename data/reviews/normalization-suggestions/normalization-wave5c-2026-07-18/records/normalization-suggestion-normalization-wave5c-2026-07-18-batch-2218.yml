@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2218
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mourning-expressed-through-veiling-animal-cries-pacing-and-hair-tearing
+  motif_id: mourning_expressed_through_veiling_animal_cries_pacing_and_hair_tearing
+  label: mourning expressed through veiling, animal cries, pacing, and hair-tearing
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: high
+  rationale: The core pattern is embodied mourning practice; the animal-cries detail
+    is an expressive feature, not an animal-transformation motif.
+  cautions: Single occurrence and highly specific gesture cluster; preserve details
+    as evidence rather than promoting a new motif.
+  suggested_aliases:
+  - mourning_gesture_cluster
+  - embodied_mourning_practices
+  - mourning_with_animal_cries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-gesture-transmitted-to-an-animal-witness
+  motif_id: mourning_gesture_transmitted_to_an_animal_witness
+  label: mourning gesture transmitted to an animal witness
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: uncertain
+  confidence: medium
+  rationale: The label appears to involve mourning communication, but the animal witness
+    may be narratively important enough to require source review.
+  cautions: Could be animal messenger/witness, ritual mourning, or passage-specific
+    detail; do not map solely because an animal appears.
+  suggested_aliases:
+  - mourning_gesture_to_animal_witness
+  - animal_witness_to_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-procession-with-reversed-arms-and-mourning-animal
+  motif_id: mourning_procession_with_reversed_arms_and_mourning_animal
+  label: mourning procession with reversed arms and mourning animal
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A formal mourning procession with reversed arms fits funerary rite and
+    memorial practice more than animal motif.
+  cautions: If the passage emphasizes grief expression rather than funeral ceremony,
+    lament_and_mourning may be the better primary group; animal detail may be local
+    evidence.
+  suggested_aliases:
+  - funeral_procession_with_reversed_arms
+  - mourning_animal_in_funeral_procession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-transformation-through-dress-and-conduct
+  motif_id: mourning_transformation_through_dress_and_conduct
+  label: mourning transformation through dress and conduct
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes mourning as a change in outward conduct and dress,
+    fitting embodied grief practice.
+  cautions: In Confucian context this may be ritual propriety or sacred law/social
+    order; consider secondary sacred_law if evidence centers on prescribed conduct.
+  suggested_aliases:
+  - mourning_by_dress_and_conduct
+  - ritual_mourning_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.movement-shaped-by-swamp-avoidance-and-ford-selection
+  motif_id: movement_shaped_by_swamp_avoidance_and_ford_selection
+  label: movement shaped by swamp avoidance and ford selection
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as practical route description or ecological movement
+    detail rather than a symbolic motif.
+  cautions: If the source treats ford selection as a charged threshold crossing or
+    ordeal, review for hero_journey or threshold_guardian instead.
+  suggested_aliases:
+  - route_choice_by_swamp_avoidance
+  - ford_selection_as_travel_detail
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moving-land-like-a-river-carrying-animals
+  motif_id: moving_land_like_a_river_carrying_animals
+  label: moving land like a river carrying animals
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: Moving land carrying animals may describe landscape formation or cosmic
+    instability, but function is unclear from the label alone.
+  cautions: Could be etiological landscape myth, flood/water image, animal migration
+    episode, or passage-specific description; source evidence is needed.
+  suggested_aliases:
+  - moving_land_carries_animals
+  - land_moves_like_river
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.murder-plot-reversed-at-a-cliff-by-animal-helper
+  motif_id: murder_plot_reversed_at_a_cliff_by_animal_helper
+  label: murder plot reversed at a cliff by animal helper
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The decisive function is rescue or plot reversal through an animal helper,
+    already represented under divine_intervention's animal_helpers child.
+  cautions: If the animal helper is not sacred or supernatural, this may be a folktale
+    helper motif better reviewed under a future animal-helper group; cliff detail
+    is over-specific.
+  suggested_aliases:
+  - animal_helper_reverses_murder_plot
+  - animal_helper_rescue_at_cliff
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-harmonizes-animals-and-officials
+  motif_id: music_harmonizes_animals_and_officials
+  label: Music harmonizes animals and officials
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: Music exerting harmonizing power over animals and social officials fits
+    music as supernatural or moral ordering force.
+  cautions: Confucian context may emphasize social order and ritual propriety; consider
+    sacred_law or royal_legitimacy as secondary if governance is central.
+  suggested_aliases:
+  - music_harmonizes_animals_and_humans
+  - ritual_music_harmonizes_social_and_animal_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.music-that-attracts-animals
+  motif_id: music_that_attracts_animals
+  label: music that attracts animals
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: alias
+  confidence: high
+  rationale: The group already includes enchanting music that attracts living beings
+    and summons animals.
+  cautions: If the passage is ordinary herding or hunting rather than supernatural
+    sound power, exclude or mark as contextual evidence.
+  suggested_aliases:
+  - enchanting_music_attracts_animals
+  - music_summons_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-man-eating-animal-antagonists
+  motif_id: mutual_man_eating_animal_antagonists
+  label: mutual man-eating animal antagonists
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: Animal antagonists may fit fable conflict or predator-deception material,
+    but the exact narrative function is unclear.
+  cautions: Could be monster threat, animal fable, reciprocal predation, or local
+    ecological narrative; avoid forcing into trickster without deception or boundary-crossing
+    evidence.
+  suggested_aliases:
+  - man_eating_animal_antagonists
+  - mutual_predatory_animal_adversaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels were placed in an animals bucket because animals appear in the wording,
+  but many function primarily as mourning, music, route, or rescue motifs.
+- Single-occurrence, highly specific labels should generally remain granular evidence
+  unless source review shows recurrence across traditions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; ambiguous animal-centered labels
+    need passage-level verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2218
+  input_sha256: 5facaee20828d11274f26b881e22538c28a72ec67b0e4d50f6a9baa3f5fcccc8
+

@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2106
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.approach-of-thunderbirds
+  motif_id: approach_of_thunderbirds
+  label: approach of thunderbirds
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Thunderbirds may be powerful spirit-birds, weather beings, or episode-specific
+    arrivals; the label gives only an approach scene.
+  cautions: Culturally specific being and single occurrence; source context is needed
+    before mapping to divine_intervention, sacred_waters/weather, or an animal-spirit
+    group.
+  suggested_aliases:
+  - thunderbird_arrival
+  - approaching_thunderbirds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.approach-to-dog-feast-vessel-with-hand-lowering-and-vocalization
+  motif_id: approach_to_dog_feast_vessel_with_hand_lowering_and_vocalization
+  label: approach to dog-feast vessel with hand-lowering and vocalization
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a very specific ritual or scene choreography rather
+    than a reusable motif at current granularity.
+  cautions: If the passage documents a recurring dog-feast ritual action, human review
+    could preserve it under sacrifice or sacred_exchange instead of excluding it.
+  suggested_aliases:
+  - dog_feast_vessel_approach
+  - hand_lowering_at_dog_feast_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.approaching-animal-army-mistaken-for-game-herd
+  motif_id: approaching_animal_army_mistaken_for_game_herd
+  label: Approaching animal army mistaken for game herd
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal collectivity, misrecognition, and possible
+    impending combat, but the narrative function is unclear.
+  cautions: Could fit sacred_combat if the animal army is a war force, trickster if
+    deception is central, or be an over-specific episode detail.
+  suggested_aliases:
+  - animal_army_misrecognized_as_game
+  - hostile_animal_host_mistaken_for_herd
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.approaching-thunderbirds-announced-by-sound
+  motif_id: approaching_thunderbirds_announced_by_sound
+  label: approaching thunderbirds announced by sound
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a sound-announced arrival of culturally specific thunder
+    beings, but the motif function is not explicit.
+  cautions: May duplicate approach_of_thunderbirds; review together and avoid reducing
+    thunderbirds to generic birds or storms without source evidence.
+  suggested_aliases:
+  - thunderbird_arrival_announced_by_sound
+  - sound_announces_thunderbirds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aquatic-creature-overpowers-sky-or-bird-hunters
+  motif_id: aquatic_creature_overpowers_sky_or_bird_hunters
+  label: aquatic creature overpowers sky or bird hunters
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is an inter-being combat or overpowering scene, with
+    aquatic versus sky/bird roles as local specification.
+  cautions: If the aquatic creature is a threshold guardian, monster, or spirit helper
+    rather than a combatant, another mapping may be needed.
+  suggested_aliases:
+  - aquatic_being_overpowers_bird_hunters
+  - water_creature_defeats_sky_hunters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-human-helper-protects-against-wild-beasts
+  motif_id: armed_human_helper_protects_against_wild_beasts
+  label: armed human helper protects against wild beasts
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A protective helper against beasts may function like guidance or rescue,
+    but the helper is only described as human.
+  cautions: If no supernatural or sacred agency is present, this may be a generic
+    adventure detail rather than a motif; review for helper role and recurrence.
+  suggested_aliases:
+  - armed_helper_protects_from_wild_beasts
+  - protector_against_wild_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-men-grown-from-sown-dragon-s-teeth
+  motif_id: armed_men_grown_from_sown_dragon_s_teeth
+  label: armed men grown from sown dragon’s teeth
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif is the artificial or magical generation of armed beings from
+    a material object, close to crafted or animated beings.
+  cautions: Could also relate to sacred_combat because the generated men are warriors;
+    preserve dragon-tooth specificity as evidence detail.
+  suggested_aliases:
+  - dragon_teeth_sown_produce_armed_men
+  - armed_warriors_sprung_from_dragon_teeth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.army-and-heroes-described-through-animal-and-nature-similes
+  motif_id: army_and_heroes_described_through_animal_and_nature_similes
+  label: army and heroes described through animal and nature similes
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes poetic description or imagery rather than a narrative
+    motif or symbolic action.
+  cautions: If a specific animal transformation or divine animal role appears in the
+    passage, index that separately; generic simile catalogues should not drive motif
+    queries.
+  suggested_aliases:
+  - animal_and_nature_similes_for_armies
+  - heroic_animal_nature_similes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrow-struck-animal-sheds-a-burden-and-continues-onward
+  motif_id: arrow_struck_animal_sheds_a_burden_and_continues_onward
+  label: arrow-struck animal sheds a burden and continues onward
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The action is too context-dependent to place: it may be pursuit, transformation,
+    escape, or an etiological animal episode.'
+  cautions: Single occurrence and highly specific; review whether the burden-shedding
+    has symbolic, trickster, or shapeshifting function before mapping.
+  suggested_aliases:
+  - wounded_animal_sheds_burden_and_continues
+  - arrow_struck_animal_continues_after_shedding_load
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ascetic-restraint-as-healing-and-transformation
+  motif_id: ascetic_restraint_as_healing_and_transformation
+  label: Ascetic restraint as healing and transformation
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: Ascetic discipline producing healing or transformation fits the contemplative
+    path of interior transformation.
+  cautions: Review bucket appears mismatched; if the passage emphasizes renunciation
+    as offering, sacrifice or sacred_exchange may be secondary.
+  suggested_aliases:
+  - ascetic_restraint_heals_and_transforms
+  - healing_through_ascetic_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several thunderbird and animal-army labels are culturally specific singletons and
+  should be reviewed with source passages rather than normalized from wording alone.
+- The review_bucket_id for ascetic_restraint_as_healing_and_transformation appears
+  incorrect for the label semantics.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2106
+  input_sha256: aa6707859a894cd05918839ab371f001d07d349e0bc34bd1e3e453b28f8c1dcc
+

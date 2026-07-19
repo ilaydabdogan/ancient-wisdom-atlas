@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0878
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.human-formation-from-elemental-matter-in-the-divine-image
+  motif_id: human_formation_from_elemental_matter_in_the_divine_image
+  label: human formation from elemental matter in the divine image
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Human creation from elemental matter and divine image belongs to anthropogonic
+    creation, already covered by cosmic_origin variants such as clay and divine breath
+    creation.
+  cautions: Preserve the divine-image detail; it may also support sacred_law or sacred_knowledge
+    if the passage emphasizes human vocation rather than formation.
+  suggested_aliases:
+  - human_creation_from_elemental_matter
+  - human_formed_in_divine_image
+  - anthropogony_from_elemental_matter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-formed-from-earth-and-animated-by-divine-breath
+  motif_id: human_formed_from_earth_and_animated_by_divine_breath
+  label: human formed from earth and animated by divine breath
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: alias
+  confidence: high
+  rationale: This is a close synonym of existing creation motifs for humans formed
+    from clay or earth and enlivened by divine breath or spirit.
+  cautions: Do not infer textual dependence from similarity; keep local earth/breath
+    wording as evidence.
+  suggested_aliases:
+  - human_fashioned_from_earth_and_given_divine_breath
+  - creation_of_humans_from_earth_and_divine_breath
+  - human_formed_from_clay_and_divine_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-free-will-under-divine-power
+  motif_id: human_free_will_under_divine_power
+  label: Human free will under divine power
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label concerns moral agency under divine sovereignty, fitting sacred
+    law and ethical order better than ritual sacrifice.
+  cautions: Could also belong with supreme_ruler if divine sovereignty is central,
+    or sacred_knowledge if framed as theology rather than narrative motif.
+  suggested_aliases:
+  - human_moral_agency_under_divine_power
+  - free_will_under_divine_sovereignty
+  - human_choice_under_divine_decree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-helplessness-before-divine-providence
+  motif_id: human_helplessness_before_divine_providence
+  label: human helplessness before divine providence
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Human dependence before providence emphasizes divine sovereignty over
+    human life and cosmic order.
+  cautions: May be devotional teaching rather than a narrative motif; mystical_quest
+    may fit if the passage emphasizes surrender or interior discipline.
+  suggested_aliases:
+  - human_dependence_on_divine_providence
+  - helplessness_before_divine_will
+  - human_powerlessness_under_divine_sovereignty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-heroic-striving-without-divine-aid
+  motif_id: human_heroic_striving_without_divine_aid
+  label: human heroic striving without divine aid
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns heroic action in relation to the absence of divine
+    aid, a contrastive variant of heroic or sacred combat patterns.
+  cautions: If the passage centers on fate, doom, or honor rather than combat, death_by_fate
+    or sacred_combat may be stronger; label is abstract and needs context.
+  suggested_aliases:
+  - heroic_striving_without_divine_help
+  - unaided_heroic_effort
+  - mortal_heroism_without_divine_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-imam-identified-with-god
+  motif_id: human_imam_identified_with_god
+  label: Human Imam identified with God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves culturally and theologically sensitive identification
+    of a human religious authority with divinity.
+  cautions: Requires source-specific and sectarian context; avoid flattening into
+    royal_legitimacy, theophany, or living-deity motifs without evidence.
+  suggested_aliases:
+  - imam_identified_with_divinity
+  - human_religious_leader_identified_with_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-likeness-to-the-gods-as-educational-ideal
+  motif_id: human_likeness_to_the_gods_as_educational_ideal
+  label: human likeness to the gods as educational ideal
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Becoming godlike through education is a wisdom and transformative-knowledge
+    ideal rather than a ritual or birth motif.
+  cautions: May be philosophical doctrine rather than narrative motif; sacred_law
+    may fit if the emphasis is ethical imitation of divine order.
+  suggested_aliases:
+  - education_as_likeness_to_the_divine
+  - godlikeness_as_educational_ideal
+  - human_assimilation_to_gods_through_learning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-making-of-earthly-gods
+  motif_id: human_making_of_earthly_gods
+  label: human making of earthly gods
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: Human making of earthly gods in Hermetic context likely refers to animated
+    cult images or crafted divine presences, already covered by sacred_craft children.
+  cautions: Could overlap with idol or theophany depending on whether the focus is
+    image-making, divine indwelling, or polemic against images.
+  suggested_aliases:
+  - making_earthly_gods
+  - crafted_earthly_gods
+  - human_fabrication_of_divine_images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-making-of-gods-through-divine-images
+  motif_id: human_making_of_gods_through_divine_images
+  label: human making of gods through divine images
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: alias
+  confidence: high
+  rationale: The label directly matches the sacred_craft cluster for animated or life-like
+    cult images made by magical or sacred craft.
+  cautions: Review whether the source treats images as legitimate divine embodiments
+    or as idols; mapping should not import polemical judgment.
+  suggested_aliases:
+  - gods_made_through_divine_images
+  - animated_divine_images
+  - cult_images_as_earthly_gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-piety-as-reconciliation-after-divine-division
+  motif_id: human_piety_as_reconciliation_after_divine_division
+  label: Human piety as reconciliation after divine division
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Piety repairing a separation between human and divine fits sacred reciprocity
+    and relationship repair.
+  cautions: If the passage emphasizes covenantal law, map secondarily to covenant;
+    if it is philosophical anthropology, it may be too abstract for pattern queries.
+  suggested_aliases:
+  - piety_reconciles_divine_division
+  - human_piety_restores_divine_human_relation
+  - piety_as_repair_of_separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are theological or philosophical abstractions with
+  single occurrences; preserve local doctrinal context and avoid treating placement
+  as evidence of transmission.
+- Human-creation labels should map to cosmic_origin while retaining specific material,
+  breath, and divine-image details as evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional automated placement suggestions; culturally sensitive Islamic
+    and philosophical labels require human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0878
+  input_sha256: 3a5194d2d37881cb9a25b3f9d10a301a7ec0ab84c97f443c92a376bb3fd9d3f9
+

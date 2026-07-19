@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0721
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.context-dependent-divine-epithet
+  motif_id: context_dependent_divine_epithet
+  label: context-dependent divine epithet
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a naming or classification feature rather than a
+    narrative, ritual, or symbolic motif.
+  cautions: If a passage uses the epithet to enact divine manifestation or cult identity,
+    preserve that evidence separately under theophany or sacred_law.
+  suggested_aliases:
+  - divine_epithet_contextual_usage
+  - contextual_cult_epithet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.context-specific-ritual-disposition
+  motif_id: context_specific_ritual_disposition
+  label: Context-specific ritual disposition
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: A ritual disposition may belong with sacred order and prescribed conduct,
+    but the label is abstract and context-dependent.
+  cautions: Could be commentary on attitude, propriety, or textual interpretation
+    rather than a reusable motif; review Confucian ritual context before mapping.
+  suggested_aliases:
+  - ritual_disposition
+  - proper_ritual_attitude
+  - contextual_ritual_propriety
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continence-preserves-sacred-life-or-status
+  motif_id: continence_preserves_sacred_life_or_status
+  label: Continence preserves sacred life or status
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Continence as a rule preserving sacred status fits ritual purity, taboo,
+    and sacred conduct.
+  cautions: If the passage emphasizes renunciation as mystical discipline, mystical_quest
+    or sacred_exchange may be relevant secondary mappings.
+  suggested_aliases:
+  - sexual_continence_preserves_sacred_status
+  - chastity_as_ritual_purity
+  - continence_as_sacred_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continuity-and-sharing-of-sacred-structure-names
+  motif_id: continuity_and_sharing_of_sacred_structure_names
+  label: Continuity and sharing of sacred structure names
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe ethnographic or classificatory continuity
+    in names rather than a symbolic motif.
+  cautions: If named structures function as sacred centers or ritual houses in the
+    source, index the underlying structure under axis_mundi or world_center instead.
+  suggested_aliases:
+  - shared_sacred_structure_names
+  - continuity_of_ritual_structure_names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continuity-of-local-symbols-within-an-introduced-ritual-setting
+  motif_id: continuity_of_local_symbols_within_an_introduced_ritual_setting
+  label: Continuity of local symbols within an introduced ritual setting
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an interpretive note about symbol continuity within a ritual
+    setting, not a motif pattern.
+  cautions: Avoid treating this as evidence of transmission or borrowing; map only
+    the specific local symbols if passage evidence supports them.
+  suggested_aliases:
+  - local_symbol_continuity_in_introduced_ritual
+  - ritual_symbol_continuity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continuity-of-sacred-funerary-material-across-later-corpora
+  motif_id: continuity_of_sacred_funerary_material_across_later_corpora
+  label: continuity of sacred funerary material across later corpora
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns textual or corpus continuity of funerary material
+    rather than a passage-level motif.
+  cautions: If the underlying material maps the soul's postmortem route, index that
+    content under afterlife_passage instead.
+  suggested_aliases:
+  - funerary_material_continuity_across_corpora
+  - continuity_of_funerary_textual_material
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contrasting-devotions-toward-a-sacred-object
+  motif_id: contrasting_devotions_toward_a_sacred_object
+  label: Contrasting devotions toward a sacred object
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The focus is a sacred object whose different devotional responses reveal
+    status or spiritual orientation.
+  cautions: If the object is specifically a vessel such as the Grail, sacred_vessel
+    may be the better or secondary group.
+  suggested_aliases:
+  - divergent_devotion_to_sacred_object
+  - contrasting_responses_to_holy_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.controlled-fire-display-from-ritual-pipe-smoke
+  motif_id: controlled_fire_display_from_ritual_pipe_smoke
+  label: controlled fire display from ritual pipe smoke
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual smoke producing or displaying fire fits sacred fire as ritual
+    presence or power.
+  cautions: The pipe and smoke details may be culturally specific; preserve as evidence
+    and avoid broadening to world-destroying fire.
+  suggested_aliases:
+  - ritual_pipe_smoke_fire_display
+  - sacred_fire_from_pipe_smoke
+  - controlled_ritual_fire_smoke
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conventional-sacred-color-coding-in-animal-vision-decoration
+  motif_id: conventional_sacred_color_coding_in_animal_vision_decoration
+  label: Conventional sacred color coding in animal-vision decoration
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: Animal-vision imagery suggests dream or vision symbolism, but the color-coding/decorative
+    emphasis may be a local ritual-art convention.
+  cautions: Could be an ethnographic classification artifact or culturally specific
+    iconographic rule; needs source review before motif indexing.
+  suggested_aliases:
+  - sacred_color_coding_in_vision_animals
+  - animal_vision_color_symbolism
+  - ritual_color_coding_of_vision_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.convergence-of-a-vast-sacred-assembly
+  motif_id: convergence_of_a_vast_sacred_assembly
+  label: Convergence of a vast sacred assembly
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vast sacred assembly often functions as a revelatory scene where sacred
+    presence is manifested to witnesses.
+  cautions: If the passage emphasizes teaching transmission rather than manifestation,
+    sacred_knowledge may be a better secondary mapping.
+  suggested_aliases:
+  - vast_sacred_assembly
+  - great_revelatory_assembly
+  - convergence_of_holy_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be commentary about continuity, naming, or
+  context rather than passage-level motifs; provisional exclusions should preserve
+  underlying evidence notes where useful.
+- Culturally specific ritual and Native American iconographic labels should receive
+  human review before broad indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0721
+  input_sha256: e3b12385903ce8fc6266b1897b5b25aac8aea528593adc6e552299db68889eba
+

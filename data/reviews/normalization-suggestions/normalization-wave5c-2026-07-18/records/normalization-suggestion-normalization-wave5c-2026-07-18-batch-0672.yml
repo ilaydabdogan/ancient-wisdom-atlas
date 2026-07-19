@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0672
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animals-regarded-as-gods-or-wakantas
+  motif_id: animals_regarded_as_gods_or_wakantas
+  label: Animals regarded as gods or wakantas
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns culturally specific sacred animal status rather than
+    a clear narrative function in an existing group.
+  cautions: Culturally sensitive term and single occurrence; review source evidence
+    before mapping to divine_race, divine_intervention, sacred_law, or an animal-spirit
+    group.
+  suggested_aliases:
+  - sacred_animals_regarded_as_divine
+  - animals_as_wakantas
+  - animals_as_sacred_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_law
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animate-elements-as-servants-of-god
+  motif_id: animate_elements_as_servants_of_god
+  label: animate elements as servants of God
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Natural elements acting as servants of God fit sacred powers operating
+    in human or cosmic affairs under divine agency.
+  cautions: Could be theological cosmology or poetic personification rather than a
+    narrative motif; avoid treating as elemental catastrophe unless destructive judgment
+    is explicit.
+  suggested_aliases:
+  - elements_as_servants_of_god
+  - animate_natural_elements_serving_divine_will
+  - natural_elements_as_divine_agents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animate-marking-of-ritual-trees
+  motif_id: animate_marking_of_ritual_trees
+  label: animate marking of ritual trees
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines tree ritual, animation, and marking without enough
+    evidence to determine the motif function.
+  cautions: May be a ritual practice note, sacred-tree evidence, apotropaic marking,
+    or culturally specific ceremonial detail; single occurrence needs source review.
+  suggested_aliases:
+  - ritual_marking_of_living_trees
+  - animated_ritual_tree_marking
+  - marked_sacred_trees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animate-removed-skin-displayed-in-ritual-setting
+  motif_id: animate_removed_skin_displayed_in_ritual_setting
+  label: Animate removed skin displayed in ritual setting
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An animate removed skin in ritual context could involve transformation,
+    spirit presence, relic display, or ceremonial embodiment.
+  cautions: Potentially culturally sensitive and over-specific; do not map without
+    evidence for whether the skin is a living double, ritual object, trophy, or spirit
+    medium.
+  suggested_aliases:
+  - living_removed_skin_in_ritual_display
+  - animate_skin_displayed_ritually
+  - ritual_display_of_animate_skin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_treasures
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animate-sacred-object-as-curing-helper-and-intercessor
+  motif_id: animate_sacred_object_as_curing_helper_and_intercessor
+  label: animate sacred object as curing helper and intercessor
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animated sacred object that cures and intercedes functions as a mediating
+    sacred agent in human healing.
+  cautions: Could also belong with sacred_treasures if the object’s power-object status
+    is primary; review culturally specific healing context.
+  suggested_aliases:
+  - animated_sacred_object_as_healing_intercessor
+  - curing_helper_sacred_object
+  - animate_healing_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animated-helper-objects-in-a-smoking-rite
+  motif_id: animated_helper_objects_in_a_smoking_rite
+  label: Animated helper objects in a smoking rite
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label centers on ritual implements operating within a rite, fitting
+    the broad ritual-practice and apotropaic/sacred regulation area.
+  cautions: Low confidence because the object animation may be better treated as sacred_treasures
+    or divine_intervention if the helpers act as autonomous sacred agents.
+  suggested_aliases:
+  - animated_objects_in_smoking_rite
+  - helper_objects_in_ritual_smoking
+  - animated_ritual_helper_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - divine_intervention
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animated-mountain-checked-by-divine-authority
+  motif_id: animated_mountain_checked_by_divine_authority
+  label: Animated mountain checked by divine authority
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divinely authorized restraint of an animated mountain fits sacred authority
+    imposing order on a dangerous force.
+  cautions: If the mountain mainly functions as world axis or sacred landscape, axis_mundi
+    may be secondary; if this is an episode-specific personification, keep as granular
+    evidence.
+  suggested_aliases:
+  - divine_authority_checks_animated_mountain
+  - animated_mountain_restrained_by_deity
+  - mountain_stopped_by_divine_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animated-objects-serve-as-ritual-messengers
+  motif_id: animated_objects_serve_as_ritual_messengers
+  label: Animated objects serve as ritual messengers
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Animated objects acting as messengers mediate sacred communication and
+    guidance, fitting divine intervention broadly.
+  cautions: Could also fit sacred_treasures if the emphasis is on empowered objects;
+    confirm that the messenger role is ritual and not just a passage-specific detail.
+  suggested_aliases:
+  - animated_ritual_messenger_objects
+  - ritual_messenger_objects
+  - animated_objects_as_sacred_messengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animated-or-sacred-vegetation-as-bearer-of-life
+  motif_id: animated_or_sacred_vegetation_as_bearer_of_life
+  label: Animated or sacred vegetation as bearer of life
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Life-bearing sacred vegetation could mean world-tree, life-token, healing
+    plant, or comparative symbolism.
+  cautions: The comparative label is broad and may be synthetic; review whether passage
+    evidence supports axis_mundi, external_soul, sacred_substance, or death_and_transformation.
+  suggested_aliases:
+  - sacred_vegetation_as_life_bearer
+  - living_vegetation_bearing_life
+  - animated_life_bearing_plant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - external_soul
+    - sacred_substance
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animated-ritual-implement-guides-the-healer
+  motif_id: animated_ritual_implement_guides_the_healer
+  label: animated ritual implement guides the healer
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ritual implement guiding a healer functions as sacred guidance through
+    an empowered object.
+  cautions: Could also be sacred_treasures or a culturally specific healing-rite motif;
+    review whether the implement is an autonomous spirit helper or a ritual tool.
+  suggested_aliases:
+  - animated_healing_implement_guides_healer
+  - ritual_implement_as_healing_guide
+  - animated_ritual_tool_guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels involve Indigenous ritual objects, animals, and healing practices;
+  placements should remain provisional and should be checked against source evidence
+  and culturally appropriate terminology.
+- Repeated 'animated object/implement' labels may indicate a future cross-cutting
+  review category for animated ritual objects, but current evidence here is mostly
+  single-occurrence and can be provisionally handled under divine_intervention, sacred_treasures,
+  or sacred_law depending on function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for culturally
+    sensitive and over-specific ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0672
+  input_sha256: 22e6eadf197a9e9c0a48ce31ba14034cd374b4021f50e7750bf8ea42eb9c2a26
+

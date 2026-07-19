@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0284
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ominous-dream-before-discovery-of-violent-death
+  motif_id: ominous_dream_before_discovery_of_violent_death
+  label: ominous dream before discovery of violent death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: A dream that ominously discloses or foreshadows violent death fits dream/vision
+    as revelatory altered perception.
+  cautions: Single occurrence; if the passage stresses inescapable destined death
+    more than dream-revelation, death_by_fate may be a secondary mapping.
+  suggested_aliases:
+  - death-foretelling dream
+  - ominous dream of violent death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-gift-that-foreshadows-the-giver-s-death
+  motif_id: ominous_gift_that_foreshadows_the_giver_s_death
+  label: ominous gift that foreshadows the giver's death
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve portent, gift exchange, fate, or a passage-specific
+    narrative sign.
+  cautions: Source evidence is needed to decide whether the gift functions as sacred_exchange,
+    prophecy_divination, death_by_fate, or merely an episode-specific foreshadowing
+    device.
+  suggested_aliases:
+  - death-foreshadowing gift
+  - ominous farewell gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-recognition-and-death-foretelling-of-a-warrior
+  motif_id: ominous_recognition_and_death_foretelling_of_a_warrior
+  label: ominous recognition and death-foretelling of a warrior
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior's foretold death aligns with fated or destined death, especially
+    in heroic traditions.
+  cautions: The recognition element may point to recognition_tokens_hidden_identity
+    if tokens or identity proof drive the scene; otherwise preserve it as local detail.
+  suggested_aliases:
+  - foretelling of a warrior's death
+  - ominous recognition before fated death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-red-sky-at-the-moment-of-death
+  motif_id: ominous_red_sky_at_the_moment_of_death
+  label: Ominous red sky at the moment of death
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An ominous sky sign at death is a portent or altered perception marking
+    death.
+  cautions: Could fit prophecy_divination if interpreted through omen practice; could
+    be an over-specific atmospheric detail if no divinatory or revelatory function
+    is present.
+  suggested_aliases:
+  - red sky death omen
+  - celestial portent at death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-silence-before-revelation-of-death
+  motif_id: ominous_silence_before_revelation_of_death
+  label: ominous silence before revelation of death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label reads as a scene mood or narrative pacing device before death
+    is revealed.
+  cautions: May be too passage-specific for pattern queries unless the silence functions
+    ritually, divinatorily, or as a recognized omen in the source.
+  suggested_aliases:
+  - ominous silence before death news
+  - silence before death revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-speech-before-death
+  motif_id: ominous_speech_before_death
+  label: Ominous speech before death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A significant utterance before death may function as performative or
+    prophetic speech that binds, reveals, or transforms the situation.
+  cautions: If the speech only foreshadows death narratively, dream_and_vision or
+    death_by_fate may be better; source wording is needed.
+  suggested_aliases:
+  - death-foretelling speech
+  - ominous final utterance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-religion-divided-into-sects-and-returned-to-god
+  motif_id: one_religion_divided_into_sects_and_returned_to_god
+  label: one religion divided into sects and returned to God
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is doctrinal and eschatological but not clearly a death, afterlife,
+    covenant, or judgment motif from wording alone.
+  cautions: Potentially culturally sensitive theological summary; review source evidence
+    before mapping to covenant, divine_judgment, sacred_law, or excluding as commentary.
+  suggested_aliases:
+  - religious division and return to God
+  - sects returned to God
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.open-coffin-transgression-causes-sudden-death
+  motif_id: open_coffin_transgression_causes_sudden_death
+  label: Open-coffin transgression causes sudden death
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A mortuary taboo violation causing death fits sacred law, ritual prohibition,
+    and dangerous contact with death.
+  cautions: Could also involve divine_judgment if punishment is explicit, or sacred_treasures/sacred_vessel
+    if the coffin as container is central.
+  suggested_aliases:
+  - mortuary taboo violation causes death
+  - coffin-opening taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.opened-burial-mound-as-supernatural-dwelling
+  motif_id: opened_burial_mound_as_supernatural_dwelling
+  label: opened burial mound as supernatural dwelling
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A burial mound opened as a dwelling of supernatural beings fits an adjacent
+    enchanted or otherworldly realm.
+  cautions: If the mound is specifically a land of the dead or descent threshold,
+    descent or afterlife_passage may be better secondary mappings.
+  suggested_aliases:
+  - burial mound as otherworld dwelling
+  - opened mound reveals supernatural habitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.opening-a-house-wall-for-corpse-removal
+  motif_id: opening_a_house_wall_for_corpse_removal
+  label: opening a house wall for corpse removal
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed mortuary handling practice belongs with ritual law and purity
+    regulation around death.
+  cautions: May be an over-specific ethnographic detail; if the act prevents haunting
+    or soul return, restless_dead_haunting_vengeance or ancestor_rites may be relevant.
+  suggested_aliases:
+  - corpse removal through house wall
+  - mortuary wall-opening rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence omen or mortuary-practice labels; preserve granular
+  wording as evidence notes and avoid promoting them without recurrence.
+- For omen labels, distinguish spontaneous signs under dream_and_vision from systematic
+  omen interpretation under prophecy_divination and from inescapable warrior doom
+  under death_by_fate.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    mortuary practices and doctrinal/theological summary labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0284
+  input_sha256: 483417cf73c11fef21180d7e6b41cb26b6440e5e51fcbe99e666a8bed1a711de
+

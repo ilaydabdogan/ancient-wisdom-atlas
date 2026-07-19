@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2189
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.human-animal-tree-similarity
+  motif_id: human_animal_tree_similarity
+  label: Human-animal-tree similarity
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too abstract to distinguish analogy, shared ancestry, transformation,
+    totemism, or taxonomy of beings.
+  cautions: Single occurrence; may be an interpretive or comparative note rather than
+    a narrative motif. Review passage evidence before mapping to shapeshifter, axis_mundi,
+    or cosmic_origin.
+  suggested_aliases:
+  - human_animal_tree_affinity
+  - similarity_between_humans_animals_and_trees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-captive-carried-off-by-a-lion
+  motif_id: human_captive_carried_off_by_a_lion
+  label: human captive carried off by a lion
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a specific predation or abduction incident rather
+    than a durable symbolic or narrative motif.
+  cautions: May be useful as passage evidence if the lion is a supernatural predator,
+    threshold guardian, or abductor; otherwise exclude from broad motif queries.
+  suggested_aliases:
+  - human_carried_off_by_lion
+  - captive_abducted_by_lion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-carried-off-by-lion
+  motif_id: human_carried_off_by_lion
+  label: Human carried off by lion
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears synonymous with the adjacent lion-captive label and is too
+    incident-specific for a query group.
+  cautions: If the source presents the lion as a supernatural captor or liminal beast,
+    human review could map it to threshold_guardian or another future dangerous-animal
+    group.
+  suggested_aliases:
+  - human_captive_carried_off_by_a_lion
+  - lion_carries_off_human
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-clamor-causes-birds-or-bird-like-figures-to-fall
+  motif_id: human_clamor_causes_birds_or_bird_like_figures_to_fall
+  label: human clamor causes birds or bird-like figures to fall
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: low
+  rationale: Human sound causing beings to fall fits the broader sound-power pattern,
+    though it is clamor rather than music.
+  cautions: Review whether the effect is magical sound, battle noise, ritual shouting,
+    or a passage-specific event. Do not assume bird symbolism or transformation without
+    evidence.
+  suggested_aliases:
+  - clamor_causes_birds_to_fall
+  - human_noise_fells_bird_like_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-companion-abandoned-at-remote-sea-place-by-supernatural-or-animal-kin
+  motif_id: human_companion_abandoned_at_remote_sea_place_by_supernatural_or_animal_kin
+  label: Human companion abandoned at remote sea place by supernatural or animal kin
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines abandonment, sea remoteness, kinship, and supernatural
+    or animal agents, making the main function unclear.
+  cautions: Could fit otherworld, hero_journey, betrayal_violated_trust, sacred_waters,
+    or animal-kin traditions depending on the episode. Too composite for automatic
+    mapping.
+  suggested_aliases:
+  - abandoned_at_remote_sea_place_by_animal_kin
+  - human_companion_abandoned_by_supernatural_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-costuming-as-harvest-animal
+  motif_id: human_costuming_as_harvest_animal
+  label: Human costuming as harvest animal
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A person costumed as a harvest animal likely belongs with seasonal harvest
+    ritual and the corn-spirit/harvest-animal complex.
+  cautions: Comparative label may be ethnographic classification rather than a source
+    motif. If the focus is disguise or embodiment rather than ritual cycle, shapeshifter
+    may be secondary.
+  suggested_aliases:
+  - human_disguised_as_harvest_animal
+  - ritual_costuming_as_harvest_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-creation-by-animal-or-nonhuman-creators-with-helper
+  motif_id: human_creation_by_animal_or_nonhuman_creators_with_helper
+  label: human creation by animal or nonhuman creators with helper
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: 'The core function is anthropogony: humans are created by nonhuman or
+    animal creators with assistance.'
+  cautions: Preserve animal/nonhuman creator and helper details; if the animal creator
+    also founds culture, culture_hero may be a related secondary group.
+  suggested_aliases:
+  - human_creation_by_nonhuman_creators
+  - animal_creators_make_humans_with_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-dominion-over-animals-after-renewal
+  motif_id: human_dominion_over_animals_after_renewal
+  label: Human dominion over animals after renewal
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Dominion over animals is framed as part of a renewed order after catastrophe
+    or restoration.
+  cautions: If renewal is not a world-renewal context, sacred_law, royal_legitimacy,
+    or cosmic_origin may be better. Avoid treating animal dominion alone as an animal
+    motif.
+  suggested_aliases:
+  - animal_dominion_after_world_renewal
+  - human_rule_over_animals_in_renewed_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-eating-birds-in-high-nest
+  motif_id: human_eating_birds_in_high_nest
+  label: human-eating birds in high nest
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: low
+  rationale: Dangerous man-eating birds in an elevated nest may function as perilous
+    guardian or monster obstacle.
+  cautions: Single, specific monster detail. If no guarded threshold, quest obstacle,
+    or liminal passage is present, exclude as episode-specific evidence rather than
+    a motif group.
+  suggested_aliases:
+  - man_eating_birds_in_high_nest
+  - human_eating_nest_birds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-encounter-with-a-dangerous-animal-in-a-cave
+  motif_id: human_encounter_with_a_dangerous_animal_in_a_cave
+  label: human encounter with a dangerous animal in a cave
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: A cave encounter with danger can mark a descent-like liminal ordeal in
+    an enclosed underworld-like space.
+  cautions: If the cave is only a setting for animal danger, the label is over-specific
+    and may need exclusion. Consider threshold_guardian only if the animal guards
+    passage or knowledge.
+  suggested_aliases:
+  - dangerous_animal_encounter_in_cave
+  - cave_encounter_with_dangerous_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and animal-episode specific; placements should
+  remain provisional until passage evidence shows ritual, threshold, creation, or
+  transformation function.
+- The two San lion labels appear near-synonymous and should likely be merged or excluded
+  as granular incident evidence unless a supernatural lion-abductor pattern recurs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft suggestions only; human review needed for culturally specific animal-kin
+    and cave/lion episodes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2189
+  input_sha256: f1891f7a237c2a2b4cbdf5a4105455c106f9433401b0fbbfd72a39d2c05fa06a
+

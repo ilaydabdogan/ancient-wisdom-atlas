@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0838
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.forbidden-speech-in-a-sacred-building
+  motif_id: forbidden_speech_in_a_sacred_building
+  label: forbidden speech in a sacred building
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prohibition regulating conduct in a sacred space fits sacred law, taboo,
+    and ritual order.
+  cautions: Single occurrence; if the passage is only an episode-specific rule, preserve
+    as evidence detail rather than promoting it.
+  suggested_aliases:
+  - ritual_speech_prohibition
+  - taboo_speech_in_sacred_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forbidden-witness-to-women-only-ecstatic-rite
+  motif_id: forbidden_witness_to_women_only_ecstatic_rite
+  label: forbidden witness to women-only ecstatic rite
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core pattern is a ritual access prohibition and tabooed witnessing,
+    which broadly fits sacred law.
+  cautions: Gender-restricted ecstatic rites are culturally sensitive and may involve
+    mystery-cult evidence; review source context before mapping.
+  suggested_aliases:
+  - forbidden_witness_to_secret_rite
+  - ritual_access_taboo
+  - women_only_rite_witnessing_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forced-relocation-under-divine-decree
+  motif_id: forced_relocation_under_divine_decree
+  label: forced relocation under divine decree
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine decree compelling human relocation is direct sacred agency guiding
+    or redirecting human affairs.
+  cautions: If the emphasis is political exile, ritual mandate, or social order rather
+    than divine action, hero_journey, covenant, or sacred_law may be secondary.
+  suggested_aliases:
+  - divine_decree_for_relocation
+  - sacred_command_to_move
+  - compelled_migration_by_divine_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-badge-included-in-a-local-ritual-building
+  motif_id: foreign_badge_included_in_a_local_ritual_building
+  label: Foreign badge included in a local ritual building
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an ethnographic or classificatory detail about an
+    object in a ritual building rather than a reusable narrative motif.
+  cautions: If the source describes the badge as a power object, covenant sign, or
+    ritual incorporation of outsiders, reconsider under sacred_treasures or sacred_law.
+  suggested_aliases:
+  - foreign_badge_in_ritual_house
+  - foreign_emblem_in_local_shrine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-food-exempt-from-local-taboo-effects
+  motif_id: foreign_food_exempt_from_local_taboo_effects
+  label: Foreign food exempt from local taboo effects
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food taboo and exemption rules fit ritual prohibition and sacred law.
+  cautions: The foreign/local distinction may be highly contextual or ethnographic;
+    verify whether this is a recurring taboo logic rather than a passage artifact.
+  suggested_aliases:
+  - food_taboo_exemption
+  - foreign_food_taboo_exception
+  - local_taboo_exemption_for_foreign_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-goddess-assimilated-to-a-greek-goddess-through-a-shared-attribute
+  motif_id: foreign_goddess_assimilated_to_a_greek_goddess_through_a_shared_attribute
+  label: foreign goddess assimilated to a Greek goddess through a shared attribute
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes scholarly or interpretive assimilation between deities,
+    not a narrative or symbolic motif in a passage.
+  cautions: Preserve as provenance or reception evidence if useful; do not treat as
+    evidence of transmission in motif queries.
+  suggested_aliases:
+  - foreign_goddess_assimilation_by_attribute
+  - interpretive_equivalence_of_goddesses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-goddess-equivalence
+  motif_id: foreign_goddess_equivalence
+  label: Foreign goddess equivalence
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label is a comparative identification of divine figures rather than
+    a motif event or symbolic pattern.
+  cautions: If a source narrates a goddess arriving, transforming, or being ritually
+    installed, remap to divine_race, theophany, mother_goddess, or sacred_law as evidence
+    supports.
+  suggested_aliases:
+  - foreign_deity_equivalence
+  - goddess_equivalence_note
+  - interpretive_goddess_identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-marriage-as-divine-transgression
+  motif_id: foreign_marriage_as_divine_transgression
+  label: Foreign marriage as divine transgression
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A marriage treated as transgression against divine order fits sacred
+    law and covenantal social boundaries.
+  cautions: Potentially culturally sensitive; source context is needed to distinguish
+    legal taboo, ethnic boundary, polemic, or narrative judgment.
+  suggested_aliases:
+  - forbidden_marriage_as_sacred_transgression
+  - marriage_taboo_under_divine_law
+  - foreign_marriage_transgression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-ruler-attempts-to-retain-a-visiting-god
+  motif_id: foreign_ruler_attempts_to_retain_a_visiting_god
+  label: foreign ruler attempts to retain a visiting god
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A god visiting a foreign ruler and being retained concerns divine presence
+    acting within human political affairs.
+  cautions: Could also involve sacred exchange, royal legitimacy, or theophany depending
+    on whether the focus is hospitality, kingship, or manifestation.
+  suggested_aliases:
+  - visiting_god_detained_by_ruler
+  - ruler_attempts_to_keep_divine_visitor
+  - retention_of_a_visiting_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forged-contradictory-sacred-instruction
+  motif_id: forged_contradictory_sacred_instruction
+  label: Forged contradictory sacred instruction
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Forging sacred instruction violates trust through deceptive religious
+    authority.
+  cautions: If the passage emphasizes doctrinal discernment or sacred teaching rather
+    than betrayal, sacred_knowledge or sacred_law may be better secondary mappings.
+  suggested_aliases:
+  - forged_sacred_instruction
+  - false_sacred_instruction
+  - deceptive_religious_instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch involve foreign/local or deity-equivalence wording;
+  avoid using taxonomy placement as evidence of contact, borrowing, or syncretism.
+- Single-occurrence ritual-taboo labels should generally remain granular evidence
+  unless recurrence across sources supports promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    sensitive taboo, gendered rite, and foreign-equivalence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0838
+  input_sha256: d47990a396af65580d923f271222ca3cbfc6b91fe63ed5ded9ef6e9c33dc1c12
+

@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2585
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.water-place-or-water-body-pairing
+  motif_id: water_place_or_water_body_pairing
+  label: water place or water body pairing
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: uncertain
+  confidence: low
+  rationale: The label only indicates association between a place and water body,
+    without a clear narrative function such as purification, passage, origin, or boundary.
+  cautions: May be a passage artifact, geographic indexing note, or local toponymic
+    detail; source evidence is needed before mapping to sacred_waters or cosmic_origin.
+  suggested_aliases:
+  - water body place pairing
+  - place associated with water body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-poured-sprinkled-or-spilled-to-call-rain
+  motif_id: water_poured_sprinkled_or_spilled_to_call_rain
+  label: Water poured, sprinkled, or spilled to call rain
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual water action performed to obtain rain fits reciprocal or coercive
+    ritual exchange with weather powers.
+  cautions: Could also relate to sacred_waters or divine_intervention; review whether
+    the rite is sympathetic magic, petition, or ethnographic commentary.
+  suggested_aliases:
+  - rain-calling by sprinkled water
+  - water sprinkling to bring rain
+  - water spilling rainmaking rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-power-or-tyrant-with-loon-servant
+  motif_id: water_power_or_tyrant_with_loon_servant
+  label: Water power or tyrant with Loon servant
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A water power with an animal servant may be a spirit-agent complex, but
+    the label is culturally specific and role/function are unclear.
+  cautions: Handle Native American spirit-being labels carefully; may involve local
+    ontology, water monster/owner traditions, animal helper, tyrant antagonist, or
+    passage-specific character detail.
+  suggested_aliases:
+  - water power with loon servant
+  - water tyrant with loon servant
+  - loon servant of water power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-powers-in-streams-and-beneath-landforms
+  motif_id: water_powers_in_streams_and_beneath_landforms
+  label: Water powers in streams and beneath landforms
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label concerns sacred or spirit powers localized in waters and landforms,
+    adjacent to sacred_waters but not clearly a passage or purification motif.
+  cautions: Culturally sensitive spirit-place evidence; may be better treated as otherworld,
+    tutelary spirit, genius loci, or local sacred geography if source evidence supports
+    it.
+  suggested_aliases:
+  - water powers in streams
+  - subterranean water powers
+  - water beings beneath landforms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-preparation-of-game-pieces-before-effective-use
+  motif_id: water_preparation_of_game_pieces_before_effective_use
+  label: Water preparation of game pieces before effective use
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Preparing game pieces with water before effective use is a ritualized
+    handling or activation rule for objects.
+  cautions: May also fit sacred_treasures if the tokens are power objects; if it is
+    only game-procedure description, preserve as evidence detail rather than broad
+    motif.
+  suggested_aliases:
+  - ritual water preparation of game pieces
+  - water-treated game pieces
+  - water activation of game pieces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-prepared-game-tokens-for-success
+  motif_id: water_prepared_game_tokens_for_success
+  label: Water-prepared game tokens for success
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Water-prepared tokens used to secure success fit ritualized object preparation
+    and efficacy rules.
+  cautions: Likely duplicate or close variant of water_preparation_of_game_pieces_before_effective_use;
+    review whether game tokens function as sacred objects, gambling charms, or ordinary
+    implements.
+  suggested_aliases:
+  - water-prepared game pieces for success
+  - water-treated game tokens
+  - ritual water preparation of game tokens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-procured-from-a-struck-rock
+  motif_id: water_procured_from_a_struck_rock
+  label: Water procured from a struck rock
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Water obtained miraculously from a struck rock is provision through extraordinary
+    action in a crisis or need.
+  cautions: Could also index under sacred_waters if the water itself is central, or
+    sacred_treasures/sacred_craft if a special implement mediates the act.
+  suggested_aliases:
+  - water from struck rock
+  - striking rock produces water
+  - miraculous water from rock
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-produced-from-rock
+  motif_id: water_produced_from_rock
+  label: water produced from rock
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rock producing water suggests miraculous provision or supernatural transformation
+    of a natural object.
+  cautions: May be an etiological origin of a spring rather than intervention; if
+    the focus is sacred source-water, sacred_waters may be a secondary mapping.
+  suggested_aliases:
+  - water from rock
+  - rock produces water
+  - miraculous water produced from rock
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-producing-or-rain-associated-tree
+  motif_id: water_producing_or_rain_associated_tree
+  label: water-producing or rain-associated tree
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label combines tree symbolism with rain or water production, but
+    the primary function is unclear from wording alone.
+  cautions: Could belong to sacred_tree_axis, sacred_waters, divine_intervention,
+    or rainmaking/abundance motifs depending on whether the tree is cosmic, ritual,
+    or etiological.
+  suggested_aliases:
+  - rain-associated tree
+  - water-producing tree
+  - tree that produces water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-quenches-fire-on-the-fugitive
+  motif_id: water_quenches_fire_on_the_fugitive
+  label: water quenches fire on the fugitive
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Water saving a fugitive from fire can function as rescue or protective
+    intervention during peril.
+  cautions: May be an over-specific episode detail; if no sacred agency is present,
+    consider preserving as evidence under sacred_waters or excluding from broad pattern
+    queries.
+  suggested_aliases:
+  - water extinguishes fire on fugitive
+  - fugitive saved from fire by water
+  - water quenching protective fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence water motifs; distinguish water as sacred substance,
+  ritual medium, place-spirit habitat, and miraculous provision rather than merging
+  all into flood or passage.
+- Native American water-power labels should receive source-sensitive human review
+  before broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft suggestions only; human review recommended for culturally specific
+    water-power and over-specific water-object labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2585
+  input_sha256: 5d49a8f863383a1d819477da2432239a8b8800d28f280f379238a7436967e1f6
+

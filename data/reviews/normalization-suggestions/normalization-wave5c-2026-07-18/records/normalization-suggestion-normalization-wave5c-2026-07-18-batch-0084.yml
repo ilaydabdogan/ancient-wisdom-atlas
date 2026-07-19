@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0084
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.corpse-reduction-followed-by-tree-trunk-coffin-burial
+  motif_id: corpse_reduction_followed_by_tree_trunk_coffin_burial
+  label: corpse reduction followed by tree-trunk coffin burial
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a mortuary treatment and burial sequence, which broadly
+    fits funeral rites and memorial handling of the dead.
+  cautions: Single occurrence and highly culture-specific; may be an ethnographic
+    mortuary-practice detail rather than a reusable motif. Confirm whether it carries
+    narrative, ancestral, or ritual significance before indexing.
+  suggested_aliases:
+  - tree-trunk coffin burial
+  - corpse reduction before burial
+  - secondary burial in tree-trunk coffin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-related-pollution-controls
+  motif_id: corpse_related_pollution_controls
+  label: corpse-related pollution controls
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Corpse pollution controls are ritual-purity regulations, aligning with
+    sacred law and existing spirit-contagion/purity children.
+  cautions: Could also support ancestor rites or afterlife passage if the passage
+    emphasizes care for the dead rather than pollution control. Preserve Zoroastrian
+    specificity in evidence notes.
+  suggested_aliases:
+  - corpse pollution controls
+  - mortuary pollution regulation
+  - death pollution controls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-relocated-to-avoid-blame
+  motif_id: corpse_relocated_to_avoid_blame
+  label: corpse relocated to avoid blame
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a plot-management action around a corpse rather than
+    a broad symbolic or ritual motif.
+  cautions: May still be useful as passage evidence for deception, blame avoidance,
+    or comic tale structure, but the current taxonomy context does not support a durable
+    death/afterlife motif mapping.
+  suggested_aliases:
+  - corpse moved to avoid blame
+  - body relocated to avoid responsibility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-relocation-to-avoid-blame
+  motif_id: corpse_relocation_to_avoid_blame
+  label: corpse relocation to avoid blame
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a duplicate wording of the corpse-relocated-to-avoid-blame plot
+    detail and is too contextual for broad motif queries.
+  cautions: Consider aliasing to corpse_relocated_to_avoid_blame if retained as evidence.
+    Human review may map it to trickster or violated trust only if deception is central
+    in the passage.
+  suggested_aliases:
+  - corpse relocated to avoid blame
+  - corpse moved to avoid blame
+  - body relocation to avoid responsibility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-removed-from-water-to-prevent-pollution
+  motif_id: corpse_removed_from_water_to_prevent_pollution
+  label: corpse removed from water to prevent pollution
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The key function is preventing corpse pollution through ritual regulation,
+    matching sacred-law purity controls.
+  cautions: Although water is present, do not map to sacred_waters unless the water
+    itself functions as purifier, boundary, or sacred medium. Preserve as a specific
+    mortuary-purity rule.
+  suggested_aliases:
+  - water protected from corpse pollution
+  - corpse removal to prevent water pollution
+  - mortuary water pollution control
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-returned-directly-to-mother-earth
+  motif_id: corpse_returned_directly_to_mother_earth
+  label: Corpse returned directly to mother earth
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Returning the corpse to mother earth may express death as reintegration
+    into a larger life or earth-body cycle.
+  cautions: Could be literal burial practice, mystical teaching, mother-goddess imagery,
+    or a passage-specific metaphor. Source evidence is needed before mapping to death_and_transformation,
+    mother_goddess, or mystical_quest.
+  suggested_aliases:
+  - return of corpse to mother earth
+  - body returned to earth
+  - corpse returned to earth mother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-rewrapping-and-tomb-transfer
+  motif_id: corpse_rewrapping_and_tomb_transfer
+  label: Corpse rewrapping and tomb transfer
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: low
+  rationale: Rewrapping and transferring a corpse suggests secondary mortuary care
+    and ongoing relations with the dead, fitting ancestor rites if ritual agency is
+    present.
+  cautions: Single, culture-specific mortuary detail. If the passage emphasizes burial
+    honor rather than ancestor relation, heroic_funeral_rites may be better; if merely
+    descriptive, exclude from pattern queries.
+  suggested_aliases:
+  - corpse rewrapping
+  - tomb transfer after rewrapping
+  - secondary mortuary transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-rite-to-identify-and-punish-the-originator-of-death-or-trouble
+  motif_id: corpse_rite_to_identify_and_punish_the_originator_of_death_or_trouble
+  label: corpse rite to identify and punish the originator of death or trouble
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: low
+  rationale: A corpse rite that identifies and punishes a culprit functions as ritualized
+    judgment or moral reckoning.
+  cautions: Culturally sensitive and source-dependent; may be divination, vengeance,
+    mortuary ritual, witchcraft accusation, or social control. Avoid final mapping
+    without passage evidence.
+  suggested_aliases:
+  - corpse divination to identify culprit
+  - mortuary rite identifying originator of death
+  - corpse rite for punishment of death-causer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-seated-on-a-death-chair-with-close-women-beside-it
+  motif_id: corpse_seated_on_a_death_chair_with_close_women_beside_it
+  label: corpse seated on a death chair with close women beside it
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: low
+  rationale: The arrangement of the corpse with close women beside it may be a mourning
+    or mortuary display practice.
+  cautions: Highly specific ethnographic label; could be heroic_funeral_rites, ancestor
+    rites, lament, or non-motif mortuary description depending on ritual function.
+    Needs human review before query indexing.
+  suggested_aliases:
+  - corpse seated on death chair
+  - women attending seated corpse
+  - death-chair mortuary vigil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-stealing-and-corpse-eating-hill-spirit
+  motif_id: corpse_stealing_and_corpse_eating_hill_spirit
+  label: corpse-stealing and corpse-eating hill spirit
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: uncertain
+  confidence: low
+  rationale: A spirit interacting dangerously with corpses belongs near active dead/spirit
+    danger, though the agent is not necessarily a dead person.
+  cautions: May instead require a monster/spirit predation group not currently present,
+    or fit threshold_guardian/otherworld if the hill spirit guards a liminal place.
+    Review culturally specific spirit category carefully.
+  suggested_aliases:
+  - corpse-stealing hill spirit
+  - corpse-eating hill spirit
+  - spirit steals and eats corpses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence mortuary or ethnographic practice
+  descriptions; human review should decide whether they are pattern-query motifs or
+  evidence notes.
+- For Zoroastrian corpse-pollution labels, sacred_law is the best existing group because
+  the function is ritual purity regulation rather than afterlife navigation.
+- The two Islamicate folklore corpse-relocation labels appear duplicative and likely
+  should be merged or excluded as over-specific plot details.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific mortuary practices and spirit
+    categories require source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0084
+  input_sha256: 68b36aedc0c2c7de364167c7273f7beb76bb368b81fea15cdab5cb0120593434
+

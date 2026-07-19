@@ -1,0 +1,311 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2055
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-device-painted-on-the-body
+  motif_id: animal_device_painted_on_the_body
+  label: animal device painted on the body
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate disguise, body marking, clan/totemic identity,
+    ritual adornment, or passage-specific description.
+  cautions: Single occurrence and culturally specific body-painting evidence needs
+    source context; do not reduce to shapeshifting or trickster without narrative
+    function.
+  suggested_aliases:
+  - animal_body_painting
+  - animal_device_body_mark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_law
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-dialogue-contrasting-service-and-parasitism
+  motif_id: animal_dialogue_contrasting_service_and_parasitism
+  label: Animal dialogue contrasting service and parasitism
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The animal dialogue appears to make an ethical or social-order contrast
+    between useful service and parasitic dependence.
+  cautions: May be a fable-specific moralizing episode rather than a stable mythic
+    motif; if the animal speech strategy is central, trickster may be a secondary
+    review option.
+  suggested_aliases:
+  - animal_fable_contrasting_service_and_parasitism
+  - service_versus_parasitism_animal_dialogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-diet-explained-by-a-narrative-event
+  motif_id: animal_diet_explained_by_a_narrative_event
+  label: animal diet explained by a narrative event
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes an etiological explanation for an animal trait or
+    behavior, fitting the creation/origin group’s etiology scope.
+  cautions: If the narrative centers on trickster deception or animal transformation
+    rather than origin explanation, review secondary placement under trickster or
+    shapeshifter.
+  suggested_aliases:
+  - animal_diet_etiology
+  - etiology_of_animal_diet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-dietary-catalogue
+  motif_id: animal_dietary_catalogue
+  label: animal dietary catalogue
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A catalogue of animal diets sounds like descriptive listing or textual
+    classification rather than a narrative motif.
+  cautions: If a source passage uses the catalogue for moral teaching, ritual taboo,
+    or etiological explanation, remap to sacred_law or cosmic_origin after review.
+  suggested_aliases:
+  - catalogue_of_animal_diets
+  - animal_food_catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-discipline-as-model-for-political-critique
+  motif_id: animal_discipline_as_model_for_political_critique
+  label: Animal discipline as model for political critique
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal behavior is used as a normative model to critique political order,
+    fitting ethical and social-order teaching.
+  cautions: Daoist context may frame this as anti-coercive wisdom or naturalness rather
+    than law; sacred_knowledge may be a secondary placement.
+  suggested_aliases:
+  - animal_order_as_political_critique
+  - animal_discipline_models_social_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-discovers-or-conceals-a-hidden-food-source
+  motif_id: animal_discovers_or_conceals_a_hidden_food_source
+  label: Animal discovers or conceals a hidden food source
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Concealing or revealing a hidden food source fits trickster-like control
+    of access, deception, and acquisition of resources.
+  cautions: If the emphasis is divine provision or food abundance rather than deception,
+    divine_intervention or sacred_substance may be more appropriate.
+  suggested_aliases:
+  - hidden_food_source_discovered_by_animal
+  - animal_conceals_hidden_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_substance
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-disguise-and-imitation-for-hunting
+  motif_id: animal_disguise_and_imitation_for_hunting
+  label: Animal disguise and imitation for hunting
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Imitating or disguising oneself as an animal for hunting is a bodily/visible-form
+    boundary crossing without necessarily implying full metamorphosis.
+  cautions: Could instead be ritual hunting practice or practical deception; source
+    context should confirm symbolic or narrative function.
+  suggested_aliases:
+  - animal_imitation_for_hunting
+  - hunting_by_animal_disguise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-disguise-enables-successful-hunt
+  motif_id: animal_disguise_enables_successful_hunt
+  label: Animal disguise enables successful hunt
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif depends on taking on animal appearance to cross the human/animal
+    boundary and achieve success.
+  cautions: If disguise is ordinary hunting technique rather than mythic transformation
+    or ritualized boundary crossing, treat as contextual evidence only.
+  suggested_aliases:
+  - successful_hunt_by_animal_disguise
+  - animal_disguise_for_hunting_success
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-disguise-through-skin-garment
+  motif_id: animal_disguise_through_skin_garment
+  label: Animal disguise through skin garment
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal skin garment enabling disguise is a material form of transformation
+    or animal-boundary crossing.
+  cautions: Could also be ritual costume, hunting practice, or deception; preserve
+    the skin-garment detail rather than merging with literal shapeshifting.
+  suggested_aliases:
+  - animal_skin_disguise
+  - skin_garment_animal_disguise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_treasures
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-dispatched-through-a-roof-opening-to-attack-a-wrongdoer
+  motif_id: animal_dispatched_through_a_roof_opening_to_attack_a_wrongdoer
+  label: animal dispatched through a roof opening to attack a wrongdoer
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal sent to attack a wrongdoer functions as punishment or moral
+    retribution through a nonhuman agent.
+  cautions: The roof-opening detail is likely episode-specific; if the sender is a
+    shaman, spirit, or deity, divine_intervention may be a better secondary mapping.
+  suggested_aliases:
+  - animal_agent_punishes_wrongdoer
+  - animal_sent_to_attack_wrongdoer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal/fable or ethnographic-detail
+  labels; preserve local evidence and avoid promoting them as new canonical motifs
+  without recurrence.
+- Animal disguise labels are provisionally placed under shapeshifter as functional
+  variants, but human review should distinguish literal transformation, ritual costume,
+  hunting technique, and deception.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for animal
+    agency, ritual context, and whether labels are narrative motifs or descriptive
+    artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2055
+  input_sha256: fca06e218613bb0654df68dbf739cb02a458ba1e44b63a71c0bc76bf48a96da8
+

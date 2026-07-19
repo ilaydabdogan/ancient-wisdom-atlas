@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3540
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hierarchical-liturgical-invocation
+  motif_id: hierarchical_liturgical_invocation
+  label: hierarchical liturgical invocation
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A liturgical invocation is a performative sacred speech act, especially
+    if it orders divine names or powers hierarchically.
+  cautions: Could instead belong under sacred_exchange if the invocation is petitionary
+    offering, or under sacred_law if it is mainly liturgical prescription.
+  suggested_aliases:
+  - hierarchical invocation
+  - ordered liturgical invocation
+  - ritual invocation of ranked powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hierarchical-mediation-of-formation
+  motif_id: hierarchical_mediation_of_formation
+  label: Hierarchical mediation of formation
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe cosmological emanation or mediated creation, but
+    the narrative function is unclear without source evidence.
+  cautions: If it means world-formation through ranked beings, cosmic_origin may fit;
+    if it is philosophical commentary or doctrinal abstraction, it may be too conceptual
+    for motif queries.
+  suggested_aliases:
+  - mediated formation through hierarchy
+  - hierarchical creative mediation
+  - ranked mediation of creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hierarchical-royal-funeral-enclosure
+  motif_id: hierarchical_royal_funeral_enclosure
+  label: Hierarchical royal funeral enclosure
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ranked royal funerary enclosure concerns mortuary honors and spatial
+    ordering for a high-status dead figure.
+  cautions: If the focus is architectural/social hierarchy rather than funeral ritual,
+    sacred_law or royal_legitimacy may be secondary; single occurrence may be context-specific.
+  suggested_aliases:
+  - ranked royal funeral enclosure
+  - hierarchical funerary enclosure
+  - royal mortuary enclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hierarchical-yet-locally-sovereign-deities
+  motif_id: hierarchical_yet_locally_sovereign_deities
+  label: hierarchical yet locally sovereign deities
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes divine organization rather than a clear narrative
+    motif; placement depends on whether sovereignty, local tutelage, or cosmic order
+    is central.
+  cautions: Could map to supreme_ruler, divine_intervention, or royal_legitimacy depending
+    on evidence; may be a scholarly classification artifact.
+  suggested_aliases:
+  - ranked local deities
+  - locally sovereign deities in hierarchy
+  - hierarchical divine sovereignty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.high-born-figures-performing-humble-tasks
+  motif_id: high_born_figures_performing_humble_tasks
+  label: high-born figures performing humble tasks
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: low
+  rationale: High-status figures reduced to humble labor can function as humbling,
+    reversal, or downfall of status.
+  cautions: If voluntary service, disguise, initiation, or moral discipline is central,
+    hero_journey, initiation, or sacred_law may fit better; source context is needed.
+  suggested_aliases:
+  - noble figures doing menial tasks
+  - high-status humbled by labor
+  - royal or noble humble service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.high-mound-abode-of-a-supernatural-being
+  motif_id: high_mound_abode_of_a_supernatural_being
+  label: High mound abode of a supernatural being
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An elevated mound as a supernatural dwelling can function as a sacred
+    height, center, or contact point between realms.
+  cautions: If the mound is simply a local residence with no cosmic or threshold function,
+    it may be an over-specific place detail; review cultural context carefully.
+  suggested_aliases:
+  - supernatural being dwelling on high mound
+  - sacred mound abode
+  - elevated mound of a spirit being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.high-quantities-analogized-through-time-periods
+  motif_id: high_quantities_analogized_through_time_periods
+  label: High quantities analogized through time periods
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a rhetorical or numerical expression strategy
+    rather than a symbolic narrative motif.
+  cautions: If source evidence ties the quantities to sacred calendar cosmology, sacred_time
+    may be relevant; otherwise preserve only as textual detail.
+  suggested_aliases:
+  - large quantities expressed as time periods
+  - quantity analogy through calendrical periods
+  - numerical hyperbole by time spans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.high-stakes-gambling-with-transfer-of-possessions-or-spouses
+  motif_id: high_stakes_gambling_with_transfer_of_possessions_or_spouses
+  label: high-stakes gambling with transfer of possessions or spouses
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Wagering, Gambling, and Fateful Stakes
+  relationship: functional_variant
+  confidence: medium
+  rationale: High-stakes gambling that transfers wealth or spouses is a distinct recurrent
+    narrative mechanism not well captured by exchange, covenant, or judgment alone.
+  cautions: Could overlap with sacred_exchange if ritual reciprocity is central, or
+    betrayal_violated_trust if the wager violates social bonds; needs recurrence review
+    before promotion.
+  suggested_aliases:
+  - high-stakes gambling
+  - wagering of possessions or spouses
+  - gambling with persons and property as stakes
+  suggested_new_group:
+    id: wagering_gambling_fateful_stakes
+    label: Wagering, Gambling, and Fateful Stakes
+    description: Games, wagers, or gambling contests in which wealth, status, kin,
+      spouses, freedom, or life are risked and transferred, often triggering reversal,
+      conflict, fate, or social disorder.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_judgment
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_law
+    - fate_figures_cosmic_weaving
+    reason_existing_groups_insufficient: Existing groups cover exchange, law, and
+      judgment, but not the specific contest mechanism of gambling or wagering as
+      the driver of transfer and reversal.
+- suggestion_id: normalization.suggestion.high-value-blanket-exchange
+  motif_id: high_value_blanket_exchange
+  label: high-value blanket exchange
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on exchange of a valued object, fitting reciprocal
+    gift or prestige exchange patterns.
+  cautions: Blanket specificity may be culturally important and should be preserved
+    as evidence; if merely economic trade detail, avoid broad pattern use.
+  suggested_aliases:
+  - prestige blanket exchange
+  - valuable blanket gift exchange
+  - high-value textile exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.high-value-object-withheld-from-sale
+  motif_id: high_value_object_withheld_from_sale
+  label: High-value object withheld from sale
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: A valuable object withheld from sale may function as a treasure or power
+    object whose worth exceeds ordinary exchange.
+  cautions: If the issue is market refusal, prestige economy, or social obligation
+    rather than sacred power, sacred_exchange or exclusion as contextual detail may
+    be better.
+  suggested_aliases:
+  - valuable object not for sale
+  - inalienable high-value object
+  - treasure withheld from exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and abstract; placements should be treated
+  as provisional pending source-passage review.
+- Do not infer transmission or contact from shared placement. Preserve local object
+  terms such as blanket or mound where culturally meaningful.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 3540; human review
+    needed for ambiguous hierarchy, gambling, and culturally specific exchange/place
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3540
+  input_sha256: 8fa7790d2eef89ba09bc5b393ec292e076fd2a7873b526b86e9984eef174aed5
+

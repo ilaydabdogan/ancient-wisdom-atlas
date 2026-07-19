@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3674
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.metrical-chant-composition
+  motif_id: metrical_chant_composition
+  label: metrical chant composition
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A metrical chant may be sacred speech, song, ritual performance, or simply
+    a textual/formal feature.
+  cautions: Single occurrence and form-focused wording; verify whether the chant has
+    ritual or narrative power before indexing as a motif.
+  suggested_aliases:
+  - metrical_chant
+  - ritual_chant_composition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - enchanting_music
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.metrical-chant-linked-to-dance-performance
+  motif_id: metrical_chant_linked_to_dance_performance
+  label: metrical chant linked to dance performance
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Chant with dance suggests ritual performance, but current groups only
+    partially cover sound power and sacred speech.
+  cautions: May be a performance-context note rather than a motif; source evidence
+    needed for sacred, transformative, or narrative function.
+  suggested_aliases:
+  - chant_and_dance_performance
+  - metrical_chant_with_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - storytelling_as_power
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.microcosm-macrocosm-image-chain
+  motif_id: microcosm_macrocosm_image_chain
+  label: microcosm-macrocosm image chain
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Microcosm and Macrocosm Correspondence
+  relationship: narrower_than
+  confidence: medium
+  rationale: Hermetic microcosm-macrocosm imagery is a recurring cosmological correspondence
+    pattern not cleanly contained by creation, axis mundi, or wisdom alone.
+  cautions: Phrase 'image chain' may be an analytical artifact; confirm passage describes
+    symbolic correspondence rather than commentary structure.
+  suggested_aliases:
+  - microcosm_macrocosm_correspondence
+  - as_above_so_below_correspondence
+  - human_cosmos_correspondence
+  suggested_new_group:
+    id: microcosm_macrocosm_correspondence
+    label: Microcosm and Macrocosm Correspondence
+    description: The human body, soul, ritual space, or small-scale order mirrors,
+      contains, or corresponds to the larger cosmos, allowing knowledge or transformation
+      through analogical linkage between levels of reality.
+    parent_group_ids:
+    - cosmic_origin
+    - sacred_knowledge
+    related_group_ids:
+    - axis_mundi
+    - duality
+    - mystical_quest
+    reason_existing_groups_insufficient: Existing groups cover creation, sacred center,
+      and wisdom, but not the specific analogical structure linking human and cosmos.
+- suggestion_id: normalization.suggestion.midnight-lunar-invocation-by-an-enchantress
+  motif_id: midnight_lunar_invocation_by_an_enchantress
+  label: Midnight lunar invocation by an enchantress
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An invocation is a performative sacred speech act, here ritually framed
+    by lunar timing and an enchantress role.
+  cautions: Could instead fit prophecy_divination, sacred_time, or divine_intervention
+    if the source emphasizes lunar omen, timing, or divine response rather than the
+    spoken rite.
+  suggested_aliases:
+  - lunar_invocation
+  - midnight_invocation
+  - enchantress_lunar_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - prophecy_divination
+    - sacred_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.midnight-watch-over-a-coffin-in-a-church
+  motif_id: midnight_watch_over_a_coffin_in_a_church
+  label: midnight watch over a coffin in a church
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A vigil over a coffin is mortuary ritual care maintaining relations around
+    the dead.
+  cautions: If the watch centers on haunting, ordeal, or demonic danger, restless_dead_haunting_vengeance,
+    initiation, or sacred_law may be secondary or better fits.
+  suggested_aliases:
+  - coffin_vigil
+  - midnight_funeral_watch
+  - mortuary_vigil_in_church
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - restless_dead_haunting_vengeance
+    - sacred_law
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.migration-and-mixing-of-lineages
+  motif_id: migration_and_mixing_of_lineages
+  label: migration and mixing of lineages
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Lineage mixing may be ethnogonic origin, genealogy, social history, or
+    commentary rather than a motif.
+  cautions: Avoid treating migration as transmission evidence; verify whether passage
+    explains people origins or merely records historical movement.
+  suggested_aliases:
+  - lineage_mixture_after_migration
+  - migration_lineage_mixing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - culture_hero
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.migration-and-mixture-of-populations
+  motif_id: migration_and_mixture_of_populations
+  label: Migration and mixture of populations
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Population mixture could function as people-origin etiology, but the
+    label may also be ethnographic or historical summary.
+  cautions: Do not infer borrowing or contact; needs evidence of mythic ancestry,
+    founding, or place-origin narrative before mapping.
+  suggested_aliases:
+  - population_mixture_after_migration
+  - migration_and_population_mixing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - divine_race
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.migration-and-place-based-renaming
+  motif_id: migration_and_place_based_renaming
+  label: migration and place-based renaming
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Place-based renaming after movement fits the existing etiological place-naming
+    cluster under cosmic_origin.
+  cautions: If the passage is only a historical migration note without etiological
+    naming logic, exclude or review rather than index as origin myth.
+  suggested_aliases:
+  - place_renaming_after_migration
+  - migration_place_name_etiology
+  - place_based_renaming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - culture_hero
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.migration-and-translation-of-tale-collections
+  motif_id: migration_and_translation_of_tale_collections
+  label: migration and translation of tale collections
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes transmission, translation, and collection history
+    rather than a narrative or symbolic motif.
+  cautions: Preserve as provenance or textual-history metadata if needed, but keep
+    out of motif pattern queries.
+  suggested_aliases:
+  - translation_of_tale_collections
+  - migration_of_tale_collections
+  - textual_transmission_of_tales
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.migration-associated-transmission-of-technology
+  motif_id: migration_associated_transmission_of_technology
+  label: Migration-associated transmission of technology
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Technology transmission through migration could be a culture-hero or
+    founding motif, but may also be historical/ethnographic commentary.
+  cautions: Avoid using this as evidence of contact in motif normalization; source
+    context must show mythic acquisition or founding of technology.
+  suggested_aliases:
+  - migration_and_technology_transmission
+  - technology_brought_by_migrants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - culture_hero
+    - sacred_craft
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several migration labels risk encoding historical-contact or ethnographic summary
+  rather than motifs; review should separate mythic origin functions from transmission
+  claims.
+- Performance labels around chant and dance may need a future ritual-performance group
+  if they recur, but current evidence is too sparse to propose one confidently.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence labels and meta/transmission
+    artifacts need human validation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3674
+  input_sha256: f871f4deabf7246c2503619b2d416f3ecda9dd956fa5fe5a6a6871453a286724
+

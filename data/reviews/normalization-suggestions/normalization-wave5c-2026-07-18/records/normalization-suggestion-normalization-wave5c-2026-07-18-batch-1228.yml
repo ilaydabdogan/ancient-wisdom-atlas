@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1228
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.water-purification-comparable-to-baptism
+  motif_id: water_purification_comparable_to_baptism
+  label: water purification comparable to baptism
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core function is ritual cleansing by water, already covered by sacred_waters
+    and related purification aliases.
+  cautions: The phrase 'comparable to baptism' may be an analyst comparison rather
+    than local emic meaning; preserve local rite details and avoid Christianizing
+    the label.
+  suggested_aliases:
+  - water_purification
+  - ritual_water_cleansing
+  - water_cleansing_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-purification-removes-crime-and-affliction
+  motif_id: water_purification_removes_crime_and_affliction
+  label: water purification removes crime and affliction
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: high
+  rationale: Water removes moral pollution and affliction, a clear sacred-waters purification
+    function.
+  cautions: May also support divine_judgment or sacred_law if the passage emphasizes
+    crime, guilt, or legal-ritual purification more than water itself.
+  suggested_aliases:
+  - purification_by_water
+  - water_cleanses_crime_and_affliction
+  - ritual_water_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-route-conveying-ritual-objects-to-divine-abode
+  motif_id: water_route_conveying_ritual_objects_to_divine_abode
+  label: Water route conveying ritual objects to divine abode
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: uncertain
+  confidence: low
+  rationale: Water functions as a sacred route or medium of ritual conveyance, but
+    the object-transfer and divine-abode details may be more important than water
+    symbolism.
+  cautions: Could fit sacred_exchange, sacred_vessel, sacred_treasures, or sacred_waters
+    depending on whether the passage emphasizes offering, transport, objects, or watery
+    boundary passage.
+  suggested_aliases:
+  - water_route_to_divine_abode
+  - ritual_objects_sent_by_water
+  - waterborne_ritual_conveyance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.water-washing-or-immersion-as-cleansing-or-rite-transition
+  motif_id: water_washing_or_immersion_as_cleansing_or_rite_transition
+  label: Water washing or immersion as cleansing or rite transition
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: high
+  rationale: Washing or immersion marks cleansing and ritual transition, directly
+    matching sacred_waters as purifier and transformative medium.
+  cautions: If the rite primarily changes social status, initiation may be a secondary
+    mapping.
+  suggested_aliases:
+  - ritual_immersion
+  - water_washing_as_ritual_transition
+  - cleansing_by_immersion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.waters-advanced-or-produced-by-divine-celestial-agents
+  motif_id: waters_advanced_or_produced_by_divine_celestial_agents
+  label: Waters advanced or produced by divine/celestial agents
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif centers on sacred waters generated or moved by divine/celestial
+    agency, fitting the sacred_waters field.
+  cautions: If the passage emphasizes divine provision, rain, or cosmic ordering rather
+    than water itself, divine_intervention or cosmic_origin may be better secondary
+    groups.
+  suggested_aliases:
+  - divinely_produced_waters
+  - celestial_agents_generate_waters
+  - divine_advancement_of_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-backed-vow-of-vengeance
+  motif_id: weapon_backed_vow_of_vengeance
+  label: Weapon-backed vow of vengeance
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vow is a binding performative speech act; the weapon intensifies its
+    vengeance function.
+  cautions: Could also fit sacred_combat or divine_warrior if the passage emphasizes
+    battle action rather than the vow itself.
+  suggested_aliases:
+  - vow_of_vengeance_by_weapon
+  - weapon_oath_of_vengeance
+  - martial_vow_of_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-bearing-holy-hero-as-defender-against-armed-bands
+  motif_id: weapon_bearing_holy_hero_as_defender_against_armed_bands
+  label: weapon-bearing holy hero as defender against armed bands
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: A holy armed defender against hostile bands fits the divine_warrior/sacred
+    combat role pattern.
+  cautions: If the figure is chiefly a saintly protector rather than a combatant,
+    divine_intervention may be a secondary mapping.
+  suggested_aliases:
+  - armed_holy_defender
+  - holy_warrior_defends_against_bands
+  - weapon_bearing_sacred_defender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-efficacy-rite-using-shredded-wood
+  motif_id: weapon_efficacy_rite_using_shredded_wood
+  label: weapon efficacy rite using shredded wood
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a specialized rite to empower weapons, likely a ritual
+    practice but not clearly covered by existing combat or sacred-object groups.
+  cautions: May be too ethnographically specific; could fit sacred_combat, sacred_treasures,
+    sacred_law, or sacrifice depending on the rite's purpose and materials.
+  suggested_aliases:
+  - weapon_empowerment_rite
+  - ritual_for_weapon_efficacy
+  - weapon_charm_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-free-sanctuary-of-a-peace-and-prosperity-deity
+  motif_id: weapon_free_sanctuary_of_a_peace_and_prosperity_deity
+  label: Weapon-free sanctuary of a peace and prosperity deity
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sanctuary prohibition against weapons is a sacred legal or ritual boundary
+    regulating behavior in holy space.
+  cautions: Could also relate to sacred_exchange or divine_intervention if hospitality,
+    peace, or the deity's protection is the passage focus.
+  suggested_aliases:
+  - weapon_taboo_in_sanctuary
+  - peace_sanctuary_weapon_prohibition
+  - sacred_weapon_free_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-immunity-through-divine-aid
+  motif_id: weapon_immunity_through_divine_aid
+  label: weapon immunity through divine aid
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine aid conferring immunity from weapons in combat aligns with divine_warrior
+    and existing divine protection from weapons aliases.
+  cautions: If the immunity depends on a precise loophole or hidden weakness, conditional_invulnerability_hidden_weakness
+    may be a secondary mapping.
+  suggested_aliases:
+  - divine_weapon_immunity
+  - divine_protection_from_weapons
+  - weapon_resistance_by_divine_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several water-purification labels can map to sacred_waters, but reviewers should
+  preserve distinctions among purification, transition, divine provision, and waterborne
+  ritual conveyance.
+- Weapon-related labels in this batch split between performative vow, sacred combat,
+  ritual empowerment, sanctuary taboo, and divine protection; avoid merging solely
+  because all mention weapons.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 1228.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1228
+  input_sha256: 5532b66834d6e00c34fc1217bc0c498ceb50955a89f7aa10c64627fdf98d4223
+

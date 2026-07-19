@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1889
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lost-children-with-persistent-wailing
+  motif_id: lost_children_with_persistent_wailing
+  label: lost children with persistent wailing
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests child loss and lament, but its narrative function
+    is unclear from wording alone.
+  cautions: May be a local episode, a mourning motif, an etiological sound motif,
+    or culturally sensitive Aboriginal narrative detail; source context needed.
+  suggested_aliases:
+  - lost_children_wailing
+  - persistent_wailing_of_lost_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-maiden-recognized-by-magical-test
+  motif_id: lost_maiden_recognized_by_magical_test
+  label: lost maiden recognized by magical test
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is recognition of a lost person through a proof-test,
+    matching identity-recognition patterns.
+  cautions: If the magical test is primarily a marriage ordeal or enchantment rather
+    than identity proof, sacred_love or initiation may be secondary.
+  suggested_aliases:
+  - maiden_recognized_by_magical_test
+  - recognition_by_magical_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-marriage-through-running-away
+  motif_id: lost_marriage_through_running_away
+  label: lost marriage through running away
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns marital loss, but does not show whether the function
+    is love, flight, broken covenant, taboo, or plot resolution.
+  cautions: Likely over-contextual unless the source shows a recurring marriage-flight
+    pattern; avoid forcing into sacred_love without evidence of sacred longing or
+    union.
+  suggested_aliases:
+  - marriage_lost_by_flight
+  - runaway_spouse_lost_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-sweetheart-love-lament
+  motif_id: lost_sweetheart_love_lament
+  label: Lost sweetheart love lament
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The explicit lament over a lost beloved fits mourning and grief expression.
+  cautions: If the passage emphasizes enduring love beyond death or mystical longing,
+    sacred_love may be a secondary mapping.
+  suggested_aliases:
+  - lament_for_lost_sweetheart
+  - lost_beloved_lament
+  - love_lament_for_lost_sweetheart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-across-a-master-slave-household-relation
+  motif_id: love_across_a_master_slave_household_relation
+  label: love across a master-slave household relation
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Sufi love imagery may fit sacred_love or divine_beloved, but the master-slave
+    relation needs contextual and sensitivity review.
+  cautions: Potentially culturally sensitive and socially specific; determine whether
+    it is mystical servanthood metaphor, household romance, hierarchy critique, or
+    passage artifact.
+  suggested_aliases:
+  - love_across_household_status_boundary
+  - love_across_master_slave_relation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-alters-the-perception-of-beauty
+  motif_id: love_alters_the_perception_of_beauty
+  label: Love alters the perception of beauty
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif treats love as a transformative force changing perception of
+    beauty, within sacred or poetic love imagery.
+  cautions: Could also fit beauty_and_paradox if the passage stresses beauty's paradox
+    rather than love's transformative power.
+  suggested_aliases:
+  - love_transforms_perception_of_beauty
+  - beloved_seen_as_beautiful_through_love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-and-faith-animate-inert-relics
+  motif_id: love_and_faith_animate_inert_relics
+  label: Love and faith animate inert relics
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Relics functioning as inert sacred objects animated by devotion align
+    with power-object and relic devotion patterns.
+  cautions: May also relate to sacred_love or divine_intervention depending on whether
+    love, faith, relic agency, or miracle is central.
+  suggested_aliases:
+  - faith_animates_relics
+  - devotion_animates_inert_relics
+  - love_animates_sacred_relics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-and-good-repaid-with-hatred-and-evil
+  motif_id: love_and_good_repaid_with_hatred_and_evil
+  label: love and good repaid with hatred and evil
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The pattern centers on beneficence or love met by hostile repayment,
+    a violated reciprocity or trust structure.
+  cautions: If the source frames this as moral teaching or divine judgment rather
+    than betrayal, sacred_law or divine_judgment may be better.
+  suggested_aliases:
+  - good_repaid_with_evil
+  - love_repaid_with_hatred
+  - beneficence_repaid_with_hostility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-as-antidote-to-hostility
+  motif_id: love_as_antidote_to_hostility
+  label: Love as antidote to hostility
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Love countering hostility functions as an ethical discipline or command
+    for restoring moral order.
+  cautions: If the passage is devotional or mystical rather than ethical instruction,
+    sacred_love may be a secondary mapping.
+  suggested_aliases:
+  - loving_kindness_overcomes_hostility
+  - love_overcomes_hatred
+  - non_hostility_through_love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-as-captivity-bondage-and-willing-submission
+  motif_id: love_as_captivity_bondage_and_willing_submission
+  label: Love as captivity, bondage, and willing submission
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Captivity and willing submission are common symbolic expressions of overpowering
+    love and longing.
+  cautions: If the context is mystical annihilation of self, annihilation_union or
+    divine_beloved may be important secondary references.
+  suggested_aliases:
+  - love_as_willing_bondage
+  - captivity_of_love
+  - beloved_bondage_and_submission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels occur only once and are phrased as local episode summaries; suggested
+  mappings should remain provisional until passage evidence confirms recurring motif
+  function.
+- For love-family labels, distinguish ethical love, mystical love, romantic lament,
+  and identity-recognition functions rather than mapping all to sacred_love.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed for culturally
+    specific and single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1889
+  input_sha256: 62671d230081eaa5cb77c603a207a634e54a11d1ec876f06be206fbbe7570458
+

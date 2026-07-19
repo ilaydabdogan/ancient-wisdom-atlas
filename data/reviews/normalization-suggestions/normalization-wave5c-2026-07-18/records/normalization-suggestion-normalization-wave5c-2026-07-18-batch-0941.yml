@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0941
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ordered-ritual-repetition
+  motif_id: ordered_ritual_repetition
+  label: ordered ritual repetition
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a ritual formal feature but not its function, object,
+    or sacred effect.
+  cautions: Single occurrence; may be passage-level ritual description rather than
+    a reusable motif. Could fit sacred_time, sacrifice, sacred_law, or sacred_exchange
+    depending on evidence.
+  suggested_aliases:
+  - ritual_repetition
+  - ordered_repetition_in_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordered-ritual-song-cycle
+  motif_id: ordered_ritual_song_cycle
+  label: Ordered ritual song cycle
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core motif is structured sacred song as ritual power or ceremonial
+    sequence.
+  cautions: If the emphasis is calendrical order rather than sonic efficacy, sacred_time
+    may be a secondary or better placement. Review with cultural context.
+  suggested_aliases:
+  - ritual_song_cycle
+  - ordered_ceremonial_song_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordered-sacred-city-as-teaching-community
+  motif_id: ordered_sacred_city_as_teaching_community
+  label: Ordered sacred city as teaching community
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The city functions as an ordered setting for sacred instruction and transmission
+    of wisdom.
+  cautions: Could also relate to world_center if the city is cosmologically central.
+    If merely descriptive of a monastic community, it may be over-specific.
+  suggested_aliases:
+  - sacred_city_as_teaching_community
+  - ordered_city_of_sacred_instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordered-sacred-space-of-state-and-ancestry
+  motif_id: ordered_sacred_space_of_state_and_ancestry
+  label: ordered sacred space of state and ancestry
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label links sacred spatial order with state authority and ancestral
+    legitimacy.
+  cautions: Ancestor_rites may be relevant if ritual care of ancestors is central;
+    world_center may apply if the space organizes the cosmos rather than polity.
+  suggested_aliases:
+  - state_and_ancestry_sacred_space
+  - ancestral_state_sacred_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.orderly-ritual-as-auspice-of-longevity
+  motif_id: orderly_ritual_as_auspice_of_longevity
+  label: Orderly ritual as auspice of longevity
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Proper ritual order functions as a norm that sustains life and social-cosmic
+    harmony.
+  cautions: If the passage stresses reciprocal benefit from ritual performance, sacred_exchange
+    may also fit. Longevity detail should be preserved as evidence.
+  suggested_aliases:
+  - proper_ritual_as_longevity_auspice
+  - ritual_order_promotes_longevity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordinary-looking-object-made-sacred-and-empowered
+  motif_id: ordinary_looking_object_made_sacred_and_empowered
+  label: ordinary-looking object made sacred and empowered
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: An ordinary object becomes a sacred power object conferring or mediating
+    supernatural efficacy.
+  cautions: If the object primarily contains or preserves life, sacred_vessel or external_soul
+    may be more precise. Review culturally specific object role.
+  suggested_aliases:
+  - empowered_sacred_object
+  - ordinary_object_sacralized_as_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.organized-ceremonial-circle-around-a-central-sacred-object
+  motif_id: organized_ceremonial_circle_around_a_central_sacred_object
+  label: organized ceremonial circle around a central sacred object
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The ceremony is organized around a sacred center, matching world-center
+    or axis logic in ritual space.
+  cautions: May be an over-specific ceremonial layout; if the object itself is primary,
+    sacred_treasures may be secondary. Review Indigenous ritual context carefully.
+  suggested_aliases:
+  - ceremonial_circle_around_sacred_center
+  - ritual_circle_with_central_sacred_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oriented-ritual-circuit
+  motif_id: oriented_ritual_circuit
+  label: oriented ritual circuit
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates spatially oriented ritual movement, but its function
+    is not specified.
+  cautions: Culturally specific ceremonial directionality needs source review. Could
+    fit axis_mundi, sacred_law, sacred_time, or sacred_exchange depending on purpose.
+  suggested_aliases:
+  - directional_ritual_circuit
+  - oriented_ceremonial_circuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-explanation-for-taboos-and-clan-ornament
+  motif_id: origin_explanation_for_taboos_and_clan_ornament
+  label: origin explanation for taboos and clan ornament
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif explains taboo and clan-regulating signs, fitting sacred law
+    and social order.
+  cautions: Also has etiological and identity-marker aspects; if the passage chiefly
+    explains clan origins, cosmic_origin or recognition_tokens_hidden_identity may
+    be secondary.
+  suggested_aliases:
+  - taboo_and_clan_ornament_etiology
+  - origin_of_clan_taboo_and_ornament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-a-god-s-sacred-plant
+  motif_id: origin_of_a_god_s_sacred_plant
+  label: origin of a god's sacred plant
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A divine sacred plant belongs with sacred substances, especially plants
+    with ritual or mythic power.
+  cautions: If the emphasis is etiological origin rather than use or power, cosmic_origin
+    may be secondary. If the plant is a world tree or cult tree, axis_mundi may fit
+    better.
+  suggested_aliases:
+  - divine_sacred_plant_origin
+  - god_s_sacred_plant_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern ritual order or ceremonial spatial form but occur only once;
+  source evidence should decide whether these are motifs or descriptive passage artifacts.
+- Do not infer transmission or shared origin from placements across traditions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific ritual labels
+    marked for careful human review where function is unclear.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0941
+  input_sha256: 1d52ce4468dd1ec680bdb3a8e0154a19ce4993fda4efba44c0a165832c1f9c47
+

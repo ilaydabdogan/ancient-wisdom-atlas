@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2320
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.changed-outward-form-but-unchanged-inner-nature
+  motif_id: changed_outward_form_but_unchanged_inner_nature
+  label: changed outward form but unchanged inner nature
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label concerns transformation of visible form while identity or essence
+    persists, fitting the transformation/shapeshifter complex.
+  cautions: Could be a philosophical or moral observation rather than a narrative
+    metamorphosis; verify passage evidence before indexing broadly.
+  suggested_aliases:
+  - outer form changed inner nature unchanged
+  - unchanged nature despite transformed appearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chastity-and-moral-restraint-as-marks-of-the-ideal-knight
+  motif_id: chastity_and_moral_restraint_as_marks_of_the_ideal_knight
+  label: Chastity and moral restraint as marks of the ideal knight
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif frames ethical restraint as a marker of ideal social and sacred
+    conduct within chivalric order.
+  cautions: If the passage emphasizes quest testing or spiritual purification, initiation
+    or mystical_quest may be secondary; single occurrence may be an over-specific
+    chivalric virtue label.
+  suggested_aliases:
+  - chastity as knightly virtue
+  - moral restraint of the ideal knight
+  - chivalric chastity and restraint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cherished-golden-object-lost-in-deep-water
+  motif_id: cherished_golden_object_lost_in_deep_water
+  label: cherished golden object lost in deep water
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A valued golden object functions as a treasure or power object; water
+    loss is a specific episode detail.
+  cautions: If the object is merely personal property without sacred power, this may
+    be too specific for motif queries; if recovery through water is central, sacred_waters
+    may be secondary.
+  suggested_aliases:
+  - golden treasure lost in water
+  - precious object lost in deep water
+  - cherished gold object lost beneath water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chiefs-restrain-a-war-party
+  motif_id: chiefs_restrain_a_war_party
+  label: chiefs restrain a war party
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern political authority, conflict restraint, or a passage-specific
+    social action, and no clear sacred function is evident from the label alone.
+  cautions: Culturally specific Plains leadership context should be reviewed with
+    source evidence; avoid forcing into sacred_combat or royal_legitimacy without
+    ritual, heroic, or cosmological function.
+  suggested_aliases:
+  - leaders restrain war party
+  - chiefs prevent war party action
+  - war party restrained by chiefs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chosen-champion-leading-the-victors-for-both-worlds
+  motif_id: chosen_champion_leading_the_victors_for_both_worlds
+  label: Chosen champion leading the victors for both worlds
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A chosen champion leading cosmic victors aligns with sacred combat and
+    the warrior role in maintaining or restoring order.
+  cautions: Zoroastrian eschatological context may also involve duality, divine_judgment,
+    or world renewal; review whether the emphasis is combat leadership, salvation,
+    or final judgment.
+  suggested_aliases:
+  - chosen eschatological champion
+  - champion leading cosmic victors
+  - victorious champion for both worlds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christian-element-inserted-into-an-older-or-non-christian-tale
+  motif_id: christian_element_inserted_into_an_older_or_non_christian_tale
+  label: Christian element inserted into an older or non-Christian tale
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes redactional or interpretive layering rather than
+    a narrative motif.
+  cautions: Preserve as provenance or reception evidence, but do not use as motif
+    evidence or transmission proof in pattern queries.
+  suggested_aliases:
+  - Christian interpolation in older tale
+  - Christian redactional element
+  - Christian insertion into non-Christian narrative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christian-overlay-on-otherworld-description
+  motif_id: christian_overlay_on_otherworld_description
+  label: Christian overlay on Otherworld description
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label identifies interpretive or redactional overlay in a description,
+    not a reusable symbolic motif.
+  cautions: If a passage contains actual otherworld imagery, index that separately
+    under otherworld; this overlay label should remain textual commentary.
+  suggested_aliases:
+  - Christianized otherworld description
+  - Christian redaction of otherworld imagery
+  - Christian overlay on enchanted realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christianized-but-non-christian-otherworld-narrative-machinery
+  motif_id: christianized_but_non_christian_otherworld_narrative_machinery
+  label: Christianized but non-Christian Otherworld narrative machinery
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a scholarly description of narrative layering and machinery rather
+    than a motif instance.
+  cautions: Do not treat as evidence of contact or origin; separately map concrete
+    otherworld scenes if present in the source passage.
+  suggested_aliases:
+  - Christianized otherworld machinery
+  - non-Christian otherworld structure under Christianized framing
+  - Christianized older otherworld narrative pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christianized-supernatural-captor-replacing-water-or-chthonic-beings
+  motif_id: christianized_supernatural_captor_replacing_water_or_chthonic_beings
+  label: Christianized supernatural captor replacing water or chthonic beings
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes a possible narrative role, supernatural abduction, and
+    redactional replacement; placement depends on the source evidence.
+  cautions: If it is mainly about Christianization or replacement of older beings,
+    treat as meta_textual; if an actual captor at a water/chthonic threshold acts
+    in the story, consider threshold_guardian or otherworld.
+  suggested_aliases:
+  - Christianized supernatural captor
+  - supernatural captor replacing chthonic beings
+  - captor substituted for water beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.churning-of-the-sea
+  motif_id: churning_of_the_sea
+  label: churning of the sea
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The Hindu sea-churning episode combines cosmic waters, divine cooperation/conflict,
+    treasures, nectar, and world-ordering, so a single existing group may lose important
+    meaning.
+  cautions: Depending on passage focus, sacred_waters, cosmic_origin, sacred_substance,
+    sacred_treasures, or divine_warrior may apply; culturally specific canonical placement
+    should be reviewed.
+  suggested_aliases:
+  - churning of the ocean
+  - samudra manthan
+  - churning of the milk ocean
+  suggested_new_group:
+    id: cosmic_churning_of_the_sea
+    label: Cosmic Churning of the Sea
+    description: A cosmic sea or ocean is churned or ritually agitated by divine or
+      semi-divine beings, producing nectar, treasures, beings, or renewed cosmic order.
+    parent_group_ids:
+    - sacred_waters
+    - cosmic_origin
+    related_group_ids:
+    - sacred_substance
+    - sacred_treasures
+    - divine_warrior
+    reason_existing_groups_insufficient: Existing groups cover water, origin, treasures,
+      or divine substances separately, but the sea-churning motif is a distinctive
+      composite cosmological process rather than ordinary water symbolism.
+batch_notes:
+- Several items in this batch appear misbucketed under nature_elements_cosmos despite
+  ethical, martial, or textual-redactional content.
+- Christianization and overlay labels should be preserved as provenance/commentary,
+  not used as evidence in pattern queries or transmission claims.
+- Single-occurrence, culturally specific labels should remain provisional pending
+  passage-level review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for culturally
+    specific Plains, Zoroastrian, Slavic, and Hindu items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2320
+  input_sha256: 375ed457f008bf186902d17543f36e36d43ea5f7e07cfe3b546265b427dd4daa
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2414
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-refuses-the-highest-seat
+  motif_id: hero_refuses_the_highest_seat
+  label: Hero refuses the highest seat
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Refusal of a high seat may signal humility, social rank, ritual seating,
+    or hidden identity, but no existing group is clearly supported by the label alone.
+  cautions: Single occurrence and likely contextual; review passage before mapping
+    to royal_legitimacy, sacred_law, pride_and_downfall, or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - refusal_of_high_seat
+  - humble_refusal_of_honor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-act-alters-the-sea
+  motif_id: hero_s_act_alters_the_sea
+  label: Hero’s act alters the sea
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core image is a heroic action transforming or affecting the sea,
+    fitting water as a medium of transformation or supernatural alteration.
+  cautions: If the sea alteration creates land or explains a landscape feature, cosmic_origin
+    may be a better secondary mapping; if it is only a combat feat, consider divine_warrior
+    or sacred_combat.
+  suggested_aliases:
+  - hero_alters_the_sea
+  - heroic_act_changes_the_sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-vulnerability-through-fear-of-darkness
+  motif_id: hero_s_vulnerability_through_fear_of_darkness
+  label: hero's vulnerability through fear of darkness
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a psychological vulnerability rather than a clear
+    external-soul, hidden-weakness, ordeal, or fate pattern.
+  cautions: Do not map to conditional_invulnerability_hidden_weakness unless fear
+    of darkness functions as an exploitable fatal condition. Could be an episode detail
+    or character trait.
+  suggested_aliases:
+  - fear_of_darkness_as_heroic_vulnerability
+  - heroic_vulnerability_to_darkness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-verifies-strength-on-trees-after-failed-combat-effect
+  motif_id: hero_verifies_strength_on_trees_after_failed_combat_effect
+  label: hero verifies strength on trees after failed combat effect
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a very specific episode action rather than a reusable
+    mythic motif.
+  cautions: If review shows a recurring pattern of testing supernatural strength on
+    trees, preserve under divine_warrior or sacred_combat as evidence detail rather
+    than canonical promotion.
+  suggested_aliases:
+  - strength_test_on_trees
+  - hero_tests_strength_on_trees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroes-turn-to-stone-in-mountain-refuge
+  motif_id: heroes_turn_to_stone_in_mountain_refuge
+  label: heroes turn to stone in mountain refuge
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Heroes becoming stone is a transformation or petrification event, with
+    the mountain refuge as setting.
+  cautions: If the mountain refuge is the main symbolic function, add axis_mundi or
+    protective_mountain_refuge as secondary context; if they are sleeping/hidden rather
+    than dead, review for otherworld or return motifs.
+  suggested_aliases:
+  - heroes_petrified_in_mountain_refuge
+  - petrified_heroes_in_mountain_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-action-misread-as-cowardly-flight
+  motif_id: heroic_action_misread_as_cowardly_flight
+  label: Heroic action misread as cowardly flight
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a recognition or reputation reversal motif, but no existing group
+    cleanly captures misread heroic intent.
+  cautions: May be a passage-specific plot misunderstanding. Consider divine_warrior,
+    sacred_combat, pride_and_downfall, or recognition_tokens_hidden_identity only
+    if source evidence supports heroic honor, combat, shame, or later vindication.
+  suggested_aliases:
+  - heroism_misread_as_cowardice
+  - heroic_retreat_misinterpreted_as_flight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-boar-hunt-tied-to-fatal-fire-token
+  motif_id: heroic_boar_hunt_tied_to_fatal_fire_token
+  label: Heroic boar hunt tied to fatal fire-token
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: A fatal fire-token directly matches the external life-token pattern where
+    damage or burning of an object controls death.
+  cautions: The boar hunt is likely episode context; if the hunt itself is central,
+    sacred_combat or divine_warrior may be secondary, but the fatal token is the strongest
+    normalization anchor.
+  suggested_aliases:
+  - fatal_fire_token
+  - life_bound_to_fire_token
+  - combustible_life_token_in_heroic_hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-feat-of-endurance-over-sea
+  motif_id: heroic_feat_of_endurance_over_sea
+  label: heroic feat of endurance over sea
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sea functions as the medium of a difficult passage or endurance ordeal,
+    fitting sacred waters and water-crossing transformation.
+  cautions: If the emphasis is only athletic or martial prowess, divine_warrior or
+    sacred_combat may fit better; if a journey arc is present, hero_journey may be
+    secondary.
+  suggested_aliases:
+  - endurance_feat_over_sea
+  - heroic_sea_endurance
+  - sea_endurance_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-genealogy-as-a-tree
+  motif_id: heroic_genealogy_as_a_tree
+  label: heroic genealogy as a tree
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A genealogy figured as a tree concerns ancestral origin and lineage structure,
+    which the group already covers through eponymous and genealogical origins.
+  cautions: If the tree functions as a world-axis or sacred tree rather than a lineage
+    metaphor, axis_mundi may be better; if it legitimizes rule, consider royal_legitimacy
+    as secondary.
+  suggested_aliases:
+  - genealogical_tree_of_heroes
+  - heroic_lineage_as_tree
+  - ancestral_tree_genealogy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-nature-sound-contrasted-with-church-sound
+  motif_id: heroic_nature_sound_contrasted_with_church_sound
+  label: heroic nature-sound contrasted with church sound
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a culturally specific contrast between
+    heroic/natural and Christian soundscapes, not a clear existing motif.
+  cautions: Could be literary commentary or reception artifact; map to enchanting_music
+    only if sound itself acts with supernatural force, or to _meta_textual if it is
+    an interpretive contrast.
+  suggested_aliases:
+  - nature_sound_contrasted_with_church_sound
+  - heroic_soundscape_contrasted_with_church_sound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items were placed outside the supplied review bucket because the label-level
+  evidence points to heroic combat, external soul, transformation, or textual/contextual
+  interpretation rather than nature/cosmos alone.
+- Single-occurrence, episode-specific labels should be preserved as evidence notes
+  unless passage review shows recurrence across sources.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional label-only normalization suggestions for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2414
+  input_sha256: ba2f9993844290a05d3d4a8fa39e2b3704d2c3901bbee01a5f3ac4c838be2521
+

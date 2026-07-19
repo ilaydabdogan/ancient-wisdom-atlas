@@ -1,0 +1,342 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3186
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.blood-covered-messenger-reports-offstage-massacre
+  motif_id: blood_covered_messenger_reports_offstage_massacre
+  label: Blood-covered messenger reports offstage massacre
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a scene-reporting device rather than a durable symbolic
+    motif.
+  cautions: If the messenger's blood has ritual or vengeance force in the passage,
+    review under lament_and_mourning, sacred_combat, or blood-feud candidate logic.
+  suggested_aliases:
+  - bloody_messenger_reports_massacre
+  - messenger_reports_offstage_massacre
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-demanding-vengeance
+  motif_id: blood_demanding_vengeance
+  label: Blood demanding vengeance
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Blood is personified or treated as an active demand that binds survivors
+    to vengeance, close to performative sacred obligation.
+  cautions: Could instead belong to a future feud/vengeance group if many blood-feud
+    labels recur; verify whether blood literally speaks, ritually obligates, or is
+    metaphorical.
+  suggested_aliases:
+  - blood_cries_for_vengeance
+  - blood_calls_for_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-exuding-plant
+  motif_id: blood_exuding_plant
+  label: Blood-exuding plant
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A plant exuding blood often signals postmortem transformation, wounded
+    vegetation, or the persistence of death in vegetal form.
+  cautions: If the plant is sacred as an axis/tree, secondary axis_mundi may apply;
+    if only a prodigy or omen, dream_and_vision or prophecy_divination may fit better.
+  suggested_aliases:
+  - bleeding_plant
+  - blood_from_plant
+  - plant_bleeds_like_a_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-feud-accusation-and-demand-for-redress
+  motif_id: blood_feud_accusation_and_demand_for_redress
+  label: Blood-feud accusation and demand for redress
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Blood Feud, Vengeance, and Redress
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on kin-based vengeance and compensatory redress, not
+    just combat or general sacred law.
+  cautions: Single occurrence, but several batch items share the same structure; review
+    whether to fold under sacred_combat or sacred_law instead of creating a group.
+  suggested_aliases:
+  - blood_feud_redress_demand
+  - vengeance_accusation_and_redress
+  suggested_new_group:
+    id: blood_feud_vengeance_redress
+    label: Blood Feud, Vengeance, and Redress
+    description: Kin, lineage, or group obligation to avenge killing, demand compensation,
+      prosecute wrongdoers, or resolve bloodshed through legal or ritual redress.
+    parent_group_ids:
+    - sacred_combat
+    - sacred_law
+    - covenant
+    related_group_ids:
+    - divine_judgment
+    - curse_blessing_speech
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing groups cover combat, law, covenant,
+      and judgment, but do not cleanly capture feud as a social obligation linking
+      kin blood, vengeance, compensation, and legal settlement.
+- suggestion_id: normalization.suggestion.blood-feud-after-intentional-or-accidental-killing
+  motif_id: blood_feud_after_intentional_or_accidental_killing
+  label: blood-feud after intentional or accidental killing
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Blood Feud, Vengeance, and Redress
+  relationship: functional_variant
+  confidence: medium
+  rationale: The killing triggers a feud obligation regardless of intent, matching
+    a recurring vengeance/redress pattern.
+  cautions: Needs source review to distinguish legal custom, ethnographic description,
+    and narrative motif.
+  suggested_aliases:
+  - blood_feud_after_killing
+  - feud_triggered_by_killing
+  suggested_new_group:
+    id: blood_feud_vengeance_redress
+    label: Blood Feud, Vengeance, and Redress
+    description: Kin, lineage, or group obligation to avenge killing, demand compensation,
+      prosecute wrongdoers, or resolve bloodshed through legal or ritual redress.
+    parent_group_ids:
+    - sacred_combat
+    - sacred_law
+    - covenant
+    related_group_ids:
+    - divine_judgment
+    - curse_blessing_speech
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing groups cover combat, law, covenant,
+      and judgment, but do not cleanly capture feud as a social obligation linking
+      kin blood, vengeance, compensation, and legal settlement.
+- suggestion_id: normalization.suggestion.blood-feud-bounded-by-internal-amenities
+  motif_id: blood_feud_bounded_by_internal_amenities
+  label: blood feud bounded by internal amenities
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is unclear and may describe social regulation of feud rather
+    than a narrative motif.
+  cautions: Review the source wording; 'internal amenities' may be a generated or
+    translation artifact. If valid, it may fit the blood-feud candidate or sacred_law.
+  suggested_aliases:
+  - bounded_blood_feud
+  - regulated_blood_feud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-feud-consequence-of-killing-high-status-kin
+  motif_id: blood_feud_consequence_of_killing_high_status_kin
+  label: Blood-feud consequence of killing high-status kin
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Blood Feud, Vengeance, and Redress
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label identifies feud as the socially binding consequence of killing
+    a kin figure of rank.
+  cautions: Could also be indexed under royal_legitimacy if status and succession
+    are central; otherwise feud/redress is the main function.
+  suggested_aliases:
+  - high_status_kin_killing_triggers_feud
+  - feud_after_killing_noble_kin
+  suggested_new_group:
+    id: blood_feud_vengeance_redress
+    label: Blood Feud, Vengeance, and Redress
+    description: Kin, lineage, or group obligation to avenge killing, demand compensation,
+      prosecute wrongdoers, or resolve bloodshed through legal or ritual redress.
+    parent_group_ids:
+    - sacred_combat
+    - sacred_law
+    - covenant
+    related_group_ids:
+    - divine_judgment
+    - curse_blessing_speech
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing groups cover combat, law, covenant,
+      and judgment, but do not cleanly capture feud as a social obligation linking
+      kin blood, vengeance, compensation, and legal settlement.
+- suggestion_id: normalization.suggestion.blood-feud-following-outsider-killing
+  motif_id: blood_feud_following_outsider_killing
+  label: blood feud following outsider killing
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Blood Feud, Vengeance, and Redress
+  relationship: functional_variant
+  confidence: medium
+  rationale: An outsider killing initiates intergroup vengeance or redress, fitting
+    the same feud obligation complex.
+  cautions: Check whether the passage is a general ethnographic rule rather than a
+    motif-bearing narrative event.
+  suggested_aliases:
+  - outsider_killing_triggers_feud
+  - intergroup_blood_feud_after_killing
+  suggested_new_group:
+    id: blood_feud_vengeance_redress
+    label: Blood Feud, Vengeance, and Redress
+    description: Kin, lineage, or group obligation to avenge killing, demand compensation,
+      prosecute wrongdoers, or resolve bloodshed through legal or ritual redress.
+    parent_group_ids:
+    - sacred_combat
+    - sacred_law
+    - covenant
+    related_group_ids:
+    - divine_judgment
+    - curse_blessing_speech
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing groups cover combat, law, covenant,
+      and judgment, but do not cleanly capture feud as a social obligation linking
+      kin blood, vengeance, compensation, and legal settlement.
+- suggestion_id: normalization.suggestion.blood-feud-redirected-into-legal-prosecution
+  motif_id: blood_feud_redirected_into_legal_prosecution
+  label: blood-feud redirected into legal prosecution
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Blood Feud, Vengeance, and Redress
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif preserves feud energy while transforming vengeance into formal
+    legal action.
+  cautions: Strong overlap with sacred_law and covenant; review whether legal redirection
+    is culturally central enough to keep as a child under the feud candidate.
+  suggested_aliases:
+  - feud_redirected_to_law
+  - vengeance_transformed_into_prosecution
+  suggested_new_group:
+    id: blood_feud_vengeance_redress
+    label: Blood Feud, Vengeance, and Redress
+    description: Kin, lineage, or group obligation to avenge killing, demand compensation,
+      prosecute wrongdoers, or resolve bloodshed through legal or ritual redress.
+    parent_group_ids:
+    - sacred_combat
+    - sacred_law
+    - covenant
+    related_group_ids:
+    - divine_judgment
+    - curse_blessing_speech
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing groups cover combat, law, covenant,
+      and judgment, but do not cleanly capture feud as a social obligation linking
+      kin blood, vengeance, compensation, and legal settlement.
+- suggestion_id: normalization.suggestion.blood-feud-resolved-by-legal-atonement
+  motif_id: blood_feud_resolved_by_legal_atonement
+  label: blood-feud resolved by legal atonement
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Blood Feud, Vengeance, and Redress
+  relationship: functional_variant
+  confidence: medium
+  rationale: Legal atonement resolves a blood-feud obligation, combining vengeance,
+    compensation, and social repair.
+  cautions: Could be mapped to sacrifice/atonement_rite if ritual expiation is central,
+    or sacred_law if the legal mechanism dominates.
+  suggested_aliases:
+  - blood_feud_settled_by_atonement
+  - legal_atonement_resolves_feud
+  suggested_new_group:
+    id: blood_feud_vengeance_redress
+    label: Blood Feud, Vengeance, and Redress
+    description: Kin, lineage, or group obligation to avenge killing, demand compensation,
+      prosecute wrongdoers, or resolve bloodshed through legal or ritual redress.
+    parent_group_ids:
+    - sacred_combat
+    - sacred_law
+    - covenant
+    related_group_ids:
+    - divine_judgment
+    - curse_blessing_speech
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing groups cover combat, law, covenant,
+      and judgment, but do not cleanly capture feud as a social obligation linking
+      kin blood, vengeance, compensation, and legal settlement.
+batch_notes:
+- This batch contains a coherent cluster of blood-feud/redress labels across Norse,
+  Arthurian, Amazonian, and Melanesian materials; a new review group may be useful
+  if source evidence confirms recurring narrative function rather than ethnographic
+  abstraction.
+- 'Avoid treating all blood imagery as sacrifice: several labels concern kin obligation,
+  vengeance, legal settlement, or postmortem transformation rather than offering ritual.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; blood-feud candidate requires human review against
+    source passages.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3186
+  input_sha256: e63e6469247a546490479ce923be49f64ad555c6e6fc909d13e1db7cc8cba993
+

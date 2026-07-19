@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0123
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-rather-than-accepting-an-offered-empire
+  motif_id: death_rather_than_accepting_an_offered_empire
+  label: death rather than accepting an offered empire
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: low
+  rationale: Refusing empire unto death may express renunciation or self-surrender,
+    but the label alone does not show ritual sacrifice or death-transformation.
+  cautions: Single Daoist occurrence may be philosophical exemplum or anti-political
+    renunciation rather than a reusable death motif; review source evidence before
+    mapping.
+  suggested_aliases:
+  - renunciation_of_empire_at_death
+  - death_preferred_to_worldly_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-recognized-through-bodily-stillness
+  motif_id: death_recognized_through_bodily_stillness
+  label: death recognized through bodily stillness
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a descriptive sign for identifying death rather than a
+    narrative or symbolic motif.
+  cautions: If the passage uses stillness as a formal omen, ritual diagnostic, or
+    theological contrast with life-breath, it may need review under death_and_transformation
+    or sacred_knowledge.
+  suggested_aliases:
+  - bodily_stillness_as_sign_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-related-abandonment-and-property-destruction
+  motif_id: death_related_abandonment_and_property_destruction
+  label: Death-related abandonment and property destruction
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: low
+  rationale: Abandoning or destroying property after death may be a mortuary rite
+    managing relations between living, dead, and possessions.
+  cautions: Culturally specific mortuary practice; could be sacred_law, ancestor_rites,
+    apotropaic protection, or ethnographic detail depending on evidence.
+  suggested_aliases:
+  - mortuary_abandonment_and_property_destruction
+  - death_rite_destroying_possessions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-related-domestic-purification
+  motif_id: death_related_domestic_purification
+  label: Death-related domestic purification
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A household purification after death fits sacred law, purity, and apotropaic
+    regulation around death contact.
+  cautions: May also relate to ancestor_rites or sacrifice if the rite includes offerings
+    or care for the dead; preserve domestic and death-pollution specifics.
+  suggested_aliases:
+  - domestic_purification_after_death
+  - household_death_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-related-name-taboo
+  motif_id: death_related_name_taboo
+  label: Death-related name taboo
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo on names after death is a sacred prohibition regulating speech
+    and relations with the dead.
+  cautions: Could also belong with curse_blessing_speech if the speech act itself
+    is dangerous; culturally specific naming taboos need source review.
+  suggested_aliases:
+  - name_taboo_after_death
+  - mortuary_name_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-related-purification-with-water-or-suds
+  motif_id: death_related_purification_with_water_or_suds
+  label: Death-related purification with water or suds
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core function is mortuary purification or removal of death-related
+    danger, fitting sacred law and purity practice.
+  cautions: Water detail may support sacred_waters secondarily, but do not map there
+    unless water is symbolically central beyond cleansing.
+  suggested_aliases:
+  - mortuary_purification_with_water
+  - death_pollution_cleansing_with_water_or_suds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-related-red-tree-and-broken-arrows
+  motif_id: death_related_red_tree_and_broken_arrows
+  label: death-related red tree and broken arrows
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines color, tree, weapons, and death without enough evidence
+    to identify the motif function.
+  cautions: Could be mortuary marker, mourning symbol, sacred tree, combat memorial,
+    or passage artifact; do not collapse to axis_mundi or sacred_combat without context.
+  suggested_aliases:
+  - red_tree_and_broken_arrows_at_death
+  - death_symbolism_of_tree_and_broken_arrows
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-related-ritual-handling
+  motif_id: death_related_ritual_handling
+  label: death-related ritual handling
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual handling around death fits purity law and regulated contact with
+    corpse, soul, or death pollution.
+  cautions: Very broad generated label; preserve details if the passage specifies
+    corpse handling, tools, purification, or exposure rites.
+  suggested_aliases:
+  - mortuary_ritual_handling
+  - ritual_handling_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-related-society-ceremony
+  motif_id: death_related_society_ceremony
+  label: Death-related society ceremony
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: low
+  rationale: A society ceremony connected with death may involve collective mortuary
+    or ancestor rites, but the label is too general.
+  cautions: Culturally sensitive and institution-specific; could be ceremony name,
+    social organization detail, healing rite, or ancestor relation rather than a broad
+    motif.
+  suggested_aliases:
+  - mortuary_society_ceremony
+  - death_society_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-related-taboo-protecting-the-vulnerable-soul
+  motif_id: death_related_taboo_protecting_the_vulnerable_soul
+  label: death-related taboo protecting the vulnerable soul
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo intended to protect a vulnerable soul fits sacred law, mortuary
+    prohibition, and apotropaic regulation.
+  cautions: May also relate to soul_loss_restoration or afterlife_passage if the soul
+    is displaced or traveling; review source before assigning secondary mappings.
+  suggested_aliases:
+  - mortuary_taboo_protecting_the_soul
+  - death_taboo_for_vulnerable_soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence mortuary or taboo labels; preserve local ritual
+  detail and avoid promoting to taxonomy families without recurrence.
+- Several death-related purification and taboo labels appear best handled under sacred_law
+  because the normalization groups already fold apotropaic protection, spirit-contagion,
+  and ritual prohibitions there.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; culturally specific mortuary practices
+    need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0123
+  input_sha256: 447cfa7b83c19b1386dfa45e70b6444b03860f81e7787b132e5f3effda858110
+

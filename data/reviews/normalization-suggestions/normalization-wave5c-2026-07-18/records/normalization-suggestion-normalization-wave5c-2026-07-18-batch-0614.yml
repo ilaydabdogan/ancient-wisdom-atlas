@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0614
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.scandal-converts-friendship-into-illicit-connection
+  motif_id: scandal_converts_friendship_into_illicit_connection
+  label: Scandal converts friendship into illicit connection
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a social or erotic reputational reversal,
+    but its narrative function is unclear from wording alone.
+  cautions: Single occurrence; could belong under sacred_love, betrayal_violated_trust,
+    divine_judgment, or be a passage-specific plot detail depending on evidence.
+  suggested_aliases:
+  - friendship_recast_as_illicit_love
+  - scandal_creates_illicit_relationship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - betrayal_violated_trust
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scarcity-driven-wandering-in-a-barren-land
+  motif_id: scarcity_driven_wandering_in_a_barren_land
+  label: scarcity-driven wandering in a barren land
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Wandering caused by scarcity functions as departure into hardship and
+    survival travel, fitting the journey/ordeal complex.
+  cautions: If the passage emphasizes famine ecology or subsistence realism without
+    transformation, keep as contextual evidence rather than a strong motif mapping.
+  suggested_aliases:
+  - famine_driven_wandering
+  - wandering_through_barren_land
+  - scarcity_forces_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scarcity-warning-prompts-special-food-quest
+  motif_id: scarcity_warning_prompts_special_food_quest
+  label: scarcity warning prompts special food quest
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warning of scarcity initiates a quest for food, matching departure
+    prompted by crisis and sought boon/provision.
+  cautions: Could also relate to sacred_substance or divine_intervention if the food
+    is ritually powerful or supernaturally provided.
+  suggested_aliases:
+  - famine_warning_food_quest
+  - quest_for_special_food_after_scarcity_warning
+  - scarcity_prompts_food_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scattered-settlement-after-blocked-conquest
+  motif_id: scattered_settlement_after_blocked_conquest
+  label: Scattered settlement after blocked conquest
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe an origin-of-settlement or post-conflict dispersal
+    pattern, but the mythic function is unclear.
+  cautions: Could map to cosmic_origin if it explains peoples or place distribution,
+    sacred_combat if conquest is central, or be historical/geographic detail.
+  suggested_aliases:
+  - settlement_dispersal_after_failed_conquest
+  - blocked_conquest_leads_to_scattered_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_combat
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scouts-reading-signs-of-enemy-passage
+  motif_id: scouts_reading_signs_of_enemy_passage
+  label: scouts reading signs of enemy passage
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a tactical tracking detail rather than a broad symbolic
+    or narrative motif in the current taxonomy.
+  cautions: If sign-reading is divinatory, sacred, or initiatory in the source, reconsider
+    under sacred_knowledge or prophecy_divination.
+  suggested_aliases:
+  - tracking_enemy_passage
+  - scouts_interpret_enemy_tracks
+  - reading_tracks_of_enemy_movement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - prophecy_divination
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-city-as-beautiful-ship-and-world-market
+  motif_id: sea_city_as_beautiful_ship_and_world_market
+  label: Sea-city as beautiful ship and world-market
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears metaphorical and may concern city pride, maritime wealth,
+    or judgment rather than journey itself.
+  cautions: Likely source-specific imagery; biblical sea-city/world-market language
+    may fit pride_and_downfall or divine_judgment if used in oracle against a city.
+  suggested_aliases:
+  - maritime_city_as_ship
+  - sea_city_as_world_market
+  - city_ship_metaphor_of_trade
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - pride_and_downfall
+    - divine_judgment
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-deity-controls-storm-and-safe-passage
+  motif_id: sea_deity_controls_storm_and_safe_passage
+  label: Sea deity controls storm and safe passage
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A sea deity directly controls storm danger and grants or withholds safe
+    passage, a clear divine intervention in travel.
+  cautions: Secondary relation to sacred_waters is appropriate; do not map to flood_and_renewal
+    unless world-destruction and renewal are present.
+  suggested_aliases:
+  - sea_deity_grants_safe_passage
+  - divine_control_of_storm_and_sea_travel
+  - marine_deity_controls_voyage_peril
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-god-calms-the-waters-by-chariot-passage
+  motif_id: sea_god_calms_the_waters_by_chariot_passage
+  label: sea god calms the waters by chariot passage
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The sea god's passage pacifies dangerous waters, a divine intervention
+    expressed through marine epiphany and travel imagery.
+  cautions: The chariot detail should remain evidence detail; also relates to sacred_waters
+    but is not a flood motif.
+  suggested_aliases:
+  - sea_god_calms_waters
+  - divine_chariot_pacifies_the_sea
+  - marine_deity_calms_waves_by_passing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-going-trading-voyage
+  motif_id: sea_going_trading_voyage
+  label: Sea-going trading voyage
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A maritime trading voyage may be a narrative setting rather than a mythic
+    motif unless it carries ordeal, exchange, or sacred passage functions.
+  cautions: Could map to hero_journey, sacred_exchange, or sacred_waters depending
+    on whether the voyage is transformative, reciprocal, or perilous.
+  suggested_aliases:
+  - maritime_trading_voyage
+  - sea_trade_journey
+  - voyage_for_trade
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_exchange
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-hardship-as-bodily-depletion-before-heroic-display
+  motif_id: sea_hardship_as_bodily_depletion_before_heroic_display
+  label: sea hardship as bodily depletion before heroic display
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Sea suffering before renewed heroic presentation fits a journey ordeal
+    preceding recognition or restored heroic status.
+  cautions: Highly episode-specific; if bodily depletion is merely descriptive, preserve
+    as evidence detail rather than a reusable motif. Secondary links may include sacred_waters
+    or initiation.
+  suggested_aliases:
+  - sea_ordeal_before_heroic_display
+  - maritime_hardship_depletes_hero
+  - bodily_depletion_after_sea_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - initiation
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence travel or setting details; human
+  review should verify whether they function as motifs rather than episode summaries.
+- Avoid treating sea imagery as flood_and_renewal unless catastrophe and world/order
+  renewal are explicit.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages needed for low-confidence journey
+    and maritime-commerce labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0614
+  input_sha256: 0b9afdd4347592a4e83686ac3b9f00caf59cf0b7ecf7e5e3070bfb939b5d86c4
+

@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0058
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cave-or-mountain-burial-of-the-dead
+  motif_id: cave_or_mountain_burial_of_the_dead
+  label: cave or mountain burial of the dead
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: low
+  rationale: Burial practice belongs broadly with funerary rites, but the cave or
+    mountain setting may be ordinary mortuary geography rather than a symbolic motif.
+  cautions: Single occurrence; verify whether cave or mountain has sacred-center,
+    ancestor, or afterlife-passage function before indexing.
+  suggested_aliases:
+  - burial_of_the_dead_in_cave_or_mountain
+  - cave_burial
+  - mountain_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cedar-as-ghost-averting-smoke-or-smell
+  motif_id: cedar_as_ghost_averting_smoke_or_smell
+  label: Cedar as ghost-averting smoke or smell
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A plant smoke or smell used to avert ghosts fits the existing apotropaic
+    protection and spirit-danger cluster under sacred_law.
+  cautions: Preserve cedar specificity as local evidence; do not collapse into sacred_tree_axis
+    unless the cedar functions cosmologically.
+  suggested_aliases:
+  - apotropaic_cedar_smoke_against_ghosts
+  - cedar_smoke_averts_ghosts
+  - ghost_averting_cedar_smell
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-beings-bow-before-adam-s-new-soul
+  motif_id: celestial_beings_bow_before_adam_s_new_soul
+  label: celestial beings bow before Adam's new soul
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The group already includes refusal of homage to a created human; this
+    label is the positive homage scene around Adam's ensouled creation.
+  cautions: Could also support cosmic_origin or sacred_knowledge in Sufi anthropology;
+    avoid treating this as death/afterlife despite the bucket.
+  suggested_aliases:
+  - celestial_homage_to_adam
+  - angels_bow_before_adam_s_soul
+  - homage_to_newly_ensouled_human
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-descent-of-a-deity-to-earth
+  motif_id: celestial_descent_of_a_deity_to_earth
+  label: Celestial descent of a deity to earth
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity descending from heaven to earth is a manifestation of sacred
+    presence to the human or earthly realm.
+  cautions: If the focus is sovereign rule from above, supreme_ruler may be secondary;
+    if no manifestation to humans is present, review context.
+  suggested_aliases:
+  - deity_descends_from_heaven_to_earth
+  - divine_descent_to_earth
+  - heavenly_descent_of_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-descent-to-the-ritual-site
+  motif_id: celestial_descent_to_the_ritual_site
+  label: celestial descent to the ritual site
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred power descending to a ritual site functions as divine manifestation
+    in ritual space.
+  cautions: Could also relate to axis_mundi or sacred_fire if the ritual site is a
+    cosmic center or fire altar; source context needed.
+  suggested_aliases:
+  - divine_descent_to_ritual_site
+  - celestial_presence_descends_to_rite
+  - heavenly_descent_to_sacred_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-dwelling-of-spirits-after-death
+  motif_id: celestial_dwelling_of_spirits_after_death
+  label: celestial dwelling of spirits after death
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: A postmortem celestial dwelling is an afterlife destination or condition
+    for spirits after death.
+  cautions: If it describes a static cosmology rather than a journey, otherworld may
+    be a secondary group; handle local afterlife concepts carefully.
+  suggested_aliases:
+  - spirits_dwell_in_the_sky_after_death
+  - celestial_afterlife_dwelling
+  - postmortem_sky_dwelling_of_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-light-claimed-as-burial-property
+  motif_id: celestial_light_claimed_as_burial_property
+  label: celestial light claimed as burial property
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: The label seems to treat celestial light as a claimed funerary possession,
+    which may fit sacred treasure or burial rite only with context.
+  cautions: Highly opaque and possibly passage-specific; verify whether this is a
+    mythic object, legal burial claim, kenning, or editorial artifact.
+  suggested_aliases:
+  - heavenly_light_as_burial_possession
+  - celestial_light_as_funeral_property
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-power-pacifies-underworld-inhabitants
+  motif_id: celestial_power_pacifies_underworld_inhabitants
+  label: Celestial power pacifies underworld inhabitants
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Pacifying underworld inhabitants is a functional episode within descent
+    or underworld passage.
+  cautions: If the emphasis is divine aid rather than underworld traversal, divine_intervention
+    may be a secondary mapping.
+  suggested_aliases:
+  - heavenly_power_pacifies_underworld_beings
+  - celestial_force_subdues_underworld_inhabitants
+  - pacification_of_underworld_beings_by_celestial_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-sign-used-to-locate-returning-animal
+  motif_id: celestial_sign_used_to_locate_returning_animal
+  label: celestial sign used to locate returning animal
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: A celestial sign used as guidance may fit omens or vision, but the returning
+    animal function is unclear from the label alone.
+  cautions: May be a hunting, animal-return, astral-navigation, or passage-specific
+    detail; not enough evidence to map confidently to death or afterlife motifs.
+  suggested_aliases:
+  - celestial_omen_locates_returning_animal
+  - sky_sign_guides_search_for_returning_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-atonement-for-each-death-after-reciprocal-violence
+  motif_id: ceremonial_atonement_for_each_death_after_reciprocal_violence
+  label: ceremonial atonement for each death after reciprocal violence
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ceremonial atonement after deaths fits sacrificial or ritual repair practices
+    that restore order after violence.
+  cautions: Could also relate to covenant or sacred_law if the rite is compensation
+    law rather than offering; preserve reciprocal-violence context.
+  suggested_aliases:
+  - atonement_rite_after_reciprocal_killing
+  - ceremonial_reparation_for_each_death
+  - ritual_atonement_after_blood_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional; several labels are single-occurrence and need passage
+  evidence before broad indexing.
+- Death/descent bucket assignment appears noisy for some celestial descent and Adamic
+  creation labels; do not infer afterlife function from bucket alone.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Suggested existing-group placements where function is clear; left opaque
+    or highly contextual labels for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0058
+  input_sha256: db6363c91cd54322fc21163c215ea8dc2bb101b131cc6a537e73aa6e59a9fbb0
+

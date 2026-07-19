@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0749
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.distinctive-ritual-costume-and-hair-of-heyoka-women
+  motif_id: distinctive_ritual_costume_and_hair_of_heyoka_women
+  label: distinctive ritual costume and hair of Heyoka women
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a culturally specific ritual role marker
+    rather than a broad motif; source context is needed.
+  cautions: Culturally sensitive and single-occurrence; do not flatten Heyoka-specific
+    ritual identity into generic costume or purity categories without review.
+  suggested_aliases:
+  - heyoka_women_ritual_costume_and_hair
+  - ritual_costume_and_hair_as_role_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divination-authorizing-ritual-timing-and-representation
+  motif_id: divination_authorizing_ritual_timing_and_representation
+  label: Divination authorizing ritual timing and representation
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers on divination as an authorized method for determining
+    ritual timing and representation.
+  cautions: May need secondary indexing under sacred_time or sacred_law if the passage
+    emphasizes calendar order or ritual regulation more than divinatory method.
+  suggested_aliases:
+  - divination_authorizes_ritual_timing
+  - divinatory_authorization_of_ritual_representation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divination-by-sacred-arrows
+  motif_id: divination_by_sacred_arrows
+  label: Divination by sacred arrows
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: high
+  rationale: Sacred arrows are the instrument of an established divinatory practice,
+    fitting systematic divination.
+  cautions: Preserve the arrow medium as local evidence; do not generalize into sacred_treasures
+    unless the arrows confer power beyond divination.
+  suggested_aliases:
+  - arrow_divination
+  - sacred_arrow_divination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divination-guided-selection-of-ritual-caregivers
+  motif_id: divination_guided_selection_of_ritual_caregivers
+  label: Divination-guided selection of ritual caregivers
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: high
+  rationale: The key function is using divination to select ritual personnel or caregivers.
+  cautions: If the passage focuses on offices, kin obligations, or ritual law, sacred_law
+    may be a secondary relation.
+  suggested_aliases:
+  - divinatory_selection_of_ritual_caregivers
+  - divination_selects_ritual_caregivers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divination-to-discern-divine-will
+  motif_id: divination_to_discern_divine_will
+  label: Divination to discern divine will
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: alias
+  confidence: high
+  rationale: This is a direct statement of divination as a method for accessing hidden
+    divine intention.
+  cautions: Keep distinct from spontaneous dream or vision revelation unless the evidence
+    describes altered perception rather than formal divination.
+  suggested_aliases:
+  - discerning_divine_will_by_divination
+  - divination_for_divine_will
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-abode-in-a-volcanic-peak
+  motif_id: divine_abode_in_a_volcanic_peak
+  label: Divine abode in a volcanic peak
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A divine dwelling in a peak fits sacred mountain and world-axis geography
+    when the mountain is a divine abode or contact point.
+  cautions: Volcanic specificity may be locally important; if it is only a place-name
+    detail, review before broad indexing. Could also fit theophany if the passage
+    emphasizes divine manifestation there.
+  suggested_aliases:
+  - divine_abode_on_sacred_peak
+  - volcanic_peak_as_divine_dwelling
+  - sacred_volcanic_mountain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-address-to-gods
+  motif_id: divine_address_to_gods
+  label: divine address to gods
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too general to tell whether it is sacred speech, ritual
+    recitation, mythic council, or passage narration.
+  cautions: May be a passage artifact or generic scene description; source evidence
+    is needed before mapping to curse_blessing_speech, sacred_knowledge, or divine_intervention.
+  suggested_aliases:
+  - god_addresses_the_gods
+  - divine_speech_to_divine_assembly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_knowledge
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-admonition-against-continued-violence
+  motif_id: divine_admonition_against_continued_violence
+  label: Divine admonition against continued violence
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine warning that restrains violence functions as moral reckoning
+    and correction of disorder.
+  cautions: If the scene is primarily peacemaking law or covenantal instruction, sacred_law
+    or covenant may be secondary; if it is direct intervention in battle, divine_intervention
+    may fit.
+  suggested_aliases:
+  - divine_warning_against_further_violence
+  - sacred_admonition_to_end_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-advocacy-and-aid-for-a-suffering-hero
+  motif_id: divine_advocacy_and_aid_for_a_suffering_hero
+  label: Divine advocacy and aid for a suffering hero
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif describes divine support and advocacy in a hero's human ordeal,
+    a direct intervention pattern.
+  cautions: If the aid occurs specifically in battle, divine_warrior may be a secondary
+    mapping; if legal pleading is central, covenant or divine_judgment may also be
+    relevant.
+  suggested_aliases:
+  - divine_aid_for_suffering_hero
+  - divine_advocacy_for_hero_in_distress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-agency-over-flowing-waters-and-plant-growth
+  motif_id: divine_agency_over_flowing_waters_and_plant_growth
+  label: Divine agency over flowing waters and plant growth
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on divine power acting through water and vegetation
+    to sustain or order life.
+  cautions: Could also support sacred_waters or sacred_time if the passage emphasizes
+    water symbolism or seasonal fertility rather than divine agency.
+  suggested_aliases:
+  - divine_power_over_waters_and_growth
+  - divine_agency_in_water_and_vegetation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several divination labels are single-occurrence but fit the existing prophecy_divination
+  group; preserve their ritual functions as aliases or evidence notes.
+- Culturally specific ritual-role labels, especially the Heyoka item, should receive
+  human review rather than automatic broad normalization.
+- No transmission, borrowing, or common-origin claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific and ambiguous ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0749
+  input_sha256: f094ed5fa2eb5fc4277a703c7920fe8ce4850be66af3355ad49219972fb27100
+

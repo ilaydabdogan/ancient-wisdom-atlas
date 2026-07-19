@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0388
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.spirit-transfer-into-another-body
+  motif_id: spirit_transfer_into_another_body
+  label: Spirit transfer into another body
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spirit moving into another body concerns displaced or transferable
+    soul-force and may involve restoration, healing, or revival.
+  cautions: Could instead be shapeshifter, external_soul, or ritual healing depending
+    on whether the body change, life-token logic, or cure is primary.
+  suggested_aliases:
+  - spirit transfer into another body
+  - spirit transmigration into another body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-transmission-into-other-bodies
+  motif_id: spirit_transmission_into_other_bodies
+  label: Spirit transmission into other bodies
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: alias
+  confidence: medium
+  rationale: This appears synonymous with spirit transfer into another body and belongs
+    with displaced or restorable soul-force motifs.
+  cautions: Verify whether transmission is a narrative event, ritual practice, illness
+    explanation, or generated duplicate before final merge.
+  suggested_aliases:
+  - spirit transmission into other bodies
+  - spirit transfer into another body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-tree-sign-revealed-inside-an-animal-body
+  motif_id: spirit_tree_sign_revealed_inside_an_animal_body
+  label: Spirit tree sign revealed inside an animal body
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines spirit-tree, sign disclosure, and animal body imagery;
+    the primary motif is unclear from label alone.
+  cautions: Could fit external_soul, sacred_knowledge, shapeshifter, sacred_tree/axis,
+    or culturally specific spirit-sign practice; avoid flattening Indigenous context
+    without source evidence.
+  suggested_aliases:
+  - spirit tree sign inside animal body
+  - animal body reveals spirit-tree sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-tree-signaled-by-unnatural-movement
+  motif_id: spirit_tree_signaled_by_unnatural_movement
+  label: spirit tree signaled by unnatural movement
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A moving or animated spirit-tree may be a sacred-tree sign, omen, spirit
+    manifestation, or local belief detail.
+  cautions: Source context is needed to decide between axis_mundi, theophany, dream_and_vision,
+    divine_intervention, or a culturally specific tree-spirit motif.
+  suggested_aliases:
+  - unnatural movement reveals spirit tree
+  - spirit tree marked by unnatural movement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-vehicle-disguised-as-natural-object
+  motif_id: spirit_vehicle_disguised_as_natural_object
+  label: Spirit vehicle disguised as natural object
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spirit vehicle concealed as a natural object functions as supernatural
+    agency operating through ordinary nature.
+  cautions: Could fit shapeshifter or sacred_treasures if the object itself is transformed
+    or functions as a power object; culturally specific spirit-vehicle details should
+    be preserved.
+  suggested_aliases:
+  - spirit vehicle hidden as natural object
+  - supernatural vehicle disguised as natural object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-visitation-and-spirit-masters
+  motif_id: spirit_visitation_and_spirit_masters
+  label: spirit visitation and spirit masters
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a broad complex of spirit encounter and spirit authority
+    rather than a clear narrative function.
+  cautions: May involve initiation, tutelary spirits, divine_intervention, dream/vision,
+    shamanic calling, or ethnographic topic labeling; needs source review.
+  suggested_aliases:
+  - spirit visitation
+  - spirit masters
+  - visitation by spirit masters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-world-topic
+  motif_id: spirit_world_topic
+  label: Spirit-world topic
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording is a topical or indexing artifact, not a specific motif or
+    narrative pattern.
+  cautions: If passages describe travel to a spirit world, remap evidence to otherworld,
+    descent, afterlife_passage, or initiation as appropriate.
+  suggested_aliases:
+  - spirit-world topic
+  - spirit world topic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirits-and-nonhuman-peoples
+  motif_id: spirits_and_nonhuman_peoples
+  label: Spirits and nonhuman peoples
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad and may describe a class of beings rather than a recurring
+    motif function.
+  cautions: Could fit otherworld, divine_race, divine_intervention, or culturally
+    specific nonhuman-personhood categories; avoid treating person/place-only ontology
+    as a motif without passage evidence.
+  suggested_aliases:
+  - spirits and nonhuman peoples
+  - nonhuman spirit peoples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirits-announce-names-and-receive-songs
+  motif_id: spirits_announce_names_and_receive_songs
+  label: spirits announce names and receive songs
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Spirits revealing names and receiving songs centers on transmission of
+    sacred names and ritual knowledge.
+  cautions: Could also map to enchanting_music or sacred_exchange if song performance
+    or reciprocal offering is primary; preserve spirit-name specificity.
+  suggested_aliases:
+  - spirits announce names
+  - spirits receive songs
+  - spirit names and songs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirits-as-causes-of-the-unexplained-and-of-misfortune
+  motif_id: spirits_as_causes_of_the_unexplained_and_of_misfortune
+  label: Spirits as causes of the unexplained and of misfortune
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Attributing misfortune to spirits aligns with existing spirit-contagion,
+    affliction, and apotropaic-protection patterns under sacred_law.
+  cautions: If the passage emphasizes expulsion or healing rites, sacrifice/ritual_expulsion
+    or divine_intervention may be better secondary mappings; broad explanatory labels
+    may be ethnographic topic artifacts.
+  suggested_aliases:
+  - spirits cause misfortune
+  - spirits explain unexplained misfortune
+  - spirit-caused misfortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence spirit ontology or ethnographic-topic phrases;
+  source passages should be checked before promoting any new spirit-world group.
+- Avoid collapsing culturally specific spirit masters, nonhuman peoples, and spirit-tree
+  signs into generic divine categories unless the passage evidence supports the narrative
+  function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; spirit-related labels in this batch are culturally
+    sensitive and often too broad without source context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0388
+  input_sha256: 3c9d21592f71ae11df91e2f41cfd245acd8de4bca405745f67698aa657bb4be7
+

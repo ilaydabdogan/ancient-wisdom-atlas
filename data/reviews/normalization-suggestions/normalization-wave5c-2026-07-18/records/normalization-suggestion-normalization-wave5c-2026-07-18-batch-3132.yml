@@ -1,0 +1,282 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3132
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.age-graded-care-of-elders
+  motif_id: age_graded_care_of_elders
+  label: age-graded care of elders
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Care obligations ordered by age fit sacred/social law and ethical social
+    order.
+  cautions: Single Confucian occurrence; may be an ethical norm rather than narrative
+    motif.
+  suggested_aliases:
+  - elder care obligation
+  - age-graded elder care
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.age-graded-life-stage-privileges-and-exemptions
+  motif_id: age_graded_life_stage_privileges_and_exemptions
+  label: age-graded life-stage privileges and exemptions
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Life-stage exemptions and privileges describe socially regulated obligations
+    under sacred or ethical law.
+  cautions: May be a legal/ritual prescription rather than a reusable mythic motif.
+  suggested_aliases:
+  - life-stage exemptions
+  - age-graded social privileges
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.age-graded-separation-of-boys-and-girls-play
+  motif_id: age_graded_separation_of_boys_and_girls_play
+  label: Age-graded separation of boys' and girls' play
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Age and gender separation may reflect social order or ritualized life-stage
+    regulation.
+  cautions: Could be ethnographic childhood custom, gender norm, or passage artifact;
+    source context is needed before indexing.
+  suggested_aliases:
+  - gender-separated childhood play
+  - age-graded gender separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.age-graded-veneration-and-nourishment-of-elders
+  motif_id: age_graded_veneration_and_nourishment_of_elders
+  label: Age-graded veneration and nourishment of elders
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Veneration and nourishment of elders align with filial and age-ordered
+    social obligations.
+  cautions: May overlap sacred_exchange if feeding/reciprocity is central; single
+    occurrence limits canonical value.
+  suggested_aliases:
+  - elder veneration and nourishment
+  - filial nourishment of elders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.age-linked-piercing-without-ceremony
+  motif_id: age_linked_piercing_without_ceremony
+  label: age-linked piercing without ceremony
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: uncertain
+  confidence: low
+  rationale: Age-linked body modification may mark status transition, but the label
+    explicitly says without ceremony.
+  cautions: Could be ethnographic detail rather than initiation; avoid indexing as
+    ritual unless passage evidence supports status transformation.
+  suggested_aliases:
+  - age-linked body piercing
+  - nonceremonial age-linked piercing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.age-specific-food-prohibition
+  motif_id: age_specific_food_prohibition
+  label: Age-specific food prohibition
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A food prohibition tied to age fits ritual prohibition and sacred social
+    regulation.
+  cautions: Review whether this is a taboo with sacred force or a contextual ethnographic
+    rule; may overlap initiation if tied to life-stage rites.
+  suggested_aliases:
+  - age-based food taboo
+  - life-stage food prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-champion-overcomes-youthful-challenger
+  motif_id: aged_champion_overcomes_youthful_challenger
+  label: aged champion overcomes youthful challenger
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a combat contest structured by champion status and
+    age contrast.
+  cautions: If the passage emphasizes moral exemplum, Roman history, or age wisdom
+    more than combat, sacred_knowledge or sacred_law may be secondary.
+  suggested_aliases:
+  - old champion defeats young challenger
+  - aged warrior defeats youthful opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-custodian-after-elapsed-time
+  motif_id: aged_custodian_after_elapsed_time
+  label: aged custodian after elapsed time
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The function of the aged custodian is unclear from the label alone.
+  cautions: Could involve otherworld time dilation, guardianship, memory, or a passage-specific
+    character detail; needs source evidence.
+  suggested_aliases:
+  - aged guardian after elapsed time
+  - elder custodian after time passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-predator-attacks-humans-from-hunger
+  motif_id: aged_predator_attacks_humans_from_hunger
+  label: aged predator attacks humans from hunger
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Predator behavior in animal narrative is closest to the existing predator-deception/fable
+    cluster under trickster.
+  cautions: The label lacks deception or boundary crossing; may be a local animal
+    episode or danger motif rather than trickster proper.
+  suggested_aliases:
+  - hungry aged predator attacks humans
+  - old predator attacks from hunger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ageless-and-painless-inhabitants-of-a-blessed-land
+  motif_id: ageless_and_painless_inhabitants_of_a_blessed_land
+  label: Ageless and painless inhabitants of a blessed land
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: high
+  rationale: Ageless, painless beings in a blessed land match the enchanted otherworld/blessed
+    realm pattern.
+  cautions: If framed as a postmortem destination rather than a parallel enchanted
+    realm, afterlife_passage may be a secondary mapping.
+  suggested_aliases:
+  - blessed land of ageless painless inhabitants
+  - ageless inhabitants of a blessed land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several age-graded labels appear to be ethical, legal, or ethnographic prescriptions
+  rather than narrative motifs; preserve context and avoid over-promoting single occurrences.
+- For culturally specific Melanesian and Shan life-stage practices, human review should
+  verify whether the source presents a ritual motif, social rule, or commentary artifact.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence age and ethnographic custom labels
+    require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3132
+  input_sha256: 235c4e11fdfc93effd931987715568aa385d42efb4aaab27329ccef56a6c1c39
+

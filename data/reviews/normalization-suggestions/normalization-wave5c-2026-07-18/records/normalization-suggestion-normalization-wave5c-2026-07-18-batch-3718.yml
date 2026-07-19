@@ -1,0 +1,324 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3718
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.new-pot-preparation-by-sequential-boiling-and-coating
+  motif_id: new_pot_preparation_by_sequential_boiling_and_coating
+  label: new pot preparation by sequential boiling and coating
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a specific ritual or craft procedure, but the symbolic
+    function is not clear from wording alone.
+  cautions: Could be ethnographic process detail rather than a motif; review whether
+    the pot functions as sacred vessel, initiation object, healing implement, or ordinary
+    material culture.
+  suggested_aliases:
+  - sequential_boiling_and_coating_of_new_pot
+  - ritual_preparation_of_new_pot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    - sacred_craft
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.new-race-arising-from-blood-of-the-slain
+  motif_id: new_race_arising_from_blood_of_the_slain
+  label: New race arising from blood of the slain
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes an etiological origin of a people or race from slain
+    blood, fitting people-origins under cosmic_origin.
+  cautions: If the passage emphasizes body/blood transformation after death rather
+    than origin of a people, death_and_transformation or primordial_sacrifice may
+    be better secondary mappings.
+  suggested_aliases:
+  - people_arising_from_blood_of_the_slain
+  - race_origin_from_slain_blood
+  - generation_of_people_from_bloodshed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - primordial_sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.new-trade-goods-incorporated-into-begging-performance
+  motif_id: new_trade_goods_incorporated_into_begging_performance
+  label: new trade goods incorporated into begging performance
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a contextual performance or ethnographic
+    detail rather than a recurring mythic-symbolic motif.
+  cautions: If the source frames the begging performance as ritual exchange, gift
+    reciprocity, or sacred performance, review for sacred_exchange or storytelling_as_power
+    instead of exclusion.
+  suggested_aliases:
+  - trade_goods_in_begging_performance
+  - begging_performance_with_trade_goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.newborn-as-creditor-settling-an-account
+  motif_id: newborn_as_creditor_settling_an_account
+  label: newborn as creditor settling an account
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may encode karmic debt, reincarnation, moral accounting, or
+    a birth omen, but the function is ambiguous.
+  cautions: Needs source context before mapping; possible fits include divine_judgment
+    for moral reckoning, miraculous_child for extraordinary newborn agency, or sacred_exchange
+    for debt/reciprocity logic.
+  suggested_aliases:
+  - newborn_settles_karmic_account
+  - infant_as_creditor
+  - birth_as_debt_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - miraculous_child
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.newborn-disappears-while-watchers-sleep
+  motif_id: newborn_disappears_while_watchers_sleep
+  label: Newborn disappears while watchers sleep
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A newborn’s uncanny disappearance under watch suggests extraordinary
+    infancy or threatened/hidden child pattern.
+  cautions: Could instead be otherworld abduction, substitution, or passage-specific
+    plot detail; review whether the child has sacred destiny or supernatural agency.
+  suggested_aliases:
+  - mysterious_disappearance_of_newborn
+  - newborn_vanishes_while_guardians_sleep
+  - uncanny_infant_disappearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.newborn-face-painting-with-maternal-mixture
+  motif_id: newborn_face_painting_with_maternal_mixture
+  label: newborn face painting with maternal mixture
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This appears to be a culturally specific birth or newborn rite, but its
+    sacred function is not supplied.
+  cautions: Do not collapse into miraculous_child unless extraordinary destiny is
+    present; may be a ritual-purity, kinship, protection, or ethnographic detail requiring
+    human review.
+  suggested_aliases:
+  - maternal_mixture_newborn_face_painting
+  - ritual_face_painting_of_newborn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - miraculous_child
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.newborn-placed-in-decorated-cradle
+  motif_id: newborn_placed_in_decorated_cradle
+  label: newborn placed in decorated cradle
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The decorated cradle may be a ritual container, status marker, or ordinary
+    birth-care detail; function is unclear.
+  cautions: Review whether the cradle protects, marks destiny, encodes identity, or
+    is merely descriptive material culture. Avoid broad motif indexing from a single
+    procedural detail.
+  suggested_aliases:
+  - decorated_cradle_for_newborn
+  - newborn_cradle_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - sacred_vessel
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.newborn-sex-encoded-through-object-pairs
+  motif_id: newborn_sex_encoded_through_object_pairs
+  label: newborn sex encoded through object pairs
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The use of paired objects to encode newborn sex may reflect ritual classification
+    or social identity marking, but no existing group cleanly captures it.
+  cautions: Could relate to duality, sacred_law, birth rites, or material-culture
+    classification; source context and cultural sensitivity are needed before indexing.
+  suggested_aliases:
+  - object_pairs_mark_newborn_sex
+  - newborn_gender_marked_by_paired_objects
+  - birth_identity_encoded_by_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    - sacred_law
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.newborn-shaving-and-painting
+  motif_id: newborn_shaving_and_painting
+  label: Newborn shaving and painting
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This is likely a newborn rite of bodily marking or purification, but
+    the symbolic or ritual function is unspecified.
+  cautions: May be a culturally specific lifecycle practice rather than a cross-source
+    motif; review before mapping to sacred_law, initiation, or miraculous_child.
+  suggested_aliases:
+  - ritual_shaving_and_painting_of_newborn
+  - newborn_body_marking_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - initiation
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.newborn-washing-towa-massage-and-early-breastfeeding
+  motif_id: newborn_washing_towa_massage_and_early_breastfeeding
+  label: Newborn washing, towa massage, and early breastfeeding
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a specific newborn-care sequence that may be ritual,
+    medical, or ethnographic rather than a normalized motif.
+  cautions: Review culturally specific term and context; if washing/purification or
+    sacred nourishment is foregrounded, sacred_law, sacred_substance, or miraculous_child
+    may be relevant.
+  suggested_aliases:
+  - newborn_washing_massage_and_breastfeeding
+  - newborn_care_sequence
+  - ritual_newborn_washing_and_feeding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_substance
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be single-occurrence ethnographic newborn
+  or material-culture procedures; most need source review before use in broad pattern
+  queries.
+- Do not infer sacred birth or miraculous child status from newborn-related wording
+  alone; require evidence of unusual destiny, divine protection, or supernatural agency.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; birth-rite and culturally specific procedural
+    labels require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3718
+  input_sha256: 77964bd704b0440afd2e69b9da2d27afd43c83b8e39791597d0b5b88fe0de776
+

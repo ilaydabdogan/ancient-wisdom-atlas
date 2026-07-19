@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3738
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.one-religion-divided-into-sectarian-parties
+  motif_id: one_religion_divided_into_sectarian_parties
+  label: One religion divided into sectarian parties
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern sacred communal order, sectarian division, or warning
+    against breaking religious unity, but the motif function is unclear from wording
+    alone.
+  cautions: Could be doctrinal commentary, social history, or a passage-specific polemic
+    rather than a reusable motif; Islamic sectarian framing needs source-sensitive
+    review.
+  suggested_aliases:
+  - religious_community_divided_into_sects
+  - sectarian_division_of_one_religion
+  - division_of_the_religious_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-role-against-many-formed-performance
+  motif_id: one_role_against_many_formed_performance
+  label: One role against many-formed performance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too opaque to determine whether it describes ritual drama,
+    shapeshifting, a contest, or performance structure.
+  cautions: May be a generated wording artifact; source evidence is needed before
+    mapping to shapeshifter, storytelling_as_power, sacred_combat, or excluding.
+  suggested_aliases:
+  - single_role_against_many_forms
+  - one_figure_against_many_forms
+  - single_performer_many_formed_opposition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-way-fish-trap-by-restricted-turning-space
+  motif_id: one_way_fish_trap_by_restricted_turning_space
+  label: one-way fish trap by restricted turning space
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a technical ethnographic or practical device description
+    rather than a symbolic or narrative motif.
+  cautions: If the trap appears in a mythic trick, origin, or animal-capture episode,
+    preserve as local evidence under trickster or sacred_craft; otherwise exclude
+    from pattern queries.
+  suggested_aliases:
+  - one_way_fish_trap
+  - restricted_turning_space_fish_trap
+  - fish_trap_mechanism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-way-progression-of-funerary-stages
+  motif_id: one_way_progression_of_funerary_stages
+  label: one-way progression of funerary stages
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes ordered funerary procedure and irreversible mortuary
+    stages, fitting funeral rites and memorial ordering.
+  cautions: If the source concerns ancestor maintenance rather than the funeral sequence
+    itself, ancestor_rites may be a better or secondary group; not necessarily heroic.
+  suggested_aliases:
+  - ordered_funerary_stages
+  - irreversible_funerary_sequence
+  - sequential_funeral_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-woman-as-cause-of-collective-toil
+  motif_id: one_woman_as_cause_of_collective_toil
+  label: One woman as cause of collective toil
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The wording suggests an etiological blame pattern for communal labor
+    or hardship, but the narrative function and gendered context are unclear.
+  cautions: Potentially culturally sensitive or misogynistic generated framing; may
+    be an over-specific episode detail, curse, geis, sovereignty tale, or social-order
+    etiology.
+  suggested_aliases:
+  - woman_causes_collective_toil
+  - female_figure_as_cause_of_communal_labor
+  - collective_toil_attributed_to_one_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.only-the-inflicter-can-cure-the-magical-illness
+  motif_id: only_the_inflicter_can_cure_the_magical_illness
+  label: Only the inflicter can cure the magical illness
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing divine_intervention group includes ambivalent spirit injury/healing,
+    where the harming agent also mediates cure.
+  cautions: If the inflicter is a human sorcerer rather than a spirit or sacred power,
+    a future magical-healing or curse group may fit better; review culturally specific
+    illness concepts.
+  suggested_aliases:
+  - inflicter_as_only_healer
+  - magical_illness_cured_by_its_sender
+  - healing_by_the_harming_agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.open-landscape-as-source-of-celtic-romance-mystery
+  motif_id: open_landscape_as_source_of_celtic_romance_mystery
+  label: Open landscape as source of Celtic romance mystery
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label sounds like literary-critical description of atmosphere or
+    genre rather than a concrete recurring motif.
+  cautions: If a specific landscape functions as an otherworld threshold or enchanted
+    realm, remap that passage to otherworld or axis_mundi; avoid indexing this broad
+    interpretive phrase.
+  suggested_aliases:
+  - open_landscape_as_romance_mystery
+  - celtic_romance_landscape_mystery
+  - landscape_as_source_of_romance_enchantment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.opened-mound-inspected-by-workers-and-observers
+  motif_id: opened_mound_inspected_by_workers_and_observers
+  label: opened mound inspected by workers and observers
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to describe an observation or excavation-like scene rather
+    than a mythic function.
+  cautions: If the opened mound reveals an otherworld, ancestor, treasure, or origin
+    event, index that specific function instead; current label is too procedural and
+    contextual.
+  suggested_aliases:
+  - opened_mound_inspection
+  - mound_opened_and_observed
+  - workers_inspect_opened_mound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.opening-and-unbinding-to-relieve-prolonged-labor
+  motif_id: opening_and_unbinding_to_relieve_prolonged_labor
+  label: Opening and unbinding to relieve prolonged labor
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a ritual or taboo-action technique using symbolic
+    unbinding to affect childbirth, fitting sacred law and ritual practice.
+  cautions: Could warrant a birth/body ritual subgroup if many childbirth rites recur;
+    handle Melanesian ritual details carefully and avoid overgeneralizing from one
+    occurrence.
+  suggested_aliases:
+  - unbinding_rite_for_childbirth
+  - opening_rite_to_ease_labor
+  - ritual_unbinding_for_prolonged_labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.opponent-distracted-at-the-decisive-moment
+  motif_id: opponent_distracted_at_the_decisive_moment
+  label: Opponent distracted at the decisive moment
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A decisive distraction of an opponent commonly functions as deception
+    or stratagem enabling victory or escape.
+  cautions: If the context is formal combat rather than trickery, sacred_combat may
+    be a better secondary group; label is generic and needs passage evidence.
+  suggested_aliases:
+  - decisive_moment_distraction
+  - opponent_distracted_before_defeat
+  - victory_by_distracting_opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; recommendations
+  should be treated as provisional pending source passage review.
+- Avoid promoting opaque generated phrases or literary-critical descriptions into
+  query motifs unless recurring evidence supports them.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed especially for
+    culturally sensitive ritual, sectarian, and gendered labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3738
+  input_sha256: 0d534685e6ad65eb51602672336ba5947fa50386f1717174ed54d3887da337dc
+

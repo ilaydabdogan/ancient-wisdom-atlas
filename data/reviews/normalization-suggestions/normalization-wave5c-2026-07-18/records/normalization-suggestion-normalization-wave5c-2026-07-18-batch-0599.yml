@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0599
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.replica-homeland-founded-in-exile
+  motif_id: replica_homeland_founded_in_exile
+  label: replica homeland founded in exile
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Founding a substitute homeland after exile fits journey, displacement,
+    and reconstitution after departure.
+  cautions: Could also involve royal_legitimacy or cosmic_origin if the emphasis is
+    foundation myth rather than exile experience.
+  suggested_aliases:
+  - exile_foundation_of_new_homeland
+  - new_homeland_founded_after_exile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reported-supernatural-attack-at-a-river-crossing
+  motif_id: reported_supernatural_attack_at_a_river_crossing
+  label: Reported supernatural attack at a river crossing
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural danger at a river crossing marks a perilous threshold
+    that must be survived or negotiated.
+  cautions: If the attack is only reported hearsay or local anecdote, it may be too
+    contextual; sacred_waters or passage_through_waters may be secondary if water-crossing
+    is central.
+  suggested_aliases:
+  - supernatural_attack_at_river_crossing
+  - river_crossing_as_supernatural_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.request-for-a-divine-sign-within-worldly-life
+  motif_id: request_for_a_divine_sign_within_worldly_life
+  label: Request for a divine sign within worldly life
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A request for a divine sign seeks revealed confirmation or guidance about
+    hidden sacred will.
+  cautions: Could map to divine_intervention if the emphasis is the deity's response,
+    or to sacred_exchange if framed as prayer/petition.
+  suggested_aliases:
+  - petition_for_divine_sign
+  - request_for_sacred_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.request-for-a-ruler-and-ruler-like-object
+  motif_id: request_for_a_ruler_and_ruler_like_object
+  label: request for a ruler and ruler-like object
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The wording is unclear: it may refer to political authority, a measuring
+    tool, or a punning/object episode.'
+  cautions: Do not map to royal_legitimacy without evidence that the requested ruler
+    is a sovereign rather than an object or passage-specific wordplay.
+  suggested_aliases:
+  - request_for_ruler_or_rule_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.request-for-a-visible-or-local-god-after-deliverance
+  motif_id: request_for_a_visible_or_local_god_after_deliverance
+  label: request for a visible or local god after deliverance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The request after deliverance concerns loyalty, worship, and sacred bond
+    with divine authority.
+  cautions: May overlap with idol or divine_judgment if the source frames the request
+    as idolatrous transgression; review religious sensitivity and context.
+  suggested_aliases:
+  - request_for_visible_god_after_deliverance
+  - request_for_local_deity_after_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.request-for-divine-friendship-toward-a-prepared-ritual-object-or-space
+  motif_id: request_for_divine_friendship_toward_a_prepared_ritual_object_or_space
+  label: request for divine friendship toward a prepared ritual object or space
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual petition asking divine favor toward a prepared object or space
+    fits reciprocal sacred offering and relationship.
+  cautions: If the prepared space functions as a center or sanctuary, portable_sanctuary/world_center
+    may be a secondary mapping.
+  suggested_aliases:
+  - ritual_request_for_divine_friendship
+  - petition_for_divine_favor_on_ritual_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.request-for-heavenly-best-life-bodily-health-and-longevity
+  motif_id: request_for_heavenly_best_life_bodily_health_and_longevity
+  label: request for heavenly best life, bodily health, and longevity
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prayer for health, long life, and heavenly benefit is a petitionary
+    exchange with sacred powers.
+  cautions: May be an over-specific liturgical request; if only a formulaic prayer
+    line, preserve as evidence detail rather than a query motif.
+  suggested_aliases:
+  - petition_for_health_and_long_life
+  - request_for_divine_best_life_and_longevity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.request-for-sacred-seasonal-residence
+  motif_id: request_for_sacred_seasonal_residence
+  label: Request for sacred seasonal residence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A requested residence organized by season fits sacred calendrical or
+    ritual-cycle practice.
+  cautions: Could also involve sacred_geography_pilgrimage or monastic institution
+    context not covered by the existing group; source context needed.
+  suggested_aliases:
+  - seasonal_sacred_residence
+  - ritual_seasonal_residence_request
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.request-for-secrecy-followed-by-discovery
+  motif_id: request_for_secrecy_followed_by_discovery
+  label: request for secrecy followed by discovery
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on concealed knowledge that is later revealed or discovered.
+  cautions: May be a generic plot detail rather than sacred knowledge; if the secret
+    is personal, political, or comic, exclude or remap after review.
+  suggested_aliases:
+  - secret_request_and_discovery
+  - concealed_matter_later_discovered
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.request-for-supernatural-power-from-powerful-beings
+  motif_id: request_for_supernatural_power_from_powerful_beings
+  label: request for supernatural power from powerful beings
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A petitioner seeks empowerment from nonhuman powerful beings, fitting
+    supernatural aid in human affairs.
+  cautions: Could be initiation if gained through ordeal or vision quest; handle culturally
+    specific spirit-power traditions with human review.
+  suggested_aliases:
+  - petition_for_supernatural_power
+  - request_for_power_from_sacred_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence petition or episode labels; several may be liturgical
+  or passage-specific and should be checked against source evidence before broad indexing.
+- The review bucket is journey-focused, but many labels are better placed under petition,
+  sacred exchange, divine intervention, sacred law, or threshold groups rather than
+  journey itself.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0599
+  input_sha256: cc969a2ea489541f6dda1517cac2e6b2622d57a6586b6fe2663648fedbb861c2
+

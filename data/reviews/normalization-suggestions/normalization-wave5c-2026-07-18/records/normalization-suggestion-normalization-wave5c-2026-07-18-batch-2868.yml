@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2868
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.weapon-discharges-without-human-touch
+  motif_id: weapon_discharges_without_human_touch
+  label: Weapon discharges without human touch
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could indicate supernatural agency, weapon taboo, or a passage-specific
+    accident; the label alone does not establish sacred combat or divine intervention.
+  cautions: Single occurrence and culturally specific; review source evidence before
+    treating as an autonomous weapon or supernatural intervention motif.
+  suggested_aliases:
+  - self_discharging_weapon
+  - weapon_fires_without_human_agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-discovered-later-as-proof-of-the-true-killing-place
+  motif_id: weapon_discovered_later_as_proof_of_the_true_killing_place
+  label: weapon discovered later as proof of the true killing-place
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The weapon functions as material proof establishing the true location
+    or facts of a killing, like an identity or truth-confirming token.
+  cautions: If the passage mainly explains a place-name or burial site, cosmic_origin
+    or heroic_funeral_rites may be better secondary context; preserve killing-place
+    specificity as evidence.
+  suggested_aliases:
+  - weapon_as_proof_of_killing_place
+  - discovered_weapon_proves_true_death_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-display-causing-renewed-kin-conflict
+  motif_id: weapon_display_causing_renewed_kin_conflict
+  label: weapon display causing renewed kin conflict
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A displayed weapon reignites kin conflict, making martial object display
+    a catalyst for renewed feud or violence.
+  cautions: Could also fit betrayal_violated_trust or sacred_treasures if the weapon's
+    ownership or power-object status is central; source context needed.
+  suggested_aliases:
+  - displayed_weapon_renews_kin_feud
+  - weapon_display_as_feud_catalyst
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-donated-by-a-noncombatant-to-the-hero
+  motif_id: weapon_donated_by_a_noncombatant_to_the_hero
+  label: weapon donated by a noncombatant to the hero
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon given to a hero functions as a power object conferring capacity,
+    authority, or success in combat.
+  cautions: If the donor relationship or reciprocity is the focus, sacred_exchange
+    may be a secondary mapping; if the weapon is ordinary, this may be over-specific
+    evidence.
+  suggested_aliases:
+  - noncombatant_donates_weapon_to_hero
+  - weapon_gift_from_noncombatant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-escalation-ending-in-disarming-wound-and-killing-blow
+  motif_id: weapon_escalation_ending_in_disarming_wound_and_killing_blow
+  label: weapon escalation ending in disarming wound and killing blow
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The sequence describes a formal combat escalation and decisive wound
+    within a duel or battle pattern.
+  cautions: Likely too episode-specific for a canonical motif; preserve as combat-scene
+    detail unless the escalation sequence recurs across sources.
+  suggested_aliases:
+  - escalating_weapon_combat_ending_in_disarmament
+  - disarming_wound_before_killing_blow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-form-as-group-and-craft-marker
+  motif_id: weapon_form_as_group_and_craft_marker
+  label: weapon form as group and craft marker
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns material culture and social identity more than a clear
+    narrative function; it may fit sacred_craft only if craft has mythic or sacred
+    force.
+  cautions: May be ethnographic or classificatory detail rather than a motif. Review
+    for cultural sensitivity and whether the weapon form is symbolically operative
+    in a narrative.
+  suggested_aliases:
+  - weapon_shape_as_group_marker
+  - weapon_form_as_craft_identity_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-gift-empowering-allies-against-neighbors
+  motif_id: weapon_gift_empowering_allies_against_neighbors
+  label: weapon gift empowering allies against neighbors
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A gifted weapon empowers recipients, matching power-object and weapon-bestowal
+    patterns already grouped under sacred_treasures.
+  cautions: If the alliance obligation is central, covenant or sacred_exchange may
+    be secondary; if the emphasis is warfare between groups, sacred_combat may also
+    apply.
+  suggested_aliases:
+  - weapon_gift_empowers_allies
+  - gifted_weapon_against_neighbors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-gift-to-a-heroic-knight
+  motif_id: weapon_gift_to_a_heroic_knight
+  label: Weapon gift to a heroic knight
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A weapon gift to a knight is a straightforward martial power-object bestowal,
+    especially in Arthurian heroic context.
+  cautions: May be ordinary chivalric equipment if no sacred, magical, legitimating,
+    or narrative-turning function is present.
+  suggested_aliases:
+  - weapon_gift_to_heroic_knight
+  - heroic_knight_receives_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-handling-as-escalating-offense
+  motif_id: weapon_handling_as_escalating_offense
+  label: weapon handling as escalating offense
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label frames handling a weapon as a graded offense, aligning with
+    sacred law, taboo, or regulated social order.
+  cautions: Could map to sacred_combat if it occurs as duel escalation rather than
+    legal or ritual prohibition; review passage evidence for normative framing.
+  suggested_aliases:
+  - weapon_handling_as_graded_offense
+  - escalating_offense_through_weapon_handling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-impervious-boy
+  motif_id: weapon_impervious_boy
+  label: weapon-impervious boy
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: high
+  rationale: A boy impervious to weapons fits the established invulnerable or weapon-resistant
+    body pattern.
+  cautions: If no hidden weakness, exception, or later defeat is present, this may
+    be a broader invulnerability case rather than the full conditional-invulnerability
+    structure.
+  suggested_aliases:
+  - weapon_resistant_boy
+  - boy_impervious_to_weapons
+  - weapon_impervious_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Weapon-gift labels generally fit sacred_treasures when the weapon confers power,
+  authority, or combat success; use sacred_combat only when the scene's primary function
+  is battle structure rather than object bestowal.
+- Several single-occurrence weapon labels are episode-specific and should remain granular
+  evidence unless recurrence across sources supports promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source context especially needed for culturally
+    specific weapon agency and material-culture labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2868
+  input_sha256: 26eb5796b4631b1fa6e0579b41287c28f0ac795ad17a73c76d94ac5a10c46773
+

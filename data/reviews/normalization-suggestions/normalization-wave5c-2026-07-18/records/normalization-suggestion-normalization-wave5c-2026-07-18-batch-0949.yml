@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0949
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.personified-divine-virtues-respond-to-prayer
+  motif_id: personified_divine_virtues_respond_to_prayer
+  label: personified divine virtues respond to prayer
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Personified sacred powers answering prayer function as divine agency
+    in human affairs.
+  cautions: Could also belong with sacred_law or sacred_exchange if the passage emphasizes
+    virtues, ritual obligation, or prayer reciprocity rather than intervention.
+  suggested_aliases:
+  - personified_virtues_answer_prayer
+  - divine_virtues_respond_to_prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-earth-grieves-and-rejoices-over-ritual-and-social-conditions
+  motif_id: personified_earth_grieves_and_rejoices_over_ritual_and_social_conditions
+  label: Personified Earth grieves and rejoices over ritual and social conditions
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Earth's personified response evaluates ritual and social order, fitting
+    moral reckoning by sacred/cosmic authority.
+  cautions: If the passage primarily presents Earth as a divine nature being rather
+    than evaluator, divine_intervention or a nature-personification alias may be better.
+  suggested_aliases:
+  - personified_earth_judges_ritual_order
+  - earth_rejoices_or_grieves_over_moral_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-elements-obedient-to-god
+  motif_id: personified_elements_obedient_to_god
+  label: Personified elements obedient to God
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Obedient cosmic elements express divine sovereignty over creation and
+    natural powers.
+  cautions: Could also map to divine_intervention when the elements act in a specific
+    episode, or to theophany if their obedience reveals divine presence.
+  suggested_aliases:
+  - elements_obedient_to_divine_command
+  - cosmic_elements_under_divine_sovereignty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-ethical-and-ritual-abstractions
+  motif_id: personified_ethical_and_ritual_abstractions
+  label: personified ethical and ritual abstractions
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a broad personification type, but its narrative function
+    is unclear from the label alone.
+  cautions: May be divine_intervention, sacred_law, divine_judgment, or a textual
+    classification artifact depending on whether the abstractions act, instruct, judge,
+    or are merely catalogued.
+  suggested_aliases:
+  - personified_ritual_abstractions
+  - personified_ethical_abstractions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-fortune-as-divine-power-over-human-outcomes
+  motif_id: personified_fortune_as_divine_power_over_human_outcomes
+  label: personified fortune as divine power over human outcomes
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: Personified Fortune controlling outcomes fits the broader fate/destiny
+    complex already represented by death_by_fate and fate figures.
+  cautions: The group label is death-focused, so review whether outcomes include death
+    or more general fortune; a future fate/fortune group may be cleaner if many such
+    labels recur.
+  suggested_aliases:
+  - personified_fortune_controls_human_outcomes
+  - fortune_as_divine_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-love-as-divine-benefactor-and-restorer
+  motif_id: personified_love_as_divine_benefactor_and_restorer
+  label: personified Love as divine benefactor and restorer
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: role_variant
+  confidence: high
+  rationale: A divine personification of Love acting as benefactor and restorer belongs
+    with love as sacred transformative force.
+  cautions: If the restoration is the primary miracle and love is only the agent's
+    name, divine_intervention may be a secondary mapping.
+  suggested_aliases:
+  - divine_love_as_restorer
+  - personified_love_as_benefactor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-or-animated-young-trees-in-ritual
+  motif_id: personified_or_animated_young_trees_in_ritual
+  label: Personified or animated young trees in ritual
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual action, tree personification, and animation
+    without enough functional context for a single placement.
+  cautions: Could fit axis_mundi/sacred tree, sacred_law ritual practice, sacred_craft
+    animation, or culturally specific ceremonial evidence; avoid collapsing living
+    tree ritual into generic sacred tree symbolism without source review.
+  suggested_aliases:
+  - animated_young_trees_in_ritual
+  - ritual_personification_of_young_trees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-peace-invoked-at-an-altar
+  motif_id: personified_peace_invoked_at_an_altar
+  label: personified Peace invoked at an altar
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Invocation of a personified power at an altar is a ritual address seeking
+    sacred relationship or benefit.
+  cautions: Could map to sacred_law or divine_intervention if the passage emphasizes
+    civic order or Peace's direct agency rather than altar invocation.
+  suggested_aliases:
+  - altar_invocation_of_personified_peace
+  - personified_peace_invoked_ritually
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-protective-sacred-object
+  motif_id: personified_protective_sacred_object
+  label: personified protective sacred object
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred object with personified protective agency fits power objects
+    that confer protection or sacred ability.
+  cautions: If the object is primarily a vessel, relic, icon, or apotropaic device,
+    sacred_vessel, saintly relic variants, or sacred_law may be better secondary mappings.
+  suggested_aliases:
+  - protective_personified_sacred_object
+  - sacred_object_as_protective_agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-ritual-vessels-aiding-rain-making
+  motif_id: personified_ritual_vessels_aiding_rain_making
+  label: personified ritual vessels aiding rain-making
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual vessels with active agency fit the sacred container complex, here
+    in a rain-making rite.
+  cautions: Rain-making and culturally specific vessel personification need source
+    review; divine_intervention or sacred_exchange may be secondary if the emphasis
+    is weather aid or reciprocal ritual.
+  suggested_aliases:
+  - ritual_vessels_aid_rainmaking
+  - personified_rainmaking_vessels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern personification. Placement should follow narrative
+  or ritual function, not personification alone.
+- Single-occurrence, culturally specific ritual labels should remain provisional until
+  source passages confirm whether they are recurring motifs or ethnographic/contextual
+  details.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; personification and ritual-context labels require
+    human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0949
+  input_sha256: e053c479edeb92bf991332c33980ac12d45f7ac55bf9415b027c93816b1639c5
+

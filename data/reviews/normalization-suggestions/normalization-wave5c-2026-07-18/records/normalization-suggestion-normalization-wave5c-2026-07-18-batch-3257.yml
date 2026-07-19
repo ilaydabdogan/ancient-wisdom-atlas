@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3257
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.communal-appointment-by-formal-resolution-and-silence
+  motif_id: communal_appointment_by_formal_resolution_and_silence
+  label: communal appointment by formal resolution and silence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Formal communal appointment by resolution and silence appears to be a
+    regulated monastic governance procedure, fitting sacred law and social order.
+  cautions: Single occurrence; may be Vinaya/legal procedural detail rather than a
+    reusable mythic motif. Preserve silence-as-assent specificity as evidence.
+  suggested_aliases:
+  - communal appointment by silence
+  - formal monastic appointment by motion and silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-assent-by-silence
+  motif_id: communal_assent_by_silence
+  label: communal assent by silence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Silence functioning as communal assent is a formal rule of sacred community
+    procedure, best held under sacred law and social order.
+  cautions: Could be too procedural for broad pattern queries unless it recurs across
+    monastic legal contexts.
+  suggested_aliases:
+  - silence as assent
+  - monastic assent by silence
+  - communal consent through silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-athletic-play-across-generations
+  motif_id: communal_athletic_play_across_generations
+  label: communal athletic play across generations
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests communal play or intergenerational continuity, but
+    no existing group clearly covers non-ritual athletics or games.
+  cautions: Needs source evidence to decide whether this is ritual cycle, social memory,
+    initiation, or a passage-specific ethnographic detail.
+  suggested_aliases:
+  - intergenerational communal games
+  - athletic play across generations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-authorization-by-formal-motion
+  motif_id: communal_authorization_by_formal_motion
+  label: Communal authorization by formal motion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A formal motion authorizing communal action is a regulated sacred-community
+    governance practice, fitting sacred law.
+  cautions: Likely a monastic procedural/legal label; avoid treating it as a narrative
+    motif without recurrence or ritual significance.
+  suggested_aliases:
+  - formal communal motion
+  - monastic authorization by motion
+  - communal legal motion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-banishment-from-a-specified-place
+  motif_id: communal_banishment_from_a_specified_place
+  label: Communal banishment from a specified place
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Communal banishment functions as formal moral discipline and social reckoning
+    for misconduct.
+  cautions: If the passage emphasizes monastic legal procedure rather than sacred
+    punishment, sacred_law may be the better primary group. Single occurrence.
+  suggested_aliases:
+  - communal expulsion from place
+  - banishment by community judgment
+  - monastic banishment from specified place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-beer-brewing-as-assembly-signal
+  motif_id: communal_beer_brewing_as_assembly_signal
+  label: Communal beer brewing as assembly signal
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: low
+  rationale: Beer as a brewed substance that summons communal gathering may fit sacred
+    substance if the assembly has ritual or social-sacred force.
+  cautions: Could be an ethnographic social practice rather than a mythic motif; needs
+    evidence that beer has ritual, ceremonial, or sacred assembly function.
+  suggested_aliases:
+  - beer brewing summons assembly
+  - communal brewing as gathering signal
+  - ritual beer assembly signal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-building-with-fed-helpers-and-a-responsible-master
+  motif_id: communal_building_with_fed_helpers_and_a_responsible_master
+  label: Communal building with fed helpers and a responsible master
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on organized communal construction and provisioning,
+    which is closest to sacred craft and construction.
+  cautions: No divine aid or sacred object is explicit; could instead be a social-obligation
+    or passage-specific ethnographic detail. Review source context.
+  suggested_aliases:
+  - communal construction with fed helpers
+  - master responsible for communal building
+  - fed helpers in communal construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-care-for-the-afflicted-monastic-body
+  motif_id: communal_care_for_the_afflicted_monastic_body
+  label: communal care for the afflicted monastic body
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Care for an afflicted member of a monastic body is a regulated ethical
+    obligation within sacred community order.
+  cautions: May be too institutional or ethical-procedural for motif queries unless
+    recurring; could also relate to sacred_exchange if care is framed as reciprocal
+    obligation.
+  suggested_aliases:
+  - monastic care for the afflicted
+  - communal care for sick monastics
+  - care obligation within monastic community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-censure-for-disruption-failure-or-denigration
+  motif_id: communal_censure_for_disruption_failure_or_denigration
+  label: communal censure for disruption, failure, or denigration
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Communal censure is a formal reckoning for disruptive or denigrating
+    conduct and fits judgment/social discipline.
+  cautions: If primarily a monastic procedural rule, sacred_law may be the cleaner
+    parent. Generated label combines several offenses and may be over-specific.
+  suggested_aliases:
+  - communal censure for misconduct
+  - monastic censure for disruption
+  - censure for denigrating the community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-circle-dance-followed-by-feast
+  motif_id: communal_circle_dance_followed_by_feast
+  label: communal circle dance followed by feast
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: A dance followed by feasting may be ritual cycle, sacred exchange, sacred
+    substance, or communal celebration depending on context.
+  cautions: Culturally specific ceremonial evidence is needed; avoid flattening into
+    generic feast/dance without knowing ritual function.
+  suggested_aliases:
+  - circle dance and feast
+  - communal dance followed by feasting
+  - ritual circle dance feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Buddhist labels appear to be monastic procedural or legal details; sacred_law
+  is a useful holding group, but recurrence should be checked before exposing them
+  broadly in pattern queries.
+- Communal performance, sport, and feast labels may represent culturally specific
+  practices rather than symbolic motifs; source review is recommended before adding
+  a new group for communal ritual play or celebration.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; items with single occurrences and institutional/ethnographic
+    specificity need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3257
+  input_sha256: a8f8e26bd72565d6bbe2d168db8be64c987ffb7042db9afebf5399d285ca9958
+

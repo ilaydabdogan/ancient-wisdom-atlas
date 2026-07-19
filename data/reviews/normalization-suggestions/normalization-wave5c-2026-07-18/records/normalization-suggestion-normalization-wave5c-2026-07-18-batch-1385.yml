@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1385
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.named-jurupari-ceremonial-music
+  motif_id: named_jurupari_ceremonial_music
+  label: named Jurupari ceremonial music
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ceremonial music could fit sound power or sacred song, but the named
+    Jurupari context is culturally specific and likely ritual-restricted.
+  cautions: Needs culturally sensitive human review; avoid flattening named ceremonial
+    knowledge into a generic music motif without source evidence.
+  suggested_aliases:
+  - Jurupari ceremonial music
+  - named ritual music
+  - ceremonial sacred music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-landform-as-owner-or-controller-of-natural-forces
+  motif_id: named_landform_as_owner_or_controller_of_natural_forces
+  label: Named landform as owner or controller of natural forces
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: role_variant
+  confidence: low
+  rationale: A personified or agentive landform may function as sacred geography or
+    local power controlling natural forces.
+  cautions: Could instead be divine_intervention, nature personification, local deity,
+    or place-specific ethnographic detail; source context is essential.
+  suggested_aliases:
+  - agentive landform controlling natural forces
+  - sacred landform as natural-force owner
+  - personified landform controller
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-landscape-feature-as-stock-origin-site
+  motif_id: named_landscape_feature_as_stock_origin_site
+  label: Named landscape feature as stock origin site
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: An origin site for a people or stock fits existing ancestry and place-origin
+    patterns under cosmic_origin.
+  cautions: If stock means livestock or descent category rather than people, review
+    may shift to culture_hero, sacred_law, or exclude as local classification detail.
+  suggested_aliases:
+  - landscape feature as origin site
+  - named origin site
+  - ancestral stock origin place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-landscape-preserving-former-dwellings
+  motif_id: named_landscape_preserving_former_dwellings
+  label: Named landscape preserving former dwellings
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: Named landscape memory may be an etiological landscape motif if the feature
+    explains ancestral habitation or place formation.
+  cautions: May be place-history, migration memory, or archaeological/topographic
+    commentary rather than a symbolic motif; do not force into origin without passage
+    evidence.
+  suggested_aliases:
+  - landscape preserving former dwellings
+  - ancestral dwelling traces in landscape
+  - named place preserving habitation memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-leaders-promoting-new-foods-or-domesticates
+  motif_id: named_leaders_promoting_new_foods_or_domesticates
+  label: Named leaders promoting new foods or domesticates
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: medium
+  rationale: Leaders introducing or promoting foods and domesticates fits the culture-hero
+    function of bringing agriculture or useful practices.
+  cautions: If the label merely records historical named leaders without mythic or
+    sacred founding function, exclude or treat as contextual evidence.
+  suggested_aliases:
+  - leader introduces new foods
+  - leader promotes domesticates
+  - founder brings food plants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-marea-affiliation-and-specialized-function
+  motif_id: named_marea_affiliation_and_specialized_function
+  label: named marea affiliation and specialized function
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to classify a named affiliation and function rather
+    than describe a reusable narrative or symbolic motif.
+  cautions: If marea refers to a sacred being, office, shrine, or ritual category
+    with narrative agency, human review may recover a motif under sacred_law, divine_intervention,
+    or sacred_exchange.
+  suggested_aliases:
+  - marea affiliation and function
+  - named ritual affiliation
+  - specialized marea function
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-marriageability-classes
+  motif_id: named_marriageability_classes
+  label: named marriageability classes
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Named marriageability classes may express socially regulated kinship
+    or marriage law.
+  cautions: Could be ethnographic social taxonomy rather than motif; if narrative
+    emphasis is marriage contest or bride choice, sacred_love may be a secondary fit.
+  suggested_aliases:
+  - marriageability classes
+  - named marriage categories
+  - regulated marriage classes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-meteor-as-calendrical-event
+  motif_id: named_meteor_as_calendrical_event
+  label: Named meteor as calendrical event
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A named meteor used as a calendrical marker fits sacred or ritual ordering
+    of time by celestial events.
+  cautions: If the meteor functions primarily as an omen or vision rather than calendar
+    marker, prophecy_divination or dream_and_vision may be better.
+  suggested_aliases:
+  - meteor calendrical marker
+  - celestial event as calendar sign
+  - named meteor calendar event
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-mountain-medicine-not-obtained-and-child-dies
+  motif_id: named_mountain_medicine_not_obtained_and_child_dies
+  label: Named mountain medicine not obtained and child dies
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern failed healing through a sacred mountain medicine,
+    but its main function is unclear from wording alone.
+  cautions: Highly contextual and culturally sensitive; could involve sacred_treasures,
+    sacred_substance, axis_mundi, healing rite, or simply an episode-specific death
+    detail.
+  suggested_aliases:
+  - mountain medicine not obtained
+  - failed quest for mountain medicine
+  - child dies after unavailable medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-object-with-recorded-itinerary
+  motif_id: named_object_with_recorded_itinerary
+  label: named object with recorded itinerary
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A recorded itinerary of a named object reads as provenance or cataloging
+    detail rather than a motif.
+  cautions: If the object is a sacred treasure whose journey confers authority or
+    power, map under sacred_treasures after evidence review.
+  suggested_aliases:
+  - object itinerary record
+  - named object's itinerary
+  - recorded movement of sacred object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels begin with 'named' and may be generated from ethnographic cataloging
+  or local proper-name evidence; human review should separate reusable motifs from
+  provenance details.
+- Culturally specific Indigenous and Melanesian ritual terms should not be generalized
+  without passage evidence and reviewer expertise.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; multiple single-occurrence labels
+    may be contextual artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1385
+  input_sha256: e5c2b5761fb27fca705b00f557ee5a7b19464bbf08124024f901c679b4aa5dbf
+

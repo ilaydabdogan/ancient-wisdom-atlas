@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1326
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.forbidden-provision-and-obedience-test-with-poisonous-fruit
+  motif_id: forbidden_provision_and_obedience_test_with_poisonous_fruit
+  label: Forbidden provision and obedience test with poisonous fruit
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines prohibition, obedience testing, and poisonous food;
+    sacred law is a plausible parent if the passage centers on commanded restraint.
+  cautions: Single occurrence and composite wording; could be forbidden_knowledge,
+    divine_judgment, sacred_substance, or an episode-specific detail depending on
+    source evidence.
+  suggested_aliases:
+  - forbidden_food_as_obedience_test
+  - poisonous_fruit_obedience_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreboding-dreams-of-fate
+  motif_id: foreboding_dreams_of_fate
+  label: Foreboding dreams of fate
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: A dream that anticipates fate fits dreams and visions as revelatory or
+    ominous altered perception.
+  cautions: If the passage emphasizes unavoidable death more than the dream medium,
+    death_by_fate may be a secondary mapping.
+  suggested_aliases:
+  - fateful_dream_omen
+  - ominous_dream_of_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - prophecy_divination
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreboding-speech-about-future-kin-fates
+  motif_id: foreboding_speech_about_future_kin_fates
+  label: foreboding speech about future kin fates
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Foreboding spoken prediction about kin destinies fits potent speech acts
+    that bind, reveal, or frame future outcomes.
+  cautions: Could instead belong to prophecy_divination if an established prophetic
+    role or method is present, or death_by_fate if destiny is the main focus.
+  suggested_aliases:
+  - foreboding_kin_fate_speech
+  - spoken_forewarning_of_family_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-heroic-figures-assimilated-through-name-and-deed-attribution
+  motif_id: foreign_heroic_figures_assimilated_through_name_and_deed_attribution
+  label: Foreign heroic figures assimilated through name and deed attribution
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes scholarly or reception-process assimilation of figures
+    through names and attributed deeds rather than a narrative motif.
+  cautions: Preserve as provenance or reception evidence if needed; do not use as
+    evidence of transmission in motif pattern queries.
+  suggested_aliases:
+  - heroic_name_and_deed_assimilation
+  - foreign_hero_assimilation_by_attribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-names-naturalized-into-local-phonology
+  motif_id: foreign_names_naturalized_into_local_phonology
+  label: foreign names naturalized into local phonology
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a linguistic adaptation or transmission note, not a symbolic
+    or narrative motif.
+  cautions: Useful for philology or source history, but should be excluded from Pattern
+    Explorer motif queries.
+  suggested_aliases:
+  - loan_name_phonological_adaptation
+  - foreign_name_localization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-royal-name-adapted-into-local-linguistic-form
+  motif_id: foreign_royal_name_adapted_into_local_linguistic_form
+  label: Foreign royal name adapted into local linguistic form
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label records name adaptation across languages, which is a textual
+    or linguistic artifact rather than a motif.
+  cautions: Royal status does not make this royal_legitimacy unless the passage uses
+    the name adaptation to authorize rule.
+  suggested_aliases:
+  - royal_name_linguistic_adaptation
+  - foreign_royal_name_localization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreigners-named-by-novel-food-consumption
+  motif_id: foreigners_named_by_novel_food_consumption
+  label: Foreigners named by novel food consumption
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: If the naming explains a people-name or ethnonym, it may fit the existing
+    etiological naming material under cosmic_origin.
+  cautions: Could be an ethnographic naming detail or commentary artifact; do not
+    map to sacred_substance unless the food has ritual or divine function.
+  suggested_aliases:
+  - ethnonym_from_food_consumption
+  - people_named_by_unusual_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreknowledge-and-preparation-for-a-coming-storm
+  motif_id: foreknowledge_and_preparation_for_a_coming_storm
+  label: Foreknowledge and preparation for a coming storm
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: low
+  rationale: Foreknowledge of an approaching natural danger may involve prophetic,
+    divinatory, or sacred practical knowledge.
+  cautions: Source context is needed; it may be ordinary environmental knowledge,
+    a weather omen, divine warning, or passage-specific survival detail.
+  suggested_aliases:
+  - forewarning_of_storm
+  - storm_foreknowledge_and_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreknowledge-by-a-host-figure
+  motif_id: foreknowledge_by_a_host_figure
+  label: foreknowledge by a host figure
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: role_variant
+  confidence: low
+  rationale: The host role points toward hospitality scenes, but the key motif may
+    instead be supernatural foreknowledge.
+  cautions: Too underspecified from the label alone; map to prophecy_divination or
+    sacred_knowledge only if the source explains how foreknowledge is obtained or
+    used.
+  suggested_aliases:
+  - host_with_foreknowledge
+  - foreknowing_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreknowledge-leading-to-a-successful-hunt
+  motif_id: foreknowledge_leading_to_a_successful_hunt
+  label: Foreknowledge leading to a successful hunt
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Foreknowledge used to secure a hunt fits divinatory or omen-based practical
+    knowledge if the knowledge is sacred or supernatural.
+  cautions: Could also involve animal helpers, shamanic knowledge, or ordinary tracking
+    skill; review culturally specific source evidence before final mapping.
+  suggested_aliases:
+  - divinatory_foreknowledge_for_hunting
+  - successful_hunt_by_foreknowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are linguistic, reception, or naming-process labels
+  rather than motifs; these should remain excluded or reviewed as provenance notes.
+- 'Foreknowledge labels should not be collapsed automatically: distinguish dream medium,
+  prophetic role, performative speech, ordinary practical knowledge, and fate emphasis.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source context is especially needed for single-occurrence
+    foreknowledge and naming labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1326
+  input_sha256: 5444fe7c5e0a9a959314602d622fc8b0295124fa04d546b43ba442ce481aefd2
+

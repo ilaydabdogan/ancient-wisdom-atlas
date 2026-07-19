@@ -1,0 +1,387 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2730
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ignored-communal-warning-about-monstrous-identity
+  motif_id: ignored_communal_warning_about_monstrous_identity
+  label: ignored communal warning about monstrous identity
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ignored Warning and Consequence
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a warning that is disregarded before danger; the
+    monstrous identity detail is a specific instance of that warning-consequence pattern.
+  cautions: Single occurrence and culturally specific monster context; verify whether
+    the warning is prophetic, communal wisdom, or merely plot setup.
+  suggested_aliases:
+  - ignored_warning_about_hidden_danger
+  - disregarded_communal_warning
+  - warning_about_monstrous_identity_ignored
+  suggested_new_group:
+    id: ignored_warning_consequence
+    label: Ignored Warning and Consequence
+    description: A figure or community disregards a warning, prohibition, omen, or
+      counsel, leading to danger, harm, disaster, or ironic reversal.
+    parent_group_ids:
+    - sacred_knowledge
+    - prophecy_divination
+    - divine_judgment
+    - initiation
+    related_group_ids:
+    - threshold_guardian
+    - hero_journey
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing groups cover prophecy, wisdom, judgment,
+      or ordeal, but not the recurring narrative function of disregarded warning leading
+      to consequence.
+- suggestion_id: normalization.suggestion.ignored-elder-warning-before-dangerous-encounter
+  motif_id: ignored_elder_warning_before_dangerous_encounter
+  label: Ignored elder warning before dangerous encounter
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ignored Warning and Consequence
+  relationship: functional_variant
+  confidence: medium
+  rationale: An elder's counsel is ignored before a perilous encounter, fitting the
+    broader disregarded-warning pattern.
+  cautions: Could be ancestral/practical wisdom under sacred_knowledge if no consequence
+    structure is emphasized.
+  suggested_aliases:
+  - ignored_elder_counsel
+  - disregarded_elder_warning
+  - ignored_warning_before_dangerous_encounter
+  suggested_new_group:
+    id: ignored_warning_consequence
+    label: Ignored Warning and Consequence
+    description: A figure or community disregards a warning, prohibition, omen, or
+      counsel, leading to danger, harm, disaster, or ironic reversal.
+    parent_group_ids:
+    - sacred_knowledge
+    - prophecy_divination
+    - divine_judgment
+    - initiation
+    related_group_ids:
+    - threshold_guardian
+    - hero_journey
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing groups cover prophecy, wisdom, judgment,
+      or ordeal, but not the recurring narrative function of disregarded warning leading
+      to consequence.
+- suggestion_id: normalization.suggestion.ignored-maternal-warning-before-dangerous-encounter
+  motif_id: ignored_maternal_warning_before_dangerous_encounter
+  label: Ignored maternal warning before dangerous encounter
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ignored Warning and Consequence
+  relationship: functional_variant
+  confidence: medium
+  rationale: A maternal warning is disregarded before danger, preserving the warning-source
+    role within the broader ignored-warning pattern.
+  cautions: May overlap with family-protection or child-peril motifs if the passage
+    emphasizes kinship more than warning structure.
+  suggested_aliases:
+  - ignored_mother_warning
+  - disregarded_maternal_counsel
+  - ignored_warning_before_dangerous_encounter
+  suggested_new_group:
+    id: ignored_warning_consequence
+    label: Ignored Warning and Consequence
+    description: A figure or community disregards a warning, prohibition, omen, or
+      counsel, leading to danger, harm, disaster, or ironic reversal.
+    parent_group_ids:
+    - sacred_knowledge
+    - prophecy_divination
+    - divine_judgment
+    - initiation
+    related_group_ids:
+    - threshold_guardian
+    - hero_journey
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing groups cover prophecy, wisdom, judgment,
+      or ordeal, but not the recurring narrative function of disregarded warning leading
+      to consequence.
+- suggestion_id: normalization.suggestion.ignored-prophetic-warnings
+  motif_id: ignored_prophetic_warnings
+  label: ignored prophetic warnings
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly concerns prophetic warnings, a core form of prophecy
+    or divinatory foreknowledge.
+  cautions: If the passage emphasizes punishment for disbelief rather than the warning
+    itself, divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - unheeded_prophetic_warning
+  - ignored_prophecy
+  - prophetic_warning_disregarded
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ignored-route-warning-causes-loss-of-heart
+  motif_id: ignored_route_warning_causes_loss_of_heart
+  label: ignored route warning causes loss of heart
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ignored route advice with an idiomatic or possibly
+    literal loss of heart, making the function unclear.
+  cautions: May be journey ordeal, taboo violation, bodily harm, soul loss, or passage-specific
+    wording; source evidence is needed.
+  suggested_aliases:
+  - ignored_route_warning
+  - disregarded_travel_warning
+  - warning_ignored_on_dangerous_route
+  suggested_new_group:
+    id: ignored_warning_consequence
+    label: Ignored Warning and Consequence
+    description: A figure or community disregards a warning, prohibition, omen, or
+      counsel, leading to danger, harm, disaster, or ironic reversal.
+    parent_group_ids:
+    - sacred_knowledge
+    - prophecy_divination
+    - divine_judgment
+    - initiation
+    related_group_ids:
+    - threshold_guardian
+    - hero_journey
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing groups cover prophecy, wisdom, judgment,
+      or ordeal, but not the recurring narrative function of disregarded warning leading
+      to consequence.
+- suggestion_id: normalization.suggestion.ignored-warning-about-a-dangerous-protruding-object
+  motif_id: ignored_warning_about_a_dangerous_protruding_object
+  label: Ignored warning about a dangerous protruding object
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The protruding-object detail is highly specific, while the usable motif
+    may simply be disregarded warning before harm.
+  cautions: Could be an episode artifact unless the object has ritual, taboo, or threshold
+    significance.
+  suggested_aliases:
+  - ignored_warning_about_dangerous_object
+  - disregarded_object_warning
+  - ignored_warning_followed_by_injury
+  suggested_new_group:
+    id: ignored_warning_consequence
+    label: Ignored Warning and Consequence
+    description: A figure or community disregards a warning, prohibition, omen, or
+      counsel, leading to danger, harm, disaster, or ironic reversal.
+    parent_group_ids:
+    - sacred_knowledge
+    - prophecy_divination
+    - divine_judgment
+    - initiation
+    related_group_ids:
+    - threshold_guardian
+    - hero_journey
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing groups cover prophecy, wisdom, judgment,
+      or ordeal, but not the recurring narrative function of disregarded warning leading
+      to consequence.
+- suggestion_id: normalization.suggestion.ignored-warning-during-dance
+  motif_id: ignored_warning_during_dance
+  label: Ignored warning during dance
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The dance setting may be ritually important, but the label alone only
+    shows a disregarded warning in a specific scene.
+  cautions: Review whether the dance is ritual, enchantment, social ordeal, or incidental
+    setting before mapping.
+  suggested_aliases:
+  - warning_ignored_during_dance
+  - disregarded_warning_in_ritual_dance
+  - ignored_warning_in_dance_scene
+  suggested_new_group:
+    id: ignored_warning_consequence
+    label: Ignored Warning and Consequence
+    description: A figure or community disregards a warning, prohibition, omen, or
+      counsel, leading to danger, harm, disaster, or ironic reversal.
+    parent_group_ids:
+    - sacred_knowledge
+    - prophecy_divination
+    - divine_judgment
+    - initiation
+    related_group_ids:
+    - threshold_guardian
+    - hero_journey
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing groups cover prophecy, wisdom, judgment,
+      or ordeal, but not the recurring narrative function of disregarded warning leading
+      to consequence.
+- suggestion_id: normalization.suggestion.ignored-warning-followed-by-disaster
+  motif_id: ignored_warning_followed_by_disaster
+  label: ignored warning followed by disaster
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ignored Warning and Consequence
+  relationship: child
+  confidence: high
+  rationale: 'This is the clearest general form of the repeated pattern: warning disregarded,
+    disaster follows.'
+  cautions: Map to prophecy_divination only when the warning is explicitly prophetic
+    or omen-based; map to divine_judgment only when moral punishment is central.
+  suggested_aliases:
+  - unheeded_warning_followed_by_disaster
+  - disregarded_warning_leads_to_disaster
+  - ignored_warning_consequence
+  suggested_new_group:
+    id: ignored_warning_consequence
+    label: Ignored Warning and Consequence
+    description: A figure or community disregards a warning, prohibition, omen, or
+      counsel, leading to danger, harm, disaster, or ironic reversal.
+    parent_group_ids:
+    - sacred_knowledge
+    - prophecy_divination
+    - divine_judgment
+    - initiation
+    related_group_ids:
+    - threshold_guardian
+    - hero_journey
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing groups cover prophecy, wisdom, judgment,
+      or ordeal, but not the recurring narrative function of disregarded warning leading
+      to consequence.
+- suggestion_id: normalization.suggestion.ignored-warning-followed-by-harm
+  motif_id: ignored_warning_followed_by_harm
+  label: Ignored warning followed by harm
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ignored Warning and Consequence
+  relationship: child
+  confidence: high
+  rationale: The label states the general warning-consequence structure without requiring
+    a specific source of warning.
+  cautions: Preserve the local kind of harm in evidence notes; avoid assuming divine
+    punishment or prophecy without passage support.
+  suggested_aliases:
+  - unheeded_warning_followed_by_harm
+  - disregarded_warning_leads_to_harm
+  - ignored_warning_consequence
+  suggested_new_group:
+    id: ignored_warning_consequence
+    label: Ignored Warning and Consequence
+    description: A figure or community disregards a warning, prohibition, omen, or
+      counsel, leading to danger, harm, disaster, or ironic reversal.
+    parent_group_ids:
+    - sacred_knowledge
+    - prophecy_divination
+    - divine_judgment
+    - initiation
+    related_group_ids:
+    - threshold_guardian
+    - hero_journey
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing groups cover prophecy, wisdom, judgment,
+      or ordeal, but not the recurring narrative function of disregarded warning leading
+      to consequence.
+- suggestion_id: normalization.suggestion.ignored-warning-reveals-hidden-prize
+  motif_id: ignored_warning_reveals_hidden_prize
+  label: ignored warning reveals hidden prize
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Unlike the other labels, the ignored warning appears to reveal a prize
+    rather than produce harm, suggesting a possible trickster or quest reversal.
+  cautions: Culturally sensitive and context-dependent; review whether the warning
+    is deceptive, taboo-like, initiatory, or an ironic route to discovery.
+  suggested_aliases:
+  - ignored_warning_leads_to_hidden_prize
+  - disregarded_warning_reveals_reward
+  - warning_ignored_with_unexpected_reward
+  suggested_new_group:
+    id: ignored_warning_consequence
+    label: Ignored Warning and Consequence
+    description: A figure or community disregards a warning, prohibition, omen, or
+      counsel, leading to danger, harm, disaster, or ironic reversal.
+    parent_group_ids:
+    - sacred_knowledge
+    - prophecy_divination
+    - divine_judgment
+    - initiation
+    related_group_ids:
+    - threshold_guardian
+    - hero_journey
+    - pride_and_downfall
+    reason_existing_groups_insufficient: Existing groups cover prophecy, wisdom, judgment,
+      or ordeal, but not the recurring narrative function of disregarded warning leading
+      to consequence.
+batch_notes:
+- Several labels in this batch cluster around a recurring ignored-warning structure
+  that is not cleanly represented by existing groups; a provisional ignored_warning_consequence
+  group may be useful if source review confirms recurrence beyond episode artifacts.
+- Do not treat all ignored warnings as prophecy. Elder, maternal, communal, taboo,
+  and route warnings may belong to different evidence contexts.
+- Object-, dance-, and route-specific labels should be checked for passage artifacts
+  or culturally specific ritual meanings before broad indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review needed especially for culturally
+    specific Indigenous and oral-tradition contexts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2730
+  input_sha256: 1f513c7c6b39279b3dc176b685967f65a30b3d989b4b3292e487918f55f5767d
+

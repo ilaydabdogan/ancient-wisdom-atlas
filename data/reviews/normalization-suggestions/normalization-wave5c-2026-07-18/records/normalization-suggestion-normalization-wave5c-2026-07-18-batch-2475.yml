@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2475
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.otherworld-boundary-river-with-impossible-bridge
+  motif_id: otherworld_boundary_river_with_impossible_bridge
+  label: Otherworld boundary river with impossible bridge
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on a boundary to an otherworldly realm; the impossible
+    bridge is a threshold detail within otherworld passage.
+  cautions: Could also relate to threshold_guardian or sacred_waters if the river/bridge
+    functions as an ordeal rather than an enchanted-realm boundary.
+  suggested_aliases:
+  - impossible_bridge_to_otherworld
+  - river_boundary_of_otherworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.otherworld-episode-modified-by-saga-constraints
+  motif_id: otherworld_episode_modified_by_saga_constraints
+  label: Otherworld episode modified by saga constraints
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes literary adaptation or source-genre constraints
+    rather than a symbolic or narrative motif.
+  cautions: If source passages describe the actual otherworld episode, extract that
+    concrete motif separately under otherworld.
+  suggested_aliases:
+  - saga_constraints_modify_otherworld_episode
+  - literary_adaptation_of_otherworld_episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.otherworld-food-that-prevents-hunger-and-thirst
+  motif_id: otherworld_food_that_prevents_hunger_and_thirst
+  label: Otherworld food that prevents hunger and thirst
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns supernatural food with sustaining or need-removing
+    power, fitting sacred/divine substances.
+  cautions: Because the food is specifically located in the otherworld, otherworld
+    may be a useful secondary relation; do not collapse all otherworld abundance into
+    sacred_substance if realm description is primary.
+  suggested_aliases:
+  - otherworld_sustaining_food
+  - supernatural_food_prevents_hunger_and_thirst
+  - enchanted_food_removes_need
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.otherworld-object-accidentally-transplanted-into-local-landscape
+  motif_id: otherworld_object_accidentally_transplanted_into_local_landscape
+  label: otherworld object accidentally transplanted into local landscape
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: An object crossing from an enchanted realm into local terrain fits otherworld
+    exchange or leakage into ordinary reality.
+  cautions: If the main function is explaining a local landmark, cosmic_origin/place-name
+    or landscape etiology may be a secondary mapping; object type may also point to
+    sacred_treasures.
+  suggested_aliases:
+  - otherworld_object_transplanted_to_landscape
+  - enchanted_object_left_in_local_landscape
+  - otherworld_leakage_into_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.otherworld-or-golden-age-abundance-without-cultivation
+  motif_id: otherworld_or_golden_age_abundance_without_cultivation
+  label: Otherworld or golden-age abundance without cultivation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label explicitly straddles otherworld abundance and golden-age effortless
+    abundance, which are related but distinct groups.
+  cautions: Use otherworld if the abundance belongs to an enchanted realm; use world_ages_cosmic_decline
+    if it describes primordial/golden-age conditions before decline.
+  suggested_aliases:
+  - effortless_abundance_without_cultivation
+  - golden_age_abundance_without_cultivation
+  - otherworld_abundance_without_labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.otherworld-or-hostile-visitor-enters-refuge-during-storm
+  motif_id: otherworld_or_hostile_visitor_enters_refuge_during_storm
+  label: Otherworld or hostile visitor enters refuge during storm
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is composite and uncertain: visitor identity, hostility, refuge,
+    and storm setting could imply several functions.'
+  cautions: Could fit otherworld visitor, hospitality_test_stranger_guest, threshold_guardian,
+    or a passage-specific storm episode depending on evidence.
+  suggested_aliases:
+  - otherworld_visitor_enters_refuge_during_storm
+  - hostile_visitor_enters_refuge_during_storm
+  - storm_refuge_visitor_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.otherworld-spouse-as-helper-and-warning-giver
+  motif_id: otherworld_spouse_as_helper_and_warning_giver
+  label: Otherworld spouse as helper and warning-giver
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: role_variant
+  confidence: medium
+  rationale: A spouse from the otherworld who aids and warns a human belongs to supernatural
+    partnership and love/union across realms.
+  cautions: If the spouse's otherworld status or realm rules are more important than
+    the relationship, otherworld should be a secondary or alternate mapping.
+  suggested_aliases:
+  - supernatural_spouse_as_helper
+  - otherworld_bride_warning_helper
+  - otherworld_spouse_gives_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.otherworld-time-dilation
+  motif_id: otherworld_time_dilation
+  label: Otherworld time dilation
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: high
+  rationale: Altered time is a standard feature of otherworld sojourns and enchanted
+    realms.
+  cautions: Could also relate to sacred_time if the passage emphasizes cosmic temporal
+    order rather than a visit to an enchanted realm.
+  suggested_aliases:
+  - altered_time_in_otherworld
+  - time_dilation_in_enchanted_realm
+  - otherworld_sojourn_altered_time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.otherworld-visit-with-altered-time
+  motif_id: otherworld_visit_with_altered_time
+  label: Otherworld visit with altered time
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: high
+  rationale: A visit to an otherworld marked by altered time directly fits the otherworld
+    sojourn pattern.
+  cautions: Preserve the altered-time detail; it may be an alias of otherworld_time_dilation
+    if both recur.
+  suggested_aliases:
+  - otherworld_sojourn_with_altered_time
+  - otherworld_visit_time_dilation
+  - enchanted_realm_visit_altered_time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.otherworldly-healer-host-feeds-the-human-visitor
+  motif_id: otherworldly_healer_host_feeds_the_human_visitor
+  label: otherworldly healer-host feeds the human visitor
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The scene centers on hosting and feeding a visitor, with healing and
+    otherworldly status adding sacred force to the hospitality exchange.
+  cautions: If the food is medicinal or supernatural, sacred_substance or divine_intervention
+    may be secondary; if the realm itself is primary, map also to otherworld.
+  suggested_aliases:
+  - otherworld_healer_host_feeds_visitor
+  - supernatural_host_feeds_human_visitor
+  - healer_host_hospitality_in_otherworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence Celtic or otherworld items; preserve local
+  otherworld details as evidence even when mapping to broader groups.
+- Avoid treating all otherworld imagery as nature/cosmos; many items are better handled
+  as otherworld, sacred_substance, sacred_love, hospitality, or meta-textual artifacts
+  depending on narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify source
+    context for composite otherworld labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2475
+  input_sha256: 1d41859cf61c18e769b3e85efc2c207937ecc80d01e75b024934afe4ce0eb487
+

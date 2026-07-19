@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4038
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.totemic-naming-from-encountered-natural-objects
+  motif_id: totemic_naming_from_encountered_natural_objects
+  label: totemic naming from encountered natural objects
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Totemic naming may involve clan identity, origin etiology, or sacred
+    natural encounter, but no existing group cleanly captures this without source
+    evidence.
+  cautions: Culturally sensitive and single occurrence; avoid flattening to generic
+    nature symbolism or place-name etiology without passage context.
+  suggested_aliases:
+  - totemic_name_from_natural_encounter
+  - clan_or_totem_naming_from_natural_object
+  suggested_new_group:
+    id: totemic_identity_and_clan_origins
+    label: Totemic Identity and Clan Origins
+    description: Names, identities, clans, or social divisions are linked to animal,
+      plant, natural-object, or place encounters understood as ancestral or sacred
+      identifiers.
+    parent_group_ids:
+    - cosmic_origin
+    - sacred_law
+    related_group_ids:
+    - culture_hero
+    - sacred_treasures
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing groups cover origins, law, or sacred
+      objects, but not the social-ancestral function of totemic identity.
+- suggestion_id: normalization.suggestion.totemic-remnants-in-clan-organization
+  motif_id: totemic_remnants_in_clan_organization
+  label: Totemic remnants in clan organization
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe social organization through totemic traces
+    rather than a clear narrative motif.
+  cautions: May be an anthropological or interpretive artifact; culturally sensitive
+    wording and source evidence should be reviewed before indexing.
+  suggested_aliases:
+  - totemic_clan_organization
+  - clan_organization_by_totemic_identity
+  suggested_new_group:
+    id: totemic_identity_and_clan_origins
+    label: Totemic Identity and Clan Origins
+    description: Names, identities, clans, or social divisions are linked to animal,
+      plant, natural-object, or place encounters understood as ancestral or sacred
+      identifiers.
+    parent_group_ids:
+    - cosmic_origin
+    - sacred_law
+    related_group_ids:
+    - culture_hero
+    - sacred_treasures
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing groups do not distinguish totemic
+      social identity from general sacred law, ancestry, or origin etiology.
+- suggestion_id: normalization.suggestion.totems-brought-or-growing-at-origin-place
+  motif_id: totems_brought_or_growing_at_origin_place
+  label: Totems brought or growing at origin place
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines totemic identity with origin-place symbolism and may
+    fit an origin or clan-identity complex.
+  cautions: Single occurrence and culturally specific; do not map to sacred tree or
+    cosmic origin unless the passage supports those functions.
+  suggested_aliases:
+  - totems_at_origin_place
+  - totemic_objects_or_plants_at_origin_site
+  suggested_new_group:
+    id: totemic_identity_and_clan_origins
+    label: Totemic Identity and Clan Origins
+    description: Names, identities, clans, or social divisions are linked to animal,
+      plant, natural-object, or place encounters understood as ancestral or sacred
+      identifiers.
+    parent_group_ids:
+    - cosmic_origin
+    - sacred_law
+    related_group_ids:
+    - axis_mundi
+    - culture_hero
+    - sacred_treasures
+    reason_existing_groups_insufficient: Origin-place groups cover etiology, but not
+      the specific clan/totem identity function.
+- suggestion_id: normalization.suggestion.tower-built-from-selected-stones
+  motif_id: tower_built_from_selected_stones
+  label: Tower built from selected stones
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: A specially constructed tower from selected stones fits sacred building
+    or crafted architecture when the passage treats construction symbolically.
+  cautions: If the tower functions mainly as a world-axis, failed pride, or ecclesial
+    allegory, axis_mundi, pride_and_downfall, or human review may be better.
+  suggested_aliases:
+  - selected_stones_for_sacred_tower
+  - symbolic_tower_construction_from_chosen_stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tower-of-babel
+  motif_id: tower_of_babel
+  label: tower of Babel
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: alias
+  confidence: high
+  rationale: The Tower of Babel is a standard overreaching construction and divine
+    humbling motif.
+  cautions: May also involve sacred_craft, language etiology, or world-axis imagery
+    depending on passage emphasis; do not infer all Babel functions from the label
+    alone.
+  suggested_aliases:
+  - babel_tower
+  - failed_tower_of_hubris
+  - overreaching_tower_brought_low
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.town-founding-from-an-earlier-community
+  motif_id: town_founding_from_an_earlier_community
+  label: town founding from an earlier community
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Town founding may be an origin etiology, migration memory, or historical
+    settlement detail, but the label lacks mythic function.
+  cautions: Single occurrence; may be place/community history rather than a reusable
+    motif. Review for sacred founder, migration, or etiological framing.
+  suggested_aliases:
+  - settlement_founding_from_prior_community
+  - community_origin_from_earlier_town
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.track-and-drive-hunt-with-noisy-rush
+  motif_id: track_and_drive_hunt_with_noisy_rush
+  label: Track-and-drive hunt with noisy rush
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a concrete hunting technique or episode detail rather than
+    a broad symbolic or narrative motif.
+  cautions: If the source frames the hunt as ritualized, initiatory, or involving
+    animal spirits, human review could remap it; otherwise exclude from pattern queries.
+  suggested_aliases:
+  - drive_hunt_with_noise
+  - noisy_rush_hunting_technique
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tracker-follows-missing-kinsman-s-trail-to-the-killer-s-camp
+  motif_id: tracker_follows_missing_kinsman_s_trail_to_the_killer_s_camp
+  label: tracker follows missing kinsman's trail to the killer's camp
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a highly specific pursuit/investigation plot detail rather
+    than a stable broad motif.
+  cautions: Could be reconsidered under vengeance, sacred combat, or kinship justice
+    if similar labels recur or if the passage has ritual/legal significance.
+  suggested_aliases:
+  - tracking_kinsman_to_killer_camp
+  - trail_followed_to_murderer_s_camp
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tracks-and-cache-as-signs-of-nearby-people
+  motif_id: tracks_and_cache_as_signs_of_nearby_people
+  label: tracks and cache as signs of nearby people
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: This is likely an observational scene cue rather than a symbolic or narrative
+    motif.
+  cautions: If used as an omen or revelation of hidden presence, dream_and_vision
+    or sacred_knowledge could be reviewed, but the label alone does not support that.
+  suggested_aliases:
+  - tracks_and_cache_indicate_people_nearby
+  - signs_of_nearby_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trade-or-exchange
+  motif_id: trade_or_exchange
+  label: trade or exchange
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: broader_label
+  confidence: low
+  rationale: Exchange can fit the sacred reciprocity group if the passage gives trade
+    ritual, moral, or sacred significance.
+  cautions: If this is ordinary commerce or ethnographic background, exclude or keep
+    as contextual evidence; source context is needed.
+  suggested_aliases:
+  - exchange
+  - reciprocal_trade
+  - ritual_or_social_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and culturally specific; totemic and clan-organization
+  items especially need source-sensitive human review.
+- Do not treat proposed totemic group as a taxonomy edit; it is a candidate only if
+  similar labels recur across sources.
+- Hunting/tracking labels mostly look like episode mechanics rather than reusable
+  motifs unless passage evidence gives them ritual or symbolic function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; high caution for totemic and Indigenous
+    social-organization labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4038
+  input_sha256: 388ca44bcde9edb7b44ecec884b065c3e8e0bc1d4614b9d3104bf0148061be7f
+

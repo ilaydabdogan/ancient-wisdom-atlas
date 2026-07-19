@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0062
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.chosen-death-to-rejoin-an-absent-father
+  motif_id: chosen_death_to_rejoin_an_absent_father
+  label: chosen death to rejoin an absent father
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: Voluntary death for reunion with a dead or absent kin figure may involve
+    postmortem transformation or afterlife reunion, but the label alone is culturally
+    and contextually sensitive.
+  cautions: Single occurrence; verify whether this is a narrative motif, ritual belief,
+    grief act, or source-specific interpretation. Could also fit sacred_love, ancestor_rites,
+    or afterlife_passage depending on evidence.
+  suggested_aliases:
+  - voluntary_death_for_kin_reunion
+  - chosen_death_for_afterlife_reunion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chosen-violent-death-to-avoid-an-undesirable-afterlife
+  motif_id: chosen_violent_death_to_avoid_an_undesirable_afterlife
+  label: Chosen violent death to avoid an undesirable afterlife
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: The choice of a specific death type is driven by expected postmortem
+    destination or afterlife condition, fitting afterlife navigation logic.
+  cautions: Violent-death specificity should be preserved as evidence; if the passage
+    emphasizes warrior fate or heroic death more than afterlife routing, death_by_fate
+    or divine_warrior may be secondary.
+  suggested_aliases:
+  - chosen_death_to_secure_afterlife_destination
+  - death_choice_to_avoid_bad_afterlife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christian-death-posture-of-the-transformed-outsider
+  motif_id: christian_death_posture_of_the_transformed_outsider
+  label: Christian death posture of the transformed outsider
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to combine conversion, bodily death posture, and outsider
+    identity, and cannot be placed safely without source context.
+  cautions: Could be a missionary/contact-era interpretation, ethnographic detail,
+    or passage artifact. Avoid broad pattern use until reviewed for cultural sensitivity
+    and narrative function.
+  suggested_aliases:
+  - death_posture_marking_conversion
+  - transformed_outsider_death_posture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chthonic-lunar-ritual-invocation-with-underworld-materials
+  motif_id: chthonic_lunar_ritual_invocation_with_underworld_materials
+  label: chthonic-lunar ritual invocation with underworld materials
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual invocation using chthonic and lunar powers is primarily a performative
+    sacred speech act with ritual materials.
+  cautions: If the passage centers on necromancy, spirit control, or magical rite
+    rather than spoken invocation, sacred_law, sacrifice, or sacred_knowledge may
+    be better secondary placements.
+  suggested_aliases:
+  - chthonic_lunar_invocation
+  - underworld_materials_in_ritual_invocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chthonic-witchcraft-deity-at-graves-crossroads-and-murder-sites
+  motif_id: chthonic_witchcraft_deity_at_graves_crossroads_and_murder_sites
+  label: Chthonic witchcraft deity at graves, crossroads, and murder-sites
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: A chthonic deity associated with graves and crossroads functions as a
+    liminal boundary figure linked to death and dangerous thresholds.
+  cautions: May be a deity-profile label rather than a narrative motif. If the passage
+    emphasizes cult invocation or magic, curse_blessing_speech or sacred_law may be
+    secondary.
+  suggested_aliases:
+  - chthonic_crossroads_deity
+  - grave_and_crossroads_underworld_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.church-curse-pacifies-walking-corpse-like-monsters
+  motif_id: church_curse_pacifies_walking_corpse_like_monsters
+  label: church curse pacifies walking corpse-like monsters
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The effective action is a sacred curse that binds or pacifies dangerous
+    corpse-like beings.
+  cautions: Could also index with restless_dead_haunting_vengeance if the beings are
+    active dead, or sacrifice/sacred_law if the church rite is an exorcistic regulation.
+    Review cultural and Christianization context.
+  suggested_aliases:
+  - sacred_curse_pacifies_walking_dead
+  - curse_binding_restless_corpses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.circle-ritual-binding-spirits-accompanying-strangers
+  motif_id: circle_ritual_binding_spirits_accompanying_strangers
+  label: circle ritual binding spirits accompanying strangers
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A protective or binding circle rite regulating spirits around strangers
+    fits apotropaic and ritual-prohibition patterns under sacred law.
+  cautions: If the rite expels or confines harmful spirits as a communal cleansing
+    act, sacrifice/ritual_expulsion may be a secondary placement. Preserve circle
+    and stranger details as local evidence.
+  suggested_aliases:
+  - protective_circle_binding_spirits
+  - ritual_binding_of_stranger_accompanying_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.citadel-of-the-soul-seized-by-insurgent-desires
+  motif_id: citadel_of_the_soul_seized_by_insurgent_desires
+  label: Citadel of the soul seized by insurgent desires
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label is an interior moral-psychological image of the soul overtaken
+    by desires, fitting inner transformation and self-mastery concerns.
+  cautions: May be philosophical metaphor rather than mythic motif. If the evidence
+    is ethical teaching rather than contemplative transformation, sacred_knowledge
+    or sacred_law may be better.
+  suggested_aliases:
+  - soul_as_citadel_overrun_by_desire
+  - inner_city_of_the_soul_seized_by_passions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.civic-tutelary-spirit
+  motif_id: civic_tutelary_spirit
+  label: Civic tutelary spirit
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: The normalization already places civic_or_communal_tutelary_spirit under
+    divine_intervention as a protective spirit role.
+  cautions: Could overlap with local deity, ancestor, or genius loci; preserve civic-protective
+    specificity in notes.
+  suggested_aliases:
+  - civic_or_communal_tutelary_spirit
+  - communal_guardian_spirit
+  - city_tutelary_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-gift-distribution-honoring-a-returning-warrior
+  motif_id: clan_gift_distribution_honoring_a_returning_warrior
+  label: clan gift distribution honoring a returning warrior
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Gift distribution honoring a returning warrior centers on socially binding
+    exchange and reciprocal honor after return.
+  cautions: The death_descent bucket may be incidental. If the passage emphasizes
+    heroic return, hero_journey may be secondary; if funerary or memorial, heroic_funeral_rites
+    may fit better.
+  suggested_aliases:
+  - gift_distribution_honoring_returning_warrior
+  - warrior_return_honored_by_clan_gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and culturally sensitive; suggested placements
+  are provisional and should be checked against passage evidence.
+- Some current alias entries refer to group ids not shown in motif families; this
+  response uses canonical_motif_groups where appropriate rather than asserting taxonomy
+  rewrites.
+- Death-bucket assignment appears rough for several items; do not infer afterlife/descent
+  function without source context.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific ritual and death-choice labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0062
+  input_sha256: b0a9fc46eb0b7a82dcf57169c4056494f00768320d1861a147d403a5b41fc753
+

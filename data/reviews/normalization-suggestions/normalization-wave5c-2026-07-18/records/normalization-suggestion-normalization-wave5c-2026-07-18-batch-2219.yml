@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2219
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mysterious-animal-raids-camp-and-vanishes
+  motif_id: mysterious_animal_raids_camp_and_vanishes
+  label: mysterious animal raids camp and vanishes
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe an animal trickster, spirit animal, omen, or episode-specific
+    raid scene; function is unclear.
+  cautions: Single occurrence and culturally specific animal agency require source
+    review before mapping to trickster, divine_intervention, or shapeshifter.
+  suggested_aliases:
+  - vanishing animal raider
+  - mysterious animal raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mysterious-nightly-duty-involving-animals
+  motif_id: mysterious_nightly_duty_involving_animals
+  label: Mysterious nightly duty involving animals
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording identifies a contextual task involving animals but not a
+    clear recurring motif function.
+  cautions: Could be an ordeal, magical animal-helper episode, ritual obligation,
+    or passage artifact; source evidence is needed.
+  suggested_aliases:
+  - nightly animal duty
+  - mysterious animal task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-animal-adventure-tales
+  motif_id: mythic_animal_adventure_tales
+  label: mythic animal adventure tales
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label sounds like a genre or tale-type heading rather than a specific
+    narrative motif.
+  cautions: If individual passages contain animal trickster, culture-hero, transformation,
+    or origin motifs, map those separately rather than this broad heading.
+  suggested_aliases:
+  - animal adventure tales
+  - mythic animal tales
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-animal-tribe-chief
+  motif_id: mythic_animal_tribe_chief
+  label: mythic animal-tribe chief
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: An animal-tribe chief may be a spirit ruler, animal master, ancestor,
+    or personified animal society leader.
+  cautions: No current group cleanly covers animal masters or animal-society leaders;
+    avoid collapsing into trickster without evidence of deception or boundary crossing.
+  suggested_aliases:
+  - animal tribe chief
+  - chief of animal people
+  - animal society leader
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-explanation-for-distribution-of-animals
+  motif_id: mythic_explanation_for_distribution_of_animals
+  label: Mythic explanation for distribution of animals
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Origins and Etiologies
+  relationship: child
+  confidence: medium
+  rationale: This is an animal-centered etiology explaining why animals are distributed
+    as they are, not merely cosmic or place origin.
+  cautions: Could be folded under cosmic_origin if reviewers prefer all etiologies
+    there; preserve animal-specific origin meaning if similar labels recur.
+  suggested_aliases:
+  - animal distribution etiology
+  - origin of animal distribution
+  - mythic distribution of animals
+  suggested_new_group:
+    id: animal_origins_etiologies
+    label: Animal Origins and Etiologies
+    description: Myths explaining the origin, distribution, forms, traits, species
+      divisions, or social organization of animals and animal peoples.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - culture_hero
+    - shapeshifter
+    - trickster
+    reason_existing_groups_insufficient: Existing groups cover cosmic, place, and
+      people origins, but not recurring animal-specific etiologies and animal-people
+      origin patterns.
+- suggestion_id: normalization.suggestion.mythic-giant-ruling-game-animals
+  motif_id: mythic_giant_ruling_game_animals
+  label: Mythic giant ruling game animals
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: A giant ruler of game animals may be an animal master, spirit owner,
+    or monster-like figure; narrative function is unclear.
+  cautions: Culturally specific hunting and animal-master concepts should be reviewed
+    before creating or mapping a group.
+  suggested_aliases:
+  - giant ruler of game animals
+  - master of game animals
+  - spirit owner of game animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-hawk-like-bird-hunting-in-flight
+  motif_id: mythic_hawk_like_bird_hunting_in_flight
+  label: Mythic hawk-like bird hunting in flight
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a very specific animal behavior description without clear
+    symbolic or narrative function.
+  cautions: If the bird is a supernatural helper, predator, omen, or culture hero
+    in the source, re-map from passage evidence.
+  suggested_aliases:
+  - hawk-like bird hunts in flight
+  - mythic hunting bird
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-origin-of-a-domesticated-animal
+  motif_id: mythic_origin_of_a_domesticated_animal
+  label: mythic origin of a domesticated animal
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Origins and Etiologies
+  relationship: child
+  confidence: medium
+  rationale: The motif explains the origin of a domesticated animal, fitting animal-specific
+    origin etiology.
+  cautions: May overlap with culture_hero if a founder brings domesticated animals
+    to humans; source context should determine secondary mapping.
+  suggested_aliases:
+  - origin of a domesticated animal
+  - domesticated animal origin myth
+  suggested_new_group:
+    id: animal_origins_etiologies
+    label: Animal Origins and Etiologies
+    description: Myths explaining the origin, distribution, forms, traits, species
+      divisions, or social organization of animals and animal peoples.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - culture_hero
+    - shapeshifter
+    - trickster
+    reason_existing_groups_insufficient: Existing origin groups do not preserve animal-specific
+      etiologies such as domestication, animal traits, or animal peoples.
+- suggestion_id: normalization.suggestion.mythic-original-of-an-animal-tribe
+  motif_id: mythic_original_of_an_animal_tribe
+  label: mythic original of an animal tribe
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Origins and Etiologies
+  relationship: child
+  confidence: medium
+  rationale: The label appears to concern the origin of an animal tribe or animal
+    people, an animal-specific etiology.
+  cautions: Wording may be OCR or generation error for 'origin'; verify source before
+    final mapping.
+  suggested_aliases:
+  - mythic origin of an animal tribe
+  - origin of animal people
+  - animal tribe origin
+  suggested_new_group:
+    id: animal_origins_etiologies
+    label: Animal Origins and Etiologies
+    description: Myths explaining the origin, distribution, forms, traits, species
+      divisions, or social organization of animals and animal peoples.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - culture_hero
+    - shapeshifter
+    - trickster
+    reason_existing_groups_insufficient: Cosmic_origin covers origins broadly but
+      lacks a stable place for repeated animal-people and animal-species etiologies.
+- suggestion_id: normalization.suggestion.mythical-origin-of-animal-peculiarities
+  motif_id: mythical_origin_of_animal_peculiarities
+  label: mythical origin of animal peculiarities
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Origins and Etiologies
+  relationship: child
+  confidence: high
+  rationale: This is a clear animal trait etiology explaining distinctive animal features
+    or behaviors.
+  cautions: If the explanation results from deception or transformation, trickster
+    or shapeshifter may be useful secondary mappings.
+  suggested_aliases:
+  - animal trait etiology
+  - origin of animal peculiarities
+  - mythic explanation of animal traits
+  suggested_new_group:
+    id: animal_origins_etiologies
+    label: Animal Origins and Etiologies
+    description: Myths explaining the origin, distribution, forms, traits, species
+      divisions, or social organization of animals and animal peoples.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - culture_hero
+    - shapeshifter
+    - trickster
+    reason_existing_groups_insufficient: Existing taxonomy has transformation and
+      cosmic-origin groups, but neither cleanly captures repeated animal-trait origin
+      tales without losing the animal-etiology function.
+batch_notes:
+- Several labels point to a recurring animal-specific etiology cluster not cleanly
+  represented by current canonical groups; consider a review candidate such as animal_origins_etiologies
+  if enough similar labels recur.
+- Do not infer trickster placement from animal presence alone; use trickster only
+  where deception, boundary crossing, theft, or disordering function is evident.
+- Single-occurrence animal-role labels from Indigenous traditions should receive source-sensitive
+  human review before broad grouping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2219
+  input_sha256: 959d860d1e2c3423608b3e43ab93ab4ab2e6fa52c793090362eff3965c50f7d4
+

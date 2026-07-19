@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0900
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.liberation-from-bonds-through-divine-agency
+  motif_id: liberation_from_bonds_through_divine_agency
+  label: liberation from bonds through divine agency
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is divine agency directly freeing a bound figure, fitting
+    supernatural intervention in human affairs.
+  cautions: Single occurrence; if the bonds are ritual, legal, or underworld constraints,
+    covenant, sacred_law, or descent may be secondary.
+  suggested_aliases:
+  - divine_liberation_from_bonds
+  - divine_release_from_captivity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-and-prosperity-increased-by-a-holy-river-figure
+  motif_id: life_and_prosperity_increased_by_a_holy_river_figure
+  label: Life and prosperity increased by a holy river figure
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A holy river figure increasing life and prosperity belongs with sacred
+    waters as life-giving and purifying power.
+  cautions: Could also reflect divine_intervention if the river is primarily a deity/agent
+    rather than the sacred water itself; preserve river-figure specificity.
+  suggested_aliases:
+  - life_giving_holy_river
+  - prosperity_from_sacred_river
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-breath-mediated-through-a-ritual-object
+  motif_id: life_breath_mediated_through_a_ritual_object
+  label: life-breath mediated through a ritual object
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A ritual object mediating life-breath may function as a sacred power
+    object or life-token, but the exact ritual role is unclear.
+  cautions: Culturally specific ritual evidence is needed; could belong to sacred_treasures,
+    sacred_substance, external_soul, soul_loss_restoration, or sacred_exchange depending
+    on whether the object stores, transfers, restores, or symbolizes breath.
+  suggested_aliases:
+  - ritual_object_mediating_life_breath
+  - life_breath_through_sacred_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-cycle-ritual-totality
+  motif_id: life_cycle_ritual_totality
+  label: Life-cycle ritual totality
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like an analytic summary of ritual coverage across life
+    stages rather than a specific narrative or symbolic motif.
+  cautions: If a passage describes a recurring ritual pattern that integrates birth,
+    initiation, marriage, and death, human reviewers may remap to initiation, sacred_time,
+    or sacred_law; otherwise exclude from motif queries.
+  suggested_aliases:
+  - total_life_cycle_ritual_system
+  - life_cycle_ritual_complex
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-giving-food-and-water-refused-after-divine-instruction
+  motif_id: life_giving_food_and_water_refused_after_divine_instruction
+  label: life-giving food and water refused after divine instruction
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on life-giving food and water as sacred substances,
+    with refusal governed by divine instruction.
+  cautions: The refusal may be the more important function; if obedience to divine
+    command is central, sacred_law or covenant may be relevant. If it concerns missed
+    immortality, death_and_transformation may be secondary.
+  suggested_aliases:
+  - refusal_of_life_giving_food_and_water
+  - divine_instruction_to_refuse_life_food_and_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-giving-or-discriminating-sacred-water
+  motif_id: life_giving_or_discriminating_sacred_water
+  label: life-giving or discriminating sacred water
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Life-giving sacred water clearly fits sacred_waters, while discriminating
+    water suggests a testing or judgment function within the same water symbolism.
+  cautions: If the discriminating function is primary, divine_judgment or mystical_quest
+    may be relevant; the generated 'or' label may conflate separate motifs.
+  suggested_aliases:
+  - life_giving_sacred_water
+  - discriminating_sacred_water
+  - sacred_water_as_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-giving-sacred-water
+  motif_id: life_giving_sacred_water
+  label: Life-giving sacred water
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: alias
+  confidence: high
+  rationale: This is a direct variant of existing sacred_waters aliases for life-giving
+    water.
+  cautions: Do not map to flood_and_renewal unless catastrophic destruction and renewal
+    are present.
+  suggested_aliases:
+  - life_giving_water
+  - life_from_water
+  - life_bestowing_sacred_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-giving-water-as-image-for-divine-dependence
+  motif_id: life_giving_water_as_image_for_divine_dependence
+  label: Life-giving water as image for divine dependence
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label uses life-giving water as a sacred image for dependence on
+    the divine, fitting broad sacred water symbolism.
+  cautions: May be primarily devotional metaphor rather than narrative motif; if the
+    passage centers on dependence/devotion rather than water, sacred_exchange or mystical_quest
+    may be secondary.
+  suggested_aliases:
+  - divine_dependence_as_life_giving_water
+  - life_giving_water_metaphor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-of-the-divine-host
+  motif_id: life_of_the_divine_host
+  label: Life of the divine host
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too vague to identify whether it concerns gods' vitality,
+    assembly, sustenance, ritual feeding, or a textual description of divine beings.
+  cautions: Needs source evidence. Possible placements include sacred_substance if
+    divine life is sustained by food/drink, sacred_exchange if gods are ritually fed,
+    or divine_intervention/theophany if the host acts or manifests.
+  suggested_aliases:
+  - vitality_of_the_divine_host
+  - divine_host_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-preserving-sacred-haoma
+  motif_id: life_preserving_sacred_haoma
+  label: Life-preserving sacred Haoma
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: high
+  rationale: Haoma is a sacred ritual substance associated with preservation, vitality,
+    and sacred drink/plant power.
+  cautions: Preserve the Zoroastrian Haoma specificity; do not flatten into generic
+    water or food motifs.
+  suggested_aliases:
+  - sacred_haoma_as_life_preserving_substance
+  - life_preserving_haoma
+  - haoma_as_sacred_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern life-giving water or sacred substances; map
+  by function rather than by broad elemental similarity.
+- Single-occurrence and culturally specific ritual labels should remain provisional
+  until passage evidence confirms narrative or ritual function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0900
+  input_sha256: 2a812c6a464500ad6b8a952df2ee518511c02216f7facf56cf9f907bb93a55f6
+

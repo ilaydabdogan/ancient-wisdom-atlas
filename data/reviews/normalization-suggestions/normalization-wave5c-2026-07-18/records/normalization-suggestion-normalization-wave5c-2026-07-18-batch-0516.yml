@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0516
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.four-night-journey-marked-by-doctor-songs
+  motif_id: four_night_journey_marked_by_doctor_songs
+  label: four-night journey marked by doctor songs
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a journey duration with culturally specific healing
+    or ceremonial songs; placement depends on whether the journey is ritual healing,
+    initiation, or narrative travel.
+  cautions: Single occurrence and culturally specific terminology; review source evidence
+    before mapping to hero_journey, initiation, sacred_song, or healing-related ritual
+    groups.
+  suggested_aliases:
+  - four-night ceremonial journey
+  - journey marked by healer songs
+  - doctor songs during journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-circumambulation-and-bodily-crossing-in-healing
+  motif_id: fourfold_circumambulation_and_bodily_crossing_in_healing
+  label: Fourfold circumambulation and bodily crossing in healing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed healing action using circumambulation and bodily crossing
+    fits ritual regulation and apotropaic or restorative practice better than narrative
+    journey.
+  cautions: Fourfold structure and bodily crossing may carry local ceremonial meaning;
+    do not reduce to generic journey without evidence. Could warrant a healing-rite
+    subgroup if many similar labels recur.
+  suggested_aliases:
+  - fourfold healing circumambulation
+  - ritual circumambulation in healing
+  - bodily crossing healing rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-legal-classification-of-duty-and-question
+  motif_id: fourfold_legal_classification_of_duty_and_question
+  label: Fourfold legal classification of duty and question
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a doctrinal or scholastic classification scheme rather
+    than a narrative or symbolic motif.
+  cautions: If the passage presents a ritual/legal obligation with narrative consequences,
+    sacred_law or sacred_knowledge may be relevant; otherwise preserve only as textual
+    evidence.
+  suggested_aliases:
+  - fourfold legal classification
+  - classification of duty and question
+  - fourfold doctrinal classification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-repetition-in-tests-and-arrival-signs
+  motif_id: fourfold_repetition_in_tests_and_arrival_signs
+  label: Fourfold repetition in tests and arrival signs
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repeated tests and signs marking arrival fit an ordeal or threshold sequence
+    that transforms or validates passage.
+  cautions: The fourfold pattern may be culturally specific and numerologically important;
+    confirm that tests, not merely repeated narration, are central.
+  suggested_aliases:
+  - fourfold tests and signs
+  - repeated tests before arrival
+  - fourfold ordeal signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-river-crossing-and-sacred-four
+  motif_id: fourfold_river_crossing_and_sacred_four
+  label: fourfold river crossing and sacred four
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: River crossing as repeated sacred passage fits water as boundary and
+    transformation medium.
+  cautions: Do not map to flood_and_renewal unless destruction and world renewal are
+    present. Preserve the sacred-four detail as local evidence.
+  suggested_aliases:
+  - fourfold river crossing
+  - sacred four river passage
+  - repeated river crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-sea-journey-and-fourfold-abundance
+  motif_id: fourfold_sea_journey_and_fourfold_abundance
+  label: Fourfold sea journey and fourfold abundance
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sea travel, fourfold patterning, and abundance; the
+    dominant function may be journey, sacred waters, otherworld exchange, or provision.
+  cautions: Single occurrence and composite wording; review whether abundance is obtained
+    through divine intervention, otherworld sojourn, or a maritime quest.
+  suggested_aliases:
+  - fourfold sea journey
+  - sea journey with fourfold abundance
+  - maritime quest for abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-testing-before-safe-passage
+  motif_id: fourfold_testing_before_safe_passage
+  label: Fourfold testing before safe passage
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: high
+  rationale: Testing before passage is a clear threshold ordeal pattern; fourfold
+    repetition is useful local granularity.
+  cautions: If a guardian figure controls the passage, threshold_guardian may be a
+    secondary mapping. Preserve fourfold structure without generalizing it across
+    traditions.
+  suggested_aliases:
+  - testing before safe passage
+  - fourfold passage test
+  - repeated tests for safe passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.frenzied-wandering-woman-compared-to-bacchanals
+  motif_id: frenzied_wandering_woman_compared_to_bacchanals
+  label: Frenzied wandering woman compared to Bacchanals
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'compared to Bacchanals' suggests a literary simile or commentary
+    artifact rather than a stable motif.
+  cautions: If the passage actually depicts Dionysiac possession, ecstatic wandering,
+    or ritual frenzy, human review could map to a future ecstatic-ritual or divine_intervention
+    group.
+  suggested_aliases:
+  - frenzied wandering woman
+  - bacchic comparison
+  - woman compared to Bacchanals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.friction-kindled-ritual-fire-and-cattle-passage
+  motif_id: friction_kindled_ritual_fire_and_cattle_passage
+  label: Friction-kindled ritual fire and cattle passage
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritual fire kindled by friction and used in cattle passage fits sacred
+    fire as purifying or mediating ritual force.
+  cautions: Comparative label may summarize ethnographic parallels; verify source
+    evidence. If the cattle passage is primarily apotropaic livestock healing, sacred_law
+    may be secondary.
+  suggested_aliases:
+  - friction-kindled ritual fire
+  - cattle passage through ritual fire
+  - need-fire cattle rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.friendship-bond-entailing-services
+  motif_id: friendship_bond_entailing_services
+  label: Friendship bond entailing services
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A friendship bond that entails services centers on reciprocal obligation
+    and exchange between parties.
+  cautions: If the bond is legal, ritual kinship, or alliance rather than sacred reciprocity,
+    covenant or sacred_law may fit better; source context is needed.
+  suggested_aliases:
+  - service obligations in friendship
+  - reciprocal friendship bond
+  - friendship bond of services
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch contain culturally specific fourfold ceremonial patterning;
+  preserve the number-four evidence and avoid flattening it into generic journey motifs.
+- Single-occurrence composite labels should remain provisional until source passages
+  confirm whether the dominant function is travel, ritual healing, initiation, water
+  passage, or textual commentary.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; culturally specific Native American
+    ceremonial labels and comparative ritual labels require human source review before
+    taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0516
+  input_sha256: 36c87c296d78303118f196902d3de08ff999597a3f5e6dff23803e9d00fa8b11
+

@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0481
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.conquest-followed-by-administrative-appointment
+  motif_id: conquest_followed_by_administrative_appointment
+  label: conquest followed by administrative appointment
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: The label concerns political order after conquest, especially appointment
+    to office, which best fits sacred kingship and rule-order queries if retained.
+  cautions: Single occurrence and may be administrative historiography rather than
+    a mythic motif; verify sacred or legitimating function before indexing.
+  suggested_aliases:
+  - post_conquest_administrative_appointment
+  - conqueror_appoints_administrator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-followed-by-administrative-incorporation
+  motif_id: conquest_followed_by_administrative_incorporation
+  label: Conquest followed by administrative incorporation
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: Administrative incorporation after conquest describes reconstitution
+    of political rule and order under a new authority.
+  cautions: May be a chronicle or historical-process note rather than a symbolic motif;
+    do not infer conquest ideology without passage evidence.
+  suggested_aliases:
+  - post_conquest_administrative_incorporation
+  - conquered_land_incorporated_into_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-followed-by-captivity-or-deportation
+  motif_id: conquest_followed_by_captivity_or_deportation
+  label: conquest followed by captivity or deportation
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Captivity or deportation is a conquest aftermath within warfare and collective
+    displacement narratives.
+  cautions: Could also belong with exile or historical trauma if the taxonomy develops
+    such a group; single occurrence needs source review.
+  suggested_aliases:
+  - post_conquest_captivity
+  - deportation_after_conquest
+  - conquest_and_forced_displacement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-followed-by-incorporation-and-cultural-transfer
+  motif_id: conquest_followed_by_incorporation_and_cultural_transfer
+  label: Conquest followed by incorporation and cultural transfer
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines conquest, political incorporation, and cultural transfer,
+    requiring source context to identify the primary motif function.
+  cautions: Culturally sensitive and historically specific; avoid treating cultural
+    transfer as transmission evidence or conquest justification in this normalization
+    task.
+  suggested_aliases:
+  - post_conquest_incorporation_and_cultural_transfer
+  - conquest_with_cultural_integration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-followed-by-mass-killing-and-enslavement
+  motif_id: conquest_followed_by_mass_killing_and_enslavement
+  label: conquest followed by mass killing and enslavement
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Mass killing and enslavement after conquest is a violent warfare aftermath,
+    fitting broad sacred combat or conflict queries if retained.
+  cautions: May be historical atrocity description rather than a motif; handle with
+    care and preserve source specificity.
+  suggested_aliases:
+  - post_conquest_mass_killing_and_enslavement
+  - conquest_massacre_and_enslavement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-followed-by-religious-instruction-and-conversion
+  motif_id: conquest_followed_by_religious_instruction_and_conversion
+  label: conquest followed by religious instruction and conversion
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may concern conquest, sacred knowledge transmission, conversion,
+    or legitimation of rule; the primary function is unclear from the label alone.
+  cautions: Religious conversion after conquest is culturally sensitive and may be
+    historical, missionary, or colonial framing rather than a mythic motif.
+  suggested_aliases:
+  - post_conquest_religious_instruction
+  - conquest_followed_by_conversion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-followed-by-religious-transformation-of-a-stronghold
+  motif_id: conquest_followed_by_religious_transformation_of_a_stronghold
+  label: Conquest followed by religious transformation of a stronghold
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: functional_variant
+  confidence: low
+  rationale: A conquered stronghold transformed religiously may function as a re-centered
+    sacred place or converted seat of order.
+  cautions: Could instead fit sacred_combat, sacred_law, or royal_legitimacy depending
+    on whether the emphasis is battle, conversion, or rule; review passage evidence.
+  suggested_aliases:
+  - religious_transformation_of_conquered_stronghold
+  - conquered_stronghold_made_sacred
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-followed-by-tribute-and-labor-extraction
+  motif_id: conquest_followed_by_tribute_and_labor_extraction
+  label: Conquest followed by tribute and labor extraction
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: Tribute and labor extraction after conquest concern the political-economic
+    order imposed by a ruling authority.
+  cautions: Likely an historical or administrative detail unless the source frames
+    tribute as sacred obligation, kingship, or cosmic order.
+  suggested_aliases:
+  - post_conquest_tribute_and_labor
+  - conquest_with_tribute_extraction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-justified-by-the-sword
+  motif_id: conquest_justified_by_the_sword
+  label: Conquest justified by the sword
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The sword as justification for conquest points to martial authority and
+    warrior legitimation.
+  cautions: 'Needs source review: the phrase may be ideological, colonial, or rhetorical
+    rather than a recurring mythic motif.'
+  suggested_aliases:
+  - martial_justification_of_conquest
+  - sword_as_authority_for_conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-narrated-across-successive-chiefs
+  motif_id: conquest_narrated_across_successive_chiefs
+  label: conquest narrated across successive chiefs
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe dynastic succession, historical narration, or
+    repeated conquest episodes rather than a clear motif.
+  cautions: Could be a textual or historiographic structuring artifact; review Indigenous
+    historical context carefully before mapping to royal_legitimacy or sacred_combat.
+  suggested_aliases:
+  - successive_chiefs_conquest_narrative
+  - conquest_sequence_across_chiefs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence conquest aftermath labels and may be historical-administrative
+  details rather than symbolic motifs.
+- Avoid using these placements as evidence for transmission, cultural borrowing, or
+  conquest ideology; placements are only query-facet suggestions.
+- Consider whether a future exile/captivity or conquest-aftermath group is warranted
+  only if many comparable labels recur across sources.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional low-confidence placements due to single occurrences, culturally
+    sensitive conquest contexts, and frequent overlap between sacred combat, royal
+    legitimacy, sacred knowledge, and historical commentary.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0481
+  input_sha256: 85cd28a391a7c6e8488d6493e4a134e1647fdd712144936b8c78fc60ca481397
+

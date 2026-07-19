@@ -1,0 +1,350 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2158
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.etiological-transformations-of-animals-plants-body-parts-and-places
+  motif_id: etiological_transformations_of_animals_plants_body_parts_and_places
+  label: Etiological transformations of animals, plants, body parts, and places
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label combines several etiological transformation types that could
+    fall under animal traits, landscape/place etiology, or death/transformation depending
+    on passage evidence.
+  cautions: Composite one-off label; avoid collapsing animal, plant, body-part, and
+    place origins into one motif without source review.
+  suggested_aliases:
+  - etiological_transformation
+  - origin_of_present_forms
+  - etiology_of_animals_plants_body_parts_and_places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-a-people-s-fear-of-dogs
+  motif_id: etiology_of_a_people_s_fear_of_dogs
+  label: etiology of a people's fear of dogs
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: narrower_than
+  confidence: medium
+  rationale: Explains a culturally marked relationship to an animal, fitting a broader
+    animal-behavior or animal-status etiology pattern.
+  cautions: May be culturally specific and may instead be social memory, taboo, or
+    local explanatory tale; needs source context.
+  suggested_aliases:
+  - etiology_of_fear_of_dogs
+  - animal_fear_etiology
+  - human_animal_relation_etiology
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Etiological tales explaining why animals have present bodily features,
+      calls, habits, status, dangers, or relationships with humans.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: Existing shapeshifter covers transformation,
+      and cosmic_origin covers broad origins, but neither cleanly captures recurring
+      animal-feature and animal-behavior etiologies without forcing them into cosmology
+      or identity change.
+- suggestion_id: normalization.suggestion.etiology-of-a-tailless-animal
+  motif_id: etiology_of_a_tailless_animal
+  label: Etiology of a tailless animal
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: child
+  confidence: high
+  rationale: A tale explaining why an animal lacks a tail is a clear animal bodily-feature
+    etiology.
+  cautions: Preserve the specific animal and causal episode in evidence notes; do
+    not merge with shapeshifting unless actual transformation occurs.
+  suggested_aliases:
+  - tailless_animal_etiology
+  - origin_of_taillessness
+  - animal_body_part_etiology
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Etiological tales explaining why animals have present bodily features,
+      calls, habits, status, dangers, or relationships with humans.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    reason_existing_groups_insufficient: Existing groups include transformation and
+      cosmic origins, but recurring explanations of animal body features need a more
+      precise review bucket.
+- suggestion_id: normalization.suggestion.etiology-of-an-animal-body-mark-through-combat
+  motif_id: etiology_of_an_animal_body_mark_through_combat
+  label: Etiology of an animal body mark through combat
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: child
+  confidence: high
+  rationale: The motif explains an animal marking as the lasting result of a combat
+    episode, a specific animal-trait etiology.
+  cautions: Could receive a secondary sacred_combat mapping if the combat itself is
+    ritually or cosmically central; label alone emphasizes the animal mark.
+  suggested_aliases:
+  - animal_mark_etiology
+  - origin_of_animal_markings
+  - animal_body_mark_from_combat
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Etiological tales explaining why animals have present bodily features,
+      calls, habits, status, dangers, or relationships with humans.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - sacred_combat
+    reason_existing_groups_insufficient: Shapeshifter and combat groups do not by
+      themselves preserve the explanatory function for present animal markings.
+- suggestion_id: normalization.suggestion.etiology-of-an-animal-body-part
+  motif_id: etiology_of_an_animal_body_part
+  label: Etiology of an animal body part
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: child
+  confidence: high
+  rationale: The label directly names an origin explanation for an animal body part.
+  cautions: Broad generated label; source should identify the animal, body part, and
+    cause before any more specific child is created.
+  suggested_aliases:
+  - animal_body_part_etiology
+  - origin_of_animal_body_part
+  - animal_anatomy_etiology
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Etiological tales explaining why animals have present bodily features,
+      calls, habits, status, dangers, or relationships with humans.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    reason_existing_groups_insufficient: Existing groups lack a stable home for recurrent
+      animal-anatomy origin explanations distinct from general transformation.
+- suggestion_id: normalization.suggestion.etiology-of-an-animal-s-present-form
+  motif_id: etiology_of_an_animal_s_present_form
+  label: Etiology of an animal's present form
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: child
+  confidence: high
+  rationale: Explaining an animal's current form is the broad version of an animal-trait
+    etiology.
+  cautions: If the episode involves a being changing species or body, shapeshifter
+    may be an important secondary mapping.
+  suggested_aliases:
+  - origin_of_animal_present_form
+  - animal_form_etiology
+  - present_animal_form_explained
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Etiological tales explaining why animals have present bodily features,
+      calls, habits, status, dangers, or relationships with humans.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    reason_existing_groups_insufficient: General origin and shapeshifting groups do
+      not isolate the recurring explanatory pattern for animals' present forms.
+- suggestion_id: normalization.suggestion.etiology-of-animal-behavior-or-status
+  motif_id: etiology_of_animal_behavior_or_status
+  label: etiology of animal behavior or status
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: child
+  confidence: high
+  rationale: The motif explains why an animal behaves a certain way or holds a particular
+    status, matching a broader animal-behavior etiology group.
+  cautions: Animal status may involve taboo, hierarchy, or human-animal covenant;
+    check source context before secondary mapping.
+  suggested_aliases:
+  - animal_behavior_etiology
+  - animal_status_etiology
+  - origin_of_animal_behavior
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Etiological tales explaining why animals have present bodily features,
+      calls, habits, status, dangers, or relationships with humans.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: No existing group cleanly covers animal behavior
+      and social/status explanations as etiological motifs.
+- suggestion_id: normalization.suggestion.etiology-of-animal-bodily-features
+  motif_id: etiology_of_animal_bodily_features
+  label: etiology of animal bodily features
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: child
+  confidence: high
+  rationale: This is a direct animal bodily-feature origin label and fits the proposed
+    animal-trait etiology group.
+  cautions: Do not treat all bodily-feature explanations as shapeshifting unless the
+    passage describes a transformation event.
+  suggested_aliases:
+  - animal_bodily_feature_etiology
+  - origin_of_animal_features
+  - animal_anatomy_origin
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Etiological tales explaining why animals have present bodily features,
+      calls, habits, status, dangers, or relationships with humans.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    reason_existing_groups_insufficient: Existing taxonomy lacks a precise group for
+      recurring animal anatomy origin explanations.
+- suggestion_id: normalization.suggestion.etiology-of-animal-bodily-traits-and-reproductive-traits
+  motif_id: etiology_of_animal_bodily_traits_and_reproductive_traits
+  label: etiology of animal bodily traits and reproductive traits
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: child
+  confidence: medium
+  rationale: Bodily and reproductive traits are present animal characteristics explained
+    by an etiological tale.
+  cautions: Reproductive-trait details may be culturally sensitive or over-specific;
+    human review should verify the generated wording and context.
+  suggested_aliases:
+  - animal_reproductive_trait_etiology
+  - animal_bodily_and_reproductive_traits
+  - origin_of_animal_reproductive_traits
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Etiological tales explaining why animals have present bodily features,
+      calls, habits, status, dangers, or relationships with humans.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: A general transformation group would lose
+      the explanatory focus on animal reproductive and bodily traits.
+- suggestion_id: normalization.suggestion.etiology-of-animal-calls-and-mosquito-biting
+  motif_id: etiology_of_animal_calls_and_mosquito_biting
+  label: Etiology of animal calls and mosquito biting
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Trait and Behavior Etiology
+  relationship: child
+  confidence: high
+  rationale: The label explains characteristic animal sounds and biting behavior,
+    both fitting animal behavior etiology.
+  cautions: Composite label joins calls and mosquito biting; preserve local details
+    but avoid promoting the exact combination unless it recurs.
+  suggested_aliases:
+  - animal_call_etiology
+  - mosquito_biting_etiology
+  - origin_of_animal_calls_and_biting
+  suggested_new_group:
+    id: animal_trait_behavior_etiology
+    label: Animal Trait and Behavior Etiology
+    description: Etiological tales explaining why animals have present bodily features,
+      calls, habits, status, dangers, or relationships with humans.
+    parent_group_ids:
+    - shapeshifter
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    reason_existing_groups_insufficient: Existing groups do not specifically retain
+      etiological explanations for animal calls and characteristic behaviors.
+batch_notes:
+- This batch shows a cluster of animal-feature and animal-behavior etiology labels
+  across multiple traditions; a dedicated review group would reduce overuse of shapeshifter
+  or cosmic_origin.
+- Suggested new group is provisional and should not imply historical relationship
+  among traditions.
+- Several labels are one-off and generated at a high level; source passages should
+  determine whether transformation, trickster action, taboo, combat, or local place/people
+  etiology is primary.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review recommended for cultural specificity
+    and composite etiological labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2158
+  input_sha256: 900193b6cde06addfbbc96a5b103648e7286e5d2a78c679bfd4abaa2c0cbf010
+

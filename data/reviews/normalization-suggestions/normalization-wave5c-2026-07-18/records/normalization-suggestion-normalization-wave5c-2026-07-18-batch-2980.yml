@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2980
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mourning-vigil-with-fasting-at-a-boundary
+  motif_id: mourning_vigil_with_fasting_at_a_boundary
+  label: mourning vigil with fasting at a boundary
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core action is mourning vigil and fasting; the boundary setting is
+    a ritual circumstance rather than the main motif.
+  cautions: Single occurrence; if the boundary itself controls passage to the dead,
+    afterlife_passage or threshold_guardian may be relevant.
+  suggested_aliases:
+  - fasting_mourning_vigil
+  - boundary_mourning_vigil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.movement-from-heights-to-newly-occupied-lower-ground
+  motif_id: movement_from_heights_to_newly_occupied_lower_ground
+  label: movement from heights to newly occupied lower ground
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a spatial or historical settlement detail rather than
+    a recurring symbolic motif.
+  cautions: If passage evidence frames the move as ritual descent, social reordering,
+    or loss of sacred height, human review could remap it.
+  suggested_aliases:
+  - relocation_from_high_ground_to_low_ground
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.movement-from-outdoor-public-reception-to-interior-hall-feast
+  motif_id: movement_from_outdoor_public_reception_to_interior_hall_feast
+  label: Movement from outdoor public reception to interior hall feast
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence centers on reception and movement into a feast-hall, a hospitality
+    setting likely tied to guest-host obligations.
+  cautions: If no stranger, test, or hospitality obligation is present, this may be
+    only scene staging and should be excluded.
+  suggested_aliases:
+  - public_reception_to_hall_feast
+  - guest_reception_into_feast_hall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moving-island-or-rocks-become-fixed
+  motif_id: moving_island_or_rocks_become_fixed
+  label: moving island or rocks become fixed
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fixing mobile landforms or rocks is an etiological landscape-formation
+    pattern already covered by cosmic_origin children and aliases.
+  cautions: If the passage emphasizes a sacred center or anchoring axis rather than
+    landscape etiology, axis_mundi could be secondary.
+  suggested_aliases:
+  - fixed_wandering_island
+  - moving_rocks_fixed_in_place
+  - landscape_stabilization_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moving-underground-being-creates-a-new-spring
+  motif_id: moving_underground_being_creates_a_new_spring
+  label: moving underground being creates a new spring
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A being's movement producing a spring is an etiological origin of a landscape
+    and water feature.
+  cautions: Culturally specific source context should be reviewed; if spring sanctity
+    or water passage is central, sacred_waters may be a related mapping.
+  suggested_aliases:
+  - spring_created_by_underground_being
+  - water_source_etiology_from_subterranean_movement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multi-day-drink-centered-dance-observance
+  motif_id: multi_day_drink_centered_dance_observance
+  label: multi-day drink-centered dance observance
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a specific ritual observance involving drink and
+    dance, but the sacred function is not clear from the label alone.
+  cautions: Could involve sacred_substance, sacred_time, sacrifice, initiation, or
+    ethnographic ceremony detail; review cultural context before indexing.
+  suggested_aliases:
+  - multi_day_drink_dance_rite
+  - drink_centered_dance_observance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multi-day-gathering-as-feast-and-fair
+  motif_id: multi_day_gathering_as_feast_and_fair
+  label: Multi-day gathering as feast and fair
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: A feast-and-fair gathering may be ritual exchange, seasonal time, or
+    social setting, but the motif function is underspecified.
+  cautions: May be a passage or ethnographic setting rather than a symbolic motif;
+    map only if sacred obligation, exchange, or calendar function is explicit.
+  suggested_aliases:
+  - multi_day_feast_fair_gathering
+  - feast_and_fair_observance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.multi-headed-giant-defeated-by-severing-heads
+  motif_id: multi_headed_giant_defeated_by_severing_heads
+  label: multi-headed giant defeated by severing heads
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defeating a monstrous multi-headed giant by beheading fits heroic or
+    sacred combat against an overwhelming adversary.
+  cautions: If the key is a special vulnerability or regeneration loophole, conditional_invulnerability_hidden_weakness
+    may be the stronger placement.
+  suggested_aliases:
+  - many_headed_giant_beheaded
+  - multi_headed_monster_defeated_by_severing_heads
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.myrtle-as-protective-modest-covering
+  motif_id: myrtle_as_protective_modest_covering
+  label: Myrtle as protective modest covering
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A plant used as protective modest covering resembles apotropaic or ritual-propriety
+    practice under sacred_law.
+  cautions: Could be too object-specific or a local cult detail; if myrtle's plant
+    symbolism is central, preserve only as evidence detail.
+  suggested_aliases:
+  - protective_myrtle_covering
+  - modest_covering_by_sacred_plant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mysterious-armed-visitor-at-a-royal-center
+  motif_id: mysterious_armed_visitor_at_a_royal_center
+  label: Mysterious armed visitor at a royal center
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate a threshold guest, challenger, divine visitor,
+    or combat catalyst, but function is not specified.
+  cautions: 'Review source evidence: map to hospitality_test_stranger_guest if received
+    as guest, sacred_combat if issuing challenge, or divine_intervention/theophany
+    if supernatural.'
+  suggested_aliases:
+  - armed_stranger_at_royal_center
+  - mysterious_warrior_visitor_at_court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be scene-setting or ethnographic descriptions;
+  avoid promoting single-occurrence contextual details without source evidence.
+- For boundary/place labels, distinguish spatial setting from narrative function before
+  final mapping.
+reviewer_status:
+  status: draft
+  reviewer: api_suggestion_model
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    ritual observance labels and ambiguous visitor/challenge scenes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2980
+  input_sha256: 91abac95740472e95c548a755b8744b4157ef5cd429281e0a6d60c14c4bbe28a
+

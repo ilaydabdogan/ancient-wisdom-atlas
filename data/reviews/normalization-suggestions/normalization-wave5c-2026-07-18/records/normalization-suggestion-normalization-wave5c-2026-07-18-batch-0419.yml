@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0419
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unavailing-prayer-for-one-already-dead
+  motif_id: unavailing_prayer_for_one_already_dead
+  label: unavailing prayer for one already dead
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could express fate, limits of intercession after death, mourning,
+    or ritual failure depending on passage context.
+  cautions: Single occurrence and abstract wording; avoid mapping to afterlife or
+    fate without evidence of postmortem rule, destiny, or ritual doctrine.
+  suggested_aliases:
+  - ineffective_prayer_for_the_dead
+  - failed_intercession_for_one_already_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unavenged-dead-haunting-the-living-until-revenge
+  motif_id: unavenged_dead_haunting_the_living_until_revenge
+  label: unavenged dead haunting the living until revenge
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly matches active dead who haunt until vengeance or social
+    repair occurs.
+  cautions: Review local concepts of the dead carefully; secondary links to ancestor_rites
+    or divine_judgment may depend on source evidence.
+  suggested_aliases:
+  - vengeful_unavenged_dead
+  - restless_dead_demanding_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unavoidability-of-death
+  motif_id: unavoidability_of_death
+  label: unavoidability of death
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: The theme of death as unavoidable fits the broader fatality/destiny complex
+    when death is beyond human escape.
+  cautions: If the passage is a general mortality reflection rather than fate or destiny,
+    mystical_quest, lament_and_mourning, or exclusion as a moral aphorism may fit
+    better.
+  suggested_aliases:
+  - inescapability_of_death
+  - mortality_as_unavoidable
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unborn-souls-residing-in-a-tree-and-entering-the-mother-with-a-bird-call
+  motif_id: unborn_souls_residing_in_a_tree_and_entering_the_mother_with_a_bird_call
+  label: Unborn souls residing in a tree and entering the mother with a bird call
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines soul preexistence, tree residence, conception, and
+    bird-call mediation, spanning multiple groups.
+  cautions: Culturally specific and over-composite; could relate to miraculous_child,
+    sacred_tree_axis, soul_loss_restoration, or ancestor/soul beliefs depending on
+    source evidence.
+  suggested_aliases:
+  - preexistent_souls_in_tree_entering_mothers
+  - unborn_tree_souls_enter_mothers_by_bird_call
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unburied-dead-and-scavenger-danger
+  motif_id: unburied_dead_and_scavenger_danger
+  label: unburied dead and scavenger danger
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The danger of an unburied body being exposed to scavengers fits the denied-burial
+    and funerary-rite complex.
+  cautions: If the focus is pollution, disease, or animal danger rather than rites
+    for the dead, sacred_law or needs_human_review may be better.
+  suggested_aliases:
+  - unburied_dead_exposed_to_scavengers
+  - corpse_exposure_to_scavengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unburied-dead-demanding-funerary-rites
+  motif_id: unburied_dead_demanding_funerary_rites
+  label: unburied dead demanding funerary rites
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: high
+  rationale: The dead remain active because burial rites are incomplete, matching
+    restless dead caused by unresolved ritual order.
+  cautions: Also strongly related to heroic_funeral_rites; choose that group instead
+    if the passage emphasizes the performance of burial honors more than haunting
+    or demand.
+  suggested_aliases:
+  - restless_unburied_dead_demand_rites
+  - dead_demanding_burial_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unburied-dead-requiring-vengeance-by-the-best-knight
+  motif_id: unburied_dead_requiring_vengeance_by_the_best_knight
+  label: unburied dead requiring vengeance by the best knight
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: over_specific_label
+  confidence: medium
+  rationale: An unburied dead figure requiring vengeance fits the restless-dead vengeance
+    complex, while the best-knight detail is local narrative specificity.
+  cautions: Could also map to heroic_funeral_rites or sacred_combat if the episode
+    centers on chivalric combat or burial honor rather than postmortem demand.
+  suggested_aliases:
+  - unburied_dead_demanding_vengeance
+  - dead_requiring_vengeance_before_rest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unburied-frozen-dead-carried-to-a-sea-grave
+  motif_id: unburied_frozen_dead_carried_to_a_sea_grave
+  label: Unburied frozen dead carried to a sea grave
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes handling and final disposal of an unburied body,
+    fitting funerary rites and memorial treatment.
+  cautions: Frozen and sea-grave details may be environmentally or culturally specific;
+    avoid broad claims beyond mortuary handling without passage evidence.
+  suggested_aliases:
+  - sea_burial_of_unburied_dead
+  - unburied_dead_carried_to_sea_grave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unburied-monster-corpse-brings-disease
+  motif_id: unburied_monster_corpse_brings_disease
+  label: unburied monster corpse brings disease
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern corpse pollution, monster remains, disease etiology,
+    or failed burial, and no single existing group clearly dominates.
+  cautions: Could fit sacred_law if framed as pollution/apotropaic danger, heroic_funeral_rites
+    if burial is central, or divine_judgment if disease is punishment.
+  suggested_aliases:
+  - unburied_corpse_causes_disease
+  - monster_corpse_pollution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unburied-or-unremoved-corpse-ravaged-by-birds
+  motif_id: unburied_or_unremoved_corpse_ravaged_by_birds
+  label: unburied or unremoved corpse ravaged by birds
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Exposure of an unburied corpse to birds aligns with denied burial and
+    corpse exposure within the funerary-rite complex.
+  cautions: If the bird-ravaging is a naturalistic danger or omen rather than a mortuary
+    motif, preserve as evidence detail or review further.
+  suggested_aliases:
+  - corpse_exposed_to_birds
+  - unburied_corpse_ravaged_by_birds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern unburied bodies; distinguish denied or incomplete funerary
+  rites from restless dead demanding action, and from corpse pollution or disease
+  danger.
+- Single-occurrence, culturally specific mortuary labels should preserve local evidence
+  details rather than being promoted directly to taxonomy motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review should check passage
+    evidence for mortuary ritual, haunting agency, pollution, or narrative episode
+    specificity.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0419
+  input_sha256: 6ab049ad4560b942f75af38087703440d06547fe02aee8d23efd2940b2f1410a
+

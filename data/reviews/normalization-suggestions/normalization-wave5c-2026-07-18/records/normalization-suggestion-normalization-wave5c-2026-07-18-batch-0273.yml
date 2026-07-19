@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0273
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mythological-geography-of-ancestral-localities-and-mountains
+  motif_id: mythological_geography_of_ancestral_localities_and_mountains
+  label: mythological geography of ancestral localities and mountains
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes ancestral geography, localities, and mountains; possible
+    fits include cosmic_origin, axis_mundi, ancestor_rites, or sacred_geography depending
+    on passage function.
+  cautions: Single occurrence and broad descriptive wording may be a contextual or
+    scholarly geography note rather than a motif.
+  suggested_aliases:
+  - ancestral_sacred_geography
+  - mythic_ancestral_places
+  - ancestral_mountain_geography
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - cosmic_origin
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-bestowed-as-memorial-of-ancestral-conflict
+  motif_id: name_bestowed_as_memorial_of_ancestral_conflict
+  label: name bestowed as memorial of ancestral conflict
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A name memorializing an ancestral conflict resembles existing etiological
+    naming motifs under cosmic_origin, especially place/name origins from violent
+    or heroic events.
+  cautions: If the label refers only to a personal name or literary commemoration
+    rather than etiological naming, it may be too contextual or better excluded.
+  suggested_aliases:
+  - memorial_name_from_ancestral_conflict
+  - name_etiology_from_ancestral_conflict
+  - name_bestowed_after_ancestral_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-continuity-after-death-without-ancestor-worship
+  motif_id: name_continuity_after_death_without_ancestor_worship
+  label: name continuity after death without ancestor worship
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Postmortem name continuity may concern ancestor relations, identity survival,
+    or naming practice, but the negative qualifier makes function unclear.
+  cautions: The phrase 'without ancestor worship' sounds classificatory or ethnographic;
+    review source evidence before indexing as a motif.
+  suggested_aliases:
+  - postmortem_name_continuity
+  - name_survives_after_death
+  - continuity_of_name_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-inheritance-with-guardian-namesake-spirits
+  motif_id: name_inheritance_with_guardian_namesake_spirits
+  label: Name inheritance with guardian namesake-spirits
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Guardian namesake spirits fit the existing guardian/tutelary spirit material
+    folded under divine_intervention.
+  cautions: Name inheritance and reincorporated ancestor identity may require source-sensitive
+    review; could also relate to ancestor_rites or soul-transfer beliefs.
+  suggested_aliases:
+  - guardian_namesake_spirits
+  - inherited_namesake_guardian_spirit
+  - namesake_spirit_guardianship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - soul_loss_restoration
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-taboo-after-royal-death
+  motif_id: name_taboo_after_royal_death
+  label: Name taboo after royal death
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo on speaking a dead ruler's name is a ritual/social prohibition,
+    fitting sacred_law and mortuary taboo patterns.
+  cautions: Royal status may also involve royal_legitimacy or ancestor rites; preserve
+    the royal-death specificity as evidence detail.
+  suggested_aliases:
+  - royal_death_name_taboo
+  - taboo_on_dead_ruler_name
+  - avoidance_of_deceased_royal_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-taboo-for-dead-close-kin
+  motif_id: name_taboo_for_dead_close_kin
+  label: Name taboo for dead close kin
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Avoiding names of deceased close kin is a mortuary prohibition and social
+    ritual rule, best held under sacred_law.
+  cautions: Could also support ancestor_rites if tied to feeding, appeasement, or
+    relations with dead kin; verify ritual function.
+  suggested_aliases:
+  - dead_kin_name_taboo
+  - avoidance_of_deceased_kin_name
+  - mourning_name_avoidance_for_close_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-taboo-for-spirits-persons-and-tribes
+  motif_id: name_taboo_for_spirits_persons_and_tribes
+  label: Name taboo for spirits, persons, and tribes
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Name taboo across spirits, persons, and tribes is a sacred prohibition
+    regulating speech and social-spiritual danger.
+  cautions: The label is very broad and may combine different taboo types; source
+    review should separate spirit avoidance, mortuary taboo, and social naming restrictions
+    if needed.
+  suggested_aliases:
+  - name_avoidance_taboo
+  - taboo_on_names_of_spirits_and_persons
+  - sacred_name_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-treated-as-a-transferable-soul
+  motif_id: name_treated_as_a_transferable_soul
+  label: Name treated as a transferable soul
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Treating a name as a transferable soul fits the external/separable soul
+    complex, with the name functioning as a movable vital identity token.
+  cautions: This is culturally specific and may not mean an external life-token in
+    the usual tale-type sense; review Inuit naming evidence carefully.
+  suggested_aliases:
+  - name_as_transferable_soul
+  - name_as_separable_soul
+  - transferable_name_soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - soul_loss_restoration
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-ancestor-of-a-descent-group
+  motif_id: named_ancestor_of_a_descent_group
+  label: Named ancestor of a descent group
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already includes eponymous ancestors and genealogical origins
+    of peoples from named ancestors.
+  cautions: If merely a genealogy entry without mythic or etiological function, it
+    may be a contextual person-lineage detail rather than a motif.
+  suggested_aliases:
+  - eponymous_ancestor_of_descent_group
+  - named_lineage_ancestor
+  - descent_group_named_ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-ancestors-emerge-from-the-earth
+  motif_id: named_ancestors_emerge_from_the_earth
+  label: named ancestors emerge from the earth
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Emergence of named ancestors from the earth is an origin account for
+    peoples or lineages, fitting ancestral origin motifs under cosmic_origin.
+  cautions: Could also involve chthonic birth, earth deity, or ancestor rites depending
+    on passage; do not treat as underworld descent unless journey-to-death evidence
+    is present.
+  suggested_aliases:
+  - earth_emergence_of_ancestors
+  - ancestors_emerge_from_earth
+  - chthonic_origin_of_named_ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - mother_goddess
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern names, taboos, and namesake souls; reviewers may want a future
+  naming-and-identity subgroup if these recur across traditions.
+- Avoid treating all ancestor-related naming as ancestor worship or afterlife journey
+  without passage evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple single-occurrence labels require source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0273
+  input_sha256: 1c04e7b9ff19adf2878cad8db2bb302a9888d59d6fb0e3e5bd897aba0cddaff2
+

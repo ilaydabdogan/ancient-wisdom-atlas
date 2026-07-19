@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2837
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.tool-mistaken-for-a-living-monster
+  motif_id: tool_mistaken_for_a_living_monster
+  label: tool mistaken for a living monster
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate comic misrecognition, monster fear, or an episode-specific
+    folktale detail; no existing group clearly captures it from label alone.
+  cautions: Single occurrence and possibly too contextual; verify whether the mistaken
+    tool drives ordeal, trickery, or merely a humorous passage detail.
+  suggested_aliases:
+  - inanimate object mistaken for monster
+  - misrecognized tool as monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.total-destruction-of-monster-remains-to-prevent-further-threat
+  motif_id: total_destruction_of_monster_remains_to_prevent_further_threat
+  label: total destruction of monster remains to prevent further threat
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Post-combat destruction of a monster's remains functions as completion
+    of the monster-defeat sequence and prevention of renewed danger.
+  cautions: If the remains are magically alive, cursed, or ritually polluting, secondary
+    review under divine_judgment, sacrifice, or sacred_law may be appropriate.
+  suggested_aliases:
+  - destruction of monster remains
+  - preventive destruction of defeated monster
+  - monster remains destroyed to prevent return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trading-insult-escalating-into-collective-warfare
+  motif_id: trading_insult_escalating_into_collective_warfare
+  label: Trading insult escalating into collective warfare
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: An exchange of insults that triggers wider conflict fits warfare as a
+    socially charged or ritually significant escalation pattern.
+  cautions: Could also belong with curse_blessing_speech if the spoken insult itself
+    is performative or binding; review cultural context carefully.
+  suggested_aliases:
+  - insult exchange escalates to war
+  - verbal insult triggers collective warfare
+  - trading insults leading to war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.traditional-hero-as-accretion-point-for-unrelated-stories
+  motif_id: traditional_hero_as_accretion_point_for_unrelated_stories
+  label: traditional hero as accretion point for unrelated stories
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes story-cycle formation or scholarly classification
+    rather than a narrative motif within a tradition.
+  cautions: Preserve as reception or textual-history metadata if useful; do not use
+    as evidence for hero motifs or transmission claims.
+  suggested_aliases:
+  - hero cycle accretion
+  - traditional hero as narrative accretion point
+  - unrelated stories attached to traditional hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tragic-heroine-s-lament
+  motif_id: tragic_heroine_s_lament
+  label: tragic heroine's lament
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A heroine's lament is a gendered or role-specific instance of lament,
+    mourning, and tragic recognition.
+  cautions: If the passage centers on heroic combat rather than grief expression,
+    sacred_combat or divine_warrior may be secondary only.
+  suggested_aliases:
+  - heroine lament
+  - lament of a tragic heroine
+  - female heroic lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trait-transfer-and-concentration-onto-a-favored-hero
+  motif_id: trait_transfer_and_concentration_onto_a_favored_hero
+  label: trait transfer and concentration onto a favored hero
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording sounds like literary character aggregation or source-analysis
+    rather than a clearly attested mythic action.
+  cautions: May be a meta-textual artifact if it describes redactional accretion;
+    if a deity actively bestows traits or powers, divine_intervention or divine_warrior
+    may fit.
+  suggested_aliases:
+  - heroic traits concentrated in favored hero
+  - transfer of traits to hero
+  - favored hero receives concentrated traits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - divine_warrior
+    - _meta_textual
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trance-of-compassion-after-mass-violence
+  motif_id: trance_of_compassion_after_mass_violence
+  label: trance of compassion after mass violence
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A compassion trance after violence suggests an interior spiritual transformation
+    or contemplative response to suffering.
+  cautions: Could instead be lament_and_mourning or sacred_law if the passage emphasizes
+    grief, ethics, or nonviolence rather than altered spiritual state.
+  suggested_aliases:
+  - compassionate trance after violence
+  - spiritual compassion after mass violence
+  - post-violence trance of compassion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transfer-of-a-hero-s-weapons-to-a-successor
+  motif_id: transfer_of_a_hero_s_weapons_to_a_successor
+  label: transfer of a hero's weapons to a successor
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: Heroic weapons function as power objects whose transfer conveys authority,
+    martial role, or succession.
+  cautions: If the emphasis is political succession rather than the weapons' power,
+    royal_legitimacy may be a secondary mapping.
+  suggested_aliases:
+  - heroic weapons transferred to successor
+  - successor receives hero's weapons
+  - inheritance of a hero's weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transfer-of-heroic-strength-by-breath
+  motif_id: transfer_of_heroic_strength_by_breath
+  label: transfer of heroic strength by breath
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns transmission of martial vitality or heroic power,
+    fitting the divine-warrior and empowered-combatant complex.
+  cautions: Breath as soul or life-force may also point to external_soul, divine_intervention,
+    or sacred_substance depending on the mechanism in the passage.
+  suggested_aliases:
+  - heroic strength transferred through breath
+  - breath-transmission of warrior strength
+  - breath conveys heroic power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - external_soul
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treacherous-appropriation-of-another-hero-s-victory
+  motif_id: treacherous_appropriation_of_another_hero_s_victory
+  label: treacherous appropriation of another hero's victory
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Claiming another hero's victory through treachery centers on violated
+    trust and false appropriation of honor.
+  cautions: If the source emphasizes combat honor or public recognition tokens, secondary
+    mapping to divine_warrior or recognition_tokens_hidden_identity may be useful.
+  suggested_aliases:
+  - false claim to another hero's victory
+  - stolen heroic victory
+  - treacherous theft of victory credit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several labels have only one occurrence and should
+  be checked against passage evidence before normalization.
+- Avoid treating conflict-bucket placement as proof that every label belongs under
+  combat; some items are meta-textual, lament, sacred object, or interior transformation
+  motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Suggested best-fit normalization groups without editing taxonomy; single-occurrence
+    and potentially meta-textual labels flagged for review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2837
+  input_sha256: cce335fa9a36cabf5ff7c9a471c2e9314c774553e3372a44505461d25d15e1d4
+

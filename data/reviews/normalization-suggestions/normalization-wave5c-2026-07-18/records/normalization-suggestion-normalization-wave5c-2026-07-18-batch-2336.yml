@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2336
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.creation-and-life-through-breath
+  motif_id: creation_and_life_through_breath
+  label: Creation and life through breath
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: The label describes life-giving creation through breath, a clear creation
+    mechanism within cosmic origin motifs.
+  cautions: Could also touch sacred_knowledge or sacred_substance if breath is treated
+    as spirit-power rather than creation act; preserve breath specificity.
+  suggested_aliases:
+  - life_through_breath
+  - creation_by_breath
+  - breath_as_life_giving_force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-and-origin-tale-category
+  motif_id: creation_and_origin_tale_category
+  label: Creation and origin tale category
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording reads as a category or heading, not a specific narrative
+    motif.
+  cautions: If source evidence contains an actual creation episode, index that episode
+    under cosmic_origin rather than this title-like label.
+  suggested_aliases:
+  - creation_origin_category
+  - origin_tale_category
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-by-coordinated-world-makers
+  motif_id: creation_by_coordinated_world_makers
+  label: creation by coordinated world-makers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Cooperative world-making is a creation-process variant and fits the cosmic
+    origin group.
+  cautions: If the world-makers are culture heroes establishing social practices rather
+    than the cosmos, culture_hero may be a secondary mapping.
+  suggested_aliases:
+  - cooperative_world_making
+  - coordinated_creation_by_world_makers
+  - multiple_world_makers_create_world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-by-deliberating-primordial-beings
+  motif_id: creation_by_deliberating_primordial_beings
+  label: Creation by deliberating primordial beings
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Primordial beings deliberating to create the world is a specific creation
+    mechanism under cosmic origin.
+  cautions: May overlap with sacred_knowledge if the emphasis is planning or naming
+    rather than the act of creation.
+  suggested_aliases:
+  - deliberative_creation
+  - primordial_beings_deliberate_creation
+  - creation_by_council_of_primordial_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-catalogue
+  motif_id: creation_catalogue
+  label: creation catalogue
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: medium
+  rationale: A catalogue of created things probably belongs with cosmic origin, but
+    the label may describe textual form rather than motif content.
+  cautions: Review whether this is an actual enumerated creation sequence or merely
+    a passage/genre artifact; exclude if only a catalogue heading.
+  suggested_aliases:
+  - catalogue_of_creation
+  - enumerated_creation_sequence
+  - list_of_created_things
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-joins-human-praise
+  motif_id: creation_joins_human_praise
+  label: creation joins human praise
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Cosmic or created beings joining praise points to universal manifestation
+    of divine presence rather than a creation-origin event.
+  cautions: Could fit sacred_song, sacred_knowledge, or cosmic_praise_of_god aliases
+    if praise/recitation is central; do not map to cosmic_origin unless the passage
+    concerns creation of the world.
+  suggested_aliases:
+  - cosmic_praise
+  - creation_praises_god
+  - universal_cosmic_praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-joins-in-praise-after-redemption
+  motif_id: creation_joins_in_praise_after_redemption
+  label: Creation joins in praise after redemption
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: All creation praising after redemption expresses cosmic recognition of
+    divine action and sacred manifestation.
+  cautions: The redemption sequence may also support death_and_transformation or divine_judgment
+    depending on passage context; preserve the post-redemption qualifier as evidence.
+  suggested_aliases:
+  - creation_praises_after_redemption
+  - cosmic_praise_after_deliverance
+  - universal_praise_after_redemption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-legend-title
+  motif_id: creation_legend_title
+  label: creation legend title
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase explicitly reads as a title or heading rather than a motif.
+  cautions: If the titled text contains a creation narrative, map the substantive
+    motifs separately under cosmic_origin or related groups.
+  suggested_aliases:
+  - creation_legend_heading
+  - creation_story_title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-of-a-community-from-necessity
+  motif_id: creation_of_a_community_from_necessity
+  label: Creation of a community from necessity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns social formation rather than cosmic creation, and
+    existing groups do not clearly capture necessity-driven community foundation.
+  cautions: Could be royal_legitimacy, culture_hero, sacred_law, or a contextual political-philosophical
+    claim depending on source evidence; avoid mapping from the word creation alone.
+  suggested_aliases:
+  - community_formed_from_need
+  - necessity_creates_community
+  - social_origin_from_necessity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.creation-of-a-helpmate-for-adam
+  motif_id: creation_of_a_helpmate_for_adam
+  label: creation of a helpmate for Adam
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: medium
+  rationale: The motif likely concerns the origin of human partnership or gendered
+    companionship, which may fit sacred_love more than cosmic creation.
+  cautions: Culturally and theologically specific; could also fit cosmic_origin if
+    framed as human creation, sacred_marriage if union establishes order, or divine_parent_child/body
+    motifs if source emphasizes derivation from Adam.
+  suggested_aliases:
+  - creation_of_human_companion
+  - creation_of_adams_helpmate
+  - origin_of_human_partnership
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels beginning with 'creation' are not necessarily cosmic-origin motifs;
+  distinguish true cosmogony from social formation, praise, titles, and textual categories.
+- Title/category-like labels should be excluded from pattern queries unless source
+  passages provide substantive motif evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for socially or theologically
+    contextual creation labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2336
+  input_sha256: 3393f1b6132a1e5509be4882f3403ea2e9ee9df37b29307a309866c47cc78ffe
+

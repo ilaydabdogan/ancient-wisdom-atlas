@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0807
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divinely-made-protective-forms
+  motif_id: divinely_made_protective_forms
+  label: Divinely made protective forms
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divinely made protective forms likely function as sacred protective objects
+    or images.
+  cautions: If the forms are manufactured cult images, sacred_craft may be a secondary
+    fit; if they are ritual amulets or taboos, sacred_law may be better.
+  suggested_aliases:
+  - divine_protective_forms
+  - protective_forms_made_by_divine_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-nourished-final-meal
+  motif_id: divinely_nourished_final_meal
+  label: divinely nourished final meal
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines divine nourishment, final meal, and death-context
+    symbolism without enough evidence to choose between sacred substance, sacrifice,
+    or death transformation.
+  cautions: Buddhist final-meal context may be culturally and doctrinally specific;
+    avoid treating it as sacrifice unless offering or self-surrender is explicit.
+  suggested_aliases:
+  - divinely_nourishing_final_meal
+  - sacred_final_meal_before_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-ordered-cosmos-of-regions-seas-worlds-and-ages
+  motif_id: divinely_ordered_cosmos_of_regions_seas_worlds_and_ages
+  label: divinely ordered cosmos of regions, seas, worlds, and ages
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif describes divine ordering of cosmic structure, which fits creation
+    and cosmological ordering.
+  cautions: If the passage primarily emphasizes ongoing divine sovereignty rather
+    than creation or origin, supreme_ruler may be a better or secondary group.
+  suggested_aliases:
+  - divinely_ordered_cosmos
+  - divine_ordering_of_worlds_and_ages
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-ordered-creation-of-humans-and-animals
+  motif_id: divinely_ordered_creation_of_humans_and_animals
+  label: divinely ordered creation of humans and animals
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Creation of humans and animals by divine ordering is a direct creation
+    motif.
+  cautions: If the passage focuses on craftsmanship of living forms rather than cosmic
+    creation, sacred_craft may also be relevant.
+  suggested_aliases:
+  - divine_creation_of_humans_and_animals
+  - ordered_creation_of_living_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-ordered-cyclic-waters
+  motif_id: divinely_ordered_cyclic_waters
+  label: Divinely ordered cyclic waters
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on waters governed by sacred order and cyclical movement.
+  cautions: Do not map to flood_and_renewal unless destructive flood and world renewal
+    are present; sacred_time may be secondary if cyclicality is the main point.
+  suggested_aliases:
+  - divinely_ordered_waters
+  - cyclic_sacred_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-ordered-righteous-kingdom
+  motif_id: divinely_ordered_righteous_kingdom
+  label: Divinely ordered righteous kingdom
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A righteous kingdom ordered by divine authority fits sacred kingship
+    and legitimate rule.
+  cautions: In Zoroastrian context this may also involve cosmic opposition, sacred
+    law, or eschatological order; source evidence should determine secondary mappings.
+  suggested_aliases:
+  - divine_ordered_righteous_rule
+  - righteous_kingdom_under_divine_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-prospered-righteous-servant-in-foreign-house-and-prison
+  motif_id: divinely_prospered_righteous_servant_in_foreign_house_and_prison
+  label: divinely prospered righteous servant in foreign house and prison
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The general function is divine favor or guidance, but the full label
+    is an episode-specific plot summary.
+  cautions: Preserve as evidence detail if tied to a recurring Joseph-like narrative;
+    avoid promoting the foreign house and prison sequence as a canonical motif from
+    one occurrence.
+  suggested_aliases:
+  - divine_prospering_of_righteous_servant
+  - righteous_servant_prospered_in_captivity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-restored-youth
+  motif_id: divinely_restored_youth
+  label: divinely restored youth
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: Restoration of youth is a renewal or rejuvenation transformation of the
+    body or life-state.
+  cautions: If youth is restored through a food, potion, or divine substance, sacred_substance
+    may be a secondary mapping.
+  suggested_aliases:
+  - divine_rejuvenation
+  - youth_restored_by_divine_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-sent-inspired-love
+  motif_id: divinely_sent_inspired_love
+  label: divinely sent inspired love
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: high
+  rationale: Love sent or inspired by divine agency belongs with love as a sacred
+    or cosmic force.
+  cautions: If the passage emphasizes divine manipulation more than love itself, divine_intervention
+    may be a secondary group.
+  suggested_aliases:
+  - divinely_inspired_love
+  - love_sent_by_divine_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divinely-sent-preserver-during-famine
+  motif_id: divinely_sent_preserver_during_famine
+  label: divinely sent preserver during famine
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A divinely sent figure who preserves life during famine is a form of
+    providential intervention and guidance.
+  cautions: Could also index under sacred_exchange or sacred_substance if the passage
+    centers on food provision rather than the sent agent.
+  suggested_aliases:
+  - divine_preserver_in_famine
+  - providential_preserver_during_famine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use 'divinely ordered/sent' phrasing; placement should follow the
+  narrative function rather than divine agency alone.
+- Single-occurrence, episode-specific labels should generally remain evidence details
+  unless recurrence across sources is shown.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific Buddhist and Zoroastrian items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0807
+  input_sha256: '0295df95a3945caafec2d394087307afa7b598e3ce934f822b3f35c4d316ec0b'
+

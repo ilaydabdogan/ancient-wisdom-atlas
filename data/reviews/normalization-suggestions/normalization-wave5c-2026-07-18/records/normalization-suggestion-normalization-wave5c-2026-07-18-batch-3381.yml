@@ -1,0 +1,326 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3381
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.encoded-material-trail-signs
+  motif_id: encoded_material_trail_signs
+  label: encoded material trail signs
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests material signs used for wayfinding or communication,
+    but no existing group cleanly covers encoded trail markers without source context.
+  cautions: May be a passage-specific ethnographic detail, a communication motif,
+    or a journey/navigation motif; culturally specific evidence should be reviewed
+    before indexing.
+  suggested_aliases:
+  - material_trail_signs
+  - encoded_wayfinding_signs
+  - trail_markers_as_communication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-a-calabash-carrying-cannibal
+  motif_id: encounter_with_a_calabash_carrying_cannibal
+  label: encounter with a calabash-carrying cannibal
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines a threatening encounter, cannibal figure, and specific
+    carried object; the narrative function is unclear from the label alone.
+  cautions: Could fit threshold guardian, trickster/predator encounter, sacred vessel,
+    or monster combat depending on the passage; avoid creating a cannibal-specific
+    motif from one occurrence.
+  suggested_aliases:
+  - cannibal_encounter
+  - encounter_with_cannibal_figure
+  - calabash_carrying_cannibal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - trickster
+    - sacred_vessel
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-a-one-eyed-giant-shepherd
+  motif_id: encounter_with_a_one_eyed_giant_shepherd
+  label: encounter with a one-eyed giant shepherd
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Giant or Monstrous Encounter
+  relationship: child
+  confidence: medium
+  rationale: A one-eyed giant shepherd is a recurring monster-encounter type, but
+    the current groups lack a general monster/giant encounter category.
+  cautions: Do not infer transmission from similarity to cyclops traditions; source
+    evidence should determine whether the function is threshold guardian, combat,
+    captivity, or trickster escape.
+  suggested_aliases:
+  - one_eyed_giant_encounter
+  - giant_shepherd_encounter
+  - cyclopean_giant_encounter
+  suggested_new_group:
+    id: giant_monster_encounter
+    label: Giant and Monstrous Encounter
+    description: Encounters with giants, ogres, cannibals, monstrous humans, or liminal
+      anthropomorphic beings whose size, bodily anomaly, appetite, or dwelling creates
+      danger, ordeal, captivity, or boundary crossing.
+    parent_group_ids:
+    - threshold_guardian
+    related_group_ids:
+    - sacred_combat
+    - trickster
+    - otherworld
+    reason_existing_groups_insufficient: Threshold guardian covers boundary function
+      but not the broader recurring monster/giant encounter type when no guarded threshold
+      is explicit.
+- suggestion_id: normalization.suggestion.encounter-with-eyeless-people-who-see-otherwise
+  motif_id: encounter_with_eyeless_people_who_see_otherwise
+  label: encounter with eyeless people who see otherwise
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve altered perception, otherworldly beings, or a culturally
+    specific nonordinary people motif.
+  cautions: Needs source review to avoid flattening Indigenous ontologies into generic
+    supernatural vision; could be dream/vision, otherworld, or anomalous people encounter.
+  suggested_aliases:
+  - eyeless_people_with_other_sight
+  - sight_without_eyes
+  - encounter_with_anomalous_seers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - otherworld
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-hidden-or-vanishing-isolated-people
+  motif_id: encounter_with_hidden_or_vanishing_isolated_people
+  label: Encounter with hidden or vanishing isolated people
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hidden or vanishing people suggest an encounter with a parallel or elusive
+    realm alongside ordinary reality.
+  cautions: If the people are ordinary human neighbors or a historical/geographic
+    detail, exclude or remap; if the emphasis is disguise, shapeshifter may be secondary.
+  suggested_aliases:
+  - hidden_people_encounter
+  - vanishing_people_encounter
+  - encounter_with_elusive_isolated_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-human-inhabitants-through-public-games
+  motif_id: encounter_with_human_inhabitants_through_public_games
+  label: encounter with human inhabitants through public games
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: low
+  rationale: The label reads as a passage-specific encounter mechanism rather than
+    a symbolic or narrative motif with clear broader function.
+  cautions: If public games function as ritual contest, initiation, or diplomacy in
+    the source, human review may remap to sacred_combat or sacred_exchange.
+  suggested_aliases:
+  - encounter_through_public_games
+  - public_games_as_encounter_setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-nonhuman-beings-in-human-guise
+  motif_id: encounter_with_nonhuman_beings_in_human_guise
+  label: encounter with nonhuman beings in human guise
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: Nonhuman beings appearing in human form fits transformation, disguise,
+    and crossing species or status boundaries.
+  cautions: If the key function is hospitality testing or divine visitation rather
+    than form-change, sacred_exchange or divine_intervention may be secondary.
+  suggested_aliases:
+  - nonhuman_beings_in_human_form
+  - supernatural_beings_in_human_guise
+  - human_disguise_of_nonhuman_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-old-woman-in-wilderness-forest
+  motif_id: encounter_with_old_woman_in_wilderness_forest
+  label: Encounter with old woman in wilderness forest
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An old woman in the forest may be helper, witch, tester, guardian, ancestor,
+    or ordinary encounter; function is not specified.
+  cautions: Do not map solely from character type or setting; source context is needed
+    to distinguish threshold guardian, divine intervention, trickster, or hospitality
+    test.
+  suggested_aliases:
+  - forest_old_woman_encounter
+  - wilderness_old_woman_encounter
+  - old_woman_as_forest_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - hospitality_test_stranger_guest
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-possibly-supernatural-people
+  motif_id: encounter_with_possibly_supernatural_people
+  label: Encounter with possibly supernatural people
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label itself marks uncertainty about whether the people are supernatural,
+    making placement dependent on passage evidence.
+  cautions: Culturally specific source evidence is required; possible mappings include
+    otherworld, divine_intervention, shapeshifter, or threshold encounter.
+  suggested_aliases:
+  - possibly_supernatural_people_encounter
+  - ambiguous_supernatural_encounter
+  - encounter_with_uncertain_nonordinary_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - divine_intervention
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-seven-cliff-dwelling-brothers
+  motif_id: encounter_with_seven_cliff_dwelling_brothers
+  label: Encounter with seven cliff-dwelling brothers
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is highly specific to number, kin group, and dwelling place,
+    without a clear narrative function.
+  cautions: Could involve sibling pair/group, cliff or mountain otherworld, culture
+    heroes, or ordinary inhabitants; preserve as evidence detail until source context
+    clarifies function.
+  suggested_aliases:
+  - seven_brothers_in_cliffs
+  - cliff_dwelling_brothers_encounter
+  - encounter_with_brother_group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_twins
+    - otherworld
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence encounter summaries; source context is needed
+  before promoting character/setting details into motifs.
+- A possible gap is a general giant/monster encounter group, distinct from threshold_guardian
+  when no explicit boundary-guarding function is present.
+- No transmission or borrowing claims are implied by these placement suggestions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 3381; human review
+    recommended especially for culturally specific encounter labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3381
+  input_sha256: f15185f763088766ef26e8f9396ce411dd916b31f8cfffcddbba0dc2da543d74
+

@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3561
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hunting-prowess-preserved-in-oral-accounts
+  motif_id: hunting_prowess_preserved_in_oral_accounts
+  label: hunting prowess preserved in oral accounts
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: The label emphasizes oral preservation of a valued prowess, which may
+    fit narrative transmission and public memory.
+  cautions: Could be an ethnographic or passage-summary artifact rather than a motif;
+    hunting prowess itself has no clear existing group.
+  suggested_aliases:
+  - oral_preservation_of_hunting_prowess
+  - hunting_skill_remembered_in_oral_tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunting-tactics-depiction
+  motif_id: hunting_tactics_depiction
+  label: hunting tactics depiction
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes depiction of tactics rather than a recurring symbolic
+    or narrative motif.
+  cautions: If source evidence involves ritualized hunting, animal transformation,
+    or a mythic hunter, remap from passage context instead of this generic label.
+  suggested_aliases:
+  - depiction_of_hunting_tactics
+  - hunting_strategy_description
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunting-trophies-displayed-on-dwelling-roof
+  motif_id: hunting_trophies_displayed_on_dwelling_roof
+  label: Hunting trophies displayed on dwelling roof
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: Displayed trophies may function as charged objects marking prowess, status,
+    or ritual relation to animals.
+  cautions: May be a culturally specific ethnographic detail or domestic practice,
+    not a motif; verify ritual or narrative function before indexing.
+  suggested_aliases:
+  - hunting_trophies_on_roof
+  - display_of_hunting_trophies_on_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunting-trophies-displayed-under-the-roof
+  motif_id: hunting_trophies_displayed_under_the_roof
+  label: hunting trophies displayed under the roof
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: Hunting trophies may be meaningful objects displayed in a dwelling, but
+    the sacred or narrative function is unclear.
+  cautions: Likely should be reviewed together with roof-display variants; could be
+    an ethnographic detail rather than a query motif.
+  suggested_aliases:
+  - hunting_trophies_under_roof
+  - display_of_hunting_trophies_under_roof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.huntings-and-enchantments-cycle
+  motif_id: huntings_and_enchantments_cycle
+  label: huntings and enchantments cycle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording sounds like a tale-cycle or source classification, not a
+    discrete motif.
+  cautions: Individual episodes in the cycle may contain motifs such as otherworld
+    sojourn, shapeshifting, magical animal lure, or enchantment; index those separately
+    from passage evidence.
+  suggested_aliases:
+  - hunting_and_enchantment_cycle
+  - huntings_enchantments_tale_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hybrid-guardians-protecting-a-hidden-body-or-image
+  motif_id: hybrid_guardians_protecting_a_hidden_body_or_image
+  label: hybrid guardians protecting a hidden body or image
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hybrid guardian figures protect access to a hidden body or image, matching
+    boundary-guarding before approach or passage.
+  cautions: If the protected object is the main focus, sacred_treasures or sacred_vessel
+    may be secondary; if mortuary context dominates, afterlife_passage may apply.
+  suggested_aliases:
+  - hybrid_guardians_of_hidden_body
+  - hybrid_guardians_of_hidden_image
+  - guardian_hybrids_protecting_hidden_sacred_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hybridization-of-bible-stories-with-native-stories
+  motif_id: hybridization_of_bible_stories_with_native_stories
+  label: hybridization of Bible stories with native stories
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes textual or tradition-history syncretism rather than
+    a narrative motif.
+  cautions: Do not use as evidence of transmission in motif queries; preserve as provenance
+    or commentary if needed.
+  suggested_aliases:
+  - hybridization_of_biblical_and_native_stories
+  - syncretic_blending_of_bible_and_native_narratives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hydra-headed-futile-reform
+  motif_id: hydra_headed_futile_reform
+  label: Hydra-headed futile reform
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase likely uses Hydra imagery metaphorically for an intractable
+    evil or failed correction, possibly fitting downfall or failed effort.
+  cautions: May be a commentary metaphor rather than a Greek narrative motif; do not
+    map to combat unless actual hydra-like monster conflict is present.
+  suggested_aliases:
+  - hydra_headed_failed_reform
+  - futile_reform_against_multiplying_evil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hydra-like-evils-resisting-simple-eradication
+  motif_id: hydra_like_evils_resisting_simple_eradication
+  label: Hydra-like evils resisting simple eradication
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label frames multiplying evils as morally resistant to simple removal,
+    which may fit reckoning with disorder.
+  cautions: Could be a literary metaphor derived from Hydra rather than a motif; if
+    the passage is monster-slaying, sacred_combat or conditional_invulnerability_hidden_weakness
+    may fit better.
+  suggested_aliases:
+  - hydra_like_multiplying_evils
+  - evils_resisting_simple_eradication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hyena-carries-off-an-old-woman-from-a-hut
+  motif_id: hyena_carries_off_an_old_woman_from_a_hut
+  label: hyena carries off an old woman from a hut
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: narrower_than
+  confidence: low
+  rationale: A predatory animal carrying off a vulnerable person resembles animal-predator
+    fable and danger motifs already clustered under trickster.
+  cautions: Over-specific episode label; if no deception or boundary-crossing is present,
+    it may be only a plot detail rather than a reusable motif.
+  suggested_aliases:
+  - predatory_hyena_abducts_old_woman
+  - hyena_abduction_from_hut
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several hunting labels appear ethnographic or descriptive rather than mythic; review
+  passage evidence before adding any hunting-specific group.
+- The two hunting-trophy labels should be reviewed together for possible synonym merge
+  if retained.
+- Hydra-like labels may be metaphorical commentary; avoid treating them as monster-slaying
+  motifs without source evidence.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific Andamanese and San hunting-related labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3561
+  input_sha256: c868423d95009e64300ea4c400c8eaccf3e28763e412041e62f0c09759d0c533
+

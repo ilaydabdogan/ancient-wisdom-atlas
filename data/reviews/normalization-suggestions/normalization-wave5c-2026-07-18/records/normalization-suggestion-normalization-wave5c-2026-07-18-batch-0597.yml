@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0597
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.repeated-animal-arrivals-with-selective-acceptance
+  motif_id: repeated_animal_arrivals_with_selective_acceptance
+  label: repeated animal arrivals with selective acceptance
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a repeated narrative sequence involving animals, but
+    its function is unclear from wording alone.
+  cautions: May be an episode-specific formula, animal-helper selection scene, hospitality/test
+    scene, or passage artifact; source context is needed.
+  suggested_aliases:
+  - animal arrivals with selective acceptance
+  - selective acceptance of arriving animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - animal_helpers
+    - divine_intervention
+    - hospitality_test_stranger_guest
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-animal-cry-as-memory-trigger-for-renewed-wandering
+  motif_id: repeated_animal_cry_as_memory_trigger_for_renewed_wandering
+  label: Repeated animal cry as memory trigger for renewed wandering
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A remembered animal cry prompts renewed wandering, fitting journey continuation
+    or exile-wandering within the hero_journey group.
+  cautions: If the cry is mainly omen, spirit-message, or grief trigger rather than
+    journey function, dream_and_vision, divine_intervention, or lament_and_mourning
+    may be better secondary mappings.
+  suggested_aliases:
+  - animal cry triggers renewed wandering
+  - memory-triggered wandering by animal cry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-animal-questioning-formula
+  motif_id: repeated_animal_questioning_formula
+  label: Repeated animal questioning formula
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording emphasizes a repeated formula rather than a symbolic or narrative
+    motif.
+  cautions: If source evidence shows animals questioning a traveler as a threshold
+    test, preserve the passage under threshold_guardian, trickster, or animal_helpers
+    instead of excluding.
+  suggested_aliases:
+  - animal questioning formula
+  - repeated animal-question formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-animal-request-for-transport
+  motif_id: repeated_animal_request_for_transport
+  label: Repeated animal request for transport
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves animal speech and transport, but it is unclear whether
+    the animal is helper, trickster, passenger, or test figure.
+  cautions: Could fit animal_helpers under divine_intervention, magical_animal_mount
+    under shapeshifter, sacred_exchange if aid is reciprocal, or be an over-specific
+    tale sequence.
+  suggested_aliases:
+  - animal requests transport
+  - repeated requests by animal for transport
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - shapeshifter
+    - sacred_exchange
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-boundary-river-crossing-at-the-start-of-campaigns
+  motif_id: repeated_boundary_river_crossing_at_the_start_of_campaigns
+  label: Repeated boundary-river crossing at the start of campaigns
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A river crossing functions as boundary passage at the beginning of martial
+    expeditions, aligning with passage through water.
+  cautions: Because the crossings start campaigns, sacred_combat may be an important
+    secondary context; do not treat as flood_and_renewal unless catastrophe and world
+    renewal are present.
+  suggested_aliases:
+  - boundary river crossing before campaign
+  - campaign-opening river crossing
+  - martial boundary-river crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-circumambulation-with-survival-question
+  motif_id: repeated_circumambulation_with_survival_question
+  label: repeated circumambulation with survival question
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Circumambulation may be ritual, ordeal, or narrative formula, but the
+    survival-question function is unclear.
+  cautions: Potentially sacred_exchange, initiation, sacred_law, or a passage-specific
+    dialogue pattern; culturally specific ritual context should be reviewed before
+    mapping.
+  suggested_aliases:
+  - circumambulation with survival question
+  - repeated circling and survival question
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_law
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-courtship-visits-delayed-by-magical-deception
+  motif_id: repeated_courtship_visits_delayed_by_magical_deception
+  label: Repeated courtship visits delayed by magical deception
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Courtship attempts obstructed by magical deception fit love or bride-seeking
+    narratives within sacred_love.
+  cautions: If the deception is the main motif, trickster may be secondary; if the
+    visits are a quest sequence, hero_journey may also apply.
+  suggested_aliases:
+  - courtship visits delayed by deception
+  - magically delayed courtship visits
+  - deceptive delay of courtship journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-deceptive-request-for-troops-followed-by-their-destruction
+  motif_id: repeated_deceptive_request_for_troops_followed_by_their_destruction
+  label: repeated deceptive request for troops followed by their destruction
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceptive request that lures troops to destruction fits the existing
+    trickster/deceptive war stratagem complex.
+  cautions: Because the victims are troops, sacred_combat is a strong secondary context;
+    if the focus is betrayal of alliance, consider betrayal_violated_trust or covenant.
+  suggested_aliases:
+  - deceptive request for troops
+  - troops destroyed through deceptive summons
+  - deceptive military request leading to destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - betrayal_violated_trust
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-escape-through-delaying-request
+  motif_id: repeated_escape_through_delaying_request
+  label: repeated escape through delaying request
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Escape by making delaying requests is a deception and boundary-crossing
+    strategy consistent with trickster escape patterns.
+  cautions: If the scene is a captivity ordeal rather than deception, hero_journey
+    or initiation may be secondary; recurrence of the formula alone should not be
+    overpromoted.
+  suggested_aliases:
+  - escape by delaying request
+  - delaying request enables escape
+  - repeated delay tactic for escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-household-questioning-of-a-grieving-maiden
+  motif_id: repeated_household_questioning_of_a_grieving_maiden
+  label: repeated household questioning of a grieving maiden
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core image is a grieving figure repeatedly questioned within a household,
+    fitting lament and mourning more than journey structure.
+  cautions: May be a poetic dialogue formula or domestic narrative detail; if grief
+    concerns lost love or bride separation, sacred_love may be secondary.
+  suggested_aliases:
+  - household questioning of grieving maiden
+  - grieving maiden questioned repeatedly
+  - repeated questioning of a mourning maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and include 'repeated', which may indicate
+  formulaic narration rather than a durable motif; preserve source evidence and avoid
+  overpromoting recurrence wording.
+- Animal-centered journey labels need source review because existing groups distinguish
+  animal helpers, trickster animals, magical mounts, and formulaic fable headings.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; high-context single-occurrence labels should
+    be checked against passages before taxonomy updates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0597
+  input_sha256: e1e710a140940c946c9152bf66e0b0b03663d68a0085e41f34590a08a764ca67
+

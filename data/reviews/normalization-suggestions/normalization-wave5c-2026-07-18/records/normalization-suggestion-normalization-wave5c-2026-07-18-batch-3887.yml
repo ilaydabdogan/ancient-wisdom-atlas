@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3887
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.repeated-failed-guardians-of-communal-food
+  motif_id: repeated_failed_guardians_of_communal_food
+  label: Repeated failed guardians of communal food
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a tale-sequence formula rather than a stable symbolic
+    motif; communal food could imply sacred exchange, trickster theft, or simple plot
+    repetition.
+  cautions: Single occurrence and culturally specific context; review passage evidence
+    before mapping to sacred_exchange, trickster, or excluding as narrative artifact.
+  suggested_aliases:
+  - failed_food_guardians
+  - communal_food_guardians_fail_repeatedly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-failed-rescue-attempts-before-a-final-helper-appears
+  motif_id: repeated_failed_rescue_attempts_before_a_final_helper_appears
+  label: repeated failed rescue attempts before a final helper appears
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A final effective helper after failed rescues fits supernatural or providential
+    aid if the helper is nonordinary or divinely empowered.
+  cautions: If the helper is ordinary and the emphasis is tale structure, this may
+    be a plot-sequence artifact rather than divine_intervention.
+  suggested_aliases:
+  - failed_rescues_before_final_helper
+  - final_helper_after_failed_rescue_attempts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-fourfold-medicine-pattern
+  motif_id: repeated_fourfold_medicine_pattern
+  label: Repeated fourfold medicine pattern
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label likely involves ritual healing or sacred medicine, but current
+    groups do not clearly distinguish medicine rites from general sacred_law, sacred_substance,
+    or divine_intervention.
+  cautions: Culturally sensitive Indigenous medicine context; do not flatten fourfold
+    structure into generic sacred_substance without source review.
+  suggested_aliases:
+  - fourfold_medicine_pattern
+  - repeated_medicine_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-fourfold-pattern-in-escape-sequence
+  motif_id: repeated_fourfold_pattern_in_escape_sequence
+  label: Repeated fourfold pattern in escape sequence
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a repeated numerical/formal structure in an escape
+    episode rather than a clear symbolic or narrative motif.
+  cautions: If fourfold repetition has explicit ritual-cosmological meaning in the
+    passage, reassess under sacred_time, sacred_law, or initiation.
+  suggested_aliases:
+  - fourfold_escape_sequence
+  - repeated_fourfold_escape_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-fright-by-the-same-supernatural-being
+  motif_id: repeated_fright_by_the_same_supernatural_being
+  label: repeated fright by the same supernatural being
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: low
+  rationale: Repeated fear caused by a supernatural being may function as an encounter
+    with a dangerous liminal figure blocking or testing passage.
+  cautions: Could instead be haunting, trickster intimidation, or episode-specific
+    suspense; source context is needed, especially for Afro-Caribbean spirit categories.
+  suggested_aliases:
+  - supernatural_being_repeatedly_frightens_humans
+  - repeated_fright_by_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-healing-action-with-progressive-sight
+  motif_id: repeated_healing_action_with_progressive_sight
+  label: repeated healing action with progressive sight
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Progressive restoration of sight through repeated healing action fits
+    supernatural healing or guided intervention.
+  cautions: If the focus is ritual technique, shamanic medicine, or visionary perception
+    rather than rescue/healing agency, consider sacred_knowledge or dream_and_vision
+    after review.
+  suggested_aliases:
+  - progressive_restoration_of_sight
+  - repeated_healing_restores_sight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-human-bear-confrontations
+  motif_id: repeated_human_bear_confrontations
+  label: repeated human-bear confrontations
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Human-bear encounters could involve animal helper, adversary, transformation,
+    hunting taboo, or ordinary ordeal; the label gives only recurrence and species.
+  cautions: Review Arctic/Inuit context carefully; bear may be ritually or spiritually
+    significant, but existing groups lack a broad human-animal encounter category.
+  suggested_aliases:
+  - human_bear_encounters
+  - repeated_bear_confrontations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-invitation-opens-a-hidden-nonhuman-town
+  motif_id: repeated_invitation_opens_a_hidden_nonhuman_town
+  label: Repeated invitation opens a hidden nonhuman town
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: high
+  rationale: A hidden nonhuman town made accessible through invitation fits entry
+    into an adjacent enchanted or nonordinary realm.
+  cautions: If the town is an underworld of the dead or a spirit settlement tied to
+    initiation, secondary mapping to descent or initiation may be needed.
+  suggested_aliases:
+  - hidden_nonhuman_town_opened_by_invitation
+  - invitation_to_hidden_nonhuman_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-loss-and-rediscovery-of-civilization
+  motif_id: repeated_loss_and_rediscovery_of_civilization
+  label: Repeated loss and rediscovery of civilization
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: functional_variant
+  confidence: medium
+  rationale: Cycles of losing and rediscovering civilization align with decline-and-renewal
+    across ages or repeated cultural degeneration.
+  cautions: If the emphasis is a culture hero restoring arts or knowledge rather than
+    age-cycle decline, culture_hero or sacred_knowledge may be better.
+  suggested_aliases:
+  - civilization_lost_and_rediscovered
+  - cyclical_loss_and_recovery_of_civilization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-miracle-followed-by-resistant-recognition
+  motif_id: repeated_miracle_followed_by_resistant_recognition
+  label: Repeated miracle followed by resistant recognition
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Miraculous acts that gradually force or fail to secure recognition fit
+    sacred intervention and miracle-working authority.
+  cautions: In Buddhist context, miracle may demonstrate awakening or teaching authority
+    rather than divine action; review for possible sacred_knowledge or theophany placement.
+  suggested_aliases:
+  - miracle_followed_by_resistant_recognition
+  - repeated_miracles_and_delayed_recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels foreground repetition or sequence structure; avoid promoting formal
+  repetition alone as a motif unless the source gives ritual, cosmological, or narrative
+  function.
+- Indigenous and Afro-Caribbean spirit/medicine labels should receive human review
+  for culturally specific meanings before broad normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft placements only; source passage evidence needed for low-confidence
+    and culturally sensitive items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3887
+  input_sha256: ac13870f2e27b900b1bf51ad681cebd068be2ca05dc95268f97b54827f517615
+

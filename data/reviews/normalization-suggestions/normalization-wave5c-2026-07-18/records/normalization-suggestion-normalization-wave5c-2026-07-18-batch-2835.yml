@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2835
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.three-day-ordeal-of-battle
+  motif_id: three_day_ordeal_of_battle
+  label: three-day ordeal of battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A battle sustained as an ordeal fits heroic or ritualized combat more
+    than general initiation.
+  cautions: Single occurrence and time-span detail may be episode-specific; if transformation
+    rather than combat is central, initiation may be a secondary relation.
+  suggested_aliases:
+  - three_day_battle_ordeal
+  - multi_day_battle_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-escalating-labor-tests-during-service
+  motif_id: three_escalating_labor_tests_during_service
+  label: three escalating labor tests during service
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Escalating labor tests function as ordeal or status-testing during service.
+  cautions: Could be a folktale task sequence rather than sacred initiation; service
+    context may also involve covenant, servitude, or bride-winning depending on passage
+    evidence.
+  suggested_aliases:
+  - three_escalating_tasks
+  - three_labor_tests
+  - escalating_service_tasks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-giant-assailants-defeated-by-a-wounded-knight
+  motif_id: three_giant_assailants_defeated_by_a_wounded_knight
+  label: three giant assailants defeated by a wounded knight
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A wounded heroic fighter defeating multiple giant foes fits the heroic
+    warrior overcoming overwhelming enemies.
+  cautions: Highly specific to a scene; preserve wound, number, and giant-assailant
+    details as evidence rather than canonicalizing them.
+  suggested_aliases:
+  - wounded_knight_defeats_multiple_giants
+  - wounded_hero_defeats_giant_assailants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-month-vigil-or-ordeal-inside-the-mound
+  motif_id: three_month_vigil_or_ordeal_inside_the_mound
+  label: Three-month vigil or ordeal inside the mound
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prolonged vigil in an enclosed mound is a threshold ordeal likely tied
+    to transformation or testing.
+  cautions: Mound setting may imply burial, underworld, ancestor contact, or otherworld
+    entry; map to descent only if passage evidence supports a death/underworld function.
+  suggested_aliases:
+  - mound_vigil_ordeal
+  - prolonged_vigil_inside_mound
+  - ordeal_inside_burial_mound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-bounding-victory
+  motif_id: threefold_bounding_victory
+  label: threefold bounding victory
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to determine whether bounding is a combat
+    action, ritual movement, contest outcome, or formulaic wording.
+  cautions: Needs source evidence; avoid mapping solely from the word victory.
+  suggested_aliases:
+  - threefold_leaping_victory
+  - triple_bounding_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-charioteer-skill-test-or-gift-set
+  motif_id: threefold_charioteer_skill_test_or_gift_set
+  label: threefold charioteer skill test or gift set
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label combines a skill test and gift set, which point to different
+    functions: ordeal, martial equipment, or sacred exchange.'
+  cautions: If a chariot or gift object confers power, sacred_treasures or sacred_exchange
+    may fit; if it tests competence, initiation or sacred_combat may fit.
+  suggested_aliases:
+  - charioteer_skill_test
+  - three_charioteer_gifts
+  - threefold_chariot_skill_trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-contest-attempt-ending-in-success
+  motif_id: threefold_contest_attempt_ending_in_success
+  label: threefold contest attempt ending in success
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repeated contest attempts culminating in success function as a trial
+    sequence that proves competence or transforms status.
+  cautions: May be a generic folktale three-attempt structure; if the contest is explicitly
+    martial, sacred_combat may be the better group.
+  suggested_aliases:
+  - three_attempt_contest_success
+  - third_attempt_success_in_contest
+  - threefold_trial_ending_in_success
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-contest-of-lives
+  motif_id: threefold_contest_of_lives
+  label: Threefold contest of lives
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Contest of lives could mean life-stakes combat, exchange of lifespans,
+    resurrection contest, or fate judgment.
+  cautions: Needs passage context before placing under sacred_combat, death_and_transformation,
+    external_soul, or death_by_fate.
+  suggested_aliases:
+  - threefold_life_contest
+  - triple_life_stakes_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-enemy-removal-sequence
+  motif_id: threefold_enemy_removal_sequence
+  label: Threefold enemy-removal sequence
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: Removing enemies in a repeated sequence broadly fits conflict resolution
+    through combat or stratagem.
+  cautions: Could be trickster deception, ritual expulsion, or narrative cleanup rather
+    than combat; review culturally specific source evidence.
+  suggested_aliases:
+  - triple_enemy_removal
+  - three_stage_enemy_removal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-great-contest-across-mythic-religious-and-millennial-time
+  motif_id: threefold_great_contest_across_mythic_religious_and_millennial_time
+  label: Threefold great contest across mythic, religious, and millennial time
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: narrower_than
+  confidence: medium
+  rationale: A great contest spanning cosmic time in Zoroastrian context likely expresses
+    structured opposition between cosmic forces.
+  cautions: If the passage centers on eschatological age structure, world_ages_cosmic_decline
+    or divine_judgment may be secondary; avoid using placement as a transmission claim.
+  suggested_aliases:
+  - threefold_cosmic_contest
+  - cosmic_contest_across_three_times
+  - eschatological_threefold_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Many labels in this batch encode a threefold narrative structure. Treat the number
+  three as an evidence detail unless the passage shows an independent ritual or cosmological
+  significance.
+- Several items are single-occurrence and over-specific; preserve local details in
+  notes rather than promoting new taxonomy families.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; source-context review recommended for
+    compressed or composite contest labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2835
+  input_sha256: df58bcaf6ddaabb2048012d1bc86632100b0f0ee6fb4293ce2fb1b6582dfda61
+

@@ -1,0 +1,334 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3316
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cultural-rupture-through-book-burning-and-forged-restoration
+  motif_id: cultural_rupture_through_book_burning_and_forged_restoration
+  label: cultural rupture through book burning and forged restoration
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines textual destruction, cultural rupture, and restoration by forgery;
+    placement depends on whether the passage treats this as narrative motif, textual
+    history, or polemical commentary.
+  cautions: Single occurrence and likely culturally/contextually sensitive; may be
+    a textual or historiographic artifact rather than a reusable motif.
+  suggested_aliases:
+  - book_burning_and_forged_restoration
+  - textual_destruction_and_restoration
+  - cultural_rupture_by_text_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - _meta_textual
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cultural-transmission-influencing-mythology
+  motif_id: cultural_transmission_influencing_mythology
+  label: cultural transmission influencing mythology
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a transmission or influence claim about mythology
+    rather than a narrative, ritual, or symbolic motif.
+  cautions: Do not use taxonomy placement as evidence for borrowing or contact; preserve
+    only as provenance/commentary if source evidence supports it.
+  suggested_aliases:
+  - mythological_cultural_transmission
+  - cultural_influence_on_mythology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cultural-transmission-of-decorated-object-art
+  motif_id: cultural_transmission_of_decorated_object_art
+  label: cultural transmission of decorated object art
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an art-historical transmission observation, not a motif pattern
+    in the current narrative-symbolic taxonomy.
+  cautions: If a decorated object has sacred power in a passage, index that separately
+    under sacred_treasures or sacred_craft; do not index the transmission claim as
+    a motif.
+  suggested_aliases:
+  - decorated_object_art_transmission
+  - art_style_transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cumulative-chain-of-overcoming-forces
+  motif_id: cumulative_chain_of_overcoming_forces
+  label: Cumulative chain of overcoming forces
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cumulative Tale Chains
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a cumulative narrative structure where successive
+    forces overcome one another, not a specific combat, trickster, or judgment motif.
+  cautions: May be a tale-form/plot structure rather than a mythic motif; human review
+    should decide whether structural tale patterns belong in Pattern Explorer.
+  suggested_aliases:
+  - overcoming_chain
+  - cumulative_overcoming_chain
+  - chain_of_stronger_forces
+  suggested_new_group:
+    id: cumulative_tale_chains
+    label: Cumulative Tale Chains
+    description: Narratives organized by repeated cumulative sequences, such as chains
+      of replacement, compensation, naming, helpers, losses, or escalating powers.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - trickster
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover symbolic functions
+      and some narrative power, but not repeated cumulative chain structure across
+      tale episodes.
+- suggestion_id: normalization.suggestion.cumulative-chain-of-prior-losses-and-replacements
+  motif_id: cumulative_chain_of_prior_losses_and_replacements
+  label: cumulative chain of prior losses and replacements
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cumulative Tale Chains
+  relationship: functional_variant
+  confidence: medium
+  rationale: A repeated sequence of losses and replacements is a cumulative tale-chain
+    structure rather than a sacred-object or death motif.
+  cautions: Single occurrence; verify that the cumulative structure is the recurring
+    motif and not just a plot summary artifact.
+  suggested_aliases:
+  - loss_and_replacement_chain
+  - cumulative_losses_and_replacements
+  - replacement_chain_after_loss
+  suggested_new_group:
+    id: cumulative_tale_chains
+    label: Cumulative Tale Chains
+    description: Narratives organized by repeated cumulative sequences, such as chains
+      of replacement, compensation, naming, helpers, losses, or escalating powers.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups do not clearly capture cumulative
+      repetition as a structural tale pattern.
+- suggestion_id: normalization.suggestion.cumulative-chain-of-reluctant-helpers
+  motif_id: cumulative_chain_of_reluctant_helpers
+  label: cumulative chain of reluctant helpers
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cumulative Tale Chains
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is a repeated helper-chain structure, possibly in a
+    quest or trickster tale, but not reducible to a single existing helper or journey
+    group.
+  cautions: If the passage emphasizes aid by sacred powers, divine_intervention may
+    be a secondary mapping; if it emphasizes quest progress, hero_journey may be secondary.
+  suggested_aliases:
+  - reluctant_helper_chain
+  - chain_of_helpers
+  - cumulative_helpers
+  suggested_new_group:
+    id: cumulative_tale_chains
+    label: Cumulative Tale Chains
+    description: Narratives organized by repeated cumulative sequences, such as chains
+      of replacement, compensation, naming, helpers, losses, or escalating powers.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - hero_journey
+    - trickster
+    - divine_intervention
+    reason_existing_groups_insufficient: Hero_journey and divine_intervention can
+      cover helper functions, but not the cumulative chain form itself.
+- suggestion_id: normalization.suggestion.cumulative-compensation-chain
+  motif_id: cumulative_compensation_chain
+  label: cumulative compensation chain
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cumulative Tale Chains
+  relationship: functional_variant
+  confidence: medium
+  rationale: A compensation chain is a repeated exchange/replacement structure; sacred_exchange
+    is related but too broad if the emphasis is cumulative tale form.
+  cautions: If compensation is ritual or moral reciprocity rather than tale structure,
+    sacred_exchange or covenant may be better.
+  suggested_aliases:
+  - compensation_chain
+  - cumulative_reparation_chain
+  - chain_of_compensation
+  suggested_new_group:
+    id: cumulative_tale_chains
+    label: Cumulative Tale Chains
+    description: Narratives organized by repeated cumulative sequences, such as chains
+      of replacement, compensation, naming, helpers, losses, or escalating powers.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - sacred_exchange
+    - covenant
+    reason_existing_groups_insufficient: Sacred_exchange covers reciprocity but not
+      cumulative chain narration.
+- suggestion_id: normalization.suggestion.cumulative-naming-dialogue
+  motif_id: cumulative_naming_dialogue
+  label: cumulative naming dialogue
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cumulative Tale Chains
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repeated naming dialogue is a cumulative verbal/narrative structure and
+    fits better as a tale-chain pattern than under sacred knowledge alone.
+  cautions: If names have ritual efficacy or secret power, sacred_knowledge or curse_blessing_speech
+    may be important secondary mappings.
+  suggested_aliases:
+  - cumulative_name_dialogue
+  - repeated_naming_exchange
+  - naming_chain_dialogue
+  suggested_new_group:
+    id: cumulative_tale_chains
+    label: Cumulative Tale Chains
+    description: Narratives organized by repeated cumulative sequences, such as chains
+      of replacement, compensation, naming, helpers, losses, or escalating powers.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - sacred_knowledge
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: Current groups cover sacred speech and knowledge,
+      but not cumulative dialogue as a tale structure.
+- suggestion_id: normalization.suggestion.cumulative-replacement-chain
+  motif_id: cumulative_replacement_chain
+  label: cumulative replacement chain
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Cumulative Tale Chains
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is a concise label for the repeated replacement-chain structure
+    seen in cumulative tales.
+  cautions: Could be merged with cumulative_chain_of_prior_losses_and_replacements
+    if both refer to the same local pattern.
+  suggested_aliases:
+  - replacement_chain
+  - chain_of_replacements
+  - cumulative_substitution_chain
+  suggested_new_group:
+    id: cumulative_tale_chains
+    label: Cumulative Tale Chains
+    description: Narratives organized by repeated cumulative sequences, such as chains
+      of replacement, compensation, naming, helpers, losses, or escalating powers.
+    parent_group_ids:
+    - storytelling_as_power
+    related_group_ids:
+    - sacred_exchange
+    reason_existing_groups_insufficient: No existing group directly captures cumulative
+      replacement as narrative form.
+- suggestion_id: normalization.suggestion.cunning-and-outwitting
+  motif_id: cunning_and_outwitting
+  label: cunning and outwitting
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: broader_label
+  confidence: medium
+  rationale: Cunning and outwitting are central trickster or clever-strategy functions
+    already covered by the trickster group.
+  cautions: In Buddhist context this may be moral wisdom, skillful means, or fable
+    instruction rather than trickster transgression; review passage evidence before
+    final mapping.
+  suggested_aliases:
+  - outwitting_by_cunning
+  - clever_outwitting
+  - cunning_strategy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several 'cumulative chain' labels appear to form a coherent structural tale-pattern
+  cluster; consider one review decision for the set rather than separate canonical
+  motifs.
+- Labels containing 'cultural transmission' should remain outside motif-pattern queries
+  unless the passage evidence identifies a narrative object, ritual, or symbol independent
+  of the transmission claim.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; cumulative tale-chain candidate needs human
+    policy decision on whether structural tale forms belong as canonical motif groups.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3316
+  input_sha256: 74f2062b8098c5b99984d3328ded57137bad8f1beac080464180e53cb16a118e
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3598
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.jack-and-the-beanstalk-story-reference
+  motif_id: jack_and_the_beanstalk_story_reference
+  label: Jack and the Beanstalk story reference
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label names a story reference rather than a recurring narrative function
+    or symbolic motif.
+  cautions: If the source passage actually contains beanstalk ascent, giant encounter,
+    theft, or magical plant imagery, index those passage motifs separately.
+  suggested_aliases:
+  - story_reference_to_jack_and_the_beanstalk
+  - jack_and_the_beanstalk_comparative_reference
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jade-placed-in-the-mouth-of-the-deceased
+  motif_id: jade_placed_in_the_mouth_of_the_deceased
+  label: jade placed in the mouth of the deceased
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A mortuary placement of jade in the mouth concerns ritual care of the
+    dead and maintenance of relations with the deceased.
+  cautions: Could also relate to sacred_treasures if jade's protective or power-object
+    function is central, or afterlife_passage if it enables postmortem transit.
+  suggested_aliases:
+  - mortuary_jade_in_the_mouth
+  - jade_mouth_rite_for_the_deceased
+  - funerary_jade_placement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jataka-retelling-with-local-embellishment-and-animistic-layers
+  motif_id: jataka_retelling_with_local_embellishment_and_animistic_layers
+  label: Jataka retelling with local embellishment and animistic layers
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes adaptation, retelling, and interpretive layers rather
+    than a motif within the narrative.
+  cautions: Do not use this as a transmission claim in motif queries; extract concrete
+    narrative motifs from the retelling if present.
+  suggested_aliases:
+  - localized_jataka_retelling
+  - jataka_adaptation_with_local_layers
+  - jataka_textual_reworking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-elder-sisters-murder-youngest-sister
+  motif_id: jealous_elder_sisters_murder_youngest_sister
+  label: jealous elder sisters murder youngest sister
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin murder motivated by jealousy centers on violated familial trust and
+    betrayal.
+  cautions: If the plot emphasizes postmortem transformation, false accusation, or
+    restoration of the victim, add secondary mapping to death_and_transformation or
+    divine_judgment.
+  suggested_aliases:
+  - jealous_sisters_murder_younger_sister
+  - sibling_jealousy_leads_to_murder
+  - elder_sisters_betray_youngest_sister
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-elder-sisters-plot-against-elevated-youngest-sister
+  motif_id: jealous_elder_sisters_plot_against_elevated_youngest_sister
+  label: Jealous elder sisters plot against elevated youngest sister
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Jealous kin plotting against a newly elevated sister is a betrayal within
+    a trusted family bond.
+  cautions: May overlap with royal_legitimacy if elevation concerns marriage or rank,
+    or divine_judgment if the plot leads to moral reversal.
+  suggested_aliases:
+  - jealous_sisters_plot_against_youngest_sister
+  - sibling_rivals_plot_against_elevated_sister
+  - elder_sister_betrayal_of_elevated_youngest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-hidden-watcher-killed-by-mistaken-throw
+  motif_id: jealous_hidden_watcher_killed_by_mistaken_throw
+  label: jealous hidden watcher killed by mistaken throw
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines jealousy, concealment, accidental killing, and mistaken
+    action without enough evidence to identify the dominant motif.
+  cautions: Could be divine_judgment, sacred_love, accidental death, or an episode-specific
+    plot detail; source context is needed before indexing.
+  suggested_aliases:
+  - hidden_jealous_watcher_accidentally_killed
+  - mistaken_throw_kills_hidden_watcher
+  - jealous_spy_killed_by_accident
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-imitation-of-a-marvel-ending-in-disaster
+  motif_id: jealous_imitation_of_a_marvel_ending_in_disaster
+  label: jealous imitation of a marvel ending in disaster
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: alias
+  confidence: high
+  rationale: The group already includes envy or jealous imitation of a beneficent
+    marvel failing disastrously.
+  cautions: If the marvel is a sacred craft or magical object, preserve that local
+    detail as evidence but keep the moral reversal under pride_and_downfall.
+  suggested_aliases:
+  - envious_imitation_of_a_marvel_fails
+  - jealous_imitation_ending_in_disaster
+  - failed_imitation_of_a_marvel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-master-kills-gifted-pupil
+  motif_id: jealous_master_kills_gifted_pupil
+  label: Jealous master kills gifted pupil
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A teacher or master killing a pupil out of jealousy is a betrayal of
+    a protective instructional bond.
+  cautions: Could also support sacred_knowledge if rivalry over skill or knowledge
+    is central, or pride_and_downfall if the master's envy is morally punished.
+  suggested_aliases:
+  - envious_master_kills_gifted_student
+  - teacher_betrays_and_kills_pupil
+  - jealous_teacher_murders_student
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-relative-plots-a-false-hunting-accident
+  motif_id: jealous_relative_plots_a_false_hunting_accident
+  label: jealous relative plots a false hunting accident
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A relative disguising violence as an accident is a kinship betrayal and
+    hostile plot.
+  cautions: May also fit trickster or divine_judgment depending on whether the focus
+    is deception, punishment, or moral reversal.
+  suggested_aliases:
+  - kin_betrayal_by_staged_hunting_accident
+  - jealous_relative_stages_hunting_accident
+  - false_hunting_accident_plot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-rival-s-boat-encounter-and-blood-threat
+  motif_id: jealous_rival_s_boat_encounter_and_blood_threat
+  label: jealous rival’s boat encounter and blood threat
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is highly contextual and mixes rivalry, boat setting, and blood
+    threat without a clear recurring motif function.
+  cautions: Could involve sacred_love, sacred_waters, sacred_combat, or threat speech;
+    passage evidence is needed before mapping.
+  suggested_aliases:
+  - jealous_rival_boat_confrontation
+  - blood_threat_during_boat_encounter
+  - jealous_rival_threatens_bloodshed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several jealousy labels may eventually justify a jealousy/rivalry subgroup, but
+  current occurrences are single and fit existing betrayal or pride/downfall groups
+  provisionally.
+- Story-reference and retelling labels should be treated as textual artifacts unless
+  concrete passage motifs are separately attested.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    mortuary jade practice and over-specific jealousy episodes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3598
+  input_sha256: 9db4fc9b66cae1f147f87a26e50a46f70acd68f20875cb5c55681078a99b28bf
+

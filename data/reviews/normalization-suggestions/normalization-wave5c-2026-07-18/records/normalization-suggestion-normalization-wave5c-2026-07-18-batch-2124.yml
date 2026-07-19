@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2124
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ceremonial-animal-slaughter-for-reception-or-acceptance
+  motif_id: ceremonial_animal_slaughter_for_reception_or_acceptance
+  label: Ceremonial animal slaughter for reception or acceptance
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Animal slaughter performed ceremonially for reception or social acceptance
+    is an offering/exchange rite rather than an animal-transformation motif.
+  cautions: Single occurrence; if the passage emphasizes hospitality more than offering,
+    sacred_exchange or hospitality_test_stranger_guest may be secondary.
+  suggested_aliases:
+  - animal_slaughter_for_reception
+  - ceremonial_slaughter_as_acceptance_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-functions-shaped-by-cultural-background
+  motif_id: ceremonial_functions_shaped_by_cultural_background
+  label: Ceremonial functions shaped by cultural background
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes interpretive context for ceremonies, not a recurring
+    narrative or symbolic motif.
+  cautions: Preserve as a source or analysis note if useful; do not index as an animal
+    or ritual pattern without passage evidence.
+  suggested_aliases:
+  - cultural_background_shaping_ceremony
+  - contextual_ceremonial_function
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-precedence-in-feast-animal-killing-and-distribution
+  motif_id: ceremonial_precedence_in_feast_animal_killing_and_distribution
+  label: Ceremonial precedence in feast animal killing and distribution
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Feast killing and distribution organized by ceremonial precedence centers
+    on ritualized giving, status, and reciprocal social order.
+  cautions: Could also map to sacrifice if the killing is primarily an offering to
+    sacred powers rather than a feast-distribution rule.
+  suggested_aliases:
+  - ritual_feast_distribution_by_rank
+  - ceremonial_precedence_in_animal_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-regalia-restricted-by-paternal-bird-totem
+  motif_id: ceremonial_regalia_restricted_by_paternal_bird_totem
+  label: ceremonial regalia restricted by paternal bird totem
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A restriction on regalia by totemic descent may function as ritual law
+    or kinship-based sacred entitlement.
+  cautions: Culturally specific totemic and lineage rules need source review; could
+    belong under sacred_treasures if regalia power is central, or be too ethnographic
+    as generated.
+  suggested_aliases:
+  - totemic_restriction_on_ceremonial_regalia
+  - bird_totem_regalia_taboo
+  - paternal_totem_regalia_entitlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.challenge-animals-sent-to-demonstrate-transformed-strength
+  motif_id: challenge_animals_sent_to_demonstrate_transformed_strength
+  label: challenge animals sent to demonstrate transformed strength
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animals used to prove or display newly transformed strength fit the transformation
+    complex more than ordinary animal symbolism.
+  cautions: If the animals are opponents or tests rather than transformed forms, initiation
+    or divine_warrior may be more appropriate.
+  suggested_aliases:
+  - animals_sent_as_strength_challenge
+  - transformed_strength_demonstrated_by_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.choice-among-rejected-transformation-forms
+  motif_id: choice_among_rejected_transformation_forms
+  label: choice among rejected transformation forms
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: narrower_than
+  confidence: high
+  rationale: Selecting or rejecting possible bodily forms is a direct variant of shapeshifting
+    and transformation.
+  cautions: Single occurrence; preserve the choice/rejection sequence as evidence
+    detail rather than promoting a new motif.
+  suggested_aliases:
+  - rejected_transformation_forms
+  - choosing_between_possible_forms
+  - selection_of_transformation_form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chosen-animal-singer
+  motif_id: chosen_animal_singer
+  label: Chosen animal singer
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: role_variant
+  confidence: medium
+  rationale: The salient function is an animal designated as singer, aligning with
+    music or song as ritual or supernatural force.
+  cautions: If no supernatural sound power is present, this may be an over-specific
+    ceremonial role and should remain evidence detail.
+  suggested_aliases:
+  - animal_singer
+  - selected_animal_singer
+  - ritual_animal_singer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christological-typology-through-food-gem-and-animal-symbols
+  motif_id: christological_typology_through_food_gem_and_animal_symbols
+  label: Christological typology through food, gem, and animal symbols
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes an exegetical or typological interpretive method
+    rather than a discrete narrative motif.
+  cautions: Individual food, gem, or animal symbols may be indexable separately if
+    passage evidence supports them; do not index the typological method as an animal
+    motif.
+  suggested_aliases:
+  - christological_symbolic_typology
+  - christological_food_gem_animal_typology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.circle-of-singing-animals
+  motif_id: circle_of_singing_animals
+  label: Circle of singing animals
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A collective circle of singing animals foregrounds song and sound performance,
+    possibly ritualized or supernatural.
+  cautions: If the circular formation is the main ritual feature rather than the singing,
+    human review may prefer sacred_time, sacred_exchange, or a local ceremonial note.
+  suggested_aliases:
+  - singing_animals_in_a_circle
+  - animal_song_circle
+  - circular_animal_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.circular-animal-procession
+  motif_id: circular_animal_procession
+  label: Circular animal procession
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe ritual dance/procession, animal ceremony, or
+    a passage-specific staging detail; no existing group captures it cleanly.
+  cautions: Needs source evidence to decide whether the motif is ritual cycle, animal
+    procession, sound/dance, or merely descriptive ceremony detail.
+  suggested_aliases:
+  - animal_procession_in_a_circle
+  - circular_procession_of_animals
+  - ritual_animal_procession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be ceremonial or ethnographic descriptions
+  rather than animal-transformation motifs; human review should verify source context
+  before broad indexing.
+- For Native American Great Lakes animal singing/procession labels, avoid over-normalizing
+  local ceremonial detail unless the passage shows recurring sound-power, procession,
+  or ritual-cycle structure.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages needed for culturally specific
+    ceremonial and totemic labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2124
+  input_sha256: a128297a7d149090e6f6ad071e06aa7fa5e031991656a8714ea34116c34e3d82
+

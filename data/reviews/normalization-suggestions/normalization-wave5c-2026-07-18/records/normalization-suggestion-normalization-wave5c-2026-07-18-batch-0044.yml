@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0044
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.blood-as-proof-of-death
+  motif_id: blood_as_proof_of_death
+  label: blood as proof of death
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Blood functions as evidence or a token confirming death, analogous to
+    identity/proof tokens.
+  cautions: Single occurrence; if the passage centers on mourning or mortuary proof
+    rather than token logic, lament_and_mourning or heroic_funeral_rites may be secondary.
+  suggested_aliases:
+  - blood_token_as_death_proof
+  - blood_as_evidence_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-as-soul-bearing-substance-that-makes-contact-taboo
+  motif_id: blood_as_soul_bearing_substance_that_makes_contact_taboo
+  label: Blood as soul-bearing substance that makes contact taboo
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A taboo governing contact with soul-bearing blood fits sacred law, purity,
+    and spirit-contagion regulation.
+  cautions: Also related to blood_as_life and sacrifice; preserve soul-bearing specificity
+    as evidence detail.
+  suggested_aliases:
+  - blood_as_soul_bearing_taboo_substance
+  - blood_contact_taboo_due_to_soul_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-condition-enables-capture-of-a-spirit-associated-object
+  motif_id: blood_condition_enables_capture_of_a_spirit_associated_object
+  label: Blood condition enables capture of a spirit-associated object
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: The object may be a power object whose capture depends on a ritual blood
+    condition.
+  cautions: Label is highly contextual; could belong to sacred_law, sacred_substance,
+    external_soul, or a local spirit-object complex depending on passage evidence.
+  suggested_aliases:
+  - blood_condition_for_capturing_spirit_object
+  - ritual_blood_condition_enables_capture_of_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-consuming-underworld-figure-with-head-opening-act
+  motif_id: blood_consuming_underworld_figure_with_head_opening_act
+  label: Blood-consuming underworld figure with head-opening act
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label combines a specific figure, action, and underworld context
+    rather than a reusable motif pattern.
+  cautions: If source evidence shows a recurring role, consider afterlife_passage
+    or threshold_guardian for the underworld being, and sacred_substance for blood
+    consumption.
+  suggested_aliases:
+  - blood_drinking_underworld_being
+  - underworld_figure_consumes_blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-enabling-recognition-by-a-ghost
+  motif_id: blood_enabling_recognition_by_a_ghost
+  label: blood enabling recognition by a ghost
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Blood enables interaction with the dead in an underworld or necromantic
+    encounter, fitting afterlife passage/contact rules.
+  cautions: Could also index under sacred_substance because blood acts as an enabling
+    medium, or recognition_tokens_hidden_identity if recognition is the primary function.
+  suggested_aliases:
+  - blood_enables_ghost_recognition
+  - blood_restores_awareness_to_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-feud-vengeance-framed-as-repayment-of-an-unatoned-death
+  motif_id: blood_feud_vengeance_framed_as_repayment_of_an_unatoned_death
+  label: blood-feud vengeance framed as repayment of an unatoned death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Blood-feud vengeance treats violent repayment as a socially charged combat
+    obligation after death.
+  cautions: If legal compensation or moral reckoning is emphasized more than combat,
+    sacred_law, covenant, or divine_judgment may be better secondary mappings.
+  suggested_aliases:
+  - blood_feud_as_repayment_for_unatoned_death
+  - vengeance_for_unatoned_blood_debt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-payment-with-slaves-and-blankets-after-deaths
+  motif_id: blood_payment_with_slaves_and_blankets_after_deaths
+  label: blood payment with slaves and blankets after deaths
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Death compensation by valuables is a social-legal repair of bloodshed,
+    fitting sacred law and social order.
+  cautions: Specific payment items should remain evidence detail; culturally sensitive
+    review needed due to slavery terminology and local legal context.
+  suggested_aliases:
+  - blood_payment_after_death
+  - death_compensation_with_valuables
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-price-compensation-with-shell-valuables
+  motif_id: blood_price_compensation_with_shell_valuables
+  label: Blood-price compensation with shell valuables
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Blood-price compensation is a normative social mechanism for repairing
+    death or injury.
+  cautions: Shell valuables are local evidence detail; if exchange obligation is foregrounded,
+    sacred_exchange may be a secondary mapping.
+  suggested_aliases:
+  - blood_price_compensation
+  - death_compensation_with_shell_valuables
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-tasting-to-avert-illness-and-death
+  motif_id: blood_tasting_to_avert_illness_and_death
+  label: blood tasting to avert illness and death
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Blood is used as a potent ingested substance to avert illness and death.
+  cautions: Could also be sacred_law or sacrifice if framed as taboo, offering, or
+    healing rite; source context should verify ritual function.
+  suggested_aliases:
+  - ritual_blood_tasting_to_avert_death
+  - blood_ingestion_as_protection_from_illness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-token-signaling-death
+  motif_id: blood_token_signaling_death
+  label: blood-token signaling death
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A blood-token operates as a sign or proof communicating that death has
+    occurred.
+  cautions: If the token is magical rather than evidentiary, sacred_treasures or prophecy_divination
+    may be relevant secondary mappings.
+  suggested_aliases:
+  - blood_token_as_death_sign
+  - blood_signaling_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use blood as substance, legal compensation, or evidence;
+  avoid collapsing all blood motifs into sacrifice or blood_as_life without passage
+  context.
+- Single-occurrence and culturally specific legal or ritual terms should be reviewed
+  by humans before canonical promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no transmission claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0044
+  input_sha256: c0ab56a0cf14474d622e1a85550ec7553375d635f7791ed2231a5f13aa80204c
+

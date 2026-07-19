@@ -1,0 +1,311 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0575
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.peaceful-union-through-kinship-and-relocation
+  motif_id: peaceful_union_through_kinship_and_relocation
+  label: Peaceful union through kinship and relocation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kinship alliance, social relocation, and peaceful
+    union without enough evidence to choose journey, covenant, or sacred exchange.
+  cautions: Single occurrence; may be a passage-specific social resolution rather
+    than a recurring motif. Native American Southwest source context should be reviewed
+    before normalizing.
+  suggested_aliases:
+  - kinship_union_through_relocation
+  - peaceful_alliance_by_relocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - covenant
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peer-judgment-in-drinking-fellowship
+  motif_id: peer_judgment_in_drinking_fellowship
+  label: peer judgment in drinking fellowship
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase could indicate mystical companionship, wine symbolism, ethical
+    testing, or social critique; the function is unclear from the label alone.
+  cautions: Sufi drinking imagery may be literal, symbolic, or mystical. Avoid flattening
+    into sacred_substance without passage evidence.
+  suggested_aliases:
+  - judgment_among_drinking_companions
+  - fellowship_judgment_through_wine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - mystical_quest
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.people-without-ships-beside-an-island
+  motif_id: people_without_ships_beside_an_island
+  label: people without ships beside an island
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a scene detail about maritime location and lack of transport
+    rather than a durable symbolic or narrative motif.
+  cautions: If the passage emphasizes marooning, exile, or otherworld isolation, review
+    under hero_journey or otherworld instead.
+  suggested_aliases:
+  - shipless_people_by_island
+  - marooned_without_ships
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perilous-argument-imagined-as-water-crossing-with-miraculous-aid
+  motif_id: perilous_argument_imagined_as_water_crossing_with_miraculous_aid
+  label: perilous argument imagined as water crossing with miraculous aid
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A dangerous argumentative passage is metaphorized as water crossing aided
+    by miracle, fitting water as boundary and transformation image.
+  cautions: Because the crossing may be rhetorical rather than narrative, preserve
+    the argumentative context; do not map to flood_and_renewal.
+  suggested_aliases:
+  - argument_as_perilous_water_crossing
+  - miraculously_aided_water_crossing_as_argument_image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perilous-canoe-journey-marked-by-floating-destructive-substances
+  motif_id: perilous_canoe_journey_marked_by_floating_destructive_substances
+  label: Perilous canoe journey marked by floating destructive substances
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hazardous canoe journey through dangerous waters fits water passage
+    as boundary, peril, and ordeal.
+  cautions: The destructive substances may be locally significant and should be retained
+    as evidence detail. Could also be hero_journey if transformation or quest structure
+    is central.
+  suggested_aliases:
+  - perilous_canoe_water_passage
+  - dangerous_canoe_journey_through_destructive_floating_substances
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perilous-crossing-as-crisis-image
+  motif_id: perilous_crossing_as_crisis_image
+  label: Perilous crossing as crisis image
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A crossing used as an image of crisis fits the broad departure-threshold-trial
+    field, but may be metaphorical rather than narrative.
+  cautions: Confucian context may indicate ethical or political metaphor. If no actual
+    journey or threshold ordeal is present, treat as evidence detail rather than query
+    motif.
+  suggested_aliases:
+  - crisis_as_perilous_crossing
+  - dangerous_crossing_as_crisis_metaphor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perilous-crossing-as-image-of-shared-responsibility
+  motif_id: perilous_crossing_as_image_of_shared_responsibility
+  label: Perilous crossing as image of shared responsibility
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The core may be an ethical-political metaphor of mutual duty rather than
+    a journey motif.
+  cautions: Likely contextual teaching imagery in a Confucian source; review before
+    mapping to hero_journey, sacred_law, or covenant.
+  suggested_aliases:
+  - shared_responsibility_as_perilous_crossing
+  - collective_duty_imaged_as_dangerous_crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perilous-crossing-as-test-of-nerve-and-status
+  motif_id: perilous_crossing_as_test_of_nerve_and_status
+  label: perilous crossing as test of nerve and status
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dangerous crossing that tests courage and status functions as a threshold
+    ordeal.
+  cautions: If the crossing is only a travel hazard, hero_journey or sacred_waters
+    may be secondary; culturally specific status implications need source review.
+  suggested_aliases:
+  - dangerous_crossing_as_status_test
+  - perilous_crossing_tests_courage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perilous-crossing-on-a-living-bridge
+  motif_id: perilous_crossing_on_a_living_bridge
+  label: Perilous crossing on a living bridge
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A living bridge makes the passage itself an animate liminal obstacle
+    or guardian-like threshold.
+  cautions: Could instead fit sacred_craft if the bridge is constructed, or hero_journey
+    if it is simply a travel ordeal; preserve the living-bridge detail.
+  suggested_aliases:
+  - living_bridge_crossing
+  - dangerous_animate_bridge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_craft
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perilous-crossing-over-deep-water
+  motif_id: perilous_crossing_over_deep_water
+  label: Perilous crossing over deep water
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: high
+  rationale: A dangerous crossing over deep water directly matches water as boundary
+    and perilous passage.
+  cautions: Do not infer flood or underworld descent unless the passage supplies catastrophe
+    or postmortem/otherworld travel.
+  suggested_aliases:
+  - dangerous_deep_water_crossing
+  - perilous_water_crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - initiation
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use crossing as metaphor rather than literal travel;
+  human review should distinguish rhetorical teaching image from narrative threshold
+  ordeal.
+- Do not map water-crossing labels to flood_and_renewal unless old-world destruction
+  and renewal are explicit.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence and culturally contextual
+    items require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0575
+  input_sha256: 5ffe2732e64cf1f1bf3761acf9a14478b82b896cc28e9fe179119bd4240d2121
+

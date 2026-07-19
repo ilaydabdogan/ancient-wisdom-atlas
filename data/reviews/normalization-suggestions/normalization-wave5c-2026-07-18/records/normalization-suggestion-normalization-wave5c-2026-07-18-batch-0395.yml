@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0395
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.spousal-devotion-at-the-moment-of-death
+  motif_id: spousal_devotion_at_the_moment_of_death
+  label: spousal devotion at the moment of death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on love or marital devotion persisting at death, fitting
+    sacred love that can face or transcend bodily death.
+  cautions: Single occurrence; if the passage emphasizes funerary duty, mourning,
+    or heroic death rather than love, map secondarily to lament_and_mourning or heroic_funeral_rites.
+  suggested_aliases:
+  - spousal_devotion_at_death
+  - marital_devotion_at_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spousal-ritual-alignment-for-spiritual-existence
+  motif_id: spousal_ritual_alignment_for_spiritual_existence
+  label: Spousal ritual alignment for spiritual existence
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe marital ritual, postmortem status, purity law,
+    or sacred partnership, but the function is unclear without source evidence.
+  cautions: Culturally and ritually specific; review whether it belongs under sacred_law,
+    ancestor_rites, afterlife_passage, sacred_love, or is an over-specific ritual
+    note.
+  suggested_aliases:
+  - spousal_ritual_alignment
+  - marital_ritual_alignment_for_afterlife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spouse-dying-to-accompany-the-dead
+  motif_id: spouse_dying_to_accompany_the_dead
+  label: spouse dying to accompany the dead
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A spouse dying in order to accompany the dead functions as surrender
+    of life in a mortuary or relational rite.
+  cautions: Handle carefully; if the passage emphasizes love beyond death, secondary
+    sacred_love may fit; if it emphasizes funeral custom or memorial order, heroic_funeral_rites
+    or ancestor_rites may be relevant.
+  suggested_aliases:
+  - spousal_death_accompanying_the_dead
+  - widow_or_spouse_accompanies_dead_in_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spouse-watches-for-delayed-return
+  motif_id: spouse_watches_for_delayed_return
+  label: Spouse watches for delayed return
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate marital longing, delayed return from a journey,
+    or mourning for the absent/dead, but the death-related function is not clear.
+  cautions: Could map to sacred_love, hero_journey, return, or lament_and_mourning
+    depending on whether return, absence, death, or devotion is central.
+  suggested_aliases:
+  - spouse_waits_for_delayed_return
+  - watching_for_absent_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.squatting-or-sitting-death-posture-retained-through-mortuary-sequence
+  motif_id: squatting_or_sitting_death_posture_retained_through_mortuary_sequence
+  label: squatting or sitting death posture retained through mortuary sequence
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a mortuary handling sequence preserving the dead
+    body’s posture, fitting ritual care of the dead.
+  cautions: Very specific ethnographic detail; if no ancestor relation or ritual function
+    is present, it may be better preserved as evidence detail rather than a query
+    motif.
+  suggested_aliases:
+  - mortuary_posture_retained
+  - sitting_death_posture_in_mortuary_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stable-spiritual-foundation-withstands-disturbances
+  motif_id: stable_spiritual_foundation_withstands_disturbances
+  label: stable spiritual foundation withstands disturbances
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The phrase reads as an inner-discipline or contemplative stability motif,
+    fitting the mystical quest and interior transformation path.
+  cautions: Review source context; it may be an abstract teaching rather than a narrative
+    motif, and could also fit sacred_knowledge or sacred_law if framed doctrinally.
+  suggested_aliases:
+  - spiritual_stability_withstands_disturbance
+  - stable_inner_foundation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.standing-homes-used-as-a-lure-for-returning-men
+  motif_id: standing_homes_used_as_a_lure_for_returning_men
+  label: standing homes used as a lure for returning men
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Using apparently intact homes as bait suggests deception or lure tactics,
+    which fits the trickster/deceptive stratagem complex better than death itself.
+  cautions: Low confidence because the label is highly contextual; if the homes lure
+    the dead or mark an otherworld threshold, otherworld, restless_dead_haunting_vengeance,
+    or threshold_guardian may fit better.
+  suggested_aliases:
+  - deceptive_homes_lure_returning_men
+  - standing_dwellings_as_lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.standing-stone-as-memorial-for-the-dead
+  motif_id: standing_stone_as_memorial_for_the_dead
+  label: standing stone as memorial for the dead
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A standing stone commemorating the dead is a memorial act within funerary
+    and social remembrance practices.
+  cautions: If the stone is primarily an ancestor cult focus rather than a memorial
+    marker, ancestor_rites may be the better group; if it functions as sacred center,
+    consider axis_mundi secondarily.
+  suggested_aliases:
+  - standing_stone_memorial
+  - stone_memorial_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.standing-stone-memorial-for-absent-corpse
+  motif_id: standing_stone_memorial_for_absent_corpse
+  label: Standing stone memorial for absent corpse
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A memorial substitute for an absent body fits funerary memorialization
+    and social handling of missing remains.
+  cautions: Preserve the absent-corpse specificity as evidence; may overlap with ancestor_rites
+    if the stone becomes a ritual focus for relations with the dead.
+  suggested_aliases:
+  - memorial_stone_for_absent_body
+  - standing_stone_for_missing_corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stars-as-souls-of-great-dead
+  motif_id: stars_as_souls_of_great_dead
+  label: stars as souls of great dead
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The dead becoming or appearing as stars is a postmortem transformation
+    into celestial form.
+  cautions: If the passage emphasizes astral afterlife geography rather than transformation,
+    afterlife_passage may be a secondary mapping; if it explains star origins, cosmic_origin
+    may also be relevant.
+  suggested_aliases:
+  - dead_as_stars
+  - souls_of_the_dead_as_stars
+  - great_dead_become_stars
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence mortuary or spouse-related details;
+  preserve local evidence and avoid promoting granular phrasing without recurrence.
+- Standing-stone memorial labels appear closely related and may be merged as aliases
+  after human review if source evidence confirms equivalent function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific mortuary and Zoroastrian
+    ritual items need source-level confirmation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0395
+  input_sha256: 78e37e838bf136d6cbabcdca410874bc32c33f2acf92d0782e90d990030606bf
+

@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3694
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mortuary-closing-of-eyes-and-nostrils-assigned-to-kin
+  motif_id: mortuary_closing_of_eyes_and_nostrils_assigned_to_kin
+  label: mortuary closing of eyes and nostrils assigned to kin
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A kin-assigned mortuary act fits ritual care of the dead and proper relations
+    between living and dead.
+  cautions: Single occurrence; if the source emphasizes heroic honor or public memorialization,
+    heroic_funeral_rites may be a secondary fit.
+  suggested_aliases:
+  - kin_performs_mortuary_body_closure
+  - closing_the_dead_person_s_eyes_and_nostrils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortuary-destruction-of-the-deceased-s-worn-clothing
+  motif_id: mortuary_destruction_of_the_deceased_s_worn_clothing
+  label: mortuary destruction of the deceased's worn clothing
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Disposal or destruction of a dead person's clothing is a mortuary rite
+    regulating the relation between the living, the dead, and the deceased's remains
+    or possessions.
+  cautions: Could overlap with sacred_law if framed mainly as pollution avoidance
+    or taboo; source context should confirm ritual function.
+  suggested_aliases:
+  - mortuary_destruction_of_deceased_clothing
+  - ritual_disposal_of_dead_person_s_clothing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortuary-disposal-of-the-deceased-s-food-property
+  motif_id: mortuary_disposal_of_the_deceased_s_food_property
+  label: Mortuary disposal of the deceased’s food property
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food property handled after death belongs with ritual care and management
+    of relations between living and dead.
+  cautions: If the act is primarily redistribution among living participants, sacred_exchange
+    may be a useful secondary mapping.
+  suggested_aliases:
+  - mortuary_disposal_of_deceased_food_property
+  - ritual_disposal_of_dead_person_s_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortuary-feast-and-commemorative-pole
+  motif_id: mortuary_feast_and_commemorative_pole
+  label: Mortuary feast and commemorative pole
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The commemorative pole and mortuary feast emphasize public memorialization
+    and funeral honor for the dead.
+  cautions: Culturally specific mortuary practice; avoid flattening local memorial-pole
+    meaning. If the feast is aimed at ancestor feeding or ongoing relations with the
+    dead, ancestor_rites may be secondary.
+  suggested_aliases:
+  - funeral_feast_and_commemorative_pole
+  - mortuary_memorial_pole_with_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortuary-food-abundance-and-feast-display
+  motif_id: mortuary_food_abundance_and_feast_display
+  label: Mortuary food abundance and feast display
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food display in a mortuary setting fits ritual feeding, honoring, or
+    managing obligations around the dead.
+  cautions: If the source stresses competitive wealth display or reciprocal obligations
+    among mourners, sacred_exchange may be relevant.
+  suggested_aliases:
+  - mortuary_feast_display
+  - abundant_funeral_food_display
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortuary-food-redistribution-and-funeral-feast
+  motif_id: mortuary_food_redistribution_and_funeral_feast
+  label: Mortuary food redistribution and funeral feast
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Redistribution of food through a funeral feast centers reciprocal obligation
+    and ritual giving among participants.
+  cautions: Also belongs near ancestor_rites if the food is offered to or shared with
+    the dead; preserve mortuary context in notes.
+  suggested_aliases:
+  - funeral_feast_food_redistribution
+  - mortuary_redistributive_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortuary-holiday-feast
+  motif_id: mortuary_holiday_feast
+  label: Mortuary holiday feast
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A feast tied to death observance fits ritual care and commemoration of
+    the dead or ancestors.
+  cautions: If the key feature is calendrical recurrence, sacred_time may be a secondary
+    mapping. Malagasy mortuary practice should be reviewed with source context.
+  suggested_aliases:
+  - calendrical_mortuary_feast
+  - holiday_feast_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortuary-recitation-on-calendrical-intervals
+  motif_id: mortuary_recitation_on_calendrical_intervals
+  label: Mortuary recitation on calendrical intervals
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Recitations performed for the dead at set intervals are mortuary care
+    maintaining proper relation with the deceased.
+  cautions: Because calendrical timing is explicit, sacred_time may be a secondary
+    query facet; source evidence may also involve afterlife_passage if recitation
+    aids the soul's journey.
+  suggested_aliases:
+  - calendrical_mortuary_recitation
+  - recitation_for_the_dead_at_ritual_intervals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mortuary-wrapping-and-preparation-of-the-body
+  motif_id: mortuary_wrapping_and_preparation_of_the_body
+  label: mortuary wrapping and preparation of the body
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Preparing and wrapping the body is a mortuary rite of care for the dead
+    before burial or disposal.
+  cautions: Culturally specific body-preparation details may be too granular as standalone
+    motifs; if the passage emphasizes burial honors, heroic_funeral_rites may also
+    apply.
+  suggested_aliases:
+  - ritual_preparation_of_the_dead_body
+  - mortuary_body_wrapping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mosaic-rod-as-prefiguration-of-the-cross
+  motif_id: mosaic_rod_as_prefiguration_of_the_cross
+  label: Mosaic rod as prefiguration of the Cross
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes typological interpretation of one sacred object as
+    prefiguring another rather than a portable narrative motif.
+  cautions: If a passage narrates the rod as a power object in its own right, map
+    that evidence separately to sacred_treasures or divine_intervention; do not treat
+    typology itself as transmission evidence.
+  suggested_aliases:
+  - mosaic_rod_typologically_prefigures_the_cross
+  - rod_of_moses_as_cross_prefiguration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence mortuary practice labels. Existing
+  groups can hold them provisionally, but source context should decide whether ancestor_rites,
+  heroic_funeral_rites, sacred_exchange, sacred_time, or sacred_law is primary.
+- Avoid promoting culturally specific mortuary details into new canonical groups unless
+  related labels recur across multiple sources or traditions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific mortuary practices.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3694
+  input_sha256: ec52b556e5669192ddd41e85ae2fbedcc19ee00e25badebbd91df3919f856211
+

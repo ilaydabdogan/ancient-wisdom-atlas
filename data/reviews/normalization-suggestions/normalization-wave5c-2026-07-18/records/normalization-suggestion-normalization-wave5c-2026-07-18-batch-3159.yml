@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3159
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.arms-for-alliance-exchange
+  motif_id: arms_for_alliance_exchange
+  label: arms-for-alliance exchange
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Exchange of arms to create or mark alliance fits reciprocal gift and
+    bond-making patterns.
+  cautions: Could instead belong to covenant, royal legitimacy, or sacred combat if
+    the passage emphasizes binding oath, political authority, or warfare rather than
+    exchange.
+  suggested_aliases:
+  - weapon_exchange_for_alliance
+  - alliance_marked_by_exchange_of_arms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.army-revealed-by-dust-cloud-and-martial-display
+  motif_id: army_revealed_by_dust_cloud_and_martial_display
+  label: Army revealed by dust cloud and martial display
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a battlefield recognition or martial-display detail within
+    combat narrative.
+  cautions: Likely too scene-specific for broad pattern queries unless dust-cloud
+    revelation recurs; could be excluded if merely descriptive battle staging.
+  suggested_aliases:
+  - army_revealed_by_dust_cloud
+  - martial_display_reveals_army
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aromatic-nest-of-the-phoenix
+  motif_id: aromatic_nest_of_the_phoenix
+  label: Aromatic nest of the Phoenix
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Phoenix nest imagery normally supports the bird's death-renewal cycle
+    and transformed return.
+  cautions: If the passage only inventories exotic aromatics or natural history details,
+    preserve as evidence rather than a standalone motif.
+  suggested_aliases:
+  - phoenix_aromatic_nest
+  - fragrant_phoenix_nest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrow-guided-summoning-of-a-monstrous-ally
+  motif_id: arrow_guided_summoning_of_a_monstrous_ally
+  label: arrow-guided summoning of a monstrous ally
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A projectile that summons or guides a supernatural ally fits supernatural
+    aid in human affairs.
+  cautions: Could fit sacred_treasures if the arrow is the power object, sacred_combat
+    if battle function dominates, or trickster if deception is central.
+  suggested_aliases:
+  - summoning_arrow
+  - arrow_summons_monstrous_ally
+  - guided_arrow_calls_supernatural_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.artifact-form-used-to-infer-provenance-or-antiquity
+  motif_id: artifact_form_used_to_infer_provenance_or_antiquity
+  label: artifact form used to infer provenance or antiquity
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes scholarly inference from artifact form, not a narrative
+    or symbolic motif.
+  cautions: Preserve as provenance or material-culture annotation if useful, but exclude
+    from motif pattern searches.
+  suggested_aliases:
+  - artifact_form_as_provenance_evidence
+  - artifact_typology_infers_antiquity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.artifact-resemblance-leading-to-disputed-function
+  motif_id: artifact_resemblance_leading_to_disputed_function
+  label: artifact resemblance leading to disputed function
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an interpretive or archaeological classification issue rather
+    than a mythic motif.
+  cautions: Keep only as a source-critical or artifact-description note; do not use
+    for symbolic pattern matching.
+  suggested_aliases:
+  - disputed_artifact_function_from_resemblance
+  - artifact_resemblance_as_scholarly_problem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.artificial-beautification-with-degrading-substances
+  motif_id: artificial_beautification_with_degrading_substances
+  label: Artificial beautification with degrading substances
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The function is unclear: it may be deception, humiliation, transformation,
+    ritual inversion, or a culturally specific body practice.'
+  cautions: Avoid mapping from wording alone; source context is needed to determine
+    whether this is motif, social commentary, or over-specific episode detail.
+  suggested_aliases:
+  - degrading_substances_used_for_beautification
+  - false_beautification_with_polluting_materials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.artificial-decoys-mislead-a-cannibal-pursuer
+  motif_id: artificial_decoys_mislead_a_cannibal_pursuer
+  label: artificial decoys mislead a cannibal pursuer
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Using decoys to mislead a dangerous pursuer is a deception and escape
+    strategy.
+  cautions: Cannibal-pursuer detail may be important locally; if artificial construction
+    is central, sacred_craft could be a secondary relation.
+  suggested_aliases:
+  - decoys_mislead_pursuer
+  - artificial_decoys_for_escape
+  - decoy_deception_of_cannibal_pursuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.artificial-giant-helper-with-inadequate-heart
+  motif_id: artificial_giant_helper_with_inadequate_heart
+  label: artificial giant helper with inadequate heart
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: An artificial helper belongs with crafted or manufactured life, especially
+    when animation is flawed.
+  cautions: May overlap with sacred_law or sacred_knowledge if the inadequate heart
+    carries moral or animating-soul significance; verify whether it is a generated
+    composite detail.
+  suggested_aliases:
+  - flawed_artificial_giant_helper
+  - artificial_helper_with_inadequate_heart
+  - manufactured_giant_with_flawed_animation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.artificial-skull-or-face-used-to-frighten-wrongdoers-into-better-treatment
+  motif_id: artificial_skull_or_face_used_to_frighten_wrongdoers_into_better_treatment
+  label: artificial skull or face used to frighten wrongdoers into better treatment
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: The fright device functions to correct wrongdoing and restore moral conduct.
+  cautions: If the skull or face is a crafted ritual object, sacred_craft or sacred_treasures
+    may be relevant; if purely a trick, trickster may fit better.
+  suggested_aliases:
+  - frightening_artificial_face_corrects_wrongdoers
+  - artificial_skull_enforces_better_treatment
+  - fear_device_for_moral_correction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several single-occurrence labels are highly contextual; suggested placements should
+  be treated as provisional evidence organization, not taxonomy promotion.
+- Artifact-interpretation labels are best excluded from motif pattern queries as meta
+  or scholarly artifacts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 3159.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3159
+  input_sha256: dd45ada59a40079c7b09f9c7dfc29ab737f6006281f270619d2202316463cd9b
+

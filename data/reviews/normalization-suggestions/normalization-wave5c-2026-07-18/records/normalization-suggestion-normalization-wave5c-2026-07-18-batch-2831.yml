@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2831
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.swallowed-people-released-from-monster-bellies
+  motif_id: swallowed_people_released_from_monster_bellies
+  label: Swallowed people released from monster bellies
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Monster Swallowing and Belly Rescue
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on victims released from inside a monster, a recurrent
+    rescue-from-devouring pattern not cleanly held by sacred_combat alone.
+  cautions: Single occurrence here; review whether the passage emphasizes monster
+    combat, rebirth from ingestion, or rescue episode before adding a group.
+  suggested_aliases:
+  - swallowed_victims_released_from_monster
+  - belly_rescue_from_monster
+  - rescue_from_monster_belly
+  suggested_new_group:
+    id: monster_swallowing_belly_rescue
+    label: Monster Swallowing and Belly Rescue
+    description: Victims are swallowed by a monster or giant creature and later released,
+      rescued, or restored, often by cutting open the monster or defeating it from
+      within or without.
+    parent_group_ids:
+    - divine_warrior
+    - death_and_transformation
+    related_group_ids:
+    - sacred_combat
+    - rebirth_through_ingestion
+    - threshold_guardian
+    reason_existing_groups_insufficient: Existing combat and death-transformation
+      groups cover adjacent functions but do not preserve the distinctive swallowed-victims/belly-rescue
+      structure.
+- suggestion_id: normalization.suggestion.swallowed-victims-rescued-by-cutting-open-the-monster
+  motif_id: swallowed_victims_rescued_by_cutting_open_the_monster
+  label: Swallowed victims rescued by cutting open the monster
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Monster Swallowing and Belly Rescue
+  relationship: child
+  confidence: medium
+  rationale: This is a specific rescue mechanism within the swallowed-victims monster-belly
+    pattern.
+  cautions: If the source stresses heroic monster-slaying more than victim release,
+    sacred_combat or divine_warrior may be a secondary mapping.
+  suggested_aliases:
+  - cutting_open_monster_releases_victims
+  - victims_released_from_monster_belly
+  - monster_belly_cut_open_rescue
+  suggested_new_group:
+    id: monster_swallowing_belly_rescue
+    label: Monster Swallowing and Belly Rescue
+    description: Victims are swallowed by a monster or giant creature and later released,
+      rescued, or restored, often by cutting open the monster or defeating it from
+      within or without.
+    parent_group_ids:
+    - divine_warrior
+    - death_and_transformation
+    related_group_ids:
+    - sacred_combat
+    - rebirth_through_ingestion
+    - threshold_guardian
+    reason_existing_groups_insufficient: Existing combat and death-transformation
+      groups cover adjacent functions but do not preserve the distinctive swallowed-victims/belly-rescue
+      structure.
+- suggestion_id: normalization.suggestion.swallowed-weapon-used-in-revenge
+  motif_id: swallowed_weapon_used_in_revenge
+  label: swallowed weapon used in revenge
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: The label describes a violent revenge tactic using a concealed or swallowed
+    weapon, fitting combat/vengeance more than a sacred object group.
+  cautions: Highly specific and context-dependent; could involve trickster deception,
+    bodily concealment, or revenge narrative rather than a durable motif.
+  suggested_aliases:
+  - concealed_swallowed_weapon
+  - swallowed_weapon_as_revenge_device
+  - revenge_by_hidden_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.swarming-defenders-compared-to-wasps
+  motif_id: swarming_defenders_compared_to_wasps
+  label: swarming defenders compared to wasps
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a battle simile or poetic description rather than a standalone
+    narrative motif.
+  cautions: If the passage gives defenders actual wasp-form or supernatural insect
+    agency, review under shapeshifter or divine_intervention instead.
+  suggested_aliases:
+  - defenders_like_wasps
+  - wasp_swarm_battle_simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sympathetic-dietary-influence-on-wounded-game
+  motif_id: sympathetic_dietary_influence_on_wounded_game
+  label: Sympathetic dietary influence on wounded game
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A dietary observance affecting hunted game fits taboo, ritual regulation,
+    and sympathetic magic already folded under sacred_law.
+  cautions: Culturally specific hunting practice; review source evidence and avoid
+    overgeneralizing as combat or sacrifice unless offering/kill ritual is central.
+  suggested_aliases:
+  - sympathetic_hunting_dietary_taboo
+  - diet_affects_wounded_game
+  - hunting_observance_by_diet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sympathetic-war-observance-by-spouses
+  motif_id: sympathetic_war_observance_by_spouses
+  label: sympathetic war observance by spouses
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Spousal observances intended to affect warriors at war fit ritual prohibition
+    and sympathetic sacred law.
+  cautions: May deserve secondary relation to sacred_combat if the war context is
+    structurally important; review culturally specific practice carefully.
+  suggested_aliases:
+  - spousal_war_taboo
+  - sympathetic_observance_for_warriors
+  - spouses_ritually_affect_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tantalising-a-captive-or-enemy-by-eating-in-his-presence
+  motif_id: tantalising_a_captive_or_enemy_by_eating_in_his_presence
+  label: tantalising a captive or enemy by eating in his presence
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe humiliation of a captive, food deprivation, enemy
+    taunting, or a passage-specific episode.
+  cautions: No existing group cleanly covers captive humiliation by eating; do not
+    map to sacred_exchange unless hospitality or reciprocity is explicit.
+  suggested_aliases:
+  - eating_before_captive_as_taunt
+  - captive_tantalized_by_food
+  - enemy_humiliated_by_eating_display
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tathagata-cannot-be-killed-by-violence
+  motif_id: tathagata_cannot_be_killed_by_violence
+  label: Tathagata cannot be killed by violence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif asserts a sacred figure's resistance to violent killing, fitting
+    the broader invulnerability complex.
+  cautions: This may be doctrinal or hagiographic rather than a hidden-weakness pattern;
+    review whether it is metaphysical immunity, fate, or nonviolence teaching.
+  suggested_aliases:
+  - buddha_cannot_be_killed_by_violence
+  - sacred_teacher_invulnerable_to_violence
+  - holy_figure_not_killable_by_force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taunt-or-challenge-escalates-into-group-combat
+  motif_id: taunt_or_challenge_escalates_into_group_combat
+  label: taunt or challenge escalates into group combat
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A verbal challenge provoking wider fighting fits existing sacred_combat
+    aliases around taunts, flyting, and combat escalation.
+  cautions: If the passage emphasizes performative curse or oath rather than battle
+    escalation, curse_blessing_speech may be a secondary relation.
+  suggested_aliases:
+  - challenge_escalates_to_battle
+  - taunt_provokes_group_combat
+  - verbal_challenge_starts_fight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taunt-provokes-weapon-attack-and-heroic-evasion
+  motif_id: taunt_provokes_weapon_attack_and_heroic_evasion
+  label: taunt provokes weapon attack and heroic evasion
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Taunting that provokes an attack and displays heroic evasion is a combat-challenge
+    episode within sacred_combat.
+  cautions: The evasion detail may be episode-specific; preserve as evidence rather
+    than creating a separate motif unless it recurs.
+  suggested_aliases:
+  - taunt_provokes_attack
+  - hero_evades_weapon_after_taunt
+  - provoked_weapon_attack_evasion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and conflict-contextual; suggestions are provisional
+  and should be checked against passage evidence.
+- The two swallowed-victim labels may justify a durable monster-belly rescue group
+  if similar labels recur across batches.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2831
+  input_sha256: 3722ae2c8771558a33fe715f70023ae2d44296e2eedcabd6ae4e1361336858a6
+

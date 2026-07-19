@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1864
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-aid-at-a-well-before-settlement-and-marriage
+  motif_id: heroic_aid_at_a_well_before_settlement_and_marriage
+  label: heroic aid at a well before settlement and marriage
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Aid at a well leading toward settlement and marriage fits courtship or
+    marriage-establishment patterns already under sacred_love.
+  cautions: Well setting may also indicate sacred_waters or hospitality depending
+    on passage evidence; single occurrence is fairly contextual.
+  suggested_aliases:
+  - well encounter before marriage
+  - courtship aid at a well
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-bridegrooms-as-an-animal-herd
+  motif_id: heroic_bridegrooms_as_an_animal_herd
+  label: Heroic bridegrooms as an animal herd
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe bridegroom competition, animal transformation,
+    or a poetic/catalogue image, and the narrative function is unclear.
+  cautions: Could map to sacred_love if it concerns bride choice, shapeshifter if
+    literal animal form, or be excluded if only a descriptive simile.
+  suggested_aliases:
+  - animal herd of bridegrooms
+  - bridegrooms compared to animal herd
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-character-catalogue-of-sons
+  motif_id: heroic_character_catalogue_of_sons
+  label: Heroic character catalogue of sons
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A catalogue of sons sounds like a genealogical or textual list rather
+    than a recurring symbolic motif.
+  cautions: If the sons establish peoples, dynasties, or succession claims, royal_legitimacy
+    or cosmic_origin may be relevant instead.
+  suggested_aliases:
+  - catalogue of heroic sons
+  - genealogical catalogue of sons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-feat-followed-by-marriage-consent
+  motif_id: heroic_feat_followed_by_marriage_consent
+  label: heroic feat followed by marriage consent
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: high
+  rationale: A feat securing marriage consent closely matches bride-winning and marriage-choice
+    patterns already grouped under sacred_love.
+  cautions: If the feat is primarily an initiation ordeal or combat test, initiation
+    or sacred_combat may be useful secondary context.
+  suggested_aliases:
+  - bride-winning feat
+  - heroic feat wins marriage consent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-generosity-set-against-religious-condemnation
+  motif_id: heroic_generosity_set_against_religious_condemnation
+  label: Heroic generosity set against religious condemnation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label contrasts heroic ethics and religious judgment, but does not
+    reveal whether the key motif is generosity, condemnation, or cultural commentary.
+  cautions: May fit sacred_exchange, sacred_law, divine_judgment, or be a passage-specific
+    interpretive artifact; review source evidence.
+  suggested_aliases:
+  - heroic generosity under religious judgment
+  - generosity condemned by religious authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-invulnerability-comparison-applied-to-socrates
+  motif_id: heroic_invulnerability_comparison_applied_to_socrates
+  label: heroic invulnerability comparison applied to Socrates
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase names a comparative application to Socrates rather than an
+    actual narrative motif of invulnerability.
+  cautions: If a passage explicitly presents bodily weapon-resistance or a hidden
+    weakness, map that evidence to conditional_invulnerability_hidden_weakness instead.
+  suggested_aliases:
+  - invulnerability comparison applied to Socrates
+  - Socrates as heroic invulnerability comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-legend-family-likeness-across-related-traditions
+  motif_id: heroic_legend_family_likeness_across_related_traditions
+  label: Heroic legend family likeness across related traditions
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a comparative or classification statement about related traditions,
+    not a motif in a narrative passage.
+  cautions: Do not use as evidence for transmission here; preserve only as provenance
+    or scholarly note if needed.
+  suggested_aliases:
+  - family likeness of heroic legends
+  - comparative heroic legend likeness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-rescue-followed-by-marriage
+  motif_id: heroic_rescue_followed_by_marriage
+  label: Heroic rescue followed by marriage
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: high
+  rationale: Rescue culminating in marriage fits bride-winning and love/union as reward
+    patterns under sacred_love.
+  cautions: If the rescue itself dominates the episode, hero_journey or divine_warrior
+    may be relevant secondary mappings.
+  suggested_aliases:
+  - rescue leading to marriage
+  - hero wins spouse through rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-self-boast-before-beloved-or-spouse
+  motif_id: heroic_self_boast_before_beloved_or_spouse
+  label: heroic self-boast before beloved or spouse
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Heroic boasting is already treated as a combat-related speech pattern;
+    the beloved/spouse audience is a contextual variant.
+  cautions: If the boast functions primarily as courtship or marital display rather
+    than martial challenge, sacred_love may be a better secondary group.
+  suggested_aliases:
+  - boast before beloved
+  - heroic boast before spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-spouse-surpasses-warrior-wife-leading-to-renunciation
+  motif_id: heroic_spouse_surpasses_warrior_wife_leading_to_renunciation
+  label: heroic spouse surpasses warrior wife, leading to renunciation
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marriage rivalry, warrior status, and renunciation,
+    and the dominant motif is unclear.
+  cautions: Could fit sacred_love, renunciation under mystical_quest/sacred_exchange,
+    or divine_warrior depending on whether marital, ascetic, or heroic status is central.
+  suggested_aliases:
+  - spouse surpasses warrior wife
+  - renunciation after marital superiority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; preserve
+  local evidence rather than promoting new taxonomy nodes.
+- Bride-winning and marriage-after-feat labels can generally sit under sacred_love,
+  but combat or initiation functions may warrant secondary review mappings.
+- Labels explicitly about comparison across traditions or application to a named philosopher
+  are better excluded from motif pattern queries as meta-textual artifacts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    ambiguous love/heroic-status composites.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1864
+  input_sha256: d94ee00e93da0899193f373e495583c11b42ffe1ef49116e700bbe09b4ceb1c0
+

@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0200
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ghost-song-of-sadness
+  motif_id: ghost_song_of_sadness
+  label: ghost song of sadness
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: uncertain
+  confidence: low
+  rationale: A sad ghost song may function as mourning or postmortem lament, but the
+    label gives little narrative context.
+  cautions: Culturally specific song/ritual material and single occurrence; verify
+    whether this is a ritual song, apparition episode, or generated description before
+    indexing.
+  suggested_aliases:
+  - ghost lament
+  - ghostly mourning song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghost-vision-society-and-dance
+  motif_id: ghost_vision_society_and_dance
+  label: Ghost-vision society and dance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ghost vision, society, and dance, suggesting ritual
+    or institutional context not captured by a single existing group.
+  cautions: Culturally sensitive ceremonial material; do not flatten into dream/vision
+    or ancestor rites without source evidence and specialist review.
+  suggested_aliases:
+  - ghost vision dance
+  - ghost society ritual dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghostly-animal-procession-leaving-signs-but-no-footprints
+  motif_id: ghostly_animal_procession_leaving_signs_but_no_footprints
+  label: ghostly animal procession leaving signs but no footprints
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: A ghostly procession leaving anomalous traces reads as an apparition
+    or altered-perception sign, but the function is unclear.
+  cautions: Highly specific single-occurrence label; could be haunting, omen, animal-spirit
+    procession, or passage artifact.
+  suggested_aliases:
+  - ghostly animal procession
+  - apparitional animal procession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghostly-disturbance-following-a-death
+  motif_id: ghostly_disturbance_following_a_death
+  label: ghostly disturbance following a death
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: high
+  rationale: A disturbance following death fits the active or unresolved dead causing
+    haunting after death.
+  cautions: Confirm whether the disturbance is attributed to the dead rather than
+    mourning behavior, ritual impurity, or natural events.
+  suggested_aliases:
+  - postmortem haunting disturbance
+  - ghost disturbance after death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghostly-relative-apparition-at-a-water-source
+  motif_id: ghostly_relative_apparition_at_a_water_source
+  label: Ghostly relative apparition at a water source
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core motif is an apparition of a dead relative, which fits active
+    dead or haunting; the water source is setting detail.
+  cautions: If the water source marks a boundary or afterlife passage, sacred_waters
+    may be a secondary mapping; preserve local context.
+  suggested_aliases:
+  - dead relative apparition
+  - ghost apparition at water source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghostly-warning-before-escape
+  motif_id: ghostly_warning_before_escape
+  label: ghostly warning before escape
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ghost gives warning or guidance that enables escape, matching supernatural
+    intervention in human affairs.
+  cautions: Could also fit restless_dead_haunting_vengeance if the ghost's unresolved
+    postmortem agency is central, or prophecy_divination if the warning is predictive.
+  suggested_aliases:
+  - ghost warning
+  - dead spirit warns before escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghosts-materializing-as-human-like-spouses-and-commensals
+  motif_id: ghosts_materializing_as_human_like_spouses_and_commensals
+  label: Ghosts materializing as human-like spouses and commensals
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: Ghosts taking ordinary social roles suggests an otherworldly community
+    or dead-human interaction, but the motif is composite.
+  cautions: Culturally specific and possibly ceremonial or cosmological; could belong
+    under ancestor_rites, otherworld, restless_dead, or sacred_love depending on evidence.
+  suggested_aliases:
+  - ghost spouses and commensals
+  - human-like social ghosts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghosts-visible-in-dreams-or-to-specialists-and-haunting-death-places
+  motif_id: ghosts_visible_in_dreams_or_to_specialists_and_haunting_death_places
+  label: Ghosts visible in dreams or to specialists and haunting death places
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: medium
+  rationale: The haunting of death places by visible ghosts fits the restless-dead
+    and haunting group.
+  cautions: The dream/specialist visibility component may also require dream_and_vision
+    or ritual-specialist review; label is a compound ethnographic summary.
+  suggested_aliases:
+  - ghosts haunting death places
+  - ghosts visible to specialists
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giant-ancestor-hunts-sea-animals-without-a-canoe
+  motif_id: giant_ancestor_hunts_sea_animals_without_a_canoe
+  label: giant ancestor hunts sea animals without a canoe
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A giant ancestor performing extraordinary hunting may be an ancestral-origin,
+    culture-hero, or local heroic detail, not clearly a death/afterlife motif.
+  cautions: Single, culturally specific label; avoid treating ancestor mention alone
+    as ancestor rites or afterlife evidence.
+  suggested_aliases:
+  - giant ancestral hunter
+  - ancestor hunts sea animals without canoe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giant-eater-and-corpse-stealing-threat
+  motif_id: giant_eater_and_corpse_stealing_threat
+  label: giant eater and corpse-stealing threat
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: uncertain
+  confidence: low
+  rationale: A threat to steal or consume a corpse may concern protection of the dead
+    body and funerary order.
+  cautions: Could instead be a monster/ogre threat, cannibal danger, or combat episode;
+    existing taxonomy lacks a clear monster-predation group.
+  suggested_aliases:
+  - corpse-stealing giant
+  - corpse-eating threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels involve Indigenous or local ceremonial/ghost traditions and should
+  receive human cultural-context review before canonical mapping.
+- Avoid mapping every ghost label to afterlife_passage; most here concern haunting,
+  apparition, warning, or ritual/social relations with ghosts rather than a mapped
+  postmortem journey.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; source evidence needed for compound
+    and culturally sensitive ghost/ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0200
+  input_sha256: 9e595b792211170b3b4ed313bb838923368e5b4e1a3301f7d4f954e47e39a8aa
+

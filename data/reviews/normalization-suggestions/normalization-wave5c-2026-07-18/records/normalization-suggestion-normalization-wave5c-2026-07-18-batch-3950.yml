@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3950
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.shared-festival-observance-under-political-permission
+  motif_id: shared_festival_observance_under_political_permission
+  label: Shared festival observance under political permission
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve sacred time, sacred law, or political permission, but the
+    label is contextual and single-occurrence.
+  cautions: May be historical/social context rather than a reusable motif; source
+    evidence needed before mapping.
+  suggested_aliases:
+  - festival_observance_under_political_permission
+  - politically_permitted_festival_observance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-fortune-and-patrimony-transfer-among-kin
+  motif_id: shared_fortune_and_patrimony_transfer_among_kin
+  label: shared fortune and patrimony transfer among kin
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Kin inheritance could be social order, sacred exchange, or narrative
+    property transfer depending on passage function.
+  cautions: Likely too legal/contextual unless tied to sacred kinship obligation,
+    succession, or fate; review source context.
+  suggested_aliases:
+  - patrimony_transfer_among_kin
+  - kin_shared_fortune_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-generative-multiplication-formula
+  motif_id: shared_generative_multiplication_formula
+  label: Shared generative multiplication formula
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A generative multiplication formula in Hermetic material likely concerns
+    creation, emanation, or cosmological generation.
+  cautions: If it is only a textual formula or editorial pattern, exclude as meta-textual;
+    verify whether it describes cosmogenesis.
+  suggested_aliases:
+  - generative_multiplication_formula
+  - cosmic_generation_by_multiplication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-injury-by-a-royal-antagonist
+  motif_id: shared_injury_by_a_royal_antagonist
+  label: Shared injury by a royal antagonist
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names an antagonist role and injury event, but not a clear
+    mythic function.
+  cautions: May map to divine_judgment, royal_legitimacy, sacred_combat, or betrayal
+    depending on whether the injury drives ordeal, injustice, or combat.
+  suggested_aliases:
+  - injury_by_royal_antagonist
+  - royal_antagonist_injures_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-lullaby-variant-across-nearby-chippewa-communities
+  motif_id: shared_lullaby_variant_across_nearby_chippewa_communities
+  label: shared lullaby variant across nearby Chippewa communities
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes distribution of a song variant across communities,
+    not a narrative or symbolic motif.
+  cautions: Preserve as transmission or ethnographic provenance note if needed; do
+    not use as evidence for borrowing in this task.
+  suggested_aliases:
+  - lullaby_variant_across_nearby_communities
+  - shared_song_variant_across_communities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-marital-access-bounded-by-exogamy-restrictions
+  motif_id: shared_marital_access_bounded_by_exogamy_restrictions
+  label: Shared marital access bounded by exogamy restrictions
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to describe kinship or marriage regulation rather than a
+    clear motif; sacred law may fit only if ritual/legal force is central.
+  cautions: Culturally sensitive social-structure label; avoid mapping without passage
+    evidence and local terminology review.
+  suggested_aliases:
+  - marital_access_bounded_by_exogamy
+  - exogamy_restrictions_on_marital_access
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-material-culture-inventory
+  motif_id: shared_material_culture_inventory
+  label: Shared material-culture inventory
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase names an inventory or comparative ethnographic list, not a
+    mythic motif.
+  cautions: If individual objects have sacred functions, index those separately under
+    sacred_treasures, sacred_craft, or related groups.
+  suggested_aliases:
+  - material_culture_inventory
+  - shared_ethnographic_inventory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-or-borrowed-tossing-game
+  motif_id: shared_or_borrowed_tossing_game
+  label: shared or borrowed tossing game
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording focuses on shared or borrowed game distribution rather than
+    narrative function.
+  cautions: If a game functions ritually or cosmologically in the passage, review
+    for sacred_time, sacred_law, or prophecy_divination; do not retain borrowing claim
+    as motif placement.
+  suggested_aliases:
+  - tossing_game_distribution
+  - shared_tossing_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-origin-followed-by-geographic-separation
+  motif_id: shared_origin_followed_by_geographic_separation
+  label: shared origin followed by geographic separation
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A common origin followed by separation can function as an etiological
+    origin of peoples or social geography.
+  cautions: If it is only an analyst's comparison of groups, exclude as meta-textual;
+    source should show a narrative origin-and-separation pattern.
+  suggested_aliases:
+  - common_origin_followed_by_geographic_separation
+  - origin_of_peoples_followed_by_separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-origin-place-for-calako-in-hopi-and-zuni-legends
+  motif_id: shared_origin_place_for_calako_in_hopi_and_zuni_legends
+  label: Shared origin place for Calako in Hopi and Zuni legends
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to a sacred origin place, but it also names specific
+    traditions and a local figure/entity.
+  cautions: Culturally sensitive and highly specific; may be provenance/comparative
+    commentary rather than motif. Review with source and preferred cultural terminology.
+  suggested_aliases:
+  - shared_origin_place_for_calako
+  - calako_origin_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels beginning with 'shared' appear to describe comparative distribution,
+  transmission, or ethnographic classification rather than reusable motifs; these
+  should be reviewed carefully before pattern indexing.
+- No placement here should be treated as evidence of borrowing, contact, or common
+  origin.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for wave5c batch 3950; source passage
+    review required for low-confidence and culturally specific items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3950
+  input_sha256: d79b3b7280558559f8d7a6b7097aab44ee9a7a90e8e88048c069ef0c5626df99
+

@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3933
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.secret-infiltration-of-an-inaccessible-stronghold
+  motif_id: secret_infiltration_of_an_inaccessible_stronghold
+  label: secret infiltration of an inaccessible stronghold
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Secret entry into a defended stronghold is a warfare or raiding stratagem,
+    fitting the existing sacred_combat cluster better than a journey motif.
+  cautions: Single occurrence and may be an episode-specific plot device; if no combat,
+    raid, or heroic conflict function is present, treat as evidence detail.
+  suggested_aliases:
+  - stealth_infiltration_of_stronghold
+  - secret_entry_into_enemy_fortress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-killing-plot-timed-for-leaders-absence
+  motif_id: secret_killing_plot_timed_for_leaders_absence
+  label: secret killing plot timed for leaders' absence
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed murder plot timed to exploit a leader's absence centers on
+    treachery and violated social trust.
+  cautions: Could also be a sacred_combat stratagem if embedded in warfare; verify
+    whether betrayal rather than tactical ambush is the main function.
+  suggested_aliases:
+  - secret_assassination_plot_during_leader_absence
+  - treacherous_killing_planned_for_absent_leader
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-magnificent-church-appearance-mistaken-for-royalty
+  motif_id: secret_magnificent_church_appearance_mistaken_for_royalty
+  label: secret magnificent church appearance mistaken for royalty
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes concealment, sacred space, magnificent appearance, and
+    mistaken royal identity without enough evidence for a stable motif placement.
+  cautions: May be a hidden-identity recognition scene, royal-legitimacy imagery,
+    church theophany, or merely an episode-specific description; source context is
+    needed.
+  suggested_aliases:
+  - hidden_magnificent_appearance_mistaken_for_royalty
+  - secret_church_appearance_with_royal_misrecognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-medicine-alliance-and-destructive-ceremonial-dance
+  motif_id: secret_medicine_alliance_and_destructive_ceremonial_dance
+  label: Secret medicine alliance and destructive ceremonial dance
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording appears culturally specific and combines ritual society,
+    medicine power, alliance, and destructive dance.
+  cautions: Review with source evidence and culturally sensitive terminology; could
+    involve sacred_law, sacrifice, divine_intervention, or sacred_combat, but the
+    current label is too composite for confident mapping.
+  suggested_aliases:
+  - secret_medicine_society_alliance
+  - destructive_ceremonial_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-meeting-beyond-guarded-access
+  motif_id: secret_meeting_beyond_guarded_access
+  label: secret meeting beyond guarded access
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: low
+  rationale: A clandestine meeting past guarded access often functions in hidden-identity,
+    access-proof, or concealed-encounter plots.
+  cautions: 'Low confidence: if the guarded access is a liminal supernatural threshold,
+    threshold_guardian may fit; if it is court intrigue only, it may be too generic
+    for motif queries.'
+  suggested_aliases:
+  - clandestine_meeting_beyond_guards
+  - secret_access_to_guarded_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-menstrual-blood-practice-for-hunting-success
+  motif_id: secret_menstrual_blood_practice_for_hunting_success
+  label: Secret menstrual-blood practice for hunting success
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a culturally specific ritual or taboo involving menstrual
+    blood and hunting success, requiring careful contextual review.
+  cautions: Do not normalize solely from generated wording; could involve sacred_law,
+    sacred_exchange, blood_as_life, hunting magic, or a local ethnographic detail.
+    Sensitive bodily and Indigenous ritual material needs human review.
+  suggested_aliases:
+  - menstrual_blood_ritual_for_hunting_success
+  - secret_blood_practice_for_hunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-night-or-pre-dawn-approach-by-canoe
+  motif_id: secret_night_or_pre_dawn_approach_by_canoe
+  label: secret night or pre-dawn approach by canoe
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an episode-specific travel or tactical detail rather
+    than a reusable symbolic motif.
+  cautions: If the canoe approach enables a raid, abduction, or liminal water passage,
+    preserve as evidence under sacred_combat or sacred_waters instead of indexing
+    as its own motif.
+  suggested_aliases:
+  - pre_dawn_canoe_approach
+  - secret_night_canoe_arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-of-invulnerability-revealed-or-obtained
+  motif_id: secret_of_invulnerability_revealed_or_obtained
+  label: secret of invulnerability revealed or obtained
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: high
+  rationale: Revealing or obtaining the secret behind invulnerability directly matches
+    the hidden-weakness and conditional-invulnerability complex.
+  cautions: If the secret is an external soul or life-token, add related mapping to
+    external_soul; avoid treating all invulnerability as divine_warrior combat unless
+    combat is central.
+  suggested_aliases:
+  - invulnerability_secret_revealed
+  - hidden_vulnerability_discovered
+  - secret_of_invulnerability_obtained
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-other-than-human-encounter-leading-to-wealth-through-a-tool
+  motif_id: secret_other_than_human_encounter_leading_to_wealth_through_a_tool
+  label: Secret other-than-human encounter leading to wealth through a tool
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An encounter with a nonhuman power that grants wealth through a tool
+    fits supernatural provision or intervention in human affairs.
+  cautions: Review culturally specific meaning of 'other-than-human'; if the tool
+    itself is central, sacred_treasures or sacred_craft may be a secondary mapping.
+  suggested_aliases:
+  - other_than_human_encounter_grants_wealth
+  - supernatural_tool_grants_wealth
+  - secret_nonhuman_helper_bestows_wealth_tool
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-pact-for-vengeance
+  motif_id: secret_pact_for_vengeance
+  label: Secret pact for vengeance
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A pact is a binding agreement, and vengeance links the bond to obligation,
+    retaliation, and social order.
+  cautions: If the plot centers on retaliatory violence rather than binding oath,
+    sacred_combat may be relevant; if treacherous conspiracy dominates, betrayal_violated_trust
+    may be secondary.
+  suggested_aliases:
+  - vengeance_pact
+  - secret_oath_of_vengeance
+  - conspiracy_for_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and begin with 'secret', often
+  marking plot mechanics rather than stable motifs; human review should decide whether
+  to preserve them as evidence notes.
+- No transmission or borrowing claims are implied by these provisional placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for taxonomy review; culturally
+    specific ritual labels require source-sensitive human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3933
+  input_sha256: a00ce015a3ad9e4d0bc600c32bd584b85db2f926bb37493034c85c07264073f8
+

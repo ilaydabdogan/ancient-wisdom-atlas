@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1452
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.song-with-intended-meaning-opposite-direct-translation
+  motif_id: song_with_intended_meaning_opposite_direct_translation
+  label: song with intended meaning opposite direct translation
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns speech or song whose power depends on nonliteral meaning,
+    but the function is unclear from wording alone.
+  cautions: May be a translation/commentary artifact rather than a recurring motif;
+    needs source context and culturally informed review.
+  suggested_aliases:
+  - nonliteral_song_meaning
+  - song_with_inverse_meaning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-with-intended-meaning-opposite-its-direct-translation
+  motif_id: song_with_intended_meaning_opposite_its_direct_translation
+  label: song with intended meaning opposite its direct translation
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: alias
+  confidence: low
+  rationale: Near-duplicate of the inverse-meaning song label; likely belongs with
+    performative or narrative speech if retained.
+  cautions: May be an annotation about translation rather than a motif; consider deduping
+    with song_with_intended_meaning_opposite_direct_translation after evidence review.
+  suggested_aliases:
+  - song_with_intended_meaning_opposite_direct_translation
+  - nonliteral_song_meaning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-as-messages-to-separated-kin
+  motif_id: songs_as_messages_to_separated_kin
+  label: songs as messages to separated kin
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Song functions as communicative transmission across separation, fitting
+    speech or narrative as active power.
+  cautions: If the emphasis is kinship separation rather than song power, preserve
+    as evidence detail rather than a broad pattern.
+  suggested_aliases:
+  - song_message_to_absent_kin
+  - songs_as_kinship_messages
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-as-musical-expression-of-animals
+  motif_id: songs_as_musical_expression_of_animals
+  label: songs as musical expression of animals
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Animal song is a musical or vocal expression with potential nonhuman
+    sacred agency, best held under music and sound power.
+  cautions: If the passage simply identifies animal calls or species behavior, it
+    may be too descriptive for pattern queries; animal-agency context should be checked.
+  suggested_aliases:
+  - animal_song_as_expression
+  - animal_musical_expression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-associated-with-animal-and-bird-figures
+  motif_id: songs_associated_with_animal_and_bird_figures
+  label: songs associated with animal and bird figures
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label links song with animal and bird figures, aligning with the
+    existing music/sound-power group and its animal-summoning children.
+  cautions: Association alone may be descriptive; do not infer enchantment or transformation
+    unless the passage supports it.
+  suggested_aliases:
+  - songs_linked_to_animal_figures
+  - animal_and_bird_song_association
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-associated-with-animals-or-named-beings
+  motif_id: songs_associated_with_animals_or_named_beings
+  label: songs associated with animals or named beings
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Songs tied to animals or named beings fit the broad music/sound-power
+    complex when the song marks nonhuman or sacred agency.
+  cautions: Could be an index heading or cataloging note if it only records association;
+    verify narrative or ritual function.
+  suggested_aliases:
+  - songs_linked_to_animals_or_named_beings
+  - songs_associated_with_animal_and_bird_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-composed-in-dreams
+  motif_id: songs_composed_in_dreams
+  label: Songs composed in dreams
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: The song originates in a dream, so the primary motif is dream-based revelation
+    or inspiration.
+  cautions: May also relate to enchanting_music or sacred_knowledge if the song has
+    ritual efficacy; map secondary only when passage evidence supports it.
+  suggested_aliases:
+  - dream_composed_song
+  - song_received_in_dream
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-concerning-personal-dreams
+  motif_id: songs_concerning_personal_dreams
+  label: songs concerning personal dreams
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explicitly links song to personal dream experience, fitting
+    dream and vision as revelatory content.
+  cautions: If the song is merely autobiographical rather than sacred or visionary,
+    it may be a contextual expressive detail.
+  suggested_aliases:
+  - personal_dream_song
+  - songs_about_personal_dreams
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-learned-from-birds
+  motif_id: songs_learned_from_birds
+  label: Songs learned from birds
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Learning songs from birds frames animals as transmitters of special knowledge
+    or instruction.
+  cautions: Could also belong under enchanting_music if the song's sonic efficacy
+    is central, or under animal-helper traditions if the bird acts as guide.
+  suggested_aliases:
+  - bird_taught_songs
+  - songs_taught_by_birds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-linked-to-reliance-on-supernatural-help
+  motif_id: songs_linked_to_reliance_on_supernatural_help
+  label: songs linked to reliance on supernatural help
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The song appears tied to dependence on supernatural aid, aligning with
+    divine or spirit intervention in human affairs.
+  cautions: If the song itself is the operative power, enchanting_music or curse_blessing_speech
+    may be better; verify whether aid comes from a being, ritual song, or narrator
+    interpretation.
+  suggested_aliases:
+  - song_invoking_supernatural_help
+  - supernatural_help_through_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items concern culturally specific song functions in Indigenous traditions;
+  source context and culturally informed review are important before final normalization.
+- Do not infer transmission or equivalence across traditions from these placements;
+  the suggestions only identify broad query groups.
+- Near-duplicate inverse-translation song labels should be reviewed together for deduplication
+  or exclusion as translation artifacts.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch placement; song, dream, and animal-agency labels require
+    passage-level evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1452
+  input_sha256: 72a6588994cb35ef1a4ea763b78b8ea43a87f4f72a484fd9c809e35eed5c8097
+

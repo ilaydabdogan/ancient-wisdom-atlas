@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0898
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.knot-blowing-as-harmful-ritual-action
+  motif_id: knot_blowing_as_harmful_ritual_action
+  label: Knot-blowing as harmful ritual action
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The harmful ritual act centers on spoken or breath-mediated power that
+    binds or harms, close to curse-like performative speech.
+  cautions: Could also fit sacred_law if the source emphasizes prohibition or apotropaic
+    protection against sorcery; review Islamic source context carefully.
+  suggested_aliases:
+  - harmful_knot_magic
+  - blowing_on_knots_as_curse_rite
+  - ritual_knot_curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.known-writing-but-oral-sacred-transmission
+  motif_id: known_writing_but_oral_sacred_transmission
+  label: Known writing but oral sacred transmission
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns preservation and transmission of sacred knowledge
+    despite available writing.
+  cautions: May be a textual or scholarly observation rather than a narrative motif;
+    exclude if it only describes manuscript/oral history.
+  suggested_aliases:
+  - oral_sacred_transmission_despite_known_writing
+  - oral_preservation_of_sacred_teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lamenting-representative-of-an-oppressed-holy-community
+  motif_id: lamenting_representative_of_an_oppressed_holy_community
+  label: Lamenting representative of an oppressed holy community
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on a representative voice lamenting collective suffering
+    and loss.
+  cautions: If the figure functions primarily as an intercessor, covenant witness,
+    or eschatological agent, divine_judgment or sacred_law may be relevant secondary
+    mappings.
+  suggested_aliases:
+  - collective_lament_of_oppressed_holy_community
+  - representative_lament_for_persecuted_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.land-fertility-withdrawn-through-ritual-transgression
+  motif_id: land_fertility_withdrawn_through_ritual_transgression
+  label: land fertility withdrawn through ritual transgression
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Ritual transgression produces loss of fertility, a moral-ritual consequence
+    imposed through sacred order.
+  cautions: Could also relate to sacred_law if framed as purity violation, or sacred_time/seasonal_cycle
+    if tied to agricultural cycles.
+  suggested_aliases:
+  - fertility_withdrawn_after_ritual_transgression
+  - ritual_transgression_causes_land_barrenness
+  - land_barrenness_as_sacred_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.landscape-and-seasons-personified-as-divine-or-giant-beings
+  motif_id: landscape_and_seasons_personified_as_divine_or_giant_beings
+  label: Landscape and seasons personified as divine or giant beings
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Seasonal personification fits sacred time and cyclical ordering, with
+    landscape imagery as supporting embodiment.
+  cautions: If the emphasis is divine beings as natural phenomena rather than seasons,
+    divine_intervention or cosmic_origin may be better; giant-specific Norse context
+    needs review.
+  suggested_aliases:
+  - seasons_personified_as_divine_beings
+  - landscape_personified_as_giants
+  - seasonal_powers_as_giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.landscape-as-trace-of-divine-speech-or-presence
+  motif_id: landscape_as_trace_of_divine_speech_or_presence
+  label: Landscape as trace of divine speech or presence
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The landscape functions as enduring evidence of divine manifestation
+    or sacred presence.
+  cautions: If the focus is place-origin explanation, cosmic_origin may be better;
+    if speech itself creates or transforms landscape, sacred_knowledge or curse_blessing_speech
+    may be secondary.
+  suggested_aliases:
+  - landscape_marked_by_divine_presence
+  - divine_speech_traced_in_landscape
+  - sacred_presence_inscribed_in_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.large-monastic-company-arriving-from-a-remote-hermitage-for-a-sacred-monument-context
+  motif_id: large_monastic_company_arriving_from_a_remote_hermitage_for_a_sacred_monument_context
+  label: Large monastic company arriving from a remote hermitage for a sacred monument
+    context
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: The label reads as a passage-specific scene setting involving monastics
+    and a monument rather than a reusable symbolic motif.
+  cautions: If repeated evidence shows pilgrimage or relic-shrine assembly, consider
+    sacred_treasures or sacred_geography under axis_mundi; otherwise preserve as source
+    detail only.
+  suggested_aliases:
+  - monastic_company_arrives_at_sacred_monument
+  - remote_hermitage_monastics_at_monument
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lasting-bodily-marks-from-ritual-ordeal
+  motif_id: lasting_bodily_marks_from_ritual_ordeal
+  label: lasting bodily marks from ritual ordeal
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: high
+  rationale: Enduring bodily marks are evidence of a threshold ordeal that changes
+    status or identity.
+  cautions: Could overlap with sacred_law if the marks regulate social order or with
+    divine_judgment if punitive; review culturally specific ritual context sensitively.
+  suggested_aliases:
+  - ritual_ordeal_leaves_bodily_marks
+  - permanent_marks_from_initiatory_ordeal
+  - bodily_signs_of_ritual_trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.late-claimant-receives-a-remaining-divine-domain
+  motif_id: late_claimant_receives_a_remaining_divine_domain
+  label: late claimant receives a remaining divine domain
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Allocation of a divine domain concerns legitimate distribution of rule,
+    status, or sovereignty among sacred claimants.
+  cautions: May be too episode-specific if it only summarizes one mythic allotment;
+    if cosmic partition is emphasized, cosmic_origin or supreme_ruler may be secondary.
+  suggested_aliases:
+  - divine_domain_allotted_to_late_claimant
+  - remaining_domain_assigned_to_divine_claimant
+  - late_claimant_receives_last_sacred_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.latent-shamanic-capacity-marked-by-fits-and-ritual-clothing
+  motif_id: latent_shamanic_capacity_marked_by_fits_and_ritual_clothing
+  label: Latent shamanic capacity marked by fits and ritual clothing
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: uncertain
+  confidence: low
+  rationale: Signs of shamanic vocation may indicate initiatory transformation, but
+    the label combines symptoms, capacity, and ritual costume.
+  cautions: Culturally sensitive and context-dependent; avoid reducing shamanic traditions
+    to generic initiation without source evidence. Could involve divine_call, sacred_knowledge,
+    healing, or spirit-affliction patterns.
+  suggested_aliases:
+  - shamanic_vocation_marked_by_fits_and_costume
+  - latent_shamanic_calling
+  - ritual_clothing_marks_shamanic_capacity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and do not imply historical transmission or borrowing.
+- Several one-occurrence labels are highly contextual; preserve local evidence notes
+  even when mapped to broad groups.
+- Labels involving shamanic practice, Islamic ritual harm, and Indigenous ritual ordeal
+  should receive culturally informed human review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft batch suggestions prepared for taxonomy reviewer validation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0898
+  input_sha256: 900b26bff34a36ad46c6fb76b308fe531f4ec64a315dbbac74b82b4cedc1bf0a
+

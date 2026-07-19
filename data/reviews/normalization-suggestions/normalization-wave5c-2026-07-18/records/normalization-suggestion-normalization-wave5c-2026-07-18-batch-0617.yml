@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0617
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.self-conquest-through-self-directed-violence-after-loss-of-honor
+  motif_id: self_conquest_through_self_directed_violence_after_loss_of_honor
+  label: Self-conquest through self-directed violence after loss of honor
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to suicide, self-punishment, stoic self-mastery,
+    or honor-shame ethics; existing groups do not resolve the function without source
+    context.
+  cautions: Single occurrence and culturally/ethically sensitive self-directed violence;
+    avoid flattening into sacrifice, divine_warrior, or initiation without passage
+    evidence.
+  suggested_aliases:
+  - honor_loss_self_punishment
+  - self_mastery_through_self_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-forgetful-spontaneous-rulership
+  motif_id: self_forgetful_spontaneous_rulership
+  label: self-forgetful spontaneous rulership
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns ideal rulership grounded in self-effacing spontaneity,
+    fitting sacred or ethical kingship more than literal journey.
+  cautions: Daoist non-action may also relate to duality/non_action or sacred_knowledge;
+    preserve the self-forgetful/spontaneous nuance.
+  suggested_aliases:
+  - effortless_self_forgetful_rulership
+  - spontaneous_rule_without_self_assertion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-rule-as-true-kingship-and-happiness
+  motif_id: self_rule_as_true_kingship_and_happiness
+  label: self-rule as true kingship and happiness
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: This is an ethical-philosophical wisdom motif where mastery of the self
+    is figured as true kingship and flourishing.
+  cautions: Could also fit royal_legitimacy if the passage explicitly contrasts political
+    kingship; may be more philosophical than mythic.
+  suggested_aliases:
+  - self_mastery_as_true_kingship
+  - inner_rule_as_happiness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sent-guide-conducts-travelers-to-a-sacred-or-great-assembly
+  motif_id: sent_guide_conducts_travelers_to_a_sacred_or_great_assembly
+  label: sent guide conducts travelers to a sacred or great assembly
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dispatched guide leading travelers to a charged destination fits guided
+    journey or quest structure.
+  cautions: If the assembly is in an otherworld or afterlife, otherworld or afterlife_passage
+    may be better secondary mappings; source context needed.
+  suggested_aliases:
+  - sent_guide_leads_travelers_to_assembly
+  - guided_journey_to_sacred_assembly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separation-of-traveler-from-companions-and-supplies
+  motif_id: separation_of_traveler_from_companions_and_supplies
+  label: separation of traveler from companions and supplies
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Isolation from companions and resources is a common journey ordeal that
+    tests the traveler.
+  cautions: Could be an over-specific travel episode if no transformation, sacred
+    danger, or quest function is present.
+  suggested_aliases:
+  - traveler_isolated_from_companions_and_supplies
+  - journey_orphaning_or_isolation_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separation-of-war-leadership-and-battle-magic
+  motif_id: separation_of_war_leadership_and_battle_magic
+  label: Separation of war leadership and battle magic
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns ritual or magical functions within warfare and their
+    distinction from command authority.
+  cautions: May be ethnographic social organization rather than a narrative motif;
+    review whether battle magic is actually operative in the passage.
+  suggested_aliases:
+  - war_leadership_distinguished_from_battle_magic
+  - separate_roles_of_war_leader_and_war_magician
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequential-conquest-guided-by-a-cake-story-instruction
+  motif_id: sequential_conquest_guided_by_a_cake_story_instruction
+  label: Sequential conquest guided by a cake-story instruction
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines conquest, instruction, and a very specific cake-story
+    detail; the dominant motif is unclear.
+  cautions: May be a passage-specific exemplum or narrative device. Could relate to
+    sacred_knowledge, storytelling_as_power, or sacred_combat depending on evidence.
+  suggested_aliases:
+  - conquest_guided_by_parabolic_instruction
+  - sequential_conquest_instruction_story
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequestered-maiden-protected-from-sun-or-male-access
+  motif_id: sequestered_maiden_protected_from_sun_or_male_access
+  label: Sequestered maiden protected from sun or male access
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern maiden seclusion, sexual protection, solar taboo,
+    puberty ritual, or guarded bride motifs; no existing group captures it cleanly.
+  cautions: Comparative and gendered/ritual-sensitive; source evidence is needed before
+    mapping to sacred_love, sacred_law, miraculous_child, or threshold motifs.
+  suggested_aliases:
+  - maiden_seclusion_from_sun_and_men
+  - guarded_sequestered_maiden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.series-of-enclosed-spaces-in-a-journey
+  motif_id: series_of_enclosed_spaces_in_a_journey
+  label: Series of enclosed spaces in a journey
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: labyrinth_initiation
+  suggested_group_label: Labyrinth Initiation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A journey through successive enclosed spaces resembles a maze-like or
+    enclosed threshold trial that tests orientation and passage.
+  cautions: If the spaces are merely itinerary details rather than a trial or transformation,
+    treat as over-specific evidence under hero_journey instead.
+  suggested_aliases:
+  - journey_through_successive_enclosures
+  - sequential_enclosed_spaces_as_journey_trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.servant-neglects-assigned-quest-for-irrelevant-find
+  motif_id: servant_neglects_assigned_quest_for_irrelevant_find
+  label: Servant neglects assigned quest for irrelevant find
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be a highly contextual quest-failure episode involving
+    a servant and distraction rather than a stable broad motif.
+  cautions: Could fit hero_journey only if the neglected quest has transformative
+    narrative function; may instead be a folktale plot detail or moral exemplum.
+  suggested_aliases:
+  - servant_fails_quest_through_distraction
+  - assigned_quest_neglected_for_irrelevant_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and appear philosophical, ethnographic,
+  or over-specific; suggested placements should be treated as provisional.
+- The review bucket is journey-oriented, but several motifs are better handled as
+  rulership, sacred combat, wisdom, or human-review cases rather than literal journey
+  motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; source passages should be checked before
+    taxonomy updates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0617
+  input_sha256: 0bd438c36c23cfb19f2f6bafd16030b63947d30287b4a72e8a12d4f03643efcd
+

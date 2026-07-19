@@ -1,0 +1,376 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2154
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.etiological-explanation-for-animal-and-landscape-features
+  motif_id: etiological_explanation_for_animal_and_landscape_features
+  label: etiological explanation for animal and landscape features
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Present Traits
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label names an explanatory origin for animal traits and landscape
+    features; existing cosmic_origin covers landscape/place etiology but not recurring
+    animal-trait etiologies well.
+  cautions: Single occurrence and broad generated wording; review whether the passage
+    is a true narrative etiology or just a summary label.
+  suggested_aliases:
+  - animal_trait_etiology
+  - etiology_of_animal_and_landscape_features
+  - animal_and_landscape_origin_explanation
+  suggested_new_group:
+    id: animal_etiology_present_traits
+    label: Animal Etiology and Present Traits
+    description: Narratives explaining why animals have present anatomical features,
+      behaviors, reputations, habitats, limitations, gestures, or avoidance patterns,
+      often through a primordial or exemplary animal action.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_law
+    reason_existing_groups_insufficient: cosmic_origin includes place and landscape
+      etiologies, while trickster and shapeshifter cover roles or transformations;
+      none cleanly groups animal-specific explanations for present traits and behavior.
+- suggestion_id: normalization.suggestion.etiological-explanation-for-animal-behavior
+  motif_id: etiological_explanation_for_animal_behavior
+  label: etiological explanation for animal behavior
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Present Traits
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a direct animal-behavior etiology, a recurrent folktale function
+    not cleanly represented by current groups.
+  cautions: Needs source review to distinguish narrative etiology from a passage-level
+    classifier.
+  suggested_aliases:
+  - animal_behavior_etiology
+  - origin_of_animal_behavior
+  - why_animals_behave_as_they_do
+  suggested_new_group:
+    id: animal_etiology_present_traits
+    label: Animal Etiology and Present Traits
+    description: Narratives explaining why animals have present anatomical features,
+      behaviors, reputations, habitats, limitations, gestures, or avoidance patterns,
+      often through a primordial or exemplary animal action.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_law
+    reason_existing_groups_insufficient: cosmic_origin can hold etiologies generally,
+      but current children emphasize cosmology, places, and peoples rather than animal
+      behavior; trickster is only appropriate when deception or boundary-crossing
+      drives the explanation.
+- suggestion_id: normalization.suggestion.etiological-explanation-for-animal-food-avoidance
+  motif_id: etiological_explanation_for_animal_food_avoidance
+  label: Etiological explanation for animal food avoidance
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Present Traits
+  relationship: narrower_than
+  confidence: medium
+  rationale: Explaining why an animal avoids a food is an animal behavior or taboo-like
+    etiology, not a good fit for existing sacred_law unless it is a human ritual prohibition.
+  cautions: If the passage concerns human dietary taboo rather than animal behavior,
+    sacred_law may be the better placement.
+  suggested_aliases:
+  - animal_food_avoidance_etiology
+  - origin_of_animal_food_avoidance
+  - etiology_of_animal_dietary_avoidance
+  suggested_new_group:
+    id: animal_etiology_present_traits
+    label: Animal Etiology and Present Traits
+    description: Narratives explaining why animals have present anatomical features,
+      behaviors, reputations, habitats, limitations, gestures, or avoidance patterns,
+      often through a primordial or exemplary animal action.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_law
+    reason_existing_groups_insufficient: Existing sacred_law handles human prohibitions
+      and ritual taboos; cosmic_origin handles broad origins but does not preserve
+      animal-specific behavioral etiology.
+- suggestion_id: normalization.suggestion.etiological-explanation-for-animal-habitat-and-avoidance
+  motif_id: etiological_explanation_for_animal_habitat_and_avoidance
+  label: Etiological explanation for animal habitat and avoidance
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Present Traits
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif explains present habitat and avoidance behavior of an animal,
+    aligning with an animal-trait etiology group.
+  cautions: May overlap with landscape etiology or sacred law depending on whether
+    human avoidance rules are involved.
+  suggested_aliases:
+  - animal_habitat_etiology
+  - animal_avoidance_etiology
+  - origin_of_animal_habitat
+  suggested_new_group:
+    id: animal_etiology_present_traits
+    label: Animal Etiology and Present Traits
+    description: Narratives explaining why animals have present anatomical features,
+      behaviors, reputations, habitats, limitations, gestures, or avoidance patterns,
+      often through a primordial or exemplary animal action.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_law
+    reason_existing_groups_insufficient: No existing group specifically collects etiologies
+      for animal habitats and avoidance patterns; mapping only to cosmic_origin would
+      lose the animal-focused function.
+- suggestion_id: normalization.suggestion.etiological-explanation-for-animal-reputation-and-interspecies-behavior
+  motif_id: etiological_explanation_for_animal_reputation_and_interspecies_behavior
+  label: Etiological explanation for animal reputation and interspecies behavior
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Present Traits
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explains present animal reputation and relations between species,
+    a specific animal-etiology function.
+  cautions: If the story turns on deception, predation, or boundary-crossing, trickster
+    may be an additional mapping; current label alone emphasizes etiology.
+  suggested_aliases:
+  - animal_reputation_etiology
+  - interspecies_behavior_etiology
+  - origin_of_animal_reputation
+  suggested_new_group:
+    id: animal_etiology_present_traits
+    label: Animal Etiology and Present Traits
+    description: Narratives explaining why animals have present anatomical features,
+      behaviors, reputations, habitats, limitations, gestures, or avoidance patterns,
+      often through a primordial or exemplary animal action.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_law
+    reason_existing_groups_insufficient: trickster covers many animal-fable reversals,
+      but reputation and interspecies behavior etiologies may arise without trickster
+      action; cosmic_origin is too broad.
+- suggestion_id: normalization.suggestion.etiological-explanation-for-present-animal-behavior
+  motif_id: etiological_explanation_for_present_animal_behavior
+  label: Etiological explanation for present animal behavior
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Present Traits
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a clear generated label for explaining current animal behavior,
+    matching the proposed animal etiology group.
+  cautions: Single occurrence; confirm whether it duplicates etiological_explanation_for_animal_behavior
+    before adding an alias.
+  suggested_aliases:
+  - present_animal_behavior_etiology
+  - animal_behavior_etiology
+  - origin_of_present_animal_behavior
+  suggested_new_group:
+    id: animal_etiology_present_traits
+    label: Animal Etiology and Present Traits
+    description: Narratives explaining why animals have present anatomical features,
+      behaviors, reputations, habitats, limitations, gestures, or avoidance patterns,
+      often through a primordial or exemplary animal action.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups do not preserve the recurring
+      'why this animal now behaves this way' function without over-broad mapping to
+      creation or trickster.
+- suggestion_id: normalization.suggestion.etiological-explanation-from-animal-action
+  motif_id: etiological_explanation_from_animal_action
+  label: etiological explanation from animal action
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Present Traits
+  relationship: narrower_than
+  confidence: medium
+  rationale: An animal action producing an explanatory present condition fits animal
+    etiology; trickster is possible only if the action is deceptive or liminal.
+  cautions: Label is generic and may need passage evidence to identify what feature
+    or condition is explained.
+  suggested_aliases:
+  - animal_action_etiology
+  - etiology_from_animal_deed
+  - animal_deed_explains_present_condition
+  suggested_new_group:
+    id: animal_etiology_present_traits
+    label: Animal Etiology and Present Traits
+    description: Narratives explaining why animals have present anatomical features,
+      behaviors, reputations, habitats, limitations, gestures, or avoidance patterns,
+      often through a primordial or exemplary animal action.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_law
+    reason_existing_groups_insufficient: cosmic_origin would capture etiology generally
+      but not the animal-action mechanism; trickster would over-interpret if no trick
+      or boundary-crossing is present.
+- suggestion_id: normalization.suggestion.etiological-explanation-of-an-animal-gesture
+  motif_id: etiological_explanation_of_an_animal_gesture
+  label: Etiological explanation of an animal gesture
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Present Traits
+  relationship: narrower_than
+  confidence: medium
+  rationale: Explaining an animal gesture is a narrow case of explaining present animal
+    behavior or traits.
+  cautions: Very granular; preserve the gesture detail as evidence rather than promoting
+    it separately.
+  suggested_aliases:
+  - animal_gesture_etiology
+  - origin_of_animal_gesture
+  - etiology_of_present_animal_gesture
+  suggested_new_group:
+    id: animal_etiology_present_traits
+    label: Animal Etiology and Present Traits
+    description: Narratives explaining why animals have present anatomical features,
+      behaviors, reputations, habitats, limitations, gestures, or avoidance patterns,
+      often through a primordial or exemplary animal action.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_law
+    reason_existing_groups_insufficient: Current groups have no stable place for minor
+      animal behavior etiologies except an over-broad cosmic_origin mapping.
+- suggestion_id: normalization.suggestion.etiological-explanation-of-an-animal-s-hunting-limitation
+  motif_id: etiological_explanation_of_an_animal_s_hunting_limitation
+  label: Etiological explanation of an animal's hunting limitation
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Present Traits
+  relationship: narrower_than
+  confidence: medium
+  rationale: A hunting limitation is a present animal capacity or behavior explained
+    by a narrative origin.
+  cautions: If the limitation results from punishment or moral reckoning, divine_judgment
+    could be a secondary interpretive mapping; do not infer that from label alone.
+  suggested_aliases:
+  - animal_hunting_limitation_etiology
+  - origin_of_animal_hunting_limit
+  - animal_limitation_etiology
+  suggested_new_group:
+    id: animal_etiology_present_traits
+    label: Animal Etiology and Present Traits
+    description: Narratives explaining why animals have present anatomical features,
+      behaviors, reputations, habitats, limitations, gestures, or avoidance patterns,
+      often through a primordial or exemplary animal action.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_law
+    reason_existing_groups_insufficient: Neither shapeshifter nor trickster necessarily
+      applies, and cosmic_origin is too broad to preserve animal limitation etiologies.
+- suggestion_id: normalization.suggestion.etiological-explanation-of-animal-anatomy-and-hunter-danger
+  motif_id: etiological_explanation_of_animal_anatomy_and_hunter_danger
+  label: Etiological explanation of animal anatomy and hunter danger
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Present Traits
+  relationship: narrower_than
+  confidence: medium
+  rationale: The animal anatomy component fits animal-trait etiology, with hunter
+    danger as a contextual consequence.
+  cautions: Could involve hunting taboo, animal spirit danger, or sacred law in source
+    context; review before final placement.
+  suggested_aliases:
+  - animal_anatomy_etiology
+  - etiology_of_animal_anatomy_and_hunting_danger
+  - origin_of_animal_feature_and_hunter_risk
+  suggested_new_group:
+    id: animal_etiology_present_traits
+    label: Animal Etiology and Present Traits
+    description: Narratives explaining why animals have present anatomical features,
+      behaviors, reputations, habitats, limitations, gestures, or avoidance patterns,
+      often through a primordial or exemplary animal action.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - sacred_law
+    reason_existing_groups_insufficient: Existing animal-related groups focus on trickster
+      roles or transformation, while this label is primarily an origin explanation
+      for animal anatomy and human risk.
+batch_notes:
+- This batch shows a cluster of one-off animal etiology labels that may justify a
+  new normalization group rather than repeated over-broad mapping to cosmic_origin
+  or trickster.
+- Before adding the proposed group, reviewers should check whether these labels are
+  passage artifacts generated from summaries or whether animal-trait etiologies recur
+  across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: 'Provisional suggestion: create an animal_etiology_present_traits group under
+    cosmic_origin, related to trickster, shapeshifter, and sacred_law.'
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2154
+  input_sha256: 911afc6f9ba6fccc35cb9cc737b03493cf25d4ee0d8730bcf444c2f95fa19f75
+

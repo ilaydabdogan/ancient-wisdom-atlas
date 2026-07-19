@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2261
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.stolen-horse-used-as-proof-token-to-summon-enemies
+  motif_id: stolen_horse_used_as_proof_token_to_summon_enemies
+  label: stolen horse used as proof-token to summon enemies
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The stolen horse functions chiefly as a proof-token that identifies or
+    summons adversaries, matching recognition-token logic more than animal symbolism.
+  cautions: Single Arthurian occurrence; if the source emphasizes theft or trickery
+    rather than proof/identity, trickster or sacred_combat may be secondary.
+  suggested_aliases:
+  - horse_as_proof_token
+  - stolen_animal_as_identity_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stomach-stones-used-as-hunting-charms-for-dogs
+  motif_id: stomach_stones_used_as_hunting_charms_for_dogs
+  label: Stomach stones used as hunting charms for dogs
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Stomach stones are power objects used as charms to confer hunting ability
+    or success.
+  cautions: Highly specific ethnographic/ritual detail; could also fit sacred_law
+    if the passage frames charm use as ritual regulation rather than a power object.
+  suggested_aliases:
+  - hunting_charm_for_dogs
+  - animal_stone_hunting_charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-animal-awakened-as-helper
+  motif_id: stone_animal_awakened_as_helper
+  label: stone animal awakened as helper
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An awakened animal helper fits the existing animal_helpers/protective
+    guidance complex under divine intervention.
+  cautions: If the focus is animation of a crafted or stone figure, sacred_craft may
+    be an important secondary mapping; review source context.
+  suggested_aliases:
+  - awakened_stone_animal_helper
+  - stone_animal_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-clad-fabulous-monster-reflected-in-animal-naming
+  motif_id: stone_clad_fabulous_monster_reflected_in_animal_naming
+  label: stone-clad fabulous monster reflected in animal naming
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'reflected in animal naming' reads like an etymological or
+    classification note rather than a reusable narrative motif.
+  cautions: If a passage actually narrates a stone-clad monster encounter, preserve
+    that evidence under a relevant combat, monster, or sacred_treasures/power-object
+    group instead.
+  suggested_aliases:
+  - animal_name_reflects_stone_clad_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-found-inside-a-slain-serpent
+  motif_id: stone_found_inside_a_slain_serpent
+  label: Stone found inside a slain serpent
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The salient motif is a special stone or power object obtained from a
+    slain serpent.
+  cautions: Could also relate to serpent_guardian or divine_warrior if the serpent
+    combat is central; do not map to serpent symbolism alone without evidence.
+  suggested_aliases:
+  - serpent_stone
+  - power_stone_from_slain_serpent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stored-food-becomes-departing-animal-kin
+  motif_id: stored_food_becomes_departing_animal_kin
+  label: stored food becomes departing animal kin
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines food transformation, animal kinship, and departure;
+    the dominant function is unclear from wording alone.
+  cautions: May involve shapeshifting, other-than-human kinship, food taboo, or an
+    over-specific episode detail. Native Northwest Coast context should be reviewed
+    carefully before broad indexing.
+  suggested_aliases:
+  - food_transforms_into_animal_kin
+  - stored_food_as_departing_animal_relatives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stored-food-destroyed-by-animal-brothers
+  motif_id: stored_food_destroyed_by_animal_brothers
+  label: stored food destroyed by animal brothers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be a specific plot incident involving animal siblings
+    rather than a clear canonical motif.
+  cautions: Could fit trickster if the destruction is deceptive or disordering, sacred_twins/sibling_pair
+    if brother-pair structure matters, or sacred_substance if food has ritual value.
+  suggested_aliases:
+  - animal_brothers_destroy_stored_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storm-associated-pursuer-avoided-by-concealment-and-transformation
+  motif_id: storm_associated_pursuer_avoided_by_concealment_and_transformation
+  label: Storm-associated pursuer avoided by concealment and transformation
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Avoiding a pursuer through transformation fits the shapeshifter/escape-through-changed-form
+    pattern.
+  cautions: The storm-associated pursuer may indicate divine_intervention, weather
+    spirit, or threshold ordeal depending on source context; concealment alone should
+    not be equated with shapeshifting unless transformation is explicit.
+  suggested_aliases:
+  - escape_from_storm_pursuer_by_transformation
+  - concealment_and_transformation_to_avoid_pursuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storm-bird-or-whirlwind-embodiment
+  motif_id: storm_bird_or_whirlwind_embodiment
+  label: storm-bird or whirlwind embodiment
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a weather spirit, animal embodiment, or personified
+    natural phenomenon, but the narrative function is not clear.
+  cautions: Could map to divine_intervention for personified natural powers, shapeshifter
+    for embodied transformation, or a future weather-spirit group if many recur.
+  suggested_aliases:
+  - storm_bird_embodiment
+  - whirlwind_spirit_embodiment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storm-or-ice-trapped-animals-become-a-food-windfall
+  motif_id: storm_or_ice_trapped_animals_become_a_food_windfall
+  label: Storm- or ice-trapped animals become a food windfall
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Unexpected abundance through natural circumstances can fit miraculous
+    provision under divine intervention.
+  cautions: May be a practical survival episode rather than sacred provision; Arctic
+    Inuit ecological context should be reviewed before treating it as supernatural
+    intervention.
+  suggested_aliases:
+  - animals_trapped_by_ice_as_food_windfall
+  - storm_trapped_animals_provide_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal or object details; preserve
+  granular evidence but avoid promoting them without recurrence or source confirmation.
+- Weather/spirit and animal-kinship labels may require culturally informed human review
+  before broad normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items depend on source evidence and
+    may be over-specific episode labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2261
+  input_sha256: 91fd914c7e5a872385194deeb8631d2093610630b7be1e14230a0a2fbc66d6fb
+

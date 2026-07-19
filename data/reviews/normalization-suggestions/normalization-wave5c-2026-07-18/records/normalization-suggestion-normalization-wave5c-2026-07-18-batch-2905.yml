@@ -1,0 +1,312 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2905
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.clan-structured-settlement-center
+  motif_id: clan_structured_settlement_center
+  label: clan-structured settlement center
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe social-spatial organization rather than a symbolic
+    motif; no existing group clearly covers clan settlement layout.
+  cautions: Single occurrence and likely ethnographic/contextual; verify whether the
+    settlement center has sacred-center, ancestor, or ritual-boundary function before
+    mapping.
+  suggested_aliases:
+  - clan settlement center
+  - clan-organized ceremonial center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - world_center
+    - sacred_law
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-totems-on-chamber-walls
+  motif_id: clan_totems_on_chamber_walls
+  label: clan totems on chamber walls
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be sacred object/image marking clan identity, but current groups
+    do not distinguish totemic chamber iconography.
+  cautions: Culturally sensitive and object-specific; avoid reducing clan totems to
+    generic sacred treasures without source evidence about ritual function.
+  suggested_aliases:
+  - totemic clan wall images
+  - clan emblems on chamber walls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_law
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cliff-dwelling-adaptation-on-inhospitable-island
+  motif_id: cliff_dwelling_adaptation_on_inhospitable_island
+  label: cliff-dwelling adaptation on inhospitable island
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads as ecological or settlement description, not a recurring
+    mythic or symbolic motif.
+  cautions: If a source gives the cliff dwelling ritual, refuge, otherworld, or ordeal
+    meaning, preserve that local evidence separately.
+  suggested_aliases:
+  - cliff habitation on inhospitable island
+  - island cliff-dwelling adaptation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cliff-or-cave-habitation-as-fortified-dwelling-pattern
+  motif_id: cliff_or_cave_habitation_as_fortified_dwelling_pattern
+  label: Cliff or cave habitation as fortified dwelling pattern
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to classify a dwelling pattern rather than a narrative or
+    symbolic motif.
+  cautions: Do not map to descent or cave unless the passage frames the cave/cliff
+    as a ritual threshold, refuge, underworld contact point, or ordeal setting.
+  suggested_aliases:
+  - fortified cliff or cave habitation
+  - cliff-cave dwelling pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - descent
+    - threshold_guardian
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.closed-ceremonial-boundary-enforced-at-an-entrance
+  motif_id: closed_ceremonial_boundary_enforced_at_an_entrance
+  label: closed ceremonial boundary enforced at an entrance
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A closed ceremonial boundary enforced at entry functions as ritual regulation
+    and controlled sacred access.
+  cautions: If a specific guardian figure performs the enforcement, threshold_guardian
+    may be a secondary mapping; review culturally specific ceremonial rules carefully.
+  suggested_aliases:
+  - ceremonial boundary enforcement
+  - restricted ritual entrance
+  - closed ritual boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.closed-ceremonial-boundary-with-exit-fee
+  motif_id: closed_ceremonial_boundary_with_exit_fee
+  label: closed ceremonial boundary with exit fee
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The exit fee makes boundary crossing part of ritualized exchange or obligation
+    within a sacred setting.
+  cautions: Could also fit sacred_law if the emphasis is prohibition and access regulation
+    rather than payment or reciprocity.
+  suggested_aliases:
+  - ritual boundary exit fee
+  - ceremonial exit payment
+  - restricted ceremonial boundary with fee
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.closed-house-containing-life
+  motif_id: closed_house_containing_life
+  label: Closed house containing life
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase may indicate a life-containing vessel/house, protected enclosure,
+    or local ritual image, but the function is unclear.
+  cautions: Do not force into ark_vessel or external_soul without evidence that the
+    house preserves life through danger or contains separable life-force.
+  suggested_aliases:
+  - life contained in a closed house
+  - enclosed house holding life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    - ark_vessel
+    - external_soul
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cloth-as-wealth-and-ceremonial-garment
+  motif_id: cloth_as_wealth_and_ceremonial_garment
+  label: Cloth as wealth and ceremonial garment
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Ceremonial cloth functioning as wealth or status object fits sacred/power
+    objects more than ordinary material culture.
+  cautions: If the passage emphasizes reciprocal gifting, bridewealth, or funerary
+    offering, sacred_exchange or ancestor_rites may be relevant secondary mappings.
+  suggested_aliases:
+  - ceremonial cloth as wealth
+  - ritual garment as wealth object
+  - prestige cloth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - royal_legitimacy
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cloud-gathering-invocation-through-sprinkling
+  motif_id: cloud_gathering_invocation_through_sprinkling
+  label: Cloud-gathering invocation through sprinkling
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sprinkling rite that invokes clouds is a ritual action seeking response
+    from sacred or weather powers.
+  cautions: May warrant divine_intervention if the source stresses supernatural weather
+    response, or sacred_waters if sprinkling water is the central symbolic medium.
+  suggested_aliases:
+  - cloud invocation by sprinkling
+  - rain-cloud rite through sprinkling
+  - ritual sprinkling to gather clouds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_waters
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clubhouse-building-as-group-differentiation
+  motif_id: clubhouse_building_as_group_differentiation
+  label: clubhouse-building as group differentiation
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes social architectural differentiation rather than
+    a mythic pattern or symbolic action.
+  cautions: If the clubhouse is a ritual house, initiation site, sacred center, or
+    men’s/age-grade threshold space, re-review under initiation, sacred_law, or world_center.
+  suggested_aliases:
+  - clubhouse construction marking group identity
+  - group differentiation through clubhouse building
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_law
+    - world_center
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be settlement, architecture, or ethnographic-description
+  artifacts rather than durable motif labels; source context is needed before indexing
+  them for pattern queries.
+- For ceremonial-boundary items, distinguish legal/ritual regulation from threshold-guardian
+  narratives and from sacred-exchange payments.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    specific clan, totem, and ceremonial-boundary labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2905
+  input_sha256: 83155712ccd6390d8e103f58c8fc264f9cb3fc7d6f7f8bc04aaea54d75b9a15f
+

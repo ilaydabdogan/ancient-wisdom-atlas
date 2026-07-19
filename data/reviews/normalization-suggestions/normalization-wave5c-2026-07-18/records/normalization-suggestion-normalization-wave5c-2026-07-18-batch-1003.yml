@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1003
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.repelling-corruption-through-purity-rites
+  motif_id: repelling_corruption_through_purity_rites
+  label: repelling corruption through purity rites
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purity rites used to repel corruption fit ritual prohibition, purity
+    regulation, and apotropaic protection already grouped under sacred_law.
+  cautions: Zoroastrian purity concepts may involve culturally specific ritual pollution
+    and demonology; review source context before flattening into generic purity law.
+  suggested_aliases:
+  - purity_rites_repelling_corruption
+  - ritual_purity_against_corruption
+  - apotropaic_purity_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repentance-and-blessing-of-former-enemies
+  motif_id: repentance_and_blessing_of_former_enemies
+  label: Repentance and blessing of former enemies
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repentance and blessing repair hostile relations and align with mercy,
+    forgiveness, and restored sacred-social bonds under covenant.
+  cautions: If the passage emphasizes divine moral reckoning more than reconciliation,
+    divine_judgment may be a secondary or better placement.
+  suggested_aliases:
+  - blessing_of_former_enemies_after_repentance
+  - repentant_enemies_blessed
+  - reconciliation_with_former_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repetition-of-four-in-ritual-objects-and-water-homes
+  motif_id: repetition_of_four_in_ritual_objects_and_water_homes
+  label: Repetition of four in ritual objects and water homes
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines numerical patterning, ritual objects, and water-place
+    imagery without enough evidence to identify the core motif function.
+  cautions: May be a culturally specific ceremonial structure or passage artifact;
+    avoid mapping solely to sacred_waters or sacred_treasures because 'four' may be
+    the important organizing principle.
+  suggested_aliases:
+  - ritual_repetition_of_four
+  - fourfold_ritual_objects
+  - fourfold_water_homes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repetition-of-the-divine-name-as-supreme-duty
+  motif_id: repetition_of_the_divine_name_as_supreme_duty
+  label: Repetition of the divine name as supreme duty
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Repetition of the divine name is a sacred recitation practice transmitting
+    or embodying transformative knowledge and devotion.
+  cautions: Could also fit sacred_law if the passage stresses duty/command, or mystical_quest
+    if the practice is framed as interior union.
+  suggested_aliases:
+  - divine_name_repetition
+  - repetition_of_divine_name
+  - sacred_name_recitation_as_duty
+  - naam_recitation_as_supreme_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.replacement-or-persistence-of-sacred-landscape
+  motif_id: replacement_or_persistence_of_sacred_landscape
+  label: replacement or persistence of sacred landscape
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as comparative analysis of sacred geography rather than
+    a clear narrative or ritual motif.
+  cautions: May be meta-commentary about continuity or replacement between traditions;
+    if source evidence describes a sacred center or pilgrimage landscape, axis_mundi
+    may be appropriate.
+  suggested_aliases:
+  - sacred_landscape_persistence
+  - sacred_landscape_replacement
+  - continuity_of_sacred_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.replenishing-sacred-sticks-with-feather-plumes
+  motif_id: replenishing_sacred_sticks_with_feather_plumes
+  label: replenishing sacred sticks with feather plumes
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: Sacred sticks with feather plumes function as ritual power objects whose
+    renewal preserves sacred efficacy.
+  cautions: Highly specific and culturally contextual; may instead belong under sacred_exchange
+    or sacred_law if the replenishing is an offering or required ritual obligation.
+  suggested_aliases:
+  - renewal_of_sacred_sticks
+  - sacred_sticks_with_feather_plumes
+  - repluming_sacred_sticks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.report-to-sacred-authority-followed-by-rule-promulgation
+  motif_id: report_to_sacred_authority_followed_by_rule_promulgation
+  label: Report to sacred authority followed by rule promulgation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A case report leading to promulgated rules fits the origin and regulation
+    of sacred law or disciplinary order.
+  cautions: May be a vinaya/legal narrative convention rather than a mythic motif;
+    preserve as evidence detail unless it recurs across sources.
+  suggested_aliases:
+  - rule_promulgation_after_report_to_authority
+  - sacred_authority_promulgates_rule_after_report
+  - disciplinary_rule_origin_after_report
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reported-ritual-transmission-between-peoples
+  motif_id: reported_ritual_transmission_between_peoples
+  label: reported ritual transmission between peoples
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a report about ritual transmission between peoples,
+    which is a historical or ethnographic claim rather than a symbolic motif.
+  cautions: Do not use normalization placement as evidence for borrowing or contact;
+    preserve as provenance/context if needed outside motif queries.
+  suggested_aliases:
+  - ritual_transmission_between_peoples
+  - reported_intergroup_ritual_transmission
+  - ethnographic_report_of_ritual_transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reproductive-status-food-taboos
+  motif_id: reproductive_status_food_taboos
+  label: Reproductive-status food taboos
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food taboos tied to reproductive status fit ritual prohibition, purity,
+    and social-body regulation under sacred_law.
+  cautions: Culturally sensitive and gender/body-specific; review whether the passage
+    concerns taboo law, fertility ritual, danger avoidance, or ethnographic commentary.
+  suggested_aliases:
+  - food_taboos_by_reproductive_status
+  - reproductive_status_taboo_foods
+  - fertility_status_food_prohibitions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repurposed-containers-for-communal-offerings
+  motif_id: repurposed_containers_for_communal_offerings
+  label: repurposed containers for communal offerings
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Communal offerings are acts of reciprocal sacred giving; the container
+    detail is secondary to the offering function.
+  cautions: If the container itself is ritually powerful or central, sacred_vessel
+    may be a secondary mapping; otherwise preserve repurposed-container detail as
+    evidence only.
+  suggested_aliases:
+  - communal_offerings_in_repurposed_containers
+  - repurposed_vessels_for_offerings
+  - communal_offering_containers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several one-occurrence ritual labels are culturally specific and should remain provisional
+  until source passages confirm whether they are motifs, ethnographic details, or
+  commentary artifacts.
+- Do not infer ritual transmission or historical borrowing from any proposed placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended especially
+    for Native American Southwest and Melanesian ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1003
+  input_sha256: 0c98d4da0635e0243b3e44841057addbdccb0cd6c2c40855dd03510f8a7fe1d5
+

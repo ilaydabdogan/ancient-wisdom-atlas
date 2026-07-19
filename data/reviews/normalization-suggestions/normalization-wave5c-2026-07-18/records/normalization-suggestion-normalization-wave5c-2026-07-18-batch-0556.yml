@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0556
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marriage-based-royal-kinship-alliance
+  motif_id: marriage_based_royal_kinship_alliance
+  label: marriage-based royal kinship alliance
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Royal marriage alliance can authorize succession, political order, or
+    sacred kinship, fitting royal legitimacy better than journey motifs.
+  cautions: Single occurrence; if the passage is only social genealogy or diplomacy
+    without sacralized rule, it may be too contextual.
+  suggested_aliases:
+  - royal_marriage_alliance
+  - marriage_alliance_for_kingship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-encounter-during-wandering
+  motif_id: marriage_encounter_during_wandering
+  label: marriage encounter during wandering
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: A marriage encounter during wandering may function as a love/union episode
+    within a journey sequence.
+  cautions: Highly contextual and single-occurrence; if marriage is incidental to
+    travel, treat as evidence detail or map secondarily to hero_journey.
+  suggested_aliases:
+  - marriage_during_wandering
+  - journey_marriage_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-errand-with-food-gifts-and-travel-prohibitions
+  motif_id: marriage_errand_with_food_gifts_and_travel_prohibitions
+  label: Marriage errand with food gifts and travel prohibitions
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marriage errand, food gifts, journey, and prohibitions;
+    the dominant function is unclear without passage evidence.
+  cautions: Could fit sacred_exchange, sacred_law, sacred_love, or hero_journey; may
+    be an over-specific episode label.
+  suggested_aliases:
+  - marriage_errand_with_gifts
+  - marriage_journey_with_food_taboo
+  - marriage_errand_with_travel_prohibitions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-forbidden-within-distant-kinship-or-affinity
+  motif_id: marriage_forbidden_within_distant_kinship_or_affinity
+  label: Marriage forbidden within distant kinship or affinity
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A kinship or affinity marriage prohibition is a social-order rule or
+    taboo, aligning with sacred law.
+  cautions: Single occurrence; verify that the source frames this as mythic or normative
+    tradition rather than ethnographic/legal commentary only.
+  suggested_aliases:
+  - kinship_marriage_prohibition
+  - affinity_marriage_taboo
+  - exogamy_or_marriage_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-rank-property-and-kinship-conduct-under-social-sanction
+  motif_id: marriage_rank_property_and_kinship_conduct_under_social_sanction
+  label: marriage, rank, property, and kinship conduct under social sanction
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a broad social-norm bundle rather than a discrete
+    motif; placement depends on what action drives the passage.
+  cautions: Could fit sacred_law, covenant, royal_legitimacy, or be excluded as contextual
+    social commentary; source evidence is needed.
+  suggested_aliases:
+  - kinship_conduct_under_social_sanction
+  - marriage_rank_property_social_sanction
+  - sanctioned_kinship_obligations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-request-through-food-offering
+  motif_id: marriage_request_through_food_offering
+  label: Marriage request through food offering
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A food offering used to request marriage centers on reciprocal gift exchange
+    and relationship-making.
+  cautions: If the source emphasizes courtship or bride choice more than exchange,
+    sacred_love may be a better secondary group.
+  suggested_aliases:
+  - marriage_proposal_by_food_gift
+  - food_offering_as_marriage_request
+  - courtship_food_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-settlement-journey-with-cattle-and-feast
+  motif_id: marriage_settlement_journey_with_cattle_and_feast
+  label: marriage settlement journey with cattle and feast
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marriage settlement, cattle transfer, journey, and
+    feast; the primary motif function is not clear from wording alone.
+  cautions: May fit sacred_exchange if bridewealth/feasting is central, sacred_love
+    if marriage union is central, or be an over-specific social-ritual detail.
+  suggested_aliases:
+  - marriage_settlement_with_cattle
+  - bridewealth_journey_with_feast
+  - marriage_feast_and_cattle_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-honour-through-crowning-and-fellowship-gestures
+  motif_id: martial_honour_through_crowning_and_fellowship_gestures
+  label: Martial honour through crowning and fellowship gestures
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Gestures conferring martial honor belong with warrior status, honor,
+    and combat recognition under divine_warrior.
+  cautions: If the crowning is primarily royal consecration rather than martial fellowship,
+    royal_legitimacy may be more appropriate.
+  suggested_aliases:
+  - martial_honor_crowning
+  - warrior_honor_by_fellowship_gesture
+  - crowned_warrior_honor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-play-under-adult-spectatorship
+  motif_id: martial_play_under_adult_spectatorship
+  label: martial play under adult spectatorship
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Martial play may signal childhood initiation, training, or social display,
+    but the motif function is unclear.
+  cautions: Could fit initiation, divine_warrior, heroic_childhood_signs, or be an
+    ethnographic childhood-practice detail; verify source context.
+  suggested_aliases:
+  - child_martial_play_under_adult_gaze
+  - martial_training_play
+  - spectated_martial_play
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-arrival-display-before-a-royal-court
+  motif_id: marvelous_arrival_display_before_a_royal_court
+  label: Marvelous arrival display before a royal court
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: A marvelous display before a court often functions as recognition, status
+    assertion, or royal-court legitimation.
+  cautions: Could instead be theophany, hero_journey return/arrival, or sacred_treasures
+    depending on what makes the arrival marvelous.
+  suggested_aliases:
+  - marvelous_court_arrival
+  - wonder_display_before_royal_court
+  - heroic_arrival_at_court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence marriage or social-ritual composites;
+  human review should verify whether they are motifs or passage-level social details.
+- The review_bucket_id is journey_quest_homecoming, but many best-fit placements are
+  social order, sacred exchange, sacred love, or royal legitimacy rather than journey
+  structure.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0556
+  input_sha256: c0c55cd35be4e6348a59e1e6f32c624d18f255c0c7b5318fb96ed561e0e6d1a8
+

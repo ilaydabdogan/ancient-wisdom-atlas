@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3221
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.catalogue-of-a-fertile-land-used-for-persuasion
+  motif_id: catalogue_of_a_fertile_land_used_for_persuasion
+  label: Catalogue of a fertile land used for persuasion
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe persuasive speech about abundance, promised land,
+    or narrative rhetoric rather than a stable motif.
+  cautions: Single occurrence and wording foregrounds catalogue form; source context
+    needed to decide between sacred_substance, sacred_exchange, otherworld, or textual
+    artifact.
+  suggested_aliases:
+  - fertile_land_persuasion
+  - persuasive_catalogue_of_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-marvellous-creatures
+  motif_id: catalogue_of_marvellous_creatures
+  label: catalogue of marvellous creatures
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A creature catalogue could be otherworld imagery, mythic geography, wonder-list,
+    or an editorial description.
+  cautions: Do not map to otherworld or shapeshifter without evidence that the creatures
+    function narratively beyond being listed.
+  suggested_aliases:
+  - marvellous_creature_catalogue
+  - catalogue_of_wondrous_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-marvelous-arthurian-retainers
+  motif_id: catalogue_of_marvelous_arthurian_retainers
+  label: Catalogue of marvelous Arthurian retainers
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe an Arthurian list or catalogue convention
+    rather than a cross-tradition narrative motif.
+  cautions: If individual retainers have supernatural functions, index those functions
+    separately under relevant groups such as divine_warrior, sacred_treasures, or
+    otherworld.
+  suggested_aliases:
+  - arthurian_retainer_catalogue
+  - marvelous_retainer_list
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-mythic-geography
+  motif_id: catalogue_of_mythic_geography
+  label: catalogue of mythic geography
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: over_specific_label
+  confidence: low
+  rationale: A mythic-geography list may describe nonordinary realms or enchanted
+    spaces, which fits otherworld when the geography is narratively sacred.
+  cautions: Could instead be axis_mundi, cosmic_origin, afterlife_passage, or a textual
+    catalogue artifact; review the listed places and their function.
+  suggested_aliases:
+  - mythic_geography_catalogue
+  - catalogue_of_sacred_places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-numberless-wrongdoers
+  motif_id: catalogue_of_numberless_wrongdoers
+  label: catalogue of numberless wrongdoers
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A list of countless wrongdoers likely supports moral reckoning, transgression,
+    or judgment imagery.
+  cautions: If this is merely a rhetorical enumeration in teaching or hymn, preserve
+    as evidence detail rather than a durable motif.
+  suggested_aliases:
+  - numberless_wrongdoers
+  - catalogue_of_sinners
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-shamanic-shooting-implements
+  motif_id: catalogue_of_shamanic_shooting_implements
+  label: catalogue of shamanic shooting implements
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve ritual implements, sacred weapons, healing, or
+    culturally specific shamanic practice not recoverable from the label alone.
+  cautions: Culturally sensitive; avoid reducing ceremonial or ethnographic detail
+    to sacred_combat or sacred_treasures without source evidence.
+  suggested_aliases:
+  - shamanic_projectile_implements
+  - ritual_shooting_implements_catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-variant-human-species
+  motif_id: catalogue_of_variant_human_species
+  label: Catalogue of variant human species
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Variant human species could concern creation, world ages, otherworld
+    peoples, or cosmological ethnography.
+  cautions: Single catalogue label; review whether these beings function in cosmogony,
+    eschatology, geography, or textual classification before mapping.
+  suggested_aliases:
+  - variant_human_species_catalogue
+  - catalogue_of_alternate_human_kinds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cataract-associated-rock-engravings
+  motif_id: cataract_associated_rock_engravings
+  label: cataract-associated rock engravings
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label names an archaeological or landscape association, not a narrative
+    motif by itself.
+  cautions: If the engravings are explained by a mythic event or sacred-water site,
+    index that event separately under sacred_waters, cosmic_origin, or sacred_treasures
+    as appropriate.
+  suggested_aliases:
+  - rock_engravings_at_cataract
+  - cataract_rock_art_association
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catastrophe-heightened-by-cheerful-or-irrelevant-matter
+  motif_id: catastrophe_heightened_by_cheerful_or_irrelevant_matter
+  label: catastrophe heightened by cheerful or irrelevant matter
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This describes a literary or tonal device rather than a mythic narrative
+    function.
+  cautions: If the passage contains an actual catastrophe, index the catastrophe separately;
+    do not treat tonal contrast as a motif family.
+  suggested_aliases:
+  - tonal_contrast_heightens_catastrophe
+  - cheerful_matter_beside_catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catastrophic-heat-with-instructed-refuge
+  motif_id: catastrophic_heat_with_instructed_refuge
+  label: catastrophic heat with instructed refuge
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Destructive heat plus instructed refuge fits catastrophe-survival and
+    renewal logic, especially as a fire/heat counterpart to flood catastrophe.
+  cautions: Confirm whether the heat destroys an old order or is a localized ordeal;
+    if merely personal shelter instruction, divine_intervention or sacred_fire may
+    be better.
+  suggested_aliases:
+  - catastrophic_heat_refuge
+  - instructed_refuge_from_cosmic_heat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use 'catalogue of...' and may be generated from enumerative passage
+  structure rather than symbolic motifs; preserve concrete listed functions where
+  available.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; catalogue and culturally specific ritual
+    labels require source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3221
+  input_sha256: 37cdcbedd94cf6e0b52eeba574ba08583560128a9e6983d3e15b97d3d9fbfb95
+

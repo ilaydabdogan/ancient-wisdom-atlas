@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0224
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.human-retained-below-water-while-child-is-returned
+  motif_id: human_retained_below_water_while_child_is_returned
+  label: human retained below water while child is returned
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: uncertain
+  confidence: low
+  rationale: Below-water retention with return of a child may involve water as boundary,
+    otherworld captivity, or deathlike descent.
+  cautions: Single occurrence and culturally specific; source context needed to distinguish
+    underwater otherworld, abduction, drowning/death, or child-return episode.
+  suggested_aliases:
+  - underwater_retention_with_child_return
+  - human_retained_underwater
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-skin-ritual-drum-used-to-call-spirits
+  motif_id: human_skin_ritual_drum_used_to_call_spirits
+  label: Human-skin ritual drum used to call spirits
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: A ritual drum made from human skin functions as a power object or ritual
+    instrument mediating spirit contact.
+  cautions: Culturally sensitive and over-specific; may belong under shamanic spirit-calling,
+    ancestor rites, sacrifice, or sacred craft depending on evidence. Avoid flattening
+    human-remains ritual into generic object symbolism.
+  suggested_aliases:
+  - ritual_drum_calls_spirits
+  - human_skin_drum_spirit_calling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-soul-barred-from-animal-embodiment
+  motif_id: human_soul_barred_from_animal_embodiment
+  label: Human soul barred from animal embodiment
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as doctrinal soul anthropology about postmortem embodiment
+    rather than a clear narrative motif.
+  cautions: May be philosophical commentary specific to Hermetic doctrine; could be
+    excluded if it is a proposition rather than a recurring motif. If paired with
+    transmigration evidence, review under a possible soul-transmigration group.
+  suggested_aliases:
+  - soul_barred_from_animal_rebirth
+  - prohibition_of_animal_embodiment_for_human_soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-souls-transmigrate-into-animal-bodies
+  motif_id: human_souls_transmigrate_into_animal_bodies
+  label: Human souls transmigrate into animal bodies
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Soul Transmigration and Reincarnation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Human souls entering animal bodies is a postmortem rebirth/transmigration
+    pattern not fully captured by shapeshifting or external soul.
+  cautions: Tradition is marked comparative, so verify this is source evidence rather
+    than a comparative abstraction. Do not merge with shapeshifter unless bodily transformation
+    within a life is the key function.
+  suggested_aliases:
+  - metempsychosis_into_animals
+  - animal_rebirth_of_human_souls
+  - transmigration_into_animal_bodies
+  suggested_new_group:
+    id: soul_transmigration_reincarnation
+    label: Soul Transmigration and Reincarnation
+    description: Souls or persons are reborn, transferred, or identified across lives,
+      bodies, species, or births; includes metempsychosis, animal rebirth, and doctrinal
+      or narrative recollection of former lives.
+    parent_group_ids:
+    - death_and_transformation
+    related_group_ids:
+    - soul_loss_restoration
+    - external_soul
+    - shapeshifter
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing groups cover externalized souls,
+      soul loss, shapeshifting, and death transformation, but none cleanly covers
+      rebirth of the same soul across bodies or species.
+- suggestion_id: normalization.suggestion.human-spirit-encounter
+  motif_id: human_spirit_encounter
+  label: human-spirit encounter
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A human encounter with a spirit is too broad; it may involve guidance,
+    danger, initiation, otherworld contact, or haunting.
+  cautions: Generic label with little function. Review passage evidence before mapping;
+    may be excluded if it only records a character type or encounter without motif
+    structure.
+  suggested_aliases:
+  - encounter_with_spirit
+  - spirit_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-spirit-surviving-after-death
+  motif_id: human_spirit_surviving_after_death
+  label: Human spirit surviving after death
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: broader_label
+  confidence: low
+  rationale: Survival of the spirit after death belongs broadly to postmortem transformation
+    or afterlife belief.
+  cautions: May be a belief statement rather than a narrative motif. If the spirit
+    acts among the living, restless_dead_haunting_vengeance or ancestor_rites may
+    fit better; if it journeys, afterlife_passage may fit.
+  suggested_aliases:
+  - spirit_survives_death
+  - postmortem_survival_of_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-taken-by-spirit-people
+  motif_id: human_taken_by_spirit_people
+  label: human taken by spirit people
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Abduction or taking by spirit people often marks entry into an adjacent
+    nonordinary realm or society.
+  cautions: Could instead be death, initiation, captivity, or spirit-marriage depending
+    on source. Review culturally specific spirit-people terminology before final indexing.
+  suggested_aliases:
+  - taken_by_spirit_people
+  - spirit_people_abduction
+  - human_abducted_by_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-taken-underwater-by-whale-and-returned-alive
+  motif_id: human_taken_underwater_by_whale_and_returned_alive
+  label: Human taken underwater by whale and returned alive
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Being taken underwater and returned alive functions as a descent-like
+    passage into a dangerous nonordinary depth followed by return.
+  cautions: Whale specificity and Inuit context should be preserved. If passage emphasizes
+    animal helper, sea-spirit abduction, or water boundary more than transformation,
+    sacred_waters, otherworld, or divine_intervention may be secondary.
+  suggested_aliases:
+  - underwater_whale_abduction_and_return
+  - taken_by_whale_and_returned_alive
+  - underwater_descent_by_whale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-transience-between-voids-and-non-return-after-death
+  motif_id: human_transience_between_voids_and_non_return_after_death
+  label: Human transience between voids and non-return after death
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label expresses contemplative mortality and impermanence, already
+    near mystical_quest aliases for body/life transience.
+  cautions: Likely a teaching or poetic reflection rather than a narrative motif.
+    If evidence centers strictly on death finality, death_and_transformation may be
+    a broader secondary mapping.
+  suggested_aliases:
+  - human_transience_between_voids
+  - non_return_after_death
+  - impermanence_of_human_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-wind-and-cloud-making-after-death
+  motif_id: human_wind_and_cloud_making_after_death
+  label: Human wind and cloud-making after death
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dead human becoming or producing wind and clouds is a postmortem transformation
+    into weather agency.
+  cautions: Could also relate to ancestor agency, weather spirits, or divine intervention
+    if the dead actively mediate rain or climate. Preserve San context and avoid reducing
+    it to generic nature symbolism.
+  suggested_aliases:
+  - dead_human_makes_wind_and_clouds
+  - postmortem_weather_making
+  - dead_person_as_weather_agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and culturally specific; these should remain
+  provisional until source passages confirm narrative function rather than doctrinal
+  or ethnographic commentary.
+- Soul transmigration/reincarnation appears insufficiently represented by existing
+  groups; one new group candidate is suggested, but comparative-only evidence should
+  be reviewed carefully.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0224
+  input_sha256: 33cb02736418038fa7b27a5b7b27202551629c29e3c03f3cea7172b2bc3e4597
+

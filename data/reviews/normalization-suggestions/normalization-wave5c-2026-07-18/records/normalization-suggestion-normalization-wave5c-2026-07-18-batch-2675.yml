@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2675
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.enemy-survivor-prevented-from-carrying-the-story-home
+  motif_id: enemy_survivor_prevented_from_carrying_the_story_home
+  label: Enemy survivor prevented from carrying the story home
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a combat aftermath and suppression of an enemy witness,
+    but it is highly episode-specific.
+  cautions: Could be a narrative detail about reputation, massacre, or no-survivor
+    warfare rather than a durable motif; review source context before indexing.
+  suggested_aliases:
+  - enemy_witness_prevented_from_returning_home
+  - no_enemy_survivor_left_to_tell_the_tale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-suspected-of-arranging-a-fatal-hunt
+  motif_id: enemy_suspected_of_arranging_a_fatal_hunt
+  label: Enemy suspected of arranging a fatal hunt
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label depends on suspicion and plot context; a fatal hunt could be
+    betrayal, combat stratagem, or death-by-fate.
+  cautions: Do not map to sacred_combat or betrayal without evidence that the enemy
+    actually arranges the hunt or that violated trust is central.
+  suggested_aliases:
+  - suspected_enemy_plot_in_fatal_hunt
+  - fatal_hunt_suspected_as_enemy_plot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-town-transformed-into-landscape-features
+  motif_id: enemy_town_transformed_into_landscape_features
+  label: Enemy town transformed into landscape features
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transformation of a town into landscape features functions as etiological
+    landscape formation after conflict.
+  cautions: If the emphasis is punishment of enemies rather than place-origin explanation,
+    divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - enemy_settlement_transformed_into_landscape
+  - hostile_town_becomes_landscape_features
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-transformed-into-friend
+  motif_id: enemy_transformed_into_friend
+  label: Enemy transformed into friend
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase could mean reconciliation, social conversion, magical transformation,
+    or alliance after conflict.
+  cautions: Existing shapeshifter covers bodily form change, not social enemy-to-friend
+    transformation; source evidence is needed.
+  suggested_aliases:
+  - enemy_becomes_friend
+  - hostile_figure_transformed_into_ally
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-trap-through-feigned-illness
+  motif_id: enemy_trap_through_feigned_illness
+  label: enemy trap through feigned illness
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Feigning illness to lure or trap an enemy is a deception strategy, fitting
+    the trickster/deceptive stratagem cluster.
+  cautions: If the passage is mainly warfare rather than deception, sacred_combat
+    may be a secondary mapping.
+  suggested_aliases:
+  - feigned_illness_used_as_enemy_trap
+  - trap_by_pretended_sickness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-trophy-displayed-in-victory-dance
+  motif_id: enemy_trophy_displayed_in_victory_dance
+  label: enemy trophy displayed in victory dance
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Displaying an enemy trophy in a victory dance fits warrior trophy and
+    martial proof motifs under the divine_warrior group.
+  cautions: Culturally specific trophy and dance practices should be reviewed carefully;
+    may also relate to sacred_combat if the emphasis is ritual warfare.
+  suggested_aliases:
+  - enemy_trophy_displayed_in_victory_ritual
+  - war_trophy_displayed_in_victory_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-trophy-transformed-into-graded-warrior-regalia
+  motif_id: enemy_trophy_transformed_into_graded_warrior_regalia
+  label: Enemy trophy transformed into graded warrior regalia
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: low
+  rationale: Enemy trophies used as warrior regalia relate to martial proof and warrior
+    status, but the graded-regalia detail is culturally specific.
+  cautions: May be an ethnographic or passage-specific detail; review whether it recurs
+    as a ritual status motif before broad pattern indexing.
+  suggested_aliases:
+  - enemy_trophy_as_warrior_regalia
+  - war_trophy_becomes_ranked_warrior_regalia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-used-as-improvised-weapon
+  motif_id: enemy_used_as_improvised_weapon
+  label: enemy used as improvised weapon
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Using an enemy as a weapon is an extraordinary heroic combat feat, aligning
+    with martial prowess motifs.
+  cautions: If presented as comic grotesque or trickster reversal rather than heroic
+    combat, trickster may be relevant.
+  suggested_aliases:
+  - foe_used_as_weapon
+  - enemy_body_used_as_improvised_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-warrior-accidentally-enclosed-by-a-defensive-gate
+  motif_id: enemy_warrior_accidentally_enclosed_by_a_defensive_gate
+  label: Enemy warrior accidentally enclosed by a defensive gate
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a very specific battlefield incident rather than a reusable
+    mythic motif.
+  cautions: Retain as episode evidence if needed; only reconsider if multiple sources
+    show a recurring gate-entrapment combat pattern.
+  suggested_aliases:
+  - enemy_trapped_by_defensive_gate
+  - warrior_enclosed_by_gate_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-weapon-immobilized-in-support-object
+  motif_id: enemy_weapon_immobilized_in_support_object
+  label: Enemy weapon immobilized in support object
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: A weapon stuck or immobilized during combat may be a tactical reversal
+    or an episode-specific detail.
+  cautions: Could involve a sacred or named weapon, trickster stratagem, or divine
+    protection depending on context; source review needed.
+  suggested_aliases:
+  - enemy_weapon_stuck_in_support_object
+  - hostile_weapon_immobilized_during_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence combat aftermath or tactical details; preserve
+  local evidence but avoid promoting them without recurrence.
+- Where Indigenous ritual-trophy or regalia labels appear, human review should check
+  cultural specificity and avoid overgeneralizing from generated wording.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple low-confidence items depend strongly
+    on passage context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2675
+  input_sha256: 6d1abe3325d5d38102a2813a42f14aac5a7dcb2fe7f0eb891f4d8a074edea619
+

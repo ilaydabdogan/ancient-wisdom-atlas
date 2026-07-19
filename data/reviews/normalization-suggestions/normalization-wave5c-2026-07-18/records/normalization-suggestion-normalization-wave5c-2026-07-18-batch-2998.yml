@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2998
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.proxy-in-the-bridal-chamber
+  motif_id: proxy_in_the_bridal_chamber
+  label: Proxy in the bridal chamber
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A proxy in a bridal chamber could involve substitution, hidden identity,
+    marriage custom, deception, or sexual boundary violation depending on the episode.
+  cautions: Single occurrence and culturally/contextually sensitive; do not map to
+    sacred_love or recognition tokens without passage evidence.
+  suggested_aliases:
+  - bridal_chamber_proxy
+  - marital_proxy_substitution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - recognition_tokens_hidden_identity
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.puberty-age-male-lodging-in-a-restricted-clubhouse
+  motif_id: puberty_age_male_lodging_in_a_restricted_clubhouse
+  label: puberty-age male lodging in a restricted clubhouse
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Age-marked restricted lodging strongly suggests a rite-of-passage or
+    initiation setting.
+  cautions: May be an ethnographic social-space detail rather than a mythic motif;
+    review culturally specific evidence before broad indexing.
+  suggested_aliases:
+  - puberty_lodging_in_restricted_mens_house
+  - restricted_clubhouse_puberty_initiation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-accomplishment-provokes-household-jealousy
+  motif_id: public_accomplishment_provokes_household_jealousy
+  label: Public accomplishment provokes household jealousy
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: broader_label
+  confidence: low
+  rationale: The closest existing group covers household jealousy that endangers or
+    persecutes a successful or innocent figure.
+  cautions: Label does not specify stepmother, child, false accusation, or persecution;
+    could instead be pride/downfall, betrayal, or a plot detail.
+  suggested_aliases:
+  - household_jealousy_after_public_success
+  - domestic_jealousy_provoked_by_accomplishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - pride_and_downfall
+    - betrayal_violated_trust
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-accusation-marked-by-the-pointed-finger
+  motif_id: public_accusation_marked_by_the_pointed_finger
+  label: Public accusation marked by the pointed finger
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Public accusation is a judgment or moral-reckoning scene, and the pointed
+    finger is likely a gesture detail.
+  cautions: If the finger gesture is iconographic or passage-specific, preserve as
+    evidence rather than a searchable motif; verify whether sacred/legal judgment
+    is present.
+  suggested_aliases:
+  - pointed_finger_accusation
+  - public_gesture_of_accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-criticism-prompting-boundary-regulation
+  motif_id: public_criticism_prompting_boundary_regulation
+  label: public criticism prompting boundary regulation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rule or boundary regulation arising after public criticism fits sacred/social
+    law formation.
+  cautions: May be a monastic discipline or commentary artifact rather than a mythic
+    motif; review whether it recurs as a narrative pattern.
+  suggested_aliases:
+  - criticism_prompts_rule_making
+  - public_reproach_leads_to_boundary_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-inspection-of-a-marked-body
+  motif_id: public_inspection_of_a_marked_body
+  label: Public inspection of a marked body
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A marked body inspected publicly could indicate identity proof, stigma,
+    ritual marking, accusation, or bodily evidence.
+  cautions: Needs source context; avoid mapping to recognition tokens unless the mark
+    proves identity or status.
+  suggested_aliases:
+  - marked_body_public_inspection
+  - public_examination_of_bodily_mark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-mockery-triggering-marital-rupture
+  motif_id: public_mockery_triggering_marital_rupture
+  label: public mockery triggering marital rupture
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif concerns a love or marriage bond disrupted by public shame
+    or mockery.
+  cautions: Could fit curse/blessing speech, betrayal, or social honor conflict if
+    marital rupture is not the main function; single occurrence is likely episode-specific.
+  suggested_aliases:
+  - mockery_breaks_marriage_bond
+  - public_shame_causes_marital_separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - betrayal_violated_trust
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-modesty-marked-by-a-required-cord
+  motif_id: public_modesty_marked_by_a_required_cord
+  label: Public modesty marked by a required cord
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A required bodily or clothing marker for public modesty is a social/ritual
+    regulation of conduct.
+  cautions: Cord detail may be culturally specific and over-specific; review whether
+    the requirement is ritual law, gender norm, or passage artifact.
+  suggested_aliases:
+  - required_cord_as_modesty_marker
+  - public_modesty_cord_requirement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-penance-through-threshold-service-and-repeated-narration
+  motif_id: public_penance_through_threshold_service_and_repeated_narration
+  label: Public penance through threshold service and repeated narration
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repeated narration is part of the penance mechanism, aligning with narrative
+    as transformative or reparative power.
+  cautions: Also involves threshold service and public penance; if the emphasis is
+    punishment or purification, sacred_law or sacrifice may be secondary.
+  suggested_aliases:
+  - penance_by_repeated_narration
+  - threshold_service_as_public_penance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacrifice
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-praise-of-the-blessed-household
+  motif_id: public_praise_of_the_blessed_household
+  label: public praise of the blessed household
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate blessing speech, household prosperity, hospitality
+    reward, or a passage-specific praise formula.
+  cautions: Single occurrence and vague function; map only if the passage shows performative
+    blessing, sacred exchange, or household sanctity.
+  suggested_aliases:
+  - blessed_household_public_praise
+  - public_acclamation_of_household_blessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_exchange
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence labels and several read as contextual social or
+  ritual details; recommendations should remain provisional.
+- Several labels in this batch involve culturally specific gender, household, or ritual-space
+  regulation and should receive human review before broad Pattern Explorer use.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2998
+  input_sha256: 9cd63232d9fc4bf7064d215ff5c2b2bdc1588f1621ba3d5705c0384757b5be92
+

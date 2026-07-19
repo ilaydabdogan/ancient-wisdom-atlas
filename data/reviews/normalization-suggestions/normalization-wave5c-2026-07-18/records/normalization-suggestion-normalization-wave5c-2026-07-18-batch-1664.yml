@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1664
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ranked-thresholds-marking-social-hierarchy
+  motif_id: ranked_thresholds_marking_social_hierarchy
+  label: ranked thresholds marking social hierarchy
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ranked thresholds encode spatially marked social order and status regulation,
+    fitting sacred/social law more than threshold-guardian passage.
+  cautions: Single occurrence; if the passage emphasizes architecture or court etiquette
+    only, it may be a contextual detail rather than a durable motif.
+  suggested_aliases:
+  - hierarchical_thresholds
+  - thresholds_marking_social_rank
+  - spatial_markers_of_social_hierarchy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ranked-wedding-feast-seating-as-social-ordering
+  motif_id: ranked_wedding_feast_seating_as_social_ordering
+  label: ranked wedding-feast seating as social ordering
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Feast seating that displays rank functions as ritualized social order
+    and hierarchy regulation.
+  cautions: Could also touch sacred_exchange or sacred_marriage if hospitality, reciprocity,
+    or marriage union is central; label may be too scene-specific.
+  suggested_aliases:
+  - ranked_feast_seating
+  - hierarchical_banquet_seating
+  - wedding_feast_as_social_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ransom-of-a-debt-pledged-female-slave-who-has-borne-children
+  motif_id: ransom_of_a_debt_pledged_female_slave_who_has_borne_children
+  label: Ransom of a debt-pledged female slave who has borne children
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe legal status, debt, kinship, and ransom
+    obligations, broadly within social law.
+  cautions: Culturally sensitive legal-slavery context and highly specific case-law
+    wording; needs source review before treating as a motif rather than a legal passage
+    artifact.
+  suggested_aliases:
+  - ransom_of_debt_pledged_slave_mother
+  - debt_pledge_ransom_after_childbearing
+  - ransom_and_status_of_debt_pledged_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ravaging-trees-outside-an-unconquered-city
+  motif_id: ravaging_trees_outside_an_unconquered_city
+  label: Ravaging trees outside an unconquered city
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Destroying trees outside a besieged city is a warfare action connected
+    to siege pressure and domination.
+  cautions: May be a chronicle detail rather than symbolic tree or sacred-combat motif;
+    do not map to sacred_tree_axis unless trees carry cosmic or sacred function.
+  suggested_aliases:
+  - siege_ravaging_of_trees
+  - destruction_of_trees_outside_besieged_city
+  - tree_destruction_as_siege_pressure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rebellion-imprisons-and-kills-the-ruler
+  motif_id: rebellion_imprisons_and_kills_the_ruler
+  label: rebellion imprisons and kills the ruler
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rebellion killing the ruler directly concerns breakdown, transfer,
+    or crisis of legitimate rule.
+  cautions: If presented only as historical annalistic detail without sacred kingship
+    logic, consider excluding from pattern queries.
+  suggested_aliases:
+  - rebellion_against_the_ruler
+  - ruler_killed_by_rebellion
+  - violent_overthrow_of_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rebellious-coalition-overcome-by-imperial-king
+  motif_id: rebellious_coalition_overcome_by_imperial_king
+  label: rebellious coalition overcome by imperial king
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defeat of rebels by an imperial king asserts sovereign authority and
+    restoration of political order.
+  cautions: May also fit divine_warrior or sacred_combat if divine battle sanction
+    is explicit; otherwise may be royal ideology or chronicle detail.
+  suggested_aliases:
+  - king_overcomes_rebellious_coalition
+  - imperial_suppression_of_rebellion
+  - rebels_defeated_by_legitimate_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-aid-for-a-past-life-risking-service
+  motif_id: reciprocal_aid_for_a_past_life_risking_service
+  label: Reciprocal aid for a past life-risking service
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: high
+  rationale: Aid repaid for an earlier life-risking service is a clear reciprocity
+    and obligation pattern.
+  cautions: If no sacred or socially binding obligation is present, it may be general
+    narrative gratitude rather than sacred exchange.
+  suggested_aliases:
+  - reciprocal_aid_for_past_service
+  - life_saving_service_repaid
+  - aid_repaid_for_life_risking_help
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-blood-punishment
+  motif_id: reciprocal_blood_punishment
+  label: reciprocal blood punishment
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A blood-for-blood punishment expresses moral reckoning and retributive
+    consequence.
+  cautions: Could instead belong under sacred_law if framed as legal retaliation or
+    covenantal blood compensation; source evidence needed.
+  suggested_aliases:
+  - blood_for_blood_punishment
+  - reciprocal_blood_retribution
+  - retaliatory_blood_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-care-between-ruler-and-governed-groups
+  motif_id: reciprocal_care_between_ruler_and_governed_groups
+  label: Reciprocal care between ruler and governed groups
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mutual care between ruler and governed defines ethical rule and legitimates
+    political hierarchy.
+  cautions: May also fit sacred_law or sacred_exchange; Confucian ethical context
+    should be reviewed to avoid over-sacralizing a political-philosophical teaching.
+  suggested_aliases:
+  - mutual_care_between_ruler_and_people
+  - reciprocal_ruler_subject_care
+  - ethical_reciprocity_of_ruler_and_governed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-circulation-of-rulerly-beneficence
+  motif_id: reciprocal_circulation_of_rulerly_beneficence
+  label: reciprocal circulation of rulerly beneficence
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rulerly beneficence circulating reciprocally supports the moral economy
+    and legitimacy of governance.
+  cautions: Abstract ethical-political wording may be commentary rather than narrative
+    motif; sacred_exchange may be a secondary fit if reciprocity is the main evidence.
+  suggested_aliases:
+  - circulation_of_rulerly_beneficence
+  - reciprocal_rulerly_beneficence
+  - benevolent_rule_as_reciprocal_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence legal, courtly, or political-order
+  labels; human review should distinguish recurring motif from source-specific social
+  detail or commentary.
+- For Confucian items, consider whether sacred_law, sacred_exchange, or royal_legitimacy
+  best reflects the passage evidence without imposing mythic-sacral framing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; multiple single-occurrence and culturally/legal-specific
+    labels require source checking.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1664
+  input_sha256: 68b736fb283f3a5acd93d7d81e968ba2d0b6793d26ed4004894ddb85ceae3598
+

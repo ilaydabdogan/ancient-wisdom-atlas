@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1168
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.secret-medicine-used-in-a-lethal-ritual-dance
+  motif_id: secret_medicine_used_in_a_lethal_ritual_dance
+  label: Secret medicine used in a lethal ritual dance
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: low
+  rationale: Secret medicine in ritual use may fit sacred substances, especially if
+    the substance mediates power or altered ritual effect.
+  cautions: Single occurrence and culturally specific; lethal dance may instead involve
+    curse, ordeal, warfare, or ritual killing. Needs source review before indexing.
+  suggested_aliases:
+  - ritual_medicine_used_in_lethal_dance
+  - secret_ritual_medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-names-and-name-taboo
+  motif_id: secret_names_and_name_taboo
+  label: Secret names and name taboo
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Name secrecy and taboo treat speech/naming as ritually potent and dangerous,
+    aligning with performative sacred speech and prohibitions.
+  cautions: Could also fit sacred_knowledge if the emphasis is guarded esoteric names
+    rather than taboo utterance; review local context sensitively.
+  suggested_aliases:
+  - secret_name_taboo
+  - taboo_on_sacred_names
+  - dangerous_secret_names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-rite-outside-the-lodge
+  motif_id: secret_rite_outside_the_lodge
+  label: secret rite outside the lodge
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label only indicates secrecy and ritual location, not a clear symbolic
+    or narrative function.
+  cautions: Likely too contextual or culturally sensitive to map without evidence.
+    Could involve initiation, sacred_exchange, sacred_law, or local ceremonial protocol.
+  suggested_aliases:
+  - secret_rite_outside_lodge
+  - private_ritual_outside_the_lodge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secret-river-bath-revealing-hidden-brilliance-and-ritual-object
+  motif_id: secret_river_bath_revealing_hidden_brilliance_and_ritual_object
+  label: Secret river bath revealing hidden brilliance and ritual object
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A river bath that reveals hidden brilliance uses water as a transformative
+    or revelatory ritual medium.
+  cautions: The ritual object may warrant secondary sacred_treasures mapping if it
+    confers power or identity; label is composite and may be episode-specific.
+  suggested_aliases:
+  - river_bath_reveals_hidden_brilliance
+  - secret_bath_reveals_ritual_object
+  - revelatory_river_bath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sectarian-identity-asserted-through-alternative-sacred-texts
+  motif_id: sectarian_identity_asserted_through_alternative_sacred_texts
+  label: sectarian identity asserted through alternative sacred texts
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: Alternative sacred texts may concern sacred knowledge and textual authority,
+    but the label primarily describes sectarian identity formation.
+  cautions: Could be a historical/commentary artifact rather than a motif. Avoid indexing
+    unless the source passage narrativizes sacred textual authority.
+  suggested_aliases:
+  - sectarian_identity_through_sacred_texts
+  - alternative_sacred_texts_as_identity_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.selection-and-succession-of-a-sacred-office
+  motif_id: selection_and_succession_of_a_sacred_office
+  label: selection and succession of a sacred office
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Selection and succession of a sacred office concerns legitimate transfer
+    of ritual or sacred authority.
+  cautions: If the office is non-royal and purely ritual, this is a functional fit
+    rather than kingship proper; sacred_law or covenant may be secondary depending
+    on procedure.
+  suggested_aliases:
+  - succession_of_sacred_office
+  - selection_of_ritual_office_holder
+  - sacred_office_succession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.selection-of-a-ritual-pole-chooser
+  motif_id: selection_of_a_ritual_pole_chooser
+  label: Selection of a ritual pole chooser
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: low
+  rationale: A ritual pole may function as an axis or sacred center, but the label
+    focuses on selecting the person who chooses it.
+  cautions: Highly specific and culturally sensitive ceremonial detail. Could fit
+    sacred office selection or sacred tree/axis only if the pole's cosmological role
+    is explicit.
+  suggested_aliases:
+  - ritual_pole_chooser_selection
+  - selection_of_pole_chooser
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.selective-breeding-and-purity-of-a-civic-guardian-group
+  motif_id: selective_breeding_and_purity_of_a_civic_guardian_group
+  label: Selective breeding and purity of a civic guardian group
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns social order, purity, and regulated guardian status,
+    which broadly resembles sacred law.
+  cautions: May be philosophical/political commentary rather than mythic motif; wording
+    is culturally and ethically loaded. Needs source verification before pattern indexing.
+  suggested_aliases:
+  - purity_regulation_of_civic_guardians
+  - guardian_group_purity_regulation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.selective-divine-epiphany
+  motif_id: selective_divine_epiphany
+  label: selective divine epiphany
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: narrower_than
+  confidence: high
+  rationale: A divine epiphany is a direct manifestation of sacred presence; selectivity
+    is a narrower feature of who perceives it.
+  cautions: If the passage emphasizes altered perception rather than divine manifestation
+    itself, dream_and_vision may be a secondary fit.
+  suggested_aliases:
+  - selective_theophany
+  - divine_epiphany_to_selected_witnesses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.selective-refusal-at-a-divine-banquet
+  motif_id: selective_refusal_at_a_divine_banquet
+  label: selective refusal at a divine banquet
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: Refusal at a divine banquet may involve violated reciprocity, ritual
+    participation, or rejection of sacred food.
+  cautions: 'Ambiguous without context: could be sacred_substance, hospitality, covenant
+    breach, divine judgment, or an episode-specific plot detail.'
+  suggested_aliases:
+  - refusal_at_divine_banquet
+  - rejection_of_divine_banquet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and culturally specific ritual
+  descriptions; human review should verify source context before durable indexing.
+- Where labels mention secrecy, do not assume forbidden_knowledge unless the passage
+  shows guarded knowledge as the central function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; ritual and culturally specific items require
+    source-sensitive review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1168
+  input_sha256: 5eac339b9663415f28349b7390d24826f82fb87e8c3d0625643af3f315bf7d98
+

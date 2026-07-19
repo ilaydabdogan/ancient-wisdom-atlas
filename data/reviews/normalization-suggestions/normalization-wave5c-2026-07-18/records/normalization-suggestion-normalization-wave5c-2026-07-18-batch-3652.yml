@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3652
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.magician-expected-to-exercise-magic-after-domestic-exchange
+  motif_id: magician_expected_to_exercise_magic_after_domestic_exchange
+  label: magician expected to exercise magic after domestic exchange
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines magic performance with a domestic exchange, but the
+    narrative function is unclear from wording alone.
+  cautions: May be an over-specific episode detail, ritual reciprocity motif, or commentary
+    artifact; source context is needed before mapping to sacred_exchange, sacred_law,
+    or divine_intervention.
+  suggested_aliases:
+  - magic_expected_after_exchange
+  - domestic_exchange_for_magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magicians-wonderful-deeds
+  motif_id: magicians_wonderful_deeds
+  label: Magicians’ wonderful deeds
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to distinguish miracle-working, sacred craft,
+    trickster magic, or wonder-tale performance.
+  cautions: Do not map solely from the presence of magicians; review whether the deeds
+    reveal sacred knowledge, divine authorization, craft animation, or narrative spectacle.
+  suggested_aliases:
+  - wonderful_deeds_of_magicians
+  - magical_wonder_deeds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maimed-captives-serving-a-feast
+  motif_id: maimed_captives_serving_a_feast
+  label: maimed captives serving a feast
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a highly specific scene of violence, captivity, and
+    feast service without a clear existing motif function.
+  cautions: Could involve humiliation, violated hospitality, sacred combat aftermath,
+    or courtly ordeal; too contextual for broad mapping without passage evidence.
+  suggested_aliases:
+  - maimed_captives_as_feast_servants
+  - captives_serving_feast_after_maiming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maimed-minstrel-or-messenger
+  motif_id: maimed_minstrel_or_messenger
+  label: Maimed minstrel or messenger
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Maiming a singer or messenger may signal violence against speech-bearing
+    roles, but the function is not explicit.
+  cautions: Could belong with storytelling_as_power if the injured figure transmits
+    news/song, sacred_combat if battlefield violence, or divine_judgment if punishment;
+    verify context.
+  suggested_aliases:
+  - maimed_messenger
+  - maimed_minstrel
+  - injured_bearer_of_song_or_news
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maiming-of-the-helper
+  motif_id: maiming_of_the_helper
+  label: Maiming of the helper
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies harm to a helper but not whether it functions as
+    betrayal, ordeal, combat injury, or sacrifice.
+  cautions: May fit betrayal_violated_trust if the helper is harmed by an ally, sacred_combat
+    if combat-related, or divine_judgment if punitive; source context required.
+  suggested_aliases:
+  - helper_maimed
+  - injury_to_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maiming-of-the-hostile-lord
+  motif_id: maiming_of_the_hostile_lord
+  label: maiming of the hostile lord
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Maiming a hostile lord plausibly functions as punitive reversal or moral
+    reckoning against an antagonist.
+  cautions: If the passage frames the injury mainly as combat outcome or courtly vengeance,
+    sacred_combat may be a better secondary placement; single occurrence is over-specific.
+  suggested_aliases:
+  - hostile_lord_maimed
+  - punitive_maiming_of_hostile_lord
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maintained-cleared-monastic-open-space
+  motif_id: maintained_cleared_monastic_open_space
+  label: maintained cleared monastic open space
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a descriptive setting or institutional-maintenance
+    detail rather than a recurring symbolic motif.
+  cautions: If the cleared space functions ritually as sacred center, monastic discipline,
+    or threshold, human review may remap; otherwise exclude from pattern queries.
+  suggested_aliases:
+  - cleared_monastic_space
+  - monastic_open_space_maintenance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.major-triad-and-sixth-as-incomplete-pentatonic-form
+  motif_id: major_triad_and_sixth_as_incomplete_pentatonic_form
+  label: major triad and sixth as incomplete pentatonic form
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a musicological analysis of scale structure, not a narrative,
+    ritual, or symbolic motif.
+  cautions: Preserve only as provenance or source-analysis metadata; do not map to
+    enchanting_music unless the passage describes supernatural musical function.
+  suggested_aliases:
+  - incomplete_pentatonic_form
+  - major_triad_and_sixth_musicological_analysis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.make-believe-funeral-with-destruction-of-property
+  motif_id: make_believe_funeral_with_destruction_of_property
+  label: make-believe funeral with destruction of property
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: A simulated funeral with property destruction may be a ritual performance,
+    mourning act, trick, or local ceremony.
+  cautions: Could map to heroic_funeral_rites, sacrifice, ancestor_rites, or trickster
+    depending on whether the funeral is ritual, deception, or narrative play; culturally
+    sensitive context needed.
+  suggested_aliases:
+  - mock_funeral_with_property_destruction
+  - simulated_funeral_destroying_property
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maker-blamed-for-defects-in-made-beings
+  motif_id: maker_blamed_for_defects_in_made_beings
+  label: maker blamed for defects in made beings
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns a creator or maker being held responsible for flaws
+    in created beings, a creation-theodicy variant.
+  cautions: If the Sufi passage is primarily ethical teaching or mystical allegory
+    rather than cosmogony, sacred_knowledge or mystical_quest may be better secondary
+    mappings.
+  suggested_aliases:
+  - creator_blamed_for_defective_creation
+  - maker_responsible_for_flawed_beings
+  - defects_in_created_beings_blamed_on_maker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, highly contextual, or role/scene
+  descriptions; human review should check source passages before promoting new motifs.
+- Avoid treating magic, music, maiming, or funeral language as sufficient for group
+  placement without narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3652
+  input_sha256: 63d9f2466842a3a33da397c09731665ff82e65eef4e09c0c4e66801585956848
+

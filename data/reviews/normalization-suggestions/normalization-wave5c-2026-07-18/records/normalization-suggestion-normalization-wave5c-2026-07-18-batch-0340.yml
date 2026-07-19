@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0340
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-exactitude-preventing-spirit-intrusion
+  motif_id: ritual_exactitude_preventing_spirit_intrusion
+  label: Ritual exactitude preventing spirit intrusion
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Exact ritual performance preventing harmful spirit intrusion fits sacred
+    law, purity, and apotropaic regulation.
+  cautions: Single occurrence; could belong under sacrifice/ritual expulsion if the
+    evidence centers on expelling spirits rather than maintaining exact procedure.
+  suggested_aliases:
+  - ritual_exactitude_against_spirit_intrusion
+  - ritual_precision_prevents_spiritual_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-expulsion-of-an-animal-spirit-from-food
+  motif_id: ritual_expulsion_of_an_animal_spirit_from_food
+  label: Ritual expulsion of an animal spirit from food
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The existing sacrifice group already contains ritual expulsion, exorcism,
+    and spirit-affliction variants; this is a food/animal-spirit instance of that
+    complex.
+  cautions: Culturally specific animal-spirit and food-soul ideas should be preserved;
+    may also relate to sacred_law if framed as food purity rather than expulsion.
+  suggested_aliases:
+  - expulsion_of_animal_spirit_from_food
+  - food_ritual_expelling_animal_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-expulsion-of-the-dead-person-s-spirit
+  motif_id: ritual_expulsion_of_the_dead_person_s_spirit
+  label: Ritual expulsion of the dead person's spirit
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rite expelling a dead person's spirit matches the existing ritual-expulsion/exorcism
+    children under sacrifice.
+  cautions: Could also index ancestor_rites or restless_dead_haunting_vengeance if
+    the passage emphasizes care of the dead or unresolved haunting rather than expulsion.
+  suggested_aliases:
+  - expulsion_of_dead_persons_spirit
+  - mortuary_spirit_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-failure-explained-by-spirit-interference-and-incidental-signs
+  motif_id: ritual_failure_explained_by_spirit_interference_and_incidental_signs
+  label: ritual failure explained by spirit interference and incidental signs
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual failure, spirit interference, and signs, but
+    the dominant motif function is unclear from wording alone.
+  cautions: May be ethnographic interpretation or passage-specific explanation; possible
+    placements include sacred_law, divine_intervention, prophecy_divination, or dream_and_vision
+    depending on source evidence.
+  suggested_aliases:
+  - ritual_failure_from_spirit_interference
+  - spirit_interference_explains_ritual_failure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-feeding-of-a-vessel-spirit
+  motif_id: ritual_feeding_of_a_vessel_spirit
+  label: ritual feeding of a vessel spirit
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual feeding of a spirit is a reciprocal offering that maintains relation
+    with a sacred or indwelling power.
+  cautions: The vessel detail may also point to sacred_vessel; preserve whether the
+    focus is feeding/reciprocity or the spirit-bearing container.
+  suggested_aliases:
+  - feeding_a_vessel_spirit
+  - offering_food_to_vessel_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-fibre-marker-at-grave-and-death-place-entrance
+  motif_id: ritual_fibre_marker_at_grave_and_death_place_entrance
+  label: ritual fibre marker at grave and death-place entrance
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: A grave/death-place marker is a mortuary boundary detail, but its symbolic
+    or ritual function is not clear from the label.
+  cautions: May be too object-specific for pattern queries unless the marker controls
+    passage, protects the living, guides the dead, or seals a boundary; possible groups
+    include ancestor_rites, afterlife_passage, sacred_law, or threshold_guardian.
+  suggested_aliases:
+  - grave_fibre_marker
+  - death_place_entrance_marker
+  - ritual_marker_at_grave_entrance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-fire-after-spirit-expulsion
+  motif_id: ritual_fire_after_spirit_expulsion
+  label: ritual fire after spirit expulsion
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The sequence centers on spirit expulsion, already grouped under sacrifice
+    as ritual expulsion; fire is a ritual means or follow-up act.
+  cautions: If fire itself is the main sacred presence or purifier, sacred_fire may
+    be a secondary mapping; comparative labels should be checked for source-level
+    evidence.
+  suggested_aliases:
+  - post_expulsion_ritual_fire
+  - fire_following_spirit_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-fire-subject-to-death-impurity
+  motif_id: ritual_fire_subject_to_death_impurity
+  label: ritual fire subject to death impurity
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Rules about death impurity affecting ritual fire fit sacred law, purity
+    code, and contamination regulation.
+  cautions: Also related to sacred_fire because the affected object is ritual fire;
+    do not collapse into world-destroying or sacrificial fire without evidence.
+  suggested_aliases:
+  - death_impurity_affecting_ritual_fire
+  - ritual_fire_and_death_pollution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-garments-protecting-body-and-soul-during-sleep
+  motif_id: ritual_garments_protecting_body_and_soul_during_sleep
+  label: Ritual garments protecting body and soul during sleep
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prescribed protective garments for body and soul function as apotropaic
+    ritual regulation within sacred law.
+  cautions: Could relate to soul_loss_restoration if sleep involves soul departure
+    or vulnerability; preserve garment specificity as evidence detail.
+  suggested_aliases:
+  - protective_ritual_garments_during_sleep
+  - garments_protecting_soul_in_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-impurity-visible-to-animal-souls
+  motif_id: ritual_impurity_visible_to_animal_souls
+  label: Ritual impurity visible to animal souls
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Visibility of impurity to animal souls fits ritual purity, taboo, and
+    relations with animal spirits regulated by sacred law.
+  cautions: Culturally specific animal-soul beliefs may also relate to sacred_exchange
+    or ancestor/animal-spirit rites; avoid reducing it to generic impurity without
+    source review.
+  suggested_aliases:
+  - animal_souls_perceive_ritual_impurity
+  - ritual_pollution_visible_to_animal_souls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence mortuary or spirit-management ritual
+  labels; suggested placements are provisional and should preserve local ritual specificity.
+- Several labels sit at the boundary between sacred_law purity regulation and sacrifice/ritual_expulsion;
+  choose final placement from passage evidence about whether the rite prevents, expels,
+  feeds, or purifies spiritual danger.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed for culturally
+    specific spirit, soul, and mortuary practices.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0340
+  input_sha256: 84df05ab177c5d4d0eaded5a01528fd421ad80b00331c7192356c6b25223d7d1
+

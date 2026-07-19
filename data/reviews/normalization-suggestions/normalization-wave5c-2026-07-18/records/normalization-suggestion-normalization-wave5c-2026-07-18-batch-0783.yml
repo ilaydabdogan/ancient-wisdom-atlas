@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0783
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-or-supernatural-encounter-title
+  motif_id: divine_or_supernatural_encounter_title
+  label: divine or supernatural encounter title
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The word 'title' indicates a heading or generated text artifact rather
+    than a motif.
+  cautions: If the source passage contains an actual encounter with a divine or supernatural
+    figure, remap the evidence to theophany or divine_intervention instead.
+  suggested_aliases:
+  - supernatural encounter title
+  - divine encounter title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-order-associated-with-good-mind
+  motif_id: divine_order_associated_with_good_mind
+  label: divine order associated with Good Mind
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Good Mind in Zoroastrian context likely participates in ordered cosmic/moral
+    opposition, fitting the duality and order complex.
+  cautions: Could also fit sacred_knowledge or sacred_law if the passage stresses
+    wisdom or ethical order rather than cosmic opposition.
+  suggested_aliases:
+  - divine order and Good Mind
+  - Good Mind as divine order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-ordering-and-measurement-of-the-cosmos
+  motif_id: divine_ordering_and_measurement_of_the_cosmos
+  label: Divine ordering and measurement of the cosmos
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine measuring and ordering of the cosmos is a creation-ordering motif
+    within cosmic origin.
+  cautions: If the emphasis is ongoing rulership rather than creation or ordering,
+    supreme_ruler may be a secondary fit.
+  suggested_aliases:
+  - cosmic measurement by divine order
+  - divine measurement of the cosmos
+  - creator orders and measures the cosmos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-ordering-of-celestial-paths
+  motif_id: divine_ordering_of_celestial_paths
+  label: Divine ordering of celestial paths
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ordered celestial paths govern sacred/cosmic time and calendrical regularity.
+  cautions: Could map to cosmic_origin if the passage describes initial creation of
+    celestial courses, or to supreme_ruler if it stresses divine sovereignty over
+    the heavens.
+  suggested_aliases:
+  - divinely ordered celestial courses
+  - divine ordering of heavenly paths
+  - celestial paths under divine ordinance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-ordering-of-celestial-space
+  motif_id: divine_ordering_of_celestial_space
+  label: divine ordering of celestial space
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Arranging celestial space is part of divine cosmological ordering and
+    creation.
+  cautions: If the passage is chiefly about calendars, stellar paths, or ritual timing,
+    sacred_time may be useful as a secondary mapping.
+  suggested_aliases:
+  - divine arrangement of celestial space
+  - ordering of the heavens
+  - divinely ordered heavenly space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-ordering-of-creation
+  motif_id: divine_ordering_of_creation
+  label: divine ordering of creation
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: broader_label
+  confidence: high
+  rationale: The label broadly names divine ordering of the created cosmos, already
+    covered by cosmic_origin.
+  cautions: Broad phrasing may hide theological or ethical context; do not infer a
+    specific creation mechanism without passage evidence.
+  suggested_aliases:
+  - creator orders creation
+  - divine ordering of the created world
+  - creation ordered by divine command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-ordering-of-ritual-observance
+  motif_id: divine_ordering_of_ritual_observance
+  label: Divine ordering of ritual observance
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritual observance prescribed by divine order fits sacred law and ritual
+    regulation.
+  cautions: If a specific offering or purification rite is central, sacrifice or sacred_exchange
+    may be a secondary mapping.
+  suggested_aliases:
+  - divinely ordered ritual observance
+  - ritual observance under divine law
+  - divine prescription of ritual practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-ordering-of-sacred-knowledge-life-and-ages
+  motif_id: divine_ordering_of_sacred_knowledge_life_and_ages
+  label: Divine ordering of sacred knowledge, life, and ages
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines knowledge, life, and world ages, crossing several
+    existing groups without a clear primary function.
+  cautions: Review source evidence to decide among sacred_knowledge, sacred_time,
+    cosmic_origin, or world_ages_cosmic_decline; may be an over-broad generated summary.
+  suggested_aliases:
+  - divine ordering of knowledge life and ages
+  - divine order of wisdom life and time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-organization-of-people-into-clans
+  motif_id: divine_organization_of_people_into_clans
+  label: divine organization of people into clans
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine arrangement of clans functions as an origin/etiology of social
+    groups and peoples.
+  cautions: Culturally specific clan-origin evidence should be reviewed carefully;
+    royal_legitimacy or sacred_law may fit if the emphasis is authority or social
+    obligation rather than origin.
+  suggested_aliases:
+  - divine origin of clans
+  - divine ordering of clan society
+  - clans organized by sacred powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-origin-of-war-implements-and-protective-paint
+  motif_id: divine_origin_of_war_implements_and_protective_paint
+  label: Divine origin of war implements and protective paint
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: War implements and protective paint are power objects or substances whose
+    efficacy is grounded in divine origin.
+  cautions: Could also relate to divine_warrior or sacred_combat if the passage centers
+    on warfare; preserve protective paint as local ritual evidence.
+  suggested_aliases:
+  - divinely given war implements
+  - sacred origin of protective war paint
+  - divine origin of martial power objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels beginning with 'divine ordering' are broad generated summaries; reviewers
+  should use passage evidence to distinguish creation-ordering, sacred time, ritual
+  law, and cosmic sovereignty.
+- No transmission or borrowing claims are implied by these suggested placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific clan and ritual-war labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0783
+  input_sha256: 0bbf1164041109821e31cb19323b8da430b7025a5f38f6d07f20795cacd07779
+

@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3086
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.orthodox-discipline-versus-relaxed-practice
+  motif_id: orthodox_discipline_versus_relaxed_practice
+  label: orthodox discipline versus relaxed practice
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label concerns correct religious discipline and rule observance versus
+    relaxed practice, fitting sacred law or regulated conduct.
+  cautions: Single Buddhist occurrence; if the passage emphasizes interior training
+    over rule order, mystical_quest or initiation may be secondary.
+  suggested_aliases:
+  - discipline_versus_relaxed_practice
+  - strict_observance_versus_lax_practice
+  - orthodox_ascetic_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outer-status-contrasted-with-inner-attainment
+  motif_id: outer_status_contrasted_with_inner_attainment
+  label: outer status contrasted with inner attainment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The contrast between social appearance and realized inner attainment
+    is a wisdom/insight motif about true knowledge or transformation.
+  cautions: Could fit mystical_quest if tied to contemplative realization, or pride_and_downfall
+    if exposing false status; source context matters.
+  suggested_aliases:
+  - inner_attainment_over_outer_status
+  - true_attainment_hidden_by_status
+  - spiritual_realization_contrasted_with_social_rank
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outsider-viewed-as-a-dangerous-captive
+  motif_id: outsider_viewed_as_a_dangerous_captive
+  label: Outsider viewed as a dangerous captive
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe social suspicion, captivity, outsider danger,
+    or a passage-specific situation rather than a stable motif.
+  cautions: Culturally sensitive and context-dependent; avoid mapping to trickster,
+    threshold_guardian, or sacred_law without evidence of narrative function.
+  suggested_aliases:
+  - dangerous_outsider_captive
+  - captive_outsider_as_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outwitted-dangerous-being-announced-but-not-completed
+  motif_id: outwitted_dangerous_being_announced_but_not_completed
+  label: outwitted dangerous being, announced but not completed
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'announced but not completed' reads as a narrative-state or
+    editorial artifact, not a reusable motif.
+  cautions: If the source actually contains a completed tricking of a dangerous being,
+    remap that evidence under trickster or threshold_guardian.
+  suggested_aliases:
+  - announced_uncompleted_outwitting_episode
+  - incomplete_outwitting_of_dangerous_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overconsumption-leading-to-self-entrapment
+  motif_id: overconsumption_leading_to_self_entrapment
+  label: overconsumption leading to self-entrapment
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Self-entrapment through excess functions as moral consequence and resembles
+    greed/temperance reversal children already under divine_judgment.
+  cautions: If no sacred or moral reckoning is present, it may be a comic plot detail
+    or cautionary fable rather than divine judgment.
+  suggested_aliases:
+  - excess_leads_to_self_entrapment
+  - greed_causes_self_entrapment
+  - overindulgence_as_self_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parallel-temptation-episodes-in-gilgamesh-and-enkidu-cycles
+  motif_id: parallel_temptation_episodes_in_gilgamesh_and_enkidu_cycles
+  label: parallel temptation episodes in Gilgamesh and Enkidu cycles
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a comparative observation about parallel episodes
+    in named cycles rather than a motif itself.
+  cautions: Underlying temptation scenes may deserve separate mapping if extracted
+    as passage-level motifs; do not use this label as transmission evidence.
+  suggested_aliases:
+  - parallel_temptation_episode_comparison
+  - gilgamesh_enkidu_temptation_parallel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.particular-ascetic-excellence-contrasted-with-comprehensive-buddhahood
+  motif_id: particular_ascetic_excellence_contrasted_with_comprehensive_buddhahood
+  label: Particular ascetic excellence contrasted with comprehensive Buddhahood
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label contrasts partial ascetic attainment with complete awakening,
+    fitting the spiritual path and degrees of realization.
+  cautions: Highly tradition-specific wording; may be a doctrinal teaching note rather
+    than narrative motif. Preserve Buddhist specificity in evidence notes.
+  suggested_aliases:
+  - partial_ascetic_attainment_contrasted_with_full_awakening
+  - ascetic_excellence_versus_complete_buddhahood
+  - limited_attainment_contrasted_with_complete_enlightenment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passion-as-inner-tyrant
+  motif_id: passion_as_inner_tyrant
+  label: Passion as inner tyrant
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Passion figured as an inner ruler or tyrant is an ethical-order motif
+    about self-mastery and moral governance.
+  cautions: Could also fit sacred_knowledge if framed as philosophical psychology,
+    or pride_and_downfall if passion causes ruin.
+  suggested_aliases:
+  - inner_tyranny_of_passion
+  - passion_as_internal_ruler
+  - desire_as_inner_despot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peaceful-renunciation-does-not-avert-murder
+  motif_id: peaceful_renunciation_does_not_avert_murder
+  label: Peaceful renunciation does not avert murder
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines renunciation, failed protection, and murder; the main
+    function depends on source context.
+  cautions: Could map to sacrifice, sacred_combat, divine_judgment, death_by_fate,
+    or lament depending on whether the passage stresses surrender, injustice, destiny,
+    or violence.
+  suggested_aliases:
+  - renunciation_fails_to_prevent_murder
+  - peaceful_withdrawal_followed_by_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.permission-based-exception-to-an-ascetic-rule
+  motif_id: permission_based_exception_to_an_ascetic_rule
+  label: permission-based exception to an ascetic rule
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: An authorized exception to an ascetic rule is a clear regulation-of-practice
+    motif under sacred law and discipline.
+  cautions: Likely doctrinal or monastic rule detail; avoid promoting to taxonomy
+    unless recurring across sources.
+  suggested_aliases:
+  - authorized_exception_to_ascetic_rule
+  - monastic_rule_exception_by_permission
+  - permission_exception_to_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are ethical, doctrinal, or monastic-discipline abstractions
+  with single occurrences; preserve passage context before promoting any to canonical
+  motifs.
+- Labels that compare named cycles or mention incomplete narration should generally
+  be treated as meta-textual artifacts unless underlying passage motifs are extracted
+  separately.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    specific Inuit, Buddhist, and Persian contextual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3086
+  input_sha256: 30fef216a01964fa94b0ea6dac477871e634e56c7f539a89796194d8706ec224
+

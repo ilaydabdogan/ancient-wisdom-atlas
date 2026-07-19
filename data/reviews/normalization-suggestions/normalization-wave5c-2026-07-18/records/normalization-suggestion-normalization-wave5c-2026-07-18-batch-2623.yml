@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2623
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.boast-and-counter-boast-before-combat
+  motif_id: boast_and_counter_boast_before_combat
+  label: boast and counter-boast before combat
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Pre-combat reciprocal boasting fits the existing flyting, death-boasting,
+    and ritualized combat speech cluster under sacred_combat.
+  cautions: Single occurrence; preserve local context and do not infer sacred combat
+    unless the boasting is tied to a combat scene.
+  suggested_aliases:
+  - pre_combat_boast_and_counter_boast
+  - flyting_before_combat
+  - reciprocal_boasting_before_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boast-answered-by-warning
+  motif_id: boast_answered_by_warning
+  label: boast answered by warning
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A boast answered by a warning likely belongs to heroic combat speech
+    and challenge-response patterns.
+  cautions: Could instead fit pride_and_downfall if the warning primarily exposes
+    hubris rather than frames combat.
+  suggested_aliases:
+  - warning_answering_a_boast
+  - boast_countered_by_warning
+  - combat_boast_met_with_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boast-answered-over-fallen-enemy
+  motif_id: boast_answered_over_fallen_enemy
+  label: Boast answered over fallen enemy
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Boasting or answering boasts over a defeated foe is a combat speech act
+    within heroic warfare.
+  cautions: If the passage emphasizes mourning, corpse treatment, or trophy display,
+    heroic_funeral_rites or divine_warrior may be secondary.
+  suggested_aliases:
+  - boast_over_fallen_enemy
+  - postcombat_boast_over_defeated_foe
+  - answering_boast_over_slain_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-courage-tested-by-action
+  motif_id: boastful_courage_tested_by_action
+  label: Boastful courage tested by action
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a boast being tested, which fits pride or overconfidence
+    exposed by events.
+  cautions: If the action is a formal combat ordeal rather than moral humbling, sacred_combat
+    may be a better parent.
+  suggested_aliases:
+  - boastful_courage_put_to_the_test
+  - boast_tested_by_deeds
+  - overconfident_courage_tested
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-elder-warrior-allies
+  motif_id: boastful_elder_warrior_allies
+  label: Boastful elder warrior allies
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a role or character type rather than a clear recurring
+    narrative function.
+  cautions: May be an episode-specific description of allies, an age-status motif,
+    or combat boasting; source context is needed.
+  suggested_aliases:
+  - elder_warrior_allies_boast
+  - boasting_elder_warrior_helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-helper-warned-against-by-spouse
+  motif_id: boastful_helper_warned_against_by_spouse
+  label: boastful helper warned against by spouse
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This combines role, boasting, warning, and spouse relation in a highly
+    contextual episode label.
+  cautions: Could fit pride_and_downfall, sacred_combat, or family counsel depending
+    on the passage; avoid broad mapping from label alone.
+  suggested_aliases:
+  - boastful_helper_receives_spousal_warning
+  - spouse_warns_boastful_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-prince-requires-a-charioteer-before-battle
+  motif_id: boastful_prince_requires_a_charioteer_before_battle
+  label: boastful prince requires a charioteer before battle
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The battle-preparation and warrior role context fits sacred_combat, while
+    the charioteer detail should remain granular evidence.
+  cautions: Could involve royal status, counsel, or divine charioteer symbolism; review
+    source before narrowing further.
+  suggested_aliases:
+  - warrior_requires_charioteer_before_battle
+  - boastful_warrior_needs_charioteer
+  - prince_prepares_for_battle_with_charioteer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-skill-despite-warning-invites-danger
+  motif_id: boastful_skill_despite_warning_invites_danger
+  label: Boastful skill despite warning invites danger
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: Ignoring warning because of boastful confidence matches overconfidence
+    inviting danger or downfall.
+  cautions: If the danger is a formal combat ordeal, sacred_combat can be a secondary
+    mapping.
+  suggested_aliases:
+  - boastful_skill_ignores_warning
+  - overconfident_skill_invites_danger
+  - warning_ignored_through_boastfulness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-weapon-play-before-confrontation
+  motif_id: boastful_weapon_play_before_confrontation
+  label: boastful weapon play before confrontation
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Display or play with weapons before confrontation belongs to ritualized
+    martial challenge and combat preparation.
+  cautions: May be an over-specific scene detail unless recurring across sources;
+    preserve weapon-play detail as evidence.
+  suggested_aliases:
+  - weapon_display_before_confrontation
+  - boastful_weapon_display_before_combat
+  - precombat_weapon_play
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodiless-apparitions-resist-ordinary-weapons
+  motif_id: bodiless_apparitions_resist_ordinary_weapons
+  label: Bodiless apparitions resist ordinary weapons
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Resistance to ordinary weapons resembles conditional invulnerability,
+    but bodiless apparitions may instead be ghost or haunting evidence.
+  cautions: Review whether these are restless dead, divine/daemonic beings, battlefield
+    apparitions, or a commentary artifact before mapping.
+  suggested_aliases:
+  - incorporeal_apparitions_resist_weapons
+  - ghosts_unharmed_by_ordinary_weapons
+  - bodiless_beings_resist_mundane_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most boast-related labels appear to be granular variants of combat speech, flyting,
+  or overconfidence; preserve local evidence rather than promoting new taxonomy families
+  from single occurrences.
+- Where warning or danger is central, pride_and_downfall may be more appropriate than
+  sacred_combat if the passage emphasizes moral humbling rather than ritual warfare.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several single-occurrence labels require source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2623
+  input_sha256: cf9580d6f28be1a99dcbaf9f6bb16895adf53b96ff66531c84d3c5fb444939f8
+

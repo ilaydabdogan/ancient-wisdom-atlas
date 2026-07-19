@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0249
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.long-lived-ancestral-genealogy-with-repeated-fathering-and-death-formula
+  motif_id: long_lived_ancestral_genealogy_with_repeated_fathering_and_death_formula
+  label: Long-lived ancestral genealogy with repeated fathering and death formula
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a repeated genealogical formula rather than a portable
+    narrative or symbolic motif.
+  cautions: If the passage emphasizes extraordinary ancestral longevity or mortality
+    after long life, a human reviewer could preserve it under death_and_transformation
+    or immortality_without_renewal as evidence detail.
+  suggested_aliases:
+  - genealogical_fathering_and_death_formula
+  - ancestral_genealogy_death_formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.long-lived-divine-messengers-still-bounded-by-death-or-vast-duration
+  motif_id: long_lived_divine_messengers_still_bounded_by_death_or_vast_duration
+  label: Long-lived divine messengers still bounded by death or vast duration
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: immortality_without_renewal
+  suggested_group_label: Immortality Without Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on extraordinary longevity that remains limited by
+    mortality or duration, matching incomplete deathlessness.
+  cautions: Could instead fit divine_intervention if the messenger role is more important
+    than the bounded longevity.
+  suggested_aliases:
+  - bounded_longevity_of_divine_messengers
+  - long_lived_messengers_subject_to_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.long-lived-hero-whose-death-is-triggered-by-a-preserved-object
+  motif_id: long_lived_hero_whose_death_is_triggered_by_a_preserved_object
+  label: Long-lived hero whose death is triggered by a preserved object
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: Death triggered through an external preserved object fits the external
+    life-token complex.
+  cautions: If the object is only a memento or narrative reminder rather than a life-bound
+    token, review under death_by_fate or sacred_treasures instead.
+  suggested_aliases:
+  - death_triggered_by_preserved_life_object
+  - long_lived_hero_death_by_external_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.long-lived-ruler-worshipped-after-death
+  motif_id: long_lived_ruler_worshipped_after_death
+  label: long-lived ruler worshipped after death
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: A ruler receiving postmortem worship points to sacral kingship and legitimizing
+    ruler cult.
+  cautions: If the emphasis is ancestor cult or funerary veneration rather than royal
+    authority, ancestor_rites or heroic_funeral_rites may be better secondary mappings.
+  suggested_aliases:
+  - postmortem_worship_of_long_lived_ruler
+  - ruler_cult_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.longevity-from-spirit-strength
+  motif_id: longevity_from_spirit_strength
+  label: Longevity from spirit strength
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to tell whether spirit strength is tutelary
+    aid, vital soul-force, ritual power, or an ethnographic concept.
+  cautions: Culturally specific spirit-power concepts should be reviewed with source
+    context; possible groups include divine_intervention, soul_loss_restoration, external_soul,
+    or immortality_without_renewal.
+  suggested_aliases:
+  - longevity_through_spirit_power
+  - long_life_from_spiritual_strength
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.looking-back-during-escape-causes-reversal-or-death
+  motif_id: looking_back_during_escape_causes_reversal_or_death
+  label: Looking back during escape causes reversal or death
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prohibition whose violation causes death or reversal fits taboo or
+    binding command logic.
+  cautions: If the episode is an escape from an otherworld or death realm, descent
+    or death_and_transformation should be considered as contextual secondary mappings.
+  suggested_aliases:
+  - fatal_looking_back_taboo
+  - looking_back_breaks_escape_condition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lord-of-the-dead-assigns-places
+  motif_id: lord_of_the_dead_assigns_places
+  label: Lord of the dead assigns places
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: role_variant
+  confidence: high
+  rationale: An underworld or death authority assigning places belongs to organized
+    postmortem passage and afterlife administration.
+  cautions: May also support divine_judgment if assignment depends on moral evaluation
+    rather than administrative placement.
+  suggested_aliases:
+  - death_lord_assigns_afterlife_places
+  - lord_of_dead_administers_afterlife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-ancestral-skill-after-sickness
+  motif_id: loss_of_ancestral_skill_after_sickness
+  label: loss of ancestral skill after sickness
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe illness, loss of inherited knowledge, spirit
+    affliction, or a contextual ethnographic detail.
+  cautions: Review source evidence before mapping; possible placements include sacred_knowledge
+    for lost ancestral skill, soul_loss_restoration for sickness-linked vital loss,
+    or exclude if merely contextual.
+  suggested_aliases:
+  - sickness_causes_loss_of_ancestral_skill
+  - ancestral_skill_lost_after_illness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-glory-linked-with-lie-and-violent-death
+  motif_id: loss_of_glory_linked_with_lie_and_violent_death
+  label: Loss of Glory linked with lie and violent death
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Loss of sacred glory following falsehood and ending in violent death
+    reads as moral consequence and judgment.
+  cautions: Zoroastrian glory concepts may carry specific theological meaning; if
+    the glory is royal charisma, royal_legitimacy may be an important secondary mapping.
+  suggested_aliases:
+  - glory_lost_through_falsehood
+  - lie_causes_loss_of_glory_and_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-or-failure-of-immortality
+  motif_id: loss_or_failure_of_immortality
+  label: loss or failure of immortality
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: immortality_without_renewal
+  suggested_group_label: Immortality Without Renewal
+  relationship: narrower_than
+  confidence: high
+  rationale: The failure to obtain or keep immortality fits the broader group for
+    incomplete or defective deathlessness.
+  cautions: If the passage emphasizes a quest for a life-giving substance, sacred_substance
+    or hero_journey may also be relevant.
+  suggested_aliases:
+  - failed_immortality
+  - lost_chance_at_immortality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional taxonomy placements only and do not imply transmission
+  or common origin.
+- Several single-occurrence longevity labels need source review to distinguish motif
+  from genealogical, theological, or ethnographic detail.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for wave5c batch 0249.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0249
+  input_sha256: 369e927c3d893daaffb364e8c3768e1bb2b9150c5f15fdec66fe9a9b2fa291ac
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3768
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.periodic-communal-recitation-of-a-disciplinary-text
+  motif_id: periodic_communal_recitation_of_a_disciplinary_text
+  label: periodic communal recitation of a disciplinary text
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Communal recitation of a disciplinary text transmits sacred instruction
+    and communal discipline through authorized speech.
+  cautions: Could also fit sacred_law or sacred_time if the passage emphasizes monastic
+    rule or calendrical observance more than textual recitation.
+  suggested_aliases:
+  - communal_recitation_of_sacred_discipline
+  - periodic_recitation_of_monastic_rule
+  - ritual_recitation_of_disciplinary_text
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.periodic-religious-assembly-on-calendrical-days
+  motif_id: periodic_religious_assembly_on_calendrical_days
+  label: Periodic religious assembly on calendrical days
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label centers on religious assembly structured by calendrical recurrence,
+    matching sacred ritual time.
+  cautions: If the passage focuses on the content of teaching or discipline during
+    the assembly, sacred_knowledge or sacred_law may be useful secondary mappings.
+  suggested_aliases:
+  - calendrical_religious_assembly
+  - periodic_ritual_assembly
+  - religious_assembly_on_sacred_days
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.periodic-renewal-of-royal-coffins-and-bone-wrappings
+  motif_id: periodic_renewal_of_royal_coffins_and_bone_wrappings
+  label: Periodic renewal of royal coffins and bone wrappings
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif describes recurrent mortuary care for royal remains, fitting
+    ritual maintenance of relations with the dead or ancestors.
+  cautions: Culturally specific mortuary practice; may also touch royal_legitimacy
+    or sacred_time. Human review should confirm whether this is ancestor veneration,
+    royal memorial renewal, or an ethnographic detail.
+  suggested_aliases:
+  - periodic_renewal_of_ancestral_remains
+  - renewal_of_royal_bone_wrappings
+  - recurrent_mortuary_care_for_royal_ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.periphrastic-or-analogical-posthumous-reference
+  motif_id: periphrastic_or_analogical_posthumous_reference
+  label: Periphrastic or analogical posthumous reference
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a manner of reference or naming after death rather
+    than a narrative or symbolic motif.
+  cautions: If source evidence shows ritual avoidance names or death-taboo speech,
+    review under sacred_law or curse_blessing_speech instead of excluding.
+  suggested_aliases:
+  - posthumous_periphrastic_reference
+  - analogical_reference_to_the_dead
+  - death_related_reference_formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perished-predecessors-associated-with-ancient-ruins
+  motif_id: perished_predecessors_associated_with_ancient_ruins
+  label: Perished predecessors associated with ancient ruins
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may point to ancestral memory, prior-world destruction, sacred
+    landscape, or an etiological explanation of ruins.
+  cautions: Culturally sensitive and context-dependent; avoid mapping to catastrophe
+    or ancestors without evidence for ritual relation, moral judgment, or mythic origin
+    narrative.
+  suggested_aliases:
+  - ancient_ruins_as_traces_of_predecessors
+  - ruins_associated_with_earlier_people
+  - perished_ancestors_linked_to_ruins
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.permanent-demotion-for-official-incompetence
+  motif_id: permanent_demotion_for_official_incompetence
+  label: Permanent demotion for official incompetence
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Demotion of an incompetent official concerns social order, ethical governance,
+    and administrative accountability.
+  cautions: May be a legal or didactic passage detail rather than a mythic motif;
+    if divine or moral reckoning is explicit, divine_judgment may be secondary.
+  suggested_aliases:
+  - official_demoted_for_incompetence
+  - administrative_accountability_for_incompetence
+  - loss_of_office_for_failed_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.permanent-dwelling-with-the-righteous-mediator
+  motif_id: permanent_dwelling_with_the_righteous_mediator
+  label: permanent dwelling with the righteous mediator
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: Permanent dwelling with a righteous mediator likely describes a postmortem
+    or eschatological destination associated with salvation or judgment.
+  cautions: If the passage emphasizes mediator authority rather than afterlife geography,
+    divine_judgment or supreme_ruler may be secondary; source context needed.
+  suggested_aliases:
+  - postmortem_dwelling_with_righteous_mediator
+  - eschatological_dwelling_with_the_righteous_one
+  - abiding_with_the_righteous_mediator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.permanent-exclusion-after-transgression
+  motif_id: permanent_exclusion_after_transgression
+  label: Permanent exclusion after transgression
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Permanent exclusion as a consequence of transgression fits disciplinary
+    sacred law and maintenance of communal order.
+  cautions: If exclusion is framed as karmic or divine punishment rather than communal
+    discipline, divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - exclusion_after_transgression
+  - permanent_expulsion_for_offense
+  - disciplinary_exclusion_after_offense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.permission-and-release-after-prior-offense
+  motif_id: permission_and_release_after_prior_offense
+  label: Permission and release after prior offense
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The phrase is too context-poor: it may describe legal pardon, ritual
+    release, narrative permission, or social reconciliation.'
+  cautions: Do not map solely from abstract wording; review whether the offense and
+    release involve covenant, sacred law, mercy, or a passage-specific plot detail.
+  suggested_aliases:
+  - release_after_offense
+  - permission_granted_after_prior_wrongdoing
+  - pardon_and_release_after_offense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.permission-before-correction-of-an-offence
+  motif_id: permission_before_correction_of_an_offence
+  label: Permission before correction of an offence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A formal requirement of permission before correcting an offense fits
+    regulated discipline and sacred communal procedure.
+  cautions: May be an over-specific monastic legal rule; preserve local procedural
+    detail rather than promoting as a broad motif unless it recurs.
+  suggested_aliases:
+  - formal_permission_before_disciplinary_correction
+  - permission_required_for_correcting_offense
+  - regulated_correction_of_offence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence disciplinary or mortuary-practice labels; suggested
+  placements are provisional and should preserve local legal or ritual context.
+- Avoid treating calendrical recurrence as seasonal myth unless the source explicitly
+  links the practice to cosmic or agricultural renewal.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; culturally specific and context-poor
+    labels require source review before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3768
+  input_sha256: 250101d63ce601b2be0c8c2a3277103db14af2ba91e656a6a9ea938cc8c41d56
+

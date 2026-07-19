@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0715
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.concealment-or-inheritance-of-ritual-paraphernalia
+  motif_id: concealment_or_inheritance_of_ritual_paraphernalia
+  label: Concealment or inheritance of ritual paraphernalia
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: Ritual paraphernalia may function as sacred power objects passed through
+    inheritance or hidden custody.
+  cautions: Single occurrence and culturally specific ceremonial context; could instead
+    be sacred_law, sacred_exchange, lineage transmission, or an ethnographic detail
+    depending on source evidence.
+  suggested_aliases:
+  - inherited_ritual_paraphernalia
+  - hidden_ritual_objects
+  - concealed_ceremonial_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concentric-ritual-dance-arrangement
+  motif_id: concentric_ritual_dance_arrangement
+  label: concentric ritual dance arrangement
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: low
+  rationale: A ritual dance formation may belong with cyclic ceremonial order if the
+    dance organizes sacred time or communal renewal.
+  cautions: The label may describe choreography rather than a symbolic motif; source
+    evidence is needed before indexing beyond a local ritual detail.
+  suggested_aliases:
+  - ritual_dance_arrangement
+  - concentric_ceremonial_dance
+  - circular_ritual_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-blessing-tied-to-moral-purpose
+  motif_id: conditional_blessing_tied_to_moral_purpose
+  label: Conditional blessing tied to moral purpose
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A blessing whose efficacy depends on moral purpose is a performative
+    sacred speech act tied to ethical condition.
+  cautions: Could also support sacred_law or divine_judgment if the passage emphasizes
+    moral rule or consequence rather than the blessing speech itself.
+  suggested_aliases:
+  - conditional_blessing
+  - moral_condition_for_blessing
+  - blessing_conditioned_by_purpose
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-curse-attached-to-removal-of-object
+  motif_id: conditional_curse_attached_to_removal_of_object
+  label: Conditional curse attached to removal of object
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A curse activated by removing an object is a conditional performative
+    speech act binding action to consequence.
+  cautions: If the object itself is the main power-bearing element, secondary indexing
+    under sacred_treasures may be useful.
+  suggested_aliases:
+  - curse_on_removal_of_object
+  - conditional_object_curse
+  - tabooed_object_removal_curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-divine-strengthening-and-reversal-of-battle
+  motif_id: conditional_divine_strengthening_and_reversal_of_battle
+  label: conditional divine strengthening and reversal of battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine strengthening that reverses battle belongs with sacred combat
+    and divinely aided warrior action.
+  cautions: Could also relate to divine_intervention, but the battlefield strengthening
+    and battle reversal make divine_warrior the better broad query group.
+  suggested_aliases:
+  - divine_strengthening_reverses_battle
+  - divine_empowerment_changes_battle_outcome
+  - conditional_divine_aid_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-meal-as-ritual-test-for-plan-success
+  motif_id: conditional_meal_as_ritual_test_for_plan_success
+  label: Conditional meal as ritual test for plan success
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: A meal used ritually to test success may involve sacred exchange, hospitality,
+    or divinatory evaluation through food.
+  cautions: Single occurrence and composite wording; may be a passage-specific ritual
+    action rather than a reusable motif. Consider prophecy_divination or sacred_substance
+    if evidence emphasizes omen-reading or food power.
+  suggested_aliases:
+  - ritual_meal_as_test
+  - conditional_food_test
+  - meal_omen_for_success
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-ritual-speech-and-silence-in-hunting
+  motif_id: conditional_ritual_speech_and_silence_in_hunting
+  label: conditional ritual speech and silence in hunting
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rules about ritual speech or silence in hunting center on spoken or withheld
+    utterance as binding sacred action.
+  cautions: Could also fit sacred_law if framed as hunting taboo or ritual prohibition;
+    preserve hunting context as evidence detail.
+  suggested_aliases:
+  - ritual_silence_in_hunting
+  - hunting_speech_taboo
+  - conditional_hunting_speech_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confession-and-purification-through-sacred-law
+  motif_id: confession_and_purification_through_sacred_law
+  label: Confession and purification through sacred law
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Confession and purification governed by sacred law fits purity regulation
+    and moral-ritual order.
+  cautions: May also support divine_judgment or sacrifice if the passage emphasizes
+    reckoning, atonement, or offering rather than legal purity.
+  suggested_aliases:
+  - confessional_purification
+  - purification_by_sacred_law
+  - ritual_confession_and_purity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confession-and-purity-signaled-by-silence
+  motif_id: confession_and_purity_signaled_by_silence
+  label: Confession and purity signaled by silence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Silence as a sign of purity or confession may function as disciplinary
+    or ritual order under sacred law.
+  cautions: The meaning of silence is tradition- and context-dependent; it may be
+    monastic discipline, narrative convention, or passage-specific commentary rather
+    than a motif.
+  suggested_aliases:
+  - purity_signaled_by_silence
+  - confessional_silence
+  - ritual_silence_as_purity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confession-and-resolve-remove-sin-under-sacred-law
+  motif_id: confession_and_resolve_remove_sin_under_sacred_law
+  label: Confession and resolve remove sin under sacred law
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Confession plus resolve to remove sin is a ritual-ethical purification
+    pattern governed by sacred law.
+  cautions: Could be indexed secondarily under divine_judgment if the passage stresses
+    moral reckoning or under sacrifice if an atonement rite is present.
+  suggested_aliases:
+  - confession_and_resolve_remove_sin
+  - repentant_confession_under_sacred_law
+  - sin_removed_by_confession_and_resolve
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence Native American Southwest ritual labels; human
+  review should check whether they are reusable motifs or local ceremonial details
+  requiring culturally careful handling.
+- Where labels combine ritual action with moral condition, mappings favor broad query
+  groups such as sacred_law, sacred_exchange, or curse_blessing_speech rather than
+  proposing new canonical motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0715
+  input_sha256: 6e138c4c326f9af3cecc384a8a21e399ab03877c5ec302d08e8f58e8d2bb2c91
+

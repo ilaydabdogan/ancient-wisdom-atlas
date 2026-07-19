@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0978
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.public-assumption-of-ritual-responsibility
+  motif_id: public_assumption_of_ritual_responsibility
+  label: public assumption of ritual responsibility
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Assuming ritual responsibility may function as vow, obligation, or reciprocal
+    sacred duty.
+  cautions: Single occurrence and culturally specific ritual context; verify whether
+    it is obligation, office-taking, vow fulfillment, or passage artifact.
+  suggested_aliases:
+  - ritual_responsibility_assumed_publicly
+  - public_acceptance_of_ritual_obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-avowal-of-manslaying
+  motif_id: public_avowal_of_manslaying
+  label: Public avowal of manslaying
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A public avowal of killing may regulate honor, liability, or social order
+    after violence.
+  cautions: Could belong to sacred_combat, covenant/legal speech, or be a contextual
+    legal custom; source evidence needed.
+  suggested_aliases:
+  - public_avowal_of_killing
+  - public_declaration_of_manslaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-challenge-to-battle-through-ritualized-language
+  motif_id: public_challenge_to_battle_through_ritualized_language
+  label: Public challenge to battle through ritualized language
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on ritualized speech that publicly initiates or binds
+    a battle challenge.
+  cautions: May also index under sacred_combat if the combat setting is primary; avoid
+    reducing speech-act function to warfare alone.
+  suggested_aliases:
+  - ritualized_battle_challenge
+  - public_battle_challenge_by_formal_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-confession-for-restored-purity
+  motif_id: public_confession_for_restored_purity
+  label: public confession for restored purity
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Public confession restoring purity fits ritual discipline, purity regulation,
+    and sacred social order.
+  cautions: If the passage emphasizes offering or expiation, sacrifice or sacred_exchange
+    may be secondary; preserve Buddhist disciplinary context.
+  suggested_aliases:
+  - confession_restoring_ritual_purity
+  - public_confession_and_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-exposure-of-bound-divine-lovers
+  motif_id: public_exposure_of_bound_divine_lovers
+  label: Public exposure of bound divine lovers
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on divine lovers whose erotic transgression or union
+    is publicly exposed.
+  cautions: Episode-specific and may instead be trickster humiliation, divine judgment,
+    or shame/public spectacle; do not promote as canonical without recurrence.
+  suggested_aliases:
+  - bound_divine_lovers_exposed_publicly
+  - public_shaming_of_divine_lovers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-exposure-of-ritual-specialist
+  motif_id: public_exposure_of_ritual_specialist
+  label: public exposure of ritual specialist
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Public exposure could mean revelation, accusation, shaming, initiation,
+    or display of a ritual role.
+  cautions: Ambiguous and culturally specific; needs passage evidence before mapping
+    to sacred_law, divine_judgment, theophany, or textual artifact.
+  suggested_aliases:
+  - public_revelation_of_ritual_specialist
+  - ritual_specialist_publicly_exposed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-fulfillment-of-vows-through-sun-facing-dance-and-lamentation
+  motif_id: public_fulfillment_of_vows_through_sun_facing_dance_and_lamentation
+  label: Public fulfillment of vows through sun-facing dance and lamentation
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core function is public vow fulfillment through ritual performance
+    and sacred orientation.
+  cautions: Sun-facing dance and lamentation are culturally specific evidence details;
+    could also relate to sacred_fire/solar power or lament_and_mourning depending
+    on passage emphasis.
+  suggested_aliases:
+  - public_vow_fulfillment_by_ritual_dance
+  - sun_facing_vow_fulfillment_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-nonreligious-marriage-rite-with-modest-reluctance-and-witnessed-pronouncement
+  motif_id: public_nonreligious_marriage_rite_with_modest_reluctance_and_witnessed_pronouncement
+  label: public nonreligious marriage rite with modest reluctance and witnessed pronouncement
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a highly specific ethnographic marriage custom and
+    explicitly nonreligious rite.
+  cautions: Preserve as source evidence if needed for social custom; not useful as
+    a cross-tradition mythic motif without recurrence or sacred function.
+  suggested_aliases:
+  - witnessed_marriage_pronouncement_with_modest_reluctance
+  - public_nonreligious_marriage_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-penalties-converted-into-sacred-and-civic-works
+  motif_id: public_penalties_converted_into_sacred_and_civic_works
+  label: Public penalties converted into sacred and civic works
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Penalties transformed into civic or sacred works link punishment with
+    repair of public sacred order.
+  cautions: Could also fit divine_judgment if punishment by sacred authority is explicit;
+    may be legal-historical rather than mythic.
+  suggested_aliases:
+  - penalties_converted_to_sacred_public_works
+  - public_punishment_as_civic_repair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-procession-carrying-a-divine-image
+  motif_id: public_procession_carrying_a_divine_image
+  label: public procession carrying a divine image
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A divine image carried in procession ritually manifests sacred presence
+    to the public.
+  cautions: If the image as crafted/animated object is primary, sacred_craft or sacred_treasures
+    may be secondary; avoid treating every cult image as direct theophany without
+    evidence.
+  suggested_aliases:
+  - divine_image_procession
+  - cult_image_carried_in_public_procession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence public ritual or legal acts;
+  human review should check whether they are recurrent motifs or ethnographic/contextual
+  details.
+- For culturally specific Indigenous ritual labels, preserve local evidence and avoid
+  overgeneralizing from the generated label alone.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft suggestions only; ambiguous public ritual labels require source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0978
+  input_sha256: 6bf7ead8d87ba8e523c9c5ee47dfca568f48e44b68837552d387845912e145ba
+

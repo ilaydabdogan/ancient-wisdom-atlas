@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1850
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.gambling-with-personal-and-household-property
+  motif_id: gambling_with_personal_and_household_property
+  label: Gambling with personal and household property
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a socially consequential wager, but current groups
+    do not clearly distinguish gambling, risk, household property, or social disorder.
+  cautions: Single occurrence; may be an episode detail, legal custom, trickster contest,
+    or moral downfall depending on passage evidence.
+  suggested_aliases:
+  - wagering_household_property
+  - gambling_away_household_goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    - pride_and_downfall
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.garment-used-as-child-carrier
+  motif_id: garment_used_as_child_carrier
+  label: garment used as child carrier
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a practical material-culture detail rather than a
+    recurring symbolic or narrative motif.
+  cautions: If the garment protects a miraculous or endangered child, preserve as
+    evidence under miraculous_child or sacred_vessel; otherwise exclude from motif
+    queries.
+  suggested_aliases:
+  - child_carried_in_garment
+  - garment_as_infant_carrier
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - sacred_vessel
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gautama-birth-story-cycle
+  motif_id: gautama_birth_story_cycle
+  label: Gautama birth-story cycle
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: narrower_than
+  confidence: high
+  rationale: A Gautama birth-story cycle centers on extraordinary sacred birth and
+    destiny, which fits the miraculous_child/sacred_birth complex.
+  cautions: The label is tradition- and figure-specific; preserve local Buddhist/Shan
+    context and do not treat the whole cycle as a generic motif if only a source heading.
+  suggested_aliases:
+  - gautama_sacred_birth_cycle
+  - buddha_birth_story_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-and-age-differentiation-in-garments
+  motif_id: gender_and_age_differentiation_in_garments
+  label: gender and age differentiation in garments
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as ethnographic classification of clothing by gender
+    and age rather than a narrative motif.
+  cautions: If the source frames garment differentiation as ritual law, initiation,
+    taboo, or status transformation, reassess under sacred_law or initiation.
+  suggested_aliases:
+  - age_and_gender_marked_clothing
+  - garments_mark_gender_and_age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-and-size-inversion-in-a-tribe
+  motif_id: gender_and_size_inversion_in_a_tribe
+  label: gender and size inversion in a tribe
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Gender and size inversion could be social reversal, otherworldly difference,
+    satire, or ethnographic description; the narrative function is unclear.
+  cautions: Avoid mapping to duality or shapeshifter unless the passage shows symbolic
+    opposition or transformation rather than description of a group.
+  suggested_aliases:
+  - gender_size_reversal
+  - inverted_gender_and_body_size
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    - otherworld
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-differentiated-adornment
+  motif_id: gender_differentiated_adornment
+  label: Gender-differentiated adornment
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a descriptive clothing/adornment detail, not a reusable
+    mythic pattern by itself.
+  cautions: If adornment marks initiation, marriage, sacred status, or ritual prohibition,
+    map the local function rather than the generic gender distinction.
+  suggested_aliases:
+  - gender_marked_adornment
+  - sex_differentiated_adornment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_law
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-differentiated-dance-participation
+  motif_id: gender_differentiated_dance_participation
+  label: gender-differentiated dance participation
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label may indicate ritual role differentiation in dance, but no existing
+    group cleanly covers gendered ritual performance.
+  cautions: Single occurrence; determine whether the dance is sacred rite, initiation,
+    social custom, mourning, or passage artifact before indexing.
+  suggested_aliases:
+  - gendered_dance_roles
+  - gender_specific_dance_participation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - initiation
+    - sacred_time
+    - enchanting_music
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-differentiated-inheritance-of-land-and-tree-property
+  motif_id: gender_differentiated_inheritance_of_land_and_tree_property
+  label: Gender-differentiated inheritance of land and tree property
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This concerns inheritance rules and property categories, which could
+    be sacred law or social order, but the mythic function is not evident.
+  cautions: Likely ethnographic or legal detail unless linked to sacred land, ancestral
+    trees, lineage origin, or divine ordinance.
+  suggested_aliases:
+  - gendered_inheritance_of_land_and_trees
+  - sex_differentiated_property_inheritance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    - axis_mundi
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-exclusion-at-men-s-clubhouse-threshold
+  motif_id: gender_exclusion_at_men_s_clubhouse_threshold
+  label: gender exclusion at men’s clubhouse threshold
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A gendered threshold exclusion functions as a ritual/social prohibition
+    regulating access to a marked communal space.
+  cautions: Could also involve initiation or threshold symbolism if the clubhouse
+    is a sacred men's house; preserve local context and avoid reducing it to generic
+    taboo.
+  suggested_aliases:
+  - gendered_threshold_exclusion
+  - women_excluded_from_men_s_house_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-exclusive-male-communal-house
+  motif_id: gender_exclusive_male_communal_house
+  label: gender-exclusive male communal house
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A male-only communal house is best treated as a social/ritual access
+    rule under sacred law unless a stronger initiation function is shown.
+  cautions: May be an ethnographic institution rather than a motif; if the house is
+    an initiation space, initiation may be the better primary mapping.
+  suggested_aliases:
+  - male_exclusive_communal_house
+  - men_s_communal_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence gendered social or material-culture
+  details; several should remain provisional until passage evidence shows ritual,
+  narrative, or symbolic function.
+- Avoid creating a broad gender-role group from this batch alone; current evidence
+  is too sparse and context-dependent.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review needed especially for culturally
+    specific Melanesian, Inuit, Andamanese, and Native American Southwest social-practice
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1850
+  input_sha256: d0d55dfc3afb64af4a4db3029e7664a8e0cae679a7a8b0944655b2466dabccd1
+

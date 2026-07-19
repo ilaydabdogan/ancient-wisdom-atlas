@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1973
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rejected-treacherous-helper-or-lover
+  motif_id: rejected_treacherous_helper_or_lover
+  label: rejected treacherous helper or lover
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is treachery by a helper or lover, making violated trust
+    more central than love itself.
+  cautions: Single occurrence; if the passage emphasizes rejected love rather than
+    broken trust, sacred_love may be a secondary context.
+  suggested_aliases:
+  - treacherous_helper_or_lover
+  - lover_or_helper_betrayal_after_rejection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-unlike-children-become-cannibal-giants
+  motif_id: rejected_unlike_children_become_cannibal_giants
+  label: Rejected unlike children become cannibal giants
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines rejected children, abnormal transformation, and cannibal
+    giants, and the dominant function is unclear.
+  cautions: Culturally sensitive and over-composite; could involve persecuted child,
+    shapeshifter, monstrous transformation, or etiological origin depending on source
+    evidence.
+  suggested_aliases:
+  - rejected_children_become_cannibal_giants
+  - outcast_unlike_children_transform_into_giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejecting-siblings-regret-missed-marriage
+  motif_id: rejecting_siblings_regret_missed_marriage
+  label: rejecting siblings regret missed marriage
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label concerns marriage choice and regret over a missed union, which
+    fits the love/marriage field if evidence supports it.
+  cautions: Highly contextual and possibly a plot detail; sibling relationship may
+    make the social or kinship context important and requires source review.
+  suggested_aliases:
+  - regret_over_rejected_marriage
+  - missed_marriage_regretted_by_siblings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejection-of-poisoned-arrow-attribution
+  motif_id: rejection_of_poisoned_arrow_attribution
+  label: rejection of poisoned-arrow attribution
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes rejection of an explanatory attribution rather
+    than a narrative motif.
+  cautions: If a passage actually narrates death, blame, or poisoning by arrow, preserve
+    that evidence under combat, judgment, or death motifs instead.
+  suggested_aliases:
+  - poisoned_arrow_attribution_rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relative-age-classification-of-same-generation-persons
+  motif_id: relative_age_classification_of_same_generation_persons
+  label: Relative-age classification of same-generation persons
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a kinship or ethnographic classification note, not a mythic narrative
+    or symbolic motif.
+  cautions: Keep as social-structure metadata if needed, but exclude from Pattern
+    Explorer motif queries.
+  suggested_aliases:
+  - same_generation_relative_age_classification
+  - kinship_age_classification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relative-elaboration-of-childbirth-ceremonies-across-neighboring-groups
+  motif_id: relative_elaboration_of_childbirth_ceremonies_across_neighboring_groups
+  label: Relative elaboration of childbirth ceremonies across neighboring groups
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label compares ritual elaboration across groups and reads as ethnographic
+    commentary rather than a motif.
+  cautions: If specific childbirth rites recur in source passages, map those rites
+    separately after review.
+  suggested_aliases:
+  - comparative_elaboration_of_childbirth_ceremonies
+  - childbirth_ceremony_comparison_across_groups
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.release-beyond-rebirth-and-time
+  motif_id: release_beyond_rebirth_and_time
+  label: release beyond rebirth and time
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Liberation beyond rebirth and time fits the contemplative liberation
+    path and interior transformation complex.
+  cautions: This may be doctrinal phrasing rather than a narrative motif; review whether
+    the passage depicts a quest, teaching, or realization. Relationship marked meta_artifact
+    because the label is abstract doctrine-like.
+  suggested_aliases:
+  - liberation_beyond_rebirth_and_time
+  - release_from_rebirth_and_time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.release-of-a-confined-wife-during-communal-distraction
+  motif_id: release_of_a_confined_wife_during_communal_distraction
+  label: release of a confined wife during communal distraction
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be a very specific rescue or escape episode involving
+    marital confinement.
+  cautions: Could fit sacred_love, betrayal/violated trust, captivity escape, or social-order
+    themes; no existing group cleanly captures the function without source context.
+  suggested_aliases:
+  - confined_wife_released_during_distraction
+  - wife_released_from_confinement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.released-spouse-directed-to-a-humble-caretaker-bride
+  motif_id: released_spouse_directed_to_a_humble_caretaker_bride
+  label: Released spouse directed to a humble caretaker bride
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label concerns spouse redirection and bride selection, broadly within
+    marriage and love motifs.
+  cautions: Highly episode-specific; may be a household or social-status resolution
+    rather than a recurring sacred-love motif.
+  suggested_aliases:
+  - released_spouse_directed_to_humble_bride
+  - humble_caretaker_bride_chosen_for_released_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-boundary-in-marriage-and-possible-conversion
+  motif_id: religious_boundary_in_marriage_and_possible_conversion
+  label: Religious boundary in marriage and possible conversion
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage across a religious boundary with possible conversion centers
+    on sacred affiliation and binding social-religious obligations.
+  cautions: Could also fit sacred_love if the romance is central, or sacred_law if
+    legal/religious prohibition is emphasized.
+  suggested_aliases:
+  - interreligious_marriage_boundary
+  - marriage_conversion_boundary
+  - religious_boundary_crossed_by_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, episode-specific, or ethnographic/classificatory
+  rather than stable motifs.
+- The love-family bucket appears to contain multiple social-structure and doctrinal
+  labels that should not be promoted without passage evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize human review for culturally sensitive
+    Indigenous labels and over-specific marital/captivity episodes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1973
+  input_sha256: f0b1119bd62c309b9152f4ddf0b765d39f29076fb3ead73a25c12de405b615d6
+

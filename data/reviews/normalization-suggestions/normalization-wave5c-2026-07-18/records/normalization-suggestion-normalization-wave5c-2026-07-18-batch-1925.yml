@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1925
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.murder-of-children-in-revenge-against-spouse
+  motif_id: murder_of_children_in_revenge_against_spouse
+  label: murder of children in revenge against spouse
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a highly specific kin-murder revenge episode; existing groups
+    do not cleanly cover spouse-directed revenge through child murder.
+  cautions: Could fit sacred_love, betrayal_violated_trust, divine_judgment, or sacred_combat
+    depending on whether the source emphasizes marital betrayal, vengeance, punishment,
+    or tragic family violence. Single occurrence; culturally and ethically sensitive.
+  suggested_aliases:
+  - filicide_as_revenge_against_spouse
+  - child_murder_as_spousal_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - betrayal_violated_trust
+    - divine_judgment
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.murder-plot-hidden-behind-marriage-indignation
+  motif_id: murder_plot_hidden_behind_marriage_indignation
+  label: Murder plot hidden behind marriage indignation
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed murder plot using marital indignation as cover centers on
+    deception and violated relational trust.
+  cautions: If the passage emphasizes marriage rules or social sanction rather than
+    betrayal, sacred_law or covenant may be better secondary mappings. Single occurrence
+    and context-dependent.
+  suggested_aliases:
+  - concealed_murder_plot_under_marriage_grievance
+  - marriage_indignation_masks_murder_plot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.murdered-male-children-and-concealed-surviving-son
+  motif_id: murdered_male_children_and_concealed_surviving_son
+  label: murdered male children and concealed surviving son
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A surviving son concealed after male children are killed resembles the
+    threatened-child and hidden-upbringing pattern.
+  cautions: If the emphasis is dynastic succession or revenge rather than protected
+    infancy, royal_legitimacy, divine_judgment, or sacred_combat may be relevant.
+    Preserve the gendered child-killing detail as evidence.
+  suggested_aliases:
+  - concealed_surviving_son_after_child_murders
+  - threatened_male_children_with_hidden_survivor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.murderer-s-house-entered-by-intended-bride
+  motif_id: murderer_s_house_entered_by_intended_bride
+  label: murderer’s house entered by intended bride
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a specific bride-in-danger scene, but its function could
+    be bridal quest, household threshold, murder trap, or betrayal.
+  cautions: Could fit sacred_love, threshold_guardian, betrayal_violated_trust, or
+    trickster depending on whether the bride enters knowingly, is lured, tested, or
+    endangered. Too little evidence for confident mapping.
+  suggested_aliases:
+  - bride_enters_murderer_house
+  - intended_bride_enters_killer_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - threshold_guardian
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutilated-mother-nourishes-infant-with-milk
+  motif_id: mutilated_mother_nourishes_infant_with_milk
+  label: mutilated mother nourishes infant with milk
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif centers on maternal nourishment and protection despite bodily
+    harm, fitting the sacred maternal field.
+  cautions: If the mother is not divine or archetypal, this may be a tragic kinship
+    episode better placed with sacrifice or lament_and_mourning. Mutilation detail
+    should not be generalized away.
+  suggested_aliases:
+  - wounded_mother_nourishes_infant
+  - mutilated_maternal_body_feeds_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-desire-as-inexhaustible-wine
+  motif_id: mutual_desire_as_inexhaustible_wine
+  label: mutual desire as inexhaustible wine
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Sufi mutual desire imaged as inexhaustible wine fits sacred love and
+    longing, with wine as a devotional or mystical symbol.
+  cautions: Also relates to sacred_substance if the passage emphasizes wine/intoxication
+    more than love. Avoid treating symbolic wine as literal ritual substance without
+    evidence.
+  suggested_aliases:
+  - desire_as_inexhaustible_wine
+  - mutual_love_as_mystical_wine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-love-at-first-sight-and-finding-the-lover
+  motif_id: mutual_love_at_first_sight_and_finding_the_lover
+  label: mutual love at first sight and finding the lover
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mutual love and the search or finding of the beloved fit the sacred love
+    and longing complex.
+  cautions: If the passage is a courtship quest with trials, hero_journey or initiation
+    may be relevant. Single occurrence may be an episode detail rather than a durable
+    motif.
+  suggested_aliases:
+  - love_at_first_sight_and_search_for_beloved
+  - mutual_recognition_of_lovers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mutual-lovers-meet-at-a-midpoint-between-communities
+  motif_id: mutual_lovers_meet_at_a_midpoint_between_communities
+  label: Mutual lovers meet at a midpoint between communities
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core is lovers negotiating separation and union across social distance,
+    fitting sacred love and longing.
+  cautions: The midpoint/between-communities detail may instead emphasize boundary
+    crossing, alliance, or social mediation; consider threshold_guardian, covenant,
+    or sacred_law if supported by source evidence.
+  suggested_aliases:
+  - lovers_meet_between_communities
+  - courtship_midpoint_between_groups
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mysterious-woman-summons-elder-from-mountain-height-for-marriage
+  motif_id: mysterious_woman_summons_elder_from_mountain_height_for_marriage
+  label: mysterious woman summons elder from mountain height for marriage
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines mysterious woman, mountain height, elder, and marriage;
+    the dominant function is unclear without passage context.
+  cautions: Could map to sacred_love, otherworld, axis_mundi, theophany, or sacred_marriage
+    depending on whether the woman is human, spirit, divine, or an otherworld bride.
+    Avoid collapsing mountain imagery into axis_mundi unless it functions cosmologically.
+  suggested_aliases:
+  - mysterious_woman_summons_from_mountain_for_marriage
+  - mountain_woman_marriage_summons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - otherworld
+    - axis_mundi
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.naive-adult-ignorant-of-birth-and-marriage
+  motif_id: naive_adult_ignorant_of_birth_and_marriage
+  label: Naive adult ignorant of birth and marriage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a comic, philosophical, or social-knowledge episode rather
+    than a clear mythic motif from the label alone.
+  cautions: Could fit sacred_knowledge if ignorance/learning is central, sacred_love
+    if courtship is central, or be excluded if it is merely a passage-specific characterization.
+    Needs source context.
+  suggested_aliases:
+  - adult_ignorance_of_birth_and_marriage
+  - naive_adult_lacks_sexual_and_marital_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_love
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, episode-specific family or marriage
+  violence motifs; human review should verify whether they recur as motifs or should
+  remain evidence details.
+- For love and marriage labels, distinguish sacred/mystical love from ordinary courtship,
+  social alliance, and local narrative setting before final placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1925
+  input_sha256: cf608279c5400ba4139b19e34b78913549ff7f58e7d4c758d0c57c5b99ec13eb
+

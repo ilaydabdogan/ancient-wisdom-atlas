@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2991
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.plotted-night-ambush-marked-by-a-domestic-object
+  motif_id: plotted_night_ambush_marked_by_a_domestic_object
+  label: Plotted night ambush marked by a domestic object
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ambush plotting with a specific object-marker; function
+    depends on whether the object is a signal, boundary marker, trap, or passage detail.
+  cautions: Single occurrence and culturally contextual; may fit sacred_combat, trickster/deception,
+    or be too episode-specific.
+  suggested_aliases:
+  - domestic_object_marks_ambush
+  - ambush_signal_by_household_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plural-wives-as-labor-expansion-in-a-successful-hunter-s-household
+  motif_id: plural_wives_as_labor_expansion_in_a_successful_hunter_s_household
+  label: Plural wives as labor expansion in a successful hunter's household
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Reads as a social or ethnographic household detail rather than a portable
+    mythic motif.
+  cautions: If the passage makes polygyny a recurring narrative engine for rivalry,
+    status, or sacred law, review under sacred_law or sacred_love instead.
+  suggested_aliases:
+  - plural_wives_as_household_labor
+  - polygyny_as_labor_expansion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.polity-imagined-as-a-long-house-with-directional-guardians
+  motif_id: polity_imagined_as_a_long_house_with_directional_guardians
+  label: Polity imagined as a long house with directional guardians
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could express sacred political order, world-center symbolism, guardian-boundary
+    structure, or a culturally specific cosmogram.
+  cautions: Culturally sensitive and single-occurrence; do not flatten into generic
+    axis_mundi or royal_legitimacy without passage evidence.
+  suggested_aliases:
+  - long_house_polity_with_directional_guardians
+  - directional_guardians_of_the_long_house_polity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.polluted-place-cleared-by-lowering-a-carcass
+  motif_id: polluted_place_cleared_by_lowering_a_carcass
+  label: polluted place cleared by lowering a carcass
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core function is ritual management of pollution and place-clearing,
+    fitting purity law and apotropaic regulation.
+  cautions: Carcass-lowering is highly specific; if the rite transfers impurity through
+    a substitute, sacrifice or ritual_expulsion may be a secondary mapping.
+  suggested_aliases:
+  - polluted_place_cleared_by_carcass_rite
+  - carcass_rite_for_clearing_pollution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.polygynous-household-with-wives-in-separate-houses
+  motif_id: polygynous_household_with_wives_in_separate_houses
+  label: polygynous household with wives in separate houses
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe domestic arrangement rather than a narrative
+    or symbolic motif.
+  cautions: Could be reconsidered if separate houses drive rivalry, succession, taboo,
+    or household-boundary ritual in the source.
+  suggested_aliases:
+  - polygyny_with_separate_houses_for_wives
+  - wives_in_separate_houses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.polygyny-with-separate-houses-for-wives
+  motif_id: polygyny_with_separate_houses_for_wives
+  label: Polygyny with separate houses for wives
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This is effectively the same domestic-organization detail as the separate-house
+    polygyny label and is not yet a clear motif.
+  cautions: If recurrent across sources with narrative consequences, consider human
+    review for a household-rivalry or marriage-structure group rather than excluding
+    permanently.
+  suggested_aliases:
+  - polygynous_household_with_wives_in_separate_houses
+  - wives_in_separate_houses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poor-host-household-aided-by-guest-s-hunting-success
+  motif_id: poor_host_household_aided_by_guest_s_hunting_success
+  label: Poor host household aided by guest's hunting success
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The guest-host relation and aid to a poor household fit the hospitality/stranger-guest
+    complex.
+  cautions: If the focus is miraculous abundance or divine animal aid rather than
+    hospitality, divine_intervention or sacred_exchange may be better secondary mappings.
+  suggested_aliases:
+  - poor_host_aided_by_guest_hunter
+  - guest_hunting_success_aids_poor_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poor-laborer-contrasts-his-fate-with-a-wealthy-householder
+  motif_id: poor_laborer_contrasts_his_fate_with_a_wealthy_householder
+  label: poor laborer contrasts his fate with a wealthy householder
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be a moral reflection on fate, envy, poverty, or social
+    order, but the narrative function is unclear.
+  cautions: Could fit death_by_fate, pride_and_downfall, divine_judgment, or be a
+    passage-specific social contrast; source evidence needed.
+  suggested_aliases:
+  - poor_laborer_contrasts_fate_with_wealthy_householder
+  - poverty_contrasted_with_wealthy_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.portable-all-purpose-domestic-vessel
+  motif_id: portable_all_purpose_domestic_vessel
+  label: portable all-purpose domestic vessel
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A practical domestic vessel, without sacred containment or transformation
+    function, is likely an ethnographic object detail.
+  cautions: If the vessel preserves life, contains spirits, performs abundance, or
+    mediates ritual, review under sacred_vessel instead.
+  suggested_aliases:
+  - all_purpose_domestic_vessel
+  - portable_household_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.portage-carrying-of-a-vessel-over-land
+  motif_id: portage_carrying_of_a_vessel_over_land
+  label: Portage carrying of a vessel over land
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes travel logistics involving a vessel; motif value
+    depends on whether the carried vessel enables a sacred journey, preservation,
+    or boundary crossing.
+  cautions: May be a passage artifact. If the vessel is sacred or preserving, map
+    to sacred_vessel; if the journey function dominates, hero_journey or sacred_waters
+    may apply.
+  suggested_aliases:
+  - vessel_portaged_over_land
+  - carrying_a_vessel_over_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence domestic or social details; these
+  should not be promoted without evidence of recurring narrative function.
+- The two separate-house polygyny labels appear synonymous and should be reviewed
+  together if retained as evidence notes.
+- Objects in this batch should not be mapped to sacred_vessel unless the source shows
+  containment, preservation, ritual, or transformative power.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific household and
+    polity labels need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2991
+  input_sha256: 2c60d7ca00fc274593151a73fb0f51d6d7769488ece5f55cff4afbc37467f6f2
+

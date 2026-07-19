@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3525
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heavenly-written-ordinance
+  motif_id: heavenly_written_ordinance
+  label: Heavenly written ordinance
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A written heavenly ordinance fits sacred or revealed knowledge preserved
+    in a celestial record or divine decree.
+  cautions: Could also fit sacred_law if the emphasis is binding command rather than
+    heavenly record; single occurrence needs source check.
+  suggested_aliases:
+  - divine_decree_inscribed_on_a_heavenly_record
+  - cosmic_record_of_divine_decrees
+  - heavenly_written_decree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heavenly-zion-as-national-religious-focus
+  motif_id: heavenly_zion_as_national_religious_focus
+  label: Heavenly Zion as national-religious focus
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: A heavenly sacred city may function as a world center or sacred focus
+    linking earthly community and heavenly order.
+  cautions: The label may be theological, national, or place-specific rather than
+    a reusable motif; could also fit otherworld, royal_legitimacy, or sacred_law depending
+    on passage evidence.
+  suggested_aliases:
+  - heavenly_sacred_city
+  - heavenly_zion
+  - celestial_zion_as_sacred_center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heavens-accompany-the-singer
+  motif_id: heavens_accompany_the_singer
+  label: heavens accompany the singer
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Cosmic or heavenly participation in song fits music or voice acting as
+    supernatural force.
+  cautions: If the passage emphasizes ritual prayer, cosmic praise, or theophany rather
+    than music's power, sacred_exchange or theophany may be secondary fits.
+  suggested_aliases:
+  - cosmic_accompaniment_of_song
+  - heavenly_response_to_sacred_song
+  - cosmic_praise_with_singer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heavens-secured-as-protective-defense
+  motif_id: heavens_secured_as_protective_defense
+  label: Heavens secured as protective defense
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Heavenly protection may reflect sacred powers acting defensively in human
+    or cosmic affairs.
+  cautions: The wording is obscure and may describe cosmological architecture, ritual
+    protection, or passage-specific imagery; source evidence is needed before final
+    mapping.
+  suggested_aliases:
+  - heavenly_protective_defense
+  - sky_as_protective_barrier
+  - secured_heavens_as_defense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heirloom-necklace-possibly-treated-as-talisman
+  motif_id: heirloom_necklace_possibly_treated_as_talisman
+  label: Heirloom necklace possibly treated as talisman
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A necklace treated as a talisman is a power object conferring protection,
+    authority, or special efficacy.
+  cautions: The phrase 'possibly' signals uncertainty; if merely an inherited ornament,
+    it may be too object-specific for pattern queries.
+  suggested_aliases:
+  - heirloom_talisman_necklace
+  - talismanic_heirloom_necklace
+  - inherited_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heirloom-oral-transmission-of-spells-through-kin
+  motif_id: heirloom_oral_transmission_of_spells_through_kin
+  label: Heirloom oral transmission of spells through kin
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: high
+  rationale: Kin-based oral transmission of spells is the preservation and transfer
+    of sacred or effective knowledge.
+  cautions: If the passage centers on the speech act itself rather than inherited
+    knowledge, curse_blessing_speech may be a secondary mapping.
+  suggested_aliases:
+  - kin_transmission_of_spells
+  - inherited_oral_spell_knowledge
+  - lineage_transmission_of_sacred_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.helper-at-the-well
+  motif_id: helper_at_the_well
+  label: Helper at the well
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A helper encountered at a well may be an agent of providential aid or
+    guidance.
+  cautions: Well imagery could signal sacred waters, hospitality, marriage encounter,
+    or a simple scene setting; label alone is too contextual.
+  suggested_aliases:
+  - well_helper
+  - helper_encounter_at_well
+  - providential_helper_at_water_source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.helper-beings-emerging-from-a-pouch
+  motif_id: helper_beings_emerging_from_a_pouch
+  label: Helper beings emerging from a pouch
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: A pouch functions as a container releasing supernatural helper beings,
+    fitting sacred vessel/container logic.
+  cautions: Could also fit divine_intervention if the helper agency is primary; avoid
+    overgeneralizing from a single culture-specific object.
+  suggested_aliases:
+  - supernatural_helpers_from_container
+  - helper_beings_from_pouch
+  - container_releases_helper_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.helper-disables-enemies-with-expelled-substance
+  motif_id: helper_disables_enemies_with_expelled_substance
+  label: Helper disables enemies with expelled substance
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A helper using extraordinary means to disable enemies may represent supernatural
+    aid in conflict.
+  cautions: The expelled substance detail is highly specific and culturally sensitive;
+    could be trickster, sacred combat, or passage artifact depending on evidence.
+  suggested_aliases:
+  - helper_disables_enemies_by_bodily_substance
+  - supernatural_helper_incapacitating_enemies
+  - helper_uses_expelled_substance_as_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.helper-encountered-in-a-boat
+  motif_id: helper_encountered_in_a_boat
+  label: helper encountered in a boat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: An encountered helper may be a guide or providential agent in a journey
+    scene.
+  cautions: Boat setting may indicate water passage, otherworld voyage, or ordinary
+    travel; label is too scene-specific without passage context.
+  suggested_aliases:
+  - boat_helper
+  - helper_encounter_on_boat
+  - maritime_helper_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and scene-specific; human review should verify
+  whether they are durable motifs or evidence details.
+- For helper labels, distinguish supernatural aid from ordinary narrative assistance
+  and from water/boat/well setting motifs.
+- No transmission or borrowing claims are implied by these provisional placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions for wave5c batch 3525.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3525
+  input_sha256: ac944032c79a3713ba981a00ae5f0c3dbee04b54bfa5f302f73042cec137f026
+

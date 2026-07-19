@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0255
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marked-death-place-and-temporary-abandonment
+  motif_id: marked_death_place_and_temporary_abandonment
+  label: marked death place and temporary abandonment
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a mortuary place-marking or avoidance practice, but
+    its ritual function is unclear from wording alone.
+  cautions: Single occurrence; could be death-place taboo, temporary camp abandonment,
+    mourning custom, or ethnographic passage detail.
+  suggested_aliases:
+  - death_place_marking
+  - temporary_abandonment_after_death
+  - mortuary_site_avoidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - sacred_law
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marked-pronunciation-attributed-to-evil-spirits
+  motif_id: marked_pronunciation_attributed_to_evil_spirits
+  label: marked pronunciation attributed to evil spirits
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a linguistic or pronunciation note attributed
+    to spirits rather than a recurring narrative motif.
+  cautions: If the source passage describes spirit-caused speech alteration as possession
+    or affliction, review under sacred_law or divine_intervention instead.
+  suggested_aliases:
+  - spirit_attributed_pronunciation_variant
+  - evil_spirit_pronunciation_marking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marked-ritual-approach-to-a-foretold-death
+  motif_id: marked_ritual_approach_to_a_foretold_death
+  label: marked ritual approach to a foretold death
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A foretold death approached through marked ritual behavior fits the broader
+    fated-death complex.
+  cautions: Could instead belong under sacrifice or sacred_law if the ritual practice,
+    rather than the foretold death, is the passage focus.
+  suggested_aliases:
+  - ritual_preparation_for_foretold_death
+  - foretold_death_ritual_approach
+  - ritualized_acceptance_of_fated_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marked-tree-designates-grave-or-taboo-camp
+  motif_id: marked_tree_designates_grave_or_taboo_camp
+  label: Marked tree designates grave or taboo camp
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A marked tree designating a grave or taboo camp functions as a ritual
+    prohibition and mortuary boundary marker.
+  cautions: Do not map to axis_mundi merely because a tree is present; review whether
+    the tree is cosmological or only a taboo marker.
+  suggested_aliases:
+  - mortuary_taboo_marker_tree
+  - marked_tree_as_grave_marker
+  - tree_marking_taboo_camp
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.market-displacement-in-response-to-death-or-distress
+  motif_id: market_displacement_in_response_to_death_or_distress
+  label: Market displacement in response to death or distress
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a civic ritual response to death or distress,
+    but the mythic or ritual motif is not clear.
+  cautions: Could be a contextual social-order custom, mourning practice, crisis omen
+    response, or passage artifact; source evidence is needed.
+  suggested_aliases:
+  - market_relocation_after_death
+  - civic_displacement_in_mourning
+  - market_moved_due_to_distress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - lament_and_mourning
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marks-on-objects-attributed-to-spirits
+  motif_id: marks_on_objects_attributed_to_spirits
+  label: Marks on objects attributed to spirits
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Spirit-made marks on objects could indicate spirit agency, sacred objects,
+    omens, or a descriptive artifact.
+  cautions: Single occurrence; review whether the marks have narrative function, divinatory
+    value, or are only ethnographic observation.
+  suggested_aliases:
+  - spirit_marks_on_objects
+  - objects_marked_by_spirits
+  - spirit_attributed_object_marks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_treasures
+    - prophecy_divination
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-after-return-from-absence
+  motif_id: marriage_after_return_from_absence
+  label: marriage after return from absence
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: Marriage following a return from absence can function as reunion and
+    social restoration through love or alliance.
+  cautions: Very broad and possibly plot-specific; if return from ordeal is central,
+    hero_journey may be the better parent.
+  suggested_aliases:
+  - post_return_marriage
+  - marriage_after_absence
+  - reunion_marriage_after_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - return
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-alliance-after-return
+  motif_id: marriage_alliance_after_return
+  label: Marriage alliance after return
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on marriage or alliance as the outcome of a return,
+    fitting sacred love and social bonding more than death itself.
+  cautions: If the alliance legitimizes rule or resolves feud, royal_legitimacy or
+    covenant may be more relevant; source context needed.
+  suggested_aliases:
+  - post_return_marriage_alliance
+  - marriage_alliance_following_return
+  - return_marriage_alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - royal_legitimacy
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-as-public-ancestral-and-purificatory-rite
+  motif_id: marriage_as_public_ancestral_and_purificatory_rite
+  label: Marriage as public, ancestral, and purificatory rite
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes marriage as a regulated public rite involving ancestors
+    and purification, fitting sacred social order.
+  cautions: Could also relate to ancestor_rites or sacred_exchange; avoid reducing
+    it to romantic love if ritual-social function is primary.
+  suggested_aliases:
+  - marriage_as_ancestral_purification_rite
+  - public_ritual_marriage_with_ancestors
+  - purificatory_marriage_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - sacred_exchange
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-conditioned-on-warpath-success-or-return
+  motif_id: marriage_conditioned_on_warpath_success_or_return
+  label: Marriage conditioned on warpath success or return
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage is conditioned on successful warpath action or return, making
+    combat ordeal the enabling function.
+  cautions: Could also fit bride-winning or sacred_love if courtship is central; review
+    for culturally specific warpath context.
+  suggested_aliases:
+  - marriage_after_warpath_success
+  - bride_conditioned_on_warrior_return
+  - marriage_reward_for_combat_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - hero_journey
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and may be ethnographic or passage-specific
+  details; suggested placements should remain provisional.
+- Tree, object, and marriage labels were placed by narrative or ritual function rather
+  than by surface imagery alone.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions for batch 0255; human review recommended
+    for low-confidence and culturally specific mortuary or ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0255
+  input_sha256: 8a00e0268e92a23e69905f1ea43c0374aa354daa9c9b38baae2d4f247871a160
+

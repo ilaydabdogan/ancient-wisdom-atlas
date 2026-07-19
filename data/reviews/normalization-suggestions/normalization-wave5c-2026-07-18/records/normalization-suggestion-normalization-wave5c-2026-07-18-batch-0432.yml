@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0432
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.vigil-over-the-unburied-dead-with-praise-of-good-deeds
+  motif_id: vigil_over_the_unburied_dead_with_praise_of_good_deeds
+  label: Vigil over the unburied dead with praise of good deeds
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A vigil and praise for unburied dead are funerary memorial acts honoring
+    the deceased before burial.
+  cautions: Single occurrence; if praise of deeds is mainly moral judgment rather
+    than mortuary rite, divine_judgment or lament_and_mourning may be secondary.
+  suggested_aliases:
+  - funerary_vigil_for_unburied_dead
+  - praise_of_good_deeds_before_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.village-abandonment-after-a-prince-s-death
+  motif_id: village_abandonment_after_a_prince_s_death
+  label: Village abandonment after a prince's death
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe mourning, pollution avoidance, royal death taboo,
+    or an episode-specific migration response.
+  cautions: Highly contextual single occurrence; source evidence is needed before
+    mapping to lament_and_mourning, heroic_funeral_rites, sacred_law, or royal_legitimacy.
+  suggested_aliases:
+  - settlement_abandoned_after_princely_death
+  - community_relocation_after_royal_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.village-burial-as-human-distinction-from-animals
+  motif_id: village_burial_as_human_distinction_from_animals
+  label: village burial as human distinction from animals
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on burial as a socially meaningful rite that distinguishes
+    human mortuary order.
+  cautions: Not necessarily heroic; if the emphasis is ethical anthropology rather
+    than ritual practice, sacred_law or needs_human_review may be preferable.
+  suggested_aliases:
+  - burial_as_human_distinction
+  - mortuary_rites_mark_humanity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.village-burial-as-respect
+  motif_id: village_burial_as_respect
+  label: Village burial as respect
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Burial as an act of respect belongs with funerary rites and memorial
+    obligations toward the dead.
+  cautions: The group label is hero-oriented but already includes general funeral
+    rites; if village burial regulates purity or ancestor relations, ancestor_rites
+    or sacred_law may be secondary.
+  suggested_aliases:
+  - respectful_village_burial
+  - burial_as_respect_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.village-spirits-governing-communal-luck
+  motif_id: village_spirits_governing_communal_luck
+  label: Village spirits governing communal luck
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Village spirits that affect communal fortune function as tutelary or
+    communal spirit agents already folded under divine_intervention.
+  cautions: Could overlap with ancestor_rites if these are ancestral dead, or sacred_exchange
+    if luck depends on offerings; culturally specific spirit roles need review.
+  suggested_aliases:
+  - communal_tutelary_spirits_govern_luck
+  - village_spirits_control_communal_fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violation-and-proposed-restoration-of-kinship-and-ancestral-order
+  motif_id: violation_and_proposed_restoration_of_kinship_and_ancestral_order
+  label: violation and proposed restoration of kinship and ancestral order
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: low
+  rationale: The label describes breach and repair of binding kinship or ancestral
+    order, close to sacred bond restoration.
+  cautions: Abstract phrasing may be interpretive rather than motif-level; could instead
+    fit ancestor_rites, sacred_law, or divine_judgment depending on passage evidence.
+  suggested_aliases:
+  - restoration_of_kinship_and_ancestral_order
+  - breach_and_repair_of_ancestral_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violation-of-ancestral-remains
+  motif_id: violation_of_ancestral_remains
+  label: Violation of ancestral remains
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Disturbing ancestral remains may involve ancestor rites, sacred law,
+    desecration, or judgment, but the function is unclear.
+  cautions: Culturally sensitive mortuary material; review source context and avoid
+    flattening into general punishment or artifact handling without evidence.
+  suggested_aliases:
+  - desecration_of_ancestral_remains
+  - disturbance_of_ancestor_bones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violation-of-possession-punished-by-death
+  motif_id: violation_of_possession_punished_by_death
+  label: Violation of possession punished by death
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is too compressed: possession may mean property, spirit possession,
+    or tabooed control, with death as punishment.'
+  cautions: Needs source evidence before mapping to divine_judgment, sacred_law, curse_blessing_speech,
+    or spirit-affliction/exorcism patterns.
+  suggested_aliases:
+  - possession_violation_punished_by_death
+  - death_penalty_for_violating_possession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violation-of-supernatural-condition-after-drinking-brings-death-or-disappearance
+  motif_id: violation_of_supernatural_condition_after_drinking_brings_death_or_disappearance
+  label: Violation of supernatural condition after drinking brings death or disappearance
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Breaking a supernatural condition or taboo after drinking causes death/disappearance,
+    fitting sacred prohibition and consequence.
+  cautions: The drinking element may indicate sacred_substance or otherworld taboo;
+    if disappearance is transformation rather than punishment, death_and_transformation
+    may be secondary.
+  suggested_aliases:
+  - taboo_violation_after_drinking_brings_death
+  - broken_supernatural_condition_after_drinking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.violent-death-followed-by-extreme-kin-mourning
+  motif_id: violent_death_followed_by_extreme_kin_mourning
+  label: violent death followed by extreme kin mourning
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The core motif is intense kin grief after violent death, directly matching
+    lament and mourning.
+  cautions: If mourning includes formal burial or memorial obligations, heroic_funeral_rites
+    may be a secondary mapping; preserve violent-death specificity as evidence detail.
+  suggested_aliases:
+  - extreme_kin_mourning_after_violent_death
+  - violent_death_and_kin_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence mortuary or kinship-order labels; human review
+  should check whether they are recurring motifs or passage-specific ethnographic/contextual
+  details.
+- Mortuary and ancestral-remains labels may be culturally sensitive; preserve local
+  meaning and avoid overgeneralizing from generated wording alone.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0432
+  input_sha256: e4dbe97de8fa8b8c05c50b7714f2e76287a687010335e90a42deef9cf8daee33
+

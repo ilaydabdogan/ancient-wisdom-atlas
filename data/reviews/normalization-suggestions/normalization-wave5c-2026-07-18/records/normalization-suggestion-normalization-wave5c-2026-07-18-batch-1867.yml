@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1867
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hidden-maiden-sheltered-in-a-wartime-storage-pit
+  motif_id: hidden_maiden_sheltered_in_a_wartime_storage_pit
+  label: Hidden maiden sheltered in a wartime storage pit
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines concealment, gender, wartime danger, and a storage-pit
+    refuge; function is unclear without passage evidence.
+  cautions: May be an over-specific episode detail. Could relate to sacred_vessel,
+    miraculous_child, sacred_love, or wartime survival depending on whether the maiden's
+    concealment affects identity, marriage, protection, or plot only.
+  suggested_aliases:
+  - maiden_hidden_in_storage_pit
+  - wartime_hidden_maiden
+  - concealed_maiden_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-or-denied-human-bride
+  motif_id: hidden_or_denied_human_bride
+  label: Hidden or denied human bride
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed or denied bride centers on marriage recognition, access to
+    the beloved, and disruption of a union.
+  cautions: If the passage emphasizes proof of identity rather than the relationship,
+    recognition_tokens_hidden_identity may be a stronger secondary mapping. Single
+    occurrence; preserve local context.
+  suggested_aliases:
+  - concealed_bride
+  - denied_bride
+  - hidden_human_bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-or-missing-wings-lead-to-stranded-maiden-and-marriage
+  motif_id: hidden_or_missing_wings_lead_to_stranded_maiden_and_marriage
+  label: Hidden or missing wings lead to stranded maiden and marriage
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: This resembles a swan-maiden or supernatural bride pattern involving
+    loss of flight, stranding, and marriage, but no current group cleanly captures
+    that composite.
+  cautions: Could map to sacred_love if marriage is central, shapeshifter if bird-maiden
+    transformation is central, or otherworld if the maiden is an otherworld being.
+    Human review should check whether coercive capture is involved.
+  suggested_aliases:
+  - missing_wings_strand_maiden
+  - hidden_wings_bride
+  - stranded_winged_maiden_marriage
+  - swan_maiden_wings_hidden
+  suggested_new_group:
+    id: supernatural_bride_captured_by_hidden_wings
+    label: Supernatural Bride Captured by Hidden Wings
+    description: A winged, animal-form, or otherworld woman is prevented from returning
+      to her realm when wings, feathers, skin, or flight tokens are hidden or lost,
+      leading to marriage, captivity, or later recovery and departure.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    - otherworld
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups cover love, shapeshifting,
+      and otherworld broadly but do not preserve the recurrent narrative mechanism
+      of hidden flight-token causing stranded marriage.
+- suggestion_id: normalization.suggestion.hidden-or-unnoticed-person-on-an-animal
+  motif_id: hidden_or_unnoticed_person_on_an_animal
+  label: Hidden or unnoticed person on an animal
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label reads as a scene-level concealment detail rather than a durable
+    symbolic or narrative motif.
+  cautions: If source evidence shows the animal functions as magical mount, helper,
+    disguise, or recognition device, remap to shapeshifter, divine_intervention, or
+    recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - person_hidden_on_animal
+  - unnoticed_rider_on_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-or-unseen-bridegroom-revealed-through-a-woman
+  motif_id: hidden_or_unseen_bridegroom_revealed_through_a_woman
+  label: hidden or unseen bridegroom revealed through a woman
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is revelation of a concealed bridegroom's identity or
+    presence through an intermediary woman.
+  cautions: If the bridegroom is supernatural or taboo-unseen, sacred_love or otherworld
+    may be relevant. The exact mechanism of revelation should be reviewed.
+  suggested_aliases:
+  - unseen_bridegroom_revealed
+  - hidden_bridegroom_revelation
+  - concealed_bridegroom_identified
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-orphan-child-fostered-in-low-status-before-royal-marriage
+  motif_id: hidden_orphan_child_fostered_in_low_status_before_royal_marriage
+  label: hidden orphan child fostered in low status before royal marriage
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden or low-status fostered child later entering royal marriage fits
+    the protected or concealed child with destined elevation pattern.
+  cautions: If the emphasis is marriage alliance or dynastic authorization, royal_legitimacy
+    or sacred_love may be secondary. Single occurrence and culturally specific details
+    should remain evidence notes.
+  suggested_aliases:
+  - hidden_orphan_fostered_low_status
+  - low_status_foster_child_royal_marriage
+  - concealed_child_raised_humbly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-parentage-in-communal-child-rearing
+  motif_id: hidden_parentage_in_communal_child_rearing
+  label: hidden parentage in communal child-rearing
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: narrower_than
+  confidence: medium
+  rationale: Concealed parentage during child-rearing commonly supports hidden identity,
+    threatened childhood, or later destiny recognition.
+  cautions: If the passage is only a social custom or ethnographic note, exclude from
+    pattern queries. If lineage proof is central, recognition_tokens_hidden_identity
+    may be a secondary mapping.
+  suggested_aliases:
+  - concealed_parentage_child_rearing
+  - hidden_parentage
+  - unknown_parentage_in_fostering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-person-in-a-tree-revealed-by-falling-liquid
+  motif_id: hidden_person_in_a_tree_revealed_by_falling_liquid
+  label: Hidden person in a tree revealed by falling liquid
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Tree concealment and liquid revelation could be a recognition scene,
+    sacred-tree episode, or merely a plot device.
+  cautions: Do not map to axis_mundi unless the tree has sacred center or realm-connecting
+    function. Could fit recognition_tokens_hidden_identity if the falling liquid reveals
+    identity or location in a recurring narrative function.
+  suggested_aliases:
+  - person_hidden_in_tree_revealed
+  - tree_concealment_revealed_by_liquid
+  - hidden_tree_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-personal-tokens-within-animal-bodies
+  motif_id: hidden_personal_tokens_within_animal_bodies
+  label: hidden personal tokens within animal bodies
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Personal tokens concealed in animal bodies function as identity proofs
+    or recoverable evidence objects.
+  cautions: If the tokens contain life-force or soul rather than proof of identity,
+    external_soul may be more appropriate. If the animal body is a sacrificial or
+    hunting context, preserve that evidence detail.
+  suggested_aliases:
+  - personal_tokens_hidden_in_animals
+  - recognition_tokens_in_animal_bodies
+  - hidden_identity_tokens_in_animal_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-poison-and-fire-ambush
+  motif_id: hidden_poison_and_fire_ambush
+  label: Hidden poison-and-fire ambush
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: A concealed poison and fire ambush suggests treacherous violence, especially
+    if occurring under cover of trust or hospitality.
+  cautions: Review bucket may be misleading. If this is ordinary combat stratagem
+    rather than betrayal, sacred_combat or trickster may fit better; if only a scene
+    detail, exclude as over-specific.
+  suggested_aliases:
+  - poison_fire_ambush
+  - concealed_poison_and_fire_trap
+  - hidden_ambush_by_poison_and_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; suggested
+  placements should be treated as provisional evidence-bucketing, not taxonomy changes.
+- Motifs involving hidden brides, missing wings, and concealed parentage may require
+  source review for consent, captivity, kinship, and identity functions before final
+  mapping.
+- Avoid treating every hidden person or concealed object as a recognition motif unless
+  the passage uses concealment/revelation to prove identity, kinship, authority, or
+  relationship.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1867
+  input_sha256: 5b8749fe0d9cfcc8333d25709a2cd1db3bbb75fe40cc90a1ecc30131655680c7
+

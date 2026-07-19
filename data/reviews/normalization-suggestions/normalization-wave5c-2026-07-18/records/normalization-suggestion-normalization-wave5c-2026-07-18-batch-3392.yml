@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3392
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.escape-by-extraordinary-leap-over-pursuers
+  motif_id: escape_by_extraordinary_leap_over_pursuers
+  label: escape by extraordinary leap over pursuers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An escape from pursuit may be a heroic ordeal, trickster evasion, or
+    episode-specific feat depending on context.
+  cautions: Single occurrence and highly action-specific; avoid promoting unless similar
+    pursuit-escape variants recur.
+  suggested_aliases:
+  - extraordinary_leap_escape
+  - leap_over_pursuers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - trickster
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-by-hiding-from-pursuers
+  motif_id: escape_by_hiding_from_pursuers
+  label: escape by hiding from pursuers
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hiding from pursuers functions as evasion through concealment, fitting
+    the trickster/boundary-crossing escape complex.
+  cautions: If the passage emphasizes refuge, divine rescue, or initiation rather
+    than cunning evasion, another group may be better.
+  suggested_aliases:
+  - concealment_escape_from_pursuers
+  - hiding_from_pursuers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-by-inducing-sleep-in-a-nonhuman-carrier
+  motif_id: escape_by_inducing_sleep_in_a_nonhuman_carrier
+  label: Escape by inducing sleep in a nonhuman carrier
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Inducing sleep in a nonhuman carrier to escape is a deception/evasion
+    strategy, close to trickster escape patterns.
+  cautions: Could also relate to enchanting_music or magical sleep if the means is
+    song or sound; preserve carrier detail as evidence.
+  suggested_aliases:
+  - escape_by_inducing_sleep
+  - sleep_induced_escape_from_carrier
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - animal_helpers
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-by-leaving-substitute-objects-in-bed
+  motif_id: escape_by_leaving_substitute_objects_in_bed
+  label: escape by leaving substitute objects in bed
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: Substitute objects left to deceive pursuers or captors are a clear trickster-style
+    escape stratagem.
+  cautions: If the objects become animated doubles or identity tokens, sacred_craft
+    or recognition_tokens_hidden_identity may be secondary.
+  suggested_aliases:
+  - substitute_objects_in_bed_escape
+  - decoy_objects_enable_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-by-misdirection-of-tracks-or-route
+  motif_id: escape_by_misdirection_of_tracks_or_route
+  label: Escape by misdirection of tracks or route
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: Misdirecting tracks or route is a deception-based escape, fitting trickster
+    evasion and boundary crossing.
+  cautions: Could be ordinary pursuit detail if no cunning, transformation, or liminal
+    function is present.
+  suggested_aliases:
+  - misdirected_tracks_escape
+  - false_trail_escape
+  - route_misdirection_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-by-raft-from-rock-throwing-giants
+  motif_id: escape_by_raft_from_rock_throwing_giants
+  label: escape by raft from rock-throwing giants
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A raft escape from giant attackers centers on water passage as a means
+    of survival and boundary crossing.
+  cautions: The rock-throwing giant detail may be episode-specific; if the focus is
+    monster pursuit rather than water passage, human review may prefer hero_journey
+    or trickster.
+  suggested_aliases:
+  - raft_escape_from_giants
+  - water_escape_from_giant_pursuers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - trickster
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-by-sequentially-thrown-magical-objects
+  motif_id: escape_by_sequentially_thrown_magical_objects
+  label: escape by sequentially thrown magical objects
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Magical objects used in sequence to enable escape function as power objects
+    conferring protection or survival.
+  cautions: If the emphasis is pursuit deception rather than the objects' power, trickster
+    may be a better primary group; may be a candidate for a future magical-flight
+    subgroup if recurring.
+  suggested_aliases:
+  - magical_object_escape_sequence
+  - magical_flight_by_thrown_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-by-substituting-weight-in-a-container
+  motif_id: escape_by_substituting_weight_in_a_container
+  label: Escape by substituting weight in a container
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: Substituting weight in a container is a deception tactic used to evade
+    detection or captivity.
+  cautions: If the container itself is sacred or life-preserving, sacred_vessel may
+    be secondary; current label reads mainly as trickster stratagem.
+  suggested_aliases:
+  - substituted_weight_escape
+  - container_weight_deception_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-by-thrown-objects-creating-barriers
+  motif_id: escape_by_thrown_objects_creating_barriers
+  label: Escape by thrown objects creating barriers
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Thrown objects that create protective barriers are magical power objects
+    enabling survival or escape.
+  cautions: This overlaps with trickster escape and magical-flight tale types; consider
+    a future group only if many barrier-creating escape objects recur.
+  suggested_aliases:
+  - barrier_creating_thrown_objects
+  - magical_barrier_escape
+  - obstacle_flight_by_thrown_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.escape-enabled-by-bitter-flesh
+  motif_id: escape_enabled_by_bitter_flesh
+  label: escape enabled by bitter flesh
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to tell whether bitter flesh is a deception,
+    taboo substance, predator deterrent, or passage-specific detail.
+  cautions: Single occurrence; may be an over-specific narrative detail rather than
+    a reusable motif. Source evidence needed before mapping to trickster or sacred_substance.
+  suggested_aliases:
+  - bitter_flesh_escape
+  - inedible_body_enables_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_substance
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels describe pursuit-escape stratagems. Existing groups can hold many
+  as trickster functional variants, but repeated recurrence may justify a future narrower
+  'magical flight and pursuit escape' review cluster.
+- Do not infer transmission or tale-type identity from these placements; most items
+  are single-occurrence and require passage-level confirmation.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; many labels are single-occurrence
+    pursuit-escape details.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3392
+  input_sha256: 6418d3fe903714c1f068f7fcf231687994de62a6442fcfef1e8672dcfe8bcbc5
+

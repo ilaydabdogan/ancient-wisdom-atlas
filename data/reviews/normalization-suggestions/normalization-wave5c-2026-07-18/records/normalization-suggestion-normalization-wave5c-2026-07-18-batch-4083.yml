@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4083
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wampum-as-expected-message-credential
+  motif_id: wampum_as_expected_message_credential
+  label: Wampum as expected message credential
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Wampum functioning as a credential for a message resembles a token proving
+    authority, identity, or legitimate communication.
+  cautions: Culturally specific diplomatic object; review with Northeast Woodlands
+    context before flattening into generic recognition-token logic.
+  suggested_aliases:
+  - message credential token
+  - wampum as diplomatic credential
+  - wampum validating a message
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wampum-shed-instead-of-tears
+  motif_id: wampum_shed_instead_of_tears
+  label: Wampum shed instead of tears
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label presents wampum as a ritualized substitute or medium for mourning
+    tears.
+  cautions: Wampum has culturally specific diplomatic, mnemonic, and condolence functions;
+    human review should preserve local meaning and avoid reducing it to generic grief
+    symbolism.
+  suggested_aliases:
+  - wampum as ritual tears
+  - wampum as condolence medium
+  - wampum substituting for tears
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wasting-illness-sent-by-sorcery
+  motif_id: wasting_illness_sent_by_sorcery
+  label: wasting illness sent by sorcery
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Illness attributed to harmful occult agency overlaps with spirit-affliction
+    and protective/ritual danger patterns currently folded under sacred_law.
+  cautions: Could instead require a sorcery, witchcraft, or spirit-affliction group;
+    source context is needed to distinguish narrative attack, ritual diagnosis, social
+    accusation, or ethnographic artifact.
+  suggested_aliases:
+  - sorcery-sent wasting illness
+  - illness caused by sorcery
+  - magically inflicted wasting disease
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.watch-hound-detects-hidden-attackers-and-dies-defending-the-homestead
+  motif_id: watch_hound_detects_hidden_attackers_and_dies_defending_the_homestead
+  label: watch hound detects hidden attackers and dies defending the homestead
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a detailed episode combining animal detection, defense,
+    death, and homestead attack without a clear existing broad motif.
+  cautions: May be an episode-specific narrative detail; if recurring, it might belong
+    under a future loyal animal guardian or animal helper/protector grouping.
+  suggested_aliases:
+  - loyal watch hound dies defending home
+  - animal guardian detects ambush
+  - guard dog dies defending homestead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_combat
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.watched-outsiders-in-hostile-territory
+  motif_id: watched_outsiders_in_hostile_territory
+  label: watched outsiders in hostile territory
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a situational plot condition rather than a durable symbolic
+    or narrative motif.
+  cautions: If the passage involves a formal threshold test, hostile surveillance,
+    or taboo-bound foreign territory, it may be recoverable under initiation or threshold_guardian
+    after evidence review.
+  suggested_aliases:
+  - outsiders under surveillance
+  - foreigners watched in hostile territory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.watchers-stationed-at-elevated-places
+  motif_id: watchers_stationed_at_elevated_places
+  label: watchers stationed at elevated places
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: role_variant
+  confidence: low
+  rationale: Elevated watchers may relate to sacred height, cosmic oversight, or guardian
+    roles, but the function is unclear from the label alone.
+  cautions: Could be a military lookout detail, angelic/cosmic watcher motif, or ritual
+    geography; do not map to axis_mundi unless the elevation has sacred or cosmological
+    significance.
+  suggested_aliases:
+  - elevated watchers
+  - watchers on high places
+  - sentinels stationed above
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - theophany
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.watchful-camp-under-threat-of-night-attack
+  motif_id: watchful_camp_under_threat_of_night_attack
+  label: watchful camp under threat of night attack
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A threatened night attack and armed vigilance are combat-scene elements
+    within warfare narrative.
+  cautions: May be too contextual for pattern queries unless night vigilance or nocturnal
+    assault recurs as a formal motif.
+  suggested_aliases:
+  - camp vigilant against night attack
+  - threatened nocturnal camp assault
+  - watch before night battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.watchful-charioteer-as-scout-and-describer
+  motif_id: watchful_charioteer_as_scout_and_describer
+  label: watchful charioteer as scout and describer
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: A charioteer serving as scout and describer is a heroic-combat support
+    role, but not clearly a symbolic motif.
+  cautions: Likely role-specific episode detail; review whether the charioteer functions
+    as seer, battle narrator, guide, or ordinary attendant before indexing.
+  suggested_aliases:
+  - charioteer as battle scout
+  - watchful charioteer describes the field
+  - scout-charioteer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - prophecy_divination
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.watchful-many-eyed-deity
+  motif_id: watchful_many_eyed_deity
+  label: watchful many-eyed deity
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: A many-eyed watchful deity suggests divine surveillance and moral witnessing,
+    aligning with judgment and reckoning functions.
+  cautions: If the passage emphasizes cosmic vision or manifestation rather than judgment,
+    theophany or dream_and_vision may be a better secondary mapping.
+  suggested_aliases:
+  - many-eyed watchful god
+  - all-seeing deity
+  - divine watcher with many eyes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.watchful-meditation-repelling-evil-influence
+  motif_id: watchful_meditation_repelling_evil_influence
+  label: watchful meditation repelling evil influence
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Meditative vigilance that repels evil influence fits interior discipline
+    on a mystical path.
+  cautions: Could also belong under sacred_law or apotropaic protection if framed
+    as a prescribed protective rite rather than contemplative transformation.
+  suggested_aliases:
+  - vigilant meditation against evil
+  - watchfulness repels evil influence
+  - meditative guarding of the heart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and highly contextual; recommendations should
+  be treated as provisional evidence placements rather than taxonomy edits.
+- Wampum labels require culturally careful human review because the object may function
+  simultaneously as message credential, condolence practice, mnemonic record, and
+  diplomatic substance.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 4083.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4083
+  input_sha256: 3dd4034fe8e85206dfb514c41f9700cce716f896f5886a76ebf5e8011accffea
+

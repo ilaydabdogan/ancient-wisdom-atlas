@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2079
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-marries-woman
+  motif_id: animal_marries_woman
+  label: Animal marries woman
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animal-human marriage may involve shapeshifting, otherworld alliance,
+    animal spouse, or clan-origin material; existing groups do not identify the function
+    from label alone.
+  cautions: Single occurrence and culturally specific Northwest Coast context; avoid
+    reducing to shapeshifter unless transformation or hidden animal spouse evidence
+    is present.
+  suggested_aliases:
+  - animal_human_marriage
+  - animal_spouse
+  - woman_marries_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - otherworld
+    - sacred_love
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-master-grants-or-withholds-game
+  motif_id: animal_master_grants_or_withholds_game
+  label: animal master grants or withholds game
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Masters and Game Guardians
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on a nonhuman animal-master regulating hunting success,
+    reciprocity, and subsistence rather than simple animal transformation.
+  cautions: Culturally sensitive subsistence and spirit-owner concepts need human
+    review; may overlap sacred_exchange or sacred_law when framed as hunting obligations.
+  suggested_aliases:
+  - master_of_animals
+  - animal_owner_grants_game
+  - game_guardian_withholds_animals
+  - lord_of_game_animals
+  suggested_new_group:
+    id: animal_masters_game_guardians
+    label: Animal Masters and Game Guardians
+    description: Spirit owners, animal masters, or guardians of game animals grant,
+      withhold, release, or regulate animals for human subsistence according to ritual,
+      moral, or reciprocal obligations.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    related_group_ids:
+    - divine_intervention
+    - animal_helpers
+    - sacrifice
+    reason_existing_groups_insufficient: Existing animal-related groups emphasize
+      trickster, shapeshifting, or helpers, while this pattern concerns nonhuman sovereignty
+      over game and hunting reciprocity.
+- suggestion_id: normalization.suggestion.animal-materials-incorporated-into-ceremonial-regalia
+  motif_id: animal_materials_incorporated_into_ceremonial_regalia
+  label: Animal materials incorporated into ceremonial regalia
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ceremonial regalia made with animal materials functions as a sacred power
+    object or ritual equipment.
+  cautions: May be an ethnographic detail rather than a narrative motif; Plains ceremonial
+    contexts require careful review and may also involve sacred_law or sacred_exchange.
+  suggested_aliases:
+  - animal_material_regalia
+  - animal_power_regalia
+  - ceremonial_regalia_with_animal_parts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-mediated-execution
+  motif_id: animal_mediated_execution
+  label: animal-mediated execution
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An animal used in execution could be punishment, martyrdom, royal violence,
+    miracle, or passage-specific historical detail.
+  cautions: Single occurrence; do not map to divine_judgment without evidence that
+    the execution is sacralized or morally framed.
+  suggested_aliases:
+  - execution_by_animal
+  - animal_as_execution_agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-mediation-makes-new-food-edible
+  motif_id: animal_mediation_makes_new_food_edible
+  label: animal mediation makes new food edible
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal mediating the usability of a new food functions like a culture-hero
+    provision of subsistence knowledge.
+  cautions: If the passage emphasizes food taboo, ritual preparation, or animal-master
+    reciprocity, sacred_law or the proposed animal_masters_game_guardians group may
+    be better.
+  suggested_aliases:
+  - animal_makes_food_edible
+  - animal_teaches_food_use
+  - animal_mediates_new_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-messenger-becomes-warrior-and-receives-a-messenger
+  motif_id: animal_messenger_becomes_warrior_and_receives_a_messenger
+  label: Animal messenger becomes warrior and receives a messenger
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines animal messenger role, status transformation, warrior
+    identity, and message receipt in a way that depends on episode context.
+  cautions: Likely too composite for direct group mapping; could involve shapeshifter,
+    divine_warrior, or divine_intervention depending on evidence.
+  suggested_aliases:
+  - animal_messenger_transformed_into_warrior
+  - animal_messenger_status_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - divine_warrior
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-messenger-carries-a-human-to-an-animal-people-s-dwelling
+  motif_id: animal_messenger_carries_a_human_to_an_animal_people_s_dwelling
+  label: Animal messenger carries a human to an animal people's dwelling
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transport by an animal messenger to animal people's dwelling suggests
+    passage into a nonordinary or other-than-human realm.
+  cautions: If the animal people are ordinary narrative actors rather than an enchanted
+    realm, review as animal-helper or messenger detail instead.
+  suggested_aliases:
+  - animal_messenger_transports_human
+  - journey_to_animal_people
+  - animal_people_dwelling_visit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-messenger-carrying-a-written-summons-or-news
+  motif_id: animal_messenger_carrying_a_written_summons_or_news
+  label: animal messenger carrying a written summons or news
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: An animal carrying a summons or news may function as a supernatural messenger
+    or guide, fitting divine_intervention if nonordinary agency is present.
+  cautions: Could be a folktale plot device without sacred function; needs review
+    before treating as a pattern-query motif.
+  suggested_aliases:
+  - animal_messenger_with_message
+  - animal_carries_written_summons
+  - animal_brings_news
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-messenger-failure-determines-later-condition
+  motif_id: animal_messenger_failure_determines_later_condition
+  label: animal messenger failure determines later condition
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A failed animal message that explains a present condition is etiological,
+    likely accounting for an origin or permanent feature of the world.
+  cautions: If the later condition is specifically mortality, death_and_transformation
+    may be a better secondary mapping; review source context.
+  suggested_aliases:
+  - failed_animal_message_etiology
+  - animal_messenger_failure_etiology
+  - failed_message_explains_present_condition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-messenger-gives-subsistence-rules
+  motif_id: animal_messenger_gives_subsistence_rules
+  label: Animal messenger gives subsistence rules
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rules governing subsistence are sacred or ritual law transmitted through
+    an animal messenger.
+  cautions: Could also fit animal_masters_game_guardians if the messenger speaks for
+    game owners, or culture_hero if the focus is founding subsistence practices.
+  suggested_aliases:
+  - animal_messenger_teaches_subsistence_rules
+  - animal_delivers_hunting_rules
+  - animal_bearer_of_subsistence_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels involve Indigenous animal-person, animal-master, and subsistence-rule
+  concepts; human review should preserve local meanings and avoid flattening them
+  into generic trickster or shapeshifter categories.
+- Consider a durable new normalization group for animal masters/game guardians if
+  similar hunting reciprocity and spirit-owner labels recur across batches.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft suggestions only; source passages needed for culturally specific animal-person
+    and subsistence motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2079
+  input_sha256: a32167521f89252de144bfb6bc6859267bcd87127ddea4dca8d13e604ed4d3bc
+

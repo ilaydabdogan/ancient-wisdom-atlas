@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3597
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.irrigation-works-for-fertility
+  motif_id: irrigation_works_for_fertility
+  label: irrigation works for fertility
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe fertility, agriculture, sacred water, or a practical
+    infrastructure detail rather than a stable mythic motif.
+  cautions: Single occurrence; source context needed to know whether irrigation is
+    symbolic, ritual, etiological, or merely descriptive.
+  suggested_aliases:
+  - fertility_through_irrigation
+  - irrigation_as_fertility_support
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacred_time
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.islets-as-fragments-of-a-former-mainland
+  motif_id: islets_as_fragments_of_a_former_mainland
+  label: Islets as fragments of a former mainland
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Explaining islets as remnants of a former landmass is an etiological
+    landscape-formation motif.
+  cautions: If tied to flood, sinking land, or catastrophe, flood_and_renewal may
+    be a secondary placement; avoid assuming world creation from label alone.
+  suggested_aliases:
+  - island_fragment_etiology
+  - islets_from_broken_mainland
+  - fragmented_landscape_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.isolated-defender-after-alliance-collapse
+  motif_id: isolated_defender_after_alliance_collapse
+  label: Isolated defender after alliance collapse
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: An isolated defender after failed alliance belongs with martial crisis
+    and combat under sacred_combat.
+  cautions: Could be a political narrative detail rather than a sacred combat motif;
+    if emphasis is betrayal of allies, covenant or betrayal_violated_trust may be
+    relevant.
+  suggested_aliases:
+  - lone_defender_after_alliance_failure
+  - defender_abandoned_by_allies
+  - alliance_collapse_leaves_defender_isolated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - covenant
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.isolated-indigenous-development-of-civilisation
+  motif_id: isolated_indigenous_development_of_civilisation
+  label: Isolated indigenous development of civilisation
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label reads as a historical or comparative-development claim, not
+    a narrative motif.
+  cautions: Do not use for transmission or origin inference in motif queries; preserve
+    only as commentary/provenance if needed.
+  suggested_aliases:
+  - independent_development_of_civilisation
+  - isolated_civilisational_development
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.isolated-place-preserving-primitive-life
+  motif_id: isolated_place_preserving_primitive_life
+  label: isolated place preserving primitive life
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could involve an otherworld, remnant primordial age, sacred
+    refuge, or ethnographic commentary.
+  cautions: The wording 'primitive life' is potentially problematic and may reflect
+    outsider classification; review source evidence and preferred terminology.
+  suggested_aliases:
+  - isolated_place_preserving_ancient_life
+  - remote_refuge_preserving_earlier_life
+  - enclave_of_primordial_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - world_ages_cosmic_decline
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.isolation-as-protection-and-barrier-to-exchange
+  motif_id: isolation_as_protection_and_barrier_to_exchange
+  label: isolation as protection and barrier to exchange
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and may describe social organization, boundary
+    logic, or an interpretive theme rather than a concrete motif.
+  cautions: Needs passage evidence to decide whether this is protective boundary,
+    sacred law, exchange failure, or commentary.
+  suggested_aliases:
+  - protective_isolation
+  - isolation_blocks_exchange
+  - separation_as_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.isolation-of-intended-victim-from-companions
+  motif_id: isolation_of_intended_victim_from_companions
+  label: Isolation of intended victim from companions
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Separating a victim from companions is a deception or predatory-stratagem
+    pattern already close to trickster/predator lure motifs.
+  cautions: If the source emphasizes combat ambush, map secondarily to sacred_combat;
+    if ritual sacrifice, sacrifice may be relevant.
+  suggested_aliases:
+  - victim_isolated_from_companions
+  - luring_victim_away_from_group
+  - separation_of_victim_before_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacrifice
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.isolation-on-a-central-lake-rock-before-a-supernatural-task
+  motif_id: isolation_on_a_central_lake_rock_before_a_supernatural_task
+  label: Isolation on a central lake rock before a supernatural task
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Isolation before a supernatural task functions as a threshold ordeal
+    or preparatory initiation.
+  cautions: Highly specific setting details should be preserved as evidence; sacred_waters
+    or axis_mundi may apply if the lake rock functions as a cosmic center or water
+    boundary.
+  suggested_aliases:
+  - ritual_isolation_before_supernatural_task
+  - solitary_ordeal_before_supernatural_task
+  - lake_rock_isolation_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - axis_mundi
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.j-taka-identity-connection
+  motif_id: j_taka_identity_connection
+  label: Jātaka identity connection
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: alias
+  confidence: high
+  rationale: The normalization already treats past-life identity linkage in Jātaka
+    frames under death_and_transformation.
+  cautions: If the label only marks a textual frame or editorial identification formula,
+    it may also need meta-textual handling; preserve Buddhist Jātaka specificity as
+    an alias.
+  suggested_aliases:
+  - past_life_identity_linkage
+  - past_life_identification_in_jataka_frame
+  - jataka_identity_linkage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.j-taka-past-life-identity-disclosure
+  motif_id: j_taka_past_life_identity_disclosure
+  label: Jātaka past-life identity disclosure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: alias
+  confidence: high
+  rationale: This is a close alias of existing past-life identification/disclosure
+    labels already grouped under death_and_transformation.
+  cautions: May be a frame-narrative convention rather than an event within the tale;
+    consider meta-textual secondary review if used only as colophon or identification
+    formula.
+  suggested_aliases:
+  - past_life_identity_disclosure_in_jataka_frame
+  - jataka_past_life_identification
+  - past_life_identification_of_present_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several single-occurrence labels are abstract or contextual and should not be promoted
+  without passage evidence.
+- For Jātaka identity labels, preserve tradition-specific aliases but verify whether
+  the label describes narrative reincarnation/identity or merely a textual frame formula.
+- Avoid treating isolation or indigenous development labels as evidence of historical
+  transmission, borrowing, or independent origin in this normalization task.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally sensitive
+    or abstract isolation/development labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3597
+  input_sha256: 8ea4c8eaaca0e5e71b8872912aaee7c9a8c01d8ebf1fbf56013857eb80d58d72
+

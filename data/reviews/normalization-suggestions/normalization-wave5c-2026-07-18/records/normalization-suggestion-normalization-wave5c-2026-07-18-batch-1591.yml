@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1591
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.honorable-warning-before-combat
+  motif_id: honorable_warning_before_combat
+  label: Honorable warning before combat
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formal warning before fighting is a combat convention shaping honorable
+    or ritualized battle conduct.
+  cautions: Single occurrence; if the warning is primarily moral instruction or fate
+    notice, sacred_law or death_by_fate may be secondary.
+  suggested_aliases:
+  - formal_warning_before_combat
+  - ritualized_warning_before_battle
+  - honorable_precombat_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honored-bear-remains-placed-in-a-tree-cradle-on-a-mountain
+  motif_id: honored_bear_remains_placed_in_a_tree_cradle_on_a_mountain
+  label: Honored bear remains placed in a tree-cradle on a mountain
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal mortuary honor, tree placement, and mountain
+    setting; function cannot be resolved from wording alone.
+  cautions: Culturally specific bear rites need source review. Possible placements
+    include ancestor_rites, axis_mundi, sacred_law, or sacrifice depending on ritual
+    purpose.
+  suggested_aliases:
+  - bear_remains_placed_in_tree_cradle
+  - honored_bear_bones_in_tree_on_mountain
+  - ritual_honoring_of_bear_remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honored-bird-as-model-for-weapon-flight
+  motif_id: honored_bird_as_model_for_weapon_flight
+  label: Honored bird as model for weapon flight
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A bird inspiring weapon flight may concern sacred craft, martial power,
+    animal model, or poetic comparison.
+  cautions: Single occurrence and culturally specific; avoid flattening honored animal
+    knowledge into generic combat without passage evidence.
+  suggested_aliases:
+  - bird_model_for_weapon_flight
+  - weapon_flight_modeled_on_bird
+  - honored_bird_as_weapon_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honored-foreigner-seeking-land-among-locals
+  motif_id: honored_foreigner_seeking_land_among_locals
+  label: Honored foreigner seeking land among locals
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe hospitality, land acquisition, covenantal negotiation,
+    or a contextual social episode.
+  cautions: Likely too dependent on source context; map to hospitality_test_stranger_guest,
+    covenant, or royal_legitimacy only if the narrative function is explicit.
+  suggested_aliases:
+  - honored_foreigner_requests_land
+  - land_seeking_foreigner_among_locals
+  - respected_outsider_negotiates_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honored-guest-with-solar-radiance
+  motif_id: honored_guest_with_solar_radiance
+  label: honored guest with solar radiance
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The core scene appears to be reception or honor of a guest, with solar
+    radiance as a sign of special status.
+  cautions: If radiance marks divine manifestation rather than guest-status, theophany
+    or sacred_fire may be better. Single occurrence.
+  suggested_aliases:
+  - radiant_honored_guest
+  - solar_radiant_guest
+  - honored_guest_marked_by_solar_light
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honored-outsider-attached-to-a-men-s-house
+  motif_id: honored_outsider_attached_to_a_men_s_house
+  label: honored outsider attached to a men's house
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a local social-status detail rather than a recurring symbolic
+    or narrative motif.
+  cautions: If the source shows initiation, adoption, or sacred house affiliation
+    as a transformative rite, review for initiation or sacred_law instead of excluding.
+  suggested_aliases:
+  - honored_outsider_in_mens_house
+  - outsider_affiliated_with_mens_house
+  - honored_stranger_attached_to_mens_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honored-poetic-seat-marked-by-a-tree
+  motif_id: honored_poetic_seat_marked_by_a_tree
+  label: Honored poetic seat marked by a tree
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A tree marking an honored poetic seat may indicate a sacred center or
+    inspired place tied to a tree.
+  cautions: If the focus is poetic authority or memory rather than sacred place, storytelling_as_power
+    or sacred_knowledge may fit better. Single occurrence.
+  suggested_aliases:
+  - poetic_seat_marked_by_tree
+  - tree_marked_seat_of_poetic_honor
+  - honored_poet_seat_by_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honored-royal-guest-in-the-hall
+  motif_id: honored_royal_guest_in_the_hall
+  label: honored royal guest in the hall
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on receiving and honoring a guest in a hall, with royal
+    status specifying the guest role.
+  cautions: If the passage emphasizes recognition of kingship or enthronement, royal_legitimacy
+    may be a better secondary mapping.
+  suggested_aliases:
+  - royal_guest_honored_in_hall
+  - honored_kingly_guest
+  - hall_hospitality_for_royal_guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honored-visitors-compared-to-birds
+  motif_id: honored_visitors_compared_to_birds
+  label: honored visitors compared to birds
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to capture a comparison or literary image rather than
+    a stable narrative motif.
+  cautions: If birds are ritual messengers, omens, or transformed visitors in the
+    passage, review under dream_and_vision, divine_intervention, or shapeshifter.
+  suggested_aliases:
+  - visitors_compared_to_birds
+  - bird_comparison_for_honored_visitors
+  - honored_guests_as_birds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.honored-warriors-eating-from-an-animal-head
+  motif_id: honored_warriors_eating_from_an_animal_head
+  label: honored warriors eating from an animal head
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The scene may be a warrior honor feast, sacrificial meal, or culturally
+    specific ritual food practice.
+  cautions: Needs source review before mapping; possible groups include sacred_combat,
+    sacred_exchange, sacrifice, or sacred_substance. Avoid treating the animal-head
+    detail as canonical without recurrence.
+  suggested_aliases:
+  - warriors_honored_by_eating_from_animal_head
+  - animal_head_feast_for_honored_warriors
+  - honor_feast_from_animal_head
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Many labels in this batch begin with 'honored' and may encode social rank or passage
+  description rather than a durable mythic motif; several require source-level review.
+- Single-occurrence, culturally specific ritual labels should preserve local evidence
+  and avoid premature promotion to canonical taxonomy.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize human review for animal-ritual and
+    outsider-status labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1591
+  input_sha256: c86b923a2f523bfcb52b28a149470240dbbb3efa140f1255a0ae4e51807242e3
+

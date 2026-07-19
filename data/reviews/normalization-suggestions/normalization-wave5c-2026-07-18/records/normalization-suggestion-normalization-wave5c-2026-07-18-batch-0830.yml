@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0830
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.female-led-rite-with-male-exclusion
+  motif_id: female_led_rite_with_male_exclusion
+  label: Female-led rite with male exclusion
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes ritual participation rules and gendered exclusion,
+    which may fit sacred law or purity regulation.
+  cautions: Single occurrence and comparative framing; could be ethnographic detail,
+    gendered cult practice, taboo, or source commentary. Needs passage evidence before
+    indexing broadly.
+  suggested_aliases:
+  - women_only_rite
+  - male_exclusion_from_ritual
+  - gender_restricted_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-ritual-officiant-among-women
+  motif_id: female_ritual_officiant_among_women
+  label: Female ritual officiant among women
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: low
+  rationale: A ritual officiant role within a gendered ritual setting may belong with
+    sacred law and regulated ritual roles.
+  cautions: May be a culturally specific priestly or domestic ritual detail rather
+    than a reusable motif; review Zoroastrian source context carefully.
+  suggested_aliases:
+  - female_ritual_officiant
+  - women_s_ritual_officiant
+  - female_officiant_in_women_s_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fertility-and-child-nourishment-blessing
+  motif_id: fertility_and_child_nourishment_blessing
+  label: fertility and child-nourishment blessing
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: functional_variant
+  confidence: medium
+  rationale: The blessing centers on fertility, nourishment, and child care, themes
+    already covered by sacred feminine and maternal protection.
+  cautions: If the passage emphasizes spoken blessing or ritual formula more than
+    maternal/fertility symbolism, secondary mapping to curse_blessing_speech or sacred_exchange
+    may be better.
+  suggested_aliases:
+  - child_nourishment_blessing
+  - fertility_and_nursing_blessing
+  - maternal_nourishment_blessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fertility-and-household-prosperity-blessing
+  motif_id: fertility_and_household_prosperity_blessing
+  label: fertility and household prosperity blessing
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A blessing for fertility and household prosperity fits reciprocal ritual
+    relations seeking divine favor and abundance.
+  cautions: Could also fit mother_goddess if fertility is primary, sacred_law if tied
+    to household obligation, or curse_blessing_speech if the performative utterance
+    is central.
+  suggested_aliases:
+  - household_prosperity_blessing
+  - fertility_prosperity_blessing
+  - blessing_for_household_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fertility-and-lactation-protected-by-holy-spell
+  motif_id: fertility_and_lactation_protected_by_holy_spell
+  label: fertility and lactation protected by holy spell
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A holy spell protecting fertility and lactation functions as apotropaic
+    ritual protection within regulated sacred practice.
+  cautions: The fertility/lactation content also relates to mother_goddess; if the
+    spell itself is central, curse_blessing_speech may be a useful related mapping.
+  suggested_aliases:
+  - holy_spell_protects_lactation
+  - apotropaic_fertility_spell
+  - fertility_lactation_protection_spell
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.festival-disorder-after-formal-ritual
+  motif_id: festival_disorder_after_formal_ritual
+  label: Festival disorder after formal ritual
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: low
+  rationale: A festival sequence after formal ritual may fit sacred time and ritual-cycle
+    behavior.
+  cautions: Disorder could be ritual inversion, social commentary, post-ritual license,
+    or a passage-specific event. Existing groups do not clearly cover festival inversion;
+    source evidence needed.
+  suggested_aliases:
+  - ritual_festival_disorder
+  - post_ritual_festival_disorder
+  - festival_inversion_after_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.festival-fire-linked-to-divine-funeral-pyre
+  motif_id: festival_fire_linked_to_divine_funeral_pyre
+  label: Festival fire linked to divine funeral pyre
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on ritual festival fire associated with divine death
+    imagery, fitting sacred fire as ritual and divine presence.
+  cautions: If the divine funeral pyre is the main focus, death_and_transformation
+    or sacrifice may be secondary. Comparative framing and single occurrence argue
+    against promoting a new motif.
+  suggested_aliases:
+  - festival_fire_as_funeral_pyre
+  - divine_funeral_pyre_festival_fire
+  - ritual_fire_linked_to_divine_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.festival-like-rite-before-disaster-weather
+  motif_id: festival_like_rite_before_disaster_weather
+  label: festival-like rite before disaster weather
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Disastrous weather following or approaching ritual may indicate divine
+    judgment, omen, or ritual response to disorder.
+  cautions: The label is vague and may describe scene-setting rather than a motif.
+    Could fit sacred_time, prophecy_divination, divine_intervention, or divine_judgment
+    depending on causality in the passage.
+  suggested_aliases:
+  - rite_before_disastrous_weather
+  - festival_before_storm_disaster
+  - ritual_preceding_weather_catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiend-smiting-divine-protectors
+  motif_id: fiend_smiting_divine_protectors
+  label: Fiend-smiting divine protectors
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: Divine beings who protect by smiting fiends fit the divine warrior and
+    sacred combat complex.
+  cautions: May also relate to apotropaic protection under sacred_law if invoked ritually
+    rather than narrated as combat.
+  suggested_aliases:
+  - demon_smiting_divine_protectors
+  - fiend_slaying_protective_deities
+  - divine_protectors_against_fiends
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fierce-alien-god-with-variant-parentage
+  motif_id: fierce_alien_god_with_variant_parentage
+  label: Fierce alien god with variant parentage
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'variant parentage' signals a comparative or source-variant
+    note about a named deity rather than a stable narrative motif.
+  cautions: Culturally sensitive and likely over-specific. If passages narrate the
+    god's outsider status or fierce protective role, review separately under divine_race,
+    divine_warrior, or divine_intervention.
+  suggested_aliases:
+  - variant_parentage_of_fierce_deity
+  - fierce_outsider_deity_variant_parentage
+  - alien_god_variant_genealogy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence ritual-role or blessing formulations; preserve
+  local Zoroastrian or other cultural context and avoid overgeneralizing without passage
+  evidence.
+- For blessing labels, consider secondary links to curse_blessing_speech when the
+  spoken formula is functionally central.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft provisional placements for batch 0830; human review recommended especially
+    for gender-restricted rites, festival disorder, weather-disaster ritual, and Navajo
+    variant-parentage label.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0830
+  input_sha256: 40f2c4d9b1e9b0a555264d3e57871313f2b6adaa07447c0c9679b5d7f90edc00
+

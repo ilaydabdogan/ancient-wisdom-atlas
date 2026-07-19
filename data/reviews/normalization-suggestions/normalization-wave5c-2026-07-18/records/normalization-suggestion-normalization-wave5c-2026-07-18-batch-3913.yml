@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3913
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rival-prophet-or-competing-claimant
+  motif_id: rival_prophet_or_competing_claimant
+  label: Rival prophet or competing claimant
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: role_variant
+  confidence: low
+  rationale: A rival prophet suggests competing claims to prophetic authority, which
+    may fit prophecy and sacred office roles.
+  cautions: Could instead be a polemical, historical, or person-specific passage artifact;
+    source evidence is needed before indexing as a motif.
+  suggested_aliases:
+  - competing_prophetic_claimant
+  - rival_claimant_to_prophetic_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-recension-and-altered-scripture-accusation
+  motif_id: rival_recension_and_altered_scripture_accusation
+  label: Rival recension and altered scripture accusation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns textual recension and accusations about altered scripture
+    rather than a narrative or symbolic motif.
+  cautions: Preserve for textual history or polemical-context metadata if useful,
+    but exclude from motif pattern queries.
+  suggested_aliases:
+  - altered_scripture_accusation
+  - rival_scriptural_recension
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-settlement-destroyed-and-survivors-incorporated
+  motif_id: rival_settlement_destroyed_and_survivors_incorporated
+  label: Rival settlement destroyed and survivors incorporated
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Destruction of a rival settlement and incorporation of survivors may
+    be a warfare or social-reconstitution motif.
+  cautions: Could be historical migration memory, local ethnogenesis, or contextual
+    episode rather than a recurring mythic pattern; culturally sensitive review recommended.
+  suggested_aliases:
+  - defeated_rival_settlement_survivors_incorporated
+  - settlement_destruction_and_survivor_incorporation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-shamans-entrap-the-powerful-healer
+  motif_id: rival_shamans_entrap_the_powerful_healer
+  label: Rival shamans entrap the powerful healer
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: low
+  rationale: Rival ritual specialists contesting or trapping a healer involves contested
+    sacred power and specialized knowledge.
+  cautions: May fit trickster, divine_intervention, healing rite, or local shamanic
+    competition; avoid flattening culturally specific ritual roles without source
+    review.
+  suggested_aliases:
+  - rival_ritual_specialists_entrap_healer
+  - shamanic_rivalry_against_healer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-strong-man-outmatched-in-whale-hunting
+  motif_id: rival_strong_man_outmatched_in_whale_hunting
+  label: Rival strong man outmatched in whale hunting
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: A rivalry of strength in a dangerous hunt may be an ordeal or contest
+    pattern, but the whale-hunting scene is highly specific.
+  cautions: Could be local subsistence context, heroic competition, animal encounter,
+    or episode detail; do not generalize without evidence of ritual or sacred combat
+    function.
+  suggested_aliases:
+  - rival_strongman_outmatched_in_hunt
+  - strength_rivalry_in_whale_hunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-succession-claims-authenticated-by-written-tokens
+  motif_id: rival_succession_claims_authenticated_by_written_tokens
+  label: rival succession claims authenticated by written tokens
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Written tokens authenticate rival claims, matching token-based proof
+    of identity, authority, or succession.
+  cautions: Also relates to royal_legitimacy or sacred lineage if succession authority
+    is the focus; preserve the written-token detail.
+  suggested_aliases:
+  - written_tokens_authenticate_succession_claims
+  - succession_claims_proved_by_written_tokens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-suitor-humiliated-as-carrier-or-mount
+  motif_id: rival_suitor_humiliated_as_carrier_or_mount
+  label: rival suitor humiliated as carrier or mount
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The rival suitor frame relates to courtship competition, but the humiliation-as-mount
+    detail is very specific.
+  cautions: Could be trickster humiliation, shapeshifting, social rivalry, or courtship
+    contest; source context needed before pattern indexing.
+  suggested_aliases:
+  - humiliation_of_rival_suitor
+  - rival_suitor_reduced_to_mount
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-suitor-s-costly-gift-backed-by-armed-host
+  motif_id: rival_suitor_s_costly_gift_backed_by_armed_host
+  label: Rival suitor's costly gift backed by armed host
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: A rival suitor using gifts and armed force may belong to bride-winning
+    or courtship contest patterns.
+  cautions: Could instead be sacred_exchange, coercive alliance, or warfare episode;
+    one occurrence and composite wording argue for human review.
+  suggested_aliases:
+  - rival_suitor_gift_backed_by_force
+  - bride_suitor_gift_with_armed_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-wives-and-reversal-of-favor
+  motif_id: rival_wives_and_reversal_of_favor
+  label: rival wives and reversal of favor
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: Rival spouses and a reversal of favor may fit love, household rivalry,
+    or status reversal patterns.
+  cautions: No existing group cleanly covers co-wife rivalry; may be a household/social-order
+    episode rather than sacred love.
+  suggested_aliases:
+  - co_wife_rivalry_and_reversal_of_favor
+  - rival_spouses_reversal_of_favor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rival-women-cause-maternal-forgetfulness-leading-to-abandonment
+  motif_id: rival_women_cause_maternal_forgetfulness_leading_to_abandonment
+  label: rival women cause maternal forgetfulness leading to abandonment
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rival women cause a maternal failure that endangers or abandons a child,
+    close to household persecution of children.
+  cautions: If no child persecution or jealous caretaker role is present, it may instead
+    be enchantment, social rivalry, or passage-specific plot detail.
+  suggested_aliases:
+  - rival_women_induce_maternal_forgetfulness
+  - maternal_forgetfulness_causes_child_abandonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence rivalry or household-conflict composites; most
+  need source-context review before durable normalization.
+- Do not infer transmission or borrowing from shared rivalry structures.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review needed especially for
+    culturally specific shamanic, settlement, and household-rivalry labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3913
+  input_sha256: bbf086693a696a84a28f0a020eaf6253c9db4bf5db8ad3132e9771ebfe805322
+

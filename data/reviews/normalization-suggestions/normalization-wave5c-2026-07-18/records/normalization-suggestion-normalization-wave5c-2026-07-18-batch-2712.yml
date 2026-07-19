@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2712
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-s-blows-fail-against-a-giant
+  motif_id: hero_s_blows_fail_against_a_giant
+  label: hero's blows fail against a giant
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: Failed blows against a giant suggest an opponent resistant to ordinary
+    force or requiring a special method of defeat.
+  cautions: May instead be only a battle difficulty or giant-combat episode if no
+    invulnerability or special weakness is present.
+  suggested_aliases:
+  - ordinary_blows_fail_against_supernatural_opponent
+  - giant_resists_heroic_blows
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-last-stand-while-disabled-by-wound-and-illness
+  motif_id: hero_s_last_stand_while_disabled_by_wound_and_illness
+  label: hero's last stand while disabled by wound and illness
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: high
+  rationale: A disabled hero making a final stand fits existing last-stand and heroic
+    combat variants under the divine warrior/sacred combat complex.
+  cautions: If the passage emphasizes grief after death rather than combat action,
+    lament_and_mourning may be a secondary mapping.
+  suggested_aliases:
+  - wounded_heroic_last_stand
+  - last_stand_of_a_wounded_or_ailing_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-life-narrated-as-prose-epic
+  motif_id: hero_s_life_narrated_as_prose_epic
+  label: hero's life narrated as prose epic
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes literary form or narration mode rather than a narrative-symbolic
+    motif.
+  cautions: Preserve as genre or provenance metadata if useful, but do not use for
+    motif pattern queries.
+  suggested_aliases:
+  - heroic_life_narrated_as_epic_form
+  - prose_epic_narration_of_heroic_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-magnificent-chariot-approach
+  motif_id: hero_s_magnificent_chariot_approach
+  label: hero's magnificent chariot approach
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: alias
+  confidence: high
+  rationale: This is a close variant of existing chariot-arrival aliases for splendid
+    or approaching warriors in battle.
+  cautions: If the chariot itself is the power object, sacred_treasures or sacred_craft
+    may be a secondary consideration.
+  suggested_aliases:
+  - splendid_warrior_arrival_in_a_chariot
+  - approaching_hero_in_a_war_chariot
+  - magnificent_chariot_arrival_of_a_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-prior-defeat-of-nibelung-nobles
+  motif_id: hero_s_prior_defeat_of_nibelung_nobles
+  label: hero's prior defeat of Nibelung nobles
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to name a specific episode or backstory involving named
+    figures rather than a reusable motif.
+  cautions: If evidence abstracts to a recurring pattern such as prior conquest establishing
+    prowess, review under divine_warrior or royal_legitimacy.
+  suggested_aliases:
+  - prior_defeat_of_named_nobles
+  - heroic_backstory_prior_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-prowess-suspended-before-uncanny-quarry
+  motif_id: hero_s_prowess_suspended_before_uncanny_quarry
+  label: hero's prowess suspended before uncanny quarry
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe enchantment, taboo, supernatural animal lure,
+    ordeal, or loss of martial power before an uncanny target.
+  cautions: Source context is needed to distinguish trickster lure, threshold guardian,
+    shapeshifter/animal quarry, or sacred combat failure.
+  suggested_aliases:
+  - heroic_power_fails_before_uncanny_quarry
+  - supernatural_quarry_suspends_heroic_prowess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-release-followed-by-dissipation-in-tavern
+  motif_id: hero_s_release_followed_by_dissipation_in_tavern
+  label: hero’s release followed by dissipation in tavern
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Release followed by tavern dissipation may be moral downfall, intoxication,
+    social disorder, or an episode-specific plot detail.
+  cautions: Could fit pride_and_downfall or sacred_substance only if the passage frames
+    dissipation as a recurring moral or sacred pattern.
+  suggested_aliases:
+  - released_hero_falls_into_tavern_dissipation
+  - post_release_dissipation_of_the_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-self-killing-from-grief-after-princely-mistreatment
+  motif_id: hero_s_self_killing_from_grief_after_princely_mistreatment
+  label: hero's self-killing from grief after princely mistreatment
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: Self-killing from grief after mistreatment centers on tragic grief and
+    collapse rather than combat victory.
+  cautions: If the emphasis is violated lord-retainer obligation or royal injustice,
+    covenant, royal_legitimacy, or divine_judgment may be secondary.
+  suggested_aliases:
+  - heroic_suicide_from_grief_after_mistreatment
+  - grief_driven_self_killing_of_mistreated_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-unique-weapon-as-test
+  motif_id: hero_s_unique_weapon_as_test
+  label: Hero's unique weapon as test
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A distinctive weapon that tests or proves the hero fits power-object
+    and identity/authority functions.
+  cautions: If the test is primarily an initiation ordeal rather than the weapon's
+    power or ownership, initiation may be secondary.
+  suggested_aliases:
+  - unique_heroic_weapon_as_proof
+  - special_weapon_tests_the_hero
+  - weapon_as_heroic_identity_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-sent-on-dangerous-combat-against-supernatural-opponent
+  motif_id: hero_sent_on_dangerous_combat_against_supernatural_opponent
+  label: Hero sent on dangerous combat against supernatural opponent
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: A hero dispatched to fight a supernatural foe is a clear heroic-combat
+    ordeal within sacred combat.
+  cautions: If the sending is a quest structure or initiation test, hero_journey or
+    initiation may be useful secondary mappings.
+  suggested_aliases:
+  - hero_dispatched_to_fight_supernatural_opponent
+  - dangerous_combat_mission_against_supernatural_foe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and episode-specific; preserve granular wording
+  as evidence notes where mapped.
+- Avoid treating all heroic combat labels as divine_warrior when the key function
+  is funeral honor, grief, textual form, or identity proof.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify source
+    context for low-confidence and episode-specific Norse/Slavic items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2712
+  input_sha256: a017c321250f0975e34ef56f9e7c2dbe7179d444f6435090b189e8a567608015
+

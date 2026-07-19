@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0964
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prayer-to-water-before-drinking
+  motif_id: prayer_to_water_before_drinking
+  label: prayer to water before drinking
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif treats water as a sacred recipient of prayer before ingestion,
+    fitting sacred water as purifier/life medium.
+  cautions: Single occurrence; if the passage emphasizes offering reciprocity rather
+    than water symbolism, sacred_exchange may be a secondary fit. Review cultural
+    context carefully.
+  suggested_aliases:
+  - prayer_before_drinking_water
+  - ritual_address_to_water_before_drinking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayers-and-songs-directed-to-an-animal
+  motif_id: prayers_and_songs_directed_to_an_animal
+  label: prayers and songs directed to an animal
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Prayer or song addressed to an animal may function as reciprocal ritual
+    address to a nonhuman being.
+  cautions: 'Ambiguous without evidence: the animal may be prey, helper, ancestor,
+    tutelary being, or ceremonial person. Could also fit sacred_song, animal_helpers,
+    sacrifice, or sacred_law depending on context.'
+  suggested_aliases:
+  - ritual_songs_to_animal
+  - prayer_addressed_to_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayers-at-the-appearance-of-stars
+  motif_id: prayers_at_the_appearance_of_stars
+  label: prayers at the appearance of stars
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayer keyed to the appearance of stars uses a celestial event to order
+    ritual time.
+  cautions: If the stars are treated as divine witnesses or omens, dream_and_vision,
+    prophecy_divination, or sacred_fire/divine light may be relevant secondary mappings.
+  suggested_aliases:
+  - star_appearance_prayer
+  - celestial_timed_prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayers-to-rain-making-beings
+  motif_id: prayers_to_rain_making_beings
+  label: prayers to rain-making beings
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The prayer seeks action by rain-making beings, aligning with divine or
+    spirit intervention in human affairs.
+  cautions: Could also fit sacred_exchange if offerings or reciprocity are central,
+    or sacred_waters if the rain/water symbolism is the main point.
+  suggested_aliases:
+  - rain_prayer_to_spirit_beings
+  - prayer_to_rain_bringing_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pre-battle-prayer-to-weaken-opponents
+  motif_id: pre_battle_prayer_to_weaken_opponents
+  label: pre-battle prayer to weaken opponents
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns ritual appeal for supernatural advantage in battle,
+    fitting divine aid in combat.
+  cautions: If the passage emphasizes the formal prayer rite rather than battle outcome,
+    sacred_exchange or curse_blessing_speech may be secondary.
+  suggested_aliases:
+  - battle_prayer_to_weaken_enemy
+  - prebattle_ritual_prayer_against_opponents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pre-ceremonial-continence-and-bodily-purification
+  motif_id: pre_ceremonial_continence_and_bodily_purification
+  label: Pre-ceremonial continence and bodily purification
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Continence and bodily purification before ceremony are ritual purity
+    rules, already within sacred law and purity-code logic.
+  cautions: Could also support sacrifice or initiation if the evidence frames purification
+    as preparation for offering or status transformation.
+  suggested_aliases:
+  - pre_ritual_continence_and_purification
+  - ceremonial_purity_before_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.precise-small-rite-reveals-hidden-submerged-object
+  motif_id: precise_small_rite_reveals_hidden_submerged_object
+  label: precise small rite reveals hidden submerged object
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: A rite revealing a hidden object may involve discovery of a power object
+    or ritual revelation, but the label is highly contextual.
+  cautions: May be an episode-specific plot detail rather than a durable motif. Could
+    fit sacred_knowledge, sacred_waters, prophecy_divination, or sacred_treasures
+    depending on the object's function and the rite.
+  suggested_aliases:
+  - rite_reveals_hidden_submerged_object
+  - ritual_discovery_of_underwater_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predestination-under-divine-unity
+  motif_id: predestination_under_divine_unity
+  label: Predestination under divine unity
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, predestination under divine unity is likely a contemplative
+    doctrine about divine reality and selfhood.
+  cautions: This is abstract theological language rather than a narrative motif. If
+    the evidence focuses on fate governing death or action, death_by_fate may be secondary.
+  suggested_aliases:
+  - predestination_in_divine_unity
+  - divine_unity_and_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predestined-transgression-or-drinking-under-divine-prescience
+  motif_id: predestined_transgression_or_drinking_under_divine_prescience
+  label: Predestined transgression or drinking under divine prescience
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: uncertain
+  confidence: low
+  rationale: The label centers on predestined conduct under divine foreknowledge,
+    close to fate/destiny logic.
+  cautions: It may be a theological paradox or commentary artifact rather than a motif.
+    Drinking may point to sacred_substance in Sufi symbolism if central to the passage.
+  suggested_aliases:
+  - predestined_transgression_under_divine_prescience
+  - divine_foreknowledge_of_transgressive_drinking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pregnancy-and-infancy-taboos-shaping-the-child-s-future
+  motif_id: pregnancy_and_infancy_taboos_shaping_the_child_s_future
+  label: Pregnancy and infancy taboos shaping the child's future
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Taboos regulating pregnancy and infancy are ritual/social prescriptions
+    believed to shape destiny or wellbeing.
+  cautions: If the child is marked for sacred destiny, miraculous_child may be secondary.
+    Review source context carefully because life-cycle taboos may be culturally specific
+    and not merely generic purity law.
+  suggested_aliases:
+  - prenatal_and_infant_taboos_shape_future
+  - pregnancy_taboo_affects_child_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence ritual descriptions; preserve local evidence
+  and avoid promoting to canonical motifs without recurrence.
+- Prayer-to-nonhuman-being labels may require culturally informed review to distinguish
+  sacred exchange, divine intervention, animal-helper relations, and ethnographic
+  over-specificity.
+- Predestination labels are abstract theological formulations; use motif mapping only
+  when passage evidence shows narrative or ritual function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for culturally
+    specific ritual practices and abstract Sufi theological labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0964
+  input_sha256: a281737056e2b78d25520af7b6a863ae39d8157c99fdee863e602a8f9fab8a8c
+

@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2465
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mythic-river-as-rain-and-bridge-as-rainbow
+  motif_id: mythic_river_as_rain_and_bridge_as_rainbow
+  label: mythic river as rain and bridge as rainbow
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: River-as-rain imagery belongs to sacred water symbolism; rainbow bridge
+    adds boundary or passage imagery.
+  cautions: Single occurrence and composite natural-symbol label; if rainbow bridge
+    is the main function, axis_mundi or threshold passage may be secondary.
+  suggested_aliases:
+  - rainbow_bridge
+  - mythic_river_as_rain
+  - rainbow_as_bridge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.naming-and-settlement-of-supernatural-sea-beings
+  motif_id: naming_and_settlement_of_supernatural_sea_beings
+  label: Naming and settlement of supernatural sea beings
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be an origin/etiology, otherworld settlement, spirit-being classification,
+    or passage-specific ethnographic detail.
+  cautions: Culturally specific Northwest Coast sea-being traditions need source review
+    before broad grouping; avoid flattening naming, settlement, and supernatural-being
+    ontology into one motif.
+  suggested_aliases:
+  - supernatural_sea_beings_named_and_settled
+  - settlement_of_sea_beings
+  - naming_of_sea_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.naming-through-recognition-by-a-storm
+  motif_id: naming_through_recognition_by_a_storm
+  label: naming through recognition by a storm
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is recognition establishing identity or name, with
+    storm as the recognizing agent or sign.
+  cautions: If the storm is a divine agent, omen, or personified nature power rather
+    than an identity proof, divine_intervention or prophecy_divination may fit better.
+  suggested_aliases:
+  - storm_recognition_naming
+  - name_given_through_storm_recognition
+  - recognition_by_storm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-elements-as-models-for-ascetic-discipline
+  motif_id: natural_elements_as_models_for_ascetic_discipline
+  label: Natural elements as models for ascetic discipline
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Natural elements serve as contemplative exemplars for discipline on an
+    ascetic or interior path.
+  cautions: Could alternatively index under sacred_knowledge if the passage emphasizes
+    instruction rather than practice; preserve the element-specific imagery in evidence
+    notes.
+  suggested_aliases:
+  - elements_as_ascetic_models
+  - nature_as_model_for_discipline
+  - natural_elements_teach_renunciation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-time-reckoning-through-house-sun-and-domestic-tasks
+  motif_id: natural_time_reckoning_through_house_sun_and_domestic_tasks
+  label: Natural time reckoning through house, sun, and domestic tasks
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: low
+  rationale: The label concerns time ordered through solar position and household
+    activity, fitting the broader sacred-time/time-ordering group.
+  cautions: May be practical ethnographic timekeeping rather than mythic or ritual
+    motif; exclude or keep as evidence detail if no sacred function is present.
+  suggested_aliases:
+  - domestic_solar_time_reckoning
+  - time_reckoning_by_sun_and_household_tasks
+  - house_sun_domestic_timekeeping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-world-allusive-opening-or-refrain
+  motif_id: natural_world_allusive_opening_or_refrain
+  label: Natural-world allusive opening or refrain
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a literary framing device or refrain rather than
+    a narrative-symbolic motif.
+  cautions: If a specific natural image carries recurring ethical or cosmological
+    function in the passage, index that image separately rather than this framing
+    label.
+  suggested_aliases:
+  - nature_allusive_refrain
+  - natural_world_opening_formula
+  - nature_imagery_refrain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.naturalized-mythic-sea-hazards
+  motif_id: naturalized_mythic_sea_hazards
+  label: Naturalized mythic sea hazards
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording may describe interpretive rationalization of mythic hazards
+    rather than the hazards themselves.
+  cautions: If this is commentary explaining monsters as natural hazards, exclude
+    as meta; if the passage narrates perilous sea thresholds, threshold_guardian or
+    sacred_waters may be appropriate.
+  suggested_aliases:
+  - mythic_sea_hazards_naturalized
+  - natural_explanation_of_sea_monsters
+  - sea_hazards_as_mythic_perils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nature-imagery-in-chapter-framing
+  motif_id: nature_imagery_in_chapter_framing
+  label: nature imagery in chapter framing
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This identifies chapter-level framing imagery, not a motif with independent
+    narrative or ritual function.
+  cautions: Do not discard underlying Daoist nature symbolism if the passage itself
+    develops a recurring cosmological or ethical image.
+  suggested_aliases:
+  - chapter_framing_by_nature_imagery
+  - nature_imagery_as_textual_frame
+  - natural_imagery_chapter_frame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nature-imitates-the-archetypal-human-form
+  motif_id: nature_imitates_the_archetypal_human_form
+  label: Nature imitates the archetypal human form
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Hermetic microcosm/macrocosm imagery links cosmic nature with an archetypal
+    human ordering form.
+  cautions: Could warrant a future microcosm-macrocosm group if many similar labels
+    recur; current placement is broad and cosmological rather than narrative.
+  suggested_aliases:
+  - macrocosm_imitates_archetypal_human
+  - nature_as_human_microcosm_reflection
+  - archetypal_human_form_in_nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nature-s-bounty-as-a-gift-of-the-master-of-life
+  motif_id: nature_s_bounty_as_a_gift_of_the_master_of_life
+  label: Nature's bounty as a gift of the Master of Life
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label frames natural abundance as provision from a divine life-giving
+    power, matching miraculous or divine provision.
+  cautions: Culturally specific title and theology should be preserved; if the passage
+    emphasizes reciprocity or thanksgiving, sacred_exchange may be a secondary mapping.
+  suggested_aliases:
+  - nature_bounty_as_divine_gift
+  - master_of_life_gives_natural_abundance
+  - divine_provision_through_nature_s_bounty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence nature/cosmos phrases that may
+  be textual framing or interpretive commentary rather than durable motifs.
+- Where natural elements function as signs, agents, or contemplative models, placements
+  should preserve that function rather than map all items generically to nature symbolism.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review recommended for culturally specific
+    sea-being and storm-naming labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2465
+  input_sha256: a8234782b90352f648bfdf67558f9d425c3adf513769cbc00b972022398681de
+

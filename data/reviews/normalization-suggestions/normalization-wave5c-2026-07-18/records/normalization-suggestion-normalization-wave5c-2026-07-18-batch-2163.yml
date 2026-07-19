@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2163
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.extraordinary-small-animal-hunter
+  motif_id: extraordinary_small_animal_hunter
+  label: Extraordinary small-animal hunter
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe an animal tale, hunter role, size paradox, or
+    episode-specific character trait; existing groups do not resolve the function.
+  cautions: Single occurrence and culturally specific; source evidence needed before
+    mapping to trickster, culture_hero, sacred_combat, or animal-helper patterns.
+  suggested_aliases:
+  - small_animal_hunter
+  - extraordinary_animal_hunter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extraordinary-strength-shown-by-transport-of-heavy-animal
+  motif_id: extraordinary_strength_shown_by_transport_of_heavy_animal
+  label: extraordinary strength shown by transport of heavy animal
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A feat of extraordinary strength fits heroic or divine-warrior prowess,
+    though the animal-transport detail is granular evidence.
+  cautions: If the passage is comic trickery or a test rather than heroic strength,
+    trickster or initiation may be better secondary review targets.
+  suggested_aliases:
+  - heroic_strength_shown_by_carrying_heavy_animal
+  - extraordinary_strength_feat_with_heavy_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fabulous-animals-or-beings
+  motif_id: fabulous_animals_or_beings
+  label: fabulous animals or beings
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: broader_label
+  confidence: low
+  rationale: The label is too broad to distinguish monster, helper, otherworld being,
+    shapeshifter, or trickster function.
+  cautions: Do not map solely from marvelous animal imagery; placement depends on
+    narrative role and cultural context.
+  suggested_aliases:
+  - marvelous_animals_or_beings
+  - supernatural_animals_or_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fabulous-great-bird-derived-from-garuda
+  motif_id: fabulous_great_bird_derived_from_garuda
+  label: Fabulous great bird derived from garuda
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A great supernatural bird could fit animal helper, divine race, sacred
+    mount, or monster patterns, but 'derived from Garuda' is an interpretive source
+    claim.
+  cautions: Avoid treating a derivation label as taxonomy evidence; review passage
+    function and transmission-sensitive wording before mapping.
+  suggested_aliases:
+  - fabulous_great_bird
+  - garuda_like_great_bird
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.face-saving-reinterpretation-after-being-tricked
+  motif_id: face_saving_reinterpretation_after_being_tricked
+  label: face-saving reinterpretation after being tricked
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a deception episode and the victim's social reinterpretation
+    after trickery, fitting trickster dynamics.
+  cautions: May be an Aesopic or comic narrative detail rather than a durable mythic
+    motif; preserve the face-saving aspect as evidence detail.
+  suggested_aliases:
+  - face_saving_after_trickery
+  - reinterpretation_after_being_tricked
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-adoption-of-human-weapons-by-animals
+  motif_id: failed_adoption_of_human_weapons_by_animals
+  label: failed adoption of human weapons by animals
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animals unsuccessfully imitating human weapons resembles fable-like role
+    inversion and boundary-crossing failure, which fits the current trickster/fable
+    cluster best.
+  cautions: Could instead be an etiological animal-origin tale or culture-hero contrast;
+    review whether a trickster or deception structure is actually present.
+  suggested_aliases:
+  - animals_fail_to_use_human_weapons
+  - failed_animal_imitation_of_human_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-animal-attempt-to-obtain-elevated-food
+  motif_id: failed_animal_attempt_to_obtain_elevated_food
+  label: Failed animal attempt to obtain elevated food
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal's failed attempt to obtain desired food matches the taxonomy's
+    fable-like predator/prey and baited-food trickster cluster.
+  cautions: Likely over-specific and possibly an episode from a fable; do not promote
+    without recurrence across sources.
+  suggested_aliases:
+  - animal_fails_to_reach_food
+  - failed_attempt_to_obtain_inaccessible_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-escape-through-disguise
+  motif_id: failed_escape_through_disguise
+  label: failed escape through disguise
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Disguise used for attempted escape belongs with altered visible form
+    and boundary crossing, best covered by shapeshifter.
+  cautions: If disguise is purely social or strategic rather than bodily/form transformation,
+    trickster or sacred_combat may be a better fit.
+  suggested_aliases:
+  - disguise_escape_fails
+  - failed_escape_by_disguise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-guardian-animal-transformed-into-stone
+  motif_id: failed_guardian_animal_transformed_into_stone
+  label: failed guardian animal transformed into stone
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The central action is an animal's transformation into stone, a punishment
+    or metamorphosis pattern under shapeshifter/transformation.
+  cautions: If the stone explains a landscape feature, cosmic_origin or etiological
+    landscape naming may be relevant; if the guardian role dominates, threshold_guardian
+    may be secondary.
+  suggested_aliases:
+  - guardian_animal_petrified
+  - animal_guardian_transformed_to_stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-hospitality-or-mercy-test-by-a-magical-animal
+  motif_id: failed_hospitality_or_mercy_test_by_a_magical_animal
+  label: failed hospitality or mercy test by a magical animal
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: high
+  rationale: The core function is a failed test of hospitality or mercy by a disguised
+    or magical visitor, matching the hospitality-test group.
+  cautions: Magical animal form should be preserved as evidence; if the passage emphasizes
+    animal transformation more than host testing, shapeshifter may be secondary.
+  suggested_aliases:
+  - magical_animal_hospitality_test
+  - failed_mercy_test_by_magical_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal-fable or animal-marvel
+  details; most should remain granular evidence unless recurrence or clear narrative
+  function is confirmed.
+- Avoid inferring transmission from wording such as 'derived from Garuda'; treat it
+  as a review caution rather than a motif placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; animal-role labels need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2163
+  input_sha256: c03a774092df1972e151498262fc9b4d2da64e80dd54f6b23b65857c97fa978a
+

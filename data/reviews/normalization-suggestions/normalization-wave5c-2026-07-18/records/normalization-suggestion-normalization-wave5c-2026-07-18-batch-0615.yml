@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0615
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sea-ice-geography-shaping-travel-and-migration
+  motif_id: sea_ice_geography_shaping_travel_and_migration
+  label: sea-ice geography shaping travel and migration
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as environmental travel context rather than a clear symbolic
+    or narrative motif.
+  cautions: Single occurrence; may be ethnographic/geographic setting detail. If a
+    charged journey or ordeal is explicit, hero_journey or sacred_waters may be secondary
+    candidates.
+  suggested_aliases:
+  - sea_ice_travel_context
+  - ice_geography_directing_migration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_waters
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-monster-seizes-people-from-ships
+  motif_id: sea_monster_seizes_people_from_ships
+  label: sea monster seizes people from ships
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sea monster attacking travelers functions as a perilous liminal obstacle
+    at the water boundary.
+  cautions: If the passage emphasizes monster combat, divine_warrior or sacred_combat
+    may be relevant; if only maritime danger, it may be over-specific.
+  suggested_aliases:
+  - sea_monster_threat_to_mariners
+  - maritime_monster_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-monsters-as-threats-to-ships-and-mariners
+  motif_id: sea_monsters_as_threats_to_ships_and_mariners
+  label: Sea monsters as threats to ships and mariners
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Threatening sea monsters mark peril at a travel threshold and resemble
+    existing lethal liminal beings.
+  cautions: Broad monster taxonomy is not present; review whether this is a true passage
+    obstacle, a combat episode, or a contextual maritime hazard.
+  suggested_aliases:
+  - sea_monster_threat_to_mariners
+  - sea_monsters_threaten_ships
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-wanderer-asks-a-local-witness-about-bardic-fame
+  motif_id: sea_wanderer_asks_a_local_witness_about_bardic_fame
+  label: sea-wanderer asks a local witness about bardic fame
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is an episode-specific conversational detail about reputation,
+    not a durable motif.
+  cautions: If the source emphasizes song preserving fame, preserve evidence under
+    storytelling_as_power or authorship_as_public_immortality rather than this full
+    label.
+  suggested_aliases:
+  - bardic_fame_inquiry
+  - wanderer_asks_about_fame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sealed-custodianship-of-sacred-objects
+  motif_id: sealed_custodianship_of_sacred_objects
+  label: Sealed custodianship of sacred objects
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core is guarded custody of sacred objects, fitting power objects
+    and their controlled handling.
+  cautions: Could map to sacred_vessel if the sealed container is central, or sacred_law
+    if the emphasis is taboo regulation rather than object power.
+  suggested_aliases:
+  - custodianship_of_sacred_objects
+  - sealed_sacred_object_custody
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.search-for-inland-metals-or-mines-directing-a-journey
+  motif_id: search_for_inland_metals_or_mines_directing_a_journey
+  label: Search for inland metals or mines directing a journey
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A resource search directing travel may be plot geography rather than
+    a mythic quest motif.
+  cautions: If the metals are sacred or power-bearing, sacred_treasures may apply;
+    if the journey is transformative, hero_journey may apply. Source evidence needed.
+  suggested_aliases:
+  - quest_for_mines
+  - journey_directed_by_search_for_metals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.search-for-water-during-travel
+  motif_id: search_for_water_during_travel
+  label: search for water during travel
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ordinary travel hardship rather than sacred water
+    or transformative passage.
+  cautions: Map to sacred_waters only if water has ritual, boundary, life-giving,
+    or transformative significance; otherwise treat as contextual travel detail.
+  suggested_aliases:
+  - water_search_during_journey
+  - travelers_seek_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seasonal-care-and-hardship-of-working-animals
+  motif_id: seasonal_care_and_hardship_of_working_animals
+  label: seasonal care and hardship of working animals
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be seasonal subsistence or animal-care context, not a
+    clear motif in the current taxonomy.
+  cautions: Could relate to sacred_time if framed ritually or cyclically, or to animal_helpers
+    if animals have narrative agency; otherwise exclude as contextual detail.
+  suggested_aliases:
+  - working_animals_seasonal_hardship
+  - seasonal_animal_care
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seasonal-ice-road-travel-by-sledge
+  motif_id: seasonal_ice_road_travel_by_sledge
+  label: Seasonal ice-road travel by sledge
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a specific seasonal travel practice rather than a clear
+    quest, threshold, or sacred-time motif.
+  cautions: Map to sacred_time only if the seasonal route is ritually or cosmologically
+    marked; otherwise it may be environmental travel setting.
+  suggested_aliases:
+  - ice_road_sledge_travel
+  - seasonal_sledge_travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seasonal-migration-hunt-at-a-river-crossing
+  motif_id: seasonal_migration_hunt_at_a_river_crossing
+  label: seasonal migration hunt at a river crossing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: low
+  rationale: The label emphasizes seasonal recurrence tied to migration and hunting
+    at a crossing.
+  cautions: Low confidence because it may be ecological setting rather than sacred
+    cycle. If the river crossing is the charged element, sacred_waters may be more
+    appropriate.
+  suggested_aliases:
+  - seasonal_hunt_at_river_crossing
+  - migration_hunt_river_crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence Inuit or Native American travel/ecology
+  labels. Reviewers should distinguish culturally specific environmental knowledge
+  from symbolic motifs before adding broad query mappings.
+- Do not infer sacred status from water, ice, sea, migration, or seasonal wording
+  alone; require passage evidence of ritual, transformation, threshold, or cosmological
+  function.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for journey/travel labels with many
+    low-confidence contextual items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0615
+  input_sha256: 38075a8f9d697ab4578437a2586f81c6d579be1b6c665321b82b66307f2825f0
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2989
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.patrilineal-boundary-with-affinal-reclassification
+  motif_id: patrilineal_boundary_with_affinal_reclassification
+  label: patrilineal boundary with affinal reclassification
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to concern kinship classification and social boundary
+    rules, which may fit sacred/social order if ritually or ethically framed.
+  cautions: Highly technical and single-occurrence; may be an anthropological or commentary
+    artifact rather than a recurring narrative motif. Needs source context for affinal
+    reclassification.
+  suggested_aliases:
+  - affinal_reclassification
+  - patrilineal_kinship_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-marked-by-whiteness
+  motif_id: peace_marked_by_whiteness
+  label: peace marked by whiteness
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Whiteness as a marker of peace may encode ritualized social order or
+    a sacred sign of nonviolence.
+  cautions: Color symbolism is culturally specific; do not generalize whiteness as
+    universal peace without evidence. Could be a local emblem or passage detail.
+  suggested_aliases:
+  - whiteness_as_peace_sign
+  - white_symbol_of_peace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peaceful-household-sustained-by-hunting
+  motif_id: peaceful_household_sustained_by_hunting
+  label: Peaceful household sustained by hunting
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a contextual subsistence and household setting rather
+    than a durable mythic motif.
+  cautions: If source evidence frames hunting as sacred provision, animal reciprocity,
+    or a culture-founding pattern, reconsider under sacred_exchange or divine_intervention.
+  suggested_aliases:
+  - household_sustained_by_hunting
+  - hunting_sustains_peaceful_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.people-and-vessels-transformed-into-landscape-feature
+  motif_id: people_and_vessels_transformed_into_landscape_feature
+  label: people and vessels transformed into landscape feature
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transformation of people and objects into landscape features functions
+    as etiological landscape formation.
+  cautions: Could also involve death_and_transformation if the emphasis is postmortem
+    metamorphosis rather than origin of a place. Preserve the vessel detail as evidence.
+  suggested_aliases:
+  - etiological_landscape_transformation
+  - people_transformed_into_landscape
+  - vessels_transformed_into_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.people-identified-with-cave-country
+  motif_id: people_identified_with_cave_country
+  label: people identified with cave country
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe people-place origin identity, possibly related
+    to ancestral or landscape etiology.
+  cautions: May be a place/ethnographic identity note rather than a motif. If caves
+    function as emergence or otherworld thresholds, descent or otherworld may be better.
+  suggested_aliases:
+  - cave_country_people_identity
+  - people_place_identity_cave_country
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.people-remembered-as-coming-from-islands
+  motif_id: people_remembered_as_coming_from_islands
+  label: people remembered as coming from islands
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A people’s remembered origin from islands fits ancestry and people-origin
+    traditions already represented under cosmic_origin.
+  cautions: If the passage is historical migration memory rather than mythic origin,
+    keep as contextual evidence or review outside motif queries.
+  suggested_aliases:
+  - island_origin_of_a_people
+  - people_originating_from_islands
+  - ancestral_origin_from_islands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.people-springing-from-a-plant-that-becomes-a-landscape-feature
+  motif_id: people_springing_from_a_plant_that_becomes_a_landscape_feature
+  label: people springing from a plant that becomes a landscape feature
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif combines origin of a people with etiological landscape formation,
+    both covered by cosmic_origin.
+  cautions: Plant transformation may also touch sacred_tree_axis or death_and_transformation
+    if the plant has cosmic-axis or metamorphic function; label is composite.
+  suggested_aliases:
+  - people_emerge_from_plant
+  - plant_origin_of_a_people
+  - plant_becomes_landscape_feature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perfected-or-sinless-figure-experiences-bodily-suffering
+  motif_id: perfected_or_sinless_figure_experiences_bodily_suffering
+  label: perfected or sinless figure experiences bodily suffering
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: uncertain
+  confidence: low
+  rationale: Bodily suffering of a perfected figure may function as spiritual exemplum,
+    discipline, or teaching within an interior liberation path.
+  cautions: Do not map solely from doctrinal wording. Could fit sacrifice, divine_judgment,
+    Buddhist karmic teaching, or a passage-specific theological problem depending
+    on source evidence.
+  suggested_aliases:
+  - sinless_figure_suffers_bodily
+  - perfected_figure_bodily_suffering
+  - holy_figure_experiences_suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perilous-approach-to-a-hidden-island
+  motif_id: perilous_approach_to_a_hidden_island
+  label: Perilous approach to a hidden island
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A hidden island reached through peril fits the otherworld or enchanted-realm
+    approach pattern.
+  cautions: If the island is merely geographic rather than enchanted or liminal, it
+    may be an over-specific travel detail. Water passage may be secondary if crossing
+    transforms the traveler.
+  suggested_aliases:
+  - hidden_island_approach
+  - perilous_approach_to_enchanted_island
+  - dangerous_journey_to_hidden_island
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perilous-cavern-inhabited-by-griffons
+  motif_id: perilous_cavern_inhabited_by_griffons
+  label: perilous cavern inhabited by griffons
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dangerous cavern occupied by monstrous guardians functions as a threshold
+    or ordeal space guarded by perilous beings.
+  cautions: Could also map to descent if the cavern is an underworld-like passage.
+    Griffons may be an over-specific creature detail unless recurring across sources.
+  suggested_aliases:
+  - monster_guarded_cavern
+  - perilous_cave_with_guardians
+  - griffon_guarded_cavern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence place, kinship, or setting descriptions;
+  human review should separate narrative motifs from ethnographic or passage-context
+  artifacts.
+- For origin-of-people labels, verify whether the source presents mythic ancestry/etiology
+  rather than historical migration memory.
+- Color and kinship-symbol labels are culturally specific and should not be generalized
+  without source evidence.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2989
+  input_sha256: d84a2bfc09cf0c5785dacbca69e3e9ae88b05e34928c51c8849cf44588a97d97
+

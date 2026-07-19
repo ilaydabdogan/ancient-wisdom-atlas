@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1449
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.song-learning-from-elders
+  motif_id: song_learning_from_elders
+  label: song learning from elders
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Learning songs from elders emphasizes transmission of traditional or
+    sacred knowledge through oral instruction.
+  cautions: If the passage focuses on performance power rather than transmission,
+    enchanting_music may be a secondary fit.
+  suggested_aliases:
+  - elder-taught song
+  - song transmission from elders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-marking-imminent-victory
+  motif_id: song_marking_imminent_victory
+  label: song marking imminent victory
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A song that signals imminent victory functions as an omen or predictive
+    sign before success.
+  cautions: Could belong under sacred_combat if the song is mainly a battle act, or
+    enchanting_music if it actively causes victory.
+  suggested_aliases:
+  - victory-omen song
+  - song foretelling victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-mediated-supernatural-efficacy
+  motif_id: song_mediated_supernatural_efficacy
+  label: song-mediated supernatural efficacy
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly describes song as a supernatural force that produces
+    effects.
+  cautions: Preserve the specific local ritual function in evidence notes; do not
+    infer borrowing from other song-power motifs.
+  suggested_aliases:
+  - efficacious sacred song
+  - supernaturally effective song
+  - song as supernatural power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-named-for-a-bird
+  motif_id: song_named_for_a_bird
+  label: song named for a bird
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a song title or cataloging detail rather
+    than a narrative or symbolic motif.
+  cautions: If the bird-name encodes transformation, animal power, or ritual efficacy
+    in the passage, review under enchanting_music or animal-related motifs instead.
+  suggested_aliases:
+  - bird-named song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-of-loss-of-a-personal-object
+  motif_id: song_of_loss_of_a_personal_object
+  label: Song of loss of a personal object
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be a lament-like song, a narrative episode, or a song title;
+    the motif function is unclear.
+  cautions: Could map to lament_and_mourning if grief/loss is central, storytelling_as_power
+    if narrative performance matters, or be excluded as a title artifact.
+  suggested_aliases:
+  - song about a lost object
+  - lost-object song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-of-the-first-old-people
+  motif_id: song_of_the_first_old_people
+  label: song of the first old people
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A song attributed to primordial elders or first people likely preserves
+    ancestral knowledge or origin memory.
+  cautions: If the passage emphasizes origins of the first people rather than song
+    transmission, cosmic_origin may be relevant; if it is only a song title, exclude
+    as textual detail.
+  suggested_aliases:
+  - ancestral song of the first people
+  - first elders' song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-of-weather-after-storm-as-promise-of-peace
+  motif_id: song_of_weather_after_storm_as_promise_of_peace
+  label: song of weather after storm as promise of peace
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Weather after a storm read through song as a promise of peace functions
+    as an omen or revealed sign.
+  cautions: Could map to sacred_law or covenant if the promise establishes social
+    peace, or enchanting_music if the song effects the change rather than interprets
+    it.
+  suggested_aliases:
+  - weather song promising peace
+  - post-storm peace omen song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-or-dance-concealing-a-command
+  motif_id: song_or_dance_concealing_a_command
+  label: Song or dance concealing a command
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A performance that encodes or conceals a command uses expressive form
+    as strategic communication and power.
+  cautions: If concealment is deceptive trickery rather than sacred performance, trickster
+    may be a secondary mapping; source context is needed.
+  suggested_aliases:
+  - concealed command in song
+  - coded command in dance
+  - performance concealing a command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-performance-with-interspersed-calls-or-cries
+  motif_id: song_performance_with_interspersed_calls_or_cries
+  label: song performance with interspersed calls or cries
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to describe performance form or transcription detail rather
+    than a reusable mythic motif.
+  cautions: If the calls or cries have ritual efficacy, affect spirits, or signal
+    prophecy, review under enchanting_music or prophecy_divination.
+  suggested_aliases:
+  - song with calls or cries
+  - interspersed cries in song performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-performed-in-hope-of-successful-horse-capture
+  motif_id: song_performed_in_hope_of_successful_horse_capture
+  label: Song performed in hope of successful horse capture
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A song performed to seek success in capture functions as petitionary
+    or ritual action requesting favor or efficacy.
+  cautions: Could also fit enchanting_music if the song is believed to compel the
+    outcome, or sacred_combat/raiding context if horse capture is martial.
+  suggested_aliases:
+  - petitionary song for horse capture
+  - success song for horse capture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence song/performance descriptions; final placement
+  should check whether the source presents song as title, ritual action, omen, knowledge
+  transmission, or supernatural sound power.
+- 'Avoid flattening all song motifs into enchanting_music: some function as oral knowledge,
+  divination, petition, coded speech, or textual/performance artifacts.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passage review recommended for culturally
+    specific song functions.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1449
+  input_sha256: e09315f55d4a63e25823bccf944a5b9d620653bfd9afaf6c4bac79ec5efceeb4
+

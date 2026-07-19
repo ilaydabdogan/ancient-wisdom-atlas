@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2326
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.companion-abandoned-after-yielding-to-otherworld-allurements
+  motif_id: companion_abandoned_after_yielding_to_otherworld_allurements
+  label: Companion abandoned after yielding to Otherworld allurements
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on the danger of enchanted Otherworld attractions and
+    a companion remaining in or being lost to that realm.
+  cautions: Single occurrence and episode-specific; could also relate to hero_journey
+    if the emphasis is failed return from a voyage.
+  suggested_aliases:
+  - otherworld_allurement_abandonment
+  - companion_lost_to_otherworld_allure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.companion-restrains-rash-heroic-action-to-protect-the-group
+  motif_id: companion_restrains_rash_heroic_action_to_protect_the_group
+  label: companion restrains rash heroic action to protect the group
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes counsel or restraint within a heroic group, but the
+    existing groups do not clearly capture prudent companion-advice as a motif.
+  cautions: May be a passage-specific plot action or ethical characterization rather
+    than a reusable motif; could fit sacred_combat, hero_journey, sacred_law, or wisdom
+    depending on evidence.
+  suggested_aliases:
+  - wise_companion_restrains_rash_hero
+  - counsel_against_rash_heroic_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.companions-left-behind-in-otherworldly-islands
+  motif_id: companions_left_behind_in_otherworldly_islands
+  label: Companions left behind in otherworldly islands
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: high
+  rationale: Otherworldly islands are a clear form of enchanted realm, and companions
+    left behind marks failed or partial return from that realm.
+  cautions: If the source emphasizes voyage structure rather than the enchanted realm,
+    hero_journey may be a secondary mapping.
+  suggested_aliases:
+  - companions_remain_in_otherworld_islands
+  - companions_lost_on_enchanted_islands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.compassionate-restraint-contrasted-with-greedy-action
+  motif_id: compassionate_restraint_contrasted_with_greedy_action
+  label: compassionate restraint contrasted with greedy action
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already contains greed-temperance reversal patterns, and this
+    label contrasts virtuous restraint with greedy conduct.
+  cautions: If the passage is primarily a Buddhist ethical teaching without supernatural
+    reckoning, sacred_law or sacred_knowledge may be a better review placement.
+  suggested_aliases:
+  - compassionate_restraint_against_greed
+  - greed_contrasted_with_compassionate_restraint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.complete-destruction-of-man-shark-by-fire
+  motif_id: complete_destruction_of_man_shark_by_fire
+  label: complete destruction of man-shark by fire
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core reusable pattern appears to be destruction of a dangerous hybrid
+    or monster adversary, likely a combat motif.
+  cautions: Do not map to world_destroying_fire; the fire destroys a specific monster,
+    not a world/order. Could fit sacred_combat if the hero-combat context is not divine
+    or cosmic.
+  suggested_aliases:
+  - fire_destruction_of_man_shark
+  - hybrid_shark_monster_destroyed_by_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.composite-fire-breathing-monster-slain-by-mounted-hero
+  motif_id: composite_fire_breathing_monster_slain_by_mounted_hero
+  label: Composite fire-breathing monster slain by mounted hero
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: high
+  rationale: A hero slaying a monstrous, fire-breathing adversary is a clear heroic
+    or sacred combat pattern.
+  cautions: The mounted-hero and composite-monster details should remain evidence
+    details unless the subtype recurs broadly.
+  suggested_aliases:
+  - fire_breathing_monster_slaying
+  - mounted_hero_slays_composite_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.composite-sun-vulva-post-design
+  motif_id: composite_sun_vulva_post_design
+  label: composite sun-vulva post design
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a culturally specific ritual or material
+    design combining solar and generative imagery.
+  cautions: Potentially sensitive and artifact-specific; source context is needed
+    before deciding between sacred_fire/solar symbolism, fertility/mother_goddess,
+    sacred_craft, or exclusion as object description.
+  suggested_aliases:
+  - sun_vulva_post_design
+  - solar_generative_post_symbol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.composite-water-monster-as-whale-hunter
+  motif_id: composite_water_monster_as_whale_hunter
+  label: Composite water monster as whale hunter
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a specific water-monster role but does not show
+    whether the function is combat, guardian, animal helper, or cosmological being.
+  cautions: Culturally specific Northwest Coast being imagery may need source review;
+    avoid reducing it to generic sacred_waters or divine_warrior without narrative
+    function.
+  suggested_aliases:
+  - water_monster_whale_hunter
+  - composite_sea_monster_hunts_whales
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-approach-by-raft-or-fallen-tree
+  motif_id: concealed_approach_by_raft_or_fallen_tree
+  label: Concealed approach by raft or fallen tree
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A disguised or concealed approach using a natural object functions as
+    stratagem and boundary-crossing deception.
+  cautions: If the passage is military rather than trickster deception, sacred_combat
+    may be better; if it is only travel logistics, exclude as an episode detail.
+  suggested_aliases:
+  - concealed_approach_disguised_as_floating_tree
+  - raft_or_tree_deception_approach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-bodily-mark-exposed-by-nature
+  motif_id: concealed_bodily_mark_exposed_by_nature
+  label: concealed bodily mark exposed by nature
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A hidden bodily mark revealed by external means functions as an identity
+    proof or recognition token.
+  cautions: Preserve the nature-exposure mechanism as evidence detail; if the mark
+    is not used for recognition or proof, review as a passage-specific omen or plot
+    device.
+  suggested_aliases:
+  - recognition_by_concealed_bodily_mark
+  - hidden_mark_revealed_by_nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch were routed to a nature/cosmos review bucket but function
+  more clearly as Otherworld, combat, trickster, recognition, or ethical motifs.
+- Single-occurrence, culturally specific material-design and water-monster labels
+  should receive human source review before broad indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2326
+  input_sha256: 969aa151c3125f4d94305d27d1634bdef4d5a85f296b1f739ec9cf1942e77261
+

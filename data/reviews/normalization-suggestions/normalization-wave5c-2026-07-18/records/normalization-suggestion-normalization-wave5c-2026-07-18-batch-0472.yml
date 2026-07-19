@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0472
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.censorship-of-innovative-poetry-in-favor-of-sacred-hymns
+  motif_id: censorship_of_innovative_poetry_in_favor_of_sacred_hymns
+  label: Censorship of innovative poetry in favor of sacred hymns
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern sacred song, social control of speech, or a passage-specific
+    literary-historical claim.
+  cautions: Single occurrence; could be textual commentary about poetic tradition
+    rather than a narrative motif. Review source evidence before mapping to sacred_knowledge,
+    sacred_law, or storytelling_as_power.
+  suggested_aliases:
+  - poetic_censorship_in_favor_of_sacred_hymns
+  - suppression_of_innovative_poetry_for_sacred_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cessation-of-former-town-stone-placement-after-foreign-arrival
+  motif_id: cessation_of_former_town_stone_placement_after_foreign_arrival
+  label: Cessation of former town-stone placement after foreign arrival
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads as a highly contextual historical or cultural-change
+    note rather than a reusable mythic motif.
+  cautions: If the source describes a ritual cessation with cosmological meaning,
+    human review could remap to sacred_law, sacred_time, or axis_mundi; do not infer
+    from label alone.
+  suggested_aliases:
+  - ending_of_town_stone_placement_after_foreign_arrival
+  - foreign_arrival_ends_town_stone_placement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-recruited-by-promise-of-woman-kingship-and-feast-hospitality
+  motif_id: champion_recruited_by_promise_of_woman_kingship_and_feast_hospitality
+  label: Champion recruited by promise of woman, kingship, and feast-hospitality
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is recruiting a champion for martial action through
+    promised rewards and hospitality.
+  cautions: Composite label also touches royal_legitimacy, sacred_love, and sacred_exchange;
+    preserve those details as evidence rather than creating a new group from one occurrence.
+  suggested_aliases:
+  - champion_recruited_by_promised_rewards
+  - warrior_recruited_by_feast_hospitality_and_kingship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.changed-appearance-from-hardship-during-absence
+  motif_id: changed_appearance_from_hardship_during_absence
+  label: Changed appearance from hardship during absence
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A figure altered by absence and hardship fits journey, exile, ordeal,
+    and return patterns.
+  cautions: If the changed appearance enables hidden identity or recognition, recognition_tokens_hidden_identity
+    may be a secondary mapping; if it is merely descriptive, it may be over-specific.
+  suggested_aliases:
+  - hardship_alters_appearance_during_absence
+  - changed_appearance_after_exile_or_absence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chariot-crossing-the-sea
+  motif_id: chariot_crossing_the_sea
+  label: chariot crossing the sea
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sea crossing by an unusual vehicle is a water-passage motif if it marks
+    travel across a liminal boundary.
+  cautions: If the emphasis is on the chariot as a wondrous object or craft, sacred_treasures
+    or sacred_craft may be secondary; do not map to flood_and_renewal without catastrophe-renewal
+    evidence.
+  suggested_aliases:
+  - sea_crossing_by_chariot
+  - chariot_travel_over_the_sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cheerful-endurance-of-hardship-and-loss
+  motif_id: cheerful_endurance_of_hardship_and_loss
+  label: Cheerful endurance of hardship and loss
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as an ethical or psychological virtue rather than a clear
+    narrative motif.
+  cautions: Could fit initiation, mystical_quest, sacred_law, or an ethics-focused
+    group depending on source context; avoid flattening culturally specific endurance
+    practices into a generic virtue.
+  suggested_aliases:
+  - joyful_endurance_of_loss
+  - cheerful_patience_under_hardship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chief-requested-destruction-of-his-own-village
+  motif_id: chief_requested_destruction_of_his_own_village
+  label: chief-requested destruction of his own village
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate ritual self-destruction, migration origin, judgment,
+    or a specific historical-narrative episode.
+  cautions: Culturally sensitive and single occurrence; source evidence is needed
+    before mapping to divine_judgment, sacrifice, flood_and_renewal, or royal_legitimacy.
+  suggested_aliases:
+  - chief_orders_destruction_of_own_village
+  - leader_requests_village_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chieftain-commanding-loyal-retainers-aboard-ship
+  motif_id: chieftain_commanding_loyal_retainers_aboard_ship
+  label: chieftain commanding loyal retainers aboard ship
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a scene description centered on personnel and setting, not
+    a reusable symbolic or narrative function.
+  cautions: If the passage emphasizes sacred kingship, voyage ordeal, or ship as preserving
+    vessel, human review may remap; otherwise preserve only as evidence detail.
+  suggested_aliases:
+  - chieftain_with_retainers_aboard_ship
+  - leader_commands_retainers_on_ship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chieftainship
+  motif_id: chieftainship
+  label: Chieftainship
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: narrower_than
+  confidence: medium
+  rationale: Chieftainship concerns legitimate social and political authority, fitting
+    the sacred kingship and rule group at a broader level.
+  cautions: The label is broad and may be merely an ethnographic institution rather
+    than a motif; review for mythic authorization, succession, ritual authority, or
+    sacred status.
+  suggested_aliases:
+  - chiefly_authority
+  - sacred_chieftainship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chieftainship-insignia
+  motif_id: chieftainship_insignia
+  label: Chieftainship insignia
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Insignia that mark chiefly authority function as power objects conferring
+    or displaying rank and legitimacy.
+  cautions: If the evidence emphasizes the office rather than the object, royal_legitimacy
+    may be primary; preserve local object details and avoid assuming divine origin.
+  suggested_aliases:
+  - chiefly_insignia
+  - chieftain_authority_insignia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and scene-specific; suggested
+  placements should be treated as provisional indexing aids, not taxonomy edits.
+- The journey bucket appears to contain political, textual, and institutional labels;
+  source evidence is needed before promoting any of these to durable motif families.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional machine suggestions for wave5c batch 0472.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0472
+  input_sha256: 6c49b4b80afcbf3ad95055003aaf42675d59c8e092005426bcdb9689176bdba1
+

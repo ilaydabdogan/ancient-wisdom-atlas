@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3108
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.status-reversal-after-pride-and-harsh-rule
+  motif_id: status_reversal_after_pride_and_harsh_rule
+  label: Status reversal after pride and harsh rule
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Pride and harsh rule followed by status reversal fits humbling or downfall
+    after overreach.
+  cautions: Single occurrence; if the passage emphasizes social justice or divine
+    punishment rather than pride, divine_judgment may be a secondary fit.
+  suggested_aliases:
+  - proud_ruler_brought_low
+  - harsh_ruler_status_reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.steadfastness-under-temptation-and-coercion
+  motif_id: steadfastness_under_temptation_and_coercion
+  label: steadfastness under temptation and coercion
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Moral steadfastness under pressure fits ethical discipline and social-order
+    obligations within sacred_law.
+  cautions: Could be an abstract virtue theme rather than a narrative motif; if linked
+    to formal instruction, sacred_knowledge may also apply.
+  suggested_aliases:
+  - moral_steadfastness_under_coercion
+  - resisting_temptation_under_pressure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stolen-eggs-guarded-by-dangerous-creatures
+  motif_id: stolen_eggs_guarded_by_dangerous_creatures
+  label: stolen eggs guarded by dangerous creatures
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines theft, guarded objects, eggs, and dangerous creatures
+    without enough evidence to choose trickster, sacred_treasures, or threshold_guardian.
+  cautions: May be an episode-specific quest detail; if the eggs are power objects
+    map toward sacred_treasures, if the focus is stealing map toward trickster or
+    sacred_theft.
+  suggested_aliases:
+  - guarded_stolen_eggs
+  - dangerous_guardians_of_stolen_eggs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-throwing-to-drive-off-or-conceal-dangerous-beings
+  motif_id: stone_throwing_to_drive_off_or_conceal_dangerous_beings
+  label: Stone-throwing to drive off or conceal dangerous beings
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Driving off dangerous beings by a prescribed action resembles apotropaic
+    protection already folded under sacred_law.
+  cautions: If this is a narrative combat tactic rather than ritual protection, divine_warrior
+    or sacred_combat may fit better; source context is needed.
+  suggested_aliases:
+  - apotropaic_stone_throwing
+  - stones_drive_off_dangerous_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stranger-hospitality-formula-and-tobacco-withholding
+  motif_id: stranger_hospitality_formula_and_tobacco_withholding
+  label: stranger hospitality formula and tobacco withholding
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on obligations to a stranger and withholding a valued
+    hospitality substance.
+  cautions: Tobacco may be culturally specific ritual evidence; preserve specificity
+    and avoid flattening it into generic hospitality without source review.
+  suggested_aliases:
+  - hospitality_to_stranger_withheld_tobacco
+  - stranger_guest_tobacco_withholding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stranger-incorporation-through-adoption-of-clan-totems
+  motif_id: stranger_incorporation_through_adoption_of_clan_totems
+  label: Stranger incorporation through adoption of clan totems
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes social incorporation through totemic identity, which
+    is not cleanly covered by existing groups.
+  cautions: Culturally sensitive kinship/totem material; may belong with sacred_law,
+    covenant, or a future kinship-initiation group depending on passage evidence.
+  suggested_aliases:
+  - stranger_adopted_into_clan_totems
+  - totemic_incorporation_of_stranger
+  suggested_new_group:
+    id: totemic_kinship_incorporation
+    label: Totemic Kinship and Social Incorporation
+    description: Ritual or mythic incorporation of outsiders into kin, clan, or totemic
+      identities through adoption, naming, affiliation, or shared emblems.
+    parent_group_ids:
+    - sacred_law
+    - covenant
+    - initiation
+    related_group_ids:
+    - sacred_exchange
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover law, covenant, and
+      initiation broadly but do not preserve the totemic kinship mechanism of social
+      incorporation.
+- suggestion_id: normalization.suggestion.stranger-suspected-as-guide-for-enemies
+  motif_id: stranger_suspected_as_guide_for_enemies
+  label: stranger suspected as guide for enemies
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a contextual suspicion or plot detail rather than a durable
+    symbolic motif.
+  cautions: If the broader passage frames the stranger as a liminal test, betrayer,
+    or enemy guide archetype, reconsider under hospitality_test_stranger_guest or
+    betrayal_violated_trust.
+  suggested_aliases:
+  - suspected_enemy_guide_stranger
+  - stranger_accused_of_guiding_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.strategic-avenger-kills-dangerous-chief
+  motif_id: strategic_avenger_kills_dangerous_chief
+  label: Strategic avenger kills dangerous chief
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: A strategic killing by an avenger fits combat and vengeance patterns
+    more than inner-life ethics.
+  cautions: May be a localized episode-specific revenge plot; if the chief's death
+    restores moral order, divine_judgment may be secondary.
+  suggested_aliases:
+  - avenger_kills_dangerous_chief
+  - strategic_revenge_against_chief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.strict-bodily-discipline-required-for-cure
+  motif_id: strict_bodily_discipline_required_for_cure
+  label: strict bodily discipline required for cure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Bodily discipline as a condition for healing fits contemplative discipline
+    and transformation of the self.
+  cautions: If the passage concerns medical or monastic rule rather than spiritual
+    transformation, sacred_law or a non-motif evidence note may be better.
+  suggested_aliases:
+  - bodily_discipline_for_healing
+  - discipline_required_for_cure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.subordinate-imitates-superior-s-dangerous-role-and-fails
+  motif_id: subordinate_imitates_superior_s_dangerous_role_and_fails
+  label: Subordinate imitates superior's dangerous role and fails
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Failed imitation of a superior's dangerous role aligns with overreach,
+    envy, or false imitation followed by downfall.
+  cautions: If the episode is primarily didactic about hierarchy or discipline, sacred_law
+    may be a secondary fit.
+  suggested_aliases:
+  - failed_imitation_of_superior_role
+  - dangerous_role_imitation_fails
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional; several labels are single-occurrence and may be
+  over-specific episode summaries.
+- Ethics/inner-life bucket labels often require source evidence to distinguish moral
+  exemplum from reusable motif.
+- No transmission or borrowing claims are implied by these normalization suggestions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch includes culturally specific Indigenous, Melanesian, San, Buddhist,
+    Confucian, and Afro-Caribbean labels; human review should check local context
+    before adding aliases or new groups.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3108
+  input_sha256: ff3d15b79d29417461cde9c653db13dc8774db144e7d7cb705a5a59a76805f15
+

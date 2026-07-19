@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1340
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-assembly-at-named-landmarks
+  motif_id: heroic_assembly_at_named_landmarks
+  label: heroic assembly at named landmarks
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate sacred geography, heroic council, or merely
+    a passage-specific gathering at named places.
+  cautions: Single occurrence; named landmarks may be local setting rather than a
+    reusable motif. Review passage function before mapping to axis_mundi, royal_legitimacy,
+    or sacred_combat.
+  suggested_aliases:
+  - heroic_assembly_at_landmarks
+  - assembly_at_named_landmarks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-battle-aristeia-with-named-kill-catalogue
+  motif_id: heroic_battle_aristeia_with_named_kill_catalogue
+  label: Heroic battle aristeia with named-kill catalogue
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A battle aristeia with a kill catalogue is a heroic combat intensification
+    fitting the divine_warrior group's mass-slaying and martial proof patterns.
+  cautions: The named-kill catalogue may be a literary style marker rather than an
+    independent motif; preserve detail as evidence and consider sacred_combat if the
+    ritual structure of battle is foregrounded.
+  suggested_aliases:
+  - heroic_battle_fury_with_named_kill_catalogue
+  - aristeia_with_named_slayings
+  - heroic_mass_slaying_catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-battle-catalogue-of-named-slayings
+  motif_id: heroic_battle_catalogue_of_named_slayings
+  label: heroic battle catalogue of named slayings
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A catalogue of named slayings functions as heroic martial display and
+    overlaps with existing battle-fury/catalogue children under divine_warrior.
+  cautions: May be a poetic catalogue artifact rather than a motif; do not promote
+    unless the slaying-list pattern recurs as a narrative function.
+  suggested_aliases:
+  - named_slaying_catalogue
+  - heroic_kill_catalogue
+  - battle_catalogue_of_named_kills
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-feast-service-by-sword-skill
+  motif_id: heroic_feast_service_by_sword_skill
+  label: heroic feast service by sword skill
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines feast service, martial skill, and heroic display;
+    the dominant function is unclear without passage evidence.
+  cautions: Could fit divine_warrior as martial prowess, sacred_exchange as feast/hospitality
+    service, or sacred_combat if a formal challenge is involved. Single occurrence
+    and culturally specific scene.
+  suggested_aliases:
+  - sword_skill_at_feast
+  - heroic_feast_display_by_sword
+  - feast_service_through_martial_skill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-lament-becomes-a-place-name-memory
+  motif_id: heroic_lament_becomes_a_place_name_memory
+  label: heroic lament becomes a place-name memory
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a place-name etiology generated by a heroic lament,
+    matching existing place-name etiology children under cosmic_origin.
+  cautions: If the passage emphasizes grief performance more than naming, lament_and_mourning
+    should be a secondary review relation. Avoid treating all laments as etiologies.
+  suggested_aliases:
+  - place_name_etiology_from_heroic_lament
+  - heroic_lament_place_naming
+  - lament_as_toponymic_memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-memory-causing-concealed-grief
+  motif_id: heroic_memory_causing_concealed_grief
+  label: Heroic memory causing concealed grief
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: Remembering a hero and hiding grief belongs to mourning and tragic recognition
+    rather than wisdom or vision.
+  cautions: May be an episode-specific emotional detail if no ritual lament, public
+    mourning, or recognition function is present.
+  suggested_aliases:
+  - concealed_grief_from_heroic_memory
+  - hidden_mourning_for_a_hero
+  - heroic_remembrance_and_grief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-name-derived-from-smith-association
+  motif_id: heroic_name_derived_from_smith_association
+  label: heroic name derived from smith association
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A hero's name etymology from a smith association reads as onomastic explanation
+    rather than a symbolic or narrative motif.
+  cautions: If the passage actually narrates name acquisition through a smithing ordeal
+    or sacred craft episode, review for sacred_craft or culture_hero instead.
+  suggested_aliases:
+  - heroic_name_etymology_from_smith
+  - smith_association_name_etiology
+  - hero_name_from_smithing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-named-seat
+  motif_id: heroic_named_seat
+  label: heroic named seat
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A named heroic seat could be a sovereignty object, sacred center, place-name
+    memory, or simply a catalogued location.
+  cautions: Single occurrence and too context-dependent. Review whether the seat confers
+    authority, marks a sacred center, or is only a named landmark.
+  suggested_aliases:
+  - named_heroic_seat
+  - hero_seat_name
+  - heroic_seat_landmark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-or-mythic-named-horse
+  motif_id: heroic_or_mythic_named_horse
+  label: Heroic or mythic named horse
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A named horse may be a heroic companion, supernatural mount, status marker,
+    or merely catalogued personage/object detail.
+  cautions: Existing groups lack a clean heroic animal-companion parent. Map to shapeshifter
+    only if the horse is magical/transformative, or divine_warrior if its function
+    is battle prowess.
+  suggested_aliases:
+  - named_mythic_horse
+  - heroic_named_mount
+  - mythic_named_steed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-retinue-of-charioteer-and-named-horse
+  motif_id: heroic_retinue_of_charioteer_and_named_horse
+  label: heroic retinue of charioteer and named horse
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes heroic entourage components, but the motif function
+    is unclear without evidence of combat, status, journey, or recognition.
+  cautions: Could be a passage-specific catalogue. Consider divine_warrior if the
+    retinue enables battle, hero_journey if it marks travel, or exclude if only named
+    dramatis personae.
+  suggested_aliases:
+  - heroic_charioteer_and_named_horse
+  - hero_retinue_with_named_mount
+  - charioteer_and_horse_retinue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be heroic catalogue, onomastic, or named-object/place
+  details that may not support broad pattern queries without passage evidence.
+- The review_bucket_id supplied as wisdom_speech_dream_revelation seems noisy for
+  most items; many likely belong, if anywhere, in combat, lament, sacred geography,
+  or meta-textual review areas.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize human review for single-occurrence
+    named-landmark, named-seat, named-horse, and retinue labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1340
+  input_sha256: 247a7c149f433f63518f1eb291b82e38568b44993df356217f94886748ddc3e0
+

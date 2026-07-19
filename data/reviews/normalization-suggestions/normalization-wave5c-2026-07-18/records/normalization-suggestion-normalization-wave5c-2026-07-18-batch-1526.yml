@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1526
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.communal-game-as-social-center
+  motif_id: communal_game_as_social_center
+  label: communal game as social center
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an ethnographic social-use note about a game rather
+    than a recurring symbolic or narrative motif.
+  cautions: If the game has ritual, cosmological, divinatory, or conflict-regulating
+    function in the passage, reassess under sacred_law, sacred_time, or prophecy_divination.
+  suggested_aliases:
+  - game as communal gathering center
+  - communal gaming as social institution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-guardian-order
+  motif_id: communal_guardian_order
+  label: communal guardian order
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could describe social law, civic guardianship, tutelary protection, or
+    a named institutional class; the function is unclear from the label alone.
+  cautions: Do not map to divine_intervention unless supernatural or tutelary agency
+    is explicit; do not map to sacred_law unless it is a normative civic order.
+  suggested_aliases:
+  - communal guardianship order
+  - guardian order of the community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-house-floor-making-by-women-and-children
+  motif_id: communal_house_floor_making_by_women_and_children
+  label: communal house-floor making by women and children
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a specific domestic labor or social-organization detail
+    rather than a broad motif.
+  cautions: If the floor-making is part of a foundation rite, sacred construction,
+    or gendered ritual obligation, review for sacred_craft or sacred_law instead.
+  suggested_aliases:
+  - communal house floor construction
+  - women and children making house floor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-hunt-governed-by-appointed-order-keepers
+  motif_id: communal_hunt_governed_by_appointed_order_keepers
+  label: communal hunt governed by appointed order-keepers
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is regulation of communal subsistence by appointed authorities,
+    fitting sacred/social order and normative law.
+  cautions: If the emphasis is purely ethnographic administration with no sacred,
+    ritual, or mythic framing, it may be too contextual for pattern queries.
+  suggested_aliases:
+  - appointed order keepers regulate communal hunt
+  - communal hunt under order keepers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-hunt-regulated-by-social-authorities
+  motif_id: communal_hunt_regulated_by_social_authorities
+  label: communal hunt regulated by social authorities
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is a close variant of communal hunt governance and fits regulation
+    of social obligations and order.
+  cautions: May be an institutional detail rather than a motif unless the passage
+    frames the regulation as ritually or morally charged.
+  suggested_aliases:
+  - communal hunt governed by authorities
+  - social authorities regulate communal hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-judgment-by-formal-repetition-and-silence
+  motif_id: communal_judgment_by_formal_repetition_and_silence
+  label: Communal judgment by formal repetition and silence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A formal communal procedure for judgment belongs with sacred law and
+    ordered communal discipline.
+  cautions: If the passage emphasizes moral reckoning by divine or karmic authority
+    rather than procedure, divine_judgment may be a secondary fit.
+  suggested_aliases:
+  - formal silence as communal judgment
+  - repetition and silence in communal judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-marking-and-attendance-at-high-status-funeral
+  motif_id: communal_marking_and_attendance_at_high_status_funeral
+  label: Communal marking and attendance at high-status funeral
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns communal attendance and bodily marking in a high-status
+    funeral, fitting funeral rites and memorialization.
+  cautions: If grief expression rather than status-affirming funerary rite is primary,
+    lament_and_mourning may be the better group.
+  suggested_aliases:
+  - communal attendance at high status funeral
+  - body marking for high status funeral
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-mourning-with-clay-body-marking
+  motif_id: communal_mourning_with_clay_body_marking
+  label: communal mourning with clay body-marking
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: Communal mourning expressed through clay body-marking is a clear ritualized
+    grief pattern.
+  cautions: Preserve the clay-marking detail as local evidence; do not generalize
+    it into burial rites unless a funeral sequence is explicit.
+  suggested_aliases:
+  - clay body marking in communal mourning
+  - mourning marked by clay on the body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-property-declared-indivisible-by-religious-authority
+  motif_id: communal_property_declared_indivisible_by_religious_authority
+  label: communal property declared indivisible by religious authority
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Religious authority defining communal property status is a sacred-law
+    and social-order pattern.
+  cautions: May be monastic legal detail rather than mythic motif; review whether
+    it recurs as a normative religious rule.
+  suggested_aliases:
+  - religious authority declares communal property indivisible
+  - indivisible communal property by sacred authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-punishment-followed-by-secret-escape
+  motif_id: communal_punishment_followed_by_secret_escape
+  label: communal punishment followed by secret escape
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines punishment and escape, but it is unclear whether the
+    motif is judgment, trickster evasion, exile, or episode-specific plot movement.
+  cautions: Map to divine_judgment only if punishment is moral or sacred reckoning;
+    map to trickster only if deception or boundary-crossing is central.
+  suggested_aliases:
+  - secret escape after communal punishment
+  - punished figure secretly escapes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch look like ethnographic or institutional details rather
+  than durable symbolic motifs; source context is needed before broad indexing.
+- For communal regulation labels, sacred_law is used provisionally as the closest
+  social-order group, not as a claim of textual or cultural equivalence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific communal-practice labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1526
+  input_sha256: 51f4fe29976a45321fbae1952f755714516e219a36e72f5e03747918bec947ff
+

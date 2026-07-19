@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0198
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.garment-marking-relatives-of-the-battle-dead
+  motif_id: garment_marking_relatives_of_the_battle_dead
+  label: garment marking relatives of the battle-dead
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe mourning or kin-status marking after battle
+    death, but its ritual function is unclear.
+  cautions: Single occurrence and culturally specific mortuary practice; verify whether
+    it is mourning, social identity marking, warrior memorialization, or passage evidence.
+  suggested_aliases:
+  - mourning_garment_marking_relatives_of_battle_dead
+  - kinship_marking_for_battle_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - heroic_funeral_rites
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.garment-retained-through-death-and-burial
+  motif_id: garment_retained_through_death_and_burial
+  label: garment retained through death and burial
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A burial garment may be a mortuary rite, identity token, or passage provision,
+    but the label alone does not show a stable motif function.
+  cautions: Avoid mapping solely as sacred object; source context needed to know whether
+    the garment aids afterlife passage, preserves identity, or is ethnographic detail.
+  suggested_aliases:
+  - burial_garment_retained_after_death
+  - death_garment_retained_in_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - ancestor_rites
+    - heroic_funeral_rites
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-tool-and-organ-suspension-after-animal-death
+  motif_id: gendered_tool_and_organ_suspension_after_animal_death
+  label: Gendered tool-and-organ suspension after animal death
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a culturally specific ritual handling of animal remains,
+    possibly tied to taboo, soul relations, or hunting ritual.
+  cautions: Culturally sensitive and over-specific; review evidence before grouping
+    under sacred law, sacrifice, or animal-soul practices.
+  suggested_aliases:
+  - ritual_suspension_of_tools_and_organs_after_animal_death
+  - gendered_animal_death_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacrifice
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.genealogical-anchoring-by-kinship-and-descent
+  motif_id: genealogical_anchoring_by_kinship_and_descent
+  label: Genealogical anchoring by kinship and descent
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing cosmic_origin group already includes ancestral origins,
+    eponymous ancestors, and genealogical origin of peoples from named ancestors.
+  cautions: If this is only a literary catalog or saga structuring device rather than
+    an origin claim, exclude or treat as textual evidence detail.
+  suggested_aliases:
+  - genealogical_anchor_by_descent
+  - kinship_descent_origin_anchor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.genealogical-classification-by-descent-collateral-relation-and-marriage
+  motif_id: genealogical_classification_by_descent_collateral_relation_and_marriage
+  label: Genealogical classification by descent, collateral relation, and marriage
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a classificatory or kinship-system description rather
+    than a narrative or symbolic motif.
+  cautions: If the passage prescribes sacred kinship obligations or ancestor rites,
+    reconsider under sacred_law or ancestor_rites; otherwise exclude from motif queries.
+  suggested_aliases:
+  - genealogical_classification_by_kinship_relations
+  - kinship_classification_by_descent_marriage_and_collateral_relation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.genealogical-descent-by-named-ancestors
+  motif_id: genealogical_descent_by_named_ancestors
+  label: genealogical descent by named ancestors
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: alias
+  confidence: high
+  rationale: The group explicitly includes genealogical origin of peoples from named
+    ancestors and eponymous progenitors.
+  cautions: Use only where named ancestors explain descent, peoplehood, land, or origin;
+    a mere genealogy list may be a textual artifact.
+  suggested_aliases:
+  - genealogical_origin_from_named_ancestors
+  - descent_from_named_ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gesture-toward-immortality
+  motif_id: gesture_toward_immortality
+  label: gesture toward immortality
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too abstract to determine whether it means bestowed immortality,
+    resurrection, afterlife hope, or symbolic aspiration.
+  cautions: May be commentary language rather than a motif; map only after confirming
+    a concrete narrative or ritual pattern.
+  suggested_aliases:
+  - aspiration_toward_immortality
+  - immortality_gesture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - immortality_without_renewal
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghost-and-name-taboo
+  motif_id: ghost_and_name_taboo
+  label: ghost and name taboo
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A name taboo involving ghosts functions as a ritual prohibition regulating
+    contact with the dead or spirit danger.
+  cautions: Could also relate to restless_dead_haunting_vengeance if the ghost actively
+    returns or harms; preserve the name-taboo detail.
+  suggested_aliases:
+  - name_taboo_concerning_ghosts
+  - death_name_taboo
+  - ghost_name_avoidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghost-assisted-sleep-spell-through-dance-implements
+  motif_id: ghost_assisted_sleep_spell_through_dance_implements
+  label: ghost-assisted sleep spell through dance implements
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is supernatural sleep compulsion through performative
+    implements, matching the sleep/enchantment complex.
+  cautions: Ghost agency may also support restless_dead_haunting_vengeance or divine_intervention;
+    confirm whether dance implements are sound/music instruments or ritual objects.
+  suggested_aliases:
+  - ghost_aided_sleep_enchantment
+  - sleep_spell_through_dance_implements
+  - ghost_assisted_dance_sleep_spell
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ghost-demanding-or-explaining-death-rite
+  motif_id: ghost_demanding_or_explaining_death_rite
+  label: ghost demanding or explaining death rite
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: functional_variant
+  confidence: high
+  rationale: A ghost instructing or demanding mortuary rites directly concerns ritual
+    care and proper relations between living and dead.
+  cautions: If the ghost is vengeful because rites were denied, secondary relation
+    to restless_dead_haunting_vengeance may be useful.
+  suggested_aliases:
+  - ghost_demands_death_rite
+  - dead_person_explains_mortuary_rite
+  - ghost_instructs_funeral_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence mortuary or kinship details; human review should
+  distinguish recurring motif functions from ethnographic or textual classification
+  notes.
+- Genealogical labels should not be treated as death/ancestor motifs unless they explain
+  origins, sacred descent, or ritual kinship obligations.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific mortuary
+    practices need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0198
+  input_sha256: acf53ce4432f26472ece0164093353e63f60990546c1c1971769ef1ec399cc45
+

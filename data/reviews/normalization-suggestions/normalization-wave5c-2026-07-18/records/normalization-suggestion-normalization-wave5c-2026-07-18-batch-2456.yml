@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2456
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.monster-swallowing-the-moon-during-eclipse
+  motif_id: monster_swallowing_the_moon_during_eclipse
+  label: Monster swallowing the moon during eclipse
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Eclipse and Celestial Devouring
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes a recurring cosmological explanation of eclipse through
+    a monster consuming a celestial body; no existing group cleanly covers eclipse
+    myths.
+  cautions: Single occurrence here; could be treated as local eclipse etiology unless
+    similar sun/moon devouring labels recur.
+  suggested_aliases:
+  - celestial_body_devoured_during_eclipse
+  - eclipse_caused_by_monster
+  - moon_devoured_during_eclipse
+  suggested_new_group:
+    id: eclipse_celestial_devouring
+    label: Eclipse and Celestial Devouring
+    description: Eclipses or darkening of celestial bodies explained by a monster,
+      animal, demon, or hostile being swallowing, attacking, stealing, or obscuring
+      the sun or moon.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - chaos
+    - serpent_guardian
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing cosmic_origin covers broad creation
+      and etiology, but does not preserve the distinctive eclipse-devouring celestial
+      conflict pattern.
+- suggestion_id: normalization.suggestion.monster-thief-at-a-water-place
+  motif_id: monster_thief_at_a_water_place
+  label: monster thief at a water-place
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines monster, theft, and water-place setting without enough
+    function to distinguish trickster, threshold guardian, sacred waters, or combat.
+  cautions: May be an over-specific episode detail; review source evidence for whether
+    the water-place is a threshold, resource site, or incidental setting.
+  suggested_aliases:
+  - monster_thief_at_water_source
+  - water_place_monster_thief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monsters-devour-a-community-while-a-tree-top-survivor-escapes
+  motif_id: monsters_devour_a_community_while_a_tree_top_survivor_escapes
+  label: Monsters devour a community while a tree-top survivor escapes
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: low
+  rationale: A community-destroying catastrophe with a lone survivor escaping in a
+    tree resembles survivor-remnant renewal patterns, even without flood or fire.
+  cautions: Do not imply flood unless present; if no renewal or reconstitution follows,
+    this may be an over-specific monster-attack episode better reviewed under divine_judgment
+    or sacred_combat.
+  suggested_aliases:
+  - tree_top_survivor_after_monster_devouring
+  - community_devoured_with_single_survivor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-earthborn-beings-at-a-boundary-island
+  motif_id: monstrous_earthborn_beings_at_a_boundary_island
+  label: Monstrous Earthborn beings at a boundary island
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: Monstrous beings located at a boundary island likely function as liminal
+    figures marking or guarding a passage zone.
+  cautions: If the evidence emphasizes their origin from earth rather than their boundary
+    function, cosmic_origin or divine_race may be secondary; source context needed.
+  suggested_aliases:
+  - earthborn_monsters_at_liminal_island
+  - boundary_island_monsters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-killer-with-tree-spine-destroyed-by-dismemberment-and-burning
+  motif_id: monstrous_killer_with_tree_spine_destroyed_by_dismemberment_and_burning
+  label: monstrous killer with tree-spine destroyed by dismemberment and burning
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines monster slaying, tree-body imagery, dismemberment,
+    and burning; the primary motif cannot be determined from the label alone.
+  cautions: Could fit sacred_combat, death_and_transformation, conditional_invulnerability_hidden_weakness,
+    or sacred_fire depending on whether the key is combat, body transformation, vulnerability,
+    or purifying destruction.
+  suggested_aliases:
+  - tree_spined_monster_destroyed_by_burning
+  - monstrous_killer_dismembered_and_burned
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monstrous-tribe-inhabiting-shore-and-mountains
+  motif_id: monstrous_tribe_inhabiting_shore_and_mountains
+  label: monstrous tribe inhabiting shore and mountains
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A monstrous people in a landscape setting may be otherworldly, boundary-marking,
+    ethnographic, or merely descriptive.
+  cautions: Risk of treating culturally loaded descriptions of peoples as motifs;
+    review source context and avoid indexing if it is only exoticizing geography.
+  suggested_aliases:
+  - monstrous_people_at_shore_and_mountains
+  - monstrous_mountain_shore_tribe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monuments-arranged-as-a-parallel-row-street
+  motif_id: monuments_arranged_as_a_parallel_row_street
+  label: monuments arranged as a parallel-row street
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an archaeological or spatial description rather than
+    a narrative or symbolic motif.
+  cautions: If the arrangement is ritually interpreted as sacred geography or world
+    center, review under axis_mundi or sacred_craft; otherwise exclude from motif
+    queries.
+  suggested_aliases:
+  - parallel_row_monument_street
+  - monument_alignment_description
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moon-and-stars-receiving-light-from-the-sun
+  motif_id: moon_and_stars_receiving_light_from_the_sun
+  label: moon and stars receiving light from the sun
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif concerns solar light as the source of illumination for other
+    celestial bodies, fitting sacred fire/divine light symbolism.
+  cautions: If framed as a technical cosmological explanation rather than sacred solar
+    power, cosmic_origin may be a better secondary placement.
+  suggested_aliases:
+  - celestial_bodies_receive_solar_light
+  - sun_as_source_of_moon_and_star_light
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moon-as-a-game-ball-and-warning-against-cheating
+  motif_id: moon_as_a_game_ball_and_warning_against_cheating
+  label: moon as a game ball and warning against cheating
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: The warning against cheating suggests an ethical-reckoning function,
+    with moon imagery serving the moral lesson.
+  cautions: Composite and possibly passage-specific; if the moon-as-ball image is
+    etiological or cosmological rather than moral, cosmic_origin or sacred_time may
+    fit better.
+  suggested_aliases:
+  - moon_game_ball_cheating_warning
+  - celestial_game_warns_against_cheating
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moon-as-holder-of-bovine-seed
+  motif_id: moon_as_holder_of_bovine_seed
+  label: Moon as holder of bovine seed
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The moon holding generative seed is a cosmogonic or life-origin image
+    tied to celestial storage of fertility.
+  cautions: If the passage centers on sacred cattle or abundance rather than cosmic
+    generation, divine_intervention or sacred_substance may be secondary; preserve
+    bovine specificity.
+  suggested_aliases:
+  - moon_holds_animal_seed
+  - celestial_storage_of_bovine_seed
+  - moon_as_repository_of_generative_seed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence monster or landscape composites;
+  source review is important before promoting them beyond provisional group placement.
+- 'Avoid treating all celestial imagery as cosmic_origin: some labels function as
+  ethical warning, sacred light symbolism, or local eclipse etiology.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft suggestions generated for taxonomy review; low-confidence composite
+    labels require passage evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2456
+  input_sha256: d324bf7e1a6e60b3fb778c13cc41e5f94b621e85b63d873e21ae2dee3dd21095
+

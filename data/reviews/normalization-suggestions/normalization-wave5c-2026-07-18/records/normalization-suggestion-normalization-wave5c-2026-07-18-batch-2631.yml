@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2631
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.carefully-crafted-plant-material-weapon
+  motif_id: carefully_crafted_plant_material_weapon
+  label: carefully crafted plant-material weapon
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: A specially crafted weapon is best treated as a power object when its
+    weapon function is the salient motif.
+  cautions: Single occurrence; if the plant material is only an ethnographic detail
+    of ordinary weapon-making, exclude or keep as evidence detail. Could map to sacred_combat
+    if combat context dominates.
+  suggested_aliases:
+  - crafted_plant_weapon
+  - plant_material_weapon
+  - specially_crafted_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.carrying-a-companion-during-enemy-pursuit
+  motif_id: carrying_a_companion_during_enemy_pursuit
+  label: Carrying a companion during enemy pursuit
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate heroic loyalty, rescue, flight, or pursuit ordeal,
+    but the key narrative function is unclear.
+  cautions: Single occurrence and highly contextual. Could fit hero_journey, sacred_combat,
+    sacred_law/ethical duty, or be an episode detail rather than a durable motif.
+  suggested_aliases:
+  - companion_carried_during_pursuit
+  - rescue_of_companion_during_enemy_pursuit
+  - flight_with_wounded_or_dependent_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-allied-war-contingents
+  motif_id: catalogue_of_allied_war_contingents
+  label: Catalogue of allied war contingents
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A catalogue of contingents is likely a compositional or epic-list feature
+    rather than a symbolic motif.
+  cautions: If the passage uses the muster to establish sacred kingship, alliance
+    obligation, or ritual warfare, preserve that evidence under sacred_combat or royal_legitimacy
+    as secondary review notes.
+  suggested_aliases:
+  - war_contingent_catalogue
+  - catalogue_of_allied_forces
+  - epic_catalogue_of_allies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-specialist-war-bands-identified-by-an-interpreter
+  motif_id: catalogue_of_specialist_war_bands_identified_by_an_interpreter
+  label: catalogue of specialist war-bands identified by an interpreter
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The catalogue and interpreter framing reads like a narrative-description
+    or classification artifact rather than a reusable motif.
+  cautions: If the interpreter has a prophetic or recognition function, review for
+    prophecy_divination or recognition_tokens_hidden_identity; otherwise keep out
+    of motif queries.
+  suggested_aliases:
+  - catalogue_of_specialist_war_bands
+  - interpreter_identifies_war_bands
+  - war_band_catalogue_with_interpreter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-warriors-and-forces
+  motif_id: catalogue_of_warriors_and_forces
+  label: catalogue of warriors and forces
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A warrior catalogue is primarily an epic textual device or passage structure,
+    not a symbolic narrative motif.
+  cautions: Review only if the list has a clear ritual muster, sacred combat, or royal-legitimating
+    function beyond enumeration.
+  suggested_aliases:
+  - warrior_catalogue
+  - catalogue_of_forces
+  - epic_catalogue_of_warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-wounds-with-attacker-recognition
+  motif_id: catalogue_of_wounds_with_attacker_recognition
+  label: catalogue of wounds with attacker recognition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Wounds as martial proof and recognition of attackers align with heroic
+    combat and the group's existing wound/proof children.
+  cautions: The catalogue form may be textual; preserve the attacker-recognition detail
+    without promoting it as a standalone canonical motif.
+  suggested_aliases:
+  - wound_catalogue_with_attacker_recognition
+  - martial_wounds_identified_by_attacker
+  - catalogued_wounds_as_combat_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogued-summons-to-a-war-muster
+  motif_id: catalogued_summons_to_a_war_muster
+  label: Catalogued summons to a war-muster
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: A summons to muster belongs with warfare organization when it drives
+    ritualized or heroic conflict.
+  cautions: The catalogued form may be an epic listing artifact. Exclude if it is
+    only an enumerative passage without ritual or narrative function.
+  suggested_aliases:
+  - summons_to_war_muster
+  - war_muster_catalogue
+  - catalogued_call_to_arms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-reward-for-important-news
+  motif_id: cattle_reward_for_important_news
+  label: cattle reward for important news
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be reward exchange, messenger compensation, cattle-value economy,
+    or a plot detail; existing groups do not clearly capture it from the label alone.
+  cautions: Single occurrence. Could fit sacred_exchange if reciprocity is central,
+    sacred_combat if war intelligence is central, or be too specific for pattern queries.
+  suggested_aliases:
+  - reward_for_important_news
+  - cattle_payment_for_news
+  - messenger_reward_in_cattle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-theft-punished-by-heroic-combat
+  motif_id: cattle_theft_punished_by_heroic_combat
+  label: cattle theft punished by heroic combat
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Cattle theft or raid leading to combat fits the existing cattle-raid
+    and ritual warfare complex.
+  cautions: If the passage emphasizes moral punishment more than cattle conflict,
+    divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - cattle_theft_avenged_by_combat
+  - cattle_raid_punished_by_heroic_combat
+  - heroic_combat_after_cattle_theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cautious-testing-before-alliance
+  motif_id: cautious_testing_before_alliance
+  label: cautious testing before alliance
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Testing before alliance concerns formation of a binding social or sacred
+    relationship under conditions of trust.
+  cautions: Could also fit sacred_law or betrayal_violated_trust depending on whether
+    the passage stresses diplomacy, moral testing, or prevention of treachery.
+  suggested_aliases:
+  - testing_before_alliance
+  - alliance_test
+  - cautious_alliance_formation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several catalogue labels appear to be epic-list or passage-structure artifacts;
+  exclude unless source evidence shows ritual, political, or sacred-combat function
+  beyond enumeration.
+- Single-occurrence combat details should generally be kept as evidence notes rather
+  than promoted to canonical taxonomy motifs.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for wave5c batch 2631; human review
+    recommended for single-occurrence and culturally contextual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2631
+  input_sha256: 72b55095a453a89d51c72c6ef79d7c0db662fb7709d3f73b43b20c48b52b2b33
+

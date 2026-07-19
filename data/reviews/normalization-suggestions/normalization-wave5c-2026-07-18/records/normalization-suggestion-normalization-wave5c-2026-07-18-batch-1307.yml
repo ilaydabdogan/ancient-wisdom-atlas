@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1307
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dreams-as-influences-on-conduct
+  motif_id: dreams_as_influences_on_conduct
+  label: dreams as influences on conduct
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Dreams affecting human conduct fit dreams or altered perception as guidance
+    for action.
+  cautions: Single occurrence; verify that the passage treats dreams as meaningful
+    signs rather than ordinary psychology or ethnographic commentary.
+  suggested_aliases:
+  - dream_guidance_for_action
+  - dreams_guiding_behavior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dreams-as-omens-of-future-events
+  motif_id: dreams_as_omens_of_future_events
+  label: Dreams as omens of future events
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: Predictive dreams are a core dream-and-vision function and overlap with
+    prophecy only through dream medium.
+  cautions: If the source describes a formal divination office or method rather than
+    spontaneous dreams, add prophecy_divination as secondary review context.
+  suggested_aliases:
+  - predictive_dream
+  - prophetic_dream
+  - dream_omen_of_future_events
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dreams-as-omens-or-predictions
+  motif_id: dreams_as_omens_or_predictions
+  label: Dreams as omens or predictions
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: alias
+  confidence: high
+  rationale: This is a close label variant of dreams as predictive or omen-bearing
+    experiences.
+  cautions: Consider prophecy_divination only if the passage emphasizes institutional
+    interpretation or a diviner role.
+  suggested_aliases:
+  - dreams_as_omens
+  - predictive_dreams
+  - prophetic_dreams
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dreams-as-omens-when-events-are-scarce
+  motif_id: dreams_as_omens_when_events_are_scarce
+  label: dreams as omens when events are scarce
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: over_specific_label
+  confidence: low
+  rationale: The dream-omen element fits dream_and_vision, but the scarcity condition
+    sounds contextual or interpretive.
+  cautions: May be an ethnographic or passage-specific observation rather than a reusable
+    motif; preserve local context if mapped.
+  suggested_aliases:
+  - dreams_as_omens
+  - dream_omens_in_absence_of_events
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dreams-influencing-pursuit-of-physical-desires
+  motif_id: dreams_influencing_pursuit_of_physical_desires
+  label: Dreams influencing pursuit of physical desires
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: low
+  rationale: Dreams shaping desire-driven behavior may fit dream_and_vision, but the
+    motif is highly contextual.
+  cautions: Could belong with sacred_love, ethics/discipline, or be ordinary conduct
+    commentary depending on source evidence.
+  suggested_aliases:
+  - dreams_influencing_desire
+  - dream_guidance_of_desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dreams-sustaining-witchcraft-belief
+  motif_id: dreams_sustaining_witchcraft_belief
+  label: dreams sustaining witchcraft belief
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: Dreams are central, but the label describes belief maintenance rather
+    than a clear narrative motif.
+  cautions: Culturally sensitive; review source framing to avoid turning ethnographic
+    interpretation or accusation discourse into a broad motif.
+  suggested_aliases:
+  - dreams_supporting_witchcraft_belief
+  - witchcraft_dream_evidence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dreams-treated-as-religiously-significant
+  motif_id: dreams_treated_as_religiously_significant
+  label: Dreams treated as religiously significant
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: broader_label
+  confidence: medium
+  rationale: Religiously significant dreams fall under the broad dream-and-vision
+    group.
+  cautions: Broad label; narrow only when the passage identifies prophecy, divine
+    message, initiation, healing, or ritual instruction.
+  suggested_aliases:
+  - sacred_dreams
+  - religiously_significant_dreams
+  - dreams_as_sacred_experience
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dreams-used-as-accusatory-evidence
+  motif_id: dreams_used_as_accusatory_evidence
+  label: dreams used as accusatory evidence
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: low
+  rationale: Dreams functioning as evidence derive authority from dream experience,
+    but the accusation function may involve law or judgment.
+  cautions: Culturally sensitive and possibly source-contextual; could map secondarily
+    to divine_judgment or sacred_law if accusation has formal social force.
+  suggested_aliases:
+  - dream_accusation
+  - dreams_as_evidence
+  - accusatory_dream_evidence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drum-accompanied-feast-songs
+  motif_id: drum_accompanied_feast_songs
+  label: Drum-accompanied feast songs
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: low
+  rationale: This is a song-and-drum ritual performance label, but no supernatural
+    sound function is explicit.
+  cautions: May be a ritual or ethnographic performance detail rather than a motif;
+    map to enchanting_music only if song/drum has sacred efficacy, compulsion, summoning,
+    healing, or transformative power.
+  suggested_aliases:
+  - drummed_feast_songs
+  - feast_songs_with_drum_accompaniment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drum-accompaniment-for-game-songs
+  motif_id: drum_accompaniment_for_game_songs
+  label: Drum accompaniment for game songs
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label concerns ritualized musical performance, but not clearly a
+    mythic sound-power motif.
+  cautions: Could be too specific for pattern queries unless game songs are treated
+    as sacred, efficacious, divinatory, or transformative in the source.
+  suggested_aliases:
+  - drummed_game_songs
+  - game_songs_with_drum_accompaniment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Dream labels mostly cluster under dream_and_vision; use prophecy_divination only
+  when formal interpretation, omen systems, or diviner roles are explicit.
+- Several Chaco-Amerindian dream labels involve conduct, witchcraft belief, or accusation;
+  these need culturally careful source review before broad indexing.
+- Drum-accompanied song labels should not be forced into enchanting_music unless the
+  passage gives the music sacred efficacy beyond performance description.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; source passages needed for culturally
+    sensitive dream-accusation and ritual-song cases.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1307
+  input_sha256: 58f1bdeb72619b387263106d8bf3e5b7960dd641c7beb0d56934cfb99b49a622
+

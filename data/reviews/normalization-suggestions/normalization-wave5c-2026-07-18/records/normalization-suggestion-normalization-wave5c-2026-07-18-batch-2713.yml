@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2713
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-shields-the-royal-pair-from-catastrophic-force
+  motif_id: hero_shields_the_royal_pair_from_catastrophic_force
+  label: hero shields the royal pair from catastrophic force
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: A heroic protective act against overwhelming force fits the divine-warrior/sacred-combat
+    protection field.
+  cautions: Single occurrence and royal-pair detail may be episode-specific; if emphasis
+    is preserving rulers or dynastic order, royal_legitimacy may be secondary.
+  suggested_aliases:
+  - heroic_shielding_from_catastrophe
+  - hero_protects_royal_pair_from_overwhelming_force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-slain-in-bed
+  motif_id: hero_slain_in_bed
+  label: hero slain in bed
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too sparse to tell whether this is heroic death, betrayal,
+    assassination, fate, or a contextual episode detail.
+  cautions: May map to divine_warrior, betrayal_violated_trust, death_by_fate, or
+    lament_and_mourning depending on source evidence; avoid normalizing from death
+    setting alone.
+  suggested_aliases:
+  - hero_killed_in_bed
+  - slaying_of_hero_in_bed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-spares-defeated-challenger
+  motif_id: hero_spares_defeated_challenger
+  label: hero spares defeated challenger
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mercy toward a defeated foe is already represented under covenant as
+    mercy and supplication variants.
+  cautions: If the episode is primarily combat honor rather than mercy ethics, sacred_combat
+    or divine_warrior may be a secondary review placement.
+  suggested_aliases:
+  - mercy_to_defeated_challenger
+  - heroic_mercy_to_defeated_opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-subdues-enchanted-adversary-with-a-bridle
+  motif_id: hero_subdues_enchanted_adversary_with_a_bridle
+  label: hero subdues enchanted adversary with a bridle
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The bridle functions as a power object used to control or subdue an enchanted
+    being.
+  cautions: If the adversary is transformed or animal-like, shapeshifter may be relevant;
+    if the focus is combat victory rather than object power, sacred_combat may be
+    secondary.
+  suggested_aliases:
+  - magic_bridle_subdues_adversary
+  - enchanted_adversary_controlled_by_bridle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-surpasses-companions-in-the-hunt
+  motif_id: hero_surpasses_companions_in_the_hunt
+  label: hero surpasses companions in the hunt
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Exceptional hunting skill may signal heroic status, initiation, rivalry,
+    or a passage-specific feat, but the label lacks narrative function.
+  cautions: Do not map to combat simply because hunting is martial; review whether
+    the hunt marks initiation, royal legitimacy, divine favor, or ordinary characterization.
+  suggested_aliases:
+  - hero_excels_in_the_hunt
+  - hero_outdoes_companions_while_hunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-swallowed-by-monster-and-escapes-by-cutting-from-within
+  motif_id: hero_swallowed_by_monster_and_escapes_by_cutting_from_within
+  label: Hero swallowed by monster and escapes by cutting from within
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Belly of the Monster and Escape from Within
+  relationship: child
+  confidence: medium
+  rationale: Swallowing by a monster followed by escape from inside is a recurring
+    ordeal pattern not cleanly held by existing descent or combat groups.
+  cautions: Could be indexed under initiation, descent, or sacred_combat depending
+    on passage function; culturally specific monster and cutting details should remain
+    as evidence.
+  suggested_aliases:
+  - belly_of_the_monster_escape
+  - hero_escapes_from_monster_belly
+  - cutting_out_from_inside_monster
+  suggested_new_group:
+    id: belly_of_the_monster_escape
+    label: Belly of the Monster and Escape from Within
+    description: A hero or traveler is swallowed, enclosed, or trapped inside a monster
+      or dangerous being and survives, escapes, or defeats the being from within,
+      often as an ordeal, rebirth-like passage, or combat reversal.
+    parent_group_ids:
+    - initiation
+    - descent
+    - sacred_combat
+    related_group_ids:
+    - death_and_transformation
+    - threshold_guardian
+    reason_existing_groups_insufficient: Existing groups cover descent, ordeal, and
+      combat broadly, but do not preserve the distinctive narrative structure of enclosure
+      inside a devouring being and escape or victory from within.
+- suggestion_id: normalization.suggestion.hero-swallowed-by-monster-and-escaping
+  motif_id: hero_swallowed_by_monster_and_escaping
+  label: hero swallowed by monster and escaping
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Belly of the Monster and Escape from Within
+  relationship: child
+  confidence: medium
+  rationale: This is the same swallowed-by-monster escape pattern as the proposed
+    belly-of-the-monster group.
+  cautions: Review whether the episode functions as initiation, underworld-like enclosure,
+    trickster escape, or monster combat before final indexing.
+  suggested_aliases:
+  - belly_of_the_monster_escape
+  - swallowed_by_monster_and_escapes
+  - hero_escapes_monster_belly
+  suggested_new_group:
+    id: belly_of_the_monster_escape
+    label: Belly of the Monster and Escape from Within
+    description: A hero or traveler is swallowed, enclosed, or trapped inside a monster
+      or dangerous being and survives, escapes, or defeats the being from within,
+      often as an ordeal, rebirth-like passage, or combat reversal.
+    parent_group_ids:
+    - initiation
+    - descent
+    - sacred_combat
+    related_group_ids:
+    - death_and_transformation
+    - threshold_guardian
+    reason_existing_groups_insufficient: Existing groups cover descent, ordeal, and
+      combat broadly, but do not preserve the distinctive narrative structure of enclosure
+      inside a devouring being and escape or victory from within.
+- suggestion_id: normalization.suggestion.hero-swallowed-or-trapped-inside-a-dangerous-being
+  motif_id: hero_swallowed_or_trapped_inside_a_dangerous_being
+  label: hero swallowed or trapped inside a dangerous being
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Belly of the Monster and Escape from Within
+  relationship: child
+  confidence: medium
+  rationale: The label broadens the same monster-enclosure ordeal, preserving an important
+    structural pattern beyond generic combat.
+  cautions: If no escape, transformation, or victory occurs, placement may need narrower
+    human review under descent, initiation, or death_and_transformation.
+  suggested_aliases:
+  - belly_of_the_monster
+  - trapped_inside_dangerous_being
+  - hero_enclosed_inside_monster
+  suggested_new_group:
+    id: belly_of_the_monster_escape
+    label: Belly of the Monster and Escape from Within
+    description: A hero or traveler is swallowed, enclosed, or trapped inside a monster
+      or dangerous being and survives, escapes, or defeats the being from within,
+      often as an ordeal, rebirth-like passage, or combat reversal.
+    parent_group_ids:
+    - initiation
+    - descent
+    - sacred_combat
+    related_group_ids:
+    - death_and_transformation
+    - threshold_guardian
+    reason_existing_groups_insufficient: Existing groups cover descent, ordeal, and
+      combat broadly, but do not preserve the distinctive narrative structure of enclosure
+      inside a devouring being and escape or victory from within.
+- suggestion_id: normalization.suggestion.hero-tale-catalog-grouping
+  motif_id: hero_tale_catalog_grouping
+  label: Hero-tale catalog grouping
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a cataloging or classification grouping, not a narrative
+    motif.
+  cautions: Preserve only as provenance or indexing metadata; do not use as evidence
+    for a hero-journey pattern.
+  suggested_aliases:
+  - hero_tale_catalog_category
+  - hero_tale_classification_grouping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-tested-through-refusal-or-nonparticipation-in-erotic-hospitality
+  motif_id: hero_tested_through_refusal_or_nonparticipation_in_erotic_hospitality
+  label: hero tested through refusal or nonparticipation in erotic hospitality
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero is tested by restraint or refusal, making the episode an ordeal
+    of discipline and status rather than primarily combat.
+  cautions: Erotic hospitality may also implicate sacred_love, sacred_exchange, or
+    hospitality_test_stranger_guest; source context should decide secondary mappings.
+  suggested_aliases:
+  - heroic_chastity_test
+  - refusal_of_erotic_hospitality_as_test
+  - erotic_hospitality_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- The three swallowed/trapped-inside-monster labels appear to justify one provisional
+  new group candidate because existing broad groups lose the distinctive enclosure-and-escape
+  structure.
+- Several single-occurrence heroic labels are episode-specific; suggested placements
+  should remain provisional until source passages confirm narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2713
+  input_sha256: 749cd29c04774b3b8b9cf0245a2a682e6fdbc30890ff0911bfa65b0915453fe5
+

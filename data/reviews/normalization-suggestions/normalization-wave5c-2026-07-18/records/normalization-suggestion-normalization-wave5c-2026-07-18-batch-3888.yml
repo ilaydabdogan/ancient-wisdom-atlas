@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3888
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.repeated-mishap-isolates-the-protagonist
+  motif_id: repeated_mishap_isolates_the_protagonist
+  label: Repeated mishap isolates the protagonist
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate an ordeal, trickster mishap sequence, or passage-specific
+    plot mechanics; function is unclear without source evidence.
+  cautions: Single occurrence and generic generated wording; do not map to initiation
+    or hero journey unless isolation transforms the protagonist or initiates a quest.
+  suggested_aliases:
+  - mishaps_isolate_protagonist
+  - accidental_isolation_of_protagonist
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-nocturnal-cattle-theft-attempt-fails
+  motif_id: repeated_nocturnal_cattle_theft_attempt_fails
+  label: Repeated nocturnal cattle theft attempt fails
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Cattle theft or raiding fits the cattle-raid and conflict complex already
+    grouped under sacred_combat.
+  cautions: Nocturnal repetition and failure may be episode-specific; if the passage
+    emphasizes deception rather than raid/conflict, trickster may be a secondary review
+    option.
+  suggested_aliases:
+  - failed_night_cattle_theft
+  - repeated_failed_cattle_theft_attempt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-numerical-slaughter-counts
+  motif_id: repeated_numerical_slaughter_counts
+  label: Repeated numerical slaughter counts
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes a counting or cataloguing pattern in narration
+    rather than a symbolic motif.
+  cautions: If the counts function as ritualized heroic proof or battle escalation,
+    preserve as evidence under divine_warrior or sacred_combat, but avoid promoting
+    the numerical phrasing itself.
+  suggested_aliases:
+  - slaughter_count_repetition
+  - repeated_kill_counts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-one-eyed-calender-storyteller-pattern
+  motif_id: repeated_one_eyed_calender_storyteller_pattern
+  label: Repeated one-eyed calender storyteller pattern
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: role_variant
+  confidence: medium
+  rationale: A repeated storyteller figure or frame pattern fits narrative transmission
+    and embedded storytelling more than a cosmological motif.
+  cautions: The one-eyed calender detail may be a character-type marker from a specific
+    tale cycle; if it only identifies a narrative episode, treat as evidence detail
+    rather than broad motif.
+  suggested_aliases:
+  - one_eyed_calender_storyteller
+  - repeated_storyteller_frame_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-patronal-offers-declined-by-the-primary-host
+  motif_id: repeated_patronal_offers_declined_by_the_primary_host
+  label: repeated patronal offers declined by the primary host
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Offers, patronage, and refusal concern exchange obligations and renunciation
+    within a sacred or ethical relationship.
+  cautions: Could also reflect Buddhist renunciation or humility; source context should
+    decide whether mystical_quest or sacred_law is a secondary mapping.
+  suggested_aliases:
+  - declined_patronal_offers
+  - refusal_of_patronage_offers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-petition-before-authoritative-response
+  motif_id: repeated_petition_before_authoritative_response
+  label: Repeated petition before authoritative response
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Petition before a response could be legal, devotional, pedagogical, or
+    narrative pacing; no clear motif function is visible from the label alone.
+  cautions: If the authority is divine or sacred, covenant or sacred_exchange may
+    fit; if monastic or royal, it may be social-order detail rather than motif.
+  suggested_aliases:
+  - repeated_petition_before_response
+  - iterated_request_to_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-public-proclamation-of-a-killing
+  motif_id: repeated_public_proclamation_of_a_killing
+  label: repeated public proclamation of a killing
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Public announcement of killing may mark combat honor, accusation, justice,
+    or narrative repetition; the function is ambiguous.
+  cautions: Could map to divine_warrior, sacred_combat, divine_judgment, or lament
+    depending on whether the proclamation claims victory, triggers vengeance, or establishes
+    guilt.
+  suggested_aliases:
+  - public_proclamation_of_killing
+  - announced_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-race-challenge-with-wagered-goods
+  motif_id: repeated_race_challenge_with_wagered_goods
+  label: Repeated race challenge with wagered goods
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Contest, Challenge, and Wager
+  relationship: functional_variant
+  confidence: medium
+  rationale: A race challenge with stakes is a contest motif not well captured by
+    combat, sacred exchange, or ordeal alone.
+  cautions: Review whether the race is ritual, trickster contest, courtship test,
+    or ordinary competition before adding a new group.
+  suggested_aliases:
+  - race_challenge_with_wager
+  - wagered_race_contest
+  - repeated_contest_with_stakes
+  suggested_new_group:
+    id: contest_challenge_wager
+    label: Contest, Challenge, and Wager
+    description: Competitive trials, races, games, riddles, or challenges with stakes
+      that determine status, goods, marriage, authority, survival, or sacred favor
+      without necessarily being warfare.
+    parent_group_ids:
+    - initiation
+    - sacred_exchange
+    related_group_ids:
+    - sacred_combat
+    - trickster
+    - sacred_love
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover combat, exchange, and
+      ordeals, but not non-combat contests and wagers as a recurring narrative structure.
+- suggestion_id: normalization.suggestion.repeated-renditions-with-variation-or-accuracy
+  motif_id: repeated_renditions_with_variation_or_accuracy
+  label: repeated renditions with variation or accuracy
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes performance, rendition, or transmission variation
+    rather than a narrative-symbolic motif.
+  cautions: If the source passage itself makes accurate repetition a magical or ritual
+    act, reconsider under storytelling_as_power; otherwise exclude from motif queries.
+  suggested_aliases:
+  - rendition_variation_accuracy
+  - repeated_performance_variants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-rhythmic-unit-followed-by-contrasting-final-rhythm
+  motif_id: repeated_rhythmic_unit_followed_by_contrasting_final_rhythm
+  label: repeated rhythmic unit followed by contrasting final rhythm
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a formal musical or textual-structural observation, not a mythic
+    motif for pattern queries.
+  cautions: If the rhythmic pattern has explicit ritual power in the source, review
+    under enchanting_music; otherwise preserve only as performance/form metadata.
+  suggested_aliases:
+  - contrasting_final_rhythm_pattern
+  - repeated_rhythmic_unit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and begin with 'repeated', suggesting generated
+  observations about narrative or performance form; human review should distinguish
+  motif recurrence from passage-level repetition.
+- Where a placement is suggested, it is a broad review grouping only and should not
+  be treated as evidence of cultural transmission.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional automated normalization suggestions for wave5c batch 3888.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3888
+  input_sha256: eec9f90dcd02039443e2b76c307e3e879d0154a688071efc128abb15fe41ac99
+

@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4029
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.three-wishes-squandered-and-reversed
+  motif_id: three_wishes_squandered_and_reversed
+  label: three wishes squandered and reversed
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Wish Granting and Foolish Choice
+  relationship: functional_variant
+  confidence: medium
+  rationale: A squandered wish sequence is a recurring folktale structure not well
+    held by existing sacred exchange, trickster, or divine intervention groups.
+  cautions: Single occurrence here; verify whether the wishes are supernatural boons,
+    magical bargains, or comic passage detail before adding a group.
+  suggested_aliases:
+  - wasted_wishes
+  - foolish_wishing
+  - three_wishes_reversed
+  suggested_new_group:
+    id: wish_granting_foolish_choice
+    label: Wish Granting and Foolish Choice
+    description: Supernatural wishes, boons, or magical grants are misused, wasted,
+      reversed, or produce unintended consequences through foolish desire or poor
+      judgment.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    related_group_ids:
+    - trickster
+    - pride_and_downfall
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing groups cover exchange, intervention,
+      and moral downfall, but not the specific recurrent folktale structure of granted
+      wishes squandered or backfiring.
+- suggestion_id: normalization.suggestion.three-wishes-wasted-through-foolish-wishing
+  motif_id: three_wishes_wasted_through_foolish_wishing
+  label: three wishes wasted through foolish wishing
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Wish Granting and Foolish Choice
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is essentially the wasted-wishes variant of a supernatural boon
+    misused through foolish choice.
+  cautions: Should be reviewed together with other wish-granting labels; avoid promoting
+    if only a localized tale title artifact.
+  suggested_aliases:
+  - wasted_wishes
+  - foolish_wishing
+  - three_wishes_squandered
+  suggested_new_group:
+    id: wish_granting_foolish_choice
+    label: Wish Granting and Foolish Choice
+    description: Supernatural wishes, boons, or magical grants are misused, wasted,
+      reversed, or produce unintended consequences through foolish desire or poor
+      judgment.
+    parent_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    related_group_ids:
+    - trickster
+    - pride_and_downfall
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Existing groups cover exchange, intervention,
+      and moral downfall, but not the specific recurrent folktale structure of granted
+      wishes squandered or backfiring.
+- suggestion_id: normalization.suggestion.three-year-and-three-day-abundance-pattern
+  motif_id: three_year_and_three_day_abundance_pattern
+  label: three-year-and-three-day abundance pattern
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a duration formula with abundance, but the narrative
+    or ritual function is unclear.
+  cautions: May be numerological patterning, miraculous provision, sacred time, or
+    an over-specific tale detail; source evidence is needed.
+  suggested_aliases:
+  - three_year_three_day_abundance
+  - abundance_for_three_years_and_three_days
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-year-mourning-obligation
+  motif_id: three_year_mourning_obligation
+  label: Three-year mourning obligation
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed mourning duration is a ritual and ethical obligation regulating
+    social order and filial conduct.
+  cautions: Could also be indexed secondarily under lament_and_mourning if the passage
+    emphasizes grief expression rather than normative duty.
+  suggested_aliases:
+  - three_year_mourning
+  - mourning_obligation
+  - filial_mourning_obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-acquisition-from-the-forest
+  motif_id: threefold_acquisition_from_the_forest
+  label: threefold acquisition from the forest
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Acquiring three items from the forest could be quest reward, magical
+    aid, sacred treasure, or tale-structure repetition.
+  cautions: The label is too formal and context-dependent to place without knowing
+    what is acquired and how it functions.
+  suggested_aliases:
+  - three_forest_acquisitions
+  - threefold_forest_gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-allotment-of-cosmic-realms
+  motif_id: threefold_allotment_of_cosmic_realms
+  label: threefold allotment of cosmic realms
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: The distribution of cosmic realms among powers explains the ordered structure
+    of the cosmos.
+  cautions: If the passage centers on rulership rather than creation-ordering, royal_legitimacy
+    or supreme_ruler may be useful secondary mappings.
+  suggested_aliases:
+  - division_of_cosmic_realms
+  - allotment_of_world_realms
+  - threefold_cosmic_division
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-announcement-approaching-the-audience
+  motif_id: threefold_announcement_approaching_the_audience
+  label: threefold announcement approaching the audience
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a repeated performance or narrative staging
+    formula rather than a symbolic motif.
+  cautions: If the three announcements are ritually efficacious speech acts, reconsider
+    under curse_blessing_speech or storytelling_as_power.
+  suggested_aliases:
+  - threefold_announcement_formula
+  - triple_approach_announcement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-appeal-met-by-silence
+  motif_id: threefold_appeal_met_by_silence
+  label: threefold appeal met by silence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A repeated appeal and silence could be teaching strategy, rejected supplication,
+    ritual refusal, or narrative formula.
+  cautions: Needs source context to distinguish sacred speech, covenantal supplication,
+    wisdom teaching, or textual repetition.
+  suggested_aliases:
+  - triple_appeal_met_by_silence
+  - threefold_silent_response
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-appointed-visits-with-color-sequence
+  motif_id: threefold_appointed_visits_with_color_sequence
+  label: Threefold appointed visits with color sequence
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label foregrounds a formal sequence of visits and colors, but its
+    motif function is not clear.
+  cautions: May belong to initiation, otherworld encounter, dream/vision, or tale-structure
+    artifact depending on passage evidence.
+  suggested_aliases:
+  - three_appointed_visits
+  - triple_visit_color_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-atonement-by-money-instrument-and-cleansing
+  motif_id: threefold_atonement_by_money_instrument_and_cleansing
+  label: threefold atonement by money, instrument, and cleansing
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Atonement through payment, ritual instrument, and cleansing fits the
+    sacrifice/atonement and purification complex.
+  cautions: Could also map secondarily to sacred_law if the emphasis is legal prescription
+    rather than ritual repair.
+  suggested_aliases:
+  - threefold_atonement
+  - atonement_by_payment_and_cleansing
+  - ritual_cleansing_atonement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use threefold sequencing; do not create a general 'threefold pattern'
+  motif without evidence that the number itself is the symbolic function rather than
+  a tale formula.
+- Wish-granting labels recur across traditions in this batch but are not cleanly represented
+  by current groups; review as a possible folktale-oriented group rather than direct
+  taxonomy rewrite.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review needed for context-dependent
+    threefold sequence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4029
+  input_sha256: d197dc4f60b4631c52a5bf89debd02b071a5712369bfbb61b8e7bc241eebe074
+

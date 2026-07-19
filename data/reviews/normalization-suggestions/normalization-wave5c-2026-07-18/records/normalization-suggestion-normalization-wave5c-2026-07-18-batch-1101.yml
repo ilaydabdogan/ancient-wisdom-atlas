@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1101
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritualized-deer-killing-through-blood-footprints-rings-and-material-arrows
+  motif_id: ritualized_deer_killing_through_blood_footprints_rings_and_material_arrows
+  label: ritualized deer killing through blood footprints, rings, and material arrows
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritualized animal killing plausibly belongs with sacrifice or hunting
+    rite patterns, but the label is highly specific and culturally contextual.
+  cautions: Single occurrence; blood footprints, rings, and material arrows may be
+    local ritual details that should be preserved as evidence rather than normalized
+    broadly without source review.
+  suggested_aliases:
+  - ritualized_deer_killing
+  - ritual_hunting_kill
+  - ritual_animal_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-deference-and-avoidance-around-a-high-ranking-person
+  motif_id: ritualized_deference_and_avoidance_around_a_high_ranking_person
+  label: Ritualized deference and avoidance around a high-ranking person
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Status-based ritual avoidance fits sacred social order, taboo, and regulated
+    comportment more than sacrifice.
+  cautions: May involve culturally specific rank, taboo, mana, or chieftainship concepts;
+    review whether royal_legitimacy is also relevant.
+  suggested_aliases:
+  - ritual_deference_to_high_rank
+  - status_avoidance_taboo
+  - ritualized_rank_avoidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-delayed-greeting-after-performance
+  motif_id: ritualized_delayed_greeting_after_performance
+  label: ritualized delayed greeting after performance
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe a narrow etiquette detail after a performance
+    rather than a durable mythic motif.
+  cautions: If source evidence shows the greeting delay enacts sacred time, initiation,
+    mourning, or taboo, remap under sacred_law after review.
+  suggested_aliases:
+  - delayed_greeting_after_performance
+  - ritual_greeting_delay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-display-of-enemy-trophies
+  motif_id: ritualized_display_of_enemy_trophies
+  label: ritualized display of enemy trophies
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Enemy trophy display is already near body_part_trophies_as_proof_of_combat
+    within the divine warrior combat complex.
+  cautions: Could belong under sacred_combat if the rite centers warfare rather than
+    heroic proof; culturally sensitive treatment of trophy practices is required.
+  suggested_aliases:
+  - enemy_trophy_display
+  - ritual_display_of_war_trophies
+  - body_part_trophies_as_proof_of_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-display-of-fearlessness-through-bright-feathers
+  motif_id: ritualized_display_of_fearlessness_through_bright_feathers
+  label: ritualized display of fearlessness through bright feathers
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The action displays warrior fearlessness and martial identity, fitting
+    heroic warrior honor more than general ritual purity.
+  cautions: Feather symbolism may be locally specific; preserve the bright-feather
+    detail and review whether sacred_treasures or sacred_law is secondary.
+  suggested_aliases:
+  - warrior_fearlessness_display
+  - ritual_display_of_martial_courage
+  - bright_feathers_as_fearlessness_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-embodied-comportment-by-setting-and-status
+  motif_id: ritualized_embodied_comportment_by_setting_and_status
+  label: Ritualized embodied comportment by setting and status
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Confucian ritual comportment by status and setting is a clear social-order
+    and sacred-law pattern.
+  cautions: May be ethical-political ritual rather than divine ritual; avoid forcing
+    sacrifice or purity language if the passage is about li/propriety.
+  suggested_aliases:
+  - ritual_comportment_by_status
+  - embodied_ritual_propriety
+  - status_based_ritual_conduct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-emergence-before-combat
+  motif_id: ritualized_emergence_before_combat
+  label: ritualized emergence before combat
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: low
+  rationale: A formal emergence before battle may belong with ritualized combat, but
+    the label lacks enough function or context.
+  cautions: Could indicate initiation, transformation, spirit performance, or theatrical
+    staging rather than combat motif; source review needed.
+  suggested_aliases:
+  - ritual_emergence_before_battle
+  - pre_combat_emergence_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-enemy-camp-reenactment
+  motif_id: ritualized_enemy_camp_reenactment
+  label: Ritualized enemy-camp reenactment
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: low
+  rationale: A reenacted enemy camp suggests ritualized warfare or mimetic battle
+    performance.
+  cautions: May be ceremonial drama, historical reenactment, initiation, or ethnographic
+    detail; single occurrence and culturally contextual.
+  suggested_aliases:
+  - enemy_camp_reenactment
+  - ritual_warfare_reenactment
+  - mimetic_enemy_camp_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-enemy-flight-and-fearlessness
+  motif_id: ritualized_enemy_flight_and_fearlessness
+  label: Ritualized enemy flight and fearlessness
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif combines enemy rout and displayed fearlessness, fitting martial
+    courage and warrior victory patterns.
+  cautions: If this is a ritual performance rather than narrative combat, sacred_combat
+    may be a better broad group; preserve local performance details.
+  suggested_aliases:
+  - ritualized_enemy_rout
+  - enemy_flight_and_warrior_fearlessness
+  - ritual_display_of_fearlessness_in_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-entry-into-a-hidden-nonhuman-dwelling
+  motif_id: ritualized_entry_into_a_hidden_nonhuman_dwelling
+  label: ritualized entry into a hidden nonhuman dwelling
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Entering a hidden dwelling of nonhuman beings fits encounter with an
+    adjacent otherworld or enchanted realm.
+  cautions: Could instead be descent, initiation, or shamanic ritual depending on
+    whether the dwelling is underworld, spirit house, animal-person realm, or performance
+    space.
+  suggested_aliases:
+  - entry_into_hidden_nonhuman_dwelling
+  - hidden_spirit_dwelling_entry
+  - ritual_entry_into_nonhuman_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual-performance or ethnographic-comportment
+  details; preserve local evidence and avoid promoting to taxonomy motifs without
+  recurrence.
+- For Indigenous and region-specific ritual labels, human review should verify source
+  wording and avoid flattening local ceremonial meaning into generic sacrifice or
+  combat categories.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft suggestions only; ritual and culturally specific items require source-level
+    verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1101
+  input_sha256: ad244c0ed65355fc0a47c12845dbae2e89de835d486ae199605d679641a805d2
+

@@ -1,0 +1,321 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0623
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.speaking-animal-companion-on-bridal-journey
+  motif_id: speaking_animal_companion_on_bridal_journey
+  label: Speaking animal companion on bridal journey
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: animal_helpers
+  suggested_group_label: Animal Helpers
+  relationship: functional_variant
+  confidence: medium
+  rationale: A speaking animal accompanying a bride on a journey likely functions
+    as an animal helper or companion, but the bridal context may shift emphasis toward
+    sacred love or recognition.
+  cautions: Single occurrence and context-specific; verify whether the animal actively
+    helps, warns, tests, or is only a narrative companion.
+  suggested_aliases:
+  - speaking animal companion
+  - animal companion on bridal journey
+  - bridal journey animal helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-animal-encountered-during-a-journey
+  motif_id: speaking_animal_encountered_during_a_journey
+  label: speaking animal encountered during a journey
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: animal_helpers
+  suggested_group_label: Animal Helpers
+  relationship: narrower_than
+  confidence: medium
+  rationale: A speaking animal met on a journey commonly functions as an animal guide,
+    helper, warning figure, or quest encounter.
+  cautions: If the animal blocks passage or poses a test, threshold_guardian may be
+    a better secondary placement; if it only speaks without helping, keep as evidence
+    detail.
+  suggested_aliases:
+  - speaking animal journey encounter
+  - talking animal encountered on journey
+  - journey speaking animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-animal-helper-enables-impossible-quest
+  motif_id: speaking_animal_helper_enables_impossible_quest
+  label: Speaking animal helper enables impossible quest
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: animal_helpers
+  suggested_group_label: Animal Helpers
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly describes an animal helper enabling a quest, matching
+    the animal_helpers child under divine_intervention.
+  cautions: May also support hero_journey if the impossible quest structure is central;
+    avoid treating speech alone as sacred knowledge without evidence.
+  suggested_aliases:
+  - speaking animal helper
+  - animal helper enables impossible quest
+  - talking animal quest helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-animal-household-encountered-during-quest
+  motif_id: speaking_animal_household_encountered_during_quest
+  label: Speaking animal household encountered during quest
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to a household of speaking animals as a quest encounter,
+    but its function is unclear from wording alone.
+  cautions: Could fit animal_helpers, otherworld, hospitality_test_stranger_guest,
+    or a passage-specific fairy-tale scene; review source evidence before mapping.
+  suggested_aliases:
+  - speaking animal household
+  - talking animal household on quest
+  - quest encounter with speaking animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-animal-plant-and-household-objects-as-roadside-petitioners
+  motif_id: speaking_animal_plant_and_household_objects_as_roadside_petitioners
+  label: speaking animal, plant, and household objects as roadside petitioners
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animated Petitioners and Speaking Roadside Helpers
+  relationship: functional_variant
+  confidence: medium
+  rationale: This pattern combines animated animals, plants, and objects that petition
+    the traveler, not just animal helpers or power objects.
+  cautions: Single occurrence; may be a fairy-tale helper/test episode rather than
+    a durable canonical group. Review for recurrence before adding.
+  suggested_aliases:
+  - roadside petitioners
+  - speaking roadside helpers
+  - animated petitioners on journey
+  - speaking animals plants and objects
+  suggested_new_group:
+    id: animated_petitioners_speaking_helpers
+    label: Animated Petitioners and Speaking Helpers
+    description: Animals, plants, objects, or household items speak, petition, warn,
+      request aid, or offer aid during a journey or quest, often testing the traveler’s
+      responsiveness and enabling later success.
+    parent_group_ids:
+    - hero_journey
+    - divine_intervention
+    related_group_ids:
+    - animal_helpers
+    - sacred_craft
+    - sacred_treasures
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: Existing animal_helpers covers speaking animals
+      but not the broader recurring fairy-tale pattern of animated plants and objects
+      acting as petitioners or helpers.
+- suggestion_id: normalization.suggestion.speaking-clay-vessels-question-makers-and-handlers
+  motif_id: speaking_clay_vessels_question_makers_and_handlers
+  label: Speaking clay vessels question makers and handlers
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: low
+  rationale: In Sufi and poetic contexts, speaking vessels may be symbolic objects
+    reflecting mortality, making, use, or divine mystery rather than journey structure.
+  cautions: Could belong to sacred_craft, sacred_substance, mystical_quest, storytelling_as_power,
+    or be a poetic passage artifact; source context is required.
+  suggested_aliases:
+  - speaking clay vessels
+  - talking vessels question makers
+  - vessels speak to makers and handlers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-horses-issue-roadside-challenge
+  motif_id: speaking_horses_issue_roadside_challenge
+  label: speaking horses issue roadside challenge
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A roadside challenge by speaking horses functions as a liminal test or
+    obstacle during travel.
+  cautions: If the horses aid the traveler rather than block or test passage, animal_helpers
+    may be the better placement.
+  suggested_aliases:
+  - speaking horse roadside challenge
+  - talking horses challenge traveler
+  - roadside challenge by speaking horses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-object-or-creature-encountered-on-a-journey
+  motif_id: speaking_object_or_creature_encountered_on_a_journey
+  label: speaking object or creature encountered on a journey
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad and only indicates an encounter with a speaking nonhuman
+    or object during travel.
+  cautions: Could fit animal_helpers, sacred_treasures, sacred_craft, threshold_guardian,
+    otherworld, or a new animated speaking-helper group depending on function.
+  suggested_aliases:
+  - speaking object or creature on journey
+  - talking object or creature encounter
+  - journey encounter with speaking being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speaking-plant-or-fruit-requests-plucking
+  motif_id: speaking_plant_or_fruit_requests_plucking
+  label: Speaking plant or fruit requests plucking
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animated Petitioners and Speaking Helpers
+  relationship: functional_variant
+  confidence: medium
+  rationale: A plant or fruit that speaks and requests action fits a broader animated-petitioner/helper
+    pattern not covered by animal_helpers alone.
+  cautions: If the plant is cosmological, sacred-tree, food, or healing substance
+    evidence, axis_mundi or sacred_substance may be better secondary mappings.
+  suggested_aliases:
+  - speaking plant requests plucking
+  - speaking fruit requests plucking
+  - talking plant petitioner
+  - animated plant petitioner
+  suggested_new_group:
+    id: animated_petitioners_speaking_helpers
+    label: Animated Petitioners and Speaking Helpers
+    description: Animals, plants, objects, or household items speak, petition, warn,
+      request aid, or offer aid during a journey or quest, often testing the traveler’s
+      responsiveness and enabling later success.
+    parent_group_ids:
+    - hero_journey
+    - divine_intervention
+    related_group_ids:
+    - animal_helpers
+    - sacred_substance
+    - axis_mundi
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups cover animal helpers, sacred
+      trees, substances, and treasures, but not the shared function of animated nonhuman
+      petitioners encountered on a quest.
+- suggestion_id: normalization.suggestion.speaking-tree-equips-the-traveler
+  motif_id: speaking_tree_equips_the_traveler
+  label: Speaking tree equips the traveler
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A speaking tree that equips a traveler is a sacred tree acting as helper
+    or source of power for a journey.
+  cautions: If the tree is not cosmological or sacred-center imagery, animal/animated
+    helper or sacred_treasures may be better; preserve equipment detail as evidence.
+  suggested_aliases:
+  - speaking tree helper
+  - tree equips traveler
+  - sacred tree equips traveler
+  - talking tree gives equipment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to a possible recurring fairy-tale pattern of animated nonhuman
+  petitioners or speaking helpers encountered on journeys. Consider adding only if
+  recurrence across sources is confirmed.
+- 'Do not treat all speaking animals, plants, or objects as sacred knowledge; placement
+  should follow narrative function: helper, threshold challenge, sacred object, poetic
+  symbol, or passage artifact.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional machine suggestions for journey-associated speaking animal/object/plant
+    motifs; multiple single-occurrence labels require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0623
+  input_sha256: f32e90c8d5f67fb9e392585499defc717d0d1eb034b5d2358b64fb62f2908261
+

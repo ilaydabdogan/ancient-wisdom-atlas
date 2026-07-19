@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4018
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.temporary-cessation-of-ordinary-institutions
+  motif_id: temporary_cessation_of_ordinary_institutions
+  label: Temporary cessation of ordinary institutions
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could mark ritual liminality, mourning, emergency suspension, festival
+    inversion, or civic disorder; label lacks function.
+  cautions: Single occurrence and institution-focused wording may be contextual or
+    historical rather than mythic.
+  suggested_aliases:
+  - suspension_of_ordinary_order
+  - temporary_suspension_of_social_institutions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-despoiling-followed-by-restoration
+  motif_id: temporary_despoiling_followed_by_restoration
+  label: temporary despoiling followed by restoration
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Loss followed by restoration may fit ordeal, sacred combat, judgment,
+    or restitution, but the object and function are unclear.
+  cautions: May be an episode-specific plot detail; avoid mapping to death/rebirth
+    unless transformation or renewal is explicit.
+  suggested_aliases:
+  - temporary_robbery_followed_by_restoration
+  - temporary_loss_and_restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - hero_journey
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-fosterage-to-relieve-feeding-burden
+  motif_id: temporary_fosterage_to_relieve_feeding_burden
+  label: Temporary fosterage to relieve feeding burden
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Reads as a practical kinship or subsistence detail rather than a symbolic
+    motif.
+  cautions: If fosterage becomes a destiny-protecting or identity-shaping episode,
+    review under miraculous_child or hero_journey.
+  suggested_aliases:
+  - temporary_child_fosterage_for_food_support
+  - fosterage_due_to_feeding_burden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-incorporation-through-dress-adornment-and-naming
+  motif_id: temporary_incorporation_through_dress_adornment_and_naming
+  label: temporary incorporation through dress, adornment, and naming
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Dress, adornment, and naming mark ritual incorporation and altered social
+    status, fitting initiation logic.
+  cautions: Temporary status may instead be hospitality, adoption, or local ritual
+    role; verify passage evidence.
+  suggested_aliases:
+  - ritual_incorporation_by_dress_and_naming
+  - temporary_status_incorporation_by_adornment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-inundation-of-settlements
+  motif_id: temporary_inundation_of_settlements
+  label: temporary inundation of settlements
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Inundation may be flood catastrophe, seasonal flooding, local landscape
+    event, or episode detail.
+  cautions: Do not map to flood_and_renewal unless destruction of an old order and
+    renewal are present.
+  suggested_aliases:
+  - temporary_flooding_of_settlements
+  - settlements_temporarily_inundated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - flood_and_renewal
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-leaf-shelter-for-a-halt-or-short-visit
+  motif_id: temporary_leaf_shelter_for_a_halt_or_short_visit
+  label: Temporary leaf shelter for a halt or short visit
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: Likely a practical travel or ethnographic detail, not a recurring mythic
+    motif.
+  cautions: If the shelter functions as a sacred refuge, threshold, or ritual enclosure,
+    remap with source evidence.
+  suggested_aliases:
+  - temporary_leaf_shelter
+  - short_visit_leaf_shelter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_vessel
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-palm-leaf-shelter-for-mobile-camping
+  motif_id: temporary_palm_leaf_shelter_for_mobile_camping
+  label: temporary palm-leaf shelter for mobile camping
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: Mobile camping shelter is an over-specific material-culture detail without
+    clear symbolic function.
+  cautions: Could be preserved as evidence context, but should not drive pattern queries
+    unless ritualized.
+  suggested_aliases:
+  - temporary_palm_leaf_shelter
+  - mobile_camping_leaf_shelter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_vessel
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-peace-followed-by-renewed-violent-feud
+  motif_id: temporary_peace_followed_by_renewed_violent_feud
+  label: temporary peace followed by renewed violent feud
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence concerns truce or peace failing into renewed feud, a warfare/social-conflict
+    pattern.
+  cautions: If emphasis is broken oath or alliance betrayal, covenant or betrayal_violated_trust
+    may be better secondary mappings.
+  suggested_aliases:
+  - failed_peace_followed_by_renewed_feud
+  - truce_breakdown_into_violent_feud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-prohibition-after-handling-a-potent-material
+  motif_id: temporary_prohibition_after_handling_a_potent_material
+  label: Temporary prohibition after handling a potent material
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A temporary prohibition after contact with potent matter fits taboo,
+    purity, and ritual regulation.
+  cautions: If the material is sacrificial, medicinal, or divine food, also consider
+    sacrifice or sacred_substance.
+  suggested_aliases:
+  - temporary_taboo_after_handling_potent_material
+  - post_contact_ritual_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-restoration-of-sight-for-a-single-decisive-act
+  motif_id: temporary_restoration_of_sight_for_a_single_decisive_act
+  label: temporary restoration of sight for a single decisive act
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restoration of sight for a decisive act is a supernatural aid or miraculous
+    enablement pattern.
+  cautions: If the passage emphasizes vision as revelation, dream_and_vision may be
+    a secondary mapping; if healing is central, a future healing subgroup may be warranted.
+  suggested_aliases:
+  - temporary_miraculous_restoration_of_sight
+  - sight_restored_for_decisive_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels beginning with 'temporary' appear to be passage-level or ethnographic
+  details; source evidence should decide whether they have ritual or narrative function.
+- Avoid treating every restoration as death-rebirth or every inundation as flood_and_renewal
+  without explicit renewal or world-order change.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence items require human evidence
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4018
+  input_sha256: 1d88b246cc84d8cb4df0c82a38fecb37f8d8be2a72049a54e2cd3f744397a65b
+

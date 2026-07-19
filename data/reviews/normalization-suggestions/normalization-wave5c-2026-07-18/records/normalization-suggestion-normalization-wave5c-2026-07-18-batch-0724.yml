@@ -1,0 +1,321 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0724
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cosmic-containment-in-the-ritual-self
+  motif_id: cosmic_containment_in_the_ritual_self
+  label: cosmic containment in the ritual self
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual identification of the self with the cosmos,
+    but no existing group clearly captures body-as-cosmos ritual containment.
+  cautions: Single occurrence and highly contextual; could be ritual theology, initiation,
+    world_center/body symbolism, or generated abstraction from passage language.
+  suggested_aliases:
+  - ritual self as cosmic container
+  - cosmos contained in ritual body
+  - microcosmic ritual self
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - world_center
+    - axis_mundi
+    - sacred_law
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-convergence-at-a-ritual-feast-site
+  motif_id: cosmic_convergence_at_a_ritual_feast_site
+  label: cosmic convergence at a ritual feast site
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual site where cosmic forces converge functions as a sacred center
+    organizing divine, worldly, and ritual space.
+  cautions: If the feast offering or reciprocity is the main evidence, sacred_exchange
+    or sacrifice may be secondary; verify that convergence/site centrality is explicit.
+  suggested_aliases:
+  - ritual feast site as cosmic center
+  - cosmic convergence at sacred feast
+  - sacred feast as world center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-divine-light-contrasted-with-darkness
+  motif_id: cosmic_divine_light_contrasted_with_darkness
+  label: Cosmic divine light contrasted with darkness
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The existing group explicitly covers divine light as sacred presence
+    and cosmic illumination.
+  cautions: Do not reduce all light/dark contrast to dualism unless the passage emphasizes
+    paired cosmic opposition rather than divine illumination.
+  suggested_aliases:
+  - divine light contrasted with darkness
+  - cosmic light and darkness
+  - sacred illumination over darkness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-divine-pervasion-and-celestial-illumination
+  motif_id: cosmic_divine_pervasion_and_celestial_illumination
+  label: Cosmic divine pervasion and celestial illumination
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Divine pervasion and cosmic illumination describe manifestation of sacred
+    presence across the cosmos.
+  cautions: If the focus is light imagery rather than manifestation, sacred_fire is
+    a strong secondary placement; if sovereignty is emphasized, supreme_ruler may
+    be relevant.
+  suggested_aliases:
+  - divine pervasion of the cosmos
+  - cosmic divine illumination
+  - celestial illumination as divine presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - supreme_ruler
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-divine-providence
+  motif_id: cosmic_divine_providence
+  label: Cosmic divine providence
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: broader_label
+  confidence: medium
+  rationale: Providence names sacred guidance or sustaining action in human and cosmic
+    affairs, fitting divine intervention broadly.
+  cautions: The label is abstract and may be theological commentary rather than a
+    concrete motif; if universal rulership is central, supreme_ruler may fit better.
+  suggested_aliases:
+  - divine providence
+  - cosmic providence
+  - divine guidance of the cosmos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - supreme_ruler
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-elements-represented-in-ritual-implements
+  motif_id: cosmic_elements_represented_in_ritual_implements
+  label: Cosmic elements represented in ritual implements
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns ritual objects encoding cosmology, but could belong
+    to sacred_treasures, sacred_law, or world_center depending on function.
+  cautions: Culturally sensitive ritual implement meanings require source-aware review;
+    avoid flattening local cosmology into generic object symbolism.
+  suggested_aliases:
+  - ritual implements representing cosmic elements
+  - cosmological symbolism in ritual objects
+  - cosmic elements in sacred implements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_law
+    - world_center
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-feature-formed-from-divine-milk
+  motif_id: cosmic_feature_formed_from_divine_milk
+  label: Cosmic feature formed from divine milk
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A cosmic feature created from divine substance is an etiological creation
+    motif.
+  cautions: The divine milk detail may also relate to mother_goddess or sacred_substance;
+    preserve the substance-specific evidence rather than promoting a new group from
+    one occurrence.
+  suggested_aliases:
+  - cosmic feature from divine milk
+  - creation from divine milk
+  - divine milk forms celestial feature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - mother_goddess
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-gatekeeper-controlling-divine-and-worldly-access
+  motif_id: cosmic_gatekeeper_controlling_divine_and_worldly_access
+  label: cosmic gatekeeper controlling divine and worldly access
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: high
+  rationale: A gatekeeper who controls access between divine and worldly domains is
+    a clear boundary-guardian role.
+  cautions: If the figure is primarily a deity of doors, beginnings, or social order,
+    royal_legitimacy, sacred_law, or theophany may be secondary rather than primary.
+  suggested_aliases:
+  - cosmic gatekeeper
+  - divine-worldly access guardian
+  - guardian of divine access
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-or-divine-flow-as-descending-flood
+  motif_id: cosmic_or_divine_flow_as_descending_flood
+  label: Cosmic or divine flow as descending flood
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A descending divine flow using flood imagery fits sacred waters as transformative
+    or cosmic medium.
+  cautions: Do not map to flood_and_renewal unless destructive catastrophe and renewal
+    are present; Hermetic context may be metaphorical emanation rather than literal
+    water.
+  suggested_aliases:
+  - divine flow as flood
+  - descending cosmic flood
+  - sacred flow descending like water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-order-disturbed-by-divine-desire
+  motif_id: cosmic_order_disturbed_by_divine_desire
+  label: Cosmic order disturbed by divine desire
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines divine emotion, desire, and disruption of order, but
+    the narrative function is unclear from the label alone.
+  cautions: Could fit sacred_love, chaos, divine_judgment, or pride_and_downfall depending
+    on whether desire causes creation, transgression, punishment, or disorder.
+  suggested_aliases:
+  - divine desire disturbs cosmic order
+  - desire disrupting sacred order
+  - cosmic disorder from divine passion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - chaos
+    - divine_judgment
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional taxonomy placements, not claims about historical
+  transmission or shared origin.
+- Several labels are single-occurrence and abstract; human review should check whether
+  they are passage motifs or generated theological summaries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch reviewed for provisional placement against existing canonical motif
+    groups; culturally specific ritual-object labels flagged for source-aware human
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0724
+  input_sha256: 8d3506506c31964847a919fe8602d620da91eb9adbee1959ae23981cea8ee232
+

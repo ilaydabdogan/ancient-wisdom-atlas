@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3763
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.patron-protects-and-advocates-for-a-killer
+  motif_id: patron_protects_and_advocates_for_a_killer
+  label: Patron protects and advocates for a killer
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve patronage, legal advocacy, kin loyalty, mercy, or violation
+    of justice; label alone does not show a stable sacred motif.
+  cautions: Single occurrence and culturally contextual; review source evidence before
+    mapping to covenant, sacred_law, betrayal, or divine_judgment.
+  suggested_aliases:
+  - patron_advocates_for_killer
+  - protector_intercedes_for_a_killer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patroness-feast-celebration
+  motif_id: patroness_feast_celebration
+  label: patroness feast celebration
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A feast honoring a patroness may be ritual reciprocity, sacred time,
+    ancestor or deity cult, or a local ceremonial detail.
+  cautions: Patroness role and feast function need source review; avoid flattening
+    a culturally specific ceremony into generic sacred_exchange without evidence.
+  suggested_aliases:
+  - patroness_feast
+  - feast_for_a_patroness
+  - celebration_of_patroness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.payment-after-successful-cure
+  motif_id: payment_after_successful_cure
+  label: payment after successful cure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Payment following healing is a reciprocal exchange after restoration,
+    fitting sacred or ethical reciprocity when the cure has religious context.
+  cautions: If this is merely a mundane fee or narrative transaction, it may be too
+    specific for motif queries; check whether ritual, merit, healer role, or sacred
+    obligation is explicit.
+  suggested_aliases:
+  - healing_payment_after_cure
+  - reciprocal_payment_for_cure
+  - payment_for_successful_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.payment-as-comic-removal-of-a-public-nuisance
+  motif_id: payment_as_comic_removal_of_a_public_nuisance
+  label: Payment as comic removal of a public nuisance
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a comic plot device or passage-specific narrative
+    resolution rather than a reusable mythic motif.
+  cautions: If similar comic-payment episodes recur, a trickster or social-satire
+    grouping could be considered; otherwise preserve as evidence detail only.
+  suggested_aliases:
+  - comic_payment_to_remove_nuisance
+  - paid_removal_of_public_nuisance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-after-complete-defeat
+  motif_id: peace_after_complete_defeat
+  label: Peace after complete defeat
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Peace imposed after total defeat is a conflict-resolution outcome within
+    warfare rather than a separate cosmological renewal motif.
+  cautions: May instead belong to covenant or sacred_law if the passage emphasizes
+    treaty obligations, ritual peacemaking, or social order after war.
+  suggested_aliases:
+  - peace_following_total_defeat
+  - post_defeat_peace
+  - defeat_followed_by_peace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-after-destructive-conflict
+  motif_id: peace_after_destructive_conflict
+  label: peace after destructive conflict
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif is a post-conflict settlement pattern tied to destructive warfare
+    and its resolution.
+  cautions: If conflict destroys an old world/order and establishes renewal, flood_and_renewal
+    or death_and_transformation may be relevant; if it centers on treaty, consider
+    covenant.
+  suggested_aliases:
+  - post_conflict_peace
+  - peace_following_destructive_war
+  - settlement_after_destructive_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-and-abundance-under-rightful-rule
+  motif_id: peace_and_abundance_under_rightful_rule
+  label: Peace and abundance under rightful rule
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: high
+  rationale: Peace and abundance validate rightful rule, matching sacred kingship
+    and legitimate social order.
+  cautions: In Confucian context this may be ethical-political rather than explicitly
+    sacred; sacred_law may be a secondary fit if moral governance is central.
+  suggested_aliases:
+  - abundance_under_rightful_rule
+  - peace_under_legitimate_rule
+  - rightful_rule_brings_peace_and_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-ceremonial-objects-and-color-symbolism
+  motif_id: peace_ceremonial_objects_and_color_symbolism
+  label: peace ceremonial objects and color symbolism
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual objects, color symbolism, and peacemaking without
+    enough evidence to choose sacred_law, sacred_treasures, covenant, or sacred_exchange.
+  cautions: Culturally specific ceremonial symbolism should be reviewed by a human;
+    avoid overgeneralizing color meanings or object functions.
+  suggested_aliases:
+  - peace_ceremonial_objects
+  - peace_color_symbolism
+  - ceremonial_objects_of_peace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-conditioned-on-withdrawal-from-land
+  motif_id: peace_conditioned_on_withdrawal_from_land
+  label: Peace conditioned on withdrawal from land
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A conditional peace agreement requiring withdrawal functions as a binding
+    social compact or treaty condition.
+  cautions: May be a historical or passage-specific political detail rather than mythic
+    motif; map only if the agreement has narrative, ritual, or sacred-order significance.
+  suggested_aliases:
+  - conditional_peace_by_withdrawal
+  - peace_terms_require_withdrawal
+  - land_withdrawal_as_peace_condition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-embassy-amid-reciprocal-raids
+  motif_id: peace_embassy_amid_reciprocal_raids
+  label: Peace embassy amid reciprocal raids
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A peace embassy amid raids centers on negotiated restoration of social
+    order through formal relations between hostile parties.
+  cautions: Could also index under sacred_combat if raids dominate the episode; review
+    whether the embassy is ritualized, diplomatic, or merely historical narration.
+  suggested_aliases:
+  - peace_embassy_during_raids
+  - diplomatic_embassy_amid_reciprocal_raiding
+  - peace_mission_between_raiding_groups
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several peace-related labels are single-occurrence political or diplomatic outcomes;
+  human review should distinguish treaty/covenant functions from ordinary historical
+  narrative details.
+- For culturally specific Native American ceremonial or diplomatic labels, preserve
+  local terms and source context rather than forcing broad symbolic equivalence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3763
+  input_sha256: 93e008671969414ea2d2858311cacc4d75ea01c8fd770c874faf182df953526c
+

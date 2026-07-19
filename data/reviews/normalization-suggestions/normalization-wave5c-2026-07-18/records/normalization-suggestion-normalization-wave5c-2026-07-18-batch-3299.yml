@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3299
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cosmic-chronology-divided-into-millennial-ages
+  motif_id: cosmic_chronology_divided_into_millennial_ages
+  label: cosmic chronology divided into millennial ages
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: narrower_than
+  confidence: high
+  rationale: A segmented cosmic chronology fits the existing world-ages and sacred-time
+    schema.
+  cautions: Millennial numbering may be tradition-specific; preserve as local evidence
+    detail.
+  suggested_aliases:
+  - millennial_world_ages
+  - cosmic_time_divided_into_ages
+  - millennial_cosmic_chronology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-consummation-and-dissolution
+  motif_id: cosmic_consummation_and_dissolution
+  label: cosmic consummation and dissolution
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: broader_label
+  confidence: medium
+  rationale: End-of-cosmos dissolution belongs with world-ending catastrophe and renewal
+    patterns when cosmic order is dissolved or consummated.
+  cautions: If the passage describes metaphysical return to source rather than catastrophe
+    or renewal, sacred_knowledge or mystical_quest may be secondary; review Gnostic
+    context.
+  suggested_aliases:
+  - cosmic_dissolution
+  - eschatological_cosmic_consumation
+  - end_of_cosmos_dissolution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-containment-by-sempiternity
+  motif_id: cosmic_containment_by_sempiternity
+  label: Cosmic containment by sempiternity
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and may describe a metaphysical doctrine rather
+    than a narrative motif.
+  cautions: Needs source evidence to decide whether this is sacred time, cosmic order,
+    supreme sovereignty, or philosophical commentary.
+  suggested_aliases:
+  - cosmos_contained_by_eternity
+  - cosmic_order_within_sempiternity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-craftsman-shaping-beings
+  motif_id: cosmic_craftsman_shaping_beings
+  label: cosmic craftsman shaping beings
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cosmic maker shaping beings is a creation or ordering function within
+    the existing cosmic-origin group.
+  cautions: If the emphasis is artisanal technique or manufactured animation, sacred_craft
+    may be a secondary mapping; Daoist source context may be metaphorical.
+  suggested_aliases:
+  - cosmic_artisan_shaping_beings
+  - creator_as_craftsman
+  - demiurgic_shaping_of_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-cycles-outlasting-human-life
+  motif_id: cosmic_cycles_outlasting_human_life
+  label: Cosmic cycles outlasting human life
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Human mortality contrasted with larger cosmic recurrence fits sacred
+    time and cyclical temporality.
+  cautions: Could be an ethical or mystical reflection on impermanence rather than
+    a recurring motif; if so, mystical_quest may fit better.
+  suggested_aliases:
+  - cosmic_cycles_beyond_human_life
+  - human_life_within_cosmic_cycles
+  - cosmic_time_outlasts_human_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-directional-equipment
+  motif_id: cosmic_directional_equipment
+  label: Cosmic-directional equipment
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to ritual implements, cosmological orientation, court
+    regalia, or commentary wording.
+  cautions: Needs source context before mapping to sacred_treasures, sacred_law, royal_legitimacy,
+    or axis_mundi.
+  suggested_aliases:
+  - directional_cosmic_implements
+  - ritual_equipment_for_cosmic_directions
+  - cosmological_directional_regalia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-disruption-in-chapter-titles
+  motif_id: cosmic_disruption_in_chapter_titles
+  label: cosmic disruption in chapter titles
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase explicitly describes chapter-title wording rather than a narrative
+    or symbolic motif.
+  cautions: If actual passages depict cosmic disruption, index those scenes separately
+    under divine_judgment or flood_and_renewal.
+  suggested_aliases:
+  - chapter_title_cosmic_disruption
+  - cosmic_disruption_as_textual_heading
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-emanations-arranged-by-numbers-spaces-and-arrays
+  motif_id: cosmic_emanations_arranged_by_numbers_spaces_and_arrays
+  label: Cosmic emanations arranged by numbers, spaces, and arrays
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Numbered emanations and spatial arrays describe a structured cosmological
+    generation or ordering of reality.
+  cautions: May be doctrinal schema rather than motif; preserve Gnostic technical
+    details and review for sacred_knowledge secondary mapping.
+  suggested_aliases:
+  - numbered_cosmic_emanations
+  - emanationist_cosmic_order
+  - cosmic_arrays_of_emanations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-enclosure-of-the-adversary
+  motif_id: cosmic_enclosure_of_the_adversary
+  label: cosmic enclosure of the adversary
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Confining an adversary at cosmic scale functions as sacred containment
+    and judgment against disorder.
+  cautions: Could also belong with duality if the focus is cosmic opposition, or sacred_combat
+    if enclosure follows battle.
+  suggested_aliases:
+  - cosmic_confinement_of_adversary
+  - adversary_enclosed_by_cosmic_order
+  - cosmic_containment_of_evil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-encompassing-deity
+  motif_id: cosmic_encompassing_deity
+  label: cosmic encompassing deity
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A deity encompassing the cosmos fits the existing group for universal
+    divine sovereignty and cosmic rulership.
+  cautions: If the emphasis is direct manifestation to a witness, theophany may be
+    secondary; if doctrinal abstraction only, review before indexing.
+  suggested_aliases:
+  - all_encompassing_deity
+  - deity_encompassing_cosmos
+  - cosmic_totality_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are abstract cosmological or doctrinal phrases with
+  single occurrences; preserve tradition-specific detail and avoid promoting them
+  to canonical taxonomy without recurrence.
+- Do not infer transmission or common origin from shared placement in cosmic-order
+  groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; items marked low confidence require source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3299
+  input_sha256: 6fb05e426600f6664e7a313bdb8a80f131ccea44e073fb460cd7c32a68596764
+

@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2765
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.natural-weapons-against-martial-weapons
+  motif_id: natural_weapons_against_martial_weapons
+  label: natural weapons against martial weapons
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Existing aliases already fold natural objects used as heroic weapons
+    under divine_warrior; this contrasts natural and martial weaponry in combat.
+  cautions: If the passage emphasizes craft or technology rather than heroic combat,
+    sacred_craft or sacred_treasures may be secondary fits.
+  suggested_aliases:
+  - natural_objects_used_as_heroic_weapons
+  - mountain_and_tree_used_as_heroic_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.near-fatal-ordeal-followed-by-rescue-and-recovery
+  motif_id: near_fatal_ordeal_followed_by_rescue_and_recovery
+  label: Near-fatal ordeal followed by rescue and recovery
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A near-fatal ordeal followed by recovery fits a threshold ordeal that
+    can transform status or identity.
+  cautions: If rescue is by a sacred agent, divine_intervention may be relevant; if
+    recovery is revival from death, death_and_transformation may fit better. Single
+    occurrence is broad and contextual.
+  suggested_aliases:
+  - near_death_ordeal_and_recovery
+  - rescue_after_near_fatal_trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.near-invulnerable-hero-with-uncovered-weak-spot
+  motif_id: near_invulnerable_hero_with_uncovered_weak_spot
+  label: near-invulnerable hero with uncovered weak spot
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: alias
+  confidence: high
+  rationale: The group explicitly covers apparent invulnerability limited by an exposed
+    body point or hidden weakness.
+  cautions: Preserve whether the vulnerability is uncovered, omitted by a boon, or
+    disclosed by the hero; these details can matter locally.
+  suggested_aliases:
+  - vulnerable_spot
+  - near_invulnerable_warrior
+  - hero_with_uncovered_weak_spot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.neglected-bodily-remnant-becomes-demonic-weaponry
+  motif_id: neglected_bodily_remnant_becomes_demonic_weaponry
+  label: neglected bodily remnant becomes demonic weaponry
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: Weaponry made from a bodily remnant may involve a power object, postmortem
+    transformation, demonic agency, or ritual neglect.
+  cautions: Culturally specific Zoroastrian impurity/demonology and the role of the
+    neglected remnant need source review before mapping. Could fit death_and_transformation,
+    sacred_law, sacred_treasures, or divine_judgment.
+  suggested_aliases:
+  - bodily_remnant_transformed_into_weapon
+  - demonic_weapon_from_neglected_remnant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.new-weapon-material-replacing-older-material
+  motif_id: new_weapon_material_replacing_older_material
+  label: New weapon material replacing older material
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns weapon technology or material change, which may relate
+    to sacred craft only if the change has mythic or sacred significance.
+  cautions: May be an ethnographic or technological detail rather than a motif. Do
+    not map to combat unless the narrative function is conflict, divine aid, or culture-hero
+    innovation.
+  suggested_aliases:
+  - weapon_material_innovation
+  - replacement_of_old_weapon_material
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.new-weapon-reduces-danger-of-traditional-hunt
+  motif_id: new_weapon_reduces_danger_of_traditional_hunt
+  label: new weapon reduces danger of traditional hunt
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: uncertain
+  confidence: low
+  rationale: A weapon innovation reducing hunting danger could be a culture-hero or
+    sacred-craft motif if presented as mythic technological benefit.
+  cautions: Could be a practical ethnographic note or passage artifact. If the focus
+    is provision and survival, divine_intervention or culture_hero may be better than
+    combat.
+  suggested_aliases:
+  - weapon_innovation_makes_hunt_safer
+  - new_hunting_weapon_reduces_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.new-weapon-technology-linked-to-famine-risk
+  motif_id: new_weapon_technology_linked_to_famine_risk
+  label: New weapon technology linked to famine risk
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label links technological change with subsistence risk, but no existing
+    group cleanly captures this without source context.
+  cautions: May be an ecological, ethnographic, or commentary artifact rather than
+    a reusable mythic motif. Review for culture-hero invention, taboo violation, famine
+    judgment, or practical technology discussion.
+  suggested_aliases:
+  - weapon_innovation_and_famine_risk
+  - new_hunting_technology_endangers_subsistence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.newborn-associated-with-weapon-and-self-separation
+  motif_id: newborn_associated_with_weapon_and_self_separation
+  label: newborn associated with weapon and self-separation
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: uncertain
+  confidence: low
+  rationale: A newborn marked by a weapon could indicate extraordinary birth or destiny,
+    but self-separation may instead imply external-soul or identity-splitting logic.
+  cautions: Source evidence is needed to distinguish sacred birth, martial destiny,
+    external soul, or passage-specific wording.
+  suggested_aliases:
+  - weapon_marked_newborn
+  - newborn_with_separable_self
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.newly-born-brothers-destroy-one-another-in-civil-war
+  motif_id: newly_born_brothers_destroy_one_another_in_civil_war
+  label: Newly born brothers destroy one another in civil war
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is a sibling pair whose rivalry or mutual destruction
+    drives foundation or social conflict.
+  cautions: If the emphasis is civil war as political disorder, sacred_combat or royal_legitimacy
+    may be secondary. If the brothers are not twins or mythic siblings, review placement.
+  suggested_aliases:
+  - fratricidal_newborn_brothers
+  - sibling_pair_destroyed_by_civil_war
+  - brother_against_brother_foundational_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.night-attack-prevented-by-a-warning-helper
+  motif_id: night_attack_prevented_by_a_warning_helper
+  label: night attack prevented by a warning helper
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A helper warning against an attack functions as protective guidance that
+    redirects danger.
+  cautions: If the helper is ordinary rather than sacred or supernatural, this may
+    be a combat-stratagem detail under sacred_combat or too specific for pattern queries.
+  suggested_aliases:
+  - warning_helper_prevents_night_attack
+  - protective_warning_before_ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence technology or weapon-context
+  items; source review should distinguish reusable mythic motifs from ethnographic
+  or passage-specific details.
+- Where combat labels involve sacred or supernatural agency, prefer divine_warrior
+  or divine_intervention; where they are ordinary tactics, sacred_combat or exclusion
+  may be more appropriate.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence items require source evidence
+    before normalization.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2765
+  input_sha256: f295db62814916cdd1592634e309f2fc5cebc644b169d67d6ec398fccb622836
+

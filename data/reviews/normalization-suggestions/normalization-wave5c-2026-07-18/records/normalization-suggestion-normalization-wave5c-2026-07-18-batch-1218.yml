@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1218
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.vast-divine-water-realm-with-repeated-palaces
+  motif_id: vast_divine_water_realm_with_repeated_palaces
+  label: Vast divine water realm with repeated palaces
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A vast divine realm with palaces reads as an enchanted or sacred otherworld
+    rather than a ritual act.
+  cautions: Water imagery may also support sacred_waters if the passage emphasizes
+    boundary, purification, or passage; single occurrence and palace repetition may
+    be passage-specific.
+  suggested_aliases:
+  - divine_water_realm
+  - watery_otherworld_palaces
+  - enchanted_water_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vegetal-adornment-around-sacred-procession
+  motif_id: vegetal_adornment_around_sacred_procession
+  label: Vegetal adornment around sacred procession
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes ritual decoration around a sacred procession, but
+    the existing groups do not cleanly cover procession or vegetal ritual adornment.
+  cautions: May be an over-specific ethnographic detail; review cultural context before
+    broadening to sacred_law, sacred_exchange, sacred_time, or axis_mundi.
+  suggested_aliases:
+  - vegetal_processional_adornment
+  - plant_adornment_in_sacred_procession
+  - ritual_vegetal_decoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.veiled-divine-image
+  motif_id: veiled_divine_image
+  label: veiled divine image
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A divine image treated through veiling functions as a sacred object or
+    cult image requiring ritual handling.
+  cautions: If the emphasis is concealment of divine presence, theophany may be a
+    secondary relation; if it is only an antiquarian note, exclude or review.
+  suggested_aliases:
+  - veiled_cult_image
+  - ritually_covered_divine_image
+  - concealed_sacred_image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.veiled-holy-or-prophetic-claimant
+  motif_id: veiled_holy_or_prophetic_claimant
+  label: Veiled holy or prophetic claimant
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate prophetic authority, concealed identity, sacred
+    charisma, or a historically specific claimant.
+  cautions: Potentially person- or movement-specific and culturally sensitive; needs
+    source evidence before mapping to prophecy_divination, theophany, royal_legitimacy,
+    or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - veiled_prophetic_claimant
+  - veiled_holy_figure
+  - concealed_prophetic_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.venerated-bird-bearing-youth-in-a-sacred-temple
+  motif_id: venerated_bird_bearing_youth_in_a_sacred_temple
+  label: Venerated bird-bearing youth in a sacred temple
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines iconographic details of youth, bird, veneration, and
+    temple without a clear narrative function.
+  cautions: Likely an image or cult-specific artifact; review whether the core is
+    sacred child, animal symbolism, cult statue, or simply descriptive iconography.
+  suggested_aliases:
+  - bird_bearing_sacred_youth
+  - venerated_youth_with_bird
+  - temple_image_of_bird_bearing_youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.venerated-drum-as-household-ritual-focus
+  motif_id: venerated_drum_as_household_ritual_focus
+  label: venerated drum as household ritual focus
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritually venerated drum functions as a sacred power object within household
+    practice.
+  cautions: If sound or performance is central, enchanting_music may be a better secondary
+    mapping; handle culturally specific ritual context carefully.
+  suggested_aliases:
+  - sacred_drum_as_household_focus
+  - venerated_ritual_drum
+  - household_sacred_drum
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.veneration-of-a-sacred-shield-linked-to-joseph-of-arimathea
+  motif_id: veneration_of_a_sacred_shield_linked_to_joseph_of_arimathea
+  label: Veneration of a sacred shield linked to Joseph of Arimathea
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: over_specific_label
+  confidence: high
+  rationale: A venerated shield tied to sacred lineage or relic tradition is a sacred
+    power object.
+  cautions: The named Joseph link is probably evidence detail; if the shield authorizes
+    lineage or kingship, royal_legitimacy may be secondary.
+  suggested_aliases:
+  - venerated_sacred_shield
+  - sacred_shield_relic
+  - holy_shield_veneration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-for-slain-father-and-kinsman-at-sacred-waters
+  motif_id: vengeance_for_slain_father_and_kinsman_at_sacred_waters
+  label: vengeance for slain father and kinsman at sacred waters
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is kin vengeance for slain relatives, fitting martial
+    conflict and retaliatory sacred combat.
+  cautions: Sacred waters may be setting rather than function; if the water site governs
+    the meaning, sacred_waters can be secondary. Single occurrence is quite contextual.
+  suggested_aliases:
+  - vengeance_for_slain_kin
+  - kin_vengeance_at_sacred_waters
+  - revenge_for_father_and_kinsman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vermin-transformed-into-ritual-or-sound-making-object
+  motif_id: vermin_transformed_into_ritual_or_sound_making_object
+  label: Vermin transformed into ritual or sound-making object
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines transformation, ritual object origin, and sound-making
+    without enough evidence to choose a dominant function.
+  cautions: Could fit shapeshifter, sacred_craft, sacred_treasures, or enchanting_music
+    depending on whether transformation, manufacture, ritual use, or sound power is
+    central.
+  suggested_aliases:
+  - vermin_transformed_into_ritual_object
+  - vermin_origin_of_sound_object
+  - transformed_vermin_sound_maker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vertical-or-directional-embodiment-by-masked-gods
+  motif_id: vertical_or_directional_embodiment_by_masked_gods
+  label: vertical or directional embodiment by masked gods
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Masked gods embodying vertical or directional order may concern ritual
+    cosmology, but the label is too compressed for a confident placement.
+  cautions: Culturally sensitive ceremonial material; review source context before
+    mapping to axis_mundi, duality, theophany, or sacred_law.
+  suggested_aliases:
+  - directional_embodiment_by_masked_gods
+  - masked_gods_as_directions
+  - vertical_cosmology_in_masked_deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual or iconographic descriptions;
+  preserve local evidence and avoid promoting them without recurrence.
+- For Native American ceremonial materials, human review should check cultural sensitivity
+  and whether generated labels over-compress ritual context.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; many items require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1218
+  input_sha256: 5cc934b0dcd16afb0b26efdb0d85b6945d7b7b5efdf61b615dae130a64fa17bf
+

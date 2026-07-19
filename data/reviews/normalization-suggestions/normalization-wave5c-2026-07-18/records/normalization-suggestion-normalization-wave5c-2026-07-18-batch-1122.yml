@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1122
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-christian-speech-overcomes-an-unseen-devil
+  motif_id: sacred_christian_speech_overcomes_an_unseen_devil
+  label: Sacred Christian speech overcomes an unseen devil
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key action is sacred speech functioning performatively to overcome
+    a demonic power.
+  cautions: Christian/Inuit context may require review for missionization or source
+    framing; could also involve exorcism under sacrifice if ritual expulsion is central.
+  suggested_aliases:
+  - sacred_speech_overcomes_devil
+  - performative_sacred_speech_against_demonic_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-city-marked-by-temple-and-founder-s-birth
+  motif_id: sacred_city_marked_by_temple_and_founder_s_birth
+  label: Sacred city marked by temple and founder's birth
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A temple-marked city functioning as a sacred center fits axis_mundi/world_center
+    logic.
+  cautions: Founder birth may point to miraculous_child or royal_legitimacy if the
+    passage emphasizes the founder more than the sacred city.
+  suggested_aliases:
+  - sacred_city_as_founder_birthplace
+  - temple_city_as_sacred_center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-coffers-of-osiris
+  motif_id: sacred_coffers_of_osiris
+  label: Sacred coffers of Osiris
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: narrower_than
+  confidence: medium
+  rationale: Sacred coffers are ritual containers associated with divine presence,
+    remains, or power.
+  cautions: If the label only names a cult object with no narrative or symbolic function,
+    it may be too object-specific for pattern queries; Osiris context may also involve
+    death_and_transformation.
+  suggested_aliases:
+  - osirian_sacred_coffers
+  - divine_coffers_as_sacred_containers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-color-quadrad
+  motif_id: sacred_color_quadrad
+  label: sacred color quadrad
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A four-color sacred schema may encode directionality, cosmology, ritual
+    order, or cultural symbolism not represented clearly by existing groups.
+  cautions: Culturally sensitive and under-specified; avoid collapsing into duality
+    or sacred_law without source evidence on function.
+  suggested_aliases:
+  - four_sacred_colors
+  - sacred_color_quaternity
+  - directional_color_quadrad
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-communal-meal-marked-by-a-shared-bodily-sign
+  motif_id: sacred_communal_meal_marked_by_a_shared_bodily_sign
+  label: Sacred communal meal marked by a shared bodily sign
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A communal sacred meal creates or marks reciprocal social-sacred relationship.
+  cautions: The bodily sign may imply initiation, covenant, or identity marking; source
+    evidence needed before narrowing.
+  suggested_aliases:
+  - sacred_communal_meal_with_bodily_mark
+  - shared_meal_marking_ritual_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-communal-structure-as-ceremonial-center
+  motif_id: sacred_communal_structure_as_ceremonial_center
+  label: Sacred communal structure as ceremonial center
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A communal structure serving as ceremonial center fits sacred-center
+    and world-center functions.
+  cautions: Could belong under sacred_law or sacred_exchange if the emphasis is social
+    regulation or ritual gathering rather than cosmic centrality.
+  suggested_aliases:
+  - ceremonial_house_as_sacred_center
+  - communal_structure_as_ritual_center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-composition-preserved-from-memory
+  motif_id: sacred_composition_preserved_from_memory
+  label: Sacred composition preserved from memory
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Preservation of a sacred composition from memory concerns transmission
+    and safeguarding of sacred knowledge.
+  cautions: If the label refers mainly to textual history or editorial recovery, exclude
+    as _meta_textual instead.
+  suggested_aliases:
+  - memorized_sacred_composition
+  - sacred_text_preserved_by_memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-construction-by-commanded-human-and-jinn-labor
+  motif_id: sacred_construction_by_commanded_human_and_jinn_labor
+  label: Sacred construction by commanded human and jinn labor
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on sacred construction accomplished through commanded
+    human and supernatural labor.
+  cautions: May also indicate royal_legitimacy or divine_intervention if the command
+    authorizes rule or displays divine power.
+  suggested_aliases:
+  - supernatural_labor_builds_sacred_structure
+  - commanded_jinn_labor_in_sacred_construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-construction-with-measured-timber
+  motif_id: sacred_construction_with_measured_timber
+  label: Sacred construction with measured timber
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Measured timber in sacred building fits craft and ordered construction
+    as ritualized practice.
+  cautions: The measurement detail may be passage-specific; if it is merely technical
+    description, exclude from broad pattern queries.
+  suggested_aliases:
+  - ritually_measured_timber_for_sacred_building
+  - measured_materials_in_sacred_construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-construction-without-iron
+  motif_id: sacred_construction_without_iron
+  label: sacred construction without iron
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prohibition or special material rule in sacred building belongs with
+    ritualized sacred construction.
+  cautions: Comparative label may be a scholarly motif abstraction; if no passage-level
+    narrative function is present, review for exclusion or sacred_law secondary mapping.
+  suggested_aliases:
+  - ironless_sacred_construction
+  - sacred_building_without_iron_tools
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and object- or detail-specific; preserve as
+  evidence details unless recurrence supports durable children.
+- Sacred construction labels consistently fit the existing sacred_craft group, with
+  sacred_law as a possible secondary frame when prohibitions or measurements are central.
+- Do not infer historical transmission from shared sacred building, speech, or ritual
+  patterns.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific and comparative labels should
+    receive human source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1122
+  input_sha256: 3f5fff26ad4340b592f1b6545794d84334d651f2bea91c9c5d2d6b4cc1c24c6b
+

@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0124
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-related-uncleanness-transmitted-through-kinship
+  motif_id: death_related_uncleanness_transmitted_through_kinship
+  label: Death-related uncleanness transmitted through kinship
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Death-related impurity transmitted through kinship fits ritual purity
+    law and spirit-contagion patterns already grouped under sacred_law.
+  cautions: Single occurrence; may need secondary relation to ancestor_rites or afterlife_passage
+    if the passage concerns mortuary care rather than purity regulation.
+  suggested_aliases:
+  - kinship_transmission_of_death_impurity
+  - death_impurity_transmitted_through_kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-resulting-from-ritual-neglect-or-taboo-breach
+  motif_id: death_resulting_from_ritual_neglect_or_taboo_breach
+  label: death resulting from ritual neglect or taboo breach
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Death follows ritual neglect or taboo breach as a moral or sacred consequence,
+    matching divine_judgment's punishment and reckoning function.
+  cautions: If the source frames the taboo as ritual law rather than judgment, sacred_law
+    may be a better primary group; review culturally specific taboo context.
+  suggested_aliases:
+  - death_from_taboo_breach
+  - death_as_consequence_of_ritual_neglect
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-revealed-through-a-divinely-sent-dream-or-vision
+  motif_id: death_revealed_through_a_divinely_sent_dream_or_vision
+  label: death revealed through a divinely sent dream or vision
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: A divinely sent dream or vision discloses death, fitting dreams and visions
+    as media of revelation or prophecy.
+  cautions: May also relate to death_by_fate if the revealed death is inescapable
+    destiny; do not map as afterlife journey unless a postmortem route is described.
+  suggested_aliases:
+  - death_revealed_in_divine_dream
+  - dream_vision_reveals_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-rites-framed-by-grape-vine-and-garden
+  motif_id: death_rites_framed_by_grape_vine_and_garden
+  label: Death rites framed by grape, vine, and garden
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines mortuary framing with Sufi grape, vine, and garden
+    imagery; function could be mystical, paradisal, ritual, or poetic.
+  cautions: Likely source-dependent and possibly metaphorical; review whether it is
+    a ritual motif, sacred_substance imagery, otherworld/paradise imagery, or poetic
+    passage artifact.
+  suggested_aliases:
+  - death_rites_with_vine_garden_imagery
+  - mortuary_grape_vine_garden_imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-ritual-relocated-to-the-tavern
+  motif_id: death_ritual_relocated_to_the_tavern
+  label: Death ritual relocated to the tavern
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The tavern in Sufi material may be mystical metaphor, ritual inversion,
+    or passage-specific imagery rather than a stable mortuary motif.
+  cautions: Do not flatten to sacred_substance or ancestor_rites without evidence;
+    may be a poetic or interpretive artifact.
+  suggested_aliases:
+  - tavern_as_site_of_death_ritual
+  - mortuary_ritual_in_tavern_imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-s-nearness-relativizes-worldly-change
+  motif_id: death_s_nearness_relativizes_worldly_change
+  label: Death's nearness relativizes worldly change
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Awareness of imminent death relativizing worldly change fits contemplative
+    impermanence and interior transformation in mystical_quest.
+  cautions: This is abstract and may be ethical reflection rather than narrative motif;
+    exclude if it is only commentary, aphorism, or passage theme.
+  suggested_aliases:
+  - death_nearness_and_worldly_impermanence
+  - mortality_relativizes_worldly_change
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-s-noose-for-spiritual-blindness-and-pride
+  motif_id: death_s_noose_for_spiritual_blindness_and_pride
+  label: Death’s noose for spiritual blindness and pride
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Death's noose functions as the downfall or humbling consequence of pride
+    and spiritual blindness.
+  cautions: Could instead belong under divine_judgment if the passage emphasizes divine
+    moral reckoning, or mystical_quest if it emphasizes liberation from ego-blindness.
+  suggested_aliases:
+  - death_noose_for_pride
+  - death_snare_for_spiritual_blindness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-s-snare-avoided-by-the-divine-name-and-word
+  motif_id: death_s_snare_avoided_by_the_divine_name_and_word
+  label: Death’s snare avoided by the divine Name and Word
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Liberation from death's snare through the divine Name and Word centers
+    on sacred utterance/knowledge as salvific power.
+  cautions: May also warrant relation to curse_blessing_speech or mystical_quest;
+    confirm whether Name/Word is recitation, revelation, or devotional practice in
+    the passage.
+  suggested_aliases:
+  - divine_name_avoids_death_snare
+  - sacred_word_delivers_from_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-seeking-wandering-after-total-family-loss
+  motif_id: death_seeking_wandering_after_total_family_loss
+  label: death-seeking wandering after total family loss
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: Wandering toward death after complete family loss is a grief-driven mourning
+    and tragic loss pattern.
+  cautions: Could be an over-specific episode detail; if the wandering becomes a transformative
+    journey, hero_journey or death_and_transformation may be secondary.
+  suggested_aliases:
+  - death_seeking_after_family_loss
+  - grief_wandering_after_total_kin_loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-seeks-the-mortal
+  motif_id: death_seeks_the_mortal
+  label: death seeks the mortal
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Personified or pursuing death seeking a mortal fits inescapable mortality
+    and fate-driven death.
+  cautions: If Death is a named figure or psychopomp with narrative agency, a future
+    personified-death group might be useful; current evidence is too sparse for a
+    new group.
+  suggested_aliases:
+  - personified_death_seeks_mortal
+  - death_pursues_the_mortal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional and avoid transmission claims.
+- Several single-occurrence Sufi/Sikh labels may be poetic, devotional, or interpretive
+  themes rather than stable narrative motifs; human review should check passage evidence
+  before indexing broadly.
+- Death-impurity and taboo-breach labels should be reviewed with attention to culturally
+  specific ritual categories and should not be generalized beyond the supplied evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft placements prepared for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0124
+  input_sha256: 883464cd3a03edb4852c2ee8e04de2a1446caa6af0259ebc1f7e73c2845c305d
+

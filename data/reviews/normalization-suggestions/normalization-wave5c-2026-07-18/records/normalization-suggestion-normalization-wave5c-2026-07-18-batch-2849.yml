@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2849
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wagered-mutilation-contests
+  motif_id: wagered_mutilation_contests
+  label: wagered mutilation contests
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A violent wagered contest fits ritualized combat or ordeal better than
+    general divine-warrior imagery.
+  cautions: Single occurrence; verify whether this is a formal contest motif rather
+    than an episode-specific violent game.
+  suggested_aliases:
+  - wagered_body_mutilation_contest
+  - mutilation_wager_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wagered-single-combat-with-head-as-stake
+  motif_id: wagered_single_combat_with_head_as_stake
+  label: Wagered single combat with head as stake
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: Single combat with a lethal stake is a clear ritualized combat variant.
+  cautions: Head-as-stake detail should remain evidence-level unless recurring across
+    sources; may overlap with beheading duel aliases.
+  suggested_aliases:
+  - wagered_duel_with_head_as_stake
+  - single_combat_with_head_wager
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wagering-game-causes-loss-of-food-and-weapons
+  motif_id: wagering_game_causes_loss_of_food_and_weapons
+  label: wagering game causes loss of food and weapons
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a gambling ordeal, trickster loss, social reversal,
+    or passage-specific plot device.
+  cautions: Needs source context to determine whether the function is contest, deception,
+    loss of sacred goods, or moral warning.
+  suggested_aliases:
+  - wagering_game_loss_of_supplies
+  - gambling_loss_of_food_and_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-band-divided-around-a-tower
+  motif_id: war_band_divided_around_a_tower
+  label: War band divided around a tower
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a highly specific battle arrangement or scene detail rather
+    than a reusable motif.
+  cautions: If the tower functions as sacred center, siege threshold, or failed monumental
+    hubris, review under axis_mundi, sacred_combat, or pride_and_downfall instead.
+  suggested_aliases:
+  - war_band_split_around_tower
+  - troops_divided_around_tower
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-camp-victory-singing
+  motif_id: war_camp_victory_singing
+  label: War-camp victory singing
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Victory song in a war camp is best treated as a ritual or expressive
+    element of warfare.
+  cautions: If the song has supernatural efficacy, enchanting_music or storytelling_as_power
+    may be a secondary placement.
+  suggested_aliases:
+  - victory_singing_in_war_camp
+  - war_victory_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-canoe-construction
+  motif_id: war_canoe_construction
+  label: war canoe construction
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Construction of a specialized war vessel fits craft and preparation more
+    than combat outcome.
+  cautions: If ordinary logistics with no sacred or mythic function, may be too specific
+    for pattern queries.
+  suggested_aliases:
+  - construction_of_war_canoe
+  - war_vessel_construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-canoe-preparation
+  motif_id: war_canoe_preparation
+  label: war-canoe preparation
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Preparation of a war canoe is an immediate ritual/logistical prelude
+    to warfare.
+  cautions: Could map to sacred_craft if the focus is building or crafting; exclude
+    if merely a mundane scene detail.
+  suggested_aliases:
+  - preparation_of_war_canoe
+  - war_canoe_ritual_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-captive-incorporated-as-clan-kin
+  motif_id: war_captive_incorporated_as_clan_kin
+  label: War captive incorporated as clan kin
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: Captive incorporation is social transformation after conflict, not cleanly
+    covered by existing combat or covenant groups.
+  cautions: Culturally sensitive kinship and captivity practice; source context needed
+    before placing under covenant, sacred_law, initiation, or sacred_exchange.
+  suggested_aliases:
+  - captive_adopted_as_kin
+  - war_captive_incorporated_into_clan
+  suggested_new_group:
+    id: captive_incorporation_kinship
+    label: Captive Incorporation and Kinship Transformation
+    description: War captives, strangers, or outsiders are ritually or socially incorporated
+      into kin groups, houses, clans, or status systems after conflict.
+    parent_group_ids:
+    - sacred_law
+    - covenant
+    related_group_ids:
+    - sacred_combat
+    - initiation
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing combat groups cover the conflict
+      but not the social-kinship transformation of captives.
+- suggestion_id: normalization.suggestion.war-captives-transformed-into-house-building-and-potlatch-status
+  motif_id: war_captives_transformed_into_house_building_and_potlatch_status
+  label: war captives transformed into house-building and potlatch status
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines warfare, captive status, house construction, and potlatch
+    prestige in a culturally specific way.
+  cautions: Needs expert review; do not flatten Northwest Coast social-ritual context
+    into generic combat or craft without passage evidence.
+  suggested_aliases:
+  - war_captives_converted_to_house_and_potlatch_status
+  - captives_transformed_into_status_resources
+  suggested_new_group:
+    id: captive_incorporation_status_transformation
+    label: Captive Incorporation and Status Transformation
+    description: Captives or defeated outsiders are transformed into social, ritual,
+      architectural, or prestige value within a community's status system.
+    parent_group_ids:
+    - sacred_law
+    - sacred_exchange
+    related_group_ids:
+    - sacred_combat
+    - sacred_craft
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover warfare, exchange,
+      and craft separately but not the culturally specific transformation of captives
+      into status-bearing social value.
+- suggestion_id: normalization.suggestion.war-crow-image-of-carnage
+  motif_id: war_crow_image_of_carnage
+  label: war-crow image of carnage
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Carrion-crow imagery marks battlefield slaughter and war power, fitting
+    sacred combat/divine-warrior symbolism.
+  cautions: If the crow is a specific deity, omen, or shapeshifted figure, consider
+    prophecy_divination, dream_and_vision, or shapeshifter as secondary mappings.
+  suggested_aliases:
+  - battle_crow_image_of_carnage
+  - carrion_crow_battlefield_slaughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and scene-specific; preserve granular wording
+  as evidence notes unless recurrence supports alias promotion.
+- Captive-incorporation labels require human review because they involve culturally
+  specific social and ritual status transformations not cleanly represented by current
+  groups.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; war-captive and wagering-game labels especially
+    need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2849
+  input_sha256: 467654390b4ad53bd26e06294eaf0c59af9c3bad9c419c9be913cc58d4af84c7
+

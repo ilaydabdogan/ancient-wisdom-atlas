@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0634
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.temporary-departure-to-evade-supervision
+  motif_id: temporary_departure_to_evade_supervision
+  label: temporary departure to evade supervision
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: A departure from supervision may be a journey episode, escape stratagem,
+    or local plot detail.
+  cautions: Single occurrence and motive is evasive rather than clearly initiatory
+    or transformative; source context needed.
+  suggested_aliases:
+  - evasive_departure
+  - departure_to_escape_supervision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-exception-under-travel-illness-care-or-seclusion
+  motif_id: temporary_exception_under_travel_illness_care_or_seclusion
+  label: Temporary exception under travel, illness, care, or seclusion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a rule exception governed by ritual, monastic, or
+    ethical regulation.
+  cautions: May be a legal/commentarial rule rather than a narrative motif; preserve
+    travel, illness, care, and seclusion specifics as evidence.
+  suggested_aliases:
+  - temporary_rule_exception
+  - conditional_exception_for_travel_or_illness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-kin-and-totem-revenge-leadership
+  motif_id: temporary_kin_and_totem_revenge_leadership
+  label: temporary kin-and-totem revenge leadership
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: low
+  rationale: Revenge leadership tied to kin or totem obligations may fit ritualized
+    conflict.
+  cautions: Culturally specific social office; could belong to sacred law, revenge
+    warfare, or ethnographic detail. Human review needed before indexing.
+  suggested_aliases:
+  - temporary_revenge_leader
+  - kin_totem_revenge_leadership
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-rejuvenation-for-courtship
+  motif_id: temporary_rejuvenation_for_courtship
+  label: Temporary rejuvenation for courtship
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejuvenation serves courtship and mate-seeking, placing the function
+    under love and courtship motifs.
+  cautions: If the passage emphasizes magical age renewal more than courtship, death_and_transformation
+    or sacred_substance may be secondary.
+  suggested_aliases:
+  - youth_restored_for_courtship
+  - temporary_youth_for_courtship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-use-rights-exchanged-instead-of-ownership-transfer
+  motif_id: temporary_use_rights_exchanged_instead_of_ownership_transfer
+  label: Temporary use-rights exchanged instead of ownership transfer
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a social-property or ethnographic legal detail rather than
+    a mythic motif.
+  cautions: If a passage frames exchange obligations as sacred reciprocity, it may
+    be reviewed under sacred_exchange; otherwise exclude from broad motif queries.
+  suggested_aliases:
+  - temporary_use_rights_exchange
+  - use_rights_without_ownership_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-vessel-for-a-single-crossing
+  motif_id: temporary_vessel_for_a_single_crossing
+  label: temporary vessel for a single crossing
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vessel made or used for one crossing supports water passage as boundary
+    crossing.
+  cautions: If the vessel preserves life through catastrophe, flood_and_renewal or
+    sacred_vessel may be better; otherwise this may be an over-specific travel detail.
+  suggested_aliases:
+  - single_crossing_vessel
+  - temporary_crossing_boat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-war-leadership-ending-after-the-campaign
+  motif_id: temporary_war_leadership_ending_after_the_campaign
+  label: temporary war leadership ending after the campaign
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: Campaign-limited leadership is a warfare role pattern tied to organized
+    conflict.
+  cautions: May be a social organization detail rather than symbolic motif; consider
+    sacred_law or royal_legitimacy if authority structure is the focus.
+  suggested_aliases:
+  - campaign_limited_war_leadership
+  - temporary_war_leader
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tempter-obstructs-sacred-departure
+  motif_id: tempter_obstructs_sacred_departure
+  label: tempter obstructs sacred departure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: An obstructing tempter at sacred departure fits the seeker’s spiritual
+    quest and renunciatory threshold.
+  cautions: Could also index secondarily under initiation or hero_journey if the passage
+    emphasizes departure structure rather than temptation.
+  suggested_aliases:
+  - temptation_obstructs_departure
+  - obstructed_sacred_departure
+  - tempter_at_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tempting-or-enchanted-food-on-the-journey
+  motif_id: tempting_or_enchanted_food_on_the_journey
+  label: tempting or enchanted food on the journey
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Enchanted food functions as a charged substance affecting a journey or
+    ordeal.
+  cautions: If food is a lure or trap, trickster or threshold_guardian may be better;
+    if it marks hospitality, use sacred_exchange.
+  suggested_aliases:
+  - enchanted_food_on_the_journey
+  - tempting_food_during_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ten-stage-journey-marked-by-campfire-remains
+  motif_id: ten_stage_journey_marked_by_campfire_remains
+  label: ten-stage journey marked by campfire remains
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: A staged journey may fit hero_journey, but the ten stages and campfire
+    remains are highly specific markers.
+  cautions: Could be a passage-specific itinerary or tracking clue rather than a reusable
+    motif; verify recurrence and function before mapping.
+  suggested_aliases:
+  - staged_journey_marked_by_campfires
+  - journey_traced_by_campfire_remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and socially or ritually specific;
+  suggested placements should be treated as provisional.
+- Do not infer transmission or shared origin from placement under common journey,
+  law, combat, or substance groups.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for batch wave5c-0634; human review
+    recommended for culturally specific leadership, rule-exception, and over-specific
+    journey labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0634
+  input_sha256: 65219bda865a12585dbcaf0757de7cda18f6fa6f783fcc27da5601deb6010348
+

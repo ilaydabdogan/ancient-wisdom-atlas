@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1081
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-seclusion-and-fasting-before-acquiring-dangerous-power
+  motif_id: ritual_seclusion_and_fasting_before_acquiring_dangerous_power
+  label: Ritual seclusion and fasting before acquiring dangerous power
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Seclusion and fasting before dangerous power acquisition functions as
+    preparatory ordeal and status transformation.
+  cautions: Single occurrence; if the emphasis is renunciation or offering rather
+    than transformation, sacrifice or sacred_exchange may be secondary.
+  suggested_aliases:
+  - ritual_seclusion_before_power_acquisition
+  - fasting_before_dangerous_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-secrecy-amid-limited-christian-contact
+  motif_id: ritual_secrecy_amid_limited_christian_contact
+  label: Ritual secrecy amid limited Christian contact
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label appears to describe historical or ethnographic context around
+    contact and secrecy rather than a narrative motif.
+  cautions: Preserve as provenance/context if useful; do not use as evidence of transmission
+    or contact in motif normalization.
+  suggested_aliases:
+  - ritual_secrecy_under_contact_conditions
+  - ritual_secrecy_in_contact_context
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-self-wounding-or-apparent-self-wounding-display
+  motif_id: ritual_self_wounding_or_apparent_self_wounding_display
+  label: Ritual self-wounding or apparent self-wounding display
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual self-wounding displays bodily surrender or controlled harm as
+    a ritual act, fitting sacrifice broadly.
+  cautions: Could be performance, healing, ordeal, or shamanic power display rather
+    than sacrifice; source evidence should confirm ritual function.
+  suggested_aliases:
+  - ritual_self_wounding
+  - ritualized_self_injury_display
+  - apparent_self_wounding_display
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-separation-and-fasting-before-a-public-ceremony
+  motif_id: ritual_separation_and_fasting_before_a_public_ceremony
+  label: Ritual separation and fasting before a public ceremony
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Required separation and fasting before ceremony are ritual purity and
+    preparation rules, fitting sacred law.
+  cautions: If the ceremony marks status change, initiation may be a better primary
+    mapping; single occurrence may be too procedural.
+  suggested_aliases:
+  - pre_ceremonial_separation_and_fasting
+  - ritual_preparation_by_fasting_and_seclusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-separation-by-measured-distance
+  motif_id: ritual_separation_by_measured_distance
+  label: ritual separation by measured distance
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Measured ritual distance is a purity or taboo regulation governing sacred
+    separation.
+  cautions: Likely a granular ritual rule; preserve measurement detail as evidence
+    rather than promoting as canonical motif.
+  suggested_aliases:
+  - measured_ritual_distance
+  - ritual_distance_rule
+  - purity_separation_by_measured_distance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-separation-by-throwing-outside-a-circle
+  motif_id: ritual_separation_by_throwing_outside_a_circle
+  label: ritual separation by throwing outside a circle
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Throwing something outside a ritual circle suggests expulsion or boundary-sealing,
+    already folded under sacrifice's ritual expulsion complex.
+  cautions: If no harm, impurity, or substitute is expelled, sacred_law or threshold
+    symbolism may fit better; source context needed.
+  suggested_aliases:
+  - ritual_expulsion_outside_circle
+  - throwing_outside_ritual_circle
+  - circle_boundary_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-separation-followed-by-washing
+  motif_id: ritual_separation_followed_by_washing
+  label: ritual separation followed by washing
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Separation followed by washing is a purification sequence governed by
+    ritual law.
+  cautions: Could also support sacred_waters if water symbolism or passage through
+    water is central; likely too procedural as a standalone motif.
+  suggested_aliases:
+  - purification_by_separation_and_washing
+  - ritual_washing_after_separation
+  - separation_then_washing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-separation-from-women-during-subsistence-activity
+  motif_id: ritual_separation_from_women_during_subsistence_activity
+  label: ritual separation from women during subsistence activity
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label likely describes a gendered ritual taboo or purity rule during
+    food-getting activity.
+  cautions: Culturally sensitive and context-dependent; avoid normalizing gender separation
+    without source evidence about ritual function, taboo, or subsistence practice.
+  suggested_aliases:
+  - gendered_ritual_separation_during_subsistence
+  - subsistence_activity_taboo_separation
+  - ritual_gender_separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-separation-of-stillbirth-impurity-from-sacred-presences
+  motif_id: ritual_separation_of_stillbirth_impurity_from_sacred_presences
+  label: Ritual separation of stillbirth impurity from sacred presences
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: This is a ritual purity regulation separating death/birth impurity from
+    sacred presence.
+  cautions: Sensitive mortuary and reproductive context; preserve local terminology
+    and avoid broad claims beyond purity-law placement.
+  suggested_aliases:
+  - stillbirth_impurity_separated_from_sacred_presence
+  - ritual_separation_of_birth_death_impurity
+  - stillbirth_purity_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-sequence-of-increasing-intimacy
+  motif_id: ritual_sequence_of_increasing_intimacy
+  label: ritual sequence of increasing intimacy
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too abstract to determine whether it concerns initiation,
+    sacred exchange, marriage, kinship, or ceremony structure.
+  cautions: Single occurrence and likely depends on ethnographic context; review source
+    before mapping to ritual, love, kinship, or social-order groups.
+  suggested_aliases:
+  - graded_ritual_intimacy_sequence
+  - ritual_progression_of_intimacy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence procedural ritual labels; preserve
+  granular details as evidence notes rather than promoting new taxonomy families.
+- Several separation/purity items fit sacred_law broadly, while expulsion across a
+  ritual boundary may fit the existing sacrifice ritual-expulsion complex.
+- Labels involving contact history, gendered restrictions, reproductive impurity,
+  or ethnographic secrecy require culturally careful human review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source context should confirm whether procedural
+    ritual details are motifs or ethnographic passage artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1081
+  input_sha256: 0e084c32805b8431de8224759d690c65eaac97eab448c34ca6a3e8627fb15b93
+

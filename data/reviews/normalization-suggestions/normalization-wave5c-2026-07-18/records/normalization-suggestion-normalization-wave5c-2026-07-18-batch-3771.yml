@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3771
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.pest-damage-prompting-elevated-storage
+  motif_id: pest_damage_prompting_elevated_storage
+  label: Pest damage prompting elevated storage
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a practical storage detail or etiological explanation
+    rather than a durable symbolic motif.
+  cautions: If the passage frames elevated storage as sacred law, animal trickery,
+    or divine instruction, it may need re-review; otherwise preserve only as evidence
+    detail.
+  suggested_aliases:
+  - pest_damage_leads_to_elevated_storage
+  - elevated_storage_to_avoid_pests
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pestilence-defeats-or-disables-an-invading-army
+  motif_id: pestilence_defeats_or_disables_an_invading_army
+  label: Pestilence defeats or disables an invading army
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A plague disabling an army often functions as supernatural intervention
+    in conflict, especially where disease redirects human affairs.
+  cautions: If the pestilence is explicitly punishment for transgression, divine_judgment
+    may be primary; if it is ordinary battlefield misfortune, consider excluding or
+    mapping to sacred_combat only as context.
+  suggested_aliases:
+  - pestilence_defeats_invading_army
+  - plague_disables_enemy_army
+  - disease_as_supernatural_military_deliverance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pestilence-overwhelming-a-community
+  motif_id: pestilence_overwhelming_a_community
+  label: pestilence overwhelming a community
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Pestilence may signal divine judgment, ritual impurity, communal catastrophe,
+    or a historical setting; the label alone does not identify the narrative function.
+  cautions: Map to divine_judgment only if the plague is sacred punishment or moral
+    reckoning; map to sacrifice/sacred_law if ritual expiation or purification is
+    central; exclude if merely contextual disease history.
+  suggested_aliases:
+  - community_overwhelmed_by_pestilence
+  - plague_afflicts_a_community
+  - communal_pestilence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petition-for-successful-and-safe-hunting
+  motif_id: petition_for_successful_and_safe_hunting
+  label: Petition for successful and safe hunting
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual petition for hunting success and safety fits reciprocal request-making
+    between humans and sacred powers.
+  cautions: Culturally specific hunting rites should preserve local meaning; if the
+    passage centers on animal spirits or taboo obligations, sacred_law or divine_intervention
+    may be relevant secondary placements.
+  suggested_aliases:
+  - hunting_petition_for_success_and_safety
+  - prayer_for_safe_successful_hunt
+  - ritual_petition_for_hunting_success
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petition-for-weather-through-supernatural-intercession
+  motif_id: petition_for_weather_through_supernatural_intercession
+  label: petition for weather through supernatural intercession
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Weather petition through sacred mediation is a ritual request within
+    human-supernatural reciprocity.
+  cautions: May overlap with divine_intervention if the emphasis is the supernatural
+    response, or sacred_time if tied to seasonal rites; review culturally specific
+    terminology carefully.
+  suggested_aliases:
+  - weather_petition_through_supernatural_intercession
+  - ritual_petition_for_weather
+  - prayer_for_weather_by_supernatural_intercession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petition-to-a-supernatural-or-monstrous-taker
+  motif_id: petition_to_a_supernatural_or_monstrous_taker
+  label: petition to a supernatural or monstrous taker
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The role of the 'taker' is unclear and could involve supplication, threshold
+    danger, predation, abduction, or exchange.
+  cautions: Need source context to decide between sacred_exchange, threshold_guardian,
+    trickster, divine_intervention, or exclusion as an over-specific episode label.
+  suggested_aliases:
+  - petition_to_supernatural_taker
+  - supplication_to_monstrous_taker
+  - plea_to_a_supernatural_abductor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petition-to-sovereign-for-military-rescue
+  motif_id: petition_to_sovereign_for_military_rescue
+  label: petition to sovereign for military rescue
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Appeal to a sovereign for rescue highlights the ruler's protective and
+    legitimating military role.
+  cautions: If the sovereign is divine or the rescue is miraculous, divine_intervention
+    or divine_warrior may be better; if merely political correspondence, exclude as
+    contextual detail.
+  suggested_aliases:
+  - appeal_to_sovereign_for_military_rescue
+  - petition_for_royal_military_rescue
+  - request_to_king_for_military_deliverance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petitioning-a-powerful-chief-for-help
+  motif_id: petitioning_a_powerful_chief_for_help
+  label: petitioning a powerful chief for help
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad social action and does not by itself show sacred exchange,
+    kingship legitimacy, or heroic rescue.
+  cautions: Map to royal_legitimacy if the chief's protective authority is thematized;
+    to sacred_exchange if gift/obligation reciprocity is central; otherwise exclude
+    as plot detail.
+  suggested_aliases:
+  - petition_to_a_chief_for_help
+  - appeal_to_powerful_chief
+  - request_for_help_from_a_chief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petrification-after-failed-attempts
+  motif_id: petrification_after_failed_attempts
+  label: petrification after failed attempts
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Petrification is a bodily transformation that may function as deathlike
+    punishment or failed ordeal outcome.
+  cautions: If caused by monster sight or a magical object, sacred_treasures or threshold_guardian
+    may be secondary; if framed as moral punishment, divine_judgment may be primary.
+  suggested_aliases:
+  - failed_attempts_result_in_petrification
+  - petrification_as_failed_ordeal_outcome
+  - transformation_to_stone_after_failure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.petrification-as-emotional-insensibility
+  motif_id: petrification_as_emotional_insensibility
+  label: petrification as emotional insensibility
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears metaphorical or psychological rather than a clear narrative
+    transformation motif.
+  cautions: Map to death_and_transformation only if literal or mythically operative
+    petrification occurs; if it is a literary metaphor for emotional numbness, exclude
+    from motif queries or preserve as evidence detail.
+  suggested_aliases:
+  - petrification_as_emotional_numbness
+  - stone_like_emotional_insensibility
+  - emotional_insensibility_as_petrification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several petition labels may be ritual-action motifs, but source context is needed
+  to distinguish sacred reciprocity from ordinary political or social requests.
+- Pestilence labels should not be automatically mapped to flood/catastrophe; distinguish
+  disease as divine judgment, intervention in battle, ritual crisis, or historical
+  setting.
+- Petrification labels require review for literal transformation versus metaphorical
+  or literary usage.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3771
+  input_sha256: 9779340dc05537e22e3aa519879e286d8234681fe533792e642da2dcc84acb41
+

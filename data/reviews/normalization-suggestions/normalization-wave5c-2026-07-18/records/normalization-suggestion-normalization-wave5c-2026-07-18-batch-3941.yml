@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3941
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sequence-of-last-age-apostles-with-restorative-missions
+  motif_id: sequence_of_last_age_apostles_with_restorative_missions
+  label: Sequence of last-age apostles with restorative missions
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears eschatological and mission-oriented, but current groups
+    do not clearly cover last-age savior/apostle sequences.
+  cautions: Single occurrence and tradition-specific; may need an eschatology/restoration
+    candidate if recurring, or may be a source-specific doctrinal detail.
+  suggested_aliases:
+  - last_age_restorative_apostles
+  - eschatological_restorative_missions
+  - sequence_of_end_time_messengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - world_ages_cosmic_decline
+    - divine_intervention
+    - sacred_knowledge
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequential-ambush-by-hidden-allies
+  motif_id: sequential_ambush_by_hidden_allies
+  label: sequential ambush by hidden allies
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes a combat tactic in which concealed allies attack
+    in sequence, fitting warfare and battle-stratagem patterns.
+  cautions: May be an episode-specific military detail rather than a durable motif;
+    use trickster only if deception is the central function.
+  suggested_aliases:
+  - hidden_allies_sequential_ambush
+  - staged_ambush_by_concealed_allies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequential-brothers-as-rejected-suitors
+  motif_id: sequential_brothers_as_rejected_suitors
+  label: Sequential brothers as rejected suitors
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on repeated courtship or marriage-choice failure, which
+    fits the sacred_love group’s suitor and bride-choice patterns.
+  cautions: Could also involve sibling-pair sequencing or trickster comedy depending
+    on passage evidence; single occurrence is likely too granular.
+  suggested_aliases:
+  - brothers_as_rejected_suitors
+  - repeated_rejection_of_sibling_suitors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequential-hospitality-at-way-stations
+  motif_id: sequential_hospitality_at_way_stations
+  label: Sequential hospitality at way-stations
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repeated lodging or feeding at way-stations belongs with hospitality
+    obligations encountered during travel.
+  cautions: If no testing, sacred obligation, or stranger-host relation is present,
+    this may be only a travel-episode structure under hero_journey.
+  suggested_aliases:
+  - repeated_hospitality_at_waystations
+  - hospitality_sequence_during_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequential-lending-turns-into-irreversible-appropriation
+  motif_id: sequential_lending_turns_into_irreversible_appropriation
+  label: sequential lending turns into irreversible appropriation
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A loan becoming permanent appropriation centers on violated trust and
+    broken reciprocal obligation.
+  cautions: Could fit sacred_exchange if the emphasis is reciprocity rather than betrayal;
+    may be a legal/social anecdote rather than mythic motif.
+  suggested_aliases:
+  - loan_becomes_theft
+  - borrowed_goods_irreversibly_appropriated
+  - lending_betrayed_by_appropriation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequential-lethal-path-guardians
+  motif_id: sequential_lethal_path_guardians
+  label: Sequential lethal path guardians
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: narrower_than
+  confidence: high
+  rationale: Lethal guardians encountered along a path clearly function as repeated
+    boundary obstacles to passage.
+  cautions: If the path is explicitly postmortem, afterlife_passage may be a secondary
+    mapping; if it is an initiation journey, initiation may also apply.
+  suggested_aliases:
+  - series_of_lethal_path_guardians
+  - successive_guardians_on_dangerous_path
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - initiation
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequential-lodges-of-kin-defenders
+  motif_id: sequential_lodges_of_kin_defenders
+  label: Sequential lodges of kin defenders
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a journey through kin-based protective stations, but
+    the narrative function is unclear from the wording alone.
+  cautions: Could involve hospitality, threshold guardians, kinship alliance, or combat
+    protection; source evidence is needed before placement.
+  suggested_aliases:
+  - series_of_kin_defender_lodges
+  - sequential_kin_protectors_at_lodges
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - hero_journey
+    - threshold_guardian
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequential-refinement-of-rules-through-practical-failures
+  motif_id: sequential_refinement_of_rules_through_practical_failures
+  label: Sequential refinement of rules through practical failures
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns rules being adjusted through lived failures, fitting
+    sacred law and practical regulation of conduct.
+  cautions: May be a monastic/legal commentary artifact rather than a narrative motif;
+    consider exclusion if it only summarizes editorial legal development.
+  suggested_aliases:
+  - rules_refined_after_failures
+  - practical_failures_generate_rule_refinement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequential-suitors-judged-by-a-repeated-physical-attribute
+  motif_id: sequential_suitors_judged_by_a_repeated_physical_attribute
+  label: Sequential suitors judged by a repeated physical attribute
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: A sequence of suitors evaluated for marriage or courtship belongs with
+    bride-choice and suitor-testing patterns in sacred_love.
+  cautions: The physical-attribute criterion may be a local comic or recognition detail;
+    do not promote unless it recurs across sources.
+  suggested_aliases:
+  - suitor_sequence_judged_by_body_trait
+  - repeated_physical_attribute_suitor_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.serenade-with-scraping-stick-instrument
+  motif_id: serenade_with_scraping_stick_instrument
+  label: serenade with scraping-stick instrument
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: narrower_than
+  confidence: medium
+  rationale: A serenade using a named instrument is a music-performance motif and
+    may fit sound power if it affects courtship or action.
+  cautions: The scraping-stick instrument may be culturally specific performance detail;
+    if no supernatural or compelling function is present, preserve as evidence detail
+    rather than broad pattern.
+  suggested_aliases:
+  - scraping_stick_serenade
+  - courtship_serenade_with_scraper_instrument
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and sequence-structured; review should distinguish
+  reusable motif function from episode ordering artifacts.
+- Do not infer transmission or contact from shared placement; suggested groups only
+  support broad query organization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements; several items require source passage review before
+    taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3941
+  input_sha256: 295fc0c574e58e6a340640c0c52b643910036a83d9845aea5b0b9141246d556a
+

@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1832
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.failed-warning-by-watched-wife
+  motif_id: failed_warning_by_watched_wife
+  label: failed warning by watched wife
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label implies a family/household warning blocked by surveillance,
+    but the narrative function is unclear from wording alone.
+  cautions: Single occurrence; could be marital betrayal, captivity, taboo violation,
+    failed prophecy, or passage-specific plot detail.
+  suggested_aliases:
+  - watched wife fails to warn
+  - surveilled wife unable to warn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-watch-enables-supernatural-or-extraordinary-birth
+  motif_id: failed_watch_enables_supernatural_or_extraordinary_birth
+  label: failed watch enables supernatural or extraordinary birth
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: The central function is an extraordinary or supernatural birth, which
+    fits sacred birth and miraculous child patterns.
+  cautions: The failed watch may be a local plot mechanism; preserve it as evidence
+    detail unless it recurs.
+  suggested_aliases:
+  - failed guardianship before extraordinary birth
+  - failed watch permits miraculous birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fairy-musicians-and-their-parentage
+  motif_id: fairy_musicians_and_their_parentage
+  label: fairy musicians and their parentage
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines fairy identity, music, and genealogy without showing
+    whether music, otherworld origin, or parentage is the motif function.
+  cautions: Could map to enchanting_music, otherworld, or a lineage/parentage detail;
+    may be too contextual for pattern queries.
+  suggested_aliases:
+  - fairy musicians genealogy
+  - parentage of fairy musicians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-child-accompanies-ruined-parent
+  motif_id: faithful_child_accompanies_ruined_parent
+  label: faithful child accompanies ruined parent
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: Filial loyalty to a fallen parent fits ethical duty and social order
+    more than birth or romance motifs.
+  cautions: May be a literary exemplum of filial piety rather than a durable mythic
+    motif; review source context.
+  suggested_aliases:
+  - filial loyalty to ruined parent
+  - child accompanies fallen parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-companion-secretly-protects-the-bridegroom-and-bride
+  motif_id: faithful_companion_secretly_protects_the_bridegroom_and_bride
+  label: Faithful companion secretly protects the bridegroom and bride
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The protection serves a marriage pair and thus fits the sacred love/marriage
+    field provisionally.
+  cautions: Could instead belong with helper/guardian, divine intervention, or trickster-stratagem
+    depending on whether the companion is supernatural or deceptive.
+  suggested_aliases:
+  - secret helper protects bridal pair
+  - faithful companion protects newlyweds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-servant-spares-a-condemned-child
+  motif_id: faithful_servant_spares_a_condemned_child
+  label: faithful servant spares a condemned child
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A threatened child saved from execution fits the protected or endangered
+    child pattern within miraculous child motifs.
+  cautions: If the child has no sacred destiny, this may be household loyalty or court-intrigue
+    detail rather than miraculous-child evidence.
+  suggested_aliases:
+  - servant spares threatened child
+  - loyal servant rescues condemned child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-wife-delays-remarriage-by-stratagem
+  motif_id: faithful_wife_delays_remarriage_by_stratagem
+  label: faithful wife delays remarriage by stratagem
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marital fidelity maintained through delaying remarriage fits enduring
+    love and fidelity motifs.
+  cautions: The stratagem element may also connect to trickster or hidden-identity
+    narrative; preserve specificity as evidence detail.
+  suggested_aliases:
+  - faithful wife postpones remarriage
+  - wife uses stratagem to preserve fidelity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithful-wife-enduring-a-harsh-or-sick-husband
+  motif_id: faithful_wife_enduring_a_harsh_or_sick_husband
+  label: faithful wife enduring a harsh or sick husband
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may encode marital fidelity, patient endurance, ethical duty,
+    or gendered moral exemplum depending on source framing.
+  cautions: Culturally sensitive gender-role motif; avoid normalizing as virtue without
+    reviewing passage context and narrative judgment.
+  suggested_aliases:
+  - wife endures harsh husband
+  - faithful wife cares for sick husband
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faithless-wife-punished-after-hidden-hero-is-revealed
+  motif_id: faithless_wife_punished_after_hidden_hero_is_revealed
+  label: faithless wife punished after hidden hero is revealed
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: The core narrative movement is exposure of wrongdoing followed by punishment,
+    fitting moral reckoning.
+  cautions: May also involve recognition_tokens_hidden_identity or sacred_love; gendered
+    punishment framing needs human review.
+  suggested_aliases:
+  - unfaithful wife punished after hero revealed
+  - hidden hero reveals faithless spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-angels-and-intercourse-with-daughters-of-men-as-interpretive-tradition
+  motif_id: fallen_angels_and_intercourse_with_daughters_of_men_as_interpretive_tradition
+  label: fallen angels and intercourse with daughters of men as interpretive tradition
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'as interpretive tradition' marks a reception or commentary
+    classification rather than a direct motif label.
+  cautions: If a source passage narrates angelic descent or unions producing offspring,
+    create or map a separate narrative motif; exclude this interpretive-tradition
+    wording from pattern queries.
+  suggested_aliases:
+  - fallen angels tradition
+  - watchers and daughters of men interpretive tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence family or marital-role motifs;
+  source context is needed before promoting any new kinship/fidelity group.
+- Do not infer transmission or borrowing from shared placement; these suggestions
+  only support normalization review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; gendered fidelity and punishment motifs especially
+    need contextual human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1832
+  input_sha256: 2b83ebf52edbd009fefa9e3490249d8f9968791b7ed7eb92f97c2dc864b7625e
+

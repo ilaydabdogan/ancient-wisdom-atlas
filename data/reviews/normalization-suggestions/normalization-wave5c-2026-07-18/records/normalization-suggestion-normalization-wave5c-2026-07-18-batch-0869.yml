@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0869
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hierarchical-ransom-by-household-temple-and-palace
+  motif_id: hierarchical_ransom_by_household_temple_and_palace
+  label: Hierarchical ransom by household, temple, and palace
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ransom implies compensatory sacred exchange, but household-temple-palace
+    hierarchy may be a legal or administrative detail.
+  cautions: Single occurrence and culturally specific Mesopotamian institutional context;
+    verify whether this is ritual ransom, social hierarchy, or passage-specific law.
+  suggested_aliases:
+  - institutional_ransom_hierarchy
+  - ransom_by_household_temple_and_palace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hierarchical-ritual-ordering
+  motif_id: hierarchical_ritual_ordering
+  label: hierarchical ritual ordering
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Confucian ritual hierarchy fits sacred or sacralized social order expressed
+    through regulated rites.
+  cautions: May be too abstract; confirm that a ritual sequence or social ordering
+    principle is actually present, not just commentary.
+  suggested_aliases:
+  - ritual_hierarchy
+  - sacral_hierarchical_ordering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hierarchical-ritual-posture-and-synchronized-participation
+  motif_id: hierarchical_ritual_posture_and_synchronized_participation
+  label: hierarchical ritual posture and synchronized participation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Regulated posture and synchronized participation suggest embodied ritual
+    order under sacred law or discipline.
+  cautions: Could be descriptive liturgical choreography rather than a reusable mythic
+    motif; Buddhist context may emphasize discipline, community, or ritual protocol.
+  suggested_aliases:
+  - synchronized_ritual_posture
+  - hierarchical_embodied_ritual_participation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hierarchical-sacred-office
+  motif_id: hierarchical_sacred_office
+  label: hierarchical sacred office
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: A ranked sacred office concerns authorized religious status and institutional
+    legitimacy.
+  cautions: If the label refers only to priestly administration without mythic authorization,
+    it may be an institutional detail better reviewed under sacred_law or excluded.
+  suggested_aliases:
+  - ranked_sacred_office
+  - hierarchy_of_religious_office
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hierarchy-of-sacred-calendar-days
+  motif_id: hierarchy_of_sacred_calendar_days
+  label: Hierarchy of sacred calendar days
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ranking or ordering holy days fits the existing sacred_time group for
+    divinely or ritually ordered calendars.
+  cautions: Preserve whether the hierarchy is calendrical law, apocalyptic cosmology,
+    or liturgical practice.
+  suggested_aliases:
+  - ranked_sacred_days
+  - hierarchical_sacred_calendar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.high-god-sends-winged-divine-messenger-with-battle-command
+  motif_id: high_god_sends_winged_divine_messenger_with_battle_command
+  label: high god sends winged divine messenger with battle command
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A deity sending a messenger with a command is direct divine intervention
+    in human or battlefield affairs.
+  cautions: Secondary relation to divine_warrior may apply if the battle command determines
+    combat; winged form is evidence detail.
+  suggested_aliases:
+  - divine_messenger_with_battle_command
+  - high_god_sends_battle_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-adept-demonstrates-life-sustained-by-divine-will-rather-than-blood
+  motif_id: holy_adept_demonstrates_life_sustained_by_divine_will_rather_than_blood
+  label: Holy adept demonstrates life sustained by divine will rather than blood
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: low
+  rationale: A holy adept demonstrating dependence on divine will may express mystical
+    realization or saintly miracle rather than ritual sacrifice.
+  cautions: Highly specific and possibly hagiographic; could map to divine_intervention,
+    sacred_substance/blood symbolism, or be preserved only as evidence detail.
+  suggested_aliases:
+  - life_sustained_by_divine_will
+  - holy_adept_transcends_blood_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-and-worldly-reward-for-chivalric-defense
+  motif_id: holy_and_worldly_reward_for_chivalric_defense
+  label: holy and worldly reward for chivalric defense
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Chivalric defense rewarded in sacred and worldly terms fits sacralized
+    heroic combat and warrior honor.
+  cautions: If the main theme is ethical recompense rather than combat, divine_judgment
+    or covenant may be better; single occurrence is broad but contextual.
+  suggested_aliases:
+  - sacred_reward_for_chivalric_defense
+  - worldly_and_holy_reward_for_defense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-animal-as-mediator-between-animal-and-divine-realms
+  motif_id: holy_animal_as_mediator_between_animal_and_divine_realms
+  label: holy animal as mediator between animal and divine realms
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sacred Animals and Divine Mediation
+  relationship: role_variant
+  confidence: medium
+  rationale: A holy animal mediating between realms is not captured well by shapeshifter,
+    animal helpers, or sacred_law because the animal's mediating sacred role is central.
+  cautions: Review Zoroastrian source context carefully; may be legal, ritual, cosmological,
+    or species-specific rather than a broad motif.
+  suggested_aliases:
+  - holy_animal_mediator
+  - sacred_animal_as_divine_mediator
+  suggested_new_group:
+    id: sacred_animals_divine_mediation
+    label: Sacred Animals and Divine Mediation
+    description: Animals treated as holy, ritually protected, or mediating agents
+      between human, animal, and divine realms, especially where their sacred status
+      is the motif rather than helper action or transformation.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    related_group_ids:
+    - animal_helpers
+    - sacred_substance
+    - sacrifice
+    reason_existing_groups_insufficient: Existing groups cover animal helpers, transformation,
+      taboo law, and intervention, but not holy animals whose ritual or cosmological
+      status mediates between realms.
+- suggestion_id: normalization.suggestion.holy-animals-in-ritual-or-legal-context
+  motif_id: holy_animals_in_ritual_or_legal_context
+  label: holy animals in ritual or legal context
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Holy animals governed by ritual or legal rules fit sacred law, taboo,
+    and sacral social order.
+  cautions: If the animal's active mediating role is central, consider the sacred_animals_divine_mediation
+    candidate; otherwise avoid overpromoting a legal category.
+  suggested_aliases:
+  - ritual_law_for_holy_animals
+  - holy_animals_under_sacred_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence institutional or ritual-order
+  descriptions; human review should distinguish recurring motif from legal, liturgical,
+  or commentary detail.
+- Zoroastrian holy-animal labels may indicate a gap for sacred animal status and mediation,
+  but source evidence should confirm that this is more than ritual law or animal-helper
+  imagery.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; one new group candidate proposed for sacred
+    animal mediation pending taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0869
+  input_sha256: ebbd51edeffd985a1db21431404c40649f790a1f87e5ff98163057b99b465a39
+

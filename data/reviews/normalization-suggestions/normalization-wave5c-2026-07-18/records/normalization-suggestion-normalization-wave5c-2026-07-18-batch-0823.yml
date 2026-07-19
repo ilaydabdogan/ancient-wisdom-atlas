@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0823
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.exclusive-spouse-mediated-water-ritual
+  motif_id: exclusive_spouse_mediated_water_ritual
+  label: Exclusive spouse-mediated water ritual
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marital exclusivity, mediation, and water ritual;
+    function is unclear from label alone.
+  cautions: Culturally specific single occurrence; may involve sacred_waters, sacred_law,
+    sacred_exchange, or kinship ritual depending on source evidence.
+  suggested_aliases:
+  - spouse_mediated_water_rite
+  - exclusive_spousal_water_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exclusive-vessel-and-commensality-taboo
+  motif_id: exclusive_vessel_and_commensality_taboo
+  label: Exclusive vessel and commensality taboo
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo regulating vessels and eating together fits ritual prohibition
+    and purity/social-order rules.
+  cautions: Could also relate to sacred_vessel if the container itself carries power;
+    preserve commensality specificity as evidence detail.
+  suggested_aliases:
+  - commensality_taboo
+  - exclusive_vessel_taboo
+  - ritual_commensality_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exemplary-filial-mourning-as-ritual-pattern
+  motif_id: exemplary_filial_mourning_as_ritual_pattern
+  label: Exemplary filial mourning as ritual pattern
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core pattern is exemplary mourning structured as a ritual response
+    to death.
+  cautions: Confucian filial duty may also fit sacred_law or ancestor_rites if the
+    passage emphasizes normative obligation or care for ancestors rather than grief
+    expression.
+  suggested_aliases:
+  - filial_mourning_rite
+  - exemplary_filial_grief
+  - ritualized_filial_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exogroup-only-cannibalism-and-kin-consumption-taboo
+  motif_id: exogroup_only_cannibalism_and_kin_consumption_taboo
+  label: Exogroup-only cannibalism and kin consumption taboo
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a culturally specific food/kinship taboo whose ritual
+    or narrative function is not evident from the label alone.
+  cautions: Sensitive ethnographic category; avoid flattening into generic sacred_law
+    without source review. Could involve mortuary cannibalism, kinship boundaries,
+    enemy relations, or commentary artifact.
+  suggested_aliases:
+  - kin_consumption_taboo
+  - exogroup_cannibalism_rule
+  - cannibalism_commensality_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exorcistic-healing-by-ritual-specialist
+  motif_id: exorcistic_healing_by_ritual_specialist
+  label: Exorcistic healing by ritual specialist
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Existing sacrifice group already contains exorcism, spirit-affliction,
+    and ritual-expulsion variants.
+  cautions: If healing agency rather than expulsion is central, divine_intervention
+    or soul_loss_restoration may be relevant as secondary review links.
+  suggested_aliases:
+  - exorcistic_healing
+  - ritual_specialist_exorcism
+  - spirit_expulsion_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expiatory-fire-leaping-rite
+  motif_id: expiatory_fire_leaping_rite
+  label: expiatory fire-leaping rite
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A fire-leaping rite for expiation uses fire as purifying sacred medium.
+  cautions: May also belong under sacrifice or divine_judgment if the rite is framed
+    as atonement or punishment-repair; do not map to world_destroying_fire unless
+    cosmic destruction is present.
+  suggested_aliases:
+  - fire_leaping_purification
+  - expiatory_fire_rite
+  - ritual_fire_leaping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expulsion-of-impurity-from-the-community
+  motif_id: expulsion_of_impurity_from_the_community
+  label: Expulsion of impurity from the community
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The sacrifice group explicitly contains ritual expulsion and communal
+    removal of harmful forces or impurity.
+  cautions: If no offering, scapegoat, or expulsion rite is present, sacred_law may
+    be a better legal-purity parent; preserve Buddhist ritual context.
+  suggested_aliases:
+  - communal_impurity_expulsion
+  - ritual_expulsion_of_impurity
+  - community_purification_by_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extended-ritual-vigil-with-abstention-during-play
+  motif_id: extended_ritual_vigil_with_abstention_during_play
+  label: Extended ritual vigil with abstention during play
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes vigil, abstention, and play; the sacred function is unclear
+    without passage context.
+  cautions: Single culturally specific occurrence; may fit sacred_law, initiation,
+    sacred_time, or be an over-specific ritual detail.
+  suggested_aliases:
+  - ritual_vigil_with_abstention
+  - abstention_during_ritual_play
+  - extended_ceremonial_vigil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.external-kin-obstruction-of-ritual-participation
+  motif_id: external_kin_obstruction_of_ritual_participation
+  label: external kin obstruction of ritual participation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a contextual social obstacle in a passage rather than a
+    durable symbolic motif.
+  cautions: If recurring as a ritual-exclusion pattern, human review could remap to
+    sacred_law or covenant; otherwise preserve only as evidence detail.
+  suggested_aliases:
+  - kin_obstructs_ritual_participation
+  - family_obstruction_of_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.external-pursuits-produce-loss-or-self-sacrifice
+  motif_id: external_pursuits_produce_loss_or_self_sacrifice
+  label: External pursuits produce loss or self-sacrifice
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Daoist critique of outward striving aligns with interior discipline,
+    renunciation, and self-transformation.
+  cautions: If the passage emphasizes moral causality or social teaching rather than
+    contemplative interiority, sacred_law or wisdom may be better secondary placements.
+  suggested_aliases:
+  - outward_pursuit_leads_to_loss
+  - external_striving_and_self_sacrifice
+  - renunciation_of_external_pursuits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional; several labels are single-occurrence and culturally
+  specific, so source evidence should be checked before adding aliases or group children.
+- Avoid treating ritual-purity, kinship, and ethnographic labels as universal motifs
+  unless recurrence and narrative function are clear.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch contains multiple single-occurrence ritual labels; human review recommended
+    before taxonomy update.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0823
+  input_sha256: d16a6f010469a8079d54abea1e39c830c862539d5e29863ac0fe0e9140eb5641
+

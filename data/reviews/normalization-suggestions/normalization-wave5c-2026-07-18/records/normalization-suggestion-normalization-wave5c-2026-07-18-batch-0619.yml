@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0619
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.shared-root-plant-as-emblem-of-kinship
+  motif_id: shared_root_plant_as_emblem_of_kinship
+  label: Shared-root plant as emblem of kinship
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a kinship metaphor rather than a journey motif, and
+    no current group cleanly covers plant-emblems of family relation.
+  cautions: Single occurrence; may be a passage-specific image or ethical metaphor.
+    Could relate to sacred_law, sacred_love, or sacred_tree_axis only if source evidence
+    supports those functions.
+  suggested_aliases:
+  - common_root_as_kinship_emblem
+  - shared_plant_root_as_family_symbol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_love
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-sheep-during-captivity-and-travel
+  motif_id: shared_sheep_during_captivity_and_travel
+  label: shared sheep during captivity and travel
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe a very specific travel/captivity episode
+    involving a sheep, not a reusable mythic pattern.
+  cautions: If the sheep functions as an animal helper, shared food, or ritual exchange
+    object, source evidence could justify review under divine_intervention or sacred_exchange.
+  suggested_aliases:
+  - sheep_shared_during_captivity
+  - travel_captivity_with_shared_sheep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_exchange
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-voyage-materials-across-related-texts
+  motif_id: shared_voyage_materials_across_related_texts
+  label: shared voyage materials across related texts
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase describes shared textual material across related sources rather
+    than a narrative motif within a source.
+  cautions: Preserve as textual-comparison provenance if useful, but exclude from
+    motif pattern queries and transmission claims.
+  suggested_aliases:
+  - shared_voyage_material_between_texts
+  - voyage_material_shared_across_related_texts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-wandering-of-lovers-through-wild-places
+  motif_id: shared_wandering_of_lovers_through_wild_places
+  label: shared wandering of lovers through wild places
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is lovers wandering together through liminal wild places,
+    with love driving the journey or exile.
+  cautions: If the passage emphasizes exile, ordeal, or return more than love, hero_journey
+    may be a secondary or better placement.
+  suggested_aliases:
+  - lovers_wandering_in_wild_places
+  - lovers_exiled_through_wilderness
+  - shared_wilderness_wandering_of_lovers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ship-accidentally-carried-to-a-marvellous-shore-by-a-giant-fish
+  motif_id: ship_accidentally_carried_to_a_marvellous_shore_by_a_giant_fish
+  label: ship accidentally carried to a marvellous shore by a giant fish
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A giant fish transports a ship to a marvellous shore, suggesting accidental
+    passage into an enchanted or otherworldly realm.
+  cautions: Could instead belong under sacred_waters or divine_intervention if the
+    fish is mainly a water-crossing agent or divine helper. Single occurrence and
+    highly specific.
+  suggested_aliases:
+  - giant_fish_carries_ship_to_marvellous_shore
+  - ship_borne_by_giant_fish_to_enchanted_shore
+  - marvellous_shore_reached_by_fish_borne_ship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - divine_intervention
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ship-as-martial-treasure-bearer
+  motif_id: ship_as_martial_treasure_bearer
+  label: Ship as martial treasure-bearer
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The ship functions as a bearer of martial treasure or power objects,
+    aligning more with sacred treasures than journey structure.
+  cautions: If the ship itself is the wondrous object or crafted vehicle, sacred_craft
+    or sacred_vessel may be relevant. Confirm that the treasure has sacred or power-bearing
+    status.
+  suggested_aliases:
+  - ship_bearing_martial_treasures
+  - vessel_as_bearer_of_war_treasures
+  - ship_carrying_sacred_war_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    - sacred_craft
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ship-cremation-with-spouse-and-horse
+  motif_id: ship_cremation_with_spouse_and_horse
+  label: ship cremation with spouse and horse
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ship cremation with accompanying spouse and horse is a funerary rite
+    and memorial practice, not primarily a voyage motif.
+  cautions: Culturally sensitive and potentially comparative; avoid generalizing without
+    source context. If framed as sacrifice of attendants, sacrifice may be a secondary
+    mapping.
+  suggested_aliases:
+  - ship_burial_with_spouse_and_horse
+  - funerary_ship_cremation_with_attendants
+  - ship_cremation_with_horse_and_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - ancestor_rites
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ship-driven-onto-shore-and-broken-at-landfall
+  motif_id: ship_driven_onto_shore_and_broken_at_landfall
+  label: ship driven onto shore and broken at landfall
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a specific shipwreck or landfall event without a
+    clear recurring sacred or narrative function.
+  cautions: If the wreck marks divine punishment, providential arrival, or threshold
+    passage, review under divine_judgment, divine_intervention, or hero_journey.
+  suggested_aliases:
+  - shipwreck_at_landfall
+  - ship_broken_on_shore
+  - vessel_driven_ashore_and_broken
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_waters
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ship-governed-by-false-pilots
+  motif_id: ship_governed_by_false_pilots
+  label: ship governed by false pilots
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: False pilots could be literal deceptive navigators, political allegory,
+    or a wisdom image about misrule and guidance.
+  cautions: Needs passage context. Could map to trickster for deception, sacred_law
+    or royal_legitimacy for misgovernance, or hero_journey for failed navigation.
+  suggested_aliases:
+  - false_pilots_guide_the_ship
+  - ship_under_deceptive_pilots
+  - misguided_ship_by_false_helmsmen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - royal_legitimacy
+    - hero_journey
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ship-named-as-beast-or-deer-like-vessel
+  motif_id: ship_named_as_beast_or_deer_like_vessel
+  label: Ship named as beast or deer-like vessel
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A ship's animal-like name appears to be a naming or descriptive detail
+    rather than a reusable motif.
+  cautions: If the vessel is magically zoomorphic or transforms/acts like an animal,
+    review under sacred_craft, shapeshifter, or sacred_vessel.
+  suggested_aliases:
+  - deer_like_ship_name
+  - beast_named_ship
+  - animal_named_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - sacred_vessel
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ship or travel details; most
+  should not be promoted without evidence of recurring narrative function.
+- Do not infer textual transmission from labels such as shared_voyage_materials_across_related_texts;
+  treat as meta-textual provenance only.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for over-specific
+    travel artifacts versus true recurring motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0619
+  input_sha256: f35301b69af9c7a9dc033f9b6c440b068ce89de1ed2855d5771ef73120d03601
+

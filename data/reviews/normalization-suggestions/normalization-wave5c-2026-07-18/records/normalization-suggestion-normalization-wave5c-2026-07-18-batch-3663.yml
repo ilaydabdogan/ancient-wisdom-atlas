@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3663
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.material-traces-of-forgotten-makers
+  motif_id: material_traces_of_forgotten_makers
+  label: material traces of forgotten makers
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be an etiological landscape or artifact-origin motif, but the label
+    may also be an archaeological/commentary observation.
+  cautions: Single occurrence; needs passage evidence to decide whether actual mythic
+    makers are remembered through objects or whether this is a descriptive artifact
+    note.
+  suggested_aliases:
+  - traces_of_forgotten_makers
+  - material_remains_of_ancient_makers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-bond-used-as-lure
+  motif_id: maternal_bond_used_as_lure
+  label: maternal bond used as lure
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is deception or baiting through an intimate bond, which
+    fits lure and trickster/deception patterns.
+  cautions: If the source emphasizes kinship obligation, abduction, or maternal grief
+    rather than deception, sacred_love, lament_and_mourning, or a kinship-focused
+    review may be better.
+  suggested_aliases:
+  - kinship_bond_used_as_lure
+  - mother_child_bond_used_as_bait
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-lament-resisted-by-communal-consolation
+  motif_id: maternal_lament_resisted_by_communal_consolation
+  label: maternal lament resisted by communal consolation
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The label centers on a mother’s grief and the community’s attempt to
+    console or regulate mourning.
+  cautions: Highly specific; preserve maternal and communal-consolation details as
+    evidence rather than promoting as canonical.
+  suggested_aliases:
+  - mother_lament_resists_consolation
+  - maternal_grief_and_communal_consolation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-nurture-invoked-to-justify-women-s-religious-admission
+  motif_id: maternal_nurture_invoked_to_justify_women_s_religious_admission
+  label: maternal nurture invoked to justify women's religious admission
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be an ethical or institutional argument rather than a
+    clear recurring mythic motif.
+  cautions: May be passage-specific doctrinal reasoning about gender and monastic
+    admission; review for cultural sensitivity and whether it belongs in pattern queries
+    at all.
+  suggested_aliases:
+  - maternal_nurture_as_argument_for_religious_admission
+  - women_s_religious_admission_justified_by_maternal_nurture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-preparation-of-an-emboldened-knight
+  motif_id: maternal_preparation_of_an_emboldened_knight
+  label: maternal preparation of an emboldened knight
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Preparation of a knight for courage or combat fits heroic martial empowerment,
+    with the mother in a supporting role.
+  cautions: Could be an episode-specific chivalric detail; if the emphasis is arming
+    before combat, sacred_combat may be the better group.
+  suggested_aliases:
+  - mother_prepares_knight_for_combat
+  - maternal_emboldening_of_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-settlements-separated-from-equal-paternal-inheritance
+  motif_id: maternal_settlements_separated_from_equal_paternal_inheritance
+  label: maternal settlements separated from equal paternal inheritance
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a legal or social-institutional detail about inheritance
+    allocation rather than a mythic motif.
+  cautions: If the passage frames inheritance rules as sacred law or divine ordinance,
+    reconsider under sacred_law; otherwise exclude from motif pattern queries.
+  suggested_aliases:
+  - maternal_settlement_distinct_from_paternal_inheritance
+  - separate_maternal_and_paternal_inheritance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.matrilateral-naming-pattern
+  motif_id: matrilateral_naming_pattern
+  label: matrilateral naming pattern
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to describe a kinship/naming convention rather than a narrative
+    or symbolic motif.
+  cautions: If naming is mythically etiological or ritually transformative in the
+    source, review under cosmic_origin or sacred_law; label alone is too institutional.
+  suggested_aliases:
+  - mother_side_naming_pattern
+  - matrilateral_name_transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.matrilineal-totem-retained-through-adoption
+  motif_id: matrilineal_totem_retained_through_adoption
+  label: matrilineal totem retained through adoption
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns totemic descent and adoption rules, which are not
+    clearly covered by existing groups.
+  cautions: Could be a social-classification artifact unless the source gives a mythic
+    origin or ritual consequence; culturally specific kinship terminology needs human
+    review.
+  suggested_aliases:
+  - totem_retained_through_adoption
+  - matrilineal_totem_inheritance_after_adoption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.matrilocal-spouse-relocation
+  motif_id: matrilocal_spouse_relocation
+  label: Matrilocal spouse relocation
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label is a residence-rule or ethnographic social-structure detail
+    rather than a mythic narrative pattern.
+  cautions: If a story uses spouse relocation as an ordeal, marriage quest, or sacred
+    law, remap with passage evidence; otherwise exclude from pattern queries.
+  suggested_aliases:
+  - spouse_relocation_to_wife_s_household
+  - matrilocal_marital_residence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maya-as-enchantment-and-bondage
+  motif_id: maya_as_enchantment_and_bondage
+  label: Maya as enchantment and bondage
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Maya as binding enchantment fits the interior liberation path and the
+    seeker’s entanglement before realization.
+  cautions: Do not reduce Sikh theological usage to generic illusion; sacred_knowledge
+    or sacred_law may be secondary depending on the passage’s doctrinal emphasis.
+  suggested_aliases:
+  - maya_as_bondage
+  - worldly_enchantment_as_spiritual_bondage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are kinship, inheritance, residence, or ethnographic-classification
+  details; these should not be promoted without passage evidence showing narrative
+  or ritual function.
+- Where maternal or matrilineal terms occur, preserve local social meaning and avoid
+  forcing them into mother_goddess or sacred_birth unless sacred maternity is explicit.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review recommended for culturally
+    specific kinship and doctrinal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3663
+  input_sha256: a0945c421b6ffd88ce00eac53f74ef946037ff7405932863cc8722dcc87e5931
+

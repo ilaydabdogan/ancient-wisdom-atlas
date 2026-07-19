@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2059
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-escapes-after-delayed-response
+  motif_id: animal_escapes_after_delayed_response
+  label: animal escapes after delayed response
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: An animal escape through delay may be a trickster or fable reversal,
+    but the mechanism and narrative role are unclear.
+  cautions: Single occurrence and very contextual; verify whether the delay is deception,
+    foolishness, pursuit escape, or merely a plot detail.
+  suggested_aliases:
+  - delayed_response_allows_animal_escape
+  - animal_escape_by_delay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-etiological-tale-frame
+  motif_id: animal_etiological_tale_frame
+  label: animal etiological tale frame
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: low
+  rationale: The label describes a tale frame or genre classification rather than
+    a specific recurring motif.
+  cautions: If the passage explains an animal trait, landform, or origin, map the
+    specific etiology instead; otherwise treat as a textual/genre artifact.
+  suggested_aliases:
+  - animal_origin_tale_frame
+  - animal_etiology_frame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-exemplars-for-defeating-enemies
+  motif_id: animal_exemplars_for_defeating_enemies
+  label: animal exemplars for defeating enemies
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: low
+  rationale: Animals used as models for tactics or enemy defeat may function as instructive
+    sacred knowledge.
+  cautions: Could instead be divine_warrior, animal helper, trickster strategy, or
+    a culturally specific teaching; source evidence is needed.
+  suggested_aliases:
+  - animal_models_for_victory
+  - animal_exemplars_of_enemy_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-exemplum-of-faithful-followers
+  motif_id: animal_exemplum_of_faithful_followers
+  label: Animal exemplum of faithful followers
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: low
+  rationale: An animal exemplum teaching faithful following appears to be an ethical
+    instruction pattern.
+  cautions: May be a Jataka/fable didactic device rather than a durable motif; could
+    also fit sacred_knowledge if framed as wisdom teaching.
+  suggested_aliases:
+  - animal_exemplum_of_loyal_followers
+  - faithful_followers_animal_exemplum
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-explanation-for-landform-and-animal-trait
+  motif_id: animal_explanation_for_landform_and_animal_trait
+  label: animal explanation for landform and animal trait
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label is etiological, explaining landscape formation and animal traits
+    through an animal-centered tale.
+  cautions: If the emphasis is only an animal trait, a future animal-etiology group
+    may be more precise; preserve landform/trait details in evidence notes.
+  suggested_aliases:
+  - animal_trait_and_landform_etiology
+  - animal_etiology_of_landform_and_trait
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-fable-encounters
+  motif_id: animal_fable_encounters
+  label: animal fable encounters
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label names a generic fable encounter category rather than a symbolic
+    or narrative motif.
+  cautions: If a specific encounter involves deception, predation reversal, or animal
+    speech, index that narrower motif instead.
+  suggested_aliases:
+  - animal_fable_encounter_category
+  - animal_fable_encounter_frame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-fable-featuring-a-cat-and-a-cock
+  motif_id: animal_fable_featuring_a_cat_and_a_cock
+  label: animal fable featuring a cat and a cock
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to be a fable title or cast description rather than a reusable
+    motif.
+  cautions: If the episode includes predator deception, escape, or moral reversal,
+    map that action under trickster rather than the animal cast list.
+  suggested_aliases:
+  - cat_and_cock_fable
+  - animal_fable_cat_and_cock
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-fable-groupings-and-animal-human-pairings
+  motif_id: animal_fable_groupings_and_animal_human_pairings
+  label: Animal fable groupings and animal-human pairings
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes fable grouping and pairing patterns, likely a cataloging
+    or heading artifact.
+  cautions: Do not index broad pairings unless the source evidence shows a recurring
+    function such as animal helper, trickster deception, or transformation.
+  suggested_aliases:
+  - animal_human_pairing_fable_frame
+  - animal_fable_groupings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-fable-titles
+  motif_id: animal_fable_titles
+  label: Animal fable titles
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This explicitly identifies titles, not a narrative or symbolic motif.
+  cautions: Preserve only as provenance or textual metadata; map any actual fable
+    action separately if present.
+  suggested_aliases:
+  - animal_centered_fable_title_pattern
+  - animal_fable_heading_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-fable-with-anthropomorphic-predation
+  motif_id: animal_fable_with_anthropomorphic_predation
+  label: animal fable with anthropomorphic predation
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Anthropomorphic predation in fables often functions as predator deception,
+    role reversal, or boundary-crossing animal trickery already grouped under trickster.
+  cautions: If the passage is merely an animal-cast fable without deception or reversal,
+    treat as textual/genre metadata instead.
+  suggested_aliases:
+  - anthropomorphic_predation_fable
+  - predatory_animal_fable
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are fable headings, genre frames, or animal-cast descriptions
+  rather than motifs; specific action-based evidence should be indexed separately
+  when available.
+- The current taxonomy has no dedicated canonical group for animal etiologies or animal
+  fable morals, so low-confidence items are parked under existing broader groups or
+  excluded as metadata.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; animal fable labels require source-level review
+    to distinguish narrative function from catalog headings.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2059
+  input_sha256: 9750e5acfb77967f1ee2ede6c57213c85d34b35620395fb4c901f8ebd3f80790
+

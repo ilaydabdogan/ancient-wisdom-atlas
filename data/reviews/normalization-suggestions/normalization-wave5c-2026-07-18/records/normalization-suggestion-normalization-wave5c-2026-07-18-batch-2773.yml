@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2773
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.overheard-enemy-council-reveals-planned-cannibal-raid
+  motif_id: overheard_enemy_council_reveals_planned_cannibal_raid
+  label: overheard enemy council reveals planned cannibal raid
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines overheard intelligence, enemy council, and a cannibal
+    raid; placement depends on whether the passage emphasizes war strategy, taboo
+    violence, or narrative warning.
+  cautions: Single occurrence and culturally sensitive cannibalism label; verify source
+    wording before indexing as combat or trickster/stealth motif.
+  suggested_aliases:
+  - overheard_enemy_plan
+  - overheard_war_council
+  - planned_cannibal_raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overlapping-heroic-genealogies
+  motif_id: overlapping_heroic_genealogies
+  label: Overlapping heroic genealogies
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording sounds like a scholarly or textual observation about genealogical
+    traditions rather than a narrative motif.
+  cautions: If a passage uses genealogy to legitimate rule or heroic destiny, remap
+    evidence to royal_legitimacy or miraculous_child; otherwise exclude from pattern
+    queries.
+  suggested_aliases:
+  - variant_heroic_genealogies
+  - conflicting_heroic_lineages
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overmatched-youth-in-single-combat
+  motif_id: overmatched_youth_in_single_combat
+  label: overmatched youth in single combat
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: The core structure is a single combat scene with an asymmetry of youth
+    against a stronger opponent.
+  cautions: If the youth's destiny, divine aid, or initiation is central, add secondary
+    review under miraculous_child, divine_warrior, or initiation.
+  suggested_aliases:
+  - youth_in_single_combat
+  - overmatched_young_champion
+  - young_champion_faces_stronger_opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overreaching-heroic-boast
+  motif_id: overreaching_heroic_boast
+  label: Overreaching heroic boast
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: A boast that overreaches aligns with hubris and possible humbling or
+    downfall.
+  cautions: If the boast functions mainly as pre-combat flyting rather than moral
+    overreach, sacred_combat may be the better primary group.
+  suggested_aliases:
+  - heroic_overboast
+  - boastful_heroic_overreach
+  - overconfident_heroic_boast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overstepping-a-warned-limit-on-a-powerful-net
+  motif_id: overstepping_a_warned_limit_on_a_powerful_net
+  label: Overstepping a warned limit on a powerful net
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Overstepping a warned limit suggests violation of a prohibition or taboo
+    governing use of a powerful object.
+  cautions: The net may be a sacred treasure or hunting technology; source context
+    should decide whether this is taboo violation, power-object misuse, or an over-specific
+    episode detail.
+  suggested_aliases:
+  - violated_warning_about_power_object
+  - taboo_limit_overstepped
+  - overuse_of_powerful_net
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pacification-mission-before-battle
+  motif_id: pacification_mission_before_battle
+  label: pacification mission before battle
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A mission to avert or settle conflict before battle belongs in the warfare
+    and ritual conflict field.
+  cautions: If the mission is a formal embassy, covenant negotiation, or divine command,
+    covenant or divine_intervention may be relevant secondary mappings.
+  suggested_aliases:
+  - peace_mission_before_battle
+  - prebattle_pacification_embassy
+  - mission_to_avert_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.painful-insect-ordeal-as-conjugal-penance-and-reconciliation
+  motif_id: painful_insect_ordeal_as_conjugal_penance_and_reconciliation
+  label: Painful insect ordeal as conjugal penance and reconciliation
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label blends ordeal, marital repair, penance, and insect pain; its
+    primary function is unclear without passage evidence.
+  cautions: Single occurrence and culturally specific ritual/ordeal detail; may fit
+    initiation, sacred_exchange, sacred_love, sacrifice, or be too contextual.
+  suggested_aliases:
+  - painful_insect_ordeal
+  - conjugal_penance_ordeal
+  - ordeal_for_marital_reconciliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.painful-ordeal-as-hunting-preparation
+  motif_id: painful_ordeal_as_hunting_preparation
+  label: Painful ordeal as hunting preparation
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A painful ordeal that prepares a person for hunting functions as status
+    or capacity transformation through discipline.
+  cautions: May warrant human review if the rite is ethnographically specific or if
+    hunting preparation is practical rather than initiatory.
+  suggested_aliases:
+  - hunting_preparation_ordeal
+  - pain_ordeal_for_hunters
+  - ritual_ordeal_before_hunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-attackers-create-a-single-or-crossed-wound
+  motif_id: paired_attackers_create_a_single_or_crossed_wound
+  label: paired attackers create a single or crossed wound
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be a very granular combat injury detail rather than a
+    broad reusable motif.
+  cautions: Could be evidence under sacred_combat if the paired attack has ritual
+    or narrative significance; otherwise preserve only as episode detail.
+  suggested_aliases:
+  - paired_attackers_single_wound
+  - crossed_wound_by_paired_attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-champions-yoked-in-battle
+  motif_id: paired_champions_yoked_in_battle
+  label: paired champions yoked in battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes paired champions operating in a battle arrangement,
+    a combat-structure variant.
+  cautions: If the pair expresses cosmic complementarity or sibling/twin identity,
+    sacred_twins or duality may be relevant secondary groups.
+  suggested_aliases:
+  - paired_champions_in_battle
+  - yoked_battle_champions
+  - champion_pair_in_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and highly contextual; suggested mappings should
+  be treated as provisional evidence placements, not new taxonomy edits.
+- Combat-scene labels should not be collapsed into sacred_combat when their primary
+  function is taboo violation, initiation, textual commentary, or marital/social repair.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 2773; human review
+    recommended for culturally specific ordeal and cannibal-raid labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2773
+  input_sha256: 3c77714c6b9b547966060ebb9fafd51c22ccaeef1defe8099a6b66df4b9b8ed2
+

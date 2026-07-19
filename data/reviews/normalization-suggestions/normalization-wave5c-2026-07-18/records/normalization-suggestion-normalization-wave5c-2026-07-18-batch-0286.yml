@@ -1,0 +1,364 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0286
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.origin-and-differentiation-of-peoples-through-descent-and-vessels
+  motif_id: origin_and_differentiation_of_peoples_through_descent_and_vessels
+  label: origin and differentiation of peoples through descent and vessels
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines people-origin etiology, descent, and vessel imagery;
+    the dominant function is unclear without passage evidence.
+  cautions: Could fit cosmic_origin, descent, sacred_vessel, or ancestral origins
+    depending on whether descent is genealogical, spatial, or underworld-related.
+  suggested_aliases:
+  - people_origin_through_descent_and_vessels
+  - origin_of_peoples_through_vessels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-a-crest-from-ancestral-first-passage
+  motif_id: origin_of_a_crest_from_ancestral_first_passage
+  label: origin of a crest from ancestral first passage
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to explain a lineage crest through an ancestral passage,
+    but the passage function and cultural context need review.
+  cautions: Crest-origin labels may be culturally specific clan-property or provenance
+    details, not general motifs; avoid flattening into generic ancestor or journey
+    motifs.
+  suggested_aliases:
+  - ancestral_first_passage_crest_origin
+  - crest_origin_from_ancestor_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-death-framing
+  motif_id: origin_of_death_framing
+  label: Origin-of-death framing
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Origin of Death and Mortality Etiology
+  relationship: broader_label
+  confidence: medium
+  rationale: The label names a recurring etiological frame explaining how death or
+    mortality entered human life.
+  cautions: The wording may be a generated framing note; verify that the passage contains
+    an actual origin-of-death narrative, not just editorial classification.
+  suggested_aliases:
+  - origin_of_death
+  - mortality_etiology
+  - origin_of_human_mortality
+  suggested_new_group:
+    id: origin_of_death_mortality_etiology
+    label: Origin of Death and Mortality Etiology
+    description: Narratives explaining why humans or living beings became mortal,
+      why death entered the world, or why intended immortality failed through error,
+      message reversal, curse, animal agency, ritual failure, or primordial choice.
+    parent_group_ids:
+    - cosmic_origin
+    - death_and_transformation
+    related_group_ids:
+    - divine_judgment
+    - sacred_knowledge
+    - sacred_waters
+    - serpent_guardian
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: Existing death_and_transformation covers
+      death followed by renewal, and cosmic_origin covers world creation, but neither
+      cleanly captures etiologies of mortality as a distinct recurrent narrative function.
+- suggestion_id: normalization.suggestion.origin-of-death-through-failed-rock-human-creation
+  motif_id: origin_of_death_through_failed_rock_human_creation
+  label: Origin of death through failed rock-human creation
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Origin of Death and Mortality Etiology
+  relationship: functional_variant
+  confidence: medium
+  rationale: A failed creation attempt that produces mortality is an etiological origin-of-death
+    pattern.
+  cautions: Also touches failed_creation/cosmic_origin; preserve the rock-human creation
+    detail as local evidence rather than making it canonical by itself.
+  suggested_aliases:
+  - failed_creation_origin_of_death
+  - mortality_from_failed_human_creation
+  - failed_rock_human_creation
+  suggested_new_group:
+    id: origin_of_death_mortality_etiology
+    label: Origin of Death and Mortality Etiology
+    description: Narratives explaining why humans or living beings became mortal,
+      why death entered the world, or why intended immortality failed through error,
+      message reversal, curse, animal agency, ritual failure, or primordial choice.
+    parent_group_ids:
+    - cosmic_origin
+    - death_and_transformation
+    related_group_ids:
+    - divine_judgment
+    - sacred_knowledge
+    - sacred_waters
+    - serpent_guardian
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: Existing cosmic_origin can hold creation
+      failure, but the motif's central function is explaining human death rather than
+      creation alone.
+- suggestion_id: normalization.suggestion.origin-of-death-through-venomous-serpent
+  motif_id: origin_of_death_through_venomous_serpent
+  label: origin of death through venomous serpent
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Origin of Death and Mortality Etiology
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The serpent is the agent or symbol through which death enters, but the
+    narrative function is mortality etiology.
+  cautions: Do not map only to serpent_guardian unless the serpent guards a threshold
+    or knowledge; venomous-serpent agency should remain a local detail.
+  suggested_aliases:
+  - serpent_origin_of_death
+  - venomous_serpent_brings_death
+  - mortality_through_serpent
+  suggested_new_group:
+    id: origin_of_death_mortality_etiology
+    label: Origin of Death and Mortality Etiology
+    description: Narratives explaining why humans or living beings became mortal,
+      why death entered the world, or why intended immortality failed through error,
+      message reversal, curse, animal agency, ritual failure, or primordial choice.
+    parent_group_ids:
+    - cosmic_origin
+    - death_and_transformation
+    related_group_ids:
+    - divine_judgment
+    - sacred_knowledge
+    - sacred_waters
+    - serpent_guardian
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: Serpent and death_and_transformation are
+      related, but neither specifically indexes the etiological explanation for death's
+      origin.
+- suggestion_id: normalization.suggestion.origin-of-ground-burial-custom-after-encounters-with-dangerous-dead
+  motif_id: origin_of_ground_burial_custom_after_encounters_with_dangerous_dead
+  label: Origin of ground burial custom after encounters with dangerous dead
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The burial custom arises in response to dangerous dead, fitting the restless-dead
+    complex.
+  cautions: If the passage emphasizes institution of burial rites rather than active
+    dangerous dead, ancestor_rites or heroic_funeral_rites may be secondary; the origin-of-custom
+    wording is over-specific.
+  suggested_aliases:
+  - burial_custom_origin_from_dangerous_dead
+  - dangerous_dead_lead_to_ground_burial
+  - origin_of_burial_after_restless_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-human-death-after-intended-immortality
+  motif_id: origin_of_human_death_after_intended_immortality
+  label: Origin of human death after intended immortality
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Origin of Death and Mortality Etiology
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly describes a failed immortality scenario explaining
+    human mortality.
+  cautions: May also relate to immortality_without_renewal if deathlessness is retained
+    but defective; here the stated function is origin of death.
+  suggested_aliases:
+  - intended_immortality_lost
+  - failed_immortality_origin_of_death
+  - origin_of_mortality_after_lost_immortality
+  suggested_new_group:
+    id: origin_of_death_mortality_etiology
+    label: Origin of Death and Mortality Etiology
+    description: Narratives explaining why humans or living beings became mortal,
+      why death entered the world, or why intended immortality failed through error,
+      message reversal, curse, animal agency, ritual failure, or primordial choice.
+    parent_group_ids:
+    - cosmic_origin
+    - death_and_transformation
+    related_group_ids:
+    - divine_judgment
+    - sacred_knowledge
+    - sacred_waters
+    - serpent_guardian
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: immortality_without_renewal covers defective
+      deathlessness, while death_and_transformation covers renewal after death; neither
+      cleanly captures loss of intended immortality as mortality etiology.
+- suggestion_id: normalization.suggestion.origin-of-human-death-through-hare-s-contradiction-and-moon-s-curse
+  motif_id: origin_of_human_death_through_hare_s_contradiction_and_moon_s_curse
+  label: Origin of human death through hare's contradiction and Moon's curse
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Origin of Death and Mortality Etiology
+  relationship: functional_variant
+  confidence: high
+  rationale: This is a specific message/contradiction-and-curse form of the origin-of-death
+    narrative.
+  cautions: Hare, Moon, and curse details are culturally meaningful and should be
+    preserved; avoid reducing the whole item to trickster or celestial symbolism alone.
+  suggested_aliases:
+  - hare_message_origin_of_death
+  - moon_curse_origin_of_mortality
+  - death_through_contradicted_immortality_message
+  suggested_new_group:
+    id: origin_of_death_mortality_etiology
+    label: Origin of Death and Mortality Etiology
+    description: Narratives explaining why humans or living beings became mortal,
+      why death entered the world, or why intended immortality failed through error,
+      message reversal, curse, animal agency, ritual failure, or primordial choice.
+    parent_group_ids:
+    - cosmic_origin
+    - death_and_transformation
+    related_group_ids:
+    - divine_judgment
+    - sacred_knowledge
+    - sacred_waters
+    - serpent_guardian
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: curse_blessing_speech and trickster may describe
+      mechanisms, but the recurrent narrative function is the origin of human mortality.
+- suggestion_id: normalization.suggestion.origin-of-intertribal-enmity-through-first-ancestor
+  motif_id: origin_of_intertribal_enmity_through_first_ancestor
+  label: Origin of intertribal enmity through first ancestor
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an etiology of social conflict through ancestry, not clearly
+    a death/descent motif.
+  cautions: Could fit cosmic_origin for people/ancestor etiology, sacred_combat for
+    inherited enmity, or sacred_law/social order; source context is needed and wording
+    may be culturally sensitive.
+  suggested_aliases:
+  - ancestral_origin_of_intergroup_enmity
+  - first_ancestor_origin_of_intertribal_hostility
+  - origin_of_group_enmity_through_ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-mortality-through-water-divination
+  motif_id: origin_of_mortality_through_water_divination
+  label: origin of mortality through water divination
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Origin of Death and Mortality Etiology
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Water divination appears to be the mechanism by which mortality is established
+    or explained.
+  cautions: Could also map to sacred_waters or prophecy_divination if the divinatory
+    act is central; verify that the passage is truly about mortality's origin.
+  suggested_aliases:
+  - water_divination_origin_of_mortality
+  - origin_of_death_by_water_divination
+  - mortality_established_through_divination
+  suggested_new_group:
+    id: origin_of_death_mortality_etiology
+    label: Origin of Death and Mortality Etiology
+    description: Narratives explaining why humans or living beings became mortal,
+      why death entered the world, or why intended immortality failed through error,
+      message reversal, curse, animal agency, ritual failure, or primordial choice.
+    parent_group_ids:
+    - cosmic_origin
+    - death_and_transformation
+    related_group_ids:
+    - divine_judgment
+    - sacred_knowledge
+    - sacred_waters
+    - serpent_guardian
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: sacred_waters and prophecy_divination cover
+      the mechanism, but not the distinct etiological function of explaining why mortality
+      exists.
+batch_notes:
+- Several items in this batch cluster around origin-of-death or mortality-etiology
+  narratives; consider adding a canonical normalization group if cross-source recurrence
+  is confirmed.
+- Northwest Coast crest and ancestral-origin labels may involve culturally specific
+  rights, clan histories, or heraldic property; human review should avoid overgeneralizing
+  them as generic myth motifs.
+- Do not treat shared placement under a proposed origin-of-death group as evidence
+  of transmission or common origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; new mortality-etiology group proposed
+    for recurring origin-of-death labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0286
+  input_sha256: 5d532d8bb1ff6cead6120af34b8ab539fc0492d8a48f25aeabaa997cabe91b7e
+

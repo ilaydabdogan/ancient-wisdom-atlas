@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2745
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.loyal-companion-praised-in-battle
+  motif_id: loyal_companion_praised_in_battle
+  label: loyal companion praised in battle
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label concerns battlefield companionship and heroic praise, fitting
+    the warrior honor and combat cluster under divine_warrior.
+  cautions: Single occurrence and praise may be a scene detail rather than a durable
+    motif; sacred_combat or lament_and_mourning may fit if tied to formal battle speech
+    or elegy.
+  suggested_aliases:
+  - battlefield praise of a loyal companion
+  - loyal companion honored in combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-defender-threatened-with-temporary-removal-to-avert-war
+  motif_id: loyal_defender_threatened_with_temporary_removal_to_avert_war
+  label: Loyal defender threatened with temporary removal to avert war
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines loyalty, political crisis, and threatened removal;
+    its function could be combat, kingship, exile, or narrative negotiation.
+  cautions: Highly contextual single occurrence; do not map solely from battle-adjacent
+    wording without evidence of actual sacred combat, royal legitimacy, or hero-journey
+    exile.
+  suggested_aliases:
+  - loyal defender temporarily removed to avert war
+  - threatened removal of defender to prevent conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-retainers-tested-before-alliance
+  motif_id: loyal_retainers_tested_before_alliance
+  label: Loyal retainers tested before alliance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Testing retainers before alliance centers on proving loyalty before a
+    binding social or political bond.
+  cautions: If the passage emphasizes hospitality, ordeal, or military loyalty rather
+    than the alliance bond, hospitality_test_stranger_guest, initiation, or divine_warrior
+    may be secondary fits.
+  suggested_aliases:
+  - loyal retainers tested before forming alliance
+  - tested loyalty before alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.luck-line-as-a-test-of-racing-and-wagering-success
+  motif_id: luck_line_as_a_test_of_racing_and_wagering_success
+  label: luck line as a test of racing and wagering success
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a culturally specific divinatory or contest practice,
+    but the meaning of luck line is unclear without source evidence.
+  cautions: Single occurrence; could be prophecy_divination, sacred_combat/contest,
+    gaming artifact, or ethnographic detail. Review culturally specific terminology
+    before grouping.
+  suggested_aliases:
+  - luck line test for racing success
+  - luck line test for wagering success
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-created-vengeance-monster
+  motif_id: magic_created_vengeance_monster
+  label: Magic-created vengeance monster
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magically created avenger functions as an agent of retaliation or moral
+    reckoning against wrongdoing.
+  cautions: If emphasis is on artificial creation, sacred_craft may be relevant; if
+    on combat with the monster, divine_warrior or sacred_combat may be secondary.
+  suggested_aliases:
+  - magically created avenger monster
+  - vengeance monster created by magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-induced-forgetfulness-blocks-testimony-or-warning
+  motif_id: magic_induced_forgetfulness_blocks_testimony_or_warning
+  label: Magic-induced forgetfulness blocks testimony or warning
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Magical forgetfulness suppresses crucial knowledge, testimony, or warning,
+    fitting the concealment and obstruction of sacred or consequential knowledge.
+  cautions: Could instead fit dream_and_vision if altered perception is central, or
+    trickster if caused by deception; label is specific and single-occurrence.
+  suggested_aliases:
+  - magical forgetfulness blocks warning
+  - enchanted forgetfulness prevents testimony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-weapon-defeats-supernatural-avenger
+  motif_id: magic_weapon_defeats_supernatural_avenger
+  label: magic weapon defeats supernatural avenger
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: The decisive element is a magic weapon as a power object enabling victory
+    over a supernatural foe.
+  cautions: Secondary indexing to sacred_combat or divine_warrior may be useful if
+    combat structure is emphasized over the object.
+  suggested_aliases:
+  - magic weapon defeats avenger
+  - supernatural avenger defeated by magic weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-weapon-enables-victory-over-giant
+  motif_id: magic_weapon_enables_victory_over_giant
+  label: Magic weapon enables victory over giant
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A supernatural weapon confers the ability to defeat a giant, matching
+    power-object motifs that decide combat.
+  cautions: Could also support divine_warrior or sacred_combat when the passage centers
+    on heroic battle rather than the weapon's power.
+  suggested_aliases:
+  - magic weapon defeats giant
+  - supernatural weapon enables giant-slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-weapon-hidden-inside-the-body
+  motif_id: magic_weapon_hidden_inside_the_body
+  label: magic weapon hidden inside the body
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif centers on a concealed supernatural weapon as a power object,
+    even though its hiding place is bodily.
+  cautions: If the body-storage is the main supernatural condition, review for external_soul
+    or shapeshifter overlap; single occurrence may be an episode-specific detail.
+  suggested_aliases:
+  - supernatural weapon hidden in the body
+  - body-concealed magic weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-weapon-overcomes-giant-guardians
+  motif_id: magic_weapon_overcomes_giant_guardians
+  label: magic weapon overcomes giant guardians
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A magic weapon functions as the decisive power object used to overcome
+    guardian opponents.
+  cautions: If the guardians control a threshold, threshold_guardian may be a secondary
+    mapping; if the scene is primarily battle, sacred_combat may also apply.
+  suggested_aliases:
+  - magic weapon defeats giant guardians
+  - supernatural weapon overcomes guardians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and combat-adjacent; preserve granular labels
+  as evidence notes unless recurrence supports promotion.
+- Magic-weapon labels consistently fit sacred_treasures as power-object variants,
+  with possible secondary combat mappings depending on passage evidence.
+- Avoid inferring historical transmission from shared weapon, giant, or avenger patterns.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for wave5c batch 2745; human review
+    recommended for culturally specific or highly contextual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2745
+  input_sha256: 705db3eba887b7e18b4c43f21562b40b35d838a93b5b077897bc96c9560099ff
+

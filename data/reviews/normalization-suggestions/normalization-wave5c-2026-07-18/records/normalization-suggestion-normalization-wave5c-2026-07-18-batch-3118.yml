@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3118
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.totemic-exogamy
+  motif_id: totemic_exogamy
+  label: totemic exogamy
+  occurrences: 2
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a kinship and marriage rule tied to totemic identity,
+    but no current group cleanly covers clan totemism or exogamy.
+  cautions: Culturally specific social institution; avoid forcing into sacred_law
+    without source evidence for ritual/legal function. May warrant a future kinship/totemism
+    group if recurrent.
+  suggested_aliases:
+  - totemic marriage rule
+  - clan exogamy
+  - totemic kinship prohibition
+  suggested_new_group:
+    id: totemic_kinship_and_exogamy
+    label: Totemic Kinship and Exogamy
+    description: Kinship, marriage, descent, or social identity organized through
+      totemic animal, plant, ancestral, or clan affiliations and prohibitions.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - sacred_exchange
+    - sacred_twins
+    - culture_hero
+    reason_existing_groups_insufficient: Existing sacred_law can hold prohibitions
+      broadly, but it loses the specific totemic kinship and exogamy structure.
+- suggestion_id: normalization.suggestion.abandoned-companion-becomes-pursuer
+  motif_id: abandoned_companion_becomes_pursuer
+  label: abandoned companion becomes pursuer
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a reversal from companion to antagonist, but the narrative
+    function could be betrayal, vengeance, pursuit, or transformation.
+  cautions: Single occurrence and highly contextual; source evidence needed before
+    mapping to betrayal_violated_trust, trickster, divine_judgment, or hero_journey.
+  suggested_aliases:
+  - abandoned ally becomes pursuer
+  - deserted companion pursues the deserter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-dependent-sustained-by-concealed-aid
+  motif_id: abandoned_dependent_sustained_by_concealed_aid
+  label: Abandoned dependent sustained by concealed aid
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hidden aid sustaining an abandoned vulnerable figure fits supernatural
+    or providential intervention, especially if aid is nonhuman or sacred.
+  cautions: If the aid is ordinary human kinship care rather than sacred or supernatural
+    support, consider sacred_exchange or exclude as plot detail.
+  suggested_aliases:
+  - concealed aid to abandoned dependent
+  - hidden helper sustains abandoned person
+  - secret provision for abandoned dependent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-elder-s-objects-become-landscape-features
+  motif_id: abandoned_elder_s_objects_become_landscape_features
+  label: Abandoned elder’s objects become landscape features
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Objects becoming landscape features is an etiological landscape-formation
+    motif already represented under cosmic_origin.
+  cautions: If the focus is the elder's postmortem transformation or moral abandonment
+    rather than place formation, death_and_transformation or divine_judgment may be
+    secondary.
+  suggested_aliases:
+  - objects transformed into landscape features
+  - landscape formed from abandoned elder's possessions
+  - etiological landscape from personal objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-evidence-of-withdrawn-hidden-people
+  motif_id: abandoned_evidence_of_withdrawn_hidden_people
+  label: Abandoned evidence of withdrawn hidden people
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to traces of hidden or vanished people, an otherworldly
+    withdrawal, or a local explanatory tradition.
+  cautions: Single occurrence; may be a passage artifact or ethnographic detail. Need
+    evidence for whether hidden people are otherworld beings, ancestors, spirits,
+    or historical memory.
+  suggested_aliases:
+  - traces of vanished hidden people
+  - abandoned signs of withdrawn people
+  - evidence left by hidden people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-humans-join-a-nonhuman-insect-society
+  motif_id: abandoned_humans_join_a_nonhuman_insect_society
+  label: abandoned humans join a nonhuman insect society
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: low
+  rationale: Humans joining a nonhuman society suggests crossing into an adjacent
+    enchanted or nonordinary realm.
+  cautions: Could instead be shapeshifter if humans become insects, or a social exile
+    motif if no otherworld quality is present. Insect-society specificity should remain
+    evidence detail.
+  suggested_aliases:
+  - humans adopted into insect society
+  - abandoned humans enter nonhuman society
+  - humans join animal society
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-incapacitated-leader-awaiting-delayed-relief
+  motif_id: abandoned_incapacitated_leader_awaiting_delayed_relief
+  label: abandoned incapacitated leader awaiting delayed relief
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly specific episode or plot state rather than
+    a reusable symbolic motif.
+  cautions: If the source shows a recurrent abandoned-ruler rescue or kingship ordeal
+    pattern, review under royal_legitimacy or hero_journey; otherwise preserve only
+    as evidence detail.
+  suggested_aliases:
+  - incapacitated leader abandoned awaiting rescue
+  - delayed relief for abandoned leader
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-infant-fostered-by-a-bear
+  motif_id: abandoned_infant_fostered_by_a_bear
+  label: abandoned infant fostered by a bear
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: high
+  rationale: An abandoned infant protected or fostered by an animal fits the miraculous/protected
+    child pattern already present in the group.
+  cautions: Bear fostering may also indicate animal-ancestor or totemic identity;
+    preserve bear specificity in aliases or evidence notes.
+  suggested_aliases:
+  - infant fostered by bear
+  - abandoned child raised by bear
+  - animal-fostered abandoned infant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-infant-found-and-adopted-by-unrelated-woman
+  motif_id: abandoned_infant_found_and_adopted_by_unrelated_woman
+  label: abandoned infant found and adopted by unrelated woman
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Abandoned infant rescue and adoption belongs with protected or hidden
+    childhood when the child has later significance.
+  cautions: If no sacred destiny, danger, signs, or transformative role is present,
+    this may be ordinary plot detail rather than a motif.
+  suggested_aliases:
+  - foundling adopted by unrelated woman
+  - abandoned infant adopted by stranger
+  - rescued foundling child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-infant-grows-to-adulthood-alone
+  motif_id: abandoned_infant_grows_to_adulthood_alone
+  label: Abandoned infant grows to adulthood alone
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A child surviving abandonment and maturing alone fits extraordinary protected
+    childhood and miraculous survival.
+  cautions: If the emphasis is isolation, culture founding, or nonhuman upbringing
+    rather than childhood destiny, hero_journey or culture_hero may be relevant secondary
+    mappings.
+  suggested_aliases:
+  - abandoned child survives alone
+  - solitary maturation of abandoned infant
+  - foundling grows up alone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional placements based on labels only; several single-occurrence
+  labels require source-context review before final indexing.
+- For abandoned-infant labels, map to miraculous_child only when the child is protected,
+  extraordinary, or later narratively significant; otherwise preserve as plot evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch includes culturally specific totemic kinship and several over-specific
+    abandonment labels needing evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3118
+  input_sha256: 7e7a2c3288b3255f48a893640adafadabcbfa28d5f42495e4409cbc24a177636
+

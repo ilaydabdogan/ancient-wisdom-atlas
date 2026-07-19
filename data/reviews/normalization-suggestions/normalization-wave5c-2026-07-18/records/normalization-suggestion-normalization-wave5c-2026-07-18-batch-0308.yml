@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0308
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prophetic-foreknowledge-and-unavoidable-death
+  motif_id: prophetic_foreknowledge_and_unavoidable_death
+  label: prophetic foreknowledge and unavoidable death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: high
+  rationale: The label centers on foreknown but unavoidable death, matching the fate/death
+    complex.
+  cautions: Could also support prophecy_divination if the passage emphasizes the prophetic
+    mechanism more than inevitability.
+  suggested_aliases:
+  - foreknown_unavoidable_death
+  - prophecy_of_unavoidable_death
+  - foreknown_death_by_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-underworld-death-omen
+  motif_id: prophetic_underworld_death_omen
+  label: prophetic underworld death-omen
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The primary function appears to be an omen or prophetic sign of death.
+  cautions: If the omen occurs during a literal descent or mapped afterlife scene,
+    afterlife_passage or descent may be secondary; label alone is compressed.
+  suggested_aliases:
+  - underworld_death_omen
+  - prophetic_death_omen_from_underworld
+  - chthonic_death_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.propitiated-deity-commanding-night-and-animal-death-agents
+  motif_id: propitiated_deity_commanding_night_and_animal_death_agents
+  label: propitiated deity commanding night and animal death agents
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines propitiation, deity command, night symbolism, animal
+    agents, and death agency.
+  cautions: Culturally specific and composite; source evidence is needed before choosing
+    divine_intervention, death_by_fate, sacrifice, or sacred_exchange.
+  suggested_aliases:
+  - deity_commands_animal_death_agents
+  - propitiated_death_deity
+  - animal_agents_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.propitiation-of-angry-ghost-people-after-destruction
+  motif_id: propitiation_of_angry_ghost_people_after_destruction
+  label: Propitiation of angry ghost people after destruction
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Angry ghost people requiring propitiation after destruction fits unresolved
+    or dangerous dead requiring ritual response.
+  cautions: If the rite is primarily communal repair or offering, ancestor_rites or
+    sacred_exchange may also be relevant; culturally specific wording should be reviewed.
+  suggested_aliases:
+  - propitiation_of_angry_ghosts
+  - appeasing_vengeful_dead_after_destruction
+  - angry_dead_propitiated_after_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.propitiation-of-the-dead-and-underworld-inhabitants
+  motif_id: propitiation_of_the_dead_and_underworld_inhabitants
+  label: Propitiation of the dead and underworld inhabitants
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual appeasement of dead or chthonic inhabitants aligns with maintaining
+    relations between living and dead.
+  cautions: If the passage is a descent episode rather than ritual care, afterlife_passage
+    or descent may be secondary.
+  suggested_aliases:
+  - appeasement_of_the_dead
+  - propitiation_of_chthonic_dead
+  - offerings_to_dead_and_underworld_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.propitiation-of-the-soul-of-the-kine
+  motif_id: propitiation_of_the_soul_of_the_kine
+  label: propitiation of the Soul of the Kine
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a culturally specific bovine soul figure and ritual/moral
+    appeasement function.
+  cautions: Could fit sacred_exchange, sacrifice, sacred_law, or animal-soul beliefs;
+    avoid flattening a Zoroastrian theological concept without evidence review.
+  suggested_aliases:
+  - appeasement_of_the_soul_of_kine
+  - propitiating_the_bovine_soul
+  - kine_soul_propitiation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.propitiatory-tabu-before-sea-travel-fishing-crisis-or-death
+  motif_id: propitiatory_tabu_before_sea_travel_fishing_crisis_or_death
+  label: Propitiatory tabu before sea travel, fishing, crisis, or death
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A propitiatory taboo regulating dangerous activities fits ritual prohibition
+    and sacred law.
+  cautions: The label is broad and ethnographic; if a specific offering or exchange
+    is central, sacred_exchange may be a secondary mapping.
+  suggested_aliases:
+  - propitiatory_taboo_before_danger
+  - taboo_before_sea_travel_or_death
+  - ritual_taboo_before_crisis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prose-tale-adapted-into-ballad-verse-while-preserving-spirit
+  motif_id: prose_tale_adapted_into_ballad_verse_while_preserving_spirit
+  label: prose tale adapted into ballad verse while preserving spirit
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes literary adaptation or transmission form, not a narrative
+    or symbolic motif.
+  cautions: Preserve as textual provenance if useful, but exclude from Pattern Explorer
+    motif queries.
+  suggested_aliases:
+  - prose_tale_adapted_to_ballad
+  - ballad_adaptation_of_prose_tale
+  - literary_form_adaptation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prospering-holy-beings-through-divine-spirit
+  motif_id: prospering_holy_beings_through_divine_spirit
+  label: Prospering holy beings through divine spirit
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Divine spirit causing holy beings to prosper suggests direct sacred agency
+    in flourishing.
+  cautions: Abstract theological wording may be a passage artifact; if framed as cosmic
+    sovereignty or eschatological renewal, supreme_ruler or death_and_transformation
+    may fit better.
+  suggested_aliases:
+  - divine_spirit_prospers_holy_beings
+  - holy_beings_flourish_by_divine_spirit
+  - prosperity_through_divine_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prosperous-deathless-reign
+  motif_id: prosperous_deathless_reign
+  label: prosperous deathless reign
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A deathless and prosperous reign points to sacral kingship or divinely
+    sanctioned rule.
+  cautions: If deathlessness of the ruler is the focus, death_and_transformation or
+    immortality_without_renewal may be secondary; if cosmic rulership is explicit,
+    supreme_ruler may be better.
+  suggested_aliases:
+  - deathless_prosperous_reign
+  - immortal_prosperous_kingship
+  - sacred_deathless_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and culturally specific; suggested
+  placements should be treated as provisional indexing aids, not claims of cross-cultural
+  equivalence.
+- Propitiation labels often straddle sacred_exchange, sacrifice, ancestor_rites, and
+  restless_dead_haunting_vengeance; source context should determine final placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended especially
+    for Zoroastrian and Native American Southwest theological or ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0308
+  input_sha256: db2fa23457a5fdd57ef29f3f8568eb3aa88ee5a2e158736cc29fd566f0eeff54
+

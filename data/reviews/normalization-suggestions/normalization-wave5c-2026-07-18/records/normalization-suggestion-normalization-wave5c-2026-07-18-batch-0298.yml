@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0298
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.post-death-ritual-not-required-when-moral-merit-is-sufficient
+  motif_id: post_death_ritual_not_required_when_moral_merit_is_sufficient
+  label: post-death ritual not required when moral merit is sufficient
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on postmortem outcome being determined by moral merit,
+    a judgment or moral reckoning function.
+  cautions: Could also be a doctrinal or ritual-law note rather than a reusable narrative
+    motif; review whether an actual judgment scene or afterlife doctrine is present.
+  suggested_aliases:
+  - postmortem merit supersedes ritual
+  - moral merit determines post-death fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-deluge-descent-dispersal-and-origin-of-tribes-and-dialects
+  motif_id: post_deluge_descent_dispersal_and_origin_of_tribes_and_dialects
+  label: Post-deluge descent, dispersal, and origin of tribes and dialects
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes post-flood reconstitution of peoples and languages
+    after deluge catastrophe.
+  cautions: It also has etiological origin-of-peoples content; consider cosmic_origin
+    as secondary if the passage emphasizes tribal or dialect origins more than flood
+    renewal.
+  suggested_aliases:
+  - post-flood dispersal of peoples
+  - post-deluge origin of tribes and dialects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-feast-seclusion-against-spirit-danger
+  motif_id: post_feast_seclusion_against_spirit_danger
+  label: Post-feast seclusion against spirit danger
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Seclusion after a feast to avoid spirits fits ritual prohibition and
+    apotropaic protection under sacred law.
+  cautions: 'Source context needed: could be mortuary taboo, spirit-contagion avoidance,
+    or an over-specific ethnographic detail.'
+  suggested_aliases:
+  - ritual seclusion after feast
+  - post-feast spirit-danger taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-kill-appeasement-or-evasion-of-prey-spirit
+  motif_id: post_kill_appeasement_or_evasion_of_prey_spirit
+  label: post-kill appeasement or evasion of prey spirit
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Appeasing a prey spirit after killing suggests reciprocal ritual management
+    of relations with nonhuman spirit powers.
+  cautions: Culturally sensitive hunting-spirit practice; may fit sacred_law, sacrifice,
+    ancestor/animal-spirit rites, or require a future animal-prey spirit group. Review
+    source evidence before mapping.
+  suggested_aliases:
+  - appeasement of prey spirit after killing
+  - evasion of slain animal spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-mortem-fate-conditioned-by-conduct-and-manner-of-death
+  motif_id: post_mortem_fate_conditioned_by_conduct_and_manner_of_death
+  label: post-mortem fate conditioned by conduct and manner of death
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: narrower_than
+  confidence: medium
+  rationale: Postmortem destiny depends on conduct and death circumstances, matching
+    moral reckoning after death.
+  cautions: If the passage maps destinations or routes rather than evaluation, afterlife_passage
+    may be a better primary group.
+  suggested_aliases:
+  - postmortem fate by conduct
+  - afterlife destiny conditioned by manner of death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-mortem-joy-of-righteous-spirits
+  motif_id: post_mortem_joy_of_righteous_spirits
+  label: Post-mortem joy of righteous spirits
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes the blessed state of righteous spirits after death
+    within an afterlife framework.
+  cautions: If the emphasis is moral reward rather than afterlife geography, divine_judgment
+    should be a secondary or alternate mapping.
+  suggested_aliases:
+  - joy of righteous dead
+  - blessed state of righteous spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-mortem-reunion-with-the-dead
+  motif_id: post_mortem_reunion_with_the_dead
+  label: post-mortem reunion with the dead
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reunion with the dead is a postmortem condition or destination within
+    afterlife belief.
+  cautions: If reunion is specifically with a beloved or spouse, sacred_love may be
+    a better secondary mapping; if framed mystically as union with the divine, use
+    mystical_quest or annihilation_union.
+  suggested_aliases:
+  - afterlife reunion with the dead
+  - reunion after death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-mourning-feast-and-ghost-departure
+  motif_id: post_mourning_feast_and_ghost_departure
+  label: post-mourning feast and ghost departure
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: A feast after mourning that enables or marks ghost departure fits ritual
+    feeding, dismissal, and care of the dead.
+  cautions: Could overlap with afterlife_passage if the rite is framed as helping
+    the ghost travel onward.
+  suggested_aliases:
+  - mourning feast dismisses ghost
+  - post-funerary feast and ghost departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-scalping-thanksgiving-rite-linked-to-rain-and-relations-with-the-enemy-s-ghost-self
+  motif_id: post_scalping_thanksgiving_rite_linked_to_rain_and_relations_with_the_enemy_s_ghost_self
+  label: Post-scalping thanksgiving rite linked to rain and relations with the enemy's
+    ghost self
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines warfare, thanksgiving, rain ritual, and relations
+    with an enemy ghost, making the dominant motif unclear.
+  cautions: Culturally sensitive and highly composite; may involve sacred_combat,
+    sacred_exchange, ancestor_rites, rainmaking, or enemy-ghost pacification. Requires
+    source review before indexing.
+  suggested_aliases:
+  - post-scalping thanksgiving rite
+  - enemy ghost relation after scalping
+  - war trophy rite linked to rain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-guardian-spirit-over-a-spiritual-heir
+  motif_id: posthumous_guardian_spirit_over_a_spiritual_heir
+  label: Posthumous guardian spirit over a spiritual heir
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A deceased figure acting as guardian over a spiritual heir functions
+    as posthumous tutelary guidance.
+  cautions: Could also belong to ancestor_rites or mystical_quest if the source emphasizes
+    lineage transmission, saintly intercession, or Sufi master-disciple continuity.
+  suggested_aliases:
+  - posthumous tutelary spirit
+  - dead master guards spiritual heir
+  - guardian spirit of spiritual heir
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual or ethnographic composites;
+  preserve local evidence and avoid overgeneralizing without source review.
+- 'For postmortem outcome labels, distinguish afterlife geography or state from moral
+  evaluation: afterlife_passage vs divine_judgment.'
+- For Indigenous hunting, scalping, ghost, and rain-related ritual labels, human review
+  is recommended for cultural specificity and sensitivity.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; composite and culturally sensitive
+    ritual labels require source-based review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0298
+  input_sha256: 989372996484aa15dfa42a1d6b7e472966ca62e1d1cf0157039e558286633f1b
+

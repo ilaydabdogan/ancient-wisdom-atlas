@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1056
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-object-with-legendary-clan-provenance
+  motif_id: ritual_object_with_legendary_clan_provenance
+  label: Ritual object with legendary clan provenance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ritual object whose authority depends on legendary clan origin fits
+    sacred power objects and lineage-linked legitimacy.
+  cautions: Single occurrence and culturally specific clan provenance should be preserved;
+    may also involve royal_legitimacy or sacred_law depending on use.
+  suggested_aliases:
+  - clan_provenance_ritual_object
+  - legendary_lineage_ritual_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-objects-and-ceremonial-images
+  motif_id: ritual_objects_and_ceremonial_images
+  label: Ritual objects and ceremonial images
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad and could refer to power objects, sacred craft, images,
+    or ritual law without specifying narrative function.
+  cautions: Culturally sensitive and likely too generic; source evidence is needed
+    before mapping ceremonial images to sacred_treasures or sacred_craft.
+  suggested_aliases:
+  - ceremonial_images
+  - ritual_power_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-objects-identified-with-an-old-woman
+  motif_id: ritual_objects_identified_with_an_old_woman
+  label: Ritual objects identified with an old woman
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Identification of objects with an old woman may indicate sacred object,
+    ancestor, spirit, or female sacred figure, but the function is unclear.
+  cautions: Avoid collapsing a local ritual identification into mother_goddess or
+    sacred_treasures without passage evidence; single occurrence.
+  suggested_aliases:
+  - ritual_objects_personified_as_old_woman
+  - old_woman_identified_ritual_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-objects-used-to-bring-rain
+  motif_id: ritual_objects_used_to_bring_rain
+  label: ritual objects used to bring rain
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rainmaking through ritual objects functions as ritual action seeking
+    reciprocal provision from sacred powers.
+  cautions: Could also involve divine_intervention, sacred_waters, or sacred_treasures;
+    preserve the rainmaking object detail.
+  suggested_aliases:
+  - rainmaking_ritual_objects
+  - ritual_rain_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-objects-warfare-wreckage-metal-and-peace-settlement
+  motif_id: ritual_objects_warfare_wreckage_metal_and_peace_settlement
+  label: Ritual objects, warfare, wreckage metal, and peace settlement
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This composite combines ritual objects, war materials, and peacemaking
+    in a context-specific way not clearly served by one group.
+  cautions: May belong to sacred_treasures, sacred_combat, covenant, or sacred_exchange
+    depending on the passage; likely too specific for broad pattern queries as written.
+  suggested_aliases:
+  - war_wreckage_metal_as_ritual_object
+  - ritualized_war_material_in_peace_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-obligation-delayed-by-public-duty
+  motif_id: ritual_obligation_delayed_by_public_duty
+  label: ritual obligation delayed by public duty
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual duty balanced against public office or service fits sacred law
+    and social obligation.
+  cautions: May be more ethical-legal than mythic; if it is commentary rather than
+    narrative motif, consider exclusion from pattern queries.
+  suggested_aliases:
+  - ritual_duty_delayed_by_public_service
+  - public_duty_over_ritual_obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-obligation-determined-by-household-and-lineage-status
+  motif_id: ritual_obligation_determined_by_household_and_lineage_status
+  label: Ritual obligation determined by household and lineage status
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritual duties assigned by household and lineage position are clear sacred
+    social-order regulations.
+  cautions: Preserve Confucian kinship and lineage specificity; may also relate to
+    ancestor_rites if obligations concern the dead.
+  suggested_aliases:
+  - lineage_status_determines_ritual_obligation
+  - household_rank_and_ritual_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-obligation-disrupted-by-external-economic-change
+  motif_id: ritual_obligation_disrupted_by_external_economic_change
+  label: Ritual obligation disrupted by external economic change
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as sociohistorical commentary about disruption of practice
+    rather than a recurring symbolic motif.
+  cautions: If a source passage narrates a specific ritual failure and consequence,
+    review for sacred_law or divine_judgment; otherwise exclude from motif pattern
+    queries.
+  suggested_aliases:
+  - economic_change_disrupts_ritual_obligation
+  - ritual_obligation_under_external_economic_pressure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-obligation-scaled-to-ability
+  motif_id: ritual_obligation_scaled_to_ability
+  label: Ritual obligation scaled to ability
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A ritual requirement adjusted to a person's capacity is a sacred-law
+    rule governing obligation and practice.
+  cautions: Could also support sacred_exchange if framed as proportional offering;
+    preserve doctrinal context.
+  suggested_aliases:
+  - ritual_duty_scaled_to_capacity
+  - ability_based_ritual_obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-obligation-through-abstention-and-cost
+  motif_id: ritual_obligation_through_abstention_and_cost
+  label: Ritual obligation through abstention and cost
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual duty expressed through abstention and personal cost fits sacrifice
+    as surrender of valued goods, comfort, or attachment.
+  cautions: May instead be sacred_law if the emphasis is rule compliance rather than
+    offering or renunciation; culturally specific evidence should be reviewed.
+  suggested_aliases:
+  - costly_ritual_abstention
+  - ritual_obligation_by_abstention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and ethnographic or doctrinal rather than narrative;
+  preserve local wording and avoid overgeneralizing.
+- Ritual object labels often need source evidence to distinguish sacred_treasures,
+  sacred_craft, sacred_exchange, and sacred_law.
+- No transmission or contact claim is implied by these provisional placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for batch 1056; human review recommended
+    for broad or culturally specific ritual-object labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1056
+  input_sha256: 995262a25f1a55929147a3276ab06f18bff20c17ed71c4829e53c12f4c6d22e5
+

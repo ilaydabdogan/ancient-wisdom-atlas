@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3481
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fortified-elevated-refuge
+  motif_id: fortified_elevated_refuge
+  label: fortified elevated refuge
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: low
+  rationale: An elevated refuge may function like a protective mountain or sacred
+    height, already related to axis_mundi and protective_mountain_refuge.
+  cautions: Single occurrence; if merely architectural or military geography, exclude
+    or map only as contextual evidence.
+  suggested_aliases:
+  - elevated_refuge
+  - hilltop_refuge
+  - protective_elevated_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortified-hilltop-settlement
+  motif_id: fortified_hilltop_settlement
+  label: Fortified hilltop settlement
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be sacred height, refuge, political center, or ordinary settlement
+    description.
+  cautions: Likely archaeological/geographic context unless the passage gives mythic,
+    ritual, or cosmological function.
+  suggested_aliases:
+  - hilltop_fortified_settlement
+  - fortified_highland_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortified-hilltop-settlement-pattern
+  motif_id: fortified_hilltop_settlement_pattern
+  label: fortified hilltop settlement pattern
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The word pattern suggests a cultural, archaeological, or settlement-distribution
+    observation rather than a narrative motif.
+  cautions: If source evidence frames hilltop settlement as sacred refuge or cosmic
+    center, review under axis_mundi instead.
+  suggested_aliases:
+  - hilltop_settlement_pattern
+  - fortified_highland_settlement_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortified-refuge-under-threat
+  motif_id: fortified_refuge_under_threat
+  label: fortified refuge under threat
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: A refuge under attack fits conflict or siege pressure more than sacred
+    geography when threat is central.
+  cautions: If the refuge preserves a remnant through catastrophe, flood_and_renewal
+    or sacred_vessel may be secondary; source context needed.
+  suggested_aliases:
+  - threatened_fortified_refuge
+  - besieged_refuge
+  - refuge_under_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortified-settlement-receiving-outsiders-peacefully
+  motif_id: fortified_settlement_receiving_outsiders_peacefully
+  label: fortified settlement receiving outsiders peacefully
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could concern hospitality, diplomacy, boundary crossing, or
+    simple settlement description.
+  cautions: Map to hospitality_test_stranger_guest only if outsiders are received
+    as guests or tests; otherwise likely too contextual.
+  suggested_aliases:
+  - peaceful_reception_of_outsiders_at_fortified_settlement
+  - outsiders_received_peacefully
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortified-temporary-camp-in-hostile-territory
+  motif_id: fortified_temporary_camp_in_hostile_territory
+  label: fortified temporary camp in hostile territory
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a tactical travel or warfare detail rather than a reusable
+    mythic motif.
+  cautions: If the camp marks an ordeal, threshold, or sacred war episode, preserve
+    as evidence under hero_journey or sacred_combat.
+  suggested_aliases:
+  - temporary_fortified_camp
+  - fortified_camp_in_enemy_territory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortified-trading-post-and-fur-exchange
+  motif_id: fortified_trading_post_and_fur_exchange
+  label: fortified trading post and fur exchange
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label appears to describe a historical/economic setting rather than
+    a symbolic or narrative motif.
+  cautions: Do not treat trade contact or fur exchange as a motif without passage
+    evidence of sacred exchange or ritualized reciprocity.
+  suggested_aliases:
+  - trading_post_fur_exchange
+  - fortified_trade_post
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortress-refuge-threatened-by-night-breach
+  motif_id: fortress_refuge_threatened_by_night_breach
+  label: fortress refuge threatened by night breach
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A night breach threatening a fortress refuge is a siege/warfare action,
+    fitting sacred_combat if narratively significant.
+  cautions: Over-specific; if no sacred or ritual combat function is present, preserve
+    only as episode detail.
+  suggested_aliases:
+  - night_breach_of_fortress_refuge
+  - fortress_refuge_under_night_attack
+  - nocturnal_breach_of_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortune-dispensing-prosperity-and-wealth
+  motif_id: fortune_dispensing_prosperity_and_wealth
+  label: fortune dispensing prosperity and wealth
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred or personified power granting prosperity fits divine action
+    in human affairs and overlaps miraculous provision.
+  cautions: If this refers specifically to personified Fortuna/Tyche or cult iconography,
+    consider human review for a fortune/fate subgroup rather than generic intervention.
+  suggested_aliases:
+  - dispensing_fortune_and_wealth
+  - divine_bestowal_of_prosperity
+  - fortune_grants_wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortune-reversal-tied-to-treatment-of-poor-kin
+  motif_id: fortune_reversal_tied_to_treatment_of_poor_kin
+  label: fortune reversal tied to treatment of poor kin
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A reversal of fortune based on treatment of vulnerable kin fits moral
+    consequence and sacred reckoning.
+  cautions: Could also map to sacred_law or sacred_exchange if the focus is kin obligation
+    or reciprocity rather than punishment/reward.
+  suggested_aliases:
+  - fortune_reversal_for_treatment_of_poor_kin
+  - kinship_care_fortune_reversal
+  - prosperity_reversed_by_mistreating_poor_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several fortified-settlement labels may be archaeological, geographic, or episode-specific
+  rather than motifs; review source passages before broad indexing.
+- Do not infer sacred mountain, ark/refuge, or combat function from fortification
+  alone; use narrative function as the deciding factor.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_model
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; single-occurrence and context-dependent
+    labels require human evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3481
+  input_sha256: deb19abd69565f0b34289046a13b31fb5aef48f667cf924a4f4530aaf29a5bc7
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3511
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.grouped-praise-of-ra
+  motif_id: grouped_praise_of_ra
+  label: Grouped praise of Ra
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Praise of a solar deity may reflect divine manifestation or cosmic praise,
+    matching existing Ra/solar divine-praise aliases only loosely.
+  cautions: Could be a hymn or passage structure rather than a motif; if merely a
+    grouped textual heading, exclude as meta-textual.
+  suggested_aliases:
+  - solar deity praise
+  - cosmic praise of Ra
+  - hymnic praise of Ra
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grudge-driven-refusal-of-life-sustaining-aid
+  motif_id: grudge_driven_refusal_of_life_sustaining_aid
+  label: Grudge-driven refusal of life-sustaining aid
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Refusal of life-sustaining aid due to resentment reads as an ethical
+    failure with possible karmic or moral consequence.
+  cautions: If the passage centers on social obligation, compassion, or broken reciprocity,
+    sacred_law or sacred_exchange may be better; source evidence is needed.
+  suggested_aliases:
+  - resentful refusal of aid
+  - refusal of life-saving help
+  - grudge-based denial of assistance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grudging-imitation-fails-and-turns-promised-wealth-into-filth
+  motif_id: grudging_imitation_fails_and_turns_promised_wealth_into_filth
+  label: Grudging imitation fails and turns promised wealth into filth
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Failed imitation motivated by grudging or envious desire matches the
+    existing envy/failed-imitation pattern under pride and downfall.
+  cautions: The wealth-to-filth detail may be episode-specific; if the focus is moral
+    reversal of greed, divine_judgment may be a secondary fit.
+  suggested_aliases:
+  - envious imitation fails
+  - failed imitation turns wealth to filth
+  - grudging imitation punished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-access-point-under-threat
+  motif_id: guarded_access_point_under_threat
+  label: guarded access point under threat
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A guarded access point is a threshold requiring defense, confrontation,
+    or passage control.
+  cautions: The label is generic; if it refers only to military defense rather than
+    liminal passage, sacred_combat may be more appropriate.
+  suggested_aliases:
+  - defended threshold
+  - guarded passage under threat
+  - threatened access point
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-captive-escapes-through-deceptive-errand-and-distraction
+  motif_id: guarded_captive_escapes_through_deceptive_errand_and_distraction
+  label: Guarded captive escapes through deceptive errand and distraction
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Escape by deceptive errand and distraction uses trickster-like boundary
+    crossing and deception to evade captivity.
+  cautions: May be a local episode detail rather than broad motif; if captivity/escape
+    journey is central, hero_journey could be secondary.
+  suggested_aliases:
+  - escape by deceptive errand
+  - captive escapes through distraction
+  - deceptive escape from guard
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-enclosed-realm-with-compulsory-audience
+  motif_id: guarded_enclosed_realm_with_compulsory_audience
+  label: Guarded enclosed realm with compulsory audience
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: low
+  rationale: A guarded enclosed realm requiring audience suggests an enchanted or
+    otherworldly court with controlled access.
+  cautions: Could instead be a social court episode, captivity scene, or threshold-guardian
+    pattern; source context needed before firm placement.
+  suggested_aliases:
+  - guarded enchanted court
+  - compulsory audience in enclosed realm
+  - guarded otherworldly enclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-food-remains-removed-without-sensation
+  motif_id: guarded_food_remains_removed_without_sensation
+  label: Guarded food remains removed without sensation
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too elliptical to identify whether the function is food
+    theft, ritual handling, bodily insensibility, or magical removal.
+  cautions: Likely episode-specific; review passage evidence before mapping to trickster,
+    sacred_substance, or sacred_exchange.
+  suggested_aliases:
+  - magical removal of guarded food remains
+  - food remains removed unnoticed
+  - guarded food secretly removed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-food-resource-and-suspected-robbery
+  motif_id: guarded_food_resource_and_suspected_robbery
+  label: guarded food resource and suspected robbery
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: A guarded food resource with suspected robbery plausibly belongs to theft/deception
+    and food-resource contest patterns under trickster.
+  cautions: If no actual theft or deception occurs, this may be a plot setup rather
+    than a motif; sacred_substance only fits if food has ritual power.
+  suggested_aliases:
+  - guarded food theft suspicion
+  - suspected theft of protected food
+  - guarded food resource
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-liminal-opening
+  motif_id: guarded_liminal_opening
+  label: guarded liminal opening
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: alias
+  confidence: high
+  rationale: A guarded liminal opening directly matches the threshold-guardian pattern
+    of controlled passage between spaces or states.
+  cautions: Preserve the local nature of the opening if known, such as cave, door,
+    water passage, or otherworld entrance.
+  suggested_aliases:
+  - guarded threshold opening
+  - guarded passageway
+  - liminal opening with guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guarded-oral-transmission-as-precious-gift
+  motif_id: guarded_oral_transmission_as_precious_gift
+  label: guarded oral transmission as precious gift
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protected oral transmission as a valued gift fits narrative transmission
+    as power and cultural memory.
+  cautions: If the emphasis is secret sacred knowledge rather than storytelling practice,
+    sacred_knowledge may be a secondary or better placement.
+  suggested_aliases:
+  - oral transmission as precious gift
+  - guarded storytelling transmission
+  - protected oral tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and context-dependent; suggested placements
+  should be treated as provisional review aids, not taxonomy edits.
+- Guarded/threshold labels split between threshold_guardian, otherworld, and trickster
+  depending on whether the source emphasizes passage control, enchanted realm, or
+  deceptive evasion.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated from labels only; source passages
+    needed for low-confidence guarded-food and praise labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3511
+  input_sha256: 2517d8b2367d9f8972e41a41a3090b45d69cfa2d35f53c702b607a44a0d58c4c
+

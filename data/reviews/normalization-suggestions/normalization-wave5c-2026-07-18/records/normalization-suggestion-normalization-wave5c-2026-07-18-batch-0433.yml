@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0433
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.violent-royal-death-without-proper-burial
+  motif_id: violent_royal_death_without_proper_burial
+  label: violent royal death without proper burial
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core feature is improper or denied burial of a ruler after violent
+    death, already covered by funeral-rite and denied-burial variants.
+  cautions: If the passage emphasizes royal succession or divine punishment more than
+    burial, secondary review under royal_legitimacy or divine_judgment may be needed.
+  suggested_aliases:
+  - royal_death_without_proper_burial
+  - denied_burial_of_a_king
+  - improper_burial_after_violent_royal_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.virtuous-offspring-relieving-a-parent-from-hell
+  motif_id: virtuous_offspring_relieving_a_parent_from_hell
+  label: virtuous offspring relieving a parent from hell
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: functional_variant
+  confidence: medium
+  rationale: A living descendant's virtue benefits a dead parent, fitting ritual or
+    moral care for the dead across generations.
+  cautions: Could also involve afterlife_passage or divine_judgment if the passage
+    focuses on hell, judgment, or postmortem release mechanics rather than filial
+    care.
+  suggested_aliases:
+  - filial_virtue_relieves_parent_from_hell
+  - offspring_merit_aids_dead_parent
+  - descendant_virtue_redeems_ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visible-bodily-sign-of-spirit-absence
+  motif_id: visible_bodily_sign_of_spirit_absence
+  label: visible bodily sign of spirit absence
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A bodily sign indicating spirit absence fits the soul-loss complex, where
+    displaced vitality manifests as illness or visible change.
+  cautions: Needs source review to distinguish soul loss from death omen, possession,
+    illness diagnosis, or ethnographic observation.
+  suggested_aliases:
+  - bodily_mark_of_soul_absence
+  - physical_sign_of_spirit_loss
+  - visible_sign_of_lost_soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visible-death-markers-warning-visitors-away
+  motif_id: visible_death_markers_warning_visitors_away
+  label: visible death markers warning visitors away
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Death markers warning visitors may be mortuary taboo or apotropaic regulation
+    of dangerous spaces, which often sits under sacred_law.
+  cautions: Could be a practical warning sign, funerary custom, boundary marker, or
+    passage-specific ethnographic detail; source evidence is needed before indexing
+    broadly.
+  suggested_aliases:
+  - death_markers_as_warning
+  - mortuary_warning_markers
+  - visible_markers_of_dangerous_death_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visible-or-tangible-lost-soul
+  motif_id: visible_or_tangible_lost_soul
+  label: visible or tangible lost soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly names a lost soul that can be perceived or handled,
+    matching the soul-loss and restoration complex.
+  cautions: Because tradition is comparative, verify this is a motif from source evidence
+    and not only a folklore classification abstraction.
+  suggested_aliases:
+  - tangible_lost_soul
+  - visible_lost_soul
+  - lost_soul_as_visible_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vision-of-miracle-produces-spiritual-attainment
+  motif_id: vision_of_miracle_produces_spiritual_attainment
+  label: Vision of miracle produces spiritual attainment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vision that produces spiritual attainment fits vision as transformative
+    sacred perception and knowledge.
+  cautions: If the emphasis is disciplined progress toward liberation, mystical_quest
+    may be an important secondary group; do not force death/afterlife placement from
+    bucket alone.
+  suggested_aliases:
+  - miracle_vision_produces_attainment
+  - visionary_miracle_as_spiritual_realization
+  - attainment_through_miracle_vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vision-of-one-s-own-guardian-spirit-as-death-omen
+  motif_id: vision_of_one_s_own_guardian_spirit_as_death_omen
+  label: vision of one's own guardian spirit as death omen
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vision functioning as an omen of death belongs with dream/vision and
+    prophetic perception.
+  cautions: May also relate to tutelary spirit under divine_intervention or death_by_fate
+    if the omen marks unavoidable death; preserve guardian-spirit specificity in notes.
+  suggested_aliases:
+  - guardian_spirit_seen_as_death_omen
+  - death_omen_vision_of_guardian_spirit
+  - vision_of_fylgja_as_death_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vision-or-dream-as-vehicle-for-a-soul-immortality-myth
+  motif_id: vision_or_dream_as_vehicle_for_a_soul_immortality_myth
+  label: vision or dream as vehicle for a soul-immortality myth
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: meta_artifact
+  confidence: low
+  rationale: The wording describes a narrative vehicle or interpretive framing more
+    than a concrete motif, though dream/vision is the closest existing group.
+  cautions: Review whether this is a passage motif about a dream revealing immortality,
+    or a scholarly classification of a myth type; exclude as meta if only commentary.
+  suggested_aliases:
+  - dream_reveals_soul_immortality
+  - vision_reveals_immortal_soul
+  - dream_vehicle_for_immortality_doctrine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vision-power-redirected-from-war-toward-healing-and-death
+  motif_id: vision_power_redirected_from_war_toward_healing_and_death
+  label: vision power redirected from war toward healing and death
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: The label centers on visionary power, but the function spans war, healing,
+    and death and depends heavily on cultural context.
+  cautions: Culturally sensitive and over-specific; may involve sacred knowledge,
+    divine_intervention, healing practice, warrior power, or mortuary role depending
+    on source evidence.
+  suggested_aliases:
+  - vision_power_redirected_to_healing
+  - war_vision_power_transformed_to_healing
+  - visionary_power_over_healing_and_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visionary-dream-authentication-of-afterlife-places
+  motif_id: visionary_dream_authentication_of_afterlife_places
+  label: Visionary dream authentication of afterlife places
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dream or vision confirms afterlife locations, supporting mapped postmortem
+    geography and afterlife passage knowledge.
+  cautions: Also belongs near dream_and_vision; if the source only authenticates belief
+    rather than describing postmortem navigation, keep as evidence detail.
+  suggested_aliases:
+  - dream_authenticates_afterlife_places
+  - vision_confirms_afterlife_geography
+  - visionary_authentication_of_afterlife_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine death/afterlife content with dream or vision functions; reviewers
+  should preserve both local afterlife evidence and perception-mode evidence where
+  supported.
+- Single-occurrence and culturally specific spirit/soul labels should be checked against
+  source context before promotion beyond group-level indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0433
+  input_sha256: 3dca20cade513699e3cc700a42116eccfab665984f401c82b4bcaa027ee63c56
+

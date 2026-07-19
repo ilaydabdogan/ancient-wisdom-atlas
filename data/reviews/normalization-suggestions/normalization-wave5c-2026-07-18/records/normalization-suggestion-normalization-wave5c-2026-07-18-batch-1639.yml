@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1639
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.outlaw-berserk-brothers-as-social-threat
+  motif_id: outlaw_berserk_brothers_as_social_threat
+  label: outlaw berserk brothers as social threat
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns figures outside legal/social order, but also combines
+    outlawry, berserk warrior identity, kin-pairing, and social threat.
+  cautions: Single Norse occurrence and culturally specific legal-warrior context;
+    may need a future outlawry/exile group if recurrent, or sacred_combat if battle
+    function dominates.
+  suggested_aliases:
+  - outlaw berserkers as social threat
+  - outlaw brothers threaten social order
+  - berserk outlaw kin as social danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outlaw-excluded-from-legal-standing
+  motif_id: outlaw_excluded_from_legal_standing
+  label: Outlaw excluded from legal standing
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Legal exclusion from standing is a social-order sanction and fits sacred
+    law/legal order better than combat or exile journey.
+  cautions: May be juridical context rather than symbolic motif; preserve as legal-status
+    evidence unless recurring across sources.
+  suggested_aliases:
+  - legal exclusion of the outlaw
+  - outlaw deprived of legal standing
+  - loss of legal standing through outlawry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outlaw-hero-in-a-defensible-mountain-hideout
+  motif_id: outlaw_hero_in_a_defensible_mountain_hideout
+  label: Outlaw hero in a defensible mountain hideout
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: low
+  rationale: A mountain refuge can fit the existing sacred/protective mountain-refuge
+    cluster when the place functions as a charged hideout or boundary space.
+  cautions: If merely tactical geography, exclude as episode detail; if outlaw status
+    matters more than mountain symbolism, sacred_law or hero_journey may be secondary.
+  suggested_aliases:
+  - outlaw hero in mountain refuge
+  - defensible mountain hideout
+  - mountain hideout of an outlaw hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outlaw-in-mountain-refuge-descends-to-confront-intruders
+  motif_id: outlaw_in_mountain_refuge_descends_to_confront_intruders
+  label: Outlaw in mountain refuge descends to confront intruders
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines mountain refuge, descent, outlaw status, and confrontation,
+    making the core motif unclear from wording alone.
+  cautions: Likely episode-specific; do not map to hero_descent unless descent is
+    otherworldly or transformative rather than simply coming down a mountain.
+  suggested_aliases:
+  - outlaw descends from mountain refuge
+  - mountain-refuge outlaw confronts intruders
+  - descent from hideout to confront intruders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outlaw-refuses-to-show-fear-before-opponents
+  motif_id: outlaw_refuses_to_show_fear_before_opponents
+  label: outlaw refuses to show fear before opponents
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Fearless bearing before opponents is a heroic-warrior honor pattern,
+    even though this instance involves an outlaw.
+  cautions: If the passage emphasizes outlaw legal status rather than martial courage,
+    sacred_law may be a secondary review placement; single occurrence may be too granular.
+  suggested_aliases:
+  - fearless outlaw before opponents
+  - warrior refuses to show fear
+  - outlaw displays courage before foes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outlawry-and-forfeiture-as-demanded-sanctions
+  motif_id: outlawry_and_forfeiture_as_demanded_sanctions
+  label: outlawry and forfeiture as demanded sanctions
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Outlawry and forfeiture are formal sanctions within legal-social order,
+    fitting sacred law and social regulation.
+  cautions: May be a procedural legal detail rather than reusable motif; consider
+    excluding if only a saga legal claim without symbolic/narrative recurrence.
+  suggested_aliases:
+  - outlawry and forfeiture sanctions
+  - demanded outlawry and forfeiture
+  - legal forfeiture with outlawry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outlawry-and-social-exclusion-as-penalty
+  motif_id: outlawry_and_social_exclusion_as_penalty
+  label: Outlawry and social exclusion as penalty
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: high
+  rationale: This clearly names a legal-social penalty that excludes a transgressor
+    from the community.
+  cautions: Index as social-order sanction, not as journey/exile unless the passage
+    emphasizes subsequent wandering or transformation.
+  suggested_aliases:
+  - outlawry as social exclusion
+  - social exclusion as legal penalty
+  - penal outlawry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outlawry-as-exclusion-from-social-aid-and-hospitality
+  motif_id: outlawry_as_exclusion_from_social_aid_and_hospitality
+  label: outlawry as exclusion from social aid and hospitality
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns legal exclusion from communal obligations of aid and
+    hospitality, a social-order rule.
+  cautions: Could relate to hospitality_test_stranger_guest by contrast, but the primary
+    function is legal exclusion rather than testing a host.
+  suggested_aliases:
+  - outlaw excluded from hospitality
+  - denial of social aid to outlaw
+  - outlawry excluding communal aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outlawry-of-the-fugitive-transgressor
+  motif_id: outlawry_of_the_fugitive_transgressor
+  label: Outlawry of the fugitive transgressor
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: A fugitive transgressor being placed outside the law fits social sanction
+    and sacred/legal order.
+  cautions: Cross-cultural legal categories may not match Norse-style outlawry; review
+    source terminology and avoid imposing a juridical model if the passage describes
+    ritual expulsion or vengeance instead.
+  suggested_aliases:
+  - fugitive transgressor outlawed
+  - outlawing the fugitive wrongdoer
+  - transgressor excluded as fugitive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outnumbered-warriors-withstand-an-attacking-band
+  motif_id: outnumbered_warriors_withstand_an_attacking_band
+  label: outnumbered warriors withstand an attacking band
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: alias
+  confidence: high
+  rationale: This is a close plural variant of existing heroic last-stand/outnumbered
+    warrior combat patterns under divine_warrior.
+  cautions: If the encounter is ordinary feud combat without sacred or heroic framing,
+    sacred_combat may be a secondary or better group.
+  suggested_aliases:
+  - outnumbered warriors withstand attackers
+  - few warriors withstand an attacking band
+  - outnumbered warriors hold off attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels form a small outlawry cluster. Existing sacred_law can hold legal-exclusion
+  sanctions provisionally, but reviewers may consider a future outlawry/exile-social-death
+  subgroup if these recur across traditions.
+- Mountain-hideout labels are likely episode-specific unless the mountain refuge is
+  symbolically charged; avoid treating ordinary descent from a mountain as underworld
+  descent.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; source context should decide whether
+    legal-outlawry labels are motifs or saga/legal details.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1639
+  input_sha256: 772da6eb990ebab307f40c7b3460cdd716f8130d1c8da7536f1be5907727c619
+

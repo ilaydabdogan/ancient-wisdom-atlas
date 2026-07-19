@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1093
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-threshold-striking-with-fire
+  motif_id: ritual_threshold_striking_with_fire
+  label: ritual threshold striking with fire
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests an apotropaic or boundary-regulating rite, which often
+    falls under sacred_law in the current grouping.
+  cautions: Single occurrence and culturally specific; could instead involve sacred_fire,
+    threshold_guardian, ritual expulsion, or a passage-specific rite depending on
+    evidence.
+  suggested_aliases:
+  - fire_striking_at_threshold
+  - threshold_fire_rite
+  - apotropaic_threshold_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-threshold-test-with-thread-and-animals
+  motif_id: ritual_threshold_test_with_thread_and_animals
+  label: ritual threshold test with thread and animals
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: ritual_variant
+  confidence: low
+  rationale: A threshold test points to passage or boundary regulation, but the thread
+    and animal elements require source context.
+  cautions: May be an ordeal, divination test, ritual prohibition, animal omen, or
+    local liturgical detail; do not map broadly without evidence of a passage function.
+  suggested_aliases:
+  - threshold_test_with_thread
+  - animal_threshold_test
+  - ritual_boundary_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-timing-governed-by-cosmic-calendar
+  motif_id: ritual_timing_governed_by_cosmic_calendar
+  label: ritual timing governed by cosmic calendar
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif directly concerns ritual action ordered by a cosmic or sacred
+    calendar, matching sacred_time.
+  cautions: Preserve Zoroastrian calendrical specificity in evidence notes; avoid
+    flattening into generic seasonal_cycle unless recurrence or seasonality is explicit.
+  suggested_aliases:
+  - ritual_timing_by_cosmic_calendar
+  - cosmic_calendar_governs_ritual
+  - ritual_calendar_under_cosmic_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-toast-with-sacred-sign
+  motif_id: ritual_toast_with_sacred_sign
+  label: ritual toast with sacred sign
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual toast marked by a sacred sign functions as offering, reciprocal
+    honor, or relationship-making with sacred powers or community.
+  cautions: If the passage emphasizes intoxicating drink as sacred substance, sacred_substance
+    may be a secondary mapping; if oath-making is central, curse_blessing_speech or
+    covenant may fit better.
+  suggested_aliases:
+  - sacred_toast
+  - ritual_drink_with_sacred_sign
+  - toast_as_sacred_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-tobacco-handling
+  motif_id: ritual_tobacco_handling
+  label: ritual tobacco handling
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Tobacco used or handled ritually fits the sacred_substance group for
+    ritual plants and consciousness-altering substances.
+  cautions: Culturally sensitive and very broad; source context should determine whether
+    this is medicine, offering, shamanic practice, purification, or a mere ethnographic
+    handling note.
+  suggested_aliases:
+  - ritual_tobacco_use
+  - sacred_tobacco_handling
+  - tobacco_as_ritual_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-transfer-and-enthronement-of-a-sacred-fetish-on-meal
+  motif_id: ritual_transfer_and_enthronement_of_a_sacred_fetish_on_meal
+  label: ritual transfer and enthronement of a sacred fetish on meal
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: The sacred object appears to be ritually transferred and installed, suggesting
+    a power-object or cult-object function.
+  cautions: The term 'fetish' is culturally loaded and may reflect older ethnographic
+    language; could instead fit sacred_exchange, sacred_substance, or sacred_law depending
+    on the meal rite and object function.
+  suggested_aliases:
+  - ritual_enthronement_of_sacred_object
+  - sacred_object_transferred_to_meal
+  - cult_object_enthronement_on_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-transfer-of-sacred-life-breath
+  motif_id: ritual_transfer_of_sacred_life_breath
+  label: ritual transfer of sacred life breath
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual transfer of life-breath describes sacred giving or transmission
+    of vital power between ritual parties.
+  cautions: If the breath is treated as separable soul substance, external_soul or
+    soul_loss_restoration may be relevant; if it creates life, cosmic_origin may be
+    secondary.
+  suggested_aliases:
+  - sacred_breath_transfer
+  - transfer_of_life_breath
+  - ritual_transmission_of_vital_breath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-transfer-of-the-harvest-animal-to-an-unfinished-neighbor
+  motif_id: ritual_transfer_of_the_harvest_animal_to_an_unfinished_neighbor
+  label: Ritual transfer of the harvest animal to an unfinished neighbor
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The harvest animal element aligns with seasonal agricultural ritual,
+    especially the existing corn-spirit harvest-animal cluster under sacred_time.
+  cautions: The 'unfinished neighbor' wording is obscure and may be a comparative
+    artifact; if transfer of burden or misfortune is central, sacrifice or ritual_transfer
+    may fit better.
+  suggested_aliases:
+  - harvest_animal_transfer
+  - ritual_transfer_of_harvest_animal
+  - harvest_animal_passed_to_neighbor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-transfer-or-avoidance-of-animal-traits
+  motif_id: ritual_transfer_or_avoidance_of_animal_traits
+  label: Ritual transfer or avoidance of animal traits
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Avoiding or transferring animal traits suggests taboo, contagion, or
+    ritual regulation, which current groups often place under sacred_law.
+  cautions: Could involve shapeshifter, animal taboo, sympathetic magic, hunting ritual,
+    or ethnographic classification; source evidence is needed before stable placement.
+  suggested_aliases:
+  - animal_trait_transfer_rite
+  - avoidance_of_animal_traits
+  - ritual_animal_trait_contagion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-transfer-through-clans-and-neighboring-pueblos
+  motif_id: ritual_transfer_through_clans_and_neighboring_pueblos
+  label: ritual transfer through clans and neighboring pueblos
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe transmission or distribution of a rite
+    among social groups rather than a symbolic motif within a narrative or ritual
+    act.
+  cautions: Do not use as evidence of borrowing or contact in pattern queries; preserve
+    as provenance if the passage documents clan or Pueblo ritual circulation.
+  suggested_aliases:
+  - ritual_transmission_through_clans
+  - inter_pueblo_ritual_transfer
+  - clan_based_ritual_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and ethnographically specific; recommendations
+  should remain provisional until source passages are reviewed.
+- Avoid treating ritual transfer language as evidence of historical transmission unless
+  the underlying passage explicitly concerns provenance rather than motif content.
+- Terms such as 'fetish' may reflect older scholarly vocabulary and should be reviewed
+  for culturally appropriate normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for culturally
+    specific ritual labels and unclear transfer/threshold items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1093
+  input_sha256: 7f22f79cb2b036625d60b69678cb1815e91c5d71c7aca360ee3539c0629f9294
+

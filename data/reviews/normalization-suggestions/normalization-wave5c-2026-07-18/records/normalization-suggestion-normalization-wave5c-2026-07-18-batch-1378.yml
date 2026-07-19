@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1378
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mythic-great-hawk-associated-with-named-places
+  motif_id: mythic_great_hawk_associated_with_named_places
+  label: mythic great hawk associated with named places
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: Named-place association may indicate landscape or place-name etiology,
+    which is currently grouped under cosmic_origin.
+  cautions: Could instead be a culturally specific animal-being motif, place-only
+    detail, or source note; source evidence is needed before indexing.
+  suggested_aliases:
+  - great hawk associated with named places
+  - mythic bird associated with place names
+  - animal-linked landscape naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-manufacture-of-children-by-non-human-or-named-makers
+  motif_id: mythic_manufacture_of_children_by_non_human_or_named_makers
+  label: mythic manufacture of children by non-human or named makers
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on manufactured or crafted children by non-human makers,
+    matching artificial creation within sacred_craft.
+  cautions: If the passage emphasizes sacred birth, child destiny, or human origins
+    rather than manufacture, miraculous_child or cosmic_origin may be better secondary
+    mappings.
+  suggested_aliases:
+  - manufacture of children by non-human makers
+  - children made by mythic makers
+  - crafted children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-monster-name-transferred-to-introduced-animal
+  motif_id: mythic_monster_name_transferred_to_introduced_animal
+  label: Mythic monster name transferred to introduced animal
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a naming or classification transfer to an introduced
+    animal rather than a narrative motif.
+  cautions: If a source narrative explains the animal through mythic transformation,
+    review for shapeshifter or cosmic_origin; otherwise preserve as ethnographic/commentary
+    metadata.
+  suggested_aliases:
+  - monster name transferred to animal
+  - mythic name applied to introduced animal
+  - introduced animal named after monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-saga-attached-to-landscape-names
+  motif_id: mythic_saga_attached_to_landscape_names
+  label: mythic saga attached to landscape names
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already includes place-name and landscape-name etiologies tied
+    to mythic events.
+  cautions: If the label only notes scholarly association of tales with place names,
+    it may be a meta-textual artifact rather than a motif.
+  suggested_aliases:
+  - mythic saga linked to place names
+  - landscape-name saga etiology
+  - mythic landscape naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythical-being-named-envious-one
+  motif_id: mythical_being_named_envious_one
+  label: Mythical being named Envious-One
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a named being or translation of an epithet rather
+    than a recurring motif pattern.
+  cautions: If the being's function is envy-driven harm or failed imitation, review
+    under pride_and_downfall; do not index from the name alone.
+  suggested_aliases:
+  - Envious-One
+  - mythic being called Envious-One
+  - named envious being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-acquired-through-a-humiliating-food-act
+  motif_id: name_acquired_through_a_humiliating_food_act
+  label: Name acquired through a humiliating food act
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: Naming can function as a performative speech act, but the food humiliation
+    may be social or episode-specific.
+  cautions: Could fit sacred_law, pride_and_downfall, initiation, or be an over-specific
+    tale detail; requires source context and cultural review.
+  suggested_aliases:
+  - name gained through humiliating food act
+  - humiliating food act confers name
+  - naming through food humiliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-acquired-through-deed-patronage-or-religious-relation
+  motif_id: name_acquired_through_deed_patronage_or_religious_relation
+  label: Name acquired through deed, patronage, or religious relation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: Acquiring a name through deed or sacred relation may involve performative
+    naming and status transformation.
+  cautions: The label is broad and may be a biographical convention rather than a
+    motif; could also fit initiation, sacred_exchange, or royal_legitimacy depending
+    on evidence.
+  suggested_aliases:
+  - name acquired through deed
+  - religious relation confers name
+  - name gained through patronage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-and-deed-preserved-through-song
+  motif_id: name_and_deed_preserved_through_song
+  label: name and deed preserved through song
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: high
+  rationale: Song preserving name and deed matches narrative, oral transmission, and
+    fame as survival through performed speech.
+  cautions: If the song is ritually efficacious rather than commemorative, enchanting_music
+    or curse_blessing_speech may be relevant secondary mappings.
+  suggested_aliases:
+  - deeds preserved through song
+  - name preserved through song
+  - song as memorializing power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-and-memory-as-continuity-or-erasure
+  motif_id: name_and_memory_as_continuity_or_erasure
+  label: name and memory as continuity or erasure
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Continuity or erasure through name and memory overlaps with memorial
+    transmission and narrative preservation.
+  cautions: This may be an abstract theological or ethical theme rather than a narrative
+    motif; if tied to blessing/curse of a name, curse_blessing_speech may be better.
+  suggested_aliases:
+  - name and memory continuity
+  - erasure of name and memory
+  - memorial name preservation or erasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-as-provisional-designation
+  motif_id: name_as_provisional_designation
+  label: name as provisional designation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: A provisional name may express a wisdom teaching about designation, identity,
+    or conventional reality.
+  cautions: Likely philosophical doctrine or commentary rather than a mythic motif
+    unless embedded in a recurring narrative pattern.
+  suggested_aliases:
+  - provisional naming
+  - name as conventional designation
+  - designation as provisional
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch concern names, naming, memory, or place association;
+  many may be better preserved as evidence notes unless source passages show a recurring
+  narrative or ritual function.
+- Do not infer transmission or borrowing from shared naming or landscape-etiology
+  placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement only; single-occurrence and culturally specific labels
+    require source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1378
+  input_sha256: b94a50efe7a159ac8fcc26883387c613a55ef605297f51d2308a3e7b086f21c5
+

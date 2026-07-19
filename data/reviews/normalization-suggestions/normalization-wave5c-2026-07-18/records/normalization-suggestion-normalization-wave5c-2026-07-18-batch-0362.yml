@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0362
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.separated-spouse-return-appeal-through-public-mediation
+  motif_id: separated_spouse_return_appeal_through_public_mediation
+  label: separated spouse return appeal through public mediation
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a social mediation or marital-reconciliation scene,
+    not clearly a death/descent motif from wording alone.
+  cautions: Single occurrence and bucket mismatch; could fit sacred_love, covenant,
+    sacred_law, or be an episode-specific plot detail depending on source context.
+  suggested_aliases:
+  - public_mediation_for_spousal_return
+  - appeal_for_return_of_separated_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - covenant
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separation-regret-and-death-preferred-to-absence
+  motif_id: separation_regret_and_death_preferred_to_absence
+  label: Separation regret and death preferred to absence
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Longing so intense that death is preferable to absence fits love as transformative
+    suffering and longing beyond ordinary life.
+  cautions: If the passage emphasizes mortality, lament, or suicidal grief rather
+    than love-longing, lament_and_mourning may be a secondary or better placement.
+  suggested_aliases:
+  - death_preferred_to_separation
+  - love_longing_prefers_death_to_absence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequential-death-prophecy
+  motif_id: sequential_death_prophecy
+  label: sequential death prophecy
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prediction of deaths in sequence is primarily a prophetic or divinatory
+    disclosure of future death.
+  cautions: If the prophecy frames inescapable destiny, death_by_fate may be relevant;
+    if it is a spontaneous dream/vision, dream_and_vision may be better.
+  suggested_aliases:
+  - prophecy_of_sequential_deaths
+  - foretelling_successive_deaths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sequential-deaths-after-an-elk-hunt
+  motif_id: sequential_deaths_after_an_elk_hunt
+  label: sequential deaths after an elk hunt
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label gives an event sequence but not the cause, function, or sacred
+    meaning of the deaths.
+  cautions: Could involve hunting taboo, animal vengeance, fate, divine judgment,
+    or an over-specific episode detail; source evidence is needed.
+  suggested_aliases:
+  - successive_deaths_after_elk_hunt
+  - elk_hunt_followed_by_sequential_deaths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - death_by_fate
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-in-strange-land-before-ancestral-emergence
+  motif_id: settlement_in_strange_land_before_ancestral_emergence
+  label: Settlement in strange land before ancestral emergence
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Settlement preceding ancestral emergence suggests an origin or ancestral-foundation
+    account for a people or land.
+  cautions: If the emphasis is migration/exile rather than origin, hero_journey may
+    be more appropriate; preserve local ancestral-emergence details.
+  suggested_aliases:
+  - ancestral_emergence_after_settlement
+  - settlement_before_origin_of_ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-day-silence-after-return
+  motif_id: seven_day_silence_after_return
+  label: seven-day silence after return
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: ritual_variant
+  confidence: low
+  rationale: A mandated silence after return appears to mark reintegration after a
+    journey or ordeal.
+  cautions: Highly specific; if return is from death or otherworld, descent or death_and_transformation
+    may be secondary. If merely a ritual restriction, sacred_law may fit better.
+  suggested_aliases:
+  - silence_after_return
+  - post_return_silence_period
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - descent
+    - death_and_transformation
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-fate-bearing-spheres-as-soul-forming-cosmic-mechanism
+  motif_id: seven_fate_bearing_spheres_as_soul_forming_cosmic_mechanism
+  label: Seven fate-bearing spheres as soul-forming cosmic mechanism
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Fate-bearing cosmic spheres that shape the soul fit the broader group
+    for personified or cosmic mechanisms of destiny.
+  cautions: Hermetic cosmology may also belong under sacred_knowledge or ascent if
+    the passage concerns instruction or heavenly ascent through spheres.
+  suggested_aliases:
+  - fate_bearing_spheres_form_the_soul
+  - planetary_spheres_as_soul_fate_mechanism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - ascent
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severance-from-the-dead-through-body-disposal-camp-abandonment-and-name-avoidance
+  motif_id: severance_from_the_dead_through_body_disposal_camp_abandonment_and_name_avoidance
+  label: Severance from the dead through body disposal, camp abandonment, and name
+    avoidance
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes mortuary prohibitions and avoidance practices regulating
+    danger or separation from the dead.
+  cautions: Could also relate to ancestor_rites or restless_dead_haunting_vengeance
+    if the purpose is appeasing or preventing return of the dead; handle culturally
+    specific mortuary practice carefully.
+  suggested_aliases:
+  - mortuary_avoidance_to_sever_the_dead
+  - name_avoidance_and_camp_abandonment_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - restless_dead_haunting_vengeance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shade-land-spirit-world
+  motif_id: shade_land_spirit_world
+  label: Shade-Land spirit world
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: low
+  rationale: A named spirit world or land of shades is a nonordinary realm and possible
+    afterlife locale.
+  cautions: If this is specifically the land of the dead with mapped passage requirements,
+    afterlife_passage or descent may be better; avoid flattening local afterlife geography
+    into a generic otherworld.
+  suggested_aliases:
+  - land_of_shades
+  - spirit_world_of_shades
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - descent
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shade-or-ancestor-guarding-a-sacred-tree
+  motif_id: shade_or_ancestor_guarding_a_sacred_tree
+  label: shade or ancestor guarding a sacred tree
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred tree guarded by a dead shade or ancestor combines tree-as-sacred-center
+    with a guardian function.
+  cautions: If the ancestor’s postmortem agency is primary, ancestor_rites or restless_dead_haunting_vengeance
+    may be secondary; if guarding passage is primary, threshold_guardian may fit.
+  suggested_aliases:
+  - ancestor_guardian_of_sacred_tree
+  - shade_guarding_sacred_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - threshold_guardian
+    - restless_dead_haunting_vengeance
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and appear over-specific; suggested
+  placements should be treated as provisional evidence grouping, not taxonomy edits.
+- The review bucket is death/descent/afterlife, but some labels point more strongly
+  to love, social mediation, origin, cosmology, or ritual law.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for human taxonomy review;
+    no transmission or borrowing claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0362
+  input_sha256: a78872d5177b897dd4bec500519277634c95dcf968f3f44bcec17f0c8c6b71da
+

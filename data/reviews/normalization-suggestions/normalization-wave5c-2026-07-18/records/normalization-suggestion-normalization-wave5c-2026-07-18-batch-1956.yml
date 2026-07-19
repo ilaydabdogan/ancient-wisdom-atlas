@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1956
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.polygyny-as-a-recorded-marriage-pattern
+  motif_id: polygyny_as_a_recorded_marriage_pattern
+  label: Polygyny as a recorded marriage pattern
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an ethnographic/social-structure record rather than
+    a narrative or symbolic motif.
+  cautions: If a passage narratively centers rivalry, succession, sacred marriage,
+    or household conflict caused by polygyny, remap that specific function instead.
+  suggested_aliases:
+  - polygyny_recorded_marriage_pattern
+  - polygynous_marriage_as_social_custom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poor-man-helped-by-a-father-s-hidden-arrangement
+  motif_id: poor_man_helped_by_a_father_s_hidden_arrangement
+  label: poor man helped by a father’s hidden arrangement
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve hidden kin aid, marriage arrangement, inheritance, hospitality,
+    or trickster-like reversal, but the label lacks enough function.
+  cautions: Single, context-dependent label; do not map to sacred_exchange or recognition
+    without evidence of reciprocal obligation or identity proof.
+  suggested_aliases:
+  - poor_man_aided_by_hidden_paternal_plan
+  - hidden_fatherly_arrangement_aids_poor_man
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poor-orphan-chosen-as-husband-by-high-status-woman
+  motif_id: poor_orphan_chosen_as_husband_by_high_status_woman
+  label: Poor orphan chosen as husband by high-status woman
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on spouse choice and status-crossing marriage, fitting
+    sacred_love's bride-choice and marriage-choice cluster.
+  cautions: If the passage emphasizes reversal of poverty/status more than love or
+    marriage choice, divine_judgment or royal_legitimacy may be secondary candidates.
+  suggested_aliases:
+  - low_status_orphan_chosen_as_husband
+  - high_status_woman_chooses_poor_orphan_husband
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.possessing-monster-love-producing-tyranny
+  motif_id: possessing_monster_love_producing_tyranny
+  label: Possessing monster-love producing tyranny
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines monstrous possession, distorted love, and political
+    tyranny; the dominant narrative function is unclear.
+  cautions: Could fit sacred_love, shapeshifter/monster material, divine_judgment,
+    or royal_legitimacy depending on source evidence; avoid flattening into love alone.
+  suggested_aliases:
+  - monstrous_possessive_love_creates_tyranny
+  - monster_love_as_possessive_tyranny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.possessive-lover-harms-beloved
+  motif_id: possessive_lover_harms_beloved
+  label: possessive lover harms beloved
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is a harmful or coercive variant of love/longing, close to jealousy
+    and dangerous desire motifs already under sacred_love.
+  cautions: If violence, punishment, or moral reckoning is central, add review notes
+    for divine_judgment or betrayal_violated_trust.
+  suggested_aliases:
+  - harmful_possessive_love
+  - lover_s_possession_harms_the_beloved
+  - jealous_possessive_lover_harms_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.possible-unknown-child-as-threatening-warrior
+  motif_id: possible_unknown_child_as_threatening_warrior
+  label: possible unknown child as threatening warrior
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: May involve hidden identity, kin recognition, miraculous child, or warrior
+    threat, but the qualifier 'possible' signals uncertain extraction.
+  cautions: Review passage evidence before mapping; if recognition prevents kin-slaying,
+    recognition_tokens_hidden_identity may be best, while destined child material
+    may fit miraculous_child.
+  suggested_aliases:
+  - unknown_child_as_threatening_warrior
+  - unrecognized_child_appears_as_warrior_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-birth-infant-killing-reports
+  motif_id: post_birth_infant_killing_reports
+  label: Post-birth infant-killing reports
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording suggests reported ethnographic practice or source note rather
+    than a clear mythic motif.
+  cautions: Culturally sensitive and potentially artifact-like; only map if a narrative
+    pattern such as threatened infancy, sacrifice, or social law is actually present.
+  suggested_aliases:
+  - reported_post_birth_infant_killing
+  - infant_killing_after_birth_reports
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-birth-sleeping-separation
+  motif_id: post_birth_sleeping_separation
+  label: Post-birth sleeping separation
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Likely a postpartum custom or household rule, but its ritual, purity,
+    or narrative function is not clear from the label.
+  cautions: If it is a ritual prohibition or purity rule, sacred_law may fit; if merely
+    ethnographic residence/sleeping practice, exclude from motif queries.
+  suggested_aliases:
+  - postpartum_sleeping_separation
+  - sleep_separation_after_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-birth-water-cleansing
+  motif_id: post_birth_water_cleansing
+  label: post-birth water cleansing
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Water cleansing after birth is a purification use of sacred or ritual
+    water.
+  cautions: If the passage frames it mainly as postpartum law or taboo, sacred_law
+    may be a secondary review mapping; avoid treating it as flood or water passage.
+  suggested_aliases:
+  - postpartum_water_cleansing
+  - water_purification_after_birth
+  - ritual_cleansing_after_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-marital-residence-with-wife-s-parental-household
+  motif_id: post_marital_residence_with_wife_s_parental_household
+  label: post-marital residence with wife's parental household
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a residence pattern/social custom rather than a symbolic
+    or narrative motif.
+  cautions: If a story uses matrilocal residence to drive ordeal, inheritance, marriage
+    contest, or household conflict, extract that narrative function separately.
+  suggested_aliases:
+  - matrilocal_postmarital_residence
+  - residence_with_wife_s_parental_household_after_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be ethnographic family-structure or postpartum-practice
+  observations rather than reusable narrative motifs; human review should separate
+  social custom notes from motif indexing.
+- For love/family labels, distinguish marriage-choice narrative functions from residence,
+  polygyny, or birth-practice documentation.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; culturally sensitive postpartum and
+    infant-killing labels require source review before final placement.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1956
+  input_sha256: 9c248e0558ad970d75a5124d4696f1e6f755a91b6bb265f52638012cd759dc2a
+

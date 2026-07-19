@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3161
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.assimilation-and-later-limited-independence-of-incoming-families
+  motif_id: assimilation_and_later_limited_independence_of_incoming_families
+  label: assimilation and later limited independence of incoming families
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as social-historical kinship process rather than a clear
+    symbolic or narrative motif.
+  cautions: May be an ethnographic or passage-specific social organization detail;
+    source context is needed before mapping to sacred_law, covenant, or lineage-origin
+    patterns.
+  suggested_aliases:
+  - incoming_families_assimilated_then_limitedly_independent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.assisted-entry-preventing-a-fall
+  motif_id: assisted_entry_preventing_a_fall
+  label: assisted entry preventing a fall
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Assisted entry could mark a threshold passage, but the label is too bare
+    to identify a recurring motif.
+  cautions: Could be a literal action detail, initiation threshold, rescue, or spatial-boundary
+    scene depending on evidence; do not map solely from wording.
+  suggested_aliases:
+  - helped_entry_avoids_falling
+  - assisted_threshold_entry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.asterism-as-an-archer-s-body-part
+  motif_id: asterism_as_an_archer_s_body_part
+  label: Asterism as an archer's body part
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A body part identified with a star group fits postmortem or mythic bodily
+    transformation into celestial form.
+  cautions: If the passage is only an astronomical catalogue or naming convention,
+    exclude as textual artifact; if it explains star origins more broadly, cosmic_origin
+    may be a secondary mapping.
+  suggested_aliases:
+  - body_part_transformed_into_asterism
+  - archer_body_part_as_star_group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.astral-catalogue-entries
+  motif_id: astral_catalogue_entries
+  label: astral catalogue entries
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes catalogue structure or textual listing rather than
+    a mythic motif.
+  cautions: If individual entries contain myths of stars, those should be indexed
+    separately under cosmic_origin, sacred_time, or prophecy_divination as appropriate.
+  suggested_aliases:
+  - astral_catalogue_listing
+  - celestial_catalogue_entries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.astral-idolatry-differentiated-by-celestial-body
+  motif_id: astral_idolatry_differentiated_by_celestial_body
+  label: astral idolatry differentiated by celestial body
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Condemnation or classification of astral idolatry concerns exclusive
+    worship and violation of sacred bond.
+  cautions: If the passage is a legal taxonomy of prohibited practices, sacred_law
+    may be a stronger parent; if it is purely commentary classification, consider
+    exclusion.
+  suggested_aliases:
+  - astral_idolatry_by_celestial_body
+  - celestial_body_idolatry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.astral-witnesses-withholding-practical-aid
+  motif_id: astral_witnesses_withholding_practical_aid
+  label: astral witnesses withholding practical aid
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Existing duality group includes cosmic_witness; astral witnessing without
+    aid appears to be a variant of cosmic witness imagery.
+  cautions: Low confidence because the practical-aid contrast may be ethical or rhetorical
+    rather than mythic; could fit divine_judgment if the stars witness moral conduct.
+  suggested_aliases:
+  - celestial_witnesses_without_aid
+  - stars_as_witnesses_withholding_help
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.astrological-classification-of-lucky-and-unlucky-days
+  motif_id: astrological_classification_of_lucky_and_unlucky_days
+  label: Astrological classification of lucky and unlucky days
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: The group already includes auspicious and inauspicious calendar days
+    governing practical actions.
+  cautions: If emphasis is on the divinatory method rather than calendar order, prophecy_divination
+    may be a secondary mapping.
+  suggested_aliases:
+  - auspicious_and_inauspicious_days
+  - lucky_and_unlucky_calendar_days
+  - astrological_calendar_day_classification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.astrological-terminology-integrated-into-local-divination
+  motif_id: astrological_terminology_integrated_into_local_divination
+  label: Astrological terminology integrated into local divination
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes integration of terminology into a local system,
+    likely an interpretive or transmission note rather than a motif.
+  cautions: Do not use this as a transmission claim. If the passage describes actual
+    divinatory practice, map the practice to prophecy_divination; if it only notes
+    vocabulary, exclude as meta-textual.
+  suggested_aliases:
+  - astrological_terms_in_local_divination
+  - local_divination_with_astrological_vocabulary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.asymmetric-paternal-totem-avoidance
+  motif_id: asymmetric_paternal_totem_avoidance
+  label: asymmetric paternal totem avoidance
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a culturally specific kinship or taboo rule not cleanly
+    covered by current groups.
+  cautions: Potentially sensitive ethnographic category; could belong under sacred_law
+    if framed as ritual prohibition, but needs source evidence and human review.
+  suggested_aliases:
+  - paternal_totem_avoidance
+  - asymmetric_totemic_avoidance_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.atonement-and-blood-prohibition
+  motif_id: atonement_and_blood_prohibition
+  label: atonement and blood prohibition
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label combines atonement rite with blood-as-life prohibition, both
+    already represented under sacrifice/sacred_law complexes.
+  cautions: If the passage emphasizes offering and expiation, sacrifice is an important
+    secondary mapping; preserve the blood-prohibition detail.
+  suggested_aliases:
+  - blood_prohibition_and_atonement
+  - atonement_rite_with_blood_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and look like ethnographic, textual, or classification
+  artifacts; human review should verify passage evidence before promotion.
+- No transmission or borrowing inference is implied by any suggested placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific kinship/totem
+    and terminology labels need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3161
+  input_sha256: 4139287647aeb598213afa78b7ec6f71dade56bd7a3f9febc2480d217d73b242
+

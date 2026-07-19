@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3963
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.slayer-and-slain-figure
+  motif_id: slayer_and_slain_figure
+  label: slayer and slain figure
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too general to distinguish combat, vengeance, sacrifice,
+    fate, or role succession.
+  cautions: Single occurrence and lacks narrative function; avoid mapping only from
+    killing terminology.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slayer-becomes-replacement-protector
+  motif_id: slayer_becomes_replacement_protector
+  label: Slayer becomes replacement protector
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A combat outcome transforms the slayer into the new protective champion
+    or defender role.
+  cautions: Could instead fit royal_legitimacy or covenant if the replacement is legal
+    succession or oath-bound guardianship rather than martial protection.
+  suggested_aliases:
+  - victor_becomes_replacement_guardian
+  - slayer_succeeds_as_protector
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slaying-of-the-appointed-watcher
+  motif_id: slaying_of_the_appointed_watcher
+  label: slaying of the appointed watcher
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: An appointed watcher functions as a guardian figure whose defeat enables
+    passage, theft, or transgression.
+  cautions: If the watcher is merely a military sentry in an episode, this may be
+    an over-specific combat detail under sacred_combat or should be excluded.
+  suggested_aliases:
+  - slain_watcher
+  - guardian_watcher_slain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slaying-settled-by-compensation
+  motif_id: slaying_settled_by_compensation
+  label: slaying settled by compensation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Compensation for killing concerns legally or ritually regulated repair
+    of social order after violence.
+  cautions: Could also relate to covenant or sacred_exchange if the passage emphasizes
+    oath settlement, feud repair, or reciprocal payment rather than law.
+  suggested_aliases:
+  - blood_compensation_for_slaying
+  - wergild_settlement_for_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slaying-the-adversary-saves-the-threatened-lands
+  motif_id: slaying_the_adversary_saves_the_threatened_lands
+  label: Slaying the adversary saves the threatened lands
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A hero defeats a threatening adversary and thereby protects or restores
+    the land, matching sacred combat's order-restoring function.
+  cautions: If the adversary is not supernatural or ritually charged, sacred_combat
+    may be a secondary or narrower placement.
+  suggested_aliases:
+  - hero_slaying_saves_the_land
+  - adversary_slaying_restores_threatened_lands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slaying-the-source-of-wealth
+  motif_id: slaying_the_source_of_wealth
+  label: Slaying the source of wealth
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate sacrifice, greed punishment, loss of abundance,
+    monster-slaying, or an episode-specific economic detail.
+  cautions: Source context is needed to know whether the slain source is an animal,
+    deity, monster, patron, or metaphorical wealth source.
+  suggested_aliases:
+  - killing_the_source_of_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-caused-by-spoken-wish
+  motif_id: sleep_caused_by_spoken_wish
+  label: sleep caused by spoken wish
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spoken wish directly causes transformation of state, fitting performative
+    sacred speech.
+  cautions: Could also fit storytelling_as_power or enchanting_music if the wording
+    is a charm, song, or narrative spell rather than a single wish.
+  suggested_aliases:
+  - spoken_wish_induces_sleep
+  - sleep_by_performative_wish
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-charm-by-enumerating-eyes
+  motif_id: sleep_charm_by_enumerating_eyes
+  label: Sleep charm by enumerating eyes
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a verbal charm whose utterance induces sleep, a
+    performative speech act.
+  cautions: The enumerating-eyes detail is highly specific; preserve it as evidence
+    unless similar charms recur across sources.
+  suggested_aliases:
+  - verbal_sleep_charm
+  - enumeration_charm_induces_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-enabled-carrying-away-in-a-bag
+  motif_id: sleep_enabled_carrying_away_in_a_bag
+  label: sleep-enabled carrying away in a bag
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Induced sleep enabling abduction in a bag reads as a deceptive capture
+    or trickster escape/capture stratagem.
+  cautions: If the sleep is magical sound or speech, secondary mapping to enchanting_music
+    or curse_blessing_speech may be appropriate; bag detail may be over-specific.
+  suggested_aliases:
+  - sleep_enabled_abduction
+  - sleep_magic_enables_bag_capture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-enchantment-and-undervalued-youngest-companion
+  motif_id: sleep_enchantment_and_undervalued_youngest_companion
+  label: Sleep enchantment and undervalued youngest companion
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label combines two distinct patterns: magical sleep and the underestimated
+    youngest helper or companion.'
+  cautions: Split evidence if possible; sleep enchantment may map to enchanting_music,
+    curse_blessing_speech, or trickster depending on mechanism, while youngest-companion
+    status lacks a clear current group.
+  suggested_aliases:
+  - sleep_enchantment_with_underestimated_youngest_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and depend heavily on passage function; suggestions
+  should be treated as provisional review placements.
+- 'For sleep motifs, distinguish mechanism: spoken charm or wish belongs closer to
+  curse_blessing_speech, while music-induced sleep belongs to enchanting_music and
+  deceptive capture belongs to trickster.'
+- For slaying motifs, do not map all killing to sacred combat; check whether the passage
+  emphasizes guardianship, compensation law, land restoration, sacrifice, or episode-specific
+  violence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3963
+  input_sha256: 86d9e113fddedab381015e0b479d069a2a5bc4b418d139003eeb0c17a99e9242
+

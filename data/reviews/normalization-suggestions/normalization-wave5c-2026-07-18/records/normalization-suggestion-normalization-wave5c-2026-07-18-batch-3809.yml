@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3809
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prolonged-duel-governed-by-custom
+  motif_id: prolonged_duel_governed_by_custom
+  label: Prolonged duel governed by custom
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A duel regulated by custom fits ritualized or formal combat patterns
+    already grouped under sacred_combat.
+  cautions: Single occurrence; verify whether the custom is ritually or socially significant
+    rather than just episode detail.
+  suggested_aliases:
+  - custom_governed_duel
+  - formal_duel_governed_by_custom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prolonged-healing-ceremony-with-secret-and-public-phases
+  motif_id: prolonged_healing_ceremony_with_secret_and_public_phases
+  label: Prolonged healing ceremony with secret and public phases
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a culturally specific healing ceremony structure
+    not cleanly covered by existing ritual, knowledge, or divine-intervention groups.
+  cautions: Culturally sensitive Navajo ceremonial material; requires source review
+    before indexing or generalizing.
+  suggested_aliases:
+  - healing_ceremony_with_secret_and_public_phases
+  - multi_phase_healing_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prolonged-learning-impeded-by-forgetfulness
+  motif_id: prolonged_learning_impeded_by_forgetfulness
+  label: Prolonged learning impeded by forgetfulness
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns acquisition of knowledge obstructed by forgetfulness,
+    fitting the sacred knowledge and wisdom complex.
+  cautions: May be an ethical-psychological teaching or episode detail rather than
+    a durable motif; context may point to initiation or discipline.
+  suggested_aliases:
+  - forgetfulness_impedes_learning
+  - learning_obstructed_by_forgetfulness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prolonged-trance-or-sleep-with-communal-procession
+  motif_id: prolonged_trance_or_sleep_with_communal_procession
+  label: prolonged trance or sleep with communal procession
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: ritual_variant
+  confidence: low
+  rationale: Trance or prolonged sleep belongs broadly with altered perception, while
+    the procession suggests ritualized communal handling.
+  cautions: Composite and culturally specific; could instead belong to healing, initiation,
+    or ritual procession if evidence emphasizes ceremony over altered perception.
+  suggested_aliases:
+  - prolonged_trance_with_communal_procession
+  - ritual_sleep_with_procession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prometheus-saga-classification
+  motif_id: prometheus_saga_classification
+  label: Prometheus saga classification
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes a scholarly classification of a saga type rather
+    than a narrative motif in the passage.
+  cautions: If the source actually narrates fire theft or culture-hero action, preserve
+    those motifs separately under sacred_theft, culture_hero, or trickster.
+  suggested_aliases:
+  - prometheus_saga_type
+  - prometheus_classification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prominent-svastika-flyfot-textile-design
+  motif_id: prominent_svastika_flyfot_textile_design
+  label: prominent svastika/flyfot textile design
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A textile symbol may be ritually or cosmologically meaningful, but the
+    label alone only records a design element.
+  cautions: Symbol is culturally sensitive and may be an artifact-description rather
+    than a motif; source context needed before mapping to sacred_treasures, sacred_craft,
+    or cosmic symbolism.
+  suggested_aliases:
+  - svastika_textile_design
+  - flyfot_textile_design
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.promise-to-die-with-the-speaker
+  motif_id: promise_to_die_with_the_speaker
+  label: promise to die with the speaker
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A promise binding one person to die with another is a vow or sacred bond
+    with death stakes.
+  cautions: Could be mourning, sacrifice, loyalty oath, or episode-specific speech
+    depending on context; avoid assuming ritual suicide without evidence.
+  suggested_aliases:
+  - death_bound_promise
+  - vow_to_die_with_another
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.promised-encounter-delayed-for-filial-vengeance
+  motif_id: promised_encounter_delayed_for_filial_vengeance
+  label: Promised encounter delayed for filial vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: Filial vengeance points toward feud and combat obligation, which fit
+    sacred_combat more than journey or love motifs.
+  cautions: Highly episode-specific; may be better preserved as evidence under vengeance/feud
+    rather than promoted as a motif.
+  suggested_aliases:
+  - encounter_delayed_for_filial_vengeance
+  - filial_vengeance_delays_promised_meeting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.promised-possession-sustaining-a-sect
+  motif_id: promised_possession_sustaining_a_sect
+  label: promised possession sustaining a sect
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern eschatological promise, sectarian identity, spirit
+    possession, or doctrinal expectation, none clear from the wording.
+  cautions: Religiously and historically sensitive; may be commentary about a sect
+    rather than a mythic motif. Requires source evidence.
+  suggested_aliases:
+  - promised_possession_as_sectarian_support
+  - sect_sustained_by_promised_possession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pronunciation-as-proof-of-group-origin
+  motif_id: pronunciation_as_proof_of_group_origin
+  label: pronunciation as proof of group origin
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Speech pronunciation functions as an identity marker proving group origin,
+    analogous to tokens or other identity proofs.
+  cautions: Could be ethnographic classification or language-origin commentary rather
+    than a narrative recognition motif; review passage context.
+  suggested_aliases:
+  - pronunciation_as_identity_proof
+  - speech_marker_of_group_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and highly contextual; preserve local evidence
+  notes during review.
+- Ritual and culturally specific ceremonial labels should be reviewed against source
+  context before broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3809
+  input_sha256: fc815b1da73cc73902e0726c6f4b2399622ec242320d5bd52359dc027aa346a8
+

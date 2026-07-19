@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1982
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rock-associated-child-or-kin
+  motif_id: rock_associated_child_or_kin
+  label: Rock-associated child or kin
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests kinship or child association with a rock, but the
+    function could be birth, transformation, ancestor embodiment, place etiology,
+    or local sacred geography.
+  cautions: Single occurrence and culturally specific; needs source evidence before
+    mapping to miraculous_child, death_and_transformation, cosmic_origin, or axis_mundi.
+  suggested_aliases:
+  - child associated with rock
+  - kin associated with rock
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-bride-s-reception-prepared-by-kin
+  motif_id: royal_bride_s_reception_prepared_by_kin
+  label: Royal bride's reception prepared by kin
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-specific social preparation detail rather than
+    a durable symbolic or narrative motif.
+  cautions: If the passage emphasizes marriage alliance, sovereignty, or bride-choice
+    ritual, review under sacred_love or royal_legitimacy as secondary evidence.
+  suggested_aliases:
+  - kin prepare royal bride reception
+  - prepared reception for royal bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-bride-selection-after-mourning
+  motif_id: royal_bride_selection_after_mourning
+  label: royal bride selection after mourning
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Bride selection belongs with marriage choice and bride-winning patterns
+    already grouped under sacred_love.
+  cautions: The mourning sequence may also support lament_and_mourning if grief, replacement,
+    or succession is the core function rather than marriage choice.
+  suggested_aliases:
+  - bride selection after mourning
+  - royal marriage selection after mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-child-in-a-liminal-forest-water-setting
+  motif_id: royal_child_in_a_liminal_forest_water_setting
+  label: royal child in a liminal forest-water setting
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A royal child in a liminal setting could indicate threatened infancy,
+    hidden upbringing, otherworld contact, initiation, or simple scene-setting.
+  cautions: Do not map solely from liminal imagery; source context is needed to distinguish
+    miraculous_child, otherworld, sacred_waters, or hero_journey.
+  suggested_aliases:
+  - royal child at forest-water threshold
+  - child in liminal forest and water setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-daughter-offered-in-exchange-for-enemy-s-head
+  motif_id: royal_daughter_offered_in_exchange_for_enemy_s_head
+  label: royal daughter offered in exchange for enemy’s head
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key narrative function is a combat reward or exchange tied to taking
+    an enemy's head, which fits sacred_combat more than general marriage.
+  cautions: May also involve bride-winning, royal_legitimacy, or objectification of
+    a royal woman; review cultural and gender context before broad indexing.
+  suggested_aliases:
+  - bride offered for enemy head
+  - royal daughter as reward for enemy's head
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-decree-against-newborn-male-children
+  motif_id: royal_decree_against_newborn_male_children
+  label: Royal decree against newborn male children
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: high
+  rationale: A decree targeting newborn males is a threatened-infancy pattern often
+    surrounding a child of destiny.
+  cautions: If the passage emphasizes tyranny or collective oppression rather than
+    the protected child, royal_legitimacy or divine_judgment may be relevant secondary
+    mappings.
+  suggested_aliases:
+  - threatened male newborns by royal decree
+  - royal massacre decree against newborn boys
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-family-reunion-after-separation
+  motif_id: royal_family_reunion_after_separation
+  label: Royal family reunion after separation
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: low
+  rationale: Family reunion after separation often depends on recognition and identity
+    restoration, which this group covers best among existing options.
+  cautions: If no recognition device or hidden identity is present, the label may
+    be a plot-resolution detail better excluded or mapped to hero_journey return.
+  suggested_aliases:
+  - family reunion after separation
+  - royal kin reunited after separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-favor-transforms-the-poor-child-s-fortune
+  motif_id: royal_favor_transforms_the_poor_child_s_fortune
+  label: Royal favor transforms the poor child's fortune
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could be social elevation by royal patronage, divine grace
+    through a ruler, compassion, or a didactic Sufi reversal.
+  cautions: Existing groups do not cleanly cover fortune reversal by royal favor;
+    verify whether the king functions as sacred authority, moral exemplar, or ordinary
+    patron.
+  suggested_aliases:
+  - poor child elevated by royal favor
+  - royal patronage changes a child's fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-generosity-following-a-comic-petition
+  motif_id: royal_generosity_following_a_comic_petition
+  label: royal generosity following a comic petition
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A petition answered by royal generosity fits reciprocal giving, supplication,
+    and gift exchange patterns.
+  cautions: The comic framing may make this a narrative anecdote; if it is primarily
+    humor or courtly characterization, exclude from broad motif queries.
+  suggested_aliases:
+  - comic petition rewarded by royal generosity
+  - royal gift after humorous petition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-grief-for-slain-child
+  motif_id: royal_grief_for_slain_child
+  label: Royal grief for slain child
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The label centers on grief over a dead child, a clear mourning and lament
+    pattern.
+  cautions: If the slain child is politically important, royal_legitimacy or divine_judgment
+    may be secondary; preserve the royal and child-specific detail as evidence.
+  suggested_aliases:
+  - king's grief for slain child
+  - royal mourning for dead child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; suggested
+  mappings should be treated as provisional evidence placement rather than canonical
+  motif promotion.
+- For family and bride labels, distinguish marriage-choice or alliance functions from
+  mere courtly scene details.
+- No transmission or borrowing claims are implied by any suggested placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 1982; human review
+    needed especially for culturally specific rock-child and liminal-child labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1982
+  input_sha256: 7e0858076789299e1588099af628fde3687ad760c23f2762f66cd4872e1ea8b9
+

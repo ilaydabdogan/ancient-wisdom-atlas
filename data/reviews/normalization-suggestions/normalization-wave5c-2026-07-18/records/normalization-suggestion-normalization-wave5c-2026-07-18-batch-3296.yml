@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3296
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cooperative-spiral-vault-construction
+  motif_id: cooperative_spiral_vault_construction
+  label: cooperative spiral vault construction
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes cooperative construction, but its symbolic or narrative
+    function is unclear from wording alone.
+  cautions: May be an architectural/ethnographic detail rather than a motif; could
+    relate to sacred_craft only if the construction has sacred, wondrous, or transformative
+    function.
+  suggested_aliases:
+  - communal_vault_construction
+  - cooperative_architectural_construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coordinated-ambush-with-positioned-hunters
+  motif_id: coordinated_ambush_with_positioned_hunters
+  label: coordinated ambush with positioned hunters
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a tactical hunting detail rather than a recurring
+    symbolic or mythic motif.
+  cautions: If the passage frames the ambush as ritualized, supernatural, or morally
+    charged conflict, review for sacred_combat or divine_judgment.
+  suggested_aliases:
+  - positioned_hunters_ambush
+  - coordinated_hunting_ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coordinated-attack-on-a-harmful-animated-object
+  motif_id: coordinated_attack_on_a_harmful_animated_object
+  label: coordinated attack on a harmful animated object
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: A harmful animated object fits the artificial or animated object complex
+    already placed under sacred_craft.
+  cautions: If the main pattern is combat against a dangerous being rather than animation/craft,
+    sacred_combat or divine_intervention may be secondary.
+  suggested_aliases:
+  - attack_on_harmful_animated_object
+  - dangerous_animated_object_destroyed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coordinated-ceremonial-dance-before-praying-choirs
+  motif_id: coordinated_ceremonial_dance_before_praying_choirs
+  label: coordinated ceremonial dance before praying choirs
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label clearly describes ritual performance, but the taxonomy lacks
+    a broad ritual dance/performance group and the function is not specified.
+  cautions: Culturally specific ceremonial practice should not be flattened into music,
+    sacrifice, or sacred exchange without passage evidence.
+  suggested_aliases:
+  - ceremonial_dance_before_prayer
+  - coordinated_ritual_dance_with_choirs
+  suggested_new_group:
+    id: ritual_performance_dance
+    label: Ritual Performance and Ceremonial Dance
+    description: Ceremonial dance, procession, choral prayer, or embodied performance
+      used to mediate sacred presence, communal order, petition, or transformation.
+    parent_group_ids:
+    - sacred_exchange
+    related_group_ids:
+    - enchanting_music
+    - sacred_time
+    - theophany
+    reason_existing_groups_insufficient: Existing groups cover sacred song and enchanting
+      music but not embodied ritual dance or coordinated ceremonial performance as
+      such.
+- suggestion_id: normalization.suggestion.coordinated-communal-hunt
+  motif_id: coordinated_communal_hunt
+  label: Coordinated communal hunt
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A coordinated communal hunt is likely a subsistence or episode detail
+    unless ritual or supernatural framing is present.
+  cautions: Review source context for ceremonial hunt, animal helper, taboo, or culture-hero
+    functions before excluding permanently.
+  suggested_aliases:
+  - communal_hunt
+  - cooperative_group_hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coordinated-group-drive-and-strike-hunt
+  motif_id: coordinated_group_drive_and_strike_hunt
+  label: coordinated group drive-and-strike hunt
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The phrase describes a specific hunting tactic rather than a symbolic
+    narrative function.
+  cautions: Could warrant review if the hunt is ritualized, etiological, or involves
+    supernatural animal-human relations.
+  suggested_aliases:
+  - drive_and_strike_hunt
+  - group_drive_hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coordinated-herd-drive-into-a-bottleneck
+  motif_id: coordinated_herd_drive_into_a_bottleneck
+  label: coordinated herd drive into a bottleneck
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a highly specific hunting or herding tactic with no clear mythic
+    function in the label.
+  cautions: If tied to sacred landscape, ritual hunt, or animal-spirit relations,
+    human review may preserve it as evidence under a ritual or sacred law grouping.
+  suggested_aliases:
+  - herd_drive_into_bottleneck
+  - bottleneck_herd_drive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coordinated-pre-dawn-ambush
+  motif_id: coordinated_pre_dawn_ambush
+  label: coordinated pre-dawn ambush
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: An ambush is a combat tactic and best fits the broad sacred_combat group
+    when retained for pattern queries.
+  cautions: Pre-dawn timing may be only episode-specific; exclude if no ritual, sacred,
+    or mythic combat function is present.
+  suggested_aliases:
+  - pre_dawn_ambush
+  - dawn_ambush_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coordinated-punitive-incursion-from-multiple-directions
+  motif_id: coordinated_punitive_incursion_from_multiple_directions
+  label: Coordinated punitive incursion from multiple directions
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes organized punitive warfare, fitting the broad sacred_combat
+    group if the episode is mythically salient.
+  cautions: Punitive framing may also involve divine_judgment if punishment is morally
+    or sacredly authorized; multiple-direction detail is likely over-specific.
+  suggested_aliases:
+  - punitive_incursion
+  - coordinated_punitive_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.copied-pottery-designs-with-unknown-symbolism
+  motif_id: copied_pottery_designs_with_unknown_symbolism
+  label: copied pottery designs with unknown symbolism
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label reports uncertainty about material symbolism rather than a
+    usable narrative or symbolic motif.
+  cautions: Preserve as artifact/provenance note if needed; do not infer symbolic
+    meaning from copied designs without evidence.
+  suggested_aliases:
+  - unknown_pottery_symbolism
+  - copied_designs_of_uncertain_meaning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch describe hunting or combat tactics with single occurrences;
+  preserve as evidence only when source context shows ritual, sacred, etiological,
+  or supernatural function.
+- The ceremonial dance item may reveal a gap for ritual performance distinct from
+  sacred song/music, but it needs culturally informed human review before adding a
+  group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review needed especially for Indigenous
+    ceremonial and hunting-context labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3296
+  input_sha256: 83f542561d102116adc579ab9f0d7cd17d1d5858027917ff875f8046cf61db26
+

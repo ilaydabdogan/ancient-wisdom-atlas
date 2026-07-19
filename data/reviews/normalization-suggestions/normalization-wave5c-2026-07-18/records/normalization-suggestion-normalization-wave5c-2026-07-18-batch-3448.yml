@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3448
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.feigned-identity-to-evade-detection
+  motif_id: feigned_identity_to_evade_detection
+  label: feigned identity to evade detection
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A false identity used to avoid detection is a deception and boundary-crossing
+    strategy fitting the trickster complex.
+  cautions: Single occurrence; if the passage emphasizes hidden rightful identity
+    or recognition tokens rather than deception, recognition_tokens_hidden_identity
+    may be a better secondary group.
+  suggested_aliases:
+  - disguise_to_evade_detection
+  - assumed_identity_to_escape_detection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-illness-as-predatory-trap
+  motif_id: feigned_illness_as_predatory_trap
+  label: feigned illness as predatory trap
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing trickster group already contains predator deception and
+    luring-victim patterns; feigned illness is the lure mechanism.
+  cautions: Could be too episode-specific unless similar feigned-weakness labels recur;
+    preserve predatory-trap wording as evidence detail.
+  suggested_aliases:
+  - predator_feigns_illness_to_lure_victims
+  - feigned_weakness_as_predatory_lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-illness-as-stratagem
+  motif_id: feigned_illness_as_stratagem
+  label: feigned illness as stratagem
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Feigning illness as a tactic is a deceptive stratagem aligned with trickster
+    deception rather than illness as a ritual or body motif.
+  cautions: If used specifically in battle planning, sacred_combat could be a secondary
+    contextual group; label alone does not show sacred warfare.
+  suggested_aliases:
+  - feigned_sickness_as_deception
+  - pretended_illness_as_trick
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-illness-used-to-create-an-opportunity
+  motif_id: feigned_illness_used_to_create_an_opportunity
+  label: feigned illness used to create an opportunity
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Pretended illness creates an opening through deception, fitting the trickster
+    group’s broader stratagem and boundary-violation logic.
+  cautions: Very general and single occurrence; review whether it is a reusable motif
+    or a passage-specific plot tactic.
+  suggested_aliases:
+  - feigned_sickness_creates_opening
+  - pretended_illness_as_opportunity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-retreat-draws-enemies-into-a-trap
+  motif_id: feigned_retreat_draws_enemies_into_a_trap
+  label: Feigned retreat draws enemies into a trap
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A deceptive battlefield withdrawal that lures enemies into a trap is
+    a combat stratagem within the sacred_combat warfare cluster.
+  cautions: The deceptive element also relates to trickster, but the primary narrative
+    function is martial ambush.
+  suggested_aliases:
+  - feigned_retreat_into_trap
+  - tactical_retreat_lures_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-retreat-into-ambush
+  motif_id: feigned_retreat_into_ambush
+  label: feigned retreat into ambush
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: This is the same martial stratagem pattern as feigned retreat drawing
+    enemies into a trap, best placed under sacred_combat.
+  cautions: May be an alias candidate for feigned_retreat_draws_enemies_into_a_trap
+    rather than an independent motif label.
+  suggested_aliases:
+  - feigned_retreat_draws_enemies_into_a_trap
+  - feigned_retreat_into_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-sleep-and-reversal-of-ambush
+  motif_id: feigned_sleep_and_reversal_of_ambush
+  label: feigned sleep and reversal of ambush
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Pretended vulnerability used to reverse an ambush is a deception/reversal
+    strategy, fitting trickster stratagems.
+  cautions: If the passage is framed mainly as combat tactics or heroic warfare, sacred_combat
+    should be considered as a secondary placement.
+  suggested_aliases:
+  - feigned_sleep_reverses_ambush
+  - pretended_sleep_to_trap_attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-sleep-to-avoid-a-night-murder-attempt
+  motif_id: feigned_sleep_to_avoid_a_night_murder_attempt
+  label: Feigned sleep to avoid a night murder attempt
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Feigning sleep to survive a covert attack is a deceptive escape tactic
+    aligned with trickster survival strategies.
+  cautions: Single, highly situational label; may be better preserved as evidence
+    detail unless recurring across sources.
+  suggested_aliases:
+  - pretended_sleep_to_escape_murder
+  - feigned_sleep_to_evade_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigning-peaceful-visitation-before-attack
+  motif_id: feigning_peaceful_visitation_before_attack
+  label: Feigning peaceful visitation before attack
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A peaceful visit used as cover for attack centers on violated trust and
+    deceptive social approach.
+  cautions: Could also map to sacred_combat as a war stratagem or trickster as deception;
+    source context should decide whether betrayal or combat is primary.
+  suggested_aliases:
+  - false_peace_visit_before_attack
+  - peaceful_visitation_as_attack_ruse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-abductor-uses-grooming-and-magic-sleep
+  motif_id: female_abductor_uses_grooming_and_magic_sleep
+  label: female abductor uses grooming and magic sleep
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: low
+  rationale: The clearest reusable element is supernatural sleep-compulsion, which
+    is represented in the enchanting_music/sound-power complex even though grooming
+    is the mechanism here.
+  cautions: 'Needs human review: the motif combines gendered abductor role, grooming,
+    abduction, and magical sleep. If no sound/music is involved, a future broader
+    enchantment-compulsion or abduction group may be preferable.'
+  suggested_aliases:
+  - magic_sleep_used_in_abduction
+  - grooming_induces_magical_sleep
+  - abductor_uses_sleep_enchantment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence deception stratagems. Prefer
+  aliasing or child placement under existing trickster, sacred_combat, or betrayal
+  groups rather than creating new groups.
+- The feigned-retreat pair appears synonymous and should be reviewed for alias consolidation.
+- The magic-sleep abduction label is the least secure placement because existing groups
+  emphasize sound/music rather than non-musical sleep enchantment.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3448
+  input_sha256: 593036f6c36ed25b56b388f6162245a1545c93519e3ca35fcee879b5f074f3a4
+

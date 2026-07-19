@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3870
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rejected-exchange-of-patronage-for-civic-renown
+  motif_id: rejected_exchange_of_patronage_for_civic_renown
+  label: Rejected exchange of patronage for civic renown
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern civic honor, patronage, refusal of exchange, or
+    literary-historical context; no clear existing group is supported from the label
+    alone.
+  cautions: Single occurrence and highly contextual; could be social exchange, pride,
+    royal/civic legitimacy, or a passage artifact.
+  suggested_aliases:
+  - patronage_exchange_refused
+  - civic_renown_refused_as_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-flinching-champions-contrasted-with-true-speakers
+  motif_id: rejected_flinching_champions_contrasted_with_true_speakers
+  label: Rejected flinching champions contrasted with true speakers
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines warrior courage, rejection, and truthful speech; placement
+    depends on whether the passage emphasizes combat, ethics, or sacred utterance.
+  cautions: Likely over-composite; review source evidence before mapping to sacred_combat,
+    sacred_law, or curse_blessing_speech.
+  suggested_aliases:
+  - flinching_champions_contrasted_with_truth_speakers
+  - true_speakers_preferred_over_flinching_champions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-food-portion-as-insult
+  motif_id: rejected_food_portion_as_insult
+  label: Rejected food portion as insult
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A food portion offered, refused, or read as insult fits reciprocal feasting
+    and honor obligations within exchange relations.
+  cautions: If the episode primarily triggers battle or social dishonor, sacred_combat
+    or sacred_law may be secondary; preserve the food-portion detail.
+  suggested_aliases:
+  - insulting_food_portion
+  - dishonoring_food_portion
+  - food_share_rejected_as_insult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-former-spouse-pursuit
+  motif_id: rejected_former_spouse_pursuit
+  label: rejected former spouse pursuit
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: A former spouse pursuing and being rejected belongs broadly to love,
+    marriage, and relational conflict motifs.
+  cautions: Very sparse label; could be a pursuit/escape episode, domestic conflict,
+    or culturally specific marriage rule rather than sacred love.
+  suggested_aliases:
+  - rejected_ex_spouse_pursuit
+  - former_spouse_pursues_and_is_rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-giant-suitor
+  motif_id: rejected_giant_suitor
+  label: Rejected giant suitor
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on courtship or marriage refusal, fitting the love/marriage-choice
+    field already covered by sacred_love.
+  cautions: If the giant suitor is primarily a monster adversary or boundary threat,
+    sacred_combat or threshold_guardian may be better secondary mappings.
+  suggested_aliases:
+  - giant_suitor_rejected
+  - rejected_supernatural_suitor
+  - refusal_of_giant_wooer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-humble-implement-required-for-success
+  motif_id: rejected_humble_implement_required_for_success
+  label: rejected humble implement required for success
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: An apparently humble object proves necessary for success, matching power-object
+    logic even if the object is not prestigious.
+  cautions: Could also be wisdom/anti-pride teaching if the point is humility rather
+    than object power; source context needed.
+  suggested_aliases:
+  - humble_implement_required_for_success
+  - despised_tool_needed_for_success
+  - lowly_object_proves_essential
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-illicit-approach-through-a-messenger
+  motif_id: rejected_illicit_approach_through_a_messenger
+  label: Rejected illicit approach through a messenger
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes an improper erotic or courtship approach mediated
+    by a messenger and refused, fitting love/marriage conflict.
+  cautions: If the messenger function or taboo violation is central, recognition_tokens_hidden_identity,
+    sacred_law, or betrayal may be relevant; likely too specific as a canonical motif.
+  suggested_aliases:
+  - illicit_message_of_desire_rejected
+  - rejected_illicit_messenger_courtship
+  - messenger_borne_illicit_approach_refused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-illicit-proposition-followed-by-false-accusation
+  motif_id: rejected_illicit_proposition_followed_by_false_accusation
+  label: rejected illicit proposition followed by false accusation
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing divine_judgment group already includes false accusation
+    after a rejected sexual advance, matching this label closely.
+  cautions: May also involve sacred_love or sacred_law, but the false accusation and
+    moral reckoning are the clearest normalization function.
+  suggested_aliases:
+  - false_accusation_after_rejected_sexual_advance
+  - rejected_seduction_followed_by_false_accusation
+  - spurned_illicit_proposition_false_accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-illicit-seduction-of-a-royal-youth
+  motif_id: rejected_illicit_seduction_of_a_royal_youth
+  label: Rejected illicit seduction of a royal youth
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rejected illicit seduction belongs to the erotic desire, courtship,
+    and relational conflict field of sacred_love.
+  cautions: Royal status may make royal_legitimacy relevant if dynastic order is at
+    stake; if accusation or punishment follows, divine_judgment may be stronger.
+  suggested_aliases:
+  - rejected_illicit_seduction
+  - spurned_seduction_of_royal_youth
+  - royal_youth_rejects_illicit_desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-insect-spouses-or-wooers
+  motif_id: rejected_insect_spouses_or_wooers
+  label: Rejected insect spouses or wooers
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal/nonhuman spouse material with rejection of
+    wooers; the taxonomy lacks a clear animal spouse group.
+  cautions: Could fit sacred_love, shapeshifter, trickster/fable, or culturally specific
+    nonhuman marriage motifs; review evidence before broad mapping.
+  suggested_aliases:
+  - insect_wooers_rejected
+  - rejected_nonhuman_spouses
+  - rejected_insect_suitors
+  suggested_new_group:
+    id: nonhuman_spouse_wooer
+    label: Nonhuman Spouse or Wooer
+    description: Marriage, courtship, pursuit, or rejection involving animal, spirit,
+      giant, or otherwise nonhuman spouses or suitors, where the nonhuman identity
+      is central to the motif.
+    parent_group_ids:
+    - sacred_love
+    related_group_ids:
+    - shapeshifter
+    - otherworld
+    - trickster
+    reason_existing_groups_insufficient: Sacred_love covers courtship broadly, but
+      recurring animal or nonhuman spouse labels may need a narrower review group
+      to preserve species-boundary and transformation meanings.
+batch_notes:
+- Several labels in this batch begin with 'rejected' and may be generated from local
+  plot actions rather than stable motifs; preserve as evidence unless recurrence is
+  demonstrated.
+- Courtship-refusal labels were provisionally placed under sacred_love only when the
+  relational function is clear; nonhuman spouse cases need source review for shapeshifting
+  or otherworld functions.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional automated placement suggestions; human review recommended for
+    sparse single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3870
+  input_sha256: 354c7d71b38f26ed010c7a4f8915a494967d660b42c5516d6493ebc6425de644
+

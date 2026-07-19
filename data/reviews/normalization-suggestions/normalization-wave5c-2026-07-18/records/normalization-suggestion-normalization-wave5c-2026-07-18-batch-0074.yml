@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0074
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.contested-ancestral-religious-identity-resolved-as-primordial-monotheism
+  motif_id: contested_ancestral_religious_identity_resolved_as_primordial_monotheism
+  label: Contested ancestral religious identity resolved as primordial monotheism
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to concern theological identity and ancestral classification
+    rather than a clear death, ancestor-rite, or afterlife motif.
+  cautions: May be a doctrinal or exegetical passage artifact; needs source context
+    before mapping to covenant, sacred_law, sacred_knowledge, or excluding.
+  suggested_aliases:
+  - primordial_monotheism_of_ancestors
+  - ancestral_identity_resolved_as_monotheism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-death-report-used-in-courtship
+  motif_id: contested_death_report_used_in_courtship
+  label: contested death report used in courtship
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A disputed report of death used in courtship could be a plot device involving
+    love, recognition, deception, or mourning.
+  cautions: Single occurrence and highly contextual; do not map to death_and_transformation
+    unless death itself has mythic function.
+  suggested_aliases:
+  - false_or_contested_death_report_in_courtship
+  - death_report_as_courtship_device
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - recognition_tokens_hidden_identity
+    - lament_and_mourning
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-medical-authority-at-the-deathbed
+  motif_id: contested_medical_authority_at_the_deathbed
+  label: Contested medical authority at the deathbed
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns competing authority around dying, but the available
+    groups do not clearly cover deathbed healing or medical authority disputes.
+  cautions: Culturally sensitive and source-dependent; may be ethnographic commentary
+    rather than a mythic motif.
+  suggested_aliases:
+  - deathbed_authority_contested
+  - contested_healing_authority_at_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_law
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continuance-of-spirit-after-death
+  motif_id: continuance_of_spirit_after_death
+  label: Continuance of spirit after death
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: broader_label
+  confidence: medium
+  rationale: Postmortem survival of the spirit belongs with afterlife belief and the
+    dead person's continued existence beyond bodily death.
+  cautions: If the passage emphasizes haunting, ancestor feeding, or transformation
+    rather than survival alone, use those groups secondarily.
+  suggested_aliases:
+  - postmortem_spirit_continuance
+  - spirit_survives_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continued-existence-of-animal-spirits-after-death
+  motif_id: continued_existence_of_animal_spirits_after_death
+  label: continued existence of animal spirits after death
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label extends postmortem spirit survival to animals, fitting afterlife
+    belief about souls beyond death.
+  cautions: Review animal-spirit concepts carefully; if ritual obligations to animals
+    are central, sacred_law or ancestor_rites may be relevant.
+  suggested_aliases:
+  - animal_spirits_survive_death
+  - postmortem_animal_spirit_existence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continued-ghost-existence-without-bodily-resurrection
+  motif_id: continued_ghost_existence_without_bodily_resurrection
+  label: continued ghost existence without bodily resurrection
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: Ghostly continuance after death is an afterlife-state claim distinct
+    from resurrection or return to embodied life.
+  cautions: If the ghost actively haunts or seeks vengeance, restless_dead_haunting_vengeance
+    may be the better group.
+  suggested_aliases:
+  - ghost_survival_without_resurrection
+  - disembodied_ghost_continuance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - restless_dead_haunting_vengeance
+    - resurrection
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continued-maternal-nourishment-for-dead-infant
+  motif_id: continued_maternal_nourishment_for_dead_infant
+  label: continued maternal nourishment for dead infant
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Care or feeding directed to the dead fits ritual maintenance of relations
+    between living and dead.
+  cautions: May also involve mother-child symbolism; preserve infant and maternal
+    details as evidence rather than collapsing into generic ancestor rites.
+  suggested_aliases:
+  - maternal_feeding_of_dead_infant
+  - postmortem_nourishment_of_dead_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - mother_goddess
+    - divine_parent_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continuing-care-of-the-grave
+  motif_id: continuing_care_of_the_grave
+  label: continuing care of the grave
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ongoing grave care is a mortuary practice maintaining proper relations
+    with the dead.
+  cautions: If merely descriptive burial custom without ritual or relational function,
+    it may be too contextual for broad motif queries.
+  suggested_aliases:
+  - ongoing_grave_care
+  - continued_mortuary_care
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continuing-lethal-agency-of-a-shaman-s-spirit
+  motif_id: continuing_lethal_agency_of_a_shaman_s_spirit
+  label: Continuing lethal agency of a shaman's spirit
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: role_variant
+  confidence: medium
+  rationale: A dead shaman's spirit retaining dangerous agency fits active postmortem
+    haunting or vengeance by the dead.
+  cautions: Culturally sensitive; if the passage frames this as shamanic power rather
+    than unresolved death, divine_intervention or sacred_law may be secondary.
+  suggested_aliases:
+  - lethal_postmortem_shaman_spirit
+  - dead_shaman_spirit_as_dangerous_agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continuing-life-or-soul-figured-as-transmitted-fire
+  motif_id: continuing_life_or_soul_figured_as_transmitted_fire
+  label: continuing life or soul figured as transmitted fire
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The key image is life or soul continuity symbolized by fire transmission,
+    fitting sacred fire as divine or vital principle.
+  cautions: If the passage emphasizes soul survival or lineage transmission more than
+    fire symbolism, afterlife_passage or sacred_time may be relevant.
+  suggested_aliases:
+  - soul_continuity_as_transmitted_fire
+  - life_transmitted_as_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - sacred_time
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and appear ethnographic, doctrinal,
+  or plot-specific; suggested placements should be reviewed against passage evidence.
+- For postmortem spirit-survival labels, distinguish passive continued existence from
+  active haunting, ritual feeding, resurrection, or transformation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0074
+  input_sha256: b00e699a2501c90ad4dd0eb95e95524554b2c394abda4a2a8a97ff3206b76135
+

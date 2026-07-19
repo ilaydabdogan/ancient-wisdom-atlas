@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1138
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-natural-affiliations
+  motif_id: sacred_natural_affiliations
+  label: sacred natural affiliations
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to distinguish sacred elements, ritual purity,
+    divine presence, or natural personification.
+  cautions: Single occurrence; Zoroastrian elemental and purity contexts may require
+    source-specific review before mapping.
+  suggested_aliases:
+  - sacred affiliations with nature
+  - natural sacred associations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-natural-elements-as-ritual-media
+  motif_id: sacred_natural_elements_as_ritual_media
+  label: Sacred natural elements as ritual media
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Natural elements used as ritual media most likely function within purity,
+    sacred regulation, and ritual practice.
+  cautions: If the passage centers on fire, water, or offering rather than regulation,
+    secondary mapping to sacred_fire, sacred_waters, or sacrifice may be better.
+  suggested_aliases:
+  - natural elements as ritual media
+  - sacred elements in ritual practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-natural-resting-place
+  motif_id: sacred_natural_resting_place
+  label: sacred natural resting place
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A natural resting place could be tomb, sanctuary, otherworld locus, sacred
+    geography, or episode setting.
+  cautions: Single occurrence and vague wording; avoid mapping to axis_mundi or sacred_treasures
+    unless the place has a clear sacred-center, shrine, or relic function.
+  suggested_aliases:
+  - holy natural resting place
+  - sacred resting site in nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-neutral-refuge-during-conflict
+  motif_id: sacred_neutral_refuge_during_conflict
+  label: Sacred neutral refuge during conflict
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred refuge during conflict functions as a socially binding protected
+    zone governed by sacred norms.
+  cautions: Could also relate to sacred_combat or hospitality/suppliance depending
+    on whether the passage emphasizes warfare, asylum, or ritual protection.
+  suggested_aliases:
+  - sacred asylum during conflict
+  - neutral holy refuge
+  - protected sacred refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-nonhuman-nation-addresses-human-as-father-or-grandfather
+  motif_id: sacred_nonhuman_nation_addresses_human_as_father_or_grandfather
+  label: Sacred nonhuman nation addresses human as father or grandfather
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate kinship reciprocity with nonhuman persons, ancestor
+    language, or a culturally specific diplomatic address.
+  cautions: Culturally sensitive and source-dependent; do not flatten into divine_parent_child
+    because the kinship address may be ritual, political, or relational rather than
+    parent-child narration.
+  suggested_aliases:
+  - nonhuman nation kinship address
+  - sacred nonhuman kin address
+  - nonhuman persons address human as elder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-nourishment-through-the-name
+  motif_id: sacred_nourishment_through_the_name
+  label: sacred nourishment through the Name
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Nourishment through the divine Name points to devotional interior transformation
+    through sacred remembrance or recitation.
+  cautions: Could also be sacred_knowledge or sacred_substance metaphorically; preserve
+    Sikh doctrinal specificity and avoid treating the Name as a literal food substance
+    without evidence.
+  suggested_aliases:
+  - nourishment through the divine Name
+  - spiritual nourishment by the Name
+  - Naam as sacred nourishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-number-and-musical-harmony
+  motif_id: sacred_number_and_musical_harmony
+  label: Sacred number and musical harmony
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Number-harmony symbolism in Greek contexts usually encodes sacred or
+    philosophical knowledge about cosmic order.
+  cautions: If music itself acts magically or coercively, enchanting_music may be
+    secondary; if this is only doctrine, it may be too abstract for motif querying.
+  suggested_aliases:
+  - numerical musical harmony
+  - sacred numerical harmony
+  - cosmic harmony through number
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-number-correspondences-in-ritual-order
+  motif_id: sacred_number_correspondences_in_ritual_order
+  label: sacred number correspondences in ritual order
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Number correspondences organizing ritual fit sacred regulation and ritual
+    order rather than a separate narrative motif.
+  cautions: May be a commentary or doctrinal classification artifact if no narrative
+    or ritual action is present.
+  suggested_aliases:
+  - ritual number correspondences
+  - number symbolism in ritual order
+  - sacred numerological ritual order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-number-five-as-selected-assembly
+  motif_id: sacred_number_five_as_selected_assembly
+  label: Sacred number five as selected assembly
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may refer to a specific Sikh sacred community structure rather than
+    a general number motif.
+  cautions: Single occurrence and culturally specific; review whether it is a ritual-social
+    institution, sacred law, covenantal community, or passage-specific detail.
+  suggested_aliases:
+  - sacred five as chosen assembly
+  - five as selected sacred assembly
+  - chosen five
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-number-four-organizing-cosmology
+  motif_id: sacred_number_four_organizing_cosmology
+  label: Sacred number four organizing cosmology
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Fourfold number symbolism organizing the cosmos fits cosmological ordering
+    and creation structure.
+  cautions: Could also relate to world_center or axis_mundi if four directions organize
+    sacred space around a center; preserve local Mesoamerican/Andean meanings.
+  suggested_aliases:
+  - fourfold cosmological order
+  - sacred four in cosmology
+  - cosmos organized by four
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence abstractions involving sacred
+  nature or sacred numbers; human review should distinguish narrative motifs from
+  doctrinal, ritual, or commentary artifacts.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific Sikh, Zoroastrian, and Native
+    American kinship/ritual labels need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1138
+  input_sha256: f70ee1085caaa4a4bade48de3885114859e878b2195cd404f82e43b0c7922a1e
+

@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1323
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.festival-aetiology-through-name-change
+  motif_id: festival_aetiology_through_name_change
+  label: Festival aetiology through name change
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Existing cosmic_origin group already includes etiological place and naming
+    motifs; this is an origin explanation for a festival name.
+  cautions: Single occurrence and festival-specific; if the passage is only antiquarian
+    explanation, it may be too contextual for broad pattern queries.
+  suggested_aliases:
+  - festival_name_etiology
+  - festival_origin_through_renaming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.festival-ending-in-all-night-song
+  motif_id: festival_ending_in_all_night_song
+  label: festival ending in all-night song
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A festival structure belongs best with sacred calendrical or ritual-cycle
+    patterns; song is part of the ritual performance.
+  cautions: If the song itself has supernatural force, enchanting_music or storytelling_as_power
+    may be a secondary mapping; otherwise the label is highly event-specific.
+  suggested_aliases:
+  - all_night_song_concluding_festival
+  - festival_closure_with_ritual_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.festival-gift-named-for-a-deity
+  motif_id: festival_gift_named_for_a_deity
+  label: Festival gift named for a deity
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A deity-named festival gift fits ritualized giving and reciprocal sacred
+    relationship.
+  cautions: May be merely an antiquarian naming detail if no offering, reciprocity,
+    or divine relation is present; consider sacred_time if the festival frame is primary.
+  suggested_aliases:
+  - deity_named_festival_gift
+  - ritual_gift_named_for_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fetish-and-hawk-feather-ornament-as-collected-objects
+  motif_id: fetish_and_hawk_feather_ornament_as_collected_objects
+  label: fetish and hawk-feather ornament as collected objects
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names culturally specific objects but does not state their
+    narrative or ritual function.
+  cautions: Culturally sensitive wording and possible collector/catalog artifact;
+    map only if source evidence shows power-object, offering, protection, or ritual
+    function.
+  suggested_aliases:
+  - hawk_feather_ornament_as_ritual_object
+  - collected_ritual_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-speech-transformed-into-pungent-food
+  motif_id: fiery_speech_transformed_into_pungent_food
+  label: Fiery speech transformed into pungent food
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core pattern is speech as an active force that transforms into a
+    material substance.
+  cautions: Could instead fit sacred_substance if the food's ritual power is primary;
+    single occurrence and unusual imagery should be preserved as evidence detail.
+  suggested_aliases:
+  - speech_transformed_into_food
+  - performative_speech_becomes_substance
+  - fiery_speech_as_pungent_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-reverence-made-through-guiding-wisdom
+  motif_id: filial_reverence_made_through_guiding_wisdom
+  label: filial reverence made through guiding wisdom
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Filial reverence is an ethical-social obligation; existing aliases already
+    place filial piety under sacred_law.
+  cautions: Generated wording is abstract; if the passage emphasizes instruction rather
+    than duty, sacred_knowledge may be a secondary mapping.
+  suggested_aliases:
+  - filial_piety_guided_by_wisdom
+  - filial_reverence_as_sacred_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-making-by-named-beings
+  motif_id: fire_making_by_named_beings
+  label: fire making by named beings
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Fire-making could be sacred craft, culture-hero origin of fire, or ordinary
+    named-person action depending on passage evidence.
+  cautions: Do not map to sacred_fire solely because fire appears; source function
+    and cultural context are needed.
+  suggested_aliases:
+  - origin_of_fire_making_by_named_beings
+  - named_beings_make_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-memory-in-volcanic-mountain-names
+  motif_id: fire_memory_in_volcanic_mountain_names
+  label: Fire-memory in volcanic mountain names
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: This appears to explain landscape or mountain names through remembered
+    fire events, matching existing etiological naming patterns.
+  cautions: Could be a place-name or geographic memory artifact rather than a symbolic
+    motif; consider sacred_fire only if fire has divine or ritual agency.
+  suggested_aliases:
+  - volcanic_mountain_name_etiology
+  - fire_etiology_of_mountain_names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-production-knowledge-heading-only
+  motif_id: fire_production_knowledge_heading_only
+  label: Fire production knowledge, heading only
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label explicitly says heading only, indicating a textual or catalog
+    artifact rather than a passage motif.
+  cautions: If underlying passage evidence describes acquisition or transmission of
+    fire-making knowledge, remap that evidence under sacred_knowledge, culture_hero,
+    or sacred_craft.
+  suggested_aliases:
+  - fire_production_heading_only
+  - heading_only_fire_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-raining-or-showering-down-at-a-named-place
+  motif_id: fire_raining_or_showering_down_at_a_named_place
+  label: fire raining or showering down at a named place
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Fire raining down often functions as supernatural punishment, purification,
+    or destructive judgment when agency is sacred.
+  cautions: Low confidence because the label gives only event and place; if it explains
+    a local place-name use cosmic_origin, and if it destroys or renews a whole order
+    use flood_and_renewal/world-destroying fire logic.
+  suggested_aliases:
+  - raining_fire_at_named_place
+  - fire_shower_at_named_place
+  - supernatural_firefall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence festival, naming, or heading-like items; preserve
+  local detail but avoid promoting them to canonical motifs without recurrence.
+- 'Fire-related labels should be distinguished by function: sacred presence, craft/technology,
+  etiological place memory, judgment, or world-destroying catastrophe.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific object labels and under-specified
+    fire labels need source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1323
+  input_sha256: 2212ca63f4dca2795e126384c9f52a0c16e9af1abb174601606722b35cf377bb
+

@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3202
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.breath-or-blowing-as-part-of-treatment
+  motif_id: breath_or_blowing_as_part_of_treatment
+  label: breath or blowing as part of treatment
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Breath or blowing may be a healing rite, soul manipulation, blessing,
+    or shamanic technique; no existing group captures the function from the label
+    alone.
+  cautions: Single occurrence and culturally specific ritual context; avoid mapping
+    to sacred_law, soul_loss_restoration, or divine_intervention without passage evidence.
+  suggested_aliases:
+  - ritual_blowing_as_healing_treatment
+  - breath_as_healing_technique
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - soul_loss_restoration
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.brethren-divided-by-opposing-alliances
+  motif_id: brethren_divided_by_opposing_alliances
+  label: brethren divided by opposing alliances
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Siblings divided by rival allegiances fits the sibling-pair pattern where
+    kinship opposition drives conflict or social order.
+  cautions: If the passage is mainly political alliance, war, or betrayal rather than
+    sibling structure, sacred_combat or betrayal_violated_trust may be better secondary
+    contexts.
+  suggested_aliases:
+  - siblings_divided_by_opposing_alliances
+  - brothers_on_opposing_sides
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bribe-for-silence-rejected-before-communal-action
+  motif_id: bribe_for_silence_rejected_before_communal_action
+  label: Bribe for silence rejected before communal action
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: Rejecting a bribe to preserve truth before communal action most closely
+    fits ethical social order and obligation.
+  cautions: Could be an over-specific plot detail; if the focus is judgment by the
+    community, divine_judgment may be more apt, and if no sacred/ethical force is
+    evident it may not be useful for pattern queries.
+  suggested_aliases:
+  - rejected_bribe_for_silence
+  - refusal_of_bribe_before_communal_judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-condition-causes-loss-of-hunting-orenda-and-hunger
+  motif_id: broken_condition_causes_loss_of_hunting_orenda_and_hunger
+  label: Broken condition causes loss of hunting orenda and hunger
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A broken condition causing loss of hunting power may involve taboo, sacred
+    law, spirit power, or subsistence ethics, but the culturally specific orenda element
+    needs source review.
+  cautions: Do not flatten orenda into generic magic or divine punishment; verify
+    whether the passage frames this as taboo violation, covenant-like condition, spirit
+    withdrawal, or hunting etiological detail.
+  suggested_aliases:
+  - broken_condition_causes_loss_of_hunting_power
+  - taboo_violation_causes_hunting_failure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-horn-transformed-into-abundance-object
+  motif_id: broken_horn_transformed_into_abundance_object
+  label: broken horn transformed into abundance object
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A transformed horn that becomes an abundance-granting object functions
+    as a sacred power object or treasure.
+  cautions: If the emphasis is miraculous provision rather than the object itself,
+    divine_intervention or sacred_substance may be relevant; if it is the cornucopia,
+    preserve local label detail.
+  suggested_aliases:
+  - horn_of_abundance
+  - cornucopia_as_abundance_object
+  - broken_horn_becomes_abundance_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-hunting-prohibition-causes-loss-of-prey-to-predators
+  motif_id: broken_hunting_prohibition_causes_loss_of_prey_to_predators
+  label: Broken hunting prohibition causes loss of prey to predators
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A violated hunting prohibition with consequences fits sacred law, taboo,
+    and regulated human-animal relations.
+  cautions: May also involve divine_judgment or animal-spirit reciprocity depending
+    on evidence; review culturally specific hunting law rather than treating it as
+    generic punishment.
+  suggested_aliases:
+  - hunting_taboo_violation_causes_loss_of_prey
+  - broken_hunting_taboo_punished_by_predators
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-object-used-to-summon-a-relative
+  motif_id: broken_object_used_to_summon_a_relative
+  label: Broken object used to summon a relative
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: The object functions as a power token enabling communication or summoning,
+    which fits sacred treasures better than a general object label.
+  cautions: Single and context-dependent; if the broken object is a kinship token
+    or recognition proof, recognition_tokens_hidden_identity may be better; if it
+    summons the dead, ancestor_rites or restless_dead_haunting_vengeance may apply.
+  suggested_aliases:
+  - summoning_object_token
+  - broken_token_summons_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-obligation-followed-by-punitive-crop-destruction-and-pardon
+  motif_id: broken_obligation_followed_by_punitive_crop_destruction_and_pardon
+  label: broken obligation followed by punitive crop destruction and pardon
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Violation of an obligation followed by punishment and pardon fits moral
+    reckoning and restoration after judgment.
+  cautions: If the obligation is a sacred pact, covenant may be a secondary mapping;
+    if crop destruction is not sacredly caused, this may be a local plot detail.
+  suggested_aliases:
+  - broken_obligation_punished_then_pardoned
+  - punitive_crop_destruction_after_broken_obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-pact-followed-by-intensified-attack-and-destruction
+  motif_id: broken_pact_followed_by_intensified_attack_and_destruction
+  label: Broken pact followed by intensified attack and destruction
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A broken pact causing escalation centers on violation of a binding agreement
+    and its consequences.
+  cautions: If the passage emphasizes warfare sequence rather than sacred bond, sacred_combat
+    may be a secondary or better placement; confirm pact has moral or ritual weight.
+  suggested_aliases:
+  - broken_pact_causes_destructive_escalation
+  - violated_pact_followed_by_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-promise-for-material-gain
+  motif_id: broken_promise_for_material_gain
+  label: broken promise for material gain
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Breaking a promise for gain is a violated bond or vow, fitting covenant
+    and sacred obligation in broad query terms.
+  cautions: In Buddhist context it may function primarily as an ethical exemplum about
+    greed and karmic consequence; divine_judgment or sacred_law may be relevant depending
+    on passage evidence.
+  suggested_aliases:
+  - promise_broken_for_material_gain
+  - vow_broken_for_profit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several single-occurrence labels may be over-specific
+  evidence details rather than durable motif labels.
+- For culturally specific ritual-power terms such as orenda, human review should preserve
+  local meaning and avoid generic magic or judgment mappings without source evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 3202; no taxonomy
+    edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3202
+  input_sha256: 262befb0c868e685ac15c45cd5361eab9cd1d5d36d608c46a28131a7f1fd83c8
+

@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0129
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deathlike-enchanted-sleep-before-attempted-killing
+  motif_id: deathlike_enchanted_sleep_before_attempted_killing
+  label: deathlike enchanted sleep before attempted killing
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Deathlike enchanted sleep functions as a temporary death-state that may
+    precede death, rescue, or transformation.
+  cautions: Single occurrence and episode-specific; if the source emphasizes magical
+    compulsion more than death symbolism, storytelling_as_power or enchanting_music
+    may be relevant.
+  suggested_aliases:
+  - deathlike_sleep
+  - enchanted_deathlike_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deathlike-sleep-during-liminal-voyage
+  motif_id: deathlike_sleep_during_liminal_voyage
+  label: deathlike sleep during liminal voyage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A liminal voyage with deathlike sleep reads as a journey ordeal marking
+    transition between states.
+  cautions: Could map secondarily to death_and_transformation if the sleep is the
+    central death-symbol, or to otherworld/descent if the voyage enters a nonordinary
+    realm.
+  suggested_aliases:
+  - deathlike_sleep_on_liminal_voyage
+  - sleep_during_liminal_voyage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deathlike-sleep-induced-by-powerful-supernatural-dancer
+  motif_id: deathlike_sleep_induced_by_powerful_supernatural_dancer
+  label: Deathlike sleep induced by powerful supernatural dancer
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: low
+  rationale: A supernatural performance inducing sleep fits the broader sound/performance
+    compulsion complex.
+  cautions: The dancer rather than music may be culturally specific; human review
+    should confirm whether performance compulsion, deathlike sleep, or spirit power
+    is the core motif.
+  suggested_aliases:
+  - supernatural_performance_induces_deathlike_sleep
+  - deathlike_sleep_induced_by_supernatural_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deaths-caused-by-supernatural-desire-or-wrath
+  motif_id: deaths_caused_by_supernatural_desire_or_wrath
+  label: Deaths caused by supernatural desire or wrath
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines different causes of death, desire and wrath, with
+    unclear narrative function.
+  cautions: Could belong to divine_judgment, sacred_love, dangerous spirit encounter,
+    or a local etiological death motif depending on passage evidence.
+  suggested_aliases:
+  - death_caused_by_supernatural_wrath
+  - death_caused_by_supernatural_desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deaths-or-disappearances-followed-by-territorial-ownership-claims
+  motif_id: deaths_or_disappearances_followed_by_territorial_ownership_claims
+  label: Deaths or disappearances followed by territorial ownership claims
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to connect death or disappearance with land-right claims,
+    but the mythic function is not clear from wording alone.
+  cautions: Culturally sensitive territorial or legal context; may be origin charter,
+    social-order claim, or source-specific historical detail rather than a reusable
+    motif.
+  suggested_aliases:
+  - death_followed_by_land_claim
+  - disappearance_followed_by_territorial_claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.debt-seizure-governed-by-liability-for-death-in-custody
+  motif_id: debt_seizure_governed_by_liability_for_death_in_custody
+  label: debt seizure governed by liability for death in custody
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads as a legal rule or passage-specific law code detail, not a
+    symbolic or narrative motif.
+  cautions: Preserve as legal-context evidence if needed, but exclude from broad mythic
+    pattern queries unless recurring as sacred law imagery.
+  suggested_aliases:
+  - liability_for_death_in_custody
+  - debt_seizure_liability_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceased-ancestor-reincarnated-as-an-animal
+  motif_id: deceased_ancestor_reincarnated_as_an_animal
+  label: Deceased ancestor reincarnated as an animal
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: An ancestor reborn as an animal is a postmortem transformation or rebirth
+    pattern.
+  cautions: If the passage emphasizes animal embodiment or moral karmic rebirth, shapeshifter
+    or divine_judgment may be useful secondary mappings.
+  suggested_aliases:
+  - ancestor_reincarnated_as_animal
+  - dead_ancestor_reborn_as_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceased-figure-beckons-the-living-toward-death
+  motif_id: deceased_figure_beckons_the_living_toward_death
+  label: Deceased figure beckons the living toward death
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dead figure actively drawing the living toward death fits the active
+    or dangerous dead complex.
+  cautions: If the scene is part of an afterlife invitation or psychopomp passage
+    rather than haunting, afterlife_passage may be better.
+  suggested_aliases:
+  - dead_figure_calls_living_to_death
+  - deceased_beckons_living_toward_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceased-person-received-by-relatives-after-death
+  motif_id: deceased_person_received_by_relatives_after_death
+  label: deceased person received by relatives after death
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: high
+  rationale: Reception by dead relatives describes a stage or social feature of postmortem
+    passage.
+  cautions: If the emphasis is kinship reunion rather than journey structure, ancestor_rites
+    or sacred_love may be secondary, but afterlife_passage is the best broad group.
+  suggested_aliases:
+  - received_by_relatives_after_death
+  - dead_received_by_kin_in_afterlife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deceiving-a-pursuing-spirit-with-fragments-of-the-body
+  motif_id: deceiving_a_pursuing_spirit_with_fragments_of_the_body
+  label: deceiving a pursuing spirit with fragments of the body
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is deception of a pursuing spirit, fitting trickster
+    escape and boundary-crossing patterns.
+  cautions: Body-fragment detail may involve soul/body concepts or ritual danger;
+    if pursuit occurs during underworld escape, descent may be a secondary mapping.
+  suggested_aliases:
+  - deceiving_pursuing_spirit_with_body_fragments
+  - body_fragments_used_to_deceive_pursuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; single-occurrence and culturally
+  contextual labels should not be promoted without source evidence.
+- Several labels combine death imagery with performance, legal, territorial, or spirit-pursuit
+  contexts; reviewers should preserve local evidence rather than collapsing all into
+  death_and_transformation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 0129.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0129
+  input_sha256: 519e4c27f379fd3c315505003a0e1d01c9d0778374fb781ed61716f20ca200e0
+

@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1389
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.natural-feature-and-animal-names-as-clubhouse-identifiers
+  motif_id: natural_feature_and_animal_names_as_clubhouse_identifiers
+  label: Natural feature and animal names as clubhouse identifiers
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a naming/classification convention for
+    clubhouse identifiers rather than a narrative or symbolic motif.
+  cautions: If clubhouse names are ritually active, encode under sacred_law, sacred_knowledge,
+    or a future naming-power group after source review.
+  suggested_aliases:
+  - clubhouse_names_from_natural_features_and_animals
+  - natural_and_animal_clubhouse_identifiers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-feature-place-name-etiology
+  motif_id: natural_feature_place_name_etiology
+  label: natural-feature place-name etiology
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Place-name etiology is already handled under cosmic_origin as landscape
+    or toponymic origin explanation.
+  cautions: If the passage only records a descriptive place name with no origin story,
+    exclude as a naming artifact.
+  suggested_aliases:
+  - natural_feature_place_naming_etiology
+  - place_name_etiology_from_natural_feature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-object-named-designs
+  motif_id: natural_object_named_designs
+  label: Natural-object named designs
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe artistic nomenclature, ritual design symbolism,
+    or a cataloging artifact; function is unclear.
+  cautions: Culturally specific design names may have ceremonial meaning; do not exclude
+    or flatten without source evidence.
+  suggested_aliases:
+  - designs_named_for_natural_objects
+  - natural_object_design_names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-or-celestial-force-acts-upon-the-speaker-in-song
+  motif_id: natural_or_celestial_force_acts_upon_the_speaker_in_song
+  label: Natural or celestial force acts upon the speaker in song
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_song
+  suggested_group_label: Sacred Song
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on song as a medium through which a natural or celestial
+    sacred force affects the speaker.
+  cautions: If the emphasis is visionary encounter rather than song performance, dream_and_vision
+    or theophany may be better.
+  suggested_aliases:
+  - celestial_force_acts_through_song
+  - natural_force_affects_singer_in_song
+  - song_mediates_natural_or_celestial_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-phenomena-as-named-mythic-beings
+  motif_id: natural_phenomena_as_named_mythic_beings
+  label: natural phenomena as named mythic beings
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The group already includes natural phenomena personified as divine beings;
+    named mythic beings fit that agency pattern.
+  cautions: If the passage is primarily cosmological personification rather than intervention
+    in events, cosmic_origin or theophany may be secondary.
+  suggested_aliases:
+  - natural_phenomena_personified_as_named_beings
+  - named_mythic_beings_as_natural_phenomena
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-water-force-as-model-for-irresistible-speech
+  motif_id: natural_water_force_as_model_for_irresistible_speech
+  label: natural water force as model for irresistible speech
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core function is powerful or irresistible speech, with water force
+    serving as metaphorical model.
+  cautions: Do not map to sacred_waters unless water itself acts ritually or mythically
+    rather than as a speech analogy.
+  suggested_aliases:
+  - irresistible_speech_compared_to_water_force
+  - water_force_as_speech_power_metaphor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.naturalistic-explanation-of-visionary-dream
+  motif_id: naturalistic_explanation_of_visionary_dream
+  label: naturalistic explanation of visionary dream
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: It concerns a visionary dream, but the 'naturalistic explanation' may
+    be commentary about interpretation rather than a motif.
+  cautions: If this is an analyst's rationalization or source commentary, exclude
+    as meta-textual; if the narrative contrasts sacred and ordinary explanations,
+    preserve under dream_and_vision.
+  suggested_aliases:
+  - visionary_dream_given_natural_explanation
+  - natural_explanation_of_sacred_dream
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nature-and-celestial-imagery-in-personal-names
+  motif_id: nature_and_celestial_imagery_in_personal_names
+  label: Nature and celestial imagery in personal names
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Personal-name imagery may be a cultural naming pattern, identity marker,
+    or symbolic motif depending on source use.
+  cautions: Avoid treating culturally specific names as generic motifs unless the
+    names perform a narrative, ritual, or revelatory function.
+  suggested_aliases:
+  - personal_names_with_nature_and_celestial_imagery
+  - nature_celestial_personal_name_imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.navigation-by-celestial-and-oceanic-knowledge
+  motif_id: navigation_by_celestial_and_oceanic_knowledge
+  label: navigation by celestial and oceanic knowledge
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on specialized practical-sacred knowledge of stars
+    and sea used for navigation.
+  cautions: If the episode is mainly a perilous voyage or quest, hero_journey or sacred_waters
+    may be relevant secondary groups.
+  suggested_aliases:
+  - celestial_oceanic_navigation_knowledge
+  - star_and_sea_navigation_wisdom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nearest-equivalent-substituted-for-dreamed-object
+  motif_id: nearest_equivalent_substituted_for_dreamed_object
+  label: Nearest equivalent substituted for dreamed object
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The dreamed object guides action, and a substitute object mediates the
+    dream's practical or ritual fulfillment.
+  cautions: If substitution is a broader ritual offering logic rather than dream interpretation,
+    sacred_exchange may be a secondary fit.
+  suggested_aliases:
+  - substitution_for_dreamed_object
+  - ritual_equivalent_substituted_for_dream_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern naming conventions; source review should distinguish
+  culturally meaningful naming power from cataloging or description artifacts.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence naming and design labels require
+    evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1389
+  input_sha256: 5ca9f96467ca13916a0c658f8cd5de9c8e31198bc9bc2cb1d2b49fb6891e52f6
+

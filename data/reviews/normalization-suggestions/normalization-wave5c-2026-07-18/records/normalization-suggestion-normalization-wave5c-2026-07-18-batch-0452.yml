@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0452
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-companion-seeking-as-model-for-human-friendship
+  motif_id: animal_companion_seeking_as_model_for_human_friendship
+  label: animal companion-seeking as model for human friendship
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as an ethical analogy about friendship rather than a
+    clear journey motif or animal-helper episode.
+  cautions: May be a passage-specific didactic comparison; source context is needed
+    before mapping to sacred_law, sacred_exchange, or an animal-cooperation group.
+  suggested_aliases:
+  - animal companionship as model for friendship
+  - animal friendship as ethical analogy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-courtship-or-church-marriage-comic-exchange
+  motif_id: animal_courtship_or_church_marriage_comic_exchange
+  label: animal courtship or church-marriage comic exchange
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal courtship, marriage parody, and comic exchange
+    without enough evidence for a stable motif placement.
+  cautions: Could be fable comedy, trickster parody, courtship motif, or textual episode
+    artifact; review source before indexing.
+  suggested_aliases:
+  - comic animal courtship
+  - animal marriage parody
+  - comic church-marriage exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-crossing-as-unlucky-omen
+  motif_id: animal_crossing_as_unlucky_omen
+  label: Animal crossing as unlucky omen
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: narrower_than
+  confidence: medium
+  rationale: An animal's crossing functions as an omen used to read danger or misfortune.
+  cautions: If the passage treats this as a local travel taboo rather than divination,
+    sacred_law may be a secondary or better placement.
+  suggested_aliases:
+  - animal crossing omen
+  - unlucky animal omen
+  - animal omen on the road
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-diversion-secures-safe-passage
+  motif_id: animal_diversion_secures_safe_passage
+  label: animal diversion secures safe passage
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The taxonomy already includes animal_helpers under divine_intervention;
+    the animal aids passage by redirecting danger.
+  cautions: If the animal is merely a mundane distraction or comic device, this may
+    be too specific and should be treated as episode detail.
+  suggested_aliases:
+  - animal helper creates diversion
+  - animal-aided safe passage
+  - animal diversion enables escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-drawn-travel-controlled-through-discipline-and-equipment-management
+  motif_id: animal_drawn_travel_controlled_through_discipline_and_equipment_management
+  label: animal-drawn travel controlled through discipline and equipment management
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes practical travel management rather than a symbolic
+    or narrative motif in the current taxonomy.
+  cautions: Retain as evidence only if the passage frames discipline over animals
+    as ritual, ethical teaching, or ordeal.
+  suggested_aliases:
+  - discipline in animal-drawn travel
+  - equipment management in animal travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-friendship-across-species
+  motif_id: animal_friendship_across_species
+  label: Animal friendship across species
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Cross-species friendship may be an ethical fable theme, animal-helper
+    episode, or compassion teaching depending on source context.
+  cautions: Do not force into divine_intervention unless the animals actively guide,
+    rescue, or provide supernatural aid.
+  suggested_aliases:
+  - cross-species animal friendship
+  - friendship among animals of different species
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-friendship-or-cooperation
+  motif_id: animal_friendship_or_cooperation
+  label: Animal friendship or cooperation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad and could indicate moral cooperation, fable structure,
+    or animal-helper action.
+  cautions: May overlap with animal_friendship_across_species; consider aliasing after
+    source comparison rather than creating a separate motif.
+  suggested_aliases:
+  - animal cooperation
+  - animal friendship
+  - cooperation among animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-helper-addressed-with-kinship-term
+  motif_id: animal_helper_addressed_with_kinship_term
+  label: Animal helper addressed with kinship term
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The core function is an animal helper; kinship address preserves the
+    relational idiom of the helper role.
+  cautions: Culturally specific kinship language should be preserved in notes and
+    not flattened into generic animal aid without review.
+  suggested_aliases:
+  - kinship address to animal helper
+  - animal helper as kin
+  - animal helper called by kinship term
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-helper-opens-an-emergence-passage
+  motif_id: animal_helper_opens_an_emergence_passage
+  label: animal helper opens an emergence passage
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal helper enables passage between realms or states, matching animal_helpers
+    within divine guidance/intervention.
+  cautions: If emergence is a creation or world-origin episode, cosmic_origin or sacred_waters/axis_mundi
+    may be important secondary context.
+  suggested_aliases:
+  - animal opens passage
+  - animal helper enables emergence
+  - animal-aided emergence passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-helper-warns-a-traveler-of-danger
+  motif_id: animal_helper_warns_a_traveler_of_danger
+  label: animal helper warns a traveler of danger
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warning animal helper guides or protects a traveler, fitting the existing
+    animal_helpers child under divine_intervention.
+  cautions: If the warning is an omen rather than intentional aid, prophecy_divination
+    may be a better placement.
+  suggested_aliases:
+  - animal warns traveler
+  - animal helper gives warning
+  - animal guide warns of danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch point toward a possible animal friendship/cooperation
+  cluster, but the current evidence is sparse and may reflect fable ethics rather
+  than journey motifs.
+- For animal-helper labels, mapping to divine_intervention is provisional because
+  the existing group already contains animal_helpers; reviewers should distinguish
+  supernatural aid from ordinary animal behavior.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for broad animal friendship
+    and comic animal courtship labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0452
+  input_sha256: aaa33029c2a5658bb3ffe315895008108d728002d626ce3a7409e5ba64a8c684
+

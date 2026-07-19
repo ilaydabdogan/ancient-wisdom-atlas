@@ -1,0 +1,328 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2052
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-council-sends-scout-during-famine-and-migrates-after-food-report
+  motif_id: animal_council_sends_scout_during_famine_and_migrates_after_food_report
+  label: Animal council sends scout during famine and migrates after food report
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Specific animal-social decision episode; no current animal-council group
+    cleanly captures the polity, famine, scouting, and migration sequence.
+  cautions: Single occurrence and culturally specific; may be a narrative episode
+    rather than a reusable motif. Could fit a future animal polity or animal migration
+    group if many recur.
+  suggested_aliases:
+  - animal council responds to famine
+  - animal scout reports food source
+  - animal migration after food discovery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-councils-in-special-lodges
+  motif_id: animal_councils_in_special_lodges
+  label: Animal councils in special lodges
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Councils and Polities
+  relationship: child
+  confidence: medium
+  rationale: The label points to organized animal governance or deliberative assembly
+    rather than trickster action, shapeshifting, or general animal helpers.
+  cautions: Review cultural context carefully; lodges may be specific ceremonial or
+    social spaces, not just generic meeting places. Promote only if animal council
+    labels recur.
+  suggested_aliases:
+  - animal council
+  - animal assembly
+  - animal polity
+  - animal lodge council
+  suggested_new_group:
+    id: animal_councils_polities
+    label: Animal Councils and Polities
+    description: Animals are organized as councils, courts, villages, lodges, or political
+      communities that deliberate, judge, govern, or coordinate collective action.
+    parent_group_ids:
+    - trickster
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - culture_hero
+    reason_existing_groups_insufficient: Existing trickster and animal-helper categories
+      cover boundary-crossing or aid, but not recurring animal governance, legal assembly,
+      or animal social institutions.
+- suggestion_id: normalization.suggestion.animal-councils-judge-and-punish-humans
+  motif_id: animal_councils_judge_and_punish_humans
+  label: animal councils judge and punish humans
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: The core function is nonhuman moral evaluation and punishment of humans,
+    aligning with judgment even though the agents are animal councils.
+  cautions: If animal political organization is central, also review under a possible
+    animal_councils_polities group. Avoid assuming animals are divine without source
+    evidence.
+  suggested_aliases:
+  - animal judgment of humans
+  - animal council punishment
+  - nonhuman council judges humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-countermeasure-against-supernatural-horse
+  motif_id: animal_countermeasure_against_supernatural_horse
+  label: animal countermeasure against supernatural horse
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to know whether it is animal aid, trickery,
+    magical combat, or a horse-specific supernatural ordeal.
+  cautions: Single occurrence; source evidence is needed to determine whether the
+    animal acts as helper, weapon, trickster, guardian, or counter-magic.
+  suggested_aliases:
+  - animal aid against supernatural horse
+  - animal defeats magical horse
+  - countermeasure to supernatural horse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - divine_intervention
+    - sacred_combat
+    - magical_animal_mount
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-court-or-animal-polity
+  motif_id: animal_court_or_animal_polity
+  label: animal court or animal polity
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Councils and Polities
+  relationship: child
+  confidence: high
+  rationale: This directly names an animal court or polity, a recurring governance
+    structure not represented by current animal/trickster groups.
+  cautions: Human review should decide whether animal polities are broad enough for
+    a stable group or should remain under trickster/fable evidence.
+  suggested_aliases:
+  - animal court
+  - animal polity
+  - animal kingdom assembly
+  - animal government
+  suggested_new_group:
+    id: animal_councils_polities
+    label: Animal Councils and Polities
+    description: Animals are organized as councils, courts, villages, lodges, or political
+      communities that deliberate, judge, govern, or coordinate collective action.
+    parent_group_ids:
+    - trickster
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover trickster behavior,
+      animal helpers, and shapeshifting, but not animal institutions or animal governance
+      as the primary motif.
+- suggestion_id: normalization.suggestion.animal-created-to-remove-pollution-or-filth
+  motif_id: animal_created_to_remove_pollution_or_filth
+  label: Animal created to remove pollution or filth
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Creation of an animal to remove pollution or filth fits purification,
+    pollution management, and ritual order more than animal transformation alone.
+  cautions: If the passage emphasizes the animal's origin as cosmogony, secondary
+    mapping to cosmic_origin may be appropriate. Preserve animal specificity in evidence
+    notes.
+  suggested_aliases:
+  - animal purifier created
+  - animal removes pollution
+  - created scavenger removes filth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-creates-escape-opening-through-rock
+  motif_id: animal_creates_escape_opening_through_rock
+  label: animal creates escape opening through rock
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal enabling escape by opening rock functions as supernatural aid
+    or animal helper intervention.
+  cautions: If the animal is a trickster/culture hero or the opening explains a landscape
+    feature, trickster or cosmic_origin may be better secondary mappings.
+  suggested_aliases:
+  - animal helper opens rock passage
+  - animal creates escape passage
+  - animal-made opening through rock
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-creates-or-uncovers-a-salmon-creek
+  motif_id: animal_creates_or_uncovers_a_salmon_creek
+  label: animal creates or uncovers a salmon creek
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The animal creates or reveals a landscape and food-source feature, fitting
+    etiological landscape formation or origin of abundance.
+  cautions: If the focus is provision through an animal rather than place origin,
+    divine_intervention or culture_hero may be relevant. Salmon-creek specificity
+    should remain local evidence.
+  suggested_aliases:
+  - animal uncovers salmon creek
+  - animal creates food-bearing creek
+  - animal-origin salmon stream
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-creators-fashion-humanity-from-mud-in-paired-groups
+  motif_id: animal_creators_fashion_humanity_from_mud_in_paired_groups
+  label: animal creators fashion humanity from mud in paired groups
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Fashioning humanity from mud is a human-creation motif within cosmic
+    origin, with animals serving as creator agents.
+  cautions: Do not collapse the animal creator role or paired-group detail; these
+    may matter locally. Could relate to duality if paired groups are structurally
+    important.
+  suggested_aliases:
+  - animal creators make humans from mud
+  - humanity fashioned from mud by animals
+  - paired human creation from mud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-credited-with-a-celestial-feature
+  motif_id: animal_credited_with_a_celestial_feature
+  label: animal credited with a celestial feature
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests an etiological animal-celestial association, but the
+    specific feature and narrative function are unclear.
+  cautions: Could fit cosmic_origin, sacred_fire/solar_power, dream_and_vision, or
+    an animal etiology pattern depending on the passage. Single occurrence and vague
+    wording need source review.
+  suggested_aliases:
+  - animal origin of celestial feature
+  - animal associated with sky feature
+  - animal credited with heavenly mark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_fire
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items point to a possible recurring 'Animal Councils and Polities' group;
+  confirm with additional occurrences before taxonomy promotion.
+- For animal-agent creation or judgment motifs, map by narrative function first and
+  preserve animal agency as evidence detail.
+- Avoid treating culturally specific animal lodges, courts, or councils as generic
+  fable devices without source review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific animal-council and animal-etiology labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2052
+  input_sha256: daa127c5bdaa3b2ce70c5c424fbed45b816d680855edbda54921edb881cc2f29
+

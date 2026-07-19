@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0122
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-pollution-hierarchy
+  motif_id: death_pollution_hierarchy
+  label: Death-pollution hierarchy
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A hierarchy of death pollution is a ritual-purity classification governed
+    by sacred law rather than an afterlife journey motif.
+  cautions: Single occurrence; review Zoroastrian evidence for whether this is a ritual
+    rule, cosmological impurity doctrine, or generated abstraction.
+  suggested_aliases:
+  - mortuary_pollution_hierarchy
+  - hierarchy_of_death_impurity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-pollution-of-earth-water-and-plants
+  motif_id: death_pollution_of_earth_water_and_plants
+  label: Death pollution of earth, water, and plants
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Pollution of natural elements by death fits ritual purity law and sacred
+    regulation of contamination.
+  cautions: May also relate to sacred_waters or nature symbolism if the passage emphasizes
+    specific elements; preserve earth/water/plant detail as evidence.
+  suggested_aliases:
+  - death_impurity_of_natural_elements
+  - corpse_pollution_of_earth_water_plants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-pollution-requiring-purification
+  motif_id: death_pollution_requiring_purification
+  label: Death pollution requiring purification
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Death impurity requiring cleansing is a clear ritual-purity and purification
+    rule under sacred law.
+  cautions: Could secondarily touch sacrifice or ancestor rites if purification is
+    embedded in mortuary offerings or care for the dead.
+  suggested_aliases:
+  - death_impurity_requiring_purification
+  - mortuary_pollution_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-pollution-requiring-purification-before-divine-access
+  motif_id: death_pollution_requiring_purification_before_divine_access
+  label: Death pollution requiring purification before divine access
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Purification after death contact as a prerequisite for access to sacred
+    space or gods is a ritual law pattern.
+  cautions: If the passage centers on temple approach or offering, secondary mapping
+    to sacred_exchange or sacrifice may be appropriate.
+  suggested_aliases:
+  - mortuary_impurity_blocks_divine_access
+  - purification_after_death_contact_before_worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-pollution-strengthened-by-failed-ritual-cleansing
+  motif_id: death_pollution_strengthened_by_failed_ritual_cleansing
+  label: death pollution strengthened by failed ritual cleansing
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Failed purification worsening pollution is a specific ritual-purity rule
+    within sacred law.
+  cautions: Highly specific and single-occurrence; may be better preserved as evidence
+    detail beneath death-pollution purification rather than queried as its own motif.
+  suggested_aliases:
+  - failed_cleansing_intensifies_death_impurity
+  - failed_mortuary_purification_strengthens_pollution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-pollution-visible-to-animal-souls
+  motif_id: death_pollution_visible_to_animal_souls
+  label: Death pollution visible to animal souls
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines mortuary impurity, animal souls, and perception; existing
+    groups do not establish the main function from the label alone.
+  cautions: Culturally specific soul/animal ontology needs source review; could fit
+    sacred_law, dream_and_vision/opened perception, or animal-soul ritual belief depending
+    on evidence.
+  suggested_aliases:
+  - animal_souls_perceive_death_pollution
+  - death_impurity_seen_by_animal_souls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-preferred-to-enslavement
+  motif_id: death_preferred_to_enslavement
+  label: death preferred to enslavement
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as an ethical or social-value statement rather than a clear
+    death/descent motif in the current taxonomy.
+  cautions: May involve honor, captivity, sacrifice, social order, or a passage-specific
+    historical detail; avoid mapping without source context.
+  suggested_aliases:
+  - death_chosen_over_enslavement
+  - honorable_death_over_captivity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - sacred_law
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-prophecy-enforced-by-execution
+  motif_id: death_prophecy_enforced_by_execution
+  label: Death prophecy enforced by execution
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A death prophecy causing or justifying execution could be prophecy, social
+    enforcement, fate, or judgment depending on the passage.
+  cautions: Needs evidence for whether execution fulfills a genuine prophecy, enforces
+    a taboo, or is a contextual social action.
+  suggested_aliases:
+  - prophecy_of_death_enforced_by_killing
+  - execution_to_fulfill_death_prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - death_by_fate
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-prophecy-fulfilled-by-first-successful-hunts
+  motif_id: death_prophecy_fulfilled_by_first_successful_hunts
+  label: Death prophecy fulfilled by first successful hunts
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is an episode-specific prophecy fulfillment tied to hunting
+    success rather than a stable broad motif.
+  cautions: Could fit prophecy_divination or death_by_fate if the prophecy structure
+    is central; may also be a local passage detail.
+  suggested_aliases:
+  - death_foretold_by_first_successful_hunt
+  - hunting_success_fulfills_death_prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-proximity-taboo-restricting-movement-to-cultivated-places
+  motif_id: death_proximity_taboo_restricting_movement_to_cultivated_places
+  label: death-proximity taboo restricting movement to cultivated places
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Movement restrictions caused by nearness to death are mortuary taboo
+    and ritual regulation, fitting sacred law.
+  cautions: Highly contextual; review whether cultivated-place restriction is central
+    enough for indexing or should remain evidence detail.
+  suggested_aliases:
+  - mortuary_taboo_restricting_movement
+  - death_proximity_movement_restriction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels cluster around death pollution and mortuary purity; current sacred_law
+  can hold them, but reviewers may consider a future mortuary_pollution_and_purification
+  subgroup if many more recur.
+- Do not treat these death-pollution labels as afterlife journey motifs unless the
+  source evidence includes postmortem travel, judgment, or ancestor interaction.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific mortuary
+    and animal-soul items need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0122
+  input_sha256: 3508eaff6a02127ede54eebc5db63c595ae5e6bb8dd44794f5695a130bbc1a3e
+

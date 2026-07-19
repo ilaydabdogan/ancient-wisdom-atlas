@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3854
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.recognition-delayed-despite-bodily-proof
+  motif_id: recognition_delayed_despite_bodily_proof
+  label: Recognition delayed despite bodily proof
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on recognition mediated by bodily proof, matching the
+    recognition-token and identity-proof complex.
+  cautions: Single occurrence; delay may be an episode-specific plot detail rather
+    than the core motif.
+  suggested_aliases:
+  - delayed_recognition_by_bodily_proof
+  - recognition_by_bodily_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-a-champion-by-distinctive-shield
+  motif_id: recognition_of_a_champion_by_distinctive_shield
+  label: recognition of a champion by distinctive shield
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A distinctive shield functions as a visible identity token proving the
+    champion's identity.
+  cautions: May secondarily involve divine_warrior or sacred_combat if the shield
+    recognition occurs in battle; do not treat the shield itself as a sacred treasure
+    without evidence.
+  suggested_aliases:
+  - recognition_by_distinctive_shield
+  - champion_recognized_by_shield
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-blood-relations-through-the-navel
+  motif_id: recognition_of_blood_relations_through_the_navel
+  label: Recognition of blood-relations through the navel
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The navel functions as a bodily sign or sympathetic marker used to recognize
+    kinship.
+  cautions: Culturally specific body-symbolism should be reviewed with source evidence;
+    could be over-specific if the navel detail is local rather than recurrent.
+  suggested_aliases:
+  - kin_recognition_by_navel
+  - blood_relation_recognition_by_bodily_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-exceptional-bodily-might
+  motif_id: recognition_of_exceptional_bodily_might
+  label: Recognition of exceptional bodily might
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe identity recognition, heroic status recognition,
+    or merely admiration of strength.
+  cautions: If it proves identity, map to recognition_tokens_hidden_identity; if it
+    marks heroic combat capacity, divine_warrior may fit; source context is required.
+  suggested_aliases:
+  - recognition_by_extraordinary_strength
+  - recognition_of_heroic_bodily_might
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-false-spouse-by-altered-conduct
+  motif_id: recognition_of_false_spouse_by_altered_conduct
+  label: recognition of false spouse by altered conduct
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Altered conduct serves as behavioral evidence revealing a false identity
+    in an intimate role.
+  cautions: Could also involve shapeshifter or trickster if the false spouse is a
+    transformed or deceptive being; review source before final mapping.
+  suggested_aliases:
+  - false_spouse_recognized_by_behavior
+  - recognition_of_impostor_spouse_by_conduct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-hidden-identity-by-bodily-signs
+  motif_id: recognition_of_hidden_identity_by_bodily_signs
+  label: recognition of hidden identity by bodily signs
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: alias
+  confidence: high
+  rationale: This directly matches the existing group for identity proof by scars,
+    bodily tokens, or other signs.
+  cautions: Preserve the specific bodily sign in evidence notes if known.
+  suggested_aliases:
+  - recognition_by_bodily_signs
+  - hidden_identity_recognized_by_bodily_marks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-innocence-after-irreversible-harm
+  motif_id: recognition_of_innocence_after_irreversible_harm
+  label: recognition of innocence after irreversible harm
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Post-harm recognition of innocence functions as moral reckoning and tragic
+    exposure of wrongdoing or error.
+  cautions: May fit lament_and_mourning if grief is primary, or false_accusation_vindication
+    under divine_judgment if accusation evidence is present.
+  suggested_aliases:
+  - belated_recognition_of_innocence
+  - innocence_recognized_after_irreparable_harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-kin-by-body-token
+  motif_id: recognition_of_kin_by_body_token
+  label: recognition of kin by body token
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: alias
+  confidence: high
+  rationale: A body token proving kinship is squarely within recognition tokens and
+    identity proofs.
+  cautions: Review whether the token is an actual body part, bodily mark, or carried
+    object; preserve local specificity.
+  suggested_aliases:
+  - kin_recognition_by_body_token
+  - recognition_of_kin_by_bodily_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-kin-by-navel-sympathy
+  motif_id: recognition_of_kin_by_navel_sympathy
+  label: Recognition of kin by navel sympathy
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Navel sympathy appears to be a bodily or sympathetic sign used to establish
+    kin identity.
+  cautions: Likely overlaps with recognition_of_blood_relations_through_the_navel;
+    human review should decide whether to alias these together and preserve culturally
+    specific wording.
+  suggested_aliases:
+  - kin_recognition_by_navel_sympathy
+  - recognition_of_blood_relations_through_the_navel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-prior-victims-through-remains-and-possessions
+  motif_id: recognition_of_prior_victims_through_remains_and_possessions
+  label: recognition of prior victims through remains and possessions
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Remains and possessions function as evidence identifying previously lost
+    or killed persons.
+  cautions: Could secondarily involve lament_and_mourning or divine_judgment if the
+    recognition triggers grief, revenge, or moral reckoning; single occurrence is
+    quite contextual.
+  suggested_aliases:
+  - victims_recognized_by_remains_and_possessions
+  - recognition_of_the_dead_by_possessions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch cluster around the existing recognition_tokens_hidden_identity
+  group; several are granular variants using bodily signs, possessions, or behavioral
+  evidence as identity proof.
+- For the two Zulu navel-recognition labels, human review should decide whether they
+  are duplicate aliases or distinct source-specific concepts.
+- No transmission or contact claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages should be checked
+    for culturally specific body-symbolism and for whether recognition is the central
+    motif or an episode detail.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3854
+  input_sha256: 20b3ce5d8f12e5c7773b47cdd38cd5c8bf4ee1ab22e5f4abbac23704f5372582
+

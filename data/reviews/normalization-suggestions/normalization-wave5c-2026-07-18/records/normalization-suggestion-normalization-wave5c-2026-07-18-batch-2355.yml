@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2355
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.disease-magnitude-measured-by-patient-wealth
+  motif_id: disease_magnitude_measured_by_patient_wealth
+  label: disease magnitude measured by patient wealth
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label appears to encode a social or ritual measure of illness through
+    wealth, closer to sacred/social order than nature imagery.
+  cautions: Single occurrence and unclear without passage evidence; may be an ethnographic
+    or interpretive detail rather than a durable motif.
+  suggested_aliases:
+  - disease_severity_measured_by_wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disease-omen-predicting-locusts
+  motif_id: disease_omen_predicting_locusts
+  label: disease omen predicting locusts
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is omen-based prediction, with disease serving as the
+    sign and locusts as the predicted event.
+  cautions: If the passage emphasizes plague judgment or agricultural catastrophe
+    rather than divination, divine_judgment may be a secondary fit.
+  suggested_aliases:
+  - illness_omen_predicting_locusts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disease-revealed-by-reflection
+  motif_id: disease_revealed_by_reflection
+  label: Disease revealed by reflection
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: low
+  rationale: A reflection revealing hidden illness fits altered perception or revelatory
+    sight more than disease as a natural element.
+  cautions: Could instead involve sacred_treasures if a mirror/object is central,
+    or soul_loss_restoration if reflection is treated as soul evidence.
+  suggested_aliases:
+  - illness_revealed_by_reflection
+  - hidden_disease_seen_in_reflection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disease-severity-measured-by-wealth
+  motif_id: disease_severity_measured_by_wealth
+  label: Disease severity measured by wealth
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is effectively the same social valuation pattern as disease_magnitude_measured_by_patient_wealth.
+  cautions: Likely should be synonym-merged with the matching magnitude label; source
+    context needed before indexing broadly.
+  suggested_aliases:
+  - disease_magnitude_measured_by_patient_wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.diseased-body-politic-and-internal-war
+  motif_id: diseased_body_politic_and_internal_war
+  label: Diseased body politic and internal war
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The diseased body politic is a metaphor for civic disorder and internal
+    conflict, aligning with sacred/social order.
+  cautions: May be philosophical or rhetorical commentary rather than a narrative
+    motif; exclude if it is only a metaphor in exposition.
+  suggested_aliases:
+  - body_politic_as_diseased_by_internal_war
+  - civic_disorder_as_disease
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.diseased-body-requiring-civic-purgation
+  motif_id: diseased_body_requiring_civic_purgation
+  label: Diseased body requiring civic purgation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Civic purgation of a diseased body fits existing purification, expulsion,
+    and communal cleansing patterns under sacrifice.
+  cautions: If purely metaphorical political theory, it may be a commentary artifact;
+    if focused on law rather than rite, sacred_law may be secondary.
+  suggested_aliases:
+  - civic_purgation_of_diseased_body
+  - communal_purification_of_body_politic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.diseases-sent-against-a-vulnerable-figure
+  motif_id: diseases_sent_against_a_vulnerable_figure
+  label: diseases sent against a vulnerable figure
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Diseases are presented as sent agents against a figure, suggesting supernatural
+    intervention in human affairs.
+  cautions: If the sender is punitive sacred order, divine_judgment may be better;
+    if demonic assault is central, existing groups may not capture the full dualist
+    context.
+  suggested_aliases:
+  - supernaturally_sent_disease_against_vulnerable_figure
+  - disease_as_hostile_supernatural_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disobedient-carrier-releases-stars
+  motif_id: disobedient_carrier_releases_stars
+  label: Disobedient carrier releases stars
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: The release of stars explains a celestial feature or ordering event,
+    fitting cosmic origin and etiological creation.
+  cautions: Carrier disobedience should be preserved as evidence detail; do not reduce
+    to general moral disobedience if the celestial etiology is primary.
+  suggested_aliases:
+  - stars_released_by_disobedient_carrier
+  - etiology_of_stars_from_released_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dispelling-darkness-by-arising-light
+  motif_id: dispelling_darkness_by_arising_light
+  label: dispelling darkness by arising light
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Arising light that dispels darkness fits divine light and illumination
+    symbolism.
+  cautions: In Buddhist context it may be enlightenment metaphor; sacred_knowledge
+    or mystical_quest may be secondary if insight, not cosmic light, is primary.
+  suggested_aliases:
+  - arising_light_dispels_darkness
+  - light_overcoming_darkness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.displacement-by-a-directional-wind
+  motif_id: displacement_by_a_directional_wind
+  label: Displacement by a directional wind
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names an elemental force causing movement, but the narrative
+    function is unclear from wording alone.
+  cautions: Could be divine_intervention, hero_journey, cosmic_origin, or a passage-specific
+    travel detail depending on whether the wind is a sacred agent, etiological force,
+    or incidental hazard.
+  suggested_aliases:
+  - directional_wind_displaces_figure
+  - wind_causes_displacement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several disease labels are single-occurrence and may reflect ethnographic, rhetorical,
+  or interpretive wording rather than stable motifs; human review should check source
+  passages.
+- The two wealth-measured disease labels appear synonymous and should likely be considered
+  for alias merging if retained.
+- Do not infer transmission or shared origin from these placements; suggestions are
+  only query-normalization candidates.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions for wave5c batch 2355; disease and wind items
+    especially require evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2355
+  input_sha256: d89760d1c913a956b1a7fcab2d531e0a548abece25f6b9f8ec451772ea68b4bb
+

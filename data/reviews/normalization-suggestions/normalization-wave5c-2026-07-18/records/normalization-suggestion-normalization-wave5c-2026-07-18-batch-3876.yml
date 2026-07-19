@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3876
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.relic-enshrinement
+  motif_id: relic_enshrinement
+  label: relic enshrinement
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The existing group already includes saintly shrine and relic devotion;
+    enshrined relics function as sacred power objects.
+  cautions: Buddhist relic cult may warrant a more specific relic/shrine subgroup
+    if many such labels recur.
+  suggested_aliases:
+  - relic veneration
+  - relic shrine
+  - relic enshrinement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relic-inscriptions-authenticating-revered-teachers
+  motif_id: relic_inscriptions_authenticating_revered_teachers
+  label: relic inscriptions authenticating revered teachers
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Relics and their inscriptions function as sacred objects authenticating
+    a revered teacher's authority or presence.
+  cautions: The inscription/authentication element could be partly textual or provenance
+    evidence; verify it is a motif in the passage, not catalog metadata.
+  suggested_aliases:
+  - relic authentication
+  - inscribed relics of revered teachers
+  - relic inscriptions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relic-shrine-as-posthumous-focus-of-benefit
+  motif_id: relic_shrine_as_posthumous_focus_of_benefit
+  label: Relic shrine as posthumous focus of benefit
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A relic shrine is a sacred object/site through which posthumous benefit
+    or power is focused.
+  cautions: Could also relate to ancestor_rites or divine_intervention if the benefit
+    depends on ritual care or active sacred agency.
+  suggested_aliases:
+  - relic shrine as source of benefit
+  - posthumous beneficial relic shrine
+  - relic shrine devotion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relic-veneration-and-enshrinement
+  motif_id: relic_veneration_and_enshrinement
+  label: relic veneration and enshrinement
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: high
+  rationale: The group explicitly covers relic devotion and shrine-centered sacred
+    objects.
+  cautions: Preserve Buddhist enshrinement detail as evidence; do not flatten all
+    shrine practice into generic object veneration if local ritual function matters.
+  suggested_aliases:
+  - relic devotion
+  - relic veneration
+  - relic enshrinement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relics-appointed-for-royal-enshrinement
+  motif_id: relics_appointed_for_royal_enshrinement
+  label: Relics appointed for royal enshrinement
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Relics are sacred power objects appointed to be enshrined; royal sponsorship
+    is an added political-ritual context.
+  cautions: If the passage emphasizes kingship authorization more than relic devotion,
+    royal_legitimacy should be a secondary mapping.
+  suggested_aliases:
+  - royal relic enshrinement
+  - relics for royal enshrinement
+  - royally appointed relics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relics-as-presence-of-the-absent-buddha
+  motif_id: relics_as_presence_of_the_absent_buddha
+  label: Relics as presence of the absent Buddha
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Relics function as sacred objects that mediate the continued presence
+    of an absent holy figure.
+  cautions: This may also approach theophany or divine_intervention if relics manifest
+    presence actively; review Buddhist doctrinal context sensitively.
+  suggested_aliases:
+  - relics as sacred presence
+  - relics embody absent teacher
+  - posthumous presence in relics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relics-manifest-the-buddha-s-form
+  motif_id: relics_manifest_the_buddha_s_form
+  label: Relics manifest the Buddha’s form
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The relics do more than remain sacred objects; they manifest a revered
+    sacred form to witnesses.
+  cautions: Could be dual-indexed with sacred_treasures because the manifesting agent
+    is a relic; verify manifestation is narrated, not inferred commentary.
+  suggested_aliases:
+  - relic manifestation of Buddha form
+  - Buddha form manifested by relics
+  - relic theophany
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relics-manifesting-buddha-form-and-performing-a-prior-buddha-miracle
+  motif_id: relics_manifesting_buddha_form_and_performing_a_prior_buddha_miracle
+  label: Relics manifesting Buddha form and performing a prior Buddha miracle
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core reusable motif is relic-mediated manifestation of the Buddha's
+    form and sacred power.
+  cautions: Highly composite label; preserve the prior-miracle detail as evidence
+    rather than promoting it as a canonical motif unless it recurs.
+  suggested_aliases:
+  - relics manifest Buddha form
+  - relics perform Buddha miracle
+  - relic-mediated Buddha manifestation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relief-of-a-threatened-allied-settlement
+  motif_id: relief_of_a_threatened_allied_settlement
+  label: relief of a threatened allied settlement
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes military aid to allies, but no sacred, ritual, or
+    mythic function is clear from the wording alone.
+  cautions: May be a historical episode or plot detail rather than a motif; could
+    fit sacred_combat only if ritualized or mythically charged warfare is present.
+  suggested_aliases:
+  - rescue of allied settlement
+  - military relief of threatened ally
+  - allied settlement rescued
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religion-distributed-across-regions
+  motif_id: religion_distributed_across_regions
+  label: Religion distributed across regions
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label sounds like geographic or historiographic description of religious
+    distribution rather than a narrative motif.
+  cautions: If source evidence describes a mythic apportionment of sacred law or revelation
+    across lands, review for sacred_law or cosmic_order placement instead.
+  suggested_aliases:
+  - regional distribution of religion
+  - religion across regions
+  - geographic spread of religion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Buddhist relic labels cluster around sacred_treasures, with some active
+  manifestation cases better reviewed against theophany and divine_intervention.
+- Relic-specific recurrence may justify a future child or subgroup for relic/shrine
+  devotion, but existing sacred_treasures currently holds saintly shrine and relic
+  devotion.
+- Avoid treating geographic or historiographic labels as motif evidence unless the
+  passage narrates mythic distribution or sacred ordering.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; Buddhist relic cluster should be
+    reviewed together for consistent handling.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3876
+  input_sha256: 5200b7332148ae4f5b2b2a2fb3169f0431c45f53570a0a9138cc19fcdaba4d9c
+

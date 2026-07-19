@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1381
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.name-insult-breaks-animal-spouse-marriage
+  motif_id: name_insult_breaks_animal_spouse_marriage
+  label: Name insult breaks animal-spouse marriage
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: low
+  rationale: A spoken name-insult appears to have performative force that breaks a
+    relationship or taboo.
+  cautions: Could instead be an animal-spouse taboo, marital violation, or over-specific
+    tale episode; source evidence is needed before indexing under speech power.
+  suggested_aliases:
+  - insult_breaks_animal_spouse_marriage
+  - name_taboo_in_animal_spouse_marriage
+  - performative_insult_breaks_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-mediated-devotion-and-presence
+  motif_id: name_mediated_devotion_and_presence
+  label: Name-mediated devotion and presence
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Devotional repetition or remembrance of the divine name mediates sacred
+    presence and interior transformation.
+  cautions: Could also support sacred_knowledge or curse_blessing_speech if the passage
+    emphasizes revealed name or performative utterance rather than devotional practice.
+  suggested_aliases:
+  - devotion_through_the_divine_name
+  - divine_name_as_presence
+  - name_meditation_as_devotion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-play-explaining-characteristics-or-birth-circumstances
+  motif_id: name_play_explaining_characteristics_or_birth_circumstances
+  label: name play explaining characteristics or birth circumstances
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: low
+  rationale: Name etymology explaining traits or birth circumstances is an etiological
+    naming pattern, already near origin and name-etiology children.
+  cautions: May be a local pun or commentary artifact rather than a reusable motif;
+    if tied to a sacred birth, miraculous_child may be a secondary fit.
+  suggested_aliases:
+  - etiological_name_play
+  - name_etymology_explains_birth
+  - name_etymology_explains_character
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-play-linking-levi-with-joining
+  motif_id: name_play_linking_levi_with_joining
+  label: Name-play linking Levi with joining
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This looks like a specific etymological wordplay on one name rather than
+    a broad narrative motif.
+  cautions: If the passage uses the naming to establish lineage, covenant identity,
+    or sacred role, preserve as evidence under covenant or royal_legitimacy rather
+    than as an independent motif.
+  suggested_aliases:
+  - levi_joining_name_play
+  - specific_name_etymology_levi
+  - etymological_wordplay_on_levi
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-preserving-memory-of-dispossession
+  motif_id: name_preserving_memory_of_dispossession
+  label: name preserving memory of dispossession
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: A name functioning as memory or testimony can fit narrative memory and
+    transmission.
+  cautions: May be a place-name, lineage note, political claim, or passage-specific
+    commentary; review whether the name itself has narrative force.
+  suggested_aliases:
+  - name_as_memory_of_loss
+  - commemorative_name_preserves_dispossession
+  - name_as_memorial_testimony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-preserving-political-continuity
+  motif_id: name_preserving_political_continuity
+  label: Name-preserving political continuity
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Preserving a name to maintain political continuity supports legitimacy,
+    succession, or social order.
+  cautions: If the passage is only a historical naming convention, it may be too contextual
+    for motif queries.
+  suggested_aliases:
+  - dynastic_name_preserves_continuity
+  - name_as_political_continuity
+  - succession_through_preserved_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-relinquishment-compensated-by-gift
+  motif_id: name_relinquishment_compensated_by_gift
+  label: Name relinquishment compensated by gift
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Relinquishing a name in return for a gift resembles reciprocal exchange
+    involving identity or status.
+  cautions: Naming practices can be culturally specific and sensitive; confirm whether
+    this is ritual exchange, social compensation, or a one-off ethnographic detail.
+  suggested_aliases:
+  - name_exchange_compensated_by_gift
+  - gift_compensation_for_relinquished_name
+  - renouncing_name_for_compensation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-repeated-as-a-memory-bearing-message
+  motif_id: name_repeated_as_a_memory_bearing_message
+  label: Name repeated as a memory-bearing message
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repeated naming functions as a message that carries memory, fitting speech
+    and narrative transmission as power.
+  cautions: Could overlap with recognition tokens or performative speech if the name
+    proves identity or enacts a change.
+  suggested_aliases:
+  - repeated_name_as_message
+  - name_repetition_preserves_memory
+  - memory_bearing_name_message
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-repetition-as-rescue-message
+  motif_id: name_repetition_as_rescue_message
+  label: name repetition as rescue message
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The repeated name operates as a speech-message that enables rescue, a
+    practical power of utterance or narration.
+  cautions: If the key function is identifying a hidden person, recognition_tokens_hidden_identity
+    may be a better secondary mapping.
+  suggested_aliases:
+  - repeated_name_as_rescue_signal
+  - name_repetition_rescue_message
+  - rescue_through_repeated_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-repetition-leading-to-emancipation
+  motif_id: name_repetition_leading_to_emancipation
+  label: Name repetition leading to emancipation
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Repetition of the divine name as a liberating practice fits mystical
+    discipline and transformation toward emancipation.
+  cautions: Could also be indexed under sacred_knowledge if the emphasis is revealed
+    teaching, or curse_blessing_speech if utterance itself is framed as performative
+    power.
+  suggested_aliases:
+  - liberation_through_name_repetition
+  - divine_name_repetition_as_emancipation
+  - name_recitation_leads_to_liberation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items concern names, naming, repetition, and wordplay. Reviewers may want
+  a future cross-cutting alias cluster for naming/sacred name practices, but existing
+  groups can provisionally hold most labels.
+- Single-occurrence name puns should usually remain evidence details unless they recur
+  across sources or perform a clear etiological, ritual, or legitimating function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific naming practices and isolated
+    etymological labels require human evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1381
+  input_sha256: b2700b97384ffb0824dc4718747d82729784dd9dd4515d7e33857d31d79d2026
+

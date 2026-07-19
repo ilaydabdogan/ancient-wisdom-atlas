@@ -1,0 +1,312 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4015
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.tattoo-art-transmitted-by-drifting-outsiders
+  motif_id: tattoo_art_transmitted_by_drifting_outsiders
+  label: tattoo art transmitted by drifting outsiders
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe cultural transmission of a craft rather than a
+    narrative or symbolic motif.
+  cautions: Avoid treating transmission by outsiders as evidence of historical contact
+    in this normalization task; source context is needed to distinguish culture-hero
+    craft origin from ethnographic commentary.
+  suggested_aliases:
+  - tattooing introduced by outsiders
+  - tattoo art from drifting strangers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tattoo-patterns-as-local-decorative-art
+  motif_id: tattoo_patterns_as_local_decorative_art
+  label: Tattoo patterns as local decorative art
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a descriptive ethnographic/art-category note rather
+    than a recurring mythic motif.
+  cautions: If the passage gives tattoos ritual, identity, initiation, protection,
+    or sacred-law function, remap under the relevant functional group rather than
+    excluding.
+  suggested_aliases:
+  - local tattoo decoration
+  - tattoo patterns as decorative art
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taunt-before-lethal-encounter
+  motif_id: taunt_before_lethal_encounter
+  label: taunt before lethal encounter
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Pre-combat taunting or flyting fits the existing sacred-combat complex
+    of ritualized verbal challenge before violence.
+  cautions: If the taunt primarily reveals fate, omen, or lament rather than combat
+    ritual, secondary review under death_by_fate may be needed.
+  suggested_aliases:
+  - pre-combat taunt
+  - taunt before fatal combat
+  - flyting before lethal encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taunt-transforms-a-non-killer-into-a-killer
+  motif_id: taunt_transforms_a_non_killer_into_a_killer
+  label: Taunt transforms a non-killer into a killer
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A taunt provoking lethal martial action aligns with existing sacred-combat
+    aliases for taunt-induced renewed force or battle incitement.
+  cautions: The transformation of moral identity may also involve divine_judgment
+    or ethics if the passage focuses on culpability rather than combat escalation.
+  suggested_aliases:
+  - taunt provokes killing
+  - taunt-induced lethal violence
+  - taunt turns non-killer into killer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taunting-adversary-after-escape
+  motif_id: taunting_adversary_after_escape
+  label: taunting adversary after escape
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Taunting an adversary after escape functions as boundary-crossing defiance
+    and deception-adjacent survival behavior.
+  cautions: If the scene belongs to formal heroic flyting or feud escalation, sacred_combat
+    may be a better primary placement.
+  suggested_aliases:
+  - post-escape taunt
+  - escaped captive taunts adversary
+  - taunt after evasion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taunting-release-that-provokes-vengeance
+  motif_id: taunting_release_that_provokes_vengeance
+  label: taunting release that provokes vengeance
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A taunting release that triggers vengeance centers on retaliatory moral
+    consequence after insult or humiliation.
+  cautions: Could instead be trickster escalation, feud combat, or a passage-specific
+    plot detail; source evidence is needed before firm mapping.
+  suggested_aliases:
+  - taunt provokes vengeance after release
+  - release with taunt leading to revenge
+  - humiliating release provokes retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tavern-summons-away-from-mosque
+  motif_id: tavern_summons_away_from_mosque
+  label: tavern summons away from mosque
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi usage, the tavern can symbolize a paradoxical summons from formal
+    piety toward direct mystical experience.
+  cautions: Culturally specific metaphor; do not reduce mosque/tavern opposition to
+    literal impiety without source context. Sacred_substance may be secondary if wine
+    is central.
+  suggested_aliases:
+  - tavern call away from formal worship
+  - mystical tavern summons
+  - summons from mosque to tavern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tavern-wine-opposed-to-formal-piety
+  motif_id: tavern_wine_opposed_to_formal_piety
+  label: Tavern wine opposed to formal piety
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Wine as paradoxical sacred intoxication opposed to merely formal piety
+    fits the sacred-substance and mystical intoxication complex.
+  cautions: Review Sufi metaphor carefully; wine may be figurative for divine love,
+    gnosis, or annihilation rather than literal drink.
+  suggested_aliases:
+  - mystical wine against formal piety
+  - tavern wine as sacred intoxication
+  - wine opposed to outward piety
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - mystical_quest
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.teacher-establishes-a-rule-after-misconduct
+  motif_id: teacher_establishes_a_rule_after_misconduct
+  label: Teacher establishes a rule after misconduct
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A teacher responding to misconduct by instituting a rule fits sacred
+    law, discipline, and social order formation.
+  cautions: May be Vinaya/legal narrative rather than mythic motif; preserve as contextual
+    evidence unless it recurs across sources.
+  suggested_aliases:
+  - rule established after misconduct
+  - disciplinary rule after transgression
+  - teacher institutes rule after offense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.teacher-intercepts-a-departing-disciple
+  motif_id: teacher_intercepts_a_departing_disciple
+  label: Teacher intercepts a departing disciple
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too contextual to determine whether it is guidance, discipline,
+    initiation, or a passage-specific episode.
+  cautions: If interception redirects a spiritual path, map to initiation or mystical_quest;
+    if it enforces monastic order, sacred_law may fit; otherwise exclude as plot detail.
+  suggested_aliases:
+  - teacher stops departing disciple
+  - master intercepts disciple leaving
+  - disciple prevented from departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - mystical_quest
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several one-occurrence labels appear highly contextual; placements should be treated
+  as provisional until passage evidence confirms recurring motif function.
+- Tattoo-related labels need careful review to distinguish mythic origin/craft transmission
+  from ethnographic or decorative description.
+- Sufi tavern and wine labels should be reviewed as culturally specific mystical metaphors,
+  not literal claims about impiety or intoxication.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft machine suggestions for wave5c batch 4015; human review recommended
+    for culturally specific and single-occurrence items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4015
+  input_sha256: 4e1fdc3c10d1247f9941b26ae3c22f8c543a82aa0bc583a98fb51abae5492d83
+

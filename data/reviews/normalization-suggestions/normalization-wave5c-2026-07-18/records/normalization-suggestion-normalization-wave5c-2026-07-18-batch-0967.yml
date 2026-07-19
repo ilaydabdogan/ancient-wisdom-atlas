@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0967
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.preservation-of-inherited-poetic-forms
+  motif_id: preservation_of_inherited_poetic_forms
+  label: preservation of inherited poetic forms
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes literary form preservation rather than a narrative
+    or symbolic motif.
+  cautions: If the passage treats poetic form as sacred recitation or transformative
+    song, sacred_song or storytelling_as_power may be relevant; otherwise exclude
+    from motif queries.
+  suggested_aliases:
+  - poetic_form_preservation
+  - preserved_inherited_poetic_forms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preservation-of-sacred-lore-through-collection-and-copying
+  motif_id: preservation_of_sacred_lore_through_collection_and_copying
+  label: preservation of sacred lore through collection and copying
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Preserving sacred lore concerns transmission and protection of sacred
+    knowledge, but may also be a textual-history note.
+  cautions: Review source evidence to distinguish mythic/religious preservation of
+    sacred knowledge from manuscript or editorial history; exclude as _meta_textual
+    if only bibliographic.
+  suggested_aliases:
+  - sacred_lore_preserved_by_copying
+  - collection_and_copying_of_sacred_lore
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preserved-hair-before-ritual-cutting
+  motif_id: preserved_hair_before_ritual_cutting
+  label: preserved hair before ritual cutting
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Hair preservation before cutting sounds like a ritual rule or taboo,
+    best provisionally near sacred law.
+  cautions: Could instead involve sacrifice, initiation, mourning, external soul,
+    or a passage-specific ethnographic detail; source context is needed.
+  suggested_aliases:
+  - ritual_hair_preservation_before_cutting
+  - hair_preserved_before_ritual_cutting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preserved-skin-as-container-or-memorial-of-divine-life
+  motif_id: preserved_skin_as_container_or_memorial_of_divine_life
+  label: Preserved skin as container or memorial of divine life
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label emphasizes a preserved skin functioning as a container of divine
+    life, which fits sacred container logic more than general sacrifice.
+  cautions: May also be memorial relic, divine body transformation, sacrifice, or
+    over-specific comparative artifact; avoid mapping without passage evidence.
+  suggested_aliases:
+  - preserved_skin_container_of_divine_life
+  - divine_life_memorialized_in_preserved_skin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preserving-the-inherited-body-as-filial-duty
+  motif_id: preserving_the_inherited_body_as_filial_duty
+  label: preserving the inherited body as filial duty
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif frames bodily care as a filial and ethical obligation, aligning
+    with sacred law and social order.
+  cautions: May be ethical teaching rather than ritual motif; preserve Confucian filial-body
+    specificity in evidence notes.
+  suggested_aliases:
+  - filial_preservation_of_the_inherited_body
+  - body_preservation_as_filial_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.presiding-mourner-mediating-visitor-rites
+  motif_id: presiding_mourner_mediating_visitor_rites
+  label: presiding mourner mediating visitor rites
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A mourner coordinating visitor rites belongs to ritual care around death
+    and relations between living, mourners, and dead.
+  cautions: If the focus is etiquette rather than ancestor/death ritual, sacred_law
+    may be a secondary or better mapping.
+  suggested_aliases:
+  - mourner_mediates_funeral_visitor_rites
+  - presiding_mourner_in_visitor_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prestige-inherited-through-chief-father-and-retained-medal
+  motif_id: prestige_inherited_through_chief_father_and_retained_medal
+  label: Prestige inherited through chief father and retained medal
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: Inherited chiefly prestige and a retained insignia may fit sacred or
+    lineage-based legitimacy.
+  cautions: Could be a person-specific biographical detail or colonial-era material
+    object note rather than a mythic motif; handle culturally specific context carefully.
+  suggested_aliases:
+  - inherited_chiefly_prestige_with_medal
+  - prestige_inherited_through_chiefly_father
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pride-as-obstacle-to-divine-presence
+  motif_id: pride_as_obstacle_to_divine_presence
+  label: Pride as obstacle to divine presence
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly treats pride as a spiritual obstacle, fitting the
+    pride/hubris complex.
+  cautions: If the passage emphasizes interior discipline or mystical union more than
+    downfall, mystical_quest or annihilation_union may be useful secondary context.
+  suggested_aliases:
+  - pride_blocks_divine_presence
+  - ego_as_obstacle_to_divine_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.priestess-fetching-ritual-water-before-divine-encounter
+  motif_id: priestess_fetching_ritual_water_before_divine_encounter
+  label: priestess fetching ritual water before divine encounter
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual water used before divine encounter fits sacred waters as purification
+    or preparation for sacred contact.
+  cautions: The priestess role and divine encounter may also involve theophany; if
+    water is incidental, treat as passage detail rather than motif.
+  suggested_aliases:
+  - ritual_water_before_divine_encounter
+  - priestess_fetches_sacred_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.priestly-access-and-ministry-near-the-deity
+  motif_id: priestly_access_and_ministry_near_the_deity
+  label: Priestly access and ministry near the deity
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Regulated priestly access and ministry near a deity is a ritual-order
+    and sacred-law pattern.
+  cautions: Could also relate to covenant, sacrifice, or theophany depending on whether
+    access is legal, sacrificial, or visionary in the passage.
+  suggested_aliases:
+  - priestly_access_to_the_deity
+  - ritual_ministry_near_the_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual or textual-preservation
+  items; human review should distinguish reusable motif from passage-specific evidence
+  note.
+- Do not infer transmission or borrowing from shared placement in sacred knowledge,
+  sacred law, or ritual groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual labels need source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0967
+  input_sha256: 370904386429ec6b24ecbcb75d03f763abf7b6e16c71ad6d9abf3746d4af1cb0
+

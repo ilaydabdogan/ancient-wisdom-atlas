@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1855
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.gendered-musical-roles-in-dance
+  motif_id: gendered_musical_roles_in_dance
+  label: Gendered musical roles in dance
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Gendered ritual or performance roles are not cleanly covered by current
+    groups; dance/music may be contextual rather than mythic.
+  cautions: Single occurrence and culturally specific; review whether this is a ritual
+    motif, ethnographic detail, or passage artifact before indexing.
+  suggested_aliases:
+  - gendered_music_and_dance_roles
+  - gendered_ritual_performance_roles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-naming-through-animals-birds-plants-and-flowers
+  motif_id: gendered_naming_through_animals_birds_plants_and_flowers
+  label: Gendered naming through animals, birds, plants, and flowers
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines gender, naming, and natural symbols without enough
+    evidence for an existing symbolic or ritual group.
+  cautions: Could be naming custom, gender classification, totemic/plant-animal symbolism,
+    or source-specific ethnographic detail; avoid broad mapping from label alone.
+  suggested_aliases:
+  - gendered_naming_by_natural_symbols
+  - gendered_animal_plant_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-palm-leaf-tassel-covering
+  motif_id: gendered_palm_leaf_tassel_covering
+  label: gendered palm-leaf tassel covering
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a highly specific material-culture or clothing detail rather
+    than a reusable mythic motif.
+  cautions: If passage evidence shows ritual initiation, taboo, or sacred gender marking,
+    review under sacred_law or initiation instead of excluding.
+  suggested_aliases:
+  - gendered_palm_leaf_covering
+  - palm_leaf_tassel_gender_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-parallel-running-contests
+  motif_id: gendered_parallel_running_contests
+  label: Gendered parallel running contests
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A gendered contest may be ritual, social order, initiation, courtship,
+    or athletics; current groups do not identify the function.
+  cautions: Single occurrence; do not map to sacred_combat or initiation unless the
+    contest has ordeal, status-change, or sacred-order function.
+  suggested_aliases:
+  - gendered_running_contest
+  - parallel_male_female_running_contests
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_law
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-performance-ensemble
+  motif_id: gendered_performance_ensemble
+  label: gendered performance ensemble
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad and likely describes social or ritual performance
+    organization rather than a clear narrative motif.
+  cautions: Culturally sensitive ceremonial context may require source review; could
+    be excluded if it is only descriptive metadata.
+  suggested_aliases:
+  - gendered_ritual_performance_ensemble
+  - gendered_ceremonial_ensemble
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - storytelling_as_power
+    - enchanting_music
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-powers-of-darkness
+  motif_id: gendered_powers_of_darkness
+  label: gendered powers of darkness
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Darkness as a gendered power fits a symbolic opposition field more than
+    family/body motifs.
+  cautions: If the passage describes a specific demon, goddess, witch, or chthonic
+    being, a more precise group such as divine_intervention, mother_goddess, or threshold_guardian
+    may be needed.
+  suggested_aliases:
+  - gendered_darkness_powers
+  - gendered_chthonic_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-preparation-of-staple-cassava
+  motif_id: gendered_preparation_of_staple_cassava
+  label: Gendered preparation of staple cassava
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a specific subsistence or division-of-labor detail
+    rather than a symbolic motif.
+  cautions: If tied to origin of food, ritual prohibition, sacred substance, or culture-hero
+    teaching, review with source evidence before exclusion.
+  suggested_aliases:
+  - gendered_cassava_preparation
+  - gendered_staple_food_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - culture_hero
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-production-and-wearing-of-dress
+  motif_id: gendered_production_and_wearing_of_dress
+  label: gendered production and wearing of dress
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Dress production and wearing may encode sacred law, status, initiation,
+    or social order, but the function is unclear from the label.
+  cautions: Likely ethnographic or material-culture detail if no ritual, identity,
+    or transformation function is present.
+  suggested_aliases:
+  - gendered_dress_production
+  - gendered_clothing_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - initiation
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-protection-during-painful-adornment
+  motif_id: gendered_protection_during_painful_adornment
+  label: gendered protection during painful adornment
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Painful adornment with protective practice plausibly functions as a gendered
+    ordeal or status-marking rite.
+  cautions: Verify that the adornment changes status or has ritual force; otherwise
+    it may be an over-specific body/adornment detail.
+  suggested_aliases:
+  - protective_rite_during_painful_adornment
+  - gendered_painful_adornment_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-restriction-on-scalping-knife-with-women-carrying-scalps-in-victory-dance
+  motif_id: gendered_restriction_on_scalping_knife_with_women_carrying_scalps_in_victory_dance
+  label: Gendered restriction on scalping knife with women carrying scalps in victory
+    dance
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label combines war trophy handling, gender restriction, and victory
+    dance; possible sacred combat or sacred law placement depends on evidence.
+  cautions: Culturally sensitive and highly specific; review source context before
+    indexing. Could be too specific for pattern queries unless recurring across sources.
+  suggested_aliases:
+  - gendered_scalping_knife_restriction
+  - women_carrying_scalps_in_victory_dance
+  - gendered_war_trophy_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_law
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Many labels in this batch are single-occurrence gendered social or ritual-role details;
+  source evidence is needed before promoting any gender-role group.
+- Avoid treating gendered division of labor or material-culture details as motifs
+  unless they carry ritual, narrative, symbolic, or status-transforming function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; several culturally specific labels should be
+    checked against source passages before mapping or exclusion.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1855
+  input_sha256: 83bac7c857f3e31226b141b9aca28661d4afafd560f000e9f23e4604f66d029b
+

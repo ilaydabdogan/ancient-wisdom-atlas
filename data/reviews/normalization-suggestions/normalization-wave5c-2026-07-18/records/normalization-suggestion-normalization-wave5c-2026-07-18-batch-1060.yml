@@ -1,0 +1,355 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1060
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-ordering-by-sacred-directions
+  motif_id: ritual_ordering_by_sacred_directions
+  label: ritual ordering by sacred directions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Orientation and Sacred Directions
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on ritual space ordered by sacred directions, a recurring
+    directional-orientation cluster not cleanly captured by sacred_law alone.
+  cautions: Culturally specific directional systems should not be flattened into generic
+    cardinal directions without source review.
+  suggested_aliases:
+  - sacred directions in ritual order
+  - ritual orientation to sacred directions
+  suggested_new_group:
+    id: ritual_orientation_sacred_directions
+    label: Ritual Orientation and Sacred Directions
+    description: Ritual action, staging, movement, prayer, or spatial order organized
+      by sacred directions, cardinal regions, solar orientation, or culturally specific
+      directional cosmology.
+    parent_group_ids:
+    - sacred_law
+    - axis_mundi
+    related_group_ids:
+    - sacred_time
+    - sacred_fire
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups cover sacred law, centers,
+      and solar/fire symbolism, but none directly captures directional ritual staging
+      as a spatial-cosmological practice.
+- suggestion_id: normalization.suggestion.ritual-ordering-of-natural-domains-and-animal-classes
+  motif_id: ritual_ordering_of_natural_domains_and_animal_classes
+  label: Ritual ordering of natural domains and animal classes
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual classification of natural domains and animal classes fits sacred
+    law as divinely or ritually ordered categories of conduct and purity.
+  cautions: May involve Zoroastrian cosmology or purity law; source evidence should
+    decide whether cosmic_origin or duality is a secondary mapping.
+  suggested_aliases:
+  - ritual classification of natural domains
+  - sacred ordering of animal classes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-ordering-of-social-relations
+  motif_id: ritual_ordering_of_social_relations
+  label: ritual ordering of social relations
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Confucian ritual ordering of relationships directly concerns social order
+    regulated by sacred or normative practice.
+  cautions: If the passage emphasizes reciprocity or hierarchy-specific obligations,
+    sacred_exchange or royal_legitimacy may be useful secondary facets.
+  suggested_aliases:
+  - ritual ordering of relationships
+  - ritualized social hierarchy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-orientation-and-directional-staging
+  motif_id: ritual_orientation_and_directional_staging
+  label: Ritual orientation and directional staging
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Orientation and Sacred Directions
+  relationship: alias
+  confidence: high
+  rationale: This is a direct label for the proposed directional ritual-staging group.
+  cautions: Review whether staging is merely descriptive choreography or carries sacred
+    cosmological meaning in the source.
+  suggested_aliases:
+  - directional ritual staging
+  - ritual staging by direction
+  suggested_new_group:
+    id: ritual_orientation_sacred_directions
+    label: Ritual Orientation and Sacred Directions
+    description: Ritual action, staging, movement, prayer, or spatial order organized
+      by sacred directions, cardinal regions, solar orientation, or culturally specific
+      directional cosmology.
+    parent_group_ids:
+    - sacred_law
+    - axis_mundi
+    related_group_ids:
+    - sacred_time
+    - sacred_fire
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups cover sacred law, centers,
+      and solar/fire symbolism, but none directly captures directional ritual staging
+      as a spatial-cosmological practice.
+- suggestion_id: normalization.suggestion.ritual-orientation-away-from-the-sun-to-avoid-offense
+  motif_id: ritual_orientation_away_from_the_sun_to_avoid_offense
+  label: Ritual orientation away from the sun to avoid offense
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Orientation and Sacred Directions
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif is a specific rule of ritual orientation using solar direction
+    and avoidance of offense.
+  cautions: Over-specific single occurrence; preserve sun-avoidance as evidence detail
+    and review whether the main function is taboo, respect, or solar cult practice.
+  suggested_aliases:
+  - sun-avoidance ritual orientation
+  - ritual turning away from the sun
+  suggested_new_group:
+    id: ritual_orientation_sacred_directions
+    label: Ritual Orientation and Sacred Directions
+    description: Ritual action, staging, movement, prayer, or spatial order organized
+      by sacred directions, cardinal regions, solar orientation, or culturally specific
+      directional cosmology.
+    parent_group_ids:
+    - sacred_law
+    - axis_mundi
+    related_group_ids:
+    - sacred_time
+    - sacred_fire
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups cover sacred law, centers,
+      and solar/fire symbolism, but none directly captures directional ritual staging
+      as a spatial-cosmological practice.
+- suggestion_id: normalization.suggestion.ritual-orientation-from-creator-s-left-to-right-act
+  motif_id: ritual_orientation_from_creator_s_left_to_right_act
+  label: Ritual orientation from creator's left-to-right act
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: Ritual Orientation and Sacred Directions
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual directionality grounded in a creator act,
+    but its meaning depends on source-specific cosmology.
+  cautions: Do not normalize the left-to-right act without human review; it may be
+    an etiological creation detail, ritual prescription, or passage-specific interpretation.
+  suggested_aliases:
+  - creator-derived ritual directionality
+  - left-to-right ritual orientation
+  suggested_new_group:
+    id: ritual_orientation_sacred_directions
+    label: Ritual Orientation and Sacred Directions
+    description: Ritual action, staging, movement, prayer, or spatial order organized
+      by sacred directions, cardinal regions, solar orientation, or culturally specific
+      directional cosmology.
+    parent_group_ids:
+    - sacred_law
+    - axis_mundi
+    related_group_ids:
+    - sacred_time
+    - sacred_fire
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups cover sacred law, centers,
+      and solar/fire symbolism, but none directly captures directional ritual staging
+      as a spatial-cosmological practice.
+- suggestion_id: normalization.suggestion.ritual-orientation-to-cardinal-directions
+  motif_id: ritual_orientation_to_cardinal_directions
+  label: ritual orientation to cardinal directions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Orientation and Sacred Directions
+  relationship: narrower_than
+  confidence: high
+  rationale: Orientation to cardinal directions is a central instance of ritual space
+    ordered by sacred directions.
+  cautions: Confirm whether the source uses four cardinal directions or another culturally
+    specific directional scheme.
+  suggested_aliases:
+  - cardinal-direction ritual orientation
+  - ritual facing of cardinal directions
+  suggested_new_group:
+    id: ritual_orientation_sacred_directions
+    label: Ritual Orientation and Sacred Directions
+    description: Ritual action, staging, movement, prayer, or spatial order organized
+      by sacred directions, cardinal regions, solar orientation, or culturally specific
+      directional cosmology.
+    parent_group_ids:
+    - sacred_law
+    - axis_mundi
+    related_group_ids:
+    - sacred_time
+    - sacred_fire
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups cover sacred law, centers,
+      and solar/fire symbolism, but none directly captures directional ritual staging
+      as a spatial-cosmological practice.
+- suggestion_id: normalization.suggestion.ritual-orientation-to-cosmic-directions-and-sun
+  motif_id: ritual_orientation_to_cosmic_directions_and_sun
+  label: ritual orientation to cosmic directions and sun
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Orientation and Sacred Directions
+  relationship: narrower_than
+  confidence: high
+  rationale: The label combines directional cosmology and solar orientation, matching
+    the proposed ritual-orientation group.
+  cautions: May also relate to sacred_fire or sacred_time if the sun determines illumination,
+    prayer timing, or ritual calendar.
+  suggested_aliases:
+  - solar and directional ritual orientation
+  - orientation to cosmic directions and sun
+  suggested_new_group:
+    id: ritual_orientation_sacred_directions
+    label: Ritual Orientation and Sacred Directions
+    description: Ritual action, staging, movement, prayer, or spatial order organized
+      by sacred directions, cardinal regions, solar orientation, or culturally specific
+      directional cosmology.
+    parent_group_ids:
+    - sacred_law
+    - axis_mundi
+    related_group_ids:
+    - sacred_time
+    - sacred_fire
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups cover sacred law, centers,
+      and solar/fire symbolism, but none directly captures directional ritual staging
+      as a spatial-cosmological practice.
+- suggestion_id: normalization.suggestion.ritual-orientation-to-east-at-sunrise-with-raised-hands
+  motif_id: ritual_orientation_to_east_at_sunrise_with_raised_hands
+  label: Ritual orientation to East at sunrise with raised hands
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Orientation and Sacred Directions
+  relationship: narrower_than
+  confidence: medium
+  rationale: Facing east at sunrise is a specific solar-directional ritual posture
+    within the proposed group.
+  cautions: Raised hands and sunrise timing are granular evidence details; review
+    whether the main motif is prayer posture, solar orientation, or ritual time.
+  suggested_aliases:
+  - eastward sunrise ritual orientation
+  - raised-hands prayer facing east
+  suggested_new_group:
+    id: ritual_orientation_sacred_directions
+    label: Ritual Orientation and Sacred Directions
+    description: Ritual action, staging, movement, prayer, or spatial order organized
+      by sacred directions, cardinal regions, solar orientation, or culturally specific
+      directional cosmology.
+    parent_group_ids:
+    - sacred_law
+    - axis_mundi
+    related_group_ids:
+    - sacred_time
+    - sacred_fire
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups cover sacred law, centers,
+      and solar/fire symbolism, but none directly captures directional ritual staging
+      as a spatial-cosmological practice.
+- suggestion_id: normalization.suggestion.ritual-orientation-to-four-regions
+  motif_id: ritual_orientation_to_four_regions
+  label: ritual orientation to four regions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Orientation and Sacred Directions
+  relationship: narrower_than
+  confidence: high
+  rationale: Orientation to four regions is a specific form of ritual organization
+    by sacred directions.
+  cautions: Do not assume the four regions are identical to generic cardinal directions;
+    preserve local directional terminology where available.
+  suggested_aliases:
+  - ritual orientation to four directions
+  - four-region ritual orientation
+  suggested_new_group:
+    id: ritual_orientation_sacred_directions
+    label: Ritual Orientation and Sacred Directions
+    description: Ritual action, staging, movement, prayer, or spatial order organized
+      by sacred directions, cardinal regions, solar orientation, or culturally specific
+      directional cosmology.
+    parent_group_ids:
+    - sacred_law
+    - axis_mundi
+    related_group_ids:
+    - sacred_time
+    - sacred_fire
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups cover sacred law, centers,
+      and solar/fire symbolism, but none directly captures directional ritual staging
+      as a spatial-cosmological practice.
+batch_notes:
+- This batch contains a coherent cluster of Native American Southwest/Plains directional
+  ritual labels; consider reviewing them together before adding a durable group.
+- Use placement only for taxonomy review; do not infer transmission or shared origin
+  from directional ritual similarities.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions; directional ritual cluster likely warrants human
+    taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1060
+  input_sha256: e89aa1a30aa97691b86c2f8a05fb48a6b6fb83cee27e5d9791f086ec99e3683b
+

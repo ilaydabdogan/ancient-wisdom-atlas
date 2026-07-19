@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3782
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.poor-peasant-without-protector-dispossessed
+  motif_id: poor_peasant_without_protector_dispossessed
+  label: Poor peasant without protector dispossessed
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on social vulnerability, dispossession, and failed
+    protection, aligning with sacred/social order and justice obligations.
+  cautions: Single occurrence; if the passage is merely a legal complaint or plot
+    setup without sacred or ethical framing, treat as contextual evidence.
+  suggested_aliases:
+  - vulnerable_poor_dispossessed_without_protector
+  - unprotected_peasant_dispossessed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poor-recognition-of-elite-weakness-and-political-reversal
+  motif_id: poor_recognition_of_elite_weakness_and_political_reversal
+  label: Poor recognition of elite weakness and political reversal
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate class reversal, political insight, satire, or
+    narrative commentary rather than a stable mythic motif.
+  cautions: Wording is awkward and ambiguous; review source evidence before mapping
+    to divine_judgment, pride_and_downfall, or royal_legitimacy.
+  suggested_aliases:
+  - low_status_figure_recognizes_elite_weakness
+  - political_reversal_through_elite_weakness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poor-solitary-victim-against-wealthy-taker
+  motif_id: poor_solitary_victim_against_wealthy_taker
+  label: poor solitary victim against wealthy taker
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The contrast between a poor victim and a wealthy taker suggests injustice
+    awaiting moral reckoning or reversal.
+  cautions: If no judgment, vindication, or moral consequence appears, sacred_law
+    or passage-level social detail may be preferable.
+  suggested_aliases:
+  - poor_victim_against_wealthy_oppressor
+  - wealthy_taker_oppresses_solitary_poor_victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poor-youths-gain-status-through-powerful-medicine
+  motif_id: poor_youths_gain_status_through_powerful_medicine
+  label: Poor youths gain status through powerful medicine
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines low status, youth initiation, medicine power, and
+    status reversal; function depends on source context.
+  cautions: Culturally sensitive term 'medicine' should be reviewed carefully; may
+    fit initiation, sacred_substance, divine_intervention, or sacred_knowledge depending
+    on evidence.
+  suggested_aliases:
+  - low_status_youths_gain_power_through_medicine
+  - youths_elevated_by_sacred_medicine_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.popular-expansion-of-saint-miracle-legends
+  motif_id: popular_expansion_of_saint_miracle_legends
+  label: Popular expansion of saint miracle legends
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes development or expansion of a legend tradition rather
+    than a narrative motif within the tradition.
+  cautions: Preserve as reception or transmission commentary, but do not use as motif
+    evidence for miracle-working itself.
+  suggested_aliases:
+  - popular_growth_of_saint_miracle_traditions
+  - expansion_of_saint_miracle_legends
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.popular-protector-becomes-tyrant
+  motif_id: popular_protector_becomes_tyrant
+  label: popular protector becomes tyrant
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: A protector's degeneration into tyranny fits overreach, corrupted power,
+    and potential downfall.
+  cautions: If the passage emphasizes legitimacy of rule rather than moral decline,
+    royal_legitimacy may be a better placement.
+  suggested_aliases:
+  - protector_turns_tyrant
+  - popular_champion_becomes_tyrant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.popular-rescue-from-execution
+  motif_id: popular_rescue_from_execution
+  label: Popular rescue from execution
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could mean rescue by the populace, a well-known rescue tale,
+    or providential deliverance from death.
+  cautions: Map only after checking whether the rescuer is divine, communal, trickster-like,
+    or politically motivated; possible groups include divine_intervention, covenant,
+    and divine_judgment.
+  suggested_aliases:
+  - rescue_from_execution
+  - communal_rescue_from_execution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.population-decline-followed-by-community-merger
+  motif_id: population_decline_followed_by_community_merger
+  label: population decline followed by community merger
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like demographic or ethnographic description rather than
+    symbolic or narrative motif.
+  cautions: If the source frames decline and merger as mythic origin of a people,
+    review for cosmic_origin or eponymous ancestor patterns.
+  suggested_aliases:
+  - community_merger_after_population_decline
+  - demographic_decline_and_group_merger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.portable-casket-containing-a-spouse
+  motif_id: portable_casket_containing_a_spouse
+  label: portable casket containing a spouse
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: A casket containing a spouse functions as a charged container holding
+    a person, body, beloved, or hidden life/death presence.
+  cautions: If the focus is marital devotion or lost beloved rather than the container,
+    sacred_love or death_and_transformation may be secondary.
+  suggested_aliases:
+  - casket_containing_spouse
+  - portable_container_holding_a_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.portable-landscape-carried-and-reinstalled
+  motif_id: portable_landscape_carried_and_reinstalled
+  label: Portable landscape carried and reinstalled
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Moving and reinstalling a landscape resembles etiological landscape formation
+    or supernatural relocation of land features.
+  cautions: Review cultural context carefully; if the portable landscape is a sacred
+    object or craft item rather than land formation, sacred_treasures or sacred_craft
+    may fit better.
+  suggested_aliases:
+  - landscape_carried_and_reinstalled
+  - supernatural_relocation_of_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence social or political abstractions;
+  confirm passage evidence before promoting any to durable motif children.
+- Avoid treating social-status reversal as divine judgment unless the source includes
+  moral reckoning, sacred law, or explicit consequence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft suggestions only; culturally specific and ambiguous labels require
+    human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3782
+  input_sha256: 8dcdf2bc91f9323bc2778e01e63a14b1d6e0b1633579884cd5e9b380c4afb01b
+

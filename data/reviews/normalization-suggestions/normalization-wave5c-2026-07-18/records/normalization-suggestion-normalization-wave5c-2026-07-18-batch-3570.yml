@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3570
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.immovable-deity-resisting-relocation
+  motif_id: immovable_deity_resisting_relocation
+  label: Immovable deity resisting relocation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: uncertain
+  confidence: low
+  rationale: A deity's refusal to be moved may signal divine presence or will manifested
+    through an immovable cult image or sacred place.
+  cautions: Could instead be a local cult-site etiology, sacred object episode, or
+    passage-specific historical anecdote; source context is needed.
+  suggested_aliases:
+  - deity_refuses_relocation
+  - immovable_cult_image
+  - divine_resistance_to_relocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immovable-or-heavy-wealth-deters-theft
+  motif_id: immovable_or_heavy_wealth_deters_theft
+  label: Immovable or heavy wealth deters theft
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: The label concerns a valuable object whose unusual physical property
+    protects it from theft, near the power-object field.
+  cautions: May be a comic or practical tale detail rather than a sacred treasure;
+    do not map unless the wealth/object has supernatural or culturally marked power.
+  suggested_aliases:
+  - heavy_treasure_deters_theft
+  - immovable_treasure
+  - unstealable_heavy_wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immovable-or-unresponsive-herd-under-command
+  motif_id: immovable_or_unresponsive_herd_under_command
+  label: Immovable or unresponsive herd under command
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A herd that will not move despite command may indicate supernatural constraint,
+    omen, or nonhuman agency affecting events.
+  cautions: Could be an animal-behavior episode, social-command failure, or local
+    narrative detail; needs evidence of sacred or supernatural function.
+  suggested_aliases:
+  - herd_refuses_command
+  - supernaturally_immovable_herd
+  - unresponsive_cattle_under_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immovable-standing-figure
+  motif_id: immovable_standing_figure
+  label: Immovable standing figure
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: An immovable figure may represent supernatural fixation, enchantment,
+    or a sign of nonordinary agency.
+  cautions: Too generic without source evidence; could be petrification, ritual stance,
+    statue/cult image, heroic steadfastness, or simple episode detail.
+  suggested_aliases:
+  - fixed_standing_figure
+  - supernaturally_immovable_person
+  - motionless_figure_as_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immunity-from-hostile-orenda-or-enchantment
+  motif_id: immunity_from_hostile_orenda_or_enchantment
+  label: immunity from hostile orenda or enchantment
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protection from hostile spiritual force fits the existing apotropaic
+    protection and spirit-danger cluster under sacred_law.
+  cautions: The term orenda is culturally specific and should be preserved in evidence
+    notes; if the passage emphasizes combat invulnerability, conditional_invulnerability_hidden_weakness
+    may be secondary.
+  suggested_aliases:
+  - immunity_to_hostile_enchantment
+  - protection_from_hostile_orenda
+  - apotropaic_immunity_to_spiritual_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immutable-fate-record
+  motif_id: immutable_fate_record
+  label: immutable fate record
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: high
+  rationale: An unchangeable record of fate matches existing written or irrevocable
+    destiny aliases under death_by_fate.
+  cautions: If the record governs cosmic order broadly rather than death or destiny,
+    sacred_knowledge or fate_figures_cosmic_weaving may be secondary.
+  suggested_aliases:
+  - irrevocable_fate_record
+  - unalterable_destiny_record
+  - written_immutable_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impairment-and-recovery-before-renewed-adjudication
+  motif_id: impairment_and_recovery_before_renewed_adjudication
+  label: Impairment and recovery before renewed adjudication
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads like a procedural plot sequence rather than a reusable
+    mythic motif.
+  cautions: If the impairment and recovery are ritually or karmically significant,
+    human review could remap to divine_judgment or death_and_transformation; otherwise
+    preserve only as episode evidence.
+  suggested_aliases:
+  - recovery_before_renewed_judgment
+  - impairment_recovery_and_adjudication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impartial-lot-casting-after-equalization
+  motif_id: impartial_lot_casting_after_equalization
+  label: Impartial lot-casting after equalization
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Lot-casting is an established divinatory or decision procedure, even
+    when used for impartial allocation.
+  cautions: If the passage is administrative rather than sacred or divinatory, this
+    may be a social-order detail better excluded from motif queries.
+  suggested_aliases:
+  - impartial_lot_casting
+  - lot_casting_for_fair_allocation
+  - equalized_lot_casting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impartial-officer-for-communal-allocation
+  motif_id: impartial_officer_for_communal_allocation
+  label: Impartial officer for communal allocation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to describe an administrative role in communal distribution
+    rather than a symbolic or narrative motif.
+  cautions: If the officer functions as a sacred judge, ritual allocator, or moral
+    exemplar, human review could map to sacred_law or divine_judgment.
+  suggested_aliases:
+  - impartial_allocator
+  - communal_allocation_officer
+  - fair_distribution_official
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impartial-official-selected-for-adjudicative-procedure
+  motif_id: impartial_official_selected_for_adjudicative_procedure
+  label: impartial official selected for adjudicative procedure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: low
+  rationale: Selection of an impartial adjudicator belongs broadly with law, social
+    order, and regulated moral procedure.
+  cautions: May be an administrative passage artifact rather than a motif; map only
+    if the procedure is ritually, ethically, or narratively significant.
+  suggested_aliases:
+  - impartial_adjudicator_selected
+  - selected_neutral_official
+  - impartial_judicial_official
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence procedural or administrative
+  descriptions; exclude or keep as evidence notes unless source context shows ritual
+  or sacred narrative function.
+- Immovability labels need human review because they may refer to deity/cult image,
+  enchantment, petrification, steadfastness, or ordinary episode detail.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source evidence needed for low-confidence immovability
+    and Buddhist procedural labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3570
+  input_sha256: 5e9f4cf6343f90f257772c04b00ac75b9ef1dbbd72c6355b77bf138ed7d59087
+

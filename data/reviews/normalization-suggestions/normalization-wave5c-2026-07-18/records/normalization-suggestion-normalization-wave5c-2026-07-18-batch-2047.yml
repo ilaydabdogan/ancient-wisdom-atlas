@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2047
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-caused-disease
+  motif_id: animal_caused_disease
+  label: Animal-caused disease
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Animal agency causing disease may reflect spirit or nonhuman sacred power,
+    which is currently parked nearest divine_intervention for ambivalent spirit injury/healing.
+  cautions: Single occurrence and culturally specific; may instead be ethnomedical
+    belief, animal taboo, sacred_law, or a local animal-spirit motif needing evidence
+    review.
+  suggested_aliases:
+  - animal_caused_illness
+  - disease_caused_by_animal_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-caused-drowning-of-a-hunter-in-a-kayak
+  motif_id: animal_caused_drowning_of_a_hunter_in_a_kayak
+  label: animal-caused drowning of a hunter in a kayak
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines animal agency, drowning, hunter role, and kayak setting
+    without enough evidence for a stable broader motif.
+  cautions: Likely episode-specific; could fit animal revenge, hunting taboo, divine_judgment,
+    sacred_waters, or death_by_fate depending on source context.
+  suggested_aliases:
+  - animal_caused_drowning
+  - hunter_drowned_by_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-caused-illness-through-invisible-power
+  motif_id: animal_caused_illness_through_invisible_power
+  label: animal-caused illness through invisible power
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Invisible nonhuman power causing illness resembles ambivalent spirit
+    injury/healing currently grouped under divine_intervention.
+  cautions: Culturally sensitive and source-dependent; could represent animal-spirit
+    agency, shamanic illness, taboo violation, or ethnographic description rather
+    than a query motif.
+  suggested_aliases:
+  - animal_spirit_causes_illness
+  - illness_from_invisible_animal_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-caused-lone-survivor-lament
+  motif_id: animal_caused_lone_survivor_lament
+  label: animal-caused lone survivor lament
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core recoverable function is lament by a lone survivor after loss,
+    which fits lament_and_mourning better than animal transformation.
+  cautions: Preserve animal causation as evidence detail; if the animal is a punishing
+    sacred agent, divine_judgment or divine_intervention may be secondary.
+  suggested_aliases:
+  - lone_survivor_lament_after_animal_attack
+  - survivor_lament_after_animal_caused_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-centered-fable-title
+  motif_id: animal_centered_fable_title
+  label: Animal-centered fable title
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a title or heading pattern rather than a narrative
+    motif.
+  cautions: If the underlying tale contains animal action, index the specific animal
+    narrative motif separately rather than this title artifact.
+  suggested_aliases:
+  - animal_centered_fable_title_pattern
+  - animal_fable_heading
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-centered-tales
+  motif_id: animal_centered_tales
+  label: animal-centered tales
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This is a genre or corpus descriptor, not a specific motif function.
+  cautions: Do not lose underlying animal motifs; remap concrete episodes to trickster,
+    shapeshifter, animal_helpers, or other groups as evidence permits.
+  suggested_aliases:
+  - animal_tales
+  - animal_centered_story_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-challenges-human-strength-and-is-defeated-by-human-weapons
+  motif_id: animal_challenges_human_strength_and_is_defeated_by_human_weapons
+  label: animal challenges human strength and is defeated by human weapons
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a contest of strength resolved through weapons,
+    fitting combat rather than transformation.
+  cautions: If the passage emphasizes culture-hero technology, human dominance over
+    animals, or fable moral more than combat, review for culture_hero or trickster
+    instead.
+  suggested_aliases:
+  - animal_challenges_human_strength
+  - human_weapons_defeat_animal_challenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-champion-defeats-territorial-rivals-at-bridges
+  motif_id: animal_champion_defeats_territorial_rivals_at_bridges
+  label: animal champion defeats territorial rivals at bridges
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A champion defeating rivals at boundary sites is structurally a combat/contest
+    motif; bridge detail supplies liminal setting.
+  cautions: Animal protagonist may indicate fable or trickster context; bridge setting
+    alone should not force threshold_guardian unless passage requires guarded passage.
+  suggested_aliases:
+  - animal_champion_defeats_rivals
+  - animal_combat_at_bridges
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-characters-sing-within-folk-tales
+  motif_id: animal_characters_sing_within_folk_tales
+  label: Animal characters sing within folk-tales
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: uncertain
+  confidence: low
+  rationale: Singing may belong to sound-power motifs only if it has supernatural,
+    compelling, revelatory, or plot-driving force.
+  cautions: Could simply be a folktale performance feature or animal-character convention;
+    exclude as meta/textual if singing is not functional in the narrative.
+  suggested_aliases:
+  - animal_characters_sing_in_folktales
+  - singing_animal_characters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-characters-sing-within-folktales
+  motif_id: animal_characters_sing_within_folktales
+  label: Animal characters sing within folktales
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: uncertain
+  confidence: low
+  rationale: This is a wording duplicate of the folk-tales variant; map to enchanting_music
+    only if animal song has narrative or supernatural effect.
+  cautions: May be a passage or genre artifact rather than motif; consider aliasing
+    both spellings after human review.
+  suggested_aliases:
+  - animal_characters_sing_within_folk_tales
+  - singing_animal_characters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal-agent items; source evidence
+  is needed before creating any animal-spirit illness or animal-revenge group.
+- Animal-centered title/tale labels should generally be excluded as genre or textual
+  artifacts while preserving concrete underlying animal episodes for separate indexing.
+- The two animal-characters-sing labels appear to be spelling variants and should
+  be reviewed together.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific animal-spirit
+    and illness labels require human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2047
+  input_sha256: 642f6367311194e7c224d70aef5333cd16209ab1520e22ccccec406d0303e971
+

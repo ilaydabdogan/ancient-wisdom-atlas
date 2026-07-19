@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3280
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.concealed-trap-activated-by-bait-movement-or-pressure
+  motif_id: concealed_trap_activated_by_bait_movement_or_pressure
+  label: concealed trap activated by bait, movement, or pressure
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a trap mechanism, but its narrative function is unclear
+    without source context.
+  cautions: May be a hunting detail, trickster stratagem, hostile ambush, or passage-specific
+    artifact; do not map from mechanism alone.
+  suggested_aliases:
+  - baited_pressure_trap
+  - concealed_mechanical_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-trap-prepared-by-abused-wives
+  motif_id: concealed_trap_prepared_by_abused_wives
+  label: concealed trap prepared by abused wives
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines retaliation, domestic abuse, and concealed trapping;
+    the dominant motif depends on the passage.
+  cautions: Culturally and socially sensitive; may involve vengeance, violated trust,
+    gendered violence, or local episode detail. Human review should avoid flattening
+    the abuse context.
+  suggested_aliases:
+  - concealed_trap_as_domestic_retaliation
+  - abused_wives_prepare_hidden_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - divine_judgment
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-wealth-caches-of-chiefs
+  motif_id: concealed_wealth_caches_of_chiefs
+  label: Concealed wealth caches of chiefs
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Concealed chiefly wealth could concern sacred authority, treasures, social
+    rank, or a local ethnographic detail.
+  cautions: Single occurrence and culturally specific; verify whether the cache has
+    supernatural, ritual, or narrative function before indexing.
+  suggested_aliases:
+  - hidden_chiefly_wealth
+  - chiefs_concealed_treasure_cache
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-wealth-protects-a-vulnerable-people
+  motif_id: concealed_wealth_protects_a_vulnerable_people
+  label: Concealed wealth protects a vulnerable people
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The wealth functions as a protective resource or power object for a vulnerable
+    group.
+  cautions: If protection is purely economic or historical rather than mythic or sacred,
+    treat as contextual evidence rather than a motif.
+  suggested_aliases:
+  - hidden_protective_wealth
+  - concealed_treasure_protects_the_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-witch-spouse
+  motif_id: concealed_witch_spouse
+  label: concealed witch spouse
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate hidden identity, dangerous spouse, witchcraft,
+    or marital deception, none of which is clear from the label alone.
+  cautions: Potentially culturally sensitive witchcraft terminology; source evidence
+    needed before mapping to shapeshifter, betrayal, or sacred love.
+  suggested_aliases:
+  - hidden_witch_spouse
+  - spouse_conceals_witch_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - betrayal_violated_trust
+    - shapeshifter
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealing-illusion-before-attack
+  motif_id: concealing_illusion_before_attack
+  label: Concealing illusion before attack
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceptive illusion used to conceal an attack fits trickster/deceptive
+    stratagem logic.
+  cautions: If the emphasis is battle tactic rather than deception or supernatural
+    illusion, sacred_combat may be a better secondary mapping.
+  suggested_aliases:
+  - illusion_conceals_attack
+  - deceptive_illusion_before_assault
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-among-ice-hummocks-before-arrow-ambush
+  motif_id: concealment_among_ice_hummocks_before_arrow_ambush
+  label: concealment among ice hummocks before arrow ambush
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be an episode-specific tactical ambush detail rather
+    than a reusable symbolic motif.
+  cautions: If similar ambush-by-concealment labels recur, review under sacred_combat
+    or trickster; preserve local environmental detail as evidence note.
+  suggested_aliases:
+  - ice_hummock_arrow_ambush
+  - concealed_arrow_ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-as-the-source-of-power
+  motif_id: concealment_as_the_source_of_power
+  label: Concealment as the source of power
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Power arising from hiddenness or secrecy aligns with concealed, esoteric,
+    or protected sacred knowledge.
+  cautions: May instead concern hidden life-force, disguise, taboo secrecy, or political
+    power depending on the passage.
+  suggested_aliases:
+  - hiddenness_as_power
+  - secret_concealment_confers_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - external_soul
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-by-druid-mist
+  motif_id: concealment_by_druid_mist
+  label: Concealment by Druid mist
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural mist used for concealment is a direct magical intervention
+    in events.
+  cautions: Because the agent is specifically druidic, it may also belong with sacred_knowledge
+    if ritual expertise is central; avoid treating all mist as theophany.
+  suggested_aliases:
+  - magical_mist_concealment
+  - druidic_mist_concealment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-escape-under-a-rescuer-s-cloak
+  motif_id: concealment_escape_under_a_rescuer_s_cloak
+  label: concealment escape under a rescuer's cloak
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The cloak enables rescue through concealment, fitting protective intervention
+    or guidance.
+  cautions: If the cloak itself is a named magical object, sacred_treasures may be
+    a better primary mapping; if purely tactical, preserve as episode detail.
+  suggested_aliases:
+  - rescuer_cloak_concealment_escape
+  - escape_hidden_under_cloak
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - trickster
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'Several items in this batch center on concealment, hiddenness, or ambush, but the
+  functions differ: deception, protection, sacred secrecy, tactical warfare, and hidden
+  identity should not be merged automatically.'
+- Single-occurrence, culturally specific labels should be checked against passage
+  evidence before promotion to durable aliases or children.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; many labels require source context to distinguish
+    motif from episode detail.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3280
+  input_sha256: 137e227afb43e0b7448c0ca6d9d95e1fa3f22af737cca530c438353b7dbdf575
+

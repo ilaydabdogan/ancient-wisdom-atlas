@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3454
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fever-treatment-with-leaves-drink-and-body-painting
+  motif_id: fever_treatment_with_leaves_drink_and_body_painting
+  label: Fever treatment with leaves, drink, and body painting
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label appears to describe a healing or protective ritual using plants,
+    drink, and body marking, adjacent to ritual protection and spirit-contagion material
+    under sacred_law.
+  cautions: Single occurrence and medically/ethnographically specific; could be practical
+    treatment, ritual healing, apotropaic protection, or passage detail. Avoid collapsing
+    local healing practice without source context.
+  suggested_aliases:
+  - ritual_fever_treatment
+  - healing_with_leaves_drink_and_body_painting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fibre-transformed-into-thread-through-repeated-twisting
+  motif_id: fibre_transformed_into_thread_through_repeated_twisting
+  label: Fibre transformed into thread through repeated twisting
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a practical manufacturing detail rather than a symbolic
+    or narrative motif.
+  cautions: If the passage frames spinning/twisting as sacred craft, fate-weaving,
+    creation, or transformation, it should be reviewed instead under sacred_craft
+    or fate_figures_cosmic_weaving.
+  suggested_aliases:
+  - thread_making_by_twisting_fibre
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.field-owner-watches-for-mysterious-crop-visitor
+  motif_id: field_owner_watches_for_mysterious_crop_visitor
+  label: field owner watches for mysterious crop visitor
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could introduce a crop-spirit, thief, animal helper, supernatural
+    spouse, or otherworld visitor, but the function is not clear from wording alone.
+  cautions: Do not map merely because crops are present. Source evidence is needed
+    to determine whether this is sacred_time, trickster, otherworld, divine_intervention,
+    or a passage-specific setup.
+  suggested_aliases:
+  - mysterious_crop_visitor
+  - watching_for_crop_field_visitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiend-smiting-recitation-along-a-polluted-route
+  motif_id: fiend_smiting_recitation_along_a_polluted_route
+  label: fiend-smiting recitation along a polluted route
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A recitation that acts against fiends is performative sacred speech used
+    ritually to counter pollution or hostile spirits.
+  cautions: Also overlaps sacred_law if the emphasis is purity regulation, and sacrifice/ritual_expulsion
+    if the passage centers on expelling pollution-causing beings.
+  suggested_aliases:
+  - apotropaic_recitation_against_fiends
+  - fiend_smiting_sacred_recitation
+  - purifying_recitation_along_polluted_route
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-bodily-illumination-used-as-guidance
+  motif_id: fiery_bodily_illumination_used_as_guidance
+  label: fiery bodily illumination used as guidance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Fiery light emanating from a body and guiding others fits sacred fire/divine
+    light as presence and guidance.
+  cautions: If the passage emphasizes a manifestation of a holy being, theophany or
+    divine_intervention may be secondary; if it is only visual description, keep as
+    evidence detail.
+  suggested_aliases:
+  - bodily_light_as_guidance
+  - fiery_radiance_guides_travellers
+  - sacred_bodily_illumination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-consumption-of-enemies-and-disembodied-entities
+  motif_id: fiery_consumption_of_enemies_and_disembodied_entities
+  label: fiery consumption of enemies and disembodied entities
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fire consuming enemies and disembodied beings suggests punitive or purifying
+    sacred force acting against hostile entities.
+  cautions: If the fire is primarily cosmic destruction, consider world_destroying_fire/flood_and_renewal;
+    if it is battle imagery, divine_warrior may be secondary.
+  suggested_aliases:
+  - punitive_fire_consumes_enemies
+  - sacred_fire_consumes_hostile_entities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-creature-swallowed-by-a-fish-causes-torment
+  motif_id: fiery_creature_swallowed_by_a_fish_causes_torment
+  label: Fiery creature swallowed by a fish causes torment
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a highly specific episode combining fiery being, swallowing
+    by fish, and torment without a clear normalizing function.
+  cautions: Could involve trickster ingestion reversal, sacred_fire, animal/monster
+    episode, or etiological explanation. Source context is needed before mapping.
+  suggested_aliases:
+  - fiery_being_inside_fish_causes_torment
+  - swallowed_fiery_creature_torments_fish
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-monstrous-mount
+  motif_id: fiery_monstrous_mount
+  label: fiery monstrous mount
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The existing shapeshifter group includes magical animal mounts, and this
+    label appears to be a supernatural animal/mount variant.
+  cautions: If the mount is mainly a monster opponent, battle aid, otherworld transport,
+    or fiery omen, other groups may fit better. Preserve fiery and monstrous details
+    as evidence.
+  suggested_aliases:
+  - fiery_supernatural_mount
+  - monstrous_fire_mount
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-monstrous-opponent-in-a-forest
+  motif_id: fiery_monstrous_opponent_in_a_forest
+  label: fiery monstrous opponent in a forest
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fiery monster faced as an opponent fits the sacred combat field, especially
+    if a hero or god confronts it.
+  cautions: If the forest setting or monster identity is the key motif, a more specific
+    monster/threshold group may be needed; do not infer cosmic combat without passage
+    evidence.
+  suggested_aliases:
+  - fiery_forest_monster_opponent
+  - fire_monster_as_combat_opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fiery-nocturnal-flying-witch-with-raven-cry
+  motif_id: fiery_nocturnal_flying_witch_with_raven_cry
+  label: fiery nocturnal flying witch with raven cry
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines several culturally specific traits of a supernatural
+    harmful figure and does not cleanly map to an existing broad motif from wording
+    alone.
+  cautions: Culturally sensitive; review source terminology and avoid flattening into
+    generic witch/monster categories. Could involve shapeshifter, apotropaic spirit
+    danger, or threshold/night flight depending on evidence.
+  suggested_aliases:
+  - nocturnal_flying_witch_with_raven_cry
+  - fiery_night_flying_witch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence, highly contextual labels; recommendations should
+  be treated as provisional evidence placements, not taxonomy additions.
+- Fire imagery in this batch spans guidance, punishment, monster traits, and combat;
+  avoid merging all fiery labels under one motif without narrative function.
+- Healing and spirit-harm labels may require culturally careful human review before
+  normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; source passages should be checked for
+    ritual, narrative, or commentary function before final mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3454
+  input_sha256: 7472af4ab031cddfcae402669492441910ae7fe6c030e7e05e761bd36f4025d0
+

@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2896
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cannibal-killer-within-the-household
+  motif_id: cannibal_killer_within_the_household
+  label: Cannibal killer within the household
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Cannibal threat inside a household may involve violated kinship, monster
+    threat, taboo, or domestic boundary danger, none clearly determined from the label
+    alone.
+  cautions: Single occurrence and culturally sensitive cannibalism label; verify source
+    context before indexing as motif rather than outsider characterization or episode
+    detail.
+  suggested_aliases:
+  - household cannibal threat
+  - domestic cannibal killer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-marked-by-repulsive-food-habits
+  motif_id: cannibal_marked_by_repulsive_food_habits
+  label: cannibal marked by repulsive food habits
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Repulsive food habits mark a threatening figure, but the function could
+    be taboo, moral othering, monster recognition, or characterization.
+  cautions: Cannibalism and repulsive-food labels can encode stigmatizing ethnographic
+    or narrative framing; single occurrence needs source review.
+  suggested_aliases:
+  - cannibal recognized by food habits
+  - monstrous eater marked by taboo food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-received-as-household-stranger
+  motif_id: cannibal_received_as_household_stranger
+  label: Cannibal received as household stranger
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on receiving a dangerous stranger into a household,
+    aligning with hospitality and stranger-guest testing.
+  cautions: If the passage emphasizes cannibal monstrosity more than host-guest obligation,
+    human review may prefer a future cannibal-ogre or household-threat group.
+  suggested_aliases:
+  - dangerous stranger received in household
+  - cannibal as household guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-threat-at-the-threshold-of-encounter
+  motif_id: cannibal_threat_at_the_threshold_of_encounter
+  label: cannibal threat at the threshold of encounter
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explicitly frames the cannibal threat at a threshold encounter,
+    matching perilous boundary confrontation.
+  cautions: Do not assume a true guardian role unless passage evidence shows the figure
+    blocks, tests, or controls passage; otherwise it may be a generic monster encounter.
+  suggested_aliases:
+  - threshold cannibal threat
+  - perilous cannibal encounter at boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-witch-with-bone-fenced-house
+  motif_id: cannibal_witch_with_bone_fenced_house
+  label: cannibal witch with bone-fenced house
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cannibal witch and bone-fenced house form a perilous boundary dwelling
+    that must be approached, escaped, appeased, or outwitted.
+  cautions: The bone-fenced house is highly specific; if the passage emphasizes enchanted
+    otherworld dwelling rather than boundary test, otherworld may be a secondary mapping.
+  suggested_aliases:
+  - bone-fenced witch house
+  - cannibal witch at perilous dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibalism-accusation-denied-or-displaced-to-neighboring-groups
+  motif_id: cannibalism_accusation_denied_or_displaced_to_neighboring_groups
+  label: Cannibalism accusation denied or displaced to neighboring groups
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes accusation, denial, and displacement among groups,
+    likely an ethnographic or discourse observation rather than a narrative motif.
+  cautions: Culturally sensitive; preserve only as source/provenance or discourse
+    note unless a narrative episode clearly dramatizes the pattern.
+  suggested_aliases:
+  - cannibalism accusation displaced to neighbors
+  - denied cannibalism accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canoe-associated-headdress-wearing-group
+  motif_id: canoe_associated_headdress_wearing_group
+  label: canoe-associated headdress-wearing group
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to identify a culturally specific group marker or costume
+    detail, not a portable narrative or symbolic motif.
+  cautions: Could be meaningful in ritual or clan context, but source evidence is
+    needed; avoid abstracting Indigenous regalia into pattern queries from one label.
+  suggested_aliases:
+  - canoe-associated headdress group
+  - headdress-wearing canoe group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canon-boundary-marked-by-foreign-extraction
+  motif_id: canon_boundary_marked_by_foreign_extraction
+  label: canon boundary marked by foreign extraction
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase concerns canon formation or editorial boundary marking, not
+    an in-story motif.
+  cautions: Preserve as textual-history metadata if needed; do not use as evidence
+    for cultural boundary or migration motifs.
+  suggested_aliases:
+  - canon boundary by foreign extraction
+  - foreign extraction as canon boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.capital-as-religious-and-administrative-center
+  motif_id: capital_as_religious_and_administrative_center
+  label: capital as religious and administrative center
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A capital functioning as both religious and administrative center fits
+    place-as-organizing center of sacred and social order.
+  cautions: If the passage is merely historical geography rather than symbolic centrality,
+    exclude or treat as contextual detail; royal_legitimacy may be secondary if kingship
+    is central.
+  suggested_aliases:
+  - capital as sacred administrative center
+  - religious and administrative capital
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-spared-and-adopted-into-opposing-household
+  motif_id: captive_spared_and_adopted_into_opposing_household
+  label: Captive spared and adopted into opposing household
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The pattern concerns mercy, adoption, captivity, and household incorporation,
+    crossing covenant, social order, and kinship categories without a clear existing
+    fit.
+  cautions: Single occurrence and culturally specific adoption/captivity practice;
+    verify whether it is narrative motif, social custom, or historical detail before
+    grouping.
+  suggested_aliases:
+  - captive adopted into enemy household
+  - spared captive incorporated into opposing kin group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Cannibal-related labels are culturally sensitive and often require source-context
+  review to distinguish narrative monster motifs from ethnographic othering or discourse
+  artifacts.
+- Several items in this batch are single-occurrence, highly contextual labels; suggested
+  placements are provisional and should not imply transmission or shared origin.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch contains culturally sensitive cannibalism and Indigenous cultural-marker
+    labels requiring human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2896
+  input_sha256: ede90492c97c1cafb7e33353658490c9bd0823220bce00bd522625f71f5c8409
+

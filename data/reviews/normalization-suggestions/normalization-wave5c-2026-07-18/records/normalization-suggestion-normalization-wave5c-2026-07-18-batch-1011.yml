@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1011
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-abstinence-and-preparation-before-hunting-magic
+  motif_id: ritual_abstinence_and_preparation_before_hunting_magic
+  label: Ritual abstinence and preparation before hunting magic
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Abstinence and preparatory restriction before hunting magic functions
+    as ritual regulation and taboo discipline.
+  cautions: Single occurrence; could instead belong with sacred_exchange if preparation
+    is framed as reciprocity with animal or spirit powers.
+  suggested_aliases:
+  - hunting_magic_preparation
+  - ritual_abstinence_before_hunting
+  - hunting_taboo_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-abstinence-and-restricted-diet-before-hunting
+  motif_id: ritual_abstinence_and_restricted_diet_before_hunting
+  label: Ritual abstinence and restricted diet before hunting
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Dietary restriction and abstinence before a charged activity fit ritual
+    prohibition and sacred law patterns.
+  cautions: Preserve hunting-specific evidence; do not generalize to sacrifice unless
+    an offering or surrender is explicit.
+  suggested_aliases:
+  - restricted_diet_before_hunting
+  - hunting_abstinence_taboo
+  - pre_hunt_dietary_restriction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-abstinence-during-mourning
+  motif_id: ritual_abstinence_during_mourning
+  label: ritual abstinence during mourning
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The abstinence is specifically embedded in mourning practice and regulates
+    grief for the dead.
+  cautions: Could also be indexed under sacred_law if the passage emphasizes normative
+    filial or ritual codes over grief expression.
+  suggested_aliases:
+  - mourning_abstinence
+  - abstinence_as_mourning_rite
+  - ritual_restriction_during_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-abstinence-reversed-by-feast-drinking
+  motif_id: ritual_abstinence_reversed_by_feast_drinking
+  label: Ritual abstinence reversed by feast drinking
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a ritual reversal, mystical paradox, or passage-specific
+    contrast between abstinence and feast drinking.
+  cautions: Sufi context may make wine or feast imagery symbolic; review passage evidence
+    before mapping to sacred_substance, mystical_quest, or sacred_law.
+  suggested_aliases:
+  - abstinence_reversed_by_feasting
+  - ritual_reversal_through_drinking
+  - feast_drinking_after_abstinence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-abstinence-tied-to-mango-and-payment
+  motif_id: ritual_abstinence_tied_to_mango_and_payment
+  label: ritual abstinence tied to mango and payment
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines abstinence, a specific food item, and payment without
+    enough context to identify the core motif.
+  cautions: May be a local ritual detail or ethnographic passage artifact; consider
+    sacred_law only if taboo is central, or sacred_exchange if payment/reciprocity
+    is central.
+  suggested_aliases:
+  - abstinence_with_payment
+  - mango_related_ritual_abstinence
+  - ritual_payment_and_abstinence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-accommodation-for-sickness-or-incapacity
+  motif_id: ritual_accommodation_for_sickness_or_incapacity
+  label: ritual accommodation for sickness or incapacity
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rule allowing ritual adjustment for illness or incapacity fits sacred
+    law as regulated obligation with exception.
+  cautions: If the passage is purely monastic administration or commentary, it may
+    be less useful for pattern queries.
+  suggested_aliases:
+  - ritual_exception_for_sickness
+  - accommodation_for_ritual_incapacity
+  - necessity_exception_in_ritual_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-achievement-counted-and-displayed-through-tent-imagery
+  motif_id: ritual_achievement_counted_and_displayed_through_tent_imagery
+  label: Ritual achievement counted and displayed through tent imagery
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The motif may concern ritual status display, spatial symbolism, or local
+    ceremonial record-keeping.
+  cautions: Culturally specific and single occurrence; avoid mapping to sacred_treasures
+    or sacred_law without evidence for object power or normative rule.
+  suggested_aliases:
+  - ritual_status_display
+  - ceremonial_achievement_display
+  - tent_imagery_as_ritual_record
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-acquisition-and-ceremonial-use-of-eagle-feathers
+  motif_id: ritual_acquisition_and_ceremonial_use_of_eagle_feathers
+  label: ritual acquisition and ceremonial use of eagle feathers
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ceremonially acquired eagle feathers function as ritually charged objects
+    used in sacred practice.
+  cautions: Culturally sensitive item; preserve local specificity and review whether
+    the focus is object power, ritual law, or bird symbolism.
+  suggested_aliases:
+  - ceremonial_eagle_feathers
+  - ritual_use_of_eagle_feathers
+  - sacred_feather_acquisition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-action-at-a-distance-transforms-a-landscape-feature
+  motif_id: ritual_action_at_a_distance_transforms_a_landscape_feature
+  label: Ritual action at a distance transforms a landscape feature
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ritual act transforming a landscape feature fits etiological landscape
+    formation within cosmic origin patterns.
+  cautions: If the passage stresses ritual efficacy rather than origin of a place,
+    sacred_knowledge or divine_intervention may be better secondary mappings.
+  suggested_aliases:
+  - ritual_landscape_transformation
+  - distant_ritual_action_shapes_landscape
+  - etiological_landscape_transformation_by_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-action-at-marked-rocks
+  motif_id: ritual_action_at_marked_rocks
+  label: Ritual action at marked rocks
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: Marked rocks could function as sacred center, landscape shrine, ritual
+    site, or passage-specific ethnographic detail.
+  cautions: Review source evidence before mapping to axis_mundi, sacred_treasures,
+    sacred_law, or cosmic_origin; rock markings alone are not a motif function.
+  suggested_aliases:
+  - ritual_at_marked_stones
+  - marked_rock_ritual_site
+  - ceremonial_action_at_rock_markings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence ritual details; preserve local evidence and
+  avoid promoting object- or food-specific wording without recurrence.
+- Ritual abstinence labels mostly fit sacred_law when framed as taboo or regulated
+  preparation, but may shift to sacred_exchange, sacrifice, or sacred_substance depending
+  on passage function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual labels require human
+    source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1011
+  input_sha256: b9b02dc0c1835faa5596b6755917a945fba7340b97fcbf386aa3ec7e2be9d2cb
+

@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3572
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.impious-extravagant-figure
+  motif_id: impious_extravagant_figure
+  label: Impious extravagant figure
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: role_variant
+  confidence: medium
+  rationale: An impious extravagant figure likely exemplifies overreach, excess, and
+    moral failure leading toward humbling or judgment.
+  cautions: Single occurrence; if no downfall or moral consequence is present, this
+    may be only a character description or ethical commentary.
+  suggested_aliases:
+  - impious_extravagance
+  - extravagant_impiety
+  - impious_luxury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imported-deity-retaining-source-tradition-attributes
+  motif_id: imported_deity_retaining_source_tradition_attributes
+  label: Imported deity retaining source-tradition attributes
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes syncretic classification or reception history rather
+    than a narrative or symbolic motif.
+  cautions: Preserve as provenance/reception evidence if useful, but do not use as
+    motif evidence or transmission proof in pattern queries.
+  suggested_aliases:
+  - imported_deity_retains_original_attributes
+  - syncretic_deity_retains_source_attributes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imported-goods-displacing-local-craft-production
+  motif_id: imported_goods_displacing_local_craft_production
+  label: imported goods displacing local craft production
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads as historical, economic, or ethnographic commentary rather
+    than a mythic motif.
+  cautions: Do not infer cultural transmission or borrowing from this normalization
+    task; retain only as contextual evidence if needed.
+  suggested_aliases:
+  - imported_goods_displace_local_craft
+  - trade_goods_displacing_local_production
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imported-tale-made-indigenous-through-retelling
+  motif_id: imported_tale_made_indigenous_through_retelling
+  label: imported tale made indigenous through retelling
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes transmission, localization, or scholarly interpretation
+    of a tale rather than an internal motif.
+  cautions: Keep transmission claims outside normalization; preserve only as reception
+    or provenance note if source evidence supports it.
+  suggested_aliases:
+  - localized_imported_tale
+  - imported_story_indigenized_by_retelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-burden-carried-by-a-superhuman-helper
+  motif_id: impossible_burden_carried_by_a_superhuman_helper
+  label: Impossible burden carried by a superhuman helper
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A superhuman helper completing an impossible burden functions as supernatural
+    aid in a human ordeal.
+  cautions: Could also fit hero_journey or initiation if the burden is a quest test;
+    helper identity and narrative function need review.
+  suggested_aliases:
+  - superhuman_helper_carries_impossible_burden
+  - impossible_burden_solved_by_supernatural_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-consumption-tasks-solved-by-matching-helpers
+  motif_id: impossible_consumption_tasks_solved_by_matching_helpers
+  label: Impossible consumption tasks solved by matching helpers
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Specialized helpers solving impossible tasks are a supernatural-aid pattern
+    within an ordeal or quest.
+  cautions: If helpers are comic companions rather than sacred powers, hero_journey
+    or trickster may be better; the consumption detail is probably granular evidence.
+  suggested_aliases:
+  - impossible_eating_tasks_solved_by_helpers
+  - matching_helpers_solve_impossible_consumption_tasks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-or-difficult-task_assigned-to-avoid-public-exposure
+  motif_id: impossible_or_difficult_task_assigned_to_avoid_public_exposure
+  label: impossible or difficult task assigned to avoid public exposure
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a plot device involving concealment and task assignment,
+    but its mythic function is unclear.
+  cautions: Could belong to hero_journey, trickster, betrayal/violated trust, or be
+    an over-specific passage detail depending on who assigns the task and why.
+  suggested_aliases:
+  - impossible_task_to_prevent_exposure
+  - difficult_task_assigned_to_conceal_truth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-or-disproportionate-burden
+  motif_id: impossible_or_disproportionate_burden
+  label: impossible or disproportionate burden
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: An impossible or disproportionate burden can function as an ordeal testing
+    capacity, status, or transformation.
+  cautions: If merely physical hardship without threshold or transformation, it may
+    be an over-specific narrative obstacle; consider hero_journey if embedded in a
+    quest sequence.
+  suggested_aliases:
+  - impossible_burden
+  - disproportionate_burden
+  - overwhelming_burden_as_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-or-magical-hiding-places
+  motif_id: impossible_or_magical_hiding_places
+  label: Impossible or magical hiding places
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Magical hiding places usually support evasion, deception, escape, or
+    boundary-crossing, aligning with trickster functions.
+  cautions: Could instead fit shapeshifter, otherworld, or sacred_vessel if the hiding
+    place is a transformed body, enchanted realm, or protective container.
+  suggested_aliases:
+  - magical_hiding_places
+  - impossible_hiding_places
+  - supernatural_concealment_places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-shoes-demanded-under-threat-of-execution
+  motif_id: impossible_shoes_demanded_under_threat_of_execution
+  label: impossible shoes demanded under threat of execution
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The impossible object demand under death threat is best treated as a
+    difficult-task ordeal rather than a separate motif.
+  cautions: Highly object-specific; preserve the shoes and execution threat as evidence
+    detail. If solved by magical craft or helper, sacred_craft or divine_intervention
+    may be secondary.
+  suggested_aliases:
+  - impossible_object_demand_under_death_threat
+  - impossible_shoes_task
+  - death_threat_impossible_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are transmission, reception, economic, or scholarly-commentary
+  artifacts and should not be used as motif-pattern evidence.
+- Impossible-task labels are provisionally mapped by narrative function; source context
+  should decide between initiation, hero_journey, divine_intervention, trickster,
+  and sacred_craft.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3572
+  input_sha256: be1dc0c395966a9c975282e6cf26f042052c654dd962b7ef92b6be4e6e9e6010
+

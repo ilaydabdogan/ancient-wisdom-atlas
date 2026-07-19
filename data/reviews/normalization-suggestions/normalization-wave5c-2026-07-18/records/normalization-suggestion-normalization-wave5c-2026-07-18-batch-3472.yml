@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3472
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.foreign-technology-interpreted-as-supernatural-agency
+  motif_id: foreign_technology_interpreted_as_supernatural_agency
+  label: foreign technology interpreted as supernatural agency
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe interpretation of unfamiliar objects as sacred
+    power, but could also be colonial-contact or ethnographic commentary rather than
+    a motif.
+  cautions: Single occurrence and culturally sensitive contact framing; avoid treating
+    technology perception as evidence of transmission or as a stable mythic motif
+    without source review.
+  suggested_aliases:
+  - unfamiliar_technology_read_as_supernatural_power
+  - foreign_object_interpreted_as_spirit_agency
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_treasures
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-tribute-after-military-dominance
+  motif_id: foreign_tribute_after_military_dominance
+  label: foreign tribute after military dominance
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Tribute following conquest commonly functions as confirmation of rule,
+    dominance, and political order.
+  cautions: If the passage is merely annalistic or historical inventory, it may be
+    too contextual for motif queries; sacred_combat may be secondary if battle narrative
+    is central.
+  suggested_aliases:
+  - tribute_after_conquest
+  - subject_peoples_pay_tribute_after_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-visitor-boasts-of-a-richer-homeland
+  motif_id: foreign_visitor_boasts_of_a_richer_homeland
+  label: foreign visitor boasts of a richer homeland
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could signal boastful pride, stranger-guest testing, or simple
+    travel dialogue, depending on narrative outcome.
+  cautions: Single occurrence; map to pride_and_downfall only if the boast leads to
+    humbling or judgment, and to hospitality_test only if guest-host obligations are
+    central.
+  suggested_aliases:
+  - visitor_boasts_of_richer_homeland
+  - foreign_guest_boasts_of_wealthier_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - pride_and_downfall
+    - hospitality_test_stranger_guest
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-writing-perceived-as-magic-or-devil-like
+  motif_id: foreign_writing_perceived_as_magic_or_devil_like
+  label: foreign writing perceived as magic or devil-like
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Writing understood as occult or demonic power may relate to sacred knowledge
+    or performative signs, but the foreign-contact framing needs evidence review.
+  cautions: Could be ethnographic/contact commentary rather than a narrative motif;
+    culturally sensitive wording such as devil-like should be checked against source
+    language.
+  suggested_aliases:
+  - foreign_script_perceived_as_magic
+  - unfamiliar_writing_read_as_occult_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - curse_blessing_speech
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-writing-treated-as-a-charm-on-clothing
+  motif_id: foreign_writing_treated_as_a_charm_on_clothing
+  label: foreign writing treated as a charm on clothing
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Writing worn as a charm on clothing functions as apotropaic or protective
+    ritual practice, already folded under sacred_law.
+  cautions: If the emphasis is on written sacred power rather than protective practice,
+    sacred_knowledge or curse_blessing_speech may be useful secondary mappings.
+  suggested_aliases:
+  - written_charm_worn_on_clothing
+  - foreign_script_as_protective_garment_charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-writing-used-as-charm-material
+  motif_id: foreign_writing_used_as_charm_material
+  label: Foreign writing used as charm material
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Use of writing as charm material fits protective or ritualized apotropaic
+    practice under sacred_law.
+  cautions: Review whether the charm is protective, healing, coercive, or merely an
+    ethnographic observation; foreignness should be preserved as evidence detail,
+    not as the main motif if not functional.
+  suggested_aliases:
+  - foreign_script_used_as_charm
+  - written_text_as_ritual_charm_material
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreigner-perceived-as-wizard
+  motif_id: foreigner_perceived_as_wizard
+  label: foreigner perceived as wizard
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may involve attribution of supernatural agency to an outsider,
+    but could be contact-era perception or commentary rather than a recurring narrative
+    pattern.
+  cautions: Culturally sensitive and single occurrence; avoid mapping to trickster
+    or sacred_knowledge without evidence that the perceived wizard performs a narrative
+    function.
+  suggested_aliases:
+  - outsider_perceived_as_wizard
+  - foreigner_attributed_magical_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_intervention
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreknown-or-mirrored-hunting-numbers
+  motif_id: foreknown_or_mirrored_hunting_numbers
+  label: Foreknown or mirrored hunting numbers
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Foreknowledge or mirroring of hunt numbers may be divinatory, omen-like,
+    or a narrative counting detail.
+  cautions: Needs source context to distinguish prophecy_divination from hunting magic,
+    reciprocity with animal powers, or an over-specific passage artifact.
+  suggested_aliases:
+  - foreknown_hunting_count
+  - mirrored_hunt_numbers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - dream_and_vision
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreseen-snare-still-entered
+  motif_id: foreseen_snare_still_entered
+  label: foreseen snare still entered
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Entering a foreseen trap points to an inescapable fate or destined action
+    despite knowledge of danger.
+  cautions: In Sufi context it may instead be a didactic paradox about love, surrender,
+    or mystical discipline; review before treating as fate rather than mystical_quest.
+  suggested_aliases:
+  - foreseen_trap_still_entered
+  - known_snare_accepted_under_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreshadowed-compelled-killing
+  motif_id: foreshadowed_compelled_killing
+  label: foreshadowed compelled killing
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A killing that is foreshadowed and compelled fits fate-bound death or
+    action under destiny.
+  cautions: If compulsion comes from oath, curse, geas, or social duty rather than
+    fate, curse_blessing_speech, covenant, or sacred_combat may be better secondary
+    mappings.
+  suggested_aliases:
+  - fated_compelled_killing
+  - foretold_killing_under_compulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels foreground foreignness or contact perception; these should be reviewed
+  for source framing and culturally sensitive wording before broad motif indexing.
+- Single-occurrence labels should preserve local evidence detail and avoid promotion
+  to new canonical groups unless additional cross-source recurrence appears.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items require source-context review
+    because labels may be ethnographic/contact artifacts rather than narrative motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3472
+  input_sha256: '095643e440fb747f588097a98a9fa3d68beebbbe60a6e58a8fe9a90f203c1a10'
+

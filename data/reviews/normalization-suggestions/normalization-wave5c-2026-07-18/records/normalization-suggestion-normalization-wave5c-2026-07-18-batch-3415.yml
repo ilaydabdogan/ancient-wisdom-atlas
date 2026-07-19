@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3415
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.expulsion-of-evil-sickness-or-hunger
+  motif_id: expulsion_of_evil_sickness_or_hunger
+  label: expulsion of evil, sickness, or hunger
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Matches existing ritual_expulsion and communal removal variants already
+    folded under sacrifice.
+  cautions: Specific agents and method are unknown; review whether hunger is personified,
+    transferred to a substitute, or merely removed by rite.
+  suggested_aliases:
+  - expulsion_of_evil_sickness_or_hunger
+  - ritual_expulsion_of_evil_sickness_or_hunger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expulsion-of-evils-from-a-community
+  motif_id: expulsion_of_evils_from_a_community
+  label: Expulsion of evils from a community
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Community-wide removal of evils is a close alias of existing annual and
+    communal expulsion labels under sacrifice.
+  cautions: Could overlap with annual_purification, scapegoat, or sacred_law if the
+    passage emphasizes calendar, substitute, or prohibition.
+  suggested_aliases:
+  - communal_expulsion_of_evils
+  - expulsion_of_evils_from_the_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expulsion-or-removal-of-prior-inhabitants-by-newcomers
+  motif_id: expulsion_or_removal_of_prior_inhabitants_by_newcomers
+  label: Expulsion or removal of prior inhabitants by newcomers
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe migration, conquest, settlement etiology, or historical-social
+    displacement rather than ritual expulsion.
+  cautions: Culturally sensitive and source-dependent; avoid treating removal of prior
+    inhabitants as a generic mythic motif without passage evidence.
+  suggested_aliases:
+  - prior_inhabitants_removed_by_newcomers
+  - newcomers_expelling_prior_inhabitants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expulsion-or-transfer-of-evil-sickness-or-sin
+  motif_id: expulsion_or_transfer_of_evil_sickness_or_sin
+  label: expulsion or transfer of evil, sickness, or sin
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Transfer or expulsion of evil, sickness, or sin matches existing scapegoat,
+    ritual_transfer, and ritual_expulsion complex.
+  cautions: If no offering/substitute is present and the focus is purity law, sacred_law
+    may be a secondary fit.
+  suggested_aliases:
+  - transfer_of_evil_sickness_or_sin
+  - expulsion_and_transfer_of_evil_sickness_or_sin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expulsion-or-transference-of-evils
+  motif_id: expulsion_or_transference_of_evils
+  label: Expulsion or transference of evils
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Broad comparative wording directly matches existing expulsion/transference
+    aliases under sacrifice.
+  cautions: Keep as broad alias; passage-level evidence should preserve whether the
+    evils are transferred to a scapegoat, expelled beyond a boundary, or ritually
+    purified.
+  suggested_aliases:
+  - expulsion_or_transfer_of_evils
+  - transference_of_evils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extended-early-royal-chronology
+  motif_id: extended_early_royal_chronology
+  label: extended early royal chronology
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could reflect antediluvian kingship, cosmic time, royal legitimacy, or
+    a chronographic/textual artifact.
+  cautions: Review source context before mapping; if merely a king-list feature or
+    scholarly chronology, exclude from pattern queries.
+  suggested_aliases:
+  - antediluvian_royal_chronology
+  - early_kings_with_extended_reigns
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extended-noble-visit-with-daily-hunting-and-public-viewing
+  motif_id: extended_noble_visit_with_daily_hunting_and_public_viewing
+  label: extended noble visit with daily hunting and public viewing
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Reads as an episode-specific courtly itinerary rather than a reusable
+    symbolic or narrative motif.
+  cautions: If the visit functions as recognition, royal legitimation, hospitality
+    test, or initiation, remap based on passage evidence.
+  suggested_aliases:
+  - noble_visit_with_hunting_and_public_viewing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extended-or-heaped-simile
+  motif_id: extended_or_heaped_simile
+  label: Extended or heaped simile
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a rhetorical or stylistic feature, not a narrative-symbolic motif
+    for pattern queries.
+  cautions: Preserve as literary-form metadata if useful; do not map to the object
+    or action described inside a particular simile.
+  suggested_aliases:
+  - heaped_simile
+  - extended_simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extended-seclusion-before-emergence
+  motif_id: extended_seclusion_before_emergence
+  label: extended seclusion before emergence
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: Seclusion before emergence may mark initiation, sacred birth, royal preparation,
+    or transformation, but the label lacks function.
+  cautions: Map to initiation if ordeal/status change is explicit; to miraculous_child
+    or royal_legitimacy if birth or kingship is central.
+  suggested_aliases:
+  - seclusion_before_emergence
+  - ritual_seclusion_before_reemergence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exterminated-community-with-a-single-surviving-descendant
+  motif_id: exterminated_community_with_a_single_surviving_descendant
+  label: exterminated community with a single surviving descendant
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lone remnant surviving communal destruction fits the survivor/remnant
+    renewal pattern, though not necessarily a flood.
+  cautions: Do not imply flood or cosmic catastrophe unless present; if the focus
+    is vengeance, ancestry, or historical massacre, human review may choose another
+    group.
+  suggested_aliases:
+  - single_surviving_descendant_after_community_extermination
+  - lone_descendant_survives_destroyed_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several expulsion/transference labels are close duplicates of existing ritual_expulsion,
+  scapegoat, and ritual_transfer material under sacrifice; consider alias consolidation
+  rather than new groups.
+- Labels involving settlement displacement, royal chronology, and seclusion need passage
+  context before normalization because they may be historical, social, or textual
+  rather than motif-level.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally sensitive
+    or context-dependent items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3415
+  input_sha256: 43cfec47792327977cffa9697129cce51f460345f58b48a84b736e3de79003aa
+

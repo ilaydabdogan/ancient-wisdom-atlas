@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4072
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.variant-genealogy-with-inserted-generation
+  motif_id: variant_genealogy_with_inserted_generation
+  label: variant genealogy with inserted generation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a variant genealogical reading or redactional insertion
+    rather than a narrative motif.
+  cautions: If a passage narrates an eponymous ancestor or people-origin genealogy,
+    index that evidence separately under cosmic_origin.
+  suggested_aliases:
+  - genealogical variant with inserted generation
+  - inserted generation in variant genealogy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.variant-manuscript-endings
+  motif_id: variant_manuscript_endings
+  label: Variant manuscript endings
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a manuscript-transmission or editorial-variant note, not a symbolic
+    or narrative motif.
+  cautions: Preserve for provenance if useful, but do not include in Pattern Explorer
+    motif queries.
+  suggested_aliases:
+  - variant endings in manuscripts
+  - manuscript ending variants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vassal-prostration-and-mediated-appeal
+  motif_id: vassal_prostration_and_mediated_appeal
+  label: vassal prostration and mediated appeal
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: A vassal's submissive appeal through mediation belongs to court hierarchy
+    and legitimated political order.
+  cautions: Could instead fit covenant or sacred_law if the passage emphasizes binding
+    obligation, treaty, or legal supplication rather than kingship hierarchy.
+  suggested_aliases:
+  - prostration before ruler with mediated appeal
+  - vassal supplication through mediator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vast-being-s-object-mistaken-for-a-building
+  motif_id: vast_being_s_object_mistaken_for_a_building
+  label: vast being's object mistaken for a building
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate giant-scale otherworld comedy, perception error,
+    or a passage-specific wonder detail.
+  cautions: No existing group cleanly captures giant scale/misrecognition; avoid mapping
+    to sacred_craft or otherworld without source evidence that the object or realm
+    has that function.
+  suggested_aliases:
+  - giant's object mistaken for a building
+  - misrecognized object of a vast being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vegetable-materials-as-substitutes-for-metal-skin-or-pottery
+  motif_id: vegetable_materials_as_substitutes_for_metal_skin_or_pottery
+  label: Vegetable materials as substitutes for metal, skin, or pottery
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This sounds like an ethnographic or craft-substitution detail, but its
+    mythic function is unclear from the label.
+  cautions: If the substitution is part of ritual making or sacred technology, sacred_craft
+    may fit; if merely material culture commentary, exclude as contextual artifact.
+  suggested_aliases:
+  - plant materials substituted for metal skin or pottery
+  - vegetal substitutes for manufactured materials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vegetation-overcoming-stone-ruins
+  motif_id: vegetation_overcoming_stone_ruins
+  label: vegetation overcoming stone ruins
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Vegetation reclaiming ruins suggests renewal, transformation, or life
+    emerging over a dead built order.
+  cautions: May be only landscape description or cultural memory; map only if the
+    passage gives symbolic or etiological force to vegetation over ruins.
+  suggested_aliases:
+  - plant growth overtaking ruins
+  - vegetation reclaiming stone ruins
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.veneration-of-fravashis-across-generations
+  motif_id: veneration_of_fravashis_across_generations
+  label: veneration of Fravashis across generations
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Veneration of Fravashis across generations aligns with ritual honor and
+    ongoing relations with ancestral or preexistent souls.
+  cautions: Fravashis are culturally specific and not simply equivalent to ancestors;
+    preserve the Zoroastrian term and review doctrinal context.
+  suggested_aliases:
+  - Fravashi veneration across generations
+  - intergenerational veneration of Fravashis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.veneration-of-fravashis-of-saints-and-kin
+  motif_id: veneration_of_fravashis_of_saints_and_kin
+  label: Veneration of Fravashis of saints and kin
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Honoring Fravashis of kin and holy figures fits ritual veneration of
+    the dead or ancestral/saintly spiritual presences.
+  cautions: Because Fravashis include more than ordinary dead ancestors, human review
+    should preserve the doctrinal distinction; saint veneration may also touch sacred_treasures
+    if relics or shrines are involved.
+  suggested_aliases:
+  - veneration of Fravashis of saints and relatives
+  - Fravashi veneration of kin and holy figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.veneration-or-awe-of-heavenly-bodies
+  motif_id: veneration_or_awe_of_heavenly_bodies
+  label: veneration or awe of heavenly bodies
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates celestial reverence, but the taxonomy lacks a dedicated
+    celestial-body veneration group and the function is unclear.
+  cautions: Could fit sacred_fire for sun/light, sacred_time for calendrical order,
+    theophany for divine manifestation, or divine_intervention for personified celestial
+    powers depending on evidence.
+  suggested_aliases:
+  - awe before heavenly bodies
+  - celestial body veneration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-after-defeat-or-captivity-of-allies
+  motif_id: vengeance_after_defeat_or_captivity_of_allies
+  label: Vengeance after defeat or captivity of allies
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Retaliatory violence for defeated or captured allies is a warfare motive
+    within the sacred combat complex.
+  cautions: If the focus is moral retribution or divine punishment rather than battle
+    sequence, divine_judgment may be a secondary placement.
+  suggested_aliases:
+  - vengeance for captured allies
+  - retaliation after allies are defeated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and should remain provisional until passage
+  evidence confirms recurring motif function.
+- Fravashi labels should preserve the Zoroastrian term and not be flattened into generic
+  ancestor worship without human review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4072
+  input_sha256: 6c91dc0ddc1249b892d32607dd0bb3adde0392ab5ecde88949d1532793dfb446
+

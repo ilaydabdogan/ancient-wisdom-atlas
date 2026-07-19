@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0259
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.medicine-man-s-harmful-magic-causes-sickness-or-death
+  motif_id: medicine_man_s_harmful_magic_causes_sickness_or_death
+  label: medicine-man's harmful magic causes sickness or death
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes harmful ritual or magical agency causing sickness
+    or death, but existing groups do not cleanly distinguish sorcery, spirit affliction,
+    healing, or moral punishment.
+  cautions: Culturally sensitive wording and single occurrence; may be ethnographic
+    classification rather than a reusable motif. Could fit divine_judgment, sacred_law,
+    sacrifice/expulsion, or divine_intervention depending on source context.
+  suggested_aliases:
+  - harmful_magic_causes_sickness_or_death
+  - ritual_specialist_s_harmful_magic_causes_sickness_or_death
+  - sorcery_causes_sickness_or_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memento-mori-before-descent-into-dust
+  motif_id: memento_mori_before_descent_into_dust
+  label: Memento mori before descent into dust
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, remembrance of mortality and return to dust functions
+    as contemplative discipline on the interior path rather than literal underworld
+    descent.
+  cautions: If the passage emphasizes bodily dissolution or afterlife geography instead
+    of spiritual admonition, death_and_transformation or afterlife_passage may be
+    secondary.
+  suggested_aliases:
+  - memento_mori
+  - remembrance_of_death_before_return_to_dust
+  - mortality_contemplation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memorial-cairns-for-a-dead-companion
+  motif_id: memorial_cairns_for_a_dead_companion
+  label: Memorial cairns for a dead companion
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: A cairn raised for a dead companion is a memorial act honoring the dead
+    and preserving social memory.
+  cautions: If not heroic or companion-centered in the passage, a broader ancestor_rites
+    or memorialization subgroup could be considered later.
+  suggested_aliases:
+  - cairn_memorial_for_the_dead
+  - memorial_cairn_for_dead_companion
+  - stone_cairn_for_dead_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memorial-places-formed-from-actions-at-death
+  motif_id: memorial_places_formed_from_actions_at_death
+  label: Memorial places formed from actions at death
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes an etiological formation of named or meaningful places
+    from death-related actions, matching existing place-origin children under cosmic_origin.
+  cautions: If the focus is veneration at the site rather than etiology, heroic_funeral_rites,
+    ancestor_rites, or sacred_geography may be better secondary placements.
+  suggested_aliases:
+  - death_action_place_etiology
+  - memorial_place_etiology_from_death
+  - place_formed_by_actions_at_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memorial-pole-and-streamer-benefiting-the-dead
+  motif_id: memorial_pole_and_streamer_benefiting_the_dead
+  label: memorial pole and streamer benefiting the dead
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: A memorial object raised to benefit the dead is ritual care for the dead,
+    aligning with ancestor rites and ongoing living-dead relations.
+  cautions: May also touch heroic_funeral_rites if commemorative honor is central,
+    or axis_mundi if the pole has explicit vertical cosmological function.
+  suggested_aliases:
+  - memorial_pole_and_streamer_for_the_dead
+  - ritual_streamer_benefiting_the_dead
+  - memorial_object_benefits_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memorial-pole-near-burial-place
+  motif_id: memorial_pole_near_burial_place
+  label: Memorial pole near burial place
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A memorial pole placed at or near burial grounds marks ritual relation
+    to the dead and ancestral memory.
+  cautions: Single object-specific label; if the pole is primarily a funerary honor
+    marker, heroic_funeral_rites may be an alternate mapping. Do not map to axis_mundi
+    unless cosmological vertical connection is explicit.
+  suggested_aliases:
+  - burial_place_memorial_pole
+  - funerary_memorial_pole
+  - memorial_marker_near_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memorial-pole-raised-for-the-dead-with-feast-and-dance
+  motif_id: memorial_pole_raised_for_the_dead_with_feast_and_dance
+  label: Memorial pole raised for the dead with feast and dance
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: The pole, feast, and dance form a communal mortuary rite maintaining
+    relations with the dead.
+  cautions: Culturally specific ceremony should preserve local details; may also support
+    heroic_funeral_rites if the focus is memorial honor rather than care or benefit
+    for the dead.
+  suggested_aliases:
+  - memorial_feast_and_dance_for_the_dead
+  - mortuary_pole_feast_and_dance
+  - memorial_pole_rite_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memorial-stone-preserving-ancestral-memory
+  motif_id: memorial_stone_preserving_ancestral_memory
+  label: memorial stone preserving ancestral memory
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: A memorial stone preserving ancestral memory belongs with ritualized
+    relations to ancestors and the dead.
+  cautions: If the stone confers power, marks sacred geography, or serves as a relic,
+    sacred_treasures may be secondary; object specificity should remain evidence detail.
+  suggested_aliases:
+  - ancestral_memorial_stone
+  - stone_preserving_ancestral_memory
+  - memorial_stone_for_ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memorial-stones-for-the-dead-at-a-threshold
+  motif_id: memorial_stones_for_the_dead_at_a_threshold
+  label: memorial stones for the dead at a threshold
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Stones for the dead at a threshold are mortuary memorial markers maintaining
+    boundary relations with the dead.
+  cautions: The threshold setting may be important; if passage emphasizes boundary
+    crossing or guarding rather than memorial care, threshold_guardian or sacred_law
+    may be relevant secondary mappings.
+  suggested_aliases:
+  - threshold_memorial_stones_for_the_dead
+  - memorial_stones_at_threshold
+  - funerary_threshold_stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.memorial-streamer-raised-for-the-dead
+  motif_id: memorial_streamer_raised_for_the_dead
+  label: memorial streamer raised for the dead
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: A streamer raised for the dead is a ritual memorial object in the care
+    and commemoration of the dead.
+  cautions: Preserve streamer specificity as local evidence. If the source emphasizes
+    public honor rather than benefit to the dead, heroic_funeral_rites may be secondary.
+  suggested_aliases:
+  - funerary_memorial_streamer
+  - ritual_streamer_for_the_dead
+  - memorial_banner_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Many labels in this batch concern memorial poles, stones, cairns, streamers, feasts,
+  and dances. Existing ancestor_rites and heroic_funeral_rites can hold most without
+  creating a new group, but reviewers may consider a future memorial_markers_for_the_dead
+  subgroup if these recur across traditions.
+- Avoid treating poles as axis_mundi motifs unless the source explicitly gives them
+  a vertical cosmic-connection function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source context should decide between ancestor
+    rites, heroic funeral memorialization, place etiology, and culturally specific
+    mortuary practice.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0259
+  input_sha256: 845dce9dc546cf661aa81faff935a3d5c5bea71cc7a4c4c03960c6db00068efa
+

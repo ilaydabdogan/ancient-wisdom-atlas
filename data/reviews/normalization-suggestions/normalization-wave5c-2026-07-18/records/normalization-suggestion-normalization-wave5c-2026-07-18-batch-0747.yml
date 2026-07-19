@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0747
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.directional-ritual-ordering-of-sacred-offices
+  motif_id: directional_ritual_ordering_of_sacred_offices
+  label: Directional ritual ordering of sacred offices
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritual offices ordered by direction suggest sacral regulation of social
+    and ceremonial roles.
+  cautions: Single occurrence and culturally specific ceremonial structure; may fit
+    sacred_time, axis_mundi, or a directional cosmology group if evidence emphasizes
+    cosmic regions rather than offices.
+  suggested_aliases:
+  - directional ordering of ritual offices
+  - ritual offices ordered by direction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directional-ritual-orientation
+  motif_id: directional_ritual_orientation
+  label: Directional ritual orientation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A rule for orienting ritual action toward directions can be treated provisionally
+    as sacred ritual order.
+  cautions: Very broad label; may indicate sacred geography, axis/cosmic center, or
+    local ceremonial protocol rather than a reusable motif.
+  suggested_aliases:
+  - ritual orientation by direction
+  - directional ceremonial orientation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directional-ritual-orientation-to-six-regions
+  motif_id: directional_ritual_orientation_to_six_regions
+  label: Directional ritual orientation to six regions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Directional Cosmology and Ritual Orientation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Orientation to six regions points to a recurring directional-cosmology
+    structure not cleanly captured by existing ritual law or axis groups.
+  cautions: Create only if multiple directional Southwest labels are consolidated;
+    review cultural specificity and whether this is an evidence detail within one
+    ceremony.
+  suggested_aliases:
+  - six-direction ritual orientation
+  - ritual orientation to six regions
+  - directional cosmology in ritual
+  suggested_new_group:
+    id: directional_cosmology_ritual_orientation
+    label: Directional Cosmology and Ritual Orientation
+    description: Ritual actions, offices, prayers, offerings, or summons are ordered
+      by sacred directions, regions, quarters, or a center-and-directions cosmology.
+    parent_group_ids:
+    - sacred_law
+    - axis_mundi
+    related_group_ids:
+    - sacred_time
+    - sacred_exchange
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing groups cover sacred law, center,
+      and offering but do not preserve the distinctive ritual ordering by cardinal
+      or multi-region cosmology.
+- suggestion_id: normalization.suggestion.directional-sprinkling-and-altar-centered-offering
+  motif_id: directional_sprinkling_and_altar_centered_offering
+  label: Directional sprinkling and altar-centered offering
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core action is an offering rite; directional sprinkling and altar
+    centering are ritual details around sacred exchange.
+  cautions: If the directionality is the main pattern, also review under the proposed
+    directional_cosmology_ritual_orientation candidate; if purification dominates,
+    sacred_law may be secondary.
+  suggested_aliases:
+  - altar-centered directional offering
+  - directional sprinkling offering
+  - sprinkling rite at altar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directional-summons-for-ritual-aid
+  motif_id: directional_summons_for_ritual_aid
+  label: directional summons for ritual aid
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual summons for aid seeks intervention or assistance from sacred
+    powers, with directionality as the organizing form.
+  cautions: May be better under a directional ritual orientation candidate if the
+    passage emphasizes the directional sequence more than the invoked aid.
+  suggested_aliases:
+  - directional ritual summons for aid
+  - summoning aid from directions
+  - directional invocation for assistance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directional-tobacco-rite-for-rain
+  motif_id: directional_tobacco_rite_for_rain
+  label: directional tobacco rite for rain
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A tobacco rite for rain functions as ritual offering or reciprocal petition
+    to sacred powers.
+  cautions: Culturally specific and single occurrence; may also relate to divine_intervention
+    as rainmaking aid or to directional_cosmology_ritual_orientation if directionality
+    is central.
+  suggested_aliases:
+  - tobacco offering for rain
+  - directional rainmaking tobacco rite
+  - rain petition through tobacco rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directionally-ordered-ritual-summons
+  motif_id: directionally_ordered_ritual_summons
+  label: directionally ordered ritual summons
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual summons likely invokes sacred agents or aid; the directional
+    ordering is a procedural variant.
+  cautions: Near-duplicate of directional_summons_for_ritual_aid; consider aliasing
+    together or placing under a directional cosmology candidate after review.
+  suggested_aliases:
+  - directional ritual summons
+  - ritual summons ordered by direction
+  - directionally ordered invocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disappearance-leaving-ritual-objects-behind
+  motif_id: disappearance_leaving_ritual_objects_behind
+  label: disappearance leaving ritual objects behind
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: Ritual objects left after a disappearance may become sacred power objects
+    or relic-like evidence of transformation.
+  cautions: 'Ambiguous without source context: disappearance could indicate death/return,
+    otherworld departure, apotheosis, or a passage-specific episode; do not map solely
+    from the object detail.'
+  suggested_aliases:
+  - ritual objects left behind after disappearance
+  - disappearing figure leaves sacred objects
+  - left-behind ritual objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disarmament-gesture-before-truce-ritual
+  motif_id: disarmament_gesture_before_truce_ritual
+  label: Disarmament gesture before truce ritual
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A formal disarmament gesture before truce marks the making or repair
+    of a binding peace relation.
+  cautions: Could also fit sacred_combat if the passage emphasizes warfare protocol,
+    or sacred_law if it is primarily legal/ritual etiquette.
+  suggested_aliases:
+  - ritual disarmament before truce
+  - peace-truce disarmament gesture
+  - weapon-laying gesture before truce
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.discovery-of-hidden-or-enduring-sacred-maidens
+  motif_id: discovery_of_hidden_or_enduring_sacred_maidens
+  label: Discovery of hidden or enduring sacred maidens
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too ambiguous to distinguish sacred feminine figures, hidden
+    otherworld beings, ritual offices, or local episode detail.
+  cautions: Culturally sensitive and under-evidenced from label alone; avoid collapsing
+    sacred maidens into mother_goddess or sacred_love without passage evidence about
+    role and function.
+  suggested_aliases:
+  - hidden sacred maidens discovered
+  - enduring sacred maidens
+  - discovery of sacred women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Native American Southwest labels appear to form a cluster around directional
+  ritual ordering. Consider human review for a durable directional_cosmology_ritual_orientation
+  group rather than scattering all items under sacred_law, sacred_exchange, or divine_intervention.
+- Single-occurrence ceremonial labels should preserve local ritual detail in notes
+  and avoid broad transmission or origin claims.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; directional ritual cluster and culturally specific
+    ceremonial labels require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0747
+  input_sha256: af5b9939f7ed7f82b9da0c1ba3cfbc2f645a1480cfa78ef1961c55a2f84f4cae
+

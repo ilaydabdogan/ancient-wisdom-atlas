@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3594
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.invocation-of-ancient-fravashis-with-praise
+  motif_id: invocation_of_ancient_fravashis_with_praise
+  label: Invocation of ancient Fravashis with praise
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: low
+  rationale: Fravashis may function as revered ancestral or guardian spirits invoked
+    ritually, but the label alone does not show feeding, appeasement, or dead-soul
+    care.
+  cautions: Culturally specific Zoroastrian category; may instead fit sacred_exchange,
+    divine_intervention, or hymn/praise as ritual speech. Verify source context before
+    mapping.
+  suggested_aliases:
+  - praise_invocation_of_fravashis
+  - fravashi_invocation
+  - ritual_praise_of_ancestral_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invocation-of-winged-weather-powers-or-addressee-s
+  motif_id: invocation_of_winged_weather_powers_or_addressee_s
+  label: Invocation of winged weather powers or addressee(s)
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: low
+  rationale: Invoking weather powers could seek sacred agency in human affairs, but
+    the wording is uncertain and may be a ritual address rather than a narrative motif.
+  cautions: Culturally sensitive Navajo ritual language; do not flatten specific beings
+    into generic weather gods without source review. May fit sacred_exchange or sacred_law
+    if tied to ceremonial reciprocity.
+  suggested_aliases:
+  - invocation_of_weather_powers
+  - ritual_address_to_weather_powers
+  - invocation_of_winged_weather_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invoked-deity-appears-but-gives-practical-admonition
+  motif_id: invoked_deity_appears_but_gives_practical_admonition
+  label: invoked deity appears but gives practical admonition
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is a deity manifesting in response to invocation and
+    delivering instruction or admonition.
+  cautions: If the passage emphasizes the practical teaching more than divine appearance,
+    sacred_knowledge may be a secondary fit. Single occurrence and episode-specific
+    wording should not be promoted as canonical.
+  suggested_aliases:
+  - invoked_deity_appears_with_admonition
+  - divine_appearance_with_practical_instruction
+  - deity_responds_to_invocation_with_counsel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invoked-muse-as-singer-of-epic-subject
+  motif_id: invoked_muse_as_singer_of_epic_subject
+  label: invoked Muse as singer of epic subject
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as an epic invocation/formula about narration rather than
+    a cross-passage mythic motif.
+  cautions: If the passage treats the Muse as an active divine source of inspired
+    speech, preserve evidence under storytelling_as_power or sacred_knowledge; otherwise
+    exclude from motif pattern queries.
+  suggested_aliases:
+  - muse_invocation_as_epic_singer
+  - epic_invocation_of_the_muse
+  - muse_as_narrative_singer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invulnerability-through-externalized-life
+  motif_id: invulnerability_through_externalized_life
+  label: Invulnerability through externalized life
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: alias
+  confidence: high
+  rationale: The normalization already includes invulnerability through a hidden or
+    external life principle within the external_soul complex.
+  cautions: Comparative label may be classificatory rather than passage evidence;
+    verify that life-force is actually externalized, not merely ordinary invulnerability
+    or a boon loophole.
+  suggested_aliases:
+  - invulnerability_through_externalized_soul
+  - invulnerability_dependent_on_external_life
+  - externalized_life_as_invulnerability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invulnerable-boys-boast
+  motif_id: invulnerable_boys_boast
+  label: Invulnerable boys' boast
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: uncertain
+  confidence: low
+  rationale: The label mentions invulnerability, but the narrative function may be
+    boast, youthful heroism, or a setup for failed protection rather than hidden weakness.
+  cautions: Needs source context and culturally careful review. Could fit divine_warrior,
+    pride_and_downfall, or miraculous_child depending on whether the boys are heroes,
+    tricksters, or overconfident figures.
+  suggested_aliases:
+  - boast_of_invulnerable_boys
+  - invulnerable_youths_boast
+  - youthful_boast_of_invulnerability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invulnerable-figure-withstands-ordinary-methods-of-execution
+  motif_id: invulnerable_figure_withstands_ordinary_methods_of_execution
+  label: Invulnerable figure withstands ordinary methods of execution
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: Resistance to ordinary killing methods matches the invulnerable-body
+    pattern, especially if a special method is later required.
+  cautions: If no hidden weakness, exception, or defeat method appears, this may be
+    broader supernatural protection rather than conditional invulnerability. Review
+    local context carefully.
+  suggested_aliases:
+  - invulnerable_figure_resists_execution
+  - execution_methods_fail_against_invulnerable_figure
+  - ordinary_execution_cannot_kill_invulnerable_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invulnerable-hounds-set-on-a-fugitive-s-track
+  motif_id: invulnerable_hounds_set_on_a_fugitive_s_track
+  label: invulnerable hounds set on a fugitive's track
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Supernatural hounds in pursuit may function as agents of sacred or magical
+    action, but the motif is chiefly a pursuit episode.
+  cautions: Could fit animal_helpers, threshold_guardian, death_by_fate, or sacred_combat
+    depending on whether the hounds are divine agents, boundary guardians, or simply
+    magical pursuers. Too specific for confident mapping.
+  suggested_aliases:
+  - supernatural_hounds_pursue_fugitive
+  - invulnerable_hounds_track_fugitive
+  - magical_hounds_set_on_fugitive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invulnerable-magical-youth
+  motif_id: invulnerable_magical_youth
+  label: invulnerable magical youth
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: medium
+  rationale: An invulnerable youth fits the broader invulnerability group, with youth/magical
+    status preserved as local detail.
+  cautions: If the focus is extraordinary childhood or destiny rather than limited
+    vulnerability, miraculous_child may be secondary. Confirm whether invulnerability
+    has conditions or merely denotes magical power.
+  suggested_aliases:
+  - magical_invulnerable_youth
+  - invulnerable_supernatural_youth
+  - invulnerable_child_with_magic_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invulnerable-magician-survives-attempted-killing
+  motif_id: invulnerable_magician_survives_attempted_killing
+  label: Invulnerable magician survives attempted killing
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: Surviving attempted killing through invulnerability belongs with figures
+    resistant to ordinary lethal means.
+  cautions: May instead involve shamanic soul restoration, external soul, or divine
+    intervention if survival depends on spirit power or soul mechanics. Source evidence
+    needed before final mapping.
+  suggested_aliases:
+  - magician_survives_attempted_killing
+  - invulnerable_shaman_survives_attack
+  - magical_practitioner_resists_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and culturally specific; suggested placements
+  should be treated as provisional indexing aids, not taxonomy edits.
+- Invocation and praise labels may be ritual/formulaic rather than motifs; source
+  context is needed to distinguish sacred speech, exchange, theophany, and textual
+  artifact.
+- Invulnerability labels should be checked for the defining structure of conditional
+  invulnerability, hidden weakness, or externalized life before final grouping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for culturally
+    specific invocation labels and ambiguous invulnerability cases.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3594
+  input_sha256: b237954eb2ef4d5271020f7eef94a36fc61317e112597e3f726c5c23f1c43f35
+

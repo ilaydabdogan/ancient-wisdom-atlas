@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0851
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.gendered-ritual-participation-determined-by-social-function
+  motif_id: gendered_ritual_participation_determined_by_social_function
+  label: Gendered ritual participation determined by social function
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label concerns ritual eligibility rules, which broadly fit sacred
+    law and ritual regulation.
+  cautions: Single occurrence and culturally specific gender/social-role rule; avoid
+    flattening local social function without source review.
+  suggested_aliases:
+  - gendered_ritual_role_rules
+  - ritual_participation_by_social_role
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-rules-for-ritual-participation
+  motif_id: gendered_rules_for_ritual_participation
+  label: Gendered rules for ritual participation
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritual participation restrictions are a form of sacred regulation or
+    taboo.
+  cautions: Gendered and culturally specific rule; source evidence should decide whether
+    this is a motif, ethnographic rule, or passage artifact.
+  suggested_aliases:
+  - gendered_ritual_participation_rules
+  - gendered_ritual_eligibility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-taboo-on-intoxicating-or-ritual-substances
+  motif_id: gendered_taboo_on_intoxicating_or_ritual_substances
+  label: Gendered taboo on intoxicating or ritual substances
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A taboo governing access to ritual substances fits sacred law, with secondary
+    relation to sacred substance.
+  cautions: Culturally sensitive gendered substance restriction; may belong under
+    sacred_substance if substance function is primary.
+  suggested_aliases:
+  - gendered_substance_taboo
+  - gendered_restriction_on_ritual_substances
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gendered-taboo-or-respect-around-divining-implements
+  motif_id: gendered_taboo_or_respect_around_divining_implements
+  label: Gendered taboo or respect around divining implements
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Rules of respect or taboo around ritual tools fit sacred law and ritual
+    regulation.
+  cautions: Could also relate to prophecy_divination or sacred_treasures if the implement's
+    divinatory or object power is central; source review needed.
+  suggested_aliases:
+  - taboo_around_divining_implements
+  - gendered_respect_for_divination_tools
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.genealogical-identification-of-holy-figures
+  motif_id: genealogical_identification_of_holy_figures
+  label: Genealogical identification of holy figures
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: Genealogical identification can authorize sacred status, lineage, or
+    holy authority.
+  cautions: May be a textual, doctrinal, or prosopographic detail rather than a motif;
+    if it only identifies persons, exclude from pattern queries.
+  suggested_aliases:
+  - holy_lineage_identification
+  - sacred_genealogy_of_holy_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.genealogical-table-as-ritual-map
+  motif_id: genealogical_table_as_ritual_map
+  label: genealogical table as ritual map
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: low
+  rationale: A genealogy used ritually may organize ancestor relations and ritual
+    obligations.
+  cautions: Could be a textual diagram or commentary artifact; map to ancestor_rites
+    only if it structures ritual action, not merely lineage information.
+  suggested_aliases:
+  - genealogy_as_ritual_map
+  - ritual_genealogical_table
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gens-based-contact-taboo
+  motif_id: gens_based_contact_taboo
+  label: gens-based contact taboo
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A contact taboo based on kin or clan grouping fits sacred social regulation.
+  cautions: Culturally specific social organization term; may be an ethnographic rule
+    rather than a portable motif.
+  suggested_aliases:
+  - clan_based_contact_taboo
+  - kin_group_contact_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gentle-animal-peace-mediator-with-inherited-feathers
+  motif_id: gentle_animal_peace_mediator_with_inherited_feathers
+  label: gentle-animal peace mediator with inherited feathers
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: A peace-mediating animal may function in reconciliation or reciprocal
+    social repair.
+  cautions: Composite and highly specific; inherited feathers may instead indicate
+    sacred_treasures, animal helper, or local clan symbolism.
+  suggested_aliases:
+  - animal_peace_mediator
+  - peace_mediator_with_inherited_feathers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giants-hostile-to-christian-sacred-sound
+  motif_id: giants_hostile_to_christian_sacred_sound
+  label: Giants hostile to Christian sacred sound
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The salient motif may be sacred sound exerting power or provoking supernatural
+    beings.
+  cautions: Christian/Norse conversion context may make this a reception or polemical
+    motif; could fit sacred_law, divine_judgment, or meta-textual commentary depending
+    on evidence.
+  suggested_aliases:
+  - supernatural_hostility_to_sacred_sound
+  - giants_opposed_to_sacred_sound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gift-and-self-offering-to-a-perceived-water-bride
+  motif_id: gift_and_self_offering_to_a_perceived_water_bride
+  label: gift and self-offering to a perceived water bride
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Gift and self-offering frame a reciprocal or sacrificial relation with
+    a perceived water-spirit bride.
+  cautions: Could also fit sacred_love, sacrifice, or sacred_waters; 'perceived' suggests
+    ambiguity or narrative misunderstanding needing source review.
+  suggested_aliases:
+  - self_offering_to_water_bride
+  - gift_offering_to_water_spirit_bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence, culturally specific ritual rules; human review
+  should decide whether to preserve them as evidence notes rather than broad motif
+  mappings.
+- For gendered ritual taboos, sacred_law is only a provisional broad bucket; avoid
+  treating placement as cross-cultural equivalence without source evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; culturally specific ritual and kinship
+    terms require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0851
+  input_sha256: 12ccfa61c3203ccb0f173b68f49edddcdd52fdf73dd476d3c94d2e210e150b50
+

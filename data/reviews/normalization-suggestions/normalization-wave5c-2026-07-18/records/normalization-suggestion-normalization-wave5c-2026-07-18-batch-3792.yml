@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3792
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.precious-intoxicating-goods-outweighing-reputation
+  motif_id: precious_intoxicating_goods_outweighing_reputation
+  label: Precious intoxicating goods outweighing reputation
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: uncertain
+  confidence: low
+  rationale: Intoxicating goods may fit sacred substance, but the label emphasizes
+    valuation over reputation rather than ritual or mystical use.
+  cautions: Single Sufi occurrence may be an ethical aphorism, passage-specific contrast,
+    or commentary artifact; review source context before indexing.
+  suggested_aliases:
+  - intoxicating_goods_outweigh_reputation
+  - precious_intoxicants_over_reputation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.precious-metal-as-exchange-medium
+  motif_id: precious_metal_as_exchange_medium
+  label: Precious metal as exchange medium
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as economic description rather than a symbolic or narrative
+    motif.
+  cautions: If the passage treats metal as a sacred power object, bridewealth, ritual
+    payment, or colonial encounter marker, remap with evidence; otherwise exclude
+    from motif queries.
+  suggested_aliases:
+  - precious_metal_exchange
+  - metal_as_exchange_medium
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.precious-substance-discovery-leading-to-dispossession
+  motif_id: precious_substance_discovery_leading_to_dispossession
+  label: precious-substance discovery leading to dispossession
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Discovery causing dispossession could be a moral consequence or colonial-historical
+    episode, but the label alone does not establish a mythic function.
+  cautions: Culturally and historically sensitive; do not normalize as a generic motif
+    without source evidence. May be historical commentary rather than pattern-query
+    material.
+  suggested_aliases:
+  - precious_discovery_leads_to_dispossession
+  - dispossession_after_discovery_of_precious_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.preconditioned-origin-before-categories
+  motif_id: preconditioned_origin_before_categories
+  label: Preconditioned origin before categories
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A pre-categorical origin aligns with cosmogonic emergence from an undifferentiated
+    source before named categories.
+  cautions: Daoist metaphysical language may be philosophical rather than narrative;
+    avoid forcing into creation-by-event unless the passage supports cosmogony.
+  suggested_aliases:
+  - origin_before_categories
+  - undifferentiated_origin_before_categories
+  - pre_categorical_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predation-reversal-announced-by-heading
+  motif_id: predation_reversal_announced_by_heading
+  label: Predation reversal announced by heading
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'announced by heading' indicates a textual heading or editorial
+    framing rather than the motif itself.
+  cautions: If the underlying story contains predator-prey reversal, index that separately
+    under trickster or divine_judgment; exclude the heading artifact.
+  suggested_aliases:
+  - heading_announces_predation_reversal
+  - predation_reversal_heading
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-accepts-bargain-but-destroys-the-bargainer
+  motif_id: predator_accepts_bargain_but_destroys_the_bargainer
+  label: predator accepts bargain but destroys the bargainer
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A predator exploiting a bargain fits existing animal-deception and predatory
+    reversal patterns under trickster/fable logic.
+  cautions: Could also indicate violated covenant or betrayal if the bargain is sacred
+    or oath-bound; verify whether the predator is animal-fable, monster, or human
+    agent.
+  suggested_aliases:
+  - predator_destroys_bargainer_after_bargain
+  - predatory_bargain_betrayal
+  - bargain_accepted_then_bargainer_destroyed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-and-prey-displaced-together-by-disaster
+  motif_id: predator_and_prey_displaced_together_by_disaster
+  label: Predator and prey displaced together by disaster
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: uncertain
+  confidence: low
+  rationale: Disaster displacement may belong to catastrophe motifs, but predator-prey
+    pairing suggests a local episode rather than world renewal.
+  cautions: Do not map to flood_and_renewal unless the disaster destroys or renews
+    an order. Could be fable setting, omen, or passage-specific narrative detail.
+  suggested_aliases:
+  - predator_and_prey_displaced_by_disaster
+  - disaster_displaces_predator_and_prey_together
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-and-victim-die-together
+  motif_id: predator_and_victim_die_together
+  label: Predator and victim die together
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Mutual death of predator and victim can function as moral reversal or
+    consequence, but evidence is needed.
+  cautions: May instead be a hunting detail, etiological animal tale, or tragic death
+    pattern. Review San source context carefully before final placement.
+  suggested_aliases:
+  - predator_and_prey_die_together
+  - mutual_death_of_predator_and_victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-at-the-unreachable-enclosure
+  motif_id: predator_at_the_unreachable_enclosure
+  label: predator at the unreachable enclosure
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A predator blocked by an enclosure fits the existing cluster of predator-prey
+    fable strategies and boundary frustration under trickster.
+  cautions: If the enclosure is sacred refuge, ark, or protected sanctuary, sacred_vessel
+    or divine_intervention may be secondary; label is very specific.
+  suggested_aliases:
+  - predator_blocked_by_unreachable_enclosure
+  - prey_safe_in_unreachable_enclosure
+  - unreachable_enclosure_blocks_predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.predator-becomes-prey
+  motif_id: predator_becomes_prey
+  label: Predator becomes prey
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The reversal in which the aggressor suffers the victim's role matches
+    moral reckoning and reversal patterns already grouped under judgment.
+  cautions: Could also fit trickster if caused by deception in an animal fable. Preserve
+    predator-prey reversal wording for granular search.
+  suggested_aliases:
+  - predator_becomes_the_prey
+  - predator_prey_reversal
+  - hunter_becomes_hunted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several predator/prey labels appear to be granular animal-fable or episode-level
+  motifs; consider whether a future animal_fable_predation_reversal subgroup is warranted
+  if these recur across batches.
+- Single-occurrence Native American Southeast labels involving precious substances
+  and dispossession require culturally sensitive source review before broad normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3792
+  input_sha256: 5dfcd73faed09a021834ad1286699c7d2f76d950c4e99cbec74a7d8afdc8da70
+

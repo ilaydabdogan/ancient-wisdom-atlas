@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2520
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.seal-authenticated-property-sale
+  motif_id: seal_authenticated_property_sale
+  label: Seal-authenticated property sale
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads as a legal-documentary transaction detail rather than a symbolic
+    or narrative motif.
+  cautions: If the seal functions as a sacred power object or royal legitimacy token
+    in the passage, reassess under sacred_treasures or royal_legitimacy.
+  suggested_aliases:
+  - sealed_property_sale
+  - seal_authenticated_sale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seal-hunting-at-breathing-holes
+  motif_id: seal_hunting_at_breathing_holes
+  label: seal hunting at breathing holes
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be an ethnographic subsistence detail, but Inuit source
+    context could encode ritual, animal-person relations, or hunting taboo.
+  cautions: Do not exclude automatically without source review; if purely descriptive
+    hunting practice, exclude from motif queries.
+  suggested_aliases:
+  - seal_hunting_breathing_holes
+  - hunting_seals_at_breathing_holes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seal-hunting-at-winter-breathing-holes
+  motif_id: seal_hunting_at_winter_breathing_holes
+  label: seal hunting at winter breathing holes
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Likely a seasonal subsistence detail, but may carry ritual or animal-spirit
+    significance depending on the source.
+  cautions: Winter specificity may be evidence detail rather than motif; compare with
+    seal_hunting_at_breathing_holes before indexing.
+  suggested_aliases:
+  - winter_seal_hunting_at_breathing_holes
+  - seal_hunting_breathing_holes_in_winter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seal-pupping-hole-hunt
+  motif_id: seal_pupping_hole_hunt
+  label: seal-pupping hole hunt
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a very specific hunting scene and may not be a reusable
+    motif without ritual or narrative function.
+  cautions: Review for culturally specific animal-human relations, hunting taboo,
+    or lifecycle ritual before exclusion.
+  suggested_aliases:
+  - seal_pupping_hole_hunting
+  - hunt_at_seal_pupping_hole
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sealed-container-opened-against-warning-releases-harmful-forces
+  motif_id: sealed_container_opened_against_warning_releases_harmful_forces
+  label: sealed container opened against warning releases harmful forces
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: A forbidden sealed container releasing destructive forces is explicitly
+    covered by sacred_vessel aliases and description.
+  cautions: May also support forbidden_knowledge or divine_judgment if the passage
+    emphasizes transgressive opening or punishment.
+  suggested_aliases:
+  - forbidden_opening_of_sealed_container_releases_harm
+  - sealed_container_releases_destructive_forces
+  - opened_sealed_vessel_releases_harmful_forces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sealed-enclosure-traps-the-opener-with-released-dangers
+  motif_id: sealed_enclosure_traps_the_opener_with_released_dangers
+  label: sealed enclosure traps the opener with released dangers
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: Opening a sealed enclosure that releases dangers fits the forbidden-container
+    pattern, though enclosure is spatial rather than a vessel.
+  cautions: If the main function is punishment of disobedience, add divine_judgment;
+    if the enclosure is a trap space, source review may be needed.
+  suggested_aliases:
+  - sealed_enclosure_releases_dangers
+  - forbidden_opening_of_sealed_enclosure
+  - opener_trapped_by_released_dangers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sealed-household-before-anticipated-violence
+  motif_id: sealed_household_before_anticipated_violence
+  label: sealed household before anticipated violence
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could be a defensive boundary act, a domestic ritual, or merely
+    an episode-specific precaution before violence.
+  cautions: Do not map to sacred_law or threshold patterns without evidence of ritual
+    prohibition, apotropaic sealing, or sacred boundary logic.
+  suggested_aliases:
+  - household_sealed_before_violence
+  - secured_household_before_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sealed-or-secured-object
+  motif_id: sealed_or_secured_object
+  label: Sealed or secured object
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Too broad to place reliably; a sealed object may be legal, ritual, protective,
+    funerary, or a power object depending on context.
+  cautions: If it contains sacred power or danger, sacred_vessel may fit; if it proves
+    ownership or identity, recognition_tokens_hidden_identity or exclusion may fit.
+  suggested_aliases:
+  - secured_object
+  - sealed_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sealed-property-gift-and-chosen-heir
+  motif_id: sealed_property_gift_and_chosen_heir
+  label: sealed property gift and chosen heir
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: Could involve succession and legitimate inheritance, but may simply be
+    a legal-documentary property record.
+  cautions: Map to royal_legitimacy only if the sealed gift authorizes succession
+    or chosen-heir status beyond ordinary administration.
+  suggested_aliases:
+  - sealed_inheritance_gift
+  - sealed_property_transfer_to_chosen_heir
+  - chosen_heir_property_gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sealed-receipt-as-proof-of-exchange
+  motif_id: sealed_receipt_as_proof_of_exchange
+  label: Sealed receipt as proof of exchange
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: A sealed receipt as transaction proof is an administrative artifact,
+    not a mythic or symbolic motif by itself.
+  cautions: If used narratively as an identity or obligation token, reassess under
+    recognition_tokens_hidden_identity or covenant.
+  suggested_aliases:
+  - sealed_receipt_proves_exchange
+  - sealed_transaction_receipt
+  - receipt_as_exchange_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several 'seal' labels are documentary/legal artifacts rather than motifs; distinguish
+  these from 'sealed container' labels involving sacred vessels or released dangers.
+- Inuit seal-hunting labels need source review before exclusion because subsistence
+  scenes may carry culturally specific ritual, taboo, or animal-personhood meanings.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review recommended for culturally
+    contextual hunting labels and ambiguous sealed-object records.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2520
+  input_sha256: 1c2447df319316c9e87c1ceb0d544737bcc476abcf6618d0574407d8eba805af
+

@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1373
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.misread-animal-calls-as-personal-speech
+  motif_id: misread_animal_calls_as_personal_speech
+  label: Misread animal calls as personal speech
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns interpretation of sounds as speech, but it is unclear
+    whether this is comic misunderstanding, omen-reading, animal communication, or
+    speech enchantment.
+  cautions: Single occurrence; may be a fable episode or passage-specific misunderstanding
+    rather than a durable motif. Review source context before mapping.
+  suggested_aliases:
+  - animal_calls_misread_as_human_speech
+  - misinterpreted_animal_sounds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misrecognition-through-language-performance
+  motif_id: misrecognition_through_language_performance
+  label: Misrecognition through language performance
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Language performance functions as an identity cue whose failure produces
+    misrecognition, matching the recognition/hidden-identity complex.
+  cautions: If the passage centers on ritual song, oral performance, or linguistic
+    competence rather than identity proof, storytelling_as_power or sacred_knowledge
+    may be better secondary mappings.
+  suggested_aliases:
+  - misrecognition_by_speech_performance
+  - language_performance_as_identity_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mission-worthy-truthful-envoy
+  motif_id: mission_worthy_truthful_envoy
+  label: Mission-worthy truthful envoy
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: low
+  rationale: The label appears to value truthfulness as a qualification for entrusted
+    speech or mission, which may fit ethical order.
+  cautions: Could be a character-quality detail, Buddhist ethical exemplum, or envoy-role
+    episode rather than a recurring motif. Source evidence needed.
+  suggested_aliases:
+  - truthful_envoy_chosen_for_mission
+  - trustworthy_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.missionary-contact-transformation-of-songs-and-supernatural-figures
+  motif_id: missionary_contact_transformation_of_songs_and_supernatural_figures
+  label: missionary-contact transformation of songs and supernatural figures
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes historical/reception transformation under missionary
+    contact rather than a narrative motif inside the tradition.
+  cautions: Preserve as provenance or reception-history note if important; do not
+    use as motif evidence or transmission claim in pattern queries.
+  suggested_aliases:
+  - missionary_contact_reworking_of_songs
+  - missionary_contact_reinterpretation_of_supernatural_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misworded-petition-brings-reward
+  motif_id: misworded_petition_brings_reward
+  label: misworded petition brings reward
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A petition's wording produces an unexpected outcome, making the performative
+    force of speech central.
+  cautions: If the reward comes from moral merit or divine generosity rather than
+    speech-act wording, sacred_exchange or divine_judgment may fit better.
+  suggested_aliases:
+  - mistaken_petition_rewarded
+  - misworded_request_with_beneficial_result
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moccasin-game-song
+  motif_id: moccasin_game_song
+  label: moccasin game song
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label names a game-associated song, which may involve ritualized
+    sound or performance power.
+  cautions: Culturally specific and possibly just an ethnographic song category; do
+    not map to enchanting_music unless the song has supernatural, ritual, or compelling
+    function in the source.
+  suggested_aliases:
+  - moccasin_game_song_performance
+  - game_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moccasin-game-song-rhythmic-pattern
+  motif_id: moccasin_game_song_rhythmic_pattern
+  label: moccasin game song rhythmic pattern
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a musical-form detail rather than a symbolic
+    or narrative motif.
+  cautions: If source evidence shows the rhythm has ritual or supernatural efficacy,
+    review under enchanting_music; otherwise preserve as performance/ethnographic
+    metadata only.
+  suggested_aliases:
+  - moccasin_game_rhythm
+  - game_song_rhythmic_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mocking-speech-aggravates-hostile-relations
+  motif_id: mocking_speech_aggravates_hostile_relations
+  label: mocking speech aggravates hostile relations
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mocking or flyting that worsens hostility aligns with pre-combat verbal
+    challenge and conflict escalation in the sacred_combat group.
+  cautions: If the passage is primarily a binding insult, curse, or feud speech-act
+    rather than combat escalation, curse_blessing_speech may be a better mapping.
+  suggested_aliases:
+  - mocking_speech_escalates_conflict
+  - taunting_speech_aggravates_hostility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monastic-craft-technique-corrected-by-authoritative-instruction
+  motif_id: monastic_craft_technique_corrected_by_authoritative_instruction
+  label: Monastic craft technique corrected by authoritative instruction
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: over_specific_label
+  confidence: low
+  rationale: Authoritative instruction correcting practice can fit sacred knowledge
+    or disciplined teaching, but the craft detail is highly contextual.
+  cautions: May be a monastic rule or commentary artifact rather than a mythic motif.
+    Review whether the correction carries symbolic, ethical, or ritual significance.
+  suggested_aliases:
+  - craft_corrected_by_authoritative_instruction
+  - authoritative_instruction_corrects_technique
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-associated-with-named-landscape-features
+  motif_id: monster_associated_with_named_landscape_features
+  label: Monster associated with named landscape features
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Association of a monster with named landscape features likely functions
+    as etiological landscape naming or formation, already grouped under cosmic_origin.
+  cautions: If the label only records a place association without explaining origin
+    or naming, it may be too thin for pattern queries; if the monster guards a place,
+    threshold_guardian may be relevant.
+  suggested_aliases:
+  - monster_linked_to_named_landscape
+  - monster_landscape_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence speech or performance labels; source context
+  is needed to distinguish motifs from ethnographic, musical, or editorial details.
+- Avoid treating missionary-contact or performance-form labels as evidence for transmission
+  or motif borrowing; these are better handled as provenance/reception metadata unless
+  a narrative motif is present.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific song and contact-history
+    labels require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1373
+  input_sha256: f7f01a70c7d280fdc628899836981176688f7a8fcdba8b61f0e7f925b809ce7a
+

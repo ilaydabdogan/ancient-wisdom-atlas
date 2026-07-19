@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2140
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.degenerate-age-expressed-through-animalization
+  motif_id: degenerate_age_expressed_through_animalization
+  label: Degenerate age expressed through animalization
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Animalization appears to express moral or cosmic degeneration across
+    an age, matching decline-through-time patterns more than literal shapeshifting.
+  cautions: If the passage describes actual transformation into animals, shapeshifter
+    may be a secondary mapping; one occurrence needs source review.
+  suggested_aliases:
+  - animalization_as_sign_of_cosmic_decline
+  - degenerate_age_animalization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-embodied-in-an-animal
+  motif_id: deity_embodied_in_an_animal
+  label: deity embodied in an animal
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: A deity taking animal embodiment may be shapeshifting, animal epiphany,
+    incarnation, or cultic identification depending on evidence.
+  cautions: Comparative label and single occurrence are too broad; do not collapse
+    divine animal embodiment into shapeshifter without passage context.
+  suggested_aliases:
+  - divine_animal_embodiment
+  - deity_in_animal_form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-identified-with-the-animal-that-injures-or-kills-him
+  motif_id: deity_identified_with_the_animal_that_injures_or_kills_him
+  label: deity identified with the animal that injures or kills him
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests death-linked animal identification, but the narrative
+    function is unclear from the generated wording.
+  cautions: May be comparative interpretation rather than motif; could involve sacrifice,
+    shapeshifter, animal taboo, or dying deity depending on source evidence.
+  suggested_aliases:
+  - deity_identified_with_killing_animal
+  - slain_deity_animal_identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-in-disguise-gives-warning-before-conflict
+  motif_id: deity_in_disguise_gives_warning_before_conflict
+  label: deity in disguise gives warning before conflict
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A disguised deity warning humans before conflict is direct divine guidance
+    in human affairs.
+  cautions: If the disguise is the main function, shapeshifter may be secondary; if
+    the warning is prophetic, prophecy_divination may also apply.
+  suggested_aliases:
+  - disguised_deity_warns_before_conflict
+  - divine_warning_before_battle_in_disguise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-paired-with-mortal-or-animal-figure-in-heading
+  motif_id: deity_paired_with_mortal_or_animal_figure_in_heading
+  label: Deity paired with mortal or animal figure in heading
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase explicitly describes a heading pattern rather than a narrative
+    or symbolic motif.
+  cautions: If underlying passages contain a deity-animal encounter, that evidence
+    should be indexed separately under the relevant motif.
+  suggested_aliases:
+  - deity_animal_heading_pair
+  - deity_mortal_heading_pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demons-and-dragon
+  motif_id: demons_and_dragon
+  label: demons and dragon
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: serpent_guardian
+  suggested_group_label: Serpent and Serpent Guardian
+  relationship: broader_label
+  confidence: low
+  rationale: A dragon can fall under the serpent/dragon complex, but the label is
+    broad and lists beings without a clear action.
+  cautions: If the passage centers combat against demons or a dragon, divine_warrior
+    or sacred_combat may be better; if merely a creature list, consider exclusion.
+  suggested_aliases:
+  - dragon_and_demons
+  - demonic_dragon_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dependence-on-an-animal-for-survival-and-clothing
+  motif_id: dependence_on_an_animal_for_survival_and_clothing
+  label: Dependence on an animal for survival and clothing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: Dependence on an animal may express reciprocal subsistence relations,
+    animal-helper logic, or an ethnographic detail.
+  cautions: Culturally sensitive and source-dependent; avoid reducing Indigenous human-animal
+    relations to a generic helper motif without evidence.
+  suggested_aliases:
+  - animal_provider_of_survival_and_clothing
+  - human_dependence_on_animal_provider
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.despised-or-sick-animal-revealed-as-supernatural-helper
+  motif_id: despised_or_sick_animal_revealed_as_supernatural_helper
+  label: despised or sick animal revealed as supernatural helper
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A lowly animal revealed as a supernatural helper fits divine or supernatural
+    aid through animal helpers.
+  cautions: Could also belong to a future animal-helper group if that granularity
+    is promoted; preserve despised/sick reversal as evidence detail.
+  suggested_aliases:
+  - despised_animal_revealed_as_helper
+  - sick_animal_as_supernatural_helper
+  - animal_helper_in_lowly_form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-by-fire-with-birds-emerging-from-heads
+  motif_id: destruction_by_fire_with_birds_emerging_from_heads
+  label: destruction by fire with birds emerging from heads
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: Fire destruction followed by birds emerging from bodies suggests death-linked
+    transformation, but the label is highly specific.
+  cautions: Could be metamorphosis, soul-bird imagery, ritual fire, or episode-specific
+    detail; review source before indexing broadly.
+  suggested_aliases:
+  - birds_emerge_from_heads_after_fire_destruction
+  - fire_death_bird_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-suspected-enemy-animal-form-by-burning
+  motif_id: destruction_of_suspected_enemy_animal_form_by_burning
+  label: Destruction of suspected enemy animal form by burning
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: The suspected enemy animal form may indicate shapeshifting or disguised
+    hostile agency, but the evidence is unclear.
+  cautions: May be too episode-specific or reflect local beliefs about enemies, animals,
+    and burning; source context is required before mapping to combat, judgment, or
+    transformation.
+  suggested_aliases:
+  - enemy_in_animal_form_destroyed_by_burning
+  - burning_suspected_animal_disguise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence animal-form labels where the difference
+  between literal shapeshifting, divine embodiment, animal helper, and comparative
+  commentary depends on passage evidence.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; animal embodiment and culturally specific human-animal
+    relation labels especially need source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2140
+  input_sha256: 48d0140b3b3f93c6d84b6d8b30fb332ae60d9f5a4c81f9103439e0fd38e584df
+

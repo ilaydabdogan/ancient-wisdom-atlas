@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0643
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unfamiliar-or-distinctive-vessel-for-water-travel
+  motif_id: unfamiliar_or_distinctive_vessel_for_water_travel
+  label: Unfamiliar or distinctive vessel for water travel
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a local travel object detail rather than a clear
+    recurring mythic function.
+  cautions: If the vessel preserves life through catastrophe, map to flood_and_renewal
+    or sacred_vessel; if it enables transformative water passage, consider sacred_waters.
+  suggested_aliases:
+  - distinctive_water_travel_vessel
+  - unusual_boat_or_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unforetold-loss-of-the-father-during-wandering
+  motif_id: unforetold_loss_of_the_father_during_wandering
+  label: unforetold loss of the father during wandering
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Loss of a parent during wandering functions as an exile or journey ordeal
+    within a larger quest arc.
+  cautions: Single occurrence and very contextual; if the emphasis is grief or funerary
+    duty, lament_and_mourning or heroic_funeral_rites may be better.
+  suggested_aliases:
+  - parental_loss_during_wandering
+  - loss_of_father_in_exile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unharmed-passage-through-ocean-depths
+  motif_id: unharmed_passage_through_ocean_depths
+  label: unharmed passage through ocean depths
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: high
+  rationale: Safe passage through ocean depths is a water-boundary crossing or miraculous
+    water passage motif.
+  cautions: Do not map to flood_and_renewal unless world-destruction and renewal are
+    present; may also involve divine_intervention if rescue is explicit.
+  suggested_aliases:
+  - safe_passage_through_ocean_depths
+  - miraculous_passage_through_deep_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unheeded-supernatural-visitor-crossing-enemy-camp
+  motif_id: unheeded_supernatural_visitor_crossing_enemy_camp
+  label: unheeded supernatural visitor crossing enemy camp
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve divine intervention, disguised passage, invisibility,
+    or a battle-camp omen depending on context.
+  cautions: Source evidence is needed to determine whether the visitor is a deity,
+    ghost, messenger, or narrative disguise; avoid assuming transmission or divine
+    agency.
+  suggested_aliases:
+  - supernatural_visitor_crosses_enemy_camp
+  - unnoticed_supernatural_camp_crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-conquest-and-royal-domination
+  motif_id: universal_conquest_and_royal_domination
+  label: Universal conquest and royal domination
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: high
+  rationale: Universal conquest and domination express cosmic or world-sovereign rulership.
+  cautions: If the passage emphasizes divine authorization of a historical king rather
+    than universal sovereignty, royal_legitimacy may be a secondary placement.
+  suggested_aliases:
+  - universal_royal_conquest
+  - world_conquest_by_sovereign
+  - royal_domination_of_all_lands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-fellowship-beyond-divisive-religious-names
+  motif_id: universal_fellowship_beyond_divisive_religious_names
+  label: Universal fellowship beyond divisive religious names
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a mystical teaching about unity beyond external religious
+    names, fitting the interior quest toward union.
+  cautions: May be a doctrinal or commentary abstraction rather than a narrative motif;
+    consider excluding if it only summarizes an ethical teaching.
+  suggested_aliases:
+  - mystical_fellowship_beyond_religious_names
+  - unity_beyond_religious_labels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-social-order-through-fixed-relationships
+  motif_id: universal_social_order_through_fixed_relationships
+  label: Universal social order through fixed relationships
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif concerns social order grounded in prescribed relationships
+    and ethical obligations.
+  cautions: May be philosophical doctrine rather than narrative motif; if the emphasis
+    is rulership hierarchy, royal_legitimacy may be relevant.
+  suggested_aliases:
+  - social_order_through_ordered_relationships
+  - fixed_relationships_as_social_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unnatural-chill-beside-a-large-fire-before-suitor-s-arrival
+  motif_id: unnatural_chill_beside_a_large_fire_before_suitor_s_arrival
+  label: Unnatural chill beside a large fire before suitor's arrival
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The episode may be an omen, supernatural presence, courtship sign, or
+    local narrative detail.
+  cautions: Highly specific single occurrence; source context is needed before mapping
+    to sacred_fire, prophecy_divination, sacred_love, or divine_intervention.
+  suggested_aliases:
+  - unnatural_chill_as_arrival_omen
+  - cold_beside_fire_before_suitor_arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unreachable-mounted-maiden-stopped-by-spoken-request
+  motif_id: unreachable_mounted_maiden_stopped_by_spoken_request
+  label: Unreachable mounted maiden stopped by spoken request
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label fits a courtship pursuit in which the beloved is unreachable
+    until addressed by proper speech.
+  cautions: Could instead belong under curse_blessing_speech if the speech act is
+    performative, or otherworld if the maiden is explicitly otherworldly.
+  suggested_aliases:
+  - unreachable_maiden_halted_by_request
+  - mounted_maiden_stopped_by_speech
+  - courtship_pursuit_resolved_by_spoken_request
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unrestricted-cosmological-wandering-of-the-adept
+  motif_id: unrestricted_cosmological_wandering_of_the_adept
+  label: unrestricted cosmological wandering of the adept
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Cosmological wandering by an adept expresses spiritual freedom and interior
+    transformation within a mystical path.
+  cautions: If the passage describes literal heavenly travel, ascent may be a better
+    secondary mapping; if it is philosophical commentary, treat as abstract teaching
+    rather than narrative motif.
+  suggested_aliases:
+  - cosmic_wandering_of_the_adept
+  - free_wandering_through_the_cosmos
+  - spiritual_adept_s_cosmological_wandering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several journey-bucket labels are single-occurrence and abstract or episode-specific;
+  human review should verify whether they are narrative motifs or interpretive summaries.
+- For water-travel labels, distinguish ordinary vessel details from sacred water passage,
+  flood renewal, or preserving vessel functions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0643
+  input_sha256: c0eef6ba86bed5643b9f11645cd4735b8413b90ad2b33acf33b576fa2dc7ec75
+

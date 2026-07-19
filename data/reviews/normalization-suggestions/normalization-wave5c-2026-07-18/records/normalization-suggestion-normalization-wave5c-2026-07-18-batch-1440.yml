@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1440
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.servant-scout-obtains-provisions-from-enemy-before-attack
+  motif_id: servant_scout_obtains_provisions_from_enemy_before_attack
+  label: servant-scout obtains provisions from enemy before attack
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Label may describe scouting, deception, provisioning, or a battle stratagem,
+    but the narrative function is unclear from wording alone.
+  cautions: Single occurrence and culturally specific; may be an episode detail rather
+    than a durable motif. Could fit sacred_combat or trickster if enemy deception
+    is central.
+  suggested_aliases:
+  - scout_obtains_enemy_provisions_before_attack
+  - enemy_provisions_obtained_by_scout
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-and-place-name-origin
+  motif_id: settlement_and_place_name_origin
+  label: Settlement and place-name origin
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The existing cosmic_origin group already includes place-name etiology
+    and ancestral or landscape naming patterns.
+  cautions: Broad etiological label; preserve settlement-specific evidence and avoid
+    treating as cosmic creation unless the source frames it as origins or world ordering.
+  suggested_aliases:
+  - settlement_origin_etiology
+  - place_name_origin
+  - settlement_place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-identity-linked-to-named-rocks
+  motif_id: settlement_identity_linked_to_named_rocks
+  label: settlement identity linked to named rocks
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Named rocks anchoring settlement identity fits existing etiological landscape
+    naming and place-origin patterns under cosmic_origin.
+  cautions: If the rocks function as sacred center, ancestor embodiment, or power
+    objects, axis_mundi, ancestor_rites, or sacred_treasures may be secondary; source
+    context needed.
+  suggested_aliases:
+  - named_rocks_anchor_settlement_identity
+  - settlement_identity_through_named_landscape_features
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-named-by-enclosure-or-land-use-feature
+  motif_id: settlement_named_by_enclosure_or_land_use_feature
+  label: settlement named by enclosure or land-use feature
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label is a place-name etiology for a settlement, matching existing
+    place naming under cosmic_origin.
+  cautions: May be a mundane toponymic note rather than mythic motif if no sacred,
+    ancestral, or etiological narrative is present.
+  suggested_aliases:
+  - settlement_name_from_land_use_feature
+  - place_name_from_enclosure_feature
+  - settlement_toponym_from_land_feature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-caves-as-named-place
+  motif_id: seven_caves_as_named_place
+  label: seven caves as named place
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to a named origin place, cave descent, ancestral
+    emergence, or simply a place-name artifact.
+  cautions: Culturally specific Nahua origin-place material should not be flattened
+    into cave/descent or toponymy without source evidence. Review for axis, origin,
+    migration, or ancestor functions.
+  suggested_aliases:
+  - seven_caves_origin_place
+  - chicomoztoc_as_named_place
+  - seven_caves_place_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sevenfold-division-of-the-inhabited-world
+  motif_id: sevenfold_division_of_the_inhabited_world
+  label: sevenfold division of the inhabited world
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A structured division of the inhabited world belongs to cosmological
+    ordering and world-structure patterns under cosmic_origin.
+  cautions: If the passage emphasizes sacred geography rather than creation or ordering,
+    axis_mundi or a future sacred_geography subgroup may be better. Preserve sevenfold
+    specificity.
+  suggested_aliases:
+  - sevenfold_world_division
+  - seven_regions_of_the_inhabited_world
+  - cosmic_geography_in_seven_regions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sevenfold-song-summons-deer
+  motif_id: sevenfold_song_summons_deer
+  label: Sevenfold song summons deer
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: A song that summons an animal fits music or song acting as supernatural
+    force to attract living beings.
+  cautions: Could also relate to hunting ritual or shamanic practice; preserve deer
+    and sevenfold performance details as evidence.
+  suggested_aliases:
+  - song_summons_deer
+  - ritual_song_summons_deer
+  - sevenfold_animal_summoning_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-authorization-of-restricted-song-performance
+  motif_id: shamanic_authorization_of_restricted_song_performance
+  label: Shamanic authorization of restricted song performance
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label concerns ritual authority and restricted performance of song,
+    but the governing motif could be sacred law, sacred knowledge, or sound power.
+  cautions: Culturally sensitive and likely context-dependent; avoid reducing shamanic
+    authorization to generic music without evidence of supernatural sound effect.
+  suggested_aliases:
+  - restricted_song_performance_authorized_by_shaman
+  - ritual_authorization_of_sacred_song
+  - shamanic_permission_for_song_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-foreknowledge-of-enemies-arriving-by-sea
+  motif_id: shamanic_foreknowledge_of_enemies_arriving_by_sea
+  label: Shamanic foreknowledge of enemies arriving by sea
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: role_variant
+  confidence: medium
+  rationale: Foreknowledge of arriving enemies is a prophetic or divinatory knowledge
+    function performed by a ritual specialist.
+  cautions: If the source frames this as spontaneous vision or dream rather than shamanic
+    divination, dream_and_vision may be better. Preserve sea-arrival and enemy-warning
+    details.
+  suggested_aliases:
+  - ritual_specialist_foresees_enemy_arrival
+  - shamanic_enemy_foreknowledge
+  - foreknowledge_of_enemies_arriving_by_sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-song-followed-by-supernatural-food-provision-in-famine
+  motif_id: shamanic_song_followed_by_supernatural_food_provision_in_famine
+  label: Shamanic song followed by supernatural food provision in famine
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The central outcome is supernatural provision of food in famine, which
+    fits divine_intervention and its miraculous provision aliases.
+  cautions: Song may also support enchanting_music or sacred_song, but do not map
+    primarily to music unless the song itself has the operative supernatural force
+    in the passage.
+  suggested_aliases:
+  - supernatural_food_provision_after_shamanic_song
+  - shamanic_song_brings_food_in_famine
+  - ritual_song_and_miraculous_food_provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence place-name or settlement etiology
+  items; preserve local specificity and exclude as mundane toponymy if no mythic or
+  sacred origin narrative is present.
+- Shamanic-song labels are culturally sensitive and should be checked against source
+  evidence before treating them as generic music, prophecy, or intervention motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; items with culturally specific ritual authority
+    or ambiguous named-place functions require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1440
+  input_sha256: 13bac6180d41e6e169f09094b5b9548b316fb06e72b11ada5acb5ab7d4afd248
+

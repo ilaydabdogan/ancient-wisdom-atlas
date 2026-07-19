@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3158
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.armed-hermit-in-a-remote-refuge
+  motif_id: armed_hermit_in_a_remote_refuge
+  label: armed hermit in a remote refuge
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines role, weapon status, and place; could be hermit encounter, refuge
+    episode, or combat threshold depending on context.
+  cautions: Single Arthurian occurrence and likely episode-specific; do not map to
+    sacred_combat or otherworld without passage evidence.
+  suggested_aliases:
+  - armed hermit
+  - remote hermit refuge
+  - armed recluse in refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-incumbent-awaiting-a-challenger
+  motif_id: armed_incumbent_awaiting_a_challenger
+  label: Armed incumbent awaiting a challenger
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: An armed holder of a position awaiting challenge fits ritualized contest
+    or succession-by-combat patterns.
+  cautions: If the incumbent is primarily a threshold guardian or royal office-holder,
+    secondary review under threshold_guardian or royal_legitimacy may be needed.
+  suggested_aliases:
+  - armed incumbent awaits challenger
+  - challenger confronts armed incumbent
+  - armed office-holder challenged
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-kin-like-pursuers-kill-a-protected-victim
+  motif_id: armed_kin_like_pursuers_kill_a_protected_victim
+  label: armed kin-like pursuers kill a protected victim
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes kinship, pursuit, failed protection, and killing; its
+    core function is unclear from wording alone.
+  cautions: Could involve betrayal, sacred combat, divine judgment, or a local kinship
+    narrative; culturally specific source evidence is needed.
+  suggested_aliases:
+  - kin-like pursuers kill protected victim
+  - armed pursuers kill protected victim
+  - protected victim killed by kin-like attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-night-watch-for-an-unknown-intruder
+  motif_id: armed_night_watch_for_an_unknown_intruder
+  label: Armed night watch for an unknown intruder
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A night watch may be a threshold, defense, recognition, or intrusion
+    episode, but the motif function is not explicit.
+  cautions: Single occurrence and context-dependent; map only if the intruder proves
+    supernatural, initiatory, or combat-relevant.
+  suggested_aliases:
+  - armed night watch
+  - watch for unknown intruder
+  - night vigil against intruder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-or-destructive-inland-dweller
+  motif_id: armed_or_destructive_inland_dweller
+  label: Armed or destructive inland-dweller
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to describe a local figure type or ethnogeographic role
+    rather than a clear narrative function.
+  cautions: May be person/place-only or culturally sensitive classification; avoid
+    broad pattern mapping without source context.
+  suggested_aliases:
+  - destructive inland dweller
+  - armed inland dweller
+  - inland-dweller as threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-rescue-of-a-companion
+  motif_id: armed_rescue_of_a_companion
+  label: armed rescue of a companion
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rescuing a companion through armed action fits a quest or ordeal episode
+    within heroic journey structure.
+  cautions: If combat itself is foregrounded, sacred_combat may be a secondary mapping;
+    if the companion is a beloved, sacred_love may also be relevant.
+  suggested_aliases:
+  - armed companion rescue
+  - rescue of companion by force
+  - hero rescues companion in arms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-status-display-before-conflict
+  motif_id: armed_status_display_before_conflict
+  label: armed status display before conflict
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: Displaying armed status before conflict fits warrior honor, martial proof,
+    and pre-combat heroic identity.
+  cautions: If the scene is purely social costume or rank display, it may be too specific;
+    sacred_combat is a possible secondary group if duel/battle ritual is central.
+  suggested_aliases:
+  - armed display before conflict
+  - martial status display
+  - warrior status display before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-women-or-defensive-community-associated-with-amazon-reports
+  motif_id: armed_women_or_defensive_community_associated_with_amazon_reports
+  label: Armed women or defensive community associated with Amazon reports
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: low
+  rationale: The phrase 'associated with Amazon reports' suggests ethnographic/reporting
+    context rather than a stable narrative motif.
+  cautions: Culturally sensitive and possibly a colonial or comparative report artifact;
+    verify source before mapping to sacred_combat or social-order motifs.
+  suggested_aliases:
+  - armed women defensive community
+  - defensive community of armed women
+  - Amazon-associated armed women reports
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-wrath
+  motif_id: armed_wrath
+  label: armed wrath
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed; it may name personified Wrath, a demon,
+    moral force, or martial anger.
+  cautions: Do not map merely from 'armed' to combat; Zoroastrian context may involve
+    ethical dualism or demonic personification.
+  suggested_aliases:
+  - armed personified wrath
+  - wrath bearing arms
+  - martial wrath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arming-before-nocturnal-mission
+  motif_id: arming_before_nocturnal_mission
+  label: arming before nocturnal mission
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Preparation with arms before a night mission fits martial raid or combat-ordeal
+    patterning.
+  cautions: Could be over-specific scene setup; if the nocturnal mission is deception
+    or quest rescue, trickster or hero_journey may be secondary.
+  suggested_aliases:
+  - arming for night mission
+  - night raid arming
+  - armed preparation for nocturnal mission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and generated around the word
+  'armed'; avoid automatic placement into combat groups unless the passage shows contest,
+  ordeal, warfare, or warrior status as the motif function.
+- Items with ethnographic/reporting phrasing or culturally specific figure types should
+  receive human source review before inclusion in Pattern Explorer queries.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple single-occurrence labels may be episode
+    details rather than durable motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3158
+  input_sha256: 8884f9fb97fc73bba98e5a7ef663f6f52187f3432b6f89b06950b66e271d4684
+

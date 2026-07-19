@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1236
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.moccasin-game-song-performance-pattern
+  motif_id: moccasin_game_song_performance_pattern
+  label: moccasin game song performance pattern
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a culturally specific song-performance
+    context rather than a clear symbolic or narrative motif.
+  cautions: Needs source review for whether songs function as sacred power, ritual
+    game practice, or ethnographic/performance metadata; avoid flattening Native song
+    traditions into generic music motifs.
+  suggested_aliases:
+  - moccasin game song pattern
+  - moccasin game performance song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - storytelling_as_power
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-praise-of-former-enemies-in-song
+  motif_id: reciprocal_praise_of_former_enemies_in_song
+  label: Reciprocal praise of former enemies in song
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Song functions as a performative medium for re-framing enemy relations
+    and transmitting social memory.
+  cautions: Could also belong with sacred_exchange, covenant, or lament if the passage
+    emphasizes reconciliation, obligation, or mourning rather than song performance.
+  suggested_aliases:
+  - former enemies praised in song
+  - reciprocal enemy praise song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rhythmic-resemblance-among-related-song-groups
+  motif_id: rhythmic_resemblance_among_related_song_groups
+  label: rhythmic resemblance among related song groups
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes analytical comparison of song structure rather than
+    a narrative or symbolic motif.
+  cautions: Preserve as musicological or source metadata if useful; do not use as
+    a cross-tradition motif without evidence of narrative function.
+  suggested_aliases:
+  - related song groups share rhythmic resemblance
+  - rhythmic similarity among song groups
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rhythmic-unit-as-song-nucleus
+  motif_id: rhythmic_unit_as_song_nucleus
+  label: Rhythmic unit as song nucleus
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a formal musicological observation about song composition, not
+    a mythic motif.
+  cautions: May be retained for performance analysis but should be excluded from motif
+    pattern queries unless tied to a sacred narrative function.
+  suggested_aliases:
+  - rhythmic nucleus of song
+  - song built around rhythmic unit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-play-and-animal-war-in-children-s-songs
+  motif_id: war_play_and_animal_war_in_children_s_songs
+  label: war play and animal war in children's songs
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes children's song genre, play, animals, and war imagery
+    without a clear primary motif function.
+  cautions: Could be performance metadata, animal fable imagery, play-socialization,
+    or sacred combat parody; source context is required before mapping.
+  suggested_aliases:
+  - children's songs about war play and animal war
+  - animal war in children's songs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - sacred_combat
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-feather-or-birdskin-charm-in-song
+  motif_id: warrior_feather_or_birdskin_charm_in_song
+  label: warrior feather or birdskin charm in song
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A feather or birdskin charm used with warrior power fits sacred or protective
+    power objects.
+  cautions: If the song performance rather than the charm is primary, storytelling_as_power
+    or enchanting_music may be a secondary mapping; culturally specific charm meanings
+    need review.
+  suggested_aliases:
+  - warrior feather charm in song
+  - birdskin charm in warrior song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-elder-secretly-provisioned-by-son
+  motif_id: abandoned_elder_secretly_provisioned_by_son
+  label: Abandoned elder secretly provisioned by son
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Secret care for an abandoned elder centers on filial duty and social
+    obligation, already related to sacred law and care ethics.
+  cautions: Single occurrence; if the episode is mainly plot setup or family drama,
+    preserve as evidence detail rather than canonical motif.
+  suggested_aliases:
+  - secret provisioning of abandoned elder
+  - son secretly feeds abandoned elder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-wounded-warrior-provisioned-for-survival
+  motif_id: abandoned_wounded_warrior_provisioned_for_survival
+  label: abandoned wounded warrior provisioned for survival
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: A wounded warrior's survival after abandonment fits the heroic-warrior
+    ordeal field better than wisdom or vision motifs.
+  cautions: Could instead be social care, betrayal, or journey survival depending
+    on who provisions the warrior and why; single occurrence is episode-specific.
+  suggested_aliases:
+  - wounded warrior provisioned after abandonment
+  - abandoned warrior supplied for survival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - betrayal_violated_trust
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoning-a-hunt-after-frightening-supernatural-or-unusual-speech
+  motif_id: abandoning_a_hunt_after_frightening_supernatural_or_unusual_speech
+  label: Abandoning a hunt after frightening supernatural or unusual speech
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Unusual or supernatural speech changes human action, functioning as potent
+    sacred utterance or warning.
+  cautions: If the speech is a vision, omen, animal speech, or trickster deception,
+    dream_and_vision, prophecy_divination, or trickster may fit better; source evidence
+    needed.
+  suggested_aliases:
+  - hunt abandoned after supernatural speech
+  - frightening speech interrupts hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abducted-victim-s-rescue-call-song
+  motif_id: abducted_victim_s_rescue_call_song
+  label: Abducted victim’s rescue-call song
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A song used as a rescue call makes voice or song an active power for
+    communication and deliverance.
+  cautions: May also involve abduction-rescue plot, otherworld captivity, or sacred
+    love depending on who hears and rescues; single occurrence is specific.
+  suggested_aliases:
+  - rescue call song of abducted victim
+  - abducted victim calls for rescue by song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several unmapped labels in this batch appear to come from song-performance or musicological
+  analysis rather than mythic motif extraction; human review should separate performance
+  metadata from motifs where song has narrative or ritual agency.
+- For Native American song materials, preserve culturally specific context and avoid
+  mapping solely by generic terms such as song, rhythm, or charm.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific song/performance labels
+    require source-aware review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1236
+  input_sha256: 9732b2272e4567c1a34f9f793fb398f8a682b9413f64532124043010cd8aed18
+

@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2723
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-taunt-followed-by-failed-strike-and-lethal-counterblow
+  motif_id: heroic_taunt_followed_by_failed_strike_and_lethal_counterblow
+  label: Heroic taunt followed by failed strike and lethal counterblow
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a granular combat-sequence variant involving taunt, failed
+    attack, and counterblow, fitting sacred_combat more than divine_warrior.
+  cautions: Single occurrence and highly episode-specific; preserve as evidence detail
+    rather than promoting as a motif.
+  suggested_aliases:
+  - taunt_followed_by_failed_strike_and_counterblow
+  - failed_strike_and_lethal_counterblow_after_taunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-thief-as-paradoxical-exemplum
+  motif_id: heroic_thief_as_paradoxical_exemplum
+  label: Heroic thief as paradoxical exemplum
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A heroic thief could fit trickster or sacred_theft, but 'paradoxical
+    exemplum' may describe rhetorical framing rather than a narrative motif.
+  cautions: Review source context to determine whether theft is a mythic action, moral
+    exemplum, or commentary artifact.
+  suggested_aliases:
+  - heroic_thief_exemplum
+  - paradoxical_thief_as_exemplum
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-traditions-blended-into-pseudo-history
+  motif_id: heroic_traditions_blended_into_pseudo_history
+  label: Heroic traditions blended into pseudo-history
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes historiographic or editorial treatment of heroic
+    traditions rather than a symbolic or narrative motif.
+  cautions: Preserve as provenance or reception metadata if useful; do not use as
+    motif evidence.
+  suggested_aliases:
+  - heroic_material_blended_into_pseudohistory
+  - heroic_tradition_as_pseudo_history
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-vengeance-against-a-sorcerer
+  motif_id: heroic_vengeance_against_a_sorcerer
+  label: heroic vengeance against a sorcerer
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Vengeance by a hero against a magical adversary is a combat-conflict
+    pattern and fits existing sacred_combat coverage.
+  cautions: If the sorcerer’s role or magic is central, source review may also support
+    divine_intervention, sacred_knowledge, or trickster-related indexing.
+  suggested_aliases:
+  - heroic_vengeance_against_magical_adversary
+  - vengeance_against_a_sorcerer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-verbal-challenge-through-epithets
+  motif_id: heroic_verbal_challenge_through_epithets
+  label: Heroic verbal challenge through epithets
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A verbal challenge before combat aligns with sacred_combat aliases for
+    flyting, boasting, and prebattle verbal challenge.
+  cautions: Could also touch curse_blessing_speech if epithets are performative or
+    binding rather than merely martial taunts.
+  suggested_aliases:
+  - martial_epithet_challenge
+  - heroic_challenge_by_epithets
+  - precombat_epithet_challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-warrior-catalogue
+  motif_id: heroic_warrior_catalogue
+  label: heroic warrior catalogue
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A warrior catalogue may be a narrative form or textual device rather
+    than a symbolic motif, though it may support divine_warrior or sacred_combat.
+  cautions: Review whether the catalogue establishes sacred combat function, heroic
+    identity, lineage, or is merely a literary enumeration.
+  suggested_aliases:
+  - catalogue_of_heroic_warriors
+  - heroic_combatant_catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-warrior-image-for-conquering-inner-afflictions
+  motif_id: heroic_warrior_image_for_conquering_inner_afflictions
+  label: Heroic warrior image for conquering inner afflictions
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The warrior image is metaphorical for inner discipline and spiritual
+    struggle, fitting mystical_quest more than literal combat.
+  cautions: Do not map to divine_warrior unless the passage presents actual sacred
+    combat rather than contemplative metaphor.
+  suggested_aliases:
+  - inner_afflictions_conquered_as_warfare
+  - spiritual_warrior_against_inner_afflictions
+  - warrior_metaphor_for_inner_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-warrior-introduced-through-catalogue-of-unmatched-abilities
+  motif_id: heroic_warrior_introduced_through_catalogue_of_unmatched_abilities
+  label: heroic warrior introduced through catalogue of unmatched abilities
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The catalogue establishes an extraordinary warrior identity, fitting
+    divine_warrior’s heroic ability and martial prowess field.
+  cautions: May be a literary introduction device; if no sacred or supernatural warrior
+    function is present, treat as evidence detail.
+  suggested_aliases:
+  - catalogue_of_unmatched_warrior_abilities
+  - extraordinary_warrior_ability_catalogue
+  - hero_introduced_by_martial_abilities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-warrior-marked-by-fixed-martial-epithet
+  motif_id: heroic_warrior_marked_by_fixed_martial_epithet
+  label: Heroic warrior marked by fixed martial epithet
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A fixed epithet may mark heroic identity, but it can also be a formulaic
+    textual feature rather than a motif.
+  cautions: Review whether the epithet has narrative force, ritual identity, or is
+    merely a style/formula marker.
+  suggested_aliases:
+  - fixed_martial_epithet
+  - formulaic_warrior_epithet
+  - hero_marked_by_martial_epithet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-watcher-with-extraordinary-sight-fails-after-momentary-sleep
+  motif_id: heroic_watcher_with_extraordinary_sight_fails_after_momentary_sleep
+  label: Heroic watcher with extraordinary sight fails after momentary sleep
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines supernatural perception, vigilance failure, and sleep;
+    existing groups do not clearly capture the main function without source context.
+  cautions: Could fit dream_and_vision, divine_warrior, initiation ordeal, or be an
+    over-specific episode detail; review passage evidence before mapping.
+  suggested_aliases:
+  - extraordinary_watcher_fails_through_sleep
+  - watcher_with_supernatural_sight_overcome_by_sleep
+  - momentary_sleep_causes_watchman_failure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence heroic-combat micro-sequences;
+  map cautiously as evidence details rather than new taxonomy motifs.
+- Formulaic catalogues and epithets may be textual or stylistic artifacts unless the
+  source shows narrative or ritual function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for rhetorically framed,
+    formulaic, and highly specific heroic labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2723
+  input_sha256: 2bf62f559949c1d8da1a10cd0f73354725e0b1031d51bd058f171ebf1bda2eb8
+

@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3011
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacralized-pastoral-household-and-cattle
+  motif_id: sacralized_pastoral_household_and_cattle
+  label: Sacralized pastoral household and cattle
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe sacral regulation of household and cattle, fitting
+    sacred social order or purity obligations.
+  cautions: Single occurrence and culturally specific; could also involve sacred_exchange,
+    sacred_substance, pastoral economy, or Zoroastrian ritual law depending on source
+    evidence.
+  suggested_aliases:
+  - sacred pastoral household
+  - sacralized cattle household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.safe-vessel-with-individual-loss
+  motif_id: safe_vessel_with_individual_loss
+  label: safe vessel with individual loss
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: uncertain
+  confidence: low
+  rationale: A protective vessel suggests the sacred-vessel or preserving-container
+    complex, but the individual-loss function is unclear.
+  cautions: Could be an episode-specific artifact, a shipwreck/survival detail, or
+    an ark_vessel variant; source context needed before mapping.
+  suggested_aliases:
+  - protective vessel with loss
+  - safe container with individual loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.safety-limited-to-the-refuge-boundary
+  motif_id: safety_limited_to_the_refuge_boundary
+  label: safety limited to the refuge boundary
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a boundary whose protection holds only within a
+    delimited refuge space.
+  cautions: If no guardian or threshold ordeal is present, this may fit sacred_law/apotropaic
+    boundary or otherworld protection instead.
+  suggested_aliases:
+  - limited refuge boundary
+  - safety within refuge boundary
+  - protected boundary refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.salvific-bringing-to-the-shore
+  motif_id: salvific_bringing_to_the_shore
+  label: salvific bringing to the shore
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Being brought safely to shore fits water as a boundary crossed through
+    rescue or liberation.
+  cautions: Buddhist salvific metaphor may instead belong to mystical_quest or sacred_knowledge
+    if shore means enlightenment rather than literal water passage.
+  suggested_aliases:
+  - saving arrival at shore
+  - brought safely to shore
+  - salvific shore crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.same-fable-variant-marker
+  motif_id: same_fable_variant_marker
+  label: Same-fable variant marker
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a comparative variant marker rather than a narrative
+    motif.
+  cautions: Preserve only as provenance or variant-note metadata; do not use in motif
+    pattern queries.
+  suggested_aliases:
+  - fable variant marker
+  - same fable marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saviours-bring-completed-progress-after-conflict
+  motif_id: saviours_bring_completed_progress_after_conflict
+  label: Saviours bring completed progress after conflict
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: Post-conflict saviors completing progress may indicate renewal after
+    cosmic struggle or final transformation.
+  cautions: Likely Zoroastrian eschatological context; could fit divine_judgment,
+    world_ages_cosmic_decline, divine_warrior, or catastrophe renewal depending on
+    evidence.
+  suggested_aliases:
+  - saviors complete progress after conflict
+  - post-conflict salvific completion
+  - saviours after final conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scattering-treasure-to-delay-pursuers
+  motif_id: scattering_treasure_to_delay_pursuers
+  label: Scattering treasure to delay pursuers
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Using treasure as a distraction to escape pursuers is a stratagem of
+    deception and boundary evasion.
+  cautions: If the treasure itself is the focus, sacred_treasures may be a secondary
+    mapping; if merely a chase detail, keep granular.
+  suggested_aliases:
+  - treasure scattered to delay pursuit
+  - distraction by scattered treasure
+  - escape by scattering valuables
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.schism-marked-by-mutual-heresy-accusation
+  motif_id: schism_marked_by_mutual_heresy_accusation
+  label: schism marked by mutual heresy accusation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Mutual heresy accusation concerns boundaries of sacred community and
+    doctrinal order.
+  cautions: May be historical/theological commentary rather than motif; culturally
+    sensitive and needs source-level review before indexing.
+  suggested_aliases:
+  - mutual heresy accusation in schism
+  - sectarian schism by heresy accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scoring-by-tally-sticks
+  motif_id: scoring_by_tally_sticks
+  label: Scoring by tally sticks
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to record a game or counting mechanism rather than
+    a symbolic narrative motif.
+  cautions: If tally sticks function as sacred lots, divination, or covenant records
+    in the source, review under prophecy_divination or sacred_law instead.
+  suggested_aliases:
+  - tally-stick scoring
+  - score kept by tally sticks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scriptures-wrapped-and-housed-in-chests
+  motif_id: scriptures_wrapped_and_housed_in_chests
+  label: Scriptures wrapped and housed in chests
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred texts enclosed and protected in chests fit sacred container use
+    around holy knowledge.
+  cautions: Could also index under sacred_knowledge if the emphasis is scripture as
+    revelation rather than the ritual housing of texts.
+  suggested_aliases:
+  - scripture chest
+  - sacred texts housed in chests
+  - wrapped scriptures in chests
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and context-dependent; suggested placements
+  are provisional.
+- Objects/spaces bucket includes some likely meta or historical-theological artifacts
+  that should not be used in broad motif queries without passage evidence.
+- Avoid treating Zoroastrian eschatological labels as generic renewal motifs until
+  source context confirms function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human taxonomy review required for
+    ambiguous and culturally specific items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3011
+  input_sha256: 96a218da9d3adc44e4f6972465e8bd9391e118c29ea263fcd8ab86f2f62b5471
+

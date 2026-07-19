@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3805
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.problem-report-rule-response-sequence
+  motif_id: problem_report_rule_response_sequence
+  label: Problem-report-rule response sequence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a redactional or procedural text-formula for legal
+    rule creation rather than a symbolic motif.
+  cautions: If passage evidence shows a recurring sacred-law adjudication narrative,
+    review under sacred_law or covenant instead.
+  suggested_aliases:
+  - problem_report_rule_response_formula
+  - problem_report_followed_by_rule_response
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.problem-reported-and-permission-granted
+  motif_id: problem_reported_and_permission_granted
+  label: Problem reported and permission granted
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A reported case leading to permitted conduct fits sacred or monastic
+    rule-making and social order.
+  cautions: Could be merely a Vinaya procedural artifact if the passage only records
+    formulaic adjudication; preserve as evidence detail.
+  suggested_aliases:
+  - reported_problem_permission_granted
+  - case_report_followed_by_permission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.problem-reported-followed-by-permission-or-prohibition
+  motif_id: problem_reported_followed_by_permission_or_prohibition
+  label: problem reported followed by permission or prohibition
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Permission or prohibition after a reported case is a legal-regulatory
+    pattern within sacred law.
+  cautions: Formulaic source structure may make this a textual artifact rather than
+    a motif; human review should verify narrative or ritual significance.
+  suggested_aliases:
+  - case_report_followed_by_permission_or_prohibition
+  - reported_problem_with_regulatory_response
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.problematic-dependent-passes-between-owners
+  motif_id: problematic_dependent_passes_between_owners
+  label: Problematic dependent passes between owners
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe legal dependency, enslavement, household transfer,
+    or a plot-specific social detail.
+  cautions: Culturally and legally contextual; avoid mapping without source evidence
+    about sacred law, violated trust, or social order.
+  suggested_aliases:
+  - troublesome_dependent_transferred_between_owners
+  - dependent_passes_between_masters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.procedural-exclusion-from-communal-religious-recitation
+  motif_id: procedural_exclusion_from_communal_religious_recitation
+  label: procedural exclusion from communal religious recitation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Exclusion from communal recitation is a disciplinary and ritual-boundary
+    rule within sacred law.
+  cautions: If the passage is only procedural rubric, it may be better excluded as
+    a textual/legal artifact.
+  suggested_aliases:
+  - exclusion_from_communal_recitation
+  - disciplinary_exclusion_from_religious_recitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.procedural-repetition-to-establish-legal-validity
+  motif_id: procedural_repetition_to_establish_legal_validity
+  label: procedural repetition to establish legal validity
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Repetition required for valid legal action fits formal sacred or social-law
+    procedure.
+  cautions: May be a saga legal technicality rather than a mythic motif; verify recurrence
+    or ritual significance before broad indexing.
+  suggested_aliases:
+  - legal_validity_by_repeated_formula
+  - procedural_repetition_confers_validity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.procedural-reversal-through-priority-of-summons
+  motif_id: procedural_reversal_through_priority_of_summons
+  label: procedural reversal through priority of summons
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a specific legal-strategy detail whose broader symbolic
+    function is unclear.
+  cautions: Could fit sacred_law if the legal order is thematically central, but it
+    may be too technical for pattern queries.
+  suggested_aliases:
+  - priority_of_summons_reverses_legal_procedure
+  - legal_reversal_by_prior_summons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.procedural-validity-through-matched-charge-and-confession
+  motif_id: procedural_validity_through_matched_charge_and_confession
+  label: Procedural validity through matched charge and confession
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A charge and confession matching to validate procedure belongs to disciplinary
+    sacred law and adjudication.
+  cautions: Likely over-specific; if only a Vinaya technical rule, keep as evidence
+    detail rather than query motif.
+  suggested_aliases:
+  - matched_charge_and_confession_validate_procedure
+  - legal_validity_by_charge_confession_match
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.processional-begging-party-with-carried-drum
+  motif_id: processional_begging_party_with_carried_drum
+  label: processional begging party with carried drum
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a culturally specific procession involving begging
+    and a drum, but its ritual function is not provided.
+  cautions: Handle with cultural sensitivity; could relate to sacred_exchange, sacrifice,
+    sacred_music, or local ceremonial practice depending on evidence.
+  suggested_aliases:
+  - begging_procession_with_drum
+  - drum_carried_in_processional_begging_party
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.processional-connection-between-monks-and-bier-by-white-cloth
+  motif_id: processional_connection_between_monks_and_bier_by_white_cloth
+  label: Processional connection between monks and bier by white cloth
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: low
+  rationale: A funerary procession linking monks and bier by cloth is a mortuary rite
+    and memorial practice.
+  cautions: May be too specific and not necessarily heroic; ancestor_rites or afterlife_passage
+    may fit better if the cloth mediates care for the dead soul.
+  suggested_aliases:
+  - white_cloth_link_between_monks_and_bier
+  - funerary_procession_cloth_connection_to_bier
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Buddhist items appear to be Vinaya/legal procedure formulas; map to sacred_law
+  only when they function as religious discipline motifs, otherwise preserve as textual
+  or procedural artifacts.
+- Single-occurrence legal and ritual-processional labels need source review before
+  promotion as reusable Pattern Explorer motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items may be over-specific procedural
+    or ethnographic details.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3805
+  input_sha256: 5240c45967636ed0af56cb1200d6d9dc5276a58df06eaeb7ddfb2efdc9911ed7
+

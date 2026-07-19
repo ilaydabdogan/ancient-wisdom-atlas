@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1681
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ruler-humbles-himself-before-the-needed-hero
+  motif_id: ruler_humbles_himself_before_the_needed_hero
+  label: ruler humbles himself before the needed hero
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ruler's humility before a necessary hero concerns the maintenance or
+    restoration of legitimate rule through dependence on heroic aid.
+  cautions: Single occurrence; could be only an episode-specific court scene unless
+    the ruler's legitimacy or order is at stake.
+  suggested_aliases:
+  - king_humbles_himself_before_needed_hero
+  - ruler_seeks_help_from_needed_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-ignores-distress-during-a-feast
+  motif_id: ruler_ignores_distress_during_a_feast
+  label: Ruler ignores distress during a feast
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may imply failed kingship, violated hospitality, moral negligence,
+    or merely a plot detail around a feast.
+  cautions: Needs passage evidence to decide between royal_legitimacy, sacred_law,
+    hospitality_test_stranger_guest, divine_judgment, or exclusion as over-specific.
+  suggested_aliases:
+  - king_ignores_distress_at_feast
+  - ruler_feasts_while_distress_goes_unanswered
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-in-a-stone-town-supported-by-an-island-population
+  motif_id: ruler_in_a_stone_town_supported_by_an_island_population
+  label: ruler in a stone-town supported by an island population
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a highly local setting or polity description rather than
+    a reusable narrative motif.
+  cautions: If the stone town is a sacred center or the island support encodes ritual
+    kingship, review could map it to royal_legitimacy or axis_mundi instead.
+  suggested_aliases:
+  - ruler_in_stone_town
+  - island_population_supports_stone_town_ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-in-disguise-enters-the-enemy-camp
+  motif_id: ruler_in_disguise_enters_the_enemy_camp
+  label: Ruler in disguise enters the enemy camp
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Disguise and crossing into an enemy camp function as boundary-crossing
+    deception, even when performed by a ruler.
+  cautions: If the emphasis is battlefield strategy rather than disguise or liminality,
+    sacred_combat may be a better secondary placement.
+  suggested_aliases:
+  - king_in_disguise_enters_enemy_camp
+  - ruler_disguised_in_enemy_camp
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-investigates-testimony-but-reaches-a-destructive-judgment
+  motif_id: ruler_investigates_testimony_but_reaches_a_destructive_judgment
+  label: ruler investigates testimony but reaches a destructive judgment
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on judicial evaluation and destructive consequences,
+    fitting the judgment and moral reckoning complex.
+  cautions: Because the judge is a human ruler, confirm whether sacred or moral order
+    is foregrounded; otherwise it may be a legal plot detail.
+  suggested_aliases:
+  - ruler_reaches_destructive_judgment_after_testimony
+  - destructive_judgment_after_investigated_testimony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-involvement-in-religious-coercion
+  motif_id: ruler_involvement_in_religious_coercion
+  label: ruler involvement in religious coercion
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is abstract and culturally sensitive; it may describe oppressive
+    rule, sacred law enforcement, conversion pressure, or commentary.
+  cautions: Review source context carefully; avoid turning a polemical or historical
+    summary into a motif without narrative evidence.
+  suggested_aliases:
+  - ruler_enforces_religion_by_coercion
+  - royal_religious_coercion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-manufactures-war-to-preserve-dependence
+  motif_id: ruler_manufactures_war_to_preserve_dependence
+  label: Ruler manufactures war to preserve dependence
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ruler creating war to keep others dependent makes broken political
+    trust the narrative engine.
+  cautions: Could also support pride_and_downfall or sacred_combat if the passage
+    emphasizes hubris or warfare rather than betrayal of dependents.
+  suggested_aliases:
+  - manufactured_war_to_preserve_dependence
+  - ruler_creates_conflict_to_maintain_control
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-or-minister-as-wind-people-as-grass
+  motif_id: ruler_or_minister_as_wind_people_as_grass
+  label: Ruler or minister as wind, people as grass
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: 'The image expresses moral-political influence within social order: the
+    ruler''s virtue bends or guides the people.'
+  cautions: This may be a teaching metaphor rather than narrative motif; preserve
+    the Confucian ethical context and avoid reading it as cosmic sovereignty.
+  suggested_aliases:
+  - ruler_as_wind_people_as_grass
+  - minister_as_wind_people_as_grass
+  - moral_influence_of_ruler_over_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-releases-and-rewards-one-hero-while-assigning-a-harsh-object-to-another-figure
+  motif_id: ruler_releases_and_rewards_one_hero_while_assigning_a_harsh_object_to_another_figure
+  label: ruler releases and rewards one hero while assigning a harsh object to another
+    figure
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is an over-specific plot outcome combining reward, release,
+    and an unclear object assignment.
+  cautions: If the harsh object is a recognized ordeal, punishment, or power object,
+    review could remap to divine_judgment, sacred_treasures, or royal_legitimacy.
+  suggested_aliases:
+  - ruler_rewards_one_hero_and_punishes_another
+  - differential_royal_reward_and_harsh_assignment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-restores-disrupted-bond
+  motif_id: ruler_restores_disrupted_bond
+  label: ruler restores disrupted bond
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is repairing a broken bond or relationship, which fits
+    the sacred bond and social-order repair complex.
+  cautions: If the ruler's compassion is the main point, sacred_law or divine_judgment
+    may be secondary; passage evidence should clarify the bond's nature.
+  suggested_aliases:
+  - king_restores_disrupted_bond
+  - ruler_repairs_broken_relationship
+  - royal_restoration_of_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence ruler scenes; treat suggested placements as
+  provisional and preserve local narrative evidence.
+- Avoid inferring transmission or shared origin from placement in royal, judgment,
+  or social-order groups.
+- Labels involving religious coercion or local Micronesian polity descriptions need
+  especially careful source review before pattern-query inclusion.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 1681; multiple
+    single-occurrence and over-specific ruler motifs require human validation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1681
+  input_sha256: 586e4bc43b38259c94b320e2055972b606d942db4ee93e974e9cfe453ec7fef2
+

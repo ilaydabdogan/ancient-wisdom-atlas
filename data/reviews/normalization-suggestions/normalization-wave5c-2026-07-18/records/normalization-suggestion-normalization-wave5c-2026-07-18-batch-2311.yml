@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2311
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.brain-eating-abductor-kills-victim-at-rocks
+  motif_id: brain_eating_abductor_kills_victim_at_rocks
+  label: brain-eating abductor kills victim at rocks
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a violent episode involving abduction, killing, and
+    cannibalistic detail, but no clear existing group is supported from the label
+    alone.
+  cautions: Single occurrence and highly episode-specific; may belong under sacred_combat,
+    trickster/predator deception, threshold danger, or be excluded as a passage detail
+    depending on source context.
+  suggested_aliases:
+  - cannibal_abductor_kills_victim
+  - abductor_kills_victim_at_rocks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.breath-or-wind-as-earth-moving-force
+  motif_id: breath_or_wind_as_earth_moving_force
+  label: Breath or wind as earth-moving force
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Breath or wind moving earth sounds like a cosmogonic or landscape-forming
+    force within creation and world-shaping motifs.
+  cautions: If the passage is only a natural explanation or local weather observation,
+    it may be too specific; consider sacred_fire or divine_intervention only if breath
+    is a personal sacred agent.
+  suggested_aliases:
+  - wind_as_earth_moving_force
+  - breath_as_landscape_shaping_force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.breath-used-to-intensify-fire-and-transform-objects
+  motif_id: breath_used_to_intensify_fire_and_transform_objects
+  label: Breath used to intensify fire and transform objects
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is fire intensified as a transformative force, fitting
+    sacred fire as medium of transformation.
+  cautions: If the emphasis is craft production rather than sacred fire, sacred_craft
+    may be a secondary fit; if ordinary technique, it may be an over-specific passage
+    detail.
+  suggested_aliases:
+  - breath_intensifies_transforming_fire
+  - fire_transformation_by_breath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.breeding-constrained-by-habitat-and-food-availability
+  motif_id: breeding_constrained_by_habitat_and_food_availability
+  label: Breeding constrained by habitat and food availability
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like ecological explanation or ethnographic/naturalistic
+    observation rather than a mythic motif.
+  cautions: If the source frames this as a sacred animal-origin rule or etiological
+    myth, human review could remap to cosmic_origin or sacred_law; otherwise exclude
+    from motif queries.
+  suggested_aliases:
+  - ecological_constraint_on_breeding
+  - habitat_and_food_limit_breeding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bridge-guardians-defeated-and-cast-into-water
+  motif_id: bridge_guardians_defeated_and_cast_into_water
+  label: bridge guardians defeated and cast into water
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: Bridge guardians are boundary figures who must be defeated before passage,
+    matching the threshold guardian function.
+  cautions: Casting into water is likely episode detail; if the passage emphasizes
+    duel or warfare more than passage, sacred_combat may be a secondary mapping.
+  suggested_aliases:
+  - bridge_guardian_defeated
+  - defeated_guardians_cast_into_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-sky-causing-destructive-weather-repaired-by-plugging
+  motif_id: broken_sky_causing_destructive_weather_repaired_by_plugging
+  label: Broken sky causing destructive weather repaired by plugging
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A damaged sky producing weather and being repaired concerns cosmological
+    structure and maintenance of the ordered world.
+  cautions: Could warrant a future sky-repair/cosmic-maintenance subgroup if recurrent;
+    do not map to flood_and_renewal unless world destruction and renewal are explicit.
+  suggested_aliases:
+  - sky_hole_repaired_to_stop_destructive_weather
+  - broken_sky_repaired
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.buffalo-identified-with-earth
+  motif_id: buffalo_identified_with_earth
+  label: buffalo identified with earth
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates animal-earth symbolism, but the narrative function
+    is unclear from the label alone.
+  cautions: Culturally specific animal-cosmology material needs source review; could
+    fit cosmic_origin, sacred_substance/animal abundance, divine_intervention, or
+    a future animal-cosmos group.
+  suggested_aliases:
+  - earth_buffalo_identification
+  - buffalo_as_earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.buffalo-origin-from-below-water-or-below-earth
+  motif_id: buffalo_origin_from_below_water_or_below_earth
+  label: Buffalo origin from below water or below earth
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif explains the origin of buffalo from subterranean or watery
+    realms, fitting origin and emergence patterns.
+  cautions: If the emphasis is an otherworld source or sacred animal provider rather
+    than origin, divine_intervention or otherworld may be relevant secondary groups.
+  suggested_aliases:
+  - buffalo_emerge_from_underworld_or_water
+  - subterranean_origin_of_buffalo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.buoyant-watercraft-recovered-after-capsizing
+  motif_id: buoyant_watercraft_recovered_after_capsizing
+  label: buoyant watercraft recovered after capsizing
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a practical event detail about a boat rather than
+    a symbolic water-passage or preserving-vessel motif.
+  cautions: If capsizing and recovery mark miraculous rescue, ordeal, or preservation
+    through catastrophe, remap to sacred_waters, divine_intervention, or sacred_vessel
+    after evidence review.
+  suggested_aliases:
+  - capsized_watercraft_recovered
+  - boat_recovered_after_capsizing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burned-body-parts-contaminating-water
+  motif_id: burned_body_parts_contaminating_water
+  label: Burned body-parts contaminating water
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines death, fire, body parts, and water pollution, but
+    the governing motif is unclear.
+  cautions: Could be ritual pollution under sacred_law, death transformation, divine
+    judgment, or an episode-specific etiological detail; source context is needed
+    before mapping.
+  suggested_aliases:
+  - burned_remains_pollute_water
+  - body_parts_contaminate_water_after_burning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several nature-bucket labels are single-occurrence and over-specific; suggested
+  placements should be treated as provisional evidence-level mappings rather than
+  taxonomy edits.
+- Animal-cosmology labels, especially buffalo-earth identifications, should receive
+  culturally informed human review before broad normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy changes applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2311
+  input_sha256: 4fc0e5a64d43e1040dd4c2383f95848d8e26061e8c2c82942e5bfb5a97f088c2
+

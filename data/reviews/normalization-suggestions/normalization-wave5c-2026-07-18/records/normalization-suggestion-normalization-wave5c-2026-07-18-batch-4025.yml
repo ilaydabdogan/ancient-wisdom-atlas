@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4025
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.thoughtless-friends-cause-harm
+  motif_id: thoughtless_friends_cause_harm
+  label: thoughtless friends cause harm
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: Harm caused by companions may involve failed trust or social obligation,
+    but the label lacks sacred or narrative function.
+  cautions: Could be a moral anecdote, comic episode, or passage-specific plot detail
+    rather than a reusable motif.
+  suggested_aliases:
+  - harmful_friends
+  - friends_cause_harm_through_thoughtlessness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.thread-of-life
+  motif_id: thread_of_life
+  label: thread of life
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A life-thread naturally fits the destiny/weaving complex where life span
+    or fate is figured as thread.
+  cautions: If the thread is a literal external life-token whose damage causes death,
+    external_soul may be a secondary or better mapping.
+  suggested_aliases:
+  - life_thread
+  - thread_as_life_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threat-against-enchantress-compels-reversal-of-spell
+  motif_id: threat_against_enchantress_compels_reversal_of_spell
+  label: threat against enchantress compels reversal of spell
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The reversal of an enchantment or spell commonly restores a transformed
+    or magically altered state.
+  cautions: If the focus is coercive threat rather than transformation, sacred_law
+    or divine_judgment may not apply; verify the spell's function in context.
+  suggested_aliases:
+  - coerced_reversal_of_spell
+  - enchantress_forced_to_reverse_magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threat-from-both-genii-and-humans
+  motif_id: threat_from_both_genii_and_humans
+  label: Threat from both genii and humans
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label only identifies sources of danger, not a stable symbolic or
+    narrative function.
+  cautions: Could involve spirit threat, social danger, journey ordeal, or contextual
+    plot summary; needs passage evidence before mapping.
+  suggested_aliases:
+  - danger_from_genii_and_humans
+  - threat_from_spirits_and_humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threat-from-thieves-of-another-tribe
+  motif_id: threat_from_thieves_of_another_tribe
+  label: Threat from thieves of another tribe
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a local plot danger or social detail rather than a reusable
+    mythic motif.
+  cautions: If the passage centers on ritualized raiding, cattle theft, or intergroup
+    conflict, sacred_combat could be reconsidered.
+  suggested_aliases:
+  - threat_from_intertribal_thieves
+  - danger_from_foreign_thieves
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threat-of-avenging-kinsman
+  motif_id: threat_of_avenging_kinsman
+  label: threat of avenging kinsman
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin vengeance is a recurring conflict driver and fits the combat/feud
+    complex when it motivates retaliation.
+  cautions: If framed mainly as kinship law or moral duty rather than violence, sacred_law
+    or covenant may be relevant.
+  suggested_aliases:
+  - avenging_kinsman_threat
+  - kin_vengeance_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threat-of-being-eaten-answered-from-inside-the-eater-s-body
+  motif_id: threat_of_being_eaten_answered_from_inside_the_eater_s_body
+  label: threat of being eaten answered from inside the eater's body
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Survival or speech from within a devourer resembles animal-fable and
+    trickster reversal patterns around predation.
+  cautions: Could also imply death-and-return, monstrous ingestion, or rebirth through
+    ingestion depending on passage evidence.
+  suggested_aliases:
+  - voice_from_inside_the_eater
+  - survivor_answers_from_inside_devourer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threat-of-being-thrown-overboard
+  motif_id: threat_of_being_thrown_overboard
+  label: threat of being thrown overboard
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: low
+  rationale: A peril at sea may fit water as danger or boundary, but the label is
+    only a threatened action.
+  cautions: Could be a generic plot threat, sea-ordeal, sacrifice, or legal punishment;
+    source context is needed.
+  suggested_aliases:
+  - overboard_threat
+  - threatened_casting_into_the_sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threat-of-total-destruction-described-as-sweeping-out-an-inlet
+  motif_id: threat_of_total_destruction_described_as_sweeping_out_an_inlet
+  label: Threat of total destruction described as sweeping out an inlet
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to preserve a culturally specific metaphor for threat
+    rather than a motif-level pattern.
+  cautions: If the passage describes actual cosmic or regional destruction by water,
+    flood_and_renewal or divine_judgment may be appropriate after review.
+  suggested_aliases:
+  - total_destruction_as_sweeping_out_an_inlet
+  - sweeping_out_inlet_destruction_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threat-recognized-by-intended-targets
+  motif_id: threat_recognized_by_intended_targets
+  label: threat recognized by intended targets
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a generic narrative event about recognizing danger, not a distinctive
+    symbolic motif.
+  cautions: Could become relevant only if recognition depends on omen, token, disguise,
+    or prophetic knowledge in the passage.
+  suggested_aliases:
+  - intended_targets_recognize_threat
+  - recognized_threat_by_targets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence threat or danger summaries; these should not
+  be promoted without passage evidence showing a recurring narrative function.
+- Where threat labels involve water, predation, or vengeance, suggested placements
+  are provisional and distinguish setting from motif function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    ambiguous single-occurrence threat labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4025
+  input_sha256: 656abbe73f8a2a486d3242aaf74ef47728f591be253d59aa910ad205bb8fb8e1
+

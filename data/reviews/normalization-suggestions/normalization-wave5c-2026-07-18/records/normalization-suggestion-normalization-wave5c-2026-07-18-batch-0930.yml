@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0930
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.named-fires-resting-beside-sacred-waters
+  motif_id: named_fires_resting_beside_sacred_waters
+  label: named fires resting beside sacred waters
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Named sacred fires fit the sacred fire complex, with waters as a related
+    ritual-geographic detail.
+  cautions: Could also index sacred_waters if the passage emphasizes water placement
+    or purification more than fire.
+  suggested_aliases:
+  - sacred fires beside sacred waters
+  - named sacred fires
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-old-woman-enters-ritual-circle-after-song-calls
+  motif_id: named_old_woman_enters_ritual_circle_after_song_calls
+  label: Named old woman enters ritual circle after song-calls
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a named figure, ritual circle, and song-calls; function
+    is unclear without source context.
+  cautions: May be a culturally specific ritual episode or passage artifact; avoid
+    flattening into enchanting_music unless song has supernatural compulsion or summoning
+    function.
+  suggested_aliases:
+  - ritual circle entered after song calls
+  - song-calls summon ritual participant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-or-sacred-fire
+  motif_id: named_or_sacred_fire
+  label: named or sacred fire
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: alias
+  confidence: high
+  rationale: The label is a direct broad alias of the existing sacred_fire group.
+  cautions: Preserve local named-fire identity in evidence notes; do not infer world-destroying
+    fire unless catastrophe is present.
+  suggested_aliases:
+  - sacred fire
+  - named sacred fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-ritual-or-communal-dances
+  motif_id: named_ritual_or_communal_dances
+  label: named ritual or communal dances
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Ritual dance is a plausible sacred practice, but the existing groups
+    do not cleanly capture dance as a motif without knowing its function.
+  cautions: Could be healing, trance, initiation, sacred exchange, or a passage-specific
+    named ceremony; culturally specific ritual evidence needs human review.
+  suggested_aliases:
+  - ritual dance
+  - communal sacred dance
+  - named ceremonial dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-sacred-places-in-ritual-geography
+  motif_id: named_sacred_places_in_ritual_geography
+  label: Named sacred places in ritual geography
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: narrower_than
+  confidence: medium
+  rationale: Ritual geography with named sacred places fits the sacred center/geography
+    side of axis_mundi.
+  cautions: If the label merely lists place names without symbolic or ritual function,
+    exclude as a place-name artifact; if pilgrimage dominates, preserve sacred_geography_pilgrimage
+    detail.
+  suggested_aliases:
+  - ritual geography of sacred places
+  - named sacred geography
+  - sacred places in ritual geography
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-weapon-inherited-or-received-from-absent-hero
+  motif_id: named_weapon_inherited_or_received_from_absent_hero
+  label: Named weapon inherited or received from absent hero
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A named inherited weapon is a power object conferring heroic authority
+    or martial capacity.
+  cautions: Could also relate to recognition_tokens_hidden_identity or royal_legitimacy
+    if inheritance proves identity or succession.
+  suggested_aliases:
+  - inherited named weapon
+  - heroic weapon received from absent hero
+  - named heroic weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.naming-and-founding-of-a-sacred-city
+  motif_id: naming_and_founding_of_a_sacred_city
+  label: Naming and founding of a sacred city
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Founding and naming a sacred city functions as an etiological origin
+    of ordered sacred space.
+  cautions: If the city serves as cosmic center or temple axis, axis_mundi/world_center
+    may be a strong secondary mapping.
+  suggested_aliases:
+  - sacred city foundation and naming
+  - city-founding etiology
+  - naming of a sacred city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.narcotic-assisted-surgical-healing-by-a-ritual-specialist
+  motif_id: narcotic_assisted_surgical_healing_by_a_ritual_specialist
+  label: narcotic-assisted surgical healing by a ritual specialist
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes ritual healing using a substance, but no existing
+    group cleanly covers surgical healing by a specialist.
+  cautions: Could involve sacred_substance, divine_intervention, or ritual specialist
+    practice; culturally sensitive medical-ritual context needs source review before
+    mapping.
+  suggested_aliases:
+  - ritual specialist healing with narcotic aid
+  - sacred substance assisted healing
+  - ritual surgical healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.narrator-witness-legitimates-a-holy-biography
+  motif_id: narrator_witness_legitimates_a_holy_biography
+  label: narrator-witness legitimates a holy biography
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes a narrative-authorizing device in a text rather than a
+    symbolic or narrative motif within the tradition.
+  cautions: Preserve as provenance or literary framing evidence if needed; do not
+    use in motif pattern queries.
+  suggested_aliases:
+  - witness narrator legitimates biography
+  - holy biography narrator witness
+  - hagiographic witness legitimation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nations-turning-to-divine-light
+  motif_id: nations_turning_to_divine_light
+  label: Nations turning to divine light
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Divine light as an orienting sacred presence fits the sacred_fire/divine_light
+    complex.
+  cautions: If the emphasis is universal conversion or divine sovereignty over nations,
+    supreme_ruler or covenant may be relevant secondary mappings.
+  suggested_aliases:
+  - nations turn to divine light
+  - peoples drawn to sacred light
+  - divine light drawing nations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and contain named or culturally specific ritual
+  details; human review should verify whether they are motif-level patterns or passage
+  artifacts.
+- Where fire, water, city, or place labels are broad, preserve local function in notes
+  rather than inferring catastrophe, axis, or transmission.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source-context review recommended
+    for ritual dance, song-call, and healing-specialist labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0930
+  input_sha256: b2a2a15a5d455ccda1735a7a372219f292e73454a373d677823acff1472ac6ca
+

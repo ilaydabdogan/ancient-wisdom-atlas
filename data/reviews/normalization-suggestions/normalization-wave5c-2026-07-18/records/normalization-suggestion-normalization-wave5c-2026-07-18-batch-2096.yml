@@ -1,0 +1,327 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2096
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-sound-marks-the-boundary-between-day-and-night
+  motif_id: animal_sound_marks_the_boundary_between_day_and_night
+  label: Animal sound marks the boundary between day and night
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The animal sound functions as a marker of temporal transition, fitting
+    sacred or ritually meaningful time boundaries better than animal transformation.
+  cautions: Single occurrence; if merely an etiological explanation for an animal
+    cry, cosmic_origin or exclusion as an over-specific detail may be preferable.
+  suggested_aliases:
+  - animal_call_marks_time_boundary
+  - animal_cry_at_day_night_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-sound-mistaken-for-human-guidance
+  motif_id: animal_sound_mistaken_for_human_guidance
+  label: animal sound mistaken for human guidance
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be deceptive guidance, omen, misrecognition, or a passage-specific
+    narrative detail depending on source context.
+  cautions: Do not map to divine_intervention or trickster unless an intentional supernatural
+    guide, deceiver, or animal agent is present.
+  suggested_aliases:
+  - mistaken_animal_call_as_guidance
+  - animal_voice_misrecognized_as_human_guide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-sounds-as-night-fishing-omens
+  motif_id: animal_sounds_as_night_fishing_omens
+  label: animal sounds as night-fishing omens
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal sounds are interpreted as omens for practical action, aligning
+    with divinatory sign-reading.
+  cautions: Single and context-specific; if not part of a systematic omen practice,
+    preserve as evidence detail rather than a broad motif.
+  suggested_aliases:
+  - animal_call_omen_for_fishing
+  - night_fishing_omen_from_animal_sounds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-speaker-escaping-a-predator-by-a-trail
+  motif_id: animal_speaker_escaping_a_predator_by_a_trail
+  label: animal speaker escaping a predator by a trail
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A speaking animal escaping predation fits the animal-fable trickster
+    cluster of deception, survival, and predator-prey reversal.
+  cautions: The trail detail may be over-specific; if no deception or boundary-crossing
+    is present, this may be a simple episode detail.
+  suggested_aliases:
+  - talking_animal_escapes_predator
+  - animal_speaker_evades_predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-species-as-organized-human-like-tribes
+  motif_id: animal_species_as_organized_human_like_tribes
+  label: Animal species as organized human-like tribes
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Peoples and Human-like Animal Societies
+  relationship: child
+  confidence: medium
+  rationale: The motif is not primarily trickster action or shapeshifting; it describes
+    animal species as social persons with human-like organization.
+  cautions: Culturally sensitive in Indigenous contexts; review source evidence to
+    avoid flattening personhood, clan, or totemic meanings into generic animal fable
+    categories.
+  suggested_aliases:
+  - animal_peoples
+  - animal_species_as_human_like_societies
+  - animal_tribes
+  suggested_new_group:
+    id: animal_peoples
+    label: Animal Peoples and Human-like Animal Societies
+    description: Animal species or animal beings are represented as organized peoples,
+      kin groups, tribes, villages, or social persons with human-like institutions
+      and relations.
+    parent_group_ids:
+    - otherworld
+    - shapeshifter
+    related_group_ids:
+    - trickster
+    - sacred_law
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover trickster animals,
+      shapeshifting, and animal helpers, but not animal species as social peoples
+      or kin communities.
+- suggestion_id: normalization.suggestion.animal-species-made-from-garments
+  motif_id: animal_species_made_from_garments
+  label: Animal species made from garments
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explains the origin of an animal species through transformation
+    of objects, an etiological creation motif.
+  cautions: Could also map to shapeshifter if garments are changed from or into living
+    beings in a transformation episode; source context needed.
+  suggested_aliases:
+  - animal_origin_from_garments
+  - species_created_from_clothing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-species-origins-through-human-transformation
+  motif_id: animal_species_origins_through_human_transformation
+  label: animal species origins through human transformation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: Human beings becoming animal species is a clear transformation motif,
+    with etiological implications for species origins.
+  cautions: If the passage emphasizes creation of species more than metamorphosis,
+    cosmic_origin may be a secondary mapping.
+  suggested_aliases:
+  - humans_transformed_into_animal_species
+  - animal_origins_from_human_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-spouse
+  motif_id: animal_spouse
+  label: animal spouse
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Spouse and Interspecies Marriage
+  relationship: child
+  confidence: medium
+  rationale: Animal spouse is a durable folktale/myth pattern involving interspecies
+    marriage, kinship, and boundary crossing not captured by shapeshifting alone.
+  cautions: Review whether the animal spouse is a transformed human, spirit spouse,
+    totemic ancestor, or culturally specific nonhuman person before final placement.
+  suggested_aliases:
+  - animal_bridegroom
+  - animal_bride
+  - interspecies_spouse
+  - animal_husband_or_wife
+  suggested_new_group:
+    id: animal_spouse_interspecies_marriage
+    label: Animal Spouse and Interspecies Marriage
+    description: A human or human-like figure marries, cohabits with, or forms kinship
+      with an animal, animal-person, or nonhuman spouse, often producing boundary-crossing
+      obligations, offspring, or transformation.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - animal_peoples
+    - miraculous_child
+    reason_existing_groups_insufficient: Existing sacred_love and shapeshifter groups
+      cover love or transformation broadly but do not preserve the recurrent interspecies-marriage
+      and kinship structure.
+- suggestion_id: normalization.suggestion.animal-spouse-and-kin-relations
+  motif_id: animal_spouse_and_kin_relations
+  label: Animal spouse and kin relations
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Spouse and Interspecies Marriage
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label extends animal-spouse material into kinship relations, fitting
+    an interspecies marriage/kinship group.
+  cautions: Culturally sensitive; review whether these are animal people, spirit kin,
+    clan relations, or marriage motifs before final grouping.
+  suggested_aliases:
+  - animal_spouse_kinship
+  - interspecies_marriage_and_kin
+  - animal_affinal_relations
+  suggested_new_group:
+    id: animal_spouse_interspecies_marriage
+    label: Animal Spouse and Interspecies Marriage
+    description: A human or human-like figure marries, cohabits with, or forms kinship
+      with an animal, animal-person, or nonhuman spouse, often producing boundary-crossing
+      obligations, offspring, or transformation.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - animal_peoples
+    - miraculous_child
+    reason_existing_groups_insufficient: Existing groups do not preserve the kinship
+      and affinal structure of animal-spouse narratives.
+- suggestion_id: normalization.suggestion.animal-spouse-and-mixed-offspring
+  motif_id: animal_spouse_and_mixed_offspring
+  label: Animal spouse and mixed offspring
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Spouse and Interspecies Marriage
+  relationship: narrower_than
+  confidence: medium
+  rationale: Mixed offspring are a common consequence of animal-spouse or interspecies-union
+    narratives.
+  cautions: Could also support miraculous_child or origin-of-peoples motifs if the
+    offspring found a lineage; passage evidence should decide secondary mapping.
+  suggested_aliases:
+  - interspecies_union_with_mixed_offspring
+  - animal_spouse_offspring
+  - human_animal_mixed_children
+  suggested_new_group:
+    id: animal_spouse_interspecies_marriage
+    label: Animal Spouse and Interspecies Marriage
+    description: A human or human-like figure marries, cohabits with, or forms kinship
+      with an animal, animal-person, or nonhuman spouse, often producing boundary-crossing
+      obligations, offspring, or transformation.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - animal_peoples
+    - miraculous_child
+    reason_existing_groups_insufficient: Existing groups cover birth, love, and shapeshifting
+      separately but not the interspecies-marriage pattern with hybrid or mixed descendants.
+batch_notes:
+- Several labels in this batch point to a possible animal-personhood / animal-spouse
+  area not cleanly represented by existing canonical groups.
+- For Indigenous and Arctic materials, human review should preserve local categories
+  of animal persons, spirits, kinship, and clan relations rather than reducing them
+  to generic fable motifs.
+- Single-occurrence labels should remain provisional and may be retained as granular
+  evidence rather than promoted.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; animal_spouse_interspecies_marriage and animal_peoples
+    are suggested group candidates for taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2096
+  input_sha256: 6f178cc6a820b7f7a0fc267313d565d9bf56ad1124455b9d08e3e016e679ac70
+

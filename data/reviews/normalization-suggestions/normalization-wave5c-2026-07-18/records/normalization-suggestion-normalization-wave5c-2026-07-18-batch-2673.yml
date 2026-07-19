@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2673
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.enemy-mistakes-strategy-for-supernatural-power
+  motif_id: enemy_mistakes_strategy_for_supernatural_power
+  label: enemy mistakes strategy for supernatural power
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A strategy misread as supernatural power is a deception or boundary-confusion
+    episode, closer to trickster stratagem than combat itself.
+  cautions: Single occurrence; if the passage emphasizes battle outcome rather than
+    deception, sacred_combat may be a secondary fit.
+  suggested_aliases:
+  - strategy_mistaken_for_magic
+  - stratagem_misread_as_supernatural_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-mutilation-by-cutting-strips-from-the-back
+  motif_id: enemy_mutilation_by_cutting_strips_from_the_back
+  label: enemy mutilation by cutting strips from the back
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a highly specific violent injury rather than a durable
+    symbolic or narrative pattern.
+  cautions: If source context shows ritualized trophy-taking, punishment, or ordeal,
+    human reviewers could remap to sacred_combat or divine_judgment.
+  suggested_aliases:
+  - enemy_mutilation
+  - cutting_strips_from_enemy_back
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-or-hazard-mastered-by-consumption
+  motif_id: enemy_or_hazard_mastered_by_consumption
+  label: enemy or hazard mastered by consumption
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Mastery by eating could indicate trickster reversal, ritual ingestion,
+    transformation, or combat victory depending on passage evidence.
+  cautions: Consumption motifs can be culturally specific; avoid mapping to sacrifice,
+    sacred_substance, or trickster without source context.
+  suggested_aliases:
+  - hazard_mastered_by_consumption
+  - enemy_defeated_by_eating
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-pursuit-encirclement-and-defeat
+  motif_id: enemy_pursuit_encirclement_and_defeat
+  label: enemy pursuit, encirclement, and defeat
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a battle maneuver sequence ending in enemy defeat,
+    fitting the broad combat and warfare group.
+  cautions: May be only tactical plot detail; preserve as granular evidence rather
+    than promoting as canonical motif.
+  suggested_aliases:
+  - enemy_encircled_and_defeated
+  - pursuing_enemy_surrounded_and_defeated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-pursuit-from-behind
+  motif_id: enemy_pursuit_from_behind
+  label: Enemy pursuit from behind
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-level chase detail without enough symbolic or
+    narrative function for broad motif querying.
+  cautions: If pursuit is reversed, divinely judged, or threshold-based, source context
+    may justify mapping to divine_judgment, hero_journey, or sacred_combat.
+  suggested_aliases:
+  - pursuit_from_behind
+  - enemy_chase_from_behind
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-pursuit-of-the-wounded
+  motif_id: enemy_pursuit_of_the_wounded
+  label: enemy pursuit of the wounded
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: Pursuit of a wounded combatant belongs near warrior ordeal, vulnerability,
+    and martial danger in the divine_warrior complex.
+  cautions: Could be only a chase detail; if the wounded figure is not heroic or sacralized,
+    exclude or map to sacred_combat instead.
+  suggested_aliases:
+  - wounded_warrior_pursued
+  - pursuit_of_wounded_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-regalia-adopted-after-victory
+  motif_id: enemy_regalia_adopted_after_victory
+  label: Enemy regalia adopted after victory
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Adopting enemy regalia after victory may express trophy-taking, identity
+    transfer, ritual incorporation, or political legitimacy.
+  cautions: Culturally sensitive material culture and post-victory ritual should be
+    reviewed with source evidence; do not reduce to generic sacred_treasures or combat.
+  suggested_aliases:
+  - victor_adopts_enemy_regalia
+  - enemy_regalia_taken_after_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-rejoices-at-the-sufferer-s-ruin
+  motif_id: enemy_rejoices_at_the_sufferer_s_ruin
+  label: Enemy rejoices at the sufferer's ruin
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: role_variant
+  confidence: low
+  rationale: An enemy rejoicing at ruin functions as a contrastive grief or lament
+    scene, emphasizing suffering and hostile recognition.
+  cautions: Could instead be moral judgment, curse rhetoric, or a passage-specific
+    lament formula; review surrounding text before final mapping.
+  suggested_aliases:
+  - enemy_gloating_over_ruin
+  - foe_rejoices_at_suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-reputation-as-magicians-through-stratagem
+  motif_id: enemy_reputation_as_magicians_through_stratagem
+  label: Enemy reputation as magicians through stratagem
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceptive stratagem producing a reputation for magic fits trickster-like
+    misdirection and boundary confusion between skill and supernatural power.
+  cautions: If the passage treats actual ritual power or sacred knowledge rather than
+    deception, sacred_knowledge or divine_intervention may fit better.
+  suggested_aliases:
+  - stratagem_creates_reputation_for_magic
+  - magic_reputation_through_deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-retreat-cut-off-before-decisive-battle
+  motif_id: enemy_retreat_cut_off_before_decisive_battle
+  label: enemy retreat cut off before decisive battle
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Blocking retreat before decisive battle is a tactical combat pattern
+    within the broader sacred_combat warfare group.
+  cautions: Likely too tactical for a canonical motif unless it recurs or carries
+    ritual/fate significance.
+  suggested_aliases:
+  - retreat_cut_off_before_battle
+  - enemy_escape_blocked_before_decisive_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence tactical or injury details; treat
+  as granular evidence unless source context shows ritual, symbolic, or recurring
+  narrative function.
+- Avoid treating strategy mistaken for supernatural power as evidence of actual magic
+  without passage support.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; Native American regalia and consumption motifs
+    especially need human/source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2673
+  input_sha256: c1269ba01dfd6c742005d4168b8a1b6ba22be370f1a8f63890e3905487e37681
+

@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0624
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.speaking-vessels-question-their-maker-and-market
+  motif_id: speaking_vessels_question_their_maker_and_market
+  label: speaking vessels question their maker and market
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be a Sufi allegory about created beings questioning creator,
+    destiny, or exchange, but function is unclear from wording alone.
+  cautions: Could fit sacred_craft, sacred_knowledge, sacred_exchange, or be a passage-specific
+    parable detail; needs source context before indexing.
+  suggested_aliases:
+  - animate vessels question maker
+  - created objects question their maker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.special-implements-enabling-boundary-crossing
+  motif_id: special_implements_enabling_boundary_crossing
+  label: Special implements enabling boundary crossing
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Power objects or implements that enable passage across a boundary fit
+    sacred_treasures when the object confers special ability.
+  cautions: If the focus is the crossing ordeal rather than the implements, secondary
+    review under threshold_guardian, descent, or hero_journey may be better.
+  suggested_aliases:
+  - boundary-crossing implements
+  - special implements for passage
+  - power objects enabling passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.specialized-footwear-for-ice-travel
+  motif_id: specialized_footwear_for_ice_travel
+  label: Specialized footwear for ice travel
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a practical travel-detail rather than a recurring
+    symbolic or narrative motif.
+  cautions: If the footwear is magical, sacred, or enables impossible passage, reconsider
+    under sacred_treasures or hero_journey.
+  suggested_aliases:
+  - ice-travel footwear
+  - special footwear for frozen terrain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.speech-taboo-at-an-animate-landscape-crossing
+  motif_id: speech_taboo_at_an_animate_landscape_crossing
+  label: Speech taboo at an animate landscape crossing
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A speech prohibition governing safe passage through an animate landscape
+    functions as taboo or sacred regulation.
+  cautions: Also relates to threshold crossing and performative speech; review cultural
+    context carefully before flattening landscape agency into generic law.
+  suggested_aliases:
+  - speech taboo during crossing
+  - silence taboo at animate crossing
+  - tabooed speech at landscape boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spider-society-cotton-road
+  motif_id: spider_society_cotton_road
+  label: Spider-society cotton road
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal society, material road, and journey imagery
+    without enough evidence to identify the motif function.
+  cautions: Could involve otherworld passage, animal helpers, sacred craft, or a culturally
+    specific route image; avoid forced mapping from the label alone.
+  suggested_aliases:
+  - cotton road of spider society
+  - spider people cotton road
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spoken-formula-determines-ownership-transfer
+  motif_id: spoken_formula_determines_ownership_transfer
+  label: spoken formula determines ownership transfer
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A spoken formula that effects transfer is a performative speech act that
+    changes social or ritual status.
+  cautions: If the passage emphasizes donation, merit, or reciprocity, sacred_exchange
+    may be a secondary mapping.
+  suggested_aliases:
+  - performative formula transfers ownership
+  - spoken transfer formula
+  - ownership transfer by formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spoken-friendship-signal-halts-violence
+  motif_id: spoken_friendship_signal_halts_violence
+  label: spoken friendship signal halts violence
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A specific utterance that halts violence functions as performative speech
+    with binding social force.
+  cautions: Could also fit covenant or sacred_law if the speech invokes kinship, treaty,
+    or ritual peace obligations.
+  suggested_aliases:
+  - friendship formula halts violence
+  - spoken peace signal
+  - speech act stops combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spousal-and-kinship-relations-among-animal-or-celestial-figures
+  motif_id: spousal_and_kinship_relations_among_animal_or_celestial_figures
+  label: Spousal and kinship relations among animal or celestial figures
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad social relation metadata among nonhuman figures rather
+    than a clear narrative function.
+  cautions: May be cosmological genealogy, sacred marriage, animal-person kinship,
+    or commentary artifact; needs passage evidence and culturally sensitive review.
+  suggested_aliases:
+  - kinship among animal figures
+  - celestial-animal spousal relations
+  - nonhuman kinship relations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.staff-bearing-solar-traveller
+  motif_id: staff_bearing_solar_traveller
+  label: staff-bearing solar traveller
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A solar traveller is primarily a divine-light or solar-power figure;
+    the staff is likely an attribute of journey or authority.
+  cautions: If the passage emphasizes the journey route, authority, or power object,
+    consider hero_journey, royal_legitimacy, or sacred_treasures as secondary mappings.
+  suggested_aliases:
+  - solar traveller with staff
+  - staff-bearing sun traveller
+  - solar wayfarer bearing staff
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.staged-journey-from-coast-to-interior-highland
+  motif_id: staged_journey_from_coast_to_interior_highland
+  label: Staged journey from coast to interior highland
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a geographically specific itinerary rather than a
+    portable motif pattern.
+  cautions: If the staged movement encodes initiation, migration origin, ascent, or
+    sacred geography, reconsider under hero_journey, ascent, or axis_mundi with source
+    evidence.
+  suggested_aliases:
+  - coast-to-highland journey stages
+  - journey from coast to interior highland
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and geographically or culturally
+  specific; preserve local evidence notes even when excluding from broad pattern queries.
+- Speech-act labels may belong under curse_blessing_speech when the utterance itself
+  changes status, ownership, peace, or danger.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placements only; items marked needs_human_review require source
+    context before normalization.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0624
+  input_sha256: e8e8c97dcb46548f8ccd4db08523c90a9a62de2525714c1e7babde1b3054ba4d
+

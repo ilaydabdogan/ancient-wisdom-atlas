@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0573
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.paramount-over-lordship-above-local-village-headmen
+  motif_id: paramount_over_lordship_above_local_village_headmen
+  label: Paramount over-lordship above local village headmen
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label concerns hierarchical chiefly authority and political order,
+    fitting sacred kingship or legitimate rule better than journey motifs.
+  cautions: Source evidence should confirm that overlordship is mythically or ritually
+    significant rather than a purely ethnographic social detail.
+  suggested_aliases:
+  - paramount_chiefship_over_local_headmen
+  - overlordship_above_village_headmen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parent-and-children-kinship-grouping
+  motif_id: parent_and_children_kinship_grouping
+  label: parent and children kinship grouping
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase reads like a generic passage or indexing artifact about family
+    grouping, not a recurrent symbolic or narrative motif.
+  cautions: If the passage involves a divine parent, threatened child, lineage, or
+    recognition scene, remap to the relevant motif; the current label alone is too
+    generic.
+  suggested_aliases:
+  - parent_child_grouping
+  - family_kinship_grouping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parental-prohibition-and-withheld-blessing-before-journey
+  motif_id: parental_prohibition_and_withheld_blessing_before_journey
+  label: parental prohibition and withheld blessing before journey
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: A blocked or contested departure before travel is a departure-stage journey
+    motif involving familial authority and withheld sanction.
+  cautions: May also involve covenant, blessing speech, or kinship conflict if the
+    blessing/prohibition is ritually binding rather than just narrative setup.
+  suggested_aliases:
+  - withheld_parental_blessing_before_departure
+  - parental_prohibition_before_journey
+  - blocked_departure_by_parental_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parodied-otherworld-voyage-or-transported-vision
+  motif_id: parodied_otherworld_voyage_or_transported_vision
+  label: Parodied Otherworld voyage or transported vision
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: medium
+  rationale: Otherworld voyage fits the otherworld group, but 'parodied' may mark
+    literary genre or satire rather than the motif itself.
+  cautions: Review whether the passage actually narrates an otherworld journey/vision
+    or is a textual parody/commentary artifact; dream_and_vision may be secondary
+    if transported vision is central.
+  suggested_aliases:
+  - parodic_otherworld_voyage
+  - parodied_transported_vision
+  - comic_otherworld_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parting-gifts-as-memorials-of-lost-kinship
+  motif_id: parting_gifts_as_memorials_of_lost_kinship
+  label: Parting gifts as memorials of lost kinship
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Memorial gifts preserve relational identity and may function as tokens
+    of kinship across separation.
+  cautions: If the emphasis is grief rather than identity proof, lament_and_mourning
+    may be better; if reciprocal gift obligation is central, sacred_exchange may be
+    secondary.
+  suggested_aliases:
+  - parting_gifts_as_kinship_tokens
+  - memorial_gifts_of_lost_kinship
+  - farewell_tokens_of_kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passage-between-escorting-women-at-departure
+  motif_id: passage_between_escorting_women_at_departure
+  label: passage between escorting women at departure
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a departure threshold scene, but the role of the escorting
+    women is unclear from wording alone.
+  cautions: Could be ritual passage, kinship farewell, gendered escort, or over-specific
+    episode detail; culturally specific context is needed before indexing broadly.
+  suggested_aliases:
+  - escorted_departure_between_women
+  - departure_passage_with_female_escorts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passage-from-darkness-into-light
+  motif_id: passage_from_darkness_into_light
+  label: passage from darkness into light
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Movement from darkness into light commonly signals renewal or transformed
+    state, especially in Egyptian afterlife contexts.
+  cautions: Do not force resurrection or flood meanings; if the passage maps a postmortem
+    route, afterlife_passage may be the better primary group.
+  suggested_aliases:
+  - emergence_from_darkness_into_light
+  - darkness_to_light_passage
+  - passage_into_light
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passage-into-an-enclosed-ravine-or-inner-landscape
+  motif_id: passage_into_an_enclosed_ravine_or_inner_landscape
+  label: Passage into an enclosed ravine or inner landscape
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Entry into an enclosed inner landscape can function as a descent-like
+    threshold into hidden or nonordinary terrain.
+  cautions: If the ravine is only a travel setting without transformation, peril,
+    or hidden-world function, treat as contextual detail rather than motif.
+  suggested_aliases:
+  - entry_into_enclosed_ravine
+  - passage_into_inner_landscape
+  - ravine_as_liminal_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passage-into-dense-old-forest
+  motif_id: passage_into_dense_old_forest
+  label: passage into dense old forest
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: Entering an old forest may mark departure into liminal trial-space, but
+    the label lacks evidence of ordeal, transformation, or otherworld contact.
+  cautions: Could be merely a setting; if enchanted beings or timeless realm appear,
+    otherworld may fit; if testing is central, initiation may fit.
+  suggested_aliases:
+  - entry_into_dense_old_forest
+  - forest_passage_as_liminal_departure
+  - passage_into_ancient_forest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passage-secured-through-reciprocal-bargain
+  motif_id: passage_secured_through_reciprocal_bargain
+  label: passage secured through reciprocal bargain
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: high
+  rationale: The core function is gaining passage through reciprocal exchange or bargain,
+    matching sacred reciprocity more than travel alone.
+  cautions: If the bargain is with a threshold guardian, add threshold_guardian as
+    related evidence; if it is a binding oath, covenant or curse_blessing_speech may
+    be secondary.
+  suggested_aliases:
+  - reciprocal_bargain_secures_passage
+  - passage_by_bargain
+  - threshold_passage_through_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Review bucket labels are not always semantically reliable; several items in this
+  batch fit social order, exchange, or textual-artifact handling better than journey/homecoming.
+- Single-occurrence, highly contextual labels should remain provisional and should
+  not be promoted without passage evidence or recurrence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch 0573; human review
+    recommended for culturally specific passage/threshold scenes and parodic literary
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0573
+  input_sha256: 429d37f17e1a5f6f0fc8bed32bbe0bf44e03178c48d1ea17dd43933a6db1c6d8
+

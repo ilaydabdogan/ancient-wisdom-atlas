@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2992
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.possible-former-man-house-institution-preserved-in-vocabulary
+  motif_id: possible_former_man_house_institution_preserved_in_vocabulary
+  label: possible former man-house institution preserved in vocabulary
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes linguistic reconstruction of a social institution
+    rather than a narrative or symbolic motif.
+  cautions: If source evidence describes ritual use of an actual men's house, review
+    separately under sacred_law, initiation, or sacred_center-like space; this wording
+    itself is a vocabulary artifact.
+  suggested_aliases:
+  - man_house_institution_preserved_in_vocabulary
+  - former_men_s_house_inferred_from_vocabulary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-interment-destruction-of-house-and-possessions
+  motif_id: post_interment_destruction_of_house_and_possessions
+  label: post-interment destruction of house and possessions
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Destruction of a house and possessions after burial reads as a mortuary
+    prohibition or pollution-management rite regulating contact with death.
+  cautions: Could also relate to ancestor_rites or sacrifice if the destruction feeds,
+    appeases, or transfers goods to the dead; source context is needed.
+  suggested_aliases:
+  - mortuary_destruction_of_house_and_possessions
+  - post_burial_destruction_of_household_goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-marital-garden-labor-as-affinal-obligation
+  motif_id: post_marital_garden_labor_as_affinal_obligation
+  label: post-marital garden labor as affinal obligation
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Labor owed after marriage is a reciprocal kinship obligation, fitting
+    exchange and social reciprocity more than a place motif.
+  cautions: May be an ethnographic social custom rather than a mythic motif; if framed
+    as marriage law, sacred_law may be secondary.
+  suggested_aliases:
+  - affinal_labor_obligation_after_marriage
+  - post_marital_garden_service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.postmortem-household-food-interdiction-and-timed-usability
+  motif_id: postmortem_household_food_interdiction_and_timed_usability
+  label: Postmortem household food interdiction and timed usability
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A timed food prohibition after death fits ritual purity, interdiction,
+    and sacred household regulation.
+  cautions: Could also be indexed with ancestor_rites if the food rule serves the
+    dead directly; preserve timing and household detail as evidence.
+  suggested_aliases:
+  - postmortem_food_interdiction
+  - mortuary_household_food_taboo
+  - timed_usability_of_food_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.postnatal-food-vessel-separation
+  motif_id: postnatal_food_vessel_separation
+  label: postnatal food-vessel separation
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Separation of vessels after birth appears to be a purity or taboo rule
+    governing domestic objects and bodily transition.
+  cautions: Could relate to sacred_birth if attached to a marked child, or to sacred_vessel
+    if the container itself is the power focus; label alone suggests ritual regulation.
+  suggested_aliases:
+  - postnatal_vessel_separation
+  - birth_related_food_vessel_taboo
+  - post_birth_food_container_separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poverty-transformed-into-abundance-and-palace
+  motif_id: poverty_transformed_into_abundance_and_palace
+  label: poverty transformed into abundance and palace
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sudden transformation from poverty to palace-like abundance fits miraculous
+    provision or supernatural redirection of fortune.
+  cautions: If the transformation is earned through hospitality or moral testing,
+    sacred_exchange or divine_judgment may be better; palace detail may be episode-specific.
+  suggested_aliases:
+  - miraculous_poverty_to_abundance
+  - poverty_replaced_by_palatial_abundance
+  - supernatural_abundance_after_poverty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.power-bearing-masks-aiding-shamanic-mediation
+  motif_id: power_bearing_masks_aiding_shamanic_mediation
+  label: power-bearing masks aiding shamanic mediation
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Masks functioning as power-bearing ritual objects for mediation fit sacred
+    objects conferring spiritual ability.
+  cautions: Culturally sensitive shamanic context should be reviewed; if the focus
+    is spirit contact or healing agency, divine_intervention or sacred_knowledge may
+    be secondary.
+  suggested_aliases:
+  - ritual_masks_as_power_objects
+  - shamanic_mediation_masks
+  - power_bearing_ritual_masks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.powerful-remedies-requiring-small-doses
+  motif_id: powerful_remedies_requiring_small_doses
+  label: powerful remedies requiring small doses
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Potent remedies whose efficacy depends on measured dosage fit sacred
+    or medicinal substances with controlled ritual use.
+  cautions: May be practical ethnobotanical knowledge rather than a motif; review
+    whether supernatural potency, taboo, or ritual instruction is present.
+  suggested_aliases:
+  - potent_medicine_requiring_small_dose
+  - powerful_remedy_with_dosage_taboo
+  - small_dose_of_powerful_medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.practical-benefit-overlooked-because-it-is-not-fruit-bearing
+  motif_id: practical_benefit_overlooked_because_it_is_not_fruit_bearing
+  label: Practical benefit overlooked because it is not fruit-bearing
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label reads as a wisdom or fable lesson about misjudging usefulness
+    by visible productivity.
+  cautions: Could be a passage-specific moral rather than a durable motif; if it is
+    merely commentary on a plant or object, exclude from broad pattern queries.
+  suggested_aliases:
+  - overlooked_practical_usefulness
+  - useful_but_non_fruit_bearing_thing_despised
+  - hidden_utility_misjudged_by_lack_of_fruit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pre-hunt-charm-practice-for-securing-game
+  motif_id: pre_hunt_charm_practice_for_securing_game
+  label: Pre-hunt charm practice for securing game
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A charm performed before hunting to secure game is a ritualized request
+    or reciprocal engagement with animal/spirit powers.
+  cautions: Could also fit sacred_law if governed by hunting taboo, or divine_intervention
+    if a spirit grants game; review culturally specific hunting practice carefully.
+  suggested_aliases:
+  - pre_hunt_charm_for_game
+  - hunting_charm_to_secure_animals
+  - ritual_charm_before_hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ethnographic or ritual-practice
+  labels; preserve local specificity in notes and avoid promoting them to canonical
+  motif families without recurrence.
+- 'Objects/spaces bucket placement is often misleading here: many items concern ritual
+  law, exchange, sacred substances, or textual reconstruction rather than physical
+  objects alone.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual and shamanic labels
+    should receive human review against source passages.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2992
+  input_sha256: c001f2c616a4e0be068c2ff679e0fb0ecfba1b918f0f63644a99c3970cbdae7d
+

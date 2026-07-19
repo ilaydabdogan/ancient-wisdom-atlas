@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1574
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fortress-breach-and-slain-king
+  motif_id: fortress_breach_and_slain_king
+  label: Fortress breach and slain king
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a military assault and royal death, fitting warfare
+    as the broad motif function.
+  cautions: Single occurrence and episode-specific; if the emphasis is succession
+    or legitimacy after the king's death, royal_legitimacy may be a secondary review
+    target.
+  suggested_aliases:
+  - fortress_breach_slain_king
+  - breached_fortress_and_dead_ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forward-scouts-signal-the-attacking-body
+  motif_id: forward_scouts_signal_the_attacking_body
+  label: Forward scouts signal the attacking body
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a tactical battle detail rather than a reusable symbolic
+    or narrative motif.
+  cautions: If repeated as a ritualized war stratagem across sources, reconsider under
+    sacred_combat; otherwise preserve only as passage evidence.
+  suggested_aliases:
+  - scouts_signal_attack
+  - advance_scouts_signal_main_force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fossilized-remains-marking-a-massacre-site
+  motif_id: fossilized_remains_marking_a_massacre_site
+  label: fossilized remains marking a massacre site
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be landscape etiology, memorialized violence, ancestral transformation,
+    or culturally specific site explanation.
+  cautions: Indigenous Australian site traditions are culturally sensitive; source
+    context is needed before mapping to cosmic_origin, death_and_transformation, or
+    sacred_combat.
+  suggested_aliases:
+  - stone_remains_mark_massacre_site
+  - fossilized_dead_as_massacre_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.founder-s-descendants-distributed-across-social-functions
+  motif_id: founder_s_descendants_distributed_across_social_functions
+  label: Founder’s descendants distributed across social functions
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Genealogical descent from a founder organizes social roles and sacred
+    social order.
+  cautions: If the passage chiefly explains origins of peoples or estates rather than
+    rule, cosmic_origin or sacred_law may be better secondary mappings.
+  suggested_aliases:
+  - founder_descendants_assigned_social_functions
+  - ancestral_lineage_distributed_across_social_roles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-color-directional-ordering-of-trials-and-implements
+  motif_id: four_color_directional_ordering_of_trials_and_implements
+  label: Four-color directional ordering of trials and implements
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label points to a culturally specific four-direction ritual schema
+    organizing trials and objects.
+  cautions: Navajo directional/color symbolism should not be flattened into generic
+    order motifs without source review; could involve initiation, sacred_law, sacred_time,
+    or cosmic_origin.
+  suggested_aliases:
+  - four_direction_color_ordering_of_trials
+  - directional_color_sequence_of_implements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-direction-agricultural-ordering
+  motif_id: four_direction_agricultural_ordering
+  label: Four-direction agricultural ordering
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Four-direction agricultural ordering suggests a ritual-cosmological spatial
+    schema but lacks enough functional detail.
+  cautions: Culturally specific Navajo directional ordering needs human review; possible
+    placements include sacred_time, cosmic_origin, sacred_law, or a future directional-cosmology
+    group.
+  suggested_aliases:
+  - agriculture_ordered_by_four_directions
+  - four_direction_farming_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-direction-ceremonial-ordering
+  motif_id: four_direction_ceremonial_ordering
+  label: four-direction ceremonial ordering
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif is a broad ceremonial spatial-ordering schema, but its narrative
+    or ritual function is unclear.
+  cautions: Needs culturally informed review; may fit sacred_law, sacred_time, axis_mundi/world_center,
+    or a new directional cosmology grouping if recurring.
+  suggested_aliases:
+  - ceremony_ordered_by_four_directions
+  - four_direction_ritual_ordering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-direction-inspection-and-territorial-ordering
+  motif_id: four_direction_inspection_and_territorial_ordering
+  label: Four-direction inspection and territorial ordering
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Inspection of the four directions to order territory fits sovereign rule
+    organizing space and social order.
+  cautions: If cosmological space rather than rulership is primary, axis_mundi or
+    cosmic_origin may be relevant; preserve the four-direction detail.
+  suggested_aliases:
+  - sovereign_inspection_of_four_directions
+  - territory_ordered_by_four_direction_inspection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-direction-ordering-and-summoning-of-game
+  motif_id: four_direction_ordering_and_summoning_of_game
+  label: Four-direction ordering and summoning of game
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This combines directional ordering with ritual or supernatural summoning
+    of animals, not cleanly covered by existing groups.
+  cautions: Culturally specific hunting/animal ritual context is needed; possible
+    relations include sacred_exchange, divine_intervention, sacred_law, or a future
+    directional-cosmology group.
+  suggested_aliases:
+  - game_summoned_through_four_direction_ordering
+  - four_direction_hunting_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-direction-settlement-or-world-ordering
+  motif_id: four_direction_settlement_or_world_ordering
+  label: four-direction settlement or world ordering
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: Directional Cosmology and Fourfold Ordering
+  relationship: uncertain
+  confidence: medium
+  rationale: The label may indicate a recurring four-direction cosmological pattern
+    used to organize settlement and world space.
+  cautions: Several batch items suggest a possible directional-ordering group, but
+    culturally specific evidence and reviewer policy are needed before creating it.
+  suggested_aliases:
+  - four_direction_world_ordering
+  - settlement_ordered_by_four_directions
+  suggested_new_group:
+    id: directional_cosmology_fourfold_ordering
+    label: Directional Cosmology and Fourfold Ordering
+    description: Ritual, territorial, agricultural, ceremonial, or cosmological order
+      structured by the four directions, often with associated colors, beings, implements,
+      movements, or social functions.
+    parent_group_ids:
+    - cosmic_origin
+    - axis_mundi
+    - sacred_law
+    related_group_ids:
+    - sacred_time
+    - royal_legitimacy
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover cosmic origin, sacred
+      center, law, and kingship, but do not clearly preserve the cross-cutting directional
+      schema that organizes space, ritual, settlement, and social practice.
+batch_notes:
+- Several four-direction labels may represent a recurring directional-cosmology complex;
+  defer creation to human taxonomy review because meanings are culturally specific
+  and span ritual, spatial, agricultural, and political functions.
+- Single-occurrence battle logistics labels should generally remain evidence details
+  unless repeated or ritually marked.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional suggestions only; directional-ordering items especially require
+    culturally informed review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1574
+  input_sha256: 7dc9ccae4e47c2b3e0e55d9011beb833014d0042aab1680403afbb59d5f2aeff
+

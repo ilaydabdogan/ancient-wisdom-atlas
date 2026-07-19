@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2800
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.revenge-ambush-during-hunt
+  motif_id: revenge_ambush_during_hunt
+  label: revenge ambush during hunt
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes retaliatory violence carried out as an ambush, fitting
+    the broad conflict and warfare complex.
+  cautions: Hunt setting may be only episode detail; if the passage emphasizes moral
+    payback rather than combat, divine_judgment may be secondary.
+  suggested_aliases:
+  - hunting_ambush_as_revenge
+  - revenge_attack_during_hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-attack-by-relative-of-a-slain-woman
+  motif_id: revenge_attack_by_relative_of_a_slain_woman
+  label: revenge attack by relative of a slain woman
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin revenge for a slain person is a retaliatory combat pattern within
+    the sacred combat and feud field.
+  cautions: The slain-woman specificity may be culturally and narratively important;
+    review for gendered kinship obligation, mourning, or violated trust before flattening.
+  suggested_aliases:
+  - kin_revenge_for_slain_woman
+  - relative_avenges_slain_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-by-harassing-the-harasser
+  motif_id: revenge_by_harassing_the_harasser
+  label: revenge by harassing the harasser
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label signals reciprocal retaliation but not clearly sacred combat,
+    trickster reversal, legal redress, or moral judgment.
+  cautions: May be a comic/fable reversal, social retaliation, or passage-specific
+    action; source context is needed before grouping.
+  suggested_aliases:
+  - harasser_harassed_in_return
+  - retaliatory_harassment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-cannibal-feast-for-slain-villager
+  motif_id: revenge_cannibal_feast_for_slain_villager
+  label: revenge cannibal feast for slain villager
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines revenge, death, communal feasting, and cannibalism,
+    and cannot be safely reduced to combat or sacrifice from the label alone.
+  cautions: Culturally sensitive; verify source framing and avoid treating cannibalism
+    as a generic violence motif without evidence.
+  suggested_aliases:
+  - cannibal_revenge_feast_for_slain_villager
+  - communal_revenge_feast_after_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-comes-upon-the-murderer
+  motif_id: revenge_comes_upon_the_murderer
+  label: revenge comes upon the murderer
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The wording emphasizes retributive consequence falling on a murderer,
+    aligning with moral reckoning and punishment.
+  cautions: If revenge is carried out by human kin rather than sacred or moral order,
+    sacred_combat or feud-related indexing may be more appropriate.
+  suggested_aliases:
+  - murderer_overtaken_by_revenge
+  - retribution_comes_to_the_murderer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-cycle-after-defeat
+  motif_id: revenge_cycle_after_defeat
+  label: revenge cycle after defeat
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cycle of revenge following defeat fits feud, retaliation, and continuing
+    conflict within the sacred combat group.
+  cautions: If the source emphasizes social breakdown or moral judgment rather than
+    fighting, divine_judgment may be a related mapping.
+  suggested_aliases:
+  - revenge_cycle_following_defeat
+  - retaliatory_cycle_after_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-delayed-until-healing
+  motif_id: revenge_delayed_until_healing
+  label: revenge delayed until healing
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes delayed retaliation after recovery, a combat-revenge
+    sequence rather than a distinct canonical motif.
+  cautions: Healing delay may be an episode detail; if healing is ritually or supernaturally
+    central, consider divine_intervention or death_and_transformation as secondary
+    context.
+  suggested_aliases:
+  - delayed_revenge_after_healing
+  - revenge_postponed_until_recovery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-directed-at-an-object-through-a-human-victim
+  motif_id: revenge_directed_at_an_object_through_a_human_victim
+  label: revenge directed at an object through a human victim
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrasing is opaque and may involve symbolic substitution, object
+    agency, or an artifact-specific episode.
+  cautions: Source evidence is needed to determine whether the object is a power object,
+    a personified target, a substitute victim, or a generated-label artifact.
+  suggested_aliases:
+  - revenge_against_object_through_human_victim
+  - substitutional_revenge_through_human_victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-expedition-halted-by-sight-of-devastation
+  motif_id: revenge_expedition_halted_by_sight_of_devastation
+  label: revenge expedition halted by sight of devastation
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A revenge expedition is a combat/feud action, while its halting by devastation
+    appears to be a narrative outcome detail.
+  cautions: If the devastation functions as divine warning, omen, or judgment, dream_and_vision
+    or divine_judgment may be secondary.
+  suggested_aliases:
+  - revenge_expedition_abandoned_after_devastation
+  - retaliatory_expedition_halted_by_devastation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-for-greed-through-collective-entrapment
+  motif_id: revenge_for_greed_through_collective_entrapment
+  label: revenge for greed through collective entrapment
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Punishment for greed through entrapment aligns with the existing greed
+    reversal and moral consequence material under divine_judgment.
+  cautions: If the passage centers on deceptive strategy rather than moral punishment,
+    trickster or sacred_combat may be better secondary groups.
+  suggested_aliases:
+  - greed_punished_by_collective_entrapment
+  - collective_entrapment_as_revenge_for_greed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels are single-occurrence revenge or retaliation variants; preserve as evidence
+  details unless recurring feud/revenge patterns justify a future subgroup.
+- Consider whether a durable revenge/feud subgroup under sacred_combat is warranted
+  if many similar labels recur, but this batch alone can be handled by existing groups
+  plus human review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several labels require source context due to
+    cultural sensitivity, opacity, or over-specific episode wording.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2800
+  input_sha256: b4a81a07ee654484e6962c43521fb5e178540825421247183d186e50e268043f
+

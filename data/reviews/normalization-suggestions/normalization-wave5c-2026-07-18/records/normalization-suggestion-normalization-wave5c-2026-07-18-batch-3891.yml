@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3891
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.repetition-of-troy-s-siege-and-fate
+  motif_id: repetition_of_troy_s_siege_and_fate
+  label: Repetition of Troy's siege and fate
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could concern cyclical fate, literary repetition, or Roman reception
+    of Troy; label alone does not show a stable motif function.
+  cautions: Single occurrence and culturally/textually specific; avoid treating as
+    transmission or recurrence evidence without source context.
+  suggested_aliases:
+  - repeated_fate_of_troy
+  - troy_siege_fate_repetition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.replacement-familiar-restores-health
+  motif_id: replacement_familiar_restores_health
+  label: Replacement familiar restores health
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: medium
+  rationale: Health restored through replacement of a familiar suggests recovery of
+    a vital double or spirit-helper relationship.
+  cautions: Review culturally specific meaning of 'familiar'; could instead involve
+    spirit healing or tutelary spirit agency under divine_intervention.
+  suggested_aliases:
+  - replacement_spirit_helper_restores_health
+  - restoration_of_health_by_replacing_familiar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.replacement-of-a-failing-cosmic-burden-bearer
+  motif_id: replacement_of_a_failing_cosmic_burden_bearer
+  label: replacement of a failing cosmic burden-bearer
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cosmic burden-bearer supports or stabilizes the world, fitting world-axis
+    and cosmic-support imagery.
+  cautions: Could warrant a future cosmic-support subgroup if many burden-bearer labels
+    recur; review local cosmology before broad indexing.
+  suggested_aliases:
+  - cosmic_burden_bearer_replaced
+  - replacement_of_world_support_bearer
+  - failing_world_bearer_replaced
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.replacement-of-one-people-by-another
+  motif_id: replacement_of_one_people_by_another
+  label: replacement of one people by another
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: In many sacred narratives, one people replacing another functions as
+    moral reckoning or judgment on a community.
+  cautions: If the passage is historical, genealogical, or ethnographic rather than
+    divine moral replacement, review or exclude from motif queries.
+  suggested_aliases:
+  - people_replaced_by_another_people
+  - divine_replacement_of_a_people
+  - community_replaced_after_judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.replacement-of-rival-cult-sites-with-buddhist-foundations
+  motif_id: replacement_of_rival_cult_sites_with_buddhist_foundations
+  label: replacement of rival cult sites with Buddhist foundations
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: May describe sacred-site transformation, religious legitimation, or historical
+    sectarian replacement rather than a narrative motif.
+  cautions: Culturally and historically specific; do not index as transmission or
+    polemic without passage evidence. Could be royal_legitimacy, sacred_geography,
+    or meta-context.
+  suggested_aliases:
+  - rival_cult_site_replaced_by_buddhist_foundation
+  - buddhist_foundation_replaces_rival_cult_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.report-to-central-teacher-followed-by-communal-inquiry
+  motif_id: report_to_central_teacher_followed_by_communal_inquiry
+  label: report to central teacher followed by communal inquiry
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a discourse or monastic-text framing pattern rather
+    than a symbolic narrative motif.
+  cautions: If the passage emphasizes transmission of wisdom or authoritative teaching,
+    preserve as evidence under sacred_knowledge, but likely exclude from broad motif
+    queries.
+  suggested_aliases:
+  - teacher_report_and_communal_inquiry
+  - communal_inquiry_after_report_to_teacher
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reported-intergroup-transmission-of-a-dance
+  motif_id: reported_intergroup_transmission_of_a_dance
+  label: reported intergroup transmission of a dance
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes a reported transmission claim, not the symbolic
+    or ritual function of the dance itself.
+  cautions: Keep transmission claims out of motif normalization; if the dance has
+    ritual power in the source, create a separate ritual motif from passage evidence.
+  suggested_aliases:
+  - intergroup_dance_transmission_report
+  - reported_dance_transmission_between_groups
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reported-irregularity-followed-by-authoritative-rule
+  motif_id: reported_irregularity_followed_by_authoritative_rule
+  label: reported irregularity followed by authoritative rule
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An irregular practice prompting an authoritative rule fits sacred law
+    formation and regulation of conduct.
+  cautions: May be Vinaya/legal narrative formula rather than reusable mythic motif;
+    review whether to preserve only as legal-text evidence.
+  suggested_aliases:
+  - irregularity_prompts_authoritative_rule
+  - reported_irregularity_followed_by_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reported-monastic-possession-followed-by-authoritative-allowance
+  motif_id: reported_monastic_possession_followed_by_authoritative_allowance
+  label: reported monastic possession followed by authoritative allowance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A monastic possession case resolved by authoritative allowance fits regulation
+    of permitted conduct under sacred law.
+  cautions: Highly context-specific legal formula; may be excluded if it only indexes
+    textual procedure rather than a motif.
+  suggested_aliases:
+  - monastic_possession_authoritatively_allowed
+  - reported_possession_followed_by_allowance
+  - authoritative_allowance_after_monastic_possession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.representational-avoidance-in-visual-art
+  motif_id: representational_avoidance_in_visual_art
+  label: representational avoidance in visual art
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a sacred-law taboo, aniconic practice, aesthetic convention,
+    or ethnographic observation depending on evidence.
+  cautions: Review cultural context carefully; do not reduce local visual practice
+    to generic prohibition without passage support.
+  suggested_aliases:
+  - avoidance_of_representation_in_visual_art
+  - aniconic_visual_avoidance
+  - visual_art_representational_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and read like legal/textual formulas or historical/contextual
+  observations; human review should decide whether to exclude them from broad motif
+  queries.
+- Avoid using placement of reported transmission or cult-site replacement labels as
+  evidence for borrowing, contact, or common origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3891
+  input_sha256: '08fe11518ec0e9fcc3a17b1f471d0fb8f4ded1f784635d4d5342ec8cd4d4f190'
+

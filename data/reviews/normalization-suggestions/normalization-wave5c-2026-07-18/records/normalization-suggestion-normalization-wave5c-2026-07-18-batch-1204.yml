@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1204
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.threat-of-city-burning-and-sacred-destruction
+  motif_id: threat_of_city_burning_and_sacred_destruction
+  label: threat of city-burning and sacred destruction
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Threatened burning of a city is a violent warfare/destruction scenario;
+    existing sacred_combat already holds city and ship burning variants.
+  cautions: Single occurrence; if the passage emphasizes divine punishment or sacral
+    pollution rather than warfare, divine_judgment may be a better secondary mapping.
+  suggested_aliases:
+  - threatened_destruction_of_city_and_sacred_buildings
+  - threatened_city_burning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threatened-collapse-and-restoration-of-ritual-lodge
+  motif_id: threatened_collapse_and_restoration_of_ritual_lodge
+  label: threatened collapse and restoration of ritual lodge
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual architecture, threatened collapse, and restoration;
+    function could be sacred center, ritual repair, initiation lodge, or passage-specific
+    event.
+  cautions: Culturally sensitive ritual-lodge context needs source review; avoid collapsing
+    into axis_mundi or sacred_craft without evidence that the lodge functions cosmologically
+    or is ritually rebuilt as sacred construction.
+  suggested_aliases:
+  - ritual_lodge_threatened_with_collapse
+  - restoration_of_ritual_lodge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threatened-destruction-of-city-and-sacred-buildings
+  motif_id: threatened_destruction_of_city_and_sacred_buildings
+  label: Threatened destruction of city and sacred buildings
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Threat to destroy a city and its sacred buildings fits the warfare/destructive
+    assault side of sacred_combat more than sacrifice.
+  cautions: May instead indicate divine_judgment if destruction is a sacred punishment,
+    or sacred_law if focused on desecration; preserve sacred-building detail as evidence.
+  suggested_aliases:
+  - threat_of_city_burning_and_sacred_destruction
+  - threatened_city_and_temple_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threatened-internal-bleeding-curse
+  motif_id: threatened_internal_bleeding_curse
+  label: Threatened internal bleeding curse
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: The core pattern is a threatened curse whose speech act can harm the
+    body.
+  cautions: The specific internal-bleeding effect is probably evidence detail; review
+    whether this is a spoken curse, ritual threat, or healer/shamanic action in context.
+  suggested_aliases:
+  - bodily_harm_curse
+  - curse_threatening_internal_bleeding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-healing-methods-knife-herbs-and-holy-word
+  motif_id: three_healing_methods_knife_herbs_and_holy_word
+  label: 'three healing methods: knife, herbs, and holy word'
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a doctrinal or classificatory triad of healing techniques, not
+    clearly a narrative motif under current groups.
+  cautions: Could touch sacred_knowledge, sacred_law, sacred_substance, or curse_blessing_speech
+    depending on whether the focus is medical doctrine, ritual purity, plant remedy,
+    or performative holy word.
+  suggested_aliases:
+  - threefold_healing_methods
+  - knife_herbs_and_holy_word_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.three-sacred-fires-as-guardians-of-the-earth
+  motif_id: three_sacred_fires_as_guardians_of_the_earth
+  label: Three sacred fires as guardians of the earth
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: role_variant
+  confidence: high
+  rationale: Sacred fires acting as guardians clearly belong to the sacred_fire group,
+    with guardian role preserved as local granularity.
+  cautions: If the passage emphasizes cosmic protection of earth more than fire ritual,
+    divine_intervention or sacred_law may be relevant secondary facets.
+  suggested_aliases:
+  - sacred_fires_guard_the_earth
+  - three_guardian_sacred_fires
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-calendrical-classification-of-ritual-administrative-action
+  motif_id: threefold_calendrical_classification_of_ritual_administrative_action
+  label: Threefold calendrical classification of ritual-administrative action
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A calendrical scheme ordering ritual action fits sacred_time and its
+    ritual calendar function.
+  cautions: Administrative classification may be a textual or institutional artifact;
+    verify that it structures sacred or ritual time rather than only bureaucratic
+    scheduling.
+  suggested_aliases:
+  - calendrical_classification_of_ritual_action
+  - threefold_ritual_calendar_classification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-circumambulation-of-a-ritual-object
+  motif_id: threefold_circumambulation_of_a_ritual_object
+  label: threefold circumambulation of a ritual object
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Circumambulation is a ritual action, but current groups do not cleanly
+    represent ritual movement around a sacred object.
+  cautions: Source context is needed to decide whether the object is a sacred treasure,
+    world center/axis, offering rite, initiation act, or local ceremonial detail too
+    specific for broad queries.
+  suggested_aliases:
+  - ritual_circumambulation_of_object
+  - threefold_ritual_circling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-goddess-across-heaven-earth-and-lower-world
+  motif_id: threefold_goddess_across_heaven_earth_and_lower_world
+  label: Threefold goddess across heaven, earth, and lower world
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A goddess distributed across cosmic levels fits the sacred feminine/mother
+    goddess field, with triadic cosmic scope preserved.
+  cautions: Could also support axis_mundi if the emphasis is linking heaven, earth,
+    and underworld; may be deity-specific theological classification rather than recurring
+    motif.
+  suggested_aliases:
+  - triple_goddess_across_three_worlds
+  - three_realm_goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.threefold-hierarchy-of-god-cosmos-and-man
+  motif_id: threefold_hierarchy_of_god_cosmos_and_man
+  label: threefold hierarchy of God, Cosmos, and man
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as philosophical cosmology rather than a clear narrative
+    motif; possible placements depend on passage evidence.
+  cautions: May fit sacred_knowledge, cosmic_origin, supreme_ruler, or a Hermetic
+    microcosm/macrocosm theme not currently represented; avoid forcing into hierarchy
+    solely from abstract doctrine.
+  suggested_aliases:
+  - god_cosmos_man_hierarchy
+  - threefold_cosmic_hierarchy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual or doctrinal classifications;
+  preserve local evidence and avoid promoting triadic forms without recurrence.
+- Threatened city/sacred-building destruction appears near existing sacred_combat
+  aliases, but review should check whether the source frames it as warfare, desecration,
+  or divine punishment.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; ritual-lodge, healing-triad, circumambulation,
+    and Hermetic hierarchy items especially need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1204
+  input_sha256: 34134bccb409ddf49fa794173d7d3f5884e5956d124aba51612cd9c41cc7afce
+

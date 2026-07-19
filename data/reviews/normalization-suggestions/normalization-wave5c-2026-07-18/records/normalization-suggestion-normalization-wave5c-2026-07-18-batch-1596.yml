@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1596
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.huntress-deity-moves-from-wild-hunt-to-ordered-dance
+  motif_id: huntress_deity_moves_from_wild_hunt_to_ordered_dance
+  label: huntress deity moves from wild hunt to ordered dance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual domestication of wild divine power, but
+    no existing group clearly captures hunt-to-dance transition.
+  cautions: Single Greek occurrence and highly interpretive wording; could be ritual,
+    divine order, sacred time, or passage-specific commentary.
+  suggested_aliases:
+  - wild_hunt_to_ordered_dance
+  - huntress_deity_ordered_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hydraulic-ordering-of-habitable-land
+  motif_id: hydraulic_ordering_of_habitable_land
+  label: Hydraulic ordering of habitable land
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ordering waters to make land habitable fits a civilizing founder/culture-hero
+    function, especially when tied to good rule.
+  cautions: If the passage emphasizes cosmic creation or landscape formation rather
+    than political-civilizing labor, cosmic_origin may be a secondary fit.
+  suggested_aliases:
+  - water_control_makes_land_habitable
+  - hydraulic_civilizing_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ideal-city-or-state-set-against-imperfect-existing-polities
+  motif_id: ideal_city_or_state_set_against_imperfect_existing_polities
+  label: Ideal city or state set against imperfect existing polities
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: An ideal polity contrasted with flawed real states concerns normative
+    social order and law.
+  cautions: May be philosophical argument rather than mythic motif; exclude or mark
+    meta-context if it is only political theory exposition.
+  suggested_aliases:
+  - ideal_state_contrasted_with_existing_polities
+  - ideal_polity_against_imperfect_states
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ideal-city-ruled-by-philosophers
+  motif_id: ideal_city_ruled_by_philosophers
+  label: ideal city ruled by philosophers
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rule by philosophers is a legitimacy model where wisdom authorizes political
+    order.
+  cautions: Could belong under sacred_law if the focus is constitutional order, or
+    sacred_knowledge if the focus is wisdom rather than rulership.
+  suggested_aliases:
+  - philosopher_rulers_of_ideal_city
+  - wisdom_authorizes_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ideas-of-a-future-state
+  motif_id: ideas_of_a_future_state
+  label: Ideas of a future state
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The phrase is too broad: it may mean future society, afterlife state,
+    eschatology, or political condition.'
+  cautions: Needs source context; avoid mapping to power/order if 'future state' means
+    postmortem or eschatological condition.
+  suggested_aliases:
+  - future_state_ideas
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - flood_and_renewal
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idolatrous-image-making-in-patriarchal-setting
+  motif_id: idolatrous_image_making_in_patriarchal_setting
+  label: idolatrous image-making in patriarchal setting
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Idolatrous image-making is best treated as a prohibition or violation
+    within sacred law.
+  cautions: The 'patriarchal setting' qualifier may be contextual evidence rather
+    than motif content; preserve but do not over-index.
+  suggested_aliases:
+  - idolatrous_image_making
+  - prohibited_idol_image_making
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ill-ruler-requires-a-singular-animal-remedy
+  motif_id: ill_ruler_requires_a_singular_animal_remedy
+  label: ill ruler requires a singular animal remedy
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines kingship, illness, animal remedy, and possible quest/healing;
+    the dominant function is unclear.
+  cautions: Could map to royal_legitimacy if the ruler's body reflects sovereignty,
+    divine_intervention if miraculous healing, or hero_journey if remedy quest is
+    central.
+  suggested_aliases:
+  - ruler_healed_by_unique_animal_remedy
+  - singular_animal_remedy_for_ill_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - divine_intervention
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illicit-killing-rejected-by-bounty-authority
+  motif_id: illicit_killing_rejected_by_bounty_authority
+  label: illicit killing rejected by bounty authority
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A killing judged illegitimate by an authority concerns legal and social
+    regulation of violence.
+  cautions: If the passage emphasizes moral punishment rather than legal rejection,
+    divine_judgment may be a secondary mapping; 'bounty authority' may be context-specific.
+  suggested_aliases:
+  - illicit_killing_rejected_by_authority
+  - unlawful_killing_denied_reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_combat
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illicit-tryst-outside-the-lawful-monarch-s-abode
+  motif_id: illicit_tryst_outside_the_lawful_monarch_s_abode
+  label: illicit tryst outside the lawful monarch's abode
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an episode-specific plot detail rather than a reusable
+    motif group.
+  cautions: If the broader passage centers on adulterous sovereignty crisis, betrayal,
+    or sacred kingship violation, remap at that broader level.
+  suggested_aliases:
+  - illicit_tryst_at_monarch_boundary
+  - tryst_outside_royal_abode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - betrayal_violated_trust
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illness-as-an-intrusive-object-extracted-by-sucking
+  motif_id: illness_as_an_intrusive_object_extracted_by_sucking
+  label: Illness as an intrusive object extracted by sucking
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This is a specific healing-ritual model not cleanly covered by current
+    groups.
+  cautions: Culturally specific healing practice; review source evidence and terminology
+    before normalizing. It may warrant a future ritual-healing group if recurrent.
+  suggested_aliases:
+  - intrusive_object_illness_extraction
+  - sucking_extraction_healing_rite
+  suggested_new_group:
+    id: ritual_healing
+    label: Ritual Healing and Spiritual Medicine
+    description: Ritual, shamanic, or sacred techniques that diagnose, extract, transfer,
+      or cure illness through spiritual agency, substances, specialists, or embodied
+      procedures.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    related_group_ids:
+    - soul_loss_restoration
+    - sacrifice
+    - sacred_substance
+    reason_existing_groups_insufficient: Existing groups cover intervention, purity,
+      soul restoration, and substances, but not recurrent healing procedures where
+      illness is treated as an intrusive object or spiritual affliction.
+batch_notes:
+- Several items in this batch are philosophical or episode-specific power/order labels;
+  human review should distinguish reusable motif from argument summary or plot detail.
+- No transmission or borrowing claims are implied by these placement suggestions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific healing and
+    Guiana future-state labels require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1596
+  input_sha256: 14e89976ce69ad24f481fabdd9f9f3dde69e7d9784e29dcf0cc46597a06ab895
+

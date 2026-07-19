@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3019
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.spouse-selection-in-a-dedicated-night-house
+  motif_id: spouse_selection_in_a_dedicated_night_house
+  label: spouse selection in a dedicated night house
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a courtship or marriage-selection institution,
+    but the ritual or narrative function is unclear from wording alone.
+  cautions: Single occurrence and culturally specific space; could be sacred_love,
+    sacred_law, initiation, or an ethnographic detail rather than a motif.
+  suggested_aliases:
+  - night_house_spouse_selection
+  - marriage_selection_in_night_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacred_law
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.springbok-hunting-observances-and-uses
+  motif_id: springbok_hunting_observances_and_uses
+  label: springbok hunting observances and uses
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to hunting observances and animal use, but does not
+    specify taboo, sacrifice, sacred law, or animal-helper function.
+  cautions: Culturally specific San hunting practice needs source review; avoid flattening
+    animal observances into generic sacrifice or law without evidence.
+  suggested_aliases:
+  - springbok_hunting_observances
+  - hunting_observances_and_animal_uses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacrifice
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.squalid-threshold-lodging-before-sleep
+  motif_id: squalid_threshold_lodging_before_sleep
+  label: squalid threshold lodging before sleep
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Threshold lodging before sleep may mark liminality, humiliation, ordeal,
+    or dream incubation, but the function is not evident.
+  cautions: Could map to initiation, dream_and_vision, threshold_guardian, or be an
+    over-specific scene setting; source context required.
+  suggested_aliases:
+  - threshold_lodging_before_sleep
+  - liminal_lodging_before_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - dream_and_vision
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.staged-reintroduction-of-foods-during-mourning
+  motif_id: staged_reintroduction_of_foods_during_mourning
+  label: Staged reintroduction of foods during mourning
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A regulated mourning diet is a ritual-social rule governing purity, grief,
+    and proper conduct after death.
+  cautions: Also relates to lament_and_mourning and ancestor rites; preserve food-stage
+    specificity as evidence rather than a canonical motif.
+  suggested_aliases:
+  - mourning_food_reintroduction
+  - ritual_diet_during_mourning
+  - staged_mourning_diet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.standard-vessel-forms-organized-by-function
+  motif_id: standard_vessel_forms_organized_by_function
+  label: Standard vessel forms organized by function
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads like material-culture classification of vessel types
+    rather than a narrative or symbolic motif.
+  cautions: If a source assigns sacred power, ritual role, or mythic origin to a vessel
+    form, remap that evidence to sacred_vessel or sacred_craft.
+  suggested_aliases:
+  - functional_vessel_typology
+  - vessel_forms_by_function
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.standing-support-that-upholds-a-house
+  motif_id: standing_support_that_upholds_a_house
+  label: standing support that upholds a house
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A house support may be an architectural detail, symbolic pillar, or domestic
+    sacred center, but the label lacks function.
+  cautions: Do not map to axis_mundi unless the support connects cosmic levels or
+    marks a sacred center; may be a passage artifact.
+  suggested_aliases:
+  - house_upholding_support
+  - standing_house_support
+  - domestic_support_pillar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - sacred_law
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.status-demotion-marked-by-movement-to-the-entrance
+  motif_id: status_demotion_marked_by_movement_to_the_entrance
+  label: status demotion marked by movement to the entrance
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Spatial movement within a dwelling marks social rank and regulated status,
+    fitting sacred law and social order.
+  cautions: May be an ethnographic seating/protocol detail rather than a mythic motif;
+    keep threshold/entrance specificity in notes.
+  suggested_aliases:
+  - spatial_status_demotion
+  - entrance_as_low_status_position
+  - status_marked_by_house_position
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.status-distinction-marked-by-food
+  motif_id: status_distinction_marked_by_food
+  label: status distinction marked by food
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food distribution or consumption marking status belongs with reciprocal
+    social obligations and ranked exchange.
+  cautions: Could map to sacred_law if the emphasis is rule-bound status order rather
+    than exchange or hospitality.
+  suggested_aliases:
+  - rank_marked_by_food
+  - status_food_distribution
+  - food_as_status_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.status-marked-body-covering
+  motif_id: status_marked_body_covering
+  label: Status-marked body covering
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Dress or body covering used to signal status is a social-order marker
+    governed by custom or ritual code.
+  cautions: If the covering is a sacred power object or initiation garment, sacred_treasures
+    or initiation may be secondary; single occurrence remains granular.
+  suggested_aliases:
+  - body_covering_as_status_marker
+  - status_clothing
+  - rank_marked_by_body_covering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.status-marked-by-grooming-and-dress
+  motif_id: status_marked_by_grooming_and_dress
+  label: status marked by grooming and dress
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Grooming and dress as signs of rank or propriety fit regulated social
+    order and ethical-ritual conduct.
+  cautions: May be a social etiquette detail rather than a durable motif; preserve
+    Confucian ritual-context evidence.
+  suggested_aliases:
+  - grooming_and_dress_as_status_markers
+  - ritual_status_dress
+  - rank_marked_by_grooming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence social-space or material-culture
+  labels; several should remain provisional until passage evidence confirms ritual
+  or narrative function.
+- For status-marking labels, sacred_law is used as the broad social-order group, but
+  reviewers may choose exclusion if the source evidence is purely descriptive ethnography.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3019
+  input_sha256: e8a9d1f2c80432300a3bee3f0d537c5f3b5e08bd42ef9e513e83ed8b2cdfd3e0
+

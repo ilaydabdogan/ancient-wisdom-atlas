@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3059
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dangerous-supernatural-forest-adversary
+  motif_id: dangerous_supernatural_forest_adversary
+  label: Dangerous supernatural forest adversary
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: A supernatural adversary in a forest may function as a boundary or ordeal
+    figure, but the label gives only setting and danger.
+  cautions: Could instead be sacred combat, otherworld encounter, monster episode,
+    or passage-specific adversary detail; source context is needed.
+  suggested_aliases:
+  - forest threshold adversary
+  - supernatural forest guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-supernatural-guardians-of-a-forbidden-place
+  motif_id: dangerous_supernatural_guardians_of_a_forbidden_place
+  label: dangerous supernatural guardians of a forbidden place
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: Supernatural guardians barring access to a forbidden place closely match
+    the threshold-guardian function.
+  cautions: If the forbidden place is primarily a sacred center, afterlife realm,
+    or taboo landscape, consider secondary mappings to axis_mundi, afterlife_passage,
+    or sacred_law.
+  suggested_aliases:
+  - guardian of forbidden place
+  - supernatural place guardian
+  - forbidden threshold guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-task_framed-as-filial-piety
+  motif_id: dangerous_task_framed_as_filial_piety
+  label: Dangerous task framed as filial piety
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label frames ordeal-like action through filial duty, an ethical/social
+    obligation already handled under sacred_law aliases.
+  cautions: If the task is a quest ordeal rather than a moral duty motif, hero_journey
+    or initiation may be better secondary mappings.
+  suggested_aliases:
+  - filial duty dangerous task
+  - dangerous filial obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-task-left-unassigned
+  motif_id: dangerous_task_left_unassigned
+  label: dangerous task left unassigned
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase reads like a classification or extraction artifact about task
+    assignment rather than a symbolic motif.
+  cautions: If the passage describes a dangerous task refused by all or awaiting a
+    hero, it may belong under initiation or hero_journey after evidence review.
+  suggested_aliases:
+  - unassigned dangerous task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-taste-of-scab-contaminated-food-produces-insatiable-hunger
+  motif_id: dangerous_taste_of_scab_contaminated_food_produces_insatiable_hunger
+  label: Dangerous taste of scab-contaminated food produces insatiable hunger
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: uncertain
+  confidence: low
+  rationale: A harmful ingested substance causing bodily transformation or compulsion
+    may fit sacred_substance, but the label is highly specific.
+  cautions: May involve taboo contagion, punishment, hunger transformation, or an
+    episode-specific detail; review culturally specific contamination language carefully.
+  suggested_aliases:
+  - contaminated food causes insatiable hunger
+  - dangerous ingestion causes hunger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-thin-ice-and-retrospective-reproach
+  motif_id: dangerous_thin_ice_and_retrospective_reproach
+  label: dangerous thin ice and retrospective reproach
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label combines a local hazard with a retrospective emotional or moral
+    comment, making it too contextual for broad motif queries.
+  cautions: If the episode is a recurring ordeal of unsafe ice, survival judgment,
+    or violated warning, human review could remap to initiation or divine_judgment.
+  suggested_aliases:
+  - thin ice danger with reproach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-tower-encounter-with-golden-objects
+  motif_id: dangerous_tower_encounter_with_golden_objects
+  label: Dangerous tower encounter with golden objects
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: Golden objects may be power objects or temptation objects, but the tower
+    encounter function is unclear.
+  cautions: Could fit sacred_treasures, axis_mundi/ascent, threshold_guardian, pride_and_downfall,
+    or a passage-specific adventure scene depending on evidence.
+  suggested_aliases:
+  - tower encounter with golden objects
+  - dangerous golden objects in tower
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-trails-cleared-by-destruction-of-skeleton-beings
+  motif_id: dangerous_trails_cleared_by_destruction_of_skeleton_beings
+  label: dangerous trails cleared by destruction of skeleton beings
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Clearing dangerous trails by defeating beings functions as a journey-ordeal
+    that opens passage.
+  cautions: Skeleton beings may also imply restless dead or sacred combat; preserve
+    the death-being detail in evidence notes.
+  suggested_aliases:
+  - trail-clearing by defeating skeleton beings
+  - dangerous path cleared of skeletal adversaries
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-troll-capsizes-those-it-meets
+  motif_id: dangerous_troll_capsizes_those_it_meets
+  label: Dangerous troll capsizes those it meets
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: A troll causing capsizing may be a liminal water-route danger or adversary
+    encountered during passage.
+  cautions: Could be a local monster episode, sacred_waters peril, threshold guardian,
+    or over-specific encounter; source context is needed before mapping.
+  suggested_aliases:
+  - capsizing troll encounter
+  - waterway troll adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-visitation-to-wonders-in-embedded-tales
+  motif_id: dangerous_visitation_to_wonders_in_embedded_tales
+  label: dangerous visitation to wonders in embedded tales
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase emphasizes embedded-tale structure and a generic visit to
+    wonders rather than a stable narrative motif.
+  cautions: If the embedded tales contain specific otherworld visits, marvel encounters,
+    or ordeal journeys, those should be indexed separately under otherworld, hero_journey,
+    or initiation.
+  suggested_aliases:
+  - embedded tale visitation to wonders
+  - dangerous wonder-visit in frame tale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and begin with generic 'dangerous',
+  so confidence is limited without passage evidence.
+- Do not infer transmission or cultural contact from shared placement; suggested groups
+  are only query/review aids.
+- Labels involving culturally specific beings or substances should retain local wording
+  in evidence notes and receive human review before broad normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions; multiple single-occurrence contextual labels
+    require source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3059
+  input_sha256: db4c715494dd5eb17ae710bfd53a8c8fffd35cff10b59d609a6276c3b5b2cc6a
+

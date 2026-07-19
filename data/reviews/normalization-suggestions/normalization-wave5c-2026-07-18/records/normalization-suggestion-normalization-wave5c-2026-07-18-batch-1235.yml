@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1235
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.year-long-drying-of-firewood-for-ritual-suitability
+  motif_id: year_long_drying_of_firewood_for_ritual_suitability
+  label: year-long drying of firewood for ritual suitability
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Firewood preparation for ritual suitability is a ritual handling of sacred
+    fire material.
+  cautions: Single occurrence and highly procedural; if it is only a priestly rule
+    detail, it may be better treated as evidence under sacred_law or excluded from
+    broad motif queries.
+  suggested_aliases:
+  - ritual_preparation_of_sacred_firewood
+  - dried_firewood_for_sacred_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youth-renewing-divine-fruit
+  motif_id: youth_renewing_divine_fruit
+  label: youth-renewing divine fruit
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A divine fruit that renews youth fits the sacred food/substance complex
+    and parallels existing youth-renewing divine food aliases.
+  cautions: May also relate to immortality_without_renewal or death_and_transformation
+    if the passage emphasizes aging, deathlessness, or renewal more than the substance
+    itself.
+  suggested_aliases:
+  - rejuvenating_divine_fruit
+  - youth_renewing_sacred_fruit
+  - rejuvenating_food_preserves_divine_youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.zodiacal-sacred-animal-bearer-ancestry
+  motif_id: zodiacal_sacred_animal_bearer_ancestry
+  label: zodiacal sacred-animal bearer ancestry
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe astral ancestry, sacred animal symbolism, or a
+    technical Hermetic zodiacal schema, none of which maps cleanly from wording alone.
+  cautions: Could be a cosmological anthropology motif, an animal-symbol system, or
+    a commentary artifact; source evidence is needed before placing under cosmic_origin,
+    sacred_knowledge, or sacred_time.
+  suggested_aliases:
+  - zodiacal_animal_ancestry
+  - astral_animal_bearer_ancestry
+  - sacred_animal_zodiacal_lineage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-received-song
+  motif_id: dream_received_song
+  label: Dream-received song
+  occurrences: 3
+  traditions:
+  - native-american-great-lakes
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: A song received in dream is revelation or knowledge transmitted through
+    dream experience.
+  cautions: Because these are culturally specific song traditions, preserve local
+    function; secondary mapping to enchanting_music or sacred_knowledge may be appropriate
+    when the song has ritual power or instruction.
+  suggested_aliases:
+  - song_received_in_dream
+  - dream_revealed_song
+  - dream_song_revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-given-song
+  motif_id: animal_given_song
+  label: Animal-given song
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A song given by an animal functions as nonhuman transmission of sacred
+    or practical knowledge.
+  cautions: May also belong with dream_and_vision if received in a dream, divine_intervention
+    if the animal is a spirit-helper, or enchanting_music if the song's power is the
+    focus.
+  suggested_aliases:
+  - animal_transmitted_song
+  - song_given_by_animal_helper
+  - nonhuman_song_gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.direct-accented-song-opening
+  motif_id: direct_accented_song_opening
+  label: direct accented song opening
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe formal song structure or transcription
+    style rather than a mythic narrative motif.
+  cautions: If the accented opening has named ritual efficacy in source evidence,
+    reconsider under enchanting_music or sacred_song; otherwise preserve as musicological
+    metadata.
+  suggested_aliases:
+  - accented_song_opening
+  - formal_song_opening_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-flight-through-the-air
+  motif_id: dream_flight_through_the_air
+  label: Dream flight through the air
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Flight occurring in a dream is an altered-perception or vision experience
+    rather than literal ascent by itself.
+  cautions: If the dream flight conveys heavenly travel, initiation, or shamanic soul
+    journey, secondary mappings to ascent, initiation, or soul_loss_restoration may
+    be needed.
+  suggested_aliases:
+  - aerial_flight_in_dream
+  - dream_air_flight
+  - dream_vision_of_flight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dream-song-securing-success-in-a-game
+  motif_id: dream_song_securing_success_in_a_game
+  label: Dream song securing success in a game
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The song has efficacy in securing an outcome, making sound or song a
+    power-bearing medium.
+  cautions: Also involves dream revelation; preserve both dream origin and practical
+    game-success function rather than reducing it to generic music magic.
+  suggested_aliases:
+  - dream_revealed_game_success_song
+  - game_success_song_received_in_dream
+  - efficacious_dream_song_for_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-and-longing-in-love-songs
+  motif_id: loss_and_longing_in_love_songs
+  label: Loss and longing in love songs
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on love, longing, and loss, which fits the sacred_love
+    and longing complex.
+  cautions: If the evidence is only lyric genre or performance description without
+    sacred or mythic function, it may be better treated as expressive evidence under
+    sacred_song or excluded from broad motif queries.
+  suggested_aliases:
+  - love_song_of_loss_and_longing
+  - longing_in_love_song
+  - song_of_lost_love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-memory-and-women-s-song-composition
+  motif_id: maternal_memory_and_women_s_song_composition
+  label: maternal memory and women's song composition
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern gendered authorship, maternal remembrance, ritual
+    song transmission, or ethnographic performance context.
+  cautions: Culturally specific and potentially more social-literary than mythic;
+    review source passages before mapping to sacred_knowledge, sacred_song, mother_goddess,
+    or lament_and_mourning.
+  suggested_aliases:
+  - women_s_song_composition_and_maternal_memory
+  - maternal_remembrance_in_song
+  - gendered_song_composition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Great Lakes and Plains song labels combine dream revelation, musical efficacy,
+  and culturally specific performance practice; preserve local evidence and avoid
+  collapsing all song labels into a single generic music motif.
+- Labels that describe song form or transcription features should generally be excluded
+  from pattern queries unless source evidence shows ritual or narrative efficacy.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific Indigenous song traditions and technical Hermetic/Zoroastrian
+    ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1235
+  input_sha256: 65eab66bf75dc02f2cccad5221bc2d95b149ca24e16185e5465a3640fcad2f67
+

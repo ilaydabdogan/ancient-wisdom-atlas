@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2981
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mysterious-hidden-helper-encountered-during-a-hunt
+  motif_id: mysterious_hidden_helper_encountered_during_a_hunt
+  label: Mysterious hidden helper encountered during a hunt
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A hidden helper may be a supernatural guide or animal/spirit helper,
+    fitting divine intervention if sacred agency is clear.
+  cautions: Single occurrence; hunting context may instead indicate animal helper,
+    tutelary spirit, threshold encounter, or local narrative detail. Review source
+    evidence and cultural specificity.
+  suggested_aliases:
+  - hidden_helper_during_hunt
+  - supernatural_helper_encountered_in_hunt
+  - hunting_helper_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mysterious-island-that-compels-imitation-of-its-inhabitants
+  motif_id: mysterious_island_that_compels_imitation_of_its_inhabitants
+  label: Mysterious island that compels imitation of its inhabitants
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mysterious island with coercive or enchanted social effects fits the
+    otherworld/enchanted realm complex.
+  cautions: The compulsion-to-imitate detail is specific; if the source emphasizes
+    magical compulsion rather than realm geography, storytelling_as_power or enchanting_music-style
+    compulsion analogues may be secondary.
+  suggested_aliases:
+  - enchanted_island_compels_imitation
+  - otherworld_island_with_compulsive_customs
+  - mysterious_island_of_imitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mysterious-unfamiliar-house-on-a-known-trail
+  motif_id: mysterious_unfamiliar_house_on_a_known_trail
+  label: mysterious unfamiliar house on a known trail
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: narrower_than
+  confidence: low
+  rationale: An uncanny house appearing on a known trail can function as a liminal
+    threshold or encounter site.
+  cautions: May be only a setting detail unless it tests, traps, transforms, or mediates
+    passage. Consider otherworld if the house opens into an enchanted realm.
+  suggested_aliases:
+  - uncanny_house_on_known_trail
+  - mysterious_house_as_threshold
+  - unfamiliar_house_on_familiar_path
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mysterious-visitor-entering-a-closed-court
+  motif_id: mysterious_visitor_entering_a_closed_court
+  label: mysterious visitor entering a closed court
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mysterious visitor entering a socially closed space often initiates
+    a stranger-guest test or courtly threshold encounter.
+  cautions: If the visitor is a deity or messenger, divine_intervention or theophany
+    may be more precise. If no hospitality or test occurs, treat as a narrative setting
+    detail.
+  suggested_aliases:
+  - mysterious_stranger_enters_closed_court
+  - uncanny_visitor_at_court
+  - stranger_breaches_closed_court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-allusion-to-farms-or-gardens-in-arid-land
+  motif_id: mythic_allusion_to_farms_or_gardens_in_arid_land
+  label: mythic allusion to farms or gardens in arid land
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate abundance, sacred landscape, memory of place,
+    or commentary rather than a clear motif.
+  cautions: Culturally specific and allusive; do not map from wording alone. Review
+    whether the passage describes sacred provision, paradisal garden imagery, agricultural
+    origin, or simply geographic reference.
+  suggested_aliases:
+  - gardens_in_arid_land_allusion
+  - mythic_farms_in_arid_land
+  - arid_land_garden_allusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-island-geography-mapped-onto-observed-islands
+  motif_id: mythic_island_geography_mapped_onto_observed_islands
+  label: mythic island geography mapped onto observed islands
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes interpretive mapping of mythic geography onto real
+    islands rather than a narrative motif.
+  cautions: Preserve as reception, geography, or commentary note if useful. If a passage
+    itself narrates an enchanted island journey, map that evidence to otherworld instead.
+  suggested_aliases:
+  - mythic_geography_mapped_to_observed_islands
+  - observed_islands_identified_with_mythic_geography
+  - mythic_island_identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.naga-as-helper-in-procuring-a-remedy
+  motif_id: naga_as_helper_in_procuring_a_remedy
+  label: Naga as helper in procuring a remedy
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: serpent_guardian
+  suggested_group_label: Serpent and Serpent Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: A naga is a serpent-being whose helping role in obtaining a remedy fits
+    the serpent-as-power/helper complex.
+  cautions: If the focus is healing intervention rather than serpent identity, divine_intervention
+    may be a secondary mapping. Preserve naga specificity.
+  suggested_aliases:
+  - naga_helper_obtains_remedy
+  - serpent_helper_procures_medicine
+  - naga_as_healing_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.native-versus-stranger-groups-marked-by-migration-and-material-culture
+  motif_id: native_versus_stranger_groups_marked_by_migration_and_material_culture
+  label: Native versus stranger groups marked by migration and material culture
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe social classification, migration memory, origin
+    narrative, or ethnographic commentary rather than a stable motif.
+  cautions: Culturally sensitive and contextual. Avoid forcing into divine_race, culture_hero,
+    or cosmic_origin without passage evidence of mythic ancestry, divine arrival,
+    or origin explanation.
+  suggested_aliases:
+  - native_stranger_group_distinction
+  - migration_and_material_culture_group_markers
+  - stranger_groups_marked_by_material_culture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-boundary-as-discipline
+  motif_id: natural_boundary_as_discipline
+  label: Natural boundary as discipline
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A natural boundary functioning as discipline points to ethical or monastic
+    restraint encoded through spatial limits.
+  cautions: Could instead fit initiation, threshold_guardian, or ethics/psychology
+    depending on whether the boundary tests, teaches, or regulates conduct. Single
+    occurrence.
+  suggested_aliases:
+  - natural_boundary_as_moral_discipline
+  - spatial_boundary_as_discipline
+  - boundary_enforcing_restraint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-force-and-deity-pairing
+  motif_id: natural_force_and_deity_pairing
+  label: natural force and deity pairing
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Personified or paired natural forces and deities may fit divine agency
+    in nature if the passage presents active sacred power.
+  cautions: The label is broad and may be classificatory rather than narrative. Could
+    also belong to sacred_fire, sacred_waters, cosmic_origin, or theophany depending
+    on which force and deity are involved.
+  suggested_aliases:
+  - deity_paired_with_natural_force
+  - natural_force_as_divine_power
+  - natural_phenomenon_deity_pairing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence, place/setting-oriented labels; final placement
+  should verify whether the place functions narratively as threshold, otherworld,
+  divine encounter, or merely context.
+- Do not infer transmission or historical contact from shared placement. Preserve
+  culturally specific terms such as naga and locally grounded migration/material-culture
+  distinctions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; multiple low-confidence items require source-context
+    review before taxonomy updates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2981
+  input_sha256: e976e2c315cf1a521919b91b3112666ba0219b4af832749228382ca4b8242f9e
+

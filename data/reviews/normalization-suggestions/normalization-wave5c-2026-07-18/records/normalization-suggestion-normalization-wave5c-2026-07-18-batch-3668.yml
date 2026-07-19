@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3668
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.medicine-man-sickness-object-manipulation
+  motif_id: medicine_man_sickness_object_manipulation
+  label: medicine-man sickness-object manipulation
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ritual healing by manipulating an object linked to
+    illness, but existing groups do not cleanly cover shamanic diagnosis or healing
+    extraction.
+  cautions: Culturally sensitive terminology and single occurrence; source evidence
+    is needed before placing under sacred_law, sacrifice/ritual transfer, soul_loss_restoration,
+    or divine_intervention.
+  suggested_aliases:
+  - shamanic_sickness_object_manipulation
+  - ritual_manipulation_of_sickness_object
+  - sickness_object_healing_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.medicine-performance-frightens-enemies
+  motif_id: medicine_performance_frightens_enemies
+  label: Medicine performance frightens enemies
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred or medicine performance that intimidates enemies functions as
+    ritualized martial power within conflict.
+  cautions: If the passage emphasizes ceremony rather than combat outcome, sacred_law
+    or divine_intervention may be a better secondary mapping; preserve local meaning
+    of medicine power.
+  suggested_aliases:
+  - ritual_medicine_frightens_enemies
+  - medicine_power_intimidates_enemies
+  - war_medicine_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.medicine-power-used-for-village-defense-and-status
+  motif_id: medicine_power_used_for_village_defense_and_status
+  label: medicine power used for village defense and status
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on sacred power protecting a community and conferring
+    status, which broadly fits supernatural aid in human affairs.
+  cautions: Could also involve royal_legitimacy/status, divine_warrior/defense, or
+    sacred_law/ritual authority; single occurrence requires evidence review.
+  suggested_aliases:
+  - medicine_power_for_village_defense
+  - sacred_power_for_communal_protection
+  - medicine_power_confers_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.medicine-preparation-oriented-to-the-four-cardinal-directions
+  motif_id: medicine_preparation_oriented_to_the_four_cardinal_directions
+  label: Medicine preparation oriented to the four cardinal directions
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes ritual orientation to cosmic directions, but the
+    current taxonomy lacks a clear cardinal-directions or ritual-cosmos group.
+  cautions: May fit sacred_law, sacred_time, axis_mundi, or sacred_exchange depending
+    on whether the emphasis is ritual rule, cosmology, offering, or spatial ordering;
+    culturally specific evidence should be reviewed.
+  suggested_aliases:
+  - ritual_preparation_oriented_to_cardinal_directions
+  - four_directions_medicine_preparation
+  - medicine_rite_aligned_to_four_directions
+  suggested_new_group:
+    id: cardinal_directions_ritual_orientation
+    label: Cardinal Directions and Ritual Orientation
+    description: Ritual actions, prayers, preparations, movements, or sacred spaces
+      are ordered by the four directions or other cosmological orientation systems.
+    parent_group_ids:
+    - axis_mundi
+    - sacred_law
+    related_group_ids:
+    - sacred_time
+    - sacred_exchange
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups cover sacred center, law,
+      and ritual exchange, but not recurring directional orientation as a spatial-cosmological
+      ritual structure.
+- suggestion_id: normalization.suggestion.meditative-attainment-and-supernormal-powers
+  motif_id: meditative_attainment_and_supernormal_powers
+  label: meditative attainment and supernormal powers
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: Meditative attainment producing extraordinary abilities belongs to the
+    interior discipline and transformative quest complex.
+  cautions: If the passage focuses on knowledge rather than powers, sacred_knowledge
+    may be a secondary mapping; avoid treating supernormal powers as proof of divinity
+    without context.
+  suggested_aliases:
+  - meditative_attainment_with_supernormal_powers
+  - spiritual_attainment_and_extraordinary_powers
+  - contemplative_mastery_produces_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.meditative-submergence-against-evil-inclinations
+  motif_id: meditative_submergence_against_evil_inclinations
+  label: meditative submergence against evil inclinations
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Meditative discipline used to overcome harmful inclinations fits an interior
+    spiritual quest and transformation of self.
+  cautions: The wording is abstract and may reflect doctrinal commentary; sacred_law
+    or ethics-focused indexing may be appropriate if the passage is prescriptive rather
+    than narrative.
+  suggested_aliases:
+  - meditation_against_evil_inclinations
+  - contemplative_subduing_of_harmful_desires
+  - meditative_discipline_against_inner_defilements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.meeting-at-a-well-by-reflection
+  motif_id: meeting_at_a_well_by_reflection
+  label: meeting at a well by reflection
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A meeting mediated by reflection in a well may involve recognition, sacred
+    waters, hidden identity, or a threshold encounter, but the function is unclear.
+  cautions: Do not map to sacred_waters solely because a well is present; source evidence
+    should determine whether reflection reveals identity, soul, otherworld presence,
+    or romantic encounter.
+  suggested_aliases:
+  - well_reflection_meeting
+  - meeting_mediated_by_reflection_in_water
+  - recognition_by_well_reflection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.meeting-on-the-path
+  motif_id: meeting_on_the_path
+  label: meeting on the path
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is too generic to function as a motif without evidence of a
+    threshold, guide, test, ambush, or revelation.
+  cautions: If the passage shows a charged liminal encounter, remap to hero_journey,
+    threshold_guardian, divine_call, or hospitality_test_stranger_guest.
+  suggested_aliases:
+  - path_meeting
+  - encounter_on_the_path
+  - roadside_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.melodic-structure-predominating-over-harmonic-structure
+  motif_id: melodic_structure_predominating_over_harmonic_structure
+  label: Melodic structure predominating over harmonic structure
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a musicological description of form, not a narrative or symbolic
+    motif.
+  cautions: Preserve as performance or ethnomusicological metadata if needed; only
+    map to enchanting_music when the music has supernatural narrative function.
+  suggested_aliases:
+  - melodic_dominance_over_harmony
+  - melody_over_harmonic_structure
+  - musicological_melodic_structure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.melody-organized-around-a-tonic-chord
+  motif_id: melody_organized_around_a_tonic_chord
+  label: melody organized around a tonic chord
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a technical musical-analysis label rather than a mythic motif.
+  cautions: Keep as musical metadata if useful; do not index under enchanting_music
+    unless the passage attributes sacred or supernatural efficacy to the melody.
+  suggested_aliases:
+  - tonic_chord_centered_melody
+  - melody_centered_on_tonic_chord
+  - musicological_tonic_organization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels using 'medicine' likely refer to culturally specific sacred or ritual
+  power rather than medicine in the biomedical sense; human review should preserve
+  local terminology and avoid flattening into generic magic.
+- Technical musicological labels should be excluded from motif pattern queries unless
+  the source assigns supernatural, ritual, or narrative power to the music.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; single-occurrence and culturally
+    specific items need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3668
+  input_sha256: 5d888a8a5bf55f3b75d683b004cee78b1c73ecc5c6cff1e36c40f0a2879f9273
+

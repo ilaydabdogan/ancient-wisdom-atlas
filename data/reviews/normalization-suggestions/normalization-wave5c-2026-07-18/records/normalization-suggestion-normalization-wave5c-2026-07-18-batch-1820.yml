@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1820
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.disbelieved-witness-reveals-hidden-lover
+  motif_id: disbelieved_witness_reveals_hidden_lover
+  label: Disbelieved witness reveals hidden lover
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines testimony, disbelief, concealment, and a lover; placement
+    depends on whether the passage centers on hidden identity, sacred love, false
+    accusation, or plot discovery.
+  cautions: Single occurrence and highly contextual; avoid mapping to sacred_love
+    unless love or marriage is the main symbolic function.
+  suggested_aliases:
+  - hidden_lover_revealed_by_witness
+  - disbelieved_witness_reveals_secret_relationship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - recognition_tokens_hidden_identity
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.discarded-malformed-birth-becomes-a-monster
+  motif_id: discarded_malformed_birth_becomes_a_monster
+  label: discarded malformed birth becomes a monster
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may concern monstrous birth, social rejection, transformation,
+    or culturally specific monster origins; current groups do not cleanly cover malformed-birth
+    monster genesis.
+  cautions: Culturally sensitive wording and source context needed; do not force into
+    miraculous_child or shapeshifter without evidence of sacred destiny or transformation
+    function.
+  suggested_aliases:
+  - rejected_abnormal_birth_becomes_monster
+  - discarded_birth_as_monster_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - shapeshifter
+    - cosmic_origin
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.discovery-of-lovers-leading-to-marriage-suggestion
+  motif_id: discovery_of_lovers_leading_to_marriage_suggestion
+  label: discovery of lovers leading to marriage suggestion
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Discovery of a lover relationship producing a marriage proposal fits
+    the love and marriage-choice field already gathered under sacred_love.
+  cautions: Likely an episode-specific romance or kinship resolution; preserve as
+    granular evidence rather than promoting as canonical.
+  suggested_aliases:
+  - lovers_discovered_and_marriage_proposed
+  - secret_lovers_discovered_leading_to_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.discriminated-acceptance-of-a-child-by-maternal-status
+  motif_id: discriminated_acceptance_of_a_child_by_maternal_status
+  label: Discriminated acceptance of a child by maternal status
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns social ranking of a child through maternal status,
+    but could involve royal legitimacy, sacred law, lineage, or household discrimination.
+  cautions: Abstract social-order label with one occurrence; source evidence needed
+    to determine whether it is a motif or contextual kinship detail.
+  suggested_aliases:
+  - child_status_determined_by_maternal_rank
+  - maternal_status_controls_child_acceptance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disenchantment-of-desire-through-deceptive-substitution
+  motif_id: disenchantment_of_desire_through_deceptive_substitution
+  label: Disenchantment of desire through deceptive substitution
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: In a Sufi context, deception or substitution that strips illusion from
+    desire likely functions as mystical instruction or interior transformation.
+  cautions: Could instead map to sacred_love if the emphasis is longing for the beloved,
+    or trickster if the deception is narrative rather than contemplative.
+  suggested_aliases:
+  - desire_disenchanted_by_substitution
+  - deceptive_substitution_reveals_false_desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacred_knowledge
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dishonest-person-receives-no-credit
+  motif_id: dishonest_person_receives_no_credit
+  label: Dishonest person receives no credit
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dishonest figure being denied credit expresses moral consequence and
+    social or cosmic reckoning for deceit.
+  cautions: May be a fable moral or passage-specific ethical maxim rather than a mythic
+    motif; review if no sacred or narrative judgment is present.
+  suggested_aliases:
+  - dishonesty_denied_reward
+  - deceiver_receives_no_credit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - trickster
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disobedient-son-ignores-paternal-warning
+  motif_id: disobedient_son_ignores_paternal_warning
+  label: disobedient son ignores paternal warning
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ignoring a paternal warning centers filial disobedience and household
+    authority, fitting sacred law and social obligation better than love or birth
+    motifs.
+  cautions: If the warning is prophetic or fate-bearing, prophecy_divination or death_by_fate
+    may be secondary; label alone does not show sacred law explicitly.
+  suggested_aliases:
+  - son_ignores_father_s_warning
+  - filial_disobedience_to_paternal_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - prophecy_divination
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.displaced-mother-vindicated-by-son-s-rule
+  motif_id: displaced_mother_vindicated_by_son_s_rule
+  label: displaced mother vindicated by son's rule
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Vindication through the son's rule ties family displacement to legitimate
+    succession and restored status under kingship.
+  cautions: Could also involve mother-child protection or household rivalry; use royal_legitimacy
+    only if the son’s rule is central to restoration.
+  suggested_aliases:
+  - displaced_mother_vindicated_by_son_as_ruler
+  - mother_restored_through_son_s_kingship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - mother_goddess
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.displacement-and-replacement-of-a-chief-wife
+  motif_id: displacement_and_replacement_of_a_chief_wife
+  label: displacement and replacement of a chief wife
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be a household-status episode, succession politics, marital
+    rivalry, or social-order detail; no existing group clearly captures chief-wife
+    displacement alone.
+  cautions: Single occurrence and potentially too contextual for pattern queries unless
+    tied to succession, sacred marriage, or vindication narrative.
+  suggested_aliases:
+  - chief_wife_displaced_and_replaced
+  - replacement_of_primary_wife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_love
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dispossessed-mother-and-endangered-last-stronghold
+  motif_id: dispossessed_mother_and_endangered_last_stronghold
+  label: dispossessed mother and endangered last stronghold
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This composite label mixes maternal dispossession with military or territorial
+    peril; placement depends on whether the main function is kinship loss, kingship,
+    combat, or siege.
+  cautions: Likely over-specific episode label; consider excluding from broad queries
+    if it only summarizes a plot situation.
+  suggested_aliases:
+  - dispossessed_mother_with_last_stronghold_threatened
+  - mother_dispossessed_and_final_refuge_endangered
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_combat
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence household or romance plot summaries;
+  human review should decide whether they are reusable motifs or evidence notes.
+- Avoid treating family-status labels as sacred birth or sacred love unless source
+  evidence shows mythic, ritual, or symbolic function beyond social context.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific and over-composite
+    labels flagged for review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1820
+  input_sha256: 666488b5aa38860b179df73f049a1519ec31794c45e3236f403c3e96ba082aea
+

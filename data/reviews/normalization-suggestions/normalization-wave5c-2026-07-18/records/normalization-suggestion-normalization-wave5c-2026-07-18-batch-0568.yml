@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0568
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.nonhuman-sacred-being-uses-human-kinship-address
+  motif_id: nonhuman_sacred_being_uses_human_kinship_address
+  label: Nonhuman sacred being uses human kinship address
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Kinship address by a sacred nonhuman may signal relational reciprocity,
+    adoption, tutelary spirit contact, or narrative speech etiquette; the function
+    is unclear from the label alone.
+  cautions: Single occurrence and culturally specific address forms require source
+    review; avoid reducing kinship language to a generic journey motif without evidence.
+  suggested_aliases:
+  - sacred_being_uses_kinship_address
+  - nonhuman_being_addresses_human_as_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.notched-staff-or-stick-as-journey-memory-record
+  motif_id: notched_staff_or_stick_as_journey_memory_record
+  label: notched staff or stick as journey memory record
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe a journey aid, mnemonic object, counting device,
+    or ethnographic detail rather than a stable symbolic motif.
+  cautions: Single occurrence; review whether the object has sacred-memory function
+    before mapping to sacred_knowledge or hero_journey.
+  suggested_aliases:
+  - notched_stick_as_memory_record
+  - journey_record_staff
+  - mnemonic_staff_for_travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.numbered-correspondence-between-ships-and-hunted-victims
+  motif_id: numbered_correspondence_between_ships_and_hunted_victims
+  label: Numbered correspondence between ships and hunted victims
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-specific counting correspondence rather than
+    a reusable narrative or symbolic motif.
+  cautions: If the source shows ritualized substitution, omen numerology, or pursuit
+    symbolism, a human reviewer may preserve it as evidence under a relevant group;
+    otherwise exclude from broad pattern queries.
+  suggested_aliases:
+  - numbered_ship_victim_correspondence
+  - ships_correspond_to_hunted_victims
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oath-requested-to-prevent-taking-by-force
+  motif_id: oath_requested_to_prevent_taking_by_force
+  label: Oath requested to prevent taking by force
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: An oath requested to restrain coercive action fits performative sacred
+    speech that binds conduct.
+  cautions: Could also relate to covenant or sacred_law if the oath creates a lasting
+    legal bond; review whether the speech act itself is central.
+  suggested_aliases:
+  - protective_oath_against_force
+  - oath_to_prevent_forced_taking
+  - binding_oath_requested_against_coercion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.oath-witness-inquest-proof-sequence
+  motif_id: oath_witness_inquest_proof_sequence
+  label: Oath-witness-inquest proof sequence
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A formal sequence of oath, witness, inquest, and proof belongs with sacralized
+    legal procedure and social order.
+  cautions: If the passage emphasizes the binding utterance more than procedure, curse_blessing_speech
+    may be a secondary mapping; if it is only a plot detail, preserve as evidence
+    note.
+  suggested_aliases:
+  - oath_witness_proof_sequence
+  - inquest_by_oath_and_witness
+  - legal_proof_by_oath_and_witness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.object-wife-drowns-during-river-crossing
+  motif_id: object_wife_drowns_during_river_crossing
+  label: object-wife drowns during river crossing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines an object-spouse, drowning, and river crossing; the
+    dominant function could be transformation, water passage, sacred object, or episode
+    detail.
+  cautions: Single occurrence and unusual composite wording; review source context
+    before mapping to sacred_waters, shapeshifter, sacred_treasures, or death_and_transformation.
+  suggested_aliases:
+  - object_spouse_drowns_in_river_crossing
+  - object_wife_lost_at_water_crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obligatory-generosity-and-request-compliance
+  motif_id: obligatory_generosity_and_request_compliance
+  label: obligatory generosity and request compliance
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Required generosity and compliance with requests fits reciprocal obligation
+    and sacred exchange.
+  cautions: Could be sacred_law if framed as explicit social rule, or hospitality_test_stranger_guest
+    if a guest or stranger tests the obligation.
+  suggested_aliases:
+  - obligatory_generosity
+  - request_compliance_as_social_obligation
+  - mandatory_gift_giving_and_compliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obligatory-travel-observance-to-avert-misfortune
+  motif_id: obligatory_travel_observance_to_avert_misfortune
+  label: Obligatory travel observance to avert misfortune
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A required travel observance to avert harm is a ritual prohibition or
+    apotropaic rule governing conduct.
+  cautions: If the observance marks a transformative journey ordeal, hero_journey
+    or initiation may be secondary; culturally specific practice should be reviewed.
+  suggested_aliases:
+  - travel_observance_to_avert_misfortune
+  - ritual_travel_rule_against_misfortune
+  - apotropaic_travel_observance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obstructed-canoe-journey-through-environmental-hardship
+  motif_id: obstructed_canoe_journey_through_environmental_hardship
+  label: obstructed canoe journey through environmental hardship
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: narrower_than
+  confidence: low
+  rationale: A difficult canoe journey can be treated as a travel ordeal within departure,
+    trial, and quest structures.
+  cautions: May be only an episode-specific travel obstacle; map only if the hardship
+    has narrative or transformative significance beyond itinerary detail.
+  suggested_aliases:
+  - canoe_journey_obstructed_by_hardship
+  - environmental_obstacle_during_canoe_journey
+  - arduous_canoe_travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.obstructed-eye-and-request-for-release
+  motif_id: obstructed_eye_and_request_for_release
+  label: obstructed eye and request for release
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too context-dependent to identify whether it concerns
+    impaired vision, captivity, healing, supplication, or a trickster episode.
+  cautions: Single occurrence; review the passage before mapping to dream_and_vision,
+    divine_intervention, sacred_exchange, or trickster.
+  suggested_aliases:
+  - blocked_eye_and_release_request
+  - eye_obstruction_with_plea_for_release
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence, journey-bucket labels that appear
+  to be episode-specific travel details rather than durable motifs; human source review
+  is recommended before broad indexing.
+- For oath and obligation labels, distinguish binding speech acts from broader sacred
+  law, covenant, or reciprocity functions.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0568
+  input_sha256: eeec77bdb41e8391facce42d348aa56dc2200333d819d47d350dc97e661262a3
+

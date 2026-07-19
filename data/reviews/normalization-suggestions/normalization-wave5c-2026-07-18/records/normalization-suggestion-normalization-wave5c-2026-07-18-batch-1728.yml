@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1728
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.war-honor-feather-associated-with-taking-an-enemy-scalp
+  motif_id: war_honor_feather_associated_with_taking_an_enemy_scalp
+  label: War-honor feather associated with taking an enemy scalp
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: A martial honor marker tied to a war deed fits warrior honor and martial
+    proof more than kingship alone.
+  cautions: Culturally sensitive and very specific; human review should verify source
+    context and whether scalp-taking detail should remain evidence-only.
+  suggested_aliases:
+  - war_honor_feather_linked_to_scalp_taking
+  - war_honor_regalia_marking_martial_deeds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-honor-feather-linked-to-scalp-taking
+  motif_id: war_honor_feather_linked_to_scalp_taking
+  label: war honor feather linked to scalp-taking
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: alias
+  confidence: low
+  rationale: This appears synonymous with the war-honor feather label and belongs
+    provisionally with warrior honor markers.
+  cautions: Culturally sensitive and occurrence count is low; avoid promoting scalp-taking
+    as a broad motif without evidence across sources.
+  suggested_aliases:
+  - war_honor_feather_associated_with_taking_an_enemy_scalp
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-honor-parade-leading-to-communal-feeding
+  motif_id: war_honor_parade_leading_to_communal_feeding
+  label: war honor parade leading to communal feeding
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: The sequence centers on public honor followed by communal feeding, suggesting
+    ritual reciprocity after martial achievement.
+  cautions: Could also be warrior honor under divine_warrior or a local ceremonial
+    detail; source context is needed before indexing broadly.
+  suggested_aliases:
+  - war_honor_feast
+  - martial_honor_feeding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-honor-regalia-marking-martial-deeds
+  motif_id: war_honor_regalia_marking_martial_deeds
+  label: war-honor regalia marking martial deeds
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Regalia marking martial deeds aligns with existing divine_warrior children
+    for bodily wounds, trophies, and martial proof.
+  cautions: May be better as sacred_treasures if the regalia itself is a power object
+    rather than an honor record.
+  suggested_aliases:
+  - war_honors_recorded_on_regalia
+  - martial_deeds_recorded_on_regalia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-honors-recorded-on-regalia
+  motif_id: war_honors_recorded_on_regalia
+  label: war honors recorded on regalia
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: alias
+  confidence: medium
+  rationale: This is essentially the same motif as war-honor regalia marking martial
+    deeds.
+  cautions: Preserve regalia specificity; if the object confers authority or sacred
+    power, sacred_treasures may be a secondary mapping.
+  suggested_aliases:
+  - war_honor_regalia_marking_martial_deeds
+  - martial_deeds_recorded_on_regalia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-instruments-converted-to-peaceful-order
+  motif_id: war_instruments_converted_to_peaceful_order
+  label: war instruments converted to peaceful order
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Conversion of weapons or war instruments into peace supports public order
+    and legitimate rule.
+  cautions: If framed as moral judgment or covenantal peace rather than political
+    order, divine_judgment or covenant may be relevant.
+  suggested_aliases:
+  - weapons_converted_to_peaceful_order
+  - martial_power_transformed_into_civic_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-order-sensed-before-delivery-by-creatures-drawn-to-blood
+  motif_id: war_order_sensed_before_delivery_by_creatures_drawn_to_blood
+  label: War order sensed before delivery by creatures drawn to blood
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: Creatures anticipating a war order may function as an omen of violence
+    or bloodshed.
+  cautions: Highly contextual and possibly an episode artifact; could fit dream_and_vision,
+    sacred_combat, or exclusion depending on passage evidence.
+  suggested_aliases:
+  - creatures_drawn_to_blood_as_war_omen
+  - animal_omen_before_war_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-preparation-by-drinking-sea-water
+  motif_id: war_preparation_by_drinking_sea_water
+  label: war preparation by drinking sea water
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: low
+  rationale: Drinking sea water as martial preparation suggests a ritual use of water
+    before conflict.
+  cautions: May be a local rite, ordeal, or passage-specific detail; do not map to
+    flood or water crossing without additional evidence.
+  suggested_aliases:
+  - ritual_drinking_of_sea_water_before_war
+  - sea_water_war_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-raid-with-plunder-and-captive-taking
+  motif_id: war_raid_with_plunder_and_captive_taking
+  label: War raid with plunder and captive-taking
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A raid involving plunder and captives is a straightforward warfare pattern
+    under sacred_combat.
+  cautions: May be too generic unless the passage gives ritual, sacred, or narrative
+    significance beyond ordinary warfare.
+  suggested_aliases:
+  - war_raid_with_plunder
+  - raid_with_captive_taking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-spoils-and-captive-queen-carried-across-water
+  motif_id: war_spoils_and_captive_queen_carried_across_water
+  label: war spoils and captive queen carried across water
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines war spoils, captivity, royal woman, and water crossing
+    after conflict, best treated as a specific sacred_combat scene if retained.
+  cautions: Likely episode-specific; water crossing may be incidental and should not
+    be mapped to sacred_waters unless it marks a threshold or transformation.
+  suggested_aliases:
+  - war_spoils_carried_across_water
+  - captive_queen_as_war_spoil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern Native American war-honor practices and should receive culturally
+  informed human review before broad normalization.
+- Repeated regalia/feather labels may indicate a small cluster of martial honor markers,
+  but current divine_warrior children can hold them provisionally without creating
+  a new group.
+- Do not infer transmission or broad cross-cultural equivalence from these provisional
+  placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally sensitive and low-occurrence war-honor
+    labels require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1728
+  input_sha256: ae2209060a1e6268bdc65092834de7b4219b63fe2d26c0f0e88c5b0adbb18c33
+

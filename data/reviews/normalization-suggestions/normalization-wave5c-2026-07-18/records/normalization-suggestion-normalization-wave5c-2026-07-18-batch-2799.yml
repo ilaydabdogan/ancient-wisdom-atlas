@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2799
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.retaliatory-war-after-a-reported-killing
+  motif_id: retaliatory_war_after_a_reported_killing
+  label: retaliatory war after a reported killing
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Retaliatory warfare after a killing fits the sacred_combat cluster of
+    vengeance-driven conflict and warfare as socially charged action.
+  cautions: Single occurrence; verify whether the reported killing is true, mistaken,
+    or merely a plot trigger before treating as a stable motif.
+  suggested_aliases:
+  - revenge_war_after_killing_report
+  - vengeance_warfare_after_reported_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliatory-war-after-abduction
+  motif_id: retaliatory_war_after_abduction
+  label: retaliatory war after abduction
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: War launched in retaliation for abduction belongs with conflict catalysts
+    and ritualized warfare patterns.
+  cautions: Could also relate to stolen_beloved or sacred_love if the abduction of
+    a beloved is the main narrative engine; preserve abduction trigger in evidence
+    notes.
+  suggested_aliases:
+  - war_after_abduction
+  - vengeance_war_for_abduction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - stolen_beloved
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.retaliatory-war-expedition-after-destruction-of-a-group
+  motif_id: retaliatory_war_expedition_after_destruction_of_a_group
+  label: Retaliatory war expedition after destruction of a group
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A revenge expedition after group destruction is a warfare-and-vengeance
+    catalyst fitting sacred_combat.
+  cautions: May be an episode-specific plot summary; human review should check whether
+    the group destruction creates a broader feud, justice, or restoration pattern.
+  suggested_aliases:
+  - revenge_expedition_after_group_destruction
+  - retaliatory_expedition_after_mass_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revealed-healing-weapon-charm
+  motif_id: revealed_healing_weapon_charm
+  label: revealed healing weapon-charm
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon-charm with healing power is a power object whose efficacy is
+    revealed or disclosed.
+  cautions: Could belong under sacred_knowledge if the revelation or instruction is
+    more important than the object; culturally specific charm terminology needs source
+    review.
+  suggested_aliases:
+  - healing_weapon_charm
+  - revealed_power_object_for_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revelatory-container-with-written-testimony
+  motif_id: revelatory_container_with_written_testimony
+  label: Revelatory container with written testimony
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a container holding written testimony or revelation,
+    fitting the sacred vessel/container complex.
+  cautions: If the written testimony is the primary sacred element, sacred_knowledge
+    may be a better or secondary mapping; if it is just a plot clue, it may be over-specific.
+  suggested_aliases:
+  - container_holding_revelatory_writing
+  - written_testimony_in_sacred_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenant-revenge-for-murdered-kin
+  motif_id: revenant_revenge_for_murdered_kin
+  label: revenant revenge for murdered kin
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: high
+  rationale: A revenant taking revenge for murdered kin directly matches active dead
+    and vengeance after unresolved social or familial violence.
+  cautions: Confirm that the agent is actually dead/returned rather than a living
+    avenger or spirit helper.
+  suggested_aliases:
+  - revenant_avenges_murdered_kin
+  - vengeful_dead_for_slain_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-against-a-murderous-uncle
+  motif_id: revenge_against_a_murderous_uncle
+  label: revenge against a murderous uncle
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The broad action is kin vengeance through conflict, but the uncle detail
+    is likely episode-specific.
+  cautions: May be better preserved as evidence rather than a query motif unless uncle-murder
+    revenge recurs; check whether household betrayal or succession conflict is central.
+  suggested_aliases:
+  - kin_revenge_against_murderous_relative
+  - revenge_for_murder_by_uncle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-against-atli-in-variant-tradition
+  motif_id: revenge_against_atli_in_variant_tradition
+  label: revenge against Atli in variant tradition
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase names a specific character and explicitly marks a variant
+    tradition, making it a reception or variant note rather than a reusable motif.
+  cautions: If the passage evidence describes a broader revenge pattern, index that
+    separately under sacred_combat or betrayal_violated_trust without the Atli/variant
+    wording.
+  suggested_aliases:
+  - atli_revenge_variant_note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-against-household-violators
+  motif_id: revenge_against_household_violators
+  label: Revenge against household violators
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Punishing violators of the household centers on enforcement of sacred
+    domestic and social order.
+  cautions: Could map to sacred_combat if the emphasis is armed slaughter or contest;
+    could map to divine_judgment if framed as moral reckoning.
+  suggested_aliases:
+  - vengeance_against_household_violators
+  - punishment_of_household_transgressors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_judgment
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.revenge-ambush-after-testimony
+  motif_id: revenge_ambush_after_testimony
+  label: Revenge ambush after testimony
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: A revenge ambush is a conflict tactic within vengeance warfare, but testimony
+    as trigger makes the label highly contextual.
+  cautions: Review whether testimony functions as legal witness, revelation, or plot
+    device; may be too specific for pattern queries unless recurring.
+  suggested_aliases:
+  - revenge_attack_after_testimony
+  - ambush_triggered_by_testimony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence revenge or warfare catalysts; preserve
+  local triggers as evidence details and avoid promoting them to canonical motifs
+  without recurrence.
+- Where revenge is framed as legal/moral repair rather than battle action, human reviewers
+  may prefer sacred_law or divine_judgment as secondary mappings.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several revenge labels are over-specific and
+    need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2799
+  input_sha256: 28e6b0f1bf412af6786c3767c997685c9f8f0d7d9e0971b58fbb63c6a8cbdde0
+

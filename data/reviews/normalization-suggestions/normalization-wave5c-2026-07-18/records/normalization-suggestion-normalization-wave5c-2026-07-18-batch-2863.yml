@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2863
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.warrior-introduced-by-genealogy
+  motif_id: warrior_introduced_by_genealogy
+  label: warrior introduced by genealogy
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: Genealogical introduction may authorize heroic or noble status, but the
+    label may be a formulaic passage feature rather than a motif.
+  cautions: Single occurrence; verify whether genealogy functions as sacred legitimacy,
+    lineage proof, or merely narrative identification.
+  suggested_aliases:
+  - genealogical_introduction_of_warrior
+  - warrior_lineage_introduction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-keeps-forbidden-or-disallowed-weapon-and-survives
+  motif_id: warrior_keeps_forbidden_or_disallowed_weapon_and_survives
+  label: warrior keeps forbidden or disallowed weapon and survives
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The key element is violation or exception to a weapon prohibition, but
+    survival may make it an ordeal or protective-power episode.
+  cautions: Culturally specific weapon rule needs source context; could fit sacred_law,
+    sacred_combat, divine_warrior, or conditional invulnerability depending on evidence.
+  suggested_aliases:
+  - forbidden_weapon_retained_by_warrior
+  - warrior_survives_with_disallowed_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-left-to-die-on-battlefield
+  motif_id: warrior_left_to_die_on_battlefield
+  label: Warrior left to die on battlefield
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fallen warrior abandoned on the battlefield concerns treatment or neglect
+    of the heroic dead after combat.
+  cautions: If the passage emphasizes betrayal, survival, or abandonment rather than
+    funerary denial, betrayal_violated_trust or sacred_combat may be better secondary
+    mappings.
+  suggested_aliases:
+  - fallen_warrior_abandoned_on_battlefield
+  - battlefield_abandonment_of_dying_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-maid-captures-a-male-hero
+  motif_id: warrior_maid_captures_a_male_hero
+  label: warrior-maid captures a male hero
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: low
+  rationale: A warrior woman overpowering or capturing a hero is a combat-role reversal,
+    but not clearly covered by existing groups.
+  cautions: Could involve bride-winning, captivity, gendered ordeal, or local heroic
+    tale type; source context needed before mapping broadly.
+  suggested_aliases:
+  - warrior_maiden_captures_hero
+  - female_warrior_captures_male_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-medicine-and-battlefield-invulnerability
+  motif_id: warrior_medicine_and_battlefield_invulnerability
+  label: Warrior medicine and battlefield invulnerability
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on ritual or sacred means producing battlefield invulnerability.
+  cautions: Review culturally specific meaning of 'medicine'; if protection is not
+    conditional or weakness-based, divine_warrior or sacred_law may be better secondary
+    mappings.
+  suggested_aliases:
+  - battlefield_invulnerability_through_warrior_medicine
+  - warrior_medicine_confers_invulnerability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-or-armor-unharmed-by-steel
+  motif_id: warrior_or_armor_unharmed_by_steel
+  label: warrior or armor unharmed by steel
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: high
+  rationale: Weapon-resistance of a warrior or armor closely matches existing invulnerability
+    and weapon-resistant warrior motifs.
+  cautions: If the armor is the main sacred object rather than bodily invulnerability,
+    also consider sacred_treasures.
+  suggested_aliases:
+  - weapon_resistant_warrior_or_armor
+  - warrior_unharmed_by_steel
+  - armor_unharmed_by_steel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-praise-through-martial-epithets
+  motif_id: warrior_praise_through_martial_epithets
+  label: warrior praise through martial epithets
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes poetic characterization or formulaic diction rather
+    than a narrative motif.
+  cautions: If epithets perform blessing, curse, or ritual praise in the passage,
+    reconsider under curse_blessing_speech or storytelling_as_power.
+  suggested_aliases:
+  - martial_epithets_praising_warrior
+  - warrior_praise_epithets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-preference-for-battle-over-house-burning
+  motif_id: warrior_preference_for_battle_over_house_burning
+  label: warrior preference for battle over house-burning
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Preference for open battle over destructive burning expresses warrior
+    honor and martial code under crisis.
+  cautions: May be a highly specific heroic ethics detail; if the focus is legal custom
+    or household violation, sacred_law or sacred_combat may be better.
+  suggested_aliases:
+  - warrior_honor_prefers_battle_to_burning
+  - martial_preference_for_open_battle_over_house_burning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-preparation-through-skins-weapons-society-insignia-and-feathers
+  motif_id: warrior_preparation_through_skins_weapons_society_insignia_and_feathers
+  label: warrior preparation through skins, weapons, society insignia, and feathers
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests ritualized arming or warrior-society preparation before
+    combat.
+  cautions: Culturally specific regalia and society insignia require careful review;
+    could be ritual identity, sacred law, initiation, or passage-specific ethnographic
+    detail.
+  suggested_aliases:
+  - ritual_warrior_preparation_with_regalia
+  - warrior_preparation_with_weapons_and_insignia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warrior-raid-and-capture-of-enemy-fleet-and-booty
+  motif_id: warrior_raid_and_capture_of_enemy_fleet_and_booty
+  label: Warrior raid and capture of enemy fleet and booty
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A raid that captures enemy vessels and spoils fits the established sacred_combat/raid
+    complex.
+  cautions: Fleet and booty details may be episode-specific; preserve them as evidence
+    notes rather than a new canonical motif.
+  suggested_aliases:
+  - warrior_raid_captures_enemy_fleet
+  - capture_of_enemy_fleet_and_booty
+  - raid_for_enemy_ships_and_spoils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and combat-contextual; prefer provisional group
+  placement over new taxonomy groups.
+- Culturally specific Native American and Hopi ritual or medicine labels should receive
+  human review before firm normalization.
+- Poetic formula or descriptive introduction labels should be excluded unless source
+  evidence shows narrative or ritual function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2863
+  input_sha256: f5f270f6f346f7437b9379213375378b0075626165bfaaa64dbdc05d84f5200f
+

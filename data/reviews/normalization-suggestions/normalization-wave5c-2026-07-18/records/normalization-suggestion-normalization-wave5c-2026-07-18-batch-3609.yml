@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3609
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.knot-and-breath-magic-used-to-harm
+  motif_id: knot_and_breath_magic_used_to_harm
+  label: Knot-and-breath magic used to harm
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Harmful knot-and-breath magic centers on performative utterance or breath-bound
+    action that binds or harms.
+  cautions: Could alternatively be sacred_law if framed as prohibited sorcery or apotropaic
+    protection; single occurrence needs source review.
+  suggested_aliases:
+  - harmful_knot_magic
+  - breath_magic_used_to_harm
+  - knot_magic_as_curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knotted-leaf-omen-divination
+  motif_id: knotted_leaf_omen_divination
+  label: Knotted-leaf omen divination
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label explicitly describes an omen-divination method using a knotted
+    leaf.
+  cautions: Leaf and knot details should remain evidence detail unless the specific
+    technique recurs.
+  suggested_aliases:
+  - leaf_omen_divination
+  - knotted_leaf_divination
+  - omen_by_knotted_leaf
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knotted-or-notched-accounting-record
+  motif_id: knotted_or_notched_accounting_record
+  label: knotted or notched accounting record
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a record-keeping practice rather than a symbolic or narrative
+    motif.
+  cautions: If used as sacred writing or divination, sacred_knowledge or prophecy_divination
+    may apply; if merely ethnographic accounting, exclude from pattern queries.
+  suggested_aliases:
+  - notched_accounting_record
+  - knotted_record_keeping
+  - tally_record
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.labor-accomplished-while-the-beneficiary-sleeps
+  motif_id: labor_accomplished_while_the_beneficiary_sleeps
+  label: labor accomplished while the beneficiary sleeps
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Unseen or supernatural helpers accomplishing work during sleep fits intervention
+    or hidden aid in human affairs.
+  cautions: If no supernatural agency is present, it may be a folktale plot detail;
+    could also fit sacred_craft if the labor is construction or crafting.
+  suggested_aliases:
+  - work_done_while_beneficiary_sleeps
+  - unseen_helpers_complete_labor
+  - supernatural_labor_during_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lady-of-the-castle-demands-amends-from-a-victorious-knight
+  motif_id: lady_of_the_castle_demands_amends_from_a_victorious_knight
+  label: Lady of the castle demands amends from a victorious knight
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: low
+  rationale: A demand for amends after victory concerns social obligation, redress,
+    and chivalric order.
+  cautions: Highly Arthurian and episode-specific; if the focus is courtly quest testing,
+    hero_journey or sacred_combat may be secondary.
+  suggested_aliases:
+  - amends_demanded_from_victorious_knight
+  - chivalric_redress_after_victory
+  - lady_demands_reparation_from_knight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lady-s-gift-tied-to-knightly-remembrance-and-performance
+  motif_id: lady_s_gift_tied_to_knightly_remembrance_and_performance
+  label: lady's gift tied to knightly remembrance and performance
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A gifted object mediates memory, obligation, and knightly performance,
+    fitting power or identity-bearing objects.
+  cautions: Could belong to sacred_love if the gift functions primarily as a love
+    token, or recognition_tokens_hidden_identity if it proves identity.
+  suggested_aliases:
+  - lady_s_gift_as_remembrance_token
+  - knightly_remembrance_gift
+  - gift_token_tied_to_chivalric_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lady-s-patronage-through-gifted-arms
+  motif_id: lady_s_patronage_through_gifted_arms
+  label: lady’s patronage through gifted arms
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: Gifted arms are power objects that confer martial capacity, patronage,
+    or status on the knight.
+  cautions: If emphasis is battle rather than the objects, sacred_combat or divine_warrior
+    may be secondary; if courtly relationship dominates, sacred_love may be relevant.
+  suggested_aliases:
+  - gifted_arms_as_patronage
+  - patronage_through_arms
+  - lady_bestows_arms_on_knight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lake-formed-by-breached-embankment-attributed-to-a-chieftain
+  motif_id: lake_formed_by_breached_embankment_attributed_to_a_chieftain
+  label: Lake formed by breached embankment attributed to a chieftain
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explains a landscape feature's origin through an attributed
+    event, matching etiological landscape formation.
+  cautions: May be local historical legend rather than mythic motif; preserve chieftain
+    and embankment details as evidence, not canonical label.
+  suggested_aliases:
+  - lake_formation_etiology
+  - landscape_formation_by_breached_embankment
+  - lake_origin_attributed_to_chieftain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lake-naga-helper-provides-medicinal-food
+  motif_id: lake_naga_helper_provides_medicinal_food
+  label: Lake Naga helper provides medicinal food
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A supernatural naga helper providing healing food is direct beneficent
+    intervention through a nonhuman sacred being.
+  cautions: Could also map to sacred_substance if the medicinal food is central, or
+    serpent_guardian if naga identity and threshold role dominate.
+  suggested_aliases:
+  - naga_helper_provides_healing_food
+  - serpent_helper_with_medicinal_food
+  - supernatural_helper_provides_medicinal_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lakes-connected-to-a-wide-formed-ocean
+  motif_id: lakes_connected_to_a_wide_formed_ocean
+  label: Lakes connected to a wide-formed ocean
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif concerns cosmological water geography linking lakes and ocean
+    within a sacred water system.
+  cautions: If the passage explains initial formation of waters, cosmic_origin may
+    be a better primary group; label is descriptive and may be cosmographic rather
+    than narrative.
+  suggested_aliases:
+  - cosmic_lakes_connected_to_ocean
+  - sacred_lake_ocean_connection
+  - cosmological_water_network
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and over-specific; preserve local details as
+  evidence notes unless recurrence supports new aliases or children.
+- Arthurian chivalric labels may need review for whether they are social-order motifs,
+  love-token motifs, or episode-specific plot details.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no transmission claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3609
+  input_sha256: dc362da2446c002ba39bb44c3b9f10259ff7a43ecf9b370fcd4484cc625c4185
+

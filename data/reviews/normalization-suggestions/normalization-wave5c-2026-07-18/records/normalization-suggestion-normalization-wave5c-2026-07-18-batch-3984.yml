@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3984
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.stolen-catch-claimed-as-one-s-own
+  motif_id: stolen_catch_claimed_as_one_s_own
+  label: stolen catch claimed as one’s own
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Claiming another's catch as one's own centers on theft and violated trust
+    over food or property.
+  cautions: Single occurrence; may be a fable/legal episode rather than a durable
+    mythic motif. If deception is emphasized, trickster may be secondary.
+  suggested_aliases:
+  - stolen_catch_claimed_by_thief
+  - theft_of_catch_and_false_claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stolen-goods-identified-by-material-fit
+  motif_id: stolen_goods_identified_by_material_fit
+  label: Stolen goods identified by material fit
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The stolen object's material fit functions as proof or recognition evidence
+    that identifies ownership or wrongdoing.
+  cautions: Could also belong under divine_judgment if the passage emphasizes legal
+    reckoning; verify that the fit is a recurring recognition mechanism rather than
+    an episode detail.
+  suggested_aliases:
+  - stolen_goods_recognized_by_fit
+  - material_fit_as_proof_of_theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stolen-livestock-for-a-wedding-feast
+  motif_id: stolen_livestock_for_a_wedding_feast
+  label: Stolen livestock for a wedding feast
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on theft of livestock within a socially obligated feast
+    context, suggesting violated trust or exchange.
+  cautions: Highly contextual and single occurrence. If the wedding feast or marriage
+    alliance is the main function, sacred_love or sacred_exchange may be better; if
+    raiding is foregrounded, sacred_combat may be relevant.
+  suggested_aliases:
+  - livestock_theft_for_wedding_feast
+  - stolen_cattle_for_marriage_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stolen-magical-gifts-recovered-through-another-magical-object
+  motif_id: stolen_magical_gifts_recovered_through_another_magical_object
+  label: Stolen magical gifts recovered through another magical object
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: Both the stolen gifts and the recovery agent are magical power objects,
+    fitting the sacred treasures group.
+  cautions: If the narrative emphasizes theft, pursuit, or trickery more than the
+    objects' power, trickster or hero_journey may be secondary.
+  suggested_aliases:
+  - stolen_magic_gifts_recovered_by_magic_object
+  - magical_object_recovers_stolen_gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stolen-utilitarian-object
+  motif_id: stolen_utilitarian_object
+  label: Stolen utilitarian object
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A generic stolen ordinary object is too broad and context-dependent to
+    support motif queries without narrative function.
+  cautions: Do not exclude if passage evidence shows sacred theft, moral judgment,
+    betrayal, or a recognition-token function; the label alone is insufficient.
+  suggested_aliases:
+  - ordinary_object_theft
+  - stolen_practical_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-armored-cannibal-giant
+  motif_id: stone_armored_cannibal_giant
+  label: stone-armored cannibal giant
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines monster type, material body, armor, and cannibalism;
+    existing groups do not cleanly cover cannibal stone giants.
+  cautions: May relate to conditional_invulnerability_hidden_weakness if stone armor
+    creates combat resistance, or threshold_guardian/divine_warrior if the giant is
+    an ordeal opponent. Culturally specific monster traditions need source review.
+  suggested_aliases:
+  - stone_armored_giant
+  - stone_cannibal_giant
+  - armored_cannibal_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-artifacts-interpreted-as-gaming-implements
+  motif_id: stone_artifacts_interpreted_as_gaming_implements
+  label: stone artifacts interpreted as gaming implements
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes interpretation of artifacts rather than a narrative,
+    ritual, or symbolic motif.
+  cautions: Preserve as archaeological or commentary evidence if needed; only remap
+    if a source narrative assigns sacred gaming or divinatory function to the stones.
+  suggested_aliases:
+  - stone_artifacts_as_game_pieces
+  - interpreted_gaming_stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-as-clan-totem
+  motif_id: stone_as_clan_totem
+  label: stone as clan totem
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A clan totem stone may be ancestor, sacred object, territorial identity,
+    or local cult marker depending on evidence.
+  cautions: Culturally sensitive and not well captured by sacred_treasures unless
+    the stone's power-object function is explicit; may require a future totem/ancestor
+    identity group if recurrent.
+  suggested_aliases:
+  - clan_totem_stone
+  - stone_totemic_ancestor_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-bodied-cannibal-pursuer
+  motif_id: stone_bodied_cannibal_pursuer
+  label: Stone-bodied cannibal pursuer
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines pursuit by a cannibal monster with a stone body, and
+    the core function is unclear from the label alone.
+  cautions: Could fit conditional_invulnerability_hidden_weakness if stone body confers
+    resistance, threshold_guardian if it blocks passage, or divine_warrior/sacred_combat
+    if defeated in combat. Review alongside stone_armored_cannibal_giant for possible
+    consolidation.
+  suggested_aliases:
+  - stone_cannibal_pursuer
+  - stone_bodied_monster_pursuer
+  - cannibal_stone_giant_pursuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-boy-tale-variant
+  motif_id: stone_boy_tale_variant
+  label: Stone-boy tale variant
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'tale variant' reads as a classification label for a story
+    type rather than a normalized motif.
+  cautions: If the source passage describes a boy born from, transformed into, or
+    animated from stone, remap to miraculous_child, shapeshifter, sacred_craft, or
+    sacred_treasures depending on function.
+  suggested_aliases:
+  - stone_boy_variant
+  - stone_boy_story_type
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several theft labels are single-occurrence and should be reviewed for narrative
+  function before broad indexing; possible functions include violated trust, trickster
+  deception, legal recognition, or sacred theft.
+- Stone/cannibal monster labels may represent a culturally specific monster complex
+  not cleanly covered by current groups; review together before creating or excluding
+  a monster-specific normalization group.
+- Labels that explicitly describe interpretation, artifacts, or tale variants are
+  best excluded from pattern queries unless passage evidence supplies a narrative
+  or ritual function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for human taxonomy review; no taxonomy
+    edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3984
+  input_sha256: 52f079b85d782695858f59ab36b7d808d67ea6c72ac01e698f7ff1e98484b82f
+

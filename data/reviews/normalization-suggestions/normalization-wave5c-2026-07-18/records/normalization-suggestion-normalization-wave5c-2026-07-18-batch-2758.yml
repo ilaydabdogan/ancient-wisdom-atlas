@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2758
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.monster-helper-who-spares-and-nourishes-the-hero
+  motif_id: monster_helper_who_spares_and_nourishes_the_hero
+  label: monster helper who spares and nourishes the hero
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A threatening nonhuman being becomes a helper and provider, which may
+    fit supernatural aid to a hero.
+  cautions: The label depends on whether the monster is a sacred/helper figure, an
+    ordeal antagonist, or a tale-specific character reversal; source context needed.
+  suggested_aliases:
+  - monster helper nourishes hero
+  - threatening being becomes helper
+  - nonhuman helper spares hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-host-interpreted-as-zodiacal-signs
+  motif_id: monster_host_interpreted_as_zodiacal_signs
+  label: monster host interpreted as zodiacal signs
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'interpreted as' signals scholarly or allegorical identification
+    rather than a narrative motif.
+  cautions: If the primary source explicitly turns monsters into zodiacal/celestial
+    beings, review under cosmic_origin, dream_and_vision, or sacred_knowledge instead.
+  suggested_aliases:
+  - zodiacal interpretation of monster host
+  - monster host as zodiac signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-humiliated-by-bodily-planting-and-pursuit
+  motif_id: monster_humiliated_by_bodily_planting_and_pursuit
+  label: monster humiliated by bodily planting and pursuit
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: Humiliating a monster through bodily trick or pursuit may be a trickster-style
+    reversal of a dangerous being.
+  cautions: The wording is opaque and culturally/contextually specific; may be an
+    over-specific episode detail rather than a reusable motif.
+  suggested_aliases:
+  - monster humiliated by trick
+  - bodily trick against monster
+  - monster pursuit humiliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-in-a-cave-kills-a-trapped-companion
+  motif_id: monster_in_a_cave_kills_a_trapped_companion
+  label: Monster in a cave kills a trapped companion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A monster in a cave functions as a perilous threshold or enclosed ordeal
+    blocking survival and passage.
+  cautions: Could also be indexed under descent if the cave is an underworld-like
+    space, or sacred_combat if the focus is monster combat.
+  suggested_aliases:
+  - cave monster kills trapped companion
+  - monster in cave as lethal threshold
+  - trapped companion killed by cave monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-invulnerable-except-at-a-hidden-weak-point
+  motif_id: monster_invulnerable_except_at_a_hidden_weak_point
+  label: monster invulnerable except at a hidden weak point
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: alias
+  confidence: high
+  rationale: This is a direct instance of invulnerability limited by a hidden vulnerable
+    point.
+  cautions: Preserve monster-specific evidence; do not collapse with external_soul
+    unless the weakness is a separable life-token.
+  suggested_aliases:
+  - hidden weak point of invulnerable monster
+  - monster with concealed vulnerable spot
+  - conditional invulnerability of monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-killed-by-seeing-seven-menstrual-women
+  motif_id: monster_killed_by_seeing_seven_menstrual_women
+  label: Monster killed by seeing seven menstrual women
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif likely depends on culturally specific menstrual power, taboo,
+    or ritual danger rather than ordinary combat.
+  cautions: Culturally sensitive and highly specific; requires source review before
+    mapping to taboo, sacred law, divine judgment, or monster-slaying.
+  suggested_aliases:
+  - monster killed by menstrual power
+  - menstrual taboo defeats monster
+  - ritual danger kills monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-killed-by-stratagem-rather-than-force
+  motif_id: monster_killed_by_stratagem_rather_than_force
+  label: Monster killed by stratagem rather than force
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defeating a stronger monster through cunning rather than force fits trickster
+    or boundary-crossing strategy.
+  cautions: If the scene is formal heroic combat, sacred_combat or divine_warrior
+    may be a secondary placement.
+  suggested_aliases:
+  - monster defeated by cunning
+  - monster slain by stratagem
+  - cunning defeats monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-killed-by-swallowing-a-heated-stone
+  motif_id: monster_killed_by_swallowing_a_heated_stone
+  label: Monster killed by swallowing a heated stone
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: The taxonomy already has predator_destroyed_by_swallowing_an_indigestible_concealed_object
+    under trickster; this is a close heated-stone variant.
+  cautions: Keep the heated-stone detail as local evidence; map by the swallowed destructive
+    object function, not by monster combat alone.
+  suggested_aliases:
+  - monster swallows heated stone
+  - predator destroyed by swallowed heated stone
+  - swallowed hot stone kills monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-kills-noble-youth
+  motif_id: monster_kills_noble_youth
+  label: Monster kills noble youth
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a sparse episode outcome and lacks a clear reusable motif
+    beyond a monster killing a named/statused victim.
+  cautions: If the death triggers quest, sacrifice, lament, or royal succession, remap
+    based on that narrative function.
+  suggested_aliases:
+  - noble youth killed by monster
+  - monster slays noble youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.monster-like-buffalo-attack-and-defeat
+  motif_id: monster_like_buffalo_attack_and_defeat
+  label: monster-like buffalo attack and defeat
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: Attack and defeat of a monstrous animal may fit sacred combat if the
+    combat establishes safety or order.
+  cautions: May be an over-specific animal encounter, hunting episode, or culturally
+    specific buffalo-being story; source evidence needed before broad indexing.
+  suggested_aliases:
+  - monstrous buffalo defeated
+  - buffalo monster attack defeated
+  - monster-buffalo combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use 'monster' broadly; placement should follow narrative function
+  such as threshold ordeal, trickster stratagem, conditional vulnerability, or sacred
+  combat rather than monster imagery alone.
+- Single-occurrence and culturally specific labels should preserve local details as
+  evidence notes unless broader recurrence is confirmed.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; items involving ritual taboo or opaque wording
+    need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2758
+  input_sha256: 91422b43c6c94e24c260b2b5af4c5e27f11f72591d21610034b860c448bf1f53
+

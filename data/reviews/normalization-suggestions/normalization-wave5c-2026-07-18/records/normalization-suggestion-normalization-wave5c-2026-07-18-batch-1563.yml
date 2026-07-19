@@ -1,0 +1,280 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1563
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fatal-choking-during-a-domestic-meal
+  motif_id: fatal_choking_during_a_domestic_meal
+  label: Fatal choking during a domestic meal
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a death scene but does not indicate whether it functions
+    as fate, judgment, taboo violation, betrayal, or accident.
+  cautions: Single occurrence and highly contextual; do not map to death_by_fate or
+    divine_judgment without passage evidence.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-female-visitor-moves-from-house-to-house-seeking-victims
+  motif_id: fatal_female_visitor_moves_from_house_to_house_seeking_victims
+  label: Fatal female visitor moves from house to house seeking victims
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a death-bringing spirit, witch, disease personification, demon,
+    or narrative antagonist; the function is unclear from the label alone.
+  cautions: Culturally sensitive spirit/witch classification requires source review;
+    avoid forcing into divine_judgment or restless_dead_haunting_vengeance without
+    evidence.
+  suggested_aliases:
+  - death_bringing_female_visitor
+  - fatal_house_to_house_visitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-judgment-tradition
+  motif_id: fatal_judgment_tradition
+  label: fatal judgment tradition
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too generic to tell whether this is divine judgment, legal
+    execution, fate, or a scholarly tradition label.
+  cautions: May be a generated abstraction or commentary artifact; review source evidence
+    before indexing.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-magical-punishment-for-disrupting-a-hunt
+  motif_id: fatal_magical_punishment_for_disrupting_a_hunt
+  label: Fatal magical punishment for disrupting a hunt
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fatal supernatural punishment for violating the proper conduct of a
+    hunt fits sacred reckoning for transgression.
+  cautions: If the source emphasizes hunting taboo or animal-master relations, sacred_law
+    or a future hunting-taboo grouping may be a better secondary placement.
+  suggested_aliases:
+  - supernatural_punishment_for_disrupting_hunt
+  - fatal_punishment_for_hunting_transgression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-necessity-and-providence-as-ordered-powers
+  motif_id: fate_necessity_and_providence_as_ordered_powers
+  label: Fate, Necessity, and Providence as ordered powers
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: broader_label
+  confidence: medium
+  rationale: The motif treats fate-like powers as ordered cosmic agencies governing
+    reality, close to the fate/cosmic-order group.
+  cautions: Hermetic philosophical abstraction may be doctrinal rather than narrative;
+    if no personified or operative destiny is present, preserve as conceptual evidence
+    only.
+  suggested_aliases:
+  - fate_necessity_providence_as_cosmic_powers
+  - ordered_powers_of_fate_necessity_and_providence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fates-regulating-temporal-and-cosmic-order
+  motif_id: fates_regulating_temporal_and_cosmic_order
+  label: Fates regulating temporal and cosmic order
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: alias
+  confidence: high
+  rationale: This directly matches the existing group for fate figures governing time,
+    revolutions, destiny, and cosmic order.
+  cautions: Confirm whether the passage uses personified Fates or an abstract fatal
+    order; abstract cases may also relate to death_by_fate or sacred_time.
+  suggested_aliases:
+  - fate_figures_regulate_cosmic_order
+  - fates_governing_time_and_cosmic_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.favored-beautiful-daughter-arouses-jealousy-among-rival-queens
+  motif_id: favored_beautiful_daughter_arouses_jealousy_among_rival_queens
+  label: Favored beautiful daughter arouses jealousy among rival queens
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: functional_variant
+  confidence: medium
+  rationale: Jealous rival maternal or courtly women threatening a favored child fits
+    the persecuted-child household jealousy complex.
+  cautions: If the daughter is adult and the focus is court rivalry, beauty, or succession
+    politics rather than child persecution, human review may prefer sacred_love, pride_and_downfall,
+    or royal_legitimacy.
+  suggested_aliases:
+  - favored_child_arouses_rival_queen_jealousy
+  - rival_queens_jealous_of_favored_daughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fear-misread-as-honor
+  motif_id: fear_misread_as_honor
+  label: fear misread as honor
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an interpretive plot observation or moral irony rather
+    than a stable mythic motif.
+  cautions: If multiple passages show a recurring social-order reversal where cowardice
+    is mistaken for honor, reconsider under sacred_law or pride_and_downfall.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fearful-adviser-warns-a-ruler-against-a-dangerous-plan
+  motif_id: fearful_adviser_warns_a_ruler_against_a_dangerous_plan
+  label: Fearful adviser warns a ruler against a dangerous plan
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: An adviser warning a ruler concerns counsel within kingship and the maintenance
+    or failure of proper rule.
+  cautions: If the warning is prophetic, map secondarily to prophecy_divination; if
+    it is simply a narrative dialogue detail, it may be too specific for pattern queries.
+  suggested_aliases:
+  - adviser_warns_ruler_against_dangerous_plan
+  - counsel_to_ruler_against_reckless_plan
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-after-scarcity
+  motif_id: feast_after_scarcity
+  label: feast after scarcity
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A feast after scarcity could signal divine provision, sacred exchange,
+    seasonal abundance, or a simple narrative resolution.
+  cautions: Single occurrence and broad wording; map only if source shows ritual reciprocity,
+    miraculous provision, or calendrical renewal.
+  suggested_aliases:
+  - abundance_feast_after_scarcity
+  - post_scarcity_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence contextual labels; preserve source
+  detail but avoid promoting them without recurrence or clearer narrative function.
+- Do not infer transmission or common origin from these provisional placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional automated suggestions; human review needed especially for culturally
+    specific spirit, hunting taboo, and abstract philosophical fate labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1563
+  input_sha256: 4330b2cbafcd09a80170d84072770c2d99fb1dac87672ef4a343913b01d9ab29
+

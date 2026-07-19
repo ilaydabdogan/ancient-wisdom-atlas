@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2651
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.contested-sectarian-classification-of-a-religious-text
+  motif_id: contested_sectarian_classification_of_a_religious_text
+  label: contested sectarian classification of a religious text
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes modern or scholarly classification of a text rather
+    than a narrative or symbolic motif.
+  cautions: Preserve as provenance or reception metadata if useful; do not treat sectarian
+    classification as evidence for motif comparison.
+  suggested_aliases:
+  - sectarian_classification_of_a_religious_text
+  - contested_textual_classification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-solarization-of-osiris-versus-vegetation-deity-reading
+  motif_id: contested_solarization_of_osiris_versus_vegetation_deity_reading
+  label: contested solarization of Osiris versus vegetation-deity reading
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label records a contested interpretive reading of a deity rather
+    than a motif in the source narrative.
+  cautions: If passages themselves contain solar or vegetation symbolism, index those
+    separately under the relevant motif; do not index the scholarly dispute as a pattern.
+  suggested_aliases:
+  - contested_deity_interpretation
+  - solarization_versus_vegetation_deity_reading
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-treasure-withheld-from-a-departing-woman
+  motif_id: contested_treasure_withheld_from_a_departing_woman
+  label: Contested treasure withheld from a departing woman
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could concern treasure as a power object, inheritance dispute,
+    violated exchange, or gendered departure episode.
+  cautions: Single occurrence and highly contextual; source evidence is needed before
+    choosing sacred_treasures, covenant, sacred_exchange, or excluding as episode
+    detail.
+  suggested_aliases:
+  - withheld_treasure_from_departing_woman
+  - disputed_treasure_at_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-treaty-redress-petition
+  motif_id: contested_treaty_redress_petition
+  label: contested treaty redress petition
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A treaty petition may involve covenant, law, redress, or historical-political
+    context rather than a mythic motif.
+  cautions: Culturally and historically sensitive; verify whether this is narrative
+    sacred-law pattern, colonial/legal history, or source commentary before indexing.
+  suggested_aliases:
+  - treaty_redress_petition
+  - petition_for_treaty_redress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-wells-and-movement-to-spacious-settlement
+  motif_id: contested_wells_and_movement_to_spacious_settlement
+  label: Contested wells and movement to spacious settlement
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines dispute over wells with migration to settlement, which
+    could fit water, covenantal land, or journey motifs.
+  cautions: Do not map to sacred_waters unless the wells have sacred or transformative
+    function; may be an episode-specific land-conflict detail.
+  suggested_aliases:
+  - contested_wells
+  - movement_to_spacious_settlement
+  - well_dispute_and_resettlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contests-between-rival-peoples-as-epic-frame
+  motif_id: contests_between_rival_peoples_as_epic_frame
+  label: contests between rival peoples as epic frame
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: broader_label
+  confidence: medium
+  rationale: Rival peoples contesting within an epic frame fits the broad sacred-combat
+    and intergroup conflict complex.
+  cautions: If the phrase only describes epic structure or editorial framing, treat
+    as meta-textual rather than a combat motif.
+  suggested_aliases:
+  - rival_peoples_contest_epic_frame
+  - intergroup_contests_as_epic_frame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continued-bow-and-flint-weapon-use-without-guns
+  motif_id: continued_bow_and_flint_weapon_use_without_guns
+  label: Continued bow-and-flint weapon use without guns
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as technological or ethnographic observation about weapon
+    use rather than a recurring narrative motif.
+  cautions: If the passage treats traditional weapons as sacred power objects or battle-deciding
+    weapons, remap that narrower evidence to sacred_treasures or sacred_combat.
+  suggested_aliases:
+  - bow_and_flint_weapon_use_without_guns
+  - traditional_weapon_use_without_firearms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continuity-between-hunting-weapons-and-war-weapons
+  motif_id: continuity_between_hunting_weapons_and_war_weapons
+  label: continuity between hunting weapons and war weapons
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a cultural-technical continuity rather than a narrative
+    function or symbolic motif.
+  cautions: If a weapon has divine origin, ritual use, or combat-turning power in
+    the source, index that specific motif separately.
+  suggested_aliases:
+  - hunting_weapons_as_war_weapons
+  - continuity_of_hunting_and_war_weaponry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contrasting-visitors-kind-one-rewarded-abusive-one-punished
+  motif_id: contrasting_visitors_kind_one_rewarded_abusive_one_punished
+  label: 'Contrasting visitors: kind one rewarded, abusive one punished'
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Contrasting visitor behavior with reward and punishment fits hospitality-test
+    and moral evaluation patterns.
+  cautions: If the visitors are not guests or suppliants, divine_judgment may be a
+    better broader placement; verify whether sacred testing is present.
+  suggested_aliases:
+  - kind_visitor_rewarded_abusive_visitor_punished
+  - contrasting_visitors_reward_and_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coordinated-game-drive-toward-waiting-people
+  motif_id: coordinated_game_drive_toward_waiting_people
+  label: coordinated game drive toward waiting people
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe hunting practice or episode mechanics,
+    but may have ritual or animal-helper significance in context.
+  cautions: Culturally specific subsistence detail; do not force into sacred_combat.
+    Review source for ritualized hunt, animal agency, or merely practical description.
+  suggested_aliases:
+  - game_drive_toward_waiting_people
+  - coordinated_communal_game_drive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch appear to be scholarly, ethnographic, or episode-context
+  labels rather than reusable motifs; exclusions are provisional and should preserve
+  provenance notes where useful.
+- The supplied review bucket is conflict-oriented, but multiple labels are better
+  evaluated through textual-artifact, sacred-law, hospitality, water, or journey contexts
+  rather than combat alone.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally sensitive treaty/hunting/settlement labels and for over-specific single-occurrence
+    episodes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2651
+  input_sha256: 99d5e3f820a4f2f1cee7b52a92f0e4e434adfa45c7d61b6c8972ee372cb0fd8d
+

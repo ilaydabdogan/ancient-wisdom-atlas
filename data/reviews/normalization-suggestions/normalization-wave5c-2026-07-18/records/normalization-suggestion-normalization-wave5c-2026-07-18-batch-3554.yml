@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3554
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.human-remains-among-mound-refuse-and-implements
+  motif_id: human_remains_among_mound_refuse_and_implements
+  label: Human remains among mound refuse and implements
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Reads like an archaeological or descriptive context note rather than
+    a recurring narrative motif.
+  cautions: If passage frames mound remains as ancestor ritual, burial denial, or
+    origin etiology, remap to ancestor_rites or heroic_funeral_rites after source
+    review.
+  suggested_aliases:
+  - human_remains_in_mound_deposit
+  - mound_refuse_with_human_remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-remains-used-as-sorcery-charms
+  motif_id: human_remains_used_as_sorcery_charms
+  label: human remains used as sorcery charms
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Human remains function as charged power objects or charms.
+  cautions: Culturally sensitive and source-dependent; could fit sacred_law, ancestor_rites,
+    or harmful magic rather than treasures if framed as taboo, mortuary rite, or sorcery
+    practice.
+  suggested_aliases:
+  - human_remains_as_magic_charms
+  - corpse_remains_as_sorcery_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-scent-betrays-a-concealed-visitor
+  motif_id: human_scent_betrays_a_concealed_visitor
+  label: Human scent betrays a concealed visitor
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Scent exposes a hidden identity or concealed presence, matching recognition-by-sensory-token
+    logic.
+  cautions: If the scene centers on predation or pursuit rather than recognition,
+    trickster or threshold_guardian may be a better secondary mapping.
+  suggested_aliases:
+  - concealed_visitor_betrayed_by_scent
+  - recognition_by_human_scent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-settlement-resisting-encroaching-forest
+  motif_id: human_settlement_resisting_encroaching_forest
+  label: Human settlement resisting encroaching forest
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a human/nature boundary conflict but does not clearly
+    match an existing motif group.
+  cautions: Could be local landscape etiology, settlement origin, culture-hero clearing,
+    or a passage-specific environmental detail; source evidence is needed.
+  suggested_aliases:
+  - settlement_against_encroaching_forest
+  - forest_encroaches_on_human_settlement
+  suggested_new_group:
+    id: human_nature_boundary
+    label: Human Settlement and Wild Nature Boundary
+    description: Narratives where human habitation, cultivated space, or social order
+      is defined against encroaching forest, wilderness, sea, or nonhuman landscape
+      powers.
+    parent_group_ids:
+    - cosmic_origin
+    - sacred_law
+    related_group_ids:
+    - culture_hero
+    - threshold_guardian
+    - otherworld
+    reason_existing_groups_insufficient: Existing groups cover cosmic origin, sacred
+      law, and otherworld thresholds, but not recurring settlement-versus-wilderness
+      boundary maintenance unless the source supplies a clearer function.
+- suggestion_id: normalization.suggestion.human-sight-causes-shy-beings-to-flee
+  motif_id: human_sight_causes_shy_beings_to_flee
+  label: Human sight causes shy beings to flee
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hidden or shy nonhuman beings withdrawing when seen fits fragile contact
+    with an enchanted or otherworldly realm.
+  cautions: If the beings are specifically spirits, ancestors, or tutelary powers,
+    divine_intervention or ancestor_rites may be better; preserve the visibility taboo
+    detail.
+  suggested_aliases:
+  - shy_beings_flee_when_seen_by_humans
+  - otherworld_beings_flee_human_sight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-strength-compared-with-others
+  motif_id: human_strength_compared_with_others
+  label: Human strength compared with others
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Too generic and comparative to function as a stable motif without a narrative
+    action or symbolic role.
+  cautions: If source shows a contest, trickster reversal, or heroic ordeal, remap
+    to sacred_combat, divine_warrior, or initiation based on evidence.
+  suggested_aliases:
+  - comparison_of_human_strength
+  - human_strength_contrasted_with_others
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-teeth-adornment
+  motif_id: human_teeth_adornment
+  label: human teeth adornment
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: Body parts used as adornment may be power objects, trophies, or ritual
+    markers, but the function is unclear.
+  cautions: Could belong to sacred_combat if trophies, sacred_law if taboo/ritual
+    adornment, or be an ethnographic artifact; source review needed.
+  suggested_aliases:
+  - teeth_used_as_adornment
+  - human_teeth_as_ornament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-transformed-into-aquatic-provider
+  motif_id: human_transformed_into_aquatic_provider
+  label: Human transformed into aquatic provider
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A human becomes a new aquatic source or provider, emphasizing transformation
+    into a life-sustaining form.
+  cautions: If the provider establishes food or abundance for humans, culture_hero
+    or divine_intervention may be relevant secondary mappings; if water is central,
+    sacred_waters may also apply.
+  suggested_aliases:
+  - human_becomes_aquatic_provider
+  - transformation_into_water_provider
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-transformed-into-stone
+  motif_id: human_transformed_into_stone
+  label: human transformed into stone
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Petrification is a clear transformation of a human into a new material
+    state.
+  cautions: If the stone explains a landmark, cosmic_origin or etiological place-naming
+    may be a secondary mapping; if punishment is central, divine_judgment may apply.
+  suggested_aliases:
+  - petrified_human
+  - human_petrification
+  - human_becomes_stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-woman-married-to-frog-spouses
+  motif_id: human_woman_married_to_frog_spouses
+  label: human woman married to frog spouses
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A human-nonhuman marriage fits the broader sacred or enchanted marriage/relationship
+    field.
+  cautions: If the frog spouses are otherworld beings, otherworld may be equally important;
+    if transformation or animal disguise drives the plot, shapeshifter should be considered.
+  suggested_aliases:
+  - human_woman_marries_frog_spouses
+  - human_animal_marriage_with_frogs
+  - frog_spouse_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and ethnographic or descriptive; placements
+  should remain provisional until source passages confirm narrative function.
+- Human remains and body-part motifs may be culturally sensitive and should be reviewed
+  for whether they are ritual practices, archaeological notes, trophy motifs, ancestor
+  rites, or generated artifacts.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3554
+  input_sha256: 68509d4b10ef49f95e7d59fa69516b4724ad64ae0735ee27f9dbc0d3c8e0d7b5
+

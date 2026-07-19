@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0018
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ancestral-possession-used-as-leverage-in-bargaining
+  motif_id: ancestral_possession_used_as_leverage_in_bargaining
+  label: ancestral possession used as leverage in bargaining
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves ancestral agency and bargaining, but it is unclear
+    whether this is ritual care of ancestors, spirit possession, property possession,
+    or narrative leverage.
+  cautions: Single occurrence; 'possession' is ambiguous and may refer to ownership
+    rather than spirit possession. Source context is required before mapping.
+  suggested_aliases:
+  - ancestral possession as bargaining leverage
+  - ancestor agency in bargaining
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-practice-preserved-in-mountain-refuge
+  motif_id: ancestral_practice_preserved_in_mountain_refuge
+  label: ancestral practice preserved in mountain refuge
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: The mountain refuge may be a sacred place preserving ancestral ways,
+    but the label could be ethnographic or historical rather than mythic.
+  cautions: Review cultural and source context carefully; do not force into cosmic_mountain
+    unless the mountain has sacred-center, refuge, or revelation function in the passage.
+  suggested_aliases:
+  - ancestral practices preserved in mountain refuge
+  - mountain refuge preserving ancestral tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-praise-preserved-on-ritual-vessels
+  motif_id: ancestral_praise_preserved_on_ritual_vessels
+  label: ancestral praise preserved on ritual vessels
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual vessels preserving praise of ancestors fit ancestor veneration
+    and ritual remembrance rather than the vessel as a transformative container.
+  cautions: May also relate to sacred_vessel or storytelling_as_power if the inscription
+    or object is the focus; preserve vessel-specific evidence.
+  suggested_aliases:
+  - ancestral praise on ritual vessels
+  - ritual vessel inscriptions praising ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-rain-makers
+  motif_id: ancestral_rain_makers
+  label: Ancestral rain-makers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Ancestors functioning as rain-makers align with departed or sacred agents
+    mediating weather and provision.
+  cautions: Could belong with ancestor_rites if ritual care of ancestors is central,
+    or sacred_exchange if rainmaking is reciprocal ritual; review culturally specific
+    context.
+  suggested_aliases:
+  - ancestor rainmakers
+  - ancestral rainmaking agents
+  - dead ancestors mediating rain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-regalia-after-hardship
+  motif_id: ancestral_regalia_after_hardship
+  label: ancestral regalia after hardship
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: Ancestral regalia may be inherited sacred power objects or identity tokens,
+    but the narrative function after hardship is unclear.
+  cautions: Single occurrence and culturally specific; could be sacred_treasures,
+    ancestor rites, royal legitimacy, or a contextual detail. Avoid flattening regalia
+    into generic objects without evidence.
+  suggested_aliases:
+  - ancestral regalia following hardship
+  - inherited regalia after ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-regalia-form-protective-shelter-after-trouble
+  motif_id: ancestral_regalia_form_protective_shelter_after_trouble
+  label: ancestral regalia form protective shelter after trouble
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ancestral regalia functioning as protective shelter fits sacred power
+    objects conferring protection or aid.
+  cautions: May also touch sacred_vessel or divine_intervention if the shelter is
+    an enclosing refuge or supernatural rescue. Preserve local regalia specificity.
+  suggested_aliases:
+  - ancestral regalia as protective shelter
+  - protective shelter formed by ancestral regalia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-religion-opposed-to-a-more-right-preaching
+  motif_id: ancestral_religion_opposed_to_a_more_right_preaching
+  label: Ancestral religion opposed to a more right preaching
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Opposition between inherited religion and prophetic preaching may fit
+    rejected prophecy or sacred law, but the label is evaluative and context-dependent.
+  cautions: Wording is culturally sensitive and may reflect commentary rather than
+    motif. Review source evidence before mapping to prophetic rejection, covenant,
+    or divine judgment.
+  suggested_aliases:
+  - ancestral religion opposed to prophetic preaching
+  - inherited religion resisting true preaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-remembrance-through-temple-shrine-and-descendant-obligations
+  motif_id: ancestral_remembrance_through_temple_shrine_and_descendant_obligations
+  label: Ancestral remembrance through temple, shrine, and descendant obligations
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Temple or shrine remembrance and descendant duties are core ancestor-veneration
+    and ancestor-rite functions.
+  cautions: May also support sacred_law or sacred_exchange if filial obligation or
+    reciprocal duty is emphasized; keep descendant-obligation detail.
+  suggested_aliases:
+  - ancestor remembrance through shrine obligations
+  - descendant obligations to ancestral temple and shrine
+  - ancestral remembrance through ritual obligations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-resemblance-as-validation
+  motif_id: ancestral_resemblance_as_validation
+  label: ancestral resemblance as validation
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Resemblance to an ancestor functions as proof or validation of identity,
+    lineage, or legitimacy.
+  cautions: Could map to royal_legitimacy if the resemblance authorizes rule or status;
+    source context should determine whether recognition or legitimacy is primary.
+  suggested_aliases:
+  - ancestral likeness as identity proof
+  - ancestral resemblance validating lineage
+  - resemblance to ancestor as validation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancestral-reverence-attached-to-planted-trees
+  motif_id: ancestral_reverence_attached_to_planted_trees
+  label: ancestral reverence attached to planted trees
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Reverence for ancestors attached to planted trees fits ancestor remembrance
+    through a ritual or memorial object.
+  cautions: If the tree functions as a sacred axis, embodied dead, or cosmological
+    connector, axis_mundi or death_and_transformation may be secondary. Preserve planted-tree
+    specificity.
+  suggested_aliases:
+  - ancestral reverence linked to planted trees
+  - memorial trees for ancestors
+  - ancestor veneration through planted trees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine ancestor language with culturally specific ritual or material
+  practices; placements are provisional and should be checked against source passages.
+- Do not treat ancestor-related placement as evidence of transmission or shared origin
+  across traditions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch contains multiple single-occurrence ancestral labels; several require
+    source context to distinguish ritual motif from commentary or ethnographic artifact.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0018
+  input_sha256: 3b17644d7e81bcec2a8168cd427bd5a847cc2efb6ec64e87baf4721612c2efdb
+

@@ -1,0 +1,277 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0640
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.traveler-caught-in-a-wider-political-conflict
+  motif_id: traveler_caught_in_a_wider_political_conflict
+  label: Traveler caught in a wider political conflict
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a contextual plot circumstance rather than a recurring
+    symbolic or narrative motif.
+  cautions: If the passage shows exile, ordeal, or political violence as a transformative
+    journey, review under hero_journey or sacred_combat.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.traveler-from-a-place-beyond-ordinary-geographic-knowledge
+  motif_id: traveler_from_a_place_beyond_ordinary_geographic_knowledge
+  label: traveler from a place beyond ordinary geographic knowledge
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A traveler from beyond known geography likely marks contact with an enchanted,
+    hidden, or nonordinary realm.
+  cautions: Confirm that the place is otherworldly rather than merely distant or ethnographic
+    geography; otherwise exclude as contextual detail.
+  suggested_aliases:
+  - traveler_from_unknown_land
+  - visitor_from_beyond_known_world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.traveler-miniaturized-and-carried-inside-an-arrow
+  motif_id: traveler_miniaturized_and_carried_inside_an_arrow
+  label: Traveler miniaturized and carried inside an arrow
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Miniaturization is bodily transformation enabling unusual travel or concealment.
+  cautions: The arrow may be a power object or vehicle; if transport rather than transformation
+    is central, sacred_treasures or hero_journey may be secondary.
+  suggested_aliases:
+  - miniaturized_traveler_carried_in_object
+  - magical_miniaturization_for_travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.traveler-reaches-a-deep-gorge-after-northern-journey
+  motif_id: traveler_reaches_a_deep_gorge_after_northern_journey
+  label: traveler reaches a deep gorge after northern journey
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a route or landscape detail without a clear recurrent
+    motif function.
+  cautions: If the gorge functions as a liminal threshold, obstacle, or descent site,
+    review under threshold_guardian, descent, or hero_journey.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.traveler-reaches-strange-island-after-sea-ordeal
+  motif_id: traveler_reaches_strange_island_after_sea_ordeal
+  label: traveler reaches strange island after sea ordeal
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A strange island reached after a perilous sea passage fits the enchanted
+    or nonordinary realm encountered through journey ordeal.
+  cautions: If the main function is water crossing or survival at sea, sacred_waters
+    or hero_journey may be better secondary mappings.
+  suggested_aliases:
+  - strange_island_after_sea_ordeal
+  - enchanted_island_reached_after_sea_peril
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.traveler-s-temporary-rainy-season-shelter
+  motif_id: traveler_s_temporary_rainy_season_shelter
+  label: traveler's temporary rainy-season shelter
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: The label describes a practical travel circumstance or setting rather
+    than a symbolic motif.
+  cautions: Only reconsider if the shelter becomes a threshold, refuge, sacred vessel,
+    or site of transformation in the passage.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.travelers-trapped-in-a-cannibal-giant-s-castle
+  motif_id: travelers_trapped_in_a_cannibal_giant_s_castle
+  label: travelers trapped in a cannibal giant's castle
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Entrapment by a monstrous cannibal in an enclosed place functions as
+    a perilous threshold ordeal that must be escaped or overcome.
+  cautions: Could also fit trickster if escape depends on deception, or sacred_combat
+    if combat with the giant is central; castle detail may be over-specific.
+  suggested_aliases:
+  - travelers_trapped_by_cannibal_giant
+  - cannibal_giant_hostile_enclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.traveling-named-figure
+  motif_id: traveling_named_figure
+  label: traveling named figure
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is too generic and appears to record that a named person travels,
+    not a motif pattern.
+  cautions: If the named figure is a culture hero or undergoes transformative departure
+    and return, remap based on the specific episode evidence.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.traveling-tale-localized-around-a-regional-personality
+  motif_id: traveling_tale_localized_around_a_regional_personality
+  label: traveling tale localized around a regional personality
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes tale localization or transmission framing, not an
+    in-story motif.
+  cautions: Keep out of motif pattern queries; preserve only as provenance or folkloristic
+    commentary if needed.
+  suggested_aliases:
+  - localized_traveling_tale
+  - tale_localized_to_regional_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.traveller-survives-a-predatory-blood-drinking-giant
+  motif_id: traveller_survives_a_predatory_blood_drinking_giant
+  label: traveller survives a predatory blood-drinking giant
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Survival of a predatory giant encounter fits a perilous liminal ordeal
+    during travel.
+  cautions: If the narrative emphasizes moral danger, compassion, or karmic reversal,
+    divine_judgment or sacred_law may be relevant; blood-drinking giant detail is
+    likely granular evidence.
+  suggested_aliases:
+  - traveler_survives_predatory_giant
+  - blood_drinking_giant_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence travel-route or setting details;
+  prefer exclusion unless passage evidence shows transformation, otherworld contact,
+  threshold ordeal, or ritual function.
+- Monster-traveler encounters were provisionally placed under threshold_guardian because
+  the existing taxonomy lacks a general monster/perilous-host group.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should confirm whether travel
+    labels are motifs or contextual artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0640
+  input_sha256: 3fe551ac3a6c979f0918235f987093fdb9dc2edc47a5897e14695269c44803c2
+

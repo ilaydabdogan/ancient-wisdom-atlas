@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0070
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.compensated-transmission-of-a-ghost-song
+  motif_id: compensated_transmission_of_a_ghost_song
+  label: Compensated transmission of a ghost song
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines ghost/dead agency, song transmission, and compensation; could
+    be ancestor rites, sacred exchange, sacred song, or a culturally specific ritual
+    protocol.
+  cautions: Single occurrence and culturally specific; avoid flattening ghost-song
+    transmission into generic mourning or exchange without source evidence.
+  suggested_aliases:
+  - ghost_song_transmission_with_compensation
+  - ritual_payment_for_ghost_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.compensation-object-offered-for-return-of-wife-and-daughter
+  motif_id: compensation_object_offered_for_return_of_wife_and_daughter
+  label: Compensation object offered for return of wife and daughter
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ransom or compensatory exchange for kin, but the death/afterlife
+    connection is not clear from the label alone.
+  cautions: May be a passage-specific plot detail, marriage/kinship negotiation, abduction
+    recovery, or funerary exchange; source context needed.
+  suggested_aliases:
+  - ransom_object_for_return_of_kin
+  - compensatory_object_for_return_of_family_members
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.compensation-price-for-injury-or-death
+  motif_id: compensation_price_for_injury_or_death
+  label: Compensation price for injury or death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formal compensation price for injury or death is a legal-social order
+    motif, closer to sacred law than afterlife or mourning.
+  cautions: If the passage emphasizes feud settlement or covenantal repair, covenant
+    may be a secondary mapping; preserve Norse legal specificity.
+  suggested_aliases:
+  - wergild_for_injury_or_death
+  - blood_compensation_for_injury_or_death
+  - death_injury_compensation_price
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.complete-survival-of-the-returning-war-band
+  motif_id: complete_survival_of_the_returning_war_band
+  label: Complete survival of the returning war band
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Survival of an entire war band returning from conflict likely functions
+    as providential protection or deliverance.
+  cautions: If no divine or sacred agency is present, this may be only a narrative
+    outcome; sacred_combat may be a secondary context.
+  suggested_aliases:
+  - war_band_preserved_in_return
+  - complete_survival_after_battle_return
+  - providential_survival_of_war_band
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.completion-of-the-dead-through-destruction-of-ritual-remains
+  motif_id: completion_of_the_dead_through_destruction_of_ritual_remains
+  label: completion of the dead through destruction of ritual remains
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rite that completes the dead through handling or destroying remains
+    belongs with ritual care and proper relations between living and dead.
+  cautions: Culturally specific mortuary practice; if the focus is transformation
+    of the dead rather than ancestor relation, death_and_transformation may be secondary.
+  suggested_aliases:
+  - mortuary_completion_by_destroying_ritual_remains
+  - destruction_of_ritual_remains_completes_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-ancestral-religion-beneath-public-catholic-affiliation
+  motif_id: concealed_ancestral_religion_beneath_public_catholic_affiliation
+  label: Concealed ancestral religion beneath public Catholic affiliation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes historical/religious affiliation, concealment, or syncretic
+    practice rather than a narrative motif.
+  cautions: Preserve as cultural-historical context if needed, but exclude from motif
+    pattern queries and avoid transmission claims.
+  suggested_aliases:
+  - concealed_ancestral_practice_under_public_catholic_identity
+  - hidden_indigenous_religion_beneath_catholic_affiliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-burial-by-burning-a-structure
+  motif_id: concealed_burial_by_burning_a_structure
+  label: Concealed burial by burning a structure
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate mortuary concealment, destruction of remains,
+    crime concealment, or ritual burning; function is unclear.
+  cautions: Single occurrence and potentially episode-specific; do not map to heroic
+    funeral rites or ancestor rites without evidence of ritual purpose.
+  suggested_aliases:
+  - burial_concealed_by_burning_structure
+  - structure_burned_to_hide_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-corpse-beneath-the-hearth
+  motif_id: concealed_corpse_beneath_the_hearth
+  label: concealed corpse beneath the hearth
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a highly specific corpse-location detail rather than a
+    reusable motif group.
+  cautions: If the hearth placement has ritual, household, or haunting significance
+    in the passage, human review may map to ancestor_rites, sacred_law, or restless_dead_haunting_vengeance.
+  suggested_aliases:
+  - corpse_hidden_under_hearth
+  - hidden_body_beneath_hearth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-corpse-in-a-carried-box-precipitates-killing
+  motif_id: concealed_corpse_in_a_carried_box_precipitates_killing
+  label: Concealed corpse in a carried box precipitates killing
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The carried box may function as a vessel, deception device, or corpse-concealment
+    plot trigger, but the motif function is ambiguous.
+  cautions: Likely over-specific; review whether the key pattern is deceptive concealment,
+    sacred vessel/container, death pollution, or a passage artifact.
+  suggested_aliases:
+  - corpse_hidden_in_carried_box
+  - concealed_body_in_box_triggers_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealed-death-and-burial-of-a-lawgiver
+  motif_id: concealed_death_and_burial_of_a_lawgiver
+  label: concealed death and burial of a lawgiver
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: A lawgiver's concealed death and burial concerns preservation of sacred
+    authority, succession, or legitimacy around a foundational leader.
+  cautions: If the passage emphasizes burial rites or death concealment more than
+    authority, heroic_funeral_rites or ancestor_rites may be secondary; source evidence
+    needed.
+  suggested_aliases:
+  - hidden_death_and_burial_of_lawgiver
+  - concealed_burial_of_sacred_lawgiver
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence corpse-concealment or compensation
+  details; human review should distinguish recurring motif function from passage-specific
+  plot mechanics.
+- Do not infer transmission or historical borrowing from syncretic or concealed-religion
+  wording; treat such labels as contextual or meta unless source passages contain
+  a reusable narrative motif.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific mortuary
+    and Indigenous religious-practice labels require source-sensitive human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0070
+  input_sha256: eb06fc05e2d2829db5fbda8000cdd7e14ed31e36e4a6e4e8f119000860ccdd23
+

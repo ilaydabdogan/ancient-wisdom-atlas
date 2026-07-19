@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2824
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.stone-clad-human-liver-eating-monster-pair
+  motif_id: stone_clad_human_liver_eating_monster_pair
+  label: Stone-clad human-liver-eating monster pair
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: medium
+  rationale: Stone-clad monsters suggest weapon resistance or special vulnerability;
+    the liver-eating pair is local episode detail.
+  cautions: Confirm that stone covering functions as invulnerability and not simply
+    monster description or armor imagery.
+  suggested_aliases:
+  - stone_clad_invulnerable_monsters
+  - stone_armored_cannibal_monster_pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-clad-invulnerable-monster
+  motif_id: stone_clad_invulnerable_monster
+  label: stone-clad invulnerable monster
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: high
+  rationale: The label explicitly describes an invulnerable monster, matching the
+    hidden-weakness and special-defeat complex.
+  cautions: If no defeat condition or vulnerability is present, it may be a broader
+    monster-combat detail rather than this group’s full structure.
+  suggested_aliases:
+  - stone_armored_invulnerable_monster
+  - invulnerable_stone_clad_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-concealment-on-the-warpath
+  motif_id: stone_concealment_on_the_warpath
+  label: stone concealment on the warpath
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase could mean magical protection, camouflage, a war charm, or
+    a passage-specific battle tactic.
+  cautions: Needs source evidence before choosing sacred_treasures, sacred_combat,
+    divine_warrior, or exclusion as an over-specific detail.
+  suggested_aliases:
+  - stone concealment during warpath
+  - warpath concealment by stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-derived-war-drink
+  motif_id: stone_derived_war_drink
+  label: stone-derived war drink
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: A war drink derived from stone is a power-conferring substance used in
+    a martial or ritual context.
+  cautions: If the stone itself is the power object, sacred_treasures may be a secondary
+    relation; confirm ritual or transformative function.
+  suggested_aliases:
+  - stone-derived martial drink
+  - war drink from stone
+  - stone power drink for war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-lifting-test-with-a-prize-share
+  motif_id: stone_lifting_test_with_a_prize_share
+  label: Stone-lifting test with a prize share
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A strength test with reward functions as an ordeal or status-proving
+    trial.
+  cautions: May be a folktale contest detail rather than sacred initiation; if no
+    transformation or status change occurs, keep as granular evidence only.
+  suggested_aliases:
+  - stone lifting strength test
+  - stone lifting contest for prize share
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stone-throwing-contest-between-two-goals
+  motif_id: stone_throwing_contest_between_two_goals
+  label: stone-throwing contest between two goals
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A stone-throwing contest may be athletic ordeal, ritualized combat, game,
+    or local etiological episode.
+  cautions: The two-goal detail is highly specific; verify recurrence and narrative
+    function before mapping to initiation or sacred_combat.
+  suggested_aliases:
+  - stone throwing contest
+  - stone throwing between goals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.story-preserved-archaic-serrate-weapon
+  motif_id: story_preserved_archaic_serrate_weapon
+  label: story-preserved archaic serrate weapon
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes preservation of an archaic weapon in story, which
+    reads as commentary on tradition or material culture.
+  cautions: If the weapon has supernatural power in the narrative, preserve that separate
+    evidence under sacred_treasures or sacred_combat.
+  suggested_aliases:
+  - archaic serrate weapon preserved in story
+  - story as evidence for archaic weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.story-protest-against-cannibalism
+  motif_id: story_protest_against_cannibalism
+  label: story protest against cannibalism
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could be a narrative moral stance, anti-cannibal taboo, or
+    commentator’s interpretation rather than a motif.
+  cautions: Review whether the passage depicts ritual prohibition, divine judgment,
+    monster combat, or textual/social commentary.
+  suggested_aliases:
+  - anti-cannibalism story
+  - narrative protest against cannibalism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storytelling-and-scripture-as-temporary-refuge-during-ordeal
+  motif_id: storytelling_and_scripture_as_temporary_refuge_during_ordeal
+  label: Storytelling and scripture as temporary refuge during ordeal
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Storytelling or scripture shelters a figure during danger, aligning with
+    narrative or sacred speech as protective power.
+  cautions: If scripture is used as ritual object or recitation rather than narrative,
+    sacred_knowledge or curse_blessing_speech may be secondary.
+  suggested_aliases:
+  - storytelling as refuge during ordeal
+  - scripture as refuge during ordeal
+  - sacred narrative as temporary protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.strength-contest-before-killing
+  motif_id: strength_contest_before_killing
+  label: Strength contest before killing
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formal strength contest immediately preceding killing fits ritualized
+    combat or violence structured by contest.
+  cautions: If the contest is merely a plot device without ritual or combat structure,
+    preserve as an over-specific episode detail.
+  suggested_aliases:
+  - strength contest preceding killing
+  - pre-killing strength contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and stone-specific; preserve local evidence
+  but avoid promoting new stone-combat categories without recurrence.
+- For monster-combat labels, distinguish bodily invulnerability from ordinary armor,
+  stone symbolism, or local monster description.
+- Labels beginning with 'story-' may reflect commentary about narrative function or
+  preservation rather than an in-world motif and should be checked against source
+  passages.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    Native American and Melanesian labels and for all single-occurrence contest or
+    story-commentary items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2824
+  input_sha256: fbd01948da9f451dc282282efe34e23a9aa386c1779857fc9f12b3b35bd33a79
+

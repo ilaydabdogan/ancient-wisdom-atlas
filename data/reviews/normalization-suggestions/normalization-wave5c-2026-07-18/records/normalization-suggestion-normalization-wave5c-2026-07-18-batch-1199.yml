@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1199
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.tabooed-sacred-object-causing-misfortune
+  motif_id: tabooed_sacred_object_causing_misfortune
+  label: Tabooed sacred object causing misfortune
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo on handling or violating a sacred object fits sacred law, purity,
+    and ritual prohibition patterns.
+  cautions: Single occurrence; if the object itself confers power, sacred_treasures
+    may be a secondary mapping.
+  suggested_aliases:
+  - sacred object taboo
+  - ritual prohibition around sacred objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tabooed-sacred-person
+  motif_id: tabooed_sacred_person
+  label: tabooed sacred person
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: A taboo surrounding a sacred person may be a purity rule, kingship restriction,
+    specialist status, or ethnographic category.
+  cautions: Very broad comparative label; review source evidence before indexing as
+    motif rather than anthropological classification.
+  suggested_aliases:
+  - taboo surrounding sacred person
+  - sacral person taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tabooed-sacred-plant-material-in-food-handling
+  motif_id: tabooed_sacred_plant_material_in_food_handling
+  label: Tabooed sacred plant-material in food handling
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food-handling restrictions involving sacred plant material fit ritual
+    prohibition and purity law.
+  cautions: Could relate to sacred_substance if the plant material itself is ritually
+    consumed or transformative; label may be over-specific.
+  suggested_aliases:
+  - food handling taboo involving sacred plants
+  - sacred plant food taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tabooed-sacred-space-around-excavation-and-ladder
+  motif_id: tabooed_sacred_space_around_excavation_and_ladder
+  label: tabooed sacred space around excavation and ladder
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ritual spatial restriction, but excavation and ladder
+    details may indicate a specific ceremony or passage context.
+  cautions: May belong with sacred_law, axis_mundi, threshold_guardian, or be an over-specific
+    ethnographic note depending on evidence.
+  suggested_aliases:
+  - sacred space taboo
+  - taboo around ritual excavation
+  - taboo around ritual ladder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tabooed-sexual-division-of-labor
+  motif_id: tabooed_sexual_division_of_labor
+  label: tabooed sexual division of labor
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: A tabooed gendered labor rule could fit sacred law as social and ritual
+    regulation.
+  cautions: Culturally sensitive and highly contextual; verify whether it is a mythic
+    motif, ritual law, gender norm, or source commentary.
+  suggested_aliases:
+  - gendered labor taboo
+  - ritual division of labor taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tabooed-specialists-aboard-a-vessel
+  motif_id: tabooed_specialists_aboard_a_vessel
+  label: Tabooed specialists aboard a vessel
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The motif appears to concern ritual restriction on persons with special
+    status in a travel or vessel setting.
+  cautions: Could be maritime ritual law, specialist taboo, sacred_vessel imagery,
+    or an over-specific ethnographic detail; source context is needed.
+  suggested_aliases:
+  - specialist taboo aboard vessel
+  - ritual restriction on specialists at sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tabooed-speech-around-authority
+  motif_id: tabooed_speech_around_authority
+  label: Tabooed speech around authority
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Speech restrictions around authority fit sacred law and social order
+    regulated by taboo.
+  cautions: If the speech act itself binds, curses, or blesses, curse_blessing_speech
+    may be a secondary mapping.
+  suggested_aliases:
+  - speech taboo around rulers
+  - restricted speech before authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tabooed-threshold-or-separated-rooms-within-one-lodge
+  motif_id: tabooed_threshold_or_separated_rooms_within_one_lodge
+  label: Tabooed threshold or separated rooms within one lodge
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Domestic threshold and room-separation taboos fit ritual regulation of
+    household space.
+  cautions: Could also relate to threshold_guardian if a guarding figure or passage
+    ordeal is present; current label is spatial-prohibition focused.
+  suggested_aliases:
+  - household threshold taboo
+  - ritual separation of rooms
+  - domestic sacred-space taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.taboos-around-bodily-remnants-blood-food-and-rulers
+  motif_id: taboos_around_bodily_remnants_blood_food_and_rulers
+  label: taboos around bodily remnants, blood, food, and rulers
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The elements named all fit ritual prohibition and purity law, but the
+    label aggregates several distinct taboo domains.
+  cautions: Composite comparative label; split evidence if possible into blood_as_life,
+    food taboo, ruler taboo, or bodily-remnant handling rather than indexing as one
+    motif.
+  suggested_aliases:
+  - composite taboo complex
+  - bodily remnant and ruler taboos
+  - blood food and ruler taboos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tabu-based-separation-and-purification-for-hunting
+  motif_id: tabu_based_separation_and_purification_for_hunting
+  label: tabu-based separation and purification for hunting
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Hunting-related separation and purification are ritual prohibitions governing
+    proper human-animal and sacred order.
+  cautions: Could overlap with sacrifice or sacred_exchange if the passage emphasizes
+    offerings or reciprocity with animal spirits.
+  suggested_aliases:
+  - hunting purification taboo
+  - ritual separation before hunting
+  - taboo-based hunting purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence taboo or purity labels; sacred_law
+  is the best existing broad group, but several need source review before durable
+  indexing.
+- Avoid merging all taboo labels into one canonical motif without checking whether
+  the function is purity, social hierarchy, sacred object danger, hunting reciprocity,
+  or passage-specific ethnographic description.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific taboo labels
+    should be reviewed against passage evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1199
+  input_sha256: db75070f3a0633b12d51c0549d4f3e06da792a785ba4ece57ba34350b9da7f9d
+

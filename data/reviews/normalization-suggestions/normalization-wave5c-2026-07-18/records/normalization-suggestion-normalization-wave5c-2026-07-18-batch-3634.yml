@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3634
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lord-coming-upon-heavenly-clouds-with-saints
+  motif_id: lord_coming_upon_heavenly_clouds_with_saints
+  label: Lord coming upon heavenly clouds with saints
+  occurrences: 1
+  traditions:
+  - christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label describes a divine public manifestation in heavenly/cloud imagery,
+    fitting theophany more than ordinary ascent.
+  cautions: Could be eschatological judgment or apocalyptic royal arrival depending
+    on passage context; consider divine_judgment as secondary if judgment is central.
+  suggested_aliases:
+  - divine_arrival_on_heavenly_clouds
+  - lord_appearing_with_saints_in_clouds
+  - cloud_theophany_with_saints
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.losing-side-encircled-and-kissed
+  motif_id: losing_side_encircled_and_kissed
+  label: losing side encircled and kissed
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The action could mark reconciliation, ritual treatment of defeated opponents,
+    humiliation, adoption, or a game/contest custom.
+  cautions: Single occurrence and culturally specific phrasing; source evidence is
+    needed before mapping to sacred_combat, covenant, hospitality, or ritual exchange.
+  suggested_aliases:
+  - defeated_side_encircled_and_kissed
+  - ritual_kissing_of_defeated_side
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-and-recovery-of-ancient-writings
+  motif_id: loss_and_recovery_of_ancient_writings
+  label: loss and recovery of ancient writings
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ancient writings function as authoritative transmitted knowledge that
+    is lost and recovered.
+  cautions: If the passage mainly concerns textual history or manuscript transmission
+    rather than narrative motif, route to _meta_textual instead.
+  suggested_aliases:
+  - recovery_of_lost_ancient_writings
+  - lost_sacred_writings_recovered
+  - restoration_of_lost_authoritative_texts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-concealed-by-a-larger-loss
+  motif_id: loss_concealed_by_a_larger_loss
+  label: loss concealed by a larger loss
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording describes an abstract plot strategy rather than a clear symbolic
+    or narrative motif.
+  cautions: Could be grief, deception, heroic loss, or a passage-specific literary
+    observation; do not map without source context.
+  suggested_aliases:
+  - smaller_loss_hidden_by_greater_loss
+  - concealing_loss_through_greater_loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-authoritative-original-and-survival-through-faithful-transmission
+  motif_id: loss_of_authoritative_original_and_survival_through_faithful_transmission
+  label: Loss of authoritative original and survival through faithful transmission
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns textual authority, loss of an original, and transmission
+    history rather than a mythic event or symbolic pattern.
+  cautions: Preserve as provenance or textual-history metadata; only map to sacred_knowledge
+    if a narrative depicts sacred teachings being lost and restored.
+  suggested_aliases:
+  - lost_authoritative_original_preserved_by_transmission
+  - faithful_transmission_after_loss_of_original
+  - text_survives_without_original
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-effortless-game-and-beginning-of-difficult-hunting
+  motif_id: loss_of_effortless_game_and_beginning_of_difficult_hunting
+  label: Loss of effortless game and beginning of difficult hunting
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes decline from effortless abundance to laborious subsistence,
+    matching loss of primordial ease.
+  cautions: Could also be an etiological origin of hunting or animal-human relations;
+    review for culture-hero or sacred-law elements if a rule violation causes the
+    loss.
+  suggested_aliases:
+  - loss_of_effortless_abundance_and_origin_of_hunting
+  - beginning_of_difficult_hunting_after_loss_of_game
+  - primordial_game_abundance_lost
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-human-status-through-cannibal-practice
+  motif_id: loss_of_human_status_through_cannibal_practice
+  label: loss of human status through cannibal practice
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines social exclusion, taboo transgression, and possible
+    monstrous transformation without enough evidence to choose a parent group.
+  cautions: Culturally sensitive and potentially source-dependent; may fit sacred_law,
+    divine_judgment, shapeshifter, or social-order motifs depending on narrative framing.
+  suggested_aliases:
+  - cannibal_practice_causes_loss_of_human_status
+  - loss_of_humanity_through_cannibalism
+  - cannibalism_as_dehumanizing_transgression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-individuality-as-highest-excellence
+  motif_id: loss_of_individuality_as_highest_excellence
+  label: Loss of individuality as highest excellence
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: annihilation_union
+  suggested_group_label: Annihilation And Union
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Dissolution of separateness or individual selfhood as spiritual fulfillment
+    aligns with annihilation-and-union themes.
+  cautions: Daoist non-self/non-action concepts may not imply union with a deity;
+    preserve philosophical specificity and consider duality or mystical_quest as broader
+    context.
+  suggested_aliases:
+  - loss_of_self_as_spiritual_excellence
+  - dissolution_of_individuality_as_perfection
+  - selfless_excellence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-natural-defense-leads-to-destruction
+  motif_id: loss_of_natural_defense_leads_to_destruction
+  label: Loss of natural defense leads to destruction
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: Destruction follows the removal of a protective feature, matching vulnerability
+    exposed after conditional protection fails.
+  cautions: If this is an animal fable or natural-history etiology rather than heroic
+    vulnerability, trickster or cosmic_origin may be better; review source context.
+  suggested_aliases:
+  - natural_defense_removed_causes_destruction
+  - loss_of_protection_exposes_fatal_vulnerability
+  - defense_loss_creates_vulnerability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-ordinary-human-livelihood-after-becoming-cannibal-outsiders
+  motif_id: loss_of_ordinary_human_livelihood_after_becoming_cannibal_outsiders
+  label: loss of ordinary human livelihood after becoming cannibal outsiders
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears related to cannibalism causing exclusion from normal human
+    society, but the key function is unclear from the label alone.
+  cautions: Culturally sensitive and over-specific; may belong with the related cannibal-status
+    label if a new reviewed group is created, or under sacred_law/divine_judgment
+    if taboo transgression is central.
+  suggested_aliases:
+  - cannibal_outsiders_lose_human_livelihood
+  - loss_of_livelihood_after_cannibal_exile
+  - cannibalism_leads_to_social_outsiderhood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence, abstract, or culturally sensitive; source-level
+  evidence should decide whether they are motifs or passage/commentary artifacts.
+- The two Zulu cannibalism labels appear related but should not be merged or normalized
+  without human review of the source context and terminology.
+- Textual-transmission labels should generally be excluded from pattern queries unless
+  a narrative episode itself dramatizes loss and restoration of sacred knowledge.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3634
+  input_sha256: 76180bcc4e9eec4376912e9f45a7b69db4f3bdc8d5bf14c30949cd733a603098
+

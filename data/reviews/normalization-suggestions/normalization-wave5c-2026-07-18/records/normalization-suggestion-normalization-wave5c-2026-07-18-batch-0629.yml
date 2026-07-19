@@ -1,0 +1,319 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0629
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.summoned-host-and-counter-reinforcement-after-contested-departure
+  motif_id: summoned_host_and_counter_reinforcement_after_contested_departure
+  label: Summoned host and counter-reinforcement after contested departure
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines departure, conflict escalation, and reinforcement
+    but does not identify a stable symbolic or narrative function.
+  cautions: Single occurrence and highly episode-specific; may be a plot summary rather
+    than reusable motif.
+  suggested_aliases:
+  - contested_departure_with_summoned_reinforcements
+  - counter_reinforcement_after_contested_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoned-neighbour-inquest-open-to-challenge
+  motif_id: summoned_neighbour_inquest_open_to_challenge
+  label: summoned neighbour inquest open to challenge
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a procedural legal detail rather than a mythic motif under
+    the current taxonomy.
+  cautions: If source evidence shows sacred law, oath, ordeal, or divine judgment,
+    reconsider under sacred_law, covenant, or divine_judgment.
+  suggested_aliases:
+  - neighbour_inquest_open_to_challenge
+  - summoned_neighbor_inquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sun-centered-ritual-kinship-and-mediation
+  motif_id: sun_centered_ritual_kinship_and_mediation
+  label: sun-centered ritual kinship and mediation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve solar sacred power, ritual kinship, or mediation
+    roles, but the function is unclear from wording alone.
+  cautions: Culturally sensitive ritual and kinship concepts need source review; do
+    not flatten into generic solar symbolism.
+  suggested_aliases:
+  - solar_ritual_kinship
+  - sun_mediated_ritual_kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - sacred_exchange
+    - covenant
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sun-connected-high-deity-and-worship
+  motif_id: sun_connected_high_deity_and_worship
+  label: sun-connected high deity and worship
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A high deity linked with sun worship fits cosmic sovereignty more than
+    a journey motif.
+  cautions: If the passage emphasizes solar light, ritual fire, or daily movement
+    rather than rulership, sacred_fire may be a better secondary mapping.
+  suggested_aliases:
+  - solar_high_deity
+  - sun_associated_supreme_deity
+  - sun_connected_high_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sun-god-and-sea-god-overlap-in-otherworld-lordship
+  motif_id: sun_god_and_sea_god_overlap_in_otherworld_lordship
+  label: Sun-god and sea-god overlap in Otherworld lordship
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe deity overlap or interpretive identification
+    rather than a clear narrative motif.
+  cautions: May be a scholarly syncretism/classification note; if a deity actually
+    rules an enchanted realm, map evidence to otherworld.
+  suggested_aliases:
+  - solar_sea_deity_otherworld_lordship
+  - sun_and_sea_god_overlap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_waters
+    - sacred_fire
+    - supreme_ruler
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sun-worshipping-kingdom-described-as-religiously-misdirected
+  motif_id: sun_worshipping_kingdom_described_as_religiously_misdirected
+  label: Sun-worshipping kingdom described as religiously misdirected
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may concern idolatry, polemic, kingship, or religious error, but
+    the motif function depends on source framing.
+  cautions: Avoid treating a polemical description of another worship tradition as
+    a neutral motif without human review.
+  suggested_aliases:
+  - sun_worship_as_religious_error
+  - misdirected_solar_worshipping_kingdom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    - sacred_law
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sunlight-enables-human-movement-visibility-hunting-visiting-and-travel
+  motif_id: sunlight_enables_human_movement_visibility_hunting_visiting_and_travel
+  label: sunlight enables human movement, visibility, hunting, visiting, and travel
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on sunlight as enabling life and movement, fitting
+    divine light rather than a specific quest pattern.
+  cautions: If the passage is purely descriptive or practical rather than sacred/cosmic,
+    it may be too broad for motif queries.
+  suggested_aliases:
+  - sunlight_enables_human_activity
+  - sunlight_as_enabler_of_travel_and_hunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.superhuman-hunter-and-disputed-game-ownership
+  motif_id: superhuman_hunter_and_disputed_game_ownership
+  label: Superhuman hunter and disputed game ownership
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes a superhuman role with disputed resource ownership; existing
+    groups do not clearly capture the core function.
+  cautions: Could be sacred law, trickster conflict, culture-hero hunting, or local
+    subsistence ethics; source context is required.
+  suggested_aliases:
+  - superhuman_hunter_disputes_game_ownership
+  - disputed_game_taken_by_superhuman_hunter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    - trickster
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.superhuman-river-crossing-while-carrying-dependents
+  motif_id: superhuman_river_crossing_while_carrying_dependents
+  label: superhuman river crossing while carrying dependents
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A superhuman crossing of a river with dependents fits water as dangerous
+    boundary and passage medium.
+  cautions: If the focus is heroic strength rather than transformative crossing, divine_warrior
+    or hero_journey may be secondary.
+  suggested_aliases:
+  - superhuman_river_crossing
+  - carrying_dependents_across_river
+  - miraculous_river_crossing_with_dependents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-adviser-gives-precise-travel-rules-for-crossing-a-dangerous-realm
+  motif_id: supernatural_adviser_gives_precise_travel_rules_for_crossing_a_dangerous_realm
+  label: supernatural adviser gives precise travel rules for crossing a dangerous
+    realm
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Instruction for crossing a dangerous realm fits guided quest travel and
+    threshold navigation.
+  cautions: If the realm is explicitly the dead or otherworld, descent or otherworld
+    should be considered as secondary mappings.
+  suggested_aliases:
+  - supernatural_adviser_gives_travel_rules
+  - travel_rules_for_dangerous_realm
+  - guide_instructions_for_perilous_crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - descent
+    - otherworld
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, episode-specific, or culturally
+  sensitive ritual descriptions; source evidence should be checked before promotion
+  beyond provisional group mapping.
+- The review bucket is journey/homecoming, but several motifs are better explained
+  by solar divinity, sacred waters, legal procedure, or otherworld classification.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0629
+  input_sha256: e78eb575fdfecc72199d8933dd97542a9bea729a336e9e98d8e96952ce8fc504
+

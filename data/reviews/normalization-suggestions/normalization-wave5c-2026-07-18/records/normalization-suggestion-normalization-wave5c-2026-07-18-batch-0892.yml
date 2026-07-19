@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0892
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.interruption-of-dawn-prayer-routine
+  motif_id: interruption_of_dawn_prayer_routine
+  label: interruption of dawn prayer routine
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: low
+  rationale: Dawn prayer suggests time-regulated ritual practice, but the motif is
+    framed as an interruption rather than the ritual itself.
+  cautions: Single occurrence and highly contextual; may be a narrative incident or
+    ethnographic detail rather than a reusable motif. Review Indigenous ritual context
+    carefully.
+  suggested_aliases:
+  - interrupted_dawn_prayer
+  - dawn_prayer_interrupted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intertribal-ritual-transmission-with-local-modification
+  motif_id: intertribal_ritual_transmission_with_local_modification
+  label: intertribal ritual transmission with local modification
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes transmission, adaptation, or comparative ritual history
+    rather than a narrative or symbolic motif.
+  cautions: Do not use as evidence for borrowing or contact in motif normalization.
+    Preserve as provenance or historical-context note if source evidence supports
+    it.
+  suggested_aliases:
+  - ritual_transmission_with_local_adaptation
+  - intertribal_ritual_adaptation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intoxicated-disruption-of-a-sacred-assembly
+  motif_id: intoxicated_disruption_of_a_sacred_assembly
+  label: intoxicated disruption of a sacred assembly
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Disrupting a sacred assembly through intoxication centers on violation
+    of ritual-social order and likely ritual propriety.
+  cautions: Could also involve sacred_substance if the intoxicant is ritually central,
+    or divine_judgment if punishment is emphasized. Single occurrence; preserve assembly-disruption
+    detail.
+  suggested_aliases:
+  - ritual_disorder_through_intoxication
+  - intoxication_violates_sacred_assembly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intoxicating-and-enlivening-ritual-drink-for-prolonged-dancing
+  motif_id: intoxicating_and_enlivening_ritual_drink_for_prolonged_dancing
+  label: Intoxicating and enlivening ritual drink for prolonged dancing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: high
+  rationale: A ritual drink that intoxicates or energizes participants fits sacred
+    food, drink, and consciousness-altering substances in ritual practice.
+  cautions: Review cultural context carefully; if dancing rather than drink is central,
+    a ritual-performance group may someday be warranted.
+  suggested_aliases:
+  - enlivening_ritual_drink
+  - intoxicating_ritual_drink_for_dance
+  - ritual_drink_supporting_prolonged_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.introduction-of-christian-sacred-objects-and-images
+  motif_id: introduction_of_christian_sacred_objects_and_images
+  label: Introduction of Christian sacred objects and images
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: Sacred objects and images may fit power objects, but the label emphasizes
+    historical introduction rather than motif function.
+  cautions: Could be colonial/reception history or passage artifact. Do not infer
+    transmission claims here; review whether the source narrates objects as powerful
+    ritual agents or merely records their arrival.
+  suggested_aliases:
+  - introduced_christian_sacred_objects
+  - introduced_sacred_images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intrusive-disease-object-extracted-through-ritual-command
+  motif_id: intrusive_disease_object_extracted_through_ritual_command
+  label: Intrusive disease object extracted through ritual command
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual extraction of a harmful disease object by command fits protective
+    and apotropaic ritual practice already folded under sacred_law.
+  cautions: Could belong to divine_intervention or a future ritual-healing/shamanic-extraction
+    group if many similar labels recur. Review culturally specific healing terminology
+    carefully.
+  suggested_aliases:
+  - ritual_extraction_of_intrusive_disease_object
+  - disease_object_removed_by_ritual_command
+  - intrusive_object_healing_extraction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invalid-ritual-legal-act-requiring-repetition
+  motif_id: invalid_ritual_legal_act_requiring_repetition
+  label: invalid ritual-legal act requiring repetition
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A ritual-legal act being invalid and needing repetition directly concerns
+    sacred procedural law and ritual correctness.
+  cautions: May be more vinaya/legal commentary than mythic motif; if purely scholastic
+    rule enumeration, consider excluding from pattern queries.
+  suggested_aliases:
+  - ritual_act_invalidated_and_repeated
+  - invalid_sacred_legal_act
+  - ritual_repetition_after_invalid_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inventory-of-sacred-or-monastic-architecture
+  motif_id: inventory_of_sacred_or_monastic_architecture
+  label: Inventory of sacred or monastic architecture
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: An inventory of architecture is likely descriptive cataloging rather
+    than a symbolic or narrative motif.
+  cautions: If a particular building functions as world center, pilgrimage site, or
+    threshold, index that separate evidence under axis_mundi, world_center, or sacred_geography
+    rather than the inventory label.
+  suggested_aliases:
+  - architectural_inventory
+  - monastic_architecture_inventory
+  - catalogue_of_sacred_architecture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inviolable-divine-boundary
+  motif_id: inviolable_divine_boundary
+  label: inviolable divine boundary
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A boundary made inviolable by divine authority fits sacred regulation
+    of limits and social-ritual order.
+  cautions: If the boundary is a guarded passage between realms, threshold_guardian
+    or descent may be relevant; if it marks cosmic center, axis_mundi may be secondary.
+  suggested_aliases:
+  - divinely_protected_boundary
+  - sacred_boundary_not_to_be_crossed
+  - inviolable_sacred_limit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inviolable-sacred-law-as-basis-of-state-salvation
+  motif_id: inviolable_sacred_law_as_basis_of_state_salvation
+  label: Inviolable sacred law as basis of state salvation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: high
+  rationale: The label explicitly centers inviolable sacred law as the ground of political
+    or communal order.
+  cautions: Could also relate to royal_legitimacy or covenant if the passage emphasizes
+    state authority or a binding sacred agreement. The wording may be interpretive
+    rather than narrative.
+  suggested_aliases:
+  - sacred_law_preserves_the_state
+  - state_salvation_through_inviolable_law
+  - inviolable_sacred_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual or ethnographic descriptions;
+  preserve local evidence and avoid promoting granular wording without recurrence.
+- Transmission or introduction wording should not be used as evidence of borrowing/contact
+  in normalization placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual/healing labels require
+    human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0892
+  input_sha256: 7826ee1a53a5c3beaddff604c752f51e0f29dd20cf33465352c388fca734ee9e
+

@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2885
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.armed-assault-on-an-isolated-island-by-borrowed-boat
+  motif_id: armed_assault_on_an_isolated_island_by_borrowed_boat
+  label: armed assault on an isolated island by borrowed boat
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a single tactical episode defined by setting and transport
+    rather than a durable symbolic or narrative motif.
+  cautions: If the island crossing or borrowed vessel has ritual or otherworld function,
+    review could remap to sacred_combat, hero_journey, sacred_waters, or sacred_vessel.
+  suggested_aliases:
+  - island assault by borrowed boat
+  - armed island raid by borrowed vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-mustering-of-allies-before-confrontation
+  motif_id: armed_mustering_of_allies_before_confrontation
+  label: Armed mustering of allies before confrontation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mustering armed allies before confrontation is a preparation phase within
+    warfare or heroic conflict.
+  cautions: Single occurrence and may be ordinary plot logistics unless the mustering
+    is ritually charged, oath-bound, or decisive for social order.
+  suggested_aliases:
+  - war band mustering before confrontation
+  - allies armed before battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-pursuit-of-a-boundary-crosser
+  motif_id: armed_pursuit_of_a_boundary_crosser
+  label: armed pursuit of a boundary-crosser
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is pursuit of a figure defined by crossing a boundary,
+    matching liminal transgression and boundary-crossing patterns.
+  cautions: If the pursuers guard a sacred threshold rather than chase a trickster-like
+    transgressor, threshold_guardian or sacred_combat may be better.
+  suggested_aliases:
+  - pursuit of boundary crosser
+  - armed chase after liminal transgressor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-threshold-between-peace-and-attack
+  motif_id: armed_threshold_between_peace_and_attack
+  label: armed threshold between peace and attack
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase could denote a liminal moment, a guarded boundary, or a conflict
+    escalation scene, but the function is unclear from the label alone.
+  cautions: Review source evidence for whether this is ritualized warfare, threshold
+    guardianship, diplomacy breakdown, or an interpretive scene description.
+  suggested_aliases:
+  - threshold between peace and attack
+  - armed liminal peace-war boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armored-defender-cannot-be-pierced-by-arrows-during-a-siege
+  motif_id: armored_defender_cannot_be_pierced_by_arrows_during_a_siege
+  label: Armored defender cannot be pierced by arrows during a siege
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: narrower_than
+  confidence: high
+  rationale: Weapon resistance in battle closely matches the existing invulnerability
+    and weapon-resistant warrior body complex.
+  cautions: If the armor itself is the focus as a sacred object, secondary review
+    under sacred_treasures may be useful; siege detail may be over-specific.
+  suggested_aliases:
+  - arrow-proof armored defender
+  - weapon-resistant defender during siege
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armorial-signs-as-identity-markers
+  motif_id: armorial_signs_as_identity_markers
+  label: armorial signs as identity markers
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Heraldic or armorial signs function as visible tokens proving identity,
+    affiliation, or status.
+  cautions: If the signs primarily authorize noble lineage or kingship, royal_legitimacy
+    may be a secondary mapping.
+  suggested_aliases:
+  - heraldic signs as identity tokens
+  - armorial identity markers
+  - coat of arms as recognition token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arranged-game-with-roaring
+  motif_id: arranged_game_with_roaring
+  label: Arranged game with roaring
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is opaque and may refer to ritual play, animal imitation, performance,
+    or a passage-specific episode.
+  cautions: Culturally specific San performance or ritual contexts should be reviewed
+    from source evidence before assigning a broad motif group.
+  suggested_aliases:
+  - ritual game with roaring
+  - arranged roaring game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.art-as-dangerous-enchantment-requiring-exclusion-or-defense
+  motif_id: art_as_dangerous_enchantment_requiring_exclusion_or_defense
+  label: Art as dangerous enchantment requiring exclusion or defense
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Art treated as enchantment or psychic compulsion fits the broader group
+    for narrative, speech, and expressive power.
+  cautions: If the passage concerns music specifically, enchanting_music is better;
+    if visual images are animated or manufactured, sacred_craft may be relevant.
+  suggested_aliases:
+  - dangerous artistic enchantment
+  - art as compelling enchantment
+  - defense against enchanting art
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ascent-for-forest-fruit-gathering
+  motif_id: ascent_for_forest_fruit_gathering
+  label: ascent for forest fruit gathering
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to describe ordinary movement for subsistence gathering
+    rather than sacred ascent or transformative journey.
+  cautions: If ascent leads to a sky realm, sacred tree, ordeal, or acquisition of
+    supernatural food, review under ascent, axis_mundi, or sacred_substance.
+  suggested_aliases:
+  - climbing for forest fruit
+  - ascent to gather fruit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ascetic-boundary-marked-by-clothing-criticism
+  motif_id: ascetic_boundary_marked_by_clothing_criticism
+  label: ascetic boundary marked by clothing criticism
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Clothing criticism marking ascetic boundaries fits discipline, social
+    regulation, and visible ritual norms.
+  cautions: May be an over-specific monastic or sectarian boundary marker; if the
+    emphasis is renunciation rather than rule, mystical_quest or sacred_exchange may
+    be secondary.
+  suggested_aliases:
+  - ascetic clothing boundary
+  - clothing criticism as monastic boundary
+  - visible ascetic discipline marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several single-occurrence labels appear episode-specific; source context should
+  decide whether to preserve as evidence notes or exclude from broad pattern queries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch contains mostly low-frequency boundary/conflict labels; human review
+    recommended for culturally contextual or opaque items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2885
+  input_sha256: 8347172a818cc6c08509d9f94ea6fd71994258eff93688fe6ed1a284b0d34c17
+

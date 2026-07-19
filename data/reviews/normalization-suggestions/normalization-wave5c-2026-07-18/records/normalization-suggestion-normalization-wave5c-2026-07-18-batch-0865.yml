@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0865
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hereditary-ritual-office
+  motif_id: hereditary_ritual_office
+  label: hereditary ritual office
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A hereditary ritual role may involve sacred law, sacred exchange, royal
+    legitimacy, or local office structure depending on evidence.
+  cautions: Single occurrence and institution-focused; may be ethnographic/social
+    organization rather than a reusable motif.
+  suggested_aliases:
+  - hereditary_sacred_office
+  - inherited_ritual_office
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hereditary-totem-respect-without-food-taboo
+  motif_id: hereditary_totem_respect_without_food_taboo
+  label: Hereditary totem respect without food taboo
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns totemic respect and taboo absence, but current groups
+    do not clearly distinguish totemic kinship/ritual relation.
+  cautions: Culturally sensitive and highly specific; avoid reducing to generic sacred_law
+    without passage evidence about prohibition or obligation.
+  suggested_aliases:
+  - hereditary_totem_respect
+  - totem_respect_without_food_taboo
+  suggested_new_group:
+    id: totemic_kinship_and_obligation
+    label: Totemic Kinship and Obligation
+    description: Ritual, kinship, descent, or respect relations between human groups
+      and totemic animals, plants, beings, or emblems, including taboos and obligations
+      where source evidence supports them.
+    parent_group_ids:
+    - sacred_law
+    - sacred_exchange
+    related_group_ids:
+    - external_soul
+    - ancestor_rites
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing sacred_law can hold taboos, but
+      does not preserve the specific kinship/descent relation central to totemic motifs.
+- suggestion_id: normalization.suggestion.hereditary-transmission-of-ritual-power
+  motif_id: hereditary_transmission_of_ritual_power
+  label: Hereditary transmission of ritual power
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Transmission of ritual power by inheritance concerns regulated sacred
+    authority and social-religious order.
+  cautions: Could also fit sacred_knowledge if the emphasis is teaching or esoteric
+    transmission, or royal_legitimacy if office/status is central.
+  suggested_aliases:
+  - inherited_ritual_power
+  - hereditary_sacred_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-aided-by-goddess-wounds-a-god
+  motif_id: hero_aided_by_goddess_wounds_a_god
+  label: Hero aided by goddess wounds a god
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A divinely aided hero performing extraordinary combat against a divine
+    opponent fits sacred combat/divine warrior patterns.
+  cautions: Preserve the goddess-aid and god-wounding details as evidence; do not
+    generalize to divine_judgment unless punishment/order repair is explicit.
+  suggested_aliases:
+  - divinely_aided_hero_wounds_a_god
+  - goddess_aids_hero_in_combat_against_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-halted-by-fear-before-divinely-backed-assault
+  motif_id: hero_halted_by_fear_before_divinely_backed_assault
+  label: Hero halted by fear before divinely backed assault
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core scene is a warrior response within a divinely supported assault,
+    fitting divine warrior or sacred combat material.
+  cautions: Fear before assault may be episode-specific psychology; if no sacred combat
+    function recurs, treat as evidence detail.
+  suggested_aliases:
+  - fear_before_divinely_aided_assault
+  - hero_falters_before_divinely_backed_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-killed-by-hidden-ambush-at-sacred-site
+  motif_id: hero_killed_by_hidden_ambush_at_sacred_site
+  label: hero killed by hidden ambush at sacred site
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A hero's death by ambush belongs most closely to combat and heroic death
+    material, with sacred-site detail as setting.
+  cautions: Likely episode-specific; sacred site may matter ritually, but label alone
+    does not prove sacrifice, martyrdom, or divine judgment.
+  suggested_aliases:
+  - ambush_of_hero_at_sacred_site
+  - heroic_death_by_ambush_at_holy_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-bones-become-holy-relics
+  motif_id: hero_s_bones_become_holy_relics
+  label: Hero's bones become holy relics
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing sacred_treasures group includes heroic relics, shrines,
+    tombs, and remains as sacred power objects.
+  cautions: If the passage emphasizes rites around the remains, heroic_funeral_rites
+    or ancestor_rites may be useful secondary mappings.
+  suggested_aliases:
+  - heroic_bones_as_relics
+  - holy_relics_from_hero_bones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-violently-retaliates-against-curse-speaker
+  motif_id: hero_violently_retaliates_against_curse_speaker
+  label: hero violently retaliates against curse-speaker
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The curse-speaker is central, and the action responds to performative
+    sacred or dangerous speech.
+  cautions: If the passage emphasizes feud violence more than the curse act, sacred_combat
+    or divine_judgment may be better secondary placements.
+  suggested_aliases:
+  - retaliation_against_curse_speaker
+  - violent_response_to_curse_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-with-divine-flesh
+  motif_id: hero_with_divine_flesh
+  label: hero with divine flesh
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Divine flesh could mark semi-divine ancestry, invulnerability, sacred
+    body, or a passage-specific epithet.
+  cautions: Too terse to place safely; do not infer sacred birth, divine warrior,
+    or invulnerability without source evidence.
+  suggested_aliases:
+  - divine_bodied_hero
+  - hero_of_divine_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - divine_warrior
+    - conditional_invulnerability_hidden_weakness
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-with-named-inherited-treasures
+  motif_id: hero_with_named_inherited_treasures
+  label: hero with named inherited treasures
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: Named inherited treasures are power objects conferring status, protection,
+    lineage, or heroic authority.
+  cautions: If inheritance and lineage legitimacy are foregrounded, royal_legitimacy
+    may be an important secondary mapping.
+  suggested_aliases:
+  - inherited_heroic_treasures
+  - named_ancestral_treasures_of_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and institution- or episode-specific; preserve
+  source detail and avoid promotion without recurrence.
+- Totemic and Indigenous ritual-office labels need careful human review to avoid flattening
+  culturally specific social relations into generic sacred law.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; human review especially recommended for hereditary/totemic
+    ritual authority labels and terse bodily-divinity labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0865
+  input_sha256: f986ea1bd5aed9cce29d3d226697a5b42db97addb6b22e2bc3f9388100d8449a
+

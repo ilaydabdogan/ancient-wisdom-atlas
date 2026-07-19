@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3330
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.defeated-adversary-has-a-farther-north-brother
+  motif_id: defeated_adversary_has_a_farther_north_brother
+  label: defeated adversary has a farther-north brother
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads like an episode-specific kinship/geographic detail after
+    an adversary's defeat, not a reusable motif pattern.
+  cautions: If the passage shows a recurring escalation structure where defeated opponents
+    summon stronger directional kin, human review could remap under sacred_combat
+    or trickster.
+  suggested_aliases:
+  - defeated_enemy_has_more_distant_brother
+  - successive_adversary_brothers_from_the_north
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-adversary-transformed-into-visible-rock
+  motif_id: defeated_adversary_transformed_into_visible_rock
+  label: defeated adversary transformed into visible rock
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A defeated being becoming a visible rock is a post-conflict metamorphosis
+    into a new material form.
+  cautions: If the visible rock primarily explains a landmark, cosmic_origin or etiological
+    landscape naming may be a secondary fit; preserve local place evidence.
+  suggested_aliases:
+  - defeated_enemy_transformed_into_stone
+  - adversary_petrified_as_visible_rock
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-foe-offers-submission
+  motif_id: defeated_foe_offers_submission
+  label: defeated foe offers submission
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A defeated foe's submission often functions to confirm sovereignty, conquest,
+    or legitimate rule.
+  cautions: If the emphasis is mercy, supplication, or refusal after surrender, covenant
+    or divine_judgment may fit better; source context is needed.
+  suggested_aliases:
+  - defeated_enemy_submits
+  - submission_of_defeated_foe
+  - conquered_foe_offers_submission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-foe-petrified-and-made-into-a-monument
+  motif_id: defeated_foe_petrified_and_made_into_a_monument
+  label: defeated foe petrified and made into a monument
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Petrification after defeat is a bodily transformation into a lasting
+    stone form or memorial object.
+  cautions: If the monument functions chiefly as a landscape etiology or victory trophy,
+    cosmic_origin or sacred_combat may be useful secondary mappings.
+  suggested_aliases:
+  - defeated_enemy_petrified_as_monument
+  - foe_turned_to_stone_monument
+  - petrified_defeated_foe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-giant-compelled-to-serve-as-carrier
+  motif_id: defeated_giant_compelled_to_serve_as_carrier
+  label: Defeated giant compelled to serve as carrier
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif follows victory over a powerful opponent, with defeat producing
+    coerced service rather than death.
+  cautions: This may be a folktale labor-subjugation detail rather than sacred combat;
+    if the giant's service is magical or threshold-related, trickster or divine_warrior
+    may be alternatives.
+  suggested_aliases:
+  - defeated_giant_forced_to_carry_victor
+  - defeated_enemy_compelled_to_service
+  - subjugated_giant_as_carrier
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-group-slain-after-conceding-defeat
+  motif_id: defeated_group_slain_after_conceding_defeat
+  label: Defeated group slain after conceding defeat
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Slaying a group after concession centers on the moral consequence or
+    violation following surrender.
+  cautions: Could be a historical-war episode or violence detail rather than a sacred
+    motif; if no moral or sacred reckoning is present, exclude or map under sacred_combat
+    only as evidence.
+  suggested_aliases:
+  - surrendering_group_slain
+  - defeated_group_killed_after_surrender
+  - conceding_enemies_slain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-opponent-becomes-friend-or-protected-figure
+  motif_id: defeated_opponent_becomes_friend_or_protected_figure
+  label: Defeated opponent becomes friend or protected figure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: An enemy becoming friend or protected dependent after defeat creates
+    a new binding social relationship.
+  cautions: If the passage emphasizes mercy to a defeated enemy, it is already close
+    to covenant children; if it emphasizes heroic reconciliation only, sacred_combat
+    may be secondary.
+  suggested_aliases:
+  - defeated_enemy_becomes_ally
+  - defeated_opponent_spared_and_protected
+  - enemy_transformed_into_friend_after_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-opponent-turns-to-mockery
+  motif_id: defeated_opponent_turns_to_mockery
+  label: defeated opponent turns to mockery
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Mockery after defeat is a narrow scene detail and lacks a clear recurring
+    sacred or narrative function from the label alone.
+  cautions: If mockery provokes vengeance, renewed combat, or downfall, remap to sacred_combat
+    or pride_and_downfall after source review.
+  suggested_aliases:
+  - defeated_enemy_resorts_to_mockery
+  - mockery_after_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-people-abandon-homeland-to-conquerors
+  motif_id: defeated_people_abandon_homeland_to_conquerors
+  label: defeated people abandon homeland to conquerors
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: A defeated people leaving their homeland fits exile or forced departure
+    after conflict.
+  cautions: This may be historical migration memory or local etiology rather than
+    a hero-journey motif; review for sacred, etiological, or social-order framing
+    before indexing broadly.
+  suggested_aliases:
+  - defeated_people_leave_homeland
+  - conquered_people_abandon_land
+  - forced_departure_after_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defeated-refugees-adopted-by-protectors
+  motif_id: defeated_refugees_adopted_by_protectors
+  label: Defeated refugees adopted by protectors
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Adoption of defeated refugees by protectors centers on protective hospitality
+    and reciprocal social incorporation.
+  cautions: Could belong under covenant if adoption creates a binding alliance, or
+    under historical migration/social-order notes if not a symbolic motif.
+  suggested_aliases:
+  - refugees_adopted_by_protectors_after_defeat
+  - defeated_people_received_by_protectors
+  - protected_adoption_of_defeated_refugees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence defeat aftermath details. Placements are provisional
+  and should be checked against passage evidence for whether they are symbolic motifs,
+  historical/social memories, or episode-specific details.
+- Do not treat defeat, submission, exile, or adoption labels as evidence of transmission;
+  these are only broad normalization suggestions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3330
+  input_sha256: fd2b48ba2a27f37f41f2fea4596978b0d653d2d5772d1dd84c60e8e3b25ec0c0
+

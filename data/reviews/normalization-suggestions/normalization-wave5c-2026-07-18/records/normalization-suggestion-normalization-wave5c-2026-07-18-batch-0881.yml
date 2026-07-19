@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0881
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hunting-taboo-involving-the-moon
+  motif_id: hunting_taboo_involving_the_moon
+  label: Hunting taboo involving the Moon
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A hunting taboo is a ritual prohibition, but the lunar element may imply
+    sacred time, celestial agency, or local cosmology.
+  cautions: Single occurrence and culturally specific San evidence; review source
+    context before reducing to generic sacred law.
+  suggested_aliases:
+  - lunar_hunting_taboo
+  - moon_related_hunting_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunting-taboo-that-confines-animals-within-marked-ground
+  motif_id: hunting_taboo_that_confines_animals_within_marked_ground
+  label: hunting taboo that confines animals within marked ground
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a taboo regulating hunting and marked space, broadly
+    fitting ritual prohibition under sacred law.
+  cautions: May be an over-specific ethnographic detail or a boundary-magic practice;
+    source evidence needed before pattern-query use.
+  suggested_aliases:
+  - marked_ground_hunting_taboo
+  - hunting_prohibition_with_marked_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.huntress-goddess-with-bow-and-hound
+  motif_id: huntress_goddess_with_bow_and_hound
+  label: huntress goddess with bow and hound
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a divine role/iconographic attribute rather than a narrative
+    motif, and no existing group cleanly covers hunting deities.
+  cautions: Could fit divine_warrior, mother_goddess, animal helpers, or be excluded
+    as deity iconography depending on passage evidence.
+  suggested_aliases:
+  - hunting_goddess_with_hound
+  - bow_bearing_huntress_goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hybrid-headed-divine-inhabitant
+  motif_id: hybrid_headed_divine_inhabitant
+  label: hybrid-headed divine inhabitant
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: Hybrid divine form relates broadly to transformation or animal-human
+    boundary imagery, but the label may simply describe iconography.
+  cautions: Do not map to shapeshifter unless transformation or boundary-crossing
+    function is present; Egyptian divine iconography may be person/place-only description.
+  suggested_aliases:
+  - animal_headed_divine_being
+  - hybrid_divine_form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hymn-to-all-god
+  motif_id: hymn_to_all_god
+  label: hymn to all-God
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Praise of an all-God emphasizes universal divine totality and cosmic
+    sovereignty.
+  cautions: If the passage focuses on hymn performance rather than theology of a supreme
+    total deity, sacred_song or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - hymn_to_the_all_god
+  - praise_of_universal_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hymnic-praise-of-a-god-at-delos
+  motif_id: hymnic_praise_of_a_god_at_delos
+  label: hymnic praise of a god at Delos
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to identify a specific hymn setting and deity praise
+    rather than a reusable motif.
+  cautions: If source evidence shows a recurring sacred-song function or Delos as
+    a world center, preserve those separately under sacred_song or axis_mundi.
+  suggested_aliases:
+  - delian_hymnic_praise
+  - hymn_praise_at_delos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hymnic-praise-through-accumulated-divine-names
+  motif_id: hymnic_praise_through_accumulated_divine_names
+  label: Hymnic praise through accumulated divine names
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Accumulating divine names in praise uses sacred naming as a knowledge-bearing
+    ritual speech form.
+  cautions: Could also fit curse_blessing_speech or sacred_song if the performative
+    hymn, not knowledge of names, is primary.
+  suggested_aliases:
+  - praise_by_divine_names
+  - hymnic_accumulation_of_divine_names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.iconoclastic-demolition-of-sacred-sites
+  motif_id: iconoclastic_demolition_of_sacred_sites
+  label: Iconoclastic demolition of sacred sites
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Destruction of sacred sites may be framed as judgment, reform, conflict,
+    or historical commentary depending on context.
+  cautions: Potentially culturally sensitive and may be a historical/passage artifact;
+    do not index as motif without narrative or ritual pattern evidence.
+  suggested_aliases:
+  - iconoclastic_destruction_of_shrines
+  - demolition_of_sacred_sites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idol-impotence-contrasted-with-divine-capability
+  motif_id: idol_impotence_contrasted_with_divine_capability
+  label: Idol impotence contrasted with divine capability
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The contrast supports exclusive devotion and rejection of idols, already
+    treated near covenantal sacred bond language.
+  cautions: May also be divine_judgment or sacred_law if the passage emphasizes punishment
+    or prohibition rather than exclusive devotion.
+  suggested_aliases:
+  - powerless_idols_contrasted_with_god
+  - idol_impotence_and_divine_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.idol-substitution-of-divine-glory
+  motif_id: idol_substitution_of_divine_glory
+  label: Idol substitution of divine glory
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Replacing divine glory with an idol is a breach of exclusive sacred bond
+    and covenantal devotion.
+  cautions: If framed mainly as prohibited images or ritual law, sacred_law may be
+    secondary; if punishment follows, divine_judgment also applies.
+  suggested_aliases:
+  - exchange_of_divine_glory_for_idol
+  - idol_replaces_divine_glory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual or iconographic descriptions;
+  source context is important before promoting them for broad pattern queries.
+- 'Hymnic labels should be separated by function: sacred song performance, sacred
+  names as knowledge, or supreme-deity theology.'
+- Idol-related labels can overlap covenant, sacred_law, and divine_judgment; map according
+  to narrative function rather than object imagery alone.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    hunting taboos, iconoclasm, and deity iconography.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0881
+  input_sha256: b46a6796cb3bfa55450345c8b427ded6ec95f4e051c71fed0baee8585a3699f2
+

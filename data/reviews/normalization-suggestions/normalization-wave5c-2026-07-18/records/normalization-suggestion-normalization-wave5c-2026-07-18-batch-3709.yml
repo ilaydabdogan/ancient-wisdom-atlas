@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3709
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mythic-healing-formula-applied-to-a-human-patient
+  motif_id: mythic_healing_formula_applied_to_a_human_patient
+  label: mythic healing formula applied to a human patient
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual healing speech, sacred knowledge, divine
+    intervention, or a passage-specific medical formula.
+  cautions: Needs source evidence to distinguish mythic spell/recitation from commentary
+    on medical practice; avoid creating a healing group from one occurrence.
+  suggested_aliases:
+  - healing_formula_applied_to_patient
+  - mythic_healing_spell_for_human_patient
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-leap-leaves-visible-footprints-in-stone
+  motif_id: mythic_leap_leaves_visible_footprints_in_stone
+  label: mythic leap leaves visible footprints in stone
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A mythic action leaving permanent marks in stone functions as etiological
+    landscape formation or explanation of a visible feature.
+  cautions: If the footprint is chiefly a relic, pilgrimage sign, or proof of a hero
+    rather than landscape etiology, sacred_treasures or heroic evidence notes may
+    be better.
+  suggested_aliases:
+  - visible_footprints_in_stone_from_mythic_action
+  - stone_footprints_as_landscape_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-musician-compared-with-orpheus
+  motif_id: mythic_musician_compared_with_orpheus
+  label: Mythic musician compared with Orpheus
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase describes a comparative scholarly or literary analogy rather
+    than a narrative motif in the source passage.
+  cautions: If the passage itself features supernatural music, index that evidence
+    under enchanting_music instead of the Orpheus comparison.
+  suggested_aliases:
+  - musician_compared_with_orpheus
+  - orpheus_comparison_for_mythic_musician
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-or-monstrous-pike
+  motif_id: mythic_or_monstrous_pike
+  label: mythic or monstrous pike
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A monstrous fish could function as chaos beast, animal helper/adversary,
+    threshold danger, or simply a creature label.
+  cautions: Existing taxonomy lacks a broad monster/animal-beast group; source function
+    is needed before mapping to chaos, threshold_guardian, or sacred_waters.
+  suggested_aliases:
+  - monstrous_pike
+  - mythic_pike
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-origin-narration-within-ceremony
+  motif_id: mythic_origin_narration_within_ceremony
+  label: Mythic origin narration within ceremony
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The focus is narration of myth within a ritual setting, where storytelling
+    carries ceremonial force and transmits origin knowledge.
+  cautions: Culturally sensitive ceremonial context needs human review; if the content
+    is creation itself, cosmic_origin may be a secondary mapping.
+  suggested_aliases:
+  - ceremonial_origin_narration
+  - origin_myth_recited_in_ceremony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-origin-of-medicine
+  motif_id: mythic_origin_of_medicine
+  label: Mythic origin of medicine
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: medium
+  rationale: An account of how medicine originates fits the founding or bestowal of
+    human arts and healing knowledge.
+  cautions: If the passage emphasizes sacred instruction rather than cultural founding,
+    sacred_knowledge may be the better primary group.
+  suggested_aliases:
+  - origin_of_medicine
+  - medicine_brought_to_humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-reconstruction-of-human-form-by-zeus
+  motif_id: mythic_reconstruction_of_human_form_by_zeus
+  label: Mythic reconstruction of human form by Zeus
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reconstruction of a human body by a deity suggests restoration or transformation
+    of bodily form after destruction or loss.
+  cautions: If this is creation of humans rather than restoration, cosmic_origin may
+    fit better; Zeus-specific wording should remain evidence detail.
+  suggested_aliases:
+  - divine_reconstruction_of_human_form
+  - reconstitution_of_human_body_by_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-significance-through-etymological-derivation
+  motif_id: mythic_significance_through_etymological_derivation
+  label: mythic significance through etymological derivation
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes an interpretive etymological explanation rather than
+    a recurring narrative or symbolic motif.
+  cautions: If the source gives a mythic place-name or ancestor-name etiology, index
+    that specific etiology under cosmic_origin instead.
+  suggested_aliases:
+  - etymological_derivation_as_mythic_significance
+  - mythic_etymology_interpretation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-sorrow-embodied-as-a-landscape-feature
+  motif_id: mythic_sorrow_embodied_as_a_landscape_feature
+  label: mythic sorrow embodied as a landscape feature
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Sorrow becoming a landscape feature is an etiological landscape-formation
+    motif tied to a mythic event or emotion.
+  cautions: If the emphasis is grief rather than the origin of a feature, lament_and_mourning
+    may be a secondary or better mapping.
+  suggested_aliases:
+  - sorrow_as_landscape_etiology
+  - grief_embodied_in_landscape_feature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythic-tale-regulation-for-moral-education
+  motif_id: mythic_tale_regulation_for_moral_education
+  label: mythic tale regulation for moral education
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to concern controlling mythic stories for pedagogy,
+    which may be moral instruction or textual/social commentary.
+  cautions: Could be a philosophical commentary artifact rather than a motif; if narratively
+    active, sacred_law, sacred_knowledge, or storytelling_as_power may apply.
+  suggested_aliases:
+  - regulation_of_mythic_tales_for_moral_education
+  - moral_education_through_controlled_mythic_narrative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several one-off labels in this batch appear to be interpretive or scholarly artifacts
+  rather than motifs; human review should verify against source passages.
+- For healing and medicine labels, the current group set lacks a dedicated healing/medicine
+  motif; avoid adding one without broader recurrence evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3709
+  input_sha256: e9c904f8d97bf2845f9d710dbc4666c710b90c2f7e3e43c4fc6a43a2611e14b5
+

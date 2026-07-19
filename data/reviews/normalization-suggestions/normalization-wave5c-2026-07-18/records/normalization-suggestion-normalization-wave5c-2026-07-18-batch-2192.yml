@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2192
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.human-woman-bears-animal-offspring
+  motif_id: human_woman_bears_animal_offspring
+  label: Human woman bears animal offspring
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve shapeshifting, animal ancestry, miraculous birth, or culturally
+    specific kinship/toemic origin; label alone is insufficient.
+  cautions: Single occurrence and culturally sensitive animal-human birth motif; source
+    context is needed before mapping to shapeshifter or miraculous_child.
+  suggested_aliases:
+  - animal_offspring_born_to_human_woman
+  - human_animal_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humanlike-animal-people-who-eat-humans
+  motif_id: humanlike_animal_people_who_eat_humans
+  label: Humanlike animal people who eat humans
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Humanlike animal cannibal beings could be monsters, otherworld peoples,
+    predators, or transformed humans depending on passage evidence.
+  cautions: Avoid collapsing culturally specific nonhuman peoples into trickster or
+    shapeshifter without source support; single occurrence may be an episode detail.
+  suggested_aliases:
+  - cannibal_animal_people
+  - human_eating_animal_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humans-carry-the-pack-animal
+  motif_id: humans_carry_the_pack_animal
+  label: Humans carry the pack animal
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly specific comic or fable scene rather than
+    a durable symbolic motif.
+  cautions: If source shows a recurring reversal of human/animal roles or trickster
+    lesson, reconsider under trickster; otherwise preserve as passage evidence only.
+  suggested_aliases:
+  - reversal_of_pack_animal_role
+  - people_carry_pack_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humans-surpassing-nature-through-animal-like-powers
+  motif_id: humans_surpassing_nature_through_animal_like_powers
+  label: Humans surpassing nature through animal-like powers
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: low
+  rationale: Animal-like powers in humans suggests crossing human/animal boundaries
+    through bodily or capability transformation.
+  cautions: The wording is abstract; if it is commentary on human skill rather than
+    transformation or supernatural ability, exclude or review.
+  suggested_aliases:
+  - human_animal_like_powers
+  - animal_powers_in_humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humble-disguise-alternating-with-heroic-appearance
+  motif_id: humble_disguise_alternating_with_heroic_appearance
+  label: Humble disguise alternating with heroic appearance
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Alternation between humble disguise and heroic form fits transformation
+    or unstable visible identity.
+  cautions: Could also belong to recognition_tokens_hidden_identity or hero_journey
+    if the disguise tests recognition rather than changes form.
+  suggested_aliases:
+  - hero_alternates_between_disguise_and_true_form
+  - humble_disguise_and_heroic_revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hummingbird-appointed-as-messenger-at-creation
+  motif_id: hummingbird_appointed_as_messenger_at_creation
+  label: hummingbird appointed as messenger at creation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: role_variant
+  confidence: medium
+  rationale: The key function is appointment of a messenger within a creation setting,
+    so it belongs with creation-ordering motifs.
+  cautions: If the passage emphasizes the animal messenger role more than cosmogony,
+    divine_intervention or culture_hero may be useful secondary review targets.
+  suggested_aliases:
+  - animal_messenger_at_creation
+  - hummingbird_creation_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humorous-analogy-to-nature-and-animals
+  motif_id: humorous_analogy_to_nature_and_animals
+  label: humorous analogy to nature and animals
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to describe a rhetorical or interpretive analogy rather
+    than a narrative motif.
+  cautions: If the analogy is an actual mythic explanation or animal fable, review
+    source evidence before exclusion.
+  suggested_aliases:
+  - comic_nature_animal_analogy
+  - humorous_animal_comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hungry-animal-trapped-by-the-equipment-it-tries-to-consume
+  motif_id: hungry_animal_trapped_by_the_equipment_it_tries_to_consume
+  label: Hungry animal trapped by the equipment it tries to consume
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal harmed by its own appetite fits fable-like predator folly and
+    trickster reversal patterns already grouped under trickster.
+  cautions: May be an over-specific fable episode; keep granular label as evidence
+    and avoid promoting unless recurring.
+  suggested_aliases:
+  - greedy_animal_trapped_by_attempted_consumption
+  - animal_appetite_causes_entrapment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hungry-fox-encounters-bird-in-tree
+  motif_id: hungry_fox_encounters_bird_in_tree
+  label: hungry fox encounters bird in tree
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a scene setup for an animal fable, not a sufficiently defined
+    motif by itself.
+  cautions: If the passage includes deception, failed predation, or role reversal,
+    map the fuller action under trickster instead.
+  suggested_aliases:
+  - fox_and_bird_fable_encounter
+  - hungry_predator_encounters_bird
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunt-for-enormous-marsh-animals
+  motif_id: hunt_for_enormous_marsh_animals
+  label: hunt for enormous marsh animals
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A hunt for giant animals could be heroic ordeal, monster encounter, subsistence
+    episode, or local etiological narrative.
+  cautions: Single occurrence and ecology-specific wording; source context needed
+    before mapping to divine_warrior, sacred_combat, threshold_guardian, or excluding
+    as episode detail.
+  suggested_aliases:
+  - giant_marsh_animal_hunt
+  - hunt_for_enormous_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several animal labels are single-occurrence fable or episode setups; preserve passage
+  details but avoid promoting them as canonical motifs without recurrence.
+- Where animal-human boundary crossing appears, distinguish actual transformation
+  from animal ancestry, animal-person ontology, disguise, or rhetorical comparison.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific animal-person and animal-birth
+    motifs require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2192
+  input_sha256: 2b4b60dc19dcb9d82d85e8924ebeba0d903477188044e171213743f37c5a0a8c
+

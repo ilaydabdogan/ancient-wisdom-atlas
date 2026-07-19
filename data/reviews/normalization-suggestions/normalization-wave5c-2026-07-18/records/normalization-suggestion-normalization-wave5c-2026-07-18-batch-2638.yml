@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2638
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.combat-challenge-as-legal-pressure
+  motif_id: combat_challenge_as_legal_pressure
+  label: combat challenge as legal pressure
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A combat challenge used to press a legal claim fits ritualized warfare
+    or duel as social-order mechanism.
+  cautions: Single occurrence; could also relate to sacred_law or covenant if the
+    legal process is more important than combat.
+  suggested_aliases:
+  - duel_challenge_as_legal_pressure
+  - combat_challenge_as_dispute_resolution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-challenge-gesture
+  motif_id: combat_challenge_gesture
+  label: combat challenge gesture
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A formalized gesture initiating combat belongs under ritualized combat
+    challenge patterns.
+  cautions: Likely a granular evidence detail unless the gesture recurs across sources;
+    preserve local form in notes.
+  suggested_aliases:
+  - formal_combat_challenge_gesture
+  - gesture_of_duel_challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-challenge-to-settle-a-property-claim
+  motif_id: combat_challenge_to_settle_a_property_claim
+  label: combat challenge to settle a property claim
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A duel or combat challenge used to decide ownership fits combat as formal
+    dispute resolution.
+  cautions: May need secondary review under sacred_law or covenant if property adjudication
+    is primary in the passage.
+  suggested_aliases:
+  - duel_to_settle_property_claim
+  - combat_as_property_dispute_resolution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-deed-marked-by-wearable-badge
+  motif_id: combat_deed_marked_by_wearable_badge
+  label: Combat deed marked by wearable badge
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: A wearable badge marking a combat deed fits warrior honor, martial proof,
+    and public recognition of service.
+  cautions: Culturally specific insignia may be ceremonial, social, or ethnographic
+    rather than mythic; review source evidence carefully.
+  suggested_aliases:
+  - wearable_badge_marks_combat_deed
+  - martial_badge_as_proof_of_deed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-deferred-by-nightfall
+  motif_id: combat_deferred_by_nightfall
+  label: combat deferred by nightfall
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label concerns timing and rules around battle, which can fit formalized
+    combat practice.
+  cautions: May be a passage-specific tactical detail rather than a durable motif;
+    exclude if no ritual or narrative function is evident.
+  suggested_aliases:
+  - battle_delayed_by_nightfall
+  - nightfall_defers_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-exhortation-involving-friends
+  motif_id: combat_exhortation_involving_friends
+  label: combat exhortation involving friends
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: Exhortation by or about friends before combat fits warrior honor and
+    martial encouragement patterns.
+  cautions: Very broad and contextual; may belong under storytelling_as_power or sacred_combat
+    if the speech act or duel structure is primary.
+  suggested_aliases:
+  - friends_exhort_warrior_to_combat
+  - combat_exhortation_by_companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-followed-by-recognition-and-healing-hospitality
+  motif_id: combat_followed_by_recognition_and_healing_hospitality
+  label: combat followed by recognition and healing hospitality
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The composite label combines combat, recognition, healing, and hospitality,
+    each with different possible parent groups.
+  cautions: Do not collapse the whole sequence into combat without passage evidence;
+    possible mappings include sacred_combat, recognition_tokens_hidden_identity, hospitality_test_stranger_guest,
+    or divine_intervention.
+  suggested_aliases:
+  - combat_recognition_and_healing_hospitality
+  - opponents_recognized_after_combat_and_hosted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-helper-covers-the-hero-s-escape
+  motif_id: combat_helper_covers_the_hero_s_escape
+  label: Combat helper covers the hero’s escape
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: A helper protecting the hero during flight fits martial aid and heroic
+    combat support.
+  cautions: If the helper is supernatural, divine_intervention may be better; if ordinary
+    tactical escape, it may be too specific for pattern queries.
+  suggested_aliases:
+  - helper_covers_heroic_escape_in_combat
+  - ally_covers_the_hero_s_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-invites-opportunistic-scavengers
+  motif_id: combat_invites_opportunistic_scavengers
+  label: combat invites opportunistic scavengers
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe battlefield death imagery, animal omen/scavenger
+    symbolism, or a passage-specific observation.
+  cautions: Source context is needed before mapping to sacred_combat, death_by_fate,
+    lament_and_mourning, or an animal-related motif; may be too incidental.
+  suggested_aliases:
+  - scavengers_gather_after_combat
+  - battlefield_scavengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-invocation-of-an-expert-archer-and-skier
+  motif_id: combat_invocation_of_an_expert_archer_and_skier
+  label: combat invocation of an expert archer and skier
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: Invoking a specialized martial figure for combat aid fits divine or heroic
+    warrior assistance.
+  cautions: The archer-and-skier detail is culturally specific and may be a named
+    deity/person detail; exclude if it is only a reference to a particular figure
+    rather than a recurring motif.
+  suggested_aliases:
+  - invocation_of_expert_archer_for_combat
+  - combat_invocation_of_martial_specialist
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence combat micro-labels; preserve granular
+  details as evidence unless recurrence supports aliasing.
+- Several labels mix legal, social, or hospitality functions with combat; human review
+  should determine whether combat is the primary narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no transmission claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2638
+  input_sha256: f436ea89578640c976883a0a23b7625b15a41230c45c54b598f55b31d84c9577
+

@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3492
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.friendly-farewell-with-gifts
+  motif_id: friendly_farewell_with_gifts
+  label: Friendly farewell with gifts
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Gift-giving at departure fits reciprocal social exchange and obligation
+    more than a journey motif by itself.
+  cautions: Single occurrence; if gifts are chiefly identity tokens, power objects,
+    or royal tribute, another group may be better.
+  suggested_aliases:
+  - farewell_gifts
+  - parting_gifts
+  - gift_exchange_at_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.friendly-reception-of-outside-visitors
+  motif_id: friendly_reception_of_outside_visitors
+  label: Friendly reception of outside visitors
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: medium
+  rationale: Reception of outsiders is a hospitality/guest-host motif, even if the
+    testing function is not explicit in the label.
+  cautions: If no sacred test, stranger vulnerability, or obligation is present, this
+    may be only a narrative courtesy detail.
+  suggested_aliases:
+  - friendly_reception_of_visitors
+  - hospitality_to_outside_visitors
+  - welcoming_outsiders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.friendly-reception-of-uncanny-outsiders
+  motif_id: friendly_reception_of_uncanny_outsiders
+  label: friendly reception of uncanny outsiders
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Welcoming uncanny outsiders closely matches hospitality to potentially
+    sacred or dangerous strangers.
+  cautions: Could also relate to otherworld or divine_intervention if the outsiders
+    are explicitly supernatural agents; review source context.
+  suggested_aliases:
+  - hospitality_to_uncanny_outsiders
+  - friendly_reception_of_supernatural_strangers
+  - welcoming_uncanny_visitors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.frightening-tale-of-cannibal-outsiders
+  motif_id: frightening_tale_of_cannibal_outsiders
+  label: frightening tale of cannibal outsiders
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a fear narrative about outsiders rather than a
+    stable mythic motif.
+  cautions: Culturally sensitive and potentially source-context dependent; avoid normalizing
+    outsider/cannibal labeling without evidence. Could be storytelling_as_power, threshold_guardian,
+    or conflict depending on passage.
+  suggested_aliases:
+  - cannibal_outsider_tale
+  - frightening_tale_of_dangerous_outsiders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.frontier-conflict-over-taxed-trade-goods
+  motif_id: frontier_conflict_over_taxed_trade_goods
+  label: Frontier conflict over taxed trade goods
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a historical-political episode detail about taxation and
+    trade rather than a reusable symbolic motif.
+  cautions: If the passage frames taxation as sacred kingship, unjust rule, or moral
+    judgment, preserve evidence under royal_legitimacy or divine_judgment after review.
+  suggested_aliases:
+  - taxed_trade_goods_conflict
+  - frontier_trade_tax_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.frontier-diplomatic-mission-and-forced-withdrawal
+  motif_id: frontier_diplomatic_mission_and_forced_withdrawal
+  label: Frontier diplomatic mission and forced withdrawal
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label is a specific diplomatic or historical action sequence, not
+    clearly a mythic pattern.
+  cautions: If the mission involves sacred envoys, violated hospitality, or divine
+    command, source review may support covenant, hospitality_test_stranger_guest,
+    or divine_intervention.
+  suggested_aliases:
+  - diplomatic_mission_forced_withdrawal
+  - frontier_envoy_withdrawal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.frontier-polity-maintaining-independence-from-empire
+  motif_id: frontier_polity_maintaining_independence_from_empire
+  label: Frontier polity maintaining independence from empire
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to be a historical-political summary rather than a narrative
+    or symbolic motif.
+  cautions: If the text mythologizes sovereignty through divine sanction or sacred
+    kingship, review under royal_legitimacy; otherwise exclude from pattern queries.
+  suggested_aliases:
+  - frontier_independence_from_empire
+  - border_polity_resists_empire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fruit-juice-buried-to-produce-intoxicating-drink
+  motif_id: fruit_juice_buried_to_produce_intoxicating_drink
+  label: Fruit juice buried to produce intoxicating drink
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on production of an intoxicating drink, fitting sacred
+    or ritually significant substances.
+  cautions: If merely a practical fermentation detail with no ritual, mythic, or symbolic
+    role, exclude or retain as evidence note only.
+  suggested_aliases:
+  - buried_fruit_juice_intoxicant
+  - fermented_fruit_drink
+  - intoxicating_drink_from_buried_fruit_juice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fruitfulness-object-possessed-by-a-deity
+  motif_id: fruitfulness_object_possessed_by_a_deity
+  label: Fruitfulness object possessed by a deity
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A deity-held object conferring fruitfulness fits the power-object group.
+  cautions: May also relate to sacred_substance, mother_goddess, or seasonal_cycle
+    if the object is food, fertility emblem, or agricultural renewal token.
+  suggested_aliases:
+  - fertility_power_object
+  - divine_fruitfulness_object
+  - deity_possesses_fertility_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fruitless-pursuit-of-mammon-rather-than-the-master
+  motif_id: fruitless_pursuit_of_mammon_rather_than_the_master
+  label: Fruitless pursuit of Mammon rather than the Master
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label contrasts greed or worldly attachment with devotion, matching
+    moral reckoning and greed-temperance reversals.
+  cautions: Could also fit mystical_quest or sacred_law if the passage emphasizes
+    discipline, renunciation, or ethical teaching rather than judgment.
+  suggested_aliases:
+  - pursuit_of_mammon_over_the_master
+  - worldly_greed_over_devotion
+  - fruitless_pursuit_of_wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several frontier labels appear to be historical or passage-specific political summaries
+  and should not be promoted without evidence of mythic framing.
+- Hospitality-related labels should be reviewed for whether a sacred test or supernatural
+  stranger is actually present.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence labels need source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3492
+  input_sha256: 22ab3f5a339ccddaf386f7ab71918a43a93b2dd08de6eb7126508b7291ea1113
+

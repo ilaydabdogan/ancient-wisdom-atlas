@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0707
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.combination-of-chiefly-authority-and-ritual-expertise-in-one-person
+  motif_id: combination_of_chiefly_authority_and_ritual_expertise_in_one_person
+  label: combination of chiefly authority and ritual expertise in one person
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: The label describes political authority joined to ritual expertise, fitting
+    sacred kingship or ritually sanctioned leadership.
+  cautions: Single occurrence; if the person is a ritual specialist without succession
+    or rule, sacred_law or divine_intervention may be less misleading.
+  suggested_aliases:
+  - ritual_chief
+  - chiefly_ritual_expert
+  - sacred_political_and_ritual_authority_combined
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.comic-burlesque-embedded-in-ritual-performance
+  motif_id: comic_burlesque_embedded_in_ritual_performance
+  label: comic burlesque embedded in ritual performance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Ritual clowning or burlesque may be a meaningful ritual inversion motif,
+    but the label alone lacks function and cultural context.
+  cautions: Culturally sensitive; avoid flattening Indigenous ritual comedy into generic
+    trickster or performance without source evidence.
+  suggested_aliases:
+  - ritual_burlesque
+  - sacred_clowning_in_ritual
+  - comic_inversion_in_ritual_performance
+  suggested_new_group:
+    id: ritual_inversion_and_sacred_clowning
+    label: Ritual Inversion and Sacred Clowning
+    description: Comic, burlesque, obscene, or inverted behavior within ritual performance
+      that marks liminality, releases tension, teaches, protects, or renews communal
+      order.
+    parent_group_ids:
+    - sacred_law
+    - trickster
+    related_group_ids:
+    - storytelling_as_power
+    - sacred_time
+    reason_existing_groups_insufficient: Existing trickster and sacred_law groups
+      can hold boundary-breaking or ritual order, but neither clearly covers authorized
+      comic inversion within ritual performance.
+- suggestion_id: normalization.suggestion.comic-mispronunciation-in-sacred-or-public-speech
+  motif_id: comic_mispronunciation_in_sacred_or_public_speech
+  label: comic mispronunciation in sacred or public speech
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a performance or anecdotal speech detail rather than
+    a durable symbolic motif.
+  cautions: If the mispronunciation has performative sacred consequences, reconsider
+    under curse_blessing_speech or storytelling_as_power.
+  suggested_aliases:
+  - comic_error_in_public_speech
+  - mispronounced_sacred_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commerce-and-intoxication-around-ritual-festival
+  motif_id: commerce_and_intoxication_around_ritual_festival
+  label: Commerce and intoxication around ritual festival
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines festival context, exchange, and intoxication, but
+    it is unclear which element is the motif function.
+  cautions: May be ethnographic description rather than narrative motif; review whether
+    intoxication is sacred substance, commerce is reciprocity, or both are contextual
+    festival details.
+  suggested_aliases:
+  - ritual_festival_commerce_and_intoxication
+  - festival_trade_and_sacred_intoxication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.commissioned-divine-messenger
+  motif_id: commissioned_divine_messenger
+  label: commissioned divine messenger
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: A divine messenger sent on commission is a direct sacred action in human
+    or cosmic affairs.
+  cautions: If the passage emphasizes the message as binding speech, curse_blessing_speech
+    or sacred_knowledge may be secondary.
+  suggested_aliases:
+  - divine_messenger_sent_with_decree
+  - divine_messenger_announces_command
+  - commissioned_sacred_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.common-property-as-perfected-or-sacred-social-order
+  motif_id: common_property_as_perfected_or_sacred_social_order
+  label: Common property as perfected or sacred social order
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif frames property arrangements as an ideal sacred or perfected
+    social order, fitting sacred law and social order.
+  cautions: Could be philosophical/political commentary rather than mythic motif;
+    if merely utopian theory, consider exclusion from pattern queries.
+  suggested_aliases:
+  - common_property_as_sacred_order
+  - communal_property_as_perfected_order
+  - sacred_social_order_through_common_property
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-adjudication-before-ritual-completion
+  motif_id: communal_adjudication_before_ritual_completion
+  label: Communal adjudication before ritual completion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Adjudication required before completing a rite fits ritual law and communal
+    order.
+  cautions: If the passage emphasizes resolving a vow or restoring bonds, covenant
+    may also be relevant; verify this is not a procedural monastic rule only.
+  suggested_aliases:
+  - ritual_completion_after_communal_judgment
+  - communal_judgment_before_rite_completion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-concord-during-ritual-residence
+  motif_id: communal_concord_during_ritual_residence
+  label: communal concord during ritual residence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Harmony maintained during a ritual residence is a regulated communal
+    discipline within sacred social order.
+  cautions: May be too contextual if it only describes monastic procedure; consider
+    covenant if the focus is concord as binding relationship.
+  suggested_aliases:
+  - ritual_residence_communal_harmony
+  - communal_harmony_during_ritual_retreat
+  - concord_during_sacred_residence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-confession-and-purity-by-silence
+  motif_id: communal_confession_and_purity_by_silence
+  label: Communal confession and purity by silence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Confession and silence as markers of purity are ritual-legal practices
+    maintaining communal sacred order.
+  cautions: Could also touch sacrifice or sacred_exchange if confession repairs relation
+    through offering or renunciation; preserve silence-specific evidence.
+  suggested_aliases:
+  - purity_declared_by_silence
+  - communal_confession_rite
+  - ritual_confession_and_silent_purity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-construction-and-feast-preparation-following-a-royal-ritual-decision
+  motif_id: communal_construction_and_feast_preparation_following_a_royal_ritual_decision
+  label: Communal construction and feast preparation following a royal-ritual decision
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A royal-ritual decision mobilizing communal labor and feasting points
+    to sacred kingship organizing social and ritual order.
+  cautions: Composite and event-specific; if construction is central, sacred_craft
+    may be secondary, and if feasting is central, sacred_exchange may fit better.
+  suggested_aliases:
+  - royal_ritual_decision_mobilizes_community
+  - communal_feast_preparation_after_royal_rite
+  - royal_ritual_construction_and_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence ritual or ethnographic descriptions;
+  source context should determine whether they are motifs or procedural details.
+- For Buddhist communal-ritual labels, sacred_law is a provisional broad placement;
+  avoid promoting granular monastic procedure labels without recurrence.
+- Ritual comedy and burlesque should receive culturally informed review before mapping
+  to trickster or creating a ritual inversion group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional model suggestions only; human taxonomy review required for culturally
+    specific ritual-performance and communal-procedure labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0707
+  input_sha256: 0bf515e9d8b64c9586a8976541b0b99f76defb26e0b3af40dc0fec021b92c92d
+

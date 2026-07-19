@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1162
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-white-or-albino-animals
+  motif_id: sacred_white_or_albino_animals
+  label: sacred white or albino animals
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to ritual purity, animal omen, sacred animal status,
+    or culturally specific ceremonial symbolism not resolved by the wording alone.
+  cautions: Single occurrence and Indigenous cultural specificity require source review;
+    avoid reducing rare white animals to generic purity without evidence.
+  suggested_aliases:
+  - white sacred animals
+  - albino animals as sacred signs
+  - rare white animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_treasures
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-whiteness-of-rare-animals-and-ceremonial-feathers
+  motif_id: sacred_whiteness_of_rare_animals_and_ceremonial_feathers
+  label: sacred whiteness of rare animals and ceremonial feathers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This combines color symbolism, animal rarity, and ceremonial feather
+    use; placement depends on whether the passage emphasizes ritual object, sacred
+    animal, or purity symbolism.
+  cautions: Single culturally specific occurrence; preserve feather and whiteness
+    details until source evidence clarifies function.
+  suggested_aliases:
+  - sacred white feathers
+  - rare white animals and ceremonial feathers
+  - sacred whiteness in animal materials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_law
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-witnessing-of-communal-harmony
+  motif_id: sacred_witnessing_of_communal_harmony
+  label: sacred witnessing of communal harmony
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sacredly witnessed communal harmony fits a binding social or sacred relationship
+    that upholds order among the community.
+  cautions: If the passage centers on a divine observer rather than a social bond,
+    divine_judgment or cosmic_witness under duality may be secondary candidates.
+  suggested_aliases:
+  - sacred witness to communal harmony
+  - communal harmony under sacred witness
+  - sacredly witnessed peace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacredly-preserved-gaming-stone
+  motif_id: sacredly_preserved_gaming_stone
+  label: sacredly preserved gaming stone
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A preserved gaming stone functions as a significant sacred or power object,
+    even if its ritual or social use needs further context.
+  cautions: Single object-specific label; if it is merely an ethnographic artifact
+    without narrative or ritual power, exclude or keep as evidence detail.
+  suggested_aliases:
+  - sacred gaming stone
+  - preserved ceremonial gaming stone
+  - power object gaming stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacredly-protected-poor-or-just-community
+  motif_id: sacredly_protected_poor_or_just_community
+  label: Sacredly protected poor or just community
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on sacred protection granted to a vulnerable or righteous
+    community, fitting divine intervention in human affairs.
+  cautions: If the emphasis is ethical obligation to the poor rather than supernatural
+    protection, sacred_law or covenant may be better secondary mappings.
+  suggested_aliases:
+  - divine protection of the poor
+  - sacred protection of the just community
+  - protected righteous community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacrifice-at-a-sacred-height
+  motif_id: sacrifice_at_a_sacred_height
+  label: Sacrifice at a sacred height
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The core action is sacrificial offering; the sacred height is an important
+    ritual setting detail.
+  cautions: If the height functions as cosmic mountain or axis rather than just ritual
+    location, add a secondary relation to axis_mundi or cosmic_mountain.
+  suggested_aliases:
+  - high-place sacrifice
+  - sacrifice on a sacred height
+  - elevated sacrifice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacrifice-fitted-to-a-divine-domain
+  motif_id: sacrifice_fitted_to_a_divine_domain
+  label: Sacrifice fitted to a divine domain
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: A sacrifice selected according to a deity's domain is a ritual specification
+    within the broader sacrifice group.
+  cautions: May be too procedural for a motif if the source only catalogs cult rules;
+    preserve domain-specific details as evidence notes.
+  suggested_aliases:
+  - domain-appropriate sacrifice
+  - sacrifice matched to deity
+  - offering fitted to divine sphere
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacrificial-praise-for-divine-brightness-and-glory
+  motif_id: sacrificial_praise_for_divine_brightness_and_glory
+  label: sacrificial praise for divine brightness and glory
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif combines praise/offering with divine brightness and glory,
+    aligning best with sacred fire and divine light symbolism.
+  cautions: If the passage emphasizes offering more than luminosity, sacrifice or
+    sacred_exchange should be secondary; if it is purely hymnic, sacred_song/wisdom
+    may apply.
+  suggested_aliases:
+  - praise of divine brightness
+  - sacrificial hymn to divine glory
+  - offering to divine light
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saint-as-god-possessed-person
+  motif_id: saint_as_god_possessed_person
+  label: Saint as God-possessed person
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: In a Sufi context, divine possession of the saint likely expresses mystical
+    transformation, intimacy, or annihilation of ordinary selfhood.
+  cautions: The wording may be an interpretive or translation artifact; review for
+    culturally appropriate terminology and whether annihilation_union is the stronger
+    child mapping.
+  suggested_aliases:
+  - God-possessed saint
+  - saint filled with divine presence
+  - divinely indwelt saint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saintly-fragrance-and-purity-beyond-caste-impurity
+  motif_id: saintly_fragrance_and_purity_beyond_caste_impurity
+  label: Saintly fragrance and purity beyond caste impurity
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif concerns sacred purity overriding a social impurity category,
+    fitting sacred law and social order with purity ethics.
+  cautions: Caste impurity is culturally and socially sensitive; review source context
+    and avoid flattening Sikh critique or reversal of caste hierarchy into generic
+    purity symbolism.
+  suggested_aliases:
+  - saintly fragrance as purity
+  - purity beyond caste impurity
+  - sacred purity transcending social impurity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and culturally specific; suggested placements
+  should be treated as provisional indexing aids, not taxonomy edits.
+- Animal whiteness and ceremonial feather labels may warrant a future color-symbolism
+  or sacred-animal review if similar motifs recur across sources.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended especially
+    for Indigenous ceremonial animal/feather motifs and caste-related purity wording.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1162
+  input_sha256: a246cacf94107972851669e209d1be435f04bb7b6020b465f4a7adb6d4c59f3d
+

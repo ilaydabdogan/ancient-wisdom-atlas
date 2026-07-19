@@ -1,0 +1,408 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1043
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-healing-by-extraction-of-disease-objects
+  motif_id: ritual_healing_by_extraction_of_disease_objects
+  label: Ritual healing by extraction of disease objects
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Extraction of disease objects is a ritual healing technique not well
+    preserved by sacrifice, sacred law, or divine intervention alone.
+  cautions: Single occurrence and culturally specific healing category; review source
+    evidence and avoid flattening Indigenous medical concepts into generic magic.
+  suggested_aliases:
+  - disease_object_extraction
+  - intrusive_object_healing
+  - ritual_extraction_healing
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Ritual, sacred, or spirit-mediated healing practices that remove,
+      transfer, neutralize, or transform illness, wounds, intrusive objects, afflictions,
+      or communal disorder through ceremony, substances, invocation, contact, extraction,
+      smoke, song, or other sacred techniques.
+    parent_group_ids:
+    - sacred_law
+    - divine_intervention
+    - sacrifice
+    related_group_ids:
+    - sacred_substance
+    - soul_loss_restoration
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover purification, expulsion,
+      divine aid, and sacred substances, but none centers healing practice itself
+      as the recurring function.
+- suggestion_id: normalization.suggestion.ritual-healing-by-extraction-of-harmful-matter
+  motif_id: ritual_healing_by_extraction_of_harmful_matter
+  label: Ritual healing by extraction of harmful matter
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on ceremonial removal of illness-causing matter, a
+    healing function distinct from general purification or sacrifice.
+  cautions: May be synonymous with disease-object extraction; verify whether the passage
+    distinguishes harmful matter from object intrusion.
+  suggested_aliases:
+  - harmful_matter_extraction
+  - ritual_extraction_of_illness
+  - ritual_removal_of_harmful_matter
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Ritual, sacred, or spirit-mediated healing practices that remove,
+      transfer, neutralize, or transform illness, wounds, intrusive objects, afflictions,
+      or communal disorder through ceremony, substances, invocation, contact, extraction,
+      smoke, song, or other sacred techniques.
+    parent_group_ids:
+    - sacred_law
+    - divine_intervention
+    - sacrifice
+    related_group_ids:
+    - sacred_substance
+    - soul_loss_restoration
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover purification, expulsion,
+      divine aid, and sacred substances, but none centers healing practice itself
+      as the recurring function.
+- suggestion_id: normalization.suggestion.ritual-healing-by-removal-of-intrusive-objects-from-the-body
+  motif_id: ritual_healing_by_removal_of_intrusive_objects_from_the_body
+  label: Ritual healing by removal of intrusive objects from the body
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Removal of intrusive body objects is a specific ritual-healing structure
+    rather than a sacrifice or sacred-law prohibition.
+  cautions: Likely overlaps with other extraction labels in this batch; human review
+    should decide whether to alias them under one granular child.
+  suggested_aliases:
+  - intrusive_object_removal
+  - body_intrusion_healing
+  - ritual_removal_of_intrusive_objects
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Ritual, sacred, or spirit-mediated healing practices that remove,
+      transfer, neutralize, or transform illness, wounds, intrusive objects, afflictions,
+      or communal disorder through ceremony, substances, invocation, contact, extraction,
+      smoke, song, or other sacred techniques.
+    parent_group_ids:
+    - sacred_law
+    - divine_intervention
+    - sacrifice
+    related_group_ids:
+    - sacred_substance
+    - soul_loss_restoration
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover purification, expulsion,
+      divine aid, and sacred substances, but none centers healing practice itself
+      as the recurring function.
+- suggestion_id: normalization.suggestion.ritual-healing-by-sacred-substances-and-disease-extraction
+  motif_id: ritual_healing_by_sacred_substances_and_disease_extraction
+  label: Ritual healing by sacred substances and disease extraction
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label combines sacred substances with disease extraction, but the
+    primary function is ritual healing.
+  cautions: Could receive secondary indexing under sacred_substance if the passage
+    emphasizes the substance itself; avoid over-merging local medicinal details.
+  suggested_aliases:
+  - sacred_substance_healing
+  - disease_extraction_with_sacred_substances
+  - ritual_medicine_and_extraction
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Ritual, sacred, or spirit-mediated healing practices that remove,
+      transfer, neutralize, or transform illness, wounds, intrusive objects, afflictions,
+      or communal disorder through ceremony, substances, invocation, contact, extraction,
+      smoke, song, or other sacred techniques.
+    parent_group_ids:
+    - sacred_law
+    - divine_intervention
+    - sacrifice
+    related_group_ids:
+    - sacred_substance
+    - soul_loss_restoration
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover purification, expulsion,
+      divine aid, and sacred substances, but none centers healing practice itself
+      as the recurring function.
+- suggestion_id: normalization.suggestion.ritual-healing-during-nocturnal-ceremonial-meetings
+  motif_id: ritual_healing_during_nocturnal_ceremonial_meetings
+  label: Ritual healing during nocturnal ceremonial meetings
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label points to healing in ceremonial context, but the nocturnal
+    meeting detail may be setting rather than motif function.
+  cautions: May be over-specific or ethnographic context; preserve night-meeting detail
+    as evidence unless it recurs or has ritual significance in the passage.
+  suggested_aliases:
+  - nocturnal_healing_ceremony
+  - ceremonial_night_healing
+  - ritual_healing_meeting
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Ritual, sacred, or spirit-mediated healing practices that remove,
+      transfer, neutralize, or transform illness, wounds, intrusive objects, afflictions,
+      or communal disorder through ceremony, substances, invocation, contact, extraction,
+      smoke, song, or other sacred techniques.
+    parent_group_ids:
+    - sacred_law
+    - divine_intervention
+    - sacrifice
+    related_group_ids:
+    - sacred_substance
+    - soul_loss_restoration
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover purification, expulsion,
+      divine aid, and sacred substances, but none centers healing practice itself
+      as the recurring function.
+- suggestion_id: normalization.suggestion.ritual-healing-of-a-severe-wound
+  motif_id: ritual_healing_of_a_severe_wound
+  label: Ritual healing of a severe wound
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Healing a severe wound through ritual belongs to a sacred-medicine function
+    not captured by divine intervention unless divine agency is explicit.
+  cautions: If the source emphasizes miraculous rescue by a deity or spirit, divine_intervention
+    may be a secondary mapping.
+  suggested_aliases:
+  - ceremonial_wound_healing
+  - ritual_wound_healing
+  - sacred_healing_of_wounds
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Ritual, sacred, or spirit-mediated healing practices that remove,
+      transfer, neutralize, or transform illness, wounds, intrusive objects, afflictions,
+      or communal disorder through ceremony, substances, invocation, contact, extraction,
+      smoke, song, or other sacred techniques.
+    parent_group_ids:
+    - sacred_law
+    - divine_intervention
+    - sacrifice
+    related_group_ids:
+    - sacred_substance
+    - soul_loss_restoration
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover purification, expulsion,
+      divine aid, and sacred substances, but none centers healing practice itself
+      as the recurring function.
+- suggestion_id: normalization.suggestion.ritual-healing-of-the-community
+  motif_id: ritual_healing_of_the_community
+  label: ritual healing of the community
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: low
+  rationale: Communal healing can fit the proposed healing group, especially where
+    ritual restores collective order or removes affliction.
+  cautions: Could instead be annual purification, ritual expulsion, sacred law, or
+    divine judgment depending on Zoroastrian source context; needs human review.
+  suggested_aliases:
+  - communal_ritual_healing
+  - community_healing_rite
+  - ritual_restoration_of_community
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Ritual, sacred, or spirit-mediated healing practices that remove,
+      transfer, neutralize, or transform illness, wounds, intrusive objects, afflictions,
+      or communal disorder through ceremony, substances, invocation, contact, extraction,
+      smoke, song, or other sacred techniques.
+    parent_group_ids:
+    - sacred_law
+    - divine_intervention
+    - sacrifice
+    related_group_ids:
+    - sacred_substance
+    - soul_loss_restoration
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover purification, expulsion,
+      divine aid, and sacred substances, but none centers healing practice itself
+      as the recurring function.
+- suggestion_id: normalization.suggestion.ritual-healing-through-animal-hairs-fire-and-smoke
+  motif_id: ritual_healing_through_animal_hairs_fire_and_smoke
+  label: Ritual healing through animal hairs, fire, and smoke
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The animal hair, fire, and smoke are ritual media used for healing; the
+    function is sacred medicine more than fire symbolism alone.
+  cautions: Could receive secondary mappings to sacred_fire or sacred_substance if
+    the passage gives those media independent symbolic force.
+  suggested_aliases:
+  - smoke_healing_rite
+  - fire_and_smoke_healing
+  - animal_matter_healing_rite
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Ritual, sacred, or spirit-mediated healing practices that remove,
+      transfer, neutralize, or transform illness, wounds, intrusive objects, afflictions,
+      or communal disorder through ceremony, substances, invocation, contact, extraction,
+      smoke, song, or other sacred techniques.
+    parent_group_ids:
+    - sacred_law
+    - divine_intervention
+    - sacrifice
+    related_group_ids:
+    - sacred_substance
+    - soul_loss_restoration
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover purification, expulsion,
+      divine aid, and sacred substances, but none centers healing practice itself
+      as the recurring function.
+- suggestion_id: normalization.suggestion.ritual-healing-through-animal-invocation-and-medicinal-substances
+  motif_id: ritual_healing_through_animal_invocation_and_medicinal_substances
+  label: ritual healing through animal invocation and medicinal substances
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Invocation and medicinal substances serve a ritual healing function,
+    which is more specific than sacred substance or animal helper alone.
+  cautions: Review culturally specific animal invocation carefully; if animal agency
+    is central, divine_intervention or animal_helpers may be secondary.
+  suggested_aliases:
+  - animal_invocation_healing
+  - medicinal_substance_healing_rite
+  - ritual_healing_with_animal_invocation
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Ritual, sacred, or spirit-mediated healing practices that remove,
+      transfer, neutralize, or transform illness, wounds, intrusive objects, afflictions,
+      or communal disorder through ceremony, substances, invocation, contact, extraction,
+      smoke, song, or other sacred techniques.
+    parent_group_ids:
+    - sacred_law
+    - divine_intervention
+    - sacrifice
+    related_group_ids:
+    - sacred_substance
+    - soul_loss_restoration
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover purification, expulsion,
+      divine aid, and sacred substances, but none centers healing practice itself
+      as the recurring function.
+- suggestion_id: normalization.suggestion.ritual-healing-through-contact-with-painted-divine-figures
+  motif_id: ritual_healing_through_contact_with_painted_divine_figures
+  label: Ritual healing through contact with painted divine figures
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Healing and Sacred Medicine
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Contact with painted divine figures is a ritual medium for healing; the
+    healing function should not be lost under theophany or sacred craft.
+  cautions: Could overlap with divine_intervention, theophany, or sacred_craft if
+    the images manifest divine presence or are ritually animated; review source context.
+  suggested_aliases:
+  - healing_contact_with_divine_images
+  - painted_divine_figure_healing
+  - ritual_healing_by_sacred_image_contact
+  suggested_new_group:
+    id: ritual_healing_sacred_medicine
+    label: Ritual Healing and Sacred Medicine
+    description: Ritual, sacred, or spirit-mediated healing practices that remove,
+      transfer, neutralize, or transform illness, wounds, intrusive objects, afflictions,
+      or communal disorder through ceremony, substances, invocation, contact, extraction,
+      smoke, song, or other sacred techniques.
+    parent_group_ids:
+    - sacred_law
+    - divine_intervention
+    - sacrifice
+    related_group_ids:
+    - sacred_substance
+    - soul_loss_restoration
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover purification, expulsion,
+      divine aid, and sacred substances, but none centers healing practice itself
+      as the recurring function.
+batch_notes:
+- This batch contains several near-synonymous ritual-healing extraction labels; human
+  review should consider folding them as aliases or children under one ritual-healing
+  group rather than preserving each as a separate canonical child.
+- The proposed group is provisional because healing is currently distributed across
+  divine_intervention, sacred_law, sacrifice, sacred_substance, and soul_loss_restoration,
+  but none of those groups centers ritual healing as the primary pattern.
+- Handle Indigenous and local healing terminology with source-sensitive review; do
+  not reduce ritual medicine to generic magic or sacrifice without passage evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestion for recurring ritual-healing labels; recommends
+    taxonomy review for a new normalization group.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1043
+  input_sha256: 1d7390ef8d0c97788f692680e2825aea719b86390a44592e713e254329dec019
+

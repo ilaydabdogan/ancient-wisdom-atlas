@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2247
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.repeated-animal-calls-heard-throughout-life
+  motif_id: repeated_animal_calls_heard_throughout_life
+  label: Repeated animal calls heard throughout life
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests recurring animal sound as omen, guide, spirit presence,
+    or life-sign, but function is not clear from wording alone.
+  cautions: Single occurrence; culturally specific Plains evidence should be reviewed
+    before mapping to animal helper, prophecy, tutelary spirit, or textual detail.
+  suggested_aliases:
+  - lifelong_repeated_animal_calls
+  - recurring_animal_call_as_life_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - dream_and_vision
+    - prophecy_divination
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-animal-emblem-across-clubhouse-media
+  motif_id: repeated_animal_emblem_across_clubhouse_media
+  label: Repeated animal emblem across clubhouse media
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes distribution of an emblem across media rather than
+    a narrative or symbolic motif with a clear function.
+  cautions: If source evidence shows the animal emblem acts as a clan, ritual, ancestor,
+    or tutelary sign, preserve under a culturally appropriate group after human review.
+  suggested_aliases:
+  - animal_emblem_repeated_across_media
+  - clubhouse_animal_emblem_distribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-escalating-processing-of-an-enchanted-animal
+  motif_id: repeated_escalating_processing_of_an_enchanted_animal
+  label: repeated escalating processing of an enchanted animal
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An enchanted animal being repeatedly processed could involve transformation,
+    magical food, trickster cruelty, resurrection, or ritual treatment.
+  cautions: Over-specific and opaque label; source evidence is needed to identify
+    whether the animal is helper, victim, food substance, or transformed being.
+  suggested_aliases:
+  - enchanted_animal_repeatedly_processed
+  - escalating_treatment_of_magical_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_substance
+    - trickster
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.replacement-of-lost-horses-through-capture-of-wild-horses
+  motif_id: replacement_of_lost_horses_through_capture_of_wild_horses
+  label: Replacement of lost horses through capture of wild horses
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a practical episode of resource replacement rather
+    than a reusable symbolic or narrative motif.
+  cautions: If the captured horses are supernatural helpers, initiation prizes, or
+    sacred wealth, remap after evidence review; otherwise preserve as episode detail
+    only.
+  suggested_aliases:
+  - lost_horses_replaced_by_wild_horse_capture
+  - wild_horses_captured_to_replace_lost_horses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reproach-for-separating-a-woman-from-a-dragon-associated-companion
+  motif_id: reproach_for_separating_a_woman_from_a_dragon_associated_companion
+  label: reproach for separating a woman from a dragon-associated companion
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines social reproach, separation, a woman, and a dragon-linked
+    companion without clarifying the dragon's function.
+  cautions: Could belong to sacred_love, serpent_guardian, shapeshifter, or stolen_beloved-like
+    separation depending on whether the companion is spouse, helper, guardian, or
+    monster.
+  suggested_aliases:
+  - separation_from_dragon_companion_reproached
+  - woman_separated_from_dragon_associated_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - serpent_guardian
+    - shapeshifter
+    - stolen_beloved
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-and-winning-of-an-animal
+  motif_id: rescue_and_winning_of_an_animal
+  label: Rescue and winning of an animal
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Winning an animal through rescue likely functions as acquiring an animal
+    helper, already covered broadly under divine_intervention's animal_helpers child.
+  cautions: If the episode is ordinary animal ownership or prize-winning rather than
+    a helper relationship, exclude or treat as passage detail.
+  suggested_aliases:
+  - animal_won_by_rescue
+  - rescued_animal_becomes_helper_or_prize
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-by-extraordinary-horse
+  motif_id: rescue_by_extraordinary_horse
+  label: rescue by extraordinary horse
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: An extraordinary horse rescuing a figure fits supernatural animal aid
+    and the existing animal_helpers child under divine_intervention.
+  cautions: If the horse is chiefly a magical mount enabling travel, secondary relation
+    to shapeshifter or hero_journey may be useful.
+  suggested_aliases:
+  - extraordinary_horse_rescue
+  - supernatural_horse_rescues_hero
+  - magical_horse_as_rescuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-from-attempted-burning-after-were-wolf-accusation
+  motif_id: rescue_from_attempted_burning_after_were_wolf_accusation
+  label: Rescue from attempted burning after were-wolf accusation
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve shapeshifting accusation, wrongful persecution,
+    divine rescue from fire, or social judgment.
+  cautions: Composite, episode-specific label; determine whether werewolf transformation
+    is real, falsely accused, or merely a legal/social charge before mapping.
+  suggested_aliases:
+  - werewolf_accusation_and_rescue_from_burning
+  - rescue_from_burning_after_werewolf_charge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - divine_intervention
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-of-bird-young-from-a-predatory-eagle
+  motif_id: rescue_of_bird_young_from_a_predatory_eagle
+  label: rescue of bird young from a predatory eagle
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rescuing animal young often initiates reciprocal aid from grateful animals,
+    fitting animal_helpers under divine_intervention.
+  cautions: If no later animal assistance occurs, this may be only an episode of compassion
+    or animal rescue and should not be over-indexed.
+  suggested_aliases:
+  - rescue_of_bird_young
+  - bird_young_saved_from_predator
+  - rescued_bird_young_lead_to_animal_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescued-animal-addressed-as-supernatural
+  motif_id: rescued_animal_addressed_as_supernatural
+  label: rescued animal addressed as supernatural
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: An animal treated as supernatural after rescue aligns with animal helpers
+    or tutelary/mediating spirit agency under divine_intervention.
+  cautions: Northwest Coast animal-person or spirit categories may require culturally
+    specific review; avoid reducing the being to a generic helper if the passage treats
+    it as kin, deity, or clan ancestor.
+  suggested_aliases:
+  - rescued_animal_recognized_as_supernatural
+  - rescued_supernatural_animal
+  - animal_rescue_reveals_supernatural_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - otherworld
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern animal helpers or supernatural animals, but
+  most have only one occurrence and need passage evidence before adding durable animal-specific
+  groups.
+- Avoid treating all animal episodes as trickster or shapeshifter motifs; distinguish
+  practical animal use, reciprocal animal aid, supernatural animal-persons, and textual/emblematic
+  artifacts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific animal-person and emblem
+    evidence should receive human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2247
+  input_sha256: d268de717d70e043171bdfaba3d8368c19b973bd8d0823089cd2aa8450bfe24d
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3862
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.refusal-of-further-guidance-after-sufficient-abundance
+  motif_id: refusal_of_further_guidance_after_sufficient_abundance
+  label: Refusal of further guidance after sufficient abundance
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve abundance, guidance, ingratitude, or narrative closure;
+    existing groups do not fit from label alone.
+  cautions: Single occurrence and context-dependent; review whether this is a moral
+    exemplum, divine provision episode, or passage-specific detail.
+  suggested_aliases:
+  - guidance_refused_after_abundance
+  - sufficient_abundance_ends_guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-improper-or-unauthorized-payment
+  motif_id: refusal_of_improper_or_unauthorized_payment
+  label: refusal of improper or unauthorized payment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Refusing an improper payment expresses ethical or religious rule-governed
+    conduct.
+  cautions: Could instead fit sacred_exchange if the passage emphasizes reciprocity
+    or offering; verify it is not a monastic rule detail too specific for pattern
+    queries.
+  suggested_aliases:
+  - refusal_of_unauthorized_payment
+  - improper_payment_refused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-life-for-submission-terms
+  motif_id: refusal_of_life_for_submission_terms
+  label: Refusal of life-for-submission terms
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Choosing death over submission is a heroic honor and warrior-duty pattern.
+  cautions: If the emphasis is treaty refusal or vengeance law rather than heroic
+    death, sacred_combat or covenant may be better secondary placements.
+  suggested_aliases:
+  - death_chosen_over_submission
+  - refusal_to_live_under_submission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-new-faith-by-an-old-heathen-figure
+  motif_id: refusal_of_new_faith_by_an_old_heathen_figure
+  label: refusal of new faith by an old heathen figure
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe conversion resistance, identity, polemic, or source-era
+    religious framing rather than a reusable motif.
+  cautions: Culturally and historically loaded wording; review source evidence before
+    mapping to covenant, sacred_law, or pride/downfall.
+  suggested_aliases:
+  - refusal_of_conversion
+  - old_religion_figure_rejects_new_faith
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-offered-religious-gifts
+  motif_id: refusal_of_offered_religious_gifts
+  label: refusal of offered religious gifts
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on acceptance or refusal within religious gift exchange.
+  cautions: Could fit renunciation under mystical_quest if refusal demonstrates detachment,
+    or sacred_law if the gift is ritually improper.
+  suggested_aliases:
+  - religious_gifts_refused
+  - refusal_of_sacred_offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-peace-followed-by-isolation-image
+  motif_id: refusal_of_peace_followed_by_isolation_image
+  label: Refusal of peace followed by isolation image
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Refusal of peace could indicate broken covenant, combat, judgment, or
+    an over-specific image sequence.
+  cautions: Single occurrence and composite wording; review whether the isolation
+    image is symbolic evidence or just passage phrasing.
+  suggested_aliases:
+  - peace_refused_followed_by_isolation
+  - refusal_of_peace_and_isolation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-prepared-food-as-marital-insult
+  motif_id: refusal_of_prepared_food_as_marital_insult
+  label: Refusal of prepared food as marital insult
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Food refusal functions as a breach of expected relational exchange within
+    marriage.
+  cautions: May be too domestic or episode-specific; if the passage emphasizes marriage
+    conflict or insult more than exchange, human review may exclude or reassign.
+  suggested_aliases:
+  - food_refusal_as_marital_insult
+  - refused_meal_as_spousal_insult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-rescue-to-share-a-chosen-fate
+  motif_id: refusal_of_rescue_to_share_a_chosen_fate
+  label: refusal of rescue to share a chosen fate
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusing rescue in order to share a chosen fate centers on acceptance
+    of destined death or doom.
+  cautions: Could also fit sacred_love if the shared fate is with a beloved, or divine_warrior
+    if framed as heroic honor.
+  suggested_aliases:
+  - refusal_of_rescue_to_share_fate
+  - chosen_fate_shared_by_refusing_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-settlement-or-inducement
+  motif_id: refusal_of_settlement_or_inducement
+  label: refusal of settlement or inducement
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusing compensation or settlement concerns negotiation, obligation,
+    and repair of broken bonds.
+  cautions: If tied to feud or warfare, sacred_combat may be a better parent; if merely
+    legal plot detail, preserve only as evidence.
+  suggested_aliases:
+  - settlement_refused
+  - inducement_refused
+  - compensation_refused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-sovereign-power
+  motif_id: refusal_of_sovereign_power
+  label: Refusal of sovereign power
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns relation to rulership and legitimate authority, here
+    expressed by refusal rather than accession.
+  cautions: In Daoist context it may primarily express renunciation or non-action;
+    consider mystical_quest or duality/non_action as secondary if evidence supports
+    it.
+  suggested_aliases:
+  - sovereign_power_refused
+  - refusal_of_kingship
+  - renunciation_of_rulership
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence refusal motifs; many may be episode-specific
+  ethical actions rather than durable motifs.
+- For Daoist, Buddhist, Norse, and Native American Southeast items, review source
+  context before treating refusal as a universal narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; batch contains many context-dependent refusal
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3862
+  input_sha256: 7a8190ab186499647072e800fc1be709d49a90b0a2cb66b342117f9ecdde7fb6
+

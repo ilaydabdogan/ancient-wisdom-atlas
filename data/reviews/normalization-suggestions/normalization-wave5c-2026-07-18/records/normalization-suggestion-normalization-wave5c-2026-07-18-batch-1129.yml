@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1129
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-footprint-on-a-mountain
+  motif_id: sacred_footprint_on_a_mountain
+  label: Sacred footprint on a mountain
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sacred footprint functions as a holy trace or relic-like object marking
+    presence and pilgrimage; the mountain setting may be secondary.
+  cautions: Could also support axis_mundi or cosmic_mountain if the passage emphasizes
+    the mountain as sacred center rather than the footprint as relic.
+  suggested_aliases:
+  - holy_footprint
+  - sacred_footprint_relic
+  - footprint_relic_on_mountain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-force-that-cannot-be-forcibly-seized
+  motif_id: sacred_force_that_cannot_be_forcibly_seized
+  label: Sacred force that cannot be forcibly seized
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and could refer to glory, charisma, sovereignty,
+    ritual power, or divine protection depending on source evidence.
+  cautions: Do not map solely by wording; Zoroastrian context may involve culturally
+    specific sacred force such as xvarenah/farr that may warrant a dedicated review
+    note or group if recurring.
+  suggested_aliases:
+  - unseizable_sacred_power
+  - sacred_power_resists_seizure
+  - inviolable_divine_force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-forest-hermitage-as-meeting-place
+  motif_id: sacred_forest_hermitage_as_meeting_place
+  label: sacred forest hermitage as meeting place
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hermitage meeting place typically functions as a locus of teaching,
+    ascetic authority, counsel, or sacred encounter.
+  cautions: If the passage treats the forest hermitage mainly as a journey stop or
+    landscape setting, it may be an over-specific place detail rather than a durable
+    motif.
+  suggested_aliases:
+  - forest_hermitage_meeting_place
+  - ascetic_hermitage_as_sacred_meeting_site
+  - hermitage_as_site_of_instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-forest-landscape-with-mountain-river-and-hermits
+  motif_id: sacred_forest_landscape_with_mountain_river_and_hermits
+  label: sacred forest landscape with mountain, river, and hermits
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a composite descriptive setting rather than a discrete
+    narrative or symbolic motif.
+  cautions: If repeated evidence shows the landscape functions as pilgrimage geography,
+    sacred center, or ascetic teaching site, remap to axis_mundi, sacred_waters, or
+    sacred_knowledge as appropriate.
+  suggested_aliases:
+  - sacred_forest_landscape
+  - forest_mountain_river_hermit_setting
+  - ascetic_sacred_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-formula-repeated-a-prescribed-number-of-times
+  motif_id: sacred_formula_repeated_a_prescribed_number_of_times
+  label: sacred formula repeated a prescribed number of times
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: high
+  rationale: A prescribed sacred utterance repeated ritually is performative speech
+    whose power depends on correct utterance and form.
+  cautions: Could also relate to sacred_law if the emphasis is prescription, or sacred_knowledge
+    if the formula transmits doctrine rather than performs ritual action.
+  suggested_aliases:
+  - ritual_repetition_of_sacred_formula
+  - prescribed_repetition_of_holy_words
+  - sacred_formulaic_recitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-formulas-preserve-a-pantheon
+  motif_id: sacred_formulas_preserve_a_pantheon
+  label: Sacred formulas preserve a pantheon
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sacred formulas maintaining divine names or pantheon memory fit transmission
+    and preservation of sacred knowledge.
+  cautions: Could be textual or ethnographic commentary if not a narrative/ritual
+    motif in the source passage; review culturally specific formula traditions carefully.
+  suggested_aliases:
+  - formulas_preserve_divine_names
+  - sacred_recitation_preserves_pantheon
+  - ritual_formula_as_divine_memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-foundation-preparation-for-a-monumental-shrine
+  motif_id: sacred_foundation_preparation_for_a_monumental_shrine
+  label: Sacred foundation preparation for a monumental shrine
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual preparation for shrine foundations belongs with sacred building
+    and construction as religious act.
+  cautions: If the passage emphasizes relic deposition or shrine as pilgrimage center,
+    sacred_treasures may be a secondary fit; single occurrence may remain evidence
+    detail.
+  suggested_aliases:
+  - ritual_foundation_of_shrine
+  - sacred_shrine_foundation_rite
+  - consecrated_foundation_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fountain-associated-with-divine-figures
+  motif_id: sacred_fountain_associated_with_divine_figures
+  label: Sacred fountain associated with divine figures
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A divine-associated fountain is a localized sacred water source with
+    purification, presence, or blessing potential.
+  cautions: If the fountain is primarily an oracle site, prophecy_divination may also
+    apply; if only a place-name detail, keep as evidence note.
+  suggested_aliases:
+  - holy_fountain
+  - divine_fountain
+  - sacred_spring_associated_with_deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fourfold-ordering-and-repetition
+  motif_id: sacred_fourfold_ordering_and_repetition
+  label: sacred fourfold ordering and repetition
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Fourfold repetition may express sacred directionality, ritual order,
+    cosmology, or chant structure, and cannot be placed reliably from the label alone.
+  cautions: Culturally sensitive Navajo ceremonial structures require source-aware
+    review; avoid flattening into generic duality or sacred_time without evidence.
+  suggested_aliases:
+  - fourfold_sacred_order
+  - ritual_fourfold_repetition
+  - sacred_quaternity_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fragrance-marks-a-holy-object
+  motif_id: sacred_fragrance_marks_a_holy_object
+  label: sacred fragrance marks a holy object
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Fragrance functions as a sensory sign of an object's holiness or supernatural
+    power, fitting holy objects and relic-like treasures.
+  cautions: If fragrance marks divine presence rather than an object, theophany may
+    be relevant; preserve sensory detail as a granular alias.
+  suggested_aliases:
+  - holy_fragrance_of_object
+  - fragrance_as_sign_of_holiness
+  - sweet_scent_marks_sacred_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence sacred-place or ritual-detail labels; preserve
+  local evidence and avoid promoting them as canonical motifs without recurrence.
+- Culturally specific ceremonial terms, especially Navajo fourfold ordering and Zoroastrian
+  sacred force, should receive human source-context review before final normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1129
+  input_sha256: 2046e6bb2ee7676d28d92c56226e64fceae0e0e046a4316c93069f70a359664a
+

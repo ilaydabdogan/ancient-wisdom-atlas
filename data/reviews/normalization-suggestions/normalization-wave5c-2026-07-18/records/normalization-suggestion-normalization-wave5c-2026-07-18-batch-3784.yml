@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3784
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.post-ceremony-communal-feast
+  motif_id: post_ceremony_communal_feast
+  label: post-ceremony communal feast
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A communal feast after ceremony likely functions as ritual reciprocity,
+    offering, or social repair following sacred action.
+  cautions: Single occurrence; if merely an ethnographic sequence note rather than
+    motif, consider excluding or retaining only as evidence detail.
+  suggested_aliases:
+  - ceremonial_communal_feast
+  - ritual_feast_after_ceremony
+  - post_ritual_communal_feasting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-conflict-redistribution-of-goods
+  motif_id: post_conflict_redistribution_of_goods
+  label: post-conflict redistribution of goods
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Redistribution after conflict can repair social order through exchange,
+    compensation, or renewed reciprocity.
+  cautions: Could instead be legal settlement, booty distribution, or passage-specific
+    social detail; source context needed before indexing broadly.
+  suggested_aliases:
+  - redistribution_after_conflict
+  - post_conflict_goods_redistribution
+  - compensatory_redistribution_after_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-conflict-rubbing-with-buchu
+  motif_id: post_conflict_rubbing_with_buchu
+  label: post-conflict rubbing with buchu
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A post-conflict rubbing rite with a plant likely belongs with ritual
+    purification or apotropaic regulation after danger.
+  cautions: Culturally specific and plant-specific; may be too granular without evidence
+    that cleansing, protection, or social repair is central.
+  suggested_aliases:
+  - post_conflict_plant_rubbing
+  - buchu_cleansing_after_conflict
+  - post_conflict_ritual_rubbing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-contact-religious-motif-insertion
+  motif_id: post_contact_religious_motif_insertion
+  label: Post-contact religious motif insertion
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes editorial, historical, or comparative assessment
+    of motif insertion rather than a narrative motif.
+  cautions: Preserve as provenance or reception note if useful; do not use as evidence
+    of transmission in motif pattern queries.
+  suggested_aliases:
+  - post_contact_motif_insertion
+  - religious_motif_insertion_after_contact
+  - post_contact_editorial_or_syncretic_insertion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-conversion-demonizing-syncretism
+  motif_id: post_conversion_demonizing_syncretism
+  label: Post-conversion demonizing syncretism
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label is an interpretive history-of-religions or reception category,
+    not a stable narrative motif.
+  cautions: May be valuable as a scholarly annotation about conversion-era framing;
+    avoid indexing as a mythic pattern without passage-level motif evidence.
+  suggested_aliases:
+  - post_conversion_demonization
+  - demonizing_syncretism_after_conversion
+  - conversion_period_syncretic_demonization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-crime-deception-to-alter-legal-outcome
+  motif_id: post_crime_deception_to_alter_legal_outcome
+  label: Post-crime deception to alter legal outcome
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Deception after wrongdoing to affect judgment or legal consequence fits
+    moral reckoning and false-claim/vindication patterns.
+  cautions: If the episode is purely secular legal strategy, sacred_law or exclusion
+    as a contextual plot detail may be better.
+  suggested_aliases:
+  - deception_after_crime_to_evade_judgment
+  - legal_outcome_altered_by_post_crime_deception
+  - post_crime_legal_deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-dance-cleansing-with-yucca-suds
+  motif_id: post_dance_cleansing_with_yucca_suds
+  label: Post-dance cleansing with yucca suds
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A cleansing rite after dance fits ritual purification and regulated sacred
+    practice.
+  cautions: Highly specific to material and ceremony; preserve yucca-suds detail locally
+    and avoid broad claims without context.
+  suggested_aliases:
+  - post_dance_ritual_cleansing
+  - yucca_suds_cleansing_after_dance
+  - post_ceremonial_cleansing_with_yucca
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-destruction-resettlement-after-massacre
+  motif_id: post_destruction_resettlement_after_massacre
+  label: Post-destruction resettlement after massacre
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: low
+  rationale: Community resettlement after violent destruction can express social renewal
+    after death and catastrophe.
+  cautions: May be historical memory or settlement detail rather than motif; if cosmic
+    or communal renewal is explicit, flood_and_renewal may be a secondary relation.
+  suggested_aliases:
+  - resettlement_after_massacre
+  - community_rebuilding_after_destruction
+  - post_massacre_resettlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-disaster-movement-and-rebuilding
+  motif_id: post_disaster_movement_and_rebuilding
+  label: post-disaster movement and rebuilding
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Movement and rebuilding after disaster fits renewal of a community after
+    destruction or dissolution.
+  cautions: If the disaster is a world-ending flood, fire, or cosmic catastrophe,
+    flood_and_renewal may be more precise; otherwise may be contextual migration history.
+  suggested_aliases:
+  - rebuilding_after_disaster
+  - post_disaster_resettlement
+  - movement_and_rebuilding_after_catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-displacement-rebuilding-in-a-new-land
+  motif_id: post_displacement_rebuilding_in_a_new_land
+  label: post-displacement rebuilding in a new land
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Displacement followed by rebuilding in a new land aligns with exile,
+    wandering, and home-making after departure.
+  cautions: Could be migration history, communal origin tradition, or post-catastrophe
+    renewal; source evidence needed before treating as a journey motif.
+  suggested_aliases:
+  - rebuilding_after_displacement
+  - new_land_rebuilding_after_exile
+  - post_displacement_resettlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence post-event social or ritual sequences; preserve
+  local evidence and avoid promoting to canonical motifs without recurrence.
+- Post-contact and post-conversion labels are best treated as scholarly/reception
+  metadata rather than motifs for pattern queries.
+- For disaster/displacement labels, distinguish historical migration or settlement
+  notes from mythic catastrophe-renewal patterns.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several items require source context because
+    labels are post-event, culturally specific, or potentially historical/commentary
+    artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3784
+  input_sha256: 419f80c0d1d88fa934a8ed38d5df27e72cf2efe4e941973200abfa84f3f1e05f
+

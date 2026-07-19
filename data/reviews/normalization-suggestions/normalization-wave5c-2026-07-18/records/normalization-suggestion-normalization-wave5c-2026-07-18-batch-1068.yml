@@ -1,0 +1,342 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1068
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-preparation-with-greenery-covered-arbor-and-altar
+  motif_id: ritual_preparation_with_greenery_covered_arbor_and_altar
+  label: Ritual preparation with greenery-covered arbor and altar
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Preparing an altar and ritual arbor is best treated as ritual setup for
+    sacred offering or relationship maintenance.
+  cautions: Single occurrence and highly concrete; greenery/arbor details should remain
+    evidence notes unless the pattern recurs.
+  suggested_aliases:
+  - altar_preparation_with_greenery
+  - ritual_arbor_and_altar_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-procession-and-directional-placement
+  motif_id: ritual_procession_and_directional_placement
+  label: Ritual procession and directional placement
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Procession and Cultic Placement
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on ordered ritual movement and spatial placement, not
+    sacrifice, exchange, or law alone.
+  cautions: Review source evidence carefully; directional placement may be culturally
+    specific and should not be flattened into generic procession.
+  suggested_aliases:
+  - ritual_procession_with_directional_placement
+  - ceremonial_procession_and_spatial_ordering
+  suggested_new_group:
+    id: ritual_procession_cultic_placement
+    label: Ritual Procession and Cultic Placement
+    description: Ritual movement, carrying, installation, directional placement, or
+      ordered presentation of sacred persons, images, emblems, or objects within ceremonial
+      space.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    related_group_ids:
+    - sacred_treasures
+    - axis_mundi
+    - theophany
+    reason_existing_groups_insufficient: Existing groups cover offering, law, sacred
+      objects, and sacred centers, but not the recurring ritual action of procession,
+      installation, and spatial placement itself.
+- suggestion_id: normalization.suggestion.ritual-procession-and-installation-of-divine-images
+  motif_id: ritual_procession_and_installation_of_divine_images
+  label: ritual procession and installation of divine images
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Procession and Cultic Placement
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Procession plus installation of divine images is a cultic-placement action
+    rather than merely a sacred-object motif.
+  cautions: If the passage emphasizes the images as animated or crafted power objects,
+    sacred_craft or sacred_treasures may be secondary mappings.
+  suggested_aliases:
+  - cult_image_procession_and_installation
+  - installation_of_divine_images
+  suggested_new_group:
+    id: ritual_procession_cultic_placement
+    label: Ritual Procession and Cultic Placement
+    description: Ritual movement, carrying, installation, directional placement, or
+      ordered presentation of sacred persons, images, emblems, or objects within ceremonial
+      space.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    related_group_ids:
+    - sacred_treasures
+    - sacred_craft
+    - theophany
+    reason_existing_groups_insufficient: Existing groups can hold divine images as
+      objects, but not the procedural ritual pattern of carrying and installing them.
+- suggestion_id: normalization.suggestion.ritual-procession-to-a-deity-s-temple
+  motif_id: ritual_procession_to_a_deity_s_temple
+  label: ritual procession to a deity’s temple
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Procession and Cultic Placement
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ceremonial movement to a deity’s temple fits a procession/approach
+    pattern more directly than sacrifice or pilgrimage alone.
+  cautions: If the passage emphasizes the temple as cosmic center, axis_mundi or world_center
+    may be relevant; if it emphasizes offering, sacred_exchange may be secondary.
+  suggested_aliases:
+  - procession_to_deity_temple
+  - temple_procession
+  suggested_new_group:
+    id: ritual_procession_cultic_placement
+    label: Ritual Procession and Cultic Placement
+    description: Ritual movement, carrying, installation, directional placement, or
+      ordered presentation of sacred persons, images, emblems, or objects within ceremonial
+      space.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    related_group_ids:
+    - axis_mundi
+    - world_center
+    - theophany
+    reason_existing_groups_insufficient: Existing groups lack a clear place for ritualized
+      movement toward a cult site when no sacrifice, judgment, or transformation is
+      specified.
+- suggestion_id: normalization.suggestion.ritual-procession-to-an-exposed-ancient-mound
+  motif_id: ritual_procession_to_an_exposed_ancient_mound
+  label: Ritual procession to an exposed ancient mound
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines procession, landscape feature, antiquity, and possible
+    ancestral or sacred-site meaning without enough context.
+  cautions: Could fit ritual procession, ancestor rites, axis_mundi/world_center,
+    sacred geography, or a passage-specific site note; review cultural context before
+    mapping.
+  suggested_aliases:
+  - procession_to_ancient_mound
+  - ritual_visit_to_sacred_mound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-procession-with-emblem-and-object-bearers
+  motif_id: ritual_procession_with_emblem_and_object_bearers
+  label: Ritual procession with emblem and object bearers
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Procession and Cultic Placement
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif is defined by ceremonial carrying of emblems and sacred objects
+    in procession.
+  cautions: Specific emblems or objects may deserve secondary sacred_treasures mapping
+    if their power or authority is central.
+  suggested_aliases:
+  - procession_with_sacred_object_bearers
+  - emblem_bearers_in_ritual_procession
+  suggested_new_group:
+    id: ritual_procession_cultic_placement
+    label: Ritual Procession and Cultic Placement
+    description: Ritual movement, carrying, installation, directional placement, or
+      ordered presentation of sacred persons, images, emblems, or objects within ceremonial
+      space.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    related_group_ids:
+    - sacred_treasures
+    - royal_legitimacy
+    - theophany
+    reason_existing_groups_insufficient: Sacred_treasures covers powerful objects,
+      but not the ritual role of bearing and presenting them in procession.
+- suggestion_id: normalization.suggestion.ritual-procession-with-leader-and-emblem
+  motif_id: ritual_procession_with_leader_and_emblem
+  label: ritual procession with leader and emblem
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Procession and Cultic Placement
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A leader and emblem structure a ceremonial procession and public ritual
+    ordering.
+  cautions: If the leader’s authority is the focus, royal_legitimacy or sacred_law
+    may be secondary; avoid over-reading political function from the label alone.
+  suggested_aliases:
+  - procession_with_ritual_leader_and_emblem
+  - emblem_led_ritual_procession
+  suggested_new_group:
+    id: ritual_procession_cultic_placement
+    label: Ritual Procession and Cultic Placement
+    description: Ritual movement, carrying, installation, directional placement, or
+      ordered presentation of sacred persons, images, emblems, or objects within ceremonial
+      space.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    related_group_ids:
+    - sacred_treasures
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups do not capture ceremonial
+      procession as a repeated ritual action with leaders and emblems.
+- suggestion_id: normalization.suggestion.ritual-procession-with-sacred-images
+  motif_id: ritual_procession_with_sacred_images
+  label: Ritual procession with sacred images
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Procession and Cultic Placement
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The sacred images are ritually carried or displayed in procession, a
+    cultic movement pattern.
+  cautions: If the images are animated, oracular, or crafted, sacred_craft or sacred_treasures
+    may be needed as secondary mappings.
+  suggested_aliases:
+  - procession_with_cult_images
+  - sacred_image_procession
+  suggested_new_group:
+    id: ritual_procession_cultic_placement
+    label: Ritual Procession and Cultic Placement
+    description: Ritual movement, carrying, installation, directional placement, or
+      ordered presentation of sacred persons, images, emblems, or objects within ceremonial
+      space.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    related_group_ids:
+    - sacred_treasures
+    - sacred_craft
+    - theophany
+    reason_existing_groups_insufficient: Object-focused groups do not preserve the
+      distinct procedural motif of processional display.
+- suggestion_id: normalization.suggestion.ritual-procession-with-sacred-shields
+  motif_id: ritual_procession_with_sacred_shields
+  label: Ritual procession with sacred shields
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Procession and Cultic Placement
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred shields function as carried cult objects within a ritual procession.
+  cautions: The shield detail may also imply sacred_treasures or martial/royal symbolism;
+    keep object specificity as evidence detail.
+  suggested_aliases:
+  - procession_with_sacred_shields
+  - processional_sacred_shields
+  suggested_new_group:
+    id: ritual_procession_cultic_placement
+    label: Ritual Procession and Cultic Placement
+    description: Ritual movement, carrying, installation, directional placement, or
+      ordered presentation of sacred persons, images, emblems, or objects within ceremonial
+      space.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    related_group_ids:
+    - sacred_treasures
+    - divine_warrior
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Sacred_treasures can hold the shields as
+      objects, but not the recurring ritual procession pattern.
+- suggestion_id: normalization.suggestion.ritual-prohibition-against-bowing-and-looking-back
+  motif_id: ritual_prohibition_against_bowing_and_looking_back
+  label: Ritual prohibition against bowing and looking back
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A prohibition governing ritual gesture and sight fits sacred law, taboo,
+    and ritual regulation.
+  cautions: If looking back is tied to a descent, escape, or threshold ordeal, threshold_guardian
+    or descent may be relevant as secondary context.
+  suggested_aliases:
+  - ritual_taboo_against_looking_back
+  - prohibition_against_bowing_in_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several unmapped labels describe ritual procession, installation, or carrying of
+  sacred objects. Existing groups cover offerings, sacred objects, and sacred law,
+  but not processional ritual action; a provisional new group is suggested for review.
+- All suggested placements are taxonomy-normalization aids only and do not imply historical
+  contact or shared origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions; human review recommended especially for culturally
+    specific mound, directional-placement, and sacred-image procession labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1068
+  input_sha256: 24b74f902f77e1deeaa81691832f2225d12754c5e163f93666c48195f6db7e08
+

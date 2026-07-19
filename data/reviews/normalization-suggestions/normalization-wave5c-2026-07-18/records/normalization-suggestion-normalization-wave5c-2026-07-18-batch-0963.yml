@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0963
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prayer-to-celestial-bodies
+  motif_id: prayer_to_celestial_bodies
+  label: prayer to celestial bodies
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Prayer as petition to sacred or cosmic powers fits reciprocal sacred
+    exchange, but the addressed beings are culturally specific celestial bodies.
+  cautions: Single occurrence; review whether celestial bodies are divine agents,
+    ancestors, abundance powers, or merely objects of address in the source.
+  suggested_aliases:
+  - celestial prayer
+  - petition to celestial bodies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-to-divine-maternal-intercessor-for-rescue
+  motif_id: prayer_to_divine_maternal_intercessor_for_rescue
+  label: Prayer to divine maternal intercessor for rescue
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on rescue sought through a divine intercessor, fitting
+    divine intervention in human peril.
+  cautions: Maternal intercession may also relate to mother_goddess or sacred_exchange;
+    preserve intercessory and devotional specifics in evidence notes.
+  suggested_aliases:
+  - maternal divine intercession
+  - prayer for rescue through divine mother
+  - intercessory prayer for rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-to-four-directional-colored-winds
+  motif_id: prayer_to_four_directional_colored_winds
+  label: Prayer to four directional colored winds
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Prayer to directional wind powers is a ritual petition, broadly fitting
+    sacred exchange.
+  cautions: Culturally specific directional-color cosmology should not be flattened
+    without source review; may involve sacred geography, winds, healing, or ceremonial
+    order.
+  suggested_aliases:
+  - prayer to directional winds
+  - petition to four colored winds
+  - directional wind prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-to-lunar-inhabitant-before-cannibal-raid
+  motif_id: prayer_to_lunar_inhabitant_before_cannibal_raid
+  label: prayer to lunar inhabitant before cannibal raid
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines prayer, lunar being, and raid context; its core motif
+    cannot be determined from the label alone.
+  cautions: May be a passage-specific episode or culturally sensitive hostile-practice
+    framing; review source evidence before mapping to sacred_exchange, sacred_combat,
+    or divine_intervention.
+  suggested_aliases:
+  - prayer to lunar being before raid
+  - lunar inhabitant petition before raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-to-mythic-bird-divinity
+  motif_id: prayer_to_mythic_bird_divinity
+  label: Prayer to mythic bird divinity
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: A prayer directed to a divine being fits sacred exchange as petition
+    or ritual address.
+  cautions: The bird divinity may have specific cosmological, directional, healing,
+    or protective meaning; avoid reducing it to a generic animal or deity motif without
+    review.
+  suggested_aliases:
+  - petition to bird divinity
+  - prayer to mythic bird deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-to-nemesis-before-risky-utterance
+  motif_id: prayer_to_nemesis_before_risky_utterance
+  label: Prayer to Nemesis before risky utterance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The prayer is tied to a dangerous utterance, making sacred speech and
+    its consequences the functional center.
+  cautions: Could also index under sacred_exchange if the emphasis is petition to
+    a deity rather than speech-risk management.
+  suggested_aliases:
+  - protective prayer before risky speech
+  - prayer before dangerous utterance
+  - appeal to Nemesis before speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-to-stars-and-abundance-attributed-to-stars
+  motif_id: prayer_to_stars_and_abundance_attributed_to_stars
+  label: prayer to stars and abundance attributed to stars
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Abundance attributed to star powers after prayer fits sacred provision
+    or intervention through nonhuman powers.
+  cautions: Review whether stars function as deities, ancestors, omens, or natural
+    abundance signs; sacred_exchange may be a secondary mapping for the prayer act.
+  suggested_aliases:
+  - star prayer for abundance
+  - abundance granted by stars
+  - petition to stars for provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-to-sunset-land-goddess-in-need
+  motif_id: prayer_to_sunset_land_goddess_in_need
+  label: Prayer to Sunset Land goddess in need
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: A prayer in need is a petitionary sacred exchange, but the named goddess
+    and place-direction symbolism need context.
+  cautions: May involve specific sacred geography, directional cosmology, or rescue
+    intervention; preserve the local goddess identity and avoid genericizing.
+  suggested_aliases:
+  - petition to Sunset Land goddess
+  - prayer to goddess in need
+  - directional goddess prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-to-the-moon
+  motif_id: prayer_to_the_moon
+  label: Prayer to the Moon
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Prayer to the moon is a ritual address or petition, broadly fitting sacred
+    exchange.
+  cautions: The moon may be deity, ancestor, guide, witness, or cosmological being;
+    label alone is too broad for a more specific celestial motif.
+  suggested_aliases:
+  - lunar prayer
+  - petition to the moon
+  - moon prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-to-wakan-tanka-and-sacred-grant-of-horses
+  motif_id: prayer_to_wakan_tanka_and_sacred_grant_of_horses
+  label: Prayer to Wakan Tanka and sacred grant of horses
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: The granting of horses in response to sacred prayer fits divine provision
+    or intervention.
+  cautions: Culturally specific sacred terminology and horse-gift context require
+    source review; may also involve sacred_exchange, culture hero, or origin of a
+    social practice.
+  suggested_aliases:
+  - sacred grant of horses after prayer
+  - divine provision of horses
+  - prayer for horses to Wakan Tanka
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence petitionary-prayer motifs. Use sacred_exchange
+  for the act of prayer/petition and divine_intervention when the label includes rescue,
+  provision, or granted aid.
+- Several items involve culturally specific celestial, directional, or named sacred
+  beings; these should receive human review before broad normalization or cross-tradition
+  querying.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific prayer labels
+    need source-sensitive review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0963
+  input_sha256: ae3a436c73d539673856f8cf0505a8c3a0ce8ce2d97965ae7cd99f4289fc133e
+

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2818
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.slain-brother-parallel-across-heroic-traditions
+  motif_id: slain_brother_parallel_across_heroic_traditions
+  label: slain brother parallel across heroic traditions
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'parallel across heroic traditions' describes comparative
+    analysis rather than a motif in a source passage.
+  cautions: If the underlying passage actually concerns vengeance, lament, or kin-slaying,
+    index that source evidence separately under a narrative group.
+  suggested_aliases:
+  - heroic_tradition_parallel
+  - slain_brother_comparative_parallel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slain-enemy-mocked-as-failed-founder-or-land-claimant
+  motif_id: slain_enemy_mocked_as_failed_founder_or_land_claimant
+  label: slain enemy mocked as failed founder or land-claimant
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a combat aftermath scene where a slain opponent is mocked
+    over failed territorial or founding claims.
+  cautions: Single occurrence and highly contextual; if the focus is place-founding
+    etiology rather than combat taunt, cosmic_origin may be a secondary review target.
+  suggested_aliases:
+  - mockery_of_slain_enemy
+  - failed_founder_mocked_after_death
+  - slain_land_claimant_mocked
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slain-kin-motivate-warrior-vocation
+  motif_id: slain_kin_motivate_warrior_vocation
+  label: Slain kin motivate warrior vocation
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A death in the kin group motivates the figure's adoption of a warrior
+    role, fitting heroic-warrior vocation and martial duty.
+  cautions: Could instead belong under sacred_combat if the passage centers on feud
+    or vengeance rather than vocation; review cultural context carefully.
+  suggested_aliases:
+  - kin_death_motivates_warrior_calling
+  - slain_relative_inspires_warrior_path
+  - vengeance_for_slain_kin_as_warrior_call
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slain-monster-s-armor-becomes-amulets
+  motif_id: slain_monster_s_armor_becomes_amulets
+  label: Slain monster's armor becomes amulets
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: The slain monster's armor is transformed into protective amulets, making
+    the key function a power object or protective token.
+  cautions: Also touches monster-slaying and postmortem transformation; preserve the
+    monster-body origin as evidence detail.
+  suggested_aliases:
+  - monster_armor_amulets
+  - slain_monster_armor_as_protective_tokens
+  - monster_remains_become_amulets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slain-monster-s-blood-becomes-present-small-insects
+  motif_id: slain_monster_s_blood_becomes_present_small_insects
+  label: Slain monster’s blood becomes present small insects
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explains the present origin of a class of creatures from a
+    slain monster's blood, an etiological creation pattern.
+  cautions: If the passage emphasizes combat victory or monster remains rather than
+    origin explanation, sacred_combat or death_and_transformation may be secondary
+    mappings.
+  suggested_aliases:
+  - insects_from_slain_monster_blood
+  - monster_blood_etiology_of_insects
+  - small_insects_from_monster_blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slain-monster-s-body-becomes-useful-material
+  motif_id: slain_monster_s_body_becomes_useful_material
+  label: slain monster's body becomes useful material
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dead monster's body is transformed into usable material, centering
+    postmortem bodily transformation.
+  cautions: May overlap with primordial_sacrifice if the body creates world features,
+    or sacred_treasures if the material becomes a power object.
+  suggested_aliases:
+  - monster_body_transformed_into_material
+  - slain_monster_remains_become_useful_material
+  - monster_corpse_as_useful_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slaying-lust-as-an-inner-enemy
+  motif_id: slaying_lust_as_an_inner_enemy
+  label: Slaying lust as an inner enemy
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The combat language is metaphorical for inner discipline on a mystical
+    path, not literal warfare.
+  cautions: If the passage focuses on ego-dissolution specifically, annihilation_union
+    may be an additional narrower mapping.
+  suggested_aliases:
+  - inner_enemy_of_lust
+  - spiritual_combat_against_lust
+  - slaying_desire_as_inner_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.slaying-settled-by-compensation-award
+  motif_id: slaying_settled_by_compensation_award
+  label: slaying settled by compensation award
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A killing resolved through compensation concerns legal and social-order
+    repair rather than the combat itself.
+  cautions: Could also relate to covenant if the settlement establishes or restores
+    a binding peace; verify whether compensation is formal law, feud settlement, or
+    narrative detail.
+  suggested_aliases:
+  - blood_compensation_for_slaying
+  - killing_settled_by_compensation
+  - wergild_settlement_after_slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-contest-won-through-open-eyed-sleeping
+  motif_id: sleep_contest_won_through_open_eyed_sleeping
+  label: Sleep contest won through open-eyed sleeping
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes an unusual contest tactic, but its function could
+    be trickster deception, ordeal, magical sleep, or episode-specific detail.
+  cautions: Single occurrence; do not map to sacred_combat merely because it is a
+    contest without evidence of ritual warfare or sacred ordeal.
+  suggested_aliases:
+  - open_eyed_sleeping_wins_contest
+  - sleeping_with_open_eyes_as_contest_trick
+  - sleep_contest_deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-hero-attacked-and-awakened-by-failed-assault
+  motif_id: sleeping_hero_attacked_and_awakened_by_failed_assault
+  label: Sleeping hero attacked and awakened by failed assault
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The scene is a hostile assault on a hero that fails and triggers renewed
+    combat or defense.
+  cautions: May be too episode-specific; if invulnerability or divine protection causes
+    the failed assault, conditional_invulnerability_hidden_weakness or divine_intervention
+    may be better secondary groups.
+  suggested_aliases:
+  - failed_assault_on_sleeping_hero
+  - sleeping_hero_awakened_by_attack
+  - attack_on_sleeping_hero_fails
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and combat-adjacent; placements should preserve
+  whether the source emphasizes combat, legal settlement, etiological creation, or
+  postmortem transformation.
+- Avoid treating comparative phrases such as 'parallel across heroic traditions' as
+  source-level motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended especially
+    for culturally specific Native American and Sufi labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2818
+  input_sha256: 4fec308c6d0984bd222d04229ab4570bc1e8ad2d632a460801f2ffb2de0a26a0
+

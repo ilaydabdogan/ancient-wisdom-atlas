@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0056
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.captive-ritually-wounded-by-the-dead-man-s-kin-before-final-killing
+  motif_id: captive_ritually_wounded_by_the_dead_man_s_kin_before_final_killing
+  label: Captive ritually wounded by the dead man’s kin before final killing
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests vengeance, mortuary ritual, or execution practice,
+    but no existing death/ancestor group cleanly captures the full culturally specific
+    sequence.
+  cautions: Single occurrence and culturally sensitive violence/captive context; source
+    evidence is needed before mapping to sacrifice, divine_judgment, ancestor_rites,
+    or sacred_combat.
+  suggested_aliases:
+  - ritual_wounding_of_captive_before_execution
+  - kin_vengeance_before_final_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-spared-at-the-death-stake-by-intercession
+  motif_id: captive_spared_at_the_death_stake_by_intercession
+  label: Captive spared at the death stake by intercession
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: low
+  rationale: Intercession that averts killing resembles supplication, mercy, and pardon
+    patterns already grouped under covenant.
+  cautions: The death-stake setting is culturally specific and may instead belong
+    under sacred_combat, sacred_law, or a captive-adoption/kinship pattern if source
+    evidence supports that function.
+  suggested_aliases:
+  - intercession_spares_captive_from_execution
+  - captive_saved_from_death_by_supplication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captives-threatened-with-death-and-converted-into-saleable-property
+  motif_id: captives_threatened_with_death_and_converted_into_saleable_property
+  label: captives threatened with death and converted into saleable property
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads more like a social-historical captive status detail than a
+    symbolic death or afterlife motif.
+  cautions: Potentially sensitive enslavement/captive context; may be passage-specific
+    or ethnographic rather than useful for pattern queries. Human review should decide
+    whether to exclude or map under sacred_law/social order.
+  suggested_aliases:
+  - captives_transformed_into_property_under_death_threat
+  - death_threat_and_sale_of_captives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captor-confined-in-a-grave-like-pit
+  motif_id: captor_confined_in_a_grave_like_pit
+  label: Captor confined in a grave-like pit
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A grave-like pit functions as a death-like confinement or underworld-like
+    enclosure, fitting descent imagery at a symbolic level.
+  cautions: If the pit is only a practical trap or imprisonment scene without death/underworld
+    symbolism, treat as over-specific plot detail or review under trickster/conflict
+    instead.
+  suggested_aliases:
+  - grave_like_pit_confinement
+  - death_like_confinement_in_pit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.capture-followed-by-return-to-place-of-capture
+  motif_id: capture_followed_by_return_to_place_of_capture
+  label: capture followed by return to place of capture
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a generic narrative sequence without clear symbolic,
+    ritual, or death/afterlife function.
+  cautions: Could become meaningful if the return marks initiation, vengeance, or
+    restoration, but the label alone is too context-dependent for motif queries.
+  suggested_aliases:
+  - return_to_site_of_capture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.capture-of-the-soul-as-a-fortified-citadel
+  motif_id: capture_of_the_soul_as_a_fortified_citadel
+  label: capture of the soul as a fortified citadel
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core pattern is the soul being captured or constrained, even though
+    the fortified citadel image may be metaphorical.
+  cautions: If this is a philosophical metaphor rather than a narrative or ritual
+    soul-loss episode, sacred_knowledge or exclusion as commentary may be better.
+  suggested_aliases:
+  - captured_soul_as_citadel
+  - soul_confined_as_fortress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.careful-enclosure-and-return-of-sacred-objects
+  motif_id: careful_enclosure_and_return_of_sacred_objects
+  label: Careful enclosure and return of sacred objects
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on ritually handling and returning sacred objects,
+    matching power-object care and containment.
+  cautions: Could instead fit sacred_vessel if enclosure/container function is primary,
+    or sacred_law if the emphasis is ritual protocol rather than object power.
+  suggested_aliases:
+  - ritual_enclosure_of_sacred_objects
+  - return_of_sacred_objects_after_enclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.caregiving-linked-to-a-dead-monk-s-bowl-and-robes
+  motif_id: caregiving_linked_to_a_dead_monk_s_bowl_and_robes
+  label: Caregiving linked to a dead monk’s bowl and robes
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern relic-like objects, monastic inheritance, merit,
+    or narrative caregiving, but the motif function is unclear.
+  cautions: Single Buddhist monastic context; avoid flattening bowl and robes into
+    generic sacred_treasures unless they function as relics, authority tokens, or
+    ritual objects in the passage.
+  suggested_aliases:
+  - dead_monk_bowl_and_robes_linked_to_caregiving
+  - monastic_objects_after_death_and_caregiving
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.carpe-diem-drinking-before-absence-and-death
+  motif_id: carpe_diem_drinking_before_absence_and_death
+  label: carpe diem drinking before absence and death
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Wine or drinking as a response to mortality and impending absence is
+    already represented in sacred_substance aliases.
+  cautions: In Sufi material, wine may be literal, poetic, or mystical; if longing
+    for the divine beloved is primary, sacred_love or mystical_quest may be secondary.
+  suggested_aliases:
+  - drink_wine_before_absence_and_death
+  - wine_as_response_to_mortality_and_absence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.carrion-birds-as-destroyers-of-death-pollution
+  motif_id: carrion_birds_as_destroyers_of_death_pollution
+  label: Carrion birds as destroyers of death pollution
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns ritual management of death pollution, which fits sacred_law
+    and its purity/contagion children.
+  cautions: Zoroastrian funerary practice is culturally specific; if the passage emphasizes
+    disposal of the dead or ancestor rites rather than purity law, ancestor_rites
+    or heroic_funeral_rites may be secondary.
+  suggested_aliases:
+  - carrion_birds_remove_death_pollution
+  - funerary_birds_destroy_death_impurity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch involve captives, execution, and culturally specific
+  mortuary practices; source-level human review is recommended before broad indexing.
+- Single-occurrence social or ethnographic details should not be promoted to canonical
+  taxonomy motifs without recurrence across sources.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; preserve local cultural context and avoid treating
+    contextual captive/death practices as universal motifs without evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0056
+  input_sha256: fe1e0c816b832e5c6c3e23f3883274e1edd7f1b4c25336b0b63a6938ce453148
+

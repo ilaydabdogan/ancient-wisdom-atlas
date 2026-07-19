@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3258
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.communal-circular-hut-as-group-headquarters
+  motif_id: communal_circular_hut_as_group_headquarters
+  label: Communal circular hut as group headquarters
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A communal hut may be ritual space, social institution, or ethnographic
+    setting; the label alone does not show a symbolic motif.
+  cautions: Single occurrence and culturally specific spatial detail; avoid forcing
+    into world_center or sacred_law without evidence of sacred-center or ritual-order
+    function.
+  suggested_aliases:
+  - communal hut as headquarters
+  - circular meeting hut
+  - group headquarters hut
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - world_center
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-complaint-followed-by-authoritative-rebuke
+  motif_id: communal_complaint_followed_by_authoritative_rebuke
+  label: communal complaint followed by authoritative rebuke
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A community complaint answered by authoritative correction fits regulation
+    of social or monastic order.
+  cautions: Could be a passage-level institutional procedure rather than a reusable
+    motif; review whether rebuke has sacred/legal force.
+  suggested_aliases:
+  - authoritative rebuke of communal complaint
+  - community complaint corrected by authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-condolence-through-touching-sorrow
+  motif_id: communal_condolence_through_touching_sorrow
+  label: communal condolence through touching sorrow
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a collective grief practice, fitting mourning and
+    condolence rituals.
+  cautions: Preserve the local gesture or idiom; if it is only a translation artifact,
+    keep as evidence detail rather than canonical child.
+  suggested_aliases:
+  - communal condolence gesture
+  - collective condolence through touch
+  - touching sorrow in mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-confession-and-penance
+  motif_id: communal_confession_and_penance
+  label: communal confession and penance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Communal confession and penance are disciplinary or ritual acts restoring
+    sacred/social order.
+  cautions: May also relate to divine_judgment if framed as moral reckoning or to
+    sacrifice if penance is an offering or renunciation.
+  suggested_aliases:
+  - communal penance
+  - collective confession and penance
+  - monastic confession and penance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-confession-averting-famine-and-disaster
+  motif_id: communal_confession_averting_famine_and_disaster
+  label: communal confession averting famine and disaster
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Confession averting famine or disaster implies communal moral repair
+    before sacred or cosmic consequences.
+  cautions: Culturally sensitive; confirm whether disaster is framed as moral pollution,
+    spirit offense, or ritual imbalance. Could also map to sacred_law or sacrifice.
+  suggested_aliases:
+  - collective confession averts disaster
+  - communal confession averts famine
+  - confession repairs communal disorder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacrifice
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-confession-leading-to-absolution
+  motif_id: communal_confession_leading_to_absolution
+  label: communal confession leading to absolution
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Communal confession followed by absolution fits ritual/legal restoration
+    of a disciplined community.
+  cautions: If absolution is framed as divine forgiveness or karmic reckoning, divine_judgment
+    may be a secondary mapping.
+  suggested_aliases:
+  - collective confession and absolution
+  - communal absolution after confession
+  - confession leading to communal restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-confession-through-recited-offence-list
+  motif_id: communal_confession_through_recited_offence_list
+  label: Communal confession through recited offence list
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A recited offence list used for communal confession is a formal disciplinary
+    or purity-law procedure.
+  cautions: Highly specific Buddhist institutional practice; preserve recitation/list
+    detail as evidence rather than overgeneralizing.
+  suggested_aliases:
+  - recited offence list confession
+  - communal confession by offence recitation
+  - formal confession through offence list
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-conflict-resolved-by-authorized-adjudication
+  motif_id: communal_conflict_resolved_by_authorized_adjudication
+  label: Communal conflict resolved by authorized adjudication
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Authorized adjudication resolving community conflict fits sacred law,
+    institutional order, and social repair.
+  cautions: May be too procedural unless the passage marks the adjudication as ritually
+    or doctrinally significant.
+  suggested_aliases:
+  - authorized adjudication of communal conflict
+  - communal dispute settled by authority
+  - formal adjudication restores community order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-consent-indicated-by-silence
+  motif_id: communal_consent_indicated_by_silence
+  label: communal consent indicated by silence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Silence functioning as consent is a formal rule for communal decision-making
+    and order.
+  cautions: Likely an institutional/legal procedure rather than mythic narrative motif;
+    review before adding as a durable child.
+  suggested_aliases:
+  - silence as communal consent
+  - consent by silence
+  - silent assent in communal procedure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-construction-of-ceremonial-shelter
+  motif_id: communal_construction_of_ceremonial_shelter
+  label: communal construction of ceremonial shelter
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A ceremonial shelter may be sacred space, ritual craft, or local ethnographic
+    detail; function is unclear from the label.
+  cautions: Culturally sensitive and single occurrence; do not collapse into sacred_craft
+    or world_center unless the shelter is ritually or cosmologically central.
+  suggested_aliases:
+  - collective building of ceremonial shelter
+  - communal ceremonial shelter construction
+  - ritual shelter built by community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - world_center
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be procedural or institutional communal-order
+  motifs, especially Buddhist disciplinary practices. Sacred_law is the best broad
+  review group, but many should remain granular evidence rather than become canonical
+  children.
+- Communal confession labels may eventually warrant a reviewed subgroup for ritual
+  confession/communal penance if they recur across traditions, but existing sacred_law/divine_judgment
+  groups are sufficient for provisional placement.
+- Spatial/shelter labels need source context before mapping to sacred space, sacred
+  craft, or world-center functions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed for culturally
+    specific Andamanese, Inuit, Malagasy, and Native American Plains ritual/social
+    practices.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3258
+  input_sha256: bd87ee88008612ebcd2442ac0041c173c5c938e5755511ebe5f94671aa7fdcdd
+

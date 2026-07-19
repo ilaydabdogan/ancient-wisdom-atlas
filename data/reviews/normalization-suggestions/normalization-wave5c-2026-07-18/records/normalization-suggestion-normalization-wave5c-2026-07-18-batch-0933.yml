@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0933
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ninefold-ritual-equipment-and-action
+  motif_id: ninefold_ritual_equipment_and_action
+  label: Ninefold ritual equipment and action
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label signals ritual structure, but the ninefold detail and equipment/action
+    combination are too contextual to place without passage evidence.
+  cautions: Could fit sacrifice, sacred_law, sacred_exchange, sacred_time, or be an
+    over-specific ritual inventory; verify whether ninefold pattern recurs.
+  suggested_aliases:
+  - ninefold_ritual_equipment
+  - ninefold_ritual_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ninefold-ritual-performance
+  motif_id: ninefold_ritual_performance
+  label: Ninefold ritual performance
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an abstract ritual-pattern descriptor and does not specify
+    function such as sacrifice, calendrical rite, law, or social order.
+  cautions: May be a passage-specific numerological or ceremonial detail; avoid mapping
+    solely from the number nine.
+  suggested_aliases:
+  - ninefold_ceremonial_performance
+  - ninefold_ritual_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.no-contact-cleansing-across-a-ritual-boundary
+  motif_id: no_contact_cleansing_across_a_ritual_boundary
+  label: no-contact cleansing across a ritual boundary
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A cleansing rule across a ritual boundary fits purity regulation and
+    apotropaic or contamination-control practice under sacred_law.
+  cautions: If the source emphasizes expelling impurity through an offering or substitute,
+    sacrifice or ritual_expulsion may be a secondary relation.
+  suggested_aliases:
+  - contactless_ritual_cleansing
+  - ritual_boundary_cleansing_without_contact
+  - purification_across_a_ritual_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.no-retreat-warrior-vow
+  motif_id: no_retreat_warrior_vow
+  label: no-retreat warrior vow
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vow not to retreat is a warrior-duty and heroic combat pattern, best
+    held under divine_warrior rather than general ritual sacrifice.
+  cautions: If the vow itself is ritually binding or taboo-like, curse_blessing_speech
+    or sacred_law may be relevant; culturally specific warrior society context should
+    be reviewed.
+  suggested_aliases:
+  - warrior_vow_not_to_retreat
+  - no_retreat_vow_in_battle
+  - heroic_no_retreat_vow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.noble-education-through-seasonal-ritual-examination
+  motif_id: noble_education_through_seasonal_ritual_examination
+  label: noble education through seasonal ritual examination
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The recurring seasonal examination structure is most clearly a ritualized
+    ordering of education by sacred or ceremonial time.
+  cautions: Could also support sacred_law or royal_legitimacy if the passage emphasizes
+    social hierarchy, office, or ethical governance rather than seasonal timing.
+  suggested_aliases:
+  - seasonal_ritual_examination_of_nobles
+  - noble_education_by_ritual_calendar
+  - seasonal_ceremonial_education
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nocturnal-chthonic-sacrifice-into-an-earth-trench
+  motif_id: nocturnal_chthonic_sacrifice_into_an_earth_trench
+  label: nocturnal chthonic sacrifice into an earth trench
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The core function is an offering to chthonic powers, with nocturnal timing
+    and trench setting as ritual specifications.
+  cautions: Preserve the chthonic and earth-trench details as evidence; do not map
+    to descent unless the rite includes underworld journey or contact.
+  suggested_aliases:
+  - chthonic_sacrifice_into_earth_trench
+  - night_sacrifice_to_chthonic_powers
+  - earth_trench_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nocturnal-goddess-in-chariot-with-stars
+  motif_id: nocturnal_goddess_in_chariot_with_stars
+  label: Nocturnal goddess in chariot with stars
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes divine iconography rather than a clear ritual or
+    narrative function.
+  cautions: May fit theophany, sacred_fire/celestial light, mother_goddess, or be
+    a deity-specific visual attribute; source context is needed before indexing as
+    a motif.
+  suggested_aliases:
+  - night_goddess_in_star_chariot
+  - starry_nocturnal_goddess
+  - goddess_chariot_with_stars
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.noise-used-in-expulsion-rite
+  motif_id: noise_used_in_expulsion_rite
+  label: noise used in expulsion rite
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The taxonomy already folds communal expulsion, exorcism, and boundary-sealing
+    variants under sacrifice; noise is a technique within that expulsion complex.
+  cautions: If sound itself is the supernatural power, enchanting_music or storytelling_as_power
+    may be secondary; otherwise keep the noise detail granular.
+  suggested_aliases:
+  - ritual_noise_for_expulsion
+  - apotropaic_noise_in_expulsion_rite
+  - noise_drives_out_harmful_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-grudging-divine-self-giving
+  motif_id: non_grudging_divine_self_giving
+  label: non-grudging divine self-giving
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as theological or philosophical characterization rather
+    than a concrete recurring motif.
+  cautions: Could relate to sacred_exchange, sacrifice, divine_intervention, or emanation
+    theology, but may be commentary rather than pattern-query material.
+  suggested_aliases:
+  - generous_divine_self_giving
+  - ungrudging_divine_gift
+  - divine_self_giving_without_envy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.non-human-rescuer-obtains-a-sacred-implement
+  motif_id: non_human_rescuer_obtains_a_sacred_implement
+  label: non-human rescuer obtains a sacred implement
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on acquiring a sacred implement with power or ritual
+    significance, which fits sacred_treasures despite the rescuer's non-human role.
+  cautions: If the non-human rescuer is the main recurring feature, divine_intervention
+    or animal_helpers may be a secondary mapping; confirm the implement is more than
+    a passage prop.
+  suggested_aliases:
+  - sacred_implement_obtained_by_non_human_rescuer
+  - nonhuman_helper_acquires_sacred_object
+  - rescuer_obtains_sacred_implement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence ritual or iconographic labels;
+  preserve granular evidence but avoid promoting number-specific or deity-specific
+  phrasing without recurrence.
+- The review bucket is ritual/sacrifice, but some labels fit combat, sacred time,
+  sacred law, or sacred treasures more directly than sacrifice.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should check passage
+    evidence for over-specific ritual details and culturally sensitive context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0933
+  input_sha256: 5247ed0be6813f8af980f139e71b16cdd75fe9dc27f32e5c1f3d066e0383d5dc
+

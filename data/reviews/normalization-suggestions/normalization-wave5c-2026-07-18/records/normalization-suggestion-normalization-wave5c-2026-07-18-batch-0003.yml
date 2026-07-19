@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0003
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.abram-birth-renaming-trials-death-sequence
+  motif_id: abram_birth_renaming_trials_death_sequence
+  label: Abram birth-renaming-trials-death sequence
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a named figure's whole biographical sequence rather
+    than a reusable motif element.
+  cautions: If individual passage evidence isolates birth omen, renaming, trials,
+    or death, split into narrower motifs under miraculous_child, initiation, covenant,
+    or death-related groups.
+  suggested_aliases:
+  - abram_life_sequence
+  - named_patriarch_birth_trials_death_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absence-of-cosmic-and-afterlife-geography-before-creation
+  motif_id: absence_of_cosmic_and_afterlife_geography_before_creation
+  label: absence of cosmic and afterlife geography before creation
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif concerns pre-creation non-differentiation before cosmic or
+    afterlife realms exist.
+  cautions: Do not map to afterlife_passage unless the passage gives a navigable postmortem
+    geography; this may be theological negation rather than narrative motif.
+  suggested_aliases:
+  - pre_creation_absence_of_cosmic_geography
+  - undifferentiated_pre_creation_state
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absence-of-garden-or-fertility-spirits
+  motif_id: absence_of_garden_or_fertility_spirits
+  label: absence of garden or fertility spirits
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is framed as an absence and could be ethnographic comparison
+    rather than a positive motif.
+  cautions: If the source contrasts missing fertility spirits with another spirit
+    category, review under divine_intervention, sacred_time, or nature/fertility imagery;
+    otherwise exclude as a negative observation.
+  suggested_aliases:
+  - lack_of_fertility_spirits
+  - absence_of_garden_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absence-or-restriction-of-rites-for-marked-categories-of-death
+  motif_id: absence_or_restriction_of_rites_for_marked_categories_of_death
+  label: absence or restriction of rites for marked categories of death
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Restricted or denied death rites fits the existing funeral-rites group,
+    especially its denied-burial children.
+  cautions: This may be a mortuary taboo or social classification rather than heroic
+    memorialization; ancestor_rites or sacred_law may be secondary if ritual obligations
+    are central.
+  suggested_aliases:
+  - restricted_funeral_rites_for_marked_deaths
+  - denial_of_rites_for_certain_deaths
+  - marked_death_categories_with_restricted_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absence-or-uncertainty-of-hell-in-pre-christian-irish-tradition
+  motif_id: absence_or_uncertainty_of_hell_in_pre_christian_irish_tradition
+  label: Absence or uncertainty of hell in pre-Christian Irish tradition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a scholarly claim about the presence or absence of a doctrinal
+    concept, not a narrative motif.
+  cautions: Preserve as interpretive provenance if needed; do not use as evidence
+    for afterlife geography without source passages describing an otherworld or hell.
+  suggested_aliases:
+  - uncertainty_of_hell_in_pre_christian_irish_tradition
+  - absence_of_hell_as_scholarly_observation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absent-spirit-explaining-madness
+  motif_id: absent_spirit_explaining_madness
+  label: Absent spirit explaining madness
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: medium
+  rationale: Madness explained by an absent spirit resembles soul-loss or displaced
+    vital-force illness.
+  cautions: Confirm whether the absent spirit is the person's own soul, a tutelary
+    spirit, or an afflicting entity; divine_intervention or sacred_law may fit if
+    spirit agency or ritual treatment dominates.
+  suggested_aliases:
+  - madness_caused_by_absent_spirit
+  - spirit_absence_as_cause_of_madness
+  - soul_absence_causing_madness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abstinence-from-an-animal-marked-by-death-of-mother-and-offspring
+  motif_id: abstinence_from_an_animal_marked_by_death_of_mother_and_offspring
+  label: abstinence from an animal marked by death of mother and offspring
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Abstaining from an animal because of a death-mark is a taboo or ritual
+    prohibition pattern.
+  cautions: The label is culturally specific and single-occurrence; review whether
+    the death event is etiological, ancestral, pollution-related, or dietary law before
+    final indexing.
+  suggested_aliases:
+  - animal_taboo_based_on_mother_and_offspring_death
+  - abstinence_from_death_marked_animal
+  - death_marked_animal_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.acceptance-of-death-by-sword
+  motif_id: acceptance_of_death_by_sword
+  label: acceptance of death by sword
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: low
+  rationale: Acceptance of a specific death may indicate submission to destiny or
+    an assigned death.
+  cautions: Could instead be heroic honor, suicide, execution, martyrdom, or narrative
+    detail; source evidence is needed before treating fate as the main function.
+  suggested_aliases:
+  - accepted_sword_death
+  - willing_acceptance_of_death_by_sword
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-death-and-burial-of-the-helper
+  motif_id: accidental_death_and_burial_of_the_helper
+  label: Accidental death and burial of the helper
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines an episode-specific death cause, role, and burial
+    outcome without clear recurring function.
+  cautions: If the burial honors a companion, map to heroic_funeral_rites; if the
+    helper's death transforms the plot or landscape, death_and_transformation or cosmic_origin
+    may fit. Otherwise preserve as evidence detail.
+  suggested_aliases:
+  - helper_accidentally_dies_and_is_buried
+  - accidental_death_of_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-death-causing-fear-of-retaliation
+  motif_id: accidental_death_causing_fear_of_retaliation
+  label: accidental death causing fear of retaliation
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes social consequence after accidental death rather
+    than a clearly mapped death or afterlife motif.
+  cautions: Could belong under sacred_law, covenant, betrayal/violated trust, or vengeance
+    if the passage emphasizes kin liability, taboo, or retaliatory obligation; source
+    context is required.
+  suggested_aliases:
+  - fear_of_retaliation_after_accidental_death
+  - accidental_killing_and_retaliation_fear
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are negative observations or named-sequence summaries;
+  these should not be promoted without passage-level evidence.
+- For death-rite items, consider whether the operative function is funerary memorialization,
+  ancestor care, ritual taboo, or social-law classification before final mapping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence items require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0003
+  input_sha256: f8859d45daf661f094dc4fb616ed97c450e9905edb76ba65d7c41c14c086ddc3
+

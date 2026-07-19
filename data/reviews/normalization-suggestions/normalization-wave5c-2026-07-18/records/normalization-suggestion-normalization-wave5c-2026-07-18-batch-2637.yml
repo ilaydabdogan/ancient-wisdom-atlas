@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2637
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.collective-pledge-inaugurating-a-war-expedition
+  motif_id: collective_pledge_inaugurating_a_war_expedition
+  label: Collective pledge inaugurating a war expedition
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A pledge that formally begins a war expedition fits warfare as ritually
+    or socially charged combat.
+  cautions: Single occurrence; if the pledge is mainly oath-binding rather than warfare
+    structure, curse_blessing_speech or covenant may be secondary.
+  suggested_aliases:
+  - war_expedition_pledge
+  - collective_war_pledge
+  - pledge_before_war_expedition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-revenge-by-substitution
+  motif_id: collective_revenge_by_substitution
+  label: Collective revenge by substitution
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could mean substitute victim vengeance, scapegoat transfer,
+    feud logic, or retaliatory justice.
+  cautions: Needs source evidence; culturally sensitive and too ambiguous to choose
+    between sacred_combat, sacrifice, divine_judgment, or sacred_law.
+  suggested_aliases:
+  - substitute_victim_revenge
+  - revenge_through_substitution
+  - collective_substitutional_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-warrior-attrition-against-a-many-armed-monster
+  motif_id: collective_warrior_attrition_against_a_many_armed_monster
+  label: collective warrior attrition against a many-armed monster
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Warriors fighting a monstrous adversary belongs to heroic or sacred combat
+    against chaos-like beings.
+  cautions: Many-armed and attrition details are episode-specific; do not infer cosmic
+    order unless passage supports it.
+  suggested_aliases:
+  - warriors_against_many_armed_monster
+  - collective_combat_against_monster
+  - monster_combat_by_warrior_band
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-wounding-as-shared-participation
+  motif_id: collective_wounding_as_shared_participation
+  label: Collective wounding as shared participation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Shared wounding may indicate ritual participation, oath, sacrifice, battle
+    honor, or legal complicity.
+  cautions: Source context is required before mapping; label is abstract and may be
+    a commentary artifact.
+  suggested_aliases:
+  - shared_wounding
+  - collective_participation_by_wounding
+  - wounding_as_communal_participation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-among-shamans-through-supernatural-helpers
+  motif_id: combat_among_shamans_through_supernatural_helpers
+  label: Combat among shamans through supernatural helpers
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is combat mediated by supernatural helper beings or
+    powers acting in human affairs.
+  cautions: Could also fit sacred_combat if martial contest is primary, or sacred_knowledge
+    if shamanic technique is emphasized; review culturally specific terminology carefully.
+  suggested_aliases:
+  - shamanic_combat_through_spirit_helpers
+  - supernatural_helpers_in_shamanic_combat
+  - spirit_helper_combat_between_shamans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-appointed-at-a-ford
+  motif_id: combat_appointed_at_a_ford
+  label: Combat appointed at a ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: alias
+  confidence: high
+  rationale: Ford combat is already represented by combat_at_a_ford and related sacred_combat
+    aliases.
+  cautions: If the ford functions mainly as a threshold encounter rather than a duel
+    site, threshold_guardian may be a secondary relation.
+  suggested_aliases:
+  - appointed_ford_combat
+  - combat_at_a_ford
+  - ford_duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-avoided-by-refusal-and-reinforcement
+  motif_id: combat_avoided_by_refusal_and_reinforcement
+  label: combat avoided by refusal and reinforcement
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a tactical plot outcome rather than a durable symbolic
+    or narrative motif.
+  cautions: If this recurs as formal combat refusal, truce-making, or oath-bound avoidance,
+    it could be reviewed under sacred_combat or covenant.
+  suggested_aliases:
+  - combat_refusal_with_reinforcement
+  - battle_avoided_by_refusal
+  - refusal_and_reinforcement_avoid_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-between-friends
+  motif_id: combat_between_friends
+  label: combat between friends
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: alias
+  confidence: high
+  rationale: Existing aliases cover friend-against-friend combat and former companions
+    forced into duel.
+  cautions: If obligation or tragic lament is central, covenant or lament_and_mourning
+    may be useful secondary mappings.
+  suggested_aliases:
+  - friend_against_friend_combat
+  - friend_versus_friend_duel
+  - combat_between_companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-between-friends-under-competing-obligations
+  motif_id: combat_between_friends_under_competing_obligations
+  label: Combat between friends under competing obligations
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Forced or obligation-bound combat between companions is already in the
+    sacred_combat alias cluster.
+  cautions: The competing-obligations aspect may also implicate covenant, sacred_law,
+    or tragic recognition depending on the passage.
+  suggested_aliases:
+  - friend_against_friend_combat_under_obligation
+  - compelled_combat_between_friends
+  - forced_duel_between_comrades
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-between-remembered-companions
+  motif_id: combat_between_remembered_companions
+  label: combat between remembered companions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: alias
+  confidence: medium
+  rationale: Combat between companions matches existing friend/comrade duel aliases
+    under sacred_combat.
+  cautions: The word remembered is ambiguous; if it refers to memorial speech or retrospective
+    lament, review under lament_and_mourning instead.
+  suggested_aliases:
+  - combat_between_companions
+  - former_companions_forced_into_combat
+  - friend_against_friend_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence conflict motifs; preserve episode-specific
+  details as evidence notes rather than promoting new taxonomy families.
+- Friend/companion combat and ford combat are already well represented in sacred_combat
+  aliases and should generally be merged there unless source evidence emphasizes mourning,
+  oath, or threshold functions.
+- Ambiguous substitution, collective wounding, and shamanic-helper combat need careful
+  human review for cultural specificity and source context.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2637
+  input_sha256: 5f5e82a9f48e7cf51e5e8b5e59a30c2ea854daae0945b5072d5b75e2e524e1c5
+

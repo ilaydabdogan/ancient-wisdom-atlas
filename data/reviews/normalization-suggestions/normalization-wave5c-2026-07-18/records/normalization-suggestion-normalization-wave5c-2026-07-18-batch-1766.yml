@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1766
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bird-son-avenges-harmed-mother
+  motif_id: bird_son_avenges_harmed_mother
+  label: Bird son avenges harmed mother
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines animal kinship, filial vengeance, and family harm; no single
+    existing group captures the structure from label alone.
+  cautions: Could fit sacred_combat, divine_judgment, sacred_law/filial duty, shapeshifter,
+    or an animal-kinship motif depending on source evidence. Single occurrence and
+    culturally specific.
+  suggested_aliases:
+  - avian_child_avenges_mother
+  - animal_son_avenges_mother
+  - filial_vengeance_by_bird_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bird-spouse-marriage
+  motif_id: bird_spouse_marriage
+  label: bird spouse marriage
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A bird spouse may indicate animal marriage, shapeshifting spouse, otherworld
+    spouse, or sacred love, but the function is unclear.
+  cautions: Do not collapse into sacred_love or shapeshifter without evidence that
+    the spouse is transformed, divine, tabooed, or otherworldly. Single culturally
+    specific occurrence.
+  suggested_aliases:
+  - bird_spouse
+  - avian_spouse_marriage
+  - animal_spouse_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-adjacent-action-causing-infant-affliction
+  motif_id: birth_adjacent_action_causing_infant_affliction
+  label: Birth-adjacent action causing infant affliction
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An action near birth causing infant harm suggests taboo, ritual prohibition,
+    or purity-danger logic around childbirth.
+  cautions: Could instead be a birth omen, medical/ethnographic note, or spirit-affliction
+    motif; verify whether the passage states a normative prohibition or causal ritual
+    rule.
+  suggested_aliases:
+  - childbirth_taboo_causes_infant_affliction
+  - birth_ritual_violation_harms_infant
+  - infant_affliction_from_birth_related_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-and-naming-of-a-royal-child
+  motif_id: birth_and_naming_of_a_royal_child
+  label: birth and naming of a royal child
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: narrower_than
+  confidence: medium
+  rationale: Royal birth and naming can mark a child’s status, destiny, or lineage
+    within the sacred-birth/miraculous-child complex.
+  cautions: If the passage only records ordinary genealogy or naming without auspicious
+    signs, threat, prophecy, or legitimacy function, it may be too specific for pattern
+    queries or belong under royal_legitimacy.
+  suggested_aliases:
+  - royal_child_birth_and_naming
+  - naming_of_a_royal_child
+  - royal_birth_naming_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-before-metamorphosis
+  motif_id: birth_before_metamorphosis
+  label: Birth before metamorphosis
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label’s distinctive event is metamorphosis, with birth functioning
+    as the prior narrative condition.
+  cautions: If birth itself is sacred or genealogically important, miraculous_child
+    may be a secondary mapping. If the phrase is only an episode sequencing note,
+    it may be over-specific.
+  suggested_aliases:
+  - birth_preceding_metamorphosis
+  - post_birth_metamorphosis
+  - birth_followed_by_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-day-orientation-of-domestic-space
+  motif_id: birth_day_orientation_of_domestic_space
+  label: Birth-day orientation of domestic space
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests household spatial orientation governed by birth timing,
+    but its ritual or cosmological function is unclear.
+  cautions: Could fit sacred_law, sacred_time, axis_mundi/domestic sacred space, or
+    be an ethnographic detail too specific for broad motif queries.
+  suggested_aliases:
+  - birth_day_domestic_orientation
+  - house_orientation_by_birth_day
+  - birth_timing_governs_household_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-father-seeks-to-recover-adopted-captive-with-horses
+  motif_id: birth_father_seeks_to_recover_adopted_captive_with_horses
+  label: birth father seeks to recover adopted captive with horses
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a highly contextual kinship-recovery episode involving adoption,
+    captivity, and exchange/travel rather than a clear canonical motif.
+  cautions: May fit stolen_beloved, recognition/identity, sacred_exchange, hero_journey,
+    or kinship restitution depending on evidence. Preserve as passage detail unless
+    recurring.
+  suggested_aliases:
+  - birth_parent_recovers_adopted_captive
+  - father_seeks_recovery_of_captive_child
+  - kin_recovery_of_adopted_captive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-feast-food-sent-to-an-external-group
+  motif_id: birth_feast_food_sent_to_an_external_group
+  label: Birth-feast food sent to an external group
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food distribution at a birth feast to another group functions as ritualized
+    social reciprocity and exchange.
+  cautions: If the passage emphasizes childbirth rite or status marking more than
+    exchange, miraculous_child or sacred_law may be secondary. Single occurrence may
+    be local practice detail.
+  suggested_aliases:
+  - birth_feast_food_exchange
+  - birth_feast_distribution_to_outsiders
+  - food_sent_to_external_group_at_birth_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-foretold-by-birds
+  motif_id: birth_foretold_by_birds
+  label: birth foretold by birds
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: high
+  rationale: An announced or foretold birth is a standard sacred-birth marker; birds
+    supply the omen or prophetic medium.
+  cautions: Could also support prophecy_divination or dream_and_vision if the bird
+    sign is treated as systematic omen-reading rather than child destiny.
+  suggested_aliases:
+  - bird_omen_foretells_birth
+  - birds_announce_birth
+  - avian_prophecy_of_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-hunting-charm-using-whale-carving
+  motif_id: birth_hunting_charm_using_whale_carving
+  label: Birth hunting charm using whale carving
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label blends birth context, hunting magic, charm use, and whale carving;
+    the dominant motif is unclear.
+  cautions: May fit sacred_treasures as a charm/power object, sacred_law as ritual
+    practice, sacred_craft as carved object, or sacred_exchange if hunting success
+    is ritually mediated. Culturally specific and single occurrence.
+  suggested_aliases:
+  - whale_carving_birth_hunting_charm
+  - hunting_charm_with_whale_carving
+  - birth_related_hunting_charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several labels in this batch are single-occurrence, culturally specific, and combine
+  kinship, animal, birth, and ritual elements; source evidence should determine final
+  placement.
+- Consider whether recurring animal-spouse or animal-kinship labels eventually warrant
+  a dedicated review group, but this batch alone does not justify promotion.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 1766; human review
+    needed for ambiguous birth, animal-spouse, and culturally specific ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1766
+  input_sha256: d7c5789fd9113ece08ccacdfd59ee5e2ac1f72cc825f5f2ea13b4abdb68a582f
+

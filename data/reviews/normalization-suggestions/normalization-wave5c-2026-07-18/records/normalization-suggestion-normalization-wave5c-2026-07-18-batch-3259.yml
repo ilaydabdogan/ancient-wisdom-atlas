@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3259
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.communal-contribution-completes-the-settlement-price
+  motif_id: communal_contribution_completes_the_settlement_price
+  label: Communal contribution completes the settlement price
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A communal payment completing a settlement price fits reciprocal compensation
+    and repair of social bonds.
+  cautions: Could also involve sacred_law or covenant if the passage emphasizes legal
+    obligation more than exchange; single occurrence.
+  suggested_aliases:
+  - communal_payment_of_compensation
+  - collective_contribution_to_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-correction-apology-and-pardon
+  motif_id: communal_correction_apology_and_pardon
+  label: Communal correction, apology, and pardon
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Correction, apology, and pardon repair a communal moral bond, aligning
+    with covenantal mercy and restoration.
+  cautions: If framed mainly as ethical discipline or institutional order, sacred_law
+    may be a better primary group; source context needed.
+  suggested_aliases:
+  - communal_apology_and_pardon
+  - communal_correction_and_forgiveness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-correction-of-improper-individual-possession
+  motif_id: communal_correction_of_improper_individual_possession
+  label: Communal correction of improper individual possession
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A community correcting improper possession concerns rule-governed ethical
+    order and property discipline.
+  cautions: May be a monastic legal detail rather than a reusable motif; review whether
+    it is narrative pattern or vinaya/institutional rule.
+  suggested_aliases:
+  - communal_correction_of_improper_property_holding
+  - improper_possession_corrected_by_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-custody-and-redistribution-of-monastic-property
+  motif_id: communal_custody_and_redistribution_of_monastic_property
+  label: communal custody and redistribution of monastic property
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Communal management and redistribution of monastic property fits sacred
+    social order and institutional ethical regulation.
+  cautions: Could be too specific or legal-administrative for pattern queries if no
+    symbolic or narrative function is present.
+  suggested_aliases:
+  - monastic_property_held_in_common
+  - communal_redistribution_of_monastic_goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-dance-around-raised-scalp-pole
+  motif_id: communal_dance_around_raised_scalp_pole
+  label: communal dance around raised scalp pole
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines communal dance, war trophy imagery, and a pole/ritual
+    center, but the primary function is unclear.
+  cautions: Culturally sensitive and violence-specific; review source evidence before
+    mapping to sacred_combat, sacrifice, axis_mundi, or excluding as ethnographic
+    detail.
+  suggested_aliases:
+  - victory_dance_around_scalp_pole
+  - communal_war_trophy_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-dance-coordinated-by-music-despite-individual-movement
+  motif_id: communal_dance_coordinated_by_music_despite_individual_movement
+  label: communal dance coordinated by music despite individual movement
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: low
+  rationale: Music organizes collective movement, broadly fitting sound as coordinating
+    communal force.
+  cautions: May be an ethnographic dance description rather than supernatural or sacred
+    music; exclude if merely descriptive performance notation.
+  suggested_aliases:
+  - music_coordinated_communal_dance
+  - communal_dance_ordered_by_music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-dance-defined-by-characteristic-foot-movement
+  motif_id: communal_dance_defined_by_characteristic_foot_movement
+  label: communal dance defined by characteristic foot movement
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a performance-style feature rather than a symbolic
+    or narrative motif.
+  cautions: Preserve as ethnographic evidence if needed; remap only if the foot movement
+    has explicit ritual, mythic, or transformative meaning.
+  suggested_aliases:
+  - dance_defined_by_footwork
+  - characteristic_communal_dance_step
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-dance-lodge
+  motif_id: communal_dance_lodge
+  label: Communal dance lodge
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A dance lodge may function as ritual space, sacred center, initiation
+    setting, or simply a place label.
+  cautions: Culturally specific ritual architecture requires source review; avoid
+    forcing into axis_mundi or initiation without evidence of sacred-center or ordeal
+    function.
+  suggested_aliases:
+  - ritual_dance_lodge
+  - communal_ceremonial_lodge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-dance-turned-into-attack
+  motif_id: communal_dance_turned_into_attack
+  label: communal dance turned into attack
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ritualized communal dance becoming an attack fits warfare emerging
+    through ceremonial or strategic performance.
+  cautions: Could also be trickster/deception if the dance disguises hostile intent;
+    source context needed for whether ritual or stratagem is primary.
+  suggested_aliases:
+  - dance_transformed_into_attack
+  - ritual_dance_as_attack_stratagem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-dance-with-percussive-body-gestures
+  motif_id: communal_dance_with_percussive_body_gestures
+  label: communal dance with percussive body gestures
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label records choreographic/performance technique rather than a symbolic
+    motif.
+  cautions: If the gestures invoke spirits, mark ritual status, or produce sacred
+    sound effects, reassess under enchanting_music or sacred_law.
+  suggested_aliases:
+  - percussive_body_gesture_dance
+  - communal_dance_with_body_percussion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several communal-dance labels appear to be ethnographic performance descriptors;
+  only map them when source evidence shows ritual, mythic, transformative, or combat
+  function.
+- For culturally specific Native American ritual or war-related dance labels, human
+  review should confirm respectful wording and avoid overgeneralization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several single-occurrence labels may be passage
+    artifacts or ethnographic details rather than motif-query candidates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3259
+  input_sha256: a23677fa7adb858622c030e5788499a14d425f10d8d02d12401a7723d7b6e560
+

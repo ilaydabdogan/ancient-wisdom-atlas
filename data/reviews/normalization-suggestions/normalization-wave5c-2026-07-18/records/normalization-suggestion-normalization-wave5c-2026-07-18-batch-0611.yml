@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0611
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ruinous-gambling-causing-kinship-rupture
+  motif_id: ruinous_gambling_causing_kinship_rupture
+  label: ruinous gambling causing kinship rupture
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a social rupture caused by gambling, but the existing
+    groups do not clearly cover gambling, kinship breakdown, or journey function.
+  cautions: Single occurrence and culturally contextual; could be moral consequence,
+    violated trust, exile trigger, or passage-specific plot detail depending on source
+    evidence.
+  suggested_aliases:
+  - gambling_causes_family_rupture
+  - kinship_rupture_through_ruinous_gambling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - betrayal_violated_trust
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rule-governed-hospitality-for-arrivals
+  motif_id: rule_governed_hospitality_for_arrivals
+  label: Rule-governed hospitality for arrivals
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Hospitality for arrivals is governed by norms around receiving guests
+    or strangers, fitting the hospitality/guest complex.
+  cautions: If the passage is a monastic rule without a test, sacred_law may be a
+    useful secondary placement.
+  suggested_aliases:
+  - regulated_hospitality_for_arrivals
+  - hospitality_rules_for_arriving_guests
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rule-instituted-after-community-hardship
+  motif_id: rule_instituted_after_community_hardship
+  label: rule instituted after community hardship
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rule created in response to communal hardship fits sacred or ethical
+    law as social order repair.
+  cautions: Very generic; if it merely summarizes a Vinaya/legal origin episode, preserve
+    as evidence detail rather than promoting as a motif.
+  suggested_aliases:
+  - law_instituted_after_communal_hardship
+  - community_hardship_generates_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rumour-magnifying-danger-before-travel
+  motif_id: rumour_magnifying_danger_before_travel
+  label: Rumour magnifying danger before travel
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe travel fear, social speech, or narrative foreshadowing,
+    but its mythic function is unclear from the wording alone.
+  cautions: Single occurrence; could be a journey obstacle, warning motif, rumor/speech
+    motif, or passage-level plot artifact.
+  suggested_aliases:
+  - rumor_amplifies_travel_danger
+  - exaggerated_danger_before_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - storytelling_as_power
+    - prophecy_divination
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacralized-virtues-and-powers-as-worshiped-figures
+  motif_id: sacralized_virtues_and_powers_as_worshiped_figures
+  label: Sacralized virtues and powers as worshiped figures
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Personified sacred powers or virtues treated as worshiped figures fit
+    divine manifestation or sacred presence more than journey structure.
+  cautions: Zoroastrian theological categories may be sensitive and source-dependent;
+    consider sacred_law or divine_intervention if the passage emphasizes ethical order
+    or agency.
+  suggested_aliases:
+  - personified_virtues_as_divine_figures
+  - worshiped_sacralized_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_intervention
+    - duality
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacralizing-travel-sites-with-altar-and-invocation
+  motif_id: sacralizing_travel_sites_with_altar_and_invocation
+  label: Sacralizing travel sites with altar and invocation
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Altars and invocation mark travel sites as sacred centers or contact
+    points with divine presence.
+  cautions: If the emphasis is offering rather than place-making, sacrifice or sacred_exchange
+    may be secondary mappings.
+  suggested_aliases:
+  - altar_sacralizes_journey_site
+  - travel_site_marked_by_altar_and_invocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-city-under-heavenly-guardianship
+  motif_id: sacred_city_under_heavenly_guardianship
+  label: Sacred city under heavenly guardianship
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Heavenly guardianship of a city fits protective sacred agency over a
+    community or place.
+  cautions: If the city is presented as cosmic center or pilgrimage goal, axis_mundi
+    may be a relevant secondary placement.
+  suggested_aliases:
+  - heavenly_guardianship_of_sacred_city
+  - sacred_city_protected_by_heavenly_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-concentration-of-pilgrimage-at-the-guru-s-feet
+  motif_id: sacred_concentration_of_pilgrimage_at_the_guru_s_feet
+  label: Sacred concentration of pilgrimage at the Guru’s feet
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label transforms pilgrimage into concentrated devotion to the guru,
+    fitting interiorized sacred quest and spiritual instruction.
+  cautions: Culturally specific devotional language; if the passage emphasizes sacred
+    geography rather than interiorization, axis_mundi or sacred_geography_pilgrimage
+    may be better.
+  suggested_aliases:
+  - pilgrimage_concentrated_at_the_guru_s_feet
+  - guru_s_feet_as_pilgrimage_center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-conflict-against-false-worship
+  motif_id: sacred_conflict_against_false_worship
+  label: Sacred conflict against false worship
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Conflict against false worship centers on maintaining sacred religious
+    order and rejecting improper devotion.
+  cautions: Could also map to divine_judgment if punishment is emphasized, or sacred_combat
+    if actual ritual warfare is central.
+  suggested_aliases:
+  - conflict_against_false_worship
+  - defense_of_true_worship_against_false_worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-elders-as-protective-voyage-escorts
+  motif_id: sacred_elders_as_protective_voyage_escorts
+  label: Sacred elders as protective voyage escorts
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Protective sacred escorts on a voyage fit guidance and protection by
+    sacred agents in human travel.
+  cautions: If the elders are ancestors rather than divine helpers, ancestor_rites
+    or tutelary-spirit evidence may need review.
+  suggested_aliases:
+  - protective_sacred_elders_on_voyage
+  - sacred_elder_escorts_for_travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional. Several labels have only one occurrence and should
+  not be promoted to canonical motifs without source review.
+- The review bucket is journey-focused, but several motifs fit law, hospitality, sacred
+  place, or divine protection better than hero-journey structure.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Suggested best-fit normalization groups while preserving cautions for single-occurrence
+    and culturally contextual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0611
+  input_sha256: 7d9cd6e4c68fd11549dee293da6b7e8dfed67be3fa926def79a0370f42dd4e66
+

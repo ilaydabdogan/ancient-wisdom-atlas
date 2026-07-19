@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1565
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.festival-centered-on-communal-beer-drinking
+  motif_id: festival_centered_on_communal_beer_drinking
+  label: festival centered on communal beer drinking
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Communal beer drinking at a festival fits sacred drink, ritual feasting,
+    and intoxication as socially or ritually charged substance use.
+  cautions: Single occurrence; if the passage emphasizes calendrical festival order
+    more than drink, sacred_time may be a secondary or better placement.
+  suggested_aliases:
+  - communal_beer_drinking_festival
+  - ritual_beer_feast
+  - festival_drinking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.festival-drinking-and-dancing-interrupting-ordinary-business
+  motif_id: festival_drinking_and_dancing_interrupting_ordinary_business
+  label: festival drinking and dancing interrupting ordinary business
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A festival that suspends ordinary business marks a special ritual time
+    distinct from everyday social order.
+  cautions: If drinking or dance is the main symbolic force, sacred_substance or enchanting_music
+    may be relevant; label may be an ethnographic detail rather than a durable motif.
+  suggested_aliases:
+  - festival_suspension_of_ordinary_business
+  - ritual_time_interrupts_daily_work
+  - festival_drinking_dancing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.festival-drinking-followed-by-communal-combat
+  motif_id: festival_drinking_followed_by_communal_combat
+  label: festival drinking followed by communal combat
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The sequence frames combat as emerging from a festival context, suggesting
+    ritually marked communal violence.
+  cautions: Could also belong with sacred_substance if intoxication is causative,
+    or sacred_time if the festival setting is primary; source context needed.
+  suggested_aliases:
+  - festival_combat_after_drinking
+  - communal_combat_after_festival_drinking
+  - ritualized_festival_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.festival-greenery-marking-households
+  motif_id: festival_greenery_marking_households
+  label: Festival greenery marking households
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Household greenery used during a festival is best treated as a seasonal
+    or calendrical ritual marker.
+  cautions: Do not map to sacred_tree_axis unless the greenery functions as a cosmic
+    tree or axis; may be too local and object-specific.
+  suggested_aliases:
+  - festival_household_greenery
+  - greenery_marking_houses_at_festival
+  - ritual_greenery_house_marking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.festival-license-and-temporary-social-inversion
+  motif_id: festival_license_and_temporary_social_inversion
+  label: festival license and temporary social inversion
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Festival License and Social Inversion
+  relationship: child
+  confidence: medium
+  rationale: Temporary reversal of norms during festival is a recurrent ritual-social
+    pattern not cleanly covered by sacred_time alone.
+  cautions: Comparative label may be analytical rather than passage-level motif; review
+    evidence before promoting a new group.
+  suggested_aliases:
+  - ritual_license
+  - temporary_social_inversion
+  - festival_misrule
+  - ritual_reversal_of_social_order
+  suggested_new_group:
+    id: festival_license_social_inversion
+    label: Festival License and Social Inversion
+    description: Ritual or festival periods temporarily suspend, invert, parody, or
+      loosen ordinary social hierarchy, law, work, or behavioral restraint before
+      normal order returns.
+    parent_group_ids:
+    - sacred_time
+    - sacred_law
+    related_group_ids:
+    - trickster
+    - royal_legitimacy
+    - sacred_combat
+    reason_existing_groups_insufficient: Sacred_time covers calendrical setting but
+      not the distinctive social function of licensed disorder and temporary inversion.
+- suggestion_id: normalization.suggestion.fetich-transfer-to-a-new-medicine-order-member
+  motif_id: fetich_transfer_to_a_new_medicine_order_member
+  label: Fetich transfer to a new medicine-order member
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: Transfer of a power object to an initiate may fit sacred_treasures and
+    initiation.
+  cautions: Culturally sensitive and uses antiquated spelling; source context is needed
+    to distinguish medicine-society initiation, sacred object transfer, or ethnographic
+    artifact.
+  suggested_aliases:
+  - fetish_transfer_to_medicine_order_member
+  - medicine_order_power_object_transfer
+  - ritual_transfer_of_medicine_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feud-escalated-through-lawsuits-and-counter-suits
+  motif_id: feud_escalated_through_lawsuits_and_counter_suits
+  label: Feud escalated through lawsuits and counter-suits
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on legal process and social order as mechanisms that
+    intensify feud conflict.
+  cautions: Could also be sacred_combat if feud violence is primary; may be saga plot
+    mechanics rather than a cross-tradition motif.
+  suggested_aliases:
+  - lawsuit_escalated_feud
+  - legal_counter_suits_intensify_feud
+  - feud_through_litigation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feud-law-and-settlement-sequence
+  motif_id: feud_law_and_settlement_sequence
+  label: feud, law, and settlement sequence
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A feud resolved or structured through law and settlement belongs with
+    sacred law and social order.
+  cautions: If the sequence centers on broken bonds, compensation, or oath-making,
+    covenant may be a secondary mapping.
+  suggested_aliases:
+  - feud_law_settlement
+  - legal_settlement_of_feud
+  - feud_resolution_by_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feud-slayer-flees-across-water-to-a-protecting-ruler
+  motif_id: feud_slayer_flees_across_water_to_a_protecting_ruler
+  label: Feud-slayer flees across water to a protecting ruler
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Flight after killing across water to refuge is a journey/exile pattern
+    involving departure from feud danger.
+  cautions: Highly specific; could map to sacred_law for feud outlawry, royal_legitimacy
+    for ruler protection, or sacred_waters if water-crossing is ritually marked.
+  suggested_aliases:
+  - feud_slayer_flight_to_refuge
+  - killer_flees_to_protecting_ruler
+  - exile_across_water_after_feud_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.field-circling-gestures-at-planting-or-picking
+  motif_id: field_circling_gestures_at_planting_or_picking
+  label: field-circling gestures at planting or picking
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Gestures performed at planting or picking fit agricultural ritual within
+    seasonal sacred time.
+  cautions: If the circling marks protection or boundary-making, sacred_law may be
+    relevant; if an offering is involved, sacrifice may fit better.
+  suggested_aliases:
+  - field_circling_at_planting
+  - agricultural_circling_rite
+  - harvest_field_circling_gesture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence festival or ethnographic ritual labels; preserve
+  local evidence and avoid promoting highly specific details without recurrence.
+- Festival license/social inversion may warrant a new review group if similar labels
+  recur across cultures, but current suggestion remains provisional.
+- Avoid treating water, greenery, drink, or dance as symbolic motifs apart from their
+  narrative or ritual function in the passage.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft placement suggestions only; culturally sensitive ritual labels and
+    comparative festival abstractions require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1565
+  input_sha256: 2af4c8c2e1332a0c62e527363c2b4d7813c850e91aaab32399a46788612b162b
+

@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0730
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cross-phratry-ritual-work-with-blanket-distribution
+  motif_id: cross_phratry_ritual_work_with_blanket_distribution
+  label: cross-phratry ritual work with blanket distribution
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Blanket distribution during ritual work suggests reciprocal gift exchange
+    or obligation within a sacred social setting.
+  cautions: Highly culture-specific and single-occurrence; phratry relations and blanket
+    distribution may require specialist review before broad indexing.
+  suggested_aliases:
+  - ritual_blanket_distribution
+  - cross_phratry_ritual_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-species-ritual-specialist
+  motif_id: cross_species_ritual_specialist
+  label: Cross-species ritual specialist
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could mean a shamanic mediator between human and animal/spirit
+    species, but the ritual function is not clear from wording alone.
+  cautions: Culturally sensitive and ambiguous; could fit shapeshifter, animal helper,
+    divine_intervention, sacred_knowledge, or a specialist role not represented by
+    current groups.
+  suggested_aliases:
+  - interspecies_ritual_specialist
+  - human_animal_ritual_mediator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cult-foundation-after-divine-crisis
+  motif_id: cult_foundation_after_divine_crisis
+  label: Cult foundation after divine crisis
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A crisis resolved or marked by founding cult practice fits ritual repair
+    of relations with sacred powers.
+  cautions: If the passage emphasizes divine punishment or moral crisis, divine_judgment
+    may be a secondary mapping; if it is an origin story for a rite, preserve etiological
+    detail.
+  suggested_aliases:
+  - cult_foundation_after_crisis
+  - ritual_foundation_after_divine_crisis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cult-foundation-on-sacred-river-island
+  motif_id: cult_foundation_on_sacred_river_island
+  label: cult foundation on sacred river island
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The sacred river island is the defining ritual location, aligning with
+    sacred waters as boundary and cultic medium.
+  cautions: Could also index to world_center or sacred_exchange if evidence stresses
+    sanctuary foundation or reciprocal cult rather than watery location.
+  suggested_aliases:
+  - river_island_cult_foundation
+  - cult_foundation_at_sacred_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cult-honours-founded-for-divine-protectors-of-sailors
+  motif_id: cult_honours_founded_for_divine_protectors_of_sailors
+  label: Cult honours founded for divine protectors of sailors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on cult honors for protective deities whose role is
+    intervention and guidance for mariners.
+  cautions: If the passage focuses on ritual repayment for protection, sacred_exchange
+    is also relevant; maritime specificity should remain as evidence detail.
+  suggested_aliases:
+  - cult_honors_for_divine_sailor_protectors
+  - cult_of_divine_protectors_of_sea_voyages
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cultic-identification-with-a-local-goddess
+  motif_id: cultic_identification_with_a_local_goddess
+  label: cultic identification with a local goddess
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: low
+  rationale: The wording may describe interpretive identification or syncretism of
+    a local deity rather than a narrative motif.
+  cautions: Likely a cult-historical or commentary artifact unless passage evidence
+    shows a recurring ritual role; avoid using taxonomy placement as transmission
+    evidence.
+  suggested_aliases:
+  - local_goddess_cultic_identification
+  - identification_with_local_goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cultivated-flowers-presented-to-the-temple
+  motif_id: cultivated_flowers_presented_to_the_temple
+  label: Cultivated flowers presented to the temple
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: Presenting cultivated flowers to a temple is a ritual offering and reciprocal
+    act toward sacred powers.
+  cautions: The flower and temple details are probably evidence notes unless the floral
+    offering pattern recurs across sources.
+  suggested_aliases:
+  - flower_offering_to_temple
+  - cultivated_flower_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cunning-man-gives-practical-taboo-like-instruction
+  motif_id: cunning_man_gives_practical_taboo_like_instruction
+  label: Cunning-man gives practical taboo-like instruction
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Taboo-like instruction could fit sacred law or practical wisdom, but
+    the figure and authority of the instruction are unclear.
+  cautions: May be a passage-specific teaching by a culturally specific specialist;
+    confirm whether it is ritual prohibition, trickster counsel, or ordinary practical
+    advice.
+  suggested_aliases:
+  - practical_taboo_instruction
+  - ritual_specialist_taboo_instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curing-disease-as-primary-ritual-society-function
+  motif_id: curing_disease_as_primary_ritual_society_function
+  label: Curing disease as primary ritual-society function
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritual curing by a society implies sacred or spirit-mediated intervention
+    in illness.
+  cautions: The label describes an institution's function more than a discrete motif;
+    culturally sensitive ritual-society evidence should be reviewed before broad pattern
+    indexing.
+  suggested_aliases:
+  - ritual_society_curing_function
+  - disease_curing_ritual_society
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curing-rite-performed-by-deity-personators
+  motif_id: curing_rite_performed_by_deity_personators
+  label: Curing rite performed by deity personators
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A curing rite enacted by deity personators mediates divine or sacred
+    healing action.
+  cautions: Deity personation is culturally specific and may require a ritual-performance
+    group if many examples recur; avoid reducing personation to generic divine intervention
+    without evidence review.
+  suggested_aliases:
+  - deity_personator_curing_rite
+  - ritual_healing_by_deity_personators
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and culturally specific ritual descriptions;
+  human review should check source context before converting institutional or ethnographic
+  descriptions into searchable motifs.
+- Cult-foundation labels may function as etiologies of ritual practice; preserve local
+  details while mapping only the broad ritual function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items involve Indigenous ritual societies,
+    personation, or culture-specific exchange practices requiring specialist review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0730
+  input_sha256: 2bd8e953c1a2844d36ecd3e42d73d553f48ca8a82357d729fe51f3bf9494f525
+

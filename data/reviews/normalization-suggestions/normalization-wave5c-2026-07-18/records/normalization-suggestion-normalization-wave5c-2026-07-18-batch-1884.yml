@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1884
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.kin-violence-over-concealed-birth
+  motif_id: kin_violence_over_concealed_birth
+  label: Kin violence over concealed birth
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kin violence, secrecy, and birth without enough evidence
+    to distinguish threatened infancy, household persecution, or social transgression.
+  cautions: Single occurrence; may be an episode-specific family-conflict detail rather
+    than a reusable motif. Review source context before mapping to miraculous_child,
+    sacred_law, or divine_judgment.
+  suggested_aliases:
+  - concealed_birth_leads_to_kin_violence
+  - violence_over_hidden_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kindness-to-despised-stranger-followed-by-marriage
+  motif_id: kindness_to_despised_stranger_followed_by_marriage
+  label: kindness to despised stranger followed by marriage
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kind treatment of a despised stranger functions like a hospitality or
+    compassion test, with marriage as the reward or resolution.
+  cautions: If the passage centers on bride-winning or sacred love rather than treatment
+    of the stranger, sacred_love may be a secondary fit.
+  suggested_aliases:
+  - kindness_to_despised_stranger_rewarded_by_marriage
+  - compassion_to_lowly_stranger_leads_to_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinswoman-incites-and-arms-sons-for-vengeance
+  motif_id: kinswoman_incites_and_arms_sons_for_vengeance
+  label: kinswoman incites and arms sons for vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The main narrative function is incitement and arming for vengeance, aligning
+    with feud and ritualized heroic combat patterns.
+  cautions: The kinswoman role is important evidence; if the source emphasizes kin
+    obligation or lament more than combat, covenant or lament_and_mourning may be
+    relevant secondary mappings.
+  suggested_aliases:
+  - mother_or_kinswoman_incites_sons_to_vengeance
+  - kinswoman_arms_avenging_sons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-for-an-absent-beloved
+  motif_id: lament_for_an_absent_beloved
+  label: lament for an absent beloved
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on longing for an absent beloved, fitting love as longing
+    and separation.
+  cautions: If the passage primarily formalizes mourning or grief-song rather than
+    love-longing, lament_and_mourning should be considered as a secondary or alternate
+    group.
+  suggested_aliases:
+  - beloved_absence_lament
+  - lament_of_love_separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lament-over-personal-and-household-desolation
+  motif_id: lament_over_personal_and_household_desolation
+  label: Lament over personal and household desolation
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The label explicitly describes lament over loss and desolation, a direct
+    fit for the mourning group.
+  cautions: Household desolation may also carry social-order or divine-judgment meaning
+    if caused by punishment or catastrophe; retain context in notes.
+  suggested_aliases:
+  - household_desolation_lament
+  - personal_desolation_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.land-fertility-imagined-through-maiden-and-husbandman-simile
+  motif_id: land_fertility_imagined_through_maiden_and_husbandman_simile
+  label: land fertility imagined through maiden and husbandman simile
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_marriage
+  suggested_group_label: Sacred Marriage
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Land fertility figured through maiden and husbandman imagery resembles
+    sacred-marriage symbolism linking union, cultivation, and fertility.
+  cautions: The label may be only a simile rather than a ritual or narrative union.
+    If it is agricultural cycle imagery without marriage logic, sacred_time or seasonal_cycle
+    may be better.
+  suggested_aliases:
+  - fertile_land_as_maiden_and_husbandman
+  - agricultural_fertility_as_marital_union
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.landscape-features-facing-each-other-like-persons
+  motif_id: landscape_features_facing_each_other_like_persons
+  label: landscape features facing each other like persons
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate personified landscape, etiological geography,
+    or a passage-specific visual description.
+  cautions: Single occurrence and very context-dependent. Do not map to sacred_love
+    or duality solely because features face each other; source evidence is needed
+    for personhood, origin, or sacred geography.
+  suggested_aliases:
+  - personified_landscape_features_facing_each_other
+  - opposed_landscape_features_as_persons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.landscape-rupture-separates-lovers
+  motif_id: landscape_rupture_separates_lovers
+  label: landscape rupture separates lovers
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The landscape rupture functions as an obstacle causing separation of
+    lovers, fitting love-longing and perilous separation patterns.
+  cautions: If the rupture is primarily cosmological or etiological, cosmic_origin
+    or death_and_transformation may be relevant; preserve the landscape detail as
+    evidence.
+  suggested_aliases:
+  - lovers_separated_by_landscape_rupture
+  - earth_rift_separates_lovers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.last-sheaf-or-last-ears-personified-as-animal-or-human-animal-figure
+  motif_id: last_sheaf_or_last_ears_personified_as_animal_or_human_animal_figure
+  label: Last sheaf or last ears personified as animal or human-animal figure
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: Personification of the last sheaf belongs to harvest-cycle ritual imagery,
+    closely related to corn-spirit harvest animal motifs already under sacred_time.
+  cautions: Because the tradition is marked comparative, verify this is not only a
+    scholarly typological note. If presented as commentary rather than source motif,
+    consider exclusion as meta-textual.
+  suggested_aliases:
+  - last_sheaf_personified_as_harvest_spirit
+  - last_ears_as_animal_or_human_animal_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.later-son-avenges-or-destroys-enemy-through-cave-confinement
+  motif_id: later_son_avenges_or_destroys_enemy_through_cave_confinement
+  label: later son avenges or destroys enemy through cave confinement
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is vengeance and destruction of an enemy; cave confinement
+    is the method or setting.
+  cautions: If cave confinement functions as a liminal descent, imprisonment, or underworld-like
+    entrapment, descent may be a secondary mapping. The label is over-specific and
+    should not be promoted as canonical without recurrence.
+  suggested_aliases:
+  - avenging_son_confines_enemy_in_cave
+  - enemy_destroyed_by_cave_confinement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several love_family_gender_body items are actually mourning, hospitality, harvest-cycle,
+  or combat/vengeance motifs; bucket assignment should not control final placement.
+- Single-occurrence and comparative labels should be reviewed for passage-artifact
+  or scholarly-typology status before adding durable aliases.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source context recommended for low-confidence
+    family-conflict and landscape-personification labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1884
+  input_sha256: 9303b011c90d5db221c1e3400e250cf2da2325ebe126e063b07ed881cfe9f248
+

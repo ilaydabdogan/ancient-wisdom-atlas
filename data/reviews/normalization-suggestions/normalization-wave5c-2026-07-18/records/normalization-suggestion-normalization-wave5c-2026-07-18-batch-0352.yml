@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0352
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-drink-as-blood-or-soul-of-a-plant
+  motif_id: sacred_drink_as_blood_or_soul_of_a_plant
+  label: sacred drink as blood or soul of a plant
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on a sacred drink/plant substance carrying blood or
+    soul vitality, fitting sacred foods, drinks, and ritual substances.
+  cautions: Could also support blood_as_life, sacrifice, or external_soul depending
+    on whether the passage emphasizes blood taboo, offering, or separable plant soul.
+  suggested_aliases:
+  - plant_soul_in_sacred_drink
+  - sacred_drink_as_plant_blood
+  - plant_blood_as_sacred_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-elements-protected-from-corpse-pollution
+  motif_id: sacred_elements_protected_from_corpse_pollution
+  label: sacred elements protected from corpse pollution
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Protecting sacred elements from corpse pollution is a purity regulation
+    and ritual prohibition pattern.
+  cautions: Zoroastrian corpse-pollution rules are culturally specific; preserve element-specific
+    details and consider related sacred_fire if fire is explicitly central.
+  suggested_aliases:
+  - corpse_pollution_avoidance_for_sacred_elements
+  - purity_rules_for_sacred_elements
+  - sacred_elements_protected_from_death_pollution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-festival-chronology-associated-with-an-ancestral-figure
+  motif_id: sacred_festival_chronology_associated_with_an_ancestral_figure
+  label: Sacred festival chronology associated with an ancestral figure
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A festival chronology tied to an ancestor fits ordering sacred time through
+    ritual memory and ancestral association.
+  cautions: May be calendrical commentary or passage-specific chronology rather than
+    a recurring motif; review whether the ancestral figure functions ritually or only
+    as a dating marker.
+  suggested_aliases:
+  - ancestral_figure_linked_to_festival_calendar
+  - festival_calendar_associated_with_ancestor
+  - ancestral_chronology_of_sacred_festival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-protected-from-corpse-pollution
+  motif_id: sacred_fire_protected_from_corpse_pollution
+  label: Sacred fire protected from corpse pollution
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The core function is a ritual purity rule preventing corpse pollution
+    from contacting a sacred element.
+  cautions: Also related to sacred_fire because the protected element is fire; use
+    sacred_fire secondarily if fire symbolism or divine presence is emphasized beyond
+    purity law.
+  suggested_aliases:
+  - sacred_fire_protected_from_death_pollution
+  - corpse_pollution_avoidance_for_sacred_fire
+  - fire_purity_after_contact_with_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-flower-linked-to-underworld-and-grave-rites
+  motif_id: sacred_flower_linked_to_underworld_and_grave_rites
+  label: sacred flower linked to underworld and grave rites
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A flower used or symbolically linked with grave rites belongs with ritual
+    care and commemoration of the dead.
+  cautions: If the flower mainly marks underworld geography or descent imagery, descent/afterlife_passage
+    may be secondary; if only a botanical detail, it may be over-specific.
+  suggested_aliases:
+  - grave_rite_sacred_flower
+  - underworld_flower_in_funerary_rites
+  - sacred_flower_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-food-restriction-around-an-ancestral-or-eponymic-animal
+  motif_id: sacred_food_restriction_around_an_ancestral_or_eponymic_animal
+  label: Sacred food restriction around an ancestral or eponymic animal
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A food restriction tied to an ancestral animal is a sacred prohibition
+    regulating diet and kinship memory.
+  cautions: Culturally sensitive and source-dependent; could involve totemic ancestry,
+    eponymous origins, or animal taboo rather than general law. Human review should
+    preserve local meaning.
+  suggested_aliases:
+  - ancestral_animal_food_taboo
+  - food_taboo_for_eponymic_animal
+  - sacred_dietary_restriction_for_ancestral_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-house-dedicated-to-a-spirit
+  motif_id: sacred_house_dedicated_to_a_spirit
+  label: sacred house dedicated to a spirit
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a ritual structure, spirit dwelling, shrine, or
+    local sacred-space practice, but the function is unclear.
+  cautions: Avoid flattening Inuit spirit-house practice into generic temple or vessel
+    imagery without source evidence. Could fit divine_intervention, ancestor_rites,
+    sacred_vessel, or sacred_law depending on use.
+  suggested_aliases:
+  - spirit_dedicated_sacred_house
+  - ritual_house_for_a_spirit
+  - spirit_dwelling_structure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-house-without-fire-above-the-tomb
+  motif_id: sacred_house_without_fire_above_the_tomb
+  label: sacred house without fire above the tomb
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred structure above a tomb belongs with mortuary care and maintaining
+    relations with the dead or ancestors.
+  cautions: The absence of fire may encode a specific purity or ritual rule; if that
+    rule is central, sacred_law or sacred_fire may be relevant. Single occurrence
+    is highly contextual.
+  suggested_aliases:
+  - tomb_house_without_fire
+  - fireless_sacred_house_above_tomb
+  - mortuary_house_above_tomb
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-hymn-accompanying-the-departed-soul
+  motif_id: sacred_hymn_accompanying_the_departed_soul
+  label: sacred hymn accompanying the departed soul
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: ritual_variant
+  confidence: high
+  rationale: A hymn accompanying the soul functions as ritual or verbal support for
+    postmortem passage.
+  cautions: Also related to sacred_song or storytelling/sound power, but the primary
+    function here is the departed soul's afterlife transit.
+  suggested_aliases:
+  - funerary_hymn_guiding_the_soul
+  - hymn_accompanying_departed_soul
+  - sacred_song_for_afterlife_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-image-as-representation-of-nearby-spiritual-essence
+  motif_id: sacred_image_as_representation_of_nearby_spiritual_essence
+  label: sacred image as representation of nearby spiritual essence
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns a sacred image mediating or representing spiritual
+    presence, but could be ritual object, spirit embodiment, or commentary on iconography.
+  cautions: Culturally sensitive and possibly an ethnographic interpretation rather
+    than a motif. Review source evidence before mapping to sacred_treasures, divine_intervention,
+    sacred_craft, or idol-related categories.
+  suggested_aliases:
+  - sacred_image_representing_spiritual_presence
+  - ritual_image_of_nearby_spirit_essence
+  - image_as_spirit_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence mortuary or ritual-purity details; preserve
+  local evidence and avoid promoting object-specific wording to canonical motifs without
+  recurrence.
+- For Zoroastrian corpse-pollution items, sacred_law is the broad best fit, with sacred_fire
+  or sacred_substance only as secondary context when the element itself carries the
+  main symbolic function.
+- For Native American Southwest and Inuit items, human review is advised where labels
+  may reflect ethnographic interpretation of living or culturally specific sacred
+  practices.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific ritual labels
+    and single-occurrence details require source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0352
+  input_sha256: 353ffe266979125145fbefb54438bfc186d7ddfaf7e8ea7a01d14ad89c04be3e
+

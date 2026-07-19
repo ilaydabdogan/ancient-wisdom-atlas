@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1407
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.place-centered-historical-disruption-or-transition-tied-to-named-time-periods
+  motif_id: place_centered_historical_disruption_or_transition_tied_to_named_time_periods
+  label: place-centered historical disruption or transition tied to named time periods
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe calendrical-historical annotation rather than
+    a symbolic motif; source evidence is needed.
+  cautions: Could be a Maya periodization or site-history note, not a reusable motif.
+    If a named place is explained by a mythic event, cosmic_origin may apply.
+  suggested_aliases:
+  - historical_transition_tied_to_place
+  - place_memory_of_historical_disruption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-and-fire-etymological-legend
+  motif_id: place_name_and_fire_etymological_legend
+  label: place-name and fire etymological legend
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Existing cosmic_origin already includes place-name etiologies; fire is
+    the local explanatory element.
+  cautions: If fire is the main sacred or destructive force rather than an etymological
+    explanation, also review sacred_fire or divine_judgment.
+  suggested_aliases:
+  - place_name_etiology_involving_fire
+  - fire_based_place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-and-settlement-origin-after-ordeal
+  motif_id: place_name_and_settlement_origin_after_ordeal
+  label: place-name and settlement origin after ordeal
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is a local origin/etiology pattern explaining a settlement and its
+    name after a narrative event.
+  cautions: If the ordeal transforms the protagonist more than the place, initiation
+    or hero_journey may be a secondary mapping.
+  suggested_aliases:
+  - settlement_name_etiology_after_ordeal
+  - place_name_etiology_after_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-as-enduring-record-of-the-past
+  motif_id: place_name_as_enduring_record_of_the_past
+  label: place-name as enduring record of the past
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads like an interpretive statement about memory rather than
+    a concrete etiology episode.
+  cautions: Map to cosmic_origin only if the passage narrates why the place received
+    its name; otherwise preserve as commentary or local-history note.
+  suggested_aliases:
+  - place_name_as_memory
+  - toponym_as_record_of_past
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-as-fossilized-memory-of-social-history
+  motif_id: place_name_as_fossilized_memory_of_social_history
+  label: Place-name as fossilized memory of social history
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to classify a toponym as social memory rather than identify
+    a narrative motif.
+  cautions: Could be excluded as scholarly framing unless a specific place-name origin
+    legend is present in the source.
+  suggested_aliases:
+  - toponym_as_social_memory
+  - place_name_as_social_history_record
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-as-repository-of-legend
+  motif_id: place_name_as_repository_of_legend
+  label: place-name as repository of legend
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is meta-level, describing what place-names preserve rather
+    than a particular etiology.
+  cautions: If the text gives a legend explaining the name, use cosmic_origin; if
+    it only comments on tradition preservation, exclude from pattern queries.
+  suggested_aliases:
+  - toponym_as_legend_repository
+  - place_name_preserves_legend
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-derived-from-a-commemorative-monument
+  motif_id: place_name_derived_from_a_commemorative_monument
+  label: place-name derived from a commemorative monument
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A named place explained through a commemorative monument fits the existing
+    place-name etiology cluster.
+  cautions: If the passage focuses on funerary memorial practice rather than naming,
+    heroic_funeral_rites or lament_and_mourning may be relevant.
+  suggested_aliases:
+  - place_name_etiology_from_commemorative_monument
+  - monument_based_place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-derived-from-a-gathering-of-people
+  motif_id: place_name_derived_from_a_gathering_of_people
+  label: place-name derived from a gathering of people
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label is a toponymic origin explanation, already supported by cosmic_origin
+    place-name etiology children and aliases.
+  cautions: Likely too granular for canonical taxonomy; preserve gathering detail
+    as evidence.
+  suggested_aliases:
+  - place_name_etiology_from_gathering
+  - toponym_from_gathering_of_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-derived-from-local-plants-or-fragrance
+  motif_id: place_name_derived_from_local_plants_or_fragrance
+  label: place-name derived from local plants or fragrance
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: This explains a place-name through a local natural feature, fitting the
+    broader toponymic etiology set.
+  cautions: Do not map to sacred_tree_axis or sacred_substance unless the plants or
+    fragrance have explicit sacred function beyond naming.
+  suggested_aliases:
+  - place_name_etiology_from_plants
+  - toponym_from_local_fragrance
+  - toponym_from_local_flora
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-derived-from-physical-landscape-features
+  motif_id: place_name_derived_from_physical_landscape_features
+  label: place-name derived from physical landscape features
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A place-name explained by landscape features belongs with existing etiological
+    landscape and place-naming patterns under cosmic_origin.
+  cautions: If the landscape feature is a sacred mountain, center, or axis, consider
+    secondary mapping to axis_mundi; otherwise keep as toponymic etiology.
+  suggested_aliases:
+  - place_name_etiology_from_landscape_features
+  - toponym_from_physical_landscape
+  - landscape_based_place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- This batch is dominated by toponymic/place-name labels. Existing cosmic_origin can
+  hold concrete place-name etiologies, but abstract labels about place-names as memory
+  or records may be commentary artifacts and need source review.
+- Avoid promoting each local basis for a place-name into separate canonical motifs
+  unless the pattern recurs across sources.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several labels require source evidence to distinguish
+    narrative etiology from scholarly or historical commentary.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1407
+  input_sha256: 829d18bdd299480ad90ac9c5ca7224fb7535e5168b0baae29aa286851cf26feb
+

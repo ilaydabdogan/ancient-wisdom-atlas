@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1764
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.beneficent-personified-powers-arrive-together
+  motif_id: beneficent_personified_powers_arrive_together
+  label: beneficent personified powers arrive together
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Personified beneficent powers could indicate divine intervention, sacred
+    order, or abstract theological personification depending on source context.
+  cautions: Single occurrence; label is too abstract to place confidently without
+    knowing which powers arrive and what narrative function their arrival serves.
+  suggested_aliases:
+  - beneficent_personified_powers
+  - arrival_of_beneficent_personifications
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beneficial-mother-kine
+  motif_id: beneficial_mother_kine
+  label: beneficial Mother-kine
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A beneficial sacred cow or mother-kine fits existing abundance-giving
+    animal and divine provision patterns under divine intervention.
+  cautions: If the passage emphasizes cosmic maternity or sacred feminine symbolism
+    rather than provision, mother_goddess may be a secondary review path.
+  suggested_aliases:
+  - beneficial_mother_cow
+  - sacred_mother_kine
+  - abundance_giving_mother_cow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beneficial-poison-eating-animal
+  motif_id: beneficial_poison_eating_animal
+  label: beneficial poison-eating animal
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A helpful animal removing poison functions as protective or healing aid,
+    which fits divine intervention's animal-helper and protection scope.
+  cautions: Could be an ethnographic natural-history detail or sacred-law purity motif
+    if the animal is classified ritually rather than acting narratively.
+  suggested_aliases:
+  - poison_eating_helpful_animal
+  - beneficial_animal_removes_poison
+  - protective_poison_eating_creature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.benevolent-old-age-personifications-reimagined-as-monstrous-old-women
+  motif_id: benevolent_old_age_personifications_reimagined_as_monstrous_old_women
+  label: Benevolent old-age personifications reimagined as monstrous old women
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes reinterpretation or reception history of personifications,
+    not a stable narrative motif.
+  cautions: If a source passage actually narrates benevolent old-age figures becoming
+    monstrous women, review under shapeshifter or divine_judgment instead.
+  suggested_aliases:
+  - old_age_personifications_reinterpreted_as_monsters
+  - benevolent_personifications_reimagined_as_monstrous_women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-animal-mother-disturbing-the-killer
+  motif_id: bereaved_animal_mother_disturbing_the_killer
+  label: Bereaved animal mother disturbing the killer
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is grief by a mother figure after killing, with animal
+    specificity as local evidence detail.
+  cautions: If disturbance is supernatural retaliation rather than mourning expression,
+    divine_judgment or restless_dead_haunting_vengeance may be relevant.
+  suggested_aliases:
+  - animal_mother_mourning_disturbs_killer
+  - bereaved_animal_mother_after_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-father-laments-fallen-son
+  motif_id: bereaved_father_laments_fallen_son
+  label: bereaved father laments fallen son
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A parent lamenting a fallen child is a clear mourning and tragic recognition
+    pattern.
+  cautions: If the son is a fallen warrior, heroic_funeral_rites or divine_warrior
+    may be useful secondary context, but the primary action is lament.
+  suggested_aliases:
+  - father_laments_fallen_son
+  - parental_lament_for_dead_son
+  - bereaved_parent_laments_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-mother-dies-after-loss-of-all-sons
+  motif_id: bereaved_mother_dies_after_loss_of_all_sons
+  label: bereaved mother dies after loss of all sons
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: Death from overwhelming grief after bereavement fits the lament_and_mourning
+    child pattern of mourning leading to collapse or death.
+  cautions: Handle culturally specific source context carefully; if her death triggers
+    transformation or vengeance, secondary mappings may be needed.
+  suggested_aliases:
+  - mother_dies_of_grief_after_sons_deaths
+  - bereaved_mother_dies_from_grief
+  - mourning_mother_dies_after_loss_of_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-mother-petrified-into-a-grieving-rock
+  motif_id: bereaved_mother_petrified_into_a_grieving_rock
+  label: bereaved mother petrified into a grieving rock
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on metamorphosis through grief into stone, a death/transformation
+    pattern with mourning as the cause.
+  cautions: Also strongly related to lament_and_mourning; choose primary placement
+    based on whether the passage emphasizes grief expression or petrifying metamorphosis.
+  suggested_aliases:
+  - mourning_mother_transformed_into_stone
+  - grieving_mother_petrified
+  - bereaved_mother_becomes_rock
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-mother-s-destructive-mourning-brings-catastrophe
+  motif_id: bereaved_mother_s_destructive_mourning_brings_catastrophe
+  label: bereaved mother’s destructive mourning brings catastrophe
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines mourning, maternal power, and catastrophe; the best
+    placement depends on whether the catastrophe is cosmic, social, or punitive.
+  cautions: Could fit lament_and_mourning, flood_and_renewal, divine_judgment, or
+    mother_goddess depending on evidence; do not infer world-renewal from catastrophe
+    alone.
+  suggested_aliases:
+  - destructive_maternal_mourning
+  - bereaved_mother_mourning_causes_catastrophe
+  - catastrophe_from_mother_s_grief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bereaved-mother-turns-mourning-into-vengeance
+  motif_id: bereaved_mother_turns_mourning_into_vengeance
+  label: bereaved mother turns mourning into vengeance
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence begins with bereavement and grief, with vengeance emerging
+    as a consequence of mourning.
+  cautions: If the passage emphasizes retaliatory punishment more than grief, divine_judgment
+    or sacred_combat may be better secondary mappings.
+  suggested_aliases:
+  - mourning_transformed_into_vengeance
+  - bereaved_mother_seeks_vengeance
+  - maternal_grief_becomes_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence maternal grief variants; most
+  can be provisionally grouped under lament_and_mourning while preserving kinship
+  and transformation details as aliases or evidence notes.
+- Personification labels from theological or reception contexts should be reviewed
+  carefully before treating them as narrative motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; source passages should be checked
+    for narrative function versus commentary artifact.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1764
+  input_sha256: 30ec6d09ebb4ee672b6b3a15cee69e22a5e68124f87cb6d0f3d8df4b61a1f87f
+

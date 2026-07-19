@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0172
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.falling-star-at-a-person-s-death
+  motif_id: falling_star_at_a_person_s_death
+  label: falling star at a person’s death
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A celestial sign marking a death fits the omen/fate-death complex more
+    than descent or afterlife passage.
+  cautions: Single occurrence; could instead be dream_and_vision or prophecy_divination
+    if the star is mainly an omen rather than a death-fate marker.
+  suggested_aliases:
+  - death marked by falling star
+  - celestial sign at death
+  - star omen at death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-corpse-decay-made-by-craft-trick
+  motif_id: false_corpse_decay_made_by_craft_trick
+  label: false corpse decay made by craft trick
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is deceptive staging of death or decay through a crafted
+    trick.
+  cautions: If craft technique is central, sacred_craft may be a secondary relation;
+    if merely episode detail, do not promote beyond granular evidence.
+  suggested_aliases:
+  - deceptive corpse decay trick
+  - feigned corpse decay
+  - crafted false death evidence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-culpability-from-an-already-dead-body
+  motif_id: false_culpability_from_an_already_dead_body
+  label: false culpability from an already-dead body
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dead body is used to create false blame, aligning with false accusation
+    and moral reckoning already under divine_judgment.
+  cautions: May be a trickster/deception episode unless the passage includes investigation,
+    judgment, or vindication.
+  suggested_aliases:
+  - false accusation from a dead body
+  - already dead body creates false blame
+  - corpse used to frame the innocent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-death-alarm-from-an-empty-saddle
+  motif_id: false_death_alarm_from_an_empty_saddle
+  label: false death alarm from an empty saddle
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a mistaken inference of death from an object sign,
+    but its narrative function is unclear.
+  cautions: Could be lament/mourning, recognition-token evidence, or a passage-specific
+    plot device; source context is needed.
+  suggested_aliases:
+  - empty saddle mistaken as death sign
+  - false death sign from empty saddle
+  - mistaken death alarm by riderless horse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-death-report-producing-mistaken-funeral-rites
+  motif_id: false_death_report_producing_mistaken_funeral_rites
+  label: False death report producing mistaken funeral rites
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key action is performance of funerary rites in response to an erroneous
+    death report.
+  cautions: If the emphasis is comic mistaken identity or social error rather than
+    rites, this may be too episode-specific for pattern queries.
+  suggested_aliases:
+  - mistaken funeral rites after false death report
+  - false report triggers funeral rites
+  - funeral rites for falsely reported death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-death-report-rejected-because-of-destined-buddhahood
+  motif_id: false_death_report_rejected_because_of_destined_buddhahood
+  label: False death report rejected because of destined Buddhahood
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejection of a death report rests on a figure's foretold sacred destiny,
+    fitting destined miraculous or sacred figure patterns.
+  cautions: Could map to prophecy_divination if prediction logic is central, or death_by_fate
+    if fate/death impossibility is emphasized.
+  suggested_aliases:
+  - false death report contradicted by sacred destiny
+  - destined Buddhahood disproves death report
+  - death report rejected because destiny unfulfilled
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-death-sign-from-an-animal-s-three-cries
+  motif_id: false_death_sign_from_an_animal_s_three_cries
+  label: False death sign from an animal's three cries
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: low
+  rationale: Animal cries interpreted as a death sign belong with omen and divination
+    patterns, though the sign is false.
+  cautions: Single occurrence and very specific; if not part of a divinatory system,
+    preserve only as evidence detail or review under dream_and_vision.
+  suggested_aliases:
+  - animal cries as false death omen
+  - false death omen from animal cries
+  - three cries misread as death sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-embodied-ghost-exposed-by-physical-test
+  motif_id: false_embodied_ghost_exposed_by_physical_test
+  label: False embodied ghost exposed by physical test
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: low
+  rationale: The episode concerns verifying or exposing an apparent ghostly return
+    among the living.
+  cautions: Because the ghost is false, this may instead be trickster/deception or
+    recognition-testing; source evidence should confirm whether ghost belief is central.
+  suggested_aliases:
+  - false ghost exposed by test
+  - physical test reveals embodied ghost as false
+  - apparent ghost tested physically
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-explanation-for-bodily-marks-deceives-returning-household-figure
+  motif_id: false_explanation_for_bodily_marks_deceives_returning_household_figure
+  label: False explanation for bodily marks deceives returning household figure
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: A false explanation used to deceive a returning household figure centers
+    on violated trust within a social bond.
+  cautions: The death-bucket placement is not explained by the label; could be household
+    deception, recognition-token inversion, or passage-specific detail.
+  suggested_aliases:
+  - false account of bodily marks
+  - bodily marks explained deceptively
+  - deception of returning household member
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-healer-exposed-by-failed-death-prediction
+  motif_id: false_healer_exposed_by_failed_death_prediction
+  label: false healer exposed by failed death prediction
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Exposure of a false healer through a failed prediction functions as moral
+    testing and exposure of deception.
+  cautions: Could also belong under prophecy_divination if the failed prediction is
+    the main pattern; avoid treating as a death motif unless death prediction drives
+    the episode.
+  suggested_aliases:
+  - false healer exposed by failed prophecy
+  - failed death prediction reveals impostor healer
+  - impostor healer exposed by wrong death forecast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use death as a false sign, report, or deception device
+  rather than as an afterlife/descent motif; placements are therefore provisional.
+- Single-occurrence, highly contextual false-death labels should generally remain
+  granular evidence unless recurrence shows a stable pattern.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional mapping suggestions only; source context needed especially for
+    false signs and mistaken death reports.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0172
+  input_sha256: 812e1af4a1a307329bbc0a7ead026f3d037072ac7f3fc2e2ada9a5699c5cc591
+

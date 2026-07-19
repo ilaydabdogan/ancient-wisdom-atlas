@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0133
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.demons-from-the-souls-of-giants
+  motif_id: demons_from_the_souls_of_giants
+  label: demons from the souls of giants
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes postmortem transformation of giant souls into demons,
+    but may be a tradition-specific demonological origin claim.
+  cautions: Single occurrence and culturally specific; may fit cosmic_origin, death_and_transformation,
+    or a future demonology/spirit-origin group depending on source context.
+  suggested_aliases:
+  - giant_souls_become_demons
+  - postmortem_demonic_origin_from_giants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.denial-of-an-inner-soul-through-bodily-sense-organ-reasoning
+  motif_id: denial_of_an_inner_soul_through_bodily_sense_organ_reasoning
+  label: denial of an inner soul through bodily sense-organ reasoning
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to be a doctrinal argument about soul and perception
+    rather than a narrative death motif.
+  cautions: Could be philosophical teaching, commentary artifact, or Buddhist no-self
+    doctrine; do not normalize as soul-loss or external-soul without passage evidence.
+  suggested_aliases:
+  - no_inner_soul_argued_from_sense_organs
+  - doctrinal_denial_of_soul_by_sense_reasoning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.denial-of-burial-and-exposure-of-the-corpse
+  motif_id: denial_of_burial_and_exposure_of_the_corpse
+  label: Denial of burial and exposure of the corpse
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: alias
+  confidence: high
+  rationale: This is a wording variant of existing denied_funerary_rites_and_corpse_exposure
+    under heroic funeral rites.
+  cautions: If the corpse is not heroic or socially significant, preserve as a general
+    funerary-denial detail rather than combat-specific evidence.
+  suggested_aliases:
+  - denied_funerary_rites_and_corpse_exposure
+  - denial_of_burial
+  - corpse_exposure_after_denied_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.denial-or-testing-of-death-through-bodily-signs
+  motif_id: denial_or_testing_of_death_through_bodily_signs
+  label: denial or testing of death through bodily signs
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns verifying or refusing death by bodily evidence, adjacent
+    to death recognition but not clearly renewal or afterlife passage.
+  cautions: May be an episode-specific realism/detail label, a resurrection test,
+    or tragic recognition; source context is needed before indexing broadly.
+  suggested_aliases:
+  - testing_death_by_bodily_signs
+  - bodily_signs_used_to_verify_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.departed-soul-transmigrates-into-a-tangible-creature-form
+  motif_id: departed_soul_transmigrates_into_a_tangible_creature_form
+  label: departed soul transmigrates into a tangible creature-form
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A departed soul taking creature form is a postmortem transformation into
+    a new embodied state.
+  cautions: Could also relate to shapeshifter if the focus is animal embodiment, or
+    ancestor rites if the creature form mediates ancestor presence.
+  suggested_aliases:
+  - departed_soul_transmigrates_into_creature_form
+  - postmortem_soul_transformation_into_animal_or_creature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.departed-souls
+  motif_id: departed_souls
+  label: departed souls
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is too broad to determine whether it concerns afterlife passage,
+    ancestors, ghosts, or soul ontology.
+  cautions: Do not map merely because the dead are mentioned; use only if source evidence
+    shows a specific role such as ancestor rite, haunting, journey, or transformation.
+  suggested_aliases:
+  - souls_of_the_dead
+  - dead_souls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.departed-spirits-divided-into-harmful-and-protective-forms
+  motif_id: departed_spirits_divided_into_harmful_and_protective_forms
+  label: departed spirits divided into harmful and protective forms
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes classification of dead spirits by function, overlapping
+    harmful haunting and protective tutelary agency.
+  cautions: Could be a doctrinal taxonomy or commentary artifact rather than a narrative
+    motif; protective forms may belong with divine_intervention or ancestor_rites.
+  suggested_aliases:
+  - harmful_and_protective_departed_spirits
+  - dead_spirits_as_dangerous_or_guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deprivation-of-the-untended-ghost
+  motif_id: deprivation_of_the_untended_ghost
+  label: Deprivation of the untended ghost
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: functional_variant
+  confidence: high
+  rationale: An untended ghost suffering deprivation directly fits ritual care or
+    feeding of the dead.
+  cautions: If the passage emphasizes the ghost's vengeance or haunting response,
+    add related indexing to restless_dead_haunting_vengeance.
+  suggested_aliases:
+  - untended_ghost_deprived_of_offerings
+  - deprivation_of_unfed_dead
+  - neglected_dead_lack_ritual_care
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-beneath-earth-to-the-yellow-spring-after-death
+  motif_id: descent_beneath_earth_to_the_yellow_spring_after_death
+  label: descent beneath earth to the Yellow Spring after death
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: A postmortem descent to an under-earth destination fits afterlife passage
+    more specifically than general descent.
+  cautions: Yellow Spring is a culturally specific afterlife term; preserve local
+    name and avoid treating it as generic underworld unless passage supports that
+    function.
+  suggested_aliases:
+  - postmortem_descent_to_yellow_spring
+  - descent_to_under_earth_afterlife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descent-beneath-water-to-an-inhabited-nonhuman-dwelling
+  motif_id: descent_beneath_water_to_an_inhabited_nonhuman_dwelling
+  label: Descent beneath water to an inhabited nonhuman dwelling
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: An inhabited nonhuman dwelling beneath water functions as an adjacent
+    otherworld rather than necessarily the realm of the dead.
+  cautions: If the episode is a death journey, initiation ordeal, or water-boundary
+    crossing, descent or sacred_waters may be appropriate secondary mappings.
+  suggested_aliases:
+  - underwater_nonhuman_dwelling
+  - descent_to_underwater_otherworld
+  - beneath_water_otherworld_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and need source-context review
+  before promotion beyond broad group placement.
+- Avoid merging postmortem soul ontology, ancestor care, and underworld travel unless
+  the passage evidence shows the same narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific afterlife and soul concepts
+    should retain local labels in evidence notes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0133
+  input_sha256: 78c95a25edbd2383d4daf2fd853d9e80980131a702466c54e6a427be53db096a
+

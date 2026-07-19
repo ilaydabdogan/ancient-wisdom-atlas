@@ -1,0 +1,323 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1779
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.capture-marriage-exception
+  motif_id: capture_marriage_exception
+  label: capture marriage exception
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a local marriage rule or exception involving
+    capture, but its narrative or ritual function is unclear.
+  cautions: Single occurrence and potentially culturally sensitive kinship/legal category;
+    do not map to sacred_love without evidence that love, marriage choice, or bride-winning
+    is the motif focus.
+  suggested_aliases:
+  - capture_marriage_rule_exception
+  - marriage_by_capture_exception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacred_law
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.capture-of-royal-center-with-royal-kin-taken-prisoner
+  motif_id: capture_of_royal_center_with_royal_kin_taken_prisoner
+  label: Capture of royal center with royal kin taken prisoner
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The capture of a royal center and royal kin concerns the disruption or
+    transfer of sacred-political order.
+  cautions: May be an episode-specific conquest detail; if battle tactics are central,
+    sacred_combat may be a secondary placement.
+  suggested_aliases:
+  - royal_center_captured_with_kin_prisoners
+  - capture_of_capital_and_royal_family
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-child-adopted-by-captors
+  motif_id: captured_child_adopted_by_captors
+  label: Captured child adopted by captors
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Captive Child Incorporation
+  relationship: child
+  confidence: medium
+  rationale: The motif centers on a captured child being socially incorporated into
+    the captor group, which is not well covered by miraculous_child or sacred_law.
+  cautions: Review source context carefully; may be kinship practice, captivity narrative,
+    adoption origin, or episode-specific detail rather than a broad motif.
+  suggested_aliases:
+  - captured_child_adopted_into_captor_group
+  - captive_child_adoption
+  suggested_new_group:
+    id: captive_child_incorporation
+    label: Captive Child Incorporation
+    description: A child taken in conflict, raid, abduction, or captivity is adopted,
+      raised, renamed, or incorporated into the captor group, altering kinship, identity,
+      or future allegiance.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - miraculous_child
+    - recognition_tokens_hidden_identity
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover sacred birth, persecuted
+      children, law, and combat, but not the recurring kinship transformation of a
+      captive child becoming part of another group.
+- suggestion_id: normalization.suggestion.captured-child-incorporated-into-captor-group
+  motif_id: captured_child_incorporated_into_captor_group
+  label: captured child incorporated into captor group
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Captive Child Incorporation
+  relationship: alias
+  confidence: medium
+  rationale: This is a close synonym of captured child adoption/incorporation and
+    points to a distinct kinship-identity transformation pattern.
+  cautions: Needs human review because adoption, captivity, and incorporation may
+    carry different cultural meanings in the source.
+  suggested_aliases:
+  - captured_child_adopted_by_captors
+  - captive_child_incorporated_into_captor_group
+  suggested_new_group:
+    id: captive_child_incorporation
+    label: Captive Child Incorporation
+    description: A child taken in conflict, raid, abduction, or captivity is adopted,
+      raised, renamed, or incorporated into the captor group, altering kinship, identity,
+      or future allegiance.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - miraculous_child
+    - recognition_tokens_hidden_identity
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover sacred birth, persecuted
+      children, law, and combat, but not the recurring kinship transformation of a
+      captive child becoming part of another group.
+- suggestion_id: normalization.suggestion.captured-child-kills-renowned-warrior
+  motif_id: captured_child_kills_renowned_warrior
+  label: Captured child kills renowned warrior
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: The decisive action is a child killing a renowned warrior, placing the
+    episode in heroic combat or warrior reversal.
+  cautions: The captured-child status may be important for kinship or revenge; source
+    context is needed before treating this as a general combat motif.
+  suggested_aliases:
+  - captive_child_kills_famous_warrior
+  - captured_child_defeats_renowned_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - captive_child_incorporation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.care-and-restoration-of-an-impaired-found-person
+  motif_id: care_and_restoration_of_an_impaired_found_person
+  label: Care and restoration of an impaired found person
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Care for a vulnerable found person can function as reciprocal or morally
+    charged hospitality and restoration.
+  cautions: May instead be healing, adoption, disability care, or a passage-specific
+    plot detail; avoid overgeneralizing without evidence of sacred obligation or return
+    benefit.
+  suggested_aliases:
+  - restorative_care_for_found_impaired_person
+  - care_for_vulnerable_found_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.care-for-forlorn-and-impaired-persons-through-allowances-and-work-based-support
+  motif_id: care_for_forlorn_and_impaired_persons_through_allowances_and_work_based_support
+  label: Care for forlorn and impaired persons through allowances and work-based support
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: high
+  rationale: The label describes institutional ethical care for vulnerable persons,
+    fitting sacred law and social order.
+  cautions: Likely an ethical-political teaching rather than a narrative motif; preserve
+    specificity as evidence under social care.
+  suggested_aliases:
+  - social_care_for_vulnerable_persons
+  - support_for_forlorn_and_impaired_persons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.care-repair-and-seasonal-protection-of-a-skin-vessel
+  motif_id: care_repair_and_seasonal_protection_of_a_skin_vessel
+  label: care, repair, and seasonal protection of a skin vessel
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on maintaining and ritually protecting a vessel, which
+    fits the sacred vessel/container group.
+  cautions: If the skin vessel is only a practical object in an ethnographic note,
+    it may be too specific for pattern queries; seasonal aspect may also relate to
+    sacred_time.
+  suggested_aliases:
+  - seasonal_care_of_skin_vessel
+  - ritual_repair_of_skin_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.careful-handling-of-a-grandfather-or-elder
+  motif_id: careful_handling_of_a_grandfather_or_elder
+  label: careful handling of a grandfather or elder
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to elder care, ancestor respect, ritual danger, or
+    a literal episode, and the function is unclear.
+  cautions: Single occurrence and culturally specific; do not map to ancestor_rites
+    unless the elder is dead or ritually ancestral, or to sacred_law unless a normative
+    obligation is explicit.
+  suggested_aliases:
+  - careful_care_of_an_elder
+  - ritual_handling_of_grandfather_or_elder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - ancestor_rites
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.caretaker-conceals-danger-to-preserve-children
+  motif_id: caretaker_conceals_danger_to_preserve_children
+  label: Caretaker conceals danger to preserve children
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A caretaker hides danger to protect children, aligning with protected
+    or threatened child motifs.
+  cautions: If the children have no sacred destiny or miraculous role, this may be
+    a family-protection episode rather than miraculous_child; consider persecuted_child
+    if a hostile caretaker or rival is involved.
+  suggested_aliases:
+  - protective_caretaker_conceals_danger_from_children
+  - child_preservation_by_concealed_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - jealous_stepmother_persecuted_child
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern kinship, captivity, adoption, elder care, and
+  disability; these should receive human review for culturally specific meanings before
+  broad indexing.
+- A small new-group candidate, captive_child_incorporation, may be useful if additional
+  captured-child adoption/incorporation labels recur across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for kinship/legal
+    versus narrative-motif function.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1779
+  input_sha256: 181b43b630c0aa95b8dff70e23f584c1d4f081b959a169e973b70f0f5c1993b4
+

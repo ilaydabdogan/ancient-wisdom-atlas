@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1386
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.named-or-personified-battle-weapon
+  motif_id: named_or_personified_battle_weapon
+  label: Named or personified battle-weapon
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: role_variant
+  confidence: medium
+  rationale: A named or personified weapon functions as a power object that can confer
+    martial authority or decide battle.
+  cautions: Single occurrence; if the weapon's role is only a battle detail, sacred_combat
+    or divine_warrior may be secondary rather than primary.
+  suggested_aliases:
+  - personified_battle_weapon
+  - named_weapon
+  - supernatural_or_named_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-pair-associated-with-repeated-song
+  motif_id: named_pair_associated_with_repeated_song
+  label: named pair associated with repeated song
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate a sung narrative refrain, paired characters,
+    or ritual song, but the function is unclear.
+  cautions: May be a textual/performance artifact rather than a motif; review San
+    source context before mapping to sacred_twins, enchanting_music, or storytelling_as_power.
+  suggested_aliases:
+  - named_pair_with_repeated_song
+  - repeated_song_associated_with_pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-personal-object-involved-in-the-plot
+  motif_id: named_personal_object_involved_in_the_plot
+  label: Named personal object involved in the plot
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A named object may be a power object, recognition token, vessel, or ordinary
+    plot prop depending on evidence.
+  cautions: Too generic without source function; do not map solely because an object
+    is named.
+  suggested_aliases:
+  - named_plot_object
+  - named_personal_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-place-etiology
+  motif_id: named_place_etiology
+  label: named-place etiology
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The taxonomy already groups place-name etiologies and etiological landscape
+    naming under cosmic_origin.
+  cautions: If it is merely a named location without an origin explanation, exclude
+    or review as place-only detail.
+  suggested_aliases:
+  - place_name_etiology
+  - place_naming_etiology
+  - etiological_place_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-portent-ride-before-great-tidings
+  motif_id: named_portent_ride_before_great_tidings
+  label: named portent ride before great tidings
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A portent announcing major news fits omen and foreknowledge patterns.
+  cautions: The 'ride' detail may be episode-specific; if the focus is dreamlike vision
+    rather than omen role, dream_and_vision may be secondary.
+  suggested_aliases:
+  - portent_before_great_tidings
+  - omen_ride_before_news
+  - portent_ride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-prestige-objects
+  motif_id: named_prestige_objects
+  label: named prestige objects
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: Prestige objects with names plausibly fit power objects conferring authority,
+    status, or sacred value.
+  cautions: If the objects are primarily exchange valuables rather than sacred power
+    objects, sacred_exchange may be the better mapping; cultural context needed.
+  suggested_aliases:
+  - named_prestige_object
+  - prestige_power_objects
+  - named_status_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-rivers-with-fantastic-geography
+  motif_id: named_rivers_with_fantastic_geography
+  label: Named rivers with fantastic geography
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Fantastic rivers could mark sacred waters, otherworld geography, afterlife
+    passage, or a place-list artifact.
+  cautions: Single occurrence and place-name specificity; review whether the rivers
+    function as boundaries, otherworld route, or merely catalogued geography.
+  suggested_aliases:
+  - fantastic_named_rivers
+  - mythic_river_geography
+  - named_otherworld_rivers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-ruin-as-former-dwelling-of-divinities
+  motif_id: named_ruin_as_former_dwelling_of_divinities
+  label: named ruin as former dwelling of divinities
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A ruin formerly inhabited by divinities may be sacred geography, theophanic
+    memory, or place etiology.
+  cautions: Culturally sensitive place-based material; verify whether it is a living
+    sacred place, an origin explanation, or a passage-specific named location before
+    indexing.
+  suggested_aliases:
+  - ruin_as_divine_dwelling
+  - former_dwelling_of_divinities
+  - sacred_ruin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-settlement-as-tribal-or-political-identity-marker
+  motif_id: named_settlement_as_tribal_or_political_identity_marker
+  label: Named settlement as tribal or political identity marker
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to mark ethnographic or political identification by
+    place name rather than a symbolic narrative motif.
+  cautions: If the source explains the settlement's sacred origin or founding, remap
+    to cosmic_origin or royal_legitimacy after review.
+  suggested_aliases:
+  - settlement_identity_marker
+  - named_settlement_identity_marker
+  - place_name_as_political_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.named-sibling-set
+  motif_id: named_sibling_set
+  label: named sibling set
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: narrower_than
+  confidence: medium
+  rationale: A named sibling set fits the existing sibling-pair/twin complex when
+    the siblings act as a meaningful pair or set.
+  cautions: If this is merely a list of related named figures with no narrative function,
+    exclude as a person-list artifact.
+  suggested_aliases:
+  - named_sibling_pair
+  - named_sibling_group
+  - sibling_set
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch begin with 'named', which may indicate passage extraction
+  artifacts or named-entity details rather than motif functions; source context is
+  important.
+- Do not infer transmission or cultural relationship from shared placement; suggestions
+  are only normalization aids.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements favor existing groups where the narrative function
+    is legible; ambiguous named-entity and place-specific items are flagged for human
+    review or exclusion.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1386
+  input_sha256: 9bd8e1a329034ffc86444205f3bc5d0dcdf9d693fb06e3136e4a3b19a086e73a
+

@@ -1,0 +1,321 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1926
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.naming-a-child-after-the-deceased
+  motif_id: naming_a_child_after_the_deceased
+  label: Naming a child after the deceased
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could concern ancestor continuity, reincarnation/name-soul beliefs, memorialization,
+    or ordinary kin naming practice.
+  cautions: Single occurrence and culturally specific; Inuit naming practices may
+    involve personhood and ancestor relations that need source evidence before placement.
+  suggested_aliases:
+  - memorial_naming_after_the_dead
+  - child_named_for_deceased_kin
+  - ancestor_name_given_to_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - death_and_transformation
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.narrative-voice-shifting-between-impersonation-and-direct-narration
+  motif_id: narrative_voice_shifting_between_impersonation_and_direct_narration
+  label: narrative voice shifting between impersonation and direct narration
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Describes narration technique or performance style rather than a symbolic
+    or narrative motif.
+  cautions: Preserve as textual/performance evidence if useful, but exclude from motif
+    pattern queries unless tied to sacred speech or possession in source evidence.
+  suggested_aliases:
+  - shifting_narrative_voice
+  - impersonation_and_direct_narration
+  - performance_voice_shift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natal-kin-retain-retaliatory-obligations-after-marriage
+  motif_id: natal_kin_retain_retaliatory_obligations_after_marriage
+  label: Natal kin retain retaliatory obligations after marriage
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Concerns kinship obligation, marriage alliance, and vengeance duties;
+    no current group cleanly captures kin-based retaliation after marriage.
+  cautions: May be ethnographic social-structure detail rather than a portable motif;
+    could map to sacred_law, covenant, betrayal, or sacred_combat depending on narrative
+    evidence.
+  suggested_aliases:
+  - natal_kin_retain_vengeance_obligations
+  - marriage_does_not_end_blood_revenge_obligation
+  - kin_retaliation_after_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - sacred_combat
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-animal-family-as-possible-source-of-legendary-pack-reports
+  motif_id: natural_animal_family_as_possible_source_of_legendary_pack_reports
+  label: Natural animal family as possible source of legendary pack reports
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label proposes a naturalistic explanation for reports, not a motif
+    in the narrative world.
+  cautions: If passages actually depict legendary animal packs, create or map a separate
+    animal motif; do not index this explanatory note as mythic evidence.
+  suggested_aliases:
+  - naturalistic_explanation_for_legendary_animal_packs
+  - animal_family_as_source_of_pack_reports
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-force-child-or-personified-wind-figure
+  motif_id: natural_force_child_or_personified_wind_figure
+  label: Natural-force child or personified wind figure
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A personified wind or natural-force child fits the group’s existing scope
+    for natural phenomena personified as divine or supernatural beings.
+  cautions: If the child’s birth or kin role is central, miraculous_child may be a
+    secondary relation; if merely nature personification, keep under divine_intervention.
+  suggested_aliases:
+  - personified_wind_child
+  - wind_child_figure
+  - natural_force_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-force-personified-as-young-wind-or-son
+  motif_id: natural_force_personified_as_young_wind_or_son
+  label: Natural force personified as young wind or son
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Closely matches existing divine_intervention aliases for natural phenomena
+    personified as divine beings.
+  cautions: Likely duplicate or near-duplicate of natural_force_child_or_personified_wind_figure;
+    review for alias merge.
+  suggested_aliases:
+  - personified_young_wind
+  - wind_personified_as_son
+  - natural_force_as_wind_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-sound-personified-as-subterranean-weeping
+  motif_id: natural_sound_personified_as_subterranean_weeping
+  label: Natural sound personified as subterranean weeping
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be nature personification, chthonic/underworld presence, haunting,
+    or etiological explanation of a sound.
+  cautions: Single occurrence and strongly contextual; needs evidence for whether
+    the weeping is a supernatural being, dead person, landscape spirit, or explanatory
+    commentary.
+  suggested_aliases:
+  - subterranean_weeping_personifies_natural_sound
+  - natural_sound_as_chthonic_weeping
+  - weeping_sound_beneath_the_earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - restless_dead_haunting_vengeance
+    - descent
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-substance-personified-as-a-supernatural-being
+  motif_id: natural_substance_personified_as_a_supernatural_being
+  label: natural substance personified as a supernatural being
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Existing group includes natural phenomena personified as divine beings;
+    a substance personified as supernatural fits that broad role.
+  cautions: If the substance is ritually eaten, drunk, offered, or used as medicine,
+    sacred_substance or sacrifice may be secondary mappings.
+  suggested_aliases:
+  - personified_natural_substance
+  - natural_substance_as_supernatural_being
+  - substance_spirit_personification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - sacrifice
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-substances-transformed-into-weapon-poison
+  motif_id: natural_substances_transformed_into_weapon_poison
+  label: natural substances transformed into weapon poison
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Weapon poison made from natural substances functions as a combat technology
+    or martial preparation.
+  cautions: Low confidence because the label may describe practical ethnobotany or
+    passage detail rather than a mythic motif; if poison is ritually charged, sacred_substance
+    or sacred_law may fit better.
+  suggested_aliases:
+  - natural_poison_for_weapons
+  - weapon_poison_from_natural_substances
+  - transformed_substances_as_poisoned_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - sacred_law
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-wonder-framed-by-discovery-measurement-and-comparison
+  motif_id: natural_wonder_framed_by_discovery_measurement_and_comparison
+  label: natural wonder framed by discovery, measurement, and comparison
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Describes framing or descriptive method around a natural wonder, not
+    a recurring mythic action or symbol.
+  cautions: If the wonder itself has sacred origin or landscape-forming function,
+    index that separate motif under cosmic_origin or axis_mundi instead.
+  suggested_aliases:
+  - natural_wonder_described_by_measurement
+  - discovery_and_measurement_of_natural_wonder
+  - comparative_description_of_natural_wonder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, highly contextual, or read as
+  ethnographic/commentary artifacts; human review should confirm passage evidence
+  before durable mapping.
+- The two San wind-personification labels appear semantically overlapping and may
+  be candidates for alias consolidation.
+- Do not infer transmission or common origin from placements; these are provisional
+  query-facet suggestions only.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch review; culturally
+    specific kinship, naming, and personification labels require source-sensitive
+    human validation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1926
+  input_sha256: a0606994b1205c4ad21b55f5ef2bcd12c52ba622996f1bad9c2091cea0aae334
+

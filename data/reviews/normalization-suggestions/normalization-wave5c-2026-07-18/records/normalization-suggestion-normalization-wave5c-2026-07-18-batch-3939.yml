@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3939
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.semi-apotheosis-of-a-patriarch
+  motif_id: semi_apotheosis_of_a_patriarch
+  label: semi-apotheosis of a patriarch
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve patriarchal exaltation, ascent, theophany, ancestor status,
+    or royal/divine legitimacy, but the label is too contextual to place without evidence.
+  cautions: Single occurrence; apotheosis of a patriarch in Jewish pseudepigraphic
+    material may be culturally and theologically sensitive and should not be collapsed
+    into simple deification.
+  suggested_aliases:
+  - patriarchal_exaltation
+  - semi_divinization_of_a_patriarch
+  - exalted_patriarch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ascent
+    - theophany
+    - royal_legitimacy
+    - ancestor_rites
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.semi-historical-mythology-of-a-civilization
+  motif_id: semi_historical_mythology_of_a_civilization
+  label: Semi-historical mythology of a civilization
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a scholarly genre or framing of tradition rather
+    than a recurring narrative motif.
+  cautions: If the passage actually gives an origin narrative for a people, city,
+    dynasty, or civilization, remap the underlying evidence rather than this meta-label.
+  suggested_aliases:
+  - semi_historical_mythology
+  - civilizational_myth_history
+  - mythic_history_of_a_civilization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.semi-nomadic-circuit-within-a-local-territory
+  motif_id: semi_nomadic_circuit_within_a_local_territory
+  label: Semi-nomadic circuit within a local territory
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as an ethnographic mobility pattern or social description,
+    not a mythic motif with symbolic or narrative function.
+  cautions: If source evidence frames the circuit as ritual pilgrimage, sacred geography,
+    exile, or seasonal sacred time, review for axis_mundi, hero_journey, or sacred_time
+    instead.
+  suggested_aliases:
+  - local_semi_nomadic_circuit
+  - territorial_mobility_cycle
+  - semi_nomadic_local_round
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - axis_mundi
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seniority-and-permission-in-monastic-space
+  motif_id: seniority_and_permission_in_monastic_space
+  label: seniority and permission in monastic space
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rules of precedence and permission in monastic space fit sacred law as
+    disciplined social and ritual order.
+  cautions: May be a vinaya or institutional detail rather than a motif; preserve
+    monastic-space specificity as evidence.
+  suggested_aliases:
+  - monastic_seniority_and_permission
+  - monastic_precedence_rules
+  - ritual_permission_in_monastic_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seniority-based-precedence-and-deference
+  motif_id: seniority_based_precedence_and_deference
+  label: seniority-based precedence and deference
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: Precedence and deference rules can fit social order under sacred law
+    when framed as normative or ritual obligation.
+  cautions: Could be ordinary social organization rather than a sacred motif; confirm
+    mythic, ritual, or ethical salience before indexing.
+  suggested_aliases:
+  - seniority_precedence
+  - age_based_deference
+  - seniority_ordering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sensory-verbs-extended-across-bodily-experience
+  motif_id: sensory_verbs_extended_across_bodily_experience
+  label: Sensory verbs extended across bodily experience
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes linguistic semantics of verbs, not a narrative, ritual,
+    or symbolic motif.
+  cautions: Preserve only as linguistic or commentary metadata unless a passage uses
+    sensory transformation as mythic action.
+  suggested_aliases:
+  - extended_sensory_verbs
+  - cross_bodily_sensory_language
+  - sensory_verb_extension
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sent-artificial-head-kills-deserters-or-hostile-neighbors
+  motif_id: sent_artificial_head_kills_deserters_or_hostile_neighbors
+  label: sent artificial head kills deserters or hostile neighbors
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: An artificial manufactured head acting lethally fits the sacred craft/artificial
+    animation complex more than ordinary combat.
+  cautions: Could also involve sacred combat, vengeance, or spirit agency; the deserter/neighbor
+    target detail is likely over-specific evidence.
+  suggested_aliases:
+  - animated_artificial_head_as_weapon
+  - sent_magical_head_kills_enemies
+  - manufactured_head_used_as_lethal_agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_intervention
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sentinel-silenced-by-a-gift
+  motif_id: sentinel_silenced_by_a_gift
+  label: Sentinel silenced by a gift
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: The key action is a gift altering obligation or behavior, which best
+    fits exchange and reciprocity if the act is narratively significant.
+  cautions: May simply be bribery or a plot detail; if deception is central, trickster
+    may be a better secondary mapping.
+  suggested_aliases:
+  - gift_silences_guard
+  - bribed_sentinel
+  - guard_silenced_by_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separate-menstrual-shelter
+  motif_id: separate_menstrual_shelter
+  label: Separate menstrual shelter
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A separate menstrual shelter is a spatialized ritual or purity regulation,
+    fitting sacred law and social order.
+  cautions: Culturally sensitive; avoid treating the practice as generic impurity
+    without source context and local meaning.
+  suggested_aliases:
+  - menstrual_seclusion_shelter
+  - menstrual_separation_space
+  - ritual_menstrual_shelter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separate-origin-claim-for-a-people
+  motif_id: separate_origin_claim_for_a_people
+  label: Separate-origin claim for a people
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A claim explaining a people's distinct origin fits the existing people-origins
+    and eponymous ancestry material under cosmic_origin.
+  cautions: If the label is only a scholarly classification of group identity rather
+    than an origin narrative, exclude as meta-textual.
+  suggested_aliases:
+  - distinct_origin_of_a_people
+  - separate_people_origin
+  - ethnic_origin_claim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_race
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ethnographic or scholarly abstractions;
+  placements should be verified against source passages before indexing.
+- Avoid converting social-description labels into motifs unless the evidence shows
+  ritual, mythic, ethical, or symbolic function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3939
+  input_sha256: 40d52f46f47a33224b1bb2fae242e13f45bb734c222e2a47c0c8151f50029090
+

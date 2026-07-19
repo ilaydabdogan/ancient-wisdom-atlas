@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2929
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ecstatic-trance-during-mourning
+  motif_id: ecstatic_trance_during_mourning
+  label: ecstatic trance during mourning
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines grief with altered consciousness, overlapping mourning
+    and dream/vision states.
+  cautions: Single occurrence; may be a ritual/devotional practice rather than a narrative
+    motif. Review Sikh context before indexing.
+  suggested_aliases:
+  - mourning_trance
+  - trance_in_grief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ekphrastic-garment-containing-multiple-mythic-scenes
+  motif_id: ekphrastic_garment_containing_multiple_mythic_scenes
+  label: ekphrastic garment containing multiple mythic scenes
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This describes an ekphrastic literary/art-object device rather than a
+    stable symbolic motif.
+  cautions: If the garment itself confers power, authority, or recognition in the
+    passage, review under sacred_treasures instead.
+  suggested_aliases:
+  - ekphrastic_mythic_garment
+  - garment_with_mythic_scenes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elaborate-preparation-for-ceremonial-gathering
+  motif_id: elaborate_preparation_for_ceremonial_gathering
+  label: elaborate preparation for ceremonial gathering
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad ritual preparation, but the function is unclear from
+    wording alone.
+  cautions: Could be sacred_exchange, sacrifice, initiation, hospitality, sacred_law,
+    or merely scene setting. Needs source evidence.
+  suggested_aliases:
+  - ceremonial_preparation
+  - preparation_for_ritual_gathering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elapsed-four-month-interval-marks-delayed-action
+  motif_id: elapsed_four_month_interval_marks_delayed_action
+  label: Elapsed four-month interval marks delayed action
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: A specific elapsed interval marking delayed action reads as narrative
+    timing rather than a motif.
+  cautions: If tied to a recurring ritual calendar or seasonal rule, review under
+    sacred_time; label alone does not support that.
+  suggested_aliases:
+  - four_month_delay
+  - delayed_action_after_four_months
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elder-council-at-a-men-s-clubhouse-platform
+  motif_id: elder_council_at_a_men_s_clubhouse_platform
+  label: Elder council at a men's clubhouse platform
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: An elder council may express social order or deliberative authority,
+    but the platform setting is culturally specific.
+  cautions: Could be ethnographic scene detail rather than motif; avoid flattening
+    gendered Melanesian institution without evidence of ritual or legal function.
+  suggested_aliases:
+  - elder_council_in_mens_house
+  - council_at_clubhouse_platform
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elder-sends-youth-to-plant-seed-in-a-prepared-clearing
+  motif_id: elder_sends_youth_to_plant_seed_in_a_prepared_clearing
+  label: Elder sends youth to plant seed in a prepared clearing
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: uncertain
+  confidence: low
+  rationale: Elder-to-youth instruction and planting may mark initiation, agricultural
+    teaching, or culture transmission.
+  cautions: Could instead be culture_hero, sacred_time, fertility/agriculture, or
+    simple plot action. Source context is required.
+  suggested_aliases:
+  - elder_instructs_youth_to_plant_seed
+  - youth_sent_to_plant_seed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elder-woman-manages-household-hunting-proceeds
+  motif_id: elder_woman_manages_household_hunting_proceeds
+  label: elder woman manages household hunting proceeds
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: Management and distribution of hunting proceeds may reflect reciprocity
+    and household exchange obligations.
+  cautions: May be local social organization or passage detail, not a mythic motif.
+    Review Inuit context carefully before mapping.
+  suggested_aliases:
+  - elder_woman_distributes_hunting_proceeds
+  - household_management_of_hunting_proceeds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elevated-food-platform-as-distribution-center
+  motif_id: elevated_food_platform_as_distribution_center
+  label: elevated food platform as distribution center
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: A food platform used for distribution may function in reciprocal provisioning
+    or ceremonial exchange.
+  cautions: Object-specific and single occurrence; may be ethnographic setting detail
+    unless distribution has ritual/social obligation force.
+  suggested_aliases:
+  - food_distribution_platform
+  - elevated_platform_for_food_distribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elevated-house-as-protection-against-sorcery
+  motif_id: elevated_house_as_protection_against_sorcery
+  label: elevated house as protection against sorcery
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Protective spatial practice against sorcery fits apotropaic protection
+    folded under sacred_law.
+  cautions: Could become an over-specific architectural detail; preserve elevation/house
+    context as evidence rather than a canonical child unless recurrent.
+  suggested_aliases:
+  - protective_elevated_house
+  - house_elevation_against_sorcery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.elevated-lookout-for-an-approaching-vessel
+  motif_id: elevated_lookout_for_an_approaching_vessel
+  label: elevated lookout for an approaching vessel
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a practical scene detail about watching for a ship,
+    not a symbolic motif.
+  cautions: If the lookout functions as threshold warning, divine sign, or ritual
+    watchpoint, review with passage evidence; label alone is too specific.
+  suggested_aliases:
+  - lookout_for_approaching_vessel
+  - elevated_watch_for_ship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence ethnographic or scene-setting
+  labels; human review should verify whether they function as motifs rather than contextual
+  details.
+- For culturally specific household, council, and ritual-space labels, preserve local
+  wording in evidence notes and avoid promoting to taxonomy families without recurrence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional automated placement suggestions only.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2929
+  input_sha256: 24dce272e82d92db92496f215f2d6e40ea9523eab179683388b38d4f3e6fde34
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2724
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-weapon-too-heavy-for-ordinary-handling
+  motif_id: heroic_weapon_too_heavy_for_ordinary_handling
+  label: heroic weapon too heavy for ordinary handling
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon too heavy for ordinary handling functions as a power object
+    that marks exceptional heroic capacity.
+  cautions: Could also support divine_warrior or sacred_combat if the passage emphasizes
+    battle rather than the weapon's special status.
+  suggested_aliases:
+  - extraordinary_heavy_heroic_weapon
+  - weapon_only_the_hero_can_handle
+  - supernaturally_heavy_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-welcome-and-praise
+  motif_id: heroic_welcome_and_praise
+  label: heroic welcome and praise
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a recurring honor scene after heroic action, but
+    it is too general without evidence of ritual, kingship, lament, or combat function.
+  cautions: May be a passage-level reception detail rather than a durable motif; consider
+    divine_warrior, royal_legitimacy, or heroic_funeral_rites only if source context
+    supports them.
+  suggested_aliases:
+  - hero_welcomed_with_praise
+  - public_praise_of_the_returning_hero
+  - heroic_acclamation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroine-uses-carried-objects-to-survive-monsters
+  motif_id: heroine_uses_carried_objects_to_survive_monsters
+  label: Heroine uses carried objects to survive monsters
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Carried objects used to survive monstrous threats act as protective or
+    power objects in an ordeal.
+  cautions: If the objects are ordinary tools used by wit, trickster or initiation
+    may be better; if combat dominates, sacred_combat may be secondary.
+  suggested_aliases:
+  - protective_carried_objects_against_monsters
+  - objects_aid_heroine_in_monster_ordeal
+  - survival_objects_against_monsters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-bodily-anomaly-revealed-by-a-royal-test
+  motif_id: hidden_bodily_anomaly_revealed_by_a_royal_test
+  label: Hidden bodily anomaly revealed by a royal test
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed bodily feature revealed through testing functions as identity
+    proof or recognition evidence.
+  cautions: Royal-test context may also involve royal_legitimacy; review whether the
+    anomaly is a true identity token or merely a marvel/detail.
+  suggested_aliases:
+  - bodily_mark_revealed_by_test
+  - hidden_body_sign_as_identity_proof
+  - royal_test_reveals_concealed_bodily_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-ceremonial-post-recovered-by-a-war-party
+  motif_id: hidden_ceremonial_post_recovered_by_a_war_party
+  label: hidden ceremonial post recovered by a war party
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a culturally specific ceremonial object with recovery
+    by a war party, and its symbolic function is unclear.
+  cautions: Could be sacred_treasures, sacred_combat, axis_mundi, or a local ritual-object
+    detail; culturally specific ceremonial context needs human review.
+  suggested_aliases:
+  - recovery_of_hidden_ceremonial_post
+  - war_party_recovers_sacred_post
+  - hidden_ritual_post_retrieved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-identity-exposed-by-behavioral-tests
+  motif_id: hidden_identity_exposed_by_behavioral_tests
+  label: Hidden identity exposed by behavioral tests
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Behavioral tests that expose concealed identity fit the recognition and
+    hidden-identity proof complex.
+  cautions: Preserve whether tests prove kinship, hero status, species, or moral character;
+    initiation may be secondary if the test transforms status.
+  suggested_aliases:
+  - behavioral_test_reveals_hidden_identity
+  - identity_exposed_by_tests
+  - hidden_person_recognized_by_behavior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-identity-revealed-after-a-supernatural-ordeal
+  motif_id: hidden_identity_revealed_after_a_supernatural_ordeal
+  label: Hidden identity revealed after a supernatural ordeal
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core outcome is revelation of hidden identity, with the ordeal serving
+    as the mechanism of proof.
+  cautions: If the ordeal's transformative function is primary, initiation should
+    be considered as a secondary placement.
+  suggested_aliases:
+  - ordeal_reveals_hidden_identity
+  - supernatural_test_exposes_identity
+  - hidden_identity_proven_by_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-implements-recovered-as-aid-after-ordeal
+  motif_id: hidden_implements_recovered_as_aid_after_ordeal
+  label: hidden implements recovered as aid after ordeal
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Recovered hidden implements that aid a figure after ordeal fit power
+    objects or useful sacred objects.
+  cautions: If implements are mundane tools, culture_hero or hero_journey may fit
+    better; source context should decide whether they are sacred or merely practical.
+  suggested_aliases:
+  - hidden_tools_recovered_after_ordeal
+  - recovered_implements_as_ordeal_aid
+  - concealed_objects_aid_after_trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-indispensable-hero-revealed-by-weapon-test
+  motif_id: hidden_indispensable_hero_revealed_by_weapon_test
+  label: Hidden indispensable hero revealed by weapon test
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A weapon test reveals the concealed hero's identity and necessary role,
+    matching recognition-through-proof patterns.
+  cautions: Also related to sacred_treasures because the weapon mediates the test;
+    divine_warrior may apply if battlefield role is central.
+  suggested_aliases:
+  - weapon_test_reveals_hidden_hero
+  - hidden_hero_recognized_by_weapon_test
+  - indispensable_hero_identified_by_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-metals-as-source-of-vice-and-war
+  motif_id: hidden_metals_as_source_of_vice_and_war
+  label: hidden metals as source of vice and war
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Metals emerging as causes of vice and war fits decline from a primordial
+    order and the moral degradation associated with metallic ages.
+  cautions: Could also be pride_and_downfall or sacred_law if framed as moral teaching
+    rather than world-age decline; avoid treating every metal reference as cosmic
+    decline.
+  suggested_aliases:
+  - metals_reveal_war_and_vice
+  - hidden_metal_causes_moral_decline
+  - metal_as_source_of_war_and_corruption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; single-occurrence labels should
+  not be promoted without source evidence or recurrence.
+- Several labels combine recognition, ordeal, and combat; final indexing should preserve
+  the primary narrative function rather than only the conflict bucket.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch reviewed for existing-group placement with cautions for over-specific
+    and culturally contextual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2724
+  input_sha256: 868769967284e6f8ec29b74a2f0836c5d664325f155a23088740f4379e4a6cfd
+

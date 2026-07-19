@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0375
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.soul-residing-in-bones
+  motif_id: soul_residing_in_bones
+  label: soul residing in bones
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label places vital soul substance in a body part rather than ordinary
+    living presence, fitting external/separable soul anthropology.
+  cautions: Could instead be a mortuary or resurrection detail if bones function as
+    remains for reconstitution; single occurrence needs source review.
+  suggested_aliases:
+  - soul_in_bones
+  - soul_resides_in_bones
+  - bones_as_soul_receptacle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-restoration-followed-by-dismissal
+  motif_id: soul_restoration_followed_by_dismissal
+  label: Soul restoration followed by dismissal
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: high
+  rationale: The core action is recovery or restoration of a lost soul, followed by
+    a ritual or narrative dismissal.
+  cautions: The dismissal component may refer to spirit expulsion or ancestor dismissal;
+    preserve as evidence detail unless recurrent.
+  suggested_aliases:
+  - restored_soul_dismissed
+  - soul_recall_followed_by_dismissal
+  - soul_restoration_and_spirit_dismissal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-s-forgetfulness-through-a-cup-that-becomes-a-counterfeit-spirit
+  motif_id: soul_s_forgetfulness_through_a_cup_that_becomes_a_counterfeit_spirit
+  label: Soul’s forgetfulness through a cup that becomes a counterfeit spirit
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines soul forgetfulness, an enchanted cup, and counterfeit
+    spirit imagery; the dominant motif is unclear from the label alone.
+  cautions: May fit sacred_substance, sacred_vessel, soul loss, or Gnostic doctrinal
+    imagery; culturally and textually specific phrasing should be reviewed before
+    indexing.
+  suggested_aliases:
+  - soul_forgetfulness_through_cup
+  - cup_inducing_soul_forgetfulness
+  - counterfeit_spirit_from_cup
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-s-mastery-over-body
+  motif_id: soul_s_mastery_over_body
+  label: Soul's mastery over body
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The soul ruling the body fits interior discipline and liberation themes
+    already grouped with body-soul mastery imagery.
+  cautions: Could be philosophical anthropology rather than a narrative motif; if
+    merely doctrinal commentary, consider excluding from pattern queries.
+  suggested_aliases:
+  - soul_mastery_over_body
+  - soul_rules_the_body
+  - mastery_of_body_by_soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-s-pre-birth-descent-through-veils
+  motif_id: soul_s_pre_birth_descent_through_veils
+  label: soul’s pre-birth descent through veils
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Pre-birth descent through veils is most likely a mystical anthropology
+    of the soul’s veiling and embodiment, aligned with interior journey motifs.
+  cautions: Not an underworld descent unless the passage frames it as a death-realm
+    journey; may be doctrinal or allegorical rather than narrative.
+  suggested_aliases:
+  - pre_birth_soul_descent
+  - soul_descent_through_veils
+  - soul_veiling_before_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-safeguarding-during-dangerous-thresholds
+  motif_id: soul_safeguarding_during_dangerous_thresholds
+  label: Soul safeguarding during dangerous thresholds
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Protecting the soul at liminal moments fits ritual prohibition and apotropaic
+    safeguarding already folded under sacred_law.
+  cautions: Could also belong to afterlife_passage, threshold_guardian, or soul_loss_restoration
+    depending on whether the threshold is death, birth, travel, or initiation.
+  suggested_aliases:
+  - soul_safeguarding_at_thresholds
+  - ritual_protection_of_soul_at_thresholds
+  - apotropaic_soul_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-stealing-murderer
+  motif_id: soul_stealing_murderer
+  label: soul-stealing murderer
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: role_variant
+  confidence: medium
+  rationale: A murderer defined by stealing souls belongs with soul loss/theft as
+    the causal mechanism of harm or death.
+  cautions: If the source emphasizes homicide, sorcery, or monster role more than
+    recoverable soul loss, a conflict or spirit-agent grouping may be secondary.
+  suggested_aliases:
+  - soul_stealer_murderer
+  - murderer_who_steals_souls
+  - soul_theft_killer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-theft-causing-death-unless-magically-reversed
+  motif_id: soul_theft_causing_death_unless_magically_reversed
+  label: Soul theft causing death unless magically reversed
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif directly describes stolen soul causing death, with reversal
+    by recovery or magic.
+  cautions: May overlap with external_soul if the soul is captured in an object or
+    place; distinguish theft/restoration from external life-token dependence.
+  suggested_aliases:
+  - soul_theft_causes_death
+  - death_by_soul_theft_reversed_by_magic
+  - magical_reversal_of_soul_theft_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-theft-causing-illness-and-recoverable-by-a-magician
+  motif_id: soul_theft_causing_illness_and_recoverable_by_a_magician
+  label: soul theft causing illness and recoverable by a magician
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: high
+  rationale: Lost or stolen soul causing illness and requiring retrieval exactly matches
+    the soul_loss_restoration group.
+  cautions: Term 'magician' may need culturally careful review; if the passage emphasizes
+    ritual specialist healing, preserve that local role in notes.
+  suggested_aliases:
+  - soul_theft_causes_illness
+  - stolen_soul_recovered_by_ritual_specialist
+  - illness_from_soul_theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.soul-transmigration-or-animal-embodiment
+  motif_id: soul_transmigration_or_animal_embodiment
+  label: Soul transmigration or animal embodiment
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A soul taking animal embodiment functions as species or bodily transformation,
+    already treated as a shapeshifter-related variant.
+  cautions: If the focus is reincarnation or postmortem identity continuity, death_and_transformation
+    or a future transmigration group may be more precise.
+  suggested_aliases:
+  - soul_transmigration_into_animal
+  - animal_embodiment_of_soul
+  - soul_in_animal_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch concern soul anthropology; distinguish recoverable soul
+  loss from external-soul life-token motifs and from doctrinal/philosophical commentary.
+- Single-occurrence, tradition-specific soul labels should remain provisional and
+  preserve local wording for human review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several items may be doctrinal or over-specific
+    rather than durable motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0375
+  input_sha256: 1926f8747d421ea2876ea825d7cd4b9a9ef2384364ffb15039c694f7cb07e46e
+

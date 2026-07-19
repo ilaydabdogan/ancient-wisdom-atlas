@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1041
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-gathering-before-revelation
+  motif_id: ritual_gathering_before_revelation
+  label: ritual gathering before revelation
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual assembly that prepares for revelation fits divine manifestation
+    or sacred disclosure.
+  cautions: Single occurrence; if the focus is communal ceremony rather than revealed
+    sacred presence, sacred_exchange or sacred_law may be better.
+  suggested_aliases:
+  - assembly_before_revelation
+  - ritual_assembly_for_revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-gathering-of-plant-to-gain-invulnerability
+  motif_id: ritual_gathering_of_plant_to_gain_invulnerability
+  label: Ritual gathering of plant to gain invulnerability
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: The plant rite is instrumental to gaining invulnerability, aligning with
+    the invulnerability complex.
+  cautions: Could also involve sacred_substance or sacred_law if the plant-gathering
+    ritual is more important than the invulnerability result; comparative singletons
+    need evidence review.
+  suggested_aliases:
+  - plant_rite_for_invulnerability
+  - invulnerability_gained_through_ritual_plant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-gesture-and-threefold-formula-before-a-religious-assembly
+  motif_id: ritual_gesture_and_threefold_formula_before_a_religious_assembly
+  label: Ritual gesture and threefold formula before a religious assembly
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed gesture and formula before assembly is a ritual rule ordering
+    sacred conduct.
+  cautions: May be too liturgical or passage-specific; if the formula has performative
+    power, curse_blessing_speech could be a secondary relation.
+  suggested_aliases:
+  - ritual_formula_before_assembly
+  - threefold_formula_before_religious_assembly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-gesture-as-signal-to-end-music
+  motif_id: ritual_gesture_as_signal_to_end_music
+  label: ritual gesture as signal to end music
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a ritual cue within performance rather than a
+    symbolic motif.
+  cautions: Could fit enchanting_music only if the music has sacred or supernatural
+    force; otherwise this may be choreography or ethnographic detail.
+  suggested_aliases:
+  - gesture_signaling_end_of_music
+  - ritual_cue_to_end_music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-gesture-distinguishes-courtesy-from-sorrow
+  motif_id: ritual_gesture_distinguishes_courtesy_from_sorrow
+  label: Ritual gesture distinguishes courtesy from sorrow
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A codified gesture distinguishing social-emotional roles fits ritual
+    propriety and sacred social order.
+  cautions: May be more ethical-ritual commentary than narrative motif; preserve Confucian
+    ritual-context specificity.
+  suggested_aliases:
+  - ritual_propriety_gesture
+  - gesture_distinguishing_courtesy_and_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-gesture-for-sharing-another-s-good-fortune
+  motif_id: ritual_gesture_for_sharing_another_s_good_fortune
+  label: ritual gesture for sharing another's good fortune
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A gesture that participates in another's fortune expresses ritualized
+    sharing and reciprocity.
+  cautions: If framed as blessing, contagion, or luck transfer, curse_blessing_speech
+    or sacred_law may be relevant; source evidence needed.
+  suggested_aliases:
+  - ritual_sharing_of_good_fortune
+  - gesture_for_participating_in_good_fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-gesture-preceding-affliction-or-cessation
+  motif_id: ritual_gesture_preceding_affliction_or_cessation
+  label: Ritual gesture preceding affliction or cessation
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The function of the gesture is unclear: curse, healing cessation, affliction
+    sign, or narrative cue.'
+  cautions: Do not map without passage evidence; possible fits include curse_blessing_speech,
+    divine_judgment, divine_intervention, or sacred_law.
+  suggested_aliases:
+  - gesture_before_affliction
+  - ritual_gesture_before_cessation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-gift-presentation-to-a-novice
+  motif_id: ritual_gift_presentation_to_a_novice
+  label: ritual gift presentation to a novice
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: high
+  rationale: A gift presented to a novice marks transition into a new ritual status.
+  cautions: If the gift itself is a powerful object, sacred_treasures may be a secondary
+    mapping; avoid flattening culturally specific initiation practice.
+  suggested_aliases:
+  - novice_receives_ritual_gift
+  - initiation_gift_to_novice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-gifting-at-the-dance
+  motif_id: ritual_gifting_at_the_dance
+  label: Ritual gifting at the dance
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritualized gifting during dance is a reciprocal ceremonial exchange.
+  cautions: If the dance or music has supernatural efficacy, enchanting_music or sacred_time
+    may be relevant secondary contexts.
+  suggested_aliases:
+  - ceremonial_gifting_at_dance
+  - dance_ritual_gift_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-girdle-formula
+  motif_id: ritual_girdle_formula
+  label: ritual girdle formula
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed formula tied to ritual girding fits sacred law, purity,
+    and ordered ritual practice.
+  cautions: Could also be curse_blessing_speech if the formula is a binding utterance;
+    culturally specific Zoroastrian ritual should be reviewed by a domain expert.
+  suggested_aliases:
+  - girdle_ritual_formula
+  - sacred_girding_formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence ritual-action descriptions; review should distinguish
+  durable motifs from liturgical or ethnographic procedural details.
+- For ritual gesture labels, source context is necessary to decide whether the gesture
+  functions as sacred law, performative speech, exchange, music control, or mere passage
+  detail.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placement suggestions generated for taxonomy review; culturally
+    specific ritual labels require human verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1041
+  input_sha256: dc3fd4259ace66c671f655bbf61928d6b7fe6755ad80ed98d4bb77ad303c8cea
+

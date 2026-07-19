@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0833
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fire-used-for-purification-and-protection
+  motif_id: fire_used_for_purification_and_protection
+  label: Fire used for purification and protection
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: high
+  rationale: Fire serving purifying and protective sacred functions fits the sacred_fire
+    group better than world-destroying fire or sacrifice alone.
+  cautions: If the passage emphasizes a formal purity law or apotropaic rule more
+    than fire symbolism, sacred_law may be a secondary placement.
+  suggested_aliases:
+  - purifying_protective_fire
+  - protective_sacred_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.first-kill-ceremony-and-food-taboos
+  motif_id: first_kill_ceremony_and_food_taboos
+  label: First-kill ceremony and food taboos
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food taboos and first-kill observances likely belong with sacred regulation
+    of hunting, eating, and ritual purity.
+  cautions: Culturally specific hunting rites should be reviewed with source evidence;
+    sacrifice, sacred_exchange, or ancestor/animal-spirit relations may be more central
+    than law.
+  suggested_aliases:
+  - first_kill_rite
+  - hunting_food_taboo
+  - first_kill_food_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.first-person-sacred-claim-over-the-earth
+  motif_id: first_person_sacred_claim_over_the_earth
+  label: first-person sacred claim over the earth
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate sovereignty, sacred speech, land relationship,
+    prayer, or a passage-specific first-person utterance.
+  cautions: Needs source context and cultural review; avoid reducing Indigenous land
+    claims or ritual speech to generic kingship or law without evidence.
+  suggested_aliases:
+  - sacred_claim_to_land
+  - first_person_claim_over_earth
+  - ritual_land_claim_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.first-ritual-act-establishing-sacred-precedent
+  motif_id: first_ritual_act_establishing_sacred_precedent
+  label: first ritual act establishing sacred precedent
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A primordial or inaugural ritual act that sets normative precedent fits
+    sacred law and ritual order.
+  cautions: If the act is cosmogonic, sacrificial, or calendrical, cosmic_origin,
+    sacrifice, or sacred_time may be better secondary mappings.
+  suggested_aliases:
+  - inaugural_ritual_precedent
+  - primordial_ritual_precedent
+  - first_ritual_as_model
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fish-bodied-goddess-iconography
+  motif_id: fish_bodied_goddess_iconography
+  label: fish-bodied goddess iconography
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes iconographic classification of a divine figure rather
+    than a recurring narrative or ritual motif.
+  cautions: If a source passage narrates aquatic goddess transformation, fertility,
+    or sea protection, remap to mother_goddess, shapeshifter, or sacred_waters instead.
+  suggested_aliases:
+  - fish_bodied_goddess
+  - aquatic_goddess_iconography
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fivefold-sacred-fire-classification
+  motif_id: fivefold_sacred_fire_classification
+  label: fivefold sacred fire classification
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: narrower_than
+  confidence: high
+  rationale: A formal classification of sacred fires belongs under the existing sacred_fire
+    group.
+  cautions: The fivefold taxonomy may be doctrinal or scholastic; preserve as a local
+    detail and do not promote without recurrence beyond this context.
+  suggested_aliases:
+  - classification_of_sacred_fire
+  - five_sacred_fires
+  - fivefold_fire_taxonomy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fixed-consecration-number-as-chronological-cornerstone
+  motif_id: fixed_consecration_number_as_chronological_cornerstone
+  label: fixed consecration number as chronological cornerstone
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to chronology, consecration ritual, numerology, or
+    textual dating rather than a stable motif.
+  cautions: Could be a scholarly or passage artifact; review source evidence before
+    mapping to sacred_time, sacred_law, or ritual consecration.
+  suggested_aliases:
+  - consecration_number_chronology
+  - fixed_ritual_number_as_date_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fixed-ritual-sequence-as-condition-of-efficacy
+  motif_id: fixed_ritual_sequence_as_condition_of_efficacy
+  label: fixed ritual sequence as condition of efficacy
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prescribed ritual order as necessary for efficacy fits sacred law as
+    regulation of correct sacred practice.
+  cautions: Culturally specific ritual protocol should be reviewed; if the sequence
+    centers on offering or exchange, sacrifice or sacred_exchange may be secondary.
+  suggested_aliases:
+  - prescribed_ritual_sequence
+  - ritual_order_required_for_efficacy
+  - fixed_rite_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fixed-ritual-songs-and-prescribed-performance-duration
+  motif_id: fixed_ritual_songs_and_prescribed_performance_duration
+  label: fixed ritual songs and prescribed performance duration
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Required songs and duration describe prescribed ritual performance rules,
+    fitting sacred_law.
+  cautions: If the songs themselves are treated as supernatural sound power, enchanting_music
+    or sacred_song may be a secondary mapping; source context is needed.
+  suggested_aliases:
+  - prescribed_ritual_songs
+  - fixed_ritual_song_cycle
+  - ritual_performance_duration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fixed-sacred-formulas-in-cleansing-rite
+  motif_id: fixed_sacred_formulas_in_cleansing_rite
+  label: Fixed sacred formulas in cleansing rite
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fixed spoken formulas in a cleansing rite emphasize performative sacred
+    speech that effects ritual purification.
+  cautions: If the passage emphasizes cleansing protocol rather than speech efficacy,
+    sacred_law may be a secondary or better primary placement.
+  suggested_aliases:
+  - fixed_cleansing_formulas
+  - sacred_formulas_for_purification
+  - ritual_purification_formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid transmission claims.
+- Several single-occurrence ritual labels may be local protocol or ethnographic detail;
+  human review should verify source function before broad indexing.
+- For culturally specific Indigenous ritual labels, preserve local wording and avoid
+  overgeneralizing without passage evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft placement suggestions generated for wave5c batch 0833.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0833
+  input_sha256: 468a043479e2352c2d05c85aa887fbe4cc2e7898701e303fefd38a130dfd9233
+

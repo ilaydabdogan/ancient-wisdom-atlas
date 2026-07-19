@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0800
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-war-with-monstrous-ally
+  motif_id: divine_war_with_monstrous_ally
+  label: divine war with monstrous ally
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine war involving a monstrous ally fits the sacred-combat field
+    of gods or heroes fighting with supernatural forces.
+  cautions: Single occurrence; if the monster is primarily a chaos opponent or helper
+    rather than a warrior role, secondary review may be needed.
+  suggested_aliases:
+  - supernatural_ally_in_divine_war
+  - monstrous_ally_in_sacred_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warning-averts-a-lethal-missile
+  motif_id: divine_warning_averts_a_lethal_missile
+  label: divine warning averts a lethal missile
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine warning that prevents death is direct sacred guidance altering
+    a human event.
+  cautions: The lethal missile detail is probably granular episode evidence; could
+    relate to divine_warrior if explicitly in battle.
+  suggested_aliases:
+  - divine_warning_averts_death
+  - divine_warning_prevents_lethal_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warning-in-dream-prevents-violence
+  motif_id: divine_warning_in_dream_prevents_violence
+  label: divine warning in dream prevents violence
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: The key mechanism is a dream warning that conveys sacred knowledge and
+    changes behavior.
+  cautions: Also related to divine_intervention; preserve the dream-specific form
+    rather than collapsing into generic warning.
+  suggested_aliases:
+  - dream_warning_prevents_violence
+  - divine_dream_warning_averts_harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warrior-breaks-armies-and-nullifies-weapons
+  motif_id: divine_warrior_breaks_armies_and_nullifies_weapons
+  label: Divine warrior breaks armies and nullifies weapons
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine warrior defeating armies and rendering weapons powerless directly
+    matches sacred battle intervention.
+  cautions: Could be indexed secondarily under divine_judgment if weapon-nullification
+    punishes disorder.
+  suggested_aliases:
+  - divine_warrior_nullifies_weapons
+  - divine_warrior_defeats_armies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warrior-imagery-in-battle
+  motif_id: divine_warrior_imagery_in_battle
+  label: divine warrior imagery in battle
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label invokes divine warrior symbolism in battle, matching the divine_warrior
+    group at an imagistic level.
+  cautions: May be descriptive imagery rather than a narrative motif; review passage
+    evidence before using in structural comparisons.
+  suggested_aliases:
+  - battle_imagery_of_the_divine_warrior
+  - divine_warrior_battle_imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warrior-procession
+  motif_id: divine_warrior_procession
+  label: Divine warrior procession
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A procession of or for a divine warrior belongs with divine warrior cult
+    and sacred martial display.
+  cautions: If the source emphasizes ritual procession more than combat, theophany
+    or sacred_exchange may be relevant secondary contexts.
+  suggested_aliases:
+  - procession_of_the_divine_warrior
+  - martial_divine_procession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warrior-protector
+  motif_id: divine_warrior_protector
+  label: divine warrior protector
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: high
+  rationale: A protective divine warrior is a clear role variant of the divine_warrior
+    complex.
+  cautions: If protection is non-martial or tutelary rather than battle-oriented,
+    divine_intervention may be a better parent.
+  suggested_aliases:
+  - protective_divine_warrior
+  - divine_martial_protector
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warrior-s-weapon-bearing-chariot
+  motif_id: divine_warrior_s_weapon_bearing_chariot
+  label: Divine warrior's weapon-bearing chariot
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The chariot and weapons are equipment details of a divine warrior in
+    martial display or battle.
+  cautions: Likely too object-specific for broad pattern queries; if the chariot itself
+    has independent sacred power, sacred_treasures may be relevant.
+  suggested_aliases:
+  - weapon_bearing_chariot_of_the_divine_warrior
+  - divine_warrior_chariot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-warrior-with-overwhelming-weapon
+  motif_id: divine_warrior_with_overwhelming_weapon
+  label: divine warrior with overwhelming weapon
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine warrior wielding an overpowering weapon fits sacred combat and
+    divine martial force.
+  cautions: If the weapon is the main focus as a named or power object, also consider
+    sacred_treasures.
+  suggested_aliases:
+  - overwhelming_weapon_of_divine_warrior
+  - divine_warrior_wields_overpowering_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-watcher-over-lands-and-peoples
+  motif_id: divine_watcher_over_lands_and_peoples
+  label: Divine watcher over lands and peoples
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine watcher overseeing lands and peoples expresses cosmic or territorial
+    sovereignty and guardianship.
+  cautions: Could instead be divine_intervention if the passage emphasizes protective
+    action rather than rulership or oversight.
+  suggested_aliases:
+  - divine_overseer_of_lands_and_peoples
+  - divine_guardian_over_peoples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch cluster around divine_warrior; preserve weapon, chariot,
+  and procession details as granular evidence rather than promoting them automatically.
+- Several items may take secondary mappings to divine_intervention, sacred_treasures,
+  dream_and_vision, or supreme_ruler depending on passage evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0800
+  input_sha256: 3a9bdd23d35cc5ad125aa4d25f674d88b6af137cc44e982121eba5aadfa11486
+

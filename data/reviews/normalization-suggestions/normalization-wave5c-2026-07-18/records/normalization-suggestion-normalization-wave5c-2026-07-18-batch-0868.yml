@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0868
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hidden-person-buried-in-sacred-enclosure-with-ritual-implements
+  motif_id: hidden_person_buried_in_sacred_enclosure_with_ritual_implements
+  label: hidden person buried in sacred enclosure with ritual implements
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes burial, concealment, sacred enclosure, and ritual implements;
+    placement depends on whether the passage is mortuary rite, sacrifice, or sacred-object
+    deposition.
+  cautions: Single occurrence and culturally specific Hopi ritual context should be
+    reviewed carefully before broad pattern indexing.
+  suggested_aliases:
+  - concealed burial in sacred enclosure
+  - ritual burial with implements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - heroic_funeral_rites
+    - sacred_treasures
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-ritual-objects-revealed-under-accusation
+  motif_id: hidden_ritual_objects_revealed_under_accusation
+  label: hidden ritual objects revealed under accusation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve sacred objects, accusation/vindication, ritual secrecy,
+    or a local episode rather than a stable motif.
+  cautions: Source evidence is needed to distinguish ritual-object revelation from
+    false accusation, sacred law, or textual summary artifact.
+  suggested_aliases:
+  - concealed ritual objects disclosed by accusation
+  - ritual objects exposed under accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-ritual-song-starter
+  motif_id: hidden_ritual_song_starter
+  label: hidden ritual song-starter
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to ritual transmission of song, sacred sound power,
+    or a local ceremonial role not clear from wording alone.
+  cautions: Single occurrence; review cultural and performance context before mapping
+    to music, sacred knowledge, or excluding as an ethnographic detail.
+  suggested_aliases:
+  - concealed ritual song initiator
+  - hidden starter of ritual song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - sacred_knowledge
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-sacred-jewel-guarded-by-secrecy-and-fear-of-mischance
+  motif_id: hidden_sacred_jewel_guarded_by_secrecy_and_fear_of_mischance
+  label: hidden sacred jewel guarded by secrecy and fear of mischance
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: A hidden sacred jewel protected by secrecy functions as a power object
+    or treasure requiring guarded handling.
+  cautions: If the emphasis is taboo or ritual danger rather than the jewel as power
+    object, sacred_law may be a secondary fit.
+  suggested_aliases:
+  - secret guarded sacred jewel
+  - hidden sacred jewel protected by taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-sacred-object-revealed-during-festival
+  motif_id: hidden_sacred_object_revealed_during_festival
+  label: hidden sacred object revealed during festival
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A concealed sacred object ritually displayed at a festival fits sacred
+    power objects in ceremonial use.
+  cautions: Could also involve sacred_time if the festival cycle is central; preserve
+    the ritual-display detail as evidence.
+  suggested_aliases:
+  - festival revelation of hidden sacred object
+  - ritual unveiling of sacred object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-sacred-power-beneath-weak-outward-form
+  motif_id: hidden_sacred_power_beneath_weak_outward_form
+  label: hidden sacred power beneath weak outward form
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, hidden spiritual power beneath humble or weak appearance
+    aligns with inner transformation and concealed sanctity.
+  cautions: Could fit divine_intervention or sacred_knowledge if the passage emphasizes
+    miracle-working or recognition of wisdom rather than interior path.
+  suggested_aliases:
+  - concealed sanctity beneath weakness
+  - hidden spiritual power in humble form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-sacred-vessels-protected-from-removal
+  motif_id: hidden_sacred_vessels_protected_from_removal
+  label: hidden sacred vessels protected from removal
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on sacred vessels as protected containers that must
+    remain concealed or in place.
+  cautions: If protection from removal is a ritual prohibition or taboo, sacred_law
+    may be a secondary mapping; cultural context needs review.
+  suggested_aliases:
+  - concealed sacred vessels protected by taboo
+  - sacred vessels guarded from removal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-treasure-released-by-breaking-a-sacred-image
+  motif_id: hidden_treasure_released_by_breaking_a_sacred_image
+  label: hidden treasure released by breaking a sacred image
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A treasure concealed within or released from a sacred image fits power
+    objects and hidden sacred treasure motifs.
+  cautions: If the image itself is animated, cultic, or crafted, sacred_craft may
+    be relevant; breaking a sacred image may also invoke taboo or judgment.
+  suggested_aliases:
+  - treasure hidden in sacred image
+  - sacred image broken to release treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-words-effecting-divine-transformation-or-manifestation
+  motif_id: hidden_words_effecting_divine_transformation_or_manifestation
+  label: Hidden words effecting divine transformation or manifestation
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hidden words that cause transformation or manifestation are performative
+    sacred speech acts with ritual power.
+  cautions: May also map to sacred_knowledge if secrecy of names/formulas is central,
+    or theophany if divine manifestation is the main event.
+  suggested_aliases:
+  - secret words causing divine manifestation
+  - hidden formula of divine transformation
+  - performative hidden sacred words
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hierarchical-divine-attendant-pairing
+  motif_id: hierarchical_divine_attendant_pairing
+  label: hierarchical divine-attendant pairing
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a role relationship, but it is unclear whether it
+    is a ritual motif, social-order analogy, or classificatory observation.
+  cautions: In Confucian context this may be a hierarchy/order concept rather than
+    a divine-presence motif; source evidence needed before mapping to royal_legitimacy,
+    sacred_law, or covenant.
+  suggested_aliases:
+  - divine figure and attendant hierarchy
+  - hierarchical deity-attendant pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    - covenant
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and culturally specific; recommendations
+  should be treated as provisional evidence placements, not taxonomy edits.
+- For Native American ritual-object labels, human review should verify whether generated
+  wording reflects source categories respectfully and accurately.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy changes applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0868
+  input_sha256: 2f9666ad52b7bb7a07f9e8b83bcb1cd6b9414c5bf340ba8347a5c4dbe6a19ed3
+

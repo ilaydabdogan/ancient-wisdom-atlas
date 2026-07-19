@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0247
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.living-infant-to-be-placed-in-mother-s-grave
+  motif_id: living_infant_to_be_placed_in_mother_s_grave
+  label: Living infant to be placed in mother's grave
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label concerns mortuary handling around burial, but the living infant
+    detail makes the social or ritual function unclear.
+  cautions: Single occurrence and culturally sensitive mortuary practice; verify whether
+    this is sacrifice, burial rite, kinship obligation, or passage-specific ethnographic
+    detail.
+  suggested_aliases:
+  - infant_placed_in_mother_s_grave
+  - living_child_in_maternal_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-injured-person-at-risk-of-premature-burial
+  motif_id: living_injured_person_at_risk_of_premature_burial
+  label: living injured person at risk of premature burial
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-specific danger or mortuary error rather than
+    a reusable symbolic motif.
+  cautions: If source evidence shows a recurring ritual rule for treating the nearly
+    dead, reconsider under sacred_law or heroic_funeral_rites.
+  suggested_aliases:
+  - premature_burial_of_living_injured_person
+  - living_person_at_risk_of_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-man-resembles-a-dead-beloved
+  motif_id: living_man_resembles_a_dead_beloved
+  label: living man resembles a dead beloved
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Recognition or resemblance of a living figure to a dead beloved centers
+    on love, grief, and continuity beyond death.
+  cautions: If the passage emphasizes mistaken identity rather than enduring love,
+    recognition_tokens_hidden_identity or lament_and_mourning may be better secondary
+    mappings.
+  suggested_aliases:
+  - living_double_of_dead_beloved
+  - resemblance_to_dead_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-person-treated-as-already-dead-when-recovery-is-hopeless
+  motif_id: living_person_treated_as_already_dead_when_recovery_is_hopeless
+  label: living person treated as already dead when recovery is hopeless
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests a rule or custom governing liminal near-death status,
+    but evidence is needed for ritual function.
+  cautions: Culturally sensitive and single occurrence; may be mortuary law, medical/social
+    practice, or a passage artifact rather than motif.
+  suggested_aliases:
+  - living_person_treated_as_dead
+  - near_dead_person_given_mortuary_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-person-used-as-buffer-against-a-ghost
+  motif_id: living_person_used_as_buffer_against_a_ghost
+  label: Living person used as buffer against a ghost
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Using a person apotropaically against a ghost fits protective ritual
+    practice and regulation of spirit danger.
+  cautions: If the ghost is an active returning dead figure, restless_dead_haunting_vengeance
+    may be a secondary mapping; verify the ritual context.
+  suggested_aliases:
+  - living_buffer_against_ghost
+  - human_buffer_against_spirit_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-personation-of-the-dead-in-ancestral-sacrifice
+  motif_id: living_personation_of_the_dead_in_ancestral_sacrifice
+  label: living personation of the dead in ancestral sacrifice
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: A living representative of the dead in ancestral sacrifice is directly
+    tied to ritual relations between living and ancestors.
+  cautions: Preserve personation and sacrificial context; it may also relate to sacrifice
+    or sacred_exchange depending on the rite.
+  suggested_aliases:
+  - living_personator_of_the_dead
+  - ancestor_personation_in_sacrifice
+  - ritual_personation_of_ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-personator-possessed-by-ancestral-spirit
+  motif_id: living_personator_possessed_by_ancestral_spirit
+  label: Living personator possessed by ancestral spirit
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Possession of a ritual personator by an ancestral spirit belongs with
+    rites mediating living-dead relations.
+  cautions: If the possession is treated as spirit mediumship outside ancestor ritual,
+    divine_intervention or a future possession group may be needed.
+  suggested_aliases:
+  - ancestor_spirit_possesses_personator
+  - possessed_ancestor_personator
+  - living_proxy_possessed_by_ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-teaching-as-seed-planted-in-the-soul
+  motif_id: living_teaching_as_seed_planted_in_the_soul
+  label: Living teaching as seed planted in the soul
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The seed image describes transformative transmission of teaching into
+    the soul, fitting sacred knowledge.
+  cautions: Despite the death bucket, the label is pedagogical and psychological;
+    avoid mapping to death motifs without passage evidence.
+  suggested_aliases:
+  - teaching_as_seed_in_the_soul
+  - wisdom_seed_planted_in_soul
+  - living_teaching_seed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-visitor-invisible-to-the-dead-but-visible-to-dogs
+  motif_id: living_visitor_invisible_to_the_dead_but_visible_to_dogs
+  label: Living visitor invisible to the dead, but visible to dogs
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A living visitor among the dead implies an otherworld or underworld encounter
+    with altered visibility rules.
+  cautions: Highly specific animal-visibility detail; if the dog is the key psychopomp
+    or guardian, threshold_guardian may be relevant.
+  suggested_aliases:
+  - living_visitor_unseen_by_dead_seen_by_dogs
+  - living_person_invisible_to_dead_visible_to_dogs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-visitor-mistaken-for-a-ghost
+  motif_id: living_visitor_mistaken_for_a_ghost
+  label: Living visitor mistaken for a ghost
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is likely a scene-level mistaken-identity incident rather than a
+    durable death or afterlife motif.
+  cautions: If the episode depends on return from presumed death or hidden identity,
+    review under recognition_tokens_hidden_identity or death_and_transformation.
+  suggested_aliases:
+  - living_person_mistaken_for_ghost
+  - visitor_taken_for_a_ghost
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Chaco-Amerindian labels concern culturally sensitive mortuary or near-death
+  practices and should be checked against source evidence before indexing broadly.
+- Do not infer borrowing or shared origin from these placements; suggestions only
+  normalize broad query behavior.
+- Some labels are single-occurrence, over-specific scene descriptions and are better
+  preserved as evidence notes unless recurrence is shown.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions for wave5c batch 0247; ancestor-rite items
+    are strongest, mortuary edge cases need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0247
+  input_sha256: 9cc9e958bc814ffa91d2782bfaf1f9db7e060b52e7a907f4da8f41c39c45ac15
+

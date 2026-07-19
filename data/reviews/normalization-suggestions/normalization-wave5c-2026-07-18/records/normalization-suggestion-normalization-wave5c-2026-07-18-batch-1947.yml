@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1947
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.personified-natural-forces-and-plants
+  motif_id: personified_natural_forces_and_plants
+  label: personified natural forces and plants
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Existing aliases already treat natural phenomena personified as divine
+    beings under divine_intervention.
+  cautions: Broad personification may be literary allegory rather than active sacred
+    agency; review passage evidence before indexing strongly.
+  suggested_aliases:
+  - natural_phenomenon_personified_as_divine_beings
+  - personified_natural_phenomena
+  - personified_nature_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-natural-forces-in-an-action-chain
+  motif_id: personified_natural_forces_in_an_action_chain
+  label: personified natural forces in an action chain
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe a cumulative tale structure, allegorical personification,
+    or divine/natural agency.
+  cautions: Action-chain wording may be a narrative-form artifact; source context
+    is needed before mapping to divine_intervention or storytelling_as_power.
+  suggested_aliases:
+  - personified_natural_forces_sequence
+  - personified_nature_action_chain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-natural-phenomena
+  motif_id: personified_natural_phenomena
+  label: Personified natural phenomena
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: alias
+  confidence: medium
+  rationale: This closely matches the existing alias natural_phenomenon_personified_as_divine_beings
+    under divine_intervention.
+  cautions: If the phenomenon is primarily cosmological, etiological, or weather-specific
+    rather than intervening agency, cosmic_origin or sacred_waters/sacred_fire may
+    be secondary.
+  suggested_aliases:
+  - natural_phenomenon_personified_as_divine_beings
+  - personified_natural_powers
+  - personified_nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-natural-process-with-human-form
+  motif_id: personified_natural_process_with_human_form
+  label: personified natural process with human form
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A natural process taking human form fits the existing personified nature/divine
+    agency pattern.
+  cautions: Human-form personification may also be mythic transformation or local
+    spirit ontology; review whether agency in human affairs is explicit.
+  suggested_aliases:
+  - natural_process_personified_in_human_form
+  - personified_natural_process
+  - human_form_nature_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-or-lordly-wind-power
+  motif_id: personified_or_lordly_wind_power
+  label: personified or lordly wind power
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A lordly wind power is a personified natural force with potential divine
+    or spirit agency.
+  cautions: Could warrant future weather/wind-spirit granularity if many such labels
+    recur; avoid collapsing culturally specific wind-being roles into generic symbolism
+    without evidence.
+  suggested_aliases:
+  - wind_power_personified
+  - personified_wind_spirit
+  - lord_of_wind
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-personal-fortune-and-misfortune
+  motif_id: personified_personal_fortune_and_misfortune
+  label: personified personal Fortune and Misfortune
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Personified fortune and misfortune belong near fate/destiny powers when
+    they govern a person's condition.
+  cautions: This is broader than death-by-fate and may involve luck, household spirits,
+    or moral recompense; human review should consider fate_figures_cosmic_weaving
+    or divine_judgment as alternatives.
+  suggested_aliases:
+  - personified_fortune_and_misfortune
+  - personal_fortune_personified
+  - luck_and_misfortune_as_persons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-pestilence-arrives-with-sickness-causing-emissions
+  motif_id: personified_pestilence_arrives_with_sickness_causing_emissions
+  label: Personified pestilence arrives with sickness-causing emissions
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines disease personification, arrival, and a specific sickness
+    mechanism not cleanly covered by existing groups.
+  cautions: May fit divine_judgment, spirit affliction, sacred_law contagion, or a
+    disease-spirit motif depending on evidence; culturally sensitive sickness-spirit
+    material needs review.
+  suggested_aliases:
+  - personified_pestilence
+  - disease_personified_as_arriving_agent
+  - sickness_causing_spirit_emissions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-philosophy-as-abandoned-bride
+  motif_id: personified_philosophy_as_abandoned_bride
+  label: Personified philosophy as abandoned bride
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be allegorical personification of an abstract concept
+    in a love/fidelity image.
+  cautions: May be a philosophical or literary allegory rather than a mythic motif;
+    if passage-specific, exclude or preserve only as evidence detail.
+  suggested_aliases:
+  - philosophy_personified_as_bride
+  - abandoned_bride_allegory_of_philosophy
+  - personified_wisdom_as_bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-piety-as-fortune-and-wealth-giver
+  motif_id: personified_piety_as_fortune_and_wealth_giver
+  label: personified piety as fortune and wealth giver
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Piety personified as a giver of fortune links moral-religious observance
+    with social and cosmic order.
+  cautions: Could also fit divine_judgment if the emphasis is recompense, or sacred_exchange
+    if wealth follows reciprocal devotion.
+  suggested_aliases:
+  - piety_personified_as_wealth_giver
+  - personified_piety_rewards_devotion
+  - piety_as_fortune_giver
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-plant-as-vessel-bearer
+  motif_id: personified_plant_as_vessel_bearer
+  label: Personified plant as vessel-bearer
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes plant personification with vessel imagery and may be
+    poetic or mystical symbolism.
+  cautions: Could map to sacred_vessel, sacred_substance, sacred_love, or mystical_quest
+    depending on the passage; likely too context-dependent from label alone.
+  suggested_aliases:
+  - plant_personified_as_vessel_bearer
+  - personified_plant_bearing_vessel
+  - vessel_bearing_plant_personification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are generic personification motifs despite being placed
+  in the love/family/body audit bucket; review should not assume gender or body relevance
+  without passage evidence.
+- Natural-force personification can be symbolic, divine agency, cosmological etiology,
+  or literary allegory. Suggested placements avoid transmission claims and should
+  remain provisional.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch contains multiple single-occurrence personification labels; human review
+    recommended especially for allegorical, disease-spirit, and Sufi poetic imagery.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1947
+  input_sha256: 3aa0c23e166d704983243029f48792a85a6d1fd32c30520d2347de2516d4f646
+

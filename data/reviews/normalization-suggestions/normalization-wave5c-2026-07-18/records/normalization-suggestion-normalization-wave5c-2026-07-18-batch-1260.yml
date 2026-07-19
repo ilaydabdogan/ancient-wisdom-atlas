@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1260
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.birth-of-a-named-figure
+  motif_id: birth_of_a_named_figure
+  label: birth of a named figure
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label only records that a named figure is born, without sacred, miraculous,
+    royal, or destiny-marking features.
+  cautions: If passage evidence includes extraordinary birth signs or threatened infancy,
+    remap to miraculous_child; otherwise preserve as biographical detail only.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blind-poet-and-explanatory-name
+  motif_id: blind_poet_and_explanatory_name
+  label: Blind poet and explanatory name
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be an etiological name explanation, a wisdom/poetic authority motif,
+    or a passage-specific biographical note.
+  cautions: Do not map to sacred_knowledge unless blindness functions as inspired
+    insight or poetic authority; if only name etymology, it may belong under cosmic_origin/place-name-style
+    etiology or be excluded.
+  suggested_aliases:
+  - blind_poet_name_etiology
+  - poet_blindness_and_explanatory_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-marked-named-seeker-summons-deer
+  motif_id: blood_marked_named_seeker_summons_deer
+  label: Blood-marked named seeker summons deer
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines blood marking, a named seeker, and animal summoning
+    without enough evidence for ritual, hunting magic, or animal-helper placement.
+  cautions: Culturally specific ritual or hunting context should be reviewed; could
+    map to divine_intervention, sacred_law, sacred_exchange, or animal_helpers only
+    with passage support.
+  suggested_aliases:
+  - blood_marked_seeker_summons_deer
+  - ritual_blood_mark_and_deer_summoning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bloodied-garment-as-memory-token-of-slain-kin
+  motif_id: bloodied_garment_as_memory_token_of_slain_kin
+  label: bloodied garment as memory-token of slain kin
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bloodied garment functions as a token preserving or proving the identity
+    and death of a slain kin figure.
+  cautions: If the passage emphasizes grief or revenge more than token recognition,
+    secondary review under lament_and_mourning or sacred_combat may be needed.
+  suggested_aliases:
+  - bloodied_garment_as_death_token
+  - bloodstained_garment_memory_token
+  - garment_token_of_slain_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bloodless-named-battle
+  motif_id: bloodless_named_battle
+  label: bloodless named battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to be a named-event descriptor rather than a reusable
+    symbolic or narrative motif.
+  cautions: If the bloodlessness has ritual, miraculous, or prophecy-related function,
+    reassess under sacred_combat or divine_intervention.
+  suggested_aliases:
+  - named_bloodless_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-prophecy-before-war-campaign
+  motif_id: boastful_prophecy_before_war_campaign
+  label: boastful prophecy before war campaign
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Existing aliases already include prophecy-and-boast patterns before combat,
+    and the war-campaign setting makes combat function primary.
+  cautions: If prophecy is delivered by a formal diviner or oracle rather than as
+    martial boasting, prophecy_divination may be a better or secondary mapping.
+  suggested_aliases:
+  - prophecy_and_boast_before_war_campaign
+  - boastful_war_prophecy
+  - heroic_boast_of_foretold_campaign_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-alteration-connected-with-later-provisions
+  motif_id: body_alteration_connected_with_later_provisions
+  label: body alteration connected with later provisions
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is too opaque to tell whether the alteration is initiation,
+    punishment, etiological bodily change, or ritual provisioning.
+  cautions: Review source evidence; avoid mapping to shapeshifter or sacred_law unless
+    the alteration has clear transformation or ritual-law function.
+  suggested_aliases:
+  - body_alteration_linked_to_future_provision
+  - bodily_change_connected_with_provisions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-and-speech-as-sources-of-censure
+  motif_id: body_and_speech_as_sources_of_censure
+  label: body and speech as sources of censure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Censure of bodily and verbal action fits ethical discipline and sacred
+    social law more than revelation or narrative speech power.
+  cautions: If this is a doctrinal teaching list rather than a narrative motif, consider
+    preserving as an ethical evidence note only.
+  suggested_aliases:
+  - body_and_speech_under_moral_censure
+  - censure_of_bodily_and_verbal_action
+  - ethical_discipline_of_body_and_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-marking-as-lasting-social-memory
+  motif_id: body_marking_as_lasting_social_memory
+  label: body marking as lasting social memory
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Body marking as memory may be ritual identity, social law, recognition
+    token, punishment, or local ethnographic detail.
+  cautions: Culturally sensitive body-marking practices should not be generalized
+    without evidence; if marks prove identity, recognition_tokens_hidden_identity
+    may fit.
+  suggested_aliases:
+  - body_marks_as_social_memory
+  - lasting_social_memory_through_body_marking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-modification-through-weighted-ear-ornaments
+  motif_id: body_modification_through_weighted_ear_ornaments
+  label: body modification through weighted ear ornaments
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a highly specific material culture/body-practice detail
+    without clear mythic narrative function.
+  cautions: If ear modification marks initiation, rank, sacred law, or identity proof
+    in the passage, review for initiation, royal_legitimacy, sacred_law, or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - weighted_ear_ornaments_body_modification
+  - ear_ornament_body_modification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and contain named-figure or named-event
+  wording; these should generally remain evidence notes unless source context shows
+  a reusable motif function.
+- Body-marking and culturally specific ritual labels require human review before broad
+  normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft suggestions only; ambiguous body-marking, blood-marking, and explanatory-name
+    labels need source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1260
+  input_sha256: 56723776aa07fe6f278e197b7d65c5170f74672ed0ee4f5db00ebf9d77d81ee6
+

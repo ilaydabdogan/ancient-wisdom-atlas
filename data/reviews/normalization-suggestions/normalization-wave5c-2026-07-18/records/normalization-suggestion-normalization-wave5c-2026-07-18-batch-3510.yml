@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3510
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.grimm-like-magical-objects-tale-resemblance
+  motif_id: grimm_like_magical_objects_tale_resemblance
+  label: Grimm-like magical objects tale resemblance
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes resemblance to a tale type or comparative classification
+    rather than a motif in the passage.
+  cautions: If the passage actually features recurring magical power objects, preserve
+    those objects separately under sacred_treasures or sacred_vessel.
+  suggested_aliases:
+  - comparative_tale_resemblance
+  - grimm_like_tale_type_resemblance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grizzly-dance-healing-performance
+  motif_id: grizzly_dance_healing_performance
+  label: grizzly-dance healing performance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: low
+  rationale: A healing performance may involve sacred or spirit-mediated intervention,
+    but the grizzly dance context is culturally specific.
+  cautions: Requires source review and culturally sensitive handling; could instead
+    be ritual healing, animal power, performance, or ethnographic detail.
+  suggested_aliases:
+  - healing_dance_performance
+  - animal_power_healing_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.groom-and-kin-prepare-wedding-goods
+  motif_id: groom_and_kin_prepare_wedding_goods
+  label: groom and kin prepare wedding goods
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Wedding goods prepared by kin may reflect marriage exchange or ritual
+    reciprocity.
+  cautions: May be a social custom detail rather than a reusable motif; source context
+    needed to distinguish sacred exchange from ordinary wedding preparation.
+  suggested_aliases:
+  - wedding_goods_prepared_by_groom_and_kin
+  - marriage_goods_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grooming-and-body-modification-as-group-distinguishing-practices
+  motif_id: grooming_and_body_modification_as_group_distinguishing_practices
+  label: Grooming and body modification as group-distinguishing practices
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Body practices that distinguish groups may function as social or ritual
+    ordering practices.
+  cautions: Could be ethnographic description, identity marker, initiation marker,
+    or culturally specific bodily practice; avoid broad indexing without passage evidence.
+  suggested_aliases:
+  - body_modification_as_group_identity
+  - grooming_as_group_distinction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grooved-lashing-and-sewn-repair
+  motif_id: grooved_lashing_and_sewn_repair
+  label: grooved lashing and sewn repair
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label sounds like a technical craft or artifact-construction detail
+    rather than a symbolic narrative motif.
+  cautions: If the repaired object is sacred, life-preserving, or divinely made, review
+    under sacred_craft or sacred_vessel instead.
+  suggested_aliases:
+  - technical_lashing_repair_detail
+  - sewn_repair_technique
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.grounded-versus-groundless-exclusion
+  motif_id: grounded_versus_groundless_exclusion
+  label: Grounded versus groundless exclusion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label concerns legitimate versus illegitimate exclusion, a norm-governed
+    social and ethical order issue.
+  cautions: Could be doctrinal or monastic legal commentary rather than narrative
+    motif; review if it should be treated as ethical teaching only.
+  suggested_aliases:
+  - justified_and_unjustified_exclusion
+  - legitimate_versus_groundless_exclusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.groundless-accusation-intended-to-expel-or-make-another-fall
+  motif_id: groundless_accusation_intended_to_expel_or_make_another_fall
+  label: Groundless accusation intended to expel or make another fall
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: False accusation and attempted expulsion fit the existing judgment cluster
+    around false accusation and moral reckoning.
+  cautions: If the focus is institutional discipline rather than vindication or moral
+    consequence, sacred_law may be a secondary fit.
+  suggested_aliases:
+  - false_accusation_to_cause_exclusion
+  - groundless_accusation_for_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.groundless-moral-accusation-and-restitution
+  motif_id: groundless_moral_accusation_and_restitution
+  label: Groundless moral accusation and restitution
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A false moral charge followed by restitution fits moral reckoning and
+    vindication after accusation.
+  cautions: Restitution may reflect legal or monastic discipline; consider sacred_law
+    if the passage emphasizes procedure over judgment.
+  suggested_aliases:
+  - false_moral_accusation_and_restitution
+  - groundless_accusation_repaired
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.group-fission-after-internal-conflict
+  motif_id: group_fission_after_internal_conflict
+  label: Group fission after internal conflict
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: low
+  rationale: Internal conflict causing group split may involve broken social bonds
+    or failed covenantal order.
+  cautions: Could be an origin, migration, lineage, or ethnographic social-history
+    detail; do not map as sacred bond without narrative evidence.
+  suggested_aliases:
+  - community_split_after_internal_conflict
+  - social_fission_after_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.group-morality-over-individual-responsibility
+  motif_id: group_morality_over_individual_responsibility
+  label: Group morality over individual responsibility
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif frames moral responsibility as collective rather than individual,
+    fitting sacred law and social order.
+  cautions: May be an abstract anthropological theme rather than a narrative motif;
+    source evidence should show an enacted social norm or consequence.
+  suggested_aliases:
+  - collective_morality_over_individual_responsibility
+  - group_responsibility_as_moral_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and look like ethnographic, legal, or comparative-description
+  labels; suggested placements should remain provisional until source passages are
+  reviewed.
+- Culturally specific ritual and bodily-practice labels should be reviewed by humans
+  before broad normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3510
+  input_sha256: 56fe7109ece3bb776fbf904ab095f942a20a3211fd0815aaf954d31d5ac9c245
+

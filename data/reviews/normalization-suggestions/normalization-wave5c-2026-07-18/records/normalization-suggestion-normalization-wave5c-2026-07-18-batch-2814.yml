@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2814
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.silent-contest-with-prizes
+  motif_id: silent_contest_with_prizes
+  label: silent contest with prizes
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: A contest with prizes may be a ritualized competitive ordeal, but the
+    label gives no combat, sacred, or transformative function.
+  cautions: Single occurrence and culturally contextual; could be a game, test, ceremony,
+    or passage-specific episode rather than a motif.
+  suggested_aliases:
+  - silent_contest
+  - contest_with_prizes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.silent-weapon-prevents-alarm-of-flock
+  motif_id: silent_weapon_prevents_alarm_of_flock
+  label: Silent weapon prevents alarm of flock
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a tactical detail about a weapon and flock rather
+    than a recurring mythic structure.
+  cautions: If source evidence shows a broader magical or stealth weapon motif, reconsider
+    under sacred_treasures or sacred_combat; otherwise preserve only as evidence detail.
+  suggested_aliases:
+  - silent_weapon_used_to_avoid_alarm
+  - stealth_weapon_prevents_flock_alarm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.simple-heroic-regimen-against-luxury-corruption
+  motif_id: simple_heroic_regimen_against_luxury_corruption
+  label: Simple heroic regimen against luxury corruption
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: The label frames disciplined simplicity as an ethical counter to corrupting
+    luxury, fitting sacred or social discipline better than combat itself.
+  cautions: Could also fit pride_and_downfall if luxury leads to ruin, or divine_warrior
+    if strictly a warrior training code; source context needed.
+  suggested_aliases:
+  - heroic_simplicity_against_luxury
+  - discipline_against_luxury_corruption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sincerity-of-mourning-versus-outward-display
+  motif_id: sincerity_of_mourning_versus_outward_display
+  label: Sincerity of mourning versus outward display
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns the proper inner expression of grief, placing it within
+    mourning and lament practice.
+  cautions: In Confucian context it may also be an ethical or ritual-law teaching;
+    consider sacred_law as a secondary relation if indexing ritual propriety.
+  suggested_aliases:
+  - authentic_mourning_versus_display
+  - inner_grief_over_outward_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.singing-sentry-circling-a-warrior-camp-at-night
+  motif_id: singing_sentry_circling_a_warrior_camp_at_night
+  label: singing sentry circling a warrior camp at night
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The warrior-camp setting suggests conflict context, but the singing and
+    circling may be ritual protection, surveillance, or narrative detail.
+  cautions: Could fit enchanting_music, sacred_law/apotropaic protection, or sacred_combat
+    depending on whether song has supernatural force or merely marks sentry activity.
+  suggested_aliases:
+  - singing_sentry_at_warrior_camp
+  - night_circling_sentry_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-against-a-champion-for-cattle-and-status
+  motif_id: single_combat_against_a_champion_for_cattle_and_status
+  label: Single combat against a champion for cattle and status
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: Single combat with a champion over cattle and status aligns with the
+    existing sacred_combat complex, including cattle raid and champion duel patterns.
+  cautions: If royal status or succession is central, royal_legitimacy may be a secondary
+    mapping.
+  suggested_aliases:
+  - champion_single_combat_for_cattle_and_status
+  - single_combat_for_cattle_and_rank
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-challenge-before-general-battle
+  motif_id: single_combat_challenge_before_general_battle
+  label: Single combat challenge before general battle
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: alias
+  confidence: high
+  rationale: The taxonomy already has aliases for champion single combat before armies
+    and single combat before wider battle.
+  cautions: Preserve local details of challenge form and battle context; do not infer
+    divine sanction unless present.
+  suggested_aliases:
+  - champion_single_combat_before_armies
+  - heroic_single_combat_before_general_battle
+  - single_combat_before_wider_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-challenge-used-to-compel-settlement
+  motif_id: single_combat_challenge_used_to_compel_settlement
+  label: Single-combat challenge used to compel settlement
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A duel used to settle or compel resolution is a functional variant of
+    ritualized single combat deciding collective conflict.
+  cautions: If the settlement is primarily legal arbitration rather than combat ordeal,
+    sacred_law or covenant may be secondary.
+  suggested_aliases:
+  - single_combat_to_compel_settlement
+  - duel_as_forced_settlement
+  - single_combat_as_dispute_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-ending-in-beheading
+  motif_id: single_combat_ending_in_beheading
+  label: single combat ending in beheading
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: alias
+  confidence: high
+  rationale: Existing aliases include champion_duel_ending_in_beheading and champion
+    challenge followed by prolonged duel and beheading.
+  cautions: Map to divine_warrior only if the combatant is explicitly divinely empowered
+    or cosmic-order bearing.
+  suggested_aliases:
+  - champion_duel_ending_in_beheading
+  - single_duel_ending_in_beheading
+  - combat_duel_ending_in_beheading
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.single-combat-for-supremacy
+  motif_id: single_combat_for_supremacy
+  label: single combat for supremacy
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: A duel determining supremacy fits the single-combat and ritual-warfare
+    patterns in sacred_combat.
+  cautions: If supremacy refers to kingship, empire, or divine mandate rather than
+    battlefield outcome, add royal_legitimacy as a secondary relation.
+  suggested_aliases:
+  - duel_for_supremacy
+  - single_combat_to_determine_supremacy
+  - champion_combat_for_supremacy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence conflict motifs; prefer existing
+  sacred_combat only where duel or ritual warfare function is explicit.
+- Do not infer transmission or shared origin from the repeated single-combat placements.
+- Some items were assigned to conflict bucket but are better treated as mourning,
+  ethical discipline, or over-specific tactical details.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for wave5c batch 2814; human review
+    recommended for low-confidence culturally contextual items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2814
+  input_sha256: fb98c699d13a30eb150de66cae2a1172510699f438eed1a3d2e0231f58fc32c5
+

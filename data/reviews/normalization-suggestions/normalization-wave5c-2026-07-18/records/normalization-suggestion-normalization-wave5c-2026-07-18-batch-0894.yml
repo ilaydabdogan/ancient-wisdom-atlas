@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0894
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.invocation-of-divine-presence-in-ritual
+  motif_id: invocation_of_divine_presence_in_ritual
+  label: Invocation of divine presence in ritual
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual invocation seeks or marks divine manifestation/presence for human
+    participants.
+  cautions: Could map to sacred_exchange if the ritual action is primarily offering
+    or reciprocity rather than manifestation.
+  suggested_aliases:
+  - ritual_invocation_of_divine_presence
+  - invoked_divine_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invocation-of-divine-source-for-epic-narration
+  motif_id: invocation_of_divine_source_for_epic_narration
+  label: invocation of divine source for epic narration
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: high
+  rationale: The divine invocation authorizes or empowers narration, fitting sacred
+    narrative transmission.
+  cautions: If this is only a conventional proem formula, preserve as evidence detail
+    and avoid over-weighting in pattern queries.
+  suggested_aliases:
+  - muse_invocation_for_epic_narration
+  - divine_source_of_song
+  - invocation_before_sacred_narration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invocation-of-personified-sacred-qualities
+  motif_id: invocation_of_personified_sacred_qualities
+  label: Invocation of personified sacred qualities
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual address to personified virtues, but function
+    is unclear without passage evidence.
+  cautions: Could fit theophany, sacred_law, sacred_knowledge, or sacred_exchange
+    depending on whether the qualities act as beings, ethical principles, or invoked
+    ritual powers.
+  suggested_aliases:
+  - invoked_personified_virtues
+  - ritual_invocation_of_sacred_qualities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invocation-of-sacred-parents-in-obstacle-magic
+  motif_id: invocation_of_sacred_parents_in_obstacle_magic
+  label: Invocation of sacred parents in obstacle magic
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This combines kinship spirits or sacred parents with magical obstacle
+    removal, and no single existing group captures the function safely.
+  cautions: Culturally specific ritual-magic wording needs source review; possible
+    fits include divine_intervention, ancestor_rites, sacred_exchange, or curse_blessing_speech.
+  suggested_aliases:
+  - sacred_parents_invoked_for_obstacle_removal
+  - ancestral_or_parental_invocation_in_magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invocation-of-sacred-protection-before-perilous-venture
+  motif_id: invocation_of_sacred_protection_before_perilous_venture
+  label: invocation of sacred protection before perilous venture
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif asks sacred powers to protect or guide humans through danger.
+  cautions: If the focus is the venture's threshold ordeal rather than divine aid,
+    hero_journey or initiation may be secondary.
+  suggested_aliases:
+  - prayer_for_protection_before_peril
+  - sacred_protection_invoked_before_dangerous_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invoked-divine-helper-for-faithful-community
+  motif_id: invoked_divine_helper_for_faithful_community
+  label: invoked divine helper for faithful community
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine helper invoked for a community is a protective guidance/intervention
+    role.
+  cautions: Could also support covenant or sacred_law if community faithfulness and
+    sacred obligation are the main emphasis.
+  suggested_aliases:
+  - divine_helper_for_faithful_community
+  - community_invokes_divine_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.invulnerable-god-undone-by-overlooked-exception
+  motif_id: invulnerable_god_undone_by_overlooked_exception
+  label: invulnerable god undone by overlooked exception
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: alias
+  confidence: high
+  rationale: This directly matches invulnerability limited by an omitted or overlooked
+    exception.
+  cautions: Comparative-only label should be checked for source anchoring; deity status
+    does not require a separate group.
+  suggested_aliases:
+  - invulnerability_undone_by_overlooked_exception
+  - divine_invulnerability_with_fatal_exception
+  - overlooked_exception_defeats_invulnerable_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inward-devotion-over-external-ritual
+  motif_id: inward_devotion_over_external_ritual
+  label: Inward devotion over external ritual
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label centers on interior devotion and spiritual orientation over
+    outward forms.
+  cautions: May be a doctrinal teaching rather than narrative motif; if primarily
+    ethical instruction, sacred_knowledge or sacred_law may be secondary.
+  suggested_aliases:
+  - inner_devotion_over_outer_ritual
+  - interior_devotion_surpasses_external_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inward-revelation-before-external-sacred-structures
+  motif_id: inward_revelation_before_external_sacred_structures
+  label: inward revelation before external sacred structures
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label privileges interior revelation or knowledge over external sacred
+    architecture.
+  cautions: Could be philosophical commentary rather than motif; if the stress is
+    inner spiritual quest, mystical_quest may be better.
+  suggested_aliases:
+  - inner_revelation_over_sacred_structures
+  - inward_revelation_precedes_external_sanctuary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inward-ritual-efficacy-beyond-outward-form
+  motif_id: inward_ritual_efficacy_beyond_outward_form
+  label: inward ritual efficacy beyond outward form
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns proper ritual efficacy as an inward ethical or ordered
+    disposition, fitting sacred law and ritual order.
+  cautions: May be philosophical/ethical doctrine rather than a narrative motif; consider
+    sacred_knowledge if the passage emphasizes teaching over ritual regulation.
+  suggested_aliases:
+  - inner_ritual_efficacy_over_outward_form
+  - ritual_sincerity_beyond_form
+  - inward_disposition_makes_ritual_effective
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several invocation labels are single-occurrence ritual or doctrinal formulations;
+  human review should verify whether they are passage motifs or generated abstractions
+  from liturgical language.
+- Interior-over-exterior ritual labels may be useful as ethical or mystical teaching
+  variants, but should not be treated as evidence of a shared narrative structure.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement only; culturally specific invocation and ritual-efficacy
+    labels need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0894
+  input_sha256: de35b0d75bd09182998d199da2e06c6ae9f2c6c43fb659f220073c329c7f6ae4
+

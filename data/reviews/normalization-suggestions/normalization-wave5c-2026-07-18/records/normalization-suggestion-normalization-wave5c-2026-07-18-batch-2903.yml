@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2903
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ceremonial-visitation-of-blessed-houses
+  motif_id: ceremonial_visitation_of_blessed_houses
+  label: ceremonial visitation of blessed houses
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_geography_pilgrimage
+  suggested_group_label: Sacred Geography and Pilgrimage
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests ritual movement among sanctified domestic spaces,
+    but the current group exists only as a child under axis_mundi and source function
+    is unclear.
+  cautions: Single occurrence; could be pilgrimage, household ritual, blessing rite,
+    or ethnographic description. Review cultural context before mapping.
+  suggested_aliases:
+  - ritual_visitation_of_blessed_houses
+  - visitation_of_sacred_houses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.character-centered-narrative
+  motif_id: character_centered_narrative
+  label: character-centered narrative
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes narrative organization or scholarly classification, not
+    a symbolic or narrative motif.
+  cautions: Preserve only as text-structure metadata if useful; do not use for motif
+    pattern queries.
+  suggested_aliases:
+  - character_focused_narrative
+  - character_based_narrative_structure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.character-formed-by-competing-household-and-civic-voices
+  motif_id: character_formed_by_competing_household_and_civic_voices
+  label: character formed by competing household and civic voices
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as literary-psychological analysis of characterization
+    rather than a reusable mythic motif.
+  cautions: If source evidence shows an actual social-order conflict between household
+    and city, sacred_law or covenant may be secondary review targets.
+  suggested_aliases:
+  - character_shaped_by_household_and_civic_voices
+  - competing_household_and_civic_voices
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chiefly-house-as-restricted-male-platform-and-storehouse
+  motif_id: chiefly_house_as_restricted_male_platform_and_storehouse
+  label: Chiefly house as restricted male platform and storehouse
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: low
+  rationale: A restricted chiefly house may materialize rank, gendered authority,
+    and political order, fitting sacred kingship only if ritual authority is present.
+  cautions: Culturally specific and possibly ethnographic architecture detail; do
+    not flatten gendered restriction or local chiefly institutions without source
+    review.
+  suggested_aliases:
+  - restricted_chiefly_house
+  - chiefly_house_as_status_space_and_storehouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chiefly-house-decoration-as-status-marker
+  motif_id: chiefly_house_decoration_as_status_marker
+  label: Chiefly house decoration as status marker
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Adornment of a chiefly house functions as visible authorization and display
+    of ranked political status.
+  cautions: May be ordinary prestige display rather than sacred kingship; review whether
+    sacred authority, lineage, or ritual status is explicit.
+  suggested_aliases:
+  - chiefly_house_adornment_as_status_marker
+  - decorated_chiefly_house_marks_rank
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chiefly-redistribution-feast-during-famine
+  motif_id: chiefly_redistribution_feast_during_famine
+  label: Chiefly redistribution feast during famine
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A chiefly feast that redistributes food during scarcity centers reciprocal
+    obligation, giving, and social repair.
+  cautions: Could also indicate royal legitimacy or famine-response ethics; confirm
+    that feast redistribution, not merely political economy, is the motif focus.
+  suggested_aliases:
+  - redistributive_chiefly_feast_in_famine
+  - chiefly_feast_as_famine_relief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chiefly-self-reliance-marked-by-tonic-emphasis
+  motif_id: chiefly_self_reliance_marked_by_tonic_emphasis
+  label: chiefly self-reliance marked by tonic emphasis
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'tonic emphasis' points to musical or linguistic analysis
+    of performance, not a motif.
+  cautions: If a passage motif concerns chiefly self-reliance itself, re-extract without
+    the prosodic/analytic wording and review under royal_legitimacy or ethics.
+  suggested_aliases:
+  - tonic_emphasis_marking_chiefly_self_reliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chiefly-status-displayed-through-monumental-house-and-house-pole
+  motif_id: chiefly_status_displayed_through_monumental_house_and_house_pole
+  label: Chiefly status displayed through monumental house and house pole
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Monumental house architecture and pole display chiefly authority, lineage,
+    and public legitimacy.
+  cautions: May deserve local architectural/status granularity if many Northwest Coast
+    house-pole labels recur; avoid assuming kingship where chiefly status is distinct.
+  suggested_aliases:
+  - monumental_house_and_house_pole_display_chiefly_status
+  - chiefly_status_through_house_pole
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.choice-between-indigenous-craft-and-chartered-vessel
+  motif_id: choice_between_indigenous_craft_and_chartered_vessel
+  label: Choice between indigenous craft and chartered vessel
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too contextual to determine whether it concerns journey
+    choice, cultural identity, technology, or colonial contact framing.
+  cautions: Do not map to sacred_craft or sacred_vessel without evidence of sacred
+    construction, power object, or transformative travel function.
+  suggested_aliases:
+  - choice_between_local_craft_and_chartered_vessel
+  - indigenous_craft_versus_chartered_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christianization-as-chronological-and-identity-marker
+  motif_id: christianization_as_chronological_and_identity_marker
+  label: Christianization as chronological and identity marker
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a historical or classificatory marker for dating and identity,
+    not a mythic motif.
+  cautions: Keep as contextual metadata if needed; do not treat as evidence for transmission
+    or motif similarity.
+  suggested_aliases:
+  - christianization_as_identity_marker
+  - christianization_as_chronological_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, culturally specific architectural
+  or performance-analysis phrases; human review should distinguish motif function
+  from ethnographic or scholarly description.
+- Where chiefly status is involved, suggested royal_legitimacy mappings are broad
+  query placements only and should not erase local forms of chiefly authority.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2903
+  input_sha256: 328b5b25a44a66d33a9273a5110a8144e7405f8b66aabd12d221af88f8351716
+

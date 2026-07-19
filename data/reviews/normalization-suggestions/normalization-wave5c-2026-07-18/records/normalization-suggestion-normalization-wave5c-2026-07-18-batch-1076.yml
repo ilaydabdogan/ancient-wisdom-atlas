@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1076
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-reenactment-makes-sacred-story-present
+  motif_id: ritual_reenactment_makes_sacred_story_present
+  label: ritual reenactment makes sacred story present
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Reenactment and Sacred Presence
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label names a broad ritual pattern in which performance makes mythic
+    or sacred time present, not merely offering or sacrifice.
+  cautions: Single occurrence; culturally specific ritual evidence should be reviewed
+    before adding a new durable group.
+  suggested_aliases:
+  - mythic_ritual_reenactment
+  - ritual_actualization_of_sacred_story
+  - sacred_story_made_present_in_ritual
+  suggested_new_group:
+    id: ritual_reenactment_sacred_presence
+    label: Ritual Reenactment and Sacred Presence
+    description: Ritual performance reenacts, actualizes, or makes present a sacred
+      story, primordial event, divine visit, or mythic condition within communal time.
+    parent_group_ids:
+    - sacred_time
+    - theophany
+    - sacred_exchange
+    related_group_ids:
+    - cosmic_origin
+    - divine_intervention
+    - sacrifice
+    reason_existing_groups_insufficient: Existing groups cover sacred time, theophany,
+      sacrifice, and exchange, but none directly capture ritual performance as the
+      actualization of mythic events or sacred story.
+- suggestion_id: normalization.suggestion.ritual-reenactment-of-a-primordial-divine-visit
+  motif_id: ritual_reenactment_of_a_primordial_divine_visit
+  label: ritual reenactment of a primordial divine visit
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Reenactment and Sacred Presence
+  relationship: ritual_variant
+  confidence: medium
+  rationale: This is a specific instance of ritual reenacting a primordial sacred
+    event or divine presence.
+  cautions: Could also be indexed secondarily under theophany or sacred_time if passage
+    evidence emphasizes divine manifestation or primordial time.
+  suggested_aliases:
+  - reenacted_divine_visit
+  - ritual_actualization_of_primordial_visit
+  - primordial_divine_visit_in_ritual
+  suggested_new_group:
+    id: ritual_reenactment_sacred_presence
+    label: Ritual Reenactment and Sacred Presence
+    description: Ritual performance reenacts, actualizes, or makes present a sacred
+      story, primordial event, divine visit, or mythic condition within communal time.
+    parent_group_ids:
+    - sacred_time
+    - theophany
+    - sacred_exchange
+    related_group_ids:
+    - cosmic_origin
+    - divine_intervention
+    - sacrifice
+    reason_existing_groups_insufficient: Existing groups cover sacred time, theophany,
+      sacrifice, and exchange, but none directly capture ritual performance as the
+      actualization of mythic events or sacred story.
+- suggestion_id: normalization.suggestion.ritual-reenactment-of-an-army-on-the-night-before-battle
+  motif_id: ritual_reenactment_of_an_army_on_the_night_before_battle
+  label: Ritual reenactment of an army on the night before battle
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual reenactment, army imagery, and battle timing,
+    but its narrative or ritual function is unclear.
+  cautions: May belong under sacred_combat, sacred_law, ritual reenactment, omen preparation,
+    or may be an episode-specific historical/ritual detail.
+  suggested_aliases:
+  - pre_battle_ritual_reenactment
+  - army_reenactment_before_battle
+  - ritualized_army_on_battle_eve
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-reenactment-of-dream-injury
+  motif_id: ritual_reenactment_of_dream_injury
+  label: Ritual reenactment of dream injury
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve dream healing, sympathetic ritual, vision power,
+    or a passage-specific rite.
+  cautions: Needs source context to distinguish dream_and_vision, sacred_law, divine_intervention,
+    or ritual reenactment; avoid assuming dream injury is a general motif.
+  suggested_aliases:
+  - dream_injury_ritually_reenacted
+  - ritual_performance_of_dream_wound
+  - reenacted_dream_affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-reenactment-of-primordial-conditions
+  motif_id: ritual_reenactment_of_primordial_conditions
+  label: ritual reenactment of primordial conditions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Reenactment and Sacred Presence
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif directly expresses ritual return to primordial or mythic conditions,
+    a reenactment-of-origins pattern.
+  cautions: Could overlap with sacred_time or cosmic_origin; final placement depends
+    on whether the rite renews time, recreates origins, or invokes divine presence.
+  suggested_aliases:
+  - reenactment_of_primordial_time
+  - ritual_return_to_origins
+  - ritual_actualization_of_primordial_conditions
+  suggested_new_group:
+    id: ritual_reenactment_sacred_presence
+    label: Ritual Reenactment and Sacred Presence
+    description: Ritual performance reenacts, actualizes, or makes present a sacred
+      story, primordial event, divine visit, or mythic condition within communal time.
+    parent_group_ids:
+    - sacred_time
+    - theophany
+    - sacred_exchange
+    related_group_ids:
+    - cosmic_origin
+    - divine_intervention
+    - sacrifice
+    reason_existing_groups_insufficient: Existing groups cover sacred time, theophany,
+      sacrifice, and exchange, but none directly capture ritual performance as the
+      actualization of mythic events or sacred story.
+- suggestion_id: normalization.suggestion.ritual-regalia-modeled-on-animal-patrons
+  motif_id: ritual_regalia_modeled_on_animal_patrons
+  label: ritual regalia modeled on animal patrons
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual regalia function as charged objects conferring relation to animal
+    patrons or sacred power.
+  cautions: If the passage emphasizes transformation into animal form, shapeshifter
+    may be secondary; if animal patronage is central, a future animal-spirit group
+    may be needed.
+  suggested_aliases:
+  - animal_patron_regalia
+  - ritual_costume_modeled_on_animal_patrons
+  - animal_power_regalia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-regulation-of-mourning-emotion
+  motif_id: ritual_regulation_of_mourning_emotion
+  label: Ritual regulation of mourning emotion
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns mourning shaped by ritual norms and belongs with grief
+    and lament practices.
+  cautions: Confucian ritual propriety may also support sacred_law; review whether
+    emotion regulation or normative order is primary.
+  suggested_aliases:
+  - ritually_regulated_mourning
+  - ritual_control_of_grief
+  - mourning_emotion_governed_by_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-regurgitation-and-swallowing-of-a-small-object
+  motif_id: ritual_regurgitation_and_swallowing_of_a_small_object
+  label: ritual regurgitation and swallowing of a small object
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a highly specific ritual action without enough information
+    about its function.
+  cautions: May involve sacred substance, power object, initiation, healing, or performance
+    detail; avoid broad mapping from action alone.
+  suggested_aliases:
+  - ritual_swallowing_and_regurgitation
+  - regurgitated_ritual_object
+  - small_object_swallowed_in_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-rejection-of-inner-evil-or-discontent
+  motif_id: ritual_rejection_of_inner_evil_or_discontent
+  label: ritual rejection of inner evil or discontent
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritually rejecting inner evil resembles expulsion, purification, or scapegoat-like
+    removal of harmful states already grouped under sacrifice.
+  cautions: If the rite is primarily ethical self-discipline rather than expulsion,
+    sacred_law or mystical_quest may be better secondary mappings.
+  suggested_aliases:
+  - ritual_expulsion_of_inner_evil
+  - ritual_rejection_of_discontent
+  - inner_evil_removed_by_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-rejoicing-before-a-sacred-presence
+  motif_id: ritual_rejoicing_before_a_sacred_presence
+  label: Ritual rejoicing before a sacred presence
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The ritual action is oriented toward direct sacred presence, fitting
+    theophany or divine manifestation in worship.
+  cautions: If the passage emphasizes song, procession, or offering rather than manifestation,
+    sacred_song, sacred_exchange, or sacred_law may be better secondary mappings.
+  suggested_aliases:
+  - rejoicing_before_divine_presence
+  - liturgical_joy_before_sacred_presence
+  - ritual_celebration_of_divine_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch cluster around ritual reenactment as actualization
+  of mythic or primordial time; this may warrant a new normalization group if more
+  occurrences appear.
+- Single-occurrence and culturally specific ritual labels should be reviewed with
+  source evidence before being promoted beyond provisional mapping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no transmission or origin claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1076
+  input_sha256: 7f875e4e0d4109abce143baafcddb50590786e0ec4e183007c131bd1c70527f9
+

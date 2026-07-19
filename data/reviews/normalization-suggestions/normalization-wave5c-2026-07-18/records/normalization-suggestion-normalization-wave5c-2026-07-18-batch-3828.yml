@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3828
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.public-complaint-prompts-monastic-rule
+  motif_id: public_complaint_prompts_monastic_rule
+  label: Public complaint prompts monastic rule
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A communal complaint causing a monastic rule fits formation of sacred
+    disciplinary law and social order.
+  cautions: Single Buddhist legal-context occurrence; may be vinaya redactional formula
+    rather than reusable motif.
+  suggested_aliases:
+  - public_complaint_prompts_disciplinary_rule
+  - communal_complaint_prompts_monastic_regulation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-confession-and-accepted-amends
+  motif_id: public_confession_and_accepted_amends
+  label: Public confession and accepted amends
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Public confession and amends repair a violated communal or sacred bond.
+  cautions: Could also fit sacred_law if the passage emphasizes disciplinary procedure
+    more than reconciliation.
+  suggested_aliases:
+  - confession_and_accepted_amends
+  - public_repentance_and_restored_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-criticism-prompting-conduct-prohibition
+  motif_id: public_criticism_prompting_conduct_prohibition
+  label: public criticism prompting conduct prohibition
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Public criticism leading to a conduct prohibition is a rule-formation
+    pattern within sacred social discipline.
+  cautions: Likely formulaic vinaya/legal narrative; preserve as evidence detail unless
+    recurring beyond this context.
+  suggested_aliases:
+  - public_criticism_prompts_conduct_rule
+  - communal_censure_prompts_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-criticism-prompting-disciplinary-restriction
+  motif_id: public_criticism_prompting_disciplinary_restriction
+  label: public criticism prompting disciplinary restriction
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A disciplinary restriction prompted by public criticism belongs under
+    sacred law and social conduct regulation.
+  cautions: May be too procedural or source-formulaic for pattern queries without
+    broader recurrence.
+  suggested_aliases:
+  - public_criticism_prompts_disciplinary_restriction
+  - communal_censure_prompts_disciplinary_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-criticism-prompts-disciplinary-rule
+  motif_id: public_criticism_prompts_disciplinary_rule
+  label: public criticism prompts disciplinary rule
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: This is another rule-origin pattern where communal censure produces sacred
+    disciplinary law.
+  cautions: Near-duplicate of other Buddhist public-criticism rule labels; consider
+    alias consolidation after review.
+  suggested_aliases:
+  - public_criticism_prompting_disciplinary_restriction
+  - public_complaint_prompts_monastic_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-declaration-of-responsibility-for-a-killing
+  motif_id: public_declaration_of_responsibility_for_a_killing
+  label: public declaration of responsibility for a killing
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve oath, honor-law, confession, feud responsibility, or legal
+    liability after killing.
+  cautions: Norse context may be juridical rather than mythic; source evidence needed
+    before mapping to sacred_law, covenant, sacred_combat, or divine_judgment.
+  suggested_aliases:
+  - public_avowal_of_killing
+  - declared_responsibility_for_homicide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-denunciation-of-an-offensive-court-guest
+  motif_id: public_denunciation_of_an_offensive_court_guest
+  label: Public denunciation of an offensive court guest
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern court etiquette, guest-host obligations, insult,
+    or public judgment.
+  cautions: Could map to hospitality_test_stranger_guest, sacred_law, or divine_judgment
+    depending on whether sacred hospitality or moral reckoning is central.
+  suggested_aliases:
+  - denunciation_of_offensive_guest
+  - public_censure_of_court_guest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-display-of-defeated-rebels-bodies
+  motif_id: public_display_of_defeated_rebels_bodies
+  label: Public display of defeated rebels' bodies
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Displaying defeated enemies' bodies functions as martial proof and post-battle
+    domination within sacred combat ideology.
+  cautions: If the passage emphasizes denial of burial or corpse exposure, heroic_funeral_rites
+    may be a better secondary group.
+  suggested_aliases:
+  - public_display_of_enemy_bodies
+  - defeated_rebels_bodies_as_victory_display
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-display-of-gift-giving-status
+  motif_id: public_display_of_gift_giving_status
+  label: public display of gift-giving status
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Gift display may express reciprocity, prestige, sacred exchange, or social
+    rank depending on context.
+  cautions: Culturally specific exchange systems require careful review; avoid reducing
+    prestige display to generic sacred_exchange without evidence.
+  suggested_aliases:
+  - public_gift_display_as_status
+  - status_display_through_gift_giving
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-display-of-occult-objects-as-proof-of-witchcraft
+  motif_id: public_display_of_occult_objects_as_proof_of_witchcraft
+  label: public display of occult objects as proof of witchcraft
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines accusation, proof tokens, occult objects, and public
+    judgment.
+  cautions: Culturally sensitive witchcraft-accusation context; may be social/legal
+    evidence rather than a mythic motif. Review before mapping to divine_judgment,
+    sacred_treasures, or sacred_law.
+  suggested_aliases:
+  - occult_objects_displayed_as_witchcraft_proof
+  - public_evidence_of_witchcraft_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Buddhist public-criticism/public-complaint labels appear to be near-duplicates
+  around monastic rule formation; consider alias consolidation under sacred_law if
+  review confirms vinaya rule-origin function.
+- Items involving witchcraft accusation and Native American exchange/status practices
+  should receive culturally informed human review before broad pattern indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3828
+  input_sha256: 4c13f99c1c06e611f84c3db75a4d8825a396e9c5b8bda59dcf59050f222c1996
+

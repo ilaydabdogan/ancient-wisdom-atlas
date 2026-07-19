@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2060
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-feather-lure-in-emu-hunting
+  motif_id: animal_feather_lure_in_emu_hunting
+  label: animal-feather lure in emu hunting
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a culturally specific hunting technique or lure involving
+    animal material, but the narrative function is unclear from the label alone.
+  cautions: May be an ethnographic subsistence detail rather than a recurring mythic
+    motif; culturally specific Australian Aboriginal context should be reviewed with
+    source evidence.
+  suggested_aliases:
+  - emu hunting feather lure
+  - animal-feather hunting lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-feature-caused-by-injury-during-escape
+  motif_id: animal_feature_caused_by_injury_during_escape
+  label: animal feature caused by injury during escape
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is an etiological explanation for an animal trait, analogous to
+    existing origin-explanation children under cosmic_origin.
+  cautions: If the passage emphasizes transformation of a person into an animal rather
+    than explanation of an animal trait, shapeshifter or death_and_transformation
+    may be a better secondary placement.
+  suggested_aliases:
+  - etiology of animal feature from injury
+  - animal trait origin from escape injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-feature-explanation-from-flood-survival
+  motif_id: animal_feature_explanation_from_flood_survival
+  label: animal feature explanation from flood survival
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif explains an animal trait through survival in a flood episode,
+    tying the local etiology to the flood-renewal complex.
+  cautions: Could also be indexed as an etiological origin motif under cosmic_origin
+    if flood is only background rather than the core pattern.
+  suggested_aliases:
+  - animal trait etiology from flood survival
+  - animal feature origin after flood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-feeding-treated-like-high-status-hospitality
+  motif_id: animal_feeding_treated_like_high_status_hospitality
+  label: Animal feeding treated like high-status hospitality
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on feeding as hospitality, with an animal receiving
+    treatment analogous to a high-status guest.
+  cautions: Zoroastrian animal-care and purity obligations may make sacred_law or
+    sacred_exchange more appropriate if the source frames this as ritual duty rather
+    than hospitality testing.
+  suggested_aliases:
+  - animal feeding as hospitality
+  - high-status hospitality toward animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-female-in-founding-genealogy
+  motif_id: animal_female_in_founding_genealogy
+  label: animal female in founding genealogy
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A nonhuman female in a founding genealogy fits ancestral origin and people-origin
+    patterns already grouped under cosmic_origin.
+  cautions: If the animal female is a spouse, mother, or transformed ancestor with
+    strong local totemic significance, review for possible new animal-ancestor or
+    totemic-origin grouping.
+  suggested_aliases:
+  - animal ancestress in founding genealogy
+  - animal female as founding ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - mother_goddess
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-field-helpers-rewarded-with-food
+  motif_id: animal_field_helpers_rewarded_with_food
+  label: Animal field helpers rewarded with food
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animals help with field labor and receive food in return, matching reciprocal
+    exchange and reward for service.
+  cautions: May be a folktale labor-reward detail rather than sacred exchange; if
+    the animals are supernatural helpers, divine_intervention or animal_helpers may
+    also apply.
+  suggested_aliases:
+  - animal helpers rewarded with food
+  - food reward for animal field helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-fight-as-household-bad-luck-omen
+  motif_id: animal_fight_as_household_bad_luck_omen
+  label: animal fight as household bad-luck omen
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An animal fight interpreted as a household omen belongs with omen-reading
+    and divinatory signs.
+  cautions: If this is a casual superstition or local household rule rather than systematic
+    omen interpretation, it may need human review or sacred_law as a ritual-prohibition
+    context.
+  suggested_aliases:
+  - animal fight as bad-luck omen
+  - household omen from fighting animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-figures-in-paired-or-triadic-fable-headings
+  motif_id: animal_figures_in_paired_or_triadic_fable_headings
+  label: animal figures in paired or triadic fable headings
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes fable heading structure rather than a narrative
+    motif in the story-world.
+  cautions: If a source passage analyzes actual paired or triadic animal action, map
+    that action separately; the heading pattern itself should not drive motif queries.
+  suggested_aliases:
+  - animal-centered fable heading pattern
+  - paired or triadic animal fable headings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-finder-leads-hunter-to-hidden-food-source
+  motif_id: animal_finder_leads_hunter_to_hidden_food_source
+  label: animal finder leads hunter to hidden food source
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal guide reveals a hidden food source, aligning with animal_helpers
+    and miraculous or providential guidance under divine_intervention.
+  cautions: If the animal is ordinary and the episode is mainly hunting lore, this
+    may be too contextual; if exchange or reward is central, sacred_exchange may be
+    secondary.
+  suggested_aliases:
+  - animal guide to hidden food
+  - animal helper reveals food source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-folk-tales
+  motif_id: animal_folk_tales
+  label: animal folk tales
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a genre or corpus label, not a specific motif with narrative
+    function.
+  cautions: Individual animal-folktale episodes should be indexed by their actual
+    actions, roles, or transformations rather than this broad genre label.
+  suggested_aliases:
+  - animal folktale genre
+  - animal tales
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several animal labels are single-occurrence and may represent local ethnographic
+  details, fable headings, or generated summaries rather than durable motifs.
+- No transmission or common-origin claims are implied by these placements.
+- Animal-origin and animal-helper patterns are underrepresented as standalone groups;
+  repeated future evidence may justify a reviewed animal etiologies or animal helpers
+  group, but this batch can mostly use existing groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; culturally specific and single-occurrence animal
+    labels should be checked against passage evidence before committing mappings.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2060
+  input_sha256: 769e0c6e5c59b9c714a9fc736106ee93dcb029d8507a09af48a9c4ee43bc68bf
+

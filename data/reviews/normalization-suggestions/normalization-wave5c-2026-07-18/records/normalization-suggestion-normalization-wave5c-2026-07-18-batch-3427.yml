@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3427
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.failed-skeptical-demonstration-reinterpreted-as-magical-status-of-demonstrator
+  motif_id: failed_skeptical_demonstration_reinterpreted_as_magical_status_of_demonstrator
+  label: Failed skeptical demonstration reinterpreted as magical status of demonstrator
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve miracle-working, sacred knowledge, trickster reversal,
+    or local interpretation of ritual power, but function is unclear from wording
+    alone.
+  cautions: Single occurrence and culturally specific context; review source evidence
+    before mapping to divine_intervention, sacred_knowledge, or trickster.
+  suggested_aliases:
+  - skeptical_test_reinterpreted_as_magic
+  - failed_demonstration_read_as_supernatural_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-supplication-to-a-deity
+  motif_id: failed_supplication_to_a_deity
+  label: failed supplication to a deity
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A failed plea to divine authority fits supplication within the sacred
+    bond and reciprocity complex, especially near existing refused-supplication children.
+  cautions: If the passage emphasizes divine refusal as punishment, divine_judgment
+    may be a secondary placement; if merely an unanswered prayer detail, it may be
+    over-specific.
+  suggested_aliases:
+  - unanswered_supplication_to_a_deity
+  - divine_supplication_refused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-vengeance-pursuit-turns-to-atonement
+  motif_id: failed_vengeance_pursuit_turns_to_atonement
+  label: Failed vengeance pursuit turns to atonement
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The movement from vengeance to atonement centers on moral reckoning and
+    repair after wrongdoing or failed retaliation.
+  cautions: Could also belong under sacrifice if atonement is ritualized, or sacred_combat
+    if the pursuit is primarily a feud-combat episode.
+  suggested_aliases:
+  - vengeance_transformed_into_atonement
+  - failed_revenge_leads_to_moral_repair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-watch-permits-abduction
+  motif_id: failed_watch_permits_abduction
+  label: failed watch permits abduction
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an episode-specific plot mechanism rather than a durable
+    symbolic motif.
+  cautions: If abduction of a beloved drives a quest, preserve as evidence under stolen_beloved
+    or hero_journey; if a guardian role is central, threshold_guardian may be relevant.
+  suggested_aliases:
+  - watch_failure_allows_abduction
+  - failed_guarding_of_abducted_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failure-of-engineered-lineage-to-produce-greatness
+  motif_id: failure_of_engineered_lineage_to_produce_greatness
+  label: failure of engineered lineage to produce greatness
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns lineage, greatness, and failed design, but may be
+    eugenic commentary, succession ideology, or mythic genealogy depending on source
+    evidence.
+  cautions: Potentially culturally and ethically sensitive; do not map to sacred_birth
+    or royal_legitimacy without clear narrative function.
+  suggested_aliases:
+  - engineered_lineage_fails_to_produce_greatness
+  - planned_lineage_fails
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fainting-and-renewed-effort-after-encouragement
+  motif_id: fainting_and_renewed_effort_after_encouragement
+  label: fainting and renewed effort after encouragement
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a scene-level action sequence about exhaustion and
+    encouragement rather than a stable mythic motif.
+  cautions: If the broader passage is an ordeal that transforms status or identity,
+    index that broader evidence under initiation or hero_journey instead.
+  suggested_aliases:
+  - renewed_effort_after_encouragement
+  - collapse_and_recovery_during_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fairy-food-or-belongings-become-deceptive-after-enchantment-ends
+  motif_id: fairy_food_or_belongings_become_deceptive_after_enchantment_ends
+  label: Fairy food or belongings become deceptive after enchantment ends
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: high
+  rationale: Enchanted otherworld goods losing value or proving deceptive after return
+    matches existing otherworld exchange and fairy-money aliases.
+  cautions: Review tradition label and source context; avoid assuming European fairy
+    categories if the passage uses a distinct local spirit or otherworld concept.
+  suggested_aliases:
+  - enchanted_goods_become_worthless_after_return
+  - fairy_food_becomes_deceptive_after_enchantment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fairy-monarchy-and-midsummer-revel
+  motif_id: fairy_monarchy_and_midsummer_revel
+  label: Fairy monarchy and Midsummer revel
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines enchanted beings, rulership, and seasonal festivity;
+    the dominant motif is unclear without passage evidence.
+  cautions: Could be otherworld, royal_legitimacy, or sacred_time; may also be a literary
+    scene description rather than a motif.
+  suggested_aliases:
+  - fairy_revel_at_midsummer
+  - fairy_court_and_seasonal_revel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faith-as-refuge
+  motif_id: faith_as_refuge
+  label: faith as refuge
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is an abstract ethical or devotional theme and does not clearly
+    map to a narrative motif from the label alone.
+  cautions: Could fit sacred_law, covenant, mystical_quest, or divine_intervention
+    depending on whether faith functions as law, bond, interior discipline, or protection.
+  suggested_aliases:
+  - devotional_refuge
+  - trust_as_spiritual_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.faith-conquers-conquerors
+  motif_id: faith_conquers_conquerors
+  label: faith conquers conquerors
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The phrase suggests moral or sacred reversal in which worldly power is
+    overcome by faithful alignment with divine order.
+  cautions: If the passage emphasizes military victory through divine aid, divine_warrior
+    may be better; if it is purely homiletic, it may be an abstract teaching rather
+    than a motif.
+  suggested_aliases:
+  - faith_overcomes_worldly_conquerors
+  - spiritual_faith_defeats_conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and abstract or scene-specific;
+  human review should check whether they represent passage evidence, generated summaries,
+  or durable motif labels.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; source passages should be checked for
+    ambiguous and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3427
+  input_sha256: f188c214dbd8cf5ab86d325e428f769bfa35756d71c9041a6efbe6a79ce81583
+

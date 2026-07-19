@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3865
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.refused-confession-followed-by-supernatural-vengeance
+  motif_id: refused_confession_followed_by_supernatural_vengeance
+  label: refused confession followed by supernatural vengeance
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence centers on withheld confession or truth followed by supernatural
+    punishment, fitting moral reckoning.
+  cautions: Single occurrence; verify that vengeance is sacred or supernatural judgment
+    rather than ordinary ghost revenge or plot punishment.
+  suggested_aliases:
+  - withheld_confession_punished_by_supernatural_vengeance
+  - supernatural_vengeance_after_refused_confession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refused-food-reciprocated
+  motif_id: refused_food_reciprocated
+  label: Refused food reciprocated
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusal and reciprocal response around food aligns with exchange, hospitality,
+    and reciprocity obligations.
+  cautions: May be a compact fable or episode detail; if the emphasis is guest-testing,
+    hospitality_test_stranger_guest may be a secondary fit.
+  suggested_aliases:
+  - food_refusal_reciprocity
+  - reciprocal_refusal_of_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refused-settlement-tied-to-honour
+  motif_id: refused_settlement_tied_to_honour
+  label: refused settlement tied to honour
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusing settlement for honor commonly functions within feud, combat,
+    and warrior-status conflict.
+  cautions: Could instead belong under covenant or sacred_law if the passage emphasizes
+    legal compensation rather than martial honor.
+  suggested_aliases:
+  - honor_based_refusal_of_settlement
+  - refusal_of_compensation_for_honor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refused-suitor-uses-magic-to-punish-a-princess
+  motif_id: refused_suitor_uses_magic_to_punish_a_princess
+  label: Refused suitor uses magic to punish a princess
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif concerns failed courtship and coercive punishment after rejection,
+    fitting love/courtship conflict at broad level.
+  cautions: Potentially gendered violence and magical coercion; source review needed.
+    Could also map to curse_blessing_speech, divine_judgment, or betrayal depending
+    on the mechanism.
+  suggested_aliases:
+  - rejected_suitor_punishes_with_magic
+  - magical_revenge_by_refused_suitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regalia-clad-emergence-followed-by-supernatural-slaughter
+  motif_id: regalia_clad_emergence_followed_by_supernatural_slaughter
+  label: Regalia-clad emergence followed by supernatural slaughter
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ceremonial appearance, regalia, emergence, and supernatural
+    killing without clear primary function.
+  cautions: Culturally sensitive ceremonial context; do not reduce regalia to generic
+    sacred objects without source evidence. Could involve divine_warrior, theophany,
+    ritual authority, or passage-specific detail.
+  suggested_aliases:
+  - ceremonial_regalia_emergence_with_supernatural_slaughter
+  - supernatural_slaughter_after_regalia_clad_emergence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-adaptation-of-monastic-practice
+  motif_id: regional_adaptation_of_monastic_practice
+  label: Regional adaptation of monastic practice
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads as historical or ethnographic commentary on practice variation,
+    not a narrative or symbolic motif.
+  cautions: Preserve as contextual provenance if useful; only remap if passage describes
+    a specific ritual act with recurring symbolic function.
+  suggested_aliases:
+  - local_adaptation_of_monastic_practice
+  - regional_variation_in_monastic_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-circulation-of-imported-valuables
+  motif_id: regional_circulation_of_imported_valuables
+  label: regional circulation of imported valuables
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes regional exchange or material-culture circulation
+    rather than a mythic motif.
+  cautions: If valuables function as power objects or ritual exchange items in a narrative,
+    consider sacred_treasures or sacred_exchange after source review.
+  suggested_aliases:
+  - circulation_of_imported_valuables
+  - regional_exchange_of_imported_valuables
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-clothing-cut-and-contrast-band-decoration
+  motif_id: regional_clothing_cut_and_contrast_band_decoration
+  label: regional clothing cut and contrast-band decoration
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an ethnographic costume-description detail, not a recurring narrative
+    motif as labeled.
+  cautions: If clothing marks transformation, ritual status, or recognition in the
+    source, create a narrower evidence mapping rather than indexing this regional
+    description.
+  suggested_aliases:
+  - regional_clothing_decoration_detail
+  - contrast_band_clothing_description
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-craft-specialization-and-exchange-network
+  motif_id: regional_craft_specialization_and_exchange_network
+  label: regional craft specialization and exchange network
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes economic or ethnographic organization, not a symbolic
+    motif.
+  cautions: If a myth explains the origin of craft or trade obligations, review for
+    culture_hero, sacred_craft, or sacred_exchange instead.
+  suggested_aliases:
+  - craft_specialization_exchange_network
+  - regional_craft_exchange_network
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-craft-technology-variation
+  motif_id: regional_craft_technology_variation
+  label: regional craft-technology variation
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a comparative material-culture or technology note rather than
+    a mythic pattern.
+  cautions: If a crafted object has supernatural power or divine origin, remap the
+    specific object to sacred_craft or sacred_treasures.
+  suggested_aliases:
+  - regional_variation_in_craft_technology
+  - craft_technology_variation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels beginning with 'regional' appear to be ethnographic, comparative,
+  or material-culture artifacts and should generally be excluded from motif pattern
+  queries unless source passages show a specific narrative function.
+- Single-occurrence interpersonal refusal labels should be treated provisionally;
+  review source context to distinguish sacred reciprocity, legal settlement, magical
+  coercion, and ordinary plot details.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3865
+  input_sha256: a5713ab77da1f84f25b6ff95619efeaff46758b778c099d0e397035f07c97e0d
+

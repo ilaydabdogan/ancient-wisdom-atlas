@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1071
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-purification-before-contact-with-purifying-substances
+  motif_id: ritual_purification_before_contact_with_purifying_substances
+  label: ritual purification before contact with purifying substances
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prerequisite purification rule before handling purifying substances
+    fits ritual purity regulation under sacred law.
+  cautions: Single occurrence and substance-specific; could be evidence detail under
+    a future ritual-purification subgroup if many similar labels recur.
+  suggested_aliases:
+  - preparatory_ritual_purification
+  - purity_before_contact_with_purifying_substances
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-before-sacred-action
+  motif_id: ritual_purification_before_sacred_action
+  label: ritual purification before sacred action
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purification required before a sacred act is a ritual-prohibition or
+    purity-law pattern already covered by sacred_law.
+  cautions: Broad generated label; preserve local action and ritual context rather
+    than treating it as a distinct canonical motif.
+  suggested_aliases:
+  - preparatory_ritual_purification
+  - purification_before_sacred_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-before-sacred-selection
+  motif_id: ritual_purification_before_sacred_selection
+  label: ritual purification before sacred selection
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A purification requirement governing a sacred selection procedure fits
+    regulated ritual order under sacred_law.
+  cautions: May be tied to institutional or historical procedure rather than reusable
+    motif; review source evidence before broad querying.
+  suggested_aliases:
+  - purification_before_selection
+  - preparatory_ritual_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-before-sacred-service
+  motif_id: ritual_purification_before_sacred_service
+  label: Ritual purification before sacred service
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purity preparation before service is a ritual discipline or propriety
+    rule, fitting sacred_law.
+  cautions: In Confucian context this may emphasize ritual propriety more than divine
+    purity; avoid over-theologizing without passage evidence.
+  suggested_aliases:
+  - purification_before_service
+  - ritual_preparation_for_sacred_service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-by-ashes-and-washing
+  motif_id: ritual_purification_by_ashes_and_washing
+  label: Ritual purification by ashes and washing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed cleansing method using ashes and washing belongs with ritual
+    purity practices under sacred_law.
+  cautions: Method is culturally specific and single-occurrence; preserve ashes/washing
+    as evidence detail and review sensitively.
+  suggested_aliases:
+  - purification_by_ashes_and_washing
+  - ritual_cleansing_by_ashes_and_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-by-contact-breath-and-sand-painting
+  motif_id: ritual_purification_by_contact_breath_and_sand_painting
+  label: Ritual purification by contact, breath, and sand painting
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label appears to describe a ritual cleansing technology, broadly
+    compatible with sacred_law purity practices.
+  cautions: Highly culturally specific composite involving breath and sand painting;
+    should be reviewed by source specialists before normalization.
+  suggested_aliases:
+  - purification_by_breath_and_sand_painting
+  - ritual_cleansing_by_contact_breath_and_sand_painting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-by-sequential-substances
+  motif_id: ritual_purification_by_sequential_substances
+  label: ritual purification by sequential substances
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed sequence of purifying substances is a ritual purity rule,
+    fitting sacred_law.
+  cautions: Could be too procedure-specific for pattern queries; retain sequence details
+    only as passage evidence unless recurrent.
+  suggested_aliases:
+  - sequential_substance_purification
+  - ritual_cleansing_by_ordered_substances
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-by-washing
+  motif_id: ritual_purification_by_washing
+  label: Ritual purification by washing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purification by washing centers water as a cleansing medium, fitting
+    sacred_waters.
+  cautions: If emphasis is ritual obligation rather than water symbolism, sacred_law
+    is an appropriate secondary parent; source context needed.
+  suggested_aliases:
+  - ritual_washing
+  - purification_by_washing
+  - washing_as_ritual_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-controlled-by-a-righteous-specialist
+  motif_id: ritual_purification_controlled_by_a_righteous_specialist
+  label: Ritual purification controlled by a righteous specialist
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: low
+  rationale: A qualified ritual specialist regulating purification fits sacred law
+    and purity administration in broad terms.
+  cautions: The role of a righteous specialist may be doctrinally specific; verify
+    whether this is a motif, legal rule, priestly role, or passage artifact.
+  suggested_aliases:
+  - ritual_specialist_controls_purification
+  - qualified_specialist_administers_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-purification-from-guilt-or-bloodshed
+  motif_id: ritual_purification_from_guilt_or_bloodshed
+  label: Ritual purification from guilt or bloodshed
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Purification after guilt or bloodshed matches existing sacred_law purity
+    and post-bloodshed cleansing patterns.
+  cautions: May also relate to sacrifice or divine_judgment if the rite includes offering,
+    atonement, or punishment; preserve bloodshed context.
+  suggested_aliases:
+  - purification_after_bloodshed
+  - cleansing_from_guilt_or_bloodshed
+  - ritual_cleansing_after_bloodshed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are one-off procedural purification variants. Existing
+  sacred_law can hold the broad purity-rule function, while sacred_waters fits washing-specific
+  cases.
+- Consider whether recurrent purification labels warrant a future child cluster such
+  as ritual_purification under sacred_law, but this batch alone does not require a
+  new canonical group.
+- Culturally specific Native American Southwest and Zoroastrian ritual technologies
+  should be reviewed sensitively and not flattened beyond the broad group placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1071
+  input_sha256: 60e292273760ef4cd282adeb0366947cc087f6a321a6e51789bea31ada106ba4
+

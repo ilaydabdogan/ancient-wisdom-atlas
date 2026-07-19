@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3643
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.magic-or-life-associated-objects
+  motif_id: magic_or_life_associated_objects
+  label: Magic or life-associated objects
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to distinguish external soul, sacred treasure,
+    sacred vessel, or generic magic object function.
+  cautions: Single occurrence; source evidence is needed to determine whether the
+    object controls life, confers power, contains a soul, or is only an artifact detail.
+  suggested_aliases:
+  - life-associated objects
+  - magical life objects
+  - magic objects associated with life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - external_soul
+    - sacred_treasures
+    - sacred_vessel
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-plant-that-opens-iron-locks-and-fetters
+  motif_id: magic_plant_that_opens_iron_locks_and_fetters
+  label: magic plant that opens iron locks and fetters
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical plant functioning as a key or liberating power object fits
+    the broader power-object group better than sacred tree symbolism.
+  cautions: Preserve plant specificity; do not map to axis_mundi unless the plant
+    has cosmic-tree or sacred-center function.
+  suggested_aliases:
+  - lock-opening magic plant
+  - fetter-opening plant
+  - magical plant key
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-practice-transformed-into-divination
+  motif_id: magic_practice_transformed_into_divination
+  label: magic practice transformed into divination
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: The divination function points to prophecy_divination, but the wording
+    sounds like comparative or historical classification rather than a motif.
+  cautions: May be a scholarly artifact about transformation of practices; exclude
+    if no narrative or ritual scene is present.
+  suggested_aliases:
+  - magical practice as divination
+  - magic transformed into divinatory practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-rune-transformed-vehicle
+  motif_id: magic_rune_transformed_vehicle
+  label: magic rune-transformed vehicle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vehicle transformed by runic magic is an enchanted crafted object or
+    technology, fitting sacred craft more than general transformation.
+  cautions: If the passage emphasizes runic knowledge rather than the vehicle, sacred_knowledge
+    may be a secondary mapping.
+  suggested_aliases:
+  - rune-transformed vehicle
+  - magically transformed vehicle
+  - runic vehicle transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-sleep-enables-defeat-of-a-guardian
+  motif_id: magic_sleep_enables_defeat_of_a_guardian
+  label: Magic sleep enables defeat of a guardian
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: The core narrative function is bypassing or defeating a guardian who
+    controls access to a threshold.
+  cautions: Magic sleep may also relate to enchanting_music or sacred_substance if
+    the means is song, drug, or potion; keep the mechanism as evidence detail.
+  suggested_aliases:
+  - guardian defeated by magical sleep
+  - enchanted sleep overcomes guardian
+  - sleep spell bypasses guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-that-separates-spouses
+  motif_id: magic_that_separates_spouses
+  label: Magic that separates spouses
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns supernatural disruption of a marital or love bond,
+    fitting the sacred_love field as a negative variant.
+  cautions: Could instead belong under sacred_law or divine_judgment if the passage
+    frames sorcery as prohibited practice or moral reckoning.
+  suggested_aliases:
+  - spouses separated by magic
+  - marital separation by sorcery
+  - magic disrupting marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-threat-evaded-by-aerial-withdrawal
+  motif_id: magic_threat_evaded_by_aerial_withdrawal
+  label: Magic threat evaded by aerial withdrawal
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines threat, magic, and aerial escape without enough evidence
+    to identify a stable motif function.
+  cautions: May fit ascent, divine_intervention, sacred_combat, or shapeshifter depending
+    on whether flight is spiritual ascent, rescue, battle tactic, or transformation.
+  suggested_aliases:
+  - aerial withdrawal from magical threat
+  - escape from magic by flight
+  - magical threat avoided by flying away
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ascent
+    - divine_intervention
+    - sacred_combat
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-worker-judged-and-condemned-by-human-court
+  motif_id: magic_worker_judged_and_condemned_by_human_court
+  label: Magic-worker judged and condemned by human court
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on formal judgment and condemnation of a transgressive
+    sacred or magical actor.
+  cautions: Because the court is human, verify sacred or mythic significance; otherwise
+    it may be a legal episode rather than a mythic judgment motif.
+  suggested_aliases:
+  - magician condemned by court
+  - magic-worker tried by human court
+  - human judgment of a magic-worker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-animation-of-laborers
+  motif_id: magical_animation_of_laborers
+  label: magical animation of laborers
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: The group already includes animated images, artificial life, and magically
+    made or animated crafted beings.
+  cautions: If the laborers are funerary substitutes or servant figurines, sacred_vessel
+    or afterlife_passage may be relevant as secondary context.
+  suggested_aliases:
+  - animated laborers
+  - magically animated workers
+  - artificial laborers animated by magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    - afterlife_passage
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-attraction-or-acquisition-of-women
+  motif_id: magical_attraction_or_acquisition_of_women
+  label: Magical attraction or acquisition of women
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns love or sexual acquisition through magic, but the
+    wording is broad and culturally sensitive.
+  cautions: Review source context for coercion, marriage practice, abduction, courtship
+    magic, or generated-label bias before mapping; avoid normalizing harmful or vague
+    phrasing without evidence.
+  suggested_aliases:
+  - magical attraction of women
+  - magical acquisition of women
+  - courtship magic involving women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use broad 'magic' wording; reviewers should preserve the concrete
+  narrative function rather than creating a generic magic group.
+- Single-occurrence labels should generally remain granular evidence unless recurrence
+  across sources is shown.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional automated placement suggestions; culturally sensitive and over-broad
+    magic labels require source verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3643
+  input_sha256: 23d3379c93860cd0aa4a70381b59c0e0f7d431c04d484f607b13289ba1c21150
+

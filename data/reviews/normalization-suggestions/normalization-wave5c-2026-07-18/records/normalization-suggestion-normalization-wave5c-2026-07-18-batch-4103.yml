@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4103
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.yielding-comfort-or-transport-to-the-vulnerable
+  motif_id: yielding_comfort_or_transport_to_the_vulnerable
+  label: Yielding comfort or transport to the vulnerable
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on aid, care, and obligation toward a vulnerable person,
+    fitting reciprocal or ethical giving.
+  cautions: Single occurrence; if framed as a formal moral command rather than hospitality
+    or aid, sacred_law may be a better placement.
+  suggested_aliases:
+  - aid_to_the_vulnerable
+  - yielding_transport_to_the_vulnerable
+  - compassionate_assistance_to_vulnerable_traveller
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.yima-s-enclosure
+  motif_id: yima_s_enclosure
+  label: Yima's enclosure
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Yima's enclosure could refer to a preserving refuge, otherworld space,
+    or culturally specific Avestan vara motif.
+  cautions: Tradition metadata appears mismatched with Avestan/Yima material. Do not
+    map without source evidence; possible groups include sacred_vessel, otherworld,
+    or flood_and_renewal if preservation through catastrophe is explicit.
+  suggested_aliases:
+  - yima_s_vara
+  - yima_s_protective_enclosure
+  - mythic_enclosure_of_yima
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.yima-s-grove-as-avestic-mythic-place
+  motif_id: yima_s_grove_as_avestic_mythic_place
+  label: Yima's grove as Avestic mythic place
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase reads as a place-identification or comparative scholarly note
+    rather than a reusable narrative motif.
+  cautions: Tradition metadata appears inconsistent. If the passage describes a functional
+    otherworld grove or refuge, remap to otherworld or sacred_vessel after review.
+  suggested_aliases:
+  - yima_s_grove
+  - avestan_mythic_place_yima_s_grove
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.yoke-of-steadfast-religious-commitment
+  motif_id: yoke_of_steadfast_religious_commitment
+  label: yoke of steadfast religious commitment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A yoke of religious commitment signals disciplined adherence on an interior
+    or spiritual path.
+  cautions: Could be an ethical teaching metaphor rather than a narrative motif; sacred_law
+    or sacred_knowledge may fit if the passage emphasizes doctrine or commandment.
+  suggested_aliases:
+  - religious_commitment_as_yoke
+  - steadfast_spiritual_discipline
+  - yoke_of_religious_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.young-pair-keep-watch-and-reveal-the-hidden-culprit
+  motif_id: young_pair_keep_watch_and_reveal_the_hidden_culprit
+  label: Young pair keep watch and reveal the hidden culprit
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Revealing a hidden culprit supports exposure of wrongdoing and restoration
+    of moral order.
+  cautions: May be ordinary detection or plot detail with no sacred judgment; if the
+    youth pair are siblings or culture heroes, sacred_twins or hero_journey may be
+    secondary.
+  suggested_aliases:
+  - watchers_reveal_hidden_culprit
+  - young_watchers_expose_wrongdoer
+  - hidden_culprit_revealed_by_young_pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.young-prey-delays-predator-until-able-to-kill-him
+  motif_id: young_prey_delays_predator_until_able_to_kill_him
+  label: Young prey delays predator until able to kill him
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: A weaker prey figure survives by delay and reversal against a predator,
+    matching animal trickster/fable reversal patterns.
+  cautions: If the passage emphasizes combat victory rather than deception or delay,
+    sacred_combat could be a secondary mapping.
+  suggested_aliases:
+  - prey_delays_predator_until_reversal
+  - young_prey_outwits_predator
+  - weaker_victim_delays_and_kills_predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.young-sister-as-sole-caregiver-for-disabled-brothers
+  motif_id: young_sister_as_sole_caregiver_for_disabled_brothers
+  label: Young sister as sole caregiver for disabled brothers
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on kin care and vulnerable-dependant support, which
+    fits reciprocity and social obligation.
+  cautions: May be too specific as a kinship episode; if caregiving is framed as moral
+    law, sacred_law may fit, while sibling_pair may fit if sibling dynamics drive
+    the plot.
+  suggested_aliases:
+  - sibling_caregiver_for_disabled_kin
+  - young_sister_cares_for_disabled_brothers
+  - kin_care_for_disabled_siblings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.young-specialist-succeeds-after-renowned-physicians-fail
+  motif_id: young_specialist_succeeds_after_renowned_physicians_fail
+  label: young specialist succeeds after renowned physicians fail
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: role_variant
+  confidence: medium
+  rationale: Unexpected successful expertise after established experts fail highlights
+    superior or hidden knowledge.
+  cautions: Could be a generic tale-type or status-reversal episode; map to divine_intervention
+    only if healing is explicitly miraculous or sacredly authorized.
+  suggested_aliases:
+  - humble_specialist_succeeds_after_experts_fail
+  - young_healer_succeeds_after_physicians_fail
+  - unexpected_expert_surpasses_renowned_specialists
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youngest-among-twelve
+  motif_id: youngest_among_twelve
+  label: youngest among twelve
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a role/count descriptor rather than a clear symbolic or narrative
+    motif by itself.
+  cautions: If the youngest figure succeeds after elder figures fail, remap to hero_journey
+    or sibling_pair with the fuller narrative evidence.
+  suggested_aliases:
+  - youngest_of_twelve
+  - twelfth_youngest_sibling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youngest-brother-prepares-after-elder-brothers-fail
+  motif_id: youngest_brother_prepares_after_elder_brothers_fail
+  label: youngest brother prepares after elder brothers fail
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: The youngest sibling taking up a task after elder failures is a preparation/call
+    pattern in heroic quest structure.
+  cautions: Sibling_pair may be a secondary mapping if rivalry or complementarity
+    among brothers is central; otherwise preserve the youngest-brother detail as granular
+    evidence.
+  suggested_aliases:
+  - youngest_brother_succeeds_after_elder_failures
+  - junior_sibling_takes_up_failed_task
+  - youngest_sibling_prepares_after_elders_fail
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and should remain provisional until passage
+  evidence confirms narrative function.
+- Yima-related labels show an apparent mismatch between Avestan content and Celtic
+  Irish tradition metadata; human review should check source provenance before mapping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4103
+  input_sha256: 6229dd20236ae7c2d5c9d9a9bd5665b6759a0389038284e14d5badd03516e272
+

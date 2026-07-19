@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2811
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.series-of-wagered-contests-for-people
+  motif_id: series_of_wagered_contests_for_people
+  label: series of wagered contests for people
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ordeal or contest structure, but the wagered object
+    'people' may imply captivity, gambling, exchange, or warfare depending on source
+    context.
+  cautions: Single occurrence and culturally specific; do not collapse into sacred_combat
+    without evidence that the contests function as ritual warfare or heroic ordeal.
+  suggested_aliases:
+  - wagered_contests_for_people
+  - contests_with_people_as_stakes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.servant-awakens-and-warns-a-warrior-of-the-arriving-opponent
+  motif_id: servant_awakens_and_warns_a_warrior_of_the_arriving_opponent
+  label: Servant awakens and warns a warrior of the arriving opponent
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a pre-combat warning scene within a warrior encounter, fitting
+    the sacred_combat field as granular battle-sequence evidence.
+  cautions: Likely episode-specific; if the servant's role is the focus rather than
+    combat preparation, preserve only as evidence detail.
+  suggested_aliases:
+  - pre_combat_warning_by_servant
+  - warrior_warned_of_arriving_opponent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.servant-helper-defeats-exposure-tests
+  motif_id: servant_helper_defeats_exposure_tests
+  label: Servant helper defeats exposure tests
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A helper overcoming tests may belong to initiation, hero journey, or
+    trickster strategy, but 'exposure tests' is unclear without passage evidence.
+  cautions: Could mean tests that expose identity, endurance trials, or attempts to
+    reveal deception; review source before mapping.
+  suggested_aliases:
+  - helper_overcomes_exposure_tests
+  - servant_helper_passes_tests
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.service-measured-and-rewarded-by-rank-objects
+  motif_id: service_measured_and_rewarded_by_rank_objects
+  label: service measured and rewarded by rank objects
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rank objects used to measure and reward service fit social hierarchy,
+    office, and legitimate order more than combat itself.
+  cautions: If the passage is ethical instruction rather than political legitimation,
+    sacred_law may be a better secondary placement.
+  suggested_aliases:
+  - rank_objects_reward_service
+  - service_rewarded_by_status_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.service-rewarded-with-possessions
+  motif_id: service_rewarded_with_possessions
+  label: service rewarded with possessions
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Reward for service could indicate reciprocity, social order, compensation,
+    or ordinary plot resolution, and the label lacks sacred or mythic function.
+  cautions: Single occurrence; may be too generic for motif queries unless source
+    shows ritual exchange, hierarchy, or moral testing.
+  suggested_aliases:
+  - service_rewarded_by_goods
+  - possessions_as_reward_for_service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-after-struggle-with-enemies
+  motif_id: settlement_after_struggle_with_enemies
+  label: Settlement after struggle with enemies
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label sounds like an etiological or foundation pattern where conflict
+    precedes settlement and social-landscape formation.
+  cautions: If it is only a historical or episode-specific migration detail, exclude
+    or review; if combat is central, sacred_combat may be a secondary group.
+  suggested_aliases:
+  - settlement_founded_after_enemy_struggle
+  - post_conflict_settlement_foundation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-day-motionless-bliss-after-triumph
+  motif_id: seven_day_motionless_bliss_after_triumph
+  label: Seven-day motionless bliss after triumph
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Motionless bliss after triumph in a Buddhist context likely reflects
+    contemplative attainment or post-awakening absorption rather than martial victory.
+  cautions: Number and duration may be episode-specific; if the passage frames this
+    as sacred time or ritual commemoration, sacred_time may be relevant.
+  suggested_aliases:
+  - seven_days_of_motionless_bliss
+  - post_triumph_meditative_absorption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sevenfold-contests-with-created-domains
+  motif_id: sevenfold_contests_with_created_domains
+  label: Sevenfold contests with created domains
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines contest, sevenfold structure, and created domains,
+    which could indicate cosmic creation, dualistic struggle, or ritualized combat.
+  cautions: Needs source evidence; avoid mapping to sacred_combat if the contest is
+    cosmological ordering rather than warfare.
+  suggested_aliases:
+  - sevenfold_cosmic_contests
+  - contests_over_created_domains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severe-illness-in-fragmentary-heroic-narrative
+  motif_id: severe_illness_in_fragmentary_heroic_narrative
+  label: severe illness in fragmentary heroic narrative
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'fragmentary heroic narrative' describes textual condition
+    and context more than a stable symbolic motif.
+  cautions: If the source passage shows illness as divine judgment, ordeal, or soul
+    loss, create a separate evidence-based label for that motif.
+  suggested_aliases:
+  - illness_in_fragmentary_heroic_text
+  - fragmentary_heroic_illness_episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severed-body-part-restored-after-combat
+  motif_id: severed_body_part_restored_after_combat
+  label: severed body part restored after combat
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: Restoration of a severed body part after combat is bodily renewal following
+    violent damage, fitting death-and-transformation patterns.
+  cautions: If the combat context or heroic honor is primary, sacred_combat may be
+    a secondary mapping; avoid treating as resurrection unless death and return are
+    explicit.
+  suggested_aliases:
+  - restoration_of_severed_body_part
+  - post_combat_limb_restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and over-specific; preserve local
+  details as evidence notes unless recurrence is demonstrated.
+- Conflict bucket placement appears noisy for Buddhist contemplative and Confucian
+  rank-reward labels; source context should override bucket assignment.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2811
+  input_sha256: 55aaf88aa36570916e1d80f5bc94cfa1924039da6bdd2b8a850aafbdc21992a1
+

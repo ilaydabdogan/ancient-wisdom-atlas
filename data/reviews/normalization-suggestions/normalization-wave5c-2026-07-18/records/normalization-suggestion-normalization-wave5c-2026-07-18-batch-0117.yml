@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0117
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-house-abandoned-or-ritually-altered-to-prevent-returning-spirits
+  motif_id: death_house_abandoned_or_ritually_altered_to_prevent_returning_spirits
+  label: Death house abandoned or ritually altered to prevent returning spirits
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: House alteration or abandonment to prevent returning spirits fits mortuary
+    taboo, apotropaic protection, and ritual regulation already folded under sacred_law.
+  cautions: Also relates to restless_dead_haunting_vengeance; if the passage emphasizes
+    active dead agency rather than household rite, use that as secondary review context.
+  suggested_aliases:
+  - mortuary_house_avoidance_to_prevent_spirit_return
+  - death_house_ritual_alteration_against_returning_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-house-abandonment-and-inheritance-of-the-site
+  motif_id: death_house_abandonment_and_inheritance_of_the_site
+  label: death-house abandonment and inheritance of the site
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes mortuary abandonment with land/site inheritance, and
+    the dominant motif cannot be determined from wording alone.
+  cautions: Could be mortuary taboo under sacred_law, ancestor/property succession
+    under covenant or sacred_law, or an over-specific ethnographic note; source evidence
+    needed.
+  suggested_aliases:
+  - death_house_site_inheritance_after_abandonment
+  - mortuary_house_abandonment_and_site_succession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-house-abandonment-or-destruction
+  motif_id: death_house_abandonment_or_destruction
+  label: Death house abandonment or destruction
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Abandoning or destroying a death house is a mortuary purity or avoidance
+    practice, aligning with sacred_law's taboo and apotropaic household regulation.
+  cautions: If destruction is meant to contain a returning dead person, restless_dead_haunting_vengeance
+    may be a related mapping; if only a local custom note, avoid over-promoting it.
+  suggested_aliases:
+  - mortuary_house_abandonment_or_destruction
+  - death_house_avoidance_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-impurity-affecting-the-household
+  motif_id: death_impurity_affecting_the_household
+  label: death impurity affecting the household
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Death impurity affecting household life is a clear purity-law and ritual-contagion
+    pattern covered by sacred_law.
+  cautions: Preserve Zoroastrian specificity in evidence notes; do not collapse into
+    afterlife passage unless the soul's journey is central.
+  suggested_aliases:
+  - household_death_impurity
+  - mortuary_impurity_affecting_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-impurity-and-funeral-feasting
+  motif_id: death_impurity_and_funeral_feasting
+  label: death impurity and funeral feasting
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines impurity regulation with funeral feeding, which may
+    have different ritual functions in context.
+  cautions: Could map to sacred_law for impurity, ancestor_rites for feeding the dead,
+    sacred_exchange for funerary reciprocity, or heroic_funeral_rites if memorialization
+    is central.
+  suggested_aliases:
+  - mortuary_impurity_and_funeral_feast
+  - funeral_feasting_under_death_impurity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-impurity-located-in-the-womb
+  motif_id: death_impurity_located_in_the_womb
+  label: Death impurity located in the womb
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is culturally sensitive and anatomically specific; taxonomy
+    placement depends on doctrinal or ritual evidence not supplied.
+  cautions: May be a purity-law rule under sacred_law, a birth/body taboo, or an over-specific
+    interpretive artifact; requires careful human review of source context.
+  suggested_aliases:
+  - womb_as_site_of_death_impurity
+  - reproductive_death_impurity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-impurity-or-mourning-food-restriction
+  motif_id: death_impurity_or_mourning_food_restriction
+  label: death impurity or mourning food restriction
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Food restriction tied to death impurity or mourning fits ritual prohibition
+    and purity regulation under sacred_law.
+  cautions: If the restriction is primarily an act of mourning rather than impurity
+    avoidance, lament_and_mourning may be relevant as secondary context.
+  suggested_aliases:
+  - mourning_food_restriction
+  - death_impurity_food_taboo
+  - mortuary_food_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-impurity-requiring-avoidance-and-purification
+  motif_id: death_impurity_requiring_avoidance_and_purification
+  label: death impurity requiring avoidance and purification
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Avoidance and purification after death impurity is directly a ritual
+    purity-law pattern in sacred_law.
+  cautions: If purification is sacrificial or calendrical, sacrifice or sacred_time
+    may be secondary; keep local mortuary practice detail in notes.
+  suggested_aliases:
+  - mortuary_impurity_requiring_purification
+  - death_pollution_avoidance_and_cleansing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-in-battle-as-salvation
+  motif_id: death_in_battle_as_salvation
+  label: Death in battle as salvation
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif sacralizes battle death as spiritually salvific, fitting divine_warrior's
+    death-in-battle and sacred combat complex.
+  cautions: Could also relate to sacrifice or death_by_fate depending on the passage;
+    avoid generalizing Sikh martyrdom or salvation theology without evidence.
+  suggested_aliases:
+  - salvific_death_in_battle
+  - battle_death_as_spiritual_liberation
+  - martial_death_as_salvation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-in-due-time-versus-untimely-interruption
+  motif_id: death_in_due_time_versus_untimely_interruption
+  label: Death in due time versus untimely interruption
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and may refer to karma, lifespan, fate, ritual
+    interruption, or doctrinal commentary rather than a narrative motif.
+  cautions: Possible mappings include death_by_fate, sacred_law, divine_judgment,
+    or mystical_quest; review passage evidence before indexing.
+  suggested_aliases:
+  - timely_death_versus_untimely_death
+  - proper_time_of_death_and_interruption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items concern mortuary impurity, household taboo, and apotropaic handling
+  of death; sacred_law is the best existing broad group for these when the ritual
+  rule is clear.
+- Items combining multiple functions, culturally sensitive body concepts, or site
+  inheritance should remain for human review rather than being forced into a single
+  group.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed for low-confidence
+    mortuary and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0117
+  input_sha256: 0aa5d23f45bb094955161b0693292acb3c7d2a3c1bb0f018f37f9dc01a9c6988
+

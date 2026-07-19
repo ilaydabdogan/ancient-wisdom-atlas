@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0670
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-powers-transform-ritual-water
+  motif_id: animal_powers_transform_ritual_water
+  label: Animal powers transform ritual water
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The key element is ritually transformed water, fitting sacred water as
+    purifier or medium of transformation.
+  cautions: Animal agency may be locally specific; if the passage centers on animal
+    spirit intervention rather than water, divine_intervention may be secondary.
+  suggested_aliases:
+  - ritual_water_transformed_by_animal_powers
+  - animal_power_in_ritual_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-priest-praised-after-saving-community-from-rain
+  motif_id: animal_priest_praised_after_saving_community_from_rain
+  label: animal priest praised after saving community from rain
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Saving a community from weather harm may fit protective supernatural
+    intervention, but the animal-priest role is unclear from the label alone.
+  cautions: Could be a culturally specific ritual-office label, animal-person narrative,
+    weather-control rite, or over-specific episode; review source evidence before
+    mapping.
+  suggested_aliases:
+  - animal_priest_saves_community_from_rain
+  - animal_ritual_specialist_controls_rain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-procession-or-animal-disguise-as-ritual-representation
+  motif_id: animal_procession_or_animal_disguise_as_ritual_representation
+  label: Animal procession or animal disguise as ritual representation
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes ritual representation through animal procession or
+    disguise, but no existing group cleanly covers ritual masking or embodiment.
+  cautions: Comparative wording and single occurrence may indicate a scholarly category
+    rather than a passage motif; could relate to shapeshifter if transformation is
+    narrative, not merely ritual costume.
+  suggested_aliases:
+  - animal_disguise_in_ritual_representation
+  - animal_procession_in_ritual_display
+  - ritual_animal_masking
+  suggested_new_group:
+    id: ritual_masking_animal_representation
+    label: Ritual Masking and Animal Representation
+    description: Ritual use of animal masks, disguises, processions, regalia, or embodied
+      performance to represent animal powers, spirits, clans, or sacred roles.
+    parent_group_ids:
+    - sacred_law
+    - shapeshifter
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover shapeshifting, sacred
+      law, and divine intervention, but not recurrent ritual representation by animal
+      costume, procession, or emblem as its own performative motif.
+- suggestion_id: normalization.suggestion.animal-protection-taboo-enforced-by-a-mouse-chief
+  motif_id: animal_protection_taboo_enforced_by_a_mouse_chief
+  label: Animal-protection taboo enforced by a Mouse chief
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo protecting animals and enforced by an authority figure fits sacred
+    prohibition and social-ritual order.
+  cautions: The Mouse chief may be a specific animal-person authority; preserve the
+    animal-enforcer detail and review whether this is fable law, clan taboo, or local
+    ritual rule.
+  suggested_aliases:
+  - animal_protection_taboo
+  - animal_taboo_enforced_by_animal_chief
+  - mouse_chief_enforces_animal_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-race-course-at-a-sacred-gathering-place
+  motif_id: animal_race_course_at_a_sacred_gathering_place
+  label: Animal race course at a sacred gathering place
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a specific place feature or episode setting rather
+    than a reusable symbolic or narrative motif.
+  cautions: If the race course is part of a recurrent sacred competition, pilgrimage,
+    or animal ritual cycle, human review could map it to sacred_time, sacred_law,
+    or a future ritual-performance group.
+  suggested_aliases:
+  - sacred_animal_race_course
+  - animal_racing_at_sacred_gathering_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-recognition-of-a-holy-or-destined-figure
+  motif_id: animal_recognition_of_a_holy_or_destined_figure
+  label: Animal recognition of a holy or destined figure
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animals recognizing a holy or destined figure functions as a sign confirming
+    sacred destiny, often associated with miraculous infancy or chosen status.
+  cautions: If the figure is not a child or birth-marked hero, dream_and_vision or
+    divine_intervention may be better secondary mappings for omen-like recognition.
+  suggested_aliases:
+  - animals_recognize_destined_figure
+  - animal_omen_confirms_holy_figure
+  - animal_recognition_of_sacred_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-refusal-reveals-a-sacred-demand
+  motif_id: animal_refusal_reveals_a_sacred_demand
+  label: animal refusal reveals a sacred demand
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: An animal's refusal may act as a sign disclosing a sacred requirement,
+    which can fit divine guidance.
+  cautions: The label is abstract and depends on passage context; could be animal-helper
+    narrative, omen, ritual prohibition, or moral exemplum rather than intervention.
+  suggested_aliases:
+  - animal_refusal_as_sacred_sign
+  - animal_behavior_reveals_sacred_demand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-regalia-and-animal-emblems-in-ritual-display
+  motif_id: animal_regalia_and_animal_emblems_in_ritual_display
+  label: animal regalia and animal emblems in ritual display
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animal regalia and emblems in ritual display point to ritual representation,
+    but existing groups do not cleanly capture performative animal symbolism.
+  cautions: May be an ethnographic description rather than a motif; review cultural
+    specificity and avoid flattening regalia, clan emblems, and spirit embodiment
+    into shapeshifting.
+  suggested_aliases:
+  - animal_emblems_in_ritual_display
+  - animal_regalia_in_ritual_display
+  - ritual_display_of_animal_emblems
+  suggested_new_group:
+    id: ritual_masking_animal_representation
+    label: Ritual Masking and Animal Representation
+    description: Ritual use of animal masks, disguises, processions, regalia, or embodied
+      performance to represent animal powers, spirits, clans, or sacred roles.
+    parent_group_ids:
+    - sacred_law
+    - shapeshifter
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover shapeshifting, sacred
+      law, and divine intervention, but not recurrent ritual representation by animal
+      costume, procession, or emblem as its own performative motif.
+- suggestion_id: normalization.suggestion.animal-remains-ritually-maintained-to-influence-game-herds
+  motif_id: animal_remains_ritually_maintained_to_influence_game_herds
+  label: Animal remains ritually maintained to influence game herds
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual care of animal remains to affect future game abundance fits reciprocal
+    maintenance between humans, animals, and sacred powers.
+  cautions: Could also belong under ancestor_rites if animal dead are ritually fed
+    or honored like persons, or sacred_law if framed as a hunting taboo.
+  suggested_aliases:
+  - ritual_maintenance_of_animal_remains_for_game
+  - animal_remains_maintained_to_ensure_herds
+  - hunting_reciprocity_with_animal_remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-representation-in-ritual-dance
+  motif_id: animal_representation_in_ritual_dance
+  label: animal representation in ritual dance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Ritual dance representing animals is a performative ritual motif not
+    well covered by current canonical groups.
+  cautions: Do not map to shapeshifter unless the passage treats the dancers as transformed
+    or spirit-embodied; may be too broad without evidence of ritual function.
+  suggested_aliases:
+  - animal_dance_representation
+  - ritual_dance_representing_animals
+  - animal_powers_represented_in_dance
+  suggested_new_group:
+    id: ritual_masking_animal_representation
+    label: Ritual Masking and Animal Representation
+    description: Ritual use of animal masks, disguises, processions, regalia, or embodied
+      performance to represent animal powers, spirits, clans, or sacred roles.
+    parent_group_ids:
+    - sacred_law
+    - shapeshifter
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover shapeshifting, sacred
+      law, and divine intervention, but not recurrent ritual representation by animal
+      costume, procession, or emblem as its own performative motif.
+batch_notes:
+- Several labels in this batch involve animal ritual performance or representation.
+  A provisional new group candidate is repeated where existing groups would obscure
+  ritual masking, regalia, dance, and procession as performative representation rather
+  than literal shapeshifting.
+- Single-occurrence and culturally specific Native American ritual labels should receive
+  human review against source passages before broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional machine suggestions only; human taxonomy review recommended for
+    ritual animal-representation labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0670
+  input_sha256: b5c492e6e4a25740665ca5368f15b68ac5e15ea1e89b7152faede45eefafe649
+

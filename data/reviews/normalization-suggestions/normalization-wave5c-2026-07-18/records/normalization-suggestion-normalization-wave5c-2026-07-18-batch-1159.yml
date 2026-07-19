@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1159
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-trees-marking-cosmic-directions
+  motif_id: sacred_trees_marking_cosmic_directions
+  label: sacred trees marking cosmic directions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Sacred trees that organize cosmic directions function as world-center
+    or cosmic-orientation imagery.
+  cautions: Single occurrence; if the passage emphasizes a specific ritual geography
+    rather than vertical axis symbolism, sacred_geography_pilgrimage may be the more
+    precise child detail.
+  suggested_aliases:
+  - directional_sacred_trees
+  - cosmic_direction_trees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-triad-of-holy-places
+  motif_id: sacred_triad_of_holy_places
+  label: Sacred triad of holy places
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: narrower_than
+  confidence: low
+  rationale: A triad of holy places likely belongs with sacred geography and world-center
+    organization.
+  cautions: The triadic structure may be passage-specific or numerological; source
+    evidence is needed to distinguish sacred geography from pilgrimage, temple symbolism,
+    or textual listing.
+  suggested_aliases:
+  - three_holy_places
+  - triad_of_sacred_places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-true-name
+  motif_id: sacred_true_name
+  label: Sacred true name
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A true sacred name is hidden or transformative knowledge and aligns with
+    divinely taught names and name-power motifs.
+  cautions: If the uttered name functions performatively as blessing, curse, or binding
+    command, curse_blessing_speech may be a secondary mapping.
+  suggested_aliases:
+  - divine_true_name
+  - holy_name_as_sacred_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-unclean-taboo-animal
+  motif_id: sacred_unclean_taboo_animal
+  label: sacred-unclean taboo animal
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A tabooed animal marked as sacred or unclean fits ritual prohibition,
+    purity law, and animal taboo under sacred law.
+  cautions: Comparative label may be broad or ethnographic; preserve whether the source
+    concerns diet, sacrifice, impurity, totemism, or mythic etiology.
+  suggested_aliases:
+  - taboo_unclean_animal
+  - sacred_animal_taboo
+  - ritually_unclean_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-utterance-as-victorious-weapon
+  motif_id: sacred_utterance_as_victorious_weapon
+  label: sacred utterance as victorious weapon
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on a sacred speech act that acts with weapon-like force
+    and determines victory.
+  cautions: May also relate to sacred_combat or divine_warrior when embedded in battle;
+    avoid reducing it to combat if the power lies in the utterance itself.
+  suggested_aliases:
+  - sacred_word_as_weapon
+  - holy_utterance_as_weapon
+  - performative_speech_as_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-utterance-confounds-the-evil-adversary
+  motif_id: sacred_utterance_confounds_the_evil_adversary
+  label: sacred utterance confounds the evil adversary
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A sacred utterance confounding an adversary is a performative speech
+    act with binding or defeating power.
+  cautions: Could be indexed secondarily with divine_judgment or sacred_combat if
+    the adversary’s defeat is framed as moral reckoning or cosmic battle.
+  suggested_aliases:
+  - holy_speech_confounds_adversary
+  - sacred_word_defeats_evil_adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-utterance-or-sacred-name-as-weapon
+  motif_id: sacred_utterance_or_sacred_name_as_weapon
+  label: Sacred utterance or sacred name as weapon
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly describes sacred speech or a name functioning as
+    an effective weapon.
+  cautions: True-name knowledge may also belong under sacred_knowledge, but the weapon
+    function points first to performative sacred speech.
+  suggested_aliases:
+  - sacred_name_as_weapon
+  - sacred_utterance_as_weapon
+  - holy_name_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-utterance-restrains-the-adversary
+  motif_id: sacred_utterance_restrains_the_adversary
+  label: Sacred utterance restrains the adversary
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: Restraining an adversary by utterance is a binding sacred speech act.
+  cautions: If the restraint is mainly ritual exorcism or demon-expulsion, sacrifice/ritual_expulsion
+    may be a secondary placement.
+  suggested_aliases:
+  - binding_sacred_utterance
+  - holy_speech_restrains_adversary
+  - sacred_word_binds_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-veneration-of-fire
+  motif_id: sacred_veneration_of_fire
+  label: sacred veneration of fire
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: Veneration of fire belongs directly with fire as divine presence, ritual
+    medium, or sacred power.
+  cautions: If the passage is polemical or denies fire worship, treat as contextual
+    evidence rather than a positive motif instance.
+  suggested_aliases:
+  - fire_veneration
+  - holy_fire_veneration
+  - ritual_veneration_of_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-vision-through-an-image-followed-by-devotional-celebration
+  motif_id: sacred_vision_through_an_image_followed_by_devotional_celebration
+  label: Sacred vision through an image followed by devotional celebration
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred vision mediated through an image is a manifestation of sacred
+    presence to witnesses, followed by devotional response.
+  cautions: The label is composite and single-occurrence; if the image’s crafted or
+    animated status is central, sacred_craft or sacred_treasures may be secondary
+    mappings.
+  suggested_aliases:
+  - image_mediated_sacred_vision
+  - devotional_vision_through_image
+  - vision_through_holy_image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Zoroastrian sacred-utterance labels appear to be close variants and could
+  be reviewed together for alias consolidation under curse_blessing_speech, with secondary
+  links to sacred_combat or divine_warrior only when combat context is explicit.
+- Single-occurrence sacred geography labels should preserve local place structure
+  and not be promoted without recurrence across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review should verify source context for
+    single-occurrence and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1159
+  input_sha256: 197bb314d037bb7af87fe5ea936fd4fe75c9c2915542445ab0e77d5bb6bbb973
+

@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1474
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.undertaking-enabled-by-counsel-and-patronage
+  motif_id: undertaking_enabled_by_counsel_and_patronage
+  label: undertaking enabled by counsel and patronage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve advice, patronage, political support, or plot enablement
+    rather than a stable wisdom motif.
+  cautions: Single occurrence and abstract wording; verify whether counsel is sacred
+    wisdom, royal patronage, or merely narrative setup.
+  suggested_aliases:
+  - counsel_and_patronage_enable_an_undertaking
+  - enterprise_enabled_by_advice_and_support
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.underwater-skull-as-sign-associated-with-longevity-speech
+  motif_id: underwater_skull_as_sign_associated_with_longevity_speech
+  label: Underwater skull as sign associated with longevity speech
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines death remains, water, sign-reading, and speech about longevity;
+    function cannot be determined from label alone.
+  cautions: Culturally specific and single occurrence; review source evidence before
+    mapping to sacred_waters, death_and_transformation, prophecy_divination, or sacred_knowledge.
+  suggested_aliases:
+  - underwater_skull_sign
+  - skull_under_water_as_longevity_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unequal-division-of-hunted-spoils
+  motif_id: unequal_division_of_hunted_spoils
+  label: Unequal division of hunted spoils
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Division of spoils concerns distributive reciprocity and social obligation
+    after acquisition.
+  cautions: If the emphasis is coercion, honor conflict, or raid aftermath, sacred_combat
+    or divine_judgment may be secondary; source context needed.
+  suggested_aliases:
+  - unequal_division_of_spoils
+  - unfair_distribution_of_hunted_spoils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unequal-division-under-threat-from-a-stronger-party
+  motif_id: unequal_division_under_threat_from_a_stronger_party
+  label: unequal division under threat from a stronger party
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on coercive or unfair distribution within an exchange
+    relationship.
+  cautions: May be an Aesopic or fable-type power lesson rather than sacred reciprocity;
+    consider divine_judgment if moral reckoning is explicit.
+  suggested_aliases:
+  - coercive_unequal_division
+  - stronger_party_takes_unequal_share
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unexplained-escape-by-song-and-sudden-displacement
+  motif_id: unexplained_escape_by_song_and_sudden_displacement
+  label: Unexplained escape by song and sudden displacement
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Song functions as the apparent supernatural mechanism enabling escape
+    or relocation.
+  cautions: Because the displacement is unexplained, human review should confirm whether
+    song is causal rather than incidental; may overlap with divine_intervention or
+    shapeshifter.
+  suggested_aliases:
+  - escape_by_song
+  - song_enabled_escape_and_displacement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unfavorable-reception-and-suffering-of-a-named-religious-figure
+  motif_id: unfavorable_reception_and_suffering_of_a_named_religious_figure
+  label: Unfavorable reception and suffering of a named religious figure
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a contextual biographical or named-person episode
+    rather than a reusable motif.
+  cautions: If source evidence shows a recurring rejected-prophet or persecuted holy
+    messenger pattern, remap to divine_intervention or divine_judgment; otherwise
+    preserve as passage detail only.
+  suggested_aliases:
+  - rejected_named_religious_figure
+  - suffering_of_named_religious_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unfulfilled-dream-song-transformed-into-visible-sign
+  motif_id: unfulfilled_dream_song_transformed_into_visible_sign
+  label: unfulfilled dream song transformed into visible sign
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dream-song becoming a visible sign fits dream or visionary content
+    manifesting as revelatory evidence.
+  cautions: Also related to enchanting_music and sacred_knowledge; review cultural
+    context of dream songs before flattening into generic dream symbolism.
+  suggested_aliases:
+  - dream_song_becomes_visible_sign
+  - unfulfilled_dream_song_manifested_as_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unfulfilled-vengeance-obligation-invoked-in-public-speech
+  motif_id: unfulfilled_vengeance_obligation_invoked_in_public_speech
+  label: unfulfilled vengeance obligation invoked in public speech
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Public speech invokes and binds an unmet obligation, functioning as performative
+    social pressure.
+  cautions: If the passage emphasizes feud or combat obligation more than binding
+    speech, sacred_combat or covenant may be secondary mappings.
+  suggested_aliases:
+  - public_invocation_of_unfulfilled_vengeance
+  - speech_invokes_vengeance_obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unfulfilled-war-dream-and-unsung-song
+  motif_id: unfulfilled_war_dream_and_unsung_song
+  label: Unfulfilled war dream and unsung song
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase combines war dream and song nonperformance without enough
+    evidence for narrative function.
+  cautions: May belong to dream_and_vision, enchanting_music, sacred_combat, or culturally
+    specific dream-song practice; avoid generic mapping without source review.
+  suggested_aliases:
+  - unfulfilled_war_dream_unsung_song
+  - war_dream_left_unfulfilled_and_unsung
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unfulfilled-war-dream-becomes-an-unsung-song-and-healing-power
+  motif_id: unfulfilled_war_dream_becomes_an_unsung_song_and_healing_power
+  label: unfulfilled war dream becomes an unsung song and healing power
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A war dream transforms into song and healing power, making dream revelation
+    the source of sacred efficacy.
+  cautions: Strong overlap with enchanting_music and divine_intervention; review culturally
+    specific dream-song healing context before final placement.
+  suggested_aliases:
+  - war_dream_becomes_healing_song_power
+  - unfulfilled_war_dream_transformed_into_healing_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Native American Great Lakes labels refer to dream-song practices; human
+  review should preserve cultural specificity and avoid collapsing song, dream, war,
+  and healing functions unless source evidence supports the chosen parent.
+- Single-occurrence abstract labels should generally remain provisional unless recurrence
+  across sources is demonstrated.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1474
+  input_sha256: 0a53df63141a5e1d163fe06c10e34a66f33fc4de1f242ff6f29d08be42c6e112
+

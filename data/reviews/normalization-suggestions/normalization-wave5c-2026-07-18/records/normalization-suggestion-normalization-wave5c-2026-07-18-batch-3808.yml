@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3808
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prohibition-of-intoxicating-drink-with-hidden-fermentation-apparatus
+  motif_id: prohibition_of_intoxicating_drink_with_hidden_fermentation_apparatus
+  label: prohibition of intoxicating drink with hidden fermentation apparatus
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prohibition on intoxicating drink fits sacred law, taboo, or ritual
+    regulation; hidden apparatus is likely local evidence detail.
+  cautions: Single occurrence and culturally specific; preserve fermentation-apparatus
+    detail and verify whether this is ritual law, moral teaching, or ethnographic
+    commentary.
+  suggested_aliases:
+  - intoxicating_drink_prohibition
+  - fermented_drink_taboo
+  - prohibition_of_hidden_fermentation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibition-on-alienating-communal-land
+  motif_id: prohibition_on_alienating_communal_land
+  label: Prohibition on alienating communal land
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rule restricting alienation of communal land is a social-order prohibition
+    and fits sacred law when framed as normative or traditional obligation.
+  cautions: May be legal-historical or ethnographic rather than mythic; review source
+    evidence before using in symbolic pattern queries.
+  suggested_aliases:
+  - communal_land_alienation_taboo
+  - sacred_rule_against_selling_communal_land
+  - prohibition_on_transferring_communal_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibition-on-eating-jackal-s-heart
+  motif_id: prohibition_on_eating_jackal_s_heart
+  label: prohibition on eating jackal's heart
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A food taboo concerning an animal organ fits sacred law and ritual prohibition
+    patterns.
+  cautions: Highly specific and culturally sensitive; verify whether the jackal heart
+    has mythic, medicinal, initiation, or spirit-contact significance before final
+    placement.
+  suggested_aliases:
+  - animal_organ_food_taboo
+  - jackal_heart_food_taboo
+  - prohibited_eating_of_animal_heart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibition-on-slaughter-without-permission
+  motif_id: prohibition_on_slaughter_without_permission
+  label: Prohibition on slaughter without permission
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A restriction on slaughtering animals without permission is a normative
+    prohibition governing proper social or ritual conduct.
+  cautions: Could involve animal taboo, communal property, hunting protocol, or sacrificial
+    permission; source context needed for more precise mapping.
+  suggested_aliases:
+  - slaughter_permission_taboo
+  - prohibited_unauthorized_slaughter
+  - ritual_permission_required_for_slaughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibition-paired-with-limited-allowance
+  motif_id: prohibition_paired_with_limited_allowance
+  label: Prohibition paired with limited allowance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A rule with a bounded exception fits sacred law and disciplined ethical
+    regulation.
+  cautions: Generic legal abstraction rather than a narrative motif; preserve as rule-structure
+    evidence only if recurring or tied to ritual/monastic discipline.
+  suggested_aliases:
+  - limited_exception_to_prohibition
+  - qualified_ritual_prohibition
+  - bounded_allowance_within_sacred_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibition-with-compassionate-sick-exception
+  motif_id: prohibition_with_compassionate_sick_exception
+  label: Prohibition with compassionate sick exception
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: A sacred or monastic prohibition modified by compassion for the sick
+    belongs with ethical sacred law and social care.
+  cautions: May be a Vinaya/legal detail rather than broad mythic motif; if indexed,
+    retain the compassion and illness exception rather than reducing to prohibition
+    only.
+  suggested_aliases:
+  - compassionate_exception_to_prohibition
+  - sick_exception_to_sacred_rule
+  - medical_compassion_exception_in_sacred_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibition-with-practical-medical-exception
+  motif_id: prohibition_with_practical_medical_exception
+  label: Prohibition with practical medical exception
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: A religious prohibition allowing medical exception fits sacred law, especially
+    rule interpretation in relation to bodily care.
+  cautions: Likely a disciplinary/legal motif rather than narrative pattern; check
+    whether it duplicates the compassionate sick exception label.
+  suggested_aliases:
+  - medical_exception_to_prohibition
+  - practical_medical_allowance_in_sacred_law
+  - health_exception_to_ritual_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.projected-autonomous-sending-from-the-body
+  motif_id: projected_autonomous_sending_from_the_body
+  label: Projected autonomous sending from the body
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to a separable soul, magical double, harmful sending,
+    or spirit projection, but the function is unclear.
+  cautions: Culturally specific and ambiguous; do not map to external_soul or soul_loss_restoration
+    without evidence that a life-force or soul separates from the body.
+  suggested_aliases:
+  - projected_body_double
+  - autonomous_sending_from_body
+  - separable_spirit_projection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.projectile-made-fiery-by-supernatural-or-extraordinary-speed
+  motif_id: projectile_made_fiery_by_supernatural_or_extraordinary_speed
+  label: projectile made fiery by supernatural or extraordinary speed
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A supernatural fiery projectile is a combat detail involving extraordinary
+    martial force rather than general sacred fire.
+  cautions: If the fire is divine presence or cosmic purification, sacred_fire may
+    be secondary; otherwise keep as granular evidence under combat or power-object
+    context.
+  suggested_aliases:
+  - fiery_supernatural_projectile
+  - extraordinarily_fast_fiery_projectile
+  - fire_projectile_in_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.projectile-messenger-awakens-sleeping-ally
+  motif_id: projectile_messenger_awakens_sleeping_ally
+  label: projectile messenger awakens sleeping ally
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines message delivery, projectile object, awakening, and
+    ally rescue without a clear existing group function.
+  cautions: May be an episode-specific plot device or magical object motif; review
+    whether the focus is sacred treasure, divine intervention, combat signal, or ordinary
+    narrative mechanics.
+  suggested_aliases:
+  - projectile_as_message_to_sleeping_ally
+  - missile_messenger_awakening_helper
+  - awakening_ally_by_projectile_message
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are legal or ritual-prohibition abstractions; sacred_law
+  is the best existing broad group, but source context should decide whether they
+  are query-worthy motifs or passage/legal artifacts.
+- Avoid treating object-specific details, such as hidden fermentation apparatus or
+  jackal heart, as canonical motifs unless they recur across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    prohibitions and ambiguous spirit-projection/projectile labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3808
+  input_sha256: 1d4083a5b700228b1a5ee613d558050dbdaf094b6aadcc31b65893136c5eb62b
+

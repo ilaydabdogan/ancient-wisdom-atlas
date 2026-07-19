@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3482
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fortune-s-revolving-wheel
+  motif_id: fortune_s_revolving_wheel
+  label: Fortune's revolving wheel
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A revolving wheel of fortune is a personified or cosmic image of changing
+    destiny, close to the group for fate imagery governing time and order.
+  cautions: If the passage emphasizes mystical impermanence rather than fate imagery,
+    mystical_quest or pride_and_downfall may be better secondary context.
+  suggested_aliases:
+  - wheel_of_fortune
+  - fortune_as_revolving_wheel
+  - cosmic_wheel_of_fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forty-day-communal-intercession
+  motif_id: forty_day_communal_intercession
+  label: forty-day communal intercession
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Communal intercession is a ritual petition seeking divine response, fitting
+    sacred exchange and reciprocal sacred relationship.
+  cautions: The forty-day duration may be a local ritual detail; if the passage stresses
+    calendrical discipline, sacred_time may be relevant.
+  suggested_aliases:
+  - communal_intercession
+  - forty_day_intercession
+  - collective_petition_for_divine_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foster-brother-inseparability
+  motif_id: foster_brother_inseparability
+  label: foster-brother inseparability
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: role_variant
+  confidence: low
+  rationale: The label centers on a binding foster-kin relationship, which is closest
+    to covenant or sacred bond rather than combat or sibling-pair by itself.
+  cautions: May be a contextual kinship detail unless the foster-brother bond drives
+    oath, loyalty, tragedy, or social order; review source evidence.
+  suggested_aliases:
+  - inseparable_foster_brothers
+  - foster_brother_bond
+  - foster_kinship_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foster-kin-mediation-averts-slaughter
+  motif_id: foster_kin_mediation_averts_slaughter
+  label: foster-kin mediation averts slaughter
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Foster-kin mediation functions as a socially binding relationship that
+    restrains violence and repairs order.
+  cautions: Could also index with sacred_combat if the passage emphasizes battlefield
+    conflict; foster-kin detail may be over-specific.
+  suggested_aliases:
+  - foster_kin_mediation
+  - kinship_mediation_averts_bloodshed
+  - foster_bond_restrains_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foul-winged-food-snatchers
+  motif_id: foul_winged_food_snatchers
+  label: foul winged food-snatchers
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label likely refers to monstrous or harpy-like beings, but the taxonomy
+    lacks a clear monster/polluting-bird group and function is unclear.
+  cautions: Could fit threshold_guardian, divine_judgment, sacred_substance, or passage-specific
+    monster detail depending on whether they punish, obstruct, pollute food, or simply
+    appear.
+  suggested_aliases:
+  - harpy_like_food_snatchers
+  - winged_food_thieves
+  - polluting_winged_monsters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.found-tokens-reveal-a-hidden-offense
+  motif_id: found_tokens_reveal_a_hidden_offense
+  label: Found tokens reveal a hidden offense
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Tokens function as evidence that discloses a concealed act, matching
+    the recognition/proof-token group.
+  cautions: If the passage emphasizes moral reckoning for the offense more than the
+    token mechanism, divine_judgment may be a secondary mapping.
+  suggested_aliases:
+  - tokens_reveal_hidden_offense
+  - found_tokens_as_proof_of_wrongdoing
+  - discovery_token_reveals_secret_offense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.found-valuable-reserved-for-rightful-owner
+  motif_id: found_valuable_reserved_for_rightful_owner
+  label: Found valuable reserved for rightful owner
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reserving a found valuable for its rightful owner is an ethical social-order
+    motif concerning proper conduct and possession.
+  cautions: May be an exemplum-specific ethical detail rather than a durable mythic
+    motif; if the valuable is a power object, sacred_treasures may be secondary.
+  suggested_aliases:
+  - found_property_reserved_for_owner
+  - rightful_owner_of_found_valuable
+  - ethical_return_of_found_property
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.found-writing-opened-and-read-aloud
+  motif_id: found_writing_opened_and_read_aloud
+  label: Found writing opened and read aloud
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A discovered writing being opened and read may be sacred knowledge, a
+    message token, or just a plot action; function is not clear from the label.
+  cautions: Map to sacred_knowledge only if the writing conveys hidden, sacred, fateful,
+    or transformative knowledge; otherwise consider exclusion as an over-specific
+    narrative detail.
+  suggested_aliases:
+  - discovered_writing_read_aloud
+  - found_letter_opened_and_read
+  - hidden_writing_disclosed_by_reading
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foundation-centre-linked-to-prior-omen-location
+  motif_id: foundation_centre_linked_to_prior_omen_location
+  label: Foundation centre linked to prior omen location
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A foundation center selected or linked through an omen fits sacred-center
+    geography and the establishment of a world-organizing place.
+  cautions: Could also belong with prophecy_divination if the omen procedure is the
+    focus, or royal_legitimacy if it authorizes rule.
+  suggested_aliases:
+  - omen_marked_foundation_center
+  - sacred_center_founded_at_omen_site
+  - foundation_site_chosen_by_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foundation-of-a-new-central-capital
+  motif_id: foundation_of_a_new_central_capital
+  label: Foundation of a new central capital
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Founding a central capital establishes political order and legitimate
+    rule, fitting sacred kingship and royal legitimacy.
+  cautions: If the capital is framed as cosmic center, axis_mundi may be a strong
+    secondary mapping; if merely historical location detail, exclude from pattern
+    queries.
+  suggested_aliases:
+  - new_central_capital_foundation
+  - founding_of_royal_capital
+  - capital_foundation_as_ordering_center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels have single occurrences and may be over-specific episode or ethical-exemplum
+  details; retain source evidence even when mapping to broad groups.
+- No placement here implies transmission, borrowing, or shared origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3482
+  input_sha256: 26980d85e75afc6ad9491b1ba237d13dc10be5bfc1dbb2c5f2f021a5c7213523
+

@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3675
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.migration-blocked-by-another-people-leading-to-long-conflict
+  motif_id: migration_blocked_by_another_people_leading_to_long_conflict
+  label: Migration blocked by another people leading to long conflict
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe a migration-origin narrative, territorial conflict,
+    or historical/ethnographic episode rather than a stable mythic motif.
+  cautions: Single occurrence and culturally specific context require source review;
+    avoid treating migration conflict as transmission evidence or as generic sacred
+    combat without ritual/mythic function.
+  suggested_aliases:
+  - blocked_migration_leads_to_conflict
+  - migration_conflict_with_prior_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - cosmic_origin
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.migration-of-myths-and-religions
+  motif_id: migration_of_myths_and_religions
+  label: Migration of myths and religions
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes diffusion or historical movement of traditions, not
+    a narrative or symbolic motif.
+  cautions: Keep transmission claims out of motif normalization; preserve only as
+    commentary/provenance if the source discusses reception history.
+  suggested_aliases:
+  - religious_migration_commentary
+  - myth_transmission_commentary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.migration-or-transmission-of-tales-to-the-west
+  motif_id: migration_or_transmission_of_tales_to_the_west
+  label: Migration or transmission of tales to the West
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a scholarly transmission-history label rather than a motif in
+    a source passage.
+  cautions: Do not index as evidence for borrowing or contact in Pattern Explorer;
+    retain as provenance/reception note if needed.
+  suggested_aliases:
+  - tale_transmission_to_the_west
+  - westward_tale_migration_commentary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.militarized-regime-after-philosophical-exclusion
+  motif_id: militarized_regime_after_philosophical_exclusion
+  label: militarized regime after philosophical exclusion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like political-philosophical analysis, not clearly a
+    recurring mythic motif.
+  cautions: May be a passage artifact from commentary on Plato or Greek political
+    thought; map to sacred_law or royal_legitimacy only if source evidence gives mythic
+    or sacred ordering function.
+  suggested_aliases:
+  - militarized_order_after_exclusion
+  - philosophical_exclusion_and_militarized_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.military-age-muster
+  motif_id: military_age_muster
+  label: Military-age muster
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A census or muster of fighting-age men may be legal-administrative detail
+    rather than a symbolic motif.
+  cautions: If the passage frames the muster as covenantal order, sacred law, or divinely
+    mandated war, map accordingly; otherwise exclude as contextual detail.
+  suggested_aliases:
+  - muster_of_fighting_age_men
+  - military_census
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_combat
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.milk-as-medicine-rather-than-ordinary-food
+  motif_id: milk_as_medicine_rather_than_ordinary_food
+  label: milk as medicine rather than ordinary food
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Milk functioning as a healing substance fits the broader sacred food,
+    drink, and medicinal substance complex.
+  cautions: Confirm that the source treats milk as ritually or mythically significant;
+    otherwise it may be ordinary ethnographic/medical detail.
+  suggested_aliases:
+  - medicinal_milk
+  - milk_as_healing_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.milky-way-formed-by-a-celestial-trail
+  motif_id: milky_way_formed_by_a_celestial_trail
+  label: Milky Way formed by a celestial trail
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: An origin account for the Milky Way is a celestial etiological creation
+    motif.
+  cautions: Could also relate to sacred geography or path imagery if the trail is
+    used for travel of souls; review passage for afterlife or ascent functions.
+  suggested_aliases:
+  - milky_way_etiology_from_celestial_trail
+  - celestial_trail_forms_milky_way
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ascent
+    - afterlife_passage
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.millennial-end-time-sequence
+  motif_id: millennial_end_time_sequence
+  label: Millennial end-time sequence
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: narrower_than
+  confidence: medium
+  rationale: A structured end-time or millennial sequence belongs with world-age schemas
+    and cosmic temporal decline/renewal.
+  cautions: If the passage emphasizes final judgment, resurrection, or world-renewing
+    fire, secondary mappings to divine_judgment, resurrection, or flood_and_renewal
+    may be needed.
+  suggested_aliases:
+  - millennial_eschatological_sequence
+  - end_time_millennial_schema
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - flood_and_renewal
+    - sacred_time
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.millennial-prophetic-transition
+  motif_id: millennial_prophetic_transition
+  label: Millennial prophetic transition
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on prophetic transition within sacred time, making
+    prophecy the clearest primary function.
+  cautions: Could instead index under world_ages_cosmic_decline if the passage is
+    mainly about millennial chronology rather than prophetic role or announcement.
+  suggested_aliases:
+  - prophetic_transition_between_millennia
+  - millennial_prophetic_succession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - world_ages_cosmic_decline
+    - sacred_time
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mimetic-competition-of-cleverness
+  motif_id: mimetic_competition_of_cleverness
+  label: mimetic competition of cleverness
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A contest of clever imitation or wit fits trickster competition and boundary-crossing
+    intelligence.
+  cautions: The abstract wording may be analytical; verify whether the passage contains
+    an actual narrative contest, deception, or fable pattern before final indexing.
+  suggested_aliases:
+  - cleverness_competition
+  - competitive_imitation_by_tricksters
+  - wit_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and appear to be commentary, historical analysis,
+  or highly contextual labels; these should not be promoted without passage review.
+- Transmission-history labels were marked for exclusion from motif pattern queries
+  to avoid treating taxonomy placement as evidence of borrowing or contact.
+- Where existing groups were used, suggested placement is functional rather than a
+  claim of historical relation between traditions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific migration, muster, and medicinal-substance labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3675
+  input_sha256: 7b21cbb469753805f934cf2d449b8476c5a8c6bde74ad6627defc31a84d19df7
+

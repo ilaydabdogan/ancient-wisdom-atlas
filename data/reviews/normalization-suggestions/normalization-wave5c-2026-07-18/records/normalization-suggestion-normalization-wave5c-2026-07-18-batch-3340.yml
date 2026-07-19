@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3340
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.descendant-dispersal-founds-related-peoples
+  motif_id: descendant_dispersal_founds_related_peoples
+  label: descendant dispersal founds related peoples
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Founding related peoples through descendant dispersal fits the existing
+    ancestry and people-origin etiologies under cosmic_origin.
+  cautions: Single occurrence; if the passage mainly concerns genealogy or migration
+    rather than etiology, preserve as evidence detail.
+  suggested_aliases:
+  - ancestral dispersal founds related peoples
+  - descendant dispersal as people origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descendants-of-a-surviving-remnant
+  motif_id: descendants_of_a_surviving_remnant
+  label: Descendants of a surviving remnant
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A surviving remnant whose descendants continue a people fits survivor-remnant
+    renewal logic already related to survivor_pair.
+  cautions: Do not assume a flood or world catastrophe unless present; could instead
+    be general ancestry under cosmic_origin.
+  suggested_aliases:
+  - surviving remnant as ancestors
+  - remnant descendants found a people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descending-melodic-pattern
+  motif_id: descending_melodic_pattern
+  label: descending melodic pattern
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a musical form rather than a narrative or symbolic
+    motif.
+  cautions: If the melody has ritual, enchanting, or sacred sound function, enchanting_music
+    may apply; otherwise exclude as performance analysis metadata.
+  suggested_aliases:
+  - descending melody
+  - descending song contour
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deserted-castle-as-companions-base
+  motif_id: deserted_castle_as_companions_base
+  label: deserted castle as companions’ base
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-specific setting detail rather than a durable
+    symbolic motif.
+  cautions: If the castle functions as an enchanted otherworld refuge or threshold
+    space, review for otherworld or threshold_guardian, but the label alone is too
+    contextual.
+  suggested_aliases:
+  - deserted castle base
+  - abandoned castle as refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deserted-settlement-with-hidden-blind-inhabitant
+  motif_id: deserted_settlement_with_hidden_blind_inhabitant
+  label: Deserted settlement with hidden blind inhabitant
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines place, concealment, and a character condition without
+    clear narrative function.
+  cautions: May be an over-specific episode detail; if the hidden inhabitant serves
+    as guide, survivor, or threshold figure, context is needed for placement.
+  suggested_aliases:
+  - abandoned settlement with hidden inhabitant
+  - hidden blind survivor in deserted settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deserted-village-with-signs-of-habitation
+  motif_id: deserted_village_with_signs_of_habitation
+  label: deserted village with signs of habitation
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An apparently deserted village with habitation signs may signal liminality,
+    danger, or narrative suspense, but the function is unclear.
+  cautions: Could be an over-specific setting clue; map only if source evidence shows
+    an otherworld, threshold, or deception function.
+  suggested_aliases:
+  - abandoned village with signs of life
+  - deserted settlement showing habitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.designated-tent-for-consecrating-ceremonies
+  motif_id: designated_tent_for_consecrating_ceremonies
+  label: Designated tent for consecrating ceremonies
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A designated ceremonial space for consecration fits ritual regulation
+    and sacred spatial protocol.
+  cautions: Culturally sensitive ceremonial detail; if the tent functions as a portable
+    sacred center, world_center or sacred_vessel may be relevant secondary context.
+  suggested_aliases:
+  - consecration tent
+  - ritual tent for consecration
+  - designated ceremonial tent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.despair-after-accidental-damage-under-threat
+  motif_id: despair_after_accidental_damage_under_threat
+  label: despair after accidental damage under threat
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This describes a contextual emotional reaction to an event rather than
+    a stable mythic motif.
+  cautions: If the damaged object is a life-token, taboo object, or sacred treasure,
+    map that underlying object function instead.
+  suggested_aliases:
+  - despair after accidental damage
+  - accidental damage under threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.despised-youngest-succeeds-where-elder-brothers-fail
+  motif_id: despised_youngest_succeeds_where_elder_brothers_fail
+  label: Despised youngest succeeds where elder brothers fail
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Despised Youngest Succeeds
+  relationship: child
+  confidence: medium
+  rationale: The youngest or underestimated sibling succeeding after elder failure
+    is a recurrent folktale structure not well held by existing sacred_twins or sibling_pair
+    groups.
+  cautions: Could be indexed secondarily under initiation or hero_journey when the
+    success follows trials; avoid collapsing into sacred siblings unless sibling contrast
+    is central.
+  suggested_aliases:
+  - youngest child succeeds after elder siblings fail
+  - underestimated youngest succeeds
+  - despised youngest triumphs
+  suggested_new_group:
+    id: despised_youngest_succeeds
+    label: Despised Youngest Succeeds
+    description: An underestimated, despised, youngest, or low-status sibling or child
+      succeeds in a task or quest where elder or higher-status siblings fail.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - sacred_twins
+    - initiation
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: Existing sibling and journey groups do not
+      specifically capture the recurring birth-order and underestimated-youngest success
+      structure.
+- suggestion_id: normalization.suggestion.destined-coffin-or-fated-resting-place
+  motif_id: destined_coffin_or_fated_resting_place
+  label: destined coffin or fated resting place
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A coffin or final resting place determined in advance fits fated death
+    and destined burial logic.
+  cautions: If the focus is funerary ritual or memorialization rather than destiny,
+    heroic_funeral_rites or afterlife_passage may be more appropriate.
+  suggested_aliases:
+  - fated resting place
+  - destined coffin
+  - predestined burial place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and setting-specific; review
+  source passages before promoting any to durable aliases.
+- Avoid treating deserted places as otherworld or threshold motifs unless the narrative
+  function is explicit.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific ritual and performance
+    labels need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3340
+  input_sha256: ccc333d77a3c44b119948ffc730b6bdf1c3b74a443c63cc874a84f096fab0989
+

@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0442
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.widow-bears-relics-of-the-dead
+  motif_id: widow_bears_relics_of_the_dead
+  label: widow bears relics of the dead
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Bearing relics of the dead is a mourning or memorial act centered on
+    grief and continuing attachment.
+  cautions: Single occurrence; if the relics are ritually empowered objects or ancestor-care
+    implements, sacred_treasures or ancestor_rites may be secondary.
+  suggested_aliases:
+  - widow_carries_relics_of_the_dead
+  - widow_mourning_with_relics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.widow-follows-husband-in-death
+  motif_id: widow_follows_husband_in_death
+  label: widow follows husband in death
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe wifely death, voluntary devotion, social coercion,
+    or culturally sensitive mortuary practice.
+  cautions: Requires source review; avoid normalizing practices involving widow death
+    without context of agency, ritual, critique, or narrative framing. Could touch
+    sacred_love, sacrifice, lament_and_mourning, or sacred_law.
+  suggested_aliases:
+  - widow_dies_after_husband
+  - widow_follows_spouse_in_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.widow-s-flight-and-memorialization-of-the-dead-hero
+  motif_id: widow_s_flight_and_memorialization_of_the_dead_hero
+  label: Widow's flight and memorialization of the dead hero
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The durable motif element is memorialization of a dead hero, already
+    covered by heroic funeral and memorial rites.
+  cautions: Composite label includes widow's flight; if flight is the main narrative
+    function, hero_journey or exile_wandering may be secondary. Preserve as episode
+    detail.
+  suggested_aliases:
+  - widow_memorializes_dead_hero
+  - memorialization_of_the_dead_hero_by_widow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.widow-s-remarriage-delayed-after-husband-s-death
+  motif_id: widow_s_remarriage_delayed_after_husband_s_death
+  label: widow's remarriage delayed after husband's death
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate mourning custom, social law, alliance politics,
+    or passage-specific kinship detail.
+  cautions: Single occurrence and culturally contextual; do not force into mourning
+    or sacred law without source evidence that the delay has ritual or mythic function.
+  suggested_aliases:
+  - delayed_widow_remarriage
+  - widow_remarriage_after_mourning_delay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.widow-s-return-constrained-by-intergroup-relations
+  motif_id: widow_s_return_constrained_by_intergroup_relations
+  label: widow's return constrained by intergroup relations
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a contextual social-relations note rather than a reusable
+    symbolic or narrative motif.
+  cautions: If the passage frames the constrained return as a ritual mourning rule,
+    alliance obligation, or exile-homecoming plot, review for sacred_law, covenant,
+    or hero_journey instead.
+  suggested_aliases:
+  - widow_return_limited_by_intergroup_relations
+  - widow_return_constrained_by_affinal_relations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.widow-s-self-killing-beside-husband-s-corpse
+  motif_id: widow_s_self_killing_beside_husband_s_corpse
+  label: widow's self-killing beside husband's corpse
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This could be tragic mourning, self-sacrifice, love beyond death, or
+    a culturally sensitive death scene.
+  cautions: Requires careful source review due to suicide/self-killing content and
+    possible ritual or literary framing. Possible mappings include lament_and_mourning,
+    sacred_love, or sacrifice.
+  suggested_aliases:
+  - widow_dies_beside_husband_s_corpse
+  - widow_self_killing_at_spouse_s_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wife-remarries-after-husband-is-presumed-dead
+  motif_id: wife_remarries_after_husband_is_presumed_dead
+  label: wife remarries after husband is presumed dead
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may function as a return-recognition plot, marital law issue,
+    or contextual family detail.
+  cautions: 'Source context is needed: if the presumed-dead husband returns, hero_journey/return
+    or recognition_tokens_hidden_identity may matter; otherwise it may be too social-contextual
+    for motif queries.'
+  suggested_aliases:
+  - remarriage_after_presumed_death
+  - spouse_remarries_after_husband_presumed_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wife-s-suspicion-of-concealed-death
+  motif_id: wife_s_suspicion_of_concealed_death
+  label: wife’s suspicion of concealed death
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Suspicion of a hidden death may be a recognition plot, omen, mourning
+    trigger, or episode-specific narrative detail.
+  cautions: Single occurrence; do not map to death motifs unless concealment, revelation,
+    or mourning has recurring narrative function in the passage.
+  suggested_aliases:
+  - spouse_suspects_concealed_death
+  - suspicion_of_hidden_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wife-seeks-death-beside-husband
+  motif_id: wife_seeks_death_beside_husband
+  label: wife seeks death beside husband
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may express love beyond death, self-sacrifice, lament, or culturally
+    specific widow-death practice.
+  cautions: 'Culturally sensitive; needs source evidence and agency/framing review
+    before placement. Possible secondary groups: sacred_love, sacrifice, lament_and_mourning.'
+  suggested_aliases:
+  - wife_desires_death_beside_husband
+  - spouse_seeks_death_beside_dead_husband
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wild-hybrid-woodland-spirits
+  motif_id: wild_hybrid_woodland_spirits
+  label: wild hybrid woodland spirits
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: role_variant
+  confidence: medium
+  rationale: Hybrid woodland spirits fit the normalization group's existing woodland-spirit
+    and enchanted-realm cluster.
+  cautions: If the passage emphasizes form-changing rather than realm ecology, shapeshifter
+    may be secondary; if they guard or lure at a boundary, threshold_guardian may
+    fit better.
+  suggested_aliases:
+  - hybrid_woodland_spirits
+  - wild_woodland_spirit_race
+  - goat_like_woodland_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several widow-related labels are single-occurrence and culturally sensitive; human
+  review should distinguish mourning, marital law, devotional self-sacrifice, social
+  coercion, and passage-specific kinship notes.
+- Avoid treating spouse death or remarriage details as afterlife/descent motifs unless
+  the source evidence shows postmortem journey, ritual care for the dead, or transformative
+  return.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; widow-death and remarriage labels especially
+    require source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0442
+  input_sha256: 876da3a78b13746283f6cb5d2b7b98053709a9c0d4083e3563446d158537c256
+

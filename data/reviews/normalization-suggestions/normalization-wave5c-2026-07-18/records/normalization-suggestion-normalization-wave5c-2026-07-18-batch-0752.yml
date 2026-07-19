@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0752
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-alteration-of-waters
+  motif_id: divine_alteration_of_waters
+  label: Divine alteration of waters
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine modification of water fits the sacred-waters field where water
+    is transformed, controlled, or made ritually/narratively potent.
+  cautions: Single occurrence; if the act is punishment, miracle, or creation rather
+    than water symbolism, divine_intervention, divine_judgment, or cosmic_origin may
+    be secondary.
+  suggested_aliases:
+  - divinely altered waters
+  - supernatural alteration of water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-and-adversarial-figures-assembled-around-a-buddha-image
+  motif_id: divine_and_adversarial_figures_assembled_around_a_buddha_image
+  label: Divine and adversarial figures assembled around a Buddha image
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe iconographic composition, ritual display, or a
+    narrative assembly around a sacred image.
+  cautions: Likely context-dependent and culturally specific; if merely an art-historical
+    scene description, exclude or preserve as evidence rather than pattern motif.
+  suggested_aliases:
+  - assembly around Buddha image
+  - divine and hostile beings around sacred image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-and-cosmic-bestowal-of-goods
+  motif_id: divine_and_cosmic_bestowal_of_goods
+  label: Divine and cosmic bestowal of goods
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Bestowal of goods by divine or cosmic powers fits supernatural provision
+    and direct sacred action in human or cosmic affairs.
+  cautions: If the passage emphasizes reciprocal offering, map secondarily to sacred_exchange;
+    if it concerns emanation of cosmic order, supreme_ruler or cosmic_origin may be
+    relevant.
+  suggested_aliases:
+  - divine bestowal of goods
+  - cosmic provision of goods
+  - supernatural provision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-and-heroic-lamentation-as-an-improper-model
+  motif_id: divine_and_heroic_lamentation_as_an_improper_model
+  label: Divine and heroic lamentation as an improper model
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Although lamentation is present, the label frames it as an ethical or
+    interpretive model rather than a straightforward mourning motif.
+  cautions: May be commentary, philosophical critique, or pedagogy rather than narrative
+    motif; if actual lament is central, lament_and_mourning is the likely group.
+  suggested_aliases:
+  - improper model of divine lamentation
+  - heroic lamentation as negative example
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-and-religious-precedence-shift-from-old-to-new
+  motif_id: divine_and_religious_precedence_shift_from_old_to_new
+  label: divine and religious precedence shift from old to new
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests doctrinal or institutional supersession rather than
+    a clear recurring mythic motif.
+  cautions: Could be a passage-specific religious-history or sectarian framing artifact;
+    source evidence is needed before mapping to divine_judgment, sacred_law, or royal_legitimacy.
+  suggested_aliases:
+  - shift of religious precedence
+  - old order superseded by new religious authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-anger-and-smiting-feared-by-opponents
+  motif_id: divine_anger_and_smiting_feared_by_opponents
+  label: Divine anger and smiting feared by opponents
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Divine anger expressed as feared punishment or smiting fits sacred judgment
+    responding to opposition or disorder.
+  cautions: If the passage is battlefield-focused, divine_warrior may be a secondary
+    mapping; avoid assuming combat if only punishment is described.
+  suggested_aliases:
+  - divine smiting feared by enemies
+  - fear of divine wrath
+  - divine anger against opponents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-animal-prototypes-and-animal-reverence
+  motif_id: divine_animal_prototypes_and_animal_reverence
+  label: divine animal prototypes and animal reverence
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern sacred animal origins, ritual reverence, clan or
+    cosmological prototypes, none of which are cleanly covered by an existing group.
+  cautions: Culturally sensitive and broad; review source context before placing under
+    cosmic_origin, sacred_law, divine_intervention, or a possible future sacred-animal
+    group.
+  suggested_aliases:
+  - sacred animal prototypes
+  - reverence for divine animal forms
+  - animal prototypes in sacred order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-animal-revealed-in-dream-and-used-for-divination
+  motif_id: divine_animal_revealed_in_dream_and_used_for_divination
+  label: divine animal revealed in dream and used for divination
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on dream revelation that supplies divinatory knowledge,
+    fitting dream_and_vision with prophecy_divination as related context.
+  cautions: If the established divination method is primary rather than the dream,
+    prophecy_divination may be the better main group; animal specificity should be
+    preserved as evidence detail.
+  suggested_aliases:
+  - dream-revealed divinatory animal
+  - divine animal in dream divination
+  - animal revealed by dream for omen use
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-appearance-at-a-gate
+  motif_id: divine_appearance_at_a_gate
+  label: divine appearance at a gate
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A divine appearance is a theophany; the gate supplies a liminal setting
+    but does not change the core manifestation function.
+  cautions: If the gate itself controls passage, threshold_guardian or axis_mundi
+    may be secondary; single occurrence may be too scene-specific.
+  suggested_aliases:
+  - theophany at a gate
+  - divine manifestation at threshold
+  - god appears at gate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-appointment-to-oversee-the-world
+  motif_id: divine_appointment_to_oversee_the_world
+  label: divine appointment to oversee the world
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: medium
+  rationale: Appointment to oversee the world concerns delegated or supreme cosmic
+    governance and fits the cosmic sovereignty group.
+  cautions: If the appointed being is a guardian or agent rather than ruler, divine_intervention
+    may be secondary; if tied to royal succession, royal_legitimacy may apply.
+  suggested_aliases:
+  - divinely appointed overseer of the world
+  - cosmic overseer appointed by deity
+  - appointment to world guardianship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and context-dependent; preserve local evidence
+  and avoid promoting new taxonomy nodes without recurrence.
+- Labels involving Buddhist images, Navajo sacred animals, and religious precedence
+  require culturally careful human review before broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft model suggestions only; human taxonomy review required for ambiguous
+    and culturally sensitive items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0752
+  input_sha256: e4aaa1f33a0046df1bc9aab269e102c8fb74b9b4fbf4ea41c19c01b89e78a7df
+

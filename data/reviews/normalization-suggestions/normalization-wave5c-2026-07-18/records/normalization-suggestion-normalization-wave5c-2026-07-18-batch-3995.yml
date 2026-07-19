@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3995
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.suicide-without-special-mortuary-stigma
+  motif_id: suicide_without_special_mortuary_stigma
+  label: Suicide without special mortuary stigma
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns a culturally specific mortuary evaluation rather than
+    a clear reusable narrative motif.
+  cautions: Sensitive and single-occurrence; requires source context before mapping
+    to heroic_funeral_rites, sacred_law, death_by_fate, or exclusion.
+  suggested_aliases:
+  - suicide_without_mortuary_stigma
+  - unstigmatized_suicide_in_mortuary_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoned-adversary-threatens-beheading
+  motif_id: summoned_adversary_threatens_beheading
+  label: summoned adversary threatens beheading
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A summoned opponent issuing a beheading threat fits challenge and violent
+    combat setup.
+  cautions: May be over-specific; if the summoning is magical or judicial rather than
+    combat framing, review alternate placement.
+  suggested_aliases:
+  - summoned_opponent_threatens_beheading
+  - beheading_threat_by_summoned_adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoned-communal-assistance
+  motif_id: summoned_communal_assistance
+  label: summoned communal assistance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to determine whether assistance is ritual, social,
+    monastic, divine, or narrative logistics.
+  cautions: Could map to sacred_exchange, sacred_law, divine_intervention, or be a
+    passage artifact depending on source evidence.
+  suggested_aliases:
+  - communal_assistance_summoned
+  - summoning_the_community_for_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoned-helper-by-threefold-call
+  motif_id: summoned_helper_by_threefold_call
+  label: Summoned helper by threefold call
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A helper appearing in response to a special call fits supernatural or
+    guided intervention when the helper is nonordinary.
+  cautions: If the helper is purely human, this may instead be a narrative device
+    or social-aid detail; preserve the threefold-call specificity as evidence.
+  suggested_aliases:
+  - threefold_call_summons_helper
+  - helper_summoned_by_three_calls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoned-kin-aid-against-overwhelming-attackers
+  motif_id: summoned_kin_aid_against_overwhelming_attackers
+  label: Summoned kin aid against overwhelming attackers
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin aid is summoned specifically for defense against overwhelming attackers,
+    making the combat crisis central.
+  cautions: If kinship obligation or social reciprocity is more important than battle,
+    sacred_exchange or sacred_law may be secondary.
+  suggested_aliases:
+  - kin_aid_summoned_against_attackers
+  - summoned_relatives_defend_against_overwhelming_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoning-a-weather-associated-divinity
+  motif_id: summoning_a_weather_associated_divinity
+  label: Summoning a weather-associated divinity
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif involves culturally specific ritual or divine presence, and
+    existing groups do not cleanly separate weather divinity invocation.
+  cautions: Requires culturally careful review; may map to divine_intervention, theophany,
+    sacred_exchange, or ritual weather-making depending on context.
+  suggested_aliases:
+  - weather_divinity_summoned
+  - summoning_weather_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoning-an-absent-figure-by-roasted-food-scent
+  motif_id: summoning_an_absent_figure_by_roasted_food_scent
+  label: summoning an absent figure by roasted food scent
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Food scent as summons may be ritual feeding, lure, recognition, or a
+    passage-specific narrative device.
+  cautions: Single occurrence and culturally specific; avoid flattening into sacred_substance
+    or sacred_exchange without evidence of sacred reciprocity or ritual feeding.
+  suggested_aliases:
+  - food_scent_summons_absent_figure
+  - roasted_food_scent_as_summons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoning-armed-followers-to-destroy-a-challenger
+  motif_id: summoning_armed_followers_to_destroy_a_challenger
+  label: summoning armed followers to destroy a challenger
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes mustering armed supporters to eliminate a challenger,
+    a conflict and warfare pattern.
+  cautions: Could also involve royal legitimacy if the challenger threatens rule;
+    may be too episode-specific for broad querying.
+  suggested_aliases:
+  - armed_followers_summoned_against_challenger
+  - summoned_war_band_destroys_challenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoning-dispersed-religious-authorities-for-adjudication
+  motif_id: summoning_dispersed_religious_authorities_for_adjudication
+  label: summoning dispersed religious authorities for adjudication
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: medium
+  rationale: Religious authorities are gathered to adjudicate, centering sacred legal
+    or institutional order.
+  cautions: May be contextual monastic procedure rather than mythic motif; if purely
+    administrative, consider exclusion from pattern queries.
+  suggested_aliases:
+  - religious_authorities_summoned_for_judgment
+  - summoning_religious_judges_for_adjudication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoning-kin-to-a-funeral
+  motif_id: summoning_kin_to_a_funeral
+  label: summoning kin to a funeral
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Calling kin to attend funeral rites fits mortuary memorial practice and
+    social reaffirmation around the dead.
+  cautions: If the funeral is ordinary kinship logistics rather than ritually marked
+    memorialization, this may be too generic; ancestor_rites could be secondary if
+    dead-soul care is central.
+  suggested_aliases:
+  - kin_summoned_for_funeral
+  - funeral_summons_to_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use 'summoning' broadly; placement depends on whether
+  the summoned party is supernatural, military, legal, kinship, or ritual.
+- Single-occurrence and culturally specific mortuary or ritual labels should receive
+  source-context review before canonical aliasing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3995
+  input_sha256: e2e90d983b7614d7d0b1b1c8fecd2b50f32a74a75542e4bfd7449885bed75ebd
+

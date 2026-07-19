@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3333
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deferred-disclosure-of-adventures
+  motif_id: deferred_disclosure_of_adventures
+  label: deferred disclosure of adventures
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on when narrated adventures are disclosed, making narrative
+    transmission part of the plot function.
+  cautions: Could be a passage-level narrative-structure artifact if disclosure timing
+    has no sacred or transformative role.
+  suggested_aliases:
+  - delayed_telling_of_adventures
+  - deferred_narration_of_adventures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deferred-fourth-action-completing-a-ceremonial-act
+  motif_id: deferred_fourth_action_completing_a_ceremonial_act
+  label: deferred fourth action completing a ceremonial act
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ritual sequence completion, but the function of the
+    fourth act is unclear without passage evidence.
+  cautions: May be a culturally specific ceremonial detail or generated over-specific
+    label; review source context before mapping to sacrifice, sacred_time, or sacred_law.
+  suggested_aliases:
+  - delayed_fourth_ritual_action
+  - fourth_action_completes_ceremony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deferred-slaying-to-prevent-worse-harm
+  motif_id: deferred_slaying_to_prevent_worse_harm
+  label: deferred slaying to prevent worse harm
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A killing delayed for harm prevention implies moral reckoning and difficult
+    judgment about violence.
+  cautions: Could belong under sacred_combat, sacrifice, or sacred_law depending on
+    whether the slaying is martial, ritual, legal, or cosmic; source evidence needed.
+  suggested_aliases:
+  - delayed_slaying_to_avert_greater_harm
+  - preventive_deferred_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deferred-vengeance-at-a-fixed-term
+  motif_id: deferred_vengeance_at_a_fixed_term
+  label: deferred vengeance at a fixed term
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Delayed vengeance at an appointed time functions as moral retaliation
+    and reckoning.
+  cautions: If the fixed term is an oath, geis, or formal vow, curse_blessing_speech
+    or covenant may be important secondary mappings.
+  suggested_aliases:
+  - vengeance_deferred_until_an_appointed_time
+  - appointed_term_for_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defiance-of-threatened-idol-vengeance
+  motif_id: defiance_of_threatened_idol_vengeance
+  label: Defiance of threatened idol vengeance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defying an idol's threatened power fits exclusive devotion and rejection
+    of rival divine association under covenantal order.
+  cautions: Could also map to divine_judgment if the passage emphasizes punishment
+    of idolatry or vindication after the threat fails.
+  suggested_aliases:
+  - defiance_of_idol_threats
+  - rejection_of_threatened_idol_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defiant-leader-rejects-enclosure-and-chooses-open-attack
+  motif_id: defiant_leader_rejects_enclosure_and_chooses_open_attack
+  label: defiant leader rejects enclosure and chooses open attack
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a tactical battle choice by a leader, fitting combat
+    more than sacred kingship or law.
+  cautions: Likely episode-specific military narration unless the rejection of enclosure
+    has ritual or symbolic boundary significance.
+  suggested_aliases:
+  - leader_chooses_open_battle_over_enclosure
+  - rejection_of_defensive_enclosure_for_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.defilement-of-craftwork-by-bodily-substance
+  motif_id: defilement_of_craftwork_by_bodily_substance
+  label: Defilement of craftwork by bodily substance
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines craftwork, bodily substance, and impurity without
+    enough evidence to identify the primary motif function.
+  cautions: Culturally sensitive pollution or ritual purity logic may be involved;
+    could fit sacred_law, sacred_craft, or sacred_substance depending on context.
+  suggested_aliases:
+  - bodily_substance_defiles_crafted_object
+  - pollution_of_craftwork_by_bodily_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.degenerative-cultural-genealogy
+  motif_id: degenerative_cultural_genealogy
+  label: degenerative cultural genealogy
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A genealogy framed as degeneration aligns with decline from earlier cultural
+    or cosmic states.
+  cautions: If this is merely scholarly characterization of a lineage rather than
+    a narrative schema, exclude or treat as evidence note.
+  suggested_aliases:
+  - genealogy_of_cultural_decline
+  - degeneration_through_cultural_lineage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deified-mortal-as-native-tutelary-figure
+  motif_id: deified_mortal_as_native_tutelary_figure
+  label: Deified mortal as native tutelary figure
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A deified mortal serving as a local guardian fits the tutelary-spirit
+    role already folded under divine_intervention.
+  cautions: May also involve royal_legitimacy, ancestor rites, or civic cult; preserve
+    deified-mortal specificity for review.
+  suggested_aliases:
+  - deified_mortal_tutelary_figure
+  - apotheosized_mortal_as_local_guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deities-credited-with-humane-action
+  motif_id: deities_credited_with_humane_action
+  label: deities credited with humane action
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too abstract to determine whether the divine action is mercy,
+    intervention, lawgiving, or commentary.
+  cautions: Could be a passage artifact or evaluative phrasing rather than a motif;
+    map only if a repeated divine mercy or benefaction pattern is evident.
+  suggested_aliases:
+  - humane_action_attributed_to_deities
+  - divine_humane_benefaction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  as evidence notes unless source review confirms recurrence or structural importance.
+- Avoid treating tactical or evaluative labels as motifs unless the passage shows
+  ritual, sacred, or narrative-pattern function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source context needed for low-confidence and
+    culturally specific ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3333
+  input_sha256: 74c48abb6a535534dadd5662c7a7374090e0e83fa44b742a65f99574130c4a51
+

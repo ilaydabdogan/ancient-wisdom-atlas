@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2126
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.clothing-taken-by-animal-or-arachnid-elder
+  motif_id: clothing_taken_by_animal_or_arachnid_elder
+  label: clothing taken by animal or arachnid elder
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: Animal or arachnid taking clothing may be trickster theft, disguise,
+    or a transformation setup, but the label alone does not identify the narrative
+    function.
+  cautions: Single occurrence and culturally specific elder figure; verify whether
+    this is a recurring motif or passage detail before indexing.
+  suggested_aliases:
+  - animal_takes_clothing
+  - arachnid_elder_takes_clothing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coerced-animal-secret-of-success
+  motif_id: coerced_animal_secret_of_success
+  label: Coerced animal secret of success
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is extracting hidden success-knowledge from an animal;
+    animal agency is secondary to secret knowledge acquisition.
+  cautions: Could also involve trickster coercion or animal helper motifs depending
+    on passage evidence; preserve coercion and animal specificity in notes.
+  suggested_aliases:
+  - animal_secret_of_success
+  - coerced_secret_from_animal_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coerced-helper-used-to-bypass-a-guard-animal
+  motif_id: coerced_helper_used_to_bypass_a_guard_animal
+  label: coerced helper used to bypass a guard animal
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A coerced helper enabling passage past a guard animal is a deception
+    or boundary-bypassing strategy.
+  cautions: If the guard animal primarily controls passage to another realm, threshold_guardian
+    may be a secondary mapping; source context needed.
+  suggested_aliases:
+  - helper_coerced_to_bypass_guardian
+  - bypassing_guard_animal_by_coerced_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cohabiting-animals-as-behavioral-sign
+  motif_id: cohabiting_animals_as_behavioral_sign
+  label: Cohabiting animals as behavioral sign
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: Animals serving as a sign may fit omen or divinatory perception, but
+    the label gives too little evidence about sacred, narrative, or behavioral function.
+  cautions: May be an ethnographic observation or passage artifact rather than a motif;
+    do not map solely because animals are present.
+  suggested_aliases:
+  - animal_behavior_as_sign
+  - cohabiting_animals_as_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cold-winds-from-a-giant-bird-form-at-the-edge-of-heaven
+  motif_id: cold_winds_from_a_giant_bird_form_at_the_edge_of_heaven
+  label: Cold winds from a giant bird-form at the edge of heaven
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label explains a natural/cosmic phenomenon through a giant being
+    at a cosmological boundary, fitting etiological cosmology.
+  cautions: Could also relate to axis_mundi or divine race/giant cosmology if the
+    source emphasizes world-structure rather than wind origin; very specific single
+    occurrence.
+  suggested_aliases:
+  - wind_origin_from_giant_bird
+  - cosmic_bird_at_edge_of_heaven
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-animal-hunt-by-a-swarm
+  motif_id: collective_animal_hunt_by_a_swarm
+  label: Collective animal hunt by a swarm
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes animal collective behavior but does not show a clear
+    mythic function in the existing groups.
+  cautions: May be a fable episode, natural-history detail, or hunting-strategy motif;
+    source evidence is needed before creating an animal-collective group.
+  suggested_aliases:
+  - swarm_hunts_collectively
+  - collective_hunt_by_swarming_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-hunt-against-a-dangerous-beast
+  motif_id: collective_hunt_against_a_dangerous_beast
+  label: collective hunt against a dangerous beast
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A communal hunt against a dangerous beast functions like organized combat
+    against a threatening opponent.
+  cautions: If the beast is a chaos monster or divine adversary, divine_warrior may
+    be better; if merely a local hunting episode, it may be too generic.
+  suggested_aliases:
+  - communal_hunt_against_dangerous_beast
+  - collective_beast_hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-naming-through-association-with-a-bird
+  motif_id: collective_naming_through_association_with_a_bird
+  label: Collective naming through association with a bird
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif explains a group name through association with a bird, fitting
+    etiological naming and people-origin patterns already under cosmic_origin.
+  cautions: Could involve clan totem, ancestor, or identity token rather than creation;
+    review respectfully for local nation or clan significance.
+  suggested_aliases:
+  - bird_association_group_name_etiology
+  - collective_name_from_bird_association
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-revenge-by-animal-kin
+  motif_id: collective_revenge_by_animal_kin
+  label: collective revenge by animal kin
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Animal kin taking revenge may act as moral retaliation or restoration
+    of violated relations, but the agency and rule violated are unclear.
+  cautions: May require an animal-kinship or animal-vengeance group if recurrent;
+    avoid flattening culturally specific animal-person relations into generic judgment
+    without evidence.
+  suggested_aliases:
+  - animal_kin_revenge
+  - revenge_by_animal_relatives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.collective-small-animal-hunting-strategy
+  motif_id: collective_small_animal_hunting_strategy
+  label: collective small-animal hunting strategy
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a practical animal or hunting behavior rather than
+    a symbolic motif with a clear existing group.
+  cautions: Likely too generic or passage-specific unless the strategy drives a fable,
+    trickster reversal, or ritual teaching; review source context.
+  suggested_aliases:
+  - small_animals_hunt_collectively
+  - collective_hunting_strategy_by_small_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal-behavior or hunting details;
+  human review should distinguish fable/narrative function from ethnographic or passage-specific
+  observation.
+- No transmission or borrowing claims are implied by these placements.
+- If many similar animal-person, animal-kinship, or animal-collective-action labels
+  recur, reviewers may consider a future animal agency group; current suggestions
+  avoid creating one from singletons.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional machine suggestions; animal-focused singletons require source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2126
+  input_sha256: 5e1aa354c942face43e6915051e8a153a5afb78d4ed10335efceeff81b8417d4
+

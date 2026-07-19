@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3535
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hidden-or-unseeable-powerful-being
+  motif_id: hidden_or_unseeable_powerful_being
+  label: hidden or unseeable powerful being
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could refer to invisible divine presence, hidden spirit agency, taboo
+    perception, or a supernatural antagonist; label lacks narrative function.
+  cautions: Single occurrence and culturally specific; do not force into theophany,
+    otherworld, or divine_intervention without passage evidence.
+  suggested_aliases:
+  - unseen_powerful_being
+  - invisible_supernatural_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-or-vanished-dwelling-of-a-supernatural-being
+  motif_id: hidden_or_vanished_dwelling_of_a_supernatural_being
+  label: hidden or vanished dwelling of a supernatural being
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden or disappearing supernatural dwelling fits an enchanted adjacent
+    realm or liminal otherworld locale.
+  cautions: If the dwelling functions primarily as a sacred center, refuge, or theophany
+    site, axis_mundi, sacred_vessel, or theophany may be better secondary mappings.
+  suggested_aliases:
+  - vanished_supernatural_dwelling
+  - hidden_supernatural_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-original-inhabitants-visible-only-to-kin
+  motif_id: hidden_original_inhabitants_visible_only_to_kin
+  label: hidden original inhabitants visible only to kin
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines hidden beings, ancestry/kin recognition, and selective
+    visibility; existing groups only partially cover these functions.
+  cautions: Could involve ancestors, otherworld beings, indigenous place spirits,
+    or kinship recognition. Cultural and source context needed before grouping.
+  suggested_aliases:
+  - hidden_ancient_inhabitants_visible_to_kin
+  - selective_visibility_of_hidden_kin_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-paternal-inheritance-of-armour-and-charger
+  motif_id: hidden_paternal_inheritance_of_armour_and_charger
+  label: hidden paternal inheritance of armour and charger
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hidden inherited armor and horse function as power objects conferring
+    martial identity, status, or heroic capacity.
+  cautions: If the emphasis is lineage and succession rather than objects, royal_legitimacy
+    or recognition_tokens_hidden_identity may be relevant.
+  suggested_aliases:
+  - hidden_inherited_armor_and_charger
+  - paternal_martial_inheritance_hidden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-play-under-threat-of-an-older-watcher
+  motif_id: hidden_play_under_threat_of_an_older_watcher
+  label: Hidden play under threat of an older watcher
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an episode-specific social scene rather than a durable
+    mythic motif.
+  cautions: If source evidence shows taboo violation, initiation, or persecution of
+    children, remap with that function; otherwise preserve as passage detail only.
+  suggested_aliases:
+  - secret_play_observed_by_elder
+  - hidden_play_under_watch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-poverty-exposed-at-a-royal-feast
+  motif_id: hidden_poverty_exposed_at_a_royal_feast
+  label: Hidden poverty exposed at a royal feast
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Exposure of concealed poverty at a royal feast may function as social/moral
+    reckoning or status reversal.
+  cautions: 'Low confidence: could instead be hospitality test, pride/downfall, royal
+    court episode, or non-sacred social detail depending on evidence.'
+  suggested_aliases:
+  - concealed_poverty_revealed_at_feast
+  - poverty_exposed_in_royal_setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-prey-revealed-by-a-magical-pointing-object
+  motif_id: hidden_prey_revealed_by_a_magical_pointing_object
+  label: Hidden prey revealed by a magical pointing object
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical object reveals hidden prey, so the object's supernatural detection
+    function is central.
+  cautions: If the narrative centers on hunting transformation, animal helper agency,
+    or trickster pursuit, divine_intervention or trickster may be better secondary
+    mappings.
+  suggested_aliases:
+  - magical_pointing_object_reveals_hidden_prey
+  - divining_object_finds_prey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-provider-credited-to-another
+  motif_id: hidden_provider_credited_to_another
+  label: hidden provider credited to another
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Misattributed provision may involve generosity, deception, recognition,
+    or social reciprocity, but the function is unclear from the label.
+  cautions: Could map to sacred_exchange, betrayal_violated_trust, recognition_tokens_hidden_identity,
+    or trickster depending on whether the hidden provider is benefactor, deceiver,
+    or unrecognized kin.
+  suggested_aliases:
+  - misattributed_hidden_provider
+  - unrecognized_provider
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-radiance-revealed-through-bathing
+  motif_id: hidden_radiance_revealed_through_bathing
+  label: hidden radiance revealed through bathing
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Concealed radiance revealed through bathing suggests manifestation of
+    hidden sacred, royal, or supernatural identity.
+  cautions: If the radiance marks beauty, marriage eligibility, or recognition rather
+    than divine manifestation, sacred_love or recognition_tokens_hidden_identity may
+    be better.
+  suggested_aliases:
+  - concealed_radiance_revealed_by_bathing
+  - bathing_reveals_hidden_splendor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hidden-raiders-discovered-and-encircled
+  motif_id: hidden_raiders_discovered_and_encircled
+  label: hidden raiders discovered and encircled
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a warfare/raid episode and can be parked under sacred
+    combat if retained.
+  cautions: Likely episode-specific tactical detail; exclude or keep as evidence note
+    unless source shows recurrent ritual or sacred-war function.
+  suggested_aliases:
+  - raiders_discovered_and_surrounded
+  - hidden_raiding_party_encircled
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence hidden/revealed episode labels; several should
+  remain provisional until passage evidence distinguishes narrative function from
+  incidental plot detail.
+- Avoid treating hiddenness alone as a motif family; map by function such as otherworld
+  locality, recognition, power object, sacred manifestation, or combat.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific items with hidden
+    beings or original inhabitants need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3535
+  input_sha256: 2c64a8a1fa852bea256c37eeee4e78a944c2a58b48f0b1e240c1eaa006c25e21
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3010
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.royal-figure-appearing-as-mendicant-yet-marked-by-radiance
+  motif_id: royal_figure_appearing_as_mendicant_yet_marked_by_radiance
+  label: royal figure appearing as mendicant yet marked by radiance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: A disguised or humbled royal figure still marked by radiance may express
+    hidden sovereignty or sacred kingship.
+  cautions: Could instead be a passage-specific recognition, Buddhist renunciation,
+    mendicant holiness, or visual-description motif; one occurrence needs source review.
+  suggested_aliases:
+  - hidden_royal_radiance
+  - royal_disguise_as_mendicant
+  - radiant_mendicant_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-funerary-veneration-in-a-preserved-house
+  motif_id: royal_funerary_veneration_in_a_preserved_house
+  label: Royal funerary veneration in a preserved house
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Funerary veneration of a royal dead person in a maintained house fits
+    ritual care of ancestors or dead souls.
+  cautions: If the preserved house functions mainly as royal memorial architecture,
+    heroic_funeral_rites or royal_legitimacy may be secondary; preserve Malagasy specificity.
+  suggested_aliases:
+  - royal_ancestor_veneration_in_preserved_house
+  - preserved_house_for_royal_dead
+  - royal_mortuary_house_veneration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-newborn-threatened-by-recurring-supernatural-predator
+  motif_id: royal_newborn_threatened_by_recurring_supernatural_predator
+  label: royal newborn threatened by recurring supernatural predator
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A royal newborn endangered by a supernatural predator fits the threatened
+    extraordinary child pattern.
+  cautions: If the predator or recurring attack is the main motif, threshold_guardian,
+    divine_judgment, or monster-combat context may be relevant; one occurrence is
+    specific.
+  suggested_aliases:
+  - threatened_royal_newborn
+  - supernatural_predator_threatens_newborn
+  - royal_infant_under_supernatural_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-patronage-prompted-by-monastic-suffering
+  motif_id: royal_patronage_prompted_by_monastic_suffering
+  label: Royal patronage prompted by monastic suffering
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Royal support given in response to monastic suffering is a reciprocal
+    sacred-social exchange between ruler and religious community.
+  cautions: Could also index under royal_legitimacy if patronage authorizes kingship,
+    or sacred_law if framed as moral duty; verify narrative function.
+  suggested_aliases:
+  - royal_patronage_of_suffering_monastics
+  - king_supports_afflicted_monks
+  - patronage_as_response_to_monastic_suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-presence-marked-by-collective-signs
+  motif_id: royal_presence_marked_by_collective_signs
+  label: royal presence marked by collective signs
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: Signs marking royal presence may signal sacred kingship or ruler charisma
+    recognized by the community.
+  cautions: The label is abstract; signs could be ritual, bodily, environmental, or
+    textual. Needs source evidence before stable mapping.
+  suggested_aliases:
+  - collective_signs_of_royal_presence
+  - royal_presence_signaled_by_communal_marks
+  - signs_attending_the_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-statue-bearing-astral-emblems
+  motif_id: royal_statue_bearing_astral_emblems
+  label: royal statue bearing astral emblems
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Astral emblems on a royal statue likely encode cosmic sanction and royal
+    authority.
+  cautions: If the statue is a cult image or animated object, sacred_craft or sacred_treasures
+    may be secondary; avoid over-reading without inscriptional context.
+  suggested_aliases:
+  - astral_emblems_on_royal_statue
+  - royal_image_with_celestial_symbols
+  - cosmic_emblems_of_kingship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-summons-to-inspect-an-unusual-bodily-mark
+  motif_id: royal_summons_to_inspect_an_unusual_bodily_mark
+  label: royal summons to inspect an unusual bodily mark
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: An unusual bodily mark inspected by royal summons functions as a bodily
+    sign used for recognition or status verification.
+  cautions: If the mark indicates sacred birth or destiny rather than identity proof,
+    miraculous_child may be a better secondary mapping.
+  suggested_aliases:
+  - bodily_mark_as_recognition_sign
+  - royal_inspection_of_bodily_mark
+  - unusual_bodily_mark_proves_identity_or_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.runaway-dependent-seeks-protection-from-another-household
+  motif_id: runaway_dependent_seeks_protection_from_another_household
+  label: runaway dependent seeks protection from another household
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: uncertain
+  confidence: low
+  rationale: Seeking protection in another household may invoke guest-right, refuge,
+    or hospitality obligations.
+  cautions: Could be a legal-social episode, household conflict detail, fosterage/dependency
+    issue, or passage artifact rather than a recurring mythic motif.
+  suggested_aliases:
+  - runaway_dependent_seeks_household_refuge
+  - dependent_seeks_protection_with_host
+  - refuge_in_another_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacralized-boundary-marker
+  motif_id: sacralized_boundary_marker
+  label: Sacralized boundary marker
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred boundary marker regulates land, threshold, and social order
+    through religious sanction.
+  cautions: Could support threshold_guardian if personified or guarded, or royal_legitimacy
+    if tied to state authority; Roman boundary cult may need local notes.
+  suggested_aliases:
+  - sacred_boundary_marker
+  - holy_land_boundary_marker
+  - sacral_boundary_stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacralized-land-measurement-and-boundary-record
+  motif_id: sacralized_land_measurement_and_boundary_record
+  label: sacralized land measurement and boundary record
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacralized measurement and recorded boundaries fit sacred law as divine
+    or ritual regulation of property and social order.
+  cautions: If the record is primarily an inscribed power object, sacred_treasures
+    or royal_legitimacy may be secondary; preserve legal-document context.
+  suggested_aliases:
+  - sacred_land_measurement
+  - sacral_boundary_record
+  - divinely_sanctioned_land_boundary_record
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence royal or boundary-context motifs;
+  suggested placements should remain provisional until passage evidence confirms narrative
+  function.
+- Boundary-marker items may indicate a recurring sacred-boundary/legal-land subgroup,
+  but current evidence can be held under sacred_law without creating a new group.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3010
+  input_sha256: 4e3674d710a44dedc64333da254b1ba160bcc6652c74fe031c1085019b507d09
+

@@ -1,0 +1,323 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2942
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fraternity-curing-ceremony-over-multiple-nights
+  motif_id: fraternity_curing_ceremony_over_multiple_nights
+  label: Fraternity curing ceremony over multiple nights
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label indicates a culturally specific curing rite, but the available
+    taxonomy has no clear healing-ceremony group distinct from sacrifice, sacred law,
+    or divine intervention.
+  cautions: Single occurrence and culturally specific ritual context; review source
+    evidence before reducing to generic purification, healing, or initiation.
+  suggested_aliases:
+  - multi-night curing ceremony
+  - fraternity healing rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacrifice
+    - divine_intervention
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.frightened-intruder-flees-after-seeing-a-hidden-occupant-s-hand
+  motif_id: frightened_intruder_flees_after_seeing_a_hidden_occupant_s_hand
+  label: frightened intruder flees after seeing a hidden occupant's hand
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is an episode-specific fright-and-flight detail rather than
+    a durable symbolic motif or established group pattern.
+  cautions: If the hidden hand is supernatural, taboo, or functions as apotropaic
+    deception, source evidence could justify review under trickster or sacred_law.
+  suggested_aliases:
+  - intruder frightened by hidden occupant
+  - hidden hand frightens intruder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.frog-people-connected-with-a-spring
+  motif_id: frog_people_connected_with_a_spring
+  label: Frog-people connected with a spring
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A spring-associated nonhuman people plausibly belongs to sacred water
+    places and water-linked beings.
+  cautions: Could instead fit otherworld, shapeshifter, local spirit, or origin traditions
+    depending on whether the frog-people are spirits, transformed humans, ancestors,
+    or place beings.
+  suggested_aliases:
+  - spring-associated frog people
+  - frog beings at a spring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - shapeshifter
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.frontier-threshold-marked-by-abyss-and-single-bridge
+  motif_id: frontier_threshold_marked_by_abyss_and_single_bridge
+  label: frontier threshold marked by abyss and single bridge
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The abyss and single bridge mark a perilous boundary that must be crossed,
+    fitting threshold ordeal logic even without a guardian figure.
+  cautions: If the passage emphasizes journey structure, hero_journey or descent may
+    be secondary; if the bridge is crafted or sacred architecture, sacred_craft may
+    be relevant.
+  suggested_aliases:
+  - single bridge over abyss as threshold
+  - abyss bridge frontier
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - descent
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fruitful-multiplication-of-a-migrant-household-in-foreign-land
+  motif_id: fruitful_multiplication_of_a_migrant_household_in_foreign_land
+  label: Fruitful multiplication of a migrant household in foreign land
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: In Jewish-Christian context, household multiplication in a foreign land
+    often functions as fulfillment of a divine promise or covenantal blessing.
+  cautions: Confirm that the passage frames multiplication as sacred promise rather
+    than demographic or migration detail; otherwise exclude as contextual narrative
+    detail.
+  suggested_aliases:
+  - multiplication of migrant household
+  - foreign-land fertility blessing
+  - covenantal multiplication in exile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - royal_legitimacy
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fugitive-finds-refuge-in-a-wilderness-cave
+  motif_id: fugitive_finds_refuge_in_a_wilderness_cave
+  label: fugitive finds refuge in a wilderness cave
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cave used as refuge during pursuit functions as a protective enclosure,
+    matching existing cave-refuge normalization under sacred_vessel.
+  cautions: If the cave is primarily an underworld, initiation, or revelation site,
+    descent or theophany may be better secondary mappings.
+  suggested_aliases:
+  - cave refuge during pursuit
+  - wilderness cave refuge
+  - fugitive cave refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - descent
+    - hero_journey
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fugitive-refuge-in-a-cavern-with-hidden-habitation
+  motif_id: fugitive_refuge_in_a_cavern_with_hidden_habitation
+  label: fugitive refuge in a cavern with hidden habitation
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: low
+  rationale: A cavern refuge containing hidden habitation may indicate entry into
+    a concealed nonordinary or enchanted realm.
+  cautions: If hidden habitation is ordinary shelter rather than otherworldly space,
+    sacred_vessel or hero_journey may be a better placement; source context is needed.
+  suggested_aliases:
+  - hidden cavern habitation refuge
+  - fugitive refuge in inhabited cavern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    - descent
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fugitives-hidden-in-a-house-are-exposed-by-burning
+  motif_id: fugitives_hidden_in_a_house_are_exposed_by_burning
+  label: Fugitives hidden in a house are exposed by burning
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a tactical plot incident involving concealed fugitives
+    and fire exposure, not a broad symbolic motif.
+  cautions: If the burning is ritual ordeal, divine judgment, or world/order destruction,
+    review under divine_judgment or sacred_combat; otherwise preserve only as evidence
+    detail.
+  suggested_aliases:
+  - burning exposes hidden fugitives
+  - fugitives discovered by burning house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_judgment
+    - sacred_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fulfilled-prediction-of-future-iron-bearing-strangers
+  motif_id: fulfilled_prediction_of_future_iron_bearing_strangers
+  label: Fulfilled prediction of future iron-bearing strangers
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is a prediction that is later fulfilled, with iron-bearing
+    strangers as the predicted content.
+  cautions: This may encode culturally sensitive colonial-contact memory; do not treat
+    placement as a transmission claim, and preserve the specific historical content
+    in notes.
+  suggested_aliases:
+  - fulfilled prophecy of iron-bearing strangers
+  - prediction of future strangers with iron
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - divine_judgment
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-marked-by-martial-gun-salutes
+  motif_id: funeral_marked_by_martial_gun_salutes
+  label: funeral marked by martial gun salutes
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Gun salutes are martial funerary honors, fitting rites and memorialization
+    for a dead warrior, ruler, or honored person.
+  cautions: If the deceased is not heroic, royal, or martial, this may be a local
+    funerary custom rather than a heroic funeral motif; review cultural context.
+  suggested_aliases:
+  - martial funeral gun salute
+  - gun salutes at funeral
+  - funerary martial salute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - divine_warrior
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence, over-specific spatial or ritual
+  labels; suggested placements should be treated as provisional evidence organization
+  rather than taxonomy changes.
+- For culturally specific Indigenous or local ritual labels, source review is needed
+  before collapsing them into broad comparative groups.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2942
+  input_sha256: aaa499faa1d399a86d4a2f74ea35f21c95327e1c0efe27496ff177e679555b6d
+

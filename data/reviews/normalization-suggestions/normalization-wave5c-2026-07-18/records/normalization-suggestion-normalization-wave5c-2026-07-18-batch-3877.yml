@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3877
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.religious-brotherhood-overriding-caste-distinction
+  motif_id: religious_brotherhood_overriding_caste_distinction
+  label: religious brotherhood overriding caste distinction
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes sacred community ethics overriding inherited social
+    hierarchy, fitting religious social order and ethical obligation.
+  cautions: Single occurrence and Sikh caste context need careful review; could also
+    belong under covenant or sacred_exchange if framed as communal bond rather than
+    law.
+  suggested_aliases:
+  - religious_brotherhood_overrides_social_rank
+  - sacred_community_overrides_caste_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-charity-and-communal-obligation
+  motif_id: religious_charity_and_communal_obligation
+  label: religious charity and communal obligation
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Charity and communal obligation express reciprocal sacred duty and social
+    giving within a community.
+  cautions: May fit sacred_law if the passage emphasizes rules or moral commands;
+    review local Chaco context before broad indexing.
+  suggested_aliases:
+  - communal_charity_as_sacred_obligation
+  - religious_giving_and_communal_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-chronology-synchronized-with-royal-reigns
+  motif_id: religious_chronology_synchronized_with_royal_reigns
+  label: Religious chronology synchronized with royal reigns
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe sacred time organized through kingship, but it
+    may also be a historiographic dating convention.
+  cautions: Likely depends on whether the source treats chronology as sacred pattern
+    or merely textual/historical apparatus; exclude as meta if only editorial chronology.
+  suggested_aliases:
+  - religious_time_aligned_with_royal_reigns
+  - sacred_chronology_by_kings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-community-follows-its-lay-support-base
+  motif_id: religious_community_follows_its_lay_support_base
+  label: Religious community follows its lay support base
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns institutional dependence between monastic and lay
+    communities, not a clear existing symbolic or narrative pattern.
+  cautions: May be a social-historical passage detail rather than motif; could map
+    to sacred_exchange only if reciprocal lay-monastic support is explicit.
+  suggested_aliases:
+  - monastic_community_follows_lay_support
+  - religious_institution_dependent_on_lay_support
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-community-separated-from-an-individual-offender-s-acts
+  motif_id: religious_community_separated_from_an_individual_offender_s_acts
+  label: religious community separated from an individual offender’s acts
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Separating communal responsibility from an offender’s acts is a legal-ethical
+    rule preserving sacred social order.
+  cautions: Could be too specific or doctrinal; if the passage is institutional apologetic
+    rather than motif, treat as evidence note.
+  suggested_aliases:
+  - community_not_implicated_by_individual_offense
+  - individual_offense_separated_from_religious_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-controversy-culminating-in-council-and-schism
+  motif_id: religious_controversy_culminating_in_council_and_schism
+  label: Religious controversy culminating in council and schism
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Council and schism are institutional-historical events that may not function
+    as a reusable mythic motif.
+  cautions: If framed as sacred law dispute or covenant rupture, covenant/sacred_law
+    may be relevant; otherwise likely a historical or textual passage artifact.
+  suggested_aliases:
+  - religious_dispute_leads_to_council_and_schism
+  - council_resolves_or_marks_religious_schism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-conversion-and-displacement-of-former-idols
+  motif_id: religious_conversion_and_displacement_of_former_idols
+  label: religious conversion and displacement of former idols
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Conversion with rejection or displacement of former idols fits exclusive
+    sacred allegiance and covenantal reorientation.
+  cautions: Review cultural context and avoid assuming polemical categories; if focused
+    on objects rather than allegiance, sacred_treasures or sacred_law may be secondary.
+  suggested_aliases:
+  - conversion_displaces_former_idols
+  - exclusive_devotion_replaces_idols
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-conversion-as-a-turning-point-in-civic-material-culture
+  motif_id: religious_conversion_as_a_turning_point_in_civic_material_culture
+  label: Religious conversion as a turning point in civic material culture
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes broad social-material change after conversion rather
+    than a clear motif in the current taxonomy.
+  cautions: May be historical interpretation or commentary artifact; map only if the
+    passage has a repeated narrative structure such as covenantal reform, sacred law
+    change, or idol displacement.
+  suggested_aliases:
+  - conversion_changes_civic_material_culture
+  - religious_conversion_marks_civic_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-deception-through-temporary-conversion
+  motif_id: religious_deception_through_temporary_conversion
+  label: Religious deception through temporary conversion
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Temporary conversion used deceptively functions as strategic boundary-crossing
+    and false identity in a religious setting.
+  cautions: Could be culturally sensitive and may instead concern hypocrisy, betrayal,
+    or sacred law depending on source evidence; human review recommended.
+  suggested_aliases:
+  - feigned_conversion_as_deception
+  - temporary_conversion_used_as_stratagem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-endurance-depends-on-correct-practice
+  motif_id: religious_endurance_depends_on_correct_practice
+  label: religious endurance depends on correct practice
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The endurance of a religious order through correct practice fits sacred
+    discipline, rule, and social-religious order.
+  cautions: May be doctrinal or institutional commentary rather than narrative motif;
+    if framed as ritual reciprocity or covenantal maintenance, sacred_exchange or
+    covenant may be secondary.
+  suggested_aliases:
+  - correct_practice_preserves_religion
+  - religious_order_endures_through_right_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern institutional religious history or doctrine
+  rather than symbolic narrative motifs; human review should distinguish motif evidence
+  from historiographic or commentary artifacts.
+- Where conversion or caste/social hierarchy appears, preserve local religious and
+  cultural specificity and avoid using taxonomy placement as a transmission or value
+  claim.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; low-occurrence institutional labels need source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3877
+  input_sha256: 82d9e29099874e7dbd9ccc262ac5766bbc44a47dfdbbd2c3162e74f174e66988
+

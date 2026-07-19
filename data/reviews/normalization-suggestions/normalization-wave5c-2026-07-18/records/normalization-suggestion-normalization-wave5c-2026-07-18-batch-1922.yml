@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1922
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mother-kills-child-and-laments
+  motif_id: mother_kills_child_and_laments
+  label: Mother kills child and laments
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: over_specific_label
+  confidence: low
+  rationale: The lament after child-killing fits tragic mourning, but the core action
+    may be vengeance, madness, sacrifice, or household violence depending on source
+    context.
+  cautions: Single occurrence and culturally/contextually specific; do not normalize
+    only to mourning if the passage emphasizes filicide as revenge or punishment.
+  suggested_aliases:
+  - filicidal_mother_laments_child
+  - maternal_child_slaying_followed_by_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-kills-daughter-from-envy-of-her-husband
+  motif_id: mother_kills_daughter_from_envy_of_her_husband
+  label: Mother kills daughter from envy of her husband
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label centers on envy leading to lethal wrongdoing, which may fit
+    moral reckoning if the passage includes consequence or punishment.
+  cautions: May instead be a kinship-violence or jealousy tale detail; source evidence
+    is needed before placing under judgment, sacred_love, or a future household-violence
+    cluster.
+  suggested_aliases:
+  - maternal_envy_leads_to_daughter_slaying
+  - mother_kills_daughter_from_marital_envy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-kills-shared-children-to-avenge-slain-kin
+  motif_id: mother_kills_shared_children_to_avenge_slain_kin
+  label: mother kills shared children to avenge slain kin
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The child-killing is framed as vengeance for slain kin, aligning with
+    feud, revenge, and combat-driven social violence already grouped under sacred_combat.
+  cautions: If the passage foregrounds maternal grief or kinship tragedy more than
+    feud vengeance, lament_and_mourning should be a secondary or alternate review
+    placement.
+  suggested_aliases:
+  - filicide_as_kin_vengeance
+  - mother_avenges_slain_kin_by_killing_children
+  - child_slaying_as_blood_feud_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-mocked-for-anomalous-children
+  motif_id: mother_mocked_for_anomalous_children
+  label: mother mocked for anomalous children
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Social mockery of a mother because of unusual children fits the extraordinary-child/sacred-birth
+    complex when the children are anomalous or destiny-marked.
+  cautions: If the children are merely socially stigmatized rather than miraculous,
+    monstrous, or destiny-marked, this may be too contextual for pattern queries.
+  suggested_aliases:
+  - mother_shamed_for_unusual_children
+  - mockery_of_mother_of_anomalous_children
+  - stigmatized_mother_of_marvelous_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-or-stepmother-seeks-to-displace-stepson-for-her-own-children
+  motif_id: mother_or_stepmother_seeks_to_displace_stepson_for_her_own_children
+  label: mother or stepmother seeks to displace stepson for her own children
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: functional_variant
+  confidence: high
+  rationale: A mother or stepmother attempting to displace a stepson for her own children
+    clearly matches household rivalry and persecution by a rival caretaker.
+  cautions: If the evidence centers on succession politics rather than child persecution,
+    royal_legitimacy may be an important secondary mapping.
+  suggested_aliases:
+  - stepmother_displaces_stepson_for_own_children
+  - rival_mother_seeks_stepson_s_displacement
+  - maternal_succession_rivalry_against_stepson
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-protects-monstrous-child
+  motif_id: mother_protects_monstrous_child
+  label: mother protects monstrous child
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Maternal protection of an extraordinary or monstrous child fits the broader
+    protected unusual child pattern.
+  cautions: The term monstrous may carry culturally sensitive outsider classification;
+    review source wording and consider shapeshifter or threshold/monster motifs if
+    the child’s nonhuman nature is central.
+  suggested_aliases:
+  - mother_protects_anomalous_child
+  - maternal_protection_of_monstrous_child
+  - protected_extraordinary_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-restores-disruptive-wind-to-upright-stillness
+  motif_id: mother_restores_disruptive_wind_to_upright_stillness
+  label: Mother restores disruptive wind to upright stillness
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A mother figure restoring a disruptive natural force may be divine or
+    spirit intervention in natural order, but the label is opaque without context.
+  cautions: Could belong to nature/cosmos, mother-goddess, trickster repair, or be
+    a passage-specific episode; review culturally specific wind-being concepts before
+    mapping.
+  suggested_aliases:
+  - maternal_restoration_of_disruptive_wind
+  - mother_sets_wind_upright
+  - restoration_of_wind_to_stillness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-s-body-as-source-of-staple-crops-misread-as-witchcraft
+  motif_id: mother_s_body_as_source_of_staple_crops_misread_as_witchcraft
+  label: Mother's body as source of staple crops, misread as witchcraft
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: primordial_sacrifice
+  suggested_group_label: Primordial Sacrifice and Dismemberment
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mother’s body producing staple crops fits body-as-source-of-food/world
+    substance, close to primordial sacrifice and body-as-landscape or abundance formation.
+  cautions: If the mother is not killed or sacrificed, cosmic_origin, mother_goddess,
+    or sacred_substance may be better secondary mappings; preserve the witchcraft
+    misreading as evidence detail.
+  suggested_aliases:
+  - mother_body_generates_staple_crops
+  - maternal_body_as_crop_source
+  - food_crops_from_mother_s_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-s-grief-turned-to-child-slaying
+  motif_id: mother_s_grief_turned_to_child_slaying
+  label: Mother's grief turned to child-slaying
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explicitly frames grief as the motive that transforms into
+    violent child-slaying, fitting mourning as a destructive force.
+  cautions: If the passage is part of feud vengeance, sacred_combat may be equally
+    or more important; keep the filicide detail granular.
+  suggested_aliases:
+  - grief_transformed_into_child_slaying
+  - maternal_grief_leads_to_filicide
+  - mourning_turns_to_kin_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mother-s-love-for-her-son
+  motif_id: mother_s_love_for_her_son
+  label: Mother's love for her son
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: mother_goddess
+  suggested_group_label: Sacred Feminine and Mother Goddess
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Maternal love and protection are covered by the sacred feminine/mother-goddess
+    field when the mother has divine, sacred, or mythic significance.
+  cautions: If this is only an ordinary affective passage with no sacred or narrative
+    function, it may be too broad for pattern queries; divine_parent_child may be
+    secondary if the son has sacred destiny.
+  suggested_aliases:
+  - maternal_love_for_son
+  - motherly_love_for_son
+  - protective_maternal_love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern filicide or intrafamilial violence and are single-occurrence,
+  context-heavy items; human review should decide whether to preserve as evidence
+  details rather than broad motifs.
+- For mother/child labels, distinguish ordinary kinship emotion from sacred maternity,
+  miraculous-child destiny, jealous-stepmother persecution, feud vengeance, and lament
+  functions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; source context is especially needed for culturally
+    specific maternal violence and anomalous-child labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1922
+  input_sha256: ddaf503e9369b68b65b1a1d05dc7b036bf340cfdea57b24c6c2403583baf3cc2
+

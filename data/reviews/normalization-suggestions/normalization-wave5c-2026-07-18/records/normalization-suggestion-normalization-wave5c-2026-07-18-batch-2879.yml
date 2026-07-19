@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2879
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.young-warrior-illuminated-by-celestial-simile
+  motif_id: young_warrior_illuminated_by_celestial_simile
+  label: Young warrior illuminated by celestial simile
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as poetic description or simile rather than a distinct
+    narrative motif.
+  cautions: If the passage uses celestial radiance as divine empowerment or theophany,
+    reconsider under divine_warrior or sacred_fire; otherwise preserve only as evidence
+    detail.
+  suggested_aliases:
+  - celestial_simile_for_young_warrior
+  - warrior_illumined_by_celestial_comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.younger-sibling-rewarded-for-kindness-pattern
+  motif_id: younger_sibling_rewarded_for_kindness_pattern
+  label: younger sibling rewarded for kindness pattern
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kindness rewarded after a sibling contrast fits moral consequence and
+    evaluation of conduct.
+  cautions: Could instead belong to a future sibling-rivalry or kindness-reward folktale
+    group if many similar labels recur; source context should confirm sacred or moral
+    reckoning rather than plot summary.
+  suggested_aliases:
+  - younger_sibling_rewarded_for_kindness
+  - kind_younger_sibling_rewarded
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.younger-sibling-sent-first-as-tester
+  motif_id: younger_sibling_sent_first_as_tester
+  label: Younger sibling sent first as tester
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe sibling hierarchy, ordeal testing, or an episode-specific
+    plot device.
+  cautions: Do not map to initiation unless the test transforms status or knowledge;
+    do not map to sacred_twins unless sibling-pair structure is central.
+  suggested_aliases:
+  - younger_sibling_as_tester
+  - younger_sibling_sent_ahead_to_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youth-defeats-a-multi-headed-monster
+  motif_id: youth_defeats_a_multi_headed_monster
+  label: youth defeats a multi-headed monster
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A youthful hero defeating a monstrous adversary is a sacred combat or
+    monster-slaying victory pattern.
+  cautions: If the emphasis is childhood destiny rather than combat, miraculous_child
+    may be a secondary relation; preserve multi-headed monster detail as local evidence.
+  suggested_aliases:
+  - youth_slaying_multi_headed_monster
+  - young_hero_defeats_many_headed_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youthful-hero-or-boy-adventure-title-pattern
+  motif_id: youthful_hero_or_boy_adventure_title_pattern
+  label: youthful hero or boy adventure title pattern
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'title pattern' indicates a textual or cataloging artifact,
+    not a motif in the story world.
+  cautions: If source passages contain actual youthful hero ordeals, index those concrete
+    events separately under hero_journey, initiation, or divine_warrior.
+  suggested_aliases:
+  - boy_adventure_title_pattern
+  - youthful_hero_title_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.headdress-marked-canoe-people
+  motif_id: headdress_marked_canoe_people
+  label: headdress-marked canoe people
+  occurrences: 2
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may identify a culturally specific people, marker, costume,
+    or episode rather than a general motif.
+  cautions: Culturally specific Northwest Coast imagery should be reviewed with source
+    evidence; avoid flattening headdress and canoe identity markers into generic sacred
+    objects or travel motifs.
+  suggested_aliases:
+  - canoe_people_marked_by_headdresses
+  - headdress_marked_people_in_canoes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.island-of-imitation
+  motif_id: island_of_imitation
+  label: island of imitation
+  occurrences: 2
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A named uncanny island with imitative behavior fits the enchanted otherworld/island
+    complex.
+  cautions: If the motif is primarily envy or failed imitation, pride_and_downfall
+    may be secondary; if merely a place-name heading, exclude as textual artifact.
+  suggested_aliases:
+  - enchanted_island_of_imitation
+  - imitative_otherworld_island
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-sleeper-on-a-deserted-island
+  motif_id: abandoned_sleeper_on_a_deserted_island
+  label: abandoned sleeper on a deserted island
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Abandonment in an isolated place can function as a journey ordeal or
+    separation from ordinary society.
+  cautions: Could instead be betrayal_violated_trust if abandonment by companions
+    is central, or otherworld if the island is enchanted; single occurrence may be
+    over-specific.
+  suggested_aliases:
+  - sleeper_abandoned_on_deserted_island
+  - abandoned_sleeping_companion_on_island
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandonment-of-dependent-elder-during-group-movement
+  motif_id: abandonment_of_dependent_elder_during_group_movement
+  label: abandonment of dependent elder during group movement
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines social care, migration, and elder abandonment without
+    clear symbolic or narrative function.
+  cautions: May fit sacred_law/social care if framed as moral obligation, divine_judgment
+    if punished, or hero_journey if part of migration ordeal; culturally sensitive
+    context is needed.
+  suggested_aliases:
+  - dependent_elder_abandoned_during_migration
+  - elder_abandoned_during_group_movement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandonment-of-the-underestimated-companion-in-a-cave
+  motif_id: abandonment_of_the_underestimated_companion_in_a_cave
+  label: abandonment of the underestimated companion in a cave
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Abandoning a companion foregrounds violated trust; the cave is the setting
+    of the betrayal.
+  cautions: If the cave functions as transformative descent or hidden threshold, descent/initiation
+    may be secondary; if merely episode-specific, preserve as evidence detail.
+  suggested_aliases:
+  - underestimated_companion_abandoned_in_cave
+  - companion_betrayed_by_abandonment_in_cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; suggested placements
+  should be treated as provisional evidence indexing rather than taxonomy edits.
+- Labels containing 'title pattern' or poetic simile language are likely textual artifacts
+  unless passage evidence shows a recurring narrative function.
+- Culturally specific identity markers, especially Northwest Coast and Southwest items,
+  should receive human review before broad normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for batch 2879; human review recommended
+    for culturally specific and ambiguous single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2879
+  input_sha256: 8c1822b190655099a227154a8e02615384cbab511ec152ae2fade6caea8a167a
+

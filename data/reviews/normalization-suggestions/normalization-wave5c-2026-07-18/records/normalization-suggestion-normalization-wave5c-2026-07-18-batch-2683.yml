@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2683
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fall-of-the-heroic-youth-before-elders
+  motif_id: fall_of_the_heroic_youth_before_elders
+  label: fall of the heroic youth before elders
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: low
+  rationale: A heroic youth cut down before elders most likely functions as tragic
+    death and mourning rather than victory itself.
+  cautions: Single occurrence and context-dependent; if the passage emphasizes combat
+    duty or battlefield honor, divine_warrior may be secondary.
+  suggested_aliases:
+  - young_warrior_cut_down_before_elders
+  - fallen_heroic_youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-hero-under-enemy-s-dagger
+  motif_id: fallen_hero_under_enemy_s_dagger
+  label: fallen hero under enemy's dagger
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a heroic combat death scene, fitting the warrior
+    death and sacred combat field.
+  cautions: May be only an episode detail; if the focus is grief, burial, or lament,
+    use lament_and_mourning or heroic_funeral_rites instead.
+  suggested_aliases:
+  - fallen_hero_threatened_by_enemy_weapon
+  - heroic_death_under_enemy_dagger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-warrior-magnified-into-landscape-upheaval
+  motif_id: fallen_warrior_magnified_into_landscape_upheaval
+  label: Fallen warrior magnified into landscape upheaval
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A fallen warrior becoming or causing landscape upheaval is postmortem
+    transformation with cosmic or landscape scale.
+  cautions: If the body literally forms terrain at creation, primordial_sacrifice
+    or cosmic_origin may be relevant; if it is only hyperbolic simile, exclude or
+    preserve as evidence detail.
+  suggested_aliases:
+  - fallen_warrior_as_landscape_upheaval
+  - heroic_death_transforms_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-youths-who-aid-the-hero-during-his-absence
+  motif_id: fallen_youths_who_aid_the_hero_during_his_absence
+  label: fallen youths who aid the hero during his absence
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate dead companions, substitute defenders, or remembered
+    fallen youths aiding a hero, but the agency is unclear.
+  cautions: If the fallen youths are active dead, restless_dead_haunting_vengeance
+    or divine_intervention may fit; if they are merely companions who die in the hero's
+    absence, heroic_funeral_rites or lament_and_mourning may fit.
+  suggested_aliases:
+  - fallen_youths_aid_absent_hero
+  - dead_youths_assist_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-accusation-of-harmful-incantations-leading-to-violence
+  motif_id: false_accusation_of_harmful_incantations_leading_to_violence
+  label: false accusation of harmful incantations leading to violence
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Existing divine_judgment children include false accusation patterns;
+    this variant centers on wrongful charge and violent consequence.
+  cautions: Culturally sensitive because it concerns harmful incantations; review
+    source evidence to distinguish accusation, sorcery belief, legal judgment, and
+    interpersonal violence.
+  suggested_aliases:
+  - false_accusation_of_sorcery_leading_to_violence
+  - wrongful_charge_of_harmful_magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-claim-of-victory-after-evasion
+  motif_id: false_claim_of_victory_after_evasion
+  label: False claim of victory after evasion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: low
+  rationale: A boastful or deceptive claim of victory after avoiding danger fits false
+    confidence and prideful misrepresentation.
+  cautions: If the passage is mainly comic deception or fable strategy, trickster
+    may fit better; if there is no downfall or humbling, this may be too specific
+    for pattern queries.
+  suggested_aliases:
+  - boastful_false_victory_after_evasion
+  - coward_claims_victory_after_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-courage-toward-an-absent-danger
+  motif_id: false_courage_toward_an_absent_danger
+  label: false courage toward an absent danger
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Pretended courage when danger is absent is a false-confidence or boastful-challenger
+    pattern.
+  cautions: May be a comic characterization detail rather than a mythic motif; map
+    to sacred_combat only if embedded in a formal combat scene.
+  suggested_aliases:
+  - bravery_only_when_danger_is_absent
+  - boastful_courage_after_threat_has_passed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-credit-for-heroic-deeds
+  motif_id: false_credit_for_heroic_deeds
+  label: False credit for heroic deeds
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: False credit for deeds usually creates an identity-proof problem where
+    the true actor must be recognized or vindicated.
+  cautions: If the passage centers on moral punishment of the impostor, divine_judgment
+    may be secondary; if it is battlefield honor, divine_warrior may also apply.
+  suggested_aliases:
+  - impostor_claims_heroic_deeds
+  - false_claimant_of_heroic_deeds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-defender-and-hidden-enemy-within-the-allied-side
+  motif_id: false_defender_and_hidden_enemy_within_the_allied_side
+  label: false defender and hidden enemy within the allied side
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supposed defender who is secretly an enemy turns on violated alliance
+    and hidden betrayal.
+  cautions: Could also belong to sacred_combat if the emphasis is military stratagem;
+    preserve the hidden-enemy detail as evidence.
+  suggested_aliases:
+  - hidden_enemy_within_allies
+  - false_defender_as_betrayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-enemy-alarm-used-to-obtain-or-spend-resources
+  motif_id: false_enemy_alarm_used_to_obtain_or_spend_resources
+  label: false enemy alarm used to obtain or spend resources
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fabricated enemy alarm used for gain is a deception or trickster-stratagem
+    pattern rather than true warfare.
+  cautions: If the point is misuse of communal resources and punishment, divine_judgment
+    or sacred_law may be secondary; label may be highly contextual.
+  suggested_aliases:
+  - false_war_alarm_for_gain
+  - deceptive_enemy_alarm_to_obtain_resources
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence combat-scene details; suggested placements
+  are provisional and should not be promoted as canonical motifs without recurrence.
+- For false-claim and false-courage items, review whether the passage includes humbling
+  or punishment before retaining pride_and_downfall rather than excluding as characterization
+  detail.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch contains low-recurrence conflict labels with several context-dependent
+    placements.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2683
+  input_sha256: c5d4bf91b1818e516a03ece49b4b09cf0dc641c7eff75dba82654c45648e724d
+

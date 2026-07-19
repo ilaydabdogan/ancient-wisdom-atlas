@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1133
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-image-covered-yet-still-visible
+  motif_id: sacred_image_covered_yet_still_visible
+  label: Sacred image covered yet still visible
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe veiled-yet-manifest sacred presence, but could
+    also be an object-handling or textual image detail.
+  cautions: Single occurrence; Sufi imagery may be symbolic or poetic rather than
+    ritual treatment of an image. Review source evidence before mapping.
+  suggested_aliases:
+  - veiled_sacred_image
+  - covered_sacred_image_still_revealed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-imageless-flame
+  motif_id: sacred_imageless_flame
+  label: Sacred imageless flame
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A sacred flame without anthropomorphic image fits fire as divine presence
+    and ritual focus.
+  cautions: Preserve imageless/aniconic aspect as evidence; do not infer world-destroying
+    fire or sacrifice unless present.
+  suggested_aliases:
+  - aniconic_sacred_flame
+  - imageless_divine_flame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-images-cast-into-water-to-determine-a-settlement-site
+  motif_id: sacred_images_cast_into_water_to_determine_a_settlement_site
+  label: Sacred images cast into water to determine a settlement site
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred images are used ritually to receive divine guidance about where
+    a community should settle.
+  cautions: Also touches sacred_waters, sacred_treasures, and royal/civic foundation;
+    source context should decide secondary indexing.
+  suggested_aliases:
+  - sacred_images_determine_settlement_site
+  - divine_guidance_by_images_cast_into_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-images-violated-by-blood
+  motif_id: sacred_images_violated_by_blood
+  label: sacred images violated by blood
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests pollution or violation of a sacred object by blood,
+    fitting purity law only if ritual danger is explicit.
+  cautions: Single occurrence; may be an episode-specific desecration, polemical description,
+    or violence detail rather than a reusable motif.
+  suggested_aliases:
+  - blood_violation_of_sacred_images
+  - sacred_image_polluted_by_blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-implement-used-to-recover-lost-possessions
+  motif_id: sacred_implement_used_to_recover_lost_possessions
+  label: Sacred implement used to recover lost possessions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred implement with practical recovery power fits power objects that
+    confer sacred ability on the bearer.
+  cautions: Culturally specific ritual object; preserve local function and avoid reducing
+    it to generic magic tool without source review.
+  suggested_aliases:
+  - sacred_tool_recovers_lost_possessions
+  - power_object_for_recovery_of_lost_goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-implements-from-the-lower-world
+  motif_id: sacred_implements_from_the_lower_world
+  label: Sacred implements from the lower world
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: Implements originating in a lower world are sacred power objects with
+    otherworldly provenance.
+  cautions: May also involve descent or origin traditions; use descent only if the
+    narrative includes a journey to or from the lower world.
+  suggested_aliases:
+  - lower_world_sacred_implements
+  - otherworld_origin_sacred_tools
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-indwelling-in-the-human-heart
+  motif_id: sacred_indwelling_in_the_human_heart
+  label: sacred indwelling in the human heart
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Divine or sacred presence within the heart belongs to interiorized sacred
+    reality and contemplative transformation.
+  cautions: Could also fit sacred_knowledge or theophany if the passage emphasizes
+    teaching or manifestation rather than interior union.
+  suggested_aliases:
+  - divine_indwelling_in_the_heart
+  - inner_sacred_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-inherited-names-and-restricted-public-mention
+  motif_id: sacred_inherited_names_and_restricted_public_mention
+  label: Sacred inherited names and restricted public mention
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Restricted public mention of inherited sacred names fits speech taboo
+    and the binding power of utterance.
+  cautions: Culturally sensitive naming practice; source review should preserve local
+    protocols and avoid broad public-query exposure if inappropriate.
+  suggested_aliases:
+  - sacred_name_taboo
+  - restricted_utterance_of_inherited_names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-invocation-and-touch-preceding-restoration
+  motif_id: sacred_invocation_and_touch_preceding_restoration
+  label: sacred invocation and touch preceding restoration
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Invocation and touch function as mediated sacred action that restores
+    or heals a person or condition.
+  cautions: If restoration is specifically resurrection or soul return, death_and_transformation
+    or soul_loss_restoration may be better secondary mappings.
+  suggested_aliases:
+  - restoration_by_sacred_invocation_and_touch
+  - healing_touch_with_invocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-itinerary-through-named-stations
+  motif_id: sacred_itinerary_through_named_stations
+  label: sacred itinerary through named stations
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: A sequence of named stations may be a ritual or mythic journey, but function
+    is unclear from the label alone.
+  cautions: Could be pilgrimage geography, initiation route, afterlife map, or passage
+    outline. Do not map without evidence of journey function.
+  suggested_aliases:
+  - sacred_route_through_named_stations
+  - ritual_itinerary_of_named_stations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern culturally specific ritual objects or naming practices; human
+  review should preserve local meaning and access considerations.
+- Single-occurrence labels should remain granular evidence unless recurrence supports
+  alias promotion.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1133
+  input_sha256: 374e6f356289c997b11792ebe0919bfbab9c4280a7d162703f295963ca55ded1
+

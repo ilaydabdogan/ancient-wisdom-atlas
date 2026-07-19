@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2718
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroic-envoy-demonstrates-power-in-enemy-court
+  motif_id: heroic_envoy_demonstrates_power_in_enemy_court
+  label: heroic envoy demonstrates power in enemy court
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A heroic agent displays martial or supernatural power in hostile political
+    space, fitting heroic combat power even before battle.
+  cautions: Could instead belong to royal_legitimacy, divine_intervention, or sacred_combat
+    if the envoy role, diplomacy, or formal challenge is central.
+  suggested_aliases:
+  - heroic_envoy_power_display
+  - envoy_demonstrates_power_in_hostile_court
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-epithet-and-original-hero
+  motif_id: heroic_epithet_and_original_hero
+  label: Heroic epithet and original hero
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording sounds like a naming, epithet, or source-classification note
+    rather than a narrative motif.
+  cautions: If the passage uses an epithet as a recognition token, royal title, or
+    performative praise, review for recognition_tokens_hidden_identity, royal_legitimacy,
+    or storytelling_as_power instead.
+  suggested_aliases:
+  - heroic_epithet_original_hero
+  - original_hero_epithet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-evasion-and-decisive-counterstroke
+  motif_id: heroic_evasion_and_decisive_counterstroke
+  label: heroic evasion and decisive counterstroke
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A combat maneuver sequence in which a hero avoids attack and answers
+    decisively fits granular sacred or heroic combat indexing.
+  cautions: Likely episode-specific; do not promote unless similar evasion-counterstroke
+    labels recur across sources.
+  suggested_aliases:
+  - hero_evades_and_counterstrikes
+  - evasion_followed_by_decisive_counterstroke
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-exploit-accompanied-by-foreboding
+  motif_id: heroic_exploit_accompanied_by_foreboding
+  label: heroic exploit accompanied by foreboding
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Foreboding attached to a heroic deed suggests omen-like anticipation
+    of doom or fated consequence.
+  cautions: If the foreboding is a dream, omen, or prophecy scene rather than fate
+    pressure, dream_and_vision or prophecy_divination may be better.
+  suggested_aliases:
+  - foreboding_before_or_during_heroic_exploit
+  - heroic_deed_with_ominous_foreboding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-fame-followed-by-withdrawal-into-domestic-ease
+  motif_id: heroic_fame_followed_by_withdrawal_into_domestic_ease
+  label: Heroic fame followed by withdrawal into domestic ease
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a life-stage arc after heroic achievement, but
+    its mythic function is unclear from wording alone.
+  cautions: Could be return/homecoming, pride and downfall, renunciation, royal domestic
+    settlement, or simply an episode summary; source context needed.
+  suggested_aliases:
+  - hero_withdraws_after_fame
+  - heroic_fame_followed_by_domestic_retirement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-feast-and-public-fame
+  motif_id: heroic_feast_and_public_fame
+  label: heroic feast and public fame
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: A feast distributing or confirming public honor can function as reciprocal
+    social exchange and recognition of status.
+  cautions: If the emphasis is poetic commemoration, map to storytelling_as_power;
+    if heroic honor after death, heroic_funeral_rites may fit. Single occurrence is
+    broad and contextual.
+  suggested_aliases:
+  - feast_confers_heroic_fame
+  - public_fame_at_heroic_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-feast-boasting-followed-by-challenge
+  motif_id: heroic_feast_boasting_followed_by_challenge
+  label: heroic feast boasting followed by challenge
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Boasting that provokes or precedes a challenge is already near existing
+    pre-combat flyting and challenge motifs under sacred_combat.
+  cautions: Feast setting should be preserved as evidence; if the feast obligation
+    itself is central, sacred_exchange may be a secondary relation.
+  suggested_aliases:
+  - feast_boast_followed_by_challenge
+  - boast_at_feast_provokes_challenge
+  - heroic_boasting_before_challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-force-disturbing-an-animate-landscape
+  motif_id: heroic_force_disturbing_an_animate_landscape
+  label: Heroic force disturbing an animate landscape
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A hero's force affecting an animate landscape expresses exceptional sacred-warrior
+    power at cosmic or natural scale.
+  cautions: Could fit divine_intervention or nature-personification if the landscape's
+    agency is central, or sacred_combat if tied to a battle episode.
+  suggested_aliases:
+  - heroic_power_disturbs_animate_landscape
+  - heroic_force_affects_living_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-hardiness-signaled-by-exposure-to-cold
+  motif_id: heroic_hardiness_signaled_by_exposure_to_cold
+  label: Heroic hardiness signaled by exposure to cold
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Exposure to cold tests or displays bodily endurance, fitting ordeal-based
+    status proof.
+  cautions: If merely descriptive of toughness rather than a test or rite, treat as
+    an over-specific evidence note; could also relate to divine_warrior when marking
+    battle-readiness.
+  suggested_aliases:
+  - cold_exposure_proves_heroic_hardiness
+  - heroic_endurance_of_cold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-heat-melting-snow
+  motif_id: heroic_heat_melting_snow
+  label: Heroic heat melting snow
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Supernormal battle heat or heroic bodily force signals sacred-warrior
+    potency and exceptional combat condition.
+  cautions: Preserve as granular evidence; if the heat marks initiation or bodily
+    transformation rather than combat power, initiation or shapeshifter may be relevant
+    secondary mappings.
+  suggested_aliases:
+  - heroic_battle_heat_melts_snow
+  - supernatural_heroic_heat
+  - warrior_heat_melting_snow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence heroic-combat details; suggested placements
+  are broad query buckets, not recommendations for canonical motif promotion.
+- Where existing groups such as sacred_combat, divine_warrior, death_by_fate, and
+  initiation overlap, source evidence should decide whether the function is combat
+  structure, sacred empowerment, omen/fate, or ordeal.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2718
+  input_sha256: 34273b872153db3550cce4c039cd33e8a020b3dcfd870cfb79caa00adad8f7b9
+

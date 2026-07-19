@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1020
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-calendar-sequence
+  motif_id: ritual_calendar_sequence
+  label: ritual calendar sequence
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: A ritual calendar sequence fits sacred time and ordered ritual cycles.
+  cautions: Single occurrence; preserve local Roman calendrical details rather than
+    promoting a new motif.
+  suggested_aliases:
+  - ritual_calendar_sequence
+  - calendar_ordered_ritual_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-calling-of-clubhouse-or-village-name
+  motif_id: ritual_calling_of_clubhouse_or_village_name
+  label: ritual calling of clubhouse or village name
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual speech, place identity, social naming,
+    or a passage-specific ceremony.
+  cautions: Culturally specific and under-contextualized; avoid mapping to curse_blessing_speech
+    unless the calling has performative sacred force.
+  suggested_aliases:
+  - ritual_calling_of_village_name
+  - ritual_invocation_of_settlement_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-care-and-adornment-of-a-ceremonial-object
+  motif_id: ritual_care_and_adornment_of_a_ceremonial_object
+  label: ritual care and adornment of a ceremonial object
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual maintenance and adornment centers on a ceremonial power object.
+  cautions: May be more about sacred law or ritual obligation than object power; review
+    source context and avoid flattening local object categories.
+  suggested_aliases:
+  - ritual_care_of_ceremonial_object
+  - ceremonial_object_adornment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-care-of-a-ceremonial-object-and-its-equipment
+  motif_id: ritual_care_of_a_ceremonial_object_and_its_equipment
+  label: Ritual care of a ceremonial object and its equipment
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns ritual handling of a sacred or ceremonial object and
+    associated equipment.
+  cautions: Likely duplicate or close variant of ritual_care_and_adornment_of_a_ceremonial_object;
+    preserve equipment detail as evidence if relevant.
+  suggested_aliases:
+  - ritual_care_of_ceremonial_object_equipment
+  - ritual_maintenance_of_ceremonial_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-casting-of-a-divine-image-into-water
+  motif_id: ritual_casting_of_a_divine_image_into_water
+  label: ritual casting of a divine image into water
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The action combines divine image, ritual disposal or immersion, and water
+    symbolism without enough function.
+  cautions: Could be sacred_waters, sacred_treasures, sacrifice, ritual_expulsion,
+    or a comparative artifact depending on evidence; review before indexing.
+  suggested_aliases:
+  - divine_image_cast_into_water
+  - ritual_immersion_or_disposal_of_divine_image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-casting-of-four-feathers-before-battle
+  motif_id: ritual_casting_of_four_feathers_before_battle
+  label: ritual casting of four feathers before battle
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A pre-battle ritual act belongs with warfare as ritually significant
+    action.
+  cautions: Feathers and the number four may be locally important; if used for omen-taking,
+    prophecy_divination may be a better secondary mapping.
+  suggested_aliases:
+  - pre_battle_feather_casting
+  - ritual_feather_casting_before_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-celebration-with-fire-and-water
+  motif_id: ritual_celebration_with_fire_and_water
+  label: Ritual celebration with fire and water
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names ritual use of elements but not the narrative or symbolic
+    function.
+  cautions: Could fit sacred_fire, sacred_waters, sacred_time, or sacred_exchange;
+    avoid reducing Zoroastrian ritual elements to generic fire-water symbolism.
+  suggested_aliases:
+  - fire_and_water_ritual_celebration
+  - ritual_celebration_using_fire_and_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-center-marked-by-meal-disk_four-line-cross-and-tray
+  motif_id: ritual_center_marked_by_meal_disk_four_line_cross_and_tray
+  label: ritual center marked by meal disk, four-line cross, and tray
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label explicitly marks a ritual center, aligning with sacred center/world-axis
+    logic.
+  cautions: Specific objects and directional symbolism may be culturally important;
+    if only describes ritual layout, do not promote as a canonical motif.
+  suggested_aliases:
+  - ritual_center_marked_by_symbolic_objects
+  - ceremonial_center_marked_by_cross_and_tray
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-challenge-and-acceptance-at-a-settlement-threshold
+  motif_id: ritual_challenge_and_acceptance_at_a_settlement_threshold
+  label: Ritual challenge and acceptance at a settlement threshold
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual challenge at a settlement boundary functions as controlled threshold
+    passage.
+  cautions: If no guardian or passage ordeal is present, sacred_law or hospitality_test
+    may be more appropriate; review the social function of acceptance.
+  suggested_aliases:
+  - settlement_threshold_challenge_and_acceptance
+  - ritualized_boundary_challenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-cigarettes-with-gendered-directional-color-and-animal-track-markings
+  motif_id: ritual_cigarettes_with_gendered_directional_color_and_animal_track_markings
+  label: Ritual cigarettes with gendered, directional, color, and animal-track markings
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a highly specific ritual-object description with multiple
+    local symbolic attributes.
+  cautions: Culturally sensitive Navajo ceremonial detail; preserve as evidence note
+    and review with appropriate expertise before broad indexing.
+  suggested_aliases:
+  - ritual_cigarettes_with_symbolic_markings
+  - ceremonial_cigarettes_with_directional_color_and_animal_markings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels describe specific ritual implements or ceremonial layouts from living
+  Indigenous traditions; human review should preserve local terminology and avoid
+  overgeneralization.
+- Single-occurrence ritual-object labels should usually remain granular evidence under
+  an existing broad group unless recurrence justifies a new child motif.
+- Where elemental labels involve fire and water, distinguish ritual function from
+  broad symbolic similarity.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific ritual labels
+    require source-level and, where appropriate, expert review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1020
+  input_sha256: cc5c8b8ce594252202e342eefd75159c2e33b791b448b8a98b9c7344b3d16146
+

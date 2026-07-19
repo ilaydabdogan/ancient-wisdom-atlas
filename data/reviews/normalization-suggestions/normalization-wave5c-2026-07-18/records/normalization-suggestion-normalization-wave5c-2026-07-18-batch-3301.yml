@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3301
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cosmic-praise-by-creatures
+  motif_id: cosmic_praise_by_creatures
+  label: cosmic praise by creatures
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Cosmic praise by creatures aligns with universal manifestation or recognition
+    of divine presence, already represented by cosmic praise aliases under theophany.
+  cautions: Could also be sacred song, sacred knowledge, or devotional liturgy depending
+    on passage evidence; avoid treating praise as direct divine manifestation if the
+    passage is only ethical exhortation.
+  suggested_aliases:
+  - cosmic_praise_of_god
+  - universal_cosmic_praise
+  - creatures_praising_the_creator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-praise-of-the-creator
+  motif_id: cosmic_praise_of_the_creator
+  label: Cosmic praise of the creator
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label closely matches existing universal/cosmic divine praise aliases
+    mapped to theophany.
+  cautions: If the emphasis is creation doctrine rather than manifested divine presence,
+    cosmic_origin or supreme_ruler may be secondary candidates.
+  suggested_aliases:
+  - cosmic_praise_of_god
+  - universal_cosmic_praise
+  - cosmic_praise_by_creatures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-preservation-by-intermediary-principle
+  motif_id: cosmic_preservation_by_intermediary_principle
+  label: cosmic preservation by intermediary principle
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: uncertain
+  confidence: low
+  rationale: Cosmic preservation may fit cosmic sovereignty or divine ordering, but
+    an abstract intermediary principle may be philosophical doctrine rather than narrative
+    motif.
+  cautions: 'Requires source review: could be Hermetic metaphysics, commentary artifact,
+    cosmic order under divine sovereignty, or a distinct emanation/mediator motif
+    not yet represented.'
+  suggested_aliases:
+  - cosmic_preservation_by_mediating_principle
+  - cosmos_preserved_by_intermediary
+  - intermediary_principle_sustains_cosmos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-regions-populated-by-proper-inhabitants
+  motif_id: cosmic_regions_populated_by_proper_inhabitants
+  label: Cosmic regions populated by proper inhabitants
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: low
+  rationale: Assigning proper inhabitants to cosmic regions sounds like ordering the
+    cosmos after creation or separation of domains.
+  cautions: Could be a cosmographic description rather than a motif; if the passage
+    maps heavens, underworld, or otherworld regions, afterlife_passage or otherworld
+    may be more precise.
+  suggested_aliases:
+  - ordered_cosmic_regions
+  - cosmic_domains_with_proper_inhabitants
+  - cosmic_zones_assigned_to_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-rejoicing-and-renewal-at-awakening
+  motif_id: cosmic_rejoicing_and_renewal_at_awakening
+  label: Cosmic rejoicing and renewal at awakening
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A cosmic response to awakening marks a sacred manifestation or recognition
+    event on a cosmic scale.
+  cautions: If awakening is the primary spiritual transformation, mystical_quest or
+    sacred_knowledge may be better; if renewal is calendrical or world-renewing, sacred_time
+    or death_and_transformation may be secondary.
+  suggested_aliases:
+  - cosmic_rejoicing_at_awakening
+  - cosmic_renewal_at_enlightenment
+  - universe_rejoices_at_awakening
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-renovation-without-dissolution
+  motif_id: cosmic_renovation_without_dissolution
+  label: cosmic renovation without dissolution
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Renovation of the cosmos without destruction is a renewal/transformation
+    pattern, but not a flood or catastrophe motif.
+  cautions: Do not map to flood_and_renewal unless world destruction or catastrophe
+    is explicit; could be philosophical cosmology rather than narrative event.
+  suggested_aliases:
+  - cosmic_renewal_without_destruction
+  - cosmic_renovation_without_world_dissolution
+  - world_renewal_without_catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-revaluation-of-devotional-imagery
+  motif_id: cosmic_revaluation_of_devotional_imagery
+  label: Cosmic revaluation of devotional imagery
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording sounds interpretive or theological rather than a stable narrative
+    motif, and the specific imagery is not supplied.
+  cautions: May be commentary artifact; review passage evidence to decide whether
+    it concerns theophany, sacred song, devotional speech, icon critique, or sacred
+    knowledge.
+  suggested_aliases:
+  - revaluation_of_devotional_imagery
+  - cosmicized_devotional_imagery
+  - devotional_imagery_reframed_cosmically
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-saint-whose-body-spans-the-universe
+  motif_id: cosmic_saint_whose_body_spans_the_universe
+  label: cosmic saint whose body spans the universe
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sanctified figure whose body spans the universe resembles a cosmic
+    vision or universal-form manifestation.
+  cautions: Because the figure is a saint rather than deity, human review should check
+    whether this is mystical anthropology, hagiographic hyperbole, or direct theophanic
+    imagery; mystical_quest may be a secondary group.
+  suggested_aliases:
+  - cosmic_saint_body_spans_universe
+  - saint_as_cosmic_body
+  - universal_body_of_the_saint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-scale-of-buddha-biography
+  motif_id: cosmic_scale_of_buddha_biography
+  label: Cosmic scale of Buddha biography
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: low
+  rationale: The label describes the scope or framing of a biography rather than a
+    discrete motif event or symbol.
+  cautions: May be a textual or analytic artifact. If the passage includes cosmic
+    omens, awakening, divine manifestation, or miraculous birth, map those more specific
+    motifs instead.
+  suggested_aliases:
+  - cosmicized_buddha_biography
+  - buddha_biography_on_cosmic_scale
+  - cosmic_framing_of_buddha_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-scale-reduced-to-dust-or-atoms
+  motif_id: cosmic_scale_reduced_to_dust_or_atoms
+  label: Cosmic scale reduced to dust or atoms
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Reduction of cosmic scale to dust or atoms sounds like a contemplative
+    or doctrinal insight into reality's structure and impermanence.
+  cautions: Could be philosophical exposition rather than motif; if it emphasizes
+    impermanence of embodied life, mystical_quest may fit, while cosmological structure
+    could point to cosmic_origin.
+  suggested_aliases:
+  - cosmos_reduced_to_atoms
+  - cosmic_scale_as_dust
+  - worlds_reduced_to_dust_or_atoms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are abstract cosmological or devotional formulations
+  with single occurrences; review source passages before promoting any to taxonomy-level
+  motifs.
+- Avoid treating all cosmic-language labels as cosmic_origin; distinguish creation/order,
+  divine manifestation, devotional praise, and philosophical commentary.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; low-confidence items require
+    passage evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3301
+  input_sha256: c84e47040c33c12b334c2e5602103d5016711ea9960acdb12fcbe6383fbe31d8
+

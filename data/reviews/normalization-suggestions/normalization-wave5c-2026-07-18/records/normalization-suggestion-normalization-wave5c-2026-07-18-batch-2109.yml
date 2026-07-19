@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2109
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.beastlike-adversary-in-verbal-contest
+  motif_id: beastlike_adversary_in_verbal_contest
+  label: Beastlike adversary in verbal contest
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: The central action is a verbal contest, so speech power is more salient
+    than animal form.
+  cautions: Could instead belong under trickster if the contest is deceptive or under
+    threshold_guardian if the adversary blocks passage; source context needed.
+  suggested_aliases:
+  - beastlike_opponent_in_verbal_contest
+  - verbal_contest_with_beastlike_adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beasts-and-birds-as-rejected-offerers-or-suitors
+  motif_id: beasts_and_birds_as_rejected_offerers_or_suitors
+  label: Beasts and birds as rejected offerers or suitors
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal figures, offering, and courtship, and the narrative
+    function is unclear.
+  cautions: Could fit sacred_love, sacred_exchange, trickster, or a local animal-marriage/courtship
+    pattern; culturally specific evidence should be reviewed before mapping.
+  suggested_aliases:
+  - animal_suitors_rejected
+  - birds_and_beasts_as_rejected_suitors
+  - animal_offerers_rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.becoming-like-raven-among-the-wolf-phratry
+  motif_id: becoming_like_raven_among_the_wolf_phratry
+  label: becoming like Raven among the Wolf phratry
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to reference clan or phratry identity and a culturally
+    specific Raven/Wolf relation rather than a generic motif.
+  cautions: Do not collapse into trickster or shapeshifter without passage evidence;
+    may be a social-identity or source-specific artifact.
+  suggested_aliases:
+  - raven_identity_within_wolf_phratry
+  - becoming_raven_in_wolf_phratry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.begging-scavenger-at-another-animal-s-kill
+  motif_id: begging_scavenger_at_another_animal_s_kill
+  label: Begging scavenger at another animal’s kill
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: narrower_than
+  confidence: medium
+  rationale: Animal fable behavior around scavenging, dependence, and opportunism
+    fits the existing trickster/fable-reversal cluster.
+  cautions: May be only an episode-specific animal ecology detail if no deception,
+    role reversal, or moral strategy is present.
+  suggested_aliases:
+  - scavenger_begs_at_another_animal_kill
+  - opportunistic_scavenger_at_predator_kill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.belt-worn-grass-regalia-with-shifting-assigned-meaning
+  motif_id: belt_worn_grass_regalia_with_shifting_assigned_meaning
+  label: belt-worn grass regalia with shifting assigned meaning
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'shifting assigned meaning' reads like an interpretive or
+    classification note about regalia rather than a stable narrative motif.
+  cautions: If source passages show ritual costume transformation or identity change,
+    preserve that evidence under sacred_law, shapeshifter, or sacred_treasures after
+    human review.
+  suggested_aliases:
+  - grass_regalia_with_shifting_meaning
+  - belt_worn_grass_regalia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beneficent-serpent-or-dragon-helper
+  motif_id: beneficent_serpent_or_dragon_helper
+  label: beneficent serpent or dragon helper
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: serpent_guardian
+  suggested_group_label: Serpent and Serpent Guardian
+  relationship: role_variant
+  confidence: high
+  rationale: A helpful serpent or dragon is a role variant of the serpent complex,
+    where serpents may guard, aid, teach, or mediate hidden power.
+  cautions: If the key function is direct rescue or guidance by a sacred being, divine_intervention
+    may be a secondary mapping.
+  suggested_aliases:
+  - helpful_serpent
+  - dragon_helper
+  - beneficent_dragon
+  - serpent_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.berserk-fury-with-animal-like-howling
+  motif_id: berserk_fury_with_animal_like_howling
+  label: Berserk fury with animal-like howling
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on martial fury and battle behavior; animal-like howling
+    is a descriptive marker of warrior transformation or frenzy.
+  cautions: Could also relate to shapeshifter if literal animal transformation is
+    present; avoid treating the simile alone as shapeshifting.
+  suggested_aliases:
+  - berserk_animal_like_howling
+  - animal_like_battle_frenzy
+  - warrior_fury_with_animal_howling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bestowal-of-animal-like-super-perception
+  motif_id: bestowal_of_animal_like_super_perception
+  label: Bestowal of animal-like super-perception
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Enhanced perception functions as divinely or ritually granted knowledge;
+    the animal-like quality is the mode of perception.
+  cautions: If the source emphasizes bodily transformation into an animal, shapeshifter
+    may be better; if granted by a deity in a mission, divine_intervention may be
+    secondary.
+  suggested_aliases:
+  - animal_like_super_perception
+  - bestowed_animal_perception
+  - supernatural_animal_like_senses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.binding-and-muzzling-dangerous-forest-dogs
+  motif_id: binding_and_muzzling_dangerous_forest_dogs
+  label: Binding and muzzling dangerous forest dogs
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Binding and muzzling dangerous animals reads as a protective or apotropaic
+    control practice, which existing normalization folds under sacred_law.
+  cautions: May be too specific, or may belong with magical control of animals if
+    a new recurring animal-control group emerges; source context needed.
+  suggested_aliases:
+  - muzzling_dangerous_forest_dogs
+  - binding_dangerous_forest_dogs
+  - ritual_control_of_forest_dogs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.binding-or-magical-control-of-a-dangerous-animal
+  motif_id: binding_or_magical_control_of_a_dangerous_animal
+  label: binding or magical control of a dangerous animal
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Magically binding a dangerous animal is a protective ritual-control pattern,
+    close to apotropaic protection under sacred_law.
+  cautions: If the animal is a threshold monster or chaos being, threshold_guardian,
+    serpent_guardian, chaos, or divine_warrior may be better; review evidence for
+    function.
+  suggested_aliases:
+  - magical_control_of_dangerous_animal
+  - binding_dangerous_animal
+  - ritual_binding_of_dangerous_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'Several labels in this batch use animal imagery, but the suggested placement follows
+  narrative function: speech contest, courtship, clan identity, protective binding,
+  or combat frenzy rather than animal presence alone.'
+- Culturally specific Northwest Coast phratry/Raven-Wolf labels should receive human
+  review before broad normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api_assistant
+  reviewed_at: ''
+  notes: Provisional automated placement suggestions; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2109
+  input_sha256: 4e60e5782ef6bcb18ce848b5d1ecf645b091ca8e6bacf689c9e835d5027aa1ca
+

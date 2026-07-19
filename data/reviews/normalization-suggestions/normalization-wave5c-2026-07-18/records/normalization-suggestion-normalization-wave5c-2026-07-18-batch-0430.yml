@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0430
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.vengeance-bounty-becomes-a-death-payment
+  motif_id: vengeance_bounty_becomes_a_death_payment
+  label: vengeance bounty becomes a death payment
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a payment or bounty being reinterpreted as death obligation,
+    but the narrative function is unclear from wording alone.
+  cautions: Could be legal compensation, blood-price, revenge, fate, or an episode-specific
+    plot detail; source evidence needed before mapping.
+  suggested_aliases:
+  - death payment
+  - vengeance bounty
+  - blood-price as death payment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-for-destroyed-ancestors
+  motif_id: vengeance_for_destroyed_ancestors
+  label: Vengeance for destroyed ancestors
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on avenging dead ancestors, fitting unresolved relations
+    with the dead and vengeance obligations.
+  cautions: If the ancestors are only genealogical victims and not active dead, sacred_combat
+    or divine_judgment may be a secondary fit.
+  suggested_aliases:
+  - ancestor vengeance
+  - vengeance for dead ancestors
+  - avenging destroyed ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-for-father-s-death
+  motif_id: vengeance_for_father_s_death
+  label: vengeance for father's death
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Avenging a slain father is a kin-vengeance combat catalyst, close to
+    existing sacred_combat aliases such as avenging a slain companion.
+  cautions: If the dead father appears as a ghost or demands revenge, restless_dead_haunting_vengeance
+    should be added as a secondary mapping.
+  suggested_aliases:
+  - avenging father's death
+  - filial vengeance for a slain father
+  - vengeance for dead father
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-for-slain-kin-or-ancestor
+  motif_id: vengeance_for_slain_kin_or_ancestor
+  label: vengeance for slain kin or ancestor
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin or ancestor vengeance typically functions as a motive for sanctioned
+    conflict or retaliatory combat.
+  cautions: Ancestor-focused ritual or postmortem agency may also warrant restless_dead_haunting_vengeance;
+    verify whether vengeance is human, divine, or ancestral.
+  suggested_aliases:
+  - kin vengeance
+  - avenging slain kin
+  - ancestor vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeance-oath-by-blood-and-the-dead
+  motif_id: vengeance_oath_by_blood_and_the_dead
+  label: Vengeance oath by blood and the dead
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: The core motif is an oath that binds vengeance through blood and the
+    dead, matching performative sacred speech.
+  cautions: Could secondarily involve sacrifice or ancestor rites if blood offering
+    or dead invocation is ritually central.
+  suggested_aliases:
+  - blood vengeance oath
+  - oath by the dead
+  - vengeance oath over blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-animal-spirit-or-species-kin
+  motif_id: vengeful_animal_spirit_or_species_kin
+  label: vengeful animal spirit or species-kin
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: uncertain
+  confidence: low
+  rationale: A vengeful spirit fits the haunting/vengeance complex, but animal species-kin
+    may instead reflect taboo, totemic relations, or animal retaliation.
+  cautions: Comparative label and culturally sensitive animal-spirit categories need
+    source review; avoid flattening to ghost vengeance if the being is not dead human/ancestor.
+  suggested_aliases:
+  - vengeful animal spirit
+  - species-kin vengeance
+  - animal spirit vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-ghost-after-betrayal
+  motif_id: vengeful_ghost_after_betrayal
+  label: vengeful ghost after betrayal
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: child
+  confidence: high
+  rationale: A betrayed dead figure returning as a vengeful ghost is a direct instance
+    of unresolved dead agency and vengeance.
+  cautions: Betrayal may also support betrayal_violated_trust, but the ghostly postmortem
+    agency should drive the primary placement.
+  suggested_aliases:
+  - vengeful ghost
+  - betrayed ghost seeks vengeance
+  - ghost vengeance after betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-wife-demands-hero-s-death-as-condition-of-marriage-bed
+  motif_id: vengeful_wife_demands_hero_s_death_as_condition_of_marriage_bed
+  label: vengeful wife demands hero’s death as condition of marriage-bed
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines erotic/marital condition, vengeance, and heroic death,
+    but it is too episode-specific for confident broad mapping.
+  cautions: Could belong under sacred_love, sacred_combat, betrayal_violated_trust,
+    or divine_warrior depending on whether marriage, vengeance, or heroic killing
+    is central.
+  suggested_aliases:
+  - vengeful wife demands hero's death
+  - marriage-bed condition of vengeance
+  - death demanded as condition of marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vertical-marvel-linking-upper-descent-and-lower-pit
+  motif_id: vertical_marvel_linking_upper_descent_and_lower_pit
+  label: Vertical marvel linking upper descent and lower pit
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A vertical structure linking upper and lower realms fits axis-mundi or
+    world-axis imagery more than simple underworld descent.
+  cautions: If the passage emphasizes a hero entering the pit as an ordeal, descent
+    or initiation may be a better primary mapping; label may be a one-off marvel description.
+  suggested_aliases:
+  - vertical marvel linking realms
+  - upper descent and lower pit
+  - vertical link to lower pit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vessel-lost-at-sea-with-mourning-for-the-dead
+  motif_id: vessel_lost_at_sea_with_mourning_for_the_dead
+  label: Vessel lost at sea with mourning for the dead
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on mourning those presumed dead after a vessel is lost
+    at sea.
+  cautions: If the vessel functions as a sacred container or sea journey ordeal, sacred_vessel
+    or sacred_waters may be secondary; otherwise preserve the sea-loss detail as evidence.
+  suggested_aliases:
+  - mourning for dead lost at sea
+  - lost vessel and mourning
+  - sea loss lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several vengeance labels are single-occurrence and may be episode-specific; human
+  review should distinguish kin-vengeance combat from active dead/ghost vengeance
+  and from legal compensation motifs.
+- No transmission or contact inference is implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages should be checked
+    for vengeance agency, ritual oath function, and whether the dead are active agents.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0430
+  input_sha256: fd888ee4a4910d46b7fbedbfe355b6a1a9947a03a89564ccec801f02e6245f35
+

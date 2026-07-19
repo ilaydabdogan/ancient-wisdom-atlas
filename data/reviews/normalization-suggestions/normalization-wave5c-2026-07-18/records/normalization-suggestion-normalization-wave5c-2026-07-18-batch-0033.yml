@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0033
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.armed-hunter-rescues-captive-from-forest-spirit
+  motif_id: armed_hunter_rescues_captive_from_forest_spirit
+  label: armed hunter rescues captive from forest spirit
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: A captive held by a forest spirit may involve an enchanted otherworld
+    or spirit realm rescue, but the label is episode-specific.
+  cautions: Could instead be divine_intervention, sacred_combat, threshold_guardian,
+    or a local forest-spirit tale detail; needs passage evidence.
+  suggested_aliases:
+  - forest_spirit_captive_rescue
+  - rescue_from_forest_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-return-into-waiting-danger
+  motif_id: armed_return_into_waiting_danger
+  label: armed return into waiting danger
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A return into known danger fits return from ordeal or re-entry into a
+    charged field of transformation.
+  cautions: If the passage centers on battle rather than journey structure, sacred_combat
+    or divine_warrior may be better; single occurrence is broad but contextual.
+  suggested_aliases:
+  - return_into_waiting_danger
+  - armed_return_to_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-among-the-dead-through-questioning
+  motif_id: arrival_among_the_dead_through_questioning
+  label: arrival among the dead through questioning
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label suggests entry among the dead mediated by questioning, fitting
+    afterlife passage with tests or requirements.
+  cautions: If questioning is merely a narrative dialogue after arrival, it may be
+    an over-specific evidence note under descent rather than a durable motif.
+  suggested_aliases:
+  - questioning_as_afterlife_entry
+  - arrival_among_the_dead_by_questioning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.artifacts-from-ancestral-or-older-ruins-reused-by-a-later-community
+  motif_id: artifacts_from_ancestral_or_older_ruins_reused_by_a_later_community
+  label: Artifacts from ancestral or older ruins reused by a later community
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: uncertain
+  confidence: low
+  rationale: Reuse of ancestral material may reflect relations with ancestors, but
+    the label reads archaeological or cultural-historical rather than narrative.
+  cautions: Could be a passage artifact, material-culture note, sacred_treasures case,
+    or ancestor-veneration evidence; avoid pattern indexing without source context.
+  suggested_aliases:
+  - reuse_of_ancestral_artifacts
+  - older_ruins_reused_by_later_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ascetic-discipline-and-restraint-as-spiritual-qualification
+  motif_id: ascetic_discipline_and_restraint_as_spiritual_qualification
+  label: ascetic discipline and restraint as spiritual qualification
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Discipline and restraint as qualifications fit the contemplative path
+    toward sacred knowledge or liberation.
+  cautions: Could also belong to sacred_law if framed as ethical command rather than
+    interior quest; label may be doctrinal rather than narrative.
+  suggested_aliases:
+  - ascetic_restraint_as_spiritual_qualification
+  - discipline_and_restraint_as_spiritual_qualification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ascetic-fire-death-and-bodily-mastery
+  motif_id: ascetic_fire_death_and_bodily_mastery
+  label: Ascetic fire-death and bodily mastery
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: uncertain
+  confidence: low
+  rationale: Ascetic bodily mastery fits mystical discipline, while fire-death may
+    indicate death transformation or sacred fire.
+  cautions: Composite and culturally sensitive; could involve self-immolation, cremation
+    miracle, yogic mastery, or hagiographic death. Needs source review before mapping.
+  suggested_aliases:
+  - ascetic_fire_death
+  - bodily_mastery_at_death
+  - ascetic_death_by_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ascetic-rejection-of-worldly-valuation-at-death
+  motif_id: ascetic_rejection_of_worldly_valuation_at_death
+  label: ascetic rejection of worldly valuation at death
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Renouncing worldly valuation at death fits mystical renunciation and
+    interior transformation.
+  cautions: May be an ethical teaching or hagiographic interpretation rather than
+    a narrative motif; consider sacred_exchange/renunciation if added as an alias.
+  suggested_aliases:
+  - renunciation_of_worldly_value_at_death
+  - ascetic_rejection_of_worldly_valuation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.assisted-descent-from-a-cliff-in-a-basket
+  motif_id: assisted_descent_from_a_cliff_in_a_basket
+  label: Assisted descent from a cliff in a basket
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a very specific transport episode rather than a recurring
+    descent or underworld motif.
+  cautions: If the cliff descent is a ritual threshold or otherworld entry, preserve
+    as evidence under descent or initiation; otherwise exclude from broad motif queries.
+  suggested_aliases:
+  - basket_descent_from_cliff
+  - cliff_descent_in_basket
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.assisting-spirit-cures-poisoned-wound
+  motif_id: assisting_spirit_cures_poisoned_wound
+  label: Assisting spirit cures poisoned wound
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A helping spirit healing a poisoned wound is direct sacred or spirit
+    intervention in human affliction.
+  cautions: If the spirit is specifically tutelary, shamanic, or ambivalent injury-healer,
+    preserve that role detail; avoid flattening local spirit categories.
+  suggested_aliases:
+  - spirit_cures_poisoned_wound
+  - helping_spirit_heals_wound
+  - assisting_spirit_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.assisting-the-spirit-to-leave-the-body
+  motif_id: assisting_the_spirit_to_leave_the_body
+  label: Assisting the spirit to leave the body
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Helping the spirit depart the body fits mortuary assistance for postmortem
+    transition.
+  cautions: Could also be soul anthropology, death rite, or healing/exorcism depending
+    on context; review whether this is ritual practice or narrative event.
+  suggested_aliases:
+  - assisted_spirit_departure
+  - helping_the_soul_leave_the_body
+  - mortuary_assistance_for_spirit_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  local evidence but avoid promoting to canonical motifs without recurrence.
+- Death/descent bucket assignment appears broad for some ascetic and spirit-healing
+  labels; reviewers should check whether the passage actually concerns death/afterlife
+  or general spiritual discipline/intervention.
+- Some suggested_group_id values point to normalization groups rather than taxonomy/motifs.yml
+  motif families, consistent with review-time placement guidance.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional automated placement suggestions for wave5c batch 0033.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0033
+  input_sha256: 07a5fe9358d4a60c0e0fcb78510623ef60ee8dcc498e529dbd3b3877b1488235
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0201
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.glorified-and-sanitized-ancestors
+  motif_id: glorified_and_sanitized_ancestors
+  label: Glorified and sanitized ancestors
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe interpretive portrayal of ancestors rather
+    than a clear ritual, haunting, or afterlife motif.
+  cautions: May be literary or ideological commentary; source evidence is needed before
+    mapping to ancestor_rites, divine_judgment, or _meta_textual.
+  suggested_aliases:
+  - idealized_ancestors
+  - sanitized_ancestral_portrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.god-or-spirit-appearing-as-a-passing-foreigner
+  motif_id: god_or_spirit_appearing_as_a_passing_foreigner
+  label: God or spirit appearing as a passing foreigner
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine or spirit figure appearing as a passing stranger often functions
+    as a test of hospitality or recognition.
+  cautions: If the passage emphasizes manifestation rather than host response, theophany
+    or divine_intervention may be better secondary mappings.
+  suggested_aliases:
+  - divine_stranger_as_foreigner
+  - spirit_disguised_as_passing_stranger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.god-protected-in-water-from-hostile-spirits
+  motif_id: god_protected_in_water_from_hostile_spirits
+  label: god protected in water from hostile spirits
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Water functions as a protective medium or liminal refuge against hostile
+    spirits.
+  cautions: If the protected figure is a divine child or preserved life, miraculous_child
+    or sacred_vessel may also apply; avoid treating this as flood unless world-destruction
+    is present.
+  suggested_aliases:
+  - water_refuge_from_hostile_spirits
+  - protective_water_against_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.god-s-name-as-spiritual-remedy
+  motif_id: god_s_name_as_spiritual_remedy
+  label: God's name as spiritual remedy
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The divine name acts as an efficacious sacred utterance with healing
+    or remedial power.
+  cautions: In Sikh context this may also belong with sacred_knowledge or mystical_quest
+    if the emphasis is devotional remembrance rather than a discrete speech act.
+  suggested_aliases:
+  - divine_name_as_remedy
+  - sacred_name_healing
+  - naam_as_spiritual_medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gods-and-spirits-of-the-elements
+  motif_id: gods_and_spirits_of_the_elements
+  label: gods and spirits of the elements
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names classes of elemental beings but does not state a narrative
+    function such as intervention, protection, judgment, or creation.
+  cautions: Could map to divine_intervention, sacred_fire, sacred_waters, or nature
+    personification depending on the passage; may be too taxonomic/personage-like
+    for motif queries.
+  suggested_aliases:
+  - elemental_spirits
+  - elemental_deities
+  - spirits_of_natural_elements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gold-seeking-expedition-ending-with-river-consignment-of-the-dead-leader
+  motif_id: gold_seeking_expedition_ending_with_river_consignment_of_the_dead_leader
+  label: Gold-seeking expedition ending with river consignment of the dead leader
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a highly specific episode summary combining expedition motive,
+    death, and river disposal.
+  cautions: Preserve as evidence detail; if the source emphasizes funerary river burial,
+    review under heroic_funeral_rites or sacred_waters rather than creating a motif.
+  suggested_aliases:
+  - dead_leader_consigned_to_river
+  - river_disposal_of_dead_leader
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.golden-age-once-existing-and-possibly-returning
+  motif_id: golden_age_once_existing_and_possibly_returning
+  label: Golden Age once existing and possibly returning
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A former Golden Age and possible return fits the world-ages schema of
+    primordial order, decline, and renewal.
+  cautions: If the passage stresses future restoration more than decline, sacred_time
+    or flood_and_renewal may be secondary, but world_ages_cosmic_decline is the best
+    broad group.
+  suggested_aliases:
+  - return_of_the_golden_age
+  - lost_golden_age
+  - golden_age_restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.golden-bearer-sheet-with-antiquarian-burial-parallel
+  motif_id: golden_bearer_sheet_with_antiquarian_burial_parallel
+  label: Golden bearer-sheet with antiquarian burial parallel
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording explicitly invokes an antiquarian parallel and likely records
+    comparative commentary about a burial object.
+  cautions: If the source passage itself centers on a funerary object, preserve the
+    object detail under heroic_funeral_rites or sacred_treasures after human review.
+  suggested_aliases:
+  - antiquarian_burial_parallel
+  - golden_funeral_bearer_sheet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.graded-defilement-according-to-the-dignity-of-the-dead
+  motif_id: graded_defilement_according_to_the_dignity_of_the_dead
+  label: Graded defilement according to the dignity of the dead
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rules grading death-related defilement by status fit ritual purity and
+    sacred law.
+  cautions: Culturally specific Zoroastrian purity concepts should be reviewed carefully;
+    may also relate to ancestor_rites or heroic_funeral_rites if tied to mortuary
+    practice.
+  suggested_aliases:
+  - status_graded_death_defilement
+  - graded_mortuary_impurity
+  - defilement_by_rank_of_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.graded-mourning-or-staying-periods-by-moral-status-of-the-dead
+  motif_id: graded_mourning_or_staying_periods_by_moral_status_of_the_dead
+  label: graded mourning or staying periods by moral status of the dead
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prescribed periods of mourning or staying for the dead concern regulated
+    ritual care and separation of living and dead.
+  cautions: If the main emphasis is legal purity classification, sacred_law may be
+    the better primary group; if grief expression dominates, lament_and_mourning may
+    be secondary.
+  suggested_aliases:
+  - graded_mourning_by_moral_status
+  - status_based_mortuary_waiting_periods
+  - moral_status_grades_mourning_period
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and context-dependent; suggested
+  placements should be treated as provisional.
+- For Zoroastrian mortuary purity labels, distinguish ritual law, ancestor/dead care,
+  and grief expression before final mapping.
+- Avoid treating water, death, or ancestor wording as sufficient for descent or afterlife
+  mapping without passage evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_normalization_suggester
+  reviewed_at: ''
+  notes: Draft suggestions generated for human taxonomy review; no taxonomy edits
+    applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0201
+  input_sha256: a11a2d5ac007690a699c28906fdb344c10ffe8b757a24e39c37e22fd400063b5
+

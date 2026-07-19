@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0426
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unreconciled-anger-continues-after-death
+  motif_id: unreconciled_anger_continues_after_death
+  label: unreconciled anger continues after death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: high
+  rationale: Postmortem unresolved anger fits the active/restless dead complex where
+    death does not end grievance or vengeance.
+  cautions: Single occurrence; confirm whether an actual dead agent persists, rather
+    than a metaphor for memory or grief.
+  suggested_aliases:
+  - postmortem_unreconciled_anger
+  - anger_continuing_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsafe-vessel-planned-as-death-trap
+  motif_id: unsafe_vessel_planned_as_death_trap
+  label: Unsafe vessel planned as death trap
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a plotted killing by means of a defective vessel,
+    but its broader narrative function is unclear from the label alone.
+  cautions: May belong with betrayal, trickster stratagem, sacred vessel, or be an
+    episode-specific death detail; source context is required.
+  suggested_aliases:
+  - defective_vessel_as_death_trap
+  - death_trap_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-deaths-during-hostile-migration
+  motif_id: unseen_deaths_during_hostile_migration
+  label: Unseen deaths during hostile migration
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a contextual event summary rather than a reusable symbolic
+    or narrative motif.
+  cautions: If the passage frames migration as exile ordeal, ancestral origin, or
+    collective catastrophe, remap to hero_journey, cosmic_origin, or divine_judgment
+    after evidence review.
+  suggested_aliases:
+  - deaths_during_hostile_migration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-ghost-signaled-by-activity-at-a-dead-fire
+  motif_id: unseen_ghost_signaled_by_activity_at_a_dead_fire
+  label: unseen ghost signaled by activity at a dead fire
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An unseen ghost indicated by anomalous activity is a haunting or active-dead
+    sign.
+  cautions: Fire detail may be local evidence; do not map to sacred_fire unless the
+    fire itself functions as divine presence, purification, or ritual medium.
+  suggested_aliases:
+  - ghost_signaled_by_dead_fire
+  - unseen_ghost_manifestation_at_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-mourners-lament-an-unavoidable-death
+  motif_id: unseen_mourners_lament_an_unavoidable_death
+  label: Unseen mourners lament an unavoidable death
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The core action is lamentation over a destined or unavoidable death,
+    fitting mourning and tragic recognition.
+  cautions: Could have a secondary relation to death_by_fate if the passage emphasizes
+    inevitability more than lament.
+  suggested_aliases:
+  - unseen_lament_for_unavoidable_death
+  - invisible_mourners_lament_fated_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-or-rarely-seen-spirits-perceived-by-sound-or-nearness
+  motif_id: unseen_or_rarely_seen_spirits_perceived_by_sound_or_nearness
+  label: unseen or rarely seen spirits perceived by sound or nearness
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes spirit perception but does not identify whether the
+    spirits are dead, tutelary, dangerous, or otherworldly.
+  cautions: Culturally specific spirit categories should be reviewed carefully; possible
+    fits include restless_dead_haunting_vengeance, divine_intervention, otherworld,
+    or dream_and_vision.
+  suggested_aliases:
+  - unseen_spirits_perceived_by_sound
+  - spirits_perceived_by_nearness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-sound-as-message-from-the-dead
+  motif_id: unseen_sound_as_message_from_the_dead
+  label: Unseen sound as message from the dead
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A message from the dead through unseen sound indicates ongoing agency
+    of the dead after death.
+  cautions: If the passage is ritual communication or ancestor care rather than haunting,
+    ancestor_rites may be a better secondary mapping.
+  suggested_aliases:
+  - audible_message_from_the_dead
+  - unseen_dead_communicate_by_sound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-spirit-heard-in-darkness
+  motif_id: unseen_spirit_heard_in_darkness
+  label: unseen spirit heard in darkness
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a broad perception detail and does not clarify the spirit's
+    role or narrative function.
+  cautions: May be haunting, otherworld presence, dream/vision, or simply atmospheric
+    episode detail; avoid over-mapping from darkness alone.
+  suggested_aliases:
+  - spirit_heard_in_darkness
+  - unseen_audible_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-spirit-music-marks-or-misdirects-a-hidden-place
+  motif_id: unseen_spirit_music_marks_or_misdirects_a_hidden_place
+  label: Unseen spirit music marks or misdirects a hidden place
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Music or sound acts supernaturally to guide, mark, or misdirect perception
+    of a place, matching sound power.
+  cautions: If the key function is a guarded hidden threshold rather than music, threshold_guardian
+    or otherworld may be relevant; verify whether the spirits are dead or non-dead
+    beings.
+  suggested_aliases:
+  - spirit_music_misdirects_hidden_place
+  - unseen_music_marks_hidden_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-spiritual-bondage-stronger-than-physical-chains
+  motif_id: unseen_spiritual_bondage_stronger_than_physical_chains
+  label: unseen spiritual bondage stronger than physical chains
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In a Sufi context, unseen bondage likely refers to interior attachment
+    or spiritual captivity on the path of transformation.
+  cautions: Could be sacred_law, covenant, or annihilation_union depending on whether
+    the bondage is ethical obligation, divine love, ego-attachment, or literal spirit
+    constraint.
+  suggested_aliases:
+  - spiritual_bondage_stronger_than_chains
+  - invisible_bondage_of_the_soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels involving unseen spirits are low-evidence singletons; source review
+  should distinguish ghosts/dead, ancestors, tutelary spirits, otherworld beings,
+  and atmospheric perception details.
+- Do not infer sacred_fire, descent, or flood/renewal from fire, darkness, migration,
+  or death vocabulary alone; map by narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for culturally
+    specific spirit-perception labels and over-specific singletons.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0426
+  input_sha256: d044c0b863ce42aa2bda6a9f7fb9979d4784ef924d4a1acec8c268e96087b617
+

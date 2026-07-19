@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0190
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.foretold-death-if-one-remains-in-the-land
+  motif_id: foretold_death_if_one_remains_in_the_land
+  label: foretold death if one remains in the land
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on a foretold conditional death, fitting destiny or
+    foretold doom.
+  cautions: Single occurrence; if the passage emphasizes exile or travel choice rather
+    than unavoidable fate, hero_journey may be a secondary context.
+  suggested_aliases:
+  - foretold conditional death
+  - death foretold if one remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-flower-covered-tomb
+  motif_id: foretold_flower_covered_tomb
+  label: foretold flower-covered tomb
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines prophecy, tomb imagery, and floral symbolism without enough
+    functional context.
+  cautions: May be a passage-specific sign, saintly tomb motif, prophecy/divination,
+    sacred love, or mourning image; review source evidence before mapping.
+  suggested_aliases:
+  - foretold flowering tomb
+  - flower-covered grave as sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-limit-on-death-confirmed-by-near-death-survival
+  motif_id: foretold_limit_on_death_confirmed_by_near_death_survival
+  label: Foretold limit on death confirmed by near-death survival
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prediction defining the boundary of death and survival fits fate governing
+    death outcomes.
+  cautions: Could also relate to conditional invulnerability if the foretold limit
+    creates a protected exception; source context needed.
+  suggested_aliases:
+  - foretold death limit
+  - near-death survival confirms prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-return-of-former-nonhuman-husband
+  motif_id: foretold_return_of_former_nonhuman_husband
+  label: Foretold return of former nonhuman husband
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: Return of a former spouse, especially nonhuman, likely belongs to love/relationship
+    reunion more than death itself.
+  cautions: 'Ambiguous: may fit otherworld, shapeshifter, prophecy_divination, or
+    return depending on whether the husband is dead, transformed, or from an enchanted
+    realm.'
+  suggested_aliases:
+  - foretold return of nonhuman spouse
+  - return of animal or spirit husband foretold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-sharp-death
+  motif_id: foretold_sharp_death
+  label: Foretold sharp death
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: medium
+  rationale: A specific mode of death is foretold, aligning with fated or destined
+    death.
+  cautions: The phrase 'sharp death' is unclear; if it denotes a weapon, execution,
+    or ritual wording, preserve as evidence detail and review.
+  suggested_aliases:
+  - foretold death by sharp means
+  - predicted sharp death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-tomb-through-inscription-and-divination
+  motif_id: foretold_tomb_through_inscription_and_divination
+  label: Foretold tomb through inscription and divination
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The tomb is known or foretold through divinatory and inscribed signs,
+    making the divination function primary.
+  cautions: If the inscription itself is an enduring funerary object, heroic_funeral_rites
+    or sacred_knowledge may be secondary; single occurrence may be over-specific.
+  suggested_aliases:
+  - divination foretells tomb
+  - inscribed divination of tomb
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forgotten-ancestral-art-after-technological-change
+  motif_id: forgotten_ancestral_art_after_technological_change
+  label: forgotten ancestral art after technological change
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif concerns loss of ancestral knowledge or craft after cultural
+    change.
+  cautions: May be ethnographic or historical commentary rather than a mythic motif;
+    exclude if it is only a passage-level cultural note.
+  suggested_aliases:
+  - loss of ancestral craft
+  - forgotten ancestral knowledge after new technology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forgotten-ancestral-object-recovered-in-animal-form
+  motif_id: forgotten_ancestral_object_recovered_in_animal_form
+  label: forgotten ancestral object recovered in animal form
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines ancestral object, recovery, and animal form; the main function
+    is not clear from label alone.
+  cautions: Could fit sacred_treasures, shapeshifter, ancestor_rites, or sacred_knowledge
+    depending on whether the animal is a transformed object, spirit, totem, or retrieval
+    helper.
+  suggested_aliases:
+  - ancestral object recovered as animal
+  - lost ancestral object in animal form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forgotten-dead-as-harmless-nocturnal-lights
+  motif_id: forgotten_dead_as_harmless_nocturnal_lights
+  label: Forgotten dead as harmless nocturnal lights
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The dead appear or are transformed as nocturnal lights, a postmortem
+    transformation image.
+  cautions: If the dead actively haunt or demand rites, restless_dead_haunting_vengeance
+    or ancestor_rites may be better; 'harmless' suggests not vengeance-focused.
+  suggested_aliases:
+  - dead as nocturnal lights
+  - forgotten dead become harmless lights
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forgotten-instruction-brings-death-by-one-s-own-weapon
+  motif_id: forgotten_instruction_brings_death_by_one_s_own_weapon
+  label: forgotten instruction brings death by one's own weapon
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Failure to remember instruction leads to lethal reversal, fitting moral
+    consequence and judgment.
+  cautions: Could fit death_by_fate if the death is foretold or unavoidable, or sacred_combat
+    if the weapon reversal occurs in battle; source context needed.
+  suggested_aliases:
+  - forgotten instruction causes death by own weapon
+  - death by one's own weapon after ignored instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine prophecy with death imagery; placement should distinguish
+  prophecy/divination from fate and from funerary symbolism.
+- Single-occurrence, highly specific labels should generally remain granular evidence
+  unless similar variants recur.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source evidence needed for low-confidence composite
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0190
+  input_sha256: 574bf9f63189ae9fc514d962db8303f5b29bf54ed37c11084df9510e63b42b68
+

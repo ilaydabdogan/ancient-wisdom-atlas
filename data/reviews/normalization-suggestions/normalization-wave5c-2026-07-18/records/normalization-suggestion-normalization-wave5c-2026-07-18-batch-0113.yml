@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0113
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-by-rising-tide-with-commemorative-place-name
+  motif_id: death_by_rising_tide_with_commemorative_place_name
+  label: death by rising tide with commemorative place-name
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The commemorative place-name element fits the existing etiology/place-name
+    cluster under cosmic_origin better than a general death motif.
+  cautions: Single occurrence; if the passage emphasizes the death scene rather than
+    naming etiology, preserve only as evidence detail or review under death_and_transformation.
+  suggested_aliases:
+  - place_name_etiology_from_death_by_rising_tide
+  - commemorative_place_name_from_tidal_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-by-sealed-dwelling-and-starvation
+  motif_id: death_by_sealed_dwelling_and_starvation
+  label: death by sealed dwelling and starvation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a specific death mechanism without a clear recurring
+    symbolic or narrative function in the current taxonomy.
+  cautions: Human review may retain as evidence if the sealed dwelling functions as
+    burial, taboo enclosure, sacrifice, punishment, or threshold space.
+  suggested_aliases:
+  - starvation_in_sealed_dwelling
+  - sealed_dwelling_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-by-sinking-into-the-sea
+  motif_id: death_by_sinking_into_the_sea
+  label: death by sinking into the sea
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be literal drowning, descent into watery otherworld, sea catastrophe,
+    or etiological landscape transformation depending on passage evidence.
+  cautions: Do not map automatically to flood_and_renewal or sacred_waters unless
+    water has boundary, purification, destruction-renewal, or passage function.
+  suggested_aliases:
+  - sinking_into_the_sea
+  - death_by_submergence_in_sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-by-stone
+  motif_id: death_by_stone
+  label: Death by stone
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A bare death-by-object label is too generic and mechanism-focused to
+    support pattern queries without narrative function.
+  cautions: If the stone is a sacred weapon, ordeal object, standing stone, or transformed
+    body, review under sacred_treasures, divine_warrior, or death_and_transformation.
+  suggested_aliases:
+  - death_caused_by_stone
+  - stone_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-by-targeted-vulnerable-point
+  motif_id: death_by_targeted_vulnerable_point
+  label: death by targeted vulnerable point
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: high
+  rationale: Death through a specifically targeted vulnerable point matches the hidden-weakness
+    and exposed-body-point combat pattern.
+  cautions: If no prior invulnerability or protected body is present, it may be only
+    a combat detail rather than this motif.
+  suggested_aliases:
+  - targeted_vulnerable_point_death
+  - death_through_vulnerable_spot
+  - vulnerable_point_fatal_wound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-caused-by-feared-malevolent-spirits
+  motif_id: death_caused_by_feared_malevolent_spirits
+  label: Death caused by feared malevolent spirits
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe spirit affliction, divine/spirit intervention,
+    ritual danger, or an ethnographic attribution of death.
+  cautions: Culturally sensitive spirit categories need source review; avoid flattening
+    distinct local beings into generic malevolent spirits.
+  suggested_aliases:
+  - death_by_malevolent_spirits
+  - spirit_caused_death
+  - feared_spirits_cause_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-caused-by-human-blood-placed-on-a-seat
+  motif_id: death_caused_by_human_blood_placed_on_a_seat
+  label: Death caused by human blood placed on a seat
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The blood element may involve blood-as-life, ritual contagion, curse,
+    taboo violation, or a local death magic detail.
+  cautions: Too specific for automatic mapping; source evidence is needed to decide
+    between sacred_law, sacrifice, curse_blessing_speech, or exclusion.
+  suggested_aliases:
+  - blood_on_seat_causes_death
+  - fatal_human_blood_contagion
+  - death_by_blood_placed_on_seat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-chosen-over-dishonour-and-renounced-vengeance
+  motif_id: death_chosen_over_dishonour_and_renounced_vengeance
+  label: death chosen over dishonour and renounced vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Choosing death over dishonor belongs with warrior honor, death in battle,
+    and martial proof already grouped under divine_warrior.
+  cautions: Renounced vengeance may also involve covenant, sacred law, or ethical
+    restraint; review if the passage centers on moral reconciliation rather than warrior
+    honor.
+  suggested_aliases:
+  - honorable_death_over_dishonor
+  - death_before_dishonor_with_renounced_vengeance
+  - renunciation_of_vengeance_before_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-command-by-a-mother-with-forked-twig-strangling
+  motif_id: death_command_by_a_mother_with_forked_twig_strangling
+  label: Death command by a mother with forked-twig strangling
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kin authority, command, object mechanism, and strangling;
+    its motif function is unclear from wording alone.
+  cautions: May be a passage-specific death detail, a maternal curse/command, ritual
+    execution, or family-order motif; source review needed before indexing.
+  suggested_aliases:
+  - maternal_death_command
+  - forked_twig_strangling
+  - death_by_maternal_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-conditioned-disposition-of-entrusted-property
+  motif_id: death_conditioned_disposition_of_entrusted_property
+  label: death-conditioned disposition of entrusted property
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads like a legal or narrative plot condition about property handling
+    rather than a symbolic motif.
+  cautions: If the passage frames entrusted property as sacred duty, karma, or ethical
+    test, human review may consider sacred_law or covenant; otherwise exclude from
+    motif queries.
+  suggested_aliases:
+  - property_disposition_conditioned_by_death
+  - entrusted_property_after_death
+  - death_conditioned_property_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence death mechanisms; these should not be promoted
+  unless source evidence shows recurring narrative function.
+- For water-related deaths, distinguish literal drowning or sinking from sacred_waters,
+  flood_and_renewal, descent, or etiological landscape motifs.
+- Culturally specific spirit-caused death labels should receive human review before
+  normalization.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0113
+  input_sha256: c71c1a3f3c747ba05b2098f9c7b9936cb3156fbd0e6da1cda73fd20908f0c854
+

@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0689
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bovine-head-substitute-after-divine-assault
+  motif_id: bovine_head_substitute_after_divine_assault
+  label: bovine head substitute after divine assault
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a very specific divine-body repair or substitution
+    episode, possibly ritual or mythic restoration, but its function is unclear from
+    the label alone.
+  cautions: Single occurrence; may fit sacrifice, death_and_transformation, sacred_substance,
+    or an Egyptian-specific divine-body restoration motif depending on source evidence.
+  suggested_aliases:
+  - animal head substitute after divine assault
+  - bovine head replacement after divine injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bowed-gods-touching-the-earth
+  motif_id: bowed_gods_touching_the_earth
+  label: bowed gods touching the earth
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe divine reverence, ritual posture, submission,
+    or an iconographic detail rather than a narrative motif.
+  cautions: Likely too context-dependent without passage evidence; if only a visual
+    or textual posture detail, exclude from pattern queries.
+  suggested_aliases:
+  - prostrate gods touching the earth
+  - gods bowing to the earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.breaking-a-ritual-prohibition-affects-natural-forces
+  motif_id: breaking_a_ritual_prohibition_affects_natural_forces
+  label: Breaking a ritual prohibition affects natural forces
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo or ritual prohibition whose violation disrupts nature fits sacred
+    law as cosmic-social regulation.
+  cautions: Could also support divine_judgment if punishment or moral reckoning is
+    explicit; preserve natural-force consequence as evidence detail.
+  suggested_aliases:
+  - taboo violation disrupts natural forces
+  - ritual prohibition breach affects nature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.breath-of-life-conveyed-through-ritual-objects-before-the-mouth
+  motif_id: breath_of_life_conveyed_through_ritual_objects_before_the_mouth
+  label: breath of life conveyed through ritual objects before the mouth
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual objects mediate life-breath or animation, matching power objects
+    used for sacred ability or restoration.
+  cautions: Could instead fit death_and_transformation or soul_loss_restoration if
+    the passage centers on revival, or sacred_craft if objects animate a made body.
+  suggested_aliases:
+  - ritual objects convey breath of life
+  - life breath mediated by mouth ritual objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bridal-plant-linked-to-divine-reunion
+  motif_id: bridal_plant_linked_to_divine_reunion
+  label: Bridal plant linked to divine reunion
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A bridal plant symbolizing or enabling divine reunion fits sacred love
+    and union imagery.
+  cautions: If the plant itself is the central sacred object or fertility symbol,
+    sacred_treasures, sacred_substance, or mother_goddess may be secondary; single
+    occurrence is highly specific.
+  suggested_aliases:
+  - bridal plant of divine reunion
+  - sacred bridal plant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bride-praised-through-natural-purity-and-beauty-images
+  motif_id: bride_praised_through_natural_purity_and_beauty_images
+  label: Bride praised through natural purity and beauty images
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a descriptive praise-image or poetic formula rather than
+    a reusable narrative or ritual motif.
+  cautions: If repeated across bridal ritual songs as a stable motif, it could be
+    reconsidered under sacred_love or sacred_marriage-like imagery; otherwise preserve
+    as evidence detail only.
+  suggested_aliases:
+  - bride praised with purity imagery
+  - natural beauty images praising bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bride-won-through-impossible-animal-yoking-task-with-divine-aid
+  motif_id: bride_won_through_impossible_animal_yoking_task_with_divine_aid
+  label: bride won through impossible animal-yoking task with divine aid
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core narrative function is bride-winning through a difficult task,
+    already represented in sacred_love children such as bride-winning contest.
+  cautions: Divine aid and impossible animal-yoking may also support divine_intervention
+    or initiation; avoid collapsing all impossible tasks into sacred love unless marriage
+    acquisition is central.
+  suggested_aliases:
+  - bride won by impossible yoking task
+  - divinely aided bride-winning task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bridegroom-ritually-prepared-before-wedding
+  motif_id: bridegroom_ritually_prepared_before_wedding
+  label: bridegroom ritually prepared before wedding
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual preparation for marriage fits the sacred love and wedding-union
+    complex more than general purity alone.
+  cautions: If the evidence emphasizes purification rules rather than marriage symbolism,
+    sacred_law may be a better mapping; single occurrence may be ethnographic detail.
+  suggested_aliases:
+  - ritual preparation of bridegroom
+  - bridegroom wedding purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.brilliant-or-fiery-sacred-stone
+  motif_id: brilliant_or_fiery_sacred_stone
+  label: Brilliant or fiery sacred stone
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sacred stone with brilliance or fiery power is best treated as a power
+    object unless its cosmological or sacrificial function is explicit.
+  cautions: Could be sacred_fire if the fire/light symbolism is primary, or axis_mundi
+    if the stone marks a world center; preserve stone specificity.
+  suggested_aliases:
+  - fiery sacred stone
+  - brilliant sacred stone
+  - luminous power stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-performance-restored-by-divinely-guided-animal-substitute
+  motif_id: broken_performance_restored_by_divinely_guided_animal_substitute
+  label: broken performance restored by divinely guided animal substitute
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines failed ritual or performance, divine guidance, animal
+    substitution, and restoration, making the dominant motif unclear.
+  cautions: Could map to sacrifice, divine_intervention, sacred_exchange, or ritual
+    repair depending on passage evidence; may be too episode-specific for broad pattern
+    queries.
+  suggested_aliases:
+  - divinely guided animal substitute restores failed rite
+  - animal substitute repairs broken ritual performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; proposed
+  mappings should be treated as provisional evidence placements, not taxonomy edits.
+- Marriage-related items were placed under sacred_love when union or bride-winning
+  is central, but may need secondary sacred_law or divine_intervention review depending
+  on source context.
+- Egyptian divine-body and posture labels need source review before pattern indexing
+  because they may be iconographic or episode-specific rather than recurring motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 0689; human
+    review recommended for low-confidence and single-occurrence ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0689
+  input_sha256: 1b03e3877ba2b1723cb26be95aa7d4d13a36011aa1ef623dca6f514dd7d1e1c9
+

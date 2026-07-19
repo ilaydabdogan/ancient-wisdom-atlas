@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3980
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.spouses-choosing-one-shared-fate
+  motif_id: spouses_choosing_one_shared_fate
+  label: spouses choosing one shared fate
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Shared spousal fate centers on love, fidelity, and union across danger
+    or death.
+  cautions: If the passage emphasizes doom, battle death, or legal obligation rather
+    than love, death_by_fate or covenant may be better secondary mappings.
+  suggested_aliases:
+  - spouses_share_one_fate
+  - marital_fidelity_in_shared_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spread-of-a-religion-beyond-military-force
+  motif_id: spread_of_a_religion_beyond_military_force
+  label: spread of a religion beyond military force
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as historical or apologetic commentary about religious
+    diffusion, not a narrative motif.
+  cautions: If source evidence describes a sacred mission, conversion miracle, or
+    divine command, remap that narrower episode to divine_intervention or sacred_knowledge.
+  suggested_aliases:
+  - religion_spreads_without_military_force
+  - nonmilitary_spread_of_religion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spurned-poor-suitor-or-rejected-orphan
+  motif_id: spurned_poor_suitor_or_rejected_orphan
+  label: Spurned poor suitor or rejected orphan
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines rejected courtship, poverty, and orphan status; the
+    narrative function is unclear from wording alone.
+  cautions: Could fit sacred_love, hospitality/sacred_law, miraculous_child, or pride_and_downfall
+    depending on whether rejection leads to marriage, moral testing, transformation,
+    or punishment.
+  suggested_aliases:
+  - rejected_poor_suitor
+  - rejected_orphan
+  - spurned_low_status_suitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.st-john-s-day-blossom-divination
+  motif_id: st_john_s_day_blossom_divination
+  label: St. John’s Day blossom divination
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: high
+  rationale: A calendrical blossom rite used for divination belongs with omen and
+    divinatory practices.
+  cautions: Also relates to sacred_time because the rite is tied to St. John’s Day;
+    preserve the calendrical and plant details as evidence.
+  suggested_aliases:
+  - blossom_divination_on_st_johns_day
+  - midsummer_blossom_divination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stable-oral-musical-transmission-across-singers-and-places
+  motif_id: stable_oral_musical_transmission_across_singers_and_places
+  label: stable oral-musical transmission across singers and places
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes transmission stability across performers and locations,
+    a documentation or tradition-history observation rather than a motif.
+  cautions: If the source treats song itself as sacred power, preserve separate passage
+    evidence under enchanting_music or storytelling_as_power.
+  suggested_aliases:
+  - stable_oral_musical_transmission
+  - song_transmission_across_singers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.staged-adoption-of-foreign-dress
+  motif_id: staged_adoption_of_foreign_dress
+  label: Staged adoption of foreign dress
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Foreign dress adoption could mark disguise, social transformation, ritual
+    performance, or ethnographic contact; function is not clear.
+  cautions: Avoid using taxonomy placement to imply historical transmission. If dress
+    disguises identity, recognition_tokens_hidden_identity or shapeshifter may be
+    relevant; if it marks social order, sacred_law or initiation may fit.
+  suggested_aliases:
+  - adoption_of_foreign_dress
+  - ritualized_foreign_dress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.staged-wealth-supported-by-instructed-witnesses
+  motif_id: staged_wealth_supported_by_instructed_witnesses
+  label: staged wealth supported by instructed witnesses
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Staged wealth and coached witnesses suggest deception or stratagem to
+    manipulate social perception.
+  cautions: Could instead belong under betrayal_violated_trust or pride_and_downfall
+    if the passage stresses broken trust or moral punishment rather than trickster
+    strategy.
+  suggested_aliases:
+  - feigned_wealth_with_instructed_witnesses
+  - deceptive_display_of_wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.standardized-staple-food-package-units
+  motif_id: standardized_staple_food_package_units
+  label: standardized staple-food package units
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe economic or ethnographic measurement units
+    rather than a symbolic or narrative motif.
+  cautions: If the passage concerns ritual distribution, offering, or sacred food
+    bundles, consider sacred_exchange or sacred_substance after source review.
+  suggested_aliases:
+  - staple_food_package_units
+  - standard_food_bundle_units
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.standing-stone-circle
+  motif_id: standing_stone_circle
+  label: standing-stone circle
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A standing-stone circle may function as sacred geography, ritual center,
+    or marked cosmological space.
+  cautions: If the stones are merely a local place detail, exclude or keep as evidence.
+    If the circle is a boundary or memorial rather than a center, threshold_guardian,
+    heroic_funeral_rites, or cosmic_origin may be more appropriate.
+  suggested_aliases:
+  - standing_stone_circle
+  - sacred_stone_circle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.standing-to-see-the-body
+  motif_id: standing_to_see_the_body
+  label: Standing to see the body
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is too context-dependent to identify as a stable motif without
+    knowing whose body is seen and why standing matters.
+  cautions: Could be mortuary ritual, recognition of the dead, taboo vision, or a
+    passage artifact. Map to lament_and_mourning, heroic_funeral_rites, or sacred_law
+    only if source evidence supports that function.
+  suggested_aliases:
+  - standing_to_view_the_body
+  - viewing_the_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and may be passage artifacts;
+  preserve granular wording as evidence notes where mapped.
+- Do not infer transmission or historical contact from labels involving foreign dress,
+  religious spread, or oral transmission.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages should be checked
+    for contextual function before taxonomy updates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3980
+  input_sha256: a1c1db7a4f85b4944ea78ad9d42e0a7a3fa79869b0f071f2e7188a52ba3e5840
+

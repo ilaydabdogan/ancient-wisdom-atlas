@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2846
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.victory-followed-by-sudden-downfall
+  motif_id: victory_followed_by_sudden_downfall
+  label: victory followed by sudden downfall
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: A reversal from triumph to collapse fits the downfall complex, especially
+    if victory produces overconfidence or divine reversal.
+  cautions: If the passage is only a battle outcome sequence without hubris or moral
+    reversal, sacred_combat may be a better secondary placement.
+  suggested_aliases:
+  - triumph_followed_by_downfall
+  - victory_reversed_into_ruin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victory-followed-by-tribute-building-and-peace
+  motif_id: victory_followed_by_tribute_building_and_peace
+  label: victory followed by tribute, building, and peace
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Victory leading to tribute, construction, and peace functions as legitimation
+    of rule and ordered kingship.
+  cautions: Highly contextual single label; if the focus is battle rather than postwar
+    order, sacred_combat may be secondary.
+  suggested_aliases:
+  - victory_establishes_tribute_building_and_peace
+  - postwar_tribute_construction_and_peace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victory-inscribed-on-a-conqueror-s-shield
+  motif_id: victory_inscribed_on_a_conqueror_s_shield
+  label: victory inscribed on a conqueror's shield
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: over_specific_label
+  confidence: low
+  rationale: The shield is a martial object bearing symbolic proof or proclamation
+    of victory, closest to power objects and heroic equipment.
+  cautions: May be an ekphrastic or passage-specific artifact rather than a reusable
+    motif; consider excluding if inscription is merely descriptive.
+  suggested_aliases:
+  - victory_inscription_on_shield
+  - shield_as_victory_record
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victory-over-an-obstructing-adversary-before-full-awakening
+  motif_id: victory_over_an_obstructing_adversary_before_full_awakening
+  label: Victory over an obstructing adversary before full awakening
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: Defeating an obstacle immediately before awakening is a threshold ordeal
+    on the contemplative path to liberation.
+  cautions: Could also index to initiation if the passage emphasizes ordeal more than
+    awakening; avoid treating it as ordinary combat.
+  suggested_aliases:
+  - defeat_of_obstructing_adversary_before_awakening
+  - spiritual_victory_before_enlightenment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victory-shout-after-killing-an-enemy
+  motif_id: victory_shout_after_killing_an_enemy
+  label: victory shout after killing an enemy
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A shouted proclamation after killing is a martial victory expression
+    within the sacred combat field.
+  cautions: Single, culturally specific performance detail; preserve only as evidence
+    unless victory cries recur across sources.
+  suggested_aliases:
+  - post_killing_victory_shout
+  - victory_cry_after_enemy_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victory-taunt-and-claim-of-domination-over-defeated-tribes
+  motif_id: victory_taunt_and_claim_of_domination_over_defeated_tribes
+  label: Victory taunt and claim of domination over defeated tribes
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Taunting and dominance claims after victory belong to ritualized warfare
+    and postcombat assertion of power.
+  cautions: Could also relate to royal_legitimacy if the claim establishes enduring
+    political order; avoid flattening culturally specific speech acts.
+  suggested_aliases:
+  - victory_taunt_over_defeated_groups
+  - domination_claim_after_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victory-through-leader-s-presence-or-will-without-fighting
+  motif_id: victory_through_leader_s_presence_or_will_without_fighting
+  label: victory through leader's presence or will without fighting
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: Victory by a leader's presence or will suggests charismatic or sacred
+    martial power rather than ordinary fighting.
+  cautions: 'Needs source evidence: the leader may be divine, royal, magical, or merely
+    strategic. royal_legitimacy or divine_intervention may fit better depending on
+    context.'
+  suggested_aliases:
+  - victory_by_leader_presence
+  - victory_by_will_without_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victory-through-superior-or-unusual-weapon-material
+  motif_id: victory_through_superior_or_unusual_weapon_material
+  label: victory through superior or unusual weapon material
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: An unusual weapon material that determines victory fits power objects
+    or battle-deciding weapons.
+  cautions: If the material exploits a specific vulnerability, conditional_invulnerability_hidden_weakness
+    may be a better secondary placement.
+  suggested_aliases:
+  - unusual_weapon_material_wins_victory
+  - victory_by_special_weapon_material
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victory-trophies-displayed-as-proof-of-defeat
+  motif_id: victory_trophies_displayed_as_proof_of_defeat
+  label: Victory trophies displayed as proof of defeat
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: The group already includes body-part trophies as proof of combat; victory
+    trophies similarly prove defeat and martial success.
+  cautions: If trophies are not bodily or martial equipment, sacred_treasures may
+    be a secondary object-focused mapping.
+  suggested_aliases:
+  - victory_trophies_as_proof
+  - defeat_proven_by_displayed_trophies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.victory-trophy-dance-over-enemy-remains
+  motif_id: victory_trophy_dance_over_enemy_remains
+  label: victory trophy dance over enemy remains
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A dance over enemy remains is a ritualized postcombat victory performance
+    within sacred warfare.
+  cautions: Culturally sensitive and single-occurrence; review source context before
+    broad indexing, especially if it reflects outsider description or ethnographic
+    wording.
+  suggested_aliases:
+  - ritual_victory_dance_over_enemy_remains
+  - trophy_dance_after_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence victory details; preserve granular
+  wording as evidence notes rather than promoting to new taxonomy families.
+- Several postcombat display, taunt, and dance labels may require culturally sensitive
+  source review before being used in broad comparative queries.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2846
+  input_sha256: e743e70072e1390bbcca4d0f49e8d100277ec4220be25a36e38440f21f84ceae
+

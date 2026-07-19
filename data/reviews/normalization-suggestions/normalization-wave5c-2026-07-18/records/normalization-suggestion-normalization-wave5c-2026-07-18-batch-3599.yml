@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3599
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.jealous-rivalry-over-admiration-and-praise
+  motif_id: jealous_rivalry_over_admiration_and_praise
+  label: jealous rivalry over admiration and praise
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Jealous rivalry over praise fits the envy/rivalry/downfall complex already
+    grouped under pride_and_downfall.
+  cautions: Single occurrence; if the passage emphasizes erotic rivalry, artistic
+    contest, or divine punishment, another group may be better.
+  suggested_aliases:
+  - envy_over_praise
+  - rivalry_over_admiration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-rivalry-over-vocal-excellence
+  motif_id: jealous_rivalry_over_vocal_excellence
+  label: Jealous rivalry over vocal excellence
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The dispute centers on voice or song excellence, which belongs with sound
+    and music as power more than general envy.
+  cautions: If the voice is ordinary social prestige rather than supernatural or narrative
+    sound power, pride_and_downfall may be a secondary or better fit.
+  suggested_aliases:
+  - rivalry_over_vocal_excellence
+  - jealousy_over_song_or_voice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-rivals-use-sorcery-against-the-victor
+  motif_id: jealous_rivals_use_sorcery_against_the_victor
+  label: Jealous rivals use sorcery against the victor
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines envy, contest outcome, and harmful sorcery; the taxonomy lacks
+    a clean magic-aggression group.
+  cautions: Source context is needed to decide whether this is envy/downfall, sacred
+    combat, curse speech, or a culturally specific sorcery motif.
+  suggested_aliases:
+  - sorcery_by_jealous_rivals
+  - jealous_rivals_attack_victor_by_magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - pride_and_downfall
+    - curse_blessing_speech
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-siblings-plot-against-a-favored-brother
+  motif_id: jealous_siblings_plot_against_a_favored_brother
+  label: jealous siblings plot against a favored brother
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The active structure is sibling rivalry and plotting within a sibling
+    set, fitting the sibling-pair complex.
+  cautions: Could also index under divine_judgment if the passage emphasizes moral
+    reckoning, or miraculous_child if the favored brother's destiny is central.
+  suggested_aliases:
+  - sibling_rivalry_against_favored_brother
+  - jealous_brothers_plot_against_favored_sibling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealous-withdrawal-after-being-surpassed
+  motif_id: jealous_withdrawal_after_being_surpassed
+  label: jealous withdrawal after being surpassed
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Being surpassed produces jealous withdrawal, matching envy and humbling
+    patterns in pride_and_downfall.
+  cautions: If withdrawal explains a cosmic absence, lost abundance, or cultural origin,
+    cosmic_origin or sacred_time may be relevant as secondary context.
+  suggested_aliases:
+  - envy_after_being_surpassed
+  - withdrawal_from_jealous_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jealousy-over-another-creature-s-voice
+  motif_id: jealousy_over_another_creature_s_voice
+  label: Jealousy over another creature's voice
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The valued object is another creature's voice, aligning with voice/sound
+    power motifs.
+  cautions: If no supernatural sound effect is present, this may be a fable detail
+    better parked under pride_and_downfall or trickster.
+  suggested_aliases:
+  - envy_of_another_creature_s_voice
+  - jealousy_over_voice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - pride_and_downfall
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jester-iconography-for-ridicule-deity
+  motif_id: jester_iconography_for_ridicule_deity
+  label: jester iconography for ridicule deity
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as iconographic classification of a deity rather than
+    a narrative motif.
+  cautions: If source evidence describes a divine fool or boundary-crossing trickster
+    action, review for trickster instead of exclusion.
+  suggested_aliases:
+  - ridicule_deity_jester_iconography
+  - jester_attributes_of_ridicule_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jewel-in-the-head-of-a-venomous-toad
+  motif_id: jewel_in_the_head_of_a_venomous_toad
+  label: Jewel in the head of a venomous toad
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A wondrous jewel located in a dangerous creature functions as a power
+    object or treasure motif.
+  cautions: May be an over-specific image; if the toad's venom or animal symbolism
+    is central, source review may suggest another placement.
+  suggested_aliases:
+  - toad_jewel
+  - venomous_toad_jewel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - serpent_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.joined-primordial-pair-separated-to-enable-propagation
+  motif_id: joined_primordial_pair_separated_to_enable_propagation
+  label: joined primordial pair separated to enable propagation
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Separation of a primordial pair to enable generation is a cosmogonic
+    ordering and creation pattern.
+  cautions: Could also relate to duality if the pair embodies complementary opposites;
+    preserve the propagation function in notes.
+  suggested_aliases:
+  - separation_of_joined_primordial_pair
+  - primordial_pair_separated_for_generation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    - sacred_marriage
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.jonah-like-tale-reference
+  motif_id: jonah_like_tale_reference
+  label: Jonah-like tale reference
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase is a comparative tale-type reference rather than a direct
+    motif label.
+  cautions: If the passage itself includes swallowing by a great fish, sea descent,
+    repentance, or rescue, remap the underlying episode rather than the reference
+    label.
+  suggested_aliases:
+  - jonah_like_reference
+  - comparative_jonah_tale_note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - descent
+    - sacred_waters
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several jealousy labels are single-occurrence and may be fable or episode details;
+  placements are provisional and should be checked against passage evidence.
+- Avoid treating comparative wording such as 'Jonah-like' as evidence of transmission;
+  index the actual narrative function if present.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3599
+  input_sha256: c6cecc7dfd4b03fcd9bd724bc84e5b3c3033fee7c4adadd3f306cf0f708efd73
+

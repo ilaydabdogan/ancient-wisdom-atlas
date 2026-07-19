@@ -1,0 +1,281 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0996
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.redemptive-sacred-wood
+  motif_id: redemptive_sacred_wood
+  label: redemptive sacred wood
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Sacred wood could function as relic, cross, vessel, sacrifice, or redemptive
+    object depending on passage evidence.
+  cautions: Single Ethiopian Christian occurrence; avoid collapsing cross/relic symbolism
+    into generic sacred tree or sacred treasure without source context.
+  suggested_aliases:
+  - redemptive_wood
+  - sacred_wood_as_redemptive_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reduction-of-secret-rites-to-public-masked-dance
+  motif_id: reduction_of_secret_rites_to_public_masked_dance
+  label: Reduction of secret rites to public masked dance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes an interpretive reduction or ritual-classification
+    claim rather than a narrative motif.
+  cautions: Culturally sensitive; if the passage documents actual masked public ritual,
+    preserve under sacred_law or sacrifice only after human review.
+  suggested_aliases:
+  - secret_rites_reduced_to_public_masked_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reflected-divine-form-embraced-by-nature
+  motif_id: reflected_divine_form_embraced_by_nature
+  label: Reflected divine form embraced by Nature
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A reflected divine form points to manifestation of sacred form perceived
+    within or by Nature.
+  cautions: Could instead belong to sacred_knowledge or cosmic_origin if the passage
+    emphasizes Hermetic cosmology rather than an encounter with divine manifestation.
+  suggested_aliases:
+  - divine_form_reflected_in_nature
+  - nature_embraces_reflected_divinity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refrain-of-denied-divine-benefits
+  motif_id: refrain_of_denied_divine_benefits
+  label: Refrain of denied divine benefits
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The word refrain suggests a rhetorical or textual pattern rather than
+    a stable mythic motif.
+  cautions: If the passage concerns moral denial of divine favors as punishment, divine_judgment
+    may be a secondary review target.
+  suggested_aliases:
+  - denied_divine_benefits_refrain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-as-a-vehicle-for-ritual-resemblance
+  motif_id: refuge_as_a_vehicle_for_ritual_resemblance
+  label: Refuge as a vehicle for ritual resemblance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and may describe ritual interpretation rather than
+    the refuge motif itself.
+  cautions: Culturally sensitive and over-contextual; verify whether the passage concerns
+    shelter, imitation, transformation, or scholarly explanation before indexing.
+  suggested_aliases:
+  - ritual_resemblance_through_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-at-an-altar-during-catastrophe
+  motif_id: refuge_at_an_altar_during_catastrophe
+  label: Refuge at an altar during catastrophe
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred site functions as a protective enclosure or refuge preserving
+    life during danger.
+  cautions: If the altar primarily marks supplication or sanctuary law, sacred_law
+    or covenant may be better; if old-world destruction is central, also review flood_and_renewal.
+  suggested_aliases:
+  - altar_refuge_during_catastrophe
+  - sanctuary_at_altar_in_catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-affinal-milk-taboo
+  motif_id: refusal_of_affinal_milk_taboo
+  label: Refusal of affinal milk taboo
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to involve kinship taboo and ritual prohibition, but
+    the function of refusal is unclear.
+  cautions: Culturally specific kinship and food taboo; do not map broadly without
+    source evidence on sacred law, social order, or transgression.
+  suggested_aliases:
+  - affinal_milk_taboo_refused
+  - refusal_of_in_law_milk_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-renewed-war-after-traumatic-divine-retribution
+  motif_id: refusal_of_renewed_war_after_traumatic_divine_retribution
+  label: refusal of renewed war after traumatic divine retribution
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine retribution changes human conduct by ending further violence,
+    fitting judgment and moral reckoning.
+  cautions: Could also relate to sacred_combat if the focus is war refusal rather
+    than sacred punishment; single occurrence is highly contextual.
+  suggested_aliases:
+  - war_refused_after_divine_retribution
+  - renounced_war_after_divine_punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-admit-a-god-s-rites-into-a-city
+  motif_id: refusal_to_admit_a_god_s_rites_into_a_city
+  label: Refusal to admit a god’s rites into a city
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns civic regulation or rejection of divine rites within
+    social-religious order.
+  cautions: If the narrative centers on punishment for the refusal, divine_judgment
+    should be primary; if cult arrival is emphasized, divine_intervention may be relevant.
+  suggested_aliases:
+  - city_refuses_a_god_s_rites
+  - rejection_of_divine_rites_by_city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regenerative-treatment-of-a-plucked-ritual-bird
+  motif_id: regenerative_treatment_of_a_plucked_ritual_bird
+  label: regenerative treatment of a plucked ritual bird
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual animal handling and regeneration, but the narrative
+    or ritual function is unclear.
+  cautions: Culturally sensitive and over-specific; could involve sacrifice, death_and_transformation,
+    animal ritual, or ethnographic detail depending on evidence.
+  suggested_aliases:
+  - plucked_ritual_bird_regenerated
+  - ritual_bird_regenerative_treatment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several single-occurrence ritual labels are culturally specific or phrased as scholarly
+  interpretation; prioritize human review before creating new groups.
+- Where a sacred object or place functions as refuge, current groups are imperfect;
+  reviewers may consider whether a sanctuary/asylum subgroup is needed if similar
+  labels recur.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0996
+  input_sha256: '097d510244201b8fdb90e3b98287f014e21834a87c295e912921acf999c46076'
+

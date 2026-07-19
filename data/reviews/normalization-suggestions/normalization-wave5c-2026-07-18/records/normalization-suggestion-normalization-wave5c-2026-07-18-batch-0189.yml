@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0189
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.foreknowledge-of-one-s-death
+  motif_id: foreknowledge_of_one_s_death
+  label: foreknowledge of one's death
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: medium
+  rationale: Knowing one's own death in advance fits the fate/foreknown-doom complex
+    already grouped under death_by_fate.
+  cautions: Single occurrence; if foreknowledge comes through an established diviner,
+    omen, or dream, prophecy_divination or dream_and_vision may be a better secondary
+    mapping.
+  suggested_aliases:
+  - foreknown_death
+  - foreknowledge_of_own_death
+  - foreknown_doom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreseen-death-in-dream
+  motif_id: foreseen_death_in_dream
+  label: foreseen death in dream
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: The key mechanism is a dream revelation that discloses death, matching
+    dream_and_vision.
+  cautions: Also related to death_by_fate if the dream reveals an unavoidable destiny
+    rather than a warning or symbolic vision.
+  suggested_aliases:
+  - death_foreseen_in_dream
+  - dream_foretelling_death
+  - prophetic_dream_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreshadowed-death-in-borrowed-arms
+  motif_id: foreshadowed_death_in_borrowed_arms
+  label: foreshadowed death in borrowed arms
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label centers on a death sign or foreshadowing before a fated heroic
+    death.
+  cautions: Borrowed arms may instead belong to sacred_combat if the passage emphasizes
+    disguise, substitution, or armor exchange; preserve the borrowed-arms detail as
+    evidence.
+  suggested_aliases:
+  - death_foreshadowed_by_borrowed_arms
+  - borrowed_armor_foreshadows_death
+  - foreshadowed_heroic_death_in_borrowed_armor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forest-burial-of-the-dead
+  motif_id: forest_burial_of_the_dead
+  label: forest burial of the dead
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A burial practice for the dead belongs with mortuary care and ancestor/dead
+    relations.
+  cautions: The forest location may be culturally specific; if the passage only describes
+    a disposal location without ritual care, this may be too contextual for broad
+    motif queries.
+  suggested_aliases:
+  - woodland_burial_of_the_dead
+  - burial_of_dead_in_forest
+  - forest_mortuary_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forest-sequestration-of-the-dead
+  motif_id: forest_sequestration_of_the_dead
+  label: Forest sequestration of the dead
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sequestering the dead in a forest is a mortuary handling pattern regulating
+    relations with the dead.
+  cautions: Could also be sacred_law if framed as taboo or pollution avoidance; source
+    context is needed before making it a durable child motif.
+  suggested_aliases:
+  - sequestration_of_dead_in_forest
+  - forest_mortuary_sequestration
+  - dead_sequestered_in_forest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forest-spirits-with-inverted-bodies-dwelling-in-trees
+  motif_id: forest_spirits_with_inverted_bodies_dwelling_in_trees
+  label: forest spirits with inverted bodies dwelling in trees
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines spirit type, bodily inversion, forest setting, and
+    tree dwelling without a clear narrative function.
+  cautions: May belong to otherworld, shapeshifter, axis_mundi, or local spirit taxonomy;
+    culturally specific spirit descriptions should not be normalized without passage
+    evidence.
+  suggested_aliases:
+  - inverted_tree_dwelling_forest_spirits
+  - tree_dwelling_forest_spirits_with_inverted_bodies
+  - inverted_body_woodland_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-companion-death-and-loyal-refusal-to-withdraw
+  motif_id: foretold_companion_death_and_loyal_refusal_to_withdraw
+  label: foretold companion death and loyal refusal to withdraw
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A companion's foretold death accepted through refusal to withdraw fits
+    foreknown doom under death_by_fate.
+  cautions: The loyalty/refusal element may also support divine_warrior or sacred_combat
+    if the context is heroic battle ethos; label is composite and episode-specific.
+  suggested_aliases:
+  - foretold_companion_death
+  - loyal_refusal_to_avoid_fated_death
+  - foreknown_death_refused_withdrawal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-death-by-a-close-servant
+  motif_id: foretold_death_by_a_close_servant
+  label: Foretold death by a close servant
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: medium
+  rationale: A death foretold by a specified agent fits the broader foreknown or destined
+    death pattern.
+  cautions: If the close servant is the killer rather than the revealer, this may
+    be betrayal_violated_trust or a passage-specific prediction; Sufi context may
+    emphasize spiritual insight rather than fate.
+  suggested_aliases:
+  - foretold_death_by_servant
+  - death_foretold_by_close_attendant
+  - predicted_death_by_servant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-death-by-a-special-object-in-battle
+  motif_id: foretold_death_by_a_special_object_in_battle
+  label: Foretold death by a special object in battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The foretold manner of battlefield death belongs with fate-marked heroic
+    death.
+  cautions: The special object may be a sacred_treasures motif if the object itself
+    carries power; if battle structure dominates, sacred_combat may be secondary.
+  suggested_aliases:
+  - foretold_battle_death_by_object
+  - fated_death_by_special_object
+  - death_foretold_by_battle_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foretold-death-by-stone-from-the-sea
+  motif_id: foretold_death_by_stone_from_the_sea
+  label: foretold death by stone from the sea
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A precisely foretold death by a named object/source is a granular instance
+    of fated death.
+  cautions: Stone-from-sea specificity should remain evidence detail; consider sacred_treasures
+    or sacred_waters only if the stone or sea has active sacred function beyond the
+    death prediction.
+  suggested_aliases:
+  - fated_death_by_sea_stone
+  - foretold_death_by_sea_borne_stone
+  - death_foretold_by_stone_from_sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, highly granular death-foretelling
+  variants; map provisionally to death_by_fate while preserving mechanism details
+  as aliases or evidence notes.
+- Do not infer transmission or common origin from shared death-foretelling structure.
+- Forest mortuary labels should be reviewed with cultural context before promotion
+  as durable child motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific mortuary and spirit labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0189
+  input_sha256: ad853a8bc4cc4d125dca56bd89fddacc0e23f9c6043f219f10873531ce0d8d8b
+

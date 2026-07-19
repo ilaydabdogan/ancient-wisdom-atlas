@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2294
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.magic-flight-with-thrown-objects-becoming-obstacles
+  motif_id: magic_flight_with_thrown_objects_becoming_obstacles
+  label: Magic flight with thrown objects becoming obstacles
+  occurrences: 2
+  traditions:
+  - native_american_northwest_coast
+  - romanian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Magic Flight and Pursuit Obstacles
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label names a recurrent pursuit-escape structure where magical objects
+    create barriers; no existing group cleanly covers magic flight apart from general
+    trickster or journey categories.
+  cautions: Could map to trickster when deception is central, or hero_journey when
+    pursuit is only part of a quest; verify source scenes before creating a durable
+    group.
+  suggested_aliases:
+  - magic_flight
+  - obstacle_flight
+  - thrown_objects_become_obstacles
+  - magical_pursuit_escape
+  suggested_new_group:
+    id: magic_flight_pursuit_obstacles
+    label: Magic Flight and Pursuit Obstacles
+    description: Escape from a pursuer through magical transformation, thrown objects,
+      created barriers, or rapidly appearing obstacles that delay or defeat pursuit.
+    parent_group_ids:
+    - hero_journey
+    - trickster
+    related_group_ids:
+    - shapeshifter
+    - threshold_guardian
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing groups cover journeys, tricksters,
+      and transformation, but not the specific pursuit-and-obstacle flight structure
+      shared across tale traditions.
+- suggestion_id: normalization.suggestion.vanishing-water-in-a-strange-country
+  motif_id: vanishing_water_in_a_strange_country
+  label: vanishing water in a strange country
+  occurrences: 2
+  traditions:
+  - australian_aboriginal
+  - indigenous_australian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns unusual behavior of water in a liminal or foreign
+    landscape, but the function is unclear from the label alone.
+  cautions: Could be sacred_waters, otherworld geography, etiological landscape myth,
+    drought/withdrawal motif, or a local place-specific narrative; Indigenous Australian
+    context should be reviewed carefully.
+  suggested_aliases:
+  - disappearing_water_in_strange_land
+  - vanishing_water
+  - strange_country_water_disappears
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-on-an-island-guarded-by-water-creatures
+  motif_id: abandoned_on_an_island_guarded_by_water_creatures
+  label: abandoned on an island guarded by water creatures
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: Water creatures guarding an island function as boundary guardians controlling
+    escape or passage from an isolated liminal place.
+  cautions: If the island is an enchanted realm, otherworld may be a secondary fit;
+    if abandonment is the main plot, hero_journey may be relevant. Single occurrence
+    may be over-specific.
+  suggested_aliases:
+  - island_guarded_by_water_creatures
+  - water_creature_guardians_of_island
+  - abandoned_on_guarded_island
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abduction-elements
+  motif_id: abduction_elements
+  label: Abduction elements
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label is a vague analytical tag naming component elements rather
+    than a motif with specific narrative function.
+  cautions: If source evidence identifies fairy abduction, bride abduction, stolen
+    beloved, or otherworld taking, remap a more specific generated label instead of
+    this artifact label.
+  suggested_aliases:
+  - abduction_motif_elements
+  - abduction_components
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abnormal-darkness-after-the-sun-is-appropriated
+  motif_id: abnormal_darkness_after_the_sun_is_appropriated
+  label: Abnormal darkness after the sun is appropriated
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif centers on loss or theft of the sun causing darkness, fitting
+    solar light as sacred cosmic power.
+  cautions: Could also fit sacred_theft if the appropriation is the narrative engine,
+    or cosmic_origin if the story explains the present sun order. Single occurrence
+    is granular.
+  suggested_aliases:
+  - sun_appropriated_causes_darkness
+  - theft_of_sun_causes_darkness
+  - loss_of_sunlight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absence-of-holiness-as-uselessness-and-darkness
+  motif_id: absence_of_holiness_as_uselessness_and_darkness
+  label: absence of holiness as uselessness and darkness
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a theological or ethical metaphor in which holiness
+    is light or useful orientation, but it lacks a clear narrative motif.
+  cautions: May be commentary, doctrinal aphorism, or metaphor rather than a pattern-query
+    motif; Sikh source context should determine whether sacred_knowledge, sacred_fire/light,
+    or exclusion is appropriate.
+  suggested_aliases:
+  - holiness_as_light
+  - absence_of_holiness_as_darkness
+  - spiritual_darkness_without_holiness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absence-of-snow-based-mountain-naming
+  motif_id: absence_of_snow_based_mountain_naming
+  label: absence of snow-based mountain naming
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a naming observation based on absence of an environmental
+    feature, not a symbolic or narrative motif.
+  cautions: If a source passage explains a mountain name etiologically, use cosmic_origin/place-name
+    etiology; this wording itself is likely an index artifact.
+  suggested_aliases:
+  - snow_absence_mountain_naming
+  - mountain_name_based_on_absence_of_snow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abundance-landscape-with-rivers-of-milk
+  motif_id: abundance_landscape_with_rivers_of_milk
+  label: Abundance landscape with rivers of milk
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A landscape of supernatural abundance with milk rivers resembles paradisal
+    or enchanted otherworld imagery.
+  cautions: If framed as divine provision in the ordinary world, divine_intervention
+    or sacred_substance may be secondary; if eschatological paradise, otherworld remains
+    best fit.
+  suggested_aliases:
+  - rivers_of_milk_in_abundant_land
+  - milk_river_abundance_landscape
+  - paradisal_abundance_with_milk_rivers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abundant-land-unused-by-non-seafaring-neighbors
+  motif_id: abundant_land_unused_by_non_seafaring_neighbors
+  label: abundant land unused by non-seafaring neighbors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a contextual geographic or ethnographic
+    situation rather than a clear mythic motif.
+  cautions: Could be colonization/travel context, a land-of-abundance image, or passage-specific
+    commentary. Do not map to otherworld unless the land is explicitly enchanted or
+    nonordinary.
+  suggested_aliases:
+  - unused_abundant_land
+  - abundant_land_beyond_non_seafarers
+  - neighboring_land_unused_due_to_lack_of_seafaring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abyssal-emergence-into-light
+  motif_id: abyssal_emergence_into_light
+  label: Abyssal emergence into light
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: ascent
+  suggested_group_label: Ascent and Heavenly Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Emergence from an abyss into light is an upward passage from darkness
+    toward illumination, fitting ascent as transformation or revelation.
+  cautions: Could instead be death_and_transformation, cosmic_origin, or duality in
+    Zoroastrian cosmological context; source evidence should clarify whether this
+    is journey, creation, or moral light/dark opposition.
+  suggested_aliases:
+  - emergence_from_abyss_into_light
+  - rising_from_darkness_to_light
+  - abyss_to_light_ascent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several nature-elements labels are metaphorical or contextual; avoid forcing water,
+  darkness, or landscape imagery into flood or cosmic-origin groups without narrative
+  function.
+- Single-occurrence, over-specific labels should generally remain granular evidence
+  unless parallel cases recur.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific Indigenous and
+    Sikh labels need source-aware human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2294
+  input_sha256: 15837ee8db328cce916cff0c5ff1ecc9bc080739dfb0a8904a4bd9dc190c759c
+

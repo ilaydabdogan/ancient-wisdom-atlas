@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1971
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.regional-variation-and-comparison-in-clothing-style
+  motif_id: regional_variation_and_comparison_in_clothing_style
+  label: Regional variation and comparison in clothing style
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes ethnographic comparison of clothing style rather
+    than a recurring narrative or symbolic motif.
+  cautions: If the passage uses clothing as disguise, identity proof, ritual status,
+    or transformation, remap to a functional motif instead of excluding.
+  suggested_aliases:
+  - clothing_style_regional_comparison
+  - regional_clothing_variation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-bride-price-exchange-and-restitution
+  motif_id: regulated_bride_price_exchange_and_restitution
+  label: regulated bride-price exchange and restitution
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A regulated marriage payment and restitution rule is primarily a legal-social
+    ordering motif.
+  cautions: Could also relate to sacred_exchange if the evidence emphasizes reciprocity
+    rather than law; single legal-context occurrence may be too specific for broad
+    patterning.
+  suggested_aliases:
+  - bride_price_restitution
+  - regulated_marriage_payment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-exogamy-and-prohibited-kin-marriage
+  motif_id: regulated_exogamy_and_prohibited_kin_marriage
+  label: Regulated exogamy and prohibited kin marriage
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Marriage prohibitions and exogamy rules fit sacred law and social order
+    as kinship regulation.
+  cautions: Review source context for whether this is mythic taboo, ethnographic custom,
+    or passage commentary; may need exclusion if only descriptive anthropology.
+  suggested_aliases:
+  - exogamy_rule
+  - prohibited_kin_marriage
+  - marriage_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-marriage-handover
+  motif_id: regulated_marriage_handover
+  label: Regulated marriage handover
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label points to prescribed marriage procedure within a normative
+    social order.
+  cautions: Could be too legal-procedural for motif queries unless embedded in a narrative
+    or ritual pattern; consider sacred_exchange if gift or reciprocity is central.
+  suggested_aliases:
+  - marriage_handover_rite
+  - regulated_marriage_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-remarriage-waiting-and-nursing-maintenance
+  motif_id: regulated_remarriage_waiting_and_nursing_maintenance
+  label: Regulated remarriage waiting and nursing maintenance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Waiting periods, remarriage rules, and nursing maintenance are explicit
+    sacred-law and family-order regulations.
+  cautions: Highly specific legal label; preserve as evidence detail rather than promote
+    as a canonical motif unless recurring across sources.
+  suggested_aliases:
+  - remarriage_waiting_period
+  - nursing_maintenance_rule
+  - regulated_remarriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-animal-or-insect-substitutes-before-reunion-with-wife
+  motif_id: rejected_animal_or_insect_substitutes_before_reunion_with_wife
+  label: rejected animal or insect substitutes before reunion with wife
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines spouse reunion, substitute partners, and animal/insect
+    imagery, and its narrative function is unclear.
+  cautions: May fit sacred_love, shapeshifter, trickster, or animal-spouse tale patterns
+    depending on passage evidence; avoid collapsing nonhuman spouse material into
+    generic love without review.
+  suggested_aliases:
+  - rejected_nonhuman_substitutes_before_spouse_reunion
+  - animal_substitutes_before_wife_reunion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-animal-wife-flees-to-another-nonhuman-partner
+  motif_id: rejected_animal_wife_flees_to_another_nonhuman_partner
+  label: rejected animal-wife flees to another nonhuman partner
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An animal-wife episode may involve nonhuman marriage, transformation,
+    otherworld relations, or marital rupture, none of which is clear from the label
+    alone.
+  cautions: Potentially culturally specific animal-spouse narrative; review evidence
+    before mapping to sacred_love, shapeshifter, or otherworld.
+  suggested_aliases:
+  - animal_wife_rejection_and_flight
+  - rejected_nonhuman_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-birth-mother-and-preferred-foster-parent
+  motif_id: rejected_birth_mother_and_preferred_foster_parent
+  label: rejected birth mother and preferred foster parent
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The family-role conflict could be adoption, fosterage, identity, miraculous
+    child, or household tension rather than a defined motif.
+  cautions: Needs passage context to determine whether foster parent preference has
+    sacred, initiatory, kinship, or merely episodic function.
+  suggested_aliases:
+  - birth_mother_rejected_for_foster_parent
+  - preferred_foster_parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-desire-redirected-toward-a-younger-sister
+  motif_id: rejected_desire_redirected_toward_a_younger_sister
+  label: rejected desire redirected toward a younger sister
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates a specific romantic or sexual redirection, but its
+    mythic function is unclear.
+  cautions: Could involve sacred_love, marriage choice, sibling/kinship taboo, rivalry,
+    or a passage-specific plot detail; handle sensitively and verify context.
+  suggested_aliases:
+  - redirected_desire_to_younger_sister
+  - rejected_suitor_turns_to_sister
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-elder-s-grievance-against-a-woman-s-children
+  motif_id: rejected_elder_s_grievance_against_a_woman_s_children
+  label: rejected elder's grievance against a woman's children
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a highly contextual social grievance and does not identify
+    a stable narrative function.
+  cautions: Source context is needed; may involve elder authority, kinship law, persecuted
+    children, or local episode detail. Avoid broad mapping without evidence.
+  suggested_aliases:
+  - elder_grievance_against_children
+  - rejected_elder_grievance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence family-law or kinship-regulation
+  items; sacred_law is the best existing broad group when the wording is explicitly
+  regulatory.
+- Animal-spouse and nonhuman partner labels likely need human review because the current
+  groups do not cleanly distinguish animal marriage, transformation, and otherworld
+  spouse patterns.
+- No transmission or borrowing inference is implied by any suggested placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; animal-spouse and contextual
+    family-conflict labels require source evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1971
+  input_sha256: 5cb95bc44a837832bfcef6e301021b2dcd2e9193523aaee8e341527eabcc7023
+

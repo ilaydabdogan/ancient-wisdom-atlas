@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2601
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.world-spanning-royal-submission
+  motif_id: world_spanning_royal_submission
+  label: world-spanning royal submission
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label suggests universal political submission to a ruler, fitting
+    cosmic sovereignty and world-rule imagery.
+  cautions: Could instead be royal_legitimacy if the emphasis is moral authority,
+    ritual hierarchy, or dynastic order rather than world sovereignty.
+  suggested_aliases:
+  - universal_royal_submission
+  - worldwide_submission_to_sacred_ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-tale-equivalents-and-variants
+  motif_id: world_tale_equivalents_and_variants
+  label: World-tale equivalents and variants
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes comparative tale-type variants rather than a narrative
+    or symbolic motif in the source material.
+  cautions: Preserve as cataloging or provenance metadata if useful; do not treat
+    as evidence of transmission or motif similarity.
+  suggested_aliases:
+  - world_tale_variants
+  - tale_type_equivalents_and_variants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-threatening-solar-heat
+  motif_id: world_threatening_solar_heat
+  label: World-threatening solar heat
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Dangerous solar heat is a fire/light force threatening cosmic or human
+    order, fitting the sacred fire and solar power complex.
+  cautions: If the passage depicts actual world-ending catastrophe or renewal, flood_and_renewal
+    or world_destroying_fire may be more precise; if it centers on the sun as deity,
+    theophany or divine_intervention may be secondary.
+  suggested_aliases:
+  - destructive_solar_heat
+  - solar_heat_threatens_the_world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-unable-to-bear-excessive-goodness
+  motif_id: world_unable_to_bear_excessive_goodness
+  label: World unable to bear excessive goodness
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to a moral-cosmic paradox, spiritual potency, or
+    passage-specific doctrinal claim; existing groups do not clearly capture it from
+    wording alone.
+  cautions: Could fit mystical_quest, divine_intervention, cosmic_disturbance by spiritual
+    mastery, or Buddhist doctrinal commentary depending on evidence; avoid mapping
+    without source context.
+  suggested_aliases:
+  - earth_unable_to_bear_excessive_merit
+  - world_cannot_bear_excessive_virtue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-unveiling-miracle-for-royal-conversion
+  motif_id: world_unveiling_miracle_for_royal_conversion
+  label: world-unveiling miracle for royal conversion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A miracle that unveils the world to convert a ruler functions as revelatory
+    sacred manifestation to a witness.
+  cautions: If the emphasis is persuasion through miracle rather than manifestation,
+    divine_intervention or sacred_knowledge may be secondary; royal conversion is
+    context-specific.
+  suggested_aliases:
+  - cosmic_unveiling_for_royal_conversion
+  - world_revealing_miracle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worldly-adornment-rejected-for-renunciants
+  motif_id: worldly_adornment_rejected_for_renunciants
+  label: worldly adornment rejected for renunciants
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rejecting adornment marks renunciation and detachment on a contemplative
+    or liberation-oriented path.
+  cautions: May be a monastic rule or ethical discipline rather than a narrative motif;
+    sacred_law may fit if the passage emphasizes formal regulation.
+  suggested_aliases:
+  - renunciant_rejection_of_worldly_adornment
+  - adornment_renounced_by_ascetics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worldly-attachment-as-bait-and-capture
+  motif_id: worldly_attachment_as_bait_and_capture
+  label: worldly attachment as bait and capture
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Attachment functioning as bait and capture expresses the spiritual danger
+    from which the seeker must detach or awaken.
+  cautions: If the passage is a fable-like deception scene rather than inner discipline,
+    trickster may be relevant; label may be metaphorical teaching rather than narrative
+    motif.
+  suggested_aliases:
+  - attachment_as_snare
+  - worldly_desire_as_bait
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worldly-becoming-as-burning-fire
+  motif_id: worldly_becoming_as_burning_fire
+  label: Worldly becoming as burning fire
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The burning world image expresses suffering and the need for liberation
+    from ordinary becoming, fitting the interior renunciant quest.
+  cautions: Do not map to world_destroying_fire unless a literal cosmic conflagration
+    or renewal is present; sacred_fire may be a secondary symbolic relation.
+  suggested_aliases:
+  - worldly_existence_as_fire
+  - samsaric_becoming_as_burning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worldly-entanglement-and-detachment
+  motif_id: worldly_entanglement_and_detachment
+  label: Worldly entanglement and detachment
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The contrast between entanglement and detachment is a core renunciant
+    or interior transformation theme within mystical quest material.
+  cautions: The label is abstract and may be a teaching theme rather than a discrete
+    motif; review source evidence for narrative or ritual function.
+  suggested_aliases:
+  - detachment_from_worldly_entanglement
+  - worldly_entanglement_overcome_by_detachment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worldly-fortune-as-deceptive-destroyer
+  motif_id: worldly_fortune_as_deceptive_destroyer
+  label: Worldly fortune as deceptive destroyer
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Deceptive worldly fortune leading to ruin fits the downfall pattern in
+    which apparent success or power destroys the unwary.
+  cautions: If the passage emphasizes ascetic detachment from the world rather than
+    downfall, mystical_quest may be a better primary group.
+  suggested_aliases:
+  - deceptive_worldly_fortune
+  - fortune_as_destroying_deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are abstract doctrinal or ethical labels rather than
+  concrete narrative motifs; mappings should remain provisional until passage evidence
+  confirms function.
+- The review bucket is nature/cosmos, but many labels using 'worldly' are better treated
+  as renunciation, detachment, or moral psychology rather than cosmology.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: One relationship value for world_entanglement should be checked during human
+    review because the label may be thematic teaching rather than motif evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2601
+  input_sha256: a59686f8dcae20012ecd2aaaebb7cd35fe0f018fbf2fe23187cb0e8686b1fc10
+

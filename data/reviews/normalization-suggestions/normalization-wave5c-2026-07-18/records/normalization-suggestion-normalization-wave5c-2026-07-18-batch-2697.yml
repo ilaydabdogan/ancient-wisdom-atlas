@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2697
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fourfold-warning-formula
+  motif_id: fourfold_warning_formula
+  label: fourfold warning formula
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a formulaic warning pattern, but the function is
+    unclear without passage evidence.
+  cautions: Could be performative speech, prophecy, combat warning, or a textual/formula
+    artifact; single occurrence.
+  suggested_aliases:
+  - repeated_warning_formula
+  - formulaic_warning_before_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - prophecy_divination
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fragmentary-interrupted-war-story
+  motif_id: fragmentary_interrupted_war_story
+  label: fragmentary interrupted war story
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label appears to describe text condition or narrative incompleteness
+    rather than a symbolic motif.
+  cautions: If interruption is an in-story event rather than textual fragmentariness,
+    review source evidence before exclusion.
+  suggested_aliases:
+  - fragmentary_war_narrative
+  - interrupted_war_story_fragment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.friend-becomes-enemy-under-compulsion
+  motif_id: friend_becomes_enemy_under_compulsion
+  label: friend becomes enemy under compulsion
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A compelled shift from friendship to enmity aligns with forced combat
+    between companions already grouped under sacred combat.
+  cautions: If the emphasis is violated trust, magical compulsion, or fate rather
+    than combat, secondary review may prefer betrayal_violated_trust, storytelling_as_power,
+    or death_by_fate.
+  suggested_aliases:
+  - former_friend_forced_into_enmity
+  - compelled_combat_between_friends
+  - friend_against_friend_under_compulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - death_by_fate
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.friendly-casualty-from-an-uncontrolled-miraculous-weapon
+  motif_id: friendly_casualty_from_an_uncontrolled_miraculous_weapon
+  label: Friendly casualty from an uncontrolled miraculous weapon
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key element is a miraculous weapon whose power exceeds control, fitting
+    sacred power objects and weapons.
+  cautions: If the passage centers on battle consequences rather than the object,
+    sacred_combat may be a better primary group; single occurrence is over-specific.
+  suggested_aliases:
+  - uncontrolled_miraculous_weapon_harms_allies
+  - friendly_fire_from_supernatural_weapon
+  - dangerous_supernatural_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.frightening-prank-with-a-weapon-provokes-retaliation
+  motif_id: frightening_prank_with_a_weapon_provokes_retaliation
+  label: Frightening prank with a weapon provokes retaliation
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe trickster misconduct, retaliatory violence,
+    or a local cautionary episode.
+  cautions: Likely over-specific and culturally contextual; source evidence needed
+    before mapping to trickster, divine_judgment, or sacred_combat.
+  suggested_aliases:
+  - weapon_prank_provokes_revenge
+  - dangerous_prank_leads_to_retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.frontier-violence-memorialized-as-grounds-for-war
+  motif_id: frontier_violence_memorialized_as_grounds_for_war
+  label: frontier violence memorialized as grounds for war
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif mixes memory, violence, and war justification, but the narrative
+    function is unclear.
+  cautions: Could be historical/social commentary rather than a reusable mythic motif;
+    review for culturally sensitive context and avoid treating it as transmission
+    evidence.
+  suggested_aliases:
+  - remembered_frontier_violence_as_war_cause
+  - memorialized_violence_justifies_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fugitive-hero-trapped-by-encircling-forces-and-landscape
+  motif_id: fugitive_hero_trapped_by_encircling_forces_and_landscape
+  label: fugitive hero trapped by encircling forces and landscape
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A hero enclosed by hostile forces belongs to combat ordeal and battlefield
+    crisis patterns.
+  cautions: Landscape entrapment may be an episode-specific detail; if the passage
+    emphasizes exile or pursuit rather than combat, hero_journey may be relevant.
+  suggested_aliases:
+  - encircled_fugitive_hero
+  - hero_trapped_by_enemies_and_landscape
+  - encircling_forces_trap_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fulfilled-prediction-of-enemy-encounter
+  motif_id: fulfilled_prediction_of_enemy_encounter
+  label: Fulfilled prediction of enemy encounter
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core motif is a prediction that is later fulfilled, with the enemy
+    encounter as its content.
+  cautions: If the prediction occurs as a spontaneous dream or vision, dream_and_vision
+    may be better; if merely a tactical expectation, review before indexing.
+  suggested_aliases:
+  - fulfilled_prophecy_of_enemy_encounter
+  - foretold_enemy_encounter
+  - prediction_of_enemy_meeting_fulfilled
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-cremation-with-weapons-circuits-and-tears
+  motif_id: funeral_cremation_with_weapons_circuits_and_tears
+  label: funeral cremation with weapons, circuits, and tears
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Cremation, weapons, circling, and mourning are funerary rites for a dead
+    heroic or martial figure.
+  cautions: The specific ritual details should remain evidence notes rather than a
+    separate canonical motif unless they recur.
+  suggested_aliases:
+  - heroic_cremation_with_weapons_and_lament
+  - funeral_circuit_around_cremation_with_weapons
+  - warrior_cremation_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-games-for-a-fallen-hero
+  motif_id: funeral_games_for_a_fallen_hero
+  label: Funeral games for a fallen hero
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: alias
+  confidence: high
+  rationale: This is a direct variant of existing funeral games for heroic dead under
+    heroic_funeral_rites.
+  cautions: Preserve fallen-hero wording as an alias; no new group needed.
+  suggested_aliases:
+  - funeral_games_after_heroic_death
+  - funeral_games_honoring_the_dead
+  - funeral_games_for_a_fallen_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  local detail in notes rather than promoting to canonical motif groups.
+- Combat-bucket placement should not override clearer functions such as prophecy,
+  sacred object, or funerary rite.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally contextual Native American and Inuit labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2697
+  input_sha256: 8da8f5e39ffe8468f3df2c4102d9218f5e1e34fb22cb411ed7bc7df5cc03797a
+

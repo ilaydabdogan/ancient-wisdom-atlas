@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0610
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.royal-campaign-conquest-and-removal-of-possessions
+  motif_id: royal_campaign_conquest_and_removal_of_possessions
+  label: royal campaign, conquest, and removal of possessions
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be royal warfare, conquest ideology, plunder, or a passage-specific
+    campaign detail; existing groups do not identify the function from the label alone.
+  cautions: Single occurrence; avoid mapping to hero_journey just because it involves
+    campaign movement. Source evidence needed for sacred combat, royal legitimacy,
+    or artifact exclusion.
+  suggested_aliases:
+  - royal conquest and plunder
+  - campaign plunder by a king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-comfort-exchanged-for-ascetic-hardship
+  motif_id: royal_comfort_exchanged_for_ascetic_hardship
+  label: royal comfort exchanged for ascetic hardship
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Renouncing royal comfort for ascetic hardship fits the interior quest
+    pattern of discipline, renunciation, and transformation.
+  cautions: If the passage emphasizes legal duty, exile, or kingship rather than spiritual
+    practice, hero_journey, sacred_law, or royal_legitimacy may be secondary fits.
+  suggested_aliases:
+  - royal renunciation for ascetic discipline
+  - renunciation of royal comfort
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-conquest-through-destruction-of-settlements
+  motif_id: royal_conquest_through_destruction_of_settlements
+  label: royal conquest through destruction of settlements
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: low
+  rationale: Conquest by destroying settlements is a warfare pattern and may fit sacred_combat
+    when the passage frames royal violence as ritually or cosmically significant.
+  cautions: Single occurrence and may be annalistic campaign detail rather than a
+    motif. If the focus is royal propaganda or imperial legitimacy, royal_legitimacy
+    may be better.
+  suggested_aliases:
+  - royal conquest by settlement destruction
+  - destruction of settlements in royal conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-family-worshiping-a-divine-principle
+  motif_id: royal_family_worshiping_a_divine_principle
+  label: royal family worshiping a divine principle
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Royal household worship of a divine principle likely sacralizes dynasty
+    and rule, fitting sacred kingship and legitimacy.
+  cautions: If the passage merely lists cultic devotion without legitimizing rule,
+    divine_intervention, theophany, or sacred_exchange may be more appropriate; source
+    context needed.
+  suggested_aliases:
+  - royal household worship
+  - dynastic worship of divine principle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-participation-in-public-worship
+  motif_id: royal_participation_in_public_worship
+  label: Royal participation in public worship
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ruler joining public worship commonly expresses sacred kingship and
+    the ruler's role in communal religious order.
+  cautions: May be a contextual ritual detail rather than a durable motif; if reciprocal
+    offering is central, sacred_exchange may be a secondary mapping.
+  suggested_aliases:
+  - ruler participates in public worship
+  - royal public worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-pilgrimage-to-sacred-fire-sanctuary
+  motif_id: royal_pilgrimage_to_sacred_fire_sanctuary
+  label: Royal pilgrimage to sacred fire sanctuary
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The central sacred object and destination is a fire sanctuary, aligning
+    with sacred fire as divine presence and ritual focus.
+  cautions: Could also support royal_legitimacy if pilgrimage authorizes kingship,
+    or hero_journey if the narrative emphasizes transformative travel. Preserve the
+    royal and pilgrimage details.
+  suggested_aliases:
+  - royal pilgrimage to fire temple
+  - king visits sacred fire sanctuary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-quest-to-satisfy-pregnancy-cravings
+  motif_id: royal_quest_to_satisfy_pregnancy_cravings
+  label: Royal quest to satisfy pregnancy cravings
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines royal status, quest action, and pregnancy craving,
+    but its motif function is unclear without narrative evidence.
+  cautions: May relate to sacred_birth, sacred_love/family, hero_journey, or an episode-specific
+    court detail. Single occurrence argues against promoting a new group now.
+  suggested_aliases:
+  - quest to fulfill pregnancy craving
+  - royal fulfillment of pregnancy longing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-request-accommodated-in-religious-discipline
+  motif_id: royal_request_accommodated_in_religious_discipline
+  label: Royal request accommodated in religious discipline
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Accommodation of a royal request within religious discipline suggests
+    regulation of practice and social order under sacred norms.
+  cautions: Could be a monastic-rule origin note or passage-specific legal detail;
+    if the emphasis is royal authority shaping religion, royal_legitimacy may be relevant.
+  suggested_aliases:
+  - royal request within religious discipline
+  - religious discipline adjusted for royal request
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-request-for-tales-of-magical-deeds
+  motif_id: royal_request_for_tales_of_magical_deeds
+  label: royal request for tales of magical deeds
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A royal request that elicits tales of magical deeds centers on narrative
+    performance and transmission of wondrous knowledge.
+  cautions: If the request is only a frame device or court entertainment, it may be
+    a textual artifact rather than a motif. Review whether storytelling has narrative
+    power beyond setup.
+  suggested_aliases:
+  - king requests magical tales
+  - royal request for wonder tales
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-request-leading-to-religious-regulation
+  motif_id: royal_request_leading_to_religious_regulation
+  label: Royal request leading to religious regulation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A request that results in religious regulation fits sacred law as the
+    formation or adjustment of rules governing religious/social order.
+  cautions: If the point is royal authority legitimizing or influencing religious
+    institutions, royal_legitimacy may be a secondary group. Single occurrence may
+    be an origin note for a rule.
+  suggested_aliases:
+  - royal request creates religious rule
+  - religious regulation from royal request
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence royal or court-context composites; reviewers
+  should verify whether they are durable motifs or passage-specific historical/court
+  details.
+- The supplied review bucket is journey_quest_homecoming, but many items are better
+  explained by royal_legitimacy, sacred_law, sacred_fire, or storytelling_as_power
+  rather than journey structure.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source context needed for single-occurrence
+    royal campaign and religious-regulation labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0610
+  input_sha256: e6184c045ae231eec4ef6f39e0ea1389aa8b68ac4904fc407ce0103cfdcef753
+

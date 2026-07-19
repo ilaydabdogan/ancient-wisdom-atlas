@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2120
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.burning-animal-fat-brings-storm
+  motif_id: burning_animal_fat_brings_storm
+  label: burning animal fat brings storm
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual weather causation, animal sacrifice, or
+    a local etiological episode; existing groups do not clearly fit from label alone.
+  cautions: Single occurrence and culturally specific; review source evidence before
+    mapping to sacrifice, sacred_exchange, sacred_fire, or divine_intervention.
+  suggested_aliases:
+  - animal_fat_burning_causes_storm
+  - storm_caused_by_burning_animal_fat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-animal-spreads-fire-to-vegetation
+  motif_id: burning_animal_spreads_fire_to_vegetation
+  label: burning animal spreads fire to vegetation
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be an etiological fire-origin/spread episode, an animal transformation
+    scene, or a passage-specific incident.
+  cautions: Do not map to world_destroying_fire unless the passage concerns cosmic
+    or social-order destruction and renewal; source context is needed.
+  suggested_aliases:
+  - burning_animal_spreads_fire
+  - animal_carries_fire_to_vegetation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.caged-bird-warning-against-entering-a-murderer-s-house
+  motif_id: caged_bird_warning_against_entering_a_murderer_s_house
+  label: caged bird warning against entering a murderer’s house
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bird gives a warning of hidden danger, functioning as an omen or prophetic
+    sign.
+  cautions: If the point is an animal helper rather than omen speech, divine_intervention
+    or a future animal-helper grouping may be better; the murderer’s house detail
+    is over-specific.
+  suggested_aliases:
+  - warning_bird_omen
+  - bird_warns_against_entering_deadly_house
+  - caged_bird_as_warning_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.call-and-response-with-omen-bird
+  motif_id: call_and_response_with_omen_bird
+  label: call-and-response with omen bird
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The bird is explicitly an omen-bearer, and the exchange appears to be
+    a divinatory or sign-reading interaction.
+  cautions: If the source frames it as ordinary animal communication or ritual song
+    rather than omen interpretation, review placement.
+  suggested_aliases:
+  - omen_bird_call_and_response
+  - dialogue_with_omen_bird
+  - bird_omen_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.calling-an-animal-from-an-elevated-place
+  motif_id: calling_an_animal_from_an_elevated_place
+  label: calling an animal from an elevated place
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a very specific action and setting without a clear
+    symbolic or narrative function.
+  cautions: If source evidence shows the elevated call is ritual summoning, hunting
+    magic, or supernatural animal control, remap under divine_intervention, sacred_law,
+    or a future animal-helper group.
+  suggested_aliases:
+  - animal_called_from_height
+  - calling_animal_from_high_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.camouflaged-hunter-mistaken-for-animal-or-landscape
+  motif_id: camouflaged_hunter_mistaken_for_animal_or_landscape
+  label: camouflaged hunter mistaken for animal or landscape
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Camouflage creates mistaken identity and boundary-blurring between human,
+    animal, and landscape, fitting deception/disguise functions.
+  cautions: May be a hunting tactic rather than a mythic trickster motif; if transformation
+    is literal, shapeshifter may be a better secondary group.
+  suggested_aliases:
+  - camouflaged_hunter_mistaken_for_animal
+  - hunter_disguised_as_landscape
+  - hunter_animal_landscape_mistaken_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canine-epithet-or-dog-derived-affiliation
+  motif_id: canine_epithet_or_dog_derived_affiliation
+  label: canine epithet or dog-derived affiliation
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as onomastic or affiliation metadata rather than a narrative
+    motif.
+  cautions: If the passage includes dog ancestry, transformation, taboo, or a heroic
+    identity proof, remap to a substantive group such as shapeshifter, sacred_law,
+    or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - dog_derived_epithet
+  - canine_affiliation_name
+  - canine_name_affiliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-animal-men
+  motif_id: cannibal_animal_men
+  label: Cannibal animal-men
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Hybrid animal-human cannibal beings fit the animal-human transformation
+    or liminal-being field better than ordinary animal motifs.
+  cautions: Could instead be monsters, threshold guardians, or culturally specific
+    dangerous beings; avoid flattening local categories without source review.
+  suggested_aliases:
+  - cannibal_animal_people
+  - animal_human_cannibals
+  - cannibal_hybrid_men
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-host-offers-disguised-human-flesh
+  motif_id: cannibal_host_offers_disguised_human_flesh
+  label: cannibal host offers disguised human flesh
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A host offering disguised human flesh violates hospitality and trust
+    through deceptive food.
+  cautions: May also relate to hospitality_test_stranger_guest or trickster depending
+    on whether the emphasis is host betrayal, guest testing, or deception.
+  suggested_aliases:
+  - deceptive_cannibal_feast
+  - human_flesh_disguised_as_food
+  - host_betrayal_through_disguised_human_flesh
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-host-treats-human-victim-as-game-animal
+  motif_id: cannibal_host_treats_human_victim_as_game_animal
+  label: Cannibal host treats human victim as game animal
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines cannibal predation, host role, and human-animal category
+    inversion; no existing group captures the function cleanly.
+  cautions: Could map to betrayal_violated_trust, trickster/predator deception, or
+    sacred_law taboo depending on source evidence; culturally sensitive cannibal-being
+    motifs require review.
+  suggested_aliases:
+  - human_victim_treated_as_game
+  - cannibal_host_hunts_human_as_animal
+  - human_as_game_animal_for_cannibal_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal/cannibal/hunting details;
+  preserve local evidence and avoid promoting overly specific scenes without recurrence.
+- Cannibal and hybrid-being labels should receive human cultural-context review before
+  broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages needed for ambiguous animal,
+    hunting, and cannibal-host motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2120
+  input_sha256: 7fa5412802e1e3a05eab208d450a5d9a069f66a683438af0d1c3ea49f74c7b43
+

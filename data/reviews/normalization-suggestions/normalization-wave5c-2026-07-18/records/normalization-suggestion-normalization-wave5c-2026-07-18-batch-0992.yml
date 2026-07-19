@@ -1,0 +1,332 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0992
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rain-making-demonstration-by-sacred-fetish-and-four-day-songs
+  motif_id: rain_making_demonstration_by_sacred_fetish_and_four_day_songs
+  label: rain-making demonstration by sacred fetish and four-day songs
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Rainmaking rites are recurrent in the batch, but this label combines
+    culturally specific object terminology, songs, and a four-day sequence that needs
+    source-sensitive review.
+  cautions: The term fetish may reflect older ethnographic wording; avoid normalizing
+    without checking source language and ritual context.
+  suggested_aliases:
+  - rain_making_rite_with_sacred_object_and_songs
+  - rain_ritual_song_sequence
+  suggested_new_group:
+    id: rainmaking_weather_rite
+    label: Rainmaking and Weather Rite
+    description: Ritual prayer, song, offering, race, sacred object use, or specialist
+      action intended to invite, influence, or regulate rain and weather powers.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - divine_intervention
+    related_group_ids:
+    - sacred_waters
+    - sacred_substance
+    - enchanting_music
+    reason_existing_groups_insufficient: Existing groups cover exchange, law, waters,
+      and divine intervention, but no current group cleanly preserves ritual weather-making
+      as the central function.
+- suggestion_id: normalization.suggestion.rain-making-practitioner-or-rite
+  motif_id: rain_making_practitioner_or_rite
+  label: rain-making practitioner or rite
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Rite
+  relationship: broader_label
+  confidence: medium
+  rationale: The label names a general practitioner or rite for rainmaking, which
+    recurs across adjacent unmapped items and is not reducible to sacrifice or water
+    symbolism alone.
+  cautions: Because tradition is comparative and occurrence count is low, human review
+    should confirm this is a motif rather than a comparative category heading.
+  suggested_aliases:
+  - rain_making_rite
+  - rain_practitioner
+  - weather_making_rite
+  suggested_new_group:
+    id: rainmaking_weather_rite
+    label: Rainmaking and Weather Rite
+    description: Ritual prayer, song, offering, race, sacred object use, or specialist
+      action intended to invite, influence, or regulate rain and weather powers.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - divine_intervention
+    related_group_ids:
+    - sacred_waters
+    - sacred_substance
+    - enchanting_music
+    reason_existing_groups_insufficient: Existing groups do not provide a stable home
+      for weather-control ritual as a repeated narrative or ritual function.
+- suggestion_id: normalization.suggestion.rain-making-ritual-race
+  motif_id: rain_making_ritual_race
+  label: Rain-making ritual race
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Rite
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A race performed to make rain fits the proposed rainmaking ritual complex,
+    but the competitive or ceremonial form is culturally specific.
+  cautions: Check whether the race is a weather rite, seasonal ceremony, initiation,
+    or local ceremonial detail before mapping.
+  suggested_aliases:
+  - ritual_race_for_rain
+  - rainmaking_race
+  suggested_new_group:
+    id: rainmaking_weather_rite
+    label: Rainmaking and Weather Rite
+    description: Ritual prayer, song, offering, race, sacred object use, or specialist
+      action intended to invite, influence, or regulate rain and weather powers.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - divine_intervention
+    related_group_ids:
+    - sacred_waters
+    - sacred_time
+    - sacred_combat
+    reason_existing_groups_insufficient: Sacred_time or sacred_exchange can hold aspects
+      of the rite, but neither preserves rainmaking as the main ritual aim.
+- suggestion_id: normalization.suggestion.rain-prayer-fetish-containing-water-toad-and-edible-seeds
+  motif_id: rain_prayer_fetish_containing_water_toad_and_edible_seeds
+  label: Rain-prayer fetish containing water, toad, and edible seeds
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a very specific ritual object used in rain
+    prayer, crossing sacred object, water, animal, seed, and weather-rite meanings.
+  cautions: Likely over-specific and culturally sensitive; review terminology and
+    whether object contents should remain evidence detail rather than a query motif.
+  suggested_aliases:
+  - rain_prayer_sacred_object
+  - rain_prayer_bundle_with_water_toad_and_seeds
+  suggested_new_group:
+    id: rainmaking_weather_rite
+    label: Rainmaking and Weather Rite
+    description: Ritual prayer, song, offering, race, sacred object use, or specialist
+      action intended to invite, influence, or regulate rain and weather powers.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - divine_intervention
+    related_group_ids:
+    - sacred_waters
+    - sacred_treasures
+    - sacred_substance
+    reason_existing_groups_insufficient: The existing sacred_treasures and sacred_waters
+      groups capture components but not the ritual weather-making function.
+- suggestion_id: normalization.suggestion.rain-prayer-water-rite-to-six-regions
+  motif_id: rain_prayer_water_rite_to_six_regions
+  label: Rain-prayer water rite to six regions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: Rainmaking and Weather Rite
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A water rite directed to multiple regions fits rainmaking/weather ritual
+    and may also involve sacred geography.
+  cautions: The six-region structure may be locally important; do not flatten it into
+    generic water symbolism without source review.
+  suggested_aliases:
+  - rain_prayer_to_six_directions
+  - regional_rain_prayer_water_rite
+  suggested_new_group:
+    id: rainmaking_weather_rite
+    label: Rainmaking and Weather Rite
+    description: Ritual prayer, song, offering, race, sacred object use, or specialist
+      action intended to invite, influence, or regulate rain and weather powers.
+    parent_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - divine_intervention
+    related_group_ids:
+    - sacred_waters
+    - axis_mundi
+    - sacred_time
+    reason_existing_groups_insufficient: Sacred_waters covers the medium, but not
+      the directional rain-prayer function.
+- suggestion_id: normalization.suggestion.rain-seeking-offering-rite
+  motif_id: rain_seeking_offering_rite
+  label: rain-seeking offering rite
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: 'The offering aspect fits sacred_exchange: giving or offering to repair
+    or activate relationship with sacred powers for rain.'
+  cautions: If the passage emphasizes weather-making technique over offering reciprocity,
+    the proposed rainmaking_weather_rite group may be a better primary placement.
+  suggested_aliases:
+  - rain_offering_rite
+  - offering_for_rain
+  - rain_seeking_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rain-songs-influencing-divine-rain-makers
+  motif_id: rain_songs_influencing_divine_rain_makers
+  label: rain songs influencing divine rain-makers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Songs are portrayed as efficacious sound influencing divine rain-making
+    powers, aligning with music or song as supernatural force.
+  cautions: May also belong to rainmaking_weather_rite if weather control, not sound
+    power, is the main query need.
+  suggested_aliases:
+  - rain_songs_affecting_weather_powers
+  - efficacious_rain_songs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rainbow-boundary-and-holy-dwelling-adornment
+  motif_id: rainbow_boundary_and_holy_dwelling_adornment
+  label: rainbow boundary and holy dwelling adornment
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The rainbow may function as boundary, sacred architecture, adornment,
+    or divine presence; existing groups do not identify the main function from the
+    label alone.
+  cautions: Potentially culturally specific sacred geography or ceremonial imagery;
+    review whether to map to axis_mundi, threshold_guardian, theophany, or sacred_fire/light.
+  suggested_aliases:
+  - rainbow_as_sacred_boundary
+  - rainbow_adornment_of_holy_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rainbow-caused-by-divine-celestial-liquid
+  motif_id: rainbow_caused_by_divine_celestial_liquid
+  label: Rainbow caused by divine celestial liquid
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label is an etiological explanation of a natural/celestial phenomenon,
+    fitting cosmic origin and etiological cosmology.
+  cautions: If the source emphasizes sacred substance rather than origin explanation,
+    sacred_substance or sacred_waters may be better secondary mappings.
+  suggested_aliases:
+  - rainbow_etiology_from_celestial_liquid
+  - divine_liquid_causes_rainbow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rainbow-pointing-taboo-with-finger-penalty
+  motif_id: rainbow_pointing_taboo_with_finger_penalty
+  label: Rainbow pointing taboo with finger penalty
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prohibition against pointing at a rainbow with a bodily penalty is
+    a taboo or ritual-prohibition pattern under sacred law.
+  cautions: The finger penalty is an over-specific local detail; preserve it as evidence
+    but avoid making it a broad motif unless it recurs.
+  suggested_aliases:
+  - rainbow_pointing_taboo
+  - taboo_against_pointing_at_rainbow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several rain-related labels suggest a recurring weather-rite complex not cleanly
+  represented by existing groups; propose human review for a possible rainmaking_weather_rite
+  group rather than forcing all items into sacred_exchange or sacred_waters.
+- Culturally specific Native American Southwest ritual labels and older terms such
+  as fetish should be reviewed carefully against source wording before normalization.
+- 'Rainbow labels split by function: boundary/adornment needs review, etiological
+  rainbow origin can map to cosmic_origin, and taboo can map to sacred_law.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0992
+  input_sha256: 38d341c851c67d4140fee2454b2ef6f32ca9489ec686a7ccdbdbb5108ead88dd
+

@@ -1,0 +1,319 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0487
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.crossing-of-gendered-dress-and-social-role
+  motif_id: crossing_of_gendered_dress_and_social_role
+  label: crossing of gendered dress and social role
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate ritual role crossing, disguise, gender transformation,
+    or social liminality, but the function is unclear from wording alone.
+  cautions: Culturally sensitive and single-occurrence; avoid collapsing into shapeshifter
+    or trickster without evidence of transformation, deception, or sacred office.
+  suggested_aliases:
+  - gendered_dress_crossing
+  - cross_gender_social_role
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crossing-of-habitat-boundary-with-reversal
+  motif_id: crossing_of_habitat_boundary_with_reversal
+  label: crossing of habitat boundary with reversal
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: low
+  rationale: A habitat boundary crossing with reversal suggests a liminal passage
+    pattern where crossing a boundary changes roles or outcomes.
+  cautions: No guardian is explicit; if the passage concerns animal-human habitat
+    exchange or transformation, shapeshifter or otherworld may be better.
+  suggested_aliases:
+  - habitat_boundary_crossing
+  - boundary_crossing_with_reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - otherworld
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crossing-over-as-a-limited-travel-exception
+  motif_id: crossing_over_as_a_limited_travel_exception
+  label: Crossing over as a limited travel exception
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording sounds like a doctrinal or narrative exception to a travel
+    rule rather than a clear motif.
+  cautions: May be a passage artifact or legal/doctrinal detail; map only if evidence
+    shows a meaningful threshold, pilgrimage, exile, or otherworld crossing.
+  suggested_aliases:
+  - limited_exception_for_crossing_over
+  - exceptional_crossing_permission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_law
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crossing-sea-river-abyss-or-cliff
+  motif_id: crossing_sea_river_abyss_or_cliff
+  label: crossing sea, river, abyss, or cliff
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: broader_label
+  confidence: medium
+  rationale: Sea and river crossing match the existing sacred waters and passage-through-water
+    complex, with abyss or cliff as broader perilous thresholds.
+  cautions: If abyss or cliff is central rather than water, threshold_guardian, descent,
+    or initiation may be a better secondary placement.
+  suggested_aliases:
+  - perilous_crossing_of_water_or_abyss
+  - crossing_water_abyss_or_cliff
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - descent
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crossing-spoor-as-an-evasive-or-protective-action
+  motif_id: crossing_spoor_as_an_evasive_or_protective_action
+  label: Crossing spoor as an evasive or protective action
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The action may be protective magic, tracking evasion, hunting lore, or
+    a local ritual practice; the motif function is unclear.
+  cautions: Single occurrence and culturally specific; review source context before
+    mapping to sacred_law, trickster, or animal-related motifs.
+  suggested_aliases:
+  - spoor_crossing_for_protection
+  - spoor_crossing_as_evasion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - trickster
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crossing-the-unfathomable-world-ocean
+  motif_id: crossing_the_unfathomable_world_ocean
+  label: Crossing the unfathomable world-ocean
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In a Sikh context, the world-ocean is often a metaphor for spiritual
+    peril and liberation, fitting an interior or mystical crossing.
+  cautions: If the passage describes literal cosmological water or travel, sacred_waters
+    may be secondary; avoid treating it as flood or sea voyage without evidence.
+  suggested_aliases:
+  - world_ocean_crossing
+  - crossing_the_world_ocean
+  - bhavsagar_crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacred_knowledge
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crossroads-and-forest-threshold-during-flight
+  motif_id: crossroads_and_forest_threshold_during_flight
+  label: crossroads and forest threshold during flight
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: narrower_than
+  confidence: medium
+  rationale: Crossroads and forest edges during flight are liminal boundary sites
+    where escape, pursuit, or danger is negotiated.
+  cautions: If the flight sequence is merely plot geography, preserve as evidence
+    detail rather than a query motif; hero_journey may be secondary if transformation
+    follows.
+  suggested_aliases:
+  - crossroads_forest_threshold_in_flight
+  - liminal_crossroads_during_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - trickster
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crossroads-charitable-house
+  motif_id: crossroads_charitable_house
+  label: Crossroads charitable house
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A charitable house at a crossroads centers giving or hospitality at a
+    travel threshold, fitting sacred exchange more than journey itself.
+  cautions: If the house is only a location marker, it may be over-specific; hospitality_test_stranger_guest
+    may fit if guests are tested or received.
+  suggested_aliases:
+  - charitable_house_at_crossroads
+  - crossroads_hospitality_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - sacred_law
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crossroads-direction-toward-a-fate-inquiry-destination
+  motif_id: crossroads_direction_toward_a_fate_inquiry_destination
+  label: crossroads direction toward a fate-inquiry destination
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The journey direction is organized around inquiry into fate, aligning
+    with divination and future-knowledge seeking.
+  cautions: Crossroads symbolism may also imply threshold logic; if no divinatory
+    method or fate inquiry is present, threshold_guardian or hero_journey may be better.
+  suggested_aliases:
+  - crossroads_path_to_fate_inquiry
+  - fate_inquiry_at_crossroads
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - death_by_fate
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crossroads-goddess-with-three-way-title
+  motif_id: crossroads_goddess_with_three_way_title
+  label: Crossroads goddess with three-way title
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: A crossroads goddess may function as threshold deity, underworld guide,
+    magical patron, or named divine title; evidence is needed to choose.
+  cautions: Could be person/title-specific, especially if referring to Hecate; avoid
+    indexing a deity name alone as a motif unless the crossroads function is explicit.
+  suggested_aliases:
+  - three_way_crossroads_goddess
+  - triform_crossroads_goddess
+  - goddess_of_the_three_ways
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - descent
+    - theophany
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence crossroads or crossing details; distinguish
+  true liminal passage from incidental travel geography during human review.
+- Do not infer flood, descent, or transformation from crossing language unless the
+  source passage supplies that function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements emphasize existing threshold, sacred waters, sacred
+    exchange, mystical quest, and divination groups; culturally specific and deity-title
+    labels require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0487
+  input_sha256: d0cdd5b26984bd5e4a9eeb47b49df4acb84447626148f8fa953713c2fb06dabf
+

@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0727
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.council-mediated-transfer-of-sacred-or-church-objects-for-preservation
+  motif_id: council_mediated_transfer_of_sacred_or_church_objects_for_preservation
+  label: Council-mediated transfer of sacred or church objects for preservation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on sacred objects preserved through communal transfer,
+    fitting power or sacred-object handling more than sacrifice.
+  cautions: Single occurrence and church-object wording may be historical or colonial-context-specific;
+    verify that the objects function as sacred treasures rather than administrative
+    property.
+  suggested_aliases:
+  - communal_transfer_of_sacred_objects_for_preservation
+  - preservation_of_sacred_objects_by_council
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.council-of-the-gods
+  motif_id: council_of_the_gods
+  label: council of the gods
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Divine Assembly and Council of the Gods
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine council is a recurring mythic governance scene not cleanly captured
+    by intervention, judgment, or royal legitimacy alone.
+  cautions: With one occurrence in this batch, review against wider unmapped labels
+    before adding a group; may be a scene setting rather than a motif in some passages.
+  suggested_aliases:
+  - divine_council
+  - assembly_of_the_gods
+  - council_of_deities
+  suggested_new_group:
+    id: divine_assembly
+    label: Divine Assembly and Council of the Gods
+    description: Gods, spirits, or heavenly powers meet in council, assembly, court,
+      or deliberative gathering to debate, decree, judge, authorize, or coordinate
+      action in the cosmos or human affairs.
+    parent_group_ids:
+    - divine_intervention
+    - divine_judgment
+    - royal_legitimacy
+    related_group_ids:
+    - supreme_ruler
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover divine action, judgment,
+      and sovereignty, but not the distinctive collective deliberation or divine court
+      structure.
+- suggestion_id: normalization.suggestion.counted-repetition-of-ritual-formulas
+  motif_id: counted_repetition_of_ritual_formulas
+  label: Counted repetition of ritual formulas
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Repeated ritual formulas foreground speech acts whose efficacy depends
+    on prescribed utterance and number.
+  cautions: Could also belong under sacred_law if the emphasis is rule-bound ritual
+    observance rather than formulaic speech power.
+  suggested_aliases:
+  - numbered_repetition_of_sacred_formulas
+  - ritual_repetition_of_sacred_words
+  - counted_formula_recitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.counted-ritual-interval-marked-by-erasing-meal-lines
+  motif_id: counted_ritual_interval_marked_by_erasing_meal_lines
+  label: counted ritual interval marked by erasing meal lines
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label appears to mark a ritual interval or count within sacred time,
+    but the meal-line action is highly specific.
+  cautions: May be an ethnographic detail or passage artifact; source context is needed
+    before mapping to sacred_time, sacred_law, or exclusion.
+  suggested_aliases:
+  - counted_ritual_interval
+  - ritual_count_marked_by_erasure
+  - meal_line_erasure_as_ritual_count
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.counter-proposal-redirects-harmful-ritual-obligation-to-the-proposers
+  motif_id: counter_proposal_redirects_harmful_ritual_obligation_to_the_proposers
+  label: Counter-proposal redirects harmful ritual obligation to the proposers
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Redirecting a harmful obligation back onto proposers resembles moral
+    reversal or consequence following action.
+  cautions: This may be a rhetorical or legal-ethical anecdote rather than a divine
+    or mythic judgment motif; review Confucian source context carefully.
+  suggested_aliases:
+  - harmful_obligation_redirected_to_proposers
+  - ritual_counterproposal_reverses_harm
+  - moral_reversal_of_harmful_ritual_demand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.counterpart-isolated-territories-within-a-sacred-map
+  motif_id: counterpart_isolated_territories_within_a_sacred_map
+  label: counterpart isolated territories within a sacred map
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: A sacred map may concern sacred geography or cosmic ordering, but the
+    function of counterpart isolated territories is unclear.
+  cautions: Could fit axis_mundi, cosmic_origin, sacred_time, or a textual cosmography
+    note; do not map without passage evidence.
+  suggested_aliases:
+  - sacred_map_of_counterpart_territories
+  - paired_isolated_regions_in_sacred_geography
+  - cosmographic_counterpart_territories
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.countless-divine-manifestations-without-bodily-form
+  motif_id: countless_divine_manifestations_without_bodily_form
+  label: countless divine manifestations without bodily form
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label describes divine manifestation, especially a non-bodily or
+    formless mode of sacred presence.
+  cautions: May reflect theological doctrine rather than narrative theophany; review
+    whether it should be indexed as motif evidence or doctrinal description.
+  suggested_aliases:
+  - formless_divine_manifestations
+  - innumerable_manifestations_of_the_formless_divine
+  - bodiless_divine_manifestation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.court-favorite-elevated-by-royal-patronage
+  motif_id: court_favorite_elevated_by_royal_patronage
+  label: Court favorite elevated by royal patronage
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: Elevation by royal favor concerns court hierarchy and legitimizing power
+    under kingship.
+  cautions: May be a historical court detail rather than a mythic motif; exclude if
+    no sacred, symbolic, or narrative function is present.
+  suggested_aliases:
+  - royal_patronage_elevates_court_favorite
+  - court_favorite_raised_by_the_king
+  - advancement_through_royal_favor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.created-and-perishable-divine-word
+  motif_id: created_and_perishable_divine_word
+  label: Created and perishable divine word
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The divine word belongs to sacred knowledge or sacred speech, but created/perishable
+    wording is a doctrinal claim needing context.
+  cautions: Likely theological polemic or commentary artifact; culturally sensitive
+    and should not be normalized without source evidence and reviewer judgment.
+  suggested_aliases:
+  - created_divine_word
+  - perishable_divine_word
+  - created_status_of_divine_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.created-divine-word
+  motif_id: created_divine_word
+  label: created divine word
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The divine word may relate to sacred knowledge or performative speech,
+    but the label mainly expresses doctrinal classification.
+  cautions: Review with created_and_perishable_divine_word; may be theological commentary
+    rather than a narrative motif for pattern queries.
+  suggested_aliases:
+  - created_status_of_divine_word
+  - created_divine_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual or doctrinal formulations;
+  source-context review is important before adding durable mappings.
+- For Islamic divine-word labels, avoid normalizing doctrinal controversy as a cross-tradition
+  motif without human review.
+- The proposed divine_assembly group should only be considered if divine councils
+  recur across the broader gap audit.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0727
+  input_sha256: 8ff90f811f11edcdacfa76ef08eb14230385538cfba8fed5f5baab41a43434f0
+

@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3814
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.proportional-moral-measurement
+  motif_id: proportional_moral_measurement
+  label: proportional moral measurement
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Proportional moral measurement fits weighing, testing, or moral accounting
+    under divine judgment.
+  cautions: Could be a philosophical or ethical abstraction rather than a narrative
+    motif; verify passage evidence.
+  suggested_aliases:
+  - proportional moral reckoning
+  - measure-for-measure judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prosperity-following-pacification
+  motif_id: prosperity_following_pacification
+  label: Prosperity following pacification
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe restoration of social order, divine blessing,
+    or merely a historical/political outcome.
+  cautions: Needs source context to distinguish royal_legitimacy, divine_judgment,
+    sacred_law, or a non-motif prosperity note.
+  suggested_aliases:
+  - peace followed by prosperity
+  - prosperity after pacification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prosperity-in-a-foreign-land-leading-to-envy-and-expulsion
+  motif_id: prosperity_in_a_foreign_land_leading_to_envy_and_expulsion
+  label: Prosperity in a foreign land leading to envy and expulsion
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: The causal engine is envy provoked by another's prosperity, leading to
+    hostile reversal or expulsion.
+  cautions: Could also fit exile/homecoming or covenantal oppression if the passage
+    emphasizes displacement or sacred promise.
+  suggested_aliases:
+  - envy of foreign prosperity leading to expulsion
+  - prosperity provoking envy and expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prosperity-inventory-before-a-moral-tale
+  motif_id: prosperity_inventory_before_a_moral_tale
+  label: Prosperity inventory before a moral tale
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes a narrative setup or inventory before a moral tale
+    rather than a symbolic motif.
+  cautions: If the inventory itself functions ritually or mythically, remap based
+    on the passage; otherwise preserve only as evidence detail.
+  suggested_aliases:
+  - wealth catalogue before moral exemplum
+  - prosperity catalogue as narrative setup
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prosperity-reversed-by-descendant-s-disaster
+  motif_id: prosperity_reversed_by_descendant_s_disaster
+  label: prosperity reversed by descendant’s disaster
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A reversal of prosperity through later disaster may function as moral
+    reckoning across a lineage.
+  cautions: Could be fate, family tragedy, dynastic decline, or a passage-specific
+    historical note; source evidence is needed.
+  suggested_aliases:
+  - lineage prosperity reversed by disaster
+  - descendant disaster reverses prosperity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prosperity-through-imported-valuables-without-direct-expeditionary-trade
+  motif_id: prosperity_through_imported_valuables_without_direct_expeditionary_trade
+  label: prosperity through imported valuables without direct expeditionary trade
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an economic or ethnographic observation about trade
+    mechanics, not a mythic motif.
+  cautions: If valuables have sacred exchange or power-object functions in the passage,
+    remap to sacred_exchange or sacred_treasures.
+  suggested_aliases:
+  - prosperity through indirect trade valuables
+  - imported valuables without expeditionary trade
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prostrating-petitioner-before-an-overlord
+  motif_id: prostrating_petitioner_before_an_overlord
+  label: Prostrating petitioner before an overlord
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: role_variant
+  confidence: medium
+  rationale: A petitioner's prostration before authority aligns with supplication,
+    mercy, and hierarchical sacred bond motifs already under covenant.
+  cautions: If the overlord is specifically royal or divine, secondary mapping to
+    royal_legitimacy or divine_judgment may be appropriate.
+  suggested_aliases:
+  - supplication before an overlord
+  - prostrate petition to authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protagonist-defeats-cannibal-through-entry-into-the-cannibal-s-body
+  motif_id: protagonist_defeats_cannibal_through_entry_into_the_cannibal_s_body
+  label: protagonist defeats cannibal through entry into the cannibal's body
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defeating a devouring antagonist from inside its body fits trickster-like
+    reversal of predator and prey.
+  cautions: Could warrant a future monster-slaying/devouring-monster group if many
+    such labels recur; do not reduce all cannibal episodes to trickster without evidence
+    of cunning reversal.
+  suggested_aliases:
+  - cannibal defeated from within
+  - predator defeated after swallowing or bodily entry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protected-archer-behind-a-champion-s-shield
+  motif_id: protected_archer_behind_a_champion_s_shield
+  label: protected archer behind a champion's shield
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a tactical combat scene best preserved under the broader sacred
+    combat and warfare group.
+  cautions: Likely episode-specific; avoid promoting as canonical unless shield-protected
+    archer patterns recur across sources.
+  suggested_aliases:
+  - archer protected by champion's shield
+  - shielded archer in battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protected-body-modification-in-a-young-girl-s-adornment
+  motif_id: protected_body_modification_in_a_young_girl_s_adornment
+  label: Protected body modification in a young girl’s adornment
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve initiation, protection, adornment, gendered ritual,
+    or an ethnographic detail.
+  cautions: Culturally sensitive and under-specified; needs source review before mapping
+    to initiation, sacred_law, sacred_treasures, or body/adornment motifs.
+  suggested_aliases:
+  - protected adornment body modification
+  - ritual protection in young girl's adornment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several prosperity labels are single-occurrence and abstract; review should distinguish
+  narrative motif from historical, economic, or editorial description.
+- Do not infer transmission or cultural contact from any proposed placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally sensitive or context-dependent labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3814
+  input_sha256: eafd3e4da6ef4de39e2556c941ab4174e4c206b788e1b1e7c8e2309adcc54d75
+

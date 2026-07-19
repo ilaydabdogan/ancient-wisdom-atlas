@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0595
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.religious-hospitality-before-departure
+  motif_id: religious_hospitality_before_departure
+  label: religious hospitality before departure
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hospitality is the main reusable motif; departure is contextual journey
+    framing.
+  cautions: If no testing, stranger, guest, or sacred obligation is present, this
+    may be only an episode detail before travel.
+  suggested_aliases:
+  - hospitality_before_departure
+  - religious_hospitality_before_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-imitation-and-requested-incorporation
+  motif_id: religious_imitation_and_requested_incorporation
+  label: Religious imitation and requested incorporation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual adoption, social membership, or ethnographic
+    commentary rather than a narrative motif.
+  cautions: Culturally sensitive and context-dependent; avoid mapping to transmission
+    or imitation without source evidence.
+  suggested_aliases:
+  - ritual_imitation_and_incorporation_request
+  - requested_incorporation_into_religious_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-journey-with-repeated-camp-changes
+  motif_id: religious_journey_with_repeated_camp_changes
+  label: religious journey with repeated camp changes
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: A religious journey fits the broad journey/departure complex, but repeated
+    camp changes are likely contextual itinerary detail.
+  cautions: May be a passage artifact if the camp changes do not mark ordeal, transformation,
+    exile, or sacred mission.
+  suggested_aliases:
+  - religious_itinerary_with_repeated_camp_changes
+  - journey_with_repeated_camp_changes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-literary-transmission-with-conquest
+  motif_id: religious_literary_transmission_with_conquest
+  label: religious-literary transmission with conquest
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes historical/textual transmission and conquest context,
+    not a reusable symbolic motif.
+  cautions: Preserve as provenance or historical context if supported, but keep transmission
+    claims out of motif pattern queries.
+  suggested_aliases:
+  - religious_literary_transmission_during_conquest
+  - textual_transmission_with_conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-mission-and-arrival-in-ceylon
+  motif_id: religious_mission_and_arrival_in_ceylon
+  label: Religious mission and arrival in Ceylon
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mission journey and arrival fits the departure-arrival arc of a sacred
+    journey.
+  cautions: The named place makes this partly contextual; if the focus is historical
+    missionization rather than narrative journey, review as contextual artifact.
+  suggested_aliases:
+  - religious_mission_journey
+  - sacred_mission_arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-observance-before-travel
+  motif_id: religious_observance_before_travel
+  label: religious observance before travel
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Pre-travel religious observance functions as ritual preparation or offering
+    before a journey.
+  cautions: If the observance is only a routine narrative detail, it may be too generic
+    for pattern queries; could also relate to hero_journey as departure preparation.
+  suggested_aliases:
+  - ritual_observance_before_travel
+  - religious_preparation_before_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-reconquest-of-a-fallen-land
+  motif_id: religious_reconquest_of_a_fallen_land
+  label: religious reconquest of a fallen land
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reconquest of a fallen land centers on warfare framed by sacred or moral
+    restoration.
+  cautions: If the emphasis is legitimacy of rule rather than battle, royal_legitimacy
+    may be a secondary fit; 'fallen land' needs source review.
+  suggested_aliases:
+  - sacred_reconquest_of_fallen_land
+  - holy_reconquest_and_restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-society-membership-organized-by-clan-affiliation
+  motif_id: religious_society_membership_organized_by_clan_affiliation
+  label: Religious society membership organized by clan affiliation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to describe social or ritual organization rather than a
+    narrative motif.
+  cautions: Culturally specific social structure; review with source evidence before
+    treating as sacred law, clan identity, or excluding as ethnographic detail.
+  suggested_aliases:
+  - clan_based_religious_society_membership
+  - religious_society_membership_by_clan
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-teacher-s-journey-to-a-named-residence
+  motif_id: religious_teacher_s_journey_to_a_named_residence
+  label: Religious teacher’s journey to a named residence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an itinerary note about a teacher and named location,
+    not a reusable motif.
+  cautions: If the journey includes calling, ordeal, teaching transmission, or transformation,
+    remap to hero_journey or sacred_knowledge after source review.
+  suggested_aliases:
+  - teacher_journey_to_named_residence
+  - religious_teacher_itinerary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-transmission-and-reform-through-conquest-and-contact
+  motif_id: religious_transmission_and_reform_through_conquest_and_contact
+  label: Religious transmission and reform through conquest and contact
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label makes historical transmission and reform claims rather than
+    identifying a mythic motif.
+  cautions: Keep as historical/provenance context only; taxonomy placement should
+    not imply borrowing, contact, or common origin.
+  suggested_aliases:
+  - religious_reform_through_conquest_and_contact
+  - transmission_and_reform_context
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are itinerary, historical-transmission, or social-organization
+  descriptions rather than stable motifs; source review is important before adding
+  query mappings.
+- Do not use these placements as evidence for historical contact or borrowing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific Native American Southwest social/ritual labels and all transmission-context
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0595
+  input_sha256: 9435e55ed53039bd0d94a1bd5ac61974ce8d67f846a42a83d9dc2377f06fd4f0
+

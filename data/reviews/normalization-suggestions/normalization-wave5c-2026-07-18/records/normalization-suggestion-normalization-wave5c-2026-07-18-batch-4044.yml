@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4044
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.transitional-compromise-between-public-ban-and-private-tolerance
+  motif_id: transitional_compromise_between_public_ban_and_private_tolerance
+  label: transitional compromise between public ban and private tolerance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns public prohibition and tolerated private practice,
+    suggesting sacred law or social order, but it reads like a historical compromise
+    rather than a motif.
+  cautions: Single occurrence and likely context-specific legal or conversion-history
+    detail; review source before indexing as motif.
+  suggested_aliases:
+  - public_ban_private_tolerance
+  - private_tolerance_under_public_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.translation-as-transplantation
+  motif_id: translation_as_transplantation
+  label: translation as transplantation
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a metaphor about translation or reception
+    rather than a narrative or symbolic motif.
+  cautions: If a passage itself uses plant transplantation as a teaching metaphor,
+    preserve under sacred_knowledge; otherwise exclude as textual commentary.
+  suggested_aliases:
+  - translation_metaphor_as_transplantation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmigration-caused-by-error-of-separate-existence
+  motif_id: transmigration_caused_by_error_of_separate_existence
+  label: transmigration caused by error of separate existence
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif links rebirth/transmigration to ignorance of unity, fitting
+    interior liberation and annihilation of separateness.
+  cautions: Could also map to death_and_transformation if the passage emphasizes rebirth
+    mechanics more than mystical non-duality.
+  suggested_aliases:
+  - transmigration_from_separateness
+  - rebirth_caused_by_illusion_of_separate_self
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmission-and-adaptation-of-writing
+  motif_id: transmission_and_adaptation_of_writing
+  label: transmission and adaptation of writing
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: Writing may be culture-bringing or sacred knowledge, but the label may
+    instead describe historical diffusion of script.
+  cautions: Review whether this is a narrative about origin/adaptation of writing
+    or a scholarly transmission note; exclude if purely historical commentary.
+  suggested_aliases:
+  - adaptation_of_writing
+  - transmission_of_script
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmission-of-fables-from-buddhist-and-indian-sources-into-european-collections
+  motif_id: transmission_of_fables_from_buddhist_and_indian_sources_into_european_collections
+  label: Transmission of fables from Buddhist and Indian sources into European collections
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a claim about textual transmission and collection history, not
+    a motif within the narrative material.
+  cautions: Do not treat as evidence of borrowing in motif normalization; preserve
+    only as provenance or reception metadata if needed.
+  suggested_aliases:
+  - fable_transmission_history
+  - buddhist_indian_fables_in_european_collections
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmission-of-romance-material-from-north-western-france-across-europe
+  motif_id: transmission_of_romance_material_from_north_western_france_across_europe
+  label: Transmission of romance material from north-western France across Europe
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes scholarly transmission of romance material across
+    regions, not a reusable narrative motif.
+  cautions: Keep transmission claims outside motif placement; preserve as textual-history
+    metadata only.
+  suggested_aliases:
+  - romance_material_transmission_history
+  - north_western_france_romance_transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmission-through-intermediaries-and-translation
+  motif_id: transmission_through_intermediaries_and_translation
+  label: Transmission through intermediaries and translation
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is about textual or cultural transmission mechanisms rather than
+    narrative content.
+  cautions: Do not use in Pattern Explorer motif queries except as provenance metadata.
+  suggested_aliases:
+  - intermediary_translation_transmission
+  - transmission_by_translation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmission-through-retained-right-to-duplicate-and-give-away
+  motif_id: transmission_through_retained_right_to_duplicate_and_give_away
+  label: Transmission through retained right to duplicate and give away
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: Retained rights to duplicate and gift may concern reciprocal transfer
+    of knowledge or objects, but may also be ethnographic/legal commentary.
+  cautions: Culturally sensitive rights and transmission context require source review;
+    exclude if it is only documentation of ownership or performance rights.
+  suggested_aliases:
+  - right_to_duplicate_and_give_away
+  - gift_rights_in_transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trap-devised-by-marginal-adviser-after-failed-pursuit
+  motif_id: trap_devised_by_marginal_adviser_after_failed_pursuit
+  label: trap devised by marginal adviser after failed pursuit
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: over_specific_label
+  confidence: low
+  rationale: A devised trap after pursuit suggests deception or stratagem, but the
+    marginal adviser detail is highly contextual.
+  cautions: May be a one-off plot summary; review whether the adviser role or trap
+    reversal recurs before indexing.
+  suggested_aliases:
+  - trap_after_failed_pursuit
+  - marginal_adviser_devises_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trap-or-obstacle-turned-against-opponent
+  motif_id: trap_or_obstacle_turned_against_opponent
+  label: trap or obstacle turned against opponent
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hostile trap reversed onto its maker fits the existing judgment/reversal
+    pattern where wrongdoing rebounds on the aggressor.
+  cautions: If the passage emphasizes clever escape rather than moral reversal, trickster
+    may be a better secondary placement.
+  suggested_aliases:
+  - trap_reversed_against_opponent
+  - obstacle_turned_against_foe
+  - enemy_trap_rebounds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels beginning with 'transmission' are likely textual-history or provenance
+  artifacts rather than motifs; avoid treating them as evidence of borrowing or contact
+  in normalization.
+- Single-occurrence contextual labels should remain provisional until source passages
+  confirm a recurring narrative or symbolic function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed especially for
+    culturally specific transmission, rights, and legal-tolerance labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4044
+  input_sha256: 7aaa197bf74163266bfb8edd4620009e5b45bc07bbcf02ae4e051429c85a1587
+

@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2543
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sun-directed-dance-gesture
+  motif_id: sun_directed_dance_gesture
+  label: sun-directed dance gesture
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A ritual gesture oriented to the sun may fit sacred_fire, sacred_time,
+    theophany, or sacred_law depending on function.
+  cautions: Single occurrence and culturally specific ritual detail; needs source
+    context before indexing as a reusable motif.
+  suggested_aliases:
+  - sunward_dance_gesture
+  - dance_gesture_directed_to_the_sun
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sun-formerly-living-on-earth-as-a-man
+  motif_id: sun_formerly_living_on_earth_as_a_man
+  label: Sun formerly living on earth as a man
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes a celestial being with prior human/earthly form,
+    a transformation between human and cosmic forms.
+  cautions: Could instead be cosmic origin or nature personification if the passage
+    explains how the sun came to be rather than a bodily transformation.
+  suggested_aliases:
+  - sun_as_former_human
+  - sun_once_lived_on_earth_as_a_man
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sun-induced-darkness-resembling-night
+  motif_id: sun_induced_darkness_resembling_night
+  label: Sun-induced darkness resembling night
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A solar power produces or withdraws light, fitting the sacred light/fire
+    complex.
+  cautions: If framed as omen, cosmic disorder, eclipse, or judgment, dream_and_vision,
+    chaos, or divine_judgment may be better secondary mappings.
+  suggested_aliases:
+  - solar_darkening
+  - sun_causes_nightlike_darkness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sun-made-from-a-thrown-fire-brand
+  motif_id: sun_made_from_a_thrown_fire_brand
+  label: sun made from a thrown fire-brand
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif explains the origin of the sun from a fiery object, a celestial
+    creation episode.
+  cautions: Also related to sacred_fire because the sun is made from fire; preserve
+    the fire-brand mechanism as local evidence.
+  suggested_aliases:
+  - sun_created_from_firebrand
+  - solar_origin_from_thrown_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sun-marked-disk_as-divinatory-heart-test
+  motif_id: sun_marked_disk_as_divinatory_heart_test
+  label: Sun-marked disk as divinatory heart test
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core function is divination or testing by a marked ritual object.
+  cautions: Object and sun symbolism may be locally important; if the disk is primarily
+    a power object, sacred_treasures may be relevant. Source context needed for 'heart
+    test'.
+  suggested_aliases:
+  - sun_marked_divination_disk
+  - divinatory_heart_test_with_sun_disk
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sun-marked-niche
+  motif_id: sun_marked_niche
+  label: sun-marked niche
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an object/site description rather than a narrative
+    or ritual motif.
+  cautions: If source evidence shows the niche functions as a solar shrine, calendrical
+    marker, or ritual threshold, remap to sacred_time, sacred_fire, or world_center.
+  suggested_aliases:
+  - solar_marked_niche
+  - sun_marked_shrine_niche
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sun-or-mysterious-power-as-regulator-of-worldly-movement-and-human-lifespan
+  motif_id: sun_or_mysterious_power_as_regulator_of_worldly_movement_and_human_lifespan
+  label: Sun or Mysterious Power as regulator of worldly movement and human lifespan
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: functional_variant
+  confidence: medium
+  rationale: A solar or mysterious power governs cosmic motion and human lifespan,
+    fitting cosmic sovereignty and ordering authority.
+  cautions: Could also involve sacred_time or death_by_fate if lifespan regulation
+    is calendrical or destiny-focused; 'Mysterious Power' is culturally sensitive
+    and needs careful review.
+  suggested_aliases:
+  - solar_power_regulates_life_and_motion
+  - cosmic_power_regulates_movement_and_lifespan
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sun-released-from-a-raven-figure-s-mouth-by-laughter
+  motif_id: sun_released_from_a_raven_figure_s_mouth_by_laughter
+  label: Sun released from a raven figure's mouth by laughter
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A raven figure holding and releasing the sun through laughter fits trickster/light-release
+    and boundary-crossing action.
+  cautions: If the passage emphasizes origin of sunlight more than raven trickery,
+    cosmic_origin or sacred_fire may be secondary mappings.
+  suggested_aliases:
+  - raven_releases_the_sun_by_laughter
+  - sun_released_from_raven_mouth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sun-vulnerable-being-destroyed-by-exposure
+  motif_id: sun_vulnerable_being_destroyed_by_exposure
+  label: Sun-vulnerable being destroyed by exposure
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a being's specific vulnerability to sunlight or
+    exposure as the means of destruction.
+  cautions: Could fit sacred_fire if sunlight is the divine destructive agent; confirm
+    that vulnerability rather than general solar power is the narrative focus.
+  suggested_aliases:
+  - being_destroyed_by_sun_exposure
+  - sunlight_as_fatal_vulnerability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sung-command-directed-at-the-enemy
+  motif_id: sung_command_directed_at_the_enemy
+  label: sung command directed at the enemy
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sung command acting against an enemy treats song or voice as operative
+    power.
+  cautions: If the command is primarily a battle spell, curse, or ritual speech act,
+    curse_blessing_speech or sacred_combat may be relevant secondary mappings.
+  suggested_aliases:
+  - sung_command_against_enemy
+  - song_command_directed_at_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence solar or ritual labels; placements should remain
+  provisional until source passages confirm narrative function.
+- Do not infer transmission or shared origin from solar motif grouping; suggested
+  groups only support normalization and pattern querying.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 2543.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2543
+  input_sha256: 54dcfb5e4260ed94cd4588adc1ff75a723948126ffb57c676976a70121911d61
+

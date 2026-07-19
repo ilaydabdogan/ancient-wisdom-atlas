@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1618
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.maternal-uncle-as-overriding-authority
+  motif_id: maternal_uncle_as_overriding_authority
+  label: Maternal uncle as overriding authority
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: low
+  rationale: The label describes kinship authority and social order, which broadly
+    fits sacred_law, but its cultural and kinship-specific function needs evidence
+    review.
+  cautions: May be an ethnographic kinship rule or passage-specific social detail
+    rather than a reusable mythic motif; avoid flattening matrilineal authority into
+    generic law without context.
+  suggested_aliases:
+  - avuncular_authority
+  - maternal_uncle_authority
+  - matrilineal_kinship_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.matrilocal-residence-and-son-in-law-labor
+  motif_id: matrilocal_residence_and_son_in_law_labor
+  label: Matrilocal residence and son-in-law labor
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Residence and affinal labor obligations concern social order and kinship
+    norms, nearest to sacred_law.
+  cautions: Could be local social organization rather than motif; needs source evidence
+    showing narrative or ritual salience before indexing in pattern queries.
+  suggested_aliases:
+  - affinal_labor_obligation
+  - son_in_law_service
+  - matrilocal_marriage_residence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.meal-as-social-center
+  motif_id: meal_as_social_center
+  label: meal as social center
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A shared meal as the center of social relation fits reciprocity, feeding,
+    hospitality, and communal exchange.
+  cautions: If the passage only notes ordinary subsistence or setting, it may be too
+    generic; consider hospitality_test_stranger_guest if a guest or test is explicit.
+  suggested_aliases:
+  - shared_meal_as_social_bond
+  - communal_meal_center
+  - meal_as_reciprocal_social_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.measure-and-limit-as-moral-order
+  motif_id: measure_and_limit_as_moral_order
+  label: measure and limit as moral order
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Measure and limit as moral order aligns with ethical law and cosmic-social
+    order.
+  cautions: Could also fit pride_and_downfall if the passage emphasizes hubris exceeding
+    limits; source context should determine secondary mapping.
+  suggested_aliases:
+  - measure_as_moral_order
+  - limit_as_sacred_order
+  - moderation_as_cosmic_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.measured-political-order
+  motif_id: measured_political_order
+  label: Measured political order
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns properly ordered rule and governance, fitting royal_legitimacy
+    and sacred political order.
+  cautions: If the emphasis is ethical norm or ritual propriety rather than rulership,
+    sacred_law may be the better primary group.
+  suggested_aliases:
+  - ordered_governance_by_measure
+  - regulated_political_order
+  - properly_measured_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.measured-settlement-produces-social-order-and-schools
+  motif_id: measured_settlement_produces_social_order_and_schools
+  label: measured settlement produces social order and schools
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label links spatial organization with education and social order,
+    broadly fitting sacred_law.
+  cautions: Highly contextual and possibly an expository or philosophical-political
+    passage artifact; may not be useful as a recurring motif unless similar labels
+    recur.
+  suggested_aliases:
+  - ordered_settlement_produces_social_order
+  - spatial_measure_supports_education_and_order
+  - settlement_planning_as_social_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediated-access-to-rank-or-authority
+  motif_id: mediated_access_to_rank_or_authority
+  label: mediated access to rank or authority
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Access to rank or authority through proper mediation concerns hierarchical
+    legitimacy and ordered rule.
+  cautions: Could be a general bureaucratic or etiquette detail; use sacred_law instead
+    if the passage stresses ritual propriety more than authority or rank.
+  suggested_aliases:
+  - mediated_access_to_authority
+  - hierarchical_access_to_rank
+  - rank_access_through_intermediary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediated-access-to-the-king
+  motif_id: mediated_access_to_the_king
+  label: mediated access to the king
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A petitioner reaching the king through mediation is a court hierarchy
+    and kingship-access pattern.
+  cautions: If the mediator is the main sacred or supernatural figure, divine_intervention
+    or sacred_exchange may be relevant secondary mappings.
+  suggested_aliases:
+  - intermediary_access_to_king
+  - court_mediation_to_ruler
+  - mediated_royal_petition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediator-conducts-petitioner-to-authority
+  motif_id: mediator_conducts_petitioner_to_authority
+  label: Mediator conducts petitioner to authority
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mediator carrying a petitioner to authority fits supplication, mercy,
+    and negotiated social repair already grouped under covenant.
+  cautions: If the authority is specifically royal, royal_legitimacy may be better;
+    if the scene centers on hospitality or reciprocity, consider sacred_exchange.
+  suggested_aliases:
+  - mediated_petition_to_authority
+  - intercessor_guides_petitioner
+  - mediator_presents_suppliant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.medicinal-teas-for-labor-and-postpartum-disorders
+  motif_id: medicinal_teas_for_labor_and_postpartum_disorders
+  label: Medicinal teas for labor and postpartum disorders
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns childbirth and healing practice, but no existing group
+    cleanly covers medicinal postpartum care.
+  cautions: Likely ethnobotanical or medical-practice detail rather than a motif;
+    culturally sensitive source context is needed before mapping. Could relate to
+    sacred_substance only if the tea has ritual or sacred power, or to miraculous_child
+    if tied to birth narrative.
+  suggested_aliases:
+  - postpartum_medicinal_tea
+  - labor_medicine_tea
+  - ritual_or_medicinal_postpartum_drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence kinship, governance, or ethnographic-practice
+  descriptions; human review should verify that they are narrative or symbolic motifs
+  rather than contextual social facts.
+- For mediated-access labels, royal_legitimacy, covenant, and sacred_law are close
+  alternatives; final mapping should follow whether the passage emphasizes kingship,
+  supplication/social repair, or ritual propriety.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; preserve local social and cultural specificity,
+    especially for kinship and medicinal-practice labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1618
+  input_sha256: ca8b872184881a20f180a39e336d85a4c85679712f3d09dcf1c221290ef041b5
+

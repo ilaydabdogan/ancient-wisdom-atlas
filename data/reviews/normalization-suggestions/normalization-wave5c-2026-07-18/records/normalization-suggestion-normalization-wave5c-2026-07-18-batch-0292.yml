@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0292
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.personal-guardian-spirit-accompanying-each-human
+  motif_id: personal_guardian_spirit_accompanying_each_human
+  label: Personal guardian spirit accompanying each human
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: A personal guardian spirit is already represented by guardian-spirit
+    and tutelary-spirit variants under divine_intervention.
+  cautions: Could merit secondary relation to soul anthropology or fate if the source
+    emphasizes life-course destiny rather than protective agency.
+  suggested_aliases:
+  - personal_guardian_spirit_accompanying_a_human_life
+  - guardian_spirit_attending_a_person_through_life
+  - lifelong_personal_guardian_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personal-guardian-spirit-from-birth-to-death
+  motif_id: personal_guardian_spirit_from_birth_to_death
+  label: Personal guardian spirit from birth to death
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: The motif describes a lifelong tutelary or guardian spirit, a protective
+    divine-intervention role already covered by existing aliases.
+  cautions: Birth-to-death phrasing may also intersect with fate or personal soul
+    concepts; preserve the life-span detail in evidence notes.
+  suggested_aliases:
+  - personal_guardian_spirit_accompanying_a_human_life
+  - guardian_spirit_attending_a_person_through_life
+  - lifelong_tutelary_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personhood-composed-of-body-inherited-name-and-vital-soul-power
+  motif_id: personhood_composed_of_body_inherited_name_and_vital_soul_power
+  label: Personhood composed of body, inherited name, and vital soul-power
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a culturally specific anthropology of personhood rather than
+    a clear narrative motif in the current groups.
+  cautions: Avoid flattening Inuit soul/name concepts into external_soul or generic
+    sacred_knowledge without source review; may be an ethnographic concept label rather
+    than pattern-query motif.
+  suggested_aliases:
+  - body_name_and_vital_soul_power
+  - composite_personhood_body_name_soul_power
+  - inherited_name_as_personhood_component
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-corn-spirit-named-old-woman
+  motif_id: personified_corn_spirit_named_old_woman
+  label: personified corn spirit named Old Woman
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A personified corn spirit fits the existing harvest/corn-spirit complex
+    under seasonal ritual cycles.
+  cautions: The named Old Woman detail may be culturally specific; if the passage
+    emphasizes a mother or crop deity rather than harvest cycle, mother_goddess or
+    divine_intervention may be relevant secondary groups.
+  suggested_aliases:
+  - corn_spirit_as_old_woman
+  - old_woman_corn_spirit
+  - personified_maize_spirit_old_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-crop-spirits-as-sisters
+  motif_id: personified_crop_spirits_as_sisters
+  label: personified crop spirits as sisters
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Personified crop spirits align with agricultural recurrence and harvest-spirit
+    patterns already grouped under sacred_time.
+  cautions: Sisterhood may be locally meaningful and could overlap with sacred_twins
+    or mother_goddess only if the passage foregrounds kinship structure or divine
+    feminine roles.
+  suggested_aliases:
+  - crop_spirits_as_sisters
+  - sister_crop_spirits
+  - personified_agricultural_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-death-enforcing-silence
+  motif_id: personified_death_enforcing_silence
+  label: Personified Death enforcing silence
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Personified Death is clear, but the function of enforcing silence may
+    be mystical, moral, allegorical, or passage-specific.
+  cautions: Do not map automatically to death_and_transformation unless a death-transition
+    or renewal pattern is present; Sufi allegorical context may point to mystical_quest
+    or annihilation_union.
+  suggested_aliases:
+  - death_personified_as_silencer
+  - personified_death_commands_silence
+  - death_enforces_silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-death-hidden-in-a-chest-claims-the-hero
+  motif_id: personified_death_hidden_in_a_chest_claims_the_hero
+  label: Personified death hidden in a chest claims the hero
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden personified Death that inevitably claims the hero functions
+    like unavoidable destined death.
+  cautions: The chest/container detail could relate to sacred_vessel or external_soul
+    if Death is materially confined; verify whether the emphasis is fate, trickery,
+    or container symbolism.
+  suggested_aliases:
+  - hidden_personified_death_claims_hero
+  - death_hidden_in_chest
+  - personified_death_in_container_claims_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-death-rendered-powerless
+  motif_id: personified_death_rendered_powerless
+  label: Personified Death rendered powerless
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The defeat or neutralization of Death points to transformation of the
+    mortal condition or victory over death.
+  cautions: If the source frames this as devotional liberation or spiritual realization,
+    mystical_quest may be the better primary mapping; preserve personified Death detail.
+  suggested_aliases:
+  - death_rendered_powerless
+  - personified_death_defeated
+  - death_loses_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-death-summons-all-ages
+  motif_id: personified_death_summons_all_ages
+  label: Personified death summons all ages
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: role_variant
+  confidence: medium
+  rationale: Death as a personified summoner of all ages expresses universal mortality
+    and inescapable death.
+  cautions: Could also belong with afterlife_passage if the summons initiates postmortem
+    travel or judgment; label alone does not show an afterlife route.
+  suggested_aliases:
+  - death_summons_all_people
+  - personified_death_calls_all_ages
+  - universal_summons_by_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.personified-earth-pleased-grieved-purified-and-polluted-by-death
+  motif_id: personified_earth_pleased_grieved_purified_and_polluted_by_death
+  label: personified earth pleased, grieved, purified, and polluted by death
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines earth personification, death pollution, purification,
+    and grief, making primary function unclear.
+  cautions: Likely culturally specific purity-law material; may map to sacred_law
+    if the evidence concerns ritual pollution, or mother_goddess/cosmic personification
+    if Earth’s agency is central.
+  suggested_aliases:
+  - earth_personified_as_affected_by_death
+  - death_pollutes_and_purifies_personified_earth
+  - personified_earth_and_death_pollution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and culturally specific; preserve local terminology
+  and avoid promoting new taxonomy families without source review.
+- Personified Death labels may need a future subgroup if many recur, but current evidence
+  can usually be reviewed under death_by_fate, death_and_transformation, or mystical_quest
+  depending on function.
+- Crop-spirit items were placed under sacred_time because the current normalization
+  already includes corn-spirit harvest motifs there.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed for culturally
+    specific soul/personhood and purity concepts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0292
+  input_sha256: 8e7db6c3f3f16d386a9107d6953871b4bb3f9c69327981c6b41e19941531b95c
+

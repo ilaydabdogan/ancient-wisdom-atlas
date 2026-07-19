@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0686
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.blessing-through-exemplary-comparison
+  motif_id: blessing_through_exemplary_comparison
+  label: Blessing through exemplary comparison
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on blessing as a speech act, with exemplary comparison
+    as the form of utterance.
+  cautions: Single occurrence; if the passage is mainly moral instruction rather than
+    performative blessing, sacred_knowledge or sacred_law may be better.
+  suggested_aliases:
+  - exemplary_comparison_blessing
+  - blessing_by_comparison_to_exemplars
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessings-linked-to-martial-possessions-and-fame
+  motif_id: blessings_linked_to_martial_possessions_and_fame
+  label: blessings linked to martial possessions and fame
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Blessings are the active motif; martial goods and fame specify the desired
+    effects or domains.
+  cautions: Could secondarily touch sacred_treasures or divine_warrior if the passage
+    emphasizes weapons or martial status more than the blessing formula.
+  suggested_aliases:
+  - martial_blessing_for_possessions_and_fame
+  - blessing_for_warrior_goods_and_renown
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blind-strong-god-with-ominously-remembered-deed
+  motif_id: blind_strong_god_with_ominously_remembered_deed
+  label: blind strong god with ominously remembered deed
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an episode-specific character description plus interpretive
+    memory note rather than a reusable motif.
+  cautions: If source evidence shows a recurring pattern of blind divine agency, fated
+    kin killing, or ominous remembrance, review under death_by_fate or divine_judgment
+    instead.
+  suggested_aliases:
+  - blind_god_ominously_remembered_deed
+  - ominous_memory_of_blind_god_s_deed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-curse-founding-inherited-enmity-between-peoples
+  motif_id: blood_curse_founding_inherited_enmity_between_peoples
+  label: blood curse founding inherited enmity between peoples
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A founding curse that binds later peoples is a performative speech act
+    with enduring social consequences.
+  cautions: May also relate to sacred_combat or divine_judgment if the passage emphasizes
+    warfare or punishment rather than the curse itself.
+  suggested_aliases:
+  - founding_blood_curse_of_inherited_enmity
+  - curse_founds_enmity_between_peoples
+  - inherited_enmity_from_blood_curse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-of-the-slain-becomes-a-sacred-marker
+  motif_id: blood_of_the_slain_becomes_a_sacred_marker
+  label: blood of the slain becomes a sacred marker
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Blood from a slain figure becoming a sacred marker is a transformation
+    of death residue into enduring sacred sign.
+  cautions: Culturally sensitive place or ritual evidence may require human review;
+    could fit cosmic_origin if the marker explains a landscape feature or sacred_treasures
+    if it becomes a power object.
+  suggested_aliases:
+  - slain_blood_as_sacred_marker
+  - blood_of_dead_transformed_into_sacred_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-omen-portending-divine-kin-murder
+  motif_id: blood_omen_portending_divine_kin_murder
+  label: blood omen portending divine kin murder
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core function is an omen that foretells a specific violent divine-family
+    death.
+  cautions: If the omen is presented as a spontaneous dream or vision, dream_and_vision
+    may be better; if fate is foregrounded, relate to death_by_fate.
+  suggested_aliases:
+  - blood_omen_of_kin_murder
+  - blood_portent_of_divine_kin_slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-runic-curse-placed-on-an-object
+  motif_id: blood_runic_curse_placed_on_an_object
+  label: blood-runic curse placed on an object
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: A curse inscribed or empowered through blood and runes is a binding performative
+    sacred utterance on an object.
+  cautions: The object may warrant secondary indexing under sacred_treasures if its
+    power-object role is central.
+  suggested_aliases:
+  - runic_blood_curse_on_object
+  - blood_inscribed_object_curse
+  - curse_written_in_blood_on_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-shedding-danger-and-purification-sign
+  motif_id: blood_shedding_danger_and_purification_sign
+  label: blood-shedding danger and purification sign
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines danger, bloodshed, purification, and sign without
+    enough context to identify the dominant function.
+  cautions: Could map to sacred_law for ritual purity, sacrifice for blood offering,
+    divine_judgment for danger/reckoning, or prophecy_divination if the sign is omen-like.
+  suggested_aliases:
+  - bloodshed_as_danger_and_purification_sign
+  - blood_shedding_purification_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-taboo-and-blood-as-vital-substance
+  motif_id: blood_taboo_and_blood_as_vital_substance
+  label: Blood taboo and blood as vital substance
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The taxonomy already treats blood_as_life and blood-related prohibitions
+    as sacred-law and ritual-purity motifs.
+  cautions: Comparative label may be a synthesis rather than source motif; preserve
+    as broad evidence and avoid overinterpreting local meanings.
+  suggested_aliases:
+  - blood_as_vital_substance_taboo
+  - blood_taboo_and_blood_as_life
+  - blood_as_life_and_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blood-taboo-and-life-in-blood
+  motif_id: blood_taboo_and_life_in_blood
+  label: Blood taboo and life in blood
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: high
+  rationale: This is a close variant of blood_as_life and blood taboo, both already
+    handled under sacred_law.
+  cautions: May also support sacrifice if embedded in offering rules, but the stated
+    motif is prohibition and vital-substance logic.
+  suggested_aliases:
+  - life_in_blood_taboo
+  - blood_as_life_taboo
+  - blood_taboo_because_life_is_in_blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several blood-related labels may need secondary mappings depending on whether source
+  evidence emphasizes taboo law, sacrifice, omen, curse, or postmortem transformation.
+- Single-occurrence and culturally specific ritual labels should remain provisional
+  pending passage-level review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0686
+  input_sha256: 4d5b4606396c0892e9732f7c0d201819b7afda395f4145547df811727dbb5c4d
+

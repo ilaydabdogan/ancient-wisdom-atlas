@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3129
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.adversarial-parley-before-threatened-harm
+  motif_id: adversarial_parley_before_threatened_harm
+  label: adversarial parley before threatened harm
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hostile parley before threatened violence fits ritualized conflict
+    negotiation or pre-combat exchange.
+  cautions: Single occurrence; if the passage is only dialogue setup rather than combat
+    structure, treat as contextual detail.
+  suggested_aliases:
+  - hostile parley before threatened harm
+  - pre-combat parley before violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adversaries-reap-the-advantage-of-an-idea-sown-by-others
+  motif_id: adversaries_reap_the_advantage_of_an_idea_sown_by_others
+  label: Adversaries reap the advantage of an idea sown by others
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe reversal, appropriation, irony, or polemical commentary
+    rather than a stable motif.
+  cautions: Needs passage evidence to decide between trickster, betrayal, divine judgment,
+    or exclusion as abstract commentary.
+  suggested_aliases:
+  - enemy profits from another's idea
+  - adversaries benefit from others' plan
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adversary-dissolved-into-sand-and-burned
+  motif_id: adversary_dissolved_into_sand_and_burned
+  label: Adversary dissolved into sand and burned
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core pattern appears to be an enemy's bodily destruction or transformation
+    at death.
+  cautions: Highly episode-specific; if burning is divine punishment, divine_judgment
+    may be a secondary fit.
+  suggested_aliases:
+  - adversary transformed into sand and burned
+  - enemy dissolved into sand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adversary-s-path-avoided
+  motif_id: adversary_s_path_avoided
+  label: adversary’s path avoided
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording is too generic and likely records a local tactical detail
+    rather than a recurring motif.
+  cautions: If source evidence shows ritual avoidance, a protected route, or divine
+    guidance, review under sacred_law, hero_journey, or divine_intervention.
+  suggested_aliases:
+  - avoidance of an adversary's path
+  - enemy route avoided
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adversary-transforms-the-environment-into-obstacles
+  motif_id: adversary_transforms_the_environment_into_obstacles
+  label: Adversary transforms the environment into obstacles
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on supernatural transformation of surroundings to impede
+    pursuit or passage.
+  cautions: Could instead fit trickster if deception is central, or hero_journey/initiation
+    if obstacles are primarily ordeal stages.
+  suggested_aliases:
+  - environment transformed into obstacles by adversary
+  - magical obstacle-making adversary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.advocate-for-an-adopted-or-allied-people
+  motif_id: advocate_for_an_adopted_or_allied_people
+  label: Advocate for an adopted or allied people
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe diplomacy, kinship adoption, intercession, or
+    founder identity depending on the passage.
+  cautions: Culturally specific adoption/alliance context should be reviewed before
+    mapping to covenant, culture_hero, royal_legitimacy, or sacred_exchange.
+  suggested_aliases:
+  - intercessor for an adopted people
+  - advocate for allied people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aesthetic-adoption-without-retained-meaning
+  motif_id: aesthetic_adoption_without_retained_meaning
+  label: Aesthetic adoption without retained meaning
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is an analytical claim about reception or cultural interpretation,
+    not a narrative motif.
+  cautions: Preserve as commentary/provenance if useful; do not use as evidence for
+    transmission or motif similarity.
+  suggested_aliases:
+  - aesthetic borrowing without retained meaning
+  - formal adoption without semantic retention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aesthetic-sound-as-distraction-from-doctrine-and-meditation
+  motif_id: aesthetic_sound_as_distraction_from_doctrine_and_meditation
+  label: Aesthetic sound as distraction from doctrine and meditation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Sound functions as a powerful influence on attention, though negatively
+    as distraction rather than enchantment or revelation.
+  cautions: If the passage is doctrinal instruction on discipline rather than supernatural
+    sound-power, sacred_knowledge or mystical_quest may be better.
+  suggested_aliases:
+  - beautiful sound distracts from doctrine
+  - aesthetic sound as meditative distraction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aetiology-for-metal-images-of-horus
+  motif_id: aetiology_for_metal_images_of_horus
+  label: Aetiology for metal images of Horus
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The group already includes etiological explanations, and this label explains
+    the origin of a cultic image type.
+  cautions: Very specific to Horus and metal images; if focused on animated or crafted
+    cult images, sacred_craft may be a better secondary mapping.
+  suggested_aliases:
+  - etiology for metal images of Horus
+  - origin of Horus metal images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aetiology-of-continuing-local-custom
+  motif_id: aetiology_of_continuing_local_custom
+  label: Aetiology of continuing local custom
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a broad etiological label, but the custom's content determines
+    the best group.
+  cautions: May be a useful motif only if the custom itself has recurring ritual or
+    mythic function; otherwise treat as passage-specific explanation.
+  suggested_aliases:
+  - etiology of local custom
+  - origin explanation for continuing custom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and appear generated from narrow passage details;
+  preserve as evidence notes unless recurrence is demonstrated.
+- Etiology labels should not all be forced into cosmic_origin when the explained practice
+  belongs to a more specific ritual, object, or cult group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages should be checked
+    for function and cultural context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3129
+  input_sha256: a45405c27b0aaf94f04a882794878f3755243882d439cbb229ca683a16afb631
+

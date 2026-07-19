@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0555
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mantis-kinship-network
+  motif_id: mantis_kinship_network
+  label: Mantis kinship network
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to a culturally specific San Mantis figure and kin
+    relations rather than a journey motif.
+  cautions: Needs source context and culturally sensitive review; could be character
+    genealogy, trickster network, or passage artifact.
+  suggested_aliases:
+  - mantis_kinship
+  - mantis_family_network
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.many-headed-fiery-dragon-guarding-a-crossing
+  motif_id: many_headed_fiery_dragon_guarding_a_crossing
+  label: many-headed fiery dragon guarding a crossing
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: A monstrous dragon guards a crossing, making passage across a boundary
+    the key narrative function.
+  cautions: Fire and dragon features should be preserved as evidence; map to divine_warrior
+    only if combat is central rather than guarded passage.
+  suggested_aliases:
+  - dragon_guarding_a_crossing
+  - many_headed_dragon_as_threshold_guardian
+  - fiery_dragon_guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.many-small-travelers-riding-one-horse-and-eating-it-if-game-is-absent
+  motif_id: many_small_travelers_riding_one_horse_and_eating_it_if_game_is_absent
+  label: many small travelers riding one horse and eating it if game is absent
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a highly specific travel episode rather than a reusable
+    motif group.
+  cautions: If source context shows scarcity ordeal, animal helper, or comic trickster
+    structure, reconsider under hero_journey or trickster.
+  suggested_aliases:
+  - small_travelers_share_one_horse
+  - travelers_eat_mount_when_game_is_absent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mapping-and-correction-of-sacred-travel-itineraries
+  motif_id: mapping_and_correction_of_sacred_travel_itineraries
+  label: mapping and correction of sacred travel itineraries
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label sounds like editorial, hagiographic, or pilgrimage-route documentation
+    rather than a narrative motif.
+  cautions: If the passage itself sacralizes pilgrimage geography, sacred_geography_pilgrimage
+    under axis_mundi may be relevant; otherwise exclude as itinerary scholarship.
+  suggested_aliases:
+  - sacred_travel_itinerary_correction
+  - pilgrimage_itinerary_mapping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - hero_journey
+    - _meta_textual
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marginal-talkative-companion-joins-the-travelers
+  motif_id: marginal_talkative_companion_joins_the_travelers
+  label: Marginal talkative companion joins the travelers
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: role_variant
+  confidence: medium
+  rationale: A companion joining travelers is a journey-party role within travel or
+    quest narrative.
+  cautions: The marginal or talkative traits may be comic, trickster-like, or passage-specific;
+    avoid promoting without recurrence.
+  suggested_aliases:
+  - talkative_companion_joins_travelers
+  - marginal_companion_on_journey
+  - journey_companion_joins_party
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marked-arrows-identify-ownership
+  motif_id: marked_arrows_identify_ownership
+  label: Marked arrows identify ownership
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marks on arrows function as tokens proving ownership or identity.
+  cautions: If the episode concerns hunting law or social property norms more than
+    recognition, sacred_law may be a secondary fit.
+  suggested_aliases:
+  - marked_arrows_as_ownership_tokens
+  - ownership_identified_by_marked_arrows
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marked-threshold-revealing-passage
+  motif_id: marked_threshold_revealing_passage
+  label: marked threshold revealing passage
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A marked threshold that reveals passage centers on boundary crossing
+    between spaces or states.
+  cautions: No guardian figure is explicit; if the emphasis is a sacred object or
+    route marker, sacred_treasures or hero_journey may be secondary.
+  suggested_aliases:
+  - threshold_mark_reveals_passage
+  - marked_boundary_opens_way
+  - revealed_passage_at_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marked-weapons-establish-ownership-of-kills
+  motif_id: marked_weapons_establish_ownership_of_kills
+  label: marked weapons establish ownership of kills
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marked weapons provide proof linking an action or kill to an owner.
+  cautions: Could also support sacred_combat if the marked weapon adjudicates martial
+    honor or spoils; preserve kill-ownership specificity as evidence.
+  suggested_aliases:
+  - marked_weapons_as_ownership_tokens
+  - weapons_identify_owner_of_kill
+  - weapon_marks_prove_kill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-alliance-arranged-through-elder-influence-and-kinship
+  motif_id: marriage_alliance_arranged_through_elder_influence_and_kinship
+  label: marriage alliance arranged through elder influence and kinship
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: low
+  rationale: The existing sacred_love group includes marriage-choice and alliance-like
+    bride motifs, though this label emphasizes social arrangement.
+  cautions: May be social-order or kinship detail rather than sacred love; if purely
+    genealogical or legal, consider sacred_law or exclusion.
+  suggested_aliases:
+  - marriage_alliance_by_elder_influence
+  - kinship_arranged_marriage_alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-avoidance-within-prohibited-kinship-degrees
+  motif_id: marriage_avoidance_within_prohibited_kinship_degrees
+  label: marriage avoidance within prohibited kinship degrees
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A marriage prohibition based on kinship degrees is a sacred or social
+    law regulating kin relations.
+  cautions: Review cultural context carefully; if this is an ethnographic note rather
+    than a narrative motif, preserve as law evidence rather than pattern-query centerpiece.
+  suggested_aliases:
+  - kinship_marriage_prohibition
+  - exogamy_prohibition_by_kinship_degree
+  - marriage_taboo_within_kinship_degrees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch appear misbucketed under journey_quest_homecoming despite
+  centering kinship, law, recognition tokens, or threshold imagery.
+- Single-occurrence and culturally specific labels should remain provisional until
+  source passages confirm recurring narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for San and Melanesian
+    kinship-specific labels and Sikh itinerary label.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0555
+  input_sha256: dc0756f764d84d4da397520dbaf0cd1c31c22477e0e6a419132dbadcb1e4c3f4
+

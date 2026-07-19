@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0827
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.familial-curse-after-breach-of-decency
+  motif_id: familial_curse_after_breach_of_decency
+  label: familial curse after breach of decency
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is a curse uttered after a social or moral breach, matching
+    performative sacred speech.
+  cautions: Could also belong under sacred_law or divine_judgment if the passage emphasizes
+    decency norms or punishment more than the curse act.
+  suggested_aliases:
+  - curse after breach of decency
+  - familial curse for indecency
+  - kin curse after social transgression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.family-inclusive-ritual-participation
+  motif_id: family_inclusive_ritual_participation
+  label: Family-inclusive ritual participation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Collective family participation may be part of ritual reciprocity or
+    offering, but the label lacks a specific symbolic function.
+  cautions: Single occurrence and culturally contextual; may be a descriptive ethnographic
+    detail rather than a reusable motif. Review source evidence before indexing.
+  suggested_aliases:
+  - family participation in ritual
+  - household ritual participation
+  - kin group ritual participation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.family-participation-in-funerary-offering-or-covering-rite
+  motif_id: family_participation_in_funerary_offering_or_covering_rite
+  label: Family participation in funerary offering or covering rite
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A family funerary offering or covering rite concerns ritual care for
+    the dead by kin.
+  cautions: If the rite primarily honors a heroic figure, heroic_funeral_rites may
+    be a secondary fit; if it is only a burial procedure, it may be too specific for
+    motif queries.
+  suggested_aliases:
+  - kin participation in funerary offering
+  - family funerary offering rite
+  - family covering rite for the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.family-place-inherited-through-successive-holders
+  motif_id: family_place_inherited_through_successive_holders
+  label: Family place inherited through successive holders
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests lineage, place, and inheritance, but no clear sacred,
+    ritual, or narrative function is evident from the wording alone.
+  cautions: May be social organization, land tenure, office succession, or a passage-specific
+    ethnographic note. Do not map to royal_legitimacy without evidence of sacred authority
+    or rule.
+  suggested_aliases:
+  - inherited family place
+  - lineage place succession
+  - successive holders of family place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.famine-consumption-of-taboo-or-socially-marked-meat
+  motif_id: famine_consumption_of_taboo_or_socially_marked_meat
+  label: famine consumption of taboo or socially marked meat
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on taboo food rules under crisis, fitting sacred law
+    and ritual prohibition.
+  cautions: Could shift to divine_judgment if the act has moral consequences, or sacrifice
+    if the meat is ritually offered. Preserve famine context as evidence detail.
+  suggested_aliases:
+  - taboo meat eaten during famine
+  - crisis violation of food taboo
+  - famine exception to meat taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.famine-time-stranger-and-inadequate-food-offering
+  motif_id: famine_time_stranger_and_inadequate_food_offering
+  label: Famine-time stranger and inadequate food offering
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: A stranger encountered during scarcity with an insufficient food offering
+    resembles a hospitality test focused on feeding the guest.
+  cautions: If no testing, sacred guest, or consequence is present, this may be a
+    contextual famine episode rather than a motif. Sacred_exchange may be a secondary
+    mapping.
+  suggested_aliases:
+  - stranger guest during famine
+  - inadequate hospitality in famine
+  - scarcity hospitality test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.farewell-gesture-with-protective-blessing
+  motif_id: farewell_gesture_with_protective_blessing
+  label: Farewell gesture with protective blessing
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The protective blessing is a performative speech or gesture that conveys
+    safety at departure.
+  cautions: If the gesture, not the utterance, is primary, it may overlap with apotropaic
+    protection under sacred_law. Single occurrence may be too local for a canonical
+    child.
+  suggested_aliases:
+  - protective farewell blessing
+  - departure blessing gesture
+  - farewell protection rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fasting-and-purification-before-sacred-rite
+  motif_id: fasting_and_purification_before_sacred_rite
+  label: Fasting and purification before sacred rite
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Preparatory fasting and purification are ritual purity requirements before
+    sacred action, fitting sacred law.
+  cautions: Could also index under sacrifice if preparation is specifically for an
+    offering, or initiation if fasting transforms status.
+  suggested_aliases:
+  - pre-ritual fasting and purification
+  - purification before sacred rite
+  - fasting before sacred ceremony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fasting-before-witnessing-a-ritual-performance
+  motif_id: fasting_before_witnessing_a_ritual_performance
+  label: Fasting before witnessing a ritual performance
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Required fasting before witnessing a ritual is a purity or access rule
+    governing sacred participation.
+  cautions: If the ritual performance is a vision, initiation, or restricted esoteric
+    display, sacred_knowledge or initiation may be relevant secondary groups.
+  suggested_aliases:
+  - fasting before ritual viewing
+  - pre-performance ritual fasting
+  - purity requirement before witnessing ceremony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fasting-dream-preceding-later-ritual-commemoration
+  motif_id: fasting_dream_preceding_later_ritual_commemoration
+  label: Fasting dream preceding later ritual commemoration
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A dream arising in fasting that grounds later ritual commemoration fits
+    dream or vision as sacred revelation tied to ritual practice.
+  cautions: Could also relate to sacred_time if commemoration is calendrical, or sacred_knowledge
+    if the dream transmits instructions. Review source evidence for cultural specificity.
+  suggested_aliases:
+  - fasting dream commemorated ritually
+  - ritual commemoration of fasting dream
+  - vision fast preceding ritual memorial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several one-occurrence ritual labels may be ethnographic
+  or passage-specific details rather than stable motifs.
+- For Native American ritual items, review cultural context and source evidence before
+  broad indexing or alias promotion.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions for wave5c batch 0827; human review recommended
+    for culturally specific ritual participation and fasting labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0827
+  input_sha256: 8da3dcc5762dfec7bc794d7d0c0715ffa329a638b9c0b6acba48343d259e5c5e
+

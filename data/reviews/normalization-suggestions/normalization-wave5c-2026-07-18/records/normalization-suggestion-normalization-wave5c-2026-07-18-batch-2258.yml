@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2258
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.small-animals-describe-humans-as-dangerous-observers
+  motif_id: small_animals_describe_humans_as_dangerous_observers
+  label: small animals describe humans as dangerous observers
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: Animal speech about human danger may belong with fable-like trickster
+    or animal-perspective reversals, but the function is unclear from the label alone.
+  cautions: Single occurrence; may be a passage-specific fable detail rather than
+    a reusable motif. Verify whether humans function as predators, observers, or moral
+    exemplars.
+  suggested_aliases:
+  - small_animals_warn_of_human_danger
+  - animal_perspective_on_dangerous_humans
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-creature-defeats-powerful-beast
+  motif_id: small_creature_defeats_powerful_beast
+  label: small creature defeats powerful beast
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weak or small animal overcoming a stronger beast fits trickster/fable
+    reversal patterns where wit or unexpected agency defeats power.
+  cautions: If the episode is combat rather than cunning, sacred_combat could be a
+    secondary review target, but animal-fable framing favors trickster.
+  suggested_aliases:
+  - small_animal_defeats_stronger_beast
+  - weak_creature_overcomes_powerful_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-helper-succeeds-after-stronger-animals-fail
+  motif_id: small_helper_succeeds_after_stronger_animals_fail
+  label: Small helper succeeds after stronger animals fail
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The underestimated small helper succeeding after stronger animals fail
+    is a fable-like reversal of power and competence, close to trickster animal patterns.
+  cautions: Could alternatively support a future animal-helper group if many helper-success
+    labels recur; preserve small-helper granularity.
+  suggested_aliases:
+  - small_helper_succeeds_where_stronger_fail
+  - underestimated_animal_helper_succeeds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-or-vulnerable-animal-survives-by-bodily-protection-and-stillness
+  motif_id: small_or_vulnerable_animal_survives_by_bodily_protection_and_stillness
+  label: small or vulnerable animal survives by bodily protection and stillness
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: Survival by stillness or bodily defense may be an animal stratagem, but
+    it is not clearly deception, transformation, or a canonical trickster function.
+  cautions: Single occurrence and highly behavioral; may be naturalistic animal explanation
+    or passage detail. Review before broad indexing.
+  suggested_aliases:
+  - vulnerable_animal_survives_by_stillness
+  - animal_survival_by_bodily_defense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-repeated-actions-produce-transformation
+  motif_id: small_repeated_actions_produce_transformation
+  label: small repeated actions produce transformation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: The label mentions transformation, but the agent, object, and narrative
+    function of the repeated actions are not specified.
+  cautions: May be an abstract moral or process label rather than an animal/transformation
+    motif. Needs source evidence before mapping to shapeshifter or death_and_transformation.
+  suggested_aliases:
+  - incremental_actions_cause_transformation
+  - repeated_small_acts_transform_a_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-visitors-defeat-the-host-community-s-animal-enemies
+  motif_id: small_visitors_defeat_the_host_community_s_animal_enemies
+  label: Small visitors defeat the host community's animal enemies
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Small visitors aiding a host community against animal enemies may be
+    helper intervention, combat, or animal-trickster reversal depending on who the
+    visitors are.
+  cautions: Culturally specific and composite; verify whether visitors are spirits,
+    humans, animals, or mythic helpers before mapping. Could fit trickster, divine_intervention,
+    or sacred_combat.
+  suggested_aliases:
+  - small_helpers_defeat_animal_enemies
+  - visitors_defeat_host_community_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-volunteer-succeeds-after-stronger-or-larger-animals-fail
+  motif_id: small_volunteer_succeeds_after_stronger_or_larger_animals_fail
+  label: small volunteer succeeds after stronger or larger animals fail
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: alias
+  confidence: high
+  rationale: This is effectively the same underestimated-small-helper reversal as
+    small_helper_succeeds_after_stronger_animals_fail.
+  cautions: Likely synonym merge with the other Native American Southeast label; confirm
+    both refer to the same episode or pattern.
+  suggested_aliases:
+  - small_helper_succeeds_after_stronger_animals_fail
+  - underestimated_small_volunteer_succeeds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.society-insignia-worn-as-bird-skin-necklace
+  motif_id: society_insignia_worn_as_bird_skin_necklace
+  label: society insignia worn as bird-skin necklace
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: An insignia worn as a bird-skin necklace could function as a power object,
+    status token, ritual object, or ethnographic detail.
+  cautions: Culturally sensitive and object-specific; do not collapse into animal
+    transformation without evidence. May be too specific for pattern queries if only
+    descriptive regalia.
+  suggested_aliases:
+  - bird_skin_necklace_as_society_insignia
+  - ritual_society_bird_skin_insignia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.solar-garden-with-flame-and-sun-horses
+  motif_id: solar_garden_with_flame_and_sun_horses
+  label: Solar garden with flame and Sun-horses
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The dominant imagery is solar fire and divine light, with sun-horses
+    as associated solar animals rather than a general animal-transformation pattern.
+  cautions: Could also relate to otherworld if the solar garden is an enchanted realm,
+    or sacred_treasures if the horses are objects of a quest. Review passage function.
+  suggested_aliases:
+  - solar_garden_flame_sun_horses
+  - sun_horses_in_solar_garden
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sorcery-makes-the-earth-open-and-swallow-an-animal
+  motif_id: sorcery_makes_the_earth_open_and_swallow_an_animal
+  label: sorcery makes the earth open and swallow an animal
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: Sorcery causing the earth to engulf an animal involves magical power,
+    but the narrative function is unclear from the label alone.
+  cautions: Could fit divine_judgment, sacred_combat, shapeshifter, or a magic/sorcery
+    subgroup not currently explicit. Single occurrence and animal target may be episode-specific.
+  suggested_aliases:
+  - earth_opens_by_sorcery_to_swallow_animal
+  - magical_earth_engulfment_of_an_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence animal-fable or episode-specific labels; prefer
+  provisional group placement and synonym consolidation rather than new canonical
+  groups.
+- The two 'small helper/volunteer succeeds after stronger animals fail' labels appear
+  likely synonymous and should be reviewed together.
+- Avoid treating all animal labels as transformation motifs; several are better understood
+  as trickster/fable reversal, power-object detail, or uncertain ritual/contextual
+  evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; source evidence needed for culturally specific
+    Native American Plains, Zuni, Afro-Caribbean, and Norse labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2258
+  input_sha256: 657c7ec9f87ffcd0498dbb1f6af5ac05a648b91ec547e8fc4bc6d64620b3523b
+

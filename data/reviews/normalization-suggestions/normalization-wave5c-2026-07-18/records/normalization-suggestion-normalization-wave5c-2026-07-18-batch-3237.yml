@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3237
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.chief-as-channel-of-benefits
+  motif_id: chief_as_channel_of_benefits
+  label: chief as channel of benefits
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: A chief mediating benefits to the community fits sacred or socially authorized
+    rulership roles.
+  cautions: Single occurrence; could be ordinary political economy rather than a mythic
+    motif if no sacred authorization is present.
+  suggested_aliases:
+  - chief as distributive benefactor
+  - chief as mediator of communal benefits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chief-as-guardian-controller-of-captive-or-unattached-women
+  motif_id: chief_as_guardian_controller_of_captive_or_unattached_women
+  label: Chief as guardian-controller of captive or unattached women
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns gendered authority, captivity, and social control,
+    but its narrative function is unclear.
+  cautions: Culturally sensitive and potentially an ethnographic/social detail rather
+    than a reusable motif; needs source context before mapping to royal_legitimacy,
+    sacred_law, or captivity-related patterns.
+  suggested_aliases:
+  - chief as guardian of unattached women
+  - chiefly control of captive women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chief-as-mediator-of-domestic-and-clan-conflict
+  motif_id: chief_as_mediator_of_domestic_and_clan_conflict
+  label: Chief as mediator of domestic and clan conflict
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Conflict mediation is a governance function that can support legitimate
+    chiefly authority.
+  cautions: If the passage emphasizes legal norms or reconciliation rather than chiefly
+    status, sacred_law or covenant may be better secondary mappings.
+  suggested_aliases:
+  - chiefly mediation of clan conflict
+  - chief as peacemaker in domestic conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chief-punishes-his-own-people-through-an-outside-ambush
+  motif_id: chief_punishes_his_own_people_through_an_outside_ambush
+  label: Chief punishes his own people through an outside ambush
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve chiefly judgment, betrayal, or warfare, but the moral framing
+    is not clear from the label.
+  cautions: Over-specific single episode; review whether this is divine/social punishment,
+    treacherous leadership, or a historical/passage detail before mapping.
+  suggested_aliases:
+  - chiefly punishment by ambush
+  - ruler punishes own people through outsiders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chief-totem-among-multiple-clan-totems
+  motif_id: chief_totem_among_multiple_clan_totems
+  label: chief totem among multiple clan totems
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Totemic clan organization is not cleanly covered by existing groups and
+    may require culturally specific handling.
+  cautions: Avoid forcing into royal_legitimacy unless the totem legitimizes chiefly
+    rule; may be ethnographic classification rather than narrative motif.
+  suggested_aliases:
+  - chiefly clan totem
+  - principal totem among clan totems
+  suggested_new_group:
+    id: totemic_clan_identity
+    label: Totemic Clan Identity
+    description: Animal, plant, object, or spirit emblems organize clan identity,
+      rank, ancestry, taboo, or social relationship.
+    parent_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    related_group_ids:
+    - sacred_treasures
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover sacred law and kingship
+      broadly but do not clearly capture totemic emblems as lineage or clan identity
+      structures.
+- suggestion_id: normalization.suggestion.chiefly-control-of-catch-distribution-with-food-restriction
+  motif_id: chiefly_control_of_catch_distribution_with_food_restriction
+  label: Chiefly control of catch distribution with food restriction
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on regulated distribution of food/catch, a reciprocal
+    exchange and obligation pattern.
+  cautions: If the restriction is primarily taboo or law, sacred_law may be a better
+    parent; if chiefly authority is central, also relate to royal_legitimacy.
+  suggested_aliases:
+  - chiefly regulation of catch distribution
+  - chief controls distribution of catch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chiefly-distribution-of-feast-food
+  motif_id: chiefly_distribution_of_feast_food
+  label: Chiefly distribution of feast food
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: high
+  rationale: Feast-food distribution by a chief is a clear reciprocity and social-obligation
+    pattern.
+  cautions: May also support royal_legitimacy when distribution legitimizes chiefly
+    rank or authority.
+  suggested_aliases:
+  - chief distributes feast food
+  - chiefly feast redistribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chiefly-insignia-or-regalia
+  motif_id: chiefly_insignia_or_regalia
+  label: Chiefly insignia or regalia
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: role_variant
+  confidence: medium
+  rationale: Regalia and insignia function as authority-bearing objects and fit power-object
+    indexing.
+  cautions: If the passage emphasizes succession or divine sanction more than the
+    object, royal_legitimacy should be a secondary mapping.
+  suggested_aliases:
+  - chiefly regalia
+  - chiefly insignia
+  - regalia of chiefly authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chiefly-regulation-of-food-exchange-and-game-distribution
+  motif_id: chiefly_regulation_of_food_exchange_and_game_distribution
+  label: Chiefly regulation of food exchange and game distribution
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: high
+  rationale: Regulated food exchange and game distribution directly match reciprocal
+    giving and social obligation.
+  cautions: Could also be sacred_law if framed as binding prohibition or royal_legitimacy
+    if framed as chiefly authority.
+  suggested_aliases:
+  - chiefly regulation of food exchange
+  - chiefly game distribution
+  - regulated food redistribution by chief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chiefly-restriction-of-special-food
+  motif_id: chiefly_restriction_of_special_food
+  label: chiefly restriction of special food
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Restriction of special food by chiefly authority fits taboo, regulated
+    access, and sacred social order.
+  cautions: If the emphasis is redistribution rather than prohibition, sacred_exchange
+    may be a better mapping; source context needed for taboo status.
+  suggested_aliases:
+  - chiefly food restriction
+  - restriction of special food by chief
+  - chiefly food taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern chiefly social authority and Melanesian/Amazonian/Micronesian
+  cultural institutions; mappings should remain provisional until source passages
+  show whether the function is sacred kingship, reciprocal exchange, taboo law, or
+  ethnographic description.
+- A future totemic clan identity group may be warranted if multiple totem/clan identity
+  labels recur, but this batch alone is insufficient for promotion.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific chiefly and totemic
+    labels need human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3237
+  input_sha256: 9b6ed749a80215f6b2e568e36e4729fb9cbdf892a5ed94c57e447aafcb113608
+

@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3587
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.intercession-that-delays-and-averts-execution
+  motif_id: intercession_that_delays_and_averts_execution
+  label: intercession that delays and averts execution
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A plea that averts execution fits the covenant group's existing mercy,
+    supplication, and pardon complex.
+  cautions: Single occurrence; if the source emphasizes legal procedure, kinship politics,
+    or narrative delay rather than sacred mercy, human review may prefer exclusion
+    or sacred_law.
+  suggested_aliases:
+  - intercessory plea averts execution
+  - supplication delays execution
+  - plea for pardon before execution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intercessory-plea-spares-a-threatened-life
+  motif_id: intercessory_plea_spares_a_threatened_life
+  label: intercessory plea spares a threatened life
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The label is a close mercy/supplication variant: a plea changes the
+    fate of a threatened person.'
+  cautions: May be ordinary narrative rescue unless the passage frames supplication,
+    mercy, pardon, or sacred obligation as central.
+  suggested_aliases:
+  - intercession spares threatened life
+  - supplication saves a condemned person
+  - plea for mercy saves life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.interchangeable-witch-and-baba-yaga-roles
+  motif_id: interchangeable_witch_and_baba_yaga_roles
+  label: Interchangeable Witch and Baba Yaga roles
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase describes role interchangeability in classification or variant
+    comparison, not a narrative motif itself.
+  cautions: If the passage actually features Baba Yaga or a witch as a boundary tester,
+    preserve the episode under threshold_guardian, trickster, or otherworld rather
+    than this meta label.
+  suggested_aliases:
+  - witch and Baba Yaga role interchangeability
+  - Baba Yaga as witch variant
+  - interchangeable tale roles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intercommunity-barter-of-pots-for-food
+  motif_id: intercommunity_barter_of_pots_for_food
+  label: Intercommunity barter of pots for food
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Barter between communities fits reciprocal exchange if the passage gives
+    it ritual, social, or sacred significance.
+  cautions: Could be an ethnographic or passage-specific economic detail rather than
+    a motif; pots-for-food specificity should not be promoted without recurrence.
+  suggested_aliases:
+  - intercommunity food barter
+  - pots exchanged for food
+  - reciprocal barter between communities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intercultural-borrowing-through-a-contact-zone
+  motif_id: intercultural_borrowing_through_a_contact_zone
+  label: intercultural borrowing through a contact zone
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a transmission or scholarly-contact claim, not a motif for pattern
+    queries.
+  cautions: Keep contact or borrowing claims out of motif normalization; preserve
+    only as provenance or historical commentary if evidence supports it elsewhere.
+  suggested_aliases:
+  - contact-zone borrowing
+  - intercultural transmission through contact zone
+  - borrowing via cultural contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intergenerational-care-for-elders
+  motif_id: intergenerational_care_for_elders
+  label: Intergenerational care for elders
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Care for elders fits sacred-law and social-order ethics, close to filial
+    duty and social care aliases.
+  cautions: If the passage is merely descriptive social practice without sacred, ethical,
+    or narrative force, it may be too contextual for pattern queries.
+  suggested_aliases:
+  - elder care as social obligation
+  - filial care for elders
+  - intergenerational duty to elders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intergenerational-rebuke-of-sinful-elders
+  motif_id: intergenerational_rebuke_of_sinful_elders
+  label: Intergenerational rebuke of sinful elders
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rebuking sinful elders centers on moral reckoning and correction of transgression
+    across generations.
+  cautions: Could also fit sacred_law if framed as instruction or covenant ethics;
+    verify whether divine judgment, prophetic rebuke, or ordinary family conflict
+    is primary.
+  suggested_aliases:
+  - younger generation rebukes sinful elders
+  - rebuke of corrupt elders
+  - moral correction across generations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.intergroup-athletic-challenge-with-heavy-stakes
+  motif_id: intergroup_athletic_challenge_with_heavy_stakes
+  label: intergroup athletic challenge with heavy stakes
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A high-stakes athletic contest may be ritualized competition, warfare
+    substitute, wager exchange, or a local episode; existing groups do not cleanly
+    distinguish games from combat.
+  cautions: Culturally specific contest traditions need source review; avoid forcing
+    into sacred_combat unless the challenge substitutes for conflict or determines
+    communal order.
+  suggested_aliases:
+  - high-stakes intergroup contest
+  - intergroup athletic ordeal
+  - athletic challenge between communities
+  suggested_new_group:
+    id: ritual_contest_games
+    label: Ritual Contest and Competitive Games
+    description: Athletic contests, games, races, or formal challenges that carry
+      ritual, social, political, or life-and-death stakes between persons or communities.
+    parent_group_ids:
+    - sacred_combat
+    - sacred_exchange
+    related_group_ids:
+    - royal_legitimacy
+    - divine_judgment
+    reason_existing_groups_insufficient: Sacred_combat covers warfare and duel structures,
+      while sacred_exchange covers reciprocity; neither clearly covers noncombat athletic
+      games or wagered contests as recurring ritual competition.
+- suggestion_id: normalization.suggestion.intergroup-athletic-challenge-with-wagers
+  motif_id: intergroup_athletic_challenge_with_wagers
+  label: Intergroup athletic challenge with wagers
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Wagered athletic challenge overlaps reciprocal exchange and ritualized
+    competition but is not clearly covered by current groups.
+  cautions: May be too specific unless related contest-game labels recur; review whether
+    stakes are sacred, political, comic, or merely episodic.
+  suggested_aliases:
+  - wagered intergroup game
+  - athletic contest with wagers
+  - competitive game between communities
+  suggested_new_group:
+    id: ritual_contest_games
+    label: Ritual Contest and Competitive Games
+    description: Athletic contests, games, races, or formal challenges that carry
+      ritual, social, political, or life-and-death stakes between persons or communities.
+    parent_group_ids:
+    - sacred_combat
+    - sacred_exchange
+    related_group_ids:
+    - royal_legitimacy
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing combat and exchange groups can cover
+      adjacent functions, but wagered athletic competition may recur as a distinct
+      noncombat contest pattern.
+- suggestion_id: normalization.suggestion.intergroup-ceremonial-union
+  motif_id: intergroup_ceremonial_union
+  label: Intergroup ceremonial union
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ceremony joining groups fits the covenant group's concern with binding
+    relationships and social order.
+  cautions: If the union is specifically marital or fertility-centered, sacred_love
+    or sacred_marriage may be relevant; if it is diplomatic exchange, sacred_exchange
+    may be secondary.
+  suggested_aliases:
+  - ceremonial union between groups
+  - intergroup covenant ceremony
+  - ritual alliance between communities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and socially contextual; final
+  placement should check whether the source frames them as sacred/ritual motifs or
+  as ordinary social details.
+- Do not treat the contact-zone borrowing label as evidence of transmission in motif
+  normalization; it is a meta or scholarly claim, not a pattern motif.
+- Two athletic-contest labels may justify a future ritual_contest_games group if more
+  noncombat wagered-game motifs recur across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    specific social and contest labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3587
+  input_sha256: fc8cb9a16bb5c928f3cd8a161109470417470ebf58c32150bd1320d31938b1ba
+

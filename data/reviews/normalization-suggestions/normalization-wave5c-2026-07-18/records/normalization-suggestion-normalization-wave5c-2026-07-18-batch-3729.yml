@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3729
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.numbered-emanation-assembly-around-pistis-sophia
+  motif_id: numbered_emanation_assembly_around_pistis_sophia
+  label: Numbered emanation assembly around Pistis Sophia
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe Gnostic cosmological structure, sacred knowledge,
+    or a passage-specific enumeration around a named figure.
+  cautions: Single occurrence and named-system specificity; source evidence needed
+    before mapping to cosmic_origin, sacred_knowledge, theophany, or excluding as
+    textual artifact.
+  suggested_aliases:
+  - numbered_emanation_assembly
+  - emanation_assembly_around_pistis_sophia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.numbered-group-or-object-in-title
+  motif_id: numbered_group_or_object_in_title
+  label: numbered group or object in title
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a title feature rather than a narrative, ritual,
+    or symbolic motif.
+  cautions: If the numbered group is narratively important in the passage, preserve
+    that evidence under a specific motif rather than this title artifact.
+  suggested_aliases:
+  - numbered_title_feature
+  - numbered_object_in_title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.numbered-liturgical-correspondences
+  motif_id: numbered_liturgical_correspondences
+  label: numbered liturgical correspondences
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could indicate ritual ordering, sacred time, sacred law, or esoteric
+    knowledge through numerical correspondences.
+  cautions: May be a scholarly structural observation rather than a motif; review
+    the liturgical function before mapping.
+  suggested_aliases:
+  - numerical_liturgical_correspondences
+  - numbered_ritual_correspondences
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.numbered-multiplication-of-communities-after-dispersal
+  motif_id: numbered_multiplication_of_communities_after_dispersal
+  label: Numbered multiplication of communities after dispersal
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern community origins after scattering, but the numbered
+    detail may be contextual rather than motif-bearing.
+  cautions: Could fit cosmic_origin only if it explains peoples or communities etiologically;
+    otherwise may be passage-specific social history.
+  suggested_aliases:
+  - multiplication_of_communities_after_dispersal
+  - communities_multiplied_after_dispersal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.numbered-pilgrim-company
+  motif_id: numbered_pilgrim_company
+  label: numbered pilgrim company
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A pilgrim company could relate to sacred geography or hero journey, but
+    numbering alone is too thin for placement.
+  cautions: Map to axis_mundi or hero_journey only if the pilgrimage functions as
+    sacred travel, ordeal, or movement to a holy center.
+  suggested_aliases:
+  - numbered_pilgrim_group
+  - pilgrim_company
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.numbered-story-collections
+  motif_id: numbered_story_collections
+  label: numbered story collections
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes organization of a collection rather than a story motif.
+  cautions: If a frame narrative uses enumeration as sacred teaching, index the underlying
+    narrative or teaching motif separately.
+  suggested_aliases:
+  - numbered_textual_collections
+  - numbered_narrative_collections
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.numbered-sufficiency-of-raccoons
+  motif_id: numbered_sufficiency_of_raccoons
+  label: numbered sufficiency of raccoons
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is unclear and may encode a local animal narrative, subsistence
+    detail, or generated extraction artifact.
+  cautions: Culturally specific animal motif needs source review; do not reduce to
+    trickster or animal-helper without evidence of narrative role.
+  suggested_aliases:
+  - sufficiency_of_raccoons
+  - numbered_raccoon_sufficiency
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.numerical-correspondence-among-letters-books-and-generations
+  motif_id: numerical_correspondence_among_letters_books_and_generations
+  label: numerical correspondence among letters, books, and generations
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Numerical correspondences among letters, books, and generations likely
+    function as esoteric or revelatory knowledge.
+  cautions: If the label is only a cataloging observation, exclude as meta-textual;
+    if it orders sacred history, sacred_time may be a secondary relation.
+  suggested_aliases:
+  - numerical_correspondence_letters_books_generations
+  - esoteric_numerical_correspondence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.numerical-repetition-in-funerary-procession
+  motif_id: numerical_repetition_in_funerary_procession
+  label: Numerical repetition in funerary procession
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A repeated numerical pattern in a funerary procession belongs with mortuary
+    rites maintaining relations with the dead.
+  cautions: Could instead fit heroic_funeral_rites if the deceased is a hero or ruler;
+    preserve numerical repetition as local ritual detail.
+  suggested_aliases:
+  - numbered_funerary_procession
+  - repeated_number_in_funeral_procession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.numerically-completed-cure
+  motif_id: numerically_completed_cure
+  label: Numerically completed cure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates healing completed by a number, but the ritual, karmic,
+    miraculous, or narrative function is not clear.
+  cautions: Could map to divine_intervention, sacred_law, sacred_knowledge, or a healing
+    subgroup depending on evidence; avoid creating a number motif from one occurrence.
+  suggested_aliases:
+  - number_completed_cure
+  - numerical_completion_of_cure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Many labels in this batch center on enumeration; numbering alone should not become
+  a motif unless the number performs ritual, cosmological, or narrative work.
+- Single-occurrence, culturally specific labels should retain evidence detail and
+  receive source review before broad pattern mapping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several items may be generated extraction or
+    textual-organization artifacts rather than motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3729
+  input_sha256: f536a64dc3b4b13e97b9c4462539d29b79de70c8a035868b45e810ab8b619462
+

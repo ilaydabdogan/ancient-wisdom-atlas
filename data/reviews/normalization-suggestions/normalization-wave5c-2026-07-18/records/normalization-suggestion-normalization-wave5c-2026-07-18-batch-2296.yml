@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2296
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.agricultural-all-night-dance-oriented-to-sunrise
+  motif_id: agricultural_all_night_dance_oriented_to_sunrise
+  label: agricultural all-night dance oriented to sunrise
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A timed agricultural dance oriented to sunrise fits ritual cycle and
+    sacred calendrical/solar timing.
+  cautions: Single occurrence; culturally specific ceremonial details should be preserved
+    and not overgeneralized as seasonal_cycle unless recurrence or renewal is explicit.
+  suggested_aliases:
+  - agricultural sunrise dance
+  - all-night agricultural dance
+  - sunrise-oriented ritual dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agricultural-deity-marked-by-harvest-emblems
+  motif_id: agricultural_deity_marked_by_harvest_emblems
+  label: agricultural deity marked by harvest emblems
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Harvest emblems on a deity point to agricultural seasonal fertility and
+    ritual cycle symbolism.
+  cautions: If the passage only describes iconography of a named deity, it may be
+    too specific or art-historical for pattern queries; consider mother_goddess or
+    sacred_substance only if fertility, food, or divine nourishment is central.
+  suggested_aliases:
+  - harvest-emblem deity
+  - agricultural divine emblems
+  - deity with harvest symbols
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agricultural-disease-as-image-of-religious-decline
+  motif_id: agricultural_disease_as_image_of_religious_decline
+  label: agricultural disease as image of religious decline
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Crop disease used as an image of religious deterioration fits broader
+    decline of order across time.
+  cautions: May be a metaphor or passage-specific teaching image rather than a narrative
+    motif; if moral causality is emphasized, divine_judgment may be a secondary fit.
+  suggested_aliases:
+  - crop disease as religious decline
+  - agricultural blight as moral decline
+  - agricultural decay as dharma decline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agricultural-fertility-and-rain-magic
+  motif_id: agricultural_fertility_and_rain_magic
+  label: agricultural fertility and rain magic
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rain and fertility magic implies ritual action to secure agricultural
+    abundance through relations with sacred or spirit powers.
+  cautions: Could also belong with sacred_waters, sacred_time, or divine_intervention
+    depending on whether the focus is rain substance, seasonal cycle, or a deity/spirit
+    providing rain. Review culturally specific ritual terminology carefully.
+  suggested_aliases:
+  - rain magic for agricultural fertility
+  - ritual rainmaking for crops
+  - agricultural fertility rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agriculture-constrained-by-warfare-or-external-threat
+  motif_id: agriculture_constrained_by_warfare_or_external_threat
+  label: agriculture constrained by warfare or external threat
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a contextual social-historical condition rather than
+    a symbolic or narrative motif.
+  cautions: If a passage frames threatened cultivation as a recurring ordeal, famine,
+    or sacred-combat consequence, it could be reviewed under sacred_combat or divine_judgment;
+    label alone is too situational.
+  suggested_aliases:
+  - warfare constrains agriculture
+  - external threat limits cultivation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aid-sought-from-a-fog-cloud-and-rainbow-dwelling-being
+  motif_id: aid_sought_from_a_fog_cloud_and_rainbow_dwelling_being
+  label: Aid sought from a fog-cloud and rainbow-dwelling being
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Seeking aid from a nonhuman atmospheric being fits divine or spirit intervention
+    in human affairs.
+  cautions: The fog-cloud/rainbow dwelling details may be culturally specific and
+    should be preserved; if the passage focuses on manifestation rather than aid,
+    theophany may be secondary.
+  suggested_aliases:
+  - aid from atmospheric spirit
+  - rainbow-dwelling helper being
+  - cloud-being assistance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.all-night-communal-feast-dance-after-preparation-and-full-moon-timing
+  motif_id: all_night_communal_feast_dance_after_preparation_and_full_moon_timing
+  label: All-night communal feast dance after preparation and full moon timing
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The full-moon timing and all-night communal rite fit sacred calendrical
+    time and ritual cycle.
+  cautions: Composite label includes feast, dance, preparation, and lunar timing;
+    source review should decide whether sacred_exchange or sacred_substance is also
+    relevant.
+  suggested_aliases:
+  - full-moon all-night feast dance
+  - lunar-timed communal dance feast
+  - all-night ritual feast at full moon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.all-night-feast-renewed-at-sunset
+  motif_id: all_night_feast_renewed_at_sunset
+  label: All-night feast renewed at sunset
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A feast renewed at sunset is structured by a marked sacred time boundary
+    and nocturnal ritual rhythm.
+  cautions: If the key function is reciprocal feeding, hospitality, or offering, sacred_exchange
+    may be a better secondary placement; single occurrence and likely ceremonial detail.
+  suggested_aliases:
+  - sunset-renewed all-night feast
+  - nocturnal feast renewed at sunset
+  - ritual feast at sunset
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.all-pervading-cosmic-fire
+  motif_id: all_pervading_cosmic_fire
+  label: all-pervading cosmic fire
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Cosmic, pervasive fire directly matches sacred fire as divine presence,
+    purifying force, or cosmic principle.
+  cautions: Do not map to world_destroying_fire unless the passage emphasizes destructive
+    or renewing conflagration.
+  suggested_aliases:
+  - cosmic fire
+  - pervasive sacred fire
+  - all-pervading divine fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.all-seeing-reflective-water
+  motif_id: all_seeing_reflective_water
+  label: All-seeing reflective water
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Reflective water with all-seeing capacity fits sacred water as a medium
+    of hidden perception and power.
+  cautions: If used primarily for vision, divination, or omniscient perception, dream_and_vision
+    or prophecy_divination may be secondary; avoid equating it with flood or passage-through-water
+    without evidence.
+  suggested_aliases:
+  - reflective water as seeing medium
+  - visionary reflective water
+  - all-seeing water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence ritual or symbolic labels; preserve
+  local ceremonial specifics in evidence notes.
+- Agricultural timing, feast, and dance labels were placed under sacred_time provisionally,
+  with sacred_exchange as a possible secondary function where feeding or reciprocity
+  is central.
+- No transmission or borrowing claims are implied by these normalization placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional automated suggestions for wave5c batch 2296; human review recommended
+    for culturally specific ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2296
+  input_sha256: f88035c8d19f4275f7bcadaddb9bdd573687c739774b3672173d99ec754bc3a8
+

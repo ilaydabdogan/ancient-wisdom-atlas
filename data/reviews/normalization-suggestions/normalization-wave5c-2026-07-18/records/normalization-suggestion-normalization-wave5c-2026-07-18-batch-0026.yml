@@ -1,0 +1,323 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0026
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-or-tree-as-vehicle-of-a-spirit-or-deity
+  motif_id: animal_or_tree_as_vehicle_of_a_spirit_or_deity
+  label: animal or tree as vehicle of a spirit or deity
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe spirit embodiment, possession, sacred tree/animal
+    symbolism, or deity vehicle imagery; function is unclear from wording alone.
+  cautions: Single occurrence and culturally specific spirit terminology need source
+    review; do not force into axis_mundi unless the tree is a cosmic connector, or
+    shapeshifter unless bodily transformation is central.
+  suggested_aliases:
+  - spirit_or_deity_vehicle_in_animal_or_tree
+  - animal_or_tree_bearing_a_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - axis_mundi
+    - divine_intervention
+    - mother_goddess
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-participates-in-honoring-the-dead
+  motif_id: animal_participates_in_honoring_the_dead
+  label: Animal participates in honoring the dead
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The central function is participation in funerary honoring or memorialization
+    of the dead.
+  cautions: If the animal is primarily mourning rather than performing a rite, lament_and_mourning
+    may be a better secondary placement; if it is an ancestor or spirit agent, review
+    for ancestor_rites.
+  suggested_aliases:
+  - animal_honors_the_dead
+  - animal_participation_in_funeral_honors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-progenitor-of-human-ancestors
+  motif_id: animal_progenitor_of_human_ancestors
+  label: animal progenitor of human ancestors
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal progenitor explains ancestral or people origins, matching the
+    creation/etiological ancestry area already present in cosmic_origin.
+  cautions: May warrant future animal-ancestor or totemic-origin grouping if many
+    such labels recur; avoid treating as death/ancestor rites unless ritual care of
+    dead ancestors is present.
+  suggested_aliases:
+  - animal_ancestor_origin
+  - animal_as_human_progenitor
+  - totemic_animal_ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - culture_hero
+    - miraculous_child
+    - divine_race
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-released-after-death-as-possible-death-carrier
+  motif_id: animal_released_after_death_as_possible_death_carrier
+  label: animal released after death as possible death-carrier
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording suggests a comparative mortuary-belief note involving animal
+    release, soul/death transfer, or pollution, but the ritual function is not clear.
+  cautions: The phrase 'possible death-carrier' reads like uncertain commentary; exclude
+    as meta-artifact if it is only an analyst hypothesis, or map to sacred_law/sacrifice
+    only if a clear rite is attested.
+  suggested_aliases:
+  - animal_released_after_death
+  - animal_as_death_carrier
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacrifice
+    - ancestor_rites
+    - external_soul
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-revenge-causes-deadly-weather
+  motif_id: animal_revenge_causes_deadly_weather
+  label: Animal revenge causes deadly weather
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Deadly weather caused by revenge functions as retributive punishment
+    or moral consequence through nonhuman agency.
+  cautions: If the animal is a spirit/deity or weather master, divine_intervention
+    may fit better; if this is a local animal-taboo enforcement tale, sacred_law may
+    be a secondary mapping.
+  suggested_aliases:
+  - vengeful_animal_causes_deadly_weather
+  - animal_retribution_through_weather
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-shaped-bait-leading-to-death-by-predatory-bird
+  motif_id: animal_shaped_bait_leading_to_death_by_predatory_bird
+  label: animal-shaped bait leading to death by predatory bird
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is deceptive bait or lure causing fatal capture, which
+    fits the trickster/deception cluster.
+  cautions: Highly specific death mechanism; preserve predatory-bird detail as evidence
+    rather than a canonical motif. If no deception or strategic lure is present, needs
+    human review.
+  suggested_aliases:
+  - deceptive_animal_bait_leads_to_death
+  - animal_shaped_lure_causes_predatory_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-shell-broken-and-ritually-or-materially-repaired
+  motif_id: animal_shell_broken_and_ritually_or_materially_repaired
+  label: animal shell broken and ritually or materially repaired
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Broken and repaired shell could indicate ritual repair, restoration after
+    harm, sacred object handling, or an episode-specific animal detail.
+  cautions: Single occurrence and very object-specific; source evidence needed before
+    mapping to sacrifice, sacred_treasures, death_and_transformation, or excluding
+    as passage detail.
+  suggested_aliases:
+  - broken_animal_shell_repaired
+  - ritual_repair_of_animal_shell
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacrifice
+    - death_and_transformation
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-sight-or-scavenger-approach-dispels-corpse-pollution
+  motif_id: animal_sight_or_scavenger_approach_dispels_corpse_pollution
+  label: animal sight or scavenger approach dispels corpse-pollution
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif concerns corpse pollution and a ritual/purity mechanism for
+    dispelling it, matching sacred_law's purity and taboo cluster.
+  cautions: Zoroastrian funerary specificity should be preserved; if the passage centers
+    on feeding/exposure of the dead rather than purity rule, ancestor_rites or heroic_funeral_rites
+    may be secondary.
+  suggested_aliases:
+  - scavenger_dispels_corpse_pollution
+  - corpse_pollution_removed_by_animal_sight
+  - sagdid_or_scavenger_purity_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-simile-for-spiritual-degradation
+  motif_id: animal_simile_for_spiritual_degradation
+  label: Animal simile for spiritual degradation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a rhetorical simile rather than a narrative motif
+    or recurring symbolic action.
+  cautions: If the passage develops an animal transformation, moral judgment, or didactic
+    parable rather than a mere simile, remap to divine_judgment or sacred_law after
+    review.
+  suggested_aliases:
+  - animal_metaphor_for_spiritual_degradation
+  - spiritual_degradation_compared_to_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-soul-companion-or-fylgja-foreshadowing-character
+  motif_id: animal_soul_companion_or_fylgja_foreshadowing_character
+  label: animal soul-companion or fylgja foreshadowing character
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An animal soul-companion or fylgja is a separable or counterpart soul
+    form linked to a person's life and fate.
+  cautions: If the key function is omen/foreshadowing rather than soul externalization,
+    prophecy_divination or dream_and_vision may be secondary; preserve Norse fylgja
+    specificity.
+  suggested_aliases:
+  - animal_soul_companion
+  - fylgja_as_animal_counterpart
+  - animal_double_foreshadowing_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - dream_and_vision
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine animal agency with death, ritual pollution, or spirit embodiment;
+  source evidence should decide whether the animal is a soul-double, ritual agent,
+  ancestor, deity vehicle, or merely an episode detail.
+- No transmission or origin claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    single-occurrence and culturally specific animal-spirit labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0026
+  input_sha256: d84ac4f1533eea17d3eda8963f1f8bd6e9e5c1922db23ce5587eb34ad287bcae
+

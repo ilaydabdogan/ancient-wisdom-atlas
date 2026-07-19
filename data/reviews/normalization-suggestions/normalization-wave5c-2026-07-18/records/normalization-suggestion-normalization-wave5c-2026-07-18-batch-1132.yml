@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1132
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-household-space-polluted-by-battle
+  motif_id: sacred_household_space_polluted_by_battle
+  label: Sacred household space polluted by battle
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on pollution of a protected domestic sacred space,
+    fitting purity law and ritual regulation.
+  cautions: Single occurrence; if the passage emphasizes combat rather than pollution
+    or taboo, sacred_combat may be a secondary context.
+  suggested_aliases:
+  - battle_pollution_of_household_sacred_space
+  - domestic_sacred_space_polluted_by_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-human-figure-marked-on-the-ground-with-stone-piles-and-offerings
+  motif_id: sacred_human_figure_marked_on_the_ground_with_stone_piles_and_offerings
+  label: Sacred human figure marked on the ground with stone piles and offerings
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sacred landscape marking, offerings, and a human-shaped
+    ground figure without enough functional context.
+  cautions: Culturally sensitive and highly specific; review source evidence before
+    mapping to sacred_exchange, sacrifice, axis_mundi, sacred_treasures, or excluding
+    as ethnographic description.
+  suggested_aliases:
+  - ground_figure_marked_with_offerings
+  - stone_piles_and_offerings_at_sacred_human_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-hunting-memento-from-formidable-animal
+  motif_id: sacred_hunting_memento_from_formidable_animal
+  label: sacred hunting memento from formidable animal
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A retained animal memento with sacred force functions as a power object
+    or ritual token.
+  cautions: If the key evidence is hunting taboo, animal reciprocity, or ritual offering,
+    sacred_law or sacred_exchange may be better; preserve animal specificity.
+  suggested_aliases:
+  - sacred_animal_hunting_memento
+  - formidable_animal_trophy_as_sacred_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-hunting-prohibition-during-animal-assembly
+  motif_id: sacred_hunting_prohibition_during_animal_assembly
+  label: Sacred hunting prohibition during animal assembly
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prohibition on hunting during a sacred animal gathering is a taboo
+    or ritual regulation.
+  cautions: May involve culturally specific animal-person relations; if reciprocal
+    obligation with animals is explicit, sacred_exchange may be relevant.
+  suggested_aliases:
+  - hunting_taboo_during_animal_assembly
+  - ritual_prohibition_on_hunting_at_animal_gathering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-hymns-formed-from-a-righteous-body
+  motif_id: sacred_hymns_formed_from_a_righteous_body
+  label: Sacred hymns formed from a righteous body
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: primordial_sacrifice
+  suggested_group_label: Primordial Sacrifice and Dismemberment
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sacred or righteous body generating hymns resembles creation or sacred
+    production from a body.
+  cautions: If the body is not primordial or sacrificed, death_and_transformation
+    or sacred_knowledge may be better; review Zoroastrian source context carefully.
+  suggested_aliases:
+  - hymns_generated_from_righteous_body
+  - sacred_speech_formed_from_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-hymns-organized-by-musical-measures
+  motif_id: sacred_hymns_organized_by_musical_measures
+  label: sacred hymns organized by musical measures
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes textual or liturgical organization of hymns rather
+    than a narrative or symbolic motif.
+  cautions: If source evidence emphasizes music as transformative sacred force, map
+    to enchanting_music or sacred_song instead of excluding.
+  suggested_aliases:
+  - hymns_arranged_by_musical_measure
+  - liturgical_hymn_organization_by_raga_or_meter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-illumination-and-precious-adornment
+  motif_id: sacred_illumination_and_precious_adornment
+  label: Sacred illumination and precious adornment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate divine light, relic adornment, ritual decoration,
+    or descriptive imagery.
+  cautions: Too broad and context-dependent; consider sacred_fire for illumination,
+    sacred_treasures for precious objects, or theophany if divine manifestation is
+    central.
+  suggested_aliases:
+  - sacred_light_and_jewel_adornment
+  - precious_adornment_with_sacred_illumination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-image-as-conduit-to-divine-realm
+  motif_id: sacred_image_as_conduit_to_divine_realm
+  label: sacred image as conduit to divine realm
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already includes animated or cult images made by magical craft;
+    this image mediates access to divine reality.
+  cautions: If the emphasis is icon devotion or prayer rather than manufactured sacred
+    image, sacred_treasures or theophany may be secondary.
+  suggested_aliases:
+  - cult_image_as_divine_conduit
+  - sacred_image_mediates_divine_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-image-as-consolation-and-focus-of-prayer
+  motif_id: sacred_image_as_consolation_and_focus_of_prayer
+  label: sacred image as consolation and focus of prayer
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred image used as devotional focus functions as a power object or
+    sacred devotional token.
+  cautions: Could be closer to sacred_exchange if prayer and reciprocity dominate;
+    avoid collapsing all images into idol without evidence of forbidden worship.
+  suggested_aliases:
+  - devotional_image_as_focus_of_prayer
+  - sacred_image_as_consolation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-image-averts-its-gaze-from-impiety
+  motif_id: sacred_image_averts_its_gaze_from_impiety
+  label: Sacred image averts its gaze from impiety
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The sacred image’s response to impiety marks moral evaluation and divine
+    disapproval.
+  cautions: If the image is animated as a cult object, sacred_craft may also apply;
+    source evidence should confirm it is more than literary description.
+  suggested_aliases:
+  - cult_image_averts_gaze_from_impiety
+  - sacred_image_reacts_to_impiety
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional; several labels are single-occurrence and require
+  source-level review before durable taxonomy changes.
+- Avoid treating sacred images as forbidden idols unless the passage explicitly frames
+  them as idolatry or transgression.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch contains culturally specific ritual and image-devotion labels; human
+    review recommended for context and sensitivity.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1132
+  input_sha256: d03ba13786232d1bb18edb127747a87fa4a20475a08935bd5cdc08103f630348
+

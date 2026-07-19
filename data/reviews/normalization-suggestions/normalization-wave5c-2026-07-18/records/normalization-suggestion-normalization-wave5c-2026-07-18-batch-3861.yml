@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3861
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.refugee-incorporation-into-a-growing-settlement
+  motif_id: refugee_incorporation_into_a_growing_settlement
+  label: Refugee incorporation into a growing settlement
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes social incorporation after displacement, but current
+    groups do not clearly cover refuge, migration, or settlement formation.
+  cautions: Single occurrence and may be an ethnographic or plot-specific social detail;
+    review whether it functions as origin myth, hospitality, covenantal adoption,
+    or settlement etiology.
+  suggested_aliases:
+  - refugees_join_a_settlement
+  - displaced_people_incorporated_into_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - covenant
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refugee-people-adopted-and-protected-by-host-people
+  motif_id: refugee_people_adopted_and_protected_by_host_people
+  label: refugee people adopted and protected by host people
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Adoption and protection of displaced outsiders fits the sacred guest/host
+    obligation field better than combat or kingship.
+  cautions: If the passage emphasizes treaty, kinship incorporation, or people-origin
+    history rather than hospitality, covenant or cosmic_origin may be secondary or
+    better placements.
+  suggested_aliases:
+  - refugee_people_protected_by_hosts
+  - adoption_of_displaced_people_by_host_group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-ignored-and-food-taken
+  motif_id: refusal_ignored_and_food_taken
+  label: Refusal ignored and food taken
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve violated consent, food theft, coercive exchange,
+    or a fable action, but the narrative function is unclear.
+  cautions: Could map to trickster if theft/deception drives the episode, sacred_exchange
+    if reciprocity is violated, or betrayal_violated_trust if a social bond is broken.
+  suggested_aliases:
+  - ignored_refusal_and_taken_food
+  - food_taken_despite_refusal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_exchange
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-armed-protection
+  motif_id: refusal_of_armed_protection
+  label: Refusal of armed protection
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Refusing protection could signal courage, vulnerability, taboo, fate,
+    or social conflict; the label alone does not identify the motif function.
+  cautions: Review context before mapping to divine_warrior, sacred_combat, death_by_fate,
+    or sacred_law. It may be too event-specific for pattern queries.
+  suggested_aliases:
+  - declining_armed_protection
+  - rejection_of_martial_guardianship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_combat
+    - death_by_fate
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-companions-isolates-the-protagonist
+  motif_id: refusal_of_companions_isolates_the_protagonist
+  label: refusal of companions isolates the protagonist
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Loss or refusal of companions isolates the protagonist and can function
+    as a departure or ordeal stage in a hero journey.
+  cautions: If the episode is mainly betrayal, abandonment, or social exclusion rather
+    than transformative journey, betrayal_violated_trust or needs_human_review may
+    be preferable.
+  suggested_aliases:
+  - companions_refused_leaving_hero_alone
+  - protagonist_isolated_by_rejected_companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-compromised-sustenance
+  motif_id: refusal_of_compromised_sustenance
+  label: refusal of compromised sustenance
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Refusing tainted or improper food fits food taboo, purity, and sacred-law
+    regulation when sustenance is morally or ritually compromised.
+  cautions: If the food is a deceptive trap, map to trickster or betrayal_violated_trust;
+    if it is sacrificial or medicinal, sacred_substance may be relevant.
+  suggested_aliases:
+  - refusal_of_tainted_food
+  - avoidance_of_compromised_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-cultic-exaltation
+  motif_id: refusal_of_cultic_exaltation
+  label: Refusal of cultic exaltation
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Declining cultic elevation can express renunciation of status on an interior
+    or spiritual path.
+  cautions: Culturally sensitive and context-dependent; if the passage concerns political
+    legitimacy, apotheosis, or anti-idolatry rather than renunciation, royal_legitimacy,
+    divine_judgment, or sacred_law may fit better.
+  suggested_aliases:
+  - renunciation_of_cultic_exaltation
+  - refusal_of_religious_elevation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-elevated-honour
+  motif_id: refusal_of_elevated_honour
+  label: Refusal of elevated honour
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Refusing high honor can be a renunciatory or humility motif, loosely
+    aligned with the quest's rejection of ordinary status.
+  cautions: In Norse context it may instead concern warrior honor, kingship, fate,
+    or social obligation; review passage evidence before final mapping.
+  suggested_aliases:
+  - refusal_of_high_honor
+  - declining_exalted_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-feast-food-as-sign-of-distress
+  motif_id: refusal_of_feast_food_as_sign_of_distress
+  label: refusal of feast food as sign of distress
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a narrative signal of grief or distress rather than a clear
+    standalone mythic motif.
+  cautions: Could support lament_and_mourning if refusal expresses grief, sacred_exchange
+    if feast reciprocity is broken, or sacred_substance if food has ritual force;
+    likely preserve as evidence detail.
+  suggested_aliases:
+  - feast_food_refused_as_distress_sign
+  - distress_shown_by_refusing_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - sacred_exchange
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-food-because-a-nonhuman-thing-might-see
+  motif_id: refusal_of_food_because_a_nonhuman_thing_might_see
+  label: Refusal of food because a nonhuman thing might see
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a taboo around eating under nonhuman observation,
+    but the agent and ritual logic are unclear.
+  cautions: May belong to sacred_law if a food taboo, divine_judgment if cosmic witnesses
+    monitor conduct, or animist/spirit-contact beliefs not cleanly covered by existing
+    groups.
+  suggested_aliases:
+  - food_refused_under_nonhuman_witness
+  - eating_taboo_due_to_nonhuman_observer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels center on refusal, food, protection, or social incorporation with
+  only one occurrence each; source context is needed to distinguish motif function
+  from plot detail.
+- Avoid creating a new refugee/incorporation group from this small batch alone, though
+  repeated settlement-adoption labels may later justify a migration/refuge group under
+  covenant, hospitality, or origin traditions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items are low-confidence and context-dependent.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3861
+  input_sha256: e4e79b0b03f2fb1006b1891d5c1164d2af89f6f42675ea971c133aeca08d4421
+

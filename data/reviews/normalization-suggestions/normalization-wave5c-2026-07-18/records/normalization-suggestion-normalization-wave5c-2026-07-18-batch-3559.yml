@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3559
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hunter-imitates-prey
+  motif_id: hunter_imitates_prey
+  label: hunter imitates prey
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Imitation of prey may be hunting technique, ritual animal-identification,
+    disguise, or passage detail; no existing group clearly fits from label alone.
+  cautions: Single occurrence and culturally specific hunting context; avoid forcing
+    into shapeshifter or trickster without evidence of transformation or deception.
+  suggested_aliases:
+  - prey_imitation_by_hunter
+  - hunter_mimics_prey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunter-lost-in-snow-after-successful-pursuit
+  motif_id: hunter_lost_in_snow_after_successful_pursuit
+  label: hunter lost in snow after successful pursuit
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label may describe a journey ordeal or moral reversal after hunting
+    success, but the narrative function is unclear.
+  cautions: Likely episode-specific; only map to hero_journey if the lost condition
+    transforms status or knowledge, or divine_judgment if pursuit success is punished.
+  suggested_aliases:
+  - hunter_lost_after_successful_pursuit
+  - lost_hunter_after_hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - divine_judgment
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunter-provider-sustains-dependents
+  motif_id: hunter_provider_sustains_dependents
+  label: hunter-provider sustains dependents
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a social role or subsistence theme rather than a clear
+    mythic motif in the current taxonomy.
+  cautions: May be contextual ethnographic description; consider sacred_exchange only
+    if the passage frames hunting provision as reciprocal obligation or sacred duty.
+  suggested_aliases:
+  - hunter_as_provider
+  - hunter_sustains_dependents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunter-summons-or-beckons-prey
+  motif_id: hunter_summons_or_beckons_prey
+  label: hunter summons or beckons prey
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Beckoning prey could be magical compulsion, hunting skill, animal-spirit
+    relation, or ritual practice; source evidence is needed.
+  cautions: Do not map to enchanting_music or storytelling_as_power unless sound/speech
+    compels prey; do not map to divine_intervention unless a spirit power acts.
+  suggested_aliases:
+  - hunter_beckons_prey
+  - hunter_summons_prey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunter-values-action-over-storytelling
+  motif_id: hunter_values_action_over_storytelling
+  label: hunter values action over storytelling
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes an evaluative contrast about narration and conduct
+    rather than a recurring symbolic motif.
+  cautions: If the passage itself makes storytelling a sacred power or failed power,
+    review under storytelling_as_power; otherwise preserve only as evidence/commentary
+    detail.
+  suggested_aliases:
+  - action_valued_over_storytelling
+  - practical_action_over_narrative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunters-adrift-on-broken-ice
+  motif_id: hunters_adrift_on_broken_ice
+  label: Hunters adrift on broken ice
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a perilous boundary-crossing or survival episode, but current
+    groups do not clearly cover broken-ice hunting peril.
+  cautions: Could map to sacred_waters if ice/water functions as a transformative
+    boundary, or hero_journey if it is an ordeal; otherwise may be passage-specific.
+  suggested_aliases:
+  - hunters_adrift_on_ice
+  - broken_ice_hunting_peril
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - hero_journey
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunters-arm-themselves-after-kin-alarm
+  motif_id: hunters_arm_themselves_after_kin_alarm
+  label: Hunters arm themselves after kin alarm
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: Arming after an alarm may be combat preparation, kin-protection, or plot
+    mechanics; the motif function is too contextual.
+  cautions: Map to sacred_combat only if the arming initiates ritually significant
+    conflict or defense, not merely ordinary response to danger.
+  suggested_aliases:
+  - arming_after_kin_alarm
+  - hunters_prepare_weapons_after_alarm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunters-becoming-prey
+  motif_id: hunters_becoming_prey
+  label: Hunters becoming prey
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The reversal of hunters into prey fits a moral or cosmic reversal pattern
+    where roles are inverted as consequence or reckoning.
+  cautions: If the passage emphasizes animal trickery rather than judgment, trickster
+    may be a better mapping; if literal metamorphosis occurs, consider shapeshifter.
+  suggested_aliases:
+  - hunter_becomes_prey
+  - predator_prey_reversal
+  - hunters_as_prey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunters-vanish-in-a-remote-hunting-land
+  motif_id: hunters_vanish_in_a_remote_hunting_land
+  label: Hunters vanish in a remote hunting land
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Vanishing in a remote land may indicate otherworld entry, death, exile,
+    or an unresolved passage detail.
+  cautions: Map to otherworld only if the hunting land is enchanted or nonordinary;
+    map to death_and_transformation only if disappearance implies death or transformation.
+  suggested_aliases:
+  - hunters_disappear_in_remote_hunting_land
+  - vanishing_hunters_in_hunting_ground
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - death_and_transformation
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunting-amulet-granting-extraordinary-speed
+  motif_id: hunting_amulet_granting_extraordinary_speed
+  label: Hunting amulet granting extraordinary speed
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: An amulet conferring extraordinary ability is a power object that grants
+    special capacity to its bearer.
+  cautions: Preserve hunting and speed specificity as evidence detail; if tied to
+    ritual hunting law or animal-spirit reciprocity, secondary review may be needed.
+  suggested_aliases:
+  - speed_granting_hunting_amulet
+  - amulet_grants_hunter_speed
+  - hunting_power_amulet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern hunting practices in Indigenous contexts and require source-sensitive
+  review before broad symbolic placement.
+- Avoid creating a broad hunting motif group from this batch alone; most items are
+  single-occurrence and may be episode-specific or ethnographic details.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; hunting-related motifs need passage evidence
+    to distinguish technique, ritual, animal-spirit relation, ordeal, and commentary
+    artifact.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3559
+  input_sha256: 4671d00d18ee688c0f1ef157db42eb41de159dec243653e938e1bd26aa1d4166
+

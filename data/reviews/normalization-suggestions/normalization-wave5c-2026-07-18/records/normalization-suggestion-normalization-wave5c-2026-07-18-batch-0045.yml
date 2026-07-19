@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0045
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bloodied-garment-kept-as-death-token
+  motif_id: bloodied_garment_kept_as_death_token
+  label: bloodied garment kept as death-token
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bloodied garment functions as a material token proving or preserving
+    knowledge of a death.
+  cautions: Single occurrence; if the emphasis is mourning or memorial preservation
+    rather than proof, lament_and_mourning or heroic_funeral_rites may be better.
+  suggested_aliases:
+  - bloodied_clothing_as_death_token
+  - death_token_garment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boast-of-unconstrained-spiritual-power
+  motif_id: boast_of_unconstrained_spiritual_power
+  label: boast of unconstrained spiritual power
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on overreaching boast or hubristic claim about spiritual
+    power.
+  cautions: Needs passage evidence for downfall or humbling; without consequence it
+    may be a speech-detail or sacred-power claim requiring human review.
+  suggested_aliases:
+  - hubristic_boast_of_spiritual_power
+  - boast_of_unlimited_sacred_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-challenger-of-a-ghost-is-killed-after-warning
+  motif_id: boastful_challenger_of_a_ghost_is_killed_after_warning
+  label: Boastful challenger of a ghost is killed after warning
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: A boastful challenge followed by fatal consequence fits hubris punished
+    after warning.
+  cautions: Also overlaps restless_dead_haunting_vengeance because the opponent is
+    a ghost; preserve ghost agency in evidence notes.
+  suggested_aliases:
+  - boastful_challenge_to_ghost_punished_by_death
+  - ghost_warning_ignored_by_boastful_challenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boasting-over-a-hero-s-death-wound
+  motif_id: boasting_over_a_hero_s_death_wound
+  label: boasting over a hero's death-wound
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a granular heroic-combat scene involving martial death,
+    wounds, and honor speech.
+  cautions: Likely too episode-specific; if grief or recognition is central, lament_and_mourning
+    may be a secondary mapping.
+  suggested_aliases:
+  - boast_over_fatal_heroic_wound
+  - boasting_at_a_fallen_hero_s_wound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-affliction-at-heroic-mountain-tombs
+  motif_id: bodily_affliction_at_heroic_mountain_tombs
+  label: Bodily affliction at heroic mountain tombs
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines tomb, mountain, heroic dead, and bodily affliction without enough
+    evidence to choose a function.
+  cautions: Could involve saintly tomb/relic devotion, ancestor or restless dead agency,
+    sacred mountain, taboo violation, or healing/affliction cult; culturally specific
+    evidence should be reviewed.
+  suggested_aliases:
+  - affliction_at_heroic_tombs
+  - mountain_tomb_bodily_affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-dissolution-as-death
+  motif_id: bodily_dissolution_as_death
+  label: bodily dissolution as death
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Death is framed as dissolution of the body, fitting the broader death-transformation
+    complex.
+  cautions: May be philosophical anthropology rather than narrative motif; if it concerns
+    mystical release from body, mystical_quest may be a better secondary mapping.
+  suggested_aliases:
+  - death_as_bodily_dissolution
+  - dissolution_of_body_at_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-entanglement-in-an-animal-prevents-return
+  motif_id: bodily_entanglement_in_an_animal_prevents_return
+  label: Bodily entanglement in an animal prevents return
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe animal embodiment, soul entrapment, failed return,
+    or shamanic travel interruption.
+  cautions: Could map to shapeshifter, soul_loss_restoration, external_soul, or death_and_transformation
+    depending on whether the body, soul, or journey-return function is primary.
+  suggested_aliases:
+  - animal_entanglement_prevents_return
+  - soul_or_body_trapped_in_animal_form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-heaviness-as-sign-of-helping-spirit-arrival
+  motif_id: bodily_heaviness_as_sign_of_helping_spirit_arrival
+  label: Bodily heaviness as sign of helping-spirit arrival
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A helping spirit arriving and affecting the body fits spirit guidance
+    or intervention in human affairs.
+  cautions: Very culturally specific and somatic; may be shamanic practice evidence
+    rather than a general motif. Human review should preserve local terminology.
+  suggested_aliases:
+  - helping_spirit_arrival_marked_by_bodily_heaviness
+  - somatic_sign_of_helping_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-preparation-before-hazardous-descent
+  motif_id: bodily_preparation_before_hazardous_descent
+  label: bodily preparation before hazardous descent
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Preparation for a dangerous downward journey belongs with descent when
+    it enables or protects the passage.
+  cautions: If preparation is the main ritual rather than the descent itself, sacred_law
+    or initiation may be secondary; preserve the bodily-preparation detail.
+  suggested_aliases:
+  - preparation_before_dangerous_descent
+  - ritual_bodily_preparation_for_descent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-sympathy-between-killer-and-corpse
+  motif_id: bodily_sympathy_between_killer_and_corpse
+  label: bodily sympathy between killer and corpse
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label implies a sympathetic bond after killing, but the ritual or
+    narrative function is unclear.
+  cautions: Could concern sacred law, spirit contagion, corpse taboo, vengeance of
+    the dead, or sympathetic magic; source evidence is needed before mapping.
+  suggested_aliases:
+  - corpse_killer_bodily_sympathy
+  - sympathetic_link_between_killer_and_corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and somatic or culturally specific;
+  review should preserve source context rather than overgeneralizing.
+- Where ghost, corpse, or helping-spirit agency is present, distinguish narrative
+  death motifs from ritual belief, shamanic practice, or ethnographic commentary.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple low-confidence items require source-level
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0045
+  input_sha256: fde25ff69cc6fe1ea73e8a1adb15c693198c32f748fdf893d7005018282f56c9
+

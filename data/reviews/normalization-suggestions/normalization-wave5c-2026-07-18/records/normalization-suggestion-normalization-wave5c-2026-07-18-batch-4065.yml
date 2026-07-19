@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4065
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unsettled-blood-claim-despite-prior-compensation
+  motif_id: unsettled_blood_claim_despite_prior_compensation
+  label: unsettled blood-claim despite prior compensation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A blood-claim continuing despite compensation concerns feud settlement,
+    retaliation, and competing norms of social/legal order.
+  cautions: Could fit sacred_combat if the passage emphasizes feud violence rather
+    than law or compensation; single occurrence should remain granular evidence.
+  suggested_aliases:
+  - blood_compensation_replacing_or_competing_with_retaliation
+  - unsettled_blood_claim
+  - unresolved_blood_compensation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unshootable-apparition-on-a-hill
+  motif_id: unshootable_apparition_on_a_hill
+  label: Unshootable apparition on a hill
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate a spirit apparition, protective invulnerability,
+    illusion, sacred hill encounter, or failed attack, but the narrative function
+    is unclear.
+  cautions: Culturally specific spirit evidence is needed before mapping to theophany,
+    otherworld, divine_intervention, sacred_combat, or conditional_invulnerability_hidden_weakness.
+  suggested_aliases:
+  - unshootable_apparition
+  - apparition_on_a_hill
+  - weapon_resistant_spirit_appearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unspecified-superstition-concerning-a-stork-or-its-nest
+  motif_id: unspecified_superstition_concerning_a_stork_or_its_nest
+  label: Unspecified superstition concerning a stork or its nest
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording is explicitly unspecified and reads like an ethnographic
+    or index note rather than a usable motif.
+  cautions: If source evidence describes a concrete taboo, omen, nesting prohibition,
+    or animal helper role, remap to sacred_law, prophecy_divination, or an animal-related
+    group as appropriate.
+  suggested_aliases:
+  - stork_nest_superstition
+  - unspecified_stork_belief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unspoken-intention-publicly-exposed
+  motif_id: unspoken_intention_publicly_exposed
+  label: Unspoken intention publicly exposed
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Public exposure of hidden thought or intention is a revelation of concealed
+    knowledge, often marking supernatural insight or moral disclosure.
+  cautions: If exposure occurs through dream, divination, trickery, or performative
+    speech, secondary placement may differ; source mechanism should be reviewed.
+  suggested_aliases:
+  - hidden_intention_revealed
+  - unspoken_intention_revealed
+  - public_exposure_of_hidden_thought
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unspoken-rescue-plan-concealed-from-enemies
+  motif_id: unspoken_rescue_plan_concealed_from_enemies
+  label: Unspoken rescue plan concealed from enemies
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes strategic secrecy in a rescue episode but does not
+    show a clear sacred, supernatural, or recurring motif function.
+  cautions: Could be a passage-specific plot detail; if deception or stratagem is
+    central, trickster may fit; if rescue is divinely guided, divine_intervention
+    may fit.
+  suggested_aliases:
+  - concealed_rescue_plan
+  - secret_rescue_strategy
+  - rescue_plan_hidden_from_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unspoken-thought-overheard-by-the-pursuer
+  motif_id: unspoken_thought_overheard_by_the_pursuer
+  label: Unspoken thought overheard by the pursuer
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Overhearing an unspoken thought implies supernatural access to hidden
+    knowledge or exposed interiority.
+  cautions: If the pursuer is a trickster, spirit, or monster, placement may also
+    involve trickster, threshold_guardian, or divine_intervention; avoid assuming
+    telepathy without source evidence.
+  suggested_aliases:
+  - unspoken_thought_overheard
+  - thoughts_overheard_by_pursuer
+  - hidden_thought_revealed_to_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unstable-fortune-represented-by-rotating-or-unstable-objects
+  motif_id: unstable_fortune_represented_by_rotating_or_unstable_objects
+  label: unstable fortune represented by rotating or unstable objects
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Rotating or unstable objects representing fortune align with personified
+    or imagistic destiny and cosmic turning.
+  cautions: If the point is moral downfall or impermanence of power rather than fate
+    imagery, pride_and_downfall may be better; preserve object details as evidence.
+  suggested_aliases:
+  - wheel_of_fortune
+  - unstable_fortune_symbol
+  - rotating_object_as_fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsubdued-people-preserving-ancient-liberty
+  motif_id: unsubdued_people_preserving_ancient_liberty
+  label: unsubdued people preserving ancient liberty
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as an ethnographic, political, or historiographic characterization
+    rather than a clear mythic motif.
+  cautions: Could relate to sacred_law, royal_legitimacy, or heroic resistance only
+    if the passage gives a narrative function; otherwise exclude as contextual description.
+  suggested_aliases:
+  - unconquered_people_preserve_liberty
+  - ancient_liberty_of_unsubdued_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsuccessful-companion-beside-a-superior-fisher
+  motif_id: unsuccessful_companion_beside_a_superior_fisher
+  label: unsuccessful companion beside a superior fisher
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be a contrastive trickster, skill, or abundance episode,
+    but it is too context-dependent from wording alone.
+  cautions: Could be passage-specific; if the superior fisher has sacred provision
+    or animal-helper powers, divine_intervention or sacred_substance may fit; if comic
+    rivalry, trickster may fit.
+  suggested_aliases:
+  - inferior_companion_beside_superior_fisher
+  - unsuccessful_fishing_companion
+  - superior_fisher_contrast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsuccessful-imitation-of-fortunate-neighbours
+  motif_id: unsuccessful_imitation_of_fortunate_neighbours
+  label: Unsuccessful imitation of fortunate neighbours
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: high
+  rationale: Failed imitation of others' good fortune matches the existing envy and
+    failed-imitation cluster under pride_and_downfall.
+  cautions: If the narrative emphasizes ritual error, trickster deception, or violated
+    taboo rather than envy or overreach, review for sacred_law or trickster.
+  suggested_aliases:
+  - envious_imitation_of_fortunate_neighbours_fails
+  - failed_imitation_of_fortunate_neighbors
+  - unsuccessful_imitation_of_good_fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several single-occurrence labels are highly contextual and should remain provisional
+  until source passages confirm narrative function.
+- Avoid treating secrecy, thought-reading, or failed skill episodes as canonical motifs
+  unless they recur or clearly involve sacred knowledge, trickster action, or supernatural
+  agency.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4065
+  input_sha256: 1a2539b10ee7d860c4f89ae4dfbeb9cf3361269a3d8606c32ae3a9c8c7490da6
+

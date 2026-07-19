@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3769
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.permitted-and-forbidden-days
+  motif_id: permitted_and_forbidden_days
+  label: permitted and forbidden days
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: The existing sacred_time group already includes auspicious and inauspicious
+    calendar days governing action.
+  cautions: If the passage is a legal prescription rather than ritual calendar logic,
+    sacred_law may be a secondary fit.
+  suggested_aliases:
+  - auspicious_and_inauspicious_days
+  - permitted_and_forbidden_calendar_days
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.permitted-foreign-settlement-followed-by-religious-domination
+  motif_id: permitted_foreign_settlement_followed_by_religious_domination
+  label: permitted foreign settlement followed by religious domination
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve social order, sacred law, colonial encounter, or
+    passage-specific historical commentary rather than a stable motif.
+  cautions: Culturally sensitive and context-dependent; avoid treating it as transmission
+    or conquest evidence without source review.
+  suggested_aliases:
+  - foreign_settlement_followed_by_religious_domination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perpetual-cosmic-renewal
+  motif_id: perpetual_cosmic_renewal
+  label: perpetual cosmic renewal
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: broader_label
+  confidence: medium
+  rationale: Cosmic renewal fits the broad death-rebirth-transformation complex when
+    the emphasis is ongoing regeneration of order.
+  cautions: If framed as calendrical cycle, map secondarily to sacred_time; if world
+    catastrophe precedes renewal, flood_and_renewal may fit better.
+  suggested_aliases:
+  - continuous_cosmic_renewal
+  - cyclical_cosmic_regeneration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perpetual-festival-ordained-on-heavenly-tablets
+  motif_id: perpetual_festival_ordained_on_heavenly_tablets
+  label: Perpetual festival ordained on heavenly tablets
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: A divinely ordained perpetual festival is a sacred calendar or ritual-cycle
+    motif.
+  cautions: The heavenly tablets detail also relates to sacred_knowledge or cosmic_record_of_divine_decrees;
+    preserve it as evidence detail.
+  suggested_aliases:
+  - divinely_ordained_perpetual_festival
+  - festival_ordained_on_heavenly_tablets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perpetual-food-deprivation-by-supernatural-pests
+  motif_id: perpetual_food_deprivation_by_supernatural_pests
+  label: perpetual food deprivation by supernatural pests
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe divine punishment, curse, monstrous affliction,
+    or an episode-specific torment.
+  cautions: Needs source context before mapping to divine_judgment, curse_blessing_speech,
+    or sacred_substance/food deprivation themes.
+  suggested_aliases:
+  - supernatural_pests_cause_food_deprivation
+  - endless_food_torment_by_pests
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perpetual-youth-and-absence-of-age
+  motif_id: perpetual_youth_and_absence_of_age
+  label: perpetual youth and absence of age
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Perpetual youth marks a transformed death-transcending state and contrasts
+    with mortality and aging.
+  cautions: If the passage stresses paradise or eschatological realm conditions, otherworld
+    or afterlife_passage may be relevant secondary mappings.
+  suggested_aliases:
+  - ageless_perpetual_youth
+  - absence_of_aging
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecuted-ecstatic-saint-or-religious-claimant
+  motif_id: persecuted_ecstatic_saint_or_religious_claimant
+  label: Persecuted ecstatic saint or religious claimant
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: Persecution of an ecstatic saint may belong to mystical_quest, divine_judgment,
+    or social conflict depending on the passage function.
+  cautions: Culturally sensitive; verify whether the motif is sanctified persecution,
+    martyrdom, legal accusation, or biographical detail.
+  suggested_aliases:
+  - persecuted_ecstatic_saint
+  - persecuted_religious_claimant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecuted-figure-survives-while-attackers-are-destroyed
+  motif_id: persecuted_figure_survives_while_attackers_are_destroyed
+  label: Persecuted figure survives while attackers are destroyed
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The reversal in which attackers are destroyed while the victim survives
+    fits moral reckoning or punitive reversal.
+  cautions: If survival is by explicit divine rescue, divine_intervention may be a
+    better primary group; if no sacred agency is present, review as folktale plot
+    reversal.
+  suggested_aliases:
+  - persecuted_victim_survives_attackers_destroyed
+  - attackers_destroyed_after_persecuting_victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecuted-saint
+  motif_id: persecuted_saint
+  label: Persecuted saint
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to distinguish martyrdom, spiritual ordeal, divine
+    vindication, or historical-biographical persecution.
+  cautions: Culturally sensitive and potentially person-specific; source evidence
+    is needed before indexing as motif.
+  suggested_aliases:
+  - saint_under_persecution
+  - holy_person_persecuted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecution-and-execution-in-a-fiery-pit
+  motif_id: persecution_and_execution_in_a_fiery_pit
+  label: persecution and execution in a fiery pit
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Persecution and fiery execution commonly functions as a moral test and
+    occasion for judgment or vindication.
+  cautions: Do not map to world_destroying_fire unless world/order renewal is explicit;
+    if miraculous survival from fire is present, divine_intervention may be primary.
+  suggested_aliases:
+  - fiery_pit_execution_of_the_persecuted
+  - persecution_by_fiery_pit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several persecution labels are broad or culturally sensitive and should be checked
+  against passage evidence before canonical mapping.
+- Where labels involve fire, do not infer world-destroying fire unless the passage
+  includes cosmic or old-order destruction and renewal.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for wave5c batch 3769.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3769
+  input_sha256: c9c6b6573d53c31d18012cd1e46f66c1c443d9a572dcbc6a6539c4b82433efc6
+

@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0661
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.aetiology-of-island-name-and-local-ritual-mockery
+  motif_id: aetiology_of_island_name_and_local_ritual_mockery
+  label: Aetiology of island name and local ritual mockery
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines place-name aetiology with a local ritual practice; either cosmic_origin/place-name
+    etiology or sacred_law/ritual custom may be primary depending on passage evidence.
+  cautions: Single occurrence and composite local detail; avoid flattening ritual
+    mockery into creation etiology without context.
+  suggested_aliases:
+  - island_name_etiology_and_ritual_mockery
+  - local_ritual_mockery_explains_place_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aetiology-of-ritual-weapons-and-ritual-song
+  motif_id: aetiology_of_ritual_weapons_and_ritual_song
+  label: Aetiology of ritual weapons and ritual song
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label explains origins of ritual implements and song, but could point
+    to sacred_law, sacred_treasures, sacred_combat, or storytelling/sound power depending
+    on evidence.
+  cautions: Composite and local ritual aetiology; do not create a group from one occurrence
+    unless similar ritual-origin labels recur.
+  suggested_aliases:
+  - ritual_weapon_and_song_etiology
+  - origin_of_ritual_weapons_and_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.age-and-gender-differentiated-food-taboo
+  motif_id: age_and_gender_differentiated_food_taboo
+  label: Age- and gender-differentiated food taboo
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A food taboo differentiated by social category fits sacred law, purity
+    codes, and ritual prohibition.
+  cautions: Preserve age and gender specificity as evidence; source context may involve
+    kinship, initiation, or local social order rather than a general food taboo.
+  suggested_aliases:
+  - socially_differentiated_food_taboo
+  - age_gender_food_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.age-threshold-for-ritual-culpability
+  motif_id: age_threshold_for_ritual_culpability
+  label: age threshold for ritual culpability
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A defined age threshold for ritual responsibility is a sacred-law rule
+    governing culpability and purity obligations.
+  cautions: Could also relate to divine_judgment if the passage emphasizes moral reckoning
+    rather than ritual eligibility.
+  suggested_aliases:
+  - ritual_age_of_culpability
+  - age_threshold_for_sacred_obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aged-persons-neglected-rather-than-ritually-killed-or-abandoned
+  motif_id: aged_persons_neglected_rather_than_ritually_killed_or_abandoned
+  label: Aged persons neglected rather than ritually killed or abandoned
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads like a comparative correction or ethnographic contrast
+    rather than a positive recurring motif.
+  cautions: If a source passage actually narrates elder abandonment, neglect, or ritual
+    death, review under sacred_law, sacrifice, or lament rather than excluding the
+    evidence.
+  suggested_aliases:
+  - elder_neglect_not_ritual_killing
+  - comparative_note_on_treatment_of_aged_persons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agrarian-righteousness-and-divine-concern-for-the-tiller
+  motif_id: agrarian_righteousness_and_divine_concern_for_the_tiller
+  label: agrarian righteousness and divine concern for the tiller
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif frames agriculture as a righteous social and sacred obligation
+    under divine concern, fitting sacred law and ethical order.
+  cautions: If emphasis is divine provision for crops rather than duty or righteousness,
+    divine_intervention or sacred_time may be secondary.
+  suggested_aliases:
+  - righteous_tilling_as_sacred_duty
+  - divine_concern_for_agriculture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agricultural-analogy-for-divine-creation
+  motif_id: agricultural_analogy_for_divine_creation
+  label: agricultural analogy for divine creation
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The primary function is explaining divine creation through an agricultural
+    metaphor, which belongs with cosmic origin imagery.
+  cautions: May be philosophical analogy rather than narrative motif; preserve agricultural
+    metaphor as evidence detail.
+  suggested_aliases:
+  - creation_as_agricultural_process
+  - divine_creation_compared_to_farming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agricultural-goddess-iconography-with-grain-torch-poppy-and-dragon-chariot
+  motif_id: agricultural_goddess_iconography_with_grain_torch_poppy_and_dragon_chariot
+  label: Agricultural goddess iconography with grain, torch, poppy, and dragon chariot
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is an iconographic bundle for a goddess rather than a clear
+    narrative function; possible parents include mother_goddess, sacred_time, sacred_substance,
+    or sacred_treasures.
+  cautions: Likely too specific for pattern queries unless the iconographic complex
+    recurs; review whether this is passage evidence, cult image description, or commentary.
+  suggested_aliases:
+  - agricultural_goddess_iconographic_attributes
+  - grain_torch_poppy_dragon_chariot_goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agricultural-taboo-intended-to-prevent-crop-injury
+  motif_id: agricultural_taboo_intended_to_prevent_crop_injury
+  label: Agricultural taboo intended to prevent crop injury
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo regulating behavior to protect crops fits sacred law, ritual
+    prohibition, and apotropaic protection.
+  cautions: Because tradition is comparative and occurrence is single, verify this
+    is not a scholarly generalization; may also relate to sacred_time if tied to seasonal
+    rites.
+  suggested_aliases:
+  - crop_protection_taboo
+  - agricultural_ritual_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.all-containing-sacred-vessel
+  motif_id: all_containing_sacred_vessel
+  label: All-containing sacred vessel
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: symbolic_variant
+  confidence: high
+  rationale: An all-containing vessel directly matches the sacred container group
+    holding cosmic, life, wisdom, or transformative power.
+  cautions: If the vessel represents the entire cosmos rather than a ritual object,
+    cosmic_origin or world_center may be relevant secondary contexts.
+  suggested_aliases:
+  - cosmic_all_containing_vessel
+  - universal_sacred_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence local ritual or iconographic labels; preserve
+  granular wording as evidence and avoid promoting to taxonomy families without recurrence.
+- 'Aetiology labels should be split by function during human review: place-name origin,
+  ritual-origin explanation, and scholarly commentary are not automatically the same
+  motif.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; composite ritual-aetiology items need source-level
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0661
+  input_sha256: 4e3d62d111b4c09f8f037ece127e24bcefc7c3be8262e6d21db5694c8b008428
+

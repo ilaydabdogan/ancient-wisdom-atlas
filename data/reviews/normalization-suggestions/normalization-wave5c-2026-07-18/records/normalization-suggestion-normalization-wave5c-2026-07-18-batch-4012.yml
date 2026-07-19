@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4012
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sworn-group-as-one-body
+  motif_id: sworn_group_as_one_body
+  label: sworn group as one body
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A sworn group imagined as one body expresses a binding social or sacred
+    bond among participants.
+  cautions: Could instead be political solidarity, kinship metaphor, or passage-specific
+    rhetoric if no oath/bond is present.
+  suggested_aliases:
+  - sworn_body_collective
+  - oath_group_as_single_body
+  - corporate_body_of_sworn_allies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.symbolic-action-as-communication
+  motif_id: symbolic_action_as_communication
+  label: Symbolic action as communication
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a broad semiotic function, but the specific narrative
+    or ritual action is not supplied.
+  cautions: May belong under curse_blessing_speech, sacred_law, royal_legitimacy,
+    or storytelling_as_power depending on the action and context; too broad to map
+    confidently.
+  suggested_aliases:
+  - symbolic act as message
+  - nonverbal symbolic communication
+  - ritual gesture as communication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.symbolic-acts
+  motif_id: symbolic_acts
+  label: symbolic acts
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label is too generic to function as a motif and records only that
+    an act is symbolic.
+  cautions: Preserve the underlying source action if available; map the concrete act
+    rather than this generic abstraction.
+  suggested_aliases:
+  - symbolic actions
+  - symbolic behavior
+  - ritual-symbolic acts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.symbolic-disposal-of-calamity-through-discarding-an-associated-object
+  motif_id: symbolic_disposal_of_calamity_through_discarding_an_associated_object
+  label: symbolic disposal of calamity through discarding an associated object
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Discarding an object to remove calamity fits the existing ritual expulsion
+    and scapegoat-like transfer complex under sacrifice.
+  cautions: If the object is chiefly a protective charm or tabooed item, sacred_law
+    may be a secondary fit; verify actual transfer or expulsion logic.
+  suggested_aliases:
+  - ritual disposal of calamity
+  - discarded object carries away misfortune
+  - calamity expelled through object disposal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.symbolic-gestures-of-royal-deference
+  motif_id: symbolic_gestures_of_royal_deference
+  label: symbolic gestures of royal deference
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Gestures of deference to royalty enact hierarchy and recognition of legitimate
+    rule.
+  cautions: Could be ordinary court etiquette rather than mythic motif; source should
+    show symbolic or ritual importance beyond a descriptive gesture.
+  suggested_aliases:
+  - royal deference gestures
+  - ritual gestures of royal submission
+  - symbolic homage to ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.symbolic-messages-through-measured-wood-and-altered-cloth
+  motif_id: symbolic_messages_through_measured_wood_and_altered_cloth
+  label: symbolic messages through measured wood and altered cloth
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be a culturally specific nonverbal message system using
+    particular objects, with unclear narrative function.
+  cautions: Do not collapse into sacred_treasures unless the wood or cloth is a power
+    object; may be evidence detail under symbolic communication, diplomacy, or ritual
+    law.
+  suggested_aliases:
+  - object-coded symbolic messages
+  - symbolic message by wood and cloth
+  - nonverbal message through measured objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sympathetic-charm-by-resemblance
+  motif_id: sympathetic_charm_by_resemblance
+  label: Sympathetic charm by resemblance
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: alias
+  confidence: high
+  rationale: Existing aliases already fold sympathetic magic by resemblance under
+    sacred_law as imitative sympathetic magic.
+  cautions: If the charm is primarily healing, curse, or coercive speech, secondary
+    review under divine_intervention or curse_blessing_speech may be needed.
+  suggested_aliases:
+  - imitative sympathetic magic
+  - sympathetic magic by resemblance
+  - resemblance charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sympathetic-correspondence-between-material-image-and-intelligible-prototype
+  motif_id: sympathetic_correspondence_between_material_image_and_intelligible_prototype
+  label: sympathetic correspondence between material image and intelligible prototype
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like Hermetic metaphysical doctrine about image-prototype
+    correspondence rather than a clear narrative motif.
+  cautions: Could fit sacred_knowledge if doctrinal teaching, sacred_craft if image
+    animation/cult objects are involved, or exclude if only commentary.
+  suggested_aliases:
+  - image-prototype correspondence
+  - material image and intelligible model
+  - sympathetic correspondence of image and archetype
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sympathetic-eating-to-acquire-qualities
+  motif_id: sympathetic_eating_to_acquire_qualities
+  label: sympathetic eating to acquire qualities
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Eating a substance to acquire its qualities centers on transformative
+    food or substance use.
+  cautions: The 'comparative' tradition and generic wording may indicate scholarly
+    abstraction; if tied to taboo or ritual rule, sacred_law may also apply.
+  suggested_aliases:
+  - eating to acquire qualities
+  - ingestion for sympathetic transfer
+  - transformative ingestion by resemblance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sympathetic-magic-by-contact-transfer
+  motif_id: sympathetic_magic_by_contact_transfer
+  label: sympathetic magic by contact transfer
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Contact-transfer magic is a ritual rule of contagion or transferred force,
+    fitting sacred_law's existing contagion and taboo cluster.
+  cautions: If the passage emphasizes transferring evil to a substitute, sacrifice
+    or ritual_transfer may be more precise; review for culturally specific terminology.
+  suggested_aliases:
+  - contagious sympathetic magic
+  - contact-transfer charm
+  - sympathetic magic by contagion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Malagasy labels use very broad 'symbolic' wording; reviewers should map
+  concrete source actions rather than preserve generic abstractions as motifs.
+- Sympathetic magic labels may overlap sacred_law, sacrifice, sacred_substance, and
+  curse_blessing_speech depending on whether the evidence emphasizes taboo, expulsion,
+  ingestion, or performative utterance.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; low-occurrence and culturally specific labels
+    require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4012
+  input_sha256: d7f011e516fb1dfeb9407ab32fd46f731304f3dbe0f6c86444ef53325976fa88
+

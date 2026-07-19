@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3030
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.totemic-avoidance-of-killing-eating-injuring-or-touching-a-kin-related-totem
+  motif_id: totemic_avoidance_of_killing_eating_injuring_or_touching_a_kin_related_totem
+  label: totemic avoidance of killing, eating, injuring, or touching a kin-related
+    totem
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a taboo/prohibition governing contact, killing, eating,
+    or injury of a kin-related sacred being or object.
+  cautions: Totemic kinship systems are culturally specific; preserve the totemic
+    and kin-related specificity rather than reducing it to generic food taboo.
+  suggested_aliases:
+  - totemic taboo
+  - kin-related totem avoidance
+  - avoidance of harming or eating a totem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.totemic-contamination-through-shared-vessels
+  motif_id: totemic_contamination_through_shared_vessels
+  label: Totemic contamination through shared vessels
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Contamination through shared vessels fits ritual purity, taboo, and spirit-contagion
+    patterns already folded under sacred_law.
+  cautions: The totemic context and vessel-specific mechanism should remain evidence
+    detail; could touch sacred_vessel only if the vessel itself is ritually central.
+  suggested_aliases:
+  - totemic pollution through shared vessels
+  - contamination by shared ritual containers
+  - vessel-mediated totemic taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tower-as-boundary-of-inclusion-and-exclusion
+  motif_id: tower_as_boundary_of_inclusion_and_exclusion
+  label: Tower as boundary of inclusion and exclusion
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A tower can function as a vertical sacred structure and social-spatial
+    boundary, loosely fitting axis or sacred center imagery.
+  cautions: If the passage emphasizes moral sorting or ecclesial membership, divine_judgment
+    or covenant may fit better; label is abstract and needs source context.
+  suggested_aliases:
+  - tower boundary of inclusion
+  - tower as exclusion boundary
+  - tower as sacred boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.town-title-map-centered-on-church-and-bounded-by-landmarks
+  motif_id: town_title_map_centered_on_church_and_bounded_by_landmarks
+  label: town-title map centered on church and bounded by landmarks
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: uncertain
+  confidence: low
+  rationale: A church-centered map with landmark boundaries may express a ritual or
+    civic world center, but it may also be a documentary land-title artifact.
+  cautions: Likely requires review by source context and colonial/Maya land-document
+    expertise; do not index as mythic sacred geography if it is primarily cartographic/legal
+    evidence.
+  suggested_aliases:
+  - church-centered town title map
+  - landmark-bounded sacred map
+  - civic map centered on church
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tracker-investigates-disappearances-by-reading-trails
+  motif_id: tracker_investigates_disappearances_by_reading_trails
+  label: Tracker investigates disappearances by reading trails
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: low
+  rationale: Reading trails is a specialized knowledge practice used to uncover hidden
+    events, but the sacred or mythic function is unclear from the label alone.
+  cautions: May be a practical narrative detail rather than a motif; review Indigenous
+    Australian context carefully and avoid treating tracking knowledge as generic
+    divination without evidence.
+  suggested_aliases:
+  - reading trails to find the missing
+  - tracking disappearances
+  - trail-reading investigation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transgressive-act-brings-defeat-and-loss-of-communion
+  motif_id: transgressive_act_brings_defeat_and_loss_of_communion
+  label: Transgressive act brings defeat and loss of communion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A transgression causing defeat and severed communion fits moral consequence
+    and sacred reckoning.
+  cautions: In Buddhist contexts the causal frame may be karma, discipline, or sangha
+    exclusion rather than divine punishment; consider sacred_law if monastic rule
+    is central.
+  suggested_aliases:
+  - transgression brings defeat
+  - loss of communion after transgression
+  - moral defeat after sacred violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transgressive-mating-and-anomalous-offspring
+  motif_id: transgressive_mating_and_anomalous_offspring
+  label: transgressive mating and anomalous offspring
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines boundary-breaking sexual union with unusual offspring,
+    but existing groups do not cleanly capture this without losing the transgressive-generation
+    function.
+  cautions: Culturally and textually sensitive; could involve sacred_law, miraculous_child,
+    divine_parent_child, chaos, or divine_judgment depending on whether the focus
+    is taboo, birth, hybrid beings, or punishment.
+  suggested_aliases:
+  - forbidden mating produces anomalous offspring
+  - transgressive union and hybrid offspring
+  - boundary-breaking mating and monstrous birth
+  suggested_new_group:
+    id: transgressive_union_anomalous_offspring
+    label: Transgressive Union and Anomalous Offspring
+    description: Boundary-breaking, forbidden, divine-human, human-animal, or otherwise
+      improper unions produce anomalous, hybrid, monstrous, giant, or socially disruptive
+      offspring.
+    parent_group_ids:
+    - sacred_law
+    - miraculous_child
+    related_group_ids:
+    - divine_parent_child
+    - divine_judgment
+    - chaos
+    - shapeshifter
+    reason_existing_groups_insufficient: Miraculous_child and divine_parent_child
+      cover extraordinary birth, while sacred_law covers taboo, but neither captures
+      the recurring narrative function of transgressive union generating anomalous
+      or disruptive offspring.
+- suggestion_id: normalization.suggestion.transition-from-mnemonic-marks-to-pictorial-symbols
+  motif_id: transition_from_mnemonic_marks_to_pictorial_symbols
+  label: transition from mnemonic marks to pictorial symbols
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a historical or interpretive development in sign
+    systems rather than a narrative or symbolic motif.
+  cautions: Preserve as provenance or media-history evidence if needed; do not use
+    as a mythic pattern unless a passage narrativizes the origin of symbols.
+  suggested_aliases:
+  - development from mnemonic marks to pictographs
+  - evolution of pictorial symbols
+  - mnemonic-to-pictorial sign transition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.transmission-of-construction-technique-across-neighboring-groups
+  motif_id: transmission_of_construction_technique_across_neighboring_groups
+  label: transmission of construction technique across neighboring groups
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label is a diffusion or ethnographic transmission claim about construction
+    technique, not a motif placement.
+  cautions: Transmission claims should remain outside normalization; if the source
+    narrates a sacred origin of building technique, review separately under sacred_craft
+    or culture_hero.
+  suggested_aliases:
+  - construction technique transmission
+  - neighboring-group building technique diffusion
+  - spread of construction craft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-bringing-familiar-servant
+  motif_id: treasure_bringing_familiar_servant
+  label: treasure-bringing familiar servant
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A familiar servant that brings treasure functions as a supernatural helper
+    or provision agent in human affairs.
+  cautions: If the familiar is primarily a magical possession or power object, sacred_treasures
+    may be secondary; if the episode emphasizes illicit gain or deception, trickster
+    or divine_judgment may be relevant.
+  suggested_aliases:
+  - treasure-bringing familiar
+  - supernatural servant brings treasure
+  - familiar spirit as wealth bringer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and ethnographic or documentary;
+  human review should verify whether they are passage motifs or evidence/commentary
+  artifacts.
+- Totemic and Indigenous knowledge labels should preserve local specificity and avoid
+  overgeneralizing into generic taboo, divination, or sacred-object categories.
+- No suggestion should be treated as evidence of transmission, borrowing, or common
+  origin.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; culturally specific and low-occurrence
+    labels require source-level validation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3030
+  input_sha256: 0bd1d9a7ddd23ec553674798e6161dcef8a961ca489e40ea47515245be96f274
+

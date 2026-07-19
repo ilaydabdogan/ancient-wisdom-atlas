@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3480
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.formulaic-handoff-at-the-end-of-a-story
+  motif_id: formulaic_handoff_at_the_end_of_a_story
+  label: formulaic handoff at the end of a story
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a tale-ending formula or performance convention rather
+    than a symbolic or narrative motif.
+  cautions: If the handoff has ritual or social function in the source performance,
+    preserve it as contextual evidence outside broad motif queries.
+  suggested_aliases:
+  - formulaic tale ending
+  - story-ending handoff
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formulaic-interrogation-produces-a-confession
+  motif_id: formulaic_interrogation_produces_a_confession
+  label: Formulaic interrogation produces a confession
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a recurring narrative device, judgment scene, trickster exposure,
+    or merely a formulaic passage pattern.
+  cautions: Source context is needed to decide whether the confession functions as
+    moral reckoning, deception exposure, legal ordeal, or textual formula.
+  suggested_aliases:
+  - interrogation leading to confession
+  - questioning produces confession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formulaic-oral-recitation-pattern
+  motif_id: formulaic_oral_recitation_pattern
+  label: formulaic oral-recitation pattern
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label names an oral-formulaic recitation feature, not a motif within
+    the narrated content.
+  cautions: If the recitation itself is ritually efficacious or sacred speech, consider
+    sacred_knowledge or curse_blessing_speech after evidence review.
+  suggested_aliases:
+  - oral formula pattern
+  - formulaic recitation pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formulaic-oral-tale-ending-with-reversals-and-teller-listener-bond
+  motif_id: formulaic_oral_tale_ending_with_reversals_and_teller_listener_bond
+  label: formulaic oral tale ending with reversals and teller-listener bond
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording points to oral tale closure and performance relation more
+    than a reusable mythic motif.
+  cautions: The reversal element may be narrative content, but the composite label
+    is over-specific and formulaic; review before any storytelling_as_power mapping.
+  suggested_aliases:
+  - formulaic oral tale ending
+  - teller-listener closing formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formulaic-utterance-for-abundance-of-food
+  motif_id: formulaic_utterance_for_abundance_of_food
+  label: Formulaic utterance for abundance of food
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A formulaic utterance that produces or requests abundance fits performative
+    sacred speech more than ordinary narration.
+  cautions: If the utterance is part of offering, hospitality, or miraculous provision,
+    sacred_exchange or divine_intervention may be secondary; culturally specific wording
+    should be checked.
+  suggested_aliases:
+  - abundance-producing utterance
+  - food abundance formula
+  - performative food blessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formulaic-visit-and-gift-sequence-with-escalating-mishaps
+  motif_id: formulaic_visit_and_gift_sequence_with_escalating_mishaps
+  label: Formulaic visit-and-gift sequence with escalating mishaps
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a formulaic plot sequence, gift exchange, and comic
+    mishaps without clear sacred function.
+  cautions: Could fit sacred_exchange, trickster, or _meta_textual depending on whether
+    the gift sequence is motif content or a tale-structure artifact.
+  suggested_aliases:
+  - visit and gift mishap sequence
+  - escalating gift-exchange mishaps
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forsaken-woman-secretly-performs-domestic-labor-while-hidden
+  motif_id: forsaken_woman_secretly_performs_domestic_labor_while_hidden
+  label: Forsaken woman secretly performs domestic labor while hidden
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a domestic plot motif involving abandonment, concealment,
+    and labor, but no existing group cleanly captures it.
+  cautions: May relate to hidden identity, household reversal, gendered labor, or
+    persecuted spouse motifs; source evidence is needed before creating a new group.
+  suggested_aliases:
+  - hidden forsaken woman performs labor
+  - abandoned woman secretly does domestic work
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fort-settlement-and-status-display-after-obtaining-whale
+  motif_id: fort_settlement_and_status_display_after_obtaining_whale
+  label: Fort settlement and status display after obtaining whale
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is highly contextual, combining place settlement, status display,
+    and whale acquisition in a culturally specific setting.
+  cautions: Could involve sacred_exchange, royal_legitimacy/status, abundance, or
+    local social practice; should be reviewed with cultural and source context.
+  suggested_aliases:
+  - status display after whale acquisition
+  - settlement after obtaining whale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortification-after-withdrawal-of-a-protective-champion
+  motif_id: fortification_after_withdrawal_of_a_protective_champion
+  label: fortification after withdrawal of a protective champion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defensive fortification after loss of a champion is a warfare crisis
+    pattern fitting sacred_combat.
+  cautions: If the focus is the champion’s protective role or divine absence rather
+    than battle strategy, divine_warrior or divine_intervention may be relevant.
+  suggested_aliases:
+  - defenders fortify after champion withdraws
+  - fortification after loss of protective hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortified-defenders-obey-absent-leader-s-command
+  motif_id: fortified_defenders_obey_absent_leader_s_command
+  label: Fortified defenders obey absent leader’s command
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The scene concerns disciplined defenders in a fortified military crisis,
+    best handled under sacred_combat.
+  cautions: Could also express royal_legitimacy or sacred_law if obedience to command
+    is the main function rather than battle defense.
+  suggested_aliases:
+  - defenders obey absent commander
+  - fortified defense under absent leader's command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels beginning with 'formulaic' appear to describe oral performance or
+  textual structure; default to _meta_textual unless the formula has narrated sacred
+  efficacy.
+- Single-occurrence, culturally specific domestic or status-display labels should
+  remain provisional pending source review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy changes applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3480
+  input_sha256: 8110313defd4c4f2ddba8aeaec58825dfb04d8aa64e95f671cbb2e4be8429c4b
+

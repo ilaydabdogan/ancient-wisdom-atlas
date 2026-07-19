@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1270
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.christological-typology-and-prophecy
+  motif_id: christological_typology_and_prophecy
+  label: Christological typology and prophecy
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: Prophecy is explicit, but Christological typology may be an exegetical
+    or theological interpretive frame rather than a narrative motif.
+  cautions: Single occurrence; verify whether the source passage contains prophecy
+    as a motif or later typological commentary.
+  suggested_aliases:
+  - christological_prophecy
+  - christological_typology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.city-founded-and-named-after-a-son
+  motif_id: city_founded_and_named_after_a_son
+  label: city founded and named after a son
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label is an etiological city-founding and naming motif, matching
+    existing place-name and ancestral-origin children under cosmic_origin.
+  cautions: If the passage only records a genealogy or place detail without etiological
+    force, it may be too specific for pattern queries.
+  suggested_aliases:
+  - city_name_etiology_from_a_son
+  - city_founding_named_for_descendant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.city-gate-betrayal-for-ornaments
+  motif_id: city_gate_betrayal_for_ornaments
+  label: city gate betrayal for ornaments
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is betrayal of a city or protected boundary for personal
+    reward; ornaments are the lure.
+  cautions: May also involve threshold or war stratagem symbolism, but the gate and
+    ornaments may be episode-specific details.
+  suggested_aliases:
+  - betrayal_of_city_for_ornaments
+  - gate_betrayal_for_jewels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.claim-based-on-first-taking-contested-against-age-based-division
+  motif_id: claim_based_on_first_taking_contested_against_age_based_division
+  label: claim based on first taking contested against age-based division
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns competing principles of social allocation or precedence,
+    which may fit sacred law if culturally normative.
+  cautions: Could be a passage-specific dispute, legal custom, origin of property
+    rules, or commentary artifact; source evidence is needed.
+  suggested_aliases:
+  - first_taking_contested_by_age_precedence
+  - first_possession_versus_age_rank
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.claimed-angelic-revelation-with-wonder-working-persuasion
+  motif_id: claimed_angelic_revelation_with_wonder_working_persuasion
+  label: Claimed angelic revelation with wonder-working persuasion
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Angelic revelation and wonders could fit divine intervention, theophany,
+    or sacred knowledge depending on narrative stance.
+  cautions: The word 'claimed' may indicate polemical or historiographic framing rather
+    than a motif; handle religiously sensitive source context carefully.
+  suggested_aliases:
+  - angelic_revelation_with_miraculous_signs
+  - wonder_working_claim_to_revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.claimed-heavenly-dreams-and-visions-as-a-source-of-authority
+  motif_id: claimed_heavenly_dreams_and_visions_as_a_source_of_authority
+  label: claimed heavenly dreams and visions as a source of authority
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Dreams and visions functioning as authority align directly with the dream_and_vision
+    group.
+  cautions: The word 'claimed' may imply social contestation; if the passage focuses
+    on political legitimacy rather than vision content, royal_legitimacy or sacred_law
+    may be secondary.
+  suggested_aliases:
+  - heavenly_dreams_as_authority
+  - visions_as_source_of_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-badge-derived-from-animal-plant-ornament-or-distinctive-feature
+  motif_id: clan_badge_derived_from_animal_plant_ornament_or_distinctive_feature
+  label: clan badge derived from animal, plant, ornament, or distinctive feature
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: uncertain
+  confidence: low
+  rationale: A clan badge may function as an identity marker, but it may also be ethnographic
+    classification rather than a narrative motif.
+  cautions: Totemic or clan-identity material may need culturally specific review;
+    do not reduce animal or plant identity to mere token symbolism without evidence.
+  suggested_aliases:
+  - clan_badge_from_natural_or_ornamental_form
+  - clan_identity_badge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-badge-ornament-derived-from-animal-or-plant-forms
+  motif_id: clan_badge_ornament_derived_from_animal_or_plant_forms
+  label: Clan-badge ornament derived from animal or plant forms
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: uncertain
+  confidence: low
+  rationale: The badge or ornament may serve as a visible identity proof, but the
+    animal/plant derivation may encode clan origin or totemic relation.
+  cautions: Likely overlaps with the previous clan-badge label; review for synonym
+    merge and culturally specific meaning before indexing.
+  suggested_aliases:
+  - clan_ornament_from_animal_or_plant_form
+  - animal_plant_clan_badge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-identities-expressed-through-plant-animal-and-rain-water-names
+  motif_id: clan_identities_expressed_through_plant_animal_and_rain_water_names
+  label: Clan identities expressed through plant, animal, and rain-water names
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: Naming clans through natural powers may relate to ancestral or group-origin
+    naming already present under cosmic_origin.
+  cautions: Could be a social classification detail, totemic identity, sacred water/weather
+    association, or ethnographic artifact; source context is required.
+  suggested_aliases:
+  - clan_identity_through_natural_names
+  - plant_animal_rain_water_clan_names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.clan-identity-through-animal-names
+  motif_id: clan_identity_through_animal_names
+  label: Clan identity through animal names
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: Animal clan names may encode group origin or eponymous identity, but
+    this is unclear from the label alone.
+  cautions: Review together with other clan-name labels; may warrant a future clan/totemic
+    identity group if recurrent across sources.
+  suggested_aliases:
+  - animal_clan_names
+  - clan_identity_by_animal_name
+  suggested_new_group:
+    id: clan_totemic_identity
+    label: Clan and Totemic Identity
+    description: Clan, lineage, or group identity expressed through animal, plant,
+      natural-force, badge, ornament, name, or ancestral association.
+    parent_group_ids:
+    - cosmic_origin
+    - recognition_tokens_hidden_identity
+    related_group_ids:
+    - sacred_law
+    - sacred_treasures
+    - sacred_waters
+    reason_existing_groups_insufficient: Existing groups can cover naming etiology
+      or identity tokens, but recurring clan-badge and totemic-name labels may require
+      a dedicated social-identity motif group to preserve their function.
+batch_notes:
+- Several clan badge/name labels appear related and should be reviewed together for
+  possible synonym merge or future clan/totemic identity grouping.
+- Labels using 'claimed' may reflect source stance or polemic rather than motif content;
+  verify passage evidence before final mapping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional suggestions only; culturally specific clan/totemic and religious-revelation
+    labels require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1270
+  input_sha256: ddbd5ff22ceb00b8860c352cee9bae54503eb6d51f46f086e9674b9f84f70675
+

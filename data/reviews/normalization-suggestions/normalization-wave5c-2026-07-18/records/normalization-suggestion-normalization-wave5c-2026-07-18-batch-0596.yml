@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0596
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.religious-wanderer-as-danger-informant
+  motif_id: religious_wanderer_as_danger_informant
+  label: religious wanderer as danger-informant
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A wandering religious figure who provides danger information could be
+    guide, prophet, helper, or contextual character depending on the passage.
+  cautions: Single occurrence; avoid mapping to hero_journey or sacred_knowledge without
+    evidence that the warning transforms or directs the quest.
+  suggested_aliases:
+  - holy wanderer warns of danger
+  - religious traveler as warning informant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relocating-dangerous-supernatural-beings-from-a-human-passage
+  motif_id: relocating_dangerous_supernatural_beings_from_a_human_passage
+  label: Relocating dangerous supernatural beings from a human passage
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns dangerous beings blocking or threatening a passage
+    and their removal so humans can pass safely.
+  cautions: Could alternatively fit divine_intervention or culture_hero if a sacred
+    agent civilizes the route; source evidence should decide.
+  suggested_aliases:
+  - clearing dangerous beings from a passage
+  - removal of supernatural passage hazards
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctance-to-journey-justified-by-danger-rumor
+  motif_id: reluctance_to_journey_justified_by_danger_rumor
+  label: reluctance to journey justified by danger rumor
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This reads as a situational travel hesitation rather than a durable mythic
+    motif unless the rumor initiates an ordeal or threshold decision.
+  cautions: Single occurrence and possibly plot detail; map to hero_journey only if
+    reluctance functions as a call refusal or journey threshold.
+  suggested_aliases:
+  - danger rumor delays journey
+  - refusal of journey because of rumored danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reluctant-guides-obstruct-the-journey
+  motif_id: reluctant_guides_obstruct_the_journey
+  label: reluctant guides obstruct the journey
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Guides who resist or obstruct travel function as journey obstacles within
+    a quest or passage sequence.
+  cautions: If the guides guard a boundary or otherworld route, threshold_guardian
+    may be a better secondary mapping.
+  suggested_aliases:
+  - obstructive journey guides
+  - reluctant guides delay passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-cave-sequestration
+  motif_id: remote_cave_sequestration
+  label: remote cave sequestration
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Cave confinement or sequestration is a liminal descent-like space, especially
+    when it marks concealment, ordeal, or transformation.
+  cautions: If merely a hiding place or imprisonment detail, it may be too specific;
+    if protective, sacred_vessel or miraculous_child could be relevant depending on
+    context.
+  suggested_aliases:
+  - cave sequestration
+  - remote cave confinement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-exile-after-kin-killing
+  motif_id: remote_exile_after_kin_killing
+  label: remote exile after kin-killing
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Exile following kin-killing is a forced departure that can structure
+    a journey, social rupture, or transformation arc.
+  cautions: If the focus is blood guilt, punishment, or social law, divine_judgment
+    or sacred_law may be stronger; single occurrence is quite contextual.
+  suggested_aliases:
+  - exile after killing kin
+  - forced departure after kin-slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-supernatural-enticers-harm-lone-travelers
+  motif_id: remote_supernatural_enticers_harm_lone_travelers
+  label: Remote supernatural enticers harm lone travelers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: high
+  rationale: Luring supernatural beings who endanger travelers closely match perilous
+    lure and fatal enchantment at liminal travel thresholds.
+  cautions: If the emphasis is song or sound, enchanting_music may be a secondary
+    mapping; if generic monster attack, a future monster/peril group might fit better.
+  suggested_aliases:
+  - supernatural enticers of lone travelers
+  - perilous supernatural lure on the road
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.removable-traveling-eyes
+  motif_id: removable_traveling_eyes
+  label: removable traveling eyes
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Detachable eyes that travel imply bodily transformation or separable
+    body-part agency beyond ordinary human form.
+  cautions: Could fit external_soul if the eyes carry life-force or vulnerability,
+    or sacred_knowledge/dream_and_vision if used for remote perception; source context
+    needed.
+  suggested_aliases:
+  - detachable traveling eyes
+  - removable eyes sent abroad
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciation-of-kingship-for-civic-good
+  motif_id: renunciation_of_kingship_for_civic_good
+  label: renunciation of kingship for civic good
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns legitimate rule and the surrender of kingship to preserve
+    civic order.
+  cautions: Could also index under sacrifice if framed as self-renunciation, or sacred_law
+    if focused on republican civic ethics rather than kingship.
+  suggested_aliases:
+  - abdication for civic good
+  - surrender of kingship for public order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciation-of-open-country-wandering
+  motif_id: renunciation_of_open_country_wandering
+  label: renunciation of open-country wandering
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate settlement, discipline, vow, social transition,
+    or abandonment of nomadic wandering; function is unclear.
+  cautions: Single occurrence; map to sacred_exchange/renunciation only if it is a
+    sacred vow or ascetic surrender, or hero_journey if it resolves a wandering arc.
+  suggested_aliases:
+  - renouncing wandering
+  - abandonment of open-country wandering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several journey-bucket labels are single-occurrence situational travel details;
+  final placement should verify whether each functions as a recurring motif rather
+  than plot context.
+- For supernatural road hazards, distinguish threshold/lure function from generic
+  journey danger or monster encounter.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai.batch_normalization
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; source passages needed for low-confidence
+    journey and renunciation labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0596
+  input_sha256: 02f98e9f988ec540dd1765c81666fe5c4511049436b50c16926a4a69f2ebeaf0
+

@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0039
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.battle-dead-used-as-defense-and-then-buried-in-mass-ditches
+  motif_id: battle_dead_used_as_defense_and_then_buried_in_mass_ditches
+  label: Battle dead used as defense and then buried in mass ditches
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly specific battle-disposal episode rather than
+    a reusable death or funeral motif.
+  cautions: If source evidence emphasizes denied burial, mass burial rites, or battlefield
+    memorialization, review under heroic_funeral_rites; otherwise preserve as passage
+    detail only.
+  suggested_aliases:
+  - battle_dead_used_as_defensive_barrier
+  - mass_burial_of_battle_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-river-carrying-corpses-and-arms
+  motif_id: battlefield_river_carrying_corpses_and_arms
+  label: Battlefield river carrying corpses and arms
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The image belongs to battlefield aftermath and martial devastation rather
+    than afterlife journey or renewal by water.
+  cautions: Could be only epic battle imagery; map secondarily to sacred_waters only
+    if the river functions as a sacred boundary or agent.
+  suggested_aliases:
+  - river_carrying_battle_dead
+  - battlefield_river_of_corpses_and_arms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-taunt-before-death
+  motif_id: battlefield_taunt_before_death
+  label: battlefield taunt before death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: Pre-death taunting on the battlefield aligns with existing combat-speech
+    variants such as flyting and death boasting before battle.
+  cautions: If the taunt is a binding curse or prophecy rather than martial boasting,
+    curse_blessing_speech or prophecy_divination may be relevant.
+  suggested_aliases:
+  - taunt_before_death_in_battle
+  - pre_death_battlefield_taunt
+  - battlefield_flyting_before_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-trophy-taking-and-return
+  motif_id: battlefield_trophy_taking_and_return
+  label: Battlefield trophy-taking and return
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Taking and returning trophies from battle fits martial proof and body-part
+    trophy patterns already grouped under divine_warrior.
+  cautions: If the trophy is a sacred object conferring power or status, sacred_treasures
+    may be a secondary mapping; review cultural context carefully.
+  suggested_aliases:
+  - battle_trophy_taken_and_returned
+  - trophy_taking_as_martial_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beautiful-youth-likened-to-a-cut-flower-in-death
+  motif_id: beautiful_youth_likened_to_a_cut_flower_in_death
+  label: beautiful youth likened to a cut flower in death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A dead youth compared to a cut flower is a grief metaphor akin to existing
+    young-warrior cut-down imagery.
+  cautions: Likely a poetic image; keep as evidence detail unless it recurs as a stable
+    death-lament motif.
+  suggested_aliases:
+  - youth_cut_down_like_a_flower
+  - dead_youth_as_cut_flower
+  - flower_metaphor_for_youthful_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.being-led-astray-to-a-waterless-death-place
+  motif_id: being_led_astray_to_a_waterless_death_place
+  label: being led astray to a waterless death-place
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe deceptive leading, exile, lethal landscape,
+    ordeal, or death-place cosmology.
+  cautions: Source context is needed before choosing trickster, hero_journey, descent,
+    sacred_waters by absence, or death_by_fate; avoid imposing underworld meaning
+    from wording alone.
+  suggested_aliases:
+  - led_astray_to_dry_death_place
+  - deceptive_guidance_to_waterless_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beings-return-to-dust-and-clay
+  motif_id: beings_return_to_dust_and_clay
+  label: beings return to dust and clay
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Return to dust and clay expresses mortality and bodily dissolution, matching
+    existing clay-and-dust mortality variants.
+  cautions: In Sufi context it may also support mystical_quest or annihilation_union
+    if the emphasis is ego dissolution rather than physical mortality.
+  suggested_aliases:
+  - return_to_dust_and_clay
+  - mortality_as_return_to_clay
+  - dust_and_clay_mortality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.belief-in-good-and-evil-powers-creation-and-a-world-beyond-the-grave-without-formal-rites
+  motif_id: belief_in_good_and_evil_powers_creation_and_a_world_beyond_the_grave_without_formal_rites
+  label: Belief in good and evil powers, creation, and a world beyond the grave without
+    formal rites
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label summarizes a belief-system description and absence of rites,
+    not a specific narrative or ritual motif.
+  cautions: Individual source passages may still contain motifs for duality, cosmic_origin,
+    otherworld, or ancestor rites; this composite label should not drive pattern queries.
+  suggested_aliases:
+  - summary_of_beliefs_without_formal_rites
+  - belief_system_summary_creation_afterlife_good_evil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-as-soul-sustenance-amid-separation
+  motif_id: beloved_as_soul_sustenance_amid_separation
+  label: beloved as soul-sustenance amid separation
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The beloved sustaining the soul during separation fits sacred love and
+    mystical longing rather than literal death or afterlife travel.
+  cautions: If the beloved is explicitly divine and the passage centers contemplative
+    union, divine_beloved or mystical_quest may be useful secondary refs.
+  suggested_aliases:
+  - beloved_as_soul_sustenance
+  - separation_sustained_by_the_beloved
+  - beloved_sustains_the_soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-dead-prince-receives-favorite-food-grave-offerings
+  motif_id: beloved_dead_prince_receives_favorite_food_grave_offerings
+  label: Beloved dead prince receives favorite-food grave offerings
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Food offerings to a dead prince fit ritual feeding or care of the dead.
+  cautions: The royal status and favorite-food detail are local evidence; if framed
+    as heroic memorial rather than ongoing care, heroic_funeral_rites may be secondary.
+  suggested_aliases:
+  - food_grave_offerings_to_the_dead
+  - favorite_food_offered_to_dead_prince
+  - feeding_the_dead_with_grave_offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence battlefield or poetic-death details;
+  preserve them as evidence notes unless recurrence supports promotion.
+- Avoid treating death-bucket placement as sufficient evidence for descent, afterlife
+  passage, or resurrection.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify source
+    context for culturally specific mortuary and warfare items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0039
+  input_sha256: 6260d2d1fd6bce23480b9e3d9acb706fcfa027c97f122c5a97169cb91ab62604
+

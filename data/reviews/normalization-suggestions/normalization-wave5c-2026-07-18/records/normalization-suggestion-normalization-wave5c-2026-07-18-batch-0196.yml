@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0196
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.funerary-lament-or-death-wail
+  motif_id: funerary_lament_or_death_wail
+  label: funerary lament or death wail
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label directly describes grief expression around death, matching
+    lament and mourning practices.
+  cautions: Single occurrence; if tied specifically to heroic rites, a secondary heroic_funeral_rites
+    note may be useful.
+  suggested_aliases:
+  - death_wail
+  - funerary_lament
+  - mourning_wail
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-objects-placed-on-the-dead
+  motif_id: funerary_objects_placed_on_the_dead
+  label: funerary objects placed on the dead
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Objects placed with the dead are mortuary care/provisioning for the deceased,
+    fitting ancestor rites broadly.
+  cautions: If objects function as power objects, identity tokens, or afterlife passage
+    equipment, secondary mapping may differ.
+  suggested_aliases:
+  - grave_goods_placed_on_dead
+  - mortuary_objects_for_the_dead
+  - funerary_grave_goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-offering-formula-for-honored-royal-dead
+  motif_id: funerary_offering_formula_for_honored_royal_dead
+  label: Funerary offering formula for honored royal dead
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A funerary offering formula supports ritual care and provisioning of
+    the honored dead.
+  cautions: Royal status may also touch royal_legitimacy; formula wording may be a
+    textual/liturgical artifact if not a recurring motif.
+  suggested_aliases:
+  - funerary_offering_formula
+  - offering_formula_for_the_dead
+  - royal_funerary_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-order-collapses-under-mass-death
+  motif_id: funerary_order_collapses_under_mass_death
+  label: funerary order collapses under mass death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes disruption of mortuary norms under catastrophe, but
+    the mythic function is unclear.
+  cautions: May be historical/social commentary rather than a motif; could relate
+    to heroic_funeral_rites, divine_judgment, plague catastrophe, or exclusion depending
+    on passage evidence.
+  suggested_aliases:
+  - collapse_of_funerary_order_under_mass_death
+  - mass_death_disrupts_funeral_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-provisioning-for-the-use-of-the-dead
+  motif_id: funerary_provisioning_for_the_use_of_the_dead
+  label: funerary provisioning for the use of the dead
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Provisioning the dead is a core ancestor-rite and mortuary-care pattern.
+  cautions: If provisioning is mainly for afterlife travel through gates or judgment,
+    afterlife_passage may be a secondary mapping.
+  suggested_aliases:
+  - mortuary_provisioning_for_the_dead
+  - grave_goods_for_use_of_the_dead
+  - provisions_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-purification-of-corpse-bearers
+  motif_id: funerary_purification_of_corpse_bearers
+  label: funerary purification of corpse-bearers
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Purification after contact with death fits ritual purity law and spirit/death
+    contagion concerns.
+  cautions: Culturally specific Zoroastrian purity concepts should be reviewed; ancestor_rites
+    may be secondary only if care of dead is central.
+  suggested_aliases:
+  - purification_after_corpse_bearing
+  - corpse_bearer_purification
+  - mortuary_purity_for_corpse_bearers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-return-of-the-body-to-home-or-state
+  motif_id: funerary_return_of_the_body_to_home_or_state
+  label: funerary return of the body to home or state
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Returning a body for proper rites fits funerary body retrieval and memorialization
+    practices.
+  cautions: If not heroic or public, ancestor_rites may be the broader fit; home/state
+    detail may be culturally contextual.
+  suggested_aliases:
+  - return_of_body_for_funeral
+  - repatriation_of_the_dead_body
+  - funerary_body_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-simulacra-for-spiritual-intelligences
+  motif_id: funerary_simulacra_for_spiritual_intelligences
+  label: Funerary simulacra for spiritual intelligences
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual images or substitutes for spirits, but
+    the function is unclear from wording alone.
+  cautions: Could fit ancestor_rites, sacred_craft, sacred_treasures, or be a technical
+    ritual artifact; needs source evidence and culturally careful review.
+  suggested_aliases:
+  - funerary_spirit_simulacra
+  - mortuary_simulacra_for_spirits
+  - ritual_images_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-treatment-disputed-between-burning-and-burial
+  motif_id: funerary_treatment_disputed_between_burning_and_burial
+  label: funerary treatment disputed between burning and burial
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to describe a dispute over mortuary practice rather than
+    a stable mythic motif.
+  cautions: May be historical, sectarian, or passage-specific commentary; map only
+    if the dispute has narrative or ritual-symbolic function.
+  suggested_aliases:
+  - dispute_over_cremation_and_burial
+  - contested_funerary_treatment
+  - burning_versus_burial_dispute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-treatment-of-an-absent-person-presumed-dead
+  motif_id: funerary_treatment_of_an_absent_person_presumed_dead
+  label: funerary treatment of an absent person presumed dead
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The existing group includes funeral rites or memorials when a missing
+    father/person is presumed dead.
+  cautions: If the focus is kin/ancestor care rather than public memorialization,
+    ancestor_rites may be a better broad placement.
+  suggested_aliases:
+  - funeral_rites_for_absent_presumed_dead_person
+  - memorial_for_missing_presumed_dead_person
+  - funerary_rites_for_the_absent_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are mortuary-practice descriptions with single occurrences;
+  preserve as granular evidence and avoid promoting to taxonomy families without recurrence.
+- For non-heroic funerary care, ancestor_rites is often the safest broad group; heroic_funeral_rites
+  should be used when public honor, body retrieval, memorialization, or heroic/social-order
+  restoration is central.
+- Disputes or breakdowns in funerary practice may be passage artifacts unless the
+  source gives them a recurring ritual or narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for funerary and mortuary labels; human
+    review recommended for culturally specific ritual terms and ambiguous dispute/collapse
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0196
+  input_sha256: 173ef89a07d74ee59308f898ab8ce5d7705397a068ef1629237b3a35d46b75a5
+

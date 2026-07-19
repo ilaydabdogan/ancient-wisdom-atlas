@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3640
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lucky-and-unlucky-times-and-places
+  motif_id: lucky_and_unlucky_times_and_places
+  label: Lucky and unlucky times and places
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: medium
+  rationale: Auspicious and inauspicious timing already fits sacred calendrical ordering;
+    place element may be contextual.
+  cautions: If the passage emphasizes tabooed locations or sacred geography rather
+    than timing, axis_mundi or sacred_law may be secondary; single occurrence.
+  suggested_aliases:
+  - auspicious_and_inauspicious_times_and_places
+  - lucky_unlucky_calendar_and_location_rules
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lullaby-command-to-stillness-and-sleep
+  motif_id: lullaby_command_to_stillness_and_sleep
+  label: lullaby command to stillness and sleep
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: low
+  rationale: A sung command producing stillness or sleep may fit sound power and enchanted
+    sleep motifs.
+  cautions: Could be an ordinary song-text detail rather than supernatural compulsion;
+    culturally specific lullaby context should be reviewed before indexing.
+  suggested_aliases:
+  - sleep_command_lullaby
+  - lullaby_inducing_stillness_and_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lullaby-with-repeated-vocable-linked-to-swinging-motion
+  motif_id: lullaby_with_repeated_vocable_linked_to_swinging_motion
+  label: lullaby with repeated vocable linked to swinging motion
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes song form, repeated vocables, and performance motion
+    more than a mythic motif.
+  cautions: Preserve as ethnopoetic or performance evidence if needed; only map to
+    enchanting_music if the song has explicit supernatural effect.
+  suggested_aliases:
+  - repeated_vocable_lullaby
+  - swinging_motion_lullaby
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.luminous-blessed-abode
+  motif_id: luminous_blessed_abode
+  label: luminous blessed abode
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A blessed luminous abode fits an otherworldly or paradisal realm rather
+    than a descent narrative by itself.
+  cautions: If the source presents a postmortem destination with route, judgment,
+    or stages, afterlife_passage should be secondary or preferred.
+  suggested_aliases:
+  - blessed_luminous_realm
+  - radiant_blessed_abode
+  - luminous_paradisal_abode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lunar-phases-as-progressive-opening-and-closing-of-a-container
+  motif_id: lunar_phases_as_progressive_opening_and_closing_of_a_container
+  label: Lunar phases as progressive opening and closing of a container
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The motif explains lunar cyclicity, which fits sacred time more than
+    sacred vessels.
+  cautions: The container imagery may be a local etiological cosmology or over-specific
+    explanatory image; source evidence needed before stable mapping.
+  suggested_aliases:
+  - moon_phases_as_opening_and_closing_container
+  - lunar_cycle_container_image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lunar-reckoning-of-communal-time
+  motif_id: lunar_reckoning_of_communal_time
+  label: lunar reckoning of communal time
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: high
+  rationale: Communal time organized by lunar reckoning directly fits sacred or ritual
+    calendrical ordering.
+  cautions: If the passage is purely practical chronology without ritual or sacred
+    framing, it may be too documentary for motif queries.
+  suggested_aliases:
+  - lunar_calendar_reckoning
+  - moon_based_communal_calendar
+  - communal_time_by_lunar_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lunar-regulation-of-tides
+  motif_id: lunar_regulation_of_tides
+  label: lunar regulation of tides
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: functional_variant
+  confidence: low
+  rationale: The label concerns cosmic ordering through paired lunar and watery rhythms,
+    closest to cosmic order/duality among existing groups.
+  cautions: Could also fit sacred_waters or sacred_time if the passage stresses tides
+    as water cycles or calendar; existing taxonomy lacks a celestial-body governance
+    group.
+  suggested_aliases:
+  - moon_governs_tides
+  - lunar_control_of_waters
+  - moon_regulates_tidal_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lunar-timing-for-cutting-building-materials
+  motif_id: lunar_timing_for_cutting_building_materials
+  label: Lunar timing for cutting building materials
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An activity governed by lunar timing fits auspicious calendar rules and
+    sacred time.
+  cautions: If the emphasis is technical craft practice rather than ritual timing,
+    sacred_craft may be related; single occurrence and practical specificity.
+  suggested_aliases:
+  - auspicious_lunar_timing_for_cutting_materials
+  - lunar_calendar_for_building_materials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lure-at-the-bathing-place
+  motif_id: lure_at_the_bathing_place
+  label: Lure at the bathing place
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: low
+  rationale: A bathing place can function as a liminal water threshold where a lure
+    initiates danger or encounter.
+  cautions: May instead be seduction, abduction, trickster deception, or a passage-specific
+    plot setting; source context is required.
+  suggested_aliases:
+  - bathing_place_lure
+  - lure_at_water_threshold
+  - lure_by_bathing_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lust-as-destructive-moral-force
+  motif_id: lust_as_destructive_moral_force
+  label: lust as destructive moral force
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: narrower_than
+  confidence: medium
+  rationale: Destructive lust framed morally fits ethical reckoning and consequences
+    of disordered desire.
+  cautions: In Sufi context it may be an inner-discipline teaching under mystical_quest
+    rather than narrative judgment; avoid conflating with sacred_love without evidence
+    of devotional transformation.
+  suggested_aliases:
+  - destructive_lust_as_moral_force
+  - lust_as_spiritual_danger
+  - disordered_desire_as_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several lunar labels fit sacred_time but may need secondary review for celestial-order
+  or sacred-waters functions because the current groups do not isolate moon/celestial
+  regulation as its own canonical group.
+- Lullaby labels should be reviewed carefully as performance or textual-form evidence;
+  only supernatural or coercive effect should support pattern-query mapping.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence and culturally specific labels
+    need human evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3640
+  input_sha256: b56a8fa644fb7760396f218ae102a1c5fc505ba5f4627d790311b311856b9fe8
+

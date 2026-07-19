@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2116
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.birds-mock-a-sleeping-animal
+  motif_id: birds_mock_a_sleeping_animal
+  label: Birds mock a sleeping animal
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: Animal mockery may function as fable trickery or social reversal, but
+    the label alone does not show a stable mythic function.
+  cautions: Single occurrence and highly scene-specific; may be a fable episode rather
+    than a query-worthy motif.
+  suggested_aliases:
+  - animal_mockery_of_sleeping_victim
+  - birds_taunt_sleeping_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birds-open-an-escape-from-rock-enclosure
+  motif_id: birds_open_an_escape_from_rock_enclosure
+  label: Birds open an escape from rock enclosure
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Birds act as animal helpers enabling escape from confinement, matching
+    supernatural or animal-aided intervention.
+  cautions: If birds are ordinary animals in a trickster escape episode, trickster
+    may be a better secondary placement; rock enclosure may also suggest sacred_vessel
+    or cave evidence.
+  suggested_aliases:
+  - bird_helpers_open_escape
+  - animal_helpers_enable_escape_from_enclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birds-sent-out-to-test-for-dry-land
+  motif_id: birds_sent_out_to_test_for_dry_land
+  label: birds sent out to test for dry land
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: narrower_than
+  confidence: high
+  rationale: Birds sent to find dry land are a specific navigation episode within
+    flood survival and renewal narratives.
+  cautions: Preserve as a granular flood-voyage detail rather than a separate animal
+    motif.
+  suggested_aliases:
+  - birds_released_to_find_dry_land
+  - flood_birds_test_for_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birds-sent-to-test-for-dry-land-or-resting-place
+  motif_id: birds_sent_to_test_for_dry_land_or_resting_place
+  label: Birds sent to test for dry land or resting place
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: narrower_than
+  confidence: high
+  rationale: This is the same flood-navigation function as releasing birds to determine
+    whether waters have receded.
+  cautions: Likely duplicate or near-duplicate of birds_sent_out_to_test_for_dry_land;
+    review for alias merge.
+  suggested_aliases:
+  - birds_released_to_find_resting_place
+  - flood_birds_test_for_dry_land_or_resting_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birds-singing-in-a-southern-place-or-direction
+  motif_id: birds_singing_in_a_southern_place_or_direction
+  label: birds singing in a southern place or direction
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: Directional bird song may be omen, sacred geography, or poetic scene-setting,
+    but function is unclear from the label.
+  cautions: Do not map to enchanting_music unless the song has supernatural compulsion
+    or revelation; may be over-specific landscape imagery.
+  suggested_aliases:
+  - birds_singing_in_the_south
+  - southern_bird_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birds-singing-in-the-sky
+  motif_id: birds_singing_in_the_sky
+  label: birds singing in the sky
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: Sky-bird song may be visionary, omen-like, or atmospheric imagery, but
+    no clear narrative function is given.
+  cautions: Could fit enchanting_music only if the song acts as power; otherwise may
+    be a scene detail unsuitable for broad queries.
+  suggested_aliases:
+  - sky_bird_song
+  - birds_singing_above
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birds-singing-in-the-south
+  motif_id: birds_singing_in_the_south
+  label: birds singing in the south
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a duplicate of the southern-direction bird-song label,
+    with unclear omen or scene function.
+  cautions: Review for alias merge with birds_singing_in_a_southern_place_or_direction;
+    avoid treating ordinary song as a motif without passage evidence.
+  suggested_aliases:
+  - birds_singing_in_a_southern_place_or_direction
+  - southern_bird_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.black-animal-or-black-smoke-used-to-attract-rain-clouds
+  motif_id: black_animal_or_black_smoke_used_to_attract_rain_clouds
+  label: Black animal or black smoke used to attract rain-clouds
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes weather magic or rainmaking coercion, close to the
+    existing rainmaking-coercion child under sacred_exchange.
+  cautions: Comparative and ethnographic wording needs review; could also be sacred_law
+    if framed as ritual rule or divine_intervention if rain is granted by a deity.
+  suggested_aliases:
+  - rainmaking_by_black_animal_or_smoke
+  - sympathetic_rain_attraction_by_black_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blinding-by-birds-at-a-gallows
+  motif_id: blinding_by_birds_at_a_gallows
+  label: Blinding by birds at a gallows
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Bird-inflicted blinding at an execution site may be punishment, omen,
+    corpse violation, or episode detail.
+  cautions: Single occurrence; gallows context may relate to death, vengeance, or
+    heroic shame rather than animal transformation. Needs source evidence.
+  suggested_aliases:
+  - birds_blind_victim_at_gallows
+  - avian_blinding_at_execution_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blinding-vengeance-followed-by-animal-transformation
+  motif_id: blinding_vengeance_followed_by_animal_transformation
+  label: Blinding vengeance followed by animal transformation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The animal transformation is the clearest reusable motif function, with
+    vengeance and blinding as local sequence details.
+  cautions: If the passage emphasizes retaliatory punishment more than metamorphosis,
+    divine_judgment may be a stronger secondary placement; preserve blinding as evidence
+    detail.
+  suggested_aliases:
+  - vengeful_blinding_followed_by_metamorphosis
+  - animal_transformation_after_blinding_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several bird-song labels are likely duplicates or scene details; human review should
+  verify whether they function as omens, visions, sacred music, or ordinary descriptive
+  imagery.
+- The two Mesopotamian dry-land bird labels appear to be near-duplicates within the
+  flood-and-renewal complex.
+- Animal-helper episodes may need consistent treatment under divine_intervention when
+  animals enable rescue, unless the source frames them as trickster/fable action.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2116
+  input_sha256: 7633ae69c539fe227347792050ef21b5c044a41ea5889806d9ea9fe054da3e9f
+

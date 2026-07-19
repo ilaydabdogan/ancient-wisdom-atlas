@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0330
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.return-of-envoys-with-successful-report
+  motif_id: return_of_envoys_with_successful_report
+  label: return of envoys with successful report
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a plot report or narrative-stage detail rather than
+    a death, descent, or afterlife motif.
+  cautions: If the envoys return from an otherworld, death realm, or sacred mission,
+    review under hero_journey or descent instead.
+  suggested_aliases:
+  - successful_envoy_report
+  - envoys_return_with_report
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-remains-to-the-served-community
+  motif_id: return_of_remains_to_the_served_community
+  label: Return of remains to the served community
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Returning remains to a community for care or honor fits funerary handling
+    and memorial obligations toward the dead.
+  cautions: If the focus is ancestor feeding or ongoing dead-living reciprocity, ancestor_rites
+    may be a secondary fit; verify cultural context.
+  suggested_aliases:
+  - repatriation_of_remains_to_community
+  - return_of_body_to_served_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-scapegoat-means-return-of-disease
+  motif_id: return_of_scapegoat_means_return_of_disease
+  label: return of scapegoat means return of disease
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label belongs to the scapegoat or ritual-expulsion complex already
+    grouped under sacrifice.
+  cautions: Comparative wording may be an analytical rule rather than a passage motif;
+    preserve as evidence for scapegoat/expulsion only when a ritual return is actually
+    described.
+  suggested_aliases:
+  - scapegoat_return_brings_disease_back
+  - return_of_expelled_scapegoat_returns_affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-shaped-being-to-common-earth
+  motif_id: return_of_shaped_being_to_common_earth
+  label: Return of shaped being to common earth
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, return of a formed being to earth likely expresses mortality,
+    dissolution, and spiritual humility on the mystical path.
+  cautions: Could instead fit death_and_transformation if the passage emphasizes literal
+    death or clay-body anthropology rather than mystical teaching.
+  suggested_aliases:
+  - formed_being_returns_to_earth
+  - return_to_common_earth
+  - shaped_body_returns_to_clay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-stolen-property-over-spouse-s-plea
+  motif_id: return_of_stolen_property_over_spouse_s_plea
+  label: return of stolen property over spouse's plea
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines restitution, theft, and marital pleading but does
+    not clearly match a current death/descent group.
+  cautions: May belong under sacred_law, sacred_exchange, trickster, or a passage-specific
+    ethical episode depending on source evidence; avoid mapping from wording alone.
+  suggested_aliases:
+  - stolen_property_returned_despite_spouse_plea
+  - restitution_over_spousal_intercession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-the-dead-to-earth-with-spirit-displayed-above
+  motif_id: return_of_the_dead_to_earth_with_spirit_displayed_above
+  label: Return of the dead to earth with spirit displayed above
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label appears to describe mortuary handling of body and spirit within
+    ritual relations between living and dead.
+  cautions: Confucian mortuary terminology may be culturally specific; if the passage
+    is doctrinal commentary rather than ritual action, human review is needed.
+  suggested_aliases:
+  - dead_returned_to_earth_spirit_above
+  - body_to_earth_spirit_displayed_above
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-the-dead-youth-to-his-parent
+  motif_id: return_of_the_dead_youth_to_his_parent
+  label: return of the dead youth to his parent
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dead youth returned to a parent suggests restoration, revenant return,
+    or death-reversal within the death-transformation complex.
+  cautions: If this is only return of a corpse for burial, heroic_funeral_rites or
+    ancestor_rites may fit better; source context is required.
+  suggested_aliases:
+  - dead_child_returned_to_parent
+  - dead_youth_returns_to_parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-of-the-deceased-to-her-own-village
+  motif_id: return_of_the_deceased_to_her_own_village
+  label: Return of the deceased to her own village
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Returning a deceased person to her village concerns proper placement
+    and social-ritual relations with the dead.
+  cautions: Could be a corpse transport detail rather than a recurring motif; if focused
+    on burial honors, heroic_funeral_rites may be secondary.
+  suggested_aliases:
+  - deceased_returned_to_own_village
+  - return_of_dead_woman_to_home_village
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-or-clan-based-placement-of-outsider-dead
+  motif_id: return_or_clan_based_placement_of_outsider_dead
+  label: return or clan-based placement of outsider dead
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Clan-based placement of outsider dead concerns mortuary classification
+    and proper ritual/social disposition of the dead.
+  cautions: The label may be ethnographic rule-summary rather than narrative motif;
+    review local kinship and mortuary context before indexing.
+  suggested_aliases:
+  - clan_based_placement_of_outsider_dead
+  - outsider_dead_return_or_clan_placement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.return-prohibition-against-looking-behind
+  motif_id: return_prohibition_against_looking_behind
+  label: return prohibition against looking behind
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prohibition against looking behind during return is a threshold rule
+    common in journeys from death, otherworld, or liminal realms.
+  cautions: Do not assume underworld descent unless the passage includes a death/otherworld
+    return; otherwise sacred_law or hero_journey may be better.
+  suggested_aliases:
+  - do_not_look_back_on_return
+  - looking_back_forbidden_during_return
+  - return_taboo_against_looking_behind
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'Several labels use ''return'' but differ in function: mortuary return, ritual expulsion
+  return, journey return, and ordinary messenger return should not be merged.'
+- Single-occurrence Melanesian and Confucian mortuary items need human review for
+  culturally specific ritual meaning before durable normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; verify source passages for whether labels are
+    ritual motifs, narrative events, or ethnographic/commentary artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0330
+  input_sha256: a42fb866e82d3d31a4bd69c58199385a5134a4169f852b5c4bf674e48161e786
+

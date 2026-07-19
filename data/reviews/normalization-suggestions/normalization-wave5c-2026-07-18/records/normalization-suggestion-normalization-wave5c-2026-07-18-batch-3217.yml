@@ -1,0 +1,311 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3217
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.capture-through-skill-enclosure-or-inducement
+  motif_id: capture_through_skill_enclosure_or_inducement
+  label: Capture through skill, enclosure, or inducement
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a broad capture mechanism and could involve trickery, combat,
+    magical skill, or enclosure depending on source evidence.
+  cautions: Single occurrence; avoid mapping to trickster or sacred_combat without
+    knowing whether deception, battle, ritual, or supernatural skill is primary.
+  suggested_aliases:
+  - capture_by_skill
+  - capture_by_enclosure
+  - capture_by_inducement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_combat
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-adversary-compelled-to-become-guide
+  motif_id: captured_adversary_compelled_to_become_guide
+  label: captured adversary compelled to become guide
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A defeated or captured opponent forced to guide the protagonist functions
+    as a journey-aid or ordeal-navigation episode.
+  cautions: If the episode is primarily coercion, espionage, or warfare rather than
+    journey guidance, sacred_combat or divine_judgment may be better secondary contexts.
+  suggested_aliases:
+  - forced_enemy_guide
+  - captured_enemy_as_guide
+  - adversary_compelled_to_guide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-foreigner-as-agent-of-discovery-or-disclosure
+  motif_id: captured_foreigner_as_agent_of_discovery_or_disclosure
+  label: Captured foreigner as agent of discovery or disclosure
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may involve captive testimony, stranger-mediated knowledge,
+    colonial/contact narrative, or ethnographic framing.
+  cautions: Culturally sensitive and context-dependent; do not infer transmission
+    or discovery function without source evidence. May be a historical or passage
+    artifact.
+  suggested_aliases:
+  - captive_foreigner_discloses_knowledge
+  - captured_stranger_as_informant
+  - captive_as_agent_of_disclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_judgment
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-leader-causes-army-s-collapse
+  motif_id: captured_leader_causes_army_s_collapse
+  label: Captured leader causes army’s collapse
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The capture of a leader changing the outcome of battle is a warfare-structure
+    motif.
+  cautions: May be a tactical historical detail rather than symbolic motif unless
+    the passage gives it ritual, heroic, or cosmological significance.
+  suggested_aliases:
+  - leader_capture_collapses_army
+  - army_collapse_after_leader_capture
+  - captured_chief_breaks_war_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-prey-negotiates-with-cannibal-through-edibility
+  motif_id: captured_prey_negotiates_with_cannibal_through_edibility
+  label: Captured prey negotiates with cannibal through edibility
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A captured victim bargaining with a predator/cannibal through food logic
+    resembles fable survival strategy and trickster negotiation.
+  cautions: Cannibal framing may be culturally sensitive; verify whether the key action
+    is trickery, persuasion, taboo, or predatory threat before final mapping.
+  suggested_aliases:
+  - captured_prey_bargains_with_cannibal
+  - prey_negotiates_by_edibility
+  - victim_uses_edibility_to_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-pupil-by-former-master-or-possessor
+  motif_id: captured_pupil_by_former_master_or_possessor
+  label: Captured pupil by former master or possessor
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe apprenticeship conflict, possession, enslavement,
+    magical ownership, or a relationship-specific plot detail.
+  cautions: Single occurrence and ambiguous wording; source context is needed before
+    choosing sacred_knowledge, divine_intervention, or betrayal/violated trust.
+  suggested_aliases:
+  - pupil_recaptured_by_master
+  - former_master_captures_pupil
+  - captured_apprentice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - betrayal_violated_trust
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-sleeper-gives-strategic-information
+  motif_id: captured_sleeper_gives_strategic_information
+  label: captured sleeper gives strategic information
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on captured intelligence affecting conflict strategy,
+    fitting warfare narrative structure.
+  cautions: If sleep or dream-state knowledge is central rather than capture in war,
+    dream_and_vision may be relevant; otherwise this may be a tactical episode detail.
+  suggested_aliases:
+  - captured_sleeper_reveals_strategy
+  - sleeping_captive_gives_information
+  - captured_enemy_discloses_strategy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-spoils-become-a-burden-for-the-companion
+  motif_id: captured_spoils_become_a_burden_for_the_companion
+  label: Captured spoils become a burden for the companion
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Spoils burdening a companion could be heroic-combat consequence, moral
+    test of greed, quest impediment, or comic episode.
+  cautions: Over-specific and single occurrence; do not promote unless burdened spoils
+    recur as a recognizable pattern across sources.
+  suggested_aliases:
+  - spoils_as_burden
+  - captured_treasure_burdens_companion
+  - war_spoils_impede_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - hero_journey
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captured-visitors-used-to-restore-population-after-epidemic
+  motif_id: captured_visitors_used_to_restore_population_after_epidemic
+  label: Captured visitors used to restore population after epidemic
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines epidemic aftermath, captivity, and population restoration,
+    with social and cultural sensitivities.
+  cautions: Highly contextual and ethically sensitive; may be demographic origin story,
+    coercive marriage/capture narrative, or passage artifact. Needs source review.
+  suggested_aliases:
+  - captives_restore_population
+  - visitors_captured_for_repopulation
+  - population_restored_after_epidemic_by_captives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - death_and_transformation
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cardinal-direction-quadripartition
+  motif_id: cardinal_direction_quadripartition
+  label: cardinal-direction quadripartition
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Four-direction ordering is a spatial cosmology pattern often organizing
+    a sacred center or world structure.
+  cautions: Could warrant a future sacred geography/cosmic order subgroup if many
+    directional cosmology labels recur; handle culturally specific four-direction
+    systems carefully.
+  suggested_aliases:
+  - four_directions_cosmology
+  - quadripartite_cardinal_directions
+  - cardinal_direction_ordering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence capture or captivity labels; source context is
+  especially important before treating them as durable motif groups.
+- Avoid interpreting captivity labels as evidence of cultural contact, borrowing,
+  or historical discovery; this batch only suggests taxonomy placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for wave5c batch 3217; several labels
+    are over-specific or context-dependent and should be checked against passages.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3217
+  input_sha256: 7c6a816b9acd8efe98e5d9a39c3e7fed9e1913b29eecc7c7c66acfa20a5a0d0b
+

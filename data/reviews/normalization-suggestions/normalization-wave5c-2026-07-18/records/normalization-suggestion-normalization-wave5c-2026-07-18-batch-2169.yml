@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2169
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fire-used-as-attempted-transformation-but-causing-destruction
+  motif_id: fire_used_as_attempted_transformation_but_causing_destruction
+  label: fire used as attempted transformation but causing destruction
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines fire, failed transformation, and destruction; the
+    main function cannot be determined from the label alone.
+  cautions: Could fit sacred_fire, death_and_transformation, shapeshifter, divine_judgment,
+    or be an episode-specific accident; review passage evidence before mapping.
+  suggested_aliases:
+  - failed_transformation_by_fire
+  - destructive_fire_transformation_attempt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.first-animal-hunting-restraint-for-good-luck
+  motif_id: first_animal_hunting_restraint_for_good_luck
+  label: First-animal hunting restraint for good luck
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A hunting restraint tied to luck reads as a ritual prohibition regulating
+    proper human-animal relations.
+  cautions: May require culturally specific review; if the source emphasizes animal
+    spirits or exchange with prey, sacred_exchange may be a secondary relation.
+  suggested_aliases:
+  - first_kill_hunting_taboo
+  - hunting_restraint_for_good_luck
+  - first_animal_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.first-human-creation-and-animal-naming
+  motif_id: first_human_creation_and_animal_naming
+  label: first-human creation and animal naming
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: The label concerns creation of the first human and ordering of animals
+    through naming, fitting origin and creation motifs.
+  cautions: Animal naming may also support sacred_knowledge if the passage emphasizes
+    divinely taught names rather than creation itself.
+  suggested_aliases:
+  - first_human_creation
+  - creation_of_first_human_and_naming_animals
+  - animal_naming_by_first_human
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fish-bone-event-producing-reported-kamak-transformation
+  motif_id: fish_bone_event_producing_reported_kamak_transformation
+  label: Fish-bone event producing reported kamak transformation
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is highly contextual and includes an untranslated or culture-specific
+    term whose function is unclear.
+  cautions: Could involve shapeshifting, spirit affliction, shamanic transformation,
+    or a passage artifact; avoid normalizing without source context and cultural review.
+  suggested_aliases:
+  - fish_bone_transformation_event
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fish-or-sea-animal-with-human-like-sleep-sound
+  motif_id: fish_or_sea_animal_with_human_like_sleep_sound
+  label: Fish or sea animal with human-like sleep sound
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a very specific sensory detail rather than a reusable
+    narrative or symbolic function.
+  cautions: If the passage uses the human-like sound to reveal hidden personhood,
+    transformation, or identity, remap to shapeshifter after review.
+  suggested_aliases:
+  - sea_animal_with_human_like_sleep_sound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fleeing-bird-petrified-at-mountain
+  motif_id: fleeing_bird_petrified_at_mountain
+  label: Fleeing bird petrified at mountain
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Petrification of a fleeing bird is a bodily transformation into stone
+    or landscape form.
+  cautions: If the mountain setting explains a landmark, cosmic_origin or etiological
+    landscape naming may be a better secondary mapping; if sacred mountain function
+    is central, relate to axis_mundi.
+  suggested_aliases:
+  - bird_petrified_at_mountain
+  - animal_petrification_as_landscape_feature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fleet-animals-confound-a-pursuer-by-splitting-direction
+  motif_id: fleet_animals_confound_a_pursuer_by_splitting_direction
+  label: fleet animals confound a pursuer by splitting direction
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animals evade or deceive a pursuer through a tactical misdirection pattern,
+    fitting trickster or animal-deception variants.
+  cautions: May be an episode-specific chase detail if no deception, rule-breaking,
+    or reversal is emphasized.
+  suggested_aliases:
+  - animals_confound_pursuer_by_splitting_paths
+  - animal_misdirection_of_pursuer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.flesh-penetrating-animal-affliction
+  motif_id: flesh_penetrating_animal_affliction
+  label: flesh-penetrating animal affliction
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names an affliction involving an animal but not enough function
+    to place it as transformation, spirit injury, or ordeal.
+  cautions: Could fit divine_intervention if spirit-caused injury/healing is present,
+    sacred_law if taboo-related, or be a specific pathology detail; source evidence
+    needed.
+  suggested_aliases:
+  - animal_affliction_penetrating_flesh
+  - flesh_intrusion_by_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.flight-after-ominous-animal-cry
+  motif_id: flight_after_ominous_animal_cry
+  label: flight after ominous animal cry
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An ominous animal cry prompting action functions as an omen or warning
+    sign.
+  cautions: If the cry occurs in a dream or altered perception, dream_and_vision may
+    fit better; if it is merely a chase cue, exclude as episode detail.
+  suggested_aliases:
+  - ominous_animal_cry_as_warning
+  - animal_cry_omen_prompts_flight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.flight-from-animal-household-and-pursuit-by-animal-people
+  motif_id: flight_from_animal_household_and_pursuit_by_animal_people
+  label: flight from animal household and pursuit by animal people
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Escape from a nonhuman animal-person household with pursuit suggests
+    a sojourn in an enchanted or nonordinary social realm.
+  cautions: Could also map to shapeshifter if animal-person identity change is central,
+    or hero_journey if the flight is part of a departure-return ordeal.
+  suggested_aliases:
+  - escape_from_animal_people_household
+  - animal_people_pursuit_after_flight
+  - flight_from_nonhuman_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional; several single-occurrence animal labels may be episode
+  details rather than durable motifs.
+- For Indigenous and Siberian culturally specific labels, preserve local terms and
+  review source context before broad normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch contains several low-confidence, single-occurrence animal/transformation
+    labels needing evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2169
+  input_sha256: b0c395029b3992e0e7a7b39e3d158cb0e10dd07054b7ea6bf0651a081d59a7f4
+

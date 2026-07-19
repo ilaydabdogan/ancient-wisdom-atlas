@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3139
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.alms-exchange-regulated-for-lay-protection
+  motif_id: alms_exchange_regulated_for_lay_protection
+  label: alms exchange regulated for lay protection
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Alms exchange is a regulated reciprocal religious relation between lay
+    donors and renunciants, fitting sacred exchange.
+  cautions: The protective function and Buddhist monastic context may also involve
+    sacred_law; verify whether the passage emphasizes reciprocity, discipline, or
+    lay merit/protection.
+  suggested_aliases:
+  - regulated_alms_exchange
+  - almsgiving_for_lay_protection
+  - monastic_lay_alms_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alteration-or-erasure-of-the-fate-record
+  motif_id: alteration_or_erasure_of_the_fate_record
+  label: alteration or erasure of the fate record
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fate record is a sacred or cosmic written register of decrees; alteration
+    or erasure concerns divine knowledge and decree records.
+  cautions: Could also fit death_by_fate or fate_figures_cosmic_weaving if the passage
+    centers destiny rather than the record; Sufi theological nuance needs review.
+  suggested_aliases:
+  - erasure_of_fate_record
+  - altered_fate_record
+  - cosmic_record_altered_or_erased
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alternating-rout-and-counter-rout
+  motif_id: alternating_rout_and_counter_rout
+  label: alternating rout and counter-rout
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a battle pattern of reversal and counter-reversal,
+    best parked under sacred combat if it is narratively meaningful.
+  cautions: May be a battle-description artifact rather than a reusable motif; exclude
+    or keep as evidence detail if no sacred, ritual, or decisive narrative function
+    appears.
+  suggested_aliases:
+  - battle_rout_and_counter_rout
+  - alternating_battle_reversals
+  - rout_reversed_by_counter_rout
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alternation-between-paired-and-triple-metrical-groupings
+  motif_id: alternation_between_paired_and_triple_metrical_groupings
+  label: alternation between paired and triple metrical groupings
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes metrical or formal structure rather than a narrative,
+    ritual, or symbolic motif.
+  cautions: Preserve as performance/textual metadata if useful; do not use for motif
+    pattern queries unless tied to an explicitly sacred numerological function.
+  suggested_aliases:
+  - paired_and_triple_metrical_alternation
+  - metrical_grouping_alternation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alternation-of-minor-and-major-musical-structures
+  motif_id: alternation_of_minor_and_major_musical_structures
+  label: alternation of minor and major musical structures
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a musicological/formal observation, not a motif of supernatural
+    music or sound power.
+  cautions: If the alternation is explicitly used ritually or produces sacred effects,
+    reconsider under enchanting_music or sacred_song; current label alone is formal
+    metadata.
+  suggested_aliases:
+  - minor_major_musical_alternation
+  - alternating_musical_structures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alternative-preparation-replacing-orthodox-chewing-with-boiling
+  motif_id: alternative_preparation_replacing_orthodox_chewing_with_boiling
+  label: alternative preparation replacing orthodox chewing with boiling
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a culturally specific preparation rule or substitution,
+    but its ritual or narrative function is unclear.
+  cautions: Could involve sacred_substance, sacred_law, food preparation taboo, or
+    ethnographic commentary; source evidence is needed before placement.
+  suggested_aliases:
+  - alternative_ritual_preparation_by_boiling
+  - boiling_replaces_orthodox_chewing
+  - substituted_preparation_method
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.altruistic-wish-for-others-flourishing
+  motif_id: altruistic_wish_for_others_flourishing
+  label: Altruistic wish for others' flourishing
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: An altruistic wish for others' flourishing functions as an ethical-religious
+    virtue or command, fitting sacred law and social order.
+  cautions: May also fit mystical_quest if part of compassion practice or bodhisattva
+    aspiration; avoid reducing Buddhist ethical psychology to generic law without
+    context.
+  suggested_aliases:
+  - wish_for_others_flourishing
+  - altruistic_blessing_for_all_beings
+  - compassionate_wish_for_welfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-anthropomorphic-megalith
+  motif_id: ambiguous_anthropomorphic_megalith
+  label: ambiguous anthropomorphic megalith
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A human-like megalith could be sacred center, ancestor stone, transformed
+    body, or landscape artifact depending on source context.
+  cautions: The word ambiguous signals insufficient evidence; do not map to axis_mundi
+    or death_and_transformation without knowing its function.
+  suggested_aliases:
+  - anthropomorphic_megalith
+  - human_like_standing_stone
+  - ambiguous_human_shaped_stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-armed-approach-transformed-into-friendly-greeting
+  motif_id: ambiguous_armed_approach_transformed_into_friendly_greeting
+  label: Ambiguous armed approach transformed into friendly greeting
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a social encounter whose meaning shifts from threat
+    to greeting, but no existing group cleanly captures the function.
+  cautions: May be a passage-specific narrative detail, hospitality/stranger encounter,
+    conflict de-escalation, or ritual greeting; source context is required.
+  suggested_aliases:
+  - armed_approach_becomes_greeting
+  - threatening_approach_reinterpreted_as_greeting
+  - ambiguous_weapon_greeting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-disappearance-into-a-fell
+  motif_id: ambiguous_disappearance_into_a_fell
+  label: ambiguous disappearance into a fell
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Disappearance into a fell may imply otherworld entry, death, concealment,
+    mountain transformation, or local saga geography.
+  cautions: The label is explicitly ambiguous and place-specific; map only after verifying
+    whether the fell functions as otherworld, grave, mountain axis, or narrative setting.
+  suggested_aliases:
+  - disappearance_into_a_fell
+  - vanishing_into_a_mountain_fell
+  - ambiguous_mountain_disappearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Formal metrical and musical-structure labels were treated as meta/textual artifacts
+  unless the source evidence gives them ritual or supernatural function.
+- Several single-occurrence labels are intentionally kept at needs_human_review because
+  their motif function depends on passage evidence not present in the gap-audit row.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3139
+  input_sha256: c15a1ec007963daab2e4d0d4e345eb0f356018f3f23b15a02290e840f55a00e4
+

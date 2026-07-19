@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0544
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.kinship-created-through-milk-drinking
+  motif_id: kinship_created_through_milk_drinking
+  label: kinship created through milk-drinking
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Milk-drinking can create ritual or fictive kinship, but no current group
+    cleanly covers kinship-making through shared substance.
+  cautions: Single occurrence; could be ritual adoption, sacred substance, covenantal
+    bond, or ethnographic detail depending on source evidence.
+  suggested_aliases:
+  - milk_kinship
+  - fictive_kinship_through_milk
+  - ritual_kinship_by_shared_milk
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - covenant
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-diplomacy-through-messengers
+  motif_id: kinship_diplomacy_through_messengers
+  label: kinship diplomacy through messengers
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on negotiated social bonds and obligations mediated
+    by envoys, fitting covenantal or alliance-making relations.
+  cautions: If the passage emphasizes messenger travel or recognition tokens rather
+    than bond-making, hero_journey or recognition_tokens_hidden_identity may be secondary.
+  suggested_aliases:
+  - messenger_mediated_kinship_diplomacy
+  - envoy_mediated_kinship_alliance
+  - kinship_alliance_through_messengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-entangled-with-accusation-and-punishment
+  motif_id: kinship_entangled_with_accusation_and_punishment
+  label: kinship entangled with accusation and punishment
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: low
+  rationale: Accusation and punishment point toward moral reckoning, but the kinship
+    function is not clear from the label alone.
+  cautions: May be a passage-specific plot summary rather than a reusable motif; review
+    whether sacred or legal judgment is actually present.
+  suggested_aliases:
+  - kinship_accusation_and_punishment
+  - family_accusation_and_retribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-feast-with-honour-and-ritual-archery
+  motif_id: kinship_feast_with_honour_and_ritual_archery
+  label: Kinship feast with honour and ritual archery
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A kinship feast structured by honor and ritual archery fits regulated
+    social order and ritualized ethical conduct.
+  cautions: Could also involve sacred_exchange if reciprocal feasting is central;
+    archery detail may be too context-specific for broad queries.
+  suggested_aliases:
+  - ritual_archery_feast
+  - honor_feast_with_ritual_archery
+  - kinship_feast_and_ritual_archery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-feeling-precedes-conscious-knowledge-of-relationship
+  motif_id: kinship_feeling_precedes_conscious_knowledge_of_relationship
+  label: Kinship feeling precedes conscious knowledge of relationship
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes preconscious recognition of kinship before explicit
+    identity knowledge, fitting the hidden-identity recognition complex.
+  cautions: No token is mentioned; if the passage emphasizes intuition or affect rather
+    than proof of identity, human review should preserve that distinction.
+  suggested_aliases:
+  - intuitive_kinship_recognition
+  - preconscious_kinship_recognition
+  - kinship_recognition_before_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-framed-diplomacy
+  motif_id: kinship_framed_diplomacy
+  label: Kinship-framed diplomacy
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Diplomacy framed as kinship concerns binding social relations and obligations,
+    aligning with covenant or sacred bond patterns.
+  cautions: May be a political rhetoric detail rather than a mythic motif; review
+    whether the kinship relation changes obligations or plot outcome.
+  suggested_aliases:
+  - kinship_diplomacy
+  - diplomacy_as_kinship_bond
+  - kinship_framed_alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-grievance-and-restitution-through-horses
+  motif_id: kinship_grievance_and_restitution_through_horses
+  label: Kinship grievance and restitution through horses
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restitution using horses functions as reciprocal repair of social or
+    kinship relations.
+  cautions: Horse specificity may be culturally important; if the passage is legal
+    compensation rather than sacred reciprocity, sacred_law or covenant may fit better.
+  suggested_aliases:
+  - restitution_through_horses
+  - horse_compensation_for_kinship_grievance
+  - kinship_repair_by_horse_payment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-identifying-titles
+  motif_id: kinship_identifying_titles
+  label: kinship-identifying titles
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: role_variant
+  confidence: low
+  rationale: Kinship titles can function as identity markers or proofs of relationship,
+    fitting the recognition group at broad level.
+  cautions: May be merely naming convention or passage annotation; exclude if titles
+    do not drive recognition, authority, or relationship proof.
+  suggested_aliases:
+  - kinship_titles_as_identity_markers
+  - relationship_identifying_titles
+  - kinship_title_recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-illness-as-an-exception-to-religious-residence
+  motif_id: kinship_illness_as_an_exception_to_religious_residence
+  label: Kinship illness as an exception to religious residence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a rule-case or contextual exception about residence
+    obligations, not a reusable symbolic motif.
+  cautions: If source evidence shows a narrative of family duty overriding monastic
+    discipline, review under sacred_law instead of excluding.
+  suggested_aliases:
+  - illness_exception_to_religious_residence
+  - kinship_duty_exception_to_residence_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-image-for-moral-violation
+  motif_id: kinship_image_for_moral_violation
+  label: Kinship image for moral violation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A kinship image used to frame moral violation fits ethical instruction
+    and sacred social order at broad level.
+  cautions: Could be metaphorical rhetoric rather than motif; if it is only a commentary
+    image, exclude from pattern queries.
+  suggested_aliases:
+  - kinship_metaphor_for_moral_violation
+  - family_image_for_transgression
+  - kinship_as_moral_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be single-occurrence kinship/social-order
+  details rather than journey motifs despite the review bucket.
+- No transmission or contact claims are implied by these placements.
+- Consider whether recurring kinship-alliance and fictive-kinship labels eventually
+  warrant a dedicated group; current evidence here is too sparse.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source context needed for most kinship labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0544
+  input_sha256: 2b68ae6681997c320118a68735818b9d3194a786ed289efc074494168f19e4f1
+

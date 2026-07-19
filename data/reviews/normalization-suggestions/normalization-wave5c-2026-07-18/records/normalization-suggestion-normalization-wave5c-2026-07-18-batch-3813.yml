@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3813
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prophetic-proclamation-by-celestial-heralds
+  motif_id: prophetic_proclamation_by_celestial_heralds
+  label: Prophetic proclamation by celestial heralds
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on a prophetic announcement delivered by celestial
+    heralds, fitting prophecy as sacred communication of hidden or future knowledge.
+  cautions: Could also fit divine_intervention if the heraldic sending is more important
+    than the prophetic content; single occurrence needs passage review.
+  suggested_aliases:
+  - celestial_heralds_proclaim_prophecy
+  - heavenly_heralds_announce_prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-promise-of-salvation-from-doom
+  motif_id: prophetic_promise_of_salvation_from_doom
+  label: prophetic promise of salvation from doom
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A promise of rescue from doom presumes threatened judgment or catastrophe
+    and divine reversal or mercy.
+  cautions: If the passage is mainly visionary prediction, prophecy_divination may
+    be the better primary group; if mystical deliverance is central, consider mystical_quest
+    as secondary.
+  suggested_aliases:
+  - prophetic_salvation_from_doom
+  - promise_of_deliverance_from_doom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-rural-deity-and-oracular-transmission
+  motif_id: prophetic_rural_deity_and_oracular_transmission
+  label: prophetic rural deity and oracular transmission
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: role_variant
+  confidence: high
+  rationale: The label explicitly combines a prophetic deity with oracular transmission,
+    matching the prophecy/divination group.
+  cautions: Rural deity may be a local cult detail rather than a separate motif; preserve
+    locality in evidence notes.
+  suggested_aliases:
+  - oracular_transmission_by_rural_deity
+  - rural_deity_as_oracular_source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-sanction-for-political-loyalty
+  motif_id: prophetic_sanction_for_political_loyalty
+  label: Prophetic sanction for political loyalty
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Prophetic approval authorizes political allegiance or rule, fitting sacred
+    legitimation of social-political order.
+  cautions: If the passage emphasizes prophetic speech itself rather than legitimation,
+    prophecy_divination or curse_blessing_speech may be better; culturally sensitive
+    political context needs review.
+  suggested_aliases:
+  - prophetic_authorization_of_political_loyalty
+  - prophetic_legitimation_of_loyalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-sequence-of-ages-culminating-in-an-iron-age
+  motif_id: prophetic_sequence_of_ages_culminating_in_an_iron_age
+  label: prophetic sequence of ages culminating in an iron age
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: narrower_than
+  confidence: high
+  rationale: A sequence of declining ages ending in an iron age is a direct instance
+    of the world-ages/cosmic-decline schema.
+  cautions: Prophetic framing can be retained as evidence detail; do not reduce the
+    main motif to generic prophecy when age-sequence structure is explicit.
+  suggested_aliases:
+  - prophetic_iron_age_sequence
+  - sequence_of_declining_ages_to_iron_age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-signs-rejected-in-favor-of-an-idol
+  motif_id: prophetic_signs_rejected_in_favor_of_an_idol
+  label: Prophetic signs rejected in favor of an idol
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rejection of prophetic signs in favor of idolatry commonly functions
+    as refusal of sacred warning and grounds moral reckoning.
+  cautions: Could also map to covenant if exclusive devotion is central, or prophecy_divination
+    if focus is on signs rather than consequence; idol labels require source-sensitive
+    review.
+  suggested_aliases:
+  - rejected_prophetic_signs_for_idol
+  - idolatrous_rejection_of_prophetic_signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophetic-utterance-under-communal-persecution
+  motif_id: prophetic_utterance_under_communal_persecution
+  label: Prophetic utterance under communal persecution
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is prophetic utterance, with persecution as the social
+    setting or ordeal.
+  cautions: If persecution of the speaker drives the episode more than prediction
+    or revelation, divine_judgment, sacred_law, or martyrdom-like sacrifice may be
+    relevant; single contextual occurrence.
+  suggested_aliases:
+  - prophecy_under_persecution
+  - persecuted_prophetic_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prophets-as-prototypes-of-christ
+  motif_id: prophets_as_prototypes_of_christ
+  label: Prophets as prototypes of Christ
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes typological interpretation of figures within Christian
+    exegesis rather than a portable narrative motif.
+  cautions: Preserve as theological or reception-history metadata if needed; do not
+    use as evidence of a shared mythic pattern without passage-level narrative motifs.
+  suggested_aliases:
+  - prophetic_typology_of_christ
+  - prophets_as_christological_types
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.propitiation-of-creator-deity
+  motif_id: propitiation_of_creator_deity
+  label: Propitiation of creator deity
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: Propitiation is an offering or appeasement act that repairs or maintains
+    relationship with a sacred power.
+  cautions: If the rite specifically centers on sacrifice, map sacrifice as secondary;
+    creator-deity identity may also relate to cosmic_origin but is not the main function.
+  suggested_aliases:
+  - appeasement_of_creator_deity
+  - ritual_propitiation_of_creator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.propitiation-of-protective-fravashis
+  motif_id: propitiation_of_protective_fravashis
+  label: Propitiation of protective Fravashis
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fravashis can function as protective ancestral or preexistent spirits,
+    and their propitiation fits ritual care of dead/ancestor powers.
+  cautions: Zoroastrian fravashi concepts are culturally specific and not identical
+    to generic ancestors; sacred_exchange or divine_intervention may be better if
+    protective spirit reciprocity is primary.
+  suggested_aliases:
+  - propitiation_of_fravashis
+  - appeasement_of_protective_ancestral_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine prophecy with another narrative function; suggested placement
+  prioritizes the function that drives the motif rather than the word 'prophetic'
+  alone.
+- Single-occurrence and tradition-specific labels should remain provisional until
+  passage evidence confirms whether they are recurring motifs or contextual descriptors.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3813
+  input_sha256: a3081a82e036682b67a727d183fb1ea52b88223468f09e6b8167a6f5dd6e4a3a
+

@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0228
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.immanent-spirit-transformed-into-external-deity
+  motif_id: immanent_spirit_transformed_into_external_deity
+  label: immanent spirit transformed into external deity
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: alias
+  confidence: high
+  rationale: Current divine_intervention children already include immanent_spirit_becoming_external_deity,
+    which is the same transformation pattern.
+  cautions: Single occurrence; verify this is a motif in source evidence rather than
+    comparative theory about deity formation.
+  suggested_aliases:
+  - immanent_spirit_becoming_external_deity
+  - immanent spirit becoming external deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immediate-intramural-burial-beneath-the-life-place
+  motif_id: immediate_intramural_burial_beneath_the_life_place
+  label: Immediate intramural burial beneath the life-place
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a culturally specific mortuary placement practice,
+    but the symbolic function is not clear from the label alone.
+  cautions: Could involve ancestor rites, household protection, reincorporation of
+    the dead, or an ethnographic detail too specific for pattern queries; review source
+    evidence and cultural sensitivity before mapping.
+  suggested_aliases:
+  - intramural burial beneath the dwelling
+  - burial beneath the life-place
+  - household burial of the dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortal-ancestor-soul-principle
+  motif_id: immortal_ancestor_soul_principle
+  label: immortal ancestor-soul principle
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The group already contains soul-doctrine labels such as immortal_soul_as_source_of_motion
+    and indestructible_immortal_soul; this appears to be a doctrinal soul principle
+    rather than a journey episode.
+  cautions: If source evidence concerns ritual care or ancestor agency, ancestor_rites
+    may be more appropriate; if it only names a theological concept, keep as a granular
+    doctrine label.
+  suggested_aliases:
+  - immortal ancestral soul principle
+  - ancestor-soul immortality
+  - immortal ancestor soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortal-self-moving-soul
+  motif_id: immortal_self_moving_soul
+  label: immortal self-moving soul
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: alias
+  confidence: high
+  rationale: Current sacred_knowledge children include immortal_soul_as_source_of_motion,
+    a close equivalent to self-moving immortal soul doctrine.
+  cautions: Likely philosophical doctrine rather than narrative motif; preserve wording
+    as evidence detail and avoid treating as afterlife passage unless a postmortem
+    route is present.
+  suggested_aliases:
+  - immortal_soul_as_source_of_motion
+  - self-moving immortal soul
+  - soul as source of motion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortal-soul-beyond-bodily-and-moral-destruction
+  motif_id: immortal_soul_beyond_bodily_and_moral_destruction
+  label: Immortal soul beyond bodily and moral destruction
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: This fits the existing sacred_knowledge cluster for indestructible or
+    immortal soul doctrines.
+  cautions: The phrase includes moral destruction and may reflect philosophical argumentation
+    rather than a reusable motif; review before broad indexing.
+  suggested_aliases:
+  - indestructible immortal soul
+  - immortal soul beyond destruction
+  - soul immune to bodily destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortal-soul-proved-by-resistance-to-destruction
+  motif_id: immortal_soul_proved_by_resistance_to_destruction
+  label: Immortal soul proved by resistance to destruction
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label is an argument about the soul's indestructibility, matching
+    existing immortal-soul doctrine labels under sacred_knowledge.
+  cautions: May be a philosophical proof or passage artifact rather than a narrative
+    motif; do not map to resurrection or death_rebirth without restoration narrative.
+  suggested_aliases:
+  - indestructible immortal soul
+  - immortal soul resistant to destruction
+  - proof of soul immortality by indestructibility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortal-soul-survives-bodily-destruction
+  motif_id: immortal_soul_survives_bodily_destruction
+  label: immortal soul survives bodily destruction
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: alias
+  confidence: high
+  rationale: This is a close variant of existing indestructible_immortal_soul and
+    related immortal-soul doctrine children under sacred_knowledge.
+  cautions: If the passage narrates a specific postmortem transformation, death_and_transformation
+    may be secondary; label alone reads doctrinal.
+  suggested_aliases:
+  - indestructible_immortal_soul
+  - immortal soul survives the body
+  - soul survives bodily death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortality-and-future-life-of-the-soul
+  motif_id: immortality_and_future_life_of_the_soul
+  label: immortality and future life of the soul
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label broadly names soul immortality and future life but does not
+    indicate whether the function is doctrine, afterlife destination, ancestor relation,
+    or transformation.
+  cautions: Culturally specific evidence is needed; could map to afterlife_passage,
+    ancestor_rites, death_and_transformation, or sacred_knowledge depending on source
+    context.
+  suggested_aliases:
+  - future life of the soul
+  - soul immortality after death
+  - immortal soul and afterlife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortality-and-the-home-of-song-as-blessed-destiny
+  motif_id: immortality_and_the_home_of_song_as_blessed_destiny
+  label: Immortality and the Home of song as blessed destiny
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: A named blessed postmortem destiny fits afterlife passage or destination
+    more than general immortality doctrine.
+  cautions: If the passage emphasizes song or praise rather than postmortem geography,
+    sacred_song or theophany-related praise may be secondary; preserve the culturally
+    specific term.
+  suggested_aliases:
+  - Home of Song as blessed destiny
+  - blessed afterlife home of song
+  - immortality in the Home of Song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.immortality-and-welfare-as-divine-gifts
+  motif_id: immortality_and_welfare_as_divine_gifts
+  label: immortality and welfare as divine gifts
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is divine bestowal of life-preserving or blessed goods,
+    which fits direct divine aid and provision.
+  cautions: Could also relate to sacred_exchange if gifts follow worship or covenantal
+    reciprocity, or death_and_transformation if immortality changes mortal status.
+  suggested_aliases:
+  - divine gift of immortality and welfare
+  - immortality bestowed by deity
+  - welfare and immortality as sacred gifts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Greek soul labels appear to be philosophical/doctrinal formulations rather
+  than narrative motifs; they are provisionally parked under sacred_knowledge because
+  that group already contains immortal-soul doctrine children.
+- Mortuary and culturally specific ancestor/soul labels should receive source review
+  before broad pattern-query mapping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0228
+  input_sha256: 4afe6d38f381323faae27ea4cbd9bae2ce668d9974864464068aee1b0f5f7eed
+

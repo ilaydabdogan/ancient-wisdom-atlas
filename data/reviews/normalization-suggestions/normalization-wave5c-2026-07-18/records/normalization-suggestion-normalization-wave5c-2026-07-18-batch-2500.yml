@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2500
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.reconciliation-of-rival-creation-traditions
+  motif_id: reconciliation_of_rival_creation_traditions
+  label: reconciliation of rival creation traditions
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes harmonizing or editing multiple creation accounts
+    rather than a creation motif itself.
+  cautions: If the passage narrates a cosmological reconciliation within mythic action,
+    review for cosmic_origin instead.
+  suggested_aliases:
+  - harmonization_of_creation_traditions
+  - editorial_reconciliation_of_creation_accounts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reconciliation-sealed-by-pardon-embrace-and-shared-food
+  motif_id: reconciliation_sealed_by_pardon_embrace_and_shared_food
+  label: Reconciliation sealed by pardon, embrace, and shared food
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Pardon and shared food restore a broken social bond, fitting covenantal
+    repair and mercy.
+  cautions: Could also support sacred_exchange if the meal is the central reciprocal
+    act; bucket placement seems noisy.
+  suggested_aliases:
+  - reconciliation_sealed_by_shared_meal
+  - pardon_embrace_and_commensality_restore_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recovery-of-a-lost-object-from-within-a-sea-creature
+  motif_id: recovery_of_a_lost_object_from_within_a_sea_creature
+  label: Recovery of a lost object from within a sea creature
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: The core pattern is retrieval of a significant lost object; sea creature
+    is the recovery medium.
+  cautions: If the object is ordinary and the episode is comic or explanatory, preserve
+    as evidence detail rather than promote.
+  suggested_aliases:
+  - lost_object_recovered_from_sea_creature
+  - lost_treasure_recovered_from_fish_or_sea_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.red-as-fire-and-war-color
+  motif_id: red_as_fire_and_war_color
+  label: red as fire and war color
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a symbolic color association spanning fire and warfare without
+    a clear narrative function.
+  cautions: May fit sacred_fire, divine_warrior, sacred_combat, or be a local color-symbolism
+    note; passage evidence is needed.
+  suggested_aliases:
+  - red_color_symbolizes_fire_and_war
+  - red_as_war_and_fire_symbol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.redirected-springs-and-rivers-enabling-settlement
+  motif_id: redirected_springs_and_rivers_enabling_settlement
+  label: redirected springs and rivers enabling settlement
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Springs and rivers are managed as life-enabling sacred waters that permit
+    settlement.
+  cautions: If the emphasis is founding civilization or land-ordering, culture_hero
+    or cosmic_origin may be secondary.
+  suggested_aliases:
+  - water_redirection_enables_settlement
+  - springs_and_rivers_ordered_for_habitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.redness-of-stars-explained-by-roots
+  motif_id: redness_of_stars_explained_by_roots
+  label: redness of stars explained by roots
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is an etiological explanation for a celestial feature, fitting origin/etiology
+    patterns.
+  cautions: Very specific; preserve root-and-star detail as evidence, not as a canonical
+    motif unless it recurs.
+  suggested_aliases:
+  - etiology_of_red_stars
+  - celestial_redness_explained_by_roots
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reflected-heavenly-body-mistaken-for-treasure-in-water
+  motif_id: reflected_heavenly_body_mistaken_for_treasure_in_water
+  label: Reflected heavenly body mistaken for treasure in water
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mistaking a reflected celestial object for treasure reads as deception,
+    misperception, or fable-like reversal.
+  cautions: If the passage emphasizes altered perception or omen rather than folly/deception,
+    dream_and_vision may fit better.
+  suggested_aliases:
+  - mistaken_reflection_of_heavenly_body
+  - celestial_reflection_mistaken_for_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-from-world-destroying-winter
+  motif_id: refuge_from_world_destroying_winter
+  label: Refuge from world-destroying winter
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: high
+  rationale: A refuge preserves life through a world-destroying catastrophe, analogous
+    to ark/vessel survival patterns.
+  cautions: Do not narrow to flood unless water destruction is present; winter is
+    an elemental catastrophe variant.
+  suggested_aliases:
+  - catastrophe_refuge_from_deadly_winter
+  - winter_catastrophe_survival_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-in-a-sheltered-natural-harbor-after-sea-peril
+  motif_id: refuge_in_a_sheltered_natural_harbor_after_sea_peril
+  label: Refuge in a sheltered natural harbor after sea peril
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a travel episode, safe-harbor setting, or divine rescue depending
+    on context.
+  cautions: If no sacred agency or transformation is present, it may be too circumstantial
+    for pattern queries; consider divine_intervention or sacred_waters only with supporting
+    evidence.
+  suggested_aliases:
+  - safe_harbor_after_sea_peril
+  - natural_harbor_refuge_after_storm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-in-caves-and-mountains-during-calamity
+  motif_id: refuge_in_caves_and_mountains_during_calamity
+  label: Refuge in caves and mountains during calamity
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Caves and mountains function as life-preserving refuges during catastrophe
+    or old-order destruction.
+  cautions: If the setting is primarily sacred mountain/cave symbolism rather than
+    catastrophe survival, axis_mundi or descent may be secondary.
+  suggested_aliases:
+  - mountain_and_cave_refuge_during_calamity
+  - natural_refuge_during_catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch were assigned to the nature/cosmos bucket but function
+  as social reconciliation, travel detail, or textual artifact; bucket assignment
+  should not drive final placement.
+- For catastrophe-refuge labels, preserve the specific destructive element or refuge
+  type rather than collapsing all cases into flood.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence items and culturally specific
+    etiologies should be checked against source passages.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2500
+  input_sha256: b2c12865d93580667c5bbf45d7ce7ac19dc17b0e77d151da6e1f122ed4abbee8
+

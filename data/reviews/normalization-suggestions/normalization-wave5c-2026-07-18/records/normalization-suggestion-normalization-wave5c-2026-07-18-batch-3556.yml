@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3556
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.humans-treated-as-game-by-cannibals
+  motif_id: humans_treated_as_game_by_cannibals
+  label: humans treated as game by cannibals
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests predatory violence and dehumanization, but no existing
+    group clearly covers cannibal-hunting scenes without source context.
+  cautions: Single occurrence and culturally sensitive; could be monster/predator
+    ordeal, ritual violence, fable-like threat, or passage-specific detail.
+  suggested_aliases:
+  - human_beings_hunted_as_game
+  - cannibal_hunts_humans_as_prey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - threshold_guardian
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humble-born-craft-excellence-attracting-supernatural-witnesses
+  motif_id: humble_born_craft_excellence_attracting_supernatural_witnesses
+  label: humble-born craft excellence attracting supernatural witnesses
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core is extraordinary craft excellence drawing supernatural attention,
+    fitting sacred craft as a charged creative act.
+  cautions: If the passage emphasizes social humility or divine witness more than
+    craft, sacred_exchange, divine_intervention, or pride/downfall may be secondary.
+  suggested_aliases:
+  - excellent_craft_draws_supernatural_witnesses
+  - humble_craftsperson_seen_by_divine_witnesses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humble-hospitality-through-poor-clothing
+  motif_id: humble_hospitality_through_poor_clothing
+  label: Humble hospitality through poor clothing
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hospitality expressed despite poverty or humble clothing fits the hospitality-test
+    and stranger-guest complex.
+  cautions: If clothing is primarily disguise or hidden identity proof, recognition_tokens_hidden_identity
+    may be relevant instead.
+  suggested_aliases:
+  - poor_clothing_reveals_humble_hospitality
+  - humble_hosting_despite_poverty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humble-reunion-through-reverence-to-elders
+  motif_id: humble_reunion_through_reverence_to_elders
+  label: humble reunion through reverence to elders
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Reverence to elders is an ethical-social obligation, fitting sacred law
+    and social order better than a journey or recognition motif.
+  cautions: The reunion element may be passage-specific; preserve as evidence unless
+    elder reverence drives the narrative resolution.
+  suggested_aliases:
+  - reverence_to_elders_restores_relationship
+  - filial_reverence_enables_reunion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humble-secret-practitioner-surpasses-proud-mockers
+  motif_id: humble_secret_practitioner_surpasses_proud_mockers
+  label: humble secret practitioner surpasses proud mockers
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: The contrast between humble hidden practice and proud mockers points
+    to pride being overturned or humbled.
+  cautions: Could also involve initiation or sacred knowledge if secret practice is
+    a ritual discipline; avoid flattening culturally specific training into generic
+    morality.
+  suggested_aliases:
+  - humble_practitioner_outdoes_mockers
+  - secret_discipline_surpasses_proud_rivals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humble-sustenance-over-domination-and-servitude
+  motif_id: humble_sustenance_over_domination_and_servitude
+  label: Humble sustenance over domination and servitude
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In a Sufi context, preferring humble sustenance over domination reads
+    as spiritual discipline and renunciation on the interior path.
+  cautions: Could be ethical teaching rather than narrative motif; if focused on giving
+    or renunciation, sacred_exchange may be a useful secondary mapping.
+  suggested_aliases:
+  - humble_sustenance_preferred_to_power
+  - renunciation_of_domination_for_humble_sustenance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humbling-sleep-place-as-mourning-expression
+  motif_id: humbling_sleep_place_as_mourning_expression
+  label: humbling sleep-place as mourning expression
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Changing to a humbling sleeping place functions as embodied mourning
+    practice.
+  cautions: If this is prescribed filial mourning conduct, sacred_law may be a secondary
+    fit; single occurrence may be too specific for broad queries.
+  suggested_aliases:
+  - humble_sleeping_place_as_mourning
+  - mourning_expressed_by_austere_sleeping_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humiliated-raven-figure
+  motif_id: humiliated_raven_figure
+  label: Humiliated Raven figure
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: role_variant
+  confidence: medium
+  rationale: Raven commonly functions as a trickster/boundary-crosser figure, and
+    humiliation is a common trickster reversal.
+  cautions: Review source evidence and cultural specificity; if Raven is a named sacred
+    being rather than a generic trickster episode, keep local label as alias/detail.
+  suggested_aliases:
+  - raven_trickster_humiliated
+  - humiliated_trickster_raven
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humiliated-rival-withdraws-from-public-chiefly-society
+  motif_id: humiliated_rival_withdraws_from_public_chiefly_society
+  label: humiliated rival withdraws from public chiefly society
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve status rivalry, chiefly social order, shame, or
+    narrative exit, but the mythic function is unclear.
+  cautions: Single occurrence and culturally contextual; do not force into royal_legitimacy
+    or pride/downfall without evidence that public withdrawal resolves sacred status
+    conflict.
+  suggested_aliases:
+  - shamed_rival_withdraws_from_chiefly_society
+  - humiliated_status_rival_leaves_public_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - pride_and_downfall
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humiliating-exchange-for-a-life-giving-object
+  motif_id: humiliating_exchange_for_a_life_giving_object
+  label: Humiliating exchange for a life-giving object
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on an exchange whose cost or abasement obtains a life-giving
+    object, fitting sacred reciprocity and valued surrender.
+  cautions: If the object itself drives the episode, sacred_treasures or sacred_substance
+    may be secondary; if humiliation is a trial, initiation may also apply.
+  suggested_aliases:
+  - abasement_in_exchange_for_life_giving_object
+  - humbling_bargain_for_life_restoring_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several labels are single-occurrence and may be
+  over-specific evidence notes rather than durable motifs.
+- Humility/shame labels should be reviewed against source passages to distinguish
+  ethical teaching, social-status reversal, ritual mourning, and narrative artifact.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch reviewed for provisional normalization placement only; no transmission
+    or origin claims inferred.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3556
+  input_sha256: 90bdf9adfa0e358dedc6ff7c4bf82c3821c026a3bab817235b52c4f990895bd5
+

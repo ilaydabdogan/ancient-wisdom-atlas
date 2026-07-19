@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3571
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.impassable-spiny-thicket
+  motif_id: impassable_spiny_thicket
+  label: Impassable spiny thicket
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A thorny barrier may function as threshold, protective boundary, ordeal
+    obstacle, or local landscape detail.
+  cautions: Single occurrence; source evidence needed before mapping to threshold_guardian,
+    sacred_law, hero_journey, or exclusion as scenery.
+  suggested_aliases:
+  - thorny_barrier
+  - impassable_thicket
+  - spiny_boundary_obstacle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impenetrable-refuge-protects-fugitive
+  motif_id: impenetrable_refuge_protects_fugitive
+  label: Impenetrable refuge protects fugitive
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: A protective enclosed refuge preserving a fugitive fits the container/refuge
+    function of sacred_vessel and ark-like preservation.
+  cautions: If the refuge is specifically a mountain, cave, or sacred center, axis_mundi
+    or descent may be better secondary mappings; if no sacred function is present,
+    it may be a plot detail.
+  suggested_aliases:
+  - protective_refuge
+  - impenetrable_shelter
+  - refuge_protects_fugitive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imperfect-instrument-obstructing-intended-art
+  motif_id: imperfect_instrument_obstructing_intended_art
+  label: imperfect instrument obstructing intended art
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could be a philosophical metaphor about embodiment, craft,
+    knowledge, or failure rather than a stable narrative motif.
+  cautions: Single occurrence in Hermetic context; review passage before mapping to
+    sacred_craft, sacred_knowledge, mystical_quest, or excluding as commentary artifact.
+  suggested_aliases:
+  - flawed_instrument_obstructs_art
+  - imperfect_medium_blocks_work
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imperial-expansion-followed-by-loss-of-control
+  motif_id: imperial_expansion_followed_by_loss_of_control
+  label: imperial expansion followed by loss of control
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Expansion followed by loss of control resembles overreach and subsequent
+    decline or humbling of power.
+  cautions: Could be annalistic political history rather than motif; map only if the
+    passage moralizes imperial overreach or frames decline symbolically.
+  suggested_aliases:
+  - imperial_overreach_and_loss_of_control
+  - expansion_followed_by_decline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imperial-pacification-by-punitive-campaign
+  motif_id: imperial_pacification_by_punitive_campaign
+  label: imperial pacification by punitive campaign
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Punitive campaign may express royal order, sacred combat, or divine judgment,
+    but the label reads like historical-political description.
+  cautions: Single occurrence; review whether divine sanction, ritualized warfare,
+    or mythic order-making is present before mapping. Otherwise exclude as contextual
+    imperial historiography.
+  suggested_aliases:
+  - punitive_campaign_restores_order
+  - imperial_pacification_campaign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imperial-patronage-of-textual-preservation
+  motif_id: imperial_patronage_of_textual_preservation
+  label: Imperial patronage of textual preservation
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes preservation, patronage, or textual history rather than
+    a narrative-symbolic motif.
+  cautions: Preserve as provenance or reception-history metadata if useful; do not
+    use as motif evidence unless the passage mythologizes textual preservation itself.
+  suggested_aliases:
+  - royal_patronage_of_textual_preservation
+  - state_patronage_of_canon_preservation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impermanence-dust-and-vanishing-life
+  motif_id: impermanence_dust_and_vanishing_life
+  label: Impermanence, dust, and vanishing life
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, impermanence and dust imagery often support contemplative
+    detachment and the interior quest.
+  cautions: If the passage emphasizes mortality anthropology rather than mystical
+    discipline, death_and_transformation may be a better secondary mapping.
+  suggested_aliases:
+  - impermanence_of_life
+  - dust_and_vanishing_life
+  - mortality_as_dust
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impermanence-ending-in-nothingness
+  motif_id: impermanence_ending_in_nothingness
+  label: Impermanence ending in nothingness
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The theme of transience and nothingness fits mystical reflection on selfhood,
+    mortality, and detachment.
+  cautions: Do not equate ordinary nihilistic or elegiac impermanence with annihilation_union
+    unless the passage explicitly treats ego-dissolution in the divine.
+  suggested_aliases:
+  - impermanence_and_nothingness
+  - vanishing_into_nothingness
+  - transience_of_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impermanence-of-religious-systems
+  motif_id: impermanence_of_religious_systems
+  label: impermanence of religious systems
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a theological or polemical teaching about institutions rather
+    than a recurrent mythic motif.
+  cautions: Review for whether the passage frames impermanence as sacred wisdom, social
+    critique, or textual commentary; avoid broad mapping from abstract wording alone.
+  suggested_aliases:
+  - transience_of_religious_systems
+  - impermanence_of_institutions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impermanence-of-superhuman-glory
+  motif_id: impermanence_of_superhuman_glory
+  label: impermanence of superhuman glory
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The fading of even superhuman glory aligns with the transience of power
+    and humbling of exalted status.
+  cautions: In Buddhist context it may instead function as wisdom teaching on impermanence;
+    consider sacred_knowledge or mystical_quest if the passage emphasizes insight
+    rather than downfall.
+  suggested_aliases:
+  - transience_of_superhuman_glory
+  - impermanence_of_divine_or_superhuman_splendor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several single-occurrence labels are abstract ethical or historical descriptions;
+  human review should verify passage evidence before broad motif mapping.
+- Impermanence labels may split between mystical_quest, sacred_knowledge, death_and_transformation,
+  and pride_and_downfall depending on whether the source emphasizes contemplative
+  insight, mortality, or fallen status.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3571
+  input_sha256: 7ed8e12583a7fb7ed3d7a9601d5b48917ecb4fb1b687f2889312623aefcda5e8
+

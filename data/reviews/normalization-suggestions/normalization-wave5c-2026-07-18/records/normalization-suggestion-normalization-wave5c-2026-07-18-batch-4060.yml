@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4060
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unique-sign-as-special-omen
+  motif_id: unique_sign_as_special_omen
+  label: Unique sign as special omen
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: narrower_than
+  confidence: medium
+  rationale: An omen is a sign interpreted as revealing hidden or future significance,
+    fitting prophecy/divination more than general vision.
+  cautions: Single occurrence and generic wording; if the sign is a spontaneous vision
+    rather than interpreted omen, dream_and_vision may be secondary.
+  suggested_aliases:
+  - special_omen
+  - unique_omen_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unity-of-all-things
+  motif_id: unity_of_all_things
+  label: Unity of all things
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Hermetic unity of all things is a contemplative metaphysical insight
+    aligned with mystical knowledge and union.
+  cautions: Could also fit sacred_knowledge or annihilation_union depending on whether
+    the passage stresses doctrine, experience, or ego dissolution.
+  suggested_aliases:
+  - cosmic_unity
+  - all_things_are_one
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unity-of-the-one-and-the-all
+  motif_id: unity_of_the_one_and_the_all
+  label: unity of the One and the All
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The One-and-All formula expresses mystical or esoteric unity with totality,
+    already close to annihilation/union and sacred knowledge.
+  cautions: Preserve Hermetic philosophical specificity; if it is only doctrinal exposition,
+    sacred_knowledge may be a better indexing parent.
+  suggested_aliases:
+  - unity_of_all_things
+  - one_and_all
+  - the_one_and_the_all
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-charity-to-creatures
+  motif_id: universal_charity_to_creatures
+  label: Universal charity to creatures
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Universal compassion toward creatures functions as an ethical sacred
+    obligation, like moral care and mercy toward living beings.
+  cautions: In Sufi context it may also reflect mystical love or interior discipline;
+    review passage emphasis before final mapping.
+  suggested_aliases:
+  - compassion_toward_all_creatures
+  - mercy_toward_living_creatures
+  - universal_compassion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-cosmic-praise-of-the-deity
+  motif_id: universal_cosmic_praise_of_the_deity
+  label: universal cosmic praise of the deity
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: alias
+  confidence: high
+  rationale: Existing alias universal_cosmic_praise maps to theophany/cosmic praise
+    of God; this is a close label variant.
+  cautions: Could be sacred_song if the passage emphasizes devotional performance
+    rather than cosmic manifestation.
+  suggested_aliases:
+  - universal_cosmic_praise
+  - cosmic_praise_of_god
+  - cosmic_praise_of_the_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-cultic-presence-of-a-deity
+  motif_id: universal_cultic_presence_of_a_deity
+  label: Universal cultic presence of a deity
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: uncertain
+  confidence: low
+  rationale: A deity's universal cultic presence may imply manifestation, sovereignty,
+    temple distribution, or cult administration.
+  cautions: 'Needs source evidence: this may be a ritual-historical/cultic classification
+    rather than a narrative motif. Could map to theophany, supreme_ruler, world_center,
+    or be excluded if merely descriptive commentary.'
+  suggested_aliases:
+  - deity_universal_presence
+  - universal_divine_presence
+  - cultic_presence_of_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-or-cosmic-praise
+  motif_id: universal_or_cosmic_praise
+  label: universal or cosmic praise
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: alias
+  confidence: high
+  rationale: Existing normalization already treats universal_cosmic_praise as cosmic
+    praise of God under theophany.
+  cautions: If the passage focuses on hymnody or sung devotion, sacred_song/sacred_knowledge
+    may be a secondary relation.
+  suggested_aliases:
+  - universal_cosmic_praise
+  - cosmic_praise_of_god
+  - universal_praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-passions-as-the-basis-of-epic-narrative
+  motif_id: universal_passions_as_the_basis_of_epic_narrative
+  label: Universal passions as the basis of epic narrative
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes literary interpretation of epic narrative rather
+    than a recurring symbolic or narrative motif.
+  cautions: Preserve as commentary if useful, but exclude from motif pattern queries
+    unless a specific passion-driven plot motif is identified.
+  suggested_aliases:
+  - universal_passions_in_epic
+  - epic_narrative_based_on_passions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-salvation-for-believers
+  motif_id: universal_salvation_for_believers
+  label: Universal salvation for believers
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Salvation after judgment or cosmic renewal concerns transformed postmortem
+    or eschatological life.
+  cautions: In Zoroastrian context this may involve final judgment, resurrection,
+    or world renewal; secondary mappings to divine_judgment, resurrection, or flood_and_renewal
+    may be needed.
+  suggested_aliases:
+  - salvation_for_believers
+  - universal_postmortem_salvation
+  - eschatological_salvation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universe-as-unified-body
+  motif_id: universe_as_unified_body
+  label: Universe as unified body
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The universe as one body expresses mystical unity and interrelation of
+    all beings, close to union and self-knowledge motifs.
+  cautions: Could be sacred_knowledge if framed as doctrine, cosmic_origin if used
+    in creation anthropology, or annihilation_union if tied to ego dissolution.
+  suggested_aliases:
+  - cosmos_as_body
+  - unified_cosmic_body
+  - universe_as_one_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are abstract philosophical or devotional themes with
+  single occurrences; human review should confirm passage evidence before treating
+  them as stable motif mappings.
+- Do not infer transmission or common origin from the Hermetic/Sufi/Sikh/Zoroastrian
+  unity or cosmic-praise placements; these are indexing suggestions only.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions generated for wave5c batch 4060; one meta-textual
+    exclusion and one human-review item flagged.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4060
+  input_sha256: 98f829761630fb58b970216526eafe7e6f2b6eea8e4069c29279f65691dadc8a
+

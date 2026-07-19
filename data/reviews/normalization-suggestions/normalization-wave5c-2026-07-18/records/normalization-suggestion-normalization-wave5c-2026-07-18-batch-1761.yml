@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1761
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.beloved-as-radiant-or-consuming-light
+  motif_id: beloved_as_radiant_or_consuming_light
+  label: Beloved as radiant or consuming light
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_beloved
+  suggested_group_label: Divine Beloved
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Radiant or consuming beloved imagery fits sacred beloved/longing language,
+    especially in Persian mystical poetics.
+  cautions: Single occurrence; if the beloved is purely human or erotic rather than
+    sacred, sacred_love may be the safer broader group.
+  suggested_aliases:
+  - beloved_as_radiant_light
+  - beloved_as_consuming_light
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-becomes-intangible-or-cloud-like
+  motif_id: beloved_becomes_intangible_or_cloud_like
+  label: beloved becomes intangible or cloud-like
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could indicate transformation, spirit departure, death, or elusive beloved
+    imagery, but the function is unclear from the label alone.
+  cautions: Culturally specific source context is needed; do not collapse into shapeshifter
+    or sacred_love without evidence of transformation or love-longing function.
+  suggested_aliases:
+  - cloud_like_beloved
+  - intangible_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-centered-conversation
+  motif_id: beloved_centered_conversation
+  label: Beloved-centered conversation
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a discourse topic or passage structure rather than
+    a distinct narrative or symbolic motif.
+  cautions: If the conversation functions as mystical instruction or revelation, remap
+    evidence to divine_beloved, sacred_love, or sacred_knowledge.
+  suggested_aliases:
+  - conversation_about_the_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-centered-ecstatic-lament
+  motif_id: beloved_centered_ecstatic_lament
+  label: Beloved-centered ecstatic lament
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_beloved
+  suggested_group_label: Divine Beloved
+  relationship: functional_variant
+  confidence: high
+  rationale: Ecstatic lament centered on the beloved fits Sufi divine beloved longing
+    and devotional transformation.
+  cautions: Could also support lament_and_mourning if grief rather than mystical longing
+    is primary.
+  suggested_aliases:
+  - ecstatic_lament_for_the_beloved
+  - beloved_lament_as_devotion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-champion-absent-from-the-lady-s-castle
+  motif_id: beloved_champion_absent_from_the_lady_s_castle
+  label: Beloved champion absent from the lady's castle
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be an episode-specific setting detail combining character
+    role, absence, and location.
+  cautions: If absence drives a quest or love ordeal, preserve as evidence under sacred_love
+    or hero_journey rather than as its own motif.
+  suggested_aliases:
+  - absent_beloved_champion
+  - champion_absent_from_lady_s_castle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-companion-as-final-vigil-keeper
+  motif_id: beloved_companion_as_final_vigil_keeper
+  label: beloved companion as final vigil keeper
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A loved companion keeping final vigil aligns with mourning, deathwatch,
+    and care for the dying or dead.
+  cautions: If the vigil is a formal mortuary rite, ancestor_rites or heroic_funeral_rites
+    may be relevant secondary groups.
+  suggested_aliases:
+  - beloved_companion_keeps_death_vigil
+  - final_vigil_by_beloved_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-companions-depart-one-by-one-before-the-speaker
+  motif_id: beloved_companions_depart_one_by_one_before_the_speaker
+  label: beloved companions depart one by one before the speaker
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence of companions departing before the speaker centers on loss,
+    grief, and survivor awareness.
+  cautions: In Sufi context, departure may be mystical passing-away or separation
+    from the divine; review for possible divine_beloved or annihilation_union mapping.
+  suggested_aliases:
+  - companions_depart_before_the_speaker
+  - survivor_laments_departed_companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-daughter-destroyed-by-horses
+  motif_id: beloved_daughter_destroyed_by_horses
+  label: beloved daughter destroyed by horses
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a highly specific violent death of kin; function could be
+    lament, fate, sacrifice, or episode detail.
+  cautions: Needs source evidence before mapping. Avoid treating horse-caused death
+    as a durable motif from one occurrence.
+  suggested_aliases:
+  - daughter_destroyed_by_horses
+  - beloved_child_killed_by_horses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-dies-while-the-suitor-is-absent-on-a-hunt
+  motif_id: beloved_dies_while_the_suitor_is_absent_on_a_hunt
+  label: Beloved dies while the suitor is absent on a hunt
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The death of the beloved during the lover's absence is a love-loss pattern
+    that can motivate grief or quest action.
+  cautions: Hunt detail is probably episode-specific; if the passage emphasizes mourning
+    more than love bond, map secondarily to lament_and_mourning.
+  suggested_aliases:
+  - beloved_dies_during_suitor_absence
+  - absent_suitor_returns_to_dead_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-domestic-animal-as-catalyst-for-communal-violence
+  motif_id: beloved_domestic_animal_as_catalyst_for_communal_violence
+  label: beloved domestic animal as catalyst for communal violence
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be animal attachment, provocation to violence, etiological conflict,
+    or local episode detail; no existing group clearly fits without context.
+  cautions: Do not map to sacred_combat solely because violence occurs; determine
+    whether the animal functions as sacred, beloved property, omen, or narrative trigger.
+  suggested_aliases:
+  - domestic_animal_triggers_communal_violence
+  - beloved_animal_as_violence_catalyst
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence love/lament phrases; preserve local
+  evidence but avoid promoting episode-specific wording.
+- Where Sufi or Persian beloved language appears, divine_beloved is preferred only
+  when sacred or mystical longing is likely from tradition/context.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several items need source-context review because
+    'beloved' may indicate human lover, kin, companion, or divine beloved depending
+    on passage.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1761
+  input_sha256: fda994fe178ac6bbe3251cce9ea50a92f9b7611d965a9ed272bc3380715bdfba
+

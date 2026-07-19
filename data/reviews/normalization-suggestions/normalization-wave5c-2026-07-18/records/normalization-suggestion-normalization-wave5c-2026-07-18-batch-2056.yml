@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2056
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-dispute-over-superiority-of-offspring
+  motif_id: animal_dispute_over_superiority_of_offspring
+  label: animal dispute over superiority of offspring
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads like an animal fable or debate motif, but no existing
+    group cleanly covers animal status contests over offspring.
+  cautions: Single occurrence; may be an episode-specific fable detail or literary
+    comparison rather than a durable mythic motif.
+  suggested_aliases:
+  - animal_boasting_over_offspring
+  - animal_parental_status_dispute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-distraction-leading-to-loss-of-wealth
+  motif_id: animal_distraction_leading_to_loss_of_wealth
+  label: animal distraction leading to loss of wealth
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal-caused distraction that produces loss fits trickster/fable
+    reversal logic, especially if deception or misdirection is central.
+  cautions: If the animal is incidental rather than an agent of trickery, this may
+    be too contextual for pattern queries.
+  suggested_aliases:
+  - animal_misdirection_causes_loss_of_wealth
+  - animal_trick_leads_to_loss_of_wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-doctor-exposes-hidden-killer
+  motif_id: animal_doctor_exposes_hidden_killer
+  label: Animal doctor exposes hidden killer
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines animal healer role, detection of hidden wrongdoing,
+    and possible justice; placement depends on passage function.
+  cautions: Could fit divine_judgment if exposure restores moral order, sacred_knowledge
+    if diagnostic insight is central, or a future animal-healer cluster if recurrent.
+  suggested_aliases:
+  - animal_healer_reveals_murderer
+  - animal_doctor_detects_hidden_killer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_knowledge
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-doctor-visited-by-humans-for-cures
+  motif_id: animal_doctor_visited_by_humans_for_cures
+  label: animal doctor visited by humans for cures
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Humans seeking cures from an animal doctor suggests animal-mediated healing
+    knowledge, but current groups lack a clear animal healer category.
+  cautions: Culturally specific healing roles need source review; avoid flattening
+    into generic divine_intervention unless sacred agency is explicit.
+  suggested_aliases:
+  - humans_seek_cures_from_animal_doctor
+  - animal_healer_visited_for_cures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-doctors-restore-a-broken-limb
+  motif_id: animal_doctors_restore_a_broken_limb
+  label: animal doctors restore a broken limb
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restoration of a broken limb by nonhuman animal doctors is a healing
+    intervention by extraordinary agents.
+  cautions: If the passage emphasizes animal medical knowledge rather than sacred
+    power, sacred_knowledge or a future animal-healer group may be better.
+  suggested_aliases:
+  - animal_healers_restore_broken_limb
+  - animal_doctors_heal_broken_limb
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-domains-of-valley-mountain-and-water
+  motif_id: animal_domains_of_valley_mountain_and_water
+  label: animal domains of valley, mountain, and water
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe cosmological classification of animals by sacred
+    landscape zones rather than a narrative motif.
+  cautions: Could belong under cosmic_origin, sacred_law, sacred_waters, or axis_mundi
+    depending on whether the passage is creation, ritual taxonomy, or cosmography.
+  suggested_aliases:
+  - animals_assigned_to_landscape_domains
+  - animal_domains_of_mountain_valley_and_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - axis_mundi
+    - sacred_waters
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-double-linked-to-wealth-or-prosperity
+  motif_id: animal_double_linked_to_wealth_or_prosperity
+  label: animal double linked to wealth or prosperity
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An animal double tied to prosperity could indicate an external soul,
+    tutelary spirit, or abundance-bringing animal, but the function is unclear.
+  cautions: Comparative label may be an analytic artifact; verify whether the animal
+    double controls a person's life, wealth, or household fortune.
+  suggested_aliases:
+  - prosperity_linked_animal_double
+  - animal_double_as_wealth_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - external_soul
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-drawn-sledge
+  motif_id: animal_drawn_sledge
+  label: Animal-drawn sledge
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to name a practical transport detail rather than a
+    symbolic or narrative motif.
+  cautions: If the sledge journey is ritually charged or otherworldly, preserve that
+    evidence under hero_journey or otherworld instead of this object label.
+  suggested_aliases:
+  - animal_drawn_sled
+  - sledge_pulled_by_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-dressed-as-human-decoy
+  motif_id: animal_dressed_as_human_decoy
+  label: animal dressed as human decoy
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Using an animal disguised as a human decoy is a deception or misdirection
+    strategy, fitting trickster logic.
+  cautions: If the disguise is primarily ritual hunting technology rather than narrative
+    deception, it may be an over-specific practical detail.
+  suggested_aliases:
+  - animal_decoy_disguised_as_human
+  - animal_used_as_human_decoy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-drive-through-artificial-figures
+  motif_id: animal_drive_through_artificial_figures
+  label: Animal drive through artificial figures
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This sounds like a hunting or herding technique involving decoys or figures
+    rather than a reusable mythic motif.
+  cautions: If artificial figures are animated, sacred, or deceptive agents in the
+    story, sacred_craft or trickster may be relevant after source review.
+  suggested_aliases:
+  - animal_drive_using_artificial_figures
+  - animal_herding_with_decoy_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch look like single-occurrence animal fable, hunting,
+  or healing details. Human review should distinguish narrative animal agency from
+  practical ethnographic description.
+- An animal-healer cluster may be worth watching, but this batch alone does not justify
+  a new canonical group.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages needed for culturally
+    specific animal-doctor and animal-domain labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2056
+  input_sha256: 2ff2c62f246b0cbfd2cd6cd84efb051c4991f3ec664adc9ac7730860b1013449
+

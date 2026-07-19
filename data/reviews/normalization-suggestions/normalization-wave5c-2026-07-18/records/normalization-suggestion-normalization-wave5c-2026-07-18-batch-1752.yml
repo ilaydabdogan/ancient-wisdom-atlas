@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1752
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-tormentors-threaten-concealed-children
+  motif_id: animal_tormentors_threaten_concealed_children
+  label: animal tormentors threaten concealed children
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: functional_variant
+  confidence: low
+  rationale: Threatened hidden children fit the broader persecuted-child pattern,
+    but animal tormentors may instead indicate animal trickster, monster, or local
+    tale structure.
+  cautions: Single occurrence; source evidence needed to determine whether child persecution,
+    animal hostility, or concealment is the primary motif.
+  suggested_aliases:
+  - threatened_concealed_children
+  - animal_threat_to_hidden_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-treated-as-a-child
+  motif_id: animal_treated_as_a_child
+  label: Animal treated as a child
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe adoption/kinship with an animal, totemic relation,
+    animal helper, or tale-specific family role; no current group clearly holds it.
+  cautions: Culturally sensitive kinship and animal-personhood concepts should not
+    be flattened into shapeshifter or miraculous child without passage evidence.
+  suggested_aliases:
+  - animal_as_child
+  - animal_child_kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - shapeshifter
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-veneration-as-expression-of-impersonal-natural-energy
+  motif_id: animal_veneration_as_expression_of_impersonal_natural_energy
+  label: animal veneration as expression of impersonal natural energy
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads like scholarly interpretation of animal veneration
+    rather than a narrative or ritual motif.
+  cautions: If source passages describe actual animal cult, divine animal form, or
+    ritual veneration, re-review under sacred_law, divine_intervention, or a future
+    animal-veneration group.
+  suggested_aliases:
+  - animal_veneration_interpretation
+  - animal_veneration_as_natural_energy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animals-playing-with-a-child-s-eye
+  motif_id: animals_playing_with_a_child_s_eye
+  label: Animals playing with a child’s eye
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a highly specific bodily-injury or dismemberment scene involving
+    animals and a child, not clearly covered by an existing broad group.
+  cautions: May be an episode detail, trickster/animal tale motif, violence against
+    a child, healing sequence, or transformation evidence; passage context is required.
+  suggested_aliases:
+  - child_eye_played_with_by_animals
+  - animals_handle_child_eye
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - jealous_stepmother_persecuted_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.annual-expulsion-of-human-or-personified-scapegoat
+  motif_id: annual_expulsion_of_human_or_personified_scapegoat
+  label: annual expulsion of human or personified scapegoat
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Annual expulsion of a human or personified scapegoat fits the existing
+    scapegoat, annual purification, and ritual expulsion complex under sacrifice.
+  cautions: Comparative label may be synthetic; preserve whether the source describes
+    an actual person, effigy, substitute, or personified harm.
+  suggested_aliases:
+  - annual_scapegoat_expulsion
+  - human_or_personified_scapegoat_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.another-person-s-heart-seized-and-tormented
+  motif_id: another_person_s_heart_seized_and_tormented
+  label: Another person's heart seized and tormented
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: low
+  rationale: A seized heart that affects another person may function like an externalized
+    vulnerable life-part, but the label alone is ambiguous.
+  cautions: Could be sympathetic magic, bodily torture, love affliction, or metaphorical
+    emotional torment; do not map to external_soul unless the heart controls life
+    or suffering at a distance.
+  suggested_aliases:
+  - heart_seized_and_tormented
+  - external_heart_torment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.anthropomorphic-personification-of-tree-species
+  motif_id: anthropomorphic_personification_of_tree_species
+  label: Anthropomorphic personification of tree species
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Tree species personified in human form fits plant-human transformation
+    or anthropomorphic nature-being imagery better than axis mundi unless the tree
+    is cosmic.
+  cautions: If the passage is merely allegorical taxonomy or literary personification,
+    consider excluding as commentary; if sacred tree function is central, axis_mundi
+    may be secondary.
+  suggested_aliases:
+  - tree_species_personified
+  - anthropomorphic_tree_personification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.anticipated-mourning-by-a-wife
+  motif_id: anticipated_mourning_by_a_wife
+  label: Anticipated mourning by a wife
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: medium
+  rationale: A wife’s expected or foreseen grief belongs with lament and mourning
+    around death or impending loss.
+  cautions: If the passage emphasizes marital fidelity, separation, or love beyond
+    death more than grief, sacred_love may be a secondary mapping.
+  suggested_aliases:
+  - wife_anticipates_mourning
+  - anticipated_widow_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.antidote-against-poison-or-venom
+  motif_id: antidote_against_poison_or_venom
+  label: Antidote against poison or venom
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: low
+  rationale: An antidote may be a healing substance, sacred medicine, or metaphorical
+    remedy, but current groups do not clearly cover poison-healing motifs.
+  cautions: In Sufi contexts it may be allegorical wisdom or love imagery rather than
+    literal medicinal substance; verify passage function before indexing.
+  suggested_aliases:
+  - poison_antidote
+  - venom_antidote
+  - healing_antidote
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - sacred_knowledge
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.apotropaic-fire-around-pregnancy-and-birth
+  motif_id: apotropaic_fire_around_pregnancy_and_birth
+  label: Apotropaic fire around pregnancy and birth
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A protective birth-related fire rite fits apotropaic protection and ritual
+    purity patterns already folded under sacred_law.
+  cautions: Zoroastrian fire symbolism may also support sacred_fire; use sacred_law
+    when the rite’s protective regulation is primary, sacred_fire when divine fire
+    presence is primary.
+  suggested_aliases:
+  - birth_apotropaic_fire
+  - protective_fire_around_birth
+  - pregnancy_birth_fire_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and animal/child/body specific;
+  source context is needed before promoting any new group.
+- Avoid treating animal-person kinship or veneration as generic animal symbolism without
+  culturally specific review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft provisional placements only; human review recommended for culturally
+    sensitive animal-personhood, body-part, and comparative ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1752
+  input_sha256: b5210359a5e9ade1078ad52fe3609952a5b6a510506eb0972eea110e6afa1dc4
+

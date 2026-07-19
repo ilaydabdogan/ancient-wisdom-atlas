@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1443
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.slanderer-punished-by-the-victim-s-counter-speech
+  motif_id: slanderer_punished_by_the_victim_s_counter_speech
+  label: Slanderer punished by the victim's counter-speech
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is effective counter-speech that reverses or punishes
+    slander through a performative utterance.
+  cautions: Could also fit divine_judgment if punishment is imposed by a god or court
+    rather than by the speech act itself.
+  suggested_aliases:
+  - counter_speech_punishes_slander
+  - slander_reversed_by_performative_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleep-s-secluded-cave-of-drowsiness-and-dreams
+  motif_id: sleep_s_secluded_cave_of_drowsiness_and_dreams
+  label: Sleep's secluded cave of drowsiness and dreams
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns a mythic dream/sleep locale, but may be literary description
+    rather than a recurring narrative function.
+  cautions: Could map to dream_and_vision, cave/descent, or _meta_textual depending
+    on whether the passage uses the cave as a functional dream-source, liminal space,
+    or poetic setting only.
+  suggested_aliases:
+  - cave_of_sleep_and_dreams
+  - secluded_sleep_cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sleeping-maiden-drowned-by-named-flood-or-wave
+  motif_id: sleeping_maiden_drowned_by_named_flood_or_wave
+  label: sleeping maiden drowned by named flood or wave
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a single episode detail combining character state,
+    victim type, named water event, and death outcome.
+  cautions: If the named flood is etiological or world-renewing, review for flood_and_renewal
+    or cosmic_origin; if it is only a drowning episode, preserve as evidence note
+    rather than pattern facet.
+  suggested_aliases:
+  - sleeping_woman_drowned_by_wave
+  - maiden_drowned_by_named_flood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-animal-revealed-as-source-of-powerful-supernatural-seeming-song
+  motif_id: small_animal_revealed_as_source_of_powerful_supernatural_seeming_song
+  label: Small animal revealed as source of powerful supernatural-seeming song
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on song as a supernatural-seeming power, with the animal
+    source as local narrative detail.
+  cautions: If the point is comic revelation or animal trickery rather than sound
+    power, trickster may be a secondary or better placement.
+  suggested_aliases:
+  - small_animal_source_of_supernatural_song
+  - animal_source_of_powerful_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.small-birds-subduing-dangerous-waters-by-song
+  motif_id: small_birds_subduing_dangerous_waters_by_song
+  label: small birds subduing dangerous waters by song
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: Song acts as a supernatural force that controls or pacifies dangerous
+    natural waters.
+  cautions: Secondary relation to sacred_waters may be useful; do not map to flood_and_renewal
+    unless catastrophic destruction and renewal are present.
+  suggested_aliases:
+  - birds_subdue_waters_by_song
+  - song_pacifies_dangerous_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sneeze-as-sign-of-being-named-by-kin-or-companion
+  motif_id: sneeze_as_sign_of_being_named_by_kin_or_companion
+  label: sneeze as sign of being named by kin or companion
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: A bodily sign triggered by naming could function as omen, recognition,
+    or speech-power, but the label lacks context.
+  cautions: May fit recognition_tokens_hidden_identity if it proves identity or kinship,
+    curse_blessing_speech if naming has performative force, or may be an over-specific
+    ethnographic detail.
+  suggested_aliases:
+  - sneeze_as_naming_omen
+  - sneeze_sign_when_named
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.social-dance-song-as-communal-gathering-performance
+  motif_id: social_dance_song_as_communal_gathering_performance
+  label: social dance song as communal gathering performance
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a communal performance form, but its mythic
+    or ritual function is not specified.
+  cautions: Could fit sacred_exchange, sacred_time, storytelling_as_power, or enchanting_music
+    only if the song has ritual, narrative, or supernatural function; otherwise may
+    be a performance-context note.
+  suggested_aliases:
+  - communal_social_dance_song
+  - dance_song_for_communal_gathering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.social-order-exalted-through-filial-teaching
+  motif_id: social_order_exalted_through_filial_teaching
+  label: social order exalted through filial teaching
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Filial instruction upholding social order fits ethical teaching and sacred/social
+    law already grouped under sacred_law.
+  cautions: If the passage emphasizes wisdom pedagogy rather than norm enforcement,
+    sacred_knowledge may be a secondary relation.
+  suggested_aliases:
+  - filial_teaching_upholds_social_order
+  - filial_instruction_as_social_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.society-song-attributed-to-a-named-singer
+  motif_id: society_song_attributed_to_a_named_singer
+  label: society song attributed to a named singer
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Attribution of a song to a named performer looks like provenance or cataloging
+    metadata rather than a symbolic motif.
+  cautions: If the named singer is a mythic culture hero or the attribution explains
+    ritual authority, review for storytelling_as_power, sacred_knowledge, or culture_hero
+    instead.
+  suggested_aliases:
+  - named_singer_attribution_for_society_song
+  - song_attributed_to_named_performer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.society-song-sung-in-battle
+  motif_id: society_song_sung_in_battle
+  label: Society song sung in battle
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A society song used in battle is best treated as a ritualized warfare
+    practice rather than general song power.
+  cautions: If the song supernaturally affects enemies, morale, or protection, enchanting_music
+    or divine_warrior may be relevant secondary mappings.
+  suggested_aliases:
+  - battle_society_song
+  - war_song_of_a_society
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several song labels need source review to distinguish ordinary performance metadata
+  from supernatural sound power or ritual warfare function.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions; items with single occurrence and performance/provenance
+    wording should be checked against source passages before indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1443
+  input_sha256: 5041a761ebf80e405f254d1969d52d3779aae2ae545fff5efaf472175eb0f8ac
+

@@ -1,0 +1,311 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1917
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.missing-person-associated-with-mute-scattered-remains
+  motif_id: missing_person_associated_with_mute_scattered_remains
+  label: missing person associated with mute scattered remains
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests death, dismemberment, or evidentiary remains, but
+    the narrative function is unclear from wording alone.
+  cautions: Single occurrence; may be an episode-specific clue, mourning motif, corpse-transformation
+    motif, or passage artifact rather than a reusable motif.
+  suggested_aliases:
+  - mute scattered remains
+  - missing person and scattered remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-father-call-to-a-dangerous-captor
+  motif_id: mistaken_father_call_to_a_dangerous_captor
+  label: mistaken father-call to a dangerous captor
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kinship misrecognition and danger from a captor, but
+    does not reveal a stable symbolic or narrative function.
+  cautions: Could involve deception, mistaken identity, child danger, or abduction;
+    source evidence is needed before mapping to recognition, trickster, or family-persecution
+    groups.
+  suggested_aliases:
+  - mistaken kinship address to captor
+  - dangerous captor mistaken for father
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - trickster
+    - jealous_stepmother_persecuted_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-gesture-taken-as-marriage-consent
+  motif_id: mistaken_gesture_taken_as_marriage_consent
+  label: mistaken gesture taken as marriage consent
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif concerns marriage choice or consent, which is already covered
+    in the sacred_love group through bride-choice and marriage-choice variants.
+  cautions: Single occurrence; if the passage centers on legal validity or social
+    custom rather than love/marriage narrative, sacred_law may be a secondary review
+    option.
+  suggested_aliases:
+  - misread gesture as marriage consent
+  - accidental marriage consent by gesture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-identity-through-a-personal-object
+  motif_id: mistaken_identity_through_a_personal_object
+  label: Mistaken identity through a personal object
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A personal object functioning to identify or misidentify a person fits
+    the recognition-token and hidden-identity complex.
+  cautions: Preserve that this is mistaken rather than successful recognition; if
+    the object is primarily magical or authoritative, sacred_treasures may be secondary.
+  suggested_aliases:
+  - misrecognition through personal token
+  - personal object causes mistaken identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistreated-stepchild-gains-power-after-hidden-animal-kill
+  motif_id: mistreated_stepchild_gains_power_after_hidden_animal_kill
+  label: mistreated stepchild gains power after hidden animal kill
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: jealous_stepmother_persecuted_child
+  suggested_group_label: Jealous Stepmother and Persecuted Child
+  relationship: functional_variant
+  confidence: medium
+  rationale: The central role is a mistreated stepchild whose suffering leads to empowerment,
+    fitting the persecuted-child household complex.
+  cautions: The hidden animal kill may carry separate transformation, hunting, or
+    power-transfer meaning; review before collapsing all details into the stepchild
+    motif.
+  suggested_aliases:
+  - persecuted stepchild gains power
+  - mistreated stepchild empowered after animal killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_treasures
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistreated-wife-appealing-to-celestial-witnesses
+  motif_id: mistreated_wife_appealing_to_celestial_witnesses
+  label: mistreated wife appealing to celestial witnesses
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Appeal to celestial witnesses frames mistreatment as a moral case before
+    cosmic or divine judgment.
+  cautions: Could also fit sacred_law if the passage emphasizes social order or kinship
+    ethics rather than supernatural witnessing.
+  suggested_aliases:
+  - appeal to celestial witnesses after mistreatment
+  - wronged wife invokes heavenly witnesses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - duality
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistreated-wife-seeks-protection-from-brothers
+  motif_id: mistreated_wife_seeks_protection_from_brothers
+  label: mistreated wife seeks protection from brothers
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes kin protection after mistreatment, but no existing
+    group cleanly covers wife-protection by brothers as a recurring motif.
+  cautions: May be a culturally specific social episode, family-law motif, vengeance
+    trigger, or passage detail; source context is needed.
+  suggested_aliases:
+  - wronged wife seeks brothers' protection
+  - brothers protect mistreated sister
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mixed-human-frog-children-rejected-and-then-recognized-by-kin
+  motif_id: mixed_human_frog_children_rejected_and_then_recognized_by_kin
+  label: mixed human-frog children rejected and then recognized by kin
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mixed human-animal children belong to the human-animal boundary and transformation
+    complex, with recognition by kin as a secondary function.
+  cautions: Could also support recognition_tokens_hidden_identity or miraculous_child
+    depending on whether the passage emphasizes kin recognition, birth, or species
+    hybridity.
+  suggested_aliases:
+  - human-frog children recognized by kin
+  - rejected hybrid children later recognized
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mixed-parentage-produces-divided-traits
+  motif_id: mixed_parentage_produces_divided_traits
+  label: mixed parentage produces divided traits
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Divided traits produced by mixed parentage express dual identity or complementary/opposed
+    inheritance.
+  cautions: If the passage involves divine or supernatural parentage, miraculous_child
+    or divine_parent_child may be better; if purely moral/psychological, review as
+    contextual teaching.
+  suggested_aliases:
+  - dual traits from mixed parentage
+  - divided nature from mixed ancestry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - sacred_twins
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mnemonic-personification-and-punning-of-numbers
+  motif_id: mnemonic_personification_and_punning_of_numbers
+  label: Mnemonic personification and punning of numbers
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a mnemonic, punning, or classification device rather
+    than a narrative or symbolic motif.
+  cautions: If a source myth actually personifies numbers as agents, human review
+    could remap to sacred_knowledge or storytelling_as_power; otherwise exclude from
+    motif queries.
+  suggested_aliases:
+  - number punning as mnemonic
+  - mnemonic personification of numbers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence family or body-related episode
+  labels; preserve local evidence notes and avoid promoting them without recurrence.
+- For kinship-mistreatment items, distinguish moral/legal social order from love/marriage
+  narrative and from household persecution motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages needed for low-confidence kinship
+    and remains-related labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1917
+  input_sha256: 5dea3704d321c07f9d4579d1ce54a26d086ab64eaaa35fe105cacbc21586aa38
+

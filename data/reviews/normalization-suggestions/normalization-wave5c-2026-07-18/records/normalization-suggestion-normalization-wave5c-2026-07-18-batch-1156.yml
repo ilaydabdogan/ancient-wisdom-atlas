@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1156
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-text-installed-and-ritually-recited
+  motif_id: sacred_text_installed_and_ritually_recited
+  label: Sacred text installed and ritually recited
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The sacred text functions as a ritually handled and recited vehicle of
+    sacred knowledge.
+  cautions: May also involve sacred_exchange or theophany if the text is treated as
+    active divine presence; Sikh-specific textual embodiment should be reviewed carefully.
+  suggested_aliases:
+  - ritual_installation_and_recitation_of_sacred_text
+  - enthroned_sacred_text_recitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-text-literacy-as-religious-identity-marker
+  motif_id: sacred_text_literacy_as_religious_identity_marker
+  label: Sacred text literacy as religious identity marker
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: Literacy in sacred text concerns transmission and religious knowledge,
+    but the label may describe social identity rather than a narrative motif.
+  cautions: Could be a sociological or passage-level observation rather than a reusable
+    motif; review whether source evidence describes a recurring ritual or identity
+    practice.
+  suggested_aliases:
+  - scriptural_literacy_as_identity_marker
+  - sacred_literacy_as_religious_belonging
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-text-organized-into-ordered-portions
+  motif_id: sacred_text_organized_into_ordered_portions
+  label: Sacred text organized into ordered portions
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes textual organization or editorial structure rather
+    than a symbolic or narrative motif.
+  cautions: Preserve as textual metadata if useful for provenance; only remap if passage
+    emphasizes ritual recitation cycles or sacred ordering as religious practice.
+  suggested_aliases:
+  - ordered_portions_of_sacred_text
+  - scriptural_division_into_portions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-textual-enumeration-and-preservation
+  motif_id: sacred_textual_enumeration_and_preservation
+  label: sacred textual enumeration and preservation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Enumeration and preservation of a sacred text reads primarily as textual
+    transmission or codicological metadata.
+  cautions: If the source frames preservation as a miracle, divine protection, or
+    sacred knowledge practice, human reviewers may choose sacred_knowledge instead.
+  suggested_aliases:
+  - scriptural_enumeration_and_preservation
+  - preservation_of_numbered_sacred_text
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-textual-transmission-and-authorized-translation
+  motif_id: sacred_textual_transmission_and_authorized_translation
+  label: Sacred textual transmission and authorized translation
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label focuses on transmission and authorized translation, which are
+    textual-history features rather than motifs.
+  cautions: Could be sacred_knowledge if the passage narrates divine authorization,
+    revelation, or translation as a sacred event; avoid making transmission claims
+    here.
+  suggested_aliases:
+  - authorized_translation_of_sacred_text
+  - sacred_text_transmission_and_translation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-threshold-for-the-righteous
+  motif_id: sacred_threshold_for_the_righteous
+  label: Sacred threshold for the righteous
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on a sacred boundary that admits or marks the righteous,
+    fitting threshold passage logic.
+  cautions: If this is a temple gate, moral boundary, or afterlife entrance, secondary
+    mappings to sacred_law, divine_judgment, or afterlife_passage may be needed.
+  suggested_aliases:
+  - righteous_enter_sacred_gate
+  - threshold_of_the_righteous
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-thunder-objects-from-rain-makers-game
+  motif_id: sacred_thunder_objects_from_rain_makers_game
+  label: Sacred thunder objects from rain-makers' game
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: Thunder objects may be sacred power objects, but the rain-maker game
+    context is culturally specific and unclear from the label alone.
+  cautions: Requires source-sensitive review; may involve weather ritual, sacred play,
+    rainmaking, or mythic object origin not cleanly covered by existing groups.
+  suggested_aliases:
+  - thunder_power_objects_from_rainmaking_game
+  - rain_maker_game_generates_sacred_thunder_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-time-requiring-prior-preparation-and-boundary-observance
+  motif_id: sacred_time_requiring_prior_preparation_and_boundary_observance
+  label: Sacred time requiring prior preparation and boundary observance
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif concerns ritual preparation and boundary observance for a sacred
+    time period.
+  cautions: Could also index to sacred_law if the passage emphasizes legal prohibitions
+    more than calendrical sacred time.
+  suggested_aliases:
+  - preparation_for_sacred_time
+  - boundary_observance_before_sacred_time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-to-barbarous-reversal
+  motif_id: sacred_to_barbarous_reversal
+  label: Sacred-to-barbarous reversal
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too abstract to determine whether it describes decline,
+    inversion, judgment, or commentary.
+  cautions: May fit world_ages_cosmic_decline, divine_judgment, pride_and_downfall,
+    or a textual/philosophical observation depending on passage evidence.
+  suggested_aliases:
+  - reversal_from_sacred_order_to_barbarism
+  - sacred_order_degrades_into_barbarism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-tobacco-in-ceremony
+  motif_id: sacred_tobacco_in_ceremony
+  label: Sacred tobacco in ceremony
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Tobacco used ceremonially is a sacred plant or substance in ritual practice.
+  cautions: Culturally sensitive and local; may also relate to sacred_exchange, sacrifice,
+    or prayer depending on offering, smoke, or communion function.
+  suggested_aliases:
+  - ceremonial_sacred_tobacco
+  - ritual_use_of_sacred_tobacco
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern sacred texts; distinguish ritualized scriptural
+  presence from textual-organization or transmission metadata.
+- For culturally specific Indigenous ceremonial labels, keep placement provisional
+  and require source-sensitive human review before canonical promotion.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1156
+  input_sha256: b445a61123e9a09361447a23ffea1a54da2092153b13981cdd79f3226800d030
+

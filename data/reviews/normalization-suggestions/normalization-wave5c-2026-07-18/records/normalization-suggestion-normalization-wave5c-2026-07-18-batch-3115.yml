@@ -1,0 +1,307 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3115
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.body-lying-in-the-east
+  motif_id: body_lying_in_the_east
+  label: body lying in the east
+  occurrences: 2
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Directional placement of a body may be mortuary ritual, cosmological
+    geography, or passage-specific description.
+  cautions: Needs source evidence before mapping to ancestor_rites, afterlife_passage,
+    sacred_law, or sacred_geography; culturally specific mortuary practice should
+    not be generalized from label alone.
+  suggested_aliases:
+  - eastward body placement
+  - mortuary body orientation to the east
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-figure
+  motif_id: cannibal_figure
+  label: Cannibal figure
+  occurrences: 2
+  traditions:
+  - arctic-inuit
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A cannibal figure could be monster, taboo transgressor, hunger spirit,
+    ogre, or social threat depending on narrative role.
+  cautions: Existing groups lack a clear monster/cannibal category; avoid forcing
+    into trickster, chaos, or divine_judgment without passage evidence and review
+    culturally specific meanings carefully.
+  suggested_aliases:
+  - cannibal being
+  - cannibal monster
+  - anthropophagous figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-consent-by-silence
+  motif_id: communal_consent_by_silence
+  label: communal consent by silence
+  occurrences: 2
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Silence functioning as consent is a procedural rule establishing communal
+    religious or social order.
+  cautions: May be monastic/legal procedure rather than mythic motif; if merely textual
+    rule commentary, consider exclusion from pattern queries.
+  suggested_aliases:
+  - silence as communal assent
+  - consent by silence
+  - assembly silence as approval
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiology-of-raven-s-black-color
+  motif_id: etiology_of_raven_s_black_color
+  label: Etiology of Raven’s black color
+  occurrences: 2
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explains the origin of an animal feature, fitting etiological
+    origin patterns already grouped under cosmic_origin.
+  cautions: Could belong under a future animal-etiology or trickster-raven group if
+    many similar labels recur; preserve Raven specificity and do not reduce to generic
+    creation if trickster action is central.
+  suggested_aliases:
+  - raven black color etiology
+  - origin of raven's black color
+  - animal color etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extraordinary-companions-with-specialized-powers
+  motif_id: extraordinary_companions_with_specialized_powers
+  label: extraordinary companions with specialized powers
+  occurrences: 2
+  traditions:
+  - germanic
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Extraordinary Companions and Specialized Helpers
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif describes a recurring helper-band structure not covered by
+    existing divine_intervention or animal_helpers groups.
+  cautions: Review whether companions are human, animal, divine, magical, or comic
+    helpers; could otherwise be a hero_journey child when tied to a quest sequence.
+  suggested_aliases:
+  - magical companions with special powers
+  - extraordinary helpers
+  - specialized quest companions
+  suggested_new_group:
+    id: extraordinary_helpers
+    label: Extraordinary Helpers and Specialized Companions
+    description: Companions or helpers with distinct extraordinary abilities join
+      a protagonist and enable tasks, quests, escapes, or victories through their
+      specialized powers.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - divine_intervention
+    - sacred_combat
+    - trickster
+    reason_existing_groups_insufficient: Existing groups cover divine aid, animal
+      helpers, and hero journey broadly, but not the recurrent narrative structure
+      of a team of specialized extraordinary companions.
+- suggestion_id: normalization.suggestion.fatal-visit-to-a-hostile-court
+  motif_id: fatal_visit_to_a_hostile_court
+  label: fatal visit to a hostile court
+  occurrences: 2
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A visit to an enemy court ending in death likely functions as heroic
+    conflict, feud, or courtly warfare episode.
+  cautions: Could also be betrayal_violated_trust, death_by_fate, or royal_legitimacy
+    depending on whether the emphasis is treachery, doomed destiny, or court politics.
+  suggested_aliases:
+  - doomed visit to hostile court
+  - fatal journey to enemy court
+  - court visit ending in death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feeding-a-raven
+  motif_id: feeding_a_raven
+  label: feeding a raven
+  occurrences: 2
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Feeding Raven may be sacred exchange, trickster interaction, animal care,
+    or episode detail depending on narrative function.
+  cautions: Raven is culturally significant in Northwest Coast traditions; do not
+    map to generic animal or trickster categories without source context.
+  suggested_aliases:
+  - raven fed
+  - feeding Raven
+  - food given to raven
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.finality-of-settled-dispute
+  motif_id: finality_of_settled_dispute
+  label: finality of settled dispute
+  occurrences: 2
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a procedural or ethical rule securing social order
+    after adjudication.
+  cautions: May be legal commentary rather than a narrative motif; if it does not
+    appear as an enacted story pattern, exclude or keep as doctrinal evidence.
+  suggested_aliases:
+  - settled dispute is final
+  - finality of adjudication
+  - dispute settlement closure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-directional-thunder-beings
+  motif_id: four_directional_thunder_beings
+  label: four directional Thunder beings
+  occurrences: 2
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Directional thunder beings may encode cosmological order, weather powers,
+    sacred geography, or divine personification.
+  cautions: Culturally specific sacred beings require careful source review; current
+    groups do not cleanly distinguish directional cosmology from divine intervention
+    or nature personification.
+  suggested_aliases:
+  - thunder beings of the four directions
+  - four directional thunder powers
+  - directional thunder spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giant-footprints
+  motif_id: giant_footprints
+  label: giant footprints
+  occurrences: 2
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: low
+  rationale: Giant footprints often explain landscape features or traces of primordial/heroic
+    beings, fitting etiological landscape-origin patterns.
+  cautions: If the footprints are only a place detail or proof of a giant figure without
+    etiological function, treat as over-specific or review for exclusion.
+  suggested_aliases:
+  - giant footprint etiology
+  - primordial footprints in landscape
+  - landscape marked by giant footprints
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are culturally specific or ritual/legal rather than
+  narrative; human review should check passage evidence before broad indexing.
+- 'Potential taxonomy gap: monster/cannibal figures and extraordinary helper-bands
+  are not cleanly represented by current broad groups.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional machine suggestions only; source passages needed for culturally
+    specific mortuary, Raven, thunder-being, and cannibal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3115
+  input_sha256: 147693af149358343401254dd0957f0599ff42f99b8bea27bc7854d123ea919c
+

@@ -1,0 +1,330 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2016
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unsuccessful-love-affair-as-illustrative-episode
+  motif_id: unsuccessful_love_affair_as_illustrative_episode
+  label: Unsuccessful love-affair as illustrative episode
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'as illustrative episode' reads like a narrative or commentary
+    function rather than a reusable motif.
+  cautions: If the source evidence centers on thwarted sacred love, bride choice,
+    or tragic longing, remap to sacred_love as an evidence detail.
+  suggested_aliases:
+  - failed_love_affair_episode
+  - unsuccessful_love_episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsuited-bride-transferred-to-an-elder-hero
+  motif_id: unsuited_bride_transferred_to_an_elder_hero
+  label: Unsuited bride transferred to an elder hero
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe marriage transfer, bride exchange, comic mismatch,
+    or a passage-specific plot resolution.
+  cautions: Could fit sacred_love if bride-choice or marriage arrangement is central,
+    but source context is needed because the wording is culturally and narratively
+    specific.
+  suggested_aliases:
+  - bride_transferred_to_elder_hero
+  - unsuitable_bride_reassigned
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unwilling-bride-compelled-by-kin-and-wealth
+  motif_id: unwilling_bride_compelled_by_kin_and_wealth
+  label: Unwilling bride compelled by kin and wealth
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: An unwilling bride pressured by kin and wealth belongs with marriage-choice
+    and bride-agency patterns already housed under sacred_love.
+  cautions: If the passage emphasizes legal coercion, kinship politics, or property
+    exchange more than love or bride choice, sacred_law or covenant may be secondary
+    review options.
+  suggested_aliases:
+  - coerced_bride_by_kin_and_wealth
+  - bride_compelled_by_family_and_bridewealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unwilling-bride-in-enemy-household
+  motif_id: unwilling_bride_in_enemy_household
+  label: Unwilling bride in enemy household
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns a constrained bride within a hostile marriage or household
+    situation, adjacent to bride-choice and captive-beloved patterns under sacred_love.
+  cautions: May also involve feud, captivity, or violated alliance; review source
+    evidence before treating it as primarily a love motif.
+  suggested_aliases:
+  - unwilling_bride_in_hostile_household
+  - captive_bride_in_enemy_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unwitting-cannibal-feast-of-one-s-own-child
+  motif_id: unwitting_cannibal_feast_of_one_s_own_child
+  label: unwitting cannibal feast of one's own child
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Unwitting Cannibal Kin-Feast
+  relationship: child
+  confidence: medium
+  rationale: 'This is a recurrent and distinctive atrocity/revenge pattern: a person
+    unknowingly eats kin, often a child, before revelation.'
+  cautions: Do not collapse into sacrifice or sacred_substance; the key function is
+    horrific kin-consumption and exposure, often tied to vengeance or violated household
+    order.
+  suggested_aliases:
+  - unwitting_cannibalism_of_kin
+  - unknowing_feast_on_one_s_child
+  - kin_cannibalism_before_revelation
+  suggested_new_group:
+    id: unwitting_cannibal_kin_feast
+    label: Unwitting Cannibal Kin-Feast
+    description: A person unknowingly consumes a child, kin member, lover, or their
+      own flesh, with later revelation producing horror, vengeance, pollution, or
+      moral reckoning.
+    parent_group_ids:
+    - betrayal_violated_trust
+    - divine_judgment
+    related_group_ids:
+    - sacred_law
+    - sacred_combat
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing groups cover betrayal, judgment,
+      food, and family themes, but none preserve the distinctive narrative structure
+      of unknowing cannibal consumption of kin followed by exposure.
+- suggestion_id: normalization.suggestion.unwitting-cannibal-meal-within-the-family
+  motif_id: unwitting_cannibal_meal_within_the_family
+  label: Unwitting cannibal meal within the family
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Unwitting Cannibal Kin-Feast
+  relationship: child
+  confidence: medium
+  rationale: The label matches the same distinctive pattern of unknowingly eating
+    family members in a charged household setting.
+  cautions: Human review should determine whether this is revenge, taboo violation,
+    famine extremity, or tragic deception in the source passage.
+  suggested_aliases:
+  - unwitting_family_cannibal_meal
+  - unknowing_cannibalism_within_the_family
+  suggested_new_group:
+    id: unwitting_cannibal_kin_feast
+    label: Unwitting Cannibal Kin-Feast
+    description: A person unknowingly consumes a child, kin member, lover, or their
+      own flesh, with later revelation producing horror, vengeance, pollution, or
+      moral reckoning.
+    parent_group_ids:
+    - betrayal_violated_trust
+    - divine_judgment
+    related_group_ids:
+    - sacred_law
+    - sacred_combat
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing groups cover betrayal, judgment,
+      food, and family themes, but none preserve the distinctive narrative structure
+      of unknowing cannibal consumption of kin followed by exposure.
+- suggestion_id: normalization.suggestion.unwitting-child-reveals-hidden-avengers
+  motif_id: unwitting_child_reveals_hidden_avengers
+  label: Unwitting child reveals hidden avengers
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a highly specific plot device in a revenge episode rather
+    than a broad symbolic motif.
+  cautions: If similar child-disclosure or hidden-avenger scenes recur, review under
+    sacred_combat or betrayal_violated_trust; otherwise preserve only as episode evidence.
+  suggested_aliases:
+  - child_accidentally_reveals_avengers
+  - unwitting_revelation_of_hidden_avengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unwitting-consumption-of-a-person-s-own-flesh-and-exposure
+  motif_id: unwitting_consumption_of_a_person_s_own_flesh_and_exposure
+  label: Unwitting consumption of a person's own flesh and exposure
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Unwitting Cannibal Kin-Feast
+  relationship: functional_variant
+  confidence: medium
+  rationale: Although the consumed flesh is the person's own rather than kin, the
+    structure of unknowing cannibal consumption followed by exposure is the same distinctive
+    complex.
+  cautions: Culturally sensitive; review source evidence carefully and avoid overgeneralizing
+    ritual, punishment, or trickster contexts from the label alone.
+  suggested_aliases:
+  - unwitting_self_cannibalism_and_exposure
+  - unknowing_consumption_of_own_flesh
+  suggested_new_group:
+    id: unwitting_cannibal_kin_feast
+    label: Unwitting Cannibal Kin-Feast
+    description: A person unknowingly consumes a child, kin member, lover, or their
+      own flesh, with later revelation producing horror, vengeance, pollution, or
+      moral reckoning.
+    parent_group_ids:
+    - betrayal_violated_trust
+    - divine_judgment
+    related_group_ids:
+    - sacred_law
+    - sacred_combat
+    - trickster
+    reason_existing_groups_insufficient: Existing groups cover betrayal, judgment,
+      food, and family themes, but none preserve the distinctive narrative structure
+      of unknowing cannibal consumption followed by exposure.
+- suggestion_id: normalization.suggestion.unwitting-consumption-of-one-s-children
+  motif_id: unwitting_consumption_of_one_s_children
+  label: unwitting consumption of one's children
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Unwitting Cannibal Kin-Feast
+  relationship: child
+  confidence: medium
+  rationale: Unknowingly eating one's children is a close variant of the proposed
+    kin-cannibal feast pattern.
+  cautions: Review whether the passage emphasizes revenge, divine punishment, household
+    betrayal, or taboo pollution; those functions may support secondary mappings.
+  suggested_aliases:
+  - unknowing_consumption_of_children
+  - unwitting_cannibalism_of_one_s_children
+  suggested_new_group:
+    id: unwitting_cannibal_kin_feast
+    label: Unwitting Cannibal Kin-Feast
+    description: A person unknowingly consumes a child, kin member, lover, or their
+      own flesh, with later revelation producing horror, vengeance, pollution, or
+      moral reckoning.
+    parent_group_ids:
+    - betrayal_violated_trust
+    - divine_judgment
+    related_group_ids:
+    - sacred_law
+    - sacred_combat
+    - lament_and_mourning
+    reason_existing_groups_insufficient: Existing groups cover betrayal, judgment,
+      food, and family themes, but none preserve the distinctive narrative structure
+      of unknowing cannibal consumption of kin followed by exposure.
+- suggestion_id: normalization.suggestion.unwitting-eating-of-the-animal-lover
+  motif_id: unwitting_eating_of_the_animal_lover
+  label: Unwitting eating of the animal lover
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal spouse/lover, unwitting consumption, and possible
+    transformation or taboo violation; existing group fit depends on source evidence.
+  cautions: Could map to sacred_love, shapeshifter, sacred_law, or the proposed unwitting
+    cannibal kin-feast group; culturally sensitive animal-lover context requires human
+    review.
+  suggested_aliases:
+  - unknowing_consumption_of_animal_spouse
+  - unwitting_eating_of_animal_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch cluster around coerced or unwilling brides; current
+  sacred_love can hold bride-choice variants, but a future forced-marriage or bride-agency
+  subgroup may be warranted if many recur.
+- Multiple independent labels describe unwitting cannibal consumption of children,
+  kin, or self followed by revelation. Existing groups do not preserve that structure,
+  so a provisional new group candidate is suggested for taxonomy review.
+- Avoid treating all food-consumption labels as sacred_substance; these labels function
+  mainly as betrayal, horror, taboo, or revenge episodes.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed for culturally
+    sensitive cannibalism and animal-lover labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2016
+  input_sha256: 2e9b836d3faffd3edf3e4903b9ef55b005bae9dbcd631e7966b322a93db4c75d
+

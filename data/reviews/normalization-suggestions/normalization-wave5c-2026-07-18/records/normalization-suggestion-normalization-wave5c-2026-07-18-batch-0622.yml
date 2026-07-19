@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0622
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.smoke-and-fire-preserve-provisions-for-a-journey
+  motif_id: smoke_and_fire_preserve_provisions_for_a_journey
+  label: Smoke and fire preserve provisions for a journey
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a practical travel-provision detail rather than a
+    recurrent symbolic or narrative motif.
+  cautions: If fire preservation has ritual or sacred mediation in the passage, review
+    under sacred_fire or hero_journey; otherwise preserve only as evidence detail.
+  suggested_aliases:
+  - provisions_preserved_by_smoke_and_fire
+  - journey_food_preserved_by_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.smoke-signal-requesting-help
+  motif_id: smoke_signal_requesting_help
+  label: Smoke signal requesting help
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A smoke signal may be communication, distress call, travel episode, or
+    culturally specific practice, but no existing group clearly fits from the label
+    alone.
+  cautions: Avoid treating a practical communication method as sacred_fire unless
+    the passage frames smoke/fire as sacred or supernatural.
+  suggested_aliases:
+  - distress_smoke_signal
+  - smoke_signal_for_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.snowmelt-moisture-as-refreshment-during-travel
+  motif_id: snowmelt_moisture_as_refreshment_during_travel
+  label: snowmelt moisture as refreshment during travel
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: This appears to be a localized travel-survival detail rather than a durable
+    motif.
+  cautions: If the water is miraculously provided or ritually purifying, review under
+    sacred_waters or divine_intervention.
+  suggested_aliases:
+  - snowmelt_refreshment_on_journey
+  - travel_refreshment_from_snowmelt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.social-status-distinguished-from-consanguineal-kinship
+  motif_id: social_status_distinguished_from_consanguineal_kinship
+  label: Social status distinguished from consanguineal kinship
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an anthropological social-structure distinction, not clearly
+    a narrative motif from wording alone.
+  cautions: May be ethnographic commentary or source analysis; if a rule or obligation
+    is explicit, sacred_law or covenant may be relevant.
+  suggested_aliases:
+  - status_distinguished_from_blood_kinship
+  - social_rank_not_identical_with_blood_kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.solar-divine-rulership-and-illumination
+  motif_id: solar_divine_rulership_and_illumination
+  label: Solar divine rulership and illumination
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif combines solar divinity with rulership, matching cosmic sovereignty
+    more than travel.
+  cautions: If illumination is the main function, sacred_fire or sacred_knowledge
+    may be a secondary mapping; avoid reducing all solar imagery to kingship.
+  suggested_aliases:
+  - solar_rulership_and_illumination
+  - solar_divinity_as_cosmic_ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.solar-enlightenment-of-rulership
+  motif_id: solar_enlightenment_of_rulership
+  label: solar enlightenment of rulership
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Solar enlightenment authorizing or informing rule fits sacred kingship
+    and royal legitimacy.
+  cautions: If the passage emphasizes the sun as divine light rather than political
+    authority, sacred_fire may be more appropriate.
+  suggested_aliases:
+  - solar_illumination_of_kingship
+  - solar_enlightenment_of_kingship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.solar-gates-or-apertures-regulating-celestial-travel
+  motif_id: solar_gates_or_apertures_regulating_celestial_travel
+  label: solar gates or apertures regulating celestial travel
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: Celestial gates regulating passage describe cosmological structure and
+    movement between cosmic regions.
+  cautions: Could also fit ascent if a human or soul travels through the gates, or
+    sacred_time if the emphasis is calendrical solar regulation.
+  suggested_aliases:
+  - solar_gates_regulating_celestial_passage
+  - celestial_solar_apertures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sole-survivor-clinging-to-wreckage-after-ship-destruction
+  motif_id: sole_survivor_clinging_to_wreckage_after_ship_destruction
+  label: Sole survivor clinging to wreckage after ship destruction
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key narrative setting is survival from maritime catastrophe, a perilous
+    water-passage variant.
+  cautions: If the ship destruction renews a world or people, flood_and_renewal may
+    apply; if divine rescue is explicit, divine_intervention may be a better primary
+    group.
+  suggested_aliases:
+  - sole_survivor_after_shipwreck
+  - shipwreck_survivor_clinging_to_wreckage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-composed-in-crisis-accompanies-renewed-journey
+  motif_id: song_composed_in_crisis_accompanies_renewed_journey
+  label: song composed in crisis accompanies renewed journey
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: low
+  rationale: A crisis song that enables or accompanies renewed movement may function
+    as sound power, but the sacred force is unclear.
+  cautions: If the song is merely commemorative, exclude as episode detail; if it
+    preserves story or teaching, storytelling_as_power may fit better.
+  suggested_aliases:
+  - crisis_song_for_renewed_journey
+  - journey_renewed_by_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-crossing-human-and-superhuman-heyoka-realms
+  motif_id: song_crossing_human_and_superhuman_heyoka_realms
+  label: song crossing human and superhuman Heyoka realms
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label invokes culturally specific Heyoka realms and song-mediated
+    boundary crossing, requiring source-sensitive review.
+  cautions: Do not flatten Heyoka material into generic trickster or music motifs
+    without cultural context; possible groups include enchanting_music, otherworld,
+    threshold_guardian, or sacred_knowledge.
+  suggested_aliases:
+  - heyoka_song_crossing_realms
+  - song_mediating_human_and_superhuman_realms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear mis-bucketed under journey because they concern
+  solar sovereignty, cosmological gates, or practical travel details rather than hero
+  journey structure.
+- Single-occurrence practical survival details should generally be preserved as evidence
+  notes unless sacred, supernatural, or recurrent narrative function is explicit.
+- Culturally specific Indigenous terms and practices, especially Heyoka-related material,
+  should receive human review before broad normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy changes made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0622
+  input_sha256: 3b4317d5c05f44c064c346ff80536ff23c9e1d484e112324cbf92feb2164d5cb
+

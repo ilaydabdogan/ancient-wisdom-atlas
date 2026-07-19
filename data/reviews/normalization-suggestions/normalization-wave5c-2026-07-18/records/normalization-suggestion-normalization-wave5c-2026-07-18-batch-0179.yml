@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0179
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.feast-for-the-dead-as-occasion-for-obtaining-and-distributing-food
+  motif_id: feast_for_the_dead_as_occasion_for_obtaining_and_distributing_food
+  label: Feast for the dead as occasion for obtaining and distributing food
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A feast for the dead centered on obtaining and distributing food fits
+    ritual feeding and care of dead souls or ancestors.
+  cautions: Single occurrence; review whether the label describes an actual mortuary
+    rite or an economic/social occasion attached to a passage.
+  suggested_aliases:
+  - mortuary_feast_food_distribution
+  - feast_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feeding-and-ritual-dismissal-of-the-dead
+  motif_id: feeding_and_ritual_dismissal_of_the_dead
+  label: feeding and ritual dismissal of the dead
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: alias
+  confidence: high
+  rationale: This is a close wording variant of the existing ancestor_rites child
+    feeding_and_dismissing_the_souls_of_the_dead.
+  cautions: Preserve whether the dead are ancestors, souls, ghosts, or recently deceased
+    persons in evidence notes.
+  suggested_aliases:
+  - feeding_and_dismissing_the_souls_of_the_dead
+  - feeding_and_dismissing_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feeding-the-spirit-through-an-effigy-mouth
+  motif_id: feeding_the_spirit_through_an_effigy_mouth
+  label: Feeding the spirit through an effigy mouth
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual feeding of a spirit through an effigy is a concrete mortuary or
+    spirit-care practice within feeding the dead.
+  cautions: Effigy-mouth detail is culturally specific and may belong in evidence
+    notes; verify whether the spirit is deceased, ancestral, tutelary, or otherwise
+    nonhuman.
+  suggested_aliases:
+  - effigy_feeding_of_the_dead
+  - spirit_feeding_through_effigy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-death
+  motif_id: feigned_death
+  label: feigned death
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: broader_label
+  confidence: medium
+  rationale: Feigned death is already represented among trickster children as a deception
+    or escape tactic rather than a true death-return motif.
+  cautions: Do not map to resurrection or death_and_transformation unless the passage
+    treats death as real or ritually transformative.
+  suggested_aliases:
+  - feigning_death
+  - pretended_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-death-and-apparent-return
+  motif_id: feigned_death_and_apparent_return
+  label: feigned death and apparent return
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The death and return are only apparent, so the core function is deception
+    or stratagem rather than resurrection.
+  cautions: If the passage audience treats the return as sacred renewal rather than
+    trickery, human review may prefer death_and_transformation.
+  suggested_aliases:
+  - pretended_death_and_return
+  - apparent_return_after_feigned_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-death-and-escape-from-burial
+  motif_id: feigned_death_and_escape_from_burial
+  label: Feigned death and escape from burial
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Escaping burial by pretending to be dead fits feigned-death escape stratagems
+    already under trickster.
+  cautions: Burial setting may add mortuary significance; review for whether this
+    is ritual, comic deception, or survival trick.
+  suggested_aliases:
+  - feigned_death_to_escape_burial
+  - pretended_death_escape_from_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-death-as-an-escape-stratagem
+  motif_id: feigned_death_as_an_escape_stratagem
+  label: feigned death as an escape stratagem
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: alias
+  confidence: high
+  rationale: This directly states the same function as existing trickster children
+    feigned_death_to_escape_a_predator and feigning_death_to_escape_captivity.
+  cautions: Sufi context could be parabolic or ethical rather than trickster narrative;
+    review source function before final indexing.
+  suggested_aliases:
+  - feigning_death_to_escape
+  - pretended_death_as_escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-death-before-a-predator
+  motif_id: feigned_death_before_a_predator
+  label: Feigned death before a predator
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: alias
+  confidence: high
+  rationale: Close synonym of the existing trickster child feigned_death_to_escape_a_predator.
+  cautions: Predator-prey fable context should remain as local evidence; not a true
+    death motif.
+  suggested_aliases:
+  - feigned_death_to_escape_a_predator
+  - playing_dead_before_a_predator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-death-or-motionlessness-to-evade-an-aggressor
+  motif_id: feigned_death_or_motionlessness_to_evade_an_aggressor
+  label: feigned death or motionlessness to evade an aggressor
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Feigning death or stillness to evade harm is a deception-based escape
+    tactic aligned with trickster feigned-death variants.
+  cautions: Motionlessness may be camouflage rather than explicit death-deception;
+    review passage evidence before aliasing tightly.
+  suggested_aliases:
+  - feigned_death_to_evade_an_aggressor
+  - motionlessness_as_escape_stratagem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feigned-death-to-enter-the-monster-s-dwelling
+  motif_id: feigned_death_to_enter_the_monster_s_dwelling
+  label: feigned death to enter the monster's dwelling
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Pretending to be dead to gain entry is a deception stratagem; the monster
+    dwelling adds a threshold-crossing context but not true descent by itself.
+  cautions: If entry into the monster's dwelling functions as an underworld/ordeal
+    passage, descent or initiation may be a secondary review mapping.
+  suggested_aliases:
+  - pretended_death_to_enter_monster_dwelling
+  - feigned_death_as_infiltration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several death-bucket items involving feigned death are better treated as deception
+  or escape motifs under trickster, not as literal death, resurrection, or descent.
+- Mortuary feeding labels fit the existing ancestor_rites group, but source context
+  should distinguish ancestor care, spirit feeding, funerary redistribution, and general
+  hospitality.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0179
+  input_sha256: 3aa639b19db8d715eb3d6bd187d0d7d9b0babb419986c4d8bc13c64ead40ee31
+

@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0215
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.heroes-stranded-in-despair-awaiting-death
+  motif_id: heroes_stranded_in_despair_awaiting_death
+  label: Heroes stranded in despair awaiting death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a contextual crisis scene rather than a stable death,
+    descent, afterlife, or funeral motif.
+  cautions: Single occurrence; may fit hero_journey as ordeal, death_by_fate as doomed
+    waiting, or be an episode-specific plot detail depending on passage evidence.
+  suggested_aliases:
+  - stranded_heroes_awaiting_death
+  - despair_before_expected_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-death-standing-at-a-stone
+  motif_id: heroic_death_standing_at_a_stone
+  label: Heroic death standing at a stone
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: medium
+  rationale: A hero's death posture in combat or martial context fits the warrior-death
+    complex under divine_warrior.
+  cautions: The stone detail may be culturally specific evidence; if the stone is
+    a tomb, boundary, or sacred object, heroic_funeral_rites or sacred_treasures may
+    be secondary.
+  suggested_aliases:
+  - hero_dies_standing_at_a_stone
+  - standing_heroic_death_at_stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-deaths-as-adaptation-boundary
+  motif_id: heroic_deaths_as_adaptation_boundary
+  label: Heroic deaths as adaptation boundary
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase appears to describe adaptation or textual-comparative boundaries
+    rather than an in-story motif.
+  cautions: If source passages actually narrate deaths that mark social or cosmic
+    boundaries, remap the underlying narrative evidence rather than this commentary
+    label.
+  suggested_aliases:
+  - heroic_death_as_adaptation_boundary
+  - adaptation_boundary_marked_by_heroic_deaths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-defiance-before-threatened-death
+  motif_id: heroic_defiance_before_threatened_death
+  label: heroic defiance before threatened death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defiant conduct before likely death is a heroic-warrior stance within
+    sacred combat and warrior honor patterns.
+  cautions: Could also fit death_by_fate if the death is explicitly destined, or sacred_combat
+    if the verbal challenge/boast is central.
+  suggested_aliases:
+  - defiance_before_threatened_death
+  - heroic_defiance_in_face_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-deliverance-from-death
+  motif_id: heroic_deliverance_from_death
+  label: heroic deliverance from death
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Deliverance from death often involves rescue or intervention in human
+    affairs, but the agent is unspecified.
+  cautions: If the rescue is not divine or supernatural, this may be ordinary plot
+    rescue; if it restores a dead figure, use death_and_transformation or resurrection
+    instead.
+  suggested_aliases:
+  - deliverance_from_death
+  - hero_rescued_from_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-fall-mistaken-for-death
+  motif_id: heroic_fall_mistaken_for_death
+  label: heroic fall mistaken for death
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Mistaken death after a fall may be a narrative suspense device rather
+    than a death-transformation motif.
+  cautions: Could map to death_and_transformation if apparent death leads to renewal,
+    or to divine_warrior if it occurs in combat; source context needed.
+  suggested_aliases:
+  - hero_apparently_dead_after_fall
+  - fall_mistaken_for_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-funeral-honors-with-washing-lament-cremation-bones-tomb-and-games
+  motif_id: heroic_funeral_honors_with_washing_lament_cremation_bones_tomb_and_games
+  label: Heroic funeral honors with washing, lament, cremation, bones, tomb, and games
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: over_specific_label
+  confidence: high
+  rationale: The label enumerates rites already covered by heroic funeral honors,
+    burial, lament, tomb, and games.
+  cautions: Preserve the full ritual sequence as evidence detail; do not create a
+    new canonical motif for the complete list unless it recurs across sources.
+  suggested_aliases:
+  - heroic_funeral_sequence
+  - funeral_honors_with_lament_cremation_tomb_and_games
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-preservation-of-life-against-drought-and-death
+  motif_id: heroic_preservation_of_life_against_drought_and_death
+  label: Heroic preservation of life against drought and death
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Preserving life against drought and death aligns with miraculous provision
+    or protective sacred action in crisis.
+  cautions: If the passage emphasizes cosmic renewal after catastrophe, flood_and_renewal
+    may be relevant; if the hero founds agriculture or sustenance, culture_hero may
+    be secondary.
+  suggested_aliases:
+  - preservation_of_life_against_drought
+  - heroic_life_preservation_in_drought
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-refusal-to-yield-at-death
+  motif_id: heroic_refusal_to_yield_at_death
+  label: Heroic refusal to yield at death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusal to yield at death is a warrior honor and heroic death stance
+    within the divine_warrior complex.
+  cautions: May overlap with death_by_fate if the death is explicitly inescapable
+    or with sacred_combat if framed as a last stand.
+  suggested_aliases:
+  - refusal_to_yield_at_death
+  - heroic_unyielding_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-single-combat-ending-in-death-and-prophecy
+  motif_id: heroic_single_combat_ending_in_death_and_prophecy
+  label: Heroic single combat ending in death and prophecy
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: high
+  rationale: Single combat is directly covered by sacred_combat; death and prophecy
+    are episode-specific added outcomes.
+  cautions: Secondary mappings to prophecy_divination or death_by_fate may be warranted
+    if prophecy is structurally central rather than incidental.
+  suggested_aliases:
+  - single_combat_ending_in_death_and_prophecy
+  - heroic_duel_with_death_and_prophecy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence heroic-death scenes; preserve
+  local details as evidence notes unless recurrence supports a more granular group.
+- Avoid treating every threatened or apparent death as death_and_transformation unless
+  restoration, rebirth, afterlife movement, or postmortem transformation is explicit.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages should be checked
+    for divine agency, combat context, fate language, and whether labels are commentary
+    artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0215
+  input_sha256: 83c4e4a627f6077ca411b6f4501cceb00177e8ce3ea99ef465613cd2952ff66b
+

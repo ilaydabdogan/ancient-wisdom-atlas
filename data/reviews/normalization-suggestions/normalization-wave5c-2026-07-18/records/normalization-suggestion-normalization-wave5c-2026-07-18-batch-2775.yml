@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2775
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.peace-overture-entangled-with-violence
+  motif_id: peace_overture_entangled_with_violence
+  label: Peace overture entangled with violence
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines diplomacy and violence but does not show whether the
+    motif is failed covenant, combat stratagem, or episode-specific conflict detail.
+  cautions: Single occurrence; culturally and contextually dependent. Avoid treating
+    all peace overtures in violent settings as sacred combat.
+  suggested_aliases:
+  - violent_peace_overture
+  - failed_or_ambiguous_peace_overture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-pledged-after-reciprocal-violence
+  motif_id: peace_pledged_after_reciprocal_violence
+  label: peace pledged after reciprocal violence
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A peace pledge after mutual violence centers on a binding agreement that
+    repairs social order after conflict.
+  cautions: If the passage emphasizes feud, vengeance, or combat more than the pledge,
+    sacred_combat may be a secondary review target.
+  suggested_aliases:
+  - peace_pledge_after_violence
+  - truce_after_reciprocal_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peaceful-musician-killed-in-battle
+  motif_id: peaceful_musician_killed_in_battle
+  label: Peaceful musician killed in battle
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe tragic contrast, battle casualty, musician role,
+    or passage-specific episode rather than a stable motif.
+  cautions: Do not map to enchanting_music unless the music itself has supernatural
+    or compelling power; do not map to sacred_combat if musician status is incidental.
+  suggested_aliases:
+  - noncombatant_musician_killed_in_battle
+  - peaceful_singer_slain_in_warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peaceful-settlement-after-ordeal
+  motif_id: peaceful_settlement_after_ordeal
+  label: peaceful settlement after ordeal
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A settlement after ordeal functions as repair or binding social resolution
+    following trial.
+  cautions: If the ordeal transforms the hero's status rather than creating a settlement,
+    initiation may be a better primary mapping.
+  suggested_aliases:
+  - settlement_after_ordeal
+  - peace_after_trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.penitent-hero-founds-a-church
+  motif_id: penitent_hero_founds_a_church
+  label: penitent hero founds a church
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Founding a sacred institution as penitential repair fits offering, restitution,
+    and restored sacred relationship.
+  cautions: Could also relate to covenant, sacred_craft, or royal_legitimacy depending
+    on whether the focus is repentance, construction, or public authority.
+  suggested_aliases:
+  - penitential_church_foundation
+  - sacred_foundation_as_repentance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perilous-embassy-to-a-formidable-hero
+  motif_id: perilous_embassy_to_a_formidable_hero
+  label: perilous embassy to a formidable hero
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a risky diplomatic mission but does not identify
+    a clear sacred or narrative function in the existing groups.
+  cautions: May be an episode detail, a supplication/embassy scene, or a conflict
+    prelude; source evidence needed before mapping to covenant or sacred_combat.
+  suggested_aliases:
+  - dangerous_embassy_to_hero
+  - perilous_diplomatic_mission_to_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.periodic-human-tribute-to-a-monster
+  motif_id: periodic_human_tribute_to_a_monster
+  label: Periodic human tribute to a monster
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Monster Tribute and Sacrificial Demand
+  relationship: narrower_than
+  confidence: medium
+  rationale: Recurring human tribute to a monster is a durable rescue/combat setup
+    involving demanded victims, not adequately captured by general sacrifice or sacred
+    combat alone.
+  cautions: Human review should verify whether tribute is ritual sacrifice, coercive
+    appeasement, monster-slaying prelude, or local episode detail.
+  suggested_aliases:
+  - human_tribute_to_monster
+  - periodic_sacrificial_victims_to_monster
+  - monster_demands_human_tribute
+  suggested_new_group:
+    id: monster_tribute_sacrificial_demand
+    label: Monster Tribute and Sacrificial Demand
+    description: A community is compelled to offer periodic human victims, tribute,
+      or appeasement to a monster, dragon, or predatory being, often setting up rescue,
+      liberation, or monster-slaying.
+    parent_group_ids:
+    - sacrifice
+    - sacred_combat
+    related_group_ids:
+    - divine_warrior
+    - threshold_guardian
+    - divine_judgment
+    reason_existing_groups_insufficient: Sacrifice covers offering broadly and sacred_combat
+      covers battle, but neither preserves the recurring structure of coerced communal
+      human tribute to a monstrous recipient.
+- suggestion_id: normalization.suggestion.persistent-follower-rejected-by-warriors
+  motif_id: persistent_follower_rejected_by_warriors
+  label: Persistent follower rejected by warriors
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a social interaction in a warrior context, but its mythic
+    function is unclear from wording alone.
+  cautions: May involve initiation, outsider rejection, trickster persistence, or
+    an episode-specific character detail; review Native American context carefully.
+  suggested_aliases:
+  - rejected_persistent_follower
+  - excluded_follower_of_warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persuasion-toward-false-accusation
+  motif_id: persuasion_toward_false_accusation
+  label: persuasion toward false accusation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: False accusation is already represented under divine_judgment as a moral-reckoning
+    pattern; persuasion is a causal variant.
+  cautions: If the focus is deception itself rather than vindication or moral consequence,
+    betrayal_violated_trust or trickster may be secondary review targets.
+  suggested_aliases:
+  - incitement_to_false_accusation
+  - false_accusation_by_persuasion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pestilence-ending-warfare
+  motif_id: pestilence_ending_warfare
+  label: pestilence ending warfare
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Pestilence interrupting or ending conflict can function as sacred punishment
+    or moral reckoning that halts violence.
+  cautions: Confidence is low because the label does not state divine agency or judgment;
+    could be a historical/event detail or non-sacred catastrophe.
+  suggested_aliases:
+  - plague_ends_war
+  - pestilence_stops_warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence conflict-resolution or conflict-complication
+  scenes; several require source context before durable normalization.
+- Avoid assuming that peace, plague, or diplomacy implies covenant or divine judgment
+  unless the passage evidence supports sacred binding, moral reckoning, or ritual
+  repair.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize human review for ambiguous single-occurrence
+    conflict labels and culturally specific Northwest Coast/Navajo items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2775
+  input_sha256: c3e400dff56de7f5e5de50bae8a2799166ec2730edbb01956d7780df5b228399
+

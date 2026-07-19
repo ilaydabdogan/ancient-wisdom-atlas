@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0613
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-water-place-as-focus-of-worship
+  motif_id: sacred_water_place_as_focus_of_worship
+  label: Sacred water place as focus of worship
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on a sacred water site used devotionally, fitting the
+    broad sacred_waters group.
+  cautions: Single occurrence; if the passage emphasizes pilgrimage geography or temple-centered
+    worship rather than water symbolism, axis_mundi or sacred_exchange may be secondary.
+  suggested_aliases:
+  - sacred_water_site_worship
+  - sacred_water_place_worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-waters-and-trees-in-worship
+  motif_id: sacred_waters_and_trees_in_worship
+  label: sacred waters and trees in worship
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines water, tree, and worship-site functions that could
+    map to sacred_waters, axis_mundi, or ritual devotion.
+  cautions: Composite single-occurrence label; review source evidence to determine
+    whether water, sacred tree/axis, or worship practice is primary.
+  suggested_aliases:
+  - sacred_waters_and_sacred_trees_in_worship
+  - water_and_tree_worship_sites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-waters-linked-by-underground-roads
+  motif_id: sacred_waters_linked_by_underground_roads
+  label: Sacred waters linked by underground roads
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Sacred water places connected by hidden routes fit sacred_waters as a
+    boundary and passage medium.
+  cautions: May also involve otherworld geography or descent if the underground roads
+    are spirit routes; culturally specific evidence should be reviewed carefully.
+  suggested_aliases:
+  - underground_roads_link_sacred_waters
+  - subterranean_paths_between_sacred_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-weapon-sign-for-protection-and-rites-of-passage
+  motif_id: sacred_weapon_sign_for_protection_and_rites_of_passage
+  label: sacred weapon sign for protection and rites of passage
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon-sign conferring protection functions as a sacred power object
+    or protective mark.
+  cautions: If the rite of passage is the core evidence, initiation may be a better
+    secondary mapping; if combat is central, divine_warrior or sacred_combat may apply.
+  suggested_aliases:
+  - protective_sacred_weapon_sign
+  - weapon_sign_as_protective_rite_of_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.safe-crossing-with-a-singled-out-exception
+  motif_id: safe_crossing_with_a_singled_out_exception
+  label: Safe crossing with a singled-out exception
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The crossing could be journey protection, taboo exception, fate, or legal
+    safe-conduct depending on passage evidence.
+  cautions: Do not map to sacred_waters or hero_journey unless the crossing has transformative
+    or sacred-boundary function; may be an episode-specific plot detail.
+  suggested_aliases:
+  - safe_crossing_except_one
+  - protected_crossing_with_exception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.safe-passage-by-escort-or-danger-exception
+  motif_id: safe_passage_by_escort_or_danger_exception
+  label: Safe passage by escort or danger exception
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Escort-enabled safe passage may be journey protection, divine guidance,
+    social hospitality, or a contextual travel detail.
+  cautions: Single occurrence and ambiguous function; source context is needed before
+    assigning to hero_journey, divine_intervention, or sacred_exchange.
+  suggested_aliases:
+  - safe_passage_by_escort
+  - protected_passage_with_danger_exception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.safe-passage-of-an-armed-noble-retinue
+  motif_id: safe_passage_of_an_armed_noble_retinue
+  label: safe passage of an armed noble retinue
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a specific social or narrative travel circumstance rather
+    than a reusable symbolic motif.
+  cautions: If evidence shows ritually guaranteed safe-conduct or sacred hospitality,
+    review under covenant or sacred_exchange; otherwise preserve only as episode detail.
+  suggested_aliases:
+  - armed_retinue_safe_passage
+  - noble_retinue_safe_conduct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.safe-passage-on-the-road-of-life
+  motif_id: safe_passage_on_the_road_of_life
+  label: Safe passage on the road of life
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The road of life frames life as a journey requiring safe passage, fitting
+    the broad journey group symbolically.
+  cautions: Could be prayer, blessing, or ethical teaching rather than narrative journey;
+    consider curse_blessing_speech if the passage is a spoken protection formula.
+  suggested_aliases:
+  - road_of_life_safe_passage
+  - life_journey_as_safe_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.safe-passage-under-a-woman-s-protection
+  motif_id: safe_passage_under_a_woman_s_protection
+  label: safe passage under a woman's protection
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: The protective female role may involve hospitality, sovereignty, sacred
+    love, or social safe-conduct rather than a clear existing group.
+  cautions: Review whether the woman is divine, royal, beloved, host, legal guarantor,
+    or ordinary protector before mapping.
+  suggested_aliases:
+  - woman_guarantees_safe_passage
+  - female_protection_enables_safe_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saintly-fame-producing-a-pilgrimage-center
+  motif_id: saintly_fame_producing_a_pilgrimage_center
+  label: saintly fame producing a pilgrimage center
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing group includes saintly tomb and shrine/relic devotion, which
+    covers fame forming a pilgrimage center.
+  cautions: If the passage emphasizes pilgrimage geography rather than relic/shrine
+    devotion, axis_mundi or sacred_geography_pilgrimage may be secondary.
+  suggested_aliases:
+  - saintly_fame_creates_pilgrimage_center
+  - saintly_shrine_from_fame
+  - saintly_tomb_pilgrimage_center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence safe-passage formulations; avoid
+  promoting a new safe-passage group without more recurring evidence.
+- Composite worship-site labels should preserve whether water, tree/axis, pilgrimage,
+  or ritual devotion is primary in the source passage.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; ambiguous and culturally specific singletons
+    require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0613
+  input_sha256: a3a92e8de8b0b9be462750902c8ca5cda2c43947f26aec7632fa23dad4618bc8
+

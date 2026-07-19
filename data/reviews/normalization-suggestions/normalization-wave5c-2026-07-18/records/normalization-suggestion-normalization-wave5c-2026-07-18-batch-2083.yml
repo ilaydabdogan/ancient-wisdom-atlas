@@ -1,0 +1,333 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2083
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-or-hybrid-spouse
+  motif_id: animal_or_hybrid_spouse
+  label: animal or hybrid spouse
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal or Nonhuman Spouse
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on marriage or intimate kinship across human/animal
+    or hybrid boundaries, which is not captured cleanly by shapeshifter alone.
+  cautions: Single occurrence; may belong under sacred_love, shapeshifter, or otherworld
+    depending on whether the spouse is transformed, enchanted, or socially integrated.
+  suggested_aliases:
+  - animal spouse
+  - nonhuman spouse
+  - hybrid spouse
+  - human-animal marriage
+  suggested_new_group:
+    id: animal_nonhuman_spouse
+    label: Animal or Nonhuman Spouse
+    description: A human enters marriage, sexual union, or household kinship with
+      an animal, hybrid, spirit, or other nonhuman spouse, often testing boundaries
+      between species, family, and otherworldly society.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - recognition_tokens_hidden_identity
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover transformation, love,
+      and otherworldly realms, but none preserve the recurring spouse/affinal-kinship
+      function of animal or nonhuman partners.
+- suggestion_id: normalization.suggestion.animal-or-insect-relative-identified-as-kin
+  motif_id: animal_or_insect_relative_identified_as_kin
+  label: Animal or insect relative identified as kin
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe kinship with nonhuman beings, clan affiliation,
+    totemic relation, or a culturally specific ceremonial identification.
+  cautions: Culturally sensitive; do not reduce Indigenous kinship or clan relations
+    to generic transformation without source evidence.
+  suggested_aliases:
+  - animal relative as kin
+  - insect relative as kin
+  - nonhuman kin identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-or-nonhuman-spouse-as-food-provider
+  motif_id: animal_or_nonhuman_spouse_as_food_provider
+  label: animal or nonhuman spouse as food provider
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal or Nonhuman Spouse
+  relationship: functional_variant
+  confidence: medium
+  rationale: The spouse role is central, with food provision adding a household reciprocity
+    or abundance function.
+  cautions: Could also map to sacred_exchange or divine_intervention if the emphasis
+    is miraculous provision rather than affinal nonhuman kinship.
+  suggested_aliases:
+  - nonhuman spouse provides food
+  - animal spouse as provider
+  - spouse from animals supplies food
+  suggested_new_group:
+    id: animal_nonhuman_spouse
+    label: Animal or Nonhuman Spouse
+    description: A human enters marriage, sexual union, or household kinship with
+      an animal, hybrid, spirit, or other nonhuman spouse, often testing boundaries
+      between species, family, and otherworldly society.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - sacred_exchange
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing groups can cover love, provision,
+      or transformation separately, but not the affinal nonhuman-spouse pattern that
+      organizes the episode.
+- suggestion_id: normalization.suggestion.animal-or-parasitic-attendants-restrain-captives
+  motif_id: animal_or_parasitic_attendants_restrain_captives
+  label: animal or parasitic attendants restrain captives
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is highly contextual and could involve monster attendants,
+    captivity, animal helpers, or an otherworld ordeal.
+  cautions: Parasitic attendant wording may be a generated artifact; source evidence
+    is needed before treating it as a durable motif.
+  suggested_aliases:
+  - animal attendants restrain captives
+  - nonhuman attendants bind captives
+  - parasitic attendants as captors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-or-plant-as-clan-affiliation-marker
+  motif_id: animal_or_plant_as_clan_affiliation_marker
+  label: Animal or plant as clan affiliation marker
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to concern totemic or clan identity rather than a standard
+    animal transformation motif.
+  cautions: Culturally sensitive kinship/classification evidence; avoid mapping to
+    shapeshifter or sacred law without passage context.
+  suggested_aliases:
+  - clan animal marker
+  - clan plant marker
+  - totemic affiliation marker
+  - animal or plant clan sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-origin-and-animal-trait-etiologies
+  motif_id: animal_origin_and_animal_trait_etiologies
+  label: animal-origin and animal-trait etiologies
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Origin and Trait Etiology
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif explains how animals or their distinctive traits came to be,
+    a clear etiological pattern not covered by cosmic_origin except very broadly.
+  cautions: Single occurrence in this batch; review whether this should be a child
+    of cosmic_origin or a broader animal-tale group if many animal etiology labels
+    recur.
+  suggested_aliases:
+  - animal trait etiology
+  - origin of animal traits
+  - animal origin tale
+  - why animals have traits
+  suggested_new_group:
+    id: animal_origin_trait_etiology
+    label: Animal Origin and Trait Etiology
+    description: Stories explaining the origin of animal species, animal forms, behaviors,
+      markings, or distinctive traits, often through transformation, punishment, accident,
+      or culture-hero action.
+    parent_group_ids:
+    - cosmic_origin
+    - shapeshifter
+    related_group_ids:
+    - trickster
+    - culture_hero
+    reason_existing_groups_insufficient: Cosmic_origin covers creation broadly, and
+      shapeshifter covers transformation, but neither preserves the specific etiological
+      function focused on animals and their traits.
+- suggestion_id: normalization.suggestion.animal-origin-etiology-from-a-human-ancestress
+  motif_id: animal_origin_etiology_from_a_human_ancestress
+  label: animal-origin etiology from a human ancestress
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Origin and Trait Etiology
+  relationship: functional_variant
+  confidence: medium
+  rationale: This explains an animal origin through descent or transformation from
+    a human ancestress, fitting animal etiology with ancestral specificity.
+  cautions: Could involve clan ancestry or sacred kinship; review source context before
+    treating it as only a species-origin tale.
+  suggested_aliases:
+  - animal origin from human ancestress
+  - human ancestress becomes animal origin
+  - ancestral origin of animals
+  suggested_new_group:
+    id: animal_origin_trait_etiology
+    label: Animal Origin and Trait Etiology
+    description: Stories explaining the origin of animal species, animal forms, behaviors,
+      markings, or distinctive traits, often through transformation, punishment, accident,
+      or culture-hero action.
+    parent_group_ids:
+    - cosmic_origin
+    - shapeshifter
+    related_group_ids:
+    - culture_hero
+    - ancestor_rites
+    reason_existing_groups_insufficient: Existing creation and transformation groups
+      are too broad to preserve animal-specific etiology and ancestral descent as
+      the organizing function.
+- suggestion_id: normalization.suggestion.animal-origin-explanation-for-buzzard-s-bare-head
+  motif_id: animal_origin_explanation_for_buzzard_s_bare_head
+  label: animal-origin explanation for buzzard's bare head
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is an etiological explanation of an animal trait, which can be indexed
+    under the broader origin/etiology group until an animal-etiology group is approved.
+  cautions: Highly species- and trait-specific; preserve as evidence detail and consider
+    the proposed animal_origin_trait_etiology group for better granularity.
+  suggested_aliases:
+  - buzzard bare head etiology
+  - origin of buzzard's bare head
+  - animal trait etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-origin-from-a-ground-opening
+  motif_id: animal_origin_from_a_ground_opening
+  label: Animal origin from a ground opening
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes the emergence or origin of animals from the earth,
+    fitting broad creation and origin motifs.
+  cautions: If the ground opening is an underworld threshold or otherworld passage,
+    descent or otherworld may be relevant secondary mappings.
+  suggested_aliases:
+  - animals emerge from ground opening
+  - animal emergence from earth
+  - animal origin from earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-origin-tale
+  motif_id: animal_origin_tale
+  label: Animal-origin tale
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A general animal-origin tale is an etiological creation pattern and can
+    be held under cosmic_origin broadly.
+  cautions: Broad label lacks mechanism; if animal etiology labels recur, the proposed
+    animal_origin_trait_etiology group would preserve useful granularity.
+  suggested_aliases:
+  - animal origin story
+  - origin of animals
+  - animal etiology tale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items point to a possible missing animal-focused etiology group; current
+  cosmic_origin can hold them broadly, but it loses animal-trait specificity.
+- Nonhuman kinship, clan markers, and spouse motifs may be culturally sensitive and
+  should be reviewed with source context before final normalization.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review recommended especially for Indigenous
+    kinship/clan labels and single-occurrence composite labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2083
+  input_sha256: 48fe78c90633a06c0f969eceb3079b14e9440754d2af8c78f9bcb03d2bc23e88
+

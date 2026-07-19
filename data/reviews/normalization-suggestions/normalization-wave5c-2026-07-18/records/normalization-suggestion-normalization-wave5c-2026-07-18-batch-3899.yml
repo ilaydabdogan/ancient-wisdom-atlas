@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3899
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.restoration-of-impaired-bodies
+  motif_id: restoration_of_impaired_bodies
+  label: restoration of impaired bodies
+  occurrences: 1
+  traditions:
+  - biblical
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Bodily restoration in a biblical context likely functions as miraculous
+    healing or sacred intervention in human affliction.
+  cautions: Label is broad; if evidence emphasizes resurrection, soul restoration,
+    or ritual medicine rather than divine agency, map secondarily elsewhere.
+  suggested_aliases:
+  - miraculous_healing_of_impaired_bodies
+  - bodily_restoration_by_divine_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-kin-at-the-happy-ending
+  motif_id: restoration_of_kin_at_the_happy_ending
+  label: Restoration of kin at the happy ending
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a tale-ending plot resolution rather than a durable
+    symbolic or narrative motif in the taxonomy.
+  cautions: If the passage involves recognition tokens, return from exile, resurrection,
+    or family reunion after enchantment, preserve that more specific function instead.
+  suggested_aliases:
+  - family_restored_at_happy_ending
+  - kinship_restoration_as_tale_resolution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-lost-merchandise
+  motif_id: restoration_of_lost_merchandise
+  label: Restoration of lost merchandise
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Recovery of merchandise appears to be an episode-specific property or
+    plot detail, not a broad mythic motif.
+  cautions: If restoration follows divine justice, trickery, or violated trust, index
+    that underlying function rather than the commercial object.
+  suggested_aliases:
+  - lost_goods_restored
+  - recovery_of_lost_merchandise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-stolen-eyes-through-control-of-a-villain-s-life
+  motif_id: restoration_of_stolen_eyes_through_control_of_a_villain_s_life
+  label: Restoration of stolen eyes through control of a villain’s life
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: Control of the villain's life is the key mechanism and aligns with externalized
+    life or soul vulnerability controlling outcomes.
+  cautions: The stolen-eye restoration may also involve healing or bodily restoration;
+    avoid treating eye theft itself as the canonical pattern without source evidence.
+  suggested_aliases:
+  - stolen_eyes_restored_by_control_of_villain_life
+  - healing_through_possession_of_villain_life_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-strength-by-a-magic-cloth
+  motif_id: restoration_of_strength_by_a_magic_cloth
+  label: Restoration of strength by a magic cloth
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magic cloth that restores strength functions as a power object conferring
+    renewed ability or protection.
+  cautions: If the cloth contains or controls life-force, external_soul may be relevant;
+    if the emphasis is healing, divine_intervention may be secondary.
+  suggested_aliases:
+  - magic_cloth_restores_strength
+  - strength_restoring_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-time-worn-objects-by-a-celestial-helper
+  motif_id: restoration_of_time_worn_objects_by_a_celestial_helper
+  label: Restoration of time-worn objects by a celestial helper
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A celestial helper restoring worn objects suggests supernatural assistance
+    in repairing human or material loss.
+  cautions: May be an over-specific local episode; if the act is craft-centered, sacred_craft
+    may be a better fit. Review Indigenous source context carefully.
+  suggested_aliases:
+  - celestial_helper_restores_worn_objects
+  - supernatural_restoration_of_old_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-of-youthful-bodily-signs
+  motif_id: restoration_of_youthful_bodily_signs
+  label: restoration of youthful bodily signs
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: low
+  rationale: In a Sufi context, restored youth signs may symbolize spiritual renewal
+    or transformed inner state on the mystical path.
+  cautions: Could instead be literal rejuvenation under sacred_substance or death_and_transformation;
+    needs passage evidence before firm indexing.
+  suggested_aliases:
+  - youthful_signs_restored
+  - bodily_youth_as_spiritual_renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-or-revocation-after-corrected-conduct
+  motif_id: restoration_or_revocation_after_corrected_conduct
+  label: restoration or revocation after corrected conduct
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reward, restoration, or revocation following corrected behavior fits
+    moral consequence and ethical reckoning.
+  cautions: In Buddhist material this may be karmic or pedagogical rather than divine
+    judgment; sacred_law or sacred_knowledge may be secondary depending on source.
+  suggested_aliases:
+  - moral_restoration_after_corrected_conduct
+  - revocation_or_restoration_by_conduct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-or-survival-through-hidden-medicine-food
+  motif_id: restoration_or_survival_through_hidden_medicine_food
+  label: restoration or survival through hidden medicine food
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Medicine food enabling restoration or survival fits sacred substance
+    as food or medicine with transformative power.
+  cautions: If hiddenness or provisioning is central, sacred_knowledge or divine_intervention
+    may be relevant. Review culturally specific medicine terminology carefully.
+  suggested_aliases:
+  - hidden_medicine_food_restores_life
+  - survival_through_sacred_medicine_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.restoration-through-courtly-elevation
+  motif_id: restoration_through_courtly_elevation
+  label: Restoration through courtly elevation
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: Restoration by elevation at court concerns status, rule, rank, or recognized
+    legitimacy within a political order.
+  cautions: May be a generic romance or folktale plot reward rather than sacred kingship;
+    if no royal legitimation is present, exclude as over-specific resolution detail.
+  suggested_aliases:
+  - status_restoration_by_courtly_elevation
+  - courtly_elevation_restores_fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence restoration plot resolutions;
+  preserve only where a clear recurring mechanism is visible, such as divine healing,
+  sacred substance, external soul control, or political legitimation.
+- Avoid creating a broad 'restoration' group unless review finds recurrent cross-source
+  restoration mechanisms not already covered by death_and_transformation, divine_intervention,
+  sacred_substance, sacred_treasures, or royal_legitimacy.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements based on label semantics only; source evidence should
+    decide whether restoration is symbolic motif or plot resolution.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3899
+  input_sha256: 4c8e910b1546cfd28e1c630c663299dd452811362b04a1a3dd546a836f3278e5
+

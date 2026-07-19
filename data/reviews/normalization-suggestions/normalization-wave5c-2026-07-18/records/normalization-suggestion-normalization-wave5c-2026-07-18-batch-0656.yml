@@ -1,0 +1,309 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0656
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.worshiper-introduced-to-a-seated-deity
+  motif_id: worshiper_introduced_to_a_seated_deity
+  label: worshiper introduced to a seated deity
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A worshiper being formally brought before an enthroned deity fits direct
+    encounter with sacred presence, likely in cultic or visionary presentation imagery.
+  cautions: Single occurrence; if this is only an iconographic scene of audience etiquette,
+    it may be better as evidence detail under ritual or royal-divine audience rather
+    than a query motif.
+  suggested_aliases:
+  - worshiper_presented_to_enthroned_deity
+  - divine_audience_scene
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worshipped-tree-or-image-housed-in-a-responsive-chapel
+  motif_id: worshipped_tree_or_image_housed_in_a_responsive_chapel
+  label: worshipped tree or image housed in a responsive chapel
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sacred tree/image, shrine space, and a responsive
+    cult site; placement depends on whether the focus is sacred center, animated image,
+    pilgrimage shrine, or divine intervention.
+  cautions: Culturally sensitive and composite; avoid forcing an Islamic devotional
+    or polemical context into idol, axis_mundi, or sacred_craft without passage evidence.
+  suggested_aliases:
+  - responsive_chapel_housing_sacred_tree_or_image
+  - worshipped_image_in_responsive_shrine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.worshipper-assimilates-to-the-worshipped
+  motif_id: worshipper_assimilates_to_the_worshipped
+  label: worshipper assimilates to the worshipped
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Assimilation of devotee to the worshiped deity fits contemplative transformation
+    and union through devotion or practice.
+  cautions: May specifically belong to annihilation_union if ego-dissolution or identity-union
+    is explicit; if it is ritual imitation only, sacred_law or ritual practice may
+    be secondary.
+  suggested_aliases:
+  - devotee_assimilates_to_deity
+  - worshipper_becomes_like_the_worshipped
+  - devotional_assimilation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-traveler-rescued-and-nursed-by-companions
+  motif_id: wounded_traveler_rescued_and_nursed_by_companions
+  label: wounded traveler rescued and nursed by companions
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a passage-specific travel episode of injury and care rather
+    than a recurring mythic pattern with clear symbolic function.
+  cautions: If the rescue marks initiation, healing by sacred companions, or divine
+    guidance in the full source, reconsider under hero_journey or divine_intervention.
+  suggested_aliases:
+  - companions_nurse_wounded_traveler
+  - traveler_rescued_after_wounding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrecked-or-broken-ship-as-crisis-marker
+  motif_id: wrecked_or_broken_ship_as_crisis_marker
+  label: wrecked or broken ship as crisis marker
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'as crisis marker' suggests an analytic plot marker rather
+    than a stable motif; shipwreck alone needs narrative function to place.
+  cautions: If the source describes sea peril, rescue, otherworld arrival, or preserving
+    vessel function, remap to sacred_waters, divine_intervention, otherworld, or sacred_vessel
+    as appropriate.
+  suggested_aliases:
+  - shipwreck_as_crisis_marker
+  - broken_ship_crisis_scene
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youth-departure-through-marriage-and-independent-household
+  motif_id: youth_departure_through_marriage_and_independent_household
+  label: youth departure through marriage and independent household
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Leaving youth status through marriage and forming a household is a rite-of-passage
+    transition rather than a heroic journey in the narrow sense.
+  cautions: May be ethnographic social custom rather than mythic narrative; preserve
+    local kinship detail and review before using in cross-tradition pattern queries.
+  suggested_aliases:
+  - marriage_as_youth_departure
+  - household_formation_as_initiation
+  - youth_transition_to_married_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youth-equestrian-mock-battle
+  motif_id: youth_equestrian_mock_battle
+  label: youth equestrian mock battle
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A mock mounted battle is best treated as ritualized martial performance
+    under sacred or ritual combat.
+  cautions: If the passage is only a civic game or training display with no sacred/rite-of-passage
+    role, it may be too specific for motif queries; initiation may be secondary if
+    youth transition is central.
+  suggested_aliases:
+  - ritual_equestrian_mock_battle
+  - youth_mounted_mock_combat
+  - martial_youth_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youth-house-courtship-leading-to-marriage
+  motif_id: youth_house_courtship_leading_to_marriage
+  label: Youth house courtship leading to marriage
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a culturally specific courtship institution; it may
+    involve sacred_love, initiation, or ordinary social custom depending on context.
+  cautions: Do not generalize Indigenous social practice into a mythic motif without
+    source evidence; likely too ethnographic unless narratively or ritually charged.
+  suggested_aliases:
+  - courtship_in_youth_house_leads_to_marriage
+  - youth_house_marriage_courtship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.zodiacal-guardianship-of-creation
+  motif_id: zodiacal_guardianship_of_creation
+  label: Zodiacal guardianship of creation
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Zodiacal powers guarding creation belong to cosmological ordering and
+    protection of the created world.
+  cautions: May also require sacred_time, prophecy_divination, or duality if the source
+    emphasizes astrological cycles, divination, or cosmic opposition rather than creation
+    itself.
+  suggested_aliases:
+  - zodiacal_guardians_of_creation
+  - astrological_guardianship_of_the_created_world
+  - cosmic_guardianship_by_zodiac
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fourfold-ritual-repetition
+  motif_id: fourfold_ritual_repetition
+  label: Fourfold ritual repetition
+  occurrences: 8
+  traditions:
+  - native-american-plains
+  - native-american-southwest
+  - native_american_southwest
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Number and Repetition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Repeated fourfold ritual action recurs across entries and encodes ritual
+    structure rather than sacrifice, sacred time, or law alone.
+  cautions: Culturally sensitive; the number four has local cosmological meanings
+    that should not be flattened. Human review should decide whether this is a cross-query
+    group or a preserved local ritual detail.
+  suggested_aliases:
+  - ritual_repetition_four_times
+  - fourfold_ceremonial_repetition
+  - ritual_quaternity
+  suggested_new_group:
+    id: ritual_number_repetition
+    label: Ritual Number and Repetition
+    description: Ritual actions structured by repeated numbers, counted sequences,
+      directional cycles, or formulaic recurrence that make the number or repetition
+      pattern part of the sacred action.
+    parent_group_ids:
+    - sacred_law
+    - sacred_time
+    related_group_ids:
+    - sacrifice
+    - duality
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups cover ritual law, sacrifice,
+      and sacred time, but none cleanly capture repeated numerical ritual structure
+      as the motif itself.
+batch_notes:
+- Several journey-bucket labels are actually ritual, courtship, theophany, or cosmological-order
+  motifs; bucket assignment should not drive final placement.
+- Single-occurrence social-practice labels should be reviewed carefully before cross-tradition
+  motif querying.
+- The fourfold ritual repetition item has enough occurrences to justify taxonomy review,
+  but its cultural specificity requires human confirmation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0656
+  input_sha256: 3627eeebfee00d90c1559fc753807edf41d56ebe40eb2abeca55c47aaa5381af
+

@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0270
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mourning-over-the-dead-companion
+  motif_id: mourning_over_the_dead_companion
+  label: Mourning over the dead companion
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: alias
+  confidence: high
+  rationale: Close synonym of existing lament-over-dead-companion variants under lament
+    and mourning.
+  cautions: Single occurrence; if paired with funerary rites or body retrieval, heroic_funeral_rites
+    may be a secondary index.
+  suggested_aliases:
+  - lament_over_the_dead_companion
+  - lament_for_dead_heroic_companions
+  - mourning_for_a_dead_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-procession-with-song-naming-the-dead
+  motif_id: mourning_procession_with_song_naming_the_dead
+  label: mourning procession with song naming the dead
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A procession and naming song are mourning practices centered on communal
+    grief for the dead.
+  cautions: Culturally specific mortuary practice; preserve procession and naming
+    details rather than flattening to generic lament.
+  suggested_aliases:
+  - mourning_song_naming_the_dead
+  - processional_lament_naming_the_dead
+  - funeral_procession_with_lament_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - heroic_funeral_rites
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-restraint-before-death-and-burial
+  motif_id: mourning_restraint_before_death_and_burial
+  label: Mourning restraint before death and burial
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The emphasis is regulated conduct around dying and burial, fitting ritual
+    and ethical order more than grief expression alone.
+  cautions: Could also support lament_and_mourning if the passage focuses on emotional
+    restraint; Confucian ritual context should be reviewed carefully.
+  suggested_aliases:
+  - ritual_restraint_in_mourning
+  - regulated_mourning_before_burial
+  - mourning_restraint_as_ritual_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-rites-and-views-on-death
+  motif_id: mourning_rites_and_views_on_death
+  label: mourning rites and views on death
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad and may summarize doctrine, ritual commentary, or
+    multiple motifs rather than a discrete motif.
+  cautions: Review source evidence; if it describes regulated mourning practice use
+    sacred_law, if grief expression use lament_and_mourning, if mortuary rites use
+    heroic_funeral_rites or ancestor_rites.
+  suggested_aliases:
+  - mourning_ritual_and_death_teaching
+  - ritual_views_on_death_and_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - lament_and_mourning
+    - ancestor_rites
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-rites-with-burial-gifts-for-the-dead
+  motif_id: mourning_rites_with_burial_gifts_for_the_dead
+  label: Mourning rites with burial gifts for the dead
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Burial gifts are ritual care for the dead and maintenance of living-dead
+    relations.
+  cautions: If the passage emphasizes elite burial honor rather than care for the
+    dead, heroic_funeral_rites may be a better or secondary placement.
+  suggested_aliases:
+  - burial_gifts_for_the_dead
+  - grave_goods_as_mourning_rite
+  - mortuary_gifts_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - heroic_funeral_rites
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-song-after-destruction-and-death
+  motif_id: mourning_song_after_destruction_and_death
+  label: Mourning song after destruction and death
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: A mourning song after death or destruction is a lament expressing loss
+    and tragic recognition.
+  cautions: If destruction is cosmic or communal catastrophe, flood_and_renewal or
+    divine_judgment may be secondary, but the label's core is lament.
+  suggested_aliases:
+  - lament_song_after_destruction
+  - mourning_song_for_the_dead
+  - communal_lament_after_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - flood_and_renewal
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-song-deflecting-blame-for-death
+  motif_id: mourning_song_deflecting_blame_for_death
+  label: Mourning song deflecting blame for death
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: It combines lament with blame negotiation, which may be social, legal,
+    ritual, or passage-specific.
+  cautions: Review cultural and source context before indexing; could fit lament_and_mourning,
+    divine_judgment, sacred_law, or be too specific as an evidence note.
+  suggested_aliases:
+  - lament_song_deflecting_death_blame
+  - mourning_song_shifting_blame
+  - death_blame_deflected_in_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-taboos-that-regulate-contact-with-ghosts
+  motif_id: mourning_taboos_that_regulate_contact_with_ghosts
+  label: mourning taboos that regulate contact with ghosts
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Taboos regulating ghost contact are mortuary purity and protective rules,
+    fitting sacred law.
+  cautions: If the dead are active agents requiring appeasement, ancestor_rites or
+    restless_dead_haunting_vengeance may be secondary.
+  suggested_aliases:
+  - mourning_taboo_for_ghost_contact
+  - mortuary_taboo_regulating_contact_with_ghosts
+  - ghost_contact_taboo_during_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - restless_dead_haunting_vengeance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mourning-through-tokens-of-the-dead-queen
+  motif_id: mourning_through_tokens_of_the_dead_queen
+  label: mourning through tokens of the dead queen
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: Objects or tokens mediate remembrance and grief for a dead royal figure,
+    fitting mourning practice.
+  cautions: If tokens primarily prove identity, authority, or relic power, recognition_tokens_hidden_identity
+    or sacred_treasures may be secondary.
+  suggested_aliases:
+  - mourning_with_tokens_of_the_dead
+  - memorial_tokens_of_the_dead_queen
+  - grief_mediated_by_tokens_of_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - recognition_tokens_hidden_identity
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mouth-or-face-covering-as-barrier-against-harmful-ingress-or-soul-harm
+  motif_id: mouth_or_face_covering_as_barrier_against_harmful_ingress_or_soul_harm
+  label: Mouth or face covering as barrier against harmful ingress or soul harm
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: This closely matches existing covered-mouth/face protective taboo variants
+    under sacred law.
+  cautions: Comparative label may be an ethnographic synthesis; preserve soul-harm
+    and ingress details and review whether it is a ritual rule rather than commentary.
+  suggested_aliases:
+  - covered_mouth_or_face_blocks_spiritual_danger
+  - face_covering_against_soul_harm
+  - mouth_covering_against_harmful_ingress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - soul_loss_restoration
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence mourning or mortuary-practice labels; preserve
+  local ritual details in notes rather than promoting granular forms to canonical
+  taxonomy families.
+- For Confucian mourning labels, distinguish grief expression from norm-governed ritual
+  conduct; sacred_law is often the better group when regulated behavior is central.
+- For culturally specific Native American and Mesopotamian mortuary labels, human
+  review should verify source evidence and avoid overgeneralizing comparative wording.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy rewrite performed.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0270
+  input_sha256: '017294ab0146cfdf6f1b53f46283ae3f8361c0e6025328288fa9f77712e3b262'
+

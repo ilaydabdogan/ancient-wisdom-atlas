@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2077
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-kin-avenge-a-slain-relation
+  motif_id: animal_kin_avenge_a_slain_relation
+  label: animal kin avenge a slain relation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Kinship and Retribution
+  relationship: child
+  confidence: medium
+  rationale: The motif centers on animals as kin-based moral agents avenging a slain
+    relation, not merely trickster action or shapeshifting.
+  cautions: Single occurrence and culturally specific animal-person kinship context;
+    human review should verify whether this is a recurring motif family or local evidence
+    detail.
+  suggested_aliases:
+  - animal_kin_vengeance
+  - animal_relatives_avenge_killing
+  - animal_person_kin_retribution
+  suggested_new_group:
+    id: animal_kinship_retribution
+    label: Animal Kinship and Retribution
+    description: Animals or animal-persons act as kin, relatives, or social persons
+      who avenge injury, killing, or violated relations between humans and nonhuman
+      beings.
+    parent_group_ids:
+    - divine_judgment
+    related_group_ids:
+    - shapeshifter
+    - sacred_law
+    - trickster
+    reason_existing_groups_insufficient: Existing animal-related groups emphasize
+      trickster boundary crossing or shapeshifting, while this label emphasizes kinship
+      obligation and retributive moral agency by animals.
+- suggestion_id: normalization.suggestion.animal-kin-vengeance-against-a-human-community
+  motif_id: animal_kin_vengeance_against_a_human_community
+  label: Animal kin vengeance against a human community
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Kinship and Retribution
+  relationship: child
+  confidence: medium
+  rationale: Animal kin collectively retaliate against humans, matching a possible
+    animal-person retribution complex rather than generic trickster deception.
+  cautions: Needs source review to avoid flattening culturally specific human-animal
+    relations into a generic revenge trope.
+  suggested_aliases:
+  - animal_kin_vengeance
+  - animal_relatives_attack_human_community
+  - animal_people_retribution_against_humans
+  suggested_new_group:
+    id: animal_kinship_retribution
+    label: Animal Kinship and Retribution
+    description: Animals or animal-persons act as kin, relatives, or social persons
+      who avenge injury, killing, or violated relations between humans and nonhuman
+      beings.
+    parent_group_ids:
+    - divine_judgment
+    related_group_ids:
+    - shapeshifter
+    - sacred_law
+    - trickster
+    reason_existing_groups_insufficient: Existing groups can cover judgment, law,
+      trickster action, or transformation, but none clearly preserves animal kinship
+      as the engine of retribution.
+- suggestion_id: normalization.suggestion.animal-learns-predatory-skill-from-another-animal
+  motif_id: animal_learns_predatory_skill_from_another_animal
+  label: Animal learns predatory skill from another animal
+  occurrences: 1
+  traditions:
+  - akan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Animal instruction in predatory skill may function as a fable-like trickster
+    or animal-strategy episode.
+  cautions: Could be an etiological animal-behavior tale or passage-specific fable
+    detail; verify deception, boundary crossing, or culture-learning function before
+    broad indexing.
+  suggested_aliases:
+  - animal_teaches_predatory_skill
+  - predatory_skill_learned_from_animal
+  - animal_instruction_in_hunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-like-nest-probing-for-food
+  motif_id: animal_like_nest_probing_for_food
+  label: Animal-like nest probing for food
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a narrow behavioral detail rather than a reusable
+    symbolic or narrative motif.
+  cautions: If source evidence shows transformation into an animal or an etiological
+    origin of feeding behavior, reconsider under shapeshifter or cosmic_origin.
+  suggested_aliases:
+  - nest_probing_for_food
+  - animal_feeding_behavior_detail
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-like-vocalization-as-invocation
+  motif_id: animal_like_vocalization_as_invocation
+  label: animal-like vocalization as invocation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The key function is a vocal utterance used performatively as invocation,
+    even if animal-like in sound.
+  cautions: If the vocalization is primarily song, trance, or animal transformation,
+    enchanting_music, dream_and_vision, or shapeshifter may be better secondary mappings.
+  suggested_aliases:
+  - animal_vocalization_invocation
+  - animal_like_call_as_ritual_speech
+  - vocal_invocation_in_animal_form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-like-war-cry-after-victory
+  motif_id: animal_like_war_cry_after_victory
+  label: animal-like war cry after victory
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A post-victory war cry belongs most directly to ritualized combat expression,
+    with animal-like sound as a local form.
+  cautions: If the cry invokes animal power or signals transformation into animal
+    identity, shapeshifter or curse_blessing_speech may be relevant.
+  suggested_aliases:
+  - animal_like_victory_cry
+  - post_victory_war_cry
+  - animal_call_after_battle_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-lives-spared-because-animals-were-once-people
+  motif_id: animal_lives_spared_because_animals_were_once_people
+  label: Animal lives spared because animals were once people
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif explains a prohibition or ethical restraint toward animals
+    through their former human status.
+  cautions: Could also fit shapeshifter if the passage emphasizes human-to-animal
+    transformation, or divine_judgment if sparing follows moral reckoning.
+  suggested_aliases:
+  - animals_once_people_taboo
+  - animal_life_spared_by_former_human_identity
+  - former_humans_as_animals_protected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-location-origin-for-cormorants-on-rocks
+  motif_id: animal_location_origin_for_cormorants_on_rocks
+  label: animal-location origin for cormorants on rocks
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label appears etiological, explaining why a species is associated
+    with a location or landscape feature.
+  cautions: Highly specific animal-location etiology; preserve species and rock detail
+    as evidence rather than promoting as canonical motif.
+  suggested_aliases:
+  - animal_location_etiology
+  - cormorants_on_rocks_origin
+  - species_location_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-loses-real-food-by-grasping-at-an-image-in-water
+  motif_id: animal_loses_real_food_by_grasping_at_an_image_in_water
+  label: animal loses real food by grasping at an image in water
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: This fable-like greed/illusion reversal resembles existing greed-temperance
+    reversal material under divine_judgment.
+  cautions: May be a general animal fable rather than sacred judgment; if no moral
+    reckoning is explicit, treat as fable detail or trickster-related evidence.
+  suggested_aliases:
+  - animal_loses_food_to_reflection
+  - grasping_at_reflection_loses_real_food
+  - greed_for_image_loses_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-lure-and-capture-technology
+  motif_id: animal_lure_and_capture_technology
+  label: animal lure and capture technology
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: low
+  rationale: The label emphasizes a technique or device for luring and capturing animals,
+    closest to craft/technology among existing groups.
+  cautions: Could be a subsistence detail rather than a mythic motif; if the source
+    stresses deception rather than technology, trickster may be better.
+  suggested_aliases:
+  - animal_capture_technology
+  - animal_lure_device
+  - hunting_lure_craft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Animal-person and animal-kinship motifs may need a dedicated review pass; several
+  labels are culturally specific and should not be collapsed into generic trickster
+  or shapeshifter patterns without source evidence.
+- Several single-occurrence animal behavior labels look like etiological or fable
+  details; preserve local evidence and avoid taxonomy promotion unless recurrence
+  appears across sources.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; animal kinship/retribution candidate requires
+    human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2077
+  input_sha256: 19becbb043dc65296769cd4ca994b25222d3fe7928b056fa856a06093d92ae63
+

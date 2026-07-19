@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1049
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-inversion-of-weapons-in-mourning
+  motif_id: ritual_inversion_of_weapons_in_mourning
+  label: Ritual inversion of weapons in mourning
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a mourning rite using inverted weapons as a visible
+    sign of grief and social suspension.
+  cautions: Single occurrence and object-specific; if the passage emphasizes warrior
+    honors rather than grief, heroic_funeral_rites may be a secondary fit.
+  suggested_aliases:
+  - inverted_weapons_as_mourning_sign
+  - mourning_by_reversed_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-invitation-ending-mourning-and-restoring-social-participation
+  motif_id: ritual_invitation_ending_mourning_and_restoring_social_participation
+  label: Ritual invitation ending mourning and restoring social participation
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on ritually ending mourning and reintegrating mourners
+    into communal life.
+  cautions: Culturally specific mourning practice; could also relate to ancestor_rites
+    or sacred_exchange if invitation/feeding of the dead is central.
+  suggested_aliases:
+  - ritual_reintegration_after_mourning
+  - mourning_ended_by_communal_invitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-invitation-to-communal-correction-and-atonement
+  motif_id: ritual_invitation_to_communal_correction_and_atonement
+  label: ritual invitation to communal correction and atonement
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A communal invitation to correction and atonement functions as ritualized
+    moral discipline and social repair.
+  cautions: If the passage emphasizes offering, confession, or expiation over rule
+    correction, sacrifice or covenant may be relevant secondary mappings.
+  suggested_aliases:
+  - communal_correction_and_atonement_rite
+  - ritualized_communal_moral_correction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-invitation-to-correction-and-atonement
+  motif_id: ritual_invitation_to_correction_and_atonement
+  label: ritual invitation to correction and atonement
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label points to a formal rite for ethical correction and atonement,
+    fitting sacred discipline and social order.
+  cautions: Likely near-duplicate of the communal version; review whether one should
+    be an alias of the other. Buddhist ritual context should be checked before mapping
+    to sacrifice.
+  suggested_aliases:
+  - ritual_correction_and_atonement
+  - invitation_to_correction_and_expiation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-invocation-and-blessing-across-possible-locations
+  motif_id: ritual_invocation_and_blessing_across_possible_locations
+  label: Ritual invocation and blessing across possible locations
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Invocation and blessing are performative sacred speech acts, with location
+    lists as ritual scope.
+  cautions: May be a liturgical formula rather than a reusable motif; if purely a
+    prayer text structure, consider excluding from pattern queries.
+  suggested_aliases:
+  - ritual_blessing_across_locations
+  - locational_invocation_and_blessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-invocation-and-blessing-of-a-named-holy-figure
+  motif_id: ritual_invocation_and_blessing_of_a_named_holy_figure
+  label: ritual invocation and blessing of a named holy figure
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core action is ritual invocation and blessing, a sacred speech act
+    directed toward a holy figure.
+  cautions: Named-figure specificity may make this a passage or liturgical artifact;
+    preserve the name in evidence notes rather than the motif id.
+  suggested_aliases:
+  - blessing_of_a_holy_figure
+  - ritual_invocation_of_named_sacred_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-invocation-of-a-holy-power-across-celestial-locations
+  motif_id: ritual_invocation_of_a_holy_power_across_celestial_locations
+  label: ritual invocation of a holy power across celestial locations
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual invocation of holy power is best treated as performative sacred
+    speech; celestial locations specify its cosmological range.
+  cautions: Could also touch axis_mundi or cosmic geography if locations structure
+    the cosmos; source context is needed.
+  suggested_aliases:
+  - celestial_location_invocation
+  - invocation_of_holy_power_across_heavenly_places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-invocation-of-the-four-winds
+  motif_id: ritual_invocation_of_the_four_winds
+  label: ritual invocation of the four winds
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif is an invocation formula addressing cosmic or directional powers
+    through sacred speech.
+  cautions: Culturally sensitive directional/wind ritual; could warrant human review
+    for whether four-direction cosmology deserves a separate group if many examples
+    recur.
+  suggested_aliases:
+  - four_winds_invocation
+  - ritual_address_to_directional_winds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-invulnerability-through-paint-medicine-flute-and-weapon-ordeal
+  motif_id: ritual_invulnerability_through_paint_medicine_flute_and_weapon_ordeal
+  label: ritual invulnerability through paint, medicine, flute, and weapon ordeal
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The central function is ritual production or demonstration of weapon-resistance
+    and invulnerability.
+  cautions: The paint, medicine, flute, and ordeal details are culturally specific
+    and over-composite; if no conditional weakness appears, divine_intervention or
+    sacred_law may be secondary rather than hidden-weakness indexing.
+  suggested_aliases:
+  - ritual_weapon_invulnerability
+  - medicine_paint_invulnerability_ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-isolation-after-stillbirth
+  motif_id: ritual_isolation_after_stillbirth
+  label: Ritual isolation after stillbirth
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Post-stillbirth isolation is a ritual purity or taboo regulation governing
+    contact after death and birth.
+  cautions: Culturally sensitive reproductive and purity practice; avoid treating
+    as general death motif. Could relate to ancestor_rites only if care for the dead
+    child is central.
+  suggested_aliases:
+  - post_stillbirth_ritual_isolation
+  - ritual_seclusion_after_stillbirth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual or liturgical formulas;
+  preserve local evidence and avoid promoting to taxonomy motifs without recurrence.
+- Invocation/blessing labels were placed under curse_blessing_speech because the functional
+  core is performative sacred speech, not sacrifice itself.
+- Buddhist and Indigenous ritual labels should receive human review for culturally
+  specific terminology and context before final indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1049
+  input_sha256: 733c1f843e206db1bc759eec4132505bbe8ded0de655aa9ee3b8b71ceba0b324
+

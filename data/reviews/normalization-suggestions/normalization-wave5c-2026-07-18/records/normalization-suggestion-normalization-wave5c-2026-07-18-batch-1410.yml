@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1410
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.place-named-from-violent-event
+  motif_id: place_named_from_violent_event
+  label: place named from violent event
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: alias
+  confidence: high
+  rationale: Close synonym of existing etiological place-name children and aliases
+    under cosmic_origin.
+  cautions: Violent-event specificity should be preserved as evidence detail; do not
+    infer creation cosmology beyond local etiology.
+  suggested_aliases:
+  - place_name_explained_by_violent_death
+  - place_name_origin_from_violent_death_or_event
+  - place_name_etiology_from_violent_events
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-names-as-memory-of-landscape-features-and-events
+  motif_id: place_names_as_memory_of_landscape_features_and_events
+  label: place names as memory of landscape features and events
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Explaining place names by remembered landscape features or events fits
+    the existing place-name etiology cluster.
+  cautions: May be more cultural-memory or commentary than narrative etiology; verify
+    that the passage explains origins of names rather than merely noting toponyms.
+  suggested_aliases:
+  - place_name_etiology
+  - etiological_landscape_naming
+  - place_naming_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-names-as-survivals-of-earlier-peoples
+  motif_id: place_names_as_survivals_of_earlier_peoples
+  label: place-names as survivals of earlier peoples
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: Could relate to eponymous ancestors or place-name etiology, but the label
+    reads like historical-linguistic commentary.
+  cautions: Avoid using as a motif if it only records scholarly inference about earlier
+    peoples; consider exclusion if no narrative etiology is present.
+  suggested_aliases:
+  - eponymous_ancestor
+  - ancestral_origins
+  - place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-names-encode-landscape-features
+  motif_id: place_names_encode_landscape_features
+  label: Place names encode landscape features
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: May fit etiological landscape naming if a story explains the name, but
+    may only be a descriptive toponymic observation.
+  cautions: If no mythic event, ancestor, or landscape-formation explanation is present,
+    exclude from pattern queries as a place-name artifact.
+  suggested_aliases:
+  - etiological_landscape_naming
+  - place_naming_etiology
+  - place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-names-explained-by-a-crisis-ride
+  motif_id: place_names_explained_by_a_crisis_ride
+  label: place names explained by a crisis ride
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A narrative event explaining a place name fits the existing toponymic
+    etiology cluster.
+  cautions: Crisis-ride detail is probably episode-specific; do not promote unless
+    similar ride-based naming recurs.
+  suggested_aliases:
+  - place_name_etiology
+  - place_naming_etiology
+  - toponymic_naming_from_heroic_events
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-names-preserve-violent-events-and-battle-outcomes
+  motif_id: place_names_preserve_violent_events_and_battle_outcomes
+  label: place-names preserve violent events and battle outcomes
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Directly matches existing violent-event and heroic-event place-name etiology
+    patterns.
+  cautions: May also touch sacred_combat as content, but the motif function is naming
+    and memory rather than warfare itself.
+  suggested_aliases:
+  - place_name_etiology_from_violent_events
+  - place_name_explained_by_violent_death
+  - toponymic_naming_from_heroic_events
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-names-preserving-historical-memory
+  motif_id: place_names_preserving_historical_memory
+  label: place names preserving historical memory
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a broad toponymic etiology, but the wording may describe cultural
+    memory rather than a mythic motif.
+  cautions: Confirm that a narrative explains the place name; otherwise treat as contextual
+    or scholarly commentary.
+  suggested_aliases:
+  - place_name_etiology
+  - place_naming_etiology
+  - etiological_landscape_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-shaking-act-gives-rise-to-a-name
+  motif_id: place_shaking_act_gives_rise_to_a_name
+  label: Place-shaking act gives rise to a name
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: An act that generates a place name fits toponymic and landscape-naming
+    etiologies.
+  cautions: If the place-shaking act is cosmogenic or supernatural landscape formation,
+    preserve that detail; otherwise it may be an over-specific local name etiology.
+  suggested_aliases:
+  - place_name_etiology
+  - supernatural_etiological_place_naming
+  - etiological_landscape_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-triggers-memory-of-an-abandoned-object
+  motif_id: place_triggers_memory_of_an_abandoned_object
+  label: Place triggers memory of an abandoned object
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes an episode-specific memory cue rather than a durable
+    symbolic or narrative motif.
+  cautions: If the abandoned object functions as a recognition token, sacred treasure,
+    or quest object in the passage, remap with source evidence.
+  suggested_aliases:
+  - memory_triggered_by_place
+  - abandoned_object_memory_cue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.plain-permitted-implements-versus-prohibited-ornamentation
+  motif_id: plain_permitted_implements_versus_prohibited_ornamentation
+  label: plain permitted implements versus prohibited ornamentation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Distinguishing permitted plain objects from prohibited ornament fits
+    ritual discipline, prohibition, and sacred law.
+  cautions: Could be monastic rule commentary rather than mythic motif; preserve object
+    and ornament details only as evidence.
+  suggested_aliases:
+  - ritual_prohibition
+  - plain_implements_permitted_ornamentation_forbidden
+  - monastic_plainness_over_ornament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items form a toponymic/place-name etiology cluster already represented under
+  cosmic_origin; review should distinguish narrative name-origin motifs from historical-linguistic
+  or commentary artifacts.
+- Do not infer historical transmission or factual memory from labels about place names
+  preserving events; this batch only suggests normalization placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions generated for human review; low-confidence toponymic
+    commentary items flagged for source verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1410
+  input_sha256: 53994ec3affcd83c901d76ac63b375163c7453d66e1b14eb5b3f295d1e160f05
+

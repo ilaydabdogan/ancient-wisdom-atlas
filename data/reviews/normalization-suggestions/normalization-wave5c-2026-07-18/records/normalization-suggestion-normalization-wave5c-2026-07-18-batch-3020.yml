@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3020
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.status-marked-by-protective-attendance
+  motif_id: status_marked_by_protective_attendance
+  label: status marked by protective attendance
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: Protective attendants may mark rank, authority, or sacral status, but
+    the label alone does not show kingship or divine sanction.
+  cautions: Single occurrence and vague wording; could be social custom, guardian-spirit
+    motif, or passage-specific status detail.
+  suggested_aliases:
+  - protective_attendance_marks_status
+  - status_marked_by_attendants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.status-marked-food-and-vessel
+  motif_id: status_marked_food_and_vessel
+  label: Status-marked food and vessel
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: Food and vessel may encode rank within giving, feeding, or ritual exchange,
+    but function is unclear from the label.
+  cautions: May be an ethnographic status marker rather than a reusable motif; could
+    also belong with sacred_vessel or sacred_law if ritual rules are central.
+  suggested_aliases:
+  - status_marked_food_vessel
+  - rank_marked_food_and_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.status-marked-funeral-treatment
+  motif_id: status_marked_funeral_treatment
+  label: Status-marked funeral treatment
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: medium
+  rationale: Differential treatment of the dead by status fits funeral rites that
+    reaffirm social order and honor the dead.
+  cautions: If not heroic, royal, or socially memorializing, it may need broader ancestor_rites
+    or mortuary-custom review.
+  suggested_aliases:
+  - rank_marked_funeral_treatment
+  - status_differentiated_funeral_rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.status-marked-funerary-adornment
+  motif_id: status_marked_funerary_adornment
+  label: Status-marked funerary adornment
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: medium
+  rationale: Adornment of the dead as a marker of rank belongs with funerary honor
+    and memorial treatment.
+  cautions: Object details may be locally specific; if the adornment itself has power,
+    sacred_treasures may be a secondary relation.
+  suggested_aliases:
+  - rank_marked_funerary_adornment
+  - status_marked_mortuary_adornment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.status-marked-gestures-of-attendance
+  motif_id: status_marked_gestures_of_attendance
+  label: Status-marked gestures of attendance
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Formal gestures of attendance marking status fit ritualized social order
+    and prescribed conduct.
+  cautions: May be a social-ethical passage detail rather than a mythic motif; preserve
+    Confucian ritual hierarchy context.
+  suggested_aliases:
+  - rank_marked_gestures_of_attendance
+  - status_marking_attendance_gestures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.status-marked-mortuary-architecture
+  motif_id: status_marked_mortuary_architecture
+  label: Status-marked mortuary architecture
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: uncertain
+  confidence: low
+  rationale: Mortuary architecture may memorialize rank, but it may also be local
+    burial practice or sacred space.
+  cautions: Single occurrence; review whether architecture functions as memorialization,
+    ancestor rite, sacred center, or ethnographic detail.
+  suggested_aliases:
+  - rank_marked_mortuary_architecture
+  - status_marked_burial_architecture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.status-marker-becomes-fatal-hindrance
+  motif_id: status_marker_becomes_fatal_hindrance
+  label: Status marker becomes fatal hindrance
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: uncertain
+  confidence: low
+  rationale: A rank or identity marker causing death may serve a fated-death or reversal
+    pattern, but the mechanism is unclear.
+  cautions: Could fit pride/downfall, recognition token, sacred treasures, or a passage-specific
+    ironic object detail depending on evidence.
+  suggested_aliases:
+  - fatal_status_marker
+  - status_symbol_as_fatal_hindrance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stealth-attack-on-a-communal-house-at-night
+  motif_id: stealth_attack_on_a_communal_house_at_night
+  label: stealth attack on a communal house at night
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A night attack on a communal house is a violent raid or warfare episode,
+    even though the setting is domestic/communal.
+  cautions: May be too episode-specific; if the house boundary or communal space is
+    the focus, additional human review is useful.
+  suggested_aliases:
+  - night_stealth_attack_on_communal_house
+  - nocturnal_attack_on_communal_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stealth-raid-across-a-boundary
+  motif_id: stealth_raid_across_a_boundary
+  label: Stealth raid across a boundary
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A stealth raid is a combat/warfare action, with the boundary adding liminal
+    setting rather than changing the core function.
+  cautions: If boundary crossing is ritually transformative rather than martial, threshold_guardian
+    or hero_journey may be secondary.
+  suggested_aliases:
+  - boundary_crossing_stealth_raid
+  - stealth_raid_over_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stolen-food-exposed-by-household-recognition
+  motif_id: stolen_food_exposed_by_household_recognition
+  label: stolen food exposed by household recognition
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: uncertain
+  confidence: low
+  rationale: Recognition exposes theft, but it is unclear whether food functions as
+    an identity token, evidence object, or trickster detail.
+  cautions: Could fit trickster, betrayal/violated trust, sacred_exchange, or household-specific
+    comic evidence; source context needed.
+  suggested_aliases:
+  - food_theft_exposed_by_recognition
+  - stolen_food_as_recognition_evidence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence status-marking or mortuary-practice details;
+  preserve evidence granularity and avoid promoting them without cross-source recurrence.
+- For status-marked mortuary labels, heroic_funeral_rites is a pragmatic existing
+  group, but ancestor_rites or local mortuary custom may be better if the source is
+  not heroic or memorializing.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple low-confidence status-marker labels
+    require source evidence before final normalization.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3020
+  input_sha256: 3de5f90da1718bc8c9478a43d4bf1ff928c231b3a9ce5d711b18e5d6d8acf2b5
+

@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0458
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.armed-night-departure-to-wait-at-dawn
+  motif_id: armed_night_departure_to_wait_at_dawn
+  label: armed night departure to wait at dawn
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label suggests departure into a charged journey setting, but the
+    armed waiting-at-dawn detail may be episode-specific rather than a recurring motif.
+  cautions: Needs passage evidence to distinguish journey departure from tactical
+    combat staging or narrative logistics.
+  suggested_aliases:
+  - night departure
+  - armed departure before dawn
+  - departure to await dawn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-readiness-on-the-distant-road
+  motif_id: armed_readiness_on_the_distant_road
+  label: Armed readiness on the distant road
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: Road travel under threat can be a journey ordeal, but this wording reads
+    as a situational travel detail.
+  cautions: Could belong to sacred_combat if the road encounter is primarily martial;
+    otherwise may be too specific for pattern queries.
+  suggested_aliases:
+  - armed travel readiness
+  - readiness on a dangerous road
+  - armed journey vigilance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-ship-arrival-reported-by-lookout-witness
+  motif_id: armed_ship_arrival_reported_by_lookout_witness
+  label: armed ship arrival reported by lookout witness
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a scene-reporting mechanism, not a symbolic or narrative
+    motif durable enough for broad queries.
+  cautions: If the armed ship arrival initiates invasion, return, or recognition,
+    map the underlying event rather than the lookout report detail.
+  suggested_aliases:
+  - lookout reports armed ship
+  - watchman reports ship arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-vigil-over-sleeping-exiles
+  motif_id: armed_vigil_over_sleeping_exiles
+  label: armed vigil over sleeping exiles
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protective vigil during exile fits the ordeal-and-wandering phase of
+    a hero journey.
+  cautions: If the emphasis is guardianship rather than exile travel, divine_intervention
+    or sacred_combat may be secondary depending on the agent and threat.
+  suggested_aliases:
+  - protective vigil in exile
+  - armed watch over exiles
+  - guardian vigil over sleeping companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.armed-voyage-for-acquisition
+  motif_id: armed_voyage_for_acquisition
+  label: armed voyage for acquisition
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: An armed voyage to acquire goods or wealth likely fits raiding or martial
+    acquisition more than ordinary quest travel.
+  cautions: If the acquisition is a sacred treasure or bride-winning quest, sacred_treasures,
+    sacred_love, or hero_journey may be better secondary mappings.
+  suggested_aliases:
+  - armed acquisition voyage
+  - raiding voyage
+  - martial voyage for goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arming-after-bereavement-to-question-surviving-foes
+  motif_id: arming_after_bereavement_to_question_surviving_foes
+  label: arming after bereavement to question surviving foes
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: low
+  rationale: Bereavement motivates armed action, linking mourning with vengeance or
+    inquiry after death.
+  cautions: Could fit lament_and_mourning, sacred_combat, or heroic_funeral_rites
+    depending on whether grief, revenge, or post-battle duty is central.
+  suggested_aliases:
+  - arming after bereavement
+  - mourning followed by armed questioning
+  - bereaved warrior confronts surviving foes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-and-assimilation-of-a-pueblo-origin-settler-group
+  motif_id: arrival_and_assimilation_of_a_pueblo_origin_settler_group
+  label: Arrival and assimilation of a pueblo-origin settler group
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: Group arrival and assimilation may be an origin, migration, or settlement
+    tradition, but the label is culturally specific and context-dependent.
+  cautions: Review with care; may be historical-ethnographic, ancestral-origin narrative,
+    or local settlement tradition rather than a general motif.
+  suggested_aliases:
+  - settler group arrival and assimilation
+  - migration and assimilation of origin group
+  - pueblo-origin settlement arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-and-beheading-of-the-last-child
+  motif_id: arrival_and_beheading_of_the_last_child
+  label: arrival and beheading of the last child
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines arrival with violent killing of a child, but its narrative
+    function is unclear from the label alone.
+  cautions: Could involve persecuted child, sacrifice, sacred combat, divine judgment,
+    or an episode-specific violent detail; source review required.
+  suggested_aliases:
+  - beheading of the last child
+  - arrival followed by child beheading
+  - last child beheaded
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-and-continuity-chronicle
+  motif_id: arrival_and_continuity_chronicle
+  label: arrival-and-continuity chronicle
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes a chronicle or textual framing of arrival and continuity
+    rather than a narrative motif itself.
+  cautions: If the source passage contains migration, origin, or royal continuity
+    motifs, extract those underlying motifs separately.
+  suggested_aliases:
+  - arrival continuity chronicle
+  - chronicle of arrival and continuity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.arrival-and-honoring-of-a-hero-at-court
+  motif_id: arrival_and_honoring_of_a_hero_at_court
+  label: Arrival and honoring of a hero at court
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero's arrival and reception at court fits journey arrival, recognition,
+    and status transformation after travel or ordeal.
+  cautions: If the court honors establish rulership or succession, royal_legitimacy
+    may be a secondary mapping.
+  suggested_aliases:
+  - hero honored at court
+  - heroic arrival at court
+  - courtly reception of hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence scene descriptions; preserve
+  as evidence notes unless source review shows recurrence.
+- For armed travel labels, distinguish journey function from combat/raiding function
+  before final mapping.
+- For culturally specific settlement/origin labels, avoid flattening local historical
+  or ethnographic meaning into generic journey motifs without evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    ambiguous single-occurrence and culturally specific items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0458
+  input_sha256: 6c0a1e55ccd166a42ba37cdbfed9575707375e6fe5dfad42e27c09c829aa3dd4
+

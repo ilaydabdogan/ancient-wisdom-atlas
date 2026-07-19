@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0748
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.disease-attributed-to-magic-and-killing-of-suspected-ritual-specialists
+  motif_id: disease_attributed_to_magic_and_killing_of_suspected_ritual_specialists
+  label: Disease attributed to magic and killing of suspected ritual specialists
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label concerns illness attribution, ritual specialists, and punitive
+    social response, which may involve sacred law or ritual danger.
+  cautions: Culturally sensitive and possibly an ethnographic/social-conflict note
+    rather than a mythic motif; avoid normalizing harmful accusations without source
+    review.
+  suggested_aliases:
+  - illness_attributed_to_magic
+  - ritual_specialists_accused_of_causing_disease
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disease-cured-by-ritual-speech-and-washing
+  motif_id: disease_cured_by_ritual_speech_and_washing
+  label: Disease cured by ritual speech and washing
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual speech and washing function as purification or healing practice,
+    fitting existing sacred-law and purity-protection patterns.
+  cautions: Could also relate to curse_blessing_speech if the speech act is central,
+    or sacred_waters if washing is the main sacred medium.
+  suggested_aliases:
+  - ritual_healing_by_speech_and_washing
+  - purificatory_washing_with_ritual_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disease-transference-to-animal-through-ritual-food
+  motif_id: disease_transference_to_animal_through_ritual_food
+  label: Disease transference to animal through ritual food
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Disease transfer to an animal through ritual means closely matches scapegoat,
+    ritual transfer, and expulsion patterns already grouped under sacrifice.
+  cautions: If no offering, expulsion, or substitute logic is present, sacred_law
+    or healing ritual may be a secondary placement.
+  suggested_aliases:
+  - ritual_transfer_of_disease_to_animal
+  - disease_transferred_to_substitute_animal
+  - healing_by_animal_substitution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disguised-substitution-for-healer-and-priest
+  motif_id: disguised_substitution_for_healer_and_priest
+  label: disguised substitution for healer and priest
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Disguise and role substitution may fit trickster/deception if the episode
+    turns on impersonation of ritual authority.
+  cautions: Could be an over-specific plot device, anti-clerical tale detail, healing
+    episode, or ritual-role motif; source evidence is needed.
+  suggested_aliases:
+  - disguised_ritual_specialist_substitution
+  - impersonation_of_healer_or_priest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.displacement-of-hostile-ritual-specialists-by-new-sacred-authority
+  motif_id: displacement_of_hostile_ritual_specialists_by_new_sacred_authority
+  label: displacement of hostile ritual specialists by new sacred authority
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: The label describes replacement of ritual authority by a new sacred order,
+    which may fit legitimization of power or sacred social order.
+  cautions: Culturally sensitive and potentially a historical/social process rather
+    than a narrative motif; avoid implying legitimacy or hostility without passage
+    review.
+  suggested_aliases:
+  - new_sacred_authority_replaces_ritual_specialists
+  - ritual_authority_displacement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.display-of-deceased-men-s-belongings-above-a-ritual-tree
+  motif_id: display_of_deceased_men_s_belongings_above_a_ritual_tree
+  label: Display of deceased men's belongings above a ritual tree
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Displaying belongings of the dead in a ritual setting belongs with mortuary
+    care and ancestor/dead relations.
+  cautions: The ritual tree may also support axis_mundi if it functions as a sacred
+    connector; current label may be an ethnographic detail.
+  suggested_aliases:
+  - mortuary_display_of_belongings_at_ritual_tree
+  - dead_men_s_belongings_displayed_at_sacred_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dispute-settled-by-ritualized-combat
+  motif_id: dispute_settled_by_ritualized_combat
+  label: Dispute settled by ritualized combat
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: A dispute resolved through formal combat matches existing sacred_combat
+    patterns such as single combat deciding collective conflict.
+  cautions: If the combat is purely legal or secular without sacred/ritual significance,
+    sacred_law may be a secondary or better fit.
+  suggested_aliases:
+  - ritual_combat_settles_dispute
+  - trial_by_ritualized_combat
+  - combat_as_dispute_resolution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.disputed-sacred-biography
+  motif_id: disputed_sacred_biography
+  label: disputed sacred biography
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes disagreement over a sacred biography rather than
+    a symbolic or narrative motif in the biography itself.
+  cautions: Preserve as provenance, hagiography, or reception-history metadata if
+    useful, but exclude from motif pattern queries.
+  suggested_aliases:
+  - contested_sacred_biography
+  - disputed_hagiographic_tradition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distinct-sacred-office-within-a-ritual-fraternity-system
+  motif_id: distinct_sacred_office_within_a_ritual_fraternity_system
+  label: distinct sacred office within a ritual fraternity system
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: low
+  rationale: A sacred office within a ritual system may reflect regulated religious
+    social order rather than a narrative motif.
+  cautions: Likely an ethnographic institutional detail; review respectfully before
+    indexing, and exclude if it only names a social role.
+  suggested_aliases:
+  - ritual_fraternity_sacred_office
+  - specialized_sacred_office_in_ritual_society
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.distinction-between-entertaining-myth-and-sacred-knowledge
+  motif_id: distinction_between_entertaining_myth_and_sacred_knowledge
+  label: distinction between entertaining myth and sacred knowledge
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label concerns classification, protection, and status of sacred knowledge
+    as distinct from ordinary entertainment.
+  cautions: Could be a meta-commentary on genre or performance context rather than
+    an in-story motif; exclude if it only reflects analyst description.
+  suggested_aliases:
+  - sacred_knowledge_distinguished_from_entertaining_myth
+  - restricted_sacred_narrative_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence ethnographic or institutional
+  labels; human review should check whether they are source motifs or descriptive
+  metadata.
+- For culturally sensitive labels involving disease attribution, ritual specialists,
+  or Native American ceremonial systems, avoid broad pattern indexing without source-context
+  review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0748
+  input_sha256: fa3b3569d6c49ccf1c7d39db40fc2a924dbc81b4d38bd084818990c62f8e1e5c
+

@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3826
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.provocation-through-offered-food
+  motif_id: provocation_through_offered_food
+  label: provocation through offered food
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Offered food could be hospitality, temptation, insult, bait, or ritual
+    exchange depending on the episode.
+  cautions: Single occurrence and unclear narrative function; do not map to sacred_exchange
+    or trickster without passage evidence.
+  suggested_aliases:
+  - food_offering_as_provocation
+  - provocative_food_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.provocative-insult-to-a-royal-woman-at-first-court-contact
+  motif_id: provocative_insult_to_a_royal_woman_at_first_court_contact
+  label: Provocative insult to a royal woman at first court contact
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label may involve courtly insult, gendered provocation, royal honor,
+    or conflict initiation, but the function is too contextual from wording alone.
+  cautions: Over-specific single occurrence; could fit sacred_combat, royal_legitimacy,
+    sacred_love, or divine_judgment depending on consequences.
+  suggested_aliases:
+  - insult_to_royal_woman
+  - court_contact_provocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.provoked-quarrel-to-draw-out-the-target
+  motif_id: provoked_quarrel_to_draw_out_the_target
+  label: provoked quarrel to draw out the target
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Deliberately provoking a quarrel to lure a target is a deception or stratagem
+    pattern.
+  cautions: If the passage is primarily battlefield challenge rather than deception,
+    sacred_combat may be a better secondary mapping.
+  suggested_aliases:
+  - quarrel_as_lure
+  - provoked_quarrel_lures_target
+  - deceptive_quarrel_to_draw_out_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.proxy-conflict-between-rival-powers
+  motif_id: proxy_conflict_between_rival_powers
+  label: proxy conflict between rival powers
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A proxy conflict may be political, cosmic, animal-mediated, or social
+    without enough evidence from the label.
+  cautions: Culturally specific source context is needed; avoid assuming sacred_combat
+    or duality without clear mythic stakes.
+  suggested_aliases:
+  - proxy_war_between_powers
+  - rival_powers_act_through_agents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prudence-opposed-to-licensed-passion
+  motif_id: prudence_opposed_to_licensed_passion
+  label: prudence opposed to licensed passion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label frames a moral contrast between restraint and permitted passion,
+    fitting ethical evaluation and moral consequence.
+  cautions: May be philosophical commentary rather than a narrative motif; sacred_law
+    or sacred_love may fit if the passage centers law or erotic desire.
+  suggested_aliases:
+  - prudence_versus_passion
+  - restraint_opposed_to_licensed_desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pseudonymous-attribution-to-a-revered-teacher
+  motif_id: pseudonymous_attribution_to_a_revered_teacher
+  label: Pseudonymous attribution to a revered teacher
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes textual attribution or authorship practice rather than
+    a narrative or symbolic motif.
+  cautions: Preserve as provenance or transmission metadata if useful, but exclude
+    from motif pattern queries.
+  suggested_aliases:
+  - pseudonymous_teacher_attribution
+  - attribution_to_revered_teacher
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-abundance-display-at-a-ceremonial-structure
+  motif_id: public_abundance_display_at_a_ceremonial_structure
+  label: Public abundance display at a ceremonial structure
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests ritualized display of wealth or fertility, possibly
+    exchange, abundance, or sacred center symbolism.
+  cautions: Melanesian ceremonial exchange context may be culturally specific; do
+    not collapse into sacred_exchange or axis_mundi without evidence of function.
+  suggested_aliases:
+  - ceremonial_abundance_display
+  - public_display_of_abundance_at_ritual_structure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-adjudication-by-sight-report-or-confession
+  motif_id: public_adjudication_by_sight_report_or_confession
+  label: Public adjudication by sight, report, or confession
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Public weighing of evidence and confession fits judgment, moral reckoning,
+    and social order.
+  cautions: If purely legal or monastic procedure with no sacred/moral narrative force,
+    it may be an over-specific contextual detail.
+  suggested_aliases:
+  - public_adjudication_by_confession
+  - judgment_by_witness_report_and_confession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-announcement-of-salvation-with-sound-directed-to-heaven
+  motif_id: public_announcement_of_salvation_with_sound_directed_to_heaven
+  label: Public announcement of salvation with sound directed to heaven
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines public proclamation, sound, heavenward address, and
+    salvation, but the operative motif is unclear.
+  cautions: Could involve performative sacred speech, ritual announcement, divine
+    intervention, or sound power; Arctic-Inuit context should be reviewed before mapping.
+  suggested_aliases:
+  - heavenward_sound_announcement_of_salvation
+  - public_salvation_proclamation_to_heaven
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-appeal-through-visible-austerity
+  motif_id: public_appeal_through_visible_austerity
+  label: public appeal through visible austerity
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Visible austerity functions as renunciation or bodily self-denial used
+    to make an appeal.
+  cautions: If the focus is contemplative discipline, mystical_quest may be better;
+    if merely a social persuasion tactic, it may be over-specific.
+  suggested_aliases:
+  - austerity_as_public_appeal
+  - visible_renunciation_as_appeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; source passages should
+  be checked before promoting any as taxonomy children.
+- Avoid treating provocation, publicness, or ritual setting as sufficient evidence
+  for a canonical motif without a clear narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft suggestions only; human review needed especially for culturally specific
+    ritual and social-order labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3826
+  input_sha256: a69f2ea7b7ad0325c29ba7819f43615d3bc1be1956c1898e981ea8432484125a
+

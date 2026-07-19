@@ -1,0 +1,370 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1748
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-household-in-a-cave-receives-a-human-child
+  motif_id: animal_household_in_a_cave_receives_a_human_child
+  label: animal household in a cave receives a human child
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal household, cave space, and child reception;
+    function could be adoption, initiation, otherworld encounter, or refuge.
+  cautions: Single occurrence and culturally specific; do not map to miraculous_child
+    or otherworld without evidence that the child is destined, abducted, protected,
+    or transformed.
+  suggested_aliases:
+  - human child received by animal household
+  - animal household receives child in cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - otherworld
+    - shapeshifter
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-human-marriage-traditions
+  motif_id: animal_human_marriage_traditions
+  label: Animal-human marriage traditions
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal-Human Marriage and Kinship
+  relationship: narrower_than
+  confidence: medium
+  rationale: Animal-human marriage is a recurring cross-species kinship pattern not
+    cleanly covered by shapeshifter or sacred_love alone.
+  cautions: Review local evidence carefully; the motif may involve spouse transformation,
+    clan origin, taboo, hunting reciprocity, or animal-person ontology rather than
+    generic romance.
+  suggested_aliases:
+  - animal-human marriage
+  - human-animal marriage
+  - cross-species marriage
+  - animal spouse traditions
+  suggested_new_group:
+    id: animal_human_marriage_kinship
+    label: Animal-Human Marriage and Kinship
+    description: Marriage, adoption, descent, nursing, or household relations between
+      humans and animal-persons or animal communities, often explaining kinship obligations,
+      taboos, origins, or failed movement between human and animal worlds.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - miraculous_child
+    - sacred_law
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover love, transformation,
+      or otherworld contact, but not the social-kinship structure of animal spouses,
+      animal in-laws, adoption, and cross-species household relations.
+- suggestion_id: normalization.suggestion.animal-husband-and-human-mother
+  motif_id: animal_husband_and_human_mother
+  label: animal husband and human mother
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal-Human Marriage and Kinship
+  relationship: child
+  confidence: medium
+  rationale: An animal husband with a human mother indicates cross-species marital
+    and family relations rather than only shapeshifting.
+  cautions: Needs source review to distinguish literal animal spouse, animal-person
+    spouse, transformed spouse, or etiological ancestor pattern.
+  suggested_aliases:
+  - animal husband
+  - human wife and animal husband
+  - animal spouse and human mother
+  suggested_new_group:
+    id: animal_human_marriage_kinship
+    label: Animal-Human Marriage and Kinship
+    description: Marriage, adoption, descent, nursing, or household relations between
+      humans and animal-persons or animal communities, often explaining kinship obligations,
+      taboos, origins, or failed movement between human and animal worlds.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - miraculous_child
+    - sacred_law
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover love, transformation,
+      or otherworld contact, but not the social-kinship structure of animal spouses,
+      animal in-laws, adoption, and cross-species household relations.
+- suggestion_id: normalization.suggestion.animal-husbands-killed-and-etiological-mourning-practice
+  motif_id: animal_husbands_killed_and_etiological_mourning_practice
+  label: animal husbands killed and etiological mourning practice
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal marriage, killing, etiology, and mourning practice;
+    the primary function is unclear.
+  cautions: Could belong to animal-human kinship, lament_and_mourning, sacred_law,
+    or cosmic_origin/place-etiology depending on whether the passage explains ritual
+    mourning, taboo, or spouse death.
+  suggested_aliases:
+  - killed animal husbands explain mourning practice
+  - animal spouse death and mourning etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - sacred_law
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-impersonation-dance
+  motif_id: animal_impersonation_dance
+  label: Animal impersonation dance
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Animal impersonation in dance may be ritual transformation, ceremonial
+    performance, hunting rite, or clan representation.
+  cautions: Culturally sensitive ritual label; avoid collapsing into shapeshifter
+    unless the passage presents actual transformation or mythic identity change.
+  suggested_aliases:
+  - ritual animal impersonation
+  - animal dance impersonation
+  - ceremonial animal impersonation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_law
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-kin-group-with-elder-sister-and-husband
+  motif_id: animal_kin_group_with_elder_sister_and_husband
+  label: animal kin group with elder sister and husband
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal-Human Marriage and Kinship
+  relationship: child
+  confidence: medium
+  rationale: The label centers on animal kin relations and marriage roles within a
+    family structure.
+  cautions: May be a passage-specific cast description if no cross-species marriage,
+    adoption, or kinship obligation is narratively active.
+  suggested_aliases:
+  - animal kin group
+  - animal in-law group
+  - animal family with sister and husband
+  suggested_new_group:
+    id: animal_human_marriage_kinship
+    label: Animal-Human Marriage and Kinship
+    description: Marriage, adoption, descent, nursing, or household relations between
+      humans and animal-persons or animal communities, often explaining kinship obligations,
+      taboos, origins, or failed movement between human and animal worlds.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - miraculous_child
+    - sacred_law
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover love, transformation,
+      or otherworld contact, but not the social-kinship structure of animal spouses,
+      animal in-laws, adoption, and cross-species household relations.
+- suggestion_id: normalization.suggestion.animal-marriage-and-failed-adoption-of-spouse-community-s-life
+  motif_id: animal_marriage_and_failed_adoption_of_spouse_community_s_life
+  label: Animal marriage and failed adoption of spouse community’s life
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal-Human Marriage and Kinship
+  relationship: child
+  confidence: high
+  rationale: This explicitly describes animal marriage and attempted integration into
+    an animal spouse’s community.
+  cautions: Preserve the failed-adoption detail; it may encode taboo, food rules,
+    hunting reciprocity, or limits between human and animal-person worlds.
+  suggested_aliases:
+  - failed adoption into animal spouse community
+  - animal spouse community life
+  - animal marriage with failed integration
+  suggested_new_group:
+    id: animal_human_marriage_kinship
+    label: Animal-Human Marriage and Kinship
+    description: Marriage, adoption, descent, nursing, or household relations between
+      humans and animal-persons or animal communities, often explaining kinship obligations,
+      taboos, origins, or failed movement between human and animal worlds.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - miraculous_child
+    - sacred_law
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover love, transformation,
+      or otherworld contact, but not the social-kinship structure of animal spouses,
+      animal in-laws, adoption, and cross-species household relations.
+- suggestion_id: normalization.suggestion.animal-marriage-relation
+  motif_id: animal_marriage_relation
+  label: animal marriage relation
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal-Human Marriage and Kinship
+  relationship: child
+  confidence: medium
+  rationale: The generated label points to cross-species marriage as a kinship relation.
+  cautions: Very broad and single occurrence; verify whether the relation is marital,
+    sexual, ancestral, symbolic, or a fable convention before final mapping.
+  suggested_aliases:
+  - animal marriage
+  - animal spouse relation
+  - cross-species marriage relation
+  suggested_new_group:
+    id: animal_human_marriage_kinship
+    label: Animal-Human Marriage and Kinship
+    description: Marriage, adoption, descent, nursing, or household relations between
+      humans and animal-persons or animal communities, often explaining kinship obligations,
+      taboos, origins, or failed movement between human and animal worlds.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - miraculous_child
+    - sacred_law
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover love, transformation,
+      or otherworld contact, but not the social-kinship structure of animal spouses,
+      animal in-laws, adoption, and cross-species household relations.
+- suggestion_id: normalization.suggestion.animal-mother-adopts-human-killer-as-replacement-son
+  motif_id: animal_mother_adopts_human_killer_as_replacement_son
+  label: animal mother adopts human killer as replacement son
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal-Human Marriage and Kinship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Adoption by an animal mother creates cross-species kinship and replacement-family
+    obligations.
+  cautions: The killing/replacement sequence may be central; review whether this is
+    a reconciliation, hunting reciprocity, vengeance repair, or adoption motif.
+  suggested_aliases:
+  - animal mother adopts human as replacement son
+  - replacement son adopted by animal mother
+  - cross-species adoption after killing
+  suggested_new_group:
+    id: animal_human_marriage_kinship
+    label: Animal-Human Marriage and Kinship
+    description: Marriage, adoption, descent, nursing, or household relations between
+      humans and animal-persons or animal communities, often explaining kinship obligations,
+      taboos, origins, or failed movement between human and animal worlds.
+    parent_group_ids:
+    - sacred_love
+    - shapeshifter
+    related_group_ids:
+    - otherworld
+    - miraculous_child
+    - sacred_law
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover love, transformation,
+      or otherworld contact, but not the social-kinship structure of animal spouses,
+      animal in-laws, adoption, and cross-species household relations.
+- suggestion_id: normalization.suggestion.animal-mother-insists-on-equal-nursing-of-children
+  motif_id: animal_mother_insists_on_equal_nursing_of_children
+  label: animal mother insists on equal nursing of children
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal nursing and protection of children fits extraordinary child care
+    and nurturance within the miraculous_child complex.
+  cautions: If the passage centers on ethical fairness, animal kinship, or maternal
+    law rather than extraordinary infancy, sacred_law or a future animal-kinship group
+    may be better.
+  suggested_aliases:
+  - animal mother nurses children equally
+  - equal nursing by animal mother
+  - animal foster mother nursing children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - mother_goddess
+    - animal_human_marriage_kinship
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch point toward a possible durable group for animal-human
+  marriage, adoption, and kinship; human review should confirm whether these are animal-person
+  social relations rather than simple shapeshifting or romantic love.
+- Single-occurrence Indigenous and local ritual labels should be reviewed with source
+  context before canonical promotion or broad pattern use.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; animal-human kinship candidate proposed for
+    repeated cross-species marriage/adoption labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1748
+  input_sha256: 90f5795d9140fd4180db5c02d9888a0b387c4cd0cc9e38496baef94b77117e60
+

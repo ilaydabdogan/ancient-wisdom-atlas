@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0945
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.passing-sacred-implements-over-the-initiate-s-body
+  motif_id: passing_sacred_implements_over_the_initiate_s_body
+  label: Passing sacred implements over the initiate's body
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The rite acts directly on an initiate's body during a status-transforming
+    ritual.
+  cautions: Single occurrence and culturally specific ritual detail; verify whether
+    the function is initiation, healing, purification, or consecration before final
+    mapping.
+  suggested_aliases:
+  - sacred_implements_passed_over_initiate
+  - ritual_implements_over_initiate_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passive-divine-ruler-delegating-heroic-action
+  motif_id: passive_divine_ruler_delegating_heroic_action
+  label: passive divine ruler delegating heroic action
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine ruler who delegates action is primarily a sovereignty-role pattern
+    rather than a ritual or sacrifice motif.
+  cautions: Could instead fit divine_intervention or divine_warrior if the delegated
+    action is the functional focus; source context is needed.
+  suggested_aliases:
+  - divine_ruler_delegates_heroic_action
+  - remote_divine_sovereign_delegates_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pastoral-divine-protector
+  motif_id: pastoral_divine_protector
+  label: pastoral divine protector
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine protector in a pastoral role fits protective divine agency in
+    human or communal affairs.
+  cautions: If the label names a specific deity-title or office without narrative
+    action, it may be too role-descriptive for pattern queries.
+  suggested_aliases:
+  - divine_pastoral_protector
+  - pastoral_guardian_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patriarchal-blessing-with-intimate-farewell-gesture
+  motif_id: patriarchal_blessing_with_intimate_farewell_gesture
+  label: Patriarchal blessing with intimate farewell gesture
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The blessing is a performative sacred speech act; the farewell gesture
+    is likely local evidence detail.
+  cautions: May be an episode-specific deathbed or family scene; preserve the intimate
+    gesture in notes rather than promoting it as a motif.
+  suggested_aliases:
+  - patriarchal_farewell_blessing
+  - deathbed_patriarchal_blessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patriarchal-curse-and-blessing-shaping-descendants
+  motif_id: patriarchal_curse_and_blessing_shaping_descendants
+  label: patriarchal curse and blessing shaping descendants
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: Curses and blessings that shape descendants are classic performative
+    sacred speech acts with lasting force.
+  cautions: May also support covenant or ancestral-origin indexing if the passage
+    emphasizes lineage order rather than the speech act itself.
+  suggested_aliases:
+  - ancestral_curse_and_blessing_shape_descendants
+  - patriarchal_blessing_and_curse_over_lineage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patronage-enabling-sacred-text-production
+  motif_id: patronage_enabling_sacred_text_production
+  label: patronage enabling sacred-text production
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe social conditions for producing a sacred text
+    rather than a symbolic narrative motif.
+  cautions: Could be a textual-history or patronage note; map to sacred_knowledge
+    only if the passage treats patronage as sacred transmission rather than historical
+    context.
+  suggested_aliases:
+  - patronage_of_sacred_text_production
+  - patron_supported_scriptural_compilation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patronymic-sacred-roster
+  motif_id: patronymic_sacred_roster
+  label: Patronymic sacred roster
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A patronymic roster appears to be a list or catalog structure rather
+    than a narrative or symbolic motif.
+  cautions: If the roster performs ritual genealogy or ancestral legitimation in the
+    source, reconsider under cosmic_origin or royal_legitimacy; otherwise exclude
+    from motif queries.
+  suggested_aliases:
+  - patronymic_roster
+  - sacred_genealogical_list
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.payment-after-ritual-cure-claim
+  motif_id: payment_after_ritual_cure_claim
+  label: Payment after ritual cure claim
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Payment following a cure may be sacred exchange, shamanic healing practice,
+    or an ethnographic/legal detail.
+  cautions: Culturally sensitive ritual-healing context; avoid reducing it to generic
+    reciprocity without evidence of sacred obligation or exchange logic.
+  suggested_aliases:
+  - ritual_cure_payment
+  - payment_for_ritual_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-centered-on-a-sacred-ritual-object-under-strict-law
+  motif_id: peace_centered_on_a_sacred_ritual_object_under_strict_law
+  label: peace centered on a sacred ritual object under strict law
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on peace maintained through strict sacred regulation
+    around a ritual object.
+  cautions: Because the object may be culturally specific and central, also consider
+    sacred_treasures or covenant if the passage emphasizes the object or peace-bond
+    more than law.
+  suggested_aliases:
+  - sacred_object_regulates_peace
+  - peace_under_sacred_object_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-pipe-office-as-inherited-or-gens-based-duty
+  motif_id: peace_pipe_office_as_inherited_or_gens_based_duty
+  label: peace-pipe office as inherited or gens-based duty
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a culturally specific ritual office and inherited
+    duty, not just a general sacred-law motif.
+  cautions: Requires human review for cultural specificity and whether to index under
+    sacred_law, covenant, sacred_treasures, or exclude as ethnographic office detail.
+  suggested_aliases:
+  - inherited_peace_pipe_office
+  - gens_based_peace_pipe_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional and avoid making transmission or origin claims.
+- Several single-occurrence ritual-office labels are culturally specific and should
+  receive human review before broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Batch includes Native American ritual-object and office labels where cultural
+    context should guide final placement.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0945
+  input_sha256: 993b0c3676a1ebe5b7bec3379466f8f239cc90ac23ba2220a714edebb6edffda
+

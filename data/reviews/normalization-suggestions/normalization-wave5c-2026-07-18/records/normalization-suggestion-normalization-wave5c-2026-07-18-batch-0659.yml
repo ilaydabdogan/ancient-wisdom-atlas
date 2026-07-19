@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0659
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.abridged-sacred-or-disciplinary-recitation-under-threat
+  motif_id: abridged_sacred_or_disciplinary_recitation_under_threat
+  label: abridged sacred or disciplinary recitation under threat
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred or disciplinary recitation transmits authoritative teaching and
+    functions as verbal religious practice.
+  cautions: The 'under threat' and 'abridged' details may be episode-specific; if
+    the passage stresses coercion more than recitation, review under sacred_law or
+    storytelling_as_power.
+  suggested_aliases:
+  - sacred_recitation_under_threat
+  - disciplinary_recitation_under_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absence-of-special-menarche-rite-or-danger-status
+  motif_id: absence_of_special_menarche_rite_or_danger_status
+  label: absence of special menarche rite or danger status
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label records the absence of a rite or danger status rather than
+    a positive narrative or ritual motif.
+  cautions: Preserve as ethnographic evidence if needed, but absence statements should
+    not drive pattern queries without source context.
+  suggested_aliases:
+  - no_special_menarche_rite
+  - absence_of_menarche_danger_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absent-ritual-founder-present-through-annual-personation
+  motif_id: absent_ritual_founder_present_through_annual_personation
+  label: Absent ritual founder present through annual personation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Annual personation of an absent founder centers on cyclical ritual re-presencing
+    in sacred time.
+  cautions: Culturally sensitive ritual personation should be reviewed with source
+    evidence; may also involve ancestor_rites or culture_hero if founder identity
+    is central.
+  suggested_aliases:
+  - annual_personation_of_absent_founder
+  - ritual_founder_represented_annually
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.absolute-divine-unity-and-non-generation
+  motif_id: absolute_divine_unity_and_non_generation
+  label: Absolute divine unity and non-generation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label expresses absolute divine sovereignty and uniqueness, closest
+    to supreme ruler/cosmic sovereignty themes.
+  cautions: This is a doctrinal/theological assertion rather than a narrative motif;
+    review whether it should be indexed as sacred_knowledge or excluded as commentary
+    in specific passages.
+  suggested_aliases:
+  - absolute_divine_unity
+  - divine_non_generation
+  - unique_unbegotten_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abstinence-vow-with-severe-bodily-sanctions
+  motif_id: abstinence_vow_with_severe_bodily_sanctions
+  label: Abstinence vow with severe bodily sanctions
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vow with sanctions is a binding sacred speech act whose violation affects
+    the body.
+  cautions: If the emphasis is ascetic renunciation, map secondarily to sacrifice
+    or mystical_quest; if legal purity is central, sacred_law may fit better.
+  suggested_aliases:
+  - abstinence_vow_with_bodily_penalty
+  - vow_enforced_by_bodily_sanction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abstract-concepts-elevated-to-divine-status
+  motif_id: abstract_concepts_elevated_to_divine_status
+  label: Abstract concepts elevated to divine status
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Personified abstractions may be divine beings, allegorical theology,
+    cult figures, or scholarly classification.
+  cautions: Needs source context to distinguish actual cult/personification motif
+    from commentary; possible placements include divine_intervention, supreme_ruler,
+    sacred_knowledge, or _meta_textual.
+  suggested_aliases:
+  - deified_abstractions
+  - personified_abstract_concepts
+  - abstract_concepts_as_deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abundant-healing-through-prayer
+  motif_id: abundant_healing_through_prayer
+  label: Abundant healing through prayer
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Healing granted through prayer is direct sacred aid in human affliction.
+  cautions: If the passage stresses reciprocal petition more than divine action, sacred_exchange
+    may be a secondary placement.
+  suggested_aliases:
+  - healing_through_prayer
+  - prayer_for_healing
+  - divine_healing_by_prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.acceptable-and-unacceptable-ritual-practical-implements
+  motif_id: acceptable_and_unacceptable_ritual_practical_implements
+  label: acceptable and unacceptable ritual-practical implements
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rules distinguishing permitted and prohibited ritual implements fit sacred
+    law and ritual regulation.
+  cautions: May be a monastic disciplinary detail rather than a cross-source motif;
+    preserve implement specifics as evidence notes only.
+  suggested_aliases:
+  - regulated_ritual_implements
+  - permitted_and_forbidden_ritual_implements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.acceptance-of-divine-will
+  motif_id: acceptance_of_divine_will
+  label: acceptance of divine will
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Acceptance of divine will is an interior devotional discipline aligned
+    with surrender on the mystical path.
+  cautions: This is abstract and doctrinal; if it appears only as teaching rather
+    than narrative practice, sacred_knowledge may fit better or the label may be too
+    thematic for pattern queries.
+  suggested_aliases:
+  - submission_to_divine_will
+  - accepting_divine_command
+  - devotional_acceptance_of_will
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-versus-hereditary-acquisition-of-ritual-identity
+  motif_id: accidental_versus_hereditary_acquisition_of_ritual_identity
+  label: Accidental versus hereditary acquisition of ritual identity
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns how ritual status is acquired, but its narrative or
+    ritual function is unclear from wording alone.
+  cautions: Culturally sensitive identity categories require source review; possible
+    fits include initiation, sacred_law, royal_legitimacy, or exclusion as ethnographic
+    classification.
+  suggested_aliases:
+  - acquisition_of_ritual_identity
+  - hereditary_ritual_identity
+  - accidental_ritual_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence ritual or doctrinal labels; placements
+  should remain provisional until passage evidence confirms motif function.
+- Avoid treating doctrinal similarity or ritual classification as evidence of transmission
+  or common origin.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: One relationship value for acceptance_of_divine_will is constrained by schema
+    despite better conceptual fit as mystical/teaching variant; human review should
+    normalize if taxonomy allows additional relationship terms.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0659
+  input_sha256: 831bf2378116d476218ecd494e8134e2b0cf80812178c9d812c490bce8b2521c
+

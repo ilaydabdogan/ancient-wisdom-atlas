@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1842
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.filial-vengeance-for-murdered-parent
+  motif_id: filial_vengeance_for_murdered_parent
+  label: filial vengeance for murdered parent
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Vengeance for a murdered parent is a kinship-driven retaliatory conflict
+    motif; existing sacred_combat already contains vengeance for fallen king/hero
+    and slain companion variants.
+  cautions: Could fit sacred_law or covenant if the passage emphasizes filial duty
+    or moral obligation more than violent retaliation; single occurrence.
+  suggested_aliases:
+  - filial vengeance
+  - vengeance for murdered parent
+  - avenging a murdered parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-bathing-and-fire-handling-without-apparent-injury
+  motif_id: fire_bathing_and_fire_handling_without_apparent_injury
+  label: fire bathing and fire handling without apparent injury
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate ritual fire ordeal, shamanic power, divine protection,
+    or invulnerability, and the function is unclear from wording alone.
+  cautions: Culturally sensitive ritual evidence; do not collapse into sacred_fire
+    or invulnerability without source context about sacred presence, ordeal, or bodily
+    protection.
+  suggested_aliases:
+  - fire handling without injury
+  - fire bathing without injury
+  - ritual fire handling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-borne-message-to-a-grandfather
+  motif_id: fire_borne_message_to_a_grandfather
+  label: fire-borne message to a grandfather
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fire acts as a medium carrying communication, fitting sacred_fire as
+    mediator between persons or realms.
+  cautions: If the grandfather is an ancestor or otherworld figure, ancestor_rites
+    or afterlife_passage may be relevant; preserve the kinship detail as evidence.
+  suggested_aliases:
+  - fire-borne message
+  - message carried by fire
+  - fire as communication medium
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-display-with-disappearance-and-apparent-restoration
+  motif_id: fire_display_with_disappearance_and_apparent_restoration
+  label: Fire display with disappearance and apparent restoration
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The sequence may be ritual performance, illusion, death-and-return, shamanic
+    transformation, or sacred fire display depending on evidence.
+  cautions: Avoid mapping to resurrection or death_and_transformation unless actual
+    death/restoration is present; may be a passage-specific performance detail.
+  suggested_aliases:
+  - fire display with restoration
+  - disappearance and restoration in fire
+  - fire performance transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-hardened-wooden-weapon-kills-dangerous-supernatural-husband
+  motif_id: fire_hardened_wooden_weapon_kills_dangerous_supernatural_husband
+  label: fire-hardened wooden weapon kills dangerous supernatural husband
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core action is killing a dangerous supernatural opponent with a prepared
+    weapon, which fits combat against dangerous nonhuman forces.
+  cautions: Highly specific composite label; if focus is marital danger or escape
+    from a supernatural spouse, sacred_love or a persecuted-spouse pattern may be
+    more appropriate, but no existing group cleanly covers that.
+  suggested_aliases:
+  - fire-hardened wooden weapon
+  - supernatural husband slain by weapon
+  - dangerous supernatural spouse defeated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fire-personification-deity-linked-to-mischief
+  motif_id: fire_personification_deity_linked_to_mischief
+  label: fire-personification deity linked to mischief
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: role_variant
+  confidence: medium
+  rationale: A deity linked to mischief is better captured by the trickster role than
+    by fire symbolism alone.
+  cautions: If the passage emphasizes fire as sacred element or destructive force
+    rather than mischievous agency, sacred_fire may be a secondary mapping; avoid
+    treating a deity name alone as a motif.
+  suggested_aliases:
+  - mischievous fire deity
+  - fire trickster deity
+  - fire personification as trickster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.firewood-gathering-as-marker-of-residence-with-husband-s-people
+  motif_id: firewood_gathering_as_marker_of_residence_with_husband_s_people
+  label: firewood gathering as marker of residence with husband's people
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a contextual ethnographic or domestic-residence detail
+    rather than a reusable mythic motif.
+  cautions: If repeated as a ritualized marriage-residence sign across sources, it
+    might later fit sacred_law or sacred_exchange; current single occurrence is too
+    specific.
+  suggested_aliases:
+  - firewood gathering as marital residence marker
+  - residence with husband's people signaled by firewood gathering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.first-born-child-ceremony
+  motif_id: first_born_child_ceremony
+  label: First-born child ceremony
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label indicates a birth or child-related rite, but the ritual function
+    is unspecified.
+  cautions: Could belong to miraculous_child, sacred_law, sacred_exchange, or sacrifice
+    depending on whether the ceremony marks status, offering, protection, or kinship
+    obligation; culturally specific rite needs source review.
+  suggested_aliases:
+  - first-born ceremony
+  - firstborn child rite
+  - first child ceremony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.first-female-child-killed
+  motif_id: first_female_child_killed
+  label: First female child killed
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves gendered child killing, but its narrative or ritual
+    function is not clear from the label alone.
+  cautions: Sensitive content; could be sacrifice, divine_judgment, social law, etiological
+    violence, or passage-specific harm. Requires source evidence before normalization.
+  suggested_aliases:
+  - killing of first female child
+  - first daughter killed
+  - gendered child killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.first-murder-caused-by-jealousy-over-a-wife
+  motif_id: first_murder_caused_by_jealousy_over_a_wife
+  label: first murder caused by jealousy over a wife
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A first murder caused by jealousy functions as an etiological moral transgression
+    that introduces violence and calls for reckoning.
+  cautions: Could also relate to sacred_love if jealousy is central, or cosmic_origin
+    if the passage primarily explains the origin of murder; single occurrence should
+    preserve the etiology detail.
+  suggested_aliases:
+  - first murder from jealousy
+  - jealousy over wife causes first murder
+  - origin of murder through jealousy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, highly contextual, and from
+  culturally specific ritual or kinship settings; source review is recommended before
+  promoting any new taxonomy group.
+- 'Fire labels split by function: sacred_fire for mediation or sacred element, trickster
+  for mischievous agency, sacred_combat for weaponized conflict, and human review
+  where ritual or shamanic meaning is unclear.'
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1842
+  input_sha256: 17db5645c0d52a524d46e3a498e1bdd447c646f66d2601d6ba5a47c706ac76b9
+

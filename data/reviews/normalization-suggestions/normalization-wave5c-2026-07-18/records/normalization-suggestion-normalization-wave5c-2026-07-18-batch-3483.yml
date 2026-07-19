@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3483
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.foundation-of-religious-community-and-first-monastery
+  motif_id: foundation_of_religious_community_and_first_monastery
+  label: Foundation of religious community and first monastery
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on founding an enduring religious institution, fitting
+    founder/culture-establishing functions.
+  cautions: Single Buddhist institutional episode; if passage is merely historical
+    monastic history rather than mythic founding, consider exclusion or sacred_law
+    secondary only with evidence.
+  suggested_aliases:
+  - religious_community_foundation
+  - first_monastery_founding
+  - founder_establishes_religious_institution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foundational-cultural-epic-analogue
+  motif_id: foundational_cultural_epic_analogue
+  label: foundational cultural epic analogue
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes comparative genre or scholarly classification rather
+    than a narrative motif.
+  cautions: If the source passage contains a specific founding episode, map that episode
+    separately; do not index this analytical label as a motif.
+  suggested_aliases:
+  - cultural_epic_analogue
+  - foundational_epic_comparison
+  - epic_analogue_classification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.founder-elevates-successor-institution-for-the-future
+  motif_id: founder_elevates_successor_institution_for_the_future
+  label: Founder elevates successor institution for the future
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Elevation of a successor institution concerns authorized succession and
+    continuity of sacred-social order.
+  cautions: Could instead fit culture_hero if emphasis is founding rather than legitimation;
+    source evidence needed to determine whether this is institutional history or mythic
+    authorization.
+  suggested_aliases:
+  - founder_authorizes_successor_institution
+  - succession_of_sacred_institution
+  - institutional_succession_by_founder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.founding-genealogy-through-ten-brothers-marrying-ten-sisters
+  motif_id: founding_genealogy_through_ten_brothers_marrying_ten_sisters
+  label: founding genealogy through ten brothers marrying ten sisters
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The group already includes genealogical and eponymous origins of peoples
+    from named ancestors.
+  cautions: The sibling-marriage detail may be culturally significant and should be
+    preserved; if emphasis is kinship taboo, sacred marriage, or clan law, human review
+    may add secondary mappings.
+  suggested_aliases:
+  - founding_genealogy_from_sibling_pairs
+  - ancestral_origin_through_brother_sister_marriage
+  - genealogical_origin_of_people_from_sibling_marriages
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.founding-of-separate-pueblos-by-clan-groups
+  motif_id: founding_of_separate_pueblos_by_clan_groups
+  label: Founding of separate pueblos by clan groups
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe community-origin, settlement etiology, migration
+    outcome, or historical/social organization.
+  cautions: Culturally specific Pueblo/clan traditions require source-sensitive review;
+    avoid collapsing into generic creation or founder motifs without evidence of mythic
+    origin function.
+  suggested_aliases:
+  - clan_groups_found_separate_pueblos
+  - pueblo_foundation_by_clans
+  - clan_based_settlement_founding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.founding-settlement-through-land-clearance
+  motif_id: founding_settlement_through_land_clearance
+  label: founding settlement through land clearance
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: medium
+  rationale: Clearing land to found settlement fits civilization-founding and establishment
+    of human order.
+  cautions: May be a historical/political detail rather than mythic motif; if focused
+    on agricultural labor or moral governance, sacred_law or royal_legitimacy may
+    be secondary.
+  suggested_aliases:
+  - settlement_foundation_by_land_clearance
+  - land_clearance_as_culture_founding
+  - founding_clearing_of_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.founding-shrine-at-the-first-landing-place
+  motif_id: founding_shrine_at_the_first_landing_place
+  label: Founding shrine at the first landing place
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A shrine established at an origin or landing site can mark a sacred center
+    and anchor sacred geography.
+  cautions: If the focus is pilgrimage/relic devotion, sacred_treasures or axis_mundi
+    may be better; if merely historical place foundation, exclude from motif queries.
+  suggested_aliases:
+  - first_landing_place_shrine
+  - origin_site_shrine_foundation
+  - shrine_founded_at_arrival_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-colored-supernatural-arrows
+  motif_id: four_colored_supernatural_arrows
+  label: four colored supernatural arrows
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Supernatural arrows are power objects that confer sacred ability, protection,
+    or martial force.
+  cautions: The four colors may encode directions, ritual order, or specific Plains
+    cosmology; do not reduce to generic weapons if color-direction symbolism is central.
+  suggested_aliases:
+  - four_colored_sacred_arrows
+  - supernatural_colored_arrows
+  - sacred_arrows_of_four_colors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-colored-thunder-beings
+  motif_id: four_colored_thunder_beings
+  label: four-colored thunder beings
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve directional color cosmology, weather powers,
+    divine beings, or sacred order not cleanly covered by existing groups.
+  cautions: Culturally sensitive Native American Southwest material; avoid forcing
+    into divine_intervention or sacred_fire without passage evidence about function
+    and ceremonial context.
+  suggested_aliases:
+  - four_colored_thunder_powers
+  - thunder_beings_of_four_colors
+  - directional_thunder_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-day-ceremonial-period
+  motif_id: four_day_ceremonial_period
+  label: four-day ceremonial period
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A specified ceremonial duration is a ritual ordering of time, fitting
+    sacred_time.
+  cautions: May be an ethnographic scheduling detail unless the four-day structure
+    has mythic or ritual significance; preserve number-specific evidence for human
+    review.
+  suggested_aliases:
+  - four_day_ritual_period
+  - four_day_ceremony_cycle
+  - ceremonial_time_of_four_days
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence foundation or institution labels; human review
+  should distinguish mythic founding motifs from historical or editorial details.
+- Native American color/direction/thunder and ceremonial-time labels should be reviewed
+  with source-sensitive attention to local cosmology and ritual context.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional automated suggestions only; confirm culturally specific and single-occurrence
+    labels before taxonomy updates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3483
+  input_sha256: c98257c7af7ef4c14dcd6b854783693eeca58fa4629f97fba3bf0a73db60e959
+

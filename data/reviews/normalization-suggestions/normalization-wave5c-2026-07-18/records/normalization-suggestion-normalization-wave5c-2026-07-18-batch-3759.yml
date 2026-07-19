@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3759
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.parallel-sign-as-decipherment-key
+  motif_id: parallel_sign_as_decipherment_key
+  label: Parallel sign as decipherment key
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: Decipherment of signs may involve acquisition or interpretation of hidden
+    knowledge, but the label could also be an analytical note.
+  cautions: Single occurrence; verify whether this is a narrative motif in the source
+    or a scholarly/comparative artifact.
+  suggested_aliases:
+  - decipherment_key
+  - sign_as_key_to_hidden_meaning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parallel-tribal-migration-histories
+  motif_id: parallel_tribal_migration_histories
+  label: parallel tribal migration histories
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe comparative historical parallelism rather than
+    a symbolic or narrative motif.
+  cautions: Avoid treating migration-history parallels as transmission or origin evidence
+    here; source context is needed to distinguish mythic journey, ethnogenesis, and
+    commentary.
+  suggested_aliases:
+  - parallel_migration_traditions
+  - tribal_migration_parallel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parasitic-drones-and-honey-economy
+  motif_id: parasitic_drones_and_honey_economy
+  label: parasitic drones and honey economy
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a social or economic metaphor using bees, but no existing group
+    clearly captures this without passage evidence.
+  cautions: Likely over-specific; determine whether it is fable symbolism, ethical
+    critique, natural observation, or commentary before mapping.
+  suggested_aliases:
+  - drones_as_parasitic_consumers
+  - bee_honey_economy_metaphor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pardon-followed-by-restoration-to-feast
+  motif_id: pardon_followed_by_restoration_to_feast
+  label: pardon followed by restoration to feast
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Pardon and reintegration into a feast repair a broken social or sacred
+    bond through mercy and restored belonging.
+  cautions: If the feast is mainly hospitality or sacred exchange rather than pardon,
+    secondary placement under sacred_exchange may fit.
+  suggested_aliases:
+  - pardon_and_reintegration_at_feast
+  - forgiven_return_to_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parley-under-raised-flag-with-armed-mediation
+  motif_id: parley_under_raised_flag_with_armed_mediation
+  label: Parley under raised flag with armed mediation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A formal parley under a raised flag is a ritualized warfare or conflict-mediation
+    scene.
+  cautions: May be too historically specific; if the passage emphasizes diplomacy
+    or law more than combat, sacred_law or covenant may be better.
+  suggested_aliases:
+  - ritualized_battlefield_parley
+  - raised_flag_parley
+  - armed_mediation_in_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parody-of-a-mythic-threat
+  motif_id: parody_of_a_mythic_threat
+  label: parody of a mythic threat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a literary mode or reception of a motif rather than
+    the threat motif itself.
+  cautions: Preserve as a textual note if useful; if the source passage contains a
+    recurrent comic threat pattern, review separately under trickster or storytelling_as_power.
+  suggested_aliases:
+  - mythic_threat_parody
+  - parodic_mythic_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parricidal-tyrant-born-from-the-people
+  motif_id: parricidal_tyrant_born_from_the_people
+  label: Parricidal tyrant born from the people
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: role_variant
+  confidence: low
+  rationale: A tyrant figure marked by parricide and popular origin suggests political
+    corruption and downfall through overreach.
+  cautions: Could instead belong under royal_legitimacy or divine_judgment depending
+    on whether the passage emphasizes kingship, punishment, or social critique.
+  suggested_aliases:
+  - parricidal_tyrant
+  - people_born_tyrant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.partial-human-and-nonhuman-appearance
+  motif_id: partial_human_and_nonhuman_appearance
+  label: partial human and nonhuman appearance
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A mixed human/nonhuman appearance fits bodily transformation or liminal
+    hybrid identity.
+  cautions: If the figure is a stable hybrid guardian or animal ancestor rather than
+    a transformed being, threshold_guardian or another animal-focused placement may
+    be better.
+  suggested_aliases:
+  - mixed_human_nonhuman_form
+  - hybrid_human_nonhuman_appearance
+  - partly_human_partly_nonhuman_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.partial-material-replacement-with-persistence-of-older-tools
+  motif_id: partial_material_replacement_with_persistence_of_older_tools
+  label: Partial material replacement with persistence of older tools
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an ethnographic or material-culture observation rather
+    than a narrative or symbolic motif.
+  cautions: If a source myth explains the origin or sacred use of older tools, review
+    under culture_hero or sacred_craft instead.
+  suggested_aliases:
+  - older_tools_persist_after_material_replacement
+  - partial_tool_material_replacement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.partial-perception-of-an-unseen-whole
+  motif_id: partial_perception_of_an_unseen_whole
+  label: partial perception of an unseen whole
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Partial perception of a hidden whole fits mystical epistemology and the
+    seeker's movement toward fuller sacred knowledge.
+  cautions: Could map to sacred_knowledge if it is a teaching about knowledge rather
+    than an interior journey; preserve Sufi contemplative context.
+  suggested_aliases:
+  - glimpse_of_unseen_whole
+  - partial_vision_of_hidden_totality
+  - limited_perception_of_divine_reality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and appear over-specific or commentary-like;
+  human review should check source evidence before promoting any new group.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for wave5c batch 3759.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3759
+  input_sha256: f9c85706c622d1e0d61c3b23d15c29e725cc27977b3ed5b9690e8632794fc620
+

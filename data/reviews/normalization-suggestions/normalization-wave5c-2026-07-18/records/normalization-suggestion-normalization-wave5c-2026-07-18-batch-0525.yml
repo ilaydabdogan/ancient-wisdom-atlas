@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0525
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hero-delays-departure-to-avoid-the-appearance-of-fear
+  motif_id: hero_delays_departure_to_avoid_the_appearance_of_fear
+  label: hero delays departure to avoid the appearance of fear
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: Departure timing may relate to heroic journey, but the emphasis is reputation
+    management rather than transformation or travel.
+  cautions: Single occurrence and likely episode-specific; could also fit heroic honor
+    or combat ethos if context is martial.
+  suggested_aliases:
+  - delayed_departure_to_avoid_shame
+  - honor_bound_delay_before_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-s-star-like-arrival-and-erotic-admiration
+  motif_id: hero_s_star_like_arrival_and_erotic_admiration
+  label: hero's star-like arrival and erotic admiration
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: Erotic admiration points toward love/longing, while star-like arrival
+    may be ornamental heroic description.
+  cautions: Composite and highly specific; do not map to celestial or theophany motifs
+    unless the passage treats the hero as divine or cosmic.
+  suggested_aliases:
+  - radiant_hero_arrival_arouses_desire
+  - star_like_heroic_arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hero-settles-after-questing
+  motif_id: hero_settles_after_questing
+  label: hero settles after questing
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Settlement after questing is a post-quest resolution related to return
+    or completion of the hero journey.
+  cautions: If settlement founds a polity or lineage, royal_legitimacy or culture_hero
+    may be relevant as secondary context.
+  suggested_aliases:
+  - post_quest_settlement
+  - heroic_settlement_after_wandering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-arming-before-departure
+  motif_id: heroic_arming_before_departure
+  label: heroic arming before departure
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Arming before leaving marks preparation for a charged departure or quest
+    ordeal.
+  cautions: If the passage focuses on battle equipment rather than journey departure,
+    sacred_combat or divine_warrior may be better.
+  suggested_aliases:
+  - arming_before_quest_departure
+  - pre_departure_heroic_arming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-arrival-from-beyond-the-sea
+  motif_id: heroic_arrival_from_beyond_the_sea
+  label: heroic arrival from beyond the sea
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero arriving from a distant sea-beyond location fits journey arrival
+    within the departure/return complex.
+  cautions: Could instead indicate otherworld arrival or sacred waters if the sea
+    crossing has supernatural boundary function.
+  suggested_aliases:
+  - hero_arrives_from_overseas
+  - arrival_from_beyond_the_sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-arrival-marked-by-splendor-and-a-mighty-horse
+  motif_id: heroic_arrival_marked_by_splendor_and_a_mighty_horse
+  label: Heroic arrival marked by splendor and a mighty horse
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: uncertain
+  confidence: low
+  rationale: Splendid arrival with a powerful mount may mark warrior status, but may
+    also be descriptive scene-setting.
+  cautions: Single occurrence and object-rich wording; map to divine_warrior only
+    if the arrival establishes martial or sacred power.
+  suggested_aliases:
+  - splendid_heroic_arrival_on_mighty_horse
+  - hero_arrives_with_magnificent_horse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-crossing-of-city-boundary
+  motif_id: heroic_crossing_of_city_boundary
+  label: heroic crossing of city boundary
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Crossing a city boundary can mark threshold passage in a hero's departure,
+    arrival, or entry into ordeal.
+  cautions: If the boundary itself is ritually guarded or dangerous, threshold_guardian
+    or sacred_law may be relevant.
+  suggested_aliases:
+  - hero_crosses_city_threshold
+  - city_boundary_crossing_by_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-defender-as-shield-and-ship-protector
+  motif_id: heroic_defender_as_shield_and_ship_protector
+  label: heroic defender as shield and ship-protector
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The label casts the hero in a martial protective role, closer to divine_warrior
+    than journey structure.
+  cautions: May be metaphorical praise rather than a motif; if only epithetic, treat
+    as evidence detail.
+  suggested_aliases:
+  - hero_as_protective_shield
+  - ship_protecting_heroic_defender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-equipment-catalogue-before-arrival
+  motif_id: heroic_equipment_catalogue_before_arrival
+  label: heroic equipment catalogue before arrival
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A catalogue of equipment is more likely a descriptive or compositional
+    passage feature than a reusable symbolic motif.
+  cautions: If specific items have divine origin or confer power, preserve those separately
+    under sacred_treasures or divine_warrior.
+  suggested_aliases:
+  - pre_arrival_equipment_catalogue
+  - heroic_gear_catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heroic-friendship-recalled-through-shared-deeds
+  motif_id: heroic_friendship_recalled_through_shared_deeds
+  label: heroic friendship recalled through shared deeds
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: uncertain
+  confidence: low
+  rationale: Recalled shared deeds may function as lament or memorial recognition,
+    but the label alone does not specify death or mourning.
+  cautions: Could fit hero_journey if framed as companionship on quests, or storytelling_as_power
+    if framed as commemorative narration.
+  suggested_aliases:
+  - memory_of_heroic_friendship_through_deeds
+  - shared_deeds_recall_heroic_companionship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence heroic scene details; human review
+  should verify whether each functions as a recurring motif or merely as descriptive
+  narration.
+- Avoid treating arrival, splendor, or sea imagery as theophany, sacred waters, or
+  otherworld evidence without passage-level support.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; most items need passage evidence because they
+    are granular journey/heroic-description labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0525
+  input_sha256: 32210e2bb54febffca38c0f226de50897a377b3b23155d41b42b72afb2621fdd
+

@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0988
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.purity-of-shared-vessels-after-mouth-contact
+  motif_id: purity_of_shared_vessels_after_mouth_contact
+  label: Purity of shared vessels after mouth contact
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rule about purity of shared vessels after bodily contact fits ritual
+    purity and social regulation under sacred law.
+  cautions: Single occurrence and highly specific; preserve vessel and mouth-contact
+    detail as evidence rather than a canonical motif.
+  suggested_aliases:
+  - vessel_purity_after_mouth_contact
+  - purity_rule_for_shared_vessels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purity-of-song-knowledge-and-celestial-phases
+  motif_id: purity_of_song_knowledge_and_celestial_phases
+  label: Purity of song, knowledge, and celestial phases
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines purity, song, knowledge, and celestial timing, which
+    could point to sacred_knowledge, sacred_song, or sacred_time depending on passage
+    evidence.
+  cautions: Composite abstract label; do not collapse to ritual purity without confirming
+    whether the function is song devotion, knowledge transmission, or calendrical
+    order.
+  suggested_aliases:
+  - purity_of_sacred_song_and_knowledge
+  - purity_linked_to_celestial_phases
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purity-or-faultlessness-required-for-ritual-participation
+  motif_id: purity_or_faultlessness_required_for_ritual_participation
+  label: Purity or faultlessness required for ritual participation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Eligibility requirements for ritual participation are ritual purity rules
+    and fit sacred law.
+  cautions: If the passage emphasizes offering or renunciation rather than eligibility,
+    sacrifice or sacred_exchange may be secondary.
+  suggested_aliases:
+  - ritual_participation_requires_purity
+  - faultlessness_required_for_ritual_participation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purity-pollution-and-cleansing-rules
+  motif_id: purity_pollution_and_cleansing_rules
+  label: purity, pollution, and cleansing rules
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: broader_label
+  confidence: high
+  rationale: This is a broad generated label for ritual purity, pollution, and cleansing
+    regulation, already covered by sacred_law.
+  cautions: Broad label should be narrowed in evidence notes when specific cleansing,
+    taboo, or pollution mechanisms are known.
+  suggested_aliases:
+  - purity_pollution_cleansing
+  - ritual_purity_and_pollution_rules
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purity-practice-involving-washing-and-water-at-night
+  motif_id: purity_practice_involving_washing_and_water_at_night
+  label: purity practice involving washing and water at night
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed washing practice is a ritual purity rule, best held under
+    sacred_law with water details preserved.
+  cautions: Could also relate to sacred_waters if water itself is symbolically central;
+    night timing may be contextual and over-specific.
+  suggested_aliases:
+  - night_washing_purity_practice
+  - ritual_washing_with_water_at_night
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purity-repels-stain
+  motif_id: purity_repels_stain
+  label: Purity repels stain
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The image of purity resisting stain fits the purity-pollution symbolic
+    field within sacred law.
+  cautions: May be a metaphor for ethical or mental discipline rather than ritual
+    purity; review context before using in ritual queries.
+  suggested_aliases:
+  - pure_being_repels_stain
+  - purity_resists_pollution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purity-requirement-for-ceremonial-leaders
+  motif_id: purity_requirement_for_ceremonial_leaders
+  label: purity requirement for ceremonial leaders
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purity requirements for ritual office or leadership are social-ritual
+    regulations under sacred law.
+  cautions: Culturally specific ceremonial roles need source-sensitive review; avoid
+    generalizing beyond the attested practice.
+  suggested_aliases:
+  - ceremonial_leader_purity_requirement
+  - ritual_officiant_purity_requirement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purity-restored-or-marked-through-prescribed-speech
+  motif_id: purity_restored_or_marked_through_prescribed_speech
+  label: purity restored or marked through prescribed speech
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The key mechanism is prescribed speech that marks or restores ritual
+    status, fitting performative sacred speech.
+  cautions: If the passage treats speech as one step in a broader purity code, sacred_law
+    should be a secondary or parent placement.
+  suggested_aliases:
+  - prescribed_speech_restores_purity
+  - ritual_speech_marks_purity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purity-rule-concerning-food-linked-to-killing
+  motif_id: purity_rule_concerning_food_linked_to_killing
+  label: purity rule concerning food linked to killing
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A food rule tied to killing belongs with ethical and ritual prohibitions
+    under sacred law.
+  cautions: May also support sacrifice or moral consequence if the passage centers
+    on violence, intention, or karmic responsibility.
+  suggested_aliases:
+  - food_purity_rule_linked_to_killing
+  - dietary_rule_concerning_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purity-rule-preserving-protectors-and-community
+  motif_id: purity_rule_preserving_protectors_and_community
+  label: purity rule preserving protectors and community
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A purity rule that protects guardians and community fits sacred law as
+    social and ritual order maintenance.
+  cautions: If protectors are divine or tutelary agents acting directly, divine_intervention
+    may be a secondary mapping; label is abstract and needs context.
+  suggested_aliases:
+  - purity_rule_protecting_community
+  - purity_rule_preserving_guardians
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence purity-rule labels and can be provisionally
+  grouped under sacred_law while preserving local ritual details.
+- Several labels are composite or abstract; human review should verify whether they
+  represent source motifs rather than generated summaries of doctrine or practice.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional model suggestions only; purity labels should be checked against
+    passage evidence and cultural context.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0988
+  input_sha256: fc0346afc8483ee049d39e60bba932810201631220ad613c2e8b47dd70cf3a40
+

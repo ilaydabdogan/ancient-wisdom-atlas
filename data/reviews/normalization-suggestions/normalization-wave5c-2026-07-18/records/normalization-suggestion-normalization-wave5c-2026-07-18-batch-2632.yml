@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2632
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cave-barrier-in-heroic-conflict
+  motif_id: cave_barrier_in_heroic_conflict
+  label: cave barrier in heroic conflict
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: low
+  rationale: A cave acting as a barrier in conflict may function as a guarded threshold
+    or obstacle in an ordeal.
+  cautions: Single occurrence and highly contextual; could instead be a combat setting,
+    cave/descent space, or episode detail without motif value.
+  suggested_aliases:
+  - cave_as_conflict_barrier
+  - cave_threshold_in_heroic_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-refuge-and-healing-after-battle
+  motif_id: cave_refuge_and_healing_after_battle
+  label: Cave refuge and healing after battle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function appears to be post-battle preservation and healing,
+    which fits rescue or protection by sacred powers if healing is supernatural.
+  cautions: If the cave is only a hiding place, sacred_vessel or cave/descent may
+    be better; if no sacred agency is present, treat as an episode detail.
+  suggested_aliases:
+  - post_battle_cave_refuge
+  - healing_refuge_in_a_cave_after_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-refuge-from-devouring-monster
+  motif_id: cave_refuge_from_devouring_monster
+  label: Cave refuge from devouring monster
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A refuge from a devouring monster in a liminal cave fits perilous threshold
+    encounter and survival ordeal.
+  cautions: Could also map to sacred_vessel if the cave is primarily a protective
+    container, or to divine_warrior/sacred_combat if monster combat is central.
+  suggested_aliases:
+  - cave_refuge_from_monster
+  - refuge_from_devouring_monster_in_cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-battle-as-northern-navigation-sign
+  motif_id: celestial_battle_as_northern_navigation_sign
+  label: Celestial battle as northern navigation sign
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A celestial battle used as a sign is closest to omen or visionary celestial
+    guidance rather than combat itself.
+  cautions: May be an astronomical/navigation note or local star lore; if systematic
+    omen-reading is present, prophecy_divination may fit better.
+  suggested_aliases:
+  - celestial_battle_as_navigation_omen
+  - mythic_battle_as_northern_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-sign-linked-to-mythic-combat
+  motif_id: celestial_sign_linked_to_mythic_combat
+  label: celestial sign linked to mythic combat
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A celestial sign associated with combat is best treated as an omen or
+    portent linked to battle.
+  cautions: Do not map to sacred_combat unless the combat event itself, not just its
+    sign, is central in the passage.
+  suggested_aliases:
+  - celestial_portent_of_mythic_combat
+  - battle_linked_celestial_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celtic-teutonic-heroic-saga-parallel-centered-on-branwen
+  motif_id: celtic_teutonic_heroic_saga_parallel_centered_on_branwen
+  label: Celtic-Teutonic heroic-saga parallel centered on Branwen
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a scholarly comparative parallel centered on a named
+    figure rather than a narrative motif.
+  cautions: Preserve as commentary or provenance if useful; do not treat as evidence
+    of transmission or borrowing in motif queries.
+  suggested_aliases:
+  - heroic_saga_parallel_centered_on_branwen
+  - celtic_teutonic_saga_parallel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.central-open-or-dancing-ground-encircled-by-inward-facing-huts
+  motif_id: central_open_or_dancing_ground_encircled_by_inward_facing_huts
+  label: central open or dancing ground encircled by inward-facing huts
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: ritual_variant
+  confidence: low
+  rationale: A central ritual/dancing ground may function as an organized communal
+    center or ritual space.
+  cautions: Could be ethnographic settlement description rather than mythic motif;
+    review cultural context and avoid over-symbolizing spatial layout.
+  suggested_aliases:
+  - central_dancing_ground
+  - ritual_center_encircled_by_huts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.central-superhuman-epic-hero
+  motif_id: central_superhuman_epic_hero
+  label: central superhuman epic hero
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A superhuman epic hero in a conflict bucket likely functions as an extraordinary
+    warrior figure.
+  cautions: Broad role label; if the passage emphasizes journey arc, royal legitimacy,
+    or culture founding rather than combat, another group may be better.
+  suggested_aliases:
+  - superhuman_epic_hero
+  - extraordinary_heroic_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-building-linked-to-chiefly-status-and-warfare
+  motif_id: ceremonial_building_linked_to_chiefly_status_and_warfare
+  label: Ceremonial building linked to chiefly status and warfare
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: low
+  rationale: A ceremonial building tied to chiefly rank and warfare may support sacred
+    political authority and social order.
+  cautions: May be an ethnographic place/status detail rather than a portable motif;
+    also overlaps world_center or sacred_combat depending on evidence.
+  suggested_aliases:
+  - ceremonial_house_of_chiefly_warfare
+  - chiefly_ceremonial_building_linked_to_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-rivalry-escalating-into-war
+  motif_id: ceremonial_rivalry_escalating_into_war
+  label: Ceremonial rivalry escalating into war
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritualized or ceremonial competition that becomes war fits sacred combat
+    and ritualized conflict.
+  cautions: Culturally specific ceremonial rivalry needs source review; could also
+    involve sacred_exchange or royal_legitimacy if status competition is primary.
+  suggested_aliases:
+  - ritual_rivalry_escalates_to_war
+  - ceremonial_competition_becomes_warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and context-dependent; suggestions favor broad
+  review groups rather than new taxonomy groups.
+- 'Cave labels should be reviewed for narrative function: refuge/container, descent
+  site, threshold obstacle, or ordinary setting.'
+- Celestial battle/sign labels should not be treated as combat motifs unless the battle
+  narrative itself is present; signs may belong under omen, vision, or navigation
+  lore.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review recommended for culturally
+    specific ritual-space and ceremonial-war labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2632
+  input_sha256: a85844c805a27e3d4b763f69b90bc05b68f8a432af1bc869c5f910061940edbd
+

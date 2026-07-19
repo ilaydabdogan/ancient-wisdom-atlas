@@ -1,0 +1,280 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0194
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fugitive-haunted-by-spirits-after-attempted-killing
+  motif_id: fugitive_haunted_by_spirits_after_attempted_killing
+  label: fugitive haunted by spirits after attempted killing
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on haunting by spirits after violence, matching active
+    dead or spirits responding to unresolved harm.
+  cautions: Single occurrence; verify whether the spirits are dead victims, generic
+    spirits, or guilt/fear imagery before final mapping.
+  suggested_aliases:
+  - haunting_after_attempted_killing
+  - spirits_haunt_a_fugitive_after_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fugitive-mistaken-for-a-spirit
+  motif_id: fugitive_mistaken_for_a_spirit
+  label: Fugitive mistaken for a spirit
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe misrecognition of a living fugitive rather than
+    an actual spirit or death-related motif.
+  cautions: Could be a passage-specific disguise/mistaken-identity detail; map only
+    if source evidence shows spirit-boundary, haunting, or otherworld logic.
+  suggested_aliases:
+  - living_fugitive_mistaken_for_spirit
+  - mistaken_spirit_identity_of_fugitive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fulfilled-ancestral-prophecy
+  motif_id: fulfilled_ancestral_prophecy
+  label: fulfilled ancestral prophecy
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is a prophecy from or tied to ancestors that is fulfilled.
+  cautions: If ancestral agency or postmortem authority is central, ancestor_rites
+    or divine_judgment may be secondary; label alone is broad.
+  suggested_aliases:
+  - ancestral_prophecy_fulfilled
+  - fulfilled_prophecy_from_ancestors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fulfilled-death-prophecy-after-violated-or-contested-departure
+  motif_id: fulfilled_death_prophecy_after_violated_or_contested_departure
+  label: Fulfilled death prophecy after violated or contested departure
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: narrower_than
+  confidence: medium
+  rationale: A foretold death that comes true aligns with fated or destined death
+    patterns.
+  cautions: Composite and over-specific; if the source emphasizes prophetic warning
+    rather than fatal destiny, prophecy_divination should be considered.
+  suggested_aliases:
+  - fulfilled_death_prophecy
+  - death_prophecy_fulfilled_after_contested_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-acts-enabling-or-protecting-the-departing-spirit
+  motif_id: funeral_acts_enabling_or_protecting_the_departing_spirit
+  label: funeral acts enabling or protecting the departing spirit
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: ritual_variant
+  confidence: high
+  rationale: Funeral acts that help or protect the departing spirit fit ritual support
+    for postmortem passage.
+  cautions: May also belong with ancestor_rites if the emphasis is continuing care
+    or feeding of the dead rather than transit.
+  suggested_aliases:
+  - funeral_protection_for_departing_spirit
+  - rites_enabling_spirit_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-context-prayer-to-saintly-spiritual-beings
+  motif_id: funeral_context_prayer_to_saintly_spiritual_beings
+  label: Funeral-context prayer to saintly spiritual beings
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines funerary context, prayer, and saintly beings without
+    showing whether the function is afterlife aid, intercession, or ritual devotion.
+  cautions: Culturally sensitive and possibly liturgical; review Zoroastrian source
+    context before mapping to afterlife_passage, sacred_exchange, or divine_intervention.
+  suggested_aliases:
+  - funerary_prayer_to_spiritual_beings
+  - prayer_to_saintly_beings_at_funeral
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-gift-procession-for-the-corpse
+  motif_id: funeral_gift_procession_for_the_corpse
+  label: funeral gift procession for the corpse
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A procession with gifts for a corpse is a funerary rite and memorial/social-order
+    act.
+  cautions: If gifts are offerings to feed or sustain the dead, ancestor_rites or
+    sacred_exchange may be better secondary mappings; not necessarily heroic.
+  suggested_aliases:
+  - funeral_gifts_for_the_corpse
+  - gift_procession_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-omens-preceding-self-chosen-death
+  motif_id: funeral_omens_preceding_self_chosen_death
+  label: funeral omens preceding self-chosen death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Omens preceding death function as signs of hidden or future knowledge.
+  cautions: Because the death is self-chosen, source context may shift placement toward
+    death_by_fate, sacrifice, or Roman ritual practice; preserve specificity as evidence.
+  suggested_aliases:
+  - funeral_omens_before_chosen_death
+  - omens_preceding_self_chosen_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-procession-to-burial-place
+  motif_id: funeral_procession_to_burial_place
+  label: funeral procession to burial place
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A procession to burial is a basic funerary rite and memorial practice.
+  cautions: May be too generic for motif queries if no symbolic or narrative function
+    is present; consider exclusion if it is only descriptive ethnographic detail.
+  suggested_aliases:
+  - procession_to_burial_place
+  - funerary_procession_to_grave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-pyre-and-altar-fires-associated-with-death-scene
+  motif_id: funeral_pyre_and_altar_fires_associated_with_death_scene
+  label: funeral pyre and altar fires associated with death scene
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Funeral pyre and altar fires use sacred fire in a mortuary ritual context.
+  cautions: If the passage emphasizes burial honors rather than fire symbolism, heroic_funeral_rites
+    may be primary; if merely scene description, exclude as over-specific detail.
+  suggested_aliases:
+  - funeral_pyre_and_altar_fire
+  - mortuary_sacred_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence funerary descriptions; reviewers should distinguish
+  recurring mortuary motifs from passage-specific ritual details.
+- Do not infer transmission or shared origin from these placements; suggested groups
+  are broad query facets only.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 0194; human
+    review needed for culturally specific funerary and spirit-context labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0194
+  input_sha256: '0568c78e9407530cab79d5a343324b48dbe5d8930ee5b14e0774f26835270c8b'
+

@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1018
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-blessing-at-a-sneeze
+  motif_id: ritual_blessing_at_a_sneeze
+  label: Ritual blessing at a sneeze
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on a spoken blessing triggered by a bodily event, fitting
+    performative sacred speech.
+  cautions: Single occurrence; if the source frames it mainly as purity etiquette
+    or apotropaic protection, sacred_law may be a secondary fit.
+  suggested_aliases:
+  - sneeze_blessing
+  - apotropaic_blessing_at_sneeze
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-blood-contact-or-consumption-after-piercing
+  motif_id: ritual_blood_contact_or_consumption_after_piercing
+  label: Ritual blood contact or consumption after piercing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Blood handling after ritual piercing may fit blood-as-life, purity law,
+    or sacrificial exchange.
+  cautions: Culturally sensitive and source-dependent; do not reduce to sacrifice
+    unless offering or surrender is explicit. Could also relate to sacred_substance
+    or initiation.
+  suggested_aliases:
+  - ritual_blood_contact_after_piercing
+  - ritual_blood_consumption_after_piercing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-bodily-scratching-before-conjured-medicine
+  motif_id: ritual_bodily_scratching_before_conjured_medicine
+  label: ritual bodily scratching before conjured medicine
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a prescribed bodily rite before medicine, plausibly
+    a ritual-protection or purity practice.
+  cautions: Highly specific and culturally sensitive; may be healing, initiation,
+    medicine-power, or ethnographic procedure rather than a broad motif.
+  suggested_aliases:
+  - ritual_scratching_before_medicine
+  - bodily_scratching_precedes_medicine_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-body-mapping-sequence
+  motif_id: ritual_body_mapping_sequence
+  label: ritual body-mapping sequence
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A ritual sequence mapped onto the body may belong with regulated purity
+    or sacred-law practice.
+  cautions: Label is abstract; needs passage evidence to distinguish purity rite,
+    cosmological body symbolism, healing, or textual analysis artifact.
+  suggested_aliases:
+  - body_mapping_rite
+  - ritual_mapping_of_body_parts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-body-painting-and-adornment-before-assembly
+  motif_id: ritual_body_painting_and_adornment_before_assembly
+  label: ritual body painting and adornment before assembly
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Preparatory body adornment before a formal assembly fits ritual regulation
+    of bodily presentation.
+  cautions: May be social ceremony, identity marking, initiation, or passage-specific
+    ethnographic detail; review before broad indexing.
+  suggested_aliases:
+  - ritual_adornment_before_assembly
+  - ceremonial_body_painting_before_assembly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-body-painting-and-left-hand-ceremonial-approach
+  motif_id: ritual_body_painting_and_left_hand_ceremonial_approach
+  label: ritual body painting and left-hand ceremonial approach
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines ceremonial body marking with a prescribed directional
+    or handed approach, suggesting ritual protocol.
+  cautions: Likely over-specific; preserve as evidence detail unless the left-hand
+    approach recurs as a distinct ritual pattern.
+  suggested_aliases:
+  - ceremonial_left_hand_approach
+  - ritual_body_painting_with_prescribed_approach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-body-painting-with-symbolic-colors
+  motif_id: ritual_body_painting_with_symbolic_colors
+  label: ritual body painting with symbolic colors
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Symbolic body painting is a ritualized bodily practice and may fit sacred-law
+    or ceremonial protocol.
+  cautions: Color symbolism may be locally specific and should not be flattened; could
+    fit initiation or identity marking depending on evidence.
+  suggested_aliases:
+  - symbolic_color_body_painting
+  - ritual_body_painting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-boundary-closure-with-one-escape-route
+  motif_id: ritual_boundary_closure_with_one_escape_route
+  label: ritual boundary closure with one escape route
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Boundary closure with an exit route matches the existing ritual expulsion
+    and boundary-sealing complex under sacrifice.
+  cautions: If no expulsion, scapegoat, or harmful-force removal is present, sacred_law
+    or threshold_guardian may be better.
+  suggested_aliases:
+  - ritual_expulsion_boundary_with_escape_route
+  - boundary_closure_for_ritual_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-boundary-demarcated-by-natural-landmarks
+  motif_id: ritual_boundary_demarcated_by_natural_landmarks
+  label: ritual boundary demarcated by natural landmarks
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritually valid boundary defined by landmarks fits sacred regulation
+    of space and ritual order.
+  cautions: May be administrative monastic boundary evidence rather than a mythic
+    motif; exclude if merely legal-topographic description.
+  suggested_aliases:
+  - ritual_boundary_by_landmarks
+  - sacred_boundary_demarcated_by_natural_features
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-boundary-drawn-with-meal-line
+  motif_id: ritual_boundary_drawn_with_meal_line
+  label: ritual boundary drawn with meal line
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Drawing a meal line creates a ritual boundary, fitting sacred spatial
+    regulation or apotropaic protection.
+  cautions: Specific ritual substance and cultural context require review; if used
+    to exclude spirits or harms, sacrifice/ritual_expulsion may be a secondary mapping.
+  suggested_aliases:
+  - meal_line_ritual_boundary
+  - ritual_boundary_marked_with_meal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence ritual-procedure labels; preserve local evidence
+  and avoid promoting them to canonical motifs without recurrence.
+- For culturally specific Indigenous ceremonial labels, human review should verify
+  source wording and avoid flattening ritual context into generic purity or sacrifice
+  categories.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; many placements are provisional due
+    to sparse labels and culturally specific ritual evidence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1018
+  input_sha256: b529ae7215e7b83d5645bd5928fe0b3a921515f648e461498f49d1f6fd1a04fd
+

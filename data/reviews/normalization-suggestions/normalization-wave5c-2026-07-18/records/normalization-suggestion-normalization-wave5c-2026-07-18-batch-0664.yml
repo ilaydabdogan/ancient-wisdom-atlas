@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0664
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.altar-sprinkling-with-medicine-water-and-plumes
+  motif_id: altar_sprinkling_with_medicine_water_and_plumes
+  label: altar sprinkling with medicine water and plumes
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual sprinkling at an altar with consecrated water and plumes appears
+    to mediate offering, purification, or relationship with sacred powers.
+  cautions: Single culturally specific ritual label; preserve medicine-water and plume
+    details and review whether sacred_waters, sacrifice, or sacred_law is primary
+    in source context.
+  suggested_aliases:
+  - altar_sprinkling
+  - ritual_sprinkling_with_medicine_water
+  - altar_purification_with_plumes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.altar-thanksgiving-after-divine-deliverance
+  motif_id: altar_thanksgiving_after_divine_deliverance
+  label: altar thanksgiving after divine deliverance
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: Thanksgiving at an altar after rescue is a reciprocal ritual response
+    to divine aid.
+  cautions: May also index divine_intervention for the deliverance event; altar detail
+    should not be promoted unless recurrent.
+  suggested_aliases:
+  - thanksgiving_offering_after_deliverance
+  - altar_thanksgiving
+  - votive_thanks_after_divine_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.altars-in-public-and-natural-settings
+  motif_id: altars_in_public_and_natural_settings
+  label: altars in public and natural settings
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies altar placement rather than a clear narrative or
+    ritual function.
+  cautions: Could fit world_center, sacred_geography, sacrifice, or be a descriptive
+    passage artifact depending on whether the altar marks sacred space or enables
+    ritual action.
+  suggested_aliases:
+  - public_altars
+  - natural_setting_altars
+  - altars_in_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.alternative-privately-read-sacred-book
+  motif_id: alternative_privately_read_sacred_book
+  label: Alternative privately read sacred book
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred book read privately centers on access to sacred knowledge or
+    scripture outside public ritual recitation.
+  cautions: The word alternative may reflect sectarian, polemical, or source-specific
+    context; review before treating as a stable motif.
+  suggested_aliases:
+  - privately_read_sacred_book
+  - private_scriptural_reading
+  - alternative_sacred_book
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-sacred-or-hostile-speech-formula
+  motif_id: ambiguous_sacred_or_hostile_speech_formula
+  label: Ambiguous sacred or hostile speech formula
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to a powerful formula but explicitly states ambiguity
+    about sacred or hostile function.
+  cautions: Could belong under curse_blessing_speech, sacred_law, or storytelling_as_power;
+    source evidence is needed to determine whether the formula binds, blesses, curses,
+    protects, or attacks.
+  suggested_aliases:
+  - ambiguous_speech_formula
+  - sacred_or_hostile_formula
+  - performative_ambiguous_formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambivalent-divine-aid-affliction-and-healing
+  motif_id: ambivalent_divine_aid_affliction_and_healing
+  label: Ambivalent divine aid, affliction, and healing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The group already includes ambivalent spirit injury-healing patterns
+    where sacred agency both harms and heals.
+  cautions: Review culturally specific agency carefully; if the source emphasizes
+    ritual cure rather than divine action, sacred_law or sacred_exchange may be secondary.
+  suggested_aliases:
+  - ambivalent_spirit_injury_healing
+  - divine_affliction_and_healing
+  - sacred_aid_as_affliction_and_cure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancient-destroyed-peoples-in-inherited-legends
+  motif_id: ancient_destroyed_peoples_in_inherited_legends
+  label: Ancient destroyed peoples in inherited legends
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Destroyed peoples may indicate divine judgment, ancestral memory, or
+    textual/reporting tradition depending on passage evidence.
+  cautions: Inherited legends wording may be a commentary or transmission framing;
+    avoid treating as contact evidence or mapping to divine_judgment without explicit
+    moral reckoning.
+  suggested_aliases:
+  - ancient_destroyed_peoples
+  - destroyed_peoples_in_legend
+  - inherited_legends_of_destroyed_peoples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancient-inherited-object-with-assumed-divine-origin
+  motif_id: ancient_inherited_object_with_assumed_divine_origin
+  label: ancient inherited object with assumed divine origin
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: An inherited object believed to have divine origin fits sacred power
+    objects that confer authority, protection, or sacred significance.
+  cautions: Assumed divine origin may be an interpretive claim; review whether the
+    object has active ritual or narrative power rather than mere antiquity.
+  suggested_aliases:
+  - inherited_divine_object
+  - ancient_sacred_object
+  - inherited_power_object_of_divine_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancient-or-foreign-origin-legitimizes-a-ritual-practice
+  motif_id: ancient_or_foreign_origin_legitimizes_a_ritual_practice
+  label: Ancient or foreign origin legitimizes a ritual practice
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns ritual authority and legitimating a practice through
+    origin or precedent, fitting sacred law and social order.
+  cautions: Foreign origin language may reflect historical or ethnographic commentary;
+    do not infer transmission, and verify that legitimation is part of the source
+    narrative.
+  suggested_aliases:
+  - origin_legitimizes_ritual_practice
+  - ancient_precedent_for_ritual
+  - foreign_origin_as_ritual_legitimation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancient-precedent-legitimates-ritual-rule
+  motif_id: ancient_precedent_legitimates_ritual_rule
+  label: ancient precedent legitimates ritual rule
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: A ritual rule grounded in ancient precedent is a sacred-law legitimation
+    pattern.
+  cautions: If the passage is monastic legal commentary rather than narrative motif,
+    preserve as evidence detail and avoid broad pattern claims.
+  suggested_aliases:
+  - ancient_precedent_for_ritual_rule
+  - precedent_legitimates_sacred_rule
+  - ritual_rule_legitimated_by_ancient_precedent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual or commentary-like phrases;
+  human review should distinguish stable motif function from ethnographic or textual
+  description.
+- Do not treat ancient/foreign/inherited wording as evidence of transmission; this
+  task only suggests taxonomy placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific ritual labels require source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0664
+  input_sha256: 335db321aec8208c6b4933014b62b5d82f88dbe797f07a321f8f5ea385129616
+

@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2878
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wounding-debility-followed-by-restoration
+  motif_id: wounding_debility_followed_by_restoration
+  label: Wounding debility followed by restoration
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The pattern centers on injury or debility followed by restoration, a
+    renewal-after-harm structure close to death/rebirth without necessarily requiring
+    death.
+  cautions: Could instead be healing by divine intervention or an ordeal-initiation
+    motif if source evidence emphasizes healer agency or status transformation.
+  suggested_aliases:
+  - injury_followed_by_restoration
+  - debilitating_wound_and_recovery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounding-of-a-one-eyed-giant-with-a-heated-stake
+  motif_id: wounding_of_a_one_eyed_giant_with_a_heated_stake
+  label: wounding of a one-eyed giant with a heated stake
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a specific monster-wounding combat episode and fits best as granular
+    evidence under combat rather than a new canonical motif.
+  cautions: Highly episode-specific; if the giant's single eye functions as a vulnerable
+    point, conditional_invulnerability_hidden_weakness may be a secondary review mapping.
+  suggested_aliases:
+  - blinding_of_one_eyed_giant
+  - heated_stake_wounds_one_eyed_giant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounding-the-faithful-paid-as-wilful-murder
+  motif_id: wounding_the_faithful_paid_as_wilful_murder
+  label: Wounding the faithful paid as wilful murder
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label concerns a sacred legal valuation of injury to the faithful,
+    aligning with sacred law and social order rather than combat narrative.
+  cautions: May be a legal-text rule rather than a narrative motif; review whether
+    to retain for pattern queries or treat as doctrinal/legal evidence detail.
+  suggested_aliases:
+  - injury_to_the_faithful_treated_as_murder
+  - sacred_penalty_for_wounding_the_faithful
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounds-as-flowers
+  motif_id: wounds_as_flowers
+  label: wounds as flowers
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: beauty_and_paradox
+  suggested_group_label: Beauty Paired with Pain and Paradox
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The image transforms wounds into flowers, directly expressing pain joined
+    to beauty and mystical paradox.
+  cautions: If the source emphasizes devotional suffering or longing more than aesthetic
+    paradox, sacred_love or mystical_quest may be relevant secondary mappings.
+  suggested_aliases:
+  - wounds_bloom_as_flowers
+  - flowers_of_wounding
+  - wound_as_flower
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrapped-cord-serving-for-weapon-binding
+  motif_id: wrapped_cord_serving_for_weapon_binding
+  label: wrapped-cord serving for weapon binding
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too material-specific to determine whether the cord is a
+    weapon technology, ritual binding, magic restraint, or ethnographic artifact.
+  cautions: Single occurrence and unclear function; avoid mapping to sacred_treasures,
+    sacred_combat, or curse_blessing_speech without passage evidence.
+  suggested_aliases:
+  - weapon_binding_cord
+  - wrapped_cord_for_binding_weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrath-of-a-central-warrior-brings-dire-consequences
+  motif_id: wrath_of_a_central_warrior_brings_dire_consequences
+  label: Wrath of a central warrior brings dire consequences
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A central warrior's wrath driving destructive consequences belongs with
+    heroic or divine warrior patterns and sacred combat consequences.
+  cautions: Could be literary characterization or a specific epic plot engine; if
+    the focus is moral excess, pride_and_downfall may be a secondary mapping.
+  suggested_aliases:
+  - warrior_wrath_with_destructive_consequences
+  - heroic_wrath_brings_disaster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrestling-as-a-test-of-physical-strength
+  motif_id: wrestling_as_a_test_of_physical_strength
+  label: wrestling as a test of physical strength
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Wrestling as a test functions as an ordeal proving strength or status,
+    aligning more with initiation than warfare.
+  cautions: If the wrestling is a formal heroic combat or contest between rivals,
+    sacred_combat may be a better placement.
+  suggested_aliases:
+  - wrestling_strength_test
+  - physical_strength_test_by_wrestling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrestling-contest-disrupting-the-household
+  motif_id: wrestling_contest_disrupting_the_household
+  label: wrestling contest disrupting the household
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: A disruptive wrestling contest is a contest/combat episode, but the household-disruption
+    element is highly contextual.
+  cautions: Could belong under trickster or hospitality/household disorder depending
+    on source context; review before indexing broadly.
+  suggested_aliases:
+  - household_disrupted_by_wrestling_contest
+  - wrestling_contest_causes_household_disorder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrongdoer-rebuked-toward-honest-work
+  motif_id: wrongdoer_rebuked_toward_honest_work
+  label: Wrongdoer rebuked toward honest work
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif is ethical correction toward proper labor and social order,
+    not primarily conflict or violence.
+  cautions: May be a moral maxim or passage-specific didactic detail rather than a
+    recurring mythic motif; wisdom may be a secondary fit if framed as teaching.
+  suggested_aliases:
+  - rebuke_of_wrongdoer_toward_honest_labor
+  - ethical_rebuke_to_work_honestly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.year-and-a-day-battle-duration
+  motif_id: year_and_a_day_battle_duration
+  label: Year-and-a-day battle duration
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label specifies a ritually marked duration for battle, fitting sacred
+    or formalized combat as granular evidence.
+  cautions: Single occurrence and formulaic duration may be a narrative convention;
+    sacred_time may be a secondary mapping if the year-and-day period has calendrical
+    significance.
+  suggested_aliases:
+  - battle_lasts_a_year_and_a_day
+  - ritual_duration_of_battle_year_and_day
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; preserve
+  them as evidence details unless recurrence supports promotion.
+- 'Conflict-bucket placement should not automatically force sacred_combat: some items
+  are better treated as law, initiation, beauty/pain symbolism, or death-restoration
+  patterns.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review recommended for low-context
+    and culturally specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2878
+  input_sha256: fa3bdade2249a1a351954af962fdd986428f8068f79a06e895b2fa42a4f8e906
+

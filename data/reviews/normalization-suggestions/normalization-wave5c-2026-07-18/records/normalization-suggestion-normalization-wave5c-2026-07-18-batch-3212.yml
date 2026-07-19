@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3212
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cannibalistic-kin-pursuit
+  motif_id: cannibalistic_kin_pursuit
+  label: cannibalistic kin pursuit
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines kinship, cannibal danger, and pursuit; existing groups do not
+    clearly separate monster/predator threat from family violence.
+  cautions: Single occurrence and culturally sensitive; source context needed before
+    mapping to trickster, sacred_combat, betrayal, or a future cannibal-ogre danger
+    group.
+  suggested_aliases:
+  - cannibal_kin_pursuit
+  - cannibal_relative_pursues_victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canoe-borne-night-surprise-attack-and-rapid-retreat
+  motif_id: canoe_borne_night_surprise_attack_and_rapid_retreat
+  label: Canoe-borne night surprise attack and rapid retreat
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core function is a raid or surprise attack, which fits the warfare
+    and raiding scope of sacred_combat.
+  cautions: Canoe, night, and retreat details may be episode-specific; avoid implying
+    ritual significance unless source evidence supports it.
+  suggested_aliases:
+  - night_surprise_raid_by_canoe
+  - canoe_borne_raid_and_retreat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canoe-borne-visitors-received-with-food
+  motif_id: canoe_borne_visitors_received_with_food
+  label: canoe-borne visitors received with food
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Visitors being received and fed is a hospitality pattern; canoe-borne
+    arrival is likely local setting detail.
+  cautions: If no test, obligation, sacred stranger, or moral consequence is present,
+    this may be a contextual travel detail rather than a motif.
+  suggested_aliases:
+  - visitors_received_with_food
+  - canoe_visitors_fed_by_hosts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canoe-people-with-headdresses
+  motif_id: canoe_people_with_headdresses
+  label: canoe people with headdresses
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a descriptive ethnographic or scene detail rather
+    than a narrative, symbolic, or ritual motif.
+  cautions: If the headdresses mark supernatural visitors, clan identity, or ritual
+    status, preserve that evidence under a more specific human-reviewed motif.
+  suggested_aliases:
+  - canoe_people_wearing_headdresses
+  - headdressed_canoe_visitors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canon-formation-through-condensation
+  motif_id: canon_formation_through_condensation
+  label: Canon formation through condensation
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes textual canon formation and editorial condensation, not
+    a mythic motif for pattern queries.
+  cautions: Retain as provenance or scholarly-textual metadata if useful for canon
+    history.
+  suggested_aliases:
+  - textual_condensation_in_canon_formation
+  - canon_condensation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canon-formation-through-recurrence-omission-and-reclassification-of-terms
+  motif_id: canon_formation_through_recurrence_omission_and_reclassification_of_terms
+  label: canon formation through recurrence, omission, and reclassification of terms
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns textual organization and terminology history rather
+    than a recurring narrative motif.
+  cautions: May be useful for philological metadata, but should not drive symbolic
+    motif searches.
+  suggested_aliases:
+  - canon_formation_by_recurrence_and_omission
+  - term_reclassification_in_canon_formation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canonical-standardization-and-suppression-of-variants
+  motif_id: canonical_standardization_and_suppression_of_variants
+  label: Canonical standardization and suppression of variants
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a transmission or canonization-history note, not a narrative
+    or symbolic motif.
+  cautions: Keep separate from motif comparison; do not use placement to imply historical
+    transmission claims.
+  suggested_aliases:
+  - canonical_standardization
+  - suppression_of_textual_variants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.canonical-total-of-eighteen-schools
+  motif_id: canonical_total_of_eighteen_schools
+  label: canonical total of eighteen schools
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: A fixed scholastic or doxographic number is a classification detail rather
+    than a mythic motif.
+  cautions: Could be retained as doctrinal-history metadata, but not indexed for pattern
+    queries without a narrative function.
+  suggested_aliases:
+  - eighteen_schools_canonical_total
+  - canonical_number_of_eighteen_schools
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-adoption-instead-of-execution
+  motif_id: captive_adoption_instead_of_execution
+  label: Captive adoption instead of execution
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe social incorporation, mercy, kinship substitution,
+    or a passage-specific practice; no existing group cleanly captures it.
+  cautions: Culturally sensitive and single occurrence; review source evidence before
+    treating as sacred law, covenant/mercy, initiation, or social-order motif.
+  suggested_aliases:
+  - adoption_of_captive_instead_of_killing
+  - captive_spared_and_adopted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.captive-composure-at-the-stake
+  motif_id: captive_composure_at_the_stake
+  label: captive composure at the stake
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could express heroic endurance, ritual execution, martyr-like composure,
+    or ethnographic description; existing groups do not cleanly cover this without
+    context.
+  cautions: Culturally sensitive and potentially violence-specific; do not map to
+    sacrifice or sacred_combat unless source evidence shows ritual or heroic function.
+  suggested_aliases:
+  - composure_of_captive_at_execution_stake
+  - stoic_captive_at_the_stake
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several canon-formation labels are best treated as textual or scholarly artifacts
+  and excluded from motif pattern queries.
+- Single-occurrence violence and captivity labels require source review because they
+  may be culturally sensitive, ethnographic details, or context-specific social practices
+  rather than stable motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally sensitive
+    captivity, cannibalism, and execution labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3212
+  input_sha256: 77e3101d364b3241b50d9c1ae69b31b1f27b262aa31bae945b32ab919c833f82
+

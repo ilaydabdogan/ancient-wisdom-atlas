@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1851
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.gender-exclusive-permitted-food
+  motif_id: gender_exclusive_permitted_food
+  label: Gender-exclusive permitted food
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A food permission restricted by gender is best treated as a ritual or
+    social prohibition within sacred law if source evidence supports normative force.
+  cautions: Single occurrence and culturally specific; verify whether this is a sacred
+    rule, ordinary social custom, or generated ethnographic detail before indexing.
+  suggested_aliases:
+  - gender_restricted_food_rule
+  - gendered_food_permission
+  - gender_exclusive_food_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-restricted-amusement-with-lookout
+  motif_id: gender_restricted_amusement_with_lookout
+  label: gender-restricted amusement with lookout
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: low
+  rationale: The gender restriction may fit sacred law or social order, but the amusement
+    and lookout details sound episode-specific.
+  cautions: May be a narrative scene or ethnographic anecdote rather than a reusable
+    motif; confirm ritual/prohibitive significance before mapping.
+  suggested_aliases:
+  - gender_restricted_activity_with_lookout
+  - gendered_prohibited_amusement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-restricted-ceremonial-consumption
+  motif_id: gender_restricted_ceremonial_consumption
+  label: gender-restricted ceremonial consumption
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ceremonial consumption limited by gender is a ritual rule governing participation
+    and permitted substances.
+  cautions: Could also relate to sacred_substance if the consumed item is central;
+    culturally specific gendered ritual evidence should be reviewed.
+  suggested_aliases:
+  - gendered_ceremonial_consumption
+  - gender_restricted_ritual_consumption
+  - gendered_consumption_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-restricted-communal-platform
+  motif_id: gender_restricted_communal_platform
+  label: gender-restricted communal platform
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A gender-restricted communal space may express sacred social order or
+    tabooed access.
+  cautions: The label may describe a local architectural/social detail rather than
+    a motif; consider sacred_law only if access restriction has ritual force.
+  suggested_aliases:
+  - gender_restricted_communal_space
+  - gendered_access_platform
+  - restricted_communal_platform
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-restricted-flute-performance
+  motif_id: gender_restricted_flute_performance
+  label: Gender-restricted flute performance
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Gender-restricted performance is primarily a ritual access/prohibition
+    pattern; the flute may be preserved as local evidence.
+  cautions: If the sound itself has supernatural force, enchanting_music may be a
+    secondary mapping; avoid flattening culturally specific ritual restrictions.
+  suggested_aliases:
+  - gender_restricted_ritual_music
+  - gendered_flute_performance_taboo
+  - restricted_flute_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-restricted-intoxicating-drink-vessel
+  motif_id: gender_restricted_intoxicating_drink_vessel
+  label: Gender-restricted intoxicating drink vessel
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core pattern appears to be a gendered restriction on ritual use of
+    a drink vessel, fitting sacred law or tabooed access.
+  cautions: May also involve sacred_substance or sacred_vessel depending on whether
+    the drink or container carries primary sacred power; source context needed.
+  suggested_aliases:
+  - gender_restricted_drink_vessel
+  - gendered_intoxicant_vessel_rule
+  - restricted_ritual_drinking_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-restricted-male-stone-meeting-place
+  motif_id: gender_restricted_male_stone_meeting_place
+  label: Gender-restricted male stone meeting place
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: low
+  rationale: A male-only meeting place may reflect regulated sacred/social space,
+    but stone and meeting-place details are highly local.
+  cautions: Could belong to sacred geography, men’s house/initiation context, or be
+    a place-only ethnographic detail; review source evidence before pattern indexing.
+  suggested_aliases:
+  - gender_restricted_male_meeting_place
+  - male_only_ritual_meeting_place
+  - gendered_stone_meeting_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-restricted-men-s-house
+  motif_id: gender_restricted_men_s_house
+  label: gender-restricted men's house
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A men’s house with restricted access can index gendered sacred/social
+    ordering if the passage emphasizes taboo, rite, or sanctioned access.
+  cautions: May instead be a local institution or place detail; if tied to rites of
+    passage, initiation may be an important secondary group.
+  suggested_aliases:
+  - men_s_house_access_restriction
+  - gender_restricted_ritual_house
+  - male_only_communal_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-restricted-performance-with-illicit-viewing
+  motif_id: gender_restricted_performance_with_illicit_viewing
+  label: gender-restricted performance with illicit viewing
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif combines restricted ritual performance with transgressive viewing,
+    a sacred-law or taboo violation pattern.
+  cautions: If the narrative centers on punishment for forbidden sight, divine_judgment
+    or forbidden_knowledge may be secondary; source context is needed.
+  suggested_aliases:
+  - illicit_viewing_of_gender_restricted_rite
+  - forbidden_viewing_of_restricted_performance
+  - gendered_performance_taboo_violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gender-separated-commensality
+  motif_id: gender_separated_commensality
+  label: Gender-separated commensality
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Gender-separated eating practices are rules of social and ritual order,
+    fitting sacred law when normatively marked.
+  cautions: If the passage emphasizes offering, reciprocal hospitality, or ceremonial
+    food substance, sacred_exchange or sacred_substance may be secondary.
+  suggested_aliases:
+  - gender_separated_eating
+  - gendered_commensality_rule
+  - separate_gender_feasting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- This batch clusters around culturally specific gendered restrictions on food, performance,
+  vessels, and spaces. Existing sacred_law can hold most as ritual/social-order variants,
+  but human review is advised because many are single-occurrence ethnographic labels.
+- If many such labels recur across traditions, reviewers may consider a future child
+  group under sacred_law for gendered ritual access and prohibition; no new group
+  is required from this batch alone.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; verify source context and cultural sensitivity
+    before adding to pattern queries.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1851
+  input_sha256: eefcac737b33aa626eda90776fcb525510f514f1a177afeafec82fca222b7638
+

@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2001
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.suitor-claims-the-maiden-s-adornment
+  motif_id: suitor_claims_the_maiden_s_adornment
+  label: Suitor claims the maiden's adornment
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: A suitor claiming a maiden's ornament likely belongs to courtship, bride-claiming,
+    or marriage-contest patterns already grouped under sacred_love.
+  cautions: Single occurrence; if the adornment functions mainly as an identity token
+    or power object, recognition_tokens_hidden_identity or sacred_treasures may be
+    better secondary mappings.
+  suggested_aliases:
+  - maiden_adornment_claimed_by_suitor
+  - suitor_claims_bride_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoned-lover-killed-in-ambush
+  motif_id: summoned_lover_killed_in_ambush
+  label: summoned lover killed in ambush
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The lover relationship drives the fatal plot, fitting tragic love and
+    perilous courtship within sacred_love.
+  cautions: Could also index under betrayal_violated_trust or sacred_combat if the
+    ambush, deception, or killing is the main motif rather than the love bond.
+  suggested_aliases:
+  - lover_summoned_to_fatal_ambush
+  - fatal_ambush_of_summoned_lover
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.summoning-a-hidden-wife-by-repeated-call
+  motif_id: summoning_a_hidden_wife_by_repeated_call
+  label: Summoning a hidden wife by repeated call
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on recovering or calling forth a spouse, a love/union
+    pattern involving a hidden beloved.
+  cautions: If the repeated call is a magical speech act, curse_blessing_speech or
+    storytelling_as_power may be relevant; if the wife belongs to an enchanted realm,
+    otherworld may be a secondary mapping.
+  suggested_aliases:
+  - hidden_wife_summoned_by_repeated_call
+  - repeated_call_recovers_hidden_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sunlit-rain-explained-as-sky-mother-s-tears
+  motif_id: sunlit_rain_explained_as_sky_mother_s_tears
+  label: sunlit rain explained as sky mother's tears
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label is etiological, explaining a natural phenomenon through a divine
+    maternal figure.
+  cautions: May also relate to mother_goddess if the focus is the sky mother rather
+    than the weather etiology; preserve the sunlit-rain detail as local evidence.
+  suggested_aliases:
+  - sunlit_rain_as_sky_mother_tears
+  - weather_etiology_from_sky_mother_tears
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sunrise-ratifies-marriage
+  motif_id: sunrise_ratifies_marriage
+  label: sunrise ratifies marriage
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Marriage validated by a cosmic sign fits sacred love and sacred marriage
+    patterns.
+  cautions: The comparative tradition tag and single occurrence suggest review is
+    needed; if sunrise is chiefly a ritual time marker, sacred_time may be a secondary
+    mapping.
+  suggested_aliases:
+  - marriage_ratified_by_sunrise
+  - cosmic_sign_ratifies_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-adversary-s-child-seized-as-hostage
+  motif_id: supernatural_adversary_s_child_seized_as_hostage
+  label: Supernatural adversary's child seized as hostage
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Seizing an enemy's child as hostage is a conflict tactic involving a
+    supernatural adversary, best held under sacred_combat.
+  cautions: Could involve miraculous_child if the child's status is central, or sacred_exchange/covenant
+    if hostage-taking functions as negotiation; source context needed.
+  suggested_aliases:
+  - hostage_child_of_supernatural_enemy
+  - supernatural_enemy_child_taken_hostage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-antagonist-as-personified-evil
+  motif_id: supernatural_antagonist_as_personified_evil
+  label: Supernatural antagonist as personified evil
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: role_variant
+  confidence: medium
+  rationale: A supernatural enemy embodying evil fits the good/evil opposition field
+    of duality.
+  cautions: Broad role label; if the passage emphasizes combat, divine_warrior or
+    sacred_combat may fit better, while a named demon alone may be too character-specific.
+  suggested_aliases:
+  - personified_evil_antagonist
+  - supernatural_enemy_as_evil_personified
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-assistance-does-not-fulfill-the-initiating-desire
+  motif_id: supernatural_assistance_does_not_fulfill_the_initiating_desire
+  label: Supernatural assistance does not fulfill the initiating desire
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif concerns supernatural aid in human affairs, even though the
+    aid fails or redirects the desire.
+  cautions: Abstract and possibly plot-summary-like; could be pride_and_downfall,
+    sacred_love, or moral lesson depending on why the desire is frustrated.
+  suggested_aliases:
+  - failed_fulfillment_by_supernatural_aid
+  - supernatural_aid_redirects_desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-bride-and-failed-incorporation-into-her-household
+  motif_id: supernatural_bride_and_failed_incorporation_into_her_household
+  label: Supernatural bride and failed incorporation into her household
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural bride and failed marital incorporation fits otherworldly
+    marriage and fragile union patterns under sacred_love.
+  cautions: If the bride's household is an enchanted realm, otherworld should be considered;
+    if the failure is a taboo breach, sacred_law or covenant may be relevant.
+  suggested_aliases:
+  - failed_incorporation_into_supernatural_bride_household
+  - supernatural_marriage_failed_household_integration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-child-associated-with-sudden-wealth
+  motif_id: supernatural_child_associated_with_sudden_wealth
+  label: supernatural child associated with sudden wealth
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: high
+  rationale: A supernatural child bringing or signaling sudden fortune belongs with
+    extraordinary children whose presence transforms household destiny.
+  cautions: If the wealth or abundance is the main function, divine_intervention or
+    sacred_exchange may be useful secondary mappings.
+  suggested_aliases:
+  - supernatural_child_brings_wealth
+  - miraculous_child_associated_with_sudden_fortune
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional. Several labels have one occurrence and may be episode-specific;
+  preserve local evidence details rather than promoting them to taxonomy families.
+- Love and marriage labels were generally placed under sacred_love, with cautions
+  where otherworld, recognition-token, or ritual-time functions may be more important.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch reviewed for broad normalization placement only; no transmission or
+    borrowing claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2001
+  input_sha256: 17589dc22b2018fda7d7f1c64d58f95de8545fc659200360714e97379d6633bf
+

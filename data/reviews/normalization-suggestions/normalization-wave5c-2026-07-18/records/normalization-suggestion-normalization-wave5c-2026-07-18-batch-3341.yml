@@ -1,0 +1,322 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3341
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.destined-fragile-egg-of-fortune
+  motif_id: destined_fragile_egg_of_fortune
+  label: Destined fragile egg of fortune
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines destiny, fragile egg symbolism, and fortune without
+    enough context to decide between fate, soul-token, cosmic egg, or passage detail.
+  cautions: Single occurrence; do not map to cosmic_egg unless it is cosmological,
+    or to external_soul unless the egg controls life or fate.
+  suggested_aliases:
+  - fragile egg of fortune
+  - fated egg of fortune
+  - destiny bound to fragile egg
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - external_soul
+    - cosmic_origin
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destined-survival-of-reckless-young-hunters
+  motif_id: destined_survival_of_reckless_young_hunters
+  label: destined survival of reckless young hunters
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve fate, ordeal survival, youth recklessness, or hunting
+    narrative context, but the motif function is unclear.
+  cautions: Single contextual label; avoid flattening to death_by_fate unless destiny
+    is explicit in the source, or to hero_journey unless survival transforms status.
+  suggested_aliases:
+  - fated survival of reckless hunters
+  - young hunters survive by destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - hero_journey
+    - initiation
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destiny-as-an-indelible-heavenly-inscription
+  motif_id: destiny_as_an_indelible_heavenly_inscription
+  label: destiny as an indelible heavenly inscription
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Indelible heavenly inscription expresses fate as fixed and written, matching
+    existing destiny and irrevocable writing aliases.
+  cautions: If the passage emphasizes heavenly record or sacred knowledge more than
+    unavoidable fate, sacred_knowledge may be a secondary mapping.
+  suggested_aliases:
+  - indelible heavenly inscription of destiny
+  - heavenly inscription of fate
+  - irrevocable written destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - fate_figures_cosmic_weaving
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destiny-as-book-and-writing
+  motif_id: destiny_as_book_and_writing
+  label: Destiny as book and writing
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Written destiny and fate-as-book align with the existing written and
+    unalterable destiny cluster under death_by_fate.
+  cautions: May also index under sacred_knowledge when the book is a cosmic record
+    or divine decree rather than a fatal destiny schema.
+  suggested_aliases:
+  - book of destiny
+  - written destiny
+  - destiny as writing
+  - fate written in a book
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - fate_figures_cosmic_weaving
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destiny-attached-to-impending-fall
+  motif_id: destiny_attached_to_impending_fall
+  label: Destiny attached to impending fall
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could mean inevitable downfall, cosmic decline, bodily fall, political
+    fall, or Daoist reversal; label alone is too abstract.
+  cautions: Do not map automatically to pride_and_downfall unless moral overreach
+    is present, or to death_by_fate unless fatal destiny is explicit.
+  suggested_aliases:
+  - fated impending fall
+  - destined fall
+  - fall governed by destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - pride_and_downfall
+    - divine_judgment
+    - duality
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destiny-perceived-at-the-beginning-of-life
+  motif_id: destiny_perceived_at_the_beginning_of_life
+  label: destiny perceived at the beginning of life
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A destiny recognized at birth or life’s beginning fits sacred birth and
+    marked-child patterns.
+  cautions: If the passage concerns fate decrees rather than birth signs, death_by_fate
+    or prophecy_divination may be better secondary mappings.
+  suggested_aliases:
+  - destiny revealed at birth
+  - birth destiny perceived
+  - fate recognized at beginning of life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - prophecy_divination
+    - sacred_birth
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destiny-written-on-the-forehead
+  motif_id: destiny_written_on_the_forehead
+  label: destiny written on the forehead
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label is a clear written-fate motif, with the forehead as the visible
+    site of destined allotment.
+  cautions: Preserve the forehead/body inscription detail; if the focus is divine
+    knowledge of destiny rather than inevitability, sacred_knowledge may be related.
+  suggested_aliases:
+  - fate written on the forehead
+  - forehead inscription of destiny
+  - written allotment on the forehead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - fate_figures_cosmic_weaving
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destroyed-camp-with-captured-kin
+  motif_id: destroyed_camp_with_captured_kin
+  label: Destroyed camp with captured kin
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as an episode-specific conflict event; it could be raid, captivity,
+    kin loss, or inciting quest depending on narrative role.
+  cautions: Single occurrence and culturally contextual; avoid broad mapping without
+    evidence of sacred combat, vengeance quest, or restoration pattern.
+  suggested_aliases:
+  - camp destroyed and kin captured
+  - captured kin after camp destruction
+  - raid destroys camp and captures kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - hero_journey
+    - lament_and_mourning
+    - stolen_beloved
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destroying-or-manipulating-the-external-object-harms-or-kills-the-owner
+  motif_id: destroying_or_manipulating_the_external_object_harms_or_kills_the_owner
+  label: Destroying or manipulating the external object harms or kills the owner
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: alias
+  confidence: high
+  rationale: This directly matches the external-soul/life-token pattern where damage
+    to an external object controls the owner’s life.
+  cautions: Comparative label may be classificatory; still useful as an alias if grounded
+    in source passages.
+  suggested_aliases:
+  - external object harms or kills owner
+  - damage to external life object harms owner
+  - destroying external life object kills owner
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destroying-the-life-token-kills-or-weakens-the-being
+  motif_id: destroying_the_life_token_kills_or_weakens_the_being
+  label: destroying the life-token kills or weakens the being
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: alias
+  confidence: high
+  rationale: Life-token destruction causing death or weakness is a core external_soul/life-token
+    motif already represented in the group.
+  cautions: If the token is merely a protective charm rather than the seat of life,
+    sacred_treasures may be secondary, but the label strongly supports external_soul.
+  suggested_aliases:
+  - life-token destruction kills being
+  - destroyed life-token weakens being
+  - breaking the life-token causes death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - conditional_invulnerability_hidden_weakness
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several destiny labels are close to existing written-fate aliases under death_by_fate,
+  but Sufi and Sikh contexts may also require sacred_knowledge or cosmic-record review.
+- Episode-specific hunting, camp-destruction, and fragile-egg labels should remain
+  provisional until source evidence clarifies narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3341
+  input_sha256: eaf196f25740bae88d1e0225e26532b35dfb842eacbfdb4688abfcd1f9494237
+

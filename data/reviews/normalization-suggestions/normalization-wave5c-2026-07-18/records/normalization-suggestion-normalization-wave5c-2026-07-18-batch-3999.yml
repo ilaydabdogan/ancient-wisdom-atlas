@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3999
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.supernatural-custodian-of-natural-forces
+  motif_id: supernatural_custodian_of_natural_forces
+  label: Supernatural custodian of natural forces
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A supernatural being governing or guarding natural forces fits divine
+    or spirit agency acting in the world.
+  cautions: Could instead be nature personification, cosmic order, or a specific deity-role
+    label; source context needed.
+  suggested_aliases:
+  - natural_force_custodian
+  - supernatural_guardian_of_nature
+  - spirit_custodian_of_natural_forces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-dancers-compelled-or-sustained-by-music
+  motif_id: supernatural_dancers_compelled_or_sustained_by_music
+  label: supernatural dancers compelled or sustained by music
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: The core function is music exerting supernatural compulsion or sustaining
+    power over dancers.
+  cautions: If the dancers themselves, not the music, are the focus, otherworld or
+    spirit encounter may be secondary.
+  suggested_aliases:
+  - compulsory_supernatural_dance_by_music
+  - music_sustains_supernatural_dancers
+  - enchanted_dance_compelled_by_music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-deliverer-revealed-after-rescue
+  motif_id: supernatural_deliverer_revealed_after_rescue
+  label: Supernatural deliverer revealed after rescue
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A hidden supernatural rescuer later revealed is a clear rescue/intervention
+    pattern.
+  cautions: May overlap with gratitude, recognition, animal helper, or divine stranger
+    motifs depending on the revealed identity.
+  suggested_aliases:
+  - hidden_supernatural_rescuer_revealed
+  - supernatural_rescuer_disclosed_after_deliverance
+  - deliverer_revealed_after_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-destructive-box-opened-in-crisis
+  motif_id: supernatural_destructive_box_opened_in_crisis
+  label: Supernatural destructive box opened in crisis
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: A supernatural box releasing destructive power matches the sacred container/forbidden
+    opening complex.
+  cautions: If opening the box causes world-scale catastrophe, flood_and_renewal or
+    divine_judgment may be secondary.
+  suggested_aliases:
+  - forbidden_box_releases_destruction
+  - destructive_power_released_from_box
+  - crisis_opening_of_supernatural_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-druidic-mist
+  motif_id: supernatural_druidic_mist
+  label: supernatural Druidic mist
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a magical atmospheric phenomenon but not its narrative
+    function.
+  cautions: Could be concealment, protection, deception, otherworld boundary, battle
+    magic, or passage artifact; review passage evidence.
+  suggested_aliases:
+  - magical_mist
+  - druidic_mist
+  - supernatural_concealing_mist
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-encounter-cluster
+  motif_id: supernatural_encounter_cluster
+  label: Supernatural encounter cluster
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase appears to be a generated clustering label rather than a specific
+    motif.
+  cautions: If the source contains a distinct repeated encounter pattern, split into
+    concrete motifs before mapping.
+  suggested_aliases:
+  - supernatural_encounter_cluster
+  - cluster_of_supernatural_encounters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-figure-racing-beside-a-sledge
+  motif_id: supernatural_figure_racing_beside_a_sledge
+  label: supernatural figure racing beside a sledge
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes an episode image without enough function to place
+    confidently.
+  cautions: Could be pursuit, omen, spirit helper, contest, threshold encounter, or
+    travel detail; source context is needed.
+  suggested_aliases:
+  - supernatural_runner_beside_sledge
+  - spirit_racing_beside_sledge
+  - supernatural_sledge_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-food-abundance-after-restoration
+  motif_id: supernatural_food_abundance_after_restoration
+  label: supernatural food abundance after restoration
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural provision or renewed abundance of food fits the divine intervention/provision
+    group.
+  cautions: If restoration follows death or seasonal renewal, death_and_transformation
+    or sacred_time may be secondary.
+  suggested_aliases:
+  - miraculous_food_abundance_after_restoration
+  - restored_food_abundance
+  - supernatural_abundance_after_renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-food-giving-spouse
+  motif_id: supernatural_food_giving_spouse
+  label: Supernatural food-giving spouse
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: role_variant
+  confidence: medium
+  rationale: A spouse who provides supernatural food centers on gift, provision, and
+    reciprocal relationship.
+  cautions: May also involve otherworld marriage, animal bride/spouse, sacred substance,
+    or tabooed relationship; evidence should guide secondary mapping.
+  suggested_aliases:
+  - food_giving_supernatural_spouse
+  - supernatural_spouse_provides_food
+  - marriage_to_food_provider_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supernatural-foot-race-with-life-wager
+  motif_id: supernatural_foot_race_with_life_wager
+  label: supernatural foot race with life wager
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A life-stakes supernatural race functions as an ordeal or contest testing
+    survival and status.
+  cautions: Could fit sacred_combat if framed as ritual contest, death_by_fate if
+    destiny dominates, or trickster if won by deception.
+  suggested_aliases:
+  - life_wager_footrace
+  - supernatural_race_for_life
+  - deadly_supernatural_footrace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All placements are provisional; several single-occurrence labels need source evidence
+  before taxonomy changes.
+- Avoid treating generic supernatural phrasing as sufficient for divine_intervention
+  when the narrative function is unclear.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch reviewed for provisional normalization suggestions only; no taxonomy
+    edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3999
+  input_sha256: 1c726a6d7404c3e71d6309b3368bc04d7768dde9d941845a3245d02a3362d98b
+

@@ -1,0 +1,282 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3344
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.destruction-of-material-representations-to-remove-evils
+  motif_id: destruction_of_material_representations_to_remove_evils
+  label: Destruction of material representations to remove evils
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Destroying representations to remove evils fits apotropaic or ritual-purity
+    practice already folded under sacred_law.
+  cautions: Could also belong with sacrifice/ritual expulsion if the material object
+    functions as a substitute or scapegoat; confirm source context.
+  suggested_aliases:
+  - destruction_of_effigies_to_remove_evil
+  - apotropaic_destruction_of_material_representations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-pursuers-through-removal-and-burning-of-hearts
+  motif_id: destruction_of_pursuers_through_removal_and_burning_of_hearts
+  label: destruction of pursuers through removal and burning of hearts
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: uncertain
+  confidence: low
+  rationale: Burning removed hearts may imply destruction through a vulnerable external
+    life-token or body-part power.
+  cautions: Could instead be combat violence, witchcraft, punishment, or an episode-specific
+    detail; review culturally specific evidence before mapping.
+  suggested_aliases:
+  - burning_removed_hearts_kills_pursuers
+  - destruction_by_burning_externalized_hearts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-settlements-and-food-stores
+  motif_id: destruction_of_settlements_and_food_stores
+  label: destruction of settlements and food stores
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a specific warfare or raid action rather than a durable
+    symbolic motif by itself.
+  cautions: If evidence shows ritualized warfare, vengeance, or reversal of attack,
+    map a broader related label to sacred_combat instead.
+  suggested_aliases:
+  - destruction_of_enemy_settlements_and_food_stores
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-settlements-and-food-stores-reverses-an-attack
+  motif_id: destruction_of_settlements_and_food_stores_reverses_an_attack
+  label: destruction of settlements and food stores reverses an attack
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Destruction of enemy resources functioning to reverse an attack is a
+    warfare reversal pattern.
+  cautions: Single occurrence and highly contextual; preserve the settlement and food-store
+    details as evidence rather than canonical wording.
+  suggested_aliases:
+  - destruction_of_enemy_resources_reverses_attack
+  - raid_resource_destruction_reverses_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-the-witch-in-the-fiery-well
+  motif_id: destruction_of_the_witch_in_the_fiery_well
+  label: Destruction of the witch in the fiery well
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The destruction of a harmful witch may function as punishment or moral
+    reckoning, but the well and fire details are context-dependent.
+  cautions: Could instead fit sacred_combat, trickster reversal, world-destroying/sacred
+    fire symbolism, or an over-specific tale episode; source context needed.
+  suggested_aliases:
+  - witch_destroyed_in_fiery_well
+  - destruction_of_harmful_witch_by_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-towns-fields-and-food-stores
+  motif_id: destruction_of_towns_fields_and_food_stores
+  label: destruction of towns, fields, and food stores
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be an episode-specific destruction detail rather than
+    a reusable motif label.
+  cautions: If the destruction is ritually framed or drives a conflict reversal, index
+    the broader narrative under sacred_combat.
+  suggested_aliases:
+  - destruction_of_enemy_towns_fields_and_food_stores
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-or-obstruction-of-wine-and-joy
+  motif_id: destruction_or_obstruction_of_wine_and_joy
+  label: Destruction or obstruction of wine and joy
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Wine and joy in Sufi contexts likely belong with sacred substance and
+    divine intoxication imagery.
+  cautions: Could be metaphorical commentary on mystical love or ascetic obstruction;
+    review whether wine is literal, symbolic, or polemical.
+  suggested_aliases:
+  - obstruction_of_wine_and_joy
+  - wine_and_joy_obstructed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-breath-leaves-no-bodily-remains
+  motif_id: destructive_breath_leaves_no_bodily_remains
+  label: destructive breath leaves no bodily remains
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: uncertain
+  confidence: low
+  rationale: A destructive breath that annihilates bodies may be a supernatural combat
+    power or monster/heroic violence motif.
+  cautions: No clear existing group covers lethal breath specifically; could also
+    be death_and_transformation, sacred_fire, or an over-specific episode detail.
+  suggested_aliases:
+  - annihilating_breath_leaves_no_remains
+  - lethal_breath_consumes_bodily_remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-burning-and-discovered-remains
+  motif_id: destructive_burning_and_discovered_remains
+  label: destructive burning and discovered remains
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The wording is too generic and event-specific to identify a stable motif
+    beyond burning followed by remains discovery.
+  cautions: If the burning is funerary, sacrificial, punitive, or world-renewing,
+    remap with passage evidence to heroic_funeral_rites, sacrifice, divine_judgment,
+    or flood_and_renewal.
+  suggested_aliases:
+  - remains_discovered_after_destructive_burning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destructive-by-product-of-churning-a-life-substance
+  motif_id: destructive_by_product_of_churning_a_life_substance
+  label: destructive by-product of churning a life substance
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: A life substance whose processing produces a dangerous by-product fits
+    the sacred substance complex of potent foods, drinks, and life-giving materials.
+  cautions: If the churning creates the world or releases chaos, cosmic_origin or
+    chaos may be relevant secondary mappings; source context needed.
+  suggested_aliases:
+  - dangerous_by_product_of_churned_life_substance
+  - churning_life_substance_releases_destructive_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and episode-specific; preserve local details
+  as evidence notes unless recurrence is demonstrated.
+- For destruction labels, distinguish ordinary warfare damage from ritual expulsion,
+  sacred combat reversal, divine judgment, or catastrophe renewal.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; human review needed for culturally specific
+    violence, witchcraft, and ritual-removal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3344
+  input_sha256: 1857c17e792478456a4b035763d41141b868e54e3c03ffb80fb7a48fe0873f19
+

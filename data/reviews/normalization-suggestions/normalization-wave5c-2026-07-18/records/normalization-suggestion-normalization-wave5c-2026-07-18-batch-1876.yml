@@ -1,0 +1,334 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1876
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.impossible-spinning-task-for-royal-marriage
+  motif_id: impossible_spinning_task_for_royal_marriage
+  label: Impossible spinning task for royal marriage
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines bride-winning, royal marriage, and an impossible textile
+    task, but no existing group cleanly covers impossible tasks or helper-mediated
+    courtship trials.
+  cautions: Single occurrence and highly tale-type specific; could fit sacred_love,
+    initiation, sacred_craft, or a future impossible-task group depending on passage
+    evidence.
+  suggested_aliases:
+  - impossible_task_for_marriage
+  - spinning_task_as_bride_test
+  - impossible_textile_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - initiation
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-task_completed-by-daughter-helper
+  motif_id: impossible_task_completed_by_daughter_helper
+  label: Impossible task completed by daughter-helper
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The key pattern is an impossible task solved by a helper, but existing
+    groups do not yet represent helper-maiden or impossible-task structures.
+  cautions: May be courtship, escape, kinship loyalty, trickster strategy, or initiation
+    ordeal depending on source context; avoid mapping only from the daughter role.
+  suggested_aliases:
+  - daughter_helper_solves_impossible_task
+  - impossible_task_with_female_helper
+  - helper_daughter_completes_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_love
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impossible-tasks-imposed-by-an-antagonist-and-solved-by-a-daughter-helper
+  motif_id: impossible_tasks_imposed_by_an_antagonist_and_solved_by_a_daughter_helper
+  label: impossible tasks imposed by an antagonist and solved by a daughter-helper
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Impossible Tasks and Supernatural Helpers
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'This and related labels in the batch recur as a recognizable narrative
+    structure: an antagonist imposes impossible tasks that are solved by a helper
+    figure.'
+  cautions: Human review should decide whether this group is warranted beyond this
+    batch; daughter-helper and marriage details should remain granular children, not
+    the whole group definition.
+  suggested_aliases:
+  - impossible_tasks_solved_by_helper
+  - antagonist_imposes_impossible_tasks
+  - helper_solves_impossible_tasks
+  - daughter_helper_solves_impossible_tasks
+  suggested_new_group:
+    id: impossible_tasks_supernatural_helpers
+    label: Impossible Tasks and Supernatural Helpers
+    description: An antagonist, parent, ruler, or captor imposes impossible or nearly
+      impossible tasks that are completed through magical aid, hidden knowledge, or
+      a helper figure, often enabling marriage, escape, recognition, or status change.
+    parent_group_ids:
+    - initiation
+    related_group_ids:
+    - sacred_love
+    - trickster
+    - sacred_craft
+    - hero_journey
+    reason_existing_groups_insufficient: Existing groups cover initiation, courtship,
+      trickster deception, and craft, but none captures the repeated task-imposition
+      plus helper-solution structure.
+- suggestion_id: normalization.suggestion.impostor-attempts-to-take-the-wife-s-place
+  motif_id: impostor_attempts_to_take_the_wife_s_place
+  label: Impostor attempts to take the wife’s place
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: An impostor replacing a wife centers on threatened identity and the need
+    to distinguish true from false spouse.
+  cautions: If the passage emphasizes marital jealousy or household rivalry more than
+    recognition, sacred_love or jealousy-related family motifs may be secondary; no
+    token is explicit in the label.
+  suggested_aliases:
+  - false_wife_impostor
+  - impostor_replaces_true_wife
+  - wife_identity_usurpation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imprisoned-husband-to-be-rescued-by-wife
+  motif_id: imprisoned_husband_to_be_rescued_by_wife
+  label: Imprisoned husband to be rescued by wife
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Spousal rescue frames marital fidelity and love as the motivating force
+    of a quest or liberation episode.
+  cautions: Could also fit hero_journey if the rescue quest is emphasized, or sacred_combat/trickster
+    if liberation depends on battle or deception.
+  suggested_aliases:
+  - wife_rescues_imprisoned_husband
+  - spousal_rescue_from_imprisonment
+  - faithful_wife_rescues_husband
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imprisoned-mother-in-high-tower-reached-by-magical-aid
+  motif_id: imprisoned_mother_in_high_tower_reached_by_magical_aid
+  label: imprisoned mother in high tower reached by magical aid
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes imprisoned mother, tower/ascent imagery, and magical
+    aid; the narrative function is unclear without passage context.
+  cautions: May belong with miraculous_child, sacred_love, ascent/axis_mundi, or a
+    captivity-rescue pattern; high tower detail may be episode-specific rather than
+    symbolic axis evidence.
+  suggested_aliases:
+  - imprisoned_mother_in_tower
+  - tower_imprisonment_reached_by_magic
+  - magical_access_to_imprisoned_mother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - sacred_love
+    - ascent
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imprisoned-singer-discovered-by-a-noblewoman
+  motif_id: imprisoned_singer_discovered_by_a_noblewoman
+  label: imprisoned singer discovered by a noblewoman
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The singer element could indicate sound power, recognition, courtship,
+    or simply a plot detail about imprisonment and discovery.
+  cautions: Single occurrence; do not map to enchanting_music unless the song has
+    supernatural or compelling power, and do not map to sacred_love unless discovery
+    initiates a love or rescue pattern.
+  suggested_aliases:
+  - captive_singer_discovered
+  - imprisoned_singer_found_by_noblewoman
+  - hidden_singer_in_captivity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - sacred_love
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imprisoned-youth-aided-by-a-princess
+  motif_id: imprisoned_youth_aided_by_a_princess
+  label: Imprisoned youth aided by a princess
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A princess aiding an imprisoned youth commonly functions as helper-maiden
+    courtship or faithful rescue within a love/quest pattern.
+  cautions: If the princess acts from kinship, politics, or trickster strategy rather
+    than love, initiation or hero_journey may be better; preserve imprisonment and
+    helper role as evidence detail.
+  suggested_aliases:
+  - princess_aids_imprisoned_youth
+  - helper_princess_rescues_captive_youth
+  - captive_youth_helped_by_princess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.imprisonment-in-stocks-with-other-detainees
+  motif_id: imprisonment_in_stocks_with_other_detainees
+  label: imprisonment in stocks with other detainees
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a contextual detention scene rather than a durable mythic
+    motif or symbolic pattern.
+  cautions: If the imprisonment functions as an ordeal, punishment, or miraculous
+    deliverance in the source, it could be reviewed under initiation, divine_judgment,
+    or divine_intervention.
+  suggested_aliases:
+  - detention_in_stocks
+  - captives_held_in_stocks
+  - imprisoned_with_other_detainees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.incapacitated-child-left-alone
+  motif_id: incapacitated_child_left_alone
+  label: incapacitated child left alone
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A vulnerable child left alone may be abandonment, threatened infancy,
+    ordeal, neglect, or survival setup; the motif function is unclear from the label.
+  cautions: Could map to miraculous_child only if the child is protected, destined,
+    or extraordinarily survives; otherwise may be a passage-specific family hardship
+    detail.
+  suggested_aliases:
+  - vulnerable_child_left_alone
+  - abandoned_incapacitated_child
+  - helpless_child_left_behind
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - initiation
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch point to a recurring impossible-task/helper-maiden
+  structure not yet cleanly represented in existing groups; one provisional new group
+  candidate is suggested for taxonomy review.
+- 'Captivity/rescue labels should not all be merged: some are love-driven, some initiation/quest-driven,
+  and some may be ordinary plot details without symbolic motif value.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages should be checked
+    before promoting the impossible-task candidate or excluding contextual imprisonment
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1876
+  input_sha256: 8b58dca3df83813280bdedec3c8f19bed88f6281facd39ebb1a64fb393d44b2b
+

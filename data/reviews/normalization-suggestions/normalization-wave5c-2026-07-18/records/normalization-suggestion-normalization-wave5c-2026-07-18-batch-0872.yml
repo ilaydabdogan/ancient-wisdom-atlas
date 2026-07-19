@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0872
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.holy-memorial-places-as-sites-of-heard-prayer
+  motif_id: holy_memorial_places_as_sites_of_heard_prayer
+  label: Holy memorial places as sites of heard prayer
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A holy memorial place functions like a shrine or relic site where sacred
+    presence mediates prayer, matching existing tomb/shrine children under sacred_treasures.
+  cautions: Could instead fit world_center if the place is a liturgical cosmic center,
+    or sacred_exchange if prayer-response is the primary evidence.
+  suggested_aliases:
+  - holy_memorial_place
+  - memorial_shrine_as_site_of_heard_prayer
+  - holy_place_where_prayer_is_heard
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-men-arriving-from-the-east
+  motif_id: holy_men_arriving_from_the_east
+  label: holy men arriving from the east
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate culture bringers, sacred visitors, directional
+    symbolism, or a passage-specific arrival detail.
+  cautions: Single occurrence and culturally/contextually sensitive; do not map to
+    culture_hero or divine_race without evidence that the arrivals found, teach, conquer,
+    or transform society.
+  suggested_aliases:
+  - holy_visitors_from_the_east
+  - sacred_men_arrive_from_east
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-miracle-worker-with-divine-titles
+  motif_id: holy_miracle_worker_with_divine_titles
+  label: Holy miracle-worker with divine titles
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: The taxonomy already treats miracle-working holy persons as divinely
+    authorized agents under divine_intervention.
+  cautions: Divine titles may reflect hagiographic honorific language; review whether
+    the passage asserts divinity, sainthood, or delegated sacred power.
+  suggested_aliases:
+  - miracle_working_holy_person_with_divine_titles
+  - divinely_titled_miracle_worker
+  - holy_miracle_worker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-mountain-propitiation
+  motif_id: holy_mountain_propitiation
+  label: holy mountain propitiation
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A holy mountain receiving propitiation combines ritual offering with
+    a sacred mountain/axis site, best preserved under axis_mundi for the place-function.
+  cautions: If the evidence emphasizes the offering more than the mountain as sacred
+    center, sacrifice or sacred_exchange may be secondary mappings.
+  suggested_aliases:
+  - propitiation_at_holy_mountain
+  - sacred_mountain_propitiation
+  - mountain_propitiation_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-or-elder-mediator-interrupts-combat
+  motif_id: holy_or_elder_mediator_interrupts_combat
+  label: holy or elder mediator interrupts combat
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif's narrative function is intervention in combat, fitting the
+    sacred_combat field more than general ritual holiness.
+  cautions: If the mediator's sanctity or peacemaking authority is the focus, sacred_law,
+    covenant, or divine_intervention could be relevant; single occurrence may be episode-specific.
+  suggested_aliases:
+  - sacred_mediator_interrupts_combat
+  - elder_mediator_stops_battle
+  - holy_mediator_halts_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-person-judged-as-mad-by-relatives
+  motif_id: holy_person_judged_as_mad_by_relatives
+  label: Holy person judged as mad by relatives
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Misrecognition of holy behavior as madness often marks the social cost
+    of mystical vocation or transformed consciousness.
+  cautions: Could be a hagiographic persecution motif or contextual biographical detail;
+    review source evidence before treating as broadly comparable.
+  suggested_aliases:
+  - holy_madness_misjudged_by_family
+  - relatives_misread_holy_person_as_mad
+  - sacred_vocation_mistaken_for_madness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-person-protected-from-fatal-harm
+  motif_id: holy_person_protected_from_fatal_harm
+  label: Holy person protected from fatal harm
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Miraculous protection of a holy figure from lethal danger is a clear
+    divine-intervention/protection pattern.
+  cautions: If protection depends on a relic, talisman, or invulnerability condition,
+    sacred_treasures or conditional_invulnerability_hidden_weakness may be secondary.
+  suggested_aliases:
+  - miraculous_protection_of_holy_person
+  - holy_person_preserved_from_death
+  - divine_protection_from_fatal_harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-person-refuses-miracle-as-spectacle
+  motif_id: holy_person_refuses_miracle_as_spectacle
+  label: holy person refuses miracle as spectacle
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: medium
+  rationale: Refusing to display miracle power as spectacle functions as an ethical
+    or discipline rule governing sacred power.
+  cautions: May also belong with divine_intervention if the miracle-worker role is
+    central, or mystical_quest if humility/renunciation is emphasized.
+  suggested_aliases:
+  - refusal_to_perform_miracle_as_spectacle
+  - holy_person_rejects_spectacular_miracle
+  - miracle_power_restrained_by_humility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-person-suspending-normal-causality
+  motif_id: holy_person_suspending_normal_causality
+  label: Holy person suspending normal causality
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A holy figure suspending ordinary causality is a miracle-working or supernatural
+    intervention motif already covered by divine_intervention.
+  cautions: If framed as mystical mastery rather than divine action, mystical_quest
+    may be a secondary mapping.
+  suggested_aliases:
+  - holy_person_overrides_normal_causality
+  - miracle_worker_suspends_causality
+  - saintly_suspension_of_natural_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.holy-place-remains-intact-while-surrounding-dwelling-decays
+  motif_id: holy_place_remains_intact_while_surrounding_dwelling_decays
+  label: holy place remains intact while surrounding dwelling decays
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The intact holy place functions like a shrine or relic-site whose sacred
+    presence resists ordinary decay.
+  cautions: Could fit world_center if the place organizes sacred geography, or divine_intervention
+    if preservation is explicitly miraculous; label is quite episode-specific.
+  suggested_aliases:
+  - miraculously_preserved_holy_place
+  - holy_site_resists_decay
+  - sacred_place_intact_amid_decay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence hagiographic or sacred-place labels; suggested
+  placements are provisional and should preserve source-specific notes.
+- Avoid treating shared placement under divine_intervention or sacred_treasures as
+  evidence of transmission or common origin.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft AI normalization suggestions for wave5c batch 0872; human review recommended
+    for contextual and culturally specific holy-person/holy-place labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0872
+  input_sha256: 5a04dcb1f878ec3e3f5144f74678027acf768ea5dbd3c8bb4d2b56e7f752277f
+

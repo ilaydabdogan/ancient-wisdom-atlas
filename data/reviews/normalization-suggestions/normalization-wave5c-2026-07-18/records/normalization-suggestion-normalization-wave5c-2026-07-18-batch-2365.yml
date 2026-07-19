@@ -1,0 +1,313 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2365
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.elevated-sleeping-refuge-with-fire-barrier
+  motif_id: elevated_sleeping_refuge_with_fire_barrier
+  label: Elevated sleeping refuge with fire barrier
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines refuge, sleep, elevation, and fire protection; its
+    narrative function is unclear from wording alone.
+  cautions: Could be a protective boundary, apotropaic fire, ordeal setting, or passage-specific
+    survival detail. Single occurrence should not be promoted without source review.
+  suggested_aliases:
+  - fire_barrier_refuge
+  - elevated_refuge_with_protective_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - sacred_law
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.emblematic-tree-mentioned-as-a-study-topic
+  motif_id: emblematic_tree_mentioned_as_a_study_topic
+  label: Emblematic tree mentioned as a study topic
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'mentioned as a study topic' signals a scholarly or classificatory
+    note rather than a narrative motif.
+  cautions: If a source passage actually treats the tree as sacred center, ancestor,
+    or ritual emblem, preserve that evidence under axis_mundi or sacred_tree_axis
+    instead.
+  suggested_aliases:
+  - tree_as_study_topic
+  - emblematic_tree_topic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embodied-or-worldly-life-as-temporary-lodging
+  motif_id: embodied_or_worldly_life_as_temporary_lodging
+  label: Embodied or worldly life as temporary lodging
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The body or worldly life as temporary lodging fits Sufi interior-journey
+    themes of detachment, impermanence, and return to sacred reality.
+  cautions: If the passage emphasizes mortality rather than spiritual practice, death_and_transformation
+    or lament_and_mourning may be secondary; keep as metaphor, not literal descent.
+  suggested_aliases:
+  - body_as_temporary_dwelling
+  - worldly_life_as_temporary_lodging
+  - embodiment_as_temporary_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embodied-rain-cloud-imagery
+  motif_id: embodied_rain_cloud_imagery
+  label: Embodied rain-cloud imagery
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Rain-cloud embodiment may indicate weather spirit imagery, fertility,
+    divine provision, transformation, or ceremonial symbolism.
+  cautions: Culturally specific rain/cloud imagery needs source context. Avoid collapsing
+    into sacred_waters or divine_intervention unless the cloud actively gives life,
+    guides, or manifests a sacred being.
+  suggested_aliases:
+  - rain_cloud_embodiment
+  - personified_rain_cloud_imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - divine_intervention
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embodied-restraint-before-elders
+  motif_id: embodied_restraint_before_elders
+  label: Embodied restraint before elders
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Bodily restraint before elders is an ethical-social discipline tied to
+    ordered hierarchy and ritual propriety.
+  cautions: The nature bucket appears misleading. If this is a passage-specific behavioral
+    maxim rather than recurring motif, preserve as evidence under ethical command
+    rather than promote.
+  suggested_aliases:
+  - ritual_restraint_before_elders
+  - bodily_deference_to_elders
+  - embodied_filial_propriety
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.emergence-from-a-prior-world
+  motif_id: emergence_from_a_prior_world
+  label: emergence from a prior world
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: Emergence from an earlier world is a creation or world-ordering origin
+    pattern, especially in emergence cosmologies.
+  cautions: Do not equate with flood renewal unless destruction of the prior world
+    is explicit. Could also relate to ascent/descent if passage stresses vertical
+    movement through worlds.
+  suggested_aliases:
+  - emergence_from_previous_world
+  - emergence_cosmogony
+  - world_emergence_from_prior_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - world_ages_cosmic_decline
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.emergence-from-abyss-into-light
+  motif_id: emergence_from_abyss_into_light
+  label: emergence from abyss into light
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Abyss-to-light imagery in a Zoroastrian context strongly suggests structured
+    opposition of darkness and light.
+  cautions: If the passage describes a journey or initiation, ascent or descent may
+    be relevant; if it describes creation from darkness, cosmic_origin may be secondary.
+  suggested_aliases:
+  - emergence_from_darkness_into_light
+  - abyss_to_light_emergence
+  - darkness_light_transition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - ascent
+    - sacred_fire
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.emergence-of-dry-land-through-gathering-waters
+  motif_id: emergence_of_dry_land_through_gathering_waters
+  label: Emergence of dry land through gathering waters
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: Dry land appearing as waters gather is a cosmogonic separation-of-elements
+    motif already covered by cosmic_origin and waters_divided.
+  cautions: Do not map to flood_and_renewal unless catastrophic destruction and renewal
+    are present.
+  suggested_aliases:
+  - dry_land_emerges_from_gathered_waters
+  - land_emerges_after_waters_recede
+  - waters_gathered_to_reveal_dry_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.emergence-or-appearance-of-people-upon-earth
+  motif_id: emergence_or_appearance_of_people_upon_earth
+  label: emergence or appearance of people upon earth
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The first appearance or emergence of people upon earth is an anthropogonic
+    origin pattern within cosmic_origin.
+  cautions: If tied to named ancestors or land-name origins, retain those granular
+    details; if only a vague summary heading, human review may choose exclusion.
+  suggested_aliases:
+  - first_people_emerge_on_earth
+  - human_emergence_upon_earth
+  - appearance_of_people_on_earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.emergence-or-relation-to-earth
+  motif_id: emergence_or_relation_to_earth
+  label: emergence or relation to earth
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to determine whether it means cosmogonic emergence,
+    earth kinship, land relation, or a commentary heading.
+  cautions: Could map to cosmic_origin if actual emergence myth is present; otherwise
+    may be an over-broad generated label or source-topic artifact.
+  suggested_aliases:
+  - earth_emergence_relation
+  - relation_to_earth
+  - emergence_and_earth_relation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - mother_goddess
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch appear mis-bucketed under nature_elements_cosmos despite
+  ethical or mystical content; placement should follow motif function rather than
+  audit bucket.
+- Single-occurrence emergence labels should be reviewed for whether they are passage
+  evidence, generated summaries, or headings before adding granular aliases.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2365
+  input_sha256: 9dfb8ea1abce71453378fa36e2bf05f9737b77f19eebafdf765c234d8bed6433
+

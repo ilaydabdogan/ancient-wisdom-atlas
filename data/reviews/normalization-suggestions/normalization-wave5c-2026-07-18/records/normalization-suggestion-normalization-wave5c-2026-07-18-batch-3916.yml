@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3916
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.royal-audience-and-mass-conversion
+  motif_id: royal_audience_and_mass_conversion
+  label: Royal audience and mass conversion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A royal audience followed by mass conversion may reflect sacred teaching
+    or divinely authorized mission affecting a polity.
+  cautions: Could instead be historical chronicle detail, Buddhist mission narrative,
+    royal legitimacy, or sacred knowledge transmission; source evidence needed.
+  suggested_aliases:
+  - royal_audience_leads_to_conversion
+  - mass_conversion_after_sacred_teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-banquet-for-a-valued-newcomer
+  motif_id: royal_banquet_for_a_valued_newcomer
+  label: royal banquet for a valued newcomer
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: A banquet welcoming a newcomer fits the hospitality and guest-reception
+    complex when the newcomer’s status matters narratively.
+  cautions: If the banquet is only courtly setting or reward without testing, obligation,
+    or sacred guest logic, treat as contextual detail.
+  suggested_aliases:
+  - royal_feast_for_newcomer
+  - valued_guest_received_at_royal_banquet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-blood-must-not-fall-on-the-ground
+  motif_id: royal_blood_must_not_fall_on_the_ground
+  label: Royal blood must not fall on the ground
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The taxonomy already treats blood taboos and blood not falling on the
+    ground as sacred-law and ritual-prohibition variants.
+  cautions: Royal status may also involve royal legitimacy; preserve the royal-blood
+    specificity in notes.
+  suggested_aliases:
+  - blood_must_not_fall_on_the_ground
+  - royal_blood_taboo
+  - taboo_against_spilling_royal_blood_on_earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-brother-general-suspected-of-usurpation
+  motif_id: royal_brother_general_suspected_of_usurpation
+  label: royal brother-general suspected of usurpation
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Suspicion of usurpation by a royal sibling-general concerns succession,
+    threatened rule, and legitimacy of power.
+  cautions: May be an episode-specific political plot rather than a reusable motif;
+    review whether sacred sanction, succession crisis, or dynastic order is explicit.
+  suggested_aliases:
+  - suspected_royal_usurpation
+  - royal_sibling_suspected_of_usurpation
+  - general_suspected_of_seizing_kingship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-campaign-memorial-in-stone
+  motif_id: royal_campaign_memorial_in_stone
+  label: royal campaign memorial in stone
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: meta_artifact
+  confidence: low
+  rationale: A campaign memorial can authorize kingship and victory, but may simply
+    describe an inscriptional artifact.
+  cautions: If this is a monument or source type rather than a narrative motif, exclude
+    from pattern queries or preserve as provenance.
+  suggested_aliases:
+  - royal_victory_memorial_in_stone
+  - stone_memorial_of_royal_campaign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-catalogue
+  motif_id: royal_catalogue
+  label: royal catalogue
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a textual list or catalogue of rulers rather than
+    a symbolic or narrative motif.
+  cautions: If the catalogue functions genealogically to legitimate rule, royal_legitimacy
+    may be a secondary evidence tag, but the label alone is textual.
+  suggested_aliases:
+  - king_list
+  - catalogue_of_rulers
+  - royal_list
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-ceremonial-beverage-stone
+  motif_id: royal_ceremonial_beverage_stone
+  label: royal ceremonial beverage stone
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: low
+  rationale: A ceremonial beverage object may involve sacred drink or ritual substance
+    in a royal setting.
+  cautions: The stone may be a power object, ritual installation, chiefly regalia,
+    or passage artifact; source context is necessary before mapping.
+  suggested_aliases:
+  - royal_beverage_ritual_stone
+  - ceremonial_drink_stone
+  - royal_sacred_beverage_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-chronology-anchored-to-buddhist-era-reckoning
+  motif_id: royal_chronology_anchored_to_buddhist_era_reckoning
+  label: royal chronology anchored to Buddhist-era reckoning
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is chronological or historiographic framing rather than a mythic
+    motif.
+  cautions: Could be useful as provenance for dating systems, but should not drive
+    Pattern Explorer motif queries.
+  suggested_aliases:
+  - buddhist_era_royal_chronology
+  - royal_chronology_by_buddhist_era
+  - era_reckoning_in_royal_chronicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-commissioning-of-a-chronicle-or-commentary
+  motif_id: royal_commissioning_of_a_chronicle_or_commentary
+  label: Royal commissioning of a chronicle or commentary
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Commissioning a chronicle or commentary describes textual production
+    and patronage, not a symbolic narrative motif.
+  cautions: If the episode legitimizes kingship through sponsorship of sacred knowledge,
+    royal_legitimacy or sacred_knowledge may be noted separately; default exclusion
+    is safer.
+  suggested_aliases:
+  - royal_patronage_of_chronicle
+  - king_commissions_commentary
+  - royal_textual_commission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-contingency-guard-for-killing-and-rescue
+  motif_id: royal_contingency_guard_for_killing_and_rescue
+  label: royal contingency guard for killing and rescue
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: A royal guard assigned for possible killing or rescue may belong to conflict,
+    protection, and courtly crisis motifs.
+  cautions: Highly episode-specific and ambiguous; could involve betrayal, royal legitimacy,
+    divine warrior protection, or ordinary plot mechanics.
+  suggested_aliases:
+  - royal_guard_prepared_for_killing_or_rescue
+  - contingency_guard_for_royal_violence
+  - guard_detail_for_rescue_or_execution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several royal labels appear to be chronicle, inscriptional, or court-context artifacts
+  rather than durable motifs; preserve them as provenance only unless source evidence
+  shows recurring symbolic function.
+- Where royal context implies legitimacy, do not map to royal_legitimacy unless the
+  passage explicitly concerns succession, sanction, sovereignty, or sacred order.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; single-occurrence and royal-chronicle
+    labels require source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3916
+  input_sha256: 4c91d6d56c3ea5c44c894bea8c5c2c3c903bd910c6ba598d6410a42552bceb6b
+

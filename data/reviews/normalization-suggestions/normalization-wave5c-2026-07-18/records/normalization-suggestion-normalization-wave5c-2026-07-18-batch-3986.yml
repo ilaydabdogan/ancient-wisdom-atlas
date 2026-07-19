@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3986
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.stones-mistaken-for-human-beings
+  motif_id: stones_mistaken_for_human_beings
+  label: stones mistaken for human beings
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate mistaken perception, animated stones, petrified
+    beings, or a local narrative joke; function is unclear from wording alone.
+  cautions: Single occurrence; do not map to sacred_craft, shapeshifter, or sacred_treasures
+    without evidence that stones are animated, transformed, or power objects.
+  suggested_aliases:
+  - human_like_stones
+  - stones_mistaken_for_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stored-abundance-sustaining-winter
+  motif_id: stored_abundance_sustaining_winter
+  label: stored abundance sustaining winter
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Stored abundance sustaining winter may reflect provision and reciprocal
+    subsistence obligations, best approximated by sacred_exchange or provisioning
+    motifs.
+  cautions: May be ordinary subsistence context rather than mythic motif; if supernatural
+    food supply is explicit, divine_intervention may be secondary.
+  suggested_aliases:
+  - winter_survival_abundance
+  - stored_food_sustains_winter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stored-autumn-food-sustaining-winter-life
+  motif_id: stored_autumn_food_sustaining_winter_life
+  label: stored autumn food sustaining winter life
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: This is a narrower phrasing of stored seasonal provision sustaining life
+    through winter, closest to provision and reciprocity patterns.
+  cautions: Likely over-specific environmental or ethnographic detail unless framed
+    as sacred provision, obligation, or mythic abundance.
+  suggested_aliases:
+  - stored_abundance_sustaining_winter
+  - autumn_food_sustains_winter_life
+  - winter_survival_food_storage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stored-food-as-winter-survival-infrastructure
+  motif_id: stored_food_as_winter_survival_infrastructure
+  label: stored food as winter survival infrastructure
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label reads like a contextual subsistence note rather than a symbolic
+    or narrative motif.
+  cautions: Could be excluded if it merely describes practical food storage; map with
+    the other winter-provision labels only if passage gives mythic or sacred function.
+  suggested_aliases:
+  - stored_abundance_sustaining_winter
+  - stored_food_sustains_winter
+  - winter_food_storage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.story-custody-by-a-clan
+  motif_id: story_custody_by_a_clan
+  label: story custody by a clan
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Custodianship of stories may concern sacred narrative authority and transmission,
+    but the cultural and source context is essential.
+  cautions: Culturally sensitive Indigenous knowledge-governance issue; avoid flattening
+    into generic storytelling without human review.
+  suggested_aliases:
+  - clan_custody_of_story
+  - clan_owned_story_tradition
+  - hereditary_story_custody
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.story-explaining-beaver-tattooings
+  motif_id: story_explaining_beaver_tattooings
+  label: Story explaining beaver tattooings
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be an etiological animal-marking story, but no existing group
+    cleanly captures animal body-mark etiology.
+  cautions: Single occurrence and culturally specific; could be an origin tale, animal
+    transformation detail, or passage-specific explanation.
+  suggested_aliases:
+  - beaver_tattooing_etiology
+  - origin_of_beaver_markings
+  - story_explaining_beaver_marks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.story-migration-through-trade-routes
+  motif_id: story_migration_through_trade_routes
+  label: story migration through trade routes
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes transmission or diffusion of a story through trade
+    routes, not a narrative motif.
+  cautions: Keep as provenance or historical-contact metadata if evidence supports
+    it; do not use as pattern-query motif.
+  suggested_aliases:
+  - trade_route_story_transmission
+  - story_transmission_through_trade_routes
+  - narrative_migration_by_trade
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storytelling-hospitality-frame
+  motif_id: storytelling_hospitality_frame
+  label: storytelling hospitality frame
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hospitality frame organized around storytelling fits narrative exchange
+    and story-performance as social power.
+  cautions: If the emphasis is the sacred testing of a host or guest rather than storytelling,
+    hospitality_test_stranger_guest may be a secondary placement.
+  suggested_aliases:
+  - hospitality_storytelling_frame
+  - story_exchange_in_hospitality
+  - storytelling_as_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.straight-path-of-faith
+  motif_id: straight_path_of_faith
+  label: straight path of faith
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The straight path of faith functions as a moral and religious order guiding
+    right conduct.
+  cautions: Could also point to afterlife passage if it refers to a postmortem path
+    or bridge; verify context before final mapping.
+  suggested_aliases:
+  - straight_path
+  - path_of_faith
+  - righteous_path_of_faith
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.straight-paths-where-the-deity-dwells
+  motif_id: straight_paths_where_the_deity_dwells
+  label: straight paths where the deity dwells
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Straight divine paths likely express righteous order or sacred way aligned
+    with deity.
+  cautions: May instead be sacred geography, theophany, or afterlife path imagery
+    depending on the passage; source context needed.
+  suggested_aliases:
+  - divine_straight_paths
+  - straight_paths_of_the_deity
+  - righteous_paths_where_deity_dwells
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Inuit winter-storage labels appear near-duplicates; consider reviewing together
+  before adding separate mappings.
+- Story custody by a clan and beaver tattooing etiology require culturally informed
+  review and should not be generalized solely from label wording.
+- Transmission claims such as story migration through trade routes should remain metadata,
+  not motif-query evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft automated placement suggestions; human taxonomy review required.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3986
+  input_sha256: 1818a08a09c12ade1a669be25505119a91a88ba49450673d788da1a506c7dfcd
+

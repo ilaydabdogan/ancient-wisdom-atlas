@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1212
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.trophy-pole-installation-at-ritual-center
+  motif_id: trophy_pole_installation_at_ritual_center
+  label: trophy pole installation at ritual center
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to a ritual installation at a center, but its function
+    could be trophy display, sacred center marking, warfare, sacrifice, or local ceremonial
+    practice.
+  cautions: Culturally specific and single occurrence; source evidence is needed before
+    mapping to axis_mundi, sacred_combat, sacrifice, or sacred_treasures.
+  suggested_aliases:
+  - ritual_center_trophy_pole
+  - trophy_pole_at_sacred_center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.true-human-as-christ-like-divine-being
+  motif_id: true_human_as_christ_like_divine_being
+  label: True human as Christ-like divine being
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may describe divinized anthropology, mystical realization, or a
+    commentary-specific Christological comparison rather than a stable motif.
+  cautions: The phrase 'Christ-like' may be interpretive or comparative; avoid mapping
+    to divine_parent_child or theophany without passage evidence.
+  suggested_aliases:
+  - divinized_true_human
+  - true_human_as_divine_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.truth-act-or-efficacious-conditional-vow-before-relics
+  motif_id: truth_act_or_efficacious_conditional_vow_before_relics
+  label: Truth-act or efficacious conditional vow before relics
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A truth-act or vow is a performative sacred utterance whose efficacy
+    depends on truthful or binding speech.
+  cautions: Relics may also support sacred_treasures, but the main action is speech/vow
+    efficacy rather than the relic object itself.
+  suggested_aliases:
+  - truth_act_before_relics
+  - efficacious_conditional_vow
+  - performative_truth_vow_before_relics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.truth-or-status-testing-by-sticks-on-a-sacred-bag
+  motif_id: truth_or_status_testing_by_sticks_on_a_sacred_bag
+  label: Truth or status testing by sticks on a sacred bag
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ritual testing or divination with sacred objects,
+    but the social and ceremonial function is unclear.
+  cautions: Single occurrence and culturally specific; could fit prophecy_divination,
+    divine_judgment, sacred_treasures, or local status ritual depending on evidence.
+  suggested_aliases:
+  - ritual_truth_test_with_sticks
+  - status_test_on_sacred_bag
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.truthful-speech-and-sacred-recitation-as-protection
+  motif_id: truthful_speech_and_sacred_recitation_as_protection
+  label: Truthful speech and sacred recitation as protection
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The protective force lies in truthful or sacred utterance, aligning with
+    performative sacred speech.
+  cautions: If the passage emphasizes teaching or transformative knowledge more than
+    protection, sacred_knowledge may be a secondary mapping.
+  suggested_aliases:
+  - protective_truthful_speech
+  - sacred_recitation_as_protection
+  - protective_performative_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.twelve-holy-men-gathered-at-a-cross
+  motif_id: twelve_holy_men_gathered_at_a_cross
+  label: Twelve holy men gathered at a cross
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe a highly specific scene or iconographic
+    arrangement rather than a reusable motif.
+  cautions: If the source shows a recurring ritual assembly around a sacred center,
+    human reviewers could reconsider under axis_mundi or sacred_law.
+  suggested_aliases:
+  - holy_men_gathered_at_cross
+  - twelve_at_the_cross
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.twelvefold-sacred-geography
+  motif_id: twelvefold_sacred_geography
+  label: twelvefold sacred geography
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A structured sacred geography belongs with sacred centers and cosmological
+    spatial ordering.
+  cautions: The number twelve may be locally important; preserve it as evidence detail
+    and avoid assuming a universal zodiacal or cosmic schema.
+  suggested_aliases:
+  - twelvefold_sacred_space
+  - sacred_geography_in_twelve_parts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.two-sided-kneeling-arrangement-around-a-ritual-kettle
+  motif_id: two_sided_kneeling_arrangement_around_a_ritual_kettle
+  label: two-sided kneeling arrangement around a ritual kettle
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a detailed ritual posture and object arrangement; the underlying
+    motif may be sacred vessel, offering, or ceremonial order.
+  cautions: Single occurrence and culturally specific; do not collapse the kettle
+    into sacred_vessel without evidence that it holds transformative or sacred power.
+  suggested_aliases:
+  - kneeling_around_ritual_kettle
+  - two_sided_ritual_arrangement_around_kettle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unanswered-divine-supplication
+  motif_id: unanswered_divine_supplication
+  label: unanswered divine supplication
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supplication frames a requested divine-human exchange; the unanswered
+    result marks failed or withheld reciprocity.
+  cautions: If the passage emphasizes punishment or moral refusal, divine_judgment
+    may be a better secondary placement.
+  suggested_aliases:
+  - unanswered_supplication
+  - failed_divine_petition
+  - withheld_response_to_supplication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unanswered-prayer-for-deliverance
+  motif_id: unanswered_prayer_for_deliverance
+  label: unanswered prayer for deliverance
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prayer for deliverance is a petitionary sacred exchange; its failure
+    or silence is the distinctive variant.
+  cautions: If the silence is part of fated death, martyrdom, or judgment, consider
+    death_by_fate or divine_judgment as secondary review mappings.
+  suggested_aliases:
+  - unanswered_deliverance_prayer
+  - failed_prayer_for_rescue
+  - unanswered_petition_for_deliverance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence ritual details from specific traditions; human
+  review should verify whether they are recurring motifs or passage-level ethnographic/contextual
+  artifacts.
+- Do not infer transmission or shared origin from these suggested placements; placements
+  only support broad query grouping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific ritual items
+    and interpretive theological labels require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1212
+  input_sha256: 44eac3486c1f8b5d2778cd1f89a9680e4a81079eae4c67d8e070a21b38e734e6
+

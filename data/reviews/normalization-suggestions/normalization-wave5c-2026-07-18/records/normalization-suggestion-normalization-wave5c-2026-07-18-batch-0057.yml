@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0057
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.carrying-out-death
+  motif_id: carrying_out_death
+  label: carrying out Death
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too terse to tell whether it means executing a death sentence,
+    removing a corpse, or ritually carrying death/misfortune away.
+  cautions: Needs passage context; could belong to sacrifice/ritual expulsion, divine
+    judgment, heroic funeral rites, or be a passage artifact.
+  suggested_aliases:
+  - carrying_out_death
+  - carrying_away_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.carved-upright-marker-at-tomb-or-grave
+  motif_id: carved_upright_marker_at_tomb_or_grave
+  label: Carved upright marker at tomb or grave
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: A grave or tomb marker is a mortuary memorial object, fitting burial
+    rites and memorialization of the dead.
+  cautions: Single Malagasy occurrence may be an ethnographic or material-culture
+    detail; if no rite or memorial function is present, consider excluding from broad
+    pattern queries.
+  suggested_aliases:
+  - upright_grave_marker
+  - carved_tomb_marker
+  - grave_marker_memorial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catasterism-after-the-death-of-a-giant
+  motif_id: catasterism_after_the_death_of_a_giant
+  label: Catasterism after the death of a giant
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: high
+  rationale: A dead being becoming a star or constellation is a postmortem transformation
+    into a cosmic form.
+  cautions: The giant detail should remain evidence-level granularity; if the body
+    creates the cosmos rather than becomes a star, primordial_sacrifice may be relevant
+    instead.
+  suggested_aliases:
+  - catasterism_from_death
+  - postmortem_catasterism
+  - dead_giant_transformed_into_stars
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catching-the-dying-breath
+  motif_id: catching_the_dying_breath
+  label: catching the dying breath
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The dying breath is treated as a departing soul or vital force that can
+    be caught or handled outside the body.
+  cautions: May be a funerary custom rather than an external-soul narrative; compare
+    existing child breath_caught_as_departing_soul and review Roman ritual context.
+  suggested_aliases:
+  - breath_caught_as_departing_soul
+  - catching_dying_breath
+  - departing_soul_as_breath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cattle-marked-ancestral-lineage
+  motif_id: cattle_marked_ancestral_lineage
+  label: cattle-marked ancestral lineage
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests lineage identity marked by cattle, but its narrative
+    function is unclear from wording alone.
+  cautions: Could involve eponymous ancestry, sacred animal symbolism, cattle wealth,
+    Zoroastrian ritual cosmology, or a contextual genealogical note; source evidence
+    is needed.
+  suggested_aliases:
+  - cattle_marked_lineage
+  - bovine_ancestral_lineage
+  - ancestral_lineage_marked_by_cattle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-burial
+  motif_id: cave_burial
+  label: Cave burial
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Burial in a cave is a funerary placement of the dead and fits mortuary
+    rites more than descent unless a journey through the cave is described.
+  cautions: Cave imagery can also support descent or sacred vessel/womb-tomb symbolism;
+    preserve the cave setting as local evidence.
+  suggested_aliases:
+  - burial_in_cave
+  - cave_tomb
+  - cave_as_burial_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-by-the-sea-as-resting-place-of-the-dead
+  motif_id: cave_by_the_sea_as_resting_place_of_the_dead
+  label: cave by the sea as resting place of the dead
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A coastal cave as a place of the dead points to an afterlife or mortuary
+    geography where the dead rest or pass.
+  cautions: If this is simply a burial location, heroic_funeral_rites may fit better;
+    if the cave is an entrance to an underworld route, descent should be a secondary
+    mapping.
+  suggested_aliases:
+  - sea_cave_resting_place_of_dead
+  - coastal_cave_of_the_dead
+  - cave_by_sea_for_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-country-ethnonym-or-ancestral-identity
+  motif_id: cave_country_ethnonym_or_ancestral_identity
+  label: cave-country ethnonym or ancestral identity
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes place naming, ethnonym, and ancestry; the motif function
+    is not clear enough for automatic placement.
+  cautions: Potentially culturally sensitive and possibly a naming/identity note rather
+    than a motif; could relate to cosmic_origin, ancestor rites, descent, or cave
+    as sacred geography depending on evidence.
+  suggested_aliases:
+  - cave_country_ancestral_identity
+  - cave_country_ethnonym
+  - ancestral_identity_from_cave_country
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-dwelling-animal-spirit-in-bear-form
+  motif_id: cave_dwelling_animal_spirit_in_bear_form
+  label: Cave-dwelling animal spirit in bear form
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A bear-form cave spirit could be guardian, animal spirit, shapeshifter,
+    or cave otherworld figure, but the label does not specify its role.
+  cautions: Culturally specific spirit categories should be reviewed with source context;
+    avoid forcing into descent merely because a cave is present.
+  suggested_aliases:
+  - bear_form_cave_spirit
+  - cave_dwelling_bear_spirit
+  - animal_spirit_in_bear_form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-imprisonment-blinding-and-forced-return-of-envoys
+  motif_id: cave_imprisonment_blinding_and_forced_return_of_envoys
+  label: Cave imprisonment, blinding, and forced return of envoys
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The episode centers on hostile treatment of envoys—imprisonment, mutilation,
+    and forced return—within conflict rather than on death or underworld descent.
+  cautions: Highly episode-specific; if the cave functions as an underworld ordeal,
+    descent or initiation may be secondary. Human review should confirm whether to
+    preserve only as evidence detail.
+  suggested_aliases:
+  - envoys_imprisoned_and_blinded_in_cave
+  - mutilated_envoys_forced_to_return
+  - cave_imprisonment_of_envoys
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'Several cave labels were placed cautiously: cave setting alone is not enough for
+  descent unless the passage shows underworld journey, ordeal, or transformation.'
+- Single-occurrence mortuary material-culture labels may be useful as evidence but
+  should not be promoted without recurrence or clear ritual/narrative function.
+- No transmission or borrowing claims are implied by any proposed placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions for wave5c batch 0057; multiple low-confidence
+    cave, ancestry, and culturally specific spirit labels require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0057
+  input_sha256: 0f87eefea3ce4f16fa1b398c4419adb26e46563fae21becf38ce88e2bb21a558
+

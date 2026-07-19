@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2084
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-origin-tale-with-moral-warning
+  motif_id: animal_origin_tale_with_moral_warning
+  label: animal-origin tale with moral warning
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: An animal-origin tale may be etiological, but the moral-warning function
+    could instead make it a fable or ethical exemplum.
+  cautions: Single occurrence; verify whether the passage explains an animal's origin,
+    gives a moral lesson, or is only a tale-type summary.
+  suggested_aliases:
+  - animal_origin_etiology
+  - etiological_animal_origin_with_moral_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-origin-through-human-degeneration
+  motif_id: animal_origin_through_human_degeneration
+  label: Animal origin through human degeneration
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes humans becoming animals through degeneration, a transformation
+    into animal form.
+  cautions: Could also reflect moral decline, punishment, or an etiological origin
+    tale; preserve degeneration as evidence detail.
+  suggested_aliases:
+  - human_degeneration_into_animals
+  - animal_origin_by_human_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-outsider-threatened-as-ill-omened-but-protected-by-a-compassionate-patron
+  motif_id: animal_outsider_threatened_as_ill_omened_but_protected_by_a_compassionate_patron
+  label: animal outsider threatened as ill-omened but protected by a compassionate
+    patron
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The compassionate protection of a threatened being may fit ethical mercy
+    or sacred social order, but the animal omen element changes the function.
+  cautions: Highly specific composite label; could be animal-helper, omen, mercy exemplum,
+    patronage scene, or passage-specific plot detail.
+  suggested_aliases:
+  - compassionate_protection_of_ill_omened_animal
+  - threatened_animal_outsider_protected_by_patron
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-pair-exemplum
+  motif_id: animal_pair_exemplum
+  label: animal pair exemplum
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates an animal exemplum but gives no narrative function
+    beyond a paired animal teaching device.
+  cautions: May be a didactic passage type rather than a symbolic motif; source evidence
+    needed before mapping to duality, sacred_knowledge, or trickster/fable patterns.
+  suggested_aliases:
+  - paired_animal_exemplum
+  - animal_pair_moral_example
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-pair-gathering-across-the-land
+  motif_id: animal_pair_gathering_across_the_land
+  label: Animal-pair gathering across the land
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: survivor_pair
+  suggested_group_label: Survivor Pair
+  relationship: uncertain
+  confidence: low
+  rationale: Animal pairs gathering may resemble preservation or repopulation patterns,
+    but the label lacks catastrophe or renewal evidence.
+  cautions: Do not map to flood or survivor_pair unless paired gathering preserves
+    life or restarts an order; may be a local assembly or catalog scene.
+  suggested_aliases:
+  - gathering_of_animal_pairs
+  - animal_pairs_assemble_across_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-pair-or-animal-group-title-pattern
+  motif_id: animal_pair_or_animal_group_title_pattern
+  label: animal-pair or animal-group title pattern
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a title or heading pattern rather than a narrative
+    motif.
+  cautions: If an actual animal-pair narrative is present, index the passage content
+    separately; exclude this title-pattern observation from motif queries.
+  suggested_aliases:
+  - animal_group_title_pattern
+  - animal_pair_title_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-pair-tale-topics
+  motif_id: animal_pair_tale_topics
+  label: animal-pair tale topics
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads like a topical or catalog heading for tales rather
+    than a motif with narrative function.
+  cautions: Review the underlying tale if available; map only the actual animal-pair
+    action, conflict, trick, or lesson, not the topic label.
+  suggested_aliases:
+  - animal_pair_tale_topic
+  - paired_animal_tale_topic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-pairing-or-grouping-in-fable-headings
+  motif_id: animal_pairing_or_grouping_in_fable_headings
+  label: animal pairing or grouping in fable headings
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This explicitly concerns fable headings, a textual classification artifact
+    rather than a motif.
+  cautions: Preserve for provenance if useful, but exclude from Pattern Explorer motif
+    queries unless source content yields a separate motif.
+  suggested_aliases:
+  - animal_pairing_in_fable_headings
+  - animal_grouping_in_fable_headings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-panic-disrupts-sweat-house-scene
+  motif_id: animal_panic_disrupts_sweat_house_scene
+  label: animal panic disrupts sweat-house scene
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a highly specific scene detail and the symbolic or ritual
+    function is unclear.
+  cautions: Culturally specific ritual setting; verify whether the animal panic is
+    trickster disruption, omen, ritual violation, or incidental plot action before
+    indexing.
+  suggested_aliases:
+  - animal_panic_disrupts_ritual_scene
+  - panic_disruption_by_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-part-amulet-transfers-animal-qualities-to-wearer
+  motif_id: animal_part_amulet_transfers_animal_qualities_to_wearer
+  label: Animal-part amulet transfers animal qualities to wearer
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: An amulet made from an animal part functions as a power object transferring
+    protective or empowering qualities.
+  cautions: Could also involve shapeshifting or sacred law/taboo depending on ritual
+    context; preserve animal-part specificity and review culturally sensitive wording.
+  suggested_aliases:
+  - animal_part_power_amulet
+  - amulet_transfers_animal_power
+  - animal_quality_transfer_by_amulet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are textual or heading artifacts rather than motifs;
+  exclude those from pattern queries unless underlying tale content is separately
+  indexed.
+- Animal-origin and animal-exemplum labels need source evidence because they may be
+  etiological, moral-didactic, transformation, trickster/fable, or merely catalog
+  headings.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    specific ritual or animal-belief labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2084
+  input_sha256: 5dee5863fde4487a1924a28ba5df4a17dc5b84e7530aefa790b4d7f3dd98593c
+

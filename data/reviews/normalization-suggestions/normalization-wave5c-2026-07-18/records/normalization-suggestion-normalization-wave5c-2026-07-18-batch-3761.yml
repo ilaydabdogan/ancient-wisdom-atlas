@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3761
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.partly-stone-bodied-woman
+  motif_id: partly_stone_bodied_woman
+  label: partly stone-bodied woman
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: A stone-bodied person may indicate bodily transformation or hybrid form,
+    but the label alone does not show whether this is metamorphosis, origin etiology,
+    monster imagery, or a local being type.
+  cautions: Single occurrence and culturally specific; review source context before
+    folding into shapeshifter or sacred stone/object categories.
+  suggested_aliases:
+  - stone_bodied_woman
+  - partly_stone_body
+  - woman_with_stone_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passed-away-first-people-and-transmission-of-their-stories
+  motif_id: passed_away_first_people_and_transmission_of_their_stories
+  label: Passed-away first people and transmission of their stories
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: The label links ancestral or first-people memory with story transmission,
+    which may fit narrative as cultural memory.
+  cautions: Could be an ethnographic or commentary artifact rather than a passage
+    motif; may also involve ancestor rites or culture-hero origins depending on evidence.
+  suggested_aliases:
+  - first_people_story_transmission
+  - ancestral_story_transmission
+  - stories_of_the_passed_away_first_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passions-and-demons-bound-by-chains
+  motif_id: passions_and_demons_bound_by_chains
+  label: Passions and demons bound by chains
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In a Sufi context, bound passions and demons likely symbolize disciplined
+    control of lower impulses on the interior spiritual path.
+  cautions: If the passage describes literal exorcism or spirit restraint, sacrifice/ritual
+    expulsion or sacred_law may be relevant secondary mappings.
+  suggested_aliases:
+  - bound_passions_and_demons
+  - passions_bound_by_chains
+  - demons_bound_by_chains
+  - chained_passions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.past-and-present-narrative-frame
+  motif_id: past_and_present_narrative_frame
+  label: past-and-present narrative frame
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a narrative framing device rather than a symbolic
+    or narrative motif within the story world.
+  cautions: If the frame identifies past lives of present figures, map those more
+    specific identity-linkage labels to death_and_transformation instead.
+  suggested_aliases:
+  - past_present_frame
+  - past_and_present_story_frame
+  - narrative_frame_linking_past_and_present
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.past-life-correspondence-in-a-j-taka-closing-frame
+  motif_id: past_life_correspondence_in_a_j_taka_closing_frame
+  label: Past-life correspondence in a Jātaka closing frame
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: over_specific_label
+  confidence: high
+  rationale: Existing aliases already treat Jātaka past-life identification frames
+    as death/transformation identity linkage across births.
+  cautions: The Jātaka closing-frame wording is text-form specific; preserve it as
+    evidence detail rather than a canonical motif.
+  suggested_aliases:
+  - past_life_identity_in_jataka_frame
+  - past_life_correspondence_at_jataka_close
+  - former_birth_correspondence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.past-life-identity-disclosed-at-the-j-taka-close
+  motif_id: past_life_identity_disclosed_at_the_j_taka_close
+  label: Past-life identity disclosed at the Jātaka close
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: over_specific_label
+  confidence: high
+  rationale: This is a close variant of existing past-life identity disclosure aliases
+    under death_and_transformation.
+  cautions: Because it names a Jātaka closing convention, do not treat it as independent
+    evidence apart from the broader past-life identity motif.
+  suggested_aliases:
+  - past_life_identity_disclosed_at_jataka_close
+  - past_life_identification_in_jataka_frame
+  - past_life_identity_revealed_at_close
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.past-life-identity-frame-explains-present-conflict
+  motif_id: past_life_identity_frame_explains_present_conflict
+  label: past-life identity frame explains present conflict
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif links present characters and conflict to former births, fitting
+    the existing past-life identification cluster under death_and_transformation.
+  cautions: May also be a textual frame device; index only when the passage asserts
+    cross-life identity correspondence, not merely narrative structure.
+  suggested_aliases:
+  - past_life_identity_explains_present_conflict
+  - former_birth_explains_present_conflict
+  - past_life_identification_of_present_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.past-life-identity-revealed-at-conclusion
+  motif_id: past_life_identity_revealed_at_conclusion
+  label: Past-life identity revealed at conclusion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: Revealing former-birth identities at a conclusion is already represented
+    by past-life identification aliases in death_and_transformation.
+  cautions: If the label only marks a literary closure formula, it may be partly meta-textual;
+    retain conclusion wording as local evidence.
+  suggested_aliases:
+  - past_life_identity_disclosure_at_conclusion
+  - former_birth_identity_revealed
+  - past_life_identification_of_present_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pastoral-and-agricultural-abundance
+  motif_id: pastoral_and_agricultural_abundance
+  label: pastoral and agricultural abundance
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Pastoral and agricultural abundance often belongs with seasonal fertility,
+    harvest renewal, and ordered sacred time.
+  cautions: If abundance is divinely provided in a specific episode, divine_intervention
+    or sacred_substance may fit better; if it describes a primordial age, consider
+    world_ages_cosmic_decline.
+  suggested_aliases:
+  - agricultural_abundance
+  - pastoral_abundance
+  - fertility_and_abundance
+  - pastoral_agricultural_fertility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pastoral-community-under-a-shepherd-s-account
+  motif_id: pastoral_community_under_a_shepherd_s_account
+  label: pastoral community under a shepherd’s account
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: A shepherd accountable for a community may symbolize sacred governance
+    or pastoral authority, but the wording is ambiguous.
+  cautions: Could refer to Christian pastoral care, judgment/accounting, an allegorical
+    shepherd, or a passage-specific detail; source evidence needed before mapping.
+  suggested_aliases:
+  - shepherd_accountability_for_community
+  - pastoral_community_under_shepherd_account
+  - shepherd_as_accountable_guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Buddhist past-life labels are near-duplicates of existing past-life identification
+  aliases and should likely be consolidated while preserving Jātaka-frame specificity
+  as evidence detail.
+- Single-occurrence culturally specific labels should remain provisional until passage
+  context confirms narrative function rather than commentary or genre framing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3761
+  input_sha256: 285a3faf8220aee070050cda9a8337dd6eb3fb0981ecb3012c71e2c3a380084f
+

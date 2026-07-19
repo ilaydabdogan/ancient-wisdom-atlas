@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4075
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.vengeance-trophy-necklace
+  motif_id: vengeance_trophy_necklace
+  label: vengeance trophy necklace
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: A trophy necklace taken in vengeance may belong with combat trophies
+    and retaliatory violence, but the object and cultural context are too specific
+    to map confidently.
+  cautions: Single Amazonian occurrence; may reflect ritual trophy-taking, mourning
+    vengeance, status display, or passage-specific ethnographic detail. Review source
+    evidence before indexing broadly.
+  suggested_aliases:
+  - vengeance_trophy
+  - trophy_necklace_after_vengeance
+  - vengeance_trophy_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-lord-pursues-perceived-offender
+  motif_id: vengeful_lord_pursues_perceived_offender
+  label: Vengeful lord pursues perceived offender
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on punitive pursuit by an authority figure in response
+    to perceived wrongdoing, which can function as judgment or social reckoning.
+  cautions: The offender is only 'perceived'; if the emphasis is mistaken accusation,
+    royal abuse, or chase episode rather than moral reckoning, this may need exclusion
+    or a different mapping.
+  suggested_aliases:
+  - punitive_pursuit_by_lord
+  - authority_pursues_perceived_offender
+  - vengeful_authority_pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-mutilation-for-accidental-injury
+  motif_id: vengeful_mutilation_for_accidental_injury
+  label: Vengeful mutilation for accidental injury
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Disproportionate retaliation for accidental harm could belong with moral
+    reckoning or violated social order, but the label lacks sacred or narrative function.
+  cautions: May be a cruelty episode, legal retaliation motif, cautionary exemplum,
+    or over-specific plot detail. Do not map as divine judgment unless source frames
+    the mutilation as moral or sacred consequence.
+  suggested_aliases:
+  - disproportionate_retaliation_for_accident
+  - vengeance_for_accidental_injury
+  - mutilating_revenge_for_unintentional_harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vengeful-old-woman-after-slain-kin
+  motif_id: vengeful_old_woman_after_slain_kin
+  label: vengeful old woman after slain kin
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: low
+  rationale: Kin vengeance after a killing fits retaliatory conflict and feud patterns
+    already adjacent to sacred combat.
+  cautions: The old-woman role may be locally important, possibly closer to lament,
+    curse, or revenge magic. Source evidence is needed before treating it as a general
+    feud motif.
+  suggested_aliases:
+  - kin_vengeance_after_slaying
+  - vengeful_kin_after_slaying
+  - old_woman_avenges_slain_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.verbal-or-spell-based-healing
+  motif_id: verbal_or_spell_based_healing
+  label: verbal or spell-based healing
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Healing effected by words or spells is a performative sacred speech act
+    where utterance transforms a condition.
+  cautions: Could also involve sacred knowledge, ritual medicine, or divine intervention
+    depending on whether the source emphasizes formula, healer role, or divine agency.
+  suggested_aliases:
+  - healing_by_spell
+  - verbal_healing_charm
+  - performative_speech_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.verbal-quarrel-through-reciprocal-insults
+  motif_id: verbal_quarrel_through_reciprocal_insults
+  label: verbal quarrel through reciprocal insults
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: Reciprocal insults may be performative speech or conflict escalation,
+    but the label alone does not show sacred force or durable motif structure.
+  cautions: Could be ordinary dialogue, ritualized insult exchange, social sanction,
+    or passage-specific detail. Avoid mapping to curse/blessing unless insults bind,
+    curse, shame, or transform outcomes.
+  suggested_aliases:
+  - reciprocal_insult_quarrel
+  - ritualized_insult_exchange
+  - verbal_conflict_by_insults
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.verbal-shaming-by-exposing-past-concealment
+  motif_id: verbal_shaming_by_exposing_past_concealment
+  label: verbal shaming by exposing past concealment
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: Public shaming through speech may function as performative social sanction,
+    especially in heroic insult contexts.
+  cautions: Could instead be flyting, honor conflict, revelation of hidden identity,
+    or a one-off plot device. Human review should check whether the speech has binding
+    or transformative power.
+  suggested_aliases:
+  - shaming_by_revealing_concealment
+  - verbal_exposure_as_shame
+  - public_shaming_through_revelation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.verbal-sign-or-miracle-proclamation
+  motif_id: verbal_sign_or_miracle_proclamation
+  label: verbal sign or miracle proclamation
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: A proclaimed sign or miracle may indicate divine intervention or prophetic
+    authentication, but the wording is ambiguous.
+  cautions: Could refer to proclamation about a miracle rather than the miracle itself;
+    may also fit sacred knowledge, prophecy_divination, or textual commentary. Source
+    evidence needed.
+  suggested_aliases:
+  - miracle_proclamation
+  - verbal_proclamation_of_sign
+  - proclaimed_divine_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.verification-through-roundup-of-dispersed-livestock
+  motif_id: verification_through_roundup_of_dispersed_livestock
+  label: Verification through roundup of dispersed livestock
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: low
+  rationale: The roundup appears to verify a claim or identity through a practical
+    proof, loosely matching recognition and proof motifs.
+  cautions: May be a local pastoral test, property recovery episode, or passage-specific
+    verification detail rather than a reusable motif. Confirm what is being verified.
+  suggested_aliases:
+  - livestock_roundup_as_proof
+  - proof_by_rounding_up_livestock
+  - verification_by_recovering_dispersed_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vertical-opening-into-unknown-depth
+  motif_id: vertical_opening_into_unknown_depth
+  label: vertical opening into unknown depth
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A vertical opening into depth is a liminal descent image and potential
+    passage toward underworld, hidden knowledge, or danger below.
+  cautions: Do not infer actual underworld journey unless entered or narratively treated
+    as a threshold. If only a landscape feature, it may be too generic for motif queries.
+  suggested_aliases:
+  - opening_into_unknown_depth
+  - vertical_descent_opening
+  - abyssal_opening
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and phrased as episode-specific actions; preserve
+  as evidence details unless source review confirms recurring motif function.
+- Vengeance and verbal-conflict labels often need context to distinguish sacred judgment,
+  social conflict, curse speech, flyting, and ordinary plot mechanics.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; low-confidence items require passage-level
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4075
+  input_sha256: a09ebdf98c1a738b814e6f84f6faab99004442fdeadc8a63b573a5c4a1cf6b34
+

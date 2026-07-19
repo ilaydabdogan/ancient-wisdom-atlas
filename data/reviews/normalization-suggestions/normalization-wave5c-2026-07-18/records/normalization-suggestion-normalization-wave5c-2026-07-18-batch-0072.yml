@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0072
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.confined-souls-crying-out-to-a-deity
+  motif_id: confined_souls_crying_out_to_a_deity
+  label: confined souls crying out to a deity
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns postmortem souls in a constrained afterlife condition
+    appealing to divine authority.
+  cautions: Could instead reflect ritual lament, judgment, or a specific Egyptian
+    afterlife scene; confirm passage context before indexing broadly.
+  suggested_aliases:
+  - souls_confined_in_afterlife_call_to_deity
+  - imprisoned_dead_cry_out_to_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confined-souls-whose-voices-are-heard
+  motif_id: confined_souls_whose_voices_are_heard
+  label: confined souls whose voices are heard
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Audible confined souls point to a navigable or perceptible postmortem
+    realm with trapped dead.
+  cautions: If the emphasis is on sound, lament, or visionary perception rather than
+    afterlife geography, dream_and_vision or lament_and_mourning may be secondary.
+  suggested_aliases:
+  - audible_confined_souls
+  - voices_of_confined_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflicting-multiple-deaths-of-a-legendary-figure
+  motif_id: conflicting_multiple_deaths_of_a_legendary_figure
+  label: Conflicting multiple deaths of a legendary figure
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes variant traditions or contradictory accounts rather
+    than a narrative motif itself.
+  cautions: Preserve as source-critical provenance; if individual death scenes recur,
+    map those scenes separately under death_by_fate, heroic_funeral_rites, or death_and_transformation.
+  suggested_aliases:
+  - conflicting_death_traditions
+  - variant_deaths_of_legendary_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confrontation-with-an-enthroned-underworld-lady
+  motif_id: confrontation_with_an_enthroned_underworld_lady
+  label: Confrontation with an enthroned underworld lady
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: An encounter with an enthroned underworld ruler is a core scene within
+    descent or underworld passage.
+  cautions: If the episode centers on judgment or sovereignty rather than journey,
+    divine_judgment or royal_legitimacy may be useful secondary facets.
+  suggested_aliases:
+  - encounter_with_underworld_queen
+  - confronting_enthroned_underworld_goddess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confrontation-with-mara-as-bondage-and-death
+  motif_id: confrontation_with_mara_as_bondage_and_death
+  label: Confrontation with Mara as bondage and Death
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Confronting Mara functions as a threshold ordeal against death, bondage,
+    and delusion on the path to liberation.
+  cautions: Culturally specific doctrinal meaning is important; may also belong under
+    mystical_quest or sacred_knowledge if awakening is the main focus.
+  suggested_aliases:
+  - mara_as_death_and_bondage_confronted
+  - confrontation_with_mara
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conqueror-becomes-war-god-and-spectre-after-death
+  motif_id: conqueror_becomes_war_god_and_spectre_after_death
+  label: conqueror becomes war-god and spectre after death
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dead conqueror transforming into a divine or spectral war figure is
+    a postmortem transformation.
+  cautions: Could also involve ancestor cult, apotheosis, divine_warrior, or restless_dead_haunting_vengeance;
+    source context should determine secondary mappings.
+  suggested_aliases:
+  - postmortem_apotheosis_as_war_god
+  - dead_conqueror_becomes_spectre
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conqueror-s-consumption-of-enemy-dead
+  motif_id: conqueror_s_consumption_of_enemy_dead
+  label: conqueror's consumption of enemy dead
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern warfare, mortuary practice, ritual incorporation,
+    or a culturally specific account of anthropophagy.
+  cautions: Culturally sensitive and under-contextualized; do not reduce to sacrifice
+    or sacred_combat without evidence of ritual or narrative function.
+  suggested_aliases:
+  - consumption_of_enemy_dead_by_conqueror
+  - ritual_consumption_of_enemy_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conscripted-warriors-longing-for-return-to-agriculture-and-filial-support
+  motif_id: conscripted_warriors_longing_for_return_to_agriculture_and_filial_support
+  label: conscripted warriors longing for return to agriculture and filial support
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as an ethical-social lament about duty, war, agrarian
+    life, and filial obligation rather than a clear death/afterlife motif.
+  cautions: May fit sacred_law, lament_and_mourning, sacred_combat, or be a passage-specific
+    social theme; source evidence is needed.
+  suggested_aliases:
+  - warriors_long_for_home_agriculture_and_filial_duty
+  - conscripted_soldiers_longing_for_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.consecrated-material-transformed-into-a-spiritual-being
+  motif_id: consecrated_material_transformed_into_a_spiritual_being
+  label: Consecrated material transformed into a spiritual being
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transformation of consecrated matter into a living or spiritual being
+    aligns with sacred manufacture and animation of crafted or material forms.
+  cautions: If the emphasis is sacramental transformation rather than crafted animation,
+    sacred_substance or theophany may be better; verify the ritual context.
+  suggested_aliases:
+  - consecrated_matter_becomes_spiritual_being
+  - sacred_material_animated_as_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.constructed-death-place-for-bones-beyond-animals-and-standing-water
+  motif_id: constructed_death_place_for_bones_beyond_animals_and_standing_water
+  label: Constructed death-place for bones beyond animals and standing water
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a regulated mortuary construction shaped by purity
+    boundaries around corpse remains, animals, and water.
+  cautions: Highly tradition-specific; may be too granular and should preserve Zoroastrian
+    purity logic rather than treating it as a generic burial motif.
+  suggested_aliases:
+  - regulated_death_place_for_bones
+  - mortuary_bone_place_avoiding_animals_and_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; suggested placements
+  should be reviewed against passage evidence before adding durable aliases.
+- Death-bucket assignment appears broad for some items; do not infer afterlife meaning
+  when labels mainly concern social ethics, craft animation, or ritual law.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 0072.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0072
+  input_sha256: 7ba6c0a10eebbb8a7bd6b2e6e3a4f5b371349b9f3d2539427efe0663be888a71
+

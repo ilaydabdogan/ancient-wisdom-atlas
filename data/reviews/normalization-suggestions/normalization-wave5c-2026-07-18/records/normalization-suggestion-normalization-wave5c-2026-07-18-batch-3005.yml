@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3005
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.religious-austerities-for-offspring-declared-fruitless
+  motif_id: religious_austerities_for_offspring_declared_fruitless
+  label: religious austerities for offspring declared fruitless
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: Austerities for offspring may be ritual exchange or renunciation seeking
+    divine response, but the fruitless outcome changes the function.
+  cautions: Single occurrence; may be a passage-specific failed-boon or infertility
+    episode rather than a durable motif.
+  suggested_aliases:
+  - failed_austerities_for_offspring
+  - fruitless_religious_austerity_for_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-boundary-defense-against-assimilation
+  motif_id: religious_boundary_defense_against_assimilation
+  label: Religious boundary defense against assimilation
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes maintaining communal religious boundaries through
+    sacred or social order.
+  cautions: Could be contextual ideological commentary; verify the passage contains
+    a motif-like boundary practice, command, or conflict.
+  suggested_aliases:
+  - religious_boundary_maintenance
+  - defense_of_religious_identity_against_assimilation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-boundary-mediation-through-composite-attire
+  motif_id: religious_boundary_mediation_through_composite_attire
+  label: religious boundary mediation through composite attire
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Attire mediating religious identity may belong with embodied sacred law
+    or social-order boundary marking.
+  cautions: Highly specific and culturally contextual; may be evidence detail about
+    clothing rather than a cross-source motif.
+  suggested_aliases:
+  - composite_attire_as_religious_boundary_marker
+  - religious_identity_mediated_by_attire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-transmission-through-neighboring-contact
+  motif_id: religious_transmission_through_neighboring_contact
+  label: religious transmission through neighboring contact
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes cultural or religious transmission by contact, not
+    a narrative or symbolic motif.
+  cautions: Keep transmission claims out of motif normalization; preserve only as
+    historical/contextual metadata if supported elsewhere.
+  suggested_aliases:
+  - neighboring_contact_religious_transmission
+  - religious_diffusion_through_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relocation-of-a-spring-by-a-shaman
+  motif_id: relocation_of_a_spring_by_a_shaman
+  label: Relocation of a spring by a shaman
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A shaman supernaturally moving a spring is sacred agency altering the
+    natural world for human affairs.
+  cautions: Could also fit sacred_waters or cosmic_origin if the source emphasizes
+    water power or landscape formation; review Indigenous context carefully.
+  suggested_aliases:
+  - shaman_relocates_spring
+  - supernatural_relocation_of_water_source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relocation-of-political-center-under-encroachment
+  motif_id: relocation_of_political_center_under_encroachment
+  label: Relocation of political center under encroachment
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: Moving a political center may concern sacred polity and legitimate social
+    order under threat.
+  cautions: May be historical settlement detail rather than mythic motif; needs evidence
+    of sacred sanction, ritual center, or cosmological meaning.
+  suggested_aliases:
+  - political_center_relocated_under_pressure
+  - relocation_of_sacred_political_center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remains-placed-in-vessels-and-buried
+  motif_id: remains_placed_in_vessels_and_buried
+  label: remains placed in vessels and buried
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Burial of remains in vessels is a mortuary care practice relating living
+    ritual handling to the dead.
+  cautions: If the vessel itself is the focus, sacred_vessel may be secondary; avoid
+    overgeneralizing from one ethnographic detail.
+  suggested_aliases:
+  - vessel_burial_of_remains
+  - mortuary_remains_placed_in_vessels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-answering-sound
+  motif_id: remote_answering_sound
+  label: Remote answering sound
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: uncertain
+  confidence: low
+  rationale: A distant responsive sound may indicate supernatural sound power, call-response,
+    or spirit communication.
+  cautions: Label is too terse to determine function; could be an omen, ritual signal,
+    echo detail, or passage artifact.
+  suggested_aliases:
+  - distant_answering_sound
+  - supernatural_answering_sound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-cave-abode-of-sleep
+  motif_id: remote_cave_abode_of_sleep
+  label: Remote cave-abode of Sleep
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A remote cave of Sleep is a liminal dark dwelling associated with descent,
+    hidden realm, and altered consciousness.
+  cautions: If the emphasis is dream revelation rather than cave-space, dream_and_vision
+    may be a better secondary mapping.
+  suggested_aliases:
+  - cave_abode_of_sleep
+  - remote_sleep_cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-dark-abode-of-a-sleep-deity
+  motif_id: remote_dark_abode_of_a_sleep_deity
+  label: Remote dark abode of a sleep deity
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The dark remote home of a sleep deity functions as a chthonic or liminal
+    descent-like space of altered consciousness.
+  cautions: Closely overlaps with remote_cave_abode_of_sleep; consider aliasing if
+    both refer to the same Roman Sleep episode.
+  suggested_aliases:
+  - dark_abode_of_sleep_deity
+  - remote_dwelling_of_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, contextual, or historically
+  descriptive; human review should confirm motif function before durable mappings.
+- Do not treat religious transmission/contact labels as evidence for borrowing or
+  shared origin in motif queries.
+- The two Roman Sleep-abode labels likely need consolidation if source evidence confirms
+  they describe the same cave/dark dwelling motif.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3005
+  input_sha256: a9660f0e841b43d4113402591c0bd424f094bf24358e7f33e4dfc313ca734c00
+

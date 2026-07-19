@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4047
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.tribal-differentiation-through-isolation
+  motif_id: tribal_differentiation_through_isolation
+  label: Tribal differentiation through isolation
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe an ethnogonic differentiation motif, but the mechanism
+    and narrative function are unclear from wording alone.
+  cautions: Could be origin myth, social classification, ethnographic commentary,
+    or passage-specific explanation; review source evidence before mapping.
+  suggested_aliases:
+  - people_differentiation_through_isolation
+  - ethnic_differentiation_by_separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tribal-naming-and-courageous-endurance-declaration
+  motif_id: tribal_naming_and_courageous_endurance_declaration
+  label: tribal naming and courageous endurance declaration
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines naming, group identity, and declared endurance; no single existing
+    group clearly captures the function without source context.
+  cautions: May belong to origin/identity etiology, sacred speech, heroic ethos, or
+    be an over-specific episode label.
+  suggested_aliases:
+  - tribal_name_declared_through_endurance
+  - group_naming_by_endurance_declaration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - curse_blessing_speech
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tribal-origin-and-differentiation
+  motif_id: tribal_origin_and_differentiation
+  label: Tribal origin and differentiation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already includes ancestral and people-origin labels; tribal
+    origin and differentiation fits ethnogonic origin explanation.
+  cautions: If the passage emphasizes social hierarchy or political placement rather
+    than origin, sacred_law or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - people_origin_and_differentiation
+  - ethnogonic_differentiation
+  - tribal_origin_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tribal-placement-among-rival-groups
+  motif_id: tribal_placement_among_rival_groups
+  label: Tribal placement among rival groups
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording suggests social ordering among peoples, but may be contextual
+    ethnography rather than a recurring motif.
+  cautions: Review whether this is an origin charter, political hierarchy, rivalry
+    narrative, or editorial summary before mapping.
+  suggested_aliases:
+  - group_placement_among_rivals
+  - tribal_position_among_rival_peoples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_law
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tribe-specific-hammock-types-and-materials
+  motif_id: tribe_specific_hammock_types_and_materials
+  label: tribe-specific hammock types and materials
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads as an ethnographic material-culture detail rather than a symbolic
+    or narrative motif.
+  cautions: Preserve as source evidence if relevant to local context, but exclude
+    from broad motif queries unless a recurring sacred-object function is shown.
+  suggested_aliases:
+  - hammock_types_by_tribe
+  - tribe_specific_hammock_materials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tribute-from-peripheral-or-wild-peoples
+  motif_id: tribute_from_peripheral_or_wild_peoples
+  label: tribute from peripheral or wild peoples
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Tribute from peripheral peoples can function as recognition of central
+    royal or moral-political order.
+  cautions: The phrase 'wild peoples' is culturally loaded; review source wording
+    and avoid treating political ideology as neutral ethnography.
+  suggested_aliases:
+  - tribute_from_peripheral_peoples
+  - outer_peoples_offer_tribute
+  - tribute_acknowledges_central_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tribute-imposed-after-prolonged-siege
+  motif_id: tribute_imposed_after_prolonged_siege
+  label: tribute imposed after prolonged siege
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The tribute is framed as an outcome of siege warfare, fitting the sacred
+    combat/warfare complex better than general exchange.
+  cautions: If the passage is annalistic royal record rather than mythic narrative,
+    this may be a historical-detail artifact.
+  suggested_aliases:
+  - tribute_after_siege
+  - siege_victory_imposes_tribute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tribute-payment-by-multiple-lands
+  motif_id: tribute_payment_by_multiple_lands
+  label: Tribute payment by multiple lands
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Multiple lands paying tribute commonly signals universal or legitimate
+    rule over a broad political order.
+  cautions: Could be a royal-inscription formula or historical record rather than
+    a reusable motif; verify mythic or ideological function.
+  suggested_aliases:
+  - many_lands_pay_tribute
+  - tribute_from_multiple_lands
+  - universal_tribute_to_ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - supreme_ruler
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tribute-recorded-by-foreign-chief
+  motif_id: tribute_recorded_by_foreign_chief
+  label: tribute recorded by foreign chief
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The emphasis on tribute being recorded by a foreign chief sounds like
+    a provenance or documentary detail, not a motif.
+  cautions: If the source passage uses recording as a sacred legitimation act, reconsider
+    under royal_legitimacy or sacred_law.
+  suggested_aliases:
+  - foreign_chief_records_tribute
+  - tribute_recording_by_outsider
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tribute-submission-after-military-defeat
+  motif_id: tribute_submission_after_military_defeat
+  label: tribute submission after military defeat
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Submission and tribute are presented as consequences of military defeat,
+    aligning with warfare outcomes and order after combat.
+  cautions: May also support royal_legitimacy when tribute primarily legitimizes the
+    victor's rule; beware annalistic historical detail.
+  suggested_aliases:
+  - defeated_enemy_submits_with_tribute
+  - tribute_after_military_defeat
+  - tribute_as_submission_after_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern tribe/people differentiation; source context is needed to
+  distinguish origin myth from ethnographic or social-order commentary.
+- Tribute labels may be royal ideology, sacred combat outcomes, or annalistic historical
+  details; final mapping should verify narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally loaded group labels should
+    receive human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4047
+  input_sha256: d1ce395f5b713527acd426dd8561ee224a8d866fcc7cf112e4f3126e75c7f6f2
+

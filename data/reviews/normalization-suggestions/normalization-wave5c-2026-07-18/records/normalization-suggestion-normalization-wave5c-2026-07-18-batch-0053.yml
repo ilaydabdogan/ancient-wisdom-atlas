@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0053
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.burial-text-accompanying-the-dead
+  motif_id: burial_text_accompanying_the_dead
+  label: burial text accompanying the dead
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: ritual_variant
+  confidence: high
+  rationale: A burial text accompanying the dead likely supplies instructions, names,
+    or ritual knowledge for postmortem passage.
+  cautions: Single Egyptian occurrence; verify the text functions as afterlife navigation
+    rather than merely a grave inscription or textual artifact.
+  suggested_aliases:
+  - funerary_text_accompanying_the_dead
+  - mortuary_text_for_afterlife_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burial-with-equipment-arms-and-vehicle
+  motif_id: burial_with_equipment_arms_and_vehicle
+  label: Burial with equipment, arms, and vehicle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Burial with arms, equipment, and vehicle fits funerary rites that honor
+    or equip a dead warrior or high-status figure.
+  cautions: If the emphasis is equipping the dead for an afterlife journey, afterlife_passage
+    may be a secondary mapping; if purely archaeological inventory, review as evidence
+    detail.
+  suggested_aliases:
+  - warrior_burial_with_arms_and_vehicle
+  - burial_with_grave_equipment_and_vehicle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burial-with-grave-goods-and-prayerful-circumambulation
+  motif_id: burial_with_grave_goods_and_prayerful_circumambulation
+  label: Burial with grave goods and prayerful circumambulation
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes ritual care for the dead through grave goods and
+    prayerful movement around the burial.
+  cautions: Could also fit afterlife_passage if grave goods are explicitly travel
+    provisions; circumambulation may be culturally specific and should be preserved
+    as local evidence.
+  suggested_aliases:
+  - burial_with_grave_goods_and_circumambulation
+  - prayerful_circumambulation_at_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burial-with-possessions-and-travel-equipment
+  motif_id: burial_with_possessions_and_travel_equipment
+  label: burial with possessions and travel equipment
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: ritual_variant
+  confidence: high
+  rationale: Travel equipment in burial strongly suggests provisioning the dead for
+    a postmortem journey.
+  cautions: If source evidence treats the possessions as honor, status, or memory
+    rather than travel aid, ancestor_rites or heroic_funeral_rites may be better.
+  suggested_aliases:
+  - grave_goods_as_afterlife_travel_equipment
+  - burial_provisions_for_postmortem_travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.buried-or-hidden-wealth-at-death
+  motif_id: buried_or_hidden_wealth_at_death
+  label: buried or hidden wealth at death
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe grave goods, wealth concealment, inheritance
+    avoidance, ritual disposal, or a passage-specific social practice.
+  cautions: Source context is needed to determine whether this is funerary care, sacred
+    treasure, social order, or an ethnographic detail too specific for motif queries.
+  suggested_aliases:
+  - wealth_hidden_at_death
+  - burial_or_concealment_of_wealth_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-a-communal-house-after-its-master-s-death
+  motif_id: burning_a_communal_house_after_its_master_s_death
+  label: Burning a communal house after its master's death
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Destroying a dwelling after its master’s death appears to regulate relations
+    between the living, the dead, and the deceased person’s space.
+  cautions: Could instead be apotropaic purification under sacred_law or property
+    destruction as social custom; preserve the communal-house specificity.
+  suggested_aliases:
+  - postmortem_burning_of_the_dead_master_s_house
+  - death_rite_burning_of_communal_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-aromatic-substances-before-burial
+  motif_id: burning_aromatic_substances_before_burial
+  label: burning aromatic substances before burial
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Aromatic burning before burial is a mortuary rite of care, purification,
+    or transition for the dead.
+  cautions: If the passage emphasizes purification or protection from pollution, sacred_law
+    may be a secondary mapping; single occurrence may remain evidence detail.
+  suggested_aliases:
+  - pre_burial_aromatic_burning
+  - incense_or_aromatics_before_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-city-as-crisis-sign-prompting-heroic-return
+  motif_id: burning_city_as_crisis_sign_prompting_heroic_return
+  label: burning city as crisis sign prompting heroic return
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A crisis sign that prompts the hero’s return belongs to the departure-trial-return
+    arc rather than death or burial.
+  cautions: Bucket assignment may be misleading; if the focus is warfare or city destruction,
+    sacred_combat may be more appropriate. Highly episode-specific.
+  suggested_aliases:
+  - crisis_signal_prompts_heroic_return
+  - burning_city_calls_hero_home
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-dwellings-and-relocating-after-a-death
+  motif_id: burning_dwellings_and_relocating_after_a_death
+  label: Burning dwellings and relocating after a death
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Burning dwellings and relocating after death reads as a mortuary taboo
+    or apotropaic regulation of death pollution and household space.
+  cautions: Culturally sensitive practice; review source evidence before reducing
+    to pollution logic. Could also fit ancestor_rites if framed as care or separation
+    from the dead.
+  suggested_aliases:
+  - post_death_burning_of_dwellings_and_relocation
+  - mortuary_relocation_after_burning_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-of-dead-men-s-property-with-feast-materials
+  motif_id: burning_of_dead_men_s_property_with_feast_materials
+  label: burning of dead men's property with feast materials
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Burning a dead person’s property with feast materials is a mortuary rite
+    managing goods, offerings, and relations with the dead.
+  cautions: May overlap with sacrifice or sacred_exchange if the burning is an offering;
+    preserve property-destruction and feast details as evidence rather than promoting
+    a narrow motif.
+  suggested_aliases:
+  - mortuary_burning_of_property_and_feast_goods
+  - dead_person_s_goods_burned_with_feast_materials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels describe single-occurrence mortuary practices. Existing groups can
+  hold them provisionally, but source evidence should decide whether the function
+  is afterlife provisioning, ancestor care, purification/taboo, sacrifice, or heroic
+  memorialization.
+- Avoid treating object inventories or ethnographic descriptions as canonical motifs
+  unless the ritual function is explicit or recurs across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0053
+  input_sha256: 1390247e2575f38efa2d898c83d364fe3388db7d824d0ba627e7bf650947f13f
+

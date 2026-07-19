@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1114
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.royal-procession-to-receive-a-sacred-relic
+  motif_id: royal_procession_to_receive_a_sacred_relic
+  label: Royal procession to receive a sacred relic
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred relic is a power object received through public ritual action,
+    fitting the sacred_treasures group and its relic/shrine children.
+  cautions: The royal procession may also express royal_legitimacy or sacred_exchange;
+    verify whether the passage emphasizes relic power, kingship, or ritual reception.
+  suggested_aliases:
+  - royal_reception_of_a_sacred_relic
+  - processional_reception_of_relics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-purity-and-chastity
+  motif_id: royal_purity_and_chastity
+  label: royal purity and chastity
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purity and chastity rules function as sacred regulation of royal conduct
+    and social-religious order.
+  cautions: Could also support royal_legitimacy if chastity authorizes rule or lineage;
+    source context is needed because the label is abstract and single-occurrence.
+  suggested_aliases:
+  - royal_chastity_as_purity_rule
+  - royal_purity_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-sacrifice-for-peace-of-the-country
+  motif_id: royal_sacrifice_for_peace_of_the_country
+  label: royal sacrifice for peace of the country
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: high
+  rationale: The label directly describes a royal offering or surrender performed
+    to secure communal peace.
+  cautions: May also index royal_legitimacy or sacred_exchange if the rite authorizes
+    kingship or repairs divine-human reciprocity; preserve the civic-peace function
+    in notes.
+  suggested_aliases:
+  - kingly_sacrifice_for_communal_peace
+  - royal_offering_for_the_country_s_peace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-taboos-as-lifeguards
+  motif_id: royal_taboos_as_lifeguards
+  label: Royal taboos as lifeguards
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Royal taboos are sacred regulations, but the phrase 'as lifeguards' sounds
+    comparative or interpretive rather than a clear passage motif.
+  cautions: May be a scholarly generalization from comparative material; verify whether
+    specific narrative evidence describes taboo observance preserving royal life.
+    Could also relate to royal_legitimacy or external_soul-like life protection.
+  suggested_aliases:
+  - life_preserving_royal_taboos
+  - royal_taboo_protects_the_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-temple-renewal
+  motif_id: royal_temple_renewal
+  label: royal temple renewal
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Royal renewal of a temple typically sacralizes kingship by restoring
+    divine order and cult infrastructure.
+  cautions: If the passage emphasizes the temple as sacred center, axis_mundi/world_center
+    may be a secondary mapping; if construction technique is central, sacred_craft
+    may fit better.
+  suggested_aliases:
+  - king_renews_the_temple
+  - royal_restoration_of_temple_cult
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-test-to-build-a-flawless-sacred-building
+  motif_id: royal_test_to_build_a_flawless_sacred_building
+  label: royal test to build a flawless sacred building
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The main action is a demanding construction task for a sacred building,
+    fitting sacred craft and sacralized construction.
+  cautions: Could be initiation or royal_legitimacy if the test primarily proves worthiness;
+    single occurrence and 'flawless' detail may be over-specific.
+  suggested_aliases:
+  - test_of_flawless_sacred_construction
+  - ordeal_to_build_a_perfect_sacred_building
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rule-modified-by-lay-ritual-need
+  motif_id: rule_modified_by_lay_ritual_need
+  label: rule modified by lay ritual need
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns adaptation of a ritual rule, which broadly fits sacred
+    law, but reads like legal-commentarial context rather than a motif.
+  cautions: May be a vinaya or commentary artifact about rule formation; confirm passage-level
+    narrative or ritual pattern before indexing in motif queries.
+  suggested_aliases:
+  - ritual_rule_adapted_to_lay_need
+  - sacred_rule_modified_for_lay_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rule-prompted-by-a-concrete-offering-case
+  motif_id: rule_prompted_by_a_concrete_offering_case
+  label: Rule prompted by a concrete offering case
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: A rule arising from an offering case touches sacred law and sacred exchange,
+    but the wording is procedural and possibly textual/legal commentary.
+  cautions: Likely over-contextual for pattern queries unless repeated as a narrative
+    structure of precedent-based rule formation; review source evidence.
+  suggested_aliases:
+  - offering_case_generates_a_ritual_rule
+  - precedent_case_for_an_offering_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-as-restorer-of-divine-temples
+  motif_id: ruler_as_restorer_of_divine_temples
+  label: ruler as restorer of divine temples
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: high
+  rationale: The ruler's role as temple restorer legitimizes rule through maintenance
+    of sacred cult and divine order.
+  cautions: May also relate to sacred_craft or axis_mundi/world_center when the building
+    or sacred center is the main focus.
+  suggested_aliases:
+  - king_as_restorer_of_temples
+  - ruler_restores_divine_cult_places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-forbids-outsiders-work-in-a-sacred-or-restricted-precinct
+  motif_id: ruler_forbids_outsiders_work_in_a_sacred_or_restricted_precinct
+  label: ruler forbids outsiders' work in a sacred or restricted precinct
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on prohibition governing access and labor in a sacred
+    precinct, fitting sacred law and ritual boundary regulation.
+  cautions: Could also support royal_legitimacy if the ruler's authority is the focus,
+    or threshold_guardian if a boundary-guardian role is explicit. The outsider restriction
+    may be culturally sensitive and needs contextual review.
+  suggested_aliases:
+  - sacred_precinct_work_restricted_to_insiders
+  - ruler_enforces_sacred_precinct_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine royal authority with ritual, temple, or purity functions;
+  suggested placements distinguish the primary function but secondary mappings may
+  be useful after source review.
+- Single-occurrence legal or procedural Buddhist rule labels may be commentary artifacts
+  rather than durable motifs; human review should verify passage evidence before adding
+  them to pattern queries.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for taxonomy review; no taxonomy
+    edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1114
+  input_sha256: b03dd8a973300e34516a0e0ee71ad3b0ae1ff8b765fb6c5104e33d9432f5f2f5
+

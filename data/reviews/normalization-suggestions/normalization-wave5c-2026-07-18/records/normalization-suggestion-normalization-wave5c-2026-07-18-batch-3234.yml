@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3234
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.certain-hunting-observances-called-nanna-sse
+  motif_id: certain_hunting_observances_called_nanna_sse
+  label: Certain hunting observances called \nanna-sse
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names local hunting observances but does not state the ritual
+    function or narrative pattern.
+  cautions: Culturally specific San terminology needs source review; may be ethnographic
+    practice, taboo, ritual law, or passage artifact.
+  suggested_aliases:
+  - hunting_observances
+  - hunting_ritual_observances
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacrifice
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chain-of-envy-among-differently-endowed-beings
+  motif_id: chain_of_envy_among_differently_endowed_beings
+  label: Chain of envy among differently endowed beings
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Envy among beings fits the existing pride/downfall cluster, which already
+    includes envy and failed imitation variants.
+  cautions: Daoist context may frame envy as a relativity/paradox teaching rather
+    than moral downfall; review passage evidence.
+  suggested_aliases:
+  - envy_among_differently_endowed_beings
+  - chain_of_envy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.chains-as-sign-of-non-voluntary-intrusion
+  motif_id: chains_as_sign_of_non_voluntary_intrusion
+  label: chains as sign of non-voluntary intrusion
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label reads as an interpretive sign or evidence detail rather than
+    a reusable motif.
+  cautions: If the passage narrates binding, captivity, or forced spirit intrusion,
+    remap after review; current wording is too contextual.
+  suggested_aliases:
+  - chains_mark_forced_intrusion
+  - chains_as_intrusion_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.challenge-to-manhood-incites-pursuit
+  motif_id: challenge_to_manhood_incites_pursuit
+  label: Challenge to manhood incites pursuit
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A gendered challenge provoking pursuit functions like taunt or honor-incitement
+    in combat/quest conflict scenes.
+  cautions: Could instead be initiation or social-order rhetoric if pursuit is not
+    martial; preserve gendered wording as local evidence.
+  suggested_aliases:
+  - honor_challenge_incites_pursuit
+  - challenge_to_masculinity_provokes_pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.challenge-to-professed-supernatural-power
+  motif_id: challenge_to_professed_supernatural_power
+  label: challenge to professed supernatural power
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe a contest of magic, skeptical testing, or narrative
+    exposure of false power.
+  cautions: Needs source evidence to distinguish prophecy/divination, divine intervention,
+    trickster exposure, or sacred combat contest.
+  suggested_aliases:
+  - supernatural_power_challenged
+  - test_of_claimed_supernatural_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - prophecy_divination
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.challenged-powers-of-hostile-magical-specialists
+  motif_id: challenged_powers_of_hostile_magical_specialists
+  label: challenged powers of hostile magical specialists
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: This resembles existing miracle-contest and hostile magical specialist
+    challenge motifs under divine intervention.
+  cautions: If the scene is primarily human sorcery rivalry without divine agency,
+    consider trickster or prophecy/divination after review.
+  suggested_aliases:
+  - challenge_to_hostile_magical_specialists
+  - contest_against_hostile_magicians
+  - magical_specialists_challenged
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - trickster
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-appointed-in-another-knight-s-place
+  motif_id: champion_appointed_in_another_knight_s_place
+  label: champion appointed in another knight's place
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: medium
+  rationale: Substitution or appointment of a representative champion belongs with
+    formalized combat and duel structures.
+  cautions: Could be a courtly plot detail if no combat or ordeal follows; compare
+    with substitute-warrior armor variants.
+  suggested_aliases:
+  - substitute_champion_appointed
+  - replacement_champion
+  - champion_appointed_in_another_s_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-boasting-he-can-take-a-land-and-impose-tribute
+  motif_id: champion_boasting_he_can_take_a_land_and_impose_tribute
+  label: Champion boasting he can take a land and impose tribute
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A champion's territorial boast and threat of tribute fits pre-combat
+    boasting and martial challenge motifs.
+  cautions: If emphasis is political sovereignty or tribute order, royal_legitimacy
+    may be a secondary mapping.
+  suggested_aliases:
+  - champion_boasts_of_conquest_and_tribute
+  - martial_boast_of_land_conquest
+  - tribute_imposing_champion_boast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-captured-alive-with-a-noose
+  motif_id: champion_captured_alive_with_a_noose
+  label: Champion captured alive with a noose
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Capture of a champion in battle belongs broadly with sacred combat, but
+    the noose detail is granular evidence.
+  cautions: Likely episode-specific; avoid promoting the capture method unless it
+    recurs across sources.
+  suggested_aliases:
+  - champion_captured_alive
+  - noose_capture_of_champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.champion-confronts-persecuting-knight
+  motif_id: champion_confronts_persecuting_knight
+  label: Champion confronts persecuting knight
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A champion confronting a hostile knight is a chivalric combat or ordeal
+    pattern.
+  cautions: If the focus is rescue of a victim or legal redress rather than combat,
+    sacred_law or divine_judgment may be secondary.
+  suggested_aliases:
+  - champion_confronts_oppressive_knight
+  - champion_challenges_persecuting_knight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and highly contextual; recommendations should
+  be treated as provisional review placements rather than taxonomy edits.
+- Combat-adjacent Arthurian, Celtic, and Persian labels were placed under sacred_combat
+  when their narrative function appears to be duel, champion substitution, boast,
+  capture, or confrontation.
+- Labels naming local observances or interpretive signs require source review before
+  being used in Pattern Explorer queries.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated from label and supplied taxonomy
+    only; no source passages reviewed.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3234
+  input_sha256: c4c103dac208f977c4468bec8b59049a2bc1fa2d00c6fc2dfaa42011f578ea3e
+

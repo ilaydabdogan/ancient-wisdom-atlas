@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3031
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.treasure-in-a-defeated-giant-s-cave
+  motif_id: treasure_in_a_defeated_giant_s_cave
+  label: Treasure in a defeated giant's cave
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on treasure acquired or revealed in a mythic combat
+    setting, matching sacred power objects more than cave space alone.
+  cautions: Single occurrence and over-specific; if the cave itself is the key liminal
+    space, secondary relation to descent or treasure_cave may be useful.
+  suggested_aliases:
+  - treasure_cave
+  - treasure_in_giant_cave
+  - treasure_found_after_giant_defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasure-scattering-before-destructive-vengeance
+  motif_id: treasure_scattering_before_destructive_vengeance
+  label: treasure scattering before destructive vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The action could be a revenge rite, wealth disposal, curse-like act,
+    or episode-specific narrative detail.
+  cautions: Needs source context before choosing sacred_treasures, sacred_combat,
+    divine_judgment, or exclusion as an over-specific scene.
+  suggested_aliases:
+  - scattering_treasure_before_vengeance
+  - wealth_scattered_before_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.treasures-appearing-in-liminal-natural-places
+  motif_id: treasures_appearing_in_liminal_natural_places
+  label: Treasures appearing in liminal natural places
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Miraculous or sacred treasures manifesting in charged places fits the
+    sacred power-object group.
+  cautions: If the passage stresses the liminal landscape more than the objects, consider
+    otherworld, axis_mundi, or divine_intervention as secondary mappings.
+  suggested_aliases:
+  - miraculous_treasures_in_liminal_places
+  - treasures_manifest_in_sacred_natural_places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tribute-bearing-subordinate-proves-loyalty
+  motif_id: tribute_bearing_subordinate_proves_loyalty
+  label: Tribute-bearing subordinate proves loyalty
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Tribute offered by a subordinate affirms hierarchy and legitimate rule,
+    fitting sacred kingship and political order.
+  cautions: If the episode is ordinary administration rather than sacralized kingship,
+    it may be too contextual for pattern queries.
+  suggested_aliases:
+  - tribute_as_proof_of_loyalty
+  - subordinate_tribute_confirms_loyalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tribute-paid-from-one-island-group-to-another
+  motif_id: tribute_paid_from_one_island_group_to_another
+  label: Tribute paid from one island group to another
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a specific political or ethnographic detail without
+    a clear symbolic or narrative motif function.
+  cautions: If source evidence frames tribute as sacred exchange, sovereignty, or
+    ritual obligation, remap to sacred_exchange or royal_legitimacy.
+  suggested_aliases:
+  - inter_island_tribute_payment
+  - tribute_between_island_groups
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.triple-mating-or-triple-paternity-of-offspring
+  motif_id: triple_mating_or_triple_paternity_of_offspring
+  label: Triple mating or triple paternity of offspring
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns conception, lineage, and possibly sacred birth, but
+    the narrative function is unclear from wording alone.
+  cautions: Review for cultural sensitivity and source evidence; could involve sacred_birth,
+    miraculous_child, sacred_marriage, genealogy, or a passage-specific theological
+    detail.
+  suggested_aliases:
+  - triple_paternity
+  - triple_conception_of_offspring
+  - threefold_paternity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trophy-covered-threshold-of-defeated-knights
+  motif_id: trophy_covered_threshold_of_defeated_knights
+  label: Trophy-covered threshold of defeated knights
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Displayed trophies of defeated opponents mark martial victory and ritualized
+    combat status, even though the setting is a threshold.
+  cautions: Over-specific chivalric scene; if the threshold is the key ordeal marker,
+    threshold_guardian may be a secondary relation.
+  suggested_aliases:
+  - trophies_of_defeated_knights_at_threshold
+  - martial_trophies_displayed_at_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trophy-display-on-communal-male-house
+  motif_id: trophy_display_on_communal_male_house
+  label: trophy display on communal male house
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a martial trophy display, initiation marker, ancestor practice,
+    or culturally specific architectural detail.
+  cautions: Culturally sensitive and single occurrence; avoid broad indexing without
+    source evidence about ritual or narrative function.
+  suggested_aliases:
+  - war_trophies_displayed_on_communal_house
+  - trophy_display_on_mens_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trophy-garment-made-from-relatives-remains
+  motif_id: trophy_garment_made_from_relatives_remains
+  label: Trophy garment made from relatives' remains
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines trophy object, kin remains, death ritual, and possible
+    vengeance or memorialization in a culturally sensitive way.
+  cautions: Needs source context; could map to heroic_funeral_rites, sacred_treasures,
+    sacred_combat, ancestor_rites, or be excluded if merely an episode artifact.
+  suggested_aliases:
+  - garment_made_from_kin_remains
+  - kin_remains_as_trophy_garment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trophy-heads-displayed-at-gates-or-town-boundary
+  motif_id: trophy_heads_displayed_at_gates_or_town_boundary
+  label: trophy heads displayed at gates or town boundary
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Severed heads displayed as trophies after conflict fit the existing sacred_combat
+    trophy-display complex.
+  cautions: Culturally sensitive and boundary-focused; if the gate display serves
+    apotropaic protection, sacred_law may be a secondary mapping.
+  suggested_aliases:
+  - severed_heads_displayed_at_boundary
+  - trophy_heads_at_gates
+  - head_trophies_mark_town_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and object/space framed, but
+  their likely functions belong to combat, sacred treasure, kingship, or ritual practice
+  rather than the object-space bucket itself.
+- Trophy and human-remains labels should receive human review for cultural sensitivity
+  and to distinguish narrative motifs from ethnographic or passage-specific details.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked before taxonomy
+    edits.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3031
+  input_sha256: 0c09fda24d7f36decb37e31dd52af76d3644aa00de29a57adf352e687a7f8488
+

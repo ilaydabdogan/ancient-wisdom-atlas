@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0440
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.weapon-held-by-dead-hero-s-locked-hand
+  motif_id: weapon_held_by_dead_hero_s_locked_hand
+  label: weapon held by dead hero's locked hand
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A dead hero's weapon retained in the corpse's hand is a funerary/body-handling
+    detail around heroic death and memorialization.
+  cautions: Single occurrence and highly episode-specific; if the weapon's power or
+    succession is central, sacred_treasures may be a secondary fit.
+  suggested_aliases:
+  - dead_hero_grasps_weapon
+  - weapon_locked_in_dead_hero_s_hand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-returned-against-the-attacker-s-party
+  motif_id: weapon_returned_against_the_attacker_s_party
+  label: Weapon returned against the attacker's party
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hostile weapon turned back on the attacking side matches existing weapon-reversal
+    punishment patterns under divine judgment.
+  cautions: If the episode is ordinary battle stratagem rather than moral reversal
+    or supernatural recoil, sacred_combat may be better.
+  suggested_aliases:
+  - hostile_weapon_returned_against_attacker
+  - weapon_reversal_against_attacker_s_party
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-succession-after-a-warrior-s-death
+  motif_id: weapon_succession_after_a_warrior_s_death
+  label: weapon succession after a warrior's death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transmission of a dead warrior's weapon treats the object as inherited
+    power, authority, or heroic continuity.
+  cautions: Could also belong with heroic_funeral_rites if the focus is burial custom
+    rather than succession of a power object.
+  suggested_aliases:
+  - inheritance_of_a_dead_warrior_s_weapon
+  - dead_warrior_s_weapon_inherited_by_successor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-wound-to-ghost-reflected-in-grave-remains
+  motif_id: weapon_wound_to_ghost_reflected_in_grave_remains
+  label: Weapon wound to ghost reflected in grave remains
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif involves an active ghost whose injury is mirrored in buried
+    remains, fitting restless-dead agency.
+  cautions: Culturally specific soul/body assumptions need source review; may overlap
+    with death_and_transformation if the focus is postmortem body transformation.
+  suggested_aliases:
+  - ghost_wound_reflected_in_corpse
+  - injury_to_ghost_marks_grave_remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapons-concealed-in-a-tree-and-disguised-as-corpses
+  motif_id: weapons_concealed_in_a_tree_and_disguised_as_corpses
+  label: weapons concealed in a tree and disguised as corpses
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Hidden weapons are power objects; the tree and corpse disguise appear
+    to be contextual concealment details.
+  cautions: If the concealment is primarily a deception tactic, trickster or sacred_combat
+    may be more relevant; avoid mapping to axis_mundi unless the tree has cosmic function.
+  suggested_aliases:
+  - hidden_weapons_in_tree
+  - concealed_power_weapons_disguised_as_corpses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapons-used-to-avert-storm-causing-spirits
+  motif_id: weapons_used_to_avert_storm_causing_spirits
+  label: Weapons used to avert storm-causing spirits
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Use of weapons to ward off harmful spirits fits apotropaic ritual protection
+    already folded under sacred_law.
+  cautions: Review culturally specific evidence; if weapons themselves are empowered
+    sacred objects, sacred_treasures may be secondary.
+  suggested_aliases:
+  - apotropaic_weapons_against_storm_spirits
+  - weapons_avert_harmful_weather_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weariness-prompts-a-call-for-death
+  motif_id: weariness_prompts_a_call_for_death
+  label: weariness prompts a call for Death
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a fable-like moral scene, personified Death, existential
+    weariness, or a passage-specific saying.
+  cautions: Do not map to death_by_fate or death_and_transformation without evidence
+    of destiny, postmortem transition, or transformative death.
+  suggested_aliases:
+  - weary_person_calls_for_death
+  - summoning_death_from_weariness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wearing-body-parts-of-the-dead-as-ornaments
+  motif_id: wearing_body_parts_of_the_dead_as_ornaments
+  label: Wearing body parts of the dead as ornaments
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The act could be ancestor veneration, trophy display, ritual protection,
+    mourning, or culturally specific mortuary practice.
+  cautions: Culturally sensitive and single occurrence; source evidence is needed
+    before assigning to ancestor_rites, sacred_treasures, sacred_combat, or sacred_law.
+  suggested_aliases:
+  - dead_body_parts_worn_as_ornaments
+  - ornamental_wearing_of_human_remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wearing-the-dead-predecessor-s-regalia
+  motif_id: wearing_the_dead_predecessor_s_regalia
+  label: wearing the dead predecessor’s regalia
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Assuming a predecessor's regalia after death functions as succession,
+    authority transfer, or legitimating continuity.
+  cautions: Culturally specific regalia practices should be reviewed; if the focus
+    is mortuary honoring rather than rule or status transfer, heroic_funeral_rites
+    or ancestor_rites may be secondary.
+  suggested_aliases:
+  - dead_predecessor_s_regalia_worn_by_successor
+  - succession_through_predecessor_regalia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weather-controlling-spirits-in-rocks
+  motif_id: weather_controlling_spirits_in_rocks
+  label: Weather-controlling spirits in rocks
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: Spirits inhabiting rocks and controlling weather are nonhuman sacred
+    agents acting in natural affairs, broadly fitting divine_intervention.
+  cautions: May warrant future weather-spirit or animistic landscape-spirit grouping
+    if recurrent; review local terminology and avoid reducing to generic intervention
+    if rocks function as sacred objects or places.
+  suggested_aliases:
+  - weather_spirits_in_rocks
+  - rock_spirits_control_weather
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and object- or episode-specific; preserve local
+  details as evidence notes rather than promoting to taxonomy families.
+- Death-bucket assignment appears noisy for weapon, weather-spirit, and apotropaic
+  items; suggestions rely on narrative function rather than bucket label.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific mortuary and spirit-practice
+    labels flagged for human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0440
+  input_sha256: 8089a661c70f6fbd63f00e3e00ad85a743dfc176c8cbc2b8de24d413bc8e2f49
+

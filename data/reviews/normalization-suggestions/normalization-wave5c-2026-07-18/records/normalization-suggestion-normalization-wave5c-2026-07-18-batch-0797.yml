@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0797
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-strengthening-before-a-contest
+  motif_id: divine_strengthening_before_a_contest
+  label: Divine strengthening before a contest
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity empowering a mortal before a contest is direct sacred aid in
+    human affairs.
+  cautions: If the contest is explicitly martial or heroic, divine_warrior or sacred_combat
+    may be a better secondary grouping.
+  suggested_aliases:
+  - divine_empowerment_before_contest
+  - divine_aid_before_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-succession-through-defeat-and-banishment-of-older-powers
+  motif_id: divine_succession_through_defeat_and_banishment_of_older_powers
+  label: divine succession through defeat and banishment of older powers
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on divine conflict that establishes a new sacred order
+    or rulership.
+  cautions: Could also involve royal_legitimacy or cosmic_origin if the passage emphasizes
+    sovereignty transfer or cosmogony more than combat.
+  suggested_aliases:
+  - divine_succession_by_defeating_older_powers
+  - banishment_of_older_divine_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-support-of-household-stability
+  motif_id: divine_support_of_household_stability
+  label: divine support of household stability
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine maintenance of household order fits sacred social obligations
+    and moral order.
+  cautions: If the evidence describes a guardian household spirit or direct intervention,
+    divine_intervention may be relevant; if it is merely ethical instruction, keep
+    as sacred_law.
+  suggested_aliases:
+  - divinely_supported_household_order
+  - sacred_household_stability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-supremacy-legitimated-through-creation-material
+  motif_id: divine_supremacy_legitimated_through_creation_material
+  label: divine supremacy legitimated through creation material
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supremacy grounded in creation substance belongs with creation and ordering
+    of the cosmos.
+  cautions: If the emphasis is political authorization rather than cosmogonic material,
+    royal_legitimacy or supreme_ruler may be secondary fits.
+  suggested_aliases:
+  - divine_authority_from_creation_material
+  - creation_material_legitimates_divine_supremacy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sustaining-of-a-mortal-army
+  motif_id: divine_sustaining_of_a_mortal_army
+  label: Divine sustaining of a mortal army
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine provision or strengthening of an army in war fits sacred combat
+    and divine battlefield aid.
+  cautions: If the passage stresses provisioning rather than battle outcome, divine_intervention
+    may be an appropriate parent or secondary mapping.
+  suggested_aliases:
+  - divine_support_of_mortal_army
+  - divine_sustenance_for_army
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sustenance-before-battle
+  motif_id: divine_sustenance_before_battle
+  label: divine sustenance before battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sustenance given before battle functions as divine aid to warriors or
+    combatants.
+  cautions: If the food or drink itself is ritually central, sacred_substance may
+    be a secondary grouping.
+  suggested_aliases:
+  - divine_provision_before_battle
+  - divine_nourishment_before_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sustenance-for-all-creatures
+  motif_id: divine_sustenance_for_all_creatures
+  label: divine sustenance for all creatures
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: broader_label
+  confidence: medium
+  rationale: Universal divine provision fits the existing divine_intervention aliases
+    for miraculous or created-nature provision.
+  cautions: This may be a theological attribute rather than a narrative motif; review
+    source evidence before broad pattern use.
+  suggested_aliases:
+  - divine_provision_for_all_creatures
+  - divine_sustenance_of_all_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sustenance-of-creatures
+  motif_id: divine_sustenance_of_creatures
+  label: divine sustenance of creatures
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: broader_label
+  confidence: medium
+  rationale: The label describes divine provision for living beings, already represented
+    by divine_intervention provision aliases.
+  cautions: May be doctrinal praise rather than a plot motif; check whether a concrete
+    act of provision is present.
+  suggested_aliases:
+  - divine_provision_for_creatures
+  - divine_sustenance_for_living_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-threshold-encounter
+  motif_id: divine_threshold_encounter
+  label: divine threshold encounter
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: broader_label
+  confidence: low
+  rationale: A sacred encounter at a threshold plausibly belongs with liminal boundary
+    passage and its guardians.
+  cautions: 'Ambiguous without evidence: could be theophany, temple iconography, gate
+    ritual, or a spatial artifact rather than a guardian motif.'
+  suggested_aliases:
+  - sacred_threshold_encounter
+  - encounter_at_divine_threshold
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-threshold-with-standing-figures
+  motif_id: divine_threshold_with_standing_figures
+  label: divine threshold with standing figures
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like an iconographic scene or descriptive artifact rather
+    than a clear narrative motif.
+  cautions: May fit threshold_guardian if the figures guard a passage, theophany if
+    they manifest divinity, or _meta_textual if it is only visual description.
+  suggested_aliases:
+  - standing_figures_at_divine_threshold
+  - divine_threshold_iconography
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and generated at a high abstraction
+  level; source evidence should decide whether they are motifs or theological/descriptive
+  summaries.
+- Do not infer transmission or shared origin from these normalization placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; threshold/iconographic items need human evidence
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0797
+  input_sha256: d76eb1f51cffb80ea6bd8320da9558c759ddcfcbe92d47a23597e660a3834e11
+

@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1688
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.senior-wives-with-authority-over-younger-co-wives
+  motif_id: senior_wives_with_authority_over_younger_co_wives
+  label: senior wives with authority over younger co-wives
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns household hierarchy and social order, but no existing
+    group specifically covers co-wife rank structures.
+  cautions: Single occurrence and culturally specific kinship detail; may be ethnographic
+    context rather than reusable motif.
+  suggested_aliases:
+  - ranked_co_wives
+  - senior_wife_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seniority-ordered-reception
+  motif_id: seniority_ordered_reception
+  label: Seniority-ordered reception
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Reception ordered by seniority is a ritualized social protocol expressing
+    sacred or monastic hierarchy.
+  cautions: If the passage is merely narrative staging without normative ritual force,
+    it may be too contextual for pattern queries.
+  suggested_aliases:
+  - ritual_reception_by_seniority
+  - seniority_ordered_protocol
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seniority-ordered-salutation
+  motif_id: seniority_ordered_salutation
+  label: seniority-ordered salutation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A salutation performed by rank or seniority fits ritual etiquette and
+    sacred social order.
+  cautions: Likely close to seniority_ordered_reception; preserve separately only
+    if salutation order has distinct ritual significance.
+  suggested_aliases:
+  - ritual_salutation_by_seniority
+  - seniority_ordered_greeting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separation-followed-by-city-founding
+  motif_id: separation_followed_by_city_founding
+  label: separation followed by city-founding
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A separation event leading to city founding is an etiological origin
+    pattern for social or civic order.
+  cautions: Could fit culture_hero or royal_legitimacy if the founder's role or authority
+    is central; label alone gives limited context.
+  suggested_aliases:
+  - city_founding_after_separation
+  - separation_as_civic_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.separation-of-wives-walking-on-foot-from-the-moving-group
+  motif_id: separation_of_wives_walking_on_foot_from_the_moving_group
+  label: separation of wives walking on foot from the moving group
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly specific episode detail about group movement
+    rather than a reusable motif.
+  cautions: If source context shows ritual segregation, exile, or marital-status hierarchy,
+    review under sacred_law or hero_journey instead.
+  suggested_aliases:
+  - wives_separated_from_moving_group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.serenade-with-love-statement
+  motif_id: serenade_with_love_statement
+  label: Serenade with love statement
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sung declaration of love belongs with love expression and courtship
+    motifs rather than power or hierarchy.
+  cautions: May also relate to enchanting_music if the song has supernatural or compelling
+    force; otherwise it may be ordinary courtship detail.
+  suggested_aliases:
+  - love_serenade
+  - sung_love_declaration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.serpent-ruler-as-donor-to-a-buddha
+  motif_id: serpent_ruler_as_donor_to_a_buddha
+  label: Serpent ruler as donor to a Buddha
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: role_variant
+  confidence: medium
+  rationale: The core action is a ruler or serpent-being acting as donor to a sacred
+    figure, a gift/merit exchange pattern.
+  cautions: Could also index serpent_guardian or royal_legitimacy if serpent kingship
+    or naga status is central; culturally specific Buddhist evidence should be checked.
+  suggested_aliases:
+  - naga_ruler_as_donor
+  - serpent_king_donation_to_buddha
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.serpentine-enclosure-of-a-besieged-city
+  motif_id: serpentine_enclosure_of_a_besieged_city
+  label: Serpentine enclosure of a besieged city
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: serpent_guardian
+  suggested_group_label: Serpent and Serpent Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: The serpent imagery may indicate protective enclosure, siege magic, or
+    hostile encirclement, but function is unclear.
+  cautions: Do not map to serpent_guardian unless the serpent functions as guardian
+    or boundary power; could instead be combat, apotropaic protection, or passage-specific
+    imagery.
+  suggested_aliases:
+  - serpent_enclosure_of_city
+  - serpentine_protection_or_siege_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.servant-son-loyalty-to-the-king
+  motif_id: servant_son_loyalty_to_the_king
+  label: Servant-son loyalty to the king
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Loyalty framed toward the king reinforces royal hierarchy and sacred
+    political order.
+  cautions: If the focus is filial duty or ethical obedience rather than kingship,
+    sacred_law may be a better parent mapping.
+  suggested_aliases:
+  - loyal_servant_son_to_king
+  - filial_service_to_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.service-hierarchy-between-animal-figures
+  motif_id: service_hierarchy_between_animal_figures
+  label: service hierarchy between animal figures
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label abstracts a hierarchy of service roles, but animal-figure context
+    could be fable, allegory, or mythic social order.
+  cautions: May be a passage-specific fable structure rather than a sacred social-order
+    motif; review source evidence before indexing.
+  suggested_aliases:
+  - animal_service_hierarchy
+  - ranked_service_between_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence social-protocol or household-hierarchy
+  details; human review should decide whether they are motifs or contextual ethnographic/narrative
+  notes.
+- The supplied review bucket is power/social order for all items, but some labels
+  fit love, sacred exchange, or cosmic/civic origin more closely.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_suggestion
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific kinship, Buddhist ritual
+    hierarchy, and serpent-city imagery need evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1688
+  input_sha256: 0026d789c1cf31d21a96b20bc0f30c134275d19e7d998068229eeffd383d9399
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3168
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.authoritative-correction-of-unjust-censure
+  motif_id: authoritative_correction_of_unjust_censure
+  label: authoritative correction of unjust censure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Correcting unjust blame is a moral-reckoning or vindication function,
+    especially if an authority restores right judgment.
+  cautions: Single Buddhist legal or monastic context may be a disciplinary-case artifact
+    rather than a reusable mythic motif.
+  suggested_aliases:
+  - correction_of_unjust_censure
+  - authoritative_vindication_after_censure
+  - unjust_censure_corrected_by_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-correction-through-rebuke-and-rule
+  motif_id: authoritative_correction_through_rebuke_and_rule
+  label: authoritative correction through rebuke and rule
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rebuke followed by a rule fits sacred or monastic law as social order
+    established through authoritative correction.
+  cautions: May be a formulaic Vinaya passage pattern rather than a motif; preserve
+    disciplinary context in evidence notes.
+  suggested_aliases:
+  - rebuke_followed_by_rule
+  - authoritative_rebuke_and_rule
+  - disciplinary_correction_by_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-enumeration-of-permitted-consumables
+  motif_id: authoritative_enumeration_of_permitted_consumables
+  label: Authoritative enumeration of permitted consumables
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A list of permitted foods or substances belongs with sacred law, purity,
+    and regulated practice.
+  cautions: Could be too administrative or source-specific unless it recurs as a ritual
+    food-law pattern.
+  suggested_aliases:
+  - permitted_consumables_enumerated_by_authority
+  - authorized_consumables
+  - dietary_permission_by_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-inscription-on-a-monumental-stele
+  motif_id: authoritative_inscription_on_a_monumental_stele
+  label: authoritative inscription on a monumental stele
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A monumental authoritative inscription often asserts royal, legal, or
+    sacred authority in durable public form.
+  cautions: If the label only notes the physical medium or editorial artifact, exclude
+    from motif queries; if law-code authority is central, sacred_law may be secondary.
+  suggested_aliases:
+  - monumental_authoritative_inscription
+  - royal_or_legal_stele_inscription
+  - authority_inscribed_on_stele
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-permission-for-communal-dwelling-materials
+  motif_id: authoritative_permission_for_communal_dwelling_materials
+  label: authoritative permission for communal dwelling materials
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a highly specific monastic infrastructure regulation
+    rather than a symbolic or narrative motif.
+  cautions: If passage evidence frames permitted materials as sacred construction
+    or ritual dwelling, review for sacred_craft or sacred_law instead.
+  suggested_aliases:
+  - permission_for_monastic_dwelling_materials
+  - authorized_communal_dwelling_materials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-recension-suppresses-variant-copies
+  motif_id: authoritative_recension_suppresses_variant_copies
+  label: Authoritative recension suppresses variant copies
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes textual transmission, recension, and suppression of variants,
+    not a mythic motif.
+  cautions: Preserve for provenance or textual-history indexing; do not use as evidence
+    for narrative pattern comparison.
+  suggested_aliases:
+  - canonical_recension_suppresses_variants
+  - authoritative_textual_recension
+  - suppression_of_variant_copies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-resolution-of-communal-practice-disputes
+  motif_id: authoritative_resolution_of_communal_practice_disputes
+  label: authoritative resolution of communal practice disputes
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Resolution of disputes over communal practice fits sacred law as normative
+    social order and discipline.
+  cautions: May be a procedural monastic-law label rather than a cross-source motif;
+    review for recurrence before promoting granularity.
+  suggested_aliases:
+  - communal_practice_dispute_resolved_by_authority
+  - authoritative_resolution_of_practice_dispute
+  - disciplinary_resolution_of_communal_dispute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-resolution-of-monastic-uncertainty
+  motif_id: authoritative_resolution_of_monastic_uncertainty
+  label: authoritative resolution of monastic uncertainty
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Authoritative clarification of monastic uncertainty functions as sacred-law
+    interpretation and discipline.
+  cautions: Broadly legal and contextual; if centered on teaching or insight rather
+    than rule, sacred_knowledge may be secondary.
+  suggested_aliases:
+  - monastic_uncertainty_resolved_by_authority
+  - authoritative_clarification_of_monastic_doubt
+  - disciplinary_clarification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-rules-attributed-to-a-founding-teacher
+  motif_id: authoritative_rules_attributed_to_a_founding_teacher
+  label: Authoritative rules attributed to a founding teacher
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: high
+  rationale: Rules grounded in a founding teacher's authority fit sacred law and the
+    legitimation of social or monastic order.
+  cautions: Could also relate to culture_hero if the founding-teacher role establishes
+    an entire way of life, but the rule function is primary.
+  suggested_aliases:
+  - founding_teacher_as_source_of_rules
+  - rules_authorized_by_founder
+  - founder_attributed_sacred_rules
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authoritative-solution-to-monastic-infrastructure-problems
+  motif_id: authoritative_solution_to_monastic_infrastructure_problems
+  label: authoritative solution to monastic infrastructure problems
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to be a practical monastic-administrative passage detail
+    rather than a symbolic motif.
+  cautions: If evidence emphasizes divinely or ritually authorized construction, human
+    review could remap to sacred_craft or sacred_law.
+  suggested_aliases:
+  - monastic_infrastructure_problem_solved_by_authority
+  - authorized_solution_to_monastic_infrastructure
+  - practical_monastic_regulation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most Buddhist items in this batch appear to be Vinaya-style regulatory or disciplinary
+  labels. Map to sacred_law only when the normative rule function is useful for queries;
+  otherwise preserve as passage evidence or exclude as administrative detail.
+- Avoid promoting the repeated word 'authoritative' into a motif by itself; the review
+  distinction should be between sacred-law function, royal/legal legitimation, textual-history
+  artifact, and practical infrastructure detail.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several single-occurrence administrative labels
+    need human confirmation against source passages.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3168
+  input_sha256: 519860ea2d43e7565db3f78638134cd0b94cdc18bfe008fea807e6ded058995a
+

@@ -1,0 +1,341 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4085
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.weather-and-celestial-iconography-on-deity-images
+  motif_id: weather_and_celestial_iconography_on_deity_images
+  label: Weather and celestial iconography on deity images
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes iconography on deity images rather than a clear narrative
+    or ritual function.
+  cautions: May be art-historical evidence for weather or celestial deity traits,
+    but with one occurrence it may be too descriptive for pattern queries.
+  suggested_aliases:
+  - weather_celestial_deity_iconography
+  - weather_symbols_on_deity_images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weather-assisted-expulsion-of-an-internal-threat
+  motif_id: weather_assisted_expulsion_of_an_internal_threat
+  label: weather-assisted expulsion of an internal threat
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Weather acts as an assisting sacred or supernatural force in removing
+    a threat.
+  cautions: If the evidence centers on a formal expulsion rite, sacrifice or sacred_law
+    may be relevant secondary mappings.
+  suggested_aliases:
+  - weather_aid_in_expelling_threat
+  - supernatural_weather_assists_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weather-being-reclassified-from-single-being-to-class-of-beings
+  motif_id: weather_being_reclassified_from_single_being_to_class_of_beings
+  label: Weather being reclassified from single being to class of beings
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes scholarly reclassification of a being type, not
+    a motif in a passage.
+  cautions: If source passages actually narrate multiple weather beings, preserve
+    that evidence under a weather-power or divine-intervention placement.
+  suggested_aliases:
+  - weather_being_classification_note
+  - reclassification_of_weather_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weather-beings-and-conflict-over-bad-weather
+  motif_id: weather_beings_and_conflict_over_bad_weather
+  label: Weather beings and conflict over bad weather
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Powers and Weather Control
+  relationship: child
+  confidence: medium
+  rationale: The motif centers on personified weather beings and conflict over weather,
+    which is more specific than generic divine intervention.
+  cautions: Human review should confirm whether this is narrative agency, ritual weather
+    control, or a local spirit taxonomy.
+  suggested_aliases:
+  - conflict_with_weather_beings
+  - weather_beings_cause_or_control_bad_weather
+  suggested_new_group:
+    id: weather_powers_weather_control
+    label: Weather Powers and Weather Control
+    description: Weather as an active sacred or supernatural force, being, or controllable
+      power, including storms, clouds, rain, wind, charms, weather-making, and conflicts
+      over harmful weather.
+    parent_group_ids:
+    - divine_intervention
+    - nature_elements_cosmos
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - prophecy_divination
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: Existing groups cover divine action, water,
+      fire, and celestial signs, but do not cleanly group recurring weather beings,
+      weather-making, storm control, and weather conflict without losing the specific
+      natural-force function.
+- suggestion_id: normalization.suggestion.weather-conceals-the-fugitive-s-trail
+  motif_id: weather_conceals_the_fugitive_s_trail
+  label: Weather conceals the fugitive's trail
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Weather functions as protective concealment or guidance for an endangered
+    figure.
+  cautions: If the passage lacks supernatural agency and merely notes ordinary weather,
+    this may be an over-specific plot detail.
+  suggested_aliases:
+  - protective_weather_concealment
+  - weather_hides_a_fugitive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weather-control-attributed-to-sorcery-or-charms
+  motif_id: weather_control_attributed_to_sorcery_or_charms
+  label: Weather control attributed to sorcery or charms
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Powers and Weather Control
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Weather-making by charms is a specialized weather-control motif not well
+    captured by generic sacred speech or divine intervention alone.
+  cautions: Review culturally sensitive wording around sorcery and charms; distinguish
+    ritual practice from external commentary or accusation.
+  suggested_aliases:
+  - weather_magic_by_charms
+  - sorcerous_weather_control
+  suggested_new_group:
+    id: weather_powers_weather_control
+    label: Weather Powers and Weather Control
+    description: Weather as an active sacred or supernatural force, being, or controllable
+      power, including storms, clouds, rain, wind, charms, weather-making, and conflicts
+      over harmful weather.
+    parent_group_ids:
+    - divine_intervention
+    - nature_elements_cosmos
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - prophecy_divination
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: Existing groups cover divine action, water,
+      fire, and celestial signs, but do not cleanly group recurring weather beings,
+      weather-making, storm control, and weather conflict without losing the specific
+      natural-force function.
+- suggestion_id: normalization.suggestion.weather-control-by-verbal-and-material-charms
+  motif_id: weather_control_by_verbal_and_material_charms
+  label: weather control by verbal and material charms
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Powers and Weather Control
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The combination of spoken and material charms to alter weather points
+    to ritual weather-making.
+  cautions: Could also be indexed secondarily under curse_blessing_speech if the verbal
+    charm is the main evidence.
+  suggested_aliases:
+  - weather_control_by_charms
+  - verbal_and_material_weather_magic
+  suggested_new_group:
+    id: weather_powers_weather_control
+    label: Weather Powers and Weather Control
+    description: Weather as an active sacred or supernatural force, being, or controllable
+      power, including storms, clouds, rain, wind, charms, weather-making, and conflicts
+      over harmful weather.
+    parent_group_ids:
+    - divine_intervention
+    - nature_elements_cosmos
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - prophecy_divination
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: Existing groups cover divine action, water,
+      fire, and celestial signs, but do not cleanly group recurring weather beings,
+      weather-making, storm control, and weather conflict without losing the specific
+      natural-force function.
+- suggestion_id: normalization.suggestion.weather-destroys-enemies
+  motif_id: weather_destroys_enemies
+  label: weather destroys enemies
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Destructive weather against enemies functions as punishment, retribution,
+    or sacred force in conflict.
+  cautions: If the focus is battle aid rather than moral reckoning, divine_warrior
+    or divine_intervention may be better secondary groups.
+  suggested_aliases:
+  - enemy_destroyed_by_weather
+  - destructive_weather_against_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weather-generated-by-concrete-bodily-and-material-actions
+  motif_id: weather_generated_by_concrete_bodily_and_material_actions
+  label: weather generated by concrete bodily and material actions
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Powers and Weather Control
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Bodily or material actions generating weather are a concrete weather-making
+    pattern.
+  cautions: Needs source review to distinguish mythic causation, ritual technology,
+    and ethnographic description.
+  suggested_aliases:
+  - weather_made_by_bodily_actions
+  - material_actions_generate_weather
+  suggested_new_group:
+    id: weather_powers_weather_control
+    label: Weather Powers and Weather Control
+    description: Weather as an active sacred or supernatural force, being, or controllable
+      power, including storms, clouds, rain, wind, charms, weather-making, and conflicts
+      over harmful weather.
+    parent_group_ids:
+    - divine_intervention
+    - nature_elements_cosmos
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - prophecy_divination
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: Existing groups cover divine action, water,
+      fire, and celestial signs, but do not cleanly group recurring weather beings,
+      weather-making, storm control, and weather conflict without losing the specific
+      natural-force function.
+- suggestion_id: normalization.suggestion.weather-governed-by-old-women-with-cloud-bags
+  motif_id: weather_governed_by_old_women_with_cloud_bags
+  label: Weather governed by old women with cloud-bags
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Weather Powers and Weather Control
+  relationship: role_variant
+  confidence: medium
+  rationale: The label personifies weather control through specialized beings and
+    cloud-containing objects.
+  cautions: Cloud-bags and old women may be culturally specific details; preserve
+    them as evidence rather than flattening to generic weather control.
+  suggested_aliases:
+  - weather_governors_with_cloud_bags
+  - cloud_bag_weather_controllers
+  suggested_new_group:
+    id: weather_powers_weather_control
+    label: Weather Powers and Weather Control
+    description: Weather as an active sacred or supernatural force, being, or controllable
+      power, including storms, clouds, rain, wind, charms, weather-making, and conflicts
+      over harmful weather.
+    parent_group_ids:
+    - divine_intervention
+    - nature_elements_cosmos
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - prophecy_divination
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: Existing groups cover divine action, water,
+      fire, and celestial signs, but do not cleanly group recurring weather beings,
+      weather-making, storm control, and weather conflict without losing the specific
+      natural-force function.
+batch_notes:
+- Several items point to a recurring weather-control/weather-being cluster; a provisional
+  group is suggested for review rather than forcing all cases into generic divine_intervention.
+- Do not infer transmission or shared origin from the proposed grouping; placements
+  are only query-normalization aids.
+- Single-occurrence labels involving local beings or ritual techniques should retain
+  source-specific evidence notes during human review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional weather cluster reviewed for normalization suggestions; human
+    review needed for culturally specific weather-being and charm terminology.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4085
+  input_sha256: 0a67006f70c553c4745a59a72057bb25e1467f10a0d8b5a875df997b57190592
+

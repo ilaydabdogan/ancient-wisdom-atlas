@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0246
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lineage-purity-and-naturalized-descent
+  motif_id: lineage_purity_and_naturalized_descent
+  label: lineage purity and naturalized descent
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns descent, kinship, or social legitimacy rather than
+    a clear death or ancestor-rite motif.
+  cautions: Could fit sacred_law, royal_legitimacy, ancestor origins, or be a contextual
+    legal/genealogical note; passage evidence is needed.
+  suggested_aliases:
+  - purity_of_lineage
+  - naturalized_descent
+  - genealogical_purity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.liturgical-care-of-the-holy-dead
+  motif_id: liturgical_care_of_the_holy_dead
+  label: Liturgical care of the holy dead
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual or liturgical care for revered dead aligns with rites and memorial
+    acts honoring dead heroic or holy figures.
+  cautions: If the passage emphasizes ongoing cultic feeding or ancestor appeasement,
+    ancestor_rites may be a better or secondary placement.
+  suggested_aliases:
+  - liturgical_care_for_holy_dead
+  - rites_for_the_holy_dead
+  - care_of_revered_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.liturgical-praise-of-holy-spiritual-beings
+  motif_id: liturgical_praise_of_holy_spiritual_beings
+  label: liturgical praise of holy spiritual beings
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Liturgical praise directed to holy beings is a ritual act maintaining
+    relation with sacred powers.
+  cautions: May instead belong under sacred_song, theophany, divine_intervention,
+    or sacred_law depending on whether praise, revelation, or ritual obligation is
+    central.
+  suggested_aliases:
+  - liturgical_praise_of_spiritual_beings
+  - ritual_praise_of_holy_beings
+  - praise_of_sacred_spiritual_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - mystical_quest
+    - sacred_knowledge
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-aid-the-dead-with-grave-fires
+  motif_id: living_aid_the_dead_with_grave_fires
+  label: Living aid the dead with grave fires
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: The living provide ritual assistance to the dead, matching ongoing care
+    for dead souls or ancestors.
+  cautions: The grave-fire detail should be preserved as local evidence; if fire guides
+    postmortem travel, afterlife_passage or sacred_fire may be secondary.
+  suggested_aliases:
+  - grave_fires_aid_the_dead
+  - ritual_fire_for_the_dead
+  - living_assist_dead_with_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-burial-and-delayed-rescue
+  motif_id: living_burial_and_delayed_rescue
+  label: Living burial and delayed rescue
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Burial while alive followed by rescue resembles a deathlike enclosure
+    and return to life or status.
+  cautions: Could be an ordeal, captivity episode, or passage-specific rescue motif;
+    use initiation if the burial transforms status or identity.
+  suggested_aliases:
+  - buried_alive_and_rescued
+  - living_burial_rescue
+  - deathlike_burial_and_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_vessel
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-dead-spiritual-attainment
+  motif_id: living_dead_spiritual_attainment
+  label: Living-dead spiritual attainment
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Living as dead likely expresses spiritual discipline, ego-death, or detachment
+    on a contemplative path.
+  cautions: Do not map to literal resurrection or afterlife without evidence; annihilation_union
+    may be a closer secondary concept if ego dissolution is explicit.
+  suggested_aliases:
+  - living_dead_as_spiritual_attainment
+  - spiritual_death_while_living
+  - dying_while_alive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - annihilation_union
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-divine-cosmos-without-death
+  motif_id: living_divine_cosmos_without_death
+  label: living divine cosmos without death
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds cosmological and philosophical, but its narrative function
+    is unclear from wording alone.
+  cautions: Could fit cosmic_origin, sacred_knowledge, immortality, or theological
+    commentary; may be too abstract for pattern queries without passage evidence.
+  suggested_aliases:
+  - deathless_living_cosmos
+  - divine_living_cosmos
+  - cosmos_without_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_knowledge
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-earth-protected-after-human-death
+  motif_id: living_earth_protected_after_human_death
+  label: Living earth protected after human death
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines death, earth-as-living being, and protection, but
+    the ritual or narrative function is not clear.
+  cautions: Could be sacred_law, ancestor_rites, divine_intervention, or a local ecological/mortuary
+    rule; culturally specific evidence should be reviewed.
+  suggested_aliases:
+  - protecting_the_living_earth_after_death
+  - earth_protection_after_human_death
+  - living_earth_mortuary_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - ancestor_rites
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-entombment-followed-by-death-of-the-betrothed-pair
+  motif_id: living_entombment_followed_by_death_of_the_betrothed_pair
+  label: Living entombment followed by death of the betrothed pair
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The paired death of betrothed lovers foregrounds love bound to death
+    and tragic union.
+  cautions: If the passage emphasizes punishment or burial ordeal over the couple
+    bond, divine_judgment or death_and_transformation may be better secondary mappings.
+  suggested_aliases:
+  - betrothed_pair_die_after_entombment
+  - lovers_entombed_alive_and_die
+  - living_entombment_of_betrothed_lovers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-heroes-shown-or-offered-their-own-tombs
+  motif_id: living_heroes_shown_or_offered_their_own_tombs
+  label: living heroes shown or offered their own tombs
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A living hero confronted with their own tomb functions as a forewarning
+    or material sign of destined death.
+  cautions: If the scene is an initiation test or memento mori rather than fate, initiation,
+    dream_and_vision, or lament_and_mourning may be more appropriate.
+  suggested_aliases:
+  - hero_shown_own_tomb
+  - living_hero_confronts_own_tomb
+  - own_tomb_as_death_portent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - initiation
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several labels are single-occurrence and depend
+  heavily on passage context.
+- Death-bucket placement appears noisy for some items that are primarily kinship,
+  liturgy, cosmology, or ecological/mortuary law rather than afterlife journey motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Suggested broad group placements where clear; flagged abstract or culturally
+    dependent labels for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0246
+  input_sha256: bcd008044a975c6b7f89180c17f5dbca56938a60a0a3c81ae7250864f5a66860
+

@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3787
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.posthumous-intoxicating-remains
+  motif_id: posthumous_intoxicating_remains
+  label: posthumous intoxicating remains
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label suggests bodily remains producing intoxication or sacred altered
+    state, which overlaps sacred substances and postmortem transformation.
+  cautions: Single occurrence and culturally specific Sufi context; verify whether
+    the remains are relics, metaphor, intoxicant imagery, or hagiographic miracle
+    before indexing.
+  suggested_aliases:
+  - intoxicating relics
+  - posthumous sacred intoxication
+  - saintly remains as intoxicating substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-oracular-head
+  motif_id: posthumous_oracular_head
+  label: Posthumous oracular head
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: An oracular severed head functions as a powerful relic or remains-object
+    that conveys supernatural knowledge after death.
+  cautions: Could also map to prophecy_divination if the divinatory role is primary,
+    or death_and_transformation if postmortem agency is emphasized.
+  suggested_aliases:
+  - oracular remains
+  - prophetic severed head
+  - posthumous speaking head
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-saintly-agency-over-shrine-architecture
+  motif_id: posthumous_saintly_agency_over_shrine_architecture
+  label: posthumous saintly agency over shrine architecture
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A dead saint directing shrine architecture implies posthumous sacred
+    agency intervening in human affairs.
+  cautions: May be an over-specific hagiographic or shrine-foundation detail; could
+    also fit sacred_craft, sacred_treasures, saintly shrine devotion, or restless
+    dead depending on evidence.
+  suggested_aliases:
+  - posthumous saintly guidance
+  - saint directs shrine construction after death
+  - saintly agency in shrine building
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-title-assigned-from-exemplary-deeds
+  motif_id: posthumous_title_assigned_from_exemplary_deeds
+  label: Posthumous title assigned from exemplary deeds
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Posthumous titles based on exemplary conduct support social rank, moral
+    memory, and legitimate honor within sacred-political order.
+  cautions: If this is merely an administrative naming practice rather than motific
+    narrative, consider excluding or retaining as historical context.
+  suggested_aliases:
+  - posthumous honorific title
+  - exemplary deeds recognized after death
+  - moral posthumous naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.postmortem-continuation-of-mortal-obsession
+  motif_id: postmortem_continuation_of_mortal_obsession
+  label: postmortem continuation of mortal obsession
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fixation persisting after death fits the active unresolved dead rather
+    than a completed afterlife passage.
+  cautions: If no haunting, return, or agency is present, it may be a literary characterization
+    or psychological theme rather than a reusable motif.
+  suggested_aliases:
+  - obsession persisting after death
+  - unresolved desire of the dead
+  - postmortem fixation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.postmortem-dismemberment-and-display-of-defeated-leader
+  motif_id: postmortem_dismemberment_and_display_of_defeated_leader
+  label: postmortem dismemberment and display of defeated leader
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label concerns treatment of a defeated enemy body after combat, overlapping
+    warfare, trophy display, and post-battle ritual violence.
+  cautions: Culturally sensitive and single occurrence; review source context carefully
+    before treating as motif. Could be historical violence, funerary denial, trophy
+    display, or passage-specific ethnographic detail.
+  suggested_aliases:
+  - display of defeated leader's body
+  - postmortem enemy dismemberment
+  - body display after defeat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.postmortem-nourishment-for-the-righteous
+  motif_id: postmortem_nourishment_for_the_righteous
+  label: postmortem nourishment for the righteous
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Nourishment given to the righteous after death belongs to mapped postmortem
+    experience and reward within the afterlife route.
+  cautions: Could also relate to divine_judgment if nourishment is explicitly reward
+    for moral evaluation, or sacred_substance if the food itself is ritually central.
+  suggested_aliases:
+  - afterlife food for the righteous
+  - postmortem sustenance
+  - righteous dead nourished
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.postmortem-saintly-admonition
+  motif_id: postmortem_saintly_admonition
+  label: Postmortem saintly admonition
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A saint admonishing after death functions as posthumous sacred guidance
+    or intervention in human affairs.
+  cautions: If the admonition appears in a dream or vision, dream_and_vision may be
+    the better primary group; if focused on shrine cult, sacred_treasures may be secondary.
+  suggested_aliases:
+  - posthumous saintly guidance
+  - dead saint admonishes the living
+  - saintly warning after death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.postmortem-washing-meal-rubbing-and-dressing
+  motif_id: postmortem_washing_meal_rubbing_and_dressing
+  label: postmortem washing, meal-rubbing, and dressing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Washing, feeding or meal-rubbing, and dressing the dead are mortuary
+    care practices maintaining relations with the deceased.
+  cautions: Culturally specific mortuary detail; verify whether meal-rubbing is food
+    offering, body preparation, purification, or ethnographic artifact before broad
+    indexing.
+  suggested_aliases:
+  - mortuary washing and dressing
+  - feeding and dressing the dead
+  - postmortem body care rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.postpartum-food-and-posture-regimen
+  motif_id: postpartum_food_and_posture_regimen
+  label: Postpartum food and posture regimen
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A postpartum regimen may be a ritual prohibition or purity rule governing
+    body, food, and social order after birth.
+  cautions: Single ethnographic label and culturally sensitive bodily practice; may
+    be too specific unless source frames it as ritual law or taboo. Could also belong
+    to birth/body motifs if such a group is added.
+  suggested_aliases:
+  - postpartum ritual regimen
+  - postbirth food taboo and posture rule
+  - postpartum bodily discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence, culturally specific mortuary, saintly, or
+  bodily-regimen items; human review should check whether they are narrative motifs,
+  ritual practices, or passage artifacts.
+- For posthumous saintly agency labels, distinguish dream/vision appearance, shrine
+  relic devotion, and direct divine intervention before final mapping.
+- Do not infer transmission or shared origin from these proposed placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages needed for final
+    placement.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3787
+  input_sha256: 7d4f05989c3e83fe4669c74152691d13edf1cd8404fb5cd1723783a9bd7c8c76
+

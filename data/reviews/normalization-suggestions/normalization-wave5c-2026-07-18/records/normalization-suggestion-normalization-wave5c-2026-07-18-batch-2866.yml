@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2866
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.warriors-waiting-impatiently-behind-shields
+  motif_id: warriors_waiting_impatiently_behind_shields
+  label: warriors waiting impatiently behind shields
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a scene detail of battle staging rather than a reusable
+    mythic pattern.
+  cautions: If source context shows a formal shield-wall ordeal, ritualized battle
+    delay, or precombat rite, reconsider under sacred_combat.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wars-among-invading-races-leading-to-final-dominance
+  motif_id: wars_among_invading_races_leading_to_final_dominance
+  label: Wars among invading races leading to final dominance
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_race
+  suggested_group_label: Divine Race and Arrival of the Gods
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns conflict among invading peoples or races and the eventual
+    dominance of one group, matching divine-race arrival and settlement traditions.
+  cautions: If the passage emphasizes ordinary warfare or conquest rather than semi-divine
+    invading peoples, sacred_combat or royal_legitimacy may be better.
+  suggested_aliases:
+  - invading_races_war_for_dominance
+  - successive_invading_peoples_establish_dominance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wars-producing-territorial-partition
+  motif_id: wars_producing_territorial_partition
+  label: Wars producing territorial partition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: War that results in division of territory concerns establishment of political
+    order and legitimate rule.
+  cautions: May be a historical or annalistic plot summary rather than a mythic motif;
+    use sacred_combat if the focus is battle itself rather than territorial order.
+  suggested_aliases:
+  - territorial_partition_after_war
+  - war_establishes_division_of_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.watcher-discovers-approaching-danger-and-warns-the-household
+  motif_id: watcher_discovers_approaching_danger_and_warns_the_household
+  label: watcher discovers approaching danger and warns the household
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a watchman-warning motif, but existing groups
+    do not clearly capture ordinary danger detection without sacred or prophetic function.
+  cautions: Could fit prophecy_divination if warning is omen-based, divine_intervention
+    if a supernatural watcher acts, or be excluded as a plot detail if merely practical
+    surveillance.
+  suggested_aliases:
+  - watchman_warns_of_approaching_danger
+  - sentinel_warns_household_of_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.watchful-cock-heralding-battle
+  motif_id: watchful_cock_heralding_battle
+  label: watchful cock heralding battle
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An animal heralding battle functions as an omen or portent of coming
+    conflict.
+  cautions: If the cock is part of eschatological cosmic battle imagery, secondary
+    indexing under divine_judgment or sacred_combat may be useful.
+  suggested_aliases:
+  - battle_heralded_by_watchful_cock
+  - cock_as_battle_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wave-as-trial-or-argumentative-danger
+  motif_id: wave_as_trial_or_argumentative_danger
+  label: wave as trial or argumentative danger
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is abstract and unclear; it may be metaphorical argument,
+    sea peril, or a literal trial by water.
+  cautions: Map to sacred_waters only if the wave functions as boundary, peril, purification,
+    or transformation; otherwise exclude as commentary or passage-specific metaphor.
+  suggested_aliases:
+  - wave_as_trial
+  - wave_as_dangerous_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weak-avenger-recruits-unlikely-allies-against-a-stronger-cunning-enemy
+  motif_id: weak_avenger_recruits_unlikely_allies_against_a_stronger_cunning_enemy
+  label: weak avenger recruits unlikely allies against a stronger cunning enemy
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes vengeance conflict against a stronger enemy, a combat
+    narrative pattern with alliance-building.
+  cautions: Could fit trickster if victory depends chiefly on deception or animal-fable
+    strategy; single occurrence and composite wording argue against promotion.
+  suggested_aliases:
+  - weak_avenger_recruits_unlikely_allies
+  - unlikely_allies_against_stronger_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wealth-transmitted-through-a-wound-fragment
+  motif_id: wealth_transmitted_through_a_wound_fragment
+  label: wealth transmitted through a wound fragment
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines injury, fragment, and wealth transfer in a culturally
+    specific way not safely covered by current broad groups.
+  cautions: Could involve sacred_substance, sacred_treasures, sacrifice, or body-power
+    transfer; review source evidence and cultural context before mapping.
+  suggested_aliases:
+  - wound_fragment_transmits_wealth
+  - wealth_power_transferred_by_wound_fragment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-accuracy-charm-using-ginger
+  motif_id: weapon_accuracy_charm_using_ginger
+  label: weapon-accuracy charm using ginger
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A charm for weapon accuracy is ritualized practical magic, closest to
+    sacred-law/apotropaic and taboo-regulated action in the current groups.
+  cautions: The ginger detail may be culturally specific evidence and should not be
+    generalized; if the object is a power-conferring weapon aid, sacred_treasures
+    may be a secondary fit.
+  suggested_aliases:
+  - weapon_accuracy_charm
+  - ritual_charm_for_weapon_accuracy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-as-constant-companion
+  motif_id: weapon_as_constant_companion
+  label: weapon as constant companion
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A named or ever-present weapon functioning as companion aligns with power
+    objects that confer identity, authority, or martial capacity.
+  cautions: If the label only notes ordinary warrior equipment, it may be too generic;
+    map to divine_warrior only when the weapon defines heroic combat role.
+  suggested_aliases:
+  - constant_weapon_companion
+  - weapon_as_identity_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several conflict labels are single-occurrence and scene-specific; preserve as evidence
+  notes unless recurrence or strong narrative function is confirmed.
+- Avoid treating all battle details as sacred_combat unless the passage shows ritual,
+  heroic, cosmic, or socially ordering function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific and ambiguous
+    labels marked for review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2866
+  input_sha256: 24cffd15206e33d657b1426a8db0d0cd4eb01950baaf8cb392ba8909ee78f401
+

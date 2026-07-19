@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0448
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.abundance-answered-by-worship-and-dance
+  motif_id: abundance_answered_by_worship_and_dance
+  label: abundance answered by worship and dance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Human ritual response to abundance fits reciprocal worship or offering
+    after sacred provision.
+  cautions: Single occurrence; may instead belong under sacred_time if tied to a seasonal
+    ceremony, or sacred_substance/divine_intervention if abundance source is central.
+  suggested_aliases:
+  - ritual_thanksgiving_for_abundance
+  - worship_and_dance_answering_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abundant-animal-harvest-at-a-water-crossing
+  motif_id: abundant_animal_harvest_at_a_water_crossing
+  label: abundant animal harvest at a water crossing
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines abundance, animals, hunting/harvest, and water-crossing; narrative
+    function cannot be inferred from the label alone.
+  cautions: Could be sacred_waters if the crossing is transformative, divine_intervention
+    if animals are miraculously provided, sacred_exchange if ritual reciprocity governs
+    harvest, or a contextual subsistence detail.
+  suggested_aliases:
+  - abundant_harvest_at_water_crossing
+  - animal_abundance_at_water_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-killing-followed-by-voluntary-exile
+  motif_id: accidental_killing_followed_by_voluntary_exile
+  label: Accidental killing followed by voluntary exile
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A killing initiates departure from ordinary home or civic order into
+    exile, a journey-trigger pattern.
+  cautions: If the emphasis is pollution, guilt, or legal expiation, sacred_law, divine_judgment,
+    or sacrifice may be better secondary mappings.
+  suggested_aliases:
+  - blood_guilt_exile
+  - voluntary_exile_after_accidental_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-or-mad-killing-followed-by-purification-quest
+  motif_id: accidental_or_mad_killing_followed_by_purification_quest
+  label: Accidental or mad killing followed by purification quest
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The purification quest after killing fits the purification, expiation,
+    and ritual repair complex already grouped under sacrifice.
+  cautions: May also be hero_journey if quest structure is primary, or sacred_law
+    if pollution rules dominate. Preserve madness/accident distinction in evidence
+    notes.
+  suggested_aliases:
+  - purification_quest_after_killing
+  - blood_pollution_purification_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accidental-threshold-crossing-and-false-sexual-accusation
+  motif_id: accidental_threshold_crossing_and_false_sexual_accusation
+  label: Accidental threshold crossing and false sexual accusation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: medium
+  rationale: False sexual accusation is already represented among divine_judgment
+    children as a moral-reckoning pattern.
+  cautions: The threshold-crossing element may be incidental or may require threshold/space
+    review; if no sacred judgment or vindication occurs, this may be too episode-specific
+    for pattern queries.
+  suggested_aliases:
+  - false_sexual_accusation_after_accidental_entry
+  - accidental_boundary_crossing_false_accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.accompanying-cloud-as-unusual-sign-on-a-holy-journey
+  motif_id: accompanying_cloud_as_unusual_sign_on_a_holy_journey
+  label: Accompanying cloud as unusual sign on a holy journey
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A cloud accompanying a holy journey functions as supernatural guidance
+    or confirmation of sacred favor.
+  cautions: If the cloud manifests divine presence directly, theophany may be a secondary
+    mapping; if paired with fire guidance, sacred_fire may also be relevant.
+  suggested_aliases:
+  - cloud_sign_on_holy_journey
+  - accompanying_cloud_as_divine_guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.acknowledged-ownership-of-personal-songs
+  motif_id: acknowledged_ownership_of_personal_songs
+  label: acknowledged ownership of personal songs
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Personal song ownership may involve sacred song, identity, ritual rights,
+    or ethnographic/social convention; source evidence is needed.
+  cautions: Culturally sensitive; avoid reducing Indigenous song ownership to generic
+    storytelling or music without evidence of sacred power, ritual transfer, or legal-social
+    function.
+  suggested_aliases:
+  - personal_song_ownership
+  - recognized_rights_to_personal_songs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-as-friendship-and-fosterage-alliance
+  motif_id: adoption_as_friendship_and_fosterage_alliance
+  label: adoption as friendship and fosterage alliance
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Adoption/fosterage forming alliance is a binding social relationship,
+    fitting sacred bond and covenantal order.
+  cautions: If the evidence is ordinary kinship practice rather than mythic or sacred
+    bond, it may be too social-contextual for motif queries.
+  suggested_aliases:
+  - fosterage_alliance
+  - adoption_as_social_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-by-taking-and-rearing-establishes-protected-sonship
+  motif_id: adoption_by_taking_and_rearing_establishes_protected_sonship
+  label: Adoption by taking and rearing establishes protected sonship
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: Taking and rearing a child as protected sonship overlaps with protected
+    or hidden child destiny patterns.
+  cautions: If the point is legal adoption or inheritance rather than threatened/protected
+    sacred childhood, covenant or royal_legitimacy may be more appropriate.
+  suggested_aliases:
+  - protected_adopted_sonship
+  - adoption_and_rearing_of_protected_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-into-another-people-after-boundary-crossing
+  motif_id: adoption_into_another_people_after_boundary_crossing
+  label: adoption into another people after boundary crossing
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Crossing a boundary and entering a new people changes social identity,
+    fitting journey as transformation of status.
+  cautions: Could map to covenant if adoption/alliance is primary, or initiation if
+    the boundary crossing functions as rite of passage. Review cultural context carefully.
+  suggested_aliases:
+  - boundary_crossing_leads_to_adoption
+  - adoption_after_crossing_into_another_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional and avoid transmission claims.
+- Several labels have single occurrences and may be evidence details rather than durable
+  motifs; human review should check passage function before indexing broadly.
+- Kinship/adoption and Indigenous song-ownership labels require culturally careful
+  review because existing groups may not capture local social or ritual meaning.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft placements for journey_quest_homecoming batch; several items need source-context
+    confirmation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0448
+  input_sha256: 8ddd4fde915d87402e93dcd40a4b745c0b434c8223153817fae68a89370e2756
+

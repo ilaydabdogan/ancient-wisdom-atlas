@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0976
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.protective-or-regulated-prayer-during-impurity
+  motif_id: protective_or_regulated_prayer_during_impurity
+  label: protective or regulated prayer during impurity
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes prayer regulated by impurity status, fitting ritual
+    prohibition and purity law under sacred_law.
+  cautions: Single occurrence; if the passage centers on prayer efficacy rather than
+    impurity regulation, curse_blessing_speech or sacred_exchange may be secondary.
+  suggested_aliases:
+  - regulated_prayer_during_impurity
+  - prayer_restricted_by_impurity
+  - protective_prayer_under_purity_rules
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-postpartum-taboos-linked-to-child-health
+  motif_id: protective_postpartum_taboos_linked_to_child_health
+  label: Protective postpartum taboos linked to child health
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Postpartum taboos protecting child health fit ritual prohibition, purity,
+    and apotropaic regulation already grouped under sacred_law.
+  cautions: Culturally specific birth and postpartum practices need source review;
+    could relate to miraculous_child only if the child has sacred destiny.
+  suggested_aliases:
+  - postpartum_protective_taboo
+  - birth_related_child_health_taboo
+  - protective_childbirth_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-prayer-to-an-animate-ritual-mask
+  motif_id: protective_prayer_to_an_animate_ritual_mask
+  label: Protective prayer to an animate ritual mask
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: An animate ritual mask may function as a sacred power object, but the
+    label also involves prayer, animation, and culturally specific ritual presence.
+  cautions: Requires careful source and cultural review; could fit sacred_craft if
+    animation of a ritual image is central, divine_intervention if the mask mediates
+    agency, or sacred_exchange if prayer-offering is central.
+  suggested_aliases:
+  - animated_ritual_mask_as_protective_power
+  - protective_prayer_to_ritual_mask
+  - animate_mask_receives_prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-purification-before-entering-strange-territory
+  motif_id: protective_purification_before_entering_strange_territory
+  label: protective purification before entering strange territory
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A purification rite before boundary-crossing fits apotropaic and purity
+    regulation under sacred_law.
+  cautions: If the narrative emphasizes threshold passage or initiation, threshold_guardian
+    or initiation may be relevant secondary groups.
+  suggested_aliases:
+  - purification_before_entering_foreign_territory
+  - protective_boundary_crossing_purification
+  - ritual_purification_before_strange_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-recitation-of-divine-names
+  motif_id: protective_recitation_of_divine_names
+  label: protective recitation of divine names
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Reciting divine names for protection is a performative sacred speech
+    act that binds or averts harm through utterance.
+  cautions: Could also index under sacred_knowledge if knowledge of names is the key
+    requirement, or afterlife_passage if used for postmortem navigation.
+  suggested_aliases:
+  - protective_divine_name_recitation
+  - recitation_of_sacred_names_for_protection
+  - apotropaic_recitation_of_divine_names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-relic-from-a-ritually-killed-animal
+  motif_id: protective_relic_from_a_ritually_killed_animal
+  label: Protective relic from a ritually killed animal
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A relic used protectively functions as a sacred power object, even when
+    its origin is ritual killing.
+  cautions: If the ritual killing or offering is central, sacrifice should be a secondary
+    mapping; preserve animal-relic specificity as evidence detail.
+  suggested_aliases:
+  - protective_animal_relic
+  - ritually_killed_animal_relic_as_protection
+  - animal_relic_protective_charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-ritual-handling-of-dangerous-food
+  motif_id: protective_ritual_handling_of_dangerous_food
+  label: Protective ritual handling of dangerous food
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual handling rules for dangerous food fit taboo, purity, and protective
+    regulation under sacred_law.
+  cautions: Could also relate to sacred_substance if the food itself is ritually potent,
+    or sacrifice if handling occurs in offering context.
+  suggested_aliases:
+  - ritual_handling_of_dangerous_food
+  - food_taboo_protective_handling
+  - protective_food_handling_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-royal-taboo-against-strangers-and-foreign-things
+  motif_id: protective_royal_taboo_against_strangers_and_foreign_things
+  label: Protective royal taboo against strangers and foreign things
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo protecting the ruler from strangers or foreign objects concerns
+    sacral kingship and regulated royal purity.
+  cautions: Could also fit sacred_law if the emphasis is general taboo law rather
+    than kingship; comparative label may be over-broad and needs source review.
+  suggested_aliases:
+  - royal_taboo_against_foreign_contact
+  - protective_taboo_around_sacred_king
+  - royal_purity_taboo_against_strangers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-sacred-object-deflects-a-lethal-projectile
+  motif_id: protective_sacred_object_deflects_a_lethal_projectile
+  label: Protective sacred object deflects a lethal projectile
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A sacred object that protects by deflecting a projectile clearly functions
+    as a protective power object.
+  cautions: If divine agency rather than the object is emphasized, divine_intervention
+    may be a secondary mapping.
+  suggested_aliases:
+  - sacred_object_deflects_projectile
+  - protective_charm_deflects_weapon
+  - holy_object_turns_aside_lethal_missile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-sacred-object-saves-the-community
+  motif_id: protective_sacred_object_saves_the_community
+  label: Protective sacred object saves the community
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A sacred object that preserves or protects a community belongs under
+    sacred power objects and treasures.
+  cautions: If the object is housed as a communal center, world_center or portable_sanctuary
+    may also be relevant; review culturally specific object roles carefully.
+  suggested_aliases:
+  - community_saving_sacred_object
+  - protective_communal_sacred_object
+  - sacred_object_protects_the_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch concern protective taboos, purity rules, sacred objects,
+  or performative prayer; sacred_law and sacred_treasures are the main best-fit existing
+  groups.
+- Several items are single-occurrence and culturally specific; preserve local evidence
+  rather than promoting granular protective-rite labels into canonical taxonomy without
+  recurrence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally sensitive ritual-mask and postpartum/royal taboo items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0976
+  input_sha256: b3032c895cad9998048d8a6ab2ad837137105b52e6310dd4c81dbde94b8a5407
+

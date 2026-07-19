@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3993
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.successive-communal-egg-laying-by-multiple-females
+  motif_id: successive_communal_egg_laying_by_multiple_females
+  label: successive communal egg-laying by multiple females
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Egg-laying may indicate origin, reproduction, animal transformation,
+    or a local etiological episode, but the label alone does not show cosmic-egg creation
+    or sacred birth function.
+  cautions: Single occurrence; avoid mapping to cosmic_egg or sacred_birth without
+    source evidence that the eggs generate a world, ancestor, or sacred child.
+  suggested_aliases:
+  - communal_egg_laying
+  - successive_egg_laying_by_multiple_females
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-custody-and-veneration-of-relics
+  motif_id: successive_custody_and_veneration_of_relics
+  label: successive custody and veneration of relics
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Relics are already included under sacred_treasures, and custody plus
+    veneration concerns ritual handling of powerful sacred objects.
+  cautions: If the passage focuses on shrine practice or pilgrimage rather than object
+    power, preserve links to saintly_shrine_relic_devotion or heroic_funeral_rites
+    as evidence details.
+  suggested_aliases:
+  - relic_custody_and_veneration
+  - veneration_of_relics
+  - successive_relic_custody
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-declining-ages-of-humanity
+  motif_id: successive_declining_ages_of_humanity
+  label: Successive declining ages of humanity
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: alias
+  confidence: high
+  rationale: This is a direct wording variant of declining ages of humankind and successive
+    world-age decline.
+  cautions: Preserve any metallic-age or moral-decline specifics in evidence notes
+    rather than creating another canonical motif.
+  suggested_aliases:
+  - declining_ages_of_humanity
+  - successive_world_ages_decline
+  - successive_declining_ages_of_humankind
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-failed-and-final-killing-methods
+  motif_id: successive_failed_and_final_killing_methods
+  label: Successive failed and final killing methods
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a narrative sequence of attempted methods, but it
+    is unclear whether the key motif is invulnerability, monster defeat, ordeal, or
+    ordinary plot structure.
+  cautions: Map to conditional_invulnerability_hidden_weakness only if failures reveal
+    protected status, special conditions, or a hidden weakness; otherwise it may be
+    too generic.
+  suggested_aliases:
+  - failed_killing_methods_before_success
+  - successive_attempts_to_kill
+  - final_successful_killing_method
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-hunters-trapped-by-a-witch-at-a-buffalo-kill
+  motif_id: successive_hunters_trapped_by_a_witch_at_a_buffalo_kill
+  label: Successive hunters trapped by a witch at a buffalo kill
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a highly specific episode combining hunting, a witch, entrapment,
+    and buffalo-kill setting; no existing group clearly captures its function from
+    label alone.
+  cautions: Could fit trickster/deception, threshold_guardian, perilous lure, or conflict
+    depending on the passage; review culturally specific witch terminology carefully.
+  suggested_aliases:
+  - hunters_trapped_by_witch
+  - successive_hunters_ensnared_at_buffalo_kill
+  - witch_trap_at_buffalo_kill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-immigrations-or-invasions-as-national-prehistory
+  motif_id: successive_immigrations_or_invasions_as_national_prehistory
+  label: Successive immigrations or invasions as national prehistory
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already includes ancestral and people-origin labels; successive
+    migrations or invasions function as an origin account for a people or polity.
+  cautions: This is social or national origin rather than cosmos creation; if the
+    label is historiographic commentary rather than mythic prehistory, exclude or
+    park as contextual evidence.
+  suggested_aliases:
+  - successive_settlements_as_national_origin
+  - migration_layers_as_people_origin
+  - invasion_sequence_as_prehistory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-incorporation-of-migrating-gentes
+  motif_id: successive_incorporation_of_migrating_gentes
+  label: successive incorporation of migrating gentes
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe people-origin incorporation, clan history, or
+    ethnographic social structure rather than a reusable mythic motif.
+  cautions: Culturally specific clan/gens terminology needs source review; map to
+    cosmic_origin only if it functions as an origin narrative for peoples or social
+    order.
+  suggested_aliases:
+  - incorporation_of_migrating_groups
+  - successive_clan_incorporation
+  - migrating_gentes_joining_a_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-landscape-zones-from-coast-to-interior
+  motif_id: successive_landscape_zones_from_coast_to_interior
+  label: successive landscape zones from coast to interior
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like geographic or ethnographic organization of a passage
+    rather than a symbolic or narrative motif.
+  cautions: If the source frames movement across zones as a sacred journey, migration,
+    or cosmological map, human review could remap to hero_journey, cosmic_origin,
+    or axis_mundi.
+  suggested_aliases:
+  - coast_to_interior_landscape_sequence
+  - successive_landscape_zones
+  - geographic_zone_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-replacement-of-legendary-sagas
+  motif_id: successive_replacement_of_legendary_sagas
+  label: Successive replacement of legendary sagas
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes literary or tradition-history replacement of narrative
+    corpora, not an in-world motif.
+  cautions: Preserve for transmission or reception notes if needed, but exclude from
+    motif pattern queries.
+  suggested_aliases:
+  - replacement_of_legendary_sagas
+  - successive_saga_replacement
+  - legendary_tradition_replacement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-scouts-before-a-successful-discovery
+  motif_id: successive_scouts_before_a_successful_discovery
+  label: successive scouts before a successful discovery
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Successive scouts may be a quest, migration, emergence, or origin-discovery
+    sequence, but the label alone does not indicate sacred journey or transformation.
+  cautions: Map to hero_journey only if the scouting sequence has departure-trial-discovery
+    function; map to cosmic_origin if it founds a people or place.
+  suggested_aliases:
+  - scouts_before_successful_discovery
+  - successive_scouting_attempts
+  - failed_scouts_before_discovery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use 'successive' to mark a sequence; sequence alone
+  is not enough for motif placement without narrative function.
+- People-origin and migration labels may fit cosmic_origin only in its broader ethnogonic/ancestral-origin
+  sense, not as literal cosmogenesis.
+- Single-occurrence, culturally specific labels should retain local evidence notes
+  and receive human review before promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3993
+  input_sha256: 95c924308ff6d24b1bcd08dc6db98f5169f0bd0ca1496db74e16f2a8f2803d17
+

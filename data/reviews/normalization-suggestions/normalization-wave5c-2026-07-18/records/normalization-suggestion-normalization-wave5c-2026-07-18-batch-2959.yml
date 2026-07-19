@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2959
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.incompatible-companions-or-occupations
+  motif_id: incompatible_companions_or_occupations
+  label: incompatible companions or occupations
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too abstract to distinguish social mismatch, comic incompatibility,
+    occupational taboo, or narrative classification.
+  cautions: Single occurrence; may be a passage-specific or analytical label rather
+    than a motif. Needs source evidence before mapping to sacred_law, trickster, or
+    social-order themes.
+  suggested_aliases:
+  - incompatible_companions
+  - occupational_incompatibility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.incomplete-time-marker-for-lying-in-wait
+  motif_id: incomplete_time_marker_for_lying_in_wait
+  label: incomplete time-marker for lying in wait
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes an incomplete time marker in narration rather than
+    a symbolic or narrative motif.
+  cautions: If source evidence instead concerns ambush or waiting at a threshold,
+    preserve that separately under combat or trickster-related motifs.
+  suggested_aliases:
+  - incomplete_time_marker
+  - fragmentary_time_marker_for_ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.incorporation-of-a-worker-into-a-household
+  motif_id: incorporation_of_a_worker_into_a_household
+  label: incorporation of a worker into a household
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could describe hospitality, labor obligation, fosterage, household hierarchy,
+    or a narrative setup rather than a durable motif.
+  cautions: Single occurrence; avoid mapping to sacred_exchange unless incorporation
+    involves reciprocal obligation or guest/host duty.
+  suggested_aliases:
+  - worker_incorporated_into_household
+  - servant_joining_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.individualized-clan-marked-mask-followed-by-burning
+  motif_id: individualized_clan_marked_mask_followed_by_burning
+  label: individualized clan-marked mask followed by burning
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests a culturally specific ritual object and destruction
+    sequence, but its function is unclear from wording alone.
+  cautions: Culturally sensitive and single occurrence. Could involve ancestor rites,
+    initiation, sacrifice, sacred law, or mask ritual; needs human review of source
+    context.
+  suggested_aliases:
+  - clan_marked_mask_burned_after_use
+  - ritual_burning_of_clan_mask
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.induced-menses-during-pregnancy-prohibited-as-sin
+  motif_id: induced_menses_during_pregnancy_prohibited_as_sin
+  label: Induced menses during pregnancy prohibited as sin
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A bodily or reproductive prohibition framed as sin fits sacred law, purity,
+    and ritual-ethical regulation.
+  cautions: Sensitive reproductive and purity-law material; preserve the specific
+    evidence and avoid broad moralizing beyond the source.
+  suggested_aliases:
+  - pregnancy_menses_prohibition
+  - reproductive_purity_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inexhaustible-and-transformed-food-in-a-nonhuman-household
+  motif_id: inexhaustible_and_transformed_food_in_a_nonhuman_household
+  label: inexhaustible and transformed food in a nonhuman household
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already includes inexhaustible provision; miraculous food in
+    a nonhuman household fits supernatural provision.
+  cautions: If the nonhuman household is an enchanted realm, secondary review under
+    otherworld may be appropriate; preserve food transformation detail.
+  suggested_aliases:
+  - inexhaustible_transformed_food
+  - miraculous_food_in_nonhuman_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inexhaustible-food-in-helper-s-house
+  motif_id: inexhaustible_food_in_helper_s_house
+  label: inexhaustible food in helper's house
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Inexhaustible food provided by a helper matches the existing divine_intervention
+    children and aliases for inexhaustible provision.
+  cautions: If the helper-house episode is mainly a hospitality test or otherworld
+    sojourn, add secondary review rather than replacing the provision mapping.
+  suggested_aliases:
+  - inexhaustible_food_supply_in_helper_house
+  - helper_provides_inexhaustible_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inexhaustible-food-vessel
+  motif_id: inexhaustible_food_vessel
+  label: inexhaustible food vessel
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: high
+  rationale: A vessel that produces or contains endless food fits the sacred container
+    pattern, with overlap with miraculous provision.
+  cautions: Secondary relation to divine_intervention or sacred_substance may apply
+    if emphasis is divine provision or sacred food rather than the vessel.
+  suggested_aliases:
+  - inexhaustible_food_container
+  - abundance_vessel
+  - self_replenishing_food_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inexhaustible-string-from-a-small-container
+  motif_id: inexhaustible_string_from_a_small_container
+  label: inexhaustible string from a small container
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: An unlikely small container producing endless material aligns with the
+    sacred_craft alias for forging or producing wondrous objects from unlikely materials.
+  cautions: Could alternatively fit sacred_vessel if the container is the focus, or
+    divine_intervention if miraculous provision is central. The string detail may
+    be over-specific.
+  suggested_aliases:
+  - inexhaustible_material_from_small_container
+  - endless_string_from_container
+  - small_container_yields_endless_material
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inexhaustible-treasure-through-productive-household-resources
+  motif_id: inexhaustible_treasure_through_productive_household_resources
+  label: Inexhaustible treasure through productive household resources
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing group includes inexhaustible material supply and miraculous
+    provision, matching endless household-generated treasure.
+  cautions: If the emphasis is a magical object, productive animal, or household economy
+    rather than sacred agency, consider sacred_treasures, sacred_exchange, or a granular
+    evidence note.
+  suggested_aliases:
+  - inexhaustible_household_treasure
+  - productive_household_resources_create_treasure
+  - miraculous_household_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and object/household-specific;
+  preserve granular wording as evidence even when mapping to broader provision, vessel,
+  or sacred-law groups.
+- 'For inexhaustible food/material labels, distinguish the narrative focus: divine
+  provision, sacred vessel/container, sacred substance, or otherworld hospitality.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific ritual and
+    reproductive-law labels need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2959
+  input_sha256: ab7e6544a7b7e3e8d38189e68f3ea50bf897dbc6ecbeb1d2324ac5d22e51ad64
+

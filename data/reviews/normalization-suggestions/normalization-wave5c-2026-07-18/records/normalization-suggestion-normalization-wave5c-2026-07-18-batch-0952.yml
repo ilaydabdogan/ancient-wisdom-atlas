@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0952
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.physical-impurity-disqualifies-ritual-offerings
+  motif_id: physical_impurity_disqualifies_ritual_offerings
+  label: Physical impurity disqualifies ritual offerings
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual impurity regulating acceptable offerings fits sacred law, purity
+    codes, and ritual prohibition.
+  cautions: Could also support sacrifice if the offering process is central; preserve
+    the impurity-disqualification detail.
+  suggested_aliases:
+  - ritual_impurity_disqualifies_offerings
+  - purity_requirement_for_ritual_offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.physical-purification-through-repeated-ritual-actions
+  motif_id: physical_purification_through_repeated_ritual_actions
+  label: physical purification through repeated ritual actions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Repeated ritual purification is a purity-law or ritual-regulation pattern
+    already handled under sacred_law variants.
+  cautions: If part of a calendrical communal cleansing or expulsion rite, sacrifice
+    or sacred_time may be relevant secondary mappings.
+  suggested_aliases:
+  - repeated_ritual_purification
+  - ritual_purification_by_repeated_actions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.physical-purification-with-cedar-bark-and-expectoration
+  motif_id: physical_purification_with_cedar_bark_and_expectoration
+  label: physical purification with cedar bark and expectoration
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core pattern is ritual purification; cedar bark and expectoration
+    are local ritual details.
+  cautions: Culturally specific materials and actions should be preserved as evidence
+    notes, not promoted unless they recur.
+  suggested_aliases:
+  - ritual_purification_with_plant_material_and_expectoration
+  - physical_purification_with_cedar_bark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pious-ritual-entry-before-petition
+  motif_id: pious_ritual_entry_before_petition
+  label: pious ritual entry before petition
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritualized approach before making a petition frames proper exchange
+    or request between human and sacred power.
+  cautions: If the emphasis is spatial threshold or sanctuary access, axis_mundi or
+    sacred_law may be secondary; source context needed.
+  suggested_aliases:
+  - ritual_entry_before_petition
+  - proper_ritual_approach_before_request
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pious-service-as-divine-protection
+  motif_id: pious_service_as_divine_protection
+  label: Pious service as divine protection
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine protection granted in response to pious service fits sacred powers
+    acting protectively in human affairs.
+  cautions: May also involve sacred_exchange if reciprocity is explicit, or sacred_law
+    if framed as obedience to duty.
+  suggested_aliases:
+  - divine_protection_through_pious_service
+  - piety_as_protective_divine_favor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-bound-sacred-or-communal-objects
+  motif_id: place_bound_sacred_or_communal_objects
+  label: place-bound sacred or communal objects
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: uncertain
+  confidence: low
+  rationale: Sacred or communal objects could fit power objects, relics, or place-based
+    cult objects, but the function is unclear.
+  cautions: May be an ethnographic inventory detail rather than a motif; review whether
+    objects confer authority, protection, memory, or ritual presence.
+  suggested_aliases:
+  - place_bound_sacred_objects
+  - communal_sacred_objects_fixed_to_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-explained-by-divine-act
+  motif_id: place_name_explained_by_divine_act
+  label: Place-name explained by divine act
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The taxonomy already places etiological place naming under cosmic_origin;
+    here the cause is a divine act rather than violent event.
+  cautions: If the divine act is primarily judgment or miracle, add secondary review
+    to divine_judgment or divine_intervention.
+  suggested_aliases:
+  - place_name_etiology_from_divine_act
+  - divine_act_explains_place_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.placement-of-divine-image-on-directional-ritual-painting
+  motif_id: placement_of_divine_image_on_directional_ritual_painting
+  label: Placement of divine image on directional ritual painting
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a specific ritual placement rule, likely a ritual-order
+    detail rather than a broad motif.
+  cautions: Culturally specific ceremonial iconography and directions need human review;
+    could relate to sacred center, ritual painting, or divine manifestation depending
+    on evidence.
+  suggested_aliases:
+  - directional_placement_of_divine_image
+  - ritual_painting_divine_image_placement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.placement-of-divine-images-at-their-shrines-after-ceremony
+  motif_id: placement_of_divine_images_at_their_shrines_after_ceremony
+  label: placement of divine images at their shrines after ceremony
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Returning divine images to shrines appears to be ritual regulation of
+    sacred objects and space.
+  cautions: May be a ceremony-specific procedural detail; consider sacred_treasures
+    if images are treated as power objects or axis_mundi if shrine placement centers
+    sacred space.
+  suggested_aliases:
+  - ritual_return_of_divine_images_to_shrines
+  - post_ceremony_shrine_placement_of_divine_images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.placenta-placed-in-water-with-fertility-prayer
+  motif_id: placenta_placed_in_water_with_fertility_prayer
+  label: Placenta placed in water with fertility prayer
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: A bodily substance placed in water with prayer suggests a fertility rite
+    and petitionary sacred exchange.
+  cautions: Culturally sensitive birth-related ritual; could also map to sacred_waters,
+    sacred_birth, or sacred_substance depending on passage evidence.
+  suggested_aliases:
+  - fertility_prayer_with_placenta_in_water
+  - birth_rite_placing_placenta_in_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Native American Southwest items are highly ceremony-specific; preserve local
+  ritual details and require human review before broad query inclusion.
+- Purification labels are provisionally grouped under sacred_law because existing
+  normalization already folds purity, taboo, and ritual protection variants there.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific ritual items
+    and single-occurrence labels need human validation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0952
+  input_sha256: 4734cc659b04a2dbcc32c9ca4744174d77e2cbe1c4bef4fa194fa21289334be8
+

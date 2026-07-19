@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0904
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.localized-divine-images-in-named-chambers
+  motif_id: localized_divine_images_in_named_chambers
+  label: localized divine images in named chambers
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: uncertain
+  confidence: low
+  rationale: Divine images in ritual chambers may indicate localized manifestation
+    or cult presence, but the label is mostly spatial and object-specific.
+  cautions: Could be temple iconography, passage cataloging, or named-place artifact
+    rather than a recurring motif; verify whether divine presence is narratively active.
+  suggested_aliases:
+  - localized cult images
+  - divine images in sacred chambers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.localized-groups-of-deities-dwelling-at-named-sacred-places
+  motif_id: localized_groups_of_deities_dwelling_at_named_sacred_places
+  label: Localized groups of deities dwelling at named sacred places
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: Named sacred places inhabited by deities may belong with sacred geography
+    and world-center/place sacrality.
+  cautions: Culturally sensitive and highly localized; may be a sacred geography detail
+    rather than a general motif. Avoid flattening specific Navajo place traditions.
+  suggested_aliases:
+  - deities dwelling at sacred places
+  - localized divine dwelling places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.localized-national-body-around-an-inherited-or-foreign-epic-skeleton
+  motif_id: localized_national_body_around_an_inherited_or_foreign_epic_skeleton
+  label: Localized national body around an inherited or foreign epic skeleton
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes literary adaptation or scholarly transmission structure,
+    not a narrative or symbolic motif.
+  cautions: Preserve as reception or textual-history metadata if useful; do not use
+    as motif evidence or transmission claim here.
+  suggested_aliases:
+  - localized epic adaptation
+  - nationalized inherited epic framework
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lofty-sacred-figure-stoops-toward-creatures
+  motif_id: lofty_sacred_figure_stoops_toward_creatures
+  label: Lofty sacred figure stoops toward creatures
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A high sacred being bending toward creatures suggests divine condescension
+    or direct beneficent engagement in creaturely affairs.
+  cautions: If this is purely iconographic posture or theological commentary rather
+    than action, human review may downgrade to meta/contextual evidence.
+  suggested_aliases:
+  - divine condescension toward creatures
+  - sacred figure bends toward beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.longevity-object-carried-with-offerings
+  motif_id: longevity_object_carried_with_offerings
+  label: Longevity object carried with offerings
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: A carried object associated with longevity and offerings may be a ritual
+    power object within sacred exchange.
+  cautions: Highly specific and culturally contextual; could fit sacred_treasures,
+    sacred_exchange, healing/protection, or be an ethnographic object note.
+  suggested_aliases:
+  - longevity offering object
+  - ritual object for long life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-after-leaving-required-ritual-garment-behind
+  motif_id: loss_after_leaving_required_ritual_garment_behind
+  label: Loss after leaving required ritual garment behind
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Consequences following failure to keep a required ritual garment fit
+    ritual rule, purity, or disciplinary sacred law.
+  cautions: May be too episode-specific; confirm whether the garment requirement is
+    a recurring ritual obligation rather than a plot detail.
+  suggested_aliases:
+  - loss after ritual garment omission
+  - required ritual garment left behind
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-divine-light-or-power-under-hostile-attack
+  motif_id: loss_of_divine_light_or_power_under_hostile_attack
+  label: loss of divine light or power under hostile attack
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Divine light or power under assault belongs broadly with sacred light
+    and cosmic conflict imagery.
+  cautions: In Gnostic context this may involve specialized cosmology, fall, captivity
+    of light, or dualistic conflict; do not collapse into ordinary combat without
+    evidence.
+  suggested_aliases:
+  - divine light diminished by attack
+  - sacred power lost under assault
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-office-after-ritual-or-service-mishap
+  motif_id: loss_of_office_after_ritual_or_service_mishap
+  label: Loss of office after ritual or service mishap
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Removal from office after ritual failure reflects sacred institutional
+    rules and consequences for improper service.
+  cautions: Could also be royal_legitimacy if the office is kingship, or divine_judgment
+    if punishment by deity is explicit.
+  suggested_aliases:
+  - ritual mishap causes loss of office
+  - disqualification from sacred office after service error
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-ritual-agency-through-disqualifying-status-or-offence
+  motif_id: loss_of_ritual_agency_through_disqualifying_status_or_offence
+  label: loss of ritual agency through disqualifying status or offence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritual disqualification through status or offense clearly fits sacred
+    law, purity, and regulated ritual agency.
+  cautions: Preserve local monastic or ritual rule details; avoid general moral judgment
+    unless punishment or reckoning is explicit.
+  suggested_aliases:
+  - ritual disqualification
+  - loss of ritual eligibility
+  - disqualifying ritual offence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-of-sacred-or-symbolic-speech-meanings
+  motif_id: loss_of_sacred_or_symbolic_speech_meanings
+  label: Loss of sacred or symbolic speech meanings
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: Loss of meanings in sacred speech concerns transmission or concealment
+    of sacred knowledge and language.
+  cautions: Could be a textual/ethnographic commentary artifact rather than a motif;
+    culturally sensitive language traditions require source-aware review.
+  suggested_aliases:
+  - lost meanings of sacred speech
+  - loss of symbolic language knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; most should
+  remain provisional until passage evidence confirms a recurring narrative or ritual
+  function.
+- Avoid treating localized sacred-place or language details as broad cross-cultural
+  motifs without culturally specific review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended especially
+    for Navajo, Native American Southwest, Gnostic, and Buddhist ritual-context labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0904
+  input_sha256: df52656fd8ede7e58b9e932da47862a56f5bc0cf0cfe68e41408de15ad0a135b
+

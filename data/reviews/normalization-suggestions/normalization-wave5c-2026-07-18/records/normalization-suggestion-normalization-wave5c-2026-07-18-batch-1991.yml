@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1991
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.service-to-the-husband-s-household
+  motif_id: service_to_the_husband_s_household
+  label: Service to the husband's household
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: low
+  rationale: The label suggests household duty or marital social obligation, which
+    may fit sacred/social order if normatively framed.
+  cautions: Single occurrence; may be a contextual domestic detail rather than a reusable
+    motif. Source evidence needed to distinguish duty, marriage custom, or gendered
+    labor note.
+  suggested_aliases:
+  - marital_household_service
+  - bride_service_to_husband_s_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sex-selective-saving-of-sons-and-killing-of-daughters
+  motif_id: sex_selective_saving_of_sons_and_killing_of_daughters
+  label: Sex-selective saving of sons and killing of daughters
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve moral condemnation or social judgment around gendered
+    infanticide, but the narrative function is unclear.
+  cautions: Culturally and ethically sensitive; do not index without source context.
+    Could be legal/ethical teaching, polemic, historical practice reference, or passage-specific
+    commentary.
+  suggested_aliases:
+  - gendered_infanticide
+  - saving_sons_and_killing_daughters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sexual-connection-as-a-strong-trigger-toward-marriage
+  motif_id: sexual_connection_as_a_strong_trigger_toward_marriage
+  label: sexual connection as a strong trigger toward marriage
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns sexual union prompting or obligating marriage, fitting
+    love/marriage-choice patterns already grouped under sacred_love.
+  cautions: If the passage emphasizes law, kinship obligation, or compensation rather
+    than affection or union, sacred_law or covenant may be better secondary mappings.
+  suggested_aliases:
+  - sexual_union_leads_to_marriage
+  - sexual_connection_obligates_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shaman-announces-retrieval-of-a-drowned-person
+  motif_id: shaman_announces_retrieval_of_a_drowned_person
+  label: Shaman announces retrieval of a drowned person
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: low
+  rationale: Retrieval by a shaman may indicate recovery of a lost person, soul, or
+    life-force, aligning with soul restoration.
+  cautions: The label says drowned person, not explicitly soul retrieval or revival.
+    Could instead be death recovery, funerary retrieval, water-spirit encounter, or
+    passage-specific event.
+  suggested_aliases:
+  - shamanic_retrieval_of_drowned_person
+  - ritual_recovery_of_drowned_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-comparison-or-contest-in-a-sweat-house
+  motif_id: shamanic_comparison_or_contest_in_a_sweat_house
+  label: Shamanic comparison or contest in a sweat house
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: low
+  rationale: A contest in a ritual sweat-house setting may function as ordeal, testing,
+    or demonstration of sacred power.
+  cautions: Culturally specific ritual context needs human review. Could be sacred
+    combat, ritual purification, shamanic power contest, or ethnographic detail; current
+    taxonomy lacks a dedicated shamanic contest group.
+  suggested_aliases:
+  - shamanic_power_contest_in_sweat_house
+  - ritual_contest_in_sweat_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-divination-locates-a-missing-family-member
+  motif_id: shamanic_divination_locates_a_missing_family_member
+  label: shamanic divination locates a missing family member
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: The core action is divination used to discover hidden information about
+    a missing person.
+  cautions: Family-member specificity should be preserved as evidence detail; if the
+    missing person is in an otherworld or soul-loss state, secondary mappings may
+    apply.
+  suggested_aliases:
+  - divination_locates_missing_family_member
+  - shamanic_search_by_divination
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-divination-locates-a-missing-person-among-nonhuman-people
+  motif_id: shamanic_divination_locates_a_missing_person_among_nonhuman_people
+  label: Shamanic divination locates a missing person among nonhuman people
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The divinatory location of a hidden missing person fits prophecy_divination;
+    nonhuman people add otherworld context.
+  cautions: If the passage emphasizes abduction into an enchanted realm more than
+    divination, otherworld may be an important secondary mapping. Review culturally
+    specific terms carefully.
+  suggested_aliases:
+  - divination_locates_missing_person_among_nonhuman_people
+  - shamanic_divination_of_otherworld_captive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-culpability-for-destruction-of-the-womb-fruit
+  motif_id: shared_culpability_for_destruction_of_the_womb_fruit
+  label: shared culpability for destruction of the womb fruit
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Shared culpability for fetal destruction suggests moral reckoning or
+    sacred law around pregnancy and harm.
+  cautions: Sensitive reproductive and legal-ethical material; phrase may be doctrinal
+    or commentary rather than narrative motif. Requires source review before query
+    indexing.
+  suggested_aliases:
+  - shared_culpability_for_fetal_destruction
+  - culpability_for_destruction_of_womb_fruit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-household-eating-as-equal-treatment-of-children
+  motif_id: shared_household_eating_as_equal_treatment_of_children
+  label: Shared household eating as equal treatment of children
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Shared eating marks reciprocal household inclusion and fair treatment,
+    close to hospitality, feeding, and social reciprocity patterns.
+  cautions: May be a family ethics detail rather than sacred exchange unless the passage
+    gives it ritual, moral, or narrative force.
+  suggested_aliases:
+  - shared_meal_as_equal_child_treatment
+  - household_eating_signals_equal_kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sheltered-or-privileged-youth-marked-by-seasonal-residences
+  motif_id: sheltered_or_privileged_youth_marked_by_seasonal_residences
+  label: Sheltered or privileged youth marked by seasonal residences
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: role_variant
+  confidence: medium
+  rationale: A youth's protected, privileged upbringing can mark special destiny and
+    fits the miraculous/sacred child complex when narratively significant.
+  cautions: Seasonal residences may be biographical luxury detail unless tied to later
+    renunciation, destiny, or awakening; mystical_quest may be a secondary mapping
+    in Buddhist contexts.
+  suggested_aliases:
+  - privileged_sheltered_youth
+  - seasonal_palaces_mark_sheltered_youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch were assigned to the love/family bucket but involve
+  shamanic divination, ritual contest, or moral law; bucket placement should not drive
+  final taxonomy decisions.
+- Culturally sensitive shamanic and reproductive-law labels should receive human source
+  review before broad Pattern Explorer indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1991
+  input_sha256: ad4c0d0c3dc89d3f7629ae4824819610ce68428de9971e0e022efe848a779d6f
+

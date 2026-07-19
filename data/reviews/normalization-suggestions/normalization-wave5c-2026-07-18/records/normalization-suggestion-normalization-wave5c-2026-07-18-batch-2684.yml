@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2684
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.false-expert-exposed-by-test
+  motif_id: false_expert_exposed_by_test
+  label: false expert exposed by test
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A test exposes false status or false claims, functioning as moral reckoning
+    and vindication.
+  cautions: Single occurrence; if the episode is comic or secular trickery rather
+    than moral testing, trickster or exclusion may fit better.
+  suggested_aliases:
+  - impostor_exposed_by_test
+  - false_claimant_exposed_by_trial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-expertise-rewarded-while-true-expertise-is-rejected
+  motif_id: false_expertise_rewarded_while_true_expertise_is_rejected
+  label: False expertise rewarded while true expertise is rejected
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns inverted recognition of truth and falsehood, but its
+    narrative function is unclear without passage evidence.
+  cautions: May be social satire, epistemic injustice, false judgment, or a passage-specific
+    commentary artifact; verify whether sacred/moral reckoning is present.
+  suggested_aliases:
+  - false_expertise_rewarded
+  - true_expertise_rejected
+  - misjudgment_of_true_expertise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-friends-disarm-the-hero
+  motif_id: false_friends_disarm_the_hero
+  label: false friends disarm the hero
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: False allies disarming the hero centers on betrayal of trust that creates
+    vulnerability.
+  cautions: Could be secondarily indexed to sacred_combat if the disarming is a battle
+    stratagem rather than relational betrayal.
+  suggested_aliases:
+  - treacherous_allies_disarm_the_hero
+  - false_allies_make_hero_vulnerable
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-heroic-claim-exposed
+  motif_id: false_heroic_claim_exposed
+  label: False heroic claim exposed
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Exposure of a false heroic claim usually turns on proof of identity,
+    deed, or rightful achievement.
+  cautions: If no token or proof mechanism is involved, divine_judgment or pride_and_downfall
+    may be better; preserve the exposure scene as evidence detail.
+  suggested_aliases:
+  - false_hero_exposed
+  - fraudulent_heroic_claim_unmasked
+  - heroic_imposture_exposed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-medicine-worsens-the-victim-s-wound
+  motif_id: false_medicine_worsens_the_victim_s_wound
+  label: False medicine worsens the victim's wound
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates harmful false healing, but existing groups do not
+    clearly cover medical imposture or failed remedy.
+  cautions: May be comic, moral, trickster, healing-ritual, or passage-specific; avoid
+    forcing into divine_judgment unless punishment or moral reckoning is explicit.
+  suggested_aliases:
+  - false_healer_worsens_wound
+  - fraudulent_medicine_harms_victim
+  - failed_medicine_aggravates_injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-night-battle-massacre-report
+  motif_id: false_night_battle_massacre_report
+  label: false night-battle massacre report
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a highly specific battle-report deception within a warfare
+    context.
+  cautions: Likely too episode-specific for canonical promotion; if the emphasis is
+    deceptive speech rather than combat, consider trickster or storytelling_as_power.
+  suggested_aliases:
+  - false_report_of_night_battle_massacre
+  - deceptive_battle_massacre_report
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-or-exaggerated-heroic-reputation-from-a-trivial-deed
+  motif_id: false_or_exaggerated_heroic_reputation_from_a_trivial_deed
+  label: false or exaggerated heroic reputation from a trivial deed
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: A trivial deed inflating heroic reputation fits false glory and the instability
+    of unearned status.
+  cautions: If the story focuses on comic luck or imposture exposed by proof, recognition_tokens_hidden_identity
+    or trickster may be better.
+  suggested_aliases:
+  - exaggerated_heroic_reputation_from_trivial_deed
+  - false_glory_from_trivial_deed
+  - unearned_heroic_reputation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-outward-performance-versus-inward-devotion
+  motif_id: false_outward_performance_versus_inward_devotion
+  label: False outward performance versus inward devotion
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The contrast between external religious performance and true inward devotion
+    is an ethical-religious norm critique.
+  cautions: Bucket appears misleading; if the passage is mystical interiority rather
+    than social/ritual law, mystical_quest or sacred_knowledge may be better.
+  suggested_aliases:
+  - outward_ritual_versus_inner_devotion
+  - false_external_piety
+  - inward_devotion_over_outward_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-suitor-steals-the-true-hero-s-proofs
+  motif_id: false_suitor_steals_the_true_hero_s_proofs
+  label: false suitor steals the true hero's proofs
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: The stolen proofs are identity or achievement tokens used to displace
+    the rightful hero.
+  cautions: May also involve betrayal or bride-winning; keep the suitor and courtship
+    context as local evidence.
+  suggested_aliases:
+  - stolen_proofs_of_true_hero
+  - false_suitor_uses_stolen_tokens
+  - false_claimant_steals_identity_proofs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-token-provokes-intertribal-war
+  motif_id: false_token_provokes_intertribal_war
+  label: False token provokes intertribal war
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceptive token triggers collective warfare, making the token a catalyst
+    for sacred or social combat.
+  cautions: If the token primarily functions as forged proof or identity evidence,
+    recognition_tokens_hidden_identity should be a secondary mapping; culturally specific
+    intertribal context needs review.
+  suggested_aliases:
+  - forged_token_triggers_war
+  - false_proof_provokes_war
+  - deceptive_token_as_war_catalyst
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels form an imposture/false-claim cluster, but existing groups can provisionally
+  hold most of them under recognition, betrayal, judgment, or combat without creating
+  a new group from single occurrences.
+- The review bucket is consistently conflict-oriented, but some labels are ethical
+  or epistemic rather than violent; final placement should check passage evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; single-occurrence and over-specific labels
+    should be checked against source context before taxonomy edits.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2684
+  input_sha256: d95f8c8e0accb024ab203aad5e3cf3ad616cb646e889d455d1496044e7b6e692
+

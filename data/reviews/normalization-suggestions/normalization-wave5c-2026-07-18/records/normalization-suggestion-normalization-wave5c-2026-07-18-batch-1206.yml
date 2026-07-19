@@ -1,0 +1,323 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1206
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.thunder-and-lightning-as-divine-mounted-ball-game
+  motif_id: thunder_and_lightning_as_divine_mounted_ball_game
+  label: Thunder and lightning as divine mounted ball game
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Thunder and Storm as Divine Activity
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Explains thunder and lightning as activity of divine or sacred beings;
+    existing groups lack a weather/storm-theophany container.
+  cautions: Single occurrence and culturally specific game imagery; preserve mounted
+    ball-game detail as local evidence.
+  suggested_aliases:
+  - thunder_as_divine_activity
+  - storm_noise_as_divine_play
+  suggested_new_group:
+    id: thunder_storm_divine_activity
+    label: Thunder and Storm as Divine Activity
+    description: Thunder, lightning, storm noise, or first thunder interpreted as
+      the voice, movement, play, vehicle, weapon, or presence of divine or sacred
+      beings.
+    parent_group_ids:
+    - theophany
+    - divine_intervention
+    - sacred_fire
+    related_group_ids:
+    - sacred_time
+    - sacred_exchange
+    - divine_warrior
+    reason_existing_groups_insufficient: Theophany and divine_intervention are too
+      broad, while sacred_fire covers light/fire but not recurring thunder and storm-sound
+      explanations.
+- suggestion_id: normalization.suggestion.thunder-as-divine-chariot-noise
+  motif_id: thunder_as_divine_chariot_noise
+  label: thunder as divine chariot noise
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Thunder and Storm as Divine Activity
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Thunder is interpreted as the audible movement of a divine vehicle, fitting
+    a storm-as-divine-activity pattern.
+  cautions: Could also be an attribute of a specific thunder god; avoid treating vehicle
+    noise as general theophany without source context.
+  suggested_aliases:
+  - thunder_as_divine_vehicle_noise
+  - thunder_as_chariot_sound
+  suggested_new_group:
+    id: thunder_storm_divine_activity
+    label: Thunder and Storm as Divine Activity
+    description: Thunder, lightning, storm noise, or first thunder interpreted as
+      the voice, movement, play, vehicle, weapon, or presence of divine or sacred
+      beings.
+    parent_group_ids:
+    - theophany
+    - divine_intervention
+    - sacred_fire
+    related_group_ids:
+    - sacred_time
+    - sacred_exchange
+    - divine_warrior
+    reason_existing_groups_insufficient: Theophany and divine_intervention can hold
+      divine manifestation broadly but do not preserve the repeated storm/noise explanation
+      pattern.
+- suggestion_id: normalization.suggestion.thunder-as-divine-voice-or-divine-name-association
+  motif_id: thunder_as_divine_voice_or_divine_name_association
+  label: thunder as divine voice or divine name association
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Thunder and Storm as Divine Activity
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Thunder as divine voice or name is a direct sacred manifestation through
+    storm sound.
+  cautions: If the passage centers on naming, sacred speech, or ritual invocation
+    rather than storm manifestation, curse_blessing_speech or sacred_knowledge may
+    be secondary.
+  suggested_aliases:
+  - thunder_as_divine_voice
+  - thunder_as_divine_name
+  suggested_new_group:
+    id: thunder_storm_divine_activity
+    label: Thunder and Storm as Divine Activity
+    description: Thunder, lightning, storm noise, or first thunder interpreted as
+      the voice, movement, play, vehicle, weapon, or presence of divine or sacred
+      beings.
+    parent_group_ids:
+    - theophany
+    - divine_intervention
+    - sacred_fire
+    related_group_ids:
+    - sacred_time
+    - sacred_exchange
+    - divine_warrior
+    reason_existing_groups_insufficient: Existing groups cover manifestation and speech
+      separately but not the recurrent weather-sound manifestation complex.
+- suggestion_id: normalization.suggestion.thunder-bird-sacred-being-honored-at-first-spring-thunder
+  motif_id: thunder_bird_sacred_being_honored_at_first_spring_thunder
+  label: Thunder bird sacred being honored at first spring thunder
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on a ritual observance triggered by first spring thunder,
+    making calendrical sacred timing the clearest existing placement.
+  cautions: Also involves thunder-being veneration; if many thunder-being labels recur,
+    relate to the proposed thunder_storm_divine_activity group.
+  suggested_aliases:
+  - first_spring_thunder_rite
+  - thunder_being_honored_at_first_thunder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.thunder-god-attributes-transferred-to-a-christian-sacred-figure
+  motif_id: thunder_god_attributes_transferred_to_a_christian_sacred_figure
+  label: thunder-god attributes transferred to a Christian sacred figure
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes syncretic interpretation or attribute transfer between
+    figures rather than a narrative motif.
+  cautions: Preserve as reception or interpretive provenance if useful; do not use
+    as evidence of transmission in motif queries.
+  suggested_aliases:
+  - thunder_god_attribute_transfer
+  - syncretic_thunder_saint_identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.thunder-produced-by-divine-stone-game
+  motif_id: thunder_produced_by_divine_stone_game
+  label: thunder produced by divine stone game
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Thunder and Storm as Divine Activity
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Thunder is explained as sound produced by a divine game, matching storm
+    phenomena as sacred activity.
+  cautions: Stone-game detail may be local and over-specific; do not collapse into
+    sacred_treasures unless the stones themselves are power objects.
+  suggested_aliases:
+  - thunder_as_divine_game_noise
+  - thunder_from_sacred_stone_play
+  suggested_new_group:
+    id: thunder_storm_divine_activity
+    label: Thunder and Storm as Divine Activity
+    description: Thunder, lightning, storm noise, or first thunder interpreted as
+      the voice, movement, play, vehicle, weapon, or presence of divine or sacred
+      beings.
+    parent_group_ids:
+    - theophany
+    - divine_intervention
+    - sacred_fire
+    related_group_ids:
+    - sacred_time
+    - sacred_exchange
+    - divine_warrior
+    reason_existing_groups_insufficient: Existing divine manifestation groups do not
+      retain the recurrent storm-noise-as-divine-action structure.
+- suggestion_id: normalization.suggestion.thunderous-divine-chariot-with-local-noise-elaboration
+  motif_id: thunderous_divine_chariot_with_local_noise_elaboration
+  label: thunderous divine chariot with local noise elaboration
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'with local noise elaboration' reads like a comparative or
+    editorial note on a motif variant.
+  cautions: If source evidence directly narrates thunder as a divine chariot, map
+    instead to the proposed thunder_storm_divine_activity group.
+  suggested_aliases:
+  - local_elaboration_of_thunder_chariot_noise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.time-limited-ritual-contest-at-midday
+  motif_id: time_limited_ritual_contest_at_midday
+  label: time-limited ritual contest at midday
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The time boundary at midday is the distinctive ritual feature, fitting
+    sacred timing of ritual action.
+  cautions: Could also belong to sacred_combat or initiation if the contest is an
+    ordeal or combat; source context is needed.
+  suggested_aliases:
+  - midday_ritual_contest
+  - ritual_contest_limited_by_sacred_time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.timed-funerary-rites-over-three-nights-fourth-day-monthly-and-annual-observances
+  motif_id: timed_funerary_rites_over_three_nights_fourth_day_monthly_and_annual_observances
+  label: timed funerary rites over three nights, fourth day, monthly, and annual observances
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes scheduled mortuary observances maintaining relations
+    with the dead.
+  cautions: Also has a strong sacred_time aspect; preserve the specific three-night,
+    fourth-day, monthly, and annual sequence as evidence detail.
+  suggested_aliases:
+  - timed_mortuary_observances
+  - scheduled_funerary_rites_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tobacco-smoke-pleasing-to-gods
+  motif_id: tobacco_smoke_pleasing_to_gods
+  label: Tobacco smoke pleasing to gods
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Smoke offered or pleasing to gods functions as ritual giving that maintains
+    divine-human relationship.
+  cautions: Could also map to sacred_substance if tobacco as sacred plant is central,
+    or sacrifice if explicitly offered; handle culturally specific ritual evidence
+    carefully.
+  suggested_aliases:
+  - tobacco_smoke_offering
+  - pleasing_smoke_offered_to_gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several thunder labels point to a possible recurring weather/storm manifestation
+  group. Human reviewers should decide whether to add a durable thunder_storm_divine_activity
+  group or fold these into theophany/divine_intervention.
+- Labels containing wording such as 'transferred' or 'local elaboration' may be comparative
+  scholarship artifacts rather than passage motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1206
+  input_sha256: f4c0982176baed4bed2ac965a72c74baae5969356e304b5b14d25e6b1a16e763
+

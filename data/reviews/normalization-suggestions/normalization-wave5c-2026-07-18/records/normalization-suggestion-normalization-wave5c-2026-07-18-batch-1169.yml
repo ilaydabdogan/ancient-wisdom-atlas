@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1169
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.selective-rejection-of-feast-offerings
+  motif_id: selective_rejection_of_feast_offerings
+  label: selective rejection of feast offerings
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Feast offerings belong to reciprocal ritual giving, but selective rejection
+    may signal taboo, divine judgment, or local offering rules.
+  cautions: Single occurrence; source evidence needed to distinguish rejected sacrifice
+    from ritual prohibition or passage-specific feast detail.
+  suggested_aliases:
+  - rejected_feast_offerings
+  - selective_acceptance_of_offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.selective-sacred-habitat-of-fitting-and-unfitting-beings
+  motif_id: selective_sacred_habitat_of_fitting_and_unfitting_beings
+  label: Selective sacred habitat of fitting and unfitting beings
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label implies sacred ordering or purity-based fitness for place,
+    which may fit sacred law or ritual boundary rules.
+  cautions: Abstract and context-dependent; could be metaphorical teaching, social
+    order, sacred geography, or a generated artifact.
+  suggested_aliases:
+  - sacred_habitat_for_fitting_beings
+  - fitness_for_sacred_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-altering-priesthood-of-the-goddess
+  motif_id: self_altering_priesthood_of_the_goddess
+  label: self-altering priesthood of the goddess
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: low
+  rationale: Self-alteration by a priesthood may be a bodily ritual offering or initiation
+    into goddess service.
+  cautions: Culturally sensitive and vague; verify whether this refers to castration,
+    dress, bodily modification, ecstatic practice, or later commentary before indexing.
+  suggested_aliases:
+  - bodily_alteration_in_goddess_priesthood
+  - self_modification_for_goddess_service
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-body-as-ritual-material
+  motif_id: self_body_as_ritual_material
+  label: Self-body as ritual material
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Using one's body as ritual material fits surrender or setting apart of
+    the body as offering.
+  cautions: Preserve local practice details; may overlap with initiation, healing,
+    or sacred substance depending on evidence.
+  suggested_aliases:
+  - body_as_ritual_offering
+  - self_body_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-effacement-before-divine-will
+  motif_id: self_effacement_before_divine_will
+  label: self-effacement before divine will
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Self-effacement before divine will aligns with mystical surrender and
+    dissolution of ego before the sacred.
+  cautions: Could also fit sacred_law if framed as obedience, or sacrifice if framed
+    as renunciation; avoid overreading as annihilation_union without evidence.
+  suggested_aliases:
+  - surrender_to_divine_will
+  - ego_effacement_before_divine_will
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-offering-hunted-animals
+  motif_id: self_offering_hunted_animals
+  label: Self-offering hunted animals
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Animals offering themselves to hunters suggests reciprocal relations
+    between humans, animals, and sacred powers.
+  cautions: Culturally sensitive hunting cosmology; may require a distinct human-animal
+    reciprocity group if recurrent rather than being reduced to sacrifice.
+  suggested_aliases:
+  - animals_offer_themselves_to_hunters
+  - hunted_animal_self_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-offering-to-animal-followed-by-suicide
+  motif_id: self_offering_to_animal_followed_by_suicide
+  label: self-offering to animal followed by suicide
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label includes self-offering and death, but the animal recipient
+    and suicide sequence make the function unclear.
+  cautions: Single, sensitive, highly specific episode; verify whether it is ritual
+    sacrifice, grief, punishment, transformation, or narrative artifact.
+  suggested_aliases:
+  - self_offering_to_an_animal
+  - suicidal_self_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-operating-labor-implement-serving-a-holy-person
+  motif_id: self_operating_labor_implement_serving_a_holy_person
+  label: self-operating labor implement serving a holy person
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A tool acting autonomously to serve a holy person is a miraculous aid
+    in human affairs.
+  cautions: Could also fit sacred_craft if the implement's crafted or animated nature
+    is central; preserve holy-person service context.
+  suggested_aliases:
+  - miraculous_self_operating_tool
+  - autonomous_tool_serves_holy_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-restoring-tree-guarded-by-a-talking-god
+  motif_id: self_restoring_tree_guarded_by_a_talking_god
+  label: self-restoring tree guarded by a talking god
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: uncertain
+  confidence: low
+  rationale: A sacred self-restoring tree with divine guardian may fit sacred tree
+    or axis imagery, but the guardian and restoration functions are distinct.
+  cautions: Composite single occurrence; could belong to sacred_tree_axis, threshold_guardian,
+    divine_intervention, or death_and_transformation depending on passage function.
+  suggested_aliases:
+  - self_restoring_sacred_tree
+  - divinely_guarded_restoring_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.self-sounding-sacred-horn
+  motif_id: self_sounding_sacred_horn
+  label: self-sounding sacred horn
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred object that sounds by itself functions as a power object with
+    supernatural agency.
+  cautions: If the sound summons, compels, or transforms hearers, enchanting_music
+    may be a useful secondary mapping.
+  suggested_aliases:
+  - autonomous_sounding_sacred_horn
+  - miraculous_self_sounding_horn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence ritual or ethnographic-seeming descriptions;
+  human review should verify source context before canonical placement.
+- Do not infer transmission or shared origin from proposed grouping; these are provisional
+  query placements only.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch contains multiple low-confidence, culturally specific ritual labels
+    and composite generated labels requiring evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1169
+  input_sha256: a4e60f74681ddb501dfee77f1cc05c8f6787dd8576629134da7197158cd9ea57
+

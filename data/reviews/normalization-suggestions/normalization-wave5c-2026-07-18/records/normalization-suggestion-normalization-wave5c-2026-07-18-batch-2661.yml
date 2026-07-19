@@ -1,0 +1,282 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2661
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dense-forest-close-range-warfare
+  motif_id: dense_forest_close_range_warfare
+  label: dense-forest close-range warfare
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a tactical setting and combat range rather than a
+    recurring symbolic or narrative motif.
+  cautions: Could be retained as evidence detail if the forest functions as an enchanted
+    threshold or ordeal space in the source.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.departmental-magical-specialist-for-success-in-war
+  motif_id: departmental_magical_specialist_for_success_in_war
+  label: Departmental magical specialist for success in war
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A ritual or magical war specialist may mediate supernatural aid in battle,
+    but the wording is culturally specific and role-based.
+  cautions: Review source terminology and avoid flattening local specialist roles
+    into generic divine intervention; sacred_combat or sacred_law may fit if the focus
+    is warfare rite or ritual office.
+  suggested_aliases:
+  - war_magic_specialist
+  - ritual_specialist_for_war_success
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.derision-of-deserters-who-abandon-a-wounded-leader
+  motif_id: derision_of_deserters_who_abandon_a_wounded_leader
+  label: derision of deserters who abandon a wounded leader
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns martial shame, loyalty, and battlefield conduct, fitting
+    the sacred_combat complex.
+  cautions: If the passage emphasizes moral obligation to a leader more than battle
+    narrative, sacred_law or covenant could be secondary; highly specific single occurrence.
+  suggested_aliases:
+  - shaming_deserters_who_abandon_wounded_leader
+  - martial_derision_of_desertion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.desecration-of-a-fallen-enemy-s-body
+  motif_id: desecration_of_a_fallen_enemy_s_body
+  label: Desecration of a fallen enemy's body
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: Maltreatment or denial of proper treatment to a fallen enemy belongs
+    with burial honor, corpse exposure, and funerary order after combat.
+  cautions: May also index under sacred_combat if the focus is battlefield vengeance
+    rather than funerary violation.
+  suggested_aliases:
+  - mutilation_or_desecration_of_fallen_enemy
+  - violation_of_enemy_corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deserved-ordeal-by-enchanted-forest-custom
+  motif_id: deserved_ordeal_by_enchanted_forest_custom
+  label: deserved ordeal by enchanted forest custom
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: An ordeal imposed by an enchanted custom functions as a threshold test
+    that can transform status or prove worth.
+  cautions: Could fit otherworld or threshold_guardian if the forest custom is tied
+    to an enchanted realm or guarding figure; source context needed.
+  suggested_aliases:
+  - enchanted_forest_ordeal
+  - customary_ordeal_in_enchanted_forest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.despised-monster-issues-deferred-threat
+  motif_id: despised_monster_issues_deferred_threat
+  label: despised monster issues deferred threat
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines social contempt, monster role, and delayed threat
+    without enough evidence for a clear existing group.
+  cautions: May be a passage-specific plot detail; could fit threshold_guardian, divine_judgment,
+    trickster, or sacred_combat depending on the monster's function.
+  suggested_aliases:
+  - monster_delays_threat
+  - scorned_monster_warns_of_future_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-a-warrior-band-in-battle
+  motif_id: destruction_of_a_warrior_band_in_battle
+  label: Destruction of a warrior band in battle
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: high
+  rationale: The destruction of a warrior company is a battle outcome within the sacred_combat
+    and heroic warfare complex.
+  cautions: If the emphasis is grief for the fallen band, lament_and_mourning may
+    be secondary; if funerary response follows, heroic_funeral_rites may apply.
+  suggested_aliases:
+  - warrior_band_destroyed_in_battle
+  - fall_of_a_warrior_company
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-enemy-canoes-to-prevent-future-retaliation
+  motif_id: destruction_of_enemy_canoes_to_prevent_future_retaliation
+  label: destruction of enemy canoes to prevent future retaliation
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This is a tactical post-attack detail about disabling enemy transport
+    rather than a broad mythic motif.
+  cautions: Could be evidence under sacred_combat if part of a recurring raid pattern;
+    do not promote without cross-source recurrence.
+  suggested_aliases:
+  - enemy_transport_destroyed_to_prevent_retaliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-enemy-hamlet-property-after-surprise-attack
+  motif_id: destruction_of_enemy_hamlet_property_after_surprise_attack
+  label: Destruction of enemy hamlet property after surprise attack
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is an episode-specific raid aftermath and property-destruction
+    detail, not a stable symbolic motif.
+  cautions: If the surprise attack has ritual or cosmological framing, preserve as
+    evidence under sacred_combat rather than querying as its own motif.
+  suggested_aliases:
+  - property_destruction_after_surprise_raid
+  - enemy_settlement_destroyed_after_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.destruction-of-specialized-warriors
+  motif_id: destruction_of_specialized_warriors
+  label: destruction of specialized warriors
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Defeat or destruction of a distinct warrior class belongs broadly within
+    warfare and sacred combat patterns.
+  cautions: The label is vague; review whether 'specialized warriors' denotes a ritual
+    office, elite war society, or simply a local battle detail.
+  suggested_aliases:
+  - elite_warriors_destroyed
+  - specialist_warriors_defeated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence tactical warfare details; these should generally
+  be preserved as evidence notes rather than promoted to query motifs.
+- For culturally specific war-magic or warrior-society labels, source review is needed
+  before assigning broad supernatural or ritual categories.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement only; conflict-bucket labels skew toward episode-specific
+    battle details.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2661
+  input_sha256: b867c5aa57f492199ab4a92ee38e1b03abc5da5d30ecdc8facf75113f08ae529
+

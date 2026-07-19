@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2015
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unreciprocated-desire-redirected-to-a-younger-sister
+  motif_id: unreciprocated_desire_redirected_to_a_younger_sister
+  label: unreciprocated desire redirected to a younger sister
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label concerns rejected desire and redirected love, but the younger-sister
+    detail may be episode-specific kinship context.
+  cautions: Single occurrence; source evidence needed to distinguish sacred/transformative
+    love from ordinary plot detail, coercive courtship, or family-structure motif.
+  suggested_aliases:
+  - unrequited desire redirected to sister
+  - rejected desire redirected to younger sibling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unreciprocated-love-offered-as-reward-for-rescue
+  motif_id: unreciprocated_love_offered_as_reward_for_rescue
+  label: Unreciprocated love offered as reward for rescue
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: Love offered in exchange for rescue touches love, obligation, and reward,
+    but the unreciprocated aspect needs context.
+  cautions: Could belong with sacred_exchange if framed as recompense, sacred_love
+    if longing drives the plot, or be too episode-specific for broad queries.
+  suggested_aliases:
+  - unrequited love offered as rescue reward
+  - love as reward for rescue refused
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unrecognized-children-secretly-take-food-from-their-father
+  motif_id: unrecognized_children_secretly_take_food_from_their_father
+  label: Unrecognized children secretly take food from their father
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: uncertain
+  confidence: low
+  rationale: Unrecognized children suggest hidden identity or kinship recognition,
+    but secret food-taking may be a local episode detail.
+  cautions: May instead involve trickster theft, hunger/provision, father-child reunion,
+    or a passage-specific scene; do not map without evidence of recognition or identity
+    proof.
+  suggested_aliases:
+  - unrecognized children steal food from father
+  - hidden children take food from father
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unrecognized-father-son-combat-killing
+  motif_id: unrecognized_father_son_combat_killing
+  label: unrecognized father-son combat killing
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Kin-Slaying Through Hidden Identity
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a recurrent tragic-recognition structure where hidden kinship
+    turns combat into fatal family violence.
+  cautions: Could also index secondarily under sacred_combat or recognition_tokens_hidden_identity;
+    confirm that non-recognition, not merely combat, is central.
+  suggested_aliases:
+  - unrecognized father-son combat
+  - father and son fight without recognition
+  - fatal combat between unrecognized kin
+  suggested_new_group:
+    id: kinslaying_hidden_identity
+    label: Kin-Slaying Through Hidden Identity
+    description: Fatal or near-fatal violence occurs because close kin fail to recognize
+      one another, often followed by tragic recognition or revelation of identity.
+    parent_group_ids:
+    - recognition_tokens_hidden_identity
+    - sacred_combat
+    related_group_ids:
+    - lament_and_mourning
+    - divine_judgment
+    reason_existing_groups_insufficient: Recognition_tokens_hidden_identity covers
+      proof of identity, and sacred_combat covers battle, but neither captures the
+      distinctive tragic function of non-recognition producing kin-slaying.
+- suggestion_id: normalization.suggestion.unrecognized-son-kills-father
+  motif_id: unrecognized_son_kills_father
+  label: unrecognized son kills father
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Kin-Slaying Through Hidden Identity
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on fatal kin violence caused by non-recognition, matching
+    a hidden-identity kin-slaying pattern.
+  cautions: Review whether the passage includes later recognition; if not, it may
+    be a broader parricide or family-violence motif rather than identity-token material.
+  suggested_aliases:
+  - son kills unrecognized father
+  - fatal nonrecognition of father by son
+  - unrecognized father killed by son
+  suggested_new_group:
+    id: kinslaying_hidden_identity
+    label: Kin-Slaying Through Hidden Identity
+    description: Fatal or near-fatal violence occurs because close kin fail to recognize
+      one another, often followed by tragic recognition or revelation of identity.
+    parent_group_ids:
+    - recognition_tokens_hidden_identity
+    - sacred_combat
+    related_group_ids:
+    - lament_and_mourning
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing groups cover recognition and combat
+      separately, but this motif's key narrative function is tragic kin-slaying through
+      failed recognition.
+- suggestion_id: normalization.suggestion.unrequited-love-and-rejected-embrace
+  motif_id: unrequited_love_and_rejected_embrace
+  label: Unrequited love and rejected embrace
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Unrequited love and bodily rejection fit the sacred_love group's concern
+    with longing, pain, and desire as transformative force.
+  cautions: If the passage is only an incidental failed advance, preserve as evidence
+    detail rather than major motif; coercion or violence may require human review.
+  suggested_aliases:
+  - unrequited love
+  - rejected embrace
+  - rejected erotic longing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-and-unpersonified-high-being
+  motif_id: unseen_and_unpersonified_high_being
+  label: unseen and unpersonified high being
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: low
+  rationale: A high being may fit cosmic sovereignty, but unseen and unpersonified
+    divinity is a theological category rather than a narrative motif.
+  cautions: Bucket assignment appears mismatched. Review cultural context carefully;
+    may be a classification artifact or sacred-being type, not a pattern-query motif.
+  suggested_aliases:
+  - unseen high being
+  - unpersonified high god
+  - remote high being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-visitor-or-lover-at-night
+  motif_id: unseen_visitor_or_lover_at_night
+  label: unseen visitor or lover at night
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines hidden visitation with lover imagery, but the visitor's
+    identity and function are unclear.
+  cautions: Could be sacred_love, otherworld visitation, spirit spouse, deception,
+    or danger at night; needs source context before mapping.
+  suggested_aliases:
+  - unseen night lover
+  - hidden nocturnal visitor
+  - night visitor as lover
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-wailing-as-trace-of-lost-children
+  motif_id: unseen_wailing_as_trace_of_lost_children
+  label: unseen wailing as trace of lost children
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Unseen wailing marks loss and mourning, but it may also indicate haunting,
+    landscape memory, or etiological sound.
+  cautions: Culturally sensitive and source-dependent; could map to restless_dead_haunting_vengeance,
+    lament_and_mourning, or cosmic_origin if an etiological landscape trace.
+  suggested_aliases:
+  - unseen crying of lost children
+  - wailing trace of lost children
+  - disembodied wailing after child loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-world-accessible-to-chosen-persons
+  motif_id: unseen_world_accessible_to_chosen_persons
+  label: unseen world accessible to chosen persons
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Access to an unseen world by chosen persons fits mystical knowledge and
+    interior unveiling in a Sufi context.
+  cautions: Could also index under otherworld or sacred_knowledge if the passage emphasizes
+    realm geography or revealed knowledge rather than contemplative attainment.
+  suggested_aliases:
+  - chosen access to unseen world
+  - access to the unseen realm
+  - mystical access to the unseen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence love/family labels whose placement
+  depends heavily on passage evidence; human review should distinguish mythic motif
+  from episode-specific plot detail.
+- The review_bucket_id love_family_gender_body appears mismatched for some labels,
+  especially unseen high being and unseen world access.
+- Consider whether a durable group for tragic kin-slaying through failed recognition
+  is warranted, since two labels in this batch point to the same structure.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2015
+  input_sha256: ce11302d4780f7c7bdd44ce26bcd44c05330ef865e9607fc60272b1208a95676
+

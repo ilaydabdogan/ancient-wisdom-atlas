@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0884
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.improper-challenge-leading-to-fatal-consequence-and-ritual-prohibition
+  motif_id: improper_challenge_leading_to_fatal_consequence_and_ritual_prohibition
+  label: Improper challenge leading to fatal consequence and ritual prohibition
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on a transgressive act that becomes encoded as ritual
+    prohibition, fitting sacred law and taboo regulation.
+  cautions: Single occurrence and composite wording; if the fatal consequence is the
+    main motif, divine_judgment may be a secondary fit.
+  suggested_aliases:
+  - ritual_prohibition_from_fatal_transgression
+  - fatal_transgression_establishes_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.improper-fire-related-rite-defeats-violent-actors
+  motif_id: improper_fire_related_rite_defeats_violent_actors
+  label: Improper fire-related rite defeats violent actors
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: uncertain
+  confidence: low
+  rationale: Fire ritual is central, but the phrase 'improper' and the defeat of violent
+    actors could imply sacred fire, ritual error, judgment, or combat reversal.
+  cautions: Needs source context to determine whether fire is sacred medium, punitive
+    force, protective rite, or passage-specific episode.
+  suggested_aliases:
+  - improper_fire_rite_as_protective_reversal
+  - fire_rite_defeats_attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.improper-ritual-usurpation-by-subordinate-elites
+  motif_id: improper_ritual_usurpation_by_subordinate_elites
+  label: Improper ritual usurpation by subordinate elites
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Improper performance of ritually ranked roles by subordinate elites concerns
+    ritual hierarchy and social order.
+  cautions: Could also map to royal_legitimacy if the source emphasizes legitimate
+    authority rather than ritual propriety.
+  suggested_aliases:
+  - ritual_usurpation_by_subordinate_elites
+  - improper_ritual_rank_usurpation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.impurity-re-entry-through-the-body
+  motif_id: impurity_re_entry_through_the_body
+  label: Impurity re-entry through the body
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif concerns bodily impurity and purity regulation, which fits
+    sacred law's ritual-prohibition and spirit-contagion complex.
+  cautions: Preserve specific bodily mechanism as evidence detail; may overlap with
+    apotropaic protection or death-contagion rules depending on passage.
+  suggested_aliases:
+  - bodily_reentry_of_impurity
+  - impurity_entering_through_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.incense-identified-with-prayer
+  motif_id: incense_identified_with_prayer
+  label: Incense identified with prayer
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Incense functioning as prayer is a ritual offering or mediating act that
+    establishes divine-human communication.
+  cautions: If the passage emphasizes sacrificial smoke or sacred fire rather than
+    petition, sacrifice or sacred_fire may be secondary mappings.
+  suggested_aliases:
+  - incense_as_prayer
+  - ritual_smoke_as_prayer_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.incomparable-solitary-divine-one
+  motif_id: incomparable_solitary_divine_one
+  label: incomparable solitary divine One
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: broader_label
+  confidence: medium
+  rationale: The label describes divine uniqueness and supremacy, aligning best with
+    cosmic sovereignty rather than ritual practice.
+  cautions: This may be theological doctrine rather than a narrative motif; review
+    whether it is useful for pattern queries.
+  suggested_aliases:
+  - incomparable_divine_one
+  - solitary_supreme_deity
+  - unique_divine_one
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.incomplete-ritual-obedience-explains-present-agricultural-limits
+  motif_id: incomplete_ritual_obedience_explains_present_agricultural_limits
+  label: Incomplete ritual obedience explains present agricultural limits
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The label is etiological: present agricultural limits are explained
+    by an earlier incomplete ritual action.'
+  cautions: Could fit sacred_law if obedience/prohibition is emphasized, or sacred_time
+    if tied to harvest cycles; preserve agricultural-limit specificity.
+  suggested_aliases:
+  - ritual_disobedience_explains_agricultural_limits
+  - etiology_of_agricultural_limits_from_incomplete_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.independent-recurrence-of-social-ritual-forms
+  motif_id: independent_recurrence_of_social_ritual_forms
+  label: independent recurrence of social-ritual forms
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label states a comparative interpretation about recurrence, not a
+    narrative, symbolic, or ritual motif in a passage.
+  cautions: Keep as analysis/provenance note only; do not use as evidence of independent
+    emergence or transmission in motif queries.
+  suggested_aliases:
+  - comparative_claim_of_independent_ritual_recurrence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.independent-reform-against-inherited-religious-formularies
+  motif_id: independent_reform_against_inherited_religious_formularies
+  label: Independent reform against inherited religious formularies
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like doctrinal or historical-reform commentary rather
+    than a clear motif, but could involve sacred law, renunciation, or prophetic reform
+    depending on evidence.
+  cautions: Avoid encoding claims about independent reform without source context;
+    may need exclusion if it is scholarly description rather than passage motif.
+  suggested_aliases:
+  - reform_against_inherited_religious_forms
+  - rejection_of_inherited_ritual_formularies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.indexed-mystery-or-rite-terminology
+  motif_id: indexed_mystery_or_rite_terminology
+  label: indexed mystery or rite terminology
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes indexing terminology for rites or mysteries rather
+    than a motif occurring in a narrative or ritual account.
+  cautions: Preserve only as indexing/provenance metadata unless source evidence supplies
+    a concrete initiation, mystery rite, or ritual action.
+  suggested_aliases:
+  - mystery_rite_indexing_term
+  - indexed_ritual_terminology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and composite; preserve local details as evidence
+  notes rather than promoting them into taxonomy motifs.
+- Ritual-propriety labels in this batch often fit sacred_law, but source context may
+  justify secondary mappings to covenant, divine_judgment, sacred_fire, or royal_legitimacy.
+- Labels making comparative or indexing claims should be excluded from pattern queries
+  as meta-textual artifacts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific ritual and reform labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0884
+  input_sha256: f3b6d61e636d9808680527acaa3a8b7186362cf1dcbc4e1079ea236680acf99f
+

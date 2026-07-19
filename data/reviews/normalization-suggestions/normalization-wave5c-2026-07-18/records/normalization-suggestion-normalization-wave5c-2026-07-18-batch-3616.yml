@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3616
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lay-witness-petitions-for-restoration
+  motif_id: lay_witness_petitions_for_restoration
+  label: lay witness petitions for restoration
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Petitioning for restoration may be a sacred request or reciprocal appeal,
+    but the object and ritual context are unclear.
+  cautions: Could instead be legal testimony, devotional intercession, healing, relic
+    restoration, or a passage-specific narrative action; needs source evidence.
+  suggested_aliases:
+  - petition_for_restoration
+  - lay_petition_for_restoration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.layered-collective-formation-of-an-epic-tradition
+  motif_id: layered_collective_formation_of_an_epic_tradition
+  label: Layered collective formation of an epic tradition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes textual formation and transmission history rather
+    than a narrative or symbolic motif.
+  cautions: Preserve as provenance or editorial-history metadata if useful; do not
+    use as evidence for motif comparison.
+  suggested_aliases:
+  - collective_formation_of_epic_tradition
+  - layered_epic_tradition_formation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.layered-cosmological-supports-disturbed-together
+  motif_id: layered_cosmological_supports_disturbed_together
+  label: layered cosmological supports disturbed together
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Layered supports holding or structuring the cosmos fit sacred-center
+    or world-axis cosmology when disturbed as a whole.
+  cautions: If the passage emphasizes catastrophe, omen, or meditative cosmology rather
+    than structural supports, flood_and_renewal, dream_and_vision, or sacred_knowledge
+    may be secondary.
+  suggested_aliases:
+  - disturbance_of_cosmological_supports
+  - layered_world_supports_disturbed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.layered-saga-growth-through-poetic-and-historical-additions
+  motif_id: layered_saga_growth_through_poetic_and_historical_additions
+  label: Layered saga growth through poetic and historical additions
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a scholarly observation about saga accretion and redaction, not
+    a motif in the narrative world.
+  cautions: Keep for textual-history indexing only if needed; exclude from Pattern
+    Explorer motif queries.
+  suggested_aliases:
+  - saga_growth_through_later_additions
+  - layered_saga_accretion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.layered-sleeping-platform-separating-bodies-from-snow
+  motif_id: layered_sleeping_platform_separating_bodies_from_snow
+  label: Layered sleeping platform separating bodies from snow
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a practical environmental or scene detail rather than
+    a recurrent symbolic motif.
+  cautions: If source evidence gives the platform ritual or threshold meaning, review
+    under sacred_law or sacred_vessel/liminal shelter; otherwise preserve only as
+    ethnographic setting detail.
+  suggested_aliases:
+  - sleeping_platform_above_snow
+  - platform_separating_body_from_snow
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.laying-aside-mourning-through-bright-adornment
+  motif_id: laying_aside_mourning_through_bright_adornment
+  label: Laying aside mourning through bright adornment
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Changing adornment to end mourning is a mourning-rite transition and
+    social restoration marker.
+  cautions: Could also involve initiation, sacred_love, or status restoration depending
+    on who is adorned and why; culturally specific mourning practices need careful
+    review.
+  suggested_aliases:
+  - ending_mourning_through_adornment
+  - bright_adornment_after_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.leader-abandoned-after-attack
+  motif_id: leader_abandoned_after_attack
+  label: leader abandoned after attack
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: Abandonment of a leader after violence may function as betrayal or violated
+    obligation.
+  cautions: Could be a battle outcome, social disgrace, flight, strategic retreat,
+    or passage-specific event; do not map without evidence that trust or duty is central.
+  suggested_aliases:
+  - abandonment_of_leader_after_attack
+  - attacked_leader_abandoned
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.leader-as-relied-upon-helper-through-difficulties
+  motif_id: leader_as_relied_upon_helper_through_difficulties
+  label: leader as relied-upon helper through difficulties
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: A leader aiding followers through hardship may support legitimate leadership
+    or protective authority.
+  cautions: Label is generic and may be merely character description; if the helper
+    role is not sacred, royal, or socially ordering, exclude or keep as evidence detail.
+  suggested_aliases:
+  - leader_as_helper_in_difficulty
+  - protective_leader_guides_group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.leader-bound-retinue-or-brotherhood
+  motif_id: leader_bound_retinue_or_brotherhood
+  label: leader-bound retinue or brotherhood
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Leader-Bound Retinue and War-Band Brotherhood
+  relationship: role_variant
+  confidence: medium
+  rationale: A sworn retinue or brotherhood bound to a leader is a durable social-warrior
+    formation not cleanly captured by kingship or combat alone.
+  cautions: Could fit royal_legitimacy if authority is central, covenant if oath-bond
+    is explicit, or sacred_combat if the group exists mainly for warfare; verify recurrence
+    before adding.
+  suggested_aliases:
+  - leader_bound_retinue
+  - war_band_brotherhood
+  - sworn_retinue_bound_to_leader
+  suggested_new_group:
+    id: leader_bound_retinue
+    label: Leader-Bound Retinue and War-Band Brotherhood
+    description: A band, retinue, brotherhood, or companion group is bound to a leader
+      by loyalty, oath, kin-like obligation, martial service, or shared status, shaping
+      collective identity and action.
+    parent_group_ids:
+    - royal_legitimacy
+    - covenant
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: Existing groups cover kingship, covenant,
+      and combat, but not the recurring social form of a sworn or leader-centered
+      companion band itself.
+- suggestion_id: normalization.suggestion.leader-condemned-for-unauthorized-sale-of-communal-land
+  motif_id: leader_condemned_for_unauthorized_sale_of_communal_land
+  label: leader condemned for unauthorized sale of communal land
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Condemnation of a leader for violating communal land rights is a moral
+    reckoning over illegitimate authority or broken obligation.
+  cautions: May be historical-political commentary rather than mythic motif; if the
+    focus is sacred land law or communal covenant, sacred_law or covenant may be secondary.
+  suggested_aliases:
+  - condemnation_for_unauthorized_communal_land_sale
+  - leader_punished_for_selling_communal_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several one-off labels in this batch are textual-history or practical-scene artifacts
+  and should not be promoted without cross-source recurrence.
+- Leadership/social-order labels need source review to distinguish mythic motif, historical
+  commentary, and ordinary plot description.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    mourning, leadership, and communal-land items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3616
+  input_sha256: 5e87217e61a892f49b0ce57360352ae422e5eef2adb72041757c4b6175154020
+

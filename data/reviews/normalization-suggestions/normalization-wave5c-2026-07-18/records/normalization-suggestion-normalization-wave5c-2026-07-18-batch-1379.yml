@@ -1,0 +1,334 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1379
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.name-authority-justified-by-killing-rare-animals
+  motif_id: name_authority_justified_by_killing_rare_animals
+  label: Name authority justified by killing rare animals
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label links naming authority, achievement, and animal killing, but
+    the narrative function is unclear from wording alone.
+  cautions: Could involve initiation, sacred combat, hunting prestige, sacred law,
+    or a local naming institution; single occurrence and culturally specific evidence
+    should be reviewed.
+  suggested_aliases:
+  - name earned through rare animal killing
+  - achievement-based naming authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_law
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-avoidance-during-mourning
+  motif_id: name_avoidance_during_mourning
+  label: name avoidance during mourning
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Avoiding the name of the dead during mourning functions as a ritual prohibition
+    regulating death-related speech.
+  cautions: May also belong with ancestor rites or lament and mourning if the passage
+    emphasizes relations with the dead rather than taboo speech.
+  suggested_aliases:
+  - mourning name taboo
+  - avoidance of the dead person's name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ancestor_rites
+    - lament_and_mourning
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-avoidance-for-powerful-persons-or-beings
+  motif_id: name_avoidance_for_powerful_persons_or_beings
+  label: Name avoidance for powerful persons or beings
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sacred Names and Naming Taboos
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on names as dangerous or powerful speech objects, a
+    pattern not cleanly captured by current broad sacred-law or speech groups.
+  cautions: Human review should decide whether name taboos are frequent enough for
+    a group; otherwise map locally to sacred_law or curse_blessing_speech.
+  suggested_aliases:
+  - name taboo for powerful beings
+  - avoidance of powerful names
+  - non-utterance of sacred or dangerous names
+  suggested_new_group:
+    id: sacred_names_naming_taboos
+    label: Sacred Names and Naming Taboos
+    description: Names are treated as powerful, dangerous, identity-bearing, or ritually
+      restricted; includes avoidance of names, name bestowal, name concealment, and
+      name-based access or authority.
+    parent_group_ids:
+    - sacred_law
+    - curse_blessing_speech
+    - sacred_knowledge
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - initiation
+    - ancestor_rites
+    reason_existing_groups_insufficient: Existing groups cover sacred law, speech
+      acts, and knowledge broadly, but do not preserve the recurring specificity of
+      name power, name avoidance, and ritual naming.
+- suggestion_id: normalization.suggestion.name-avoidance-or-non-mentioning-of-names
+  motif_id: name_avoidance_or_non_mentioning_of_names
+  label: name avoidance or non-mentioning of names
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sacred Names and Naming Taboos
+  relationship: narrower_than
+  confidence: medium
+  rationale: General non-mentioning of names fits a name-taboo complex where utterance
+    itself is ritually restricted.
+  cautions: 'The label is broad and needs source context: avoidance may be mourning
+    practice, respect language, fear of spirits, or social etiquette.'
+  suggested_aliases:
+  - name avoidance
+  - non-mentioning of names
+  - name taboo
+  suggested_new_group:
+    id: sacred_names_naming_taboos
+    label: Sacred Names and Naming Taboos
+    description: Names are treated as powerful, dangerous, identity-bearing, or ritually
+      restricted; includes avoidance of names, name bestowal, name concealment, and
+      name-based access or authority.
+    parent_group_ids:
+    - sacred_law
+    - curse_blessing_speech
+    - sacred_knowledge
+    related_group_ids:
+    - ancestor_rites
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: A dedicated group would preserve name-specific
+      ritual and speech restrictions that are diluted if mapped only to sacred_law
+      or sacred_knowledge.
+- suggestion_id: normalization.suggestion.name-bestowal-at-birth-and-after-marked-achievement
+  motif_id: name_bestowal_at_birth_and_after_marked_achievement
+  label: Name bestowal at birth and after marked achievement
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A name given after birth or achievement marks a change in status or identity,
+    fitting initiation logic.
+  cautions: Birth-name evidence may also relate to miraculous_child if the birth is
+    sacred or extraordinary; achievement naming may merit a future sacred-names group.
+  suggested_aliases:
+  - status-marking name bestowal
+  - name given after achievement
+  - birth and achievement naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - sacred_names_naming_taboos
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-bestowed-at-the-moment-of-ordeal
+  motif_id: name_bestowed_at_the_moment_of_ordeal
+  label: Name bestowed at the moment of ordeal
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: high
+  rationale: A name bestowed during an ordeal directly marks identity transformation
+    at a threshold moment.
+  cautions: Preserve the naming detail; do not reduce it to ordeal alone if name transmission
+    or ritual title is central.
+  suggested_aliases:
+  - ordeal name bestowal
+  - name given during ordeal
+  - threshold naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_names_naming_taboos
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-called-food-distribution-with-recipient-non-acknowledgment
+  motif_id: name_called_food_distribution_with_recipient_non_acknowledgment
+  label: name-called food distribution with recipient non-acknowledgment
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines naming, food distribution, and non-acknowledgment,
+    but the ritual or narrative function is opaque.
+  cautions: Could be sacred exchange, taboo speech, etiquette, gift refusal, or a
+    passage artifact; source evidence is needed before indexing.
+  suggested_aliases:
+  - name-called food distribution
+  - food distribution without acknowledgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - sacred_names_naming_taboos
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-command-access-to-a-hidden-or-closed-place
+  motif_id: name_command_access_to_a_hidden_or_closed_place
+  label: name-command access to a hidden or closed place
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spoken name-command opens or grants access, making speech performative
+    and boundary-crossing.
+  cautions: May also fit sacred_knowledge if the key is knowing the hidden name, or
+    threshold_guardian if a guarded boundary is central.
+  suggested_aliases:
+  - name command opens hidden place
+  - name-based access command
+  - opening by sacred name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - threshold_guardian
+    - sacred_names_naming_taboos
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-demand-and-delayed-recognition
+  motif_id: name_demand_and_delayed_recognition
+  label: Name demand and delayed recognition
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Demanding a name and delaying recognition makes naming part of identity
+    disclosure and recognition.
+  cautions: If the scene is mainly chivalric etiquette or dialogue convention, it
+    may be too contextual; verify that identity recognition drives the episode.
+  suggested_aliases:
+  - delayed recognition by name
+  - name demand before recognition
+  - identity withheld through unnamed status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.name-derived-from-birth-circumstance
+  motif_id: name_derived_from_birth_circumstance
+  label: Name derived from birth circumstance
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A birth circumstance encoded in a name belongs near sacred birth and
+    marked infancy when the birth event shapes identity.
+  cautions: If the birth circumstance is ordinary etiology rather than sacred or destiny-marking,
+    this may be a naming custom detail better handled by a sacred-names group or excluded.
+  suggested_aliases:
+  - birth-circumstance name
+  - name from birth event
+  - birth-derived naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_names_naming_taboos
+    - initiation
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items suggest a recurring name-power/name-taboo complex. Human reviewers
+  may consider adding a canonical normalization group such as sacred_names_naming_taboos
+  if similar labels recur beyond this batch.
+- Avoid treating naming practices as evidence of transmission; placements here only
+  preserve functional similarity for review and query purposes.
+- Single-occurrence and culturally specific naming practices should be reviewed against
+  source passages before broad indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; name taboo/name bestowal motifs likely need
+    evidence-sensitive human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1379
+  input_sha256: 44d69121f7a35b9824702ea2b70912335c263f61fc598db50d22fe5f9bfaa53a
+

@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0082
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.corpse-pollution-and-ritual-cleansing
+  motif_id: corpse_pollution_and_ritual_cleansing
+  label: Corpse pollution and ritual cleansing
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Corpse pollution requiring cleansing is a ritual-purity rule, matching
+    sacred_law's purity and spirit-contagion children.
+  cautions: Zoroastrian mortuary purity has culturally specific detail; preserve death-contact
+    context and consider ancestor_rites only if care of the dead is central.
+  suggested_aliases:
+  - corpse_pollution_and_ritual_purification
+  - mortuary_pollution_cleansing
+  - ritual_cleansing_after_contact_with_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-pollution-and-ritual-purification
+  motif_id: corpse_pollution_and_ritual_purification
+  label: corpse pollution and ritual purification
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: alias
+  confidence: high
+  rationale: This is effectively the same ritual-purity pattern as corpse pollution
+    and ritual cleansing.
+  cautions: Likely synonym of corpse_pollution_and_ritual_cleansing; avoid duplicating
+    as a separate canonical motif.
+  suggested_aliases:
+  - corpse_pollution_and_ritual_cleansing
+  - mortuary_pollution_purification
+  - ritual_purification_after_contact_with_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-pollution-as-demonic-contamination
+  motif_id: corpse_pollution_as_demonic_contamination
+  label: Corpse pollution as demonic contamination
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label frames corpse impurity as harmful spirit-contagion, already
+    covered by sacred_law's purity and spirit-contagion scope.
+  cautions: If the defiling being acts as an independent demon in narrative, a secondary
+    relation to divine_judgment or ritual_expulsion may be needed.
+  suggested_aliases:
+  - corpse_pollution_as_spirit_contagion
+  - demonic_contamination_from_the_dead
+  - mortuary_pollution_as_demonic_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-pollution-being-arrives-after-death
+  motif_id: corpse_pollution_being_arrives_after_death
+  label: corpse-pollution being arrives after death
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: May be a personified purity-contagion motif, but the label could refer
+    to a culturally specific Zoroastrian defiling entity rather than a broad motif.
+  cautions: Needs source review before flattening into general sacred_law; if the
+    being is narratively active, preserve personification and demonic-agent detail.
+  suggested_aliases:
+  - personified_corpse_pollution
+  - defiling_being_arrives_after_death
+  - mortuary_pollution_personified
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-pollution-by-contact-and-bodily-trace
+  motif_id: corpse_pollution_by_contact_and_bodily_trace
+  label: corpse pollution by contact and bodily trace
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Pollution transmitted by death-contact or bodily trace fits ritual purity,
+    taboo, and spirit-contagion under sacred_law.
+  cautions: Highly granular; preserve bodily-trace mechanics as evidence rather than
+    promoting separately unless recurrent.
+  suggested_aliases:
+  - corpse_pollution_by_direct_contact
+  - corpse_pollution_contagion
+  - mortuary_contagion_by_bodily_trace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-pollution-by-direct-contact
+  motif_id: corpse_pollution_by_direct_contact
+  label: corpse pollution by direct contact
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: high
+  rationale: Direct contact with a corpse causing impurity is a narrower ritual-purity
+    rule under sacred_law.
+  cautions: May be an over-specific duplicate of corpse_pollution_contagion or corpse_pollution_by_contact_and_bodily_trace.
+  suggested_aliases:
+  - corpse_pollution_contagion
+  - death_contact_pollution
+  - mortuary_impurity_by_touch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-pollution-contagion
+  motif_id: corpse_pollution_contagion
+  label: corpse-pollution contagion
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Contagious impurity from a corpse matches sacred_law's existing spirit-contagion
+    and purity-law patterns.
+  cautions: Could become the preferred alias for several duplicate corpse-pollution
+    labels; retain Zoroastrian specificity in notes.
+  suggested_aliases:
+  - corpse_pollution_by_direct_contact
+  - corpse_pollution_by_contact_and_bodily_trace
+  - death_pollution_contagion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-pollution-embodied-as-a-defiling-being
+  motif_id: corpse_pollution_embodied_as_a_defiling_being
+  label: corpse pollution embodied as a defiling being
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Embodied corpse pollution still functions as purity danger, but personification
+    may be important local evidence.
+  cautions: Do not erase the culturally specific defiling-being concept; review whether
+    it should be indexed as spirit-contagion, demonology, or ritual-expulsion evidence.
+  suggested_aliases:
+  - personified_corpse_pollution
+  - corpse_pollution_as_demonic_contamination
+  - defiling_being_of_the_corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-pollution-grieves-the-earth
+  motif_id: corpse_pollution_grieves_the_earth
+  label: Corpse pollution grieves the Earth
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines mortuary pollution with Earth as affected sacred element;
+    sacred_law is plausible but not certain.
+  cautions: Could belong with sacred elements, earth personification, or Zoroastrian
+    purity doctrine; source context is needed before broad mapping.
+  suggested_aliases:
+  - earth_grieved_by_corpse_pollution
+  - corpse_pollution_afflicts_the_earth
+  - mortuary_impurity_against_the_earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.corpse-pollution-of-sacred-elements
+  motif_id: corpse_pollution_of_sacred_elements
+  label: Corpse pollution of sacred elements
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Protecting sacred elements from corpse impurity is a purity-law and taboo
+    pattern under sacred_law.
+  cautions: May also relate to sacred_fire or sacred_waters if a specific element
+    is central; avoid mapping to death motifs unless afterlife function is present.
+  suggested_aliases:
+  - mortuary_pollution_of_sacred_elements
+  - corpse_impurity_defiles_elements
+  - protection_of_sacred_elements_from_corpse_pollution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch appear to be single-occurrence Zoroastrian mortuary purity
+  variants and should likely consolidate under sacred_law rather than become independent
+  motif groups.
+- Personified corpse-pollution labels need human review to preserve culturally specific
+  defiling-being concepts and avoid reducing them to generic impurity.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch placement only; human review recommended for Zoroastrian
+    mortuary-purity terminology and personified pollution motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0082
+  input_sha256: d10632e73d73c10374a8b77a732682c50397327214a03ad088c0992226113620
+

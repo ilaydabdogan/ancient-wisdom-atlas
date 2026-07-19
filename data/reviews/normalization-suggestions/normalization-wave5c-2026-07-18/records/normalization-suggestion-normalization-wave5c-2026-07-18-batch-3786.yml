@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3786
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.post-raid-noise-and-dance-with-killer-and-captor-silent
+  motif_id: post_raid_noise_and_dance_with_killer_and_captor_silent
+  label: Post-raid noise and dance with killer and captor silent
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a culturally specific post-raid performance
+    or silence rule, but its ritual or narrative function is unclear.
+  cautions: Single occurrence; may be ethnographic detail rather than reusable motif.
+    Review whether silence marks taboo, mourning, victory, shame, or captive status.
+  suggested_aliases:
+  - post_raid_dance_and_silence
+  - post_raid_victory_noise_with_silent_killer_and_captor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_law
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-recognition-avoidance-of-the-new-couple
+  motif_id: post_recognition_avoidance_of_the_new_couple
+  label: post-recognition avoidance of the new couple
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve marriage taboo, kinship avoidance, or post-recognition
+    identity rules, but the label alone does not show a stable motif function.
+  cautions: Single occurrence and highly contextual; avoid mapping to sacred_love
+    or recognition_tokens_hidden_identity without passage evidence.
+  suggested_aliases:
+  - avoidance_of_new_couple_after_recognition
+  - post_recognition_couple_avoidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - recognition_tokens_hidden_identity
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-removal-washing-by-clan-relatives
+  motif_id: post_removal_washing_by_clan_relatives
+  label: post-removal washing by clan relatives
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Washing after removal by specified kin suggests a purification or ritual-regulation
+    practice, fitting sacred law and purity rules.
+  cautions: Confirm what is being removed and whether this is mortuary, pollution,
+    healing, or initiation context; may be too specific as a generated label.
+  suggested_aliases:
+  - ritual_washing_after_removal_by_clan_relatives
+  - kin_performed_post_removal_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-separation-invention-or-adoption-of-a-craft-technique
+  motif_id: post_separation_invention_or_adoption_of_a_craft_technique
+  label: Post-separation invention or adoption of a craft technique
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on origin or adoption of a craft technique, which fits
+    the sacred craft/culture-technology field.
+  cautions: If the source emphasizes a culture hero bringing technology, culture_hero
+    may be a better or secondary group; if merely historical adoption, exclude from
+    motif queries.
+  suggested_aliases:
+  - origin_of_craft_after_separation
+  - craft_technique_invented_after_separation
+  - adoption_of_craft_technique_after_separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - culture_hero
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-vengeance-legal-settlement-and-peace-pledges
+  motif_id: post_vengeance_legal_settlement_and_peace_pledges
+  label: post-vengeance legal settlement and peace pledges
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Legal settlement and peace pledges after vengeance are binding social
+    agreements that restore order.
+  cautions: May also fit sacred_law if the passage stresses legal procedure, or sacred_combat
+    if vengeance feud remains central.
+  suggested_aliases:
+  - peace_pledges_after_vengeance
+  - legal_settlement_after_vengeance
+  - post_feud_settlement_and_peace_oaths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-consequence-for-inhospitality
+  motif_id: posthumous_consequence_for_inhospitality
+  label: Posthumous consequence for inhospitality
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The consequence is tied to violation of hospitality, matching the hospitality-test
+    and guest-obligation complex.
+  cautions: If the consequence is explicitly divine punishment after death, add divine_judgment
+    or afterlife_passage as secondary review context.
+  suggested_aliases:
+  - punishment_for_inhospitality_after_death
+  - postmortem_consequence_of_failed_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-deification-and-memorial-festival
+  motif_id: posthumous_deification_and_memorial_festival
+  label: posthumous deification and memorial festival
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The memorial festival and postmortem honor function as public rites that
+    transform and commemorate the dead figure.
+  cautions: The deification aspect may also fit death_and_transformation or royal_legitimacy
+    if imperial apotheosis is central; do not create a Roman-specific group from one
+    item.
+  suggested_aliases:
+  - posthumous_apotheosis_and_memorial_festival
+  - memorial_festival_for_deified_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - royal_legitimacy
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-deification-confirmed-by-apparition
+  motif_id: posthumous_deification_confirmed_by_apparition
+  label: posthumous deification confirmed by apparition
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: functional_variant
+  confidence: medium
+  rationale: An apparition confirming deification is a manifestation of a newly divine
+    or sacred figure to witnesses.
+  cautions: Could also be death_and_transformation if the emphasis is apotheosis itself,
+    or royal_legitimacy if it validates ruler cult.
+  suggested_aliases:
+  - apparition_confirms_posthumous_deification
+  - posthumous_apotheosis_confirmed_by_appearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - royal_legitimacy
+    - heroic_funeral_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-deification-of-exceptional-humans
+  motif_id: posthumous_deification_of_exceptional_humans
+  label: Posthumous deification of exceptional humans
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Posthumous deification transforms a dead human into divine status, fitting
+    death followed by a new state of being.
+  cautions: If tied to ruler cult or legitimacy, royal_legitimacy may be important;
+    if tied to cult memorials, heroic_funeral_rites may be secondary.
+  suggested_aliases:
+  - posthumous_apotheosis_of_exceptional_humans
+  - deification_after_death
+  - human_apotheosis_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - heroic_funeral_rites
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-fragrance-from-ashes-ensnares-the-passerby
+  motif_id: posthumous_fragrance_from_ashes_ensnares_the_passerby
+  label: Posthumous fragrance from ashes ensnares the passerby
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines postmortem remains, fragrance, and enchantment/ensnarement;
+    the primary function is unclear without source evidence.
+  cautions: Could be mystical love, death transformation, sacred substance, or perilous
+    enchantment. Single occurrence and highly poetic; avoid over-normalizing.
+  suggested_aliases:
+  - fragrance_from_ashes_ensnares_passerby
+  - posthumous_scent_from_ashes_as_enchantment
+  - ashes_emit_ensnaring_fragrance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - sacred_love
+    - sacred_substance
+    - beauty_and_paradox
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence, culturally specific, and appear to describe
+  ritual sequence details; human review should verify whether they are recurring motifs
+  or passage artifacts.
+- Posthumous deification items may eventually warrant a more explicit apotheosis subgroup
+  if additional cross-tradition evidence accumulates, but existing groups can provisionally
+  hold them.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3786
+  input_sha256: 4bf7252e586caefebd9ee48b7515c22ec1f4071227570ed86e4509c6c7530650
+

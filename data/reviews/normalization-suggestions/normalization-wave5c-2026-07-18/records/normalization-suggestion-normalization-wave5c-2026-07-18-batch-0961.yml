@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0961
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.prayer-for-paired-omens
+  motif_id: prayer_for_paired_omens
+  label: Prayer for paired omens
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on ritually requested omens, fitting divinatory access
+    to hidden or future knowledge.
+  cautions: Single occurrence; if the passage emphasizes prayer as exchange rather
+    than interpretation of signs, sacred_exchange may be a secondary fit.
+  suggested_aliases:
+  - prayer_requesting_omens
+  - ritual_request_for_paired_omens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-for-rain-and-communal-welfare
+  motif_id: prayer_for_rain_and_communal_welfare
+  label: Prayer for rain and communal welfare
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A communal prayer for rain and welfare functions as reciprocal petition
+    to sacred powers for collective benefit.
+  cautions: Could also relate to divine_intervention if the passage emphasizes the
+    granted rain rather than the ritual petition; review culturally specific rain-prayer
+    context carefully.
+  suggested_aliases:
+  - communal_prayer_for_rain
+  - rain_prayer_for_communal_welfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-for-replacement-game-after-loss
+  motif_id: prayer_for_replacement_game_after_loss
+  label: prayer for replacement game after loss
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too contextual to determine whether it is ritual petition,
+    subsistence restoration, or an episode-specific detail.
+  cautions: Needs source evidence for what 'game' means and whether the prayer has
+    recurring ritual or mythic function; may be better as evidence detail under sacred_exchange
+    or divine_intervention.
+  suggested_aliases:
+  - prayer_for_replacement_game
+  - petition_after_loss_of_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-for-restoration-to-divine-favor
+  motif_id: prayer_for_restoration_to_divine_favor
+  label: Prayer for restoration to divine favor
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: Prayer seeking restored favor fits ritual repair of relationship with
+    sacred powers through petition and reciprocity.
+  cautions: If the passage emphasizes guilt, punishment, or absolution, divine_judgment
+    or sacrifice may be useful secondary mappings.
+  suggested_aliases:
+  - petition_for_restored_divine_favor
+  - prayer_to_regain_divine_favor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-for-supernatural-wayfinding
+  motif_id: prayer_for_supernatural_wayfinding
+  label: Prayer for supernatural wayfinding
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif asks sacred powers to guide travel or orientation, matching
+    divine guidance in human affairs.
+  cautions: If the passage is primarily a journey ordeal, hero_journey may also apply;
+    if it is a formal ritual prayer, sacred_exchange is a secondary fit.
+  suggested_aliases:
+  - prayer_for_divine_wayfinding
+  - supernatural_guidance_in_travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-from-earth-to-supreme-ruler-above
+  motif_id: prayer_from_earth_to_supreme_ruler_above
+  label: prayer from earth to supreme ruler above
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The invoked being is framed as an above-dwelling supreme ruler, aligning
+    with cosmic sovereignty.
+  cautions: The prayer act itself could fit sacred_exchange; avoid inferring a full
+    supreme-ruler theology without source context.
+  suggested_aliases:
+  - earth_to_sky_supreme_ruler_prayer
+  - prayer_to_supreme_ruler_above
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-gesture-directed-toward-invoked-being
+  motif_id: prayer_gesture_directed_toward_invoked_being
+  label: Prayer gesture directed toward invoked being
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This is a ritual gesture detail, but the broader motif depends on the
+    invoked being and ritual function.
+  cautions: May be too granular for pattern queries unless similar prayer-gesture
+    labels recur; possible placement under sacred_exchange if retained.
+  suggested_aliases:
+  - directed_prayer_gesture
+  - gesture_toward_invoked_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-gesture-with-outstretched-hands
+  motif_id: prayer_gesture_with_outstretched_hands
+  label: prayer gesture with outstretched hands
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Outstretched hands are a specific ritual posture, not enough by itself
+    to identify a stable symbolic motif.
+  cautions: Preserve as evidence detail if posture is ritually significant; map to
+    sacred_exchange only if the passage centers on petitionary ritual rather than
+    posture description.
+  suggested_aliases:
+  - outstretched_hands_in_prayer
+  - prayer_posture_with_outstretched_hands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-guided-weapon-in-night-combat
+  motif_id: prayer_guided_weapon_in_night_combat
+  label: prayer-guided weapon in night combat
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon guided through prayer in combat fits divinely aided sacred warfare.
+  cautions: Could also map to sacred_treasures if the weapon itself is supernatural;
+    night-combat detail is likely episode-specific.
+  suggested_aliases:
+  - prayer_guided_weapon
+  - divinely_guided_weapon_in_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prayer-induced-rain-gives-tactical-advantage-in-battle
+  motif_id: prayer_induced_rain_gives_tactical_advantage_in_battle
+  label: Prayer-induced rain gives tactical advantage in battle
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rain obtained through prayer affects battle outcome, fitting divine aid
+    in sacred combat.
+  cautions: Also relates to sacred_exchange as rain prayer and sacred_waters as water
+    power; choose divine_warrior only if the tactical battle function is central.
+  suggested_aliases:
+  - prayer_induced_battle_rain
+  - rain_prayer_aids_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'Several labels are prayer-centered but differ by function: petitionary exchange,
+  divine guidance, divination, cosmic sovereignty, or battle aid. Avoid creating a
+  generic prayer motif unless review shows recurring prayer-form labels across traditions.'
+- Single-occurrence ritual posture labels should remain provisional and may be evidence
+  details rather than Pattern Explorer motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0961
+  input_sha256: 57720daa6eca29a6faf1c40490a93cf94ee26f12f56276260cf4b283afefc14a
+

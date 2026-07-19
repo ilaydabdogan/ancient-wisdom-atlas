@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0092
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dangerous-mountain-route-or-way-of-death
+  motif_id: dangerous_mountain_route_or_way_of_death
+  label: Dangerous mountain route or way of death
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: A perilous route explicitly framed as a way of death fits mapped postmortem
+    or death-adjacent passage through a dangerous landscape.
+  cautions: If the mountain is primarily a sacred center or ascent site rather than
+    a death route, axis_mundi or ascent may be better; single occurrence needs source
+    check.
+  suggested_aliases:
+  - perilous_way_of_death
+  - dangerous_mountain_death_route
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-potency-of-the-dead-requiring-penance
+  motif_id: dangerous_potency_of_the_dead_requiring_penance
+  label: Dangerous potency of the dead requiring penance
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on ritual danger from the dead and a required corrective
+    act, aligning with purity/prohibition and penance logic under sacred law.
+  cautions: Could also belong with ancestor_rites or restless_dead_haunting_vengeance
+    if the dead are active agents; culturally specific penance terminology should
+    be reviewed.
+  suggested_aliases:
+  - mortuary_danger_requiring_penance
+  - dangerous_dead_potency_requires_ritual_repair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-return-versus-death-in-strange-land
+  motif_id: dangerous_return_versus_death_in_strange_land
+  label: Dangerous return versus death in strange land
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as a contextual dilemma involving return, danger, and
+    death away from home rather than a clearly defined motif.
+  cautions: May fit hero_journey return, death_by_fate, exile/wandering, or be a passage-specific
+    plot summary; source evidence is needed before mapping.
+  suggested_aliases:
+  - perilous_return_or_death_abroad
+  - death_in_strange_land_versus_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-returning-dead-who-take-the-living
+  motif_id: dangerous_returning_dead_who_take_the_living
+  label: Dangerous returning dead who take the living
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: high
+  rationale: Returning dead who threaten or abduct the living are active unresolved
+    dead, matching the haunting/vengeance group.
+  cautions: If the emphasis is mortuary taboo or ancestor appeasement rather than
+    predatory return, ancestor_rites or sacred_law may be secondary.
+  suggested_aliases:
+  - returning_dead_take_the_living
+  - dangerous_dead_abduct_the_living
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-river-descent-by-controlled-canoe-passage
+  motif_id: dangerous_river_descent_by_controlled_canoe_passage
+  label: dangerous river descent by controlled canoe passage
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: A perilous canoe descent through a river foregrounds water as boundary
+    and medium of controlled passage.
+  cautions: If the passage is explicitly into the underworld or afterlife, descent
+    or afterlife_passage may be better primary mappings; canoe detail may be over-specific.
+  suggested_aliases:
+  - dangerous_canoe_river_passage
+  - controlled_descent_by_canoe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-spirit-beings-with-harmful-objects
+  motif_id: dangerous_spirit_beings_with_harmful_objects
+  label: dangerous spirit beings with harmful objects
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines spirit beings and harmful objects but does not specify
+    narrative function, ritual context, or death relation.
+  cautions: Could fit threshold_guardian, sacred_treasures, divine_intervention, trickster,
+    or a local spirit-danger motif; avoid flattening culturally specific beings without
+    context.
+  suggested_aliases:
+  - harmful_objects_carried_by_spirit_beings
+  - dangerous_spirits_with_weapons_or_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-spirit-of-the-newly-dead
+  motif_id: dangerous_spirit_of_the_newly_dead
+  label: dangerous spirit of the newly dead
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: medium
+  rationale: A newly dead spirit posing danger belongs to active postmortem agency
+    and haunting risk.
+  cautions: If the source focuses on funerary precautions or ritual care, ancestor_rites
+    or sacred_law may be better; newly dead status should be preserved as evidence
+    detail.
+  suggested_aliases:
+  - newly_dead_spirit_danger
+  - dangerous_recent_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-spirit-overcome-by-ordinary-object
+  motif_id: dangerous_spirit_overcome_by_ordinary_object
+  label: dangerous spirit overcome by ordinary object
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Use of an object to neutralize a dangerous spirit resembles apotropaic
+    protection, currently folded under sacred_law.
+  cautions: The ordinary-object detail may be a local episode rather than ritual law;
+    if the object is a power object, sacred_treasures may be relevant. Needs source
+    review.
+  suggested_aliases:
+  - ordinary_object_neutralizes_dangerous_spirit
+  - apotropaic_ordinary_object_against_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-spirit-summoned-by-song-and-animal-arrival
+  motif_id: dangerous_spirit_summoned_by_song_and_animal_arrival
+  label: Dangerous spirit summoned by song and animal arrival
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The summoning function of song is the clearest motif element, aligning
+    with sound or music as supernatural power.
+  cautions: Animal arrival and dangerous spirit agency may indicate ritual performance,
+    spirit encounter, or hunting context; source review should confirm whether song
+    is central.
+  suggested_aliases:
+  - song_summons_dangerous_spirit
+  - spirit_summoned_by_song_with_animal_arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dangerous-stranger-corpse-neutralized-by-sea-or-fire
+  motif_id: dangerous_stranger_corpse_neutralized_by_sea_or_fire
+  label: Dangerous stranger corpse neutralized by sea or fire
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Neutralizing corpse danger through elemental treatment fits mortuary
+    taboo, purification, and apotropaic regulation under sacred law.
+  cautions: Could also touch sacred_fire or sacred_waters if the element has independent
+    sacred function; stranger-corpse specificity may be an ethnographic detail.
+  suggested_aliases:
+  - corpse_danger_neutralized_by_sea_or_fire
+  - ritual_neutralization_of_dangerous_corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence labels from death/descent buckets and should remain
+  provisional until passage evidence confirms whether they are motifs, ritual rules,
+  or contextual summaries.
+- Several labels involving dangerous spirits or the newly dead may overlap between
+  restless_dead_haunting_vengeance, ancestor_rites, and sacred_law; choose based on
+  whether agency, ritual care, or prohibition is primary.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy rewrite performed.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0092
+  input_sha256: 6abfc4236ec5781c69d54f63b5135602e1de93877b49dc93818796c74f904753
+

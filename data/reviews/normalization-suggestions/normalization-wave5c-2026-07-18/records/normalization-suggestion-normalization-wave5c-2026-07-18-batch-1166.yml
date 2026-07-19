@@ -1,0 +1,301 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1166
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sea-goddess
+  motif_id: sea_goddess
+  label: Sea goddess
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A sea goddess is a divine agent or role in a natural domain, best parked
+    under divine agency when no specific sea-deity group exists.
+  cautions: Label is deity-type rather than narrative motif; if only a named figure
+    without action, consider excluding from pattern queries or preserving as entity
+    metadata.
+  suggested_aliases:
+  - marine_goddess
+  - sea_deity
+  - divine_power_of_the_sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-pasture-horse-capture-with-ritual-like-implements
+  motif_id: sea_pasture_horse_capture_with_ritual_like_implements
+  label: sea-pasture horse capture with ritual-like implements
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a local animal-capture scene, marine setting, and
+    possible ritual implements without enough evidence for a stable group placement.
+  cautions: May be an over-specific ethnographic or passage artifact; culturally specific
+    ritual context should be reviewed before mapping to sacred_waters, sacred_law,
+    sacrifice, or animal-helper patterns.
+  suggested_aliases:
+  - ritualized_capture_of_sea_horse
+  - sea_pasture_horse_capture
+  - ritual_implements_in_animal_capture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seasonal-feast-and-public-explanation-of-a-ritual-object
+  motif_id: seasonal_feast_and_public_explanation_of_a_ritual_object
+  label: seasonal feast and public explanation of a ritual object
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A feast tied to seasonally ordered explanation of a ritual object fits
+    sacred calendar and ritual-cycle organization.
+  cautions: Could also involve sacred_knowledge or sacred_treasures if the public
+    explanation or object is the primary function; single occurrence may be too contextual.
+  suggested_aliases:
+  - seasonal_ritual_feast
+  - public_explanation_of_ritual_object
+  - seasonal_feast_with_sacred_instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seasonal-hunting-food-taboo
+  motif_id: seasonal_hunting_food_taboo
+  label: seasonal hunting food taboo
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A food taboo governing hunting practice fits sacred law, ritual prohibition,
+    and purity regulation.
+  cautions: Seasonal timing may justify secondary sacred_time indexing; review source
+    context for animal-spirit reciprocity or hunting-specific ritual obligations.
+  suggested_aliases:
+  - hunting_food_taboo
+  - seasonal_food_prohibition
+  - seasonal_hunting_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seasonal-killing-of-harmful-creatures-in-cleansing-rite
+  motif_id: seasonal_killing_of_harmful_creatures_in_cleansing_rite
+  label: seasonal killing of harmful creatures in cleansing rite
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The cleansing rite and removal of harmful beings aligns with ritual expulsion
+    and purification already folded under sacrifice.
+  cautions: Because the act is seasonal and Zoroastrian purity-specific, sacred_time
+    or sacred_law may be important secondary mappings; avoid treating all killing
+    as sacrifice without ritual evidence.
+  suggested_aliases:
+  - seasonal_cleansing_by_killing_harmful_creatures
+  - ritual_killing_of_harmful_creatures
+  - seasonal_purification_against_harmful_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seasonal-plant-marker-for-ritual-timing
+  motif_id: seasonal_plant_marker_for_ritual_timing
+  label: Seasonal plant marker for ritual timing
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: A plant functioning as a marker for when rites occur is a clear ritual-calendar
+    or sacred-time pattern.
+  cautions: If the plant itself is sacred or ritually powerful, sacred_substance or
+    sacred_law may be secondary; preserve the plant detail as local evidence.
+  suggested_aliases:
+  - plant_marker_for_ritual_calendar
+  - botanical_ritual_timing_marker
+  - seasonal_plant_ritual_calendar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seasonal-taboo-on-telling-legends-about-dangerous-beings
+  motif_id: seasonal_taboo_on_telling_legends_about_dangerous_beings
+  label: seasonal taboo on telling legends about dangerous beings
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sacred narration, seasonal restriction, taboo, and
+    dangerous beings; placement depends on whether the key function is law, sacred
+    time, or storytelling power.
+  cautions: Culturally sensitive oral-tradition protocol; do not flatten into generic
+    taboo without source review. Could map to sacred_law, sacred_time, or storytelling_as_power.
+  suggested_aliases:
+  - seasonal_storytelling_taboo
+  - taboo_on_narrating_dangerous_beings
+  - seasonally_restricted_dangerous_being_legends
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seasonally-restricted-sacred-narration
+  motif_id: seasonally_restricted_sacred_narration
+  label: seasonally restricted sacred narration
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred narration restricted to a season is primarily a calendrical regulation
+    of ritual speech.
+  cautions: Also relates to storytelling_as_power and sacred_law; Indigenous oral
+    protocol should be reviewed carefully before broad indexing.
+  suggested_aliases:
+  - seasonal_sacred_storytelling
+  - seasonally_restricted_ritual_narration
+  - sacred_narration_by_season
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seated-divine-images-on-weaving-instruments
+  motif_id: seated_divine_images_on_weaving_instruments
+  label: Seated divine images on weaving instruments
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Divine images on craft tools point most closely to sacralized craft or
+    manufactured sacred imagery.
+  cautions: May be iconographic artifact rather than narrative motif; if the weaving
+    instrument has no action or ritual function, consider excluding from pattern queries
+    or retaining as evidence detail.
+  suggested_aliases:
+  - divine_images_on_weaving_tools
+  - sacralized_weaving_instruments
+  - weaving_tools_bearing_divine_images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.secluded-sacred-bathing-place-violated
+  motif_id: secluded_sacred_bathing_place_violated
+  label: Secluded sacred bathing place violated
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred bathing place centers on water as ritually charged space, with
+    violation implying purity or boundary breach.
+  cautions: Could also map to sacred_law if taboo violation is primary, or divine_judgment
+    if punishment follows; preserve secluded-place detail as context.
+  suggested_aliases:
+  - violation_of_sacred_bathing_place
+  - sacred_bathing_taboo_broken
+  - polluted_sacred_bath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and ritual-protocol sensitive; recommendations
+  are provisional and should be checked against passage evidence.
+- Seasonal narration and Indigenous storytelling restrictions should not be generalized
+  without human review of local source context.
+- Person/deity-type labels such as sea_goddess may be entity metadata rather than
+  motifs unless the passage includes a recurring narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft placement suggestions only; human taxonomy review recommended for culturally
+    specific ritual labels and possible passage artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1166
+  input_sha256: d8e8a0bd0442bfdbef4b1f4c34a2c152fb3c227a29e78c667fad5613240a2ffb
+

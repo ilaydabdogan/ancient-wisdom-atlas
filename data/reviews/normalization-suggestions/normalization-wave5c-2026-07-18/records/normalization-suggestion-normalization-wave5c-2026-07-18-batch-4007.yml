@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4007
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.supreme-being-as-owner-of-stock-and-property
+  motif_id: supreme_being_as_owner_of_stock_and_property
+  label: Supreme being as owner of stock and property
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: low
+  rationale: The label frames a supreme being as ultimate owner or sovereign over
+    property, which may fit cosmic sovereignty.
+  cautions: Single occurrence and culturally specific; may be an ethnographic/legal
+    belief detail rather than a reusable motif. Review source evidence before mapping.
+  suggested_aliases:
+  - divine_ownership_of_property
+  - supreme_being_as_owner_of_livestock
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supreme-creator-with-solar-residence
+  motif_id: supreme_creator_with_solar_residence
+  label: supreme creator with solar residence
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A supreme creator associated with a solar dwelling fits cosmic sovereignty
+    with related solar/divine-light imagery.
+  cautions: If the passage emphasizes creation mechanics, use cosmic_origin secondarily;
+    if it emphasizes sun symbolism, sacred_fire may be relevant.
+  suggested_aliases:
+  - solar_residence_of_supreme_creator
+  - sun_dwelling_supreme_creator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supreme-figure-established-by-ranked-analogies
+  motif_id: supreme_figure_established_by_ranked_analogies
+  label: supreme figure established by ranked analogies
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes an argumentative or rhetorical method for establishing
+    supremacy, not a narrative motif.
+  cautions: If source evidence shows a recurring cosmological hierarchy rather than
+    commentary, reconsider under supreme_ruler or sacred_knowledge.
+  suggested_aliases:
+  - ranked_analogies_establish_supremacy
+  - supremacy_by_hierarchical_comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supreme-healer-and-physician
+  motif_id: supreme_healer_and_physician
+  label: Supreme healer and physician
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A supreme or sacred figure acting as healer fits divine intervention
+    in human suffering and restoration.
+  cautions: If metaphorical for teaching or liberation from suffering, sacred_knowledge
+    or mystical_quest may be better than literal healing.
+  suggested_aliases:
+  - divine_physician
+  - sacred_healer
+  - supreme_healing_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.supreme-weather-and-thunder-deity
+  motif_id: supreme_weather_and_thunder_deity
+  label: supreme weather and thunder deity
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: medium
+  rationale: A high weather/thunder deity can be indexed as a supreme cosmic ruler
+    when supremacy is explicit.
+  cautions: Weather or thunder alone would not imply sovereignty; source should confirm
+    supreme status or cosmic rulership.
+  suggested_aliases:
+  - supreme_thunder_deity
+  - high_weather_god
+  - sky_thunder_ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.surety-pledge-for-a-vulnerable-kin-member
+  motif_id: surety_pledge_for_a_vulnerable_kin_member
+  label: Surety pledge for a vulnerable kin member
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A surety pledge is a binding promise or obligation, especially when made
+    for kin protection.
+  cautions: Could be a passage-specific legal/family detail unless the pledge drives
+    sacred obligation or moral testing.
+  suggested_aliases:
+  - pledge_of_surety_for_kin
+  - protective_surety_pledge
+  - kinship_surety_oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.surgical-healing-followed-by-restoration-of-health
+  motif_id: surgical_healing_followed_by_restoration_of_health
+  label: surgical healing followed by restoration of health
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Healing and restored health may fit divine intervention if sacred or
+    miraculous agency is present.
+  cautions: The label may describe ordinary medical action rather than a mythic motif;
+    verify supernatural, ritual, or exemplary function before indexing.
+  suggested_aliases:
+  - healing_surgery_and_recovery
+  - restoration_of_health_after_surgery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.surprise-assault-on-an-undefended-settlement
+  motif_id: surprise_assault_on_an_undefended_settlement
+  label: surprise assault on an undefended settlement
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A surprise attack on a settlement is a warfare episode fitting the broad
+    sacred_combat group.
+  cautions: May be a historical or episode-specific battle detail if no ritual, mythic,
+    or socially structuring function is evident.
+  suggested_aliases:
+  - surprise_attack_on_undefended_settlement
+  - raid_on_unprotected_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.surrender-under-promise-followed-by-killing
+  motif_id: surrender_under_promise_followed_by_killing
+  label: surrender under promise followed by killing
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: Killing after promised safety centers on violated trust and betrayal
+    of a protective agreement.
+  cautions: May also support sacred_combat or covenant depending on whether the promise
+    is a formal oath, treaty, or battlefield ruse.
+  suggested_aliases:
+  - promised_surrender_betrayed_by_killing
+  - safe_conduct_betrayal
+  - killing_after_surrender_promise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survival-by-concealment-in-domestic-objects-and-storage-spaces
+  motif_id: survival_by_concealment_in_domestic_objects_and_storage_spaces
+  label: survival by concealment in domestic objects and storage spaces
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: low
+  rationale: Concealment inside objects or storage spaces may function like protective
+    containment or refuge.
+  cautions: Domestic hiding may be a plot detail rather than a sacred vessel motif;
+    if pursuit/refuge is central, a future refuge/concealment grouping may be preferable.
+  suggested_aliases:
+  - survival_by_hiding_in_storage_spaces
+  - concealment_in_domestic_containers
+  - hidden_refuge_in_household_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional; several single-occurrence labels may be contextual
+  details rather than durable motif categories.
+- For deity-role labels, distinguish cosmic sovereignty from mere divine attribute
+  or local cult description.
+- For combat labels, avoid treating historical raid details as motif evidence unless
+  the episode has mythic, ritual, or structural function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch reviewed for provisional placement only; human source review recommended
+    for low-confidence and culturally specific items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4007
+  input_sha256: bc957107f373563322111326cefe6a71a864fd74dd1d1e103a5d835b32a56290
+

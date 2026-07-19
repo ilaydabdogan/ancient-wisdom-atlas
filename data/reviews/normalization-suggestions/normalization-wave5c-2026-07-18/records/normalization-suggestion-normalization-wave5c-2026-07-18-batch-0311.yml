@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0311
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.protective-burial-in-the-house
+  motif_id: protective_burial_in_the_house
+  label: protective burial in the house
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: low
+  rationale: House burial may function as protective mortuary care linking the living
+    and dead, but the label lacks enough context.
+  cautions: Could instead be domestic ancestor veneration, apotropaic protection,
+    local burial practice, or an over-specific ethnographic detail; single occurrence.
+  suggested_aliases:
+  - domestic_protective_burial
+  - house_burial_as_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-burial-of-cut-hair-and-taboo-on-burning-it
+  motif_id: protective_burial_of_cut_hair_and_taboo_on_burning_it
+  label: protective burial of cut hair and taboo on burning it
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a taboo and protective handling rule for a bodily
+    substance, fitting sacred law and apotropaic practice.
+  cautions: Hair may also function as a life-token or soul substance; consider external_soul
+    if the passage says damage to hair affects life or soul directly.
+  suggested_aliases:
+  - hair_disposal_taboo
+  - protective_hair_burial
+  - taboo_on_burning_cut_hair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-charm-against-a-presumed-victim-s-spirit
+  motif_id: protective_charm_against_a_presumed_victim_s_spirit
+  label: Protective charm against a presumed victim's spirit
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A charm used to avert a dangerous spirit fits apotropaic protection already
+    folded under sacred_law.
+  cautions: If the victim's spirit actively returns for vengeance, restless_dead_haunting_vengeance
+    may be a secondary placement; single occurrence.
+  suggested_aliases:
+  - apotropaic_charm_against_victim_spirit
+  - charm_against_vengeful_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-charm-against-spirit-in-food
+  motif_id: protective_charm_against_spirit_in_food
+  label: Protective charm against spirit in food
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: This is an apotropaic food-related protection rule against spirit danger,
+    matching sacred_law's spirit-contagion and taboo scope.
+  cautions: Could also relate to sacred_substance if food itself is ritually transformative;
+    comparative label may be an abstracted folklore note.
+  suggested_aliases:
+  - food_spirit_protective_charm
+  - apotropaic_charm_against_spirit_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-charm-received-from-spirit-riders
+  motif_id: protective_charm_received_from_spirit_riders
+  label: protective charm received from spirit riders
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A protective charm received from spirits functions as a power object
+    or sacred treasure conferring protection.
+  cautions: May also involve divine_intervention if the spirit gift is the main event;
+    culturally specific spirit-rider context should be reviewed.
+  suggested_aliases:
+  - spirit_given_protective_charm
+  - protective_power_object_from_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-communal-sweatlodge-against-disease-and-child-mortality
+  motif_id: protective_communal_sweatlodge_against_disease_and_child_mortality
+  label: protective communal sweatlodge against disease and child mortality
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A communal protective rite against disease and mortality fits apotropaic
+    protection and ritual purity under sacred_law.
+  cautions: Could overlap with sacrifice or ritual_expulsion if disease is ritually
+    transferred or expelled; sweatlodge specificity should remain evidence detail.
+  suggested_aliases:
+  - communal_protective_sweatlodge
+  - sweatlodge_against_disease_and_child_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-concealment-and-new-identity-after-return-from-death
+  motif_id: protective_concealment_and_new_identity_after_return_from_death
+  label: protective concealment and new identity after return from death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Return from death followed by changed identity fits death-and-transformation
+    more than simple concealment.
+  cautions: If the emphasis is disguise or recognition rather than postmortem return,
+    shapeshifter or recognition_tokens_hidden_identity may be secondary; single episode
+    may be too specific.
+  suggested_aliases:
+  - new_identity_after_return_from_death
+  - concealed_returned_dead_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-dead-or-guardian-spirits-dependent-on-reverence
+  motif_id: protective_dead_or_guardian_spirits_dependent_on_reverence
+  label: protective dead or guardian spirits dependent on reverence
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Protective dead spirits whose aid depends on reverence fits ritual maintenance
+    of relations with the dead.
+  cautions: If the figures are not dead ancestors but tutelary spirits, divine_intervention
+    may be better; Zoroastrian doctrinal specifics need review.
+  suggested_aliases:
+  - revered_dead_as_protective_spirits
+  - guardian_dead_dependent_on_reverence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-elemental-and-creature-spirits-maintaining-cosmic-defense
+  motif_id: protective_elemental_and_creature_spirits_maintaining_cosmic_defense
+  label: Protective elemental and creature spirits maintaining cosmic defense
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Protective spirits acting in cosmic defense are sacred agents intervening
+    to maintain order.
+  cautions: Could also fit duality or divine_warrior if the passage emphasizes cosmic
+    opposition or battle; label is doctrinally contextual.
+  suggested_aliases:
+  - protective_spirits_maintaining_cosmic_order
+  - elemental_spirits_as_cosmic_defenders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protective-fire-against-spirits
+  motif_id: protective_fire_against_spirits
+  label: protective fire against spirits
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Fire used as protection against spirits fits sacred_fire as purifying
+    or apotropaic divine force.
+  cautions: If the emphasis is a rule or charm rather than fire symbolism, sacred_law/apotropaic
+    protection may be a secondary placement; single occurrence.
+  suggested_aliases:
+  - apotropaic_fire_against_spirits
+  - spirit_repelling_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence protective or apotropaic practices
+  involving spirits, bodily substances, disease, or burial. Existing sacred_law, ancestor_rites,
+  sacred_treasures, sacred_fire, and divine_intervention groups can hold most without
+  creating new groups.
+- Review culturally specific ritual terms and avoid promoting over-specific ethnographic
+  details unless they recur across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for whether
+    protection is mortuary, ancestor-related, apotropaic, spirit-agency, or power-object
+    focused.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0311
+  input_sha256: 9c11ef035e02ca58a181df403910d6b4e58f58c9eda3850cd77c6bc85d679ae4
+

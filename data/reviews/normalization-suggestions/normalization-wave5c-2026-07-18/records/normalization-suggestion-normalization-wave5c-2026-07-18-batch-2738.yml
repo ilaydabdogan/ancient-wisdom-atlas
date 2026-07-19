@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2738
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.killer-slain-with-the-same-weapon-used-in-the-earlier-killing
+  motif_id: killer_slain_with_the_same_weapon_used_in_the_earlier_killing
+  label: killer slain with the same weapon used in the earlier killing
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The killer's death by the same weapon suggests retaliatory reversal or
+    moral reckoning, close to weapon-reversal judgment motifs already grouped under
+    divine_judgment.
+  cautions: Single occurrence; if the scene is only combat technique without moral
+    reciprocity, sacred_combat may be a better secondary placement.
+  suggested_aliases:
+  - same_weapon_retributive_killing
+  - killer_killed_by_the_victims_weapon
+  - weapon_reversal_as_retribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.killer-uses-victim-s-own-weapons
+  motif_id: killer_uses_victim_s_own_weapons
+  label: killer uses victim's own weapons
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Using an opponent's weapons is a granular combat stratagem or reversal
+    best parked under sacred_combat rather than promoted.
+  cautions: Could imply divine_judgment if framed as moral reversal; otherwise it
+    may be an episode-specific battle detail.
+  suggested_aliases:
+  - slaying_with_victim_s_own_weapon
+  - enemy_weapon_turned_against_owner
+  - appropriated_weapon_in_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.killing-a-concealed-enemy-by-stabbing-through-a-covering
+  motif_id: killing_a_concealed_enemy_by_stabbing_through_a_covering
+  label: Killing a concealed enemy by stabbing through a covering
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a specific killing tactic in conflict, fitting sacred_combat
+    only as granular evidence.
+  cautions: Likely too tactical and single-occurrence for broad motif queries unless
+    concealment, ambush, or hidden enemy killing recurs across sources.
+  suggested_aliases:
+  - concealed_enemy_stabbed_through_covering
+  - hidden_enemy_killed_through_screen
+  - ambush_killing_through_cover
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.killing-a-potential-helper-diminishes-the-heroes-strength
+  motif_id: killing_a_potential_helper_diminishes_the_heroes_strength
+  label: killing a potential helper diminishes the heroes' strength
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: low
+  rationale: Loss or killing of a helper affecting heroic power belongs near heroic
+    combat strength and war-band capacity.
+  cautions: Ambiguous without context; may instead be divine_intervention, sacred_exchange,
+    or a passage-specific plot consequence if the helper has supernatural or reciprocal
+    status.
+  suggested_aliases:
+  - slain_helper_diminishes_heroic_strength
+  - loss_of_potential_ally_weakens_heroes
+  - helper_killed_causing_loss_of_strength
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-conflict-framed-as-contest-of-orenda
+  motif_id: kin_conflict_framed_as_contest_of_orenda
+  label: Kin conflict framed as contest of orenda
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kin conflict with a culturally specific sacred-power
+    concept that needs source-sensitive review.
+  cautions: Do not flatten orenda into generic combat power without cultural and passage
+    evidence; could relate to sacred_combat, sacred_knowledge, or divine_intervention.
+  suggested_aliases:
+  - kin_rivalry_as_orenda_contest
+  - orenda_contest_between_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-faction-rivalry-within-a-heroic-company
+  motif_id: kin_faction_rivalry_within_a_heroic_company
+  label: kin-faction rivalry within a heroic company
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Factional rivalry inside a heroic war-band is a conflict structure within
+    heroic combat tradition.
+  cautions: If the passage emphasizes broken bonds, betrayal_violated_trust or covenant
+    may be relevant; if it is merely social background, keep as evidence detail.
+  suggested_aliases:
+  - heroic_company_kin_faction_rivalry
+  - intra_band_kin_rivalry
+  - warband_factional_kin_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-killing-within-a-revenge-plot
+  motif_id: kin_killing_within_a_revenge_plot
+  label: Kin-killing within a revenge plot
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Revenge killing among kin is a vengeance-feud combat pattern, close to
+    sacred_combat aliases for ancestral feud and vengeance.
+  cautions: Could also involve betrayal_violated_trust or divine_judgment if the narrative
+    centers on broken kin obligation or retributive justice.
+  suggested_aliases:
+  - kin_slaying_in_revenge_plot
+  - revenge_feud_kin_killing
+  - kinsman_killed_in_vengeance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-linked-war-leader-sponsors-feast-before-vengeance
+  motif_id: kin_linked_war_leader_sponsors_feast_before_vengeance
+  label: Kin-linked war leader sponsors feast before vengeance
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes kinship, leadership, feasting, and vengeance; the dominant
+    motif depends on passage function.
+  cautions: Could fit sacred_combat, sacred_exchange, betrayal_violated_trust, or
+    a local ritual-war practice; avoid mapping from the composite wording alone.
+  suggested_aliases:
+  - vengeance_feast_sponsored_by_war_leader
+  - feast_before_kin_vengeance
+  - war_leader_feast_before_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-mediated-negotiation-across-enemy-lines
+  motif_id: kin_mediated_negotiation_across_enemy_lines
+  label: Kin-mediated negotiation across enemy lines
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: low
+  rationale: Negotiation across hostility through kinship concerns binding social
+    relations, mediation, and repair more than combat itself.
+  cautions: Needs context to confirm sacred or socially binding function; if it is
+    tactical diplomacy only, it may be too contextual for motif queries.
+  suggested_aliases:
+  - kinship_mediation_across_enemy_lines
+  - kinsman_negotiates_between_enemies
+  - kin_based_peacemaking_in_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-member-coming-on-the-warpath
+  motif_id: kin_member_coming_on_the_warpath
+  label: Kin member coming on the warpath
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The phrase reads as a passage-specific arrival or role detail rather
+    than a reusable symbolic or narrative motif.
+  cautions: If source evidence shows a recurring kin-avenger or warpath summons pattern,
+    reconsider under sacred_combat or covenant; otherwise preserve only as local evidence.
+  suggested_aliases:
+  - kinsman_comes_on_warpath
+  - kin_avenger_arrives_for_war
+  - relative_joins_warpath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence conflict labels; several should remain
+  granular evidence under sacred_combat rather than become canonical motifs.
+- Culturally specific concepts such as orenda and local warpath/vengeance practices
+  need human review before broad cross-tradition normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2738
+  input_sha256: b8a615d78f620c1225134a95f62af7ca25ad7c3b10c308b94cd0898a6a28382e
+

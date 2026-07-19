@@ -1,0 +1,343 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3660
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mask_or-costume-encumbrance-in-a-hunt
+  motif_id: mask_or_costume_encumbrance_in_a_hunt
+  label: mask or costume encumbrance in a hunt
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a ritual disguise, comic episode, hunting practical
+    detail, or passage-specific encumbrance; function is unclear.
+  cautions: Single occurrence and culturally specific Hopi context require source
+    review before mapping to trickster, shapeshifter, or ritual performance.
+  suggested_aliases:
+  - hunting_mask_encumbrance
+  - costume_encumbrance_during_hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.masked-attendants-accompanying-a-dance-line
+  motif_id: masked_attendants_accompanying_a_dance_line
+  label: masked attendants accompanying a dance line
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This appears to be ritual dance organization rather than a clearly symbolic
+    narrative motif.
+  cautions: Culturally specific ceremonial detail; avoid flattening into generic shapeshifting
+    or performance without evidence of mythic function.
+  suggested_aliases:
+  - masked_dance_attendants
+  - masked_attendants_in_ritual_dance
+  suggested_new_group:
+    id: ritual_masking_and_ceremonial_personae
+    label: Ritual Masking and Ceremonial Personae
+    description: Masked dancers, attendants, ceremonial personae, or ritual impersonators
+      whose masking mediates sacred presence, social instruction, healing, fear, comedy,
+      or community ritual order.
+    parent_group_ids:
+    - theophany
+    - shapeshifter
+    - sacred_law
+    related_group_ids:
+    - trickster
+    - sacred_exchange
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing groups cover shapeshifting, theophany,
+      and sacred law, but do not cleanly hold recurring ritual masking as embodied
+      ceremonial persona rather than literal transformation.
+- suggestion_id: normalization.suggestion.masked-beings-or-maskers-both-frighten-and-heal
+  motif_id: masked_beings_or_maskers_both_frighten_and_heal
+  label: masked beings or maskers both frighten and heal
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The frighten-and-heal function suggests ambivalent ritual or spirit agency,
+    but the masking context needs careful review.
+  cautions: Potentially culturally sensitive ceremonial material; do not reduce to
+    monster, trickster, or divine intervention without passage evidence.
+  suggested_aliases:
+  - ambivalent_masked_healers
+  - masked_healing_and_frightening_beings
+  suggested_new_group:
+    id: ritual_masking_and_ceremonial_personae
+    label: Ritual Masking and Ceremonial Personae
+    description: Masked dancers, attendants, ceremonial personae, or ritual impersonators
+      whose masking mediates sacred presence, social instruction, healing, fear, comedy,
+      or community ritual order.
+    parent_group_ids:
+    - theophany
+    - shapeshifter
+    - sacred_law
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    - trickster
+    reason_existing_groups_insufficient: The motif concerns ceremonial masked personae
+      with ambivalent healing and frightening roles, which is not well captured by
+      existing shapeshifter or divine_intervention groups alone.
+- suggestion_id: normalization.suggestion.masked-celestial-beings
+  motif_id: masked_celestial_beings
+  label: masked celestial beings
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Celestial beings may fit theophany or sacred fire/celestial order, while
+    masking suggests ritual persona; source context is needed.
+  cautions: Could refer to represented beings in ceremony rather than narrative divine
+    manifestation; avoid assuming literal theophany.
+  suggested_aliases:
+  - masked_sky_beings
+  - masked_celestial_personae
+  suggested_new_group:
+    id: ritual_masking_and_ceremonial_personae
+    label: Ritual Masking and Ceremonial Personae
+    description: Masked dancers, attendants, ceremonial personae, or ritual impersonators
+      whose masking mediates sacred presence, social instruction, healing, fear, comedy,
+      or community ritual order.
+    parent_group_ids:
+    - theophany
+    - shapeshifter
+    - sacred_law
+    related_group_ids:
+    - sacred_fire
+    - dream_and_vision
+    reason_existing_groups_insufficient: The mask element may be a ritual embodiment
+      rather than a direct manifestation, and existing celestial or theophany groups
+      do not preserve that distinction.
+- suggestion_id: normalization.suggestion.masked-ceremony-with-possible-cultural-transmission-from-the-south
+  motif_id: masked_ceremony_with_possible_cultural_transmission_from_the_south
+  label: Masked ceremony with possible cultural transmission from the south
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label is framed as a transmission or comparative-history claim rather
+    than a motif usable for pattern queries.
+  cautions: Preserve as provenance or scholarly note if evidence is important; do
+    not use normalization placement as evidence for cultural transmission.
+  suggested_aliases:
+  - masked_ceremony_transmission_note
+  - possible_southern_transmission_of_masked_ceremony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.masked-comic-appearance-within-ceremony
+  motif_id: masked_comic_appearance_within_ceremony
+  label: masked comic appearance within ceremony
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Comic masking may relate to trickster or ritual inversion, but the ceremonial
+    function is not clear from the label alone.
+  cautions: Culturally specific ritual comedy should not be collapsed into generic
+    trickster behavior without source evidence.
+  suggested_aliases:
+  - comic_masked_ceremonial_appearance
+  - masked_ritual_comedy
+  suggested_new_group:
+    id: ritual_masking_and_ceremonial_personae
+    label: Ritual Masking and Ceremonial Personae
+    description: Masked dancers, attendants, ceremonial personae, or ritual impersonators
+      whose masking mediates sacred presence, social instruction, healing, fear, comedy,
+      or community ritual order.
+    parent_group_ids:
+    - theophany
+    - shapeshifter
+    - sacred_law
+    related_group_ids:
+    - trickster
+    - storytelling_as_power
+    reason_existing_groups_insufficient: Existing trickster and shapeshifter groups
+      do not specifically distinguish comic masked ritual appearances from narrative
+      deception or bodily transformation.
+- suggestion_id: normalization.suggestion.masked-comic-caricature-within-ceremony
+  motif_id: masked_comic_caricature_within_ceremony
+  label: masked comic caricature within ceremony
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This is close to masked comic ceremony, but caricature may mark a specific
+    social or ritual function requiring evidence review.
+  cautions: May be over-specific or culturally sensitive ceremonial detail; avoid
+    broad pattern indexing until reviewed.
+  suggested_aliases:
+  - masked_ceremonial_caricature
+  - comic_masked_caricature
+  suggested_new_group:
+    id: ritual_masking_and_ceremonial_personae
+    label: Ritual Masking and Ceremonial Personae
+    description: Masked dancers, attendants, ceremonial personae, or ritual impersonators
+      whose masking mediates sacred presence, social instruction, healing, fear, comedy,
+      or community ritual order.
+    parent_group_ids:
+    - theophany
+    - shapeshifter
+    - sacred_law
+    related_group_ids:
+    - trickster
+    - storytelling_as_power
+    reason_existing_groups_insufficient: Existing groups do not preserve ritual masking
+      and ceremonial caricature as a distinct performative function.
+- suggestion_id: normalization.suggestion.masked-dancers-emerging-from-the-forest
+  motif_id: masked_dancers_emerging_from_the_forest
+  label: masked dancers emerging from the forest
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Emergence from forest by masked dancers may indicate otherworld arrival,
+    spirit embodiment, or ceremony staging; function is ambiguous.
+  cautions: Do not map to otherworld or threshold guardian solely from forest emergence;
+    verify whether dancers represent spirits, ancestors, or ritual performers.
+  suggested_aliases:
+  - forest_emergence_of_masked_dancers
+  - masked_forest_dancers
+  suggested_new_group:
+    id: ritual_masking_and_ceremonial_personae
+    label: Ritual Masking and Ceremonial Personae
+    description: Masked dancers, attendants, ceremonial personae, or ritual impersonators
+      whose masking mediates sacred presence, social instruction, healing, fear, comedy,
+      or community ritual order.
+    parent_group_ids:
+    - theophany
+    - shapeshifter
+    - sacred_law
+    related_group_ids:
+    - otherworld
+    - threshold_guardian
+    reason_existing_groups_insufficient: The existing groups can capture otherworld
+      or threshold functions, but not the recurring ritual-masked persona pattern
+      itself.
+- suggestion_id: normalization.suggestion.masked-figure
+  motif_id: masked_figure
+  label: Masked figure
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to determine whether the mask marks ritual persona,
+    disguise, spirit embodiment, or ordinary appearance.
+  cautions: Single broad label; requires passage context before mapping to shapeshifter,
+    trickster, theophany, or ritual masking.
+  suggested_aliases:
+  - masked_persona
+  - masked_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.masked-suitor-identified-as-ball-head
+  motif_id: masked_suitor_identified_as_ball_head
+  label: masked suitor identified as Ball-Head
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines masking, suitor identity, and a named figure; the
+    narrative function is not clear from the label.
+  cautions: May be a local character identification or over-specific episode detail;
+    consider recognition/hidden identity only if the plot turns on disclosure.
+  suggested_aliases:
+  - masked_suitor_revealed
+  - masked_suitor_identity_disclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point toward a recurring ritual masking / ceremonial persona complex,
+  but the Native American ceremonial contexts are culturally sensitive and mostly
+  single-occurrence; human review should decide whether to create a normalization
+  group before broad indexing.
+- Avoid treating masks as shapeshifting, trickster deception, or theophany unless
+  the source evidence establishes that narrative function.
+- Transmission claims should remain outside motif normalization and be handled as
+  provenance or scholarly commentary, not pattern-query evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; ceremonial masking labels need source-aware
+    and culturally careful review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3660
+  input_sha256: 5ddbe0196d2eb518e586996be9aa905e12d5b204138dcfa5e06e7054799a0460
+

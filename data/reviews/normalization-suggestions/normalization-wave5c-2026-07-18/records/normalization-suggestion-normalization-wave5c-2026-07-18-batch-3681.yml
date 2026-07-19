@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3681
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.misconduct-causes-loss-of-lay-faith-and-support
+  motif_id: misconduct_causes_loss_of_lay_faith_and_support
+  label: misconduct causes loss of lay faith and support
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns violation of religious conduct norms and social loss
+    of support, fitting sacred law and communal order.
+  cautions: Single Buddhist monastic-context occurrence; may be a Vinaya narrative
+    formula rather than a reusable mythic motif.
+  suggested_aliases:
+  - monastic misconduct causes loss of lay support
+  - breach of conduct undermines communal trust
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misconduct-complaint-leads-to-rule
+  motif_id: misconduct_complaint_leads_to_rule
+  label: misconduct complaint leads to rule
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Misconduct followed by complaint and rule formation is a clear sacred-law/social-regulation
+    pattern.
+  cautions: Likely overlaps with several near-duplicate labels in this batch; preserve
+    local monastic context in notes.
+  suggested_aliases:
+  - complaint after misconduct produces a rule
+  - misconduct generates disciplinary rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misconduct-followed-by-complaint-rebuke-and-monastic-rule
+  motif_id: misconduct_followed_by_complaint_rebuke_and_monastic_rule
+  label: Misconduct followed by complaint, rebuke, and monastic rule
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: high
+  rationale: The sequence describes religious discipline and codification of a monastic
+    rule, which belongs under sacred law.
+  cautions: Highly formulaic and passage-specific; may be better treated as an alias
+    cluster rather than an independent motif.
+  suggested_aliases:
+  - misconduct complaint rebuke and rule
+  - monastic misconduct prompts disciplinary rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misconduct-leading-to-a-monastic-rule
+  motif_id: misconduct_leading_to_a_monastic_rule
+  label: Misconduct leading to a monastic rule
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: A monastic rule arising from misconduct is a direct instance of sacred
+    law and religious social regulation.
+  cautions: Review for duplicate consolidation with other misconduct-prompts-rule
+    labels.
+  suggested_aliases:
+  - misconduct gives rise to monastic rule
+  - monastic rule occasioned by misconduct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misconduct-prompting-a-new-rule
+  motif_id: misconduct_prompting_a_new_rule
+  label: Misconduct prompting a new rule
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: The label names the formation of a conduct rule after a transgression,
+    fitting sacred law.
+  cautions: Broad wording lacks explicit sacred or monastic context except tradition
+    metadata; confirm source is disciplinary law rather than ordinary narrative rule-making.
+  suggested_aliases:
+  - transgression prompts new rule
+  - misconduct generates new conduct rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misconduct-prompts-a-rule-of-conduct
+  motif_id: misconduct_prompts_a_rule_of_conduct
+  label: Misconduct prompts a rule of conduct
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Conduct rules responding to misconduct fall within sacred law and ethical-social
+    order.
+  cautions: Near-duplicate of several batch items; should likely be merged at alias
+    level if evidence is the same Vinaya formula.
+  suggested_aliases:
+  - misconduct prompts conduct rule
+  - disciplinary rule follows misconduct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misdirected-blame-for-disaster
+  motif_id: misdirected_blame_for_disaster
+  label: misdirected blame for disaster
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Blame after disaster may involve moral reckoning, false accusation, scapegoating,
+    or human error depending on the passage.
+  cautions: Do not map to divine judgment unless sacred punishment, moral accounting,
+    or false accusation is evident; source context is needed.
+  suggested_aliases:
+  - wrongly assigned blame for catastrophe
+  - false blame after disaster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misdirected-heavy-object-strikes-a-friend
+  motif_id: misdirected_heavy_object_strikes_a_friend
+  label: Misdirected heavy object strikes a friend
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe a specific accident or episode detail rather
+    than a durable symbolic motif.
+  cautions: If source evidence frames the accident as fate, divine punishment, or
+    tragic misrecognition, remap under death_by_fate, divine_judgment, or lament_and_mourning
+    as appropriate.
+  suggested_aliases:
+  - accidental blow strikes a companion
+  - misdirected object injures a friend
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misdirection-by-a-trusted-route-leader
+  motif_id: misdirection_by_a_trusted_route_leader
+  label: misdirection by a trusted route leader
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A trusted guide leading others wrongly centers on violated trust and
+    deceptive guidance.
+  cautions: Could instead be trickster deception, failed navigation, or a journey
+    ordeal if trust betrayal is not central; review culturally specific context.
+  suggested_aliases:
+  - trusted guide misdirects travelers
+  - betrayal by route leader
+  - deceptive guidance on a journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.miser-or-skinflint-as-target-of-folk-tale-hostility
+  motif_id: miser_or_skinflint_as_target_of_folk_tale_hostility
+  label: Miser or skinflint as target of folk-tale hostility
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: The miser as punished or opposed figure aligns with greed, temperance,
+    and moral reckoning already under divine judgment.
+  cautions: Phrase 'folk-tale hostility' may be a classifier/commentary artifact;
+    if no punishment or moral reversal occurs, exclude or review as tale-type metadata.
+  suggested_aliases:
+  - miser punished or opposed
+  - skinflint as moral target
+  - greedy figure targeted in folktale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- The six Buddhist misconduct/rule labels are likely near-duplicates and may be consolidated
+  as aliases under a single sacred_law child or alias such as misconduct_prompts_monastic_rule.
+- Several labels are single-occurrence and formulaic; preserve passage context before
+  promoting any as taxonomy motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    source-context-sensitive and duplicate Buddhist Vinaya labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3681
+  input_sha256: d50f78f8375a8e7b57282f828160c207f224b483e06e04acbe242fe2e8247ae4
+

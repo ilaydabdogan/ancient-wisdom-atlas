@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2278
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.unexpected-rescue-from-snake-by-falling-fruit
+  motif_id: unexpected_rescue_from_snake_by_falling_fruit
+  label: unexpected rescue from snake by falling fruit
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines serpent danger, accidental rescue, and falling fruit,
+    but the narrative function is unclear from wording alone.
+  cautions: Single occurrence and highly specific; could be divine intervention, trickster
+    reversal, serpent danger, or passage-level plot detail.
+  suggested_aliases:
+  - accidental_rescue_from_snake
+  - rescue_from_serpent_by_falling_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - serpent_guardian
+    - divine_intervention
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unfamiliar-domestic-animals-perceived-as-monsters
+  motif_id: unfamiliar_domestic_animals_perceived_as_monsters
+  label: unfamiliar domestic animals perceived as monsters
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may describe an encounter with unfamiliar animals, cultural perception,
+    or contact-era misunderstanding rather than a stable mythic motif.
+  cautions: Could be ethnographic or historical-contact context; avoid normalizing
+    as monster motif without source evidence.
+  suggested_aliases:
+  - unfamiliar_animals_mistaken_for_monsters
+  - domestic_animals_perceived_as_monsters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unfamiliar-rider-or-machine-explained-through-animal-web-image
+  motif_id: unfamiliar_rider_or_machine_explained_through_animal_web_image
+  label: unfamiliar rider or machine explained through animal-web image
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe an interpretive description of unfamiliar
+    technology using animal imagery, not a reusable narrative motif.
+  cautions: If the source passage itself mythologizes the rider or machine as an animal-web
+    being, re-review under shapeshifter or sacred_craft.
+  suggested_aliases:
+  - unfamiliar_machine_explained_by_animal_image
+  - contact_object_described_through_animal_metaphor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unique-food-tree-guarded-by-dangerous-owners-and-a-watch-bird
+  motif_id: unique_food_tree_guarded_by_dangerous_owners_and_a_watch_bird
+  label: unique food tree guarded by dangerous owners and a watch-bird
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A guarded food tree with dangerous owners and a watch-bird centers on
+    protected access to a valuable resource through guardian figures.
+  cautions: Could also involve sacred_tree_axis, sacred_substance, or trickster theft
+    if the passage emphasizes cosmic tree, food power, or stealing the food.
+  suggested_aliases:
+  - guarded_food_tree
+  - watch_bird_guarding_food_tree
+  - dangerous_owners_guard_unique_food_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_tree_axis
+    - sacred_substance
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-transformation-or-metamorphosis-as-origin-principle
+  motif_id: universal_transformation_or_metamorphosis_as_origin_principle
+  label: Universal transformation or metamorphosis as origin principle
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label frames metamorphosis as an origin principle, placing it in
+    creation or world-ordering rather than ordinary shapeshifting.
+  cautions: If the passage focuses on individual form-change rather than origins,
+    shapeshifter or death_and_transformation may be better.
+  suggested_aliases:
+  - metamorphosis_as_origin_principle
+  - transformation_as_creation_principle
+  - world_origin_through_metamorphosis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-adlet-presence-recognized-by-dogs-and-footprints
+  motif_id: unseen_adlet_presence_recognized_by_dogs_and_footprints
+  label: Unseen Adlet presence recognized by dogs and footprints
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies an unseen being through animal perception and traces,
+    but the role of the Adlet is not specified.
+  cautions: Culturally specific being; review source context before mapping to otherworld,
+    threshold guardian, monster threat, or omen.
+  suggested_aliases:
+  - unseen_presence_recognized_by_dogs
+  - supernatural_presence_detected_by_dogs_and_footprints
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - threshold_guardian
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-ferocious-pack-animals-threatening-a-camp
+  motif_id: unseen_ferocious_pack_animals_threatening_a_camp
+  label: Unseen ferocious pack animals threatening a camp
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A threatening unseen animal pack may be an ordeal, monster threat, omen,
+    or local episode detail.
+  cautions: Single occurrence; no existing animal-monster group clearly fits without
+    source evidence about supernatural agency or narrative function.
+  suggested_aliases:
+  - unseen_pack_animals_threaten_camp
+  - invisible_animal_pack_threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - otherworld
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unseen-nocturnal-threat-signaled-by-dogs
+  motif_id: unseen_nocturnal_threat_signaled_by_dogs
+  label: Unseen nocturnal threat signaled by dogs
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Dogs signaling an unseen night threat is a warning-sign pattern, but
+    the nature of the threat is unspecified.
+  cautions: May be a local suspense detail rather than a motif; could overlap with
+    omens, animal helpers, or otherworld threat depending on evidence.
+  suggested_aliases:
+  - dogs_signal_unseen_nocturnal_threat
+  - animal_warning_of_unseen_night_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - divine_intervention
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unsuccessful-youngest-hunter-separated-during-a-mountain-hunt-and-carried-by-an-animal-leader
+  motif_id: unsuccessful_youngest_hunter_separated_during_a_mountain_hunt_and_carried_by_an_animal_leader
+  label: Unsuccessful youngest hunter separated during a mountain hunt and carried
+    by an animal leader
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A marginal youngest hunter separated during a mountain hunt and taken
+    by an animal leader fits an ordeal or initiatory encounter.
+  cautions: Could be otherworld sojourn, animal helper, or mountain-axis episode if
+    the source emphasizes animal society, spirit travel, or sacred mountain setting.
+  suggested_aliases:
+  - youngest_hunter_separated_and_carried_by_animal_leader
+  - unsuccessful_hunter_taken_by_animal_leader
+  - mountain_hunt_separation_initiation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - divine_intervention
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.untamed-animal-omen-as-site-marker
+  motif_id: untamed_animal_omen_as_site_marker
+  label: untamed animal omen as site marker
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: An animal omen used to mark a site fits divinatory interpretation of
+    signs for founding or locating a place.
+  cautions: If the animal establishes sacred geography or founding legitimacy, secondary
+    mapping to royal_legitimacy or cosmic_origin may be useful.
+  suggested_aliases:
+  - animal_omen_marks_site
+  - wild_animal_site_omen
+  - animal_augury_as_site_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - cosmic_origin
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence animal-threat or animal-perception details;
+  these should be reviewed against source passages before promotion into durable animal
+  or monster groups.
+- Do not infer cultural transmission or historical contact from any suggested placement.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for wave5c batch 2278.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2278
+  input_sha256: 51a9d86b064be15db17a3cd34b987b05bac270d71772c72d84e0a980dee803be
+

@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3134
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.agricultural-fertility-charm
+  motif_id: agricultural_fertility_charm
+  label: agricultural fertility charm
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A fertility charm is likely a ritual practice regulating agricultural
+    success, closest to sacred law or apotropaic ritual use.
+  cautions: Single occurrence; could instead belong under sacred_exchange, sacred_substance,
+    or a future agricultural fertility group if evidence emphasizes crop abundance
+    or spirit negotiation.
+  suggested_aliases:
+  - crop_fertility_charm
+  - agricultural_ritual_charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agricultural-orientation-averts-sickness
+  motif_id: agricultural_orientation_averts_sickness
+  label: agricultural orientation averts sickness
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed orientation that prevents sickness functions as ritual regulation
+    and apotropaic protection.
+  cautions: May be an ethnographic or passage-specific taboo; verify whether orientation
+    is agricultural, spatial, calendrical, or medical before final indexing.
+  suggested_aliases:
+  - ritual_orientation_averts_sickness
+  - apotropaic_agricultural_orientation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agricultural-property-entrusted-for-cultivation
+  motif_id: agricultural_property_entrusted_for_cultivation
+  label: agricultural property entrusted for cultivation
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an administrative or legal-economic detail rather
+    than a recurring symbolic or narrative motif.
+  cautions: If the passage centers on a violated trust, oath, or sacred tenancy obligation,
+    reconsider under covenant or betrayal_violated_trust.
+  suggested_aliases:
+  - entrusted_field_for_cultivation
+  - agricultural_tenancy_trust
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agricultural-seed-task-set-by-an-elder
+  motif_id: agricultural_seed_task_set_by_an_elder
+  label: Agricultural seed task set by an elder
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: low
+  rationale: A task assigned by an elder may function as a test, instruction, or rite
+    of passage involving cultivation.
+  cautions: Could be a practical plot detail, culture-hero instruction, or agricultural
+    origin episode; source evidence is needed before treating it as initiation.
+  suggested_aliases:
+  - seed_task_set_by_elder
+  - elder_sets_agricultural_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agricultural-surplus-and-external-exchange
+  motif_id: agricultural_surplus_and_external_exchange
+  label: agricultural surplus and external exchange
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Surplus used in exchange aligns broadly with reciprocity and exchange
+    between communities or sacred parties.
+  cautions: May be economic description rather than motif; if no sacred, ritual, or
+    narrative reciprocity is present, exclude from pattern queries.
+  suggested_aliases:
+  - crop_surplus_exchange
+  - agricultural_surplus_reciprocity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agricultural-tool-placed-in-the-heavens
+  motif_id: agricultural_tool_placed_in_the_heavens
+  label: agricultural tool placed in the heavens
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Placement of an earthly object in the heavens suggests transformation
+    or catasterism into a celestial form.
+  cautions: If the tool becomes a constellation marking agricultural seasons, sacred_time
+    or cosmic_origin may be better secondary mappings; verify catasterism evidence.
+  suggested_aliases:
+  - agricultural_tool_catasterism
+  - farm_tool_placed_among_stars
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.agriculture-supplemented-by-wild-plant-diversity
+  motif_id: agriculture_supplemented_by_wild_plant_diversity
+  label: agriculture supplemented by wild plant diversity
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like subsistence or ecological description rather than
+    a mythic motif.
+  cautions: If wild plants are ritually provided, personified, or revealed by a culture
+    hero, reconsider under divine_intervention, sacred_substance, or culture_hero.
+  suggested_aliases:
+  - wild_plant_supplement_to_agriculture
+  - diverse_wild_plants_support_cultivation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ahrimanian-and-demonic-beings
+  motif_id: ahrimanian_and_demonic_beings
+  label: Ahrimanian and demonic beings
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: role_variant
+  confidence: medium
+  rationale: Ahrimanian demonic beings are agents of the opposed destructive principle
+    in a dualistic cosmology.
+  cautions: If the passage emphasizes combat with demons, divine_warrior may be relevant;
+    if it lists beings without narrative function, it may be too taxonomic to query
+    as a motif.
+  suggested_aliases:
+  - ahrimanic_demonic_beings
+  - demonic_agents_of_dualism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aid-or-loss-ultimatum
+  motif_id: aid_or_loss_ultimatum
+  label: Aid-or-loss ultimatum
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too abstract to identify whether the function is covenant
+    obligation, coercion, divine warning, or narrative bargaining.
+  cautions: Review source context for who demands aid, what loss is threatened, and
+    whether the ultimatum is sacred, political, familial, or economic.
+  suggested_aliases:
+  - ultimatum_to_aid_or_suffer_loss
+  - coercive_aid_demand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aid-to-distressed-women-by-a-designated-best-or-good-knight
+  motif_id: aid_to_distressed_women_by_a_designated_best_or_good_knight
+  label: Aid to distressed women by a designated Best or Good Knight
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: low
+  rationale: Knightly rescue of distressed women functions as a chivalric social obligation
+    and ethical order motif.
+  cautions: Highly tradition-specific and may be better under hero_journey or sacred_combat
+    if the passage emphasizes quest or combat rather than duty; preserve chivalric
+    specificity as evidence detail.
+  suggested_aliases:
+  - chivalric_aid_to_distressed_women
+  - good_knight_rescues_distressed_women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several agricultural labels appear to be single-occurrence subsistence, legal, or
+  ethnographic details; avoid promoting an agricultural-fertility group until recurring
+  ritual or mythic functions are clearer.
+- Mappings are provisional and avoid transmission claims; source context should decide
+  whether practical agricultural details are motifs or passage artifacts.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions for wave5c batch 3134; low-confidence items
+    require source-level verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3134
+  input_sha256: 6a400a9012ecc09c81807e7012678eb7248779e5170b510659a56cc58b6d9a1c
+

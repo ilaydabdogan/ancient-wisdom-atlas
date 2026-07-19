@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3127
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.adoption-creates-sibling-prohibition
+  motif_id: adoption_creates_sibling_prohibition
+  label: Adoption creates sibling prohibition
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Adoption creating a sibling prohibition functions as kinship regulation
+    and social taboo under sacred or customary law.
+  cautions: Single occurrence; verify whether the prohibition is ritually sacred,
+    legal-customary, or merely ethnographic social description.
+  suggested_aliases:
+  - adoptive_sibling_taboo
+  - adoption_based_kinship_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-establishes-filial-identity-and-obligation
+  motif_id: adoption_establishes_filial_identity_and_obligation
+  label: adoption establishes filial identity and obligation
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on kinship identity and filial duty as socially binding
+    obligations.
+  cautions: Could belong to covenant if framed as a formal oath or contract; source
+    evidence is needed before treating it as a mythic motif.
+  suggested_aliases:
+  - adoption_creates_filial_obligation
+  - adoptive_filial_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-of-a-fallen-man-s-comrade
+  motif_id: adoption_of_a_fallen_man_s_comrade
+  label: adoption of a fallen man's comrade
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: low
+  rationale: Adopting a dead person's comrade may function as grief repair and social
+    replacement after loss.
+  cautions: May instead be kinship law, warrior memorialization, or ethnographic social
+    practice; review the passage before indexing broadly.
+  suggested_aliases:
+  - adoption_as_replacement_for_the_dead
+  - adoption_of_fallen_comrade
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-of-defeated-survivors-into-a-clan-community
+  motif_id: adoption_of_defeated_survivors_into_a_clan_community
+  label: Adoption of defeated survivors into a clan community
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Incorporating defeated survivors concerns social reintegration and regulated
+    community membership after conflict.
+  cautions: Could also relate to mercy after defeat under covenant or to sacred_combat
+    if the battle context is primary.
+  suggested_aliases:
+  - adoption_of_defeated_survivors
+  - clan_incorporation_of_survivors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-of-group-attributes-or-institutions
+  motif_id: adoption_of_group_attributes_or_institutions
+  label: adoption of group attributes or institutions
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too abstract to determine whether it describes cultural
+    borrowing, social order, identity transformation, or commentary.
+  cautions: Avoid transmission claims; may be an ethnographic or analytical artifact
+    rather than a narrative motif.
+  suggested_aliases:
+  - institutional_adoption_by_group
+  - adoption_of_group_institutions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-of-local-divinities-by-affinity
+  motif_id: adoption_of_local_divinities_by_affinity
+  label: adoption of local divinities by affinity
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to describe interpretive classification or cultic assimilation
+    of divinities rather than a narrative motif.
+  cautions: If a source passage narrates a deity being ritually adopted into a community,
+    review for divine_intervention or sacred_exchange instead.
+  suggested_aliases:
+  - local_divinity_assimilation
+  - adoption_of_local_gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-of-orphaned-or-kinless-youth-by-chief
+  motif_id: adoption_of_orphaned_or_kinless_youth_by_chief
+  label: adoption of orphaned or kinless youth by chief
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: low
+  rationale: A vulnerable youth taken under chiefly protection may fit the protected
+    or socially elevated child pattern.
+  cautions: Only use miraculous_child if the youth has destiny, marked status, or
+    transformative narrative role; otherwise sacred_law or social-care evidence may
+    fit better.
+  suggested_aliases:
+  - chief_adopts_orphaned_youth
+  - adoption_of_kinless_youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-of-outside-bands-into-an-existing-gens
+  motif_id: adoption_of_outside_bands_into_an_existing_gens
+  label: adoption of outside bands into an existing gens
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns incorporation of outsiders into a kinship or clan
+    order.
+  cautions: May be ethnographic social history rather than a symbolic motif; review
+    culturally specific context before broad pattern use.
+  suggested_aliases:
+  - incorporation_of_outside_bands
+  - adoption_into_existing_gens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-of-outsiders-into-clan-with-land-allocation
+  motif_id: adoption_of_outsiders_into_clan_with_land_allocation
+  label: adoption of outsiders into clan with land allocation
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Clan adoption with land allocation is a regulated social-order and obligation
+    pattern.
+  cautions: Land allocation may be a specific legal-ethnographic detail; do not promote
+    without recurrence or narrative significance.
+  suggested_aliases:
+  - outsider_adoption_with_land_rights
+  - clan_incorporation_with_land_allocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-of-trade-materials-and-copied-designs
+  motif_id: adoption_of_trade_materials_and_copied_designs
+  label: Adoption of trade materials and copied designs
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes material culture transmission or stylistic adoption
+    rather than a symbolic or narrative motif.
+  cautions: Preserve as provenance or cultural-history note if useful; avoid using
+    as evidence for motif pattern queries.
+  suggested_aliases:
+  - adoption_of_trade_materials
+  - copied_designs_from_trade
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use 'adoption' in kinship or social incorporation senses; most fit
+  sacred_law only provisionally and need passage review to avoid indexing ethnographic
+  social facts as motifs.
+- Do not infer cultural transmission from labels about adoption of institutions, divinities,
+  trade materials, or designs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; adoption-related labels are mostly
+    single-occurrence and context-dependent.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3127
+  input_sha256: fc64d90ae5f7ecfbc99ec0f50da2735f7b3c97873fa223e117d336f61f960322
+

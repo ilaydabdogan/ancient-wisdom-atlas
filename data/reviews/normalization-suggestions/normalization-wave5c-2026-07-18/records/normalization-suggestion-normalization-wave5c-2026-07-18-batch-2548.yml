@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2548
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.surprise-raid-followed-by-retreat-or-flight
+  motif_id: surprise_raid_followed_by_retreat_or_flight
+  label: surprise raid followed by retreat or flight
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A raid followed by flight is a warfare sequence, fitting the broad sacred_combat
+    group better than nature/cosmos.
+  cautions: Single occurrence and may be a plain plot detail unless the raid has ritual,
+    heroic, or social-order significance.
+  suggested_aliases:
+  - raid_and_retreat
+  - surprise_attack_followed_by_flight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survival-food-from-tree-bark-during-famine
+  motif_id: survival_food_from_tree_bark_during_famine
+  label: Survival food from tree bark during famine
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate famine survival, tree sustenance, sacred provision,
+    or ethnographic subsistence detail; no existing group cleanly captures the function.
+  cautions: Avoid mapping to sacred_tree_axis unless the tree is cosmological or sacred;
+    may be too specific for pattern queries if only a survival detail.
+  suggested_aliases:
+  - tree_bark_as_famine_food
+  - famine_survival_food_from_bark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survival-from-flood-on-a-floating-tree
+  motif_id: survival_from_flood_on_a_floating_tree
+  label: Survival from flood on a floating tree
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: high
+  rationale: A floating tree preserves life during flood, functioning like an ark
+    or refuge within the flood-survival complex.
+  cautions: If the flood is local or incidental rather than world-renewing, preserve
+    the tree-refuge detail and avoid overclaiming cosmic renewal.
+  suggested_aliases:
+  - floating_tree_as_flood_refuge
+  - tree_refuge_during_flood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survival-through-skill-of-a-man-saved-by-a-mountain-being
+  motif_id: survival_through_skill_of_a_man_saved_by_a_mountain_being
+  label: survival through skill of a man saved by a mountain being
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Rescue by a mountain being is supernatural aid in human affairs, even
+    if the human's skill is also central.
+  cautions: Could instead involve otherworld, mountain spirit, or hero ordeal depending
+    on source evidence; culturally specific mountain-being concepts need review.
+  suggested_aliases:
+  - mountain_being_rescues_human
+  - supernatural_mountain_rescue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.suspended-nest-releasing-offspring-into-water
+  motif_id: suspended_nest_releasing_offspring_into_water
+  label: suspended nest releasing offspring into water
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is too context-dependent: it may be animal behavior, origin
+    myth, birth imagery, water passage, or a passage artifact.'
+  cautions: Do not map to sacred_waters or miraculous_child without evidence that
+    water release marks transformation, origin, or sacred birth.
+  suggested_aliases:
+  - offspring_released_from_suspended_nest_into_water
+  - nest_releases_young_into_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sweat-house-steam-bath-with-heated-stones-and-water
+  motif_id: sweat_house_steam_bath_with_heated_stones_and_water
+  label: sweat-house steam bath with heated stones and water
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sweat-house steam bath is a ritual purification or regulated sacred
+    practice, fitting existing purity/protection patterns under sacred_law.
+  cautions: If the passage emphasizes initiation, healing, or sacrifice rather than
+    purity law, secondary placement may differ; handle culturally specific practice
+    carefully.
+  suggested_aliases:
+  - sweat_house_purification
+  - steam_bath_with_heated_stones_and_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.swift-heavenly-flight-toward-a-cosmic-sea
+  motif_id: swift_heavenly_flight_toward_a_cosmic_sea
+  label: swift heavenly flight toward a cosmic sea
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: ascent
+  suggested_group_label: Ascent and Heavenly Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Heavenly flight is an upward or celestial journey, and the cosmic sea
+    detail can be preserved as destination imagery.
+  cautions: If this is a soul's postmortem route, afterlife_passage may be better;
+    if the sea is primordial cosmology, cosmic_origin may be secondary.
+  suggested_aliases:
+  - heavenly_flight_to_cosmic_sea
+  - celestial_flight_toward_world_sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.symbolic-mountains-as-moral-categories-of-people
+  motif_id: symbolic_mountains_as_moral_categories_of_people
+  label: symbolic mountains as moral categories of people
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The motif appears allegorical: mountains classify moral types rather
+    than functioning as axis, ascent site, or sacred geography.'
+  cautions: May be exegetical or visionary commentary; map to divine_judgment only
+    if the passage uses the categories for moral reckoning.
+  suggested_aliases:
+  - mountains_as_moral_categories
+  - allegorical_mountains_of_human_types
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.symbolic-nocturnal-progress-of-a-wind-deity
+  motif_id: symbolic_nocturnal_progress_of_a_wind_deity
+  label: symbolic nocturnal progress of a wind deity
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A deity's nighttime movement may be cosmological, calendrical, meteorological,
+    or interpretive; current groups do not clearly capture wind-deity procession.
+  cautions: Could fit sacred_time, cosmic_origin, divine_intervention, or meta commentary
+    depending on the evidence; avoid forcing solar/night journey analogies.
+  suggested_aliases:
+  - nocturnal_journey_of_wind_deity
+  - night_progress_of_wind_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sympathetic-cure-through-a-tree
+  motif_id: sympathetic_cure_through_a_tree
+  label: sympathetic cure through a tree
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sympathetic cure is ritual healing/protection practice; the tree is
+    the medium rather than necessarily an axis mundi.
+  cautions: Comparative label and single occurrence need review; if the tree holds
+    a soul or life-force, external_soul may be relevant instead.
+  suggested_aliases:
+  - tree_based_sympathetic_healing
+  - sympathetic_healing_with_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch were placed in nature_elements_cosmos by rough bucket
+  but functionally belong to combat, ritual purification, divine aid, ascent, or flood-survival
+  groups.
+- Single-occurrence and culturally specific ritual or spirit-being labels should remain
+  provisional until passage evidence confirms recurring motif function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2548
+  input_sha256: 3c83edc970253cd80d9123e56d153865c0a00b40e085e8de6e3c1d3d6b99e126
+

@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1127
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-fire-as-ritual-recipient
+  motif_id: sacred_fire_as_ritual_recipient
+  label: Sacred fire as ritual recipient
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: Fire functions as sacred presence and ritual medium, matching the existing
+    sacred_fire group.
+  cautions: May also support sacrifice or sacred_exchange if the passage emphasizes
+    offering logic rather than fire symbolism.
+  suggested_aliases:
+  - fire_as_ritual_recipient
+  - sacred_fire_receiving_offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-as-visible-emblem-of-inward-grace
+  motif_id: sacred_fire_as_visible_emblem_of_inward_grace
+  label: sacred fire as visible emblem of inward grace
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label treats sacred fire as outward sign of inner sacred reality,
+    a symbolic variant of divine light/fire.
+  cautions: Preserve theological specificity in notes; do not collapse into generic
+    purity unless ritual context requires it.
+  suggested_aliases:
+  - sacred_fire_as_emblem_of_grace
+  - fire_as_visible_inward_grace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-associated-with-a-mountain-site
+  motif_id: sacred_fire_associated_with_a_mountain_site
+  label: sacred fire associated with a mountain site
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The primary motif is sacred fire, with mountain setting as a related
+    sacred-location detail.
+  cautions: If the mountain is the main cosmic center or revelation site, add secondary
+    review under axis_mundi or cosmic_mountain.
+  suggested_aliases:
+  - mountain_sacred_fire
+  - sacred_fire_on_mountain_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-carried-to-a-named-ritual-destination
+  motif_id: sacred_fire_carried_to_a_named_ritual_destination
+  label: Sacred fire carried to a named ritual destination
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Transporting sacred fire to a ritual destination is a ritual handling
+    variant of sacred fire.
+  cautions: The named destination may be a passage-specific place detail; exclude
+    place-name specificity from broad queries.
+  suggested_aliases:
+  - transported_sacred_fire
+  - sacred_fire_carried_in_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-causing-bodily-loss-and-public-honor
+  motif_id: sacred_fire_causing_bodily_loss_and_public_honor
+  label: Sacred fire causing bodily loss and public honor
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sacred fire, bodily injury, and public honor; the
+    core function is unclear without source evidence.
+  cautions: Could be sacred_fire, sacrifice, divine_judgment, heroic honor, or an
+    over-specific episode artifact.
+  suggested_aliases:
+  - bodily_loss_from_sacred_fire
+  - public_honor_after_fire_injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-circle-assembly
+  motif_id: sacred_fire_circle_assembly
+  label: Sacred fire-circle assembly
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase may describe a ritual arrangement, ceremonial gathering, or
+    generated scene label rather than a clear motif.
+  cautions: Culturally specific ceremonial context should be reviewed before mapping;
+    avoid reducing local ritual meaning to generic sacred fire.
+  suggested_aliases:
+  - fire_circle_assembly
+  - ritual_assembly_around_sacred_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-converted-into-a-weapon
+  motif_id: sacred_fire_converted_into_a_weapon
+  label: Sacred fire converted into a weapon
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif keeps sacred fire as the key substance while changing its function
+    into destructive force.
+  cautions: If the episode is primarily martial, secondary mapping to divine_warrior
+    or sacred_combat may be warranted.
+  suggested_aliases:
+  - sacred_fire_as_weapon
+  - ritual_fire_weaponized
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-maintained-for-a-deity-and-ritually-rekindled
+  motif_id: sacred_fire_maintained_for_a_deity_and_ritually_rekindled
+  label: Sacred fire maintained for a deity and ritually rekindled
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: Maintaining and rekindling divine fire is a classic sacred-fire ritual
+    pattern.
+  cautions: Because tradition is comparative, verify this is not a scholarly generalization
+    rather than a source motif.
+  suggested_aliases:
+  - ritually_rekindled_sacred_fire
+  - deity_fire_maintained_and_rekindled
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-place
+  motif_id: sacred_fire_place
+  label: Sacred fire place
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to name a place associated with sacred fire, fitting
+    sacred_fire if ritual significance is present.
+  cautions: May be too place-only or context-specific for pattern queries; if it merely
+    identifies a location, exclude as a passage artifact.
+  suggested_aliases:
+  - sacred_fire_site
+  - place_of_sacred_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-fire-praise
+  motif_id: sacred_fire_praise
+  label: Sacred fire praise
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: Praise directed to or around sacred fire belongs under sacred_fire as
+    devotional or liturgical fire use.
+  cautions: If the passage centers on hymn or performative speech, secondary review
+    under storytelling_as_power or curse_blessing_speech may be useful.
+  suggested_aliases:
+  - praise_of_sacred_fire
+  - hymnic_praise_of_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are low-occurrence sacred-fire variants and can be provisionally
+  handled by the existing sacred_fire group while preserving ritual or symbolic details.
+- Items that combine fire with culturally specific ceremony, named places, bodily
+  injury, or public honor need source review before broad pattern indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1127
+  input_sha256: b1617bf4e0c76bba6d6112f1d7684771c177d191da72b9b470e58b0609112677
+

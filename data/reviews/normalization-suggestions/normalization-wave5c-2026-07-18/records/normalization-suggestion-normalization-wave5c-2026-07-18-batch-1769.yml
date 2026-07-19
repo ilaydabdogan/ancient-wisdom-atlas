@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1769
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.blood-stained-marriage-alliance
+  motif_id: blood_stained_marriage_alliance
+  label: Blood-stained marriage alliance
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern marriage, political alliance, bloodshed, sacrifice,
+    or violated kinship; function is unclear from wording alone.
+  cautions: Single occurrence and culturally contextual Roman episode likely needs
+    source evidence before mapping to sacred_love, covenant, sacrifice, or sacred_combat.
+  suggested_aliases:
+  - marriage_alliance_marked_by_bloodshed
+  - violent_marriage_alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blow-pipe-hunting-with-prepared-poisoned-darts
+  motif_id: blow_pipe_hunting_with_prepared_poisoned_darts
+  label: Blow-pipe hunting with prepared poisoned darts
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a specific hunting technology or ethnographic detail
+    rather than a recurring symbolic motif.
+  cautions: If the passage treats poisoned darts as sacred craft, ordeal, taboo, or
+    transformation device, preserve locally and remap with evidence.
+  suggested_aliases:
+  - poisoned_blowpipe_darts
+  - blowpipe_hunting_with_poisoned_darts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boastful-thief-exposed-in-the-stolen-wife-s-chamber
+  motif_id: boastful_thief_exposed_in_the_stolen_wife_s_chamber
+  label: boastful thief exposed in the stolen wife’s chamber
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A thief exposed through boastfulness and illicit chamber entry fits deception,
+    boundary violation, and trickster-like reversal.
+  cautions: Could instead belong under sacred_love or betrayal_violated_trust if the
+    stolen wife and marital violation are the main function rather than theft and
+    exposure.
+  suggested_aliases:
+  - boastful_thief_exposed
+  - thief_exposed_in_stolen_wife_chamber
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boasting-feast-prompts-bride-search
+  motif_id: boasting_feast_prompts_bride_search
+  label: Boasting feast prompts bride-search
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Bride-search and marriage pursuit align with existing sacred_love children
+    for bride choice and bride-winning contexts.
+  cautions: The feast boasting may be a heroic speech or challenge catalyst; consider
+    sacred_combat or storytelling_as_power if the passage emphasizes boast-performance
+    over marriage quest.
+  suggested_aliases:
+  - boast_at_feast_prompts_bride_quest
+  - feast_boast_initiates_bride_search
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-mutilation-threat-or-comparison
+  motif_id: bodily_mutilation_threat_or_comparison
+  label: bodily mutilation threat or comparison
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The wording is vague and comparative, suggesting a passage-level threat
+    or simile rather than a stable motif.
+  cautions: If actual ritual mutilation, combat dismemberment, or punishment is present,
+    remap with source evidence to sacred_combat, divine_judgment, sacrifice, or death_and_transformation.
+  suggested_aliases:
+  - mutilation_threat
+  - bodily_mutilation_comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-presentiment-of-an-approaching-person
+  motif_id: bodily_presentiment_of_an_approaching_person
+  label: bodily presentiment of an approaching person
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bodily presentiment functions as altered perception or omen-like knowledge
+    of an approaching person.
+  cautions: May need human review for culturally specific somatic knowledge; could
+    fit prophecy_divination if part of a formal divinatory system.
+  suggested_aliases:
+  - somatic_presentiment_of_arrival
+  - bodily_omen_of_approach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-made-transparent-to-inner-thought
+  motif_id: body_made_transparent_to_inner_thought
+  label: body made transparent to inner thought
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The body revealing inner thought concerns hidden knowledge becoming visible
+    or knowable through a transformed body image.
+  cautions: Could be philosophical metaphor rather than narrative motif; if the emphasis
+    is moral exposure or judgment, divine_judgment may be secondary.
+  suggested_aliases:
+  - transparent_body_reveals_thought
+  - inner_thought_made_visible_in_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-maintained-as-an-unloved-wound
+  motif_id: body_maintained_as_an_unloved_wound
+  label: Body maintained as an unloved wound
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The body as wound fits ascetic or contemplative insight into embodiment,
+    suffering, and liberation from attachment.
+  cautions: Likely doctrinal or metaphorical; avoid treating as literal bodily harm.
+    Could also relate to sacred_knowledge or annihilation_union depending on passage.
+  suggested_aliases:
+  - body_as_unloved_wound
+  - body_as_wound_of_suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-part-as-container-of-personal-things
+  motif_id: body_part_as_container_of_personal_things
+  label: Body part as container of personal things
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A body part used as a container could be magical object, bodily transformation,
+    trickster episode, or passage-specific marvel.
+  cautions: Single occurrence; source evidence is needed to determine whether the
+    container holds life force, treasure, identity tokens, or ordinary items.
+  suggested_aliases:
+  - body_part_container
+  - body_part_holding_personal_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-received-from-parents-preserved-as-filial-trust
+  motif_id: body_received_from_parents_preserved_as_filial_trust
+  label: Body received from parents preserved as filial trust
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The body preserved as a parental trust expresses filial duty and ethical
+    social order, matching sacred_law and its filial-piety aliases.
+  cautions: Preserve Confucian ethical specificity; do not reduce to generic body
+    symbolism or sacrifice unless the passage involves bodily offering.
+  suggested_aliases:
+  - filial_preservation_of_the_body
+  - body_as_filial_trust
+  - body_received_from_parents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and body/marriage-contextual;
+  source evidence should decide whether they are motifs or passage details.
+- Avoid treating bodily metaphors as literal death, sacrifice, or transformation without
+  passage support.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for ambiguous single-occurrence
+    items and culturally specific somatic or Confucian ethical labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1769
+  input_sha256: f4391c7645bb6a974600cdd703a2641ff34ff30d3431931aba9dfccb33a90df7
+

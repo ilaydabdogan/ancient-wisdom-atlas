@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1667
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.refusal-of-marriage-while-seeking-the-mother
+  motif_id: refusal_of_marriage_while_seeking_the_mother
+  label: refusal of marriage while seeking the mother
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marriage refusal with a quest for the mother; its
+    function could be kinship quest, taboo avoidance, loyalty, or passage-specific
+    plot detail.
+  cautions: Single occurrence; source evidence needed before placing under sacred_love,
+    hero_journey, miraculous_child, or family/kinship patterns not clearly represented
+    here.
+  suggested_aliases:
+  - marriage_refused_during_mother_quest
+  - refusal_of_bride_while_seeking_mother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-of-sovereignty-and-wealth-in-favor-of-another-realm
+  motif_id: refusal_of_sovereignty_and_wealth_in_favor_of_another_realm
+  label: refusal of sovereignty and wealth in favor of another realm
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: The defining action is rejection of earthly kingship and wealth in favor
+    of another realm, aligning with otherworld preference or sojourn logic.
+  cautions: If the passage emphasizes renunciation rather than an enchanted realm,
+    mystical_quest or sacred_exchange may be relevant secondary mappings; if it concerns
+    legitimate rule, royal_legitimacy may be secondary.
+  suggested_aliases:
+  - renunciation_of_sovereignty_for_otherworld
+  - refusal_of_earthly_rule_for_another_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-reclaim-a-lost-kingdom-under-overwhelming-force
+  motif_id: refusal_to_reclaim_a_lost_kingdom_under_overwhelming_force
+  label: refusal to reclaim a lost kingdom under overwhelming force
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern prudential refusal, exile, lost kingship, overwhelming
+    military threat, or fatalistic acceptance; no single existing group clearly captures
+    it.
+  cautions: Single occurrence and highly contextual; could fit royal_legitimacy, hero_journey,
+    sacred_combat, death_by_fate, or be an episode-specific political detail.
+  suggested_aliases:
+  - refusal_to_reclaim_lost_kingship
+  - lost_kingdom_not_reclaimed_under_overwhelming_force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refusal-to-rise-before-a-hostile-queen
+  motif_id: refusal_to_rise_before_a_hostile_queen
+  label: Refusal to rise before a hostile queen
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Refusing courtly deference before a queen is a status and hierarchy action
+    within royal power relations.
+  cautions: May be too episode-specific unless the passage frames it as a challenge
+    to sovereignty, insult, or honor code; sacred_law or pride_and_downfall could
+    be secondary depending on outcome.
+  suggested_aliases:
+  - refusal_of_courtly_deference_to_queen
+  - defiant_refusal_to_rise_before_queen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regional-claim-to-doctrinal-authority
+  motif_id: regional_claim_to_doctrinal_authority
+  label: regional claim to doctrinal authority
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads like an institutional or textual-historical claim about
+    authority rather than a clear narrative motif.
+  cautions: Could be sacred_knowledge if a region is authorized as doctrinal source,
+    royal_legitimacy if political patronage is central, or _meta_textual if it is
+    scholarly classification/commentary.
+  suggested_aliases:
+  - regional_doctrinal_authority_claim
+  - local_claim_to_religious_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-communal-feast-as-social-gathering
+  motif_id: regulated_communal_feast_as_social_gathering
+  label: regulated communal feast as social gathering
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A regulated communal feast centers on structured sharing and social reciprocity,
+    which fits sacred_exchange when ritually or socially normative.
+  cautions: If the evidence is merely ethnographic description of social gathering
+    without sacred exchange, it may be too contextual; sacred_law may be secondary
+    if rules are primary.
+  suggested_aliases:
+  - regulated_communal_feasting
+  - communal_feast_as_social_reciprocity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-feast-drinking
+  motif_id: regulated_feast_drinking
+  label: regulated feast drinking
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Feast drinking under regulation is best treated as a ritualized exchange
+    or communal sharing practice.
+  cautions: Could instead fit sacred_law if the emphasis is prohibition/control, or
+    sacred_substance if the drink has sacred or intoxicating power; single occurrence
+    needs evidence review.
+  suggested_aliases:
+  - regulated_ritual_drinking_at_feast
+  - controlled_feast_drinking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-material-simplicity-for-religious-implements
+  motif_id: regulated_material_simplicity_for_religious_implements
+  label: Regulated material simplicity for religious implements
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rules requiring simple materials for religious implements fit sacred
+    regulation of ritual objects and social-religious discipline.
+  cautions: May be an over-specific monastic rule rather than a motif; sacred_treasures
+    or sacred_craft may be secondary if object power or manufacture is central.
+  suggested_aliases:
+  - ritual_implements_material_simplicity_rule
+  - regulated_simplicity_of_religious_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-one-blow-turn-taking-with-public-deed-narration
+  motif_id: regulated_one_blow_turn_taking_with_public_deed_narration
+  label: Regulated one-blow turn-taking with public deed narration
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes formalized combat turn-taking with public narration,
+    matching ritualized combat rather than general law.
+  cautions: Highly specific; if narration is the primary power, storytelling_as_power
+    may be secondary. Verify that this is combat/ordeal and not a game, ceremony,
+    or passage artifact.
+  suggested_aliases:
+  - ritual_turn_taking_combat_with_deed_narration
+  - one_blow_combat_with_public_boasting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulated-settlement-and-gradual-social-change
+  motif_id: regulated_settlement_and_gradual_social_change
+  label: regulated settlement and gradual social change
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and sociological, with no clear narrative or symbolic
+    function evident from wording alone.
+  cautions: May be a passage summary or ethnographic interpretation. Could fit sacred_law
+    if grounded in sacred rules, culture_hero if founded by a figure, or royal_legitimacy
+    if tied to authority.
+  suggested_aliases:
+  - regulated_social_settlement
+  - gradual_social_change_under_regulation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and read as contextual social
+  or political details; human review should verify whether each is a recurring motif
+  or a passage artifact.
+- For Chaco-Amerindian feast/regulation labels, review cultural context before collapsing
+  ritual practice into generic law or exchange categories.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize source-evidence review for ambiguous
+    refusal/regulation labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1667
+  input_sha256: 7ec2a94b2922389a532542d1a8315f152e0685165963e6521cb0c6ec97320792
+

@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1423
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.provocative-speech-triggers-immediate-combat
+  motif_id: provocative_speech_triggers_immediate_combat
+  label: Provocative speech triggers immediate combat
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The speech functions as a combat trigger, aligning more with combat escalation
+    than wisdom/revelation.
+  cautions: Could instead belong under curse_blessing_speech or storytelling_as_power
+    if the speech act itself is sacredly binding rather than merely provocative.
+  suggested_aliases:
+  - taunt_provoking_combat
+  - provocative_speech_as_combat_trigger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-acknowledgement-of-paternity-removes-shame-and-creates-support-obligation
+  motif_id: public_acknowledgement_of_paternity_removes_shame_and_creates_support_obligation
+  label: Public acknowledgement of paternity removes shame and creates support obligation
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The public speech establishes kinship status, removes shame, and creates
+    social obligation, fitting sacred/social order.
+  cautions: Highly contextual; if the passage centers on lineage legitimacy or succession,
+    royal_legitimacy may be a secondary mapping.
+  suggested_aliases:
+  - public_paternity_acknowledgement
+  - acknowledged_paternity_creates_obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-adoption-of-a-new-faith-through-signs-and-song
+  motif_id: public_adoption_of_a_new_faith_through_signs_and_song
+  label: public adoption of a new faith through signs and song
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines conversion, signs, song, and public ritual adoption
+    without enough evidence to choose one function.
+  cautions: Could fit sacred_knowledge, sacred_song/storytelling_as_power, divine_intervention,
+    or covenant depending on whether signs, instruction, ritual commitment, or song
+    is central. Review culturally sensitive conversion context.
+  suggested_aliases:
+  - public_conversion_through_signs_and_song
+  - faith_adoption_confirmed_by_signs_and_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-derision-song-as-social-accusation
+  motif_id: public_derision_song_as_social_accusation
+  label: public derision song as social accusation
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A public derision song acts as performative accusation and social sanction
+    through speech/song.
+  cautions: If the song's power lies in narrative performance or communal memory rather
+    than a binding accusation, storytelling_as_power may be better.
+  suggested_aliases:
+  - derision_song_as_accusation
+  - public_mocking_song_as_social_sanction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-disgrace-through-insulting-nickname
+  motif_id: public_disgrace_through_insulting_nickname
+  label: public disgrace through insulting nickname
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The insulting name is a performative speech act that publicly alters
+    reputation and social status.
+  cautions: May be a contextual social detail rather than a durable motif unless the
+    nickname has binding, shame-producing, or fate-shaping force in the passage.
+  suggested_aliases:
+  - insulting_nickname_as_public_shame
+  - public_shaming_by_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-humiliation-of-a-captive-in-a-named-game
+  motif_id: public_humiliation_of_a_captive_in_a_named_game
+  label: Public humiliation of a captive in a named game
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The named-game detail reads as an episode-specific humiliation scene
+    rather than a reusable symbolic motif.
+  cautions: If the game is ritually significant or recurs across sources, reconsider
+    under sacred_combat, sacred_law, or royal_legitimacy as a captive-humiliation
+    ritual.
+  suggested_aliases:
+  - captive_humiliated_in_game
+  - public_humiliation_of_captive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-song-as-ratification-and-instruction
+  motif_id: public_song_as_ratification_and_instruction
+  label: Public song as ratification and instruction
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Public song transmits instruction and ratifies social or ritual meaning,
+    matching narrative/song as cultural power.
+  cautions: If the ratification creates a binding norm or obligation, sacred_law or
+    covenant may be relevant secondary mappings.
+  suggested_aliases:
+  - song_as_public_instruction
+  - public_song_ratifies_teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-speech-contradicted-by-private-aside
+  motif_id: public_speech_contradicted_by_private_aside
+  label: Public speech contradicted by private aside
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to describe a discourse or narration technique rather than
+    a mythic motif.
+  cautions: If the contradiction reveals deception, trickster intent, or violated
+    trust within the story, review for trickster or betrayal_violated_trust instead.
+  suggested_aliases:
+  - public_private_speech_contradiction
+  - contradictory_private_aside
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.public-teaching-at-periodic-religious-assembly
+  motif_id: public_teaching_at_periodic_religious_assembly
+  label: public teaching at periodic religious assembly
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on formal transmission of religious teaching in an
+    assembly setting.
+  cautions: The periodic setting may also support sacred_time if the assembly is calendrical;
+    avoid over-mapping if it is merely a sermon context.
+  suggested_aliases:
+  - religious_assembly_teaching
+  - periodic_public_sacred_instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.punitive-loss-of-human-speech
+  motif_id: punitive_loss_of_human_speech
+  label: Punitive loss of human speech
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Loss of speech is framed as punishment, making the judgment function
+    stronger than the general speech theme.
+  cautions: If the loss entails animal transformation or origin of linguistic difference,
+    shapeshifter or cosmic_origin may be relevant secondary mappings.
+  suggested_aliases:
+  - speech_loss_as_punishment
+  - punishment_by_loss_of_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are speech-centered but should not automatically map
+  to wisdom; many function as social sanction, combat trigger, or ritual instruction.
+- Single-occurrence and culturally contextual labels should remain provisional until
+  passage evidence confirms recurring motif function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed especially for
+    conversion, public shaming, and culturally specific speech-performance contexts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1423
+  input_sha256: e70ff32d385c73a71a21b190e8370663add4b47630632bf237b5621a2f3ca19e
+

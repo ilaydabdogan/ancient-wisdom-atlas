@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2727
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hooked-weapon-worsens-as-victim-flees
+  motif_id: hooked_weapon_worsens_as_victim_flees
+  label: Hooked weapon worsens as victim flees
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a specific weapon injury mechanism rather than a
+    clearly recurring combat structure.
+  cautions: May be an episode detail, torture motif, magical weapon motif, or pursuit
+    ordeal depending on passage evidence.
+  suggested_aliases:
+  - barbed_weapon_worsens_when_victim_flees
+  - hooked_weapon_injury_during_flight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_treasures
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.horn-summons-heroic-steed
+  motif_id: horn_summons_heroic_steed
+  label: horn summons heroic steed
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A horn functioning as a summoning power object fits the sacred object/power-object
+    group.
+  cautions: If the emphasis is on the steed as magical helper rather than the horn,
+    shapeshifter or divine_intervention may be secondary.
+  suggested_aliases:
+  - summoning_horn_calls_heroic_steed
+  - magical_horn_summons_steed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-and-erotic-favor-used-to-encourage-combat
+  motif_id: hospitality_and_erotic_favor_used_to_encourage_combat
+  label: hospitality and erotic favor used to encourage combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines hospitality, sexuality, and combat incitement, making
+    the primary motif unclear.
+  cautions: Could be sacred_exchange, sacred_love, sacred_combat, or a passage-specific
+    social custom; review for agency and consent-sensitive framing.
+  suggested_aliases:
+  - erotic_hospitality_encourages_combat
+  - hospitality_and_sexual_favor_as_warrior_incentive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_love
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-as-setting-for-a-revenge-trap
+  motif_id: hospitality_as_setting_for_a_revenge_trap
+  label: hospitality as setting for a revenge trap
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A revenge trap staged under hospitality turns the guest-host bond into
+    violated trust.
+  cautions: If hospitality is merely the setting and not the betrayed obligation,
+    sacred_combat or divine_judgment may fit better.
+  suggested_aliases:
+  - hospitality_betrayed_by_revenge_trap
+  - guest_host_setting_for_ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-before-violent-contest
+  motif_id: hospitality_before_violent_contest
+  label: hospitality before violent contest
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: low
+  rationale: The label foregrounds hospitality before conflict, likely a guest-host
+    obligation around contest.
+  cautions: May be only a narrative sequence without a hospitality test; if the contest
+    is primary, sacred_combat may be the better placement.
+  suggested_aliases:
+  - guest_hospitality_before_combat
+  - hospitality_precedes_violent_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-delaying-or-redirecting-violence
+  motif_id: hospitality_delaying_or_redirecting_violence
+  label: Hospitality delaying or redirecting violence
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hospitality functions as a social-sacred constraint that changes the
+    course of violence.
+  cautions: Could also belong under sacred_law if framed as obligation rather than
+    a stranger-guest test.
+  suggested_aliases:
+  - hospitality_defers_violence
+  - guest_right_redirects_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hospitality-protects-an-enemy-emissary
+  motif_id: hospitality_protects_an_enemy_emissary
+  label: hospitality protects an enemy emissary
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protection of an enemy emissary by guest obligation fits sacred social
+    law and hospitality norms.
+  cautions: If the passage centers on the emissary as vulnerable guest, hospitality_test_stranger_guest
+    should be a secondary review option.
+  suggested_aliases:
+  - guest_right_protects_enemy_emissary
+  - enemy_messenger_protected_by_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.host-household-commands-kindness-toward-a-vulnerable-visitor
+  motif_id: host_household_commands_kindness_toward_a_vulnerable_visitor
+  label: host household commands kindness toward a vulnerable visitor
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: narrower_than
+  confidence: high
+  rationale: A vulnerable visitor whose treatment tests or commands host kindness
+    is a close hospitality-test variant.
+  cautions: If there is no test or sacred obligation, it may be an ethical-command
+    detail under sacred_law.
+  suggested_aliases:
+  - kindness_commanded_toward_vulnerable_guest
+  - host_protects_vulnerable_visitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.host-tribe-becomes-devouring-enemy
+  motif_id: host_tribe_becomes_devouring_enemy
+  label: host tribe becomes devouring enemy
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe violated hospitality, cannibal threat, enemy transformation,
+    or a specific episode.
+  cautions: Review source evidence before mapping; culturally sensitive wording and
+    possible cannibal-hostile-other framing require care.
+  suggested_aliases:
+  - host_people_turn_into_devouring_enemies
+  - hospitality_reverses_into_predation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - trickster
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hostile-crowd-loses-power-before-the-hero
+  motif_id: hostile_crowd_loses_power_before_the_hero
+  label: hostile crowd loses power before the hero
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hostile group rendered powerless before a hero fits heroic superiority
+    in sacred combat.
+  cautions: If caused by miracle or enchantment rather than heroic prowess, divine_intervention
+    or sacred_treasures may be better.
+  suggested_aliases:
+  - hostile_host_loses_power_before_hero
+  - enemy_crowd_powerless_before_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine hospitality with violence; reviewers should distinguish sacred
+  guest-host obligation from mere scene setting for combat.
+- Single-occurrence, highly specific weapon and host-enemy labels should not be promoted
+  without source evidence or recurrence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2727
+  input_sha256: fe3ee2194a924496afd508429f5d1b60ec3616489b76d5fd711f1a0ac08ec258
+

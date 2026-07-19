@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1953
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.playful-or-repeated-premarital-sleeping-encounter-not-necessarily-leading-to-marriage
+  motif_id: playful_or_repeated_premarital_sleeping_encounter_not_necessarily_leading_to_marriage
+  label: playful or repeated premarital sleeping encounter not necessarily leading
+    to marriage
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns courtship or sexual encounter, but no existing group
+    cleanly covers premarital intimacy without sacred love, marriage contest, or transformation
+    evidence.
+  cautions: Single occurrence and culturally contextual; may be passage-specific social/sexual
+    detail rather than a durable motif.
+  suggested_aliases:
+  - premarital_sleeping_encounter
+  - repeated_premarital_intimacy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pledged-marriage-resisted-by-flight
+  motif_id: pledged_marriage_resisted_by_flight
+  label: Pledged marriage resisted by flight
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Resisting a promised marriage by fleeing fits the existing love/marriage-choice
+    cluster under sacred_love.
+  cautions: If the passage emphasizes kinship law, abduction, or social sanction rather
+    than love or choice, sacred_law or human review may be preferable.
+  suggested_aliases:
+  - flight_from_pledged_marriage
+  - resisted_arranged_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poet-assumes-another-s-persona
+  motif_id: poet_assumes_another_s_persona
+  label: poet assumes another’s persona
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be poetic voice, disguise, authorship, or ritual role-taking; the
+    label alone does not establish a mythic motif.
+  cautions: May be a literary or performance artifact rather than a narrative motif.
+    Do not map to shapeshifter unless actual transformation or identity crossing occurs.
+  suggested_aliases:
+  - poetic_persona_assumption
+  - speaker_assumes_another_persona
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poison-casket-and-averted-self-destruction
+  motif_id: poison_casket_and_averted_self_destruction
+  label: Poison casket and averted self-destruction
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines an object, poison, and prevented suicide into a very
+    specific episode sequence.
+  cautions: Likely too passage-specific without broader recurrence; may belong under
+    sacred_treasures, betrayal, death_by_fate, or lament depending on evidence.
+  suggested_aliases:
+  - poison_casket
+  - averted_self_destruction_by_poison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - death_by_fate
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poison-charms-and-sorcery
+  motif_id: poison_charms_and_sorcery
+  label: poison, charms, and sorcery
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a broad bundle of harmful substances and magical practice,
+    but current groups do not have a clean sorcery/poison category.
+  cautions: Culturally sensitive and vague; review source wording before treating
+    as motif rather than outsider classification or commentary.
+  suggested_aliases:
+  - poison_and_sorcery
+  - poison_charms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poison-expelled-to-earth-or-ground
+  motif_id: poison_expelled_to_earth_or_ground
+  label: Poison expelled to earth or ground
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Expelling poison from a body to the ground resembles the existing ritual
+    expulsion and removal-of-harm complex under sacrifice.
+  cautions: If this is medical magic, healing, or mythic physiology rather than ritual
+    expulsion, a future healing/poison group may fit better.
+  suggested_aliases:
+  - poison_expulsion_to_ground
+  - harm_expelled_to_earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poison-removed-from-body-and-ejected-into-a-vessel
+  motif_id: poison_removed_from_body_and_ejected_into_a_vessel
+  label: Poison removed from body and ejected into a vessel
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: The vessel functions as a container for extracted harmful power, fitting
+    the sacred vessel/container group better than general poison imagery.
+  cautions: May also be a healing or ritual-expulsion motif; preserve poison-removal
+    detail and review cultural context.
+  suggested_aliases:
+  - poison_ejected_into_vessel
+  - harmful_substance_contained_in_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacrifice
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poison-transferred-through-food-and-carrion
+  motif_id: poison_transferred_through_food_and_carrion
+  label: Poison transferred through food and carrion
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may involve contagion, taboo food, sorcery, or betrayal through
+    food; the label lacks enough narrative function for a confident placement.
+  cautions: Review source evidence carefully; could fit sacred_law if framed as food
+    pollution, betrayal_violated_trust if deceptive feeding, or sacred_substance if
+    poison substance is central.
+  suggested_aliases:
+  - poison_food_transfer
+  - poison_transferred_by_carrion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - betrayal_violated_trust
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poisoned-break-off-projectile-points
+  motif_id: poisoned_break_off_projectile_points
+  label: poisoned break-off projectile points
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a specific weapon technology detail rather than a
+    symbolic or narrative motif.
+  cautions: If the source gives mythic or ritual significance to the projectile poison,
+    reconsider under sacred_combat or sacred_treasures; otherwise preserve only as
+    evidence detail.
+  suggested_aliases:
+  - poisoned_projectile_points
+  - break_off_poisoned_points
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poisoned-cup-kills-the-hero-despite-warning
+  motif_id: poisoned_cup_kills_the_hero_despite_warning
+  label: Poisoned cup kills the hero despite warning
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero dies despite warning, making the inescapability of foretold death
+    the likely narrative function.
+  cautions: If the passage emphasizes treacherous hospitality or poisoned drink more
+    than unavoidable fate, betrayal_violated_trust or sacred_substance may be secondary
+    mappings.
+  suggested_aliases:
+  - poisoned_cup_despite_warning
+  - warned_hero_killed_by_poisoned_drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several poison labels fall between healing, harmful magic, ritual expulsion, sacred
+  substance, and betrayal. A future review may consider whether a dedicated poison/venom/healing-sorcery
+  group is warranted if recurrence is high.
+- The review bucket love_family_gender_body appears mismatched for most poison-related
+  items; placements here are based on motif labels, not bucket assignment.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally contextual and single-occurrence
+    items require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1953
+  input_sha256: ec9048b5afd2731eaac047326c35945490262c8cde2a9503434121de79b7036b
+

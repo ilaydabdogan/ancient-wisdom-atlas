@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2687
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fate-bound-and-deferred-combat
+  motif_id: fate_bound_and_deferred_combat
+  label: fate-bound and deferred combat
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label emphasizes combat governed or postponed by fate, matching the
+    fate-determined death/combat complex.
+  cautions: Single occurrence; if the passage stresses duel form more than destiny,
+    sacred_combat may be the better primary group.
+  suggested_aliases:
+  - deferred_combat_under_fate
+  - fated_combat_delayed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-marked-hero-cannot-be-resisted
+  motif_id: fate_marked_hero_cannot_be_resisted
+  label: fate-marked hero cannot be resisted
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero whose victory or advance cannot be resisted because of fate fits
+    destiny as an overriding power.
+  cautions: Could also be divine_warrior or royal_legitimacy if the passage emphasizes
+    divine sanction, heroic prowess, or destined rule rather than fate itself.
+  suggested_aliases:
+  - irresistible_fate_marked_hero
+  - fated_hero_cannot_be_resisted
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fate-protected-hero-in-battle
+  motif_id: fate_protected_hero_in_battle
+  label: fate-protected hero in battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protection in battle because the hero's fate has not yet arrived belongs
+    with destiny governing combat outcomes and death.
+  cautions: If protection is enacted by a god or sacred power rather than abstract
+    fate, divine_warrior or divine_intervention may be preferable.
+  suggested_aliases:
+  - hero_protected_until_fated_death
+  - battle_protection_by_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fateful-heroic-single-combat
+  motif_id: fateful_heroic_single_combat
+  label: fateful heroic single combat
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core form is heroic single combat, already covered by sacred_combat
+    and its duel aliases.
+  cautions: Add death_by_fate as a secondary review consideration if the passage foregrounds
+    destined death or unavoidable doom.
+  suggested_aliases:
+  - fated_single_combat
+  - fateful_champion_duel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-enemies-imagined-as-monsters-but-explained-as-humans-with-weapons
+  motif_id: feared_enemies_imagined_as_monsters_but_explained_as_humans_with_weapons
+  label: Feared enemies imagined as monsters but explained as humans with weapons
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe demythologizing, enemy perception, or ethnographic
+    explanation rather than a stable narrative motif.
+  cautions: Culturally sensitive and highly contextual; verify source evidence before
+    mapping to sacred_combat, threshold_guardian, or _meta_textual.
+  suggested_aliases:
+  - enemies_misrecognized_as_monsters
+  - human_enemies_explained_as_monsters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-prowess-of-the-peerless-mounted-hero
+  motif_id: feared_prowess_of_the_peerless_mounted_hero
+  label: feared prowess of the peerless mounted hero
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A peerless feared mounted hero is a heroic-warrior role variant within
+    the divine_warrior/sacred combat complex.
+  cautions: May be an over-specific praise epithet if no sacred, exceptional, or combat-ordering
+    function is present.
+  suggested_aliases:
+  - peerless_mounted_hero
+  - feared_mounted_warrior_prowess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-servant-expelled-by-a-test-of-strength-or-weight
+  motif_id: feared_servant_expelled_by_a_test_of_strength_or_weight
+  label: Feared servant expelled by a test of strength or weight
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines social role, expulsion, and ordeal-test elements without
+    a clear existing primary function.
+  cautions: Could fit initiation, divine_judgment, trickster, or a local episode-specific
+    detail depending on whether the test reveals identity, punishes threat, or removes
+    a disruptive figure.
+  suggested_aliases:
+  - dangerous_servant_expelled_by_strength_test
+  - expulsion_by_weight_or_strength_test
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fearful-companion-before-dangerous-combat
+  motif_id: fearful_companion_before_dangerous_combat
+  label: fearful companion before dangerous combat
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The scene is a pre-combat companion reaction within a combat episode,
+    but likely too granular for a distinct motif.
+  cautions: Preserve as evidence detail; if fear marks an initiation ordeal or omen
+    of death, review under initiation or death_by_fate as secondary.
+  suggested_aliases:
+  - companion_fears_before_combat
+  - fear_before_dangerous_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fearful-witness-warns-the-seeker-of-a-dangerous-champion
+  motif_id: fearful_witness_warns_the_seeker_of_a_dangerous_champion
+  label: Fearful witness warns the seeker of a dangerous champion
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warning from a witness before confronting a champion functions as a
+    quest-stage danger warning or threshold encounter.
+  cautions: If the passage focuses on the champion duel itself, sacred_combat may
+    be the primary mapping; if the witness guards access, threshold_guardian may be
+    relevant.
+  suggested_aliases:
+  - warning_of_dangerous_champion
+  - witness_warns_seeker_before_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fearless-warrior-watches-a-vast-enemy-host
+  motif_id: fearless_warrior_watches_a_vast_enemy_host
+  label: Fearless warrior watches a vast enemy host
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The fearless warrior facing a vast host aligns with outnumbered or steadfast
+    heroic-warrior motifs under divine_warrior.
+  cautions: Likely a scene-specific valor detail unless followed by combat, last stand,
+    or divinely aided victory.
+  suggested_aliases:
+  - fearless_warrior_faces_vast_host
+  - steadfast_warrior_before_overwhelming_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence combat-scene details; map provisionally
+  to broad groups and preserve local detail rather than promoting new motifs.
+- Fate-related combat labels should distinguish abstract destiny from divine battlefield
+  intervention or ordinary heroic prowess.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally contextual
+    or over-specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2687
+  input_sha256: 53b0ee907fc69e15e49d29e0a7dd292945da9d7502d7537a165f519eefc80c53
+

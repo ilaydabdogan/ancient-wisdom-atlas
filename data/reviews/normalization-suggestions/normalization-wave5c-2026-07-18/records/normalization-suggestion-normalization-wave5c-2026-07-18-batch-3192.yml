@@ -1,0 +1,326 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3192
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bodily-anomaly-with-metal-appendage
+  motif_id: bodily_anomaly_with_metal_appendage
+  label: bodily anomaly with metal appendage
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests an unusual body feature, but its narrative function
+    is unclear from wording alone.
+  cautions: Could be transformation, sacred craft, a monster/being descriptor, disability-coded
+    detail, or passage artifact; avoid mapping without source evidence.
+  suggested_aliases:
+  - metal appendage
+  - metal body part
+  - anomalous metal limb
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_craft
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-cutting-grants-speed
+  motif_id: bodily_cutting_grants_speed
+  label: Bodily cutting grants speed
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Body modification that grants an ability may be empowerment or transformation,
+    but the mechanism and ritual context are unclear.
+  cautions: Could fit shapeshifter, initiation, sacrifice, or magical empowerment;
+    single occurrence and culturally specific body-cutting detail need review.
+  suggested_aliases:
+  - cutting the body grants speed
+  - body modification grants speed
+  - speed gained through bodily cutting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - initiation
+    - sacrifice
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-distress-producing-nightmare
+  motif_id: bodily_distress_producing_nightmare
+  label: bodily distress producing nightmare
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a nightmare or altered dream state arising from
+    bodily distress.
+  cautions: If the passage is a medical explanation rather than a sacred dream or
+    narrative event, it may be too contextual for pattern queries.
+  suggested_aliases:
+  - nightmare caused by bodily distress
+  - bodily discomfort causing bad dream
+  - physical distress produces nightmare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-emission-as-destructive-force
+  motif_id: bodily_emission_as_destructive_force
+  label: bodily emission as destructive force
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A bodily substance or emission acting destructively may be magical power,
+    taboo pollution, or comic/monstrous episode depending on context.
+  cautions: Potentially sensitive and over-specific; do not force into sacred_substance
+    or divine_judgment unless the source frames the emission as sacred, punitive,
+    or cosmically potent.
+  suggested_aliases:
+  - destructive bodily emission
+  - body emission as weapon
+  - harmful bodily substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - sacred_law
+    - trickster
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-empowerment-and-supernatural-sight
+  motif_id: bodily_empowerment_and_supernatural_sight
+  label: bodily empowerment and supernatural sight
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural sight aligns with opened perception and visionary access
+    to hidden reality.
+  cautions: If the emphasis is sacred instruction or initiation rather than altered
+    perception, sacred_knowledge or initiation may be better secondary mappings.
+  suggested_aliases:
+  - supernatural sight through bodily empowerment
+  - body empowered for visionary sight
+  - opened supernatural perception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - initiation
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-feature-origins-through-pursuit-and-capture
+  motif_id: bodily_feature_origins_through_pursuit_and_capture
+  label: Bodily feature origins through pursuit and capture
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes an etiological origin for bodily features, parallel
+    to other origin and explanation motifs.
+  cautions: If the passage emphasizes transformation of a captured being rather than
+    etiology, shapeshifter may be a better co-mapping; preserve pursuit/capture as
+    evidence detail.
+  suggested_aliases:
+  - origin of bodily features through capture
+  - body-feature etiology from pursuit
+  - pursuit and capture explain body features
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-hair-demanded-as-toll
+  motif_id: bodily_hair_demanded_as_toll
+  label: Bodily hair demanded as toll
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A demanded bodily token as toll may involve threshold passage, humiliation,
+    ransom, or exchange.
+  cautions: 'Needs source context: hair could be a recognition token, life-token,
+    honor marker, magical substance, or merely an episode-specific payment.'
+  suggested_aliases:
+  - hair demanded as toll
+  - bodily token demanded for passage
+  - hair as passage payment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - sacred_exchange
+    - external_soul
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-infestation-revealed-and-expelled
+  motif_id: bodily_infestation_revealed_and_expelled
+  label: Bodily infestation revealed and expelled
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Revealing and expelling an infestation fits the existing ritual expulsion/exorcism
+    complex under sacrifice.
+  cautions: If the infestation is medical, parasitic, or a trickster episode rather
+    than spirit-affliction, human review should adjust or exclude.
+  suggested_aliases:
+  - infestation revealed and expelled
+  - expulsion of bodily infestation
+  - revealed bodily affliction expelled
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_intervention
+    - soul_loss_restoration
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-injury-cured-with-spittle
+  motif_id: bodily_injury_cured_with_spittle
+  label: bodily injury cured with spittle
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Healing by spittle suggests a sacred substance or miracle-healing pattern,
+    but no existing group cleanly covers bodily healing media.
+  cautions: Could be divine_intervention, sacred_substance, ritual healing, or an
+    over-specific folk-medicine detail; source context is needed before broad indexing.
+  suggested_aliases:
+  - healing injury with spittle
+  - spittle as healing substance
+  - saliva cures bodily injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_substance
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-labor-as-material-softening
+  motif_id: bodily_labor_as_material_softening
+  label: Bodily labor as material softening
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label implies bodily effort transforms material, but its mythic function
+    is not identifiable from the label alone.
+  cautions: Could be sacred craft, culture-hero technology, etiological explanation,
+    or passage-specific labor detail; review before mapping.
+  suggested_aliases:
+  - labor softens material
+  - bodily effort transforms material
+  - material softened by bodily labor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - culture_hero
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence, body-focused, and culturally specific; human
+  review should check whether they are narrative motifs, ritual/ethnographic details,
+  or generated passage artifacts.
+- Where healing, body modification, or bodily substances are involved, existing groups
+  only partially fit; avoid creating a broad body-magic group unless multiple recurring
+  labels show stable narrative functions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; high uncertainty for most body-anomaly
+    and body-substance labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3192
+  input_sha256: b98d7c6e9245563d6b1d8635b4b61a89ae20e4fc6ea04de79b9abb6cd797e9ca
+

@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1741
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.accused-companions-killed-after-a-recovered-child-is-produced
+  motif_id: accused_companions_killed_after_a_recovered_child_is_produced
+  label: Accused companions killed after a recovered child is produced
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines accusation, child recovery, and killing of companions;
+    the main function is unclear from the label alone.
+  cautions: Could involve false accusation, judgment, persecuted child, or episode-specific
+    retaliation; source context is needed.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.acquisition-of-wife-and-town-after-removal-of-an-uncle
+  motif_id: acquisition_of_wife_and_town_after_removal_of_an_uncle
+  label: Acquisition of wife and town after removal of an uncle
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe succession, marriage acquisition, or local political
+    replacement, but its symbolic function is not clear.
+  cautions: Single-occurrence composite; may fit royal_legitimacy, sacred_love, or
+    sacred_combat depending on how the uncle is removed.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.address-to-a-personified-threshold-object
+  motif_id: address_to_a_personified_threshold_object
+  label: Address to a personified threshold-object
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A personified threshold-object functions as a liminal boundary figure
+    addressed before passage or transition.
+  cautions: If this is a ritual formula or isolated object-address rather than a guardian-like
+    threshold function, sacred_law or meta exclusion may be better.
+  suggested_aliases:
+  - personified_threshold_object
+  - addressed_threshold_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.admired-maiden-withheld-by-courtly-custom
+  motif_id: admired_maiden_withheld_by_courtly_custom
+  label: admired maiden withheld by courtly custom
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on a desired bride or maiden whose access is constrained
+    by social custom, fitting courtship and bride-choice patterns under sacred_love.
+  cautions: If the custom primarily encodes law, rank, or succession rather than love/courtship,
+    sacred_law or royal_legitimacy may be better.
+  suggested_aliases:
+  - maiden_withheld_by_courtly_custom
+  - courtly_custom_blocks_bride_access
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-of-a-widow-s-child-by-her-new-husband
+  motif_id: adoption_of_a_widow_s_child_by_her_new_husband
+  label: Adoption of a widow's child by her new husband
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes kinship incorporation after remarriage, but no existing
+    group cleanly captures adoption or household reconstitution.
+  cautions: May be an ethnographic or plot detail rather than a reusable motif; could
+    relate to covenant, sacred_law, or miraculous_child only with stronger evidence.
+  suggested_aliases:
+  - stepfather_adopts_widow_s_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-of-an-outsider-into-family-clan-and-tribe
+  motif_id: adoption_of_an_outsider_into_family_clan_and_tribe
+  label: adoption of an outsider into family, clan, and tribe
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Kinship Adoption and Social Incorporation
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'This is a social incorporation motif: an outsider is ritually or socially
+    made kin and integrated into broader identity groups.'
+  cautions: Only one occurrence in this batch; create a group only if adoption/incorporation
+    labels recur across sources.
+  suggested_aliases:
+  - outsider_adopted_into_clan
+  - adoption_into_family_clan_and_tribe
+  - kinship_incorporation_of_outsider
+  suggested_new_group:
+    id: kinship_adoption_social_incorporation
+    label: Kinship Adoption and Social Incorporation
+    description: An outsider, orphan, captive, spouse, or dependent is incorporated
+      into a family, clan, lineage, tribe, or social body through adoption, marriage,
+      ritual, or recognized kinship status.
+    parent_group_ids:
+    - covenant
+    - sacred_law
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - royal_legitimacy
+    - sacred_love
+    reason_existing_groups_insufficient: Existing groups cover covenant, law, hospitality,
+      and marriage, but not the specific transformation of social identity through
+      adoption or incorporation into kin groups.
+- suggestion_id: normalization.suggestion.adoption-of-foreign-tools-animals-and-foods-through-trade-and-intermarriage
+  motif_id: adoption_of_foreign_tools_animals_and_foods_through_trade_and_intermarriage
+  label: Adoption of foreign tools, animals, and foods through trade and intermarriage
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: low
+  rationale: The label concerns acquisition of cultural goods and practices, which
+    broadly fits culture-hero or cultural-foundation themes.
+  cautions: This may be historical/social commentary rather than a mythic motif; avoid
+    treating trade or intermarriage as transmission evidence in this normalization
+    task.
+  suggested_aliases:
+  - adoption_of_foreign_cultural_goods
+  - foreign_tools_animals_and_foods_adopted_through_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adulterous-lover-killed-while-sleeping
+  motif_id: adulterous_lover_killed_while_sleeping
+  label: adulterous lover killed while sleeping
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif frames sexual transgression followed by punitive killing, fitting
+    moral reckoning and consequence.
+  cautions: If the emphasis is vendetta, betrayal, or domestic violence rather than
+    sacred or moral judgment, sacred_combat or needs_human_review may be better.
+  suggested_aliases:
+  - sleeping_adulterous_lover_killed
+  - adulterous_lover_punished_by_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adultery-punished-through-expulsion-beating-or-lover-killing
+  motif_id: adultery_punished_through_expulsion_beating_or_lover_killing
+  label: adultery punished through expulsion, beating, or lover-killing
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explicitly describes punishment for a sexual transgression,
+    aligning with judgment and moral consequence.
+  cautions: May be a social-law or customary sanction rather than divine judgment;
+    consider sacred_law if the passage emphasizes norms more than punishment.
+  suggested_aliases:
+  - punishment_for_adultery
+  - adultery_punished_by_expulsion_or_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.advisor-identifies-an-exceptional-bride-through-comparison
+  motif_id: advisor_identifies_an_exceptional_bride_through_comparison
+  label: Advisor identifies an exceptional bride through comparison
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: Bride identification by an advisor fits bride-choice and courtship selection
+    motifs already grouped under sacred_love.
+  cautions: If the advisor’s comparison is primarily a wisdom test, royal matchmaking,
+    or recognition proof, sacred_knowledge, royal_legitimacy, or recognition_tokens_hidden_identity
+    may be secondary.
+  suggested_aliases:
+  - exceptional_bride_identified_by_advisor
+  - bride_identification_through_comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several love_family_gender_body labels are single-occurrence kinship or marriage
+  details; human review should decide whether they are durable motifs or passage-specific
+  plot summaries.
+- Do not infer cultural transmission from labels involving trade, intermarriage, or
+  adoption; the suggestions only address taxonomy placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source passages needed for low-confidence
+    kinship and punishment labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1741
+  input_sha256: 6c28c2e70b13c847b86a7d269aa3a28fb1e099564713f5ca809776447e60dcc5
+

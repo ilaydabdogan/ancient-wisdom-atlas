@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3576
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.incantations-alter-celestial-and-weather-conditions
+  motif_id: incantations_alter_celestial_and_weather_conditions
+  label: incantations alter celestial and weather conditions
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on spoken incantation as an effective act that alters
+    cosmic or weather conditions.
+  cautions: Could instead belong under sacred_knowledge, divine_intervention, or a
+    future magic/weather-working group if the passage emphasizes ritual technique
+    rather than speech act.
+  suggested_aliases:
+  - weather_altering_incantation
+  - incantation_controls_weather_or_celestial_conditions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.incantatory-appeal-for-attention
+  motif_id: incantatory_appeal_for_attention
+  label: incantatory appeal for attention
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too generic to tell whether the appeal is prayer, spell,
+    invocation, ritual summons, or formulaic address.
+  cautions: Single occurrence and culturally contextual; avoid mapping without source
+    evidence about who is addressed and what the incantation accomplishes.
+  suggested_aliases:
+  - ritual_appeal_for_attention
+  - incantatory_invocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.incantatory-healing-and-expulsion-of-harmful-beings
+  motif_id: incantatory_healing_and_expulsion_of_harmful_beings
+  label: Incantatory healing and expulsion of harmful beings
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The existing sacrifice group already includes ritual expulsion, exorcism,
+    and community clearance of harmful spiritual beings.
+  cautions: Because healing by incantation is prominent, secondary review may consider
+    sacred_law or curse_blessing_speech; do not imply sacrificial offering unless
+    present.
+  suggested_aliases:
+  - incantatory_exorcistic_healing
+  - healing_incantation_expels_harmful_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.incarnation-or-putting-on-flesh
+  motif_id: incarnation_or_putting_on_flesh
+  label: Incarnation or putting on flesh
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Incarnation may be a central theological doctrine rather than a general
+    motif, and its narrative function is not clear from the label alone.
+  cautions: Could touch theophany, divine_parent_child, sacred_birth, or death_and_transformation
+    depending on context; culturally sensitive doctrinal material needs human review.
+  suggested_aliases:
+  - divine_incarnation
+  - putting_on_flesh
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.incensing-a-medicine-bundle-or-bag
+  motif_id: incensing_a_medicine_bundle_or_bag
+  label: incensing a medicine bundle or bag
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a specific ritual handling of a sacred object, but
+    the function is not supplied.
+  cautions: Culturally sensitive Indigenous ceremonial object; source context should
+    determine whether this is purification, offering, protection, sacred_treasures,
+    or a non-queryable ethnographic detail.
+  suggested_aliases:
+  - incensing_sacred_medicine_bundle
+  - ritual_smoke_for_medicine_bundle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.incestuous-origin-of-peoples
+  motif_id: incestuous_origin_of_peoples
+  label: Incestuous origin of peoples
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif explains the origin or genealogy of peoples, matching existing
+    ancestral and eponymous origin children under cosmic_origin.
+  cautions: Incest is important local content and should not be erased; could require
+    human review if the passage is polemical, etiological, or doctrinally sensitive.
+  suggested_aliases:
+  - origin_of_peoples_through_incest
+  - genealogical_origin_of_peoples_from_incestuous_union
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.incident-leading-to-monastic-regulation
+  motif_id: incident_leading_to_monastic_regulation
+  label: incident leading to monastic regulation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: An event generating a monastic rule fits sacred law as the origin or
+    regulation of religious social order.
+  cautions: May be a Vinaya legal narrative or passage artifact rather than a reusable
+    mythic motif; preserve incident details separately if needed.
+  suggested_aliases:
+  - origin_incident_for_monastic_rule
+  - monastic_regulation_from_precedent_incident
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.incised-celestial-ocular-and-marine-images-on-stones
+  motif_id: incised_celestial_ocular_and_marine_images_on_stones
+  label: incised celestial, ocular, and marine images on stones
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names iconographic content on stones but not the narrative
+    or ritual function of the images.
+  cautions: Could be sacred_treasures, sacred_craft, cosmic_origin, sacred_waters,
+    or a material-culture artifact; avoid pattern-query mapping without evidence of
+    function.
+  suggested_aliases:
+  - incised_sacred_images_on_stones
+  - celestial_ocular_marine_stone_iconography
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inclusion-of-converts-across-religious-boundaries
+  motif_id: inclusion_of_converts_across_religious_boundaries
+  label: Inclusion of converts across religious boundaries
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: low
+  rationale: Inclusion of converts concerns entry into a sacred community and binding
+    religious relationship.
+  cautions: May be legal, ethical, or historical-community material rather than a
+    motif; human review should check whether it is narrative pattern or doctrinal/social
+    teaching.
+  suggested_aliases:
+  - convert_inclusion_across_religious_boundaries
+  - sacred_community_includes_converts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.inclusive-probation-for-multiple-concealed-offences
+  motif_id: inclusive_probation_for_multiple_concealed_offences
+  label: inclusive probation for multiple concealed offences
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Probation for concealed offences is a disciplinary rule within sacred
+    social order.
+  cautions: Likely a monastic legal-procedural detail; exclude or down-rank from broad
+    motif queries if it remains passage-specific.
+  suggested_aliases:
+  - probation_for_concealed_offences
+  - monastic_probation_for_multiple_concealed_offenses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual, legal, or doctrinal items;
+  human review should verify whether each functions as a recurring motif rather than
+  a source-specific classification note.
+- Incantation labels may need a future cross-cutting review for performative speech,
+  ritual healing, and magic/weather-working distinctions.
+reviewer_status:
+  status: draft
+  reviewer: ''
+  reviewed_at: ''
+  notes: ''
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3576
+  input_sha256: e94d69fdc18f88b3d88a65d2e65e432b88dc1a8ebf03da7beaa3cd44517d8fd7
+

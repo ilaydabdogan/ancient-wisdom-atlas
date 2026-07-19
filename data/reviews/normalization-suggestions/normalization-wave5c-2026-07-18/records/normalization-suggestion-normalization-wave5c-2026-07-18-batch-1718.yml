@@ -1,0 +1,326 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1718
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.tobacco-preparation-and-cigarette-smoking
+  motif_id: tobacco_preparation_and_cigarette_smoking
+  label: tobacco preparation and cigarette smoking
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a substance-use practice but does not show whether tobacco
+    functions ritually, socially, medicinally, or as ordinary ethnographic detail.
+  cautions: Culturally specific tobacco use may be sacred or ceremonial; source evidence
+    is needed before mapping to sacred_substance, sacred_exchange, or excluding as
+    contextual detail.
+  suggested_aliases:
+  - ritual_tobacco_preparation
+  - ceremonial_smoking
+  - tobacco_smoking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tool-transformation-and-reuse-under-material-scarcity
+  motif_id: tool_transformation_and_reuse_under_material_scarcity
+  label: tool transformation and reuse under material scarcity
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe adaptive craft practice rather than a symbolic
+    or narrative motif.
+  cautions: Could fit sacred_craft only if tool reuse is ritually or mythically charged;
+    otherwise likely an ethnographic/contextual detail. Avoid flattening Arctic material
+    practices into generalized scarcity tropes without evidence.
+  suggested_aliases:
+  - adaptive_tool_reuse
+  - tool_reuse_under_scarcity
+  - transformation_of_tools_for_reuse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.totemic-or-crest-based-social-group-marking
+  motif_id: totemic_or_crest_based_social_group_marking
+  label: totemic or crest-based social group marking
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Totemic Identity and Crest Marking
+  relationship: role_variant
+  confidence: medium
+  rationale: The label concerns social identity marked through animal/crest symbols,
+    which is not well covered by royal_legitimacy or sacred_law.
+  cautions: Needs careful review because totemic and crest systems are culturally
+    specific; confirm that the passage describes symbolic social marking rather than
+    a modern analytic category.
+  suggested_aliases:
+  - totemic_identity_marking
+  - crest_based_group_identity
+  - totemic_social_group_marking
+  suggested_new_group:
+    id: totemic_identity_crest_marking
+    label: Totemic Identity and Crest Marking
+    description: Social groups, kin groups, clans, or lineages are identified, authorized,
+      or distinguished through totemic beings, crest symbols, animal emblems, or inherited
+      marks.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_treasures
+    - serpent_guardian
+    - culture_hero
+    reason_existing_groups_insufficient: Existing groups cover kingship, sacred law,
+      animals, and power objects, but none directly captures emblematic social identity
+      through totems or crests.
+- suggestion_id: normalization.suggestion.tourney-as-judgment-of-possession
+  motif_id: tourney_as_judgment_of_possession
+  label: Tourney as judgment of possession
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A tournament deciding possession uses formal combat as adjudication,
+    matching ritualized combat as a social-order mechanism.
+  cautions: If the emphasis is legal ownership rather than combat ordeal, covenant
+    or divine_judgment may be secondary; single Arthurian occurrence may be episode-specific.
+  suggested_aliases:
+  - combat_as_judgment_of_possession
+  - tournament_decides_possession
+  - trial_by_tourney
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tracking-a-lone-hunter-by-footprint
+  motif_id: tracking_a_lone_hunter_by_footprint
+  label: Tracking a lone hunter by footprint
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a practical episode detail rather than a recurring
+    symbolic motif.
+  cautions: Reconsider if footprints function as recognition tokens, supernatural
+    signs, or ritual tracking evidence in the source passage.
+  suggested_aliases:
+  - footprint_tracking_of_hunter
+  - tracking_by_footprints
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tracking-a-missing-relative-by-trail-signs
+  motif_id: tracking_a_missing_relative_by_trail_signs
+  label: tracking a missing relative by trail signs
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Tracking a missing kin figure may be a quest/rescue sequence, a recognition-sign
+    motif, or simply a plot detail.
+  cautions: Source context is needed to determine whether trail signs have symbolic
+    identity-proof function or only practical navigation value.
+  suggested_aliases:
+  - kin_tracking_by_trail_signs
+  - tracking_missing_kin
+  - trail_signs_reveal_missing_relative
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - recognition_tokens_hidden_identity
+    - stolen_beloved
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.tracking-and-identifying-game-through-spoor-and-arrows
+  motif_id: tracking_and_identifying_game_through_spoor_and_arrows
+  label: Tracking and identifying game through spoor and arrows
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a practical hunting-identification action with no
+    clear sacred or narrative function supplied.
+  cautions: Review if spoor or arrows function as supernatural signs, recognition
+    tokens, or ritual hunting evidence; otherwise preserve only as passage detail.
+  suggested_aliases:
+  - game_tracking_by_spoor
+  - identifying_game_by_spoor_and_arrows
+  - hunting_spoor_identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.trade-encounter-concealing-theft-and-provoking-reprisal
+  motif_id: trade_encounter_concealing_theft_and_provoking_reprisal
+  label: trade encounter concealing theft and provoking reprisal
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A trade exchange masking theft centers on violated reciprocal trust and
+    the retaliatory consequences of that breach.
+  cautions: If the reprisal is divinely sanctioned or morally judged, divine_judgment
+    may be secondary; if the focus is reciprocal exchange, sacred_exchange may also
+    apply.
+  suggested_aliases:
+  - theft_hidden_in_trade_encounter
+  - trade_betrayal_provokes_reprisals
+  - concealed_theft_during_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.traditional-authority-challenged-by-interpretation
+  motif_id: traditional_authority_challenged_by_interpretation
+  label: traditional authority challenged by interpretation
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe doctrinal debate or commentary rather than a narrative
+    motif, but could involve sacred law or knowledge authority.
+  cautions: Likely depends on source genre; exclude if it is scholarly interpretation
+    history rather than a motif within the tradition.
+  suggested_aliases:
+  - interpretation_challenges_traditional_authority
+  - hermeneutic_challenge_to_authority
+  - authority_contested_by_interpretation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_knowledge
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.traditional-authority-diminished-under-new-conditions
+  motif_id: traditional_authority_diminished_under_new_conditions
+  label: traditional authority diminished under new conditions
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like social change commentary rather than a stable mythic
+    motif.
+  cautions: May be a passage or ethnographic artifact unless a narrative pattern shows
+    sacred authority losing power under altered ritual, political, or cosmic conditions.
+  suggested_aliases:
+  - diminished_traditional_authority
+  - authority_declines_under_new_conditions
+  - traditional_power_loses_force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    - pride_and_downfall
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be single-occurrence practical, ethnographic,
+  or social-commentary details; source evidence should determine whether they are
+  motif-bearing before indexing.
+- Avoid treating culturally specific practices such as tobacco use, totemic marking,
+  Inuit tool reuse, or Indigenous tracking as symbolic motifs without passage-level
+  ritual or narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed for culturally
+    specific and context-dependent items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1718
+  input_sha256: 9d56fbc64282f0c51999b07a633d68a38fccadf045ffc8913dfec5df7463713c
+

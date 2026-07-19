@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0068
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.communal-lament-for-the-dead
+  motif_id: communal_lament_for_the_dead
+  label: communal lament for the dead
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A collective expression of grief for the dead fits the existing lament
+    and mourning group.
+  cautions: Single occurrence; preserve communal and Malagasy funerary context as
+    evidence detail.
+  suggested_aliases:
+  - collective_lament_for_the_dead
+  - communal_mourning_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-ownership-of-death-bed-religious-property
+  motif_id: communal_ownership_of_death_bed_religious_property
+  label: communal ownership of death-bed religious property
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a Buddhist monastic property rule rather than
+    a mythic motif.
+  cautions: Could belong under sacred_law if it is a recurring religious-legal motif,
+    or be excluded as contextual/legal passage detail if source-specific.
+  suggested_aliases:
+  - deathbed_religious_property_as_communal_property
+  - communal_claim_to_religious_property_at_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-public-lamentation-for-the-dead
+  motif_id: communal_public_lamentation_for_the_dead
+  label: communal public lamentation for the dead
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: Public communal lamentation is a clear variant of collective mourning
+    for the dead.
+  cautions: Single occurrence; public/communal performance may be important ritual
+    evidence but need not become a separate canonical group.
+  suggested_aliases:
+  - public_communal_lament_for_the_dead
+  - collective_public_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-removal-of-death-as-protection-from-sickness-and-plague
+  motif_id: communal_removal_of_death_as_protection_from_sickness_and_plague
+  label: Communal removal of Death as protection from sickness and plague
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A communal protective rite removing death/plague aligns with apotropaic
+    protection and purity regulation under sacred_law.
+  cautions: If the rite uses expulsion, scapegoat, or transfer mechanics, sacrifice/ritual_expulsion
+    may be a secondary fit; comparative label may be generalized commentary.
+  suggested_aliases:
+  - communal_removal_of_death
+  - apotropaic_removal_of_death_and_plague
+  - communal_ritual_protection_from_death_and_sickness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-slaughter-after-successful-return
+  motif_id: communal_slaughter_after_successful_return
+  label: Communal slaughter after successful return
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe sacrifice, victory celebration, homecoming rite,
+    or a passage-specific social event.
+  cautions: Map to sacrifice only if the slaughter is ritually offered or set apart;
+    map to return/hero_journey only if successful return is the main narrative function.
+  suggested_aliases:
+  - communal_ritual_slaughter_after_return
+  - slaughter_feast_after_successful_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-suffering-voiced-by-the-kine-s-soul
+  motif_id: communal_suffering_voiced_by_the_kine_s_soul
+  label: Communal suffering voiced by the Kine's Soul
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A personified animal or cosmic soul voicing suffering may involve sacred
+    speech, divine judgment, or Zoroastrian cosmology.
+  cautions: Culturally specific and source-dependent; avoid flattening Kine's Soul
+    into generic animal-soul or lament without evidence.
+  suggested_aliases:
+  - kine_s_soul_voices_communal_suffering
+  - personified_cattle_soul_laments_communal_suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-tomb-construction-with-feast
+  motif_id: communal_tomb_construction_with_feast
+  label: communal tomb construction with feast
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Tomb construction and feasting are communal mortuary acts maintaining
+    relations with the dead or ancestors.
+  cautions: If the focus is memorial honor for a named hero, heroic_funeral_rites
+    may be secondary; if only architectural detail, may be over-specific.
+  suggested_aliases:
+  - communal_tomb_building_feast
+  - mortuary_feast_at_tomb_construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communication-between-separated-spirits
+  motif_id: communication_between_separated_spirits
+  label: Communication between separated spirits
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label lacks context for whether the spirits are dead, living doubles,
+    dream-souls, or otherworld beings.
+  cautions: Could fit afterlife_passage, soul_loss_restoration, external_soul, or
+    otherworld depending on source evidence; do not map solely from 'spirits'.
+  suggested_aliases:
+  - separated_spirits_communicate
+  - communication_between_disembodied_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communion-of-dead-living-and-unborn-holy-persons
+  motif_id: communion_of_dead_living_and_unborn_holy_persons
+  label: Communion of dead, living, and unborn holy persons
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: broader_label
+  confidence: medium
+  rationale: The label centers on ritual or sacred relationship among living, dead,
+    and lineage/future persons, close to ancestor-relations patterns.
+  cautions: Zoroastrian holy-person communion may involve specific doctrines of souls
+    or fravashis; human review should preserve local theological meaning.
+  suggested_aliases:
+  - communion_of_living_dead_and_unborn
+  - holy_communion_across_generations
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.community-departure-from-the-death-site-during-mourning
+  motif_id: community_departure_from_the_death_site_during_mourning
+  label: community departure from the death site during mourning
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Leaving a death site during mourning reads as a mortuary taboo or protective
+    ritual regulation.
+  cautions: Could instead be ancestor_rites or lament_and_mourning if framed as care
+    for the dead rather than avoidance/protection; single occurrence is highly contextual.
+  suggested_aliases:
+  - mourning_departure_from_death_site
+  - ritual_avoidance_of_death_site_during_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence mortuary or ritual-practice descriptions; preserve
+  local funerary context and avoid promoting them to canonical motifs without recurrence.
+- Where labels describe communal mourning, existing lament_and_mourning is sufficient;
+  where they describe avoidance, contagion, or protective mortuary regulation, sacred_law
+  is the safer broad group.
+- Zoroastrian and comparative labels involving souls or personified Death require
+  cautious human review to avoid flattening doctrine-specific meanings.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0068
+  input_sha256: bb9f884e2f7a932c75d1a15dd25d11577600fd78436bceed87ecac0ed35c76d4
+

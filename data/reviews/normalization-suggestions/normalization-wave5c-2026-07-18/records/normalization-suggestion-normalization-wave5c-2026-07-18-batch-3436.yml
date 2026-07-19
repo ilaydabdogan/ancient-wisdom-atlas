@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3436
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.false-tale-punished-by-retributive-vengeance
+  motif_id: false_tale_punished_by_retributive_vengeance
+  label: false tale punished by retributive vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A false tale followed by retributive punishment fits moral reckoning
+    and consequences for wrongdoing.
+  cautions: Single occurrence; if vengeance is purely social or feud-based rather
+    than sacred/moral judgment, sacred_combat or covenant may be a better context-specific
+    mapping.
+  suggested_aliases:
+  - false tale punished by vengeance
+  - lying tale punished
+  - falsehood punished by retribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-teacher-protected-by-disciples
+  motif_id: false_teacher_protected_by_disciples
+  label: false teacher protected by disciples
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern false authority, sectarian loyalty, or narrative
+    opposition to true teaching, but the function is unclear without passage evidence.
+  cautions: Potentially culturally and doctrinally sensitive; avoid indexing as sacred_knowledge
+    or divine_judgment unless the source clearly frames deception, wrong teaching,
+    or karmic consequence as the motif.
+  suggested_aliases:
+  - disciples protect a false teacher
+  - false religious teacher shielded by followers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-teachers-lead-followers-to-ruin
+  motif_id: false_teachers_lead_followers_to_ruin
+  label: false teachers lead followers to ruin
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: False instruction causing ruin fits moral consequence and judgment on
+    deception or wrong guidance.
+  cautions: Could also belong under sacred_knowledge if the emphasis is corrupt teaching
+    rather than punishment; source context should determine final placement.
+  suggested_aliases:
+  - false teaching leads followers to ruin
+  - deceptive teachers bring ruin
+  - misguiding teachers punished by ruin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-trail-and-hidden-survivor
+  motif_id: false_trail_and_hidden_survivor
+  label: false trail and hidden survivor
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A false trail used to conceal a survivor is a deception and escape strategy,
+    fitting trickster or boundary-crossing stratagems.
+  cautions: If the emphasis is preservation of a remnant after catastrophe, survivor_pair
+    or ark_vessel may be relevant; if only a chase detail, it may be too specific
+    for broad queries.
+  suggested_aliases:
+  - false trail conceals survivor
+  - deceptive trail hides survivor
+  - misleading tracks protect hidden survivor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-trail-to-conceal-a-hidden-man
+  motif_id: false_trail_to_conceal_a_hidden_man
+  label: false trail to conceal a hidden man
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Creating a false trail to hide someone is a deceptive escape or concealment
+    tactic, fitting the trickster/deception complex.
+  cautions: Single occurrence and highly situational; may be an episode detail rather
+    than a reusable motif unless parallel false-trail labels recur.
+  suggested_aliases:
+  - false trail conceals hidden man
+  - misleading tracks hide a man
+  - deceptive trail for concealment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.famed-brave-captive-set-ashore-for-inspection
+  motif_id: famed_brave_captive_set_ashore_for_inspection
+  label: Famed brave captive set ashore for inspection
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a very specific episode action involving a captive
+    rather than a broad symbolic or narrative motif.
+  cautions: If source evidence shows a recurring captive-display, recognition, or
+    warrior-honor pattern, review under divine_warrior, sacred_combat, or recognition_tokens_hidden_identity;
+    otherwise preserve only as evidence detail.
+  suggested_aliases:
+  - brave captive displayed for inspection
+  - captive set ashore to be inspected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.familiar-northern-european-tale-grouping
+  motif_id: familiar_northern_european_tale_grouping
+  label: familiar Northern European tale grouping
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes comparative tale classification or scholarly grouping,
+    not a narrative motif in the story world.
+  cautions: Preserve as provenance or classification metadata if useful; do not use
+    as evidence of transmission or motif patterning.
+  suggested_aliases:
+  - Northern European tale grouping
+  - comparative tale grouping
+  - regional tale classification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.famine-and-abandonment-of-the-vulnerable
+  motif_id: famine_and_abandonment_of_the_vulnerable
+  label: Famine and abandonment of the vulnerable
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate social breakdown, moral testing, survival ordeal,
+    or narrative setting; no existing group cleanly captures famine vulnerability
+    without evidence.
+  cautions: Culturally sensitive and context-dependent; could map to divine_judgment
+    if famine is punishment, sacred_law if abandonment violates duty, or hero_journey/initiation
+    if it begins an ordeal.
+  suggested_aliases:
+  - vulnerable abandoned during famine
+  - famine causes abandonment of vulnerable kin
+  - abandonment in famine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.famine-as-narrative-setting
+  motif_id: famine_as_narrative_setting
+  label: Famine as narrative setting
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label explicitly frames famine as setting rather than a motif function
+    such as judgment, ordeal, scarcity, or social breakdown.
+  cautions: If the passage gives famine an active sacred or narrative role, remap
+    with that function; otherwise keep as contextual evidence only.
+  suggested_aliases:
+  - famine setting
+  - story set during famine
+  - famine background
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.famine-cannibalism-after-exhausting-ordinary-and-emergency-foods
+  motif_id: famine_cannibalism_after_exhausting_ordinary_and_emergency_foods
+  label: famine cannibalism after exhausting ordinary and emergency foods
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif involves famine extremity and cannibalism, but its narrative
+    function could be taboo violation, survival ordeal, social collapse, or origin
+    of danger.
+  cautions: Sensitive content and single occurrence; avoid broad mapping without source
+    evidence. Could fit sacred_law if taboo violation is central, divine_judgment
+    if punitive, or initiation/ordeal if survival trial is emphasized.
+  suggested_aliases:
+  - famine cannibalism after food exhaustion
+  - cannibalism under extreme famine
+  - emergency foods exhausted before cannibalism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several famine-related labels lack a stable existing group for scarcity, starvation,
+  and social breakdown; human review should decide whether these are motifs or contextual
+  settings.
+- False-teacher labels may be doctrinally sensitive and should be checked against
+  source passages before mapping as moral judgment or sacred knowledge.
+- False-trail labels appear semantically close and may later be normalized together
+  as deception/escape variants if recurrence is confirmed.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3436
+  input_sha256: f4d5911747d030f41deaef9d1272238e46369eab44f0aa341136632e9f0f618b
+

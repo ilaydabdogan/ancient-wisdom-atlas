@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2550
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.temporary-release-from-restraint-for-a-meal
+  motif_id: temporary_release_from_restraint_for_a_meal
+  label: Temporary release from restraint for a meal
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a highly specific scene and could involve captivity, hospitality,
+    trickery, or ritual restraint depending on passage context.
+  cautions: Single occurrence; do not map to sacred_exchange, trickster, or sacred_law
+    without evidence for the meal's function.
+  suggested_aliases:
+  - meal_release_from_captivity
+  - temporary_unbinding_for_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temporary-suspension-of-ordinary-restraints
+  motif_id: temporary_suspension_of_ordinary_restraints
+  label: temporary suspension of ordinary restraints
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too abstract to distinguish ritual liminality, social
+    license, taboo suspension, or ordinary plot convenience.
+  cautions: Needs source evidence; could fit initiation, sacred_time, sacred_law,
+    trickster, or be excluded as a passage artifact.
+  suggested_aliases:
+  - temporary_lifting_of_restraints
+  - ritual_suspension_of_restrictions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.temptation-resisted-by-self-restraint
+  motif_id: temptation_resisted_by_self_restraint
+  label: temptation resisted by self-restraint
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Resisting temptation through discipline is an ethical conduct motif aligned
+    with sacred law and moral order.
+  cautions: If the passage emphasizes philosophical self-knowledge or ascetic quest,
+    mystical_quest or sacred_knowledge may be better secondary mappings.
+  suggested_aliases:
+  - self_restraint_against_temptation
+  - ethical_self_control_over_desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.terrain-assisted-hunting-of-deer
+  motif_id: terrain_assisted_hunting_of_deer
+  label: terrain-assisted hunting of deer
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a practical hunting detail unless the terrain has sacred
+    agency, ritual significance, or mythic etiological function.
+  cautions: Single occurrence; avoid mapping to sacred_waters, axis_mundi, or divine_intervention
+    from nature imagery alone.
+  suggested_aliases:
+  - landscape_assisted_hunt
+  - terrain_aids_deer_hunting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.terrain-based-ambush-before-the-game-path
+  motif_id: terrain_based_ambush_before_the_game_path
+  label: terrain-based ambush before the game path
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe a specific tactical hunting or ambush setup
+    rather than a reusable symbolic motif.
+  cautions: Reconsider only if source evidence shows ritualized hunting, sacred animal
+    encounter, or mythic landscape agency.
+  suggested_aliases:
+  - ambush_at_game_path
+  - hunting_ambush_using_terrain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.terrain-specific-mastery-over-forest-obstacles
+  motif_id: terrain_specific_mastery_over_forest_obstacles
+  label: terrain-specific mastery over forest obstacles
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Mastering forest obstacles can function as a journey ordeal or proof
+    of competence in a transformative passage.
+  cautions: Low confidence because the label may be an ethnographic skill detail,
+    not a narrative motif; confirm ordeal or quest structure.
+  suggested_aliases:
+  - forest_obstacle_mastery
+  - mastery_of_forest_terrain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.terrestrial-water-deity-or-monster
+  motif_id: terrestrial_water_deity_or_monster
+  label: Terrestrial water deity or monster
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A water-associated being could be guardian, monster, deity, chaos force,
+    or sacred-water figure depending on role.
+  cautions: Culturally specific Navajo water-being evidence should be reviewed carefully;
+    do not collapse deity and monster functions without context.
+  suggested_aliases:
+  - land_water_deity
+  - terrestrial_water_monster
+  - water_associated_supernatural_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.terrifying-supernatural-gaze-under-moonlight
+  motif_id: terrifying_supernatural_gaze_under_moonlight
+  label: terrifying supernatural gaze under moonlight
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The motif centers on an altered or terrifying visual encounter, with
+    moonlight as scene-setting or intensifier.
+  cautions: Could instead fit threshold_guardian, death_by_fate, or divine_intervention
+    if the gaze causes death, blocks passage, or expresses divine agency.
+  suggested_aliases:
+  - terrifying_supernatural_gaze
+  - moonlit_supernatural_vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.territory-defined-by-mountains-seas-rivers-and-tribute-routes
+  motif_id: territory_defined_by_mountains_seas_rivers_and_tribute_routes
+  label: territory defined by mountains, seas, rivers, and tribute routes
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Defining territory by landscape boundaries and tribute routes supports
+    ordered rule and political geography.
+  cautions: If purely administrative geography with no sacred or legitimizing function,
+    exclude from motif queries or treat as contextual detail.
+  suggested_aliases:
+  - territorial_order_by_natural_boundaries
+  - tribute_routes_define_ordered_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.testing-successive-canoes-from-different-trees
+  motif_id: testing_successive_canoes_from_different_trees
+  label: testing successive canoes from different trees
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: low
+  rationale: Testing crafted canoes from different trees may belong with sacred craft
+    if the episode concerns selecting a ritually or mythically effective material.
+  cautions: May be a practical craft detail rather than motif; confirm supernatural
+    aid, origin story, ordeal, or sacred-tree significance before final mapping.
+  suggested_aliases:
+  - canoe_testing_from_different_trees
+  - trial_of_canoe_materials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be single-occurrence tactical, craft, or
+  landscape details; human review should verify whether they are narrative motifs
+  or passage artifacts.
+- Nature imagery alone was not treated as sufficient for mapping to cosmic, water,
+  or axis motifs without evidence of sacred function.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source context needed for low-confidence
+    nature and terrain labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2550
+  input_sha256: e5fd24add2e29ebe0958d613962f1e7886a9889b3d05737156fe7e378331824f
+

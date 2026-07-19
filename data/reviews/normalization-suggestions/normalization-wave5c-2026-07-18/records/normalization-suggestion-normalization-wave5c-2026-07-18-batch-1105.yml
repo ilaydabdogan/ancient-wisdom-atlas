@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1105
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritualized-naming-and-name-avoidance
+  motif_id: ritualized_naming_and_name_avoidance
+  label: Ritualized naming and name avoidance
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prescribed naming practice and avoidance likely function as ritual etiquette
+    or social-sacral regulation.
+  cautions: Single Confucian occurrence; may be more textual/etiquette detail than
+    recurring motif if not tied to sacred obligation.
+  suggested_aliases:
+  - name_taboo
+  - ritual_name_avoidance
+  - ritualized_naming_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-new-house-fire
+  motif_id: ritualized_new_house_fire
+  label: Ritualized new-house fire
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritually established house fire fits sacred fire as domestic presence,
+    purification, or consecration.
+  cautions: If the passage emphasizes house dedication or social law more than fire
+    symbolism, sacred_law or sacred_exchange may be secondary.
+  suggested_aliases:
+  - new_house_fire_rite
+  - domestic_sacred_fire
+  - house_consecration_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-official-writing-object
+  motif_id: ritualized_official_writing_object
+  label: ritualized official writing object
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a ceremonial bureaucratic object, writing as authority,
+    or an artifact of source description.
+  cautions: Needs passage evidence; could fit sacred_knowledge, sacred_law, sacred_treasures,
+    or be too contextual for motif queries.
+  suggested_aliases:
+  - ceremonial_writing_object
+  - official_written_token
+  - ritual_writing_implement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-or-solemn-epithet
+  motif_id: ritualized_or_solemn_epithet
+  label: ritualized or solemn epithet
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: An epithet label usually describes diction or naming style rather than
+    a narrative or symbolic motif.
+  cautions: If the epithet performs a curse, blessing, invocation, or divine manifestation,
+    remap with passage evidence to curse_blessing_speech or theophany.
+  suggested_aliases:
+  - solemn_epithet
+  - ritual_epithet
+  - formulaic_epithet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-pacification-of-armed-entry
+  motif_id: ritualized_pacification_of_armed_entry
+  label: Ritualized pacification of armed entry
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rite regulating armed entry fits sacred social order, taboo, and controlled
+    violence at a boundary.
+  cautions: Could also relate to sacred_combat or threshold_guardian if the passage
+    centers warfare or boundary passage rather than social regulation.
+  suggested_aliases:
+  - pacification_of_armed_entry
+  - armed_entry_pacification_rite
+  - ritual_disarming_at_entry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-peace-closure
+  motif_id: ritualized_peace_closure
+  label: ritualized peace closure
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A formal closure of peace functions as binding repair or restoration
+    of social-sacred relations.
+  cautions: If this is merely a liturgical ending formula, it may be a speech artifact;
+    if tied to offering, sacred_exchange may be secondary.
+  suggested_aliases:
+  - peace_closure_rite
+  - ritual_peace_settlement
+  - formal_peace_closure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-petition-through-prescribed-posture-and-repeated-speech
+  motif_id: ritualized_petition_through_prescribed_posture_and_repeated_speech
+  label: ritualized petition through prescribed posture and repeated speech
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prescribed bodily posture and repeated petition are ritualized acts seeking
+    response, favor, or relational repair.
+  cautions: Could fit curse_blessing_speech if the repeated utterance is performative,
+    or sacred_law if the emphasis is prescribed discipline.
+  suggested_aliases:
+  - ritual_petition_posture
+  - prescribed_posture_and_repeated_petition
+  - repeated_supplicatory_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-plunder-under-temporary-authority
+  motif_id: ritualized_plunder_under_temporary_authority
+  label: Ritualized plunder under temporary authority
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes ritual license, authority inversion, and plunder, and
+    may depend heavily on comparative context.
+  cautions: Could map to sacred_combat, sacred_law, royal_legitimacy, or pride_and_downfall;
+    comparative single occurrence needs evidence review.
+  suggested_aliases:
+  - licensed_ritual_plunder
+  - temporary_authority_for_plunder
+  - ritualized_plundering_license
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-postpartum-washing-and-bodily-care
+  motif_id: ritualized_postpartum_washing_and_bodily_care
+  label: ritualized postpartum washing and bodily care
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Postpartum washing and bodily care fit ritual purity, body regulation,
+    and social-sacral care after birth.
+  cautions: If the passage emphasizes extraordinary birth or child destiny, miraculous_child
+    may be a secondary mapping; otherwise keep as ritual purity detail.
+  suggested_aliases:
+  - postpartum_washing_rite
+  - ritual_postpartum_care
+  - birth_related_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritualized-preparation-for-war-by-taboos-medicine-provisions-and-home-observances
+  motif_id: ritualized_preparation_for_war_by_taboos_medicine_provisions_and_home_observances
+  label: Ritualized preparation for war by taboos, medicine, provisions, and home
+    observances
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: War preparation through taboos, medicines, provisions, and home observances
+    frames combat as ritually regulated.
+  cautions: Composite and culturally specific; preserve details and consider sacred_law
+    secondary if taboos are the main evidence.
+  suggested_aliases:
+  - ritual_war_preparation
+  - war_preparation_taboos_and_medicine
+  - home_observances_before_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence ritual labels; suggested placements are provisional
+  and should not promote new taxonomy motifs without recurrence.
+- Several labels may be ethnographic or passage-specific descriptions rather than
+  durable narrative motifs; review source context before broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_batch_suggester
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed for culturally
+    specific ritual practices and possible textual artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1105
+  input_sha256: b6d4883a50efb7996f88e1c12827575619860e230cd1f421394483cfb1289f4e
+

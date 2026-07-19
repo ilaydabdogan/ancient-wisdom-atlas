@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0714
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.concealment-by-sudden-ritualized-darkness
+  motif_id: concealment_by_sudden_ritualized_darkness
+  label: concealment by sudden ritualized darkness
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritualized concealment may be a purity, secrecy, or apotropaic rule,
+    but the function of the darkness is unclear from the label alone.
+  cautions: Single occurrence and culturally specific ritual context; avoid mapping
+    to sacred_fire/light or theophany without passage evidence.
+  suggested_aliases:
+  - ritual_darkness_concealment
+  - ritualized_darkness_as_concealment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-confession-and-probationary-purification
+  motif_id: concealment_confession_and_probationary_purification
+  label: Concealment, confession, and probationary purification
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Confession followed by probationary purification fits disciplinary sacred
+    law and ritual purification after transgression.
+  cautions: Could also relate to divine_judgment or sacrifice if the passage emphasizes
+    moral reckoning or offering; preserve Buddhist disciplinary specificity.
+  suggested_aliases:
+  - confession_and_probationary_purification
+  - ritual_confession_and_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-in-spring-waters-under-divine-protection
+  motif_id: concealment_in_spring_waters_under_divine_protection
+  label: Concealment in spring waters under divine protection
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Spring waters function as a protective sacred medium and hiding place,
+    aligning with sacred waters as boundary and transformation space.
+  cautions: If divine agency is the main focus rather than water symbolism, divine_intervention
+    may be a secondary mapping; source context is needed.
+  suggested_aliases:
+  - protective_concealment_in_spring_water
+  - concealment_in_sacred_spring_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-in-water-known-to-gods
+  motif_id: concealment_in_water_known_to_gods
+  label: Concealment in water known to gods
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Water serves as a concealment medium under divine awareness, fitting
+    sacred waters as liminal and protective space.
+  cautions: The phrase 'known to gods' may imply divine surveillance or intervention;
+    do not treat as flood, descent, or afterlife passage without evidence.
+  suggested_aliases:
+  - divinely_known_water_concealment
+  - concealment_in_sacred_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-of-divine-or-heroic-mutilation-with-natural-materials
+  motif_id: concealment_of_divine_or_heroic_mutilation_with_natural_materials
+  label: Concealment of divine or heroic mutilation with natural materials
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: over_specific_label
+  confidence: low
+  rationale: Mutilation of a divine or heroic body may relate to death-transformation,
+    but the label focuses on concealment of injury rather than transformation itself.
+  cautions: May be an episode-specific detail, ritual etiological explanation, or
+    shame/concealment scene; human review should inspect source evidence before indexing.
+  suggested_aliases:
+  - concealed_divine_mutilation
+  - heroic_mutilation_concealed_with_natural_materials
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-of-lethal-medicine-and-small-ritual-objects
+  motif_id: concealment_of_lethal_medicine_and_small_ritual_objects
+  label: Concealment of lethal medicine and small ritual objects
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Lethal medicine and ritual objects function as small power objects whose
+    concealment controls danger or sacred efficacy.
+  cautions: May overlap with sacred_law if the emphasis is ritual prohibition, or
+    divine_judgment if used punitively; culturally specific 'medicine' should be preserved
+    carefully.
+  suggested_aliases:
+  - concealed_lethal_ritual_objects
+  - hidden_dangerous_medicine_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-of-sacred-loss-from-outsiders
+  motif_id: concealment_of_sacred_loss_from_outsiders
+  label: Concealment of sacred loss from outsiders
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests protected sacred secrecy or communal boundary maintenance,
+    but the lost object/event and narrative function are not specified.
+  cautions: Could be a textual, political, relic, or ritual-secrecy detail; avoid
+    broad mapping without source review.
+  suggested_aliases:
+  - concealed_sacred_loss
+  - sacred_loss_hidden_from_outsiders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-of-sacred-objects-in-a-cave
+  motif_id: concealment_of_sacred_objects_in_a_cave
+  label: Concealment of sacred objects in a cave
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is sacred power objects hidden for protection or restricted
+    access; the cave is the storage/liminal setting.
+  cautions: If the cave itself is the ritual focus, descent or sacred_vessel may be
+    secondary; preserve cave setting as evidence detail.
+  suggested_aliases:
+  - hidden_sacred_objects_in_cave
+  - cave_concealment_of_power_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-of-unauthorized-sacred-visitation
+  motif_id: concealment_of_unauthorized_sacred_visitation
+  label: Concealment of unauthorized sacred visitation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Unauthorized sacred visitation implies taboo violation and concealment,
+    broadly fitting sacred law, but the motif depends on ritual context.
+  cautions: Could instead involve theophany, forbidden knowledge, or passage-specific
+    secrecy; review culturally sensitive visitation rules before mapping.
+  suggested_aliases:
+  - hidden_unauthorized_sacred_visit
+  - concealed_taboo_sacred_visitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.concealment-or-erasure-of-ritual-traces
+  motif_id: concealment_or_erasure_of_ritual_traces
+  label: Concealment or erasure of ritual traces
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Erasing ritual traces is a ritual regulation of secrecy, purity, or boundary
+    maintenance, fitting sacred law and protected practice.
+  cautions: Single occurrence; may be an ethnographic detail rather than a reusable
+    motif unless comparable secrecy/trace-erasure cases recur.
+  suggested_aliases:
+  - ritual_trace_erasure
+  - erasure_of_ritual_traces
+  - concealment_of_ritual_traces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels center on concealment or secrecy in culturally specific ritual settings;
+  placements are provisional and should be checked against passage evidence rather
+  than inferred from the word 'concealment' alone.
+- No new canonical group is recommended from this batch because most items are single-occurrence
+  and can be held by existing sacred_law, sacred_waters, or sacred_treasures groups
+  with cautions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: api-assistant
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed for culturally
+    specific ritual contexts and over-specific concealment labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0714
+  input_sha256: 5d138f290752f49ee948f31d89a5fc1cc7422669459a33051c6ff3c9427fd0b4
+

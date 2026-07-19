@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3753
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.overlap-between-sedna-cycle-and-adlet-european-origin-legend
+  motif_id: overlap_between_sedna_cycle_and_adlet_european_origin_legend
+  label: Overlap between Sedna cycle and Adlet/European origin legend
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes comparative overlap between narrative cycles, not
+    a motif within a passage.
+  cautions: Preserve as a review or provenance note if needed; do not use as evidence
+    of transmission or borrowing.
+  suggested_aliases:
+  - comparative_overlap_between_sedna_and_adlet_origin_legend
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overlord-betrayed-and-delivered-bound-to-rebel
+  motif_id: overlord_betrayed_and_delivered_bound_to_rebel
+  label: overlord betrayed and delivered bound to rebel
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key action is betrayal of a ruler or protector and delivery to an
+    enemy party.
+  cautions: Could also support sacred_combat or royal_legitimacy if the passage emphasizes
+    rebellion or transfer of rule rather than violated trust.
+  suggested_aliases:
+  - ruler_betrayed_and_bound_for_rebels
+  - overlord_delivered_bound_to_enemy_by_betrayal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overmighty-strong-man-killed-by-community
+  motif_id: overmighty_strong_man_killed_by_community
+  label: overmighty strong man killed by community
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A socially dangerous overmighty figure killed by the community may express
+    communal reckoning or restoration of order.
+  cautions: Source context is needed; this may be conflict, social control, monster-slaying,
+    or an episode-specific plot detail rather than divine judgment.
+  suggested_aliases:
+  - community_kills_overmighty_strong_man
+  - dangerous_strong_man_destroyed_by_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overthrow-of-an-evil-governor-for-the-kine
+  motif_id: overthrow_of_an_evil_governor_for_the_kine
+  label: overthrow of an evil governor for the Kine
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Overthrowing an evil ruler to repair moral or cosmic order fits judgment
+    and reckoning.
+  cautions: May also involve royal_legitimacy or sacred_law if the passage centers
+    on proper rulership or protection of cattle as sacred social order.
+  suggested_aliases:
+  - evil_governor_overthrown_for_the_kine
+  - unjust_ruler_overthrown_to_protect_cattle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overwhelming-a-lone-defender-with-a-wall-of-shields
+  motif_id: overwhelming_a_lone_defender_with_a_wall_of_shields
+  label: overwhelming a lone defender with a wall of shields
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A lone defender overcome by organized battle formation is a granular
+    combat scene.
+  cautions: Likely too tactical and episode-specific for canonical promotion; preserve
+    under sacred_combat unless heroic last stand is the clearer function.
+  suggested_aliases:
+  - lone_defender_overwhelmed_by_shield_wall
+  - shield_wall_overwhelms_lone_defender
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overwhelming-bodily-power-shown-through-broken-furniture-and-consumed-landscape
+  motif_id: overwhelming_bodily_power_shown_through_broken_furniture_and_consumed_landscape
+  label: overwhelming bodily power shown through broken furniture and consumed landscape
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label signals extraordinary bodily power, but its narrative function
+    is unclear from wording alone.
+  cautions: Could be divine_warrior, shapeshifter, monstrous appetite, culture-hero
+    strength, or local ceremonial imagery; review source evidence and cultural context
+    before mapping.
+  suggested_aliases:
+  - overwhelming_bodily_power_demonstrated_by_destruction_and_consumption
+  - giant_strength_shown_by_broken_furniture_and_consumed_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.overwhelming-collective-force-carries-away-the-youth
+  motif_id: overwhelming_collective_force_carries_away_the_youth
+  label: Overwhelming collective force carries away the youth
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A youth carried away by a collective force could be abduction, initiation,
+    divine seizure, or conflict depending on the passage.
+  cautions: Do not map to descent, sacred_love, or miraculous_child without evidence
+    of the abducting force, victim role, and outcome.
+  suggested_aliases:
+  - youth_carried_away_by_collective_force
+  - collective_force_abducts_youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.owl-associated-with-witch-naming
+  motif_id: owl_associated_with_witch_naming
+  label: Owl associated with witch naming
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The owl may function as omen, witchcraft marker, animal association,
+    or naming etiology, but the function is not clear.
+  cautions: Culturally sensitive witchcraft terminology and local animal symbolism
+    require source review; avoid forcing into prophecy_divination or shapeshifter
+    from label alone.
+  suggested_aliases:
+  - owl_as_marker_in_witch_naming
+  - owl_linked_to_witch_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.owl-cry-accompanying-a-conjurer-s-hidden-action
+  motif_id: owl_cry_accompanying_a_conjurer_s_hidden_action
+  label: owl cry accompanying a conjurer's hidden action
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes animal sound, conjuring, and concealed action without
+    enough evidence for a stable motif placement.
+  cautions: Could be omen, performative magic, deception, or ritual sound; culturally
+    specific conjurer material needs human review.
+  suggested_aliases:
+  - owl_cry_marks_conjurer_hidden_action
+  - owl_call_accompanies_concealed_conjuring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.owl-imitation-in-low-camp-singing
+  motif_id: owl_imitation_in_low_camp_singing
+  label: owl imitation in low camp singing
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a specific performance or song detail rather than
+    a clearly classifiable symbolic motif.
+  cautions: May be ritual music, animal imitation, or ethnographic performance notation;
+    review before mapping to enchanting_music or excluding as a passage artifact.
+  suggested_aliases:
+  - owl_sound_imitation_in_camp_song
+  - owl_imitation_in_ritual_or_camp_singing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several owl/conjurer/song labels are culturally specific and should be checked against
+  source evidence before normalization.
+- Episode-specific combat and political labels can usually be parked under existing
+  broad groups, but should not be promoted without recurrence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3753
+  input_sha256: 932e62a3a78a87c7d3d766b649831eb067d8b9060f25b0d98d8a6aafdb3e6e60
+

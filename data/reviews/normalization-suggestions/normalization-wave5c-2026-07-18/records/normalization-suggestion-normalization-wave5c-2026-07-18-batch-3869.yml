@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3869
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.regulated-use-of-communal-lodging-place-objects
+  motif_id: regulated_use_of_communal_lodging_place_objects
+  label: regulated use of communal lodging-place objects
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes rules governing shared monastic objects, fitting
+    sacred law and regulated communal conduct.
+  cautions: Likely a Vinaya/legal detail rather than a durable mythic motif; preserve
+    only if useful for monastic discipline queries.
+  suggested_aliases:
+  - monastic regulation of communal lodging objects
+  - regulated communal property use
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulation-arising-from-observed-excess
+  motif_id: regulation_arising_from_observed_excess
+  label: Regulation arising from observed excess
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rule created in response to excessive conduct fits sacred law as ethical
+    or disciplinary regulation.
+  cautions: Abstract and context-dependent; may be a commentary/legal-formula artifact
+    rather than a narrative motif.
+  suggested_aliases:
+  - disciplinary rule prompted by excess
+  - regulation after misconduct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulation-of-bodily-comfort-through-permitted-objects
+  motif_id: regulation_of_bodily_comfort_through_permitted_objects
+  label: regulation of bodily comfort through permitted objects
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Permitted objects governing bodily comfort are disciplinary purity and
+    conduct rules within sacred law.
+  cautions: Could be too specific to monastic legal passages; avoid treating the object
+    details as symbolic power objects without evidence.
+  suggested_aliases:
+  - permitted comfort objects in monastic discipline
+  - regulated bodily comfort
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulation-of-bodily-grooming-and-bathing-conduct
+  motif_id: regulation_of_bodily_grooming_and_bathing_conduct
+  label: Regulation of bodily grooming and bathing conduct
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Rules for grooming and bathing conduct fit sacred law, bodily discipline,
+    and purity regulation.
+  cautions: May overlap with purification if the passage emphasizes cleansing rather
+    than conduct regulation.
+  suggested_aliases:
+  - monastic grooming and bathing rules
+  - regulated bathing conduct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulation-of-monastic-bathing-infrastructure
+  motif_id: regulation_of_monastic_bathing_infrastructure
+  label: Regulation of monastic bathing infrastructure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Monastic infrastructure regulated by disciplinary rules belongs with
+    sacred law and social order.
+  cautions: Infrastructure wording may be administrative rather than motif-like; exclude
+    if it only records facility management.
+  suggested_aliases:
+  - rules for monastic bathing facilities
+  - regulated bathing infrastructure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulation-of-monastic-possessions-and-implements
+  motif_id: regulation_of_monastic_possessions_and_implements
+  label: regulation of monastic possessions and implements
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Rules limiting monastic possessions and implements are sacred-law discipline
+    and social order.
+  cautions: Do not map to sacred_treasures unless the implements carry sacred power,
+    authority, or recognition functions.
+  suggested_aliases:
+  - monastic possession rules
+  - regulated monastic implements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulation-of-mythic-poetry-for-moral-education
+  motif_id: regulation_of_mythic_poetry_for_moral_education
+  label: Regulation of mythic poetry for moral education
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern ethical control of narrative teaching, but it could
+    also be philosophical commentary about poetry.
+  cautions: Needs source review to decide between sacred_law, storytelling_as_power,
+    sacred_knowledge, or exclusion as literary-critical artifact.
+  suggested_aliases:
+  - moral regulation of mythic poetry
+  - censorship of poetry for education
+  - poetry governed for ethical instruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.regulation-of-status-like-objects
+  motif_id: regulation_of_status_like_objects
+  label: Regulation of status-like objects
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rules governing objects that imply rank or status fit monastic sacred
+    law and social discipline.
+  cautions: Could also touch renunciation or royal/status symbolism, but the wording
+    centers on regulation rather than object power.
+  suggested_aliases:
+  - regulated status objects
+  - discipline around status-marking objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rehabilitation-after-penance
+  motif_id: rehabilitation_after_penance
+  label: rehabilitation after penance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restoration after penance repairs a broken sacred or communal bond, fitting
+    covenantal restoration.
+  cautions: If the passage emphasizes disciplinary procedure over restored relationship,
+    sacred_law may be the better primary group.
+  suggested_aliases:
+  - restoration after penance
+  - reinstatement after penance
+  - penitential rehabilitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rejected-catches-before-the-chosen-whale
+  motif_id: rejected_catches_before_the_chosen_whale
+  label: Rejected catches before the chosen whale
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a culturally specific hunting or animal-selection
+    sequence not covered by existing groups.
+  cautions: Source context is needed; it may be a ritual hunting motif, animal-spirit
+    selection, subsistence detail, or over-specific episode label.
+  suggested_aliases:
+  - rejected prey before chosen whale
+  - selection of the proper whale catch
+  - chosen whale after rejected catches
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Many Buddhist items in this batch appear to be Vinaya or monastic discipline labels.
+  They can be provisionally grouped under sacred_law, but human review should decide
+  whether some are legal/commentary artifacts too granular for Pattern Explorer motif
+  queries.
+- Avoid mapping regulated objects to sacred_treasures unless the passage gives the
+  objects symbolic, miraculous, legitimating, or power-bearing function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; monastic legal labels and culturally
+    specific whale-hunting label require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3869
+  input_sha256: c4aa5d67d6546202195b466a0a6b6182aeab4f8447bbec564d3fdc8006938e2e
+

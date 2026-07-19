@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0696
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.celestial-or-divine-gift-of-fire
+  motif_id: celestial_or_divine_gift_of_fire
+  label: Celestial or divine gift of fire
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fire received from celestial or divine source fits sacred fire as divine
+    presence or gift.
+  cautions: If the passage emphasizes theft or culture-founding more than gift, review
+    secondary mapping to sacred_theft or culture_hero.
+  suggested_aliases:
+  - divine_gift_of_fire
+  - celestial_fire_gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-or-goddess-like-beauty-contrasted-with-vice
+  motif_id: celestial_or_goddess_like_beauty_contrasted_with_vice
+  label: celestial or goddess-like beauty contrasted with vice
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes beauty imagery with moral contrast, but no existing group
+    clearly captures this without passage context.
+  cautions: May be an ethical-literary comparison rather than a motif; could fit beauty_and_paradox,
+    divine_judgment, sacred_law, or be excluded if purely rhetorical.
+  suggested_aliases:
+  - goddess_like_beauty_contrasted_with_vice
+  - celestial_beauty_as_moral_contrast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-prayer-for-speech-and-sustenance
+  motif_id: celestial_prayer_for_speech_and_sustenance
+  label: celestial prayer for speech and sustenance
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prayer requesting speech and sustenance frames ritual petition as reciprocal
+    relation with sacred powers.
+  cautions: If speech empowerment is central, sacred_knowledge or curse_blessing_speech
+    may be relevant; if food provision is central, sacred_substance or divine_intervention
+    may be secondary.
+  suggested_aliases:
+  - prayer_for_speech_and_sustenance
+  - ritual_petition_for_speech_and_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-sign-confirms-divine-will-and-marks-a-route
+  motif_id: celestial_sign_confirms_divine_will_and_marks_a_route
+  label: Celestial sign confirms divine will and marks a route
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A celestial sign interpreted as divine will and route guidance functions
+    as omen or divinatory confirmation.
+  cautions: If the emphasis is journey guidance rather than omen interpretation, hero_journey
+    or divine_intervention may be useful secondary mappings.
+  suggested_aliases:
+  - celestial_omen_marks_route
+  - celestial_sign_of_divine_route_guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-signal-ending-a-rite
+  motif_id: celestial_signal_ending_a_rite
+  label: celestial signal ending a rite
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A celestial signal that determines ritual completion belongs with sacred
+    ordering of ritual time.
+  cautions: Single occurrence and highly contextual; if the signal is divinatory rather
+    than calendrical, prophecy_divination may be better.
+  suggested_aliases:
+  - celestial_rite_completion_signal
+  - heavenly_signal_ending_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-signs-regulate-ritual-time
+  motif_id: celestial_signs_regulate_ritual_time
+  label: Celestial signs regulate ritual time
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: Celestial signs structuring ritual timing directly match sacred time
+    and calendrical ritual order.
+  cautions: Preserve local astronomical or calendrical details in evidence notes;
+    do not infer transmission from shared celestial timing.
+  suggested_aliases:
+  - celestial_regulation_of_ritual_time
+  - astral_signs_order_ritual_time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-temple-cluster
+  motif_id: celestial_temple_cluster
+  label: Celestial temple cluster
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to tell whether it means a sky temple, temple
+    constellation, or grouped temples aligned to celestial order.
+  cautions: Could map to world_center, axis_mundi, sacred_time, or sacred_geography
+    depending on evidence; may be a passage artifact.
+  suggested_aliases:
+  - celestial_temple_complex
+  - temple_cluster_aligned_with_celestial_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celestial-witnesses-reveal-hidden-divine-crime
+  motif_id: celestial_witnesses_reveal_hidden_divine_crime
+  label: Celestial witnesses reveal hidden divine crime
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Celestial witnesses exposing hidden wrongdoing fit moral reckoning and
+    cosmic witness to transgression.
+  cautions: If the main function is omen testimony rather than judgment, prophecy_divination
+    or dream_and_vision may be secondary; divine crime wording needs source review.
+  suggested_aliases:
+  - cosmic_witnesses_reveal_hidden_crime
+  - celestial_witnesses_to_hidden_wrongdoing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.center-outward-ritual-image-making-in-directional-order
+  motif_id: center_outward_ritual_image_making_in_directional_order
+  label: Center-outward ritual image making in directional order
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual image making in ordered directions is sacred craft structured
+    by cosmological orientation.
+  cautions: Could also involve world_center or sacred_time if the center/directional
+    sequence is cosmological or calendrical; treat culturally specific ritual detail
+    carefully.
+  suggested_aliases:
+  - directional_ritual_image_making
+  - center_outward_sacred_image_craft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.central-ceremonial-lodge-prepared-for-a-sacred-guest
+  motif_id: central_ceremonial_lodge_prepared_for_a_sacred_guest
+  label: Central ceremonial lodge prepared for a sacred guest
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Preparing a ceremonial lodge for a sacred guest centers hospitality to
+    a sacred visitor as ritual obligation.
+  cautions: If the lodge's centrality is cosmological, world_center or axis_mundi
+    may be secondary; if no test or guest encounter occurs, sacred_exchange may be
+    broader.
+  suggested_aliases:
+  - ceremonial_lodge_prepared_for_sacred_guest
+  - sacred_guest_received_in_central_lodge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and ritual-contextual; suggested placements
+  should preserve local evidence notes rather than promote new canonical motifs.
+- Celestial sign labels split between sacred_time and prophecy_divination depending
+  on whether their function is calendrical regulation or omen interpretation.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    compressed or culturally specific ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0696
+  input_sha256: 3edb7dcf4cccabde326ec31e63041e2bf88cf4482bdeb77623f6e9e8d79582c7
+

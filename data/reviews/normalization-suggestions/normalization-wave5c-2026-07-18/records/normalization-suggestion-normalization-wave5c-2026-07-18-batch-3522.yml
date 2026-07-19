@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3522
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.healing-or-protection-by-insertion-of-plant-material-into-the-body
+  motif_id: healing_or_protection_by_insertion_of_plant_material_into_the_body
+  label: healing or protection by insertion of plant material into the body
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes healing, protection, plant medicine, and bodily insertion;
+    current groups separate sacred substances, apotropaic protection, and healing
+    signs but no precise healing-rite group exists.
+  cautions: Single occurrence and culturally specific ritual detail; source context
+    is needed before deciding whether this is sacred_law, sacred_substance, divine_intervention,
+    or an over-specific ethnographic note.
+  suggested_aliases:
+  - plant_material_inserted_for_healing_or_protection
+  - protective_healing_by_embedded_plant_medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-power-of-breath
+  motif_id: healing_power_of_breath
+  label: Healing power of breath
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Breath used as a healing power can fit supernatural or sacred agency
+    acting directly to restore health.
+  cautions: If breath is mainly a soul-substance or ritual technique rather than divine/spirit
+    agency, review against soul_loss_restoration, sacred_substance, or sacred_law.
+  suggested_aliases:
+  - breath_as_healing_power
+  - healing_breath
+  - curative_breath_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-through-empowered-objects-and-substances
+  motif_id: healing_through_empowered_objects_and_substances
+  label: Healing through empowered objects and substances
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on empowered material objects or substances used to
+    confer healing, which is close to power-object functions already grouped under
+    sacred_treasures.
+  cautions: If the passage emphasizes ingested or applied medicine rather than an
+    empowered object, sacred_substance may be a better secondary mapping.
+  suggested_aliases:
+  - healing_by_power_objects_and_substances
+  - curative_empowered_objects
+  - healing_power_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-through-rabbit-associated-medicine
+  motif_id: healing_through_rabbit_associated_medicine
+  label: Healing through Rabbit-associated medicine
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Rabbit-associated medicine may involve animal helper, trickster, sacred
+    substance, or culturally specific medicine-power evidence not recoverable from
+    the label alone.
+  cautions: Do not flatten culturally specific Rabbit medicine into generic trickster
+    or animal symbolism without source evidence; single occurrence may be too granular.
+  suggested_aliases:
+  - rabbit_associated_healing_medicine
+  - healing_by_rabbit_medicine
+  - rabbit_medicine_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-with-buffalo-chip-and-fat-poultice
+  motif_id: healing_with_buffalo_chip_and_fat_poultice
+  label: Healing with buffalo-chip-and-fat poultice
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label records a highly specific materia-medica detail rather than
+    a broad recurring motif.
+  cautions: Preserve as evidence if the source frames buffalo materials as sacred
+    medicine; otherwise exclude from broad pattern queries to avoid overfitting one
+    healing recipe.
+  suggested_aliases:
+  - buffalo_chip_and_fat_poultice
+  - specific_healing_poultice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-with-medicinal-herbs-after-a-fall
+  motif_id: healing_with_medicinal_herbs_after_a_fall
+  label: healing with medicinal herbs after a fall
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-specific healing detail, with ordinary medicinal
+    herbs and a specific injury context.
+  cautions: If the herbs are explicitly divine, miraculous, or revivifying, review
+    against sacred_substance or divine_intervention rather than excluding.
+  suggested_aliases:
+  - medicinal_herbs_after_fall
+  - herbal_healing_after_injury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heart-cut-out-and-eaten
+  motif_id: heart_cut_out_and_eaten
+  label: Heart cut out and eaten
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The act could be sacrifice, cannibalistic violence, life-force ingestion,
+    or a passage-specific violent detail; function is not clear from the label.
+  cautions: Culturally sensitive and violent label; avoid mapping to sacrifice or
+    sacred_substance unless the source shows ritual offering, transformation, or transferred
+    vitality.
+  suggested_aliases:
+  - heart_removed_and_eaten
+  - eating_the_cut_out_heart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heart-removal-and-eating-to-prolong-life
+  motif_id: heart_removal_and_eating_to_prolong_life
+  label: Heart removal and eating to prolong life
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explicitly frames eating a heart as ingesting a life-prolonging
+    power, fitting sacred or potent substance use.
+  cautions: Also overlaps with sacrifice, violence, and death-transformation; confirm
+    whether the passage presents transferred vitality rather than mere gruesome action.
+  suggested_aliases:
+  - eating_heart_to_prolong_life
+  - heart_ingestion_for_life_extension
+  - life_prolonging_heart_consumption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heart-shot-from-hidden-place
+  motif_id: heart_shot_from_hidden_place
+  label: heart-shot from hidden place
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is unclear: it may mean an ambush, an externalized heart/life-token,
+    or a projectile striking the heart from concealment.'
+  cautions: Source evidence is required before mapping to sacred_combat, external_soul,
+    or conditional vulnerability; the phrase may be an extraction artifact.
+  suggested_aliases:
+  - heart_shot_from_concealment
+  - hidden_place_heart_shot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.heartbeat-modeled-as-musical-meter
+  motif_id: heartbeat_modeled_as_musical_meter
+  label: Heartbeat modeled as musical meter
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label links bodily rhythm to musical structure, which best fits the
+    sound-power/music field if the meter has ritual or supernatural force.
+  cautions: May be a commentary or analytic observation rather than a motif; exclude
+    if it only describes poetic form or performance analysis.
+  suggested_aliases:
+  - heartbeat_as_musical_meter
+  - bodily_rhythm_as_music
+  - heartbeat_rhythm_in_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch concern Indigenous healing practices or medicine-power
+  labels. Human review should check source passages and avoid collapsing culturally
+  specific rites into generic symbolism.
+- The current group set lacks a clear broad group for sacred healing or ritual medicine.
+  If many similar labels recur, reviewers may consider a future group, but this batch
+  mostly has single-occurrence items.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; healing and body-substance motifs require source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3522
+  input_sha256: 82d059165e1ee9e6ec28a1e49de3feaf1690761f0275732f954f1e1d19201b03
+

@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3734
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.official-public-proclamation-concerning-a-community-member
+  motif_id: official_public_proclamation_concerning_a_community_member
+  label: official public proclamation concerning a community member
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate sacred law, communal judgment, ordination, or
+    a passage-specific administrative act.
+  cautions: Single occurrence and too context-dependent; verify whether proclamation
+    has ritual/legal force or is merely narrative administration.
+  suggested_aliases:
+  - public proclamation about a community member
+  - communal announcement concerning a member
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-body-consumed-as-life-prolonging-medicine
+  motif_id: old_body_consumed_as_life_prolonging_medicine
+  label: Old body consumed as life-prolonging medicine
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is a body/substance consumed as medicine to extend life,
+    fitting sacred or life-altering substances.
+  cautions: Could also involve death_and_transformation, sacrifice, or culturally
+    sensitive mortuary/body practices; review source before indexing broadly.
+  suggested_aliases:
+  - body consumed as life-prolonging medicine
+  - corpse medicine for life extension
+  - life-prolonging medicine from an old body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-faith-and-new-faith-in-moral-conflict
+  motif_id: old_faith_and_new_faith_in_moral_conflict
+  label: old faith and new faith in moral conflict
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes religious transition and moral conflict, but not
+    a clear recurring motif without passage evidence.
+  cautions: May be historical/reception framing rather than mythic motif; avoid treating
+    conversion-era conflict as a taxonomy motif without source detail.
+  suggested_aliases:
+  - conflict between old faith and new faith
+  - moral conflict between old and new religion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-nurse-recognizes-the-lost-master-by-bodily-sign
+  motif_id: old_nurse_recognizes_the_lost_master_by_bodily_sign
+  label: old nurse recognizes the lost master by bodily sign
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: narrower_than
+  confidence: high
+  rationale: Recognition by a bodily sign is a clear identity-proof motif already
+    covered by recognition tokens and scar/body-sign variants.
+  cautions: Preserve nurse/master context as evidence detail; the reusable motif is
+    recognition by bodily sign.
+  suggested_aliases:
+  - recognition by bodily sign
+  - old nurse recognizes hidden identity
+  - recognition of lost master by scar or bodily mark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-offender-handed-over-to-be-burned
+  motif_id: old_offender_handed_over_to_be_burned
+  label: old offender handed over to be burned
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be punishment, sacrifice, expulsion, or episode-specific violence
+    depending on narrative function.
+  cautions: Single occurrence with sensitive violence; do not map to sacrifice or
+    divine judgment unless sacred/legal function is explicit.
+  suggested_aliases:
+  - offender handed over for burning
+  - old wrongdoer burned as punishment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-shaman-artisan-and-arrow-seller
+  motif_id: old_shaman_artisan_and_arrow_seller
+  label: Old shaman artisan and arrow-seller
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a character/role description or episode heading
+    rather than a symbolic motif.
+  cautions: If the source shows shamanic crafting, weapon-making, or sacred exchange
+    as the functional pattern, remap from passage evidence.
+  suggested_aliases:
+  - old shaman artisan
+  - shaman arrow seller
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-tales-with-magical-beings-and-objects
+  motif_id: old_tales_with_magical_beings_and_objects
+  label: Old tales with magical beings and objects
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a genre/content-summary label, not a distinct motif pattern.
+  cautions: Specific magical beings or objects in the tales should be indexed separately
+    under appropriate groups such as otherworld, sacred_treasures, or shapeshifter.
+  suggested_aliases:
+  - old tales about magical beings and objects
+  - magical beings and objects in old tales
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-time-versus-new-time
+  motif_id: old_time_versus_new_time
+  label: Old time versus new time
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may express temporal contrast, cultural change, or mythic age
+    decline, but the function is unclear.
+  cautions: Could be commentary or ethnographic framing rather than motif; map to
+    sacred_time or world_ages_cosmic_decline only if mythic time-structure is explicit.
+  suggested_aliases:
+  - old time contrasted with new time
+  - past age versus present age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-tools-preserved-as-non-utilitarian-or-superstitious-objects
+  motif_id: old_tools_preserved_as_non_utilitarian_or_superstitious_objects
+  label: Old tools preserved as non-utilitarian or superstitious objects
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Preserved old tools may function as sacred objects, relics, or ethnographic
+    material culture, but the label does not show a clear motif.
+  cautions: Potentially passage artifact or scholarly description; map to sacred_treasures
+    only if the tools confer sacred power, protection, memory, or ritual authority.
+  suggested_aliases:
+  - old tools preserved as ritual objects
+  - obsolete tools preserved as superstitious objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-woman-adopts-boy
+  motif_id: old_woman_adopts_boy
+  label: old woman adopts boy
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Adoption by an old woman could be fosterage in a hero childhood pattern,
+    but the label alone is only a family event.
+  cautions: Map to miraculous_child only if the boy is protected, destined, hidden,
+    or marked by extraordinary signs; otherwise treat as episode detail.
+  suggested_aliases:
+  - old woman fosters boy
+  - elder woman adopts a boy
+  - adopted boy raised by old woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, context-heavy, and may be episode
+  headings rather than reusable motifs.
+- Avoid mapping old/new faith or old/new time labels without passage evidence, since
+  they may reflect historical or editorial framing rather than narrative structure.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple items need source-level review before
+    normalization.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3734
+  input_sha256: 3bb285850d8be6cff6b897f471446cac909f4f97ddba860a51f06c9ade7fd384
+

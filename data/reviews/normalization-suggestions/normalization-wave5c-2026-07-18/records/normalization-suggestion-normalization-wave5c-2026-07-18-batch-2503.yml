@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2503
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.remembered-tale-located-in-mountains
+  motif_id: remembered_tale_located_in_mountains
+  label: Remembered tale located in mountains
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a setting or memory/frame note rather than a symbolic
+    mountain motif.
+  cautions: If the mountain functions as a sacred center, revelation site, or ordeal
+    setting, remap to axis_mundi or cosmic_mountain; source context is needed.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-island-stronghold-across-water
+  motif_id: remote_island_stronghold_across_water
+  label: remote island stronghold across water
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: low
+  rationale: A remote island across water may function as an enchanted or liminal
+    otherworld location.
+  cautions: Could instead be a mundane fortress setting, water-boundary journey, or
+    quest destination; verify supernatural or liminal function before indexing.
+  suggested_aliases:
+  - island stronghold across water
+  - remote island fortress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-old-woman-host-at-earth-lodge
+  motif_id: remote_old_woman_host_at_earth_lodge
+  label: Remote old-woman host at earth-lodge
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve hospitality, a helper figure, earth-lodge cosmology, or
+    simply a scene setting.
+  cautions: Culturally specific Plains earth-lodge context should be reviewed from
+    passage evidence; avoid mapping solely from location or age/gender role.
+  suggested_aliases:
+  - old woman host in earth lodge
+  - remote earth-lodge host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-people-beyond-mountains-described-through-waves-or-ridges
+  motif_id: remote_people_beyond_mountains_described_through_waves_or_ridges
+  label: remote people beyond mountains described through waves or ridges
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe geographical phrasing for a distant people
+    rather than a reusable motif.
+  cautions: If the mountains mark an otherworld boundary or sacred geography, consider
+    otherworld or axis_mundi after source review.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.remote-sky-associated-benevolent-deity
+  motif_id: remote_sky_associated_benevolent_deity
+  label: Remote sky-associated benevolent deity
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A sky deity may fit cosmic sovereignty, theophany, or divine intervention
+    depending on narrative role.
+  cautions: Do not collapse culturally specific deity classification into supreme_ruler
+    without evidence of cosmic sovereignty or rulership; may be a personage description
+    rather than a motif.
+  suggested_aliases:
+  - benevolent sky deity
+  - remote sky god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.removal-of-evil-by-casting-objects-into-running-water
+  motif_id: removal_of_evil_by_casting_objects_into_running_water
+  label: removal of evil by casting objects into running water
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual act removing evil through water fits purification/apotropaic
+    practice already folded under sacred_law.
+  cautions: Could also relate to sacrifice or ritual expulsion if a substitute carries
+    the evil; comparative label may need source-level confirmation.
+  suggested_aliases:
+  - casting evil into running water
+  - ritual removal of evil by water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.removal-of-sea-creature-followed-by-rain
+  motif_id: removal_of_sea_creature_followed_by_rain
+  label: removal of sea creature followed by rain
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe weather restoration, monster removal, or local
+    ecological etiology.
+  cautions: No existing group cleanly captures sea-creature removal producing rain;
+    verify whether the function is divine intervention, sacred waters, chaos combat,
+    or etiological weather myth.
+  suggested_aliases:
+  - sea creature removed and rain returns
+  - rain follows removal of sea creature
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.removal-of-sole-water-supply-as-retaliation
+  motif_id: removal_of_sole_water_supply_as_retaliation
+  label: removal of sole water supply as retaliation
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Retaliatory withholding of water could be judgment, conflict, or etiological
+    landscape/water-source narrative.
+  cautions: Culturally specific water-source traditions need source evidence; do not
+    map to sacred_waters unless water has ritual or transformational function.
+  suggested_aliases:
+  - water supply removed as retaliation
+  - retaliatory removal of water source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.removed-or-hidden-townhouse-in-landscape-or-water
+  motif_id: removed_or_hidden_townhouse_in_landscape_or_water
+  label: removed or hidden townhouse in landscape or water
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A hidden or removed communal structure may be sacred geography, otherworld
+    concealment, or local landscape etiology.
+  cautions: Townhouse has specific Native American Southeast social and ceremonial
+    meaning; review evidence before assigning to otherworld, sacred_vessel, or cosmic_origin.
+  suggested_aliases:
+  - hidden townhouse in landscape or water
+  - removed townhouse in water or landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renewed-creation-and-thousand-year-messianic-peace
+  motif_id: renewed_creation_and_thousand_year_messianic_peace
+  label: renewed creation and thousand-year Messianic peace
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Renewed creation after eschatological transition fits cosmic renewal
+    and establishment of a new order.
+  cautions: Millennial messianic specificity should be preserved; if the passage emphasizes
+    sacred time or sovereignty more than catastrophe-renewal, sacred_time or supreme_ruler
+    may be secondary.
+  suggested_aliases:
+  - messianic renewed creation
+  - millennial messianic peace
+  - thousand-year messianic peace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several one-occurrence nature/landscape labels appear to be contextual settings
+  rather than stable motifs; source evidence should determine whether landscape elements
+  have symbolic or narrative function.
+- Avoid treating water, mountains, sky, or islands as automatic mappings to sacred_waters,
+  axis_mundi, theophany, or otherworld without explicit functional evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific landscape
+    and ritual labels require human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2503
+  input_sha256: d8cd8ba39b82bddc27b02a7e938a836d391203e35a4410d0f095575bdc23ae12
+

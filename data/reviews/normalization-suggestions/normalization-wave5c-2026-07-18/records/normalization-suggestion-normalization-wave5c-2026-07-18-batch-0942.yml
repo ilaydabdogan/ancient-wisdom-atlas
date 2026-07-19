@@ -1,0 +1,316 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0942
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.origin-of-a-ritual-fraternity-through-a-divine-encounter-at-a-spring
+  motif_id: origin_of_a_ritual_fraternity_through_a_divine_encounter_at_a_spring
+  label: Origin of a ritual fraternity through a divine encounter at a spring
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label links ritual-social foundation to divine encounter and a spring,
+    but the dominant function is unclear from label alone.
+  cautions: Culturally specific ritual fraternity origins need source-sensitive review;
+    could involve sacred_waters, theophany, sacred_law, or a local origin charter
+    rather than exchange.
+  suggested_aliases:
+  - ritual_fraternity_origin
+  - divine_encounter_at_spring_founds_ritual_group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-a-ritual-implement-within-a-clan
+  motif_id: origin_of_a_ritual_implement_within_a_clan
+  label: origin of a ritual implement within a clan
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual implement functions as a sacred object or power object tied
+    to clan authority or practice.
+  cautions: If the passage mainly explains clan lineage or office rather than the
+    object's power, review under sacred_law, royal_legitimacy, or exclude as local
+    etiology detail.
+  suggested_aliases:
+  - clan_ritual_implement_origin
+  - ritual_implement_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-a-women-only-ritual-song-and-dance
+  motif_id: origin_of_a_women_only_ritual_song_and_dance
+  label: Origin of a women-only ritual song and dance
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif centers on ritual song and dance, which fits sacred sound only
+    if the performance has ritual power or sacred transmission.
+  cautions: Gender-restricted ceremonial knowledge is culturally sensitive; may belong
+    under sacred_law, sacred_knowledge, sacred_exchange, or be preserved as local
+    ritual-origin evidence rather than broad pattern.
+  suggested_aliases:
+  - women_only_ritual_song_origin
+  - women_only_ritual_dance_origin
+  - gender_restricted_ritual_performance_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-divine-masks
+  motif_id: origin_of_divine_masks
+  label: Origin of divine masks
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sacred Masks and Ritual Personae
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Divine masks are ritual objects that embody or mediate sacred presence,
+    not just generic treasures or crafted objects.
+  cautions: Mask traditions are culturally sensitive and may involve restricted knowledge;
+    review whether indexing should be broad, local, or limited.
+  suggested_aliases:
+  - divine_mask_origin
+  - origin_of_sacred_masks
+  - ritual_masks_of_divine_beings
+  suggested_new_group:
+    id: sacred_masks_ritual_personae
+    label: Sacred Masks and Ritual Personae
+    description: Masks, costumes, or ritual personae that embody, reveal, conceal,
+      or mediate divine, ancestral, healing, or spirit presence in ceremonial performance.
+    parent_group_ids:
+    - sacred_treasures
+    - theophany
+    - sacred_law
+    related_group_ids:
+    - sacred_craft
+    - shapeshifter
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing sacred_treasures and sacred_craft
+      cover objects and making, but not the ritual embodiment and persona function
+      of masks.
+- suggestion_id: normalization.suggestion.origin-of-medicine-and-sacred-healing-media
+  motif_id: origin_of_medicine_and_sacred_healing_media
+  label: origin of medicine and sacred healing media
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Medicine and healing media are sacred substances or media whose origin
+    and use transform illness or impurity.
+  cautions: If the passage emphasizes divine healing agency rather than the medicine
+    itself, divine_intervention may be a secondary fit; if it is a doctrinal origin
+    note, review for over-specificity.
+  suggested_aliases:
+  - sacred_medicine_origin
+  - origin_of_healing_media
+  - sacred_healing_substances
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-ritual-masks-for-curing
+  motif_id: origin_of_ritual_masks_for_curing
+  label: Origin of ritual masks for curing
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sacred Masks and Ritual Personae
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Curing masks combine sacred object, ritual persona, and healing function,
+    which is more specific than generic sacred treasures.
+  cautions: Curing-mask traditions may include restricted or culturally sensitive
+    knowledge; human review should decide query visibility and whether a broad mask
+    group is appropriate.
+  suggested_aliases:
+  - curing_mask_origin
+  - ritual_healing_masks
+  - sacred_masks_for_curing
+  suggested_new_group:
+    id: sacred_masks_ritual_personae
+    label: Sacred Masks and Ritual Personae
+    description: Masks, costumes, or ritual personae that embody, reveal, conceal,
+      or mediate divine, ancestral, healing, or spirit presence in ceremonial performance.
+    parent_group_ids:
+    - sacred_treasures
+    - theophany
+    - sacred_law
+    related_group_ids:
+    - sacred_craft
+    - shapeshifter
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing groups cover sacred objects, craft,
+      or intervention, but not masks as embodied ritual agents in curing or divine
+      manifestation.
+- suggestion_id: normalization.suggestion.origin-of-ritual-offices-announced-in-tale-heading
+  motif_id: origin_of_ritual_offices_announced_in_tale_heading
+  label: Origin of ritual offices announced in tale heading
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'announced in tale heading' describes a textual heading or
+    indexing artifact rather than a motif in the narrative itself.
+  cautions: If the tale body narrates the founding of ritual offices, preserve that
+    separately under sacred_law, royal_legitimacy, or sacred_exchange after source
+    review.
+  suggested_aliases:
+  - ritual_offices_tale_heading
+  - tale_heading_announces_ritual_office_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ornamented-ritual-object-placed-over-fire-and-broken-pot
+  motif_id: ornamented_ritual_object_placed_over_fire_and_broken_pot
+  label: ornamented ritual object placed over fire and broken pot
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests a ritual handling or offering involving object, fire,
+    and broken vessel, but the function is not recoverable from label alone.
+  cautions: May be an over-specific passage detail; could instead fit sacred_fire,
+    sacred_vessel, sacred_treasures, or be excluded if not recurrent.
+  suggested_aliases:
+  - ritual_object_over_fire_and_broken_pot
+  - ornamented_object_fire_pot_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.orphaned-skilled-hunter-lacking-inherited-tools
+  motif_id: orphaned_skilled_hunter_lacking_inherited_tools
+  label: orphaned skilled hunter lacking inherited tools
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: An orphaned capable figure without inherited tools could be a hardship
+    or initiation setup, but no sacred ritual function is clear.
+  cautions: Bucket assignment may be accidental; could involve orphan hero, social
+    deprivation, tool inheritance, or a passage-specific character detail. Do not
+    map to ritual/sacrifice without evidence.
+  suggested_aliases:
+  - orphan_hunter_lacks_inherited_tools
+  - skilled_orphan_without_tools
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.otherworld-ruler-among-the-gods
+  motif_id: otherworld_ruler_among_the_gods
+  label: Otherworld ruler among the gods
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: role_variant
+  confidence: medium
+  rationale: The label identifies a ruling figure associated with the otherworld,
+    fitting the otherworld realm complex.
+  cautions: If emphasis is sovereignty among gods rather than enchanted realm location,
+    supreme_ruler or royal_legitimacy may be secondary fits.
+  suggested_aliases:
+  - ruler_of_the_otherworld
+  - otherworld_king_among_gods
+  - divine_otherworld_ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence ritual-origin motifs from Indigenous traditions;
+  placements should be treated as provisional and source-sensitive.
+- Do not infer historical transmission from shared placement; suggested groups are
+  only indexing facets.
+- Mask-related labels may justify a new review group because existing object/craft
+  categories do not fully capture ritual embodiment or persona.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; culturally specific ritual materials
+    and over-specific singletons require human review before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0942
+  input_sha256: 4944f77eb031a416fccdca048ee14e9fd4947bbb87070cf41d9e39eea4bd3a3f
+

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2749
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marked-and-red-clad-hero-before-combat
+  motif_id: marked_and_red_clad_hero_before_combat
+  label: Marked and red-clad hero before combat
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label marks a warrior's charged appearance before combat, fitting
+    heroic warrior display and martial proof more than a separate motif.
+  cautions: Single occurrence and culturally specific color/marking symbolism; review
+    source evidence before treating red clothing as a broad combat motif.
+  suggested_aliases:
+  - red_clad_hero_before_combat
+  - marked_warrior_before_combat
+  - martial_body_marking_before_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marked-arrow-serves-as-a-sign-revealing-a-warrior-s-absence
+  motif_id: marked_arrow_serves_as_a_sign_revealing_a_warrior_s_absence
+  label: Marked arrow serves as a sign revealing a warrior’s absence
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A marked arrow functions as a token or sign that discloses identity/status
+    information, here a warrior's absence.
+  cautions: If the passage emphasizes battlefield absence or weapon symbolism rather
+    than recognition, divine_warrior or sacred_treasures may be secondary mappings.
+  suggested_aliases:
+  - marked_arrow_as_absence_sign
+  - weapon_token_reveals_absence
+  - marked_weapon_as_identity_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-identity-marked-by-hair-and-spear
+  motif_id: martial_identity_marked_by_hair_and_spear
+  label: Martial identity marked by hair and spear
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Hair and spear serve as visible markers of warrior identity, fitting
+    the heroic warrior display/proof complex.
+  cautions: Could also involve recognition tokens if the markers prove a specific
+    person's identity; preserve hair-and-spear detail as evidence.
+  suggested_aliases:
+  - warrior_identity_marked_by_hair_and_spear
+  - hair_and_spear_as_martial_markers
+  - visible_markers_of_warrior_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-kennings-for-battle-objects-and-beings
+  motif_id: martial_kennings_for_battle_objects_and_beings
+  label: Martial kennings for battle objects and beings
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes poetic diction or literary technique rather than
+    a narrative motif or symbolic action.
+  cautions: If particular kennings invoke sacred speech or magical battle-language,
+    review those passages separately under storytelling_as_power or curse_blessing_speech.
+  suggested_aliases:
+  - battle_kennings
+  - martial_poetic_diction
+  - kennings_for_weapons_and_warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-praise-invocation-with-weapon-epithets
+  motif_id: martial_praise_invocation_with_weapon_epithets
+  label: martial praise-invocation with weapon epithets
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A praise-invocation is a performative speech act that calls power, honor,
+    or force through martial epithets.
+  cautions: If the wording is only descriptive poetic style, it may be a textual artifact;
+    if embedded in combat exhortation, sacred_combat may be secondary.
+  suggested_aliases:
+  - martial_invocation_with_weapon_epithets
+  - weapon_epithet_praise_invocation
+  - performative_martial_praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-verse-as-pressure-toward-vengeance
+  motif_id: martial_verse_as_pressure_toward_vengeance
+  label: martial verse as pressure toward vengeance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Verse functions as socially binding or compelling speech that pressures
+    a warrior toward vengeance.
+  cautions: May also fit sacred_combat when the emphasis is feud/vengeance action;
+    avoid mapping if it is merely a quoted poem without narrative force.
+  suggested_aliases:
+  - vengeance_inciting_martial_verse
+  - verse_pressures_warrior_to_vengeance
+  - performative_verse_incites_revenge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-lethal-weapon-with-expanding-barbs
+  motif_id: marvelous_lethal_weapon_with_expanding_barbs
+  label: marvelous lethal weapon with expanding barbs
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: child
+  confidence: high
+  rationale: A marvelous weapon with supernatural lethal properties fits sacred or
+    power objects, especially battle-deciding weapons.
+  cautions: If the passage stresses combat outcome more than the object, divine_warrior
+    or sacred_combat may be secondary; preserve expanding-barb detail as granular
+    evidence.
+  suggested_aliases:
+  - supernatural_barbed_weapon
+  - marvelous_expanding_barb_weapon
+  - lethal_power_weapon_with_barbs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-races-and-monsters-at-northern-margins
+  motif_id: marvelous_races_and_monsters_at_northern_margins
+  label: Marvelous races and monsters at northern margins
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ethnographic geography, monstrous races, and marginal-world
+    imagery without a clear existing narrative function.
+  cautions: May be otherworld geography, boundary monsters, textual cosmography, or
+    culturally loaded classification of peoples; source evidence is needed before
+    placement.
+  suggested_aliases:
+  - monstrous_races_at_world_margins
+  - marvelous_northern_peoples_and_monsters
+  - marginal_world_monsters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelously-adorned-heroic-vessel
+  motif_id: marvelously_adorned_heroic_vessel
+  label: marvelously adorned heroic vessel
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A marvelous vessel marked by heroic adornment fits the sacred vessel/container
+    group more closely than combat itself.
+  cautions: If 'vessel' means ship rather than container, sacred_craft, hero_journey,
+    or sacred_treasures may be better; review passage context.
+  suggested_aliases:
+  - heroic_marvelous_vessel
+  - adorned_sacred_vessel
+  - marvelously_adorned_ship_or_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.material-transition-in-weapon-points
+  motif_id: material_transition_in_weapon_points
+  label: material transition in weapon points
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe technological/cultural change, weapon crafting,
+    or a source-specific artifact rather than a symbolic motif.
+  cautions: If the transition is mythically explained or divinely aided, sacred_craft
+    or cosmic_origin may apply; if only material culture description, exclude from
+    pattern queries.
+  suggested_aliases:
+  - weapon_point_material_transition
+  - change_in_weapon_point_material
+  - material_change_in_projectile_points
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence martial display or weapon-detail labels; preserve
+  granular details in evidence notes rather than promoting them to canonical motifs.
+- For speech/poetry labels, distinguish performative narrative force from ordinary
+  poetic diction before final mapping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    Native American and Guiana-Amerindian labels and for poetic-diction artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2749
+  input_sha256: 6d447833257b42235bd551e222b8b10e5adab1c503e2871321597499c53037ec
+

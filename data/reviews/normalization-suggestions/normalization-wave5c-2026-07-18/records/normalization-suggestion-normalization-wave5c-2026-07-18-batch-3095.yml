@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3095
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rejection-of-foreign-luxuries-to-preserve-virtue
+  motif_id: rejection_of_foreign_luxuries_to_preserve_virtue
+  label: Rejection of foreign luxuries to preserve virtue
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes ethical discipline and social order maintained through
+    restraint, fitting sacred law or virtue-coded conduct.
+  cautions: Could be a contextual political-ethical maxim rather than a durable motif;
+    verify whether foreign luxury is a recurring narrative engine or only passage
+    commentary.
+  suggested_aliases:
+  - luxury_rejected_to_preserve_virtue
+  - ethical_rejection_of_corrupting_luxury
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religion-endangered-by-destructive-invaders-and-later-restored-through-conflict
+  motif_id: religion_endangered_by_destructive_invaders_and_later_restored_through_conflict
+  label: Religion endangered by destructive invaders and later restored through conflict
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: uncertain
+  confidence: low
+  rationale: Restoration through conflict may fit sacred combat, but the label also
+    reads as historical or sectarian conflict summary.
+  cautions: Potentially source-specific or historiographic; do not index as motif
+    unless the passage frames sacred order restored by mythic or divinely sanctioned
+    combat.
+  suggested_aliases:
+  - sacred_order_restored_after_invasion
+  - religion_restored_through_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-identity-defined-by-prohibitions-and-virtues
+  motif_id: religious_identity_defined_by_prohibitions_and_virtues
+  label: Religious identity defined by prohibitions and virtues
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: high
+  rationale: Identity formed by rules, prohibitions, and virtues belongs under sacred
+    law and social order.
+  cautions: Preserve local Sikh identity markers in evidence notes; do not flatten
+    into generic law if the passage concerns initiation or communal boundary formation.
+  suggested_aliases:
+  - religious_identity_through_prohibitions_and_virtues
+  - identity_defined_by_sacred_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-renunciation-or-transition-into-faqir-status
+  motif_id: religious_renunciation_or_transition_into_faqir_status
+  label: Religious renunciation or transition into faqir status
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Renunciation and movement into faqir status mark a religious status transition
+    within a contemplative or devotional path.
+  cautions: Could also map to initiation if the emphasis is formal status change;
+    retain faqir-specific evidence detail.
+  suggested_aliases:
+  - transition_into_faqir_status
+  - renunciant_status_transition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-schism-and-sectarian-self-satisfaction
+  motif_id: religious_schism_and_sectarian_self_satisfaction
+  label: Religious schism and sectarian self-satisfaction
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and may be theological critique, ethical teaching,
+    or historical commentary rather than a narrative motif.
+  cautions: Sectarian material is culturally sensitive and context-dependent; review
+    source evidence before mapping to sacred law, pride/downfall, or textual commentary.
+  suggested_aliases:
+  - sectarian_self_satisfaction
+  - religious_schism_as_moral_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-service-represented-in-poetry
+  motif_id: religious_service_represented_in_poetry
+  label: Religious service represented in poetry
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_song
+  suggested_group_label: Sacred Song
+  relationship: uncertain
+  confidence: low
+  rationale: Poetic representation of religious service may relate to sacred song
+    or wisdom expression, but the wording may describe literary form only.
+  cautions: If this is merely a genre or representation note, exclude as textual artifact;
+    map only if poetry itself performs devotion, instruction, or sacred service.
+  suggested_aliases:
+  - poetry_as_religious_service
+  - religious_service_in_poetic_form
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciant-poverty-with-inner-jewel-imagery
+  motif_id: renunciant_poverty_with_inner_jewel_imagery
+  label: Renunciant poverty with inner jewel imagery
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Renunciant poverty paired with inner treasure imagery fits interior spiritual
+    quest and transformed valuation.
+  cautions: The jewel imagery may be passage-specific metaphor; consider sacred_knowledge
+    if the inner jewel denotes wisdom rather than renunciant practice.
+  suggested_aliases:
+  - inner_jewel_in_renunciant_poverty
+  - poverty_with_inner_spiritual_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciation-and-communal-reclassification-of-property
+  motif_id: renunciation_and_communal_reclassification_of_property
+  label: Renunciation and communal reclassification of property
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Renouncing property and redefining it communally concerns sacred exchange,
+    ownership, and religious reciprocity.
+  cautions: Could instead be monastic legal procedure under sacred_law; verify whether
+    the passage emphasizes ritual offering, communal discipline, or property regulation.
+  suggested_aliases:
+  - communal_reclassification_of_renounced_property
+  - renunciation_of_property_into_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciation-and-confession-of-sin
+  motif_id: renunciation_and_confession_of_sin
+  label: renunciation and confession of sin
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Confession of sin with renunciation is a ritual-ethical repair of sacred
+    order, fitting sacred law.
+  cautions: Could map secondarily to divine_judgment or sacrifice if framed as atonement,
+    purification, or moral reckoning.
+  suggested_aliases:
+  - confession_and_renunciation_of_sin
+  - renunciatory_confession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciation-and-non-possession
+  motif_id: renunciation_and_non_possession
+  label: renunciation and non-possession
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: narrower_than
+  confidence: high
+  rationale: Renunciation and non-possession are established disciplines of the interior
+    path toward divine knowledge or union.
+  cautions: If the passage emphasizes offering or surrender rather than contemplative
+    discipline, sacred_exchange or sacrifice may be useful secondary mappings.
+  suggested_aliases:
+  - non_possession_as_renunciation
+  - renunciant_non_possession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are ethical or institutional abstractions with single
+  occurrences; human review should distinguish durable motifs from passage-level commentary.
+- For renunciation labels, preserve whether the passage emphasizes mystical discipline,
+  legal status change, communal property, or sacrificial surrender.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source evidence needed for low-confidence ethical
+    and sectarian labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3095
+  input_sha256: 2830a8187e64c46967d14ffd03609e0bb9d8f443e55dd59baefd63e506a144db
+

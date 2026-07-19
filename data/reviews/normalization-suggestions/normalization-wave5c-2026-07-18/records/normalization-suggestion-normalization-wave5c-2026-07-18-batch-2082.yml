@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2082
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-nations-announced-with-colored-hunting-imagery
+  motif_id: animal_nations_announced_with_colored_hunting_imagery
+  label: Animal nations announced with colored hunting imagery
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to animal peoples, symbolic color coding, hunting
+    imagery, or a passage-specific announcement scene.
+  cautions: Single occurrence and culturally specific Plains imagery; source context
+    is needed before mapping to animal-helper, otherworld, sacred combat, or meta-textual
+    categories.
+  suggested_aliases:
+  - colored hunting imagery of animal nations
+  - animal peoples announced through hunting colors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-neglect-or-violence-framed-by-severe-penalty
+  motif_id: animal_neglect_or_violence_framed_by_severe_penalty
+  label: Animal neglect or violence framed by severe penalty
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns a severe religious or legal penalty governing treatment
+    of animals, fitting sacred law and moral order.
+  cautions: May also support divine_judgment if the passage emphasizes punishment
+    by sacred powers rather than legal-ritual obligation; preserve animal-care specificity.
+  suggested_aliases:
+  - severe penalty for animal neglect
+  - sacred penalty for violence against animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-obedience-to-verbal-command
+  motif_id: animal_obedience_to_verbal_command
+  label: animal obedience to verbal command
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animal obedience to speech could be command magic, animal helper behavior,
+    authority over nature, or a local narrative detail.
+  cautions: No current group cleanly covers commanded animals; avoid forcing into
+    storytelling_as_power unless the verbal command itself is sacred or performative.
+  suggested_aliases:
+  - animal obeys spoken command
+  - verbal command over animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-object-magical-reversion
+  motif_id: animal_object_magical_reversion
+  label: Animal-object magical reversion
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical reversion between animal and object states is a transformation
+    of form, fitting the shapeshifter/transformation complex.
+  cautions: If the object is a manufactured magical image or ritual artifact, sacred_craft
+    or sacred_treasures may be a better secondary placement.
+  suggested_aliases:
+  - animal-object transformation and reversion
+  - magical reversion from animal to object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-omen-of-fortune
+  motif_id: animal_omen_of_fortune
+  label: animal omen of fortune
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An animal functioning as an omen of future fortune belongs with divination
+    and omen interpretation.
+  cautions: If the passage presents a spontaneous vision rather than a divinatory
+    sign system, dream_and_vision may be a secondary fit.
+  suggested_aliases:
+  - animal omen of good fortune
+  - fortune indicated by animal omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-omen-spoils-hunting-or-trapping-luck
+  motif_id: animal_omen_spoils_hunting_or_trapping_luck
+  label: animal omen spoils hunting or trapping luck
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The animal sign changes expected hunting luck, fitting omen interpretation
+    and practical divination.
+  cautions: May overlap with sacred_law if the spoiled luck follows a taboo violation;
+    source context should decide.
+  suggested_aliases:
+  - animal omen ruins hunting luck
+  - animal sign spoils trapping luck
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-or-bird-relay-of-stolen-fire
+  motif_id: animal_or_bird_relay_of_stolen_fire
+  label: Animal or bird relay of stolen fire
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: A relay of stolen fire is a clear sacred theft/culture-benefit episode
+    often mediated by animal trickster or helper figures.
+  cautions: Could also index to culture_hero or sacred_fire if the passage emphasizes
+    the origin of human fire more than the theft action.
+  suggested_aliases:
+  - bird relay of stolen fire
+  - animals carry stolen fire
+  - animal helpers steal fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-or-fetish-helper-aiding-hidden-movement
+  motif_id: animal_or_fetish_helper_aiding_hidden_movement
+  label: Animal or fetish helper aiding hidden movement
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines animal helper, charged object or spirit helper, concealment,
+    and movement, with unclear primary function.
+  cautions: The term fetish may be culturally sensitive or generated from older ethnographic
+    language; review source wording before taxonomy placement.
+  suggested_aliases:
+  - animal helper aids hidden movement
+  - spirit object helper conceals movement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-or-fish-helper-repays-earlier-aid
+  motif_id: animal_or_fish_helper_repays_earlier_aid
+  label: Animal or fish helper repays earlier aid
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing divine_intervention group includes animal_helpers, and repayment
+    by an animal helper fits supernatural aid in human affairs.
+  cautions: If reciprocity for kindness is the main point, sacred_exchange or sacred_law
+    may be useful secondary mappings; avoid assuming the animal is divine without
+    evidence.
+  suggested_aliases:
+  - animal helper repays kindness
+  - fish helper repays earlier aid
+  - grateful animal helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-or-fish-peoples-living-in-underwater-villages
+  motif_id: animal_or_fish_peoples_living_in_underwater_villages
+  label: Animal or fish peoples living in underwater villages
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Underwater villages inhabited by animal or fish peoples indicate a nonordinary
+    neighboring realm rather than ordinary animal behavior.
+  cautions: Could also relate to sacred_waters or shapeshifter if passages emphasize
+    water passage or animal-human transformation; review Indigenous source context
+    carefully.
+  suggested_aliases:
+  - fish people in underwater villages
+  - animal peoples of underwater villages
+  - underwater village of animal people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and culturally specific; placements
+  should be treated as provisional until source passages are checked.
+- Animal-helper motifs recur across groups but the current taxonomy lacks a dedicated
+  animal-helper group; existing placements use divine_intervention when the helper
+  function is primary.
+- Avoid treating animal peoples or animal nations as simple animals; in many traditions
+  these may be persons, spirit communities, or otherworld societies.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 2082.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2082
+  input_sha256: 528a49c1f9037cf283ce94af1e59986b0f1e99ea11e7580af49b33a83bf6716d
+

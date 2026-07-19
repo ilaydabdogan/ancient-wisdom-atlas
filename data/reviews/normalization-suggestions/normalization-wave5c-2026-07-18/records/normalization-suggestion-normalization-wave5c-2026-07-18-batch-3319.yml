@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3319
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cyclical-production-and-disappearance-of-individual-lives
+  motif_id: cyclical_production_and_disappearance_of_individual_lives
+  label: cyclical production and disappearance of individual lives
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label describes lives appearing and disappearing in a recurring cycle,
+    fitting death-and-renewal symbolism.
+  cautions: Could instead be a Sufi metaphysical doctrine about manifestation, annihilation,
+    or impermanence; review passage evidence before indexing as narrative death-rebirth.
+  suggested_aliases:
+  - cyclical emergence and disappearance of lives
+  - recurring manifestation and disappearance of individual beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cyclical-reckoning-of-historical-time
+  motif_id: cyclical_reckoning_of_historical_time
+  label: cyclical reckoning of historical time
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: medium
+  rationale: A cyclical model of historical time belongs with sacred or ritually ordered
+    time cycles.
+  cautions: If the passage is purely historiographic or calendrical commentary without
+    mythic or ritual significance, it may be too abstract for motif queries.
+  suggested_aliases:
+  - cyclical historical time
+  - cyclical reckoning of history
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.daily-cycle-of-washing-hammock-rest-craft-and-labor
+  motif_id: daily_cycle_of_washing_hammock_rest_craft_and_labor
+  label: Daily cycle of washing, hammock rest, craft, and labor
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an ethnographic daily-routine description rather than
+    a reusable mythic motif.
+  cautions: If the daily cycle is ritually prescribed or cosmologically modeled, sacred_time
+    may be a secondary review option.
+  suggested_aliases:
+  - daily domestic labor cycle
+  - daily washing rest craft and labor routine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.daily-increasing-salmon-source
+  motif_id: daily_increasing_salmon_source
+  label: daily increasing salmon source
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An inexhaustible or increasing food source aligns with miraculous provision
+    already grouped under divine_intervention.
+  cautions: If the salmon source is a sacred food/substance or seasonal abundance
+    rite, sacred_substance or sacred_time may be relevant; preserve salmon specificity.
+  suggested_aliases:
+  - miraculous increasing salmon supply
+  - daily replenishing salmon source
+  - inexhaustible salmon source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.daily-jungle-rhythm-from-heat-silence-to-dusk-emergence
+  motif_id: daily_jungle_rhythm_from_heat_silence_to_dusk_emergence
+  label: daily jungle rhythm from heat-silence to dusk emergence
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to describe environmental atmosphere or passage setting
+    rather than a distinct motif.
+  cautions: If the daily rhythm is explicitly sacred, calendrical, or tied to spirit
+    emergence, review under sacred_time or otherworld instead.
+  suggested_aliases:
+  - daily jungle rhythm
+  - dusk emergence after heat and silence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.daily-slaughter-by-a-lake-being
+  motif_id: daily_slaughter_by_a_lake_being
+  label: Daily slaughter by a lake being
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A lake being killing regularly could be monster peril, threshold guardian,
+    sacrifice, or local episode detail.
+  cautions: 'Need passage context: identify whether the being guards a boundary, demands
+    tribute, enacts judgment, or is simply an antagonist.'
+  suggested_aliases:
+  - repeated slaughter by lake being
+  - lake monster daily killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.daimonic-governance-under-heimarmene-or-fate
+  motif_id: daimonic_governance_under_heimarmene_or_fate
+  label: daimonic governance under Heimarmene or Fate
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on daimonic administration under personified or cosmic
+    Fate, fitting fate-governance patterns.
+  cautions: Could also be a doctrinal cosmology note rather than a narrative motif;
+    Hermetic Heimarmene should be reviewed carefully.
+  suggested_aliases:
+  - daimons governing under fate
+  - daimonic administration under Heimarmene
+  - daimonic fate governance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.daimonic-incursion-doctrine
+  motif_id: daimonic_incursion_doctrine
+  label: Daimonic incursion doctrine
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is doctrinal and does not specify a clear narrative function
+    or existing motif placement.
+  cautions: May fit divine_intervention, spirit-affliction/expulsion under sacrifice,
+    or sacred_knowledge depending on whether the passage describes agency, harm, or
+    teaching.
+  suggested_aliases:
+  - daimonic incursion
+  - doctrine of daimonic intrusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.damaged-body-supported-by-vehicle-parts
+  motif_id: damaged_body_supported_by_vehicle_parts
+  label: Damaged body supported by vehicle parts
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe heroic wounding, bodily proof, or an episode-specific
+    physical detail.
+  cautions: If tied to combat endurance or wounds as proof of service, divine_warrior
+    may fit; otherwise it is likely too specific for pattern queries.
+  suggested_aliases:
+  - wounded body propped by vehicle parts
+  - damaged body held up by chariot parts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.damaged-gold-thread-revealing-a-hidden-disruption
+  motif_id: damaged_gold_thread_revealing_a_hidden_disruption
+  label: damaged gold thread revealing a hidden disruption
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A damaged thread may be a recognition token, fate image, craft detail,
+    or local narrative clue.
+  cautions: Need source context to determine whether thread signifies fate-weaving,
+    hidden identity/proof, sacred craft, or an over-specific plot artifact.
+  suggested_aliases:
+  - broken gold thread reveals disruption
+  - damaged golden thread as hidden sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and abstract or ethnographic; avoid promoting
+  them without passage evidence.
+- Daily-cycle labels should generally be excluded unless explicitly ritualized, cosmological,
+  or narratively functional.
+- Hermetic daimonic labels may be doctrinal classifications; human review should distinguish
+  cosmological teaching from motif evidence.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3319
+  input_sha256: 4e650a7257d9bc0360aee688f79b27a71b5f12eafaf6f70b5b24b14915adfa2a
+

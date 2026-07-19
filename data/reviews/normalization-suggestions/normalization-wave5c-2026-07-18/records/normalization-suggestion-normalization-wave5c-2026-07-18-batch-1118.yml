@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1118
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-authority-organized-through-bishops-and-sees
+  motif_id: sacred_authority_organized_through_bishops_and_sees
+  label: sacred authority organized through bishops and sees
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe ecclesiastical or institutional organization
+    rather than a narrative or symbolic motif.
+  cautions: Tradition label and Christian terminology may indicate source commentary,
+    comparative framing, or anachronistic wording; verify context before excluding.
+  suggested_aliases:
+  - ecclesiastical_authority_organized_by_sees
+  - institutional_sacred_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-bag-addressed-as-elder-or-grandfather
+  motif_id: sacred_bag_addressed_as_elder_or_grandfather
+  label: Sacred bag addressed as elder or grandfather
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred bag treated as a kin elder is a power object with ritual personhood
+    or authority.
+  cautions: Culturally specific ceremonial object; preserve local terminology and
+    avoid reducing it to a generic talisman without evidence.
+  suggested_aliases:
+  - personified_sacred_bag
+  - sacred_bag_as_elder
+  - ritual_bag_addressed_as_grandfather
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-bags-and-thunder-songs-in-a-war-party-feast
+  motif_id: sacred_bags_and_thunder_songs_in_a_war_party_feast
+  label: Sacred bags and thunder songs in a war-party feast
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual objects, song power, weather or thunder association,
+    warfare, and feast setting.
+  cautions: Composite and culturally specific; could map to sacred_treasures, enchanting_music,
+    sacred_combat, or sacred_exchange depending on passage function.
+  suggested_aliases:
+  - thunder_songs_in_war_party_feast
+  - sacred_bags_in_war_feast
+  - war_party_feast_with_sacred_bags_and_songs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-bags-weapons-and-war-trophies-displayed-on-a-ritual-pole
+  motif_id: sacred_bags_weapons_and_war_trophies_displayed_on_a_ritual_pole
+  label: sacred bags, weapons, and war trophies displayed on a ritual pole
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The display of weapons and trophies on a ritual pole centers on ritually
+    marked warfare and martial proof.
+  cautions: The ritual pole or sacred bags may also support axis_mundi or sacred_treasures;
+    source function should determine secondary indexing.
+  suggested_aliases:
+  - war_trophies_displayed_on_ritual_pole
+  - ritual_pole_display_of_weapons_and_sacred_bags
+  - sacred_war_trophy_display
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-beings-bless-new-or-renovated-houses
+  motif_id: sacred_beings_bless_new_or_renovated_houses
+  label: sacred beings bless new or renovated houses
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred beings directly confer blessing or protection on a human dwelling.
+  cautions: If the focus is house-consecration rules or threshold protection, sacred_law
+    may be a better secondary group.
+  suggested_aliases:
+  - house_blessing_by_sacred_beings
+  - sacred_blessing_of_renovated_house
+  - divine_blessing_of_new_house
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-beings-entrusted-to-clan-custody
+  motif_id: sacred_beings_entrusted_to_clan_custody
+  label: Sacred beings entrusted to clan custody
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe clan custodianship of sacred beings, images, masks,
+    bundles, or ritual obligations.
+  cautions: Culturally sensitive and under-specified; could involve tutelary spirits,
+    clan law, sacred treasures, or ritual office rather than a general motif.
+  suggested_aliases:
+  - clan_custody_of_sacred_beings
+  - sacred_beings_under_clan_care
+  - ritual_custodianship_by_clan
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-beings-establish-homes-in-landscape-features
+  motif_id: sacred_beings_establish_homes_in_landscape_features
+  label: Sacred beings establish homes in landscape features
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sacred beings taking residence in landscape features can explain sacred
+    geography and landscape origins.
+  cautions: If the emphasis is an ongoing spirit dwelling rather than etiology, otherworld
+    or divine_intervention may be better.
+  suggested_aliases:
+  - sacred_beings_dwelling_in_landscape_features
+  - landscape_features_as_homes_of_sacred_beings
+  - sacred_geography_from_divine_residence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-bell-and-clapper-repurposed-as-giant-equipment
+  motif_id: sacred_bell_and_clapper_repurposed_as_giant_equipment
+  label: sacred bell and clapper repurposed as giant equipment
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a highly specific object-use detail and does not clearly
+    express a reusable symbolic or narrative function.
+  cautions: If the passage centers on a giant transforming sacred objects or desecrating
+    ritual equipment, human review may map it to sacred_treasures or trickster.
+  suggested_aliases:
+  - bell_clapper_used_as_giant_equipment
+  - sacred_bell_repurposed_by_giant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-bird-as-awakener
+  motif_id: sacred_bird_as_awakener
+  label: sacred bird as awakener
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A sacred bird that awakens functions as a divine or sacred agent prompting
+    action or awareness.
+  cautions: Could belong under sacred_knowledge if awakening is revelatory, or sacred_time
+    if it marks ritual/cosmic time.
+  suggested_aliases:
+  - sacred_bird_awakeners
+  - divine_bird_as_awakener
+  - bird_agent_of_awakening
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-bird-taboo-and-ritual-handling
+  motif_id: sacred_bird_taboo_and_ritual_handling
+  label: Sacred bird taboo and ritual handling
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A taboo governing ritual handling of a sacred bird fits ritual prohibition
+    and sacred law.
+  cautions: Preserve bird-specific ceremonial context; if the bird is a divine messenger
+    or power object, secondary mapping may be needed.
+  suggested_aliases:
+  - ritual_handling_of_sacred_bird
+  - sacred_bird_taboo
+  - taboo_on_handling_sacred_bird
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Native American Southwest labels are culturally specific ritual descriptions
+  with single occurrences; human review should preserve local ceremonial meanings
+  and avoid over-generalization.
+- Composite labels involving sacred bags, songs, warfare, feasting, and clan custody
+  may need source evidence before final placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1118
+  input_sha256: 06c8c4c0a00d0c07f95ffc4c9d88b5db983344e2f8af571a83580b4c49e2bce8
+

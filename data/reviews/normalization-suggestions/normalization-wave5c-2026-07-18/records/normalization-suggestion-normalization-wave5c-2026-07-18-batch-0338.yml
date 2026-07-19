@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0338
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-concealment-and-enclosure-of-the-dead
+  motif_id: ritual_concealment_and_enclosure_of_the_dead
+  label: ritual concealment and enclosure of the dead
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label appears to describe mortuary handling of the dead, which is
+    closest to ancestor/death-care rites.
+  cautions: Single occurrence and culturally specific Confucian ritual context; may
+    be a passage-specific mortuary rule rather than a broad motif.
+  suggested_aliases:
+  - mortuary_concealment_and_enclosure
+  - enclosure_of_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-containment-of-dangerous-dead-through-robe-river-and-smoke
+  motif_id: ritual_containment_of_dangerous_dead_through_robe_river_and_smoke
+  label: Ritual containment of dangerous dead through robe, river, and smoke
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The dangerous dead requiring ritual containment fits the restless or
+    active dead complex.
+  cautions: Robe, river, and smoke are local ritual details; preserve them as evidence
+    rather than canonical wording. Could also relate to sacred_law/apotropaic protection.
+  suggested_aliases:
+  - ritual_containment_of_dangerous_dead
+  - containment_of_dangerous_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-corpse-transport-constrained-by-rain-and-water
+  motif_id: ritual_corpse_transport_constrained_by_rain_and_water
+  label: Ritual corpse transport constrained by rain and water
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Constraints on corpse transport by rain or water suggest ritual purity
+    law around death handling.
+  cautions: Zoroastrian funerary purity is culturally specific; label may be an over-specific
+    legal/ritual detail rather than a recurring motif. Could also touch sacred_waters
+    if water pollution is central.
+  suggested_aliases:
+  - corpse_transport_purity_restriction
+  - mortuary_transport_constrained_by_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-correctness-at-the-moment-of-death
+  motif_id: ritual_correctness_at_the_moment_of_death
+  label: Ritual correctness at the moment of death
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns proper ritual conduct and social-sacred order at death.
+  cautions: May be an ethical-ritual norm rather than a narrative motif; Confucian
+    context should be reviewed for whether ancestor rites is a secondary fit.
+  suggested_aliases:
+  - proper_ritual_conduct_at_death
+  - deathbed_ritual_correctness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-crop-increase-by-transformation-and-burial
+  motif_id: ritual_crop_increase_by_transformation_and_burial
+  label: Ritual crop increase by transformation and burial
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual crop increase through burial and transformation aligns with agricultural
+    renewal and seasonal ritual cycles.
+  cautions: Could also involve death_and_transformation or sacrifice if burial/death
+    is the main mechanism; source context is needed for culturally specific agricultural
+    rite.
+  suggested_aliases:
+  - crop_increase_through_burial
+  - agricultural_renewal_by_burial_and_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-crossing-with-water-spirit-blessing
+  motif_id: ritual_crossing_with_water_spirit_blessing
+  label: ritual crossing with water-spirit blessing
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual crossing mediated by a water spirit fits water as sacred boundary
+    and passage medium.
+  cautions: If this is specifically postmortem crossing, afterlife_passage may be
+    a secondary mapping; do not treat as flood or renewal without catastrophe evidence.
+  suggested_aliases:
+  - water_spirit_blessed_crossing
+  - ritual_water_crossing_blessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-darkness-and-spirit-assembly
+  motif_id: ritual_darkness_and_spirit_assembly
+  label: ritual darkness and spirit assembly
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: uncertain
+  confidence: low
+  rationale: A spirit assembly in ritual darkness may involve direct sacred or spirit
+    manifestation to participants.
+  cautions: Ambiguous and culturally sensitive; could be ritual séance, ancestor rite,
+    shamanic vision, or passage artifact. Needs source evidence before indexing.
+  suggested_aliases:
+  - spirit_assembly_in_ritual_darkness
+  - ritual_darkness_with_spirit_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-day-instituted-in-response-to-death-report
+  motif_id: ritual_day_instituted_in_response_to_death_report
+  label: ritual day instituted in response to death report
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The institution of a ritual day turns a death report into sacred calendrical
+    observance.
+  cautions: May be an etiology for a specific commemorative day rather than a broad
+    motif; review if it belongs as local ritual-calendar evidence only.
+  suggested_aliases:
+  - commemorative_ritual_day_from_death_report
+  - death_report_institutes_ritual_day
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-destruction-and-abandonment-of-the-dead-person-s-possessions-and-house
+  motif_id: ritual_destruction_and_abandonment_of_the_dead_person_s_possessions_and_house
+  label: Ritual destruction and abandonment of the dead person’s possessions and house
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Rules for destroying or abandoning property after death suggest mortuary
+    taboo and ritual protection.
+  cautions: Highly culturally specific and single occurrence; may relate to ancestor
+    rites, restless dead avoidance, or ethnographic practice rather than reusable
+    motif.
+  suggested_aliases:
+  - destruction_of_dead_persons_possessions
+  - abandonment_of_dead_persons_house
+  - mortuary_property_abandonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-destruction-of-a-personified-death-effigy
+  motif_id: ritual_destruction_of_a_personified_death_effigy
+  label: Ritual destruction of a personified Death effigy
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Destroying a personified Death effigy fits ritual expulsion or scapegoat-like
+    removal of death/misfortune.
+  cautions: Comparative label may be broad or synthetic; if tied to calendrical renewal,
+    sacred_time may be a secondary mapping.
+  suggested_aliases:
+  - destruction_of_death_effigy
+  - ritual_expulsion_of_death_effigy
+  - personified_death_effigy_destroyed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence mortuary or ethnographic ritual labels; human
+  review should verify whether they are source motifs or descriptive artifacts.
+- Do not infer transmission or common origin from these placements; suggested groups
+  are broad query facets only.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements emphasize existing broad groups; culturally specific
+    mortuary rites need source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0338
+  input_sha256: 260cade0781c72fd54df2ea6633974aad1b0b137141a7a869cb500fdb1ea7857
+

@@ -1,0 +1,323 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2176
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.giant-animal-size-or-length-hyperbole
+  motif_id: giant_animal_size_or_length_hyperbole
+  label: giant animal size or length hyperbole
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label may be a descriptive size exaggeration rather than a stable
+    narrative motif.
+  cautions: Single occurrence; verify whether the giant animal has a plot function
+    beyond hyperbole before grouping.
+  suggested_aliases:
+  - enormous_animal_hyperbole
+  - giant_animal_scale
+  suggested_new_group:
+    id: giant_beings_and_monstrous_scale
+    label: Giant Beings and Monstrous Scale
+    description: Giants, giant animals, or enormous beings whose scale transforms
+      ordinary landscape, danger, habitation, or perception.
+    parent_group_ids:
+    - shapeshifter
+    - otherworld
+    related_group_ids:
+    - cosmic_origin
+    - sacred_combat
+    - threshold_guardian
+    reason_existing_groups_insufficient: Existing animal, trickster, and transformation
+      groups do not cleanly cover enormous scale as the main motif unless transformation,
+      combat, or threshold guarding is explicit.
+- suggestion_id: normalization.suggestion.giant-beast-as-inhabited-land
+  motif_id: giant_beast_as_inhabited_land
+  label: giant beast as inhabited land
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Giant Beings and Monstrous Scale
+  relationship: functional_variant
+  confidence: medium
+  rationale: A beast so large it functions as land is a scale motif not covered by
+    shapeshifting or ordinary animal motifs.
+  cautions: Could overlap with cosmic-origin body-as-landscape if the beast creates
+    or becomes the world; confirm narrative function.
+  suggested_aliases:
+  - animal_as_landscape
+  - giant_animal_as_habitable_land
+  - living_land_beast
+  suggested_new_group:
+    id: giant_beings_and_monstrous_scale
+    label: Giant Beings and Monstrous Scale
+    description: Giants, giant animals, or enormous beings whose scale transforms
+      ordinary landscape, danger, habitation, or perception.
+    parent_group_ids:
+    - shapeshifter
+    - otherworld
+    related_group_ids:
+    - cosmic_origin
+    - primordial_sacrifice
+    - threshold_guardian
+    reason_existing_groups_insufficient: No existing group centers on giant scale
+      or living beings functioning as landscape unless the passage is explicitly creation,
+      sacrifice, or transformation.
+- suggestion_id: normalization.suggestion.giant-bird-egg-encounter
+  motif_id: giant_bird_egg_encounter
+  label: giant bird egg encounter
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label records an encounter object and creature but not a clear function
+    such as birth, ordeal, treasure, or danger.
+  cautions: May be a roc-like travel episode, sacred birth symbol, food object, or
+    marvel; source evidence needed.
+  suggested_aliases:
+  - encounter_with_giant_bird_egg
+  - giant_bird_egg_marvel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giant-bird-with-enormous-egg
+  motif_id: giant_bird_with_enormous_egg
+  label: Giant bird with enormous egg
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: A giant bird and egg may be a marvel detail unless the egg or bird drives
+    a recurring plot function.
+  cautions: Could fit giant-scale motifs, cosmic egg symbolism, or sacred birth only
+    with additional evidence.
+  suggested_aliases:
+  - enormous_egg_of_giant_bird
+  - giant_bird_egg
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giant-egg-of-a-monstrous-bird
+  motif_id: giant_egg_of_a_monstrous_bird
+  label: giant egg of a monstrous bird
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is object-specific and does not by itself establish cosmic
+    egg, birth, or ordeal function.
+  cautions: Review whether the egg is a dangerous marvel, creation symbol, food source,
+    or episode-specific detail.
+  suggested_aliases:
+  - monstrous_bird_egg
+  - giant_bird_egg
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giant-mythic-bird-with-smaller-living-counterpart
+  motif_id: giant_mythic_bird_with_smaller_living_counterpart
+  label: Giant mythic bird with smaller living counterpart
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe classification between mythic and natural species
+    rather than a narrative motif.
+  cautions: Culturally sensitive animal-spirit taxonomy may need source-specific review;
+    avoid reducing to generic giant bird without evidence.
+  suggested_aliases:
+  - mythic_bird_with_earthly_counterpart
+  - giant_bird_and_living_counterpart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giant-whose-scale-dwarfs-ordinary-animals-and-landscape
+  motif_id: giant_whose_scale_dwarfs_ordinary_animals_and_landscape
+  label: giant whose scale dwarfs ordinary animals and landscape
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Giant Beings and Monstrous Scale
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core motif is extraordinary giant scale in relation to animals and
+    landscape.
+  cautions: May be a passage-specific descriptive comparison; confirm the giant's
+    role before indexing broadly.
+  suggested_aliases:
+  - giant_of_landscape_scale
+  - enormous_giant_dwarfing_landscape
+  suggested_new_group:
+    id: giant_beings_and_monstrous_scale
+    label: Giant Beings and Monstrous Scale
+    description: Giants, giant animals, or enormous beings whose scale transforms
+      ordinary landscape, danger, habitation, or perception.
+    parent_group_ids:
+    - shapeshifter
+    - otherworld
+    related_group_ids:
+    - cosmic_origin
+    - sacred_combat
+    - threshold_guardian
+    reason_existing_groups_insufficient: Existing groups cover transformation, otherworld,
+      and combat, but not giant scale as the primary recurrent image or narrative
+      condition.
+- suggestion_id: normalization.suggestion.giantess-measures-animals-and-landscape-on-an-enormous-scale
+  motif_id: giantess_measures_animals_and_landscape_on_an_enormous_scale
+  label: giantess measures animals and landscape on an enormous scale
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Giant Beings and Monstrous Scale
+  relationship: functional_variant
+  confidence: medium
+  rationale: The giantess's enormous scale defines the relation between body, animals,
+    and landscape.
+  cautions: Could be a local episode detail or etiological landscape motif; review
+    whether measuring has ritual or creation significance.
+  suggested_aliases:
+  - giantess_of_landscape_scale
+  - giantess_measuring_landscape
+  suggested_new_group:
+    id: giant_beings_and_monstrous_scale
+    label: Giant Beings and Monstrous Scale
+    description: Giants, giant animals, or enormous beings whose scale transforms
+      ordinary landscape, danger, habitation, or perception.
+    parent_group_ids:
+    - shapeshifter
+    - otherworld
+    related_group_ids:
+    - cosmic_origin
+    - sacred_combat
+    - threshold_guardian
+    reason_existing_groups_insufficient: No existing group specifically preserves
+      giant-bodied scale as a landscape-organizing motif without forcing it into creation
+      or transformation.
+- suggestion_id: normalization.suggestion.gift-of-horse-and-peace-after-rescue
+  motif_id: gift_of_horse_and_peace_after_rescue
+  label: Gift of horse and peace after rescue
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A gift following rescue and restoring peace is primarily reciprocal compensation,
+    not an animal motif.
+  cautions: If the horse itself has supernatural status, secondary mapping to sacred_treasures
+    or magical_animal_mount may be appropriate.
+  suggested_aliases:
+  - gift_after_rescue
+  - peace_gift_after_rescue
+  - horse_gift_as_restitution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gift-or-restitution-of-a-captured-horse
+  motif_id: gift_or_restitution_of_a_captured_horse
+  label: gift or restitution of a captured horse
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restoring or gifting a captured horse functions as restitution and reciprocal
+    repair.
+  cautions: Could also touch covenant or sacred_law if framed as legal compensation;
+    horse-specific detail may be evidence only.
+  suggested_aliases:
+  - restitution_of_captured_horse
+  - horse_restored_as_compensation
+  - captured_horse_returned
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several giant-bird and giant-egg labels appear related but are single-occurrence
+  and may be marvel details; review passage function before creating a durable animal-marvel
+  group.
+- A possible new group for giant beings and monstrous scale would preserve recurring
+  scale/landscape motifs without forcing them into shapeshifter, otherworld, or cosmic-origin
+  categories.
+- Horse gift labels were placed by narrative function under sacred_exchange rather
+  than by animal content.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; giant-scale candidate requires human review
+    across additional occurrences.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2176
+  input_sha256: 34b5cbe532dedbeebd93176f40abd60a6898e72521af6406c2afe795f116ea3c
+

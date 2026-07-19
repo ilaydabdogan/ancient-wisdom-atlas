@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1935
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.parental-lament-for-departing-bride
+  motif_id: parental_lament_for_departing_bride
+  label: parental lament for departing bride
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is parental lament at separation, fitting mourning and
+    loss expression more than sacred love itself.
+  cautions: Single occurrence; if this is a wedding custom rather than grief-centered
+    narrative, it may be better as contextual evidence under sacred_love or excluded
+    as too specific.
+  suggested_aliases:
+  - bridal_departure_lament
+  - parental_mourning_at_bride_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parental-opposition-to-a-chosen-lover
+  motif_id: parental_opposition_to_a_chosen_lover
+  label: parental opposition to a chosen lover
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Opposition to a chosen lover functions as an obstacle in a love or bride-choice
+    narrative.
+  cautions: May be ordinary family conflict unless the passage frames love, marriage
+    choice, or union as the central mythic problem.
+  suggested_aliases:
+  - family_opposition_to_chosen_lover
+  - opposed_love_choice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parental-rescue-of-daughter-from-animal-spouse
+  motif_id: parental_rescue_of_daughter_from_animal_spouse
+  label: parental rescue of daughter from animal spouse
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marriage, kin rescue, and animal-spouse transformation
+    themes without enough evidence to choose a single function.
+  cautions: Could fit sacred_love, shapeshifter, animal-spouse tale pattern, captivity/rescue,
+    or a culturally specific marriage rule; review source before mapping.
+  suggested_aliases:
+  - daughter_rescued_from_animal_husband
+  - animal_spouse_rescue_by_parents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parental-search-for-children-taken-away
+  motif_id: parental_search_for_children_taken_away
+  label: parental search for children taken away
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: A search for abducted or removed children is a quest/recovery journey
+    initiated by family loss.
+  cautions: Could instead belong with miraculous_child, jealous_stepmother_persecuted_child,
+    otherworld abduction, or lament depending on who took the children and why.
+  suggested_aliases:
+  - parental_quest_for_abducted_children
+  - search_for_taken_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parental-vengeance-leading-to-war
+  motif_id: parental_vengeance_leading_to_war
+  label: parental vengeance leading to war
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Private parental vengeance becomes the catalyst for collective war, matching
+    conflict-trigger patterns in sacred_combat.
+  cautions: If the emphasis is moral retribution rather than warfare, divine_judgment
+    or covenant may be better secondary mappings.
+  suggested_aliases:
+  - family_vengeance_triggers_war
+  - parental_revenge_as_war_catalyst
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parenthood-as-confirmation-of-marital-union
+  motif_id: parenthood_as_confirmation_of_marital_union
+  label: Parenthood as confirmation of marital union
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: low
+  rationale: Parenthood validating a union belongs broadly with marriage, fertility,
+    and relational legitimation under sacred_love.
+  cautions: May be an ethnographic social rule rather than a narrative motif; if mainly
+    about legitimacy or descent, royal_legitimacy or sacred_law may be relevant.
+  suggested_aliases:
+  - childbirth_confirms_marriage
+  - parenthood_legitimizes_union
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parents-saving-children-while-mortally-injured
+  motif_id: parents_saving_children_while_mortally_injured
+  label: parents saving children while mortally injured
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mortally wounded parent preserving children centers on self-sacrificial
+    protection of kin.
+  cautions: Could also support miraculous_child if the saved children have sacred
+    destiny, or lament_and_mourning if grief is the focus.
+  suggested_aliases:
+  - dying_parent_saves_children
+  - parental_self_sacrifice_to_save_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parents-search-and-mourn-for-lost-child
+  motif_id: parents_search_and_mourn_for_lost_child
+  label: parents search and mourn for lost child
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explicitly combines search with mourning for a lost child,
+    with grief as a central function.
+  cautions: If the search drives a recovery quest, hero_journey may be a secondary
+    mapping; if the child is abducted to an enchanted realm, otherworld may be relevant.
+  suggested_aliases:
+  - parental_mourning_for_lost_child
+  - search_and_lament_for_missing_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parricidal-son-as-image-of-tyranny
+  motif_id: parricidal_son_as_image_of_tyranny
+  label: Parricidal son as image of tyranny
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Parricide as an image of tyranny concerns illegitimate or disordered
+    rule and political-moral order.
+  cautions: The phrase 'as image of' may indicate philosophical commentary rather
+    than a narrative motif; consider exclusion if it is only interpretive rhetoric.
+  suggested_aliases:
+  - parricide_as_tyranny_image
+  - tyrannical_son_kills_father
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paternal-action-affecting-unborn-child
+  motif_id: paternal_action_affecting_unborn_child
+  label: paternal action affecting unborn child
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: uncertain
+  confidence: low
+  rationale: A father's action shaping an unborn child may indicate marked birth or
+    prenatal destiny, but the function is unclear.
+  cautions: Could be taboo, curse, sacred birth, inherited consequence, or passage-specific
+    family detail; source evidence is required before mapping.
+  suggested_aliases:
+  - prenatal_consequence_of_paternal_action
+  - father_action_marks_unborn_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence family or marriage labels; preserve as evidence
+  details unless recurrence across sources supports a more durable kinship-conflict
+  group.
+- Several labels may be ordinary social or ethnographic observations rather than symbolic
+  motifs; source-context review is especially important for marriage and parental-role
+  items.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1935
+  input_sha256: 3afa06e19f415e9455ef40126489acfa29bf04a9804c46907821050925cdd95c
+

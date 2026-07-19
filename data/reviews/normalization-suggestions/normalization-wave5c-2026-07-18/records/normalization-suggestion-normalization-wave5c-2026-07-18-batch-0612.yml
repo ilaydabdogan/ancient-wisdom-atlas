@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0612
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-flame-under-priestly-guardianship
+  motif_id: sacred_flame_under_priestly_guardianship
+  label: sacred flame under priestly guardianship
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: A guarded sacred flame fits fire as divine presence or ritual medium
+    maintained by priestly office.
+  cautions: May also involve sacred_law or royal_legitimacy if the passage emphasizes
+    institutional rule rather than the flame itself.
+  suggested_aliases:
+  - priestly_guardianship_of_sacred_fire
+  - ritually_guarded_sacred_flame
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-healing-site-combining-worship-and-care
+  motif_id: sacred_healing_site_combining_worship_and_care
+  label: Sacred healing site combining worship and care
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A healing sanctuary where worship and care combine points to sacred power
+    acting in human affliction and cure.
+  cautions: If the site is primarily a pilgrimage center or cult place, sacred_treasures
+    or axis_mundi may be secondary; a future healing-sanctuary group may be warranted
+    if many recur.
+  suggested_aliases:
+  - sacred_healing_sanctuary
+  - cultic_healing_site
+  - healing_shrine_combining_worship_and_care
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-hearth-as-kinship-and-symbolic-center
+  motif_id: sacred_hearth_as_kinship_and_symbolic_center
+  label: Sacred hearth as kinship and symbolic center
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The hearth functions as a symbolic center organizing household or kinship
+    space, fitting sacred center imagery.
+  cautions: If the emphasis is fire ritual rather than spatial center, sacred_fire
+    may be better; review culturally specific hearth meanings carefully.
+  suggested_aliases:
+  - sacred_hearth_as_household_center
+  - hearth_as_kinship_center
+  - hearth_as_symbolic_center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-mountain-arrival-on-an-appointed-day
+  motif_id: sacred_mountain_arrival_on_an_appointed_day
+  label: Sacred mountain arrival on an appointed day
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: narrower_than
+  confidence: medium
+  rationale: A sacred mountain is already covered by the axis_mundi/cosmic_mountain
+    complex; appointed arrival adds calendrical specificity.
+  cautions: If the appointed day is central to the passage, sacred_time may be a secondary
+    mapping; if ascent or revelation dominates, ascent may be more precise.
+  suggested_aliases:
+  - appointed_day_arrival_at_sacred_mountain
+  - ritual_arrival_at_sacred_mountain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-relation-and-friendship-with-beings-from-above
+  motif_id: sacred_relation_and_friendship_with_beings_from_above
+  label: sacred relation and friendship with beings from above
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe divine friendship, sky-being alliance, tutelary
+    relationship, or source-specific relational theology.
+  cautions: Culturally sensitive and too broad without passage evidence; could fit
+    divine_intervention, theophany, sacred_exchange, or covenant depending on function.
+  suggested_aliases:
+  - friendship_with_sky_beings
+  - sacred_alliance_with_beings_from_above
+  - relationship_with_upper_world_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-reserved-trees-under-divine-ownership
+  motif_id: sacred_reserved_trees_under_divine_ownership
+  label: sacred reserved trees under divine ownership
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sacred trees, restricted access, and divine ownership;
+    the dominant function is unclear.
+  cautions: Culturally sensitive land/tree custodianship should not be collapsed into
+    generic tree worship without source review; possible groups include axis_mundi,
+    sacred_law, or sacred_treasures.
+  suggested_aliases:
+  - divinely_owned_reserved_trees
+  - sacred_restricted_trees
+  - taboo_trees_under_divine_ownership
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-roadside-marker-of-the-hero-s-path
+  motif_id: sacred_roadside_marker_of_the_hero_s_path
+  label: Sacred roadside marker of the hero's path
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred marker along the hero's path functions as a journey signpost
+    within departure, trial, or quest movement.
+  cautions: If the marker is mainly a relic, boundary, or memorial object, sacred_treasures,
+    threshold_guardian, or heroic_funeral_rites may be better.
+  suggested_aliases:
+  - sacred_marker_on_hero_path
+  - roadside_marker_of_quest_path
+  - heroic_path_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-salt-pilgrimage-and-ritual-collection
+  motif_id: sacred_salt_pilgrimage_and_ritual_collection
+  label: sacred salt pilgrimage and ritual collection
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Pilgrimage and ritual collection of a valued substance fits sacred exchange
+    and ritual relation with place or powers.
+  cautions: Could warrant sacred_substance if salt's material power is central, or
+    axis_mundi/sacred_geography if the pilgrimage site is the focus; review local
+    specificity.
+  suggested_aliases:
+  - ritual_collection_of_sacred_salt
+  - sacred_salt_pilgrimage
+  - pilgrimage_for_sacred_salt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-spring-as-passage-to-the-undermost-world
+  motif_id: sacred_spring_as_passage_to_the_undermost_world
+  label: sacred spring as passage to the undermost world
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: high
+  rationale: A spring serving as passage to a lower world is a water threshold enabling
+    descent or underworld access.
+  cautions: Also relates to sacred_waters; avoid mapping to flood_and_renewal unless
+    world-destruction renewal is present.
+  suggested_aliases:
+  - spring_passage_to_underworld
+  - sacred_spring_underworld_threshold
+  - water_entry_to_lower_world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-tree-reverence-and-tree-worship
+  motif_id: sacred_tree_reverence_and_tree_worship
+  label: sacred tree reverence and tree worship
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Sacred tree reverence fits the sacred_tree_axis and world-axis complex
+    when the tree marks sacred presence or cosmic connection.
+  cautions: The comparative framing may be too broad; if this is a scholarly category
+    rather than passage evidence, consider excluding as meta-textual.
+  suggested_aliases:
+  - sacred_tree_worship
+  - tree_reverence
+  - worship_of_sacred_trees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and journey-bucketed despite being place, ritual,
+  or sacred-object motifs; suggested placements are provisional.
+- Use secondary mappings in review where labels combine sacred geography, ritual calendar,
+  and substance collection.
+- Culturally specific Indigenous labels involving sacred relations, reserved trees,
+  springs, hearths, and salt pilgrimage should receive human review before broad normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0612
+  input_sha256: d9382d50be1f9b90866a4cb55a3eea05ac1dc290845ed33fa131bd17a80ddc95
+

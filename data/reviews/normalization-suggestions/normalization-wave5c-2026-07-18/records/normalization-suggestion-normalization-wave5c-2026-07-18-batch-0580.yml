@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0580
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.place-name-aetiology-from-mythic-passage
+  motif_id: place_name_aetiology_from_mythic_passage
+  label: Place-name aetiology from mythic passage
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Existing cosmic_origin group already includes multiple place-name etiology
+    children; this label fits etiological naming from a mythic journey or passage
+    event.
+  cautions: Single occurrence; if the passage event is only a travel note without
+    etiological explanation, it may be too contextual.
+  suggested_aliases:
+  - place_name_etiology_from_mythic_passage
+  - place_naming_from_mythic_passage
+  - place_name_aetiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.place-name-derived-from-royal-guardianship
+  motif_id: place_name_derived_from_royal_guardianship
+  label: place-name derived from royal guardianship
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is toponymic etiology, which is already grouped under
+    cosmic_origin and its place-name origin variants.
+  cautions: Royal guardianship may warrant secondary review under royal_legitimacy
+    if the passage emphasizes sacred rule rather than naming origin.
+  suggested_aliases:
+  - place_name_origin_from_royal_guardianship
+  - royal_guardianship_place_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poet-as-wandering-unreliable-speaker-with-righteous-exception
+  motif_id: poet_as_wandering_unreliable_speaker_with_righteous_exception
+  label: Poet as wandering unreliable speaker with righteous exception
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes social role, moral evaluation, wandering, and exception
+    logic; it is unclear whether the motif is about poetry, sacred speech, ethical
+    judgment, or commentary on poets.
+  cautions: May be a passage-specific exegetical or doctrinal classification rather
+    than a reusable motif; Islamic source context should be reviewed before mapping.
+  suggested_aliases:
+  - wandering_poet_as_unreliable_speaker
+  - righteous_exception_to_unreliable_poets
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.poor-parentless-wanderer-survives-impossible-passages
+  motif_id: poor_parentless_wanderer_survives_impossible_passages
+  label: Poor parentless wanderer survives impossible passages
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vulnerable wanderer surviving impossible passages fits journey ordeal
+    and threshold-crossing within the hero_journey complex.
+  cautions: If the emphasis is threatened or sacred childhood rather than travel ordeal,
+    miraculous_child may be a secondary fit; label is composite and single-occurrence.
+  suggested_aliases:
+  - orphan_wanderer_survives_impossible_passages
+  - vulnerable_wanderer_survives_impossible_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.portable-equipment-for-traveling-renunciants
+  motif_id: portable_equipment_for_traveling_renunciants
+  label: portable equipment for traveling renunciants
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could relate to renunciation and mystical quest, but the wording reads
+    as material-culture inventory rather than a narrative or symbolic motif.
+  cautions: May be a monastic rule or ethnographic/passage detail; review whether
+    the equipment functions ritually or only describes travel gear.
+  suggested_aliases:
+  - renunciant_travel_equipment
+  - portable_gear_for_wandering_ascetics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.portable-shelter-for-journey-goods
+  motif_id: portable_shelter_for_journey_goods
+  label: portable shelter for journey goods
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a practical object or travel detail rather
+    than a recurring symbolic or narrative motif.
+  cautions: If the shelter is a sacred vessel, magic container, or ritually protected
+    enclosure, it should be reconsidered under sacred_vessel or ark_vessel.
+  suggested_aliases:
+  - journey_goods_portable_shelter
+  - portable_travel_shelter_for_goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.portentous-thunder-and-earth-movement-before-an-uncanny-arrival
+  motif_id: portentous_thunder_and_earth_movement_before_an_uncanny_arrival
+  label: portentous thunder and earth movement before an uncanny arrival
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Portentous natural signs preceding an uncanny arrival function as omens
+    or altered-sign perception, fitting dream_and_vision and related prophecy-divination
+    space.
+  cautions: Could map to theophany if the arrival is divine manifestation, or divine_intervention
+    if sacred agency is explicit; source context needed.
+  suggested_aliases:
+  - portentous_natural_disturbance_before_uncanny_arrival
+  - thunder_and_earthquake_omen_before_arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.possessive-marking-of-parent-and-child-relationships
+  motif_id: possessive_marking_of_parent_and_child_relationships
+  label: Possessive marking of parent and child relationships
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording describes linguistic or grammatical marking, not a narrative
+    motif or symbolic pattern.
+  cautions: If the source uses possessive marking in a mythic kinship recognition
+    scene, extract a narrative motif separately; do not index the grammar note as
+    a motif.
+  suggested_aliases:
+  - possessive_marking_parent_child_relationships
+  - kinship_possessive_marking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-passage-night-covering-and-receipt-of-solar-diadems
+  motif_id: post_passage_night_covering_and_receipt_of_solar_diadems
+  label: Post-passage night covering and receipt of solar diadems
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines passage, night covering, and solar regalia; possible
+    fits include afterlife passage, sacred fire/solar power, or royal legitimacy.
+  cautions: Likely Egyptian ritual-afterlife imagery; requires source evidence to
+    avoid flattening solar, funerary, and royal functions into one broad group.
+  suggested_aliases:
+  - night_covering_after_passage_and_solar_diadems
+  - receipt_of_solar_diadems_after_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.post-voyage-seclusion-of-fishermen
+  motif_id: post_voyage_seclusion_of_fishermen
+  label: post-voyage seclusion of fishermen
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This may describe a ritual seclusion or purity practice after sea travel,
+    but the function is not clear from the label alone.
+  cautions: Could belong under sacred_law if a taboo/purity rule, sacred_waters if
+    maritime ritual is central, or be an ethnographic detail too specific for pattern
+    queries.
+  suggested_aliases:
+  - fishermen_secluded_after_voyage
+  - post_voyage_ritual_seclusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence composite labels; preserve local
+  evidence but avoid promoting them without recurrence or clearer source context.
+- Toponymic labels should generally be reviewed against the existing cosmic_origin
+  place-name etiology cluster, with secondary mappings only when another function
+  dominates.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review recommended for culturally
+    specific ritual and exegetical labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0580
+  input_sha256: e45fd467c582209b12b815d19014c83de0de5f37441ec392a40f090acfb6e581
+

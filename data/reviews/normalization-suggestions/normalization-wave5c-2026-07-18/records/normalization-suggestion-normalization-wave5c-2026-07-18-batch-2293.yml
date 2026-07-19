@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2293
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.wounded-serpent-as-image-of-damaged-survival
+  motif_id: wounded_serpent_as_image_of_damaged_survival
+  label: Wounded serpent as image of damaged survival
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: serpent_guardian
+  suggested_group_label: Serpent and Serpent Guardian
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Serpent imagery aligns with the serpent complex, but the label sounds
+    like a simile of damaged survival rather than a narrative serpent role.
+  cautions: Single occurrence; may be a literary image or passage-specific metaphor
+    rather than a motif. Confirm whether an actual serpent figure functions symbolically
+    in the source.
+  suggested_aliases:
+  - wounded serpent image
+  - serpent as damaged survival image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-survivor-prevents-repetition-of-the-trick
+  motif_id: wounded_survivor_prevents_repetition_of_the_trick
+  label: wounded survivor prevents repetition of the trick
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is a trick being exposed or neutralized by a survivor,
+    fitting trickster/deception reversal patterns.
+  cautions: Animal or human roles are unclear from the label. If the wound/survival
+    episode is only plot detail, keep as granular evidence.
+  suggested_aliases:
+  - survivor prevents the trick from recurring
+  - trick exposed by wounded survivor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wounded-tame-animal-as-catalyst-for-human-conflict
+  motif_id: wounded_tame_animal_as_catalyst_for_human_conflict
+  label: wounded tame animal as catalyst for human conflict
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: The wounded animal functions as the trigger for human conflict, comparable
+    to catalyst motifs that initiate combat or vengeance.
+  cautions: May be too episode-specific and not necessarily sacred combat. If the
+    animal’s suffering is the primary motif, human review may prefer exclusion or
+    a future animal-conflict catalyst group.
+  suggested_aliases:
+  - injured tame animal triggers conflict
+  - wounded domestic animal causes human quarrel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wronged-youth-avenged-by-animal-allies
+  motif_id: wronged_youth_avenged_by_animal_allies
+  label: wronged youth avenged by animal allies
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already includes animal_helpers; animal allies intervene to
+    avenge or redress wrong done to a youth.
+  cautions: Could also involve divine_judgment, miraculous_child, or culture-hero
+    material depending on the youth’s status and the animals’ sacred agency.
+  suggested_aliases:
+  - animal allies avenge wronged youth
+  - animal helpers avenge persecuted youth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.young-hunter-killed-by-pursued-animal
+  motif_id: young_hunter_killed_by_pursued_animal
+  label: young hunter killed by pursued animal
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: A hunted animal killing its pursuer may be a reversal or moral reckoning,
+    but the label alone does not show sacred judgment.
+  cautions: Single occurrence and possibly just an episode of animal attack or hunting
+    accident. Avoid mapping to judgment unless the source frames it as punishment
+    or reversal.
+  suggested_aliases:
+  - hunter killed by pursued animal
+  - pursued animal kills hunter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.young-man-carried-off-by-a-lion-while-asleep
+  motif_id: young_man_carried_off_by_a_lion_while_asleep
+  label: young man carried off by a lion while asleep
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a very specific incident of animal predation without
+    a clear broader symbolic or narrative function.
+  cautions: If the lion is a supernatural agent, threshold guardian, or initiatory
+    danger in the source, remap after review; otherwise preserve as passage evidence
+    only.
+  suggested_aliases:
+  - sleeping youth carried off by lion
+  - lion abducts sleeping young man
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.youth-drives-away-dangerous-animal
+  motif_id: youth_drives_away_dangerous_animal
+  label: youth drives away dangerous animal
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: low
+  rationale: A youth confronting and repelling danger can function as an initiatory
+    or status-marking ordeal.
+  cautions: If no transformation, recognition, or sacred test is present, this may
+    be an over-specific heroic episode rather than an initiation motif.
+  suggested_aliases:
+  - youth repels dangerous animal
+  - young person drives off animal threat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.combat-with-lightning
+  motif_id: combat_with_lightning
+  label: Combat with lightning
+  occurrences: 3
+  traditions:
+  - san
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Combat against or with lightning frames elemental/celestial force as
+    a combatant or weapon, fitting sacred combat and divine-warrior patterns.
+  cautions: Could instead belong under sacred_fire or divine_intervention if lightning
+    functions mainly as divine light, fire, or intervention rather than opponent/weapon
+    in combat.
+  suggested_aliases:
+  - lightning combat
+  - battle with lightning
+  - combat against lightning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confession-amendment-and-future-restraint
+  motif_id: confession_amendment_and_future_restraint
+  label: confession, amendment, and future restraint
+  occurrences: 2
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Confession with amendment and restraint is a disciplinary-ethical practice
+    within sacred law or monastic moral order.
+  cautions: Bucket assignment appears off. If the passage emphasizes inner transformation
+    more than rule observance, mystical_quest or wisdom may be secondary.
+  suggested_aliases:
+  - confession and amendment
+  - confession with future restraint
+  - ethical restraint after confession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.happy-otherworld-conception
+  motif_id: happy_otherworld_conception
+  label: Happy Otherworld conception
+  occurrences: 2
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label directly concerns a positive or blessed conception of the Otherworld,
+    matching the otherworld/enchantment group.
+  cautions: If it denotes conception of a child in the Otherworld rather than an idea
+    of the Otherworld, miraculous_child or sacred_birth may be relevant as secondary
+    mappings.
+  suggested_aliases:
+  - blessed otherworld conception
+  - happy otherworld image
+  - positive otherworld conception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several animal-danger labels are single-occurrence and may be episode-specific;
+  human review should verify whether animal agency is symbolic, supernatural, moral,
+  or merely narrative action.
+- The review bucket for confession_amendment_and_future_restraint appears semantically
+  mismatched; suggested placement follows label meaning rather than bucket.
+- No new group is recommended for this batch; existing groups can provisionally hold
+  the recurring functions, while the most incident-specific labels should be reviewed
+  or excluded.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source evidence needed for low-confidence
+    animal-incident labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2293
+  input_sha256: 4a013165b9bb308f9d771abc57c162d2d6ca56aa8dcaa5c3dc54a56c31864774
+

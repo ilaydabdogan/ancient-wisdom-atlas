@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3686
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mistaken-identity-caused-by-ambiguous-object
+  motif_id: mistaken_identity_caused_by_ambiguous_object
+  label: Mistaken identity caused by ambiguous object
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: An ambiguous object causing mistaken identity is the inverse of recognition-token
+    logic, where an object mediates identity proof or misrecognition.
+  cautions: Single occurrence; may be an episode-specific plot device unless the object
+    functions as a durable identity token.
+  suggested_aliases:
+  - misrecognition_by_object
+  - ambiguous_object_identity_error
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-identity-through-splendid-attire
+  motif_id: mistaken_identity_through_splendid_attire
+  label: mistaken identity through splendid attire
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Clothing or splendid attire functions as an external sign that alters
+    perceived identity or status.
+  cautions: Could alternatively belong with royal_legitimacy if attire confers rulership
+    or rank rather than simple misrecognition.
+  suggested_aliases:
+  - misrecognition_by_attire
+  - identity_confusion_through_clothing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-killing-because-an-object-absorbs-the-blow
+  motif_id: mistaken_killing_because_an_object_absorbs_the_blow
+  label: Mistaken killing because an object absorbs the blow
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a combat accident, deceptive evidence, or protection
+    by an intervening object, but its narrative function is unclear.
+  cautions: Needs passage context; could map to sacred_combat, sacred_treasures, conditional_invulnerability_hidden_weakness,
+    or be too episode-specific.
+  suggested_aliases:
+  - object_absorbs_lethal_blow
+  - mistaken_death_by_intervening_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-messenger-changes-human-bodily-arrangement
+  motif_id: mistaken_messenger_changes_human_bodily_arrangement
+  label: Mistaken messenger changes human bodily arrangement
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to combine messenger error with bodily etiology or transformation,
+    but the function cannot be inferred from the label alone.
+  cautions: May belong to cosmic_origin if it explains human anatomy, shapeshifter
+    if transformation is central, or _meta_textual if generated from commentary.
+  suggested_aliases:
+  - messenger_error_changes_body_form
+  - mistaken_message_body_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-retaliation-escalates-alliance-conflict
+  motif_id: mistaken_retaliation_escalates_alliance_conflict
+  label: Mistaken retaliation escalates alliance conflict
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mistaken retaliation damaging an alliance centers on the breakdown of
+    trust and reciprocal obligation.
+  cautions: If the source emphasizes warfare escalation rather than violated alliance,
+    sacred_combat may be the better parent.
+  suggested_aliases:
+  - mistaken_retaliation_breaks_alliance
+  - retaliatory_error_escalates_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistaken-wealth-wish-fulfilled-in-bodily-rupture
+  motif_id: mistaken_wealth_wish_fulfilled_in_bodily_rupture
+  label: Mistaken wealth wish fulfilled in bodily rupture
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A wealth wish fulfilled destructively through the body resembles greed
+    or misdirected desire producing moral consequence.
+  cautions: Could involve trickster humor, curse/blessing speech, or bodily transformation
+    depending on source evidence.
+  suggested_aliases:
+  - destructive_fulfillment_of_wealth_wish
+  - greedy_wish_causes_bodily_rupture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistletoe-as-external-life-of-the-oak-or-its-representative
+  motif_id: mistletoe_as_external_life_of_the_oak_or_its_representative
+  label: Mistletoe as external life of the oak or its representative
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label explicitly treats mistletoe as an external life principle bound
+    to a tree or representative being.
+  cautions: Comparative label may be interpretive rather than passage-native; preserve
+    plant/tree specificity and review for commentary artifact risk.
+  suggested_aliases:
+  - mistletoe_external_life_token
+  - tree_life_bound_to_mistletoe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misuse-of-precedence-in-communal-lodging
+  motif_id: misuse_of_precedence_in_communal_lodging
+  label: Misuse of precedence in communal lodging
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: role_variant
+  confidence: medium
+  rationale: Misuse of rank or precedence in shared lodging concerns social order,
+    hierarchy, and ethical regulation.
+  cautions: May be a monastic rule or passage-specific etiquette note rather than
+    a mythic motif; review before broad indexing.
+  suggested_aliases:
+  - improper_claim_of_precedence
+  - misuse_of_rank_in_communal_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mixed-christian-and-heathen-royal-court
+  motif_id: mixed_christian_and_heathen_royal_court
+  label: Mixed Christian and heathen royal court
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a historical or cultural setting description rather
+    than a recurring symbolic or narrative motif.
+  cautions: If the passage uses the mixed court to stage conversion, covenant conflict,
+    or sacred kingship, a human reviewer may remap it contextually.
+  suggested_aliases:
+  - religiously_mixed_royal_court
+  - christian_heathen_court_setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mixed-heritage-leader-as-diplomatic-broker
+  motif_id: mixed_heritage_leader_as_diplomatic_broker
+  label: Mixed-heritage leader as diplomatic broker
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may describe a social role or historical person-type rather than
+    a mythic motif, though it could relate to mediation across boundaries.
+  cautions: Culturally and historically specific; avoid reducing identity to a generic
+    motif without source evidence. Could be excluded if only contextual.
+  suggested_aliases:
+  - liminal_leader_as_diplomatic_mediator
+  - mixed_descent_diplomatic_broker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and look like generated episode
+  summaries; human review should verify whether they recur as motifs or only serve
+  as passage notes.
+- For identity-confusion labels, recognition_tokens_hidden_identity is used provisionally
+  because the current taxonomy has no dedicated misrecognition group.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: api-ai-assistant
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3686
+  input_sha256: 27df49c074cbca5ac359a2afa9cd5a0e356bf639c16d23c456b622bf9d3419ee
+

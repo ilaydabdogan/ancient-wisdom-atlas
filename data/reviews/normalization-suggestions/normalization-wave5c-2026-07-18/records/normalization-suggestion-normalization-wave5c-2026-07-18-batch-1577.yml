@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1577
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fugitive-rebel-besieged-in-city-refuge
+  motif_id: fugitive_rebel_besieged_in_city_refuge
+  label: fugitive rebel besieged in city refuge
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern rebellion, refuge, siege warfare, or royal order,
+    but its mythic function is unclear from wording alone.
+  cautions: Single occurrence and highly contextual; could be historical episode detail
+    rather than reusable motif.
+  suggested_aliases:
+  - rebel_besieged_in_refuge_city
+  - fugitive_rebel_takes_city_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-honor-contrasted-with-carrion-exposure
+  motif_id: funeral_honor_contrasted_with_carrion_exposure
+  label: funeral honor contrasted with carrion exposure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: The contrast between honored burial and corpse exposure directly concerns
+    funerary honor and denial of rites.
+  cautions: May also index to divine_judgment if carrion exposure is framed as moral
+    punishment.
+  suggested_aliases:
+  - honored_funeral_contrasted_with_exposed_corpse
+  - burial_honor_versus_carrion_exposure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-honors-for-a-fallen-young-warrior
+  motif_id: funeral_honors_for_a_fallen_young_warrior
+  label: funeral honors for a fallen young warrior
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: high
+  rationale: Funerary honors for a dead warrior are a direct case of heroic funeral
+    rites.
+  cautions: Youth should be preserved as evidence detail unless it recurs as a distinct
+    lament or warrior-death pattern.
+  suggested_aliases:
+  - funeral_honors_for_fallen_warrior
+  - heroic_honors_for_young_fallen_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-procession-through-ordered-spaces
+  motif_id: funeral_procession_through_ordered_spaces
+  label: funeral procession through ordered spaces
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: An ordered funerary procession is ritual handling of the dead within
+    living-dead relations.
+  cautions: Could be a passage-specific ritual protocol; if focused on social hierarchy
+    rather than ancestor relation, sacred_law may be secondary.
+  suggested_aliases:
+  - ordered_funerary_procession
+  - funeral_procession_as_ordered_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-games-honoring-a-father
+  motif_id: funerary_games_honoring_a_father
+  label: funerary games honoring a father
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: narrower_than
+  confidence: high
+  rationale: Funeral games are already represented as a commemorative practice within
+    heroic funeral rites.
+  cautions: Father-specific kinship should remain an evidence note unless a broader
+    filial funeral pattern is being reviewed.
+  suggested_aliases:
+  - funeral_games_honoring_the_dead_father
+  - funeral_games_for_a_father
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-honor-granted-by-the-victor
+  motif_id: funerary_honor_granted_by_the_victor
+  label: funerary honor granted by the victor
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: high
+  rationale: Granting burial or funerary honor after defeat fits the social repair
+    and memorial function of heroic funeral rites.
+  cautions: If the emphasis is mercy by a conqueror, covenant or sacred_law may be
+    relevant secondary groups.
+  suggested_aliases:
+  - victor_grants_funerary_honor
+  - burial_honor_granted_by_victor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funerary-preparation-in-ordered-stages
+  motif_id: funerary_preparation_in_ordered_stages
+  label: funerary preparation in ordered stages
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Staged preparation of the dead belongs with ritual care for the dead
+    and maintenance of proper mortuary relations.
+  cautions: For Egyptian material, if the stages prepare afterlife navigation, afterlife_passage
+    may be a better or secondary placement.
+  suggested_aliases:
+  - ordered_funerary_preparation
+  - staged_preparation_of_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.future-salvation-by-creator-king-who-becomes-man
+  motif_id: future_salvation_by_creator_king_who_becomes_man
+  label: Future salvation by creator King who becomes man
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines creator sovereignty, incarnation, and future salvation
+    in a possibly Christian or interpretive theological frame.
+  cautions: Culturally and doctrinally sensitive; may be source commentary or syncretic
+    interpretation rather than a comparable motif label.
+  suggested_aliases:
+  - future_salvation_by_incarnate_creator_king
+  - creator_king_becomes_human_for_salvation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.game-abundance-followed-by-scarcity
+  motif_id: game_abundance_followed_by_scarcity
+  label: game abundance followed by scarcity
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ecological abundance loss, moral consequence,
+    seasonal decline, or local hunting economy.
+  cautions: Ambiguous term 'game' means hunted animals, not play; source evidence
+    needed before mapping to sacred_time, divine_judgment, or world_ages_cosmic_decline.
+  suggested_aliases:
+  - hunted_game_abundance_followed_by_scarcity
+  - animal_game_scarcity_after_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.game-sharing-by-order-of-hunting-participation
+  motif_id: game_sharing_by_order_of_hunting_participation
+  label: Game-sharing by order of hunting participation
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rules for distributing hunted game by participation order express social
+    obligation and sacred or customary order.
+  cautions: Could also fit sacred_exchange if reciprocity and sharing obligations
+    are emphasized; review Indigenous legal/ritual context carefully.
+  suggested_aliases:
+  - hunted_game_sharing_by_hunting_participation
+  - game_distribution_by_hunting_role
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence funerary variants; existing ancestor_rites
+  and heroic_funeral_rites groups can absorb most without creating new groups.
+- Do not infer historical transmission or Christianization from placement of the creator-king
+  salvation label; it needs source-based human review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1577
+  input_sha256: 27dff501f06d508cb36a561e3343ee34d014bc267971fed7fb0df85edf7948d9
+

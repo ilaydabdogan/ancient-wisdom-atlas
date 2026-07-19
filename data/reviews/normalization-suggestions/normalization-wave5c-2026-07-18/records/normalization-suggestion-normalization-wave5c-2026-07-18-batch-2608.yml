@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2608
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ambiguous-heroic-boast-from-killing-small-creatures
+  motif_id: ambiguous_heroic_boast_from_killing_small_creatures
+  label: ambiguous heroic boast from killing small creatures
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: Heroic boasting before or after violence can fit sacred_combat, but the
+    label itself marks ambiguity and the small-creature detail may be comic or episode-specific.
+  cautions: Single occurrence; verify whether this is a real combat-boast motif, a
+    parody, or a passage artifact before indexing.
+  suggested_aliases:
+  - heroic_boast_after_minor_killing
+  - ambiguous_combat_boast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambivalent-weapon-that-kills-and-restores
+  motif_id: ambivalent_weapon_that_kills_and_restores
+  label: Ambivalent weapon that kills and restores
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon with power both to kill and restore is best treated as a supernatural
+    or power object rather than ordinary combat.
+  cautions: Could also relate to death_and_transformation if the restoration function
+    is central; preserve the ambivalent kill/restore function in notes.
+  suggested_aliases:
+  - weapon_that_kills_and_restores
+  - restorative_deadly_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambush-after-hospitality-and-contest
+  motif_id: ambush_after_hospitality_and_contest
+  label: Ambush after hospitality and contest
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: uncertain
+  confidence: low
+  rationale: The sequence may center on violated hospitality or treacherous contest
+    aftermath rather than combat itself.
+  cautions: Composite single-occurrence label; review whether the motif is hospitality
+    betrayal, contest violence, or an episode-specific plot summary.
+  suggested_aliases:
+  - treacherous_ambush_after_hospitality
+  - contest_followed_by_ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambush-defeated-by-enemy-detour
+  motif_id: ambush_defeated_by_enemy_detour
+  label: ambush defeated by enemy detour
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a tactical episode detail rather than a reusable mythic
+    motif in the current taxonomy.
+  cautions: If similar ambush-counterstrategy labels recur, consider a combat stratagem
+    subgroup under sacred_combat; otherwise preserve only as passage evidence.
+  suggested_aliases:
+  - failed_ambush_by_enemy_detour
+  - ambush_avoided_by_detour
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambush-followed-by-one-sided-victory
+  motif_id: ambush_followed_by_one_sided_victory
+  label: ambush followed by one-sided victory
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a generic battle outcome sequence and lacks sacred, ritual,
+    heroic, or supernatural function.
+  cautions: Could be mapped to sacred_combat only if the source gives the ambush ritual
+    or mythic significance.
+  suggested_aliases:
+  - one_sided_victory_after_ambush
+  - ambush_resulting_in_rout
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambush-followed-by-retaliatory-revenge
+  motif_id: ambush_followed_by_retaliatory_revenge
+  label: ambush followed by retaliatory revenge
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Retaliatory revenge after ambush can fit warfare and vengeance patterns
+    already grouped under sacred_combat.
+  cautions: Low confidence because it may be only an episode-specific conflict sequence;
+    consider divine_judgment only if revenge is moral or sacred reckoning.
+  suggested_aliases:
+  - retaliation_after_ambush
+  - ambush_and_revenge_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambush-victory-aided-by-scouts
+  motif_id: ambush_victory_aided_by_scouts
+  label: ambush victory aided by scouts
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Scout-assisted ambush victory is a tactical battle detail, not clearly
+    a symbolic or recurrent mythic motif.
+  cautions: Map to sacred_combat only if scouts have supernatural, ritual, or culture-hero
+    function in the passage.
+  suggested_aliases:
+  - scout_aided_ambush_victory
+  - ambush_success_through_scouting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.amphibious-landing-under-enemy-pressure
+  motif_id: amphibious_landing_under_enemy_pressure
+  label: amphibious landing under enemy pressure
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: This is a military maneuver or historical battle detail rather than a
+    mythic motif.
+  cautions: Do not map to sacred_waters or passage_through_waters unless the water
+    crossing has explicit ritual, supernatural, or transformative function.
+  suggested_aliases:
+  - contested_amphibious_landing
+  - landing_under_enemy_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ancient-testimony-versus-modern-scepticism
+  motif_id: ancient_testimony_versus_modern_scepticism
+  label: ancient testimony versus modern scepticism
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes scholarly evaluation of evidence, not a narrative
+    or symbolic motif.
+  cautions: Preserve only as commentary/provenance if useful; exclude from Pattern
+    Explorer motif queries.
+  suggested_aliases:
+  - ancient_testimony_modern_skepticism
+  - scholarly_scepticism_about_ancient_testimony
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.angelic-contest-over-moses-body
+  motif_id: angelic_contest_over_moses_body
+  label: Angelic contest over Moses’ body
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural contest over a revered dead figure's body aligns with
+    contests over remains and funerary status already under heroic_funeral_rites.
+  cautions: Could also involve divine_intervention or afterlife_passage depending
+    on source context; preserve Moses-specific and angelic details as evidence, not
+    canonical scope.
+  suggested_aliases:
+  - supernatural_contest_over_holy_body
+  - angelic_dispute_over_revered_body
+  - contest_over_prophet_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several ambush labels appear to be single-occurrence tactical summaries; avoid promoting
+  them unless recurrence shows a stable ritual-war or stratagem motif.
+- Do not infer water-passage symbolism from amphibious or military labels without
+  explicit transformative or sacred function.
+- Existing groups outside the motif family list, such as sacred_combat and heroic_funeral_rites,
+  are used here as normalization groups per the supplied canonical_motif_groups.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for wave5c batch 2608; human review
+    recommended for ambiguous combat composites.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2608
+  input_sha256: 6e20a3e21e76a05fe061237de42aa09ccdd3383b053279e340be3475adce7841
+

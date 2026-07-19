@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1180
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.solitary-ritual-preparation-and-mental-observance
+  motif_id: solitary_ritual_preparation_and_mental_observance
+  label: solitary ritual preparation and mental observance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Solitary mental observance and preparation fits disciplined interior
+    practice on a contemplative path.
+  cautions: Single occurrence; if this is only procedural ritual setup rather than
+    transformative practice, sacred_law or exclusion as contextual detail may be better.
+  suggested_aliases:
+  - solitary_ritual_observance
+  - mental_ritual_preparation
+  - solitary_contemplative_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.son-performs-or-leads-cremation-rite-for-father
+  motif_id: son_performs_or_leads_cremation_rite_for_father
+  label: son performs or leads cremation rite for father
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: A kin member performing funerary cremation for a parent is ritual care
+    of the dead and ancestor relation maintenance.
+  cautions: Could also relate to heroic_funeral_rites if the father is a hero or ruler;
+    preserve filial and cremation specifics as evidence detail.
+  suggested_aliases:
+  - filial_cremation_rite
+  - son_leads_father_s_funeral_rite
+  - kin_performed_cremation_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.son-succeeds-father-as-sacred-companion-minstrel
+  motif_id: son_succeeds_father_as_sacred_companion_minstrel
+  label: son succeeds father as sacred companion-minstrel
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: role_variant
+  confidence: low
+  rationale: Succession to a sacred service role can fit inherited religious obligation
+    and reciprocal service within a sacred community.
+  cautions: May be a person/office succession detail rather than a reusable motif;
+    if emphasis is musical sacred transmission, enchanting_music or storytelling_as_power
+    may be secondary.
+  suggested_aliases:
+  - hereditary_sacred_minstrel_role
+  - filial_succession_to_sacred_service
+  - inherited_companion_minstrel_office
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-and-drum-accompanying-sacred-object-demonstration
+  motif_id: song_and_drum_accompanying_sacred_object_demonstration
+  label: Song and drum accompanying sacred-object demonstration
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: low
+  rationale: Song and drum are ritual sound accompanying a sacred object, but the
+    function of the sound is unclear.
+  cautions: Culturally specific ceremonial context is needed; could belong with sacred_treasures,
+    sacred_exchange, or be an over-specific performance detail rather than a motif.
+  suggested_aliases:
+  - ritual_song_and_drum_with_sacred_object
+  - drumming_for_sacred_object_display
+  - sacred_object_demonstration_with_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-and-drumming-as-inherited-identity-and-emotional-expression
+  motif_id: song_and_drumming_as_inherited_identity_and_emotional_expression
+  label: song and drumming as inherited identity and emotional expression
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: low
+  rationale: The label centers on song and drumming as socially and emotionally powerful
+    inherited expression.
+  cautions: May be ethnographic or identity commentary rather than a mythic pattern;
+    avoid collapsing culturally specific song inheritance into generic magical music
+    without source evidence.
+  suggested_aliases:
+  - inherited_song_and_drumming_identity
+  - drumming_as_inherited_identity
+  - song_drumming_emotional_expression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-as-commemoration-of-divine-victory
+  motif_id: song_as_commemoration_of_divine_victory
+  label: song as commemoration of divine victory
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A commemorative song preserves and transmits the meaning of a divine
+    victory through sacred narrative performance.
+  cautions: If the emphasis is the combat itself, divine_warrior or sacred_combat
+    should be secondary; if the song is ritually efficacious, enchanting_music may
+    fit.
+  suggested_aliases:
+  - commemorative_song_of_divine_victory
+  - victory_hymn_for_divine_triumph
+  - song_memorializing_divine_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-heard-by-gods-and-followed-by-altered-fate
+  motif_id: song_heard_by_gods_and_followed_by_altered_fate
+  label: Song heard by gods and followed by altered fate
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The song has supernatural efficacy, reaching gods and changing an outcome
+    or fate.
+  cautions: Could also map to divine_intervention or curse_blessing_speech if the
+    key action is divine response or performative prayer rather than musical power.
+  suggested_aliases:
+  - song_alters_fate_when_heard_by_gods
+  - efficacious_song_to_gods
+  - divinely_heard_song_changes_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-performed-during-recruitment-offering
+  motif_id: song_performed_during_recruitment_offering
+  label: song performed during recruitment offering
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: An offering accompanied by song suggests ritual exchange or obligation,
+    but the recruitment context is unclear.
+  cautions: May be a local ceremony or social practice rather than a cross-source
+    motif; review whether the song, the offering, or recruitment is the salient ritual
+    function.
+  suggested_aliases:
+  - ritual_song_during_offering
+  - song_accompanying_recruitment_offering
+  - offering_song_for_recruitment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.song-prayer-to-sea-power-for-calm-water
+  motif_id: song_prayer_to_sea_power_for_calm_water
+  label: song-prayer to sea power for calm water
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sung prayer seeks direct aid from a sea power to alter dangerous waters.
+  cautions: Could also relate to sacred_waters or sacred_exchange; preserve sea-power
+    specificity and avoid treating all water prayer as flood or passage motif.
+  suggested_aliases:
+  - sung_prayer_for_calm_seas
+  - song_prayer_to_sea_power
+  - ritual_song_for_calm_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-concerning-sacred-stones
+  motif_id: songs_concerning_sacred_stones
+  label: songs concerning sacred stones
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: Sacred stones are power objects, and songs may preserve or activate their
+    significance.
+  cautions: Very broad and culturally specific; source context needed to know whether
+    the motif is the stones, the songs, a ritual demonstration, or a textual catalog
+    detail.
+  suggested_aliases:
+  - sacred_stone_songs
+  - songs_about_sacred_stones
+  - ritual_songs_for_sacred_stones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch involve Indigenous ceremonial song or drumming. Human
+  review should preserve local ceremonial specificity and avoid reducing performance,
+  identity, and ritual practice to generic magical music.
+- Single-occurrence ritual-performance labels may be evidence notes rather than durable
+  motif nodes unless they recur across sources or show a clear narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific song, drumming, and sacred-object
+    contexts require human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1180
+  input_sha256: 3876d7b7d331fea899d8cae42e6d5ebef36689c19250c63a5b44f772182fbd08
+

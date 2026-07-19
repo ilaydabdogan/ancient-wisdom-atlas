@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1790
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.child-scaring-fabulous-animal-used-to-silence-crying-children
+  motif_id: child_scaring_fabulous_animal_used_to_silence_crying_children
+  label: Child-scaring fabulous animal used to silence crying children
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a child-disciplining bogey animal, a fabulous
+    beast motif, or an ethnographic behavior note.
+  cautions: Single occurrence and culturally contextual; avoid mapping to animal,
+    trickster, or child groups without passage evidence.
+  suggested_aliases:
+  - bogey animal used to frighten children
+  - fabulous animal invoked to silence children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-seeks-captive-parent
+  motif_id: child_seeks_captive_parent
+  label: Child seeks captive parent
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A child undertaking a search for an imprisoned parent functions as a
+    rescue quest or departure ordeal.
+  cautions: If the passage emphasizes kinship obligation more than journey or rescue,
+    keep as a family-context evidence detail.
+  suggested_aliases:
+  - child quest to rescue captive parent
+  - child searches for imprisoned parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-self-reliance-through-struggle
+  motif_id: child_self_reliance_through_struggle
+  label: child self-reliance through struggle
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A child's struggle producing self-reliance fits transformation of status
+    or capacity through ordeal.
+  cautions: May be an abstract moral theme rather than a narrative motif; review whether
+    an actual ordeal or rite is present.
+  suggested_aliases:
+  - child matures through struggle
+  - self-reliant child through ordeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-sent-by-father-to-prepare-implements
+  motif_id: child_sent_by_father_to_prepare_implements
+  label: child sent by father to prepare implements
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-specific household task rather than a durable
+    symbolic or narrative motif.
+  cautions: If the task initiates a quest, ordeal, or craft transmission, review under
+    initiation or sacred_craft instead.
+  suggested_aliases:
+  - child prepares implements for father
+  - parent sends child to prepare tools
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-sent-on-household-fetching-task
+  motif_id: child_sent_on_household_fetching_task
+  label: child sent on household fetching task
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: A routine fetching errand is too generic and episode-specific for motif
+    querying without further narrative function.
+  cautions: If the errand leads to danger, threshold crossing, or transformation,
+    map the resulting function rather than the task itself.
+  suggested_aliases:
+  - child sent to fetch household item
+  - household errand by child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-sent-to-fetch-implements-for-parent
+  motif_id: child_sent_to_fetch_implements_for_parent
+  label: Child sent to fetch implements for parent
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This duplicates the household errand/tool-fetching pattern and is likely
+    passage-level action detail.
+  cautions: Potential synonym of child_sent_by_father_to_prepare_implements; only
+    retain if it triggers a quest, ordeal, or craft episode.
+  suggested_aliases:
+  - child fetches implements for parent
+  - child sent to bring tools
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-sheltered-by-animal-companions
+  motif_id: child_sheltered_by_animal_companions
+  label: child sheltered by animal companions
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A child protected by animal companions fits the protected or extraordinary
+    child pattern.
+  cautions: If animal agency is central rather than the child's destiny, secondary
+    review under divine_intervention or animal_helpers may be useful.
+  suggested_aliases:
+  - child protected by animal helpers
+  - animal companions shelter child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-sized-imitation-of-adult-hunting-implement
+  motif_id: child_sized_imitation_of_adult_hunting_implement
+  label: Child-sized imitation of adult hunting implement
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The object may mark childhood training, initiation, craft, or a local
+    ethnographic detail.
+  cautions: Single occurrence; do not map to sacred_craft or initiation unless the
+    object has ritual or transformative function.
+  suggested_aliases:
+  - child-sized hunting tool
+  - miniature adult hunting implement for child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-spared-from-killing-and-fostered-with-maternal-kin
+  motif_id: child_spared_from_killing_and_fostered_with_maternal_kin
+  label: child spared from killing and fostered with maternal kin
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A threatened child spared from death and hidden or fostered fits the
+    protected-child complex.
+  cautions: If no sacred destiny or later significance is present, this may be a kinship-rescue
+    episode rather than miraculous_child.
+  suggested_aliases:
+  - threatened child spared and fostered
+  - child saved from killing by maternal kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-stealing-cave-dwelling-predator
+  motif_id: child_stealing_cave_dwelling_predator
+  label: child-stealing cave-dwelling predator
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines child abduction, predator/monster, and cave setting;
+    the dominant function is unclear.
+  cautions: Could fit threshold_guardian, cave/descent, trickster-predator, or persecuted
+    child depending on the passage; avoid mapping solely from cave imagery.
+  suggested_aliases:
+  - cave predator steals children
+  - child-abducting cave monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several San child-task labels appear to be granular episode details and may be duplicates
+  or near-duplicates; preserve only if they recur or trigger a larger quest/ordeal
+  function.
+- Child-focused labels should not be mapped to miraculous_child unless the evidence
+  includes threat, protection, hidden fostering, destiny, or extraordinary status.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; family and child-development motifs need passage-level
+    review because current groups emphasize sacred birth/protected child rather than
+    ordinary kinship socialization.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1790
+  input_sha256: 8f2071ae148f18236c89b62d731b3783315d4c475ccf410b842e43d55839280d
+

@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3230
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ceremonial-diplomacy-through-dress-and-dance
+  motif_id: ceremonial_diplomacy_through_dress_and_dance
+  label: Ceremonial diplomacy through dress and dance
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a culturally specific diplomatic ceremonial practice,
+    but the current taxonomy has no clear diplomacy or ritual performance group.
+  cautions: Single occurrence; avoid reducing Native ceremonial diplomacy to generic
+    sacred exchange without source evidence about reciprocity, treaty, hospitality,
+    or sacred law.
+  suggested_aliases:
+  - ritual_diplomacy_through_dress_and_dance
+  - ceremonial_dance_as_diplomatic_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-display-of-valued-objects-at-feast-dances
+  motif_id: ceremonial_display_of_valued_objects_at_feast_dances
+  label: ceremonial display of valued objects at feast dances
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve sacred exchange, status display, or feast ritual,
+    but its narrative function is unclear from the wording alone.
+  cautions: Do not map to sacred_treasures unless the objects carry explicit supernatural
+    power; do not map to sacred_exchange unless gift or reciprocity function is present.
+  suggested_aliases:
+  - feast_dance_display_of_valued_objects
+  - ritual_display_of_valuables_at_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_treasures
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-distinction-in-clothing-and-adornment
+  motif_id: ceremonial_distinction_in_clothing_and_adornment
+  label: ceremonial distinction in clothing and adornment
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Ceremonial clothing and adornment may mark role, status, purity, or sacred
+    presence, but the label does not specify the motif function.
+  cautions: Likely too broad or ethnographic as a standalone motif; source evidence
+    should decide whether it belongs under sacred_law, royal_legitimacy, theophany,
+    or a local ritual-performance note.
+  suggested_aliases:
+  - ritual_distinction_by_clothing_and_adornment
+  - ceremonial_adornment_marks_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-distribution-of-prepared-corn
+  motif_id: ceremonial_distribution_of_prepared_corn
+  label: Ceremonial distribution of prepared corn
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual distribution of prepared food fits sacred exchange through communal
+    feeding, offering, or reciprocity.
+  cautions: If the passage emphasizes agricultural cycle or corn spirit rather than
+    distribution, sacred_time may be a secondary or better mapping; preserve corn
+    specificity.
+  suggested_aliases:
+  - ritual_distribution_of_prepared_corn
+  - ceremonial_food_distribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-echo-response
+  motif_id: ceremonial_echo_response
+  label: ceremonial echo response
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a ritual speech or performance form, but not its sacred
+    function or narrative role.
+  cautions: Could be performative sacred speech, storytelling power, ritual dialogue,
+    or merely an ethnographic performance detail; needs passage evidence.
+  suggested_aliases:
+  - ritual_echo_response
+  - ceremonial_call_and_response
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - storytelling_as_power
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-emblems-as-saving-counterparts-to-mythic-escape-aids
+  motif_id: ceremonial_emblems_as_saving_counterparts_to_mythic_escape_aids
+  label: ceremonial emblems as saving counterparts to mythic escape aids
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label links ritual emblems to mythic rescue objects, but it reads
+    partly as comparative interpretation rather than a direct motif.
+  cautions: May be a commentary artifact; if emblems function as protective power
+    objects, sacred_treasures fits, but verify that source evidence supports that
+    function.
+  suggested_aliases:
+  - ceremonial_emblems_as_escape_aids
+  - ritual_emblems_with_saving_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - divine_intervention
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-enclosure-made-with-evergreen-boughs
+  motif_id: ceremonial_enclosure_made_with_evergreen_boughs
+  label: ceremonial enclosure made with evergreen boughs
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A constructed ceremonial enclosure with plant material likely marks a
+    regulated ritual space or protective boundary.
+  cautions: If the enclosure functions as a world center or axis, axis_mundi may be
+    relevant; if evergreen boughs are merely descriptive, this may be over-specific
+    evidence detail.
+  suggested_aliases:
+  - ritual_enclosure_of_evergreen_boughs
+  - ceremonial_evergreen_enclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-figure-appears-after-dancers-depart
+  motif_id: ceremonial_figure_appears_after_dancers_depart
+  label: Ceremonial figure appears after dancers depart
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A post-dance appearance could be theophany, masked ritual emergence,
+    spirit manifestation, or narrative staging.
+  cautions: Culturally sensitive ceremonial context; do not classify as theophany
+    or divine intervention without evidence that the figure is sacred or supernatural.
+  suggested_aliases:
+  - ritual_figure_appears_after_dance
+  - ceremonial_post_dance_appearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - theophany
+    - divine_intervention
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-four-night-storytelling-cycle
+  motif_id: ceremonial_four_night_storytelling_cycle
+  label: ceremonial four-night storytelling cycle
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritually ordered storytelling cycle fits narrative transmission as
+    sacred practice.
+  cautions: The four-night structure may also belong to sacred_time if timing is the
+    key ritual constraint; preserve the temporal detail as local evidence.
+  suggested_aliases:
+  - four_night_ritual_storytelling_cycle
+  - ceremonial_storytelling_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ceremonial-invocation-of-thunder-beings
+  motif_id: ceremonial_invocation_of_thunder_beings
+  label: Ceremonial invocation of Thunder Beings
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ceremonial invocation seeks action or presence from powerful nonhuman
+    sacred beings, fitting divine intervention and guidance.
+  cautions: Thunder Beings are culturally specific; avoid flattening them into generic
+    weather gods. If the passage centers on spoken invocation itself, curse_blessing_speech
+    may be secondary.
+  suggested_aliases:
+  - ritual_invocation_of_thunder_beings
+  - ceremonial_calling_of_thunder_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Many labels in this batch describe ceremonial practice details with single occurrences;
+  several require source-context review before broad motif indexing.
+- For culturally specific Indigenous ceremonial materials and beings, preserve local
+  terms and avoid over-generalizing into pan-cultural categories.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize human review for ritual-performance
+    and culturally specific ceremonial labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3230
+  input_sha256: b73da1ddd513f7f2071de07512a199bda8470267f4a9fd0ccf995417424b729a
+

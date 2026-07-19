@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1968
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.reciprocal-marriage-exchange
+  motif_id: reciprocal_marriage_exchange
+  label: reciprocal marriage exchange
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on reciprocal exchange as a social bond, with marriage
+    as the exchanged relation.
+  cautions: Single occurrence; if the passage emphasizes alliance marriage or kinship
+    structure rather than sacred reciprocity, a future marriage-alliance group may
+    fit better.
+  suggested_aliases:
+  - marriage_exchange
+  - reciprocal_spousal_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-marriage-gift-exchange
+  motif_id: reciprocal_marriage_gift_exchange
+  label: reciprocal marriage gift exchange
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: high
+  rationale: Gift exchange that structures marriage fits the existing reciprocity
+    and exchange group.
+  cautions: Confirm whether the passage treats gifts as ritual/social obligation rather
+    than a merely descriptive ethnographic detail.
+  suggested_aliases:
+  - marriage_gift_exchange
+  - reciprocal_bride_gift_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-wife-access-among-male-associates
+  motif_id: reciprocal_wife_access_among_male_associates
+  label: reciprocal wife-access among male associates
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a culturally specific marital or sexual access practice,
+    but its narrative function is unclear.
+  cautions: Culturally sensitive and possibly ethnographic rather than mythic; avoid
+    normalizing under sacred_love without evidence of love, marriage choice, or sacred
+    union.
+  suggested_aliases:
+  - reciprocal_spousal_access
+  - wife_exchange_among_associates
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-wife-lending-or-exchange
+  motif_id: reciprocal_wife_lending_or_exchange
+  label: Reciprocal wife lending or exchange
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a kinship-exchange practice, hospitality relation, or ethnographic
+    detail; the motif function is not clear from the label.
+  cautions: Culturally sensitive and single occurrence; review source evidence before
+    mapping to reciprocity, hospitality, marriage, or excluding as contextual artifact.
+  suggested_aliases:
+  - reciprocal_wife_exchange
+  - spousal_lending_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - hospitality_test_stranger_guest
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-by-marriage-ring-hidden-in-a-drink
+  motif_id: recognition_by_marriage_ring_hidden_in_a_drink
+  label: recognition by marriage ring hidden in a drink
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: narrower_than
+  confidence: high
+  rationale: A marriage ring functions as a hidden token that enables recognition
+    or identity proof.
+  cautions: Drink concealment and marriage context should be preserved as evidence
+    details, not promoted separately unless recurring.
+  suggested_aliases:
+  - recognition_by_ring_hidden_in_drink
+  - marriage_ring_as_recognition_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-by-personal-token
+  motif_id: recognition_by_personal_token
+  label: Recognition by personal token
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: alias
+  confidence: high
+  rationale: This is a direct variant of the existing recognition-by-token complex.
+  cautions: Preserve the token type and relationship recognized if available in the
+    source.
+  suggested_aliases:
+  - recognition_by_personal_tokens
+  - personal_token_as_identity_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-by-wound-and-personal-token
+  motif_id: recognition_by_wound_and_personal_token
+  label: recognition by wound and personal token
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: narrower_than
+  confidence: high
+  rationale: A wound or scar plus a personal token are identity proofs within the
+    recognition-token group.
+  cautions: Could also touch heroic wound symbolism, but the stated function is recognition.
+  suggested_aliases:
+  - recognition_by_wound_and_token
+  - recognition_by_scar_and_personal_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-a-son-by-resemblance-to-his-father
+  motif_id: recognition_of_a_son_by_resemblance_to_his_father
+  label: Recognition of a son by resemblance to his father
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Familial resemblance functions as an identity proof, analogous to tokens,
+    scars, scent, or voice.
+  cautions: No object token is present; if the passage is only genealogy or family
+    likeness, it may be too contextual for motif queries.
+  suggested_aliases:
+  - recognition_by_family_resemblance
+  - son_recognized_by_paternal_resemblance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-test-to-reclaim-a-child-from-a-supernatural-captor
+  motif_id: recognition_test_to_reclaim_a_child_from_a_supernatural_captor
+  label: recognition test to reclaim a child from a supernatural captor
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is a recognition test used to identify and reclaim the
+    child.
+  cautions: Also overlaps supernatural abduction and miraculous/persecuted child motifs;
+    review whether captor and rescue are more central than identity proof.
+  suggested_aliases:
+  - child_reclaimed_by_recognition_test
+  - recognition_test_against_supernatural_captor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-through-hidden-birth-secret-and-prior-token
+  motif_id: recognition_through_hidden_birth_secret_and_prior_token
+  label: Recognition through hidden birth secret and prior token
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: narrower_than
+  confidence: high
+  rationale: A prior token and concealed birth knowledge serve as proof of hidden
+    identity or kinship.
+  cautions: If birth secrecy concerns destined infancy or royal legitimacy, those
+    may be secondary mappings; token recognition remains the best primary group.
+  suggested_aliases:
+  - recognition_by_birth_secret_and_token
+  - hidden_birth_secret_as_identity_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Marriage-exchange labels may point to an underrepresented marriage-alliance or kinship-exchange
+  motif, but current single-occurrence evidence favors cautious placement or human
+  review.
+- Recognition labels are mostly clear fits for recognition_tokens_hidden_identity;
+  preserve object, wound, drink, birth-secret, and child-reclamation details as evidence-level
+  granularity.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally sensitive wife-exchange
+    labels require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1968
+  input_sha256: fb574eca43d957910289c6abe2df490e91c3a194316f0defa697d3d639576ad8
+

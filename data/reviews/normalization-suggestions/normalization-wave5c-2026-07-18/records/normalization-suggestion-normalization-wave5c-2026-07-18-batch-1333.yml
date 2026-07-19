@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1333
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.genealogical-list-concordance-and-variant-names
+  motif_id: genealogical_list_concordance_and_variant_names
+  label: Genealogical list concordance and variant names
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes concordance of genealogical lists and variant names,
+    which is a textual-critical or cataloging observation rather than a narrative
+    motif.
+  cautions: If a source passage uses variant names to create an origin myth or identity
+    proof, review separately under cosmic_origin or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - genealogical concordance
+  - variant genealogical names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.genealogical-origin-claim-built-from-similarity-of-name
+  motif_id: genealogical_origin_claim_built_from_similarity_of_name
+  label: Genealogical origin claim built from similarity of name
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A name-based genealogical origin claim functions like an etiological
+    ancestry or people-origin motif, which the cosmic_origin group already covers
+    through eponymous ancestors and genealogical origins.
+  cautions: Because the label mentions similarity of name, it may be a scholarly etymological
+    inference rather than a source-level motif; verify passage evidence before final
+    mapping.
+  suggested_aliases:
+  - name-based genealogical origin claim
+  - eponymous genealogy from name similarity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.genealogical-wife-name-catalog
+  motif_id: genealogical_wife_name_catalog
+  label: genealogical wife-name catalog
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: A catalog of wife names is likely a genealogical list or textual data
+    feature, not a reusable symbolic or narrative motif.
+  cautions: If the named wives perform a recurring mythic role, their actions should
+    be indexed separately rather than the catalog form.
+  suggested_aliases:
+  - wife-name genealogy catalog
+  - genealogical catalog of wives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.generational-transmission-of-a-society-song
+  motif_id: generational_transmission_of_a_society_song
+  label: Generational transmission of a society song
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Transmission of a society song may fit sacred narrative, song, and cultural
+    memory as power, especially if the song carries ritual authority.
+  cautions: Culturally specific ceremonial societies and songs require source-sensitive
+    review; could also belong under sacred_knowledge, sacred_exchange, or sacred_law
+    depending on ritual function.
+  suggested_aliases:
+  - intergenerational society song transmission
+  - hereditary transmission of ceremonial song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.generous-provisioning-in-scarcity
+  motif_id: generous_provisioning_in_scarcity
+  label: Generous provisioning in scarcity
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Providing generously under scarcity centers on hospitality, reciprocity,
+    or morally charged giving, which fits sacred_exchange better than wisdom alone.
+  cautions: If the passage stresses miraculous abundance rather than human generosity,
+    divine_intervention or sacred_substance may be relevant secondary mappings.
+  suggested_aliases:
+  - generosity amid scarcity
+  - hospitality in scarcity
+  - provisioning despite scarcity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.genre-decay-from-named-heroic-epic-to-nameless-prose-tale
+  motif_id: genre_decay_from_named_heroic_epic_to_nameless_prose_tale
+  label: Genre decay from named heroic epic to nameless prose tale
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes genre history or scholarly classification of textual
+    change, not a motif within the story world.
+  cautions: Preserve as provenance or reception history if useful, but exclude from
+    Pattern Explorer motif queries.
+  suggested_aliases:
+  - genre decay from epic to prose tale
+  - heroic epic to prose tale transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.geometric-ornamentation-of-everyday-objects
+  motif_id: geometric_ornamentation_of_everyday_objects
+  label: geometric ornamentation of everyday objects
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes material decoration, but the available taxonomy lacks
+    a clear group for non-sacred ornament unless the patterns carry ritual, identity,
+    or cosmological meaning.
+  cautions: May be an ethnographic artifact rather than a motif; map only if source
+    evidence shows symbolic, ritual, or narrative function.
+  suggested_aliases:
+  - geometric ornament on everyday objects
+  - decorative geometric object patterning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.giant-animal-sighting-as-place-name-origin
+  motif_id: giant_animal_sighting_as_place_name_origin
+  label: Giant animal sighting as place-name origin
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif explains a place name through a memorable event, matching existing
+    place-name etiology children under cosmic_origin.
+  cautions: If the giant animal itself has a central monster, ancestor, or spirit
+    role, a secondary animal/supernatural-being mapping may be needed.
+  suggested_aliases:
+  - place-name etiology from giant animal sighting
+  - giant animal toponym origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gift-accompanying-song-performance
+  motif_id: gift_accompanying_song_performance
+  label: gift-accompanying song performance
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A gift given with song combines exchange and performative ritual expression,
+    with the gift relationship as the clearest existing group fit.
+  cautions: Culturally specific song-gift practices should be reviewed; if song itself
+    is the sacred power, storytelling_as_power or enchanting_music may be a secondary
+    fit.
+  suggested_aliases:
+  - song-accompanied gift performance
+  - gift with ceremonial song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.gift-announced-and-enacted-through-song-and-dance
+  motif_id: gift_announced_and_enacted_through_song_and_dance
+  label: gift announced and enacted through song and dance
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core action is a gift exchange ritually performed through song and
+    dance, fitting sacred_exchange with expressive ritual features.
+  cautions: Review source context before collapsing song, dance, and gift into one
+    motif; may also involve storytelling_as_power, sacred_song, or ceremonial law.
+  suggested_aliases:
+  - gift enacted through song and dance
+  - song-dance gift announcement
+  - ceremonial gift performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be textual, genealogical, or ethnographic
+  catalog artifacts rather than story-world motifs.
+- Native American ceremonial song and gift labels should receive culturally sensitive
+  human review before broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for taxonomy review; do not rewrite
+    taxonomy directly.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1333
+  input_sha256: 0cbe34d95b212edbf7868eb9123f54cbb001daf0fcca1f5f154d556e5a47c405
+

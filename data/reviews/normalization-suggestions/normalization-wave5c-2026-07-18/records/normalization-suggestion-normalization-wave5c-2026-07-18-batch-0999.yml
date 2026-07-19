@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0999
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.reliance-on-ritual-specialists-for-life-and-food-security
+  motif_id: reliance_on_ritual_specialists_for_life_and_food_security
+  label: Reliance on ritual specialists for life and food security
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve ritual mediation, shamanic provision, food security, or
+    ethnographic social structure rather than a reusable motif.
+  cautions: Single occurrence and culturally specific; avoid flattening ritual specialist
+    roles into sacrifice or divine intervention without passage evidence.
+  suggested_aliases:
+  - ritual_specialists_for_life_and_food_security
+  - ritual_mediation_of_food_security
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.relic-monument-as-sacred-receptacle
+  motif_id: relic_monument_as_sacred_receptacle
+  label: relic monument as sacred receptacle
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A relic monument functioning as a sacred receptacle fits sacred remains,
+    shrines, and relic devotion already grouped under sacred_treasures.
+  cautions: If the emphasis is the container architecture rather than the relic's
+    power, sacred_vessel may be a secondary relation.
+  suggested_aliases:
+  - relic_monument_receptacle
+  - relic_stupa_as_sacred_container
+  - sacred_receptacle_for_relics
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    - ancestor_rites
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-abuse-caused-by-inherited-social-environment
+  motif_id: religious_abuse_caused_by_inherited_social_environment
+  label: Religious abuse caused by inherited social environment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as ethical or social analysis rather than a clear narrative
+    or symbolic motif.
+  cautions: May be commentary, doctrinal diagnosis, or passage-specific moral framing;
+    review source before mapping to sacred_law or divine_judgment.
+  suggested_aliases:
+  - inherited_social_environment_as_religious_harm
+  - religious_abuse_from_social_conditioning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-challenge-before-an-opposing-priesthood
+  motif_id: religious_challenge_before_an_opposing_priesthood
+  label: religious challenge before an opposing priesthood
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: A public religious challenge to rival ritual authorities can fit signs,
+    missions, or divinely guided confrontation if sacred power decides the contest.
+  cautions: If no miracle, divine sign, or sacred commissioning is present, this may
+    instead be sectarian history or debate context and need exclusion or human review.
+  suggested_aliases:
+  - challenge_to_opposing_priesthood
+  - religious_contest_with_rival_priests
+  - sacred_challenge_before_ritual_authorities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - sacred_knowledge
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-contribution-of-scraps-to-divine-equipment
+  motif_id: religious_contribution_of_scraps_to_divine_equipment
+  label: Religious contribution of scraps to divine equipment
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: Contributing leftover material to divine equipment concerns sacred making
+    and the formation of empowered objects.
+  cautions: If the core function is offering rather than crafting, sacrifice or sacred_exchange
+    may be secondary; preserve the scraps detail as evidence.
+  suggested_aliases:
+  - scraps_contributed_to_divine_equipment
+  - minor_material_contribution_to_sacred_object
+  - leftover_materials_in_divine_craft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacrifice
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-enforcement-of-elemental-purity
+  motif_id: religious_enforcement_of_elemental_purity
+  label: Religious enforcement of elemental purity
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Elemental purity enforced through religious rule fits purity codes, ritual
+    prohibitions, and sacred law.
+  cautions: Zoroastrian elemental purity has specific doctrinal context; preserve
+    element-specific evidence rather than reducing it to generic purity.
+  suggested_aliases:
+  - elemental_purity_law
+  - ritual_enforcement_of_elemental_purity
+  - purity_of_sacred_elements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - sacred_waters
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-imposition-and-indigenous-ritual-resistance
+  motif_id: religious_imposition_and_indigenous_ritual_resistance
+  label: Religious imposition and indigenous ritual resistance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to describe colonial or intercultural religious conflict
+    rather than a stable mythic motif.
+  cautions: Culturally sensitive and historically contextual; avoid treating resistance
+    or imposition as a symbolic motif without source-specific review.
+  suggested_aliases:
+  - indigenous_ritual_resistance_to_religious_imposition
+  - ritual_resistance_under_religious_pressure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-knowledge-mediated-by-difficult-sacred-languages
+  motif_id: religious_knowledge_mediated_by_difficult_sacred_languages
+  label: Religious knowledge mediated by difficult sacred languages
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sacred language as a medium or barrier for religious knowledge fits transmission
+    and access to sacred knowledge.
+  cautions: If the label is merely about translation difficulty or textual scholarship,
+    it may be a meta-textual artifact rather than a motif.
+  suggested_aliases:
+  - sacred_language_mediates_religious_knowledge
+  - difficult_sacred_language_as_knowledge_gate
+  - religious_knowledge_through_sacred_language
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-reform-propagated-by-prayer-sticks
+  motif_id: religious_reform_propagated_by_prayer_sticks
+  label: Religious reform propagated by prayer sticks
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines religious reform, communication, and a culturally
+    specific ritual object; function is unclear from the label alone.
+  cautions: Review cultural and historical context; prayer sticks may be ritual media,
+    sacred objects, or historical reform markers rather than a general motif.
+  suggested_aliases:
+  - prayer_sticks_as_reform_media
+  - ritual_object_propagates_religious_reform
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.religious-reform-through-rejection-of-older-gods-and-myths
+  motif_id: religious_reform_through_rejection_of_older_gods_and_myths
+  label: religious reform through rejection of older gods and myths
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a doctrinal or historical reform claim rather than a narrative
+    motif with a stable symbolic function.
+  cautions: Do not map reformist rejection to covenant or sacred law without passage
+    evidence of binding command, judgment, or ritual rule.
+  suggested_aliases:
+  - rejection_of_older_gods_in_religious_reform
+  - reform_by_rejecting_prior_myths
+  - religious_reform_against_older_deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and appear historical, doctrinal,
+  or ethnographic rather than clearly narrative motifs; human review is recommended
+  before indexing them for broad pattern queries.
+- Avoid treating religious reform, imposition, or resistance as evidence of transmission
+  or cultural relation; this task only suggests provisional taxonomy placement.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch contains multiple culturally specific ritual and religious-history
+    labels requiring source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0999
+  input_sha256: 38c7c47230b20d283532220ad33a27eae59cc31855d4d0c7f2b29d5a770a2c89
+

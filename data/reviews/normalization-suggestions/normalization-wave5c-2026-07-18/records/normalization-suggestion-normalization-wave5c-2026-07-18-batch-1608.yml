@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1608
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lawful-betrothal-before-witnesses
+  motif_id: lawful_betrothal_before_witnesses
+  label: lawful betrothal before witnesses
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A witnessed betrothal is a socially binding vow or contract, fitting
+    covenant as sacred/legal bond.
+  cautions: Single occurrence and may be a saga legal detail rather than a recurring
+    symbolic motif; consider sacred_law if emphasis is legal procedure.
+  suggested_aliases:
+  - witnessed_betrothal
+  - lawful_marriage_bond_before_witnesses
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lawful-communal-disciplinary-judgment
+  motif_id: lawful_communal_disciplinary_judgment
+  label: Lawful communal disciplinary judgment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Communal discipline under recognized rules fits sacred law and social
+    order.
+  cautions: Could map to divine_judgment if the passage stresses karmic or sacred
+    reckoning; otherwise may be institutional detail.
+  suggested_aliases:
+  - communal_disciplinary_judgment
+  - lawful_monastic_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lawful-conversion-or-alignment-obtained-through-prophetic-intercession
+  motif_id: lawful_conversion_or_alignment_obtained_through_prophetic_intercession
+  label: lawful conversion or alignment obtained through prophetic intercession
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines lawfulness, conversion/alignment, prophecy, and intercession,
+    with no clear dominant function from the label alone.
+  cautions: May fit divine_intervention, prophecy_divination, covenant, or sacred_law
+    depending on whether the evidence centers on prophetic agency, communal alignment,
+    or legal-religious obligation.
+  suggested_aliases:
+  - prophetic_intercession_for_conversion
+  - lawful_alignment_through_prophetic_intercession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lawful-host-refuses-outlaw-shelter
+  motif_id: lawful_host_refuses_outlaw_shelter
+  label: lawful host refuses outlaw shelter
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusal of shelter because of outlaw status foregrounds law-governed
+    social obligation and limits of hospitality.
+  cautions: Could relate to hospitality_test_stranger_guest if the host’s treatment
+    of a stranger is the focus; single occurrence may be legal plot detail.
+  suggested_aliases:
+  - refusal_of_shelter_to_outlaw
+  - lawful_limits_of_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lawful-identity-contrasted-with-foreign-custom
+  motif_id: lawful_identity_contrasted_with_foreign_custom
+  label: lawful identity contrasted with foreign custom
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Identity defined through law against foreign practice fits sacred law
+    as social and religious order.
+  cautions: May be an over-specific boundary/identity theme; review for culturally
+    sensitive framing and whether the passage is commentary rather than motif.
+  suggested_aliases:
+  - lawful_identity_against_foreign_custom
+  - identity_defined_by_sacred_law
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lawful-judgment-unenforced-by-hostile-power
+  motif_id: lawful_judgment_unenforced_by_hostile_power
+  label: lawful judgment unenforced by hostile power
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns blocked enforcement of judgment, but the sacred or
+    narrative function is unclear.
+  cautions: Could fit sacred_law, divine_judgment, royal_legitimacy, or conflict depending
+    on whether hostile power is political, supernatural, or narrative opposition;
+    culturally specific source review needed.
+  suggested_aliases:
+  - unenforced_lawful_judgment
+  - hostile_power_blocks_judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lawful-king-contrasted-with-lawless-tyrant
+  motif_id: lawful_king_contrasted_with_lawless_tyrant
+  label: lawful king contrasted with lawless tyrant
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The contrast defines legitimate kingship by lawful order against illegitimate
+    tyranny.
+  cautions: Could also support sacred_law or pride_and_downfall if the passage emphasizes
+    law itself or tyrannical downfall more than legitimate rule.
+  suggested_aliases:
+  - lawful_king_vs_lawless_tyrant
+  - legitimate_ruler_contrasted_with_tyrant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lawful-mediation-and-compensatory-atonement
+  motif_id: lawful_mediation_and_compensatory_atonement
+  label: lawful mediation and compensatory atonement
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mediation and compensation repair broken social bonds through recognized
+    legal obligations.
+  cautions: May also fit sacred_exchange or sacrifice if compensation functions as
+    offering or atonement rite; preserve Norse legal-redress specificity.
+  suggested_aliases:
+  - compensatory_legal_atonement
+  - lawful_mediation_for_redress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lawful-transfer-of-vengeance-or-redress-claim
+  motif_id: lawful_transfer_of_vengeance_or_redress_claim
+  label: lawful transfer of vengeance or redress claim
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transfer of a vengeance or redress claim is a law-governed social obligation
+    and authority pattern.
+  cautions: Could relate to covenant if the transfer creates a binding duty, or sacred_combat
+    if vengeance drives warfare; single occurrence may be saga legal detail.
+  suggested_aliases:
+  - transferred_redress_claim
+  - lawful_transfer_of_vengeance_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lawless-lion-like-youth-as-civic-danger-or-salvation
+  motif_id: lawless_lion_like_youth_as_civic_danger_or_salvation
+  label: lawless lion-like youth as civic danger or salvation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label blends animal simile, youthful power, civic threat, and possible
+    salvation without a clear existing parent.
+  cautions: May fit divine_warrior, royal_legitimacy, pride_and_downfall, or sacred_law
+    depending on narrative role; likely over-specific and needs passage evidence.
+  suggested_aliases:
+  - lawless_youth_as_civic_threat
+  - lion_like_youth_as_danger_or_savior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence legal or social-order formulations;
+  preserve as evidence details unless recurrence across sources supports more granular
+  legal-redress motifs.
+- For Norse legal labels, avoid collapsing all feud, compensation, and hospitality
+  details into sacred combat; distinguish legal repair from violence when passage
+  evidence allows.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; several single-occurrence law/order labels need
+    source-context review before durable indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1608
+  input_sha256: 857fe493f327e873bfa913700c20af6c052ed1d95117658ad074611ea45a7c48
+

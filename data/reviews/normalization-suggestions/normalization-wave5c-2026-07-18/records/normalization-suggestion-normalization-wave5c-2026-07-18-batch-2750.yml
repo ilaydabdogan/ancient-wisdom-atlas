@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2750
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.maternal-betrayal-and-confinement-of-the-hero
+  motif_id: maternal_betrayal_and_confinement_of_the_hero
+  label: maternal betrayal and confinement of the hero
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is betrayal by a trusted kin/protector, with confinement
+    as the harm produced by the violated bond.
+  cautions: Could alternatively fit hero_journey or initiation if confinement functions
+    mainly as a transformative ordeal; source context needed because it is single-occurrence
+    and kin-specific.
+  suggested_aliases:
+  - kin betrayal and confinement of hero
+  - maternal betrayal of hero
+  - trusted caretaker confines hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-gift-of-magical-aids-for-monster-combat
+  motif_id: maternal_gift_of_magical_aids_for_monster_combat
+  label: Maternal gift of magical aids for monster combat
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Magical aids given for combat are power objects that confer protection
+    or ability to the hero.
+  cautions: If the emphasis is monster-slaying rather than the objects, divine_warrior
+    or sacred_combat may be secondary; maternal donor role may be evidence detail
+    rather than a separate motif.
+  suggested_aliases:
+  - magical aids for monster combat
+  - combat aid from maternal donor
+  - maternal bestowal of power objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-helper-equips-threatened-hero
+  motif_id: maternal_helper_equips_threatened_hero
+  label: maternal helper equips threatened hero
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A helper equipping a threatened hero centers on protective or empowering
+    objects used to survive danger.
+  cautions: If no sacred or magical object is present, this may be a generic helper
+    episode under hero_journey; maternal role should be preserved as local granularity.
+  suggested_aliases:
+  - helper equips threatened hero
+  - protective equipment from maternal helper
+  - maternal equipment for imperiled hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.meal-dispute-escalating-to-kin-violence
+  motif_id: meal_dispute_escalating_to_kin_violence
+  label: meal dispute escalating to kin violence
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a specific narrative incident rather than a durable
+    motif; it combines meal setting, dispute, kinship, and violence.
+  cautions: Could fit betrayal_violated_trust, sacred_exchange/hospitality, sacred_combat,
+    or divine_judgment depending on whether the meal has ritual, kinship, or moral
+    function.
+  suggested_aliases:
+  - feast dispute leading to kin violence
+  - meal quarrel causing family violence
+  - kin violence after food dispute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mediator-prevents-escalation-among-warriors
+  motif_id: mediator_prevents_escalation_among_warriors
+  label: Mediator prevents escalation among warriors
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The scene concerns regulation of warrior conflict and prevention of battle
+    escalation within a combat setting.
+  cautions: If mediation expresses lawful order or royal authority, sacred_law, covenant,
+    or royal_legitimacy may be better secondary mappings; not all battlefield diplomacy
+    is a mythic motif.
+  suggested_aliases:
+  - warrior mediation prevents violence
+  - intervention stops warrior escalation
+  - mediator restrains combatants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.medicine-and-hoop-used-to-test-for-enemy-presence
+  motif_id: medicine_and_hoop_used_to_test_for_enemy_presence
+  label: Medicine and hoop used to test for enemy presence
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a culturally specific divinatory or ritual detection
+    practice using medicine and a hoop.
+  cautions: Needs culturally informed review; could map to prophecy_divination, sacred_treasures,
+    sacred_law, or sacred_combat depending on whether the emphasis is divination,
+    power object, ritual protocol, or warfare.
+  suggested_aliases:
+  - ritual test for enemy presence
+  - medicine hoop enemy detection
+  - war divination with medicine and hoop
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.medicine-bag-as-war-charm-and-curative-kit
+  motif_id: medicine_bag_as_war_charm_and_curative_kit
+  label: Medicine bag as war charm and curative kit
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A medicine bag functioning as charm and healing kit is a power object
+    conferring protection or curative ability.
+  cautions: Culturally specific sacred object; review terminology and avoid flattening
+    local medicine concepts into generic magic. Could also relate to divine_intervention
+    or sacred_combat.
+  suggested_aliases:
+  - medicine bag war charm
+  - curative war medicine bundle
+  - protective medicine bundle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.medicine-confers-male-attractiveness-in-public-contest
+  motif_id: medicine_confers_male_attractiveness_in_public_contest
+  label: Medicine confers male attractiveness in public contest
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif centers on medicine-enhanced attractiveness in a contest, which
+    does not clearly fit the conflict bucket or existing combat groups.
+  cautions: May belong with sacred_love, sacred_substance, sacred_treasures, or ritualized
+    public contest depending on source evidence; culturally specific medicine terminology
+    needs review.
+  suggested_aliases:
+  - medicine grants attractiveness in contest
+  - charm confers public attractiveness
+  - ritual medicine for male attractiveness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.medicine-eating-as-war-preparation
+  motif_id: medicine_eating_as_war_preparation
+  label: Medicine-eating as war preparation
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ingesting medicine before battle treats a sacred or empowered substance
+    as preparation for combat.
+  cautions: Culturally specific practice; if the passage emphasizes martial ritual
+    rather than substance, sacred_combat may be a secondary group. Avoid assuming
+    intoxication unless explicit.
+  suggested_aliases:
+  - ingested medicine before battle
+  - war preparation by eating medicine
+  - ritual medicine ingestion for combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.medicine-empowered-weapons
+  motif_id: medicine_empowered_weapons
+  label: Medicine-empowered weapons
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Weapons empowered by medicine are power objects that confer martial efficacy
+    or protection.
+  cautions: Could also fit sacred_combat if the focus is battle outcome, or sacred_law/ritual
+    if empowerment follows a prescribed rite. Review local meaning of medicine carefully.
+  suggested_aliases:
+  - medicine-charged weapons
+  - ritually empowered weapons
+  - sacred medicine weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Native American 'medicine' labels require culturally informed review; preserve
+  the local term and avoid reducing it to generic magic or intoxication.
+- Single-occurrence Slavic maternal-helper labels appear granular; suggested placements
+  retain maternal role as evidence detail while mapping the object/helper function
+  to existing groups.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review recommended for culturally specific
+    medicine practices and single-occurrence contextual conflict labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2750
+  input_sha256: 7667db6da853cca2bfbee0515143da0ba8c250af33ab968e84622c48d963a9af
+

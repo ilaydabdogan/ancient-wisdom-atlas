@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3712
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.national-festival-uniting-divided-communities
+  motif_id: national_festival_uniting_divided_communities
+  label: national festival uniting divided communities
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: low
+  rationale: A recurring festival that repairs division could fit ritual cycle and
+    social renewal, but the label may describe historical civic practice rather than
+    mythic motif.
+  cautions: Single occurrence; verify whether the festival has sacred/ritual function
+    or is only political-cultural commentary.
+  suggested_aliases:
+  - festival_unites_divided_communities
+  - ritual_festival_of_communal_reconciliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.native-craft-decline-and-proposed-revival
+  motif_id: native_craft_decline_and_proposed_revival
+  label: native craft decline and proposed revival
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label reads as ethnographic or preservation commentary about craft
+    traditions, not a narrative or symbolic motif.
+  cautions: If a source myth explains the sacred origin or loss of a craft, remap
+    that passage to culture_hero or sacred_craft instead.
+  suggested_aliases:
+  - craft_decline_and_revival_commentary
+  - indigenous_craft_preservation_note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.native-naming-for-introduced-objects
+  motif_id: native_naming_for_introduced_objects
+  label: Native naming for introduced objects
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to describe linguistic adaptation or ethnographic observation
+    rather than a mythic motif.
+  cautions: If the naming is part of an etiological narrative or sacred naming act,
+    review for cosmic_origin or sacred_knowledge.
+  suggested_aliases:
+  - indigenous_names_for_introduced_objects
+  - introduced_object_naming_note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-abundance-removes-need-for-money
+  motif_id: natural_abundance_removes_need_for_money
+  label: natural abundance removes need for money
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Abundance eliminating monetary exchange concerns the moral economy of
+    provision and reciprocity rather than a discrete creation or treasure motif.
+  cautions: Could instead fit otherworld if it describes a marvelous land, or divine_intervention
+    if abundance is supernaturally provided.
+  suggested_aliases:
+  - abundance_without_money
+  - natural_abundance_replaces_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-accord-against-artificial-interference
+  motif_id: natural_accord_against_artificial_interference
+  label: Natural accord against artificial interference
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The contrast between natural accord and artificial interference aligns
+    with cosmic complementarity and Daoist non-action already nested under duality.
+  cautions: This may be philosophical teaching rather than narrative motif; sacred_knowledge
+    may be a secondary fit when framed as wisdom instruction.
+  suggested_aliases:
+  - natural_harmony_against_artifice
+  - non_action_against_artificial_interference
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-analogies-for-impartial-rejection
+  motif_id: natural_analogies_for_impartial_rejection
+  label: Natural analogies for impartial rejection
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label sounds like a teaching analogy used to convey ethical or doctrinal
+    wisdom, but its motif function is unclear.
+  cautions: Likely an over-specific sermon or commentary artifact unless repeated
+    as a narrative pattern across sources.
+  suggested_aliases:
+  - natural_analogy_for_impartiality
+  - impartial_rejection_teaching_analogy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-and-monastic-landscape-as-lodging-network
+  motif_id: natural_and_monastic_landscape_as_lodging_network
+  label: natural and monastic landscape as lodging network
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: over_specific_label
+  confidence: low
+  rationale: A landscape serving as a lodging network may be journey infrastructure,
+    pilgrimage geography, or monastic itinerary rather than a motif.
+  cautions: Review source evidence; could be sacred_geography_pilgrimage under axis_mundi
+    if the landscape is ritually charged, or excluded if merely descriptive.
+  suggested_aliases:
+  - monastic_lodging_landscape
+  - landscape_as_pilgrim_lodging_network
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-and-placed-traces-corroborating-a-false-account
+  motif_id: natural_and_placed_traces_corroborating_a_false_account
+  label: natural and placed traces corroborating a false account
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fabricated or interpreted traces supporting a lie function as deception
+    and violated trust.
+  cautions: If the emphasis is false accusation and moral reckoning, divine_judgment
+    may be a better or secondary group.
+  suggested_aliases:
+  - false_account_supported_by_traces
+  - planted_evidence_corrobates_deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-beings-as-fallen-divinities-with-prior-stories
+  motif_id: natural_beings_as_fallen_divinities_with_prior_stories
+  label: Natural beings as fallen divinities with prior stories
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: low
+  rationale: Divinities becoming natural beings suggests transformation into animal,
+    plant, or landscape forms.
+  cautions: Culturally sensitive and composite; if it explains origins of natural
+    species or features, cosmic_origin may be relevant. Verify whether 'fallen' is
+    source wording or analytic overlay.
+  suggested_aliases:
+  - divinities_transformed_into_natural_beings
+  - natural_beings_with_divine_prior_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.natural-catastrophe-as-consequence-of-neglected-precautions
+  motif_id: natural_catastrophe_as_consequence_of_neglected_precautions
+  label: Natural catastrophe as consequence of neglected precautions
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A catastrophe resulting from neglected precautions functions as moral
+    or ritual consequence for improper conduct.
+  cautions: Do not map to flood_and_renewal unless world destruction and renewal are
+    explicit; could be sacred_law if framed as taboo violation.
+  suggested_aliases:
+  - catastrophe_from_neglected_precautions
+  - disaster_as_consequence_of_ritual_neglect
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be ethnographic, philosophical, or commentary-like
+  singletons; source passage review is recommended before canonical promotion.
+- Where existing groups are suggested, placements are for broad query grouping only
+  and should not be treated as evidence of transmission or shared origin.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated from labels and supplied normalization
+    taxonomy only.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3712
+  input_sha256: 7b0f1ab1b253ca47d676b472e257ad79f78e2ff083d5ded436b69b0d9fe932e9
+

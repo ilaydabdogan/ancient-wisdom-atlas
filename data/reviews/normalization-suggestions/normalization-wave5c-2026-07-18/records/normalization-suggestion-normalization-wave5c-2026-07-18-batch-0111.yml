@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0111
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.death-attributed-to-wakanda-or-plural-mysterious-powers
+  motif_id: death_attributed_to_wakanda_or_plural_mysterious_powers
+  label: Death attributed to Wakanda or plural Mysterious Powers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: uncertain
+  confidence: low
+  rationale: The label attributes death to non-human or mysterious powers, near the
+    existing fate/death-attribution group.
+  cautions: Culturally specific sacred terminology and plural powers require source-sensitive
+    review; may be spirit agency, divine judgment, or ethnographic wording rather
+    than fate.
+  suggested_aliases:
+  - death_attributed_to_mysterious_powers
+  - death_attributed_to_non_human_sacred_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-attributed-to-wife-s-unfaithfulness-and-avenged-by-decapitation
+  motif_id: death_attributed_to_wife_s_unfaithfulness_and_avenged_by_decapitation
+  label: death attributed to wife’s unfaithfulness and avenged by decapitation
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines moral blame, vengeance, and violent punishment, which
+    could fit judgment or revenge only with context.
+  cautions: Highly episode-specific and potentially reflects social/gendered accusation
+    rather than a reusable motif; decapitation detail should remain evidence unless
+    recurrent.
+  suggested_aliases:
+  - death_avenged_by_decapitation
+  - unfaithfulness_blamed_for_death_and_avenged
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-avenged-by-son-through-stratagem
+  motif_id: death_avenged_by_son_through_stratagem
+  label: death avenged by son through stratagem
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Kin vengeance carried out through a stratagem belongs with conflict/vengeance
+    patterns under sacred combat.
+  cautions: If the emphasis is deception rather than vengeance, trickster may be a
+    secondary mapping; single occurrence is too narrow for a new group.
+  suggested_aliases:
+  - filial_vengeance_by_stratagem
+  - son_avenges_parent_by_deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-avenged-in-a-distant-foreign-city
+  motif_id: death_avenged_in_a_distant_foreign_city
+  label: death avenged in a distant foreign city
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The reusable element is vengeance for a death, which fits sacred combat
+    and feud/retaliation patterns.
+  cautions: The distant foreign city setting is likely passage-specific unless it
+    recurs as an exile or quest structure.
+  suggested_aliases:
+  - death_avenged_abroad
+  - vengeance_for_death_in_foreign_city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-averting-sacred-drink-grants-shining-afterlife-realm
+  motif_id: death_averting_sacred_drink_grants_shining_afterlife_realm
+  label: death-averting sacred drink grants shining afterlife realm
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred drink conferring death-averting or afterlife benefit fits sacred
+    substance more than general afterlife travel.
+  cautions: May also need secondary mapping to afterlife_passage or immortality_without_renewal
+    depending on whether the drink grants postmortem destination, immortality, or
+    ritual vision.
+  suggested_aliases:
+  - death_averting_sacred_drink
+  - sacred_drink_grants_afterlife_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-avoidance-rule-code
+  motif_id: death_avoidance_rule_code
+  label: Death-avoidance rule code
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A code of rules for avoiding death likely belongs with sacred law, taboo,
+    or ritual prohibition.
+  cautions: Too broad and culturally contextual from the label alone; may be a practical
+    survival code, mortuary taboo, or generated abstraction rather than a motif.
+  suggested_aliases:
+  - death_avoidance_rules
+  - taboo_code_to_avoid_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-bearing-message-entrusted-to-the-intended-victim
+  motif_id: death_bearing_message_entrusted_to_the_intended_victim
+  label: Death-bearing message entrusted to the intended victim
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: A victim carrying their own death order is a betrayal or violated-trust
+    message plot.
+  cautions: Could also fit sacred_law or divine_judgment if the message is an official
+    decree; preserve as a granular narrative device.
+  suggested_aliases:
+  - victim_carries_own_death_message
+  - death_order_carried_by_intended_victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-before-decrepitude-preserves-the-afterlife-condition
+  motif_id: death_before_decrepitude_preserves_the_afterlife_condition
+  label: Death before decrepitude preserves the afterlife condition
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: immortality_without_renewal
+  suggested_group_label: Immortality Without Renewal
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif concerns preserving youth or condition beyond death, close
+    to incomplete or age-conditioned immortality themes.
+  cautions: Comparative label may be scholarly abstraction; if tied to a blessed realm,
+    otherworld or afterlife_passage may be secondary.
+  suggested_aliases:
+  - death_before_old_age_preserves_afterlife_state
+  - afterlife_condition_preserved_by_early_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-bondage-and-rescue-through-guru-favoured-appeal-to-god
+  motif_id: death_bondage_and_rescue_through_guru_favoured_appeal_to_god
+  label: Death-bondage and rescue through Guru-favoured appeal to God
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Rescue from death-bondage through sacred appeal suggests divine intervention
+    or deliverance.
+  cautions: Sikh theological context and guru-mediated devotion should be reviewed
+    carefully; may belong under mystical_quest, sacred_exchange, or liberation theology
+    not captured by current groups.
+  suggested_aliases:
+  - rescue_from_death_bondage_by_divine_appeal
+  - guru_favoured_appeal_rescues_from_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.death-bound-weapon-vow
+  motif_id: death_bound_weapon_vow
+  label: death-bound weapon vow
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vow binding death to a weapon is primarily a performative speech act
+    with lethal force.
+  cautions: If the weapon itself is the focus, sacred_treasures may be secondary;
+    if the death is destined, death_by_fate may also apply.
+  suggested_aliases:
+  - weapon_vow_bound_to_death
+  - lethal_weapon_oath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and over-specific; preserve local evidence
+  while avoiding new canonical groups.
+- Death-related wording should not automatically map to death_and_transformation unless
+  renewal, return, or postmortem transformation is explicit.
+- Culturally specific sacred terms, especially Wakanda and Sikh guru-mediated salvation
+  language, need human review before final indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; culturally sensitive and single-occurrence
+    items require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0111
+  input_sha256: 71eeab6a202f671bafc9de8ad36bc75f2088f9c3b80ffdd9998fe1eb133439d7
+

@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3471
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.foreign-emblems-incorporated-into-a-clan-marea
+  motif_id: foreign_emblems_incorporated_into_a_clan_marea
+  label: Foreign emblems incorporated into a clan marea
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern clan identity, ritual objects, or cultural incorporation,
+    but the function of marea/emblems is unclear from the label alone.
+  cautions: Culturally specific clan terminology and single occurrence require source
+    review; avoid treating foreignness as transmission evidence.
+  suggested_aliases:
+  - foreign_emblems_incorporated_into_clan_identity
+  - incorporation_of_foreign_emblems_into_clan_symbols
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-entrants-killed-despite-armed-parties
+  motif_id: foreign_entrants_killed_despite_armed_parties
+  label: Foreign entrants killed despite armed parties
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-specific conflict outcome rather than a reusable
+    symbolic or narrative motif.
+  cautions: If source context shows a ritualized boundary defense, ambush pattern,
+    or sacred combat structure, reconsider under sacred_combat or threshold_guardian.
+  suggested_aliases:
+  - foreign_entrants_killed_despite_armed_escort
+  - outsiders_killed_despite_armed_party
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-goods-offered-for-local-assistance
+  motif_id: foreign_goods_offered_for_local_assistance
+  label: foreign goods offered for local assistance
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Offering goods in return for assistance fits the reciprocity and exchange
+    function, even if not explicitly divine.
+  cautions: May be ordinary trade or passage detail; confirm that the exchange has
+    narrative, ritual, or social-obligation significance before indexing.
+  suggested_aliases:
+  - goods_offered_for_assistance
+  - foreign_goods_as_payment_for_local_help
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-hospitality-and-relay-through-tribes
+  motif_id: foreign_hospitality_and_relay_through_tribes
+  label: Foreign hospitality and relay through tribes
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on hospitality to outsiders and their passage between
+    groups, aligning with stranger-guest hospitality patterns.
+  cautions: If no test, obligation, or sacred/social hospitality norm is present,
+    it may be a travel itinerary detail better excluded.
+  suggested_aliases:
+  - hospitality_to_foreign_travelers
+  - relay_hospitality_through_tribes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-influence-pattern-in-tale-traditions
+  motif_id: foreign_influence_pattern_in_tale_traditions
+  label: Foreign influence pattern in tale traditions
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes comparative or transmission analysis of tale traditions,
+    not a motif within a narrative.
+  cautions: Preserve as provenance or scholarship note if needed; do not use as evidence
+    for borrowing in motif normalization.
+  suggested_aliases:
+  - foreign_influence_in_tale_traditions
+  - comparative_foreign_influence_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-instrument-assimilated-to-known-musical-category
+  motif_id: foreign_instrument_assimilated_to_known_musical_category
+  label: Foreign instrument assimilated to known musical category
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe classification or interpretation of an
+    instrument rather than music functioning as supernatural power.
+  cautions: If a passage depicts the instrument producing enchantment or ritual effects,
+    remap to enchanting_music; otherwise exclude from motif queries.
+  suggested_aliases:
+  - foreign_instrument_assimilated_to_local_category
+  - instrument_classification_assimilation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-spouse-induces-idolatrous-transgression
+  motif_id: foreign_spouse_induces_idolatrous_transgression
+  label: foreign spouse induces idolatrous transgression
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Idolatrous transgression induced through marriage concerns violation
+    of exclusive sacred obligation, fitting covenant breach.
+  cautions: May also involve sacred_law or divine_judgment if punishment or legal
+    prohibition is central; handle culturally loaded foreign-spouse framing carefully.
+  suggested_aliases:
+  - spouse_induces_idolatrous_transgression
+  - marriage_leads_to_covenant_breach
+  - foreign_spouse_leads_to_idolatry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-story-transferred-into-roman-history
+  motif_id: foreign_story_transferred_into_roman_history
+  label: foreign story transferred into Roman history
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a reception or source-critical claim about story transfer, not
+    a narrative motif.
+  cautions: Keep transmission claims outside normalization; preserve only as scholarly
+    provenance if required.
+  suggested_aliases:
+  - story_transferred_into_roman_history
+  - foreign_tale_recast_as_roman_history
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-sweets-easing-suspicion-and-producing-laughter
+  motif_id: foreign_sweets_easing_suspicion_and_producing_laughter
+  label: Foreign sweets easing suspicion and producing laughter
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Food given to ease suspicion can function as hospitality or reciprocal
+    social repair.
+  cautions: Highly specific and possibly a passage detail; if the sweets are merely
+    comic or incidental, exclude from pattern queries.
+  suggested_aliases:
+  - sweets_ease_suspicion
+  - food_gift_produces_laughter_and_trust
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-technical-practice-interpreted-as-demoniac-power
+  motif_id: foreign_technical_practice_interpreted_as_demoniac_power
+  label: foreign technical practice interpreted as demoniac power
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate misrecognized craft, demonization of outsiders,
+    or commentary on cultural interpretation rather than a motif.
+  cautions: Culturally sensitive and possibly colonial/ethnographic framing; source
+    review needed before mapping to sacred_craft, divine_judgment, or meta_textual.
+  suggested_aliases:
+  - technical_practice_interpreted_as_demonic_power
+  - foreign_craft_misread_as_demonic_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - sacred_law
+    - _meta_textual
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use 'foreign' as an analytic or social marker; do not
+  infer historical transmission from these normalization placements.
+- Single-occurrence labels that describe scholarly comparison or cultural assimilation
+  are best excluded as meta-textual unless passage evidence shows a recurring narrative
+  function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; multiple items require source context because
+    they may be episode details, ethnographic commentary, or culturally sensitive
+    outsider-framing labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3471
+  input_sha256: 82a4da548537c9bddf5dc043bc49a824b8b5691e9a7ebc4be108dd5d9ad11819
+

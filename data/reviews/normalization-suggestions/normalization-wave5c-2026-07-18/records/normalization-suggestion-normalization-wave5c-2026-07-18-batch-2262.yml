@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2262
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.story-repertoires-featuring-extraordinary-beings-and-animals
+  motif_id: story_repertoires_featuring_extraordinary_beings_and_animals
+  label: story repertoires featuring extraordinary beings and animals
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a repertoire or corpus classification rather than
+    a narrative motif inside a passage.
+  cautions: If individual stories contain extraordinary beings or animal agents, those
+    should be indexed separately under the relevant motif groups.
+  suggested_aliases:
+  - animal_and_extraordinary_being_story_repertoire
+  - extraordinary_beings_and_animals_repertoire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.strength-test-with-an-animal
+  motif_id: strength_test_with_an_animal
+  label: strength test with an animal
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A strength test functions as an ordeal that proves or transforms status;
+    the animal is the test agent or opponent.
+  cautions: If the passage emphasizes combat rather than testing, sacred_combat or
+    divine_warrior may be a better secondary placement.
+  suggested_aliases:
+  - animal_strength_test
+  - ordeal_of_strength_against_an_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.strong-animal-forces-access-to-withheld-water
+  motif_id: strong_animal_forces_access_to_withheld_water
+  label: Strong animal forces access to withheld water
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve animal agency, water access, coercion, or culture-hero
+    provisioning, but the narrative function is unclear.
+  cautions: Could map to sacred_waters if water access is central, culture_hero if
+    the act benefits humans, or trickster if boundary-breaking/deception is emphasized.
+  suggested_aliases:
+  - animal_forces_access_to_water
+  - withheld_water_released_by_strong_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.submission-to-cosmic-transformation
+  motif_id: submission_to_cosmic_transformation
+  label: submission to cosmic transformation
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on accepting transformation within a cosmic process,
+    fitting the broader death/transformation complex.
+  cautions: Daoist context may instead emphasize mystical discipline, non-action,
+    or wisdom; review source evidence before treating it as literal metamorphosis.
+  suggested_aliases:
+  - acceptance_of_cosmic_transformation
+  - yielding_to_cosmic_change
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.substitution-for-animal-blood
+  motif_id: substitution_for_animal_blood
+  label: Substitution for animal blood
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ritual substitution involving blood, but lacks enough
+    context to distinguish sacrifice, purity law, or comparative commentary.
+  cautions: The comparative tradition tag and abstract wording may indicate a scholarly
+    motif note; map to sacrifice or sacred_law only if a concrete ritual function
+    is present.
+  suggested_aliases:
+  - animal_blood_substitute
+  - substitute_for_animal_blood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.substitution-of-animal-remains-for-a-human-body
+  motif_id: substitution_of_animal_remains_for_a_human_body
+  label: Substitution of animal remains for a human body
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal remains substituted for a human body likely function as deception,
+    concealment, or escape through a false body token.
+  cautions: If this occurs in a funerary or resurrection context rather than deception,
+    heroic_funeral_rites or death_and_transformation may fit better.
+  suggested_aliases:
+  - animal_remains_substituted_for_human_body
+  - false_body_made_from_animal_remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.subterranean-food-cultivation-by-animals
+  motif_id: subterranean_food_cultivation_by_animals
+  label: subterranean food cultivation by animals
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines underworld space, animal agency, and food production
+    without clarifying whether the function is origin, otherworld, or provisioning.
+  cautions: Could relate to cosmic_origin, otherworld, culture_hero, or sacred_substance
+    depending on whether the passage explains agriculture, an underworld realm, or
+    animal helpers.
+  suggested_aliases:
+  - animals_cultivate_food_underground
+  - underground_animal_food_cultivation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.subterranean-origin-and-emergence-of-animals
+  motif_id: subterranean_origin_and_emergence_of_animals
+  label: subterranean origin and emergence of animals
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: An origin and emergence account for animals belongs with creation and
+    emergence motifs, even if the beings emerge from below rather than from primordial
+    elements.
+  cautions: If the passage emphasizes a journey from an underworld rather than origin
+    etiology, descent or otherworld may be relevant secondary groups.
+  suggested_aliases:
+  - animals_emerge_from_underworld
+  - subterranean_origin_of_animals
+  - animal_emergence_from_below
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successful-horse-raid-from-an-enemy-corral
+  motif_id: successful_horse_raid_from_an_enemy_corral
+  label: Successful horse raid from an enemy corral
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A raid on enemy-held animals is a warfare/raiding motif analogous to
+    existing cattle-raid patterns under sacred combat.
+  cautions: May be too event-specific unless horse raids recur across sources; preserve
+    horse and corral details as evidence rather than taxonomy-level meaning.
+  suggested_aliases:
+  - horse_raid
+  - enemy_corral_horse_raid
+  - successful_livestock_raid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.successive-animal-dooms-pursuing-a-youth
+  motif_id: successive_animal_dooms_pursuing_a_youth
+  label: Successive animal dooms pursuing a youth
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Successive animal dooms pursuing a youth points to foretold or inescapable
+    death taking animal forms.
+  cautions: If the animals are active monsters or tests rather than embodiments of
+    destiny, threshold_guardian, initiation, or divine_judgment may be better secondary
+    mappings.
+  suggested_aliases:
+  - animal_dooms_pursue_youth
+  - youth_pursued_by_successive_animal_fates
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and animal-centered but differ
+  sharply in function; do not merge them solely because animals appear.
+- Where labels describe origin or ritual function, prioritize narrative function over
+  animal imagery.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; low-confidence and comparative/contextual labels
+    require source evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2262
+  input_sha256: 3824e8e1ee42281630a92754628610d3209f1bf2b035801d6e1e5f23be2bb300
+

@@ -1,0 +1,305 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2514
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.river-centered-identity-and-settlement-pattern
+  motif_id: river_centered_identity_and_settlement_pattern
+  label: river-centered identity and settlement pattern
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as social-geographic identity or settlement pattern rather
+    than a clear mythic water motif.
+  cautions: May be ethnographic/contextual description, place-based identity, or sacred
+    geography; culturally specific evidence should be reviewed before indexing.
+  suggested_aliases:
+  - river_centered_settlement
+  - river_identity_and_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.river-dammed-in-failed-attempt-to-capture-an-enemy
+  motif_id: river_dammed_in_failed_attempt_to_capture_an_enemy
+  label: River dammed in failed attempt to capture an enemy
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The river manipulation serves a military pursuit/capture function rather
+    than primarily sacred water symbolism.
+  cautions: If the passage emphasizes water control as divine intervention or craft
+    rather than combat stratagem, secondary review may shift placement.
+  suggested_aliases:
+  - river_damming_as_capture_strategy
+  - failed_enemy_capture_by_damming_river
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.river-entering-the-sea-through-many-mouths
+  motif_id: river_entering_the_sea_through_many_mouths
+  label: river entering the sea through many mouths
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a geographic or hydrological detail rather
+    than a symbolic or narrative motif.
+  cautions: If source evidence treats the many mouths etiologically or cosmologically,
+    reconsider under cosmic_origin or sacred_waters.
+  suggested_aliases:
+  - many_mouthed_river_delta
+  - river_delta_many_mouths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.river-erases-memorials-to-prevent-idolatrous-fixation
+  motif_id: river_erases_memorials_to_prevent_idolatrous_fixation
+  label: River erases memorials to prevent idolatrous fixation
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The river functions as corrective sacred agency preventing improper devotion
+    or idolatrous attachment.
+  cautions: Could also belong under sacred_law if emphasis is prohibition of idolatry,
+    or sacred_waters if purification/erasure is central.
+  suggested_aliases:
+  - sacred_river_erases_idolatrous_memorials
+  - river_removes_memorial_fixation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.river-issuing-from-trees-and-stone
+  motif_id: river_issuing_from_trees_and_stone
+  label: river issuing from trees and stone
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A river emerging from charged natural objects fits sacred water origins
+    and transformative water symbolism.
+  cautions: If the tree or stone functions as world axis or creation source, axis_mundi
+    or cosmic_origin may be relevant secondary mappings.
+  suggested_aliases:
+  - river_issuing_from_tree_and_stone
+  - sacred_river_source_in_tree_and_stone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.river-linked-treasure-transformed-across-traditions
+  motif_id: river_linked_treasure_transformed_across_traditions
+  label: River-linked treasure transformed across traditions
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'across traditions' suggests a comparative/transmission or
+    scholarly artifact rather than a passage-level motif.
+  cautions: If a source narrative has an actual treasure associated with a river,
+    preserve under sacred_treasures with sacred_waters as related context.
+  suggested_aliases:
+  - river_linked_treasure
+  - treasure_transformed_in_river_traditions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.river-washing-after-violent-action
+  motif_id: river_washing_after_violent_action
+  label: River washing after violent action
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Washing after violence aligns with purification after bloodshed and ritual
+    handling of pollution.
+  cautions: If framed as sacrificial expiation or moral punishment, sacrifice or divine_judgment
+    may be secondary; river detail should be preserved.
+  suggested_aliases:
+  - purification_after_violence_in_river
+  - river_purification_after_bloodshed
+  - washing_after_bloodshed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.riverbank-at-night-as-site-of-fatal-encounter
+  motif_id: riverbank_at_night_as_site_of_fatal_encounter
+  label: Riverbank at night as site of fatal encounter
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be a setting detail for a death scene rather than a recurring
+    river or threshold motif.
+  cautions: Could map to threshold_guardian, death_by_fate, sacred_combat, or exclude
+    as episode-specific depending on the encounter's function.
+  suggested_aliases:
+  - night_riverbank_fatal_encounter
+  - fatal_encounter_at_riverbank
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - death_by_fate
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.riverine-expedition-across-linked-waterways
+  motif_id: riverine_expedition_across_linked_waterways
+  label: Riverine expedition across linked waterways
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: An expedition across waterways is best treated as a journey pattern when
+    linked to ordeal, quest, or transformation.
+  cautions: If merely a travel route or ethnographic geography, exclude or review;
+    if water passage is transformative, sacred_waters may be secondary.
+  suggested_aliases:
+  - waterway_expedition
+  - riverine_journey_across_linked_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rivers-appointed-as-chiefs
+  motif_id: rivers_appointed_as_chiefs
+  label: rivers appointed as chiefs
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Personified rivers given social rank may indicate sacred nature personification,
+    governance metaphor, or local cosmology.
+  cautions: Culturally specific personification and political categories need source
+    review; possible placements include divine_intervention, sacred_waters, or royal_legitimacy
+    depending on agency.
+  suggested_aliases:
+  - personified_rivers_as_chiefs
+  - rivers_given_chieftainship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - divine_intervention
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- River labels in this batch often mix hydrological setting with narrative function;
+  do not map to flood_and_renewal unless old-order destruction and renewal are explicit.
+- Several one-off labels may be passage-specific geographic or ethnographic details
+  and should be checked against source evidence before broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    specific river-personification and settlement-identity labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2514
+  input_sha256: 42d2cb8ddd90fd443eb7611a320f0a9be5ec0e12c923f35667edf664d08e05ba
+

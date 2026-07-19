@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0381
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.spirit-caused-disease-and-death
+  motif_id: spirit_caused_disease_and_death
+  label: spirit-caused disease and death
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Spirit-caused disease/death fits the existing spirit-contagion and apotropaic-purity
+    cluster under sacred_law.
+  cautions: Single occurrence; if the passage emphasizes healing or direct spirit
+    agency more than taboo/contagion, divine_intervention or sacrifice/expulsion may
+    be secondary.
+  suggested_aliases:
+  - spirit-caused disease and death
+  - illness caused by spirits
+  - spirit affliction causing death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-caused-illness-under-shamanic-control
+  motif_id: spirit_caused_illness_under_shamanic_control
+  label: Spirit-caused illness under shamanic control
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves spirit agency and ritual specialist control, which
+    could fit divine_intervention or spirit-affliction/expulsion patterns.
+  cautions: Culturally sensitive shamanic-healing terminology and single occurrence
+    require source review; avoid flattening local healing concepts into generic exorcism.
+  suggested_aliases:
+  - spirit-caused illness under shamanic control
+  - ritual specialist controls spirit-caused illness
+  - shamanic control of spirit illness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-changeling
+  motif_id: spirit_changeling
+  label: spirit changeling
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A changeling implies spirit substitution or abduction across an ordinary/otherworld
+    boundary, aligning with otherworld abduction and return motifs.
+  cautions: If the passage stresses altered body/form rather than abduction or substitution,
+    shapeshifter may be a secondary fit; source context needed.
+  suggested_aliases:
+  - spirit changeling
+  - spirit-substituted child
+  - changeling by spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-conjuring-healing-by-a-magician
+  motif_id: spirit_conjuring_healing_by_a_magician
+  label: spirit-conjuring healing by a magician
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: low
+  rationale: Healing through summoned spirits may fit divine_intervention as mediated
+    spirit agency, but the exact ritual role is unclear.
+  cautions: Term 'magician' may be an outsider or generated label; review source language
+    and cultural context before indexing.
+  suggested_aliases:
+  - spirit-conjuring healing
+  - healing by summoned spirits
+  - ritual healing through spirit mediation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-consultation-for-distant-knowledge
+  motif_id: spirit_consultation_for_distant_knowledge
+  label: Spirit consultation for distant knowledge
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Consulting spirits to obtain remote knowledge is a divinatory access
+    method for hidden information.
+  cautions: If the passage frames the event as one-off revelation or dream/vision
+    rather than established consultation, dream_and_vision or sacred_knowledge may
+    be secondary.
+  suggested_aliases:
+  - spirit consultation for distant knowledge
+  - spirit-mediated distant knowledge
+  - divination through spirit consultation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-consultation-through-bodily-heaviness
+  motif_id: spirit_consultation_through_bodily_heaviness
+  label: spirit consultation through bodily heaviness
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a specific bodily technique or sign used in spirit
+    consultation, fitting divination practice.
+  cautions: Bodily heaviness is highly local and over-specific; preserve as evidence
+    detail and review whether it is a passage artifact.
+  suggested_aliases:
+  - spirit consultation through bodily heaviness
+  - bodily heaviness as spirit oracle
+  - spirit divination by bodily weight
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-consultation-used-to-identify-and-afflict-intruders
+  motif_id: spirit_consultation_used_to_identify_and_afflict_intruders
+  label: spirit consultation used to identify and afflict intruders
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: Spirit consultation for identifying intruders fits divination, but afflicting
+    them adds harmful ritual or judgment functions.
+  cautions: Composite, culturally sensitive, and single occurrence; may need splitting
+    into divination and spirit-affliction evidence rather than one motif.
+  suggested_aliases:
+  - spirit consultation identifies intruders
+  - spirit-mediated detection and affliction
+  - spirit divination against intruders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-control-over-game-abundance
+  motif_id: spirit_control_over_game_abundance
+  label: spirit control over game abundance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A spirit controlling the abundance of game parallels existing divine_intervention
+    children for animal helpers, provision, and abundance-giving beings.
+  cautions: May also involve sacred_exchange if humans must ritually reciprocate with
+    game-controlling spirits; review local hunting-ritual context.
+  suggested_aliases:
+  - spirit control over game abundance
+  - game abundance controlled by spirits
+  - spirit master of game animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-conveyed-to-a-divine-home
+  motif_id: spirit_conveyed_to_a_divine_home
+  label: spirit conveyed to a divine home
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: high
+  rationale: A spirit being carried to a divine home is a postmortem passage or afterlife
+    destination motif.
+  cautions: If the passage emphasizes heavenly ascent more than afterlife route, ascent
+    may be a secondary mapping.
+  suggested_aliases:
+  - spirit conveyed to a divine home
+  - soul carried to divine dwelling
+  - postmortem conveyance to divine home
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-cry-diagnoses-the-victim-s-fate
+  motif_id: spirit_cry_diagnoses_the_victim_s_fate
+  label: Spirit cry diagnoses the victim’s fate
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spirit cry used to diagnose fate functions as omen interpretation or
+    divination.
+  cautions: Could overlap with death_by_fate if the diagnosed outcome is fixed death;
+    keep the audible spirit sign as granular evidence.
+  suggested_aliases:
+  - spirit cry diagnoses fate
+  - spirit cry as omen
+  - spirit sound reveals victim's fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern spirit-mediated illness, healing, and shamanic or ritual
+  specialist practice; source review is recommended to avoid over-generalizing culturally
+  specific categories.
+- No transmission or contact inference is implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; spirit-healing and affliction labels should
+    be checked against passage evidence and local terminology.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0381
+  input_sha256: 32d56295e42cc0a62078f95f0718776dbe365c570df9d9d5906661fd1ad9ce3f
+

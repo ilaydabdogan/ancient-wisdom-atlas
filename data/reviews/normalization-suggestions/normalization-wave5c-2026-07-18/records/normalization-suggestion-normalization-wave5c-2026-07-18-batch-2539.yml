@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2539
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.storm-rain-setting-with-musical-performance
+  motif_id: storm_rain_setting_with_musical_performance
+  label: storm-rain setting with musical performance
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a performance context rather than a stable motif;
+    it could involve sacred song, weather ritual, or merely setting.
+  cautions: Single occurrence; source evidence needed before mapping to enchanting_music,
+    sacred_exchange, or a weather/storm group.
+  suggested_aliases:
+  - storm_rain_music_performance
+  - rainstorm_performance_setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storm-raised-by-bodily-substance
+  motif_id: storm_raised_by_bodily_substance
+  label: storm raised by bodily substance
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A bodily substance causing weather suggests ritual or magical weather
+    agency, but no existing group cleanly captures storm-making by substance.
+  cautions: Culturally specific and single occurrence; could fit sacred_substance,
+    divine_intervention, sacred_law, or weather magic depending on passage evidence.
+  suggested_aliases:
+  - storm_made_by_bodily_substance
+  - weather_raised_by_bodily_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storm-sound-and-masked-inter-chant-performance
+  motif_id: storm_sound_and_masked_inter_chant_performance
+  label: storm-sound and masked inter-chant performance
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to combine ritual performance, masking, chant, and
+    storm sound rather than a clearly recurring mythic motif.
+  cautions: Potentially culturally sensitive ceremonial material; avoid broad indexing
+    without source review. Could relate to enchanting_music, sacred_exchange, or ritual
+    weather-making.
+  suggested_aliases:
+  - masked_storm_chant_performance
+  - storm_sound_masked_chant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storm-sovereign-deity
+  motif_id: storm_sovereign_deity
+  label: storm-sovereign deity
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: medium
+  rationale: A storm deity functioning as sovereign aligns with divine cosmic rulership
+    more than storm imagery alone.
+  cautions: If the passage emphasizes battle or thunderbolt combat, divine_warrior
+    may be a secondary fit; if only weather power, human review may prefer a future
+    storm deity group.
+  suggested_aliases:
+  - storm_king_deity
+  - sovereign_storm_god
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.storm-survivors-reach-a-protected-refuge-and-renew-bodily-strength
+  motif_id: storm_survivors_reach_a_protected_refuge_and_renew_bodily_strength
+  label: Storm survivors reach a protected refuge and renew bodily strength
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: low
+  rationale: The protected refuge preserves survivors through danger, resembling the
+    broader preserving-container/refuge function.
+  cautions: Very episode-specific; if no sacred or preserving function is present,
+    treat as journey survival detail. Could also relate to sacred_waters or hero_journey
+    depending on context.
+  suggested_aliases:
+  - storm_survivors_reach_protected_refuge
+  - refuge_after_storm_survival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.strangers-emerging-from-the-sea-to-fight-local-people
+  motif_id: strangers_emerging_from_the_sea_to_fight_local_people
+  label: strangers emerging from the sea to fight local people
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: The main narrative action is conflict between arriving strangers and
+    local people, with the sea as entry point.
+  cautions: May instead be origin history, migration memory, otherworld emergence,
+    or passage-specific detail; do not infer sacred combat without evidence of ritual
+    or mythic framing.
+  suggested_aliases:
+  - sea_emerging_strangers_fight_locals
+  - strangers_from_sea_attack_local_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.strategic-public-flight-exchanged-for-future-retreat
+  motif_id: strategic_public_flight_exchanged_for_future_retreat
+  label: strategic public flight exchanged for future retreat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a tactical exchange or social bargain, but its motif
+    function is unclear from wording alone.
+  cautions: Likely misbucketed under nature/cosmos; could be combat strategy, covenant/exchange,
+    or over-specific episode detail.
+  suggested_aliases:
+  - public_flight_bargained_for_future_retreat
+  - strategic_retreat_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.strategic-refuge-in-narrow-terrain
+  motif_id: strategic_refuge_in_narrow_terrain
+  label: Strategic refuge in narrow terrain
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: A tactical refuge in terrain is primarily a conflict or warfare detail
+    rather than a nature motif.
+  cautions: May be too generic or episode-specific for pattern queries unless the
+    narrow pass/refuge recurs as a decisive combat structure.
+  suggested_aliases:
+  - narrow_terrain_refuge
+  - combat_refuge_in_narrow_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.strength-giving-waters
+  motif_id: strength_giving_waters
+  label: Strength-giving waters
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Water that grants strength fits sacred waters as transformative or life-giving
+    substance.
+  cautions: If the emphasis is healing, immortality, or a potion-like substance, sacred_substance
+    or death_and_transformation may be relevant secondary mappings.
+  suggested_aliases:
+  - strength_giving_water
+  - empowering_waters
+  - vitality_giving_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.strength-proven-through-tree-feats
+  motif_id: strength_proven_through_tree_feats
+  label: Strength proven through tree feats
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Feats involving trees function as proof of extraordinary heroic strength,
+    matching warrior power displays more than sacred-tree symbolism.
+  cautions: Do not map to axis_mundi unless the tree has cosmic-center or realm-connecting
+    function; if merely athletic, may be an over-specific heroic detail.
+  suggested_aliases:
+  - tree_feat_proves_strength
+  - heroic_strength_shown_with_trees
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch appear misbucketed under nature/cosmos because storm,
+  sea, terrain, water, or tree imagery is present; narrative function should guide
+  final placement.
+- Weather-making and storm-performance labels may warrant a future weather ritual
+  or storm deity review pass, but the supplied items are single occurrences and need
+  source context.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional machine suggestions only; human review especially needed for
+    culturally specific ritual performance and storm-making labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2539
+  input_sha256: 44599fd26d1ec8ded4d9c98570a0697a4f8391fad3ac5d67ca80aeaf858734bb
+

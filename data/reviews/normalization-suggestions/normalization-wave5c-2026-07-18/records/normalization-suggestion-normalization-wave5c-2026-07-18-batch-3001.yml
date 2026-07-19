@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3001
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.readiness-expressed-through-equipping-dressing-or-preparing-a-vessel
+  motif_id: readiness_expressed_through_equipping_dressing_or_preparing_a_vessel
+  label: readiness expressed through equipping, dressing, or preparing a vessel
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to a ship or vessel prepared for travel, ritual,
+    burial, or combat, but the function is unclear from wording alone.
+  cautions: Single occurrence and ambiguous use of vessel; could be a passage detail
+    rather than a motif, or might fit sacred_vessel, hero_journey, heroic_funeral_rites,
+    or sacred_combat depending on evidence.
+  suggested_aliases:
+  - equipping_a_vessel_for_departure
+  - preparing_a_ship_or_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reassuring-news-that-absent-companions-are-alive
+  motif_id: reassuring_news_that_absent_companions_are_alive
+  label: reassuring news that absent companions are alive
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a plot-information detail rather than a stable symbolic
+    or narrative motif.
+  cautions: If the news functions as recognition, rescue, return, or divine message
+    in the passage, it may need reassessment under hero_journey or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - news_of_surviving_absent_companions
+  - reassurance_that_companions_live
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-disposal-of-gnawed-bones-at-neighboring-huts
+  motif_id: reciprocal_disposal_of_gnawed_bones_at_neighboring_huts
+  label: reciprocal disposal of gnawed bones at neighboring huts
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is highly contextual and may involve exchange, taboo, trickster
+    behavior, or local ritual practice.
+  cautions: Culturally specific San context requires source review; do not map from
+    wording alone. Could be over-specific ethnographic or episode detail.
+  suggested_aliases:
+  - exchange_of_gnawed_bones
+  - bone_disposal_between_neighboring_huts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-exchange-at-appointed-neutral-market-places
+  motif_id: reciprocal_exchange_at_appointed_neutral_market_places
+  label: reciprocal exchange at appointed neutral market-places
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is regulated reciprocal exchange, which fits the broader
+    reciprocity group even if the market-place detail is local.
+  cautions: If the passage emphasizes neutral boundary space rather than exchange
+    obligation, threshold or sacred_law review may be useful. Single occurrence; preserve
+    market-place specificity as evidence detail.
+  suggested_aliases:
+  - neutral_market_exchange
+  - appointed_market_reciprocity
+  - reciprocal_exchange_at_neutral_places
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-hospitality-during-crop-failure
+  motif_id: reciprocal_hospitality_during_crop_failure
+  label: reciprocal hospitality during crop failure
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on hospitality and mutual aid under scarcity, aligning
+    with hospitality as an obligation or test.
+  cautions: If no stranger, guest, or test is present, sacred_exchange may be the
+    better broad group. Crop-failure context should be preserved as evidence detail.
+  suggested_aliases:
+  - hospitality_during_famine
+  - reciprocal_hosting_in_scarcity
+  - mutual_hospitality_during_crop_failure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-predation-on-offspring
+  motif_id: reciprocal_predation_on_offspring
+  label: Reciprocal predation on offspring
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests mutual child-devouring or retaliatory kin violence,
+    but its narrative function is unclear.
+  cautions: Could fit divine_judgment, betrayal_violated_trust, sacrifice, or family
+    violence depending on source evidence. Sensitive and over-specific; review before
+    indexing.
+  suggested_aliases:
+  - mutual_predation_on_children
+  - reciprocal_child_devouring
+  - retaliatory_predation_on_offspring
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-of-remains-by-bodily-mark
+  motif_id: recognition_of_remains_by_bodily_mark
+  label: Recognition of remains by bodily mark
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A bodily mark functions as an identity proof, closely matching existing
+    recognition-by-scar or bodily-token variants.
+  cautions: Because the object recognized is remains, heroic_funeral_rites or lament_and_mourning
+    may be secondary if burial or mourning is the main function.
+  suggested_aliases:
+  - recognition_by_bodily_mark
+  - identification_of_remains_by_mark
+  - recognition_of_remains_by_scar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-through-a-garment-token
+  motif_id: recognition_through_a_garment_token
+  label: recognition through a garment token
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A garment used as a token to prove identity fits the recognition-token
+    group directly.
+  cautions: If the garment is primarily a sacred power object, secondary indexing
+    under sacred_treasures may be appropriate.
+  suggested_aliases:
+  - garment_as_recognition_token
+  - recognition_by_clothing_token
+  - identity_proof_by_garment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-through-marked-physical-feature
+  motif_id: recognition_through_marked_physical_feature
+  label: Recognition through marked physical feature
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: alias
+  confidence: high
+  rationale: Marked bodily features used for recognition are already represented by
+    recognition-by-scar and bodily-token variants.
+  cautions: Preserve the specific physical feature in evidence notes if available;
+    do not collapse if the mark has separate sacred or initiatory meaning.
+  suggested_aliases:
+  - recognition_by_marked_feature
+  - recognition_by_bodily_mark
+  - recognition_by_physical_mark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recurrent-four-and-eight-tribal-numbering
+  motif_id: recurrent_four_and_eight_tribal_numbering
+  label: recurrent four-and-eight tribal numbering
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate symbolic numerology, social organization, or a
+    textual pattern, but no existing group clearly captures it.
+  cautions: Culturally specific Maya Quiche numbering should be reviewed against source
+    evidence; may be a structural observation rather than a motif.
+  suggested_aliases:
+  - four_and_eight_tribal_numbering
+  - recurrent_tribal_number_pattern
+  - four_eight_social_numbering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; placements
+  should remain provisional until passage evidence confirms narrative function.
+- Recognition-token items map cleanly to recognition_tokens_hidden_identity and should
+  preserve the specific token or bodily feature in evidence notes.
+- Reciprocity and hospitality labels may require distinction between sacred_exchange
+  and hospitality_test_stranger_guest depending on whether a guest/test or general
+  exchange obligation is present.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated from labels and supplied
+    taxonomy only; no transmission claims inferred.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3001
+  input_sha256: 42eb830de3295f748de6f8bb05a2ea744aa5b0aa2c45b1708113ece553818b61
+

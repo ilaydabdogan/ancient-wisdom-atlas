@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0767
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-figure-lying-in-sunken-or-submerged-settings
+  motif_id: divine_figure_lying_in_sunken_or_submerged_settings
+  label: divine figure lying in sunken or submerged settings
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate descent, sacred waters, sleep/death, iconography,
+    or a passage-specific description; function is unclear from wording alone.
+  cautions: Single occurrence and setting-focused; do not infer flood, underworld
+    descent, or death-return without source evidence.
+  suggested_aliases:
+  - submerged_divine_figure
+  - divine_figure_in_sunken_setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-figure-with-innumerable-armies
+  motif_id: divine_figure_with_innumerable_armies
+  label: divine figure with innumerable armies
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: A divine figure accompanied by vast armies fits martial divine power
+    and sacred combat imagery.
+  cautions: If the armies are merely courtly retinue or cosmic attendants rather than
+    combat forces, supreme_ruler or theophany may be better secondary review paths.
+  suggested_aliases:
+  - divine_army_retinue
+  - god_with_innumerable_armies
+  - divine_host
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-figure-with-serpent-and-tree-in-visual-composition
+  motif_id: divine_figure_with_serpent_and_tree_in_visual_composition
+  label: Divine figure with serpent and tree in visual composition
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: low
+  rationale: The wording describes a visual composition rather than a clear narrative
+    function; serpent and tree could point to several existing groups.
+  cautions: May be iconographic cataloging rather than motif evidence. If passage
+    evidence supports symbolic function, review under serpent_guardian, axis_mundi,
+    sacred_knowledge, or sacred_treasures as appropriate.
+  suggested_aliases:
+  - serpent_tree_divine_iconography
+  - divine_figure_between_serpent_and_tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-figures-arranged-by-cardinal-order
+  motif_id: divine_figures_arranged_by_cardinal_order
+  label: divine figures arranged by cardinal order
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: low
+  rationale: Cardinal ordering of divine figures likely reflects sacred spatial-ritual
+    order, and sacred_time currently covers calendrical/cosmic ritual ordering better
+    than other groups.
+  cautions: This may warrant a future sacred_space/cardinal_directions group if many
+    directionally ordered motifs recur; review culturally specific spatial systems
+    carefully.
+  suggested_aliases:
+  - cardinal_direction_deities
+  - divine_figures_ordered_by_directions
+  - directional_divine_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-figures-identified-by-emblematic-signs
+  motif_id: divine_figures_identified_by_emblematic_signs
+  label: divine figures identified by emblematic signs
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as iconographic or classificatory identification of deities
+    rather than a narrative or symbolic motif.
+  cautions: If emblematic signs function as power objects, recognition tokens, or
+    ritual signs in a passage, remap case-by-case under sacred_treasures or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - deity_identification_by_emblems
+  - emblematic_signs_of_divine_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-figures-rendered-as-human-brothers
+  motif_id: divine_figures_rendered_as_human_brothers
+  label: divine figures rendered as human brothers
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: role_variant
+  confidence: medium
+  rationale: Divine figures represented as brothers fits the sibling-pair complex
+    when the fraternal relation matters to the mythic structure.
+  cautions: If 'rendered as' refers only to scholarly iconographic interpretation
+    or euhemerization, exclude or review as meta-textual rather than sibling motif.
+  suggested_aliases:
+  - divine_brothers
+  - gods_as_human_brothers
+  - fraternal_divine_pair
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-figures-stationed-at-a-heavenly-gate
+  motif_id: divine_figures_stationed_at_a_heavenly_gate
+  label: divine figures stationed at a heavenly gate
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: high
+  rationale: Divine figures stationed at a gate are boundary guardians controlling
+    access between realms.
+  cautions: If the context is a mapped postmortem route, afterlife_passage may be
+    a useful secondary group; if ascent to heaven is central, also review under ascent.
+  suggested_aliases:
+  - heavenly_gate_guardians
+  - divine_gatekeepers
+  - gods_at_heavenly_gate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-fire-as-sacred-presence
+  motif_id: divine_fire_as_sacred_presence
+  label: divine fire as sacred presence
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The existing sacred_fire group explicitly covers fire as divine presence
+    and purifying or mediating force.
+  cautions: Do not map to world_destroying_fire unless the fire judges, destroys,
+    or renews an order; preserve Zoroastrian ritual specificity in notes.
+  suggested_aliases:
+  - fire_as_divine_presence
+  - sacred_fire_as_presence
+  - divine_presence_in_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-fire-veneration
+  motif_id: divine_fire_veneration
+  label: divine fire veneration
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: Veneration of divine fire belongs under the sacred_fire group, especially
+    as ritual reverence for fire as sacred presence.
+  cautions: If the passage focuses on offering through fire rather than veneration
+    of fire itself, sacrifice or sacred_exchange may be secondary mappings.
+  suggested_aliases:
+  - veneration_of_sacred_fire
+  - fire_cult_veneration
+  - ritual_veneration_of_divine_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-first-cause-behind-visible-causes
+  motif_id: divine_first_cause_behind_visible_causes
+  label: Divine First Cause behind visible causes
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: meta_artifact
+  confidence: low
+  rationale: The label states a metaphysical teaching about hidden divine causality,
+    closest to sacred knowledge or mystical insight rather than a narrative motif.
+  cautions: May be doctrinal commentary rather than a motif; if the passage is a contemplative
+    realization, mystical_quest may be a better secondary group.
+  suggested_aliases:
+  - hidden_divine_causality
+  - divine_cause_behind_causes
+  - first_cause_behind_visible_causes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear iconographic or doctrinal rather than narrative;
+  human review should confirm whether they are source motifs or cataloging/commentary
+  artifacts.
+- No transmission or contact claims are implied by these suggested placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements generated for normalization wave5c batch 0767.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0767
+  input_sha256: 3e3d9b8af8b4c9416197bfc58427258670d8d3e17220008061da6623ca91bc31
+

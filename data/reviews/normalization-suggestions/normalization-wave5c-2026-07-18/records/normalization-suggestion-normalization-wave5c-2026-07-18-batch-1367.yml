@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1367
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marriage-refusal-and-chosen-supernatural-or-named-bridegroom-opening
+  motif_id: marriage_refusal_and_chosen_supernatural_or_named_bridegroom_opening
+  label: marriage refusal and chosen supernatural-or-named bridegroom opening
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines marriage refusal, bridegroom choice, and possible
+    supernatural identity; placement depends on whether the passage centers on love,
+    marriage choice, taboo, or an opening formula.
+  cautions: Single occurrence and culturally specific; avoid forcing into sacred_love
+    without evidence of longing, union, or bride-winning function.
+  suggested_aliases:
+  - refusal_of_marriage_and_choice_of_supernatural_bridegroom
+  - chosen_named_bridegroom_after_marriage_refusal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-song-with-religious-political-function
+  motif_id: marriage_song_with_religious_political_function
+  label: Marriage song with religious-political function
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A marriage song with sacred and political effect fits sacred marriage/love
+    where union establishes social or religious order.
+  cautions: If the passage emphasizes royal sanction more than marriage or song, secondary
+    review under royal_legitimacy or sacred_law may be needed.
+  suggested_aliases:
+  - religious_political_marriage_song
+  - marriage_song_as_sacred_political_union
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-within-a-named-social-division
+  motif_id: marriage_within_a_named_social_division
+  label: marriage within a named social division
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to record a social classification or ethnographic detail
+    rather than a symbolic or narrative motif.
+  cautions: If source evidence shows marriage rules functioning as sacred law or clan-origin
+    myth, re-review under sacred_law or cosmic_origin.
+  suggested_aliases:
+  - marriage_rule_within_named_social_division
+  - endogamous_marriage_in_named_group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-event-reflected-in-personal-name
+  motif_id: martial_event_reflected_in_personal_name
+  label: martial event reflected in personal name
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: low
+  rationale: This resembles an etiological naming pattern, with a name explained by
+    a remembered violent or heroic event.
+  cautions: Personal-name etiologies are not identical to place-name origins; if merely
+    biographical naming, it may be too specific for pattern queries.
+  suggested_aliases:
+  - personal_name_etiology_from_martial_event
+  - war_event_explains_personal_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-song-as-prelude-to-combat
+  motif_id: martial_song_as_prelude_to_combat
+  label: martial song as prelude to combat
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A battle song performed before combat is a ritualized combat prelude
+    rather than a general song motif.
+  cautions: If the song itself has supernatural compulsion or visionary force, enchanting_music
+    or dream_and_vision may be relevant as secondary placement.
+  suggested_aliases:
+  - battle_song_before_combat
+  - war_song_as_combat_prelude
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-song-retaining-warrior-association
+  motif_id: martial_song_retaining_warrior_association
+  label: martial song retaining warrior association
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe song provenance or retained association rather
+    than an enacted motif in a passage.
+  cautions: Review whether this is a performance-context note; if active in ritual
+    warfare, sacred_combat is likely, while supernatural sound effects would point
+    to enchanting_music.
+  suggested_aliases:
+  - warrior_associated_martial_song
+  - martial_song_with_warrior_association
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martyr-s-hidden-body-revealed-through-dream
+  motif_id: martyr_s_hidden_body_revealed_through_dream
+  label: Martyr’s hidden body revealed through dream
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: A dream reveals hidden sacred knowledge about the location of a dead
+    martyr's body.
+  cautions: May also support saintly relic or heroic funeral indexing if the revealed
+    body becomes a shrine, relic, or burial-rights focus.
+  suggested_aliases:
+  - hidden_martyr_body_revealed_in_dream
+  - dream_reveals_martyr_s_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvel-found-beneath-tree-roots-after-helper-s-instruction
+  motif_id: marvel_found_beneath_tree_roots_after_helper_s_instruction
+  label: Marvel found beneath tree roots after helper's instruction
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines helper instruction, tree-root location, and discovery
+    of a marvel; the narrative function is unclear.
+  cautions: Could fit sacred_treasures, sacred_knowledge, axis_mundi, or helper-guided
+    quest depending on what the marvel is and why tree roots matter.
+  suggested_aliases:
+  - treasure_or_marvel_beneath_tree_roots
+  - helper_reveals_marvel_under_tree_roots
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvel-workers-acknowledge-protagonist-s-greater-deed
+  motif_id: marvel_workers_acknowledge_protagonist_s_greater_deed
+  label: Marvel-workers acknowledge protagonist’s greater deed
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-specific recognition or plot evaluation rather
+    than a reusable symbolic motif.
+  cautions: If marvel-workers are a recurring supernatural helper class or the acknowledgement
+    confers initiation status, re-review under initiation or divine_intervention.
+  suggested_aliases:
+  - supernatural_workers_acknowledge_greater_deed
+  - protagonist_s_deed_surpasses_marvel_workers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvelous-bird-recognizes-a-stranger-by-song
+  motif_id: marvelous_bird_recognizes_a_stranger_by_song
+  label: marvelous bird recognizes a stranger by song
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is recognition of identity through a song cue, even
+    though the recognizer is a marvelous bird.
+  cautions: If the song exerts supernatural compulsion or the bird is chiefly an animal
+    helper, enchanting_music or divine_intervention may be secondary.
+  suggested_aliases:
+  - recognition_by_song
+  - bird_recognizes_stranger_by_song
+  - marvelous_animal_recognition_by_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and episode-specific; suggested
+  placements should be treated as provisional review aids, not taxonomy edits.
+- 'Song-related labels should be distinguished by function: ritual combat prelude,
+  sacred marriage performance, supernatural sound power, or mere performance-context
+  note.'
+- Marriage and social-division labels may require culturally informed review before
+  indexing as motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1367
+  input_sha256: 8bda6f4e0acf9a8cab1680418662eedcb9c9acb8e6a45251e7c3d17be88706a1
+

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1356
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.kin-recognized-by-war-song
+  motif_id: kin_recognized_by_war_song
+  label: Kin recognized by war-song
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A song functions as an identity proof through which kinship is recognized.
+  cautions: Single occurrence; if the song's ritual or martial power is foregrounded,
+    enchanting_music or sacred_combat may be secondary.
+  suggested_aliases:
+  - recognition_by_song
+  - kinship_recognition_through_song
+  - war_song_as_identity_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kingdom-endangered-by-division-among-its-own-knights
+  motif_id: kingdom_endangered_by_division_among_its_own_knights
+  label: Kingdom endangered by division among its own knights
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Internal division among knights threatens the stability and legitimacy
+    of the royal order.
+  cautions: May be an Arthurian plot-specific political detail; if the passage centers
+    on betrayal or civil conflict, betrayal_violated_trust or sacred_combat may be
+    better secondary mappings.
+  suggested_aliases:
+  - kingdom_threatened_by_internal_division
+  - internal_division_endangers_royal_order
+  - knightly_discord_threatens_the_realm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knowledge-and-practices-transmitted-through-contact
+  motif_id: knowledge_and_practices_transmitted_through_contact
+  label: knowledge and practices transmitted through contact
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes transmission or contact rather than a narrative motif
+    or symbolic pattern.
+  cautions: Keep transmission claims out of motif normalization; if the source passage
+    narrates a culture hero teaching practices, map that evidence separately to sacred_knowledge
+    or culture_hero.
+  suggested_aliases:
+  - knowledge_transmission_through_contact
+  - practices_transmitted_by_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knowledge-becoming-dangerous-through-misapplication
+  motif_id: knowledge_becoming_dangerous_through_misapplication
+  label: knowledge becoming dangerous through misapplication
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns sacred or transformative knowledge becoming harmful
+    when wrongly used.
+  cautions: In Sufi context this may be ethical teaching rather than narrative motif;
+    if the emphasis is discipline on a mystical path, mystical_quest may be a secondary
+    mapping.
+  suggested_aliases:
+  - dangerous_misapplied_knowledge
+  - misused_knowledge_as_spiritual_danger
+  - knowledge_without_wisdom_becomes_harmful
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knowledge-memory-and-certainty-as-conditions-for-accountability
+  motif_id: knowledge_memory_and_certainty_as_conditions_for_accountability
+  label: Knowledge, memory, and certainty as conditions for accountability
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: narrower_than
+  confidence: low
+  rationale: The label frames cognition and memory as prerequisites for moral reckoning
+    or accountability.
+  cautions: Highly abstract doctrinal/ethical label; may fit sacred_knowledge or sacred_law
+    if the passage is teaching rather than judgment narrative.
+  suggested_aliases:
+  - knowledge_as_condition_for_accountability
+  - memory_and_certainty_in_moral_reckoning
+  - cognition_as_basis_for_accountability
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knowledge-of-another-s-personal-name
+  motif_id: knowledge_of_another_s_personal_name
+  label: Knowledge of another’s personal name
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Knowing a personal name is a form of potent or privileged knowledge with
+    possible social or magical force.
+  cautions: If the name functions specifically to bind, curse, summon, or command,
+    curse_blessing_speech may be a better secondary mapping; source evidence needed.
+  suggested_aliases:
+  - knowledge_of_true_name
+  - personal_name_as_power_knowledge
+  - knowing_another_s_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knowledge-of-the-remote-cedar-forest
+  motif_id: knowledge_of_the_remote_cedar_forest
+  label: Knowledge of the remote cedar forest
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to special geographic knowledge, quest destination
+    knowledge, or a passage-specific detail.
+  cautions: Could map to hero_journey if it motivates expedition, sacred_knowledge
+    if secret knowledge is central, or sacred_treasures/otherworld if the cedar forest
+    is a charged realm; source context required.
+  suggested_aliases:
+  - knowledge_of_remote_forest
+  - knowledge_of_cedar_forest_destination
+  - distant_forest_as_known_quest_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knowledge-project-interrupted-and-manuscripts-lost
+  motif_id: knowledge_project_interrupted_and_manuscripts_lost
+  label: Knowledge project interrupted and manuscripts lost
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes documentation history and manuscript loss, not a mythic
+    motif.
+  cautions: Preserve only as provenance or editorial-history metadata, not for Pattern
+    Explorer motif queries.
+  suggested_aliases:
+  - lost_manuscripts_interrupt_knowledge_project
+  - interrupted_documentation_project
+  - manuscript_loss_as_research_history
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knowledge-seeking-expedition-among-northern-peoples
+  motif_id: knowledge_seeking_expedition_among_northern_peoples
+  label: Knowledge-seeking expedition among northern peoples
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe a quest for knowledge, ethnographic travel,
+    or research context rather than a narrative motif.
+  cautions: If the passage is a narrative quest, hero_journey or sacred_knowledge
+    may apply; if it describes collectors or cultural documentation, exclude as meta-textual.
+  suggested_aliases:
+  - expedition_in_search_of_knowledge
+  - journey_to_acquire_knowledge
+  - knowledge_quest_among_northern_peoples
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.knowledge-transmitted-through-play
+  motif_id: knowledge_transmitted_through_play
+  label: knowledge transmitted through play
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Play functions as a medium for transmitting practical, sacred, or transformative
+    knowledge.
+  cautions: May be an ethnographic educational practice rather than a mythic motif;
+    if the playful contest or game is central, a more specific play/game group might
+    be needed later.
+  suggested_aliases:
+  - learning_through_play
+  - play_as_knowledge_transmission
+  - knowledge_taught_by_play
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use 'knowledge' broadly; placements distinguish sacred
+  knowledge motifs from meta-textual transmission or documentation history.
+- Single-occurrence and culturally specific labels should remain provisional until
+  source passages confirm narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed especially for
+    context-dependent knowledge and expedition labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1356
+  input_sha256: db7fe8152b3934115002ebaf6aab3a41e7ba21ad5e7e36d16c0373f6f44e3ee1
+

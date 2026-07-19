@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0779
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-messenger
+  motif_id: divine_messenger
+  label: Divine messenger
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: high
+  rationale: A divine messenger is an agent of sacred powers acting in human or cosmic
+    affairs, already represented in the divine_intervention group aliases and children.
+  cautions: Broad role label; preserve whether the passage emphasizes command, warning,
+    guidance, dream, or theophany.
+  suggested_aliases:
+  - divine_messenger
+  - divine_messenger_announces_command
+  - angelic_messenger_and_guardian_functions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-messenger-gives-pre-battle-warning
+  motif_id: divine_messenger_gives_pre_battle_warning
+  label: Divine messenger gives pre-battle warning
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A messenger delivering a warning before battle is divine guidance that
+    redirects human action.
+  cautions: Could also support prophecy_divination or divine_warrior if the warning
+    functions mainly as omen or battlefield aid; occurrence is single and specific.
+  suggested_aliases:
+  - divine_messenger_gives_pre_battle_warning
+  - divine_warning_before_battle
+  - divine_messenger_announces_command
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-messenger-incites-a-warrior-to-attack
+  motif_id: divine_messenger_incites_a_warrior_to_attack
+  label: Divine messenger incites a warrior to attack
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: The key function is divine incitement of a combatant, matching existing
+    divine_warrior aliases for divinely prompted warriors entering battle.
+  cautions: If the passage emphasizes the messenger role more than battle outcome,
+    divine_intervention is a suitable secondary mapping.
+  suggested_aliases:
+  - divine_messenger_incites_a_warrior_to_attack
+  - divinely_prompted_warrior_enters_battle
+  - divine_incitement_of_a_warrior_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-messenger-traverses-elemental-regions
+  motif_id: divine_messenger_traverses_elemental_regions
+  label: Divine messenger traverses elemental regions
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A messenger crossing elemental regions is a supernatural agent moving
+    between realms to fulfill divine action.
+  cautions: May belong with ascent, descent, or axis_mundi if the route through worlds
+    is the focus; label alone does not show transformative journey.
+  suggested_aliases:
+  - divine_messenger_traverses_elemental_regions
+  - divine_messenger_crosses_realms
+  - messenger_between_worlds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-messenger-urges-a-timely-attack
+  motif_id: divine_messenger_urges_a_timely_attack
+  label: divine messenger urges a timely attack
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on supernatural prompting of a warrior action in battle,
+    already close to divine incitement of a warrior in battle.
+  cautions: Could be merged with divine_messenger_incites_a_warrior_to_attack as a
+    near-duplicate unless timing is narratively important.
+  suggested_aliases:
+  - divine_messenger_urges_a_timely_attack
+  - divine_messenger_incites_a_warrior_to_attack
+  - divinely_prompted_warrior_enters_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-mind-enclosed-in-bodily-form
+  motif_id: divine_mind_enclosed_in_bodily_form
+  label: divine mind enclosed in bodily form
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The body enclosing divine mind fits the interior mystical anthropology
+    already represented by body-as-temporary-dwelling and body/soul liberation themes.
+  cautions: Hermetic philosophical wording may be doctrinal abstraction rather than
+    a narrative motif; review against sacred_knowledge or annihilation_union if the
+    passage stresses gnosis or dissolution of embodied separateness.
+  suggested_aliases:
+  - divine_mind_enclosed_in_bodily_form
+  - body_as_temporary_dwelling
+  - body_as_tomb_or_shell_imprisoning_soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-music-as-cosmic-harmony
+  motif_id: divine_music_as_cosmic_harmony
+  label: divine music as cosmic harmony
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Music or sound expressing supernatural cosmic order belongs with music
+    and sound as sacred power.
+  cautions: If the passage is philosophical cosmology rather than music acting as
+    force, sacred_knowledge or cosmic_origin may be better secondary mappings.
+  suggested_aliases:
+  - divine_music_as_cosmic_harmony
+  - music_as_cosmic_harmony
+  - sacred_music_draws_celestial_bodies_downward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-myth-explained-as-river-land-and-sea-interaction
+  motif_id: divine_myth_explained_as_river_land_and_sea_interaction
+  label: Divine myth explained as river, land, and sea interaction
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes an interpretive explanation of a divine myth as natural
+    interaction, not a narrative motif itself.
+  cautions: Preserve as commentary or interpretive provenance; if the source narrative
+    itself personifies river, land, or sea, index that separate motif under cosmic_origin,
+    sacred_waters, or divine_intervention.
+  suggested_aliases:
+  - divine_myth_explained_as_river_land_and_sea_interaction
+  - naturalistic_explanation_of_divine_myth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-name-and-splendor-covering-the-land
+  motif_id: divine_name_and_splendor_covering_the_land
+  label: Divine name and splendor covering the land
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Divine splendor spreading across land suggests visible manifestation
+    of sacred presence and glory.
+  cautions: If the phrase is hymnic praise rather than an event of manifestation,
+    sacred_song or sacred_knowledge may fit better; single occurrence and poetic wording
+    warrant review.
+  suggested_aliases:
+  - divine_name_and_splendor_covering_the_land
+  - divine_splendor_covering_the_land
+  - manifest_divine_glory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-name-as-ambrosial-fruit-from-a-tree
+  motif_id: divine_name_as_ambrosial_fruit_from_a_tree
+  label: divine name as ambrosial fruit from a tree
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The divine name is figured as nourishing ambrosial fruit, aligning with
+    sacred food or substance that conveys spiritual vitality.
+  cautions: Could also map to sacred_knowledge if the emphasis is remembrance or recitation
+    of the divine name; do not force sacred_tree_axis unless the tree functions as
+    cosmic axis or sacred center.
+  suggested_aliases:
+  - divine_name_as_ambrosial_fruit_from_a_tree
+  - divine_name_as_nourishing_fruit
+  - ambrosial_divine_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several messenger labels are near-duplicates; consider consolidating granular battle-incitement
+  variants after source review.
+- Labels with philosophical or hymnic wording may be doctrinal metaphors rather than
+  recurring narrative motifs and should be checked against passage evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no transmission claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0779
+  input_sha256: 72cf6882e17ece8f78e94fe24f81a7fd69d8e796deedccca004cc43cdb097c75
+

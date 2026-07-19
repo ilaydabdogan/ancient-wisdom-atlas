@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2086
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-performing-a-human-like-gesture
+  motif_id: animal_performing_a_human_like_gesture
+  label: animal performing a human-like gesture
+  occurrences: 1
+  traditions:
+  - maya_quiche
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label only marks an animal acting human-like, without enough function
+    to distinguish fable, omen, transformation, or passage detail.
+  cautions: Single occurrence; may be too generic or contextual unless the gesture
+    has narrative force.
+  suggested_aliases:
+  - animal_human_like_gesture
+  - anthropomorphic_animal_gesture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-pleads-for-life-and-is-spared
+  motif_id: animal_pleads_for_life_and_is_spared
+  label: Animal pleads for life and is spared
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Matches the existing animal-pleading survival/fable pattern already parked
+    under trickster as persuasive escape from death.
+  cautions: If the passage emphasizes mercy or moral law rather than animal strategy,
+    covenant or divine_judgment may be secondary.
+  suggested_aliases:
+  - animal_pleads_usefulness_to_avoid_death
+  - animal_supplication_for_life
+  - animal_spared_after_plea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-pleads-for-life-by-citing-usefulness
+  motif_id: animal_pleads_for_life_by_citing_usefulness
+  label: Animal pleads for life by citing usefulness
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: alias
+  confidence: high
+  rationale: This is essentially the existing child label animal_pleads_usefulness_to_avoid_death
+    under trickster.
+  cautions: Preserve the fable-like usefulness argument as evidence detail; not all
+    animal speech is trickster action.
+  suggested_aliases:
+  - animal_pleads_usefulness_to_avoid_death
+  - animal_pleads_for_life_and_is_spared
+  - animal_plea_by_usefulness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-polity-under-royal-predation
+  motif_id: animal_polity_under_royal_predation
+  label: animal polity under royal predation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe an animal fable about predatory kingship, but
+    could also be a political allegory rather than a stable motif.
+  cautions: Needs source context to decide between trickster/fable, royal_legitimacy,
+    divine_judgment, or exclusion as interpretive abstraction.
+  suggested_aliases:
+  - animal_kingdom_under_predatory_rule
+  - predatory_kingship_among_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-power-charm-made-from-fearless-small-bird
+  motif_id: animal_power_charm_made_from_fearless_small_bird
+  label: Animal-power charm made from fearless small bird
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An animal-derived charm could fit sacred_treasures or sacred_law, but
+    the culturally specific ritual meaning is not clear from the label alone.
+  cautions: Culturally sensitive animal-power terminology and single occurrence require
+    evidence review; do not flatten into generic power object without context.
+  suggested_aliases:
+  - animal_power_charm
+  - fearless_bird_power_charm
+  - bird_charm_conferring_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-power-invocation-for-healing
+  motif_id: animal_power_invocation_for_healing
+  label: Animal-power invocation for healing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif concerns healing through invoked animal power, but current
+    groups do not cleanly separate animal spirit medicine from divine_intervention
+    or sacred_law.
+  cautions: Culturally sensitive ritual-healing context; verify whether animal agency,
+    medicine rite, or sacred speech is central.
+  suggested_aliases:
+  - animal_power_healing_invocation
+  - healing_by_animal_power
+  - animal_spirit_healing_invocation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-power-renders-labour-vain
+  motif_id: animal_power_renders_labour_vain
+  label: animal power renders labour vain
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to know whether animal power is curse, trickster
+    disruption, divine intervention, or moral reversal.
+  cautions: Single occurrence; likely needs passage evidence before indexing as a
+    motif.
+  suggested_aliases:
+  - animal_power_frustrates_labor
+  - animal_agency_makes_work_futile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-powered-adversaries-in-conflict
+  motif_id: animal_powered_adversaries_in_conflict
+  label: Animal-powered adversaries in conflict
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve combatants empowered by animal spirits, but no existing
+    group clearly captures this without losing ritual and cultural specificity.
+  cautions: Review source context carefully; may map to divine_warrior, sacred_combat,
+    shapeshifter, or a future animal-power group depending on evidence.
+  suggested_aliases:
+  - animal_empowered_adversaries
+  - animal_power_in_conflict
+  - combatants_with_animal_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-predator-simile-for-encirclement-and-rescue
+  motif_id: animal_predator_simile_for_encirclement_and_rescue
+  label: animal-predator simile for encirclement and rescue
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase describes a literary simile rather than a recurring narrative
+    motif or symbolic animal role.
+  cautions: If the passage has an actual animal rescue or predator episode, preserve
+    that separately; this generated label appears rhetorical.
+  suggested_aliases:
+  - predator_simile_for_encirclement
+  - animal_simile_for_rescue_scene
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-presence-entering-the-hero
+  motif_id: animal_presence_entering_the_hero
+  label: Animal presence entering the hero
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may indicate spirit possession, animal empowerment, transformation,
+    or tutelary intervention, and cannot be placed confidently from label alone.
+  cautions: Culturally sensitive spiritual-agency motif; review whether the animal
+    presence is a helper, possessing force, medicine power, or identity transformation.
+  suggested_aliases:
+  - animal_spirit_enters_hero
+  - animal_power_entering_hero
+  - hero_indwelt_by_animal_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch involve culturally specific animal-power or animal-spirit
+  concepts. Human review should check source evidence before collapsing them into
+  generic sacred_treasures, divine_intervention, or shapeshifter groups.
+- Animal fable survival labels can provisionally sit under trickster where the existing
+  taxonomy already contains animal_pleads_usefulness_to_avoid_death, but broader animal-personhood
+  or animal-polity motifs may need a future group if they recur.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; culturally specific animal-power items
+    require source-sensitive review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2086
+  input_sha256: 8c5e1c5be76ef6c5bcd668b46dea70c379b329d7c5f7f372a226890956797353
+

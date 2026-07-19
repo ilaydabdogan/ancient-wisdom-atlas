@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0208
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.guardian-of-unborn-or-unbaptized-child-souls
+  motif_id: guardian_of_unborn_or_unbaptized_child_souls
+  label: Guardian of unborn or unbaptized child-souls
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: role_variant
+  confidence: low
+  rationale: A guardian of child-souls belongs near postmortem passage or soul care,
+    but the label is culturally and doctrinally specific.
+  cautions: Single occurrence; may reflect later Christianized or folkloric classification
+    rather than a broad Norse motif. Review source context before indexing.
+  suggested_aliases:
+  - guardian_of_child_souls
+  - guardian_of_unbaptized_child_souls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-spirit-acquired-through-dream-or-vision
+  motif_id: guardian_spirit_acquired_through_dream_or_vision
+  label: Guardian spirit acquired through dream or vision
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The taxonomy already places tutelary or guardian spirit functions under
+    divine_intervention; dream acquisition can be secondary to dream_and_vision.
+  cautions: Culturally specific guardian-spirit traditions should be reviewed carefully;
+    do not flatten vision-quest or local initiation contexts.
+  suggested_aliases:
+  - guardian_spirit_received_in_dream
+  - dream_acquired_tutelary_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-spirit-as-supernatural-revealer
+  motif_id: guardian_spirit_as_supernatural_revealer
+  label: guardian spirit as supernatural revealer
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A guardian spirit that reveals hidden knowledge fits tutelary divine
+    guidance, with sacred_knowledge as a related function.
+  cautions: If passage emphasizes knowledge transmission over protection, sacred_knowledge
+    or prophecy_divination may be stronger secondary facets.
+  suggested_aliases:
+  - tutelary_spirit_as_revealer
+  - guardian_spirit_reveals_hidden_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-spirit-assigned-at-maturity
+  motif_id: guardian_spirit_assigned_at_maturity
+  label: guardian spirit assigned at maturity
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Assignment of a guardian spirit at maturity marks a rite-of-passage or
+    status transformation.
+  cautions: Could also map to divine_intervention through tutelary-spirit function;
+    confirm whether the source describes an initiation rite, vision quest, or social
+    maturity custom.
+  suggested_aliases:
+  - tutelary_spirit_assigned_at_maturity
+  - guardian_spirit_at_initiation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-spirit-associated-with-a-religious-founder
+  motif_id: guardian_spirit_associated_with_a_religious_founder
+  label: guardian spirit associated with a religious founder
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A guardian spirit linked to a founder could be tutelary divine guidance
+    or founder-legitimation, but the label is too contextual to place confidently.
+  cautions: Review Zoroastrian terminology and source evidence; may involve fravashi,
+    prophetic mission, or doctrinal cosmology rather than a generic guardian-spirit
+    motif.
+  suggested_aliases:
+  - founder_guardian_spirit
+  - tutelary_spirit_of_religious_founder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-spirit-grants-rescue-power
+  motif_id: guardian_spirit_grants_rescue_power
+  label: guardian spirit grants rescue power
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A guardian spirit granting rescue power is a tutelary intervention that
+    enables protection or deliverance.
+  cautions: If the passage focuses on acquired shamanic ability or initiation, initiation
+    or sacred_knowledge may be relevant secondary mappings.
+  suggested_aliases:
+  - tutelary_spirit_grants_rescue_power
+  - guardian_spirit_bestows_rescue_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-spirit-image-in-animal-form
+  motif_id: guardian_spirit_image_in_animal_form
+  label: Guardian-spirit image in animal form
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Animal-form representation of a guardian spirit could be tutelary agency,
+    animal spirit imagery, or a cult object.
+  cautions: Single occurrence; may belong under shapeshifter or sacred_treasures if
+    the image/object has active power. Review for local religious meaning before normalizing.
+  suggested_aliases:
+  - animal_form_guardian_spirit
+  - guardian_spirit_animal_image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-spirit-journey-for-distant-knowledge
+  motif_id: guardian_spirit_journey_for_distant_knowledge
+  label: Guardian spirit journey for distant knowledge
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is supernatural acquisition of distant knowledge through
+    a spirit agent.
+  cautions: May also involve divine_intervention, shamanic journey, or otherworld
+    travel; review whether the journey itself or the knowledge gained is primary.
+  suggested_aliases:
+  - guardian_spirit_fetches_distant_knowledge
+  - tutelary_spirit_journey_for_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-spirit-of-cultivated-plant
+  motif_id: guardian_spirit_of_cultivated_plant
+  label: Guardian spirit of cultivated plant
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A plant guardian spirit could fit tutelary divine agency, agricultural
+    sacred time, or crop-spirit symbolism.
+  cautions: Culturally sensitive and under-specified; do not collapse into generic
+    guardian spirits if the source concerns maize/crop deity, ancestor, or seasonal
+    ritual.
+  suggested_aliases:
+  - cultivated_plant_guardian_spirit
+  - crop_guardian_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.guardian-spirits
+  motif_id: guardian_spirits
+  label: Guardian spirits
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: broader_label
+  confidence: medium
+  rationale: The existing divine_intervention group already includes tutelary_spirit
+    and guardian functions.
+  cautions: Broad label; for Zoroastrian material, review whether this specifically
+    refers to fravashis, ancestor-like protectors, or doctrinal soul components.
+  suggested_aliases:
+  - tutelary_spirits
+  - protective_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence guardian-spirit labels; existing divine_intervention/tutelary_spirit
+  coverage is usually sufficient, but culturally specific evidence should be reviewed
+  before broad indexing.
+- Several labels may have secondary mappings to initiation, dream_and_vision, sacred_knowledge,
+  sacred_time, or afterlife_passage depending on passage function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; guardian-spirit terminology spans culturally
+    specific tutelary, ancestral, initiatory, and doctrinal categories.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0208
+  input_sha256: 45af4600fd31d8d952f0a52d9805d6a45499f72825b4d877081c12c1b6720a76
+

@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0603
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-crossing-to-ceremonial-ground
+  motif_id: ritual_crossing_to_ceremonial_ground
+  label: Ritual crossing to ceremonial ground
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual crossing into ceremonial space marks a threshold passage and
+    status/ritual transition.
+  cautions: Could fit sacred_waters, hero_journey, or sacred_geography_pilgrimage
+    if the crossing medium or destination is central; single occurrence needs source
+    review.
+  suggested_aliases:
+  - ceremonial_ground_crossing
+  - ritual_threshold_crossing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-custodianship-of-sacred-objects-or-substances
+  motif_id: ritual_custodianship_of_sacred_objects_or_substances
+  label: Ritual custodianship of sacred objects or substances
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on ritual care of sacred power objects, with substances
+    as possible ritual contents or media.
+  cautions: If the substance itself is primary, sacred_substance may be better; if
+    the object is a vessel or container, sacred_vessel may be a secondary mapping.
+  suggested_aliases:
+  - custodianship_of_sacred_objects
+  - ritual_care_of_sacred_objects_and_substances
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-flight-or-rapid-departure-after-sacrifice
+  motif_id: ritual_flight_or_rapid_departure_after_sacrifice
+  label: Ritual flight or rapid departure after sacrifice
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The rapid departure is part of a sacrificial rite and should be indexed
+    by the ritual action rather than as ordinary travel.
+  cautions: Preserve the post-sacrifice flight detail; could overlap with ritual_expulsion
+    if the departure removes danger, impurity, or transferred harm.
+  suggested_aliases:
+  - post_sacrifice_ritual_flight
+  - ritual_departure_after_sacrifice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-game-as-model-of-warfare-and-conquest
+  motif_id: ritual_game_as_model_of_warfare_and_conquest
+  label: ritual game as model of warfare and conquest
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual game modeling warfare or conquest belongs with ritually framed
+    combat and conflict order.
+  cautions: If the passage emphasizes play, divination, or social instruction more
+    than warfare, human review may choose sacred_law, prophecy_divination, or exclude
+    as contextual detail.
+  suggested_aliases:
+  - ritual_game_modeling_warfare
+  - game_as_ritual_warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-hierarchy-orders-kinship-rank-virtue-and-age
+  motif_id: ritual_hierarchy_orders_kinship_rank_virtue_and_age
+  label: ritual hierarchy orders kinship, rank, virtue, and age
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif describes ritualized social order linking kinship, rank, virtue,
+    and age, fitting sacred law and social obligation.
+  cautions: May be an abstract ethical doctrine rather than a narrative motif; retain
+    as conceptual/ritual ordering if source evidence supports recurrence.
+  suggested_aliases:
+  - ritual_hierarchy_as_social_order
+  - rites_order_kinship_rank_and_age
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-journey-carrying-a-grandchild
+  motif_id: ritual_journey_carrying_a_grandchild
+  label: ritual journey carrying a grandchild
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual travel, kinship, and a specific carried grandchild
+    without enough function to place securely.
+  cautions: Could be initiation, miraculous_child, sacred_law/kinship obligation,
+    or a passage-specific ceremonial detail; source context is needed.
+  suggested_aliases:
+  - grandchild_carried_on_ritual_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-kinship-through-united-hearts
+  motif_id: ritual_kinship_through_united_hearts
+  label: ritual kinship through united hearts
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual act establishing kinship through united hearts functions as
+    a sacred bond or covenantal relationship.
+  cautions: Could also relate to sacred_love if affective union is central, or sacred_law
+    if it establishes social obligation; culturally specific meaning should be reviewed.
+  suggested_aliases:
+  - ritual_creation_of_kinship_bond
+  - united_hearts_as_ritual_kinship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-knowledge-transmitted-through-question-and-answer
+  motif_id: ritual_knowledge_transmitted_through_question_and_answer
+  label: ritual knowledge transmitted through question and answer
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif centers on formal transmission of sacred knowledge through
+    a ritualized question-and-answer structure.
+  cautions: If mainly a textual catechism or editorial form rather than in-world ritual
+    transmission, consider _meta_textual or storytelling_as_power.
+  suggested_aliases:
+  - question_and_answer_transmission_of_ritual_knowledge
+  - catechetical_sacred_knowledge_transmission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-litany-of-worshipped-fravashis
+  motif_id: ritual_litany_of_worshipped_fravashis
+  label: Ritual litany of worshipped Fravashis
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fravashi veneration through litany aligns with ritual honoring or invocation
+    of ancestral/dead-related spiritual figures.
+  cautions: Fravashis are not simply dead ancestors in all contexts; if the litany
+    is primarily worship formula or textual catalogue, sacred_exchange or _meta_textual
+    may be more appropriate.
+  suggested_aliases:
+  - litany_of_fravashis
+  - fravashi_veneration_litany
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-memory-of-a-northern-journey-shaping-food-prohibitions
+  motif_id: ritual_memory_of_a_northern_journey_shaping_food_prohibitions
+  label: Ritual memory of a northern journey shaping food prohibitions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The active function is food prohibition within ritual law, explained
+    by remembered sacred migration or journey.
+  cautions: May also support hero_journey or etiological tradition if the northern
+    journey is central; avoid reducing culturally specific migration memory to generic
+    taboo without evidence review.
+  suggested_aliases:
+  - journey_memory_shaping_food_taboo
+  - migration_memory_as_food_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and culturally specific; placements should
+  be treated as provisional indexing aids, not claims of equivalence across traditions.
+- The review bucket is journey-focused, but many labels use travel language as part
+  of ritual, law, sacrifice, or sacred-bond formation rather than as hero-journey
+  structure.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for Native
+    American Southwest and Zoroastrian ritual-specific labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0603
+  input_sha256: a29630d3b42673674f72306c1ad1149d94b1869c37187fefb433c3ff4172053c
+

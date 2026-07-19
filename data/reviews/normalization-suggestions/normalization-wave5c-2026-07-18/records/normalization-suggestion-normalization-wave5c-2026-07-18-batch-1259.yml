@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1259
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bird-cries-rendered-as-human-speech
+  motif_id: bird_cries_rendered_as_human_speech
+  label: Bird cries rendered as human speech
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: Animal cries interpreted as human speech concern meaningful utterance,
+    but the function is unclear from the label alone.
+  cautions: Could be animal omen, translation device, fable speech, etiological naming,
+    or passage-specific wording; single occurrence needs source review.
+  suggested_aliases:
+  - animal_cries_as_human_speech
+  - bird_speech_interpreted_as_language
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bird-cry-functions-as-bird-name
+  motif_id: bird_cry_functions_as_bird_name
+  label: Bird cry functions as bird name
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an etiological or linguistic naming detail rather
+    than a reusable symbolic motif.
+  cautions: If the source treats the cry-name as sacred speech, omen, or origin of
+    language, reconsider under sacred_knowledge or storytelling_as_power.
+  suggested_aliases:
+  - onomatopoetic_bird_name
+  - bird_call_as_name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bird-cry-treated-as-significant-speech
+  motif_id: bird_cry_treated_as_significant_speech
+  label: Bird cry treated as significant speech
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: A bird cry treated as meaningful may function as omen or divinatory sign,
+    but the label does not specify omen use.
+  cautions: Could instead be animal speech, sacred knowledge, ordinary fable convention,
+    or an over-specific evidence note.
+  suggested_aliases:
+  - bird_call_as_omen
+  - bird_cry_as_meaningful_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bird-like-loss-and-recovery-of-human-speech
+  motif_id: bird_like_loss_and_recovery_of_human_speech
+  label: bird-like loss and recovery of human speech
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: Loss and recovery of human speech with bird-like qualities may indicate
+    transformation or liminal animalization.
+  cautions: Could also be a speech-restoration motif, illness/healing episode, or
+    passage-specific description; source evidence is needed before mapping.
+  suggested_aliases:
+  - loss_and_recovery_of_human_speech
+  - birdlike_speech_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bird-omen-or-rejoicing-song
+  motif_id: bird_omen_or_rejoicing_song
+  label: Bird omen or rejoicing song
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: The label explicitly includes omen, but also offers rejoicing song as
+    an alternate function.
+  cautions: 'Split or review source context: omen belongs with prophecy/divination,
+    while song may belong with enchanting_music or ritual festival evidence.'
+  suggested_aliases:
+  - bird_omen
+  - bird_rejoicing_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bird-song-and-dance-preparation-for-race
+  motif_id: bird_song_and_dance_preparation_for_race
+  label: Bird-song and dance preparation for race
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a highly contextual performance detail tied to a race
+    episode rather than a broad motif.
+  cautions: If the song has supernatural efficacy or ritual race function across sources,
+    review under enchanting_music or initiation.
+  suggested_aliases:
+  - bird_song_dance_before_race
+  - ritual_song_preparation_for_race
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bird-song-cycle-performed-at-festival
+  motif_id: bird_song_cycle_performed_at_festival
+  label: bird-song cycle performed at festival
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A song cycle performed at a festival is best treated as ritual performance
+    within sacred time if the festival context is central.
+  cautions: Culturally specific song cycles may require sensitive review; if emphasis
+    is sound power rather than calendar rite, enchanting_music may be a secondary
+    fit.
+  suggested_aliases:
+  - festival_bird_song_cycle
+  - ritual_bird_song_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bird-song-tied-to-bodily-features
+  motif_id: bird_song_tied_to_bodily_features
+  label: bird song tied to bodily features
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is too elliptical and body-feature-specific to support a stable
+    motif placement.
+  cautions: If the passage explains bodily morphology through song or speech, review
+    as etiology or transformation; otherwise preserve only as evidence detail.
+  suggested_aliases:
+  - bird_song_explains_bodily_features
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birds-named-as-danger-to-the-bride
+  motif_id: birds_named_as_danger_to_the_bride
+  label: Birds named as danger to the bride
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: The bride context may connect to marriage danger or bride ordeal, but
+    the function of the birds is unclear.
+  cautions: Could be omen, taboo warning, animal threat, or episode-specific listing;
+    do not map to love/marriage without passage evidence.
+  suggested_aliases:
+  - bird_danger_to_bride
+  - ominous_birds_threaten_bride
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-name-from-maternal-suffering-followed-by-paternal-renaming
+  motif_id: birth_name_from_maternal_suffering_followed_by_paternal_renaming
+  label: Birth-name from maternal suffering followed by paternal renaming
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: over_specific_label
+  confidence: low
+  rationale: The birth and naming context may belong with sacred birth, but the label
+    is a very specific naming sequence.
+  cautions: Could be primarily etymology, lineage legitimation, family narrative,
+    or textual interpretation rather than a recurring sacred-birth motif.
+  suggested_aliases:
+  - birth_naming_from_maternal_suffering
+  - paternal_renaming_after_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine bird vocalization, omen, song, and naming; source context
+  is needed before creating any bird-speech subgroup.
+- Single-occurrence, highly contextual performance or naming details should generally
+  remain evidence notes unless they recur across traditions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; bird-speech and bird-song labels are ambiguous
+    between omen, ritual performance, animal speech, and passage artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1259
+  input_sha256: c197dc7922e2c0ef3c6bc66d7061be1eeaf41ef234f5366b60bf5b9e420f774a
+

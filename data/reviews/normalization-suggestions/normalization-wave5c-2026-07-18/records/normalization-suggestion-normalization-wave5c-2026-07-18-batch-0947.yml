@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0947
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.perpetual-lamp-offering
+  motif_id: perpetual_lamp_offering
+  label: Perpetual lamp offering
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A maintained lamp offering is a ritual act of giving that sustains relation
+    with sacred powers or sacred presence.
+  cautions: Could also relate to sacred_fire if the lamp's flame or light is the main
+    symbolic focus; single occurrence.
+  suggested_aliases:
+  - continuous_lamp_offering
+  - perpetual_light_offering
+  - lamp_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perpetual-sacred-fire
+  motif_id: perpetual_sacred_fire
+  label: Perpetual sacred fire
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: An ever-burning sacred fire fits the existing sacred_fire group as divine
+    presence, ritual hearth, or mediating flame.
+  cautions: If the passage emphasizes civic office, priesthood, or state continuity,
+    royal_legitimacy or sacred_law may be secondary.
+  suggested_aliases:
+  - eternal_sacred_fire
+  - ever_burning_sacred_fire
+  - perpetual_ritual_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perpetual-sacred-fire-in-an-oak-grove
+  motif_id: perpetual_sacred_fire_in_an_oak_grove
+  label: Perpetual sacred fire in an oak grove
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The recurring motif is the maintained sacred fire; the oak grove is likely
+    local setting detail.
+  cautions: If the grove/tree setting functions cosmologically, axis_mundi or sacred_tree_axis
+    may be relevant; comparative label may be a synthesis artifact.
+  suggested_aliases:
+  - perpetual_sacred_fire_in_grove
+  - ever_burning_fire_in_sacred_grove
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perpetual-sacred-hearth-fire
+  motif_id: perpetual_sacred_hearth_fire
+  label: Perpetual sacred hearth fire
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: A permanent hearth flame is a clear ritual and domestic-civic form of
+    sacred fire.
+  cautions: If focused on household or civic law rather than flame symbolism, sacred_law
+    or royal_legitimacy may be secondary.
+  suggested_aliases:
+  - ever_burning_hearth_fire
+  - eternal_hearth_fire
+  - perpetual_ritual_hearth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perpetual-virgin-goddesses-beyond-erotic-compulsion
+  motif_id: perpetual_virgin_goddesses_beyond_erotic_compulsion
+  label: Perpetual virgin goddesses beyond erotic compulsion
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns divine sexual status and autonomy, but no current
+    group cleanly covers virgin goddesses or erotic immunity.
+  cautions: Could belong with mother_goddess, sacred_love as contrast, sacred_law
+    if ritual purity is central, or be an over-specific interpretive label; culturally
+    sensitive gender framing needs review.
+  suggested_aliases:
+  - virgin_goddess_autonomy
+  - divine_virginity_beyond_erotic_compulsion
+  - chaste_goddesses_beyond_desire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.perpetuation-of-a-name-in-a-god-s-house
+  motif_id: perpetuation_of_a_name_in_a_god_s_house
+  label: Perpetuation of a name in a god's house
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: Preserving a name in a divine house functions as memorialization and
+    postmortem social-sacred continuity.
+  cautions: If the emphasis is temple offering or reciprocity rather than memorial
+    survival, sacred_exchange may be secondary; not necessarily heroic.
+  suggested_aliases:
+  - name_preserved_in_divine_house
+  - memorial_name_in_temple
+  - perpetuation_of_name_in_temple
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecuted-petitioner-seeks-divine-protection
+  motif_id: persecuted_petitioner_seeks_divine_protection
+  label: Persecuted petitioner seeks divine protection
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A vulnerable petitioner appealing for divine protection fits direct sacred
+    aid in human distress.
+  cautions: If structured as supplication or legal appeal, covenant or sacred_exchange
+    may be secondary; source evidence needed for actual divine response.
+  suggested_aliases:
+  - petitioner_seeks_divine_protection
+  - supplicant_seeks_divine_protection
+  - persecuted_supplicant_appeals_to_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persecution-of-associates-of-the-holy-figure
+  motif_id: persecution_of_associates_of_the_holy_figure
+  label: Persecution of associates of the holy figure
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Persecution of followers may be martyrdom, opposition to a prophet, social
+    conflict, or episode-specific hagiographic detail.
+  cautions: No clear existing group without evidence of divine intervention, sacrifice,
+    sacred law, or judgment; single occurrence.
+  suggested_aliases:
+  - persecution_of_holy_figure_s_associates
+  - followers_of_holy_figure_persecuted
+  - persecution_of_saintly_companions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persistence-of-sacred-traditions-during-cultural-change
+  motif_id: persistence_of_sacred_traditions_during_cultural_change
+  label: persistence of sacred traditions during cultural change
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as historical or interpretive commentary about cultural
+    continuity rather than a narrative motif.
+  cautions: Could be retained as provenance or cultural-history metadata; do not use
+    as evidence of motif transmission in pattern queries.
+  suggested_aliases:
+  - sacred_traditions_persist_during_cultural_change
+  - continuity_of_sacred_tradition
+  - ritual_continuity_during_cultural_change
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.persistent-divine-call-despite-rejection
+  motif_id: persistent_divine_call_despite_rejection
+  label: Persistent divine call despite rejection
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A repeated divine summons despite refusal fits the seeker’s transformative
+    call within a mystical path.
+  cautions: Could map to initiation or divine_call if the passage emphasizes commissioning
+    rather than mystical longing; single occurrence.
+  suggested_aliases:
+  - divine_call_despite_rejection
+  - repeated_divine_summons
+  - persistent_sacred_call
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review and do not imply taxonomy edits
+  or transmission claims.
+- Several labels in this batch are single-occurrence ritual or interpretive labels;
+  preserve local evidence where over-specific.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Focused on broad normalization groups; marked ambiguous gender/persecution/history
+    labels for review or exclusion.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0947
+  input_sha256: 8b5ea917f843ffef8bc46cdf4436ae5ee54c58e97a6a2abfd984e696bba5db35
+

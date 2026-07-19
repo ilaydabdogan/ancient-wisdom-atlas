@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0151
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dressing-in-finery-for-intended-death
+  motif_id: dressing_in_finery_for_intended_death
+  label: Dressing in finery for intended death
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: low
+  rationale: Preparing the body or self for death in finery may be a death-facing
+    ritual or honor practice.
+  cautions: Single occurrence and culturally specific; could instead be heroic funeral,
+    self-sacrifice, social-status display, or passage detail depending on evidence.
+  suggested_aliases:
+  - death_finery
+  - ceremonial_dress_before_death
+  - adornment_for_intended_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drink-before-death
+  motif_id: drink_before_death
+  label: drink before death
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: over_specific_label
+  confidence: low
+  rationale: A drink before death may involve sacred substance, mortality consolation,
+    or mystical preparation.
+  cautions: Too terse to distinguish ritual drink, wine imagery, literal refreshment,
+    or passage artifact; review Sufi context before mapping.
+  suggested_aliases:
+  - pre_death_drink
+  - final_drink_before_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drink-while-alive-because-the-dead-do-not-return
+  motif_id: drink_while_alive_because_the_dead_do_not_return
+  label: drink while alive because the dead do not return
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Closely matches existing wine/drink motifs where drinking responds to
+    mortality and nonreturn of the dead.
+  cautions: Could be mystical wine symbolism rather than literal carpe-diem drinking;
+    preserve mortality phrasing as evidence detail.
+  suggested_aliases:
+  - drink_wine_in_response_to_mortality
+  - wine_as_answer_to_mortality_and_sorrow
+  - mortality_consolation_drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drinking-before-death-after-observing-posthumous-treatment
+  motif_id: drinking_before_death_after_observing_posthumous_treatment
+  label: drinking before death after observing posthumous treatment
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines anticipatory death behavior with knowledge of postmortem
+    treatment.
+  cautions: Highly episode-specific; may belong to ancestor rites, funeral treatment,
+    sacred substance, or social commentary depending on source context.
+  suggested_aliases:
+  - pre_death_drinking_after_postmortem_vision
+  - drink_before_death_after_witnessing_funeral_treatment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drowned-dead-appear-as-post-flood-dancing-ghosts
+  motif_id: drowned_dead_appear_as_post_flood_dancing_ghosts
+  label: Drowned dead appear as post-flood dancing ghosts
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The drowned dead remain visible or active after death as ghosts, fitting
+    restless dead or haunting.
+  cautions: Post-flood setting may also support flood_and_renewal if the flood is
+    world-order catastrophe; dancing may be local evidence detail.
+  suggested_aliases:
+  - post_flood_drowned_ghosts
+  - drowned_dead_return_as_ghosts
+  - dancing_ghosts_after_flood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drowned-figure-reports-his-own-death-to-a-shamanic-mediator
+  motif_id: drowned_figure_reports_his_own_death_to_a_shamanic_mediator
+  label: drowned figure reports his own death to a shamanic mediator
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: role_variant
+  confidence: low
+  rationale: A dead figure communicating through a mediator suggests active dead and
+    postmortem contact.
+  cautions: Shamanic mediation may require a more specific spirit-communication or
+    ritual-specialist group; avoid flattening culturally specific practice into generic
+    haunting.
+  suggested_aliases:
+  - dead_report_own_death_to_shaman
+  - drowned_dead_communicates_through_mediator
+  - postmortem_report_to_shamanic_mediator
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drum-and-song-spirit-conjuration
+  motif_id: drum_and_song_spirit_conjuration
+  label: Drum-and-song spirit conjuration
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Music, drum, and song function as ritual sound power to summon or affect
+    spirits.
+  cautions: If the focus is shamanic rite or ancestor contact rather than sound power,
+    divine_intervention, ancestor_rites, or a future spirit-communication group may
+    be better.
+  suggested_aliases:
+  - drum_song_spirit_summoning
+  - ritual_music_spirit_conjuration
+  - song_and_drum_conjure_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drumbeat-prevents-the-dead-spirit-from-returning
+  motif_id: drumbeat_prevents_the_dead_spirit_from_returning
+  label: drumbeat prevents the dead spirit from returning
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rite controls or dismisses a dead spirit, matching ritual management
+    of relations between living and dead.
+  cautions: Sound mechanism also relates to enchanting_music; if framed as protection
+    from haunting, restless_dead_haunting_vengeance may be a secondary mapping.
+  suggested_aliases:
+  - drumbeat_dismisses_dead_spirit
+  - ritual_sound_prevents_return_of_dead
+  - drum_to_keep_dead_from_returning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drunken-river-crossing-ending-in-death
+  motif_id: drunken_river_crossing_ending_in_death
+  label: drunken river crossing ending in death
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: over_specific_label
+  confidence: low
+  rationale: A fatal river crossing involves water as perilous boundary, but intoxication
+    and accident may be local plot details.
+  cautions: Do not map to flood or descent unless the crossing marks transformation
+    or otherworld passage; may be a cautionary anecdote rather than motif.
+  suggested_aliases:
+  - fatal_river_crossing
+  - drunken_water_crossing_death
+  - death_at_river_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dust-eating-darkness-bound-dead
+  motif_id: dust_eating_darkness_bound_dead
+  label: Dust-eating, darkness-bound dead
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label describes conditions of the dead in an underworld or afterlife
+    realm of darkness and dust.
+  cautions: If used as general underworld imagery rather than journey sequence, descent
+    may be a broader secondary mapping; preserve Mesopotamian specificity.
+  suggested_aliases:
+  - dead_eat_dust_in_darkness
+  - dark_underworld_dead_eating_dust
+  - dust_eating_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and culturally specific; recommendations should
+  be checked against passage evidence before being added as durable aliases.
+- Shamanic mediation and spirit-conjuration labels may need culturally careful review
+  rather than automatic normalization under generic haunting or music groups.
+- Water-related death labels should not be treated as flood motifs unless a catastrophe-renewal
+  structure is explicit.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft suggestions generated for normalization review; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0151
+  input_sha256: 5e322e74b153e440b654544538d695f4a468ab7030362158fba15849463611d0
+

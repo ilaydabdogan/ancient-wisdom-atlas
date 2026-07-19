@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1252
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animated-tupilak-sent-to-devour-a-named-target
+  motif_id: animated_tupilak_sent_to_devour_a_named_target
+  label: animated Tupilak sent to devour a named target
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A made or animated harmful being may relate to sacred craft, divine intervention,
+    spirit affliction, or magical attack, but the culturally specific Tupilak context
+    needs review.
+  cautions: Culturally sensitive and single occurrence; avoid flattening into generic
+    monster or craft motif without source evidence.
+  suggested_aliases:
+  - animated_tupilak
+  - sent_tupilak_attack
+  - magically_animated_devouring_agent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animation-of-weapons-in-poetic-speech
+  motif_id: animation_of_weapons_in_poetic_speech
+  label: animation of weapons in poetic speech
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a poetic or rhetorical animation rather
+    than a narrative motif of actual animated weapons.
+  cautions: If the passage presents weapons literally coming alive or acting supernaturally,
+    review instead under sacred_craft, sacred_treasures, or storytelling_as_power.
+  suggested_aliases:
+  - poetic_personification_of_weapons
+  - animated_weapons_as_poetic_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.annual-campaign-notice-against-named-lands-or-cities
+  motif_id: annual_campaign_notice_against_named_lands_or_cities
+  label: Annual campaign notice against named lands or cities
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads as an annalistic or administrative campaign notice tied to
+    named places, not a reusable symbolic or narrative motif.
+  cautions: If the source frames annual campaigning as ritually ordained kingship
+    or sacred time, a secondary human review may consider royal_legitimacy or sacred_time.
+  suggested_aliases:
+  - annalistic_campaign_notice
+  - named_lands_campaign_notice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.anomalous-people-in-a-distant-named-land
+  motif_id: anomalous_people_in_a_distant_named_land
+  label: anomalous people in a distant named land
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could indicate otherworldly geography, ethnographic marvel, moral cosmology,
+    or a place-specific detail; the narrative function is unclear.
+  cautions: Named distant peoples can be culturally sensitive or textual-geographical
+    artifacts; avoid indexing as monster/otherworld without evidence.
+  suggested_aliases:
+  - marvelous_people_in_distant_land
+  - anomalous_distant_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.apotropaic-favorable-speech-toward-a-feared-being
+  motif_id: apotropaic_favorable_speech_toward_a_feared_being
+  label: Apotropaic favorable speech toward a feared being
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is protective speech directed toward a powerful or
+    feared being, fitting performative sacred speech.
+  cautions: May also involve sacred_law if it is a prescribed avoidance or politeness
+    rule; preserve local context and terms.
+  suggested_aliases:
+  - protective_favorable_speech
+  - apotropaic_praise_of_feared_being
+  - speech_to_appease_feared_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appeal-to-authoritative-teaching-for-judgment
+  motif_id: appeal_to_authoritative_teaching_for_judgment
+  label: appeal to authoritative teaching for judgment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: An authoritative teaching used to resolve judgment is a wisdom or sacred-knowledge
+    function.
+  cautions: If the passage emphasizes legal order or moral verdict more than teaching,
+    sacred_law or divine_judgment may be secondary fits.
+  suggested_aliases:
+  - authoritative_teaching_as_judgment_standard
+  - appeal_to_sacred_teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.appeal-to-royal-authority-after-conflicting-counsel
+  motif_id: appeal_to_royal_authority_after_conflicting_counsel
+  label: appeal to royal authority after conflicting counsel
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on royal authority resolving conflict in counsel, a
+    governance and sacred-order function.
+  cautions: Could be a generic court narrative detail; if no sacred kingship, judgment,
+    or moral order is involved, it may be too contextual.
+  suggested_aliases:
+  - royal_arbitration_after_conflicting_counsel
+  - king_resolves_conflicting_counsel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.approaching-darkness-as-a-named-presence
+  motif_id: approaching_darkness_as_a_named_presence
+  label: Approaching darkness as a named presence
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: chaos
+  suggested_group_label: Chaos
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Personified or named darkness can fit the chaos/darkness field as a threatening
+    or pre-ordered presence.
+  cautions: Low confidence because the name may be local personhood, spirit, place,
+    or passage-specific wording; review before broad indexing.
+  suggested_aliases:
+  - personified_approaching_darkness
+  - named_darkness_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aquatic-monster-in-a-named-deep-river-place
+  motif_id: aquatic_monster_in_a_named_deep_river_place
+  label: aquatic monster in a named deep river place
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An aquatic monster may relate to chaos, threshold guardian, serpent guardian,
+    or sacred waters, but the named-place framing may be local geography.
+  cautions: Single occurrence and place-specific; avoid treating all water monsters
+    as flood or serpent motifs without source evidence.
+  suggested_aliases:
+  - water_monster_in_deep_river
+  - aquatic_monster_at_named_river_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.architectural-representation-of-a-named-mountain
+  motif_id: architectural_representation_of_a_named_mountain
+  label: architectural representation of a named mountain
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Architecture representing a sacred mountain fits built forms that model
+    a cosmic center or axis.
+  cautions: If it is only an art-historical description of a named mountain, exclude
+    or keep as evidence detail; confirm sacred-center function.
+  suggested_aliases:
+  - architectural_sacred_mountain_representation
+  - built_model_of_sacred_mountain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and place- or culture-specific; suggested placements
+  should be treated as provisional indexing aids, not taxonomy changes.
+- Do not infer transmission or equivalence from broad placement, especially for Indigenous
+  and Arctic/Inuit culturally specific spirit or monster labels.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 1252; culturally
+    specific and over-contextual labels flagged for human review or exclusion.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1252
+  input_sha256: 491ab52047240b00deb319d4d9449b9a347a90d5815cced6574d666f70b64c97
+

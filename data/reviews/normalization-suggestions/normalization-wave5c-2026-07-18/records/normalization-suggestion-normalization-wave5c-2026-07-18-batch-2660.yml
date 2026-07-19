@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2660
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deflected-weapon-kills-an-unintended-victim
+  motif_id: deflected_weapon_kills_an_unintended_victim
+  label: Deflected weapon kills an unintended victim
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A deflected weapon causing accidental death may be combat reversal, fate,
+    divine judgment, or episode-specific plot mechanics.
+  cautions: Single occurrence; do not map to divine_judgment or death_by_fate without
+    evidence that the death is moralized or fated.
+  suggested_aliases:
+  - accidental_death_by_deflected_weapon
+  - weapon_deflection_kills_unintended_victim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - death_by_fate
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-marked-by-weapon-and-astral-emblem
+  motif_id: deity_marked_by_weapon_and_astral_emblem
+  label: deity marked by weapon and astral emblem
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe divine iconography rather than a narrative motif;
+    weapon and astral signs could indicate divine warrior, sacred treasure, or celestial
+    sovereignty.
+  cautions: Likely iconographic evidence; source context is needed before using in
+    pattern queries.
+  suggested_aliases:
+  - deity_with_weapon_and_astral_emblem
+  - weapon_and_astral_emblem_of_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_treasures
+    - supreme_ruler
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deity-represented-by-contested-emblems
+  motif_id: deity_represented_by_contested_emblems
+  label: deity represented by contested emblems
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as scholarly or iconographic debate about divine emblems
+    rather than a recurring narrative-symbolic motif.
+  cautions: If a passage narrates a contest for divine symbols or authority, reconsider
+    under sacred_treasures or royal_legitimacy.
+  suggested_aliases:
+  - contested_divine_emblems
+  - scholarly_contest_over_deity_emblems
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.delayed-pity-toward-a-magically-transformed-woman
+  motif_id: delayed_pity_toward_a_magically_transformed_woman
+  label: delayed pity toward a magically transformed woman
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core reusable element is magical transformation of a woman, with
+    pity as the episode-specific response.
+  cautions: If the passage emphasizes compassion, punishment, or release from enchantment
+    more than changed form, human review may choose divine_judgment or sacred_love
+    instead.
+  suggested_aliases:
+  - pity_for_transformed_woman
+  - magically_transformed_woman_receives_delayed_pity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demanded-heroic-weapon-becomes-a-fatal-gift
+  motif_id: demanded_heroic_weapon_becomes_a_fatal_gift
+  label: Demanded heroic weapon becomes a fatal gift
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A heroic weapon functioning as a charged gift that brings death fits
+    power-object logic better than general combat.
+  cautions: May also involve sacred_combat or curse_blessing_speech if the fatality
+    depends on battle context, vow, geis, or spoken demand.
+  suggested_aliases:
+  - fatal_gift_of_heroic_weapon
+  - heroic_weapon_as_fatal_gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demon-ancestry-accusation-against-a-warrior
+  motif_id: demon_ancestry_accusation_against_a_warrior
+  label: Demon ancestry accusation against a warrior
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a taunt, lineage stigma, false accusation, or supernatural
+    ancestry motif, and the current groups do not show a clear fit from label alone.
+  cautions: Single occurrence; avoid treating accusation as actual demon ancestry
+    without passage evidence.
+  suggested_aliases:
+  - warrior_accused_of_demon_ancestry
+  - demonic_lineage_accusation_against_warrior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - divine_warrior
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demons-inciting-human-vice-and-violence
+  motif_id: demons_inciting_human_vice_and_violence
+  label: demons inciting human vice and violence
+  occurrences: 1
+  traditions:
+  - gnostic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: Demonic incitement of vice and violence belongs to moral disorder and
+    its sacred evaluation or consequence.
+  cautions: Could fit divine_intervention if emphasis is supernatural agency, or sacred_law
+    if framed as ethical prohibition; Gnostic cosmology may require sensitive source
+    review.
+  suggested_aliases:
+  - demonic_incitement_to_vice
+  - demons_incite_violence_and_moral_disorder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demons-sounding-from-weapons
+  motif_id: demons_sounding_from_weapons
+  label: Demons sounding from weapons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Weapons that emit demonic or supernatural sound function as charged power
+    objects in combat.
+  cautions: If the sound itself compels fear or action, enchanting_music or divine_warrior
+    may be useful secondary mappings.
+  suggested_aliases:
+  - supernatural_sounds_from_weapons
+  - demonic_weapon_sounds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - enchanting_music
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demythologized-heroic-saga-under-christianized-retelling
+  motif_id: demythologized_heroic_saga_under_christianized_retelling
+  label: Demythologized heroic saga under Christianized retelling
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes reception, redaction, or interpretive framing of
+    a saga rather than a motif within the narrative.
+  cautions: Preserve as textual-provenance metadata if useful; do not use as evidence
+    of transmission or motif borrowing.
+  suggested_aliases:
+  - christianized_retelling_of_heroic_saga
+  - demythologized_saga_redaction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.denied-rewards-after-failed-service
+  motif_id: denied_rewards_after_failed_service
+  label: Denied rewards after failed service
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern failed covenantal exchange, labor bargain, moral
+    consequence, or a folktale plot detail.
+  cautions: Single occurrence and abstract wording; source context needed to distinguish
+    sacred_exchange, covenant, divine_judgment, or non-motif narrative detail.
+  suggested_aliases:
+  - reward_denied_after_failed_service
+  - failed_service_without_reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch appear iconographic, redactional, or episode-specific;
+  placements should remain provisional until passage evidence is checked.
+- Conflict-bucket labels should not automatically map to sacred_combat when the function
+  is moral judgment, power object, textual commentary, or accidental death.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human taxonomy review recommended for
+    all low-confidence and single-occurrence items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2660
+  input_sha256: c7d9e7cbfcbae2c706b4ce98612e1e02563e9732f1ff37e9f5f9edbd468ff5db
+

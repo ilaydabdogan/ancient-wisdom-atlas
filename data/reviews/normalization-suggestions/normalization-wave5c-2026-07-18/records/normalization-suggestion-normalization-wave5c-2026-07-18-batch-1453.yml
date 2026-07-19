@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1453
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.songs-made-in-dreams
+  motif_id: songs_made_in_dreams
+  label: Songs made in dreams
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: The song originates in dream experience, making dream-mediated revelation
+    the core function.
+  cautions: Could also relate to sacred_song or storytelling_as_power if the passage
+    emphasizes performance or preservation rather than dream origin.
+  suggested_aliases:
+  - dream-composed songs
+  - songs created in dreams
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-of-animals-stars-and-named-persons
+  motif_id: songs_of_animals_stars_and_named_persons
+  label: songs of animals, stars, and named persons
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe song content, catalog headings, or mythic agency
+    by animals and stars, but function is unclear.
+  cautions: Single occurrence and culturally specific performance context; verify
+    whether these are sacred songs, textual headings, named-being lore, or source-index
+    artifacts before mapping.
+  suggested_aliases:
+  - animal and star songs
+  - songs naming animals stars and persons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-preserve-memory-of-war-expeditions-and-customs
+  motif_id: songs_preserve_memory_of_war_expeditions_and_customs
+  label: Songs preserve memory of war expeditions and customs
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on oral song preserving collective memory, custom,
+    and historical narrative.
+  cautions: If the passage is primarily ethnographic commentary rather than a narrative
+    motif, consider excluding or retaining only as provenance detail.
+  suggested_aliases:
+  - songs as cultural memory
+  - songs preserving war memory
+  - oral song preserving customs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-received-from-dream-animals
+  motif_id: songs_received_from_dream_animals
+  label: songs received from dream animals
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: Songs are transmitted through dream animals, fitting dream-based revelation
+    and altered perception.
+  cautions: May also index secondarily with animal_helpers or sacred_song if source
+    evidence stresses animal tutelage or ritual performance.
+  suggested_aliases:
+  - dream-animal songs
+  - songs received from animals in dreams
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-received-in-animal-dreams
+  motif_id: songs_received_in_animal_dreams
+  label: songs received in animal dreams
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: alias
+  confidence: high
+  rationale: Close synonym of songs received from dream animals; the key function
+    is dream-mediated song revelation.
+  cautions: Preserve wording if animal-dream terminology has local significance; do
+    not assume generic animal helper without passage evidence.
+  suggested_aliases:
+  - songs received from dream animals
+  - dream-animal songs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-received-in-dreams-from-nonhuman-or-supernatural-sources
+  motif_id: songs_received_in_dreams_from_nonhuman_or_supernatural_sources
+  label: Songs received in dreams from nonhuman or supernatural sources
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly describes sacred or nonhuman song transmission through
+    dreams.
+  cautions: Could be a broader parent for the animal-dream song labels; review whether
+    this should become an alias under dream_and_vision or sacred_song.
+  suggested_aliases:
+  - songs received in dreams
+  - supernatural songs received in dreams
+  - dream-received songs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.songs-used-in-treatment-of-the-sick
+  motif_id: songs_used_in_treatment_of_the_sick
+  label: Songs used in treatment of the sick
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Healing songs function as ritual or sacred means of protection and restoration,
+    fitting intervention/healing practice better than general speech.
+  cautions: Existing taxonomy lacks a dedicated ritual healing or medicine-song group;
+    if many such labels recur, consider a new healing-rite group. Review culturally
+    specific evidence carefully.
+  suggested_aliases:
+  - healing songs
+  - songs for curing the sick
+  - medicine songs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sons-associated-with-named-beings
+  motif_id: sons_associated_with_named_beings
+  label: sons associated with named beings
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a cataloging or indexing artifact about kinship
+    association with named figures, not a motif function.
+  cautions: If source passages describe divine parentage, miraculous birth, or ancestor
+    lineage, remap to miraculous_child or cosmic_origin after evidence review.
+  suggested_aliases:
+  - sons linked to named beings
+  - sons of named beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sorcerer-with-secret-plant-poison-knowledge
+  motif_id: sorcerer_with_secret_plant_poison_knowledge
+  label: sorcerer with secret plant poison knowledge
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif centers on secret specialized knowledge of dangerous plant
+    power held by a ritual/magical specialist.
+  cautions: May overlap with forbidden_knowledge, sacred_substance, or harmful magic
+    depending on passage evidence; culturally sensitive term 'sorcerer' should be
+    reviewed.
+  suggested_aliases:
+  - secret poison-plant knowledge
+  - ritual specialist with poison knowledge
+  - hidden plant poison knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sound-producing-dance-ornament
+  motif_id: sound_producing_dance_ornament
+  label: sound-producing dance ornament
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a ritual object but does not show whether its sound has
+    sacred, musical, apotropaic, or identity-marking function.
+  cautions: Could map to enchanting_music, sacred_treasures, sacred_craft, or sacred_law
+    only if source evidence supports a ritual function; otherwise it may be too object-specific.
+  suggested_aliases:
+  - sound-making dance ornament
+  - rattling dance ornament
+  - noisy ritual dance ornament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several song labels likely form a local cluster around dream-received or ritually
+  powerful songs; existing dream_and_vision and storytelling_as_power can hold them
+  provisionally without creating a new group.
+- Avoid flattening dream-origin, healing function, and cultural-memory function into
+  one generic song motif unless passage evidence shows the same ritual complex.
+- Some labels are single-occurrence and may be ethnographic or catalog artifacts;
+  human review should check source passages before promoting aliases.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific song and healing contexts
+    need source verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1453
+  input_sha256: 8637ef7af190cee73edf3dc455f390e65edcfa64206b8a96b9c576f0c3a967c5
+

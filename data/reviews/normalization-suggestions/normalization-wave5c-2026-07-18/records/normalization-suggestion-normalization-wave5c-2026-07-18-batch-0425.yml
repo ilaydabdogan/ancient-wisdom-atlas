@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0425
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.universal-human-descent-from-named-ancestral-lineage
+  motif_id: universal_human_descent_from_named_ancestral_lineage
+  label: universal human descent from named ancestral lineage
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: Named ancestral lineage explaining all humanity fits existing ancestor
+    and people-origin children under cosmic_origin.
+  cautions: Could require human review if the passage is genealogical doctrine rather
+    than etiological myth.
+  suggested_aliases:
+  - genealogical_origin_of_humanity_from_named_ancestor
+  - universal_descent_from_named_ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-mortality-and-death-s-devouring-power
+  motif_id: universal_mortality_and_death_s_devouring_power
+  label: Universal mortality and death's devouring power
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on death's universal claim and transformative power
+    over living beings.
+  cautions: May be a wisdom or devotional reflection rather than a narrative motif;
+    preserve as thematic evidence if no event is present.
+  suggested_aliases:
+  - death_as_devouring_power
+  - universal_mortality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-mortality-as-world-destroying-power
+  motif_id: universal_mortality_as_world_destroying_power
+  label: universal mortality as world-destroying power
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could describe universal impermanence, cosmic catastrophe, or a metaphorical
+    teaching on mortality.
+  cautions: Do not map to flood_and_renewal or world_destroying_fire unless actual
+    world-destruction and renewal are present; may fit mystical_quest or death_and_transformation
+    depending on evidence.
+  suggested_aliases:
+  - mortality_as_cosmic_destruction
+  - universal_impermanence_as_world_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-mortality-expressed-through-earth-s-claim
+  motif_id: universal_mortality_expressed_through_earth_s_claim
+  label: Universal mortality expressed through earth’s claim
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Earth claiming all beings expresses mortality and return of bodies to
+    earth within the death complex.
+  cautions: Could be a funerary saying or poetic image rather than a recurring motif;
+    if tied to burial rite, ancestor_rites or heroic_funeral_rites may be secondary.
+  suggested_aliases:
+  - earth_claims_the_dead
+  - mortality_as_return_to_earth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.universal-veneration-across-creeds-at-the-holy-person-s-death
+  motif_id: universal_veneration_across_creeds_at_the_holy_person_s_death
+  label: Universal veneration across creeds at the holy person's death
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The shared veneration at death functions as memorialization and public
+    honoring of a sacred figure.
+  cautions: If the focus is sainthood, relic devotion, or shrine pilgrimage, sacred_treasures
+    may be a better secondary group; inter-creedal detail may be contextual.
+  suggested_aliases:
+  - cross_creedal_veneration_at_holy_death
+  - communal_honoring_of_a_dead_holy_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unmarried-girl-s-coffin-or-bier-struck-against-a-tree-before-burial
+  motif_id: unmarried_girl_s_coffin_or_bier_struck_against_a_tree_before_burial
+  label: Unmarried girl's coffin or bier struck against a tree before burial
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This appears to be a specific mortuary rite involving coffin, tree, and
+    unmarried status.
+  cautions: Potentially culturally sensitive and over-specific; could relate to ancestor_rites,
+    sacred_law, or axis_mundi only with passage evidence for its ritual function.
+  suggested_aliases:
+  - coffin_struck_against_tree_before_burial
+  - mortuary_tree_contact_for_unmarried_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unmoveable-or-elusive-corpse-blocking-church-burial
+  motif_id: unmoveable_or_elusive_corpse_blocking_church_burial
+  label: unmoveable or elusive corpse blocking church burial
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A corpse resisting burial suggests unresolved or active dead disrupting
+    proper funerary order.
+  cautions: If the focus is denial or failure of burial rather than dead agency, heroic_funeral_rites
+    may be secondary; church-specific detail may be contextual.
+  suggested_aliases:
+  - corpse_resists_burial
+  - unquiet_corpse_blocks_burial
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unpierced-ear-infant-dead-associated-with-toads-and-tadpoles
+  motif_id: unpierced_ear_infant_dead_associated_with_toads_and_tadpoles
+  label: Unpierced-ear infant dead associated with toads and tadpoles
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines infant death, bodily rite status, and animal association
+    without enough functional context.
+  cautions: Culturally sensitive and likely source-specific; do not map to shapeshifter,
+    ancestor_rites, or sacred_law without evidence of transformation, mortuary rite,
+    or taboo logic.
+  suggested_aliases:
+  - infant_dead_associated_with_toads
+  - unpierced_infant_dead_animal_association
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unquenchable-thirst-and-death-amid-water
+  motif_id: unquenchable_thirst_and_death_amid_water
+  label: Unquenchable thirst and death amid water
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Death by unsatisfied thirst amid water strongly suggests punitive reversal
+    or moral torment.
+  cautions: If the passage is postmortem punishment, afterlife_passage may be secondary;
+    if only an ironic death scene, it may be over-specific.
+  suggested_aliases:
+  - thirst_torment_amid_water
+  - punitive_unquenchable_thirst
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.unquiet-or-dangerous-dead-as-omens-and-agents-of-death
+  motif_id: unquiet_or_dangerous_dead_as_omens_and_agents_of_death
+  label: Unquiet or dangerous dead as omens and agents of death
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif directly describes active, dangerous dead who signal or cause
+    further death.
+  cautions: If omen interpretation is the main focus, prophecy_divination may be a
+    secondary mapping; review culturally specific spirit categories carefully.
+  suggested_aliases:
+  - dangerous_dead_as_death_omens
+  - unquiet_dead_as_agents_of_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch have only one occurrence and may be over-specific evidence
+  notes rather than durable motif labels.
+- Mortuary rites and culturally specific dead/ancestor beliefs should receive human
+  review before broad query promotion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no transmission claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0425
+  input_sha256: fcd4d3c3dcdcb8651ce665740b3b24b0c608f42efada0e4daed307d2a5426b6a
+

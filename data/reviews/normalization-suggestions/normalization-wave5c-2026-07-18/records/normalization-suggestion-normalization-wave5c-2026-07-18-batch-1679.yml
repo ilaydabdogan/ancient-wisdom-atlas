@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1679
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.royal-punishment-by-sinking-in-a-damaged-vessel
+  motif_id: royal_punishment_by_sinking_in_a_damaged_vessel
+  label: Royal punishment by sinking in a damaged vessel
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on punishment as reckoning for wrongdoing or disorder,
+    with the damaged vessel as execution method.
+  cautions: Single occurrence and method-specific; if the passage is merely legal
+    execution without sacred or moral framing, preserve as evidence detail under royal/legal
+    punishment.
+  suggested_aliases:
+  - punishment_by_damaged_vessel
+  - royal_execution_by_sinking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-punishment-by-trampling-horses
+  motif_id: royal_punishment_by_trampling_horses
+  label: Royal punishment by trampling horses
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Royally imposed trampling functions as punitive reckoning and restoration
+    of order.
+  cautions: Execution method is over-specific; if the source emphasizes kingship authority
+    rather than moral punishment, royal_legitimacy may be a secondary review target.
+  suggested_aliases:
+  - punishment_by_horse_trampling
+  - royal_execution_by_trampling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-punishment-of-rebellious-non-tributaries
+  motif_id: royal_punishment_of_rebellious_non_tributaries
+  label: royal punishment of rebellious non-tributaries
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Punishing non-tributary rebels asserts sovereign authority, tribute order,
+    and legitimate rule.
+  cautions: Could also be divine_judgment if punishment is explicitly framed as sacred
+    retribution; avoid treating imperial inscription formulae as independent motifs
+    without passage evidence.
+  suggested_aliases:
+  - punishment_of_rebellious_non_tributaries
+  - royal_punishment_of_tribute_rebels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-religious-patronage-across-borders
+  motif_id: royal_religious_patronage_across_borders
+  label: royal religious patronage across borders
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: Royal patronage of religion legitimizes rule and extends sacred kingship
+    beyond political boundaries.
+  cautions: May be historical or institutional detail rather than narrative motif;
+    review whether the passage presents it symbolically or just records patronage.
+  suggested_aliases:
+  - cross_border_royal_religious_patronage
+  - transregional_religious_patronage_by_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-sovereignty-as-analogy-for-religious-mastery
+  motif_id: royal_sovereignty_as_analogy_for_religious_mastery
+  label: royal sovereignty as analogy for religious mastery
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label uses kingship imagery to express religious mastery or spiritual
+    attainment rather than literal rulership.
+  cautions: Could be a doctrinal analogy or commentary artifact; if the focus is ideal
+    rulership rather than inner mastery, royal_legitimacy may be better.
+  suggested_aliases:
+  - sovereignty_as_spiritual_mastery
+  - kingship_as_religious_mastery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.royal-throne-tale-cycle
+  motif_id: royal_throne_tale_cycle
+  label: royal throne tale cycle
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a tale-cycle or textual frame rather than a symbolic
+    or narrative motif within a passage.
+  cautions: If individual stories involve throne legitimacy, judgment, or sacred kingship,
+    map those component motifs separately.
+  suggested_aliases:
+  - throne_tale_cycle
+  - royal_throne_cycle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruined-royal-stronghold-and-ruler-s-last-stand
+  motif_id: ruined_royal_stronghold_and_ruler_s_last_stand
+  label: ruined royal stronghold and ruler's last stand
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A ruler's last stand at a stronghold fits heroic martial resistance and
+    warrior crisis imagery.
+  cautions: If the ruined stronghold is primarily a place-memory or royal decline
+    motif, royal_legitimacy or pride_and_downfall may be better secondary mappings.
+  suggested_aliases:
+  - ruler_s_last_stand_at_ruined_stronghold
+  - royal_stronghold_last_stand
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rule-breaking-followed-by-bodily-injury
+  motif_id: rule_breaking_followed_by_bodily_injury
+  label: Rule-breaking followed by bodily injury
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Bodily injury after rule-breaking functions as consequence or punishment
+    for transgression.
+  cautions: Needs source evidence for sacred causality; otherwise it may be ordinary
+    consequence, cautionary tale detail, or over-broad generated wording.
+  suggested_aliases:
+  - transgression_followed_by_bodily_injury
+  - bodily_punishment_for_rule_breaking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rule-or-order-through-inaction
+  motif_id: rule_or_order_through_inaction
+  label: Rule or order through inaction
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: child
+  confidence: high
+  rationale: The taxonomy already places non_action under duality, matching Daoist
+    order through non-action.
+  cautions: If the passage is specifically political advice to rulers, royal_legitimacy
+    or sacred_law may be useful secondary contexts.
+  suggested_aliases:
+  - non_action
+  - order_through_non_action
+  - rule_through_wu_wei
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ruler-adjudicates-rival-artisans
+  motif_id: ruler_adjudicates_rival_artisans
+  label: Ruler adjudicates rival artisans
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could be a wisdom parable, royal judgment scene, artisan contest,
+    or contextual plot detail.
+  cautions: Single occurrence and culturally/contextually dependent; do not map from
+    ruler presence alone. Review whether the adjudication conveys sacred law, wisdom,
+    patronage, or merely narrative setup.
+  suggested_aliases:
+  - royal_adjudication_of_artisans
+  - rival_artisans_judged_by_ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence royal punishment or royal-administration
+  details; preserve execution method and political context as evidence notes rather
+  than creating narrow canonical motifs.
+- Do not infer transmission or historical borrowing from shared kingship or punishment
+  placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; items with merely historical, cycle-title, or
+    parable-frame wording need source-level human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1679
+  input_sha256: 323cae0b20331f14b8f11334e91cf49d0305dcd4df080b0ae08466545560a0c0
+

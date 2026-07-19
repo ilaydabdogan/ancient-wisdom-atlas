@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3367
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.double-restitution-for-breached-custody-or-denial
+  motif_id: double_restitution_for_breached_custody_or_denial
+  label: Double restitution for breached custody or denial
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A restitution rule for breached custody or denial is primarily a legal-social
+    obligation, fitting sacred law and social order.
+  cautions: May be a passage-specific legal clause rather than a reusable mythic motif;
+    if purely administrative law, consider excluding from pattern queries.
+  suggested_aliases:
+  - double_restitution_for_breach_of_custody
+  - restitution_for_denied_custody
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.doubtful-encounter-with-a-nonhuman-messenger
+  motif_id: doubtful_encounter_with_a_nonhuman_messenger
+  label: doubtful encounter with a nonhuman messenger
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A nonhuman messenger delivering or mediating contact most closely fits
+    divine intervention and guidance.
+  cautions: The word 'doubtful' may indicate uncertain source evidence or interpretation;
+    review whether the encounter is divine, animal, spirit, or textual commentary.
+  suggested_aliases:
+  - nonhuman_messenger_encounter
+  - uncertain_nonhuman_messenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.downfall-from-high-station
+  motif_id: downfall_from_high_station
+  label: downfall from high station
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: broader_label
+  confidence: medium
+  rationale: Loss of elevated status fits the established downfall pattern, especially
+    where rank or pride is humbled.
+  cautions: In Sufi context this may instead be a spiritual descent, renunciation,
+    or annihilation of ego; source evidence should decide whether pride is present.
+  suggested_aliases:
+  - fall_from_high_status
+  - loss_of_exalted_station
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.downfall-of-a-royal-people
+  motif_id: downfall_of_a_royal_people
+  label: Downfall of a royal people
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: The collapse of a royal house or people aligns with downfall of power
+    and grandeur.
+  cautions: Could also involve fate, divine judgment, dynastic tragedy, or heroic
+    combat depending on the episode; keep royal-collective specificity as evidence
+    detail.
+  suggested_aliases:
+  - fall_of_a_royal_people
+  - downfall_of_a_royal_house
+  - collapse_of_royal_lineage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dowry-laden-royal-bridal-transfer
+  motif_id: dowry_laden_royal_bridal_transfer
+  label: Dowry-laden royal bridal transfer
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: low
+  rationale: A royal bridal transfer with dowry belongs near marriage-choice and bridal-transfer
+    material under sacred love.
+  cautions: May be only a social transaction or plot detail; if the function is alliance-making
+    or succession, royal_legitimacy or covenant may fit better.
+  suggested_aliases:
+  - royal_bridal_transfer_with_dowry
+  - dowry_bearing_bride_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dreaded-forest-apparition
+  motif_id: dreaded_forest_apparition
+  label: dreaded forest apparition
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a feared apparition in a forest but not its narrative
+    function.
+  cautions: Could be otherworld spirit, threshold guardian, haunting, local forest-being
+    belief, or a passage-specific encounter; culturally specific spirit terminology
+    needs source review.
+  suggested_aliases:
+  - feared_forest_apparition
+  - forest_spirit_apparition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dressed-effigy-or-object-used-as-a-false-target
+  motif_id: dressed_effigy_or_object_used_as_a_false_target
+  label: Dressed effigy or object used as a false target
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Using a dressed effigy or object to misdirect attack is a deception stratagem,
+    fitting trickster-boundary tactics.
+  cautions: If occurring specifically in battle, sacred_combat may be an additional
+    or better group; if used ritually as substitution, sacrifice may be relevant.
+  suggested_aliases:
+  - effigy_used_as_decoy_target
+  - dressed_decoy_false_target
+  - object_substituted_as_target
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drink-of-forgetfulness-presented-as-drink-of-health
+  motif_id: drink_of_forgetfulness_presented_as_drink_of_health
+  label: drink of forgetfulness presented as drink of health
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: A drink that alters memory or consciousness fits sacred substance and
+    potion-related transformation.
+  cautions: Because the drink is deceptively presented, trickster or betrayal_violated_trust
+    may be secondary; avoid treating all magical drinks as sacred unless supernatural
+    or ritual force is evident.
+  suggested_aliases:
+  - forgetfulness_drink_disguised_as_health_drink
+  - deceptive_drink_of_forgetfulness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drink-that-causes-oblivion-in-an-abduction-plan
+  motif_id: drink_that_causes_oblivion_in_an_abduction_plan
+  label: drink that causes oblivion in an abduction plan
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: A memory-erasing or oblivion-causing drink is a consciousness-altering
+    substance motif.
+  cautions: This is a composite abduction stratagem; if the core pattern is deception
+    or violated trust rather than the drink's power, trickster or betrayal_violated_trust
+    may be better.
+  suggested_aliases:
+  - oblivion_drink_used_for_abduction
+  - memory_erasing_drink_in_abduction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.drone-society-with-stings
+  motif_id: drone_society_with_stings
+  label: Drone society with stings
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to an animal society, metaphor, or social-political
+    allegory, but its motif function is unclear.
+  cautions: Could be fable taxonomy, bee/drone social analogy, satire, or passage
+    artifact; source context is required before mapping to sacred_law, trickster,
+    or animal motifs.
+  suggested_aliases:
+  - stinging_drone_society
+  - drone_collective_with_stings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch have single occurrences and may be passage-specific
+  legal, social, or narrative details; preserve as evidence notes unless recurrence
+  is confirmed.
+- For drink-of-forgetfulness labels, consider later alias consolidation if both derive
+  from the same Slavic episode or recurring potion motif.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review needed for low-confidence
+    culturally contextual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3367
+  input_sha256: 7abc4086ebaa2b7f21c0001299872ba8ceed61198839aa6a7f74f9a43cad45af
+

@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3470
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.foreboding-before-worsening-conflict
+  motif_id: foreboding_before_worsening_conflict
+  label: foreboding before worsening conflict
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Foreboding before conflict functions as ominous anticipation or warning
+    of coming violence, close to omen and prophecy patterns.
+  cautions: Single occurrence and vague label; if the passage emphasizes mood rather
+    than a sign, it may be a narrative atmosphere detail rather than a motif.
+  suggested_aliases:
+  - ominous_foreboding_before_conflict
+  - foreboding_omen_before_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreboding-farewell
+  motif_id: foreboding_farewell
+  label: foreboding farewell
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A farewell with foreboding may be an omen, lament, fate marker, or merely
+    a literary scene depending on passage evidence.
+  cautions: Too context-dependent to map confidently; review whether a recognized
+    doom, prophecy, death-fate, or mourning function is present.
+  suggested_aliases:
+  - ominous_farewell
+  - farewell_with_foreboding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreboding-farewell-before-disaster
+  motif_id: foreboding_farewell_before_disaster
+  label: foreboding farewell before disaster
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The farewell is framed as anticipatory knowledge or omen before disaster,
+    fitting the prophecy/omen field.
+  cautions: If the source stresses grief at parting rather than a sign of the future,
+    lament_and_mourning or exclusion as scene detail may be better.
+  suggested_aliases:
+  - ominous_farewell_before_disaster
+  - foreboding_parting_before_catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foredoomed-disaster-despite-possible-prevention
+  motif_id: foredoomed_disaster_despite_possible_prevention
+  label: Foredoomed disaster despite possible prevention
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on inevitability despite apparent alternatives, matching
+    fate as an inescapable force.
+  cautions: Disaster is broader than death; if the passage concerns cosmic decline
+    or judgment rather than personal fate, world_ages_cosmic_decline or divine_judgment
+    may be better.
+  suggested_aliases:
+  - foredoomed_disaster
+  - avoidable_disaster_made_inevitable_by_fate
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forehead-band-load-carrying
+  motif_id: forehead_band_load_carrying
+  label: forehead-band load carrying
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a material carrying technique rather than a symbolic
+    or narrative motif.
+  cautions: If the carrying method has ritual, ordeal, mortuary, or culture-hero significance
+    in the source, preserve as evidence under that specific context after review.
+  suggested_aliases:
+  - forehead_strap_load_carrying
+  - tumpline_load_carrying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forehead-strap-carrying-of-a-body-bundle
+  motif_id: forehead_strap_carrying_of_a_body_bundle
+  label: forehead-strap carrying of a body bundle
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a mortuary transport detail, body-handling rite, or simply
+    an ethnographic carrying method.
+  cautions: Do not map to funeral rites without evidence that the body bundle is ritually
+    or narratively significant; culturally sensitive mortuary context requires review.
+  suggested_aliases:
+  - forehead_strap_body_bundle_transport
+  - body_bundle_carried_by_forehead_strap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.forehead-supported-load-carrying
+  motif_id: forehead_supported_load_carrying
+  label: Forehead-supported load carrying
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This appears to be a practical carrying method, not a recurring mythic
+    pattern.
+  cautions: Review source context if the load-carrying is part of a ritual ordeal,
+    migration myth, or sacred object transport.
+  suggested_aliases:
+  - forehead_supported_carrying
+  - tumpline_carrying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-coalition-invading-ireland
+  motif_id: foreign_coalition_invading_ireland
+  label: foreign coalition invading Ireland
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is place-specific historical or narrative content rather than
+    a reusable motif facet.
+  cautions: If the passage frames invasion as divine race arrival, sacred combat,
+    or royal legitimacy crisis, map that broader function instead of this specific
+    wording.
+  suggested_aliases:
+  - foreign_invasion_coalition
+  - coalition_invasion_of_ireland
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-contact-represented-in-rock-engraving
+  motif_id: foreign_contact_represented_in_rock_engraving
+  label: Foreign contact represented in rock engraving
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes interpretation of material evidence or contact representation,
+    not a narrative motif.
+  cautions: Keep any archaeological or contact claim as provenance/context; do not
+    use as motif evidence for transmission or borrowing.
+  suggested_aliases:
+  - foreign_contact_in_rock_art
+  - rock_engraving_as_contact_evidence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foreign-domination-lasting-a-thousand-years
+  motif_id: foreign_domination_lasting_a_thousand_years
+  label: foreign domination lasting a thousand years
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_ages_cosmic_decline
+  suggested_group_label: World Ages and Cosmic Decline
+  relationship: narrower_than
+  confidence: medium
+  rationale: A fixed long era of domination fits periodized sacred history and cosmic
+    decline schemas.
+  cautions: If the passage is political chronology without mythic age-structure, it
+    may be too specific or contextual for motif queries.
+  suggested_aliases:
+  - millennial_foreign_domination
+  - thousand_year_foreign_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and scene-like; preserve only
+  where a clear omen, fate, ritual, or cosmic-period function is present.
+- Avoid treating foreign contact or place-specific invasion labels as transmission
+  evidence in motif normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for foreboding and
+    mortuary/body-bundle labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3470
+  input_sha256: 110d97fee01f875f5a807f1acaac2d0a0ed83a7b0cab2fbf657cc37604134ca0
+

@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0708
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.communal-dance-with-songs-and-ritual-preparations
+  motif_id: communal_dance_with_songs_and_ritual_preparations
+  label: Communal dance with songs and ritual preparations
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label indicates a ritual performance with song and dance, but the
+    existing groups distinguish song power, sacred exchange, sacrifice, and sacred
+    time by function, which is not specified here.
+  cautions: Single occurrence and culturally contextual; avoid reducing Amazonian
+    ritual performance to generic song or sacrifice without passage evidence.
+  suggested_aliases:
+  - communal_ritual_dance
+  - ritual_dance_with_song
+  - communal_song_dance_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - sacred_exchange
+    - enchanting_music
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-defense-against-feared-ritual-harm
+  motif_id: communal_defense_against_feared_ritual_harm
+  label: communal defense against feared ritual harm
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Communal defense against ritual harm fits the apotropaic protection and
+    spirit-danger variants already folded under sacred_law.
+  cautions: If the passage describes expelling a harmful force rather than regulating
+    protective practice, sacrifice/ritual_expulsion may be a secondary fit.
+  suggested_aliases:
+  - communal_ritual_protection
+  - collective_defense_against_ritual_harm
+  - communal_apotropaic_defense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-disciplinary-judgment-regulated-by-sacred-law
+  motif_id: communal_disciplinary_judgment_regulated_by_sacred_law
+  label: communal disciplinary judgment regulated by sacred law
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly centers communal discipline governed by sacred law,
+    matching sacred_law as ritual-social regulation.
+  cautions: Could also support divine_judgment if the passage emphasizes moral reckoning
+    rather than rule-governed communal procedure.
+  suggested_aliases:
+  - communal_discipline_under_sacred_law
+  - sacred_law_regulates_communal_judgment
+  - ritual_discipline_by_sacred_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-entitlement-after-ritual-season
+  motif_id: communal_entitlement_after_ritual_season
+  label: communal entitlement after ritual season
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif depends on a ritual season organizing communal rights or entitlements,
+    which fits sacred_time and ritual-cycle logic.
+  cautions: If entitlement concerns reciprocal distribution or monastic/legal procedure,
+    sacred_exchange or sacred_law may be better secondary mappings.
+  suggested_aliases:
+  - ritual_season_communal_entitlement
+  - communal_rights_after_ritual_period
+  - seasonal_ritual_entitlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-erection-of-a-central-ritual-pole
+  motif_id: communal_erection_of_a_central_ritual_pole
+  label: communal erection of a central ritual pole
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A central ritual pole can function as a world-axis or sacred-center marker,
+    and poles are included in sacred_tree_axis/axis_mundi imagery.
+  cautions: Confirm that the pole marks a sacred center or vertical connection; otherwise
+    this may be an over-specific ritual setup detail.
+  suggested_aliases:
+  - central_ritual_pole
+  - ritual_pole_as_sacred_center
+  - communal_raising_of_sacred_pole
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-feast-after-ritual-action
+  motif_id: communal_feast_after_ritual_action
+  label: communal feast after ritual action
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A communal feast following ritual action fits sacred_exchange where feeding
+    and shared offerings repair or enact sacred relationship.
+  cautions: If the feast is sacrificial consumption or calendrical closure, sacrifice
+    or sacred_time may be relevant secondary groups.
+  suggested_aliases:
+  - ritual_communal_feast
+  - post_ritual_communal_feasting
+  - communal_feasting_after_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-healing-rite-through-medicine-water
+  motif_id: communal_healing_rite_through_medicine_water
+  label: communal healing rite through medicine water
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The healing medium is sacred or medicine water, aligning with sacred_waters
+    as purifier and transformative ritual substance.
+  cautions: Review local meaning of 'medicine water'; if the rite centers healing
+    agency rather than water symbolism, divine_intervention or sacred_substance may
+    also apply.
+  suggested_aliases:
+  - healing_medicine_water_rite
+  - communal_rite_with_medicine_water
+  - ritual_healing_by_sacred_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-hunt-conducted-with-gods-or-god-personators
+  motif_id: communal_hunt_conducted_with_gods_or_god_personators
+  label: communal hunt conducted with gods or god personators
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label combines communal hunting, divine presence, and ritual impersonation;
+    no existing group cleanly captures this function without passage context.
+  cautions: Culturally sensitive ritual-personation evidence should be reviewed carefully;
+    do not force into divine_intervention unless gods act directly, or sacrifice unless
+    offering/death is central.
+  suggested_aliases:
+  - ritual_hunt_with_divine_personators
+  - communal_sacred_hunt
+  - hunt_with_god_impersonators
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    - sacrifice
+    - theophany
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-impurity-resolved-by-spatial-regulation
+  motif_id: communal_impurity_resolved_by_spatial_regulation
+  label: Communal impurity resolved by spatial regulation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Communal impurity managed through regulated space fits sacred_law, especially
+    ritual purity, prohibition, and spatial/social order.
+  cautions: If the passage emphasizes boundary sealing after expulsion, sacrifice/ritual_expulsion
+    may be a secondary fit.
+  suggested_aliases:
+  - spatial_regulation_of_communal_impurity
+  - communal_purity_by_spatial_order
+  - ritual_space_regulates_impurity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-judgment-before-ritual-completion
+  motif_id: communal_judgment_before_ritual_completion
+  label: Communal judgment before ritual completion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A judgment phase before ritual completion fits moral or communal reckoning
+    within sacred order.
+  cautions: If this is mainly procedural monastic discipline, sacred_law may be the
+    better primary mapping; source context should decide.
+  suggested_aliases:
+  - pre_completion_ritual_judgment
+  - communal_reckoning_before_rite_completion
+  - judgment_before_ritual_closure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence ritual-procedure descriptions; preserve local
+  evidence and avoid promoting them to taxonomy families without recurrence.
+- Ritual performance and Indigenous personation/hunting labels need human review where
+  source context determines whether the function is sacred presence, exchange, sacrifice,
+  seasonal cycle, or social regulation.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; especially review culturally specific communal
+    ritual labels before final indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0708
+  input_sha256: b28ff4ce465534664f5d1dbbbfc32e32f8f5c5b5e90c2847fbc807473bd4aa4c
+

@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2619
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.battle-within-a-legal-assembly
+  motif_id: battle_within_a_legal_assembly
+  label: battle within a legal assembly
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: Violence in an assembly may be ritualized conflict, feud, or legal-order
+    breakdown, but the label alone does not establish sacred combat function.
+  cautions: Single occurrence and highly contextual; could instead fit sacred_law,
+    covenant breach, or passage-specific legal detail.
+  suggested_aliases:
+  - assembly_battle
+  - combat_in_legal_assembly
+  - violence_in_the_assembly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-concealment-charm
+  motif_id: battlefield_concealment_charm
+  label: battlefield concealment charm
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A charm that conceals a combatant on the battlefield functions as supernatural
+    aid or protection in human affairs.
+  cautions: If the passage emphasizes the object or spell as a power item, sacred_treasures
+    or curse_blessing_speech may be useful secondary review links.
+  suggested_aliases:
+  - concealment_charm_in_battle
+  - magical_battlefield_concealment
+  - supernatural_concealment_in_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-darkened-by-dust-and-reddened-by-blood
+  motif_id: battlefield_darkened_by_dust_and_reddened_by_blood
+  label: battlefield darkened by dust and reddened by blood
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as vivid battle description rather than a reusable narrative
+    function or symbolic motif.
+  cautions: Preserve as evidence detail if the imagery recurs as a formulaic battle
+    topos; otherwise exclude from broad motif queries.
+  suggested_aliases:
+  - dust_and_blood_battlefield_imagery
+  - battlefield_red_with_blood
+  - battlefield_darkened_by_dust
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-dense-enough-to-bear-chariots-on-weapons
+  motif_id: battlefield_dense_enough_to_bear_chariots_on_weapons
+  label: Battlefield dense enough to bear chariots on weapons
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be hyperbolic battlefield imagery, not a stable mythic
+    or ritual motif.
+  cautions: Could be retained as a poetic formula note under battle evidence, but
+    should not drive Pattern Explorer queries unless cross-source formulaic recurrence
+    is shown.
+  suggested_aliases:
+  - chariots_supported_on_weapons
+  - dense_battlefield_weapon_hyperbole
+  - battlefield_density_hyperbole
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-music-inspiring-warriors
+  motif_id: battlefield_music_inspiring_warriors
+  label: battlefield music inspiring warriors
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Music produces a martial effect on hearers, fitting sound as power even
+    when used in battle rather than enchantment.
+  cautions: If the music is ordinary morale-building with no sacred or supernatural
+    force, sacred_combat may be a weaker contextual parent or the item may be too
+    specific.
+  suggested_aliases:
+  - war_music_inspires_warriors
+  - battle_music_as_martial_inspiration
+  - music_empowers_warriors_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battlefield-restoration-by-medicine
+  motif_id: battlefield_restoration_by_medicine
+  label: Battlefield restoration by medicine
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: uncertain
+  confidence: low
+  rationale: Restoration by medicine may be supernatural healing, ritual medicine,
+    or ordinary treatment; source evidence is needed.
+  cautions: Culturally sensitive medicine traditions should not be flattened into
+    generic divine intervention unless sacred or supernatural agency is explicit.
+  suggested_aliases:
+  - battlefield_healing_medicine
+  - medicine_restores_warrior_in_battle
+  - warrior_restored_by_medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bear-like-warrior-behavior
+  motif_id: bear_like_warrior_behavior
+  label: Bear-like warrior behavior
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label could be an animal-warrior simile, animal power identification,
+    or transformation-like behavior in combat.
+  cautions: Do not map to shapeshifter unless actual form change or animal embodiment
+    is present; Indigenous animal-power contexts need source-sensitive review.
+  suggested_aliases:
+  - bear_like_warrior
+  - warrior_behaves_like_bear
+  - bear_power_in_warrior_behavior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beautiful-color-changing-monster
+  motif_id: beautiful_color_changing_monster
+  label: Beautiful color-changing monster
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: Color-changing suggests transformation or deceptive appearance, but the
+    monster’s narrative role is not clear from the label.
+  cautions: Could fit shapeshifter, threshold_guardian, beauty_and_paradox, or a monster-combat
+    detail depending on source context; avoid overgeneralizing from appearance alone.
+  suggested_aliases:
+  - color_changing_monster
+  - beautiful_transforming_monster
+  - beautiful_monster_with_changing_colors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beheading-of-abandoned-wounded-enemy
+  motif_id: beheading_of_abandoned_wounded_enemy
+  label: Beheading of abandoned wounded enemy
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The act belongs broadly to violent combat outcomes, but the label lacks
+    a clear sacred, ritual, trophy, or judgment function.
+  cautions: May be an episode-specific brutality detail; only map if source evidence
+    shows ritual beheading, trophy display, vengeance, or combat-order significance.
+  suggested_aliases:
+  - abandoned_wounded_enemy_beheaded
+  - beheading_wounded_enemy
+  - execution_of_wounded_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beheading-with-the-victim-s-own-weapon-and-pursuing-severed-head
+  motif_id: beheading_with_the_victim_s_own_weapon_and_pursuing_severed_head
+  label: Beheading with the victim's own weapon and pursuing severed head
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: The beheading is a combat outcome, while the pursuing severed head may
+    indicate supernatural vengeance or animated remains.
+  cautions: Composite and culturally specific; may split between sacred_combat, restless_dead_haunting_vengeance,
+    or sacred_treasures if the weapon/head has independent power.
+  suggested_aliases:
+  - victim_beheaded_with_own_weapon
+  - pursuing_severed_head
+  - severed_head_pursues_after_beheading
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence battle-scene details; prefer exclusion
+  or human review unless source evidence shows recurring ritual, supernatural, or
+  narrative function.
+- Avoid treating animal comparison, vivid battlefield imagery, or weapon details as
+  canonical motifs without cross-source recurrence or clear functional role.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for conflict/ordeal labels; multiple
+    low-confidence placements require source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2619
+  input_sha256: e5501455bc15ff7959b431553f2a3e989a5762646cda451e99b92c86c57b99e0
+

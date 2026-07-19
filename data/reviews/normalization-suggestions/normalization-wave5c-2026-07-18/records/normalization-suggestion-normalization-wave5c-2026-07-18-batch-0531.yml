@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0531
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.hunger-driven-winter-survival-journey
+  motif_id: hunger_driven_winter_survival_journey
+  label: hunger-driven winter survival journey
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A survival journey driven by hunger fits journey-as-ordeal when the passage
+    emphasizes travel through danger or deprivation.
+  cautions: Single occurrence; if it is only a subsistence travel detail without transformation,
+    consider excluding or preserving as evidence detail.
+  suggested_aliases:
+  - hunger_journey
+  - winter_survival_journey
+  - survival_journey_through_hunger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hungry-wanderer-hosted-by-animal-chiefs
+  motif_id: hungry_wanderer_hosted_by_animal_chiefs
+  label: Hungry wanderer hosted by animal chiefs
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is a hungry traveler received by hosts, with animal
+    chiefs functioning as extraordinary hospitality agents.
+  cautions: Could also relate to otherworld or animal-spirit encounter if the animal
+    chiefs are rulers of a nonhuman realm; review source context.
+  suggested_aliases:
+  - hungry_wanderer_received_by_animal_hosts
+  - animal_chiefs_host_hungry_traveler
+  - hospitality_by_animal_chiefs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hungry-wandering-and-mixed-hospitality
+  motif_id: hungry_wandering_and_mixed_hospitality
+  label: hungry wandering and mixed hospitality
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a hungry wanderer encountering variable reception,
+    which aligns with hospitality as a test or ordeal.
+  cautions: If the wandering is the main narrative arc rather than the guest-host
+    exchange, hero_journey may be a secondary placement.
+  suggested_aliases:
+  - hungry_wanderer_mixed_hospitality
+  - mixed_hospitality_to_hungry_traveler
+  - wandering_hunger_and_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunting-at-a-water-crossing
+  motif_id: hunting_at_a_water_crossing
+  label: Hunting at a water crossing
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A water crossing can be liminal, but the label may simply describe a
+    hunting location rather than a symbolic passage.
+  cautions: Do not map to sacred_waters unless the crossing marks transformation,
+    danger, ritual boundary, or supernatural encounter.
+  suggested_aliases:
+  - hunt_at_water_crossing
+  - hunting_at_river_crossing
+  - hunting_at_liminal_water_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunting-encounter-expressed-in-kinship-language
+  motif_id: hunting_encounter_expressed_in_kinship_language
+  label: hunting encounter expressed in kinship language
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a culturally specific human-animal relational idiom,
+    not a clear existing journey motif.
+  cautions: Review carefully for Indigenous kinship and animal-person concepts; avoid
+    flattening into generic sacred_law or animal-helper categories without evidence.
+  suggested_aliases:
+  - hunting_encounter_in_kinship_terms
+  - animal_hunting_kinship_language
+  - kinship_language_for_hunted_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunting-lodge-domestic-partnership
+  motif_id: hunting_lodge_domestic_partnership
+  label: hunting lodge domestic partnership
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to combine setting, subsistence activity, and relationship
+    structure without a clear canonical motif function.
+  cautions: Could involve marriage, household exchange, animal-spirit spouse, or a
+    passage-specific domestic scene; source context is needed.
+  suggested_aliases:
+  - domestic_partnership_at_hunting_lodge
+  - hunting_lodge_household_partnership
+  - hunting_camp_domestic_union
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunting-taboo-involving-animal-offense-and-departure
+  motif_id: hunting_taboo_involving_animal_offense_and_departure
+  label: Hunting taboo involving animal offense and departure
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A hunting taboo and offense against an animal fit sacred regulation of
+    conduct toward nonhuman beings.
+  cautions: Departure may signal broken reciprocity, animal-spirit withdrawal, or
+    journey consequence; preserve local animal-offense detail.
+  suggested_aliases:
+  - hunting_taboo_animal_offense
+  - animal_offense_breaks_hunting_taboo
+  - departure_after_hunting_taboo_violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.iconoclasm-after-conquest-or-mission
+  motif_id: iconoclasm_after_conquest_or_mission
+  label: Iconoclasm after conquest or mission
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Iconoclasm may reflect sacred law, covenantal exclusivity, conquest narrative,
+    or historical event rather than a journey motif.
+  cautions: Culturally and historically sensitive; do not reduce to generic idol rejection
+    without source evidence and context.
+  suggested_aliases:
+  - post_conquest_iconoclasm
+  - missionary_iconoclasm
+  - destruction_of_images_after_conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ignored-elder-warning-before-fatal-journey
+  motif_id: ignored_elder_warning_before_fatal_journey
+  label: Ignored elder warning before fatal journey
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: functional_variant
+  confidence: medium
+  rationale: An unheeded warning before a fatal journey fits the forewarning/doom
+    pattern already associated with fated death.
+  cautions: If the emphasis is moral disobedience rather than destiny, divine_judgment
+    or sacred_law may be better secondary mappings.
+  suggested_aliases:
+  - unheeded_elder_warning_before_fatal_journey
+  - ignored_warning_before_fated_journey
+  - elder_warning_ignored_before_death_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ignored-warning-before-irreversible-departure
+  motif_id: ignored_warning_before_irreversible_departure
+  label: ignored warning before irreversible departure
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif combines departure with an ignored warning and irreversible
+    consequence, fitting a charged departure in a journey arc.
+  cautions: If irreversible departure means death or permanent otherworld removal,
+    death_by_fate, otherworld, or death_and_transformation may be more precise.
+  suggested_aliases:
+  - unheeded_warning_before_irreversible_departure
+  - ignored_warning_before_permanent_departure
+  - warning_ignored_before_no_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and may be episode-specific; preserve local
+  evidence notes where mapping confidence is low.
+- Hunting and animal-kinship motifs from Indigenous traditions need source-aware review
+  before broad normalization.
+- Journey-bucket placement should not override stronger functions such as hospitality,
+  taboo, or fated warning.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    hunting, kinship, and iconoclasm labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0531
+  input_sha256: 88b420a44e23020b53125c6927c6cfadf7ddcce344494762090635298387d569
+

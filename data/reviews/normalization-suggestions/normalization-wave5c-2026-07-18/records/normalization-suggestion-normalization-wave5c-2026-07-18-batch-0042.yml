@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0042
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.birth-and-death-under-divine-ordinance
+  motif_id: birth_and_death_under_divine_ordinance
+  label: birth and death under divine ordinance
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: broader_label
+  confidence: medium
+  rationale: The label frames birth and death as governed by divine decree or destiny,
+    aligning with fate-governed life and death.
+  cautions: Could also belong under divine_judgment or supreme_ruler if the passage
+    emphasizes divine sovereignty rather than personal fate.
+  suggested_aliases:
+  - birth_and_death_by_divine_decree
+  - life_and_death_under_divine_ordinance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-and-naming-of-a-lineage-ancestor
+  motif_id: birth_and_naming_of_a_lineage_ancestor
+  label: birth and naming of a lineage ancestor
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The group already contains eponymous ancestors and genealogical origins;
+    this label concerns lineage origin through a named ancestor.
+  cautions: If the passage is merely chronological genealogy without etiological or
+    ancestral-origin function, exclude as a passage detail.
+  suggested_aliases:
+  - named_lineage_ancestor_birth
+  - lineage_ancestor_birth_and_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-and-postpartum-taboos-involving-animal-souls-and-kin-danger
+  motif_id: birth_and_postpartum_taboos_involving_animal_souls_and_kin_danger
+  label: Birth and postpartum taboos involving animal souls and kin danger
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Postpartum taboos and kin danger suggest ritual prohibition and sacred
+    law, with possible soul-belief elements.
+  cautions: Culturally specific and composite; could involve animal souls, birth ritual,
+    kin taboo, spirit contagion, or ethnographic over-specificity. Review source evidence
+    before mapping.
+  suggested_aliases:
+  - postpartum_taboo_involving_animal_souls
+  - birth_taboo_and_kin_danger
+  - postpartum_ritual_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-appointed-personal-fate-spirit
+  motif_id: birth_appointed_personal_fate_spirit
+  label: birth-appointed personal fate-spirit
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: role_variant
+  confidence: medium
+  rationale: A personal fate-spirit appointed at birth fits personified destiny more
+    than generic death fate.
+  cautions: Could map to divine_intervention if the spirit acts mainly as a guardian,
+    or death_by_fate if the focus is mortality rather than a fate figure.
+  suggested_aliases:
+  - personal_fate_spirit_at_birth
+  - birth_assigned_fate_spirit
+  - natal_fate_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-date-as-death-date
+  motif_id: birth_date_as_death_date
+  label: Birth date as death date
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A death date mirroring birth date implies a fated or ordained life span
+    bounded by calendrical destiny.
+  cautions: May instead be sacred_time if the passage emphasizes calendrical cycle
+    rather than fated death; single occurrence may be too specific.
+  suggested_aliases:
+  - death_on_birth_date
+  - birth_day_as_fated_death_day
+  - calendrical_birth_death_correspondence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-death-and-soul-body-separation
+  motif_id: birth_death_and_soul_body_separation
+  label: Birth, death, and soul-body separation
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: broader_label
+  confidence: medium
+  rationale: The label concerns transition between embodied life and separated soul,
+    fitting death and transformation broadly.
+  cautions: If the focus is separable soul mechanics, soul_loss_restoration or external_soul
+    may be better; if doctrinal commentary only, review as non-narrative abstraction.
+  suggested_aliases:
+  - soul_body_separation_at_death
+  - embodiment_and_soul_separation
+  - birth_death_soul_separation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-followed-by-maternal-death-and-grave-memorial
+  motif_id: birth_followed_by_maternal_death_and_grave_memorial
+  label: Birth followed by maternal death and grave memorial
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-specific biographical sequence combining birth,
+    death, and memorial detail rather than a reusable motif.
+  cautions: If the maternal death legitimizes a sacred child or creates a cultic memorial,
+    review for miraculous_child or heroic_funeral_rites as secondary evidence.
+  suggested_aliases:
+  - maternal_death_after_birth
+  - grave_memorial_after_maternal_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-of-an-ancestor-dated-within-sacred-chronology
+  motif_id: birth_of_an_ancestor_dated_within_sacred_chronology
+  label: Birth of an ancestor dated within sacred chronology
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording emphasizes chronological placement of an ancestor, likely
+    a genealogical or textual chronology detail.
+  cautions: If the date establishes sacred time or ancestral origin rather than simple
+    chronology, consider sacred_time or cosmic_origin after review.
+  suggested_aliases:
+  - ancestor_birth_in_sacred_chronology
+  - dated_birth_of_ancestor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-order-contest-establishing-human-mortality
+  motif_id: birth_order_contest_establishing_human_mortality
+  label: birth-order contest establishing human mortality
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A contest that explains why humans are mortal is an etiological origin
+    of the human condition.
+  cautions: Could also relate to death_and_transformation or divine_judgment depending
+    on whether mortality arises from transformation, punishment, or a primordial decision.
+  suggested_aliases:
+  - contest_establishing_human_mortality
+  - origin_of_mortality_through_birth_order
+  - birth_order_mortality_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.birth-spirits-linked-to-sacred-tree-medium
+  motif_id: birth_spirits_linked_to_sacred_tree_medium
+  label: Birth spirits linked to sacred tree medium
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: low
+  rationale: A sacred tree mediating birth spirits may fit sacred tree or axis imagery,
+    but the key function may be local birth-spirit ontology.
+  cautions: Culturally sensitive and context-dependent; could map to miraculous_child,
+    mother_goddess, sacred_tree_axis, ancestor rites, or a local spirit-place motif.
+    Verify source evidence.
+  suggested_aliases:
+  - birth_spirits_in_sacred_tree
+  - sacred_tree_as_birth_spirit_medium
+  - tree_medium_for_birth_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and genealogical or chronological; avoid promoting
+  passage-specific birth records into motifs without recurrent symbolic function.
+- Birth-spirit and postpartum taboo labels need careful cultural review before broad
+  normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for taxonomy review; culturally specific
+    soul/birth taboo items flagged for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0042
+  input_sha256: b98c0c96785dac8957e93654cb1066610848c71864ea268b7f321e96245ba590
+

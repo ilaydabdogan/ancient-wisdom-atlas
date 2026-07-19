@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0095
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.dead-cannibal-as-bones-marking-the-path
+  motif_id: dead_cannibal_as_bones_marking_the_path
+  label: dead cannibal as bones marking the path
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe death remains as a path marker, a monster-cannibal
+    defeat, or a passage-specific scene rather than a stable death motif.
+  cautions: Single occurrence and highly contextual; source evidence is needed before
+    mapping to descent, sacred_combat, threshold_guardian, or excluding as episode
+    detail.
+  suggested_aliases:
+  - bones_marking_the_path
+  - cannibal_remains_mark_the_path
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-carrying-living-paradox
+  motif_id: dead_carrying_living_paradox
+  label: Dead carrying living paradox
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase reads like a riddle, proverb, or paradoxical image involving
+    death and life rather than a clear narrative motif.
+  cautions: May be a passage or commentary artifact; verify whether actual dead agency,
+    afterlife travel, or ritual symbolism is present.
+  suggested_aliases:
+  - dead_carry_the_living
+  - living_carried_by_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-chief-mourned-through-song-amid-national-desolation
+  motif_id: dead_chief_mourned_through_song_amid_national_desolation
+  label: Dead chief mourned through song amid national desolation
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: The core action is communal mourning through song for a dead leader,
+    matching lament and mourning motifs.
+  cautions: The chief/national desolation details should remain evidence notes unless
+    recurring as a political-lament subtype.
+  suggested_aliases:
+  - lament_for_dead_chief
+  - song_lament_for_dead_leader
+  - communal_lament_for_dead_chief
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-children-as-witnesses-against-a-parent
+  motif_id: dead_children_as_witnesses_against_a_parent
+  label: Dead children as witnesses against a parent
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: Dead children functioning as witnesses against wrongdoing fits moral
+    reckoning and testimony from beyond ordinary human authority.
+  cautions: Could instead belong under restless_dead_haunting_vengeance if the children
+    actively return or haunt; confirm whether this is judgment testimony or revenge.
+  suggested_aliases:
+  - dead_children_testify_against_parent
+  - dead_as_witnesses_against_kin
+  - postmortem_witnesses_against_parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-children-return-from-water-to-instruct-the-living
+  motif_id: dead_children_return_from_water_to_instruct_the_living
+  label: Dead children return from water to instruct the living
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The dead return and remain active among the living, here as instructors
+    rather than avengers.
+  cautions: If the emphasis is water as a boundary or sacred instruction, sacred_waters
+    or sacred_knowledge may be useful secondary mappings; avoid treating all water-return
+    as flood or descent.
+  suggested_aliases:
+  - dead_children_return_to_instruct_living
+  - dead_return_from_water
+  - dead_instruct_the_living
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-companion-recognized-by-wounds
+  motif_id: dead_companion_recognized_by_wounds
+  label: dead companion recognized by wounds
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: Wounds function as bodily identity proofs, closely paralleling recognition
+    by scars or bodily marks.
+  cautions: If the passage emphasizes funeral grief or battlefield death more than
+    identification, heroic_funeral_rites or lament_and_mourning may be secondary.
+  suggested_aliases:
+  - recognition_by_wounds
+  - dead_companion_identified_by_wounds
+  - bodily_wounds_as_recognition_token
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-consume-shadow-or-remnants-of-feast-food
+  motif_id: dead_consume_shadow_or_remnants_of_feast_food
+  label: Dead consume shadow or remnants of feast food
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: The dead receiving or consuming food portions fits ritual feeding and
+    maintenance of relations with dead souls or ancestors.
+  cautions: Shadow-consumption may preserve a specific local ontology of soul/food
+    substance; do not flatten into ordinary hospitality.
+  suggested_aliases:
+  - feeding_the_dead_with_food_remnants
+  - dead_consume_food_shadows
+  - feast_remnants_for_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-continue-to-act-and-appear-in-dreams
+  motif_id: dead_continue_to_act_and_appear_in_dreams
+  label: dead continue to act and appear in dreams
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on continued activity of the dead after death, including
+    appearances to the living.
+  cautions: Dream appearance may also support dream_and_vision if revelation through
+    dreams is the main function; confirm whether the dead are active agents or only
+    dream images.
+  suggested_aliases:
+  - dead_appear_in_dreams
+  - active_dead_visit_in_dreams
+  - postmortem_dream_appearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-demons-leaving-animal-and-vermin-remains
+  motif_id: dead_demons_leaving_animal_and_vermin_remains
+  label: dead demons leaving animal and vermin remains
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is unclear: it may describe demon death, exposed true form,
+    impurity remains, or a passage-specific detail.'
+  cautions: Needs source context before mapping to shapeshifter, divine_judgment,
+    sacred_law, or excluding as an episode artifact.
+  suggested_aliases:
+  - demon_remains_as_vermin
+  - dead_demons_leave_animal_remains
+  - vermin_remains_after_demon_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.dead-elder-associated-with-rain-after-drought
+  motif_id: dead_elder_associated_with_rain_after_drought
+  label: Dead elder associated with rain after drought
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A dead or departed figure mediating rain aligns with existing divine_intervention
+    children for departed agents and rain mediation.
+  cautions: Review cultural specificity carefully; could also involve ancestor rites,
+    local land-being traditions, or sacred waters depending on evidence.
+  suggested_aliases:
+  - dead_elder_brings_rain
+  - departed_elder_mediates_rain
+  - ancestor_associated_with_rain_after_drought
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and highly contextual; preserve
+  local evidence details even when assigning a broad review group.
+- Do not infer transmission or shared origin from these placements; suggestions are
+  only normalization aids.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions based on supplied labels and current canonical
+    motif groups; ambiguous items held for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0095
+  input_sha256: 8528d465d4c45c0fcd032a7155b9dd951e1f088204d9057171274d6c2223316d
+

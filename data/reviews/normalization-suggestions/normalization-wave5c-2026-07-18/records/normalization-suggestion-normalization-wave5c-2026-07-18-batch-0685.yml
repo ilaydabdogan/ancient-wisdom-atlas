@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0685
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.blessed-heavenly-world-of-the-holy
+  motif_id: blessed_heavenly_world_of_the_holy
+  label: blessed heavenly world of the holy
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A blessed heavenly realm for holy persons fits the broader otherworld/blessed-realm
+    pattern rather than ritual sacrifice.
+  cautions: If the passage maps postmortem route, judgment, or required knowledge,
+    afterlife_passage may be the better primary group.
+  suggested_aliases:
+  - blessed_heavenly_abode
+  - heavenly_world_of_the_righteous
+  - blessed_realm_of_the_holy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessedness-and-salvation-of-the-holy-contrasted-with-calamity-for-the-evil
+  motif_id: blessedness_and_salvation_of_the_holy_contrasted_with_calamity_for_the_evil
+  label: Blessedness and salvation of the holy contrasted with calamity for the evil
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: The contrast between salvation for the holy and calamity for the evil
+    expresses moral reckoning by sacred order.
+  cautions: Could also support duality in Zoroastrian context, but the narrative function
+    is judgment/reward and punishment.
+  suggested_aliases:
+  - salvation_of_righteous_and_calamity_for_wicked
+  - righteous_blessed_wicked_punished
+  - moral_contrast_of_holy_and_evil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessing-and-curse-as-sacred-speech-entities
+  motif_id: blessing_and_curse_as_sacred_speech_entities
+  label: Blessing and curse as sacred speech entities
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label directly concerns blessings and curses as powerful sacred speech
+    acts or entities.
+  cautions: If the source treats them as personified beings rather than utterances,
+    preserve that specificity in evidence notes.
+  suggested_aliases:
+  - personified_blessing_and_curse
+  - blessing_and_curse_as_performative_speech
+  - sacred_speech_entities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessing-by-relic-rejected-in-favor-of-imitation
+  motif_id: blessing_by_relic_rejected_in_favor_of_imitation
+  label: Blessing by relic rejected in favor of imitation
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines relic blessing, rejection of material mediation, and
+    imitation of a holy model; source context is needed.
+  cautions: Could map to sacred_treasures for relics, sacred_knowledge or mystical_quest
+    for imitation of the saint, or be a contextual teaching detail.
+  suggested_aliases:
+  - relic_blessing_rejected_for_imitation
+  - imitation_preferred_to_relic_blessing
+  - rejection_of_relic_mediation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessing-conveyed-by-ritual-gesture
+  motif_id: blessing_conveyed_by_ritual_gesture
+  label: Blessing conveyed by ritual gesture
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual gesture functions like a performative blessing that conveys
+    sacred efficacy.
+  cautions: Because the action is gestural rather than spoken, review whether sacred_exchange,
+    divine_intervention, or a local ritual-healing context is primary.
+  suggested_aliases:
+  - performative_blessing_gesture
+  - ritual_gesture_conveys_blessing
+  - gestural_blessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessing-for-complete-welfare-and-blessed-abode
+  motif_id: blessing_for_complete_welfare_and_blessed_abode
+  label: Blessing for complete welfare and blessed abode
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif is a blessing formula requesting welfare and a blessed dwelling
+    or abode.
+  cautions: If the blessed abode is explicitly a postmortem destination, add secondary
+    review for otherworld or afterlife_passage.
+  suggested_aliases:
+  - blessing_for_welfare_and_abode
+  - benediction_for_complete_welfare
+  - blessed_abode_benediction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessing-for-righteous-community
+  motif_id: blessing_for_righteous_community
+  label: blessing for righteous community
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: A blessing directed toward a righteous community is a performative sacred
+    benediction.
+  cautions: If the passage emphasizes communal moral order more than the blessing
+    act, sacred_law or covenant may be relevant secondary groups.
+  suggested_aliases:
+  - communal_blessing_for_the_righteous
+  - benediction_for_righteous_community
+  - blessing_of_the_righteous_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessing-formula-of-longevity-fertility-and-prosperity
+  motif_id: blessing_formula_of_longevity_fertility_and_prosperity
+  label: Blessing formula of longevity, fertility, and prosperity
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly describes a formulaic blessing, a performative sacred
+    speech act.
+  cautions: The contents of the blessing may also touch fertility or prosperity motifs,
+    but the repeated function is the benediction formula.
+  suggested_aliases:
+  - prosperity_and_fertility_blessing_formula
+  - longevity_fertility_prosperity_benediction
+  - formulaic_blessing_for_life_and_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessing-of-dwelling-village-and-herd-prosperity
+  motif_id: blessing_of_dwelling_village_and_herd_prosperity
+  label: Blessing of dwelling, village, and herd prosperity
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: high
+  rationale: The item is a benediction over household, community, and herds, fitting
+    blessing as sacred speech.
+  cautions: If tied to ritual reciprocity or offering, sacred_exchange may be a useful
+    secondary mapping.
+  suggested_aliases:
+  - blessing_for_household_village_and_herds
+  - prosperity_blessing_for_dwelling_and_herd
+  - communal_and_herd_prosperity_benediction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.blessing-sought-through-contact-with-prepared-cloths
+  motif_id: blessing_sought_through_contact_with_prepared_cloths
+  label: blessing sought through contact with prepared cloths
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Prepared cloths function as ritual objects that mediate blessing through
+    contact.
+  cautions: Could be over-specific; if the cloths are offerings or merit-making media,
+    sacred_exchange may be better. Preserve cloth-contact details as evidence.
+  suggested_aliases:
+  - contact_blessing_through_sacred_cloths
+  - prepared_cloths_as_blessing_objects
+  - blessing_by_contact_with_ritual_cloth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are blessing-formula labels with single occurrences; map provisionally
+  to curse_blessing_speech while preserving prosperity, abode, or community details
+  as evidence rather than separate canonical motifs.
+- Do not infer Zoroastrian transmission or doctrinal equivalence from these placements;
+  suggestions only identify broad query groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements generated for wave5c batch 0685; relic/cloth and heavenly-abode
+    items need source-context verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0685
+  input_sha256: cf28b17ac00758d828d5b1ccbe1fbeeb7184a6b9a18560eb2b728b1f24050e34
+

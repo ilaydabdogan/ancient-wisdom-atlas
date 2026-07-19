@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1243
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-centered-speech-or-social-setting
+  motif_id: animal_centered_speech_or_social_setting
+  label: animal-centered speech or social setting
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to distinguish animal fable, speech power, social
+    satire, or a scene-setting artifact.
+  cautions: Single occurrence; source evidence needed before mapping to trickster,
+    storytelling_as_power, or a future animal-fable group.
+  suggested_aliases:
+  - animal-centered speech setting
+  - animal social speech scene
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-compelled-by-threat-or-fear-producing-speech
+  motif_id: animal_compelled_by_threat_or_fear_producing_speech
+  label: animal compelled by threat or fear-producing speech
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on speech as an effective coercive force causing an
+    animal response.
+  cautions: If the animal uses trickery or escape strategy, trickster may be a better
+    secondary placement; wording is awkward and may be passage-specific.
+  suggested_aliases:
+  - fear-producing speech compels an animal
+  - threatening speech compels animal action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-cry-explained-through-human-speech
+  motif_id: animal_cry_explained_through_human_speech
+  label: animal cry explained through human speech
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Explaining an animal cry through a speech episode appears etiological,
+    like other origin-explanation labels under cosmic_origin.
+  cautions: Do not treat as cosmic creation unless the passage is explicitly etiological;
+    could instead be an animal-fable or storytelling detail.
+  suggested_aliases:
+  - etiology of animal cry through speech
+  - animal call origin from human speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-cry-misunderstood-as-human-speech
+  motif_id: animal_cry_misunderstood_as_human_speech
+  label: animal cry misunderstood as human speech
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate comic misrecognition, omen interpretation, animal
+    speech, or a passage-specific misunderstanding.
+  cautions: Single occurrence; avoid mapping to dream/vision or sacred knowledge without
+    evidence that the misunderstanding conveys revelation or omen.
+  suggested_aliases:
+  - animal call mistaken for human speech
+  - misheard animal cry as speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - prophecy_divination
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-cry-rendered-as-song
+  motif_id: animal_cry_rendered_as_song
+  label: Animal cry rendered as song
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The closest existing group for animal sound rendered musically is music
+    or sound as expressive power.
+  cautions: Confidence is low because the label may be a transcription, translation,
+    or performance artifact rather than a mythic motif; review San source context
+    carefully.
+  suggested_aliases:
+  - animal cry as song
+  - animal call rendered musically
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-day-name-and-deity-name-association
+  motif_id: animal_day_name_and_deity_name_association
+  label: animal, day-name, and deity-name association
+  occurrences: 1
+  traditions:
+  - nahua
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The association of animal, day-name, and deity points to calendrical
+    sacred naming and ritual time.
+  cautions: Could also belong with prophecy_divination if the day-name system is used
+    for divination; culturally specific calendrical evidence should be reviewed.
+  suggested_aliases:
+  - animal day-name deity association
+  - calendrical animal and deity name association
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-derived-names-titles-and-analogical-images
+  motif_id: animal_derived_names_titles_and_analogical_images
+  label: animal-derived names, titles, and analogical images
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a naming, title, or metaphor cluster rather than
+    a clear narrative function.
+  cautions: May be a commentary artifact or culturally specific symbolic lexicon;
+    do not flatten into shapeshifter or animal motif without passage evidence.
+  suggested_aliases:
+  - animal-derived names and titles
+  - animal analogical titles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - royal_legitimacy
+    - prophecy_divination
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-directed-blood-drawing-with-a-clot-instruction
+  motif_id: animal_directed_blood_drawing_with_a_clot_instruction
+  label: Animal-directed blood-drawing with a clot instruction
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal instruction, blood ritual, and a specific clot
+    detail without enough context for placement.
+  cautions: Could involve sacred law, sacrifice, healing, divination, or an over-specific
+    episode; review source evidence and culturally sensitive ritual terminology.
+  suggested_aliases:
+  - animal instructs blood drawing
+  - blood-drawing instruction involving a clot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacrifice
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-dream-as-origin-of-society
+  motif_id: animal_dream_as_origin_of_society
+  label: animal dream as origin of society
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dream involving an animal functions as revelatory origin knowledge
+    for social order.
+  cautions: If the emphasis is founding social institutions, cosmic_origin or culture_hero
+    may be relevant secondary groups; handle Plains vision traditions with source-specific
+    care.
+  suggested_aliases:
+  - animal dream founds society
+  - society origin revealed in animal dream
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-dream-conferring-a-name
+  motif_id: animal_dream_conferring_a_name
+  label: Animal dream conferring a name
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif is a dream or vision that grants identity through a name, fitting
+    dream_and_vision.
+  cautions: May also intersect with sacred_knowledge or initiation if naming changes
+    status; preserve animal and naming details as local evidence.
+  suggested_aliases:
+  - name conferred in animal dream
+  - animal vision grants a name
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch involve animal speech, cries, or naming and may be
+  fable, performance, translation, or commentary artifacts rather than stable motifs.
+- For culturally specific Plains, Nahua, San, Zulu, and Native American Southeast
+  evidence, human review should confirm local ritual or narrative function before
+  final indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; prioritize source-context review for single-occurrence
+    and animal-speech labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1243
+  input_sha256: 807f0988c1a3a83679e1af8448abcb227c24b3013b96aa3330ec42a00cbe7338
+

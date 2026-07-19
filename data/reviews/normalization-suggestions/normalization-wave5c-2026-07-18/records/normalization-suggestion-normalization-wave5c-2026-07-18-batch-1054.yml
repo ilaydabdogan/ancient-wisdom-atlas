@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1054
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-music-as-a-diagnostic-of-government
+  motif_id: ritual_music_as_a_diagnostic_of_government
+  label: ritual music as a diagnostic of government
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: In Confucian context, ritual music evaluates and reflects proper political
+    and moral order, fitting sacred/social law more than music-as-enchantment.
+  cautions: Single occurrence; if the passage emphasizes sound's intrinsic sacred
+    force rather than governance, enchanting_music may be a secondary fit.
+  suggested_aliases:
+  - music_as_measure_of_government
+  - ritual_music_reflecting_social_order
+  - music_diagnoses_political_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-music-as-an-indispensable-means-of-supernatural-efficacy
+  motif_id: ritual_music_as_an_indispensable_means_of_supernatural_efficacy
+  label: Ritual music as an indispensable means of supernatural efficacy
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label centers on music or sound as a necessary supernatural force,
+    matching the sound-power group.
+  cautions: Review cultural context carefully; if the passage is mainly about ritual
+    reciprocity or offering, sacred_exchange may be relevant.
+  suggested_aliases:
+  - ritual_music_enables_supernatural_power
+  - music_required_for_ritual_efficacy
+  - sacred_song_as_ritual_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-mutual-shooting-with-animal-skin-bags
+  motif_id: ritual_mutual_shooting_with_animal_skin_bags
+  label: ritual mutual shooting with animal-skin bags
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is highly specific and its function is unclear: ordeal, mock
+    combat, purification, initiation, or localized ceremonial detail.'
+  cautions: Do not map from surface violence alone; source evidence is needed to determine
+    whether this belongs under initiation, sacred_combat, sacrifice, or should remain
+    an evidence note.
+  suggested_aliases:
+  - ritual_mock_shooting
+  - ceremonial_mutual_shooting
+  - animal_skin_bag_shooting_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-noisemaking-as-mythic-imitation
+  motif_id: ritual_noisemaking_as_mythic_imitation
+  label: Ritual noisemaking as mythic imitation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual sound/noise functions as sacred performance and imitation of mythic
+    action, fitting the broader sound-power group.
+  cautions: If the passage is mostly an aetiology of a ritual custom rather than sound
+    efficacy, cosmic_origin or sacred_law may be better secondary placements.
+  suggested_aliases:
+  - ritual_sound_as_mythic_imitation
+  - ceremonial_noise_reenacts_myth
+  - mythic_imitation_by_ritual_noise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-nourishment-and-honoring-of-the-aged
+  motif_id: ritual_nourishment_and_honoring_of_the_aged
+  label: ritual nourishment and honoring of the aged
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Feeding and honoring elders expresses ritual reciprocity, filial duty,
+    and social obligation.
+  cautions: If framed as normative ethical teaching rather than ritual exchange, sacred_law
+    may be equally or more appropriate.
+  suggested_aliases:
+  - ritual_feeding_of_elders
+  - honoring_the_aged_through_nourishment
+  - filial_nourishment_of_elders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-nudity-explained-by-divine-command-and-archaic-custom
+  motif_id: ritual_nudity_explained_by_divine_command_and_archaic_custom
+  label: ritual nudity explained by divine command and archaic custom
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual practice, divine command, and archaizing explanation;
+    its motif function is not clear from the label alone.
+  cautions: May be an etiological explanation of custom or a passage-specific antiquarian
+    note; review before mapping to sacred_law, covenant, or cosmic_origin.
+  suggested_aliases:
+  - ritual_nudity_by_divine_command
+  - archaic_custom_explaining_ritual_nudity
+  - divinely_commanded_ritual_nudity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-number-four
+  motif_id: ritual_number_four
+  label: ritual number four
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A sacred number may structure ritual, space, or cosmology, but the label
+    is too broad without source function.
+  cautions: Could fit sacred_time, sacred_law, cosmic_origin, or local directional
+    cosmology; avoid flattening culturally specific numerology into a generic motif.
+  suggested_aliases:
+  - sacred_number_four
+  - fourfold_ritual_structure
+  - ritual_fourness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-object-carrying-social-obligation
+  motif_id: ritual_object_carrying_social_obligation
+  label: Ritual object carrying social obligation
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: An object that carries obligation functions within reciprocal sacred
+    or social exchange.
+  cautions: If the object primarily confers power or protection, sacred_treasures
+    may be a secondary mapping.
+  suggested_aliases:
+  - obligation_bearing_ritual_object
+  - ritual_object_as_social_bond
+  - ceremonial_object_creates_obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-object-causing-withheld-rain-when-inverted
+  motif_id: ritual_object_causing_withheld_rain_when_inverted
+  label: ritual object causing withheld rain when inverted
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif concerns a ritual object's supernatural effect on rain or weather,
+    fitting intervention through sacred agency or instrumentality.
+  cautions: Very specific; if the main pattern is ritual rainmaking/coercion, sacred_exchange
+    may also apply. Preserve inversion detail as evidence, not a canonical label.
+  suggested_aliases:
+  - inverted_ritual_object_withholds_rain
+  - rain_withheld_by_ritual_object
+  - weather_control_through_ritual_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-object-charged-with-divine-power
+  motif_id: ritual_object_charged_with_divine_power
+  label: ritual object charged with divine power
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: A ritual object imbued with divine power is a power object that confers
+    or mediates sacred efficacy.
+  cautions: If the object is a container, vessel, or shrine rather than a portable
+    power object, sacred_vessel or world_center may be relevant.
+  suggested_aliases:
+  - divinely_charged_ritual_object
+  - ritual_power_object
+  - object_filled_with_sacred_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual descriptions; preserve
+  local evidence and avoid promoting overly specific ceremonial details into canonical
+  motifs without recurrence.
+- For music and noisemaking labels, distinguish sound as supernatural force from music
+  as marker of political or ritual order.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific ritual items,
+    especially Native American ceremonial details, need human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1054
+  input_sha256: a1cf01bd363756b384525d4212add6beae31ec051d4ee4bbb45f36faddbadc94
+

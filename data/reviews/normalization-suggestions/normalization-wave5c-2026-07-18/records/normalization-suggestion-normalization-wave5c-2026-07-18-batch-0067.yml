@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0067
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.common-descent-from-a-single-source-pangua
+  motif_id: common_descent_from_a_single_source_pangua
+  label: Common descent from a single source pangua
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes group ancestry from a named single source, matching
+    existing ancestry and people-origin etiologies under cosmic_origin.
+  cautions: Pangua may be a culturally specific ancestor, place, substance, or source
+    term; verify passage evidence before treating as creation or descent motif.
+  suggested_aliases:
+  - single_source_descent
+  - common_descent_from_named_source
+  - ancestral_origin_from_pangua
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.common-descent-social-grouping
+  motif_id: common_descent_social_grouping
+  label: common-descent social grouping
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Common descent used to define a social group fits the existing people-origin
+    and eponymous-ancestor materials in cosmic_origin.
+  cautions: Could be an ethnographic social-organization label rather than a narrative
+    motif; exclude or annotate if it only classifies kinship structure.
+  suggested_aliases:
+  - common_descent_group_origin
+  - social_group_defined_by_common_descent
+  - ancestral_descent_grouping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-access-to-contents-during-spirit-keeping
+  motif_id: communal_access_to_contents_during_spirit_keeping
+  label: communal access to contents during spirit-keeping
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines communal access, container contents, and spirit-keeping
+    but does not show a clear narrative function from wording alone.
+  cautions: May relate to sacred_vessel, ancestor_rites, sacred_exchange, or culturally
+    specific bundle/spirit-keeping practice; review source context sensitively before
+    mapping.
+  suggested_aliases:
+  - spirit_keeping_container_access
+  - communal_access_to_spirit_bundle_contents
+  - shared_access_during_spirit_keeping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-dance-in-the-realm-of-the-dead
+  motif_id: communal_dance_in_the_realm_of_the_dead
+  label: Communal dance in the realm of the dead
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: A communal activity located in the realm of the dead is afterlife landscape
+    evidence rather than a general dance motif.
+  cautions: If a living visitor witnesses the dance during an otherworld journey,
+    descent may be a useful secondary mapping; do not infer ritual borrowing or a
+    mapped afterlife route without evidence.
+  suggested_aliases:
+  - dance_in_realm_of_dead
+  - afterlife_communal_dance
+  - dead_dance_in_otherworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-death-dance-around-captive-execution
+  motif_id: communal_death_dance_around_captive_execution
+  label: communal death dance around captive execution
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe an execution rite, war ceremony, mourning action,
+    or passage-specific ethnographic detail.
+  cautions: Culturally sensitive and violence-specific; review evidence before placing
+    under sacrifice, sacred_combat, lament_and_mourning, or excluding as over-specific.
+  suggested_aliases:
+  - death_dance_around_captive_execution
+  - execution_death_dance
+  - communal_execution_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-destruction-of-a-dangerous-spirit
+  motif_id: communal_destruction_of_a_dangerous_spirit
+  label: communal destruction of a dangerous spirit
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Existing sacrifice children include communal expulsion or clearance of
+    harmful spiritual beings; destruction of a dangerous spirit belongs near that
+    ritual-expulsion complex.
+  cautions: If the passage is combat with a monster rather than ritual clearance,
+    divine_warrior or sacred_combat may fit better; verify communal ritual function.
+  suggested_aliases:
+  - communal_clearance_of_dangerous_spirit
+  - community_destroys_harmful_spirit
+  - communal_spirit_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-division-as-grave-moral-transgression
+  motif_id: communal_division_as_grave_moral_transgression
+  label: communal division as grave moral transgression
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Treating schism or communal division as a grave offense fits sacred law
+    and social order more than death or afterlife motifs.
+  cautions: Could also support divine_judgment if karmic punishment is central; if
+    it is doctrinal commentary only, consider exclusion from pattern queries.
+  suggested_aliases:
+  - schism_as_grave_transgression
+  - communal_division_as_sacred_offense
+  - division_of_community_as_moral_fault
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-epidemic-defense-against-land-spirits
+  motif_id: communal_epidemic_defense_against_land_spirits
+  label: Communal epidemic defense against land spirits
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A communal protective response against spirit-caused epidemic fits apotropaic
+    and spirit-contagion materials already grouped under sacred_law.
+  cautions: May overlap with sacrifice if the defense uses expulsion, transfer, or
+    offering; review local spirit and epidemic context carefully.
+  suggested_aliases:
+  - epidemic_defense_against_land_spirits
+  - communal_apotropaic_epidemic_rite
+  - spirit_epidemic_communal_defense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-festivity-after-safe-return
+  motif_id: communal_festivity_after_safe_return
+  label: Communal festivity after safe return
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Celebration after safe return can mark the return phase of a journey
+    or ordeal.
+  cautions: This may be a generic episode detail rather than a motif; if no transformative
+    journey or ordeal is present, exclude or leave as evidence note.
+  suggested_aliases:
+  - celebration_after_safe_return
+  - festivity_after_return
+  - communal_welcome_after_return
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.communal-grave-preparation-with-divided-tasks
+  motif_id: communal_grave_preparation_with_divided_tasks
+  label: communal grave preparation with divided tasks
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: low
+  rationale: Preparing a grave communally is a funerary rite and fits the broad funeral-rites
+    group if the burial is narratively significant.
+  cautions: The divided-task detail may be an over-specific mortuary custom; if not
+    tied to hero, kin, memorialization, or social order, consider ancestor_rites or
+    exclusion as an ethnographic detail.
+  suggested_aliases:
+  - communal_grave_preparation
+  - grave_preparation_with_divided_labor
+  - collective_burial_preparation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence, culturally specific, or ethnographic in wording;
+  placements should be treated as provisional review anchors, not taxonomy edits.
+- Death/descent bucket assignment appears broad for this batch; several items fit
+  social order, ritual protection, or origin/descent more than afterlife motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source evidence needed for culturally
+    specific spirit-keeping, execution dance, and mortuary custom labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0067
+  input_sha256: 959fed7d91a3b5fae2a859bf0ac60502270c64dcde0dc943de775b0a08d25656
+

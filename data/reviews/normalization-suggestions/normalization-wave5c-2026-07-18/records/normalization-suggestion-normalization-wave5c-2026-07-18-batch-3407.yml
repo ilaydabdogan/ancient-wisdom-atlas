@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3407
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.evil-or-malignant-eye-that-harms-by-sight
+  motif_id: evil_or_malignant_eye_that_harms_by_sight
+  label: Evil or malignant eye that harms by sight
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The evil eye is usually handled through apotropaic protection, taboo,
+    or ritual danger, already folded under sacred_law.
+  cautions: If the passage focuses on harmful sight as supernatural attack rather
+    than ritual regulation, a future harmful-gaze or spirit-danger grouping may be
+    more precise.
+  suggested_aliases:
+  - malignant_eye
+  - evil_eye_harms_by_sight
+  - harmful_gaze
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exact-number-injunction-violated-by-extra-companions
+  motif_id: exact_number_injunction_violated_by_extra_companions
+  label: Exact-number injunction violated by extra companions
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: An injunction with a precise number functions like a binding spoken rule,
+    taboo, or geis whose violation has narrative force.
+  cautions: Could instead fit sacred_law if framed as legal regulation, or divine_judgment
+    if punishment is the focus; confirm source context.
+  suggested_aliases:
+  - violated_number_injunction
+  - exact_number_taboo_violated
+  - companions_exceeding_commanded_number
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exaggerated-aquatic-feat-corrected-by-local-response
+  motif_id: exaggerated_aquatic_feat_corrected_by_local_response
+  label: exaggerated aquatic feat corrected by local response
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a passage-specific comic or corrective episode rather
+    than a stable symbolic motif.
+  cautions: If the aquatic feat is part of a recurring trickster boast, water-crossing
+    ordeal, or culture-hero contest, remap to trickster or sacred_waters after evidence
+    review.
+  suggested_aliases:
+  - boasted_aquatic_feat_corrected
+  - local_response_corrects_exaggerated_feat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exaggerated-body-part-as-identifying-sign
+  motif_id: exaggerated_body_part_as_identifying_sign
+  label: exaggerated body part as identifying sign
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A distinctive bodily feature functions as an identity proof, analogous
+    to scars and visible recognition tokens.
+  cautions: If the feature marks monstrosity, marvel, or transformation rather than
+    recognition, shapeshifter or a future monstrous-body group may fit better.
+  suggested_aliases:
+  - distinctive_body_part_as_recognition_sign
+  - bodily_feature_as_identity_marker
+  - exaggerated_body_part_recognition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exaggerated-body-parts-as-marvel-signs
+  motif_id: exaggerated_body_parts_as_marvel_signs
+  label: Exaggerated body parts as marvel signs
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Exaggerated body parts may mark marvelous birth, heroic exceptionality,
+    monstrous form, satire, or recognition depending on passage evidence.
+  cautions: Do not collapse to recognition unless the body parts identify someone;
+    do not map to shapeshifter unless transformation is present.
+  suggested_aliases:
+  - marvelous_body_parts
+  - extraordinary_body_features
+  - exaggerated_bodily_marvel_signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exalted-beings-cannot-be-enslaved-or-reduced-to-use
+  motif_id: exalted_beings_cannot_be_enslaved_or_reduced_to_use
+  label: exalted beings cannot be enslaved or reduced to use
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label states a normative rule about the proper status and treatment
+    of spiritually exalted beings.
+  cautions: May be an ethical doctrinal statement or contextual legal exception rather
+    than a mythic motif; if it is commentary only, exclude from pattern queries.
+  suggested_aliases:
+  - exalted_beings_not_enslavable
+  - sacred_persons_cannot_be_reduced_to_use
+  - spiritual_status_blocks_enslavement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exception-for-illness-within-a-rule-system
+  motif_id: exception_for_illness_within_a_rule_system
+  label: Exception for illness within a rule system
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: An illness exception is a specific sacred-law or disciplinary rule modification
+    based on bodily condition.
+  cautions: Likely a vinaya/legal detail; preserve as evidence only unless it recurs
+    as a broader pattern of compassionate exception.
+  suggested_aliases:
+  - illness_exception_to_rule
+  - medical_exception_in_sacred_discipline
+  - rule_exception_for_sickness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exception-to-preserve-goods-from-destruction
+  motif_id: exception_to_preserve_goods_from_destruction
+  label: exception to preserve goods from destruction
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: low
+  rationale: The label describes a rule-system exception governing property preservation,
+    best parked under sacred law.
+  cautions: May be an administrative or monastic legal detail too specific for motif
+    queries; consider exclusion if no narrative or symbolic function is present.
+  suggested_aliases:
+  - property_preservation_exception
+  - exception_to_prevent_loss_of_goods
+  - rule_exception_for_preserving_goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exceptional-destiny-above-ordinary-men
+  motif_id: exceptional_destiny_above_ordinary_men
+  label: Exceptional destiny above ordinary men
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: low
+  rationale: A figure marked by exceptional destiny aligns with the broader miraculous-child
+    or sacred-birth complex when tied to heroic or royal destiny.
+  cautions: If the passage concerns adult kingship, map to royal_legitimacy; if fate
+    itself is emphasized, death_by_fate or fate_figures_cosmic_weaving may be better.
+  suggested_aliases:
+  - extraordinary_destiny
+  - destiny_above_ordinary_humans
+  - hero_marked_by_exceptional_destiny
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exceptional-hunter-outdoes-local-hunters
+  motif_id: exceptional_hunter_outdoes_local_hunters
+  label: exceptional hunter outdoes local hunters
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be a hero-skill contest, outsider superiority episode,
+    culture-hero sign, or local narrative detail.
+  cautions: No existing group cleanly covers hunting prowess; avoid mapping to divine_warrior
+    unless combat or sacred empowerment is explicit.
+  suggested_aliases:
+  - superior_hunter_outdoes_locals
+  - exceptional_hunting_prowess
+  - outsider_hunter_surpasses_local_hunters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several single-occurrence Buddhist labels look like monastic/legal exceptions; sacred_law
+  is the best holding group, but reviewers should exclude any that are purely administrative
+  commentary.
+- Body-part labels need evidence review to distinguish recognition signs from marvelous
+  or monstrous physiology.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for batch 3407.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3407
+  input_sha256: 1799e5b844faf9670df71e0619faadf049c401b43a94f30dc4e0333c925c9ee8
+

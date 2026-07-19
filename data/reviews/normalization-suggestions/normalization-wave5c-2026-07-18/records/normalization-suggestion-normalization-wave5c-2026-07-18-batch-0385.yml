@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0385
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.spirit-mediated-food-taste-oracle
+  motif_id: spirit_mediated_food_taste_oracle
+  label: spirit-mediated food-taste oracle
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spirit-mediated oracle using food taste is a divinatory method for
+    accessing hidden knowledge.
+  cautions: Single occurrence; if the passage is mainly ritual feeding or ancestor
+    offering, ancestor_rites or sacred_exchange may be secondary.
+  suggested_aliases:
+  - food_taste_oracle
+  - spirit_mediated_oracle
+  - divination_by_food_taste
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-mediated-identification-of-a-newborn-s-name
+  motif_id: spirit_mediated_identification_of_a_newborn_s_name
+  label: Spirit-mediated identification of a newborn's name
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve spirit divination, reincarnation/ancestor naming,
+    or ritual naming of a child.
+  cautions: Culturally specific naming practices need source review; do not collapse
+    into miraculous_child unless the child has sacred destiny, or ancestor_rites unless
+    ancestral return is explicit.
+  suggested_aliases:
+  - spirit_mediated_newborn_naming
+  - spirit_identifies_newborn_name
+  - spirit_guided_name_identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-mediated-prophecy-through-ecstatic-suffering
+  motif_id: spirit_mediated_prophecy_through_ecstatic_suffering
+  label: spirit-mediated prophecy through ecstatic suffering
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core function is prophecy mediated by spirits through an ecstatic
+    or suffering state.
+  cautions: If the passage emphasizes altered perception rather than an established
+    prophetic role, dream_and_vision may be secondary; handle shamanic suffering with
+    cultural context.
+  suggested_aliases:
+  - ecstatic_suffering_prophecy
+  - spirit_mediated_prophecy
+  - prophecy_through_spirit_affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-messengers-from-the-sky
+  motif_id: spirit_messengers_from_the_sky
+  label: spirit messengers from the sky
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Sky spirits acting as messengers fit divine or sacred powers intervening
+    in human affairs through emissaries.
+  cautions: If the emphasis is a direct manifestation rather than messenger action,
+    theophany may be secondary; avoid assuming angelic equivalence.
+  suggested_aliases:
+  - sky_spirit_messengers
+  - spirit_messengers_from_above
+  - celestial_spirit_messengers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-name-shared-with-ritual-instrument
+  motif_id: spirit_name_shared_with_ritual_instrument
+  label: spirit-name shared with ritual instrument
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests ritual identity between a spirit and instrument, but
+    the narrative or ritual function is unclear.
+  cautions: May be ethnographic terminology or a local ritual classification rather
+    than a reusable motif; source evidence needed before mapping to sacred_treasures,
+    sacred_law, or sacred_knowledge.
+  suggested_aliases:
+  - ritual_instrument_shares_spirit_name
+  - spirit_named_ritual_instrument
+  - instrument_spirit_name_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-named-adopted-twin-child-obtained-by-exchange
+  motif_id: spirit_named_adopted_twin_child_obtained_by_exchange
+  label: spirit-named adopted twin child obtained by exchange
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This composite label combines spirit naming, adoption, twins, and exchange,
+    so its dominant motif is not clear.
+  cautions: Could involve sacred_twins, sacred_exchange, miraculous_child, or culturally
+    specific adoption/naming practice; too contextual for automatic placement.
+  suggested_aliases:
+  - spirit_named_adopted_twin
+  - adopted_twin_obtained_by_exchange
+  - spirit_named_child_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-or-dead-being-steals-food
+  motif_id: spirit_or_dead_being_steals_food
+  label: spirit or dead being steals food
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spirit or dead being stealing food points to active dead or spirits
+    disturbing the living order.
+  cautions: If the act is framed as required feeding or appeasement rather than theft,
+    ancestor_rites or sacred_exchange may be more appropriate.
+  suggested_aliases:
+  - dead_being_steals_food
+  - spirit_steals_food
+  - food_theft_by_dead_or_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-or-deity-embodiment-during-healing
+  motif_id: spirit_or_deity_embodiment_during_healing
+  label: Spirit or deity embodiment during healing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Healing through embodiment of a spirit or deity fits sacred powers acting
+    directly in human affliction and cure.
+  cautions: If the focus is possession/embodiment technique rather than healing outcome,
+    human review may be needed; avoid genericizing culturally specific healing rites.
+  suggested_aliases:
+  - spirit_embodiment_in_healing
+  - deity_embodiment_during_healing
+  - healing_by_spirit_embodiment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-or-devil-associated-with-ritual-or-atmospheric-phenomena
+  motif_id: spirit_or_devil_associated_with_ritual_or_atmospheric_phenomena
+  label: Spirit or devil associated with ritual or atmospheric phenomena
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad and could refer to ritual presence, weather signs,
+    spirit agency, or classificatory commentary.
+  cautions: Culturally sensitive and under-specified; review source wording before
+    mapping to divine_intervention, sacred_time, sacred_law, or nature/cosmos themes.
+  suggested_aliases:
+  - spirit_associated_with_atmospheric_phenomena
+  - ritual_atmospheric_spirit
+  - spirit_or_devil_ritual_weather_association
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spirit-or-power-entering-a-shaman-during-war-ritual
+  motif_id: spirit_or_power_entering_a_shaman_during_war_ritual
+  label: spirit or power entering a shaman during war ritual
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A spirit or power entering a ritual specialist to affect war is sacred
+    agency intervening in human conflict.
+  cautions: Could also relate to sacred_combat if the war function dominates; shamanic
+    embodiment and culturally specific ritual roles require source-sensitive review.
+  suggested_aliases:
+  - spirit_enters_shaman_in_war_ritual
+  - shamanic_spirit_power_in_war_rite
+  - war_ritual_spirit_possession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence, culturally specific spirit-mediated
+  ritual labels; placements should be treated as provisional indexing aids, not claims
+  of equivalence across traditions.
+- Consider whether recurring shamanic possession, spirit embodiment, and ritual specialist
+  mediation labels eventually warrant a dedicated review group; current suggestions
+  use existing divine_intervention or prophecy_divination groups where function is
+  clear.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; source-context review recommended
+    for naming, adoption, shamanic, and Indigenous spirit-ritual labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0385
+  input_sha256: '006856437d9a5b0c2ec1f8de5b575da7edd0ec68705dcd5d981aa3d59723bd88'
+

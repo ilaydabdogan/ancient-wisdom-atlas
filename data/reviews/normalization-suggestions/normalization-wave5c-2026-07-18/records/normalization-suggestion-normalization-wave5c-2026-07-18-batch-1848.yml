@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1848
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fortune-improved-through-association-with-a-lucky-person
+  motif_id: fortune_improved_through_association_with_a_lucky_person
+  label: fortune improved through association with a lucky person
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns contagious or shared luck, but no existing group cleanly
+    covers luck/fortune transfer without more context.
+  cautions: Single occurrence; may be a folktale plot detail, marriage/household prosperity
+    motif, blessing, or fate motif depending on evidence.
+  suggested_aliases:
+  - fortune_by_association
+  - luck_transferred_through_companionship
+  - prosperity_through_lucky_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - curse_blessing_speech
+    - death_by_fate
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foster-parent-as-ally-of-an-unwilling-bride
+  motif_id: foster_parent_as_ally_of_an_unwilling_bride
+  label: foster-parent as ally of an unwilling bride
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif concerns marriage choice and resistance to an unwanted union,
+    already near the sacred_love group's bride-choice and bride-winning children.
+  cautions: If the passage emphasizes kinship obligation or fosterage politics rather
+    than bride agency, sacred_law or covenant may be secondary review options.
+  suggested_aliases:
+  - ally_of_unwilling_bride
+  - foster_parent_aids_bride_choice
+  - kin_ally_against_forced_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.found-child-by-water-adopted-into-a-royal-household
+  motif_id: found_child_by_water_adopted_into_a_royal_household
+  label: found child by water adopted into a royal household
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: high
+  rationale: A found child adopted into a royal household fits extraordinary infancy,
+    hidden origin, and potential royal destiny.
+  cautions: Water may be an important evidence detail, but do not map to sacred_waters
+    unless the water functions as purifier, boundary, or transformative medium.
+  suggested_aliases:
+  - exposed_child_found_by_water
+  - foundling_adopted_by_royalty
+  - water_found_child_with_royal_adoption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.found-child-is-a-dangerous-supernatural-being
+  motif_id: found_child_is_a_dangerous_supernatural_being
+  label: found child is a dangerous supernatural being
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A found child with supernatural danger belongs to the extraordinary child
+    complex, though with threatening rather than salvific valence.
+  cautions: Could instead fit trickster, otherworld, or divine_intervention if the
+    being is primarily a disguised spirit or dangerous visitor; review source context.
+  suggested_aliases:
+  - dangerous_supernatural_foundling
+  - foundling_as_supernatural_threat
+  - ominous_found_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.founding-an-independent-village-after-recognition-and-marriage
+  motif_id: founding_an_independent_village_after_recognition_and_marriage
+  label: Founding an independent village after recognition and marriage
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sequence centers on recognition enabling marriage and a new social
+    foundation; existing recognition and sacred_love groups cover the main functions.
+  cautions: Composite and possibly episode-specific; if village founding is the core
+    motif rather than recognition, royal_legitimacy or culture_hero may be better
+    secondary mappings.
+  suggested_aliases:
+  - recognition_and_marriage_found_new_settlement
+  - village_founded_after_recognition_marriage
+  - marriage_after_recognition_establishes_new_household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - royal_legitimacy
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.founding-or-enlarging-a-household-side-through-marriage-allocation
+  motif_id: founding_or_enlarging_a_household_side_through_marriage_allocation
+  label: Founding or enlarging a household side through marriage allocation
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe local kinship or household organization
+    through marriage, not a clear existing mythic motif.
+  cautions: Single occurrence and culturally specific social-structure wording; avoid
+    forcing into sacred_love unless narrative evidence centers on marriage choice
+    or union.
+  suggested_aliases:
+  - household_expansion_through_marriage_allocation
+  - marriage_allocation_founds_household_side
+  - lineage_side_enlarged_by_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - royal_legitimacy
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foundlings-without-family-nurture
+  motif_id: foundlings_without_family_nurture
+  label: foundlings without family nurture
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: narrower_than
+  confidence: medium
+  rationale: Foundlings lacking ordinary family nurture fit the threatened, hidden,
+    or unusually raised child pattern.
+  cautions: If the passage is merely a biographical absence of family rather than
+    destiny-marked childhood, treat as contextual detail rather than a broad motif.
+  suggested_aliases:
+  - abandoned_foundlings_without_nurture
+  - child_without_family_nurture
+  - foundling_lacks_family_care
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-paradises-and-four-daughters-of-adam
+  motif_id: four_paradises_and_four_daughters_of_adam
+  label: Four paradises and four daughters of Adam
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines paradisal geography, genealogy, and a numbered schema;
+    its narrative function is unclear.
+  cautions: May belong to otherworld, cosmic_origin, or genealogical origin, but may
+    also be an exegetical or passage-specific catalog; source review needed.
+  suggested_aliases:
+  - four_paradises_with_daughters_of_adam
+  - paradisal_schema_with_adamic_daughters
+  - numbered_paradises_and_ancestral_daughters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - cosmic_origin
+    - sacred_twins
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fox-wife-or-animal-spouse-indicated-by-tale-title
+  motif_id: fox_wife_or_animal_spouse_indicated_by_tale_title
+  label: Fox wife or animal-spouse indicated by tale title
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'indicated by tale title' marks this as a title/classification
+    artifact rather than passage evidence for an animal-spouse motif.
+  cautions: If the actual story contains an animal spouse or fox wife, preserve that
+    evidence separately under shapeshifter or sacred_love after source review.
+  suggested_aliases:
+  - animal_spouse_title_marker
+  - fox_wife_tale_title_marker
+  - tale_title_indicates_animal_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fragile-bodied-sons-die-according-to-their-bodily-weakness
+  motif_id: fragile_bodied_sons_die_according_to_their_bodily_weakness
+  label: fragile-bodied sons die according to their bodily weakness
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif links bodily constitution to death, but it is unclear whether
+    this is fate, vulnerability, etiological anthropology, or an episode-specific
+    detail.
+  cautions: Could relate to death_by_fate or conditional_invulnerability_hidden_weakness
+    if a formal vulnerability structure is present; otherwise may be too specific
+    for pattern queries.
+  suggested_aliases:
+  - death_according_to_bodily_weakness
+  - fragile_sons_die_by_constitutional_weakness
+  - bodily_weakness_determines_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - conditional_invulnerability_hidden_weakness
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and culturally or socially specific;
+  final placement should check whether they are narrative motifs or contextual kinship
+  details.
+- Animal-spouse evidence should not be excluded solely because this generated label
+  is title-based; only the title-marker label should be excluded.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    ambiguous kinship, fortune, and paradisal-genealogical labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1848
+  input_sha256: f50bbd2eb1edc398be83ed59d4f0bb9ecc3e6fb0dd6b4020bac412211bed784f
+

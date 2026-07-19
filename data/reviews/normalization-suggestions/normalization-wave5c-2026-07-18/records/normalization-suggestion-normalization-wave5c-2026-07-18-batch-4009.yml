@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4009
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.survivor-escapes-by-hiding
+  motif_id: survivor_escapes_by_hiding
+  label: survivor escapes by hiding
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Single-context escape mechanism is likely an episode detail rather than
+    a durable motif.
+  cautions: If hiding preserves a remnant through world destruction, review under
+    ark_vessel or flood_and_renewal; label alone does not show renewal function.
+  suggested_aliases:
+  - escape_by_hiding
+  - hidden_survivor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivor-messenger-reports-a-slaughter
+  motif_id: survivor_messenger_reports_a_slaughter
+  label: Survivor messenger reports a slaughter
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a narrative reporting function after violence, not
+    a symbolic or ritual motif.
+  cautions: Could support sacred_combat or lament_and_mourning as evidence if the
+    passage centers on battle aftermath or communal grief.
+  suggested_aliases:
+  - survivor_reports_slaughter
+  - survivor_messenger_after_massacre
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivor-reports-to-maternal-figure
+  motif_id: survivor_reports_to_maternal_figure
+  label: Survivor reports to maternal figure
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Reporting to a maternal figure is too scene-specific without a clear
+    recurring mythic function.
+  cautions: If the maternal figure is divine or the report triggers mourning, judgment,
+    or rescue, map based on that fuller function.
+  suggested_aliases:
+  - survivor_reports_to_mother
+  - survivor_message_to_maternal_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivor-s-lament-after-destructive-burning
+  motif_id: survivor_s_lament_after_destructive_burning
+  label: survivor's lament after destructive burning
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is grief voiced by a survivor after catastrophic destruction.
+  cautions: Destructive burning may also support world_destroying_fire or flood_and_renewal
+    only if cosmic/order renewal is explicit.
+  suggested_aliases:
+  - survivor_lament_after_burning
+  - lament_after_destruction_by_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivor-witness-explains-origin-of-tale
+  motif_id: survivor_witness_explains_origin_of_tale
+  label: survivor witness explains origin of tale
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: A witness explaining how a tale originated concerns narrative transmission
+    and story authority.
+  cautions: May be a frame or provenance artifact rather than a motif; exclude if
+    it is merely editorial explanation.
+  suggested_aliases:
+  - survivor_witness_origin_story
+  - witness_account_as_origin_of_tale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivors-emerging-after-being-lost-in-the-bush
+  motif_id: survivors_emerging_after_being_lost_in_the_bush
+  label: survivors emerging after being lost in the bush
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Emergence after being lost may function as return from a dangerous journey
+    or ordeal.
+  cautions: Could be a travel detail without transformation; if the bush is an enchanted
+    realm, otherworld may fit better.
+  suggested_aliases:
+  - return_after_being_lost_in_bush
+  - survivors_emerge_from_wilderness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivors-escape-by-faster-small-canoe
+  motif_id: survivors_escape_by_faster_small_canoe
+  label: survivors escape by faster small canoe
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The faster small canoe is a highly specific escape device and likely
+    passage-level detail.
+  cautions: If water passage is central to transformation or rescue, consider sacred_waters
+    or divine_intervention with fuller evidence.
+  suggested_aliases:
+  - canoe_escape
+  - survivors_escape_by_canoe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivors-hidden-underground-after-devastation
+  motif_id: survivors_hidden_underground_after_devastation
+  label: survivors hidden underground after devastation
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Survivors preserved in a hidden refuge after devastation fits remnant
+    survival through catastrophe.
+  cautions: Map to ark_vessel as a secondary narrower function if the underground
+    refuge preserves life like an enclosure; avoid cosmic renewal unless a new order
+    follows.
+  suggested_aliases:
+  - underground_refuge_after_devastation
+  - hidden_survivors_after_catastrophe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivors-report-slaughter-and-trigger-a-relief-expedition
+  motif_id: survivors_report_slaughter_and_trigger_a_relief_expedition
+  label: Survivors report slaughter and trigger a relief expedition
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: The report of slaughter triggering expedition belongs, if useful, as
+    a combat aftermath and response sequence.
+  cautions: Likely too plot-specific for pattern queries; review whether the expedition
+    has sacred vengeance, rescue, or martial-order significance.
+  suggested_aliases:
+  - survivors_report_slaughter_triggering_rescue
+  - slaughter_report_prompts_relief_expedition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.survivors-summon-rescue-with-smoke
+  motif_id: survivors_summon_rescue_with_smoke
+  label: Survivors summon rescue with smoke
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Smoke signaling for rescue is an incident-level survival mechanism without
+    clear sacred function.
+  cautions: If smoke has ritual, fire, or divine-guidance significance in the passage,
+    reconsider under sacred_fire or divine_intervention.
+  suggested_aliases:
+  - smoke_signal_for_rescue
+  - survivors_signal_rescue_with_smoke
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are survivor-report or escape-mechanism details with
+  only one occurrence; most should remain evidence notes unless fuller passage context
+  shows catastrophe-renewal, combat, lament, or sacred rescue functions.
+- Do not infer flood, world renewal, or ark/vessel structure from the word survivor
+  alone.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for whether
+    survivor scenes are symbolic motifs or plot mechanics.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4009
+  input_sha256: bd1026e19864351214507d7934fb1aede8f87e636cc92d9145b3968e44ce48fb
+

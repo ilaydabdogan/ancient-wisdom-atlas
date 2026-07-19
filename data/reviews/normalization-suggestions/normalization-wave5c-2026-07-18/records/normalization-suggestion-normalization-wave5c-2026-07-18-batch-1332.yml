@@ -1,0 +1,359 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1332
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.gendered-division-of-domestic-space
+  motif_id: gendered_division_of_domestic_space
+  label: gendered division of domestic space
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Gendered Social Roles and Space
+  relationship: narrower_than
+  confidence: low
+  rationale: The label concerns gendered social ordering of space, which is not well
+    captured by sacred_law unless explicitly sacralized.
+  cautions: Single occurrence and ethnographic/contextual; verify whether this is
+    a narrative motif, ritual rule, or descriptive social detail before indexing.
+  suggested_aliases:
+  - gendered domestic space
+  - gendered spatial division
+  - gendered household space
+  suggested_new_group:
+    id: gendered_social_roles
+    label: Gendered Social Roles and Labor
+    description: Gendered allocation of work, instruction, space, adornment, or social
+      roles when framed as a culturally meaningful rule, mythic explanation, ritual
+      order, or narrative structure rather than a mere ethnographic detail.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - sacred_exchange
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing sacred_law covers social order broadly
+      but does not preserve the recurring gendered-role dimension; love/family/body
+      is present as an audit bucket but not as a canonical normalization group.
+- suggestion_id: normalization.suggestion.gendered-division-of-expedition-labor
+  motif_id: gendered_division_of_expedition_labor
+  label: gendered division of expedition labor
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Gendered Social Roles and Labor
+  relationship: narrower_than
+  confidence: low
+  rationale: Gendered labor allocation during travel or expedition fits a possible
+    gendered-role group better than wisdom or journey motifs.
+  cautions: May be an over-specific passage detail unless the division is ritually
+    mandated, etiologically explained, or narratively consequential.
+  suggested_aliases:
+  - gendered expedition roles
+  - gendered travel labor
+  - gendered task division in expedition
+  suggested_new_group:
+    id: gendered_social_roles
+    label: Gendered Social Roles and Labor
+    description: Gendered allocation of work, instruction, space, adornment, or social
+      roles when framed as a culturally meaningful rule, mythic explanation, ritual
+      order, or narrative structure rather than a mere ethnographic detail.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - sacred_exchange
+    - hero_journey
+    reason_existing_groups_insufficient: Existing groups can cover law, exchange,
+      or journey separately, but none preserves gendered role allocation as the central
+      pattern.
+- suggestion_id: normalization.suggestion.gendered-division-of-food-work
+  motif_id: gendered_division_of_food_work
+  label: gendered division of food work
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Gendered Social Roles and Labor
+  relationship: narrower_than
+  confidence: low
+  rationale: The motif names gendered allocation of food-related work, a social-role
+    pattern not represented cleanly by existing groups.
+  cautions: Could be descriptive ethnography rather than a motif; map only if the
+    source makes the division ritually, mythically, or narratively meaningful.
+  suggested_aliases:
+  - gendered food labor
+  - gendered food preparation roles
+  - gendered subsistence work
+  suggested_new_group:
+    id: gendered_social_roles
+    label: Gendered Social Roles and Labor
+    description: Gendered allocation of work, instruction, space, adornment, or social
+      roles when framed as a culturally meaningful rule, mythic explanation, ritual
+      order, or narrative structure rather than a mere ethnographic detail.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - sacred_exchange
+    - sacred_substance
+    reason_existing_groups_insufficient: Sacred_law is too broad and sacred_substance
+      would misplace the emphasis on food material rather than gendered labor.
+- suggestion_id: normalization.suggestion.gendered-division-of-hammock-manufacture
+  motif_id: gendered_division_of_hammock_manufacture
+  label: gendered division of hammock manufacture
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: Gendered Social Roles and Labor
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a very specific gendered craft-labor detail that may belong under
+    a broader gendered-role group if culturally meaningful.
+  cautions: Single occurrence and object-specific; exclude if it is only descriptive
+    material-culture evidence rather than a recurring motif.
+  suggested_aliases:
+  - gendered hammock making
+  - gendered craft labor
+  - gendered manufacture of domestic objects
+  suggested_new_group:
+    id: gendered_social_roles
+    label: Gendered Social Roles and Labor
+    description: Gendered allocation of work, instruction, space, adornment, or social
+      roles when framed as a culturally meaningful rule, mythic explanation, ritual
+      order, or narrative structure rather than a mere ethnographic detail.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - sacred_craft
+    reason_existing_groups_insufficient: Sacred_craft covers divinely aided construction,
+      not ordinary gendered manufacture; sacred_law is too broad without a gender-role
+      subgroup.
+- suggestion_id: normalization.suggestion.gendered-division-of-labor
+  motif_id: gendered_division_of_labor
+  label: Gendered division of labor
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Gendered Social Roles and Labor
+  relationship: broader_label
+  confidence: medium
+  rationale: This is the broad form of several unmapped labels concerning gendered
+    social and work roles.
+  cautions: Human review should decide whether to index as motif only when supported
+    by mythic, ritual, or normative framing, not as a generic anthropological descriptor.
+  suggested_aliases:
+  - gendered labor division
+  - gendered work roles
+  - gendered social labor
+  suggested_new_group:
+    id: gendered_social_roles
+    label: Gendered Social Roles and Labor
+    description: Gendered allocation of work, instruction, space, adornment, or social
+      roles when framed as a culturally meaningful rule, mythic explanation, ritual
+      order, or narrative structure rather than a mere ethnographic detail.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - sacred_exchange
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing sacred_law can hold social order
+      generally, but repeated gendered-role labels would lose useful granularity if
+      collapsed into broad sacred law.
+- suggestion_id: normalization.suggestion.gendered-division-of-literary-and-household-instruction
+  motif_id: gendered_division_of_literary_and_household_instruction
+  label: Gendered division of literary and household instruction
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: In a Confucian context, gendered instruction likely functions as social-ethical
+    order and normative pedagogy.
+  cautions: Could also support a future gendered_social_roles group; verify whether
+    the passage is prescriptive teaching rather than a one-off description.
+  suggested_aliases:
+  - gendered instruction
+  - gendered household education
+  - gendered literary education
+  suggested_new_group:
+    id: gendered_social_roles
+    label: Gendered Social Roles and Labor
+    description: Gendered allocation of work, instruction, space, adornment, or social
+      roles when framed as a culturally meaningful rule, mythic explanation, ritual
+      order, or narrative structure rather than a mere ethnographic detail.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - sacred_knowledge
+    reason_existing_groups_insufficient: Sacred_law is an acceptable current parent,
+      but a gendered-role subgroup would better preserve the repeated gendered instruction
+      pattern.
+- suggestion_id: normalization.suggestion.gendered-division-of-subsistence-and-household-labor
+  motif_id: gendered_division_of_subsistence_and_household_labor
+  label: Gendered division of subsistence and household labor
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Gendered Social Roles and Labor
+  relationship: narrower_than
+  confidence: low
+  rationale: The label combines subsistence and household work as gendered social
+    ordering, matching the proposed gendered-role cluster.
+  cautions: Overly descriptive unless the source frames the division as origin myth,
+    taboo, ritual obligation, or narrative conflict.
+  suggested_aliases:
+  - gendered subsistence and household work
+  - gendered household labor
+  - gendered subsistence roles
+  suggested_new_group:
+    id: gendered_social_roles
+    label: Gendered Social Roles and Labor
+    description: Gendered allocation of work, instruction, space, adornment, or social
+      roles when framed as a culturally meaningful rule, mythic explanation, ritual
+      order, or narrative structure rather than a mere ethnographic detail.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups do not distinguish gendered
+      labor as a recurrent social-order motif.
+- suggestion_id: normalization.suggestion.gendered-division-of-subsistence-labor
+  motif_id: gendered_division_of_subsistence_labor
+  label: gendered division of subsistence labor
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Gendered Social Roles and Labor
+  relationship: narrower_than
+  confidence: low
+  rationale: Gendered subsistence roles fit the same social-order cluster as other
+    gendered labor labels.
+  cautions: Needs source review; may be an ethnographic note rather than a symbolic
+    or narrative motif.
+  suggested_aliases:
+  - gendered subsistence roles
+  - gendered food-getting labor
+  - gendered livelihood work
+  suggested_new_group:
+    id: gendered_social_roles
+    label: Gendered Social Roles and Labor
+    description: Gendered allocation of work, instruction, space, adornment, or social
+      roles when framed as a culturally meaningful rule, mythic explanation, ritual
+      order, or narrative structure rather than a mere ethnographic detail.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - sacred_exchange
+    reason_existing_groups_insufficient: Sacred_law can hold social norms generally,
+      but does not preserve the gendered subsistence-role pattern.
+- suggestion_id: normalization.suggestion.gendered-fibre-body-ornaments
+  motif_id: gendered_fibre_body_ornaments
+  label: gendered fibre body ornaments
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: Gendered Social Roles and Labor
+  relationship: over_specific_label
+  confidence: low
+  rationale: Gendered adornment may express social role or ritual identity, but the
+    label is object-specific and lacks function.
+  cautions: Exclude if merely a material-culture description; map only if ornaments
+    mark rite, status, taboo, identity, or gendered social order in the passage.
+  suggested_aliases:
+  - gendered body ornaments
+  - gendered fibre adornment
+  - gendered adornment
+  suggested_new_group:
+    id: gendered_social_roles
+    label: Gendered Social Roles and Labor
+    description: Gendered allocation of work, instruction, space, adornment, or social
+      roles when framed as a culturally meaningful rule, mythic explanation, ritual
+      order, or narrative structure rather than a mere ethnographic detail.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - sacred_treasures
+    - initiation
+    reason_existing_groups_insufficient: Sacred_treasures covers power objects, not
+      ordinary gendered adornment; sacred_law is too broad unless a normative role
+      is explicit.
+- suggestion_id: normalization.suggestion.gendered-ornamented-clothing
+  motif_id: gendered_ornamented_clothing
+  label: Gendered ornamented clothing
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: Gendered Social Roles and Labor
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label may indicate gendered social identity through adornment, but
+    it is too underspecified for confident mapping.
+  cautions: Potentially culturally sensitive and material-culture specific; exclude
+    if not tied to ritual status, social rule, transformation, or narrative function.
+  suggested_aliases:
+  - gendered clothing
+  - gendered ceremonial clothing
+  - gendered adornment
+  suggested_new_group:
+    id: gendered_social_roles
+    label: Gendered Social Roles and Labor
+    description: Gendered allocation of work, instruction, space, adornment, or social
+      roles when framed as a culturally meaningful rule, mythic explanation, ritual
+      order, or narrative structure rather than a mere ethnographic detail.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - initiation
+    - sacred_treasures
+    reason_existing_groups_insufficient: Existing object and law groups do not cleanly
+      capture clothing as gendered social-role marker without additional source evidence.
+batch_notes:
+- This batch is dominated by single-occurrence gendered labor/adornment labels; many
+  may be ethnographic descriptors rather than motif-pattern labels.
+- A provisional new group, gendered_social_roles, may be useful if source review confirms
+  repeated mythic, ritual, or normative framing across traditions.
+- Avoid mapping these labels to wisdom_speech_dream_revelation solely because of their
+  current audit bucket; their semantic field is social order, gender roles, labor,
+  and material identity.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; culturally sensitive and source-dependent gender/social-role
+    labels require human review before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1332
+  input_sha256: 392f5477b98b57ed5f66977d841c552d9499d10b38881a30dc5573cc67473ce6
+

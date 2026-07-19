@@ -1,0 +1,312 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3449
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.female-adversary-revealed-at-the-killing-moment
+  motif_id: female_adversary_revealed_at_the_killing_moment
+  label: Female adversary revealed at the killing moment
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate disguise, recognition, gendered monster identity,
+    or a combat reveal, but the narrative function is unclear from wording alone.
+  cautions: Single occurrence and culturally/contextually specific; avoid mapping
+    to shapeshifter or sacred_combat unless the passage confirms disguise/transformation
+    or combat function.
+  suggested_aliases:
+  - female_enemy_revealed_at_death
+  - adversary_identity_revealed_at_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-adversary-stripped-of-magic-power-by-heated-irons
+  motif_id: female_adversary_stripped_of_magic_power_by_heated_irons
+  label: Female adversary stripped of magic power by heated irons
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to involve neutralizing a magical opponent, but existing
+    groups do not clearly distinguish magical disempowerment from combat, ritual purification,
+    or ordeal.
+  cautions: Highly specific and potentially violent/gendered episode detail; preserve
+    as evidence unless similar disempowerment motifs recur.
+  suggested_aliases:
+  - magical_adversary_disempowered_by_heated_irons
+  - witch_or_female_enemy_stripped_of_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - sacred_fire
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-assent-followed-by-maternal-betrothal
+  motif_id: female_assent_followed_by_maternal_betrothal
+  label: female assent followed by maternal betrothal
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Betrothal after a woman’s assent fits existing marriage-choice and bride-choice
+    patterns under sacred_love.
+  cautions: If the passage emphasizes kinship contract, maternal authority, or legal
+    procedure rather than love/marriage choice, sacred_law or covenant may be a secondary
+    review path.
+  suggested_aliases:
+  - female_consent_before_betrothal
+  - maternal_betrothal_after_bride_assent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-bodied-harmful-or-protective-power
+  motif_id: female_bodied_harmful_or_protective_power
+  label: Female-bodied harmful or protective power
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is broad and culturally sensitive, describing gendered sacred
+    power that may be protective, dangerous, divine, ancestral, or ritual.
+  cautions: Needs source context and careful review; avoid reducing female-bodied
+    sacred power to mother_goddess, sacred_law, or divine_intervention without evidence
+    of function.
+  suggested_aliases:
+  - female_embodied_ambivalent_power
+  - female_bodied_protective_or_dangerous_sacred_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - mother_goddess
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-captive-as-lineage-progenitor
+  motif_id: female_captive_as_lineage_progenitor
+  label: female captive as lineage progenitor
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines captivity, gender, ancestry, and lineage origin; its
+    emphasis could be genealogical etiology, social order, or a sensitive captive-woman
+    narrative.
+  cautions: Culturally sensitive and single occurrence; do not map to cosmic_origin
+    or miraculous_child without passage evidence and human review.
+  suggested_aliases:
+  - captive_woman_as_ancestor
+  - female_captive_founder_of_lineage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_law
+    - mother_goddess
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-celestial-figures
+  motif_id: female_celestial_figures
+  label: Female celestial figures
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Female celestial figures could be ancestors, stars, deities, guides,
+    or cosmological beings; the label names figures rather than a clear narrative
+    function.
+  cautions: Requires culturally specific source evidence; do not force into sacred_fire,
+    cosmic_origin, or mother_goddess based only on celestial/female imagery.
+  suggested_aliases:
+  - celestial_women
+  - female_sky_beings
+  - female_star_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - sacred_fire
+    - mother_goddess
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-custodians-of-oral-nursery-tales
+  motif_id: female_custodians_of_oral_nursery_tales
+  label: Female custodians of oral nursery tales
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on oral tale transmission and custodianship, which
+    fits storytelling as cultural memory and narrative power.
+  cautions: May be an ethnographic or textual note rather than a mythic motif if it
+    only describes informants or performers; review for passage-level narrative function.
+  suggested_aliases:
+  - women_as_custodians_of_oral_tales
+  - female_oral_story_custodians
+  - nursery_tale_transmission_by_women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-guardian-controlling-access-to-perilous-objects-and-place
+  motif_id: female_guardian_controlling_access_to_perilous_objects_and_place
+  label: female guardian controlling access to perilous objects and place
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: high
+  rationale: A guardian controlling access to dangerous objects and a perilous place
+    matches the threshold-guardian function.
+  cautions: If the object’s power is primary, secondary mapping to sacred_treasures
+    may be useful; if the figure is a fairy/otherworld ruler, otherworld may also
+    be relevant.
+  suggested_aliases:
+  - female_threshold_guardian
+  - woman_guardian_of_perilous_objects
+  - guardian_woman_controls_access_to_perilous_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-guide-to-enkidu
+  motif_id: female_guide_to_enkidu
+  label: female guide to Enkidu
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is tied to a named character and likely functions as episode-specific
+    description rather than a reusable motif label.
+  cautions: If generalized, the underlying pattern may involve a female guide initiating
+    a wild figure into human society, but that should be reviewed from passage evidence
+    rather than the named label.
+  suggested_aliases:
+  - female_civilizing_guide
+  - woman_guides_wild_man_to_culture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - culture_hero
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-helper-promised-at-a-future-encounter
+  motif_id: female_helper_promised_at_a_future_encounter
+  label: female helper promised at a future encounter
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A promised future helper fits quest structure, foreshadowing aid to the
+    hero at a later stage of the journey.
+  cautions: If the helper is explicitly otherworldly, divine, or a guardian figure,
+    consider otherworld, divine_intervention, or threshold_guardian as secondary mappings.
+  suggested_aliases:
+  - promised_future_helper
+  - female_helper_foretold_for_later_encounter
+  - future_aid_from_female_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch encode gendered roles or culturally specific sacred
+  power; human review should verify source evidence before broad taxonomy placement.
+- Named-character or episode-specific labels should be preserved as evidence notes
+  unless generalized motifs recur across sources.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional suggestions generated for normalization wave5c batch 3449; human
+    review recommended for culturally sensitive and over-specific items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3449
+  input_sha256: 4ca6e9a91278ee77641ea10882aa72df996bc0f773881561b556ef48513d3102
+

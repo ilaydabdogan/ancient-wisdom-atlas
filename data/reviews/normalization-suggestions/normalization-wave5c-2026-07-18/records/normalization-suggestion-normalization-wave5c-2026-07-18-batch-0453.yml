@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0453
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-helpers-aid-dangerous-journeys-and-conflicts
+  motif_id: animal_helpers_aid_dangerous_journeys_and_conflicts
+  label: animal helpers aid dangerous journeys and conflicts
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: The existing divine_intervention group already includes animal_helpers
+    as a child for supernatural guidance or aid in human affairs.
+  cautions: If the animal aid is ordinary rather than sacred or supernatural, this
+    may be a journey-detail rather than a motif.
+  suggested_aliases:
+  - animal helpers aid dangerous journeys
+  - animal helpers aid conflicts
+  - animal helpers in perilous travel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-helpers-as-pathmakers-during-an-origin-journey
+  motif_id: animal_helpers_as_pathmakers_during_an_origin_journey
+  label: Animal helpers as pathmakers during an origin journey
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal pathmakers function as guiding helpers, fitting the animal_helpers
+    child under divine_intervention.
+  cautions: Because this is an origin journey, secondary review may consider cosmic_origin
+    or hero_journey if the passage centers on people/world origins rather than guidance.
+  suggested_aliases:
+  - animal pathmakers
+  - animal helpers in origin journey
+  - animal guides open the way
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-helpers-open-a-passage-between-worlds
+  motif_id: animal_helpers_open_a_passage_between_worlds
+  label: animal helpers open a passage between worlds
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal helpers enabling passage between worlds fit supernatural guidance
+    and aid already covered by divine_intervention.
+  cautions: May also relate to threshold_guardian, axis_mundi, or descent depending
+    on whether the passage emphasizes a guarded boundary, vertical cosmic route, or
+    underworld journey.
+  suggested_aliases:
+  - animal helpers open world passage
+  - animal guides between worlds
+  - animal-assisted passage between realms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-hides-in-deep-water-during-attempted-crossing
+  motif_id: animal_hides_in_deep_water_during_attempted_crossing
+  label: Animal hides in deep water during attempted crossing
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too contextual to tell whether it is water-crossing peril,
+    animal deception, pursuit avoidance, or episode detail.
+  cautions: Do not map to sacred_waters or passage_through_waters unless the crossing
+    marks danger, transformation, purification, or boundary passage in the source.
+  suggested_aliases:
+  - animal hidden in deep water
+  - hiding during water crossing
+  - animal conceals itself in water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-howling-associated-with-scout-arrival
+  motif_id: animal_howling_associated_with_scout_arrival
+  label: Animal howling associated with scout arrival
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a single scene cue or narrative detail rather than a durable
+    motif.
+  cautions: If the howling functions as an omen, warning, or animal communication
+    in the passage, review for prophecy_divination, dream_and_vision, or divine_intervention
+    instead of exclusion.
+  suggested_aliases:
+  - animal howling marks scout arrival
+  - howling associated with scout arrival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-interlocutors-redirect-the-quest
+  motif_id: animal_interlocutors_redirect_the_quest
+  label: animal interlocutors redirect the quest
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Speaking animal guides who redirect a quest fit animal_helpers within
+    divine_intervention and guidance.
+  cautions: If the animals are tricksters or tests rather than helpers, trickster
+    or threshold_guardian may be a better review placement.
+  suggested_aliases:
+  - talking animals redirect quest
+  - animal guides redirect quest
+  - animal interlocutors guide the seeker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-kinship-and-killing-taboo
+  motif_id: animal_kinship_and_killing_taboo
+  label: animal kinship and killing taboo
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A kinship-based prohibition on killing animals fits sacred law, taboo,
+    and ritual prohibition patterns.
+  cautions: Review cultural specificity carefully; if the passage emphasizes totemic
+    ancestry or origin rather than taboo, cosmic_origin or a future animal-kinship
+    group may be preferable.
+  suggested_aliases:
+  - animal kinship taboo
+  - taboo on killing animal kin
+  - totemic killing prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-kinship-in-an-undersea-house
+  motif_id: animal_kinship_in_an_undersea_house
+  label: Animal kinship in an undersea house
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal kinship, undersea otherworld space, and household
+    imagery; the dominant function is unclear.
+  cautions: Could fit otherworld if the undersea house is an enchanted realm, sacred_waters
+    if water passage is central, or sacred_law if kinship creates taboo obligations.
+  suggested_aliases:
+  - undersea animal kinship
+  - animal relatives in undersea house
+  - underwater house of animal kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-kinship-prevents-battle
+  motif_id: animal_kinship_prevents_battle
+  label: animal kinship prevents battle
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Kinship preventing combat may be sacred law, covenantal restraint, recognition,
+    or conflict-resolution detail depending on evidence.
+  cautions: Do not force into sacred_combat because the key action is battle avoidance;
+    source context is needed to determine whether animal kinship is totemic, genealogical,
+    or symbolic.
+  suggested_aliases:
+  - animal kinship averts battle
+  - kinship with animals prevents combat
+  - totemic kinship prevents fighting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-kinship-signaled-by-sub-totem-warning
+  motif_id: animal_kinship_signaled_by_sub_totem_warning
+  label: Animal kinship signaled by sub-totem warning
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves culturally specific totemic kinship and warning; existing
+    groups do not cleanly capture it from label alone.
+  cautions: Handle culturally specific totemic terminology with human review. Possible
+    placements include sacred_law for taboo/warning, prophecy_divination for omen,
+    or cosmic_origin for ancestral-totemic identity.
+  suggested_aliases:
+  - totemic warning of animal kinship
+  - sub-totem warning
+  - animal kinship warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to animal helpers already represented under divine_intervention,
+  but animal kinship/totemic identity may need culturally sensitive human review before
+  broad normalization.
+- Avoid treating all water or undersea labels as flood/descent; only map to sacred_waters
+  or descent when the passage function supports boundary passage, transformation,
+  or underworld travel.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; animal-kinship and totemic-warning labels especially
+    require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0453
+  input_sha256: 87c8713c3e7e1d8295f574b3d44db8f2fc096cc2f074555b2b6e67525a4625c9
+

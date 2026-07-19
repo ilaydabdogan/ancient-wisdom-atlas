@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2254
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.serpent-body-part-sought-as-medicine
+  motif_id: serpent_body_part_sought_as_medicine
+  label: Serpent body-part sought as medicine
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: serpent_guardian
+  suggested_group_label: Serpent and Serpent Guardian
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on serpent power and healing potency, which fits the
+    serpent complex of danger, wisdom, hidden power, and healing.
+  cautions: Single occurrence; if the passage focuses on medicinal substance rather
+    than serpent symbolism, sacred_substance or sacred_treasures may be a better secondary
+    review path.
+  suggested_aliases:
+  - serpent_medicine
+  - serpent_body_part_as_healing_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.serpent-like-adversary-on-the-path
+  motif_id: serpent_like_adversary_on_the_path
+  label: Serpent-like adversary on the path
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: An adversary encountered on a path functions as a liminal obstacle to
+    passage; serpent-like form is secondary to the threshold role.
+  cautions: Because the tradition is Sufi, the adversary may be allegorical in a mystical
+    quest; review whether mystical_quest or serpent_guardian should be secondary.
+  suggested_aliases:
+  - serpentine_path_adversary
+  - serpent_adversary_on_the_way
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.serpentine-arm-ring-gift
+  motif_id: serpentine_arm_ring_gift
+  label: Serpentine arm-ring gift
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif appears to center on a power object or gift whose serpentine
+    form carries symbolic force.
+  cautions: May be an over-specific object detail unless the ring confers authority,
+    obligation, protection, or supernatural power in the passage.
+  suggested_aliases:
+  - serpent_arm_ring
+  - serpentine_ring_gift
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.service-to-subaquatic-powers-by-animal-associated-groups
+  motif_id: service_to_subaquatic_powers_by_animal_associated_groups
+  label: service to subaquatic powers by animal-associated groups
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines ritual service, underwater powers, and animal-associated
+    social groups without enough context to identify a dominant motif function.
+  cautions: Culturally sensitive and possibly ethnographic or clan-ritual specific;
+    review source evidence before mapping to sacred_waters, sacred_exchange, divine_intervention,
+    or animal/totemic categories.
+  suggested_aliases:
+  - service_to_underwater_powers
+  - animal_associated_groups_serving_subaquatic_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sex-specific-animal-totems
+  motif_id: sex_specific_animal_totems
+  label: Sex-specific animal totems
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a comparative classification of totemic affiliation by sex rather
+    than a clear narrative or symbolic motif in the current groups.
+  cautions: May be an ethnographic taxonomy artifact; if retained, it may require
+    a future totemic_identity group rather than forcing into shapeshifter or sacred_law.
+  suggested_aliases:
+  - gender_specific_animal_totems
+  - sex_differentiated_totemic_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shadow-paired-with-animal
+  motif_id: shadow_paired_with_animal
+  label: shadow paired with animal
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A shadow paired with an animal suggests a separable vital double or soul-counterpart,
+    which fits the external-soul complex.
+  cautions: Label is terse; if it only describes imagery or simile, exclude or review
+    rather than indexing as soul externalization.
+  suggested_aliases:
+  - animal_shadow_double
+  - shadow_animal_counterpart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shaman-silences-an-animal-alarm
+  motif_id: shaman_silences_an_animal_alarm
+  label: Shaman silences an animal alarm
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a highly specific shamanic action involving animal communication
+    or control, with no clear existing broad group fit.
+  cautions: Could be ritual specialist power, trickster deception, animal-helper interaction,
+    or passage-specific detail; review cultural context carefully.
+  suggested_aliases:
+  - shaman_silences_animal_warning
+  - ritual_specialist_quiets_animal_alarm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-cure-of-animal-supernatural-being-by-removing-projectile
+  motif_id: shamanic_cure_of_animal_supernatural_being_by_removing_projectile
+  label: Shamanic cure of animal-supernatural being by removing projectile
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a specific healing episode involving shamanic practice and an
+    animal-supernatural being, not clearly covered by existing motif groups.
+  cautions: May point to a recurring shamanic healing or spirit-injury complex, but
+    source evidence is needed before creating or assigning a durable group.
+  suggested_aliases:
+  - shamanic_projectile_extraction_healing
+  - animal_supernatural_being_cured_by_projectile_removal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-fasting-and-supernatural-promise-of-animal-abundance
+  motif_id: shamanic_fasting_and_supernatural_promise_of_animal_abundance
+  label: shamanic fasting and supernatural promise of animal abundance
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fasting followed by a supernatural promise of abundance fits ritual renunciation
+    or offering that establishes reciprocal provision.
+  cautions: If the emphasis is direct spirit provisioning rather than exchange, divine_intervention
+    may be a secondary mapping; review culturally specific ritual context.
+  suggested_aliases:
+  - fasting_for_animal_abundance
+  - supernatural_promise_of_game_after_fasting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-finding-of-floating-sea-animals
+  motif_id: shamanic_finding_of_floating_sea_animals
+  label: Shamanic finding of floating sea animals
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too context-dependent to distinguish animal abundance, sea-spirit
+    guidance, shamanic vision, or a local narrative episode.
+  cautions: Review source evidence before mapping to sacred_waters, divine_intervention,
+    sacred_exchange, or a future animal-abundance/shamanic-power group.
+  suggested_aliases:
+  - shaman_finds_floating_sea_animals
+  - floating_sea_animals_found_by_shaman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch involve Indigenous or shamanic ritual contexts and
+  should receive human cultural-context review before broad indexing.
+- No transmission or borrowing claims are implied by these placements.
+- Animal-specific details should be preserved as evidence notes where the broader
+  narrative function is ritual exchange, threshold encounter, healing, or soul externalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; multiple low-occurrence and culturally
+    sensitive shamanic/totemic labels require human source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2254
+  input_sha256: 78c7c1954885fd5daf4db3e2a880d82c554e14ca080324e4835e51d4311729da
+

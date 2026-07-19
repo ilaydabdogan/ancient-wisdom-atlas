@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1232
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.witness-or-herald-in-divine-accusation
+  motif_id: witness_or_herald_in_divine_accusation
+  label: witness or herald in divine accusation
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: role_variant
+  confidence: medium
+  rationale: A witness or herald presenting divine accusation serves the procedural
+    role of sacred judgment or moral reckoning.
+  cautions: Single occurrence; could instead be a theophany, prophecy, or rhetorical
+    passage detail depending on source context.
+  suggested_aliases:
+  - divine_accusation_herald
+  - herald_of_divine_judgment
+  - witness_in_divine_judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wolf-as-divine-or-mythic-watchdog
+  motif_id: wolf_as_divine_or_mythic_watchdog
+  label: wolf as divine or mythic watchdog
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: A mythic watchdog functions as a guardian of a boundary, sacred place,
+    or passage.
+  cautions: Animal identity may be culturally specific; if the wolf is mainly a helper,
+    clan being, or tutelary spirit, divine_intervention may fit better.
+  suggested_aliases:
+  - wolf_watchdog
+  - mythic_wolf_guardian
+  - divine_wolf_guardian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wolf-identified-sacred-place-slayer
+  motif_id: wolf_identified_sacred_place_slayer
+  label: Wolf-identified sacred-place slayer
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal identity, sacred place, and slaying without
+    enough evidence to determine whether the function is combat, place etiology, taboo,
+    or divine judgment.
+  cautions: Likely over-compressed or source-specific; review passage before mapping
+    to sacred_combat, cosmic_origin, threshold_guardian, or divine_judgment.
+  suggested_aliases:
+  - wolf_identified_slayer
+  - sacred_place_slayer
+  - wolf_slayer_at_sacred_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.woman-as-divine-emanation
+  motif_id: woman_as_divine_emanation
+  label: Woman as divine emanation
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_beloved
+  suggested_group_label: Divine Beloved
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In a Sufi context, a woman as manifestation or emanation of divinity
+    often aligns with the sacred appearing as beloved or beauty.
+  cautions: Could also belong to theophany, sacred_love, or mother_goddess depending
+    on whether the emphasis is manifestation, erotic-mystical love, or sacred feminine
+    theology.
+  suggested_aliases:
+  - feminine_divine_emanation
+  - woman_as_manifestation_of_divinity
+  - beloved_as_divine_emanation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.women-only-ritual-festival
+  motif_id: women_only_ritual_festival
+  label: women-only ritual festival
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A gender-restricted festival is best treated as a calendrical or ritual-cycle
+    observance when no more specific ritual function is provided.
+  cautions: If the source emphasizes fertility, mystery initiation, sacrifice, or
+    social law, mother_goddess, initiation, sacrifice, or sacred_law may be better
+    secondary mappings.
+  suggested_aliases:
+  - women_s_ritual_festival
+  - female_only_festival_observance
+  - women_only_sacred_festival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.women-only-ritual-procession-and-festival-observance
+  motif_id: women_only_ritual_procession_and_festival_observance
+  label: women-only ritual procession and festival observance
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a recurring ritual observance and procession, fitting
+    sacred calendar and festival-cycle patterns.
+  cautions: Procession details may be local evidence rather than a durable motif;
+    review whether deity, fertility, initiation, or purity rules dominate the passage.
+  suggested_aliases:
+  - women_s_ritual_procession
+  - female_only_processional_festival
+  - women_only_festival_procession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.women-only-sacred-or-ceremonial-dance
+  motif_id: women_only_sacred_or_ceremonial_dance
+  label: women-only sacred or ceremonial dance
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif is clearly ritual performance, but the existing groups lack
+    a clean ritual dance or ceremonial performance parent.
+  cautions: Culturally specific ceremonial practice; avoid flattening into sacred_time
+    or sacred_exchange without evidence of calendrical cycle, offering, healing, or
+    initiation function.
+  suggested_aliases:
+  - women_s_ceremonial_dance
+  - female_only_sacred_dance
+  - women_only_ritual_dance
+  suggested_new_group:
+    id: sacred_dance_ritual_performance
+    label: Sacred Dance and Ritual Performance
+    description: Ceremonial dance, procession, embodied performance, or gendered ritual
+      action used to honor sacred powers, enact communal identity, mark sacred time,
+      or mediate divine-human relations.
+    parent_group_ids:
+    - sacred_time
+    - sacred_exchange
+    related_group_ids:
+    - initiation
+    - sacred_law
+    - enchanting_music
+    reason_existing_groups_insufficient: Existing groups cover music, sacred time,
+      and exchange, but not embodied ritual performance or dance as the primary recurring
+      motif.
+- suggestion_id: normalization.suggestion.wooden-charm-used-for-mystic-control-of-a-god-figure
+  motif_id: wooden_charm_used_for_mystic_control_of_a_god_figure
+  label: Wooden charm used for mystic control of a god figure
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label involves a ritual power object used to control a divine figure,
+    but its cultural and ritual context is essential for placement.
+  cautions: Culturally sensitive and possibly over-specific; could map to sacred_treasures,
+    sacred_law, sacred_exchange, or divine_intervention depending on whether the charm
+    is a power object, coercive rite, taboo, or spirit-control practice.
+  suggested_aliases:
+  - wooden_control_charm
+  - charm_for_divine_control
+  - ritual_charm_controlling_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.woodland-sanctuary-of-a-deity
+  motif_id: woodland_sanctuary_of_a_deity
+  label: woodland sanctuary of a deity
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deity's woodland sanctuary is a sacred place or center enabling contact
+    with divine presence.
+  cautions: If the focus is specifically tree worship, use sacred_tree_axis; if it
+    is merely a place-name or cult-site note, it may be too descriptive for motif
+    queries.
+  suggested_aliases:
+  - sacred_woodland_sanctuary
+  - deity_s_woodland_shrine
+  - sacred_grove_of_a_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.world-as-divine-dwelling
+  motif_id: world_as_divine_dwelling
+  label: world as divine dwelling
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The world understood as divine dwelling frames the cosmos as a manifestation
+    or presence of the divine.
+  cautions: Could also fit supreme_ruler or cosmic_origin if the passage stresses
+    sovereignty or creation rather than immanent presence.
+  suggested_aliases:
+  - cosmos_as_divine_dwelling
+  - world_as_house_of_god
+  - divine_presence_in_the_world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual or culturally specific
+  practices; placements should remain provisional until source passages are reviewed.
+- For women-only ceremonial dance and charm-based control of a god figure, human review
+  is preferred to avoid flattening local ritual categories into overly broad groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1232
+  input_sha256: 8a99f5db1d55b5184ca087d2b75d7a61a75c625d2598fef39ce0e9a18c929101
+

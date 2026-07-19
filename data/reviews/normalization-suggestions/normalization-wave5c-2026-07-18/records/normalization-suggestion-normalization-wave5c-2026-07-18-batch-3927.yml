@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3927
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.saving-scarce-gifts-for-kin
+  motif_id: saving_scarce_gifts_for_kin
+  label: saving scarce gifts for kin
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern kin-directed gift obligation or reciprocal distribution,
+    but sacred or ritual function is not clear from wording alone.
+  cautions: Single occurrence; may be an ordinary subsistence or social-detail note
+    rather than a motif. Review source evidence before indexing.
+  suggested_aliases:
+  - kin-directed gift saving
+  - scarce gifts reserved for kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.saviours-deliver-the-community-from-hostile-forces
+  motif_id: saviours_deliver_the_community_from_hostile_forces
+  label: saviours deliver the community from hostile forces
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Community deliverance by savior figures fits sacred aid or intervention
+    against hostile forces.
+  cautions: If the saviors are primarily eschatological warrior figures, secondary
+    review under divine_warrior or divine_judgment may be warranted.
+  suggested_aliases:
+  - saviors deliver community from enemies
+  - community rescued from hostile forces
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scalding-or-hot-substance-removes-feathers-or-threatens-skin
+  motif_id: scalding_or_hot_substance_removes_feathers_or_threatens_skin
+  label: Scalding or hot substance removes feathers or threatens skin
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could be punishment, trickster harm, bodily transformation,
+    or an episode-specific physical detail.
+  cautions: Over-specific single occurrence; do not map to sacred_fire unless fire
+    or heat has sacred, purifying, or transformative function in the passage.
+  suggested_aliases:
+  - hot substance removes feathers
+  - scalding threatens skin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scalp-as-trophy-and-bounty-object
+  motif_id: scalp_as_trophy_and_bounty_object
+  label: Scalp as trophy and bounty object
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: medium
+  rationale: A body part taken as trophy or proof of combat fits the existing combat-trophy
+    material under divine_warrior.
+  cautions: Culturally sensitive and historically contextual; if the focus is bounty
+    economy rather than mythic combat proof, consider excluding from broad pattern
+    queries.
+  suggested_aliases:
+  - scalp trophy as proof of combat
+  - scalp as bounty object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scalp-trophy-followed-by-dance
+  motif_id: scalp_trophy_followed_by_dance
+  label: Scalp trophy followed by dance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: ritual_variant
+  confidence: low
+  rationale: A trophy display followed by dance may belong with ritualized combat
+    and martial proof.
+  cautions: Culturally sensitive; source evidence should determine whether the dance
+    is ritual, celebration, mourning, or ethnographic detail. Could also relate to
+    sacred_combat.
+  suggested_aliases:
+  - scalp trophy dance
+  - dance following scalp trophy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scalps-and-slaves-as-raid-objectives
+  motif_id: scalps_and_slaves_as_raid_objectives
+  label: scalps and slaves as raid objectives
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: Raid objectives fit the existing sacred_combat grouping for warfare and
+    raiding patterns.
+  cautions: May be a historical or ethnographic detail rather than a symbolic motif;
+    culturally sensitive and should be reviewed for source context.
+  suggested_aliases:
+  - raid for scalps and slaves
+  - war raid objectives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scapegoat-and-expulsion-or-transfer-of-evil-and-sickness
+  motif_id: scapegoat_and_expulsion_or_transfer_of_evil_and_sickness
+  label: scapegoat and expulsion or transfer of evil and sickness
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label directly matches existing scapegoat, ritual transfer, and expulsion
+    material under sacrifice.
+  cautions: Comparative label may be synthetic; preserve local ritual details if specific
+    evidence is present.
+  suggested_aliases:
+  - scapegoat transfer of evil
+  - expulsion of evil and sickness
+  - transfer of sickness to scapegoat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scapegoated-slave-destroyed-after-medicine-man-s-accusation
+  motif_id: scapegoated_slave_destroyed_after_medicine_man_s_accusation
+  label: scapegoated slave destroyed after medicine-man’s accusation
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: uncertain
+  confidence: low
+  rationale: The wording suggests scapegoating, but also involves accusation, violence,
+    slavery, and culturally sensitive ritual authority.
+  cautions: Do not collapse into sacrifice without confirming ritual transfer or expulsion.
+    The label may be an episode-specific social-violence detail or colonial/ethnographic
+    framing.
+  suggested_aliases:
+  - scapegoated person destroyed after ritual accusation
+  - accused scapegoat killed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scapegoating-after-collective-failure
+  motif_id: scapegoating_after_collective_failure
+  label: scapegoating after collective failure
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Blame assignment after collective failure may function as moral reckoning
+    or social judgment.
+  cautions: If a ritual substitute bears communal evil, sacrifice/scapegoat is better;
+    if only social blame, it may be too generic for motif indexing.
+  suggested_aliases:
+  - collective failure followed by scapegoating
+  - scapegoat blamed for communal failure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scarce-drift-or-trade-material-treated-as-valuable
+  motif_id: scarce_drift_or_trade_material_treated_as_valuable
+  label: scarce drift or trade material treated as valuable
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an economic or environmental context note about material
+    scarcity rather than a recurring symbolic motif.
+  cautions: If the material is a sacred treasure, gift, or culture-hero object in
+    the source, remap with that evidence; otherwise exclude from motif pattern queries.
+  suggested_aliases:
+  - valuable scarce drift material
+  - scarce trade material valued
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern culturally sensitive violence, slavery, trophy-taking,
+  or ritual accusation; human review should check source framing before broad indexing.
+- For scalp and raid labels, distinguish mythic combat proof or ritual warfare from
+  historical/ethnographic details.
+- Scapegoat labels should only map to sacrifice when substitution, transfer, expulsion,
+  or ritual offering is evidenced.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; batch contains multiple single-occurrence and
+    culturally sensitive labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3927
+  input_sha256: 0b38e5b8798528866ee3a508324c0b6323746cb8170dc6fa06852dfc81265335
+

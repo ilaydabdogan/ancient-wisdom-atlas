@@ -1,0 +1,311 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3944
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.settlement-located-by-smoke-and-visible-huts
+  motif_id: settlement_located_by_smoke_and_visible_huts
+  label: settlement located by smoke and visible huts
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a practical travel or scene-detail marker rather than a
+    recurring symbolic motif.
+  cautions: If smoke functions as revelation, omen, or guidance in the source, reconsider
+    under divine_intervention or journey evidence; otherwise preserve only as passage
+    detail.
+  suggested_aliases:
+  - settlement_found_by_smoke
+  - visible_smoke_marks_habitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-organized-around-maloka-dance-ground-and-outlying-plantations
+  motif_id: settlement_organized_around_maloka_dance_ground_and_outlying_plantations
+  label: settlement organized around maloka, dance ground, and outlying plantations
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe sacred spatial organization, but it may also be
+    an ethnographic settlement-description artifact.
+  cautions: Culturally specific Amazonian maloka and dance-ground meanings require
+    source review; do not collapse into world_center unless the settlement is explicitly
+    cosmological or ritual-center imagery.
+  suggested_aliases:
+  - maloka_centered_settlement
+  - ritual_settlement_around_dance_ground
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.settlement-used-as-a-defensive-buffer
+  motif_id: settlement_used_as_a_defensive_buffer
+  label: Settlement used as a defensive buffer
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a strategic or historical settlement function rather
+    than a mythic motif.
+  cautions: If the settlement is ritually established as a protective boundary, review
+    under sacred_law or threshold-related material; current wording is too pragmatic
+    for pattern queries.
+  suggested_aliases:
+  - defensive_buffer_settlement
+  - settlement_as_buffer_zone
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-buffalo-produced-after-placement-of-seven-buffalo-chips
+  motif_id: seven_buffalo_produced_after_placement_of_seven_buffalo_chips
+  label: Seven buffalo produced after placement of seven buffalo chips
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The production of buffalo from placed material fits miraculous provision
+    or supernatural generation of animal abundance.
+  cautions: The exact ritual action and number seven may be locally important; preserve
+    the buffalo-chip detail and consider sacred_exchange if framed as a rite of reciprocity.
+  suggested_aliases:
+  - buffalo_generated_from_buffalo_chips
+  - miraculous_buffalo_provision_from_placed_chips
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-day-feast-and-repeated-seven-year-term
+  motif_id: seven_day_feast_and_repeated_seven_year_term
+  label: seven-day feast and repeated seven-year term
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A seven-day feast and seven-year recurrence foreground calendrical or
+    ritual time cycles.
+  cautions: Could be a passage-specific chronology if no ritual or sacred temporal
+    function is present; feast context may also support sacred_exchange.
+  suggested_aliases:
+  - seven_day_feast_seven_year_cycle
+  - septenary_feast_and_year_term
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-evil-demons
+  motif_id: seven_evil_demons
+  label: Seven evil demons
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label names a culturally specific demon group but does not state
+    the narrative function: affliction, expulsion, chaos, threshold danger, or divine
+    agency.'
+  cautions: Review Mesopotamian source evidence before placement; possible fits include
+    sacrifice for exorcistic expulsion, divine_judgment for punitive demons, or chaos
+    if they threaten cosmic order.
+  suggested_aliases:
+  - seven_demons
+  - seven_malign_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-sister-group
+  motif_id: seven_sister_group
+  label: seven-sister group
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A sibling group may fit sacred_twins/sibling pairs, but this label alone
+    lacks narrative function or celestial identification.
+  cautions: Indigenous Australian Seven Sisters traditions are culturally sensitive
+    and often tied to restricted or local knowledge; review source permissions and
+    context before mapping.
+  suggested_aliases:
+  - seven_sisters
+  - group_of_seven_sisters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-sisters-and-hostile-sibling-group
+  motif_id: seven_sisters_and_hostile_sibling_group
+  label: Seven sisters and hostile sibling group
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_twins
+  suggested_group_label: Sacred Twins and Sibling Pairs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on sibling-group opposition, matching the broader sibling-pair
+    and sacred sibling conflict complex.
+  cautions: If the passage emphasizes stars or Pleiades more than kin conflict, a
+    celestial or cosmic-origin placement may be secondary; preserve the group-number
+    detail.
+  suggested_aliases:
+  - hostile_sibling_groups
+  - seven_sisters_opposed_by_siblings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.seven-sisters-as-pleiades
+  motif_id: seven_sisters_as_pleiades
+  label: seven sisters as Pleiades
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies a sister group with a star cluster, but the taxonomy
+    lacks a clear celestial-transformation or star-origin group.
+  cautions: Culturally sensitive Indigenous Australian Seven Sisters/Pleiades material
+    needs source review; do not reduce to sacred_twins unless the kinship narrative
+    is the focus.
+  suggested_aliases:
+  - seven_sisters_pleiades
+  - pleiades_as_seven_sisters
+  suggested_new_group:
+    id: celestial_transformation_star_origin
+    label: Celestial Transformation and Star Origin
+    description: Figures, body parts, animals, or social groups become stars, constellations,
+      or celestial bodies, or are identified etiologically with them.
+    parent_group_ids:
+    - cosmic_origin
+    - death_and_transformation
+    related_group_ids:
+    - dream_and_vision
+    - sacred_twins
+    reason_existing_groups_insufficient: Existing groups cover cosmic origin and death
+      transformation broadly, but recurring constellation-identification motifs lose
+      important celestial-etiological meaning when folded into those parents.
+- suggestion_id: normalization.suggestion.seven-sisters-identified-with-the-pleiades
+  motif_id: seven_sisters_identified_with_the_pleiades
+  label: seven sisters identified with the Pleiades
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is effectively the same celestial sister-group identification as
+    the preceding item, but needs cultural and source review before normalization.
+  cautions: Potentially sensitive Australian Aboriginal Seven Sisters knowledge; preserve
+    local labels and avoid overgeneralizing cross-cultural Pleiades traditions.
+  suggested_aliases:
+  - seven_sisters_as_pleiades
+  - pleiades_identified_as_seven_sisters
+  suggested_new_group:
+    id: celestial_transformation_star_origin
+    label: Celestial Transformation and Star Origin
+    description: Figures, body parts, animals, or social groups become stars, constellations,
+      or celestial bodies, or are identified etiologically with them.
+    parent_group_ids:
+    - cosmic_origin
+    - death_and_transformation
+    related_group_ids:
+    - dream_and_vision
+    - sacred_twins
+    reason_existing_groups_insufficient: Existing groups cover cosmic origin and death
+      transformation broadly, but recurring constellation-identification motifs lose
+      important celestial-etiological meaning when folded into those parents.
+batch_notes:
+- Several labels in this batch are single-occurrence settlement or scene details;
+  exclude or review unless source evidence shows symbolic, ritual, or cosmological
+  function.
+- Seven Sisters/Pleiades items should receive culturally informed review before any
+  broad normalization, especially for Indigenous Australian and Australian Aboriginal
+  traditions.
+- The proposed celestial_transformation_star_origin group is provisional and should
+  be considered only if star-origin, constellation-identification, and catasterism
+  labels recur across sources.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft suggestions only; culturally sensitive and over-specific items require
+    human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3944
+  input_sha256: dfa7fd554d5699a565efaa89eebd82462535a1502fb3a453310f89e5749518aa
+

@@ -1,0 +1,315 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2212
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marvelous-trees-with-singing-birds-at-a-court
+  motif_id: marvelous_trees_with_singing_birds_at_a_court
+  label: Marvelous trees with singing birds at a court
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines marvelous trees, birdsong, and court setting; could involve
+    sacred tree, enchanting music, otherworldly court, or ornamental episode.
+  cautions: Single occurrence and highly composite; source context needed before deciding
+    whether the trees, birdsong, or courtly marvel is the motif.
+  suggested_aliases:
+  - marvelous_trees_with_singing_birds
+  - singing_birds_in_marvelous_trees
+  - courtly_marvel_of_trees_and_birds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.masked-animal-mimicry-in-the-hunt
+  motif_id: masked_animal_mimicry_in_the_hunt
+  label: Masked animal mimicry in the hunt
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal masking and mimicry function as temporary crossing of human-animal
+    form or identity in a hunting context.
+  cautions: If this is a technical hunting practice rather than mythic transformation
+    or ritual animal identification, it may be too ethnographic for pattern queries.
+  suggested_aliases:
+  - animal_mimicry_in_hunt
+  - masked_hunter_mimics_animal
+  - ritual_hunting_disguise_as_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mass-sea-lion-hunt-using-sharpened-limbs
+  motif_id: mass_sea_lion_hunt_using_sharpened_limbs
+  label: Mass sea-lion hunt using sharpened limbs
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a specific hunting episode or technique rather than
+    a recurrent symbolic or narrative motif.
+  cautions: If the sharpened limbs are transformed body parts, ritual weapons, or
+    supernatural hunting powers, review could map elsewhere; label alone does not
+    show that.
+  suggested_aliases:
+  - sea_lion_hunt_with_sharpened_limbs
+  - mass_hunt_of_sea_lions
+  - specialized_sea_lion_hunting_episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.master-of-animals-confines-game-in-an-underground-cave-until-released
+  motif_id: master_of_animals_confines_game_in_an_underground_cave_until_released
+  label: Master of animals confines game in an underground cave until released
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Master of Animals and Controlled Game
+  relationship: child
+  confidence: medium
+  rationale: A supernatural game guardian controls animal abundance by confining and
+    releasing animals; existing groups only partially cover animal abundance or cave
+    descent.
+  cautions: Culturally specific animal-master traditions should be reviewed carefully;
+    cave setting may be secondary rather than a descent motif.
+  suggested_aliases:
+  - master_of_animals_releases_game
+  - game_animals_confined_by_supernatural_master
+  - guardian_of_game_controls_release_of_animals
+  suggested_new_group:
+    id: master_of_animals_controlled_game
+    label: Master of Animals and Controlled Game
+    description: A supernatural owner, master, or guardian of game animals controls
+      their availability, release, confinement, or abundance, often regulating human
+      hunting relations with animals.
+    parent_group_ids:
+    - divine_intervention
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - otherworld
+    - sacred_waters
+    reason_existing_groups_insufficient: divine_intervention covers supernatural agency
+      broadly, but not the recurring animal-master role and its ecological hunting-abundance
+      function.
+- suggestion_id: normalization.suggestion.master-or-guardian-of-game-controlling-animal-abundance
+  motif_id: master_or_guardian_of_game_controlling_animal_abundance
+  label: Master or guardian of game controlling animal abundance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Master of Animals and Controlled Game
+  relationship: role_variant
+  confidence: high
+  rationale: The label directly names the animal/game guardian role controlling abundance,
+    matching the proposed animal-master group.
+  cautions: Could be mapped broadly to divine_intervention if reviewers do not want
+    a new animal-master facet; avoid flattening into generic animal helper motifs.
+  suggested_aliases:
+  - guardian_of_game_controls_abundance
+  - master_of_game_animals
+  - supernatural_owner_of_game
+  suggested_new_group:
+    id: master_of_animals_controlled_game
+    label: Master of Animals and Controlled Game
+    description: A supernatural owner, master, or guardian of game animals controls
+      their availability, release, confinement, or abundance, often regulating human
+      hunting relations with animals.
+    parent_group_ids:
+    - divine_intervention
+    related_group_ids:
+    - sacred_exchange
+    - sacred_law
+    - otherworld
+    reason_existing_groups_insufficient: Existing divine_intervention and animal_helpers
+      categories do not preserve the specific guardian-of-game role central to hunting
+      cosmology.
+- suggestion_id: normalization.suggestion.material-transformation-through-introduced-foreign-goods-and-tools
+  motif_id: material_transformation_through_introduced_foreign_goods_and_tools
+  label: material transformation through introduced foreign goods and tools
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe cultural contact, technological change, or narrative
+    transformation; its motif function is unclear.
+  cautions: Avoid transmission or historical-contact claims in normalization; could
+    be commentary artifact if it describes introduced goods rather than a mythic event.
+  suggested_aliases:
+  - transformation_by_foreign_goods
+  - introduced_tools_transform_material_life
+  - foreign_goods_and_tools_as_transformative_agents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.meat-baited-retrieval-of-diamonds-by-birds
+  motif_id: meat_baited_retrieval_of_diamonds_by_birds
+  label: meat-baited retrieval of diamonds by birds
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The episode centers on obtaining precious stones through an animal-mediated
+    strategy, fitting treasure acquisition more than animal transformation.
+  cautions: Could alternatively be trickster or adventure-episode evidence if deception/baiting
+    is the main function; diamond detail is likely over-specific.
+  suggested_aliases:
+  - birds_retrieve_gems_with_meat_bait
+  - meat_bait_used_to_obtain_diamonds
+  - animal_mediated_treasure_retrieval
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.medicine-obtained-from-a-mysterious-animal
+  motif_id: medicine_obtained_from_a_mysterious_animal
+  label: Medicine obtained from a mysterious animal
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Medicine from an uncanny animal is a powerful healing substance obtained
+    through animal mediation.
+  cautions: If the animal is a spirit helper or divine agent, divine_intervention
+    may be a secondary mapping; if the focus is instruction, sacred_knowledge may
+    fit.
+  suggested_aliases:
+  - healing_medicine_from_mysterious_animal
+  - animal_source_of_medicine
+  - medicine_from_supernatural_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.medicine-specialist-gives-charm-validated-by-animal-omen
+  motif_id: medicine_specialist_gives_charm_validated_by_animal_omen
+  label: Medicine specialist gives charm validated by animal omen
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal omen validates ritual or specialist knowledge, fitting omen-based
+    divination and confirmation.
+  cautions: The medicine charm itself could also index under sacred_treasures or sacred_substance;
+    source context should decide the primary function.
+  suggested_aliases:
+  - animal_omen_validates_charm
+  - medicine_charm_confirmed_by_animal_omen
+  - specialist_charm_with_animal_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.medicine-vessel-marked-with-animal-images
+  motif_id: medicine_vessel_marked_with_animal_images
+  label: Medicine vessel marked with animal images
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The core object is a ritual medicine container; animal images are meaningful
+    markings but secondary to the vessel function.
+  cautions: If the animal images are the operative charm or spirit-presence, sacred_treasures
+    or sacred_law may be relevant; single occurrence may be object-specific.
+  suggested_aliases:
+  - animal_marked_medicine_vessel
+  - medicine_container_with_animal_images
+  - ritual_vessel_bearing_animal_motifs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence ethnographic or episode-specific
+  labels; preserve local evidence but avoid promoting overly specific hunting or object
+  details without recurrence.
+- The proposed master_of_animals_controlled_game group would preserve a distinct animal-master/game-guardian
+  role that current broad divine_intervention and animal-helper mappings flatten.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    specific Native American hunting, medicine, and guardian-of-game labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2212
+  input_sha256: d29c6abab0d9e54d2ea8235efc1a36819dab799c132a7a59c3b0845935518fac
+

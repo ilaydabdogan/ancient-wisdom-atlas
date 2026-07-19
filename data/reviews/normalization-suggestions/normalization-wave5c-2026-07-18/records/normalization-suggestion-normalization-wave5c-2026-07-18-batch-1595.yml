@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1595
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.household-scarcity-provoking-marital-violence
+  motif_id: household_scarcity_provoking_marital_violence
+  label: household scarcity provoking marital violence
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a specific domestic conflict caused by scarcity, but
+    the mythic function is unclear from wording alone.
+  cautions: Could be social disorder, household reversal, violence, gendered harm,
+    or an episode-specific plot detail; source context is needed.
+  suggested_aliases:
+  - scarcity_causes_household_violence
+  - domestic_scarcity_and_marital_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-law-contrasted-with-animal-and-foreign-precedent
+  motif_id: human_law_contrasted_with_animal_and_foreign_precedent
+  label: Human law contrasted with animal and foreign precedent
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on defining human legal/social order by contrast with
+    nonhuman or foreign precedents.
+  cautions: If this is a philosophical or rhetorical passage rather than a narrative/legal
+    motif, it may need exclusion or commentary handling.
+  suggested_aliases:
+  - human_law_contrasted_with_nonhuman_precedent
+  - law_defined_against_animal_and_foreign_custom
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-made-city-experienced-as-otherworld-or-another-life
+  motif_id: human_made_city_experienced_as_otherworld_or_another_life
+  label: Human-made city experienced as otherworld or another life
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label frames an ordinary human city as an otherworldly realm or alternate
+    mode of life.
+  cautions: Do not map as literal otherworld unless the passage treats the city as
+    enchanted, liminal, or ontologically transformed rather than merely unfamiliar.
+  suggested_aliases:
+  - city_experienced_as_otherworld
+  - human_city_as_another_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-occupation-or-social-role-in-fable-title
+  motif_id: human_occupation_or_social_role_in_fable_title
+  label: human occupation or social role in fable title
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a title or heading pattern rather than a narrative
+    motif.
+  cautions: If a specific occupational role drives the fable action, index that separately
+    from the title-pattern artifact.
+  suggested_aliases:
+  - social_role_in_fable_title
+  - occupation_in_fable_heading
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.human-son-in-law-aids-nonhuman-in-laws-in-war
+  motif_id: human_son_in_law_aids_nonhuman_in_laws_in_war
+  label: Human son-in-law aids nonhuman in-laws in war
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines interspecies marriage/alliance with warfare, and the
+    dominant motif is unclear.
+  cautions: Could fit sacred_combat, otherworld exchange, animal marriage, kinship
+    alliance, or culture-hero relations; review with cultural context.
+  suggested_aliases:
+  - human_affinal_ally_aids_nonhuman_in_laws_in_war
+  - son_in_law_alliance_with_nonhuman_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humble-cooking-object-revealed-as-effective-war-weapon
+  motif_id: humble_cooking_object_revealed_as_effective_war_weapon
+  label: Humble cooking object revealed as effective war weapon
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A mundane object revealed as an effective weapon functions as a power
+    object in combat.
+  cautions: If the emphasis is comic inversion or battlefield victory rather than
+    object power, sacred_combat or trickster may be better secondary mappings.
+  suggested_aliases:
+  - humble_domestic_object_as_war_weapon
+  - cooking_object_as_effective_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.humiliated-rebel-prince-before-father-ruler
+  motif_id: humiliated_rebel_prince_before_father_ruler
+  label: humiliated rebel prince before father-ruler
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A rebel prince humbled before a father-ruler concerns succession, hierarchy,
+    and legitimate royal authority.
+  cautions: May be an episode-specific court scene; if the focus is moral punishment,
+    divine_judgment may be relevant.
+  suggested_aliases:
+  - rebel_prince_humbled_before_ruler
+  - filial_rebellion_humbled_before_king
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hungry-animal-in-laws-arrive-as-guests
+  motif_id: hungry_animal_in_laws_arrive_as_guests
+  label: hungry animal in-laws arrive as guests
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Hungry in-laws arriving as guests foregrounds hospitality obligations
+    toward unusual or nonhuman visitors.
+  cautions: If the animal-in-law kinship relation is the central pattern, a separate
+    animal-marriage or nonhuman-affinity group may be needed in future.
+  suggested_aliases:
+  - animal_in_laws_as_hungry_guests
+  - nonhuman_in_laws_received_as_guests
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunters-appearing-as-one-before-striking-prey
+  motif_id: hunters_appearing_as_one_before_striking_prey
+  label: Hunters appearing as one before striking prey
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe coordinated hunting, perceptual illusion, shapeshifting,
+    or a tactical detail.
+  cautions: Source evidence is needed to distinguish animal/hunter transformation,
+    ritual hunting practice, trickster deception, or a passage-specific action.
+  suggested_aliases:
+  - hunters_unified_before_attack
+  - hunters_appearing_as_single_being_before_strike
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hunting-excursion-separates-ruler-from-retinue
+  motif_id: hunting_excursion_separates_ruler_from_retinue
+  label: Hunting excursion separates ruler from retinue
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hunt that separates a ruler from companions functions as a departure
+    into trial, encounter, or transformation.
+  cautions: If no ordeal or transformation follows, it may be only a plot mechanism
+    and should not be over-indexed.
+  suggested_aliases:
+  - hunt_separates_ruler_from_retinue
+  - ruler_isolated_during_hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and context-dependent; placements should be
+  treated as provisional evidence indexing, not taxonomy edits.
+- Nonhuman in-law motifs may indicate a recurring animal-marriage or affinal-otherworld
+  complex not fully represented in the current groups, but this batch alone is insufficient
+  for a new group.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally specific kinship, hunting, and domestic-violence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1595
+  input_sha256: a6cef92d134f44a6e9792036076ec11404144b39f07a11d91a16caa700bd91a7
+

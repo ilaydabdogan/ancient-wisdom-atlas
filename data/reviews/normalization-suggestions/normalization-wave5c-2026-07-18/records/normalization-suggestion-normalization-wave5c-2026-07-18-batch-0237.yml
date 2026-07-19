@@ -1,0 +1,312 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0237
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.joint-household-acquisitions-divided-after-death-across-status-boundary
+  motif_id: joint_household_acquisitions_divided_after_death_across_status_boundary
+  label: Joint household acquisitions divided after death across status boundary
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to concern inheritance, household status, or postmortem
+    division rather than a clear death or afterlife motif.
+  cautions: Single occurrence and highly contextual; may be legal/social detail, commentary
+    artifact, or evidence for sacred law only if ritual or moral order is explicit.
+  suggested_aliases:
+  - postmortem_division_of_household_acquisitions
+  - inheritance_after_death_across_status_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.journey-diary-in-animal-and-spirit-images
+  motif_id: journey_diary_in_animal_and_spirit_images
+  label: journey diary in animal and spirit images
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a representational or textual description of a
+    journey rather than a stable narrative function.
+  cautions: Could involve shamanic travel, animal-spirit imagery, dream/vision, or
+    a source-description artifact; culturally sensitive context should be reviewed
+    before indexing.
+  suggested_aliases:
+  - journey_record_in_animal_and_spirit_images
+  - animal_and_spirit_imagery_of_a_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - shapeshifter
+    - otherworld
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.journey-outward-with-goods-and-return-with-exchanged-goods
+  motif_id: journey_outward_with_goods_and_return_with_exchanged_goods
+  label: journey outward with goods and return with exchanged goods
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is outward travel structured by exchange and return
+    with transformed goods, fitting reciprocity more than death/descent.
+  cautions: If the journey is primarily an otherworld or afterlife trip, add secondary
+    review under otherworld or afterlife_passage; otherwise it may be a trade-journey
+    detail.
+  suggested_aliases:
+  - journey_with_exchange_of_goods
+  - return_with_exchanged_goods
+  - reciprocal_exchange_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.journey-timed-by-the-moon-s-return
+  motif_id: journey_timed_by_the_moon_s_return
+  label: Journey timed by the moon's return
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: medium
+  rationale: A journey governed by the moon's return fits sacred or celestial timing
+    of action.
+  cautions: If the moon functions as guide or witness rather than calendar marker,
+    dream_and_vision may be a secondary fit; if only travel chronology, it may be
+    too specific.
+  suggested_aliases:
+  - journey_timed_by_lunar_return
+  - lunar_timing_of_journey
+  - moon_return_as_journey_timer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.journey-to-a-distant-tribe-with-a-returning-guide
+  motif_id: journey_to_a_distant_tribe_with_a_returning_guide
+  label: journey to a distant tribe with a returning guide
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A guided trip to a distant people could be ordinary travel, initiation,
+    otherworld travel, or ethnographic narrative detail.
+  cautions: Do not map to descent or afterlife without evidence that the distant tribe
+    is dead, spirit, or otherworldly; single occurrence suggests possible passage-specific
+    detail.
+  suggested_aliases:
+  - guided_journey_to_distant_people
+  - returning_guide_to_distant_tribe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - otherworld
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.joyful-rites-for-saintly-death
+  motif_id: joyful_rites_for_saintly_death
+  label: joyful rites for saintly death
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rites marking the death of a revered saint fit commemorative death ritual
+    and social memorialization.
+  cautions: Sufi context may emphasize union with the divine; consider secondary mapping
+    to annihilation_union or mystical_quest if the joy centers on mystical union rather
+    than funerary practice.
+  suggested_aliases:
+  - celebratory_rites_for_saintly_death
+  - joyful_commemoration_of_saintly_death
+  - saintly_death_as_celebrated_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.karmic-moral-causality-across-death
+  motif_id: karmic_moral_causality_across_death
+  label: karmic moral causality across death
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Moral causality extending across death functions as postmortem or trans-life
+    moral reckoning.
+  cautions: Karma should not be flattened into theistic judgment; preserve local doctrine
+    and review whether sacred_law or death_and_transformation is a better secondary
+    mapping.
+  suggested_aliases:
+  - moral_causality_across_death
+  - karma_across_death
+  - postmortem_karmic_consequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.karmic-retribution-by-corresponding-manner-of-death
+  motif_id: karmic_retribution_by_corresponding_manner_of_death
+  label: Karmic retribution by corresponding manner of death
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A death matching prior conduct expresses moral reckoning through correspondingly
+    shaped retribution.
+  cautions: 'Use cautiously: Buddhist karmic causality is not necessarily divine punishment;
+    preserve the specific corresponding-death pattern as evidence detail.'
+  suggested_aliases:
+  - corresponding_death_as_karmic_retribution
+  - karmic_death_matching_prior_deed
+  - measure_for_measure_death_retribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_by_fate
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.keeping-a-deceased-child-s-spirit-through-a-wrapped-personal-relic
+  motif_id: keeping_a_deceased_child_s_spirit_through_a_wrapped_personal_relic
+  label: keeping a deceased child's spirit through a wrapped personal relic
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes ritual care or retention of a dead child's spirit
+    through a relic, fitting living-dead relations.
+  cautions: Culturally sensitive mortuary practice; could also involve sacred_treasures
+    or external_soul because the relic contains or mediates spirit presence.
+  suggested_aliases:
+  - deceased_child_spirit_kept_in_wrapped_relic
+  - wrapped_relic_retaining_child_spirit
+  - personal_relic_holding_deceased_child_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.keeping-a-deceased-person-s-spirit-until-formal-release
+  motif_id: keeping_a_deceased_person_s_spirit_until_formal_release
+  label: Keeping a deceased person's spirit until formal release
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: high
+  rationale: Ritual retention and later release of a dead person's spirit directly
+    concerns managing relations between living and dead.
+  cautions: Review culturally specific evidence carefully; if the focus is the soul's
+    onward route, afterlife_passage may be a secondary mapping.
+  suggested_aliases:
+  - retention_of_deceased_spirit_until_release
+  - formal_release_of_kept_deceased_spirit
+  - ritual_keeping_and_release_of_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are bucketed as death/descent but describe journey,
+  exchange, timing, or social practice; avoid forcing them into afterlife groups without
+  passage evidence.
+- Karmic labels should preserve local doctrinal meaning and not imply historical transmission
+  or theistic judgment.
+- Mortuary-spirit labels from Native American Plains traditions are culturally sensitive
+  and should receive human review even where an existing ancestor_rites placement
+  is plausible.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0237
+  input_sha256: 77e9896c10d06cff935d2d01fa33ac6dd082a8c2debe39e06d2393b0abb58856
+

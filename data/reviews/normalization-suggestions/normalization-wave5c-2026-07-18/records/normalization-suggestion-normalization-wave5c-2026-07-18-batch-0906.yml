@@ -1,0 +1,291 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0906
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lunar-divine-regalia
+  motif_id: lunar_divine_regalia
+  label: Lunar divine regalia
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Regalia are sacred power objects conferring divine or royal authority;
+    lunar symbolism should be preserved as local evidence.
+  cautions: Single occurrence; if the passage centers lunar divinity rather than an
+    empowered object, theophany or supreme_ruler may be secondary.
+  suggested_aliases:
+  - lunar_regalia
+  - moon_regalia
+  - divine_lunar_emblems
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mace-wielding-sacred-addressee
+  motif_id: mace_wielding_sacred_addressee
+  label: Mace-wielding sacred addressee
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could indicate a divine warrior figure, a ritual iconographic attribute,
+    or merely the addressee of a hymn with a mace.
+  cautions: The phrase is context-dependent and may be an iconographic/passage artifact;
+    verify whether mace-wielding has narrative function.
+  suggested_aliases:
+  - mace_bearing_sacred_figure
+  - mace_wielding_divine_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-music-bearing-divine-figure
+  motif_id: magic_music_bearing_divine_figure
+  label: magic music-bearing divine figure
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: role_variant
+  confidence: high
+  rationale: The label centers on supernatural music carried or embodied by a divine
+    figure, matching music as sacred power.
+  cautions: If the passage emphasizes the divine figure's manifestation rather than
+    musical power, theophany may be secondary.
+  suggested_aliases:
+  - magical_music_bearing_divine_figure
+  - divine_figure_with_enchanting_music
+  - supernatural_music_bearing_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-numbers-and-triple-ritual-repetition
+  motif_id: magic_numbers_and_triple_ritual_repetition
+  label: magic numbers and triple ritual repetition
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Triple ritual repetition and magical numbers are ritual-form rules, best
+    held under sacred law/procedure.
+  cautions: May be too formal or commentary-like if it only describes textual patterning;
+    consider sacred_time if calendrical numerology is central.
+  suggested_aliases:
+  - triple_ritual_repetition
+  - ritual_repetition_by_magic_number
+  - sacred_number_repetition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-and-ritual-words-as-aid-to-the-deceased
+  motif_id: magical_and_ritual_words_as_aid_to_the_deceased
+  label: magical and ritual words as aid to the deceased
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: high
+  rationale: Ritual words aiding the dead fit afterlife navigation, especially instructions
+    or words of power for postmortem passage.
+  cautions: Could also index under curse_blessing_speech if the emphasis is performative
+    utterance rather than afterlife route.
+  suggested_aliases:
+  - ritual_words_aid_the_deceased
+  - words_of_power_for_the_dead
+  - funerary_words_of_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-animal-helpers-of-ritual-specialists
+  motif_id: magical_animal_helpers_of_ritual_specialists
+  label: Magical animal helpers of ritual specialists
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Animal helpers are already included under divine_intervention as supernatural
+    guidance or aid.
+  cautions: Culturally specific ritual-specialist traditions should be reviewed carefully;
+    if animal agency is central, a future animal-helper subgroup may be warranted.
+  suggested_aliases:
+  - animal_helpers_of_ritual_specialists
+  - magical_animal_helpers
+  - ritual_specialist_animal_helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-helper-lights-the-ritual-pipe
+  motif_id: magical_helper_lights_the_ritual_pipe
+  label: magical helper lights the ritual pipe
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines supernatural aid with a culturally specific ritual
+    object and action.
+  cautions: Needs source review for respectful placement; could fit divine_intervention,
+    sacred_fire, sacred_exchange, or be too episode-specific.
+  suggested_aliases:
+  - supernatural_helper_lights_ritual_pipe
+  - magical_assistance_with_ritual_pipe
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-messenger-enforces-ritual-attendance-by-growth-on-body-or-animal
+  motif_id: magical_messenger_enforces_ritual_attendance_by_growth_on_body_or_animal
+  label: Magical messenger enforces ritual attendance by growth on body or animal
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a highly specific composite involving messenger, ritual obligation,
+    and bodily or animal growth as sanction.
+  cautions: May reduce to sacred_law, curse_blessing_speech, or divine_judgment depending
+    on evidence; avoid canonicalizing without recurrence.
+  suggested_aliases:
+  - magical_messenger_enforces_ritual_attendance
+  - ritual_attendance_enforced_by_supernatural_growth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-or-divine-aid-in-winning-a-contest
+  motif_id: magical_or_divine_aid_in_winning_a_contest
+  label: magical or divine aid in winning a contest
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: Supernatural assistance determining a contest outcome is a direct intervention
+    in human affairs.
+  cautions: If the contest is specifically martial, divine_warrior or sacred_combat
+    may be secondary; if it grants kingship, royal_legitimacy may apply.
+  suggested_aliases:
+  - divine_aid_in_contest_victory
+  - magical_aid_in_winning_a_contest
+  - supernatural_aid_determines_contest_outcome
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magical-sanction-for-violating-taboo
+  motif_id: magical_sanction_for_violating_taboo
+  label: Magical sanction for violating taboo
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A supernatural penalty for taboo violation fits sacred judgment responding
+    to transgression.
+  cautions: Could also belong under sacred_law if the emphasis is the taboo rule itself
+    rather than punishment; review culturally specific sanction language.
+  suggested_aliases:
+  - supernatural_sanction_for_taboo_violation
+  - taboo_violation_punished_by_magic
+  - magical_punishment_for_taboo_violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review only; no transmission or borrowing
+  claims are implied.
+- Several one-off ritual labels may be over-specific evidence notes and should be
+  checked against source passages before adding aliases.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch reviewed for broad group placement with caution around culturally specific
+    ritual-specialist and taboo terminology.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0906
+  input_sha256: 25a9f9fad4f2010afa4e4c71c2672b57da2893d13d0d380d88d2ffe0c347144c
+

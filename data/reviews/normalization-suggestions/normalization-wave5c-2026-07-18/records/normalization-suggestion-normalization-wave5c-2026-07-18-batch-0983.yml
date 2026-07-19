@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0983
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.purification-of-a-bloodied-house-after-killing
+  motif_id: purification_of_a_bloodied_house_after_killing
+  label: Purification of a bloodied house after killing
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A blood-polluted house requiring cleansing fits ritual purity regulation
+    and post-bloodshed purification already grouped under sacred_law.
+  cautions: Could also relate to sacrifice or heroic funeral contexts if the killing
+    is ritually framed; occurrence is single and context-dependent.
+  suggested_aliases:
+  - purification_after_bloodshed
+  - ritual_cleansing_after_bloodshed
+  - house_purification_after_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purification-of-earth-from-noxious-creatures
+  motif_id: purification_of_earth_from_noxious_creatures
+  label: Purification of earth from noxious creatures
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label sounds like purification of a polluted world or land through
+    removal of harmful beings, which may fit purity law or apotropaic protection.
+  cautions: Zoroastrian noxious-creature categories are culturally and doctrinally
+    specific; review source evidence before collapsing into general purity or combat
+    motifs.
+  suggested_aliases:
+  - earth_purified_from_noxious_creatures
+  - removal_of_noxious_creatures_as_purification
+  - purification_of_land_from_harmful_creatures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purification-of-inner-stains
+  motif_id: purification_of_inner_stains
+  label: Purification of inner stains
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Inner stains being purified points to contemplative moral-spiritual transformation
+    rather than an external ritual object or sacrifice.
+  cautions: If the passage is doctrinal ethics rather than narrative motif, sacred_knowledge
+    or sacred_law may be a secondary fit; preserve Buddhist terminology in notes.
+  suggested_aliases:
+  - purification_of_inner_defilements
+  - cleansing_inner_stains
+  - inner_purification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purification-of-polluted-food-or-fruit-by-washing
+  motif_id: purification_of_polluted_food_or_fruit_by_washing
+  label: purification of polluted food or fruit by washing
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A rule for washing polluted food or fruit is a ritual-purity and sacred-law
+    practice.
+  cautions: May be an over-specific legal detail; preserve as granular evidence rather
+    than promoting to a canonical motif.
+  suggested_aliases:
+  - ritual_washing_of_polluted_food
+  - purification_of_food_by_washing
+  - cleansing_polluted_fruit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purification-of-sacred-instruments
+  motif_id: purification_of_sacred_instruments
+  label: purification of sacred instruments
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Cleansing ritual implements is a purity regulation governing sacred objects
+    and proper ritual performance.
+  cautions: If the instruments themselves confer power or authority, sacred_treasures
+    may be a related secondary group; single occurrence may be too narrow for motif
+    queries.
+  suggested_aliases:
+  - ritual_purification_of_sacred_instruments
+  - cleansing_sacred_implements
+  - purification_of_ritual_tools
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purification-of-salt-affected-land-by-repeated-flooding
+  motif_id: purification_of_salt_affected_land_by_repeated_flooding
+  label: purification of salt-affected land by repeated flooding
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: low
+  rationale: Repeated flooding used to cleanse land points to water as a purifying
+    medium, but the label may describe an ecological or local etiological process.
+  cautions: Do not map to flood_and_renewal unless world/order destruction and renewal
+    are present; review whether this is a mythic motif, environmental detail, or passage
+    artifact.
+  suggested_aliases:
+  - land_purified_by_repeated_flooding
+  - water_purification_of_salt_affected_land
+  - cleansing_land_with_floodwaters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purification-of-the-chosen-recipient
+  motif_id: purification_of_the_chosen_recipient
+  label: purification of the chosen recipient
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Purifying a selected recipient prepares them for revelation, office,
+    or transformation, fitting an initiatory threshold function.
+  cautions: If the passage emphasizes divine manifestation or imparted knowledge,
+    theophany or sacred_knowledge may be secondary mappings.
+  suggested_aliases:
+  - purification_before_revelation
+  - purification_of_chosen_vessel
+  - purification_of_elect_recipient
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purification-of-the-heart-through-faith-like-muddy-water-cleared-by-a-gem
+  motif_id: purification_of_the_heart_through_faith_like_muddy_water_cleared_by_a_gem
+  label: Purification of the heart through faith like muddy water cleared by a gem
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The core pattern is interior purification through faith, a contemplative
+    transformation on the spiritual path.
+  cautions: The muddy-water and gem imagery is valuable evidence detail but likely
+    too specific for broad motif queries; sacred_knowledge may apply if the emphasis
+    is teaching metaphor.
+  suggested_aliases:
+  - purification_of_the_heart_through_faith
+  - heart_cleansed_like_muddy_water_by_a_gem
+  - faith_clears_the_polluted_heart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purification-of-the-religious-community-by-doctrinal-testing
+  motif_id: purification_of_the_religious_community_by_doctrinal_testing
+  label: Purification of the religious community by doctrinal testing
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: Doctrinal testing purifies a community through correct teaching and discernment,
+    aligning more with sacred knowledge than ritual cleansing.
+  cautions: Could be sacred_law if the passage emphasizes communal discipline or exclusion;
+    may be a doctrinal commentary artifact rather than a recurring narrative motif.
+  suggested_aliases:
+  - community_purified_by_doctrinal_testing
+  - doctrinal_testing_as_communal_purification
+  - purification_by_testing_the_teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.purification-of-the-veiled-or-rusted-heart
+  motif_id: purification_of_the_veiled_or_rusted_heart
+  label: Purification of the veiled or rusted heart
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A veiled or rusted heart being purified is a clear Sufi-style interior
+    journey toward unveiling and transformed perception.
+  cautions: Could also index under sacred_knowledge where purification enables insight;
+    preserve heart-veil/rust imagery as local mystical language.
+  suggested_aliases:
+  - polishing_the_rusted_heart
+  - purification_of_the_heart
+  - unveiling_the_heart
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use purification metaphorically for interior, doctrinal, or communal
+  refinement; avoid treating all as sacrifice or external ritual purity.
+- Single-occurrence purification labels should generally remain granular evidence
+  under broader groups unless cross-source recurrence is demonstrated.
+- Where water or flood imagery appears, distinguish purification by water from flood_and_renewal
+  catastrophe motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific Zoroastrian and Native American
+    Southwest items flagged for source-sensitive review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0983
+  input_sha256: 4ebfad9bbca3aa660cb6aa59311687d29b5a7c79d63ebc96530132f499c6e6ec
+

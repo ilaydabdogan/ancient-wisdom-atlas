@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3581
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.inexhaustible-writing-task
+  motif_id: inexhaustible_writing_task
+  label: Inexhaustible writing task
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a magical compulsion, impossible task, or textual/writing-specific
+    ordeal, but no clear existing group is evidenced by the label alone.
+  cautions: Single occurrence; needs source context to distinguish narrative task
+    from textual artifact or tale-type detail.
+  suggested_aliases:
+  - endless_writing_task
+  - impossible_writing_task
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infant-as-image-of-primal-softness-and-potency
+  motif_id: infant_as_image_of_primal_softness_and_potency
+  label: Infant as image of primal softness and potency
+  occurrences: 1
+  traditions:
+  - taoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label reads as Taoist wisdom imagery using the infant as an emblem
+    of primordial potency and softness.
+  cautions: Likely philosophical metaphor rather than narrative motif; do not map
+    to miraculous_child unless an extraordinary child episode is present.
+  suggested_aliases:
+  - infant_as_primal_softness
+  - infant_as_symbol_of_potency
+  - childlike_softness_as_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infant-exposure-or-killing-as-a-cross-cultural-practice
+  motif_id: infant_exposure_or_killing_as_a_cross_cultural_practice
+  label: Infant exposure or killing as a cross-cultural practice
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'as a cross-cultural practice' signals comparative commentary
+    rather than a passage-level symbolic motif.
+  cautions: If a specific exposed or threatened infant narrative is present, remap
+    that evidence to miraculous_child or divine_judgment as appropriate.
+  suggested_aliases:
+  - infant_exposure_cross_cultural_practice
+  - infanticide_as_cross_cultural_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infant-in-cradle-board-rocked-or-swung-to-sleep
+  motif_id: infant_in_cradle_board_rocked_or_swung_to_sleep
+  label: infant in cradle-board rocked or swung to sleep
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe a domestic care detail rather than a recurring
+    mythic or symbolic motif.
+  cautions: If the cradle-board or sleep action has ritual protection, transformation,
+    or divine-child significance, human review may remap it.
+  suggested_aliases:
+  - cradle_board_infant_rocked_to_sleep
+  - infant_rocked_to_sleep_in_cradle_board
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infant-killed-through-ear-contact-and-blood-loss
+  motif_id: infant_killed_through_ear_contact_and_blood_loss
+  label: infant killed through ear-contact and blood loss
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is a highly specific death mechanism involving an infant; existing
+    groups do not capture its function without context.
+  cautions: Could be violence, taboo contact, monstrous attack, etiological detail,
+    or passage artifact; culturally sensitive evidence should be reviewed before indexing.
+  suggested_aliases:
+  - infant_death_by_ear_contact
+  - infant_killed_by_blood_loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infant-protection-by-maternal-embrace-and-mat-enclosure
+  motif_id: infant_protection_by_maternal_embrace_and_mat_enclosure
+  label: Infant protection by maternal embrace and mat enclosure
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A protected infant under maternal enclosure fits the threatened/protected
+    child pattern included in miraculous_child.
+  cautions: If the focus is ordinary childcare, exclude as over-specific; if the mat
+    enclosure is the main sacred container, sacred_vessel may be a secondary review
+    option.
+  suggested_aliases:
+  - maternal_embrace_protects_infant
+  - infant_protected_in_mat_enclosure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infant-protection-through-bodily-closure-and-posture
+  motif_id: infant_protection_through_bodily_closure_and_posture
+  label: Infant protection through bodily closure and posture
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: low
+  rationale: Infant protection may fit miraculous_child, but 'bodily closure and posture'
+    suggests a culturally specific protective technique needing evidence review.
+  cautions: Could be ritual body practice, ordinary care detail, or over-specific
+    ethnographic note; review cultural context before broad pattern indexing.
+  suggested_aliases:
+  - bodily_posture_protects_infant
+  - infant_protected_by_bodily_closure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infanticide-following-paternal-desertion
+  motif_id: infanticide_following_paternal_desertion
+  label: infanticide following paternal desertion
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The motif combines family abandonment and infant killing, but its narrative
+    function is unclear from the label alone.
+  cautions: Sensitive content and single occurrence; may be social commentary, mythic
+    violence, family tragedy, or passage-specific detail rather than a reusable motif.
+  suggested_aliases:
+  - infanticide_after_paternal_desertion
+  - child_killing_after_father_deserts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.infinite-incomprehensible-deity
+  motif_id: infinite_incomprehensible_deity
+  label: Infinite incomprehensible deity
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: An infinite, incomprehensible deity fits the broader supreme cosmic rulership
+    and divine totality field.
+  cautions: If the passage emphasizes mystical unknowability or apophatic theology
+    rather than sovereignty, sacred_knowledge or mystical_quest may be better secondary
+    mappings.
+  suggested_aliases:
+  - incomprehensible_infinite_deity
+  - unknowable_supreme_deity
+  - infinite_divine_totality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ingestion-and-vomiting-as-resource-transfer
+  motif_id: ingestion_and_vomiting_as_resource_transfer
+  label: ingestion and vomiting as resource transfer
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Ingestion and vomiting could involve sacred substance, trickster exchange,
+    transformation, or etiological resource production depending on the passage.
+  cautions: Do not collapse to sacred_substance unless the consumed/emitted material
+    has ritual or transformative sacred function; may be over-specific tale mechanics.
+  suggested_aliases:
+  - vomiting_as_resource_transfer
+  - resource_transfer_by_ingestion_and_regurgitation
+  - regurgitated_resource_transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several infant-related labels are single-occurrence and culturally specific; review
+  source evidence before promoting any child-protection or infanticide pattern.
+- Labels phrased as comparative practice or philosophical abstraction may be commentary
+  artifacts rather than passage-level motifs.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for taxonomy review; no direct taxonomy
+    edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3581
+  input_sha256: 5ccacdb0b28b235c1c6ee6622e23c76c8a2d03d4dbb1e95ff215a63c916c7bb8
+

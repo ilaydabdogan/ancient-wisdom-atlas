@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3175
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.banishment-of-evil-to-the-north
+  motif_id: banishment_of_evil_to_the_north
+  label: Banishment of evil to the north
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Banishment of evil fits the existing ritual expulsion complex already
+    grouped under sacrifice.
+  cautions: The directional north element may be culturally significant in Zoroastrian
+    cosmology; preserve it as local evidence and review before collapsing into generic
+    expulsion.
+  suggested_aliases:
+  - evil_banished_to_the_north
+  - ritual_banishment_of_evil_northward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banishment-of-fiendish-force-to-the-north
+  motif_id: banishment_of_fiendish_force_to_the_north
+  label: Banishment of fiendish force to the north
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A fiendish force being banished aligns with expulsion of harmful spirits
+    or evils in the ritual expulsion cluster.
+  cautions: Likely overlaps with the preceding northward banishment label; check whether
+    this is a duplicate generated wording or a distinct Zoroastrian directional-demon
+    motif.
+  suggested_aliases:
+  - fiendish_force_banished_to_the_north
+  - demonic_force_banished_northward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banishment-of-imitative-poets
+  motif_id: banishment_of_imitative_poets
+  label: banishment of imitative poets
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may refer to philosophical or civic regulation of poetry rather
+    than a mythic narrative motif.
+  cautions: Could belong to sacred_law, storytelling_as_power, or pride_and_downfall
+    depending on passage context; if this is Plato/commentary about poets, it may
+    be a textual or philosophical artifact rather than a motif.
+  suggested_aliases:
+  - expulsion_of_imitative_poets
+  - poets_banished_for_imitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banishment-of-unlucky-or-disliked-women
+  motif_id: banishment_of_unlucky_or_disliked_women
+  label: banishment of unlucky or disliked women
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording suggests social exclusion tied to misfortune, but the ritual,
+    legal, or narrative function is unclear.
+  cautions: Culturally sensitive and gendered label; avoid normalizing without source
+    evidence. Could be scapegoat-like expulsion, social order, misogynistic accusation,
+    or an over-specific ethnographic detail.
+  suggested_aliases:
+  - banishment_of_unlucky_women
+  - expulsion_of_disliked_women
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banner-bearer-as-courageous-target
+  motif_id: banner_bearer_as_courageous_target
+  label: banner bearer as courageous target
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: low
+  rationale: A banner bearer singled out as a brave target fits martial honor and
+    combat-role imagery.
+  cautions: May be a battle-detail rather than a sacred motif; consider sacred_combat
+    if the emphasis is ritual warfare rather than heroic courage.
+  suggested_aliases:
+  - banner_bearer_as_target
+  - courageous_banner_bearer_target
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banquet-memento-mori-object
+  motif_id: banquet_memento_mori_object
+  label: banquet memento mori object
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A death-reminder object at a feast foregrounds mortality within life
+    and ritualized reflection on death.
+  cautions: If the object functions mainly as funerary teaching, afterlife ideology,
+    or banquet custom, secondary placement may differ; preserve the object and banquet
+    setting as evidence detail.
+  suggested_aliases:
+  - memento_mori_at_banquet
+  - death_reminder_object_at_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banquet-preceding-a-decree-of-destiny
+  motif_id: banquet_preceding_a_decree_of_destiny
+  label: banquet preceding a decree of destiny
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is a formal setting before destiny is decreed, aligning
+    with personified or cosmic governance of fate.
+  cautions: The banquet may be only a narrative setting; if divine assembly or kingship
+    authority is central, supreme_ruler or royal_legitimacy may be relevant.
+  suggested_aliases:
+  - feast_before_decree_of_destiny
+  - divine_banquet_before_fate_decree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bardic-compositions-shaping-later-literature
+  motif_id: bardic_compositions_shaping_later_literature
+  label: Bardic compositions shaping later literature
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes literary influence or transmission history rather
+    than a narrative-symbolic motif.
+  cautions: Preserve as provenance or reception-history metadata if useful; do not
+    use as evidence for motif patterning or transmission claims in this normalization
+    step.
+  suggested_aliases:
+  - bardic_influence_on_later_literature
+  - bardic_compositions_as_literary_sources
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bare-ground-healing-locus
+  motif_id: bare_ground_healing_locus
+  label: bare-ground healing locus
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A healing place on bare ground may involve sacred geography, ritual healing,
+    or local place power, none of which is clear from the label alone.
+  cautions: Do not force into axis_mundi or sacred_treasures without evidence that
+    the location is a sacred center or power object; culturally specific healing practices
+    need source review.
+  suggested_aliases:
+  - bare_ground_as_healing_place
+  - healing_locus_on_bare_ground
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bargained-body-part-footwear-that-grants-power
+  motif_id: bargained_body_part_footwear_that_grants_power
+  label: Bargained body-part footwear that grants power
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Footwear that grants power functions as a power object, even with the
+    unusual body-part bargain detail.
+  cautions: The bargained body-part element may also imply sacrifice or sacred exchange;
+    preserve the specific exchange and body-material evidence rather than treating
+    it as generic magic footwear.
+  suggested_aliases:
+  - power_granting_body_part_footwear
+  - bargained_footwear_as_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items have single occurrences and should remain provisional until source
+  passages confirm recurring motif function.
+- Directional banishment and gendered social expulsion labels require human review
+  for culturally specific meaning and sensitive wording.
+- Do not infer transmission or borrowing from any suggested placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review required before taxonomy
+    updates.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3175
+  input_sha256: 3f99c01e7ad34e3c16ab01b36e5b2aab4a5af4b59c35f55e50cddedc2d0662e0
+

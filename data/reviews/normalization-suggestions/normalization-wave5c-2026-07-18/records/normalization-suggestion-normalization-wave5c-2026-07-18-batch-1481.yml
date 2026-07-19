@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1481
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.voice-or-song-from-within-a-cairn
+  motif_id: voice_or_song_from_within_a_cairn
+  label: Voice or song from within a cairn
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: uncertain
+  confidence: low
+  rationale: A voice or song emerging from a burial mound/cairn may indicate supernatural
+    sound or speech from the dead, but the narrative function is unclear from the
+    label alone.
+  cautions: Could instead belong with restless_dead_haunting_vengeance, ancestor_rites,
+    afterlife_passage, or be an episode-specific burial detail; source context is
+    needed.
+  suggested_aliases:
+  - song_from_burial_mound
+  - voice_from_cairn
+  - voice_from_within_burial_cairn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.votive-commemoration-for-speech
+  motif_id: votive_commemoration_for_speech
+  label: Votive commemoration for speech
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: The label seems to connect a votive act with a significant speech act,
+    but it does not specify whether the speech is a vow, prayer, oracle, thanks, or
+    inscription.
+  cautions: May be a ritual dedication detail or epigraphic artifact rather than a
+    motif; review passage evidence before mapping to sacred_exchange, covenant, or
+    performative speech.
+  suggested_aliases:
+  - votive_dedication_for_speech
+  - speech_commemorated_by_votive_offering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.vulva-carved-post-associated-with-a-named-stock
+  motif_id: vulva_carved_post_associated_with_a_named_stock
+  label: vulva-carved post associated with a named stock
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve fertility, lineage, clan origin, sacred post imagery,
+    or ritual object symbolism, but the wording is too culturally specific to place
+    safely.
+  cautions: Culturally sensitive and underdetermined; avoid collapsing into mother_goddess,
+    axis_mundi, sacred_treasures, or cosmic_origin without source evidence about function.
+  suggested_aliases:
+  - vulva_carved_ritual_post
+  - fertility_marked_post_associated_with_lineage
+  - carved_post_associated_with_named_stock
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wailing-musical-effect-in-a-warrior-song
+  motif_id: wailing_musical_effect_in_a_warrior_song
+  label: wailing musical effect in a warrior song
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on a distinctive musical/vocal effect in a song, fitting
+    the broader sound-power and song group.
+  cautions: If the passage emphasizes battle commemoration, lament, or warrior identity
+    rather than supernatural musical force, sacred_combat or lament_and_mourning may
+    be better secondary context.
+  suggested_aliases:
+  - wailing_effect_in_warrior_song
+  - warrior_song_with_wailing_vocal_effect
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wailing-musical-effect-in-mourning-song
+  motif_id: wailing_musical_effect_in_mourning_song
+  label: wailing musical effect in mourning song
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: narrower_than
+  confidence: high
+  rationale: A wailing effect in a mourning song directly expresses grief through
+    lament performance.
+  cautions: Could also be indexed under enchanting_music if the musical effect is
+    treated as supernatural or coercive rather than expressive mourning.
+  suggested_aliases:
+  - wailing_mourning_song
+  - mourning_song_with_wailing_vocal_effect
+  - lament_song_with_wailing_effect
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.waking-visions-continuous-with-dreams
+  motif_id: waking_visions_continuous_with_dreams
+  label: Waking visions continuous with dreams
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: narrower_than
+  confidence: high
+  rationale: The label explicitly concerns the continuity of waking visions and dreams
+    as altered perception or revelation.
+  cautions: If this is an ethnographic ontology statement rather than a narrative
+    motif, preserve as contextual evidence and avoid over-indexing.
+  suggested_aliases:
+  - waking_vision_dream_continuity
+  - visions_continuous_with_dreams
+  - dream_waking_vision_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wampum-belt-as-transmitted-diplomatic-memory
+  motif_id: wampum_belt_as_transmitted_diplomatic_memory
+  label: wampum belt as transmitted diplomatic memory
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: A wampum belt can function as a material object carrying memory, authority,
+    and agreement, but the existing groups do not cleanly cover diplomatic mnemonic
+    objects.
+  cautions: Culturally specific; may fit covenant, sacred_law, storytelling_as_power,
+    or sacred_treasures depending on whether the belt records treaty obligations,
+    oral memory, authority, or ritual exchange.
+  suggested_aliases:
+  - wampum_belt_as_diplomatic_memory
+  - wampum_as_transmitted_memory
+  - mnemonic_wampum_belt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-charm-empowered-by-song-before-battle
+  motif_id: war_charm_empowered_by_song_before_battle
+  label: War charm empowered by song before battle
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on song as the power that activates or empowers a war
+    charm before combat.
+  cautions: Also relates to sacred_treasures and sacred_combat; if the charm object
+    is primary, use sacred_treasures as secondary context.
+  suggested_aliases:
+  - song_empowered_war_charm
+  - battle_charm_empowered_by_song
+  - prebattle_song_empowers_charm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-charm-song
+  motif_id: war_charm_song
+  label: war charm song
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A charm song uses song or vocal performance as operative power, fitting
+    supernatural sound and music motifs.
+  cautions: May overlap with sacred_combat or sacred_treasures if the war or charm
+    context is more important than the song's power.
+  suggested_aliases:
+  - battle_charm_song
+  - war_song_charm
+  - martial_charm_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.war-deed-commemorated-in-song
+  motif_id: war_deed_commemorated_in_song
+  label: war deed commemorated in song
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: A song preserving a war deed functions as narrative memory and public
+    transmission of heroic action.
+  cautions: If the emphasis is mourning the dead, use lament_and_mourning; if the
+    emphasis is combat honor, sacred_combat or divine_warrior may be secondary.
+  suggested_aliases:
+  - combat_deed_commemorated_in_song
+  - heroic_war_deed_preserved_in_song
+  - song_commemorates_war_deed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and performance- or object-specific; suggested
+  placements should be treated as provisional until source context confirms narrative
+  function.
+- Song-related war labels may require multi-indexing across enchanting_music, sacred_combat,
+  sacred_treasures, lament_and_mourning, or storytelling_as_power depending on whether
+  the passage emphasizes sound power, battle context, ritual object, grief, or commemoration.
+- Culturally specific objects and ritual markers, especially wampum and vulva-carved
+  post labels, should receive human review before broad normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review recommended for culturally
+    specific and underdetermined single-occurrence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1481
+  input_sha256: 593a4cf241678c541e6695183c895863e44051a461f16fe7826d78d1a9b78d6b
+

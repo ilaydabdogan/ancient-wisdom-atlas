@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0506
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.expected-arrival-of-strange-and-wonderful-people
+  motif_id: expected_arrival_of_strange_and_wonderful_people
+  label: Expected arrival of strange and wonderful people
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a mythic expectation of incoming extraordinary
+    visitors, but the function is unclear from wording alone.
+  cautions: Single occurrence; could be prophecy, divine race arrival, culture-hero
+    arrival, migration memory, or a passage-specific ethnographic note.
+  suggested_aliases:
+  - anticipated_arrival_of_wonderful_strangers
+  - expected_arrival_of_extraordinary_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_race
+    - prophecy_divination
+    - culture_hero
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extension-of-household-service-etiquette-to-broader-hierarchy
+  motif_id: extension_of_household_service_etiquette_to_broader_hierarchy
+  label: Extension of household service etiquette to broader hierarchy
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif concerns social obligation and hierarchy as an extension of
+    ritualized household conduct, fitting sacred law and social order.
+  cautions: May be an ethical teaching rather than a narrative motif; verify that
+    the passage treats etiquette as normative order rather than commentary.
+  suggested_aliases:
+  - household_etiquette_extended_to_social_hierarchy
+  - familial_service_as_model_for_hierarchy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extinguishing-rain-creates-a-quest-for-fire
+  motif_id: extinguishing_rain_creates_a_quest_for_fire
+  label: extinguishing rain creates a quest for fire
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'Loss of fire creates a quest structure: departure or search to restore
+    a vital sacred resource.'
+  cautions: Could also fit sacred_fire or culture_hero if the emphasis is acquisition
+    or restoration of fire for the community; do not infer theft unless explicit.
+  suggested_aliases:
+  - rain_extinguishes_fire_and_prompts_quest
+  - quest_to_restore_extinguished_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - culture_hero
+    - sacred_theft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extraordinary-pilgrim-on-the-road
+  motif_id: extraordinary_pilgrim_on_the_road
+  label: extraordinary pilgrim on the road
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An extraordinary pilgrim could be a sacred traveler, disguised divine
+    stranger, holy person, or merely a character description.
+  cautions: Single occurrence; needs passage evidence to distinguish hero journey,
+    hospitality test, divine intervention, or hagiographic detail.
+  suggested_aliases:
+  - wondrous_pilgrim_on_the_road
+  - extraordinary_roadside_pilgrim
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - hospitality_test_stranger_guest
+    - divine_intervention
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.extraordinary-travel-by-plant-material-and-closed-eyes
+  motif_id: extraordinary_travel_by_plant_material_and_closed_eyes
+  label: Extraordinary travel by plant material and closed eyes
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: The label describes a special mode of travel, plausibly part of a journey
+    or passage episode.
+  cautions: Highly specific; if plant material is a power object, magical vehicle,
+    or shamanic method, sacred_treasures, sacred_knowledge, or otherworld may be better
+    secondary mappings.
+  suggested_aliases:
+  - magical_travel_by_plant_material_with_closed_eyes
+  - extraordinary_journey_with_closed_eyes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - otherworld
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.eye-theft-followed-by-false-accusation-and-exile
+  motif_id: eye_theft_followed_by_false_accusation_and_exile
+  label: Eye theft followed by false accusation and exile
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label combines false accusation and wrongful exile, already represented
+    within divine judgment's false-accusation and moral-reckoning cluster.
+  cautions: Over-specific composite; eye theft may be important if the passage centers
+    on bodily loss, magical sight, or recognition rather than judgment.
+  suggested_aliases:
+  - false_accusation_after_eye_theft_and_exile
+  - wrongful_exile_after_eye_theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_treasures
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-conquest-of-a-defended-frontier
+  motif_id: failed_conquest_of_a_defended_frontier
+  label: Failed conquest of a defended frontier
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A failed conquest attempt at a frontier is a warfare pattern involving
+    a contested boundary.
+  cautions: May be historical or episode-specific rather than mythic; if the frontier
+    has cosmic or liminal force, threshold or royal-legitimacy mappings may also apply.
+  suggested_aliases:
+  - failed_attack_on_defended_frontier
+  - unsuccessful_conquest_of_a_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-conquest-of-hole-dwelling-animal-named-people
+  motif_id: failed_conquest_of_hole_dwelling_animal_named_people
+  label: Failed conquest of hole-dwelling animal-named people
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes failed conquest, animal-named people, and subterranean
+    dwellings, making the central motif unclear.
+  cautions: Could involve sacred combat, animal clans, emergence/underworld geography,
+    or local ethnonymic detail; single occurrence and culturally specific wording
+    require review.
+  suggested_aliases:
+  - failed_attack_on_hole_dwelling_animal_people
+  - failed_conquest_of_subterranean_animal_named_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - descent
+    - otherworld
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-fire-quest-explains-animal-markings-and-behavior
+  motif_id: failed_fire_quest_explains_animal_markings_and_behavior
+  label: failed fire quest explains animal markings and behavior
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The core function is etiological: a failed fire quest explains present
+    animal traits and behavior.'
+  cautions: If indexed for narrative quest structure, hero_journey or sacred_fire
+    may be secondary; preserve the animal-marking detail as evidence rather than a
+    canonical motif.
+  suggested_aliases:
+  - fire_quest_etiology_of_animal_markings
+  - failed_quest_for_fire_explains_animal_traits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_fire
+    - culture_hero
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failed-kinship-appeal-for-mercy
+  motif_id: failed_kinship_appeal_for_mercy
+  label: failed kinship appeal for mercy
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: high
+  rationale: A plea for mercy based on kinship belongs with supplication, mercy, and
+    obligations of sacred/social bonds already grouped under covenant.
+  cautions: If the passage emphasizes punishment rather than failed appeal, divine_judgment
+    may be a secondary mapping.
+  suggested_aliases:
+  - kinship_supplication_for_mercy_refused
+  - failed_family_based_mercy_appeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence and over-specific; suggested placements
+  are provisional and should preserve local evidence notes.
+- Journey bucket assignment is not always semantically decisive here; several labels
+  better fit sacred law, combat, etiological origin, or covenant/supplication groups.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0506
+  input_sha256: 74cff0695f7bc98ba67b2f6b25a5b541c27a7b176d9d3083cf31ba842d83bc74
+

@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1150
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.sacred-settlement-landscape
+  motif_id: sacred_settlement_landscape
+  label: sacred settlement landscape
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: low
+  rationale: A settlement landscape treated as sacred likely functions as sacred geography
+    or a world-center pattern.
+  cautions: Single occurrence and broad wording; could instead be pilgrimage, royal
+    legitimacy, ancestor landscape, or local place-only evidence depending on source
+    context.
+  suggested_aliases:
+  - sacred_geography_of_settlement
+  - settlement_as_sacred_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-sevenfold-chronology
+  motif_id: sacred_sevenfold_chronology
+  label: sacred sevenfold chronology
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: high
+  rationale: A sevenfold sacred chronology is an ordered sacred-time structure rather
+    than a sacrifice or purity motif.
+  cautions: If the passage is an apocalyptic periodization rather than ritual time,
+    related review under world_ages_cosmic_decline may be useful.
+  suggested_aliases:
+  - sevenfold_sacred_time
+  - sevenfold_chronological_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-seventh-day-grounded-in-creation
+  motif_id: sacred_seventh_day_grounded_in_creation
+  label: sacred seventh day grounded in creation
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: narrower_than
+  confidence: high
+  rationale: The seventh day grounded in creation is a sabbath-cycle sacred-time motif
+    already covered by sacred_time.
+  cautions: May also support cosmic_origin as a secondary relation, but the primary
+    function is sanctified temporal order.
+  suggested_aliases:
+  - creation_grounded_sabbath
+  - sacred_seventh_day
+  - sabbath_grounded_in_creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-shields-in-urban-procession
+  motif_id: sacred_shields_in_urban_procession
+  label: Sacred shields in urban procession
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred shields are power objects carried in civic ritual procession,
+    fitting sacred treasures more than combat itself.
+  cautions: If the evidence emphasizes calendrical procession or civic order, sacred_time
+    or royal_legitimacy may be secondary; preserve Roman ritual specificity.
+  suggested_aliases:
+  - ritual_procession_of_sacred_shields
+  - sacred_shields_as_civic_power_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-sign-carried-into-combat
+  motif_id: sacred_sign_carried_into_combat
+  label: Sacred sign carried into combat
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred sign borne into combat functions as divine empowerment, protection,
+    or authorization in battle.
+  cautions: Could map to sacred_treasures if the object itself is central, or sacred_combat
+    if the ritual warfare context matters more than divine aid.
+  suggested_aliases:
+  - battlefield_sacred_sign
+  - sacred_combat_standard
+  - sacred_battle_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-sign-expelling-demons
+  motif_id: sacred_sign_expelling_demons
+  label: Sacred sign expelling demons
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Demon expulsion belongs with the existing ritual expulsion and exorcism
+    complex under sacrifice.
+  cautions: If the sign is primarily an apotropaic rule or object, sacred_law or sacred_treasures
+    may be relevant secondary placements; review Christian sign terminology carefully.
+  suggested_aliases:
+  - exorcistic_sacred_sign
+  - sacred_sign_drives_out_demons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-sign-purifies-polluted-things
+  motif_id: sacred_sign_purifies_polluted_things
+  label: Sacred sign purifies polluted things
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Purifying polluted things by a sacred sign fits ritual purity, apotropaic
+    protection, and sacred-law practice.
+  cautions: Could also relate to sacrifice or divine_intervention if the passage frames
+    purification as sacramental miracle rather than purity regulation.
+  suggested_aliases:
+  - sacred_sign_as_purifier
+  - ritual_purification_by_sacred_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-sikh-sites-and-shrines-as-a-caption-sequence
+  motif_id: sacred_sikh_sites_and_shrines_as_a_caption_sequence
+  label: Sacred Sikh sites and shrines as a caption sequence
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'as a caption sequence' describes presentation or image-caption
+    structure rather than a symbolic motif.
+  cautions: Individual sacred sites or shrine traditions may still be indexed elsewhere
+    if passage evidence gives ritual or narrative function.
+  suggested_aliases:
+  - caption_sequence_of_sacred_sites
+  - sacred_site_caption_sequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-site-founded-at-place-of-transformative-teaching
+  motif_id: sacred_site_founded_at_place_of_transformative_teaching
+  label: sacred site founded at place of transformative teaching
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A teaching event that founds a sacred site makes place into a sacred
+    center or pilgrimage geography.
+  cautions: If the emphasis is the teaching itself, sacred_knowledge may be a better
+    primary mapping; if shrine practice dominates, sacred_treasures or sacred_exchange
+    may be secondary.
+  suggested_aliases:
+  - teaching_site_becomes_sacred_place
+  - sacred_site_from_transformative_teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sacred-site-renewed-across-the-lifetimes-of-previous-buddhas
+  motif_id: sacred_site_renewed_across_the_lifetimes_of_previous_buddhas
+  label: sacred site renewed across the lifetimes of previous Buddhas
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred site recurring or renewed across Buddha lifetimes joins sacred
+    place to cyclical sacred time.
+  cautions: Could also map to axis_mundi if the site is primarily a world-center/pilgrimage
+    place; Buddhist previous-Buddha chronology should be reviewed with source context.
+  suggested_aliases:
+  - sacred_site_renewed_across_buddha_ages
+  - recurring_sacred_site_across_previous_buddhas
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels combine sacred place with time, teaching, or ritual object functions;
+  suggested placements choose the dominant function but secondary mappings may be
+  useful after source review.
+- Single-occurrence labels should generally remain granular evidence notes unless
+  recurrence across sources is confirmed.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1150
+  input_sha256: 93b13cc78dff2880ecc0d5023509228f1be3a89b9dbd2403d20a94dc2982cb61
+

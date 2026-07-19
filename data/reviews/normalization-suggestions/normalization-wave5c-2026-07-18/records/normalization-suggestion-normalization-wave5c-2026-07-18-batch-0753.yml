@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0753
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-apportioner-title
+  motif_id: divine_apportioner_title
+  label: divine apportioner title
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to be a divine epithet or role title, but the apportioned
+    domain is unclear from the label alone.
+  cautions: May be a passage-specific translation artifact or deity title rather than
+    a reusable motif; source context needed before mapping to divine_judgment, sacred_exchange,
+    or supreme_ruler.
+  suggested_aliases:
+  - divine_apportioner
+  - apportioning_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-artifacts-displayed-before-gods
+  motif_id: divine_artifacts_displayed_before_gods
+  label: divine artifacts displayed before gods
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on powerful or divine objects presented in a sacred
+    setting before gods.
+  cautions: If the display is mainly a cultic offering or temple rite, sacrifice or
+    sacred_exchange may be a secondary fit; preserve the divine-audience context as
+    evidence detail.
+  suggested_aliases:
+  - divine_objects_displayed_before_gods
+  - sacred_artifacts_presented_to_the_gods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-assembly-acclaiming-completed-cosmic-work
+  motif_id: divine_assembly_acclaiming_completed_cosmic_work
+  label: Divine assembly acclaiming completed cosmic work
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Divine Assembly and Cosmic Council
+  relationship: functional_variant
+  confidence: medium
+  rationale: A council of gods ratifies or celebrates cosmic ordering, a recurring
+    divine-governance function not cleanly covered by a single existing group.
+  cautions: Could map to cosmic_origin if the passage emphasizes creation itself rather
+    than the assembly's acclamation; review against other divine-council labels before
+    promoting.
+  suggested_aliases:
+  - divine_council_acclaims_cosmic_work
+  - gods_acclaim_completed_creation
+  suggested_new_group:
+    id: divine_assembly_council
+    label: Divine Assembly and Cosmic Council
+    description: A gathering of gods, divine beings, or heavenly powers deliberates,
+      decrees, acclaims, names, authorizes, or assigns roles in cosmic, royal, martial,
+      or ritual order.
+    parent_group_ids:
+    - supreme_ruler
+    - divine_intervention
+    - royal_legitimacy
+    related_group_ids:
+    - cosmic_origin
+    - divine_judgment
+    - fate_figures_cosmic_weaving
+    - divine_warrior
+    reason_existing_groups_insufficient: Existing groups cover sovereignty, intervention,
+      fate, and creation, but not the collective divine-council scene as the motif's
+      main structure.
+- suggestion_id: normalization.suggestion.divine-assembly-decrees-destiny
+  motif_id: divine_assembly_decrees_destiny
+  label: Divine assembly decrees destiny
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: fate_figures_cosmic_weaving
+  suggested_group_label: Fate Figures and Cosmic Weaving
+  relationship: functional_variant
+  confidence: medium
+  rationale: The assembly's main function is decreeing destiny, aligning with personified
+    or cosmic governance of fate.
+  cautions: If emphasis falls on divine court procedure rather than destiny itself,
+    the proposed divine_assembly_council candidate may be a better primary placement.
+  suggested_aliases:
+  - divine_council_decrees_destiny
+  - gods_decree_fate_in_assembly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-assembly-names-and-exalts-a-heroic-avenger
+  motif_id: divine_assembly_names_and_exalts_a_heroic_avenger
+  label: Divine assembly names and exalts a heroic avenger
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The assembly authorizes and elevates a champion for avenging combat,
+    fitting the divine-warrior complex.
+  cautions: Could also support royal_legitimacy if naming and exaltation confer rulership
+    rather than martial function; divine assembly should be preserved as scene context.
+  suggested_aliases:
+  - divine_council_exalts_heroic_avenger
+  - gods_name_and_elevate_a_champion_avenger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-assembly-on-heavenly-heights
+  motif_id: divine_assembly_on_heavenly_heights
+  label: Divine assembly on heavenly heights
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A divine gathering located on heavenly heights invokes sacred vertical
+    geography and the heavenly level of the cosmic axis.
+  cautions: If the passage emphasizes deliberation by the gods more than sacred height,
+    use the proposed divine_assembly_council candidate; if it is a vision of the assembly,
+    theophany may also apply.
+  suggested_aliases:
+  - heavenly_heights_divine_assembly
+  - divine_council_on_heavenly_heights
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-assembly-seeks-a-champion
+  motif_id: divine_assembly_seeks_a_champion
+  label: Divine assembly seeks a champion
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A divine council selecting or seeking a champion directly supports the
+    sacred combat and divine-warrior pattern.
+  cautions: Do not infer combat details beyond the label; retain divine assembly selection
+    as a granular motif note.
+  suggested_aliases:
+  - divine_council_seeks_champion
+  - gods_seek_a_champion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-assembly-speech-and-perception
+  motif_id: divine_assembly_speech_and_perception
+  label: divine assembly speech and perception
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is abstract and does not make clear whether the motif is
+    sacred speech, divine vision, council deliberation, or commentary on divine faculties.
+  cautions: May be too vague or passage-specific for pattern queries; source evidence
+    needed before mapping to theophany, sacred_knowledge, storytelling_as_power, or
+    divine_assembly_council.
+  suggested_aliases:
+  - divine_council_speech_and_perception
+  - divine_speech_and_perception_in_assembly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-assistance-for-victory-in-battle
+  motif_id: divine_assistance_for_victory_in_battle
+  label: Divine assistance for victory in battle
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: alias
+  confidence: high
+  rationale: The label is a direct variant of divine aid in battle, already normalized
+    under the divine_warrior combat complex.
+  cautions: If the passage emphasizes general providential rescue rather than battle
+    outcome, divine_intervention may be a secondary mapping.
+  suggested_aliases:
+  - divine_aid_for_battle_victory
+  - heavenly_assistance_for_victory_in_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-assistance-in-building-a-sacred-monument
+  motif_id: divine_assistance_in_building_a_sacred_monument
+  label: Divine assistance in building a sacred monument
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: alias
+  confidence: high
+  rationale: Divinely aided construction of a sacred monument fits the sacred craft
+    and construction group directly.
+  cautions: If the monument functions primarily as world center or relic shrine, axis_mundi
+    or sacred_treasures may be relevant secondary facets.
+  suggested_aliases:
+  - divinely_aided_sacred_monument_construction
+  - divine_help_building_a_sacred_monument
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels point to a recurrent divine-council or divine-assembly pattern. Consider
+  reviewing them together before adding a durable group.
+- Avoid treating divine assembly placement as evidence of historical transmission;
+  the suggestions only classify narrative function and scene structure.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; divine assembly items especially need source-context
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0753
+  input_sha256: 6e6180ca04edf20625bf116f33a81d995db964e7e2847fd6fec068f335fcd70d
+

@@ -1,0 +1,281 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2855
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.war-with-southeast
+  motif_id: war_with_southeast
+  label: war with Southeast
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to identify a directional enemy/place relation rather
+    than a reusable narrative motif.
+  cautions: Could be retained as source-specific geopolitical detail if the passage
+    has broader ritual warfare structure.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ward-becomes-hunter-provider-for-adoptive-patrons
+  motif_id: ward_becomes_hunter_provider_for_adoptive_patrons
+  label: ward becomes hunter-provider for adoptive patrons
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may involve adoption, reciprocity, provider role, or heroic maturation,
+    but the function is unclear from the label alone.
+  cautions: Could fit sacred_exchange if patronage/reciprocity is central, hero_journey
+    if maturation is central, or be too episode-specific.
+  suggested_aliases:
+  - adopted_ward_becomes_provider
+  - ward_as_hunter_provider
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wards-protect-the-sleeping-hero
+  motif_id: wards_protect_the_sleeping_hero
+  label: Wards protect the sleeping hero
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protective wards function as apotropaic protection, already folded under
+    sacred_law in the normalization groups.
+  cautions: If the wards are animate guardians or divine agents, threshold_guardian
+    or divine_intervention may be secondary mappings.
+  suggested_aliases:
+  - protective_wards_guard_sleeping_hero
+  - apotropaic_wards_protect_sleeping_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warfare-as-contest-of-magic-powers
+  motif_id: warfare_as_contest_of_magic_powers
+  label: warfare as contest of magic powers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label frames war as a ritually or supernaturally charged contest,
+    fitting sacred_combat.
+  cautions: If the emphasis is miracle-working or divine agents rather than combat
+    structure, divine_intervention may also apply.
+  suggested_aliases:
+  - magical_power_contest_in_warfare
+  - war_as_magic_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warfare-magic-house
+  motif_id: warfare_magic_house
+  label: warfare magic house
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too compressed to determine whether the house is a ritual
+    space, power object, fortification, or passage artifact.
+  cautions: May fit sacred_combat, sacred_craft, sacred_treasures, or sacred_law depending
+    on what the house does in the source.
+  suggested_aliases:
+  - war_magic_house
+  - magical_house_in_warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warlike-conflict-or-strife
+  motif_id: warlike_conflict_or_strife
+  label: Warlike conflict or strife
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: broader_label
+  confidence: medium
+  rationale: This is a broad conflict label best held under the general sacred_combat/ritual
+    warfare group.
+  cautions: Very generic; preserve only if the passage has mythic or ritual significance
+    beyond ordinary fighting.
+  suggested_aliases:
+  - warlike_strife
+  - armed_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warming-the-emergence-of-sirius
+  motif_id: warming_the_emergence_of_sirius
+  label: Warming the emergence of Sirius
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears celestial or seasonal rather than conflict-related, but
+    the wording may be erroneous or context-dependent.
+  cautions: Could fit sacred_time, sacred_fire, or celestial omen material if Sirius
+    marks heat, season, or ritual timing; source review needed.
+  suggested_aliases:
+  - emergence_of_sirius_brings_warming
+  - sirius_rising_and_heat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-about-a-dangerous-lagoon-and-unsafe-island-groups
+  motif_id: warning_about_a_dangerous_lagoon_and_unsafe_island_groups
+  label: warning about a dangerous lagoon and unsafe island groups
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a local navigational warning or itinerary detail rather
+    than a reusable mythic motif.
+  cautions: If the lagoon or islands function as an otherworld threshold or ordeal,
+    review for sacred_waters, otherworld, or hero_journey.
+  suggested_aliases:
+  - dangerous_lagoon_warning
+  - unsafe_island_warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-about-forbidden-dangerous-path-ignored
+  motif_id: warning_about_forbidden_dangerous_path_ignored
+  label: warning about forbidden dangerous path ignored
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ignoring a forbidden path warning fits taboo/prohibition violation with
+    likely moral or dangerous consequence.
+  cautions: If the path is an initiatory threshold or quest route, initiation or hero_journey
+    may be secondary mappings.
+  suggested_aliases:
+  - ignored_warning_about_forbidden_path
+  - forbidden_path_warning_ignored
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.warning-after-repeated-killing-within-the-same-stock
+  motif_id: warning_after_repeated_killing_within_the_same_stock
+  label: Warning after repeated killing within the same stock
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Repeated intra-lineage killing suggests feud or kin violence, which is
+    covered near sacred_combat and its ancestral feud aliases.
+  cautions: May instead belong to divine_judgment, curse_blessing_speech, or death_by_fate
+    if the warning is prophetic or moralized; source context needed.
+  suggested_aliases:
+  - warning_after_repeated_kin_killing
+  - warning_against_killing_within_the_same_lineage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; suggested placements
+  should be treated as provisional evidence indexing, not taxonomy edits.
+- Conflict-bucket assignment appears noisy for celestial, navigational, and taboo-warning
+  labels; source review is recommended before final mapping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Draft normalization suggestions generated for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2855
+  input_sha256: f4005369a9ba60e68cca642a9a52e9854e39e97ff7c8525015ea86a6cecf726c
+

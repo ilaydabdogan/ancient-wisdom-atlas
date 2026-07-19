@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3197
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.body-part-interrogation-ending-in-fatal-contact
+  motif_id: body_part_interrogation_ending_in_fatal_contact
+  label: body-part interrogation ending in fatal contact
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an unusual composite involving body parts, questioning,
+    and lethal contact; function cannot be inferred safely without source evidence.
+  cautions: Single occurrence; may be an episode-specific artifact, taboo-contact
+    motif, trickster episode, or death-transformation scene.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-part-trophy-display
+  motif_id: body_part_trophy_display
+  label: body-part trophy display
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: narrower_than
+  confidence: medium
+  rationale: The existing divine_warrior group already includes body_part_trophies_as_proof_of_combat
+    and heroic combat proof motifs.
+  cautions: If the display is ritual, mortuary, or non-combat rather than martial
+    trophy-taking, review for sacrifice, sacred_treasures, or exclusion as an episode
+    detail.
+  suggested_aliases:
+  - body_part_trophies_as_proof_of_combat
+  - body part trophies as proof of combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-part-turned-into-play-object
+  motif_id: body_part_turned_into_play_object
+  label: body part turned into play object
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A body part becoming an object may involve postmortem transformation,
+    trickster play, ritual handling, or a passage-specific grotesque detail.
+  cautions: Single occurrence; do not map to death_and_transformation unless transformation
+    after death is central, or to sacred_treasures unless the object has power or
+    ritual value.
+  suggested_aliases: []
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-parts-retained-transformed-or-worn-by-relatives
+  motif_id: body_parts_retained_transformed_or_worn_by_relatives
+  label: Body parts retained, transformed, or worn by relatives
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines mortuary retention, transformation, adornment, and
+    kinship handling; existing groups separate these functions.
+  cautions: Culturally sensitive mortuary or kinship practice; may fit ancestor_rites,
+    death_and_transformation, sacred_treasures, or sacred_law depending on evidence.
+  suggested_aliases:
+  - body parts retained by relatives
+  - body parts worn by relatives
+  - transformed body parts retained by kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-perforation-as-group-adornment
+  motif_id: body_perforation_as_group_adornment
+  label: body perforation as group adornment
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an ethnographic adornment or identity detail rather
+    than a recurring mythic narrative motif.
+  cautions: If the passage frames perforation as initiation, sacred law, taboo, or
+    transformation, review under initiation or sacred_law instead of excluding.
+  suggested_aliases:
+  - body piercing as group adornment
+  - group adornment by body perforation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-politic-as-a-single-organism
+  motif_id: body_politic_as_a_single_organism
+  label: Body politic as a single organism
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The metaphor organizes political order as an integrated living body,
+    fitting sacred kingship and social-political legitimacy more than literal body
+    motifs.
+  cautions: If the source is philosophical commentary rather than mythic or ritual
+    imagery, it may be better excluded from motif queries or mapped to sacred_law/social_order.
+  suggested_aliases:
+  - body politic as organism
+  - state as a single organism
+  - political community as body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-relic-as-object-of-reverence-and-enshrinement
+  motif_id: body_relic_as_object_of_reverence_and_enshrinement
+  label: Body relic as object of reverence and enshrinement
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: narrower_than
+  confidence: high
+  rationale: The sacred_treasures group already includes heroic relics, saintly shrines,
+    relic devotion, and tomb or enshrinement motifs.
+  cautions: If the passage emphasizes ongoing ancestor feeding or mortuary obligation
+    rather than relic power and reverence, ancestor_rites may be a secondary fit.
+  suggested_aliases:
+  - sacred body relic
+  - enshrined body relic
+  - relic devotion
+  - saintly shrine relic devotion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-remnants-carry-illness-to-another-bearer
+  motif_id: body_remnants_carry_illness_to_another_bearer
+  label: body remnants carry illness to another bearer
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Illness transmitted through body remnants fits existing sacred_law children
+    and aliases around spirit contagion, impurity, and apotropaic protection.
+  cautions: Comparative label may be synthetic; if an intentional ritual transfer
+    to a substitute is central, sacrifice or ritual_transfer may be more precise.
+  suggested_aliases:
+  - body remnants as contagion carriers
+  - illness carried by bodily remains
+  - spirit contagion through body remnants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-scent-sympathetic-targeting
+  motif_id: body_scent_sympathetic_targeting
+  label: Body-scent sympathetic targeting
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sympathetic targeting through bodily trace or scent is a ritual-magic
+    and taboo/protection pattern already near sacred_law sympathetic-magic aliases.
+  cautions: If the passage emphasizes sorcery, hostile pursuit, or recognition by
+    scent rather than regulation/protection, human review should adjust placement.
+  suggested_aliases:
+  - sympathetic magic by body scent
+  - body scent as magical target
+  - scent-based sympathetic targeting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-substance-transformed-into-wealth
+  motif_id: body_substance_transformed_into_wealth
+  label: Body substance transformed into wealth
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A bodily substance becoming wealth is a transformation of body material
+    into a new valued form, closest to the broad death/body transformation complex.
+  cautions: If the transformation is creative origin, sacrifice, or a sacred power-object
+    episode, cosmic_origin, sacrifice, or sacred_treasures may be secondary mappings.
+  suggested_aliases:
+  - body substance becomes wealth
+  - bodily substance transformed into treasure
+  - wealth from bodily substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence body-part or bodily-substance
+  composites; preserve source details and avoid promoting them without recurrence
+  or clearer narrative function.
+- Mortuary, relic, and bodily-contagion labels may be culturally sensitive; source
+  context should guide whether they are motifs, ritual descriptions, or ethnographic
+  artifacts.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; ambiguous singletons flagged for human review
+    or cautious grouping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3197
+  input_sha256: a4b188b93515c3958e702668505d5c9da0e69ec8d9f50cbed1980f1132d8cfd0
+

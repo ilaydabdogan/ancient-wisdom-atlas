@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2098
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-swarm-steals-the-harvest
+  motif_id: animal_swarm_steals_the_harvest
+  label: animal swarm steals the harvest
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Animal theft of food or harvest may fit trickster or animal-deception
+    patterns, but the swarm detail could also be an agricultural plague or episode-specific
+    obstacle.
+  cautions: Single occurrence; verify whether animals act with agency, trickery, divine
+    punishment, or are merely a destructive natural swarm.
+  suggested_aliases:
+  - animal_theft_of_harvest
+  - animals_steal_food_or_crops
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-taken-for-slaughter-resists-capture
+  motif_id: animal_taken_for_slaughter_resists_capture
+  label: animal taken for slaughter resists capture
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: low
+  rationale: An animal being taken for slaughter points toward sacrificial or ritual
+    killing contexts if the slaughter is sacred or ceremonial.
+  cautions: Could be ordinary animal behavior, a comic episode, an omen, or an animal-agency
+    motif; source context is required before mapping to sacrifice.
+  suggested_aliases:
+  - sacrificial_animal_resists_capture
+  - animal_resists_slaughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-tale-cluster
+  motif_id: animal_tale_cluster
+  label: Animal tale cluster
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a classificatory cluster of tales rather than a specific
+    narrative motif or symbolic function.
+  cautions: If underlying tales include specific trickster, animal-helper, or fable
+    motifs, map those granular labels separately rather than this heading.
+  suggested_aliases:
+  - animal_tale_grouping
+  - animal_tale_cycle_heading
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-tale-or-beast-epos-grouping
+  motif_id: animal_tale_or_beast_epos_grouping
+  label: animal tale or beast-epos grouping
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a genre or scholarly grouping label, not a reusable mythic motif.
+  cautions: Preserve for provenance if useful, but index actual animal-tale actions
+    under trickster or other relevant groups.
+  suggested_aliases:
+  - beast_epos_grouping
+  - animal_tale_genre_grouping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-team-compelled-by-painful-and-noisy-implement
+  motif_id: animal_team_compelled_by_painful_and_noisy_implement
+  label: Animal team compelled by painful and noisy implement
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is too contextual to place: it may describe coercion of draft
+    animals, a magical implement, cruelty, or a narrative detail.'
+  cautions: Single occurrence and culturally specific; avoid creating a broad motif
+    without evidence that the implement has ritual, magical, or plot-significant function.
+  suggested_aliases:
+  - animal_team_compelled_by_noisy_implement
+  - painful_implement_drives_animal_team
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-that-does-not-know-or-use-water
+  motif_id: animal_that_does_not_know_or_use_water
+  label: animal that does not know or use water
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be an etiological animal trait, ecological observation,
+    or fable detail, and no current group captures that function cleanly.
+  cautions: Do not map to sacred_waters unless water functions as purifier, boundary,
+    origin, or transformation medium in the passage.
+  suggested_aliases:
+  - animal_without_water_knowledge
+  - animal_ignorant_of_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-that-is-not-an-ordinary-animal-enters-inaccessible-cliff-opening
+  motif_id: animal_that_is_not_an_ordinary_animal_enters_inaccessible_cliff_opening
+  label: animal that is not an ordinary animal enters inaccessible cliff opening
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A nonordinary animal entering an inaccessible cliff opening suggests
+    a liminal guide or threshold-crossing into a hidden space.
+  cautions: Could instead fit otherworld, shapeshifter, or animal-helper evidence
+    depending on whether the animal guards, guides, transforms, or simply reveals
+    an entrance.
+  suggested_aliases:
+  - nonordinary_animal_enters_hidden_opening
+  - animal_guide_to_inaccessible_cliff_opening
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-theft-and-retaliatory-killing-leading-to-preserved-remains
+  motif_id: animal_theft_and_retaliatory_killing_leading_to_preserved_remains
+  label: Animal theft and retaliatory killing leading to preserved remains
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: over_specific_label
+  confidence: low
+  rationale: Theft by or of an animal and retaliation may belong with trickster or
+    animal-conflict patterns, but the preserved-remains outcome adds local etiological
+    detail.
+  cautions: May be too episode-specific; review whether preserved remains function
+    as relic, etiology, warning, or source-object before indexing.
+  suggested_aliases:
+  - animal_theft_retaliation_and_preserved_remains
+  - retaliatory_killing_after_animal_theft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-theft-followed-by-retaliatory-trapping
+  motif_id: animal_theft_followed_by_retaliatory_trapping
+  label: animal theft followed by retaliatory trapping
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Theft followed by a retaliatory trap fits the trickster/deception complex,
+    especially where animal agency or cunning drives the episode.
+  cautions: If the animal is merely property stolen by humans, sacred_combat, sacred_law,
+    or a contextual legal dispute may be better than trickster.
+  suggested_aliases:
+  - animal_theft_and_retalitory_trap
+  - theft_answered_by_trapping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-theurgist-healing-appeal
+  motif_id: animal_theurgist_healing_appeal
+  label: animal theurgist healing appeal
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: An animal acting as a sacred healer or theurgic mediator may fit divine
+    intervention through animal agency.
+  cautions: Culturally sensitive and ambiguous wording; verify whether the animal
+    is deity, spirit helper, ritual specialist, metaphor, or commentary artifact before
+    mapping.
+  suggested_aliases:
+  - animal_healer_mediator
+  - animal_spirit_healing_appeal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence animal-tale or episode labels;
+  preserve as evidence details unless source review confirms recurring narrative function.
+- Genre/classification labels such as animal tale cluster and beast-epos grouping
+  should be excluded from motif pattern queries.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; animal-agency labels need source-context
+    review before final taxonomy placement.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2098
+  input_sha256: 6f65f243ee8b644094512e48512f1cf1532363ad272878722ad6f17fe7388abc
+

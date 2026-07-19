@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2676
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.enemy-weapon-turned-back-against-attacker
+  motif_id: enemy_weapon_turned_back_against_attacker
+  label: enemy weapon turned back against attacker
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Existing alias hostile_weapon_turned_back_upon_attacker maps this reversal
+    pattern to divine_judgment.
+  cautions: If the passage emphasizes battlefield prowess rather than moral reversal,
+    sacred_combat or divine_warrior may be a secondary fit.
+  suggested_aliases:
+  - hostile weapon turned back upon attacker
+  - weapon turned back upon the attacker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-weapons-become-harmless
+  motif_id: enemy_weapons_become_harmless
+  label: Enemy weapons become harmless
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Enemy weapons rendered harmless functions like divine or heroic protection
+    from weapons in combat.
+  cautions: Could instead fit divine_intervention if supernatural agency is explicit,
+    or conditional_invulnerability_hidden_weakness if the hero is generally weapon-proof.
+  suggested_aliases:
+  - enemy weapons rendered harmless
+  - divine protection from enemy weapons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-weapons-fail-against-hero-s-weapon
+  motif_id: enemy_weapons_fail_against_hero_s_weapon
+  label: Enemy weapons fail against hero’s weapon
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The decisive element is the hero's superior or power-bearing weapon causing
+    enemy weapons to fail.
+  cautions: If the passage emphasizes combat outcome rather than the special weapon,
+    divine_warrior or sacred_combat may be better.
+  suggested_aliases:
+  - hero's weapon overcomes enemy weapons
+  - enemy weapons fail before a power weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-weapons-transformed-into-harmless-attack
+  motif_id: enemy_weapons_transformed_into_harmless_attack
+  label: Enemy weapons transformed into harmless attack
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Weapon attacks neutralized or transformed in battle align with protected
+    or divinely aided warrior combat.
+  cautions: If transformation itself is the focus, shapeshifter is not appropriate
+    unless bodies/forms change; if moral reversal is explicit, consider divine_judgment.
+  suggested_aliases:
+  - enemy weapons made harmless
+  - hostile attacks transformed into harmless blows
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-woman-seeks-the-victorious-warrior
+  motif_id: enemy_woman_seeks_the_victorious_warrior
+  label: Enemy woman seeks the victorious warrior
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate post-victory alliance, courtship, captivity,
+    seduction, or narrative episode detail.
+  cautions: Needs source context before mapping to sacred_love, sacred_combat, royal_legitimacy,
+    or excluding as over-specific.
+  suggested_aliases:
+  - enemy woman approaches victorious warrior
+  - woman of enemy group seeks victor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.engulfed-hero-escapes-by-bursting-enclosing-body
+  motif_id: engulfed_hero_escapes_by_bursting_enclosing_body
+  label: Engulfed hero escapes by bursting enclosing body
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hero escaping from a monster's enclosing body by violent rupture is
+    a heroic monster-combat ordeal.
+  cautions: Could also relate to death_and_transformation if engulfment functions
+    as symbolic death and rebirth; preserve the swallowing/escape detail.
+  suggested_aliases:
+  - swallowed hero bursts out
+  - hero escapes monster belly by cutting or bursting out
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enormous-fabulous-monster
+  motif_id: enormous_fabulous_monster
+  label: enormous fabulous monster
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a creature type but gives no narrative function such
+    as guardian, chaos opponent, or combat antagonist.
+  cautions: May map to chaos, threshold_guardian, divine_warrior, or be too generic
+    depending on passage evidence.
+  suggested_aliases:
+  - giant fabulous monster
+  - enormous monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.entangling-thrown-weapon-trips-quarry
+  motif_id: entangling_thrown_weapon_trips_quarry
+  label: Entangling thrown weapon trips quarry
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a specific weapon action or hunting/combat tactic
+    rather than a broad mythic motif.
+  cautions: If the thrown weapon is supernatural or ritually important, reconsider
+    under sacred_treasures or sacred_combat.
+  suggested_aliases:
+  - thrown entangling weapon trips prey
+  - bolas-like weapon trips quarry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.environmental-ordeal-forcing-retreat
+  motif_id: environmental_ordeal_forcing_retreat
+  label: environmental ordeal forcing retreat
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: low
+  rationale: An ordeal caused by hostile terrain or environment fits the broader ordeal-and-testing
+    pattern.
+  cautions: Very broad and contextual; if it is simple battle logistics, exclude,
+    and if sacred nature acts as agent, consider divine_intervention.
+  suggested_aliases:
+  - environmental trial forces retreat
+  - ordeal by hostile landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envoy-killing-as-trigger-or-near-trigger-of-war
+  motif_id: envoy_killing_as_trigger_or_near_trigger_of_war
+  label: Envoy killing as trigger or near-trigger of war
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The killing of an envoy functions as a war-catalyst within ritualized
+    or socially charged conflict.
+  cautions: If the emphasis is violation of diplomatic trust or taboo, betrayal_violated_trust
+    or sacred_law may be secondary mappings.
+  suggested_aliases:
+  - envoy killing triggers war
+  - messenger killing as war catalyst
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence combat details; preserve local
+  evidence and avoid promoting weapon tactics to canonical motifs without recurrence.
+- Where weapon failure is caused by explicit sacred agency, reviewers may prefer divine_intervention
+  or divine_warrior over sacred_treasures.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; source passages should be checked
+    for agency, ritual framing, and whether over-specific combat details should remain
+    evidence notes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2676
+  input_sha256: b16ca70eb3cbbc67a7f70698ed318a288f805afb977f34967910a0f09fd811d1
+

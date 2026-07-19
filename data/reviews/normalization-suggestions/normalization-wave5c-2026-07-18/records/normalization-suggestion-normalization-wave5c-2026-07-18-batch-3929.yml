@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3929
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.schism-punished-by-long-karmic-consequence
+  motif_id: schism_punished_by_long_karmic_consequence
+  label: Schism punished by long karmic consequence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on moral or karmic consequence following a grave communal/religious
+    offense, fitting judgment and reckoning.
+  cautions: Buddhist karmic causality is not necessarily divine judgment; preserve
+    karmic framing and consider sacred_law/covenant if the emphasis is monastic order
+    or schism rules.
+  suggested_aliases:
+  - schism_punished_by_karmic_consequence
+  - karmic_punishment_for_schism
+  - long_karmic_consequence_for_religious_schism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.schism-through-false-doctrine
+  motif_id: schism_through_false_doctrine
+  label: Schism through false doctrine
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: False doctrine concerns corrupted sacred teaching or knowledge producing
+    communal division.
+  cautions: If the passage emphasizes institutional discipline rather than doctrine,
+    sacred_law may be a better secondary mapping; single occurrence may be contextual
+    Buddhist monastic detail.
+  suggested_aliases:
+  - false_doctrine_causes_schism
+  - schism_by_corrupt_teaching
+  - religious_schism_through_false_teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scholarly-council-for-textual-settlement
+  motif_id: scholarly_council_for_textual_settlement
+  label: scholarly council for textual settlement
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes editorial or scholarly textual stabilization rather than
+    a narrative or symbolic motif.
+  cautions: Retain as provenance or reception-history evidence if useful, but exclude
+    from motif pattern queries.
+  suggested_aliases:
+  - textual_settlement_by_scholarly_council
+  - scholarly_council_establishes_text
+  - editorial_council_for_textual_standardization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scholarly-edition-versus-popular-nursery-adaptation
+  motif_id: scholarly_edition_versus_popular_nursery_adaptation
+  label: Scholarly edition versus popular nursery adaptation
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label compares publication or adaptation forms, not a mythic motif
+    within the narrative.
+  cautions: Useful for textual reception or editorial history only; avoid indexing
+    as a cross-cultural pattern motif.
+  suggested_aliases:
+  - scholarly_vs_popular_adaptation
+  - edition_compared_with_nursery_adaptation
+  - scholarly_textual_form_versus_child_adaptation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.schooling-reinforces-caste-separation
+  motif_id: schooling_reinforces_caste_separation
+  label: Schooling reinforces caste separation
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a social-order theme but may be contextual commentary rather
+    than a recurring motif.
+  cautions: Culturally sensitive caste/social hierarchy label; review source evidence
+    before mapping to sacred_law, royal_legitimacy, or excluding as commentary.
+  suggested_aliases:
+  - education_reinforces_social_separation
+  - schooling_preserves_caste_boundary
+  - instruction_reproduces_social_hierarchy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scorekeeping-with-counting-sticks
+  motif_id: scorekeeping_with_counting_sticks
+  label: scorekeeping with counting-sticks
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be an episode-specific material practice rather than
+    a symbolic or narrative motif.
+  cautions: If counting sticks serve as divination, sacred record, or ritual tally
+    in the passage, review for sacred_knowledge or sacred_treasures; label alone is
+    too specific.
+  suggested_aliases:
+  - counting_sticks_for_scorekeeping
+  - tallying_with_counting_sticks
+  - game_score_kept_by_sticks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scout-disappears-into-obstructing-forest
+  motif_id: scout_disappears_into_obstructing_forest
+  label: scout disappears into obstructing forest
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A disappearance in a forest could be ordinary travel peril, enchanted
+    otherworld entry, or passage-specific plot detail.
+  cautions: Review whether the forest is supernatural/liminal before mapping to otherworld,
+    threshold_guardian, hero_journey, or excluding as contextual detail.
+  suggested_aliases:
+  - scout_vanishes_in_obstructing_forest
+  - disappearance_into_blocking_forest
+  - forest_obstruction_causes_scout_disappearance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scout-killed-before-sounding-the-alarm
+  motif_id: scout_killed_before_sounding_the_alarm
+  label: scout killed before sounding the alarm
+  occurrences: 1
+  traditions:
+  - mongol
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The event belongs to warfare and ambush action, but is a narrow tactical
+    episode.
+  cautions: Likely too specific for canonical promotion; if no ritual or heroic combat
+    significance is present, treat as evidence detail rather than query motif.
+  suggested_aliases:
+  - sentinel_killed_before_alarm
+  - scout_slain_before_warning
+  - alarm_prevented_by_killing_scout
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scout-raiders-lure-pursuers-into-ambush
+  motif_id: scout_raiders_lure_pursuers_into_ambush
+  label: scout-raiders lure pursuers into ambush
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Luring pursuers into ambush is a warfare stratagem fitting the sacred_combat
+    group’s raid and battle patterns.
+  cautions: Could also relate to trickster/deceptive stratagem if deception is the
+    main narrative function; verify that it is not merely a tactical plot detail.
+  suggested_aliases:
+  - raiders_lure_pursuers_into_ambush
+  - ambush_by_feigned_flight_or_lure
+  - pursuers_drawn_into_ambush_by_scout_raiders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scout-s-report-of-an-approaching-army
+  motif_id: scout_s_report_of_an_approaching_army
+  label: scout's report of an approaching army
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a battlefield-warning scene within a combat narrative.
+  cautions: Likely an episode detail unless the report functions as prophecy, omen,
+    or formal challenge; consider prophecy_divination only with explicit foreknowledge
+    or omen evidence.
+  suggested_aliases:
+  - scout_reports_approaching_army
+  - warning_of_approaching_army_by_scout
+  - battle_scout_report
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence tactical or editorial details; avoid promoting
+  them unless recurrence across sources is demonstrated.
+- For Buddhist schism labels, preserve karmic and doctrinal specificity; do not flatten
+  karmic consequence into theistic judgment without source support.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    culturally sensitive social hierarchy and Buddhist monastic-schism items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3929
+  input_sha256: eec6650b3109623b7f379ca335760fe5c1a728e8991e362f6dca1e7c7530589e
+

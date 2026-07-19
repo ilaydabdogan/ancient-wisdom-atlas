@@ -1,0 +1,332 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1554
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.escalation-from-committee-to-communal-majority-judgment
+  motif_id: escalation_from_committee_to_communal_majority_judgment
+  label: Escalation from committee to communal majority judgment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a sacred or communal legal procedure, but may be
+    a passage-specific institutional detail rather than a recurring motif.
+  cautions: Verify whether this is a normative religious-law motif or merely procedural
+    commentary before indexing.
+  suggested_aliases:
+  - communal_majority_judgment
+  - committee_to_community_judgment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethical-order-mapped-onto-heaven-earth-and-man
+  motif_id: ethical_order_mapped_onto_heaven_earth_and_man
+  label: Ethical order mapped onto Heaven, Earth, and Man
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif maps moral and social order onto a cosmic triad, fitting sacred
+    law as social ethics grounded in cosmic order.
+  cautions: Could also relate to cosmic sovereignty or duality if the passage emphasizes
+    cosmology over ethical normativity.
+  suggested_aliases:
+  - cosmic_mapping_of_ethics
+  - heaven_earth_human_ethical_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ethnographic-inversion-of-ordinary-social-roles
+  motif_id: ethnographic_inversion_of_ordinary_social_roles
+  label: ethnographic inversion of ordinary social roles
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording reads like an ethnographic or analytic observation about
+    social roles rather than a narrative motif.
+  cautions: If the source passage narrates ritual role reversal, reconsider under
+    sacred_time, sacred_law, or trickster depending on function.
+  suggested_aliases:
+  - ethnographic_role_inversion
+  - social_role_inversion_as_ethnographic_note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-animal-mark-from-punishment
+  motif_id: etiological_animal_mark_from_punishment
+  label: etiological animal mark from punishment
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Markings
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label explains an animal feature as the result of punishment; existing
+    creation and judgment groups do not cleanly preserve animal-body etiology.
+  cautions: May need secondary mapping to divine_judgment if a sacred authority imposes
+    the punishment.
+  suggested_aliases:
+  - animal_mark_from_punishment
+  - punitive_origin_of_animal_marking
+  suggested_new_group:
+    id: animal_etiology_markings
+    label: Animal Etiology and Markings
+    description: Stories explaining animal markings, traits, bodily peculiarities,
+      behaviors, relations, or local presence as the result of mythic events, punishment,
+      transformation, or primordial encounters.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - divine_judgment
+    - trickster
+    reason_existing_groups_insufficient: cosmic_origin currently covers broad creation,
+      place names, and peoples, but does not clearly preserve recurring animal-trait
+      etiology; shapeshifter covers transformation of beings, not explanatory animal
+      markings as such.
+- suggestion_id: normalization.suggestion.etiological-animal-marking
+  motif_id: etiological_animal_marking
+  label: etiological animal marking
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Markings
+  relationship: narrower_than
+  confidence: medium
+  rationale: This is a general animal-trait origin label recurring across the batch
+    and is more specific than broad cosmic origin.
+  cautions: If the passage only notes an animal trait without mythic explanation,
+    exclude as descriptive detail.
+  suggested_aliases:
+  - origin_of_animal_marking
+  - animal_marking_etiology
+  suggested_new_group:
+    id: animal_etiology_markings
+    label: Animal Etiology and Markings
+    description: Stories explaining animal markings, traits, bodily peculiarities,
+      behaviors, relations, or local presence as the result of mythic events, punishment,
+      transformation, or primordial encounters.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - divine_judgment
+    - trickster
+    reason_existing_groups_insufficient: Existing groups include place and people
+      etiologies under cosmic_origin but lack a stable home for animal markings and
+      peculiarities.
+- suggestion_id: normalization.suggestion.etiological-animal-marking-from-floodwaters
+  motif_id: etiological_animal_marking_from_floodwaters
+  label: etiological animal marking from floodwaters
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Markings
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core motif explains animal markings, with floodwaters as the causal
+    episode rather than a world-renewal flood pattern by itself.
+  cautions: If the passage centers on world destruction and renewal, also map to flood_and_renewal;
+    do not infer flood renewal from water imagery alone.
+  suggested_aliases:
+  - animal_marking_from_floodwaters
+  - floodwater_origin_of_animal_marking
+  suggested_new_group:
+    id: animal_etiology_markings
+    label: Animal Etiology and Markings
+    description: Stories explaining animal markings, traits, bodily peculiarities,
+      behaviors, relations, or local presence as the result of mythic events, punishment,
+      transformation, or primordial encounters.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - flood_and_renewal
+    - shapeshifter
+    reason_existing_groups_insufficient: flood_and_renewal would overstate the function
+      if the passage only explains animal markings; cosmic_origin is too broad without
+      an animal-etiology child.
+- suggestion_id: normalization.suggestion.etiological-animal-markings-and-peculiarities
+  motif_id: etiological_animal_markings_and_peculiarities
+  label: Etiological animal markings and peculiarities
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Markings
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explicitly names animal markings and peculiar traits as etiological
+    outcomes, matching a recurring animal-etiology cluster.
+  cautions: Preserve local animal species and trait details in evidence notes rather
+    than promoting each trait as a separate canonical motif.
+  suggested_aliases:
+  - animal_markings_and_peculiarities_etiology
+  - origin_of_animal_peculiarities
+  suggested_new_group:
+    id: animal_etiology_markings
+    label: Animal Etiology and Markings
+    description: Stories explaining animal markings, traits, bodily peculiarities,
+      behaviors, relations, or local presence as the result of mythic events, punishment,
+      transformation, or primordial encounters.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - divine_judgment
+    reason_existing_groups_insufficient: No current group cleanly indexes etiologies
+      of animal bodily traits across traditions; cosmic_origin is only a broad parent.
+- suggestion_id: normalization.suggestion.etiological-charter-for-distribution-of-dance-by-social-rank
+  motif_id: etiological_charter_for_distribution_of_dance_by_social_rank
+  label: Etiological charter for distribution of dance by social rank
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif appears to authorize rank-based ritual privilege, which may
+    fit sacred social hierarchy or legitimacy.
+  cautions: Culturally sensitive and highly contextual; review source evidence before
+    indexing under kingship, sacred_law, or sacred_time.
+  suggested_aliases:
+  - rank_based_distribution_of_dance
+  - ritual_dance_privilege_by_social_rank
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.etiological-explanation-of-animal-markings-and-animal-relations
+  motif_id: etiological_explanation_of_animal_markings_and_animal_relations
+  label: etiological explanation of animal markings and animal relations
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Markings
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label explains animal traits and inter-animal relations, extending
+    the same animal-etiology pattern beyond markings alone.
+  cautions: If animal relations are moral fable dynamics rather than origin explanation,
+    trickster or sacred_law may be better.
+  suggested_aliases:
+  - animal_markings_and_relations_etiology
+  - origin_of_animal_relations
+  suggested_new_group:
+    id: animal_etiology_markings
+    label: Animal Etiology and Markings
+    description: Stories explaining animal markings, traits, bodily peculiarities,
+      behaviors, relations, or local presence as the result of mythic events, punishment,
+      transformation, or primordial encounters.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - divine_judgment
+    reason_existing_groups_insufficient: Existing etiological coverage is oriented
+      to cosmos, places, and peoples; animal relations and markings need a narrower
+      review group.
+- suggestion_id: normalization.suggestion.etiological-explanation-of-animal-markings-or-presence
+  motif_id: etiological_explanation_of_animal_markings_or_presence
+  label: etiological explanation of animal markings or presence
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Etiology and Markings
+  relationship: narrower_than
+  confidence: medium
+  rationale: The motif explains why an animal has certain markings or is present in
+    a place, fitting a proposed animal-etiology group under cosmic origin.
+  cautions: If the focus is local landscape or species distribution rather than animal
+    trait, cosmic_origin may be an adequate broad secondary mapping.
+  suggested_aliases:
+  - animal_markings_or_presence_etiology
+  - origin_of_animal_presence
+  suggested_new_group:
+    id: animal_etiology_markings
+    label: Animal Etiology and Markings
+    description: Stories explaining animal markings, traits, bodily peculiarities,
+      behaviors, relations, or local presence as the result of mythic events, punishment,
+      transformation, or primordial encounters.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - shapeshifter
+    - trickster
+    - divine_judgment
+    reason_existing_groups_insufficient: The current taxonomy lacks a specific group
+      for recurring animal-trait and animal-presence origin stories.
+batch_notes:
+- Several labels form a coherent animal-etiology cluster despite single occurrences;
+  consider adding a review group under cosmic_origin rather than forcing all into
+  broad creation or transformation categories.
+- Power/law bucket placement appears noisy for animal etiologies; bucket should not
+  drive final taxonomy placement.
+- Culturally specific charter and social-rank items should receive human review before
+  broad query indexing.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1554
+  input_sha256: 6c1ebdbdda20f9bbab0ccbe1ce3a10273cb7eea55839b785c53f4747ec49c3be
+

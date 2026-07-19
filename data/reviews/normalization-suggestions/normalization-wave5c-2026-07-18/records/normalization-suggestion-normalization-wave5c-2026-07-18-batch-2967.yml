@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2967
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.living-island-revealed-as-a-whale
+  motif_id: living_island_revealed_as_a_whale
+  label: Living island revealed as a whale
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label describes a deceptive or animate landscape/sea-being episode,
+    but existing groups do not cleanly cover living islands or whale-island illusions.
+  cautions: Single occurrence; could fit otherworld, threshold peril, animal monster,
+    or sea-journey episode depending on passage function.
+  suggested_aliases:
+  - whale mistaken for island
+  - living island as sea creature
+  - island-fish
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - threshold_guardian
+    - sacred_waters
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-land-compared-to-island-fish-or-moving-land
+  motif_id: living_land_compared_to_island_fish_or_moving_land
+  label: living land compared to island-fish or moving land
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording may describe animate unstable terrain, a comparison, or a
+    cosmological being, but the narrative function is unclear.
+  cautions: May be a passage-specific simile rather than a motif; avoid merging with
+    whale-island unless evidence shows the same episode structure.
+  suggested_aliases:
+  - moving land
+  - island-fish
+  - living land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - sacred_waters
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.living-or-unstable-garment-made-from-insects-exposes-wearer
+  motif_id: living_or_unstable_garment_made_from_insects_exposes_wearer
+  label: Living or unstable garment made from insects exposes wearer
+  occurrences: 1
+  traditions:
+  - afro_caribbean
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animate material, clothing, insects, and exposure;
+    its function could be trickster exposure, magical craft, or humiliation.
+  cautions: Over-specific single occurrence; source context needed before assigning
+    to trickster, sacred_craft, or sacred_treasures.
+  suggested_aliases:
+  - insect garment exposes wearer
+  - unstable living garment
+  - living clothing made from insects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - trickster
+    - sacred_craft
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.load-bearing-endurance-and-distress-sound
+  motif_id: load_bearing_endurance_and_distress_sound
+  label: Load-bearing endurance and distress sound
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The wording is abstract and descriptive rather than a recognizable symbolic
+    or narrative motif.
+  cautions: If the passage concerns a world-supporting being, axis, or burdened culture
+    hero, it should be re-reviewed with evidence rather than excluded permanently.
+  suggested_aliases:
+  - burden-bearing distress sound
+  - load-bearing endurance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - sacrifice
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-cave-framed-by-a-classical-analogy
+  motif_id: local_cave_framed_by_a_classical_analogy
+  label: local cave framed by a classical analogy
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase describes interpretive framing by analogy rather than a motif
+    in the source narrative.
+  cautions: If the cave itself functions as descent, refuge, or initiation site, preserve
+    that evidence under the relevant cave/descent mapping separately.
+  suggested_aliases:
+  - cave described by classical analogy
+  - classical analogy for local cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - descent
+    - axis_mundi
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-material-substitution-for-established-vessel-forms
+  motif_id: local_material_substitution_for_established_vessel_forms
+  label: local-material substitution for established vessel forms
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label appears to describe material adaptation or artifact typology
+    rather than a narrative motif.
+  cautions: If a vessel preserves, contains, or transforms sacred power in the passage,
+    re-index that evidence under sacred_vessel.
+  suggested_aliases:
+  - local material vessel substitution
+  - material substitution in vessel forms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_vessel
+    - sacred_craft
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.local-natural-features-as-identity-markers
+  motif_id: local_natural_features_as_identity_markers
+  label: local natural features as identity markers
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Natural features marking identity may be toponymic, ancestral, territorial,
+    or ethnographic; the motif function is not clear from the label.
+  cautions: Could be a commentary artifact if merely describing local geography; if
+    it explains origin or naming, cosmic_origin may be appropriate.
+  suggested_aliases:
+  - natural features as identity signs
+  - landscape identity markers
+  - local landscape markers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.localized-midas-bodily-mark-tale
+  motif_id: localized_midas_bodily_mark_tale
+  label: Localized Midas bodily-mark tale
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: The label names a localized tale-type comparison and bodily mark, but
+    not enough function is given to map confidently.
+  cautions: Possible meta-comparative label because it invokes Midas; if the passage
+    centers on hidden bodily identity proof, recognition_tokens_hidden_identity may
+    fit.
+  suggested_aliases:
+  - Midas bodily mark tale
+  - hidden bodily mark tale
+  - localized bodily-mark tale
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - recognition_tokens_hidden_identity
+    - shapeshifter
+    - _meta_textual
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.locked-gates-opening-for-a-saint
+  motif_id: locked_gates_opening_for_a_saint
+  label: locked gates opening for a saint
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Miraculously opening locked gates for a holy person is best treated as
+    divine or sacred intervention in human affairs.
+  cautions: If the emphasis is saintly authority or sacred threshold passage, secondary
+    review under mystical_quest or threshold_guardian may be useful.
+  suggested_aliases:
+  - miraculous opening of locked gates
+  - gates open for saint
+  - locked doors open for holy person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - mystical_quest
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.locked-or-hidden-entrance-into-an-island
+  motif_id: locked_or_hidden_entrance_into_an_island
+  label: Locked or hidden entrance into an island
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: A concealed or locked entrance to an island often marks access to an
+    enchanted or otherworldly realm.
+  cautions: If the island is not enchanted and the focus is simply a guarded threshold,
+    threshold_guardian or hero_journey may be better.
+  suggested_aliases:
+  - hidden entrance to island
+  - locked entrance to enchanted island
+  - secret island entrance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and object/space-focused; many
+  require source context to distinguish narrative motif from descriptive or comparative
+  artifact.
+- 'Possible future review area: animate or deceptive land/sea formations such as whale-islands
+  and moving land, but current evidence here is too sparse for a new group candidate.'
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    specific or meta-comparative labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2967
+  input_sha256: 1294e0203ffd1092a95b6768d13a3a314526ad397a1a7e04d8cfc09e4cf8fd13
+

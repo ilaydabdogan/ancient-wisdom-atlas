@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0006
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.aerial-movement-and-descent-of-a-monastic-multitude
+  motif_id: aerial_movement_and_descent_of_a_monastic_multitude
+  label: Aerial movement and descent of a monastic multitude
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Aerial descent of monks could be miracle, theophany-like display, ascent/descent
+    imagery, or contextual hagiographic detail.
+  cautions: Do not map to underworld descent without evidence of death, afterlife,
+    or transformative descent; may belong under divine_intervention or ascent if miraculous
+    flight is central.
+  suggested_aliases:
+  - monastic_multitude_descends_from_the_air
+  - miraculous_aerial_descent_of_monks
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - ascent
+    - theophany
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.aetiology-through-death-naming-and-animal-behavior
+  motif_id: aetiology_through_death_naming_and_animal_behavior
+  label: aetiology through death, naming, and animal behavior
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes an etiological naming pattern, and the existing group
+    already includes place-name and violent-death etiologies.
+  cautions: Animal behavior may be locally significant; if the label is merely a scholarly
+    explanation rather than a narrative motif, consider excluding as meta/contextual
+    evidence.
+  suggested_aliases:
+  - death_based_naming_etiology
+  - etiological_naming_from_death_and_animal_behavior
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.afflicted-creation-or-animal-soul-appeals-to-divine-powers
+  motif_id: afflicted_creation_or_animal_soul_appeals_to_divine_powers
+  label: Afflicted creation or animal soul appeals to divine powers
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines cosmic creation, animal soul, affliction, and appeal
+    to divine powers, so its main function is unclear.
+  cautions: Could involve cosmic_origin, sacred_exchange, divine_intervention, sacred_law,
+    or animal-soul belief; culturally specific Zoroastrian evidence should be reviewed
+    before grouping.
+  suggested_aliases:
+  - animal_soul_appeals_to_divine_powers
+  - afflicted_creation_appeals_to_divine_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - divine_intervention
+    - sacred_exchange
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.after-death-reunion-as-consolation
+  motif_id: after_death_reunion_as_consolation
+  label: after-death reunion as consolation
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reunion after death as consolation centers on enduring relational bonds
+    beyond bodily death, fitting sacred_love.
+  cautions: If the passage emphasizes mourner grief rather than enduring love, lament_and_mourning
+    may be a better secondary placement; if it maps a postmortem realm, use afterlife_passage.
+  suggested_aliases:
+  - after_death_reunion_console_mourners
+  - postmortem_reunion_as_consolation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - afterlife_passage
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.after-death-reunion-as-consolation-for-mourners
+  motif_id: after_death_reunion_as_consolation_for_mourners
+  label: After-death reunion as consolation for mourners
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: alias
+  confidence: medium
+  rationale: This is a close wording variant of after_death_reunion_as_consolation
+    and fits love or kinship enduring beyond death.
+  cautions: Mourner consolation may also index lament_and_mourning if grief practice
+    is the focus rather than reunion itself.
+  suggested_aliases:
+  - after_death_reunion_as_consolation
+  - postmortem_reunion_for_mourners
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - lament_and_mourning
+    - afterlife_passage
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.after-life-land-and-immortal-soul
+  motif_id: after_life_land_and_immortal_soul
+  label: after-life land and immortal soul
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: narrower_than
+  confidence: medium
+  rationale: An afterlife land and immortal soul belongs to postmortem geography and
+    soul continuity.
+  cautions: If no journey, gates, or passage sequence is present, this may be a general
+    afterlife-belief note rather than afterlife navigation; consider otherworld if
+    the realm is enchanted rather than mortuary.
+  suggested_aliases:
+  - afterlife_land_and_immortal_soul
+  - immortal_soul_in_afterlife_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - death_and_transformation
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.afterbirth-burial-shaping-child-s-fate-and-future-fertility
+  motif_id: afterbirth_burial_shaping_child_s_fate_and_future_fertility
+  label: Afterbirth burial shaping child’s fate and future fertility
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif is a culturally specific birth/afterbirth rite linking burial,
+    fate, and fertility, not cleanly covered by current death groups.
+  cautions: Review source evidence carefully; may fit sacred_law as ritual practice,
+    miraculous_child/sacred_birth if destiny is central, or sacred_love/fertility
+    themes, but it may be too specific for pattern queries.
+  suggested_aliases:
+  - placenta_burial_shapes_child_fate
+  - afterbirth_burial_and_future_fertility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - miraculous_child
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.afterlife-as-repetition-of-earthly-social-life
+  motif_id: afterlife_as_repetition_of_earthly_social_life
+  label: afterlife as repetition of earthly social life
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label describes the structure of postmortem existence and belongs
+    with afterlife geography and passage beliefs.
+  cautions: This is more a description of afterlife society than a journey map; if
+    no movement or ritual passage is present, preserve as a broad afterlife-world
+    evidence note.
+  suggested_aliases:
+  - afterlife_repeats_earthly_social_order
+  - postmortem_society_mirrors_earthly_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - ancestor_rites
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.afterlife-doom-for-grave-communal-rupture
+  motif_id: afterlife_doom_for_grave_communal_rupture
+  label: Afterlife doom for grave communal rupture
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Postmortem doom assigned for a serious communal offense is a moral reckoning
+    pattern.
+  cautions: In Buddhist context, review whether this is karmic consequence, monastic
+    disciplinary warning, or mapped hell/afterlife passage; afterlife_passage may
+    be a secondary mapping if geography is described.
+  suggested_aliases:
+  - postmortem_doom_for_communal_rupture
+  - afterlife_punishment_for_communal_schism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - sacred_law
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.afterlife-duration-mirrors-graded-offense
+  motif_id: afterlife_duration_mirrors_graded_offense
+  label: afterlife duration mirrors graded offense
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: Graded postmortem duration proportionate to offense is a clear divine
+    or cosmic moral reckoning pattern.
+  cautions: May also support afterlife_passage if the source describes a timed route,
+    hell, or judgment sequence; preserve proportional-duration detail as evidence.
+  suggested_aliases:
+  - graded_afterlife_punishment_duration
+  - postmortem_duration_proportional_to_offense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - afterlife_passage
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and should remain provisional until passage
+  evidence confirms whether they are narrative motifs, ritual beliefs, or generated
+  summary artifacts.
+- Death/afterlife labels in this batch often overlap with divine_judgment, afterlife_passage,
+  sacred_love, and lament_and_mourning; avoid collapsing all postmortem imagery into
+  descent unless journey or underworld movement is explicit.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0006
+  input_sha256: deb815ab4fcb964b09f03eecd06f98962b82162bd010879936e00220b4d7c7d1
+

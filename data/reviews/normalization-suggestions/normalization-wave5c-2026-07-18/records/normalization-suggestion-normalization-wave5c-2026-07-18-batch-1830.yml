@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1830
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.exogamy-and-inter-island-marriage-boundaries
+  motif_id: exogamy_and_inter_island_marriage_boundaries
+  label: exogamy and inter-island marriage boundaries
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Marriage-boundary rules may function as sacred/social law regulating
+    kinship and alliance.
+  cautions: Single Melanesian occurrence; may be ethnographic kinship context rather
+    than a portable mythic motif. Could also belong under sacred_love if narrative
+    marriage choice is central.
+  suggested_aliases:
+  - marriage_boundary_rules
+  - exogamy_rules
+  - inter_island_marriage_regulation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exorcism-by-blowing-up-evil-persons
+  motif_id: exorcism_by_blowing_up_evil_persons
+  label: Exorcism by blowing up evil persons
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: low
+  rationale: Existing normalization folds exorcism and expulsion of harmful beings
+    under the sacrifice/ritual-expulsion complex.
+  cautions: The phrase 'blowing up evil persons' is ambiguous and culturally sensitive;
+    verify whether this is breath, inflation, explosion, transformation, or a generated
+    wording artifact before mapping.
+  suggested_aliases:
+  - exorcistic_expulsion_of_evil_persons
+  - ritual_expulsion_of_harmful_persons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exorcistic-command-to-personified-afflictions
+  motif_id: exorcistic_command_to_personified_afflictions
+  label: exorcistic command to personified afflictions
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A commanded removal of personified afflictions fits the existing ritual-expulsion/exorcism
+    cluster under sacrifice.
+  cautions: Could also relate to curse_blessing_speech if the operative feature is
+    a performative command rather than the expulsion rite.
+  suggested_aliases:
+  - exorcistic_command_against_afflictions
+  - commanded_expulsion_of_personified_afflictions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expectation-that-a-wife-receive-other-men
+  motif_id: expectation_that_a_wife_receive_other_men
+  label: Expectation that a wife receive other men
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a socially regulated marital or hospitality
+    obligation, which may fit sacred law/social order.
+  cautions: Culturally sensitive and too context-dependent to normalize from label
+    alone; avoid imposing moral categories without source evidence.
+  suggested_aliases:
+  - marital_hospitality_obligation
+  - wife_receives_other_men_as_social_expectation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expected-marvel-apparently-absent-or-concealed
+  motif_id: expected_marvel_apparently_absent_or_concealed
+  label: Expected marvel apparently absent or concealed
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a narrative expectation or commentary about a missing/concealed
+    marvel rather than a stable motif.
+  cautions: If passage evidence shows an actual hidden sacred object, being, or otherworld
+    marvel, remap to sacred_treasures, otherworld, or divine_intervention as appropriate.
+  suggested_aliases:
+  - apparently_absent_marvel
+  - concealed_expected_marvel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exposed-child-rescued-by-shepherds
+  motif_id: exposed_child_rescued_by_shepherds
+  label: exposed child rescued by shepherds
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: high
+  rationale: An exposed or endangered child rescued and preserved fits the threatened
+    infancy/protected child pattern.
+  cautions: Shepherd rescuers should be preserved as evidence detail; if the child
+    lacks sacred, royal, or transformative destiny, human review may narrow or exclude.
+  suggested_aliases:
+  - exposed_child_rescued
+  - abandoned_child_preserved_by_shepherds
+  - threatened_infant_rescued_by_shepherds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exposure-of-beauty-invites-danger
+  motif_id: exposure_of_beauty_invites_danger
+  label: Exposure of beauty invites danger
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: beauty_and_paradox
+  suggested_group_label: Beauty Paired with Pain and Paradox
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Beauty becoming dangerous when revealed matches the beauty-with-peril
+    paradox already represented in the taxonomy.
+  cautions: In Sufi context it may instead be a mystical-love teaching under sacred_love
+    or divine_beloved; check whether beauty is human, divine, erotic, or allegorical.
+  suggested_aliases:
+  - revealed_beauty_as_danger
+  - beauty_exposed_becomes_perilous
+  - peril_of_manifest_beauty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exposure-of-vulnerable-persons-in-the-bush
+  motif_id: exposure_of_vulnerable_persons_in_the_bush
+  label: Exposure of vulnerable persons in the bush
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: uncertain
+  confidence: low
+  rationale: Exposure of vulnerable persons may overlap with the abandoned/protected
+    child pattern if children or destined figures are involved.
+  cautions: The label does not specify children, sacred destiny, rescue, or transformation;
+    could be social abandonment, ordeal, or passage-specific detail.
+  suggested_aliases:
+  - abandonment_of_vulnerable_persons_in_bush
+  - exposure_in_the_bush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expulsion-of-an-unfit-chief-wife
+  motif_id: expulsion_of_an_unfit_chief_wife
+  label: expulsion of an unfit chief wife
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: A chief wife’s removal may concern royal household order, succession,
+    or legitimacy.
+  cautions: Could be a culturally specific domestic/legal episode rather than mythic
+    kingship; 'unfit' needs source context and should not be normalized as a moral
+    judgment without evidence.
+  suggested_aliases:
+  - removal_of_chief_wife
+  - expelled_chief_wife
+  - royal_household_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expulsion-of-harmful-lie-from-the-person
+  motif_id: expulsion_of_harmful_lie_from_the_person
+  label: Expulsion of harmful Lie from the person
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Expelling a harmful personified Lie from a person fits the existing exorcism/ritual-expulsion
+    cluster.
+  cautions: Because Lie is a major Zoroastrian moral-cosmic category, secondary relation
+    to divine_judgment or sacred_law may be needed if ethical dualism is central.
+  suggested_aliases:
+  - expulsion_of_personified_lie
+  - exorcism_of_harmful_lie
+  - removal_of_lie_from_person
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are social or culturally specific marriage/household
+  rules; these should receive human review before being treated as cross-traditional
+  motifs.
+- Exorcism and expulsion labels are provisionally aligned with the existing sacrifice/ritual-expulsion
+  cluster, but source evidence should determine whether sacred_law, curse_blessing_speech,
+  or divine_judgment is a better secondary mapping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft placement suggestions only; culturally sensitive kinship and expulsion
+    labels require evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1830
+  input_sha256: fb95f5a94238ce378431b333b00da645a0281d7444e95ff0c2c266d64426d831
+

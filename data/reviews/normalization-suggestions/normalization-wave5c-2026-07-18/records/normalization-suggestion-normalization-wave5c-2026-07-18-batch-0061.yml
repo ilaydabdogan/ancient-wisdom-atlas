@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0061
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.child-presumed-dead-is-found-alive-or-present
+  motif_id: child_presumed_dead_is_found_alive_or_present
+  label: child presumed dead is found alive or present
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: low
+  rationale: A child thought dead but found alive fits the protected or threatened
+    child pattern when survival is narratively significant.
+  cautions: Could instead be a recognition or plot-resolution detail if no sacred
+    destiny, danger, or protection is involved.
+  suggested_aliases:
+  - child thought dead found alive
+  - presumed-dead child survives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-promised-to-a-predator-under-threat-of-household-death
+  motif_id: child_promised_to_a_predator_under_threat_of_household_death
+  label: Child promised to a predator under threat of household death
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines child sacrifice, predator bargain, household threat,
+    and possible fable logic; function is unclear without source context.
+  cautions: May fit sacrifice, trickster/predator fable, miraculous_child, or an over-specific
+    episode; review whether a sacred offering or coercive bargain is actually present.
+  suggested_aliases:
+  - child promised to predator
+  - predator bargain under threat of death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-retrieved-and-raised-after-parents-deaths
+  motif_id: child_retrieved_and_raised_after_parents_deaths
+  label: child retrieved and raised after parents' deaths
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: low
+  rationale: A child preserved and reared after parental death can belong to the protected
+    vulnerable child pattern.
+  cautions: If the emphasis is kinship obligation or ordinary fosterage rather than
+    extraordinary preservation, this may be too contextual for motif queries.
+  suggested_aliases:
+  - orphaned child retrieved and raised
+  - child protected after parents' deaths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.child-stolen-by-wood-spirits-and-recovered-in-a-tree
+  motif_id: child_stolen_by_wood_spirits_and_recovered_in_a_tree
+  label: Child stolen by wood spirits and recovered in a tree
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: alias
+  confidence: high
+  rationale: This is a close wording variant of the existing child_taken_by_wood_spirits_and_recovered_in_a_tree
+    under otherworld.
+  cautions: Preserve tree and child-abduction specifics; if evidence emphasizes sacred-tree
+    cosmology or miraculous child survival, secondary review may be needed.
+  suggested_aliases:
+  - child taken by wood spirits and recovered in a tree
+  - child abducted by wood spirits and recovered in a tree
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.childless-death-transferring-full-estate-to-co-wife-and-children
+  motif_id: childless_death_transferring_full_estate_to_co_wife_and_children
+  label: childless death transferring full estate to co-wife and children
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as a legal inheritance provision or passage-specific
+    social detail rather than a reusable mythic motif.
+  cautions: If the passage frames inheritance as sacred law or lineage curse, it could
+    be reviewed under sacred_law or covenant; otherwise exclude from motif queries.
+  suggested_aliases:
+  - childless death estate transfer
+  - inheritance after childless death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.childless-deaths-within-a-lineage-reckoning
+  motif_id: childless_deaths_within_a_lineage_reckoning
+  label: Childless deaths within a lineage reckoning
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate genealogical accounting, judgment on a lineage,
+    or a narrative consequence of childlessness.
+  cautions: May be a passage artifact from a lineage list; review whether it expresses
+    divine judgment, ancestry, inheritance, or merely demographic detail.
+  suggested_aliases:
+  - childless lineage deaths
+  - lineage reckoning through childless deaths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.children-discover-elder-s-death-and-raise-alarm
+  motif_id: children_discover_elder_s_death_and_raise_alarm
+  label: Children discover elder's death and raise alarm
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be an episode-level plot action around discovering a
+    death, not a durable symbolic or ritual motif.
+  cautions: If discovery initiates mourning rites, ancestor rites, or vengeance, map
+    the broader function rather than this specific action.
+  suggested_aliases:
+  - children discover an elder's death
+  - alarm raised after elder's death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.children-stolen-by-spirits-and-tigers
+  motif_id: children_stolen_by_spirits_and_tigers
+  label: children stolen by spirits and tigers
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Child abduction by spirits may fit otherworld or miraculous_child, while
+    tigers suggest predator-danger or local animal motif.
+  cautions: Composite and culturally specific; review whether the agents are spirits,
+    animals, transformed beings, or narrative hazards before grouping.
+  suggested_aliases:
+  - children abducted by spirits and tigers
+  - children stolen by spirits or predators
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.choice-between-death-and-deathlessness
+  motif_id: choice_between_death_and_deathlessness
+  label: Choice between Death and Deathlessness
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A choice between mortality and deathlessness concerns transformation
+    of mortal status and relation to death.
+  cautions: Hermetic context may make this a philosophical teaching rather than narrative
+    motif; sacred_knowledge or mystical_quest may be secondary if the choice is contemplative.
+  suggested_aliases:
+  - choice between mortality and immortality
+  - choice of deathlessness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.choked-vine-as-image-of-spiritual-ruin
+  motif_id: choked_vine_as_image_of_spiritual_ruin
+  label: Choked vine as image of spiritual ruin
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label reads as moral or spiritual teaching through plant imagery,
+    closest to wisdom instruction.
+  cautions: May be a parable-specific metaphor rather than a motif; if used only as
+    commentary or isolated image, exclude or preserve as evidence detail.
+  suggested_aliases:
+  - choked vine as spiritual ruin
+  - vine choked as moral warning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence, episode-level labels; placements
+  should remain provisional until source passages confirm symbolic or narrative function.
+- Child-abduction labels should be reviewed carefully for whether the main function
+  is protected child, otherworld abduction, predator danger, or local spirit belief.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0061
+  input_sha256: 02fd9b12b7c4995dd6f0d9c3d6b726deb0cf23040d6cb05afefba66e1f551da7
+

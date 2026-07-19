@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1091
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-status-object-completed-lacking-or-destroyed
+  motif_id: ritual_status_object_completed_lacking_or_destroyed
+  label: Ritual-status object completed, lacking, or destroyed
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too abstract to tell whether the object is a sacred treasure,
+    ritual implement, status marker, or textual summary of ritual completeness.
+  cautions: Single occurrence; may be a passage artifact or culturally specific ritual
+    detail requiring source context.
+  suggested_aliases:
+  - ritual_status_object
+  - ritual_object_completion_or_loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-stone-or-coral-table
+  motif_id: ritual_stone_or_coral_table
+  label: ritual stone or coral table
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A ritual table may function as altar, sacred object, offering surface,
+    or local ceremonial architecture, but the label alone does not show the motif
+    function.
+  cautions: Object-specific and single occurrence; avoid mapping to sacred_treasures
+    or sacred_exchange without evidence of power, offering, or exchange function.
+  suggested_aliases:
+  - ritual_table
+  - stone_or_coral_ritual_table
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-strengthening-and-renewal-of-powers
+  motif_id: ritual_strengthening_and_renewal_of_powers
+  label: ritual strengthening and renewal of powers
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rite that renews powers fits sacred exchange when ritual action repairs
+    or replenishes relations with sacred forces.
+  cautions: If the passage emphasizes seasonal recurrence, sacred_time may be a secondary
+    fit; if it emphasizes personal initiation or medicine power, source review is
+    needed.
+  suggested_aliases:
+  - ritual_renewal_of_power
+  - ritual_replenishment_of_sacred_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-struggle-with-an-invisible-being
+  motif_id: ritual_struggle_with_an_invisible_being
+  label: Ritual struggle with an invisible being
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif could be shamanic ordeal, exorcism, spirit combat, healing
+    rite, or encounter with a threshold being.
+  cautions: Culturally sensitive ritual context; do not reduce to combat or expulsion
+    without passage evidence.
+  suggested_aliases:
+  - ritual_combat_with_invisible_being
+  - shamanic_struggle_with_invisible_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-substitute-for-a-missing-body-part
+  motif_id: ritual_substitute_for_a_missing_body_part
+  label: ritual substitute for a missing body part
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual replacement for a missing body part suggests bodily restoration
+    or postmortem wholeness, fitting death-transformation contexts.
+  cautions: If the substitute is primarily a funerary object or power object, sacred_treasures
+    or afterlife_passage may be relevant secondary mappings.
+  suggested_aliases:
+  - body_part_ritual_substitute
+  - ritual_restoration_of_missing_body_part
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-sucking-and-blowing-to-expel-disease
+  motif_id: ritual_sucking_and_blowing_to_expel_disease
+  label: ritual sucking and blowing to expel disease
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The current sacrifice group already contains expulsion of disease, devils,
+    evil spirits, and spirit-affliction rites.
+  cautions: Specific healing technique should be preserved as evidence detail; if
+    framed mainly as healing rather than expulsion, a future ritual-healing group
+    might be preferable.
+  suggested_aliases:
+  - disease_expulsion_by_sucking_and_blowing
+  - ritual_expulsion_of_disease_by_breath
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-suitability-and-differentiation-of-offerings
+  motif_id: ritual_suitability_and_differentiation_of_offerings
+  label: Ritual suitability and differentiation of offerings
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label concerns proper kinds of offerings, which falls directly under
+    sacrifice and offering practice.
+  cautions: Could also relate to sacred_law if the emphasis is rule classification
+    rather than offering act.
+  suggested_aliases:
+  - proper_differentiation_of_offerings
+  - ritually_suitable_offerings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-summons-by-tobacco-tokens-and-all-night-song
+  motif_id: ritual_summons_by_tobacco_tokens_and_all_night_song
+  label: Ritual summons by tobacco tokens and all-night song
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sacred substance, token exchange, summons, and song;
+    its dominant ritual function is unclear.
+  cautions: Culturally specific and composite; avoid flattening tobacco tokens and
+    all-night song into generic sacred_exchange or enchanting_music without source
+    review.
+  suggested_aliases:
+  - ritual_summons_by_tobacco_tokens
+  - all_night_song_ritual_summons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-summons-through-sacred-meal-and-announcement
+  motif_id: ritual_summons_through_sacred_meal_and_announcement
+  label: ritual summons through sacred meal and announcement
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A sacred meal used to summon or gather participants fits ritual reciprocity,
+    feeding, and relational exchange.
+  cautions: If the announcement or speech act is central, curse_blessing_speech or
+    storytelling_as_power may be secondary; source review should preserve local ritual
+    function.
+  suggested_aliases:
+  - sacred_meal_summons
+  - ritual_gathering_by_sacred_meal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-support-and-honor-for-elders
+  motif_id: ritual_support_and_honor_for_elders
+  label: ritual support and honor for elders
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritualized elder honor fits sacred social order, filial duty, and codified
+    ethical obligation.
+  cautions: Could also map to sacred_exchange if reciprocal support is central; preserve
+    Confucian ritual-ethical specificity.
+  suggested_aliases:
+  - ritual_honor_for_elders
+  - filial_ritual_support_for_elders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence, culturally specific ritual details; suggested
+  placements are provisional and should be checked against source passages.
+- No transmission or borrowing claims are implied by any suggested grouping.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Batch contains multiple ritual-composite labels where dominant function cannot
+    be determined from label alone.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1091
+  input_sha256: eb5c260afeec14915d0f0748bf220403dabe6be2a4735a4b526fe715174ade49
+

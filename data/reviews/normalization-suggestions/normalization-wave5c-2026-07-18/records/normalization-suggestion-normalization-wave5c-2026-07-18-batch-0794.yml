@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0794
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.divine-sign-as-warrant-for-action
+  motif_id: divine_sign_as_warrant_for_action
+  label: divine sign as warrant for action
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A divine sign authorizing action functions as omen or divinatory warrant
+    for decision-making.
+  cautions: Could instead be divine_intervention or theophany if the sign is a direct
+    divine act or manifestation rather than an interpreted omen.
+  suggested_aliases:
+  - divine_omen_as_warrant_for_action
+  - omen_authorizes_action
+  - sacred_sign_authorizes_decision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sign-confirming-faith-amid-struggle
+  motif_id: divine_sign_confirming_faith_amid_struggle
+  label: Divine sign confirming faith amid struggle
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The sign confirms faith during adversity through sacred guidance or reassurance
+    in human struggle.
+  cautions: If the passage emphasizes visionary perception or formal omen interpretation,
+    dream_and_vision or prophecy_divination may be better secondary mappings.
+  suggested_aliases:
+  - divine_sign_confirms_faith
+  - sacred_sign_reassures_the_faithful
+  - divine_reassurance_amid_struggle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sign-defeats-rival-magic
+  motif_id: divine_sign_defeats_rival_magic
+  label: Divine sign defeats rival magic
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: high
+  rationale: A miraculous divine sign overcoming rival magic fits existing miracle-contest
+    and divine intervention patterns.
+  cautions: May also involve divine_judgment if the rival magic is punished, or sacred_knowledge
+    if the contest centers on authorized revelation.
+  suggested_aliases:
+  - miracle_contest_against_magicians
+  - divine_sign_overcomes_magic
+  - miraculous_sign_defeats_rival_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-silence-after-prayer
+  motif_id: divine_silence_after_prayer
+  label: divine silence after prayer
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Divine non-response after prayer may be lament, ritual failure, judgment,
+    or literary theology depending on source context.
+  cautions: Single occurrence and ambiguous function; do not map to sacred_exchange
+    or divine_judgment without evidence of refused reciprocity, punishment, or abandonment.
+  suggested_aliases:
+  - unanswered_prayer
+  - divine_nonresponse_after_prayer
+  - silence_of_the_god_after_supplication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-slaying-of-a-named-saga-figure
+  motif_id: divine_slaying_of_a_named_saga_figure
+  label: divine slaying of a named saga figure
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to record a specific named-figure death rather than
+    a reusable motif pattern.
+  cautions: If source evidence shows divine punishment, fated death, or sacred combat
+    rather than a person-specific event, remap to divine_judgment, death_by_fate,
+    or divine_warrior.
+  suggested_aliases:
+  - divine_slaying_of_named_hero
+  - god_kills_named_saga_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sleep-over-mourning
+  motif_id: divine_sleep_over_mourning
+  label: divine sleep over mourning
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The wording is unclear: it may describe a god-induced sleep that interrupts
+    grief, a deity sleeping while others mourn, or an episode detail.'
+  cautions: Could fit divine_intervention, lament_and_mourning, or dream_and_vision
+    depending on agency and narrative function; likely too contextual without passage
+    evidence.
+  suggested_aliases:
+  - divinely_induced_sleep_during_mourning
+  - sleep_interrupts_mourning
+  - divine_sleep_and_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-smith-creates-powerful-and-animated-objects
+  motif_id: divine_smith_creates_powerful_and_animated_objects
+  label: divine smith creates powerful and animated objects
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: child
+  confidence: high
+  rationale: A divine smith producing powerful or animated objects clearly belongs
+    to sacred craft and artificial animation motifs.
+  cautions: If the focus is the power object after creation rather than the act of
+    making, sacred_treasures may be a secondary mapping.
+  suggested_aliases:
+  - divine_smith_creates_animated_objects
+  - divine_craft_of_power_objects
+  - divine_smith_artificial_animation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-smithing-of-martial-arms
+  motif_id: divine_smithing_of_martial_arms
+  label: Divine smithing of martial arms
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: high
+  rationale: Divinely forged weapons are a sacred crafting pattern, with martial arms
+    as the crafted object.
+  cautions: Also relates to sacred_treasures and divine_warrior when the weapons confer
+    authority or decide battle.
+  suggested_aliases:
+  - divine_forging_of_weapons
+  - divine_smithing_of_arms
+  - god_forged_martial_arms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-smithy-in-a-volcanic-cavern
+  motif_id: divine_smithy_in_a_volcanic_cavern
+  label: Divine smithy in a volcanic cavern
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label identifies the sacred workshop setting of divine craft, especially
+    smithing associated with volcanic fire.
+  cautions: May be an over-specific place detail if no crafting action is described;
+    volcanic cavern could also touch sacred_fire or cave as liminal space.
+  suggested_aliases:
+  - volcanic_divine_smithy
+  - divine_smithy_in_cavern
+  - sacred_smithy_in_volcanic_cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.divine-sojourn-in-an-osirian-hall
+  motif_id: divine_sojourn_in_an_osirian_hall
+  label: divine sojourn in an Osirian hall
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: An Osirian hall could indicate afterlife passage, divine judgment, or
+    a specific Egyptian cultic setting; the function is not clear from the label.
+  cautions: Avoid mapping solely from the Osiris reference. If the hall is a postmortem
+    judgment or navigation setting, afterlife_passage or divine_judgment may fit.
+  suggested_aliases:
+  - sojourn_in_osirian_hall
+  - osirian_hall_sojourn
+  - divine_presence_in_osirian_hall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch concern divine signs. Review should distinguish formal
+  omens/divination from direct divine intervention or theophany.
+- Divine-smith labels fit the existing sacred_craft group, with secondary relevance
+  to sacred_treasures, sacred_fire, or divine_warrior depending on passage evidence.
+- Person- or setting-specific labels with only one occurrence should remain provisional
+  and not be promoted without recurrence across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 0794; human
+    review recommended for ambiguous divine silence, mourning-sleep, and Osirian hall
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0794
+  input_sha256: 5cb4ceb16abd2fc37df36431a01686c5345f2eeecc12b079474df42d7588f516
+

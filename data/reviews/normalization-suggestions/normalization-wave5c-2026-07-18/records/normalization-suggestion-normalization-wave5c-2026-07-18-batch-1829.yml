@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1829
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.exceptional-person-praised-through-superlatives
+  motif_id: exceptional_person_praised_through_superlatives
+  label: exceptional person praised through superlatives
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes praise style or characterization rather than a stable
+    narrative motif.
+  cautions: If the passage uses superlative praise to establish sacred kingship, miraculous
+    status, or heroic destiny, remap to the relevant substantive motif.
+  suggested_aliases:
+  - superlative_praise_of_exceptional_person
+  - exceptional_person_characterized_by_superlatives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exceptional-surviving-giant-child-tests-spear-skill-and-vanishes
+  motif_id: exceptional_surviving_giant_child_tests_spear_skill_and_vanishes
+  label: Exceptional surviving giant child tests spear skill and vanishes
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Composite single-episode label combines giant child, survival, martial
+    test, and disappearance without a clear dominant function.
+  cautions: Could involve miraculous_child, initiation, divine_warrior, otherworld,
+    or a local giant-being episode; source evidence is needed before broad indexing.
+  suggested_aliases:
+  - giant_child_tests_spear_skill_and_vanishes
+  - surviving_giant_child_as_martial_tester
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exchange-of-outward-beauty-for-true-beauty
+  motif_id: exchange_of_outward_beauty_for_true_beauty
+  label: exchange of outward beauty for true beauty
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: beauty_and_paradox
+  suggested_group_label: Beauty Paired with Pain and Paradox
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label contrasts superficial beauty with a deeper or truer beauty,
+    fitting the taxonomy's beauty-paradox field.
+  cautions: If this is a philosophical ethical lesson rather than a mythic episode,
+    sacred_knowledge or exclusion as commentary may be preferable.
+  suggested_aliases:
+  - outward_beauty_exchanged_for_true_beauty
+  - true_beauty_over_external_beauty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exchange-of-personal-status-objects-under-festival-pressure
+  motif_id: exchange_of_personal_status_objects_under_festival_pressure
+  label: Exchange of personal/status objects under festival pressure
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core action is pressured exchange of socially meaningful objects
+    in a festival setting, matching ritual reciprocity.
+  cautions: Could instead be sacred_time if the festival cycle is central, or sacred_treasures
+    if the objects carry supernatural power.
+  suggested_aliases:
+  - festival_exchange_of_status_objects
+  - ritual_exchange_of_personal_status_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exchange-or-adoption-of-children
+  motif_id: exchange_or_adoption_of_children
+  label: exchange or adoption of children
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a kinship practice but not enough narrative function
+    to place under existing mythic groups.
+  cautions: May fit sacred_exchange, miraculous_child, royal_legitimacy, or social
+    law depending on whether adoption establishes reciprocity, destiny, lineage, or
+    norm.
+  suggested_aliases:
+  - child_exchange_or_adoption
+  - adoption_as_child_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exchanged-children-and-contested-lineage
+  motif_id: exchanged_children_and_contested_lineage
+  label: Exchanged children and contested lineage
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Contested lineage after child exchange centers on hidden or disputed
+    identity and proof of kinship.
+  cautions: If the dispute is primarily about succession or sacred descent, royal_legitimacy
+    may be a secondary or better mapping.
+  suggested_aliases:
+  - child_exchange_and_lineage_dispute
+  - contested_lineage_after_exchanged_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.excluded-son-forming-a-rival-faction
+  motif_id: excluded_son_forming_a_rival_faction
+  label: excluded son forming a rival faction
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: An excluded son forming a rival faction concerns succession, inheritance,
+    and contested authority.
+  cautions: If the passage is only a historical or sectarian detail without mythic
+    legitimation, exclude or retain as contextual evidence.
+  suggested_aliases:
+  - excluded_son_forms_rival_faction
+  - disinherited_son_claims_rival_authority
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exclusion-of-males-and-male-children-from-a-women-s-society
+  motif_id: exclusion_of_males_and_male_children_from_a_women_s_society
+  label: Exclusion of males and male children from a women’s society
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label indicates gendered social boundary rules, but current groups
+    lack a clear social-organization motif for this pattern.
+  cautions: Culturally sensitive; may be sacred_law, initiation, threshold boundary,
+    or ethnographic social detail depending on source framing.
+  suggested_aliases:
+  - male_exclusion_from_womens_society
+  - women_s_society_excludes_males_and_boys
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exemplary-generosity-of-h-tim-t-y
+  motif_id: exemplary_generosity_of_h_tim_t_y
+  label: exemplary generosity of Hātim Tāyī
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: role_variant
+  confidence: medium
+  rationale: Exemplary generosity fits reciprocity, hospitality, and giving as sacred
+    or moral exchange.
+  cautions: The named figure makes the label over-specific; preserve the name as evidence,
+    not as a canonical motif.
+  suggested_aliases:
+  - exemplary_generosity
+  - hatim_tayi_as_exemplar_of_generosity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exogamous-category-regulating-marriage-but-not-sexual-access
+  motif_id: exogamous_category_regulating_marriage_but_not_sexual_access
+  label: exogamous category regulating marriage but not sexual access
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This reads as a culturally specific kinship rule rather than a clear
+    recurring narrative motif.
+  cautions: Culturally sensitive and possibly ethnographic; may belong under sacred_law
+    only if framed as sacred regulation rather than social description.
+  suggested_aliases:
+  - exogamous_category_regulates_marriage
+  - marriage_exogamy_without_sexual_access_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence kinship or social-organization
+  descriptions; human review should verify whether they are narrative motifs or ethnographic/contextual
+  artifacts.
+- Where labels name specific persons or local institutions, preserve that granularity
+  as evidence rather than promoting it to canonical taxonomy.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages needed for ambiguous kinship,
+    gender-boundary, and composite giant-child labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1829
+  input_sha256: ee0a9f517a697d4b4b06ede1a1b3ee6fd005f9058347f523836ddbfa1ab33703
+

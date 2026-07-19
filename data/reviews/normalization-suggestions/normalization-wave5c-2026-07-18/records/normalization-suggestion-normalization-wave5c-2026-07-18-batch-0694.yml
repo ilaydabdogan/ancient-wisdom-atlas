@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0694
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.carrying-a-bodily-remnant-to-a-sacred-building-before-transformation
+  motif_id: carrying_a_bodily_remnant_to_a_sacred_building_before_transformation
+  label: Carrying a bodily remnant to a sacred building before transformation
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: Bodily remnant followed by transformation suggests postmortem transformation,
+    but the sacred-building transport may be ritual or episode-specific.
+  cautions: Single occurrence and composite wording; confirm whether the sacred building
+    is symbolically central or merely a narrative location.
+  suggested_aliases:
+  - bodily_remnant_transformed_at_sacred_building
+  - remnant_carried_to_sanctuary_before_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalog-of-cosmic-or-sacred-waters
+  motif_id: catalog_of_cosmic_or_sacred_waters
+  label: Catalog of cosmic or sacred waters
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label directly concerns cosmic or sacred waters, fitting the sacred_waters
+    group.
+  cautions: The word catalog may indicate textual list-making rather than a narrative
+    motif; preserve as evidence detail if it is only enumerative.
+  suggested_aliases:
+  - catalogue_of_cosmic_or_sacred_waters
+  - enumeration_of_sacred_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-blessings-and-calamities
+  motif_id: catalogue_of_blessings_and_calamities
+  label: Catalogue of blessings and calamities
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: Blessings and calamities may express moral consequence or sacred order,
+    but the label gives no agent or narrative function.
+  cautions: Could be a didactic or textual catalogue rather than a motif; Confucian
+    context may frame it as ethical causality rather than divine judgment.
+  suggested_aliases:
+  - catalogue_of_blessings_and_disasters
+  - blessings_and_calamities_as_moral_consequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-created-sacred-lands
+  motif_id: catalogue_of_created_sacred_lands
+  label: Catalogue of created sacred lands
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Created sacred lands fit creation and sacred geography within cosmic_origin.
+  cautions: If the passage is only a geographical list, it may be a textual artifact
+    rather than a reusable motif; sacred geography may also relate to axis_mundi.
+  suggested_aliases:
+  - catalog_of_created_sacred_lands
+  - enumeration_of_created_sacred_lands
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-divine-names
+  motif_id: catalogue_of_divine_names
+  label: Catalogue of divine names
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Divine names function as sacred knowledge, especially when recited, transmitted,
+    or used ritually.
+  cautions: If merely an editorial list of names, exclude as textual artifact; if
+    names enable passage or protection, afterlife_passage or sacred_law may be secondary.
+  suggested_aliases:
+  - catalog_of_divine_names
+  - litany_of_divine_names
+  - enumeration_of_divine_names
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catalogue-of-named-rivers-in-a-sacred-geography
+  motif_id: catalogue_of_named_rivers_in_a_sacred_geography
+  label: catalogue of named rivers in a sacred geography
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Named sacred rivers are a concrete form of sacred waters within a sacred
+    geography.
+  cautions: The catalogue form may be textual or cosmographic rather than narrative;
+    consider axis_mundi or cosmic_origin only if the rivers organize creation or sacred
+    center imagery.
+  suggested_aliases:
+  - catalog_of_named_rivers_in_sacred_geography
+  - enumeration_of_sacred_rivers
+  - named_rivers_in_sacred_geography
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.catch-celebrated-through-corrected-ritualized-wording
+  motif_id: catch_celebrated_through_corrected_ritualized_wording
+  label: Catch celebrated through corrected ritualized wording
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: Corrected ritual wording suggests performative sacred speech, but the
+    catch context is unclear.
+  cautions: May be an ethnographic or passage-specific fishing/ritual detail; culturally
+    specific ritual language needs source review before broad indexing.
+  suggested_aliases:
+  - ritual_wording_for_successful_catch
+  - corrected_ritual_speech_celebrates_catch
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cautionary-vessel-taboo-linked-to-future-obstruction
+  motif_id: cautionary_vessel_taboo_linked_to_future_obstruction
+  label: cautionary vessel taboo linked to future obstruction
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: A taboo attached to a vessel fits the sacred_vessel complex, especially
+    if opening or handling affects future harm.
+  cautions: Could also be sacred_law if the taboo is the main point; avoid flattening
+    culturally specific vessel meanings without passage review.
+  suggested_aliases:
+  - vessel_taboo_with_future_obstruction
+  - tabooed_vessel_causes_obstruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-and-rock-adjacent-sacred-council-setting
+  motif_id: cave_and_rock_adjacent_sacred_council_setting
+  label: Cave and rock-adjacent sacred council setting
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a setting for a sacred council rather than
+    a recurring symbolic or narrative motif.
+  cautions: If the cave functions as a revelation, descent, or initiation site, remap
+    to descent or sacred_knowledge; otherwise preserve as passage setting detail only.
+  suggested_aliases:
+  - sacred_council_in_cave_and_rock_setting
+  - cave_rock_council_setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.celebrated-city-marked-by-temple-and-notable-birth
+  motif_id: celebrated_city_marked_by_temple_and_notable_birth
+  label: Celebrated city marked by temple and notable birth
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: uncertain
+  confidence: low
+  rationale: A city marked by temple and notable birth may function as sacred center
+    and birthplace, but the motif is composite.
+  cautions: Could be place-only detail, sacred birth, pilgrimage geography, or royal/prophetic
+    legitimation depending on the passage; single occurrence argues against canonical
+    promotion.
+  suggested_aliases:
+  - sacred_city_marked_by_temple_and_birth
+  - temple_city_with_notable_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch use catalogue/catalog wording; reviewers should distinguish
+  cosmological enumeration from textual-list artifacts.
+- Single-occurrence composite labels should generally remain evidence notes unless
+  source review shows recurring motif function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific ritual and
+    sacred-geography labels require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0694
+  input_sha256: 856049f621e628d7cc7adec49dfb8438b666b316f41f60f1dcb44f5d473cbf42
+

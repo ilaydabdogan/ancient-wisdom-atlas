@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2243
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rationalized-origin-of-an-animal-transformation-fable
+  motif_id: rationalized_origin_of_an_animal_transformation_fable
+  label: Rationalized origin of an animal-transformation fable
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes rationalization or fable classification more than
+    a source-level transformation motif.
+  cautions: If the passage actually narrates an animal transformation, preserve that
+    evidence under shapeshifter instead.
+  suggested_aliases:
+  - rationalized_animal_transformation_fable
+  - animal_transformation_fable_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.real-animal-used-as-proof-in-a-performance-contest
+  motif_id: real_animal_used_as_proof_in_a_performance_contest
+  label: real animal used as proof in a performance contest
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The animal may be a recognition token, proof object, contest device,
+    or episode-specific comic detail.
+  cautions: Single occurrence and the word 'real' may reflect commentary contrasting
+    illusion with performance; source context is needed.
+  suggested_aliases:
+  - animal_as_proof_in_contest
+  - animal_token_in_performance_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rebellion-false-reliance-and-punitive-campaign
+  motif_id: rebellion_false_reliance_and_punitive_campaign
+  label: Rebellion, false reliance, and punitive campaign
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A punitive campaign after rebellion can function as judgment or reckoning
+    against disorder.
+  cautions: May be historical-political summary rather than motif; if no sacred or
+    moral frame is present, exclude or review as contextual artifact.
+  suggested_aliases:
+  - rebellion_punished_by_campaign
+  - false_reliance_before_punitive_reckoning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rebellion-organized-through-embassies-and-foreign-alliance
+  motif_id: rebellion_organized_through_embassies_and_foreign_alliance
+  label: rebellion organized through embassies and foreign alliance
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads like a political episode summary, not a reusable symbolic
+    or narrative motif.
+  cautions: If the passage frames alliance-breaking as a sacred covenant violation,
+    covenant or divine_judgment may be relevant after review.
+  suggested_aliases:
+  - foreign_alliance_rebellion
+  - embassy_organized_rebellion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.receding-waters-fix-islands-and-strand-animals
+  motif_id: receding_waters_fix_islands_and_strand_animals
+  label: receding waters fix islands and strand animals
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Receding waters shaping islands is a landscape-formation or etiological
+    creation motif.
+  cautions: Do not map to flood_and_renewal unless the passage includes world destruction
+    and renewed order; stranded animals may be local etiological detail.
+  suggested_aliases:
+  - receding_waters_shape_islands
+  - waters_recede_and_form_landscape
+  - animals_stranded_by_receding_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-animal-alteration-after-displeasure
+  motif_id: reciprocal_animal_alteration_after_displeasure
+  label: reciprocal animal alteration after displeasure
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on alteration of animal form as a consequence of relational
+    displeasure.
+  cautions: If the passage mainly explains animal traits rather than transformation,
+    this may be an etiological animal-detail label needing narrower review.
+  suggested_aliases:
+  - animal_form_altered_after_displeasure
+  - reciprocal_animal_transformation_after_offense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-animal-decoration-with-unequal-outcome
+  motif_id: reciprocal_animal_decoration_with_unequal_outcome
+  label: reciprocal animal decoration with unequal outcome
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe origin of animal markings, reciprocal exchange,
+    trickster imbalance, or a local fable detail.
+  cautions: Single occurrence; avoid creating a group unless animal-marking etiologies
+    recur across sources.
+  suggested_aliases:
+  - reciprocal_animal_marking_with_unequal_result
+  - unequal_animal_decoration_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-animal-helpers-save-the-threatened-hero
+  motif_id: reciprocal_animal_helpers_save_the_threatened_hero
+  label: reciprocal animal helpers save the threatened hero
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Animal helpers are already included under divine_intervention as supernatural
+    guidance or rescue in human affairs.
+  cautions: If the animals are ordinary reciprocal allies rather than sacred agents,
+    sacred_exchange may be a useful secondary review path.
+  suggested_aliases:
+  - animal_helpers_rescue_threatened_hero
+  - reciprocal_rescue_by_animal_helpers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reciprocal-bargain-with-animal-helper
+  motif_id: reciprocal_bargain_with_animal_helper
+  label: reciprocal bargain with animal helper
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is reciprocal obligation or bargain with a helper figure.
+  cautions: If the helper is explicitly supernatural or guiding the hero, divine_intervention
+    may be an appropriate secondary mapping.
+  suggested_aliases:
+  - bargain_with_animal_helper
+  - reciprocal_exchange_with_animal_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.recognition-by-distinctive-animal-token
+  motif_id: recognition_by_distinctive_animal_token
+  label: recognition by distinctive animal token
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: high
+  rationale: A distinctive animal functions as a token proving identity, kinship,
+    or a prior encounter.
+  cautions: Preserve animal specificity as evidence detail; only map to animal-helper
+    motifs if the animal actively aids rather than identifies.
+  suggested_aliases:
+  - animal_token_recognition
+  - recognition_through_animal_token
+  - distinctive_animal_as_identity_proof
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items were bucketed under animals_trickster_transformation but functionally
+  fit political judgment, creation/landscape etiology, exchange, or recognition-token
+  groups.
+- Single-occurrence animal trait or fable-origin labels should remain provisional
+  until source evidence confirms recurring motif function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; human review recommended for ambiguous
+    single-occurrence and potentially passage-summary labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2243
+  input_sha256: 471791143c529d7026bcb489544fce206df161f24b384b7be42ccd07b09a2403
+

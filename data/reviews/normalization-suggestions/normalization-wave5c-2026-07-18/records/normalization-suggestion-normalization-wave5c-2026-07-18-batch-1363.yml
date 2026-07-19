@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1363
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.loss-of-vessel-and-provisions-in-dangerous-water
+  motif_id: loss_of_vessel_and_provisions_in_dangerous_water
+  label: loss of vessel and provisions in dangerous water
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a water-crossing ordeal, sea/river peril, or a
+    passage-specific travel detail, but function is unclear from wording alone.
+  cautions: Single occurrence and bucket mismatch; do not map to sacred_waters or
+    hero_journey without evidence of transformation, rescue, or threshold passage.
+  suggested_aliases:
+  - dangerous water loss of vessel and provisions
+  - shipwreck or vessel loss in perilous waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loss-or-fading-of-traditional-craft-knowledge
+  motif_id: loss_or_fading_of_traditional_craft_knowledge
+  label: loss or fading of traditional craft knowledge
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on craft knowledge as a traditional or sacred capacity
+    whose loss changes cultural continuity.
+  cautions: If the passage is commentary on cultural decline rather than a narrative
+    motif, preserve as evidence note or review for exclusion.
+  suggested_aliases:
+  - fading craft knowledge
+  - loss of ancestral craft knowledge
+  - decline of traditional craft knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-authoritative-sermon-or-teaching-text
+  motif_id: lost_authoritative_sermon_or_teaching_text
+  label: lost authoritative sermon or teaching text
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A lost authoritative teaching could belong with sacred knowledge, but
+    may instead be a textual transmission artifact.
+  cautions: Review whether the source narrates lost revelation or merely notes a missing
+    text, manuscript, sermon, or editorial reconstruction.
+  suggested_aliases:
+  - lost sacred teaching text
+  - lost authoritative teaching
+  - missing sermon text
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-intelligible-language-of-sounds-and-animals
+  motif_id: lost_intelligible_language_of_sounds_and_animals
+  label: Lost intelligible language of sounds and animals
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Lost Primordial Language and Animal Speech
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes a lost communicative capacity linking humans, sounds,
+    and animals; existing wisdom and storytelling groups do not preserve this language-loss
+    meaning well.
+  cautions: Could be sacred_knowledge if framed as wisdom, or world_ages_cosmic_decline
+    if framed as loss from a primordial age; verify passage evidence.
+  suggested_aliases:
+  - lost animal language
+  - lost intelligible speech of animals and sounds
+  - lost universal language
+  suggested_new_group:
+    id: lost_primordial_language_animal_speech
+    label: Lost Primordial Language and Animal Speech
+    description: A once-intelligible language shared with animals, natural sounds,
+      spirits, or creation is lost, forgotten, or no longer understood, marking a
+      decline from primordial communication or sacred knowledge.
+    parent_group_ids:
+    - sacred_knowledge
+    related_group_ids:
+    - storytelling_as_power
+    - world_ages_cosmic_decline
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover wisdom, narrative speech
+      power, and decline, but not the recurring structure of lost interspecies or
+      primordial intelligibility.
+- suggestion_id: normalization.suggestion.lost-ornament-recovered-through-magic
+  motif_id: lost_ornament_recovered_through_magic
+  label: Lost ornament recovered through magic
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A personal ornament recovered by magical means fits the broader power-object
+    and recovered treasure complex.
+  cautions: If the ornament is merely ordinary property in an anecdote, it may be
+    over-specific; if recovery proves identity, also consider recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - magical recovery of lost ornament
+  - lost ornament restored by magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-personal-ornament-recovered-exactly-rather-than-replaced
+  motif_id: lost_personal_ornament_recovered_exactly_rather_than_replaced
+  label: Lost personal ornament recovered exactly rather than replaced
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The exact recovery of a valued personal ornament is a narrow treasure/power-object
+    recovery detail.
+  cautions: Likely episode-specific; if exact recovery functions as proof of identity
+    or truth, consider recognition_tokens_hidden_identity as secondary.
+  suggested_aliases:
+  - exact recovery of lost ornament
+  - lost personal ornament restored exactly
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lost-primordial-animal-speech
+  motif_id: lost_primordial_animal_speech
+  label: Lost primordial animal speech
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Lost Primordial Language and Animal Speech
+  relationship: narrower_than
+  confidence: medium
+  rationale: This closely matches a lost primordial capacity to communicate with animals,
+    a pattern not cleanly represented by existing groups.
+  cautions: May instead be an origin/decline myth, a wisdom motif, or an animal-fable
+    detail depending on source context.
+  suggested_aliases:
+  - lost animal speech
+  - lost primordial communication with animals
+  - loss of animal language
+  suggested_new_group:
+    id: lost_primordial_language_animal_speech
+    label: Lost Primordial Language and Animal Speech
+    description: A once-intelligible language shared with animals, natural sounds,
+      spirits, or creation is lost, forgotten, or no longer understood, marking a
+      decline from primordial communication or sacred knowledge.
+    parent_group_ids:
+    - sacred_knowledge
+    related_group_ids:
+    - storytelling_as_power
+    - world_ages_cosmic_decline
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups cover wisdom and cosmic decline
+      but do not preserve the specific loss of interspecies or primordial speech.
+- suggestion_id: normalization.suggestion.lost-wife-bound-in-the-west-by-a-song
+  motif_id: lost_wife_bound_in_the_west_by_a_song
+  label: lost wife bound in the West by a song
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines lost spouse, directional otherworld imagery, and binding
+    song; the dominant function is unclear.
+  cautions: Could fit stolen_beloved, sacred_love, enchanting_music, otherworld, or
+    performative speech depending on passage evidence; culturally specific details
+    should be preserved.
+  suggested_aliases:
+  - lost wife bound by song
+  - beloved bound in the west by song
+  - song binding the lost wife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lot-casting-for-order-of-legal-speech
+  motif_id: lot_casting_for_order_of_legal_speech
+  label: lot-casting for order of legal speech
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Lot-casting is an established divinatory or procedural sacred method,
+    here applied to legal speaking order.
+  cautions: If the emphasis is legal order rather than divination, sacred_law or covenant
+    may be better; single occurrence may be a procedural detail.
+  suggested_aliases:
+  - lot casting for legal speech order
+  - lots determine speaking order
+  - legal speech ordered by lot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.love-as-a-teaching-topic
+  motif_id: love_as_a_teaching_topic
+  label: love as a teaching topic
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: over_specific_label
+  confidence: medium
+  rationale: In a Sufi context, love as a teaching topic likely belongs to sacred
+    love and divine longing discourse.
+  cautions: The label may describe discourse organization rather than a motif; if
+    the passage centers on instruction itself, sacred_knowledge may be a secondary
+    mapping.
+  suggested_aliases:
+  - teaching on love
+  - love as sacred instruction
+  - love doctrine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items have only one occurrence and may be episode-specific or commentary
+  artifacts; human review should check passage evidence before permanent mapping.
+- Two animal-speech loss labels support the same possible new group candidate, but
+  this should be promoted only if additional cross-source recurrence is confirmed.
+- The review bucket is wisdom/revelation for all items, but several labels are better
+  explained by craft, treasure, law, love, or water-peril functions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1363
+  input_sha256: a02a1ddb158399b55ce7046b1a6c1434a0923c088f3d27e3668df3d9fb45ffe8
+

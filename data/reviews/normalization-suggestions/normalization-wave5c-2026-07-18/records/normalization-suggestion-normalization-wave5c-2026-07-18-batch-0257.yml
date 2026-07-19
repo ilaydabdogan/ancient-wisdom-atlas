@@ -1,0 +1,303 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0257
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.masked-personation-of-illness-spirit-in-a-cure
+  motif_id: masked_personation_of_illness_spirit_in_a_cure
+  label: Masked personation of illness spirit in a cure
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests a ritual healing or apotropaic practice involving
+    spirit impersonation, which is closest to ritual protection and spirit-affliction
+    handling under sacred_law.
+  cautions: Culturally sensitive ceremonial masking should not be flattened without
+    source review; could instead fit divine_intervention, sacrifice/ritual_expulsion,
+    or be too specific for pattern queries.
+  suggested_aliases:
+  - masked_personation_of_illness_spirit
+  - ritual_impersonation_of_illness_spirit
+  - masked_healing_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.masked-personation-of-spirit-or-created-beings
+  motif_id: masked_personation_of_spirit_or_created_beings
+  label: masked personation of spirit or created beings
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe ritual embodiment of spirits, but it is unclear
+    whether this is a narrative motif, ceremonial role, or ethnographic description.
+  cautions: Culturally sensitive masked personation needs human review; avoid mapping
+    to shapeshifter or theophany unless the passage shows actual transformation or
+    divine manifestation.
+  suggested_aliases:
+  - masked_spirit_personation
+  - ritual_personation_of_spirits
+  - masked_personation_of_created_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.masked-personation-with-spiritual-presence
+  motif_id: masked_personation_with_spiritual_presence
+  label: masked personation with spiritual presence
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: low
+  rationale: If the mask mediates actual spiritual presence, the closest broad group
+    is divine manifestation or sacred presence.
+  cautions: Needs source evidence to distinguish ritual presence from symbolic representation,
+    performance, or cultural ceremony; sensitive traditions require careful review.
+  suggested_aliases:
+  - masked_spiritual_presence
+  - spiritual_presence_in_masked_personation
+  - ritual_mask_as_spiritual_presence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mass-death-marked-by-carrion-birds-entering-houses
+  motif_id: mass_death_marked_by_carrion_birds_entering_houses
+  label: mass death marked by carrion birds entering houses
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Carrion birds entering houses mark catastrophic death and disorder, often
+    functioning as an omen or sign of judgment or calamity.
+  cautions: If the passage only describes aftermath imagery, it may be an evidence
+    detail rather than a stable motif; prophecy_divination or death_by_fate may be
+    secondary if framed as omen.
+  suggested_aliases:
+  - carrion_birds_mark_mass_death
+  - death_omen_of_carrion_birds_entering_houses
+  - vultures_enter_houses_after_mass_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.matched-young-warriors-denied-return-and-direct-encounter
+  motif_id: matched_young_warriors_denied_return_and_direct_encounter
+  label: matched young warriors denied return and direct encounter
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label is highly contextual and does not clearly state a reusable
+    death, combat, or encounter motif without passage evidence.
+  cautions: Could belong to sacred_combat, death_by_fate, or lament_and_mourning if
+    the source shows fated combat or denied homecoming; otherwise preserve as episode
+    detail only.
+  suggested_aliases:
+  - young_warriors_denied_return
+  - matched_warriors_denied_direct_encounter
+  - denied_return_of_young_warriors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.material-object-as-temporary-soul-vessel
+  motif_id: material_object_as_temporary_soul_vessel
+  label: Material object as temporary soul vessel
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: A soul temporarily housed in an object directly fits the external-soul/life-token
+    complex where vital force is separable and object-bound.
+  cautions: If the emphasis is a container object rather than life-dependency, sacred_vessel
+    may be a secondary mapping; comparative-only wording may need source verification.
+  suggested_aliases:
+  - object_as_temporary_soul_vessel
+  - temporary_soul_vessel
+  - soul_temporarily_housed_in_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-death-in-childbirth-and-contested-naming
+  motif_id: maternal_death_in_childbirth_and_contested_naming
+  label: Maternal death in childbirth and contested naming
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label combines birth, maternal death, and naming dispute; it may
+    matter for sacred birth or destiny if the naming marks the child.
+  cautions: Could be a passage-specific biographical detail rather than a motif; do
+    not map to death_and_transformation unless maternal death itself has transformative
+    function.
+  suggested_aliases:
+  - death_in_childbirth_and_contested_naming
+  - contested_child_naming_after_maternal_death
+  - maternal_death_at_birth_with_naming_dispute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-gift-of-ancestral-victory-sword
+  motif_id: maternal_gift_of_ancestral_victory_sword
+  label: maternal gift of ancestral victory sword
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: An ancestral victory sword given to a hero is a power object that confers
+    martial authority or capability.
+  cautions: Maternal giver and ancestry may support royal_legitimacy or recognition/lineage
+    readings; if the sword primarily drives combat, divine_warrior or sacred_combat
+    may be secondary.
+  suggested_aliases:
+  - ancestral_victory_sword
+  - maternal_gift_of_ancestral_sword
+  - inherited_victory_sword
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-land-reverts-to-natal-people-at-death
+  motif_id: maternal_land_reverts_to_natal_people_at_death
+  label: Maternal land reverts to natal people at death
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label appears to describe inheritance or land-tenure rule triggered
+    by death, closest to sacred law and social order if ritually or mythically grounded.
+  cautions: May be an ethnographic/legal custom rather than a mythic motif; review
+    for cultural specificity and avoid broad pattern use without narrative evidence.
+  suggested_aliases:
+  - death_triggered_land_reversion
+  - maternal_land_inheritance_reversion
+  - land_reverts_to_maternal_kin_at_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.maternal-lower-world-reception-of-the-dead
+  motif_id: maternal_lower_world_reception_of_the_dead
+  label: maternal lower-world reception of the dead
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: functional_variant
+  confidence: medium
+  rationale: Reception of the dead in a lower world belongs to afterlife passage and
+    postmortem destination imagery, with maternal reception as the local form.
+  cautions: Could also relate to mother_goddess if a divine maternal figure is central,
+    or descent if framed as a journey by a living figure; culturally specific lower-world
+    concepts need review.
+  suggested_aliases:
+  - lower_world_reception_of_the_dead
+  - maternal_reception_of_dead_souls
+  - dead_received_by_maternal_lower_world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Native American Southwest labels involving masked personation are culturally
+  sensitive and should receive human review before normalization or query inclusion.
+- Single-occurrence, highly contextual labels should generally be preserved as evidence
+  notes unless recurrence or clear narrative function is confirmed.
+- Suggested placements are broad query candidates only and do not imply historical
+  transmission or shared origin.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0257
+  input_sha256: 8329ee0b852c46a80e2f9b5f5e01a5655a38e6fc2891c3b407aa3ab7c4597bb1
+

@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2443
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.lost-pilot-drowned-at-sea
+  motif_id: lost_pilot_drowned_at_sea
+  label: lost pilot drowned at sea
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a single death-at-sea episode or plot detail rather
+    than a recurring motif with symbolic function.
+  cautions: If the passage centers on sea peril, failed guidance, or divine maritime
+    judgment, it may need remapping to sacred_waters, divine_judgment, or divine_intervention
+    after source review.
+  suggested_aliases:
+  - drowning_at_sea
+  - failed_pilot_drowned_at_sea
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lotus-unstained-by-surrounding-water
+  motif_id: lotus_unstained_by_surrounding_water
+  label: Lotus unstained by surrounding water
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: 'The unstained lotus is an ethical-purity image: remaining undefiled
+    amid surrounding conditions fits purity and moral discipline better than a water-crossing
+    motif.'
+  cautions: May fit sacred_knowledge or mystical_quest if the passage emphasizes awakened
+    insight or contemplative detachment rather than ethical purity; preserve lotus
+    imagery.
+  suggested_aliases:
+  - unstained_lotus
+  - lotus_purity_amid_water
+  - purity_unstained_by_surroundings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lowering-water-to-expose-or-reach-aquatic-dwelling
+  motif_id: lowering_water_to_expose_or_reach_aquatic_dwelling
+  label: lowering water to expose or reach aquatic dwelling
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Manipulating water to reveal or access a hidden aquatic dwelling belongs
+    to water as boundary and medium of passage.
+  cautions: If the dwelling is an enchanted realm, otherworld may be a secondary fit;
+    if water division creates cosmic order, cosmic_origin may be relevant.
+  suggested_aliases:
+  - water_lowered_to_reveal_hidden_dwelling
+  - water_recedes_to_expose_aquatic_home
+  - access_to_underwater_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.loyal-companion-refuses-flight
+  motif_id: loyal_companion_refuses_flight
+  label: loyal companion refuses flight
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: role_variant
+  confidence: low
+  rationale: Refusing flight is usually a heroic loyalty or battlefield-honor motif,
+    best parked under combat and warrior duty if the scene is martial.
+  cautions: Bucket assignment appears off. If not combat-related, this may belong
+    under covenant, sacred_law, or be excluded as a contextual loyalty detail.
+  suggested_aliases:
+  - companion_refuses_to_flee
+  - loyal_retainer_stays_with_hero
+  - steadfast_companion_in_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.luminous-enclosed-world-with-altered-time
+  motif_id: luminous_enclosed_world_with_altered_time
+  label: luminous enclosed world with altered time
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: high
+  rationale: An enclosed luminous realm with altered time fits the otherworld pattern
+    of a hidden or parallel realm distinct from ordinary time.
+  cautions: If the passage is specifically a preserved refuge through catastrophe,
+    flood_and_renewal or sacred_vessel may be relevant secondary mappings.
+  suggested_aliases:
+  - luminous_enclosed_otherworld
+  - altered_time_hidden_realm
+  - enclosed_world_outside_ordinary_time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.luminous-otherworldly-woman-in-a-human-house
+  motif_id: luminous_otherworldly_woman_in_a_human_house
+  label: Luminous otherworldly woman in a human house
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on an otherworldly being crossing into a human domestic
+    space, fitting otherworld-human contact.
+  cautions: If she functions as bride, beloved, goddess, or revealer, sacred_love,
+    mother_goddess, theophany, or divine_intervention may be better after evidence
+    review.
+  suggested_aliases:
+  - otherworldly_woman_visits_human_house
+  - luminous_female_visitor_from_otherworld
+  - supernatural_woman_in_human_dwelling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lust-as-fire-revealing-the-blackness-of-deeds
+  motif_id: lust_as_fire_revealing_the_blackness_of_deeds
+  label: Lust as fire revealing the blackness of deeds
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A Sufi moral metaphor of lust as revealing inner corruption fits the
+    interior path of discipline and self-knowledge more than elemental fire itself.
+  cautions: Could also map to sacred_fire if the passage emphasizes purifying fire,
+    or divine_judgment if it centers on moral exposure and reckoning.
+  suggested_aliases:
+  - lust_as_revealing_fire
+  - fire_of_lust_exposes_deeds
+  - passion_reveals_inner_blackness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lustral-water-used-for-commerce-and-goods
+  motif_id: lustral_water_used_for_commerce_and_goods
+  label: lustral water used for commerce and goods
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Lustral water is ritually purifying water; use in commerce or goods is
+    a specific application of sacred-water purification.
+  cautions: May also belong under sacred_law if framed as ritual regulation of trade;
+    commerce detail may be over-specific unless recurrent.
+  suggested_aliases:
+  - lustral_water_for_goods
+  - purifying_water_for_commerce
+  - ritual_water_applied_to_trade_goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-boundary-opens-the-earth-against-enemies
+  motif_id: magic_boundary_opens_the_earth_against_enemies
+  label: Magic boundary opens the earth against enemies
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: low
+  rationale: A magical boundary that activates against enemies functions as a dangerous
+    threshold or protective limit.
+  cautions: Could instead be divine_judgment, sacred_combat, or sacred_law/apotropaic
+    protection depending on whether the emphasis is punishment, battle, or ritual
+    boundary control.
+  suggested_aliases:
+  - protective_boundary_opens_earth
+  - earth_opens_at_magic_boundary
+  - boundary_trap_against_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.magic-canoe-flight-to-the-sunset-boundary
+  motif_id: magic_canoe_flight_to_the_sunset_boundary
+  label: Magic canoe flight to the sunset boundary
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A magical canoe journey toward the sunset boundary reads as a liminal
+    journey or departure toward the edge of the known world.
+  cautions: If the sunset boundary is an afterlife or enchanted realm, otherworld,
+    descent, or sacred_waters may be better secondary mappings; canoe detail should
+    remain evidence-level.
+  suggested_aliases:
+  - magical_canoe_to_world_boundary
+  - canoe_flight_to_sunset
+  - journey_to_sunset_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are assigned to the nature/elements bucket but appear
+  to involve combat, interior ethics, otherworld contact, or ritual purity; source
+  review should confirm function before final mapping.
+- Single-occurrence, highly specific labels should generally remain granular evidence
+  under an existing group rather than become taxonomy families.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no transmission or origin claims implied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2443
+  input_sha256: 58de32acf9d0f8ac4f1f945729b0efb27815eb4ba90734c24e29b9abde2826f5
+

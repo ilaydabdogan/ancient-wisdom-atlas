@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1759
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.awakening-of-love-with-brightening-season
+  motif_id: awakening_of_love_with_brightening_season
+  label: awakening of love with brightening season
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Love arising with seasonal brightening fits love as longing and renewal
+    imagery.
+  cautions: Could instead be seasonal_cycle if the passage emphasizes calendar or
+    agricultural recurrence more than love.
+  suggested_aliases:
+  - love awakening with spring
+  - seasonal awakening of love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bark-basket-for-seasonal-berry-gathering
+  motif_id: bark_basket_for_seasonal_berry_gathering
+  label: bark basket for seasonal berry gathering
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a material-culture or subsistence detail rather than
+    a recurrent symbolic motif.
+  cautions: If source evidence shows ritual seasonality, offering, or sacred craft,
+    review under sacred_time, sacred_exchange, or sacred_craft.
+  suggested_aliases:
+  - seasonal berry-gathering basket
+  - bark basket
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.barred-entry-into-a-desired-place
+  motif_id: barred_entry_into_a_desired_place
+  label: Barred entry into a desired place
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: low
+  rationale: Denied access to a desired place may function as a threshold or boundary
+    ordeal.
+  cautions: No guardian or sacred threshold is specified; could be social rejection,
+    exile, courtship obstacle, or passage-specific plot detail.
+  suggested_aliases:
+  - denied entry to desired place
+  - barred access to desired place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.barren-wife-and-marital-rejection
+  motif_id: barren_wife_and_marital_rejection
+  label: barren wife and marital rejection
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns infertility and marital status, but no existing group
+    cleanly covers family rejection without sacred birth or miraculous child evidence.
+  cautions: Culturally sensitive and potentially social-contextual; avoid mapping
+    to miraculous_child unless the passage turns infertility into extraordinary birth
+    or destiny.
+  suggested_aliases:
+  - infertility and marital rejection
+  - barren spouse rejected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-spoils-transferred-to-parents
+  motif_id: battle_spoils_transferred_to_parents
+  label: Battle spoils transferred to parents
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transfer of spoils to parents frames martial gain as kinship reciprocity
+    or duty.
+  cautions: If the focus is battle honor rather than filial exchange, sacred_combat
+    or divine_warrior may be better secondary placement.
+  suggested_aliases:
+  - war spoils given to parents
+  - filial transfer of battle spoils
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bear-imitation-proposed-to-loveless-woman
+  motif_id: bear_imitation_proposed_to_loveless_woman
+  label: Bear imitation proposed to loveless woman
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal imitation, courtship or lovelessness, and possibly
+    ritual performance without enough context.
+  cautions: Could fit shapeshifter, sacred_love, trickster, or a culturally specific
+    ceremonial motif; source evidence is needed.
+  suggested_aliases:
+  - bear imitation in courtship
+  - bear impersonation offered to loveless woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bear-impersonation-in-ceremonial-dance
+  motif_id: bear_impersonation_in_ceremonial_dance
+  label: bear impersonation in ceremonial dance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ceremonial animal impersonation may be ritual transformation, but the
+    function is not clear from the label alone.
+  cautions: Culturally sensitive ritual evidence; avoid flattening into shapeshifter
+    unless transformation or animal-identity crossing is central.
+  suggested_aliases:
+  - ceremonial bear impersonation
+  - bear dance impersonation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beauty-accompanied-by-foreseen-harm
+  motif_id: beauty_accompanied_by_foreseen_harm
+  label: Beauty accompanied by foreseen harm
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: beauty_and_paradox
+  suggested_group_label: Beauty Paired with Pain and Paradox
+  relationship: symbolic_variant
+  confidence: high
+  rationale: The label directly matches the beauty-with-danger or sweetness-with-harm
+    complex.
+  cautions: If foreknowledge is central, prophecy_divination or death_by_fate may
+    be relevant as secondary context.
+  suggested_aliases:
+  - beauty with predicted harm
+  - beautiful danger foreseen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beauty-as-decisive-temptation
+  motif_id: beauty_as_decisive_temptation
+  label: Beauty as decisive temptation
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In Sufi context, beauty often functions as the force that awakens longing,
+    trial, or devotion.
+  cautions: If beauty is framed mainly as moral danger rather than sacred longing,
+    divine_judgment or pride_and_downfall may be relevant.
+  suggested_aliases:
+  - beauty as temptation
+  - temptation through beauty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beauty-as-garden-and-life-water
+  motif_id: beauty_as_garden_and_life_water
+  label: beauty as garden and life-water
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label uses garden and life-water imagery for beloved beauty, fitting
+    sacred love and longing.
+  cautions: Could also index sacred_waters or otherworld if the passage emphasizes
+    life-giving water or paradisal garden imagery rather than love.
+  suggested_aliases:
+  - beloved beauty as garden
+  - beauty as life-giving water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and context-dependent; placements
+  should remain provisional until source passages are checked.
+- Native American ceremonial or subsistence labels should receive human review before
+  broad symbolic normalization, especially where ritual function is unclear.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1759
+  input_sha256: b539c6ec9f2a3736bdc257b3c4983c76e8d7cfbbe02e3b749d0ab9606616f7ff
+

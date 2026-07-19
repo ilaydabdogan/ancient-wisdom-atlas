@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1616
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.marked-woman-retaining-social-status
+  motif_id: marked_woman_retaining_social_status
+  label: Marked woman retaining social status
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern status, stigma, bodily marking, marriage, or social
+    rank, but the function is unclear from wording alone.
+  cautions: Single occurrence; culturally specific marking and gender/status context
+    need source review before mapping to sacred_law, royal_legitimacy, or recognition
+    tokens.
+  suggested_aliases:
+  - marked_person_retaining_status
+  - body_mark_and_social_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marking-communal-property-after-removal-or-theft
+  motif_id: marking_communal_property_after_removal_or_theft
+  label: marking communal property after removal or theft
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Marking communal property after improper removal or theft functions as
+    social-ethical regulation of property and communal order.
+  cautions: May be a monastic/legal passage detail rather than a recurring mythic
+    motif; preserve theft/removal context as evidence.
+  suggested_aliases:
+  - marking_communal_property_after_theft
+  - property_marking_after_wrongful_removal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marking-of-arrows
+  motif_id: marking_of_arrows
+  label: marking of arrows
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Marked arrows may indicate ownership, recognition, hunting practice,
+    proof, or ritual use; the motif function is not recoverable from the label alone.
+  cautions: Could be practical ethnographic detail or object-specific evidence; review
+    before mapping to recognition_tokens_hidden_identity, sacred_combat, or sacred_law.
+  suggested_aliases:
+  - marked_arrows
+  - arrow_marking_for_identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marking-property-for-recognition
+  motif_id: marking_property_for_recognition
+  label: Marking property for recognition
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key function is a mark that enables later recognition or proof of
+    identity/ownership.
+  cautions: If the passage is mainly a legal rule about property, sacred_law may be
+    a better secondary mapping; single occurrence may be procedural detail.
+  suggested_aliases:
+  - property_mark_as_recognition_token
+  - marked_property_for_identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-eligibility-through-plantation-making-and-hunting-success
+  motif_id: marriage_eligibility_through_plantation_making_and_hunting_success
+  label: marriage eligibility through plantation-making and hunting success
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label concerns marriage qualification through demonstrated productive
+    and hunting capacity, fitting marriage-selection and bride-eligibility patterns
+    under sacred_love.
+  cautions: May also be social law or initiation depending on passage evidence; avoid
+    reducing local subsistence norms to generic courtship.
+  suggested_aliases:
+  - marriage_eligibility_by_hunting_and_cultivation
+  - bridegroom_qualification_by_productive_success
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-linking-heroic-lineages-or-cycles
+  motif_id: marriage_linking_heroic_lineages_or_cycles
+  label: Marriage linking heroic lineages or cycles
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage joining heroic lineages functions to authorize lineage, succession,
+    or narrative-political continuity.
+  cautions: If the passage emphasizes romance or bride choice, sacred_love may be
+    secondary; if it is only a literary cycle-linking note, consider meta/textual
+    review.
+  suggested_aliases:
+  - marriage_alliance_between_heroic_lineages
+  - dynastic_marriage_links_heroic_cycles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marriage-prohibition-within-a-social-or-kin-group
+  motif_id: marriage_prohibition_within_a_social_or_kin_group
+  label: Marriage prohibition within a social or kin group
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rule forbidding marriage within a group is a kinship and social-order
+    prohibition, fitting sacred_law.
+  cautions: Needs cultural context; may be exogamy, incest taboo, clan law, or ethnographic
+    description rather than narrative motif.
+  suggested_aliases:
+  - kin_group_marriage_taboo
+  - marriage_prohibition_within_kin_group
+  - exogamy_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.martial-honor-of-the-homeland-maintained
+  motif_id: martial_honor_of_the_homeland_maintained
+  label: martial honor of the homeland maintained
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: role_variant
+  confidence: medium
+  rationale: The label centers on warrior honor and defense of homeland reputation,
+    aligning with heroic martial duty and sacred combat values.
+  cautions: May be an ethical or patriotic theme rather than a discrete motif; sacred_combat
+    could be secondary if a battle scene drives it.
+  suggested_aliases:
+  - homeland_honor_maintained_by_warrior
+  - martial_honor_defends_homeland
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvel-working-musical-instrument-and-failed-appropriation
+  motif_id: marvel_working_musical_instrument_and_failed_appropriation
+  label: Marvel-working musical instrument and failed appropriation
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: high
+  rationale: A wonder-working musical instrument belongs with music or sound as supernatural
+    power; failed appropriation is a plot variant.
+  cautions: Could also relate to sacred_treasures if the instrument's object-status
+    is primary; preserve failed theft/appropriation detail.
+  suggested_aliases:
+  - wonder_working_musical_instrument
+  - magical_musical_instrument_resists_appropriation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.marvellous-palace-with-perilous-looking-transparent-floor
+  motif_id: marvellous_palace_with_perilous_looking_transparent_floor
+  label: marvellous palace with perilous-looking transparent floor
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A marvelous palace with uncanny transparent flooring suggests an enchanted
+    or otherworldly realm and a perception-based threshold test.
+  cautions: Highly specific scene detail; if it functions as royal display rather
+    than enchanted realm, royal_legitimacy or sacred_treasures may be less misleading.
+  suggested_aliases:
+  - transparent_floor_in_marvelous_palace
+  - perilous_illusory_floor_in_enchanted_palace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and may be ethnographic/legal details rather
+  than durable mythic motifs; suggested mappings are provisional.
+- Marriage and marking labels especially require source context to distinguish social
+  law, recognition proof, initiation, and literary artifact functions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1616
+  input_sha256: 1d6d814d75ea892cb6d6ff4fb04bc34e34cbd57ac9840c55efbdbbd437c5acfb
+

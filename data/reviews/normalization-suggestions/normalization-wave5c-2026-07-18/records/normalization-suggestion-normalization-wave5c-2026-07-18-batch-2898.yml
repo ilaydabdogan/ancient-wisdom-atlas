@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2898
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cattle-mediated-household-succession
+  motif_id: cattle_mediated_household_succession
+  label: cattle-mediated household succession
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: Succession suggests transfer of household authority, but cattle may indicate
+    exchange, inheritance, bridewealth, or lineage property rather than kingship.
+  cautions: Single Zulu occurrence; culturally specific cattle and household succession
+    practices need source review before broad mapping.
+  suggested_aliases:
+  - cattle_mediated_succession
+  - livestock_mediated_household_inheritance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.causal-chain-of-existence-and-suffering
+  motif_id: causal_chain_of_existence_and_suffering
+  label: Causal chain of existence and suffering
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label points to doctrinal insight into causation and suffering, fitting
+    sacred or transformative knowledge.
+  cautions: May be Buddhist doctrinal/philosophical classification rather than narrative
+    motif; consider excluding if it is only a commentary tag.
+  suggested_aliases:
+  - dependent_origination_as_suffering_chain
+  - causal_chain_of_suffering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-as-confined-field-of-perception
+  motif_id: cave_as_confined_field_of_perception
+  label: cave as confined field of perception
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A cave limiting perception functions as an epistemic image about hidden
+    reality and transformative knowledge.
+  cautions: Likely philosophical allegory; if the passage emphasizes cave as liminal
+    descent space, descent may be a secondary mapping.
+  suggested_aliases:
+  - cave_of_limited_perception
+  - confined_perception_in_cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-as-former-abode-of-a-deity
+  motif_id: cave_as_former_abode_of_a_deity
+  label: Cave as former abode of a deity
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: uncertain
+  confidence: low
+  rationale: A deity-associated cave may mark sacred presence, but the label only
+    states former residence, not manifestation or ritual function.
+  cautions: Could be sacred geography, origin memory, local cult site, or place-name
+    detail; needs passage evidence.
+  suggested_aliases:
+  - deity_abode_cave
+  - cave_dwelling_of_deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-as-titled-place
+  motif_id: cave_as_titled_place
+  label: cave as titled place
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording appears to describe a passage title or named location rather
+    than a symbolic motif.
+  cautions: If the source evidence describes cave refuge, revelation, or ordeal, remap
+    to descent, theophany, or sacred_knowledge instead.
+  suggested_aliases:
+  - titled_cave_place
+  - named_cave_title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-associated-ancient-exemplars
+  motif_id: cave_associated_ancient_exemplars
+  label: Cave-associated ancient exemplars
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: uncertain
+  confidence: low
+  rationale: In Sufi context, cave-linked exemplars may support spiritual withdrawal
+    or instruction, but the function is unclear.
+  cautions: Could refer to Qur'anic/saintly exemplars, retreat, memory, or commentary;
+    avoid mapping without source context.
+  suggested_aliases:
+  - ancient_exemplars_of_the_cave
+  - cave_linked_spiritual_exemplars
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-associated-tale
+  motif_id: cave_associated_tale
+  label: cave-associated tale
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label identifies a tale by association with a cave, not a reusable
+    narrative function.
+  cautions: If the cave performs as refuge, underworld entrance, treasure site, or
+    spirit dwelling, create a more specific evidence label.
+  suggested_aliases:
+  - cave_tale
+  - tale_associated_with_cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-associated-with-hidden-treasure
+  motif_id: cave_associated_with_hidden_treasure
+  label: Cave associated with hidden treasure
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: high
+  rationale: Existing normalization already treats treasure hidden in a cave as a
+    sacred-treasure variant.
+  cautions: If treasure is ordinary wealth without power, secrecy, danger, or sacred
+    value, it may be only a setting detail.
+  suggested_aliases:
+  - treasure_hidden_in_cave
+  - treasure_cave
+  - hidden_cave_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-cemetery
+  motif_id: cave_cemetery
+  label: Cave cemetery
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: uncertain
+  confidence: low
+  rationale: A cave cemetery may involve mortuary or ancestor practice, but the label
+    only names a burial place.
+  cautions: Could be a place-only detail; map only if ritual care, ancestor relation,
+    or afterlife passage is evidenced.
+  suggested_aliases:
+  - burial_cave
+  - cave_burial_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cave-centered-episode
+  motif_id: cave_centered_episode
+  label: Cave-centered episode
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes episode setting rather than a stable motif or function.
+  cautions: Review source for a narrower cave function such as descent, refuge, initiation,
+    treasure, or otherworld threshold before exclusion is finalized.
+  suggested_aliases:
+  - cave_episode
+  - episode_centered_on_cave
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several cave labels are setting-only or overly generic; preserve specific cave functions
+  only when passage evidence supports descent, refuge, revelation, burial, treasure,
+  or deity presence.
+- Single-occurrence culturally specific labels should remain provisional and receive
+  human review before becoming query facets.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2898
+  input_sha256: 28970ed1f9b1e227973d41ccb5b1d1b77fab2053c37f5d64d82dafecb8ad3ed6
+

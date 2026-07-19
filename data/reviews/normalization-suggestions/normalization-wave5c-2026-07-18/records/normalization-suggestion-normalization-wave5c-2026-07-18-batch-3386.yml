@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3386
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.environmental-catastrophe-causing-famine
+  motif_id: environmental_catastrophe_causing_famine
+  label: Environmental catastrophe causing famine
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: uncertain
+  confidence: low
+  rationale: Environmental catastrophe and famine may fit catastrophe motifs, but
+    the label does not show world destruction, divine judgment, or renewal.
+  cautions: Single occurrence; could be local environmental setting, famine ordeal,
+    divine punishment, or narrative context rather than a reusable motif.
+  suggested_aliases:
+  - catastrophe_causing_famine
+  - famine_after_environmental_disaster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envoy-confronting-a-negligent-ally
+  motif_id: envoy_confronting_a_negligent_ally
+  label: envoy confronting a negligent ally
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The envoy challenges a failed obligation within an alliance, fitting
+    broken or neglected sacred/social bonds.
+  cautions: If the scene is only diplomatic plot mechanics without sacred obligation,
+    it may be too contextual for motif queries.
+  suggested_aliases:
+  - messenger_confronts_negligent_ally
+  - envoy_rebukes_failed_ally
+  - ally_called_to_honor_obligation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envy-as-punitive-possession
+  motif_id: envy_as_punitive_possession
+  label: Envy as punitive possession
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: narrower_than
+  confidence: high
+  rationale: The existing group already includes envy as harmful or possessing force
+    leading to obstruction and downfall.
+  cautions: If possession is literal daemonic affliction rather than moralized envy,
+    consider secondary review under divine_judgment or sacred_law spirit-contagion
+    patterns.
+  suggested_aliases:
+  - envy_as_possession
+  - punitive_possession_by_envy
+  - envy_as_harmful_possessing_force
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envy-dispelled-by-seeing-hidden-cost
+  motif_id: envy_dispelled_by_seeing_hidden_cost
+  label: envy dispelled by seeing hidden cost
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif turns envy into moral correction by revealing the cost behind
+    admired status or goods, fitting envy/downfall instruction.
+  cautions: May be an ethical exemplum rather than a mythic motif; source evidence
+    should confirm a recurring narrative pattern.
+  suggested_aliases:
+  - envy_cured_by_hidden_cost
+  - envy_corrected_by_revealed_cost
+  - envy_dispelled_by_full_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envy-driven-imitation-ends-in-humiliation
+  motif_id: envy_driven_imitation_ends_in_humiliation
+  label: envy-driven imitation ends in humiliation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: alias
+  confidence: high
+  rationale: This is a close match to existing envy_rivalry_failed_imitation and envy_leading_to_failed_imitation
+    patterns.
+  cautions: Preserve humiliation as the local outcome; map broadly unless a distinct
+    failed-imitation child is being indexed.
+  suggested_aliases:
+  - envy_leading_to_failed_imitation
+  - envious_imitation_ends_in_humiliation
+  - envy_rivalry_failed_imitation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envy-of-a-successful-kinsman-leading-to-murder
+  motif_id: envy_of_a_successful_kinsman_leading_to_murder
+  label: envy of a successful kinsman leading to murder
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: pride_and_downfall
+  suggested_group_label: Pride, Hubris, and Downfall
+  relationship: functional_variant
+  confidence: medium
+  rationale: Envy drives destructive violence against a successful relative, fitting
+    the envy-as-harmful-force cluster.
+  cautions: Kin murder may also involve sibling rivalry, feud, or betrayal; do not
+    collapse those functions without passage evidence.
+  suggested_aliases:
+  - envy_of_successful_kin_leads_to_murder
+  - kinsman_murdered_from_envy
+  - envy_driven_kin_murder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.envy-of-wealth-leading-to-malicious-accusation
+  motif_id: envy_of_wealth_leading_to_malicious_accusation
+  label: envy of wealth leading to malicious accusation
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The accusation motif aligns with existing false-accusation and moral-reckoning
+    patterns, with envy as motive.
+  cautions: Could alternatively sit under pride_and_downfall if the passage emphasizes
+    envy more than accusation and vindication.
+  suggested_aliases:
+  - malicious_accusation_from_envy_of_wealth
+  - envy_motivated_false_accusation
+  - wealth_envy_false_accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.epic-attitude-after-destruction
+  motif_id: epic_attitude_after_destruction
+  label: Epic attitude after destruction
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes a literary stance or interpretive tone rather than
+    a narrative motif.
+  cautions: If source evidence names a character's spiritual response to destruction,
+    reconsider under mystical_quest or annihilation_union.
+  suggested_aliases:
+  - epic_tone_after_destruction
+  - literary_attitude_after_destruction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.epic-episode-localized-in-different-cities-and-courts
+  motif_id: epic_episode_localized_in_different_cities_and_courts
+  label: Epic episode localized in different cities and courts
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: Localization of an episode in variant places is a transmission or redaction
+    observation, not a symbolic motif.
+  cautions: Preserve as provenance or variant metadata; do not use as evidence for
+    place-based motif comparison.
+  suggested_aliases:
+  - episode_localized_in_variant_cities
+  - epic_localization_across_courts
+  - variant_localization_of_epic_episode
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.epic-expansion-through-detail-and-repetition
+  motif_id: epic_expansion_through_detail_and_repetition
+  label: epic expansion through detail and repetition
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes epic style or compositional technique rather than a narrative,
+    ritual, or symbolic motif.
+  cautions: Could be kept as poetics metadata, but should be excluded from Pattern
+    Explorer motif queries.
+  suggested_aliases:
+  - formulaic_epic_expansion
+  - epic_expansion_by_repetition
+  - detail_and_repetition_as_epic_style
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several envy labels can be consolidated under the existing pride_and_downfall envy/failed-imitation
+  cluster, but moral-legal false accusation may warrant divine_judgment as primary.
+- Epic-style and localization labels are best treated as textual or scholarly artifacts
+  unless passage evidence shows a character-level motif.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; single-occurrence labels should be verified
+    against source passages before taxonomy edits.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3386
+  input_sha256: 42aa95277881bd481ad3fe069a22bbdb94473c239c2616bd97b880ea47c02310
+

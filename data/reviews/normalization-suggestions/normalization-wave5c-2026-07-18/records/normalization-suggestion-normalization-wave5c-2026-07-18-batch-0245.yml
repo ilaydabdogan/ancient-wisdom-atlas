@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0245
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.life-token-plant-indicating-the-traveler-s-death
+  motif_id: life_token_plant_indicating_the_traveler_s_death
+  label: life-token plant indicating the traveler’s death
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: A plant functioning as a life-token that signals a person's death fits
+    the externalized life-token complex.
+  cautions: Single occurrence; verify whether the plant merely reports death or is
+    causally bound to life and death.
+  suggested_aliases:
+  - life_token_plant_signals_death
+  - plant_life_token_indicates_death
+  - death_signaling_life_token_plant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.life-token-plant-signals-death
+  motif_id: life_token_plant_signals_death
+  label: life-token plant signals death
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: alias
+  confidence: high
+  rationale: This is effectively the same life-token plant motif as the traveler-death
+    wording and belongs under external_soul.
+  cautions: Likely duplicate or near-duplicate of life_token_plant_indicating_the_traveler_s_death;
+    preserve traveler specificity only as evidence detail.
+  suggested_aliases:
+  - life_token_plant_indicating_the_traveler_s_death
+  - plant_life_token_signals_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lifeless-double-substituted-for-stolen-dead
+  motif_id: lifeless_double_substituted_for_stolen_dead
+  label: lifeless double substituted for stolen dead
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve corpse theft, substitute bodies, doubles, funerary
+    deception, or soul replacement, and no placement is clear from wording alone.
+  cautions: Needs source review; could map to death_and_transformation, sacred_vessel,
+    restless_dead_haunting_vengeance, shapeshifter, or be an over-specific episode
+    detail.
+  suggested_aliases:
+  - substitute_double_for_stolen_dead
+  - lifeless_double_replaces_stolen_corpse
+  - corpse_substitution_by_lifeless_double
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lifelong-constancy-in-spiritual-attention
+  motif_id: lifelong_constancy_in_spiritual_attention
+  label: Lifelong constancy in spiritual attention
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: narrower_than
+  confidence: medium
+  rationale: Sustained spiritual attention fits disciplined interior practice on a
+    mystical or contemplative quest path.
+  cautions: Abstract ethical-discipline label; if it is commentary rather than narrative
+    or ritual motif, human review may exclude or map to sacred_knowledge instead.
+  suggested_aliases:
+  - constant_spiritual_attention
+  - lifelong_contemplative_attention
+  - sustained_mindfulness_as_spiritual_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.light-elves-as-beneficent-airborne-nature-spirits
+  motif_id: light_elves_as_beneficent_airborne_nature_spirits
+  label: Light elves as beneficent airborne nature spirits
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: role_variant
+  confidence: medium
+  rationale: Light elves are an otherworldly class of beneficent spirits associated
+    with a nonordinary realm and nature powers.
+  cautions: This may be a being-class description rather than a narrative motif; consider
+    divine_race or divine_intervention if the passage emphasizes their origin or aid.
+  suggested_aliases:
+  - beneficent_light_elves
+  - airborne_nature_spirits
+  - light_elves_as_otherworld_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lightning-death-linked-to-ritual-handling-of-a-pipe-toward-thunder-beings
+  motif_id: lightning_death_linked_to_ritual_handling_of_a_pipe_toward_thunder_beings
+  label: lightning death linked to ritual handling of a pipe toward thunder beings
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label combines death by lightning, ritual pipe handling, and thunder-being
+    agency in a culturally specific context.
+  cautions: Culturally sensitive and highly contextual; source evidence is needed
+    before mapping to sacred_law, divine_judgment, divine_intervention, sacred_fire,
+    or death_by_fate.
+  suggested_aliases:
+  - lightning_death_from_ritual_pipe_handling
+  - thunder_beings_and_pipe_ritual_death
+  - ritual_misuse_linked_to_lightning_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lightning-represented-through-shell-threat
+  motif_id: lightning_represented_through_shell_threat
+  label: lightning represented through shell threat
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too compressed to determine whether this is a symbol,
+    ritual object, threat formula, or passage artifact.
+  cautions: May be over-specific or ethnographic commentary; review source before
+    mapping to sacred_fire, sacred_treasures, divine_judgment, or curse_blessing_speech.
+  suggested_aliases:
+  - shell_as_lightning_threat
+  - lightning_symbolized_by_shell
+  - shell_threat_representing_lightning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lightning-spirit-and-power-of-lightning-struck-wood
+  motif_id: lightning_spirit_and_power_of_lightning_struck_wood
+  label: lightning spirit and power of lightning-struck wood
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Lightning-struck wood treated as carrying spiritual power functions as
+    a charged power object.
+  cautions: Could also relate to sacred_fire or divine_intervention if the passage
+    emphasizes lightning as divine presence or spirit agency rather than the wood
+    object.
+  suggested_aliases:
+  - power_of_lightning_struck_wood
+  - lightning_charged_wood
+  - spirit_power_in_lightning_struck_wood
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.lightning-spirit-as-red-man
+  motif_id: lightning_spirit_as_red_man
+  label: Lightning spirit as Red Man
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: This names a culturally specific personified lightning spirit, but the
+    narrative function is not included.
+  cautions: Avoid flattening a specific spirit identity into generic divine intervention
+    without source context; may be being taxonomy rather than motif.
+  suggested_aliases:
+  - personified_lightning_spirit
+  - red_man_as_lightning_spirit
+  - lightning_personified_as_red_man
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.limited-and-ignorant-evil-spirit
+  motif_id: limited_and_ignorant_evil_spirit
+  label: limited and ignorant evil spirit
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: role_variant
+  confidence: medium
+  rationale: A deficient evil spirit fits a dualistic cosmology where evil is opposed
+    to but limited by sacred order.
+  cautions: If the passage specifically discusses a named Zoroastrian figure or doctrine,
+    this may be doctrinal commentary rather than a reusable motif; divine_judgment
+    or pride_and_downfall may be secondary depending on context.
+  suggested_aliases:
+  - ignorant_evil_spirit
+  - limited_evil_power
+  - evil_spirit_limited_by_ignorance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several lightning and spirit labels are culturally specific and should be checked
+  against source passages before broad indexing.
+- The two life-token plant labels appear to be near-duplicates and should likely be
+  normalized together under external_soul if evidence confirms life-token function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; source-level review recommended for
+    ambiguous ritual and spirit-being labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0245
+  input_sha256: ccb7371774ddf9c9b105238c2d0ecb08b723adb12a768fab903f4a4d1ebc761d
+

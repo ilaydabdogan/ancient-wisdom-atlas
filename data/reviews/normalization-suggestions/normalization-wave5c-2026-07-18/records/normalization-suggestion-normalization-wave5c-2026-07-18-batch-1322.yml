@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1322
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.favored-heir-with-prior-gift-plus-equal-estate-division
+  motif_id: favored_heir_with_prior_gift_plus_equal_estate_division
+  label: favored heir with prior gift plus equal estate division
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to concern inheritance law or estate division rather
+    than a clear wisdom or revelation motif.
+  cautions: May be a legal case detail, commentary artifact, or local social-order
+    motif; source evidence is needed before mapping to covenant, sacred_law, or royal_legitimacy.
+  suggested_aliases:
+  - favored_heir_with_prior_gift_and_equal_estate_division
+  - inheritance_division_with_prior_gift_to_favored_heir
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fear-bringing-dream-deity
+  motif_id: fear_bringing_dream_deity
+  label: Fear-bringing dream deity
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: role_variant
+  confidence: medium
+  rationale: A deity appearing through or governing frightening dreams belongs with
+    dreams and altered perception as sacred experience.
+  cautions: If the passage emphasizes the deity's independent cult role rather than
+    a dream event, preserve as a deity-specific evidence detail.
+  suggested_aliases:
+  - fear_inducing_dream_deity
+  - frightening_dream_deity
+  - deity_of_fearful_dreams
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-raiders-identified-by-a-terrifying-name-or-cry
+  motif_id: feared_raiders_identified_by_a_terrifying_name_or_cry
+  label: feared raiders identified by a terrifying name or cry
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve performative naming, battle intimidation, or
+    a passage-specific ethnographic description.
+  cautions: Do not map solely from the presence of cry or name; verify whether the
+    speech act has sacred power, signals raiding identity, or is merely descriptive.
+  suggested_aliases:
+  - terrifying_name_or_cry_identifies_raiders
+  - raiders_known_by_fearsome_cry
+  - fearsome_raid_cry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fearful-dream-of-an-enemy-with-a-weapon
+  motif_id: fearful_dream_of_an_enemy_with_a_weapon
+  label: Fearful dream of an enemy with a weapon
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: narrower_than
+  confidence: medium
+  rationale: A frightening dream image of an armed enemy is a dream/vision motif,
+    possibly ominous or revelatory.
+  cautions: Likely over-specific; preserve enemy and weapon details as evidence unless
+    the dream has clear prophetic or transformative function.
+  suggested_aliases:
+  - fearful_dream_of_armed_enemy
+  - dream_of_enemy_with_weapon
+  - ominous_dream_of_armed_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fearless-speech-under-torture
+  motif_id: fearless_speech_under_torture
+  label: fearless speech under torture
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: low
+  rationale: The motif centers on speech as an empowered act under ordeal, though
+    the exact sacred function is unclear.
+  cautions: If the speech is not performative or binding, this may fit initiation,
+    sacred_combat, or martyr-like heroic endurance instead; source context is needed.
+  suggested_aliases:
+  - defiant_speech_under_torture
+  - fearless_words_under_ordeal
+  - speech_of_defiance_under_torture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-associated-with-a-named-figure
+  motif_id: feast_associated_with_a_named_figure
+  label: feast associated with a named figure
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: A feast merely associated with a named figure reads as an index or passage
+    detail, not a reusable motif.
+  cautions: If the feast has ritual exchange, betrayal, sacred substance, or social-order
+    function, remap based on that function rather than the named association.
+  suggested_aliases:
+  - named_figure_feast_association
+  - feast_linked_to_named_figure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-speech-generating-feud-tension
+  motif_id: feast_speech_generating_feud_tension
+  label: feast speech generating feud tension
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Speech at a feast that escalates feud tension functions as consequential,
+    socially binding or destabilizing utterance.
+  cautions: Could also fit storytelling_as_power, sacred_combat, or covenant if the
+    passage emphasizes narrative insult, feud warfare, or broken bonds.
+  suggested_aliases:
+  - feast_speech_escalates_feud
+  - feast_words_generate_feud_tension
+  - feast_insult_provokes_feud
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feast-vessel-moved-during-ceremonial-song
+  motif_id: feast_vessel_moved_during_ceremonial_song
+  label: Feast vessel moved during ceremonial song
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ceremonial song causing or accompanying movement of a feast vessel
+    points to song or sound as ritual power.
+  cautions: If the vessel itself is the primary sacred object, sacred_vessel or sacred_substance
+    may be relevant as secondary mappings.
+  suggested_aliases:
+  - ceremonial_song_moves_feast_vessel
+  - ritual_song_moving_vessel
+  - feast_vessel_moved_by_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feather-transformed-into-sword
+  motif_id: feather_transformed_into_sword
+  label: Feather transformed into sword
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is transformation of one object/form into another, with
+    martial function as a possible secondary feature.
+  cautions: If the sword is a divine power object or battle-deciding weapon, sacred_treasures
+    may be a better or secondary placement.
+  suggested_aliases:
+  - feather_becomes_sword
+  - feather_changed_into_weapon
+  - transformed_feather_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.female-provisioner-and-healer-sustaining-warriors
+  motif_id: female_provisioner_and_healer_sustaining_warriors
+  label: Female provisioner and healer sustaining warriors
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: A female figure who provides and heals warriors may function as supernatural
+    aid or sustaining intervention in battle contexts.
+  cautions: 'Needs source evidence: if she is a goddess or sovereignty figure, mother_goddess
+    or royal_legitimacy may be relevant; if human, this may be a contextual role detail.'
+  suggested_aliases:
+  - female_healer_and_provider_for_warriors
+  - woman_sustains_warriors_with_provision_and_healing
+  - female_warrior_supporter_as_healer_and_provider
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and context-dependent; suggested mappings should
+  be treated as provisional review placements, not taxonomy edits.
+- Dream-related labels were mapped to dream_and_vision only when the dream event itself
+  is the central motif.
+- Feast and named-person labels require special caution because they may be passage
+  artifacts unless a ritual, exchange, betrayal, or speech function is explicit.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for wave5c batch 1322; human
+    review recommended for low-confidence legal, feast, and role-based labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1322
+  input_sha256: 3a99b95d07b9de1ed9a6ba4b5661309a656b335177e0de63d5d98a6824490629
+

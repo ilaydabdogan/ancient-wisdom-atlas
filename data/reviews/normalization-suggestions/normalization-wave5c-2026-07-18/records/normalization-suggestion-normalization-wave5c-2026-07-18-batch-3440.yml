@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3440
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fatal-diving-task-with-clam-trap
+  motif_id: fatal_diving_task_with_clam_trap
+  label: fatal diving task with clam trap
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves a dangerous underwater task, but it is unclear whether
+    water functions as transformation, ordeal, trap setting, or simple episode location.
+  cautions: Single occurrence and highly specific; could also fit initiation, trickster
+    deception, death by ordeal, or be an episode detail depending on source evidence.
+  suggested_aliases:
+  - fatal underwater task
+  - diving ordeal with trap
+  - clam trap death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-duel-at-a-ford
+  motif_id: fatal_duel_at_a_ford
+  label: fatal duel at a ford
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: alias
+  confidence: high
+  rationale: Ford duels and fatal champion combats are already represented in sacred_combat
+    aliases and children.
+  cautions: If the passage emphasizes the ford as liminal threshold more than combat,
+    threshold_guardian or sacred_waters may be useful secondary context.
+  suggested_aliases:
+  - fatal champion duel at a ford
+  - ford duel as crisis point
+  - single combat at a ford
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-encounter-with-a-supernatural-woman
+  motif_id: fatal_encounter_with_a_supernatural_woman
+  label: fatal encounter with a supernatural woman
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: A deadly supernatural female encounter may mark a perilous threshold
+    or lure, but the role and narrative function are not clear from the label alone.
+  cautions: Could instead involve otherworld, sacred_love, divine_judgment, shapeshifter,
+    monster encounter, or culturally specific spirit traditions; source evidence needed.
+  suggested_aliases:
+  - fatal supernatural female encounter
+  - deadly encounter with spirit woman
+  - perilous supernatural woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-entry-into-predator-s-den
+  motif_id: fatal_entry_into_predator_s_den
+  label: fatal entry into predator's den
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing trickster group contains predator-den and predator-lure
+    fable patterns; this likely belongs to that predator-deception complex.
+  cautions: If the passage is heroic monster descent rather than fable deception,
+    threshold_guardian, descent, or sacred_combat may be better.
+  suggested_aliases:
+  - entry into predator den
+  - predator den death
+  - fatal predator lair entry
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-fascination-at-transformed-appearance
+  motif_id: fatal_fascination_at_transformed_appearance
+  label: fatal fascination at transformed appearance
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: uncertain
+  confidence: low
+  rationale: The transformed appearance points to shapeshifting or metamorphosis,
+    but the fatal fascination may instead be taboo vision, enchantment, or lure.
+  cautions: Highly contextual single occurrence; review whether death is caused by
+    seeing, desire, taboo violation, supernatural beauty, or transformation itself.
+  suggested_aliases:
+  - fatal fascination with transformed form
+  - deadly transformed appearance
+  - fatal gaze at transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-food-deception-with-heated-stones
+  motif_id: fatal_food_deception_with_heated_stones
+  label: fatal food deception with heated stones
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Food deception causing harm aligns with existing trickster and deceptive-food
+    patterns, with heated stones as the local mechanism.
+  cautions: If the key function is betrayal of hospitality or feast trust, betrayal_violated_trust
+    may be a secondary mapping; preserve heated-stone detail as evidence.
+  suggested_aliases:
+  - deceptive food with heated stones
+  - fatal heated-stone food trick
+  - food trick causing death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-gambling-ensnarement
+  motif_id: fatal_gambling_ensnarement
+  label: fatal gambling ensnarement
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: Ensnarement through a game may involve trickster deception or perilous
+    contest, but no existing group cleanly covers fatal gambling.
+  cautions: Could be sacred law, divine judgment, fate, contest ordeal, or culturally
+    specific game ritual; avoid broad mapping without passage evidence.
+  suggested_aliases:
+  - deadly gambling trap
+  - fatal game ensnarement
+  - gambling as fatal lure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-game-accident
+  motif_id: fatal_game_accident
+  label: Fatal game accident
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads like a generic incident or plot detail rather than a
+    stable symbolic or narrative motif.
+  cautions: If source evidence shows a fated athletic/game death, ritual contest,
+    or divine punishment, remap to death_by_fate, sacred_combat, or divine_judgment
+    after review.
+  suggested_aliases:
+  - death by game accident
+  - fatal accident during game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-hot-stone-placed-in-the-victim-s-mouth
+  motif_id: fatal_hot_stone_placed_in_the_victim_s_mouth
+  label: Fatal hot stone placed in the victim's mouth
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: uncertain
+  confidence: low
+  rationale: The hot-stone killing may be a deception or trickster episode, but the
+    label only specifies the death mechanism.
+  cautions: Could be a violence detail, punishment, food deception variant, or episode
+    artifact; do not promote as canonical without recurring evidence.
+  suggested_aliases:
+  - death by hot stone in mouth
+  - hot-stone killing
+  - fatal heated stone deception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fatal-incompatibility-after-eating-nonhuman-food
+  motif_id: fatal_incompatibility_after_eating_nonhuman_food
+  label: Fatal incompatibility after eating nonhuman food
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Eating nonhuman or otherworldly food that makes return or survival impossible
+    fits otherworld boundary and exchange logic.
+  cautions: If the passage emphasizes taboo, ritual purity, or sacred substance rather
+    than otherworld contact, sacred_law or sacred_substance may be better secondary
+    mappings.
+  suggested_aliases:
+  - deadly nonhuman food
+  - fatal otherworld food incompatibility
+  - eating spirit food causes death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and death-mechanism specific; many should remain
+  evidence details unless source review shows recurring narrative function.
+- Avoid treating every fatal event as death_and_transformation; most items here require
+  function-based review such as trickster deception, threshold peril, otherworld food,
+  or sacred combat.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    spirit, food, and game motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3440
+  input_sha256: 562fcb3d72afcab8406b94fec661ddbdf3c920b07fd0233fb70d881a9339f3f1
+

@@ -1,0 +1,363 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3764
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.peace-embassy-detained-as-hostages
+  motif_id: peace_embassy_detained_as_hostages
+  label: Peace embassy detained as hostages
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Peace Embassy and Diplomacy Under Conflict
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes diplomatic emissaries in a conflict setting, a recurring
+    social-order/warfare function not cleanly covered by sacred_combat or covenant.
+  cautions: Single occurrence and culturally specific; verify whether this is a narrative
+    motif rather than historical episode detail.
+  suggested_aliases:
+  - detained_peace_embassy
+  - peace_envoys_held_as_hostages
+  - diplomatic_emissaries_taken_hostage
+  suggested_new_group:
+    id: peace_embassy_diplomacy
+    label: Peace Embassy and Diplomacy Under Conflict
+    description: Peace missions, emissaries, councils, pipe ceremonies, captive releases,
+      goods distributions, and misread or betrayed diplomatic gestures that negotiate
+      conflict between hostile groups.
+    parent_group_ids:
+    - sacred_combat
+    - covenant
+    - sacred_exchange
+    related_group_ids:
+    - sacred_law
+    - betrayal_violated_trust
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: Existing groups cover combat, covenant, exchange,
+      and betrayal, but not the repeated narrative function of diplomacy and peacemaking
+      between enemies.
+- suggestion_id: normalization.suggestion.peace-embassy-followed-by-contrary-attack
+  motif_id: peace_embassy_followed_by_contrary_attack
+  label: peace embassy followed by contrary attack
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Peace Embassy and Diplomacy Under Conflict
+  relationship: functional_variant
+  confidence: medium
+  rationale: A peace mission undermined by attack fits a diplomacy-under-conflict
+    pattern, with possible violated-trust overlap.
+  cautions: Could instead be a betrayal or war-stratagem episode if the peace embassy
+    is deceptive; source evidence needed.
+  suggested_aliases:
+  - peace_embassy_betrayed_by_attack
+  - peace_mission_followed_by_attack
+  - contrary_attack_after_peace_embassy
+  suggested_new_group:
+    id: peace_embassy_diplomacy
+    label: Peace Embassy and Diplomacy Under Conflict
+    description: Peace missions, emissaries, councils, pipe ceremonies, captive releases,
+      goods distributions, and misread or betrayed diplomatic gestures that negotiate
+      conflict between hostile groups.
+    parent_group_ids:
+    - sacred_combat
+    - covenant
+    - sacred_exchange
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_law
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: Existing groups cover combat, covenant, exchange,
+      and betrayal, but not the repeated narrative function of diplomacy and peacemaking
+      between enemies.
+- suggestion_id: normalization.suggestion.peace-embassy-to-former-enemies
+  motif_id: peace_embassy_to_former_enemies
+  label: peace embassy to former enemies
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Peace Embassy and Diplomacy Under Conflict
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sending an embassy to former enemies is a clear peacemaking/diplomatic
+    action rather than combat itself.
+  cautions: May be too event-specific if no ritual, covenantal, or narrative transformation
+    function is present.
+  suggested_aliases:
+  - peace_envoys_to_former_enemies
+  - embassy_to_former_enemies
+  - diplomatic_mission_to_former_enemies
+  suggested_new_group:
+    id: peace_embassy_diplomacy
+    label: Peace Embassy and Diplomacy Under Conflict
+    description: Peace missions, emissaries, councils, pipe ceremonies, captive releases,
+      goods distributions, and misread or betrayed diplomatic gestures that negotiate
+      conflict between hostile groups.
+    parent_group_ids:
+    - sacred_combat
+    - covenant
+    - sacred_exchange
+    related_group_ids:
+    - sacred_law
+    - betrayal_violated_trust
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: Existing groups cover combat, covenant, exchange,
+      and betrayal, but not the repeated narrative function of diplomacy and peacemaking
+      between enemies.
+- suggestion_id: normalization.suggestion.peace-made-through-distribution-of-goods-after-near-destruction
+  motif_id: peace_made_through_distribution_of_goods_after_near_destruction
+  label: Peace made through distribution of goods after near destruction
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Peace is achieved through redistribution of goods, making reciprocal
+    exchange the primary repair mechanism.
+  cautions: If the emphasis is diplomatic process rather than exchange, the proposed
+    peace_embassy_diplomacy group may be a better review placement.
+  suggested_aliases:
+  - peace_through_goods_distribution
+  - redistribution_makes_peace_after_near_destruction
+  - goods_exchange_restores_peace
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-message-mediated-through-an-elder-and-council
+  motif_id: peace_message_mediated_through_an_elder_and_council
+  label: Peace message mediated through an elder and council
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Peace Embassy and Diplomacy Under Conflict
+  relationship: role_variant
+  confidence: medium
+  rationale: The motif centers on institutional mediation of a peace message by elders
+    and council.
+  cautions: Could be a local governance detail rather than a portable motif; review
+    for ritual or narrative recurrence.
+  suggested_aliases:
+  - elder_and_council_mediate_peace_message
+  - council_mediated_peace_message
+  - peace_message_through_elder_council
+  suggested_new_group:
+    id: peace_embassy_diplomacy
+    label: Peace Embassy and Diplomacy Under Conflict
+    description: Peace missions, emissaries, councils, pipe ceremonies, captive releases,
+      goods distributions, and misread or betrayed diplomatic gestures that negotiate
+      conflict between hostile groups.
+    parent_group_ids:
+    - sacred_combat
+    - covenant
+    - sacred_exchange
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_law
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: Existing groups cover combat, covenant, exchange,
+      and social order, but not the repeated narrative function of diplomacy and peacemaking
+      between enemies.
+- suggestion_id: normalization.suggestion.peace-mission-misread-as-hostile-action
+  motif_id: peace_mission_misread_as_hostile_action
+  label: peace mission misread as hostile action
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Peace Embassy and Diplomacy Under Conflict
+  relationship: functional_variant
+  confidence: medium
+  rationale: A peaceful diplomatic act mistaken for hostility belongs to conflict
+    diplomacy and failed communication between enemies.
+  cautions: Could be an over-specific plot complication unless it recurs as a peacemaking
+    failure pattern.
+  suggested_aliases:
+  - misread_peace_mission
+  - peace_mission_mistaken_for_attack
+  - diplomatic_mission_misread_as_hostile
+  suggested_new_group:
+    id: peace_embassy_diplomacy
+    label: Peace Embassy and Diplomacy Under Conflict
+    description: Peace missions, emissaries, councils, pipe ceremonies, captive releases,
+      goods distributions, and misread or betrayed diplomatic gestures that negotiate
+      conflict between hostile groups.
+    parent_group_ids:
+    - sacred_combat
+    - covenant
+    - sacred_exchange
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover combat, covenant, exchange,
+      and betrayal, but not the repeated narrative function of diplomacy and peacemaking
+      between enemies.
+- suggestion_id: normalization.suggestion.peace-negotiation-under-threat-of-destruction
+  motif_id: peace_negotiation_under_threat_of_destruction
+  label: peace negotiation under threat of destruction
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Peace Embassy and Diplomacy Under Conflict
+  relationship: functional_variant
+  confidence: medium
+  rationale: Negotiation to avert destruction is a peacemaking function at the boundary
+    of warfare and covenant repair.
+  cautions: If destruction is divinely mandated or cosmic, divine_judgment or flood_and_renewal
+    may be relevant; label alone does not show that.
+  suggested_aliases:
+  - negotiation_to_avert_destruction
+  - peace_under_threat_of_annihilation
+  - peace_talks_under_destruction_threat
+  suggested_new_group:
+    id: peace_embassy_diplomacy
+    label: Peace Embassy and Diplomacy Under Conflict
+    description: Peace missions, emissaries, councils, pipe ceremonies, captive releases,
+      goods distributions, and misread or betrayed diplomatic gestures that negotiate
+      conflict between hostile groups.
+    parent_group_ids:
+    - sacred_combat
+    - covenant
+    - sacred_exchange
+    related_group_ids:
+    - divine_judgment
+    - sacred_law
+    reason_existing_groups_insufficient: Existing groups cover combat, covenant, exchange,
+      and judgment, but not the repeated narrative function of diplomacy and peacemaking
+      between enemies.
+- suggestion_id: normalization.suggestion.peace-pipe-and-dance-with-former-enemies
+  motif_id: peace_pipe_and_dance_with_former_enemies
+  label: Peace-pipe and dance with former enemies
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This is a culturally specific peace rite involving pipe and dance, likely
+    related to diplomacy, exchange, and sacred law.
+  cautions: Culturally sensitive ritual specificity should be reviewed by a human
+    before broad normalization; avoid flattening pipe ceremony into generic exchange.
+  suggested_aliases:
+  - peace_pipe_rite_with_former_enemies
+  - dance_and_pipe_peace_ceremony
+  - ritual_peacemaking_with_former_enemies
+  suggested_new_group:
+    id: peace_embassy_diplomacy
+    label: Peace Embassy and Diplomacy Under Conflict
+    description: Peace missions, emissaries, councils, pipe ceremonies, captive releases,
+      goods distributions, and misread or betrayed diplomatic gestures that negotiate
+      conflict between hostile groups.
+    parent_group_ids:
+    - sacred_combat
+    - covenant
+    - sacred_exchange
+    related_group_ids:
+    - sacred_law
+    - sacred_substance
+    reason_existing_groups_insufficient: Existing groups do not cleanly capture culturally
+      marked peacemaking ritual without reducing it to generic exchange or law.
+- suggestion_id: normalization.suggestion.peace-release-of-a-high-status-captive-with-wealth
+  motif_id: peace_release_of_a_high_status_captive_with_wealth
+  label: Peace release of a high-status captive with wealth
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Release of a captive with wealth uses transfer and restitution to restore
+    peace or relationship.
+  cautions: Could also belong to diplomacy-under-conflict or royal_legitimacy if the
+    captive's rank is central to status repair.
+  suggested_aliases:
+  - captive_release_with_wealth_makes_peace
+  - high_status_captive_released_for_peace
+  - wealth_accompanies_peace_release_of_captive
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-symbol-drum-with-altered-regional-significance
+  motif_id: peace_symbol_drum_with_altered_regional_significance
+  label: Peace-symbol drum with altered regional significance
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording describes regional variation in the significance of a symbol,
+    more like a comparative note than a motif event.
+  cautions: If the source passage uses a drum ritually to make or mark peace, preserve
+    that evidence under human-reviewed peacemaking or sacred-object categories rather
+    than excluding it entirely.
+  suggested_aliases:
+  - regional_variation_of_peace_drum_symbol
+  - peace_drum_symbol_regional_significance
+  - drum_as_peace_symbol_variant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- This batch clusters around peacemaking, embassies, councils, captives, and ritual
+  peace symbols. Existing groups cover adjacent functions but do not cleanly represent
+  diplomacy under conflict, so a provisional new group is suggested for several items.
+- Several labels concern Native American traditions and may encode culturally specific
+  diplomatic or ritual practices; human review should preserve local meaning and avoid
+  reducing pipe, drum, council, or captive-release practices to generic motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; recommend taxonomy review for a peace_embassy_diplomacy
+    normalization group and culturally informed review of ritual-peace labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3764
+  input_sha256: 25c9c7a0a8fe6f5a68e986509c19e962bb8011bf607e13acfd2759be8e95e7d5
+

@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2377
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.failed-water-treatment-and-flight-to-mountain-tree
+  motif_id: failed_water_treatment_and_flight_to_mountain_tree
+  label: Failed water treatment and flight to mountain tree
+  occurrences: 1
+  traditions:
+  - ainu
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Composite single-occurrence label mixes failed healing or purification,
+    flight, mountain, and tree refuge without a clear dominant function.
+  cautions: Could involve sacred_waters, axis_mundi, healing rite, refuge, or episode-specific
+    plot detail; source context is needed before mapping.
+  suggested_aliases:
+  - failed_water_healing_and_mountain_tree_refuge
+  - flight_to_mountain_tree_after_failed_water_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.failure-of-fire-to-light-as-bad-omen-for-warriors
+  motif_id: failure_of_fire_to_light_as_bad_omen_for_warriors
+  label: Failure of fire to light as bad omen for warriors
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The failed fire functions as an omen predicting danger for warriors,
+    closer to divination than to general sacred fire.
+  cautions: If the passage emphasizes fire as divine presence or sacrificial medium,
+    sacred_fire may be a secondary mapping; if tied to battle fate, death_by_fate
+    may also be relevant.
+  suggested_aliases:
+  - fire_fails_to_light_as_bad_omen
+  - failed_fire_omen_before_war
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fall-associated-with-a-tree
+  motif_id: fall_associated_with_a_tree
+  label: fall associated with a tree
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too terse to determine whether the tree is sacred, causal,
+    symbolic, or merely a setting for a fall.
+  cautions: Do not map to axis_mundi or sacred_tree_axis without evidence that the
+    tree functions as a sacred center or cosmic connector; may be an episode detail.
+  suggested_aliases:
+  - fall_at_tree
+  - tree_associated_fall
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-fighter-compared-to-fish-cast-ashore-by-water
+  motif_id: fallen_fighter_compared_to_fish_cast_ashore_by_water
+  label: Fallen fighter compared to fish cast ashore by water
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a poetic simile for a fallen warrior rather than a reusable
+    narrative or symbolic motif.
+  cautions: If similar death similes recur as indexed motifs, preserve as evidence
+    under lament_and_mourning or divine_warrior; otherwise exclude from broad pattern
+    queries.
+  suggested_aliases:
+  - fallen_warrior_fish_ashore_simile
+  - fighter_like_fish_cast_ashore
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fallen-youth-compared-to-a-felled-tree
+  motif_id: fallen_youth_compared_to_a_felled_tree
+  label: Fallen youth compared to a felled tree
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: symbolic_variant
+  confidence: high
+  rationale: A dead youth likened to a felled tree matches existing mourning imagery
+    for a young warrior cut down like a tree.
+  cautions: This is poetic imagery rather than sacred-tree evidence; do not map to
+    axis_mundi unless the tree has cosmological function.
+  suggested_aliases:
+  - young_warrior_cut_down_like_a_tree
+  - fallen_youth_felled_tree_simile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.falling-star-brings-destructive-fire-to-a-kin-group
+  motif_id: falling_star_brings_destructive_fire_to_a_kin_group
+  label: Falling star brings destructive fire to a kin group
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: A celestial fire destroying a kin group may function as supernatural
+    punishment or cosmic reckoning.
+  cautions: Could instead be sacred_fire, world_destroying_fire, celestial portent,
+    or episode-specific catastrophe; verify whether judgment or moral causality is
+    present.
+  suggested_aliases:
+  - falling_star_destructive_fire
+  - celestial_fire_destroys_kin_group
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-accusation-around-lost-fire-causing-mutilation
+  motif_id: false_accusation_around_lost_fire_causing_mutilation
+  label: False accusation around lost fire causing mutilation
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is false accusation leading to harmful consequence,
+    already represented under divine judgment variants.
+  cautions: The lost-fire detail may connect to sacred_fire or culture-hero fire traditions
+    if fire acquisition/loss is central; mutilation may be episode-specific.
+  suggested_aliases:
+  - false_accusation_over_lost_fire
+  - lost_fire_false_accusation_mutilation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-directions-in-repeated-search
+  motif_id: false_directions_in_repeated_search
+  label: false directions in repeated search
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: False directions during a search are a deception pattern, best held under
+    trickster unless source shows another function.
+  cautions: Could be a quest obstacle under hero_journey if the repeated search is
+    transformative; label is generic and may be plot mechanics only.
+  suggested_aliases:
+  - deceptive_directions_in_search
+  - misdirection_during_repeated_search
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-falling-sky-and-stone-support-ruse
+  motif_id: false_falling_sky_and_stone_support_ruse
+  label: False falling sky and stone support ruse
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: high
+  rationale: The false cosmic-collapse claim and stone-support device are a clear
+    deception or ruse pattern.
+  cautions: Do not map to cosmic_origin or world destruction unless the sky is actually
+    falling; here the label marks a false claim.
+  suggested_aliases:
+  - falling_sky_ruse
+  - false_sky_collapse_trick
+  - stone_support_ruse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.false-report-of-shallow-water-causes-drowning
+  motif_id: false_report_of_shallow_water_causes_drowning
+  label: false report of shallow water causes drowning
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A deceptive report about water depth that causes death is a lethal misdirection
+    pattern.
+  cautions: May also relate to sacred_waters if water crossing is a transformative
+    boundary; if no trickster/deceiver role is present, review as over-specific episode
+    detail.
+  suggested_aliases:
+  - deceptive_shallow_water_report
+  - false_water_depth_report_causes_drowning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence nature-image labels that may be
+  poetic similes or episode details rather than durable motifs.
+- Avoid mapping tree or water labels to axis_mundi, sacred_waters, or flood_and_renewal
+  unless the passage evidence supports that symbolic or narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source passages should be checked for single-occurrence
+    and simile-heavy labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2377
+  input_sha256: c663c81dc642fed7bdac490ff05465866864e54ab579de331ab5706af7dc154d
+

@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3885
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.renowned-figure-killed-by-outside-or-martial-attackers
+  motif_id: renowned_figure_killed_by_outside_or_martial_attackers
+  label: Renowned figure killed by outside or martial attackers
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: death_by_fate
+  suggested_group_label: Death Attributed to Fate or Destiny
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns the death of a notable figure in martial violence,
+    but does not show whether fate, heroic funeral, combat, or simple episode detail
+    is central.
+  cautions: Single occurrence and vague wording; could fit sacred_combat, divine_warrior,
+    lament_and_mourning, heroic_funeral_rites, or be too contextual.
+  suggested_aliases:
+  - renowned_figure_slain_by_attackers
+  - notable_figure_killed_in_martial_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciant-avoidance-of-military-spectacle
+  motif_id: renunciant_avoidance_of_military_spectacle
+  label: Renunciant avoidance of military spectacle
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Avoidance of worldly spectacle by a renunciant fits disciplined detachment
+    on a spiritual path.
+  cautions: May be a monastic rule or passage-specific discipline rather than a cross-traditional
+    motif; sacred_law could be secondary if framed as formal prohibition.
+  suggested_aliases:
+  - renunciant_avoidance_of_worldly_spectacle
+  - ascetic_avoidance_of_martial_display
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciant-clothing-made-humble-and-undesirable
+  motif_id: renunciant_clothing_made_humble_and_undesirable
+  label: renunciant clothing made humble and undesirable
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Humble, undesirable clothing expresses renunciation of status and attachment
+    within an ascetic path.
+  cautions: May be a detailed monastic-regulation artifact; consider sacred_law if
+    the passage emphasizes rule compliance over interior renunciation.
+  suggested_aliases:
+  - humble_renunciant_clothing
+  - ascetic_clothing_made_undesirable
+  - renunciant_robe_as_humility
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciant-prohibition-of-luxurious-or-improper-bowls
+  motif_id: renunciant_prohibition_of_luxurious_or_improper_bowls
+  label: renunciant prohibition of luxurious or improper bowls
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rule forbidding luxurious or improper ritual/monastic bowls fits sacred
+    law and purity-discipline regulation.
+  cautions: Object specificity may be too granular for motif queries; if the passage
+    stresses ascetic detachment, mystical_quest/renunciation is also relevant.
+  suggested_aliases:
+  - monastic_prohibition_of_luxurious_bowls
+  - renunciant_bowl_regulation
+  - ascetic_prohibition_of_improper_bowls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciant-prohibition-on-accepting-wealth
+  motif_id: renunciant_prohibition_on_accepting_wealth
+  label: renunciant prohibition on accepting wealth
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: high
+  rationale: Refusal of wealth is a clear renunciation pattern already related to
+    mystical quest and sacred exchange.
+  cautions: If framed as a formal Vinaya-style rule rather than symbolic renunciation,
+    sacred_law should be considered as a secondary group.
+  suggested_aliases:
+  - renunciant_refusal_of_wealth
+  - ascetic_prohibition_on_accepting_wealth
+  - monastic_non_acceptance_of_wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciant-refusal-of-direct-barter-value
+  motif_id: renunciant_refusal_of_direct_barter_value
+  label: renunciant refusal of direct barter value
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Refusal of barter value appears to be a rule regulating monastic economic
+    conduct.
+  cautions: Could also express renunciation under mystical_quest; source evidence
+    is needed to distinguish legal regulation from ascetic symbolism.
+  suggested_aliases:
+  - monastic_refusal_of_barter_value
+  - renunciant_avoidance_of_trade_value
+  - ascetic_refusal_of_direct_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciant-rejection-of-precious-metals
+  motif_id: renunciant_rejection_of_precious_metals
+  label: Renunciant rejection of precious metals
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: high
+  rationale: Rejecting precious metals is a concrete ascetic renunciation of wealth
+    and status.
+  cautions: May be better indexed under sacred_law where the passage is primarily
+    a monastic prohibition about handling valuables.
+  suggested_aliases:
+  - ascetic_rejection_of_precious_metals
+  - renunciant_refusal_of_gold_and_silver
+  - monastic_rejection_of_precious_metals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.renunciant-rejection-of-wealth
+  motif_id: renunciant_rejection_of_wealth
+  label: Renunciant rejection of wealth
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: alias
+  confidence: high
+  rationale: This is a direct expression of renunciation already represented under
+    mystical_quest.
+  cautions: Likely overlaps with renunciant_prohibition_on_accepting_wealth and renunciant_rejection_of_precious_metals;
+    preserve only useful local detail.
+  suggested_aliases:
+  - renunciation_of_wealth
+  - ascetic_rejection_of_wealth
+  - renunciant_refusal_of_wealth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repayment-in-agricultural-produce
+  motif_id: repayment_in_agricultural_produce
+  label: repayment in agricultural produce
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: Repayment in produce may be a reciprocity or obligation pattern, but
+    could simply be legal or economic detail.
+  cautions: Single occurrence; do not index as sacred exchange unless the passage
+    frames repayment as ritual, moral, divine, or socially binding rather than administrative
+    transaction.
+  suggested_aliases:
+  - agricultural_produce_as_repayment
+  - repayment_with_crops
+  - produce_payment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-accusation-against-prophets
+  motif_id: repeated_accusation_against_prophets
+  label: Repeated accusation against prophets
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Accusations against prophets fit the existing prophetic opposition pattern
+    under divine_intervention.
+  cautions: Could map to divine_judgment if rejection of prophets leads to punishment,
+    or sacred_knowledge if focus is rejected revelation.
+  suggested_aliases:
+  - prophets_repeatedly_accused
+  - repeated_opposition_to_prophets
+  - prophetic_mission_met_by_accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Buddhist renunciant labels appear to be overlapping granular monastic-discipline
+  variants. Human review may consolidate them under renunciation/mystical_quest with
+  sacred_law as a secondary legal frame where formal prohibition is central.
+- Single-occurrence economic or death-event labels should not be promoted without
+  passage evidence showing recurring narrative or ritual function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source evidence needed for low-confidence and
+    legal/economic labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3885
+  input_sha256: 2ce2b0cb8f98d8e1552e3d5a5f0bdaff5aa54ff2d4cc0e4797c6b7ec9398fcc6
+

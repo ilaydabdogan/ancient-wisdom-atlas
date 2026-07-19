@@ -1,0 +1,300 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1493
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.accused-fugitive-becomes-city-rebuilder-and-local-benefactor
+  motif_id: accused_fugitive_becomes_city_rebuilder_and_local_benefactor
+  label: Accused fugitive becomes city rebuilder and local benefactor
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines accusation, exile/fugitive status, civic rebuilding,
+    and benefaction; the dominant motif depends on passage context.
+  cautions: May fit false accusation/vindication, exile-return, culture hero/founder,
+    royal legitimacy, or local civic etiology; single occurrence is too composite
+    for direct grouping.
+  suggested_aliases:
+  - fugitive_as_city_benefactor
+  - accused_exile_rebuilds_city
+  - local_benefactor_after_false_accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.acquisition-of-animal-capacity-by-consuming-animals
+  motif_id: acquisition_of_animal_capacity_by_consuming_animals
+  label: acquisition of animal capacity by consuming animals
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on ingestion as a means of acquiring power or capacity,
+    fitting transformative sacred substance logic.
+  cautions: Could alternatively fit shapeshifter if the passage emphasizes bodily
+    animal transformation, or sacred_law if the focus is dietary taboo or ritual rule.
+  suggested_aliases:
+  - animal_power_acquired_by_ingestion
+  - consuming_animals_to_gain_their_powers
+  - ingestion_confers_animal_capacity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adopted-child-becomes-human-in-social-life
+  motif_id: adopted_child_becomes_human_in_social_life
+  label: adopted child becomes human in social life
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests adoption and social incorporation, but may also imply
+    transformation from nonhuman to human status.
+  cautions: Needs source context to distinguish kinship adoption, humanization/socialization,
+    shapeshifting, or miraculous-child integration; avoid flattening culturally specific
+    adoption practices.
+  suggested_aliases:
+  - adoption_confers_human_social_status
+  - adopted_nonhuman_child_becomes_socially_human
+  - child_humanized_through_adoption
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-of-gambling-as-a-recent-social-practice
+  motif_id: adoption_of_gambling_as_a_recent_social_practice
+  label: Adoption of gambling as a recent social practice
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as an ethnographic or historical observation about social
+    practice adoption rather than a mythic narrative motif.
+  cautions: If the passage narrates a culture hero introducing gambling or a sacred
+    origin of games, reconsider under culture_hero or sacred_law; otherwise exclude
+    from motif queries.
+  suggested_aliases:
+  - recent_adoption_of_gambling
+  - gambling_as_recent_social_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adoption-through-taking-rescuers-totems
+  motif_id: adoption_through_taking_rescuers_totems
+  label: Adoption through taking rescuers’ totems
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The motif concerns kinship incorporation through totemic affiliation
+    after rescue, which is not cleanly represented by existing groups.
+  cautions: Culturally specific totemic adoption needs human review; may fit sacred_exchange,
+    covenant, sacred_law, or identity tokens depending on whether the focus is reciprocity,
+    law, or affiliation proof.
+  suggested_aliases:
+  - totemic_adoption_after_rescue
+  - adoption_by_assuming_rescuers_totems
+  - rescue_followed_by_totemic_affiliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.adultery-followed-by-socially-condoned-retaliation
+  motif_id: adultery_followed_by_socially_condoned_retaliation
+  label: adultery followed by socially condoned retaliation
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a socially authorized response to sexual transgression,
+    fitting sacred law and social order.
+  cautions: If the passage stresses revenge violence rather than norm enforcement,
+    sacred_combat or divine_judgment may be secondary; handle local legal norms carefully.
+  suggested_aliases:
+  - socially_sanctioned_retaliation_for_adultery
+  - adultery_punished_by_accepted_retaliation
+  - sexual_transgression_and_social_retribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.affinal-archery-contest-ending-in-killing-of-in-laws
+  motif_id: affinal_archery_contest_ending_in_killing_of_in_laws
+  label: affinal archery contest ending in killing of in-laws
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: An archery contest that becomes lethal fits contest-combat more than
+    law or kingship, but the affinal detail is highly specific.
+  cautions: Could belong under marriage alliance conflict or kinship feud if those
+    groups are added; preserve in-law and archery details as evidence rather than
+    canonical motif wording.
+  suggested_aliases:
+  - lethal_archery_contest_with_in_laws
+  - affinal_contest_turns_deadly
+  - in_laws_killed_after_archery_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.affinal-avoidance-between-mother-in-law-and-son-in-law
+  motif_id: affinal_avoidance_between_mother_in_law_and_son_in_law
+  label: Affinal avoidance between mother-in-law and son-in-law
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed avoidance relation between affines is a social/ritual regulation,
+    fitting sacred law and social order.
+  cautions: May be an ethnographic kinship rule rather than a narrative motif; review
+    whether it functions in the story or is merely contextual annotation.
+  suggested_aliases:
+  - mother_in_law_son_in_law_avoidance
+  - affinal_avoidance_rule
+  - ritual_avoidance_between_affines
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.affinal-or-intergroup-woman-amid-massacre-and-punishment
+  motif_id: affinal_or_intergroup_woman_amid_massacre_and_punishment
+  label: Affinal or intergroup woman amid massacre and punishment
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a composite of kinship/intergroup position, massacre, and
+    punishment, with unclear narrative function.
+  cautions: Could fit sacred_combat, divine_judgment, betrayal, marriage alliance,
+    or victim/mediator roles; culturally sensitive violence context requires source
+    review.
+  suggested_aliases:
+  - intergroup_woman_in_massacre_and_punishment
+  - affinal_woman_in_punitive_massacre
+  - marriage_linked_woman_amid_intergroup_violence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.affinal-reciprocity-and-marriage-linked-relations
+  motif_id: affinal_reciprocity_and_marriage_linked_relations
+  label: Affinal reciprocity and marriage-linked relations
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core is reciprocal obligation between affinal groups, aligning with
+    sacred exchange and social reciprocity.
+  cautions: May be an ethnographic social-structure note rather than a narrative motif;
+    if framed as marriage law, sacred_law may be a secondary mapping.
+  suggested_aliases:
+  - marriage_linked_reciprocity
+  - affinal_reciprocal_obligations
+  - reciprocity_between_affines
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are kinship or ethnographic social-order observations
+  rather than clearly recurring narrative motifs; source context should decide whether
+  to index or exclude.
+- Affinal and totemic terms may carry culturally specific meanings; avoid broad normalization
+  that erases local social categories.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional placements only; kinship-focused and single-occurrence labels
+    need human evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1493
+  input_sha256: e9599f9c892e9e2ce77099bc66968287ef68849429e7c864f2a206c5d07a6383
+

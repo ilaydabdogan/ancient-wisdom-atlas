@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0002
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.abandoned-beloved-s-self-death
+  motif_id: abandoned_beloved_s_self_death
+  label: abandoned beloved's self-death
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a beloved whose abandonment leads to self-death,
+    fitting tragic love beyond ordinary bodily survival.
+  cautions: Single occurrence; if the passage emphasizes suicide, fate, or moral judgment
+    more than love, death_and_transformation, death_by_fate, or divine_judgment may
+    be better secondary review targets.
+  suggested_aliases:
+  - abandoned_beloved_self_death
+  - beloved_dies_after_abandonment
+  - self_death_of_abandoned_beloved
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-child-returns-and-identifies-mother
+  motif_id: abandoned_child_returns_and_identifies_mother
+  label: abandoned child returns and identifies mother
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: An abandoned child who survives, returns, and resolves maternal identity
+    fits the protected or extraordinary child complex.
+  cautions: Could also involve recognition_tokens_hidden_identity if the identifying
+    act depends on tokens, marks, or proofs; not primarily a death motif from the
+    label alone.
+  suggested_aliases:
+  - abandoned_child_returns_to_mother
+  - returned_abandoned_child_identifies_mother
+  - abandoned_child_recognizes_mother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-hero-rescued-after-near-death-exhaustion
+  motif_id: abandoned_hero_rescued_after_near_death_exhaustion
+  label: Abandoned hero rescued after near-death exhaustion
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Abandonment, near-death exhaustion, and rescue form an ordeal episode
+    within a hero's departure-trial-return pattern.
+  cautions: If rescue is explicitly supernatural, divine_intervention may be a stronger
+    mapping; if the emphasis is revival from death, death_and_transformation may apply.
+  suggested_aliases:
+  - hero_abandoned_and_rescued_near_death
+  - near_death_exhausted_hero_rescued
+  - abandoned_hero_rescue_after_exhaustion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandoned-rope-and-false-report-of-the-hero-s-death
+  motif_id: abandoned_rope_and_false_report_of_the_hero_s_death
+  label: Abandoned rope and false report of the hero's death
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: Abandoning the rope and falsely reporting death makes violated trust
+    the main narrative engine.
+  cautions: Could belong under descent if the rope is part of an underworld or cave
+    journey; the false death report may be too episode-specific without source review.
+  suggested_aliases:
+  - false_report_of_hero_death_after_abandoned_rope
+  - abandoned_descent_rope_and_false_death_report
+  - betrayal_by_abandoning_hero_s_rope
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandonment-at-water-after-mutual-descent
+  motif_id: abandonment_at_water_after_mutual_descent
+  label: abandonment at water after mutual descent
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: low
+  rationale: The label combines descent with abandonment at water, suggesting water
+    as boundary or dangerous transformative threshold.
+  cautions: Highly contextual; if the main action is underworld descent, map to descent,
+    and if the main action is betrayal, map to betrayal_violated_trust.
+  suggested_aliases:
+  - water_abandonment_after_descent
+  - abandonment_at_watery_threshold
+  - mutual_descent_ending_in_water_abandonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandonment-of-a-death-marked-house
+  motif_id: abandonment_of_a_death_marked_house
+  label: abandonment of a death-marked house
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Leaving a house marked by death fits ritual purity, taboo, and regulation
+    of death-contaminated space.
+  cautions: May be an ethnographic or legal detail rather than a narrative motif;
+    review whether death pollution, spirit danger, or funerary law is explicit.
+  suggested_aliases:
+  - death_marked_house_abandoned
+  - abandoning_death_polluted_house
+  - house_abandoned_after_death_marking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abandonment-of-a-settlement-after-death-because-of-fear-of-the-dead
+  motif_id: abandonment_of_a_settlement_after_death_because_of_fear_of_the_dead
+  label: abandonment of a settlement after death because of fear of the dead
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: restless_dead_haunting_vengeance
+  suggested_group_label: Restless Dead, Haunting, and Vengeance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Settlement abandonment motivated by fear of the dead points to active
+    or dangerous dead affecting the living community.
+  cautions: If the passage is only a mortuary custom or pollution rule, sacred_law
+    may fit better; culturally specific handling of the dead should be reviewed carefully.
+  suggested_aliases:
+  - settlement_abandoned_from_fear_of_dead
+  - abandoning_settlement_after_death
+  - fear_of_dead_causes_settlement_abandonment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abduction-or-hiding-of-a-separable-soul-by-spirits
+  motif_id: abduction_or_hiding_of_a_separable_soul_by_spirits
+  label: Abduction or hiding of a separable soul by spirits
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: high
+  rationale: A separable soul taken or hidden by spirits directly fits soul loss requiring
+    retrieval or restoration.
+  cautions: Also related to external_soul if the emphasis is life kept outside the
+    body rather than illness or recovery from soul loss.
+  suggested_aliases:
+  - separable_soul_hidden_by_spirits
+  - soul_abducted_by_spirits
+  - spirit_abduction_of_separable_soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.abnormal-birth-attributed-to-evil-spirit-danger
+  motif_id: abnormal_birth_attributed_to_evil_spirit_danger
+  label: abnormal birth attributed to evil-spirit danger
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines birth anomaly, spirit danger, and possible ritual
+    or etiological interpretation without enough functional evidence.
+  cautions: Culturally sensitive and potentially stigmatizing; could fit miraculous_child,
+    sacred_law, divine_judgment, or spirit-affliction depending on source context.
+  suggested_aliases:
+  - abnormal_birth_linked_to_spirit_danger
+  - dangerous_spirit_attributed_abnormal_birth
+  - evil_spirit_danger_at_abnormal_birth
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.above-ground-burial-to-prevent-corpse-disturbance
+  motif_id: above_ground_burial_to_prevent_corpse_disturbance
+  label: Above-ground burial to prevent corpse disturbance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes a burial practice protecting the corpse, fitting
+    funerary rites and care for the dead.
+  cautions: Not necessarily heroic; if ordinary mortuary practice or corpse-danger
+    avoidance is the focus, ancestor_rites or sacred_law may be better. Single occurrence
+    may be ethnographic detail.
+  suggested_aliases:
+  - above_ground_burial_prevents_disturbance
+  - corpse_protective_above_ground_burial
+  - raised_burial_to_protect_corpse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; placements should be
+  treated as provisional review aids rather than taxonomy edits.
+- Death-bucket labels often map better by narrative function, such as love, betrayal,
+  ritual purity, soul loss, or funerary practice, rather than by the presence of death
+  vocabulary alone.
+- Culturally specific mortuary and spirit-danger labels should be reviewed with source
+  evidence before broad pattern-query inclusion.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy changes made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0002
+  input_sha256: cd424b6d859383454af453cba780d4c4da3d891cd5a4836dca1f58b6a66a7c94
+

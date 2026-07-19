@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0853
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.god-released-from-ice-by-animal-action
+  motif_id: god_released_from_ice_by_animal_action
+  label: god released from ice by animal action
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines divine release, ice, and animal agency; function could
+    be creation, divine emergence, animal helper, or passage-specific episode detail.
+  cautions: Single Norse occurrence; source context is needed before mapping to cosmic_origin,
+    divine_intervention, or shapeshifter/animal-helper patterns.
+  suggested_aliases:
+  - deity_released_from_ice_by_animal
+  - divine_emergence_from_ice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.god-s-chariot-drawn-by-named-animals
+  motif_id: god_s_chariot_drawn_by_named_animals
+  label: God's chariot drawn by named animals
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Named animals drawing a deity's chariot reads as iconographic or passage-specific
+    divine attribute rather than a broad motif.
+  cautions: If the animals perform guidance, rescue, combat, or cosmic movement, remap
+    to divine_intervention, divine_warrior, or sacred_treasures with evidence.
+  suggested_aliases:
+  - divine_chariot_drawn_by_named_animals
+  - deity_chariot_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.god-sent-darkness-over-battle
+  motif_id: god_sent_darkness_over_battle
+  label: god-sent darkness over battle
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: high
+  rationale: A god alters battlefield conditions through darkness, fitting divine
+    intervention in combat under the divine-warrior complex.
+  cautions: Could secondarily index to divine_intervention if the focus is divine
+    guidance or concealment rather than combat outcome.
+  suggested_aliases:
+  - divine_darkness_over_battle
+  - god_sent_battlefield_darkness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-anger-redirected-toward-favored-city
+  motif_id: goddess_anger_redirected_toward_favored_city
+  label: goddess anger redirected toward favored city
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Divine anger redirected toward a city functions as sacred punishment
+    or hostile divine reckoning affecting a community.
+  cautions: If the passage emphasizes civic patronage or political fate rather than
+    moral punishment, royal_legitimacy or divine_intervention may be better secondary
+    mappings.
+  suggested_aliases:
+  - redirected_goddess_wrath_against_city
+  - divine_anger_against_favored_city
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-as-city-protector-and-song-patron
+  motif_id: goddess_as_city_protector_and_song_patron
+  label: goddess as city protector and song patron
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label joins two roles: civic tutelary protection and patronage of
+    song, which point to different existing groups.'
+  cautions: Map to divine_intervention for city-protector agency, enchanting_music
+    or sacred_knowledge for song patronage only if passage evidence centers that function.
+  suggested_aliases:
+  - goddess_as_city_protector
+  - goddess_as_patron_of_song
+  - civic_goddess_and_song_patron
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-as-giver-of-omens
+  motif_id: goddess_as_giver_of_omens
+  label: Goddess as giver of omens
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: role_variant
+  confidence: high
+  rationale: A deity giving omens fits divinatory access to hidden or future knowledge.
+  cautions: If the omen is a spontaneous dream or vision rather than formal omen-giving,
+    dream_and_vision may be a secondary or better placement.
+  suggested_aliases:
+  - deity_as_giver_of_omens
+  - divine_giver_of_omens
+  - goddess_sends_omens
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-as-patroness-of-textile-and-feminine-accomplishments
+  motif_id: goddess_as_patroness_of_textile_and_feminine_accomplishments
+  label: Goddess as patroness of textile and feminine accomplishments
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This is a divine patronage role tied to craft and gendered accomplishments,
+    not cleanly covered by current sacred_craft or mother_goddess groups.
+  cautions: May be an iconographic/cultic attribute rather than a narrative motif;
+    review whether textile craft has sacred creation, fate-weaving, or social-order
+    function.
+  suggested_aliases:
+  - goddess_patron_of_textiles
+  - divine_patroness_of_weaving
+  - goddess_patron_of_feminine_arts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-as-possible-hypostasis-of-another-goddess
+  motif_id: goddess_as_possible_hypostasis_of_another_goddess
+  label: goddess as possible hypostasis of another goddess
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes scholarly identification or theological classification
+    of a goddess, not a narrative motif.
+  cautions: Preserve as interpretive provenance if useful; do not use as pattern evidence
+    for divine identity or transmission.
+  suggested_aliases:
+  - possible_hypostasis_of_another_goddess
+  - goddess_identified_as_hypostasis
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-associated-with-restraint-and-lamenting-distress
+  motif_id: goddess_associated_with_restraint_and_lamenting_distress
+  label: goddess associated with restraint and lamenting distress
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an association cluster rather than a clear narrative function;
+    restraint and lament point to different groups.
+  cautions: If actual lament performance is central, consider lament_and_mourning;
+    if restraint is ethical or ritual, consider sacred_law or covenant. Otherwise
+    exclude as descriptive attribute.
+  suggested_aliases:
+  - goddess_of_restraint_and_lament
+  - divine_restraint_and_lamenting_distress
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.goddess-causing-cosmic-disturbance
+  motif_id: goddess_causing_cosmic_disturbance
+  label: Goddess causing cosmic disturbance
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A goddess directly disrupting cosmic or natural order is divine action
+    affecting the world.
+  cautions: If disturbance is punishment, divine_judgment may be stronger; if it reflects
+    creation or cosmic disorder, cosmic_origin or chaos may be relevant secondary
+    mappings.
+  suggested_aliases:
+  - divine_cosmic_disturbance
+  - goddess_disrupts_cosmic_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch describe divine roles or attributes rather than reusable
+  narrative motifs; human review should distinguish cultic/iconographic description
+  from motif function.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; ambiguous divine-attribute labels need
+    source evidence before final taxonomy mapping.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0853
+  input_sha256: dac5d2e3922f2b6aa98e43750393b843a9d02a6d9186db688a8729f1d990eb15
+

@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2334
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cosmogonic-origin-of-the-world
+  motif_id: cosmogonic_origin_of_the_world
+  label: cosmogonic origin of the world
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: alias
+  confidence: high
+  rationale: The label directly names world cosmogony and fits the existing creation-origin
+    group.
+  cautions: Broad generated label; preserve any local mechanism such as genealogy,
+    separation, sacrifice, or speech in evidence notes.
+  suggested_aliases:
+  - cosmogony
+  - world origin
+  - origin of the world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmogonic-separation-of-heaven-and-earth
+  motif_id: cosmogonic_separation_of_heaven_and_earth
+  label: Cosmogonic separation of heaven and earth
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: child
+  confidence: high
+  rationale: Separation of heaven and earth is a standard creation-ordering motif
+    within cosmic origin.
+  cautions: Could also relate to axis_mundi if the passage emphasizes later connection
+    between separated realms rather than initial creation.
+  suggested_aliases:
+  - separation of heaven and earth
+  - cosmic separation of sky and earth
+  - initial separation of elements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmogonic-sequence-through-air-and-water
+  motif_id: cosmogonic_sequence_through_air_and_water
+  label: Cosmogonic sequence through air and water
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: child
+  confidence: medium
+  rationale: The label describes a sequence of elemental emergence within a cosmogony,
+    fitting creation origin.
+  cautions: If the passage is theological-philosophical exposition rather than narrative
+    motif, keep as broad creation evidence rather than promoting a granular child.
+  suggested_aliases:
+  - elemental cosmogonic sequence
+  - creation through air and water
+  - cosmogonic emergence of elements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmogony-and-creation-traditions
+  motif_id: cosmogony_and_creation_traditions
+  label: cosmogony and creation traditions
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: broader_label
+  confidence: high
+  rationale: The label is a broad synonym for creation-origin traditions already covered
+    by cosmic_origin.
+  cautions: This may be a topic heading rather than a motif; index only if tied to
+    passage evidence about creation events.
+  suggested_aliases:
+  - cosmogony
+  - creation traditions
+  - creation myths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmographic-boundary-mapping-by-mountains-and-waters
+  motif_id: cosmographic_boundary_mapping_by_mountains_and_waters
+  label: cosmographic boundary mapping by mountains and waters
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Mountains and waters used to map cosmic boundaries fit sacred geography
+    and world-structure imagery near axis_mundi.
+  cautions: May instead belong to afterlife_passage or cosmic_origin if the passage
+    maps a visionary journey or creation layout; source context is needed.
+  suggested_aliases:
+  - cosmographic boundary mapping
+  - cosmic boundaries by mountains and waters
+  - sacred geographic boundary map
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmographic-four-region-world-design
+  motif_id: cosmographic_four_region_world_design
+  label: cosmographic four-region/world design
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A four-region world design usually expresses an ordered sacred geography
+    around a center or directional structure.
+  cautions: Culturally specific cosmography should be reviewed carefully; if no central
+    organizing place is present, axis_mundi or a future cosmography group may fit
+    better.
+  suggested_aliases:
+  - four-region cosmos
+  - quadripartite world design
+  - four-direction world layout
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmological-genealogy-of-a-disease-agent
+  motif_id: cosmological_genealogy_of_a_disease_agent
+  label: Cosmological genealogy of a disease agent
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines cosmic genealogy with disease-demon or affliction
+    material, and the dominant function is unclear.
+  cautions: Could fit cosmic_origin, divine_judgment, sacred_law, sacrifice/expulsion,
+    or spirit-affliction depending on whether the passage explains origin, punishment,
+    ritual diagnosis, or exorcism.
+  suggested_aliases:
+  - genealogy of disease agent
+  - cosmic origin of disease demon
+  - etiology of disease spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmos-as-living-organism
+  motif_id: cosmos_as_living_organism
+  label: cosmos as living organism
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Living Cosmos and Cosmic Body
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The living-cosmos image is a cosmological anthropology motif not cleanly
+    captured by creation origin, axis, or divine sovereignty.
+  cautions: May be philosophical doctrine rather than narrative motif; promote only
+    if similar cosmic-body or animated-cosmos labels recur across sources.
+  suggested_aliases:
+  - living cosmos
+  - animated cosmos
+  - cosmos as organism
+  - world as living body
+  suggested_new_group:
+    id: living_cosmos_cosmic_body
+    label: Living Cosmos and Cosmic Body
+    description: The cosmos is imagined as a living, ensouled, bodily, or organismic
+      whole whose parts correspond to life, mind, divinity, or human embodiment.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - sacred_knowledge
+    - duality
+    - supreme_ruler
+    reason_existing_groups_insufficient: Existing groups cover creation, axis, and
+      sovereignty, but not the recurring symbolic claim that the cosmos itself is
+      alive or body-like.
+- suggestion_id: normalization.suggestion.cosmos-as-living-spherical-head
+  motif_id: cosmos_as_living_spherical_head
+  label: Cosmos as living spherical head
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Living Cosmos and Cosmic Body
+  relationship: child
+  confidence: medium
+  rationale: A living spherical head is a specific body-image variant of an ensouled
+    or organismic cosmos.
+  cautions: Highly specific Hermetic imagery; preserve the spherical-head detail as
+    evidence and avoid a standalone canonical motif unless it recurs.
+  suggested_aliases:
+  - cosmic head
+  - spherical living cosmos
+  - cosmos as head
+  suggested_new_group:
+    id: living_cosmos_cosmic_body
+    label: Living Cosmos and Cosmic Body
+    description: The cosmos is imagined as a living, ensouled, bodily, or organismic
+      whole whose parts correspond to life, mind, divinity, or human embodiment.
+    parent_group_ids:
+    - cosmic_origin
+    related_group_ids:
+    - sacred_knowledge
+    - duality
+    - supreme_ruler
+    reason_existing_groups_insufficient: Existing groups do not clearly cover body-like
+      or organismic cosmological models beyond origin or axis imagery.
+- suggestion_id: normalization.suggestion.cosmos-as-plenum
+  motif_id: cosmos_as_plenum
+  label: Cosmos as plenum
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to be a philosophical cosmological doctrine rather
+    than a clear narrative or symbolic motif.
+  cautions: Could relate to living_cosmos_cosmic_body, cosmic_origin, sacred_knowledge,
+    or Hermetic metaphysics; review source evidence before indexing for pattern queries.
+  suggested_aliases:
+  - cosmic plenum
+  - fullness of the cosmos
+  - cosmos as fullness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Cosmogony labels are mostly broad creation-origin aliases; preserve local mechanisms
+  rather than creating separate motif families for one-off phrasing.
+- Hermetic cosmological abstractions may be doctrinal/philosophical rather than narrative
+  motifs and need human review before broad indexing.
+- No placement here implies historical transmission or shared origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for wave5c batch 2334.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2334
+  input_sha256: 989618d67cb651bced3b4ed85ebddf6bc001370ba0259cfe6964892c78a3bba8
+

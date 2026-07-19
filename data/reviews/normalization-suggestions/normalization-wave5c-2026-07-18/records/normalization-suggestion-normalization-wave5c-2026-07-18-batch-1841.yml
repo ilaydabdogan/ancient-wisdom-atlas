@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1841
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.festive-grape-and-marriage-celebration
+  motif_id: festive_grape_and_marriage_celebration
+  label: festive grape and marriage celebration
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: uncertain
+  confidence: low
+  rationale: Marriage celebration points toward sacred love, while grape imagery in
+    Sufi material may instead signal wine, divine intoxication, or mystical abundance.
+  cautions: Single occurrence and composite label; review passage evidence before
+    deciding between sacred_love, sacred_substance, sacred_marriage, or excluding
+    as scene detail.
+  suggested_aliases:
+  - marriage celebration with grape imagery
+  - festive grape marriage imagery
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.festive-intruder-bearing-wreaths-and-crowning-a-favored-person
+  motif_id: festive_intruder_bearing_wreaths_and_crowning_a_favored_person
+  label: festive intruder bearing wreaths and crowning a favored person
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly episode-specific scene detail rather than
+    a reusable symbolic or narrative motif.
+  cautions: If the passage shows ritual crowning, divine favor, or marriage selection
+    as the main function, remap to royal_legitimacy, sacred_love, or sacred_exchange
+    as appropriate.
+  suggested_aliases:
+  - wreath-bearing intruder crowns favored person
+  - festive crowning by intruder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-child-supports-parent
+  motif_id: filial_child_supports_parent
+  label: filial child supports parent
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Filial support functions as a sacred or ethical social obligation, matching
+    existing filial-piety aliases under sacred_law.
+  cautions: If the passage centers reciprocal care rather than normative duty, sacred_exchange
+    may be a secondary relation.
+  suggested_aliases:
+  - filial support of parent
+  - child supports parent as filial duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-duty-to-succor-an-endangered-mother
+  motif_id: filial_duty_to_succor_an_endangered_mother
+  label: filial duty to succor an endangered mother
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The central function is filial obligation to aid a parent, fitting sacred_law
+    as an ethical duty motif.
+  cautions: Arthurian context may also frame this as heroic rescue or quest duty;
+    review for hero_journey or sacred_combat if rescue action dominates.
+  suggested_aliases:
+  - filial rescue of endangered mother
+  - duty to succor mother
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-obedience-and-parental-presence-in-objects
+  motif_id: filial_obedience_and_parental_presence_in_objects
+  label: Filial obedience and parental presence in objects
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Filial obedience fits sacred_law, but parental presence in objects may
+    involve ancestor rites, relic-like objects, or memorial practice.
+  cautions: Composite label; review whether objects are ritual ancestor-presence media,
+    moral reminders, or merely narrative props.
+  suggested_aliases:
+  - filial obedience through parental objects
+  - parental presence in objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-refusal-to-abandon-aged-parent
+  motif_id: filial_refusal_to_abandon_aged_parent
+  label: Filial refusal to abandon aged parent
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Refusing to abandon an aged parent is a filial-piety obligation within
+    social and ethical order.
+  cautions: May also express sacred_exchange if framed as reciprocal family care rather
+    than law or virtue.
+  suggested_aliases:
+  - refusal to abandon aged parent
+  - filial care for aged parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-refusal-to-harm-parent
+  motif_id: filial_refusal_to_harm_parent
+  label: Filial refusal to harm parent
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Refusal to harm a parent is an ethical filial prohibition, matching sacred_law
+    and filial-piety variants.
+  cautions: If the scene is an ordeal, taboo, or conflict-resolution test, secondary
+    mapping may be needed.
+  suggested_aliases:
+  - refusal to injure parent
+  - filial nonviolence toward parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-revenge-for-a-murdered-parent
+  motif_id: filial_revenge_for_a_murdered_parent
+  label: filial revenge for a murdered parent
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Filial duty points to sacred_law, but revenge for murder may instead
+    belong to vengeance, sacred_combat, or divine_judgment depending on framing.
+  cautions: Review cultural and legal context carefully; do not collapse vendetta,
+    moral duty, and combat into one pattern without evidence.
+  suggested_aliases:
+  - filial vengeance for murdered parent
+  - revenge for slain parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-self-restraint-during-parental-illness
+  motif_id: filial_self_restraint_during_parental_illness
+  label: Filial self-restraint during parental illness
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: high
+  rationale: Self-restraint during a parent's illness is a filial ethical discipline
+    and fits sacred_law.
+  cautions: If the source emphasizes ascetic discipline rather than family duty, ethics
+    or sacrifice-related secondary indexing may be useful.
+  suggested_aliases:
+  - filial restraint during parent illness
+  - self-restraint for ill parent
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.filial-service-to-parents
+  motif_id: filial_service_to_parents
+  label: filial service to parents
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: alias
+  confidence: high
+  rationale: This is a direct filial-piety and social-obligation motif already represented
+    by sacred_law aliases.
+  cautions: Preserve the Confucian filial specificity in notes; do not reduce to generic
+    family affection.
+  suggested_aliases:
+  - filial piety and service
+  - service to parents
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several filial labels are likely variants of the existing filial_piety_and_mature_gratitude
+  / sacred_law normalization rather than distinct canonical motifs.
+- Composite one-off labels involving celebration, objects, or revenge need passage
+  review before final mapping.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; human review recommended for composite
+    and culturally specific filial-duty cases.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1841
+  input_sha256: 0e3409fdf13aea070b8ab074804def2ccf8163924aaabc9701f8b42fe66234b7
+

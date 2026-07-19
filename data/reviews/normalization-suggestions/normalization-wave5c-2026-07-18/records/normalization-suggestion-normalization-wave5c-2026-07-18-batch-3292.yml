@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3292
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.contamination-by-mingling
+  motif_id: contamination_by_mingling
+  label: contamination by mingling
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Contamination through mingling suggests ritual pollution, taboo, or sacred
+    contagion, which existing sacred_law already holds.
+  cautions: Label is abstract and source context is needed; could be moral metaphor,
+    purity law, or commentary artifact.
+  suggested_aliases:
+  - ritual_contamination_by_mingling
+  - pollution_through_mixing
+  - sacred_contagion_by_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contemplation-after-completed-task
+  motif_id: contemplation_after_completed_task
+  label: Contemplation after completed task
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: uncertain
+  confidence: low
+  rationale: Post-task contemplation may reflect discipline or interior practice,
+    but the motif function is not clear from the label alone.
+  cautions: May be a passage-specific action rather than a reusable motif; verify
+    whether it marks spiritual attainment, meditation practice, or narrative pause.
+  suggested_aliases:
+  - contemplation_after_action
+  - meditative_reflection_after_completion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contemplative-spontaneous-music
+  motif_id: contemplative_spontaneous_music
+  label: contemplative spontaneous music
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: Music arising in contemplation fits the broader sound-power and sacred
+    song complex already covered by enchanting_music.
+  cautions: If the passage emphasizes devotional expression rather than supernatural
+    compulsion, sacred_knowledge or mystical_quest may be relevant secondary mappings.
+  suggested_aliases:
+  - spontaneous_contemplative_song
+  - devotional_spontaneous_music
+  - contemplative_sacred_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contented-poverty-preferred-to-dependence-on-patrons
+  motif_id: contented_poverty_preferred_to_dependence_on_patrons
+  label: Contented poverty preferred to dependence on patrons
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: low
+  rationale: The label reads as an ethical or ascetic teaching about renunciation
+    and independence, close to mystical_quest but not clearly narrative.
+  cautions: Could be a proverb, didactic maxim, or social ethic rather than a motif;
+    review before using in pattern queries.
+  suggested_aliases:
+  - contented_poverty_over_patronage
+  - ascetic_independence_from_patronage
+  - poverty_preferred_to_dependency
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contentment-with-any-alms-food
+  motif_id: contentment_with_any_alms_food
+  label: Contentment with any alms food
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Acceptance of alms food expresses monastic renunciation and disciplined
+    contentment within an interior path.
+  cautions: Could also fit sacred_law if framed as monastic rule rather than spiritual
+    discipline; preserve alms detail.
+  suggested_aliases:
+  - contentment_with_alms
+  - acceptance_of_any_alms_food
+  - renunciant_contentment_with_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contentment-with-received-food-or-alms
+  motif_id: contentment_with_received_food_or_alms
+  label: Contentment with received food or alms
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Contentment with whatever food is received is an ascetic discipline aligned
+    with renunciation in the mystical_quest group.
+  cautions: Likely overlaps with contentment_with_any_alms_food; consider alias merge
+    after source review.
+  suggested_aliases:
+  - contentment_with_alms
+  - contentment_with_received_food
+  - renunciant_acceptance_of_alms
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continued-respect-for-paternal-totem-after-incorporation-or-movement
+  motif_id: continued_respect_for_paternal_totem_after_incorporation_or_movement
+  label: continued respect for paternal totem after incorporation or movement
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: Respect for a paternal totem may involve kinship obligation, taboo, and
+    sacred social order, but no current group captures totemic continuity cleanly.
+  cautions: Culturally specific and possibly ethnographic rather than narrative; requires
+    human review before mapping or proposing a totemic-kinship group.
+  suggested_aliases:
+  - continued_respect_for_paternal_totem
+  - paternal_totem_obligation_after_movement
+  - totemic_respect_after_incorporation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continuing-hidden-defense-of-a-place
+  motif_id: continuing_hidden_defense_of_a_place
+  label: Continuing hidden defense of a place
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: An unseen ongoing protection of a place fits hidden supernatural guardianship
+    or divine intervention.
+  cautions: If the defender is an ancestor, spirit, landscape power, or human strategy,
+    placement may change; source evidence is needed.
+  suggested_aliases:
+  - hidden_guardianship_of_place
+  - unseen_defense_of_a_place
+  - continuing_supernatural_place_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continuity-between-old-ivory-bone-harpoon-forms-and-newer-iron-forms
+  motif_id: continuity_between_old_ivory_bone_harpoon_forms_and_newer_iron_forms
+  label: continuity between old ivory/bone harpoon forms and newer iron forms
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes material-culture continuity or technical classification
+    rather than a symbolic or narrative motif.
+  cautions: Preserve as ethnographic or artifact-history evidence if needed, but exclude
+    from motif pattern queries unless a mythic function is documented.
+  suggested_aliases:
+  - continuity_of_harpoon_forms
+  - material_continuity_between_bone_and_iron_harpoons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.continuous-dance-driven-by-repeated-rhythm
+  motif_id: continuous_dance_driven_by_repeated_rhythm
+  label: continuous dance driven by repeated rhythm
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: low
+  rationale: Repeated rhythm driving continuous dance may involve sound power or ritual
+    performance, but the function is unclear.
+  cautions: Could be ritual practice, trance, dance description, or passage detail;
+    avoid mapping to enchanting_music unless the rhythm has sacred or compulsive force.
+  suggested_aliases:
+  - rhythmic_continuous_dance
+  - repeated_rhythm_drives_dance
+  - ritual_dance_with_repeated_rhythm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ethical, ritual, or ethnographic
+  descriptions; source context should determine whether they become queryable motifs
+  or evidence notes.
+- The two Buddhist alms-contentment labels likely overlap and may be candidates for
+  alias consolidation after human review.
+- Totemic and culturally specific labels should be reviewed carefully to avoid flattening
+  local kinship and ritual meanings into broad sacred-law categories.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3292
+  input_sha256: 791fbff5d11f29ece620100d2b2947b9091c3c60f4c74a5be92e3d9186c588eb
+

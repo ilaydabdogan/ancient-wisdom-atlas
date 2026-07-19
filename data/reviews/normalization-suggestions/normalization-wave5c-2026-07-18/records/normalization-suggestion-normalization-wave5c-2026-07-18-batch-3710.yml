@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3710
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.mythical-beings-and-omens-as-chapter-topics
+  motif_id: mythical_beings_and_omens_as_chapter_topics
+  label: Mythical beings and omens as chapter topics
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes chapter organization or topical headings, not a narrative
+    or symbolic motif.
+  cautions: If passages contain actual beings or omens, extract those as separate
+    motifs rather than indexing the heading.
+  suggested_aliases:
+  - chapter_topics_mythical_beings_and_omens
+  - mythic_topics_as_textual_headings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythical-paradise-abode-of-yima-and-the-righteous
+  motif_id: mythical_paradise_abode_of_yima_and_the_righteous
+  label: mythical paradise abode of Yima and the righteous
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: medium
+  rationale: A paradisal abode of a mythic ruler and righteous people fits a blessed
+    otherworld or enchanted realm.
+  cautions: If the passage frames the abode as a postmortem destination with judgment
+    stages, afterlife_passage may be a secondary mapping; if it preserves life through
+    catastrophe, review flood_and_renewal or sacred_vessel links.
+  suggested_aliases:
+  - paradisal_abode_of_yima
+  - abode_of_yima_and_the_righteous
+  - mythical_paradise_of_the_righteous
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythical-white-folk
+  motif_id: mythical_white_folk
+  label: mythical white folk
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too ambiguous to tell whether it refers to an otherworldly
+    race, ancestor group, culture hero people, colonial memory, or ethnographic descriptor.
+  cautions: Culturally sensitive wording and single occurrence; avoid normalizing
+    without source context and Indigenous terminology.
+  suggested_aliases:
+  - mythic_white_people
+  - white_folk_in_mythic_account
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythology-cast-as-pseudo-history
+  motif_id: mythology_cast_as_pseudo_history
+  label: mythology cast as pseudo-history
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes historiographic framing of mythic material rather than
+    a motif within the narrative world.
+  cautions: Preserve as a textual or genre note if useful; do not treat as evidence
+    of a mythic event pattern.
+  suggested_aliases:
+  - myth_as_pseudo_history
+  - historiographic_framing_of_mythology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mythology-interspersed-with-pseudo-history
+  motif_id: mythology_interspersed_with_pseudo_history
+  label: mythology interspersed with pseudo-history
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label concerns composition or scholarly genre classification, not
+    a recurring narrative motif.
+  cautions: Use only as provenance or textual framing; individual mythic episodes
+    should receive their own motif mappings.
+  suggested_aliases:
+  - myth_interwoven_with_pseudo_history
+  - pseudo_historical_framing_of_mythology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.myths-altered-through-transmission-and-multiple-versions
+  motif_id: myths_altered_through_transmission_and_multiple_versions
+  label: myths altered through transmission and multiple versions
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a transmission or variant-history observation rather than a motif
+    for pattern queries.
+  cautions: Keep transmission claims separate from motif normalization; preserve only
+    as textual provenance if needed.
+  suggested_aliases:
+  - multiple_versions_of_myths
+  - transmission_altered_myth_variants
+  - myth_variant_transmission_note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.n-ga-witness-to-the-arising-buddha
+  motif_id: n_ga_witness_to_the_arising_buddha
+  label: Nāga witness to the arising Buddha
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: serpent_guardian
+  suggested_group_label: Serpent and Serpent Guardian
+  relationship: role_variant
+  confidence: medium
+  rationale: A nāga is a serpent-like sacred being, and the label gives it a witnessing/attendant
+    role around a sacred figure's manifestation.
+  cautions: If the passage emphasizes testimony to enlightenment rather than serpent
+    agency, sacred_knowledge, theophany, or divine_intervention may be better secondary
+    mappings.
+  suggested_aliases:
+  - naga_witness_to_buddha
+  - serpent_witness_to_buddha_arising
+  - naga_as_witness_to_sacred_manifestation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nail-trimming-by-biting
+  motif_id: nail_trimming_by_biting
+  label: nail trimming by biting
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to be an isolated bodily practice detail with no clear
+    mythic function supplied.
+  cautions: If source context makes it a taboo, ritual prohibition, transformation
+    marker, or culture-origin practice, review for sacred_law or culture_hero instead.
+  suggested_aliases:
+  - biting_nails_to_trim_them
+  - nail_biting_as_trimming_practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.naive-bargain-causes-loss-of-goods
+  motif_id: naive_bargain_causes_loss_of_goods
+  label: Naive bargain causes loss of goods
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A foolish or naive bargain causing loss commonly functions as a deception,
+    fable reversal, or trickster exchange pattern.
+  cautions: If no deceiver is present and the emphasis is moral instruction about
+    prudence, sacred_knowledge or divine_judgment may fit better.
+  suggested_aliases:
+  - foolish_bargain_causes_loss
+  - naive_exchange_leads_to_loss
+  - bad_bargain_loss_of_goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.naked-cannibal-foreigners-raid-for-human-food
+  motif_id: naked_cannibal_foreigners_raid_for_human_food
+  label: naked cannibal foreigners raid for human food
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines hostile raiding, cannibalism, and foreignness in culturally
+    sensitive wording without enough source context for safe placement.
+  cautions: Could reflect demonized enemies, monstrous outsiders, war captives, famine/cannibalism,
+    or colonial/ethnographic framing; review source evidence before mapping to sacred_combat,
+    chaos, or trickster/monster patterns.
+  suggested_aliases:
+  - cannibal_foreigners_raid_for_human_food
+  - hostile_cannibal_outsiders
+  - cannibal_raiders_seek_human_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are textual, genre, or transmission artifacts and should
+  be excluded from Pattern Explorer motif queries.
+- Culturally sensitive labels involving ethnicized or outsider groups need source
+  review before any symbolic normalization.
+- Suggested placements are provisional and do not imply transmission, borrowing, or
+  common origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch reviewed for provisional normalization suggestions only; no taxonomy
+    edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3710
+  input_sha256: 948cfa52d15604fa83924aa02fda99a533541e7b075ec4bd34d5fbcd4a185663
+

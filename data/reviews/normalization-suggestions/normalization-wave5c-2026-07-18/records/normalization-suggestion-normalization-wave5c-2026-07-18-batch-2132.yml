@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2132
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.conventionalized-pantomimic-animal-dance
+  motif_id: conventionalized_pantomimic_animal_dance
+  label: conventionalized pantomimic animal dance
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests ritual or performative animal imitation, but no existing
+    group cleanly covers ceremonial animal dance without more evidence.
+  cautions: Single occurrence; may be ethnographic performance detail rather than
+    a motif. Could relate to shapeshifter, sacred_time, sacrifice, or sacred_law depending
+    on ritual function.
+  suggested_aliases:
+  - animal_mimetic_dance
+  - pantomimic_animal_dance
+  - ritual_animal_imitation_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_time
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cooked-birds-reduced-to-dung-and-heads
+  motif_id: cooked_birds_reduced_to_dung_and_heads
+  label: cooked birds reduced to dung and heads
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is a highly specific episode outcome involving animal remains,
+    without a clear reusable narrative function.
+  cautions: If source evidence shows magical transformation, trickster deception,
+    or taboo punishment, preserve the detail under that functional motif instead of
+    excluding.
+  suggested_aliases:
+  - cooked_birds_transformed_into_refuse
+  - birds_reduced_to_dung_and_heads
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cooperative-animal-helpers-defeat-a-giant-dangerous-animal
+  motif_id: cooperative_animal_helpers_defeat_a_giant_dangerous_animal
+  label: cooperative animal helpers defeat a giant dangerous animal
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: The existing divine_intervention group includes animal_helpers; cooperative
+    animal helpers defeating danger fits that helper-function pattern.
+  cautions: If the animals are protagonists rather than helpers to a human or sacred
+    figure, sacred_combat or trickster may be better secondary mappings.
+  suggested_aliases:
+  - cooperative_animal_helpers
+  - animal_helpers_defeat_monster
+  - animal_allies_defeat_giant_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cooperative-animal-war-against-a-devouring-monster
+  motif_id: cooperative_animal_war_against_a_devouring_monster
+  label: Cooperative animal war against a devouring monster
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The central function is organized conflict against a devouring monster,
+    fitting broad combat more than animal symbolism alone.
+  cautions: Could also involve divine_intervention if animals function as helpers,
+    or trickster if victory comes by deception. Do not infer cosmic combat without
+    source evidence.
+  suggested_aliases:
+  - animal_war_against_devouring_monster
+  - cooperative_animals_fight_monster
+  - animal_collective_defeats_devouring_monster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - trickster
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.coordinated-start-of-an-animal-drawn-sledge
+  motif_id: coordinated_start_of_an_animal_drawn_sledge
+  label: Coordinated start of an animal-drawn sledge
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: high
+  rationale: This reads as an overly specific action detail rather than a symbolic
+    or narrative motif.
+  cautions: If the sledge journey is an ordeal, otherworld passage, or animal-helper
+    episode, map the broader passage function instead.
+  suggested_aliases:
+  - animal_drawn_sledge_start
+  - coordinated_sledge_departure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-and-natural-transformations-into-abundance
+  motif_id: cosmic_and_natural_transformations_into_abundance
+  label: cosmic and natural transformations into abundance
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Transformation of nature into abundance resembles miraculous provision,
+    which is already covered under divine_intervention aliases and children.
+  cautions: Broad abstract label; may instead belong to sacred_substance, cosmic_origin,
+    or sacred_exchange depending on whether abundance is created, gifted, or ritually
+    mediated.
+  suggested_aliases:
+  - natural_transformation_into_abundance
+  - cosmic_abundance_transformation
+  - miraculous_natural_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - cosmic_origin
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-animal-as-source-of-earthly-species
+  motif_id: cosmic_animal_as_source_of_earthly_species
+  label: cosmic animal as source of earthly species
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif explains the origin of earthly species from a cosmic animal,
+    which is an origin and creation function.
+  cautions: If the animal is sacrificed or dismembered to generate species, primordial_sacrifice
+    should be a secondary or narrower mapping.
+  suggested_aliases:
+  - cosmic_animal_source_of_species
+  - earthly_species_from_cosmic_animal
+  - primordial_animal_generates_species
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - primordial_sacrifice
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-animal-causing-tides-waves-and-lightning
+  motif_id: cosmic_animal_causing_tides_waves_and_lightning
+  label: cosmic animal causing tides, waves, and lightning
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A cosmic animal etiologically causing natural phenomena fits the creation/origin
+    group’s landscape and natural etiology scope.
+  cautions: If the animal continues to regulate the cosmos rather than explaining
+    origins, a future cosmic-animal support/regulation group may be useful; current
+    placement is broad.
+  suggested_aliases:
+  - cosmic_animal_causes_natural_phenomena
+  - animal_cause_of_tides_waves_lightning
+  - cosmic_beast_weather_and_tides
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-animal-support-causing-earthquakes
+  motif_id: cosmic_animal_support_causing_earthquakes
+  label: cosmic animal support causing earthquakes
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A cosmic animal supporting the world and causing earthquakes functions
+    as a world-support or cosmic-structure image, close to axis mundi/world center
+    patterns.
+  cautions: Existing taxonomy lacks a dedicated world-bearing animal group; if many
+    such labels recur, consider a new subgroup under cosmic_origin or axis_mundi.
+  suggested_aliases:
+  - world_supporting_animal_causes_earthquakes
+  - cosmic_animal_supports_earth
+  - earthquake_caused_by_world_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_origin
+    - chaos
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmic-bird-barred-from-entry
+  motif_id: cosmic_bird_barred_from_entry
+  label: Cosmic bird barred from entry
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label gives a striking image but not enough function: entry to what
+    realm, by whom, and with what consequence is unclear.'
+  cautions: Could involve threshold_guardian, cosmic_origin, otherworld, or exclusion
+    from a sacred space. Needs passage evidence before grouping.
+  suggested_aliases:
+  - barred_cosmic_bird
+  - cosmic_bird_denied_entry
+  - bird_excluded_from_cosmic_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - otherworld
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several animal-cosmic labels point to world-support, natural-phenomenon etiology,
+  or species-origin functions; consider monitoring recurrence before proposing a dedicated
+  cosmic-animal group.
+- Over-specific single-occurrence animal action labels should generally be preserved
+  as evidence notes unless their narrative function is clear.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; culturally specific performance and cosmic-animal
+    labels need source-level review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2132
+  input_sha256: 90699bd97f36581a2076986d430a5a4f51147b5cc4a8448d1fb03f5b739c17eb
+

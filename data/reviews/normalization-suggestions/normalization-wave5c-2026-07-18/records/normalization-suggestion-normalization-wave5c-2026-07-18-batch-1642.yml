@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1642
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.past-insult-blocking-revenge-alliance
+  motif_id: past_insult_blocking_revenge_alliance
+  label: past insult blocking revenge alliance
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on a prior offense preventing alliance or revenge cooperation,
+    making social bond and broken obligation the key function.
+  cautions: Single occurrence; could instead fit betrayal_violated_trust or sacred_combat
+    if the passage emphasizes feud action over alliance logic.
+  suggested_aliases:
+  - past insult prevents alliance
+  - prior offense blocks revenge pact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pastoral-order-contrasted-with-violent-predation
+  motif_id: pastoral_order_contrasted_with_violent_predation
+  label: Pastoral order contrasted with violent predation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an abstract contrast between ordered livelihood and predatory
+    violence, but the narrative function is unclear.
+  cautions: May be literary framing, ethical contrast, animal symbolism, or social-order
+    theme; source evidence is needed before mapping to sacred_law, divine_judgment,
+    trickster, or sacred_combat.
+  suggested_aliases:
+  - pastoral order versus predation
+  - herding order contrasted with violent predation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patrilocal-transfer-with-exceptional-heir-seeking-matrilocal-arrangement
+  motif_id: patrilocal_transfer_with_exceptional_heir_seeking_matrilocal_arrangement
+  label: patrilocal transfer with exceptional heir-seeking matrilocal arrangement
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a very specific kinship-residence arrangement rather
+    than a clear reusable mythic motif.
+  cautions: Culturally sensitive social-structure terminology; may be ethnographic
+    context or source analysis rather than motif evidence. Review before excluding
+    or mapping to royal_legitimacy/sacred_law.
+  suggested_aliases:
+  - exceptional heir seeks matrilocal arrangement
+  - patrilocal transfer with matrilocal exception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.payment-made-before-oath-as-consequential-legal-fact
+  motif_id: payment_made_before_oath_as_consequential_legal_fact
+  label: payment made before oath as consequential legal fact
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: narrower_than
+  confidence: medium
+  rationale: Payment and oath together function as a binding legal-sacred obligation
+    with consequences for social order.
+  cautions: May be a passage-specific legal detail; if the oath itself is performative,
+    curse_blessing_speech may be a useful secondary mapping.
+  suggested_aliases:
+  - payment before oath as binding fact
+  - pre-oath payment with legal consequence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-making-dance
+  motif_id: peace_making_dance
+  label: peace-making dance
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A dance used to make peace functions as a reciprocal ritual act repairing
+    social relationship.
+  cautions: If the passage emphasizes law or treaty rather than ritual performance,
+    covenant may be a better parent; avoid generalizing beyond the specific tradition
+    without evidence.
+  suggested_aliases:
+  - reconciliation dance
+  - ritual dance for peacemaking
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-making-through-appointed-mediator
+  motif_id: peace_making_through_appointed_mediator
+  label: peace-making through appointed mediator
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: An appointed mediator repairs or establishes a binding social peace,
+    fitting covenantal social order.
+  cautions: May warrant a future peacemaking/mediation subgroup if many similar labels
+    recur; current occurrence count is low.
+  suggested_aliases:
+  - appointed mediator makes peace
+  - mediated reconciliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-making-through-youths-who-move-between-enemy-camps
+  motif_id: peace_making_through_youths_who_move_between_enemy_camps
+  label: Peace-making through youths who move between enemy camps
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: role_variant
+  confidence: medium
+  rationale: Youths moving between enemy camps serve a mediator role to repair hostile
+    relations and establish peace.
+  cautions: Highly contextual role detail; if the youth liminality is ritually emphasized,
+    initiation or threshold-related mapping may be secondary.
+  suggested_aliases:
+  - youth mediators between enemy camps
+  - peace made by youths crossing between enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peace-making-visit-becomes-an-ambush
+  motif_id: peace_making_visit_becomes_an_ambush
+  label: Peace-making visit becomes an ambush
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif turns a promised peace encounter into violence, making violated
+    trust the central engine.
+  cautions: Could also index under sacred_combat if the ambush sequence is the focus;
+    preserve the peacemaking-pretext detail.
+  suggested_aliases:
+  - ambush under cover of peacemaking
+  - peace visit betrayed by ambush
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peaceful-supplication-before-a-foreign-king
+  motif_id: peaceful_supplication_before_a_foreign_king
+  label: peaceful supplication before a foreign king
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supplication before a ruler seeks mercy, peace, or binding political
+    accommodation, matching existing supplication/covenant patterns.
+  cautions: If the emphasis is royal authority rather than supplication, royal_legitimacy
+    may be a secondary group.
+  suggested_aliases:
+  - supplication before foreign king
+  - peace petition to foreign ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.peacemaking-through-controlled-threat-and-endurance
+  motif_id: peacemaking_through_controlled_threat_and_endurance
+  label: Peacemaking through controlled threat and endurance
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label suggests a culturally specific reconciliation ordeal involving
+    threat and endurance, but its ritual structure is unclear.
+  cautions: Needs source review to avoid flattening local practice. Could map to covenant,
+    sacred_exchange, initiation, or sacred_combat depending on whether peace, ritual
+    reciprocity, ordeal, or controlled violence is primary.
+  suggested_aliases:
+  - controlled threat as peacemaking
+  - endurance ordeal for reconciliation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items concern peacemaking, mediation, and reconciliation. Existing covenant
+  and sacred_exchange can hold most single-occurrence labels provisionally; consider
+  a future reconciliation/mediation subgroup only if recurrence increases across sources.
+- Do not treat placement under covenant or sacred_exchange as evidence of historical
+  relationship among traditions; these are functional normalization suggestions only.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional mappings emphasize social-bond repair, supplication, and betrayal.
+    Low-confidence or culturally specific kinship/ritual labels require source-level
+    review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1642
+  input_sha256: 7f8b14d04fc85c43ac696b8735afd3557c275976c8e8e9f18d9e39846743e841
+

@@ -1,0 +1,289 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2812
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.severed-enemy-head-displayed-at-a-gate
+  motif_id: severed_enemy_head_displayed_at_a_gate
+  label: Severed enemy head displayed at a gate
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A displayed enemy head functions as a trophy or public proof of victory
+    within combat ritual and warrior conflict.
+  cautions: Single occurrence and gate setting may be episode-specific; preserve the
+    display-at-gate detail as evidence rather than promoting it.
+  suggested_aliases:
+  - severed_head_displayed_as_victory_token
+  - enemy_head_displayed_as_trophy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severed-head-as-proof-of-victory
+  motif_id: severed_head_as_proof_of_victory
+  label: Severed head as proof of victory
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: alias
+  confidence: high
+  rationale: This closely matches existing severed-head trophy/proof motifs under
+    sacred combat.
+  cautions: Could also support divine_warrior when the combatant is explicitly divinely
+    empowered, but the proof-token function fits sacred_combat best.
+  suggested_aliases:
+  - severed_head_displayed_as_victory_token
+  - hero_bearing_severed_heads_as_trophies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severed-head-taken-as-proof-for-a-reward
+  motif_id: severed_head_taken_as_proof_for_a_reward
+  label: severed head taken as proof for a reward
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: high
+  rationale: The severed head serves as material proof of combat success, a variant
+    of victory-token or trophy-head motifs.
+  cautions: Reward-claim detail may overlap with recognition/proof-token patterns,
+    but the defining action is martial trophy proof.
+  suggested_aliases:
+  - severed_head_as_proof_of_victory
+  - severed_head_displayed_as_victory_token
+  - victory_trophy_claimed_for_reward
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severed-monster-head-continues-into-the-lower-realm
+  motif_id: severed_monster_head_continues_into_the_lower_realm
+  label: severed monster head continues into the lower realm
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines monster beheading with motion into a lower realm,
+    which could indicate combat, descent, or postmortem transformation.
+  cautions: Source evidence is needed to decide whether the lower realm is underworld
+    descent, monster survival, corpse disposal, or an episode-specific detail.
+  suggested_aliases:
+  - severed_monster_head_descends_to_lower_realm
+  - beheaded_monster_head_enters_underworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.severed-monster-heads-degraded-in-the-household
+  motif_id: severed_monster_heads_degraded_in_the_household
+  label: Severed monster heads degraded in the household
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Severed monster heads suggest combat trophies, but household degradation
+    may be a culturally specific ritual, humiliation, or narrative detail.
+  cautions: Culturally sensitive and single-occurrence; review passage context before
+    treating as a broad combat motif.
+  suggested_aliases:
+  - degraded_monster_heads_as_household_trophies
+  - severed_monster_heads_humiliated_after_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shaman-accompanying-a-war-party
+  motif_id: shaman_accompanying_a_war_party
+  label: Shaman accompanying a war party
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A ritual specialist accompanying warriors likely mediates supernatural
+    protection, guidance, or power in human conflict.
+  cautions: If the passage only notes a social role in a war party without supernatural
+    action, it may be too contextual for pattern queries.
+  suggested_aliases:
+  - ritual_specialist_accompanies_war_party
+  - shamanic_guidance_in_warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-contest-by-proxy-champions
+  motif_id: shamanic_contest_by_proxy_champions
+  label: shamanic contest by proxy champions
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve sacred combat, shamanic ordeal, spirit contest,
+    or ritual substitution by champions.
+  cautions: Culturally specific shamanic contest structures need source review; do
+    not collapse automatically into ordinary single combat.
+  suggested_aliases:
+  - ritual_contest_by_proxy_champions
+  - shamanic_proxy_combat
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-divination-identifies-a-hostile-enemy-and-leads-to-war
+  motif_id: shamanic_divination_identifies_a_hostile_enemy_and_leads_to_war
+  label: shamanic divination identifies a hostile enemy and leads to war
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is divinatory identification of a hidden enemy that motivates
+    collective action.
+  cautions: The ensuing war is important context, but the motif is not simply combat;
+    review culturally specific shamanic divination carefully.
+  suggested_aliases:
+  - divination_identifies_hidden_enemy
+  - ritual_divination_leads_to_war
+  - shamanic_enemy_identification
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shamanic-possession-empowers-warfare
+  motif_id: shamanic_possession_empowers_warfare
+  label: Shamanic possession empowers warfare
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernatural possession empowering warriors fits sacred or divinely empowered
+    combat.
+  cautions: May require secondary relation to divine_intervention if the emphasis
+    is spirit agency rather than warrior role; culturally sensitive terminology should
+    be checked.
+  suggested_aliases:
+  - spirit_possession_empowers_warfare
+  - supernatural_empowerment_in_war
+  - possessed_warrior_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.shared-estonian-finnish-hero-or-legend-complex
+  motif_id: shared_estonian_finnish_hero_or_legend_complex
+  label: Shared Estonian-Finnish hero or legend complex
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a comparative or transmission classification rather
+    than a narrative motif.
+  cautions: Keep any specific hero actions as separate motifs; do not use this as
+    evidence for borrowing or shared origin in pattern queries.
+  suggested_aliases:
+  - shared_hero_legend_complex
+  - estonian_finnish_legend_complex
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several severed-head labels are single-occurrence and should preserve trophy/proof/display
+  details as evidence rather than becoming new canonical motifs.
+- Shamanic warfare labels are culturally specific and may require source-context review
+  to distinguish ritual role, possession, divination, and combat function.
+- No transmission or common-origin claim is implied by any placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review recommended for
+    shamanic and lower-realm severed-head items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2812
+  input_sha256: e0da2d0717c54a71e564134da8d59f998ecf03a00e245dba7a788d4986f11c26
+

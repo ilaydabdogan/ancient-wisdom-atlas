@@ -1,0 +1,284 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4101
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.worked-over-european-tale-in-philippine-setting
+  motif_id: worked_over_european_tale_in_philippine_setting
+  label: Worked-over European tale in Philippine setting
+  occurrences: 1
+  traditions:
+  - filipino
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes tale transmission/adaptation and setting, not a narrative
+    motif within the tale.
+  cautions: Preserve as provenance or classification metadata; do not use as evidence
+    of borrowing in motif queries.
+  suggested_aliases:
+  - worked_over_tale_setting_note
+  - european_tale_adapted_in_philippine_setting
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrathful-envoy-awakens-a-negligent-ally
+  motif_id: wrathful_envoy_awakens_a_negligent_ally
+  label: Wrathful envoy awakens a negligent ally
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: An envoy rousing an ally to action fits martial mobilization and alliance
+    duties in a conflict setting.
+  cautions: If the passage emphasizes messenger authority or divine command rather
+    than war mobilization, divine_intervention or covenant may be secondary fits.
+  suggested_aliases:
+  - envoy_rouses_negligent_ally
+  - angry_messenger_awakes_delaying_ally
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrathful-leader-leads-massacre
+  motif_id: wrathful_leader_leads_massacre
+  label: wrathful leader leads massacre
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate sacred combat, vengeance, judgment, or a passage-specific
+    violent episode.
+  cautions: Needs source context to distinguish ritualized warfare, moral punishment,
+    revenge massacre, or ordinary narrative violence.
+  suggested_aliases:
+  - wrathful_leader_massacre
+  - angry_chief_leads_slaughter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrestling-followed-by-bodily-elongation-and-naming
+  motif_id: wrestling_followed_by_bodily_elongation_and_naming
+  label: Wrestling followed by bodily elongation and naming
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines contest, bodily transformation, and naming/etiology; the dominant
+    function is unclear from the label alone.
+  cautions: Could fit shapeshifter, cosmic_origin/place or name etiology, or sacred_combat
+    depending on whether the episode explains a body form, name, or victory.
+  suggested_aliases:
+  - wrestling_causes_bodily_elongation_and_name
+  - bodily_elongation_after_wrestling_as_naming_event
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.written-apocalyptic-tradition-attributed-to-moses
+  motif_id: written_apocalyptic_tradition_attributed_to_moses
+  label: written apocalyptic tradition attributed to Moses
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes attribution and genre of a written tradition, not
+    a reusable mythic motif.
+  cautions: If a passage contains apocalyptic vision content, index that content separately
+    under prophecy_divination, dream_and_vision, divine_judgment, or sacred_knowledge.
+  suggested_aliases:
+  - apocalyptic_text_attributed_to_moses
+  - mosaic_apocalyptic_attribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.written-plea-for-aid-sent-by-projectile
+  motif_id: written_plea_for_aid_sent_by_projectile
+  label: Written plea for aid sent by projectile
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A message for aid sent by projectile likely functions as battlefield
+    or siege communication within conflict.
+  cautions: If the projectile delivery is magical or the focus is the written token
+    itself, sacred_treasures or storytelling_as_power may be secondary; single occurrence
+    may be too specific.
+  suggested_aliases:
+  - plea_for_aid_sent_by_arrow
+  - written_message_sent_by_projectile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.written-record-of-character
+  motif_id: written_record_of_character
+  label: written record of character
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A written record evaluating character fits moral and social order, especially
+    in an ethical Confucian context.
+  cautions: If the writing is a heavenly or cosmic record, sacred_knowledge or divine_judgment
+    may be better; if merely biographical, exclude as textual detail.
+  suggested_aliases:
+  - written_moral_record
+  - record_of_character_and_conduct
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.written-tablet-altered-after-calamity
+  motif_id: written_tablet_altered_after_calamity
+  label: Written tablet altered after calamity
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A written tablet after calamity could be divine decree, fate record,
+    textual artifact, or narrative object.
+  cautions: Needs evidence for whether the tablet records destiny, law, omen, or is
+    an editorial/source artifact; avoid assuming cosmic record from label alone.
+  suggested_aliases:
+  - tablet_altered_after_disaster
+  - post_calamity_written_tablet_alteration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrong-or-duplicate-magical-object-fails
+  motif_id: wrong_or_duplicate_magical_object_fails
+  label: Wrong or duplicate magical object fails
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on the efficacy or failure of a magical power object
+    when copied or substituted.
+  cautions: If the failed duplicate is part of deceptive imitation or hubris, pride_and_downfall
+    may also apply; preserve object-specific details as evidence.
+  suggested_aliases:
+  - failed_duplicate_magical_object
+  - wrong_magical_object_lacks_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.wrongdoer-suffers-the-fate-prepared-for-others
+  motif_id: wrongdoer_suffers_the_fate_prepared_for_others
+  label: Wrongdoer suffers the fate prepared for others
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: high
+  rationale: The wrongdoer receiving the intended harm is a clear moral reversal and
+    reckoning pattern.
+  cautions: If no sacred or moral agency is present, it may be a trickster/fable reversal
+    rather than divine judgment; consider trickster as secondary in animal-fable contexts.
+  suggested_aliases:
+  - harm_planned_for_others_rebounds_on_wrongdoer
+  - wrongdoer_caught_in_own_trap
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and context-dependent; recommendations should
+  be treated as provisional until passage evidence is reviewed.
+- Labels describing attribution, adaptation, or textual tradition were excluded as
+  meta-textual rather than mapped as motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: ai_api
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4101
+  input_sha256: 8a2fbd9ba1ada60f59f98c5a298c40a8066ecbd30c3630ed702747190fde8cf3
+

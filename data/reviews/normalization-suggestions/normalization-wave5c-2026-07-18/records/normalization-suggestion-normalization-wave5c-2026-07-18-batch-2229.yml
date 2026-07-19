@@ -1,0 +1,314 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2229
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.paired-animal-figures-kangaroo-and-emu
+  motif_id: paired_animal_figures_kangaroo_and_emu
+  label: paired animal figures, kangaroo and emu
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label identifies culturally specific paired animal figures but does
+    not state a narrative function such as trickster action, duality, ancestry, or
+    transformation.
+  cautions: Australian Aboriginal animal figures may carry local sacred, kinship,
+    or Dreaming significance; source context is required before mapping to duality,
+    sacred_twins, trickster, or cosmic_origin.
+  suggested_aliases:
+  - kangaroo_and_emu_pair
+  - paired_kangaroo_and_emu_figures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    - sacred_twins
+    - trickster
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-animal-habits
+  motif_id: paired_animal_habits
+  label: paired animal habits
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like an ethnographic or descriptive observation about
+    animal behavior rather than a recurrent narrative or symbolic motif.
+  cautions: If the passage uses paired habits to explain origin, contrast, trickster
+    rivalry, or social law, remap after source review; otherwise preserve as evidence
+    detail only.
+  suggested_aliases:
+  - paired_animal_behaviors
+  - contrasted_animal_habits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - duality
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-hunt-with-dog-control
+  motif_id: paired_hunt_with_dog_control
+  label: paired hunt with dog control
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests a specific hunting episode or practice, but its mythic
+    function is unclear from wording alone.
+  cautions: May be an ethnographic subsistence detail rather than a motif; if dogs
+    function as helpers or controlled liminal animals, divine_intervention or a future
+    animal-helper grouping may be relevant.
+  suggested_aliases:
+  - controlled_dogs_in_paired_hunt
+  - dog_control_during_hunt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paired-land-animal-hunting-and-sealing-economy
+  motif_id: paired_land_animal_hunting_and_sealing_economy
+  label: paired land-animal hunting and sealing economy
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: This appears to describe subsistence economy or contextual lifeways rather
+    than a narrative motif.
+  cautions: Do not index as animal transformation or trickster solely because animals
+    are mentioned; remap only if source evidence shows ritualized pairing, taboo,
+    or mythic origin of hunting domains.
+  suggested_aliases:
+  - land_hunting_and_sealing_economy
+  - paired_hunting_and_sealing_lifeways
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.panelled-geometric-and-animal-image-carving-repertoire
+  motif_id: panelled_geometric_and_animal_image_carving_repertoire
+  label: Panelled geometric and animal-image carving repertoire
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes an artistic repertoire or material-culture classification,
+    not a narrative motif.
+  cautions: If individual carved images have ritual agency, ancestor meaning, or sacred-object
+    function, index those specific motifs separately rather than the repertoire label.
+  suggested_aliases:
+  - geometric_and_animal_carving_repertoire
+  - panelled_animal_image_carvings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.parallel-obligation-toward-human-and-animal-pregnancy
+  motif_id: parallel_obligation_toward_human_and_animal_pregnancy
+  label: parallel obligation toward human and animal pregnancy
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label concerns sacred obligation regulating treatment of pregnant
+    humans and animals, fitting sacred law and ethical social order.
+  cautions: Could also touch fertility or animal-care ethics; verify whether the passage
+    is legal, ritual, moral, or cosmological before final mapping.
+  suggested_aliases:
+  - sacred_obligation_toward_pregnancy
+  - parallel_duty_to_human_and_animal_pregnancy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.passing-under-joined-hands-with-bird-house-refrain
+  motif_id: passing_under_joined_hands_with_bird_house_refrain
+  label: Passing under joined hands with bird-house refrain
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines a gesture, game or ritual action, and refrain; its
+    narrative or symbolic function is not clear.
+  cautions: May be a performance/song detail rather than an animal motif. If passage
+    under joined hands marks transition or initiation, map to initiation; if the refrain
+    is merely textual, exclude.
+  suggested_aliases:
+  - passing_under_joined_hands
+  - bird_house_refrain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - storytelling_as_power
+    - enchanting_music
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.past-life-animal-identity-of-the-buddha-in-a-j-taka-frame
+  motif_id: past_life_animal_identity_of_the_buddha_in_a_j_taka_frame
+  label: Past-life animal identity of the Buddha in a Jātaka frame
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: Past-life identification in a Jātaka frame is a rebirth and identity-continuity
+    motif, with animal form as the specific embodiment.
+  cautions: The Jātaka framing detail may be textual-context evidence; preserve animal
+    identity specificity but avoid treating it as shapeshifting unless bodily transformation
+    within one life is present.
+  suggested_aliases:
+  - past_life_animal_identity
+  - animal_past_life_identification_in_jataka_frame
+  - former_birth_animal_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pastoral-youth-in-sympathetic-relation-with-animals
+  motif_id: pastoral_youth_in_sympathetic_relation_with_animals
+  label: pastoral youth in sympathetic relation with animals
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A youth's sympathetic relation with animals could imply animal helpers,
+    pastoral identity, sacred kingship, or simply characterization.
+  cautions: Source evidence is needed to determine whether animals act as helpers,
+    omens, sacred charges, or background pastoral imagery.
+  suggested_aliases:
+  - youth_in_sympathy_with_animals
+  - pastoral_youth_and_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - miraculous_child
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patient-vigil-at-an-animal-breathing-hole
+  motif_id: patient_vigil_at_an_animal_breathing_hole
+  label: patient vigil at an animal breathing hole
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to be a specific hunting technique or episode detail rather
+    than a broad motif.
+  cautions: If framed as ordeal, discipline, or ritualized hunt with animal-spirit
+    relations, human review could remap to initiation or sacred_law; otherwise exclude
+    from pattern queries.
+  suggested_aliases:
+  - vigil_at_animal_breathing_hole
+  - waiting_at_seal_breathing_hole
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are animal-related only at the descriptive or ethnographic
+  level; animal presence alone should not force mapping to trickster, shapeshifter,
+  or transformation.
+- For culturally specific Indigenous and Inuit labels, source context should be checked
+  before assigning symbolic functions or broad comparative categories.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple single-occurrence labels appear over-specific
+    or contextual.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2229
+  input_sha256: 58efe761d9616b9d917cd574c892cdd637d2d1a760d1461d657781fb76192b50
+

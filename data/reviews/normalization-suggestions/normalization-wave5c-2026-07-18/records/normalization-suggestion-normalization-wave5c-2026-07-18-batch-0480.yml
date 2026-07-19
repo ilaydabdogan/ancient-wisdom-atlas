@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0480
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.conditional-prophecy-of-future-greatness-through-repeated-safe-journeys
+  motif_id: conditional_prophecy_of_future_greatness_through_repeated_safe_journeys
+  label: conditional prophecy of future greatness through repeated safe journeys
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core is a conditional prophecy about future greatness, with safe
+    journeys functioning as the condition or sign.
+  cautions: Single occurrence and highly specific; if passage emphasizes journeys
+    as ordeal rather than prediction, hero_journey may be a secondary fit.
+  suggested_aliases:
+  - conditional_prophecy_of_future_greatness
+  - prophecy_confirmed_by_safe_journeys
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-between-kinship-mourning-and-official-charge
+  motif_id: conflict_between_kinship_mourning_and_official_charge
+  label: conflict between kinship mourning and official charge
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on competing ritual-family obligations and public duty,
+    fitting sacred/social order more than journey.
+  cautions: Could map to lament_and_mourning if the passage foregrounds grief practice;
+    needs context for Confucian duty hierarchy.
+  suggested_aliases:
+  - mourning_duty_conflict
+  - kinship_mourning_versus_public_office
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.connected-household-tents-with-shared-passage
+  motif_id: connected_household_tents_with_shared_passage
+  label: connected household tents with shared passage
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: This reads as a domestic spatial detail rather than a symbolic or narrative
+    motif.
+  cautions: If the passage uses the shared passage as a threshold, concealment route,
+    or ritual boundary, review under threshold_guardian or hero_journey instead.
+  suggested_aliases:
+  - shared_passage_between_household_tents
+  - connected_tents_domestic_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-and-dishonor-of-formerly-honored-women
+  motif_id: conquest_and_dishonor_of_formerly_honored_women
+  label: Conquest and dishonor of formerly honored women
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines conquest, gendered dishonor, and status reversal,
+    and may be culturally sensitive or passage-specific.
+  cautions: Could involve sacred_combat, divine_judgment, sacred_law, or lament depending
+    on source framing; avoid normalizing gendered violence without evidence review.
+  suggested_aliases:
+  - dishonor_of_honored_women_after_conquest
+  - status_reversal_of_women_after_conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-condition-for-marriage
+  motif_id: conquest_condition_for_marriage
+  label: Conquest condition for marriage
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: Marriage is made contingent on conquest, resembling bride-winning or
+    martial marriage conditions already under sacred_love.
+  cautions: If conquest is the main sacred warfare action and marriage is incidental,
+    sacred_combat may be a secondary or better placement.
+  suggested_aliases:
+  - bride_winning_by_conquest
+  - martial_condition_for_marriage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-conversion-and-iconoclasm
+  motif_id: conquest_conversion_and_iconoclasm
+  label: conquest conversion and iconoclasm
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label merges military conquest, religious conversion, and image destruction,
+    requiring source context for function.
+  cautions: May fit sacred_combat, covenant, divine_judgment, or sacred_law; iconoclasm
+    is culturally sensitive and may be historical or ideological rather than motifal.
+  suggested_aliases:
+  - conquest_followed_by_conversion_and_iconoclasm
+  - iconoclasm_after_religious_conquest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-destruction-by-fire
+  motif_id: conquest_destruction_by_fire
+  label: conquest destruction by fire
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Fire is used as a destructive means in conquest, fitting warfare rather
+    than cosmic fire renewal.
+  cautions: Use world_destroying_fire or flood_and_renewal only if the passage frames
+    the burning as cosmic judgment or renewal of an order.
+  suggested_aliases:
+  - fiery_destruction_in_conquest
+  - conquest_by_burning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-display-of-defeated-enemies
+  motif_id: conquest_display_of_defeated_enemies
+  label: Conquest display of defeated enemies
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Displaying defeated enemies is a victory and warfare-status motif within
+    conquest narratives.
+  cautions: If display legitimizes kingship or divine rule, royal_legitimacy or divine_warrior
+    may be relevant secondary groups.
+  suggested_aliases:
+  - display_of_defeated_enemies_after_conquest
+  - victory_display_of_captives_or_enemies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-eviction-and-inheritance-of-planted-land
+  motif_id: conquest_eviction_and_inheritance_of_planted_land
+  label: conquest, eviction, and inheritance of planted land
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines land succession, eviction, cultivation, and conquest,
+    without enough evidence for one existing function.
+  cautions: Could involve royal_legitimacy, sacred_law, cosmic_origin/land etiology,
+    or sacred_combat; review local land-tenure and inheritance context carefully.
+  suggested_aliases:
+  - inheritance_of_planted_land_after_eviction
+  - conquest_and_land_inheritance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquest-expedition-ending-in-annihilation
+  motif_id: conquest_expedition_ending_in_annihilation
+  label: conquest expedition ending in annihilation
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A conquest expedition destroyed in total defeat is a warfare outcome
+    motif.
+  cautions: If annihilation is explicitly divine punishment for overreach, divine_judgment
+    or pride_and_downfall may be better secondary mappings.
+  suggested_aliases:
+  - failed_conquest_expedition_annihilated
+  - annihilation_of_conquest_expedition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items were bucketed as journey/quest but function more as warfare, prophecy,
+  social order, or passage artifacts.
+- Single-occurrence conquest labels should remain provisional; do not infer historical
+  contact or ideological equivalence from placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally sensitive conquest,
+    conversion, dishonor, and land-inheritance labels flagged for human review where
+    source context is needed.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0480
+  input_sha256: c34389cddcb52417c930805ecea9560efccc51151d4a1b5d9cc5bc7c095613aa
+

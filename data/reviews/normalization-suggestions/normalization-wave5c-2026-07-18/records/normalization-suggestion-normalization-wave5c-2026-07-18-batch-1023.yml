@@ -1,0 +1,299 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1023
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-concealment-from-women-s-sight
+  motif_id: ritual_concealment_from_women_s_sight
+  label: Ritual concealment from women's sight
+  occurrences: 1
+  traditions:
+  - indigenous_australian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label likely concerns gendered ritual restriction, secrecy, or taboo,
+    which broadly fits sacred law and ritual prohibition.
+  cautions: Culturally sensitive and single-occurrence; source evidence is needed
+    to avoid flattening Indigenous Australian ritual secrecy into a generic taboo
+    label.
+  suggested_aliases:
+  - gendered_ritual_restriction
+  - ritual_secrecy_from_uninitiated_viewers
+  - ritual_concealment_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-confession-and-supplication
+  motif_id: ritual_confession_and_supplication
+  label: ritual confession and supplication
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Confession and supplication seek repair of a sacred or moral relationship,
+    fitting covenantal bond and pardon language.
+  cautions: Could also support sacred_exchange or divine_judgment if the passage emphasizes
+    offering, reciprocity, or reckoning more than restored relation.
+  suggested_aliases:
+  - ritual_confession_with_supplication
+  - confession_and_petition_for_pardon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-confession-before-communal-observance
+  motif_id: ritual_confession_before_communal_observance
+  label: ritual confession before communal observance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Confession before a communal observance functions as regulated ritual
+    discipline and communal purity/order.
+  cautions: If the observance is primarily calendrical, sacred_time may be a secondary
+    relation; if it is monastic procedure only, it may be too institutional for broad
+    motif use.
+  suggested_aliases:
+  - pre_observance_confession
+  - communal_ritual_confession
+  - confession_before_sacred_observance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-confession-restores-hunting-fortune
+  motif_id: ritual_confession_restores_hunting_fortune
+  label: Ritual confession restores hunting fortune
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Confession restores proper reciprocal relations with sacred powers or
+    animals, resulting in renewed hunting fortune.
+  cautions: Review culturally specific evidence carefully; could belong under sacred_law
+    if framed as taboo violation and repair, or divine_intervention if agency of spirits
+    is central.
+  suggested_aliases:
+  - confession_restores_hunting_success
+  - ritual_repair_of_hunting_fortune
+  - taboo_confession_restores_game
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-confession-under-monastic-regulation
+  motif_id: ritual_confession_under_monastic_regulation
+  label: ritual confession under monastic regulation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif is a regulated disciplinary practice within a sacred social
+    order.
+  cautions: May be an institutional rule rather than a cross-traditional narrative
+    motif; preserve monastic context as evidence detail.
+  suggested_aliases:
+  - monastic_ritual_confession
+  - regulated_confession_in_monastic_order
+  - confession_under_sacred_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-consecration-by-incense-and-directional-offering
+  motif_id: ritual_consecration_by_incense_and_directional_offering
+  label: ritual consecration by incense and directional offering
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Incense and directional offerings consecrate by giving or addressing
+    sacred powers in ordered ritual reciprocity.
+  cautions: Single occurrence and culturally specific; if directions form a cosmogram
+    or center, axis_mundi/world_center may be a secondary mapping.
+  suggested_aliases:
+  - directional_offering_consecration
+  - incense_and_directional_offerings
+  - consecration_by_offering_to_directions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-consecration-of-household-and-civic-order
+  motif_id: ritual_consecration_of_household_and_civic_order
+  label: Ritual consecration of household and civic order
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Consecrating household and civic order directly fits sacred law as social
+    order grounded in ritual or divine norm.
+  cautions: Could overlap with covenant if the rite renews a binding sacred relation;
+    avoid treating a civic detail as kingship unless rulership is explicit.
+  suggested_aliases:
+  - ritual_ordering_of_household_and_city
+  - consecration_of_social_order
+  - sacral_household_and_civic_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-consecration-with-fire-and-waters
+  motif_id: ritual_consecration_with_fire_and_waters
+  label: Ritual consecration with fire and waters
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes a purity/consecration rite using sacred elements,
+    best held under ritual regulation and purity law.
+  cautions: Fire and water are important symbolic fields; add secondary links to sacred_fire
+    or sacred_waters only if the passage emphasizes those elements beyond consecration
+    technique.
+  suggested_aliases:
+  - elemental_ritual_consecration
+  - consecration_by_fire_and_water
+  - purification_with_fire_and_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-consolidation-after-loss-of-a-section
+  motif_id: ritual_consolidation_after_loss_of_a_section
+  label: Ritual consolidation after loss of a section
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The wording is too context-dependent to identify the ritual function
+    or symbolic pattern.
+  cautions: May refer to social reorganization, textual/ritual sequence loss, clan
+    section loss, or a passage artifact; source context is required before mapping.
+  suggested_aliases:
+  - ritual_reconsolidation_after_loss
+  - communal_ritual_repair_after_loss
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-construction-and-inauguration-of-a-marea
+  motif_id: ritual_construction_and_inauguration_of_a_marea
+  label: Ritual construction and inauguration of a Marea
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on construction and inauguration of a ritual structure,
+    fitting sacred craft and sacral building activity.
+  cautions: If the marea functions primarily as a sacred center or temple-space, axis_mundi/world_center
+    may be a secondary mapping; preserve the local term rather than generalizing it
+    away.
+  suggested_aliases:
+  - ritual_inauguration_of_sacred_structure
+  - construction_and_consecration_of_ritual_space
+  - marea_construction_and_inauguration
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ritual practice descriptions.
+  Suggested placements are broad query groups, not evidence of shared origin or transmission.
+- For culturally specific ritual secrecy, hunting fortune, and Melanesian marea terminology,
+  preserve local evidence notes and require human review before creating aliases that
+  obscure source context.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: 'Provisional batch: most items can be parked under sacred_law, sacred_exchange,
+    covenant, or sacred_craft, but culturally specific and context-dependent labels
+    need source review.'
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1023
+  input_sha256: e1b09179df52caa85c51e5cfdecd73feffbc2f6101ba59b379ab591809d020b4
+

@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3140
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ambiguous-human-or-troll-helper
+  motif_id: ambiguous_human_or_troll_helper
+  label: ambiguous human-or-troll helper
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A helper who may be human or troll could involve otherworld aid, shapeshifting,
+    or disguised supernatural agency, but the function is unclear.
+  cautions: Single occurrence and explicitly ambiguous; needs passage evidence before
+    mapping to otherworld, shapeshifter, trickster, or divine_intervention.
+  suggested_aliases:
+  - uncertain_supernatural_helper
+  - ambiguous_human_supernatural_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-implement-oar-and-winnowing-shovel
+  motif_id: ambiguous_implement_oar_and_winnowing_shovel
+  label: 'ambiguous implement: oar and winnowing shovel'
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The oar/winnowing-shovel ambiguity may signal recognition, prophecy,
+    travel, agriculture, or ritual transformation depending on context.
+  cautions: Likely tied to a specific episode; do not map to sacred_treasures or sacred_craft
+    unless the implement functions as a power object or sacred sign.
+  suggested_aliases:
+  - ambiguous_oar_winnowing_shovel_sign
+  - misrecognized_implement_oar_winnowing_shovel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-messenger-failure-through-forgetfulness-or-malice
+  motif_id: ambiguous_messenger_failure_through_forgetfulness_or_malice
+  label: ambiguous messenger failure through forgetfulness or malice
+  occurrences: 1
+  traditions:
+  - khoisan_south_african
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A failed messenger can alter sacred communication, fate, or origin conditions,
+    but forgetfulness versus malice changes the motif function.
+  cautions: Culturally specific origin-myth context may be essential; review before
+    mapping to divine_intervention, sacred_knowledge, trickster, or death_by_fate.
+  suggested_aliases:
+  - failed_messenger_of_sacred_message
+  - messenger_failure_alters_divine_message
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-omen-transformed-by-favorable-interpretation
+  motif_id: ambiguous_omen_transformed_by_favorable_interpretation
+  label: Ambiguous omen transformed by favorable interpretation
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on omen interpretation, which fits divinatory access
+    to hidden meaning or future outcome.
+  cautions: If the passage emphasizes inner spiritual reframing rather than omen practice,
+    mystical_quest or sacred_knowledge may be secondary; single occurrence remains
+    provisional.
+  suggested_aliases:
+  - favorable_interpretation_of_ambiguous_omen
+  - omen_reframed_by_beneficial_interpretation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-origin-of-marginal-additions
+  motif_id: ambiguous_origin_of_marginal_additions
+  label: Ambiguous origin of marginal additions
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes manuscript or editorial marginalia rather than a
+    narrative or symbolic motif.
+  cautions: Preserve as provenance or textual-history metadata if useful; exclude
+    from motif pattern queries.
+  suggested_aliases:
+  - marginal_additions_uncertain_origin
+  - uncertain_origin_of_marginalia
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-religious-symbolism-on-coins
+  motif_id: ambiguous_religious_symbolism_on_coins
+  label: Ambiguous religious symbolism on coins
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Coin imagery may be a sacred object, royal symbol, historical artifact,
+    or interpretive numismatic note depending on evidence.
+  cautions: May be a material-culture/commentary artifact rather than motif; avoid
+    mapping to sacred_treasures or royal_legitimacy without demonstrated narrative
+    or ritual function.
+  suggested_aliases:
+  - uncertain_religious_coin_symbolism
+  - ambiguous_numismatic_sacred_symbolism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-skill-of-keeper-and-thief
+  motif_id: ambiguous_skill_of_keeper_and_thief
+  label: Ambiguous skill of keeper and thief
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: low
+  rationale: Keeper-versus-thief skill suggests cunning theft, guarded property, or
+    boundary-crossing deception, which broadly fits trickster patterns.
+  cautions: Very abstract and ambiguous; if it is only a comparison of abilities or
+    a passage-specific detail, exclude or keep as evidence note.
+  suggested_aliases:
+  - contest_of_keeper_and_thief_skill
+  - thief_and_guardian_cunning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambiguous-supernatural-removal-of-a-body
+  motif_id: ambiguous_supernatural_removal_of_a_body
+  label: ambiguous supernatural removal of a body
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A body removed supernaturally may indicate otherworld translation, burial
+    denial, relic removal, resurrection expectation, or divine intervention.
+  cautions: Needs context about whether the body is dead, hidden, transported, assumed,
+    or denied burial before mapping to death_and_transformation, otherworld, heroic_funeral_rites,
+    or divine_intervention.
+  suggested_aliases:
+  - supernatural_removal_of_body
+  - mysterious_removal_of_dead_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambivalent-exchange-under-colonial-rule
+  motif_id: ambivalent_exchange_under_colonial_rule
+  label: Ambivalent exchange under colonial rule
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Exchange could fit sacred_exchange, but colonial-rule framing makes this
+    historically and culturally contextual rather than clearly mythic.
+  cautions: Culturally sensitive and likely dependent on colonial contact history;
+    avoid flattening into generic reciprocity without source review.
+  suggested_aliases:
+  - colonial_ambivalent_exchange
+  - exchange_under_colonial_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ambivalent-guide-whose-aid-coexists-with-resentment
+  motif_id: ambivalent_guide_whose_aid_coexists_with_resentment
+  label: ambivalent guide whose aid coexists with resentment
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: role_variant
+  confidence: low
+  rationale: An ambivalent guide can function as a journey-helper whose assistance
+    shapes a quest or ordeal.
+  cautions: If resentment drives betrayal, testing, or supernatural threshold obstruction,
+    betrayal_violated_trust, threshold_guardian, or trickster may fit better; single
+    occurrence is contextual.
+  suggested_aliases:
+  - resentful_helper_guide
+  - ambivalent_quest_guide
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are explicitly marked ambiguous and occur only once; most require
+  source-level review rather than confident normalization.
+- Avoid treating historically contextual or editorial labels as symbolic motifs without
+  passage evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional model suggestions for wave5c batch 3140; human review recommended
+    for ambiguous and culturally contextual items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3140
+  input_sha256: '078dd37f5eaef5d5c8ab2ee7391f8b0b2d5702e3eff0dc8041e6e57fa1287de1'
+

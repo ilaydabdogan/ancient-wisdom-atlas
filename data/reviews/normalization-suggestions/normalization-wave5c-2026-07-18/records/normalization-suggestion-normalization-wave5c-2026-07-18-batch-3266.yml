@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3266
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.communication-with-nonhuman-people
+  motif_id: communication_with_nonhuman_people
+  label: Communication with nonhuman people
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Nonhuman people may refer to animals, spirits, ancestors, or otherworld
+    beings; placement depends on source ontology and narrative function.
+  cautions: Culturally sensitive category; do not flatten Indigenous nonhuman persons
+    into generic animals or spirits without evidence.
+  suggested_aliases:
+  - communication_with_nonhuman_persons
+  - speech_with_nonhuman_beings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - otherworld
+    - divine_intervention
+    - shapeshifter
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.community-allotment-after-collective-ditch-labor
+  motif_id: community_allotment_after_collective_ditch_labor
+  label: community allotment after collective ditch labor
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a local social-administrative detail about labor and
+    allocation rather than a reusable symbolic motif.
+  cautions: If the passage frames ditch labor as sacred irrigation, foundation, or
+    covenantal land order, review under sacred_law or sacred_exchange instead.
+  suggested_aliases:
+  - collective_ditch_labor_and_allotment
+  - communal_irrigation_labor_allotment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.community-appeal-for-aid-against-a-destructive-transformed-being
+  motif_id: community_appeal_for_aid_against_a_destructive_transformed_being
+  label: Community appeal for aid against a destructive transformed being
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A community seeking aid against a dangerous transformed being fits monster-threat
+    combat and restoration of order.
+  cautions: If the focus is the being's transformation rather than its defeat, shapeshifter
+    may be a secondary mapping; if aid is supernatural rather than heroic, divine_intervention
+    may fit.
+  suggested_aliases:
+  - community_seeks_champion_against_transformed_monster
+  - appeal_for_aid_against_destructive_transformed_being
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - shapeshifter
+    - divine_intervention
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.community-approval-of-a-dwelling-site
+  motif_id: community_approval_of_a_dwelling_site
+  label: Community approval of a dwelling site
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label appears to describe procedural approval of a residence rather
+    than a mythic or ritual pattern.
+  cautions: If the dwelling site is sanctified, revealed, or made into a sacred center,
+    review under world_center, sacred_law, or sacred_exchange.
+  suggested_aliases:
+  - communal_approval_of_residence_site
+  - approved_dwelling_site
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - world_center
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.community-asked-to-help-a-helper-whose-resources-are-depleted
+  motif_id: community_asked_to_help_a_helper_whose_resources_are_depleted
+  label: Community asked to help a helper whose resources are depleted
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: 'The motif centers on reciprocal obligation: a helper who has given resources
+    now requires communal support.'
+  cautions: May be a local ethical episode rather than a sacred exchange motif unless
+    reciprocity or obligation is narratively emphasized.
+  suggested_aliases:
+  - reciprocal_aid_to_depleted_helper
+  - community_support_for_exhausted_helper
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.community-authorized-killing-of-a-violent-kinsman
+  motif_id: community_authorized_killing_of_a_violent_kinsman
+  label: community-authorized killing of a violent kinsman
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern social sanction, kin violence, justice, exile,
+    or survival ethics; source context is required.
+  cautions: Culturally sensitive and potentially over-specific; avoid mapping as divine
+    judgment unless sacred or moral reckoning is explicit.
+  suggested_aliases:
+  - communal_sanction_against_violent_kin
+  - authorized_killing_of_dangerous_kinsman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.community-business-overrides-ordinary-seclusion
+  motif_id: community_business_overrides_ordinary_seclusion
+  label: Community business overrides ordinary seclusion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a procedural or monastic-context rule exception rather
+    than a durable narrative motif.
+  cautions: If framed as sacred law balancing communal duty and ascetic discipline,
+    review under sacred_law; otherwise preserve only as evidence detail.
+  suggested_aliases:
+  - communal_duty_overrides_seclusion
+  - community_affairs_exception_to_seclusion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.community-censure-as-practical-banishment-for-unjust-spouse-expulsion
+  motif_id: community_censure_as_practical_banishment_for_unjust_spouse_expulsion
+  label: Community censure as practical banishment for unjust spouse-expulsion
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This combines marriage conflict, social sanction, and banishment; the
+    governing motif depends on passage emphasis.
+  cautions: Could be ethical judgment, sacred law, or household conflict; too contextual
+    to map confidently from the label alone.
+  suggested_aliases:
+  - community_censure_for_unjust_spouse_expulsion
+  - social_banishment_after_wrongful_spouse_expulsion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    - sacred_love
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.community-complaint-prompts-authoritative-ruling
+  motif_id: community_complaint_prompts_authoritative_ruling
+  label: community complaint prompts authoritative ruling
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A community complaint leading to an authoritative ruling fits formation
+    or application of social and sacred legal order.
+  cautions: If this is merely narrative administration with no normative or sacred
+    dimension, exclude as contextual detail.
+  suggested_aliases:
+  - communal_complaint_leads_to_ruling
+  - authoritative_ruling_after_community_complaint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.community-concealment-with-auditory-decoy
+  motif_id: community_concealment_with_auditory_decoy
+  label: community concealment with auditory decoy
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: Concealment using a sound decoy is a deception strategy, fitting the
+    trickster/deceptive stratagem complex.
+  cautions: If the episode is wartime tactics rather than trickery narrative, sacred_combat
+    may be a better secondary mapping; over-specific detail should not become canonical.
+  suggested_aliases:
+  - auditory_decoy_for_concealment
+  - sound_decoy_hides_the_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence community or procedural details;
+  preserve local evidence but avoid promoting them without recurrence or source context.
+- For Indigenous traditions, review labels involving nonhuman people, kin violence,
+  or community sanction with attention to local ontology and source framing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft suggestions only; multiple items require source-level review before
+    indexing.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3266
+  input_sha256: 1d4fc37e44c98a5eece4622be0fb7b59a017d9504cd11504692e2227fc9ecab7
+

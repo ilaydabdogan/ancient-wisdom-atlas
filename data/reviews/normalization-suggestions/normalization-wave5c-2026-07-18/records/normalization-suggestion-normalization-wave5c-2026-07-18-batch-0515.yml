@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0515
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.formal-public-request-for-pardon
+  motif_id: formal_public_request_for_pardon
+  label: Formal public request for pardon
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A public request for pardon belongs with supplication, mercy, and restoration
+    of social or sacred bonds already grouped under covenant.
+  cautions: Single occurrence; if it is merely a courtly or narrative apology without
+    sacred or ethical bond repair, it may be too contextual.
+  suggested_aliases:
+  - public_supplication_for_pardon
+  - formal_request_for_mercy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.former-birth-continuity-of-present-relationships
+  motif_id: former_birth_continuity_of_present_relationships
+  label: Former-birth continuity of present relationships
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: Former-birth identity and relational continuity fits the existing past-life
+    identification and rebirth/transformation complex.
+  cautions: Preserve Buddhist rebirth-specific context; do not reduce to generic resurrection
+    or afterlife journey.
+  suggested_aliases:
+  - past_life_continuity_of_present_relationships
+  - former_birth_relationship_continuity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortified-defense-against-ship-and-cannon-attack
+  motif_id: fortified_defense_against_ship_and_cannon_attack
+  label: Fortified defense against ship and cannon attack
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a highly specific historical combat scene rather than
+    a reusable mythic motif.
+  cautions: If source evidence frames fortification as sacred protection, invasion
+    ordeal, or culture-contact memory, human review may preserve it as contextual
+    evidence under sacred_combat or divine_judgment.
+  suggested_aliases:
+  - fortified_defense_against_naval_attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortified-refuge-with-concealed-escape-passage
+  motif_id: fortified_refuge_with_concealed_escape_passage
+  label: Fortified refuge with concealed escape passage
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: low
+  rationale: A protected refuge with hidden escape can function like an enclosing
+    preservation space, similar to cave refuge and sacred-container patterns.
+  cautions: Low confidence because the label may be a tactical setting rather than
+    a sacred enclosure; could fit hero_journey, sacred_combat, or be excluded if purely
+    episode-specific.
+  suggested_aliases:
+  - concealed_escape_from_fortified_refuge
+  - hidden_passage_from_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fortune-gained-through-a-failed-quest-for-justice
+  motif_id: fortune_gained_through_a_failed_quest_for_justice
+  label: Fortune gained through a failed quest for justice
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines quest, justice failure, and reversal of fortune, but
+    the main narrative function is unclear from wording alone.
+  cautions: Could map to divine_judgment, hero_journey, pride_and_downfall, or trickster
+    depending on whether the fortune is moral recompense, accident, irony, or deception.
+  suggested_aliases:
+  - unexpected_fortune_after_failed_justice_quest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fosterage-as-friendship-and-intergroup-relation
+  motif_id: fosterage_as_friendship_and_intergroup_relation
+  label: fosterage as friendship and intergroup relation
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Fosterage as alliance or friendship is a kinship/social-order pattern
+    not clearly covered by existing groups.
+  cautions: May be ethnographic social description rather than motif; culturally specific
+    kinship institutions should be reviewed before grouping.
+  suggested_aliases:
+  - fosterage_as_intergroup_alliance
+  - fosterage_friendship_relation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fosterage-kinship-network
+  motif_id: fosterage_kinship_network
+  label: fosterage kinship network
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label points to a kinship institution rather than a clearly defined
+    narrative motif in the current taxonomy.
+  cautions: Could become part of a future kinship/alliance group if recurring; otherwise
+    preserve as contextual social evidence.
+  suggested_aliases:
+  - foster_kinship_network
+  - fosterage_as_social_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fosterage-marriage-and-later-slaying-within-kinship-narrative
+  motif_id: fosterage_marriage_and_later_slaying_within_kinship_narrative
+  label: fosterage, marriage, and later slaying within kinship narrative
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This appears to summarize an episode sequence rather than name a stable
+    motif.
+  cautions: If the source emphasizes violated kinship, compelled kin-slaying, or marriage
+    alliance breakdown, a reviewer may remap to betrayal_violated_trust, sacred_combat,
+    or sacred_love.
+  suggested_aliases:
+  - kinship_sequence_of_fosterage_marriage_and_slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.foundation-of-cult-markers-after-divine-encounter-or-successful-passage
+  motif_id: foundation_of_cult_markers_after_divine_encounter_or_successful_passage
+  label: Foundation of cult markers after divine encounter or successful passage
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Cult markers founded after divine encounter fit theophany as sacred manifestation
+    producing ritual commemoration.
+  cautions: If the emphasis is place-founding or sanctuary as world center, axis_mundi
+    or cosmic_origin may be secondary; if merely antiquarian cult aition, review for
+    artifact status.
+  suggested_aliases:
+  - cult_marker_founded_after_theophany
+  - ritual_marker_after_successful_passage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.founding-marked-by-arrival-of-a-leading-clan
+  motif_id: founding_marked_by_arrival_of_a_leading_clan
+  label: founding marked by arrival of a leading clan
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: A community or place founded through arrival of a leading clan fits existing
+    origin and eponymous/progenitor founding patterns.
+  cautions: Could also involve royal_legitimacy or migration tradition; avoid treating
+    as cosmic creation unless the passage frames it as origin/foundation.
+  suggested_aliases:
+  - clan_arrival_as_foundation
+  - leading_clan_foundation_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence kinship or tactical-scene labels;
+  human review should distinguish reusable motifs from social or episode summaries.
+- Do not infer transmission or shared origin from suggested grouping; placements are
+  only for pattern-query normalization.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; kinship/fosterage items especially
+    need source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0515
+  input_sha256: '078f121ee670f0e0abe5ec8a549a3124c90531de5ac09600abd766ea83adcc4b'
+

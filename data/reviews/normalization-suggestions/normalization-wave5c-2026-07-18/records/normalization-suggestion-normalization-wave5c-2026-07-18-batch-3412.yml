@@ -1,0 +1,292 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3412
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.existence-as-a-closed-account
+  motif_id: existence_as_a_closed_account
+  label: Existence as a closed account
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: uncertain
+  confidence: low
+  rationale: The Sufi context suggests a mystical or ethical reflection on life, accounting,
+    and selfhood, but the label is too abstract to place securely.
+  cautions: Single occurrence; may be a passage-specific metaphor or commentary artifact
+    rather than a recurring motif.
+  suggested_aliases:
+  - life_as_account
+  - existence_as_reckoning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.existence-beyond-mundane-injury-through-tao
+  motif_id: existence_beyond_mundane_injury_through_tao
+  label: existence beyond mundane injury through TAO
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Transcending ordinary harm through alignment with the Tao fits interior
+    transformation and spiritual mastery.
+  cautions: Could alternatively fit sacred_knowledge if the passage emphasizes teaching
+    rather than realized invulnerability or transformed existence.
+  suggested_aliases:
+  - transcendence_of_harm_through_tao
+  - taoist_invulnerability_through_alignment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exogamous-alliance-between-gentes
+  motif_id: exogamous_alliance_between_gentes
+  label: Exogamous alliance between gentes
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: uncertain
+  confidence: low
+  rationale: A structured alliance between kin groups may function as a binding social
+    order, loosely near covenant or sacred law.
+  cautions: Culturally specific kinship terminology and Navajo social organization
+    require human review; may be ethnographic social detail rather than motif.
+  suggested_aliases:
+  - exogamous_kinship_alliance
+  - interclan_marriage_alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exogamous-classes-with-insect-totems
+  motif_id: exogamous_classes_with_insect_totems
+  label: exogamous classes with insect totems
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines kinship organization and totemic classification, which
+    is not cleanly covered by current groups.
+  cautions: Comparative and ethnographic wording may be a classification artifact;
+    avoid forcing into animal or sacred law groups without source evidence.
+  suggested_aliases:
+  - totemic_exogamous_classes
+  - insect_totem_kinship_classes
+  suggested_new_group:
+    id: totemic_kinship_classification
+    label: Totemic Kinship and Social Classification
+    description: Kinship groups, marriage classes, clans, or social divisions organized
+      through animal, plant, ancestral, or other totemic associations.
+    parent_group_ids:
+    - sacred_law
+    - duality
+    related_group_ids:
+    - culture_hero
+    - cosmic_origin
+    reason_existing_groups_insufficient: Existing groups cover sacred law, animal
+      symbolism, and ancestry, but not totemic kinship structures as social-classificatory
+      motifs.
+- suggestion_id: normalization.suggestion.exorbitant-condition-overcome-by-magical-aid
+  motif_id: exorbitant_condition_overcome_by_magical_aid
+  label: Exorbitant condition overcome by magical aid
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: An impossible or excessive condition solved by supernatural aid fits
+    intervention or guidance in human affairs.
+  cautions: If the helper is a trickster, jinn, animal helper, or power object, secondary
+    placement may shift to trickster, sacred_treasures, or otherworld.
+  suggested_aliases:
+  - impossible_task_overcome_by_magical_aid
+  - excessive_condition_solved_by_supernatural_help
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exorcism-attempt-against-supposed-possession
+  motif_id: exorcism_attempt_against_supposed_possession
+  label: Exorcism attempt against supposed possession
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Current normalization folds exorcism and spirit-expulsion labels into
+    the ritual expulsion complex under sacrifice.
+  cautions: The word 'supposed' may indicate contested diagnosis or polemical context;
+    review Sikh source evidence before treating as spirit-possession motif.
+  suggested_aliases:
+  - attempted_exorcism_of_possession
+  - possession_exorcism_attempt
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exorcistic-banishment-of-the-fiend-to-the-north
+  motif_id: exorcistic_banishment_of_the_fiend_to_the_north
+  label: Exorcistic banishment of the fiend to the north
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Banishment of a harmful being matches the existing ritual expulsion and
+    exorcism complex under sacrifice.
+  cautions: Directional north symbolism may be important in Zoroastrian context and
+    should be preserved as evidence detail.
+  suggested_aliases:
+  - exorcistic_banishment_to_the_north
+  - banishment_of_fiend_to_north
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exorcistic-diagnosis-and-removal-of-a-witchcraft-ban
+  motif_id: exorcistic_diagnosis_and_removal_of_a_witchcraft_ban
+  label: Exorcistic diagnosis and removal of a witchcraft ban
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Diagnosis and removal of harmful occult constraint fits the broader exorcism
+    and expulsion ritual complex.
+  cautions: The label is highly specific and may be better preserved as ritual evidence;
+    review whether 'ban' means curse, taboo, or binding spell.
+  suggested_aliases:
+  - exorcistic_removal_of_witchcraft_ban
+  - ritual_diagnosis_of_witchcraft_affliction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exorcistic-driving-away-formula
+  motif_id: exorcistic_driving_away_formula
+  label: Exorcistic driving-away formula
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The key feature is a spoken formula whose utterance expels or drives
+    away harmful powers.
+  cautions: Also belongs near ritual expulsion under sacrifice; choose curse_blessing_speech
+    when the formulaic speech act is central.
+  suggested_aliases:
+  - exorcistic_formula_of_expulsion
+  - driving_away_exorcism_formula
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exorcistic-expulsion-to-a-remote-direction
+  motif_id: exorcistic_expulsion_to_a_remote_direction
+  label: Exorcistic expulsion to a remote direction
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Sending a harmful force away to a distant direction is a clear exorcistic
+    expulsion pattern already grouped under sacrifice.
+  cautions: Retain the remote-direction element as ritual geography; it may overlap
+    with boundary sealing or sacred space if evidence supports it.
+  suggested_aliases:
+  - exorcistic_banishment_to_remote_direction
+  - ritual_expulsion_to_far_direction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several exorcism labels fit the existing reviewed policy that folds exorcism, spirit-affliction,
+  and boundary-sealing into the ritual_expulsion complex under sacrifice.
+- Kinship and totemic-classification labels are culturally specific and should be
+  reviewed by humans before adding any durable group.
+- Single-occurrence abstract philosophical labels should not be promoted without passage
+  evidence showing recurrence or narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3412
+  input_sha256: 1823326e5be87c2b0904eacd0e21db595b8af7e71979aba41797fc613f0859bb
+

@@ -1,0 +1,318 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2340
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cross-cultural-misunderstanding-of-obligation
+  motif_id: cross_cultural_misunderstanding_of_obligation
+  label: cross-cultural misunderstanding of obligation
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a social or interpretive misunderstanding rather
+    than a clear symbolic motif in the current groups.
+  cautions: Single occurrence; may be a passage-specific ethnographic or narrative-context
+    detail. Review source evidence for whether obligation is sacred law, covenant,
+    hospitality, or commentary artifact.
+  suggested_aliases:
+  - misunderstood obligation across cultures
+  - cross-cultural obligation misunderstanding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - hospitality_test_stranger_guest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-cultural-misunderstanding-through-naming-and-translation
+  motif_id: cross_cultural_misunderstanding_through_naming_and_translation
+  label: cross-cultural misunderstanding through naming and translation
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe translation, naming, or interpretation
+    across cultures rather than a narrative motif.
+  cautions: If the passage itself dramatizes magical naming, performative speech,
+    or identity confusion, review for curse_blessing_speech or recognition_tokens_hidden_identity
+    instead.
+  suggested_aliases:
+  - misunderstanding through translation
+  - cross-cultural naming misunderstanding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cross-regional-recurrence-of-tale-elements
+  motif_id: cross_regional_recurrence_of_tale_elements
+  label: cross-regional recurrence of tale elements
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a comparative observation about recurrence of tale elements,
+    not a motif content label.
+  cautions: Do not use this as evidence of borrowing or shared origin; preserve only
+    as commentary or provenance if needed.
+  suggested_aliases:
+  - recurrence of tale elements across regions
+  - cross-regional tale-element recurrence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.crystal-used-to-see-hidden-disease
+  motif_id: crystal_used_to_see_hidden_disease
+  label: Crystal used to see hidden disease
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A crystal functioning as a diagnostic seeing-object fits sacred power
+    objects that confer special ability.
+  cautions: Could also belong with sacred_knowledge or divine_intervention if the
+    emphasis is revelation or healing agency. Single occurrence; preserve crystal/disease
+    specificity as evidence detail.
+  suggested_aliases:
+  - diagnostic crystal
+  - crystal reveals hidden disease
+  - seeing crystal for illness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cultivation-and-water-management-as-blessed-land-practice
+  motif_id: cultivation_and_water_management_as_blessed_land_practice
+  label: Cultivation and water management as blessed land practice
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label frames agricultural and water-management practice as blessed
+    or religiously ordered conduct, fitting sacred law and social order.
+  cautions: May alternatively index to sacred_waters if water symbolism is primary,
+    or sacred_exchange if cultivation repairs relation with divine order. Review for
+    Zoroastrian purity and land-care context.
+  suggested_aliases:
+  - blessed land cultivation
+  - sacred cultivation and water management
+  - religious land-care practice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.curative-mineral-waters
+  motif_id: curative_mineral_waters
+  label: Curative mineral waters
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: symbolic_variant
+  confidence: high
+  rationale: Healing or curative waters are a clear water-as-healing variant under
+    sacred waters.
+  cautions: If the source emphasizes a shrine, spirit, or ritual specialist more than
+    water itself, secondary mapping to divine_intervention or sacred_exchange may
+    be appropriate.
+  suggested_aliases:
+  - healing mineral waters
+  - curative sacred waters
+  - mineral water healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.customary-gesture-misunderstood-across-cultures
+  motif_id: customary_gesture_misunderstood_across_cultures
+  label: Customary gesture misunderstood across cultures
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A misunderstood gesture may be a social narrative device, but the sacred
+    or mythic function is unclear from the label alone.
+  cautions: Single occurrence and likely contextual. If the gesture is supplication,
+    oath, taboo, or hospitality, map to covenant, curse_blessing_speech, sacred_law,
+    or hospitality_test_stranger_guest after evidence review.
+  suggested_aliases:
+  - misunderstood customary gesture
+  - cross-cultural gesture misunderstanding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    - hospitality_test_stranger_guest
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cyclic-destruction-and-renewal-of-worlds
+  motif_id: cyclic_destruction_and_renewal_of_worlds
+  label: Cyclic destruction and renewal of worlds
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: narrower_than
+  confidence: high
+  rationale: The label directly matches world destruction followed by renewal, with
+    cyclic recurrence as added specificity.
+  cautions: If the passage emphasizes successive ages or decline rather than catastrophe-renewal,
+    also consider world_ages_cosmic_decline.
+  suggested_aliases:
+  - cyclical world destruction and renewal
+  - recurrent destruction and renewal of worlds
+  - world cycles of destruction and renewal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - world_ages_cosmic_decline
+    - death_and_transformation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cyclical-moon-witnesses-human-absence
+  motif_id: cyclical_moon_witnesses_human_absence
+  label: cyclical moon witnesses human absence
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The current group already includes moon-as-witness imagery, and this
+    label is a close celestial witness variant.
+  cautions: In Sufi context, the moon may function as mystical longing or absence
+    rather than dream/vision; consider sacred_love or mystical_quest if devotional
+    longing is primary.
+  suggested_aliases:
+  - moon witnesses human absence
+  - cyclical moon as witness
+  - moon as witness to absence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - mystical_quest
+    - sacred_time
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.daily-fire-as-sign-of-survival-during-famine
+  motif_id: daily_fire_as_sign_of_survival_during_famine
+  label: Daily fire as sign of survival during famine
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Fire serves as a visible sign of continuing life and presence, fitting
+    sacred fire/light symbolism more than catastrophe fire.
+  cautions: Could be an over-specific survival-signal detail if no sacred function
+    is present. If famine relief or provision is central, divine_intervention or sacred_exchange
+    may be a better secondary mapping.
+  suggested_aliases:
+  - survival fire during famine
+  - daily hearth fire as life sign
+  - fire as sign of survival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are social-interpretive or comparative commentary rather
+  than nature/cosmos motifs; review bucket assignment may be noisy.
+- Single-occurrence, cross-cultural misunderstanding labels should not be promoted
+  without passage evidence showing a recurring narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: assistant
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific and single-occurrence
+    items need human evidence review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2340
+  input_sha256: 1e2fff05d56a48b26ea4eb3154f4bd8badbe38033839ab0afadf88b1ba5e7304
+

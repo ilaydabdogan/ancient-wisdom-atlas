@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3477
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.formal-presence-as-a-condition-for-dispute-settlement
+  motif_id: formal_presence_as_a_condition_for_dispute_settlement
+  label: Formal presence as a condition for dispute settlement
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed requirement for settling disputes fits sacred or communal
+    law and formal procedure.
+  cautions: May be Vinaya/legal procedural detail rather than a reusable mythic motif;
+    review passage context.
+  suggested_aliases:
+  - procedural_presence_requirement_for_dispute_settlement
+  - formal_presence_required_for_adjudication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-public-dissociation-from-a-transgressive-member
+  motif_id: formal_public_dissociation_from_a_transgressive_member
+  label: formal public dissociation from a transgressive member
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Public separation from a rule-breaking member is a communal discipline
+    and sacred-order procedure.
+  cautions: Could be a monastic legal artifact; if only procedural commentary, exclude
+    from broad pattern queries.
+  suggested_aliases:
+  - public_disavowal_of_transgressive_member
+  - communal_dissociation_from_rule_breaker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-public-wager-with-backers-and-contracts
+  motif_id: formal_public_wager_with_backers_and_contracts
+  label: formal public wager with backers and contracts
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate wager, contract, contest, or legal/social obligation,
+    but the narrative function is unclear.
+  cautions: Single occurrence and highly contextual; do not map to covenant or sacred_combat
+    unless wager resolves a sacred contest or binding obligation.
+  suggested_aliases:
+  - public_wager_with_sureties_and_contracts
+  - formal_bet_backed_by_contracts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-pursuit-race-with-night-camp-rules
+  motif_id: formal_pursuit_race_with_night_camp_rules
+  label: Formal pursuit race with night-camp rules
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This appears to be a very specific chase-contest rule set rather than
+    an established broad motif.
+  cautions: Culturally specific episode rules should be reviewed with source evidence;
+    possible links include hero_journey, sacred_combat, trickster, or sacred_law depending
+    on function.
+  suggested_aliases:
+  - ritualized_pursuit_race_with_camp_rules
+  - pursuit_contest_governed_by_night_camp_rules
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-reception-of-visiting-ceremonial-party
+  motif_id: formal_reception_of_visiting_ceremonial_party
+  label: Formal reception of visiting ceremonial party
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A formal welcome of a ceremonial party fits ritual hospitality and reciprocal
+    sacred relations.
+  cautions: If the passage is ethnographic protocol rather than narrative pattern,
+    keep as evidence detail; hospitality_test_stranger_guest may apply only if a test
+    is present.
+  suggested_aliases:
+  - ritual_reception_of_visiting_ceremonial_party
+  - ceremonial_guest_reception
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-restoration-to-communion
+  motif_id: formal_restoration_to_communion
+  label: formal restoration to communion
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Restoration to communal sacred relation aligns with repairing a broken
+    bond or covenantal order.
+  cautions: In Buddhist monastic context this may be disciplinary procedure; sacred_law
+    is a plausible secondary group.
+  suggested_aliases:
+  - ritual_restoration_to_community
+  - formal_reinstatement_to_communion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-revocation-paired-with-non-revocation-cases
+  motif_id: formal_revocation_paired_with_non_revocation_cases
+  label: Formal revocation paired with non-revocation cases
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a procedural classification or case-pairing artifact
+    rather than a symbolic motif.
+  cautions: If source narrative shows revoked status as a binding sacred act, review
+    under sacred_law; otherwise exclude from motif queries.
+  suggested_aliases:
+  - revocation_and_non_revocation_case_pairing
+  - formal_revocation_case_contrast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-sanction-for-obstinacy
+  motif_id: formal_sanction_for_obstinacy
+  label: formal sanction for obstinacy
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Sanction for refusal or obstinacy functions as moral reckoning within
+    a sacred order.
+  cautions: May be monastic disciplinary law rather than divine judgment; sacred_law
+    may be the better parent if procedural emphasis dominates.
+  suggested_aliases:
+  - disciplinary_sanction_for_obstinacy
+  - formal_punishment_for_refusal_to_comply
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-settlement-of-communal-dispute-by-prescribed-procedure
+  motif_id: formal_settlement_of_communal_dispute_by_prescribed_procedure
+  label: formal settlement of communal dispute by prescribed procedure
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: A prescribed communal dispute procedure clearly belongs with sacred law
+    and social order.
+  cautions: Likely generated from Vinaya procedural material; preserve legal specificity
+    but do not overgeneralize as mythic narrative.
+  suggested_aliases:
+  - prescribed_procedure_for_communal_dispute_settlement
+  - formal_communal_adjudication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.formal-settlement-of-disputes
+  motif_id: formal_settlement_of_disputes
+  label: Formal settlement of disputes
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: broader_label
+  confidence: high
+  rationale: Dispute settlement by formal rule is a broad sacred-law and social-order
+    motif.
+  cautions: Broad procedural label; merge with more specific dispute-settlement variants
+    if passage evidence is identical.
+  suggested_aliases:
+  - formal_dispute_resolution
+  - ritualized_dispute_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Buddhist labels appear to come from monastic legal or Vinaya procedure.
+  Map only when useful for sacred-law/social-order queries; otherwise preserve as
+  procedural evidence or exclude as textual classification.
+- Avoid treating formal procedure as mythic transmission evidence; placements are
+  only normalization suggestions.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements emphasize sacred_law for formal dispute and discipline
+    labels, with exclusions where labels read like case-classification artifacts.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3477
+  input_sha256: 4423cef0008ad30dfc512c7d0f6af87c95fc366f2b00036530cfb0b06f630231
+

@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1457
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.spoken-inauspicious-words-break-a-magical-operation
+  motif_id: spoken_inauspicious_words_break_a_magical_operation
+  label: spoken inauspicious words break a magical operation
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on spoken words having operative power to disrupt a
+    ritual or magical act.
+  cautions: Single occurrence; could also be ritual taboo under sacred_law if the
+    context is prohibition rather than performative speech.
+  suggested_aliases:
+  - inauspicious_speech_breaks_magic
+  - spoken_words_disrupt_magical_operation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spoken-word-superior-to-written-word
+  motif_id: spoken_word_superior_to_written_word
+  label: Spoken word superior to written word
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif concerns oral speech as a privileged medium of authority, memory,
+    or power over writing.
+  cautions: May be a philosophical or literary commentary artifact rather than a narrative
+    motif; review passage evidence before broad indexing.
+  suggested_aliases:
+  - oral_word_superior_to_written_word
+  - primacy_of_spoken_word
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.spoken-words-as-socially-weighty-or-valuable
+  motif_id: spoken_words_as_socially_weighty_or_valuable
+  label: spoken words as socially weighty or valuable
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: broader_label
+  confidence: medium
+  rationale: Socially weighty speech fits the broader group of utterances that bind,
+    authorize, or transform social relations.
+  cautions: If the passage is about storytelling, oral tradition, or prestige speech
+    rather than binding utterance, storytelling_as_power may be better.
+  suggested_aliases:
+  - weighty_spoken_words
+  - valuable_spoken_words
+  - social_power_of_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stable-melody-with-changeable-words
+  motif_id: stable_melody_with_changeable_words
+  label: Stable melody with changeable words
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: uncertain
+  confidence: low
+  rationale: The label involves song form, but appears to describe performance structure
+    rather than supernatural sound power.
+  cautions: Likely ethnomusicological or textual-performance metadata unless the stable
+    melody has sacred or magical function in the source.
+  suggested_aliases:
+  - fixed_melody_variable_words
+  - stable_tune_changeable_text
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stable-repeated-rendition-of-a-song-form
+  motif_id: stable_repeated_rendition_of_a_song_form
+  label: stable repeated rendition of a song form
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: uncertain
+  confidence: low
+  rationale: It references repeated song performance, but no clear narrative or supernatural
+    function is visible from the label alone.
+  cautions: May be a performance-form observation rather than a motif; map to enchanting_music
+    only if the song acts as sacred power.
+  suggested_aliases:
+  - repeated_song_form
+  - stable_song_rendition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stable-repeated-song-pattern-across-renditions
+  motif_id: stable_repeated_song_pattern_across_renditions
+  label: Stable repeated song pattern across renditions
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: uncertain
+  confidence: low
+  rationale: The song element could relate to music-as-power, but the wording mainly
+    describes comparative stability across performances.
+  cautions: Likely a transmission or performance-analysis artifact unless tied to
+    ritual efficacy, enchantment, or sacred memory.
+  suggested_aliases:
+  - stable_song_pattern
+  - repeated_song_pattern_across_renditions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.stable-song-meaning-despite-variable-words
+  motif_id: stable_song_meaning_despite_variable_words
+  label: stable song meaning despite variable words
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns meaning preserved through oral or sung variation,
+    which may fit narrative transmission as power.
+  cautions: May be scholarly commentary on song variation rather than a passage motif;
+    consider exclusion if no sacred or narrative function is present.
+  suggested_aliases:
+  - stable_meaning_variable_song_words
+  - song_meaning_preserved_across_variants
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.star-comparison-in-song
+  motif_id: star_comparison_in_song
+  label: Star comparison in song
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an isolated poetic comparison within a song rather
+    than a durable narrative motif.
+  cautions: If the star comparison marks a recurring celestial identity, omen, or
+    cosmological relation, review under dream_and_vision or cosmic_origin instead.
+  suggested_aliases:
+  - stellar_comparison_in_song
+  - star_simile_in_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.star-killing-with-sheep-s-dung-and-song
+  motif_id: star_killing_with_sheep_s_dung_and_song
+  label: Star-killing with sheep's dung and song
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: Song appears to act magically against a celestial being, but the label
+    is highly specific and culturally contextual.
+  cautions: Could involve celestial combat, ritual magic, comic tale detail, or passage
+    artifact; do not collapse solely into speech or music without source review.
+  suggested_aliases:
+  - song_used_to_kill_a_star
+  - magical_song_against_star
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.star-spouse-named-in-title
+  motif_id: star_spouse_named_in_title
+  label: Star spouse named in title
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'named in title' indicates a title or cataloging artifact
+    rather than a motif in the passage.
+  cautions: If the narrative itself concerns marriage to a star-being, create or map
+    a separate motif for celestial spouse or sacred love after evidence review.
+  suggested_aliases:
+  - star_spouse_title_marker
+  - title_names_star_spouse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several song-form labels appear to describe performance stability or scholarly comparison
+  rather than narrative motifs; human review should decide whether to exclude them
+  as metadata or preserve them under song/oral transmission evidence.
+- Avoid inferring celestial cosmology from isolated 'star' wording unless the passage
+  shows a star-being, omen, spouse, or cosmic function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; high-context single-occurrence speech and song
+    labels need source verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1457
+  input_sha256: 727c4c4d9749e2880393ff17279ac166b797d9594cdda883d92166abba8025ba
+

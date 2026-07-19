@@ -1,0 +1,352 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3893
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.rescue-by-outsiders-at-the-desert-margin
+  motif_id: rescue_by_outsiders_at_the_desert_margin
+  label: rescue by outsiders at the desert margin
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe a journey-or-death peril rescue scene, but the
+    rescuers, function, and transformation are unclear.
+  cautions: Single occurrence and highly contextual; may be a passage detail rather
+    than a durable motif.
+  suggested_aliases:
+  - desert margin rescue
+  - rescue by strangers at desert boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-from-hanging-or-execution
+  motif_id: rescue_from_hanging_or_execution
+  label: Rescue from hanging or execution
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: medium
+  rationale: Rescue from execution is a recognizable deliverance pattern, but the
+    label does not show whether it is divine, heroic, legal, or comic reversal.
+  cautions: Do not map to divine_intervention unless sacred agency is present; could
+    also be heroic rescue or plot resolution.
+  suggested_aliases:
+  - rescue from execution
+  - deliverance from hanging
+  - last moment rescue from execution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-from-oblivion
+  motif_id: rescue_from_oblivion
+  label: Rescue from oblivion
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: In a Sufi context, rescue from oblivion likely concerns spiritual awakening,
+    remembrance, or deliverance from loss of sacred awareness.
+  cautions: If the passage means preservation from literal erasure, death, or textual
+    oblivion, review for death_and_transformation or meta_textual instead.
+  suggested_aliases:
+  - deliverance from oblivion
+  - rescue from forgetfulness
+  - spiritual rescue from oblivion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-of-a-captive-damsel-threatened-with-a-pit
+  motif_id: rescue_of_a_captive_damsel_threatened_with_a_pit
+  label: Rescue of a captive damsel threatened with a pit
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Captive Rescue and Deliverance
+  relationship: narrower_than
+  confidence: medium
+  rationale: The core pattern is rescue of an imperiled captive; the pit is likely
+    episode-specific evidence detail.
+  cautions: Avoid reducing all captive rescues to sacred_love unless the beloved/erotic
+    relation drives the quest.
+  suggested_aliases:
+  - rescue of captive damsel
+  - damsel rescued from threatened pit
+  - deliverance of imperiled captive woman
+  suggested_new_group:
+    id: captive_rescue_deliverance
+    label: Captive Rescue and Deliverance
+    description: A hero, helper, or outside party frees an abducted, imprisoned, threatened,
+      or oppressed captive, often restoring kinship, honor, social order, or quest
+      progression.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - sacred_combat
+    - sacred_love
+    - divine_intervention
+    - stolen_beloved
+    reason_existing_groups_insufficient: Existing groups cover journeys, combat, love,
+      or divine aid, but none directly captures the recurring narrative function of
+      freeing captives from confinement or threatened harm.
+- suggestion_id: normalization.suggestion.rescue-of-a-strange-or-other-than-ordinary-kayaker
+  motif_id: rescue_of_a_strange_or_other_than_ordinary_kayaker
+  label: Rescue of a strange or other-than-ordinary kayaker
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The figure may be supernatural, liminal, or simply an unusual rescued
+    traveler, but the label does not show the motif function.
+  cautions: Culturally specific context is needed; could be otherworld encounter,
+    hospitality, sea rescue, or passage artifact.
+  suggested_aliases:
+  - rescue of strange kayaker
+  - rescue of unusual kayaker
+  - rescue of other-than-ordinary traveler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.rescue-of-abducted-captive-sisters
+  motif_id: rescue_of_abducted_captive_sisters
+  label: Rescue of abducted captive sisters
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Captive Rescue and Deliverance
+  relationship: child
+  confidence: high
+  rationale: This is a clear variant of freeing abducted captives, with sisters as
+    the specific kinship role.
+  cautions: May take secondary mapping to sacred_love, sibling_pair, or hero_journey
+    depending on who rescues them and why.
+  suggested_aliases:
+  - rescue of abducted sisters
+  - rescue of captive sisters
+  - deliverance of abducted female kin
+  suggested_new_group:
+    id: captive_rescue_deliverance
+    label: Captive Rescue and Deliverance
+    description: A hero, helper, or outside party frees an abducted, imprisoned, threatened,
+      or oppressed captive, often restoring kinship, honor, social order, or quest
+      progression.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - sacred_combat
+    - sacred_love
+    - divine_intervention
+    - stolen_beloved
+    reason_existing_groups_insufficient: Existing groups cover journeys, combat, love,
+      or divine aid, but none directly captures the recurring narrative function of
+      freeing captives from confinement or threatened harm.
+- suggestion_id: normalization.suggestion.rescue-of-abused-damsels-from-a-robber-knight
+  motif_id: rescue_of_abused_damsels_from_a_robber_knight
+  label: rescue of abused damsels from a robber-knight
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Captive Rescue and Deliverance
+  relationship: child
+  confidence: high
+  rationale: The label centers on freeing oppressed or endangered women from a violent
+    captor, a captive-deliverance function.
+  cautions: Robber-knight and damsel language may be Arthurian episode framing; preserve
+    without making it the canonical group label.
+  suggested_aliases:
+  - rescue of damsels from robber knight
+  - deliverance of abused captives
+  - rescue of oppressed damsels
+  suggested_new_group:
+    id: captive_rescue_deliverance
+    label: Captive Rescue and Deliverance
+    description: A hero, helper, or outside party frees an abducted, imprisoned, threatened,
+      or oppressed captive, often restoring kinship, honor, social order, or quest
+      progression.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - sacred_combat
+    - sacred_love
+    - divine_intervention
+    - stolen_beloved
+    reason_existing_groups_insufficient: Existing groups cover journeys, combat, love,
+      or divine aid, but none directly captures the recurring narrative function of
+      freeing captives from confinement or threatened harm.
+- suggestion_id: normalization.suggestion.rescue-of-captive-sisters
+  motif_id: rescue_of_captive_sisters
+  label: rescue of captive sisters
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Captive Rescue and Deliverance
+  relationship: child
+  confidence: high
+  rationale: A straightforward captive-rescue variant, with the captives specified
+    as sisters.
+  cautions: Kinship may matter locally; consider sibling_pair only if the sisters
+    act structurally as a paired motif.
+  suggested_aliases:
+  - rescue of captive sisters
+  - deliverance of imprisoned sisters
+  - freeing captive sisters
+  suggested_new_group:
+    id: captive_rescue_deliverance
+    label: Captive Rescue and Deliverance
+    description: A hero, helper, or outside party frees an abducted, imprisoned, threatened,
+      or oppressed captive, often restoring kinship, honor, social order, or quest
+      progression.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - sacred_combat
+    - sacred_love
+    - divine_intervention
+    - stolen_beloved
+    reason_existing_groups_insufficient: Existing groups cover journeys, combat, love,
+      or divine aid, but none directly captures the recurring narrative function of
+      freeing captives from confinement or threatened harm.
+- suggestion_id: normalization.suggestion.rescue-of-captive-women
+  motif_id: rescue_of_captive_women
+  label: Rescue of captive women
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Captive Rescue and Deliverance
+  relationship: child
+  confidence: high
+  rationale: The motif is a broad captive-deliverance pattern rather than a specific
+    combat, love, or divine-aid motif.
+  cautions: Review source context for whether the emphasis is heroic liberation, marriage
+    quest, kin rescue, or post-raid recovery.
+  suggested_aliases:
+  - rescue of captive women
+  - freeing captive women
+  - deliverance of captive women
+  suggested_new_group:
+    id: captive_rescue_deliverance
+    label: Captive Rescue and Deliverance
+    description: A hero, helper, or outside party frees an abducted, imprisoned, threatened,
+      or oppressed captive, often restoring kinship, honor, social order, or quest
+      progression.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - sacred_combat
+    - sacred_love
+    - divine_intervention
+    - stolen_beloved
+    reason_existing_groups_insufficient: Existing groups cover journeys, combat, love,
+      or divine aid, but none directly captures the recurring narrative function of
+      freeing captives from confinement or threatened harm.
+- suggestion_id: normalization.suggestion.rescue-of-captives-after-a-raid
+  motif_id: rescue_of_captives_after_a_raid
+  label: rescue of captives after a raid
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Captive Rescue and Deliverance
+  relationship: functional_variant
+  confidence: high
+  rationale: This combines raid aftermath with freeing captives; rescue is the core
+    function, with sacred_combat as a likely related context.
+  cautions: If the source focuses on the raid itself rather than deliverance, sacred_combat
+    may be the primary placement.
+  suggested_aliases:
+  - post-raid captive rescue
+  - rescue of captives after raiding
+  - deliverance of raid captives
+  suggested_new_group:
+    id: captive_rescue_deliverance
+    label: Captive Rescue and Deliverance
+    description: A hero, helper, or outside party frees an abducted, imprisoned, threatened,
+      or oppressed captive, often restoring kinship, honor, social order, or quest
+      progression.
+    parent_group_ids:
+    - hero_journey
+    related_group_ids:
+    - sacred_combat
+    - sacred_love
+    - divine_intervention
+    - stolen_beloved
+    reason_existing_groups_insufficient: Existing groups cover journeys, combat, love,
+      or divine aid, but none directly captures the recurring narrative function of
+      freeing captives from confinement or threatened harm.
+batch_notes:
+- Several labels cluster around captive rescue/deliverance across Arthurian, Estonian,
+  Persian, Slavic, and Celtic-Irish material; a candidate group may be warranted if
+  source review confirms recurring narrative function.
+- Do not infer divine intervention, sacred love, or transmission from the presence
+  of rescue alone; use secondary mappings only when passage evidence supports them.
+- Some rescue labels are single-occurrence and highly contextual; retain local details
+  such as desert margin, pit, robber-knight, or kayaker as evidence notes rather than
+  canonical labels.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human review should verify whether
+    captive_rescue_deliverance should become a canonical normalization group or remain
+    a set of granular labels under hero_journey/sacred_combat.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3893
+  input_sha256: fa0d246a9a6896e00a6710de41196c6979b381c0934f71f3e58a08ad919756ad
+

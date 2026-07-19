@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3860
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.reed-pan-pipe-ensemble
+  motif_id: reed_pan_pipe_ensemble
+  label: reed pan-pipe ensemble
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a musical ensemble, but gives no evidence that sound
+    has supernatural, ritual, or narrative force.
+  cautions: May be an ethnographic object/detail rather than a motif; map to enchanting_music
+    only if the passage assigns power or ritual function to the music.
+  suggested_aliases:
+  - pan_pipe_ensemble
+  - reed_panpipes
+  - ritual_pan_pipe_music
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.referral-of-an-unclear-dispute-to-a-commission
+  motif_id: referral_of_an_unclear_dispute_to_a_commission
+  label: Referral of an unclear dispute to a commission
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like an institutional/legal procedure or passage summary
+    rather than a recurring symbolic motif.
+  cautions: If source evidence shows sacred adjudication, monastic discipline, or
+    moral judgment, reconsider under sacred_law or divine_judgment.
+  suggested_aliases:
+  - dispute_referred_to_commission
+  - unclear_dispute_adjudication
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reflection-mistaken-for-a-rival
+  motif_id: reflection_mistaken_for_a_rival
+  label: reflection mistaken for a rival
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Mistaking one's reflection for another often functions as a parable of
+    self-ignorance, illusion, or misrecognition.
+  cautions: In Sufi context it may belong more specifically under mystical_quest if
+    the point is self-knowledge or ego-delusion; if used as a comic animal tale, trickster
+    may fit better.
+  suggested_aliases:
+  - reflection_misrecognized_as_rival
+  - mirror_image_mistaken_for_enemy
+  - self_reflection_as_rival
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.reform-against-drunkenness
+  motif_id: reform_against_drunkenness
+  label: reform against drunkenness
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A reform against drunkenness suggests moral regulation and social-order
+    correction around intoxicants.
+  cautions: Could be historical/social commentary rather than a motif; if the passage
+    centers sacred drink itself, sacred_substance may be relevant instead.
+  suggested_aliases:
+  - temperance_reform
+  - prohibition_of_drunkenness
+  - anti_drunkenness_reform
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-and-incorporation-after-tribal-disruption
+  motif_id: refuge_and_incorporation_after_tribal_disruption
+  label: refuge and incorporation after tribal disruption
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes displacement, refuge, and social incorporation, which
+    may fit exile/homecoming or community reconstitution.
+  cautions: May be a historical migration or ethnographic detail rather than a mythic
+    motif; culturally sensitive source context is needed.
+  suggested_aliases:
+  - refuge_after_tribal_disruption
+  - incorporation_after_displacement
+  - displaced_group_finds_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-burned-with-inhabitants-inside
+  motif_id: refuge_burned_with_inhabitants_inside
+  label: Refuge burned with inhabitants inside
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: low
+  rationale: Burning an occupied refuge is a violent conflict episode rather than
+    a general fire-renewal motif.
+  cautions: May be a specific massacre or historical-memory detail; do not map to
+    world_destroying_fire unless cosmic destruction or renewal is explicit.
+  suggested_aliases:
+  - occupied_refuge_burned
+  - burning_of_refuge_with_inhabitants
+  - refuge_destroyed_by_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-granted-by-kin-linked-host-tribe
+  motif_id: refuge_granted_by_kin_linked_host_tribe
+  label: refuge granted by kin-linked host tribe
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Kin-based granting of refuge can express reciprocal obligation and social
+    bonds.
+  cautions: Could be historical or kinship-system detail rather than symbolic motif;
+    review Indigenous context carefully before broad indexing.
+  suggested_aliases:
+  - kin_based_refuge
+  - host_tribe_grants_refuge
+  - refuge_through_kinship_ties
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-in-a-decayed-dwelling-outside-town
+  motif_id: refuge_in_a_decayed_dwelling_outside_town
+  label: refuge in a decayed dwelling outside town
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: A ruined dwelling outside town is a liminal refuge space, but no guardian
+    or transformative threshold is explicit.
+  cautions: Likely an over-specific setting detail unless the dwelling functions as
+    an ordeal, otherworld threshold, or protected enclosure.
+  suggested_aliases:
+  - refuge_in_ruined_dwelling
+  - liminal_refuge_outside_town
+  - decayed_house_refuge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-settlement-after-rejection-by-another-village
+  motif_id: refuge_settlement_after_rejection_by_another_village
+  label: Refuge settlement after rejection by another village
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: Rejection, refuge, and resettlement resemble exile and social reconstitution
+    after displacement.
+  cautions: May encode local migration history or community origin tradition; needs
+    culturally informed review before motif-query inclusion.
+  suggested_aliases:
+  - settlement_after_rejection
+  - refuge_after_village_rejection
+  - rejected_group_founds_refuge_settlement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.refuge-with-nonhuman-defenders
+  motif_id: refuge_with_nonhuman_defenders
+  label: Refuge with nonhuman defenders
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Nonhuman defenders protecting a refuge fit supernatural or spirit intervention
+    in human danger.
+  cautions: If defenders are animals acting as helpers, animal_helpers under divine_intervention
+    may be apt; if they guard a boundary, threshold_guardian may be a secondary mapping.
+  suggested_aliases:
+  - supernatural_defenders_of_refuge
+  - spirit_defended_refuge
+  - nonhuman_protectors_of_shelter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several refuge labels may reflect migration history, ethnographic memory, or local
+  settlement narratives rather than reusable motifs; prioritize source-context review.
+- Do not infer cosmic fire, flood renewal, or underworld descent from broad refuge
+  or burning language without explicit narrative function.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple single-occurrence labels require culturally
+    informed source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3860
+  input_sha256: 526df16b23e8f76c61f0c76004b9c9707909724747aff9e3342deff4dc416333
+

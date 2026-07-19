@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2108
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.avoidance-naming-of-dangerous-animal
+  motif_id: avoidance_naming_of_dangerous_animal
+  label: avoidance naming of dangerous animal
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Avoiding the name of a dangerous animal reads as a taboo or protective
+    speech prohibition, fitting sacred law and apotropaic regulation.
+  cautions: Single occurrence; if this is merely a lexical euphemism or ethnographic
+    note without ritual force, treat as contextual evidence rather than a motif.
+  suggested_aliases:
+  - dangerous_animal_name_taboo
+  - animal_name_avoidance_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avoidance-of-the-scent-of-animal-viscera
+  motif_id: avoidance_of_the_scent_of_animal_viscera
+  label: avoidance of the scent of animal viscera
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Avoidance of animal viscera scent suggests a purity, danger, or contagion
+    rule around animal remains, already close to sacred-law taboo patterns.
+  cautions: Could be too specific or passage-local; review whether the source frames
+    scent as spiritual danger, hunting protocol, or ordinary practical avoidance.
+  suggested_aliases:
+  - animal_viscera_scent_taboo
+  - avoidance_of_animal_remains_contagion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.awe-inspiring-animal-companion-without-surviving-legend
+  motif_id: awe_inspiring_animal_companion_without_surviving_legend
+  label: awe-inspiring animal companion without surviving legend
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The phrase 'without surviving legend' marks an absence or scholarly preservation
+    note rather than a usable narrative motif.
+  cautions: If the underlying source contains an actual animal-helper episode, index
+    that separately under divine_intervention or a future animal-helper grouping.
+  suggested_aliases:
+  - animal_companion_without_surviving_legend
+  - lost_legend_animal_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.banner-rally-of-wounded-animal-allies
+  motif_id: banner_rally_of_wounded_animal_allies
+  label: banner rally of wounded animal allies
+  occurrences: 1
+  traditions:
+  - celtic_welsh
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: low
+  rationale: Animal allies rallying around a banner fits the animal-helper/support
+    function currently nested under divine intervention.
+  cautions: The label is highly specific and martial; if the focus is battle organization
+    rather than supernatural aid, sacred_combat or divine_warrior may be better.
+  suggested_aliases:
+  - wounded_animal_allies_rally
+  - animal_allies_rally_to_banner
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.basket-bearing-animal
+  motif_id: basket_bearing_animal
+  label: basket-bearing animal
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names an animal with an object but does not reveal whether
+    the function is helper, trickster, messenger, omen, or episode detail.
+  cautions: Single occurrence and too little narrative function; avoid mapping solely
+    from the animal-object image.
+  suggested_aliases:
+  - animal_bearing_basket
+  - basket_carrying_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-power-reshapes-landscape
+  motif_id: battle_power_reshapes_landscape
+  label: Battle power reshapes landscape
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Combat or power causing landscape formation is an etiological landscape-shaping
+    motif, fitting the cosmic-origin group's landscape formation scope.
+  cautions: If the passage emphasizes heroic combat more than etiology, sacred_combat
+    or divine_warrior may be useful secondary mappings.
+  suggested_aliases:
+  - combat_reshapes_landscape
+  - battle_as_landscape_etiology
+  - power_reshapes_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beast-and-animal-character-stories
+  motif_id: beast_and_animal_character_stories
+  label: Beast and animal-character stories
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a genre or corpus-description label, not a specific symbolic
+    or narrative motif.
+  cautions: Do not lose any individual animal episodes beneath this heading; map those
+    separately when passage evidence is available.
+  suggested_aliases:
+  - animal_character_stories
+  - beast_story_genre
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beast-slaying-followed-by-contested-trophy-gift
+  motif_id: beast_slaying_followed_by_contested_trophy_gift
+  label: beast-slaying followed by contested trophy gift
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Beast-slaying and dispute over a trophy are combat and honor-contest
+    functions, closer to sacred combat than general animal symbolism.
+  cautions: If the trophy primarily proves identity or authority, consider recognition_tokens_hidden_identity
+    or sacred_treasures as secondary mappings.
+  suggested_aliases:
+  - beast_slaying_and_contested_trophy
+  - contested_trophy_after_beast_slaying
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beast-story-etiologies-and-animal-enmities
+  motif_id: beast_story_etiologies_and_animal_enmities
+  label: beast-story etiologies and animal enmities
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines genre, etiological explanation, and animal antagonism
+    without a clear existing functional group.
+  cautions: May be a heading for fable-type material rather than a motif; review source
+    evidence before creating an animal-etiology or animal-enmity group.
+  suggested_aliases:
+  - animal_enmity_etiology
+  - beast_story_animal_enmities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beast-with-tree-officers
+  motif_id: beast_with_tree_officers
+  label: beast with tree officers
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is opaque; it may describe animal polity, personified trees,
+    a fable scene, or a generated artifact.
+  cautions: Do not map to sacred tree or trickster without knowing the narrative function
+    of the trees and the beast.
+  suggested_aliases:
+  - animal_with_tree_officials
+  - beast_and_tree_officers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several animal-bucket labels are genre headings or over-specific episode descriptions;
+  source evidence is needed before adding an animal-fable or animal-helper canonical
+  group.
+- Where animal labels function as taboo, purity, or apotropaic rules, sacred_law is
+  the best current broad group despite the animal-focused review bucket.
+reviewer_status:
+  status: draft
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; human taxonomy review required
+    for low-confidence animal and fable labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2108
+  input_sha256: 5c1e65aa71b2e8972ed714a9f5f98b4d5877a4ccbf83323bbb8cabb6b67f77bb
+

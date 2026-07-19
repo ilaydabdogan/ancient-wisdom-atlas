@@ -1,0 +1,304 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1269
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.child-repeats-the-hero-s-name-imperfectly
+  motif_id: child_repeats_the_hero_s_name_imperfectly
+  label: child repeats the hero's name imperfectly
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve naming, speech imitation, recognition, or a passage-specific
+    comic/detail scene; function is unclear.
+  cautions: Single occurrence and culturally specific context; do not map to sacred
+    speech or recognition without evidence that the imperfect name has narrative force.
+  suggested_aliases:
+  - imperfect_repetition_of_hero_name
+  - child_misnames_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - storytelling_as_power
+    - recognition_tokens_hidden_identity
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.childhood-war-dream-after-father-s-killing
+  motif_id: childhood_war_dream_after_father_s_killing
+  label: Childhood war dream after father's killing
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: A childhood dream following a killing likely functions as ominous, initiatory,
+    or revenge-oriented dream knowledge.
+  cautions: If the passage mainly concerns vengeance or warrior initiation, sacred_combat
+    or initiation may be secondary; preserve father-killing context as evidence detail.
+  suggested_aliases:
+  - war_dream_after_father_killing
+  - childhood_vengeance_dream
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.children-named-through-slaughter-animal-imagery
+  motif_id: children_named_through_slaughter_animal_imagery
+  label: children named through slaughter-animal imagery
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif combines naming, children, animal imagery, and slaughter without
+    enough evidence for sacred speech, sacrifice, or lineage placement.
+  cautions: May be a highly contextual kenning, insult, omen, or naming episode; avoid
+    mapping to sacrifice unless ritual offering is present.
+  suggested_aliases:
+  - slaughter_animal_imagery_in_child_names
+  - children_named_by_animal_slaughter_images
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - sacrifice
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.children-s-mimic-warfare-song
+  motif_id: children_s_mimic_warfare_song
+  label: children's mimic warfare song
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: narrower_than
+  confidence: low
+  rationale: The label centers on song, but its sacred or supernatural force is not
+    clear from wording alone.
+  cautions: Could be children's play, foreshadowing, satire, or war training rather
+    than sound power; human review should verify narrative function.
+  suggested_aliases:
+  - children_mimic_war_song
+  - mimic_warfare_song_by_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.children-s-ornaments-echo-adult-ornaments-with-special-materials
+  motif_id: children_s_ornaments_echo_adult_ornaments_with_special_materials
+  label: Children's ornaments echo adult ornaments with special materials
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as a descriptive material-culture detail rather than a reusable
+    symbolic motif.
+  cautions: If ornaments confer status, protection, initiation, or identity in the
+    source, remap to sacred_treasures, initiation, or recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - children_ornaments_echo_adult_ornaments
+  - special_material_child_ornaments
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - initiation
+    - recognition_tokens_hidden_identity
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.children-s-songs-of-mimic-warfare-and-animal-warfare
+  motif_id: children_s_songs_of_mimic_warfare_and_animal_warfare
+  label: children's songs of mimic warfare and animal warfare
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: narrower_than
+  confidence: low
+  rationale: The recurring element is song, with warfare imagery as content rather
+    than clear combat action.
+  cautions: May duplicate children's mimic warfare song; if only a contextual description
+    of play songs, consider exclusion or evidence note rather than motif mapping.
+  suggested_aliases:
+  - children_animal_warfare_song
+  - children_mimic_warfare_songs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_combat
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.choice-between-eggs-creates-animal-named-subclans
+  motif_id: choice_between_eggs_creates_animal_named_subclans
+  label: choice between eggs creates animal-named subclans
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A choice that creates named subclans is an origin or etiological ancestry
+    pattern, with egg imagery as the mechanism.
+  cautions: If the egg itself is cosmological, cosmic_egg may be relevant; if the
+    emphasis is clan totem identity, a future animal-ancestor/totemic origin group
+    might fit better.
+  suggested_aliases:
+  - egg_choice_origin_of_animal_named_subclans
+  - animal_named_subclans_created_by_egg_choice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - cosmic_egg
+    - sacred_twins
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christian-and-heathen-ways-contrasted-in-speech
+  motif_id: christian_and_heathen_ways_contrasted_in_speech
+  label: Christian and heathen ways contrasted in speech
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may be doctrinal contrast, conversion-era commentary, or performative
+    speech depending on passage evidence.
+  cautions: Culturally and historically loaded wording; avoid treating confessional
+    contrast as a motif unless it drives narrative action or sacred law.
+  suggested_aliases:
+  - religious_ways_contrasted_in_speech
+  - christian_heathen_contrast_in_dialogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christian-origin-names-in-heathenish-tales
+  motif_id: christian_origin_names_in_heathenish_tales
+  label: Christian-origin names in heathenish tales
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes naming provenance or syncretic/editorial classification,
+    not a narrative motif.
+  cautions: Preserve as transmission or source-history metadata if needed, but exclude
+    from motif pattern queries.
+  suggested_aliases:
+  - christian_names_in_non_christian_tales
+  - christian_origin_name_layer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.christian-protective-speech-and-gesture-in-uncanny-danger
+  motif_id: christian_protective_speech_and_gesture_in_uncanny_danger
+  label: Christian protective speech and gesture in uncanny danger
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protective sacred words and gestures in danger function as performative
+    apotropaic speech acts.
+  cautions: Could also fit sacred_law/apotropaic protection if ritual rule is central,
+    or divine_intervention if a deity directly rescues the figure.
+  suggested_aliases:
+  - protective_sacred_speech_and_gesture
+  - apotropaic_christian_speech_in_uncanny_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, child-centered, and highly contextual;
+  preserve local evidence and avoid promoting new groups without recurrence.
+- Labels using Christian/heathen contrast may reflect source, editorial, or reception
+  framing rather than reusable motifs and need culturally sensitive review.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1269
+  input_sha256: 8afe87ea31ac09454c32c44de650bd1dd5150b55367375055d568ed8f843ffd5
+

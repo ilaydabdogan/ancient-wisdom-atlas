@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3716
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.neglected-time-limit-through-pleasure
+  motif_id: neglected_time_limit_through_pleasure
+  label: neglected time limit through pleasure
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: uncertain
+  confidence: low
+  rationale: A forgotten time limit through pleasure may indicate enchanted otherworld
+    time or taboo violation, but the function is unclear from the label alone.
+  cautions: Single occurrence; could instead be a moral warning, journey delay, ritual
+    taboo, or episode-specific detail. Needs source context before mapping.
+  suggested_aliases:
+  - pleasure_causes_forgetting_of_time_limit
+  - forgotten_deadline_in_enchanted_sojourn
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.negligent-custodian-liability
+  motif_id: negligent_custodian_liability
+  label: Negligent custodian liability
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: narrower_than
+  confidence: medium
+  rationale: Liability for negligent custody is a legal-social responsibility pattern,
+    fitting sacred law and social order.
+  cautions: May be a law-code rule rather than a narrative motif; preserve as legal
+    evidence and avoid treating as mythic narrative without passage support.
+  suggested_aliases:
+  - custodian_liability_for_negligence
+  - legal_responsibility_of_custodian
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.negotiated-co-presence-of-indigenous-and-american-medical-practice
+  motif_id: negotiated_co_presence_of_indigenous_and_american_medical_practice
+  label: Negotiated co-presence of Indigenous and American medical practice
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes cultural/ethnographic coexistence of medical systems
+    rather than a symbolic or narrative motif.
+  cautions: Culturally sensitive historical framing; retain as contextual or commentary
+    metadata if needed, not as a motif query facet.
+  suggested_aliases:
+  - co_presence_of_indigenous_and_american_medical_practice
+  - negotiated_medical_pluralism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.neighbor-transmission-of-raven-myths-and-ceremonial-practices
+  motif_id: neighbor_transmission_of_raven_myths_and_ceremonial_practices
+  label: Neighbor transmission of raven myths and ceremonial practices
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This is a transmission or diffusion claim about myths and practices,
+    not a motif placement.
+  cautions: Keep transmission claims out of normalization. Raven-related narrative
+    content, if present, should be separately indexed under trickster or animal-specific
+    motifs.
+  suggested_aliases:
+  - transmission_of_raven_myths_between_neighbors
+  - neighbor_borrowing_of_ceremonial_practices
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.neighborly-restoration-and-aid
+  motif_id: neighborly_restoration_and_aid
+  label: Neighborly restoration and aid
+  occurrences: 1
+  traditions:
+  - jewish_christian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Neighborly aid and restoration fit reciprocal social care and repair
+    of communal relationship.
+  cautions: Could also fit sacred_law if framed as commandment or divine obligation;
+    label is broad and may be an ethical theme rather than a narrative motif.
+  suggested_aliases:
+  - neighborly_aid_and_restoration
+  - communal_restoration_through_neighborly_help
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nephew-defeats-or-drives-off-disloyal-uncle
+  motif_id: nephew_defeats_or_drives_off_disloyal_uncle
+  label: nephew defeats or drives off disloyal uncle
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: uncertain
+  confidence: low
+  rationale: A younger kin figure overcoming a disloyal uncle may involve succession,
+    household order, or legitimacy conflict.
+  cautions: Could be ordinary kin conflict, heroic combat, betrayal, or court politics.
+    Source evidence is needed before placing under royal legitimacy or sacred combat.
+  suggested_aliases:
+  - nephew_defeats_disloyal_uncle
+  - nephew_drives_off_treacherous_uncle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nephew-repeats-and-surpasses-uncle-s-encounter
+  motif_id: nephew_repeats_and_surpasses_uncle_s_encounter
+  label: Nephew repeats and surpasses uncle's encounter
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: uncertain
+  confidence: low
+  rationale: Repeating and surpassing an elder relative's encounter may mark initiation,
+    inherited pattern, or status transformation.
+  cautions: Could be a lineage-comparison detail rather than a motif; culturally specific
+    encounter content is needed before mapping.
+  suggested_aliases:
+  - junior_kin_surpasses_elder_relative_encounter
+  - nephew_surpasses_uncle_in_repeated_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nephew-repeats-and-surpasses-uncle-s-pattern
+  motif_id: nephew_repeats_and_surpasses_uncle_s_pattern
+  label: Nephew repeats and surpasses uncle’s pattern
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: uncertain
+  confidence: low
+  rationale: The label resembles an intergenerational repetition-and-surpassing structure
+    that may indicate initiation or succession of status.
+  cautions: Near-duplicate of nephew_repeats_and_surpasses_uncle_s_encounter; review
+    together and verify whether this is an evidence detail or recurring motif.
+  suggested_aliases:
+  - nephew_repeats_and_surpasses_uncle_s_encounter
+  - junior_kin_surpasses_elder_relative_pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nested-containers-conceal-the-vital-object
+  motif_id: nested_containers_conceal_the_vital_object
+  label: Nested containers conceal the vital object
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: A vital object hidden in nested containers matches external-soul and
+    life-token concealment patterns.
+  cautions: If the object is merely a treasure or quest object rather than a life-force
+    token, sacred_treasures or sacred_vessel may be better secondary mappings.
+  suggested_aliases:
+  - nested_containers_hide_life_token
+  - vital_object_concealed_in_nested_containers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.nested-containers-for-a-vulnerable-life-force
+  motif_id: nested_containers_for_a_vulnerable_life_force
+  label: nested containers for a vulnerable life-force
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: A vulnerable life-force kept in nested containers is a clear external-soul
+    or life-token variant.
+  cautions: Likely duplicate or close variant of nested_containers_conceal_the_vital_object;
+    preserve container nesting as evidence detail.
+  suggested_aliases:
+  - nested_containers_conceal_the_vital_object
+  - life_force_hidden_in_nested_containers
+  - nested_life_token_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and should remain provisional pending passage
+  evidence.
+- Transmission and ethnographic co-presence labels should be excluded from motif pattern
+  queries rather than normalized as narrative motifs.
+- The two nested-container labels are likely close variants within the external_soul
+  group and should be reviewed together.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3716
+  input_sha256: af652ce0a7557cf1994b4badc204a185aa2ba8e5b8db7c664634a1f60c8de879
+

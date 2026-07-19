@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0502
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.elemental-and-fire-worship
+  motif_id: elemental_and_fire_worship
+  label: elemental and fire worship
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Fire as object of sacred attention and worship fits the sacred_fire group
+    better than journey material.
+  cautions: The label also says elemental worship; if the passage centers all elements
+    rather than fire, human review may need sacred_law or a new elemental cult placement.
+  suggested_aliases:
+  - fire worship
+  - elemental worship
+  - sacred fire worship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embedded-communal-tale-performance-during-travel
+  motif_id: embedded_communal_tale_performance_during_travel
+  label: Embedded communal tale performance during travel
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on tale performance as a communal act, with travel
+    as setting rather than core function.
+  cautions: If this is only an episode structure or ethnographic performance note,
+    it may be too contextual for pattern queries.
+  suggested_aliases:
+  - communal tale performance during travel
+  - storytelling during travel
+  - embedded travel tale performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.embodied-total-person-worship
+  motif_id: embodied_total_person_worship
+  label: Embodied total-person worship
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The phrase is abstract and could refer to ritual posture, whole-person
+    devotion, anthropology, or commentary.
+  cautions: Single occurrence and culturally specific Zoroastrian ritual/theological
+    wording; source evidence is needed before mapping.
+  suggested_aliases:
+  - whole-person worship
+  - embodied worship
+  - total-person devotion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-exile-bound-to-a-water-place
+  motif_id: enchanted_exile_bound_to_a_water_place
+  label: Enchanted exile bound to a water-place
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: An enchanted exile tied to a specific watery place suggests otherworldly
+    enchantment or liminal realm more than ordinary journey.
+  cautions: Could map to sacred_waters if the water-place is the active transformative
+    boundary, or to exile_wandering if exile is the main pattern.
+  suggested_aliases:
+  - enchanted water exile
+  - exile bound to water-place
+  - water-bound enchanted exile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enchanted-threshold-crossing-over-dangerous-ice
+  motif_id: enchanted_threshold_crossing_over_dangerous_ice
+  label: Enchanted threshold crossing over dangerous ice
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: A perilous threshold crossing functions as an ordeal or passage into
+    a changed state.
+  cautions: If the ice is chiefly a water-bound liminal surface, sacred_waters may
+    be a useful secondary relation; if a guardian is present, threshold_guardian may
+    fit better.
+  suggested_aliases:
+  - dangerous ice crossing
+  - enchanted ice threshold
+  - perilous threshold crossing over ice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encoded-travel-and-feast-sign
+  motif_id: encoded_travel_and_feast_sign
+  label: encoded travel and feast sign
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could indicate a sign, itinerary marker, ritual feast cue,
+    or interpretive artifact, and the function is unclear.
+  cautions: May be over-specific or culturally sensitive; verify whether this is a
+    narrative motif, material sign system, or analyst description.
+  suggested_aliases:
+  - encoded travel sign
+  - feast sign
+  - travel and feast marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-a-hybrid-creature-during-a-journey
+  motif_id: encounter_with_a_hybrid_creature_during_a_journey
+  label: encounter with a hybrid creature during a journey
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: role_variant
+  confidence: low
+  rationale: A hybrid creature met during a journey may function as a liminal encounter
+    or passage test.
+  cautions: The label does not state that the creature guards, tests, or blocks passage;
+    if it is merely encountered, human review may prefer otherworld, shapeshifter,
+    or exclusion as too generic.
+  suggested_aliases:
+  - journey encounter with hybrid creature
+  - hybrid creature encounter
+  - liminal hybrid encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-a-traveler-moving-over-water-in-a-chariot
+  motif_id: encounter_with_a_traveler_moving_over_water_in_a_chariot
+  label: Encounter with a traveler moving over water in a chariot
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: functional_variant
+  confidence: medium
+  rationale: Supernormal travel over water points to water as liminal medium and passage
+    space.
+  cautions: If the chariot or traveler is the sacred focus, divine_intervention, otherworld,
+    or sacred_treasures may be relevant; preserve chariot detail as evidence.
+  suggested_aliases:
+  - traveler moving over water
+  - chariot over water
+  - supernatural water crossing by chariot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.encounter-with-frontier-authority-after-arrival
+  motif_id: encounter_with_frontier_authority_after_arrival
+  label: Encounter with frontier authority after arrival
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads like a contextual travel episode or social encounter rather
+    than a durable mythic motif.
+  cautions: If the authority acts as a liminal gatekeeper or sacred test, threshold_guardian
+    or sacred_law could be reconsidered after source review.
+  suggested_aliases:
+  - frontier authority encounter
+  - arrival encounter with authority
+  - post-arrival authority encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.enemy-encounter-transformed-into-sworn-friendship
+  motif_id: enemy_encounter_transformed_into_sworn_friendship
+  label: enemy encounter transformed into sworn friendship
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hostile encounter transformed into sworn friendship centers on oath-like
+    social bonding and repair of enmity.
+  cautions: If the passage emphasizes mercy after defeat, divine_judgment or sacred_law
+    may also apply; if it is only plot resolution, keep as granular evidence.
+  suggested_aliases:
+  - enemy becomes sworn friend
+  - sworn friendship after hostile encounter
+  - hostility transformed into oath friendship
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items were placed despite the journey bucket because their labels point
+  more strongly to ritual, storytelling, water passage, or covenantal bond than to
+  journey structure itself.
+- Single-occurrence and culturally specific labels should remain provisional until
+  passage evidence confirms a recurring motif function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0502
+  input_sha256: 0c4516ed75171e84ab4f390aeaef91e52fe1ce1289f8d47d8f0c8d207fb42238
+

@@ -1,0 +1,339 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3519
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.healer-receives-or-redirects-lavish-payment
+  motif_id: healer_receives_or_redirects_lavish_payment
+  label: healer receives or redirects lavish payment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: low
+  rationale: Payment redirected or received after healing may express gift, merit,
+    reciprocity, or renunciation around a sacred service.
+  cautions: Single occurrence; could be an episode-specific economic detail rather
+    than a motif. Buddhist context may emphasize merit or ethical refusal, requiring
+    source review.
+  suggested_aliases:
+  - healer payment redirected
+  - lavish payment for healing
+  - healing reward redirected
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healer-refuses-to-prolong-intemperate-or-useless-lives
+  motif_id: healer_refuses_to_prolong_intemperate_or_useless_lives
+  label: Healer refuses to prolong intemperate or useless lives
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: low
+  rationale: The label frames healing as governed by moral or social judgment about
+    proper life, discipline, and usefulness.
+  cautions: Culturally and philosophically contextual; may reflect medical ethics
+    or authorial argument rather than mythic motif. Could also fit divine_judgment
+    if sacred punishment is explicit.
+  suggested_aliases:
+  - healer refuses futile treatment
+  - medicine governed by moral worth
+  - healing withheld from intemperate lives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healer-s-confidence-conveyed-through-repeated-keynote
+  motif_id: healer_s_confidence_conveyed_through_repeated_keynote
+  label: healer’s confidence conveyed through repeated keynote
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: enchanting_music
+  suggested_group_label: Enchanting Music and Sound Power
+  relationship: ritual_variant
+  confidence: low
+  rationale: A repeated keynote in healing may be a ritual sound pattern with performative
+    or therapeutic force.
+  cautions: May be a performance-analysis artifact rather than a motif. Review Native
+    American source context carefully before treating musical structure as symbolic
+    pattern.
+  suggested_aliases:
+  - healing song repeated keynote
+  - ritual healing refrain
+  - healer confidence through song pattern
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healer-succeeds-where-renowned-physicians-fail
+  motif_id: healer_succeeds_where_renowned_physicians_fail
+  label: healer succeeds where renowned physicians fail
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sacred Healing and Medicine
+  relationship: child
+  confidence: medium
+  rationale: The recurring function is healing power surpassing ordinary medicine,
+    not merely general divine intervention.
+  cautions: If the healer is explicitly a deity or miracle worker, divine_intervention
+    may be sufficient. Human review should decide whether healing motifs warrant a
+    durable group.
+  suggested_aliases:
+  - miraculous healer surpasses physicians
+  - sacred healer succeeds where doctors fail
+  - extraordinary healing beyond ordinary medicine
+  suggested_new_group:
+    id: sacred_healing_medicine
+    label: Sacred Healing and Medicine
+    description: Healing, curing, medicine, therapeutic ritual, and healer figures
+      understood as sacred, supernatural, morally charged, or ritually empowered.
+      Includes medicine deities, miracle healers, healing songs, charms, and cures
+      that exceed ordinary medical skill.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    related_group_ids:
+    - sacred_substance
+    - sacred_exchange
+    - enchanting_music
+    - soul_loss_restoration
+    reason_existing_groups_insufficient: Existing groups cover divine aid, sacred
+      substances, ritual law, and soul restoration, but none cleanly centers healing
+      and medicine as the primary motif function.
+- suggestion_id: normalization.suggestion.healer-swallows-and-emits-bones
+  motif_id: healer_swallows_and_emits_bones
+  label: healer swallows and emits bones
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_healing_medicine
+  suggested_group_label: Sacred Healing and Medicine
+  relationship: ritual_variant
+  confidence: low
+  rationale: The act appears to be a specialized healing or shamanic performance involving
+    bodily transformation or extraction.
+  cautions: Source evidence is essential; the label may encode a culturally specific
+    healing rite, trick, ordeal, or passage artifact. Avoid overgeneralizing Indigenous
+    medicine practices.
+  suggested_aliases:
+  - healer emits swallowed bones
+  - bone swallowing healing rite
+  - ritual bone extraction by healer
+  suggested_new_group:
+    id: sacred_healing_medicine
+    label: Sacred Healing and Medicine
+    description: Healing, curing, medicine, therapeutic ritual, and healer figures
+      understood as sacred, supernatural, morally charged, or ritually empowered.
+      Includes medicine deities, miracle healers, healing songs, charms, and cures
+      that exceed ordinary medical skill.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    related_group_ids:
+    - sacred_substance
+    - soul_loss_restoration
+    - shapeshifter
+    reason_existing_groups_insufficient: Existing groups do not provide a direct home
+      for ritual healer actions unless they are reduced to general divine intervention
+      or transformation.
+- suggestion_id: normalization.suggestion.healing-affirmation-with-good-medicine
+  motif_id: healing_affirmation_with_good_medicine
+  label: healing affirmation with good medicine
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label foregrounds medicine as an efficacious sacred substance or
+    ritual medium used in healing.
+  cautions: Phrase may be too generic or derived from translated ritual language.
+    Could fit a new sacred_healing_medicine group if healing is the primary function
+    rather than substance symbolism.
+  suggested_aliases:
+  - good medicine healing formula
+  - healing through good medicine
+  - affirmation of medicine power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-after-supernatural-encounter
+  motif_id: healing_after_supernatural_encounter
+  label: Healing after supernatural encounter
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Healing follows contact with a supernatural power, matching direct sacred
+    intervention in human affairs.
+  cautions: If the encounter is an initiation, vision quest, or soul restoration rite,
+    secondary placement may be needed. Preserve local supernatural being and healing
+    mechanism in notes.
+  suggested_aliases:
+  - supernatural encounter brings healing
+  - healing through spirit encounter
+  - cure after sacred encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-and-apotropaic-invocation
+  motif_id: healing_and_apotropaic_invocation
+  label: Healing and apotropaic invocation
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Apotropaic invocation aligns with ritual protection and sacred regulation
+    already folded under sacred_law.
+  cautions: Could also relate to curse_blessing_speech if the spoken invocation itself
+    is the operative sacred act, or to divine_intervention if a deity cures directly.
+  suggested_aliases:
+  - protective healing invocation
+  - apotropaic healing charm
+  - healing by protective sacred speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-and-charms-through-special-medicines
+  motif_id: healing_and_charms_through_special_medicines
+  label: healing and charms through special medicines
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: low
+  rationale: Special medicines used with charms fit sacred substances and ritual efficacy
+    around healing.
+  cautions: Could belong in a new sacred_healing_medicine group; review culturally
+    specific medicine terminology and whether charms are spoken, object-based, or
+    herbal.
+  suggested_aliases:
+  - special medicines and charms
+  - healing charms with medicine
+  - ritual medicine cures
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-and-medicine-deities
+  motif_id: healing_and_medicine_deities
+  label: Healing and medicine deities
+  occurrences: 1
+  traditions:
+  - nahua_maya_inca
+  review_bucket_id: needs_human_sorting
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Sacred Healing and Medicine
+  relationship: child
+  confidence: medium
+  rationale: Medicine deities are specifically divine figures governing healing, a
+    repeated motif function not cleanly captured by general divine intervention.
+  cautions: May be a category label for deities rather than a narrative motif. If
+    only listing deity domains, consider excluding from pattern queries or preserving
+    as an index facet after review.
+  suggested_aliases:
+  - medicine deities
+  - healing gods
+  - divine patrons of healing
+  suggested_new_group:
+    id: sacred_healing_medicine
+    label: Sacred Healing and Medicine
+    description: Healing, curing, medicine, therapeutic ritual, and healer figures
+      understood as sacred, supernatural, morally charged, or ritually empowered.
+      Includes medicine deities, miracle healers, healing songs, charms, and cures
+      that exceed ordinary medical skill.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    related_group_ids:
+    - sacred_substance
+    - soul_loss_restoration
+    - theophany
+    reason_existing_groups_insufficient: Divine_intervention is too broad for deity
+      roles and ritual medicine motifs where healing itself is the stable comparative
+      function.
+batch_notes:
+- Several labels in this batch cluster around sacred healing, ritual medicine, and
+  healer roles. Consider whether a new canonical group such as sacred_healing_medicine
+  should be added after reviewing more unmapped healing motifs.
+- Use caution with culturally specific Indigenous and Mesoamerican healing labels;
+  source evidence should determine whether the item is a narrative motif, ritual practice,
+  deity-domain index term, or generated passage artifact.
+- Where healing is clearly caused by a god, spirit, or supernatural agent, divine_intervention
+  remains a safe broad parent; where medicine or charms are primary, sacred_substance,
+  sacred_law, or curse_blessing_speech may be relevant secondary placements.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions; human review recommended especially for proposed
+    sacred_healing_medicine group and culturally specific ritual-healing labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3519
+  input_sha256: 613035f461fed3e171b75763af10f44252f2ae8f8c35995a75bbaffad33b8350
+

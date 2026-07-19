@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2224
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.offspring-protected-from-predatory-animal
+  motif_id: offspring_protected_from_predatory_animal
+  label: Offspring protected from predatory animal
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe animal-parent protection, miraculous child protection,
+    or a fable episode, but the narrative function is unclear.
+  cautions: Single occurrence; do not assume trickster or miraculous-child function
+    without source evidence.
+  suggested_aliases:
+  - offspring_protected_from_predator
+  - young_protected_from_predatory_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.old-style-animal-hide-moccasin-construction
+  motif_id: old_style_animal_hide_moccasin_construction
+  label: Old-style animal-hide moccasin construction
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This reads as an ethnographic or material-culture detail about craft
+    technique, not a recurring mythic motif.
+  cautions: If the footwear has supernatural power, identity-token function, or journey
+    function in the passage, remap to sacred_treasures, recognition_tokens_hidden_identity,
+    or hero_journey.
+  suggested_aliases:
+  - animal_hide_moccasin_construction
+  - traditional_moccasin_construction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.omen-bearing-bird
+  motif_id: omen_bearing_bird
+  label: Omen-bearing bird
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bird that carries or signals an omen functions as divination or prophetic
+    sign rather than merely animal symbolism.
+  cautions: Could map to dream_and_vision if the bird appears in a spontaneous vision
+    or dream; keep bird species details as evidence.
+  suggested_aliases:
+  - bird_omen
+  - omen_bird
+  - bird_as_omen_bearer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ominous-prediction-involving-killing-an-animal-and-using-its-blood
+  motif_id: ominous_prediction_involving_killing_an_animal_and_using_its_blood
+  label: ominous prediction involving killing an animal and using its blood
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core function is prediction through a ritualized animal-blood act,
+    fitting divination more than general animal motifs.
+  cautions: May also involve sacrifice or blood_as_life under sacred_law if the passage
+    emphasizes offering, taboo, or life-substance rather than prediction.
+  suggested_aliases:
+  - animal_blood_divination
+  - ominous_prediction_by_animal_blood
+  - blood_omen_from_killed_animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-directional-animal-stream-of-unknown-origin-and-purpose
+  motif_id: one_directional_animal_stream_of_unknown_origin_and_purpose
+  label: one-directional animal stream of unknown origin and purpose
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a puzzling animal movement but gives no clear narrative
+    function such as omen, migration, abundance, or otherworld passage.
+  cautions: Likely over-specific; source context is needed before mapping to prophecy_divination,
+    otherworld, sacred_waters, or animal-helper patterns.
+  suggested_aliases:
+  - mysterious_one_directional_animal_stream
+  - one_way_stream_of_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.one-surviving-monster-remains-vulnerable-to-a-specific-animal-cry
+  motif_id: one_surviving_monster_remains_vulnerable_to_a_specific_animal_cry
+  label: One surviving monster remains vulnerable to a specific animal cry
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: conditional_invulnerability_hidden_weakness
+  suggested_group_label: Conditional Invulnerability and Hidden Weakness
+  relationship: functional_variant
+  confidence: high
+  rationale: The salient structure is a monster with a particular vulnerability, here
+    triggered by an animal cry.
+  cautions: If the animal cry is primarily magical sound rather than vulnerability
+    condition, enchanting_music may be a secondary relation.
+  suggested_aliases:
+  - monster_vulnerable_to_specific_animal_cry
+  - surviving_monster_with_animal_cry_weakness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.onomatopoeic-animal-and-bird-naming
+  motif_id: onomatopoeic_animal_and_bird_naming
+  label: onomatopoeic animal and bird naming
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: Naming animals by their sounds is likely an etiological naming motif
+    explaining origins of animal names.
+  cautions: If this is only a linguistic note or collector commentary, exclude as
+    meta_textual; if embedded in creation narrative, cosmic_origin is appropriate.
+  suggested_aliases:
+  - animal_and_bird_name_etiology_by_sound
+  - onomatopoeic_animal_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.onomatopoetic-bird-naming
+  motif_id: onomatopoetic_bird_naming
+  label: Onomatopoetic bird naming
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label likely describes an etiological explanation for bird names
+    based on calls or sounds.
+  cautions: Spelling variant of onomatopoeic; exclude if it is merely a linguistic
+    annotation rather than narrative etiology.
+  suggested_aliases:
+  - onomatopoeic_bird_naming
+  - bird_name_etiology_by_sound
+  - bird_call_name_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.opening-of-revenge-trick-after-lost-contest
+  motif_id: opening_of_revenge_trick_after_lost_contest
+  label: opening of revenge trick after lost contest
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A revenge trick following a lost contest fits deceptive retaliation and
+    trickster-style narrative strategy.
+  cautions: Highly episode-specific; if the passage emphasizes formal contest, feud,
+    or sacred combat over deception, sacred_combat or divine_judgment may be better.
+  suggested_aliases:
+  - revenge_trick_after_lost_contest
+  - deceptive_revenge_after_defeat_in_contest
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ordinary-animal-or-tool-becomes-a-wonder-among-people-who-lack-it
+  motif_id: ordinary_animal_or_tool_becomes_a_wonder_among_people_who_lack_it
+  label: ordinary animal or tool becomes a wonder among people who lack it
+  occurrences: 1
+  traditions:
+  - germanic
+  review_bucket_id: animals_trickster_transformation
+  suggested_action: map_to_existing_group
+  suggested_group_id: culture_hero
+  suggested_group_label: Culture Hero and Founder
+  relationship: functional_variant
+  confidence: low
+  rationale: An unfamiliar ordinary animal or tool becoming wondrous may reflect introduction
+    of a cultural good to a group lacking it.
+  cautions: Could be a comic travel detail, marvel motif, or ethnographic contrast
+    rather than culture-hero founding; source evidence needed.
+  suggested_aliases:
+  - ordinary_tool_as_wonder_among_people_who_lack_it
+  - unfamiliar_animal_or_tool_as_marvel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several animal-bucket labels are single-occurrence and may be fable or ethnographic
+  details; preserve source evidence before promoting new groups.
+- Onomatopoeic naming labels may be aliases of an etiology pattern if narrative, but
+  should be excluded if only linguistic commentary.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional suggestions only; human review recommended for low-confidence
+    animal and naming items.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2224
+  input_sha256: 813d131ed2e284f7e5eea7696b3e0f5e2a4bdebad147af324e3d86b1ef901658
+

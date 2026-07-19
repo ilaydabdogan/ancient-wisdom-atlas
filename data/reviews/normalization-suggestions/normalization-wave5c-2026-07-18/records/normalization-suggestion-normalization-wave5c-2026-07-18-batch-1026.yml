@@ -1,0 +1,325 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1026
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-cure-through-song-and-mimetic-or-material-contact
+  motif_id: ritual_cure_through_song_and_mimetic_or_material_contact
+  label: Ritual cure through song and mimetic or material contact
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes ritual healing using song and embodied or material
+    contact, but no existing group cleanly covers ritual curing as such.
+  cautions: Culturally specific healing practice; avoid flattening into sacrifice,
+    sacred law, or music without passage evidence about the ritual function.
+  suggested_aliases:
+  - ritual_healing_through_song
+  - mimetic_material_ritual_cure
+  suggested_new_group:
+    id: ritual_healing
+    label: Ritual Healing and Curing
+    description: Ritual acts, songs, substances, gestures, or ceremonial procedures
+      used to cure illness, restore balance, or remove affliction.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    - sacred_exchange
+    related_group_ids:
+    - sacrifice
+    - enchanting_music
+    - soul_loss_restoration
+    reason_existing_groups_insufficient: Existing groups cover divine intervention,
+      purity law, expulsion, and song power, but not healing rites where the main
+      function is curing illness.
+- suggestion_id: normalization.suggestion.ritual-curing-through-repeated-application-and-pipe-smoking
+  motif_id: ritual_curing_through_repeated_application_and_pipe_smoking
+  label: ritual curing through repeated application and pipe smoking
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This is a specific ritual-healing procedure involving repeated application
+    and pipe smoking.
+  cautions: May be too procedure-specific for pattern queries; source context needed
+    before grouping under healing, sacred substance, smoke, or purification.
+  suggested_aliases:
+  - ritual_cure_by_repeated_application
+  - ritual_curing_with_pipe_smoking
+  suggested_new_group:
+    id: ritual_healing
+    label: Ritual Healing and Curing
+    description: Ritual acts, songs, substances, gestures, or ceremonial procedures
+      used to cure illness, restore balance, or remove affliction.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    - sacred_exchange
+    related_group_ids:
+    - sacred_substance
+    - sacrifice
+    - soul_loss_restoration
+    reason_existing_groups_insufficient: Existing groups do not preserve the curing
+      function without reducing it to substance use, purity rule, or sacrifice.
+- suggestion_id: normalization.suggestion.ritual-custom-originates-in-exemplary-mourning
+  motif_id: ritual_custom_originates_in_exemplary_mourning
+  label: Ritual custom originates in exemplary mourning
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on mourning becoming an exemplary source for ritual
+    custom.
+  cautions: If the passage emphasizes ritual norm formation more than grief, sacred_law
+    may be an important secondary review target.
+  suggested_aliases:
+  - mourning_as_origin_of_ritual_custom
+  - exemplary_mourning_establishes_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-cutting-of-final-corn-by-thrown-sickles
+  motif_id: ritual_cutting_of_final_corn_by_thrown_sickles
+  label: Ritual cutting of final corn by thrown sickles
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Final-corn cutting belongs to harvest-cycle ritual and seasonal recurrence.
+  cautions: The thrown-sickles detail may be over-specific; if the rite involves offering
+    or killing a corn spirit, sacrifice may be a secondary mapping.
+  suggested_aliases:
+  - final_corn_harvest_rite
+  - ritual_cutting_of_last_sheaf
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-dance-and-ceremony-topics-in-bibliography
+  motif_id: ritual_dance_and_ceremony_topics_in_bibliography
+  label: Ritual dance and ceremony topics in bibliography
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label identifies bibliography topics rather than a narrative, ritual,
+    or symbolic motif.
+  cautions: Preserve only as provenance or source-index metadata, not as a motif pattern.
+  suggested_aliases:
+  - bibliographic_topics_on_ritual_dance
+  - ritual_ceremony_bibliography_topic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-dance-around-a-drum
+  motif_id: ritual_dance_around_a_drum
+  label: ritual dance around a drum
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label is a ritual dance configuration, but the function is not stated.
+  cautions: Could involve sound power, social unity, healing, offering, or ceremony-specific
+    practice; avoid mapping to enchanting_music unless the drum sound has supernatural
+    force.
+  suggested_aliases:
+  - ceremonial_dance_around_drum
+  - drum_centered_ritual_dance
+  suggested_new_group:
+    id: ritual_dance
+    label: Ritual Dance and Ceremonial Movement
+    description: Dance, procession, circuit, or patterned ceremonial movement used
+      to heal, unify, transform, honor powers, or enact sacred order.
+    parent_group_ids:
+    - sacred_law
+    - sacred_exchange
+    related_group_ids:
+    - enchanting_music
+    - sacred_time
+    - divine_intervention
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover music, law, and exchange,
+      but not dance or ceremonial movement as the primary ritual medium.
+- suggestion_id: normalization.suggestion.ritual-dance-as-peaceful-political-transformation
+  motif_id: ritual_dance_as_peaceful_political_transformation
+  label: Ritual dance as peaceful political transformation
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The dance functions as ritualized transformation of social-political
+    order, fitting sacred law and ordered conduct.
+  cautions: Royal_legitimacy may be relevant if the passage centers on rulership or
+    dynastic authority rather than broader social order.
+  suggested_aliases:
+  - ritual_dance_transforms_political_order
+  - ceremonial_dance_as_peaceful_governance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-dance-as-social-unification
+  motif_id: ritual_dance_as_social_unification
+  label: ritual dance as social unification
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Communal dance here functions to create or repair group reciprocity and
+    social bonds.
+  cautions: If the source frames this as law, initiation, or calendrical ceremony,
+    sacred_law, initiation, or sacred_time may be better secondary mappings.
+  suggested_aliases:
+  - communal_unification_through_ritual_dance
+  - ritual_dance_creates_social_bond
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-dance-circuit-between-ceremonial-locations
+  motif_id: ritual_dance_circuit_between_ceremonial_locations
+  label: Ritual dance circuit between ceremonial locations
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: A ceremonial circuit suggests ritual movement through sacred places,
+    but its function is unclear from the label alone.
+  cautions: Could fit sacred geography, pilgrimage, ritual dance, seasonal cycle,
+    or boundary-making depending on source evidence.
+  suggested_aliases:
+  - ceremonial_dance_circuit
+  - ritual_circuit_between_sacred_locations
+  suggested_new_group:
+    id: ritual_dance
+    label: Ritual Dance and Ceremonial Movement
+    description: Dance, procession, circuit, or patterned ceremonial movement used
+      to heal, unify, transform, honor powers, or enact sacred order.
+    parent_group_ids:
+    - sacred_law
+    - sacred_exchange
+    related_group_ids:
+    - axis_mundi
+    - sacred_time
+    - sacred_geography_pilgrimage
+    reason_existing_groups_insufficient: Existing groups do not clearly capture dance/processional
+      movement as the primary repeated ritual structure.
+- suggestion_id: normalization.suggestion.ritual-dance-cures-pestilence
+  motif_id: ritual_dance_cures_pestilence
+  label: ritual dance cures pestilence
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes disease curing through ceremonial dance, a likely
+    ritual-healing pattern not covered cleanly by current groups.
+  cautions: Culturally specific and medically/ritually sensitive; review whether the
+    passage emphasizes curing, expulsion of affliction, divine aid, or communal renewal.
+  suggested_aliases:
+  - pestilence_cured_by_ritual_dance
+  - healing_dance_against_epidemic
+  suggested_new_group:
+    id: ritual_healing
+    label: Ritual Healing and Curing
+    description: Ritual acts, songs, substances, gestures, or ceremonial procedures
+      used to cure illness, restore balance, or remove affliction.
+    parent_group_ids:
+    - divine_intervention
+    - sacred_law
+    - sacred_exchange
+    related_group_ids:
+    - ritual_dance
+    - sacrifice
+    - soul_loss_restoration
+    reason_existing_groups_insufficient: Current groups can approximate expulsion,
+      divine aid, or social order, but none preserve ritual curing as the main narrative
+      function.
+batch_notes:
+- Several labels in this batch point toward recurring ritual-healing and ritual-dance
+  complexes that are not cleanly represented by existing groups.
+- For Indigenous ritual materials, human review should verify source context and culturally
+  appropriate terminology before broad pattern indexing.
+- Single-occurrence procedural labels should usually remain granular evidence unless
+  similar healing or dance patterns recur across sources.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional placements only; ritual_healing and ritual_dance are suggested
+    candidate groups for taxonomy review if recurrence is confirmed.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1026
+  input_sha256: cf903bf161e8a1584cdc079073a23e68f7562f6d12cc7d55bf2667535f9eeb04
+

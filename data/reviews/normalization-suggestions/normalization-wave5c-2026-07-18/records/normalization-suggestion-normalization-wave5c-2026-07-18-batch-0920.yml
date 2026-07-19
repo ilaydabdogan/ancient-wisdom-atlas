@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0920
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.missing-directional-divine-father-with-ritual-object
+  motif_id: missing_directional_divine_father_with_ritual_object
+  label: Missing directional divine father with ritual object
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines kinship, directional deity, absence, and ritual object; the
+    dominant motif cannot be inferred from the label alone.
+  cautions: Culturally specific directional sacred geography and kinship terminology
+    need source review; may be a passage artifact.
+  suggested_aliases:
+  - directional_divine_father
+  - divine_father_with_ritual_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mission-to-obtain-a-sacred-tree-branch
+  motif_id: mission_to_obtain_a_sacred_tree_branch
+  label: mission to obtain a sacred tree branch
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: The quest object is a sacred tree branch, pointing to sacred-tree/axis
+    symbolism and a mission to obtain its power or legitimacy.
+  cautions: If the branch is primarily relic, ritual offering, or proof-token, sacred_treasures
+    or sacred_exchange may be better secondary mappings.
+  suggested_aliases:
+  - quest_for_sacred_tree_branch
+  - sacred_tree_branch_obtained_on_mission
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.missionary-introduction-of-a-new-sacred-order
+  motif_id: missionary_introduction_of_a_new_sacred_order
+  label: missionary introduction of a new sacred order
+  occurrences: 1
+  traditions:
+  - maya
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could describe culture-hero founding, sacred law, covenantal order, or
+    historical/religious contact rather than a narrative motif.
+  cautions: Avoid transmission or conversion claims without evidence; 'missionary'
+    may be a modern interpretive frame.
+  suggested_aliases:
+  - introduction_of_new_sacred_order
+  - founding_of_new_sacred_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mistress-summons-armed-attendants-by-ritualized-gesture
+  motif_id: mistress_summons_armed_attendants_by_ritualized_gesture
+  label: Mistress summons armed attendants by ritualized gesture
+  occurrences: 1
+  traditions:
+  - islamicate_folklore
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: low
+  rationale: A ritualized gesture functions like a performative act that summons or
+    commands agents, though not necessarily spoken.
+  cautions: May be courtly plot detail or magical command rather than sacred ritual;
+    if armed conflict dominates, sacred_combat may be secondary.
+  suggested_aliases:
+  - ritualized_gesture_summons_attendants
+  - summoning_by_ritual_gesture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.misuse-and-restriction-of-ritual-accusation
+  motif_id: misuse_and_restriction_of_ritual_accusation
+  label: Misuse and restriction of ritual accusation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label concerns regulation of a ritual/legal accusation practice,
+    fitting sacred law and social order.
+  cautions: If the narrative centers on false accusation and vindication, divine_judgment
+    may be a useful secondary mapping.
+  suggested_aliases:
+  - restricted_ritual_accusation
+  - ritual_accusation_misused_and_limited
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mobile-sacred-object-contained-by-feathers
+  motif_id: mobile_sacred_object_contained_by_feathers
+  label: mobile sacred object contained by feathers
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The focus is a sacred movable object and its ritual containment, aligning
+    with power objects rather than sacrifice itself.
+  cautions: Feather containment may have culturally specific ritual meaning; do not
+    flatten into generic object symbolism without source review.
+  suggested_aliases:
+  - feather_contained_sacred_object
+  - mobile_power_object_contained_by_feathers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mock-combat-over-a-ritual-effigy
+  motif_id: mock_combat_over_a_ritual_effigy
+  label: Mock combat over a ritual effigy
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Combat is explicitly ritualized and centered on an effigy, fitting ritualized
+    warfare or mock combat.
+  cautions: If the effigy is expelled, destroyed, or bears transferred harm, sacrifice
+    or ritual_expulsion may be a better secondary mapping.
+  suggested_aliases:
+  - ritual_effigy_mock_combat
+  - mock_battle_over_effigy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mock-plunder-as-ritualized-profession-marker
+  motif_id: mock_plunder_as_ritualized_profession_marker
+  label: mock plunder as ritualized profession-marker
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds like a specific ritual/social marker rather than a stable
+    mythic motif, and the function is unclear.
+  cautions: Could involve initiation, renunciation, profession identity, or textual/ethnographic
+    commentary; source context needed.
+  suggested_aliases:
+  - ritualized_mock_plunder
+  - mock_plunder_as_status_marker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mocked-outsider-at-ritual-dance-receives-marginal-food
+  motif_id: mocked_outsider_at_ritual_dance_receives_marginal_food
+  label: mocked outsider at ritual dance receives marginal food
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines outsider status, ritual dance, mockery, and food distribution;
+    no single existing group clearly captures the motif.
+  cautions: Culturally sensitive ceremonial context; may be an over-specific episode
+    detail or social-boundary ritual requiring human review.
+  suggested_aliases:
+  - outsider_mocked_at_ritual_dance
+  - marginal_food_given_to_ritual_outsider
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.moderate-agrarian-feast-with-praise-of-gods-and-generational-continuity
+  motif_id: moderate_agrarian_feast_with_praise_of_gods_and_generational_continuity
+  label: moderate agrarian feast with praise of gods and generational continuity
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A feast with divine praise and continuity frames food, gratitude, and
+    human-divine reciprocity.
+  cautions: If the seasonal agricultural cycle is central, sacred_time or seasonal_cycle
+    should be considered as secondary mapping; label is highly specific.
+  suggested_aliases:
+  - agrarian_feast_with_divine_praise
+  - ritual_feast_marking_generational_continuity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several one-off labels in this batch combine ritual action with social context;
+  human review should decide whether they are motifs or passage-specific ethnographic/commentary
+  details.
+- Avoid treating missionary/introduction language as evidence of historical transmission
+  in this normalization task.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft provisional placements generated for wave5c batch-0920; low-confidence
+    ritual and culturally specific items require source verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0920
+  input_sha256: 11d528cdb274277883dfccc59825bf8d2ebf9b510f7ecb11835b018690facf61
+

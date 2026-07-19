@@ -1,0 +1,283 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1258
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bear-song-performance-frame-with-chief-address
+  motif_id: bear_song_performance_frame_with_chief_address
+  label: bear-song performance frame with chief address
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a performance or framing context for a
+    song rather than a reusable symbolic motif.
+  cautions: If the song itself encodes bear transformation, spirit power, or ritual
+    speech, preserve that content separately under an appropriate motif group.
+  suggested_aliases:
+  - bear_song_performance_frame
+  - chief_address_in_song_performance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beauty-seeing-and-absence-of-heart-in-song-text
+  motif_id: beauty_seeing_and_absence_of_heart_in_song_text
+  label: Beauty, seeing, and absence of heart in song text
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines poetic images from a song text, but the narrative
+    or ritual function is unclear.
+  cautions: May be a lyric passage artifact; could fit sacred_love, beauty_and_paradox,
+    or storytelling_as_power only if the passage supports a recurring function.
+  suggested_aliases:
+  - beauty_seen_in_song
+  - heart_absence_in_song_text
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.being-named-by-characteristic-sound
+  motif_id: being_named_by_characteristic_sound
+  label: being named by characteristic sound
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Naming by sound may be etiological, linguistic, or animal-fable detail,
+    but the available label does not show a clear motif function.
+  cautions: If the name explains an origin, cosmic_origin/etiology may apply; if it
+    is merely lexical or passage-specific, exclude from pattern queries.
+  suggested_aliases:
+  - name_from_characteristic_sound
+  - onomatopoeic_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.belief-in-heroic-songs-as-accounts-of-actual-events
+  motif_id: belief_in_heroic_songs_as_accounts_of_actual_events
+  label: Belief in heroic songs as accounts of actual events
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes audience or scholarly belief about song historicity, not
+    a narrative motif within the tradition.
+  cautions: Preserve as reception or performance-context metadata if needed; do not
+    treat as evidence for the historicity of events.
+  suggested_aliases:
+  - heroic_songs_as_history
+  - belief_in_historicity_of_heroic_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-animal-companion-valued-for-speech
+  motif_id: beloved_animal_companion_valued_for_speech
+  label: Beloved animal companion valued for speech
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: storytelling_as_power
+  suggested_group_label: Storytelling and Narrative as Sacred Power
+  relationship: functional_variant
+  confidence: low
+  rationale: The distinctive value lies in speech as a meaningful or transformative
+    faculty, rather than the animal status alone.
+  cautions: If the passage emphasizes love for the animal, sacred_love may be secondary;
+    if it emphasizes animal guidance or miracle, divine_intervention may fit better.
+  suggested_aliases:
+  - speaking_animal_companion
+  - animal_companion_valued_for_speech
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-perceived-truly-only-through-the-lover-s-vision
+  motif_id: beloved_perceived_truly_only_through_the_lover_s_vision
+  label: beloved perceived truly only through the lover's vision
+  occurrences: 1
+  traditions:
+  - persian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The motif centers on love transforming perception of the beloved, fitting
+    sacred or mystical love imagery.
+  cautions: If the passage is primarily mystical epistemology, mystical_quest or sacred_knowledge
+    may be relevant secondary mappings.
+  suggested_aliases:
+  - lover_s_vision_reveals_beloved
+  - beloved_seen_truly_by_love
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.beloved-wooing-and-named-offspring
+  motif_id: beloved_wooing_and_named_offspring
+  label: beloved, wooing, and named offspring
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is a composite of romance, courtship, and genealogy without
+    enough evidence for a single motif placement.
+  cautions: Could fit sacred_love, miraculous_child, royal_legitimacy, or be an episode
+    summary; source context is needed.
+  suggested_aliases:
+  - wooing_and_named_offspring
+  - beloved_wooing_named_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.benediction-litany-invoking-named-powers
+  motif_id: benediction_litany_invoking_named_powers
+  label: benediction litany invoking named powers
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: high
+  rationale: A benediction litany is a performative sacred speech act invoking powers
+    for blessing or protection.
+  cautions: If the passage emphasizes formal ritual exchange or sacrifice rather than
+    speech act, sacred_exchange may be a secondary mapping.
+  suggested_aliases:
+  - benediction_invoking_named_powers
+  - litany_of_blessing_to_named_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.betrothal-threatened-by-religious-teaching
+  motif_id: betrothal_threatened_by_religious_teaching
+  label: Betrothal threatened by religious teaching
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe conflict between marriage obligations and religious
+    instruction, but the motif function is unclear.
+  cautions: Could fit sacred_love, renunciation/mystical_quest, sacred_law, or be
+    a passage-specific plot detail; review source evidence before mapping.
+  suggested_aliases:
+  - religious_teaching_threatens_betrothal
+  - betrothal_disrupted_by_teaching
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.biblical-visionary-throne-imagery
+  motif_id: biblical_visionary_throne_imagery
+  label: Biblical visionary throne imagery
+  occurrences: 1
+  traditions:
+  - ethiopian_christian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Visionary throne imagery usually marks an overwhelming manifestation
+    of divine kingship or sacred presence.
+  cautions: The adjective 'Biblical' may be a source-comparison artifact; if the passage
+    emphasizes the altered vision itself, dream_and_vision may be secondary.
+  suggested_aliases:
+  - visionary_throne_imagery
+  - divine_throne_vision
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence song, performance, or episode-summary
+  labels; human review should separate lyric/context artifacts from reusable motifs.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; ambiguous single-occurrence items
+    require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1258
+  input_sha256: 96bbe59e3deb8ad5ceb05259a990b3c033cb3e6ac55457e5f0401c38f6f07f6d
+

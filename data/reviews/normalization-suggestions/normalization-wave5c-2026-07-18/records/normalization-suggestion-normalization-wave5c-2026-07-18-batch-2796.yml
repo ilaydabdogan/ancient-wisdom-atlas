@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2796
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.repeated-cabin-encounters-with-an-iron-toothed-monster
+  motif_id: repeated_cabin_encounters_with_an_iron_toothed_monster
+  label: repeated cabin encounters with an iron-toothed monster
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: uncertain
+  confidence: low
+  rationale: A repeated encounter with a monstrous figure in a shelter may be a threshold
+    ordeal or monster challenge, but the function is unclear from the label alone.
+  cautions: Single occurrence and highly contextual; cabin setting and iron teeth
+    may be local episode details rather than a reusable motif.
+  suggested_aliases:
+  - iron_toothed_monster_encounter
+  - night_shelter_monster_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-extermination-of-a-caste-enemy
+  motif_id: repeated_extermination_of_a_caste_enemy
+  label: Repeated extermination of a caste enemy
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests repeated sacred or heroic violence against an enemy
+    group, but the caste-specific framing needs source-sensitive review.
+  cautions: Culturally sensitive and potentially over-specific; do not normalize as
+    generic combat without checking whether it is divine judgment, vengeance, caste
+    ideology, or passage artifact.
+  suggested_aliases:
+  - repeated_extermination_of_enemy_group
+  - cyclical_war_against_caste_enemy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-failed-craft-trials-before-a-composite-attempt
+  motif_id: repeated_failed_craft_trials_before_a_composite_attempt
+  label: repeated failed craft trials before a composite attempt
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is iterative crafting or construction, with failure preceding
+    a later combined or composite attempt.
+  cautions: If the passage emphasizes ordeal rather than craft, initiation may be
+    a secondary fit; preserve the failed-trial sequence as evidence detail.
+  suggested_aliases:
+  - failed_craft_trials_before_success
+  - iterative_craft_attempts
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-night-shelter-challenge-and-monster-encounter
+  motif_id: repeated_night_shelter_challenge_and_monster_encounter
+  label: Repeated night-shelter challenge and monster encounter
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: A night shelter that repeatedly exposes the hero to a monster functions
+    as a liminal test or guarded threshold.
+  cautions: Could instead be initiation if the repeated challenge changes status;
+    cabin/shelter details may be episode-specific.
+  suggested_aliases:
+  - night_shelter_monster_challenge
+  - repeated_lodging_monster_encounter
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-sally-and-fall-of-enemy-champions
+  motif_id: repeated_sally_and_fall_of_enemy_champions
+  label: repeated sally and fall of enemy champions
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label describes repeated battlefield sorties and defeat of champions,
+    fitting heroic or ritualized combat patterns.
+  cautions: May be an episode summary rather than a motif; use divine_warrior instead
+    if a god or divinely empowered hero is central.
+  suggested_aliases:
+  - repeated_defeat_of_enemy_champions
+  - enemy_champions_fall_in_repeated_sallies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-supernatural-assault-announced-by-hidden-warning-voice
+  motif_id: repeated_supernatural_assault_announced_by_hidden_warning_voice
+  label: Repeated supernatural assault announced by hidden warning voice
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: uncertain
+  confidence: low
+  rationale: A hidden warning voice before supernatural assault may be omen, prophecy,
+    guardian warning, or narrative suspense device.
+  cautions: Source context needed to decide whether the voice is divine guidance,
+    prophecy, threshold warning, or an over-specific episode detail.
+  suggested_aliases:
+  - hidden_warning_voice_before_supernatural_attack
+  - warning_voice_announces_assault
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-trials-proving-faithfulness
+  motif_id: repeated_trials_proving_faithfulness
+  label: Repeated trials proving faithfulness
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Repeated tests that prove faithfulness fit ordeal-based transformation
+    or validation of status.
+  cautions: If the trials test covenant loyalty rather than personal transformation,
+    covenant or divine_judgment may be better secondary mappings.
+  suggested_aliases:
+  - trials_of_faithfulness
+  - repeated_tests_of_loyalty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-violation-of-a-northward-prohibition
+  motif_id: repeated_violation_of_a_northward_prohibition
+  label: repeated violation of a northward prohibition
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A repeated breach of a directional prohibition fits taboo, sacred law,
+    and violation of ritual restriction.
+  cautions: Northward direction may carry local cosmological meaning; if the consequence
+    is punishment, divine_judgment may be a secondary fit.
+  suggested_aliases:
+  - directional_taboo_violation
+  - northward_taboo_broken
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-war-summons-against-the-same-rebel
+  motif_id: repeated_war_summons_against_the_same_rebel
+  label: repeated war summons against the same rebel
+  occurrences: 1
+  traditions:
+  - hawaiian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: uncertain
+  confidence: low
+  rationale: Repeated war summons may belong to warfare or kingship conflict, but
+    the label reads like a passage-specific campaign detail.
+  cautions: Single occurrence; verify whether the motif is summons/rebellion as social
+    order, ritual warfare, or merely narrative sequencing.
+  suggested_aliases:
+  - repeated_summons_to_war_against_rebel
+  - recurring_campaign_against_rebel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.repeated-warning-against-dangerous-aquatic-quarry-is-ignored
+  motif_id: repeated_warning_against_dangerous_aquatic_quarry_is_ignored
+  label: repeated warning against dangerous aquatic quarry is ignored
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Ignored repeated warnings before danger fit a moral-reckoning pattern,
+    especially if harm follows disregard of counsel or taboo.
+  cautions: Could instead be prophecy_divination if the warning is a true omen, or
+    sacred_waters if the aquatic danger is the primary symbolic field.
+  suggested_aliases:
+  - ignored_warning_against_dangerous_quarry
+  - repeated_warning_ignored_before_aquatic_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items are single-occurrence, episode-shaped labels; placements should be treated
+  as provisional evidence-level mappings rather than taxonomy additions.
+- Several labels begin with 'repeated', which may describe narrative structure rather
+  than the symbolic motif itself; reviewers should check whether repetition is meaningful
+  or just generated wording.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; source passage review recommended for
+    culturally specific and over-contextual combat labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2796
+  input_sha256: 203469973896d05b49d8ccef9be3b05349d4dd785480b3725423e4f889bb624a
+

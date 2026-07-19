@@ -1,0 +1,310 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1501
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.animal-regalia-marking-society-identity
+  motif_id: animal_regalia_marking_society_identity
+  label: animal regalia marking society identity
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animal regalia may mark ritual society membership, social rank, or identity,
+    but no existing group cleanly covers clan/society regalia without source context.
+  cautions: Culturally sensitive and single-occurrence; avoid reducing Plains regalia
+    to generic sacred objects unless the passage emphasizes power-object function.
+  suggested_aliases:
+  - animal regalia as social identity marker
+  - ritual regalia marking society membership
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    - sacred_treasures
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-representation-through-imitation-and-image-making
+  motif_id: animal_representation_through_imitation_and_image_making
+  label: animal representation through imitation and image-making
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe ritual imitation, image-making, hunting representation,
+    art practice, or scholarly description rather than a stable mythic motif.
+  cautions: Single occurrence and culturally sensitive; if it is about crafted images,
+    sacred_craft may fit, but if it is an ethnographic/art-historical note it may
+    be excluded from pattern queries.
+  suggested_aliases:
+  - animal imitation and image making
+  - ritualized animal representation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_craft
+    - shapeshifter
+    - sacred_knowledge
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-retains-human-flesh-from-former-human-state
+  motif_id: animal_retains_human_flesh_from_former_human_state
+  label: animal retains human flesh from former human state
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on a being transformed from human to animal while retaining
+    bodily traces of the former human state.
+  cautions: If the passage frames the flesh as death-remnant, punishment, or etiology
+    more than transformation, death_and_transformation or divine_judgment may be secondary.
+  suggested_aliases:
+  - animal retains bodily trace of former humanity
+  - human-to-animal transformation with retained flesh
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-retaliation-after-human-punishment
+  motif_id: animal_retaliation_after_human_punishment
+  label: animal retaliation after human punishment
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Retaliation by an animal after punishment could be moral reckoning, animal-person
+    agency, trickster reversal, or a local human-animal relations motif.
+  cautions: Single occurrence; source context is needed to determine whether the animal
+    acts as person, spirit, clan being, or fable character.
+  suggested_aliases:
+  - animal vengeance after human punishment
+  - animal retaliation against human aggressor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - trickster
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-servant-with-human-social-status
+  motif_id: animal_servant_with_human_social_status
+  label: animal servant with human social status
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: The label concerns animal persons occupying human-like social roles,
+    but current groups do not clearly represent animal social personhood.
+  cautions: May be too dependent on local ontologies and social categories for automatic
+    placement; avoid treating animal personhood as mere fable unless source supports
+    that reading.
+  suggested_aliases:
+  - animal servant with social rank
+  - animal person in servant role
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - trickster
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-subjects-investigated-by-their-ruler
+  motif_id: animal_subjects_investigated_by_their_ruler
+  label: Animal subjects investigated by their ruler
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: medium
+  rationale: The narrative function is rulership and governance applied to animal
+    subjects, aligning with sacred kingship or legitimate rule structures.
+  cautions: If the passage is primarily a talking-animal fable or satire of rule,
+    trickster or _meta_textual review may be needed.
+  suggested_aliases:
+  - ruler investigates animal subjects
+  - animal kingdom under royal investigation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-trait-explained-by-mythic-punishment
+  motif_id: animal_trait_explained_by_mythic_punishment
+  label: Animal trait explained by mythic punishment
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: An animal trait caused by punishment functions as etiological moral consequence
+    or sacred judgment.
+  cautions: Could also belong with shapeshifter if the punished figure is transformed
+    into an animal; preserve the etiological animal-trait detail.
+  suggested_aliases:
+  - animal feature as punishment etiology
+  - mythic punishment explains animal trait
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animal-traits-explained-by-primordial-marking
+  motif_id: animal_traits_explained_by_primordial_marking
+  label: Animal traits explained by primordial marking
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label is an etiological origin account explaining present animal
+    traits through a primordial act.
+  cautions: If the marking is punishment, divine_judgment may be secondary; if it
+    is merely a local explanatory note, keep as granular evidence rather than promote.
+  suggested_aliases:
+  - primordial marking explains animal traits
+  - etiology of animal markings
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animalized-punishment-and-restoration-of-human-status
+  motif_id: animalized_punishment_and_restoration_of_human_status
+  label: animalized punishment and restoration of human status
+  occurrences: 1
+  traditions:
+  - siberian
+  review_bucket_id: power_kingship_law_order
+  suggested_action: map_to_existing_group
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: high
+  rationale: Punitive animalization followed by restored human status is a clear transformation
+    and reversal pattern.
+  cautions: Because punishment and restoration are explicit, divine_judgment and death_and_transformation
+    may be useful secondary relations depending on passage evidence.
+  suggested_aliases:
+  - punitive animal transformation and restoration
+  - human status restored after animalization
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.animals-as-human-like-social-beings
+  motif_id: animals_as_human_like_social_beings
+  label: animals as human-like social beings
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: power_kingship_law_order
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Animal Persons and Human-Like Animal Society
+  relationship: broader_label
+  confidence: medium
+  rationale: The label points to animal persons organized with human-like social roles,
+    not just trickster behavior, shapeshifting, or generic animal symbolism.
+  cautions: Culturally sensitive; should be reviewed with tradition-specific evidence
+    and not flattened into fable or allegory. Single occurrence in this batch, but
+    related labels here suggest a possible recurring cluster.
+  suggested_aliases:
+  - animal persons as social beings
+  - human-like animal society
+  - animals with human social roles
+  suggested_new_group:
+    id: animal_persons_social_order
+    label: Animal Persons and Human-Like Social Order
+    description: Animals or animal-person beings participate in human-like social
+      relations, ranks, households, rulership, obligations, or communities, reflecting
+      a social order shared across human and nonhuman persons.
+    parent_group_ids:
+    - sacred_law
+    related_group_ids:
+    - trickster
+    - shapeshifter
+    - otherworld
+    - royal_legitimacy
+    reason_existing_groups_insufficient: Existing groups cover trickster animals,
+      transformation, and otherworld beings, but not animal personhood or animal societies
+      as social-order motifs.
+batch_notes:
+- Several items in this batch cluster around animal personhood, social rank, and animal-human
+  social relations; human reviewers may want to evaluate whether a durable animal-persons/social-order
+  group is warranted.
+- For culturally specific Indigenous and San materials, placements should remain provisional
+  and source-sensitive; avoid reducing animal persons to fable, allegory, or generic
+  symbolism without passage evidence.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1501
+  input_sha256: be7c1d9efe5cc023d9c7c5d8ad04fdd1a86bae81156381d6598603f56ad9f405
+

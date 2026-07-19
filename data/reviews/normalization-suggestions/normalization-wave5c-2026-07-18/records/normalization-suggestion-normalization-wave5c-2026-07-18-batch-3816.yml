@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3816
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.protection-from-moral-and-doctrinal-hazards
+  motif_id: protection_from_moral_and_doctrinal_hazards
+  label: Protection from moral and doctrinal hazards
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label concerns safeguarding religious discipline and correct teaching,
+    fitting sacred law and social order more than a narrative motif.
+  cautions: Single Buddhist legal/disciplinary label; may be Vinaya rule detail rather
+    than a broad motif.
+  suggested_aliases:
+  - doctrinal_protection
+  - protection_from_moral_hazards
+  - safeguarding_religious_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-of-a-communal-work-surface-from-soiling
+  motif_id: protection_of_a_communal_work_surface_from_soiling
+  label: Protection of a communal work surface from soiling
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: The label reads as a specific monastic housekeeping or purity rule rather
+    than a reusable mythic pattern.
+  cautions: If evidence shows ritual pollution of sacred space rather than ordinary
+    cleanliness, review under sacred_law.
+  suggested_aliases:
+  - communal_work_surface_cleanliness
+  - protection_from_soiling
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-of-communal-religious-property
+  motif_id: protection_of_communal_religious_property
+  label: Protection of communal religious property
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Regulation protecting religious property fits sacred law, communal obligation,
+    and disciplined social order.
+  cautions: May be an institutional rule rather than symbolic motif; preserve only
+    if relevant for pattern queries on sacred property norms.
+  suggested_aliases:
+  - protection_of_sangha_property
+  - safeguarding_communal_religious_goods
+  - religious_property_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-of-communal-resources-from-weather-injury-breakage-and-contamination
+  motif_id: protection_of_communal_resources_from_weather_injury_breakage_and_contamination
+  label: Protection of communal resources from weather, injury, breakage, and contamination
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: high
+  rationale: This is a highly specific administrative preservation rule for communal
+    materials, not a durable narrative or symbolic motif.
+  cautions: Could be reviewed under sacred_law only if the passage frames resource
+    protection as sacred communal discipline.
+  suggested_aliases:
+  - protection_of_communal_resources
+  - communal_property_preservation
+  - prevention_of_contamination_and_breakage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-of-communal-unity-against-schism
+  motif_id: protection_of_communal_unity_against_schism
+  label: protection of communal unity against schism
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Preventing schism centers on preserving a binding sacred community and
+    its relational order.
+  cautions: Could also fit sacred_law if the evidence is primarily procedural monastic
+    regulation.
+  suggested_aliases:
+  - prevention_of_schism
+  - preservation_of_communal_unity
+  - protection_of_sangha_unity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-of-medicine-from-harmful-presence
+  motif_id: protection_of_medicine_from_harmful_presence
+  label: protection of medicine from harmful presence
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve ritual protection, sacred substance, healing power,
+    taboo, or culturally specific medicine concepts.
+  cautions: Culturally sensitive; source evidence is needed before mapping to sacred_law,
+    sacred_substance, apotropaic protection, or divine_intervention.
+  suggested_aliases:
+  - protection_of_sacred_medicine
+  - medicine_protected_from_pollution
+  - ritual_protection_of_medicine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-of-osiris-against-violent-wrongdoers
+  motif_id: protection_of_osiris_against_violent_wrongdoers
+  label: protection of Osiris against violent wrongdoers
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: Protecting Osiris from violent wrongdoers likely invokes sacred order
+    defending a divine judge or rightful dead ruler against disorder.
+  cautions: Person-specific label; if only an Osiris liturgical formula, keep as evidence
+    detail rather than standalone motif.
+  suggested_aliases:
+  - protection_of_the_dead_god_against_wrongdoers
+  - defense_of_osiris
+  - protection_against_violent_wrongdoers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-of-pregnancy-and-young-life
+  motif_id: protection_of_pregnancy_and_young_life
+  label: Protection of pregnancy and young life
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: narrower_than
+  confidence: low
+  rationale: The label concerns safeguarding gestation and early life, adjacent to
+    sacred birth and protected infancy.
+  cautions: May instead be ritual purity, social law, or ethical protection of life
+    rather than a miraculous-child motif; review Zoroastrian source context.
+  suggested_aliases:
+  - protection_of_pregnancy
+  - protection_of_young_life
+  - safeguarding_unborn_and_infant_life
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-of-quorum-integrity
+  motif_id: protection_of_quorum_integrity
+  label: protection of quorum integrity
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: high
+  rationale: Quorum integrity is a procedural institutional rule, not a symbolic or
+    narrative motif for pattern exploration.
+  cautions: If retained for legal history, preserve as monastic governance metadata
+    rather than motif indexing.
+  suggested_aliases:
+  - quorum_integrity
+  - protection_of_assembly_validity
+  - monastic_quorum_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.protection-of-sick-members-from-forced-displacement
+  motif_id: protection_of_sick_members_from_forced_displacement
+  label: Protection of sick members from forced displacement
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label expresses ethical protection of vulnerable community members
+    under sacred social discipline.
+  cautions: Likely a monastic rule or care ethic; not a narrative motif unless recurrent
+    across sources.
+  suggested_aliases:
+  - protection_of_sick_members
+  - care_for_the_sick_against_displacement
+  - ethical_protection_of_the_ill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several Buddhist items appear to be Vinaya or institutional discipline labels; map
+  only when useful for broad sacred-law or covenant queries, otherwise exclude as
+  procedural artifacts.
+- Protection language spans ritual purity, property care, healing, and social ethics;
+  source evidence should determine whether the function is apotropaic, legal, ethical,
+  or merely administrative.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3816
+  input_sha256: 5959a82d4d4884efb44f2a255ab321d799117c849ab4ad1673d0563ddfa13ce4
+

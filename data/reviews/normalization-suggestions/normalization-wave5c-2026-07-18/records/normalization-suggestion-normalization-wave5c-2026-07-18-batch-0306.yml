@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0306
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.primordial-animal-traits-from-ancestral-mishaps
+  motif_id: primordial_animal_traits_from_ancestral_mishaps
+  label: Primordial animal traits from ancestral mishaps
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: uncertain
+  confidence: low
+  rationale: The label sounds etiological, explaining present animal traits through
+    events in ancestral time.
+  cautions: Could require a distinct animal-etiology or transformation placement;
+    occurrence is single and source context is needed, especially because the bucket
+    may be misleading.
+  suggested_aliases:
+  - animal_trait_etiology_from_ancestral_events
+  - primordial_animal_trait_etiology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.primordial-death-free-blessed-land
+  motif_id: primordial_death_free_blessed_land
+  label: Primordial death-free blessed land
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A blessed land free of death aligns with an enchanted or timeless otherworld
+    rather than ordinary afterlife passage.
+  cautions: If the passage stresses primeval world conditions or cosmic decline, world_ages_cosmic_decline
+    may be a secondary fit.
+  suggested_aliases:
+  - deathless_blessed_land
+  - primordial_blessed_otherworld
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.princely-retinue-slain-on-the-return-journey
+  motif_id: princely_retinue_slain_on_the_return_journey
+  label: princely retinue slain on the return journey
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: This reads as an episode-specific plot event rather than a durable symbolic
+    or narrative motif.
+  cautions: If the return journey is ritually or heroically structured, preserve as
+    evidence under hero_journey or sacred_combat instead of indexing as its own motif.
+  suggested_aliases:
+  - retinue_slain_on_return_journey
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.princess-and-spirit-liaison-suspicion
+  motif_id: princess_and_spirit_liaison_suspicion
+  label: Princess and spirit liaison suspicion
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines royal status, spirit-human intimacy, and suspicion
+    without enough functional context for a clear group.
+  cautions: Could involve sacred_love, otherworld, divine_intervention, false accusation,
+    or a local spirit-marriage belief; needs source evidence and culturally careful
+    review.
+  suggested_aliases:
+  - suspected_spirit_lover
+  - spirit_human_liaison_suspicion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.procession-of-an-effigy-of-death
+  motif_id: procession_of_an_effigy_of_death
+  label: procession of an effigy of Death
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A procession with a death effigy likely belongs to ritual expulsion,
+    purification, or scapegoat-like removal of death/misfortune.
+  cautions: Comparative label may be an ethnographic or scholarly abstraction; verify
+    whether the effigy is expelled, buried, burned, or merely displayed.
+  suggested_aliases:
+  - death_effigy_procession
+  - ritual_procession_of_death_effigy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.processional-descent-establishing-or-marking-shrines
+  motif_id: processional_descent_establishing_or_marking_shrines
+  label: processional descent establishing or marking shrines
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: low
+  rationale: Shrine-marking through ritual movement may define sacred geography and
+    centers, but descent may also have local cosmological meaning.
+  cautions: Culturally specific Hopi ceremonial geography should not be flattened
+    into generic descent; needs human review before placement.
+  suggested_aliases:
+  - processional_shrine_marking
+  - ritual_descent_marking_shrines
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibited-entry-into-the-dead-people-s-lodge
+  motif_id: prohibited_entry_into_the_dead_people_s_lodge
+  label: Prohibited entry into the dead people’s lodge
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prohibition governing access to a place of the dead fits taboo, ritual
+    boundary, and sacred-law regulation.
+  cautions: If the narrative centers on entering a dead realm despite the prohibition,
+    descent or otherworld may be secondary mappings.
+  suggested_aliases:
+  - taboo_entry_to_dead_lodge
+  - forbidden_entry_to_house_of_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibited-intercourse-with-a-woman-during-a-blood-issue-as-grave-purity-offense
+  motif_id: prohibited_intercourse_with_a_woman_during_a_blood_issue_as_grave_purity_offense
+  label: prohibited intercourse with a woman during a blood issue as grave purity
+    offense
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The motif is explicitly a purity prohibition and grave ritual offense,
+    fitting sacred law and taboo regulation.
+  cautions: Preserve the specific Zoroastrian purity context; do not generalize into
+    gender/body motifs without textual evidence.
+  suggested_aliases:
+  - sexual_intercourse_during_blood_issue_taboo
+  - blood_issue_purity_offense
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.prohibition-on-returning-spouse-followed-by-fatal-violation
+  motif_id: prohibition_on_returning_spouse_followed_by_fatal_violation
+  label: Prohibition on returning spouse followed by fatal violation
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: uncertain
+  confidence: low
+  rationale: A fatal violation of a prohibition may involve a taboo or binding speech
+    act, but the exact function is unclear.
+  cautions: Could instead belong with sacred_law, sacred_love, otherworld spouse-return
+    tales, or death_by_fate depending on the passage.
+  suggested_aliases:
+  - fatal_violation_of_spouse_return_taboo
+  - returning_spouse_taboo_violation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.promise-of-hope-beyond-death-through-mystery-participation
+  motif_id: promise_of_hope_beyond_death_through_mystery_participation
+  label: promise of hope beyond death through mystery participation
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Mystery participation promising a better postmortem condition fits ritualized
+    afterlife expectation and passage beyond death.
+  cautions: If the evidence emphasizes initiation rather than mapped afterlife, initiation
+    or mystical_quest may be important secondary placements.
+  suggested_aliases:
+  - mystery_participation_promises_afterlife_hope
+  - ritual_initiation_for_blessed_afterlife
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels have one occurrence and appear highly contextual; suggested placements
+  should be treated as provisional evidence indexing, not taxonomy changes.
+- Death/descent bucket assignment is not always reliable here; some items fit sacred_law,
+  otherworld, sacrifice, or cosmic_origin better than afterlife motifs.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: JSON-only provisional normalization suggestions generated for wave5c batch
+    0306.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0306
+  input_sha256: ff21cc573500707889b514e92ee90d7fecde7aa7dcdf32cb5460ba87851c9e13
+

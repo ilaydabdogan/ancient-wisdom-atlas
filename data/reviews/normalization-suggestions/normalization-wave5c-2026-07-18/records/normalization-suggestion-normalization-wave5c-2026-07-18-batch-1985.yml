@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1985
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.same-fault-revealed-across-births
+  motif_id: same_fault_revealed_across_births
+  label: Same fault revealed across births
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A fault recurring across births suggests rebirth or past-life continuity,
+    already handled by death-and-transformation past-life identity variants.
+  cautions: Could instead be an ethical exemplum under divine_judgment or sacred_knowledge
+    if the passage emphasizes moral instruction rather than rebirth continuity.
+  suggested_aliases:
+  - recurring_fault_across_births
+  - fault_revealed_across_rebirths
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.same-night-births-and-prearranged-pairing
+  motif_id: same_night_births_and_prearranged_pairing
+  label: same-night births and prearranged pairing
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on destined or arranged pairing from birth, fitting
+    the existing sacred_love group’s marriage-choice and bride-pairing material.
+  cautions: If the same-night births are the main sacred sign, miraculous_child or
+    sacred_twins may be relevant as secondary review targets.
+  suggested_aliases:
+  - paired_births_and_arranged_union
+  - same_night_births_with_destined_pairing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.same-species-marriage-among-animal-persons
+  motif_id: same_species_marriage_among_animal_persons
+  label: same-species marriage among animal persons
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Animal-person marriage may involve kinship norms, animal personhood,
+    transformation, or local social classification, and no current group cleanly captures
+    the function from the label alone.
+  cautions: Culturally sensitive animal-person categories require source review; avoid
+    reducing the motif to ordinary animal imagery or human marriage without evidence.
+  suggested_aliases:
+  - animal_person_same_species_marriage
+  - marriage_among_same_species_animal_persons
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scattered-family-members-separated-in-childhood
+  motif_id: scattered_family_members_separated_in_childhood
+  label: Scattered family members separated in childhood
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Childhood separation can initiate wandering, search, recognition, and
+    reunion patterns within the broader journey complex.
+  cautions: May be an episode-specific family plot rather than a mythic motif; recognition_tokens_hidden_identity
+    or miraculous_child may fit if identity proof or threatened infancy is central.
+  suggested_aliases:
+  - family_separated_in_childhood
+  - childhood_separation_of_family_members
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-arriving-golden-youth-as-hidden-father
+  motif_id: sea_arriving_golden_youth_as_hidden_father
+  label: sea-arriving golden youth as hidden father
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines sea-origin arrival, radiant youth, concealed paternity,
+    and possible otherworld identity; the dominant function is unclear.
+  cautions: Could fit otherworld, recognition_tokens_hidden_identity, sacred_love,
+    or sacred_waters depending on whether the passage emphasizes origin realm, hidden
+    kinship, union, or sea passage.
+  suggested_aliases:
+  - golden_youth_from_the_sea_as_hidden_father
+  - sea_arriving_hidden_father
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-origin-child-or-youth-as-terrifying-visitor
+  motif_id: sea_origin_child_or_youth_as_terrifying_visitor
+  label: sea-origin child or youth as terrifying visitor
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: low
+  rationale: A child or youth arriving from the sea as a fearful visitor likely marks
+    encounter with a nonordinary realm or being.
+  cautions: May instead belong under sacred_waters, miraculous_child, divine_intervention,
+    or threshold_guardian if the visitor’s role is passage, sacred birth, intervention,
+    or boundary danger.
+  suggested_aliases:
+  - terrifying_sea_origin_youth
+  - sea_child_as_terrifying_visitor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.search-for-a-vanished-husband
+  motif_id: search_for_a_vanished_husband
+  label: Search for a vanished husband
+  occurrences: 1
+  traditions:
+  - romanian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: A spouse’s quest for a vanished husband fits love-driven search and recovery
+    patterns within sacred_love.
+  cautions: If the search enters an otherworld or underworld, also review under otherworld,
+    descent, or hero_journey.
+  suggested_aliases:
+  - quest_for_vanished_husband
+  - spousal_search_for_missing_husband
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.search-for-drowned-person-yields-marvelous-objects
+  motif_id: search_for_drowned_person_yields_marvelous_objects
+  label: search for drowned person yields marvelous objects
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: low
+  rationale: The resulting marvelous objects are the clearest reusable motif element
+    and fit sacred_treasures or power-object recovery.
+  cautions: Could be death_and_transformation, sacred_waters, or a local etiological
+    episode if the drowned person’s fate is central; single occurrence may be over-specific.
+  suggested_aliases:
+  - marvelous_objects_found_while_searching_for_drowned_person
+  - drowned_person_search_yields_power_objects
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.search-for-vanished-father-or-husband
+  motif_id: search_for_vanished_father_or_husband
+  label: Search for vanished father or husband
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A quest to find a vanished kin figure functions as a departure/search
+    narrative and may lead to recognition or return.
+  cautions: If the emotional bond or marital quest is primary, sacred_love may be
+    better; if identity proof is central, review recognition_tokens_hidden_identity.
+  suggested_aliases:
+  - quest_for_vanished_kin
+  - search_for_missing_father_or_husband
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.search-party-follows-tracks-to-discover-the-missing-husband-s-body
+  motif_id: search_party_follows_tracks_to_discover_the_missing_husband_s_body
+  label: Search party follows tracks to discover the missing husband's body
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a concrete plot detail about locating a body rather
+    than a broad reusable symbolic motif.
+  cautions: If the body discovery triggers funeral rites, mourning, or justice, preserve
+    as evidence under heroic_funeral_rites, lament_and_mourning, or divine_judgment
+    rather than querying this exact label.
+  suggested_aliases:
+  - tracks_lead_to_missing_husband_body
+  - search_party_discovers_missing_husband_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most items in this batch are single-occurrence family or spouse-search labels; several
+  may be episode-level evidence rather than durable motif groups.
+- Animal-person and sea-origin visitor labels should be reviewed against source context
+  before collapsing into ordinary animal, water, or marriage categories.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    animal-person and sea-origin motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1985
+  input_sha256: 469500252dfc855e96d36f20c89d06f3a96d8ec9bdcf4881268d116cbbef6b16
+

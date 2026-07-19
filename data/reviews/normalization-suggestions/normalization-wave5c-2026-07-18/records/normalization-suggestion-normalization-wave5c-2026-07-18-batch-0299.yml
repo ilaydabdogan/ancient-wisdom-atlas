@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0299
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.posthumous-honor-through-recovery-church-burial-and-notable-bones
+  motif_id: posthumous_honor_through_recovery_church_burial_and_notable_bones
+  label: posthumous honor through recovery, church burial, and notable bones
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: over_specific_label
+  confidence: medium
+  rationale: Recovery, church burial, and notable remains describe postmortem honor
+    and memorial handling of a dead figure.
+  cautions: Single occurrence and Christian burial details may be source-specific;
+    notable bones may also imply relic devotion under sacred_treasures if cultic power
+    is emphasized.
+  suggested_aliases:
+  - posthumous_honor_through_burial_and_recovered_remains
+  - recovery_and_honorable_burial_of_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-joining-of-souls-or-spouses
+  motif_id: posthumous_joining_of_souls_or_spouses
+  label: posthumous joining of souls or spouses
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label centers on union of spouses or souls beyond death, fitting
+    love that transcends bodily death.
+  cautions: If the passage emphasizes afterlife geography, soul doctrine, or mystical
+    union rather than spousal love, afterlife_passage or mystical_quest may be secondary.
+  suggested_aliases:
+  - posthumous_union_of_souls
+  - after_death_reunion_of_spouses
+  - postmortem_spousal_reunion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-legal-action-against-the-dead
+  motif_id: posthumous_legal_action_against_the_dead
+  label: posthumous legal action against the dead
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: Legal action against a dead person suggests postmortem reckoning or judgment
+    of deeds.
+  cautions: May be secular legal custom or saga-specific plot detail rather than divine
+    or sacred judgment; human review should verify agency and ritual/legal context.
+  suggested_aliases:
+  - legal_reckoning_after_death
+  - posthumous_trial_or_judgment_of_the_dead
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.posthumous-saintly-aid-from-the-tomb
+  motif_id: posthumous_saintly_aid_from_the_tomb
+  label: posthumous saintly aid from the tomb
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: A saint acting from the tomb functions as posthumous sacred aid or intercession
+    in human affairs.
+  cautions: Could also fit sacred_treasures if the tomb/relic is the active focus,
+    or restless_dead if the aid is framed as return of the dead rather than saintly
+    mediation.
+  suggested_aliases:
+  - saintly_aid_from_the_tomb
+  - posthumous_intercession_from_a_saintly_tomb
+  - aid_from_a_saint_after_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.postmortem-correction-of-bodily-defect-for-afterlife-condition
+  motif_id: postmortem_correction_of_bodily_defect_for_afterlife_condition
+  label: Postmortem correction of bodily defect for afterlife condition
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: afterlife_passage
+  suggested_group_label: Afterlife Navigation and Passage
+  relationship: ritual_variant
+  confidence: low
+  rationale: A bodily correction made for the afterlife concerns requirements or preparation
+    for postmortem condition.
+  cautions: Culturally specific mortuary practice; may belong under ancestor_rites
+    or sacred_law if the emphasis is ritual handling rather than afterlife transit.
+  suggested_aliases:
+  - bodily_preparation_for_afterlife_condition
+  - postmortem_body_correction_for_afterlife
+  - mortuary_correction_of_bodily_defect
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.postmortem-persistence-of-separable-spirits
+  motif_id: postmortem_persistence_of_separable_spirits
+  label: postmortem persistence of separable spirits
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: symbolic_variant
+  confidence: low
+  rationale: The label describes spirits as separable from the body and persisting
+    after death, aligning with separable-soul beliefs.
+  cautions: May be general soul anthropology rather than an external-soul narrative;
+    if the focus is the continuing dead, death_and_transformation or ancestor_rites
+    may be better.
+  suggested_aliases:
+  - separable_spirits_persist_after_death
+  - postmortem_separable_soul_persistence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.postmortem-return-of-clan-spirits-to-an-animal
+  motif_id: postmortem_return_of_clan_spirits_to_an_animal
+  label: Postmortem return of clan spirits to an animal
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Combines postmortem soul movement, clan identity, and animal embodiment,
+    with no single existing group clearly capturing the function.
+  cautions: Could fit shapeshifter, ancestor_rites, external_soul, or totemic/clan-spirit
+    belief depending on source evidence; culturally sensitive and single occurrence.
+  suggested_aliases:
+  - clan_spirits_return_to_animal_after_death
+  - postmortem_animal_embodiment_of_clan_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.postmortem-spirit-sent-into-enemy-territory-as-harmful-force
+  motif_id: postmortem_spirit_sent_into_enemy_territory_as_harmful_force
+  label: Postmortem spirit sent into enemy territory as harmful force
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: low
+  rationale: A dead spirit deployed harmfully into enemy territory suggests ritualized
+    warfare using postmortem spiritual agency.
+  cautions: May instead be spirit-affliction, sorcery, restless dead, or ritual expulsion;
+    source context is needed and the label is culturally specific.
+  suggested_aliases:
+  - dead_spirit_sent_against_enemies
+  - postmortem_spirit_as_hostile_force
+  - spirit_attack_sent_into_enemy_territory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.postpartum-handling-through-afterbirth-burial-water-bathing-and-salt-abstention
+  motif_id: postpartum_handling_through_afterbirth_burial_water_bathing_and_salt_abstention
+  label: Postpartum handling through afterbirth burial, water bathing, and salt abstention
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: This is a detailed postpartum ritual sequence rather than a clear death/descent
+    motif.
+  cautions: May fit sacred_law, sacred_waters, birth/body ritual, or local ethnographic
+    practice; over-specific and culturally sensitive, requiring source review before
+    indexing.
+  suggested_aliases:
+  - postpartum_ritual_handling
+  - afterbirth_burial_and_postpartum_bathing
+  - postpartum_abstinence_and_cleansing_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.postpartum-impurity-after-contact-with-death
+  motif_id: postpartum_impurity_after_contact_with_death
+  label: postpartum impurity after contact with death
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Impurity after contact with death is a ritual purity and prohibition
+    pattern already handled under sacred_law.
+  cautions: If the passage focuses on mortuary danger or spirit contagion, preserve
+    that specificity; do not treat as afterlife journey.
+  suggested_aliases:
+  - postpartum_death_contact_impurity
+  - ritual_impurity_after_contact_with_death
+  - postpartum_purity_rule_after_death_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence and highly contextual; preserve local evidence
+  details even when mapped to a broad group.
+- Postmortem saint/tomb motifs may need consistent handling across divine_intervention,
+  sacred_treasures, ancestor_rites, and restless_dead depending on whether agency
+  lies in saint, relic/tomb, ritual care, or haunting.
+- Postpartum and clan-spirit items are culturally sensitive and should be reviewed
+  against source evidence before broad pattern indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft suggestions only; human taxonomy review recommended for culturally
+    specific mortuary, postpartum, and clan-spirit labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0299
+  input_sha256: ec5556e6ceafe838a61280c6b5a87d0e8d4ccf3464e5d185eeae71d2c5683bdb
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1052
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-marking-of-future-sacred-sites
+  motif_id: ritual_marking_of_future_sacred_sites
+  label: Ritual marking of future sacred sites
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritually marking a future sacred site concerns sacral geography and the
+    establishment of a sacred center.
+  cautions: Single occurrence; if the source emphasizes institutional dedication rather
+    than cosmic-centered space, sacred_law or sacred_exchange may be secondary.
+  suggested_aliases:
+  - sacred_site_marking
+  - ritual_consecration_of_future_sacred_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-marvel-or-staged-wonder-with-hidden-technique
+  motif_id: ritual_marvel_or_staged_wonder_with_hidden_technique
+  label: ritual marvel or staged wonder with hidden technique
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe ritual performance, sacred craft, deception,
+    or an outsider commentary on technique rather than a motif.
+  cautions: Culturally sensitive and potentially reductive wording; verify source
+    framing before mapping to trickster, sacred_craft, or _meta_textual.
+  suggested_aliases:
+  - staged_ritual_wonder
+  - ritual_marvel_with_hidden_mechanism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-mask_impersonation-of-mythic-beings
+  motif_id: ritual_mask_impersonation_of_mythic_beings
+  label: ritual mask impersonation of mythic beings
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Masked ritual embodiment of mythic beings is a recurring ritual-form
+    possibility, but no existing group cleanly captures impersonation or embodiment.
+  cautions: Culturally sensitive ceremonial material; avoid flattening into shapeshifter
+    unless actual form-change is narrated, or theophany unless divine manifestation
+    is explicit.
+  suggested_aliases:
+  - masked_ritual_impersonation
+  - ritual_embodiment_of_mythic_beings
+  suggested_new_group:
+    id: ritual_impersonation
+    label: Ritual Impersonation and Sacred Embodiment
+    description: Ritual performers, masks, costumes, or ceremonial roles embody, impersonate,
+      or make present mythic beings, ancestors, spirits, or deities.
+    parent_group_ids:
+    - sacred_law
+    - theophany
+    related_group_ids:
+    - shapeshifter
+    - divine_intervention
+    reason_existing_groups_insufficient: Existing groups cover manifestation, transformation,
+      or sacred law, but not ritualized human embodiment or impersonation of mythic
+      beings.
+- suggestion_id: normalization.suggestion.ritual-meal-painting-as-symbolic-landscape-and-territory
+  motif_id: ritual_meal_painting_as_symbolic_landscape_and_territory
+  label: Ritual meal painting as symbolic landscape and territory
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A ritual image functioning as landscape and territory fits sacred geography
+    and symbolic ordering of space.
+  cautions: The meal-painting technique is culturally specific; preserve as evidence
+    detail and review whether sacred_law or sacred_craft is a better fit in context.
+  suggested_aliases:
+  - ritual_painting_as_sacred_landscape
+  - symbolic_ritual_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-mediation-by-priesthood-representing-deities
+  motif_id: ritual_mediation_by_priesthood_representing_deities
+  label: ritual mediation by priesthood representing deities
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: Priestly representation of deities could involve ritual authority, divine
+    mediation, or sacred social order, but the function is not clear from the label
+    alone.
+  cautions: Culturally sensitive ceremonial role; avoid mapping to theophany unless
+    actual divine manifestation is described.
+  suggested_aliases:
+  - priestly_mediation_of_deities
+  - ritual_specialists_representing_deities
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-mediation-through-fetish-and-invoked-images
+  motif_id: ritual_mediation_through_fetish_and_invoked_images
+  label: ritual mediation through fetish and invoked images
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif may concern sacred objects, images, ritual invocation, or mediation
+    with spirits, but the generated wording is too loaded for automatic placement.
+  cautions: The term 'fetish' may reflect outdated ethnographic vocabulary; source
+    evidence should determine whether sacred_treasures, divine_intervention, sacred_law,
+    or _meta_textual is appropriate.
+  suggested_aliases:
+  - ritual_mediation_through_power_objects
+  - invoked_images_as_ritual_mediators
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-medicine-for-group-perpetuation
+  motif_id: ritual_medicine_for_group_perpetuation
+  label: ritual medicine for group perpetuation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritual medicine used to sustain a group may involve protection, fertility,
+    identity, or sacred law, but the label lacks enough functional detail.
+  cautions: Culturally specific ritual terminology; verify whether the passage describes
+    a substance, rite, social continuity, or commentary artifact.
+  suggested_aliases:
+  - ritual_medicine_for_collective_continuity
+  - medicine_rite_for_group_perpetuation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-medicine-for-healing-and-protection
+  motif_id: ritual_medicine_for_healing_and_protection
+  label: ritual medicine for healing and protection
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Healing and protection through ritual medicine fits the existing apotropaic
+    protection and spirit-contagion cluster under sacred_law.
+  cautions: If the evidence emphasizes a material power object or divine agent rather
+    than a protective rule/rite, sacred_treasures or divine_intervention may be secondary.
+  suggested_aliases:
+  - ritual_medicine_for_protection
+  - healing_and_protective_medicine_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-medicine-preparation-by-grinding
+  motif_id: ritual_medicine_preparation_by_grinding
+  label: ritual medicine preparation by grinding
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a specific preparation technique rather than a broad
+    symbolic or narrative motif.
+  cautions: Do not discard as source evidence; if grinding itself has explicit ritual
+    symbolism, human review may map it to sacred_craft or sacred_substance.
+  suggested_aliases:
+  - grinding_ritual_medicine
+  - medicine_preparation_by_grinding
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-medicine-preparation-linked-to-animal-powers
+  motif_id: ritual_medicine_preparation_linked_to_animal_powers
+  label: Ritual medicine preparation linked to animal powers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label links ritual medicine with animal powers, which could imply
+    animal helpers, sacred substance, protection, or spirit agency.
+  cautions: Culturally sensitive and context-dependent; avoid mapping to animals or
+    shapeshifter unless the animal power has active narrative or transformational
+    function.
+  suggested_aliases:
+  - medicine_preparation_with_animal_powers
+  - ritual_medicine_and_animal_power
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern culturally specific Native American ceremonial practice.
+  Human review should prioritize source context and avoid reducing ritual roles or
+  objects to generic motifs.
+- Single-occurrence ritual-technique labels should usually be preserved as evidence
+  details rather than promoted to taxonomy motifs unless recurrence is demonstrated.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft provisional placements only; multiple items need culturally informed
+    review before taxonomy changes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1052
+  input_sha256: b75fcd777e7c618452956269dd73f1661fed280da2745a641a1d2073e40ecff7
+

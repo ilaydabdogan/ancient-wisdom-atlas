@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2948
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.healer-steals-from-patient-during-treatment
+  motif_id: healer_steals_from_patient_during_treatment
+  label: healer steals from patient during treatment
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: low
+  rationale: A healer exploiting a patient is a violation of a protective/care relationship,
+    but the label may be a fable or comic episode rather than a durable motif.
+  cautions: Single occurrence; confirm whether the theft is narratively central or
+    only an anecdotal detail. Could also be trickster/deception if the healer role
+    is incidental.
+  suggested_aliases:
+  - healer_betrays_patient
+  - theft_during_healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-and-luck-bringing-plant
+  motif_id: healing_and_luck_bringing_plant
+  label: Healing and luck-bringing plant
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A plant conferring healing or luck functions as a power object or protective/healing
+    charm.
+  cautions: If the plant is used ritually as medicine or apotropaic protection, sacred_law
+    may be a secondary fit; do not map to sacred_tree_axis unless cosmological tree
+    function is present.
+  suggested_aliases:
+  - healing_plant_charm
+  - luck_bringing_plant
+  - protective_healing_plant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-brings-prestige-amid-distrust
+  motif_id: healing_brings_prestige_amid_distrust
+  label: healing brings prestige amid distrust
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: low
+  rationale: Healing may signal sacred efficacy or authorized power, but the prestige/distrust
+    framing is socially contextual.
+  cautions: Single occurrence and culturally contextual; verify whether a supernatural
+    healing act is present. If only social reputation dynamics, exclude or keep as
+    evidence note.
+  suggested_aliases:
+  - healer_gains_prestige_despite_distrust
+  - healing_power_confers_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-or-protective-use-of-human-bone-strings
+  motif_id: healing_or_protective_use_of_human_bone_strings
+  label: Healing or protective use of human bone strings
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Human bone strings used for healing or protection function as potent
+    ritual objects or relic-like power objects.
+  cautions: Culturally sensitive mortuary/ritual material; review source context before
+    indexing. Could also belong under sacred_law if framed as apotropaic rule or ancestor_rites
+    if linked to the dead.
+  suggested_aliases:
+  - protective_bone_charm
+  - healing_bone_strings
+  - human_bone_amulet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.healing-source-stopped-with-stones-and-marked-by-cairn
+  motif_id: healing_source_stopped_with_stones_and_marked_by_cairn
+  label: healing source stopped with stones and marked by cairn
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: over_specific_label
+  confidence: low
+  rationale: A healing water source suggests sacred waters, but the stopping with
+    stones and cairn marking may be a local place-etiology detail.
+  cautions: Single occurrence; could be sacred waters, sacred geography, or etiological
+    place naming depending on passage function. Preserve cairn and stone details as
+    evidence notes.
+  suggested_aliases:
+  - healing_spring_marked_by_cairn
+  - blocked_healing_source
+  - sacred_healing_water_source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hearing-village-noise-during-a-pause
+  motif_id: hearing_village_noise_during_a_pause
+  label: Hearing village noise during a pause
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a passage-specific auditory detail rather than a reusable
+    symbolic or narrative motif.
+  cautions: Reconsider only if source evidence shows supernatural hearing, threshold
+    perception, or an omen-like sound.
+  suggested_aliases:
+  - heard_village_noise_in_pause
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hecate-centered-enchantment-apparatus
+  motif_id: hecate_centered_enchantment_apparatus
+  label: Hecate-centered enchantment apparatus
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: low
+  rationale: An enchantment apparatus may be a ritual power object, but the deity-specific
+    label and apparatus details need source review.
+  cautions: Could fit sacred_law, sacred_treasures, divine_intervention, or textual
+    artifact depending on whether it is ritual equipment, literary description, or
+    commentary. Preserve Hecate specificity without making transmission claims.
+  suggested_aliases:
+  - enchantment_apparatus
+  - ritual_magic_apparatus
+  - hecate_ritual_equipment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.helper-carries-a-threatened-woman-during-pursuit
+  motif_id: helper_carries_a_threatened_woman_during_pursuit
+  label: Helper carries a threatened woman during pursuit
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Carrying a threatened figure during pursuit is a rescue-flight episode
+    within a journey or escape sequence.
+  cautions: Highly contextual; if the main emphasis is abduction, hidden identity,
+    or sacred love, another group may fit better. May be too specific for broad pattern
+    queries.
+  suggested_aliases:
+  - helper_carries_fugitive_woman
+  - rescue_during_pursuit
+  - flight_with_threatened_woman
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.helping-the-chief-s-garden-linked-to-prosperity-of-helpers-gardens
+  motif_id: helping_the_chief_s_garden_linked_to_prosperity_of_helpers_gardens
+  label: Helping the chief's garden linked to prosperity of helpers' gardens
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Aid given to a chief producing reciprocal prosperity fits sacred or social
+    reciprocity and exchange obligations.
+  cautions: Review whether the chief has sacred status or whether this is a practical/social
+    rule. If tied to agricultural ritual timing, sacred_time may be secondary.
+  suggested_aliases:
+  - reciprocal_garden_prosperity
+  - helping_chief_brings_prosperity
+  - garden_labor_reciprocity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.hereditary-emblem-displayed-in-a-clubhouse
+  motif_id: hereditary_emblem_displayed_in_a_clubhouse
+  label: Hereditary emblem displayed in a clubhouse
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: role_variant
+  confidence: low
+  rationale: A hereditary emblem displayed in a communal house may signal lineage
+    authority, inherited status, or sacred social order.
+  cautions: Culturally specific; verify whether the emblem functions as authority/lineage
+    proof rather than merely a material culture detail. Could also fit sacred_treasures
+    or recognition tokens.
+  suggested_aliases:
+  - hereditary_status_emblem
+  - lineage_emblem_display
+  - clubhouse_hereditary_emblem
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence, object-specific, and culturally
+  contextual; placements should remain provisional until passage evidence confirms
+  narrative or ritual function.
+- Healing/protection items often straddle sacred_treasures, sacred_law, divine_intervention,
+  and sacred_waters; choose final placement by function rather than object type alone.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2948
+  input_sha256: 5542fc6f51d6e1d7b2d84e25fd1e5ef861db7b4284dbc06d8b5d315966135aa5
+

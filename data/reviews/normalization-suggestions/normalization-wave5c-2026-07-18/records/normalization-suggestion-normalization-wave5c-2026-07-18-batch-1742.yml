@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1742
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.affinal-avoidance-of-wife-s-father-s-totem
+  motif_id: affinal_avoidance_of_wife_s_father_s_totem
+  label: affinal avoidance of wife's father's totem
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Affinal avoidance tied to a totem appears to be a kinship taboo or ritual
+    prohibition, closest to sacred_law.
+  cautions: Single Melanesian occurrence; may be an ethnographic kinship rule or culturally
+    specific totemic practice rather than a reusable motif.
+  suggested_aliases:
+  - affinal_totem_avoidance
+  - wife_s_father_totem_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.affinal-gift-exchange-at-marriage
+  motif_id: affinal_gift_exchange_at_marriage
+  label: affinal gift exchange at marriage
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Marriage-related exchange between affinal groups fits reciprocal giving
+    and social-sacred obligation.
+  cautions: Could be ordinary social custom rather than sacred motif; retain marriage/affinal
+    specificity as evidence detail.
+  suggested_aliases:
+  - marriage_gift_exchange
+  - affinal_marriage_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.affinal-licensed-plunder-by-wife-side-relatives
+  motif_id: affinal_licensed_plunder_by_wife_side_relatives
+  label: Affinal licensed plunder by wife-side relatives
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Permitted plunder by affines may function as ritualized reciprocity or
+    compensation within marriage relations.
+  cautions: Could be a highly local ethnographic custom, legal privilege, or passage
+    artifact; source context needed before pattern indexing.
+  suggested_aliases:
+  - wife_side_licensed_plunder
+  - ritualized_affinal_plunder
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.affinal-marriage-prohibition-with-reported-neighboring-contrast
+  motif_id: affinal_marriage_prohibition_with_reported_neighboring_contrast
+  label: affinal marriage prohibition with reported neighboring contrast
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The phrase 'reported neighboring contrast' reads like comparative ethnographic
+    commentary rather than a motif.
+  cautions: If the underlying source gives a clear marriage taboo narrative or ritual
+    law, remap that evidence to sacred_law; exclude the comparative contrast wording.
+  suggested_aliases:
+  - reported_neighboring_marriage_contrast
+  - affinal_marriage_taboo_comparative_note
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.affinal-property-claims-as-bride-related-compensation
+  motif_id: affinal_property_claims_as_bride_related_compensation
+  label: affinal property claims as bride-related compensation
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: low
+  rationale: Bride-related compensation and property claims fit reciprocal exchange
+    obligations between kin groups.
+  cautions: May be legal-economic ethnographic detail rather than symbolic motif;
+    verify sacred, ritual, or narrative function.
+  suggested_aliases:
+  - bride_related_compensation
+  - affinal_property_compensation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.affinal-pursuit-after-removal-of-a-wife-or-sister
+  motif_id: affinal_pursuit_after_removal_of_a_wife_or_sister
+  label: Affinal pursuit after removal of a wife or sister
+  occurrences: 1
+  traditions:
+  - san
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: functional_variant
+  confidence: low
+  rationale: Pursuit after loss or removal of a wife/sister may be a kinship or marital
+    recovery narrative.
+  cautions: 'Ambiguous: could involve abduction, bride capture, violated kinship rights,
+    conflict, or ordinary pursuit; source evidence needed.'
+  suggested_aliases:
+  - pursuit_after_wife_removal
+  - kin_pursuit_after_woman_removed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.afflicted-half-petrified-wife-under-coercion
+  motif_id: afflicted_half_petrified_wife_under_coercion
+  label: Afflicted half-petrified wife under coercion
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: shapeshifter
+  suggested_group_label: Shapeshifter and Transformation
+  relationship: functional_variant
+  confidence: low
+  rationale: Petrification is a bodily transformation or affliction, but the wife/coercion
+    context may be central.
+  cautions: Composite and episode-specific; could instead involve sacred_love, violence/coercion,
+    curse speech, or magical punishment depending on source.
+  suggested_aliases:
+  - half_petrified_wife
+  - petrified_wife_under_coercion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.affliction-removed-from-one-person-and-transferred-to-another
+  motif_id: affliction_removed_from_one_person_and_transferred_to_another
+  label: affliction removed from one person and transferred to another
+  occurrences: 1
+  traditions:
+  - japanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: Transfer of affliction to another fits the existing scapegoat/ritual
+    transfer and expulsion complex under sacrifice.
+  cautions: If no ritual substitute or expulsion is present, consider divine_intervention
+    or healing context instead.
+  suggested_aliases:
+  - ritual_transfer_of_affliction
+  - affliction_transferred_to_substitute
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.afterbirth-placed-in-pot-and-sunk-in-the-sea
+  motif_id: afterbirth_placed_in_pot_and_sunk_in_the_sea
+  label: Afterbirth placed in pot and sunk in the sea
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: ritual_variant
+  confidence: low
+  rationale: The pot functions as a container in a birth-related disposal rite, with
+    sea placement adding boundary/water symbolism.
+  cautions: Highly specific and culturally sensitive afterbirth practice; could fit
+    sacred_waters, sacred_law, birth ritual, or be excluded as ethnographic detail.
+  suggested_aliases:
+  - afterbirth_container_sea_disposal
+  - placenta_placed_in_pot_and_sunk
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.age-and-gender-limited-hunting-participation
+  motif_id: age_and_gender_limited_hunting_participation
+  label: age- and gender-limited hunting participation
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Restrictions by age and gender may reflect sacred/social regulation of
+    hunting roles.
+  cautions: Could be ordinary subsistence organization or ethnographic note, not a
+    mythic motif; needs evidence of taboo, ritual sanction, or narrative function.
+  suggested_aliases:
+  - age_gender_hunting_restriction
+  - restricted_hunting_participation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence ethnographic kinship or ritual-practice
+  descriptions; human review should distinguish motif evidence from social-custom
+  notes.
+- Avoid creating an affinal-kinship group from this batch alone unless more cross-source
+  recurrence appears.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; most affinal and afterbirth items require source-context
+    review before inclusion in pattern queries.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1742
+  input_sha256: 7d84219c78fbe0b67f0907c633f290407c705c6711ed838c324b9c8b5a3818a9
+

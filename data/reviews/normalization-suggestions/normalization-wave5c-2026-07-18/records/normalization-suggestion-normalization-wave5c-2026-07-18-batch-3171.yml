@@ -1,0 +1,295 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3171
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.avesta-veda-mythic-analogy
+  motif_id: avesta_veda_mythic_analogy
+  label: Avesta-Veda mythic analogy
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes a comparative scholarly analogy between traditions
+    rather than a narrative motif in a passage.
+  cautions: Preserve as commentary or provenance if useful; do not treat as evidence
+    of transmission or shared origin in motif queries.
+  suggested_aliases:
+  - Indo-Iranian mythic analogy
+  - Avesta-Veda comparison
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avian-informer-reveals-hidden-sexual-offence
+  motif_id: avian_informer_reveals_hidden_sexual_offence
+  label: Avian informer reveals hidden sexual offence
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A hidden wrongdoing is exposed by a nonhuman witness, fitting moral reckoning
+    and revelation of concealed transgression.
+  cautions: If the bird is mainly an omen, messenger, or fable device, prophecy_divination,
+    divine_intervention, or trickster may be better secondary contexts.
+  suggested_aliases:
+  - bird reveals hidden sexual offence
+  - avian witness exposes concealed wrongdoing
+  - nonhuman witness reveals sexual transgression
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avian-omen-interpreted-as-mandate-for-attack
+  motif_id: avian_omen_interpreted_as_mandate_for_attack
+  label: Avian omen interpreted as mandate for attack
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: Interpreting a bird sign as authorization for military action is an augural/divinatory
+    use of omens.
+  cautions: Could also support sacred_combat if the passage emphasizes the attack
+    itself rather than the interpretive omen procedure.
+  suggested_aliases:
+  - bird omen authorizes attack
+  - avian augury mandates battle
+  - omen interpreted as command to attack
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avian-rescuer-retaliates-against-captors
+  motif_id: avian_rescuer_retaliates_against_captors
+  label: avian rescuer retaliates against captors
+  occurrences: 1
+  traditions:
+  - hopi
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bird acting as rescuer against captors fits supernatural or animal-mediated
+    rescue under divine intervention.
+  cautions: If the bird is a culture hero, clan/totemic being, or ordinary animal
+    helper, review may prefer culture_hero, animal_helpers under divine_intervention,
+    or a more specific future animal-helper grouping.
+  suggested_aliases:
+  - bird rescuer retaliates against captors
+  - avian helper rescues captive
+  - animal rescuer punishes captors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avoid-the-source-of-corruption-to-remain-unchanged
+  motif_id: avoid_the_source_of_corruption_to_remain_unchanged
+  label: avoid the source of corruption to remain unchanged
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Avoiding corrupting contact to preserve one's state fits taboo, purity,
+    and pollution logic within sacred law.
+  cautions: May be an abstract ethical gloss rather than a motif; if focused on moral
+    self-discipline rather than taboo contact, sacred_knowledge or divine_judgment
+    may be relevant.
+  suggested_aliases:
+  - avoidance of corrupting contact
+  - purity maintained by avoiding corruption
+  - taboo avoidance of corrupting source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avoidance-and-sibling-like-treatment-of-companion-s-female-relatives
+  motif_id: avoidance_and_sibling_like_treatment_of_companion_s_female_relatives
+  label: avoidance and sibling-like treatment of companion's female relatives
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests kinship or affinity avoidance rules, which may fall
+    under sacred social law if ritually or morally framed.
+  cautions: Culturally specific kinship practice; source evidence is needed to avoid
+    misclassifying an ethnographic social rule as a mythic motif.
+  suggested_aliases:
+  - affinal avoidance rule
+  - sibling-like treatment of companion's female kin
+  - avoidance of companion's female relatives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avoidance-of-an-easier-capture-method
+  motif_id: avoidance_of_an_easier_capture_method
+  label: Avoidance of an easier capture method
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a plot-strategy detail rather than a durable symbolic
+    or narrative motif.
+  cautions: If the avoided method reflects a taboo, trickster stratagem, or ritual
+    constraint, remap with passage evidence; otherwise preserve only as episode detail.
+  suggested_aliases:
+  - refusal of easier capture method
+  - avoided simple capture strategy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avoidance-of-food-or-objects-after-contact-with-women-s-containers
+  motif_id: avoidance_of_food_or_objects_after_contact_with_women_s_containers
+  label: Avoidance of food or objects after contact with women's containers
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Avoidance after contact with gendered containers suggests taboo, pollution,
+    or ritual purity regulation under sacred law.
+  cautions: Culturally sensitive gendered taboo; source context is required before
+    indexing, and it may be an ethnographic detail rather than a recurring motif.
+  suggested_aliases:
+  - avoidance after contact with women's containers
+  - gendered container contact taboo
+  - food avoidance after taboo contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avoidance-of-old-cliff-bones
+  motif_id: avoidance_of_old_cliff_bones
+  label: Avoidance of old cliff bones
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Avoiding bones may reflect mortuary taboo, spirit danger, or pollution
+    avoidance, all adjacent to sacred law.
+  cautions: 'Too little context: could belong with ancestor_rites, restless_dead_haunting_vengeance,
+    sacred_law, or be an over-specific local detail.'
+  suggested_aliases:
+  - bone avoidance taboo
+  - avoidance of old bones
+  - mortuary avoidance of cliff bones
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avoidance-of-prohibited-or-corrupting-association
+  motif_id: avoidance_of_prohibited_or_corrupting_association
+  label: Avoidance of prohibited or corrupting association
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Avoiding corrupting or prohibited association fits sacred law, ethical
+    discipline, and purity boundaries.
+  cautions: In Buddhist context this may be more ethical-psychological than ritual;
+    review whether sacred_knowledge or initiation is a better secondary mapping.
+  suggested_aliases:
+  - avoidance of corrupting association
+  - avoid prohibited association
+  - ethical avoidance of bad company
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several avoidance labels appear to be culturally specific taboo or social-practice
+  descriptions; human review should check whether they are passage motifs, ethnographic
+  notes, or generated over-specific labels.
+- No transmission or common-origin inference is implied by placing comparative or
+  avian omen labels into existing groups.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; multiple low-occurrence, context-dependent labels
+    require source review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3171
+  input_sha256: c2058c1a0dc02e9567bbbe1c18fb9d260965d419afbd6ba73a9f957e38c6af18
+

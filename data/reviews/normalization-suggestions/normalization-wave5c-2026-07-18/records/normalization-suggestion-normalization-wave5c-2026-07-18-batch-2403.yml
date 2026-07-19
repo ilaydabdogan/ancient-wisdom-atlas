@@ -1,0 +1,321 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2403
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.fruit-carried-by-water-reveals-a-hidden-source
+  motif_id: fruit_carried_by_water_reveals_a_hidden_source
+  label: fruit carried by water reveals a hidden source
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe discovery of a hidden place or source through
+    water-borne evidence, but its mythic function is unclear from wording alone.
+  cautions: Single occurrence; could be a journey clue, sacred waters image, hidden
+    abundance source, or passage-specific narrative detail.
+  suggested_aliases:
+  - waterborne fruit reveals hidden source
+  - fruit as clue to hidden source
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_waters
+    - hero_journey
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fruit-gathering-from-palm-tree-with-lunar-emblem
+  motif_id: fruit_gathering_from_palm_tree_with_lunar_emblem
+  label: fruit gathering from palm tree with lunar emblem
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label combines a specific action, tree type, and emblem detail without
+    a clear recurrent narrative function.
+  cautions: If passage evidence shows a sacred tree, lunar deity, or ritual harvest
+    function, remap to axis_mundi, sacred_time, or sacred_substance rather than excluding.
+  suggested_aliases:
+  - palm fruit gathering with lunar emblem
+  - lunar-emblem palm fruit gathering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - sacred_time
+    - sacred_substance
+    - dream_and_vision
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fugitive-hidden-in-containers-over-water
+  motif_id: fugitive_hidden_in_containers_over_water
+  label: Fugitive hidden in containers over water
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: Concealment in containers makes the container/enclosure the operative
+    motif, with water as the escape or boundary setting.
+  cautions: If the main function is pursuit escape rather than a sacred or transformative
+    container, this may be an over-specific narrative detail; consider hero_journey
+    as secondary context.
+  suggested_aliases:
+  - fugitive concealed in floating containers
+  - hidden fugitive in waterborne containers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_waters
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fugitives-call-snowstorms-to-hide-their-tracks
+  motif_id: fugitives_call_snowstorms_to_hide_their_tracks
+  label: Fugitives call snowstorms to hide their tracks
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The motif involves weather manipulation for concealment, but no existing
+    group cleanly captures weather magic as escape aid.
+  cautions: Culturally specific spirit or shamanic context may be essential; could
+    fit divine_intervention, trickster escape, or journey ordeal depending on agency.
+  suggested_aliases:
+  - snowstorm conceals fugitives' tracks
+  - weather called to hide escape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - trickster
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fumigation-by-new-fire-to-expel-harmful-beings
+  motif_id: fumigation_by_new_fire_to_expel_harmful_beings
+  label: Fumigation by new fire to expel harmful beings
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: high
+  rationale: The normalization already places expulsion of harmful spirits and boundary-clearing
+    rites under the ritual expulsion complex within sacrifice.
+  cautions: Also relates to sacred_fire and sacred_law; preserve the new-fire and
+    fumigation details as ritual evidence rather than a separate canonical motif.
+  suggested_aliases:
+  - new-fire fumigation expels harmful beings
+  - fumigation rite against harmful spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_fire
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.functional-tribal-deities-for-rain-protection-food-and-healing
+  motif_id: functional_tribal_deities_for_rain_protection_food_and_healing
+  label: Functional tribal deities for rain, protection, food, and healing
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads like classification of deity functions rather than a
+    specific narrative motif.
+  cautions: Potentially culturally sensitive and source-dependent; if actual divine
+    action is described, map specific rain, protection, provision, or healing episodes
+    to divine_intervention.
+  suggested_aliases:
+  - local deities with rain protection food and healing functions
+  - functional deities of rain protection food and healing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - sacred_exchange
+    - sacred_substance
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.funeral-procession-halted-by-celestial-darkness
+  motif_id: funeral_procession_halted_by_celestial_darkness
+  label: Funeral procession halted by celestial darkness
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: functional_variant
+  confidence: medium
+  rationale: The funeral procession is the primary ritual setting; celestial darkness
+    functions as an omen or interruption of funerary rites.
+  cautions: If darkness is interpreted as a cosmic portent or divine judgment, dream_and_vision
+    or divine_judgment may be relevant secondary mappings.
+  suggested_aliases:
+  - celestial darkness halts funeral procession
+  - funeral rites interrupted by darkness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - divine_judgment
+    - lament_and_mourning
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.future-prophets-and-renovation-of-the-world
+  motif_id: future_prophets_and_renovation_of_the_world
+  label: Future prophets and renovation of the world
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: World renovation after eschatological transformation fits the broader
+    catastrophe/cosmic renewal group even without flood imagery.
+  cautions: Do not reduce Zoroastrian renovation to flood; prophecy_divination and
+    world_ages_cosmic_decline may be important secondary contexts.
+  suggested_aliases:
+  - future prophets renovate the world
+  - prophetic world renovation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - world_ages_cosmic_decline
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.future-world-renovation-by-prophets
+  motif_id: future_world_renovation_by_prophets
+  label: future world renovation by prophets
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: flood_and_renewal
+  suggested_group_label: Flood, Fire, and Cosmic Renewal
+  relationship: functional_variant
+  confidence: medium
+  rationale: This is a close wording variant of prophetic eschatological world-renewal
+    and belongs with cosmic renewal queries.
+  cautions: Likely duplicate of future_prophets_and_renovation_of_the_world; preserve
+    Zoroastrian renovation specificity and review whether a future eschatological-renovation
+    group is warranted.
+  suggested_aliases:
+  - future prophets and renovation of the world
+  - prophets renovate the future world
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - prophecy_divination
+    - world_ages_cosmic_decline
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.game-space-as-miniature-sky-and-earth
+  motif_id: game_space_as_miniature_sky_and_earth
+  label: game space as miniature sky and earth
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: world_center
+  suggested_group_label: World Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A bounded game space modeled as sky and earth functions as a microcosmic
+    ordering center or cosmogram.
+  cautions: If the evidence centers on ritual game rules or divination rather than
+    spatial cosmology, sacred_law or prophecy_divination may be better secondary mappings.
+  suggested_aliases:
+  - game board as miniature cosmos
+  - game space as sky-earth microcosm
+  - miniature sky and earth in game space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - axis_mundi
+    - cosmic_origin
+    - sacred_law
+    - prophecy_divination
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Suggestions are provisional placements for review; they do not imply transmission,
+  borrowing, or common origin.
+- Several single-occurrence labels are over-specific and should preserve local evidence
+  details rather than become canonical motifs.
+- The two Zoroastrian world-renovation labels appear to be near-duplicates and should
+  be reviewed together.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Automated normalization suggestions prepared for human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2403
+  input_sha256: 53356115516051a6d405791677537ea42567c005f3773e0681e963928c169c15
+

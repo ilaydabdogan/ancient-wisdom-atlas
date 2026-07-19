@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-4079
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.visible-proof-token-from-slain-game
+  motif_id: visible_proof_token_from_slain_game
+  label: visible proof token from slain game
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: A visible token from killed game functions as proof of an otherwise unseen
+    action or claim.
+  cautions: Single occurrence; if the passage is only a hunting detail rather than
+    identity/proof logic, exclude or keep as evidence detail.
+  suggested_aliases:
+  - proof_token_from_slain_game
+  - visible_token_proving_the_kill
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visible-sign-proving-unseen-celestial-presence
+  motif_id: visible_sign_proving_unseen_celestial_presence
+  label: visible sign proving unseen celestial presence
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: theophany
+  suggested_group_label: Theophany and Divine Manifestation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A visible sign that verifies unseen celestial presence fits manifestation
+    of sacred or heavenly reality to witnesses.
+  cautions: Could instead belong under dream_and_vision or prophecy_divination if
+    the sign is an omen rather than a manifestation; source context needed.
+  suggested_aliases:
+  - visible_sign_of_unseen_celestial_presence
+  - celestial_presence_verified_by_visible_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visitor-from-the-clouds
+  motif_id: visitor_from_the_clouds
+  label: visitor from the clouds
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may indicate a divine or otherworldly visitor, but function
+    is unclear from wording alone.
+  cautions: Could map to theophany, divine_intervention, otherworld, or a sky/celestial
+    being motif depending on whether the visitor reveals, helps, threatens, or merely
+    arrives.
+  suggested_aliases:
+  - cloud_visitor
+  - visitor_descending_from_clouds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visitor-treated-as-game-for-the-kettle
+  motif_id: visitor_treated_as_game_for_the_kettle
+  label: Visitor treated as game for the kettle
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mistreating a visitor as food reverses the expected hospitality obligation
+    toward a guest or stranger.
+  cautions: May also involve cannibal-ogre, trickster, or predator-prey fable logic;
+    avoid mapping to hospitality if the visitor is not framed as a guest or suppliant.
+  suggested_aliases:
+  - guest_treated_as_game
+  - visitor_mistreated_as_food
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visitor-with-concealed-abnormal-appetite-and-repeated-forgetfulness
+  motif_id: visitor_with_concealed_abnormal_appetite_and_repeated_forgetfulness
+  label: visitor with concealed abnormal appetite and repeated forgetfulness
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines guest identity, abnormal appetite, concealment, and
+    forgetfulness without a clear dominant motif function.
+  cautions: Could be a trickster episode, monster/ogre marker, hospitality test, or
+    over-specific plot artifact; source evidence is needed.
+  suggested_aliases:
+  - visitor_with_hidden_abnormal_appetite
+  - forgetful_visitor_with_nonordinary_appetite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visitor-with-nonordinary-appetite-for-raw-meat
+  motif_id: visitor_with_nonordinary_appetite_for_raw_meat
+  label: visitor with nonordinary appetite for raw meat
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A raw-meat appetite may mark a nonhuman, predatory, or taboo-crossing
+    visitor, but the narrative function is not explicit.
+  cautions: Could fit trickster, shapeshifter, hospitality test, sacred_law food taboo,
+    or a monster category not currently explicit; review culturally specific evidence.
+  suggested_aliases:
+  - raw_meat_appetite_marks_nonordinary_visitor
+  - nonhuman_visitor_with_raw_meat_appetite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visitors-accidentally-assist-hosts-by-exposing-a-nearby-threat
+  motif_id: visitors_accidentally_assist_hosts_by_exposing_a_nearby_threat
+  label: Visitors accidentally assist hosts by exposing a nearby threat
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: low
+  rationale: Visitors affect the host household by revealing danger, loosely fitting
+    guest-host encounter patterns.
+  cautions: Accidental threat exposure may be only a plot device; if no hospitality
+    obligation or sacred guest test is present, exclude or review under divine_intervention/trickster.
+  suggested_aliases:
+  - visitors_expose_hidden_threat
+  - guest_visit_reveals_nearby_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visitors-counted-before-planned-destruction
+  motif_id: visitors_counted_before_planned_destruction
+  label: Visitors counted before planned destruction
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label describes a very specific pre-attack or plotting detail rather
+    than a stable symbolic motif.
+  cautions: May belong to betrayal_violated_trust, sacred_combat, or hospitality_test_stranger_guest
+    if the broader episode supports those functions; otherwise exclude from pattern
+    queries.
+  suggested_aliases:
+  - counting_visitors_before_attack
+  - planned_destruction_of_counted_visitors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.visual-chapel-record-of-hidden-origin
+  motif_id: visual_chapel_record_of_hidden_origin
+  label: visual chapel record of hidden origin
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: functional_variant
+  confidence: medium
+  rationale: A visual record in a sacred space revealing hidden origins functions
+    as preserved or disclosed sacred knowledge.
+  cautions: Could map to recognition_tokens_hidden_identity if it proves lineage/identity,
+    or to _meta_textual if it is an editorial/art-description artifact.
+  suggested_aliases:
+  - sacred_visual_record_of_hidden_origin
+  - chapel_image_reveals_hidden_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.voice-and-drum-metric-contrast
+  motif_id: voice_and_drum_metric_contrast
+  label: Voice and drum metric contrast
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe performance analysis or metrical form rather
+    than a narrative or symbolic motif.
+  cautions: If the passage attributes supernatural power to voice or drum sound, remap
+    to enchanting_music; otherwise preserve only as performance/provenance metadata.
+  suggested_aliases:
+  - metrical_contrast_between_voice_and_drum
+  - voice_drum_performance_metric_contrast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several visitor labels are single-occurrence and may be episode-specific; review
+  source passages before promoting guest/visitor submotifs.
+- Do not infer transmission or shared origin from these provisional placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed especially for
+    culturally specific visitor/appetite motifs.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-4079
+  input_sha256: 8c8888cfe0efef80c4d346178b5a5adefc0d0362a6f795b066fcc8afda82ef55
+

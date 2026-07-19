@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1065
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-pollution-catalog
+  motif_id: ritual_pollution_catalog
+  label: Ritual pollution catalog
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: over_specific_label
+  confidence: low
+  rationale: A catalog of pollution rules likely belongs with ritual purity and sacred-law
+    prohibitions.
+  cautions: The word 'catalog' may mark a textual/legal list rather than a motif;
+    source context should confirm ritual function before indexing.
+  suggested_aliases:
+  - ritual_impurity_catalog
+  - purity_pollution_rules_catalog
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-pollution-transmitted-through-bodily-contact-or-remains
+  motif_id: ritual_pollution_transmitted_through_bodily_contact_or_remains
+  label: ritual pollution transmitted through bodily contact or remains
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Transmission of pollution through contact or remains matches existing
+    spirit-contagion and purity-law children under sacred_law.
+  cautions: If specifically mortuary contact, afterlife or ancestor-rite context may
+    be secondary, but the primary function is ritual prohibition/purity.
+  suggested_aliases:
+  - ritual_impurity_by_contact_with_remains
+  - pollution_transmitted_by_bodily_contact
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-posture-ordeal-as-omen-for-the-state
+  motif_id: ritual_posture_ordeal_as_omen_for_the_state
+  label: Ritual posture ordeal as omen for the state
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritual ordeal interpreted as an omen for political order fits divinatory
+    access to hidden or future knowledge.
+  cautions: Composite and comparative label; could instead be initiation, royal legitimacy,
+    or a passage artifact depending on whether the posture is ordeal, divination method,
+    or editorial comparison.
+  suggested_aliases:
+  - ordeal_posture_as_state_omen
+  - ritual_ordeal_divination_for_the_state
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-praise-by-holy-names
+  motif_id: ritual_praise_by_holy_names
+  label: ritual praise by holy names
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Invoking holy names in praise is a performative sacred speech act used
+    ritually.
+  cautions: If the passage emphasizes knowing names for passage or protection, sacred_knowledge
+    or afterlife_passage may be relevant secondary mappings.
+  suggested_aliases:
+  - praise_by_sacred_names
+  - holy_name_invocation_in_ritual_praise
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-precaution-after-consuming-valued-or-dangerous-food
+  motif_id: ritual_precaution_after_consuming_valued_or_dangerous_food
+  label: Ritual precaution after consuming valued or dangerous food
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Precautionary rules around dangerous food fit ritual prohibition and
+    purity practice under sacred_law.
+  cautions: May also involve sacred_substance if the food itself is mythically powerful;
+    culturally specific food practices should not be flattened without evidence.
+  suggested_aliases:
+  - post_consumption_ritual_precaution
+  - food_danger_ritual_precaution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-precautions-against-dangerous-strangers
+  motif_id: ritual_precautions_against_dangerous_strangers
+  label: Ritual precautions against dangerous strangers
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: uncertain
+  confidence: low
+  rationale: The dangerous stranger may function within stranger-guest and hospitality-boundary
+    motifs.
+  cautions: The label is broad and comparative; if it concerns protective ritual rather
+    than guest ethics, sacred_law/apotropaic protection may be better.
+  suggested_aliases:
+  - precautions_against_strangers
+  - ritual_protection_from_dangerous_strangers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-precautions-transform-dangerous-natural-substances-into-sources-of-strength
+  motif_id: ritual_precautions_transform_dangerous_natural_substances_into_sources_of_strength
+  label: Ritual precautions transform dangerous natural substances into sources of
+    strength
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: functional_variant
+  confidence: medium
+  rationale: Natural substances ritually made beneficial fit sacred_substance as food,
+    plant, or material power transformed by ritual handling.
+  cautions: Could instead be sacred_law if the focus is precautionary taboo, or initiation
+    if strength is gained through ordeal; source evidence needed.
+  suggested_aliases:
+  - dangerous_substance_ritually_transformed_into_strength
+  - ritual_handling_of_powerful_natural_substances
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-precedence-among-overlapping-mourning-obligations
+  motif_id: ritual_precedence_among_overlapping_mourning_obligations
+  label: Ritual precedence among overlapping mourning obligations
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rules ordering mourning duties are ritual-social obligations, fitting
+    sacred_law more than lament itself.
+  cautions: If the passage centers on grief expression, lament_and_mourning may be
+    secondary; if it is a legal commentary list, preserve as contextual evidence.
+  suggested_aliases:
+  - mourning_obligation_precedence
+  - ritual_ordering_of_mourning_duties
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-precedence-encoded-through-object-sequence-and-direction
+  motif_id: ritual_precedence_encoded_through_object_sequence_and_direction
+  label: ritual precedence encoded through object sequence and direction
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Sequencing and directionality in ritual objects may encode sacred order
+    and ritual rule.
+  cautions: Highly culture-specific and object-sequence based; may be an ethnographic
+    or ceremonial detail too granular for broad pattern queries without repeated evidence.
+  suggested_aliases:
+  - ritual_order_by_object_sequence
+  - directional_object_sequence_in_ritual
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-precedence-of-ruler-s-mourning-over-private-parental-mourning
+  motif_id: ritual_precedence_of_ruler_s_mourning_over_private_parental_mourning
+  label: Ritual precedence of ruler's mourning over private parental mourning
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif orders private kinship mourning under ruler-centered ritual
+    hierarchy, fitting sacred social law.
+  cautions: Could also relate to royal_legitimacy because ruler obligation overrides
+    household duty; preserve the Confucian ritual hierarchy specificity in notes.
+  suggested_aliases:
+  - ruler_mourning_precedes_parental_mourning
+  - public_ritual_mourning_over_private_kin_mourning
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence ritual-rule labels; many should remain granular
+  evidence unless recurrence shows a stable cross-source motif.
+- For pollution, taboo, and precaution labels, sacred_law is usually the safest broad
+  group, but source context should distinguish ritual purity, apotropaic protection,
+  sacred substance, and textual/legal catalog artifacts.
+- No transmission or borrowing claims are implied by these placements.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions for wave5c batch 1065; human review
+    recommended especially for comparative and culture-specific ritual-sequence labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1065
+  input_sha256: d60c7dd0dec98ca338d6376082e80ba0a6cf673f3a38d361c8aaa58426c0a4d2
+

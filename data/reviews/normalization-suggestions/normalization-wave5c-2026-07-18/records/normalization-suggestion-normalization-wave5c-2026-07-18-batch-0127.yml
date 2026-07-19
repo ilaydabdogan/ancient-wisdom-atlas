@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0127
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deathbed-designation-of-successor-and-final-injunction
+  motif_id: deathbed_designation_of_successor_and_final_injunction
+  label: deathbed designation of successor and final injunction
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dying figure designates succession and gives a binding final command,
+    fitting transfer of legitimate authority.
+  cautions: Single occurrence; if the injunction is mainly kin duty rather than rule
+    transfer, covenant or sacred_law may be secondary.
+  suggested_aliases:
+  - deathbed succession designation
+  - final injunction naming successor
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deathbed-devotion-in-the-final-breath
+  motif_id: deathbed_devotion_in_the_final_breath
+  label: Deathbed devotion in the final breath
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: meta_artifact
+  confidence: medium
+  rationale: Final-breath devotion in a Sufi context expresses the contemplative path
+    at the threshold of death.
+  cautions: May be a hagiographic death-scene detail rather than a reusable motif;
+    review whether it involves union, remembrance, or instruction.
+  suggested_aliases:
+  - final breath devotion
+  - devotional deathbed remembrance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deathbed-distribution-of-children-among-friends
+  motif_id: deathbed_distribution_of_children_among_friends
+  label: Deathbed distribution of children among friends
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label concerns kinship arrangements at death, but the motif function
+    is unclear from wording alone.
+  cautions: Could be household succession, adoption/fostering, social obligation,
+    or passage-specific ethnographic detail; avoid mapping without evidence.
+  suggested_aliases:
+  - deathbed assignment of children
+  - dying parent distributes children to friends
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deathbed-instruction-for-conscious-passing
+  motif_id: deathbed_instruction_for_conscious_passing
+  label: deathbed instruction for conscious passing
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Instruction for conscious dying fits disciplined spiritual practice at
+    the threshold of death.
+  cautions: Could also belong with afterlife_passage if the instruction maps postmortem
+    route or required knowledge.
+  suggested_aliases:
+  - instruction for conscious dying
+  - spiritual instruction at deathbed
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deathbed-instruction-to-marry-sisters-to-first-suitors
+  motif_id: deathbed_instruction_to_marry_sisters_to_first_suitors
+  label: deathbed instruction to marry sisters to first suitors
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label is an episode-specific deathbed command about a local marriage
+    plot device.
+  cautions: Preserve as evidence detail if it triggers a tale sequence; not broad
+    enough for current motif queries unless repeated across sources.
+  suggested_aliases:
+  - deathbed marriage instruction
+  - dying command to marry sisters to suitors
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deathbed-preparation-and-confirmation-of-death
+  motif_id: deathbed_preparation_and_confirmation_of_death
+  label: deathbed preparation and confirmation of death
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Deathbed preparation and confirming death align with ritual care around
+    transition into ancestor/dead status.
+  cautions: If merely biographical or medical narration, exclude as a passage artifact;
+    if focused on propriety, sacred_law may be secondary.
+  suggested_aliases:
+  - ritual preparation for death
+  - confirmation of death rites
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deathbed-prophecy-concerning-sacred-remains
+  motif_id: deathbed_prophecy_concerning_sacred_remains
+  label: deathbed prophecy concerning sacred remains
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A prophecy about sacred remains points to relics or remains as power
+    objects and future devotional centers.
+  cautions: Could also index under prophecy_divination if the prophetic act is primary,
+    or heroic_funeral_rites if burial honors dominate.
+  suggested_aliases:
+  - deathbed prophecy of relics
+  - prophecy about sacred remains
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deathbed-public-confession-before-family
+  motif_id: deathbed_public_confession_before_family
+  label: deathbed public confession before family
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: ritual_variant
+  confidence: low
+  rationale: Deathbed confession frames moral accounting before death, fitting judgment
+    and reckoning.
+  cautions: May instead be family reconciliation, social repair, or ethnographic death
+    custom; human review should verify sacred or moral function.
+  suggested_aliases:
+  - deathbed confession
+  - final public confession before kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deathbed-succession-and-kin-obligation
+  motif_id: deathbed_succession_and_kin_obligation
+  label: deathbed succession and kin obligation
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Succession named at death and obligations among kin fit legitimate transfer
+    of authority and lineage order.
+  cautions: If the focus is oath, revenge, or familial duty rather than rulership,
+    covenant or sacred_law may be better.
+  suggested_aliases:
+  - deathbed succession charge
+  - dying succession and kin duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deathbed-testamentary-charge
+  motif_id: deathbed_testamentary_charge
+  label: Deathbed testamentary charge
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A final testamentary charge transmits social and ethical obligation,
+    fitting sacred/social order.
+  cautions: Could map to covenant if framed as binding vow, or royal_legitimacy if
+    it names political succession.
+  suggested_aliases:
+  - final testamentary charge
+  - deathbed ethical injunction
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence deathbed scenes; treat many as evidence details
+  unless recurrence or ritual function is demonstrated.
+- Deathbed succession, testament, confession, and instruction can map to different
+  groups depending on whether the passage emphasizes authority transfer, moral accounting,
+  kin obligation, or spiritual practice.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source evidence is needed to distinguish reusable
+    deathbed motifs from contextual episode details.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0127
+  input_sha256: d46999a12f36968473bb2115e78078b4c86cb47ca928f1a821cf436d23137030
+

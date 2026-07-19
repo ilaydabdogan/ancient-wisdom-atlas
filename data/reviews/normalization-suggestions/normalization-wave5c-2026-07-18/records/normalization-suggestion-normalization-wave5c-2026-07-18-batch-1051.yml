@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1051
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-law-grounded-in-primordial-chronology
+  motif_id: ritual_law_grounded_in_primordial_chronology
+  label: ritual law grounded in primordial chronology
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label links ritual law to primordial or sacred chronology, fitting
+    sacred time as the ordering of ritual practice by origin-time.
+  cautions: Could also belong under covenant or sacred_law if the passage emphasizes
+    legal obligation more than ritual time; single occurrence needs evidence review.
+  suggested_aliases:
+  - primordial_chronology_as_ritual_law
+  - ritual_law_from_origin_time
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-leap-in-mourning
+  motif_id: ritual_leap_in_mourning
+  label: Ritual leap in mourning
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A prescribed bodily act performed in mourning is best treated as a ritualized
+    expression of grief.
+  cautions: If the source is a technical ritual-manual detail without narrative or
+    symbolic recurrence, it may be too specific for broad pattern queries.
+  suggested_aliases:
+  - mourning_leap
+  - ritualized_mourning_gesture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-legal-protection-of-an-animal
+  motif_id: ritual_legal_protection_of_an_animal
+  label: ritual/legal protection of an animal
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label centers on a ritual-legal rule protecting an animal, fitting
+    sacred law and social/ritual obligations toward living beings.
+  cautions: Could involve animal taboo, purity law, or moral care depending on passage
+    evidence; preserve animal specificity as evidence detail.
+  suggested_aliases:
+  - sacred_law_protecting_animals
+  - ritual_protection_of_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-legal-regulation-after-danger-enters-a-dwelling
+  motif_id: ritual_legal_regulation_after_danger_enters_a_dwelling
+  label: Ritual-legal regulation after danger enters a dwelling
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A rule for handling danger or pollution entering a household fits ritual
+    prohibition, purity, and apotropaic regulation under sacred law.
+  cautions: May be an over-specific legal case; if the danger is a spirit or disease,
+    sacrifice/ritual expulsion or apotropaic protection may be relevant secondary
+    context.
+  suggested_aliases:
+  - dwelling_danger_ritual_regulation
+  - household_danger_purity_rule
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-liquor-preparation-under-inspection
+  motif_id: ritual_liquor_preparation_under_inspection
+  label: ritual liquor preparation under inspection
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual preparation of liquor concerns a sacred drink or ritual substance,
+    especially where correctness is inspected.
+  cautions: If the passage focuses on procedural regulation rather than the substance
+    itself, sacred_law may be the better group; single occurrence may be a ritual-manual
+    detail.
+  suggested_aliases:
+  - inspected_ritual_liquor_preparation
+  - ritual_preparation_of_sacred_drink
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-maintenance-and-transmission-of-social-sentiments
+  motif_id: ritual_maintenance_and_transmission_of_social_sentiments
+  label: Ritual maintenance and transmission of social sentiments
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads like anthropological interpretation of ritual social
+    function rather than a concrete narrative or symbolic motif.
+  cautions: May be commentary artifact or ethical-social ritual evidence; source context
+    is needed before mapping to sacred_exchange, sacred_law, or excluding from pattern
+    queries.
+  suggested_aliases:
+  - ritual_transmission_of_social_feeling
+  - ritual_maintenance_of_social_bonds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-maintenance-of-sacred-fire
+  motif_id: ritual_maintenance_of_sacred_fire
+  label: ritual maintenance of sacred fire
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: high
+  rationale: Maintaining a sacred fire is a direct ritual variant of the sacred fire
+    complex.
+  cautions: If the fire functions mainly as sacrifice, hearth law, or communal identity,
+    secondary links to sacrifice or sacred_law may be useful.
+  suggested_aliases:
+  - keeping_the_sacred_fire
+  - ritual_tending_of_sacred_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-making-and-erasing-by-cardinal-sequence
+  motif_id: ritual_making_and_erasing_by_cardinal_sequence
+  label: ritual making and erasing by cardinal sequence
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes a culturally specific ritual procedure involving
+    directions and erasure, but its symbolic function is unclear from the label alone.
+  cautions: Could relate to sacred_time, axis_mundi, sacred_law, or ritual expulsion
+    depending on evidence; avoid flattening directional ritual sequence without human
+    review.
+  suggested_aliases:
+  - cardinal_sequence_ritual_making_and_erasing
+  - directional_ritual_creation_and_erasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-manufacture-with-songs-and-directional-display
+  motif_id: ritual_manufacture_with_songs_and_directional_display
+  label: Ritual manufacture with songs and directional display
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_craft
+  suggested_group_label: Sacred Craft and Divinely Aided Construction
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The core action is ritual manufacture or making, with song and directional
+    display as procedural sacred-craft elements.
+  cautions: If song is the active sacred force, enchanting_music or storytelling_as_power
+    may be secondary; if directions dominate, human review may prefer axis_mundi or
+    sacred_time.
+  suggested_aliases:
+  - ritual_craft_with_song_and_directions
+  - sacred_manufacture_with_directional_display
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-marking-and-adornment-of-children
+  motif_id: ritual_marking_and_adornment_of_children
+  label: ritual marking and adornment of children
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritual marking and adornment of children fits the protected, marked,
+    or ritually significant child complex when the child’s status is the focus.
+  cautions: If this is a general rite of passage rather than special child destiny,
+    initiation or sacred_law may be better; source context should confirm function.
+  suggested_aliases:
+  - ritual_adornment_of_children
+  - child_marking_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch appear to be single-occurrence ritual-procedure or
+  ritual-law details; human reviewers should decide whether they are useful motif
+  evidence or too procedural for broad pattern queries.
+- For culturally specific Indigenous ritual sequences, avoid over-normalizing directional,
+  song, manufacture, or erasure details without source evidence.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; prioritize human review for ambiguous
+    ritual-procedural labels and single-occurrence ethnographic details.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1051
+  input_sha256: acf89409c55800a697e883075a6703da0b35c2a838b91eb41a71e7f026768b36
+

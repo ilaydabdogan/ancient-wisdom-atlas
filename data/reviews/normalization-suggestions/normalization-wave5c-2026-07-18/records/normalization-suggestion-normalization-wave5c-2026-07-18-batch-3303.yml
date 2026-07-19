@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3303
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.cosmological-finitude-alternatives
+  motif_id: cosmological_finitude_alternatives
+  label: cosmological finitude alternatives
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Abstract philosophical label; could concern cosmology, impermanence,
+    or doctrinal alternatives rather than a narrative motif.
+  cautions: Single occurrence and insufficient evidence; avoid mapping to cosmic_origin
+    or mystical_quest without passage context.
+  suggested_aliases:
+  - finite_cosmological_alternatives
+  - cosmological_finitude_doctrine
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmological-floor-image-used-in-initiation
+  motif_id: cosmological_floor_image_used_in_initiation
+  label: Cosmological floor image used in initiation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A cosmological image used in an initiation rite functions as ritual instruction
+    or threshold transformation.
+  cautions: Could also relate to axis_mundi or sacred_knowledge if the floor image
+    maps sacred space or transmits esoteric knowledge; culturally specific evidence
+    should be reviewed carefully.
+  suggested_aliases:
+  - cosmological_floor_image_in_initiation
+  - ritual_cosmogram_used_in_initiation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmological-inscription
+  motif_id: cosmological_inscription
+  label: cosmological inscription
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Too broad to tell whether the inscription is sacred knowledge, cosmic
+    origin, royal legitimation, or a textual artifact.
+  cautions: If merely an object/document description, exclude or preserve as evidence
+    detail; if the inscription encodes divine decrees or creation order, sacred_knowledge
+    or cosmic_origin may fit.
+  suggested_aliases:
+  - inscribed_cosmology
+  - cosmological_text_inscription
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmological-inventory-of-domains-and-life-forms
+  motif_id: cosmological_inventory_of_domains_and_life_forms
+  label: Cosmological inventory of domains and life-forms
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: medium
+  rationale: An inventory of cosmic domains and life-forms describes ordered creation
+    or cosmological structure.
+  cautions: May be a doctrinal catalogue rather than a narrative motif; if it is only
+    textual taxonomy, consider excluding from pattern queries.
+  suggested_aliases:
+  - cosmic_inventory_of_domains_and_beings
+  - ordered_inventory_of_creation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmological-regions-as-domains-of-tales
+  motif_id: cosmological_regions_as_domains_of_tales
+  label: cosmological regions as domains of tales
+  occurrences: 1
+  traditions:
+  - zuni
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Label mixes cosmological geography with narrative organization; function
+    is unclear from wording alone.
+  cautions: Could be storytelling_as_power, otherworld, cosmic_origin, or a textual/classificatory
+    artifact depending on source evidence; review with cultural context.
+  suggested_aliases:
+  - cosmic_regions_as_story_domains
+  - tales_assigned_to_cosmological_regions
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmological-setting-organized-around-the-oceanic-deep
+  motif_id: cosmological_setting_organized_around_the_oceanic_deep
+  label: Cosmological setting organized around the oceanic deep
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The oceanic deep is a primordial cosmological setting associated with
+    watery chaos and creation order.
+  cautions: Do not map to flood_and_renewal unless destructive flood and renewal are
+    present; sacred_waters may be a secondary relation if water boundary or passage
+    is emphasized.
+  suggested_aliases:
+  - cosmos_ordered_around_oceanic_deep
+  - primordial_oceanic_deep_cosmology
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cosmopolitan-tale-catalogue-grouping
+  motif_id: cosmopolitan_tale_catalogue_grouping
+  label: cosmopolitan tale catalogue grouping
+  occurrences: 1
+  traditions:
+  - estonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: This describes tale-catalogue classification rather than a symbolic or
+    narrative motif.
+  cautions: Preserve only as provenance or classification metadata; do not use as
+    pattern evidence.
+  suggested_aliases:
+  - cosmopolitan_tale_catalogue_category
+  - tale_catalogue_grouping
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.costume-action-correspondence
+  motif_id: costume_action_correspondence
+  label: Costume-action correspondence
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could describe ritual performance, symbolic dress, or a passage-specific
+    ethnographic observation; no clear existing group from label alone.
+  cautions: Culturally specific ritual context is needed; avoid flattening into sacred_law
+    or initiation unless the costume-action relation functions ritually as rule, role,
+    or transformation.
+  suggested_aliases:
+  - ritual_costume_action_correspondence
+  - costume_matching_ritual_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.council-adjudication-by-appeal-to-authoritative-textual-precedent
+  motif_id: council_adjudication_by_appeal_to_authoritative_textual_precedent
+  label: council adjudication by appeal to authoritative textual precedent
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A council resolves a dispute by authoritative precedent, fitting sacred
+    legal and social-order regulation.
+  cautions: May be institutional history or monastic procedure rather than mythic
+    motif; if the focus is textual transmission, _meta_textual may be more appropriate.
+  suggested_aliases:
+  - adjudication_by_scriptural_precedent
+  - council_decision_by_authoritative_text
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.council-adjudication-by-examined-votes
+  motif_id: council_adjudication_by_examined_votes
+  label: council adjudication by examined votes
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes institutional adjudication by voting, but its sacred
+    or narrative function is unclear.
+  cautions: Could fit sacred_law if it encodes legitimate communal procedure; could
+    also be a historical or textual-procedural artifact to exclude from motif queries.
+  suggested_aliases:
+  - council_decision_by_examined_votes
+  - adjudication_by_scrutinized_votes
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are abstract cosmological or institutional descriptions
+  with single occurrences; human review should verify whether they are narrative motifs,
+  doctrinal summaries, ritual practices, or scholarly artifacts.
+- No placement implies transmission, borrowing, or common origin.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally specific ritual and
+    institutional labels require source-context review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3303
+  input_sha256: 2e72c60b875cdaabc419a9a8d47819ffaa090614cb356793ffc813b4d8ce52dc
+

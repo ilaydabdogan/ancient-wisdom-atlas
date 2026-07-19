@@ -1,0 +1,297 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2934
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ever-full-feast-vessel
+  motif_id: ever_full_feast_vessel
+  label: Ever-full feast vessel
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: An inexhaustible feast vessel is a sacred container holding or producing
+    abundance, fitting the vessel/container power-object complex.
+  cautions: Could also index secondarily under sacred_substance or divine_intervention
+    if the passage emphasizes food or miraculous provision more than the vessel.
+  suggested_aliases:
+  - inexhaustible_feast_vessel
+  - ever_full_food_vessel
+  - abundance_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ever-simmering-household-food-pot
+  motif_id: ever_simmering_household_food_pot
+  label: ever-simmering household food pot
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: A perpetually cooking food pot is a container of inexhaustible nourishment
+    and fits sacred vessel abundance variants.
+  cautions: If the source treats it mainly as miraculous food supply or domestic abundance,
+    divine_intervention or sacred_exchange may be useful secondary mappings.
+  suggested_aliases:
+  - inexhaustible_food_pot
+  - ever_cooking_pot
+  - self_replenishing_household_pot
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.evil-whisperer-entering-the-human-interior
+  motif_id: evil_whisperer_entering_the_human_interior
+  label: Evil whisperer entering the human interior
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests demonic prompting or interior spiritual danger, which
+    may relate to existing sacred_law aliases for refuge from demonic promptings.
+  cautions: Culturally sensitive and doctrinally specific; may instead belong under
+    ethics/inner life, apotropaic protection, or divine judgment depending on passage
+    evidence.
+  suggested_aliases:
+  - demonic_prompting_within_the_heart
+  - evil_whispering_into_the_human_interior
+  - interior_spiritual_temptation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.excessive-discipline-marked-by-bodily-injury
+  motif_id: excessive_discipline_marked_by_bodily_injury
+  label: excessive discipline marked by bodily injury
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: Extreme ascetic discipline that injures the body fits the spiritual quest
+    path and renunciation complex.
+  cautions: May be a cautionary ethical episode rather than a motif; if the passage
+    emphasizes moral excess or corrective teaching, sacred_knowledge may be secondary.
+  suggested_aliases:
+  - extreme_asceticism_causing_bodily_harm
+  - bodily_injury_from_excessive_discipline
+  - self_mortification_as_spiritual_excess
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exchange-for-residence-and-garden-rights
+  motif_id: exchange_for_residence_and_garden_rights
+  label: Exchange for residence and garden rights
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes an exchange establishing rights, which may fit sacred
+    reciprocity if ritually or mythically charged.
+  cautions: Could be a land-tenure or ethnographic detail rather than a symbolic motif;
+    needs source context before indexing in pattern queries.
+  suggested_aliases:
+  - reciprocal_exchange_for_land_rights
+  - residence_rights_gained_by_exchange
+  - garden_rights_established_by_exchange
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exclusion-by-mismatched-vessel
+  motif_id: exclusion_by_mismatched_vessel
+  label: exclusion by mismatched vessel
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: uncertain
+  confidence: low
+  rationale: The vessel appears to determine inclusion or exclusion, but the narrative
+    function is unclear from the label alone.
+  cautions: May be an over-specific episode detail, ritual seating/banquet marker,
+    or identity test; verify passage evidence before mapping.
+  suggested_aliases:
+  - wrong_vessel_causes_exclusion
+  - mismatched_container_as_exclusion_marker
+  - exclusion_through_improper_vessel
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exonymic-naming-by-neighboring-groups
+  motif_id: exonymic_naming_by_neighboring_groups
+  label: exonymic naming by neighboring groups
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label describes naming/classification by neighboring groups rather
+    than a narrative or symbolic motif.
+  cautions: If the source gives a myth explaining a people-name, consider cosmic_origin
+    or eponymous ancestor variants instead.
+  suggested_aliases:
+  - neighbor_group_exonym
+  - external_group_naming
+  - exonymic_ethnonym_assignment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exploratory-mapping-of-an-island-landscape
+  motif_id: exploratory_mapping_of_an_island_landscape
+  label: Exploratory mapping of an island landscape
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: uncertain
+  confidence: low
+  rationale: Exploration of an island landscape may be a journey or ordeal, but the
+    label does not show sacred transformation or otherworld function.
+  cautions: Could be a passage artifact or geographic detail; map only if exploration
+    has mythic, initiatory, etiological, or otherworld significance.
+  suggested_aliases:
+  - island_landscape_exploration
+  - mapping_an_unknown_island
+  - exploratory_survey_of_island_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.exposure-of-concealed-bodily-identity-brings-danger
+  motif_id: exposure_of_concealed_bodily_identity_brings_danger
+  label: Exposure of concealed bodily identity brings danger
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on hidden bodily identity becoming revealed and consequential,
+    fitting the hidden identity/recognition complex.
+  cautions: If bodily concealment involves species-change or disguise, shapeshifter
+    may be a better or secondary mapping; confirm the danger mechanism in source evidence.
+  suggested_aliases:
+  - dangerous_revelation_of_hidden_bodily_identity
+  - concealed_body_identity_exposed
+  - exposure_of_hidden_identity_brings_peril
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.expulsion-beyond-community-boundary
+  motif_id: expulsion_beyond_community_boundary
+  label: expulsion beyond community boundary
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Expelling a person, spirit, harm, or substitute beyond the community
+    boundary matches the existing ritual expulsion complex under sacrifice.
+  cautions: If this is purely social exile without ritual transfer or purification,
+    hero_journey/exile_wandering or sacred_law may fit better; comparative label may
+    be broad.
+  suggested_aliases:
+  - ritual_expulsion_beyond_boundary
+  - banishment_beyond_community_limits
+  - boundary_expulsion_of_harm
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and object/space-bucket labels; source context
+  should determine whether they are durable motifs or passage artifacts.
+- Abundance-vessel labels may warrant consistent cross-indexing between sacred_vessel,
+  sacred_substance, and divine_intervention if future batches contain many inexhaustible
+  food-container variants.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review needed especially for culturally
+    specific Islamic, Melanesian, Amazonian, and Inuit labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2934
+  input_sha256: b7fce401e4e8eb331c35e71989f6f7a8c0203f02c46a9b9045562dab8b8aba06
+

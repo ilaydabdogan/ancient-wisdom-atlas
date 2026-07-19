@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1048
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-inclusion-of-ordered-social-roles
+  motif_id: ritual_inclusion_of_ordered_social_roles
+  label: ritual inclusion of ordered social roles
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritually assigning or including social roles fits sacred ordering of
+    society and obligation.
+  cautions: Single Zoroastrian occurrence; verify whether the label describes a ritual
+    rule rather than passage-specific social description.
+  suggested_aliases:
+  - ritual ordering of social roles
+  - sacral inclusion of social roles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-incorporation-of-animal-through-complete-eating
+  motif_id: ritual_incorporation_of_animal_through_complete_eating
+  label: ritual incorporation of animal through complete eating
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritual eating of an animal as incorporation may fit sacred food/substance
+    or sacrificial consumption.
+  cautions: Comparative and potentially sensitive; could belong under sacrifice if
+    the animal is offered, sacred_substance if ingestion is central, or be an ethnographic
+    artifact.
+  suggested_aliases:
+  - ritual animal incorporation through eating
+  - complete ritual consumption of animal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-ingestion-of-conquered-enemy-for-power
+  motif_id: ritual_ingestion_of_conquered_enemy_for_power
+  label: ritual ingestion of conquered enemy for power
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ingestion for power centers on a ritualized substance/body-power transfer.
+  cautions: Culturally sensitive and single occurrence; source evidence should confirm
+    wording and avoid flattening into generic sacrifice or combat cannibalism.
+  suggested_aliases:
+  - ritual enemy ingestion for power
+  - ingestion of conquered enemy as power transfer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-ingestion-of-prepared-animal-for-cure
+  motif_id: ritual_ingestion_of_prepared_animal_for_cure
+  label: Ritual ingestion of prepared animal for cure
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_substance
+  suggested_group_label: Sacred Substance and Divine Intoxication
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A ritually prepared animal consumed for healing fits sacred food or substance
+    as transformative medicine.
+  cautions: Culturally specific healing context; may warrant a healing-rite subgroup
+    if many similar labels recur.
+  suggested_aliases:
+  - ritual animal ingestion for healing
+  - prepared animal consumed for cure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-institution-after-technological-mishap
+  motif_id: ritual_institution_after_technological_mishap
+  label: ritual institution after technological mishap
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: uncertain
+  confidence: low
+  rationale: A ritual founded after a mishap may express repair after disorder, but
+    the function is unclear from the label.
+  cautions: Could be an etiological origin of a rite, a technical accident note, divine
+    warning, or passage artifact; needs source context.
+  suggested_aliases:
+  - rite instituted after mishap
+  - ritual origin from technological accident
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-instruction-and-discipline-of-children-and-household-members
+  motif_id: ritual_instruction_and_discipline_of_children_and_household_members
+  label: Ritual instruction and discipline of children and household members
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Ritualized household instruction and discipline fits sacred law as social
+    and ethical ordering.
+  cautions: Single culturally specific occurrence; preserve household and child-discipline
+    specificity as evidence detail.
+  suggested_aliases:
+  - ritual household discipline
+  - ritual instruction of children and household
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-intention-determines-pollution-outcome
+  motif_id: ritual_intention_determines_pollution_outcome
+  label: ritual intention determines pollution outcome
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Pollution rules governed by intention belong with ritual purity, prohibition,
+    and sacred law.
+  cautions: May also involve divine judgment if intention is morally evaluated; keep
+    Zoroastrian purity-law context visible.
+  suggested_aliases:
+  - intention affects ritual pollution
+  - ritual intent and purity outcome
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-inversion-as-magical-reversal
+  motif_id: ritual_inversion_as_magical_reversal
+  label: Ritual inversion as magical reversal
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Ritual inversion used to reverse a condition can fit regulated magical
+    or apotropaic practice under sacred law.
+  cautions: Could justify a future ritual-inversion group if recurrent; source context
+    needed to distinguish magic, purification, curse reversal, or social inversion.
+  suggested_aliases:
+  - ritual inversion for reversal
+  - magical reversal by ritual inversion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-inversion-for-abnormal-birth-status
+  motif_id: ritual_inversion_for_abnormal_birth_status
+  label: ritual inversion for abnormal birth status
+  occurrences: 1
+  traditions:
+  - inuit
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: A ritual response to abnormal birth status likely concerns social and
+    ritual classification.
+  cautions: Culturally sensitive birth-status category; may relate to miraculous_child
+    or sacred_birth if destiny is emphasized, but label suggests ritual regulation.
+  suggested_aliases:
+  - ritual reversal for abnormal birth
+  - ritual inversion of birth status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-inversion-of-social-hierarchy
+  motif_id: ritual_inversion_of_social_hierarchy
+  label: ritual inversion of social hierarchy
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Temporary ritual reversal of hierarchy is a ritualized treatment of social
+    order.
+  cautions: Comparative label may be broad; if tied to festival cycles, sacred_time
+    may be a secondary mapping.
+  suggested_aliases:
+  - ritual reversal of hierarchy
+  - festival inversion of social order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels concern ritual inversion or ritual ingestion with only one occurrence;
+  keep them provisional and verify passage evidence before promoting new taxonomy
+  groups.
+- For culturally sensitive ingestion, healing, birth-status, and Indigenous-context
+  labels, human review should confirm source wording and avoid overgeneralized comparative
+  phrasing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; no taxonomy edits applied.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1048
+  input_sha256: d2e3d117133f18ae3205958ff64e72e04505d48cd3364174dfeb47990ee4e219
+

@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2650
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.contested-messianic-title
+  motif_id: contested_messianic_title
+  label: contested messianic title
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A disputed messianic title may concern sacred authority, prophecy, or
+    polemical classification, but the label alone lacks narrative function.
+  cautions: Single occurrence; may be a theological/commentary artifact rather than
+    a motif. Requires source evidence before mapping to prophecy_divination, royal_legitimacy,
+    or divine_judgment.
+  suggested_aliases:
+  - disputed_messianic_title
+  - contested_sacred_title
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-miracle-attribution
+  motif_id: contested_miracle_attribution
+  label: contested miracle attribution
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: Dispute over whether an event is a miracle still centers on supernatural
+    or divine agency in human affairs.
+  cautions: If the passage focuses on polemical labeling or skepticism rather than
+    the miracle event, treat as commentary or map secondarily to divine_judgment only
+    with evidence.
+  suggested_aliases:
+  - disputed_miracle_attribution
+  - miracle_attribution_contested
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-monastic-dwelling-resources
+  motif_id: contested_monastic_dwelling_resources
+  label: Contested monastic dwelling resources
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A dispute over monastic dwelling resources may be legal, institutional,
+    ethical, or narrative conflict, but no clear mythic motif is evident from the
+    label.
+  cautions: Likely contextual or Vinaya/legal detail unless the passage frames it
+    as sacred law, donation merit, or communal order. Do not map solely because it
+    is a conflict.
+  suggested_aliases:
+  - monastic_resource_dispute
+  - contested_monastic_property
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-obsequies-between-religious-communities
+  motif_id: contested_obsequies_between_religious_communities
+  label: contested obsequies between religious communities
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label concerns disputed funerary rites performed for a significant
+    dead figure, fitting the funeral-rites and memorialization complex.
+  cautions: If the emphasis is interreligious boundary-making rather than rites for
+    the dead, sacred_law or covenant may be secondary; source context needed.
+  suggested_aliases:
+  - disputed_obsequies_between_communities
+  - contested_funeral_rites_between_religious_groups
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-origin-of-a-culture-poet
+  motif_id: contested_origin_of_a_culture_poet
+  label: contested origin of a culture poet
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may concern a culture-hero poet, authorship legend, or scholarly
+    dispute over origins, but its motif function is unclear.
+  cautions: Could be a textual/scholarly artifact if about competing biographical
+    traditions. Map to culture_hero or storytelling_as_power only if the passage narrativizes
+    the poet as founder or sacred transmitter.
+  suggested_aliases:
+  - disputed_origin_of_culture_poet
+  - contested_poet_origin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-possession-of-a-valued-object
+  motif_id: contested_possession_of_a_valued_object
+  label: contested possession of a valued object
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A valued object whose possession is disputed fits the sacred-treasure/power-object
+    complex when the object carries authority, protection, or special value.
+  cautions: If the object is merely ordinary property, exclude or review as contextual
+    conflict. Native American Northwest Coast context should be reviewed for local
+    ceremonial and ownership meanings.
+  suggested_aliases:
+  - disputed_possession_of_valued_object
+  - contested_power_object
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-precedence-at-a-feast
+  motif_id: contested_precedence_at_a_feast
+  label: contested precedence at a feast
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: A feast-order dispute concerns rank, hospitality, and reciprocal social
+    obligations within a ritualized meal setting.
+  cautions: Could also involve royal_legitimacy or sacred_combat if precedence triggers
+    succession or violence; preserve feast-rank detail as evidence.
+  suggested_aliases:
+  - feast_precedence_dispute
+  - contested_rank_at_feast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-religious-donation
+  motif_id: contested_religious_donation
+  label: contested religious donation
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A disputed donation to religious recipients fits sacred giving, merit,
+    and reciprocal obligation.
+  cautions: If the passage is primarily monastic property law or administrative dispute,
+    sacred_law or exclusion may be better. Single occurrence needs source review.
+  suggested_aliases:
+  - disputed_religious_donation
+  - contested_gift_to_religious_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-remains-divided-among-claimants-and-commemorated-by-monuments
+  motif_id: contested_remains_divided_among_claimants_and_commemorated_by_monuments
+  label: Contested remains divided among claimants and commemorated by monuments
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: high
+  rationale: Division, claiming, and monumental commemoration of remains are clearly
+    funerary memorial practices around a significant dead figure.
+  cautions: May also relate to sacred_treasures if relics themselves become power
+    objects or pilgrimage centers; keep relic-distribution specificity in notes.
+  suggested_aliases:
+  - division_of_contested_remains_among_claimants
+  - relics_divided_and_commemorated_by_monuments
+  - contested_relic_distribution
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-saint-as-miracle-worker-or-sorcerer
+  motif_id: contested_saint_as_miracle_worker_or_sorcerer
+  label: Contested saint as miracle worker or sorcerer
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The label concerns a holy person whose extraordinary acts are interpreted
+    as divinely authorized miracles or illicit sorcery.
+  cautions: Culturally sensitive and attribution-dependent; if polemical labeling
+    is the focus, needs human review. Could also relate to sacred_knowledge or divine_judgment
+    in specific contexts.
+  suggested_aliases:
+  - saint_contested_as_miracle_worker_or_sorcerer
+  - holy_person_accused_of_sorcery
+  - contested_miracle_worker
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels use 'contested' and may be dispute/commentary artifacts rather than
+  motifs; source evidence should determine whether the contested object, rite, title,
+  or agency has a recurring narrative function.
+- Do not infer transmission or interreligious borrowing from shared placement; suggestions
+  are broad query placements only.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions; human review especially needed for
+    single-occurrence contested/polemical labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2650
+  input_sha256: 3d249b3062d0ae9d9bc3cd99b02afef07245d5435d7ce59340fe66c329a36565
+

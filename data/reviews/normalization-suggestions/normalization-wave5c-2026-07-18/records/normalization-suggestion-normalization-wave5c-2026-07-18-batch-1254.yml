@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1254
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.attempted-schism-by-a-named-instigator
+  motif_id: attempted_schism_by_a_named_instigator
+  label: attempted schism by a named instigator
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: covenant
+  suggested_group_label: Covenant and Sacred Bond
+  relationship: functional_variant
+  confidence: medium
+  rationale: Attempted schism threatens the binding communal order and sacred relationship
+    of a religious community.
+  cautions: Named-instigator detail may be passage-specific; if primarily monastic
+    legal procedure, sacred_law may be a secondary placement.
+  suggested_aliases:
+  - communal_schism_attempt
+  - attempted_religious_community_schism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.attributed-sage-speech-rejected-by-internal-evidence
+  motif_id: attributed_sage_speech_rejected_by_internal_evidence
+  label: attributed sage speech rejected by internal evidence
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes source criticism or attribution judgment rather than
+    a narrative or symbolic motif.
+  cautions: Preserve as provenance or commentary if relevant to textual history, but
+    exclude from motif pattern queries.
+  suggested_aliases:
+  - attribution_rejected_by_internal_evidence
+  - textual_attribution_disputed_by_internal_evidence
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.auspicious-first-words-and-first-actions-shape-the-year
+  motif_id: auspicious_first_words_and_first_actions_shape_the_year
+  label: auspicious first words and first actions shape the year
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: high
+  rationale: First speech and actions at a calendrical threshold shape the coming
+    year, fitting sacred time and ritual cycle.
+  cautions: Also involves performative speech; curse_blessing_speech may be a related
+    secondary group if words themselves bind outcomes.
+  suggested_aliases:
+  - first_words_shape_the_year
+  - new_year_auspicious_first_actions
+  - calendrical_first_speech_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.auspicious-naming-from-an-opening-word
+  motif_id: auspicious_naming_from_an_opening_word
+  label: Auspicious naming from an opening word
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: functional_variant
+  confidence: medium
+  rationale: An opening word confers auspicious naming power, emphasizing performative
+    sacred speech.
+  cautions: Could be a textual or ritual naming convention rather than a recurrent
+    motif; verify source context before broad indexing.
+  suggested_aliases:
+  - auspicious_opening_word_naming
+  - naming_by_auspicious_first_word
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.auspicious-speech-after-sneezing-regulated-by-religious-discipline
+  motif_id: auspicious_speech_after_sneezing_regulated_by_religious_discipline
+  label: Auspicious speech after sneezing regulated by religious discipline
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on religious discipline regulating a speech response
+    to an omen-like bodily event.
+  cautions: Highly specific; if evidence emphasizes the spoken blessing itself, curse_blessing_speech
+    may be a secondary placement.
+  suggested_aliases:
+  - regulated_auspicious_speech_after_sneezing
+  - sneeze_response_under_religious_discipline
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authorization-before-communal-disciplinary-speech
+  motif_id: authorization_before_communal_disciplinary_speech
+  label: Authorization before communal disciplinary speech
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: The label concerns authorized speech within communal discipline, fitting
+    sacred law and regulated social order.
+  cautions: May be procedural Vinaya detail rather than a symbolic motif; preserve
+    procedural specificity as evidence.
+  suggested_aliases:
+  - authorized_communal_disciplinary_speech
+  - permission_before_disciplinary_admonition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.authorized-instruction-across-monastic-gender-categories
+  motif_id: authorized_instruction_across_monastic_gender_categories
+  label: Authorized instruction across monastic gender categories
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: high
+  rationale: Regulated instruction across monastic categories is a sacred-law and
+    institutional-order motif.
+  cautions: Likely a monastic procedural rule rather than a broad mythic pattern;
+    human review should confirm indexing value.
+  suggested_aliases:
+  - regulated_cross_gender_monastic_instruction
+  - authorized_monastic_instruction_across_categories
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.autonomous-subgroup-becoming-a-new-named-community
+  motif_id: autonomous_subgroup_becoming_a_new_named_community
+  label: autonomous subgroup becoming a new named community
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: low
+  rationale: A subgroup becoming a named community resembles origin-of-peoples or
+    eponymous community formation already held under cosmic_origin.
+  cautions: May be ethnographic social history or passage-specific naming detail,
+    not a symbolic motif; consider exclusion if no etiological narrative is present.
+  suggested_aliases:
+  - origin_of_named_community_from_subgroup
+  - autonomous_subgroup_origin_of_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avoidance-names-for-dangerous-prey-animals
+  motif_id: avoidance_names_for_dangerous_prey_animals
+  label: Avoidance names for dangerous prey animals
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Avoidance names treat utterance as ritually consequential speech that
+    manages danger around hunted animals.
+  cautions: Could also fit sacred_law as taboo practice; culturally specific naming
+    protocols need careful human review.
+  suggested_aliases:
+  - avoidance_names_for_hunted_animals
+  - taboo_names_for_dangerous_prey
+  - ritual_avoidance_naming_of_animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.avoidance-names-for-feared-forces
+  motif_id: avoidance_names_for_feared_forces
+  label: Avoidance names for feared forces
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: wisdom_speech_dream_revelation
+  suggested_action: map_to_existing_group
+  suggested_group_id: curse_blessing_speech
+  suggested_group_label: Curse, Blessing, and Performative Sacred Speech
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Avoidance naming reflects sacred speech practice where naming feared
+    powers can affect relation to them.
+  cautions: Broad and culturally sensitive; may instead be sacred_law if framed mainly
+    as taboo regulation.
+  suggested_aliases:
+  - taboo_names_for_feared_forces
+  - avoidance_naming_of_dangerous_powers
+  - euphemistic_names_for_feared_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence monastic or ethnographic rule labels; preserve
+  local procedural meaning and avoid promoting them to canonical motifs without recurrence.
+- Avoidance-name labels are best treated provisionally as performative sacred speech
+  with possible sacred_law secondary review.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1254
+  input_sha256: 5648824ab85ba30f40c1f5f16bf039495b8719b5474afe9c8441c4dceaf9855d
+

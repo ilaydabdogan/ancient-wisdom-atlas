@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1053
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.ritual-memory-and-sacred-recital
+  motif_id: ritual_memory_and_sacred_recital
+  label: Ritual memory and sacred recital
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Sacred recital and ritual memory function as preservation and transmission
+    of sacred knowledge.
+  cautions: Could also fit storytelling_as_power or sacred_law if the passage emphasizes
+    performative recitation or ritual obligation rather than knowledge transmission.
+  suggested_aliases:
+  - sacred_recital_as_ritual_memory
+  - ritual_recitation_preserves_sacred_memory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-mitigation-of-the-sun-by-lime
+  motif_id: ritual_mitigation_of_the_sun_by_lime
+  label: ritual mitigation of the sun by lime
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe a local ritual action affecting the sun,
+    but its symbolic function is unclear from the label alone.
+  cautions: May be an over-specific ethnographic detail; could involve sacred_fire/solar
+    power, ritual protection, weather-cosmic regulation, or local ritual technology
+    depending on source evidence.
+  suggested_aliases:
+  - ritual_mitigation_of_solar_power
+  - lime_used_to_mitigate_the_sun
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-mourning-marked-by-clothing-gesture
+  motif_id: ritual_mourning_marked_by_clothing_gesture
+  label: Ritual mourning marked by clothing gesture
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: high
+  rationale: A clothing gesture marking grief is a ritualized expression of mourning.
+  cautions: Preserve the specific clothing gesture as evidence detail; do not promote
+    unless it recurs across sources.
+  suggested_aliases:
+  - mourning_clothing_gesture
+  - ritual_grief_marked_by_clothing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-mourning-memorializes-a-murdered-companion
+  motif_id: ritual_mourning_memorializes_a_murdered_companion
+  label: ritual mourning memorializes a murdered companion
+  occurrences: 1
+  traditions:
+  - sufi
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: high
+  rationale: The motif centers on mourning and memorializing a dead companion.
+  cautions: If the passage emphasizes formal funerary rites more than grief expression,
+    heroic_funeral_rites or ancestor_rites may be a secondary fit.
+  suggested_aliases:
+  - mourning_for_murdered_companion
+  - memorial_lament_for_slain_companion
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-mourning-restores-wounded-social-solidarity
+  motif_id: ritual_mourning_restores_wounded_social_solidarity
+  label: Ritual mourning restores wounded social solidarity
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: functional_variant
+  confidence: medium
+  rationale: Mourning is the central rite, with grief used to repair communal order
+    after loss or rupture.
+  cautions: Could also fit covenant or sacred_exchange if the evidence emphasizes
+    social bond repair more than mourning itself.
+  suggested_aliases:
+  - mourning_restores_social_solidarity
+  - communal_mourning_repairs_social_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-movement-constrained-by-communal-calendrical-duty
+  motif_id: ritual_movement_constrained_by_communal_calendrical_duty
+  label: Ritual movement constrained by communal calendrical duty
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label ties ritual conduct and movement to communal calendrical obligation.
+  cautions: If the source is primarily monastic rule or ethical duty rather than calendrical
+    ritual, sacred_law may be a secondary mapping.
+  suggested_aliases:
+  - calendrical_duty_constrains_ritual_movement
+  - ritual_movement_ordered_by_sacred_calendar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-movement-over-communal-food-before-eating
+  motif_id: ritual_movement_over_communal_food_before_eating
+  label: ritual movement over communal food before eating
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A pre-eating ritual over communal food fits sacred feeding, reciprocity,
+    and ritualized sharing.
+  cautions: Could fit sacrifice or sacred_substance if the food is offered, transformed,
+    tabooed, or treated as a sacred substance; label is culturally specific and sparse.
+  suggested_aliases:
+  - pre_eating_ritual_over_communal_food
+  - ritualized_communal_food_blessing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-movement-through-the-four-quarters
+  motif_id: ritual_movement_through_the_four_quarters
+  label: Ritual movement through the four quarters
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Movement through four quarters ritually maps ordered sacred space around
+    a center or cosmic orientation.
+  cautions: Could also fit sacred_time if tied to calendrical cycle, or sacred_law
+    if it is a required rite; preserve four-quarters cosmology as local evidence.
+  suggested_aliases:
+  - ritual_circuit_of_the_four_quarters
+  - four_quarters_ritual_movement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-music-and-medicine-associated-with-pa-yatamu
+  motif_id: ritual_music_and_medicine_associated_with_pa_yatamu
+  label: Ritual music and medicine associated with Pa'yatamu
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines named local sacred figure, ritual music, and medicine;
+    source context is needed to identify the main function.
+  cautions: Culturally sensitive named-being association; could fit enchanting_music,
+    divine_intervention, sacred_law, or healing/protection but should not be flattened
+    without evidence.
+  suggested_aliases:
+  - pa_yatamu_ritual_music_and_medicine
+  - ritual_music_medicine_of_pa_yatamu
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.ritual-music-and-mourning-as-social-ordering-practices
+  motif_id: ritual_music_and_mourning_as_social_ordering_practices
+  label: Ritual music and mourning as social ordering practices
+  occurrences: 1
+  traditions:
+  - daoist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The mourning function is explicit, with ritual sound helping structure
+    grief and social order.
+  cautions: Could also map to enchanting_music or sacred_law if the evidence emphasizes
+    music’s ritual power or social normativity more than mourning.
+  suggested_aliases:
+  - ritual_music_and_mourning_order_society
+  - mourning_music_as_social_ordering_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels are single-occurrence ritual descriptions; preserve local detail
+  and avoid promoting granular gestures, substances, or named-being associations without
+  recurrence.
+- For mourning items, lament_and_mourning is the best broad group, with heroic_funeral_rites
+  or ancestor_rites only if source evidence stresses funerary honor or care of the
+  dead.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for human taxonomy review; culturally
+    specific ritual labels require source-sensitive confirmation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1053
+  input_sha256: ecfb84b828ad604700862a3315eee27c31de03c65c2ca523d00c678c80e1b6ec
+

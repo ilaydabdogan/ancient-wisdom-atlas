@@ -1,0 +1,321 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0702
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.christianized-buddhist-holy-figure-under-a-new-name
+  motif_id: christianized_buddhist_holy_figure_under_a_new_name
+  label: Christianized Buddhist holy figure under a new name
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes reception, renaming, or religious adaptation of a
+    figure rather than a narrative motif.
+  cautions: Preserve as transmission or reception metadata; do not use as evidence
+    of borrowing in motif queries.
+  suggested_aliases:
+  - christianized_holy_figure_under_new_name
+  - renamed_buddhist_holy_figure_in_christian_context
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.circular-fourfold-and-directional-ritual-movement
+  motif_id: circular_fourfold_and_directional_ritual_movement
+  label: circular, fourfold, and directional ritual movement
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label describes culturally specific ritual spatial patterning not
+    cleanly covered by current groups.
+  cautions: Review source evidence and cultural context before broadening; may fit
+    sacred_time, axis_mundi, sacred_law, or a future ritual-orientation group.
+  suggested_aliases:
+  - fourfold_directional_ritual_movement
+  - circular_directional_ritual_movement
+  - ritual_movement_by_four_directions
+  suggested_new_group:
+    id: ritual_orientation_and_circumambulation
+    label: Ritual Orientation and Circumambulation
+    description: Ritual movement, procession, or spatial ordering by circle, cardinal
+      direction, center, opening, or repeated turning to structure sacred action.
+    parent_group_ids:
+    - sacred_law
+    - axis_mundi
+    related_group_ids:
+    - sacred_time
+    - sacred_fire
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover sacred centers, law,
+      and ritual cycles, but not recurring directional or circular ritual movement
+      as its own spatial-performance pattern.
+- suggestion_id: normalization.suggestion.circular-procession-before-dangerous-ritual-performance
+  motif_id: circular_procession_before_dangerous_ritual_performance
+  label: Circular procession before dangerous ritual performance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A circular procession preceding a dangerous rite is ritual choreography,
+    but its function is unclear from the label alone.
+  cautions: Could indicate protective preparation, initiation, sacred law, or culturally
+    specific ceremonial order; avoid flattening into generic sacrifice without evidence.
+  suggested_aliases:
+  - circular_procession_before_ritual_danger
+  - processional_circumambulation_before_ordeal
+  - protective_circular_procession
+  suggested_new_group:
+    id: ritual_orientation_and_circumambulation
+    label: Ritual Orientation and Circumambulation
+    description: Ritual movement, procession, or spatial ordering by circle, cardinal
+      direction, center, opening, or repeated turning to structure sacred action.
+    parent_group_ids:
+    - sacred_law
+    - axis_mundi
+    related_group_ids:
+    - sacred_time
+    - sacred_fire
+    - initiation
+    reason_existing_groups_insufficient: Existing groups do not specifically preserve
+      recurring circumambulatory or directional ritual performance patterns.
+- suggestion_id: normalization.suggestion.circular-ritual-fire-with-eastern-opening
+  motif_id: circular_ritual_fire_with_eastern_opening
+  label: Circular ritual fire with eastern opening
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif centers on a ritual fire as sacred medium, with circular/eastern
+    orientation as local ritual detail.
+  cautions: Preserve the circular and eastern-opening details; if orientation recurs
+    widely, secondary review under a circumambulation/orientation group may be warranted.
+  suggested_aliases:
+  - ritual_fire_with_eastern_opening
+  - circular_sacred_fire_with_eastward_opening
+  - east_opening_ritual_fire
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.circular-victory-rite-with-trophies
+  motif_id: circular_victory_rite_with_trophies
+  label: Circular victory rite with trophies
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Victory rite and trophies point to ritualized warfare and post-combat
+    honor display.
+  cautions: The circular procession may be an important ritual-performance detail;
+    if the rite is primarily purification or offering, sacrifice may be a secondary
+    mapping.
+  suggested_aliases:
+  - victory_rite_with_trophies
+  - ritual_victory_procession_with_trophies
+  - circular_war_trophy_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.circumambulation-with-transfer-of-ritual-instruments
+  motif_id: circumambulation_with_transfer_of_ritual_instruments
+  label: Circumambulation with transfer of ritual instruments
+  occurrences: 1
+  traditions:
+  - native_american_great_lakes
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label combines circular ritual movement with transfer of sacred instruments;
+    the primary function is not clear.
+  cautions: Could fit sacred_exchange if transfer is central, sacred_treasures if
+    instruments are power objects, or a ritual-orientation group if circumambulation
+    is central.
+  suggested_aliases:
+  - circumambulation_and_ritual_instrument_transfer
+  - ritual_instruments_transferred_during_circumambulation
+  - circular_transfer_of_ritual_objects
+  suggested_new_group:
+    id: ritual_orientation_and_circumambulation
+    label: Ritual Orientation and Circumambulation
+    description: Ritual movement, procession, or spatial ordering by circle, cardinal
+      direction, center, opening, or repeated turning to structure sacred action.
+    parent_group_ids:
+    - sacred_law
+    - axis_mundi
+    related_group_ids:
+    - sacred_exchange
+    - sacred_treasures
+    reason_existing_groups_insufficient: Current groups can index objects or exchange,
+      but not the recurring circular movement structure if that is the meaningful
+      ritual pattern.
+- suggestion_id: normalization.suggestion.city-gods-and-inhabitants-plundered
+  motif_id: city_gods_and_inhabitants_plundered
+  label: city gods and inhabitants plundered
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Plundering a city, including its gods and people, belongs most clearly
+    to warfare with sacred consequences.
+  cautions: If the passage emphasizes divine abandonment or judgment rather than military
+    plunder, divine_judgment or divine_intervention may be better secondary mappings.
+  suggested_aliases:
+  - plundering_of_city_gods_and_inhabitants
+  - sacked_city_and_captured_gods
+  - city_deities_and_people_taken_as_spoil
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.city-preservation-through-divine-appeasement
+  motif_id: city_preservation_through_divine_appeasement
+  label: City preservation through divine appeasement
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: high
+  rationale: Appeasing divine powers to preserve a city fits reciprocal offering or
+    repair of sacred relationship.
+  cautions: If appeasement prevents punishment for transgression, divine_judgment
+    may be a secondary mapping; preserve civic-protection context.
+  suggested_aliases:
+  - divine_appeasement_preserves_city
+  - city_saved_by_appeasing_the_gods
+  - ritual_appeasement_for_city_preservation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.civic-procession-bearing-sacred-objects-to-a-temple
+  motif_id: civic_procession_bearing_sacred_objects_to_a_temple
+  label: Civic procession bearing sacred objects to a temple
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The label centers on sacred objects borne in civic ritual procession
+    to a temple.
+  cautions: If the procession itself is more important than the objects, a ritual-procession/orientation
+    group may be useful; if temple-as-center is central, world_center may be secondary.
+  suggested_aliases:
+  - procession_bearing_sacred_objects_to_temple
+  - civic_temple_procession_with_sacred_objects
+  - sacred_objects_carried_in_civic_procession
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.civic-sacred-landscape-emerging-from-former-waters
+  motif_id: civic_sacred_landscape_emerging_from_former_waters
+  label: civic sacred landscape emerging from former waters
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: A sacred landscape emerging from former waters is an etiological origin
+    pattern for civic sacred geography.
+  cautions: Do not map to flood_and_renewal unless destructive flood and renewal of
+    an old order are explicit; could also relate to sacred_waters or axis_mundi depending
+    on passage evidence.
+  suggested_aliases:
+  - sacred_landscape_emerging_from_waters
+  - civic_landscape_origin_from_former_waters
+  - emergence_of_sacred_city_landscape_from_waters
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several one-off ritual labels involving circular, directional, or circumambulatory
+  movement may indicate a recurring normalization gap, but culturally specific ceremonial
+  evidence should be reviewed before creating a new group.
+- Transmission/reception labels, such as a holy figure renamed in another religious
+  context, should be preserved as metadata rather than pattern-query motifs.
+- For water-related labels, distinguish emergence or sacred geography from flood destruction
+  and renewal.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; ritual-orientation candidate
+    requires human taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0702
+  input_sha256: d434ffe053281caef48775f54cf315011fcd14d3d1f641f98c25c4a3aff7eddf
+

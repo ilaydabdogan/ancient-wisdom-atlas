@@ -1,0 +1,286 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0466
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.boat-portage-during-river-journey
+  motif_id: boat_portage_during_river_journey
+  label: Boat portage during river journey
+  occurrences: 1
+  traditions:
+  - guiana-amerindian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label describes a concrete travel technique within a journey rather
+    than a recurring symbolic or narrative function.
+  cautions: If the passage makes portage a threshold ordeal, dangerous crossing, or
+    transformation point, reconsider under hero_journey or sacred_waters.
+  suggested_aliases:
+  - boat_portage
+  - river_portage
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-payment-demanded-from-rivals-for-quest-success
+  motif_id: bodily_payment_demanded_from_rivals_for_quest_success
+  label: bodily payment demanded from rivals for quest success
+  occurrences: 1
+  traditions:
+  - caucasian
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could involve sacrifice, mutilation, ransom, trickery, quest
+    rivalry, or ordeal, and the function cannot be determined from wording alone.
+  cautions: Review source context before mapping; bodily payment may be literal injury,
+    symbolic forfeit, bride/quest contest condition, or episode-specific detail.
+  suggested_aliases:
+  - bodily_forfeit_for_quest_success
+  - quest_success_requires_bodily_payment
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bodily-sign-and-protective-self-exile
+  motif_id: bodily_sign_and_protective_self_exile
+  label: bodily sign and protective self-exile
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This combines a bodily sign with exile for protection; it may concern
+    identity proof, fate, ritual avoidance, or political narrative.
+  cautions: Could map to recognition_tokens_hidden_identity, hero_journey, sacred_law,
+    or divine_judgment depending on what the sign means and whom exile protects.
+  suggested_aliases:
+  - protective_self_exile_after_bodily_sign
+  - bodily_omen_and_self_exile
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-as-evidence-of-divine-workmanship
+  motif_id: body_as_evidence_of_divine_workmanship
+  label: body as evidence of divine workmanship
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The body is interpreted as evidence revealing divine craft or wisdom,
+    fitting sacred knowledge more than literal journey.
+  cautions: May be philosophical anthropology rather than a narrative motif; if the
+    emphasis is creation of the human body, cosmic_origin or sacred_craft may be secondary.
+  suggested_aliases:
+  - human_body_as_divine_workmanship
+  - body_reveals_divine_craft
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-made-of-elements-with-a-wandering-seat-of-life
+  motif_id: body_made_of_elements_with_a_wandering_seat_of_life
+  label: Body made of elements with a wandering seat of life
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A wandering seat of life points to mobile vital force or soul displacement,
+    best fitting the soul-loss/restoration complex.
+  cautions: If the life-seat is stored externally or can be captured, external_soul
+    may be better; if only body-composition doctrine, it may be sacred_knowledge or
+    commentary.
+  suggested_aliases:
+  - wandering_seat_of_life
+  - mobile_life_seat_in_elemental_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-map-of-conquest-marked-by-smoking-and-burning-spots
+  motif_id: body_map_of_conquest_marked_by_smoking_and_burning_spots
+  label: Body map of conquest marked by smoking and burning spots
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is culturally specific and composite, possibly involving body-as-landscape,
+    conquest memory, sacred fire, or ritual marking.
+  cautions: Needs source review to avoid flattening local meaning; may be an episode-specific
+    image rather than a reusable motif.
+  suggested_aliases:
+  - body_as_map_of_conquest
+  - burning_spots_mark_conquest_on_body
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.body-set-adrift-on-a-ship-after-revenge-killing
+  motif_id: body_set_adrift_on_a_ship_after_revenge_killing
+  label: Body set adrift on a ship after revenge killing
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Disposal of a body by ship after killing is a funerary or mortuary handling
+    pattern, even if revenge motivates the episode.
+  cautions: If the focus is vengeance rather than treatment of the corpse, sacred_combat
+    or divine_judgment may be secondary; single occurrence may remain evidence detail.
+  suggested_aliases:
+  - corpse_set_adrift_on_ship
+  - ship_burial_after_revenge_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boon-request-secures-conditional-hospitality
+  motif_id: boon_request_secures_conditional_hospitality
+  label: boon request secures conditional hospitality
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core function is gaining or regulating hospitality through a request
+    or boon condition.
+  cautions: If the boon creates a binding oath rather than guest-host relation, covenant
+    or curse_blessing_speech may also apply.
+  suggested_aliases:
+  - conditional_hospitality_secured_by_boon
+  - boon_for_hospitality
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boundary-crossing-and-loss-of-privilege
+  motif_id: boundary_crossing_and_loss_of_privilege
+  label: Boundary crossing and loss of privilege
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: functional_variant
+  confidence: medium
+  rationale: Crossing a boundary that changes status or privilege fits initiation/threshold
+    transformation, though negatively framed.
+  cautions: If the loss is moral punishment for transgression, divine_judgment or
+    sacred_law may be better; source context needed.
+  suggested_aliases:
+  - loss_of_privilege_after_boundary_crossing
+  - boundary_transgression_changes_status
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boundary-crossing-birds-beyond-the-sky
+  motif_id: boundary_crossing_birds_beyond_the_sky
+  label: Boundary-crossing birds beyond the sky
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: journey_quest_homecoming
+  suggested_action: map_to_existing_group
+  suggested_group_id: ascent
+  suggested_group_label: Ascent and Heavenly Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Birds crossing beyond the sky evoke upward passage past a cosmic boundary,
+    fitting ascent and heavenly journey imagery.
+  cautions: If birds are messengers, souls, or transformed beings, divine_intervention,
+    afterlife_passage, or shapeshifter may be relevant secondary mappings.
+  suggested_aliases:
+  - birds_cross_beyond_the_sky
+  - sky_boundary_crossing_birds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence, highly contextual journey labels;
+  suggested mappings should be treated as provisional evidence placements, not taxonomy
+  additions.
+- The supplied review bucket is journey-oriented, but multiple labels concern body,
+  soul, hospitality, mortuary treatment, or sacred knowledge rather than travel structure.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions generated for batch 0466; ambiguous
+    composite labels flagged for human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0466
+  input_sha256: bc4e6c866f03f33a6c2e2db7f781a2d8c4a011f3160f0e09053140551f02f538
+

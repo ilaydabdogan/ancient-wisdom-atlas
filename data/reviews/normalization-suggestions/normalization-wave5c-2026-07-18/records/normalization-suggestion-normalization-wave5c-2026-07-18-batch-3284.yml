@@ -1,0 +1,312 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3284
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.conditional-incorporation-into-a-local-group
+  motif_id: conditional_incorporation_into_a_local_group
+  label: conditional incorporation into a local group
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests social membership governed by conditions, but the
+    ritual, kinship, legal, or narrative function is unclear.
+  cautions: Single occurrence and culturally specific local-group terminology; needs
+    source evidence before mapping to covenant, sacred_law, initiation, or royal/social
+    order.
+  suggested_aliases:
+  - conditional_admission_to_local_group
+  - conditional_social_incorporation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-magical-transport-with-closed-eyes
+  motif_id: conditional_magical_transport_with_closed_eyes
+  label: Conditional magical transport with closed eyes
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: functional_variant
+  confidence: medium
+  rationale: Magical transport under a condition often marks passage into or through
+    an enchanted/nonordinary realm.
+  cautions: If the episode is mainly a journey ordeal, taboo test, or shamanic ascent/descent,
+    hero_journey, initiation, ascent, or descent may be better secondary mappings.
+  suggested_aliases:
+  - magical_transport_with_closed_eyes
+  - closed_eyes_condition_for_supernatural_transport
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - initiation
+    - descent
+    - ascent
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-payment-disputed-through-literal-reinterpretation
+  motif_id: conditional_payment_disputed_through_literal_reinterpretation
+  label: conditional payment disputed through literal reinterpretation
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bargain or payment condition evaded by literal reinterpretation fits
+    trickster-like verbal/legal cleverness.
+  cautions: Could instead be covenant or sacred_law if the focus is binding obligation
+    rather than deception or wit; single occurrence may be episode-specific.
+  suggested_aliases:
+  - literal_reinterpretation_of_payment_condition
+  - disputed_conditional_payment_by_wordplay
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - sacred_law
+    - storytelling_as_power
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-refuge-among-kinsmen
+  motif_id: conditional_refuge_among_kinsmen
+  label: conditional refuge among kinsmen
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Refuge among kin could express hospitality, covenantal obligation, exile/homecoming,
+    or feud law depending on context.
+  cautions: Single occurrence; do not map solely from kinship wording without evidence
+    for sacred hospitality, social law, or journey/exile function.
+  suggested_aliases:
+  - kinship_refuge_under_conditions
+  - conditional_asylum_among_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hospitality_test_stranger_guest
+    - covenant
+    - sacred_law
+    - hero_journey
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-restoration-after-temporary-adversity
+  motif_id: conditional_restoration_after_temporary_adversity
+  label: Conditional restoration after temporary adversity
+  occurrences: 1
+  traditions:
+  - christian_apocrypha
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: functional_variant
+  confidence: low
+  rationale: Restoration after adversity broadly fits renewal after loss or diminishment.
+  cautions: Very generic label; may be moral testing, divine intervention, healing,
+    repentance, or narrative closure. Needs passage evidence before strong indexing.
+  suggested_aliases:
+  - restoration_after_temporary_adversity
+  - conditional_reversal_of_adversity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - divine_judgment
+    - initiation
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-restoration-of-sight-after-enemies-are-removed
+  motif_id: conditional_restoration_of_sight_after_enemies_are_removed
+  label: Conditional restoration of sight after enemies are removed
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: Restoration of sight after the removal of hostile forces suggests supernatural
+    or providential healing tied to conflict resolution.
+  cautions: If no divine or supernatural agency is present, this may be an over-specific
+    plot condition rather than a motif; could also relate to sacred_combat or healing_sign.
+  suggested_aliases:
+  - sight_restored_after_enemies_removed
+  - conditional_healing_of_blindness_after_victory
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_treasures
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditional-succession-in-chiefly-office
+  motif_id: conditional_succession_in_chiefly_office
+  label: Conditional succession in chiefly office
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: narrower_than
+  confidence: medium
+  rationale: Succession to chiefly office concerns legitimate transfer of social or
+    political authority under stated conditions.
+  cautions: Review whether the office is sacred, ritual, genealogical, or merely ethnographic/social;
+    if purely administrative, it may be too contextual for motif queries.
+  suggested_aliases:
+  - conditional_chiefly_succession
+  - succession_condition_for_chiefly_office
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conditioned-arising-through-multiple-causes
+  motif_id: conditioned_arising_through_multiple_causes
+  label: Conditioned arising through multiple causes
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label names a doctrinal wisdom teaching about causality and dependent
+    origination.
+  cautions: May be a philosophical doctrine rather than a narrative motif; preserve
+    doctrinal specificity and avoid treating it as cosmic_origin unless it explains
+    creation.
+  suggested_aliases:
+  - dependent_origination_through_multiple_causes
+  - conditioned_arising
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_judgment
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conduct-changes-with-place-or-circumstance
+  motif_id: conduct_changes_with_place_or_circumstance
+  label: conduct changes with place or circumstance
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: over_specific_label
+  confidence: low
+  rationale: The label reads as an ethical or practical wisdom observation about contextual
+    behavior.
+  cautions: Likely an abstract teaching rather than a mythic motif; if it is merely
+    commentary or moral generalization, exclude from pattern queries.
+  suggested_aliases:
+  - context_dependent_conduct
+  - conduct_varies_by_circumstance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conduct-rule-issued-after-public-criticism
+  motif_id: conduct_rule_issued_after_public_criticism
+  label: Conduct rule issued after public criticism
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A conduct rule issued in response to public criticism fits formation
+    of sacred/social law and communal discipline.
+  cautions: May be a monastic legal origin note rather than a symbolic motif; preserve
+    as rule-etiology evidence if used.
+  suggested_aliases:
+  - disciplinary_rule_after_public_criticism
+  - conduct_rule_etiology_from_public_reproach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and abstractly worded with 'conditional';
+  source context is needed to distinguish narrative motif from social/legal commentary.
+- No transmission or borrowing claims are implied by any suggested placement.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended especially for culturally
+    specific social incorporation, refuge, and Buddhist doctrinal/legal labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3284
+  input_sha256: 00b2a9490633734db1f3a03a2e73bbd0ed4a49591afc1b6d00e852449140194c
+

@@ -1,0 +1,296 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0356
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.saving-flame-and-death-removing-aid
+  motif_id: saving_flame_and_death_removing_aid
+  label: Saving flame and death-removing aid
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: functional_variant
+  confidence: medium
+  rationale: A saving flame fits fire as divine protective or purifying presence,
+    with death-removing aid as its local salvific function.
+  cautions: Single occurrence; if the aid is primarily resurrection or healing rather
+    than flame-mediated presence, death_and_transformation or divine_intervention
+    may be secondary.
+  suggested_aliases:
+  - death_removing_flame
+  - saving_sacred_flame
+  - flame_as_death_removing_aid
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scalped-loser-returns-with-pursuers-and-dies
+  motif_id: scalped_loser_returns_with_pursuers_and_dies
+  label: Scalped loser returns with pursuers and dies
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as an episode-specific death sequence rather than a reusable
+    motif category.
+  cautions: Review source context before exclusion; if return of a maimed enemy or
+    pursuit-death recurs, it may belong under sacred_combat or death_by_fate.
+  suggested_aliases:
+  - maimed_loser_returns_and_dies
+  - scalped_enemy_return_and_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scapegoating-of-vulnerable-persons-after-sickness-or-death
+  motif_id: scapegoating_of_vulnerable_persons_after_sickness_or_death
+  label: Scapegoating of vulnerable persons after sickness or death
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Scapegoating after sickness or death aligns with transfer or expulsion
+    of harm within the sacrifice/scapegoat complex.
+  cautions: Culturally sensitive and involves vulnerable persons; confirm whether
+    this is ritual transfer, social blame, witchcraft accusation, or source commentary.
+  suggested_aliases:
+  - scapegoating_after_sickness_or_death
+  - vulnerable_person_as_scapegoat_after_death
+  - post_mortem_or_illness_scapegoating
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scarab-descent-onto-a-goddess-mound
+  motif_id: scarab_descent_onto_a_goddess_mound
+  label: Scarab descent onto a goddess-mound
+  occurrences: 1
+  traditions:
+  - egyptian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Scarab, descent, and goddess-mound imagery could indicate solar rebirth,
+    sacred feminine, burial mound, or local iconographic symbolism.
+  cautions: Do not map to descent solely from the word descent; Egyptian scarab imagery
+    may be cosmological, funerary, solar, or iconographic depending on evidence.
+  suggested_aliases:
+  - scarab_descends_to_goddess_mound
+  - scarab_on_goddess_mound
+  - scarab_descent_and_feminine_mound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scavenger-birds-appointed-to-devour-dead-matter
+  motif_id: scavenger_birds_appointed_to_devour_dead_matter
+  label: Scavenger birds appointed to devour dead matter
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Appointed scavenger birds consuming dead matter fits regulated mortuary
+    purity and proper handling of corpse pollution.
+  cautions: May also relate to ancestor_rites or sacred_exchange if the passage emphasizes
+    feeding the dead or reciprocal care rather than purity law.
+  suggested_aliases:
+  - scavenger_birds_assigned_to_consume_corpses
+  - mortuary_scavenger_birds
+  - birds_devour_dead_matter_by_sacred_ordinance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.scavenger-birds-as-heralds-of-death
+  motif_id: scavenger_birds_as_heralds_of_death
+  label: scavenger birds as heralds of death
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: Birds functioning as heralds of death are omen-bearing signs that disclose
+    impending mortality.
+  cautions: If the birds are psychopomps, corpse consumers, or spirit agents rather
+    than omens, afterlife_passage, sacred_law, or divine_intervention may fit better.
+  suggested_aliases:
+  - death_heralding_scavenger_birds
+  - scavenger_birds_as_death_omens
+  - carrion_birds_foretell_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-animal-protectress-linked-to-souls-of-humans-and-animals
+  motif_id: sea_animal_protectress_linked_to_souls_of_humans_and_animals
+  label: sea-animal protectress linked to souls of humans and animals
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines animal protectress, sea domain, and soul relations,
+    which could involve tutelary spirit, animal master, soul custody, or undersea
+    otherworld.
+  cautions: Culturally specific Arctic-Inuit sea-animal protectress traditions need
+    source-sensitive review; avoid flattening into generic divine_intervention or
+    sacred_waters without evidence.
+  suggested_aliases:
+  - sea_animal_soul_protectress
+  - marine_protectress_of_human_and_animal_souls
+  - undersea_animal_mistress_of_souls
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-as-barrow-or-grave
+  motif_id: sea_as_barrow_or_grave
+  label: sea as barrow or grave
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: heroic_funeral_rites
+  suggested_group_label: Heroic Funeral Rites and Memorialization
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The sea functioning as a grave or barrow is a funerary memorialization
+    image rather than a flood or water-passage motif.
+  cautions: If the passage emphasizes sea burial denial, otherworld travel, or watery
+    death-place symbolism, afterlife_passage or sacred_waters may be secondary.
+  suggested_aliases:
+  - sea_grave
+  - sea_barrow
+  - ocean_as_burial_mound
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-as-chosen-death-place
+  motif_id: sea_as_chosen_death_place
+  label: sea as chosen death place
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Choosing the sea as a death place could be funerary practice, sacrificial
+    self-surrender, otherworld passage, or culturally specific death custom.
+  cautions: Single occurrence and culturally specific; source evidence is needed before
+    mapping to sacred_waters, heroic_funeral_rites, sacrifice, or afterlife_passage.
+  suggested_aliases:
+  - chosen_death_at_sea
+  - sea_chosen_as_place_of_death
+  - voluntary_sea_death_place
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.sea-descent-and-transformation-into-undersea-ruler
+  motif_id: sea_descent_and_transformation_into_undersea_ruler
+  label: Sea descent and transformation into undersea ruler
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: descent
+  suggested_group_label: Descent and Underworld Journey
+  relationship: functional_variant
+  confidence: medium
+  rationale: A descent into the sea followed by transformed undersea rulership fits
+    descent as entry into a hidden realm with changed status.
+  cautions: May also require secondary mapping to death_and_transformation or otherworld
+    if the undersea realm is enchanted rather than an underworld of death.
+  suggested_aliases:
+  - undersea_descent_and_transformation
+  - descent_to_sea_realm_and_rulership
+  - transformation_into_undersea_ruler
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- All suggestions are provisional; several single-occurrence labels are culturally
+  specific and should be checked against passage evidence before taxonomy changes.
+- Avoid treating sea or water imagery as flood-and-renewal unless catastrophe and
+  world renewal are explicit.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Batch contains several death/sea/soul labels where source context may change
+    placement.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0356
+  input_sha256: 22a54ab7d91c3edd615006ca52fb73bafae232bda3240997e2af91dd3cec7c0a
+

@@ -1,0 +1,298 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1932
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.origin-of-marriage-from-communal-possession-and-capture
+  motif_id: origin_of_marriage_from_communal_possession_and_capture
+  label: Origin of marriage from communal possession and capture
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears etiological and marriage-related, but no existing group
+    cleanly covers marriage origins through capture or communal possession.
+  cautions: Single occurrence and culturally/legal-context dependent; could be commentary
+    on social institutions rather than a reusable mythic motif.
+  suggested_aliases:
+  - marriage_origin_from_capture
+  - etiology_of_marriage_by_capture
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_love
+    - sacred_law
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-prohibition-against-children-s-loud-noise
+  motif_id: origin_of_prohibition_against_children_s_loud_noise
+  label: origin of prohibition against children's loud noise
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif explains a behavioral prohibition, fitting sacred law or taboo
+    regulation rather than child/birth motifs.
+  cautions: May be an over-specific local etiological rule; preserve the child-noise
+    detail as evidence and verify the prohibition has mythic force.
+  suggested_aliases:
+  - etiology_of_children_s_noise_taboo
+  - children_s_loud_noise_prohibition
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.origin-of-thunder-and-lightning-through-transformed-children
+  motif_id: origin_of_thunder_and_lightning_through_transformed_children
+  label: origin of thunder and lightning through transformed children
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label is an origin myth for natural phenomena, with transformation
+    of children explaining thunder and lightning.
+  cautions: Could also index under death_and_transformation if the narrative emphasizes
+    child metamorphosis more than weather etiology; single occurrence is very specific.
+  suggested_aliases:
+  - thunder_and_lightning_etiology_from_transformed_children
+  - weather_origin_from_transformed_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - death_and_transformation
+    - shapeshifter
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.original-or-father-of-heroes-epithet
+  motif_id: original_or_father_of_heroes_epithet
+  label: Original or father of heroes epithet
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording identifies an epithet or title rather than a narrative, ritual,
+    or symbolic motif.
+  cautions: If source evidence describes actual heroic ancestry or progenitors, review
+    under cosmic_origin or royal_legitimacy instead of excluding.
+  suggested_aliases:
+  - father_of_heroes_epithet
+  - original_hero_epithet
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.orphaned-or-bereaved-noble-child-seeks-protection-through-homage
+  motif_id: orphaned_or_bereaved_noble_child_seeks_protection_through_homage
+  label: Orphaned or bereaved noble child seeks protection through homage
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: A noble child seeking protection through homage centers on hierarchy,
+    allegiance, and preservation of status within political order.
+  cautions: Could also be a passage-specific courtly detail; if the child has sacred
+    destiny or threatened infancy, miraculous_child may be a secondary fit.
+  suggested_aliases:
+  - bereaved_noble_child_seeks_protection
+  - orphaned_noble_child_homage_for_protection
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.orphaned-vulnerable-child
+  motif_id: orphaned_vulnerable_child
+  label: orphaned vulnerable child
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is too broad to determine whether it is a miraculous child,
+    persecuted child, social-care motif, or simple character condition.
+  cautions: Do not map to miraculous_child unless the child is protected, hidden,
+    threatened, marked, or destined in a mythically significant way.
+  suggested_aliases:
+  - vulnerable_orphan_child
+  - orphan_child_in_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    - jealous_stepmother_persecuted_child
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outcast-child-raised-apart-in-a-makeshift-dwelling
+  motif_id: outcast_child_raised_apart_in_a_makeshift_dwelling
+  label: Outcast child raised apart in a makeshift dwelling
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: miraculous_child
+  suggested_group_label: Miraculous Child and Sacred Birth
+  relationship: functional_variant
+  confidence: medium
+  rationale: A child raised apart or marginally sheltered can fit the hidden/threatened-child
+    pattern when it marks later significance.
+  cautions: If no destiny, protection, or transformation follows, this may be only
+    a social-status detail and should be reviewed before indexing.
+  suggested_aliases:
+  - outcast_child_raised_apart
+  - hidden_or_marginal_child_upbringing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - jealous_stepmother_persecuted_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outnumbered-defenders-repel-attackers-with-poisoned-arrows
+  motif_id: outnumbered_defenders_repel_attackers_with_poisoned_arrows
+  label: Outnumbered defenders repel attackers with poisoned arrows
+  occurrences: 1
+  traditions:
+  - guiana_amerindian
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core action is an outnumbered defensive combat victory, with poisoned
+    arrows as the tactical means.
+  cautions: Bucket assignment may be erroneous. If there is no sacred, heroic, or
+    recurrent warfare function, treat as episode-specific battle detail.
+  suggested_aliases:
+  - outnumbered_defenders_repel_attackers
+  - poisoned_arrows_repel_attackers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outside-witnesses-recognize-hidden-children
+  motif_id: outside_witnesses_recognize_hidden_children
+  label: Outside witnesses recognize hidden children
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif centers on recognition of concealed identity, here applied
+    to hidden children by outside witnesses.
+  cautions: If recognition depends on miraculous destiny or protected infancy, miraculous_child
+    may be a secondary mapping; details of the recognition mechanism are needed.
+  suggested_aliases:
+  - recognition_of_hidden_children
+  - witnesses_identify_hidden_children
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - miraculous_child
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.outsider-report-of-irregular-marriage-corrected-by-local-inquiry
+  motif_id: outsider_report_of_irregular_marriage_corrected_by_local_inquiry
+  label: Outsider report of irregular marriage corrected by local inquiry
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes correction of an outsider report or ethnographic
+    claim, not a narrative motif.
+  cautions: Preserve as provenance or source-criticism note if needed; do not use
+    as evidence for marriage motifs without passage-level narrative content.
+  suggested_aliases:
+  - outsider_marriage_report_corrected
+  - local_inquiry_corrects_irregular_marriage_report
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence etiological or ethnographic labels;
+  human review should distinguish recurring motif from local social rule or source
+  commentary.
+- The review bucket is love/family/body, but at least one combat item appears misbucketed
+  and should be checked against source context.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1932
+  input_sha256: a7f25fc475b65f6ac2929e8123225b7d1ab78a7e96dc384b6629a7970c2aebb9
+

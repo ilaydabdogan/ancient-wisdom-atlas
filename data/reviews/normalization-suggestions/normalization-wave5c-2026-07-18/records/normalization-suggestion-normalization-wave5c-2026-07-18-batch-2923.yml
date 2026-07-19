@@ -1,0 +1,302 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2923
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.delegated-enforcement-by-trusted-disciples
+  motif_id: delegated_enforcement_by_trusted_disciples
+  label: Delegated enforcement by trusted disciples
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label suggests social or religious authority delegated to disciples,
+    but no clear existing group captures the function without source context.
+  cautions: May be a passage-specific institutional detail rather than a reusable
+    motif; could fit sacred_law, divine_intervention, or royal_legitimacy if sacred
+    authority is explicit.
+  suggested_aliases:
+  - disciple_enforcement_of_sacred_authority
+  - trusted_disciples_as_enforcers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - royal_legitimacy
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deliverance-of-women-from-a-demon-s-household
+  motif_id: deliverance_of_women_from_a_demon_s_household
+  label: deliverance of women from a demon's household
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines rescue, demonic captivity, household space, and gendered
+    victims; the dominant function is unclear.
+  cautions: Could fit divine_intervention if sacred rescue is central, otherworld
+    if the demon household is an enchanted realm, or sacred_combat if liberation occurs
+    through combat.
+  suggested_aliases:
+  - rescue_from_demonic_household
+  - women_delivered_from_demonic_captivity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_intervention
+    - otherworld
+    - sacred_combat
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demon-assembly-at-infernal-boundary
+  motif_id: demon_assembly_at_infernal_boundary
+  label: demon assembly at infernal boundary
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: threshold_guardian
+  suggested_group_label: Threshold Guardian
+  relationship: functional_variant
+  confidence: medium
+  rationale: An infernal boundary with demonic figures marks a guarded or perilous
+    threshold between realms.
+  cautions: If the assembly is only a scene-setting detail in an afterlife route,
+    afterlife_passage may be the better primary mapping.
+  suggested_aliases:
+  - demons_at_infernal_threshold
+  - demonic_assembly_at_underworld_boundary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-seduction-causing-loss-of-paradise-and-covering
+  motif_id: demonic_seduction_causing_loss_of_paradise_and_covering
+  label: demonic seduction causing loss of paradise and covering
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: forbidden_knowledge
+  suggested_group_label: Forbidden Knowledge
+  relationship: functional_variant
+  confidence: medium
+  rationale: Demonic seduction leading to paradise loss resembles transgressive temptation
+    and acquisition of prohibited awareness.
+  cautions: Do not collapse all paradise-loss episodes into forbidden_knowledge if
+    the passage emphasizes exile, clothing, or divine judgment instead.
+  suggested_aliases:
+  - demonic_temptation_and_loss_of_paradise
+  - temptation_causing_paradise_loss_and_covering
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-temptation-by-gift-of-bodily-covering
+  motif_id: demonic_temptation_by_gift_of_bodily_covering
+  label: demonic temptation by gift of bodily covering
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: trickster
+  suggested_group_label: Trickster and Boundary Crosser
+  relationship: functional_variant
+  confidence: medium
+  rationale: A demonic gift used to tempt or deceive fits deceptive boundary-crossing
+    and harmful trickster action.
+  cautions: If the bodily covering is a taboo object or purity marker, sacred_law
+    may be a secondary mapping; preserve the object detail as evidence.
+  suggested_aliases:
+  - deceptive_gift_of_bodily_covering
+  - demonic_gift_as_temptation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonstration-of-existential-suffering-as-religious-explanation
+  motif_id: demonstration_of_existential_suffering_as_religious_explanation
+  label: Demonstration of existential suffering as religious explanation
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is abstract and explanatory rather than a clear narrative image,
+    role, or ritual action.
+  cautions: May be an interpretive commentary artifact; if a figure learns through
+    suffering, initiation or sacred_knowledge could apply after evidence review.
+  suggested_aliases:
+  - suffering_as_religious_explanation
+  - existential_suffering_demonstrated
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_knowledge
+    - initiation
+    - mystical_quest
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.denied-entry-at-a-political-boundary
+  motif_id: denied_entry_at_a_political_boundary
+  label: Denied entry at a political boundary
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A denied political entry may be social boundary enforcement, exile, or
+    a passage-specific travel detail.
+  cautions: Do not map to threshold_guardian unless the boundary has sacred or liminal
+    force; may be too contextual for motif queries.
+  suggested_aliases:
+  - refusal_at_political_boundary
+  - entry_denied_at_border
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - sacred_law
+    - threshold_guardian
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deportation-of-people-and-goods-to-imperial-center
+  motif_id: deportation_of_people_and_goods_to_imperial_center
+  label: deportation of people and goods to imperial center
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label reads as political-historical action rather than a stable symbolic
+    motif without more evidence.
+  cautions: Could fit royal_legitimacy or sacred_combat if framed as imperial sacred
+    order or conquest; otherwise exclude as historical/contextual detail.
+  suggested_aliases:
+  - imperial_deportation_to_center
+  - captives_and_goods_moved_to_imperial_center
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - royal_legitimacy
+    - sacred_combat
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.deprivation-amid-household-abundance
+  motif_id: deprivation_amid_household_abundance
+  label: Deprivation amid household abundance
+  occurrences: 1
+  traditions:
+  - finnish_karelian
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Withholding care amid abundance points to failed household obligation
+    and moral-social order.
+  cautions: If the passage is primarily about famine, envy, or magical scarcity, divine_judgment
+    or pride_and_downfall may be better secondary mappings.
+  suggested_aliases:
+  - household_abundance_with_deprivation
+  - withheld_care_amid_abundance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.descriptive-toponymy-by-landscape-product-occupation-or-landmark
+  motif_id: descriptive_toponymy_by_landscape_product_occupation_or_landmark
+  label: descriptive toponymy by landscape, product, occupation, or landmark
+  occurrences: 1
+  traditions:
+  - shan
+  review_bucket_id: objects_spaces_boundaries
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The existing cosmic_origin group already includes etiological place-naming
+    and toponymic origin labels.
+  cautions: If this is merely a linguistic place-name classification rather than mythic
+    etiology, exclude as a textual or scholarly artifact.
+  suggested_aliases:
+  - descriptive_place_name_etiology
+  - toponymy_from_landscape_or_landmark
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence and may be passage-specific,
+  especially political boundary/deportation and abstract explanatory labels.
+- Where demonic or culturally specific spirit labels occur, source evidence should
+  determine whether the motif function is temptation, threshold, otherworld captivity,
+  judgment, or ritual law.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; human review needed for contextual
+    and culturally sensitive placements.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2923
+  input_sha256: 1da2bba625b1ce7613779abb5a6b71dab306a6b4b070dc64d5ba49c604127a1f
+

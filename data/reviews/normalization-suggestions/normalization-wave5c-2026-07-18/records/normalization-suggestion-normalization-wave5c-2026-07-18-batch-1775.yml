@@ -1,0 +1,308 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-1775
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bridewealth-exchange-leading-to-royal-marriage
+  motif_id: bridewealth_exchange_leading_to_royal_marriage
+  label: bridewealth exchange leading to royal marriage
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: The marriage exchange leads to royal marriage, so its broad function
+    appears to authorize or establish royal status and alliance.
+  cautions: Single occurrence; if the passage emphasizes kinship economics rather
+    than royal legitimation, sacred_exchange or sacred_love may be better secondary
+    contexts.
+  suggested_aliases:
+  - royal_marriage_through_bridewealth_exchange
+  - bridewealth_as_royal_alliance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bridewealth-marriage-exchange
+  motif_id: bridewealth_marriage_exchange
+  label: bridewealth marriage exchange
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Bridewealth is a formal reciprocal exchange that structures kinship and
+    marriage obligations.
+  cautions: May be a social-institution detail rather than a mythic motif unless the
+    narrative makes the exchange consequential or sacredly charged.
+  suggested_aliases:
+  - marriage_exchange
+  - bridewealth_as_marriage_reciprocity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.broken-directional-prohibition-sends-children-into-danger
+  motif_id: broken_directional_prohibition_sends_children_into_danger
+  label: broken directional prohibition sends children into danger
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A directional taboo or prohibition being broken fits sacred law, taboo,
+    and boundary-regulating rules.
+  cautions: The child-danger element may instead point to persecuted/threatened children
+    or initiation depending on source context; preserve directional detail as evidence.
+  suggested_aliases:
+  - broken_directional_taboo
+  - violated_directional_prohibition_leads_to_danger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.buffalo-woman-corn-woman-and-buffalo-wife-narratives
+  motif_id: buffalo_woman_corn_woman_and_buffalo_wife_narratives
+  label: buffalo-woman, corn-woman, and buffalo-wife narratives
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label names a cluster of culture-specific narrative types rather
+    than a single clear function in the supplied taxonomy.
+  cautions: Culturally sensitive and composite; could involve animal spouse, food/corn
+    origin, sacred marriage, sacred substance, or culture-hero themes depending on
+    passage evidence.
+  suggested_aliases:
+  - buffalo_woman_narratives
+  - corn_woman_narratives
+  - buffalo_wife_narratives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.buried-alive-lover-in-a-coffin-with-goods
+  motif_id: buried_alive_lover_in_a_coffin_with_goods
+  label: buried-alive lover in a coffin with goods
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_love
+  suggested_group_label: Sacred Love and Longing
+  relationship: narrower_than
+  confidence: medium
+  rationale: The label centers on a lover placed in a death/burial setting, suggesting
+    love entangled with death and bodily enclosure.
+  cautions: Highly episode-specific; if the burial goods or funerary procedure dominate,
+    heroic_funeral_rites, afterlife_passage, or death_and_transformation may be more
+    appropriate.
+  suggested_aliases:
+  - lover_buried_alive
+  - lover_entombed_with_goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.burning-home-and-children-in-animal-address-rhyme
+  motif_id: burning_home_and_children_in_animal_address_rhyme
+  label: burning home and children in animal-address rhyme
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: love_family_gender_body
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label appears to describe a rhyme formula or textual performance
+    detail rather than a stable narrative motif.
+  cautions: If the passage includes a recurring narrative of children endangered by
+    a burning house, reconsider under threatened child or catastrophe motifs; current
+    wording is too format-specific.
+  suggested_aliases:
+  - animal_address_rhyme_with_burning_home
+  - children_in_burning_home_rhyme
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.calendrical-genealogy-of-patriarchal-births
+  motif_id: calendrical_genealogy_of_patriarchal_births
+  label: calendrical genealogy of patriarchal births
+  occurrences: 1
+  traditions:
+  - jewish_pseudepigrapha
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_time
+  suggested_group_label: Sacred Time and Ritual Cycle
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif links genealogy and births to calendrical ordering, fitting
+    sacred time more than ordinary family motifs.
+  cautions: May be a chronological or textual-structuring artifact if no ritual or
+    sacred temporal meaning is present; could also relate to cosmic_origin through
+    ancestral origins.
+  suggested_aliases:
+  - birth_genealogy_ordered_by_sacred_calendar
+  - patriarchal_births_in_calendrical_order
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.call-and-response-about-absent-husband-and-funeral-wrapping
+  motif_id: call_and_response_about_absent_husband_and_funeral_wrapping
+  label: Call-and-response about absent husband and funeral wrapping
+  occurrences: 1
+  traditions:
+  - malagasy
+  review_bucket_id: love_family_gender_body
+  suggested_action: map_to_existing_group
+  suggested_group_id: lament_and_mourning
+  suggested_group_label: Lament, Mourning, and Tragic Recognition
+  relationship: ritual_variant
+  confidence: low
+  rationale: Absent spouse and funeral wrapping suggest a mournful funerary speech
+    or ritualized lament context.
+  cautions: The call-and-response wording may indicate performance form rather than
+    motif; if it is only song structure, exclude as textual/performance artifact.
+  suggested_aliases:
+  - funeral_call_and_response_for_absent_husband
+  - absent_husband_funeral_wrapping_lament
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.cannibal-abductor-attacks-children
+  motif_id: cannibal_abductor_attacks_children
+  label: cannibal abductor attacks children
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines child endangerment, abduction, and cannibal monster
+    threat, but no existing group directly captures this compound motif.
+  cautions: Could fit threshold guardian, trickster/predator, persecuted child, or
+    sacred combat depending on whether the cannibal is a monster, ogre, deceiver,
+    or social threat.
+  suggested_aliases:
+  - cannibal_child_abductor
+  - children_attacked_by_cannibal_abductor
+  suggested_new_group:
+    id: child_abduction_and_cannibal_threat
+    label: Child Abduction and Cannibal Threat
+    description: Children are seized, lured, threatened, or attacked by cannibal,
+      ogre-like, or predatory beings, often creating a rescue, escape, or household-danger
+      narrative.
+    parent_group_ids:
+    - threshold_guardian
+    - jealous_stepmother_persecuted_child
+    related_group_ids:
+    - trickster
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover persecuted children,
+      trickster predators, or threshold monsters, but not the recurring child-abduction/cannibal-threat
+      complex as a family or household danger motif.
+- suggestion_id: normalization.suggestion.cannibal-bogey-used-to-frighten-children
+  motif_id: cannibal_bogey_used_to_frighten_children
+  label: cannibal bogey used to frighten children
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: love_family_gender_body
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This may be a child-discipline bogey figure, a monster motif, or an ethnographic
+    note about storytelling use.
+  cautions: Avoid mapping without source evidence; if it describes a narrative role,
+    the proposed child-abduction/cannibal-threat group may apply, but if it describes
+    social use of tales, it may be meta-textual.
+  suggested_aliases:
+  - cannibal_bogeyman_for_children
+  - bogey_figure_used_to_frighten_children
+  suggested_new_group:
+    id: child_abduction_and_cannibal_threat
+    label: Child Abduction and Cannibal Threat
+    description: Children are seized, lured, threatened, or attacked by cannibal,
+      ogre-like, or predatory beings, often creating a rescue, escape, or household-danger
+      narrative.
+    parent_group_ids:
+    - threshold_guardian
+    - jealous_stepmother_persecuted_child
+    related_group_ids:
+    - trickster
+    - storytelling_as_power
+    reason_existing_groups_insufficient: Existing groups do not cleanly distinguish
+      child-directed bogey/cannibal threat from general trickster, monster, or persecuted-child
+      motifs.
+batch_notes:
+- Several labels in this batch are single-occurrence and culturally specific; source
+  context should decide whether they are motifs or evidence/performance notes.
+- Bridewealth labels may justify a future kinship-exchange subgroup only if similar
+  marriage-payment motifs recur across sources.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    Native American Plains and child-cannibal/bogey labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-1775
+  input_sha256: 6bbca26f681ddfcf95e413dc38a09f0e732aacd91cdc9e372fe6f202e8a27b48
+

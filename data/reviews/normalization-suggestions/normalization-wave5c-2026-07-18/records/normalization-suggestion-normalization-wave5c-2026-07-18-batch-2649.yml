@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2649
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.contested-analogues-to-a-forbidden-substance
+  motif_id: contested_analogues_to_a_forbidden_substance
+  label: Contested analogues to a forbidden substance
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A disputed analogue to a prohibited substance is primarily a legal or
+    ritual-prohibition issue within sacred law.
+  cautions: Could instead belong under sacred_substance if the passage emphasizes
+    the substance's ritual or intoxicating power rather than prohibition.
+  suggested_aliases:
+  - forbidden_substance_analogues
+  - disputed_analogy_to_prohibited_substance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-canon-and-rejected-tradition-book
+  motif_id: contested_canon_and_rejected_tradition_book
+  label: contested canon and rejected tradition book
+  occurrences: 1
+  traditions:
+  - islamic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes canon formation or rejection of a tradition book,
+    which is textual-history commentary rather than a narrative motif.
+  cautions: If source passages portray a sacred book as miraculous, revealed, or oracular,
+    preserve that separate evidence under sacred_knowledge.
+  suggested_aliases:
+  - contested_canonical_book
+  - rejected_tradition_book
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-exchange-of-homeland-for-distant-land-and-goods
+  motif_id: contested_exchange_of_homeland_for_distant_land_and_goods
+  label: contested exchange of homeland for distant land and goods
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe disputed land exchange, displacement memory, treaty
+    history, or a narrative bargain, but function is unclear from wording alone.
+  cautions: Culturally sensitive and historically contextual; avoid reducing land
+    dispossession or treaty conflict to a generic exchange motif without source evidence.
+  suggested_aliases:
+  - contested_land_exchange
+  - homeland_exchanged_for_distant_land_and_goods
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-frontier-and-displacement
+  motif_id: contested_frontier_and_displacement
+  label: contested frontier and displacement
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to be a historical or social-context label about frontier
+    conflict and displacement rather than a clearly recurring mythic motif.
+  cautions: Culturally sensitive; may be a colonial-history context note and should
+    not be normalized into combat or journey motifs without passage evidence.
+  suggested_aliases:
+  - frontier_displacement
+  - contested_displacement
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-golden-prize
+  motif_id: contested_golden_prize
+  label: Contested golden prize
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A golden prize contested by rivals functions as a power object or prestige
+    object around which conflict and authority gather.
+  cautions: If the evidence emphasizes the rivalry or combat more than the object,
+    sacred_combat may be a secondary placement; if it is merely an episode-specific
+    object, keep granular.
+  suggested_aliases:
+  - contested_prize_object
+  - golden_prize_as_disputed_treasure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-hero-attribution
+  motif_id: contested_hero_attribution
+  label: Contested hero attribution
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The wording suggests a dispute over attribution of a hero in tradition
+    or scholarship, not a motif within the narrative itself.
+  cautions: If the passage itself narrates rival claimants to heroic identity or recognition,
+    create or map that separate evidence under recognition_tokens_hidden_identity
+    or royal_legitimacy as appropriate.
+  suggested_aliases:
+  - disputed_hero_attribution
+  - contested_attribution_of_hero
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-inheritance-through-mixed-household-property
+  motif_id: contested_inheritance_through_mixed_household_property
+  label: Contested inheritance through mixed household property
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: A dispute over inheritance and household property concerns social order,
+    kinship obligation, and customary/legal regulation.
+  cautions: May be too culturally specific or case-like; if the source is legal commentary
+    rather than narrative, consider excluding from motif queries.
+  suggested_aliases:
+  - contested_household_inheritance
+  - inheritance_dispute_over_household_property
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-inversion-of-moral-values
+  motif_id: contested_inversion_of_moral_values
+  label: Contested inversion of moral values
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Inversion or dispute over moral values can fit moral reckoning when the
+    narrative evaluates reversed ethical order.
+  cautions: Abstract wording may reflect philosophical commentary rather than a motif;
+    source context is needed to distinguish judgment, sacred_law, or pride_and_downfall.
+  suggested_aliases:
+  - moral_values_inverted
+  - contested_moral_reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-island-refuge
+  motif_id: contested_island_refuge
+  label: contested island refuge
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: otherworld
+  suggested_group_label: Otherworld and Enchanted Realm
+  relationship: narrower_than
+  confidence: low
+  rationale: An island refuge may function as a protected liminal or otherworldly
+    realm, especially in mythic island settings.
+  cautions: If the island is an ordinary military refuge, sacred_combat or hero_journey
+    may fit better; if it preserves life through catastrophe, compare ark_vessel or
+    flood_and_renewal.
+  suggested_aliases:
+  - island_refuge_under_contest
+  - disputed_island_sanctuary
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.contested-kill-between-hunters-and-killers
+  motif_id: contested_kill_between_hunters_and_killers
+  label: contested kill between hunters and killers
+  occurrences: 1
+  traditions:
+  - australian_aboriginal
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: 'The label is ambiguous: it could concern hunting rights, vengeance,
+    culpability for a killing, or a passage-specific conflict.'
+  cautions: Culturally sensitive and too unclear for automatic mapping; avoid assuming
+    sacred_combat unless the source shows ritualized conflict or mythic warfare.
+  suggested_aliases:
+  - disputed_kill_between_hunters
+  - contested_hunting_killing
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels begin with 'contested' and may be generated from scholarly dispute
+  or historical context rather than narrative motifs; verify source passages before
+  adding mappings.
+- Do not infer transmission or cultural borrowing from any suggested placement.
+- For culturally sensitive land, displacement, and Indigenous-context labels, human
+  review should decide whether these are motif evidence, historical annotations, or
+  provenance notes.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ''
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for taxonomy review; ambiguous contested/contextual
+    labels require source-level verification.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2649
+  input_sha256: 70e0ae274308ba206a52a0316fc18d6189c5618741cf1a2feaedaa229f4e86c3
+

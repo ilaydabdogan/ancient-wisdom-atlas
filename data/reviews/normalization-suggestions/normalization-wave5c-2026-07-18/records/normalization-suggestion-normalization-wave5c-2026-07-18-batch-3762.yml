@@ -1,0 +1,288 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3762
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.pastoral-deity-identified-with-a-greek-counterpart
+  motif_id: pastoral_deity_identified_with_a_greek_counterpart
+  label: pastoral deity identified with a Greek counterpart
+  occurrences: 1
+  traditions:
+  - greek_roman
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes interpretive identification or syncretic classification
+    of deities rather than a narrative motif.
+  cautions: If source evidence describes an active pastoral god role, preserve that
+    separately under divine_intervention, sacred_exchange, or nature-related review.
+  suggested_aliases:
+  - pastoral deity syncretized with Greek counterpart
+  - local deity identified with Greek deity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.pastoral-herd-threatened-by-wild-predators
+  motif_id: pastoral_herd_threatened_by_wild_predators
+  label: Pastoral herd threatened by wild predators
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A herd threatened by predators may be a plot setting, animal fable scene,
+    pastoral livelihood threat, or heroic/protective episode depending on context.
+  cautions: Do not map to sacred_combat or divine_intervention unless the passage
+    includes ritualized conflict, divine protection, or symbolic predator-prey reversal.
+  suggested_aliases:
+  - herd threatened by predators
+  - livestock endangered by wild animals
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paternal-rule-creating-dependency-and-collapse
+  motif_id: paternal_rule_creating_dependency_and_collapse
+  label: Paternal rule creating dependency and collapse
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label is an abstract social interpretation rather than a clear recurring
+    narrative motif.
+  cautions: Could involve royal_legitimacy, sacred_law, pride_and_downfall, or commentary
+    on social organization; source evidence is needed.
+  suggested_aliases:
+  - paternal authority causing dependency
+  - paternal rule leading to collapse
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paternal-totem-exogamy
+  motif_id: paternal_totem_exogamy
+  label: paternal totem exogamy
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: This appears to describe kinship or ethnographic social structure rather
+    than a mythic motif.
+  cautions: Culturally specific kinship terminology should be reviewed by a human;
+    may be excluded if it is only background social data.
+  suggested_aliases:
+  - paternal totemic exogamy
+  - totemic exogamy through paternal line
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.paternal-withholding-contrasted-with-maternal-aid
+  motif_id: paternal_withholding_contrasted_with_maternal_aid
+  label: paternal withholding contrasted with maternal aid
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The contrast between withholding father and helping mother is a family-role
+    pattern but not clearly covered by existing groups.
+  cautions: May fit miraculous_child, mother_goddess, sacred_exchange, or social-order
+    themes depending on whether the aid is divine, kinship-based, or narrative commentary.
+  suggested_aliases:
+  - withholding father and aiding mother
+  - maternal aid opposed to paternal refusal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.path-finding-by-celestial-and-environmental-signs
+  motif_id: path_finding_by_celestial_and_environmental_signs
+  label: path-finding by celestial and environmental signs
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: dream_and_vision
+  suggested_group_label: Dream, Vision, and Altered Perception
+  relationship: functional_variant
+  confidence: medium
+  rationale: Celestial and environmental signs guide orientation and reveal the correct
+    path, fitting sign-based perception and guidance.
+  cautions: If the emphasis is practical travel rather than sacred signs, it may be
+    a journey detail; if an established diviner interprets the signs, prophecy_divination
+    may be better.
+  suggested_aliases:
+  - pathfinding by signs
+  - navigation by celestial signs
+  - environmental signs guide the path
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patient-s-collapse-as-sign-that-the-correct-ceremony-has-been-found
+  motif_id: patient_s_collapse_as_sign_that_the_correct_ceremony_has_been_found
+  label: Patient’s collapse as sign that the correct ceremony has been found
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label concerns diagnostic ritual evidence and healing ceremony selection,
+    which existing groups do not cleanly capture.
+  cautions: Culturally sensitive healing-ceremony evidence requires human review;
+    avoid reducing it to dream/vision unless the collapse is explicitly a revelation
+    or omen.
+  suggested_aliases:
+  - patient collapse confirms correct ceremony
+  - collapse as diagnostic ritual sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patricidal-royal-succession
+  motif_id: patricidal_royal_succession
+  label: Patricidal royal succession
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: royal_legitimacy
+  suggested_group_label: Royal Legitimacy and Sacred Kingship
+  relationship: functional_variant
+  confidence: medium
+  rationale: Killing a father to obtain rule is a succession and legitimacy crisis
+    within royal order.
+  cautions: If moral punishment for patricide is central, divine_judgment should be
+    a secondary mapping; if the episode is only historical detail, keep granular.
+  suggested_aliases:
+  - patricide in royal succession
+  - king succeeds through killing father
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patrilineal-exogamous-clan-unit
+  motif_id: patrilineal_exogamous_clan_unit
+  label: patrilineal exogamous clan unit
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads as ethnographic kinship classification rather than a
+    symbolic or narrative motif.
+  cautions: If a myth explains the origin of the clan unit or exogamy rule, create
+    a separate motif for that etiological narrative.
+  suggested_aliases:
+  - patrilineal exogamous clan
+  - exogamous clan unit through paternal line
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.patron-preserver-secures-refuge-and-land-for-a-threatened-remnant
+  motif_id: patron_preserver_secures_refuge_and_land_for_a_threatened_remnant
+  label: Patron-preserver secures refuge and land for a threatened remnant
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A patron or preserving figure actively protects a threatened remnant
+    and provides refuge, matching supernatural or sacred aid in crisis.
+  cautions: If the remnant becomes seed for renewal after catastrophe, survivor_pair
+    or ark_vessel may be relevant; if the patron is a human political founder, royal_legitimacy
+    or culture_hero may fit better.
+  suggested_aliases:
+  - preserver secures refuge for remnant
+  - patron protects threatened remnant
+  - refuge and land for a surviving remnant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are single-occurrence kinship, ethnographic, or interpretive
+  classifications; these should not be promoted without passage evidence.
+- For culturally specific ritual-healing and kinship labels, human review is recommended
+  before broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; no taxonomy edits made.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3762
+  input_sha256: 410689593f412a60a3e9d4f71b66a698380cb23c8d6047c0c4cfb2ce37ccf233
+

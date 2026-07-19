@@ -1,0 +1,340 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0910
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.martial-rite-connected-with-pregnancy-fulfillment
+  motif_id: martial_rite_connected_with_pregnancy_fulfillment
+  label: Martial rite connected with pregnancy fulfillment
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines martial ritual and pregnancy fulfillment, but the
+    ritual function is unclear from wording alone.
+  cautions: Single occurrence; could involve fertility, protection, sacred law, sacrifice,
+    or a passage-specific rite. Needs source evidence before placement.
+  suggested_aliases:
+  - pregnancy_fulfillment_rite
+  - martial_pregnancy_rite
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mask_and-altar-preparation-before-ritual-performance
+  motif_id: mask_and_altar_preparation_before_ritual_performance
+  label: mask and altar preparation before ritual performance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label describes ritual preparation involving masks and altar, but
+    not enough function is given to map safely.
+  cautions: Culturally sensitive ceremonial material; avoid flattening specific rites
+    into generic sacrifice or sacred law without source review.
+  suggested_aliases:
+  - ritual_mask_and_altar_preparation
+  - preparation_of_masks_and_altar
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.mask_taboo-with-dangerous-adhesion-and-madness
+  motif_id: mask_taboo_with_dangerous_adhesion_and_madness
+  label: mask taboo with dangerous adhesion and madness
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: A taboo around dangerous ritual contact fits sacred law, purity danger,
+    and ritual prohibition patterns.
+  cautions: Mask specificity and madness consequence should be preserved; culturally
+    sensitive evidence may warrant human review before broad querying.
+  suggested_aliases:
+  - dangerous_mask_taboo
+  - ritual_mask_adheres_and_causes_madness
+  - mask_contact_taboo
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.masked-anthropic-gods-prepared-for-ritual-dance
+  motif_id: masked_anthropic_gods_prepared_for_ritual_dance
+  label: masked anthropic gods prepared for ritual dance
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label points to masked divine embodiment in ritual dance, but current
+    groups do not cleanly cover ceremonial personation.
+  cautions: Culturally sensitive ceremonial material; do not reduce to theophany unless
+    divine manifestation to witnesses is explicit.
+  suggested_aliases:
+  - masked_gods_in_ritual_dance
+  - masked_divine_dancers
+  - ritual_preparation_of_masked_gods
+  suggested_new_group:
+    id: ritual_masking_divine_personation
+    label: Ritual Masking and Divine Personation
+    description: Ceremonial masking, dance, procession, or performance in which ritual
+      actors embody, personate, or present divine or sacred beings and roles.
+    parent_group_ids:
+    - theophany
+    - sacred_law
+    related_group_ids:
+    - divine_intervention
+    - sacred_treasures
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover divine manifestation,
+      ritual law, and sacred objects, but not the recurring ceremonial function of
+      masked personation itself.
+- suggestion_id: normalization.suggestion.masked-ceremonial-characters-shared-across-rites
+  motif_id: masked_ceremonial_characters_shared_across_rites
+  label: masked ceremonial characters shared across rites
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe classification of ritual characters across ceremonies
+    rather than a narrative motif.
+  cautions: Could be a comparative or ethnographic indexing artifact; review source
+    context and cultural sensitivity before inclusion in pattern queries.
+  suggested_aliases:
+  - shared_masked_ceremonial_characters
+  - masked_rite_characters_across_ceremonies
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.masked-ceremonial-procession-with-attendants-and-ritual-implements
+  motif_id: masked_ceremonial_procession_with_attendants_and_ritual_implements
+  label: Masked ceremonial procession with attendants and ritual implements
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This is a detailed ceremonial-procession scene involving masks and implements,
+    but its symbolic function is unspecified.
+  cautions: Single, culturally specific ritual description; may be better preserved
+    as evidence detail under a future ritual masking/personation group.
+  suggested_aliases:
+  - masked_ritual_procession
+  - masked_procession_with_ritual_implements
+  - ceremonial_procession_with_masked_attendants
+  suggested_new_group:
+    id: ritual_masking_divine_personation
+    label: Ritual Masking and Divine Personation
+    description: Ceremonial masking, dance, procession, or performance in which ritual
+      actors embody, personate, or present divine or sacred beings and roles.
+    parent_group_ids:
+    - theophany
+    - sacred_law
+    related_group_ids:
+    - divine_intervention
+    - sacred_treasures
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover divine manifestation,
+      ritual law, and sacred objects, but not the recurring ceremonial function of
+      masked personation itself.
+- suggestion_id: normalization.suggestion.masked-dancers-representing-named-rite-characters
+  motif_id: masked_dancers_representing_named_rite_characters
+  label: masked dancers representing named rite characters
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: Masked dancers representing rite characters likely belongs to ceremonial
+    personation, a pattern not yet explicit as a group.
+  cautions: Culturally specific ritual performance; avoid indexing named ceremonial
+    characters without source-sensitive review.
+  suggested_aliases:
+  - masked_rite_dancers
+  - masked_dancers_as_ceremonial_characters
+  - ritual_character_personation_by_masked_dancers
+  suggested_new_group:
+    id: ritual_masking_divine_personation
+    label: Ritual Masking and Divine Personation
+    description: Ceremonial masking, dance, procession, or performance in which ritual
+      actors embody, personate, or present divine or sacred beings and roles.
+    parent_group_ids:
+    - theophany
+    - sacred_law
+    related_group_ids:
+    - divine_intervention
+    - sacred_treasures
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups cover divine manifestation,
+      ritual law, and sacred objects, but not the recurring ceremonial function of
+      masked personation itself.
+- suggestion_id: normalization.suggestion.masked-divine-embodiment
+  motif_id: masked_divine_embodiment
+  label: masked divine embodiment
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Masking and Divine Personation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: 'This concise label captures a distinct ritual pattern: a mask mediates
+    embodiment or personation of sacred presence.'
+  cautions: Do not equate automatically with theophany; human review should confirm
+    that personation or embodiment is the primary ritual function.
+  suggested_aliases:
+  - masked_divine_personation
+  - ritual_masked_embodiment
+  - divine_embodiment_through_mask
+  suggested_new_group:
+    id: ritual_masking_divine_personation
+    label: Ritual Masking and Divine Personation
+    description: Ceremonial masking, dance, procession, or performance in which ritual
+      actors embody, personate, or present divine or sacred beings and roles.
+    parent_group_ids:
+    - theophany
+    - sacred_law
+    related_group_ids:
+    - divine_intervention
+    - sacred_treasures
+    - sacred_combat
+    reason_existing_groups_insufficient: Theophany covers divine manifestation and
+      sacred_law covers ritual regulation, but neither preserves the specific ceremonial
+      mechanism of masked divine embodiment.
+- suggestion_id: normalization.suggestion.masked-divine-personation-as-warrior-enforcer
+  motif_id: masked_divine_personation_as_warrior_enforcer
+  label: Masked divine personation as warrior/enforcer
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: The label combines masked divine personation with a warrior/enforcer
+    role, crossing ritual and combat/judgment functions.
+  cautions: Review whether the emphasis is ceremonial embodiment, enforcement of ritual
+    order, or sacred combat; culturally sensitive ritual role.
+  suggested_aliases:
+  - masked_warrior_enforcer_personation
+  - masked_divine_warrior_personation
+  - ritual_warrior_enforcer_mask
+  suggested_new_group:
+    id: ritual_masking_divine_personation
+    label: Ritual Masking and Divine Personation
+    description: Ceremonial masking, dance, procession, or performance in which ritual
+      actors embody, personate, or present divine or sacred beings and roles.
+    parent_group_ids:
+    - theophany
+    - sacred_law
+    related_group_ids:
+    - divine_intervention
+    - sacred_treasures
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing divine_warrior and sacred_law groups
+      do not preserve the personation-through-mask mechanism.
+- suggestion_id: normalization.suggestion.masked-divine-personation-in-ceremony
+  motif_id: masked_divine_personation_in_ceremony
+  label: masked divine personation in ceremony
+  occurrences: 1
+  traditions:
+  - navajo
+  review_bucket_id: divine_ritual_sacrifice
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Ritual Masking and Divine Personation
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The motif clearly names ceremonial personation of divinity through masking,
+    a recurring cluster in this batch.
+  cautions: Culturally sensitive Navajo ceremonial material; final group creation
+    should be reviewed by humans and avoid exposing restricted details.
+  suggested_aliases:
+  - masked_divine_embodiment
+  - ceremonial_masked_personation
+  - divine_personation_by_masked_actor
+  suggested_new_group:
+    id: ritual_masking_divine_personation
+    label: Ritual Masking and Divine Personation
+    description: Ceremonial masking, dance, procession, or performance in which ritual
+      actors embody, personate, or present divine or sacred beings and roles.
+    parent_group_ids:
+    - theophany
+    - sacred_law
+    related_group_ids:
+    - divine_intervention
+    - sacred_treasures
+    - sacred_combat
+    reason_existing_groups_insufficient: Existing groups can hold adjacent meanings
+      but lose the distinctive ritual-performative mechanism of masked divine personation.
+batch_notes:
+- Several Native American Southwest/Navajo mask-related labels appear to form a recurring
+  cluster, but the material is culturally sensitive and should receive human review
+  before taxonomy changes or broad query exposure.
+- A possible new group, ritual_masking_divine_personation, is suggested only provisionally;
+  it should not be promoted without source review and sensitivity checks.
+- Labels that read like ethnographic descriptions of specific rites may need evidence-note
+  preservation rather than canonical motif promotion.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Draft normalization suggestions only; mask/personation cluster requires human
+    and culturally sensitive review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0910
+  input_sha256: 997e7a99f31832ccfa79e1934378480dc14cf908a40a3f7a546bce9dc50bd23e
+

@@ -1,0 +1,294 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3061
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.deferential-service-to-elders-and-superiors
+  motif_id: deferential_service_to_elders_and_superiors
+  label: Deferential service to elders and superiors
+  occurrences: 1
+  traditions:
+  - confucian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The label describes hierarchical ethical conduct and social obligation,
+    fitting sacred law/social order more than an inner-state motif.
+  cautions: Single Confucian occurrence; if the passage is purely didactic commentary
+    rather than narrative pattern, preserve as ethical evidence detail.
+  suggested_aliases:
+  - filial_deference_to_elders
+  - hierarchical_service_as_ethical_duty
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.demonic-manipulation-of-human-thought-away-from-virtue-and-religion
+  motif_id: demonic_manipulation_of_human_thought_away_from_virtue_and_religion
+  label: Demonic manipulation of human thought away from virtue and religion
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: uncertain
+  confidence: low
+  rationale: The motif concerns spiritual temptation against virtue, which may fit
+    sacred law, divine judgment, or duality depending on source framing.
+  cautions: Zoroastrian demonology and ethics may require culturally specific review;
+    do not collapse dualistic cosmic opposition into generic moral temptation without
+    evidence.
+  suggested_aliases:
+  - demonic_temptation_away_from_virtue
+  - evil_thoughts_diverting_from_religion
+  - demonic_promptings_against_righteousness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.desertion-followed-by-self-destruction
+  motif_id: desertion_followed_by_self_destruction
+  label: Desertion followed by self-destruction
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe guilt, moral consequence, social shame, or a passage-specific
+    plot outcome; existing groups do not clearly capture it from label alone.
+  cautions: Potentially sensitive and over-contextual; avoid indexing as divine judgment
+    unless sacred causality or moral reckoning is explicit.
+  suggested_aliases:
+  - self_destruction_after_desertion
+  - desertion_leading_to_suicide_or_ruin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.despised-stranger-aided-by-the-least-favored-servant
+  motif_id: despised_stranger_aided_by_the_least_favored_servant
+  label: despised stranger aided by the least-favored servant
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: A marginalized stranger receiving aid from an unlikely low-status helper
+    fits the stranger-guest hospitality test pattern.
+  cautions: If the focus is social status reversal or servant virtue rather than hospitality
+    to a stranger, sacred_law or divine_judgment may be secondary.
+  suggested_aliases:
+  - low_status_helper_aids_despised_stranger
+  - despised_stranger_helped_by_marginal_servant
+  - hospitality_to_despised_stranger
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devotional-humility-over-caste-status
+  motif_id: devotional_humility_over_caste_status
+  label: Devotional humility over caste status
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: The motif frames humility and devotion as overriding social hierarchy,
+    fitting ethical sacred order and social obligation.
+  cautions: Sikh anti-caste context should be preserved; avoid flattening into generic
+    hierarchy unless passage evidence supports broader comparison.
+  suggested_aliases:
+  - devotion_over_social_rank
+  - humility_over_caste_status
+  - devotional_equality_against_status_hierarchy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devotional-imitation-of-ascetic-practices
+  motif_id: devotional_imitation_of_ascetic_practices
+  label: Devotional imitation of ascetic practices
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Imitating ascetic practice as devotion belongs with disciplined spiritual
+    seeking and interior transformation.
+  cautions: If the passage criticizes mere imitation or focuses on monastic rule,
+    sacred_law or human review may be preferable.
+  suggested_aliases:
+  - devotional_ascetic_imitation
+  - imitating_ascetic_practice_as_devotion
+  - ascetic_discipline_as_devotional_model
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.devotional-service-through-righteousness
+  motif_id: devotional_service_through_righteousness
+  label: devotional service through righteousness
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Righteous conduct as devotional service fits ethical command and sacred
+    social order.
+  cautions: May also relate to covenant-like sacred obligation or duality in Zoroastrian
+    context; preserve local theological language.
+  suggested_aliases:
+  - righteousness_as_devotional_service
+  - devotion_expressed_through_righteous_action
+  - ethical_service_to_the_sacred
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.differentiated-inner-principles
+  motif_id: differentiated_inner_principles
+  label: Differentiated inner principles
+  occurrences: 1
+  traditions:
+  - greek
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_knowledge
+  suggested_group_label: Sacred Knowledge and Wisdom
+  relationship: uncertain
+  confidence: low
+  rationale: The label appears to describe philosophical anthropology or psychology
+    rather than a clear narrative motif.
+  cautions: Likely depends on source evidence; may be commentary, doctrine, wisdom
+    teaching, or too abstract for pattern queries.
+  suggested_aliases:
+  - distinct_inner_faculties
+  - parts_of_the_soul_or_inner_principles
+  - differentiated_psychic_principles
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.directional-self-identification-from-the-south
+  motif_id: directional_self_identification_from_the_south
+  label: directional self-identification from the south
+  occurrences: 1
+  traditions:
+  - native-american-great-lakes
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Directional identity may be cosmological, clan/geographic, ritual, or
+    passage-specific; no existing group is safe from label alone.
+  cautions: Culturally specific directional symbolism needs source review; do not
+    map to axis_mundi or sacred geography without explicit cosmological function.
+  suggested_aliases:
+  - self_identification_by_southern_direction
+  - southern_directional_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.discipline-of-the-dancer-s-body
+  motif_id: discipline_of_the_dancer_s_body
+  label: discipline of the dancer's body
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: uncertain
+  confidence: low
+  rationale: Bodily discipline in dance may be ritual training or initiation, but
+    the label alone does not show transformative ordeal or sacred function.
+  cautions: Could be ethnographic performance detail rather than motif; map only if
+    dance discipline marks ritual status, sacred power, or initiation.
+  suggested_aliases:
+  - ritual_discipline_of_the_dancing_body
+  - dance_body_discipline
+  - bodily_training_for_sacred_dance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels in this batch are ethical, philosophical, or ethnographic abstractions
+  with single occurrences; preserve local evidence and avoid over-promoting them as
+  canonical motifs.
+- For culturally specific traditions, especially Indigenous directional symbolism
+  and Zoroastrian demonological ethics, human review should verify source context
+  before broad indexing.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; multiple items require source-context
+    review due to abstraction, cultural specificity, or single occurrence.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3061
+  input_sha256: f4a062afa4f56532b3da5e63672ad96a8fec226267094565334dfb1c7280cce8
+

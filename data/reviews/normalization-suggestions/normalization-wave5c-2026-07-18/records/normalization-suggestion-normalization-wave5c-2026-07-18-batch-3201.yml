@@ -1,0 +1,320 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3201
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.bounded-enclosure-protecting-cultivated-religious-space
+  motif_id: bounded_enclosure_protecting_cultivated_religious_space
+  label: bounded enclosure protecting cultivated religious space
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: functional_variant
+  confidence: medium
+  rationale: A bounded cultivated religious space likely functions as a protected
+    sacred center or ordered ritual landscape.
+  cautions: Single occurrence; if the evidence is mainly architectural, monastic,
+    or agricultural regulation rather than sacred-center symbolism, sacred_law or
+    exclusion may fit better.
+  suggested_aliases:
+  - protected_sacred_enclosure
+  - bounded_religious_garden
+  - sacred_enclosure_protecting_cultivated_space
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.boys-identified-with-the-pleiades
+  motif_id: boys_identified_with_the_pleiades
+  label: Boys identified with the Pleiades
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: death_and_transformation
+  suggested_group_label: Death, Rebirth, and Transformation
+  relationship: symbolic_variant
+  confidence: low
+  rationale: Human figures identified with a star cluster may indicate catasterism
+    or transformation into celestial form.
+  cautions: 'Source context is needed: this could be clan identity, calendrical astronomy,
+    origin myth, or a passage-specific ethnographic note rather than postmortem transformation.'
+  suggested_aliases:
+  - human_identification_with_pleiades
+  - boys_as_pleiades
+  - celestial_identification_with_star_cluster
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_time
+    - cosmic_origin
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.branching-of-an-original-religious-community-into-multiple-schools
+  motif_id: branching_of_an_original_religious_community_into_multiple_schools
+  label: Branching of an original religious community into multiple schools
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes institutional or doctrinal history rather than a
+    symbolic or narrative motif.
+  cautions: Preserve as historical/contextual metadata if needed; do not use as motif
+    evidence without a mythic narrative pattern.
+  suggested_aliases:
+  - religious_community_divides_into_schools
+  - sectarian_branching_from_original_community
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bravery-qualification-for-a-closing-solo-dance
+  motif_id: bravery_qualification_for_a_closing_solo_dance
+  label: bravery qualification for a closing solo dance
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This appears to be a culturally specific ritual-performance rule linking
+    bravery, honor, and dance.
+  cautions: Could belong with divine_warrior, sacred_combat, initiation, or sacred_law
+    depending on whether the dance encodes martial honor, rite of passage, or ceremonial
+    protocol. Requires culturally careful review.
+  suggested_aliases:
+  - bravery_required_for_solo_dance
+  - martial_honor_qualification_for_ceremonial_dance
+  - closing_solo_dance_for_brave_participant
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - divine_warrior
+    - sacred_combat
+    - initiation
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.breach-of-entrusted-transport-and-multiplied-restitution
+  motif_id: breach_of_entrusted_transport_and_multiplied_restitution
+  label: breach of entrusted transport and multiplied restitution
+  occurrences: 1
+  traditions:
+  - mesopotamian
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: functional_variant
+  confidence: medium
+  rationale: Entrusted goods and multiplied restitution are legal-social order concerns
+    fitting sacred law and obligations.
+  cautions: If the passage is only a law-code clause without narrative or mythic function,
+    it may be better treated as legal evidence rather than motif pattern.
+  suggested_aliases:
+  - breach_of_entrustment_with_multiplied_restitution
+  - entrusted_transport_violation_repaid_multiple_fold
+  - restitution_for_breach_of_entrusted_transport
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - covenant
+    - betrayal_violated_trust
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.breach-of-feast-hospitality-leading-to-feud
+  motif_id: breach_of_feast_hospitality_leading_to_feud
+  label: breach of feast hospitality leading to feud
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: hospitality_test_stranger_guest
+  suggested_group_label: Hospitality Test and Stranger Guest
+  relationship: functional_variant
+  confidence: medium
+  rationale: The breach of feast hospitality makes violated guest-host obligation
+    the narrative trigger for conflict.
+  cautions: If the feud itself is central, sacred_combat or betrayal_violated_trust
+    may be important secondary mappings; confirm whether a guest/host test is present.
+  suggested_aliases:
+  - violated_feast_hospitality_triggers_feud
+  - hospitality_breach_leads_to_feud
+  - broken_feast_obligation_as_feud_cause
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - betrayal_violated_trust
+    - sacred_combat
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.breach-of-trust-over-entrusted-property
+  motif_id: breach_of_trust_over_entrusted_property
+  label: breach of trust over entrusted property
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: needs_human_sorting
+  suggested_action: map_to_existing_group
+  suggested_group_id: betrayal_violated_trust
+  suggested_group_label: Betrayal and Violated Trust
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is violation of an entrusted relationship through mishandled
+    property.
+  cautions: May be a moral exemplum or legal detail; if the passage emphasizes restitution
+    or rule rather than betrayal, sacred_law may be the better parent.
+  suggested_aliases:
+  - entrusted_property_betrayed
+  - breach_of_entrusted_property
+  - violation_of_property_trust
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - covenant
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.breakaway-resistance-community-relocates-to-a-frontier-refuge
+  motif_id: breakaway_resistance_community_relocates_to_a_frontier_refuge
+  label: breakaway resistance community relocates to a frontier refuge
+  occurrences: 1
+  traditions:
+  - native_american_southeast
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label describes communal relocation to a protective frontier space,
+    but the motif function is unclear.
+  cautions: Could be historical migration, ethnographic summary, resistance narrative,
+    exile/refuge motif, or sacred geography. Avoid mapping without source evidence.
+  suggested_aliases:
+  - resistance_community_relocates_to_refuge
+  - breakaway_group_founds_frontier_refuge
+  - communal_refuge_at_frontier
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - otherworld
+    - royal_legitimacy
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.breath-activated-eagle-bone-dance-whistle
+  motif_id: breath_activated_eagle_bone_dance_whistle
+  label: breath-activated eagle-bone dance whistle
+  occurrences: 1
+  traditions:
+  - native-american-plains
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: This is a specific ritual sound object; it may involve sacred music,
+    breath, eagle symbolism, or ceremonial performance.
+  cautions: Highly culturally specific and object-specific; do not collapse into enchanting_music
+    unless the whistle has supernatural sound-power function in the evidence.
+  suggested_aliases:
+  - eagle_bone_dance_whistle
+  - breath_activated_ritual_whistle
+  - ceremonial_eagle_bone_whistle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - enchanting_music
+    - sacred_treasures
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.breath-gesture-at-parting
+  motif_id: breath_gesture_at_parting
+  label: Breath gesture at parting
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: needs_human_sorting
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: ritual_variant
+  confidence: low
+  rationale: A breath gesture at farewell may be ritualized relational exchange, blessing,
+    or life-force symbolism.
+  cautions: Single culturally specific gesture; source context needed before mapping
+    to sacred_exchange, curse_blessing_speech, soul belief, or excluding as ethnographic
+    detail.
+  suggested_aliases:
+  - parting_breath_gesture
+  - farewell_breath_rite
+  - breath_as_parting_sign
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_exchange
+    - curse_blessing_speech
+    - soul_loss_restoration
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and culturally specific; human review should
+  check whether labels represent source motifs, ritual practices, historical summaries,
+  or generated over-specific artifacts.
+- Where legal or institutional labels appear, treat them as motif evidence only if
+  the passage frames them narratively, ritually, or symbolically rather than as plain
+  historical/legal data.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placement suggestions only; culturally specific ritual and ethnographic
+    labels require source-aware review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3201
+  input_sha256: e9e010b47c9ea645980d33cfeda403370cc1269a5eb70cea0a291f2fb82543ea
+

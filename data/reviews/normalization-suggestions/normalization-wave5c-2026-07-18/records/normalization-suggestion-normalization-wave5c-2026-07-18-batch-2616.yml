@@ -1,0 +1,285 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2616
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.baptized-pagan-deity-and-saint-hero-syncretism
+  motif_id: baptized_pagan_deity_and_saint_hero_syncretism
+  label: Baptized pagan deity and saint-hero syncretism
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: high
+  rationale: The label describes syncretic interpretation or reception history rather
+    than a narrative motif in the passage.
+  cautions: If the source actually narrates a deity becoming a saint or hero, review
+    under divine_intervention, culture_hero, or royal_legitimacy instead; avoid transmission
+    claims here.
+  suggested_aliases:
+  - pagan_deity_saint_syncretism
+  - saint_hero_syncretism
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.barbed-spear-as-source-of-military-reach
+  motif_id: barbed_spear_as_source_of_military_reach
+  label: Barbed spear as source of military reach
+  occurrences: 1
+  traditions:
+  - micronesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: A weapon whose form grants special military capacity fits power objects
+    more than general battle.
+  cautions: Single occurrence and object-specific; if no supernatural or authority-conferring
+    power is present, it may be only an equipment detail.
+  suggested_aliases:
+  - barbed_spear_power_object
+  - special_spear_confers_military_reach
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bargained-guide-with-deferred-reward
+  motif_id: bargained_guide_with_deferred_reward
+  label: bargained guide with deferred reward
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: The core pattern is negotiated guidance in exchange for a promised later
+    reward.
+  cautions: Could belong under hero_journey if the guide enables a quest, or covenant
+    if the deferred reward is a binding vow; source context is needed.
+  suggested_aliases:
+  - guide_bargain_with_deferred_payment
+  - deferred_reward_for_guidance
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.barren-joyless-forest-as-ordeal-landscape
+  motif_id: barren_joyless_forest_as_ordeal_landscape
+  label: barren joyless forest as ordeal landscape
+  occurrences: 1
+  traditions:
+  - arthurian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: initiation
+  suggested_group_label: Initiation and Transformative Ordeal
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A desolate forest functioning as an ordeal setting fits transformative
+    trial and threshold experience.
+  cautions: May be an over-specific landscape detail unless the forest clearly tests
+    or changes the figure; could overlap with otherworld in Arthurian contexts.
+  suggested_aliases:
+  - desolate_forest_ordeal
+  - waste_forest_as_trial_landscape
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.bath-proposed-as-identity-test
+  motif_id: bath_proposed_as_identity_test
+  label: bath proposed as identity test
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: The bath functions as a proposed test for revealing or verifying hidden
+    identity.
+  cautions: If the bath primarily purifies, heals, or transforms rather than identifies,
+    sacred_waters, sacred_law, or shapeshifter may fit better.
+  suggested_aliases:
+  - bath_as_identity_test
+  - washing_test_reveals_identity
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle
+  motif_id: battle
+  label: Battle
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: broader_label
+  confidence: low
+  rationale: The label is a broad conflict term and best fits the general sacred combat
+    facet if battle is ritually or cosmically meaningful.
+  cautions: Too generic without passage evidence; if it is merely an event label,
+    consider excluding from pattern queries or preserving only as context.
+  suggested_aliases:
+  - combat
+  - warfare
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-associated-marea
+  motif_id: battle_associated_marea
+  label: Battle-associated marea
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The term 'marea' is culturally specific and unclear from the label alone.
+  cautions: Requires source review to determine whether this is a person, place, ritual
+    object, spirit, battle role, or local term; avoid flattening culturally specific
+    meaning.
+  suggested_aliases:
+  - marea_associated_with_battle
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-at-the-liminal-shoreline
+  motif_id: battle_at_the_liminal_shoreline
+  label: Battle at the liminal shoreline
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: narrower_than
+  confidence: medium
+  rationale: A battle staged at a boundary landscape fits sacred or ritualized combat
+    with liminal setting preserved as detail.
+  cautions: If the shoreline is more important as a water-crossing threshold than
+    as combat setting, sacred_waters or threshold_guardian may be relevant secondary
+    mappings.
+  suggested_aliases:
+  - shoreline_battle_as_liminal_boundary
+  - combat_at_liminal_shore
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-contortion-before-combat
+  motif_id: battle_contortion_before_combat
+  label: battle-contortion before combat
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_warrior
+  suggested_group_label: Divine Warrior and Sacred Combat
+  relationship: functional_variant
+  confidence: medium
+  rationale: A warrior's pre-combat bodily transformation or battle-frenzy fits the
+    divine warrior/heroic combat complex.
+  cautions: Could also map to shapeshifter if the contortion is a true bodily metamorphosis
+    rather than martial arousal; preserve Irish-specific battle-contortion evidence.
+  suggested_aliases:
+  - pre_combat_battle_contortion
+  - warrior_battle_frenzy_transformation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.battle-delayed-for-favourable-omen
+  motif_id: battle_delayed_for_favourable_omen
+  label: battle delayed for favourable omen
+  occurrences: 1
+  traditions:
+  - celtic_irish
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: high
+  rationale: Waiting for an auspicious sign before battle is divinatory decision-making
+    around combat.
+  cautions: If the omen is a spontaneous dream or vision rather than systematic divination,
+    dream_and_vision may be a secondary fit.
+  suggested_aliases:
+  - battle_delayed_for_auspicious_omen
+  - combat_timed_by_favorable_omen
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence and should preserve local evidence rather than
+  become new canonical motifs.
+- Conflict-bucket labels often split between sacred_combat, divine_warrior, sacred_treasures,
+  and prophecy_divination depending on narrative function.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; human review recommended for culturally specific
+    or overly broad labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2616
+  input_sha256: 721d5fc3dfa393e566c111fb9eba411b75041beea6608cbfeb485a844d50d81d
+

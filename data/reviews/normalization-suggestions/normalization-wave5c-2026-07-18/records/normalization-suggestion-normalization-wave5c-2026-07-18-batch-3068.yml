@@ -1,0 +1,317 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-3068
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.feared-cure-or-dangerous-remedy
+  motif_id: feared_cure_or_dangerous_remedy
+  label: Feared cure or dangerous remedy
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label could describe healing, ordeal, discipline, or a narrative
+    warning about a remedy; no existing group clearly fits without source context.
+  cautions: Single occurrence and abstract wording; avoid forcing into sacred_substance
+    or initiation unless the passage shows a ritual substance, healing ordeal, or
+    transformative test.
+  suggested_aliases:
+  - dangerous_remedy
+  - feared_healing_remedy
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_substance
+    - initiation
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-magician-obeyed-by-the-people
+  motif_id: feared_magician_obeyed_by_the_people
+  label: feared magician obeyed by the people
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: A feared ritual specialist with social authority may involve sacred power,
+    coercion, or local social order, but the function is unclear from the label alone.
+  cautions: Culturally sensitive specialist category; review source language before
+    grouping under trickster, sacred_law, divine_intervention, or social power.
+  suggested_aliases:
+  - feared_magician_social_authority
+  - magical_specialist_obeyed_by_people
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - divine_intervention
+    - trickster
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-marginal-magical-specialist
+  motif_id: feared_marginal_magical_specialist
+  label: feared marginal magical specialist
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: The label identifies a socially marginal magical role, not a clear narrative
+    motif or existing group placement.
+  cautions: Sensitive ethnographic wording; may be a social-role description rather
+    than motif. Needs evidence of function such as healing, curse, protection, or
+    transgression.
+  suggested_aliases:
+  - marginal_magical_specialist
+  - feared_ritual_specialist
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - curse_blessing_speech
+    - divine_intervention
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-protector-repels-supernatural-pursuers
+  motif_id: feared_protector_repels_supernatural_pursuers
+  label: Feared protector repels supernatural pursuers
+  occurrences: 1
+  traditions:
+  - native-american-northeast-woodlands
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: functional_variant
+  confidence: medium
+  rationale: A protective figure repelling supernatural pursuers fits supernatural
+    aid or intervention in danger.
+  cautions: If the protector is primarily a boundary figure, threshold_guardian may
+    be secondary; if fear of the protector is central social commentary, review context.
+  suggested_aliases:
+  - supernatural_protector_repels_pursuers
+  - protector_against_supernatural_pursuit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - threshold_guardian
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-sorcerer-outsiders
+  motif_id: feared_sorcerer_outsiders
+  label: feared sorcerer outsiders
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: role_variant
+  confidence: low
+  rationale: The label describes feared outsider sorcerers as a social category, but
+    not enough narrative function is given for a stable motif mapping.
+  cautions: Culturally sensitive and possibly ethnographic stereotype or passage artifact;
+    confirm whether source describes actual curse, threat, boundary crossing, or outsider
+    danger.
+  suggested_aliases:
+  - outsider_sorcerers_feared
+  - feared_sorcerer_outsiders
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - threshold_guardian
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-sorcerer-placated-by-gifts
+  motif_id: feared_sorcerer_placated_by_gifts
+  label: Feared sorcerer placated by gifts
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: functional_variant
+  confidence: medium
+  rationale: Placating a dangerous ritual specialist through gifts fits exchange used
+    to manage sacred or supernatural danger.
+  cautions: Could instead be social coercion, tribute, or ethnographic detail; review
+    whether the gift exchange is ritualized or narratively central.
+  suggested_aliases:
+  - placating_sorcerer_with_gifts
+  - gifts_to_appease_feared_sorcerer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - sacred_law
+    - curse_blessing_speech
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-unknown-land-and-rumoured-dangerous-inhabitants
+  motif_id: feared_unknown_land_and_rumoured_dangerous_inhabitants
+  label: Feared unknown land and rumoured dangerous inhabitants
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Fear of an unknown land may be journey ordeal, boundary anxiety, or rumor
+    motif, but the label lacks a clear supernatural or transformative function.
+  cautions: May be a passage-specific travel detail; map to hero_journey only if entering
+    the land creates an ordeal or transformation.
+  suggested_aliases:
+  - unknown_land_with_dangerous_inhabitants
+  - rumoured_dangerous_land
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - hero_journey
+    - threshold_guardian
+    - otherworld
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.feared-wizard-silences-accusers
+  motif_id: feared_wizard_silences_accusers
+  label: Feared wizard silences accusers
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may involve magical coercion, social fear, or suppression of
+    testimony, but no existing group clearly captures it without evidence.
+  cautions: Culturally sensitive specialist terminology; if silence is produced by
+    curse or speech act, curse_blessing_speech may be appropriate; if by social power,
+    it may be non-motif detail.
+  suggested_aliases:
+  - wizard_silences_accusers
+  - magical_specialist_suppresses_accusation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - curse_blessing_speech
+    - sacred_law
+    - divine_judgment
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fearful-misreading-of-hunting-signs
+  motif_id: fearful_misreading_of_hunting_signs
+  label: Fearful misreading of hunting signs
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: map_to_existing_group
+  suggested_group_id: prophecy_divination
+  suggested_group_label: Prophecy and Systematic Divination
+  relationship: functional_variant
+  confidence: medium
+  rationale: Misreading signs in a hunting context belongs with omen interpretation
+    or divinatory reading of signs.
+  cautions: If signs are ordinary tracking evidence rather than sacred omens, this
+    may be a contextual hunting-error detail rather than a motif.
+  suggested_aliases:
+  - misread_hunting_omens
+  - fearful_misinterpretation_of_hunting_signs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - dream_and_vision
+    - sacred_law
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.fearful-refusal-after-supernatural-discovery
+  motif_id: fearful_refusal_after_supernatural_discovery
+  label: fearful refusal after supernatural discovery
+  occurrences: 1
+  traditions:
+  - slavic
+  review_bucket_id: ethics_psychology_inner_life
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: A fearful refusal following supernatural discovery could be failed initiation,
+    avoidance of otherworld contact, or simple plot reaction.
+  cautions: Single occurrence and psychologically phrased; map to initiation only
+    if refusal marks a threshold ordeal or transformation.
+  suggested_aliases:
+  - refusal_after_supernatural_discovery
+  - fearful_rejection_of_supernatural_knowledge
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids:
+    - initiation
+    - sacred_knowledge
+    - otherworld
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels center on feared magical specialists; these should be reviewed for
+  culturally sensitive terminology and for whether they are true motifs or ethnographic/social-role
+  descriptions.
+- Single-occurrence fear-based labels are often contextual reactions; prefer human
+  review unless a clear narrative function such as protection, exchange, omen-reading,
+  or threshold ordeal is present.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source evidence needed for most fear/magical-specialist
+    labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-3068
+  input_sha256: 4650830471dea264fe9083a72a02c6e0876a40ec49a000328b576195a6e5e2dd
+

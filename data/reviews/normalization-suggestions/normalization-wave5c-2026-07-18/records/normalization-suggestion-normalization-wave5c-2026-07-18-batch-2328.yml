@@ -1,0 +1,287 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2328
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.conditional-fire-presentation-formula
+  motif_id: conditional_fire_presentation_formula
+  label: Conditional fire-presentation formula
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: ritual_variant
+  confidence: low
+  rationale: Fire presentation likely concerns sacred fire as ritual medium or divine
+    presence, but the label sounds formulaic and context-dependent.
+  cautions: Single occurrence; may be a liturgical-text formula rather than a reusable
+    motif. Zoroastrian ritual specificity should be reviewed by a human.
+  suggested_aliases:
+  - fire_presentation_formula
+  - ritual_fire_presentation
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conduct-test-through-an-object-placed-in-water
+  motif_id: conduct_test_through_an_object_placed_in_water
+  label: Conduct test through an object placed in water
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: low
+  rationale: The core function appears to be testing conduct, with water and an object
+    as the testing medium.
+  cautions: Could instead be sacred_waters, sacred_treasures, ordeal, divination,
+    or a passage-specific ritual detail; source evidence is needed.
+  suggested_aliases:
+  - water_object_conduct_test
+  - conduct_ordeal_by_object_in_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.confession-acknowledgment-and-future-restraint
+  motif_id: confession_acknowledgment_and_future_restraint
+  label: confession, acknowledgment, and future restraint
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Confession and restraint describe ethical discipline and corrective conduct
+    within a sacred normative order.
+  cautions: Bucket assignment to nature/cosmos seems accidental. If framed as karmic
+    consequence or moral reckoning, divine_judgment may be a secondary fit.
+  suggested_aliases:
+  - confession_and_restraint
+  - acknowledgment_of_fault_and_future_restraint
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-between-sky-or-thunder-power-and-underwater-power
+  motif_id: conflict_between_sky_or_thunder_power_and_underwater_power
+  label: Conflict between sky or thunder power and underwater power
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: duality
+  suggested_group_label: Duality and Cosmic Opposition
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers on opposed cosmic powers arranged as sky/thunder versus
+    underwater forces.
+  cautions: If the source describes actual battle establishing order, divine_warrior
+    or sacred_combat may be better; avoid assuming chaoskampf without evidence.
+  suggested_aliases:
+  - sky_thunder_underwater_conflict
+  - conflict_of_sky_and_underwater_powers
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conflict-causing-flight-and-resettlement
+  motif_id: conflict_causing_flight_and_resettlement
+  label: conflict causing flight and resettlement
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: hero_journey
+  suggested_group_label: The Hero's Journey
+  relationship: functional_variant
+  confidence: low
+  rationale: Flight and resettlement are a departure/exile pattern caused by conflict.
+  cautions: May be historical migration, ethnographic memory, or plot detail rather
+    than a mythic journey; review before broad query use.
+  suggested_aliases:
+  - conflict_driven_flight_and_resettlement
+  - flight_and_resettlement_after_conflict
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.conquered-enemy-represented-by-a-tree-log-in-a-victory-procession
+  motif_id: conquered_enemy_represented_by_a_tree_log_in_a_victory_procession
+  label: Conquered enemy represented by a tree log in a victory procession
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: ritual_variant
+  confidence: low
+  rationale: A victory procession representing a defeated enemy belongs most closely
+    to ritualized warfare and victory display.
+  cautions: Highly specific and culturally contextual; tree-log representation may
+    be ritual substitution, effigy, trophy, or local ceremonial detail. Do not map
+    to sacred_tree_axis unless cosmic tree function is present.
+  suggested_aliases:
+  - enemy_effigy_in_victory_procession
+  - conquered_enemy_represented_by_log
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.consecrated-cosmic-and-natural-elements
+  motif_id: consecrated_cosmic_and_natural_elements
+  label: Consecrated cosmic and natural elements
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: Consecration of natural elements likely reflects purity, ritual order,
+    and sacred regulation of the material world.
+  cautions: Very broad label; could split among sacred_fire, sacred_waters, sacred_law,
+    or cosmology depending on which elements and ritual actions are involved.
+  suggested_aliases:
+  - consecrated_natural_elements
+  - ritual_consecration_of_elements
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.consecrated-earth-and-four-winds-cosmogram
+  motif_id: consecrated_earth_and_four_winds_cosmogram
+  label: Consecrated earth and four-winds cosmogram
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A consecrated earth-and-winds cosmogram likely marks ordered sacred space
+    and cosmic orientation.
+  cautions: If the passage emphasizes creation rather than ritual space, cosmic_origin
+    may be secondary. Cultural and ceremonial specificity warrants review.
+  suggested_aliases:
+  - four_winds_cosmogram
+  - consecrated_cosmogram_of_earth_and_winds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.consecrated-medicine-water-for-seeing-and-removing-disease
+  motif_id: consecrated_medicine_water_for_seeing_and_removing_disease
+  label: Consecrated medicine water for seeing and removing disease
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Consecrated water used for healing and diagnosis fits sacred waters as
+    purifier and transformative ritual medium.
+  cautions: The diagnostic seeing function may also relate to dream_and_vision or
+    sacred_knowledge; culturally specific medicine-water rites should not be overgeneralized.
+  suggested_aliases:
+  - medicine_water_for_healing_and_seeing
+  - consecrated_healing_water
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.consecrated-medicine-water-with-music-and-stones
+  motif_id: consecrated_medicine_water_with_music_and_stones
+  label: Consecrated medicine water with music and stones
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: sacred_waters
+  suggested_group_label: Sacred Waters and Passage Through Water
+  relationship: ritual_variant
+  confidence: low
+  rationale: Medicine water is the central ritual medium, while music and stones appear
+    as accompanying consecrating elements.
+  cautions: 'Composite label may need multiple mappings: sacred_waters, enchanting_music,
+    sacred_treasures, or sacred_law. Human review should verify the dominant function.'
+  suggested_aliases:
+  - medicine_water_with_music_and_stones
+  - consecrated_healing_water_with_stones_and_song
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items in this batch are single-occurrence, culturally specific ritual labels
+  from Native American Southwest or Northwest Coast materials; treat placements as
+  provisional and avoid collapsing ceremonial details into broad natural-symbol groups
+  without source review.
+- The review bucket nature_elements_cosmos appears too broad for some ethical or ritual-discipline
+  labels; suggested placements prioritize function over bucket assignment.
+- No transmission or borrowing claims are implied by these normalization suggestions.
+reviewer_status:
+  status: needs_human_review
+  reviewer: ai_normalization_assistant
+  reviewed_at: ''
+  notes: Provisional batch suggestions generated for taxonomy review; culturally specific
+    ritual and formulaic labels require human validation.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2328
+  input_sha256: 5da90ae6c6e1162e04733f8f96b1c922336f4fde505d0ef091e736722bdd1b15
+

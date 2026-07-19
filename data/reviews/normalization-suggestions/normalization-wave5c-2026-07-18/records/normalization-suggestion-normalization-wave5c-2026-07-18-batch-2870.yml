@@ -1,0 +1,293 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2870
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.weapon-preparation-with-bodily-cost
+  motif_id: weapon_preparation_with_bodily_cost
+  label: weapon preparation with bodily cost
+  occurrences: 1
+  traditions:
+  - arctic-inuit
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could involve sacred craft, sacrifice, ordeal, or ordinary combat preparation
+    depending on what bodily cost means in context.
+  cautions: Single occurrence and culturally specific; avoid mapping to sacrifice
+    or sacred_combat without passage evidence that the bodily cost has ritual or narrative
+    significance.
+  suggested_aliases:
+  - costly_weapon_preparation
+  - weapon_making_with_bodily_sacrifice
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-price-measured-by-a-pile-of-furs
+  motif_id: weapon_price_measured_by_a_pile_of_furs
+  label: weapon price measured by a pile of furs
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: over_specific_label
+  confidence: medium
+  rationale: The label reads as a local economic or episode detail about valuation
+    rather than a recurring mythic pattern.
+  cautions: If the weapon price functions as a sacred exchange, bride-price, ordeal,
+    or status test in the source, reconsider under sacred_exchange or sacred_treasures.
+  suggested_aliases:
+  - weapon_valuation_by_furs
+  - fur_price_for_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-received-as-an-innocuous-cane-used-for-killing
+  motif_id: weapon_received_as_an_innocuous_cane_used_for_killing
+  label: weapon received as an innocuous cane used for killing
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: An innocuous object revealed as a deadly weapon fits a power-object motif
+    more than general combat.
+  cautions: Could instead be trickster or deceptive stratagem if the emphasis is concealment
+    and deceit rather than the object's special power.
+  suggested_aliases:
+  - disguised_weapon_as_cane
+  - innocuous_object_revealed_as_weapon
+  - cane_used_as_hidden_weapon
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-recognition-catalogue
+  motif_id: weapon_recognition_catalogue
+  label: Weapon recognition catalogue
+  occurrences: 1
+  traditions:
+  - hindu
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: Could be a literary catalogue, recognition-token sequence, or sacred
+    weapons inventory; the function is unclear from the label alone.
+  cautions: If it is merely a passage structure or list, exclude as textual artifact;
+    if weapons prove identity or authority, consider recognition_tokens_hidden_identity
+    or sacred_treasures.
+  suggested_aliases:
+  - catalogue_of_recognized_weapons
+  - recognition_by_weapons
+  - weapon_inventory_catalogue
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-retained-within-the-vessel
+  motif_id: weapon_retained_within_the_vessel
+  label: Weapon retained within the vessel
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_vessel
+  suggested_group_label: Sacred Vessel and Container
+  relationship: functional_variant
+  confidence: medium
+  rationale: The key image is a weapon contained or held within a vessel, aligning
+    with containers that hold dangerous or transformative power.
+  cautions: If the vessel is incidental and the motif is about weapon ownership or
+    battle tactics, sacred_treasures or sacred_combat may fit better.
+  suggested_aliases:
+  - weapon_in_vessel
+  - weapon_contained_in_sacred_vessel
+  - stored_weapon_in_container
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-reversal-in-combat
+  motif_id: weapon_reversal_in_combat
+  label: weapon reversal in combat
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: alias
+  confidence: medium
+  rationale: Existing aliases include hostile weapon turned back upon attacker, a
+    close reversal pattern often treated as judgment or retributive reversal.
+  cautions: If no moral or divine reversal is present and it is only a combat tactic,
+    sacred_combat may be the better broad group.
+  suggested_aliases:
+  - hostile_weapon_turned_back_upon_attacker
+  - weapon_turned_back_upon_attacker
+  - combat_weapon_reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-sentinels-warn-of-danger
+  motif_id: weapon_sentinels_warn_of_danger
+  label: Weapon sentinels warn of danger
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_treasures
+  suggested_group_label: Sacred Treasures and Power Objects
+  relationship: functional_variant
+  confidence: medium
+  rationale: Weapons acting as sentinels or warning agents function as empowered objects
+    with protective agency.
+  cautions: Could overlap with divine_intervention if the warning is from a spirit
+    or deity through the weapon; verify whether the weapon itself is animate or sacred.
+  suggested_aliases:
+  - warning_weapon_sentinels
+  - animate_weapons_warn_of_danger
+  - protective_weapons_as_sentinels
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-stratagem-followed-by-failed-spear-cast
+  motif_id: weapon_stratagem_followed_by_failed_spear_cast
+  label: weapon stratagem followed by failed spear-cast
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: over_specific_label
+  confidence: low
+  rationale: A failed spear-cast after a stratagem is a granular combat episode best
+    held under the broader combat group if retained.
+  cautions: Likely too episode-specific for pattern queries unless the failed weapon-cast
+    recurs; preserve as evidence detail rather than promoting.
+  suggested_aliases:
+  - failed_spear_cast_after_stratagem
+  - weapon_stratagem_and_failed_cast
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-substitution-causing-failed-combat
+  motif_id: weapon_substitution_causing_failed_combat
+  label: weapon substitution causing failed combat
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Substitution of a weapon altering combat outcome fits the broader combat
+    stratagem and ritual warfare complex.
+  cautions: If the substituted weapon is a sacred or identity-bearing object, sacred_treasures
+    or recognition_tokens_hidden_identity may be relevant secondary mappings.
+  suggested_aliases:
+  - substituted_weapon_causes_defeat
+  - weapon_exchange_causes_failed_combat
+  - wrong_weapon_leads_to_combat_failure
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.weapon-test-turned-against-the-tester-s-side
+  motif_id: weapon_test_turned_against_the_tester_s_side
+  label: weapon test turned against the tester’s side
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: conflict_violence_ordeal
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_judgment
+  suggested_group_label: Divine Judgment and Moral Reckoning
+  relationship: functional_variant
+  confidence: medium
+  rationale: A test or weapon action turning back against its initiator matches reversal
+    and retributive judgment patterns.
+  cautions: If the episode is merely technical failure without moral reversal, sacred_combat
+    or sacred_treasures may be better.
+  suggested_aliases:
+  - weapon_test_rebounds_on_tester
+  - test_weapon_turns_against_own_side
+  - weapon_trial_reversal
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Most labels in this batch are single-occurrence weapon or combat details; avoid
+  promoting new canonical groups without recurrence across sources.
+- Several items may depend on whether the weapon is a sacred power object, a combat
+  tactic, or a passage-specific prop.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source context needed for culturally specific
+    weapon episodes.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2870
+  input_sha256: 6ebb4a1f82ff7f177c6d916c5128a3116f483975a211542b89dab1d870d4eab7
+

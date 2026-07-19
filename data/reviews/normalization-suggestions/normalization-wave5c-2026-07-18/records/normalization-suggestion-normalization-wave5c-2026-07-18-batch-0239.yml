@@ -1,0 +1,290 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0239
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.kin-death-triggering-collective-vengeance
+  motif_id: kin_death_triggering_collective_vengeance
+  label: Kin death triggering collective vengeance
+  occurrences: 1
+  traditions:
+  - roman
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: A death among kin becomes the trigger for collective retaliation, fitting
+    vengeance-driven conflict more than afterlife or mortuary care.
+  cautions: Single occurrence; if emphasis is mourning or family obligation rather
+    than armed retaliation, lament_and_mourning or covenant may be secondary.
+  suggested_aliases:
+  - kin_death_as_vengeance_trigger
+  - collective_vengeance_for_dead_kin
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-hasten-death-of-suffering-elder
+  motif_id: kin_hasten_death_of_suffering_elder
+  label: kin hasten death of suffering elder
+  occurrences: 1
+  traditions:
+  - chaco-amerindian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label may describe end-of-life ritual, mercy killing, ethnographic
+    practice, or passage-specific action; taxonomy placement depends heavily on source
+    context.
+  cautions: Culturally sensitive and single occurrence; avoid normalizing as sacrifice,
+    sacred law, or death transformation without evidence of ritual meaning.
+  suggested_aliases:
+  - kin_assisted_death_of_suffering_elder
+  - end_of_life_kin_intervention
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-helper-s-refusal-of-rescue-and-death-in-flames
+  motif_id: kin_helper_s_refusal_of_rescue_and_death_in_flames
+  label: Kin-helper's refusal of rescue and death in flames
+  occurrences: 1
+  traditions:
+  - norse
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: functional_variant
+  confidence: medium
+  rationale: Refusing rescue and accepting death in flames suggests voluntary self-surrender
+    or loyalty unto death.
+  cautions: Could instead be heroic death, fire catastrophe, or passage-specific plot
+    detail if no sacrificial or vow-bound function is present.
+  suggested_aliases:
+  - refusal_of_rescue_and_death_in_flames
+  - loyal_kin_helper_accepts_fiery_death
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-managed-deathbed-care-and-corpse-preparation
+  motif_id: kin_managed_deathbed_care_and_corpse_preparation
+  label: kin-managed deathbed care and corpse preparation
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Kin care at death and preparation of the corpse fits ritual management
+    of relations between living and dead.
+  cautions: If the passage only records ordinary ethnographic procedure without symbolic
+    or ritual function, consider excluding from pattern queries.
+  suggested_aliases:
+  - kin_deathbed_care
+  - kin_corpse_preparation
+  - family_mortuary_care
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-or-phratry-appearing-in-death-context
+  motif_id: kin_or_phratry_appearing_in_death_context
+  label: Kin or phratry appearing in death context
+  occurrences: 1
+  traditions:
+  - native_american_northwest_coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: _meta_textual
+  suggested_group_label: Textual and Scholarly Artifacts
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The wording is a vague contextual tag about social affiliation appearing
+    near death, not a clear narrative or ritual motif.
+  cautions: If source evidence describes a specific mortuary role for kin or phratry,
+    remap to ancestor_rites or heroic_funeral_rites after review.
+  suggested_aliases:
+  - kin_or_phratry_in_death_context
+  - social_group_reference_in_death_context
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-performed-corpse-toilette-and-adornment
+  motif_id: kin_performed_corpse_toilette_and_adornment
+  label: kin-performed corpse toilette and adornment
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: ancestor_rites
+  suggested_group_label: Ancestor Rites and Feeding the Dead
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Corpse washing, toilette, and adornment by kin are mortuary-care acts
+    maintaining proper relations with the dead.
+  cautions: May be too granular if only a descriptive funerary detail; heroic_funeral_rites
+    could apply if the deceased is a hero or ruler.
+  suggested_aliases:
+  - corpse_toilette_by_kin
+  - kin_adornment_of_corpse
+  - mortuary_body_preparation_by_relatives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-urgently-summon-a-theurgist-for-a-dying-child
+  motif_id: kin_urgently_summon_a_theurgist_for_a_dying_child
+  label: Kin urgently summon a theurgist for a dying child
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: ritual_variant
+  confidence: low
+  rationale: Summoning a sacred specialist for a dying child points to requested supernatural
+    healing or intervention.
+  cautions: The term theurgist may be generated or culturally imprecise; could be
+    passage-specific medical/ritual care rather than a durable motif.
+  suggested_aliases:
+  - kin_summon_ritual_specialist_for_dying_child
+  - sacred_healer_called_for_dying_child
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kin-vengeance-for-murdered-ancestors-or-relatives
+  motif_id: kin_vengeance_for_murdered_ancestors_or_relatives
+  label: Kin vengeance for murdered ancestors or relatives
+  occurrences: 1
+  traditions:
+  - native-american-northwest-coast
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_combat
+  suggested_group_label: Sacred Combat and Ritual Warfare
+  relationship: functional_variant
+  confidence: medium
+  rationale: Vengeance for murdered kin or ancestors is a retaliatory conflict pattern
+    linked to bloodline obligation.
+  cautions: If the dead themselves demand or enact vengeance, restless_dead_haunting_vengeance
+    may be relevant; if framed as legal duty, sacred_law or covenant may be secondary.
+  suggested_aliases:
+  - vengeance_for_murdered_kin
+  - blood_vengeance_for_ancestors
+  - kin_revenge_for_dead_relatives
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.kinship-recognition-through-naming-the-maternal-ancestor
+  motif_id: kinship_recognition_through_naming_the_maternal_ancestor
+  label: Kinship recognition through naming the maternal ancestor
+  occurrences: 1
+  traditions:
+  - zulu
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: recognition_tokens_hidden_identity
+  suggested_group_label: Recognition Tokens and Identity Proofs
+  relationship: functional_variant
+  confidence: medium
+  rationale: Naming an ancestor functions as proof of kinship or identity, analogous
+    to other recognition tokens and identity proofs.
+  cautions: If the focus is ancestor veneration rather than identity proof, ancestor_rites
+    may be a secondary mapping.
+  suggested_aliases:
+  - recognition_by_maternal_ancestor_name
+  - ancestor_name_as_kinship_proof
+  - kinship_proof_by_ancestor_naming
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.laid-aside-burden-of-completed-spiritual-task
+  motif_id: laid_aside_burden_of_completed_spiritual_task
+  label: laid-aside burden of completed spiritual task
+  occurrences: 1
+  traditions:
+  - buddhist
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: mystical_quest
+  suggested_group_label: Mystical Quest and Interior Journey
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The image of laying aside a burden after completing a spiritual task
+    fits liberation or completion on an interior religious path.
+  cautions: May be an abstract doctrinal metaphor rather than narrative motif; if
+    tied to death or final release, death_and_transformation could be secondary.
+  suggested_aliases:
+  - burden_laid_down_after_spiritual_completion
+  - completion_of_spiritual_task_as_burden_released
+  - spiritual_burden_laid_aside
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several items are single-occurrence kinship-and-death labels; source context should
+  decide whether they are mortuary motifs, social details, or passage artifacts.
+- Do not infer transmission or cultural borrowing from shared placement under combat,
+  ancestor rites, or mystical quest.
+reviewer_status:
+  status: needs_human_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional normalization suggestions only; culturally sensitive death-care
+    and healing labels require human review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0239
+  input_sha256: 63af2c9f15eb9d295a3d71f8b7d4f053d56975f42ce537160d67dac3a404c62e
+

@@ -1,0 +1,325 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-2400
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.four-direction-fires-with-the-sun-as-fifth
+  motif_id: four_direction_fires_with_the_sun_as_fifth
+  label: Four-direction fires with the sun as fifth
+  occurrences: 1
+  traditions:
+  - sikh
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_fire
+  suggested_group_label: Sacred Fire and Divine Light
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: The label centers fire and sun/light as sacred cosmological elements,
+    fitting the sacred_fire group.
+  cautions: Four-direction structure may indicate a cosmological direction schema
+    not currently separated; single occurrence and tradition-specific framing need
+    review.
+  suggested_aliases:
+  - directional_sacred_fires
+  - sun_as_fifth_fire
+  - four_fires_and_sun
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-direction-mountain-setting
+  motif_id: four_direction_mountain_setting
+  label: Four-direction mountain setting
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: axis_mundi
+  suggested_group_label: World Axis and Sacred Center
+  relationship: symbolic_variant
+  confidence: medium
+  rationale: A mountain setting organized by the four directions likely functions
+    as sacred geography or world-center imagery.
+  cautions: If the label is merely a scene description without sacred-center function,
+    it may be too contextual; culturally specific directional systems should be reviewed
+    carefully.
+  suggested_aliases:
+  - four_direction_sacred_mountain
+  - directional_mountain_setting
+  - four_quarters_mountain
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-direction-rain-invocation
+  motif_id: four_direction_rain_invocation
+  label: four-direction rain invocation
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_exchange
+  suggested_group_label: Sacred Exchange and Reciprocity
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Rain invocation is a ritual petition or reciprocal appeal to sacred powers,
+    matching sacred_exchange more than generic water symbolism.
+  cautions: May also relate to sacred_waters or divine_intervention if the evidence
+    emphasizes rain as sacred water or direct divine provision; review Indigenous
+    ritual context sensitively.
+  suggested_aliases:
+  - directional_rain_invocation
+  - rain_invocation_to_four_directions
+  - four_quarters_rain_prayer
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-direction-tree-action
+  motif_id: four_direction_tree_action
+  label: four-direction tree action
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label combines tree, four directions, and unspecified action; function
+    cannot be inferred from wording alone.
+  cautions: Could fit axis_mundi, sacred_tree_axis, ritual action, or a passage artifact
+    depending on what the tree does; preserve source detail for review.
+  suggested_aliases:
+  - directional_tree_rite
+  - four_direction_tree_ritual
+  - four_quarters_tree_action
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-direction-wind-powers
+  motif_id: four_direction_wind_powers
+  label: Four-direction wind powers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Directional Elemental Powers
+  relationship: child
+  confidence: medium
+  rationale: Personified or empowered winds of the four directions are not cleanly
+    covered by sacred_waters, sacred_fire, or axis_mundi; the directional elemental
+    structure is the key motif.
+  cautions: Human review should decide whether enough four-direction elemental labels
+    recur to justify a group; avoid flattening culturally specific directional cosmologies.
+  suggested_aliases:
+  - four_winds
+  - directional_wind_powers
+  - winds_of_the_four_directions
+  suggested_new_group:
+    id: directional_elemental_powers
+    label: Directional Elemental Powers
+    description: Natural powers such as winds, rain, fire, lightning, mountains, or
+      celestial beings are organized by the four directions or cosmic quarters and
+      act as sacred forces, attendants, messengers, or ritual recipients.
+    parent_group_ids:
+    - duality
+    - cosmic_origin
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - axis_mundi
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover individual elements
+      or sacred center imagery but not the recurring organization of elemental powers
+      by the four directions.
+- suggestion_id: normalization.suggestion.four-direction-wind-powers-as-cosmic-messengers
+  motif_id: four_direction_wind_powers_as_cosmic_messengers
+  label: four-direction wind powers as cosmic messengers
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: divine_intervention
+  suggested_group_label: Divine Intervention and Guidance
+  relationship: role_variant
+  confidence: medium
+  rationale: The messenger function aligns with divine_intervention, while the winds
+    are natural or sacred agents carrying communication.
+  cautions: Could be a child of a future directional_elemental_powers group if that
+    group is accepted; review whether the winds are personified beings, directions,
+    or ritual speech images.
+  suggested_aliases:
+  - directional_wind_messengers
+  - four_winds_as_messengers
+  - cosmic_messenger_winds
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-directional-colored-lightning-attendants
+  motif_id: four_directional_colored_lightning_attendants
+  label: four-directional colored lightning attendants
+  occurrences: 1
+  traditions:
+  - native_american_southwest
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: new_group_candidate
+  suggested_group_id: ''
+  suggested_group_label: Directional Elemental Powers
+  relationship: child
+  confidence: medium
+  rationale: Colored lightning attendants organized by directions point to directional
+    elemental or weather powers rather than a generic fire/light motif.
+  cautions: May involve culturally specific ceremonial color-direction correspondences;
+    source review is needed before broad indexing.
+  suggested_aliases:
+  - directional_lightning_attendants
+  - colored_lightning_of_four_directions
+  - four_quarters_lightning_beings
+  suggested_new_group:
+    id: directional_elemental_powers
+    label: Directional Elemental Powers
+    description: Natural powers such as winds, rain, fire, lightning, mountains, or
+      celestial beings are organized by the four directions or cosmic quarters and
+      act as sacred forces, attendants, messengers, or ritual recipients.
+    parent_group_ids:
+    - duality
+    - cosmic_origin
+    related_group_ids:
+    - sacred_waters
+    - sacred_fire
+    - axis_mundi
+    - divine_intervention
+    - sacred_exchange
+    reason_existing_groups_insufficient: Existing groups cover individual elements
+      or sacred center imagery but not the recurring organization of elemental powers
+      by the four directions.
+- suggestion_id: normalization.suggestion.four-directional-sleep-through-narrated-winds
+  motif_id: four_directional_sleep_through_narrated_winds
+  label: Four-directional sleep through narrated winds
+  occurrences: 1
+  traditions:
+  - native_american_plains
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: needs_human_review
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: uncertain
+  confidence: low
+  rationale: The label mixes narration, sleep, winds, and four-directional structure;
+    the primary motif function is unclear.
+  cautions: Could fit dream_and_vision, storytelling_as_power, enchanting_music, or
+    directional elemental powers depending on evidence; may be an over-specific passage
+    label.
+  suggested_aliases:
+  - sleep_by_four_winds_narration
+  - narrated_four_winds_sleep
+  - directional_winds_induce_sleep
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-directional-star-chieftains
+  motif_id: four_directional_star_chieftains
+  label: Four directional star chieftains
+  occurrences: 1
+  traditions:
+  - zoroastrian
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: supreme_ruler
+  suggested_group_label: Supreme Ruler and Cosmic Sovereignty
+  relationship: role_variant
+  confidence: low
+  rationale: Star chieftains suggest celestial rulership or cosmic governance, closest
+    to supreme_ruler among existing groups.
+  cautions: Could instead require a celestial-order or directional-cosmic-powers group;
+    review Zoroastrian source evidence before mapping chieftains to sovereignty.
+  suggested_aliases:
+  - directional_star_rulers
+  - four_star_chieftains
+  - stars_as_directional_chiefs
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.four-element-formation-of-the-cosmos
+  motif_id: four_element_formation_of_the_cosmos
+  label: Four-element formation of the cosmos
+  occurrences: 1
+  traditions:
+  - hermetic
+  review_bucket_id: nature_elements_cosmos
+  suggested_action: map_to_existing_group
+  suggested_group_id: cosmic_origin
+  suggested_group_label: Cosmic Origin and Creation
+  relationship: narrower_than
+  confidence: high
+  rationale: The motif explicitly concerns formation of the cosmos from elemental
+    principles, fitting cosmic_origin.
+  cautions: If the passage focuses on doctrine of elements rather than creation narrative,
+    preserve as philosophical cosmology detail rather than a new canonical motif.
+  suggested_aliases:
+  - cosmos_formed_from_four_elements
+  - four_elements_cosmogony
+  - elemental_creation_of_cosmos
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- Several labels cluster around four-direction or directional elemental cosmology.
+  Consider human review for a possible directional_elemental_powers group if this
+  pattern recurs across batches.
+- Do not infer historical contact or shared origin from similar four-direction structures;
+  these suggestions are only taxonomy placements.
+- Native American Southwest and Plains directional/color/weather motifs may be culturally
+  specific ceremonial knowledge; review source context carefully before broad normalization.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional batch suggestions only; directional elemental cluster flagged
+    for taxonomy review.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-2400
+  input_sha256: a97c52ee171a656477bf0f29bad532cb2b597132f6ef14b7ae9c54a655eea94c
+

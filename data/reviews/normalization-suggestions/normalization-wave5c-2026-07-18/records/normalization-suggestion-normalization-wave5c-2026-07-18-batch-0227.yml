@@ -1,0 +1,306 @@
+---
+suggestion_batch_id: normalization.suggestion.normalization-wave5c-2026-07-18.batch-0227
+gap_audit_path: data/indexes/normalization-gap-audit.yml
+normalization_path: taxonomy/motif-normalization.yml
+taxonomy_path: taxonomy/motifs.yml
+suggestions:
+- suggestion_id: normalization.suggestion.illness-attributed-to-malign-spirits
+  motif_id: illness_attributed_to_malign_spirits
+  label: Illness attributed to malign spirits
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: Existing sacrifice group already contains illness/misfortune attributed
+    to harmful spirits and treated by expulsion; this label fits that spirit-affliction
+    complex.
+  cautions: Only map here if the passage includes ritual treatment, expulsion, or
+    spirit-affliction logic; otherwise it may be a belief note rather than a motif.
+  suggested_aliases:
+  - illness_caused_by_malign_spirits
+  - spirit_caused_illness
+  - illness_attributed_to_harmful_spirits
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illness-attributed-to-spirits-or-harmful-magic
+  motif_id: illness_attributed_to_spirits_or_harmful_magic
+  label: Illness attributed to spirits or harmful magic
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: The label concerns culturally specific illness causation by spirits or
+    harmful magic, close to existing spirit-contagion and apotropaic-protection material
+    under sacred_law.
+  cautions: Could also fit sacrifice/ritual expulsion if treatment involves removal
+    of spirits; source evidence is needed because this may be an ethnographic belief
+    statement rather than a narrative motif.
+  suggested_aliases:
+  - illness_caused_by_spirits_or_magic
+  - spirit_or_magic_caused_illness
+  - illness_from_harmful_magic
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illness-caused-by-an-enemy-sent-evil-spirit
+  motif_id: illness_caused_by_an_enemy_sent_evil_spirit
+  label: Illness caused by an enemy-sent evil spirit
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacred_law
+  suggested_group_label: Sacred Law and Social Order
+  relationship: ritual_variant
+  confidence: low
+  rationale: This is a harmful-spirit affliction and protective/contagion concern,
+    which the current normalization folds under sacred_law when framed as ritual danger
+    or apotropaic practice.
+  cautions: The enemy-sent element may point to sorcery or hostile magic; consider
+    sacrifice/ritual expulsion if the passage emphasizes removal, or human review
+    if it is mainly a local etiological belief.
+  suggested_aliases:
+  - enemy_sent_spirit_causes_illness
+  - sorcery_spirit_caused_illness
+  - illness_from_enemy_sent_evil_spirit
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illness-caused-by-dream-or-soul-absence
+  motif_id: illness_caused_by_dream_or_soul_absence
+  label: Illness caused by dream or soul absence
+  occurrences: 1
+  traditions:
+  - andamanese
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: high
+  rationale: Illness caused by absent soul directly matches the soul_loss_restoration
+    group, which covers lost, wandering, displaced, or stolen life-force needing restoration.
+  cautions: Dream causation may also involve dream_and_vision; keep the dream detail
+    as evidence unless the passage centers on altered perception rather than soul
+    absence.
+  suggested_aliases:
+  - illness_from_soul_absence
+  - dream_caused_soul_loss_illness
+  - soul_absence_causes_illness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illness-caused-by-loss-or-taking-of-a-spiritual-component
+  motif_id: illness_caused_by_loss_or_taking_of_a_spiritual_component
+  label: Illness caused by loss or taking of a spiritual component
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: high
+  rationale: Loss or taking of a spiritual component causing illness is the core logic
+    of soul loss or stolen life-force.
+  cautions: If the component is stored externally as a durable life-token, external_soul
+    may be a secondary mapping; if the focus is healing rite, preserve restoration
+    evidence.
+  suggested_aliases:
+  - illness_from_loss_of_spiritual_component
+  - spiritual_component_taken_causes_illness
+  - stolen_soul_component_causes_illness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illness-caused-by-malevolent-spiritual-beings
+  motif_id: illness_caused_by_malevolent_spiritual_beings
+  label: illness caused by malevolent spiritual beings
+  occurrences: 1
+  traditions:
+  - melanesian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: sacrifice
+  suggested_group_label: Sacrifice and Offering
+  relationship: ritual_variant
+  confidence: medium
+  rationale: The existing sacrifice group includes spirit-affliction and expulsion
+    labels for illness or misfortune attributed to harmful spiritual beings.
+  cautions: If no ritual expulsion, substitute, or treatment is present, this may
+    be only a causation belief; sacred_law may be preferable for apotropaic or purity
+    framing.
+  suggested_aliases:
+  - illness_from_malevolent_spirits
+  - illness_caused_by_harmful_spiritual_beings
+  - spirit_affliction_illness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illness-followed-by-monitored-recovery-and-return-to-work
+  motif_id: illness_followed_by_monitored_recovery_and_return_to_work
+  label: illness followed by monitored recovery and return to work
+  occurrences: 1
+  traditions:
+  - native-american-southwest
+  review_bucket_id: death_descent_afterlife
+  suggested_action: exclude_from_pattern_queries
+  suggested_group_id: ''
+  suggested_group_label: ''
+  relationship: meta_artifact
+  confidence: medium
+  rationale: The label reads like a clinical, ethnographic, or passage-specific recovery
+    sequence rather than a symbolic motif.
+  cautions: If the passage includes ritual reintegration after spirit illness, human
+    reviewers could reconsider under initiation, sacred_law, or soul_loss_restoration;
+    as written it is too administrative/contextual.
+  suggested_aliases:
+  - monitored_recovery_after_illness
+  - return_to_work_after_illness
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.illness-or-death-caused-by-absence-of-the-soul
+  motif_id: illness_or_death_caused_by_absence_of_the_soul
+  label: illness or death caused by absence of the soul
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: soul_loss_restoration
+  suggested_group_label: Soul Loss and Restoration
+  relationship: functional_variant
+  confidence: high
+  rationale: Soul absence causing illness or death is a direct instance of soul loss
+    as dangerous displacement of vital force.
+  cautions: The comparative tradition tag suggests possible scholarly generalization;
+    verify that it reflects source evidence rather than a catalog note.
+  suggested_aliases:
+  - soul_absence_causes_illness_or_death
+  - illness_and_death_from_soul_loss
+  - death_from_absent_soul
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.image-maker-steals-or-masters-the-soul
+  motif_id: image_maker_steals_or_masters_the_soul
+  label: image-maker steals or masters the soul
+  occurrences: 1
+  traditions:
+  - amazonian
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: medium
+  rationale: Soul mastery through an image treats the soul as separable and controllable
+    through an external representation, aligning with external_soul logic.
+  cautions: Could also relate to sacred_craft or sacred_law if image-making taboo
+    or ritual regulation is central; culturally sensitive source context should be
+    reviewed.
+  suggested_aliases:
+  - image_maker_controls_the_soul
+  - image_making_as_soul_capture
+  - soul_mastered_through_image
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+- suggestion_id: normalization.suggestion.image-taking-as-soul-seizure-or-fatal-control
+  motif_id: image_taking_as_soul_seizure_or_fatal_control
+  label: Image-taking as soul seizure or fatal control
+  occurrences: 1
+  traditions:
+  - comparative
+  review_bucket_id: death_descent_afterlife
+  suggested_action: map_to_existing_group
+  suggested_group_id: external_soul
+  suggested_group_label: External Soul and Life-Token
+  relationship: functional_variant
+  confidence: high
+  rationale: The label explicitly describes seizure or fatal control of the soul through
+    an external image, matching separable-soul and life-token patterns.
+  cautions: The comparative tag may indicate a generalized scholarly motif; verify
+    local evidence and avoid flattening culturally distinct image taboos.
+  suggested_aliases:
+  - image_taking_as_soul_capture
+  - photographic_or_image_soul_seizure
+  - image_based_fatal_soul_control
+  suggested_new_group:
+    id: ''
+    label: ''
+    description: ''
+    parent_group_ids: []
+    related_group_ids: []
+    reason_existing_groups_insufficient: ''
+batch_notes:
+- 'Several illness labels overlap three existing areas: soul_loss_restoration for
+  absent or stolen soul components, sacrifice for spirit-affliction treated by expulsion,
+  and sacred_law for apotropaic or taboo regulation. Human review should use passage
+  evidence to choose among these rather than relying on illness wording alone.'
+- Labels involving image-making and soul capture are culturally sensitive and should
+  preserve local terminology and context; mapping to external_soul is only a functional
+  normalization, not a claim of shared origin.
+reviewer_status:
+  status: ready_for_taxonomy_review
+  reviewer: gpt-5.6-terra
+  reviewed_at: ''
+  notes: Provisional placements only; source evidence needed especially for single-occurrence
+    ethnographic illness-causation labels.
+suggested_by: openai_batch:gpt-5.5
+suggested_at: '2026-07-19'
+batch:
+  run_id: normalization-wave5c-2026-07-18
+  custom_id: normalization_suggestion:normalization-suggestion-normalization-wave5c-2026-07-18-batch-0227
+  input_sha256: bceb5660588731f7f73749746d40aa523b5753871bc70b738dad6584f91b136c
+
